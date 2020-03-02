@@ -21,12 +21,11 @@ BAM2
 1. Migrate the Medial Device tool on eBenefits to VA.gov.
 2. Migrate current orders from other DLC channels to the online channel
 3. Have 27,000 online orders per quarter. 
-4. Reduce the complexity associated with ordering a renew supply of hearing aids/prosthetic socks.
+4. Reduce the complexity associated with ordering a renew supply of hearing aids/hearing aid accessories.
 
 From DLC
 Primary Objectives:
-- Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
-- Add online resupply request capability for common hearing aid accessories
+- Transition hearing aid battery and accessories resupply ordering from eBenefits to VA.gov
 - Minimize need for Veteran data entry in online channel
 - Maximize DLC processing of requests via automated methods
  
@@ -42,7 +41,6 @@ _What are the major user and business pain points along the entirety of the serv
 2. Not knowing the status of his order until it arrives
 3. Not being able to order online because he couldn't get into eBenefits
 4. Needing to reference packaging in order to remember order items
-5. Seeing many different socks in eBenefits and having difficulties telling them apart
 6. Being unable to order his hearing aid accessories through eBenefits
 
 

@@ -21,7 +21,7 @@ Number of VFS teams that use the Product Success Tool to make product decisions.
 
 ## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
 The goal of this stage is to ensure the tool is holistically ready for production launch
-- [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md) "relevant" items complete
+- [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md) "relevant" items complete
     - [ ] Accessibility/508 Review
     - [ ] Content Review
     - [ ] KPIs set

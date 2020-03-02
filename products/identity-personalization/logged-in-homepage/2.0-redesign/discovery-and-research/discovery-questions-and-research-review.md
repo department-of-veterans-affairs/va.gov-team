@@ -16,17 +16,46 @@ Past research
 - My VA research
   - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
   
+## Product questions we're trying to answer
+
+We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
+
+To help us figure this out, we'd like to better understand:
+
+- Why people come to VA.gov.
+- What people do on VA.gov
+- How people move through the site.
+- How people use the homepage.
+- How people use My VA.
+- Areas for improvement for existing functionality.
+- How people's experience with the site might change if we had a proper notification system.
+
 ## Questions
 
 ### Analytics
 
-- What are the top 10 — 20  pages visited on VA.gov?
-  - We should see if this is any different than what is on the homepage now.
-- What are the top 10 – 20 logged in tools visited?
-- What are the top 10 – 20 search terms?
-- What are the top 10 – 20 entry points for VA.gov?
+#### General
+
+- What are the top ~20  pages visited on VA.gov?
+  - How does this change if we look at top pages for logged out users vs. logged in users?
+- What are the top ~20 search terms on VA.gov?
+- What are the top ~20 entry points for VA.gov?
 - After people enter the site, what is the next thing they do?
-  - Why: This tells us where people go after the entry point to help us know more fully what they may be trying to do. Or, we - What are the top links clicked from My VA?
+- % of traffic by device (desktop; tablet; mobile).
+
+#### Homepage
+
+- What page do people visit BEFORE the homepage?
+- How often is the homepage people's first entry point?
+- What links do people click from the homepage?
+- How many people visit the homepage?
+
+#### My VA
+
+- What page do people visit BEFORE My VA?
+- Is My VA ever a first entry point?
+- What do people do from My VA? (ie. what links do they click?)
+- How many people visit My VA? 
 
 ### User research/interviews
 
@@ -35,9 +64,14 @@ Past research
 - Why do people go to My VA?
 - What makes the logged in homepage useful now? What would make it more useful?
 - What makes My VA useful? What would make it more useful than it is now?
-- Where do people expect to see/receive notifications? 
+- Where do people expect to see/receive notifications? How would notifications be most helpful to people?
 - What do they expect to see on a logged in homepage?
 - Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
+- Why do people come to VA.gov? What do they want to do?
+- What is the balance between dashboard vs. router?
+- What are the main things people do on VA digital tools/VA.gov? 
+- Pain points 
+- Do people trust the data they see on VA.gov?
 
 ## Hypotheses to test
 

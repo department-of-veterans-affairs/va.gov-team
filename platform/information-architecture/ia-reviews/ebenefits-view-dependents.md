@@ -1,4 +1,4 @@
-# IA Review and Recommendations - DRAFT
+# IA Review and Recommendations
 
 **Team:** eBenefits
 
@@ -7,54 +7,67 @@
 **Background/Context:**
 - One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. 
  - Initial functionality being built will be to view dependents only, with the intent that the ability to add and modify dependents will come later. 
- - There is no current plans for this capability to impact benefits beyond disability. 
+ - There is no current plans for this capability to impact benefits beyond disability, but this should not necessarily be ruled out.
  - The tool will require authentication to utilize. 
 
-**Review Date:** In Progress
+**Review Date:** Complete, 2/25/2020
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545
+
+<hr>
 
 ### IA Structure, Flow, URLs and Breadcrumbs <br>  
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
-- Given this tool is behind authentication, our standard approach is to create a static page available to unauthenticated users and optimized for search
-- The static page will live at the root level of the site and the View Depedendents tool will be nested below the static page
-- This page will need to include a sign-in CTA module.  If a user visits this page and is already authenticated, they should be automatically directed to the tool. 
-- If the user tires to access the tool URL directly and is not authenticated, they should be automatically redirected to the static page.
+**Approach:**
+- Given this tool is behind authentication, our standard approach is to create a static page available to unauthenticated users that allows stakeholders to manage content and messaging and provides an SEO landing page. 
+- Although the tool content is primarily related to disability benefits, the tool will live independent of the benefit hubs to allow for any future growth/expansion of the tool and to support a future streamlined authenticated user experience. 
 
+Visual representation of pages in the site map: https://app.moqups.com/Rnc4BDEKrA/view/page/abd763ecc
 
-**Page 1:** Static view dependents page <br>
-URL: www.va.gov/view-dependents/
-Breadcrumb:  Home > View dependents
+Page | URL | Breadcrumb
+--- | --- | ---
+View Dependents static page | www.va.gov/view-dependents | Home > View your dependents
+Vew Dependents tool | www.va.gov/view-dependents/dependents | Home > Your VA dependents
+ 
+**General Details**
+- Label used in breadcrumb should closely match H1, work with your writer to finalize. 
+- Breadcrumb for the tool does not need to represent the static page in the hierarchy since that page is a pass-through for authenticated users.
+- Because these pages are outside of the benefit hubs, there is no left nav on neither static page nor the tool.
+- The static page will need to include a sign-in CTA module. 
+- If an authenticated user lands on the static page URL, they will bypass the static the page and be taken directly to the tool
+- If an unauthenticated user lands directly on the tool URL, they should be redirected to the static page.  
 
-**Page 2:** View dependents tool <br>
-URL: www.va.gov/view-dependents/dependents/
-Breadcrumb:  Home > View dependents > Your VA dependents
+<hr>
 
+### Navigation, Entry Points and Crosslinking
+*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-### Navigation/Entry Points
+**Entry point and crosslinking placement**
 
-**Primary** <br>
-*The primary entry points and changes to global navigation*
+Priority | Placement | Description
+--- | --- | ---
+High | https://www.va.gov/disability/add-remove-dependent/ | Add link within content for users to view dependents that are currently on their disability compensation. 
+Medium | Disability hub left nav | An option can be added to the left nav just below the Add dependents option.  Since this tool does not live in Disability this is not required. 
+Medium | https://www.va.gov/disability/ | A link to View dependents could be added to the Manage benefits section of the disability hub page.  However, the standard max links on this page per section is 10 and this page is already at 11. Links in the list should be prioritized in terms of usage and this additional link should only be added if 2 other links can be removed.  Placement would be immediately after the Add dependent option.  Link label and teaser text will be required. 
+Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
+Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations. 
 
-- Primary entry points will be within the Disability hub given this information is primarily for disability benefits. 
+The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
 
-
-**Crosslinking** <br>
-*Recommendations for potential cross-linking opportunities.  This can be reviewed and modified/added to by the working team.*
-
-
+<hr>
 
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
+- It is assumed that the technical team for eBenefits will handle the redirect of the legacy tool URLs when the tool is sunset.  The VA.gov team is unable to implement redirects for ebenefits.va.gov URLs. 
+
+<hr>
 
 ### Additional Recommendations
 
+<hr>
 
 ### Questions/Open Issues
-- Does this tool share a single static page with the add/remove dependents form?  Will need to clarify to determine if this option needs to be added to the disability hub
-- Determine if link should be added to left nav in Disability
-- Review breadcrumb labels against final copy/H1s
-- Confirm if eBen team is handling redirect process from old tool on eBen to new page
+
 

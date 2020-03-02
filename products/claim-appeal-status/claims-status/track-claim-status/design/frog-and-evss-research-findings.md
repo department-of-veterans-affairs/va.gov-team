@@ -18,7 +18,7 @@ All of the steps that are the same between claim types should be presented the s
 ### General Info / Themes
 
 - The most used features in eBenefits are Claim Status and Uploading Documents 
-- Many will call the call center even if they've looked at eBenefits - don't trust the information
+- Many will call the contact center even if they've looked at eBenefits - don't trust the information
 - Themes from Stakeholder & SME interviews:
   - Status in layman's terms
   - Explain what is being done during these steps / what is happening
@@ -51,7 +51,7 @@ Veterans want meaningful descriptions and more specific details about what is ha
 
 #### Veterans have to ask staff for more detail
 
-Veterans check the status of their claims frequently and through multiple channels, often still call VA or VSO staff or visit in person to get the detail they want, as typically the call-center representatives can't access that information.
+Veterans check the status of their claims frequently and through multiple channels, often still call VA or VSO staff or visit in person to get the detail they want, as typically the contact-center representatives can't access that information.
 
 #### Veterans don't know what VA is doing
 

@@ -46,7 +46,7 @@
       - [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/README.md)
       - [Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/readme.md)
           - [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/readme.md)
-          - [Call Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/README.md)
+          - [Contact Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/README.md)
       - [Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/README.md)
       - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md)
       - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md)

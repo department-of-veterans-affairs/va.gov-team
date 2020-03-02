@@ -16,7 +16,7 @@ Questions? Contact Shawna Hein.
 There is a required basic process to follow for planning and executing design research on VA.gov applications under the Veteran-facing Services Applications (VSA) contract. The Digital Experience and Product Office (DEPO, formerly DSVA) updated process document can be found  [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Please read that process doc first and then read this document for more tips/details.
 
 ## <a id="setup"></a>Setup
-Create a new folder or folder structure in github under the product and/or application being researched, e.g. “UrgentCare/Research/June-2019-Usability-Test/.” This is where the research plan, conversation guide, notes, and final results should be stored. Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
+Create a new folder or folder structure in github under the product and/or application being researched, e.g. “UrgentCare/Research/June-2019-Usability-Test/.” This is where the research plan, conversation guide, notes, and final results should be stored. Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md)
 
 Create a [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) and save them in that folder as Markdown files.
 
@@ -38,7 +38,7 @@ VA has an agreement with a recruiting organization that will manage all recruiti
 
 Information about using our recruiter, Pergean to recruit participants for your moderated usability and other research studies  [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md).
 
-When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack. Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
+When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack **at least 1 week before you want to start sessions.** Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
 
 Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
 

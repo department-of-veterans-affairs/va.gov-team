@@ -10,6 +10,8 @@
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3152
 
+<hr>
+
 ### IA and URL 
 
 **Structure:**   
@@ -22,11 +24,19 @@
 *Final URLs to be used*
 
 Unauthenticated Static Page
-- Existing static page will be used as entry point to new tool, no IA or URL changes will be made to the page at this time:  https://www.va.gov/health-care/schedule-view-va-appointments/
+- Existing static page will be used as entry point to new tool, no IA or URL changes will be made to the page at this time
+- URL: No change (https://www.va.gov/health-care/schedule-view-va-appointments/)
+- Breadcrumb: No change (Home > Health care > Schedule and view appointments)
 
 Tool:   
 - initial URL: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
 - Subsequent pages will add on to the above URL using short and simple labels, i.e. www.va.gov/health-care/schedule-view-va-appointments/appointments/introduction/
+
+Added 2/28/2020 (@mnorthuis)
+- Breadcrumb: Home > Health care > Schedule and view appointments > Your appointments
+  - The last component of the breadcrumb should be similar to the H1 of the page, work with your writer to finalize
+
+<hr>
 
 ### Navigation/Entry Points
 
@@ -40,11 +50,14 @@ Tool:
 
 - No additional crosslinking recommendations at this time. 
 
+<hr>
+
 ### Redirects/Canonical 
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
 - None at this time.
-
+ 
+ <hr>
 
 ### Additional Notes/Recommendations
 

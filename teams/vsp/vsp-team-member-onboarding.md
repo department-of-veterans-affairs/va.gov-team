@@ -10,7 +10,7 @@ Links to other documentation, points of contact, important channels.
 ## [ZenHub board](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?repos=133843125)
 Lower-level task management and tracking, tied to sprint objectives
 
-See also: [How we use ZenHub to manage our product development workflows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_product_management.pdf)
+See also: [How we use ZenHub to manage our product development workflows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
 
 ## [VSP Product Model](https://docs.google.com/spreadsheets/d/1llp3_ug7qhPoFCsBsO-6QPUxIU21HeFwIBRW3Xg-Xms/edit#gid=0)
 Bigger-picture view of project goals, including backlog with ideas for future work

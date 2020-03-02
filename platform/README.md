@@ -16,7 +16,7 @@ This `platform` directory contains everything you need to know about Platform as
 ### Practice Areas
 - [Accessibility and 508 Compliance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility)
 - [Analytics and Insights](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics)
-- [Call Center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/call-center)
+- [Contact Center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/call-center)
 - [Content](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)

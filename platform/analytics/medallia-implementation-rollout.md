@@ -11,9 +11,13 @@ Medallia can be used as the VA's main survey tool for VA.gov's survey. VSP Analy
 ## Phases Summary
 **Phase 1** - Stand up Medallia digital instance
 - Implement Medallia instance to allow VSP to create surveys without Front End engineering dependencies
+- Test with a new VSA designed survey (1 VSA product)
+- Dependency on VSP Front End Tools Team
 
 **Phase 2** - Integrate Medallia Experience Cloud
 - Integrate the experience cloud instance to be able to understand user reporting
+- Test survey implementation with corresponding analysis feedback with 2-4 VSA products
+- Begin full collaboration with VSA
 
 **Phase 3** - Test new surveys
 - Implement new VSA designed surveys
@@ -23,6 +27,7 @@ Medallia can be used as the VA's main survey tool for VA.gov's survey. VSP Analy
 
 **Phase 4** - Sunset ForeSee and Medallia Maintenance
 - VSP implements new surveys and maintains VSA created survey strategy
+- Medallia implementation to be added to VSP collaboration cycle
 - ForeSee surveys on VA.gov will be sunsetted and historical data will be extracted
 
 ## Phase 1 Acceptance Criteria
@@ -35,6 +40,9 @@ Medallia can be used as the VA's main survey tool for VA.gov's survey. VSP Analy
 - [ ] Users can export export CSVs with raw data
 - [ ] Users can create customized reporting on Medallia
 - [ ] Medallia is integrated with Google Analytics (and BigQuery or Domo)
+
+## Phase 3 Acceptance Criteria
+- [ ] Onboarded VFS teams have at least 1 live VA.gov survey where they can pull product specific user data
 
 Data should include:
 - [ ] Date & time

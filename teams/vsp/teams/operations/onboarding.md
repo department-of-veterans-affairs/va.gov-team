@@ -74,7 +74,7 @@ Being oncall requires access beyond the initial item listed so far.  Here's a qu
 * You have a va.gov email address
   * and can login to it via CAG/CFE
   * and can send+receive email
-  * and have a ssl cert published to the GAL for encrypted email: [doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/setup-encrypted-email.md)
+  * and have a ssl cert published to the GAL for encrypted email: [doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/setup-encrypted-email.md)
 * Can log in to ServiceNow
   * and are added the the `VA DOT GOV DEVOPS` assignment group (see [this doc](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/ESECC-lookup.md) for more info)
 * Can log in to Polaris

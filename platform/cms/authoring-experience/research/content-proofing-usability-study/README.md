@@ -5,11 +5,12 @@ This research plan is for the VFS-CMS Tool - VFS-CMS team.
 
 The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to evaluate the content proofing experience within the Drupal CMS. We'll focus on the experience of editors working with benefits detail pages. 
+Our objective for this research is to **evaluate the content proofing experience within the Drupal CMS**. We'll focus on the experience of editors working with benefits detail pages. 
 * Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
 * Understand the value of the View screen in the editorial workflow.
 * Understand how the View screen currently fits into the users' editorial workflow.
 * Evaluate comprehension of navigation and on-page interactions on the View screens.
+* Uncover the users' expectations for navigating to and away from the View screen.
 * Understand if labels provide enough context and guidance for users to complete their tasks with confidence and ease.
 * Uncover pain points, user expectations, and potential future features.
 
@@ -46,10 +47,8 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 - Observers: CMS engineer(s), TBD 
 
 ## Resources	
-* Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-
+* [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/content-proofing-usability-study/conversation%20guide)
 * [WIP] Synthesis	
-
 * [WIP] Lessons Learned
-
 * [WIP] Read-Out/Results

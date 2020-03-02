@@ -1,5 +1,4 @@
-# eBenefit Sprint Objectives :rocket:
-This is a high-level summary of the current goals and tasks in the current Sprint set forth by the [eBenefits Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
+# eBenefits Transformation Sprint Objectives :rocket:
 
 ### Guided by:
 - _"How will this help the Veteran, their dependents, and caregivers get the benefits they deserve?"_ 
@@ -9,9 +8,34 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Measure outcomes where possible
 - Remember the Call Center
 ----
+## Sprint 16 (2/26 - 3/10)
+```diff 
+- 44 points over 16 issues
+```
+## 1. Continue Developing "Submit 686c Dependency Claims"
+- Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings
+- Frontend: Stub out remaining FE workflows and unit tests (7-8)
+- Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow
+
+## 2. Complete "View Dependents" in Staging
+- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
+- Frontend: Finish unit tests
+- Backend: Update the data format for "View Dependents"  
+
+## 3. Initial Design: "My Payment History"
+- Design: Schedule Design intent meeting and create an initial feature design
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments  
+*(doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)*
+
+## 4. Stretch - Improve Product Infrastructure
+- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature.  
+*(Determine what kind of Product-level support is needed.)*
+- Submit request to allow developers to directly modify and update our documentation
+- Submit request for an alert to all devs for breaking changes
+
 ## Sprint 15 (2/12 - 2/25)
 ```diff 
-- 36 points over 14 issues
+- 44 points over 15 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Prepare and run user research session on 686c/674 vision ([#5786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5786))

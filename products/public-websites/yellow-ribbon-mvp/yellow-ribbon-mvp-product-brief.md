@@ -11,7 +11,7 @@ Last updated February 19, 2020
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
 | Jennifer Lee  | Public Websites Product Owner                 |
-| Kara Kemahli  | Product Manager                               |
+| Aruna Kucherlapati  | Product Manager                         |
 | Liz Lantz     | Designer/Researcher                           |
 | Nick Sullivan | FE Engineer                                   |
 | Kelson Adams  | FE Engineer                                   |
@@ -192,4 +192,5 @@ GIDS API (need link from developers)
 ### Screenshots
 
 #### Yellow Ribbon Before
-(Stuck. I don't know how to put screenshots in this .md file)
+![Screenshot of Yellow Ribbon hub page, highlighting open accordion list of states linking to Yellow Ribbon school lists ](../images/yr-hub-feb2020.png)
+![An example Yellow Ribbon page on benefits.va.gov showing a large data table listing schools](../images/yr-example-state-page-feb2020.png)

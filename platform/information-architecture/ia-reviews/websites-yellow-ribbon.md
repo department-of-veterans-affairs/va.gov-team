@@ -10,6 +10,8 @@
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/5192
 
+<hr>
+
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
@@ -23,6 +25,7 @@
 
 <p>Rationale: Currently the YR participating school legacy pages are linked to from the YR info page which is deep under "About GI Bill benefits" page.  This new content/tool would benefit from more visibility higher in the structure and with upcoming navigation changes, we need to shallow up the IA to under 4 levels.  
 
+<hr>
 
 ### Navigation/Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
@@ -47,6 +50,8 @@
   - GI Bill eligibility page
   - GI Bill How to Apply page
 
+<hr>
+
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
@@ -54,6 +59,7 @@
 - There may be legacy pages containing historical participating school info, it will need to be determined if that information needs to remain available or if it can also be retired/redirected. 
 - Redirect ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/4975
 
+<hr>
 
 ### Additional Notes/Recommendations
 

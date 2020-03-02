@@ -19,7 +19,8 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                         | Which categories best describe you?  | Spanish, Hispanic, Latino, American Indian or Alaskan Native, Black or African American, Native Hawaiian or Other Pacific Islander, Asian, White     |                               |
 |                                         | Gender    |      |                               |
 |                  |     |      |                               |
-| **Contact information**               | Address    |  Country, Street, Line 2, Line 3, City, State, Postal code    |                               |
+| **Contact information**               | Address    |  Country, Street address, Line 2, Line 3, City, State, Postal code    |                               |
+|                                        | State or territory              |      |   |
 |                                        | Email address               |      |   |
 |                                        | Re-enter email address  |      |   |
 |                                        | Primary email address  |      | Pension only  |

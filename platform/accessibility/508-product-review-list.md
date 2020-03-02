@@ -38,6 +38,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
     * [eBenefits Rated Disabilities](#ebenefits-rated-disabilities)
     * [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
+    * [Authenticated Experience Address Validation](#authenticated-experience-address-validation)
+    * [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
     * [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -93,11 +95,17 @@ Each application or logical section of the site will have a heading and a detail
 ### Facility Locator
 
 **Maintainer:** VSA<br/>
-**Audit Status:** Issues logged by auditor in July 2019<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A508%2FAccessibility+label%3A%22facility+locator%22+is%3Aclosed)**
 
 #### Open Issues
 
+**Audit Status:** Issues logged by auditor in February 2020<br/>
+* [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-0 - **_Showstopper_** 
+* [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_** 
+* [[MOBILE, ZOOM]: At 400%, content does not fit in screen view responsively](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_** 
+* [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_** 
+
+**Audit Status:** Issues logged by auditor in July 2019<br/>
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
 **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
@@ -141,22 +149,13 @@ Each application or logical section of the site will have a heading and a detail
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
-#### Open issues identified by VSP Product Support
-
-* [[USABILITY]: 526 v2: Draw attention to 20+ character address line - #5225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5225)<br/>
-**Opened:** January 28, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-
 ---
 
 ### HCA Dashboard Notifications
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
-
-#### Open issues identified by VSP Product Support
-
-* [[COGNITION]: HCA - Heading levels could be adjusted for proper nesting - #3219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3219)<br/>
-**Opened:** November 7, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
 
 ---
 
@@ -369,14 +368,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
-**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22By+Light%22+label%3A508%2FAccessibility+is%3Aclosed)**
-
-#### Open issues being redesigned
-
-* [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[COGNITION]: Text Appointments - Edit buttons would benefit from aria-labels - #2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+Text+Appointments+is%3Aclosed+)**
 
 ---
 
@@ -384,6 +376,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by VSA November 2019<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-facilities+label%3A508%2FAccessibility+Sidenav+is%3Aclosed)**
 
 #### Open issues
 
@@ -395,8 +388,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[COGNITION] Pittsburgh Sidenav - Links lack sufficient styling to differentiate from text - #3426](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3426)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
@@ -468,11 +459,45 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### Authenticated Experience Address Validation
+
+**Maintainer:** VSA <br/>
+**Audit Status:** Pre-launch 508 Review<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open Issues
+* [[SCREENREADER, KEYBOARD]: Edit address link will not receive keyboard focus](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5866)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
+* [[SCREENREADER, KEYBOARD]: Focus needs to return to Edit button that launched the modals when modals are closed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6156)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+---
+
+### VA Online Scheduler (VAOS)
+
+**Maintainer:** _VSP_<br/>
+**Audit Status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**
+
+#### Open issues
+
+* [[SCREENREADER]: Adjust the calendar header markup for better IE11 + JAWS usability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6186)<br/>**Staging** | **Opened:** February 25, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[COGNITION]: Add aria-describedby and SR-only instructions to the calendar widget for better semantic meaning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6100)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[KEYBOARD]: Let's make the Schedule an appointment just a button and not wrap it in a link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6250)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Consider moving the urgent medical need alert box above the action buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6237)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Update the scheduling cards for better semantic meaning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6106)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[SCREENREADER] Calendar Widget - Fieldset needs to be a sibling to the button trigger for screen reader usability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2709)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Can we review the language for Community Care appointment review times?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6279)<br/>**Staging** | **Opened:** February 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[COGNITION]: Let's consider moving the Edit links on the review page after their text blocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6241)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[COGNITION]: Let's add aria-hidden attributes to the check icons on our confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6243)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+* [[COGNITION]: Can we make the HR rule lines into borders or hide them from screen readers on review page?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6242)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+---
+
 ### New Project Name
 
 **Maintainer:** _VSA or VSP_<br/>
-**Audit status:** _Audit status, team, and date_<br/>
-**Closed issues:** _Create a reusable search link by filtering va.gov-team issues:_
+**Audit Status:** _Audit status, team, and date_<br/>
+**Closed Issues:** _Create a reusable search link by filtering va.gov-team issues:_
 
  1. Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues) on the va.gov-team repository
  1. Click the `<NUMBER> Closed` link to switch to closed issues
