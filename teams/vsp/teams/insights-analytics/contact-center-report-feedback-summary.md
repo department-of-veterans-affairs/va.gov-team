@@ -1,7 +1,7 @@
 ### Introduction
 
-The Insights and Analytics Team published a call center report for October 2019. This was the first call center report available since the 
-launch of VA.gov and featured a compilation of data from a variety of call centers. As part of this effort, we reached out to DEPO 
+The Insights and Analytics Team published a contact center report for October 2019. This was the first contact center report available since the 
+launch of VA.gov and featured a compilation of data from a variety of contact centers. As part of this effort, we reached out to DEPO 
 stakeholders for feedback that will be incorporated into future published reports. We asked DEPO members for feedback and asked the 
 following questions:
 
@@ -17,8 +17,8 @@ We received feedback from five individuals in addition to ad hoc advice over sla
 Of the five respondents, four of them said yes, the report was helpful. One individual said the report was somewhat helpful.
 
 #### What are you going to do with the information in this report?
-  * *Won't be taking direct action as a result of the report. Rather, will use it to gain some contextual knowledge about how the call center organizes feedback.*
-  * *I will be keeping an eye out for pain points from users and, if possible, the call-center reps. Our team always has an eye out for process improvements.*
+  * *Won't be taking direct action as a result of the report. Rather, will use it to gain some contextual knowledge about how the contact center organizes feedback.*
+  * *I will be keeping an eye out for pain points from users and, if possible, the contact-center reps. Our team always has an eye out for process improvements.*
   * *Feedback to PMs on content and product improvements / new product ideas; Feedback to help desk when appropriate to better assist Veterans; 
   Use data to support / defend the work we do (and choose not to do)*
   * *There was only one bit of feedback relevant to Facility Locator but it was timely in that we are in the process of redesigning the UX. I made sure the team 
@@ -44,11 +44,11 @@ Of the five respondents, four of them said yes, the report was helpful. One indi
 
 #### Next Steps
 
-For the next Call Center Report, we will attempt to make the following changes:
+For the next Contact Center Report, we will attempt to make the following changes:
 
   * We will be getting rid of the grouping because it was too confusing for the users. 
   * We will be iterating on how to show details of topics by adding sub-topics but in a way that still allows the user to use excel sort functionality.
-  * Will be adding HRC call center data and potentially White House VA Call Center Data.
+  * Will be adding HRC contact center data and potentially White House VA Call Center Data.
  
   
 
