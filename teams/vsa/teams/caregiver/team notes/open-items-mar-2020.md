@@ -13,6 +13,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
   - Options: 
       - Use application ID number to query for status update
       - Work with MPI to return status there
+ - Create table in vets-api to link CARMA ID to form submission (+ date)
 
 ## Nice to Haves
 - Address validation (against USPS?) (Caitlin to check with Program team)
