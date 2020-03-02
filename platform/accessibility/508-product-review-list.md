@@ -366,14 +366,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
-**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22By+Light%22+label%3A508%2FAccessibility+is%3Aclosed)**
-
-#### Open issues being redesigned
-
-* [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[COGNITION]: Text Appointments - Edit buttons would benefit from aria-labels - #2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+Text+Appointments+is%3Aclosed+)**
 
 ---
 
