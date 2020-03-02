@@ -33,8 +33,4 @@ The goal is to design the print stylesheet to both follow best practices and sta
    
 ## Screenshots
 
-
-
-### Before
-
-### After
+See: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/print-styles/Print%20Styles%20Design%20Presentation.pdf
