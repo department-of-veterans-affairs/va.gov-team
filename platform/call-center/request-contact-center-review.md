@@ -4,7 +4,7 @@
 
 All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
 
-**Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Contact Center Review issue that includes a Product Guide and Product Video.** The VSP Call Center team will review these materials and share with the relevant contact centers to ensure that Contact Center Representatives are prepared to answer questions about the new functionality.
+**Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Contact Center Review issue that includes a Product Guide and Product Video.** The VSP Contact Center team will review these materials and share with the relevant contact centers to ensure that Contact Center Representatives are prepared to answer questions about the new functionality.
 
 **VFS teams should file a Contact Center Review issue...**
   1. When the complete and final build is on staging and they are confident it's ready to launch,
@@ -12,7 +12,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
   1. At least *4 weeks* prior to the launch date for a brand new service **OR**,
   1. At least *2 weeks* prior to the launch date for a new feature in an existing service.
 
-*If your team thinks it will have trouble meeting the outlined timeline, reach out to your Call Center POC to determine how to move forward.*
+*If your team thinks it will have trouble meeting the outlined timeline, reach out to your Contact Center POC to determine how to move forward.*
 
 ## Prepare for Contact Center Review
 
@@ -27,7 +27,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 *If you're building new features for an existing service*:
 
   1. You'll need to update the existing Product Guide.
-      * If you can't find the existing Product Guide on Github, ask your Call Center POC to find it for you.
+      * If you can't find the existing Product Guide on Github, ask your Contact Center POC to find it for you.
   1. Store the updated Product Guide in its original location.
 
 *Examples*:
@@ -49,7 +49,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 1. File an issue in ```va.gov-team repo```.
     * Title: ```Request Contact Center Review for [feature or service name]```
     * Labels:
-      * ```call center```
+      * ```contact center```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```Chante Lantos-Swett```and ```Kimberley Daniels```
@@ -59,11 +59,11 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * **Launch Date and Details**: ```summary or link to launch plans, including any communication happening prior to launch``` 
       * **URL**: ```link to your project on staging```
       * **Product Guide**: ```link to the Product Guide on Github```
-      * **Product Video**: ```link to the demo video on Github``` *(If this file is too large to upload on github, the file can be emailed to the call center POCs)*
+      * **Product Video**: ```link to the demo video on Github``` *(If this file is too large to upload on github, the file can be emailed to the contact center POCs)*
       * **Product Video Transcript**: ```link to the Product Video Transcript on Github```      
 
-1. **Within 3 business days**, the call center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the call center team will send the content to the Contact Center.
-    * If you don't hear anything after 3 business days, reach out to your call center POC.
-1. After sending your team's materials to the Contact Center, the call center team will close the Github issue.
+1. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the call center team will send the content to the Contact Center.
+    * If you don't hear anything after 3 business days, reach out to your contact center POC.
+1. After sending your team's materials to the Contact Center, the contact center team will close the Github issue.
     * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.
 1. Requesting team members who participated in this collaboration, please complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
