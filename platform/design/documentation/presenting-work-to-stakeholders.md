@@ -10,7 +10,7 @@ This is framed as an introductory exercise, but these are also good questions to
 > This is the 1990, the first of six forms. Veterans use it to initiate a claim for Education Benefits. We’re starting with this one because it is overwhelmingly the most used. We believe this is ready to launch, please throw a flag if you see something worrying.
 
 ## What usability feedback have we gotten on this solution?
-> We did initial discovery work with stakeholders and Veterans to understand pain points in the process. We did two rounds of usability testing with both mock-ups, and later, a live form on a staging server. We will be paying close attention to metrics and call center feedback in the weeks following soft launch. In this case, soft launch means that people will be able to find and use the form on Vets.gov, but we will not be redirecting traffic from the existing form.
+> We did initial discovery work with stakeholders and Veterans to understand pain points in the process. We did two rounds of usability testing with both mock-ups, and later, a live form on a staging server. We will be paying close attention to metrics and contact center feedback in the weeks following soft launch. In this case, soft launch means that people will be able to find and use the form on Vets.gov, but we will not be redirecting traffic from the existing form.
 
 ## What kind of metrics are informing this work? (Baseline: source, date)
 > About 90% of application are currently filed online. The 1990 comprises about 56% of almost 400k form submissions per year. Because most forms are filed online, we don’t anticipate a significant increase in total number of applications.
