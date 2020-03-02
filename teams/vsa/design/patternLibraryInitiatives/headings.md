@@ -72,4 +72,28 @@
 * Inconsistent usage of heading elements; sometimes On This Page is an `h2` with a h3 utility class, other times it's an h3
 * Interrupts heading hierarchy creating an invalid heading order
 ### Proposed
-* Is this a candidate for a definition list?
+* Is this a candidate for a definition list? Yes.
+* Recommend using a `description list' semantic structure to contain this component:
+```html
+<dl>
+  <dt>On this page</dt>
+  <dd><a href="#link1">Link1</a></dd>
+  <dd><a href="#link2">Link2</a></dd>
+  <dd><a href="#link3">Link3</a></dd>
+  <dd><a href="#link4">Link4</a></dd>
+</dl>
+```
+* Related: https://github.com/department-of-veterans-affairs/va.gov-team/issues/4067, https://github.com/department-of-veterans-affairs/va.gov-team/issues/5125
+
+## Alert boxes
+
+### Current
+[VA design system, alert boxes](https://design.va.gov/components/alertboxes) - used throughout VA.gov, for systemwide notices, page-level introductory content, errors.
+
+#### Issues with curren
+* May be injected anywhere in page structure, and often follows an H1 and lede, but since it is constructed with an H3 it introduces a heading level issue when there isn't an H2 before it.
+* This can be confusing for screen reader and keyboard users because it doesn't follow proper semantic structure.
+
+### Proposed
+* Description list markup (wouldn't interfere with heading order, while providing semantic structure)
+* Possibly use `<dialog>` , `role="alert"`, or other methods of adding semantic context and notification, as appropriate
