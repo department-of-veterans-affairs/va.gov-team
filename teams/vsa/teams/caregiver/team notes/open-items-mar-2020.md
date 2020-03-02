@@ -4,9 +4,10 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 ## *New* MVP Requirements
 - Ability to attach Power of Attorney documentation
 - Allow Veteran/Caregiver to track application status
-  - To support Caregiver program in its expansion
-  - Reduce number of phone calls asking status question
-  - Use application ID number to query for status update 
+  - To support Caregiver program in its expansion and reduce number of phone calls asking status question
+  - Options: 
+      - Use application ID number to query for status update
+      - Work with MPI to return status there
 - Return ICN number for veteran and caregiver (if applicable)
 - Get static list of approved Caregiver facilities from CARMA
 - Long term: work with Facilities API to use them as a source of truth
