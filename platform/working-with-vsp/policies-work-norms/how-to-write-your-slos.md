@@ -154,15 +154,11 @@ Each row should have an availability target, and one or more latency targets. In
    <td>
       <code>CreateWidget|UpdateWidget|DeleteWidget</code>
    </td>
-   <td>99.95%
-   </td>
+   <td>99.95%</td>
    <td>
 <ul>
 
-<li>90% @ 300ms
-
-<li>99% @ 1000ms
-</li>
+<li>90% @ 300ms|99% @ 1000ms</li>
 </ul>
    </td>
   </tr>
@@ -174,10 +170,7 @@ Each row should have an availability target, and one or more latency targets. In
    <td>
 <ul>
 
-<li>90% @ 50ms
-
-<li>99% @ 250ms
-</li>
+<li>90% @ 50ms|99% @ 250ms</li>
 </ul>
    </td>
   </tr>
@@ -189,10 +182,7 @@ Each row should have an availability target, and one or more latency targets. In
    <td>
 <ul>
 
-<li>90% @ 200ms
-
-<li>99% @ 2000ms
-</li>
+<li>90% @ 200ms|99% @ 2000ms</li>
 </ul>
    </td>
   </tr>
@@ -217,13 +207,7 @@ Each row should have an availability target, and one or more latency targets. In
    <td>
 <ul>
 
-<li>90% @ 300ms
-
-<li>99% @ 1000ms
-
-(measuring DOMContentLoaded)
-
-</li>
+<li>90% @ 300ms|99% @ 1000ms (measuring DOMContentLoaded)</li>
 </ul>
    </td>
   </tr>
@@ -235,10 +219,7 @@ Each row should have an availability target, and one or more latency targets. In
    <td>
 <ul>
 
-<li>90% @ 50ms
-
-<li>99% @ 300ms
-</li>
+<li>90% @ 50ms|99% @ 300ms</li>
 </ul>
    </td>
   </tr>
