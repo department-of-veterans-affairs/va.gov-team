@@ -11,7 +11,7 @@
 ## Overview
 
 ### Objective
-To establish a micro front end architecture which enables application teams to
+To determine an engineering approach that enables application teams to
 operate independently.
 
 This document is intended for front end and DevOps engineers on the
