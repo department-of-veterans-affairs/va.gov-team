@@ -1,8 +1,22 @@
 # Content Management System
 
-Go to the va.gov-cms repo for all the technical stuff: https://github.com/department-of-veterans-affairs/va.gov-cms
-
 VA.gov's content management system provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
+
+## Documentation 
+
+Documentation about the CMS lives in various places
+* The CMS itself houses [CMS user guides](https://prod.cms.va.gov/documentation) (VA network access required, and CMS login required, for now). 
+* The [va.gov-cms repo](https://github.com/department-of-veterans-affairs/va.gov-cms) contains docs for developers working on the CMS codebase.
+* [The directory containing this README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms) contains documentation needed by other VA.gov teams, such as Platform (VSP) or product (VSA) teams. It also contains 
+* [Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/179765342/2020-2021)
+* [Shared Drive in Google](https://drive.google.com/drive/folders/0ADx85_gnl3Y4Uk9PVA) is used for WIP documentation and deliverables (such as Research Plan), and other forms collaboration. Also, our defacto home for spreadsheets. Google products are not available on the VA network and the Drive should not be used for any 
+
+### Documenatation resources not currently in use. 
+
+* [va.gov-team-sensitive] will house sensitive documentation that should be acessible to certain VA teams, but not made public. 
+* [va.gov-cms-team] may house private team documentation. It may replace the CMS team's current use of Confluence.
+
+## CMS-supported product at VA.gov
 
 The CMS is built with Drupal and currently supports 4 main products at VA:
 1. Benefits hubs (eg www.va.gov/health-care and 10 other benefits hubs)
