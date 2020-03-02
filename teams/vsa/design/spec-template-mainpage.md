@@ -19,7 +19,7 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Drupal content pages** 
    - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-contentpage.md)
 - **Introduction Screen**
-   - Page 1: [Introduction screen]()
+   - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-intropage.md)
 - **Chapter 1: [Name of Chapter]**
    - Page 1: [Name of Page]()
    - Page 2: [Name of Page]()
