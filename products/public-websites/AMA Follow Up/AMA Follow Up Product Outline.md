@@ -10,7 +10,7 @@
 # Team Members
 |Name|Role|
 |----|----|
-|Jennifer Lee	Public| Websites Product Owner|
+|Jennifer Lee	| Public Websites Product Owner|
 |Aruna Kucherlapati	|Product Manager|
 |Nick Sullivan	|FE Engineer|
 |Kelson Adams|	FE Engineer|
