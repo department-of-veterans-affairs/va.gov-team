@@ -17,7 +17,7 @@ The most updated version of the full prototype can be viewed [here]().
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
 
 - **Drupal content pages** 
-   - [Drupal content pages]()
+   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-contentpage.md)
 - **Introduction Screen**
    - Page 1: [Introduction screen]()
 - **Chapter 1: [Name of Chapter]**
