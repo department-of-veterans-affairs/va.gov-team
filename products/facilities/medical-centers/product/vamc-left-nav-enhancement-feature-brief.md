@@ -2,7 +2,7 @@
 
 This document will focus on the VA Medical Center (VAMC) Left Navigation enhancement project, part of the redesign of VAMC websites, that began with the soft launch of the new Pittsburgh health care in September 2019. This enhancement implements a revised design based upon initial veteran feedback and further veteran research and the associated findings. The research was conducted on the Pittsburgh health system site in November/December 2019.
 
-Note: Originally considered for a global revision, DEPO has decided to implement on VAMCs-only at this time as further analysis of content and user-expectations should be done before executing a site-wide change.
+Note: Originally considered for a global revision, DEPO has decided to implement on VAMCs-only at this time as further analysis of content and user-expectations should be done before executing a site-wide change. Following this decision, the ownership of this work has been transferred from the Public Websites team to the Facilities team. 
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ The sub pages within a section — also known as the page’s “children” —
 
 **Stakeholder/Business drivers**
 
-**[Findings from research conducted in January 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-findings.md#findings-by-hypothesis)**
+**[Findings from research conducted in November/December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-findings.md#findings-by-hypothesis)**
 
 - When asked to find content, users of the existing site navigation element would make a “best guess” given the elements in the left navigation. The only way they could confirm their guess was by going to the page in question.
 - Although the new element provides more options for lateral, or “child to child” navigation, the back button and breadcrumbs were more commonly used to move within a section than the local navigation element.
@@ -69,7 +69,8 @@ The sub pages within a section — also known as the page’s “children” —
 
 ### Project Scope and Scale
 _What's in and what's out?_
-- A new local navigation component for Pittsburgh’s VAMC system of websites
+- An upgrade to the local navigation component for Pittsburgh’s VAMC system of websites, beginning with the functionality available in staging and informed by the user research conducted in November/December 2019 
+
 
 **Goals of the enhancement project**
 - Get users to all content and tools in just 1-2 clicks/taps
