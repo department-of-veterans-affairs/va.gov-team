@@ -50,7 +50,7 @@ The goal of this phase is to stand up the data warehouse with available metrics 
 - Stand up BigQuery with:
   - [ ] Google Analytics
   - [ ] Historical ForeSee data  
-  - [ ] Historical Call Center data
+  - [ ] Historical Contact Center data
 - Test with additional 1 or 2 additional products: Potentially Facility Locator & Benefits & Appeals
 - Go / No Go decision for continuing to Phase 3:
   - [ ] Target of reaching 1 or 2 additional stakeholders reached
