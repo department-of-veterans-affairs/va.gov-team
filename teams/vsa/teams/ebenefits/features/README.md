@@ -6,4 +6,4 @@ This root contains documentation for individual features. It takes the structure
   - research-design/README.md (UX, design, and reserach directory)
   - engineering-notes.md (integration and dev notes, docs, and pointers)
   - meeting-notes.md (stakeholder and meeting notes)
-  - call-center.md (guides for the call center)
+  - contact-center.md (guides for the contact center)
