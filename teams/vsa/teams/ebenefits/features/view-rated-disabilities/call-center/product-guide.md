@@ -55,7 +55,7 @@ The link to the ratings calculator can be found here: https://www.va.gov/disabil
 The link to the Claim Status Tool can be found here: https://www.va.gov/claim-or-appeal-status/
 
 **Who can I call if I need help?**  
-Help is available by calling the VA at 1-800-827-1000 ??We don't need this if the user is calling the Call Center??
+Help is available by calling the VA at 1-800-827-1000 ??We don't need this if the user is calling the Contact Center??
 
 **I have a disability that is pending; where can I go to get more information?**  
 The Claim Status Tool is the best way to see the status of pending claims.  The link for that is: https://www.va.gov/claim-or-appeal-status/
