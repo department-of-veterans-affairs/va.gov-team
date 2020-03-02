@@ -32,4 +32,4 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Chapter 4: Review order** 
    - Page 1: [Review order]()
 - **Confirmation screen** 
-   - [Confirmation screen]()
+   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-confirmationpage.md)
