@@ -51,7 +51,7 @@ Veterans want meaningful descriptions and more specific details about what is ha
 
 #### Veterans have to ask staff for more detail
 
-Veterans check the status of their claims frequently and through multiple channels, often still call VA or VSO staff or visit in person to get the detail they want, as typically the call-center representatives can't access that information.
+Veterans check the status of their claims frequently and through multiple channels, often still call VA or VSO staff or visit in person to get the detail they want, as typically the contact-center representatives can't access that information.
 
 #### Veterans don't know what VA is doing
 
