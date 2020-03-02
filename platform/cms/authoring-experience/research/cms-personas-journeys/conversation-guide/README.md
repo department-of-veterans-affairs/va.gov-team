@@ -15,47 +15,51 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 min
 
 * Can you tell me a little about yourself and the work that you do at VA?
-* How long have you been working with VA's editorial workflow?
-* What do you enjoy most about your job?
-* What frustrates you the most about your job?
-* Have you worked with other editorial workflows in the past?
-  * [If yes] Can you tell us the main differences between your previous experience and your current one?
+* How long have you been working with content on the VA.gov?
+* What do you enjoy most about your work?
+* What frustrates you the most about your work?
 
 ## Questions for Personas - xx min
 
 _As we talk to users and learn about their experience, these questions can be edited to get more insightful information._
 
 * What is a typical workday like for you at VA? _(if stuck, ask how does it usually starts and unfolds)_
-* Tell us about your work with VA.gov editorial workflow.
+* Tell us about your work with VA.gov content.
+  * What role do you play in your team?
   * What are your responsibilities and main activities?
-  * What specialized skills or tools are required in your position?
-    * What are the main goals you're trying to achieve?
-    * Why are these goals important?
-    * What steps are you taking to achieve these goals?
-    * What are the biggest challenges that prevent you from achieving these goals?
-    * How do you usually prioritise the work that you do?
-  * Who do you consult with and trust for advice and information?
-  * When you have questions or encounter roadblocks in your work, what actions do you usually take?
-  * To whom do you report? Who reports to you?
-* What does a successful a successful editorial workflowlook like in your opinion?
+  * What specialized skills or tools are required for your work?
+  * What are your main goals and why are they important?
+  * What are currently the biggest challenges that prevent you from achieving these goals?
+* How much time in a typical day or week do you spend on managing VA.gov content?
+  * What about that editorial process works pretty well?
+  * What about that editorial process is hard?
+  * From your perspective, what would make it easier?
+* Tell me a little bit about the content your team works with. What is it? Who is it for?
+* Is your team able to keep up with the demands of VA.gov content?
+* When you have a question about your team's workflow, where do you go, who do you consult?
+* Do you feel that you have the tools and authority you need to do your content-related responsibilities well?
+* When you have questions or encounter roadblocks in your work, what actions do you usually take?
 
 ###### For participants who use the VA.gov CMS
 * How did you originally learn about the VA.gov CMS?
+* If a colleague asks you what a CMS is, how would you describe it?
 * How often do you use the VA.gov CMS?
 * Wow would you describe your experience with this tool?
 * What are the primary ways you use the VA.gov CMS? _(if stuck, mention create content, edit content, review content, publish content, manage users)_
 * How confident do you feel with performing your tasks in the VA.gov CMS?
 * How often do you find yourself having questions about how to do certain tasks in the VA.gov CMS?
-  * What actions do you usually take when you're unsure about VA.gov CMS and why?
-* Do you have autonomy over the content that you work with?
-* When do you find the VA.gov CMS to be more useful?
-* Can you tell me about the ways the VA.gov CMS doesn't help you achieve your goals?
+  * When you're working with the CMS and you encounter a situation where you don't know how to proceed, what do you do?
+* Do you have the autonomy to make decisions about content before it is published?
+* When do you find the VA.gov CMS to be more and less useful in your workflow?
+* When does the VA.gov CMS slows you down? Frustrates you? Blocks you? 
 * Have you used other CMS tools in the past? 
   * [If yes] What were the main ways in which those tools helped and didn't help your work?
 
 ## [WIP] Journey Mapping - xx min
 
-Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. So, a journey map is composed of a series or actions in a timeline. Today, we're particularly interested in hearing about you experience with two journeys: VA.gov CMS Onboarding and Content Editing. 
+Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. This journey mapping exercise that you'll do with us will help us to better understand your overall experience, so we can use it to inform future improvements to the CMS.
+
+A journey map is composed of a series or actions in a timeline. Today, we're particularly interested in hearing about you experience with two journeys: VA.gov CMS Onboarding and Content Editing. 
 
 In this activity, you'll walk us through the main steps that you take when going through a journey. I'll ask you to provide as much detail as you can in regards to your actions, thoughts, feelings in each step of the journey.
 
@@ -66,7 +70,7 @@ _Explore as the mapping unfolds_
 ## Additional Questions - 10 min
 I have just a few more questions to ask you before we finish up today.
 * From a scale of 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of accomplishing your goals in the VA.gov CMS?
-* How might the VA.gov CMS tool better support the work that you do?
+* If you had a magic wand, what changes would you make to the VA.gov CMS?
 * Is there anything else you'd like to share with us?
 
 ## Closing - 2 min
