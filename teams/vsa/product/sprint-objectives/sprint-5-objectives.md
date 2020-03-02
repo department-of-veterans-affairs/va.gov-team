@@ -37,7 +37,7 @@
   - 508 work continues as well 
 - [Publish] Style Guide and Parity work into Drupal 
   - Awaiting some final SME feedback Burials
-- [Rewriting/Editing] Call-Center FAQ Info
+- [Rewriting/Editing] Contact-Center FAQ Info
 - [Validate] Disability Calculator Widget
 - [Discovery] [Build] Staging and Dev URLs appearing in Google search results
   - Add update-robots build plugin
