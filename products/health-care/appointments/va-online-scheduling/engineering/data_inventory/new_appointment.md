@@ -1,0 +1,72 @@
+# New appointment data
+
+- Type of care list
+   - Data for each item:
+      - Identifier (stop code)
+- Community care supported sites
+   - Filtered by: site ids
+   - Data for each time:
+      - Site id
+      - Is supported flag
+- Community Care eligibility
+   - Filtered by: ICN, type of care
+   - Data:
+      - Is eligible flag
+- VA parent facilities
+   - Filtered by: ICN, type of care id
+   - Data for each parent facility:
+      - Id
+      - Friendly name
+      - City
+      - State
+      - Root site id
+- VA child facilities
+   - Filtered by: ICN, type of care id, parent facility id, site id
+   - Data for each facility:
+      - Id
+      - Friendly name
+      - Supports direct scheduling flag
+      - Supports requests flag
+- Request eligibility data
+   - Request limit
+      - Filtered by: ICN, facility id, type of care id
+      - Data:
+         - Request limit
+         - Oustanding request count
+   - Past visits
+      - Filtered by: ICN, facility id, type of care id, direct or request type
+      - Data:
+         - Time frame for required visit (typically 12 or 24 months)
+         - Has past visit in time frame flag
+   - PACT members
+      - Filtered by: ICN, site id
+      - Data:
+         - Member count
+   - Appointment history
+      - Filtered by: ICN, start date, end date
+      - Data for each item:
+         - Clinic id
+         - Site id
+- Clinics
+   - Filtered by: ICN, facility id, site id, type of care id
+   - Data for each item:
+      - Friendly name
+      - Regular name
+      - Id
+- Facility detail
+   - Filtered by: User chosen facility id
+   - Data:
+      - Name
+      - Address
+      - Phone
+- Appointment slots
+   - Filtered by: ICN, type of care id, clinic id, start date, end date
+   - Data for each item:
+      - Date and time
+      - Duration
+      - Availability
+- Contact info
+   - Filtered by ICN
+   - Data:
+      - User email
+      - User phone
