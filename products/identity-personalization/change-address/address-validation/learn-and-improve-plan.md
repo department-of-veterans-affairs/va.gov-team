@@ -7,6 +7,7 @@ From our [product outline](https://github.com/department-of-veterans-affairs/va.
 ### Objective
 - Reduce the number of veterans that report to the call center that they can't save their addresses (#6012)
 - Increase the amount of successful mailing address submissions.
+- Reduce the number of bad addresses being saved in VA profiles
 - Reduce returned mail at the VA (Note: Not sure how to measure this).
 
 ### Tracking
