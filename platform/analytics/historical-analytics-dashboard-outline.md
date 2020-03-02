@@ -47,7 +47,7 @@ As a VA Product Storyteller, it is difficult to access and contextualize key met
 _Decision Makers_
 1. I want to be able to **easily access** key metrics related to my products so that I can evaluate user behavior, identify painpoints and effectively prioritize my team's work.
 1. I want to have confidence that the metrics we're collecting are **accurate** so that I can be confident when reporting data and empowered to make data driven decisions.
-1. I want to be able to access metrics from **across different channels** so that I can establish a full understanding of how users are accomplishing their goals (online vs. offline) and where they face friction in process (call center, usability feedback, etc.).
+1. I want to be able to access metrics from **across different channels** so that I can establish a full understanding of how users are accomplishing their goals (online vs. offline) and where they face friction in process (contact center, usability feedback, etc.).
 
 _Storytellers_
 1. I want to be able to **easily access** key metrics that highlight the work we're doing on VA.gov and the impact we're having on veterans *(I don't want to have to rely on others people to pull metrics)*.
@@ -71,7 +71,7 @@ _Storytellers_
 5. VA development teams are willing to use data to drive decision making
 
 ## Value Propositions
-The VA.gov Analytics Dashboard will unify the various sources of data into a centralized reporting system, containing information on online tools, offline programs (e.g. call center) and other user feedback pathways (e.g. twitter). 
+The VA.gov Analytics Dashboard will unify the various sources of data into a centralized reporting system, containing information on online tools, offline programs (e.g. contact center) and other user feedback pathways (e.g. twitter). 
 
 ## Solution Approach
 **1. Surface what we’re already tracking**
@@ -114,7 +114,7 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 - **1/24/19** - Google Analytics documentation [link](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
 - **3/4/19**
   - Looking to pursue an understanding of the user journey beyond a veteran's experience on VA.gov. 
-  - **Action item**: reach out to other VA orgs to gain access to datasets. @joyoftech to connect with the call center to initiate this effort. Questions to ask: 
+  - **Action item**: reach out to other VA orgs to gain access to datasets. @joyoftech to connect with the contact center to initiate this effort. Questions to ask: 
      - What happens to a veteran's application once it is submitted through VA.gov?
      - Are there differences in processing times between online vs. offline applications?
      - Can we get reliable outputs (monthly) of data from these offices regarding processing times, accept/reject rates, etc.?
