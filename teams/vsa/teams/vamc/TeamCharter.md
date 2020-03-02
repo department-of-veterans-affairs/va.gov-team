@@ -10,7 +10,7 @@ Providing these upgraded and streamlined tools to the ALL VAMC system Office of 
 ### VAMC North Star
 Systems completed per quarter
 
-### OKRs
+### OKRs - Q1 2020
 - Objective: Automate VISN creation
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
