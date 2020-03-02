@@ -23,7 +23,7 @@ We have created a logic so that a specific contact center number is shown on the
 ## Material for Contact Centers
 
 - [YouTube Demo Video](https://youtu.be/q0Akgcvhp48)
-- [Appeal Status Guide for Call Centers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+- [Appeal Status Guide for Contact Centers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
 - [Product Launch Email 1-Pager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/product-launch-email-appeal-status-v2.docx)
 
 ## Record of communication 
