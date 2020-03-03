@@ -47,6 +47,7 @@ Need help? (h2 utility)
 For help placing an order, or if the order form isn’t working right, please call VA Benefits and Services at 800-827-1000.
 If you have hearing loss, call TTY: 711.
 ```
+
 <br>
 **If the veteran selects 'Yes, I need to order hearing aid accessories.' then additional content will be displayed as progressive disclosure. This content applies if the veteran has eligible items**
 
