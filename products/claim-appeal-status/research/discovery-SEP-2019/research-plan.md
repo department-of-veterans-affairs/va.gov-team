@@ -30,7 +30,7 @@ We're unable to find data that helps us understand how frequently this issue is 
   - form numbers (20-0095, 20-0096)
   - no EP codes
 
-- We are identifying the volume of calls to the Call Center about submitting Decision Reviews on VA.gov.
+- We are identifying the volume of calls to the Contact Center about submitting Decision Reviews on VA.gov.
 
 - We are using remote, moderated usability studies because we need to talk to Veterans to understand where they expect to be able to file appeals on VA.gov. 
 
