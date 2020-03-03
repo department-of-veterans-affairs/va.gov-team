@@ -32,5 +32,10 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 - Create a timeline between now and launch (May 2020)
 - Pick top 3 KPIs and identify baselines
 
+# Launch Plan
+March 15 - March 30: 
+April 15 - May 15: Integration testing
+May 15 - May 30: Get final approval to launch
+May 31: Launch!
 
 
