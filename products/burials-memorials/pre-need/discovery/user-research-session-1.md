@@ -71,7 +71,7 @@ He's 70, lives in Wisconsin, has a smart phone and laptop, seems somewhat comfor
 - 3 Top Takeaways
   - User will receive email confirmation when an application is submitted succesfully (or an email alert that it wasn't)
   - User can easily look up and select the cemetery that works for them
-  - Add instructions to confirmation page about how to find out more information or update/change their information (call the call center with their tracking number)
+  - Add instructions to confirmation page about how to find out more information or update/change their information (call the contact center with their tracking number)
   - Discuss with Mel the instructions page - I think there might be some room here to make it clearer
   - Can we print or email the confirmation page instead of just asking them to print?
 - Any github issues you think we should log?
