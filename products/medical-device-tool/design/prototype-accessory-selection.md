@@ -49,6 +49,7 @@ If you have hearing loss, call TTY: 711.
 ```
 <br>
 **If the veteran selects 'Yes, I need to order hearing aid accessories.' then additional content will be displayed as progressive disclosure. This content applies if the veteran has eligible items**
+
 ```
 Home > Health care > Order hearing aid batteries and accessories
 
