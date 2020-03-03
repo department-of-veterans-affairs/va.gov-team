@@ -15,7 +15,6 @@
 - [Assumptions](#assumptions)
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 
@@ -108,12 +107,12 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Obtain static list of approved Caregiver facilities from CARMA
 - Create table in vets-api to link CARMA ID to form submission (+ date)
 
-**May 31st - Launch online 1010CG experience**
+** **May 31st - Launch online, unauthenticated 1010CG application experience** **
 
 **Post-May 31st**
 - Ability to attach Power of Attorney documentation
-- Attach prefilled PDF to CARMA application
-- To look into: ensure that identical applications can't be sent back-to-back
+- Attach prefilled 1010CG PDF to CARMA application
+- Prevent identical applications sent back-to-back
 - Allow Veteran/Caregiver to track application status
 - To support Caregiver program in its expansion and reduce number of phone calls asking status question
 - Options:
@@ -123,7 +122,7 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 **Future, Phase 2**: 
 - Webpage MVP, Redesign of online PFCAC pages
 **Future, Phase 3**: 
-- Caregiver Portal
+- Caregiver Portal - benefits after the application
 **Future, TBD**:
 - Facilities API as a source of truth
 
