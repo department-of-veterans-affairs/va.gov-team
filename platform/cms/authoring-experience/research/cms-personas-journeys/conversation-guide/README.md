@@ -69,7 +69,7 @@ I have just a few more questions to ask you before we finish up today.
 * Is there anything else you'd like to share with us?
 
 ## Closing - 2 min
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gog CMS tool and editorial experience and make sure they really work for you.
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the new CMS experience and make sure it really works for you.
 
 Would you be willing to participate in other research sessions regarding the new CMS and editorial experience? 
 
