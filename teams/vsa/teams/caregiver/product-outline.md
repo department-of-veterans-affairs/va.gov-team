@@ -123,8 +123,10 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 
 **Future, Phase 2**: 
 - Webpage MVP, Redesign of online PFCAC pages
+
 **Future, Phase 3**: 
 - Caregiver Portal - benefits after the application
+
 **Future, TBD**:
 - Facilities API as a source of truth
 
