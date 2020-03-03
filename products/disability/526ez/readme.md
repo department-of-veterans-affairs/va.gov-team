@@ -31,6 +31,6 @@
 - Product manager: Mark Greenburg (mark.greenburg@adhocteam.us)
 - Design lead: Alex Taylor (alex@adhocteam.us)
 - Engineers: Chris Valarida (chris.valarida@adhocteam.us), Silvio Luthi (silvio@adhocteam.us), Ben Shyong (ben.shyong@adhocteam.us), Dan Hinze (dan.hinze@adhocteam.us)
-- Call center partner: Regina Yount, Sylvia Palmer & Brenda Torres Hill
+- Contact center partner: Regina Yount, Sylvia Palmer & Brenda Torres Hill
 - Web comms partner: Jennifer Rudisill
 - ITSC (IT Strategic Comms) liaison: Amy Alexander (Amy.Alexander@va.gov)
