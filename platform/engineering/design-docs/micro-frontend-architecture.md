@@ -49,10 +49,8 @@ commit of the `vets-website` `master` branch.
 
 #### The Problems
 ##### Failures in one Service affect all other Services
-When one application team introduces test failures into `master`, all PRs from
-all teams that include the offending commit in `master` will fail in Continuous
-Integration (CI) because all tests are run, not just the tests for a single
-application.
+Application-specific test failures in `master` block automated PR approvals for
+all teams.
 
 **Example:** Team A introduces a test failure in `master`. Team B has an urgent
 bug fix that needs deployed as soon as possible, so they make a branch of
