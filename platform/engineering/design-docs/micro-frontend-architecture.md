@@ -28,14 +28,12 @@ Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VSA) teams.
 The `vets-website` build is responsible for a lot of things. The most important
 pieces include:
 - Pulling content from the [CMS](#CMS)
-- Building that content into HTML pages
-- Validating the content for broken links, accessibility violations, etc.
-- Building all JavaScript bundles
-  - Both the common bundle and individual application bundles
-- Building all CSS bundles
-  - Both common and application-specific
+- Transforming that content into HTML files
+- Validating the HTML files including detecting broken links and accessibility violations
+- Building `vets-website` common and application specific JavaScript bundles
+- Building `vets-website` common and application specific CSS bundles
 - Running all >5k unit tests for all applications
-- Running all end-to-end tests for all applications
+- Running all end-to-end tests for all applications (non-integration singe page app browser tests)
 
 
 ##### Deploy
