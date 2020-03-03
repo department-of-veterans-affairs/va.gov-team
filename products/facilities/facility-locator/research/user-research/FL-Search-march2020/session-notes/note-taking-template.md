@@ -89,7 +89,7 @@
 
 ## Closing
 
-**Moderator: Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? **
+**Moderator: Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson?**
 
 **Participant:** Notes here
 
