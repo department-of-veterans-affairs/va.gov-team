@@ -33,12 +33,18 @@ We already track [successful mailing/home address submissions](https://analytics
 
 ### 1 – 2 months post-launch
 
-- Check analytics — do we see any meaningful change in successful address form submissions? Any reduction in errors?
+Check analytics — do we see:
+
+- People saving suggested addresses?
+- More people choosing override than suggested addresses?
+- Any change in successful address form submissions? Any reduction in errors?
+
+Also, we should check in again with the call center at this point to see if they are still getting reports of veterans who can't save their addresses.
 
 ### 6 months out
 
-- Figure out how to determine whether there has been a reduction in mail returned to the VA.
+With a few months of data behind us, this would be the point to start figuring out how to determine whether there has been a reduction in mail returned to the VA. We can take any "before" metrics the VA has and compare them the the "after" metrics since address validation launched.
 
 ## Potential next phase
 
-- Based on whether we see a reduction in mail returned to the VA or not, we may want to consider pursuing the [bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/bad-address-indicator/product-outline.md) that was proposed last fall.
+Based on whether we see a reduction in mail returned to the VA or not, we may want to consider pursuing the [bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/bad-address-indicator/product-outline.md) that was proposed last fall.
