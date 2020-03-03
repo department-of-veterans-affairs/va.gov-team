@@ -41,5 +41,57 @@
 
 **Participant:** Notes here
 
-## Task 2 - Find Facility Locator
+## Task 2 - Review results
+
+**Moderator: I noticed you clicked [search info]. Talk about why you chose this.
+
+**Participant:** Notes here
+
+**Moderator: What are your impressions of the search results?**
+
+**Participant:** Notes here
+
+**Moderator: How many search results would you expect to see?**
+
+**Participant:** Notes here
+
+**Moderator: Why would you choose [the one they choose]?**
+
+**Participant:** Notes here
+
+## Task 3 - Start new search
+
+**Moderator: Great! I'm going to give you another scenario: You have a sore throat and want to find a community clinic that provides urgent care for Veterans close to your house. Show us what you would do to find this.**
+
+**Participant:** Notes here
+
+## Follow up
+
+**Moderator: How many results do you want to see after you search?**
+
+**Participant:** Notes here
+
+**Moderator: Do you use any sort of map applications? If so, which one(s)?**
+
+**Participant:** Notes here
+
+**Moderator: What kind of device do you normally use?**
+
+**Participant:** Notes here
+
+**Moderator: Would you use that device to search for facilities on VA.gov?**
+
+**Participant:** Notes here
+
+**Moderator: Any questions for me?** 
+
+**Participant:** Notes here
+
+## Closing
+
+**Moderator: Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? **
+
+**Participant:** Notes here
+
+**Moderator: Thank you! I'll have our team send you an email with a little blurb that you can pass along. Enjoy the rest of your day!**
 
