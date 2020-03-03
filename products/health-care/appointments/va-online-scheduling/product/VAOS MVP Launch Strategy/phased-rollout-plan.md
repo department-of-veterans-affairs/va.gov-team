@@ -57,8 +57,8 @@ The goal of this phase is to gather a statistically relevant usage sample to bot
 The goal of this phase is to repeat the results from Phase 1 with an ever-increasing audience. Opt-in percentages should be turned up once or twice weekly, preceded by miniature go/no-go meetings to assess performance for the period along the lines of the framework outlined in Phase 1.
 
 ### Measurement of Success Go / No Go decision for continuing to Phase 3:
-    - [ ] All perforamnce criteria in Phase 1 met
-    - [ ] At least 90% of logged-in veterans automatically opted in
+   - [ ] All perforamnce criteria in Phase 1 met
+   - [ ] At least 90% of logged-in veterans automatically opted in
 
 ## Phase 3: Silent Launch, Full VA.gov Availability [Week 4]
 The goal of this phase is to fully launch the tool on VA.gov while paving the way for sunsetting legacy VAOS
