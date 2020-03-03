@@ -18,73 +18,15 @@ Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VSA) teams.
 
 ### Background
 
-<!-- Could put a definitions section here if it becomes useful -->
-
-#### The State of `vets-website`
-
-##### Build
-The `vets-website` build is responsible for a lot of things. The most important
-pieces include:
-- Pulling content from the [CMS](#CMS)
-- Transforming that content into HTML files
-- Validating the HTML files including detecting broken links and accessibility
-  violations
-- Building `vets-website` common and application specific JavaScript bundles
-- Building `vets-website` common and application specific CSS bundles
-- Running all >5k unit tests for all applications
-- Running all end-to-end tests for all applications (non-integration singe page
-  app browser tests)
-
-
-##### Deploy
-When `vets-website` is deployed, all content and applications are deployed
-together. **There is no way to deploy one application without deploying
-everything.**
-
-There is, however, a way to deploy the latest content from the CMS without
-deploying the latest application code. This is called a **content-only deploy**.
-The latest `vets-website` release is used instead of building code in the latest
-commit of the `vets-website` `master` branch.
-
-
-#### The Problems
-##### Failures in one Service affect all other Services
-Application-specific test failures in `master` block automated PR approvals for
-all teams.
-
-**Example:** Team A introduces a test failure in `master`. Team B has an urgent
-bug fix that needs deployed as soon as possible, so they make a branch of
-`master` and quickly fix it. Team B's branch can't be merged until Team A's
-unrelated test failure is fixed.
-
-Likewise, when there's a content issue, such as an accessibility violation, all
-application teams' PRs will fail in CI until the accessibility violation has
-been resolved by a content editor.
-
-**Important exception:** Test failures in the latest `master` branch will not
-prevent content-only deployments since those use the latest stable
-`vets-website` release.
-
-
-###### Test failures in `master`? How?
-This happens most frequently when two individual branches work on similar parts
-of the code. The tests on each branch pass, but the combined changes cause the
-result—`master`—to fail.
-
-**TODO:** Use an actual example of where this happened.
-
-
-##### Developing applications requires CMS content
-To run `vets-website` locally for application development, front end engineers
-must either have access to the CMS content directly via the SOCKS proxy or fetch
-the latest stable cached content from an AWS S3 bucket. Not having this content
-will result in a failure at build time.
-
-<!-- What other problems are we running into with the current architecture? -->
-<!-- Code ownership? -->
-<!-- Dependency management? -->
-<!-- Deploy schedule? -->
-
+`vets-website` currently faces a number of issues affecting:
+- Build process
+  - **Builds are slow** and **require a lot of memory**
+- Team autonomy
+  - **CI failures** affect all teams
+  - **Individual applications can't roll back**
+  - **Developing applications requires CMS content**
+  - Application dependencies are tied together making **library upgrades
+    difficult and error prone**
 
 ### High Level Design
 
