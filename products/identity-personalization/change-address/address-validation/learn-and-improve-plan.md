@@ -17,7 +17,7 @@ From our [product outline](https://github.com/department-of-veterans-affairs/va.
 
 ## Analytics we're tracking
 
-We already track [successful mailing/home address submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/). In addion, we are adding the following tracking for address validation ([#5895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5895)):
+We already track [successful mailing/home address submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/). In addition, we are adding the following tracking for address validation ([#5895](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5895)):
 
 - How often the address validation screen shows (note: The address validation functionality itself will run 100% of the time, but the screen where we tell people that they need to confirm their address only shows some of the time based on whether we think there might be a problem with the address).
 - Whether people select suggested addreses.
