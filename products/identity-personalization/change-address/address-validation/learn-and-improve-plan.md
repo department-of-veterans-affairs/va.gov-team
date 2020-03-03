@@ -4,16 +4,16 @@
 
 From our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/product-outline.md#kpis).
 
-### Objective
-- Reduce the number of veterans that report to the call center that they can't save their addresses (#6012)
-- Increase the amount of successful mailing address submissions.
-- Reduce the number of bad addresses being saved in VA profiles
-- Reduce returned mail at the VA (Note: Not sure how to measure this).
-
-### Tracking
-- Work with the call center team team to see if there is an decrease in call in cases.
-- Use Google Analytics team to see if the number of successful address form submissions increases.
-- Not sure how to determine whether the overall rate of returned mail has decreased at the VA.
+### Objectives & Tracking
+- **Objective**: Reduce the number of veterans that report to the call center that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
+  - **Tracking**: Work with the call center team team to see if there is an decrease in call in cases.
+- **Objective**: Increase the amount of successful mailing address submissions.
+  - **Tracking**: Track whether we see people using suggested addresses.
+- **Objective**: Reduce the number of bad addresses being saved in VA profiles
+  - **Tracking**: Low override; high rate of using suggestions or editing/saving addresses.
+  - **Tracking**: Track the number of successful address form submissions increases.
+- **Objective**: Reduce returned mail at the VA (Note: Not sure how to measure this).
+  - **Tracking**: Not sure how to determine whether the overall rate of returned mail has decreased at the VA.
 
 ## Analytics we're tracking
 
