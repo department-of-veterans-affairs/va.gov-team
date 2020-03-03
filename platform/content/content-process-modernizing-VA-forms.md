@@ -13,7 +13,7 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 - Is the paper form currently undergoing revisions? 
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
-- How is the paper form currently processed offline? (This might help inform what type of information may need to go on the form confirmation page.) 
+- How is the paper form currently processed offline? (This might help inform what type of information may need to go on the form Confirmation page.) 
 - Review the paper form and form fields to understand how each field is used and for what end
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
@@ -27,13 +27,13 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have picture of the larger process. 
 
 **DESIGN**:
-Identify if new functionalities are required for this form. If so, discuss with developer and work on high fidelity mockups about what the pattern would look like.  
+Identify if new functionalities are required for this form. If so, discuss with developer and work on high-fidelity mockups about what the pattern would look like.  
 
 - Use design review process to get feedback from design team
 - Check with design system to make sure new patterns aren't reiventing the wheel. 
 	
 
-**DESIGN and CONTENT**: 
+**CONTENT and DESIGN**: 
 Begin to create an outline for each form’s required chapter and create a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
 - Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
@@ -50,7 +50,7 @@ Discuss the entry and exit points for the form. How will users get to the form?
 
 - Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
 - What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the form's launch? (**If so, please coordinate static page updates with the vsa-public-websites team**)
+- Does a new static landing page need to be created or updated for the form's launch? (**If so, please coordinate static page updates with the vsa-public-websites team.**)
 	
 **CONTENT/DESIGN/DEVELOPER**: 
 Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
@@ -60,14 +60,14 @@ Discuss if any specific error messaging need to be written for the form or can y
 
 Content editor does a plain-language edit on the form outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form. 
 
-Content editor also begins to write the form’s introduction page and confirmation page following guidance here:<br> 
+Content editor also begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
 [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
 [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
-Product team PM schedules a pre-usability check in with Platform team before user testing sessions. 
+**Product team PM** schedules a pre-usability check in with Platform team before user testing sessions begin. 
 
 
-## Prototype usability testing
+## Usability testing
 
 We usually do several rounds of usability testing. For the first test, we use a prototype. 
 
@@ -104,9 +104,10 @@ Content editor looks again at the form in staging. It should include the full fl
 This proofread pass is to ensure all edits made in the individual chapter screens make sense with the overall form flow and functionality.
 
 Content editor will upload all proofread changes to a e2e proofread ticket for the developer to implement. 
-Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input. 
+Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input.
 
-Product team PM schedules a staging review with Platform team before form is rolled out to users.
+
+**Product team PM** schedules a staging review with Platform team before form's launch.
 
 
 
