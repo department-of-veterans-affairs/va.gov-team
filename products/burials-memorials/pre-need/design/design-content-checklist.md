@@ -82,7 +82,7 @@ https://marvelapp.com/2084724
   - Point to "After you apply" for more permanent information on next steps
 - [ ] Static content
   - [x] [Eligibility](https://www.vets.gov/burials-and-memorials/eligibility/)
-    - Determine whether there is more information needed here (\*\*DT update note: Per SME on 6.21.17, we don't want to get too granular with eligibility because we don't want to discourage applicants and/or encourage ex-spouses to hide divorce, which is a disqualifying factor. Therefore, I would recommend leaving Eligibility as is. **Update 6.30.17:** Per conversation with call center, it appears that more information about what's covered by burial benefits is needed. I thought the most appropriate place for this info was on Eligibility and have updated that page for review.) 
+    - Determine whether there is more information needed here (\*\*DT update note: Per SME on 6.21.17, we don't want to get too granular with eligibility because we don't want to discourage applicants and/or encourage ex-spouses to hide divorce, which is a disqualifying factor. Therefore, I would recommend leaving Eligibility as is. **Update 6.30.17:** Per conversation with contact center, it appears that more information about what's covered by burial benefits is needed. I thought the most appropriate place for this info was on Eligibility and have updated that page for review.) 
   - [X ] Application process (new page)
     - How will this affect the [Burial planning](https://www.vets.gov/burials-and-memorials/burial-planning/) page? (\*\*DT update note: See below)
   - [x] Revise Burial Planning and Eligibility pages (existing pages)
