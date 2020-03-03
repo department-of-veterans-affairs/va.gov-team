@@ -10,7 +10,8 @@ Provides Veterans, family members, caregivers, service members and other audienc
 We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ### Team North Star:
-WIP
+Potential:
+Reliable, secure, fast online experience using self service tools.
 
 ## What we work on
 ### Product Suite
