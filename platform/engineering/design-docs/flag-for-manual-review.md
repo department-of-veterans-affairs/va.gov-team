@@ -14,7 +14,6 @@
 The goal is to improve our review process which by adding automated processes which will alert a review team when a manual review is required.
 These changes are meant to work alongside the Codeowners changes which will give each app team primary responsibility for reviewing their code.
 
-Non-goals: Creating automation which will absolve VFS teams of their review responsibility.
 
 Intended audience: VSP team
 
