@@ -2,7 +2,7 @@
 
 ## Introduction - 5 min
 
-Thanks for joining us today! My name is Jordana and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your work, the VA.gov CMS and do a journey mapping session.
+Thanks for joining us today! My name is Jordana and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your work, the new CMS (prod.cms.va.gov) and do a journey mapping session.
 Before we start, a few things I want to mention:
 
 * **This entire session should take about 1.5 hours.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -15,11 +15,9 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 min
 
 * Can you tell me a little about yourself and the work that you do at VA?
-* How long have you been working with content on the VA.gov?
-* What do you enjoy most about your work?
-* What frustrates you the most about your work?
+* How long have you been working with content at VA?
 
-## Questions for Personas - xx min
+## General Questions - xx min
 
 _As we talk to users and learn about their experience, these questions can be edited to get more insightful information._
 
@@ -27,7 +25,6 @@ _As we talk to users and learn about their experience, these questions can be ed
 * Tell us about your work with VA.gov content.
   * What role do you play in your team?
   * What are your responsibilities and main activities?
-  * What specialized skills or tools are required for your work?
   * What are your main goals and why are they important?
   * What are currently the biggest challenges that prevent you from achieving these goals?
 * How much time in a typical day or week do you spend on managing VA.gov content?
@@ -40,20 +37,18 @@ _As we talk to users and learn about their experience, these questions can be ed
 * Do you feel that you have the tools and authority you need to do your content-related responsibilities well?
 * When you have questions or encounter roadblocks in your work, what actions do you usually take?
 
-###### For participants who use the VA.gov CMS
-* How did you originally learn about the VA.gov CMS?
+###### For participants who use the new CMS
+* How did you originally learn about the new CMS?
 * If a colleague asks you what a CMS is, how would you describe it?
-* How often do you use the VA.gov CMS?
-* Wow would you describe your experience with this tool?
-* What are the primary ways you use the VA.gov CMS? _(if stuck, mention create content, edit content, review content, publish content, manage users)_
-* How confident do you feel with performing your tasks in the VA.gov CMS?
-* How often do you find yourself having questions about how to do certain tasks in the VA.gov CMS?
-  * When you're working with the CMS and you encounter a situation where you don't know how to proceed, what do you do?
+* How often do you use the new CMS?
+* Wow would you describe your experience with the new CMS?
+* What are the primary ways you use the new CMS? _(if stuck, mention create content, edit content, review content, publish content, manage users)_
+* How confident do you feel with performing your tasks in the new CMS?
+* How often do you find yourself having questions about how to do certain tasks in the new CMS?
+  * When you're working with the new CMS and you encounter a situation where you don't know how to proceed, what do you do?
 * Do you have the autonomy to make decisions about content before it is published?
-* When do you find the VA.gov CMS to be more and less useful in your workflow?
-* When does the VA.gov CMS slows you down? Frustrates you? Blocks you? 
-* Have you used other CMS tools in the past? 
-  * [If yes] What were the main ways in which those tools helped and didn't help your work?
+* When do you find the new CMS to be more and less useful in your workflow?
+* When does the new CMS slows you down? Frustrates you? Blocks you? 
 
 ## Journey Mapping - xx min
 
@@ -69,8 +64,8 @@ _Explore as the mapping unfolds_
 
 ## Additional Questions - 10 min
 I have just a few more questions to ask you before we finish up today.
-* From a scale of 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of accomplishing your goals in the VA.gov CMS?
-* If you had a magic wand, what changes would you make to the VA.gov CMS?
+* From a scale of 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of accomplishing your goals in the new CMS?
+* If you had a magic wand, what changes would you make to the new CMS?
 * Is there anything else you'd like to share with us?
 
 ## Closing - 2 min
