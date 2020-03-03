@@ -45,7 +45,7 @@
 ## General Questions
 - **Fully Developed Claim Questions - Can we see whether we have them listed as going through the FDC program**
   - (Whether we display the 5103 notice)
-- Staying in Sync with Call Centers
+- Staying in Sync with Contact Centers
 - Will Tier 1 HRC Support be able to answer these questions? How do we figure that out
 - What is in the Profile?
   - Focus on just claim status, or a more holistic profile that will expand to include other things a vet can do - apply for health care, prescriptions, etc.
