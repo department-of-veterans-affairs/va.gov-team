@@ -61,7 +61,7 @@ I will run the script locally in addition to having Circle run it.
 
 ### Logging
 The script will log to the console:
-- Whether or not the branch ir is running on has an associated PR
+- Whether or not the branch it is running on has an associated PR
 - If there are no offenses that would warrant a comment
 - Any previous comments made that do not need to be made again
 - Any new comments that will be made
