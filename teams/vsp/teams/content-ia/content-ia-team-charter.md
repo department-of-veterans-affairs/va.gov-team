@@ -40,10 +40,11 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 ## Who we are
 
 ### Team Members
-- DSVA Product Leads: Leah Bannon (@Leah) and Patrick Bateman (@Patrick)
-- Product Manager: Megan Kelley (@Megan Kelley)
-- Information Architect: Mikki Northuis (@Mikki)
-- Information Architect: Matt Johnson (@Matt Johnson)
+- DSVA Product Leads: Kevin and Dror
+- Product Manager: Megan (@Megan Kelley)
+- Information Architect: Mikki (@Mikki)
+- UX Writer: Gretchen (@Gretchen Maciolek)
+- Technical Writer: Kristina (@Kristina Gore)
 - Content Editor: Peggy Gannon (@Peggygannon)
 - Frontend Engineer: Bill Fienberg (@Bill Fienberg)
 
