@@ -71,13 +71,6 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Mutliple online sources offer conflicting information
 - Caregivers like the idea of having an online portal to access support, resources, and benefit information
 
-## Solution Approach
-- Phase 1: Form MVP
-- Phase 2: Webpage MVP
-- Phase 3: Caregiver Portal
-- Continuous: Prioritization, definition, discovery, validation, iteration
-
-
 ## Value Propositions
 
 #### User Value
@@ -105,9 +98,29 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - As of January 2020, we're focused on launching the MVP of the form
 
 ## Solution Narrative
-- **Future, Q1 2020**: Launch form MVP
-- **Future, Q2 2020**: Start on redesign of online PFCAC pages
-- **Future, Q3 2020**: Start work on Caregiver Portal
+
+**May 31st - Launch 1010CG Form**
+- Unauthenticated form
+- Two signatures (printed names onto online form)
+- Form intro page
+- Downloadable submission receipt
+
+**Post-May 31st**
+- Ability to attach Power of Attorney documentation
+- Attach prefilled PDF to CARMA application
+- Return ICN number for veteran and caregiver (if applicable)
+- Get static list of approved Caregiver facilities from CARMA
+- Long term: work with Facilities API to use them as a source of truth
+- To look into: ensure that identical applications can't be sent back-to-back
+- Allow Veteran/Caregiver to track application status
+- To support Caregiver program in its expansion and reduce number of phone calls asking status question
+- Options:
+  - Use application ID number to query for status update
+  - Work with MPI to return status there
+- Create table in vets-api to link CARMA ID to form submission (+ date)
+
+**Future, Q2 2020**: Webpage MVP, Start on redesign of online PFCAC pages
+**Future, Q3 2020**: Start work on Caregiver Portal
 
 ## How to Access and Test
 - Link: tbd
