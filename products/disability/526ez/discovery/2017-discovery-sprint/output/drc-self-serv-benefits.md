@@ -6,7 +6,7 @@ The benefits below are relevant to benefits as a direct result of implementing D
 - DRC instructions and process will be rewritten in plain language that is concise and easy to understand.
 - Veterans can get accurate and complete informaiton directly from VA / Vets.gov DRC pages; won't be forced to go looking to peer groups and VSOs for information.
 - DRC plain language will include clearly defined processes and steps in the process
-- Vets.gov call center staff will be trained to answer questions with complete and accurate information
+- Vets.gov contact center staff will be trained to answer questions with complete and accurate information
 - Vets.gov claims status already exists and provides improved status data to Veterans (per qualitative feedback we are receiving from Call Cetner data since launch)
 - Only relevant information will be on DRC; currently VA.gov has 250,000 pages of content with less than 10% transactional; Veterans can't find information
 - Eligibility requirements will be clearly described so Veterans who are eligible don't miss out on benefits they have earned
@@ -31,8 +31,8 @@ The benefits below are relevant to benefits as a direct result of implementing D
 - Veterans will not have to recount PTSD events
 - Improved access to VA data will decrease the amount of data that Veterans have to re-submit to VA
 - Increased business rules will decrease errors and provide select data to be pre-populated
-Vets.gov call center staff will be trained to answer questions with complete and accurate information
-- Vets.gov claims status already exists and provides improved status data to Veterans (per qualitative feedback we are receiving from Call Cetner data since launch)
+Vets.gov contact center staff will be trained to answer questions with complete and accurate information
+- Vets.gov claims status already exists and provides improved status data to Veterans (per qualitative feedback we are receiving from Contact Center data since launch)
 
 ### Summary of Benefits Talking Points
 - Rewritten Content in Plain lanugage
