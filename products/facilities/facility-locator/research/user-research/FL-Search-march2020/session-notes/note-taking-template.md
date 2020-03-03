@@ -1,5 +1,7 @@
 # Facility Locator usability session
 
+[Note-taker name]
+
 *[Participant #] [Date] [Time]*
 
 ## Introduction
