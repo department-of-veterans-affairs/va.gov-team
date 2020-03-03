@@ -75,7 +75,7 @@ Veterans (and their loved ones) want to choose which VA cemetary they'd like to 
 - **Design Lead**: 
 - **Eng Lead**: Jeff Balboni 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel 
+- **VA Contact Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**: EOAS - Cuong Tang 
 - **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
