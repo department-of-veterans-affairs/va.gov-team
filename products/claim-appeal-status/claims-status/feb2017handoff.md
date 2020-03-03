@@ -20,13 +20,13 @@
 * Hundreds of pages of frog research
 * VSO interviews
 * 2 Rounds of usability testing (one round of notes in optimal workshop's reframer tool if analysis or quotes are needed)
-* Call center impressions of common painpoints
+* Contact center impressions of common painpoints
 
 ## Key design improvements
 * Overall: simplified design, responsive, accessible, more plain language.
 * Focus on status of claim in context of the whole process (ebenefits only shows the step you're in and getting to info about the process takes 2 non-obvious clicks) and adding tracked item activity (eg., alerts that a file is needed and notices that files were uploaded) within the timeline to help emphasize that the claim is moving forward.
 * Further actions are needed from the Veteran are prominently highlighted at the top of th status detail page and within the timeline.
-* Simplified the number of steps from 8 to 5 (combined middle "processing" steps) to facilitate a better understanding of the process. With the old 8 steps, many claims would actually appear to jump backwards, causing a great deal of frustration for users. By combining the middle steps in the display, this backwards movement is eliminated. There were concerns from the call center that while ebenefits version is still live that users who use both would be confused and calls would increase. Call centers have not reported this to be happening now.
+* Simplified the number of steps from 8 to 5 (combined middle "processing" steps) to facilitate a better understanding of the process. With the old 8 steps, many claims would actually appear to jump backwards, causing a great deal of frustration for users. By combining the middle steps in the display, this backwards movement is eliminated. There were concerns from the contact center that while ebenefits version is still live that users who use both would be confused and calls would increase. Contact centers have not reported this to be happening now.
 * Estimated decision date only shows end of range (ebenefits showed 2 date range) to reduce calls once early date is reached, language to emphasize that it's truly an estimate (a common point of confusion), plain language revision for "learn about this estimate" page.
 * Files tab: More clear distinctions of what needed, by when, and by whom.
 * Plain language revision of "Ask for your claim decision" page to better describe this confusing part of the process.
