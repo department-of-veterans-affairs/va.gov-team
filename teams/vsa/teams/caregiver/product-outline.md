@@ -107,9 +107,11 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Obtain static list of approved Caregiver facilities from CARMA
 - Create table in vets-api to link CARMA ID to form submission (+ date)
 
-** **May 31st - Launch online, unauthenticated 1010CG application experience** **
+** **May 31st - Launch online, unauthenticated 1010CG application experience to CSCs** **
 
-**Post-May 31st**
+** **June 30th - Publish/market online, unauthenticated 1010CG application experience** **
+
+**Post-June 30th**
 - Ability to attach Power of Attorney documentation
 - Attach prefilled 1010CG PDF to CARMA application
 - Prevent identical applications sent back-to-back
