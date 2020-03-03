@@ -41,7 +41,7 @@ Learn more about the user, ease into conversation:
 Brief overview of the user's experience filing a claim:
 - Describe the steps you took to submit your disability claim, in as much detail as you can recall.
 - You mentioned you applied through eBenefits. Why?
-- You mentioned that you did not have help with your applcation.  Did you seek help from any resources? Did you know help was available to you? (VSO, call center)
+- You mentioned that you did not have help with your applcation.  Did you seek help from any resources? Did you know help was available to you? (VSO, contact center)
 - Was there a moment you recall when a resource or individual was particularly helpful? Why?
 - You mentioned you decided to apply 10+ years after service. Why? What prompted you to apply?
 
