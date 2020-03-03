@@ -67,7 +67,7 @@
 #### System Error
 
 1. System down - can't access claim status
-   1. Communicate that the call center can't access this info either (they get calls when the system is down, but they can't look up anything till it's back up)
+   1. Communicate that the contact center can't access this info either (they get calls when the system is down, but they can't look up anything till it's back up)
 
 #### My Rating (TBD - part of the veteran profile/dashboard)
 
