@@ -62,7 +62,7 @@
     > Over 80%
 
 - What kinds of documents besides the DD-214 do they provide?
-    > Birth certificates, marriage licenses, VA hospital cards, marriage announcements, anything they think will help prove a status - they aren’t necessary usually, if a veteran calls into call center to get someone buried, if both are deceased they need to see death certificate with the next of kin as spouse listed
+    > Birth certificates, marriage licenses, VA hospital cards, marriage announcements, anything they think will help prove a status - they aren’t necessary usually, if a veteran calls into contact center to get someone buried, if both are deceased they need to see death certificate with the next of kin as spouse listed
     > There are 130 different forms to verify your service
     > - Pre-1950 there are no DD-214s
     > - WDAGO
