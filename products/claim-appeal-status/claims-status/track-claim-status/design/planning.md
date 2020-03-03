@@ -18,7 +18,7 @@
 - [x] [Flow of current ebenefits claim status](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/eBenefits%20flow%20for%20Claim%20Status.pdf) --> Suzanne
 - [x] Tidy files and planning list for previous application work
 - [x] Revisit user stories & rank them --> Mel
-- [x] Make contact with call center for possible insights --> Josh via Kelly
+- [x] Make contact with contact center for possible insights --> Josh via Kelly
 - [x] Draft wireframes [Mel's & Josh's](https://app.moqups.com/greg@adhocteam.us/uXx8rwrZ8N/edit/page/ab6774f2a), [Suzanne's](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/Claim%20Status%20-%20DRAFT.pdf) --> Josh Q, Mel, & Suzanne in parallel
 - [x] Start conversation about usability testing needs --> Suzanne
 - [x] Inquire about login/profile component (is it in or out of scope and can the UX be outsourced to another group) --> Josh
@@ -48,7 +48,7 @@
 - [x] Draft new content plan --> Mary Ann & Suzanne
 - [x] Investigate condensing steps --> Suzanne
   - [x] Meet with Mike Carr & Jennifer Rudisill
-  - [x] Meet with Sheila at Call center
+  - [x] Meet with Sheila at Contact center
 - [x] Finish usability testing and analyze ([written notes](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/Claim%20status%20usability%20testing.xlsx) plus coded responses in Reframer and videos on request (ask Laura or Mary Ann) --> Mary Ann, Laura, Mel, Suzanne
 - [x] [content audit](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/ClaimStatusContentAudit.md) of existing ebenefits content bits--> Josh
 - [x] New content for select areas --> selected by Suzanne, content by Molly
@@ -71,13 +71,13 @@
 ## WEEK 7: 9/26/16 - 9/30/16
 - [x] Design disability rating page and where it fits into the IA --> Mel
 - [x] Update Christi
-- [x] Discuss condensing steps with Call Center
+- [x] Discuss condensing steps with Contact Center
 - [x] Finish design specs for front-end development --> Mel
 - [x] Spec out email notifications --> Mel
 - [x] Work on headers & short descriptions for tracked items --> Josh
 
 ## WEEK 8: 10/3/16 - 10/7/16
-- [x] Share recent updates with Call Center stakeholders for feedback (ebenefits banner, estimated date, and updated prototypes)
+- [x] Share recent updates with Contact Center stakeholders for feedback (ebenefits banner, estimated date, and updated prototypes)
 - [x] Work on backward movement/consolidated claim stuff --> Mel
 - [x] Work on headers & short descriptions for tracked items --> Josh
 - [x] Lots of stuff I forgot to log
