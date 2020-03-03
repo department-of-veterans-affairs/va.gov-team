@@ -104,7 +104,7 @@ We expect to see the following:
 ## KPIs
 
 ### Objectives & Tracking
-- **Objective**: Reduce the number of veterans that report to the call center that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
+- **Objective**: Reduce the number of veterans that report to call centers that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
   - **Tracking**: Work with the call center team team to see if there is an decrease in call in cases.
 - **Objective**: Increase the amount of successful mailing address submissions.
   - **Tracking**: Track whether we see people using suggested addresses.
@@ -113,7 +113,7 @@ We expect to see the following:
   - **Tracking**: Track the number of successful address form submissions increases.
 - **Objective**: Reduce returned mail at the VA (Note: Not sure how to measure this).
   - **Tracking**: Not sure how to determine whether the overall rate of returned mail has decreased at the VA.
-
+  
 ---
 
 # Implementation Info
