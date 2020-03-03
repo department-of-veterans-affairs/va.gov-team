@@ -6,7 +6,12 @@ Navigation: <br>
 **Use case - All devices are ineligible:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md#description-2) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md#feedback-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md#content-2)
 
 ## Select Supplies (Default)
-Related links: [Invision prototype: Default page, unselected (Desktop)](https://vsateams.invisionapp.com/share/PYW5VLL32XU) | [Invision prototype: Default page, 'no' selected (Desktop)](https://vsateams.invisionapp.com/share/NZW5VMKMUE9) | [Invision prototype: Default page, 'yes' selected, hearing aids for both ears only](https://vsateams.invisionapp.com/share/C5W5VNGNBPY) | Invision prototype: Default page, 'yes' selected, mix of hearing aids [(Desktop)](https://vsateams.invisionapp.com/share/QVW5VPDMK3B) [(Mobile)](https://vsateams.invisionapp.com/share/8YW5VRVWRUS) | [Github Issue: Default state v.01](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5793)
+Related links:<br>
+**1.** Invision prototype: Default page, unselected [(Desktop)](https://vsateams.invisionapp.com/share/PYW5VLL32XU) <br>
+**2.** Invision prototype: Default page, 'no' selected [(Desktop)](https://vsateams.invisionapp.com/share/NZW5VMKMUE9) <br>
+**3.** Invision prototype: Default page, 'yes' selected, hearing aids for both ears only [(Desktop)](https://vsateams.invisionapp.com/share/C5W5VNGNBPY) <br>
+**4.** Invision prototype: Default page, 'yes' selected, mix of hearing aids [(Desktop)](https://vsateams.invisionapp.com/share/QVW5VPDMK3B) | [(Mobile)](https://vsateams.invisionapp.com/share/8YW5VRVWRUS) <br>
+**5.** [Github Issue: Default state v.01](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5793)
 
 ### Description 
 This is the flow for the default state allowing the veteran to select the hearing aid(s) they would like to place batteries for. The flow contains multiple screens for various use cases. <br><br>
