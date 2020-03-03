@@ -1,5 +1,7 @@
 # Form Confirmation Page
 
+To read about what Form Confirmation pages should look like, with default copy, see [VSP's form confirmation page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
+
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  
 - [Github issue]()
@@ -13,7 +15,7 @@ Give a brief description of this page and what it does
 
 ### Content
 
-Start with [a form confirmation page like this]() and edit as needed
+Start with [a form confirmation page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md) and edit as needed
 
 ```
 # Title of page
