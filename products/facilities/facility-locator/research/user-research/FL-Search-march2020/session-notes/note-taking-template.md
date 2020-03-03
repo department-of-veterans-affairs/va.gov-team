@@ -11,14 +11,35 @@
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
 
-**Participant:**
+**Participant:** Notes here
 
 ## Warm up questions
 
 **Moderator: Before we look at the website, let’s start with a few warm-up questions. Tell me about your service history.**
 
+**Participant:** Notes here
+
 **Moderator: How often do you visit the VA website?**
+
+**Participant:** Notes here
 
 **Moderator: Have you ever used the facility locator on the VA website?**
 
+**Participant:** Notes here
+
 **Moderator: Tell me about a time you used the facility locator? What did you use it for?**
+
+**Participant:** Notes here
+
+## Task 1 - Find Facility Locator
+
+**Moderator: I'm going to send you a link to the VA website. Once you have it pulled up, will you share you screen with me? I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions.**
+
+**Participant:** Notes here
+
+**Moderator: - You've come to the VA website because you need help applying for benefits and want to see someone in person at a VA facility. Show us how you would do that.**
+
+**Participant:** Notes here
+
+## Task 2 - Find Facility Locator
+
