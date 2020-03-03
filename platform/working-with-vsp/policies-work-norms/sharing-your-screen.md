@@ -52,7 +52,7 @@ Especially if you are testing a live prototype or website, turn off the browser 
 If your form will allow moving backwards and forwards, it’s nice to prefill all the fields (high five Chris Valarida) so that people don’t have to watch you type. It means you can quickly move through the uncontroversial stuff and spend more time on tricky details.
 
 ## Demo videos
-We often record walktrough videos for use by the call centers to train staff on changes or new features. These are typically "internal use", but you never know if it might have a wider audience. 
+We often record walktrough videos for use by the contact centers to train staff on changes or new features. These are typically "internal use", but you never know if it might have a wider audience. 
 
 *All of the above*
 
