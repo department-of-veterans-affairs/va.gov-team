@@ -9,8 +9,8 @@
 ## Overview
 
 ### Objective
-To determine an engineering approach that enables application teams to
-operate independently.
+To determine an engineering approach that enables application teams to operate
+independently.
 
 This document is intended for front end and DevOps engineers on the
 Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VSA) teams.
@@ -27,11 +27,13 @@ The `vets-website` build is responsible for a lot of things. The most important
 pieces include:
 - Pulling content from the [CMS](#CMS)
 - Transforming that content into HTML files
-- Validating the HTML files including detecting broken links and accessibility violations
+- Validating the HTML files including detecting broken links and accessibility
+  violations
 - Building `vets-website` common and application specific JavaScript bundles
 - Building `vets-website` common and application specific CSS bundles
 - Running all >5k unit tests for all applications
-- Running all end-to-end tests for all applications (non-integration singe page app browser tests)
+- Running all end-to-end tests for all applications (non-integration singe page
+  app browser tests)
 
 
 ##### Deploy
@@ -61,9 +63,9 @@ Likewise, when there's a content issue, such as an accessibility violation, all
 application teams' PRs will fail in CI until the accessibility violation has
 been resolved by a content editor.
 
-**Important exception:** Test failures in the latest `master` branch will not prevent
-content-only deployments since those use the latest stable `vets-website`
-release.
+**Important exception:** Test failures in the latest `master` branch will not
+prevent content-only deployments since those use the latest stable
+`vets-website` release.
 
 
 ###### Test failures in `master`? How?
