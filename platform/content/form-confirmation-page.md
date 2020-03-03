@@ -1,5 +1,5 @@
 
-## Form Confirmation Page Template 
+## Form Confirmation Page template 
 
 ### What's the purpose of the Form Confirmation page?
 
