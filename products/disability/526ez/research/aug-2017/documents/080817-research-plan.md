@@ -38,7 +38,7 @@ Observers: Kristin
 
 - Contextual Inquiry: 1-on-1 60-minute interviews with people that are critical members of the claims ecosystem. Part of this interview will be observation of them interacting with Veterans, part will be the interview
 - Field User Interviews: 1-on-1 60-minute interviews with Veterans in their home or office. 
-- Data Analysis: collecting call center data, survey data, existing data on how people use eBenefits
+- Data Analysis: collecting contact center data, survey data, existing data on how people use eBenefits
 
 _More information on why [these methods](https://www.nngroup.com/articles/which-ux-research-methods/) were chosen._
 
@@ -173,13 +173,13 @@ You successfully submitted your disability compensation claim. Your claim was pr
 
 ### Contextual Interviews
 
-For each of these, we would spend the first 10 minutes introducing the research project at a high-level. Then, we would observe the person for 20 minutes (goals -- immerse ourself in the language, problems, mental model of call center). Afterwards, we'd do a 30 minute enthnographic interview.
+For each of these, we would spend the first 10 minutes introducing the research project at a high-level. Then, we would observe the person for 20 minutes (goals -- immerse ourself in the language, problems, mental model of contact center). Afterwards, we'd do a 30 minute enthnographic interview.
 
 (1) A Veteran Service Representative that develops claims. We would observe the VSR opening a claim for the first time and have them talk about their process. 
 
 (2) A Decision Review Officer that makes decisions about ratings. We would observe the VSR as they review the evidence and rating. Then, we'd talk about their process. 
 
-(3) Someone in a call center that responds to questions related to claim submittions that are awaiting a decision. 
+(3) Someone in a contact center that responds to questions related to claim submittions that are awaiting a decision. 
 
 (4) Someone that helps Veterans file claims. This would be part observation of the interaction between the Veteran and the person.
 
