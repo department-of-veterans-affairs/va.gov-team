@@ -61,7 +61,7 @@ Once you are signed in to SpeedCurve, perform the following tasks to configure y
 | Permissions | Team Admin -> Grants permission to view all data, modify settings, create shared dashboards, and invite new members to the specific team. There should only be 1 Team Admin |
 |             |                                                    View Only -> Grants permission to view all data in the specific team.                                                    |
 
-![Team](../../images/speedCurve-team.png)
+![Team](../../images/speedCurve-teams.png)
 ![Add a new user](../../images/speedCurve-add-a-new-user.png)
 
 ### Configure the default settings <a name='default-settings'></a>
