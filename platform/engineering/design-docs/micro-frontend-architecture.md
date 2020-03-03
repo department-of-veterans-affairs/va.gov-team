@@ -17,7 +17,6 @@ Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VSA) teams.
 
 
 ### Background
-
 `vets-website` currently faces a number of issues affecting:
 - Build process
   - **Builds are slow** and **require a lot of memory**
