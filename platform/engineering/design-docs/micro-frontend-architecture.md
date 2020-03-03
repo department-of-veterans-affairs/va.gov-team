@@ -3,9 +3,7 @@
 **Author(s):** Chris Valarida (chris.valarida@adhocteam.us)  
 **Last Updated:** February XX, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** Andrew Gunsch, Rian Fowler, Wyatt Walter
-
-<!-- Should the approvers include anybody from DEPO? -->
+**Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler, Wyatt Walter
 
 
 ## Overview
