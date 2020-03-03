@@ -39,7 +39,7 @@
 - [ ] Complete flow of current UI (and upload to github and notify via slack)--> Suzanne
 - [X] Tidy files and planning list for previous application work
 - [X] Revisit user stories & rank them --> Mel
-- [ ] Call center research to better understand challenges
+- [ ] Contact center research to better understand challenges
   - [X] Make contact --> Josh via Kelly
   - [ ] Conduct interviews / analyze transcripts
 - [X] Draft wireframes --> Josh Q, Mel, & Suzanne in parallel
