@@ -5,7 +5,11 @@ Navigation: <br>
 **Use case - All accessories are ineligible:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description-1) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#feedback-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content-1)<br>
 
 ## Use case - Select accessories (Default)
-Relevant links: Invision Prototype (TBD) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5797)
+Relevant links: <br>
+**1.** Invision Prototype: Default state - unselected [Desktop](https://vsateams.invisionapp.com/share/GMW8RW5BXAF) <br>
+**2.** Invision Prototype: 'No Accessories' selected [Desktop](https://vsateams.invisionapp.com/share/4QW8RX5V6UT)<br>
+**3.** Invision Prototype: 'Yes Accessories' selected [Desktop](https://vsateams.invisionapp.com/share/TFW8RYERW8G) | Mobile (TBD)
+[Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5797)
 
 ### Description
 TBD
