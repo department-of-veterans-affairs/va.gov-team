@@ -74,7 +74,7 @@ Learn more about how information was relayed to the user throughout the process:
 ## Trust
 Gain insight into trust and relationship between user, VA, and process:
 - You mentioned that you did not have representation. Did you have anyone to turn to when you were stuck in the process? How did you know you were getting the information you needed?
-- Did you ever consider getting help from someone? Did you know there was help available to you (VSO, call center)?
+- Did you ever consider getting help from someone? Did you know there was help available to you (VSO, contact center)?
 - Did you find the information you needed to track your claim was available? What was unclear? What was your process for verifying information?
 - Did you feel you were ever misled in the process?
 - In your day-to-day, do you find you get information in a similar way? What is different about how you got information during the claims process? Why?
