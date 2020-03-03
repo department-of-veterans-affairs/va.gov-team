@@ -22,8 +22,10 @@ The initial focus point for each screen: <br>
 Our team initially used a checkbox styled as a button containing iconography and content that changed as the veteran selected items, but we received feedback from the A11Y team that this made it seem like the item was ordered when selected. We have updated our design to replace the iconography with a checkbox that will toggle when selected. 
 
 ## Content 
-**Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team.
+**Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team.<br>
+<br>
 **If the veteran select 'No, I don't need to order hearing aid accessories.**
+
 ```
 Home > Health care > Order hearing aid batteries and accessories
 
