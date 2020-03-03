@@ -280,7 +280,7 @@ Validate with users, iterate
 Unit test components, validate with users and UX
 
 ### Phase 2 Sequence for Obtain application status improvements
-Users may obtain application status in Phase 1 via the Caregiver Support Line. Phase 1 will include user research, IA, design, and user validation of potential improvements for obtaining application status, while development will occur in Phase 2. An online application status mitigates potential load on the call center that may result from program expansion. Scoping delivery for Phase 2 is to scope MVP for realistic May 2020 deliverable to meet the mandate.
+Users may obtain application status in Phase 1 via the Caregiver Support Line. Phase 1 will include user research, IA, design, and user validation of potential improvements for obtaining application status, while development will occur in Phase 2. An online application status mitigates potential load on the contact center that may result from program expansion. Scoping delivery for Phase 2 is to scope MVP for realistic May 2020 deliverable to meet the mandate.
 
 #### UX Strategy
 Evaluate options and define course of action
