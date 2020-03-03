@@ -45,7 +45,7 @@
 
 ## Task 2 - Review results
 
-**Moderator: I noticed you clicked [search info]. Talk about why you chose this.
+**Moderator: I noticed you clicked [search info]. Talk about why you chose this.**
 
 **Participant:** Notes here
 
