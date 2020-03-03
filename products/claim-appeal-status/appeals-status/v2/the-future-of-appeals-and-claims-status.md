@@ -129,7 +129,7 @@ This is an assumption that VA and DS are making (I'm really speaking on behalf o
 - DS appeals team is currently working with the Board to make informed decisions on the paper forms Veterans will need to fill out for the AMA lanes. Paper forms are prone to error and we can help VA stir towards 1. a single form and 2. create digital forms
 - If we provide Veterans with the right information about their status and set them up so they know what they, we can prevent a lot of bottlenecks during the process such as intake. The legacy process includes a lot of duplicative mistakes and we can see this potentially happening. Every time a Veteran submits something new, we've learned that this requires VA employees to review the appellent's information again. We can inform Veterans when and when not to submit evidence so that VA isn't receiving and reviewing more than they need to. 
 - There are ~20 Veterans without representation in the appeals process. Veterans will be looking for information and VA needs to be ready to prepare Veterans with the right information
-- The more information we can provide Veterans about their claims and appeals status, we can decrease a lot of call center volume, saving VA money. We are still testing this theory with Appeals status V2
+- The more information we can provide Veterans about their claims and appeals status, we can decrease a lot of contact center volume, saving VA money. We are still testing this theory with Appeals status V2
 
 ## Research Champions
 
