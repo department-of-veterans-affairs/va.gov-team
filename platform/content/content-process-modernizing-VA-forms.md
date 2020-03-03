@@ -7,6 +7,8 @@ Form users are:  Veterans, Veteran family members, Veteran caregivers, VA employ
 
 ## Project kickoff and discovery
 
+-----
+
 At the beginning of form work, the product team holds a kickoff to determine discovery steps and project end goal (for example, goal is to allow Veterans to fill out and submit a disability compensation form online).
 
 1. As part of this discovery work, product teams have meetings with  VA form stakeholders. Content writer/editor should be a part of this meeting to better understand the following: 
@@ -23,6 +25,8 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 
 
 ## Determine scope
+
+-----
 
 After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have picture of the larger process. 
 
@@ -52,11 +56,14 @@ Discuss the entry and exit points for the form. How will users get to the form?
 - What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
 - Does a new static landing page need to be created or updated for the form's launch? (**If so, please coordinate static page updates with the vsa-public-websites team.**)
 	
+	
 **CONTENT/DESIGN/DEVELOPER**: 
 Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
 
 ## Plain-language editing and prototype
+
+-----
 
 Content editor does a plain-language edit on the form outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form. 
 
@@ -68,6 +75,8 @@ Content editor also begins to write the form’s Introduction and Confirmation p
 
 
 ## Usability testing
+
+-----
 
 We usually do several rounds of usability testing. For the first test, we use a prototype. 
 
@@ -82,16 +91,20 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 ## Build Github files
 
+-----
+
 Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build the form in Github.  
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
 
-### Revision rounds
+#### Revision rounds
 
 Content editor continues to review PRs and provide edits until all changes have been correctly input. 
 
 ## Staging review
+
+-----
 
 Once developers build the individual form chapters and design and copy have signed off on them, the developers merge the PRs into a staging environment. This is where the e2e proofread pass happens. 
 
