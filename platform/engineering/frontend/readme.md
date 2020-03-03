@@ -2,6 +2,7 @@
 
 - [Engineering best practices](engineering-best-practices.md)
 - [Eslint](eslint/new-rule-release-notes.md)
+- [SpeedCurve](speedcurve/user-guide.md)
 
 # Request DSVA to review your team's work
 
