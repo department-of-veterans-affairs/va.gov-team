@@ -31,7 +31,7 @@ That's what this Release Plan Template is for! And note - there are feature flag
 - Desired date range: mm/dd/yy - mm/dd/yy
 - Desired number of unique users: x
 - How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
-- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported call center calls < 2 calls, error rate < 5%, etc.]
+- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
 ### Results:
 - Number of unique users: x
