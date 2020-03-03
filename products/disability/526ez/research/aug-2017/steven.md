@@ -92,7 +92,7 @@ At peak volume, Has called before and gotten a message "There is noo one availab
 
 Any time between 1st and 8th: has attributed this to that's when the military gets apid as well, so maybe people get retirement or pension. WHy is my pay less than what it's supposed to be so volume high.
 
-Has wokred in call centers before, but seems they don't care. THey might see you called a week ago, and tel  you nothing's changed, why are you calling again.
+Has wokred in contact centers before, but seems they don't care. THey might see you called a week ago, and tel  you nothing's changed, why are you calling again.
 
 Vague letters in the mail: your claim has been received, you will be notified when you claim has been moved to the next step. Months later, nothing's changed.
 
