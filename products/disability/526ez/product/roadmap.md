@@ -30,4 +30,4 @@ Epics tbd
 - Monitor feedback from test user group
 - Iterate if necessary
 - Remove PW and launch Discovery avenues
-- Analyze call center data and user feedback to see if we need to shift priority of work or change direction
+- Analyze contact center data and user feedback to see if we need to shift priority of work or change direction
