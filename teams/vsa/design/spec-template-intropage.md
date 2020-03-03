@@ -1,5 +1,7 @@
 # Form Introduction Page
 
+To read about what Form Introduction pages should look like, with default copy, see [VSP's form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md)
+
 Relevant links: 
 - Invision prototype [Desktop]()  | [Mobile]()  
 - [Github issue]()
@@ -13,7 +15,7 @@ Give a brief description of this page and what it does
 
 ### Content
 
-Start with [a form introduction page like this]() and edit as needed
+Start with [the form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) and edit as needed
 
 ```
 # Title of page
