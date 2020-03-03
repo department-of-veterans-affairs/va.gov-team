@@ -6,7 +6,7 @@ Thanks for joining us today! My name is Jordana and I also have some colleagues 
 Before we start, a few things I want to mention:
 
 * **This entire session should take about 1.5 hours.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-* In this session, **we want to hear your honest opinions.** We are not testing your ability. We just want to improve the VA.gov CMS to better meet your needs. I will not be offended by any opinions you express, and I welcome your feedback.
+* In this session, **we want to hear your honest opinions.** We are not testing your ability. We just want to improve the new CMS to better meet your needs. I will not be offended by any opinions you express, and I welcome your feedback.
 * **If for any reason and at any time you want to stop the session**, please let me know. You will not be penalized in any way if we need to stop.
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
@@ -54,9 +54,9 @@ _As we talk to users and learn about their experience, these questions can be ed
 
 Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. This journey mapping exercise that you'll do with us will help us to better understand your overall experience, so we can use it to inform future improvements to the CMS.
 
-A journey map is composed of a series or actions in a timeline. Today, we're particularly interested in hearing about you experience with two journeys: VA.gov CMS Onboarding and Content Editing. 
+A journey map is composed of a series or actions in a timeline. Today, we're particularly interested in hearing about you experience with two journeys: New CMS Onboarding and Content Editing. 
 
-In this activity, you'll walk us through the main steps that you take when going through a journey. I'll ask you to provide as much detail as you can in regards to your actions, thoughts, feelings in each step of the journey.
+In this activity, you'll walk us through the main steps that you take when going through each stage. I'll ask you to provide as much detail as you can in regards to your actions, thoughts, feelings in each step.
 
 Let's start!
 
@@ -71,7 +71,6 @@ I have just a few more questions to ask you before we finish up today.
 ## Closing - 2 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the VA.gog CMS tool and editorial experience and make sure they really work for you.
 
-Would you be willing to participate in other research sessions regarding editorial experience and the VA.gov CMS tool? 
+Would you be willing to participate in other research sessions regarding the new CMS and editorial experience? 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
