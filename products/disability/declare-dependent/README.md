@@ -137,7 +137,7 @@ TBD
 - Design Lead: 
 - Eng Lead:
 - VA Web Comms Partner:
-- VA Call Center Partner(s):
+- VA Contact Center Partner(s):
 - Production Testing Partner(s):
 - Designer(s):
 - Content Writer(s):
