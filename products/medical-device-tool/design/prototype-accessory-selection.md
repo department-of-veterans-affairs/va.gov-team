@@ -6,9 +6,9 @@ Navigation: <br>
 
 ## Use case - Select accessories (Default)
 Relevant links: <br>
-**1.** Invision Prototype: Default state - unselected [Desktop](https://vsateams.invisionapp.com/share/GMW8RW5BXAF) <br>
-**2.** Invision Prototype: 'No Accessories' selected [Desktop](https://vsateams.invisionapp.com/share/4QW8RX5V6UT)<br>
-**3.** Invision Prototype: 'Yes Accessories' selected [Desktop](https://vsateams.invisionapp.com/share/TFW8RYERW8G) | [Mobile](https://vsateams.invisionapp.com/share/D6W8WOU7WS4)<br>
+**1.** Invision Prototype: Default state - unselected [(Desktop)](https://vsateams.invisionapp.com/share/GMW8RW5BXAF) <br>
+**2.** Invision Prototype: 'No Accessories' selected [(Desktop)](https://vsateams.invisionapp.com/share/4QW8RX5V6UT)<br>
+**3.** Invision Prototype: 'Yes Accessories' selected [(Desktop)](https://vsateams.invisionapp.com/share/TFW8RYERW8G) | [(Mobile)](https://vsateams.invisionapp.com/share/D6W8WOU7WS4)<br>
 **4.** [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5797)
 
 ### Description
