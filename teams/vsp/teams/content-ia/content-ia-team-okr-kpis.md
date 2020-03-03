@@ -2,24 +2,30 @@
 
 ## Objectives and Key Results
 
-### O: Enable VFS and VSP users to find crucial documentation resources on their own
+### O: VFS and VSP team members can find all crucial documentation on their own
 
-- KR: Copy all crucial, nonsensitive documentation from `vets.gov-team` and `va.gov-vfs-teams` to `va.gov-team` and `va.gov-team-sensitive`
-- KR: Implement interim solution for shared large file storage
-- KR: Implement IA of sensitive documentation storage
-- KR: Ensure that 100% of Slackbot and >85% of GitHub links to documentation are functional 
+- KR1: Full set of crucial VFS and VSP documentation is accessible from a single entry point
+- KR2: Public documentation resources have consolidated, functional search tool
+- KR3: Implement standardized tracking of documentation support requests
 
-### O: Uphold content and information architecture standards with VFS teams without blocking their work processes 
+### O: Documentation for VFS and VSP is robust and well-maintained
 
-- KR: Implement OOO coverage process for all team members
-- KR: Acknowledge and schedule 100% of review requests within 3 business days
-- KR: Implement ≥1 VFS-facing automated test for content or IA
-- KR: Conduct initial collaboration on content and IA for >85% of VFS work efforts within 3 weeks of project kick off
+- KR1: Define core set of VFS and VSP documentation
+- KR2: Implement tracking of VFS product teams with complete docs set
+- KR3: Implement tracking of VFS team members updating docs at least 2x/month
+- KR4: Increase in % of teams that undergo documentation offboarding review before their contract end date
 
-### ~O: Ensure that 100% of VFS teams with contracts ending have captured crucial documentation about how to work on their product in an accessible and findable location~ _Deprioritized until 2020_
+### O: Scalability of and satisfaction with VSP’s Content and Information Architecture reviews continue to improve
 
-- ~KR: Determine and implement expectations for VFS teams regarding documentation offboarding~
-- ~KR: Complete documentation review for 100% of VFS teams before their contract end date~
+- KR1: Implement at least 1 VFS-facing automated test for content or IA
+- KR2: Implement OOO coverage process for all reviewing team members 
+- KR3: Improvement in VFS ratings of review points 
+
+### O: VA.gov meets VSP's content and IA standards
+
+- KR1: Process implemented for IA health of VA.gov to be measured 2x/year
+- KR2: IA health of VA.gov remains favorable throughout continued WBC efforts 
+- KR3: Process implemented for content audits of VA.gov to occur quarterly to ensure plain language consistency
 
 ---
 ## Key Performance Indicators
