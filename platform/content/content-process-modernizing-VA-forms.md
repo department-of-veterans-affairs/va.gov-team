@@ -33,18 +33,13 @@ Identify if new functionalities are required for this form. If so, discuss with 
 - Check with design system to make sure new patterns aren't reiventing the wheel. 
 	
 
-**DESIGN**: 
-Create an outline for each form’s required chapter. See example, [526-ez chapter outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design/all-claims/chapter-outlines).
+**DESIGN and CONTENT**: 
+Begin to create an outline for each form’s required chapter and create a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
 - Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
-- Identify questions that are dependent on other questions 
-
-	 
-**CONTENT and DESIGN**: 
-Create a list of copy needs: 
-
+- Identify questions that are dependent on other questions : 
 - What instructions need to appear on the online form? 
-- Do form question/labels need a plain language edit?  
+- What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. 
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
 - Discuss what content will be included on the form Introduction page
