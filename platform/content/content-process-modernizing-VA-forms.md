@@ -13,8 +13,8 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 - Is the paper form currently undergoing revisions? 
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
-- How is the paper form currently processed offline? 
-- Review the paper form and form fields to understand how each field is used and for what end 
+- How is the paper form currently processed offline? (This might help inform what type of information may need to go on the form confirmation page.) 
+- Review the paper form and form fields to understand how each field is used and for what end
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
 - Identify related and potentially dependent questions
@@ -37,20 +37,20 @@ Identify if new functionalities are required for this form. If so, discuss with 
 Begin to create an outline for each form’s required chapter and create a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
 - Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
-- Identify questions that are dependent on other questions : 
+- Identify questions that are dependent on other questions 
 - What instructions need to appear on the online form? 
 - What form question/labels need a plain language edit?  
-- Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. 
+- Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. <br>
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
-- Discuss what content will be included on the form Introduction page
-- Discuss what content will be included on the form Confirmation page
+- Discuss what content to include on the form Introduction page
+- Discuss what content to include on the form Confirmation page
 
 **CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form. How will users get to the form?
 
 - Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
 - What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the form's launch? (*If so, please coordinate with the vsa-public-websites team*)
+- Does a new static landing page need to be created or updated for the form's launch? (**If so, please coordinate static page updates with the vsa-public-websites team**)
 	
 **CONTENT/DESIGN/DEVELOPER**: 
 Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
@@ -58,11 +58,11 @@ Discuss if any specific error messaging need to be written for the form or can y
 
 ## Plain-language editing and prototype
 
-Content editor does a plain language edit on all form chapter outlines in Github. Using the content editor's recommended plain-language edits, designer creates a prototype of the form in a high-fidelity environment. 
+Content editor does a plain-language edit on the form outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form. 
 
-Content editor also begins to write the form’s introduction page and confirmation page. *See examples here: this resource is still a WIP*. 
-
-Content editor copy edits and reviews the prototype before usability testing and stakeholder reviews. 
+Content editor also begins to write the form’s introduction page and confirmation page following guidance here:<br> 
+[Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
+[Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
 Product team PM schedules a pre-usability check in with Platform team before user testing sessions. 
 
@@ -73,7 +73,7 @@ We usually do several rounds of usability testing. For the first test, we use a 
 
 Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking. 
 
-There is usually a round or two of iterations to the prototype before the form's content and design are built in Github files and merged into a staging environment. 
+Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing. This is to ensure we are tracking content revisions and feedback in one single outline (not in the protoype mockup). 
 
 
 **CONTENT/DESIGN/IA**: 
@@ -82,8 +82,7 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 ## Build Github files
 
-Once usability feedback/iterations have been implemented into the prototype, the form's content and design is built out into Github.  
-Developers build a form chapter by chapter, using the edited prototype.
+Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build the form in Github.  
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
