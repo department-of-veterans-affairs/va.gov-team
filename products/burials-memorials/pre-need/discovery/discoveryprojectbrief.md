@@ -33,7 +33,7 @@ Kudos
 ### Stakeholders
 * VA business owner: Bill Barnes
 * Stakeholders who will be involved or interviewed: 
-Want someone from call center and someone who manually enters form into EOAS
+Want someone from contact center and someone who manually enters form into EOAS
 
 
 ## DISCOVERY PLANNING
