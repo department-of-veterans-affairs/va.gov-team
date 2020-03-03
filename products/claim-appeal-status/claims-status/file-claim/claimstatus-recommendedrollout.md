@@ -11,7 +11,7 @@
   
 2. Monitor what is displaying in production, make alterations if necessary
 
-3. Prior to release, provide Sheila/Call Center with New phases and screenshots of Claim Status feature
+3. Prior to release, provide Sheila/Contact Center with New phases and screenshots of Claim Status feature
   - This will include new phase information, how the screens look, functionality, etc.
   - eBenefits Claim Status will still be functional at this point.
   - They will need to alter their scripts and the display of the phases
@@ -20,7 +20,7 @@
   - This request should be put in by the end of October to allow EVSS time to add in the content, their Claim Status feature however should be individually deployable and not have as many roadblocks as some others
 
 5. Monitor call center feedback / eben / vets.gov feedback regarding claim status
-  - Expectation is that call centers will feel a bit of an uptake in calls
+  - Expectation is that contact centers will feel a bit of an uptake in calls
   
 5. Complete the 526EZ form in vets.gov (estimated Dec-Jan)
 6. (Also ensure disabilities/rating info are in vets.gov)
@@ -30,7 +30,7 @@
   
 ## Goal: 
 Move all Compensation Disability Benefits items from eBenefits to vets.gov by Feb 1 and turn off those pages in ebenefits.
-    - Question will be what happens to these featuers in SEP as we shut them down in eBenefits (POA users will see the old pages, that will no longer match what the call center sees)
+    - Question will be what happens to these featuers in SEP as we shut them down in eBenefits (POA users will see the old pages, that will no longer match what the contact center sees)
 
 ## Long Term:
  Eventually the EVSS Backend will need to be replaced by new and direct services with BGS so that the EVSS Framework can be turned off. 
