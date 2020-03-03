@@ -1,6 +1,6 @@
 # Monitoring performance on VA.gov
 
-SpeedCurve provides insight into the interaction between performance and design to help Veteran-facing services (VFS) teams deliver fast and engaging user experiences.
+[SpeedCurve](https://www.speedcurve.com) provides insight into the interaction between performance and design to help Veteran-facing services (VFS) teams deliver fast and engaging user experiences.
 
 SpeedCurve also provides performance feedback of each app such as page size and how long it takes to load a page, and can show you the impact new features have on the performance of the app.
 
