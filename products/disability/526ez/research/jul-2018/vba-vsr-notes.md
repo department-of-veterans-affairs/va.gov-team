@@ -24,7 +24,7 @@ VBMS Standard (or Core) is accessible by VSOs
 temitope.balogun@va.gov 
 
 **What are the mistakes veterans make when submitting claims?**
-Veterans do not respond to calls — check messages, call call center back, haven’t updated contact info
+Veterans do not respond to calls — check messages, call contact center back, haven’t updated contact info
 
 Veterans that are already service-connected sometimes request they submit multiple claims for the same thing
 
@@ -44,10 +44,10 @@ If veteran can get a copy of medical records from the national personnel and rec
 PDFs claims go to cloud —> organized Suspense date and station availability —>   Drop into station work queue  —> assigned to individual work queue for the individual VSR.
 
 **How does a veteran's contact info get updated if it's wrong?**
-Call Center can update contact information so that when they generate letters it should go to the right address. We can do a CLEAR search of their records or call veteran.
+Contact Center can update contact information so that when they generate letters it should go to the right address. We can do a CLEAR search of their records or call veteran.
 
 **What happens if a veteran makes a mistake on their claim?**
-If they mis-filed they can send something(4138) in or contact call center (they upload a 21-0820 and label it and put notes in the system)
+If they mis-filed they can send something(4138) in or reach out to the contact center (they upload a 21-0820 and label it and put notes in the system)
 
 **So if you get a duplicate 2 conditions then another 2 a month later** 
 The second will still be evaluated, the second claim just won't be in the FDC program and will not get original ITF date but granting an effective date can be determined by many things including other regulations regarding service or specific conditions.
