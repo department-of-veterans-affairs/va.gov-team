@@ -45,8 +45,8 @@ Once you are signed in to SpeedCurve, perform the following tasks to configure y
 |      Benchmarking       |      Government      |
 |         Region          |    US West Coast     |
 
-![Admin](../images/speedCurve-admin.png)
-![Add a new team](../images/speedCurve-add-a-new-team.png)
+![Admin](../../images/speedCurve-admin.png)
+![Add a new team](../../images/speedCurve-add-a-new-team.png)
 
 ### Add team members <a name='add-team-member'></a>
 
@@ -61,8 +61,8 @@ Once you are signed in to SpeedCurve, perform the following tasks to configure y
 | Permissions | Team Admin -> Grants permission to view all data, modify settings, create shared dashboards, and invite new members to the specific team. There should only be 1 Team Admin |
 |             |                                                    View Only -> Grants permission to view all data in the specific team.                                                    |
 
-![Team](../images/speedCurve-team.png)
-![Add a new user](../images/speedCurve-add-a-new-user.png)
+![Team](../../images/speedCurve-team.png)
+![Add a new user](../../images/speedCurve-add-a-new-user.png)
 
 ### Configure the default settings <a name='default-settings'></a>
 
@@ -77,7 +77,7 @@ Upon the creation of a new team, the site settings need to be adjusted. These ar
 |  Checks  |                   3                    |                                                                                                                       |
 |  Alerts  | hooks.slack.com[app designated emails] | hooks.slack.com - used to integrate the alerts into slack[app designated emails] - used to email any alerts triggered |
 
-![Settings](../images/speedCurve-settings.png)
+![Settings](../../images/speedCurve-settings.png)
 
 ## Dashboards <a name='dashboards'></a>
 
@@ -93,15 +93,15 @@ Default settings:
 |   Team Visibility   | Visible to the whole team |
 | Weekly Email Report |  [app designated emails]  |
 
-![Add dashboard](../images/speedCurve-add-dashboard.png)
-![Add dashboard settings](../images/speedCurve-add-dashboard-settings.png)
+![Add dashboard](../../images/speedCurve-add-dashboard.png)
+![Add dashboard settings](../../images/speedCurve-add-dashboard-settings.png)
 
 ### Configure the dashboard
 
 The dashboard’s setting can be edited from the gear located in the upper right hand corner
 
-![Edit dashboard](../images/speedCurve-edit-dashboard.png)
-![Edit dashboard](../images/speedCurve-gear-dashboard.png)
+![Edit dashboard](../../images/speedCurve-edit-dashboard.png)
+![Edit dashboard](../../images/speedCurve-gear-dashboard.png)
 
 ### Metrics
 
@@ -144,7 +144,7 @@ The front-end team recommends to create a chart for each of the following metric
 | Performance Budget |    Budget metric    |         [Metric Name]          |
 |                    | Absolute threshold  | [Metric recommended threshold] |
 
-![Add chart](../images/speedCurve-add-chart.png)
+![Add chart](../../images/speedCurve-add-chart.png)
 
 ## Understanding the dashboards
 
