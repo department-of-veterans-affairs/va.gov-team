@@ -11,10 +11,10 @@ In general the confirmation page should include the following elements:
 
 ### Sample template 
 
-1. H1: File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1. 
-
-  *For example:* 
-  H1: File for disability compensation (Form 21-526EZ)
+1. H1: File for [benefit] or Apply for [benefit] and the VA paper form equivalency appears next to or below the H1.<br> 
+   *For example:* 
+  
+  H1: **File for disability compensation (Form 21-526EZ)**
 
 2. After the H1 we should include a line of content letting users know that they can print this confirmation page. <br>
     *For example:*
@@ -27,7 +27,7 @@ In general the confirmation page should include the following elements:
       **Thank you for submitting your application** or <br>
       **Your claim has been submitted** <br>
 
-4. A line of content letting applicant know that VA migh contact them for more information or documents. <br>
+4. A line of content letting applicant know that VA might contact them for more information or documents. <br>
      *For example:*
      
      **We may contact you for more information or documents.**
@@ -37,9 +37,9 @@ In general the confirmation page should include the following elements:
 
 {begin Blue box}
   - Applicant name
-  - Benefit they’re applying for
+  - Benefit they’ve applied for
   - Confirmation number
-  - Date claim or application has been submitted
+  - The date that claim or application was submitted
   - Other important information about their claim, such as disability conditions, they’re claiming. <br>
   
   {end blue box}
@@ -48,9 +48,9 @@ In general the confirmation page should include the following elements:
 
 What other content to include on the confirmation page is based on the type of benefit and how long it might take for VA to process an application. Some benefit confirmation pages might need more information than others. 
 
-Content writers and designers should work together to determine the best format and content for the confirmation page, based on stakeholder feedback and type of benefit. 
+Content writers and designers should work together to determine the best format and content for the confirmation page, based on the type of benefit and stakeholder feedback. 
 
-  *Examples of what type of content to include:*                                         
+  *Examples of other type of content to include:*                                         
 
 - How long will it take VA to process the application? 
 
