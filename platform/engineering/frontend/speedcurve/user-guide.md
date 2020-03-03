@@ -68,14 +68,14 @@ Once you are signed in to SpeedCurve, perform the following tasks to configure y
 
 Upon the creation of a new team, the site settings need to be adjusted. These are the default settings:
 
-| Setting  |             Default Value              |                                                        Comment                                                        |
-| :------: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-|  Sites   |               [App Site]               |         This should be already included when the team was created.Multiple sites can be added for monitoring          |
-| Regions  |             US West Coast              |                                                                                                                       |
-| Browsers |       Apple iPhone X and Chrome        |                                                                                                                       |
-|  Times   |                 15:30                  |                                                                                                                       |
-|  Checks  |                   3                    |                                                                                                                       |
-|  Alerts  | hooks.slack.com[app designated emails] | hooks.slack.com - used to integrate the alerts into slack[app designated emails] - used to email any alerts triggered |
+| Setting  |               Default Value                |                                                          Comment                                                          |
+| :------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+|  Sites   |                 [App Site]                 |         This should be already included when the team was created.<BR>Multiple sites can be added for monitoring          |
+| Regions  |               US West Coast                |                                                                                                                           |
+| Browsers |         Apple iPhone X and Chrome          |                                                                                                                           |
+|  Times   |                   15:30                    |                                                                                                                           |
+|  Checks  |                     3                      |                                                                                                                           |
+|  Alerts  | hooks.slack.com<BR>[app designated emails] | hooks.slack.com - used to integrate the alerts into slack<BR>[app designated emails] - used to email any alerts triggered |
 
 ![Settings](../../images/speedCurve-settings.png)
 
