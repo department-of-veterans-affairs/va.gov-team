@@ -35,11 +35,12 @@ Note: Originally considered for a global revision, DEPO has decided to implement
 
 ### Project Rationale
 _Why should this project be a priority?_ 
-As a VA, but not VA.gov, website, the following design principles and rules apply to this project
+
+As a VA, but not VA.gov, website, the following **design principles and rules** apply to this project
 - Users should get to all content and tools in just 1-2 clicks/taps
 - Users should know what page they are on and what section that are in
 
-Research Findings:
+**Research Findings:**
 - Veterans use the left menu (parent/children views) to help make informed navigation decisions
 
 The sub pages within a section — also known as the page’s “children” — provide additional context that helps a Veteran way find to the right information or services. By introducing a new design for local navigation that exposes these children, it will provide valuable additional context without requiring a user to leave the parent page.
@@ -47,7 +48,6 @@ The sub pages within a section — also known as the page’s “children” —
 **However** with current functionality: 
 - The Pittsburgh heath care site is confusing to navigate. Users forget what page they are on after scrolling past the page heading, do not understand the hierarchial content structure and find the menu to be distracting rather than helpful. 
 - Users of the existing site navigation make a “best guess” given the elements in the left navigation. The only way they could confirm their guess was by going to the page in question creating a "pogo-stick" behavior
-
 
 **Stakeholder/Business drivers**
 - This project is a commitment to the business to resolve identified accessibility and usability defects and is one of the issues blocking the Pittsburgh announcement. 
