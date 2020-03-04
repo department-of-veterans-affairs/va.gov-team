@@ -1,7 +1,7 @@
-# [Project Name] Design + Content Specifications 
-Designer, Team
+# [10-10CG MVP] Design + Content Specifications 
+Jonathan Nelson, Caregiver
 
-[Product Outline]()
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md)
 
 ## High Level Flow Diagram
 
