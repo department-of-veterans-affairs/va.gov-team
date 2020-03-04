@@ -1,4 +1,4 @@
-# Infrastructure Overhaul Initiative Outline
+# Infrastructure Recommit Initiative Outline
 
 ## Points of Contact
 - GitHub Label: none
