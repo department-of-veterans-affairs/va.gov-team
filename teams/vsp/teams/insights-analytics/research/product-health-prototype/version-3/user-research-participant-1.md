@@ -54,9 +54,9 @@ Participant 1, Monday, October 7, 5:00pm ET
 - Customer satisfaction would be nice, but not sure if we collect the numbers on that.
 - Through prompting, product specific CSAT would be helpful
 ---
-- Likes call center calls.
-- It’s interesting to see the calls divorced from usage stats. Some ratio of traffic to call center calls would be a more accurate assessment.
-- Doesn’t know who answers calls for call centers. Would like call center information on who’s calling and for what
+- Likes contact center calls.
+- It’s interesting to see the calls divorced from usage stats. Some ratio of traffic to contact center calls would be a more accurate assessment.
+- Doesn’t know who answers calls for contact centers. Would like contact center information on who’s calling and for what
 
 **Target Section:**
 
