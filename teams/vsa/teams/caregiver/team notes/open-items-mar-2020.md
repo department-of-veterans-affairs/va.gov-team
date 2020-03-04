@@ -23,11 +23,11 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Requirement | Ticket # |
 | --- | ---| 
 | Allow Veteran to track application status *  |
-| Work with Facilities API to use them as a source of truth for facilities| 
+| Work with Facilities API to use them as a source of truth for facilities| N/A |
  `*` Options: 
 - Use application ID number to query for status update
 - Work with MPI to return status there
-- Add to Veteran profile/account| 
+- Add to Veteran profile/account
 
 ## Phase 3
 | Requirement | Ticket # |
