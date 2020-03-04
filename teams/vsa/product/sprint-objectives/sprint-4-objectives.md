@@ -4,7 +4,7 @@
 ## Authenticated Experience
 - Direct Deposit
   - Launch Direct Deposit to a % traffic
-    - monitor via GA and toggle as needed - dependent on security review completion/call center training completion (8/20) and platform team feature toggle readiness. Planning to launch 9/24/19.
+    - monitor via GA and toggle as needed - dependent on security review completion/contact center training completion (8/20) and platform team feature toggle readiness. Planning to launch 9/24/19.
     - Direct Deposit functionality for 10% of users ported to VA.gov from eBenefits 
     - Back-End changes that resulted from pre-launch Security Review (5 Items to be completed before launching)
 - Address Validation & Override Functionality
