@@ -191,7 +191,7 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
 - Eng Lead: Jose Costa
 
-- VA Call Center Partner(s):  Chante Lantos-Swett
+- VA Contact Center Partner(s):  Chante Lantos-Swett
 
 - Production Testing Partner(s): Tze Chu-Lei
 
