@@ -120,7 +120,7 @@ eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 ## Team
 - DSVA Product Manager: Steve Kovacs
 - Team Product Manager: Jason Wolf
-- VA Call Center Partner(s): TBD
+- VA Contact Center Partner(s): TBD
 - UX Designer: Aricka Lewis
 - Designer/Reseearcher: James Adams
 - Front-end Engineer: Micah Chiang
