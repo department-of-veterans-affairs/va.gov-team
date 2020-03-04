@@ -42,7 +42,7 @@ Natalie, Mina, James, Wyatt, Lauren, Brian, Andrea, Matt, Steve, Melissa S.
   - Content says "may not be working", are we ok with it being up if we aren't sure that there is/isnt an error
   - automated banner
     - based on metrics
-    - query to prometheus, based on rates, call center (call center emails griffins if there is an issue related to login OR reach out to Aubrey and he relays issue to griffins.)
+    - query to prometheus, based on rates, contact center (contact center emails griffins if there is an issue related to login OR reach out to Aubrey and he relays issue to griffins.)
       - Concern: Aubrey is single person. need plan B. but can scale up if this works
   - to get banner on log in modal, add maintenance window in pager duty
 
