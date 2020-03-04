@@ -75,7 +75,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Tressa Furner	
 - Participant(s) for pilot test: TBD
 - Note-takers: TBD
-- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley ( ), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us)
+- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley (bconley@governmentcio.com), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
