@@ -67,7 +67,7 @@ The script will log to the console:
 
 ### Debugging
 
-If a user sets up the proper environment variables locally, the script can be run in a local environment and the logging output can be viewed.  Otherwise we will rely on viewing CircleCI logs.
+If a user sets up the [proper environment variables](./manual-review-triggers.md#reguired-environment-variables) locally, the script can be run in a local environment and the logging output can be viewed.  Otherwise we will rely on viewing CircleCI logs.
 
 ### Caveats
 
