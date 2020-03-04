@@ -61,7 +61,7 @@ Eventually we may want to present the application directly and without authentic
   - Stakeholders
   - GA
   - Errors in Sentry
-  - Call Center
+  - Contact Center
   
 ### Potential Acceptance Criteria
 - [ ] As an authenticated (LOA3) user, I can see a login button on the static landing page that uses the usual design pattern
