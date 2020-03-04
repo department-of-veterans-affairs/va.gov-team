@@ -34,7 +34,7 @@ _Further research_: Unless I’m missing something, this all doesn’t quite map
 
 - Cannot edit: military service, service-connection percentage, special factors (e.g. Agent Orange, Camp Lejeune), and identifiers from MVI
 - These all display from E&E, but if they are wrong, would have to go back to the source
-- Special factors: would want to call the call center
+- Special factors: would want to call the contact center
 - Disability info: call VBA
 - Can edit: contact information, financial disclosure, insurance, dependents
 - Currently, if they edit non-editable fields, it creates a work item for staff… which probably works out fine. Thus we are not prioritizing this.
