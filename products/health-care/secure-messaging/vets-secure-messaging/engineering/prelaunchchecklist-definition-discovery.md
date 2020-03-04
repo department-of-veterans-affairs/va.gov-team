@@ -26,7 +26,7 @@
 
 - [x] Define sprint team meeting schedule
 
-- Send signed charter to stakeholders, including Sheila Guitteriez (Call Center POC) and Kelly O. for PM purposes
+- Send signed charter to stakeholders, including Sheila Guitteriez (Contact Center POC) and Kelly O. for PM purposes
 
 - Hold a kick-off meeting to assemble entire team including VA stakeholders
     - [ ] Review project goals, timeline, roles and definitions and adjust as needed
