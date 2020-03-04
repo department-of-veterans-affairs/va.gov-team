@@ -7,7 +7,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Communicate and embrace transparency
 - Stay organized and help your future self and team
 - Measure outcomes where possible
-- Remember the Call Center
+- Remember the Contact Center
 
 ----
 
