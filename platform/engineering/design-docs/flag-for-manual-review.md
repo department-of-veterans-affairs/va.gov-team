@@ -76,7 +76,10 @@ No other context is included.
 
 ### Security Concerns
 
-We should make sure that the Github bot auth token is kept secure and it should not be associated with an individual's account.  The sole communicators in the system are CircleCI and Github.  This isn't really a security concern, but more of a reliability one: if one of those services goes down we do not have a fallback plan.
+We should make sure that the Github bot auth token is kept secure and it should not be associated with an individual's account.
+The current strategy for storing this token is as an [environment variable in CircleCI](https://ui.circleci.com/settings/project/github/department-of-veterans-affairs/vets-website/environment-variables) called `GITHUB_TOKEN`.
+
+The sole communicators in the system are CircleCI and Github.  This isn't really a security concern, but more of a reliability one: if one of those services goes down we do not have a fallback plan.
 
 ### Privacy Concerns
 
