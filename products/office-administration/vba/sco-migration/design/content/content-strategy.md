@@ -89,7 +89,7 @@ This section contains links to additional resources that School Administrators c
 - Contains an email link for Find your Education Liason Representative (ELR)
 - Contains an email link for VBA Support Team
 - Contains a link to VA Email updates
-- Contains contact information for the VA Education Call Center
+- Contains contact information for the VA Education Contact Center
 
 ### Recommendations for the future
 
