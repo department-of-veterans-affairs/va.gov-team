@@ -45,7 +45,7 @@ Findings presented here are pending a formal analysis of research session transc
 - Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how, and how much, information was displayed.
 - Generally, Veterans were able to locate information and links quickly. Most considered the info presented appropriate in term of content and amount.
 - Navigation back to the "landing-page" entry point was unclear to many participants. Many participants would opt for other navigational options or simply sign-out rather that return to the landing screen.
-- The most prominent pain points seemed to center around login/authorization, and call center experiences.
+- The most prominent pain points seemed to center around login/authorization, and contact center experiences.
 - The most requested featured included real-time chat, drill-down details for specific disabilities, and specific information regarding the VA disability ratings formula.
 
 #### View Dependents
