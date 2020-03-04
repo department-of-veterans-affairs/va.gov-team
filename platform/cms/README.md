@@ -2,7 +2,7 @@
 
 VA.gov's content management system provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-## Documentation 
+## A guide to CMS Documentation 
 
 Documentation about the CMS lives in various places
 * The CMS itself houses [CMS user guides](https://prod.cms.va.gov/documentation) (VA network access required, and CMS login required, for now). 
