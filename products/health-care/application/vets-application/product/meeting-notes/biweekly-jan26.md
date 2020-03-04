@@ -18,5 +18,5 @@ There are currently 4 different feedback needs:
 + DS team fixes
 
 # NEXT STEPS 
-1. get data from call center
+1. get data from contact center
 2. send link to Joan and team (process for technical glitches)
