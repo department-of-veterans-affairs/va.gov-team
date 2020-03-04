@@ -10,7 +10,7 @@ If the issue is non-technical (Tier 1) and can be resolved by agent, subject = N
 Description of issue in the case category field
 If the issue is Tier 2/3 the WHH agent will communicate to the user that their case is being escalated and provide the VA.gov triage team’s SLA for a response.
 Once the issue is in Salesforce (VA.gov triage team process)
-VA.gov Call Center Lead will run reporting to gather new issues
+VA.gov Contact Center Lead will run reporting to gather new issues
 Review reporting
 Ensure that all viable information has been collected for triage, design, or product teams.
 If not, contact customer directly
@@ -26,7 +26,7 @@ The designated team
 Team priority process
 Team backlog
 Issue Resolution
-VA.gov Call Center team report ETA or resolution back to WHH or customer directly.
+VA.gov Contact Center team report ETA or resolution back to WHH or customer directly.
 
 Other processes to discuss
 Incorporate weekly check in with WHH essential staff to cover
