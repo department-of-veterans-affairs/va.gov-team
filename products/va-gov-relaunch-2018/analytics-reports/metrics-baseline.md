@@ -55,7 +55,7 @@ Other details:
 - Increase in % Prescription refills requested/filled online **=** *(Post Merge Online / Post Merge Total) - (Pre Merge Online / Pre Merge Total)*
 
 ## Track
-- Number of prescription refills at call center **=** *(Refill Calls 2017 + Refill Calls 2018)*
+- Number of prescription refills at contact center **=** *(Refill Calls 2017 + Refill Calls 2018)*
 - Number of prescription refills done online **=** *(MHV Online 2017 + Vets Online 2017) + (MHV Online 2018 + Vets Online 2018)*
 
 ## Education (1990) 
@@ -89,7 +89,7 @@ First, we will to measure a baseline for current performance of VA web propertie
   - Apply for Education Benefits **=** *(Total 946,921) (Online 372,452)*
   - Apply for Healthcare **=** *(Total 792,379) (Online 258,379)*
   - File a Disability Claim **=** *(Total 122,7043) (Online 262,352) (Paper 964,691)*
-  - Request Prescription Refill **=** *(Total 137,829,689) (MHV Online 16,934,728) (Vets Online 22,116) (Call Center 1,172,845)*
+  - Request Prescription Refill **=** *(Total 137,829,689) (MHV Online 16,934,728) (Vets Online 22,116) (Contact Center 1,172,845)*
   - Schedule a Medical Appointment **=** *(Total 108,820,144) (VAR Online 5,100)*
   - Request a Burial Flag **=** *(Total 356,955)
   - Request a Pre-Need Burial **=** *(Total 23,027)*
