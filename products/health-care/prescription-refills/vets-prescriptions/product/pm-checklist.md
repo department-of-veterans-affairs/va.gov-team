@@ -34,7 +34,7 @@ Theresa Hancock from MHV is final decision maker, although Tom Emmendorfor from 
 
 - [ ] Define sprint team meeting schedule
 
-- [ ] Send signed charter to stakeholders, including Sheila Guitteriez (Call Center POC) and Kelly O. for PM purposes
+- [ ] Send signed charter to stakeholders, including Sheila Guitteriez (Contact Center POC) and Kelly O. for PM purposes
 
 - [ ] Hold a kick-off meeting to assemble entire team including VA stakeholders
     - [ ] Review project goals, timeline, roles and definitions and adjust as needed
@@ -159,7 +159,7 @@ Theresa Hancock from MHV is final decision maker, although Tom Emmendorfor from 
     - [ ] Start end-to-end functional testing at least 4 weeks prior to launch; must include VA stakeholders
     - [ ] Document processes for handling and prioritizing user feedback from all known channels
     - [ ] Ensure VA Business owner product team acceptance of pre-launch product including any known issues
-    - [ ] Coordinate with Sheila Guiterriez (our vets.gov Call Center POC) to prepare VA call centers for launch and provide scripts as needed
+    - [ ] Coordinate with Sheila Guiterriez (our vets.gov Contact Center POC) to prepare VA contact centers for launch and provide scripts as needed
     - [ ] Develop a communication plan for announcing the launch internally and externally; coordinate with Martin Taylor (Sec Office) via Kelly
 
 - [ ] Open source all code
@@ -190,5 +190,5 @@ Theresa Hancock from MHV is final decision maker, although Tom Emmendorfor from 
 ## Post-Launch
     - [ ] Ensure monitoring and resolve issues in 24 hours
     - [ ] Collect and report metrics and Google Analytics
-    - [ ] Coordinate with Call Center to monitor calls 
+    - [ ] Coordinate with Contact Center to monitor calls 
     
