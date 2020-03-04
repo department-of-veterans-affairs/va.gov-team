@@ -12,7 +12,7 @@ Put any high-level artifacts here that would help developers understand the over
 Put notes here about interactions or content that apply globally
 
 ## Per Page Specifications
-The most updated version of the full prototype can be viewed [here]().
+The most updated version of the full prototype can be viewed [here](https://vsateams.invisionapp.com/share/UDW9MPS5ETW).
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
 
