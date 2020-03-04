@@ -93,7 +93,7 @@ If you have hearing loss, call TTY: 711.
 
 ## Use case - All accessories are ineligible 
 Relevant links:<br>
-**1.** Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/G6W9N8F4TH7). <br>
+**1.** Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/G6W9N8F4TH7) <br>
 **2.** [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5798)
 
 ## Description
