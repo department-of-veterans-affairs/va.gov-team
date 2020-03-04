@@ -78,13 +78,13 @@ Any concerns?
 
 **Nope, everything is going fine. Tanel and team have reported that metrics and monitoring showed slight uptick and then plateaured off. In past 2 hours, 120 LOA3 issued licenses created.**
 
-## Call Center
+## Contact Center
 
 - Denise Kitts`*`
 
 Any concerns?
 
-**No escalations from VBA or HRC call centers**
+**No escalations from VBA or HRC contact centers**
 
 ## VA311
 
