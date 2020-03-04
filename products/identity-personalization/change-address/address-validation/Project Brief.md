@@ -13,7 +13,7 @@ Currently the VA receives an excessive of returned USPS mail as undeliverable an
 ### Sprint Roles
 
 * DSVA Product Lead: Lisa Koenigsberg
-* Product Manager: Justin Pickett
+* Product Manager: Matt Shea
 * Developers: Brad Conley, Eric Hansan, Lihan Li
 * Designer/Researcher: Arthur Green
 * QA: Tze-chiu Lei
