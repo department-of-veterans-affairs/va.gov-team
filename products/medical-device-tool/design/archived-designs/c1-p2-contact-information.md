@@ -1,6 +1,6 @@
-# Archived Designs: 03/04/2020
+# Archived Designs: C1 P2 - Contact Information
 
-## C1 P2: Contact Information
+## Iteration 1: 03/04/2020
 
 The most current iteration of this screen can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-contact-information.md).
 
