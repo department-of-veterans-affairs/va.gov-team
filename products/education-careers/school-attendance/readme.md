@@ -74,7 +74,7 @@ Veterans have difficulty applying to Request for Approval of School Attendance t
 - **Design Lead**: Emily Waggoner [emily@adhocteam.us](mailto:emily@adhocteam.us)
 - **Eng Lead**: Jeff Balboni [jeff@adhocteam.us](mailto:jeff@adhocteam.us)
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel [aubrey@thesocompany.com](mailto:aubrey@thesocompany.com)
+- **VA Contact Center Liason**: Aubrey Arcangel [aubrey@thesocompany.com](mailto:aubrey@thesocompany.com)
 - **Production Testing Partner(s)**:
 - **Content Writer(s)**: Peggy Gannon [peggy@thesocompany.com](mailto:peggy@thesocompany.com)
 - **Front-end Engineer(s)**: 
