@@ -6,7 +6,7 @@ This is a master checklist meant to be tailored for each product by each product
 
 Teams should be using this checklist after [discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/README.md) for planning purposes. 
 
-- [ ] Send signed charter to stakeholders, including Call Center POC (Brenda Torres-Hill and Sylvia Palmer) and Kelly O. for PM purposes
+- [ ] Send signed charter to stakeholders, including Contact Center POC (Brenda Torres-Hill and Sylvia Palmer) and Kelly O. for PM purposes
 - [ ] Identify users required to participate in end-to-end testing; set expectations for time commitment and role
 - [ ] Create a migration timeline for both content and systems
 - [ ] Create a redirect plan 
@@ -21,7 +21,7 @@ Teams should be using this checklist after [discovery](https://github.com/depart
 - [ ] Define change management plan for existing VA systems with VA stakeholders
 - [ ] Document remediation strategy for any known issues
 - [ ] Ensure VA Business owner product team acceptance of pre-launch product including any known issues
-- [ ] Coordinate with Sheila Guiterriez, (our vets.gov Call Center POC) as early as possible to prepare VA call centers for launch and provide scripts as needed (videos and prototype presentations are ideal)   
+- [ ] Coordinate with Sheila Guiterriez, (our vets.gov Contact Center POC) as early as possible to prepare VA contact centers for launch and provide scripts as needed (videos and prototype presentations are ideal)   
 - [ ] Develop a communication plan for announcing the launch internally and externally; coordinate with Martin Taylor (Sec Office) via Kelly
 - [ ] Include in communications plan pre-briefing for Veteran Service Organizaitons (VSO) and Congress and coordinate with Kelly; VSOs and Congress must be briefed at least 2 weeks prior to launch.
 - [ ] Develop content to inform users of any scheduled maintenance windows or anticipated downtime of back end system
@@ -35,8 +35,8 @@ Teams should be using this checklist after [discovery](https://github.com/depart
 - [ ] Team Lead and Product Lead (Stacey) confirms all checklist items are complete.
 - [ ] Launch
 ## Post-Launch
-- [ ] Create post-launch coordination plan including calls with stakeholders and call center 
-- [ ] Coordinate with Call Center to monitor calls 
+- [ ] Create post-launch coordination plan including calls with stakeholders and contact center 
+- [ ] Coordinate with Contact Center to monitor calls 
 - [ ] Ensure monitoring and resolve issues in 24 hours
 - [ ] Collect and report metrics and Google Analytics
 
