@@ -18,7 +18,7 @@ Today: The current setup would not work on VA.gov which will launch in November.
 
 ## Longer-term scenario is:
 
-- Call ID.me API's to control the end-to-end experience including error messages, call center experience and id.me wallet.  (additional ticket info here: #9435). 
+- Call ID.me API's to control the end-to-end experience including error messages, contact center experience and id.me wallet.  (additional ticket info here: #9435). 
 
 ## MVP will include
 - Improved analytics on flow
