@@ -10,9 +10,9 @@ Dependent systems in staging are down all the time.
 You need different users to test different pieces of functionality across the site. There's not really one user that has good data in place to get a good prod-like experience for all of the tools across VA.gov.
 
 ## User goals
-As a call center rep, in order to advise users of VA.gov, I need to familiarize myself with the logged-in experience of VA.gov.
+As a contact center rep, in order to advise users of VA.gov, I need to familiarize myself with the logged-in experience of VA.gov.
 
-As a VFS sprint team, I need to demo my app to stakeholders when it's still a WIP and after it's already built (including to call centers, VA leadership, unsure if there are more...?) to show how my app works.
+As a VFS sprint team, I need to demo my app to stakeholders when it's still a WIP and after it's already built (including to contact centers, VA leadership, unsure if there are more...?) to show how my app works.
 
 As a VFS sprint team, I need to QA my app in dev/staging.
 
