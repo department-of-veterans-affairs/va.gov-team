@@ -61,7 +61,7 @@ Wants the 800 number on the option where you can’t select your original addres
 
 — P1, P3
 
-I’m torn – the call center will not be able to override this determination, so I don’t know that we should really be sending people there.
+I’m torn – the contact center will not be able to override this determination, so I don’t know that we should really be sending people there.
 
 People wanted more specific directions on what mistakes they made with the address, but we currently can’t provide that
 
