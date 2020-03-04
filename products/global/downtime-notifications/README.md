@@ -162,7 +162,7 @@ QA Testing
 - Design Lead: Mel Woodard and Sophia Dengo
 - Eng Lead: Patrick Vinograd
 - VA Web Comms Partner: 
-- VA Call Center Partner(s): Brenda Torres-Hill
+- VA Contact Center Partner(s): Brenda Torres-Hill
 - Production Testing Partner(s):
 - Designer(s): 
 - Content Writer(s): Danielle Thierry 
