@@ -10,7 +10,7 @@ Beyond dashboarding, additional detailed reporting is also expected to take plac
 ## Data Sources ## 
 * Google Analytics
 * CX (ForeSee/Medalia)
-* Call Centers (WBC, others TBD)
+* Contact Centers (WBC, others TBD)
 * Search
 * Error Logging and Performance (Graphana, etc.)
 * ID.me
@@ -37,7 +37,7 @@ Proposed reporting will highlight:
           * New and Decreasing terms
 * Site Performance (Page load times, error rates, others TBD)
 * CX/Satisfaction Data from ForeSee/Medallia
-* Call Center Metrics
+* Contact Center Metrics
      * Call volume
      * Call escalations by product area
      * Call escalations by tool
@@ -51,8 +51,8 @@ Proposed reporting will highlight:
 | Google Analytics | Online transactions, sessions, users, site latency, conversion funnels, ... | Y | On-Demand |
 | ForeSee | Feedback tool (Ratings & Comments), Traffic Capture Survey for pre-post launch | Y | On-Demand |
 | Medalia | Feedback tool (Ratings & Comments) | Y | On-Demand |
-| WBC Call Center | Call volume, escalations | Y | Weekly |
-| Other Call Centers | Call volume, escalations, offline transactions | N | Unknown |
+| WBC Contact Center | Call volume, escalations | Y | Weekly |
+| Other Contact Centers | Call volume, escalations, offline transactions | N | Unknown |
 | Search | Top search terms, change in search terms, ... | Y | Unknown |
 | Error Logging | Failed transactions, system errors, other errors | N | Unknown |
 | ID.me | Total accounts, LOA levels, federation of other account types, daily active users, LOA3 abandons and failures | Y | Limited/Weekly |
@@ -114,7 +114,7 @@ Proposed reporting will highlight:
 | VA.gov | ForeSee | 8/1 - 8/31 | Success Question *(Did you find what you were looking for today?)* | 52% |
 | preview.va.gov | ForeSee | -- | Success Question *(--)* | -- |
 
-### Call Center (HRC) ###
+### Contact Center (HRC) ###
 | Source | Date | Metric | # | 
 | ------ | ---- | ------ | - |
 | HRC General Dynamics | 8/1 - 8/31 | Calls Handled | 18,701 |
