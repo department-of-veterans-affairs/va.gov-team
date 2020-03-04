@@ -36,7 +36,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ### Planning:
 - Desired date: No later than March 10, 2020
 - Post-launch KPI 1: Increase in successful address form submissions. (Need to figure out baseline)
-- Post-launch KPI 2: Reduced complaints to the call center about not being able to update addresses.
+- Post-launch KPI 2: Reduced complaints to the contact center about not being able to update addresses.
 
 ### 1-week results:
 - Number of unique users: x
