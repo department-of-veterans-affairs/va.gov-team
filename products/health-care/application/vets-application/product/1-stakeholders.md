@@ -3,7 +3,7 @@ This is a group of detailees, currently led by Matt Eiutitis. This team is charg
 
 Main people: 
 •	Matt Eitutis (lead) 
-•	Nick Bales (call center lead and our POC)
+•	Nick Bales (contact center lead and our POC)
 •	Nick Spangtos
 •	Joan Hall 
 
@@ -42,14 +42,14 @@ This is the entity that processes the applications, and where the backlog reside
 This is where the most turnover has occurred, and where the most toxic individuals are located. 
 
 ## HRC = Health Resource Center
-Not quite clear on this group yet, but it is the group that Matt and Nick came from. I think this is largely connected to call centers, but need to confirm role in the NEI work. 
+Not quite clear on this group yet, but it is the group that Matt and Nick came from. I think this is largely connected to contact centers, but need to confirm role in the NEI work. 
 
 ## NEI = National Enrollment Improvement 
 This is a group of detailees from across Member Services, currently led by Matt Eiutitis. This team is charged with completely overhauling the enrollment system. It was created in response to an IG report that revealed this issues with the HEC and the backlog. There are about 7 different projects that fall under NEI. Replacing VOA is one of them. 
 
 Main people: 
 •	Matt Eitutis (lead) 
-•	Nick Bales (call center lead and our POC)
+•	Nick Bales (contact center lead and our POC)
 •	Nick Spangtos
 •	Joan Hall 
 
