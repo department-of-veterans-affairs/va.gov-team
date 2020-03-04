@@ -56,7 +56,7 @@ One thing Tony watches:
 - Trying to plan out some summer activities after august. What does a regular program of health look like for all these products?
 - One of the contractors is hoping to get some custom GA questions. Is there anything in the platform already?
   - No
-- Open-ended responses and call center data are really fruitful but also contain PII.
+- Open-ended responses and contact center data are really fruitful but also contain PII.
 
 ### Other questions
 
@@ -109,11 +109,11 @@ Tony might not know what exactly the labels mean. It says failure but Developers
 - What data do you have access to currently?
   - What are all of the different inputs you currently have that provide a picture of the health of the tool?
     - Kevin is very much in discovery mode, has exmaples of data they say they have access to
-    - Call center data is the big one
-    - Regular call center reporting that they might share
+    - Contact center data is the big one
+    - Regular contact center reporting that they might share
     - Might have access to raw data
     - Still doing a tour of stakeholders to develop a plan
-    - Matt: That is basically it. Call center data is sometjhing they have said they have. We've had trouble getting the raw data, have gotten verbal summaries but need more.
+    - Matt: That is basically it. Contact center data is sometjhing they have said they have. We've had trouble getting the raw data, have gotten verbal summaries but need more.
     - 
 - What is your primary goal when you access data about the Education tools?
   - Matt: Right now, their major concerns they have pushed onto Matt are: Are we tracking towards our dates? Is the tool up and accessible?
