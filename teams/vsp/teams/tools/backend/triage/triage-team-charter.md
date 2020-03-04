@@ -34,7 +34,7 @@ _Link to agile roadmap_
 - **Frontend Engineer:** [Christopher Valarida](https://github.com/cvalarida) (chris.valarida@adhocteam.us)
 - **Backend Engineer:** [Keifer Furzland](https://github.com/kfrz) (keifer@oddball.io)
 - **Backend Engineer:** [Lindsey Hattamer](https://github.com/lindseysaari) (lindsey.hattamer@oddball.io)
-- **Call Center Lead:** [Kimberley Daniels](https://github.com/kimberley2019) (kimberley.daniels@adhocteam.us)
+- **Contact Center Lead:** [Kimberley Daniels](https://github.com/kimberley2019) (kimberley.daniels@adhocteam.us)
 ---
 
 ## How we work
