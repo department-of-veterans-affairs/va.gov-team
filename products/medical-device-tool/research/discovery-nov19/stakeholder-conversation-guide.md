@@ -79,7 +79,7 @@ _Show Batteries form (Design team has file)._
 ## Additional Questions
 - How does the experience in eBenefits currently compare with these physical forms? 
 - Who do you think we should get in touch with to learn more about this process and how to improve it?
-  - Call center folks
+  - Contact center folks
   - Process Manager (???)
 - Where would a Veteran go to find information about DALC online?
 - What features would be helpful for Veterans ordering medical devices online?
