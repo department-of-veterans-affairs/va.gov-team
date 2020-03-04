@@ -2,7 +2,7 @@
 ### Veteran Context
 - Total number of veterans
   - Number of LOA 3 accounds
-  - Number of phone calls to call centers
+  - Number of phone calls to contact centers
 - average disability rating
 - average distance from a VA health center
 
@@ -16,9 +16,9 @@
 - Other similar forms (for easy comparison) 
 
 ### Product Health
-- Number of call center calls
+- Number of contact center calls
   - per day
-  - broken down by call center location
+  - broken down by contact center location
   - compared to the average
 - Recordings of calls
 - Highlighted quotes from calls
