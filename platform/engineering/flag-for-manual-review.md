@@ -52,8 +52,12 @@ This will rely on the Github API as well as some environment variables provided 
 
 ### Code Location
 
+This code will live in the [vets-website repo](https://github.com/department-of-veterans-affairs/vets-website) in the following directories:
+
 - `script/pr-check.js`
+  - The script responsible for performing the automated checks & leaving comments
 - `.circleci/config.yml`
+  - Responsible for adding jobs and assigning appropriate environment variables
 
 ### Testing Plan
 I will run the script locally in addition to having Circle run it.
