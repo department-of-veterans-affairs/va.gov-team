@@ -20,14 +20,15 @@ How we are using official facility names, new plain-language short names, and ne
 
 The example schema below is a hypothetical scenario. It represents a VAMC facility network (i.e., VAMC is parent facility, with health clinics as children facilities that are all a part of a health care system; customers get access to the entire network). It should apply to _most_ VAMC systems.
 
-Facility type | Official name | Plain-language name | URL  
--- | -- | -- | -- 
-_Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal | _Source:_<br>Facilities API
-Health care system | Pittsburgh Healthcare System | VA Pittsburgh health care |  www.va.gov/pittsburgh-health-care
-VAMC | Pittsburgh VA Medical Center-University Drive | n/a |  www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive
-VAMC | H. John Heinz III Department of Veterans Affairs Medical Center | n/a  | www.va.gov/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center 
-CBOC   | Beaver County VA Clinic  | n/a  |  www.va.gov/pittsburgh-health-care/locations/beaver-county-va-clinic/
-CBOC   | Belmont County VA Clinic   | n/a |  www.va.gov/pittsburgh-health-care/locations/belmont-county-va-clinic
+| Facility type      | Official name                                                   | Plain-language name           | Short Name                                | URL                                                                                                        |
+|--------------------|-----------------------------------------------------------------|-------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Source:VAST        | Source:VAST                                                     | Source:Drupal                 | Source:Drupal (Investigating Deprecation) | Source:Facilities API                                                                                      |
+| Health care system | Pittsburgh Healthcare System                                    | VA Pittsburgh health care     | VA Pittsburgh (remove?)                   | www.va.gov/pittsburgh-health-care                                                                          |
+| VAMC               | Pittsburgh VA Medical Center-University Drive                   | n/a - remove "nickname" field | n/a - remove                              | www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive                  |
+| VAMC               | H. John Heinz III Department of Veterans Affairs Medical Center | n/a - remove "nickname" field | n/a - remove                              | www.va.gov/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center |
+| CBOC               | Beaver County VA Clinic                                         | n/a - remove "nickname" field | n/a - remove                              | www.va.gov/pittsburgh-health-care/locations/beaver-county-va-clinic/                                       |
+| CBOC               | Belmont County VA Clinic                                        | n/a - remove "nickname" field | n/a - remove                              | www.va.gov/pittsburgh-health-care/locations/belmont-county-va-clinic                                       |
+
 
 
 
