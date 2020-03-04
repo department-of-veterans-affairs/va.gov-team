@@ -309,7 +309,7 @@ And we also have Matt onboarding!!
 **PM** 
 
 - Determine what analytics we need for this feature #5705
-- Create call center guide #5084
+- Create contact center guide #5084
 - Create a release plan #5085
   
 **Dev**
