@@ -51,7 +51,7 @@ A frequent Veteran complaint is that VA should already know "xyz" about them, an
 - Contribute to 60-day claims goal
 - Improve transparency and trust with customers (Veterans)
 - Increase online engagement
-- Reduce admin costs of call center volume, mailing paper documents
+- Reduce admin costs of contact center volume, mailing paper documents
 
 ## Assumptions
 
@@ -119,7 +119,7 @@ TBD
 - Design Lead: Mel Woodard
 - Eng Lead: Ben Shyong
 - VA Web Comms Partner: ?
-- VA Call Center Partner(s): ?
+- VA Contact Center Partner(s): ?
 - Production Testing Partner(s): ?
 - Designer(s): Lauren Alexanderson, Samara Strauss
 - Content Writer(s): Danielle Thierry
