@@ -41,13 +41,13 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 *Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
 
 - Define and maintain rules of engagement (ROE) for how VSP Analytics & Insights and VFS teams should collaborate
-- Keep analytics and call centers best practice documentation up to date
-- Be available in #vfs-platform-support to answer Analytics and Call Center related questions
+- Keep analytics and contact centers best practice documentation up to date
+- Be available in #vfs-platform-support to answer Analytics and Contact Center related questions
 - Implement analytics on veteran-facing products
     - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
     - QA Google Tag Manager for quality analytics before launches
     - Work with teams' product managers and front end developers to implement ForeSee surveys before launches
-    - Work with teams to ensure call centers are prepared for launches
+    - Work with teams to ensure contact centers are prepared for launches
 - Support KPI Setting and Tracking across VFS and VSP teams
     - Host KPI setting workshops with teams
     - Check in quarterly with teams to support KPI tracking
