@@ -19,7 +19,7 @@ Dates: 2019-07-25 through 2019-08-06
 - VFS Analytics Support
 - Product Health MVP: For prototype, obtain product lines/categories templates
 - Product Health MVP: For prototype, add Claims data
-- Product Health MVP: (Discovery) For V2, document data availability from other sources (Foresee, Grafana, Call Centers)
+- Product Health MVP: (Discovery) For V2, document data availability from other sources (Foresee, Grafana, Contact Centers)
 - KPI setting protocol for new VFS Teams: Iterate on va.gov KPI setting workshops for VSA usage
 - Move the [Processes & documentation discovery](https://docs.google.com/document/d/1eLvSvWM_gCYbcg2V73WnG6o9iUX0BZqp8eE0d6VnwAw/edit#) for Analytics Requests into GitHub
     - _Note: Subject to Leah’s review / approval_
@@ -32,7 +32,7 @@ Dates: 2019-07-25 through 2019-08-06
 
 - [Analytics Implementation & Support](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/265)
 - [Launch Education Analytics MVP](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/97)
-- [Call Center Issues MVP](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/266)
+- [Contact Center Issues MVP](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/266)
 
 ### Team PTO
 
@@ -120,7 +120,7 @@ Dates: 2019-07-25 through 2019-08-06
 - Write endpoint owner model for triage 
 - Establish Sentry tagging standards
 - Implement automatic code cleaning/linting using ansible during devops build
-- Documenting the call center training + proposed intake process for Tier 2/3 issues
+- Documenting the contact center training + proposed intake process for Tier 2/3 issues
 - Improve FE starter-app scaffolding
 - _[stretch]_ Implement automatic statsD metric initialization
 
@@ -130,7 +130,7 @@ Dates: 2019-07-25 through 2019-08-06
 - [Launching MVP Triage Process](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/207)
 - [Sentry Usability Updates](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/338)
 - [Living RACI-like maps](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/670)
-- [Call center synthesis](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/667)
+- [Contact center synthesis](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/667)
 - [Improve FE starter-app scaffolding](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/673)
 
 
