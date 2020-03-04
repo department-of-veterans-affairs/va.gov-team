@@ -4,17 +4,20 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 ## MVP Requirements
 | Requirement | Ticket # |
 | --- | --- | 
+| Allow Veterans and Caregivers to submit 1010-CG Online| 155|
+| Capture signature of Veteran and Caregiver | 164 |
+| Review data prior to submission | 176 |
 | Return ICN number for veteran and caregiver (if applicable)| N/A|
 | Get static list of approved Caregiver facilities from CARMA|n/a
 | Create table in vets-api to link CARMA ID to form submission (+ date)| N/A
-| Not able to edit form after submission| N/A
+| Not able to edit form after submission| 165 |
 
 ## Post-MVP
 | Requirement | Ticket # |
 | --- | ---| 
-| Ability to attach Power of Attorney documentation| 
-| Attach prefilled PDF to CARMA application| 
-| Ability to print application (with | 
+| Ability to attach Power of Attorney documentation| 160|
+| Attach prefilled PDF to CARMA application | 169 |
+| Ability to print application (with SSNs masked) | 166 |
 | Address validation (against USPS?) (Caitlin to check with Program team)| 
 | Ensure that identical applications can't be sent back-to-back | 
 | Systematic prevention of duplication | 
@@ -32,8 +35,12 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 ## Phase 3
 | Requirement | Ticket # |
 | --- | ---| 
-| Allow Caregiver to track their portion of the Caregiver application|
-| Save-in-progress (on behalf of Caregivers and Veterans)|
+| Buid a logged-in application portal | 
+| Ability to save an incomplete form in progress | 163 |
+| Veteran can view in-progress application| 161 |
+| Caregiver can view in-progress application| 162 |
+| Ability to withdraw a previously submitted application | 175|
+| Text message/email notification after successful submission | 167 |
 
 
 
