@@ -218,7 +218,7 @@ Last updated: October 30, 2019.
 [Veterans benefits email updates](https://public.govdelivery.com/accounts/USVAVBA/subscriber/new)    
 
 **Call us**  
-[VA Education Call Center:  
+[VA Education Contact Center:  
 1-888-GIBILL-1 (1-888-442-4551)](1-888-442-4551)
 
 [Outside the U.S.:  
