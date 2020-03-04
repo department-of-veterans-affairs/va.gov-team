@@ -30,6 +30,8 @@ From the perspective of a VFS engineer, the current review process involves:
 The final approval from the review group is often not helpful, and it slows the process down.
 This frustration often leads to VFS teams ignoring this process and they will directly ask for a VSP review before their PR is ready.
 
+These problems have led to an effort to shift some review responsibility away from the frontend-review-group by implementing [code owners changes](./codeowners.md).
+
 ### High Level Design
 
 The plan is to use a CI process to run a script each time a change gets pushed to a PR.
