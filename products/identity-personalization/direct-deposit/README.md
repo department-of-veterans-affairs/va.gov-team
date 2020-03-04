@@ -15,7 +15,7 @@ Last Updated December 10, 2019
 |----|----|
 |Lisa Koenigsberg|DSVA Lead| 
 |Samara Strauss |DSVA Lead Designer|
-|Justin Pickett |Product Manager|
+|Matt Shea|Product Manager|
 |Nick Sullivan |Original Engineering Lead (now on Platform)|
 |Erik Hansen | FE Engineer|
 |Lihan Li | BE Engineer |
