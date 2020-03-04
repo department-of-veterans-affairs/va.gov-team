@@ -14,17 +14,19 @@ Any of the following items if found in a PR diff will prompt a manual review
 
 ### Sentry calls
 
-We want to ensure that anything logged to Sentry will be useful (don't log an entire request response if all we care
-about is an error code) and will not contain PII.
+We review logs to Sentry to ensure that any new logs will be useful and will not contain PII.
+
+Examples:
+- Don't log an entire request response if all that's important is an error code
+- Don't log user-identifying information such as names, emails, or user IDs
 
 ### Disabling ESLint
 
 We have various ESLint rules in place to help improve code quality.
-There are situations where it makes sense to disable certain rules, but those will have 
-to be evaluated on a case-by-case basis.
+Disabling eslint rules will be evaluated on a case-by-case basis.
 
 ### Adding icons
 
-We use fontawesome as a dependency which encourages icons to be added with the `<i>` tag.
-Sometimes an icon is used purely as decoration, but other times it is used to convey meaning to the user.
-We want to ensure that if an icon is being used semantically, those semantics are also conveyed to a screen reader.
+We use Font Awesome as a dependency, which uses the `<i>` tag for adding icons. Sometimes an icon is used purely as decoration, but other times it is used to convey meaning to the user.
+
+We review to ensure that whenever an icon is being used semantically, those semantics are also conveyed to a screen reader.
