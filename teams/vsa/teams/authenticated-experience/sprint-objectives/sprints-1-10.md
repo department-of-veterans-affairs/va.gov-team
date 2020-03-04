@@ -51,7 +51,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Direct Deposit
      * Remove "Add" functionality (#2883) if not already done
      * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
-     * Finalize call center guide updates (#2901)
+     * Finalize contact center guide updates (#2901)
 * Continue Address Validation & Override work
      * Complete user testing (#2551 needs to be updated) & document outcomes.  Requires completion of conversation guide (#2327)
      * Complete FE work, using current designs and recently completed BE work
@@ -66,7 +66,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
    * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
-   * **If needed**, re-open call center guide and apply additional updates (#2901)
+   * **If needed**, re-open contact center guide and apply additional updates (#2901)
    * Improve DD error analytics (#3573)
    * Monitor "Add" funtionality for errors and determine next steps (either taking it down or ramping DD up to 75%)
 * Address Validation & Override
@@ -88,7 +88,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
     - Investigate why "flagged for fraud" error rate is so high [#3966](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3966) [#3981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3981) [#3982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3982)
     - Get on eBenefits schedule to remove direct deposit from the site in 1/29 release [#3967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3967)
     - Stretch goal: Launch to 100% if we have no concerns in doing so. **Note: It is OK if this does not happen in Sprint 10  due to legitimate concerns that push things into Sprint 11 instead. We will still consider sprint goals met with ramp up to 75% if the reason we are not ramping up to 100% is because of problems that arise from ramp up to 75%.** [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
-    - Call center guide updates [#4002](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4002)
+    - Contact center guide updates [#4002](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4002)
   - ~DS logon gate:~ 
     - ~Design and copy for the profile [#3763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3763)~
     - ~Start frontend setup for profile (final design implementation set for sprint 11) [#3900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3900)~
