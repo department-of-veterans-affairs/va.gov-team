@@ -5,7 +5,7 @@
 1. What product & team are you doing this research for? <br>
 **Benefits & Memorials 2**
 2. Background: <br>
-**This product is a migration and modernization of the hearing aid battery and prosthetic sock ordering functionality that currently exists as an iframed applet on eBenefits. With eBenefits being sunsetted and the DLC’s interest in increasing adoption of online ordering to reduce call center workload, we’re tasked with designing a new online ordering experience that will be simpler for Vets and less overhead for the DLC.**
+**This product is a migration and modernization of the hearing aid battery and prosthetic sock ordering functionality that currently exists as an iframed applet on eBenefits. With eBenefits being sunsetted and the DLC’s interest in increasing adoption of online ordering to reduce contact center workload, we’re tasked with designing a new online ordering experience that will be simpler for Vets and less overhead for the DLC.**
 3. Research questions:
     - Why do Veterans choose one ordering method over the other?
       - Are they consistently using the same methods? Why change?
