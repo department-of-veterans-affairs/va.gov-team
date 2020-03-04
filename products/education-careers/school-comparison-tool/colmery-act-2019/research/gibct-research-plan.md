@@ -76,7 +76,7 @@ Remote Moderated Usability Testing of a revised high-fidelity prototype with:
 If applicable to scope and available, the following may be reviewed:
 * Review Google Analytics to measure performance and user progress through the service
 * Review site performance data
-* Review user feedback collected from the Call Center
+* Review user feedback collected from the Contact Center
 
 
 #### What testing and recording tools do we need to run the research sessions?
