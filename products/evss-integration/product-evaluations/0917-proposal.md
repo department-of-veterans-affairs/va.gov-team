@@ -41,7 +41,7 @@ Estimate: 15 hours per product / x hours total
 
 __Data Mining__
 
-In the past we've been able to get access to call center reports as well as analytics on how people use eBenefits today. This information will show us trends and support and/or rebute what we hear from stakeholders. 
+In the past we've been able to get access to contact center reports as well as analytics on how people use eBenefits today. This information will show us trends and support and/or rebute what we hear from stakeholders. 
 
 Example: 4 hours per product / x hours total
 
