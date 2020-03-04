@@ -13,8 +13,8 @@
 - Even when it’s not the holidays, it is difficult to get consistent responses
     - This is due to the fact that VSP doesn’t have a clear process or timeline for how bugs are handled across the different teams, nor do we have a level of prioritization for issues delegated to VFS teams
 - In our documentation that we currently have, we don’t have clear guidelines from VFS teams 
-- We don’t have expectations to get back to Veterans on their Call Center issues
-- This isn't going to be scalable when we get access to Call Center data outside of IRIS and Salesforce
+- We don’t have expectations to get back to Veterans on their Contact Center issues
+- This isn't going to be scalable when we get access to Contact Center data outside of IRIS and Salesforce
 - VFS teams might need to carve out more time during sprint planning for dealing with bugs
 
 ## Current Process
