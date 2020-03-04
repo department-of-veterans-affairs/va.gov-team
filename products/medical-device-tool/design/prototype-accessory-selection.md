@@ -92,7 +92,9 @@ If you have hearing loss, call TTY: 711.
 ```
 
 ## Use case - All accessories are ineligible 
-Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/G6W9N8F4TH7) | [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5798)
+Relevant links:<br>
+**1.** Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/G6W9N8F4TH7). <br>
+**2.** [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5798)
 
 ## Description
 This use case covers if a veteran does not have any accessories that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible accessory layouts. Even though none of the hearing aid accessories are eligible for resupply, it's important to display the items in case either a veteran is expecting to be able to order one or they don't see an expected accessory. Initial focus point should be on h1: Order hearing aid batteries and accessories 
