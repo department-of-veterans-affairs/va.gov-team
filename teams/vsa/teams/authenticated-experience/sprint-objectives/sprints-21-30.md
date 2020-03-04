@@ -6,7 +6,7 @@
 - [Sprint 24](#sprint-24-617--630)
 - [Sprint 25](#sprint-25-71--714)
 - [Sprint 26](#sprint-26-715--78)
-- [Sprint 27](#sprint-27-617--630)
+- [Sprint 27](#sprint-27-729--811)
 - [Sprint 28](#sprint-28-617--630)
 - [Sprint 29](#sprint-29-617--630)
 - [Sprint 30](#sprint-30-617--630)
