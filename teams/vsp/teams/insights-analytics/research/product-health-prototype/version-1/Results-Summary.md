@@ -61,7 +61,7 @@ Using [session notes](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ### Product Health Dashboard Expectations
 Product owners expect the Product Health Dashboard to:
-* allow them to get a sense of how things are doing through multiple channels (Call centers, Grifana/uptime, Google analytics)
+* allow them to get a sense of how things are doing through multiple channels (Contact centers, Grifana/uptime, Google analytics)
 * understand the overall availability and success of a product
 * automatically update/refresh data
 * allow them to drill in to get more detail
@@ -125,7 +125,7 @@ Participants called out the following as missing items that would helpful to the
 
 #### Features
 * Custom date ranges
-* Comparisons: Over time, usage (seasonal conversion rate, call center vs. usage) 
+* Comparisons: Over time, usage (seasonal conversion rate, contact center vs. usage) 
 * Ability to add a note that an issue has been addressed
 
 #### Products
