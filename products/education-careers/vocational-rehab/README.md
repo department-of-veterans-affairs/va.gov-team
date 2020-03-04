@@ -79,7 +79,7 @@ We'll be able to find the appropriate technical assistance to help us navigate s
 - **Design Lead**: 
 - **Eng Lead**: Jeff Balboni 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel 
+- **VA Contact Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**:
 - **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
