@@ -17,7 +17,7 @@ Millions of Veterans depend upon the VA for disability-related medical devices a
 - ...ensure that Veterans do not go without the assistive devices and accessories they need?
 - ...utilize data we already have to improve benefit utilization?
 - ...increase visibility of orders after they are placed?
-- ...reduce strain on the DLC call center?
+- ...reduce strain on the DLC contact center?
 - ...reduce the friction of authentication for these orders?
 - ...enable Veterans to solve order problems without making a phone call?
 
