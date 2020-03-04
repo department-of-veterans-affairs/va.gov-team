@@ -24,7 +24,9 @@
   - [Rated Disabilities, titled as "View your VA combined disability ratings"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/README.md)
   This is a simple view task where the relevant information is pulled from CorpDB via the `vets-api` via EVSS.
   - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
-  This is a more complicated task that includes both a view and modify task for declaring dependents as they are moved on and off a Veterans awards.
+  This is a more complicated task (Form 21-686c) that includes both a view and submit task for declaring dependents as they are moved on and off a Veterans awards.
+  - [My Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
+   A simple view task that displays the payment and return history between a Veteran and the VA.
   _Features found in the product folder (as opposed to the eBenefits Team folder) are further along in the developemnt and approval process.)
 
 # Implementation Information
