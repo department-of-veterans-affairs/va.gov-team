@@ -477,9 +477,3 @@ Dev
 
 - Finish build
 - Implement IA changes/updates
-
-## Future sprints
-
-- QA and updates
-- 508
-- Launch checklist
