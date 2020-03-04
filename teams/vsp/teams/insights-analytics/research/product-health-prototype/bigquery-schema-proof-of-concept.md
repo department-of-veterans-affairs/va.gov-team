@@ -32,10 +32,10 @@ The hierarchy of Google Analytis is the VA.gov is the parent "property" and chil
    
 - Should we structure it so that each row of metrics are stored as views ([See GCP article on Views](https://cloud.google.com/bigquery/docs/views-intro))
 
-#### Call Center and Foresee Schema
-This section is a placeholder for Call Center and Foresee Schema. The items below are expected processes we envision for the Call Center and Foresee data: 
+#### Contact Center and Foresee Schema
+This section is a placeholder for Contact Center and Foresee Schema. The items below are expected processes we envision for the Call Center and Foresee data: 
 - Removal of PII
-- Aligning call center data with friendly product names, where applicable
+- Aligning contact center data with friendly product names, where applicable
 
 #### Prometheus 
 
