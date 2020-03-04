@@ -147,16 +147,16 @@ Error handling might be iterative.
 - [x] EStablish baseline metrics for later analysis
 
 ## Support (Consider Deliverables and Artifacts)
-- [x] Does the Call Center have documentation?
+- [x] Does the Contact Center have documentation?
   - [x] Draft as needed
 - [x] Have they asked for anything else? **No**
-- [x] Establish a point of contact for the Call Center 
+- [x] Establish a point of contact for the Contact Center 
 - [x] Ensure that these are noted and stored for easy access
   - [x] Include contact information in case further discussion is required
 
 
 ## Pre-release Plan
-- [x] Call Center is prepared for launch with updated scripts/documentation as needed
+- [x] Contact Center is prepared for launch with updated scripts/documentation as needed
 - [x] ~VA web comms team is aware of this launch and has accurate messaging~ _Not for RD_
 - [x] Product Outline is updated
 - [x] Downtime UX and error messaging documentation complete
@@ -173,8 +173,8 @@ Error handling might be iterative.
 
 ## Post-Mortem
 - [ ] List and define any issues that impeded the process
-- [ ] Create post-launch coordination plan including calls with stakeholders and call center 
-- [ ] Coordinate with Call Center to monitor calls 
+- [ ] Create post-launch coordination plan including calls with stakeholders and contact center 
+- [ ] Coordinate with Contact Center to monitor calls 
 - [ ] Ensure monitoring and resolve issues in 24 hours
 - [ ] Collect and report metrics from Google Analytics
 - [ ] Schedule regression testing 
