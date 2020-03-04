@@ -1,6 +1,16 @@
 # Open Items
 Purpose: to keep track of the open issues needing resolution betweeen now and our launch date.
 
+  * [MVP Requirements (Soft launch: May 2020)](#mvp-requirements--soft-launch--may-2020-)
+  * [Full MVP launch: June 2020](#full-mvp-launch--june-2020)
+  * [Post-MVP (Estimated July 2020)](#post-mvp--estimated-july-2020-)
+  * [Phase 2 (Estimated September 2020)](#phase-2--estimated-september-2020-)
+  * [Phase 3 (Estimated January 2021)](#phase-3--estimated-january-2021-)
+  * [Phase 4 (Estimated March 2021)](#phase-4--estimated-march-2021-)
+  * [Launch Timeline for MVP](#launch-timeline-for-mvp)
+  * [Open Questions](#open-questions)
+  * [Action Items](#action-items)
+
 
 ## MVP Requirements (Soft launch: May 2020)
 | Requirement | Ticket # |
