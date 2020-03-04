@@ -1,6 +1,7 @@
 # Open Items
 Purpose: to keep track of the open issues needing resolution betweeen now and our launch date.
 
+
 ## MVP Requirements (Soft launch: May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
@@ -52,6 +53,12 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Caregiver can view in-progress application| 162 |
 | Caregiver can log into portal to recieve application updates | 173 |
 
+# Launch Timeline for MVP
+March 1 - April 15: Development work on 1010-CG 
+April 15 - May 15: Integration testing with CARMA
+May 15 - May 30: Get final approval to launch
+May 31: Launch to CSCs
+
 
 
 ## Open Questions
@@ -61,15 +68,8 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 
 ## Action Items
 - Define all requirements for MVP
-- Open answer question
 - Create a launch plan
-- Create a timeline between now and launch (May 2020)
 - Pick top 3 KPIs and identify baselines
 
-# Launch Plan for MVP
-March 1 - April 15: Development work on 1010-CG 
-April 15 - May 15: Integration testing with CARMA
-May 15 - May 30: Get final approval to launch
-May 31: Launch to CSCs
 
 
