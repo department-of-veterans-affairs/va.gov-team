@@ -119,7 +119,7 @@ Most participants expressed that they were likely to use something like this, th
 
 ##### On VA Health Chat
 
-- Common misperseption that CHat was just an alternative to functions you'd get from the call center.
+- Common misperseption that Chat was just an alternative to functions you'd get from the contact center.
 
 ##### On VVC
 
