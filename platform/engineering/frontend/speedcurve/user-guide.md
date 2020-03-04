@@ -127,6 +127,8 @@ The front-end team recommends to create a chart for each of the following metric
 | 14  | Lighthouse Best Practice |          70           |
 | 15  |      Lighthouse SEO      |          80           |
 
+[What do the different SpeedCurve metrics represent?](https://support.speedcurve.com/en/articles/74078-what-do-the-different-speedcurve-metrics-represent)
+
 ### Adding Charts and performance budgets
 
 1. Click on “ADD CHART”
@@ -146,6 +148,10 @@ The front-end team recommends to create a chart for each of the following metric
 
 ![Add chart](../../images/speedCurve-add-chart.png)
 
-## Understanding the dashboards
+## SpeedCurve documentation
 
-Do teams need to understand more about the dashboards?
+- [Get started with Synthetic monitoring](https://support.speedcurve.com/en/articles/946252-get-started-with-synthetic-monitoring)
+- [Create performance budgets and set alerts](https://support.speedcurve.com/en/articles/1539827-create-performance-budgets-and-set-alerts)
+- [Understanding Metrics](https://support.speedcurve.com/en/collections/21148-understanding-metrics)
+- [SpeedCurve Synthetic API](https://support.speedcurve.com/en/articles/415403-synthetic-api)
+- [Trigger tests using CircleCI](https://support.speedcurve.com/en/articles/992851-trigger-tests-using-circleci)
