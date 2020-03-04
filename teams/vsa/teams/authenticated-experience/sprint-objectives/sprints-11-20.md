@@ -452,8 +452,8 @@ Dev
 
 Design
 
-- Review content pages/My VA dashboard for any needed updates #5518
-- IA plan and review #5534
+- Review content pages/My VA dashboard for any needed updates
+- IA plan and review
 
 Dev
 
@@ -464,7 +464,8 @@ Dev
 
 ### Order of priorities
 
-1. Profile 2.0: 
+1. Profile 2.0: Prepare for QA
+2. Profile 2.0: Finish build
 
 ### Profile 2.0
 
@@ -474,6 +475,7 @@ Design
 
 Dev
 
+- Finish build
 - Implement IA changes/updates
 
 ## Future sprints
