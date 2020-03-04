@@ -1,4 +1,4 @@
-## Recap of HCA call center meeting, July 6 2016
+## Recap of HCA contact center meeting, July 6 2016
 - Below text is a copy of the recap email sent to meeting attendees
 
 Hello everyone,
@@ -22,7 +22,7 @@ Discussion points:
   4. What is the device the veteran is using
   5. What is the internet service provider
 - Getting this kind of reporting and detail would be new so a request must be made. If a request is made, duration to develop the reporting is approx one (1) week
-- Since launch, the call center has not received any calls re: HCA
+- Since launch, the contact center has not received any calls re: HCA
 - Per Kelly, the vets.gov team requires an internal discussion to assess the value of new reporting and determine whether to make the request
 - Recommendation is to request the build for current and on-going HCA management, as well as in anticipation of future product releases
 
