@@ -73,7 +73,7 @@ Comply with the legislative requirement before 8/1/2018 and improve the processi
 - **Design Lead**: Emily Waggoner 
 - **Eng Lead**: Lihan Li 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel 
+- **VA Contact Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**:
 - **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
