@@ -21,7 +21,7 @@ Who is the primary user of this page? Who are the secondary users?
 
 
 ### COE
-* One of the most frequent requests to the call center is "can I get a copy of my COE?"
+* One of the most frequent requests to the contact center is "can I get a copy of my COE?"
 * Needed by school verification officer to know what amount VA will pay
 * Even though the beneficiary can print off (or show) the status page in lieu of the COE, often times the individual AND THE SCHOOL want the actual letter. Sometimes the school will insist on the COE, even if the eBenefits page is better, more up to date data. 
 * The COE never expires, and you get it when the benefit is issued -- it doesn't update even though the data that backs it does.
