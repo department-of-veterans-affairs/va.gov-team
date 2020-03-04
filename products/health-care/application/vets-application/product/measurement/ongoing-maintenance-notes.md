@@ -4,17 +4,17 @@
 
 ## A. 3 areas to focus on:
 1. Tracking submission IDs
-2. Call center feedback
+2. Contact center feedback
 3. Web Analytics via Google Analytics
 
 ## 1. Tracking submission IDs
 - Submission ID indicates received submission
 - Pull new submission IDs through vets.gov to identify whether they were processed properly: did submissions get processed in the enrollment center or elsewhere?
 
-## 2. Call center feedback
+## 2. Contact center feedback
 - Follow up with Kelly
 - How many calls, types of calls, feedback since launch
-- Sheila's call center is receiving the HCA calls
+- Sheila's contact center is receiving the HCA calls
 
 ## 3. Google Analytics
 - How to start measuring what's working, what is not
