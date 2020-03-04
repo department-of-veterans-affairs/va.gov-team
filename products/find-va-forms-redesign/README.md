@@ -38,6 +38,14 @@ __VA forms stakeholder working group includes:__
 
 ## Status/Decisions:
 
+## 03/04/2020
+
+Soft launch sync - call with @ncksllvn @jenniferlee-dsva @Kelson Adams @Aruna Kucherlapati @Andrew F  @Kelly Lein and @Kevin Walsh
+
+Discussed: prod soft launch using no-index robots.txt - hidden page vs. new CMS demo environment. 
+
+__Decision: We'll continue with original prod hidden page approach. New CMS demo environment sounds cool, but still unstable.__ 
+
 ## 02/04/2020
 
 Decision and next steps - re redirecting form detail landing pages. Call with  @ncksllvn @mnorthuis @mickin and @jenniferlee-dsva   
