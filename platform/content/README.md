@@ -17,22 +17,25 @@ The following list is a set of resources to help you do your work and answer con
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
     - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)  
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
-     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-process-modernizing-VA-forms.md)
+    - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
+    - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
+    - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
+ - VA.gov form guidance
+     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-content-process.md)
+     - [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md)
+     - [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)     
+     - [VA.gov form label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-labels.md) 
 - VA.gov content style guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
     - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
-    - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
-    - [VA.gov form label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
-    - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
-    - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
-    - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
-    - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
-- VA.gov content strategy guides
+    - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)    
+ - VA.gov content strategy guides
     - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/va-gov-strategy)
     - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
     - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)  
    -  [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
+    - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
 - SEO resources
     - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
     - [SEO best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
