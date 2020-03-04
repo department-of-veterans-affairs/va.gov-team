@@ -13,7 +13,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - Help set and track KPIs for Product Teams
 - Triage one-off analytics requests
 - Improve data sets from across the tools
-- Own call center relationships
+- Own contact center relationships
 
 ## Analytics & Insights Process
 
