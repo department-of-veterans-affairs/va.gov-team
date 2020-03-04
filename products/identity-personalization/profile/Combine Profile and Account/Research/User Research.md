@@ -27,6 +27,10 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 - Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
 - Where would people go to change the email address they use to sign in?
 - Does the mobile nav and placement make sense? 
+- Do users understand the 'learn more' sections? Are they actually representing the most 'frequently asked questions'?
+- Can people find what they're looking for in the profile?
+- Does the labeling on the left nav make sense?
+
 
 ## Hypothesis 
 
@@ -34,6 +38,9 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 - People will prefer 2.0 to 1.0.
 - The side nav will go over really well and increase scanability.
 - Saving and error interactions will be intuitive and meet expectations.
+- Participants may be confused about the "Your Account" labeling and not know what to expect to see there.
+- Participants may not understand why or how to edit "personal information"
+- Participants might be confused about Connected Accounts and what that means
 
 ## Method
 
@@ -49,10 +56,11 @@ Criteria for recruiting:
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
+- At least one person with cognitive disabilities
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
 ## Timeline 	
-This study will take place from March 12,13 and 16, 2020.
+This study will take place on March 12,13 and 16, 2020.
 Each session will be approximately 45 minutes.
 	
 ### Team Availability (EST)
@@ -61,7 +69,7 @@ Date | Time
 -----|-------
 March 12 | 11AM - 6PM
 March 13 | 11AM - 4PM
-March 6 | 11AM - 6PM
+March 16 | 11AM - 6PM
 
 A pilot session will be held on TBD
 Pilot participant: TBD
