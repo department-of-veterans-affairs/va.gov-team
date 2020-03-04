@@ -9,7 +9,7 @@ This is a first draft, and may be updated as new knowledge is gathered.
 - A way for a Veteran to exit the ordering process 
 - Error messaging 
 - Order confirmation page 
-- DLC Contact information (Email: DALV.CSS@VA.gov; call center phone number: 303-273-6200)
+- DLC Contact information (Email: DALV.CSS@VA.gov; contact center phone number: 303-273-6200)
 
 ## Veteran contact information
 - Veteran Name  (Pre-populated, cannot edit)
