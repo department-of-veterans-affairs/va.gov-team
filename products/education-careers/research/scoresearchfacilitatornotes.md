@@ -364,7 +364,7 @@ No, once a semester. Student’s previous performance, determines their current 
 7. What are the most challenging questions you get?
 8. What kinds of concerns or complaints to you hear related to administering their benefits from the VA?
 * 30 days actually is 30 bus days or longer
-* Complaints around the call center
+* Complaints around the contact center
 	* Sometimes for example until very recently, the VA doesn’t require that schools have a COE, but as a school WE have that policy, so that we get it right. Students might get upset because the VA doesn’t have this policy when the school DOES have this policy. Not in a malicious way or anything, will give out information, say well your SCO needs to XYZ, without understanding the SCO’s situation. “This is our policy” 
 * For graduate students we have to report the full time modifier, I have to turn around and tell the VA what IS full time, 6 credits can’t be full time graduate, 9 credits or more. 
 9. How do you feel about online Veteran feedback about your school?
