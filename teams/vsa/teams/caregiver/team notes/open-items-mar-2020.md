@@ -22,9 +22,8 @@
 | Review data prior to submission | 176 |
 | Not able to edit form after submission| 165 |
 | Submit data directly to CARMA | n/a |
-| Return ICN number for veteran and caregiver (if applicable)| n/a|
-| Get static list of approved Caregiver facilities from CARMA|n/a
-| Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
+| Allow Veteran to select Care facility from list |
+
 
  ## Full MVP launch: June 2020 
 
@@ -81,5 +80,7 @@
 - Create a launch plan
 - Pick top 3 KPIs and identify baselines
 
-
+| Return ICN number for veteran and caregiver (if applicable)| n/a|
+| Get static list of approved Caregiver facilities from CARMA|n/a
+| Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
 
