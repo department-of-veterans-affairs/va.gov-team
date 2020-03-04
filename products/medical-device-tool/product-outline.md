@@ -45,7 +45,7 @@ Product Outline
 # Executive Summary
 
 ### User Problem Statement
-As a Veteran, who is eligible to re-order hearing aid batteries and accesories from the Denver Logistics Center (DLC), I would like to be able to see what items I can reorder on line and the date I am eligible ro reorder on-line without having to call or email the support center. As the DLC, I would like to migrate more users to online self service reordering system to decrease call center volume, mail in cards and reduce costs.
+As a Veteran, who is eligible to re-order hearing aid batteries and accesories from the Denver Logistics Center (DLC), I would like to be able to see what items I can reorder on line and the date I am eligible ro reorder on-line without having to call or email the support center. As the DLC, I would like to migrate more users to online self service reordering system to decrease contact center volume, mail in cards and reduce costs.
 
 ### Solution Goals
 Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system and makign the user experience easy and intuitive.
@@ -71,7 +71,7 @@ Streamline the Veterans ordering process by:
 ### Business Goals
 DLC
 -	Migration of orders from other offered channels to the online channel. 
--	Currently the online channel is used by 7,000 veterans per month. Other channels are IvR, direct email, call center and reorder forms account for 180,000 per month.
+-	Currently the online channel is used by 7,000 veterans per month. Other channels are IvR, direct email, contact center and reorder forms account for 180,000 per month.
 -The business goal is to migrate veterals from channels that have a high cost per order to online self service channel. 
 -A QoQ migration of 5% to online channel would be considered a huge win.
 
@@ -116,7 +116,7 @@ Team will utilize shared resources to include, but not limited to: Front End eng
 #### Business Value
 Increase customer satisfaction
 -	By fulling Veterans desire to reorder medical supplies online instead of calling contact center or sending in reorder cards.
--	Reducing number of mail-in and Call Center calls to decrease operating costs for DLC
+-	Reducing number of mail-in and Contact Center calls to decrease operating costs for DLC
 -	The opportunity to increasing focus on a Veterans needs because the volume of cued calls will be reduced.
 
 ## OKRs-KPIs
@@ -128,7 +128,7 @@ Increase customer satisfaction
 ### Objectives and Key Results
 *Objective:* Reduce ordering complexity and streamline the process.
 * Reduction in mailed in orders
-* Reduction of Call Center orders
+* Reduction of Contact Center orders
 * Reduction of online errors
 * Reduction of total time to order items
 * Reduction of steps on the online ordering process
@@ -143,7 +143,7 @@ Increase customer satisfaction
 
 *Objective:* Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.  
 * Reduction in mailed in orders
-* Reduction of Call Center orders
+* Reduction of Contact Center orders
 * Increase in online orders  
 
 *Objective:* Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
