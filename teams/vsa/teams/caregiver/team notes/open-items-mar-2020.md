@@ -15,6 +15,8 @@
 | Requirement | Ticket # |
 | --- | --- | 
 | Allow Veterans and Caregivers to submit 1010-CG Online| 155|
+| Confirmation message |
+| Verify Veteran identity |
 | Unauthenicated form wizard |n/a|
 | Capture signature of Veteran and Caregiver | 164 |
 | Review data prior to submission | 176 |
