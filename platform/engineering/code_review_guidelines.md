@@ -15,7 +15,7 @@ Information on how VSP uses code owners can be found [here](code-owners.md).
 ## The pull request review lifecycle in brief
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-2. If your PR triggers any [additional automated checks](./manual-review-triggers), a bot will leave a comment and request a manual review from the **frontend-review-group**
+2. If your PR triggers any [additional automated checks](./manual-review-triggers.md), a bot will leave a comment and request a manual review from the **frontend-review-group**
     - the frontend-review-group completes reviews within one business day 
 3. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 
