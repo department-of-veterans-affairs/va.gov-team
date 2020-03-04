@@ -180,11 +180,11 @@ The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA
   - KPIs
     - overall veteran usage of the tool
     - Task completion rates (requests, self-schedules)
-    - Veteran satisfaction rates & call center help requests
+    - Veteran satisfaction rates & contact center help requests
   - Goals
     - Increase the number of veterans entering the 'new appointment' flow compared to the existing tool
     - Increase the percent of veterans who are able to successfully request or schedule an appointment after starting the 'new appointment' flow compared to the existing tool
-    - Decrease the number of call center support tickets created about VAOS
+    - Decrease the number of contact center support tickets created about VAOS
 
 #### Acceptance Criteria
 To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
@@ -277,7 +277,7 @@ VA Online Scheduling, VAOS, Veteran Appointment Request
 - Design Lead:
 - Eng Lead:
 - VA Web Comms Partner: 
-- VA Call Center Partner(s): 
+- VA Contact Center Partner(s): 
 - Production Testing Partner(s):
 - Designer(s):
 - Content Writer(s):
