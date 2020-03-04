@@ -4,8 +4,8 @@
 Product manager for digital education portfolio. Focused on the education portfolio, new-ish role. 
 
 ### Analytics access:
-Would be great to have it all in one place. Problem now is that we don’t have call center data, not as interested in the metrics like average wait time, more interested in what the calls are about. Interested in getting a sense of how things are doing through multiple channels. 
-- Call centers
+Would be great to have it all in one place. Problem now is that we don’t have contact center data, not as interested in the metrics like average wait time, more interested in what the calls are about. Interested in getting a sense of how things are doing through multiple channels. 
+- Contact centers
 - Grifana/uptime
 - Google analytics. 
 
