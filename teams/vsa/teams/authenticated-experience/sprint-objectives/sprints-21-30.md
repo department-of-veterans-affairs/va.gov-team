@@ -1,7 +1,7 @@
 # Authenticated Experience Sprint Objectives: Sprints 21 – 30
 
 - [Sprint 21](#sprint-21-56---519)
-- [Sprint 22](#sprint-22-520---62)
+- [Sprint 22](#sprint-22-520--62)
 - [Sprint 23](#sprint-23-63---616)
 - [Sprint 24](#sprint-24-617---630)
 - [Sprint 25](#sprint-25-56---519)
