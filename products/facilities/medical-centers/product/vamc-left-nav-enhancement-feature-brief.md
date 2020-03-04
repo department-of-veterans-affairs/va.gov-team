@@ -98,8 +98,7 @@ Pending development work (within scope)
 
 
 **Goals of the enhancement project**
-- Get users to all content and tools in just 1-2 clicks/taps
-- Allow users to "preview" all content pages in a section of content
+- Provide a straight to the point navigation that will allow the Veteran to quickly find and complete their journey on the VAMC website 
 
 Specifically, 
 - Create a more discernible difference between levels in the hierarchy. 
