@@ -795,7 +795,7 @@ Unknown Speaker  18:12
 Um, do you hear any kind of concerns or complaints you mentioned the like, that 30 day, what 30 days actually is, with regards to administering benefits, any other kind of complaints or feedback, you hear from folks that are taking advantage of these benefits around the benefits themselves?
 
 Unknown Speaker  18:32  
-I get I do hear secondhand complaints about the call center Be honest.
+I get I do hear secondhand complaints about the contact center Be honest.
 
 Unknown Speaker  18:39  
 Sometimes?
