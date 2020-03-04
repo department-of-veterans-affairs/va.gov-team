@@ -4,8 +4,8 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 ## MVP Requirements (Soft launch: May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
-| Unauthenicated form wizard |n/a|
 | Allow Veterans and Caregivers to submit 1010-CG Online| 155|
+| Unauthenicated form wizard |n/a|
 | Capture signature of Veteran and Caregiver | 164 |
 | Review data prior to submission | 176 |
 | Not able to edit form after submission| 165 |
@@ -66,10 +66,10 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 - Create a timeline between now and launch (May 2020)
 - Pick top 3 KPIs and identify baselines
 
-# Launch Plan
-March 15 - March 30: 
-April 15 - May 15: Integration testing
+# Launch Plan for MVP
+March 1 - April 15: Development work on 1010-CG 
+April 15 - May 15: Integration testing with CARMA
 May 15 - May 30: Get final approval to launch
-May 31: Launch!
+May 31: Launch to CSCs
 
 
