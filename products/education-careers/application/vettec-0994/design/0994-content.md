@@ -71,7 +71,7 @@ Expiration date: **##/##/####**
 
 
 **Need help?** 
-For help filling out this form ask the Education Call Center: [1-888-442-4551]() ([1-888-GIBILL1]()). Monday-Friday, 8:00am - 7:00pm (ET). 
+For help filling out this form ask the Education Contact Center: [1-888-442-4551]() ([1-888-GIBILL1]()). Monday-Friday, 8:00am - 7:00pm (ET). 
 
 [Submit a question to Education Service]()
 
