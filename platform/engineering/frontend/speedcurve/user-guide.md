@@ -15,7 +15,7 @@ With SpeedCurve, we can:
 
 ## Getting started
 
-One user from each veteran-facing services (VFS) team is designated as the administrator for the team. If you are designated as the administrator, you will receive an invitation via email to sign up for SpeedCurve.
+One user from each Veteran-Facing Services (VFS) team is designated as the administrator for the team. If you are designated as the administrator, you will receive an invitation via email to sign up for SpeedCurve.
 
 Once you are signed in to SpeedCurve, perform the following tasks to configure your team's settings:
 
