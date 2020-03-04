@@ -30,9 +30,9 @@
 ## Post-MVP (Estimated July 2020)
 | Requirement | Ticket # |
 | --- | ---| 
-| Ability to attach Power of Attorney documentation| 160|
-| Attach prefilled PDF to CARMA application | 169 |
-| Ability to print application (with SSNs masked) | 166 |
+| Ability for user to attach Power of Attorney documentation| 160|
+| Backend (Attach prefilled PDF to CARMA application) | 169 |
+| User ability to print application (with SSNs masked) | 166 |
 | Address validation (against USPS?) (Caitlin to check with Program team)| 
 | Systematic prevention of duplication | 
 
