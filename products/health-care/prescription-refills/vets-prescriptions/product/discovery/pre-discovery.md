@@ -36,7 +36,7 @@ requires unique credentials, so anyone should be able to set them up on the prot
 •	Keep a veteran up-to-date on the status of her prescription, including delivery
 •	Give a veteran access to all prescriptions they have had through the VA
 •	Make it easy for a user to create and maintain an account
-•	Reduce calls to call center [confirm this was a high call driver] note; 1.7M calls per year to call center re prescriptions (24% of calls to HEC) but these are not calls re MHV; users don't want to use MHV and instead use call system (IVR?)
+•	Reduce calls to contact center [confirm this was a high call driver] note; 1.7M calls per year to contact center re prescriptions (24% of calls to HEC) but these are not calls re MHV; users don't want to use MHV and instead use call system (IVR?)
 •	Enable easier sign in to MHV
 
 
