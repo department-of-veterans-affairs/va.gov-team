@@ -10,11 +10,11 @@ The National Call Center - Health Resource Center (HRC) will provide customer su
 
 ### Phone support
 
- - HRC representatives will answer phone calls from 7am to 7pm Central time on 855-574-7286. 800-829-4833 is the TTY number. Options for potential 24 hours a day coverage (e.g., expanding HRC hours, partnering with another call center) will be investigated.
+ - HRC representatives will answer phone calls from 7am to 7pm Central time on 855-574-7286. 800-829-4833 is the TTY number. Options for potential 24 hours a day coverage (e.g., expanding HRC hours, partnering with another contact center) will be investigated.
 
  - A vets.gov specific toll free number will be created and utilized. This will enable improved metrics collection and the simplest user experience.
 
- - HRC will maintain automated call greetings and messages for the vets.gov phone line (initial answer, call center closed, etc.)
+ - HRC will maintain automated call greetings and messages for the vets.gov phone line (initial answer, contact center closed, etc.)
 
  - Vets.gov will provide approved templates for calls for its products to include what information must be collected.
 
