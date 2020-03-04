@@ -56,7 +56,7 @@ Establish existing traffic numbers
 Once in staging, schedule a review with Tze
   - Address any QA issues
 
-## Call Center: 1 Sprint
+## Contact Center: 1 Sprint
 Develop supporting product overview doc,
 
 ## UAT: 1 Sprint
