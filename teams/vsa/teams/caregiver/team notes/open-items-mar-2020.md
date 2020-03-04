@@ -12,7 +12,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Get static list of approved Caregiver facilities from CARMA|n/a
 | Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
 
- ### Full launch: June 2020 
+ ## Full MVP launch: June 2020 
 
 ## Post-MVP (July 2020)
 | Requirement | Ticket # |
