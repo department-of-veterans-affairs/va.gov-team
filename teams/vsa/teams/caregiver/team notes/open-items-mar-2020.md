@@ -1,7 +1,7 @@
 # Open Items
 Purpose: to keep track of the open issues needing resolution betweeen now and our launch date.
 
-## MVP Requirements
+## MVP Requirements (Soft launch: May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
 | Allow Veterans and Caregivers to submit 1010-CG Online| 155|
@@ -12,7 +12,9 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Get static list of approved Caregiver facilities from CARMA|n/a
 | Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
 
-## Post-MVP
+ ##### Full launch: June 2020 
+
+## Post-MVP (July 2020)
 | Requirement | Ticket # |
 | --- | ---| 
 | Ability to attach Power of Attorney documentation| 160|
@@ -21,7 +23,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Address validation (against USPS?) (Caitlin to check with Program team)| 
 | Systematic prevention of duplication | 
 
-## Phase 2
+## Phase 2 (September 2020) 
 | Requirement | Ticket # |
 | --- | ---| 
 | Allow Veteran to track application status *  |
@@ -31,7 +33,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
   - Work with MPI to return status there
   - Add to Veteran profile/account
 
-## Phase 3
+## Phase 3 (January 2021)
 | Requirement | Ticket # |
 | --- | ---| 
 | Buid a logged-in application portal | n/a |
@@ -42,7 +44,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Text message/email notification after successful submission | 167 |
 | Veteran can recieve application status updates in Portal  | 174|
 
-## Phase 4
+## Phase 4 (March 2021)
 | Requirement | Ticket # |
 | --- | ---| 
 | Caregiver can view in-progress application| 162 |
