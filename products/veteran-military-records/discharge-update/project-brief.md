@@ -58,7 +58,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 **How are we going to find out answers?**
 
 - Veteran research
-- Call center meeting
+- Contact center meeting
 - DOD stakeholders
 - VA stakeholders
 - VSO outreach
@@ -76,7 +76,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 **Who do we need to talk to?**
 
 - Veterans
-- Call center staff
+- Contact center staff
 - DOD stakeholders
 - VA stakeholders
 - VSOs
