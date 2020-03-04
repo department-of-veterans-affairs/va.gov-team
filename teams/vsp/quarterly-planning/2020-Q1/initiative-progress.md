@@ -47,7 +47,7 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - ATO
 - Platform Infrastructure Maintenance
 - Documentation Debt
-- Call center issue triage and resolution
+- Contact center issue triage and resolution
 
 ### Feature / service iterations
 - Onboarding
@@ -69,7 +69,7 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - CMS accessibility validation errors
 - Plain language linting MVP
 - Health Care Application Best in Class App (in infancy)
-- Call center data report (mostly Chante)
+- Contact center data report (mostly Chante)
 - GitHub Teams MVP
 
 ### Rules of Engagement / key documents
