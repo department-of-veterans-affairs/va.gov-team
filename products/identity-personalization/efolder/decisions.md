@@ -33,7 +33,7 @@ There is a clear and present need for a robust document management facility in t
 
 - What is the mandate for surfacing the "entire eFolder" at this point? Is the mandate contained in an internal memo, a regulation, or a public law?
   - [ ] Action item: Find recorded source of this policy and document it in this repo.
-- Are all impacted parties briefed on this directive, and do they understand its implications? Are the various call centers, for example, equipped to deal with questions about document self service?
+- Are all impacted parties briefed on this directive, and do they understand its implications? Are the various contact centers, for example, equipped to deal with questions about document self service?
   - [ ] Action item: Based on current understanding of the customer journey, draft a list of touchpoints and affected partners and catalog potential impact
 - If, as has been proposed, VBA is "accepting the risk" of exposing the whole eFolder without robust human intervention (for document redaction et al), what are those exact risks -- and what are the proposed mitigations?
   - [ ] Action item: Work with VBA stakeholders to draft a catalog of risks and mitigations
