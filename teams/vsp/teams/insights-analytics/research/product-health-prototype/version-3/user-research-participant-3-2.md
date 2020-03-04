@@ -51,7 +51,7 @@ Participant 3, Wednesday October 9, 9:00am ET
   - Downtime per month - thinks from an engineering perspective downtime is a different theme from the other metrics, other metrics are about user, downtime/backend systems is about application
   - Customer satisfactions score: who is the customer? What are we asking they are satisfied with? Is it with the form or with benefits in general?
   - Doesn't know what HRC is
-  - HRC call center calls: looks like random sampling of dates, not like a dot every month or week
+  - HRC contact center calls: looks like random sampling of dates, not like a dot every month or week
   - Number of calls, emojis are confusing 143 is bad, but does the thumbs down mean it's trending down? the fact that it's pointing down but it's higher than average. It implies directionality and good/bad.
 
 ### Combined Score from Target
