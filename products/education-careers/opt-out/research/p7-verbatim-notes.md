@@ -103,7 +103,7 @@ Tell me how you'd interpret this information, what's the purpose of this page?
 It's letting you know, "Hey it's going to take 1 week or so" and the number to call if you want to opt back in. Then 
 briefly telling you again you have to notify your school to give your information if you opt out. 
 
-The part about opting back in, is that how you'd expect to make that happen? Calling the call center?
+The part about opting back in, is that how you'd expect to make that happen? Calling the contact center?
 
 Yeah, I don't think there would be a form to opt back in so you'd want to talk to a rep. 
 
