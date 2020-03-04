@@ -90,7 +90,17 @@ None.  This will be static code analysis of a public repo.  No user data will be
 
 With this planned implementation we don't have a way of forcing a VFS team to wait for a manual review - all we do is _ask_ them to wait.  It's possible that some teams won't respect this request and will merge a PR that has code that requries a manual review.
 
-It is difficult to estimate the liklihood of this risk.  These changes will be communicated to the teams, and if they disregard the process then we will be forced to implement stricter rules.  Here are some possible actions we could take, either by themselves or in combination:
+It is difficult to estimate the liklihood of this risk.  In order to discover when VFS teams are ignoring the manual review requests, we can perform [a Github Search](https://github.com/department-of-veterans-affairs/vets-website/pulls?q=is%3Apr+commenter%3Ava-vfs-bot+is%3Amerged+) with some special parameters:
+
+> `is:pr commenter:va-vfs-bot is:merged`
+
+This will show us any merged PRs that the `va-vfs-bot` has commented on, and from there we can look at each PR to see if a review was left by the frontend-review-group before it was merged.
+To help with the search we can also add a date parameter if we only want to look at PRs merged after a certain date:
+
+> `merged:>=YYYY-MM-DD`
+
+If we discover that teams are disregarding the manual review requests then we will implement stricter rules.
+Here are some possible actions we could take, either by themselves or in combination:
 
 - Have the bot leave a review that "requests changes" rather than a simple comment.
 - If the script leaves a comment for manual review, have the process exit with a failing status and make it block the build.
