@@ -73,7 +73,7 @@ _what does this look like?_
   - Content
   - IA
   - Analytics
-  - Call center
+  - Contact center
 - Invest in e2e VFS Team Experience team to design end-to-end user journey
   - Improvements to the user journey to be identified through research
 
