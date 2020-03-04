@@ -6,7 +6,7 @@
 - Communicate and embrace transparency
 - Stay organized and help your future self and team
 - Measure outcomes where possible
-- Remember the Call Center
+- Remember the Contact Center
 ----
 ## Sprint 16 (2/26 - 3/10)
 ```diff 
@@ -144,7 +144,7 @@ _Note that we will not be turning off any functionality in EBN or doing any comm
 ```
 ### 1. Prepare "View My Rated Disabilities" for Launch
 - Refine any error handling issues and user acceptance testing remaining in staging
-- Complete final reviews required to launch (Call Center, Content/IA {mockups}, 508 {staging}, Security {staging})
+- Complete final reviews required to launch (Contact Center, Content/IA {mockups}, 508 {staging}, Security {staging})
 - Address any further DSVA Design feedback
 - Review the launch checklist and document any remaing gaps for launch procedures  
   - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
