@@ -24,7 +24,8 @@ The initial focus point per screen: <br>
 **Default page, 'yes' selected, mix of hearing aids** -  Since one of the cards is selected, the focus point should be on that card. We may need to provide styling references to the front-end engineers. <br>
 
 ### Feedback 
-TBD
+**Internal slack thread 03/03/2020**<br>
+There was a discussion thread around the checkbox button styling. The design was originally using a plus icon to visually represent adding an item to the Veteran's order and a checkmark icon when the item was added to the order. However, this pattern posed accessibility concerns surrounding how a screenreader would read out that content. The design was updated to show checkboxes that toggle instead of iconography. 
 
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
