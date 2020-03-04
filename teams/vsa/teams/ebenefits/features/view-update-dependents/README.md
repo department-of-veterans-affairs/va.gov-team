@@ -158,7 +158,7 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 - Design Lead: Shawna Hein
 - Eng Lead: Paul Short
 - VA Web Comms Partner: 
-- VA Call Center Partner(s): Chante
+- VA Contact Center Partner(s): Chante
 - Production Testing Partner(s):
 - Designer(s): Jim Adams
 - Content Writer(s): None
