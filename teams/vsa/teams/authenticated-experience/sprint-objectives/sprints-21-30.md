@@ -8,7 +8,7 @@
 - [Sprint 26](#sprint-26-715--78)
 - [Sprint 27](#sprint-27-729--811)
 - [Sprint 28](#sprint-28-812--825)
-- [Sprint 29](#sprint-29-617--630)
+- [Sprint 29](#sprint-29-826--98)
 - [Sprint 30](#sprint-30-617--630)
 
 ## Sprint 21 (5/6 - 5/19)
