@@ -12,13 +12,13 @@ Via "Re: BGS and VRM Status Meeting Agenda Items for 12-10-2019" thread
  
 > These routing numbers were blocked several years ago because they were being used in large scale fraud schemes to re-route benefits.  The list of route numbers were provided by the VA OIG in collaboration with Social Security OIG as a high probability that they were fraudulent.
 > 
-> If a Veteran legitimately uses a pre-paid debit card with one of these route numbers they need to contact VA call center, or by mail, or come into an RO so VA can better identity proof the change – they will not be able to do so through EVSS services. 
+> If a Veteran legitimately uses a pre-paid debit card with one of these route numbers they need to contact VA contact center, or by mail, or come into an RO so VA can better identity proof the change – they will not be able to do so through EVSS services. 
 
 Via "VA.gov error/fraud update" thread
 
 >To clarify – the route numbers are not fraudulent.  They are legitimate route numbers and some Veterans may have pre-paid debit cards that correspond to those route numbers.  However, we’ve found through IG investigations that there is a higher likelihood then not that any attempt to update an address to one of these route numbers is fraudulent. 
 > 
->Originally, when a Veteran attempted to legitimately update his address to one of these route numbers, he was supposed to be presented with a message instructing him to contact VA to make the change, I’m not sure if that is still happening, but assuming it is, those instances that are legit should be coming through the call center or other alternate way so we can get the Veteran’s address updated properly.  Those that are not legit may be making multiple attempts to change but will be less likely to attempt to come in through an alternate means to make the change.
+>Originally, when a Veteran attempted to legitimately update his address to one of these route numbers, he was supposed to be presented with a message instructing him to contact VA to make the change, I’m not sure if that is still happening, but assuming it is, those instances that are legit should be coming through the contact center or other alternate way so we can get the Veteran’s address updated properly.  Those that are not legit may be making multiple attempts to change but will be less likely to attempt to come in through an alternate means to make the change.
 
 And more from Jack Goldberg (BGS):
 
