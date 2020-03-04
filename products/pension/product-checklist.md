@@ -88,7 +88,7 @@
 
 ## Communications 
 - [ ] Develop a communication plan for announcing the launch internally and externally; coordinate with Martin Taylor (Sec Office)
-- [X] Coordinate (ASAP) with our Vets.gov Call Center POC to prepare VA call centers for launch. Provide scripts and demos as needed.
+- [X] Coordinate (ASAP) with our Vets.gov Contact Center POC to prepare VA contact centers for launch. Provide scripts and demos as needed.
 
 ## Engineering Section
 
@@ -129,4 +129,4 @@
     - [ ] Define automated alerts for different error conditions
     - [ ] Alerts are sent and delivered when error conditions are met
     - [ ] Schedule daily/weekly calls with vets.gov and VA team members and stakeholders for a month following launch to ensure no vets.gov technical issues
-- [ ] Coordinate with Call Center to monitor calls
+- [ ] Coordinate with Contact Center to monitor calls
