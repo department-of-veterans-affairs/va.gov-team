@@ -102,7 +102,7 @@ There were a few statements that identified a problem more clearly:
 
 - confusion between Secure Messaging and Crisis Line
 - MHV is not for immediate needs
-- Knowing which call center to call
+- Knowing which contact center to call
 - I want something from VA, where do I go?
 - Over 1000 phone lines to choose the right one to call
 
@@ -178,7 +178,7 @@ Access
 - Link healthcare application status with the rest of logged in care profile.
 - The solution should take place wherever is best for Veterans.
 - Result in...
-  - less call center calls
+  - less contact center calls
   - less missed appointments
   - less people disappointed with VA
   - Less man hours dedicated to solving problems
