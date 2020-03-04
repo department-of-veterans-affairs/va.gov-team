@@ -1,7 +1,7 @@
 # Download VA Letters Stakeholder Discovery
 
 ## POCs
-- Call center
+- Contact center
 - Business Owner
 
 ## Analytics
