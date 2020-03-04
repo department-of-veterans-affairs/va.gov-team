@@ -11,7 +11,7 @@
   * [Action Items](#action-items)
 
 
-## MVP Requirements (Soft launch: May 2020)
+## Integration Test (May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
 | Allow Veterans and Caregivers to submit 1010-CG Online| 155|
@@ -27,9 +27,7 @@
 | Data validation |
 
 
- ## Full MVP launch: June 2020 
-
-## Post-MVP (Estimated July 2020)
+## MVP (Estimated July 2020)
 | Requirement | Ticket # |
 | --- | ---| 
 | Ability for user to attach Power of Attorney documentation| 160|
