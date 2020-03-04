@@ -23,6 +23,8 @@
 | Not able to edit form after submission| 165 |
 | Submit data directly to CARMA | n/a |
 | Allow Veteran to select Care facility from list |
+| Address validation | 
+| Data validation |
 
 
  ## Full MVP launch: June 2020 
@@ -33,7 +35,6 @@
 | Ability for user to attach Power of Attorney documentation| 160|
 | Backend (Attach prefilled PDF to CARMA application) | 169 |
 | User ability to print application (for records/submission) | 166 |
-| Address validation | 
 | Systematic prevention of duplication | 
 
 ## Phase 2 (Estimated September 2020) 
