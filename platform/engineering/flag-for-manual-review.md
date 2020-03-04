@@ -60,7 +60,10 @@ This code will live in the [vets-website repo](https://github.com/department-of-
   - Responsible for adding jobs and assigning appropriate environment variables
 
 ### Testing Plan
-I will run the script locally in addition to having Circle run it.
+
+There are no automated tests planned for the initial release - all testing will be manual.
+Once this process is released and teams provide feedback we will iterate and add unit tests.
+The script will be written in a way that should make it easier to test.
 
 ### Logging
 The script will log to the console:
