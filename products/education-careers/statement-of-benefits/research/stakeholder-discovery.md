@@ -1,11 +1,11 @@
 # 9/11 GI Bill Status Stakeholder Discovery
 
 ## POCs
-- Call center
+- Contact center
 - Business owner
 
 ## Analytics
-- Top 5 frequently asked Call Center questions
+- Top 5 frequently asked Contact Center questions
 
 ## Product/Process Discovery
 - Who are the primary users? secondary users?
