@@ -3,7 +3,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 
 ## MVP Requirements
 | Requirement | Ticket # |
-| --- | ---| 
+| --- | --- | 
 | Return ICN number for veteran and caregiver (if applicable)| N/A|
 | Get static list of approved Caregiver facilities from CARMA|n/a
 | Create table in vets-api to link CARMA ID to form submission (+ date)| N/A
@@ -20,17 +20,20 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Systematic prevention of duplication | 
 
 ## Phase 2
-- Allow Veteran to track application status
-  - Options: 
-      - Use application ID number to query for status update
-      - Work with MPI to return status there
-      - Add to Veteran profile/account
-- Work with Facilities API to use them as a source of truth
+| Requirement | Ticket # |
+| --- | ---| 
+| Allow Veteran to track application status *  |
+| Work with Facilities API to use them as a source of truth for facilities| 
+ * Options: 
+- Use application ID number to query for status update
+- Work with MPI to return status there
+- Add to Veteran profile/account| 
 
 ## Phase 3
-- Allow Caregiver to track their portion of the Caregiver application
-- Save-in-progress (on behalf of Caregivers and Veterans)
-- 
+| Requirement | Ticket # |
+| --- | ---| 
+| Allow Caregiver to track their portion of the Caregiver application|
+| Save-in-progress (on behalf of Caregivers and Veterans)|
 
 
 
