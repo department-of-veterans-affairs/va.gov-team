@@ -88,14 +88,14 @@ Any concerns?
 
 **No concerns. Yesterday (first full day): 1,328 and prepared from platform and support standpoint. Increased volume, and have not seen increased latency or support issues.**
 
-## Call Center
+## Contact Center
 
 - Denise Kitts`*`
 - Lacey representing today
 
 Any concerns?
 
-**Have not heard reports from any call centers yet.**
+**Have not heard reports from any contact centers yet.**
 
 ## VA311
 
@@ -103,7 +103,7 @@ Any concerns?
 
 Any concerns?
 
-**Increase in VA311 traffic, average 600 a day before launch to 2,800 yesterday: 400% increase. Evenly distributed across options. In the event of a big spike, system can handle it, but a little concerned about call centers - discussing that now. Had one hour when Live option was available, and 9 people chose it (w/o any prompts) and are gathering the data on that now.**
+**Increase in VA311 traffic, average 600 a day before launch to 2,800 yesterday: 400% increase. Evenly distributed across options. In the event of a big spike, system can handle it, but a little concerned about contact centers - discussing that now. Had one hour when Live option was available, and 9 people chose it (w/o any prompts) and are gathering the data on that now.**
       
 ## OPIA (and TeamSite)
 
