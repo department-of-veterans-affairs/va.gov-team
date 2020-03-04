@@ -201,7 +201,7 @@ See [FAQ]() for more information.
 [Veterans benefits email updates]()    
 
 **Call us**  
-[VA Education Call Center:  
+[VA Education Contact Center:  
 1-888-GIBILL-1 (1-888-442-4551)]()
 
 [Outside the U.S.: +1-918-781-5678  
