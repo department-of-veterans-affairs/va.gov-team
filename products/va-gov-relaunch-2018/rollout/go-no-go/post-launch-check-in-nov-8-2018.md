@@ -77,7 +77,7 @@ Any concerns?
 
 **None. 43 LOA3s issued through midnight. No spike in support tickets or platform in general.**
 
-## Call Center
+## Contact Center
 
 - Denise Kitts`*`
 
