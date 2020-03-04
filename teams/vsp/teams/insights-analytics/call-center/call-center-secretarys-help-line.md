@@ -1,6 +1,6 @@
-## Call Center
+## Contact Center
 
-If you are involved in a discovery sprint, one good resource is to use the call center.  The call center speaks with Veterans daily on problems and issues they face with vets.gov.  The best way to work with the call center is through our DSVA Call Center Lead Chante Lantos-Swett (Chante.LantosSwett@va.gov). 
+If you are involved in a discovery sprint, one good resource is to use the contact center.  The contact center speaks with Veterans daily on problems and issues they face with vets.gov.  The best way to work with the contact center is through our DSVA Contact Center Lead Chante Lantos-Swett (Chante.LantosSwett@va.gov). 
 
 ## Office of Client Relations
 
