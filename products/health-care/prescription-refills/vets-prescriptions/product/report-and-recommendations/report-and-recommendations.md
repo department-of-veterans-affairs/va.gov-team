@@ -17,7 +17,7 @@ Currently, the site is undergoing a number of changes. It is being "re-engineere
 1. **Credential Service Provider (CSP)**: MHV is working towards using a CSP for aggregating different logins under a common umbrella. While the system has had lots of problems, it sounds like most issues have been resolved.
  
 #### Other things we learned:
-- The VA **pharmacy call center** has little impact on the workflow of online Rx refills. This system is centralized, and each medical center integrates it into their phone system. (So, a veteran might call Kansas City, but they'll talk to someone somewhere else.)
+- The VA **pharmacy contact center** has little impact on the workflow of online Rx refills. This system is centralized, and each medical center integrates it into their phone system. (So, a veteran might call Kansas City, but they'll talk to someone somewhere else.)
 - MHV as a whole has a lot of **content**, and the maintenance of the content has taken a back seat due to shifting priorities and a lack of resources. Much of this content seems unecessary (meaning: it will not help veterans accomplish what they came to the site to do)
 - MHV has APIs in production, but there are no current consumers aside from an in development Rx Refill "Mobile App" (actually, just _another_ responsive/mobile-friendly site...not an iOS/Android app). The MHV team has some concerns around API management. PD has a tool that helps with API inventory, but they don't have anything a system to manage who uses the API (it sounds like this is manually done right now).
 - The system architecture looks like [_this_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/product/2016/report-and-recommendations/arch-current.jpg). (Possible wrong assumptions here, but mostly accurate)
@@ -73,7 +73,7 @@ Dependencies & Feasibility: The intent of this phase will be to identify any dep
 - Federal login system is not likely to get used for long, given the vets.gov login plans. Rolling this out could be confusing to users.
 - Content: MHV current approach to content is not in line w/ industry best practices and has the majority of their 800 pages of content (health related "articles") has relatively low usage (110,000 page views per day); moreover the driving decision criteria for Liferay platform selection was content management requirements. Changing MHV approach / view of content will be difficult. How do we communicate our recommended way forward and still maintain good relationship with this team.
 - Sunsetting MHV pharmacy features on VA.gov; need to define our strategy.
-- Ongoing maintenance and operations; what's our vets.gov role? what's MHV team role? What support do we need from Call Center?
+- Ongoing maintenance and operations; what's our vets.gov role? what's MHV team role? What support do we need from Contact Center?
 - Message delivery to MHV team: i don't think the MHV team is going to be happy with this recommendation given their redesign work for more than a year and sunk costs to date on Liferay:( what's our message to them re Liferay--just keep going w/ what they are doing but just focus on the content?  i think this is best recommendation!  but need some help thinking about how we package this to MHV so we can maintain a good working relationship w/ them. I like Stacey idea of not pushing back on things until we have to, but wondering how long we have if they are planning on trying to deploy something w/ IAM and Liferay for July?
 
 
