@@ -59,7 +59,7 @@ The script will:
   - Use `octokit.pulls.createReviewRequest()` to request a review from the frontent-review-group
   - Use `octokit.pulls.createReview()` to leave a bot review with a comment on any addition that matched the pattern which hasn't been commented on
 
-Various environment variables will be used in order to allow the script to be easily configurable from CircleCI - see [Debugging](#Debugging) for more information.
+Various environment variables will be used in order to allow the script to be easily configurable from CircleCI - see [Debugging](#debugging) for more information.
 
 ### Code Location
 
