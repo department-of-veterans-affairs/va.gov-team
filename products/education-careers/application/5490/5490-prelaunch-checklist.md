@@ -70,7 +70,7 @@ This checklist can go into the `vets.gov-planning` Issues/card for the project a
 ## Kick-off
 
 - [x] Define sprint team meeting schedule
-- [X] Send signed charter to stakeholders, including Sheila Guitteriez (Call Center POC) and Kelly O. for PM purposes
+- [X] Send signed charter to stakeholders, including Sheila Guitteriez (Contact Center POC) and Kelly O. for PM purposes
 - [x] Identify VA stakeholder reviewers and SMEs to provide input and reviews of prototypes
   - [x] Identify the decision-makers (business owners, key VA SMEs) on prototype decisions
   - [x] Plan for smaller, individual reviews where possible based on lessons learned
@@ -138,7 +138,7 @@ This checklist can go into the `vets.gov-planning` Issues/card for the project a
   - [x] Start functional testing at least 4 weeks prior to launch; must include VA stakeholders
   - [x] Document processes for handling and prioritizing user feedback from all known channels (same process as 1990)
   - [x] Ensure VA Business owner product team acceptance of pre-launch product including any known issues
-  - [X] Coordinate with Sheila Guiterriez (our vets.gov Call Center POC) to prepare VA call centers for launch and provide scripts as needed - Josh/Ian
+  - [X] Coordinate with Sheila Guiterriez (our vets.gov Contact Center POC) to prepare VA contact centers for launch and provide scripts as needed - Josh/Ian
   - [X] Develop a communication plan for announcing the launch internally and externally; coordinate with Martin Taylor (Sec Office) via Kelly - Josh/Ian
   - [-] Include in communications plan pre-briefing (video is preferred) for Veteran Service Organizaitons (VSO) and Congress and coordinate with Kelly (kelly can help w/ video); VSOs and Congress must be briefed at least 2 weeks prior to launch.
   - [X] Develop content to inform users of any scheduled maintenance windows or anticipated downtime of back end system
@@ -165,6 +165,6 @@ This checklist can go into the `vets.gov-planning` Issues/card for the project a
 
 - [ ] Ensure monitoring and resolve issues in 24 hours
 - [ ] Collect and report metrics and Google Analytics
-- [ ] Coordinate with Call Center to monitor calls
+- [ ] Coordinate with Contact Center to monitor calls
 
 4-10-17:  Launching 5490 today. 3 Business Days later than anticipated. Only big outstanding items are Analytics. Testing is being done again today. 
