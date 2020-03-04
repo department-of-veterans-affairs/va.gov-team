@@ -8,7 +8,7 @@ serve Veterans while continuously improving telemetry, tools, and documentation.
 ### Responsibilities
 - Sentry error management & triage
 - Improving automated analytics & error collection
-- Handling inquiry details from call centers
+- Handling inquiry details from congtact centers
 - Managing postmortem process
 - Managing communication flow for handling production issues
 - Applying targeted fixes when appropriate, delegating fixes to responsible teams when not appropriate
@@ -27,7 +27,7 @@ serve Veterans while continuously improving telemetry, tools, and documentation.
 - **Frontend Engineer:** [Christopher Valarida](https://github.com/cvalarida) (chris.valarida@adhocteam.us)
 - **Backend Engineer:** [Keifer Furzland](https://github.com/kfrz) (keifer@oddball.io)
 - **Backend Engineer:** [Lindsey Hattamer](https://github.com/lindseysaari) (lindsey.hattamer@oddball.io)
-- **Call Center Lead:** [Kimberley Daniels]() (kimberley.daniels@adhocteam.us)
+- **Contact Center Lead:** [Kimberley Daniels]() (kimberley.daniels@adhocteam.us)
 
 ### Key Documents
 - [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
