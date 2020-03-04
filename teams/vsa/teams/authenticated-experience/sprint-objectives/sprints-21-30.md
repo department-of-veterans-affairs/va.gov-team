@@ -1,15 +1,15 @@
 # Authenticated Experience Sprint Objectives: Sprints 21 – 30
 
-- [Sprint 21]()
-- [Sprint 22]()
-- [Sprint 23]()
-- [Sprint 24]()
-- [Sprint 25]()
-- [Sprint 26]()
-- [Sprint 27]()
-- [Sprint 28]()
-- [Sprint 29]()
-- [Sprint 30]()
+- [Sprint 21](#sprint-21-56---519)
+- [Sprint 22](#sprint-22-520---62)
+- [Sprint 23](#sprint-23-63---616)
+- [Sprint 24](#sprint-24-617---630)
+- [Sprint 25](#sprint-25-56---519)
+- [Sprint 26](#sprint-26-56---519)
+- [Sprint 27](#sprint-27-56---519)
+- [Sprint 28](#sprint-28-56---519)
+- [Sprint 29](#sprint-29-56---519)
+- [Sprint 30](#sprint-30-56---519)
 
 ## Sprint 21 (5/6 - 5/19)
 
@@ -19,14 +19,14 @@
 
 ## Sprint 24 (6/17 – 6/30)
 
-## Sprint 25 (July 1 – July 14)
+## Sprint 25 (7/1 – 7/14)
 
-## Sprint 26 (July 15 – July 28)
+## Sprint 26 (7/15 – 7/8)
 
-## Sprint 27 (July 29 – Aug 11)
+## Sprint 27 (7/29 – 8/11)
 
-## Sprint 28 (Aug 12 – Aug 25)
+## Sprint 28 (8/12 – 8/25)
 
-## Sprint 29 (Aug 26 – Sept 8)
+## Sprint 29 (8/26 – 9/8)
 
-## Sprint 30 (Sept 9 – Sept 22)
+## Sprint 30 (9/9 – 9/22)
