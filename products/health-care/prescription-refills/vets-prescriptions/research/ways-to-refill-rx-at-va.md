@@ -10,7 +10,7 @@ Online:
 Phone:
 
 - Audiocare (# on the rx label) *This option automates a renewal request as well for non-refillable prescriptions
-- VA call center (HRC or PCC)
+- VA contact center (HRC or PCC)
 - Call a VA facility
 
 At a VA facility:
