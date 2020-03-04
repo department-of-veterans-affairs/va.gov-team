@@ -318,7 +318,7 @@ The schedule is configured via "config/sidekiq_scheduler.yml".  Sample schedule 
 	description: "Send the daily report to VA stakeholders about Education Benefits submissions"
 	EducationForm::CreateSpoolSubmissionsReport:
 	cron: "15 4 * * MON-FRI America/New_York"
-	description: "Send the daily report to the call center about spool file submissions"
+	description: "Send the daily report to the contact center about spool file submissions"
 ```
 
 
