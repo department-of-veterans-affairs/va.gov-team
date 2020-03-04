@@ -1,28 +1,42 @@
 # Open Items
 Purpose: to keep track of the open issues needing resolution betweeen now and our launch date.
 
-## *New* MVP Requirements
-- Ability to attach Power of Attorney documentation
-- Attach prefilled PDF to CARMA application
-- Return ICN number for veteran and caregiver (if applicable)
-- Get static list of approved Caregiver facilities from CARMA
-- Long term: work with Facilities API to use them as a source of truth
-- To look into: ensure that identical applications can't be sent back-to-back
-- Allow Veteran/Caregiver to track application status
-  - To support Caregiver program in its expansion and reduce number of phone calls asking status question
+## MVP Requirements
+| Requirement | Ticket # |
+| --- | ---| 
+| Return ICN number for veteran and caregiver (if applicable)| N/A|
+| Get static list of approved Caregiver facilities from CARMA|n/a
+| Create table in vets-api to link CARMA ID to form submission (+ date)| N/A
+| Not able to edit form after submission| N/A
+
+## Post-MVP
+| Requirement | Ticket # |
+| --- | ---| 
+| Ability to attach Power of Attorney documentation| 
+| Attach prefilled PDF to CARMA application| 
+| Ability to print application (with | 
+| Address validation (against USPS?) (Caitlin to check with Program team)| 
+| Ensure that identical applications can't be sent back-to-back | 
+| Systematic prevention of duplication | 
+
+## Phase 2
+- Allow Veteran to track application status
   - Options: 
       - Use application ID number to query for status update
       - Work with MPI to return status there
- - Create table in vets-api to link CARMA ID to form submission (+ date)
+      - Add to Veteran profile/account
+- Work with Facilities API to use them as a source of truth
 
-## Nice to Haves
-- Address validation (against USPS?) (Caitlin to check with Program team)
-- Systematic prevention of duplication
+## Phase 3
+- Allow Caregiver to track their portion of the Caregiver application
+- Save-in-progress (on behalf of Caregivers and Veterans)
+- 
+
+
 
 ## Questions
 - How are we integrating plain language into the online 1010-CG experience while maintaining consistency with the paper form?
 - What is considered a duplicate application? What do we need to do to prevent them?
-- Is save-in-progress *required* for launching the MVP?
 - How are we going to roll the MVP out slowly?
 
 ## Action Items
