@@ -395,43 +395,76 @@ Dev
 
 ## Sprint 17 (3/11 - 3/24)
 
+### Order of priorities
+
+Any overflow from last sprint (Matt will identify if there is overflow), plus:
+
+1. Address validation launch & monitoring
+2. Profile 2.0: Kickoff recruiting & conduct research
+  - Note: conducting research might overflow into the following sprint depending on when we kickoff recruiting and scheduling issues (no shows, needing to reschedule, etc).
+3. Profile 2.0: Build starts 
+
+- We *might* get to address validation post-launch tickets, but this is unlikely given that our ramp up for this is a full week.
+
 ### Address validation
 
-- Launch?
-- Post launch: Stop using country name for va profile contact information endpoint #5591
-
+- Tickets TBD
 
 ### Profile 2.0
 
-Design
-
-- Conduct Research
+- Kickoff research
+- Conduct research (as much as we can fit into the sprint; overflow is OK)
+- Start build
 
 ## Sprint 18 (3/25 - 4/7)
+
+### Order of priorities
+
+Any overflow from last sprint, plus:
+
+1. Profile 2.0: Finish research (if overflow); Research report and readout; create any follow up tickets; design updates (if time)
+2. Profile 2.0: Build continues
+3. Address validation post-launch tickets
+
+### Address validation
+
+- Post build tickets
 
 ### Profile 2.0
 
 Design
 - Research report
+- Any tickets that come out of research
 - Research updates
-- Review content pages/My VA dashboard for any needed updates #5518
 
 Dev
 - Continue build
 
 ## Sprint 19 (4/8 - 4/21)
 
+### Order of priorities
+
+1. Profile 2.0: Content review/IA work
+2. Profile 2.0: Build continues
+3. Address validation: If applicable, any final tickets
+
 ### Profile 2.0
 
 Design
 
+- Review content pages/My VA dashboard for any needed updates #5518
 - IA plan and review #5534
 
 Dev
 
-- Research updates
+- Build continues
+- Implement research updates
 
 ## Sprint 20 (4/22 - 5/5)
+
+### Order of priorities
+
+1. Profile 2.0: 
 
 ### Profile 2.0
 
