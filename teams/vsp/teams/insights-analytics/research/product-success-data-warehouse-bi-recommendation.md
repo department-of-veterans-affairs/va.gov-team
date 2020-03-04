@@ -12,7 +12,7 @@ Obtain and maintain a data warehouse so that we can consolidate our data sources
 #### Risks
 _For obtaining a Data Warehouse_
 
-- Variable Costs: Storage and processing costs are determined by the amount of data stored and the frequency by which they are refreshed to the BI tool. The structure and volume of Call Center and PA&I is currently unknown.
+- Variable Costs: Storage and processing costs are determined by the amount of data stored and the frequency by which they are refreshed to the BI tool. The structure and volume of Contact Center and PA&I is currently unknown.
 - Technical Maintenance: Depending on the data warehouse chosen, building and maintaining a data warehouse can result in high overhead.
 
 _For not obtaining a Data Warehouse_
