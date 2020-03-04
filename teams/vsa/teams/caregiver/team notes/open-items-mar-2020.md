@@ -63,12 +63,11 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 | Caregiver can view in-progress application| 162 |
 | Caregiver can log into portal to recieve application updates | 173 |
 
-# Launch Timeline for MVP
+## Launch Timeline for MVP
 March 1 - April 15: Development work on 1010-CG 
 April 15 - May 15: Integration testing with CARMA
 May 15 - May 30: Get final approval to launch
 May 31: Launch to CSCs
-
 
 
 ## Open Questions
