@@ -115,10 +115,10 @@ Have all Vets.gov references (in emails too) been removed?
 
 **ready** by 4 PM today
 
-## Call Center
+## Contact Center
 - Denise Kitts`*`
 
-Are call center representatives ready to handle incoming calls from VA.gov users?
+Are contact center representatives ready to handle incoming calls from VA.gov users?
 
 **ready**
 
