@@ -97,7 +97,8 @@ Relevant links:<br>
 **2.** [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5798)
 
 ## Description
-This use case covers if a veteran does not have any accessories that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible accessory layouts. Even though none of the hearing aid accessories are eligible for resupply, it's important to display the items in case either a veteran is expecting to be able to order one or they don't see an expected accessory. Initial focus point should be on h1: Order hearing aid batteries and accessories 
+This use case covers if a veteran does not have any accessories that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible accessory layouts. Even though none of the hearing aid accessories are eligible for resupply, it's important to display the items in case either a veteran is expecting to be able to order one or they don't see an expected accessory. Initial focus point should be on h1: Order hearing aid batteries and accessories <br>
+The initial focus point for this screen: H1 - _Order hearing aid batteries and accessories_
 
 ## Feedback
 TBD
