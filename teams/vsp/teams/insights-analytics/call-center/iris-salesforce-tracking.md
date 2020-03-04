@@ -19,4 +19,4 @@ the O drive of the VA Network.
 - Subtopic
 
 
-Once the information is entered into the master spreadsheet it will be the responsibility of the Call Center Leads to follow the escalation process in order to advise the appropriate teams of known issues.  
+Once the information is entered into the master spreadsheet it will be the responsibility of the Contact Center Leads to follow the escalation process in order to advise the appropriate teams of known issues.  
