@@ -37,12 +37,12 @@ Bill Ryan
 
 - Talk to additional folks on veteran facing services (vfs) teams
   - Users on vfs teams that might be new to the platform or have divergent needs.
-- Talk to call center agents that might use a tool like the one you prototyped.
+- Talk to contact center agents that might use a tool like the one you prototyped.
 - The integrity of test account data is pretty paramount. 
   - I'd even go as far as to say that a user would prefer really good test account data in a csv or html table that is more findable in gh over a shiny ui with out-of-date data.
 - Test accounts in production 
   - A good starting place would be to talk with the lighthouse team about their effort to set up their sandbox env and map it to the correct mvi env. 
-- The two user groups that seemed to come up most often were members of product teams working on [va.gov](http://va.gov/) and call center agents. given that these two groups are quite different in needs, experiences, skills, goals, etc..., might it be worth:
+- The two user groups that seemed to come up most often were members of product teams working on [va.gov](http://va.gov/) and contact center agents. given that these two groups are quite different in needs, experiences, skills, goals, etc..., might it be worth:
   - considering focusing this effort on just one of these groups instead of trying to satisfy both sets of needs at the same time? 
   - or, if both are high priority, split this effort into two efforts and get more folks involved?
 - Zooming out a bit, how do these pain points that you uncovered in this work compare to other pain points that vfs teams experience while working on our platform? 
