@@ -72,7 +72,7 @@ Issue Etiquette
   * Estimate
   * Title that explains task
   * Description with Background and Acceptance Criteria
-  * Labels - Analytics-Insights, Call Center, Analytics Request
+  * Labels - Analytics-Insights, Contact Center, Analytics Request
   * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
   * Epic assigned
 - All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
