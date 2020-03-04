@@ -40,7 +40,7 @@ No. This is an incremental update that improves interoperability across VA. But 
 * Users starting at a site like MHV and navigating to VA.gov who have not signed in to VA.gov with their DSLogon or MHV credential since August 2018 will need to do a one-time re-authentication. This step is needed to match any existing data they may have on VA.gov that is currently indexed under an ID.me identifier (since ID.me brokers MHV and DSLogon credentials for VA.gov). This issue is described in more detail in  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/2020-01-17-sso-symmetry-and-identifiers.md
 
 #### What if users need help or have trouble signing in?
-[TK] Need to make call center aware of this change and any new error screens/messages/content that might be added.
+[TK] Need to make contact center aware of this change and any new error screens/messages/content that might be added.
 
 ## Developer/Implementation Impact
 #### How is this actually working under the hood?
