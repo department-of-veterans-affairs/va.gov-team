@@ -9,7 +9,7 @@ Design lead for education portfolio. Looks at tools and architecture of the expe
 - Reduce failed applications (people who aren’t eligible) 
 - Path to conversion with the tool (where they come from before) 
 - Usage (low and cyclical, what the season for usage is, what the seasonal conversion rate is) 
-- Relationship between call center and usage
+- Relationship between contact center and usage
 
 ### Notifications:
 - Would want to be notified of failures or spike in usage causing slow down. 
