@@ -29,5 +29,5 @@ Platform: is the Product Health Tool updated to track this product data and work
 `Name of responsible team member`: are there any Sev1 bugs or accessibility issues outstanding?
 - `yes/no - any notes`
 
-<!--`Name of responsible team member`: is call center ready to handle potential calls that may come in about preview.va.gov?
+<!--`Name of responsible team member`: is contact center ready to handle potential calls that may come in about preview.va.gov?
 - `yes/no - any notes`~-->
