@@ -6,12 +6,12 @@ SpeedCurve also provides performance feedback of each app such as page size and 
 
 SpeedCurve's dashboards provide various perspectives and options. VFS teams can define and monitor performance metrics across VA.gov, test performance in the context of continuous deployment, test responsiveness, and analyze assets. VFS teams can also set a performance budget so teams can see and track when the performance of the site lags.
 
-These are some of SpeedCurve features:
+With SpeedCurve, we can:
 
-- Track dozens of metrics, including custom metrics.
-- Create performance budgets and get alerts.
-- Diagnose performance issues at the page level (Provided with Google's Lighthouse & PageSpeed Insights audits, there is a list of performance rules, stacked and color-coded in their order of importance.)
-- Analyze the performance impact of ads and third parties.
+- Track dozens of metrics
+- Create performance budgets and get alerts
+- Diagnose performance issues at the page level (Provided with Google's Lighthouse & PageSpeed Insights audits, there is a list of performance rules, stacked and color-coded in their order of importance)
+- Analyze the performance impact of ads and third parties
 
 ## Getting started
 
