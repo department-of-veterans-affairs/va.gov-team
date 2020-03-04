@@ -381,6 +381,7 @@ Design
 - Submit for update to copy for Profile 2.0 #5093
 - [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Create research plan & kickoff recruiting #2585
+- Last minute: design updates — in-line forms
 
 Dev
 
@@ -400,7 +401,7 @@ Dev
 Any overflow from last sprint (Matt will identify if there is overflow), plus:
 
 1. Address validation launch & monitoring
-2. Profile 2.0: Kickoff recruiting & conduct research
+2. Profile 2.0: Pre-usability review; kickoff recruiting & conduct research
   - Note: conducting research might overflow into the following sprint depending on when we kickoff recruiting and scheduling issues (no shows, needing to reschedule, etc).
 3. Profile 2.0: Build starts 
 
