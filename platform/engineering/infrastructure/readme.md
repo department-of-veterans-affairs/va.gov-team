@@ -299,7 +299,6 @@ Every time something new is added to the DevOps folder, it should also be indexe
 
 ## [Overall DevOps Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure)
 
-- [When, How, and Why to Engage Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/engage-platform.md)
 - [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/operations/onboarding.md): Things you need to know when you join the DevOps team
 - [Readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure): Welcome to DevOps
 - [DevOps Team Sprint Log]): This document tracks the teams sprint goals and performance over time. 
