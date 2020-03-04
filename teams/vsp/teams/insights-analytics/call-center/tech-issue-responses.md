@@ -323,7 +323,7 @@ The VA.gov Technical Support Team
 ### Response
 Dear _____,
 
-Thank you for your inquiry. If you are having trouble signing into your VA.gov account using your MyHealtheVet account, you will need to contact the Myhealthevet technical support call center to resolve this issue. You can contact them at 1-877-327-0022.
+Thank you for your inquiry. If you are having trouble signing into your VA.gov account using your MyHealtheVet account, you will need to contact the Myhealthevet technical support contact center to resolve this issue. You can contact them at 1-877-327-0022.
 
 Thank you,
 
@@ -336,7 +336,7 @@ The VA.gov Technical Support Team
 ### Response
 Dear ______,
 
-Thank you for your inquiry. If you are having trouble signing into your VA.gov account using your DS Logon account, you will need to contact the DMDC technical support call center to resolve this issue at 1-800-477-8227. 
+Thank you for your inquiry. If you are having trouble signing into your VA.gov account using your DS Logon account, you will need to contact the DMDC technical support contact center to resolve this issue at 1-800-477-8227. 
 
 Thank you,
 
