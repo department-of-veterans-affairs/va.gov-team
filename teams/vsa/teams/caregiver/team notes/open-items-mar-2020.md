@@ -1,5 +1,4 @@
-# Open Items
-Purpose: to keep track of the open issues needing resolution betweeen now and our launch date.
+# 1010-CG Status Update
 
   * [MVP Requirements (Soft launch: May 2020)](#mvp-requirements--soft-launch--may-2020-)
   * [Full MVP launch: June 2020](#full-mvp-launch--june-2020)
