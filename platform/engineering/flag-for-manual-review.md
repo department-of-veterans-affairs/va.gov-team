@@ -41,16 +41,25 @@ This script will look for anything that should trigger a manual review by the VS
 
 ### Detailed Design
 
-We will use a script that can be run from a job in CircleCI.
+We will use a nodeJS script that can be run from a job in CircleCI.
+Any Github API calls will be made through the [Octokit](https://octokit.github.io/rest.js) package which uses a RESTful API.
+
 The script will:
 
 - Diff the current PR branch against master
-- Make a pass which will mark any additions with the filename and position in the diff
+  - `octokit.pulls.get(...)` will be used with a [custom media type](https://developer.github.com/v3/pulls/#custom-media-types) format of `diff`
+- Loop through the diff output and mark any additions with the filename and position in the diff
 - Search the processed diff for occurrences of anything that should warrant a manual review
+  - This can be done with a regular expression
 - Remove any items from the list of offense additions that have already been commented on by the review bot
+  - This is a two step process:
+    - Use `octokit.paginate()` to get a list of all comments on a PR and filter out comments that are outdated or weren't made by the bot
+    - Filter out any additions from the processed & filtered diff if there is already a current bot comment on it
 - If there are any offenses which haven't been commented on, leave a comment and request a review from the *frontend-review-group*
+  - Use `octokit.pulls.createReviewRequest()` to request a review from the frontent-review-group
+  - Use `octokit.pulls.createReview()` to leave a bot review with a comment on any addition that matched the pattern which hasn't been commented on
 
-This will rely on the Github API as well as some environment variables provided by Circle CI.
+Various environment variables will be used in order to allow the script to be easily configurable from CircleCI - see [Debugging](#Debugging) for more information.
 
 ### Code Location
 
