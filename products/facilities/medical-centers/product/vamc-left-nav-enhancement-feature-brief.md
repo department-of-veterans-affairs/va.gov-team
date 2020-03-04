@@ -50,6 +50,7 @@ The sub pages within a section — also known as the page’s “children” —
 
 
 **Stakeholder/Business drivers**
+- This project is a commitment to the business to resolve identified accessibility and usability defects and is one of the issues blocking the Pittsburgh announcement. 
 
 **[Findings from research conducted in November/December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-findings.md#findings-by-hypothesis)**
 
@@ -115,8 +116,9 @@ Specifically,
 
 ### Measuring Success
 _How will we know if we are successful?_
-- Users can access all content and tools in just 1-2 clicks/taps
-- Users can "preview" all content pages in a section of content
+OBJECTIVE 3: Deliver a usable and accessible experience on any device
+Key result: Users will not need to use “pogo-sticking” behavior to find content deeper within the site. (This will be evaluated during usability tests.) 
+Key result: User satisfaction will increase to (TBD) by (date). 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
@@ -137,8 +139,7 @@ _Are other features dependent on this one? What do we need from partners? What d
 *What other approaches did we consider and why were they rejected?*
 
 ### Definition of Done
-- Users can access all content and tools in just 1-2 clicks/taps
-- Users can "preview" all content pages in a section of content
+TBD
 
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
