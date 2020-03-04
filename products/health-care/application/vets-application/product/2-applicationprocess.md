@@ -26,7 +26,7 @@ This is a highly decentralized system, and has led to current backlog.
 ## Future State (vets.gov + phone) 
 The NEI team aims to completely eliminate the decentralized process and replace it with a streamlined application that can be submitted in 1 of two ways:
 1.	via the application we are creating on vets.gov 
-2.	over the phone (assisted digital) where the call centers will use the application on vets.gov to sign callers up for healthcare 
+2.	over the phone (assisted digital) where the contact centers will use the application on vets.gov to sign callers up for healthcare 
 
 Our (DS) efforts between now and MAY 30th are laser-focused on developing a usable front end for this process, that will replace “VOA”—the product that 1% of applicants use to submit the 10-10EZ online. 
 
