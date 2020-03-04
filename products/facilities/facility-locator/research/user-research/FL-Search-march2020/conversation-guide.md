@@ -65,6 +65,8 @@ Great! I'm going to give you another scenario:
 ## Post-Task Interview 
 
 - How many results do you want to see after you search?
+- About how many miles out would you want to see in the search results?
+- How much area of the map would you want to interact with?
 - Do you use any sort of map applications? If so, which one(s)?
 - What kind of device do you normally use?
 - Would you use that device to search for facilities on VA.gov?
