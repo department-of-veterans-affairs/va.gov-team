@@ -4,7 +4,7 @@
 
 Danny Mc – Business management team
 
-Two call centers Philly and ???
+Two contact centers Philly and ???
 
 
 
