@@ -32,7 +32,7 @@
 | --- | ---| 
 | Ability for user to attach Power of Attorney documentation| 160|
 | Backend (Attach prefilled PDF to CARMA application) | 169 |
-| User ability to print application | 166 |
+| User ability to print application (for records/submission) | 166 |
 | Address validation (against USPS?) (Caitlin to check with Program team)| 
 | Systematic prevention of duplication | 
 
