@@ -1,1 +1,1 @@
-Screenshot images to be placed into Call Center Doc
+Screenshot images to be placed into Contact Center Doc
