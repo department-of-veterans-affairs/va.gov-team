@@ -16,12 +16,13 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 
 ## Research questions
 
-- Does the information architecture within the profile make sense to users?
+- How do users interact with the information on the profile?
+- What information is important for them to see first?
 - Do the terms we use on the profile make sense/mean anything to users?
 - Has the side nav increased scanability of the new profile? Do people find what the need easily?
 - Do saving/errors interactions feel intuitive?
 - Do people understand why some info isn't editable, and how to update it?
-- Can people find the profile easily?
+- How does the overall nav effect visibility of the profile? Is it easy to find?
 - How do people think the new profile compares to profile/account 1.0?
 - Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
 - Where would people go to change the email address they use to sign in?
@@ -74,7 +75,7 @@ Please list the people who will be serving in each role.
 - Project point of contact: Tressa Furner	
 - Participant(s) for pilot test: TBD
 - Note-takers: TBD
-- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley ( ), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
+- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley ( ), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
