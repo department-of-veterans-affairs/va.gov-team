@@ -38,7 +38,9 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 #### Roadmap
 Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
 It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
-- Template - tbd
+- Templates
+  - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
+  - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/10KFgL-tm1-16o6OZSnl36a95BumyPLZpwvV-PLwxWbY/edit#gid=0)
 - Examples 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
 
