@@ -86,7 +86,7 @@ People hate mFA - people have problems with using their phone for MFA, and have 
 ## Themes from Press Release
 - No errors
 - Leverage existing credentials
-- Relieving burden on call center
+- Relieving burden on contact center
 - Verified identity easy and multiple options
 - Quick
 - Easy access
@@ -109,7 +109,7 @@ People hate mFA - people have problems with using their phone for MFA, and have 
 - Inconsistent experience for external tools (e.g., MHV)
 - Lack of consideration for caregiver & dependent experience
 - MVI doesn’t have UNIQUE identifier
-- Vague errors lead to gaps between call center and team debug effort
+- Vague errors lead to gaps between contact center and team debug effort
 - Multiple Identity proofs required
 - ID proofing 
 - Users lack visibility into data
