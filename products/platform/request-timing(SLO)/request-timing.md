@@ -29,6 +29,23 @@ The end user goal is for product personnel to have access to easily identifiable
 * Since SLOs are not currently defined for external services, what other metrics can we use to report a red/green status per service? (Possibly use latency averages?)
 * Do we currently have Sentry or PagerDuty alerts when request time latency goes above a certain threshold?
 
+## Definitions
+
+instrumentation:
+  code that allows for the monitoring and  measuring of a product's performance, or logging information related to this process
+  
+sla:
+  **service level agreement**: a contract or agreement that a service provider promises to customers a particular level of availability or performance
+  
+sli:
+  **service level indicator**: a technical measurement that a service provider uses to track performance 
+  
+slo:
+  **service level objective**: a performance goal the service provider would like to reach
+
+quantile:
+  each of any set of values of a variate which divide a frequency distribution into equal groups, each containing the same fraction of the total population.
+
 ## Requirements
 
 ### In Scope
@@ -76,6 +93,9 @@ The [Product Tool Prototype](https://department-of-veterans-affairs.github.io/pr
 
 ### Existing Metrics - [Dashboard](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now)
 
+#### SLI Overview:
+*[External Service Availability Indicators](http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-availability-indicators?panelId=591&edit&fullscreen&orgId=1&from=now-14d&to=now)
+
 #### Request Timing:
 * [Vets-API request duration (by controller/action): Full picture (vets-api => external service) request timing](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&fullscreen&edit&panelId=4)
 * [External Service Request Timing - Per Service](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&fullscreen&edit&panelId=10)
@@ -96,7 +116,7 @@ http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&ful
 
 #### [WIP] Latency Averages 
 
-- [ ] Split up by endpoint
+- [x] Split up by endpoint
 
 * [Current Averages/External service](http://grafana.vfs.va.gov/d/Dp_Z5xfWk/backend-service-report-copy-request-timing?orgId=1&from=now-5m&to=now&var-service=EVSS%2FCommon&var-service=EVSS%2FDocuments&var-service=Search%2FResults)
 * [Request Time Averages Per External Service and Enpoint](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?orgId=1&fullscreen&panelId=18)
@@ -258,14 +278,19 @@ Current SLOs from Prometheus metrics per service/endpoint
 * We will update `vets-api` codebase to utilize Faraday ActiveSupport notifications for request time instrumentation 
 	* [Faraday request time instrumentation via ActiveSupport Notification subscription](http://dpsk.github.io/blog/2013/10/01/track-request-time-with-the-faraday/)
 	
-* Dicsussion points:
-	* Possibly go with a nosql solution (DynamoDB)
-		* We can create tables that are week/monthly based  
-		* Table name would be the name of the month
-		* Tables needed: Objectives/SLOs, Historical values (week or monthly based)
-		* Table foreign keys and relationships aren't necessary
-	* Use s3 to store a file in which when accessed, could trigger the curl command to generate a report
-	* [Do something similar to the defintions.yml file here from this example](https://github.com/department-of-veterans-affairs/devops/tree/ac6318670a49213c4d01b3d9a4a3c385d099c94e/lighthouse/reporting/monthly_sla/report)
+## Dicsussion points:
+* Todo: Figure out a schema for the tables
+* Possibly go with a nosql solution (DynamoDB)
+	* We can create tables that are week/monthly based  
+	* Table name would be the name of the month
+	* Tables needed: Objectives/SLOs, Historical values (week or monthly based)
+	* Table foreign keys and relationships aren't necessary
+* Use s3 to store a file in which when accessed, could trigger the curl command to generate a report
+* [Do something similar to the defintions.yml file here from this example](https://github.com/department-of-veterans-affairs/devops/tree/ac6318670a49213c4d01b3d9a4a3c385d099c94e/lighthouse/reporting/monthly_sla/report)
+	
+## Reporting
+* [Reporting example](https://hackmd.io/lqvunvJ_TyegF2kQH3I82w#Iterate-monitor-and-Refine-SLOs)
+* Over time we will iterate, add, and refine SLOs where needed
 
 ## Product Decisions
 
