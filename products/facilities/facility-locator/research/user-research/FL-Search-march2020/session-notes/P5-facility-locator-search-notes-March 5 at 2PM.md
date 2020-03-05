@@ -171,11 +171,11 @@ I'd go to va.gov.  right here find a location.  I'd put in my zip code or my tow
 
 **Participant:** You can get your meds there or you have to go to the pharmacy.
 
-**Moderator: Okay. General question, doy ou use any map tools or applciations?
+**Moderator: Okay. General question, doy ou use any map tools or applications?
 
 **Participant:** Google.  Alot. for maps and information, anything I need.
 
-**Moderator: What do you likeabout Google?
+**Moderator: What do you like about Google?
 
 **Participant:** it's fast, and usually when I get directions it's really accurate with turn by turn on my phone and if there's an accident or traffic it'll let me know
 
