@@ -133,9 +133,81 @@ Last 7 days (Recorded on 12-27-2019):
 * VHA_Access_PWT - 0?
 * Vets360/ContactInformation - 91.3ms
 
+Current SLOs from Prometheus metrics per service/endpoint
+
+| External Service | Endpoint | Average Latency |
+| -------- | -------- | -------- |
+| AppealsStatus | /api/v2/appeals | 1.153s |
+| AppealsStatus | /health-check | 36.140ms |
+| BB | No data | No data |
+| CentralMail | /VADocument/getStatus | 460.678ms |
+| CentralMail | /VADocument/upload | 1.738s |
+| EVSS/Claims | /VONAPP2/wss-claims-services-web-3.6/rest/vbaClaimStatusService/getClaimDetailById| 1.010  |
+| EVSS/Claims | VONAPP2/wss-claims-services-web-3.6/rest/vbaClaimStatusService/getClaimDetailWithDocsById| 4.698  |
+| EVSS/Claims | /VONAPP2/wss-claims-services-web-3.6/rest/vbaClaimStatusService/getClaims| 2.694  |
+| EVSS/Claims | /VONAPP2/wss-claims-services-web-3.6/rest/vbaClaimStatusService/set5103Waiver| 3.184  |
+| EVSS/Common | VONAPP2/wss-common-services-web-11.6/rest/persistentPropertiesService/11.6/createUserAccount| 445.184 ms |
+| EVSS/Common | /VONAPP2/wss-common-services-web-11.6/rest/ratingInfoService/11.6/findRatingInfoPID | 1.000s |
+| EVSS/Dependents | No data | No data |
+| EVSS/Documents |  | 3.937s|
+| EVSS/GiBillStatus |  | 2.508s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1 | 3.564s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/benefit_summary/generate| 2.908s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/benefit_verification| 2.926s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/civil_service|2.080s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/commissary| 1.634s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/letterBeneficiary | 2.097s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/medicare_partd | 2.109s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/minimum_essential_coverage | 2.022s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/proof_of_service | 2.130s |
+| EVSS/Letters | /VONAPP2/wss-lettergenerator-services-web/rest/letters/v1/service_verification | 1.773s |
+| EVSS/PCIUAddress | /VONAPP2/wss-pciu-services-web/rest/pciuServices/v1/emailAddress| 1.276s |
+| EVSS/PCIUAddress | /VONAPP2/wss-pciu-services-web/rest/pciuServices/v1/mailingAddress | 1.522s |
+| EVSS/PCIUAddress | /VONAPP2/wss-pciu-services-web/rest/pciuServices/v1/primaryPhoneNumber| 1.238s |
+| EmisMilitaryInformation |  | 314.294ms |
+| EmisPayment | No data | No data |
+| EmisVeteranStatus | nil | 306.324 |
+| GI | /gids/v0/calculator/constants| 30.060ms |
+| GI | /gids/v0/institution_programs| 48.959ms |
+| GI | /gids/v0/institution_programs/autocomplete| 20.257ms |
+| GI | gids/v0/institutions| 114.732 m |
+| GI | /gids/v0/institutions/autocomplete| 27.919ms |
+| GI | /gids/v0/institutions/xxx | 116.994ms |
+| GI | /gids/v0/zipcode_rates/xxx | 23.855ms |
+| GIBFT |  | 351.698ms |
+| HCA |  | 1.682s |
+| MHVAcctCreation | No data | No data |
+| MVI |  | 806.469ms |
+| OKTA | No data | No data |
+| PPMS | /v1.0/PlaceOfServiceLocator| 3.255s |
+| PPMS | /v1.0/ProviderLocator| 1.888s |
+| PPMS | /v1.0/Specialties| 1.912s |
+| PPMS | /v1.0/xxx| 1.087s |
+| PPMS | /v1.0/xxx/ProviderServices| 1.029s |
+| Preneeds |  | 1.690s |
+| Rx | /mhv-api/patient/v1/account/register| 3.643 s |
+| Rx | /mhv-api/patient/v1/account/upgrade| 1.379 s |
+| Rx | /mhv-api/patient/v1/bluebutton/geteligibledataclass| 657.903 ms |
+| Rx | /mhv-api/patient/v1/prescription/getactiverx| 3.249s |
+| Rx | /mhv-api/patient/v1/session | 922.880ms |
+| SM | No data | No data |
+| Search/Results | No data | No data |
+| VAOS | /appointments/v1/patients/xxx/appointments | 1.553s |
+| VAOS | /cdw/v2/facilities/xxx/clinics | No data |
+| VAOS | /mvi/v1/patients/session/identifiers.json | 193.145ms |
+| VAOS | /users/v2/session | No data |
+| VAOS | var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/xxx/appointments | 797.387ms |
+| VAOS | var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions | No data |
+| VAOS | /var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/parent-sites | 477.130ms |
+| VAOS | /var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/ICN/xxx/booked-cc-appointments | No data |
+| VAOS | /var/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities | 39.131ms |
+| VHA_Access_PWT | No data | No data |
+| VHA_Access_SHEP | No data | No data |
+| VIC2 | No data | No data |
+| Vets360/ContactInformation | No data | No data |
+
 ### `vets-api` SLOs
 
-[WIP]
 
 ### SLO Product/Leadership Reporting
 #### Ideas
