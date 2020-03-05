@@ -15,9 +15,9 @@
 | Not able to edit form after submission| 165 |
 | --- | --- | 
 | Business will be able to: | 
-| Verify veteran identity through MPI and ICN number |
+| Verify veteran identity through MPI and ICN number | n/a
 | Start processing application in CARMA immediately | n/a |
-| Ensure a valid address was entered | 
+| Ensure a valid address was entered | n/a
 
 
 ## Phase 1 (Estimated July 2020)
@@ -29,7 +29,7 @@
 | --- | ---| 
 | Business will be able to: |
 | View prefilled PDF in CARMA application | 169 |
-| Ensure that duplicate applications have not been submitted | 
+| Ensure that duplicate applications have not been submitted | n/a
 
 ## Phase 2 (Estimated September 2020) 
 | Requirement | Ticket # |
