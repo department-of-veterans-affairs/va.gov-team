@@ -1,4 +1,7 @@
 # Checklist for removing PII in .md file from a documentation repo
+
+_Last updated Q1 2020 by VSP Content & IA team_
+
 1. Back up repo
 1. Identify all file(s) to be removed
 1. Fetch everything from remote
@@ -24,13 +27,24 @@
 
 # Checklist for removing a GitHub issue that contains PII
 
-1. Have a GitHub org owner [enable issue deletion](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/allowing-people-to-delete-issues-in-your-organization) for the department-of-veterans-affairs org
-1. Have an admin [delete the issue](https://help.github.com/en/github/managing-your-work-on-github/deleting-an-issue)
-1. Contact GitHub support to permanently remove cached sensitive data and confirm success
+_Last updated Q1 2020 by VSP Content & IA team_
 
+## Option 1: Delete text and delete edit history
+
+1. Follow GitHub's steps for [Deleting sensitive information from a comment's history](https://help.github.com/en/github/building-a-strong-community/tracking-changes-in-a-comment#deleting-sensitive-information-from-a-comments-history), which can be used for either text in comments or text in issues. 
+1. That's it! According to GitHub support communications in February 2020, deleting the edit history sufficiently purges the PII. "Once the edit history is gone, the original text cannot be retrieved."
+
+## Option 2 (comments only): Delete entire comment
+
+1. [Delete the comment](https://help.github.com/en/github/building-a-strong-community/managing-disruptive-comments#deleting-a-comment).
+1. That's it! Deleting the comment itself sufficiently purges the PII.
+
+## Option 3: Delete entire issue
+
+1. Permission to delete issues is managed at the organization level. Contact VA's GitHub Team via https://vaww.oit.va.gov/services/github/ (intranet) and request that they delete the issue.
 ___
 
-# Additional information and resources
+## Additional information and resources
 
 [![image](https://user-images.githubusercontent.com/6130520/71724766-1c1c2500-2df7-11ea-805d-c0be983a0596.png)](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
 >**Warning: Once you have pushed a commit to GitHub, you should consider any data it contains to be compromised.** If you committed a password, change it! If you committed a key, generate a new one.
