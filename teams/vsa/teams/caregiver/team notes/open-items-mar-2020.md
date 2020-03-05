@@ -1,30 +1,22 @@
 # 1010-CG Status Update
 
-  * [MVP Requirements (Soft launch: May 2020)](#mvp-requirements--soft-launch--may-2020-)
-  * [Full MVP launch: June 2020](#full-mvp-launch--june-2020)
-  * [Post-MVP (Estimated July 2020)](#post-mvp--estimated-july-2020-)
-  * [Phase 2 (Estimated September 2020)](#phase-2--estimated-september-2020-)
-  * [Phase 3 (Estimated January 2021)](#phase-3--estimated-january-2021-)
-  * [Phase 4 (Estimated March 2021)](#phase-4--estimated-march-2021-)
-  * [Launch Timeline for MVP](#launch-timeline-for-mvp)
-  * [Open Questions](#open-questions)
-  * [Action Items](#action-items)
-
 
 ## Integration Test (May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
-| Allow Veterans and Caregivers to submit 1010-CG Online| 155|
-| Confirmation message |
-| Verify Veteran identity |
-| Unauthenicated form wizard |n/a|
-| Capture signature of Veteran and Caregiver | 164 |
-| Review data prior to submission | 176 |
+| User will be able to: | 
+| Start 1010-CG application online without logging in| 155|
+| Fill in all fields from the paper 1010-CG form | n/a
+| Ensure that all fields have been completed appropriate (data validation | n/a
+| Select a medical facility from the list of CARMA approved options | n/a
+| Review entered data prior to submission | 176 |
+| Recieve and print a confirmation message after submission | n/a
+| Provide a signature for Veteran and Caregiver | 164 |
 | Not able to edit form after submission| 165 |
-| Submit data directly to CARMA | n/a |
-| Allow Veteran to select Care facility from list |
-| Address validation | 
-| Data validation |
+| Business will be able to: | 
+| Confirm veteran identity through MPI |
+| Start processing application in CARMA immediately | n/a |
+| Ensure a valid address was entered | 
 
 
 ## MVP (Estimated July 2020)
