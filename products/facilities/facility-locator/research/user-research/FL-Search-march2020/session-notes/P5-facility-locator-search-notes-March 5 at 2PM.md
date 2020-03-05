@@ -159,11 +159,11 @@ I'd go to va.gov.  right here find a location.  I'd put in my zip code or my tow
 
 **Participant:** Sure if it loads. Alright. 
 
- **Moderator: Here, how many mile would you travel out to get urgetn care?
+ **Moderator: Here, how many miles would you travel out to get urgent care?
 
 **Participant:** A minimum of 2.4 miles. Is this a CVS clinic? Because they wouldn't have all the equipment that could be needed.
 
-**Moderator: Is that somehting you'd want to see tin search results?
+**Moderator: Is that something you'd want to see in search results?
 
 **Participant:** I wouldn't go to somewhere that doesn't have what I need?
 
@@ -173,7 +173,7 @@ I'd go to va.gov.  right here find a location.  I'd put in my zip code or my tow
 
 **Moderator: Okay. General question, doy ou use any map tools or applciations?
 
-**Participant:** Google.  Alot. for maps and inforamtion, anything I need.
+**Participant:** Google.  Alot. for maps and information, anything I need.
 
 **Moderator: What do you likeabout Google?
 
