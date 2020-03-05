@@ -18,7 +18,7 @@ To get a holistic view of the new AMA content that is being consumed, we first t
 
 - The root decision-reviews page received 21,540 views. Unsurprisingly, this was the most visited page as it serves as the ‘landing page’ for the decision review information on the website.
 
-- Compared to the va.gov/disability/file-an-appeal landing page’s views  (that owns both AMA and legacy appeals content) at around 25,0002, this is a fairly even spread of traffic for the two processes that exist for appeals.
+- Compared to the va.gov/disability/file-an-appeal landing page’s views  (that owns both AMA and legacy appeals content) at around 25,000, this is a fairly even spread of traffic for the two processes that exist for appeals.
 
 
 [Analytics for /decision-reviews/ page](https://analytics.google.com/analytics/web/#/report/content-drilldown/a50123418w177519031p176188361/_u.date00=20191106&_u.date01=20191205&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:www.va.gov~2F,analytics.pagePathLevel2:~2Fdecision-reviews~2F/)
