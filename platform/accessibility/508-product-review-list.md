@@ -466,7 +466,7 @@ Each application or logical section of the site will have a heading and a detail
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
 
 #### Open Issues
-* [[SCREENREADER, KEYBOARD]: Edit address link will not receive keyboard focus](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5866)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
+* [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader(https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 * [[SCREENREADER, KEYBOARD]: Focus needs to return to Edit button that launched the modals when modals are closed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6156)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 * [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
