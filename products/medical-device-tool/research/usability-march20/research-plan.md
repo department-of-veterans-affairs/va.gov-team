@@ -31,13 +31,13 @@
 **45-minute remote, task-based usability study with Veterans who order hearing aid resupply.**
   
 2.	Why this method? How does this methodology help you answer your research questions? <br>
-**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using an Invision prototype to help uncover successes and pain points in the ordering process.**
+**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using a test account in the tool's staging environment to help uncover successes and pain points in the ordering process.**
 
 3.	Where are you planning to do your research? <br>
 **Online, via Zoom.**
 
 4.	What will you be testing? <br> 
-We will be testing an Invision prototype of the hearing aid resupply ordering form on VA.gov.
+We will be testing the staging environment of the hearing aid resupply ordering form on VA.gov.
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
@@ -46,7 +46,6 @@ We will be testing an Invision prototype of the hearing aid resupply ordering fo
       - 5 post-9/11 Veterans
       - Include a mix of Veterans with a disability rating of 80% or higher
       - If possible, 1-2 Veterans who have a cochlear implant
-      - Include a mix of Veterans who only order hearing aid batteries 
 
 2.	What is your recruitment strategy? <br>
 **We plan to leverage Perigean to recruit Veterans to this study.**
@@ -54,11 +53,11 @@ We will be testing an Invision prototype of the hearing aid resupply ordering fo
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? <br>
-**March 16, 2020 - March 19, 2020**, research plan / conversation guide submitted to Lauren Alexanderson by Friday, March 6th.
+**April 15, 2020 - April 20, 2020**, research plan / conversation guide submitted to Lauren Alexanderson by (TBD).
 
 
 2.	Prepare: When will the thing you are testing be ready? <br> 
-**Prototype will be fully clickable w/ relevant use cases by Thursday, March 12th.**
+**The staging environment will be fully functional by (TBD)**
 
 Non-clickable mockups can be found here: https://vsateams.invisionapp.com/share/6MVTG94WNH5 
 
@@ -66,10 +65,10 @@ Non-clickable mockups can be found here: https://vsateams.invisionapp.com/share/
 **30m-45m**
 
 4. Availability: If applicable, when would you like sessions scheduled? 
-    - March 16, 9:30 am - 3:00 pm EST
-    - March 17, 9:30 am - 4 pm EST
-    - March 18, 9:30 am - 3:30 pm EST
-    - March 19, 9:30 am - 12:30 pm EST
+    - April 15, 9:30 am - 3:30 pm EST
+    - April 16, 9:30 am - 4 pm EST
+    - April 17, 9:30 am - 4:00 pm EST
+    - April 20, 9:30 am - 3:00 pm EST
     - _Note: Please leave a minimum of 30 minutes between sessions._
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
