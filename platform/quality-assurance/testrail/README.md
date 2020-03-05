@@ -8,6 +8,7 @@
 1. [Creating a test case](creating-a-test-case.md) - Fill in the gaps in test coverage with manual test cases.
 1. [Executing tests](executing-tests.md) - Record the results of your test executions.
 1. [Report results](report-results.md) - Report all your hard work!
+1. [GitHub integration settings](github-integration.md) - Create a GitHub token and store it in TestRail to enable integration.
 ---
 ## Screen Capture Tutorials (*NOTE* these tutorials are shared in [Google Drive](https://drive.google.com/drive/folders/1_LGqyaORIttL6Jf98pJhS8fIk3AXT1t1).  If you need access please request it from @Peter Hill.)
 1. [Create a project](https://drive.google.com/a/oddball.io/file/d/15CbOeQosL2hX-ZC5KYM0qqpUFlLoBt0O/view?usp=sharing)
