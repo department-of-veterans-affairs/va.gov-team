@@ -41,7 +41,7 @@ __Please note that many links on this page reference research folders in the vet
 - 12 participants (12 scheduled, 2 no show)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/yellow-ribbon-mvp/research)
 
-Keywords: Yellow Ribbon program, benefits comprehension, user search behaviors, search results, education benefits, understanding of benefits, awareness of benefits, tabular data, tables, cards, comparison lists. 
+**Keywords:** Yellow Ribbon program, benefits comprehension, user search behaviors, search results, education benefits, understanding of benefits, awareness of benefits, tabular data, tables, cards, comparison lists. 
 
 #### January 28 - 29: STEM Scholarship Education Routing 
 *BAH: Amy Knox, Theresa McMurdo*
