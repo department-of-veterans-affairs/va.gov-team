@@ -111,7 +111,7 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li>Project Brief:<br>
 <em>Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here</em><br></li>
 <li>Convo Guide<br>
-<em>Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BDD%20conversation%20guide.md>
+<em>Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here</em><br></li>
 <li>Synthesis 
 <em>Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)</em><br></li>
 <li>Lessons Learned<br>
