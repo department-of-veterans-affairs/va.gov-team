@@ -4,8 +4,10 @@
 ## Goals
 1. What product & team are you doing this research for? <br>
 **Benefits & Memorials 2**
+
 2. Background: <br>
-**This product is a migration and modernization of the hearing aid battery ordering functionality that currently exists as an iframed applet on eBenefits, with the new feature of ordering accessories. With eBenefits being sunsetted and the DLC’s interest in increasing adoption of online ordering to reduce call center workload, we’re tasked with designing a new online ordering experience that will be easier for Vets and less overhead for the DLC.**
+**This product is a migration and modernization of the hearing aid battery ordering functionality that currently exists as an iframed applet on eBenefits, with the new feature of ordering accessories. With eBenefits being sunsetted and the DLC’s interest in increasing adoption of online ordering to reduce contact center workload, we’re tasked with designing a modernized online ordering experience that will be easier for Vets and less overhead for the DLC.**
+
 3. Research questions:
     - Do Veterans understand that batteries and accessories will be ordered on separate pages?
     - Do Veterans understand selecting and deselecting the product cards?
@@ -14,11 +16,14 @@
     - Do Veterans feel confident about the steps after an order is placed? 
     - Are there any gaps in the order process?
     - Do Veterans feel prepared when beginning the form?
+    - Is the ordering process intuitive for Veterans?
+    - Is it clear how to edit a prefilled address or add a new temporary address?
 
 4. Hypothesis: What is your hypothesis for this research? 
     - Veterans may struggle to locate the content page and form link
     - Veterans may not understand that adding accessories to their order happens after adding batteries
     - Veterans may have concerns about receiving an email notification after submitting an order 
+    - Veterans may want to print out the review submission screen to have a 'receipt' displaying their ordered items 
 
 
 ## Method
