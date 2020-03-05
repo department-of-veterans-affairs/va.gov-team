@@ -1,6 +1,6 @@
 # 1010-CG Status Update
 
-- [Integration Test (May 2020)](#integration-test-may-2020)
+- [Phase 0 (May 2020)](#phase-0-may-2020)
 - [Phase 1 (Estimated July 2020)](#phase-1-estimated-july-2020)
 - [Phase 2 (Estimated September 2020)](#phase-2-estimated-september-2020)
 - [Phase 3 (Estimated January 2021)](#phase-3-estimated-january-2021)
