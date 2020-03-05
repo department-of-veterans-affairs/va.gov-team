@@ -37,7 +37,7 @@
 **Online, via Zoom.**
 
 4.	What will you be testing? <br> 
-We will be testing the staging environment of the hearing aid resupply ordering form on VA.gov.
+**We will be testing the staging environment of the hearing aid resupply ordering form on VA.gov.**
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
