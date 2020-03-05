@@ -28,35 +28,39 @@
 | Print application (for records/submission) | 166 |
 | --- | ---| 
 | Business will be able to: |
-| View prefilled PDF in CARMA application | 169 |
-| Ensure that duplicate applications have not been submitted | n/a
+| View prefilled PDF in CARMA | 169 |
+| Ensure that duplicate applications have not been submitted | n/a|
 
 ## Phase 2 (Estimated September 2020) 
 | Requirement | Ticket # |
 | --- | ---| 
-| Allow Veteran to track application status *  |
-| Work with Facilities API to use them as a source of truth for facilities| N/A |
-- `*` Options: 
-  - Use application ID number to query for status update
-  - Work with MPI to return status there
-  - Add to Veteran profile/account
+| Veteran will be able to: |
+| Track application status  |
+| --- | ---| 
+| Business will be able to: |
+| Rely on Facilities API for dynamic list of approved facilities| n/a |
+
 
 ## Phase 3 (Estimated January 2021)
 | Requirement | Ticket # |
 | --- | ---| 
-| Build a logged-in application portal | n/a |
-| Ability to save an incomplete form in progress | 163 |
-| Veteran can view in-progress application| 161 |
-| Veteran can view previously-submitted  application| 170 |
-| Ability to withdraw a previously submitted application | 175|
-| Text message/email notification after successful submission | 167 |
-| Veteran can recieve application status updates in Portal  | 174|
+| Veteran will be able to: |
+| Fill in 1010-CG through a logged-in application portal | n/a |
+| Save an incomplete form in progress | 163 |
+| View and edit an in-progress application| 161 |
+| View previously-submitted  application| 170 |
+| Withdraw a previously submitted application | 175|
+| Recieve text message/email notification after successful submission | 167 |
+| Recieve application status updates though application portal  | 174|
 
 ## Phase 4 (Estimated March 2021)
 | Requirement | Ticket # |
 | --- | ---| 
-| Caregiver can view in-progress application| 162 |
-| Caregiver can log into portal to recieve application updates | 173 |
+| Caregiver will be able to: |
+| View in-progress application| 162 |
+| Log into application portal to recieve application updates | 173 |
+
+
 
 ## Launch Timeline for MVP
 - March 1 - April 15: Development work on 1010-CG 
@@ -75,6 +79,11 @@
 - Create a launch plan
 - Pick top 3 KPIs and identify baselines
 
-| Return ICN number for veteran and caregiver (if applicable)| n/a|
+
+## Notes:
 | Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
+- `*` Options for Portal: 
+  - Use application ID number to query for status update
+  - Work with MPI to return status there
+  - Add to Veteran profile/account
 
