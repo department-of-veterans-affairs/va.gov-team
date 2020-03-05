@@ -257,6 +257,15 @@ Current SLOs from Prometheus metrics per service/endpoint
 ## Technical Decisions
 * We will update `vets-api` codebase to utilize Faraday ActiveSupport notifications for request time instrumentation 
 	* [Faraday request time instrumentation via ActiveSupport Notification subscription](http://dpsk.github.io/blog/2013/10/01/track-request-time-with-the-faraday/)
+	
+* Dicsussion points:
+	* Possibly go with a nosql solution (DynamoDB)
+		* We can create tables that are week/monthly based  
+		* Table name would be the name of the month
+		* Tables needed: Objectives/SLOs, Historical values (week or monthly based)
+		* Table foreign keys and relationships aren't necessary
+	* Use s3 to store a file in which when accessed, could trigger the curl command to generate a report
+	* [Do something similar to the defintions.yml file here from this example](https://github.com/department-of-veterans-affairs/devops/tree/ac6318670a49213c4d01b3d9a4a3c385d099c94e/lighthouse/reporting/monthly_sla/report)
 
 ## Product Decisions
 
@@ -265,7 +274,7 @@ Current SLOs from Prometheus metrics per service/endpoint
 - Product Manager: Alex Pappas
 - Design Lead:
 - Eng Lead:
-- Engineers: Bill Ryan, Lindsey Hattamer, Keifer Furzland
+- Engineers: Bill Ryan, Lindsey Hattamer, Keifer Furzland, Phillip Becker
 - Screenshots
 
 ## Before
