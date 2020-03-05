@@ -1,4 +1,4 @@
-# Medical Device Ordering Tool DLC API Proposal v1.1.0
+# Medical Device Ordering Tool DLC API Proposal v1.2.0
 
 ## Overview
 
