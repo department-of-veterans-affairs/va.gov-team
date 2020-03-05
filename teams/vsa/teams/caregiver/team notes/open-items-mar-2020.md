@@ -10,7 +10,7 @@
 - [Action Items](#action-items)
 - [Notes:](#notes-)
 
-## Integration Test (May 2020)
+## Phase 0 (May 2020)
 | Requirement | Ticket # |
 | --- | --- | 
 | User will be able to: | 
@@ -85,10 +85,18 @@
 - What is considered a duplicate application? What do we need to do to prevent them?
 - How are we going to roll the MVP out slowly?
 
+
+
+
 ## Action Items
 - Define all requirements for MVP
 - Create a launch plan
 - Pick top 3 KPIs and identify baselines
+- Weekly ToT Sync with Nitish, Caitlin, Natalia
+- Service to notify veteran or caregiver of status change (or page to check)
+- Prototype that includes MPI error message/redirect to print
+- Next step: 
+- Integration testing plan with David, Matt, CARMA team
 
 
 ## Notes:
