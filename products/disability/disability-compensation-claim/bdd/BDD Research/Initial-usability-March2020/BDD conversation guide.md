@@ -125,7 +125,10 @@ Of course none of your actions will affect your actual VA information or benefit
 <li>What is missing?</li>
 </ul>
 
+
 <h2 id="toc_11">Probing - Gating pages</h2>
+
+<b>Note: We will not go through these probing questions unless we have the time and we feel like we need more information about the pages the user went through. We also may not go through all the probing questions, just what we want more info on.</b>
 
 <p>Go back to the beginning of the flow.</p>
 
