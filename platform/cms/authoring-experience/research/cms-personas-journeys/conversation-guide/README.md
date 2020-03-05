@@ -17,7 +17,7 @@ Before we start, a few things I want to mention:
 * Can you tell me a little about yourself and the work that you do at VA?
 * How long have you been working with content at VA?
 
-## General Questions - xx min
+## General Questions - 30 min
 
 _As we talk to users and learn about their experience, these questions can be edited to get more insightful information._
 
@@ -50,7 +50,7 @@ _As we talk to users and learn about their experience, these questions can be ed
 * When do you find the new CMS to be more and less useful in your workflow?
 * When does the new CMS slows you down? Frustrates you? Blocks you? 
 
-## Journey Mapping - xx min
+## Journey Mapping - 40 min
 
 Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. This journey mapping exercise that you'll do with us will help us to better understand your overall experience, so we can use it to inform future improvements to the CMS.
 
