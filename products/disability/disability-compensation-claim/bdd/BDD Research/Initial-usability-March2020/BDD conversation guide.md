@@ -128,7 +128,7 @@ Of course none of your actions will affect your actual VA information or benefit
 
 <h2 id="toc_11">Potential Followup questions</h2>
 
-<b>If there is time and moderator feels like he need smore information about the pages the user went through, he may ask them to go back and answer one or more of the probing  questions below.</b>
+<b>If there is time and moderator feels like he needs more information about the pages the user went through, he may ask them to go back and answer one or more of the probing questions below.</b>
 
 <ul>
 <li>Before clicking on anything, explore this page and let me know what you think the main purpose of this page is.</li>
