@@ -30,7 +30,7 @@ The 686 is 12 pages in its paper incarnation, and it supports eight discrete wor
 
 **Our methodology:** Usability testing was conducted remotely using  Zoom. Participants were spilt into two groups and were given either  “add spouse & child/remove child” or “add student/remove student” tasks. Both groups were given wayfinding, intro, selection, review and confirmation tasks.  Users were presented with a high-fidelity prototype created using Adobe XD.
 
-The moderator prompted users with tasks and questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
+The moderator prompted users with tasks and questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
 
 **Who we talked to:**
 - Eight Veterans total, all with a 30% or higher disability rating
@@ -58,9 +58,9 @@ The moderator prompted users with tasks and questions from the conversation guid
 - Users generally scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they wanted additional information up-front.
 - No participant seemed to notice there were two forms presented: 21-686c and 21-674.
 - Participants universally accepted the "checkbox" workflow selection strategy, and most stated they preferred to handle multiple workflows in one session.
-- Participants accepted the "wrokflow" arragement of the form without question.
+- Participants accepted the "workflow" arragement of the form without question.
 - Additional explanation and guidance is needed for certain key sections of the form (e.g. student address, marriage types and term dates).
-- The former marriage sections of the add spouse workflow was deemed accaptable.
+- The former marriage sections of the add spouse workflow was deemed acceptable.
 - The presentation of the introduction page, confirmation page, and the form itself was generally acceptable to users.
 - Generally, users moved through the longers workflows of the form quickly, with little prompting.
 - Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button.
@@ -102,7 +102,7 @@ All participants completed their task despite many have one or more questions. T
 
 - 75% (3) of users who were adding a student (674) wanted clarification regarding term dates
 - Three (75%) of 674 users wanted guidance regarding the prior term school
-- Two participants (50%) adding a spouse & child (686) had questions regarding marriage types (e.g. proxy)
+- Two participants (50%) adding a spouse & child (686) had questions regarding marriage types (e.g. proxy)
 - 25% (2) of all participants wanted to know the implications of married children within their respective workflows (e.g. “Does it disqualify them?”)
 
 **Confirmation: printing is proof:**
@@ -120,7 +120,7 @@ There were several smaller issues centered on submission confirmation and printi
 - Though many users said they used their phones for browsing websites, none would use their phones for the tasks they were given
 - Three Veterans (37.5%) did not know what their service or file number was; one said SSN 
 - Two users (12.5%) commented on the green button on the intro page; one saying colorblind people might prefer yellow, the other said they were colorblind, but they knew it was green
-- No participant used the back button within the form
+- No participant used the "back" button at the bottom of each screen of the form
 - Two participants (12.5%) gave positive comments about the progress indicator
 
 ## Recommendations
@@ -129,7 +129,7 @@ There were several smaller issues centered on submission confirmation and printi
 - Add guidance, examples and instructions to the marriage types and child marriage sections (686); and to the school term dates, prior school and student address sections (674) of the form
 - Continue with the current designed flow of the form, but conduct follow-up usability testing on “live” pages after initial development to uncover pain points
 - Add clarifying text to the introduction screen to better identify information needed to complete the form; include implications of potentially “disqualifying” statuses (e.g. married child)
-- Investigate “printable form” feature in eBenefits, confirmation IDs,  and “print” button functionality
+- Investigate “printable form” feature in eBenefits, confirmation IDs, and “print” button functionality
 
 **Our conclusions**
 The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
