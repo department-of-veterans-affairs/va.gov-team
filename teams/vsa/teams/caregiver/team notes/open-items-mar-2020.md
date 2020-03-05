@@ -66,7 +66,9 @@
 | Requirement | Ticket # |
 | --- | ---| 
 | Caregiver will be able to: |
-| View in-progress application| 162 |
+| Fill in 1010-CG through a logged-in application portal | n/a |
+| Save an incomplete form in progress | 163 |
+| View and edit an in-progress application| 162 |
 | Log into application portal to recieve application updates | 173 |
 
 
