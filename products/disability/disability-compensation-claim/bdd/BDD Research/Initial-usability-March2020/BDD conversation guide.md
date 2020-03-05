@@ -14,7 +14,10 @@
 
 <p><em>When the participant is ready, begin the session with the following intro</em></p>
 
-<h2 id="toc_2">Intro - 5 minutes</h2>
+<b>Project-specific setup</b>
+- Open VA.gov in a tab
+- Open prototype in another tab (https://vsateams.invisionapp.com/share/Z8W8ACWN3UG#/screens)
+
 
 <p>Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line taking notes. Today we&#39;re going to talk about the appeals process on VA.gov, specifically an appeals process that we call a Higher Level Review. </p>
 
