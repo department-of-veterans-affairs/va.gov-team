@@ -23,7 +23,7 @@ Examples:
 ### Disabling ESLint
 
 We have various ESLint rules in place to help improve code quality.
-Disabling eslint rules will be evaluated on a case-by-case basis.
+Disabling ESLint rules will be evaluated on a case-by-case basis.
 
 ### Adding icons
 

@@ -3,7 +3,7 @@
 **Author(s):** Brooks Johnson (brooks@adhoc.team)
 **Last Updated:** February 20, 2020  
 **Status:** **Draft** | In Review | Approved  
-**Approvers:** _Rian Fowler_ \[ \], _Andrew Gunsch_ \[ \], ...  
+**Approvers:** Rian Fowler \[ \], Andrew Gunsch \[X\], Dror Matalon \[ \]
 
 
 
@@ -41,7 +41,7 @@ This script will look for anything that should trigger a manual review by the VS
 
 ### Detailed Design
 
-We will use a nodeJS script that can be run from a job in CircleCI.
+We will use a Node.js script that can be run from a job in CircleCI.
 Any Github API calls will be made through the [Octokit](https://octokit.github.io/rest.js) package which uses a RESTful API.
 
 The script will:
