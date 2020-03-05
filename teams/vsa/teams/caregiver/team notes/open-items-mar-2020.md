@@ -35,7 +35,7 @@
 | Requirement | Ticket # |
 | --- | ---| 
 | Veteran will be able to: |
-| Track application status  |
+| Track application status (_definition needed_)  |
 | --- | ---| 
 | Business will be able to: |
 | Rely on Facilities API for dynamic list of approved facilities| n/a |
