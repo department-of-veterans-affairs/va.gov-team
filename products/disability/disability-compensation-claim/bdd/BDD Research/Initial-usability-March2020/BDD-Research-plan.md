@@ -1,8 +1,8 @@
-<p>[# Research Plan Benefits Delivery at Discharge (BDD) (Usability test 1 of 2)</p>
+<h1 id="toc_0">Research Plan Benefits Delivery at Discharge (BDD) (Usability test 1 of 2)</h1>
 
 <p>VSA B&amp;M1 Team, BDD, Christian Valla, February 2020</p>
 
-<h2 id="toc_0">Background</h2>
+<h2 id="toc_1">Background</h2>
 
 <p>This is part 1 of 2 for the BDD research process. </p>
 
@@ -14,7 +14,7 @@
 
 <p>Currently the BDD process is done through paper forms, by the SM and/or VSO. This requires a lot of management and processing time for VA. Transferring this process to a 100% online process will save VA time and resources and will also present a possibility to create a better user experience for the SM. </p>
 
-<h2 id="toc_1">Goals</h2>
+<h2 id="toc_2">Goals</h2>
 
 <p>To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
 
@@ -24,7 +24,7 @@
 
 <p>To understand if the initial online BDD prototype works for users and matches their expectations.</p>
 
-<h2 id="toc_2">Method</h2>
+<h2 id="toc_3">Method</h2>
 
 <p>We will conduct a usability test with 8-10 active Service Members. </p>
 
@@ -36,7 +36,7 @@
 
 <p>We will ask Veterans to navigate to an Invision link (provided in the Zoom chat) and share their screens with us via Zoom.</p>
 
-<h2 id="toc_3">Participants and Recruitment</h2>
+<h2 id="toc_4">Participants and Recruitment</h2>
 
 <p>We would like to interview 8-10 participants.</p>
 
@@ -49,9 +49,9 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li><p>Must be able to use Zoom, use the chat function, share their screen through Zoom, and navigate an Invision prototype.</p></li>
 </ul>
 
-<h2 id="toc_4">Research questions</h2>
+<h2 id="toc_5">Research questions</h2>
 
-<h4 id="toc_5">For the interview part about former BDD experiences</h4>
+<h4 id="toc_6">For the interview part about former BDD experiences</h4>
 
 <ul>
 <li>What are the current steps for submitting a BBD claim? </li>
@@ -68,7 +68,7 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li>Did the SM have the info and documentation necessary? </li>
 </ul>
 
-<h4 id="toc_6">For the usability test of the BDD prototype</h4>
+<h4 id="toc_7">For the usability test of the BDD prototype</h4>
 
 <ul>
 <li>How do users try to find BDD on VA.gov?</li>
@@ -84,7 +84,7 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li>What do veterans think will happen after the form is submitted?</li>
 </ul>
 
-<h2 id="toc_7">When?</h2>
+<h2 id="toc_8">When?</h2>
 
 <ul>
 <li>Timeline for this study: March 16 (pilot test), 17, 18, and 19, 2020. </li>
@@ -93,7 +93,7 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li>Pilot: 16 March, 2020</li>
 </ul>
 
-<h4 id="toc_8">Team Roles</h4>
+<h4 id="toc_9">Team Roles</h4>
 
 <ul>
 <li>Moderator: Christian V.</li>
@@ -105,7 +105,7 @@ Participants must have heard about and submitted a BDD claim. (We hope to also f
 <li>Observers: Nick S., Robin G., Silvio L., Andrea S., Shawna H., Kelly L., Maria V., Luke M.</li>
 </ul>
 
-<h2 id="toc_9">Resources</h2>
+<h2 id="toc_10">Resources</h2>
 
 <ul>
 <li>Project Brief:<br>
