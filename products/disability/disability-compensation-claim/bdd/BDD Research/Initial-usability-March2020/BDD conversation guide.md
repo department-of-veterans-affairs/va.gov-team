@@ -46,16 +46,6 @@ Of course none of your actions will affect your actual VA information or benefit
 <li><p>Tell me a little about yourself. (Examples of promts: Where do you live? Which branch of service? Have you done an interview or usability test like this before? How was that experience?)</p></li>
 </ul>
 
-<h2 id="toc_4">Computer Setup: Share your screen with Zoom - (2 - 5 minutes)</h2>
-
-<ul>
-<li>Lets spend a few minutes now, were I send you the prototype of the website we will look at today. </li>
-<li>First, please minimize or close any windows that you don&#39;t want to share with us.</li>
-<li>Now I&#39;m going to share a link to the prototype in the zoom chat. Can you find the chat button in the Zoom app? </li>
-<li>Great, can you click on it? There should be a link you can click on there. </li>
-<li>Can you navigate back to the Zoom window and click the &quot;Share&quot; button in Zoom? </li>
-</ul>
-
 <h2 id="toc_5">Short Interview BDD experience (if applicable) - (0-10 minutes)</h2>
 
 <ul>
@@ -67,6 +57,16 @@ Of course none of your actions will affect your actual VA information or benefit
 <li>Was there anything in particular that was helpful in this process?</li>
 <li>If you would do it again, would you do anything different?</li>
 <li>Do you have any other comments about this process? </li>
+</ul>
+
+<h2 id="toc_4">Computer Setup: Share your screen with Zoom - (2 - 5 minutes)</h2>
+
+<ul>
+<li>Lets spend a few minutes now, were I send you the prototype of the website we will look at today. </li>
+<li>First, please minimize or close any windows that you don&#39;t want to share with us.</li>
+<li>Now I&#39;m going to share a link to the prototype in the zoom chat. Can you find the chat button in the Zoom app? </li>
+<li>Great, can you click on it? There should be a link you can click on there. </li>
+<li>Can you navigate back to the Zoom window and click the &quot;Share&quot; button in Zoom? </li>
 </ul>
 
 <h2 id="toc_6">Task 1 (4-5 minutes)</h2>
