@@ -126,18 +126,9 @@ Of course none of your actions will affect your actual VA information or benefit
 </ul>
 
 
-<h2 id="toc_11">Probing - Gating pages</h2>
+<h2 id="toc_11">Potential Followup questions</h2>
 
-<b>Note: We will not go through these probing questions unless we have the time and we feel like we need more information about the pages the user went through. We also may not go through all the probing questions, just what we want more info on.</b>
-
-<p>Go back to the beginning of the flow.</p>
-
-<ul>
-<li><p>Please, again go through the first few steps in the flow. (Allow user to go through Gating page 1-5)</p></li>
-<li><p>Was anything confusing or unclear on any of the previous pages?</p></li>
-</ul>
-
-<h2 id="toc_12">Probing - Gating page 5 (BDD intro page)</h2>
+<b>If there is time and moderator feels like he need smore information about the pages the user went through, he may ask them to go back and answer one or more of the probing  questions below.</b>
 
 <ul>
 <li>Before clicking on anything, explore this page and let me know what you think the main purpose of this page is.</li>
@@ -147,78 +138,16 @@ Of course none of your actions will affect your actual VA information or benefit
 <li>What could be added to this page to make it more useful or clear? </li>
 </ul>
 
-<h2 id="toc_13">Probing - BDD intro pages</h2>
-
-<ul>
-<li><p>Take a look at thios page. </p></li>
-<li><p>Is anything here confusing or unclear? </p></li>
-<li><p>Show me what you would do here. </p></li>
-</ul>
-
-<h2 id="toc_14">Probing - Service member info pages</h2>
-
-<p>(Allow user to go through Service member info pages)</p>
-
-<ul>
-<li>Was anything confusing or unclear on any of these pages?</li>
-<li>What should be added or changed to make it more clear or easier? </li>
-<li>Do you have any questions or concerns at thi4s point in the process?</li>
-</ul>
-
-<h2 id="toc_15">Probing - Military history pages</h2>
-
-<p>(Allow user to go through all Military history pages)</p>
-
-<ul>
-<li>Was anything confusing or unclear on any of these pages?</li>
-<li>What should be added or changed to make it more clear or easier? </li>
-<li>Do you have any questions or concerns at this point in the process?</li>
-</ul>
-
-<h2 id="toc_16">Probing - New Disabilities pages</h2>
-
-<p>(Allow user to go through all Disabilities pages)</p>
-
-<ul>
-<li>Was anything confusing or unclear on any of these pages?</li>
-<li>What should be added or changed to make it more clear or easier? </li>
-<li>Do you have any questions or concerns at this point in the process?</li>
-</ul>
-
-<h2 id="toc_17">Probing - Review application page</h2>
-
-<ul>
-<li>Take a look at this page and tell me what you see here.</li>
-<li>Is this what you expect to see on a review page for an application of this sort?</li>
-<li>What is not 100% clear on this page?</li>
-</ul>
-
-<h2 id="toc_18">Probing - Confirmation (submission page)</h2>
-
-<ul>
-<li>What do you see on this page?</li>
-<li>Is this what you expect to see on a confirmation page?</li>
-<li>Do you have any comments about this page?</li>
-</ul>
-
-<h2 id="toc_19">When flow is finished:</h2>
-
-<ul>
-<li>Overall what do you think about going through this process?</li>
-<li>What was confusing or unclear?</li>
-<li>What info along the way was particularly helpful?</li>
-<li>What info is missing throughout the process?</li>
-<li>What would have been helpful to add to this process/these pages?</li>
-<li>Any other comments?</li>
-</ul>
-
 <h2 id="toc_20">Post-Task Interview</h2>
 
 <ul>
-<li>Do you have any other comments about any of the pages we have looked at?</li>
-<li>Overall what do you think about the BDD claim online process we looked at?</li>
-<li>Do you have any other feedback to share with us today?</li>
+<li>Overall what do you think about going through this process?</li>
+<li>[if they've gone through the BDD process on paper] What do you think of this process versus the paper process you've gone through?</li>
+<li>If you had a magic wand and could change one thing about this process, what would it be?</li>
+<li>What was the best part about this process?</li>
+<li>Any other comments?</li>
 </ul>
+
 
 <h2 id="toc_21">Thank You and Closing</h2>
 
