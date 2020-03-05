@@ -19,8 +19,8 @@
 | Ensure that all fields have been completed appropriately (data validation) | n/a
 | Select a medical facility from a program-approved list | n/a
 | Review entered data prior to submission | 176 |
-| Recieve and print a confirmation message after submission | n/a
 | Provide a signature for Veteran and Caregiver | 164 |
+| Recieve and print a confirmation message after submission | n/a
 | Not able to edit form after submission| 165 |
 | --- | --- | 
 | Business will be able to: | 
