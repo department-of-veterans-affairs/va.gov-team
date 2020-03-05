@@ -354,13 +354,15 @@ Tressa out most of the sprint. For when she is back:
 
 ## Sprint 16 (2/26 - 3/10)
 
+### [Sprint 16 Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6199)
+
 ### Order of priorities
 
 1. Get address validation launched!
 2. Profile 2.0: Copy for profile screens
 3. Profile 2.0: Plan research/pre-usability review
 4. Profile 2.0: Continue/finish refactoring work
-5. Profile 2.0: Start build
+5. Direct deposit copy update
 6. Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Address validation
@@ -372,27 +374,22 @@ Tressa out most of the sprint. For when she is back:
 - "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 - Analytics work (not our team) #5895
 - Any analytics-related FE work
-- Go/No-go
-- Launch!
 
 ### Profile 2.0
 
 Design
 - Submit for update to copy for Profile 2.0 #5093
-- [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Create research plan & kickoff recruiting #2585
 - Last minute: design updates — in-line forms
 
 Dev
 
 - Any of the refactoring tickets Erik didn't get done this past sprint.
-- Start build?
-  - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-  - Figure out where build should start
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 - [BE] Investigate MHV 400 errors #5893
+- Design - Hide Direct Deposit information if the user is incompetent or has a fiduciary #6094
 
 ## Sprint 17 (3/11 - 3/24)
 
@@ -400,22 +397,51 @@ Dev
 
 Any overflow from last sprint (Matt will identify if there is overflow), plus:
 
-1. Address validation launch & monitoring
-2. Profile 2.0: Pre-usability review; kickoff recruiting & conduct research
-  - Note: conducting research might overflow into the following sprint depending on when we kickoff recruiting and scheduling issues (no shows, needing to reschedule, etc).
-3. Profile 2.0: Build starts 
+1. Address validation 
+  - Any final tickets
+  - Launch & monitoring
+2. Profile 2.0: Design 
+  - Pre-usability review
+  - Kickoff research recruiting
+  - Conduct research (Note: might overflow into the following sprint)
+  - Badge/logo research
+3. Profile 2.0: Build
+  - Figure out what can happen in the sprint
+  - Get appropriate build tickets ready
+  - Have design/development intent review
+  - Start build
+4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+5. Make sure epics/documentation is updated (Matt)
 
-- We *might* get to address validation post-launch tickets, but this is unlikely given that our ramp up for this is a full week.
+We *might* get to address validation post-launch tickets, but this is unlikely given that our ramp up for this is a full week.
 
 ### Address validation
 
-- Tickets TBD
+- Anything open from the previous sprint
+- Any required 508 tickets
+- Go-no go
+- Launch! #6426
 
 ### Profile 2.0
 
-- Kickoff research
-- Conduct research (as much as we can fit into the sprint; overflow is OK)
+**Design**
+
+- Pre-usability review
+- Kickoff research recruiting
+- Conduct research (Note: might overflow into the following sprint)
+- Badge/logo research
+
+**Dev**
+
+- Figure out what can happen in the sprint
+- Get appropriate build tickets ready
+- Have design/development intent review
 - Start build
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- Direct deposit copy implementation (copy ticket is #6094)
+- Matt to make sure the Profile 2.0 epic is up-to-date (tickets linked/created accordingly)
 
 ## Sprint 18 (3/25 - 4/7)
 
