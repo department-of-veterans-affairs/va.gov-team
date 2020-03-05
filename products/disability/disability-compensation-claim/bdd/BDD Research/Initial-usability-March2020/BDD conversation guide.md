@@ -18,7 +18,7 @@
 - Open VA.gov in a tab
 - Open prototype in another tab (https://vsateams.invisionapp.com/share/Z8W8ACWN3UG#/screens)
 
-<h2 id="toc_5">Intro - (2-5 minutes)</h2>
+<h2 id="toc_5">Intro - (5 minutes)</h2>
 
 <p>Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line taking notes. Today we&#39;re going to talk about the appeals process on VA.gov, specifically an appeals process that we call a Higher Level Review. </p>
 
