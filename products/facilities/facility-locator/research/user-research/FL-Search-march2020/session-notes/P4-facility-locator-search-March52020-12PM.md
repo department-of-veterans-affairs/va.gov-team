@@ -13,7 +13,7 @@ P4, 3/5/2020 12pm ET
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 
-**Participant:** Notes here
+**Participant:** works in an open office space
 
 ## Warm up questions
 
@@ -55,7 +55,7 @@ If this button wasn't there, I'd probably look at the menu, and if it wasn't the
 
 **Moderator: Can you tell me what you might be looking for when you're looking at these results?**
 
-**Participant:** first lesson I learned is that not all VA facilities are created equal, which I learned years ago. Now that I know that, I'd have a keen eye toward picking the thing that I thought was related to what I needed.  ... I see here for example that there's clinics, I wouldn't trust that going to clinic would get me what I needed because of my previous experiences so I'd always go for the central medical center where I feel like the odds are the highest that they'll have what I'm going for
+**Participant:** first lesson I learned is that not all VA facilities are created equal, which I learned years ago. Now that I know that, I'd have a keen eye toward picking the thing that I thought was related to what I needed.  ... I see here for example that there are clinics, I wouldn't trust that going to clinic would get me what I needed because of my previous experiences, so I'd always go for the central medical center where I feel like the odds are the highest that they'll have what I'm going for
 
 ## Task 2 - Review results
 
@@ -69,13 +69,13 @@ If this button wasn't there, I'd probably look at the menu, and if it wasn't the
 
 **Moderator: How many search results would you expect to see?**
 
-**Participant:** I'd expect to see 3-4 on average. But I think it depends on the size of the metro area I was in at the time. For example Boston my last place of residence is a relatively small city. Obv NY is a much large metro area so I'm not surp[rosed ti see all of these]. But in my case since I live in Manhattan I'd be focused on the 2 facilities there.
+**Participant:** I'd expect to see 3-4 on average. But I think it depends on the size of the metro area I was in at the time. For example Boston, my last place of residence, is a relatively small city. Obviously NY is a much large metro area, so I'm not surprised to see all of these. But in my case, since I live in Manhattan, I'd be focused on the 2 facilities there.
 
 **Moderator: I noticed you left the facility type and service selected and then hit search**
 
 *Notetaker missed exact prompt*
 
-**Participant** The prompt you gave was for a health appointment ... I would expect it has to be a health facility.  As I said the lesson that I learned before [told me that not all facilities have health appointments]. But since oyu told me I was going to a doctors appointment the health looked like it was the right option.
+**Participant** The prompt you gave was for a health appointment ... I would expect it has to be a health facility.  As I said the lesson that I learned before [told me that not all facilities have health appointments]. But since you told me I was going to a doctors appointment the health looked like it was the right option.
 
 **Moderator: Why would you choose [the one they choose]?**
 
@@ -85,7 +85,7 @@ If this button wasn't there, I'd probably look at the menu, and if it wasn't the
 
 ***ALERT: notetaker miss! ~15min time stamp, review video.***  
 
-I'd click on here to see what was in here... I'd be confused by VA health and VA benefits. I would think benefits is something other than health, specifically.  
+I'd click on here to see what was in here... I'd be confused by VA health and VA benefits. I would think benefits means something other than health, specifically.  
 
 
 
@@ -95,45 +95,49 @@ I'd click on here to see what was in here... I'd be confused by VA health and VA
 
 **Participant:** I would just click urgent care *(second menu input)*, and then search.
 
-**Can you talk to me about these listings and how far you'd be willing to go to get urgent care?**
+**Moderator: Can you talk to me about these listings and how far you'd be willing to go to get urgent care?**
 
-I wouldn't go further than the Manhattan VA medical center.  Honestly, even that is probably a stretch.  I'd only go there because it's in Manhattan and I can get there easily. It's not so much a matter of distance as much as being easy to get there.  Honestly, if it's accessible via public transit in a reasonable time Frame, 45 min-ish or a cheap, cost effective cab ride.
+I wouldn't go further than the Manhattan VA medical center.  Honestly, even that is probably a stretch.  I'd only go there because it's in Manhattan and I can get there easily. 
 
-**How many results would you expect to see here for urgent care?**
+It's not so much a matter of distance as much as being easy to get there.  Honestly, if it's accessible via public transit in a reasonable time Frame, 45 min-ish or a cheap, cost effective cab ride.
 
-Probably not that many. I didn't really even though the VA did urgent care stuff. I would've just assumed to seek a medical center as the only option.  Which is what I see here.
+**Moderator: How many results would you expect to see here for urgent care?**
 
+Probably not that many. I didn't really even think the VA did urgent care stuff. I would've just assumed to seek a medical center as the only option.  Which is what I see here.
 
-
-**Scroll back to the drop downs. Under urgent care I noticed you didn't select the service type. Why?**
+**Moderator: Scroll back to the drop downs. Under urgent care I noticed you didn't select the service type. Why?**
 
 I saw that it automatically switched.
 
-I don't have a sense of trust with the VA and going somewhere else and having it be seamless and easy to do. I'd of course be attracted to the idea of going to something closer than the medical center but I'd be worried that there'd be an issue with getting the VA to pay for it, so I would default to going to the medical center to be sure there wouldn't be any problems.
+I don't have a sense of trust with the VA and going somewhere else, and having it be seamless and easy to do. I'd of course be attracted to the idea of going to something closer than the medical center, but I'd be worried that there'd be an issue with getting the VA to pay for it, so I would default to going to the medical center to be sure there wouldn't be any problems.
 
-**Select benefits dropdown. I know you mentioned health being it's own kind of benefit vs others. If you selected that what would you expect to see?  **Would expect less search results, like 1-2, because these types of benefits can be done out of a smaller office that's more centralized, it doesn't require a large footprint, and I wold think there's less demand than the basic healthcare stuff.  
+**Moderator: Select benefits dropdown. I know you mentioned health being it's own kind of benefit vs others. If you selected that what would you expect to see?  **Would expect less search results, like 1-2, because these types of benefits can be done out of a smaller office that's more centralized, it doesn't require a large footprint, and I would think there's less demand for those than the basic healthcare stuff.  
 
-**How many miles out is too far or the furthest you'd be willing to go, from your current location?**
+**Moderator: How many miles out is too far or the furthest you'd be willing to go, from your current location?**
 
-I wouldn't go off the island of Manhattan if I could avoid it. Max of maybe 2-3 miles north south, and maybe 1 east west.
+I wouldn't go off the island of Manhattan if I could avoid it. Max of maybe 2-3 miles north south, and maybe 1 mile east west.
 
-**Click on map tab. Would you ever use the map in any instance using the locator?**
+**Moderator: Click on map tab. Would you ever use the map in any instance using the locator?**
 
 Yes
 
-**how many** {missed exact question}
+**Moderator: how many** {missed exact question}
 
-Expectations? I don't know. Honestly I have no idea. Whenever you use a map function on any website, you get a range of initial  settings as far as scope. Some zoom in on a location right away and others are very broad and you have to zoom in.  I don't have an expectation I'm surprised when I did this one that its focused on Manhattan and it's showing me Manhattan. Surprised because it's exactly what I'd want to see and I don't have to zoom in or out.
+Expectations? I don't know. Honestly I have no idea. Whenever you use a map function on any website, you get a range of initial  settings as far as scope. Some zoom in on a location right away and others are very broad and you have to zoom in.  I don't have an expectation.
 
-This is exactly what I prefer. But if not this, I prefer it shows me my location *and* my nearest location so at the very least I can see how close the nearest location is.
+ I'm surprised when I did this one that its focused on Manhattan and it's showing me Manhattan. 
 
+**Moderator: why are you surprised?** 
 
+Surprised because it's exactly what I'd want to see, and I don't have to zoom in or out.
+
+This is exactly what I prefer. But if not this, I prefer it shows me my location *and* my nearest location. [in the same view] so at the very least, I can see how close the nearest location is.
 
 ## Follow up
 
 **Moderator: How many results do you want to see after you search?**
 
-**Participant:** Notes here
+*notetaker did not hear this question asked in this way, I think it's answered above*
 
 **Moderator: Do you use any sort of map applications? If so, which one(s)?**
 
