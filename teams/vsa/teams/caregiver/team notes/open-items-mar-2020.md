@@ -13,19 +13,23 @@
 | Recieve and print a confirmation message after submission | n/a
 | Provide a signature for Veteran and Caregiver | 164 |
 | Not able to edit form after submission| 165 |
+| --- | --- | 
 | Business will be able to: | 
-| Confirm veteran identity through MPI |
+| Verify veteran identity through MPI and ICN number |
 | Start processing application in CARMA immediately | n/a |
 | Ensure a valid address was entered | 
 
 
-## MVP (Estimated July 2020)
+## Phase 1 (Estimated July 2020)
 | Requirement | Ticket # |
 | --- | ---| 
-| Ability for user to attach Power of Attorney documentation| 160|
-| Backend (Attach prefilled PDF to CARMA application) | 169 |
-| User ability to print application (for records/submission) | 166 |
-| Systematic prevention of duplication | 
+| User will be able to: |
+| Attach Power of Attorney documentation| 160|
+| Print application (for records/submission) | 166 |
+| --- | ---| 
+| Business will be able to: |
+| View prefilled PDF in CARMA application | 169 |
+| Ensure that duplicate applications have not been submitted | 
 
 ## Phase 2 (Estimated September 2020) 
 | Requirement | Ticket # |
@@ -72,6 +76,5 @@
 - Pick top 3 KPIs and identify baselines
 
 | Return ICN number for veteran and caregiver (if applicable)| n/a|
-| Get static list of approved Caregiver facilities from CARMA|n/a
 | Create table in vets-api to link CARMA ID to form submission (+ date)| n/a
 
