@@ -34,7 +34,7 @@
 | --- | ---| 
 | User will be able to: |
 | Attach Power of Attorney documentation| 160|
-| Print PDF of application (for records/submission) | 166 |
+| Save and print a copy of submitted information (for records/submission) | 166 |
 | --- | ---| 
 | Business will be able to: |
 | View prefilled PDF in CARMA | 169 |
