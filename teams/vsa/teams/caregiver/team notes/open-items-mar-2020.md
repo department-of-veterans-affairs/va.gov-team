@@ -7,8 +7,8 @@
 | User will be able to: | 
 | Start 1010-CG application online without logging in| 155|
 | Fill in all fields from the paper 1010-CG form | n/a
-| Ensure that all fields have been completed appropriate (data validation | n/a
-| Select a medical facility from the list of CARMA approved options | n/a
+| Ensure that all fields have been completed appropriately (data validation) | n/a
+| Select a medical facility from a program-approved list | n/a
 | Review entered data prior to submission | 176 |
 | Recieve and print a confirmation message after submission | n/a
 | Provide a signature for Veteran and Caregiver | 164 |
