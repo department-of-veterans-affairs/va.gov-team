@@ -403,7 +403,6 @@ Any overflow from last sprint (Matt will identify if there is overflow), plus:
 2. Profile 2.0: Design 
   - Pre-usability review
   - Kickoff research recruiting
-  - Conduct research (Note: might overflow into the following sprint)
   - Badge/logo research
 3. Profile 2.0: Build
   - Figure out what can happen in the sprint
@@ -449,7 +448,7 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 Any overflow from last sprint, plus:
 
-1. Profile 2.0: Finish research (if overflow); Research report and readout; create any follow up tickets; design updates (if time)
+1. Profile 2.0: Conduct sessions; Research report and readout; create any follow up tickets; design updates (if time)
 2. Profile 2.0: Build continues
 3. Address validation post-launch tickets
 
@@ -460,6 +459,7 @@ Any overflow from last sprint, plus:
 ### Profile 2.0
 
 Design
+- Conduct sessions
 - Research report
 - Any tickets that come out of research
 - Research updates
