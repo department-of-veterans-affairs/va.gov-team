@@ -23,10 +23,16 @@ We wanted to test 3 different design directions to determine what design Veteran
 
 ## Insights & Recommendations
 
-*Design directions for references*
-- [Direction 1](https://adhoc.invisionapp.com/share/WUW318BH3V2#/screens/406039084_Option_1)
-- [Direction 2](https://adhoc.invisionapp.com/share/WUW318BH3V2#/screens/406039117)
-- [Direction 3](https://adhoc.invisionapp.com/share/WUW318BH3V2#/screens/406039138)
+*Design directions for reference*
+
+##### Direction 1
+![Direction 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option1.png "Direction 1")
+
+##### Direction 2
+![Direction 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option2.png "Direction 2")
+
+##### Direction 3
+![Direction 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option3.png "Direction 3")
 
 
 ## Overall, participants preferred Direction 2
@@ -92,7 +98,7 @@ The reaction to direction 3 wasn't negative (meaning participants didn't find it
 
 
 
-## Participants equated the first CTA with their primary VAMC. 
+## Participants equated the first CTA with their primary VAMC 
 2/6 participants referred to the first CTA to My VA Health as a CTA to message their primary facility, equating order of the CTAs with the relevance of those CTAs to their VAMC registrations.
 
 
@@ -102,3 +108,13 @@ The reaction to direction 3 wasn't negative (meaning participants didn't find it
 
 #### Takeaways
 - [ ] Incorporate "You are registered at [VA Medical Center Name]" into final design direction
+
+
+# Appendix
+
+### Multiple participants voiced pain points over multiple logins
+3 participants brought up that keeping track of their multiple accounts, remembering/needing to change passwords, and needing to login multiple times when navigate between VA sites as pain points for them. To move participants away from this, I mentioned to 2 of them that VA.gov is exploring single sign-on. 
+
+### Few participants use VA.gov to get to MHV
+Most participants described going to VA.gov only to find information, not necessarily to manage their healthcare on MHV.
+
