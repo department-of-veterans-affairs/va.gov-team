@@ -18,7 +18,7 @@ In this stage of discovery, I seek to understand:
 - Other than the 3 URLs in our epic, are there other pages within va.gov that have similar wizards leading to tools/forms we need to include?
 - How did the wizards get to live on the content page rather than on the tool pages?
 - What other options have been explored other than putting wizards directly on the content pages?
-- Why are these funnels needed for these categories of forms and not all forms on va.gov?
+- Why are funnels needed for these categories of forms and not all forms on va.gov?
 
 ## Relevant Meetings
 
