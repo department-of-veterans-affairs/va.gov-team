@@ -1,141 +1,116 @@
 # Infrastructure Recommit Initiative Outline
 
-## Points of Contact
-- GitHub Label: none
-- Slack channel: #vsp-operations
+#### Communications
+- Team Name: Operations
+- GitHub Label: Operations
+- Slack channel: vsp-operations
+- Stakeholders: VSP, CMS, GIDS, VA.gov, Lighthouse
 
+
+## Overview
+The current VA.gov infrastructure was born from the idea of supporting the first site it was designed for Vets.gov. The original plan was to serve a few teams developing on the site to support our end users the Veterans by enabling them to learn about, apply, interact, and manage their VA benefits and services with ease. Now on VA.gov that underlying mission still hasn’t changed, but the size of the teams that want to work on our Platform has. In order to support a growing number of teams developing on the Platform and maintain our current quality of service, our infrastructure needs a complete overhaul to meet the ever increasing demand.
+
+
+## Problem Statement
+/We do not have a scalable self-service infrastructure in place to handle the desired growth of VFS and VSP teams over the next year on VA.gov./
+
+How might we create a platform that enables self-service teams, that allows for a decrease in complexity and use modern practices for continuous delivery, while addressing the desired growth of VSP. 
+
+## Background
+The Platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov’s infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max, and if nothing changes, our infrastructure will make it harder for teams to develop on our Platform and hinder future teams from joining.
+Currently, our infrastructure leads to many problems: 
+Very long build times Steep learning curve making onboarding difficult 
+Lack of direct feedback from the system about deploy and service health state (is my change live, and did it break the site? ) 
+Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, several proxy layers, etc…) 
+Arduous process to onboard things that don’t fit BRD process exactly (CMS) 
+Environment specific implicit configuration (difficult to spin up DVP Sandbox as an example, how can we get more?) 
+Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners) 
+Local development Close coupling of system and service deployment (kernel patches go out with application deploys)
  
----
-### Table of Contents
+## Desired User Outcomes
+- Reduce complexity working on the Platform
+- Reduce complexity working with the Platform 
+-  Deployments should be faster, easier to run, and teams should be deploying more. 
+- Faster Builds and feedback loop
+- More autonomy for teams
+- Faster feedback for everyone
+- Foundations for greater self-service efforts
+- Have true Continuous Deployment 
 
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements](#requirements)
-- [Constraints](#constraints)
-- [Decisions](#decisions)
-- [How it works](#how-it-works)
-- [The Plan](#the-plan)
-- [KPIs](#kpis)
+## Undesired User Outcomes
+- A dramatic increase in complexity that does not lead to self-service
+- User frustration over the change in infrastructure 
+- NPS decrees
+- Users don’t care
 
-# Implementation Information
-- [Current Status](#current-status)
-- [Solution Narrative](#solution-narrative)
-- [Dependencies](#Dependencies)
-- [Key Words](#key-words)
+## Desired Business Outcomes
+- Increase in development on VA.gov
+- Infrastructure can support more teams on the Platform 
+- More efficient Platform with less friction
+- Ability to gather better metrics 
+- A flexible infrastructure 
 
+## Undesired Business Outcomes
+- Development speed stays the same or decreases 
+- Users don’t want to develop on a new platform
 
-
----
-# Executive Summary
-The current VA.gov infrastructure was born from the idea of supporting the first site it was designed for Vets.gov. The original idea was to serve a few teams developing on the site in order to support our end users the Veterans by enabling them to learn about, apply, interact, and manage their VA benefits and services with ease. Now on VA.gov that underlying mission still hasn’t changed, but the size of the teams that want to work on our platform has. In order to support a growing number of teams developing on the platform and maintain our current quality of service, our infrastructure needs a complete overhaul to meet the growing demand.
-
-## User Problem Statement
-_We do not have a scalable infrastructure in place to handle the desired growth of VFS and VSP teams over the next year on VA.gov._
-
-The platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov's infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max and if nothing changes our infrastructure will make it harder for teams to develop on our platform and hinder future teams from joining.
-
-Currently, our infrastructure leads to many problems:
-Very long build times
-Steep learning curve making onboarding difficult
-Lack of direct feedback from the system about deploy and service health state (is my change live and did it break the site? )
-Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, several proxy layers, etc…)
-Arduous process to onboard things that don’t fit BRD process exactly (CMS)
-Environment specific implicit configuration (difficult to spin up DVP Sandbox as an example, how can we get more?)
-Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners)
-Local development
-Close coupling of system and service deployment (kernel patches go out with application deploys)
-
-### User Story
-“As a team developing on VA.gov, I want to have a stable platform that allows my team and others to grow at our rate, empowering us to develop using best practices, so that we can create and expand upon great services for our Veterans.” 
-
-## Solution Goals
-By separating services from the underlying infrastructure and adding service-centric tooling we can enhance the developer’s experience of the deployment lifecycle and provide a path to grow.
-
-### User Goals
-VFS teams will be able to have more control and responsibility over the things they build.
-
-And deployments should:
-- Be Fast
-- Be Obvious
-- Degrade Gracefully
-- Empower Teams
-
-### Business Goals
-Have a platform that can meet and adapt to the demand of the teams that built on it. 
 
 ## Assumptions
-- Service-centric Deployment process is right for VA.gov
-- Developers want to be empowered on VA.gov
-- Service-centric deployment process we will be able to support VA.gov’s needs
-- Teams will want more deployments
-- The Tools we choose will be the right choice
-- The number of VFS teams will double before the end of the year. 
+- Users want true continuous deployment (most risky)
+- Making a flexible infrastructure will help the Platform adapt to different needs 
+- Development will increase 
+- The sentiment of complexity will decrease  
 
-## Requirements  
-- Need to have something in place within the next 6 months to accommodate double the number of VFS teams. 
-- Need to dedicate resources to this for the whole year. 
+## Solution Approach
+We will work in a discovery sprint then four different phases: 
+- Discovery sprint
+	- Research and speak with people working on and with the Platform to better understand the pain points
+	- Make [recommendations around findings](https://docs.google.com/presentation/d/1mESrMGEn5nGG9M0HUIkoBfIUCtk9ZrdV7FkMsWOH4XE/edit#slide=id.g76a7f82c07_0_303)
+- Urgent Quality Problems
+	- Address quality issues in current infrastructure that are blockers or enforce artificial limits on other VSP and VFS teams.
+	-  Work is scoped to “buy” enough time and stability in the current Platform in order to safely begin investing in overhaul work.
+- Devise and Test
+	- Devise an overhauled “golden path” for continuous delivery and build out a test model.  
+	- Solicit feedback by establishing a focus group with shareholders that will follow the process and provide feedback. 
+- Implementation
+	- Build or overhaul infrastructure and processes using iterated design. Adjust services to use it, removing old stuff along the way. 
+	-  Incorporate Focus group to solicit feedback and iterate 
 
-## Constraints
-- More teams will be joining soon.
-- Need to maintain our current operations with less resources, while making this push for the new Infrastructure (Down people power and Lighthouse is in limbo). 
-
-
-## Decisions
-- Created RFC to take a guess at the high-level architecture that needs to be in place to address our issues.
-- Conduct Discovery to find out how people are currently operating and understand current pain points in interacting with our Platform.
-- Working toward a framework then slowly moving things to it. 
-- Keeping close communications with the BE tools and CMS team. 
-- [WIP] Created Roadmap of intended work and mapping to an MVP. 
-
-## How it works
-we propose to use Nomad to power a services cluster of hosts to run va.gov and related services. 
-
-## The Plan
-Due to the scale of this initiative, we will be rolling it out in a few phases as laid out below.
-
-[Agile Roadmap](TBD)
-
-### Phase 1 Discovery 
-Conducted a discovery sprint on January 13th - 17th. Including Nathan Hruby, Bill Ryan, Emily Waggoner, and TJ Rice. The discovery sprint team interviewed 8 Individuals from across the VA includes members of VFS teams, VSP teams, CMS team, and DEPO. A survey to gather additional data was also sent out to gather more data from users. 
-
-The feedback and information received during discovery were synthesized into Pains and risks, which was organized [here](https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136).  
-
-TBD: Add info from the overview slide and link here.
-
-Discovery team on January 31st, 2020 conducted the discovery sprint readout with recommendations for the next steps. 
-
-[Readout Slides](https://docs.google.com/presentation/d/1mESrMGEn5nGG9M0HUIkoBfIUCtk9ZrdV7FkMsWOH4XE/edit#slide=id.g7ba3f76b9f_0_45)
-
-### Phase 2 Road to MVP
+## Implementation Milestones
+[Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3463)
+- Local and Playground Buildout  [#6541](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6541) 
+- Dev, Stage, & Prod Buildout
+- New Services
+- Service Migrations
 
 ## KPIs
-We have idenifted mulitbile KPIs for pain points we found in discovery [here](https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136)
-
-### Objective
-TBD
-
-### Tracking
-TBD
+- Team sentiment of complexity (decrease)
+- Staff retention rate (increase)
+- Cycle time for work (decrease)
+- Have empirical data to feed OKRs (increase)
+- DevOps support for routine tasks (decrease)
+- DevOps engaged early in new projects (increase)
+- Total elapsed time for deploy (decrease)
+- Deploys triggered by teams (increase)
+- Number of outdated software packages in use (decrease)
+- Lifetime of individual systems (decrease)
 
 ---
 
-# Implementation Information
-
-## Current Status
-
 ## Solution Narrative
-- **12/10/2020**: RFC is created and communicated out. 
-- **1/7/2020**: Finished Discovery sprint 
-- **1/31/2020**: Discovery Readout to Leadership and DEPO
+- *12/10/2020*: RFC is created and communicated out.
+- *1/13/2020*: Started Discovery Sprint 
+- *1/17/2020*: Finished Discovery sprint
+- *1/31/2020*: Discovery Readout to Leadership and DEPO
+- *1/2020*: Work started to address Urgent Quality Problems
+- *2/7/2020*: Discovery readout to VSP team leads
+-  *2/11/2020*: Updated review instances  are live
+- *2/21/2020*: Internal diagrams and team discussions
+- *2/27/2020*: Ops team using and demoing sample app
+- *3/2/2020*: Focus group meeting and demo  
 
-## Dependencies
 
-
-## Key Words
-- Infrastructure Overhaul
-
-
+### Current Status
+- Local and Playground Buildout
 
 
