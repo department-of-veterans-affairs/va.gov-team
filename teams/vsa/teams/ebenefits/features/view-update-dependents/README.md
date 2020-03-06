@@ -149,7 +149,7 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 - October & November: Research and design mockups
 - December & January: Work with previous teams (rainbows) code and schemas
 - February: Restart code development from scratch using rainbows schemas as high level guide, build out the different workflows
-- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend
+- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend. Link to [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
 
 
 ## Team
