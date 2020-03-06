@@ -33,3 +33,12 @@ _Rollout meetings with VSA teams_
 "Seems like it was well thought out and should run smoothly."
 
 "Thank you very much for reviewing all of these areas and requirements with our team, although we have a unique product, it was extremely helpful to determine how, when, and with whom we need to collaborate. This is also helpful if we ever do, cross the bridge of develop, design, and build an application in our work space. Great WORK!"
+
+# Additional Notes from VSP Reviewers & Moderators 
+
+### Megan notes from rollout mtgs 
+
+- Numerous teams have had questions about the contact center review — timing, and also guidance on how to create those artifacts. Talked with vsp analytics 3/6/20
+- QA artifacts as part of Usability Testing Prep are _really_ tripping people up, they do not seem thrilled (curious to see if we get the same feedback in the post-review surveys?) 3/6/20
+- Related, the 2 Usability Testing Prep templates we've had so far have both been created by the team designer, which is not our guidance -- that could be why the QA artifacts are confusing, bc the designer doesn't know why they need to think about QA? 3/6/20
+- Need to add a step into templates that has Megan/Andrea assign ticket back to requesting team once meeting has been scheduled 3/6/20
