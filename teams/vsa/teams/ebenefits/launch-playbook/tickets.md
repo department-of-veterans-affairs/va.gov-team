@@ -146,3 +146,23 @@ As an engineer, I want to request a review for Security and Load Testing with th
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 
+## Build the {feature-name} from mockup
+### Goal
+In order to get this feature into staging, it needs to be built and iterated on based on agreed upon mockups. With the mockups provided and a list of descriptions and background the feature can be viewed first locally then moved to staging.
+
+### Tasks
+- Review the mockup for any changes or areas that don't seem to make sense
+  - Ask questions in the event that something is not clear
+
+### Background
+- Provide walk through screen by screen of the mockup highlighting the areas of copy, components, and other areas of interest ensuring they can be found inside the component library.
+- Slide #
+- Header (copy)
+- Body (component)
+  - more details on that
+
+### Acceptance Criteria
+- [ ] Built version is shown to team and shared with Designer for further iteration, if needed.
+```diff
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
+```
