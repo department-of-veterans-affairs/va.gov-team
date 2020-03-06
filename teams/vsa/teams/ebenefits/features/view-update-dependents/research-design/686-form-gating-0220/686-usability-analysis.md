@@ -55,8 +55,8 @@ The moderator prompted users with tasks and questions from the conversation guid
 2. Users generally scanned the introduction page; once they were completing the form, they noted they needed additional information up-front (in the Introduction):
   - Married children
   - School addresses
-  - Student income/net worth
   - Prior term school info
+  - Student income/net worth
 3. Additional explanation and guidance is needed for certain key sections of the form:
   - Spouse Veteran status
   - Marriage types
@@ -76,8 +76,13 @@ A few users clicked into Family member Benefits and Records content pages to fin
  - School address; is it main campus?
  - Term start and end dates; can these be post-dated?
  - Prior term's school info; high school and/or college?
+ - Student finacial information (income & net worth)
+ 
+ > “This is a lot of tax information that you may not have. I think this information should be included within the first page that you need.”
  
 Two users wanted to know up-front about married children in the 686 and 674. Are they disqualified as dependents? (They are.) One user wondered about the implications of spouses who are also Veterans.
+
+> “Are there implications if they have been married to someone that was in the military? A box that will explain what the implications are if they have VA benefits already.“
  
  **3. Clarification needed:** Although participants stated they found the form easy to use, most had at least one question in the course of completing their tasks; several users had two or more questions. Participants suggested inline help (e.g. tooltip hovers or ? icons) or clearer labeling would help.
  
@@ -85,13 +90,25 @@ Two users wanted to know up-front about married children in the 686 and 674. Are
   - A pair of users wondered about the definition of some of the marriage types
   - Two users stated they didn't know what their service or file was
   
-**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. One user took exception to the use of "Report" in the labeling of the selections: ”don’t tell me to report.” 
+   > “Just the VA file number and service number, maybe an explanation for that. I don’t know if the service number is the same as your SSN.”
+  
+**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. 
 
-One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple."
+> “...it was self-explanatory whereas the paper form I was not sure."
+
+One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple." 
+
+One user took exception to the use of "Report" in the labeling of the selections.
+
+> ”Don’t tell me to report.”
 
 **5. Confirmation & printing:** As with the introduction page, participants gave generally positive assessments of the confirmation page. However, many wanted more assurance that their forms were successfully submitted. One user said they would need “proof” when VA “didn’t get their form.” Half of users expected to be able view, print and/or download what they submitted, with one user wanting a filled-in version of the 21-686c (eBenefits has this feature). 
 
+> “What I am missing is the form that I can print out that proves that I did it.”
+
 Several users wanted a dedicated "print" button on-screen. Two users wanted assurance as to site and information security on the Confirmation page.
+
+> “Maybe being able to print it off to save it as a file, people like to have the evidence that they submitted it at this time and this is what I put in there.“
 
 ## Additional insights
 **Other things we learned:**
@@ -102,7 +119,7 @@ Several users wanted a dedicated "print" button on-screen. Two users wanted assu
 - Two users (12.5%) commented on the green button on the intro page; one saying colorblind people might prefer yellow, the other said they were colorblind, but they knew it was green
 - No participant used the "back" button at the bottom of each screen of the form
 
-**Our conclusions**
+## Our conclusions
 The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
 
 - The checkbox selection strategy is acceptable to users who did not pause for a moment before quickly and easily making the proper choices and moving on to the body of the form
