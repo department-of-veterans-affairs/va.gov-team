@@ -58,7 +58,7 @@ Past research
   
 ### Analytics review
 
-We want to look at analytics to get a better sense of how users behave at scale. We plan to look into the following:
+We want to look at analytics to get a better sense of how users behave at scale. We will look into the following:
 
 #### General
 
@@ -87,22 +87,21 @@ This is [already in-progress](https://github.com/department-of-veterans-affairs/
 
 ### User interviews/testing
 
-Even with previous research and an analytics review, we feel strongly that talking to veterans would help us further clarify what users need from the logged in homepage. Analytics can tell us what; user interviews and testing can tell us why.
+Even with previous research and an analytics review, we feel strongly that talking to veterans would help us further clarify what users need and expect from the logged in homepage. Analytics can tell us what; user interviews and testing can tell us why.
 
 #### Questions we have
 
+- Why do people come to VA.gov? What do they want to do?
 - Why do people log in to VA.gov?
 - Why do people go to the homepage?
-- Why do people go to My VA?
 - What makes the logged in homepage useful now? What would make it more useful?
-- What makes My VA useful? What would make it more useful than it is now?
-- Where do people expect to see/receive notifications? How would notifications be most helpful to people?
 - What do they expect to see on a logged in homepage?
 - Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
-- Why do people come to VA.gov? What do they want to do?
-- What is the balance between dashboard vs. router?
-- What are the main things people do on VA digital tools/VA.gov?
-- Pain points
+- Why do people go to My VA?
+- What makes My VA useful? What would make it more useful than it is now?
+- Where do people expect to see/receive notifications? How would notifications be most helpful to people?
+- What are the main things people do on all VA digital tools (both on VA.gov and outside of it)?
+- What are people's pain points that might be relevant to our logged in homepage work?
 - Do people trust the data they see on VA.gov?
 
 #### Tasks
@@ -116,7 +115,7 @@ Even with previous research and an analytics review, we feel strongly that talki
 #### Thoughts on methods
 
 - Some of the research will likely be in interview format
-- We may or may not want to show users the following:
+- We may or may not want to show users the following as discussion tools:
   - The existing logged in homepage
   - My VA
   - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/13596891?scrollOffset=216)
@@ -137,6 +136,7 @@ These people probably have lots of opinions:
 - Chris Johnston
 - Lauren Alexanderson
 - Samara Strauss (if I'm not doing the interviews)
+- Clarice Chan
 
 These people may have some opinions:
 
@@ -148,7 +148,7 @@ These people may have some opinions:
 
 #### Tasks
 
-- Create a conversation guide/script
+- Create a conversation guide
 - Conduct interviews
 - Synthesize
 
@@ -156,8 +156,8 @@ These people may have some opinions:
 
 Post research, everything needs to be sythesized and final recommendations need to be made. This could take on a few different shapes if someone else is helping out:
 
-1. The researcher synthesizes the activities above, but Samara/Clarice do the final synthesis and recommendations.
-2. The research/Sanara/Clarice all work together on the final synthesis and recommendations.
-3. The research does all the final synthesis and recommendations and presents those to our team.
+1. The researcher synthesizes the activities above, but Samara/Clarice do the final synthesis of all research and make recommendations.
+2. The researcher/Samara/Clarice all work together on the final synthesis and recommendations.
+3. The researcher does all the final synthesis and recommendations and presents those to our team.
 
-The approach probably determines on a few factors and should be determined with input from the researcher, should someone besides Samara/Clarice be helping.
+The approach probably determines on a few factors and should be determined with input from the researcher.
