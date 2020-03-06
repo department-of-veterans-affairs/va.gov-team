@@ -50,69 +50,48 @@ The moderator prompted users with tasks and questions from the conversation guid
 - Do participants know they have to reports changes in their dependents' status?
 
 ## Key findings
-**Our top findings:**
-- Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections
-- Users generally only scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they asked for additional information up-front (in the Introduction):
+**Our high-level findings:**
+1. Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections
+2. Users generally scanned the introduction page; once they were completing the form, they noted they needed additional information up-front (in the Introduction):
   - Married children
   - School addresses
   - Student income/net worth
   - Prior term school info
-- Additional explanation and guidance is needed for certain key sections of the form:
+3. Additional explanation and guidance is needed for certain key sections of the form:
   - Spouse Veteran status
   - Marriage types
   - Service & file numbers
   - Student address
-- Participants accepted the checkbox "workflow" arragement of the form without question; and users moved through both the long and short workflows of the form quickly, with little prompting
-- Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button
+4. Participants accepted the checkbox "workflow" arragement of the form without question; and users moved through both the long and short workflows of the form quickly, with little prompting
+5. Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button
 
 ## Details of findings
-**Wayfinding = wandering:**
-Participants started on the VA.gov home page with a task to find where they could add/remove dependent from their disability claim. Users could pursue multiple paths.
+**1. Wayfinding:** Only one user navigated from VA.gov home to the Add Dependents landing page, and they did so using the search field. Though a few users did look in Disability sections, most looked at Family Member Benefits; a few others looked at Records and elsewhere. All users seem to be looking for a clealy-marked, direct link, first in the hom page's white quadrants, then in the megamenu. Two used the search feature (one sucessfully).
 
-- Half (50%) of participants looked for links in the white quadrants
-- 50% looked at the megamenu
-- One-quarter (25%) used the search feature
-- Three participants (37.5%) looked at Disability sections; other sections explored include Family Benefits (62.5%), Records (50%), Education (37.5%), elsewhere (37.5%)
-- Asked post-testing, most users said they expected the 21-686c form to be with Disabilities (71.4%), with two saying they thought Records would be the best place (28.6%) 
+A few users clicked into Family member Benefits and Records content pages to find relevant links. Some participants given the "add student" task looked in the education sections of the home screen and megamenu.
 
-**Introduction instruction:**
-All participants gave positive assessments of the introduction and confirmation pages – for both layout and content. Most users only scanned the intro; two remarked that they liked the “subway map” arrangement.  Once they began the 21-686c (add spouse & child) and the 21-674 (add student) workflows, several had questions about info they needed to submit the form.
+**2. Form introduction:** Three-quarters of participants noted they would need to stop and look for info required to complete their tasks; two mentioned specifically that required info should be made clear in the introduction. Most of the "stopping-points" were within the 674 workflow (add student). Users stated they would have to look up several things, and they might need clarification:
 
-- 75% of all participants wanted some additional information on the intro screen or within the form itself, with 12.5% mentioning the intro screen specifically
-- The 674 (add student) flow generated more questions than the 686 (add spouse & child); 75% wanted clarification on prior term schools, 75% had questions about term dates
-- Users identified several things they would need ahead of time to complete the form(s): addresses, school dates, marriage details, and student financial info
+ - Student address; is it their "permanent" or school address?
+ - School address; is it main campus?
+ - Term start and end dates; can these be post-dated?
+ - Prior term's school info; high school and/or college?
+ 
+Two users wanted to know up-front about married children in the 686 and 674. Are they disqualified as dependents? (They are.) One user wondered about the implications of spouses who are also Veterans.
+ 
+ **3. Clarification needed:** Although participants stated they found the form easy to use, most had at least one question in the course of completing their tasks; several users had two or more questions. Participants suggested inline help (e.g. tooltip hovers or ? icons) or clearer labeling would help.
+ 
+  - Some users wanted more specifics about school and student addresses (which campus? home or school?) 
+  - A pair of users wondered about the definition of some of the marriage types
+  - Two users stated they didn't know what their service or file was
+  
+**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. One user took exception to the use of "Report" in the laeling of the selcetions: ”don’t tell me to report.” 
 
-**Checkboxes an invisible success:**
-Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation and only a single comment: ”don’t tell me to report.”
+One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple."
 
-- 8 of 8 had no difficulty selecting specific individual workflows
-- 4 of 4 had zero difficulty selecting multiple options
-- All participants who were asked (4) said they would prefer to complete tasks together rather than submit individual forms per task – even if it meant a longer form
+**5. Confirmation & printing:** As with the introduction page, participants gave generally positive assessments of the confirmation page. However, many wanted more assurance that their forms were successfully submitted. One user said they would need “proof” when VA “didn’t get their form.” Half of users expected to be able view, print and/or download what they submitted, with one user wanting a filled-in version of the 21-686c (eBenefits has this feature). 
 
-**Easy to use, could be easier:**
-All participants (100%) stated they found the form easy to use, though most had at least one question in course of completing their tasks. Indeed, all participants (100%) were observed easily completing their submission tasks. Many commented that the pre-filled fields were helpful.
-
-- 75% (6) of users had at least one instance where they wanted more information; five participants (62.5%) had two or more questions
-- Three users (37.5%) suggested additional info in-line with the form (tooltips, help icons & sidebar; only one participant (12.5%) opened any of the “additional info” panels within the form
-- 12.5% (2) participants thought the form should be consolidated into fewer screens
-- 57.1% (4) of users said the purpose of the accordions at the end of the form were to review and change their entries; 42.9% (3) though they held other info the VA had on record (e.g. service history)
-
-**Help wanted:**
-All participants completed their task despite many have one or more questions. There were several places in the form, where multiple users asked for guidance.
-
-- 75% (3) of users who were adding a student (674) wanted clarification regarding term dates
-- Three (75%) of 674 users wanted guidance regarding the prior term school
-- Two participants (50%) adding a spouse & child (686) had questions regarding marriage types (e.g. proxy)
-- 25% (2) of all participants wanted to know the implications of married children within their respective workflows (e.g. “Does it disqualify them?”)
-
-**Confirmation: printing is proof:**
-As with the introduction page, all participants gave generally positive assessments of the confirmation page – again for both layout and content. However, many wanted more assurance that their forms were successfully submitted. One user said they would need “proof” when VA “didn’t get their form.”
-- Half of all participants (50%) wanted to view, print or download a specific confirmation of their submission; one user expected a printable version of the 21-686c itself (eBenefits has this feature)
-- 42.9% (3) of participant cited the need for a dedicated “print” button
-- Two users (25%) wanted verbiage addressing site or information security 
-
-**Ctrl + p:**
-There were several smaller issues centered on submission confirmation and printing the information set – or even the “official” 21-686c itself. The crux of the confirmation/printing issue is that “proof” will be required if there is a problem processing their submission.
+Several users wanted a dedicated "print" button on-screen. Two users wanted assurance as to site and information security on the Confirmation page.
 
 ## Additional insights
 **Other things we learned**
