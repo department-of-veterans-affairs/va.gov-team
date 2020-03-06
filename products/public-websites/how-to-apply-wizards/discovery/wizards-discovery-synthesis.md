@@ -53,7 +53,7 @@ Yes. The complete list of pages we will address with our work:
 
 
 
-### Additional findings
+### Additional information
 
 - It is very difficult to find relevant research studies in our research history document. After dedicating a full day to combing through the existing research, I have decided to rely on conversations w/ the IA and UX resources available.
 - [From IA Open Issues around re-launch:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/00cf890969695950eb1ca64cf19ae03b9e5b4606/products/va-gov-relaunch-2018/design/content/open-issues.md#education) *To ensure we do not risk more users selecting the wrong form, we will continue to follow the current experience where the How to Apply and Apply Now links both lead to the the How to Apply page to push users throught the wizard and ensure they are directed to the right form. For the forms nested under Family, National Call to Service and Make Changes, Danielle and Mikki will review content to ensure that users are clearly vetted before they ove forward on those forms - if we don't feel we can make it clear enough, we will reroute through the How to Apply wizard. We will also review the Transfer page to ensure users continue in the correct direction.*
