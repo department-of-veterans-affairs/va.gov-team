@@ -13,7 +13,7 @@ To determine an engineering approach that enables application teams to operate
 independently.
 
 This document is intended for front end and DevOps engineers on the
-Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VSA) teams.
+Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VFS) teams.
 
 
 ### Background
