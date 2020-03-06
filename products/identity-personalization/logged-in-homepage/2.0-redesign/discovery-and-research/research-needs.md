@@ -21,9 +21,9 @@ While we're sure of what we want to do, the exact approach is still undefined. W
 We'd like to complete the following as part of this discovery effort:
 
 - [Previous research review](#previous-research-review)
-- Analytics review
-- User interviews/testing (and any necessary additional user research)
-- Stakeholder interviews
+- [Analytics review](#analytics-review)
+- [User interviews/testing](#user-interviews--testing)
+- [Stakeholder interviews](#stakeholder-interviews)
 
 ### Product questions we're trying to answer
 
@@ -59,3 +59,8 @@ Past research
 - My VA research
   - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
   
+### Analytics review
+
+### User interviews/testing
+
+### Stakeholder interviews
