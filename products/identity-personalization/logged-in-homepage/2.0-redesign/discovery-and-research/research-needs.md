@@ -16,8 +16,6 @@ While we're sure of what we want to do, the exact approach is still undefined. W
 
 ## Research needs
 
-### Overview
-
 We'd like to complete the following as part of this discovery effort:
 
 - [Previous research review](#previous-research-review)
@@ -155,3 +153,13 @@ These people may have some opinions:
 - Create a conversation guide/script
 - Conduct interviews
 - Synthesize
+
+### Research synthesis
+
+Post research, everything needs to be sythesized and final recommendations need to be made. This could take on a few different shapes if someone else is helping out:
+
+1. The researcher synthesizes the activities above, but Samara/Clarice do the final synthesis and recommendations.
+2. The research/Sanara/Clarice all work together on the final synthesis and recommendations.
+3. The research does all the final synthesis and recommendations and presents those to our team.
+
+The approach probably determines on a few factors and should be determined with input from the researcher, should someone besides Samara/Clarice be helping.
