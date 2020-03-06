@@ -15,7 +15,7 @@
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings ([#6202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6202))
 - Frontend: Stub out remaining FE workflows and unit tests ([#4887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4887), [#4897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4897), [#4910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4910), [#6004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6004), [#5503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5503), [#6014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6014))
-- Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow ([#6189](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6189))
+- Backend: Build infrastructure sufficient to pass first (`n`) steps in 686c submission workflow ([#6189](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6189))
 
 ## 2. Complete "View Dependents" in Staging
 - Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites ([#5255](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5255))
