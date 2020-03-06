@@ -1,24 +1,28 @@
 # How to apply wizards: IA background
 
-## Agenda:
+*Liz Lantz, Public Websites*
+
+*3/3/2020*
+
+## Agenda
 
 - Where do we have wizards today?
 - Background info from Mikki
 - How to use the IA document to locate
 
-#### Attendees:
+#### Attendees
 
 Liz Lantz, Mikki Northius, Aruna Kucherlapati, Kelson Adams
 
-#### Background:
+#### Background
 
 Our team, Public Websites, is working on better incorporating the `How to apply` wizards into the user flow for completing applications on va.gov.  It was suggested we check with Mikki to help us identify all of these wizards currently on the site. 
 
-#### Purpose:
+#### Purpose
 
 Identify `How to apply` wizards on va.gov; better understand how to use [IA documentation](https://app.moqups.com/Rnc4BDEKrA/view/page/abd763ecc) to conduct this research on our own
 
-#### Outcomes:
+#### Outcomes
 
 - No wizards were identified beyond [what is already listed in our epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6315)
 
@@ -84,4 +88,4 @@ Identify `How to apply` wizards on va.gov; better understand how to use [IA docu
 - How many users still fill out paper forms when an online form is available?  Jen may know.
 - Talk to Jim about decision process to go with different flow for 686
 - Go through each wizard to evaluate current flow
-  - Disability goes off to eBenefits - tricky
+  - Disability goes off to eBenefits
