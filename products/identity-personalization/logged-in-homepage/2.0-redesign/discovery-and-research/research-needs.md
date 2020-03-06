@@ -12,17 +12,7 @@ Through [research we did over the summer](https://github.com/department-of-veter
 
 While we're sure of what we want to do, the exact approach is still undefined. We would like to complete a discovery phase in order to help us better define user expectations, stakeholder needs, and what tools we need to include on the new logged in homepage.
 
-## Research needs
-
-We'd like to complete the following as part of this discovery effort:
-
-- [Previous research review](#previous-research-review)
-- [Analytics review](#analytics-review)
-- [User interviews/testing](#user-interviewstesting)
-- [Stakeholder interviews](#stakeholder-interviews)
-- [Research synthesis](#research-synthesis)
-
-### Product questions we're trying to answer
+## Product questions we're trying to answer
 
 We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
 
@@ -35,6 +25,16 @@ To help us figure this out, we'd like to better understand:
 - How people use My VA.
 - Areas for improvement for existing functionality.
 - How people's experience with the site might change if we had a proper notification system.
+
+## Research needs
+
+We'd like to complete the following as part of this discovery effort:
+
+- [Previous research review](#previous-research-review)
+- [Analytics review](#analytics-review)
+- [User interviews/testing](#user-interviewstesting)
+- [Stakeholder interviews](#stakeholder-interviews)
+- [Research synthesis](#research-synthesis)
 
 ### Previous research review
 
