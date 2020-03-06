@@ -38,9 +38,9 @@ We'd like to complete the following as part of this discovery effort:
 
 ### Previous research review
 
-We'd like to go through previous research that has happened on VA.gov that's informed what we have now or what we might like to have/improve in the future. With this context, we can make sure this next research project is supplemental and not redundant of previous research.
+We'd like to go through previous research that has informed what we have now on VA.gov and what we might like to have/improve in the future. With this context, we can make sure this next research project is supplemental and not redundant of previous research.
 
-This is a non-exhaustive list of some of the previous research that would inform this work. In the event someone else was able to help us with this work, we'd help find any additional research/resources we wanted to be considered.
+This is a non-exhaustive list of some of the previous research that would inform this work. In the event someone else was able to help us with this discovery phase, we'd help find any additional research/resources we wanted to be considered.
 
 Past research
 
