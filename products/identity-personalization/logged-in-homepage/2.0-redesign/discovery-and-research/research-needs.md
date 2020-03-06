@@ -22,8 +22,9 @@ We'd like to complete the following as part of this discovery effort:
 
 - [Previous research review](#previous-research-review)
 - [Analytics review](#analytics-review)
-- [User interviews/testing](#user-interviews--testing)
+- [User interviews/testing](#user-interviewstesting)
 - [Stakeholder interviews](#stakeholder-interviews)
+- [Research synthesis](#research-synthesis)
 
 ### Product questions we're trying to answer
 
@@ -61,6 +62,96 @@ Past research
   
 ### Analytics review
 
+We want to look at analytics to get a better sense of how users behave at scale. We plan to look into the following:
+
+#### General
+
+- What are the top ~20  pages visited on VA.gov?
+  - How does this change if we look at top pages for logged out users vs. logged in users?
+- What are the top ~20 search terms on VA.gov?
+- What are the top ~20 entry points for VA.gov?
+- After people enter the site, what is the next thing they do?
+- % of traffic by device (desktop; tablet; mobile).
+
+#### Homepage
+
+- What page do people visit BEFORE the homepage?
+- How often is the homepage people's first entry point?
+- What links do people click from the homepage?
+- How many people visit the homepage?
+
+#### My VA
+
+- What page do people visit BEFORE My VA?
+- Is My VA ever a first entry point?
+- What do people do from My VA? (ie. what links do they click?)
+- How many people visit My VA? 
+
+This is [already in-progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6322) and we will likely not need any help beyond considering analytics in synthesis.
+
 ### User interviews/testing
 
+Even with previous research and an analytics review, we feel strongly that talking to veterans would help us further clarify what users need from the logged in homepage. Analytics can tell us what; user interviews and testing can tell us why.
+
+#### Questions we have
+
+- Why do people log in to VA.gov?
+- Why do people go to the homepage?
+- Why do people go to My VA?
+- What makes the logged in homepage useful now? What would make it more useful?
+- What makes My VA useful? What would make it more useful than it is now?
+- Where do people expect to see/receive notifications? How would notifications be most helpful to people?
+- What do they expect to see on a logged in homepage?
+- Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
+- Why do people come to VA.gov? What do they want to do?
+- What is the balance between dashboard vs. router?
+- What are the main things people do on VA digital tools/VA.gov?
+- Pain points
+- Do people trust the data they see on VA.gov?
+
+#### Tasks
+
+- Create a research plan/design
+- Create a conversation guide/script
+- Recruit participants (note: we can use the VA contractor, Perigean, to help us recruit and schedule)
+- Conduct research
+- Synthesize
+
+#### Thoughts on methods
+
+- Some of the research will likely be in interview format
+- We may or may not want to show users the following:
+  - The existing logged in homepage
+  - My VA
+  - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/13596891?scrollOffset=216)
+  
+#### Additional user research
+
+- We are open to additional user research beyond interviews if it would be helpful in us getting answers to our questions.
+
 ### Stakeholder interviews
+
+#### Who
+
+For this work, our stakeholders are all part of DEPO. We recommend at least a 30 minute chat to gather needs/thoughts/opinions from the following folks.
+
+These people probably have lots of opinions:
+
+- Charles Worthington
+- Chris Johnston
+- Lauren Alexanderson
+- Samara Strauss (if I'm not doing the interviews)
+
+These people may have some opinions:
+
+- Steve Kovacs
+- Andrea Schneider
+- Matt Self
+- Jen Lee
+- Ryan Thurlwell
+
+#### Tasks
+
+- Create a conversation guide/script
+- Conduct interviews
+- Synthesize
