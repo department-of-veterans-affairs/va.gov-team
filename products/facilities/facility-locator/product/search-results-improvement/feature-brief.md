@@ -33,8 +33,8 @@ Veterans use the Facility Locator as the single source of truth on VA.gov to fin
 *What two or three core use cases do we believe should cover ~80% of users?*
 
 - As a Veteran using the Facility Locator, I need search results returned to me quickly so that I can have my need met. 
-- As a Veteran using the Facility Locator, I need a list of results to guide my selection (whether it is five or fifty miles away) so that I can visit the most convenient location. 
-- As a Veteran using the Facility Locator, I need to define my search area by interacting with the map so that the results returned are relevant to my location. 
+- As a Veteran using the Facility Locator, I need a list of results to guide my selection so that I can visit the most appropriate location. 
+- As a Veteran using the Facility Locator, I want to view results relevant to my location so that I can visit a convenient location. 
 
  
 ### Project Rationale
@@ -65,8 +65,9 @@ _What's in and what's out?_
 ### Measuring Success
 _How will we know if we are successful?_
 
-**Objective 2: Enhance the search process (The search is intuitive, efficient and fast)** 
-- KR 1b: Time for delivery of search results will improve by (TBD) by (date)
+**Objective 2: Enhance the search process**
+KEY RESULT: Time for delivery of search results will improve by (TBD) by (date)
+KEY RESULT: User satisfaction ratings for the Facility Locator search page will increase to (TBD) by (date).  
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
