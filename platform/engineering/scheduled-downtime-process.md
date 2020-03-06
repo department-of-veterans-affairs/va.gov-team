@@ -1,4 +1,4 @@
-# Scheduled Downtime Process for VA.gov
+# Scheduled Downtime Process for VA.gov - WORK IN PROGRESS
 
 ## Overview
 Downtime on VA.gov is admittedly rare, but from time to time it may need to happen. Site upgrades, migrations, or changes that affect the public site may result in the site requiring VA.gov services to be taken down for brief periods of time. When this is necessary, we need to make sure that the VA.gov users and developers working on the VA.gov platform are sufficiently informed. Please follow the process below in order to allow the right parties to be aware, give enough time for other teams to make any preparations, and to minimize effect to the Veterans and other users of VA.gov. 
