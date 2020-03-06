@@ -1,8 +1,6 @@
 # Logged in homepage: Research needs
 
-## This doc
-
-We want to outline our research/discovery needs for the new logged in homepage. Given that Samara and Clarice's availability is limited, we're hoping a clear outline will help us figure out what parts of this discovery phase can be managed by us and where we might need to bring in additional resources.
+This doc outlines our research/discovery needs for the new logged in homepage. Given that Samara and Clarice's availability is limited, we're hoping a clear outline will help us figure out what parts of this discovery phase can be managed by us and where we might need to bring in additional resources.
 
 ## Project background
 
