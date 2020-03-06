@@ -4,7 +4,7 @@ This doc outlines our research/discovery needs for the new logged in homepage. G
 
 ## Project background
 
-Prior to the launch of the new VA.gov in November 2018, the logged in homepage on Vets.gov was a personalized dashboard that allowed veterans to view their in-progress applications, claims, messages, and prescriptions. When the new VA.gov launched, this dashboard was renamed My VA and moved ot a different location; users' logged in homepage remained the same as the logged out homepage.
+Prior to the launch of the redesigned VA.gov in November 2018, the logged in homepage on Vets.gov was a personalized dashboard that allowed veterans to view their in-progress applications, claims, messages, and prescriptions. When the new VA.gov launched, this dashboard was renamed My VA and moved ot a different location; users' logged in homepage remained the same as the logged out homepage.
 
 As time has gone on, My VA has grown but scaled poorly due to the structure set in the MVP. Additionally, the logged in homepage and My VA have competed for veteran attention and focus and are largely redundant of each other. What differs is their approach — the logged in homepage is primarily a router, while My VA is very much a dashboard.
 
