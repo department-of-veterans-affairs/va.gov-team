@@ -10,21 +10,21 @@
 ----
 ## Sprint 16 (2/26 - 3/10)
 ```diff 
-- 44 points over 16 issues
+- 44 points over 15 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
-- Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings
-- Frontend: Stub out remaining FE workflows and unit tests (7-8)
-- Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow
+- Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings ([#6202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6202))
+- Frontend: Stub out remaining FE workflows and unit tests ([#4887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4887), [#4897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4897), [#4910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4910), [#6004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6004), [#5503](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5503), [#6014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6014))
+- Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow ([#6189](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6189))
 
 ## 2. Complete "View Dependents" in Staging
-- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
-- Frontend: Finish unit tests
-- Backend: Update the data format for "View Dependents"  
+- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites ([#5255](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5255))
+- Frontend: Finish unit tests ([#5502](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5502))
+- Backend: Update the data format for "View Dependents" ([#6185](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6185))
 
 ## 3. Initial Design: "My Payment History"
-- Design: Schedule Design intent meeting and create an initial feature design
-- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments  
+- Design: Schedule Design intent meeting and create an initial feature design ([#5646](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5646))
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments [#5644](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5644))
 *(doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)*
 
 ## 4. Stretch - Improve Product Infrastructure
