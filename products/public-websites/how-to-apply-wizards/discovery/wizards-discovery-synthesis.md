@@ -11,6 +11,8 @@ The Public Websites team is working to move/consolidate pre-requisite Wizard ste
 
 [Our epic (#6315)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6315) contains more details about the problem we're addressing.
 
+## Discovery Goals
+
 In this stage of discovery, I seek to understand:
 
 - Other than the 3 URLs in our epic, are there other pages within va.gov that have similar wizards leading to tools/forms we need to include?
