@@ -62,11 +62,11 @@ The moderator prompted users with tasks and questions from the conversation guid
   - Marriage types
   - Service & file numbers
   - Student address
-4. Participants accepted the checkbox "workflow" arragement of the form without question; and users moved through both the long and short workflows of the form quickly, with little prompting
+4. Participants accepted the checkbox "workflow" arrangement of the form without question; and users moved through both the long and short workflows of the form quickly, with little prompting
 5. Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button
 
 ## Details of findings
-**1. Wayfinding:** Only one user navigated from VA.gov home to the Add Dependents landing page, and they did so using the search field. Though a few users did look in Disability sections, most looked at Family Member Benefits; a few others looked at Records and elsewhere. All users seem to be looking for a clealy-marked, direct link, first in the hom page's white quadrants, then in the megamenu. Two used the search feature (one sucessfully).
+**1. Wayfinding:** Only one user navigated from VA.gov home to the Add Dependents landing page, and they did so using the search field. Though a few users did look in Disability sections, most looked at Family Member Benefits; a few others looked at Records and elsewhere. All users seem to be looking for a clearly-marked, direct link, first in the home page's white quadrants, then in the megamenu. Two used the search feature (one successfully).
 
 A few users clicked into Family member Benefits and Records content pages to find relevant links. Some participants given the "add student" task looked in the education sections of the home screen and megamenu.
 
@@ -85,7 +85,7 @@ Two users wanted to know up-front about married children in the 686 and 674. Are
   - A pair of users wondered about the definition of some of the marriage types
   - Two users stated they didn't know what their service or file was
   
-**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. One user took exception to the use of "Report" in the laeling of the selcetions: ”don’t tell me to report.” 
+**4. Checkbox selection:** Participants uniformly understood and accepted the checkbox workflow selection, with 100% quickly selecting the correct choices to complete their given tasks. Users moved quickly past the selections task without hesitation. One user took exception to the use of "Report" in the labeling of the selections: ”don’t tell me to report.” 
 
 One of the tasks (add spouse & child) required multiple selections and posed no problems. When asked post-test about submitting multiple workflows together or singly, users unanimously said "multiple."
 
@@ -102,6 +102,14 @@ Several users wanted a dedicated "print" button on-screen. Two users wanted assu
 - Two users (12.5%) commented on the green button on the intro page; one saying colorblind people might prefer yellow, the other said they were colorblind, but they knew it was green
 - No participant used the "back" button at the bottom of each screen of the form
 
+**Our conclusions vs. our hypotheses**
+The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
+
+- The checkbox selection strategy is acceptable to users who did not pause for a moment before quickly and easily making the proper choices and moving on to the body of the form
+- Participants did ask for guidance or clarification at key points of the “add spouse/add child” and add “student workflows;” specifically, they wanted more detailed info on marriage, addresses and dates
+- Users were aware of “chapter” changes within the form, and tracked the changes in context
+- The longest workflow, “add spouse/add child” was completed quickly; the shorter workflows took almost no time; 100% of users stated the form was easy to use
+
 ## Recommendations
 **What we recommend**
 - Maintain the form’s checkbox selection screen; continue to refine and clarify text
@@ -110,13 +118,18 @@ Several users wanted a dedicated "print" button on-screen. Two users wanted assu
 - Add clarifying text to the introduction screen to better identify information needed to complete the form; include implications of potentially “disqualifying” statuses (e.g. married child)
 - Investigate “printable form” feature in eBenefits, confirmation IDs, and “print” button functionality
 
-**Our conclusions**
-The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
+## Next steps
+**Present findings to eBenefits team**
+- Share insights and recommendations; solicit further insights and get input on implementing recommendations
 
-- The checkbox selection strategy is acceptable to users who did not pause for a moment before quickly and easily making the proper choices and moving on to the body of the form
-- Participants did ask for guidance or clarification at key points of the “add spouse/add child” and add “student workflows;” specifically, they wanted more detailed info on marriage, addresses and dates
-- Users were aware of “chapter” changes within the form, and tracked the changes in context
-- The longest workflow, “add spouse/add child” was completed quickly; the shorter workflows took almost no time; 100% of users stated the form was easy to use
+**Connect with stakeholders**
+- Share research findings
+- Get clarification on form and information requirements
+
+**Work with content team on labelling, instructional text and Intro and Confirmation page copy**
+- Implement changes, review with team and stakeholders
+
+**Revisit usability testing of 21-686c when deployed to staging**
 
 ## Appendix
 ### Conversation guide
