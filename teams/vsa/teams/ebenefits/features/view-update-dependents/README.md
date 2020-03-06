@@ -149,7 +149,7 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 - October & November: Research and design mockups
 - December & January: Work with previous teams (rainbows) code and schemas
 - February: Restart code development from scratch using rainbows schemas as high level guide, build out the different workflows
-- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend. Link to [IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
+- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend. 
 
 
 ## Team
@@ -181,7 +181,9 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Resources and Documentation
 
-- Discovery
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/discovery)
 - [Research and Design](research-design/README.md)
+- [IA Recomendation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-view-dependents.md) for View Dependents
+- Link to [Request for IA Review for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636)
 
 
