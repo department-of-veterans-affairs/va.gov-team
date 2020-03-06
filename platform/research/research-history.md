@@ -675,7 +675,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 *Nebula Project, research lead: Elissa Frankle Olinsky*
 - 4 Veterans
 - Research Folder
-- [Link and Button Usability for Assistive Devices](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/LinksAndButtons.md)
+- [Link and Button Usability for Assistive Devices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/research/links-and-buttons.md)
 
 #### May 29-30, 2018 - Notifications Research
 *Rainbows Team, research lead: Samara Strauss*
