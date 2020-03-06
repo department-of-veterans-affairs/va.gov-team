@@ -20,9 +20,9 @@ In this stage of discovery, I seek to understand:
 
 ## Relevant Meetings
 
-3/3/2020: Mikki Northius, IA (with Kelson Adams and Aruna Kucherlapati).  Notes here.
+3/3/2020: Mikki Northius, IA (with Kelson Adams and Aruna Kucherlapati).  [Notes here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/20200303-ia-discovery.md)
 
-3/5/2020: Alex Taylor, UX Design
+3/5/2020: Alex Taylor, UX Designer, [Notes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/20200305-ux-research-background.md)
 
 ## What I learned
 
