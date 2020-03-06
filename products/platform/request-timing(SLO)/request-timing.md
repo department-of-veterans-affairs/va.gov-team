@@ -186,7 +186,7 @@ Current SLOs from Prometheus metrics per service/endpoint
 | EVSS/PCIUAddress | /VONAPP2/wss-pciu-services-web/rest/pciuServices/v1/primaryPhoneNumber| 1.238s |
 | EmisMilitaryInformation |  | 314.294ms |
 | EmisPayment | No data | No data |
-| EmisVeteranStatus | nil | 306.324 |
+| EmisVeteranStatus |  | 306.324 |
 | GI | /gids/v0/calculator/constants| 30.060ms |
 | GI | /gids/v0/institution_programs| 48.959ms |
 | GI | /gids/v0/institution_programs/autocomplete| 20.257ms |
@@ -225,6 +225,8 @@ Current SLOs from Prometheus metrics per service/endpoint
 | VHA_Access_SHEP | No data | No data |
 | VIC2 | No data | No data |
 | Vets360/ContactInformation | No data | No data |
+
+*Note: If Endpoint column is blank, the External Service is the exclusive endpoint
 
 ### `vets-api` SLOs
 
