@@ -6,7 +6,7 @@ Team | Project | Review Status | IA Documentation
 --- | --- | --- | --- 
 Public Websites | Decision Review IA Improvements | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/issues/4141
 Public Websites | AMA Updates | REVIEW DECLINED | IA Review was declined by team in order to make deadline for content updates.  Team agreed that no URL changes, redirects or nav structural changes can be made.  Complete IA review of Decision Review process is needed as part of next steps. https://github.com/department-of-veterans-affairs/va.gov-team/issues/5541
-eBenefits | Add/Remove Dependents | IN PROGRESS | Draft IA provided, will finalized once user research is complete. https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545#
+eBenefits | Add/Remove Dependents | IN PROGRESS | Draft IA provided, will finalized once user research is complete. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-add-dependents-686.md 
 Authenticated Experience | Profile 2.0 | NOT STARTED | Directional feedback given as part of design intent meeting, waiting for research https://github.com/department-of-veterans-affairs/va.gov-team/issues/5061
 Public Websites | Yellow Ribbon Tool | COMPLETE 02/19/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-yellow-ribbon.md
 Caregivers | 10-10cg Modernization | IN PROGRESS | Waiting for team to submit IA Request https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/caregiver-10-10cg.md
