@@ -10,7 +10,7 @@ As time has gone on, My VA has grown but scaled poorly due to the structure set 
 
 Through [research we did over the summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md), we determined that it's time to revisit both My VA and the logged in homepage. [We have proposed conslidating these two pages into one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#key-takeaway-we-need-to-revisit-our-my-va-logged-in-homepage-approach) by getting rid of My VA altogether and treating the logged-in homepage as a user's personalized landing pad and router. 
 
-While we're sure of what we want to do, the exact approach is still undefined. We would like to complete a discovery phase in order to help us better define user expectations, stakeholder needs, and what tools we need to include on the new logged in homepage.
+While we're sure of what we want to do, the exact approach is still undefined. We would like to complete a discovery phase in order to help us better define user behavior, expectations, and needs, as well as stakeholder needs.
 
 ## Product questions we're trying to answer
 
