@@ -94,7 +94,7 @@ One of the tasks (add spouse & child) required multiple selections and posed no 
 Several users wanted a dedicated "print" button on-screen. Two users wanted assurance as to site and information security on the Confirmation page.
 
 ## Additional insights
-**Other things we learned**
+**Other things we learned:**
 - No participant seemed to notice there were two forms presented: 21-686c and 21-674.
 - Six participants (85.7%) said they would use a laptop or desktop computer to submit and print forms; one user (14.3%) preferred a tablet
 - Though many users said they used their phones for browsing websites, none would use their phones for the tasks they were given
@@ -102,7 +102,7 @@ Several users wanted a dedicated "print" button on-screen. Two users wanted assu
 - Two users (12.5%) commented on the green button on the intro page; one saying colorblind people might prefer yellow, the other said they were colorblind, but they knew it was green
 - No participant used the "back" button at the bottom of each screen of the form
 
-**Our conclusions vs. our hypotheses**
+**Our conclusions**
 The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
 
 - The checkbox selection strategy is acceptable to users who did not pause for a moment before quickly and easily making the proper choices and moving on to the body of the form
@@ -111,11 +111,11 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 - The longest workflow, “add spouse/add child” was completed quickly; the shorter workflows took almost no time; 100% of users stated the form was easy to use
 
 ## Recommendations
-**What we recommend**
-- Maintain the form’s checkbox selection screen; continue to refine and clarify text
+**What we recommend:**
+- Maintain the form’s checkbox selection screen; continue to refine selection text ("notify" vs. "report")
 - Add guidance, examples and instructions to the marriage types and child marriage sections (686); and to the school term dates, prior school and student address sections (674) of the form
 - Continue with the current designed flow of the form, but conduct follow-up usability testing on “live” pages after initial development to uncover pain points
-- Add clarifying text to the introduction screen to better identify information needed to complete the form; include implications of potentially “disqualifying” statuses (e.g. married child)
+- Add clarifying text to the introduction screen to better identify information needed to complete the form; include implications of potentially “disqualifying” statuses (e.g. married child, Veteran spouse)
 - Investigate “printable form” feature in eBenefits, confirmation IDs, and “print” button functionality
 
 ## Next steps
