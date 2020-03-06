@@ -16,7 +16,8 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 
 ## Research questions
 
-- How do users interact with the information on the profile?
+- Can people find what they're looking for in the profile?
+- Do users understand how to update their information??
 - What information is important for them to see first?
 - Do the terms we use on the profile make sense/mean anything to users?
 - Has the side nav increased scanability of the new profile? Do people find what the need easily?
@@ -60,16 +61,13 @@ Criteria for recruiting:
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
 ## Timeline 	
-This study will take place on March 12,13 and 16, 2020.
+This study will take place on TBD.
 Each session will be approximately 45 minutes.
 	
 ### Team Availability (EST)
 
 Date | Time
 -----|-------
-March 12 | 11AM - 6PM
-March 13 | 11AM - 4PM
-March 16 | 11AM - 6PM
 
 A pilot session will be held on TBD
 Pilot participant: TBD
@@ -82,8 +80,8 @@ Please list the people who will be serving in each role.
 - Participant recruiting & screening: Perigean
 - Project point of contact: Tressa Furner	
 - Participant(s) for pilot test: TBD
-- Note-takers: TBD
-- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley (bconley@governmentcio.com), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us)
+- Note-takers: Aricka Lewis (aricka@adhocteam.us)
+- Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley (bconley@governmentcio.com), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us), Carey Otto (carey.otto@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
