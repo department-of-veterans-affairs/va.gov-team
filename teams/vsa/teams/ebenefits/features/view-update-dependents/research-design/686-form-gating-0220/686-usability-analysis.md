@@ -10,12 +10,11 @@
 
 The 686 is 12 pages in its paper incarnation, and it supports eight discrete workflows (eBenefits adds the 21-674). Once deployed to VA.gov, the 686 will be one of the site’s  longer, more complex forms . The new 686 must be developed within the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
 
-
 **Our research goals:** The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
 
-- Is the checkbox selection an acceptable way for users to enter the form?
+- Is the checkbox selection an acceptable way for users to select options and enter the form?
 - What support will users need to navigate and successfully submit the form?
-- Have we properly "chaptered" the various business workflows?
+- Have we properly "chaptered" the various business workflows; does the "flow" make sense to users?
 - What problems arise from longer/complicated chapter combinations?
 
 **Our hypotheses:** The 686 is a long and complicated form in its entirety, but the digital version should prove more user-friendly with user-selectable workflows and "step-by-step" chapter-based screens.
@@ -25,10 +24,9 @@ The 686 is 12 pages in its paper incarnation, and it supports eight discrete wor
 - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form
 - Some users will find the add-spouse workflow will be problematic in its length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood
 
-
 ## Research methodology 
 
-**Our methodology:** Usability testing was conducted remotely using  Zoom. Participants were spilt into two groups and were given either  “add spouse & child/remove child” or “add student/remove student” tasks. Both groups were given wayfinding, intro, selection, review and confirmation tasks.  Users were presented with a high-fidelity prototype created using Adobe XD.
+**Our methodology:** Usability testing was conducted remotely using Zoom. Participants were spilt into two groups and were given either “add spouse & child/remove child” or “add student/remove student” tasks. Both groups were given wayfinding, intro, selection, review and confirmation tasks. Users were presented with a high-fidelity prototype created using Adobe XD.
 
 The moderator prompted users with tasks and questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their impressions. Remote observers and note takers were in attendance, and all sessions were recorded.
 
@@ -42,28 +40,30 @@ The moderator prompted users with tasks and questions from the conversation guid
 - Participant ages ranged from 25-74 years
 - Two were familiar with the 21-686c
 
-
 **Our guiding questions:**
+- Where on VA.gov would participants expect to add or remove dependents from their disability award?
 - Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?
 - Are the forms presented clearly and easy to understand by Veterans?
 - Where do users need examples, guidance or section headers as they interact with the form?
 - Where are the pain points in the longer workflows (add-spouse/add-child, add-student)?
 - What are users' experiences with the current 21-686c (paper, digital, VSO, etc.)?
 - Do participants know they have to reports changes in their dependents' status?
-- What workflow combinations (scenarios) do users think are likely?
 
 ## Key findings
 **Our top findings:**
-- Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections.
-- Users generally scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they wanted additional information up-front.
-- No participant seemed to notice there were two forms presented: 21-686c and 21-674.
-- Participants universally accepted the "checkbox" workflow selection strategy, and most stated they preferred to handle multiple workflows in one session.
-- Participants accepted the "workflow" arragement of the form without question.
-- Additional explanation and guidance is needed for certain key sections of the form (e.g. student address, marriage types and term dates).
-- The former marriage sections of the add spouse workflow was deemed acceptable.
-- The presentation of the introduction page, confirmation page, and the form itself was generally acceptable to users.
-- Generally, users moved through the longers workflows of the form quickly, with little prompting.
-- Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button.
+- Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections
+- Users generally only scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they asked for additional information up-front (in the Introduction):
+  - Married children
+  - School addresses
+  - Student income/net worth
+  - Prior term school info
+- Additional explanation and guidance is needed for certain key sections of the form:
+  - Spouse Veteran status
+  - Marriage types
+  - Service & file numbers
+  - Student address
+- Participants accepted the checkbox "workflow" arragement of the form without question; and users moved through both the long and short workflows of the form quickly, with little prompting
+- Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button
 
 ## Details of findings
 **Wayfinding = wandering:**
@@ -116,12 +116,12 @@ There were several smaller issues centered on submission confirmation and printi
 
 ## Additional insights
 **Other things we learned**
+- No participant seemed to notice there were two forms presented: 21-686c and 21-674.
 - Six participants (85.7%) said they would use a laptop or desktop computer to submit and print forms; one user (14.3%) preferred a tablet
 - Though many users said they used their phones for browsing websites, none would use their phones for the tasks they were given
-- Three Veterans (37.5%) did not know what their service or file number was; one said SSN 
+- The form does not directly accommodate a homeless Veteran or family member
 - Two users (12.5%) commented on the green button on the intro page; one saying colorblind people might prefer yellow, the other said they were colorblind, but they knew it was green
 - No participant used the "back" button at the bottom of each screen of the form
-- Two participants (12.5%) gave positive comments about the progress indicator
 
 ## Recommendations
 **What we recommend**
