@@ -1,0 +1,61 @@
+# Logged in homepage: Research needs
+
+## This doc
+
+We want to outline our research/discovery needs for the new logged in homepage. Given that Samara and Clarice's availability is limited, we're hoping a clear outline will help us figure out what parts of this discovery phase can be managed by us and where we might need to bring in additional resources.
+
+## Project background
+
+Prior to the launch of the new VA.gov in November 2018, the homepage on Vets.gov was a personalized page that allowed veterans to view their in-progress applications, claims, messages, and prescriptions. When the new VA.gov launched, this dashboard was renamed My VA and no longer served as the logged in homepage; users' logged in homepage remained the same as the logged out homepage.
+
+As time has gone on, My VA has grown but scaled poorly due to the structure set in the MVP. Additionally, the logged in homepage and My VA have competed for veteran attention and focus and are largely redundant of each other. What differs is their approach — the logged in homepage is primarily a router, while My VA is very much a dashboard.
+
+Through [research we did over the summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md), we determined that it's time to revisit both My VA and the logged in homepage. [We have proposed conslidating these two pages into one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#key-takeaway-we-need-to-revisit-our-my-va-logged-in-homepage-approach) by getting rid of My VA altogether and treating the logged-in homepage as a user's personalized landing pad and router. 
+
+While we're sure of what we want to do, the exact approach is still undefined. We would like to complete a discovery phase in order to help us better define user expectations, stakeholder needs, and what tools we need to include on the new logged in homepage.
+
+## Research needs
+
+### Overview
+
+We'd like to complete the following as part of this discovery effort:
+
+- [Previous research review](#previous-research-review)
+- Analytics review
+- User interviews/testing (and any necessary additional user research)
+- Stakeholder interviews
+
+### Product questions we're trying to answer
+
+We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
+
+To help us figure this out, we'd like to better understand:
+
+- Why people come to VA.gov.
+- What people do on VA.gov
+- How people move through the site.
+- How people use the homepage.
+- How people use My VA.
+- Areas for improvement for existing functionality.
+- How people's experience with the site might change if we had a proper notification system.
+
+### Previous research review
+
+We'd like to go through previous research that has happened on VA.gov that's informed what we have now or what we might like to have/improve in the future. With this context, we can make sure this next research project is supplemental and not redundant of previous research.
+
+This is a non-exhaustive list of some of the previous research that would inform this work. In the event someone else was able to help us with this work, we'd help find any additional research/resources we wanted to be considered.
+
+Past research
+
+- [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
+- [Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
+- [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
+- [Brand consolidation research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/VA.gov%20Relaunch%202018/user-research)
+  - [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203%20Research%20Readout.pptx)
+  - [April 2018 deck 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203b%20Research%20Readout.pptx)
+  - [September 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
+  - [October 1, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-6/Brand%20Consolidation%20Research%20Summary%2010-1-2018_study%206%20only.pptx)
+  - [October 25, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx)
+- My VA research
+  - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
+  
