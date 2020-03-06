@@ -8,7 +8,7 @@
 - Staging link: https://staging.va.gov/disability/view-dependents/
 - va.gov link: tbd
 - [Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)  
-- [Current Mockup](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/screen/f4c5fb1f-44c1-4692-b3e9-e3fad4cfdab3/Dependents-Concept-1)
+- [Current Mockup](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
 
 ### Table of Contents
 
