@@ -1,4 +1,4 @@
-# IA Review and Recommendations - DRAFT
+# IA Review and Recommendations
 
 **Team:** Public Websites
 
@@ -20,8 +20,8 @@
 - All form detail pages will be root level pages, they will not be related to or linked to from the forms search tool or elsewhere on the site, except organic search results. 
 
 **URLs**
-- All landing pages will have a consistent structured URL that can be dynamically generated from form data. 
-  - The form number will be pulled from the forms data and used in the URL preceeded by "/about-form-"
+- All landing pages will have a consistent structured URL that will be dynamically generated from form data. 
+  - The form number will be pulled from the forms data and used in the URL preceeded by "/about-form-"  - exact data field TBD
   - Spaces in form numbers will be replaced by dashes
   - All alpha characters will be lower case
   - All characters in the form name/number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
@@ -56,7 +56,11 @@ No navigational links will be added to these pages, users will access these page
 
 **User Flows:**  
 
-![va-forms-user-flows](https://user-images.githubusercontent.com/20994159/73305106-155ab500-41df-11ea-9edc-88d63c940399.png)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/ec5630d9-5c71-4ebb-90ab-466cee1d5c8c)
+
+- External search results can/will include a direct link to the online form (preferred), a link to the How to Apply page, a link to the form detail page, a direct link to the pdf (least preferred).
+- VA.gov search results can/will include a direct link to the online form (preferred), a link to the How to Apply page, a link to the form detail page, a direct link to the pdf (least preferred).
+- The Va.gov Find a Form search tool results will only include a direct link to the online form (preferred), a link to the How to Apply page, and a direct link to the pdf (least preferred).  It *will not* include a link to these form detail pages.
 
 <hr>
 
@@ -82,7 +86,9 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 
 - Facebook currently appends a "fbclid" parameter to URLs when accessed through a link in a FB post.
   - If a specific form page is redirected, will the redirect recognize the request with the additional parameter and redirect appropriately?
+  - This can be resolved as part of the redirect process. 
   
 - There are a number of OPM forms that currently have search landing pages and appear in the legacy form search results.  Jen will follow up with stakeholders to determine if there is a way to suppress these from showing in the results given they are not VA forms and for internal use only.  
   - If they can be suppressed, users will get a "form not found" message
   - If they cannot be suppressed, we will add some of the higher visited forms to our 1:1 redirect list and direct them to either the OPM or GSA site
+  - This can be resolved as part of the redirect process. 
