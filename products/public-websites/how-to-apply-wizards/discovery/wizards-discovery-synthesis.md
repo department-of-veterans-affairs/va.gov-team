@@ -4,6 +4,8 @@
 
 *DRAFT: last updated 3/5/2020*
 
+## Problem statement
+
 The Public Websites team is working to move/consolidate pre-requisite Wizard steps on Education and Disability content pages within the application tool landing page in order to:
 
 1. Make the Veteran experience of starting their online application more seamless.
@@ -11,7 +13,7 @@ The Public Websites team is working to move/consolidate pre-requisite Wizard ste
 
 [Our epic (#6315)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6315) contains more details about the problem we're addressing.
 
-## Discovery Goals
+## Discovery goals
 
 In this stage of discovery, I seek to understand:
 
@@ -19,7 +21,7 @@ In this stage of discovery, I seek to understand:
 - How did the wizards get to live on the content page rather than on the tool pages?
 - What other options have been explored other than putting wizards directly on the content pages?
 
-## Relevant Meetings
+## Relevant meetings
 
 3/3/2020: Mikki Northius, IA (with Kelson Adams and Aruna Kucherlapati).  [Notes here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/20200303-ia-discovery.md)
 
