@@ -123,6 +123,4 @@ This is one of the weaknesses with Git Flow, which requires additional managemen
 
 <hr>
 
-Back: [Review Instances](review-instances.md)
-
-Next: [Vets Website Introduction](vets-website/README.md)
+Next: [Vets Website Introduction](frontend/vets-website/README.md)

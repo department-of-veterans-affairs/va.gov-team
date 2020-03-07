@@ -15,6 +15,6 @@ how to ship changes to Vets-Website.
 
 <hr>
 
-Back: [Vets Website Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/architecture.md)
+Back: [Vets Website Architecture](architecture.md)
 
-Next: [Vets Website Form Tutorial - Basic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/form-tutorial-basic.md)
+Next: [Vets Website Form Tutorial - Basic](form-tutorial-basic.md)
