@@ -2,7 +2,7 @@
 
 ## 2017 Studies 
 
-Lauren Alexanderson and Jeff Barnes completed discovery, accessibility, and usability studies on VAOS in 2017. The output of these studies may be found in the vets.gov-team repo. [Scheduling research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research)
+Lauren Alexanderson and Jeff Barnes completed discovery, accessibility, and usability studies on VAOS in 2017. The output of these studies may be found in the va.gov-team repo. [Scheduling research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research)
 
 ## 2019 Studies 
 

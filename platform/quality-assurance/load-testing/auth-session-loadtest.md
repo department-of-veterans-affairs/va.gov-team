@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Using authenticated sessions for load testing
 
 ## Things you need

@@ -1,5 +1,3 @@
-__Please note: many links in this document point to documents in the vets.gov-team repo.__
-
 # Product Outline: Combine Profile and Account
 
 ## Communications

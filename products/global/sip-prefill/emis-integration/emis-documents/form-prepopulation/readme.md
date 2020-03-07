@@ -20,4 +20,4 @@ As a veteran completing benefits forms, I want my military service information t
 * A production release is constrained by an updated MOU, PIA, PTA, and ATO documents.
 
 ## Document Links
-* The canonical source for all documentation for this project is the vets.gov-team repository, in the `/Products/eMIS_Integration/form_prepopulation` directory.
+* The canonical source for all documentation for this project is the vets.gov-team repository, in the [`/Products/eMIS_Integration/form_prepopulation`](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/sip-prefill/emis-integration/emis-documents/form-prepopulation) directory.

@@ -13,7 +13,7 @@ To request support from the VSP team, drop us a line in Slack at [`#vfs-platform
 
 <!--
  TODO: update org chart
- * [Org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
+ * [Org chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
  -->
 
 ## Production emergencies

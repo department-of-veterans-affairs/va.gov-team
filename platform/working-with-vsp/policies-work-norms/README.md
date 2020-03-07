@@ -63,7 +63,7 @@ GitHub is a system that stores documents and keeps a revision history of those f
     * Useful READMEs tell people what's in the sub-folders and files **before they click into them**.
     * Consider a TOC approach.
 1. Use a predictable folder structure.
-    * Follow examples set by people/teams who came before you. Browse around in ```vets.gov-team``` repo to see what other teams have done.
+    * Follow examples set by people/teams who came before you. Browse around in ```va.gov-team``` repo to see what other teams have done.
     * Don't make a bunch of sub-folders that each only contain a few files. This makes it much harder for people to find things.
 1. When a folder contains 12 or more files, start thinking about grouping files into sub-folders to make it easier for people to find stuff.
 
