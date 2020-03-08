@@ -186,7 +186,16 @@ VA.gov's MVP debt letters page
 # Appendix
 
 ## Legislation
-#### Veterans Fair Debt Notice Act of 2017
+### Veterans Fair Debt Notice Act of 2017 (H.R.3705)
+https://www.congress.gov/bill/115th-congress/house-bill/3705
+
+#### Summary
+This bill directs the Department of Veterans Affairs (VA) to collaborate with veterans service organizations to write a standard letter to be provided to individuals who owe debts to the VA. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of: (1) why the individual owes such money, and (2) available options.
+
+The VA shall develop a method by which individuals may elect to receive debt notification letters by electronic means and shall ensure that the letter is delivered: (1) by both standard mail and electronic means to individuals who have made such election, and (2) only by standard mail to individuals who have not made such election.
+
+The VA shall: (1) notify Congress regarding the completion of such letter, and (2) study and report to Congress on the process by which it notifies veterans of debt collection efforts.
+#### Full Text
 H. R. 3705
 IN THE SENATE OF THE UNITED STATES
 November 9, 2017
