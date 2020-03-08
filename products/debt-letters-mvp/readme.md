@@ -186,6 +186,7 @@ VA.gov's MVP debt letters page
 # Appendix
 
 ## Legislation
+There are two (2) relevant pieces of legislation driving this work: the Veterans Fair Debt Notice Act of 2017, and the Veterans Benefits and Transition Act of 2018. The first was the originating piece of legislation essentially directing the VA to do three things in a kind-of non-specific way: make their debt communications more clear, make them available electronically, and report in to Congress regularly. The second bill (which doesn't appear to have actually passed yet, although it is what the VA is citing as the driver for this work) gets more specific about how the VA will actually meet the objectives of clarity and digital called out in the first bill. Summaries, full text, and links to the official record for each are below.
 ### Veterans Fair Debt Notice Act of 2017 (H.R.3705)
 https://www.congress.gov/bill/115th-congress/house-bill/3705
 
