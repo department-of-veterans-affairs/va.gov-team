@@ -56,6 +56,7 @@ Last Updated February 26, 2020
 # Executive Summary
 
 There’s an overarching project called the Veteran Debt Processing Enhancement that was put into place due to several overarching legislative requirements specifically related to Veteran debt.  VA is working on a comprehensive solution across all administrations that encompasses all requirements, to include business process re-engineering and modernization of systems.
+
 As an initial MVP, the DMC is looking to demonstrate forward progress on this initiative by implementing a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them.
 
 ## User Problem Statement
@@ -128,9 +129,13 @@ https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHM
 
 ## Status
 
-**February 2020**
+#### 03/06/2020
+BAM2 conducted an internal project introduction where action items were:
+- Matt to conduct pre-discovery aimed at clarifying the product AND project landscape (what and who), and making first contact with initial SMEs we'd like to conduct interviews with, including those within DEPO
+- Adding artifacts/documentat to the PO (DMC proposal, legislation, sample letters and types, etc.)
 
-On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 to be slotted in as our next project. We will be moving forward with the project. Our first major milestone will be creating and delivering a first draft roadmap to all stakeholders; the target window for delivering this roadmap is early March 2020.
+#### 02/27/2020
+The Debt Letters MVP was officially assigned to BAM2 to be slotted in as our next project. We will be moving forward with the project. Our first major milestone will be creating and delivering a first draft roadmap to all stakeholders; the target window for delivering this roadmap is April 2020.
 
 ## Solution Narrative
 
@@ -146,7 +151,7 @@ On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 
 
 ## Service Level Objective
 
-TBD; sample below from MyVA team
+**TBD; sample below from MyVA team**
 
 | Service&#160;Level&#160;Indicator | Service Level Objective |
 | :-------------------------------- | ----------------------- |
@@ -159,7 +164,7 @@ TBD; sample below from MyVA team
 VBMS eFolder
 - We've been told that there are five (5) unique debt letter types that are currently available in a Veterans eFolder (where applicable)
 - That means we will need to integrate with the eFolder to be able to retrieve each of those different letter types for a given Veteran
-- We are reliant on letters in the eFolder being consistently and accurately identifiable; in other words, there needs to be a defined set of characteristics (a taxonomy, if you must) for each of the letter types we care about, and that definition needs to be adhered to in order for the solution to succeed
+- We are reliant on letters in the eFolder being consistently and accurately identifiable; in other words, there needs to be a defined set of identifiers for each of the letter types we care about, and that definition needs to be applied consistently to the actual letters within the eFolder in order for the solution to succeed
 - The burder of defining and maintaing the letter taxonomy will be managed, both up-front and on an ongoing basis by our partners in...(DMC? VBMS? Other?)
 
 ## On Call Support
@@ -168,16 +173,15 @@ VBMS eFolder
 
 ## Design 
 
-- The Debt Letters MVP lo-fi mock-ups can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
-- The Debt Letters MVP product designs can be found [here](https://)
+- The Debt Letters MVP lo-fi mock-ups can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/design)
+- The Debt Letters MVP product designs can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/design)
 
 ### Screenshots
 
 #### Before
+![Debt Management Center Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/DMC%20Homepage.png)
 
-![DMC Veteran-facing homepage](https://)
-
-![DMC debt payment hub](https://)
+![DMC Online Payment Portal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/VA%20Current%20Debt%20Payment%20Site.png)
 
 #### After 
 
@@ -185,7 +189,6 @@ VA.gov's MVP debt letters page
 ![DMC debt payment hub](https://)
 
 # Appendix
-
 ## DMC Proposal
 This document was provided to DEPO (Chris Johnston, Andrea Schneider, Steve Kovacs, Matthew Self) from our executive partners within the Veterans Experience Office (VEO). This was the document that ultimately formed the basis of the intake work request (https://github.com/department-of-veterans-affairs/digitalservice/issues/1072) that was proposed during DEPO product intake on February 24, 2020.
 
