@@ -242,3 +242,62 @@ SEC. 2. DEPARTMENT OF VETERANS AFFAIRS NOTICE RELATING TO DEBT COLLECTION ACTIVI
 (2) REPORT.—Not later than 12 months after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the study conducted under paragraph (1).
 
 Passed the House of Representatives November 8, 2017.
+
+### Veterans Benefits and Transition Act of 2018 (S.2248)
+https://www.congress.gov/bill/115th-congress/senate-bill/2884
+
+#### Summary
+This bill directs the Department of Veterans Affairs (VA) to collaborate with veterans service organizations to write a standard letter to be provided to individuals who owe debts to the VA. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of: (1) why the individual owes such money, and (2) available options.
+
+The VA shall develop a method by which individuals may elect to receive debt notification letters by electronic means and shall ensure that the letter is delivered: (1) by both standard mail and electronic means to individuals who have made such election, and (2) only by standard mail to individuals who have not made such election.
+#### Full Text
+To require the Secretary of Veterans Affairs to develop a standard letter format to be provided to individuals who are indebted to the United States by virtue of their participation in benefits programs administered by the Secretary, to provide notice of debt by electronic means to such individuals when so elected, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+
+This Act may be cited as the “Veterans Fair Debt Notice Act of 2018”.
+
+SEC. 2. DEPARTMENT OF VETERANS AFFAIRS NOTICE RELATING TO DEBT COLLECTION ACTIVITIES.
+
+(a) Debt Notification Letter Formats.—The Secretary of Veterans Affairs shall collaborate with veterans service organizations to develop a standard format for any letter provided to individuals who the Secretary determines are indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of—
+
+(1) why the individual is indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary; and
+
+(2) the options available to the individual.
+
+(b) Delivery Of Debt Notices By Standard Mail And Electronic Means.—The Secretary shall develop a method by which individuals may elect to receive notice of debt by electronic means and shall ensure, to the extent practicable, that the letter developed under subsection (a) is delivered—
+
+(1) by both standard mail and by electronic means to intended recipients who have made such an election; and
+
+(2) only by standard mail to intended recipients who have not made such an election.
+
+(c) Notice To Congress.—
+
+(1) NOTICES OF COMPLETION.—Upon completion of the development of the standard letter format required under subsection (a) and upon completion of development of the method under subsection (b), the Secretary shall submit to Congress notice of the completion of the development.
+
+(2) PROGRESS REPORTS.—If the Secretary has not submitted each notice required by paragraph (1) by the date that is 90 days after the date of the enactment of this Act, the Secretary shall—
+
+(A) submit to Congress a report describing the progress of the Secretary toward implementing subsections (a) and (b) and an explanation for why the respective development has not been completed; and
+
+(B) every 30 days thereafter until all of the notices required by paragraph (1) have been submitted, submit to Congress an update to the report under subparagraph (A) that includes an additional explanation for the failure to complete the respective development.
+
+(d) Study And Report.—
+
+(1) STUDY.—The Secretary of Veterans Affairs, in coordination with the Secretary of the Treasury, shall conduct a study on the process by which individuals who are indebted to the United States by virtue of their participation in a benefits program administered by the Secretary of Veterans Affairs are notified of debt collection efforts relating to such indebtedness.
+
+(2) ELEMENTS.—The study required by paragraph (1) shall include the following:
+
+(A) An analysis of the scope of the problem of individuals who are indebted to the United States by virtue of their participation in a benefits program administered by the Secretary of Veterans Affairs not receiving debt collection notices relating to such indebtedness.
+
+(B) Identification of administrative actions the Secretary of Veterans Affairs and the Secretary of the Treasury can carry out to reduce the number of incorrect or unknown addresses of such individuals in the databases of the Department Veterans Affairs and the Department of the Treasury and a timeline for carrying out such actions.
+
+(C) An estimate of the costs associated with sending debt collection notices to such individuals by certified mail.
+
+(D) An analysis of whether, or to what extent, sending debt collection notices to such individuals by certified mail would address the problem analyzed under subparagraph (A).
+
+(E) An analysis of the requirements and resources that would be necessary to develop the capability for creating a single consolidated snapshot of a veteran's debt.
+
+(F) An analysis of the extent to which individuals indebted to the United States by virtue of their participation in a benefits program administered by the Secretary of Veterans Affairs are so indebted as a result of an error, misrepresentation, or fraud by such individuals.
+
+(3) REPORT.—Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, in coordination with the Secretary of the Treasury, shall submit to Congress a report on the findings of the Secretaries with respect to the study conducted under paragraph (1).
