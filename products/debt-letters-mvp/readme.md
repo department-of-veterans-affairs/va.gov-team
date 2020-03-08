@@ -188,13 +188,14 @@ VA.gov's MVP debt letters page
 
 ## DMC Proposed Epic
 This document was provided to DEPO (Chris Johnston, Andrea Schneider, Steve Kovacs, Matthew Self) from our executive partners within the Veterans Experience Office (VEO). This was the document that ultimately formed the basis of the intake work request (https://github.com/department-of-veterans-affairs/digitalservice/issues/1072) that was proposed during DEPO product intake on February 24, 2020.
+
 The original document can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/debt-letters-mvp/discovery/DMC%20Proposed%20EPIC%20(%22Light%22%20version).docx. Text below.
 
 ### Veteran Debt Processing Enhancements LIGHT 
 #### Epic Summary
 This is a potential FY20 quick win solution to enhance veteran experience by providing veterans a limited view of Veteran Debt Letters and leveraging an existing Veteran-facing platform, with  delectronic notification of viewing availability.
-This solution addresses only one of the requirements per legislation S.2248 Veterans Benefits and Transition Act of 2018: “delivery of debt notices by standard mail and electronic means.”
-Currently, debt letter delivery is limited to US Mail notification.
+
+This solution addresses only one of the requirements per legislation S.2248 Veterans Benefits and Transition Act of 2018: “delivery of debt notices by standard mail and electronic means.” Currently, debt letter delivery is limited to US Mail notification.
 
 #### Contacts
 Requested by: Debt Management Center (DMC)
@@ -203,11 +204,11 @@ Point of Contact: Jason Hoge
 #### Epic Value Statement:
 We will provide online access of four (4) debt letters to increase visibility.
 
-For: Veterans
+**For:** Veterans
 
-Who: Veterans with profiles in VA Profile, a self-service platform maintained by VEO and formerly known as VETS360, who will benefit from automated emails notifying them that their debt letters are available to view online.
+**Who:** Veterans with profiles in VA Profile, a self-service platform maintained by VEO and formerly known as VETS360, who will benefit from automated emails notifying them that their debt letters are available to view online.
 
-The: This Quick Win capability will provide:
+**The:** This Quick Win capability will provide:
 1. Veteran debt letters displayed via VA.GOV or another veteran-facing system where veterans create a profile. The display will be a digital image like a .jpg, .png, etc.
 
 2. A landing page on an existing Veteran-facing platform to allow viewing of VA debt letters.  The expectation is that four (4) Debt Letter types will be available, as not all debt letters are in-scope.  (Debt  letters, their origin, totality, and the system in which they reside will be vetted and confirmed by OIT, DMC, VBA and VEO).
@@ -220,11 +221,11 @@ The: This Quick Win capability will provide:
 
 6. A technical solution that communicates with VBMS, the datasource of DMC debt letters, that is capable of pulling DMC debt letters from VBMS.
 
-That: The compelling key benefit is that this functionailty dramatically enhances the Veteran experience and complies with a portion of the Veterans and Benefit Transition Act of 2018: delivery of debt notices by standard mail and electronic means. This does not address the rest of the sections of the said law.
+**That:** The compelling key benefit is that this functionailty dramatically enhances the Veteran experience and complies with a portion of the Veterans and Benefit Transition Act of 2018: delivery of debt notices by standard mail and electronic means. This does not address the rest of the sections of the said law.
 
-Unlike: Current means of antiquated debt letter delivery using ordinary mail alone no longer meets the needs of veterans because of its inability to provide timely and accurate current status and amounts related to veteran debt. There is no online access for veterans to view their Debt Letters.
+**Unlike:** Current means of antiquated debt letter delivery using ordinary mail alone no longer meets the needs of veterans because of its inability to provide timely and accurate current status and amounts related to veteran debt. There is no online access for veterans to view their Debt Letters.
 
-Our Process/Solution Will:
+**Our Process/Solution Will:**
 - Provide a limited view of VA debt letters to Veterans with automated, electronic notification and ability to view their Debt Letters online.
 - Enhance veteran experience related to Debt Letters
 - Bring VA debt notification online and move VA forward in our pursit to resolve misalignment with current industry standards, in compliance with a portion of the Veterans and Benefit Transition Act of 2018. 
