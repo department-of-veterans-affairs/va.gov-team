@@ -1,8 +1,5 @@
-## "Based on 2019 processed data, LCM(?) processed/uploaded the following DMC letters into VBMS" - Minh Bang(?) via email 03/05/2020:
+### "Based on 2019 processed data, LCM(?) processed/uploaded the following DMC letters into VBMS" - Minh Bang(?) via email 03/05/2020:
 tl;dr This data seems to indicate VBMS currently contains six (6) debt letters, as indicated by the "Doc Type ID" column below:
-
-
-
 
 
 |DMC Letter|Doc Type ID|Doc Type|Doc Subject|
