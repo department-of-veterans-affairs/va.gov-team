@@ -188,15 +188,15 @@ VA.gov's MVP debt letters page
 
 ## DMC's Proposed Epic
 This document was provided to DEPO (Chris Johnston, Andrea Schneider, Steve Kovacs, Matthew Self) from our executive partners within the Veterans Experience Office (VEO). This was the document that ultimately formed the basis of the intake work request (https://github.com/department-of-veterans-affairs/digitalservice/issues/1072) that was proposed during DEPO product intake on February 24, 2020.
-The original document can be found here. Text below.
+The original document can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/debt-letters-mvp/discovery/DMC%20Proposed%20EPIC%20(%22Light%22%20version).docx. Text below.
 
 #### Veteran Debt Processing Enhancements LIGHT 
-Epic Summary:
-This is a potential FY20 quick win solution to enhance veteran experience by providing veterans a limited view of Veteran Debt Letters and leveraging an existing Veteran-facing platform, with  delectronic notification of viewing availability.
+|||
+|Epic Summary|This is a potential FY20 quick win solution to enhance veteran experience by providing veterans a limited view of Veteran Debt Letters and leveraging an existing Veteran-facing platform, with  delectronic notification of viewing availability.
 
 This solution addresses only one of the requirements per legislation S.2248 Veterans Benefits and Transition Act of 2018: “delivery of debt notices by standard mail and electronic means.”
 
-Currently, debt letter delivery is limited to US Mail notification. 
+Currently, debt letter delivery is limited to US Mail notification.|
 
 Requested by:
 Debt Management Center (DMC)
