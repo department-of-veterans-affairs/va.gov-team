@@ -193,11 +193,9 @@ The original document can be found here: https://github.com/department-of-vetera
 #### Veteran Debt Processing Enhancements LIGHT 
 |Name|Role|
 |----|----|
-|Epic Summary|This|
+|Epic Summary|This
 is a potential FY20 quick win solution to enhance veteran experience by providing veterans a limited view of Veteran Debt Letters and leveraging an existing Veteran-facing platform, with  delectronic notification of viewing availability.
-
 This solution addresses only one of the requirements per legislation S.2248 Veterans Benefits and Transition Act of 2018: “delivery of debt notices by standard mail and electronic means.”
-
 Currently, debt letter delivery is limited to US Mail notification.|
 
 Requested by:
