@@ -47,6 +47,9 @@ Last Updated February 26, 2020
 - [Design](#design)
 - [Screenshots](#screenshots)
 
+# Appendix
+- [Legislation](#legislation)
+
 ---
  
 # Executive Summary
@@ -179,3 +182,7 @@ VBMS eFolder
 
 VA.gov's MVP debt letters page
 ![DMC debt payment hub](https://)
+
+# Appendix
+
+## User Problem Statement
