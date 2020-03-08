@@ -48,7 +48,7 @@ Last Updated February 26, 2020
 - [Screenshots](#screenshots)
 
 # Appendix
-- [DMC Proposed Epic](#dmc-proposal)
+- [DMC Proposal](#proposal)
 - [Legislation](#legislation)
 
 ---
@@ -185,8 +185,8 @@ VA.gov's MVP debt letters page
 ![DMC debt payment hub](https://)
 
 # Appendix
-https://www.va.gov/debtman/
-## DMC Proposed Epic
+
+## DMC Proposal
 This document was provided to DEPO (Chris Johnston, Andrea Schneider, Steve Kovacs, Matthew Self) from our executive partners within the Veterans Experience Office (VEO). This was the document that ultimately formed the basis of the intake work request (https://github.com/department-of-veterans-affairs/digitalservice/issues/1072) that was proposed during DEPO product intake on February 24, 2020.
 
 The original document can be found here: https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/debt-letters-mvp/discovery/DMC%20Proposed%20EPIC%20(%22Light%22%20version).docx. Text below.
