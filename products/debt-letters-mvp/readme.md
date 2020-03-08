@@ -186,10 +186,11 @@ VA.gov's MVP debt letters page
 
 # Appendix
 
-## DMC Proposed Epic
-This is the 
-Epic Name:
-Veteran Debt Processing Enhancements LIGHT 
+## DMC's Proposed Epic
+This document was provided to DEPO (Chris Johnston, Andrea Schneider, Steve Kovacs, Matthew Self) from our executive partners within the Veterans Experience Office (VEO). This was the document that ultimately formed the basis of the intake work request (https://github.com/department-of-veterans-affairs/digitalservice/issues/1072) that was proposed during DEPO product intake on February 24, 2020.
+The original document can be found here. Text below.
+
+#### Veteran Debt Processing Enhancements LIGHT 
 Epic Summary:
 This is a potential FY20 quick win solution to enhance veteran experience by providing veterans a limited view of Veteran Debt Letters and leveraging an existing Veteran-facing platform, with  delectronic notification of viewing availability.
 
