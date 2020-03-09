@@ -55,7 +55,7 @@ The moderator prompted users with tasks and questions from the conversation guid
 2. Users generally scanned the introduction page; once they were completing the form, they noted they needed additional information up-front (in the Introduction):
   - Married children
   - School addresses
-  - Prior term school info
+  - Prior term school info (e.g. high school or college)
   - Student income/net worth
 3. Additional explanation and guidance is needed for certain key sections of the form:
   - Spouse Veteran status
@@ -130,7 +130,7 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 ## Recommendations
 **What we recommend:**
 - Maintain the form’s checkbox selection screen; continue to refine selection text ("notify" vs. "report")
-- Add guidance, examples and instructions to the marriage types and child marriage sections (686); and to the school term dates, prior school and student address sections (674) of the form
+- Add guidance, examples and instructions to the marriage types and married child sections (686); and to the school term dates, prior school and student address sections (674) of the form
 - Continue with the current designed flow of the form, but conduct follow-up usability testing on “live” pages after initial development to uncover pain points
 - Add clarifying text to the introduction screen to better identify information needed to complete the form; include implications of potentially “disqualifying” statuses (e.g. married child, Veteran spouse)
 - Investigate “printable form” feature in eBenefits, confirmation IDs, and “print” button functionality
