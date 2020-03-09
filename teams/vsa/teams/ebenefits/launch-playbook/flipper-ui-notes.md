@@ -40,7 +40,7 @@ VSA Teams need a way to deploy features on Drupal where there are static pages u
 Flipper does a really great job of giving this control based on traffic percentage but only on components that are built using React, not static pages written in the Drupal CMS.
 
 ### Proposed Solution A
-- Embed a React component in the static landing page that acts as an A/B switch between the legacy and new application.  This entrance would most likely look exactly like a login or action button that, upon clicking, is informed by Flipper which page to send the user to.
+- Embed a React component in the static landing page that acts as an A/B switch between the legacy and new application.  This entrance would most likely look exactly like a login or action button that, upon clicking, is informed by Flipper which page to send the user to. We will also need to wrap the 686 form itself in a flipper component that redirects traffic that are not included in the test group to another page that is TBD
 
 ### Considerations
 Eventually we may want to present the application directly and without authentication and to do this, we would operate Flipper with its intended behavior and wrap the application so a percentage of traffic moves through the new code vs redirected to the previous application.
