@@ -120,10 +120,10 @@ In this stage of discovery, I seek to understand:
 - Filter button (functionality is more similar to an "enter" button)
 - Display options: 3 months, 6 months, 1 year, All
 	- When no data is avalable
-	> - No returned payment information is available to display. Try increasing the display date range to see more information.
+	> No returned payment information is available to display. Try increasing the display date range to see more information.
 - Print This Page
 - About Payments
-	>- About Returned Payments
+	> About Returned Payments
 	> Disclaimer: Detailed information about some benefits payments may not be available online. For example, payments made in amounts less than $1 for direct deposit or $5 for mailed checks will not be displayed in your online payment history. Gross payments and modifications will display only for recurring and irregular compensation payments. If you have questions about payments made by VA, please call the VA Help Desk at 1-800-827-1000.
 
 	> Six Years Available: Returned payment information is available for 6 years from the date the payment was issued.
