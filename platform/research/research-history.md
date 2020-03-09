@@ -14,6 +14,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### March 2020
 
+#### March 4-6: Facility Locator User Search Expectations
+*VSA Facilities, Aricka Lewis*
+
+- 5 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020)
+
 #### March 2-4: GI Bill Comparison Tool - Caution Flags & Reducing Veteran Risk in School Selection  
 *Booz Allen: Amy Knox, Cindy Cruz*
 
