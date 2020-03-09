@@ -9,7 +9,7 @@ This page provides information on The Program for Comprehensive Assistance for F
 
 ### Interaction Notes 
 - Apply for caregiver benefits goes to intro page 
-- Addtional components expand if clicked. [You can see expanded component here](https://vsateams.invisionapp.com/share/UDW9MPS5ETW#/407498251_Content_Caregiver_First_LM) 
+- Addtional components expand if clicked. [You can see expanded components here](https://vsateams.invisionapp.com/share/UDW9MPS5ETW#/407498251_Content_Caregiver_First_LM) 
 
 ### Content
 
