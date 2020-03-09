@@ -160,12 +160,22 @@ The Debt Letters MVP was officially assigned to BAM2 to be slotted in as our nex
 | Incident Response | Initial acknowledgement of the issue within 15 minutes of a triggered alert<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/2913da3512a65a8cb988ad189235794ed1067299/terraform/modules/pagerduty_team/main.tf#L21) |
 
 ## API Calls and Dependent Systems
+### Existing eFolder Integration
+#### Useful Links
+The current VSA team owning this is the Structured Data team. Their product folder contains a bunch of useful information on the existing integrations.
+- Product Folder: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/structured-data)
+- Slack Channel: #vfs-pension-automation
+- Product Manager: Sophie Myers (Sophia.Myers@adhocteam.us)
+- Engineer Lead: Jonathan Julian (Jonathan@adhocteam.us)
+- Engineer: Keith Adkins (Keith.Adkins@adhocteam.us)
+- Engineer: Ben Shyong (Ben.Shyong@adhocteam.us)
 
-VBMS eFolder
-- We've been told that there are five (5) unique debt letter types that are currently available in a Veterans eFolder (where applicable)
-- That means we will need to integrate with the eFolder to be able to retrieve each of those different letter types for a given Veteran
-- We are reliant on letters in the eFolder being consistently and accurately identifiable; in other words, there needs to be a defined set of identifiers for each of the letter types we care about, and that definition needs to be applied consistently to the actual letters within the eFolder in order for the solution to succeed
-- The burder of defining and maintaing the letter taxonomy will be managed, both up-front and on an ongoing basis by our partners in...(DMC? VBMS? Other?)
+#### Background
+We've been told that there are five (5) unique debt letter types that are currently available in a Veterans eFolder (where applicable). This means we will need to integrate with the eFolder to be able to retrieve each of those different letter types and so that the Veteran can interact with them.
+
+This means we are reliant on letters in the eFolder being consistently and accurately identifiable; in other words, there needs to be a defined set of identifiers for each of the letter types we care about, and that definition needs to be applied consistently to the actual letters within the eFolder in order for the solution to succeed.
+
+The burder of defining, applying, and maintaing the letter taxonomy will be managed, on an ongoing basis by our partners within the DMC.
 
 ## On Call Support
 
