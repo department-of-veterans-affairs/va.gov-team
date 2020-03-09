@@ -1,4 +1,4 @@
-# [Facility Locator User Search Expectations] Topline Summary
+# Facility Locator User Search Expectations Topline Summary
 
 `Prepared by: Aricka Lewis, VSA Facilities team
 
