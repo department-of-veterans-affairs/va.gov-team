@@ -16,7 +16,7 @@ This page provides information on The Program for Comprehensive Assistance for F
 Start with [a content page like this]() and edit as needed
 
 ```
-# The Program of Comprehensive Assistance for Family Caregivers 
+#The Program of Comprehensive Assistance for Family Caregivers 
 ## Example of h2 (h3 utility)
 Example content 
 [Primary button] Click here to start application 
