@@ -1,4 +1,4 @@
-# Medical Device Ordering Tool DLC API Proposal v1.2.0
+# Medical Device Ordering Tool DLC API Proposal v1.3.0
 
 ## Overview
 
@@ -10,7 +10,7 @@ This document outlines a set of proposed endpoints, along with corresponding htt
 |-------------|------------------|------------------------------------------------------------------------------------------|
 | GET         | /supplies        | Returns an array of medical supplies and accessories available to order for the veteran. |
 | POST        | /supplies        | Creates a new reorder of medical supplies and/or accessories for the veteran.            |
-| PUT         | /veteran_address | Updates the veteran address.                                                             |
+
 
 ### GET /supplies
 
@@ -158,45 +158,5 @@ Content-Type: application/json
 {
   "status": "success",
   "orderId": "1234abcd1234abcd"
-}
-```
-
-### PUT /veteran_address
-
-#### Request
-
-``` json
-PUT https://fake-api.dlc-example.com/veteran_address
-HTTP/1.1
-Accept-Encoding: *
-va_veteran_id: 5555 // Last 4 digits of SSN
-va_veteran_first_name: Greg 
-va_veteran_middle_name: A
-va_veteran_last_name: Anderson
-va_veteran_birth_date: 1968-10-10
-va_api_key: 1234abcd1234abcd1234abcd1234abcd
-
-{
-  "street": "102 Example Street",
-  "street2": "Apt 7",
-  "city": "Kansas City",
-  "state": "MO",
-  "country": "US",
-  "postalCode": "64117",
-  "isPrimary": "true",
-  "isTemporary": "false"
-}
-```
-
-#### Response
-
-```json
-HTTP/1.1 200 OK
-Date: Thu, Jan 30 2020 21:30:42 GMT
-Transfer-Encoding: chunked
-Content-Type: application/json
-
-{
-  "status": "success"
 }
 ```
