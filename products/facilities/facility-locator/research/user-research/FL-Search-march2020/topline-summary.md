@@ -37,11 +37,12 @@ This topline summary is a result of the synthesis that happens after conducting/
  - All participants referenced the search results first before making note of the map
  - Participants used the search results to scan locations by distance
  - Participants used the map to look at exact the location of a facility
- - Participants also used the map as a secondary way to see how many facilities were a reasonable distance from their location
+ - Participants  used the map as a secondary way to see how many facilities were a reasonable distance from their location
 
 **How do particpants expect to refine their search results?**
  - Participants hesitated to choose a service type and primarily defaulted to facility type
  - No participants looked for a filter to refine their search further than the given dropdowns
+ - Few participants looked past the first page of results shown 
 
 ## Hypotheses & Answers
 **Rural participants will not want to see many return results if the facilities are far away**
@@ -49,12 +50,12 @@ This topline summary is a result of the synthesis that happens after conducting/
  - Rural participants all mentioned only wanting to see 2 to 3 results. They assumed anything else would be too far.
  > "37 miles is too far. I wouldn't drive that far to see my mother..."
  
-**Urban participants will want to see multiple locations and compare them by if they are close**
+**Urban participants will want to see multiple locations and compare them**
  - True
  - All urban participants expected to see a long list of locations that are close to them (within ~10) miles
  - VA locations were prioritized over other locations and distance came second to that
+ - 
  
-
 **Users will be looking for VAMC or VA locations first regarding healthcare related searches**
  - True
  - Participants usually scrolled past non-VA locations or smaller clinics and mentioned that they were looking for a VAMC or similar
@@ -83,3 +84,8 @@ This topline summary is a result of the synthesis that happens after conducting/
 > “Sample quote if relevent”
 
 **Distance and travel time vary by location**
+> "It's not so much a matter of distance as much as being easy to get there. Honestly, if it's accessible via public transit in a reasonable time Frame, 45 min-ish or a cheap, cost effective cab ride."
+
+**Users interpret facility descriptions differently**
+> "I'd be confused by VA health and VA benefits."
+
