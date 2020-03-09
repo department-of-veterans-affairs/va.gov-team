@@ -17,18 +17,18 @@ The most updated version of the full prototype can be viewed [here](https://vsat
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
 
 - **Drupal content pages** 
-   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/content-page.md)
+   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-contentpage.md)
 - **Introduction Screen**
    - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-intropage.md)
-- **Chapter 1: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 2: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 3: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
+- **Chapter 1: [Veteran Information Chapter]**
+   - Page 1: [Vet Info One]()
+   - Page 2: [Vet Info Two]()
+- **Chapter 2: [Primary Caregiver Chapter]**
+   - Page 1: [Primary Caregiver One]()
+   - Page 2: [Primary Caregiver Two]()
+- **Chapter 3: [Secondary Caregivers Chapter]**
+   - Page 1: [Secondary One]()
+   - Page 2: [Secondary Two]()
 - **Chapter 4: Review order** 
    - Page 1: [Review order]()
 - **Confirmation screen** 
