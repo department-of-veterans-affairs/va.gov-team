@@ -1,5 +1,5 @@
 # eBenefits Payment History comparative analysis
-**Digital Services Veterans Affairs (DSVA) | VSA eBenefits Team | March 2020**
+**VSA eBenefits Team | March 2020**
 
 [James Adams](jadams@governmentcio.com)
 
