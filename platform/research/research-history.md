@@ -36,7 +36,7 @@ __Please note that many links on this page reference research folders in the vet
 
 ### January 2020
 
-#### January 30 - February 3: Yellow Ribbon MVP
+#### January 30 - February 3: Yellow Ribbon - Find Participating Schools MVP
 *Public Websites, Liz Lantz*
 - 12 participants (12 scheduled, 2 no show)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/yellow-ribbon-mvp/research)
