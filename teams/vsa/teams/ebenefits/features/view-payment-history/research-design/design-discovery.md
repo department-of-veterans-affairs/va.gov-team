@@ -107,10 +107,13 @@ In this stage of discovery, I seek to understand:
 ### Answers to initial questions
 
 ### Current Features
-[Current UI]()
-[Main Table]()
-[Addiotnal information]()
-[About Payments]()
+ 
+![screenshot](images/payments-list-1.png)
+ 
+![screenshot](images/payments-list-2.png)
+ 
+![screenshot](images/payments-detail.png)
+
 
 ### Feature improveents
 - Combine Main table with Addtional infomration card
@@ -118,10 +121,8 @@ In this stage of discovery, I seek to understand:
 - Other TBD
 - Structuring the UI so that there is one table with 2 headers 
     1. Payments
-    2. 
-
-  
-
+    2. Return payments
+- A table should be displayed when page is opened or DOM is rendered
 
 ## Next Steps
 - Create Research Plan
