@@ -118,6 +118,21 @@ va_veteran_birth_date: 1968-10-10
 va_api_key: 1234abcd1234abcd1234abcd1234abcd
 
 {
+  "veteranAddress": {
+    "street": "101 Example Street",
+    "street2": "Apt 2",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "postalCode": "64117"
+  },
+  "veteranTemporaryAddress": {
+    "street": "201 Example Street",
+    "city": "Galveston",
+    "state": "TX",
+    "country": "US",
+    "postalCode": "77550"
+  },
   "useVeteranAddress": "true",
   "useTemporaryAddress": "false",
   "order": [
