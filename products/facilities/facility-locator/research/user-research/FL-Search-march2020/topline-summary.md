@@ -46,16 +46,24 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Hypotheses & Answers
 **Rural participants will not want to see many return results if the facilities are far away**
  - True
- - 
+ - Rural participants all mentioned only wanting to see 2 to 3 results. They assumed anything else would be too far.
+ > "37 miles is too far. I wouldn't drive that far to see my mother..."
  
 **Urban participants will want to see multiple locations and compare them by if they are close**
- - Answer
+ - True
+ - All urban participants expected to see a long list of locations that are close to them (within ~10) miles
+ - VA locations were prioritized over other locations and distance came second to that
+ 
 
 **Users will be looking for VAMC or VA locations first regarding healthcare related searches**
- - Answer
+ - True
+ - Participants usually scrolled past non-VA locations or smaller clinics and mentioned that they were looking for a VAMC or similar
+ - Most participants mentioned lacking trust in a seamless process with non-VA locations
+ > "I don't have a sense of trust with the VA and going somewhere else, and having it be seamless and easy to do. I'd of course be attracted to the idea of going to something closer than the medical center, but I'd be worried that there'd be an issue with getting the VA to pay for it, so I would default to going to the medical center to be sure there wouldn't be any problems."
 
 **Rural participants may depend on landmarks and they may recognize non-VA locations easier**
- - Answer
+ - Unsolved
+ -
 
 ## Other Findings
 **Participants most common used the Facility Locator when traveling or moving to an unfamiliar area**
