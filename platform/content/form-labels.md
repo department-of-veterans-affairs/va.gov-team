@@ -62,7 +62,7 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                       | Service end date   |      |   |
 |                                       | Character of service   |      | This could also be Character of discharge   |
 |                                       | Service history   |      |   |
-|                                       | Type of service    |  Active duty, drilling reservist, IRR    |    |
+|                                       | Type of service    |  Active duty, drilling reservist, National Guard, IRR    |    |
 |                                       | Are you on active duty now?     |      |   |
 |                                       | Did you serve under another name?    |      |   |
 |                                       | Place of last or anticipated separation   |  City, State, or Foreign country    |  |
@@ -72,6 +72,7 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                       | Expected separation date   |      |   |
 |                                       | Obligation start date   |      |   |
 |                                       | Obligation end date   |      |   |
+|                                       | Most recent entry date|      |   |
 |                                       | Have you ever been a POW?    |      |   |
 |                                       | Start of confinement?    |      |   |
 |                                       | End of confinement?    |      |   |
@@ -79,7 +80,6 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                       | Do you have any periods of service that began before 1978?    |      |   |
 |                                       | Unit name   |      |   |
 |                                       | Military Service number  |      |   |
-|                                       | Unit name   |      |   |
 | **Dependent information**             | Do you have any dependents to report?    |      |   |
 |                                       | Do you have any dependent children?    |      |   |
 |                                       | What's your dependent's relationship to you?   |      |   |
