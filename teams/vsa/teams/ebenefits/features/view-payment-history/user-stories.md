@@ -14,7 +14,6 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 ### User Stories
 1. As a veteran, I need to be able to review my payment history so that I can easily see what payments have been sent out.
 
-
 2. As a veteran, I need to be able to review my return payment history so that I can easily see what payments have been returned.
 
 3. As a veteran, I need to be able to sort my payment history so that I can quickly find the particular date of payment I am searching for.
@@ -23,11 +22,8 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 
 5. As a veteran, I need to be able to sort my return payment history so that I can quickly find the particular date of Return payment I am searching for.
 
-6. As a veteran, I need to be able to filter my return payment history so that I can quickly find a particular date of a return payment I am searching for.
+6. As a veteran, I need to be able to filter my return payment history so that I can quickly find a particular date of a Return payment I am searching for.
 
 7. As a veteran, I need to be able to print my payment table so that I can have a hard copy.
 
 8. As a veteran, I need to be able to print my return payment table so that I can have a hard copy.
-
-
-
