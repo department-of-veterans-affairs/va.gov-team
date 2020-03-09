@@ -114,6 +114,25 @@ In this stage of discovery, I seek to understand:
  
 ![screenshot](images/payments-detail.png)
 
+- Headers
+	- Payments
+	- Returned Payments
+- Filter button (functionality is more similar to an "enter" button)
+- Display options: 3 months, 6 months, 1 year, All
+	- When no data is avalable
+	> - No returned payment information is available to display. Try increasing the display date range to see more information.
+- Print This Page
+- About Payments
+	>- About Returned Payments
+	> Disclaimer: Detailed information about some benefits payments may not be available online. For example, payments made in amounts less than $1 for direct deposit or $5 for mailed checks will not be displayed in your online payment history. Gross payments and modifications will display only for recurring and irregular compensation payments. If you have questions about payments made by VA, please call the VA Help Desk at 1-800-827-1000.
+
+	> Six Years Available: Returned payment information is available for 6 years from the date the payment was issued.
+
+	> Before Reporting Non-Receipt: Please wait at least 3 business days (Monday-Friday) before reporting non-receipt of a payment as check tracing cannot be initiated before that period. To report non-receipt after 3 business days, call 1-800-827-1000 with your Social Security Number or VA Claim Number, your address, and (for direct deposit payments) your account information.
+
+	> If Check is Found: If the original check is found or received, you must return the original check to the Treasury Department and await receipt of the replacement check. If both checks are negotiated, then you will be responsible for the duplicate payment. You will receive a letter from the Debt Management Center with instructions concerning collection.
+
+	
 
 
 
