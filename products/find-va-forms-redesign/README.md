@@ -38,6 +38,12 @@ __VA forms stakeholder working group includes:__
 
 ## Status/Decisions:
 
+## 03/06/2020
+
+"Soft" launched forms search behind basic credentials/access input. This option also keeps the page hidden from search engines and IA, and clearly indicates to visitors that this isn't publicly available yet. 
+
+URL to https://www.va.gov/find-forms  and basic access credentials shared with forms working group. Email invitation to larger VA LOB groups will be sent this week. 
+
 ## 03/05/2020
 
 VSP "staging" review call with @ncksllvn @AkucherGCIO @meganhkelley @jenniferlee-dsva @andreahewitt-odd 
