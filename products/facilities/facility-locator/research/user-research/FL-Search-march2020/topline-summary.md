@@ -1,6 +1,6 @@
 # Facility Locator User Search Expectations Topline Summary
 
-`Prepared by: Aricka Lewis, VSA Facilities team
+Prepared by: Aricka Lewis, VSA Facilities team
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-plan.md) 
 
