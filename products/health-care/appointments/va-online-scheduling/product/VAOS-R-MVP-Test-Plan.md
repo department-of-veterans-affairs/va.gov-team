@@ -16,7 +16,7 @@ As part of the redesign and development, VA Online Scheduling implemented the fo
    - Based on the inability to load test, we will be heavily dependent on our phased rollout plan for MVP deployment. This also means that here is a greater chance of experiencing issues during the phased roll out that will need to be addressed and may cause delays to the phased rollout schedule.  
 
 ## User Acceptance Testing (UAT) Overview
-As part of testing protocol we testing the new VAOS tool with actual users. This ensures the tool can properly handle required tasks in real-world scenarios in a production environment. This also enable us to collect feedback, identify bugs, and eliminate potential risks. 
+As part of testing protocol we test the new VAOS tool with actual users. This ensures the tool can properly handle required tasks in real-world scenarios in a production environment. This also enable us to collect feedback, identify bugs, and eliminate potential risks. 
 
 ### UATs Completed for each Flow
 1. View Appointments / Request List -- Completed Nov 2019, see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/november-2019-uat)
