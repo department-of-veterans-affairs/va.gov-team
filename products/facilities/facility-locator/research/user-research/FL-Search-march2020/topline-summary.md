@@ -68,7 +68,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Other Findings
 **Participants most common used the Facility Locator when traveling or moving to an unfamiliar area**
 - Details
-> “Sample quote if relevent”
+> “The first VA facility I went to in Boston was not a hospital, and I was trying to get to a hospital so there was some confusion there... Most recently, having learned from that experience, I used the locator to find my VA hospital for Manhattan where I went for my intake appt.”
 
 **People are more likely to utilize the Facility Locator to research locations**
 - True
