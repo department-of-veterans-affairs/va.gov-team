@@ -1,6 +1,48 @@
-# View Payment History
-WIP - [feature outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
-## User stories
+# My Payment History
+`WIP`
+- GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
+- Slack channel: #vsa-ebenefits
+- Old links: 
+  - [My Payment History - http://www.ebenefits.va.gov/ebenefits/payments](http://www.ebenefits.va.gov/ebenefits/payments)  
+- Staging link: https://staging.va.gov/#/payment-history/
+- va.gov link: https://www.va.gov/va-payment-history/
+- [Current Mockup](#)
+
+### Table of Contents
+
+# Executive Summary
+- [Abstract](#abstract)
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach](#solution-approach)
+
+# Implementation Information
+- [Status](#status)
+- [Solution Narrative](#solution-narrative)
+- [Team](#team)
+- [Resources and Documentation](#resources-and-documentation)
+- [Screenshots](#screenshots)
+
+---
+
+# Executive Summary
+
+## Abstract
+
+Migrate View Payment history from eBenefits to VA.gov. View Payment History enables logged in users to view a list of payments made by the VA, and details about each payment.
+
+## User Problem Statement
+
+- As a Veteran I need to understand the payments the VA has made to me so that I can check them for accuracy and troubleshoot them when necessary.
+
+## Solution Goals
+
+The eBenefits Team will migrate this functionality from EBN to the modern front door at VA.gov, conducting research along the way to make sure Veterans are able to achieve their goals quicly and efficiently.
+
+### User Goals
 
 - I can find a page to view my Payment History
 - I can see a list of my payments
@@ -9,13 +51,60 @@ WIP - [feature outline](https://github.com/department-of-veterans-affairs/va.gov
 - I can sort the list of payments by date, amount, and type
 - I can click on a payment to see details about that payment
 
-## Considerations
-- Veterans can have hundreds of payments, so some way to paginate/ filter will be necessry
-- Assuming "returned payments" arrive from the same service as regular payments
+### Business Goals
+
+- Sunset eBenefits
+
+## Assumptions
+
+- Veterans can have hundreds of payments, so there should be some way to paginate/ filter top columns
+- We assume "returned payments" arrive from the same service as regular payments
 - Endpoint is theoretically BGS `PaymentInformationService` at http://bepdev.vba.va.gov/vrm-ws/PaymentInformationService?WSDL
   - ESCP request reproved as of 20200212
 
-## eBenefits Screenshots
+## Requirements and Constraints
+
+- Only a logged in, LOA3-proofed, Veteran should be able to find and view their payment history
+
+## Solution Approach
+
+- Competitive analysis: Review other payment history lists
+- Create designs
+- Build BE integration and render data to FE
+- Write e2e tests
+- Perform usability tests
+- Follow launch checklist
+
+# Implementation Info
+
+## Status
+
+- March 2020: Discovery, initial design sketches
+
+## Solution Narrative
+- March 2020: Discover how the current application works, analyze existing products & features, create initial designs
+
+## Team
+
+- VA Executive Sponsor`*`: On Request
+- VA Policy Expert(s): On Request
+- DEPO`*`: Steve Kovacs
+- Product Manager`*`: Jason Wolf
+- Design Lead: Shawna Hein
+- Eng Lead: Paul Short
+- Designer(s): Jim Adams
+- Content Writer(s): 
+- Front-end Engineer(s): Micah Chiang, Jesse Cohn
+- Back-end Engineer(s): Kathleen Crawford
+
+`*` = approval required for launch
+
+## Resources and Documentation
+
+- [Discovery](#)
+- [Research and Design](#)
+
+### eBenefits Screenshots
 
 ![screenshot](images/payments-list-1.png)
 
