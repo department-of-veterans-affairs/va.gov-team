@@ -108,11 +108,11 @@ In this stage of discovery, I seek to understand:
 
 ### Current Features
  
-![screenshot](images/payments-list-1.png)
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-list-1.png)
  
-![screenshot](images/payments-list-2.png)
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-list-2.png)
  
-![screenshot](images/payments-detail.png)
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/images/payments-detail.png)
 
 - Headers
     - Payments
