@@ -52,11 +52,9 @@ _As we talk to users and learn about their experience, these questions can be ed
 
 ## Journey Mapping - 40 min
 
-Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. This journey mapping exercise that you'll do with us will help us to better understand your overall experience, so we can use it to inform future improvements to the CMS.
+Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to trying to accomplish a goal. For example, in order to book a hotel, some of the steps you go through are research best locations in the city, find hotels in the area, choose room type, book hotel, wait for booking confirmation etc. So, we can understand a journey as a series of actions in a timeline.
 
-A journey map is composed of a series or actions in a timeline. Today, we're particularly interested in hearing about you experience with two journeys: New CMS Onboarding and Content Editing. 
-
-In this activity, you'll walk us through the main steps that you take when going through each stage. I'll ask you to provide as much detail as you can in regards to your actions, thoughts, feelings in each step.
+Today, we're particularly interested in hearing about you experience with two journeys: New CMS Onboarding and Content Editing. As you walk us through the main steps that you take when going through each stage of these journeys, I'll ask you to provide as much detail as you can in regards to your actions, thoughts, feelings in each step.
 
 Let's start!
 
