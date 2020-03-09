@@ -8,7 +8,7 @@ Relevant links:
 This page provides information on The Program for Comprehensive Assistance for Family Members. The content page provides information of qualifications, what the user can get from the program, and what information user will need to apply. 
 
 ### Interaction Notes 
-- Apply for caregiver benefits goes to intro page 
+- "Apply for caregiver benefits" button goes to intro page 
 - Addtional components expand if clicked. [You can see expanded components here](https://vsateams.invisionapp.com/share/UDW9MPS5ETW#/407498251_Content_Caregiver_First_LM) 
 
 ### Content
