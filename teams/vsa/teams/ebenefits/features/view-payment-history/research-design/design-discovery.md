@@ -115,6 +115,8 @@ In this stage of discovery, I seek to understand:
 ![screenshot](images/payments-detail.png)
 
 
+
+
 ### Feature improveents
 - Combine Main table with Addtional infomration card
 - Designing a responsve table
@@ -123,6 +125,8 @@ In this stage of discovery, I seek to understand:
     1. Payments
     2. Return payments
 - A table should be displayed when page is opened or DOM is rendered
+- Allowing the users to choose a date range over set time periods (currently 3 to 6 months, 1 year, all)
+- A defult setting for the table,(currently the user needs to click filter to display resutls)
 
 ## Next Steps
 - Create Research Plan
