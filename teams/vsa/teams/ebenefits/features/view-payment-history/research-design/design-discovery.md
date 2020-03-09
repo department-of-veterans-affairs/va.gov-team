@@ -76,7 +76,7 @@ In this stage of discovery, I seek to understand:
 + What are the top task users are trying to complete using this tool?
 -	How are the veterans currently using this tool?
    -	How are the veterans using this information. Example: Taxes, Update Documentation
-       -	Does the UI information reflext that of other institutions. Our table should mirror other bank tables to manage user expetartions
+       - Does the UI information reflext that of other institutions. Our table should mirror other bank tables to manage user expetartions
 -	When are the veterans using this information? At a VA office, at their desk, on the go.
 -	Do you veterans need to print this data off?
 -	What features are most/least used?
@@ -107,14 +107,23 @@ In this stage of discovery, I seek to understand:
 ### Answers to initial questions
 
 ### Current Features
+[Current UI]()
+[Main Table]()
+[Addiotnal information]()
+[About Payments]()
 
+### Feature improveents
+- Combine Main table with Addtional infomration card
+- Designing a responsve table
+- Other TBD
+- Structuring the UI so that there is one table with 2 headers 
+    1. Payments
+    2. 
 
- 
   
 
 
 ## Next Steps
-
 - Create Research Plan
 - Create a Conversation Guide
 - Conduct Usability Session
