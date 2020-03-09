@@ -3,7 +3,7 @@
 
 [James Adams](jadams@governmentcio.com)
 
-## Problem solved
+## Problem
 #### eBenefits Payment History feature
 The fundamental problem solved by the Payment History feature is to provide a historical view of payment details to the Veteran or beneficiary. After signing in to eBenefits using DSLogon, users can view their Payment History arranged in two tables, one for payments made, the other for payments returned. Some information is available to users for only six years.
 
