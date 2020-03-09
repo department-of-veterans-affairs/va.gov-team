@@ -18,23 +18,35 @@ This topline summary is a result of the synthesis that happens after conducting/
 
 ## Research Questions & Answers
 **How does user interaction with the map and search results differ between urban and rural residents?**
- - Answer
+ - Urban residents were more likely to scroll through results as they received more listings
+ - Rural residents interacted with the top few listings shown and expected that other listings would be too far away
+ - Most participants expected their main VA Medical Center to be one of the top three listings
+ - Urban users wanted to interact with a smaller area on the map than Rural veterans 
  
 **What impact does facility or service type have on how participants interact with search results?**
- - Answer
+ - When participants were prompted to look for a facility that could assist with home loan help, their locations were all far away from the location they input. This caused users to seek a different way to access that information, or drop the task altogether
+ - Participants expressed a general lack of trust when it comes to VA-adjacent locations and would often scroll past clinics and non-VA locations to find VAMCs or similar locations.
+ - Participants stated that they would expect to see between 3 and 5 health-related locations and only 1-2 benefits-related locations listed in the search results
 
 **How many search results should the facility locator display before pagination?**
- - Answer
+ - Rural participants mentioned wanting to see 2 or 3 locations listed on a page
+ - Urban participants wanted to see 5 or more locations listed on a page
+ - Recommendation: show 5 results before pagination
 
 **How do participants utilize the map and search results together?**
- - Answer
+ - All participants referenced the search results first before making note of the map
+ - Participants used the search results to scan locations by distance
+ - Participants used the map to look at exact the location of a facility
+ - Participants also used the map as a secondary way to see how many facilities were a reasonable distance from their location
 
 **How do particpants expect to refine their search results?**
- - Answer
+ - Participants hesitated to choose a service type and primarily defaulted to facility type
+ - No participants looked for a filter to refine their search further than the given dropdowns
 
 ## Hypotheses & Answers
 **Rural participants will not want to see many return results if the facilities are far away**
- - Answer
+ - True
+ - 
  
 **Urban participants will want to see multiple locations and compare them by if they are close**
  - Answer
@@ -51,10 +63,15 @@ This topline summary is a result of the synthesis that happens after conducting/
 > “Sample quote if relevent”
 
 **People are more likely to utilize the Facility Locator to research locations**
+- True
+- Participants want to use the tool to scope out the offerings in an unfamiliar area
 - Participants did not use the Facility Locator for task-based prompts
--
+- Most participants mentioned that they only used the tool once: either when moving to a new location or traveling to an unfamiliar area
 > “Sample quote if relevent”
 
-**Finding**
-- Details
+**Expected results for map depends on geographic location**
+- Rural participants mentioned that they wanted to only see the top 3-4 locations near them as anything outside of that would be too far to travel
+- Urban participants expected to see a smaller radius on the map but with far more location pins to compare
 > “Sample quote if relevent”
+
+**Distance and travel time vary by location**
