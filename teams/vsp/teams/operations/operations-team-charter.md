@@ -35,17 +35,16 @@ _List of products within your team's perview - make sure the list of products he
 ## Who we are
 
 ### Team Members:
-- Primary Lead Ops Engineer - Wyatt Walter
+- Team lead Ops Engineer - Wyatt Walter
 - Product Manager - TJ Rice
 - Ops Engineer - Taylor Skinner
-- Lead Ops Engineer- Nick Walke
-- Lead Ops Engineer - Nathan Hruby
-- Senior Ops Engineer - Bennie Mosher
+- Senior Ops Engineer - Nathan Hruby
+- Ops Engineer - Bennie Mosher
 - Ops Engineer - Jeremy Britt
+- ATO SME - Faith Owusu
 
 Other Member that contribute to our Team's mission
 - DevOps Engineer - William Ryan
-- DevOps Engineer - Glen Stevenson
 
 ---
 
@@ -93,15 +92,23 @@ Output
 Talk and demo work we are working on to ensure we are aware of current work in a bit more techincal detail. 
 
 - 2nd Thursday of every sprint
-- 1/2 hour
-- talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos on the team. 
+-  45 mins
+- Talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos on the team. 
 
-#### Leads Grooming 
+#### Pre Planning 
 Stragetgic meeting to plan work for the team and work we need/want to accomplish. 
 
 - 2nd Friday of every sprint
 - 1 hour
+
 - talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos or clinfd spots on the team. 
+
+#### Grooming 
+Assess and update workload for remainder of sprint
+
+- 1st Friday of every sprint
+- 1 hour
+
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
