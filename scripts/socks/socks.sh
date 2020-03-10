@@ -5,7 +5,7 @@
 # `./socks.sh` with no arguments will echo the current status of socks
 # You can alias this script by adding `alias socks='/path/to/socks.sh'` to your `~/.bashrc` or `~/.zshrc` file.
 # Override the default location of keyfile by setting VA_SOCKS_KEYFILE
-# Note: Only tested on OSX; Requires Python >= 3.7
+# Note: Only tested on OSX; Requires Ruby >= 1.9
 set -o errexit
 # set -x
 
