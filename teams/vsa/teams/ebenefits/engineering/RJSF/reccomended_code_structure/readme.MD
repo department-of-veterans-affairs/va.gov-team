@@ -48,15 +48,15 @@ const formConfig = {
 
 The two areas you will focus most of your time on while coding your form will be the `formConfig` object, this object stores all of the information that our form system uses to "build" your form. 
 
-The most logical way we reccomend breaking your code up is to create a separate folder for each chapter and then inside that folder to create a folder for each page in that respective chapter as well as an `index.js` used to import the pages, like this -
+The most logical way we reccomend breaking your code up is to create a separate folder for each chapter and then inside that folder to create a folder for each page in that respective chapter with a JavaScript file named for the page as well as an `index.js` used to import the pages, like this -
 
 ```
-- config
--- chapters
---- chapter1
----- index.js
----- page1
------ page1.js
+| config
+| -- chapters
+  | --- chapter1
+    |---- index.js
+    |---- page1
+      | ----- page1.js
 ```
 
 
