@@ -41,9 +41,10 @@
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
-    - **10 Veterans who order hearing aid batteries through the VA**
-      - 5 pre-9/11 Veterans
-      - 5 post-9/11 Veterans
+    - **We would like to interview 8-10 Veterans who order hearing aid batteries through the VA**
+      - In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
+      - At least 5 pre-9/11 Veterans
+      - At least 5 post-9/11 Veterans
       - Include a mix of Veterans with a disability rating of 80% or higher
       - If possible, 1-2 Veterans who have a cochlear implant
 
