@@ -8,7 +8,9 @@ This document covers how code owners are used to enforce required reviews. The i
 
 VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-teams) that must approve a change before it can be merged. 
 
-By default, [`frontend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group) is the code owner of `vets-website`. VSA teams can optionally create a GitHub team under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) and assign that team as a code owner of [application folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). **This will remove `frontend-review-group` as a required reviewer when changes are made to those folders.** 
+By default, [`frontend-review-group`](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group) is the code owner of `vets-website`. VSA teams can optionally create a GitHub team under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) and assign that team as a code owner of [application folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). You can create a team by clicking on the **New team** button on [this page](https://github.com/orgs/department-of-veterans-affairs/teams)
+
+**This will remove `frontend-review-group` as a required reviewer when changes are made to those folders.** 
 
 After creating your GitHub team, follow the conventions in the [`CODEOWNERS` configuration file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/.github/CODEOWNERS) to assign your team to an application folder. You should understand the following when making changes to the code owners configuration: 
 
