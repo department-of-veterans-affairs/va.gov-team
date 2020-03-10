@@ -76,7 +76,7 @@ Of course none of your actions will affect your actual VA information or benefit
 <h2 id="toc_6">Task 1 (4-5 minutes)</h2>
 
 <ul>
-<li><p>You have heard of a program that allows active Service Members to apply to get benefits from the VA for a specific disability, prior to separation. The advantage of doing this is that you would receive payments sooner after separating from service. Someone told you that you could apply to this program on VA.gov.</p></li>
+<li><p>You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. The advantage of doing this is that you would receive payments sooner after separating from service. Someone told you that you could apply to this program on VA.gov.</p></li>
 <li><p>Please go to VA.gov, and show me what you would do to find this program and apply for it.
 [they do the task]</p></li>
 </ul>
