@@ -2,7 +2,7 @@
 
 *Liz Lantz, UX Designer/Researcher*
 
-*DRAFT: last updated 3/9/2020*
+Updated 3/10/2020
 
 ## Problem Statement
 
@@ -61,8 +61,8 @@ Yes. The complete list of pages we will address with our work:
 - Veterans receive mailers with urls sending them directly to the online form (bypassing the wizard).
 
 
+## Outcome
 
-## Next Steps
-
-- Share findings with team week of 3/9
-- Discuss initial solution ideas
+- We have a complete list of the pages in question
+- No major findings in terms of other options previously explored
+- Leaning toward the "Turbo tax" approach - will discuss with team
