@@ -40,7 +40,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
     * [Authenticated Experience Address Validation](#authenticated-experience-address-validation)
     * [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
-    * [Appeal Modernization Process (AMA)](#appeal-modernization-process)
+    * [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
     * [New Project Name](#new-project-name)
 
 ## Helpful links
