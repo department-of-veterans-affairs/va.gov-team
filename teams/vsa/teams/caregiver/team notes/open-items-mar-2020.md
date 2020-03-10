@@ -34,6 +34,7 @@
 | --- | ---| 
 | User will be able to: |
 | Attach Power of Attorney documentation| 160|
+| Sign form as POA| n/a |
 | Save and print a copy of submitted information (for records/submission) | 166 |
 | --- | ---| 
 | Business will be able to: |
