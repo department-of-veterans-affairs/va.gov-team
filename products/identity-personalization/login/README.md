@@ -38,7 +38,7 @@ This directory contains a plethora of historical and current-state information a
 
 ## Additional Notes
 
-* For localhost authentication, crypto is disabled by default. If you wish to enable crypto, you must acquire the `saml-rp.vetsgov.localhost` key and certificate which is located in credstash under `vets_api.localhost.idme_key` & `vets_api.localhost.idme_cert` - ask in `#vsp-operations` slack channel for acces.
+* For localhost authentication, crypto is disabled by default. If you wish to enable crypto, you must acquire the `saml-rp.vetsgov.localhost` key and certificate which is located in credstash under `vets_api.localhost.idme_key` & `vets_api.localhost.idme_cert` - ask in `#vsp-operations` slack channel for access.
 * If you want to know a heck of a lot of details about MVI (Master Veteran Index), the [MVI Integration]() directory is the place to look.
 * How to [add someone to MVI]()
 * It is highly recommended that everyone on the VA.gov team attempts to identity proof themselves so that they can login to VA.gov in a production system. Identity proofing is available to everyone, independent of Veteran status.  If you are not a Veteran, you will not be matched in MVI but that's the expected behavior! You will simply not be able to see Veteran-specific items (e.g. secure messaging, Rx refills, etc.)
