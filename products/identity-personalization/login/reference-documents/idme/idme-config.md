@@ -14,8 +14,6 @@ This file outlines what pieces need to be configured for ID.me in each environme
 
 #### Local Development
 All local development shares one config. 
-- [x] [Key](../../Files_From_IDme/development-certificates/vetsgov-localhost.key)
-- [x] [Certificate](../../Files_From_IDme/development-certificates/vetsgov-localhost.crt)
 - [x] Relying Party EntityID (`SAML_ISSUER` env variable): `saml-rp.vetsgov.localhost`
 - [x] Callback URL: `http://localhost:3001/auth/login/callback`
 - [x] Update API_URL in [vets-website repo](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/common/helpers/environment.js)
