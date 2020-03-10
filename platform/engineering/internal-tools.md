@@ -184,6 +184,9 @@ SOCKS proxy server is running. You can `$ nc -z 127.0.0.1 2001` as a first step.
 
 1. Check your connection by navigating to Sentry at http://sentry.vfs.va.gov.
 
+### Socks script
+An alternative to SwitchyOmega is to use [the `socks` script](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks). The `socks` script loads your key into the ssh agent, starts the socks proxy, and sets up your system to proxy only URLs that require the proxy. It has the advantage of not requiring any 3rd party extensions, and it works with Chrome and Firefox browsers.
+
 ## Tools
 
 ### Jenkins
