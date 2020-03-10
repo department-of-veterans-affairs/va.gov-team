@@ -1,5 +1,5 @@
 
-# Campaign landing page templates MVP 1.0 - product outline
+# Campaign landing page template MVP 1.0 - product outline
 
 Campaign landing page template rolls up to the larger 2020 PW initiatives to build out [tier 2 content templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design).
 
