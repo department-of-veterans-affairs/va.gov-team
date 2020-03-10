@@ -38,7 +38,6 @@ Yes. The complete list of pages we will address with our work:
 - https://va.gov/education/how-to-apply
 - https://va.gov/disability/eligibility
 - https://va.gov/disability/how-to-file-claim
-- https://www.va.gov/disability/eligibility/
 
 **How did the wizards come to live on the content page rather than on the tool pages?**
 
