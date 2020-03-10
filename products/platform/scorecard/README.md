@@ -7,5 +7,3 @@
 |prod|https://va.gov/scorecard/|
 
 Repository: https://github.com/department-of-veterans-affairs/vets.gov-status
-
-[Team onboarding instructions](onboarding.md)
