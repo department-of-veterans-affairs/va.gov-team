@@ -44,14 +44,14 @@ Your work on VA.gov contributes to the digital modernization and web brand conso
   - Don't list keywords or repeat the same keywords, search engines will penalize your page as a result.
   - Prioritize important keywords first. Front-load important keywords over brand name (Veteran Affairs)
   - Put users first: Title tags are important for search engines, but they are even more relevant for your users. Write with your users in mind.
-- See Writing for SEO  in the VA.gov content style guide for more information on our standards. 
+- See [Writing for SEO  in the VA.gov content style guide](https://design.va.gov/content-style-guide/seo) for more information on our standards. 
 
 **Page Titles / H1s**
 - Page titles clearly tell people the main purpose or subject of the page. Some guidance on page titles: 
 - There should be one H1 per page    
 - Use the primary keyword in the page title
 - Try to keep page titles to 52 characters maximum (with spaces)
-- See Page titles in the VA.gov content style guide for more guidance. 
+- See [Page titles in the VA.gov content style guide](https://design.va.gov/content-style-guide/page-titles-and-section-titles) for more guidance. 
 
 **Meta description content**
 - Meta descriptions provide  a high-level summary for the user about what they will find on the page. They should be long enough that they are descriptive, but not so long that they become cumbersome. 
@@ -59,7 +59,7 @@ Your work on VA.gov contributes to the digital modernization and web brand conso
   - Write unique, high quality content (avoid marketing-type content)
   - Avoid writing duplicate meta descriptions
   - Keep description text to less than 300 characters (including spaces)
-- See Meta descriptions in the VA.gov content style guide. 
+- See [Meta descriptions in the VA.gov content style guide](https://design.va.gov/content-style-guide/seo#meta-descriptions). 
 
 
 ### XML Sitemap
