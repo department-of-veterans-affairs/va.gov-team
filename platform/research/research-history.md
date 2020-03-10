@@ -33,6 +33,7 @@ __Please note that many links on this page reference research folders in the vet
 
 - 6 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso/ux-research)
+- Themes and keywords: warning alert, minimize scrolling, consolidate information, multiple CTAs, My VA Health, Cerner, facility registration
 
 #### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
 *Aricka Lewis, James Adams*
