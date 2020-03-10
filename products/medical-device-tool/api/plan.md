@@ -1,4 +1,4 @@
-# Medical Device Ordering Tool API Plan
+# Medical Device Ordering Tool API Plan v1.0.0
 
 ## Overview
 
@@ -8,30 +8,21 @@ This document contains the proposed endpoints, requests & response information f
 
 | HTTP Method | Endpoint                     | Description                                                                                                |
 |-------------|------------------------------|------------------------------------------------------------------------------------------------------------|
-| GET         | /v0/mdot/supplies            | Returns a list of medical devices available for reorder and veteran information for the logged in veteran. |
-| POST        | /v0/mdot/supplies            | Creates a new medical device and/or accessory order.                                                       |
+| POST        | /v0/in_progress_forms/mdot           | Creates a new medical device and/or accessory order.                                                       |
 | GET         | /v0/in_progress_forms/mdot   | Returns just the veteran information: address, gender, date of birth, email, etc.                          |
-| PUT         | /v0/mdot/veteran_information | Makes a change to veteran profile, can modify address, email.                                              |
 
-### GET /v0/mdot/supplies
+### GET /v0/in_progress_forms/mdot
 
 #### Request
 
-```
-GET https://va.staging.gov/v0/mdot
+```json
+GET https://api.va.gov/v0/in_progress_forms/mdot
 HTTP/1.1
 Accept-Encoding: *
-va_veteran_id: 555555555
 ```
 
-##### Parameters
-
-| Parameter	         | In    | Type   | Default | Required | Description                                           |
-|--------------------|-------|--------|---------|----------|-------------------------------------------------------|
-| product_group      | query | string | all     | false    | Limits the response array to specific type of supply. |
-
-
 #### Response
+
 ```json
 HTTP/1.1 200 OK
 Date: Thu, Jan 30 2020 21:30:42 GMT
@@ -39,7 +30,22 @@ Transfer-Encoding: chunked
 Content-Type: application/json
 
 {
-  "supplies": [
+  "form_data": {
+    "veteranFullName": {
+      "first": "Greg",
+      "middle": "A",
+      "last": "Anderson"
+    },
+    "gender": "M",
+    "veteranAddress": {
+      "street": "MILITARY ADDY 3",
+      "city": "DPO",
+      "state": "MI",
+      "country": "USA",
+      "postalCode": "22312"
+    },
+    "email": "test2@test1.net",
+    "supplies": [
     {
       "deviceName": "OMEGA XD3241",
       "productName": "ZA1239",
@@ -95,10 +101,17 @@ Content-Type: application/json
       "quantity": "10"
     }
   ]
+  },
+  "metadata": {
+    "version": 0,
+    "prefill": true,
+    "returnUrl": "/veteran-information"
+  }
 }
 ```
 
-### POST /v0/mdot/supplies
+
+### POST /v0/in_progress_forms/mdot
 
 #### Request
 
@@ -144,89 +157,5 @@ Content-Type: application/json
 {
   "status": "success",
   "orderId": "1234abcd1234abcd"
-}
-```
-
-### GET /v0/in_progress_forms/mdot
-
-#### Request
-
-```json
-GET https://api.va.gov/v0/in_progress_forms/mdot
-HTTP/1.1
-Accept-Encoding: *
-```
-
-#### Response
-
-```json
-HTTP/1.1 200 OK
-Date: Thu, Jan 30 2020 21:30:42 GMT
-Transfer-Encoding: chunked
-Content-Type: application/json
-
-{
-  "form_data": {
-    "veteranFullName": {
-      "first": "Greg",
-      "middle": "A",
-      "last": "Anderson"
-    },
-    "gender": "M",
-    "veteranAddress": {
-      "street": "MILITARY ADDY 3",
-      "city": "DPO",
-      "state": "MI",
-      "country": "USA",
-      "postalCode": "22312"
-    },
-    "email": "test2@test1.net"
-  },
-  "metadata": {
-    "version": 0,
-    "prefill": true,
-    "returnUrl": "/veteran-information"
-  }
-}
-```
-
-### PUT /v0/mdot/veteran_information
-
-#### Request
-
-```json
-GET https://api.va.gov/v0/mdot/veteran_information
-HTTP/1.1
-Accept-Encoding: *
-
-{
-  "veteranFullName": {
-    "first": "Greg",
-    "middle": "A",
-    "last": "Anderson"
-  },
-  "gender": "M",
-  "veteranAddress": {
-    "street": "MILITARY ADDY 3",
-    "city": "DPO",
-    "state": "MI",
-    "country": "USA",
-    "postalCode": "22312"
-  },
-  "email": "test2@test1.net"
-}
-```
-
-#### Response
-
-
-```json
-HTTP/1.1 200 OK
-Date: Thu, Jan 30 2020 21:30:42 GMT
-Transfer-Encoding: chunked
-Content-Type: application/json
-
-{
-  "status": "success"
 }
 ```
