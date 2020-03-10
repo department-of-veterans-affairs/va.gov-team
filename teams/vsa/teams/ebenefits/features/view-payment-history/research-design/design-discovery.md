@@ -1,37 +1,9 @@
 # View Payments: Discovery Synthesis
 
-*Nick Wygonik, UX Designer/Researcher*
-
-*DRAFT: last updated 3/9/2020*
-
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/payment-history)
-
 
 ## Problem Statement 
 I am a Veteran who needs to review my payment history so that I can ensure they are correct, I haven't missed any and am informed about each in case I need to make a change affecting the benefits I deserve.
-
-## Tickets
-[Migrate "View Payment History" from eBenefits to VA.gov (#1397)]( https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1397) contains 
-(Epic)
-
-### Zenhub Board (3/9/2020)
-**Backlog**
--    [#5643 Conduct Discovery Session for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5643)
--    [#5647 Create a Research Plan for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5647)
--    [#5649 Create a Conversation Guide for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5649)
--    [#5651 Conduct Usability Session for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5651)
-
-**Current Sprint**
--    [#5642 Product Documentation for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5642)
--    [#5644 Competitive Analysis of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5644)
-    
-**In Progress**
--    [#5646 Create initial design mockup for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5646)
--    [#6205 Prepare for Discovery Session of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6205)
-
-**Closed**
--    [#5645 Create Workflow Diagram of Existing Application ("My Payment History")](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5645)
-
 
 ## Discovery Goals
 
@@ -156,3 +128,24 @@ In this stage of discovery, I seek to understand:
     1. Tables 
     2. Cards
 
+## Tickets
+[Migrate "View Payment History" from eBenefits to VA.gov (#1397)]( https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1397) contains 
+(Epic)
+
+### Board (3/9/2020)
+**Backlog**
+-    [#5643 Conduct Discovery Session for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5643)
+-    [#5647 Create a Research Plan for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5647)
+-    [#5649 Create a Conversation Guide for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5649)
+-    [#5651 Conduct Usability Session for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5651)
+
+**Current Sprint**
+-    [#5642 Product Documentation for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5642)
+-    [#5644 Competitive Analysis of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5644)
+    
+**In Progress**
+-    [#5646 Create initial design mockup for "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5646)
+-    [#6205 Prepare for Discovery Session of "My Payment History"](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6205)
+
+**Closed**
+-    [#5645 Create Workflow Diagram of Existing Application ("My Payment History")](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/5645)
