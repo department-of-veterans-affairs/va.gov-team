@@ -15,7 +15,7 @@
 ### Holidays
     
 ### Additional out of office
-    - Lance: March 4-5 Half Days
+    - Lance: March 11-12 Half Days
 
 ## February 2020
 ### Holidays
