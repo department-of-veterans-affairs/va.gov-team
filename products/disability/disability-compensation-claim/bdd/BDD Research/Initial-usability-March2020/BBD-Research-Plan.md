@@ -88,10 +88,10 @@
 <h2 id="toc_8">When?</h2>
 
 <ul>
-<li>Timeline for this study: March 16 (pilot test), 17, 18, and 19, 2020. </li>
+<li>Timeline for this study: March 17 (pilot test), 18, 19, and 20, 2020. </li>
 <li>Length of Sessions: 60 minutes</li>
 <li>Availability: 11 am - 5 pm ET</li>
-<li>Pilot: 16 March, 2020</li>
+<li>Pilot: 17 March, 2020</li>
 </ul>
 
 <h4 id="toc_9">Team Roles</h4>
