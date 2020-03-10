@@ -35,9 +35,10 @@ In this stage of discovery, I seek to understand:
 Yes. The complete list of pages we will address with our work:
 
 - https://va.gov/education/eligibility
+- https://va.gov/education/how-to-apply
 - https://va.gov/disability/eligibility
 - https://va.gov/disability/how-to-file-claim
-- https://va.gov/education/how-to-apply
+- https://www.va.gov/disability/eligibility/
 
 **How did the wizards come to live on the content page rather than on the tool pages?**
 
@@ -66,3 +67,4 @@ Yes. The complete list of pages we will address with our work:
 - We have a complete list of the pages in question
 - No major findings in terms of other options previously explored
 - Leaning toward the "Turbo tax" approach - will discuss with team
+- Mapped wizard outcomes and URLs impacted: https://app.mural.co/t/vsa8243/m/vsa8243/1583339328670/26c12cb441183d0cccb2c0f38d1fb28dff4454f9
