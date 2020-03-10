@@ -28,6 +28,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### February 2020
 
+#### February 21-February 25: SSO Login Manage Benefits Pages - Alert Box Updates
+*Bridget Hapner, Martha Wilkes*
+
+- 6 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso/ux-research)
+
 #### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
 *Aricka Lewis, James Adams*
 
