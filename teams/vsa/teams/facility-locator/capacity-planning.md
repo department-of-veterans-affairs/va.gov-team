@@ -1,6 +1,7 @@
 # Capacity Planning
 
 ## Table of Contents
+[March 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#march-2020)
 
 [February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#february-2020)
 
@@ -10,6 +11,11 @@
 
 [November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2019)
 
+## March 2020
+### Holidays
+    
+### Additional out of office
+    - Lance: March 4-5 Half Days
 
 ## February 2020
 ### Holidays
