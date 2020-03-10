@@ -4,10 +4,9 @@
 
 **Product/Featue:** Add/Remove Dependents Form 686c
 
-**Background/Context:**
+**Background/Context:** This is the next phase of work for the eBenefits functionality of viewing and adding dependents.  IA work for viewing dependents is already complete. 
 
-
-**Review Date:** 
+**Review Date:** 3/10/2020
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/6636
 
@@ -17,14 +16,22 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 **Approach:**
-- 
+- This form will be accessible from the View Dependents tool (requires authentication), but will also need to be directly available to unauthenticated users without passing through the tool.
+- This form will have its own static content page to explain what the form is for and how to complete it. This will be separate from the static page for the View Dependents tool. This is due to the amount of content needed for both tools at this time, as well as the fact that one requires authentication and one does not - this means the user flow through pages is different (see user flow diagram). 
+- Research did not show a strong desire to look for this capability within disability.  There was a draw to Family member benefits and Records.  The task asked was generic in nature (not specific to adding for disability), which may have resulted in a generic response rather than a benefit-specific response. For this reason, my recommendation is for this form to exist independently of a benefit (i.e. disability), and rather links can be added from specific benefits where appropriate (i.e. disability, family member hub, records hub, etc.). This will allow future use cases to be added as necessary (i.e. managing dependents or beneficiaries for all types of benefits). 
+
+
+![image](https://user-images.githubusercontent.com/20994159/76347075-01bd6680-62d4-11ea-8a0c-194b00aa490f.png)
 
 Visual representation of pages in the site map: 
 
+![image](https://user-images.githubusercontent.com/20994159/76347286-5cef5900-62d4-11ea-8e0a-df194e14c5a5.png)
 
-Page | URL | Breadcrumb
---- | --- | ---
 
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Static content page | **Current:** <br> www.va.gov/disability/add-remove-dependent/ <br> **New:** <br>  www.va.gov/add-remove-dependents  | **Current:** <br> Home > Disability benefits > Add or remove a dependent <br> **New:** <br> Home > How to add or remove dependents  | This is an existing static content page managed in Drupal.  It will need to be moved out of Disability and the URL and breadcrumb updated.  The left nav will also need to be removed form this page. 
+Online form | www.va.gov/add-remove-dependents/form-686c/ | Home > Add or remove dependents orm 686c
  
 **General Details**
 - Label used in breadcrumb should closely match H1, work with your writer to finalize. 
