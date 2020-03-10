@@ -9,7 +9,7 @@ I am a Veteran who needs to review my payment history so that I can ensure they 
 
 In this stage of discovery, I seek to understand:
 
-- Users expectation of current market features [Competitive Analysis]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md)
+- Users expectation of current market features ([Competitive Analysis]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/research-design/payment-history-comp-analysis.md))
 - Gather current metrics to better understand how Veterans are using the “My Payment History” features
 - Define stakeholders 
 - Discover similar UI and functionality within the VA.gov site.
@@ -27,9 +27,9 @@ In this stage of discovery, I seek to understand:
 ## Findings
 
 ### Initial questions
-+ What services are the tool provide?
-+ What is the typical veteran viewing 
-   - Is it also the default view? 
++ What services does the tool provide?
++ What is the typical veteran viewing  <-- ?
+   - Is it also the default view?  <-- ?
 + How many payments do they see now?
    - How many payments do they want to see on average?
    - How many payments should we display on average?
