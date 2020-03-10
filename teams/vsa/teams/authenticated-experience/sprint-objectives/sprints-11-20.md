@@ -401,6 +401,7 @@ Any overflow from last sprint (Matt will identify if there is overflow), plus:
   - Any final tickets
   - Launch & monitoring
 2. Profile 2.0: Design 
+  - Edit modal state
   - Pre-usability review
   - Kickoff research recruiting
   - Badge/logo research
@@ -425,9 +426,9 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 **Design**
 
+- Edit modal state
 - Pre-usability review
 - Kickoff research recruiting
-- Conduct research (Note: might overflow into the following sprint)
 - Badge/logo research
 
 **Dev**
@@ -439,8 +440,9 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-- Direct deposit copy implementation (copy ticket is #6094)
-- Matt to make sure the Profile 2.0 epic is up-to-date (tickets linked/created accordingly)
+- Design - Hide Direct Deposit information if the user is incompetent or has a fiduciary #6094
+- Profile: Create a generic error state for when direct deposit is down #5959
+- Curate Profile 2.0 Epic #6682
 
 ## Sprint 18 (3/25 - 4/7)
 
