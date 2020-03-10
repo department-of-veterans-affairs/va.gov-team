@@ -20,7 +20,7 @@ socks_add_key_cmd="ssh-add -K ${VA_SOCKS_KEYFILE:-~/.ssh/vetsgov_id_rsa}"
 socks_del_key_cmd="ssh-add -d ${VA_SOCKS_KEYFILE:-~/.ssh/vetsgov_id_rsa}"
 socks_start_cmd="ssh socks -D ${WEB_PORT} -N";
 socks_kill_cmd="pkill -f \"$socks_start_cmd\"";
-webserver_start_cmd="python -m http.server ${AUTOCONFIG_PORT} --bind 127.0.0.1 --directory ${PROXY_PAC_LOCATION}"
+webserver_start_cmd="ruby -run -e httpd ${PROXY_PAC_LOCATION} -p ${AUTOCONFIG_PORT} --bind-address 127.0.0.1"
 
 function turn_system_proxy_on {
     # Start server to serve up proxy config
@@ -50,7 +50,7 @@ socks_ps_count=`ps -ef | grep "$socks_start_cmd" | grep -v grep | wc -l` || true
 if [ $# -eq 0 ]; then
     exit 0;
 else
-    if [ $# -eq 1 -a $1 == "on" ]; then
+    if [ $# -eq 1 ] && [ $1 == "on" -o $1 == "start" ]; then
         echo "(re)starting socks...";
         eval $socks_kill_cmd || true;
         eval $socks_add_key_cmd;
@@ -58,14 +58,14 @@ else
         turn_system_proxy_on;
         exit 0;
     else
-        if [ $# -eq 1 -a $1 == "off" ]; then
+        if [ $# -eq 1 ] && [ $1 == "off" -o $1 == "stop" ]; then
             echo "stopping socks...";
             turn_system_proxy_off;
             eval $socks_kill_cmd || true;
             eval $socks_del_key_cmd || true;
             exit 0;
         else
-            echo "Usage: socks [on|off]";
+            echo "Usage: socks [on or start|off or stop]";
             exit 1;
         fi;
     fi;
