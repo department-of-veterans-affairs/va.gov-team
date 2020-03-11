@@ -20,7 +20,7 @@ Users can navigate to a form’s introduction page either from within VA.gov or 
 
 ## Intro Page 
 
-H1: File for [benefit] or Apply for [benefit] <br>
+H1:  Apply for family caregiver benefits<br>
 VA paper form equivalency statement Appears under the H1. This shows the equivalent VA paper form. 
 
 For example: 
