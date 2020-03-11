@@ -29,9 +29,11 @@ The comments are there to help you fill out the template and will not appear whe
 
 
 
-## Link to Test Plan
+## Link to Test Cases
 
 <!-- Include a link to your TestRail or Markdown test plan. The staging accessibiilty review will be more completed more quickly when teams have done their own testing ahead of time. -->
+Use the TestRail or Markdown template to document your accessibility test cases. These must be completed before the VSP staging accessibility review can start.
+
 * TestRail: [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
 * Markdown: [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 
