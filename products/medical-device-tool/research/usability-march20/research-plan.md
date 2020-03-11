@@ -23,7 +23,8 @@
     - Veterans may struggle to locate the content page and form link
     - Veterans may not understand that adding accessories to their order happens after adding batteries
     - Veterans may have concerns about receiving an email notification after submitting an order 
-    - Veterans may want to print out the review submission screen to have a 'receipt' displaying their ordered items 
+    - Veterans may want to print out the review submission screen to have a 'receipt' displaying their ordered items
+    - Veterans may miss the 'add an email address for an order confirmation' component 
 
 
 ## Method
