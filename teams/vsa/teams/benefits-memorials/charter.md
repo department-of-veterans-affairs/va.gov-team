@@ -9,16 +9,23 @@
 Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### B&M 1 Vision:
-WIP
+WIP - _What's the ideal end-state for B&M 1 and its problem space in 1-2-3 years?_ 
 
 ### B&M 1  North Star:
-WIP
+WIP - _What's our indicator of success for our vision? e.g. average time through each or all decision review processes?_
+Perhaps create separate north stars to account for decision review vs. claims vs. appeals
 
 ## What we work on
 ### **Product Line** 
 Benefits and Memorial Services 
 
 ### **Product Portfolio**
+
+* Decision Review
+* Claims
+* Appeals
+
+_Reallocate these below to one of the three product lines for B&M 1_
   * 526 - Disability Claims and Appeals
   * Appeals / Decision Review / AMA
   * VIC
