@@ -112,6 +112,7 @@ Once the designer and PM review feedback, please add a new comment on the issue 
 ## Development Reviews
 
 <!-- There are **four required checkpoints**. For reviews, the VSA accessibility specialist will open a development 508 review epic in Zenhub, and assign findings to the responsible project manager. Project teams should include the accessibility specialist in pull request reviews. Teams should @-comment the accessibility specialist in a Zenhub issue comment when code fixes are ready. The accessibility specialist will verify issues are fixed and close the issue or offer guidance if the issue is not fixed. Open issues are surfaced in the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
+-->
 
 Teams are encouraged to reach out for casual check-ins. Feel free to message Jennifer Strickland. If you'd like, you may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME) for earlier insight. 
 
@@ -131,7 +132,8 @@ This recommended collaboration point happens _before beginning development_. The
     
 * **Staging Review** (previously the pre-launch 508 review, now coordinated with VSP practice areas) 
 
-Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md), and the guidance in the [VSP accessibility staging review documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/de7ab3f6310b46569ff48d0796338fc50863f03c/platform/accessibility/guidance/staging-review-processes.md).
+  - Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md). 
+  - Review the guidance in the [VSP accessibility staging review documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/de7ab3f6310b46569ff48d0796338fc50863f03c/platform/accessibility/guidance/staging-review-processes.md).
 
     
 * **508 Office Review**<br/> The VSP and VSA accessibility specialists will forward teams' webpages and applications to the VA 508 office after production launch. Accessibility specialists meet with the 508 office representative every month, and will notify them of new products to test during that meeting, or via email as needed.
