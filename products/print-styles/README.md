@@ -27,10 +27,10 @@ The goal is to design the print stylesheet to both follow best practices and sta
 - Link styling
 - Buttons are displayed as links with link in parenthesis 
 - Neither links nor phone numbers are underlined for accessibility 
-- Rendered for print accuracy (accessibility and readability)   
+- Rendered for print accuracy (accessibility and readability) 
 
 ---
    
-## Screenshots
+## Important Links
 
-See: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/print-styles/Print%20Styles%20Design%20Presentation.pdf
+- [Project presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/print-styles/Print%20Styles%20Design%20Presentation.pdf)
