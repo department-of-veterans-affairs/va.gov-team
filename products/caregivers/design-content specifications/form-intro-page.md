@@ -14,7 +14,7 @@ Users can navigate to a form’s introduction page either from within VA.gov or 
 
 ### Interaction Notes 
 - Click here to start application button
-- "Additional info" component
+- "Additional info" components 
 
 ### Content
 
