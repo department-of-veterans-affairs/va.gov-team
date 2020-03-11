@@ -49,11 +49,11 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
  
  * **Front-end Development** - Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Contact the VSA accessibility specialist to arrange for the required accessibility reviews.
 
+<hr>
+
 ## Design Reviews
 
 See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) for medium-to-large projects.
-
-
 
 <!-- ~~For medium to large projects, there are **three required checkpoints**. These reviews are integrated with [VSP's Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#whentorequest) and align with [VSA's Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md). Accessibility, Content, IA, and Design practice reviews happen in the same checkpoint. VSA team members are also welcome to additional, casual checks with accessibility specialists.
 
@@ -107,6 +107,8 @@ Once the designer and PM review feedback, please add a new comment on the issue 
 * Please consider the accessibility specialist as a collaborative partner as work continues. 
 * For guidance during design, [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
 
+<hr>
+
 ## Development Reviews
 
 <!-- There are **four required checkpoints**. For reviews, the VSA accessibility specialist will open a development 508 review epic in Zenhub, and assign findings to the responsible project manager. Project teams should include the accessibility specialist in pull request reviews. Teams should @-comment the accessibility specialist in a Zenhub issue comment when code fixes are ready. The accessibility specialist will verify issues are fixed and close the issue or offer guidance if the issue is not fixed. Open issues are surfaced in the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
@@ -151,6 +153,9 @@ Review the guidance in the [VSP Accessibility Post-Launch Audit Processes](https
   - MacOS Safari + VoiceOver
   - iOS and Android mobile devices as available
   - Additional browsers such as AVG, Waterfox
+-->
+
+<hr>
 
 ## QA    
 Here's a link to the [QA Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/qa/vsa-qa-process.md), for your convenience.
