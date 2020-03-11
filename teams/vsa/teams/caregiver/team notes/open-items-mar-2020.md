@@ -13,14 +13,15 @@
 - [Notes:](#notes-)
 
 ## Metrics
-|Metric| Current Status |
+|Metric| Current Status (03/2020) |
 | --- | --- | 
-| # of applications submitted onine |
-| Ratio of successful to unsuccessful applications|
-| User satisfaction on application process |
-| Number of Caregiver applications adjudicated |
-| Number of Caregiver applications approved |
-| Average application processing time |
+| Number of applications submitted onine |0 
+| Ratio of successful to unsuccessful applications| ?
+| User satisfaction on application process | ?
+| Number of Caregivers in PCAFC | ?
+| Number of Caregiver applications adjudicated | ?
+| Number of Caregiver applications approved | ?
+| Average application processing time |?
 
 ## Phase 0 (May 2020)
 | Requirement | Ticket # |
