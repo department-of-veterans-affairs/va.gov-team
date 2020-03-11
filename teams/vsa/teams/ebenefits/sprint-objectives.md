@@ -19,7 +19,7 @@
 
 ## 2. View Payments: Finish Initial Designs
 - Design: Schedule Design intent meeting and create an initial feature design
-- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments (doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments _(doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)_
 
 ## 3. Power of Attorney: Product Documentation and Walkthrough
 - Product: Create product documentation in feature README
