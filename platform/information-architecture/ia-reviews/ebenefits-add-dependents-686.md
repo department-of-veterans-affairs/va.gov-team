@@ -23,9 +23,6 @@
 
 ![image](https://user-images.githubusercontent.com/20994159/76347075-01bd6680-62d4-11ea-8a0c-194b00aa490f.png)
 
-Visual representation of pages in the site map: 
-
-![image](https://user-images.githubusercontent.com/20994159/76347286-5cef5900-62d4-11ea-8e0a-df194e14c5a5.png)
 
 
 Page | URL | Breadcrumb | Notes
@@ -36,6 +33,9 @@ Online form | www.va.gov/add-remove-dependents/form-686c/ | Home > Add or remove
 **General Details**
 - Label used in breadcrumb should closely match H1, work with your writer to finalize. 
 
+**Visual representation of pages in the site map:** 
+
+![image](https://user-images.githubusercontent.com/20994159/76347286-5cef5900-62d4-11ea-8e0a-df194e14c5a5.png)
 
 <hr>
 
