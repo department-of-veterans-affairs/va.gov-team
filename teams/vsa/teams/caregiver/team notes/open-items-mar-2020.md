@@ -1,5 +1,7 @@
 # 1010-CG Status Update
 
+
+- [Metrics](#metrics)
 - [Phase 0 (May 2020)](#phase-0-may-2020)
 - [Phase 1 (Estimated July 2020)](#phase-1-estimated-july-2020)
 - [Phase 2 (Estimated September 2020)](#phase-2-estimated-september-2020)
@@ -9,6 +11,16 @@
 - [Open Questions](#open-questions)
 - [Action Items](#action-items)
 - [Notes:](#notes-)
+
+## Metrics
+|Metric| Current Status |
+| --- | --- | 
+| # of applications submitted onine |
+| Ratio of successful to unsuccessful applications|
+| User satisfaction on application process |
+| Number of Caregiver applications adjudicated |
+| Number of Caregiver applications approved |
+| Average application processing time |
 
 ## Phase 0 (May 2020)
 | Requirement | Ticket # |
