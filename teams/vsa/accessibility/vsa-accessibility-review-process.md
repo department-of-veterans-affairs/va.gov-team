@@ -70,6 +70,8 @@ See [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 <!-- When a design review is requested using the issue ticket templates linked above, it will be assigned to the reviewing individuals. VSP will then schedule the design review including those reviewers. The issue ticket itemizes what to include so that reviewers may assess the materials ahead of the meeting. After the design review, feedback will be collected in comments on the issue ticket, and assignees set to include the designer, PM, and accessibility specialist to use as working reference.
 -->
 
+### Addressing design issues
+
 Once the designer and PM review feedback, please add a new comment on the issue with decisions made, then CC each of the reviewers in the comment for visibility. Once all issues are addressed, the ticket is closed with a final comment indicating that the accessibility specialist validated the issue is remedied, @-comment designer who opened issue, and close ticket/issue.
 
 
