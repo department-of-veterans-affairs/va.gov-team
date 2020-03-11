@@ -1,3 +1,3 @@
-## Thoughtwork Scorecard Discovery Sprint
+## Thoughtworks Scorecard Discovery Sprint
 
 Analytics & Insights support work & readouts from the Thoughtworks discovery sprint in March 2020.
