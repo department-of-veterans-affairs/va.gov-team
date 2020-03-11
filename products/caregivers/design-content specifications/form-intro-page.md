@@ -21,11 +21,11 @@ Users can navigate to a form’s introduction page either from within VA.gov or 
 ## Intro Page 
 
 H1:  Apply for family caregiver benefits<br>
-VA paper form equivalency statement Appears under the H1. This shows the equivalent VA paper form. 
+Equal to VA Form 10-10CG (Application for Family Caregiver Benefits) 
 
-For example: 
-H1: File for disability compensation<br>
-Equal to VA Form 21-526EZ (Application for Disability Compensation and Related Compensation Benefits).
+If you’re a family member caring for a Veteran with disabilities, we want to support you. We recognize that family caregivers enhance the health and well-being of Veterans they care for in their home.
+
+
 
 ## Sign-in message (required)
 
