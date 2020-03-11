@@ -14,7 +14,7 @@ assignees: 1Copenut, jenstrickland
 
 ### For reference
 
-**VSA Development Review** - [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#development-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#development-review)
+**VSA Development Review** - [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md#development-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md#development-review)
 
 ## Team Name
 
