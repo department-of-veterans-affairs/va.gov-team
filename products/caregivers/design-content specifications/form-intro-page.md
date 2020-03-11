@@ -13,12 +13,12 @@ This page gives users step-by-step information on how to apply for a caregiver b
 Users can navigate to a form’s introduction page either from within VA.gov or through an online search. Since users can navigate to this page from outside VA.gov, this page includes some basic benefit eligibility information and a link back to the VA.gov eligibility page. 
 
 ### Interaction Notes 
-- {Button} Click here to start application 
-- Or how widgets should perform would go here
+- Click here to start application button
+- "Additional info" component
 
 ### Content
 
-## Sample Template
+## Intro Page 
 
 H1: File for [benefit] or Apply for [benefit] <br>
 VA paper form equivalency statement Appears under the H1. This shows the equivalent VA paper form. 
