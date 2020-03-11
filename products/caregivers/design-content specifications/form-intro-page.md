@@ -13,7 +13,7 @@ This page gives users step-by-step information on how to apply for a caregiver b
 Users can navigate to a form’s introduction page either from within VA.gov or through an online search. Since users can navigate to this page from outside VA.gov, this page includes some basic benefit eligibility information and a link back to the VA.gov eligibility page. 
 
 ### Interaction Notes 
-- [Button] Click here to start application 
+- {Button} Click here to start application 
 - Or how widgets should perform would go here
 
 ### Content
