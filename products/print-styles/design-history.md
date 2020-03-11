@@ -2,8 +2,6 @@
 Link to product brief:  
 Designers: Jonathan Nelson, Riley Orr
 
-//Note: Put the "latest" iteration at the top of the page, so if someone wants to see the latest design direction they don't have to scroll to the bottom. 
-
 ## Iteration 2 - Sprint 16
 
 ### Designs
