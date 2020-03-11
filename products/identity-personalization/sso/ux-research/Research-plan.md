@@ -77,4 +77,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Notes & Recordings:
 - Synthesis:
 - Lessons Learned:
-- Read-Out/Results
+- Read-Out/Results: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Research-summary.md
