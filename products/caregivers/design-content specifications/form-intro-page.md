@@ -25,7 +25,7 @@ Equal to VA Form 10-10CG (Application for Family Caregiver Benefits)
 
 If you’re a family member caring for a Veteran with disabilities, we want to support you. We recognize that family caregivers enhance the health and well-being of Veterans they care for in their home.
 
-[Link}: Learn more about family caregiver benefits and find out if you qualify
+{Link} Learn more about family caregiver benefits and find out if you qualify
 
 
 
