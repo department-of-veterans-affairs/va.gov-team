@@ -41,7 +41,13 @@ List details of each finding in top findings here, with supporting quotes when p
 Any additional insights that aren't "top findings."
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+- Add “search this area” functionality to map
+- Show 5 results on first page
+- If user moves map, require them to re-search
+- Add filter for “within x miles”
+- Brainstorm new card labels
+- Include a "you are here" (similar to google maps) on map
+- Update labels to distinguish VAMCs
 
 ## Next Steps
 Next steps here
