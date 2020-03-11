@@ -11,7 +11,9 @@ This will be the automated tests teams must run before requesting a staging acce
 
 ### Scan with axe browser plugin (required)
 
-TODO: Add image from TestRail
+![Axe plugin for Chrome dev tools](https://user-images.githubusercontent.com/934879/76459202-a8d4f780-63d3-11ea-8ef6-aaec0a2482ba.jpg)
+
+---
 
 **Steps to test:**
 
@@ -48,7 +50,9 @@ This will be the automated tests teams should run before requesting a staging ac
 
 ### Scan with axe-coconut (recommended)
 
-TODO: Add image from TestRail
+![Axe-coconut plugin for Chrome dev tools](https://user-images.githubusercontent.com/934879/76459245-bd18f480-63d3-11ea-95b2-2072ed374e8f.jpg)
+
+---
 
 **Steps to test:**
 
@@ -64,6 +68,10 @@ TODO: Add image from TestRail
 ---
 
 ### Visually scan with WAVE (recommended)
+
+![WAVE plugin summary pane](https://user-images.githubusercontent.com/934879/76459466-27319980-63d4-11ea-8ed1-9caa79f31498.jpg)
+
+---
 
 **Steps to test:**
 
