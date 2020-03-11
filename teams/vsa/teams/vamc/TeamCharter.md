@@ -15,9 +15,11 @@ Systems published to "pre-prod" per quarter.
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
+  
 #### KPIs
-- Number of site/system page scaffolds completed in a sprint
-- Number of sites/systems completed in a sprint (with 508 + content)
+- page scaffolds created in a sprint
+- pages loaded with data in a sprint 
+- pages loaded with content in a sprint
 
 #### Bets
 - blank package for a system and let that run thru all req checks e.g. 508
