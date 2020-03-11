@@ -23,7 +23,7 @@ Designers: Jonathan Nelson, Riley Orr
 Meeting date: 03/11/2020  
 Attendees: Jonathan Nelson, Riley Orr, Peggy Gannon, Emily Waggoner, Crystabel Reiter, Jennifer Strickland, Trevor Pierce 
 
-Outcomes
+Outcomes<br>
 - There was a lot of discussion around how to best display text on the page (to bold or not to bold!)
    - Some folks thought that only headers should be bolded while none of the body text should 
    - Some folks thought that data should be bolded instead of labels 
@@ -34,7 +34,7 @@ Outcomes
 - We have designed a version displaying the data with a bolded treatment and a version with only bolded headers and regular type treatment for the body content 
    - Both designs will be evaluated to see which promotes scannability and reduces the amount of ink used when printed 
 
-Resources
+Resources<br>
 [Review request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6364)<br>
 [Crystabel's feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6723)<br>
 [Peggy's feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6722)<br>
