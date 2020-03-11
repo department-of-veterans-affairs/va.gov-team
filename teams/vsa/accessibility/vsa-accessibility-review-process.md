@@ -155,7 +155,6 @@ Teams are encouraged to reach out for casual check-ins. Feel free to message Jen
 
 ### Development intent review
 
-**[>> Schedule a dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** <br/>
 This recommended collaboration point happens _before beginning development_. The accessibility specialist(s) will review the design with the developer(s) to:
 
     a. Discuss approach to take with development, for WCAG compliance
@@ -164,6 +163,7 @@ This recommended collaboration point happens _before beginning development_. The
 
     c. Identify any accessibility issues and how to address
 
+**[>> Schedule a dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** 
     
 ### Staging review 
 (previously the pre-launch 508 review, now coordinated with VSP practice areas) 
