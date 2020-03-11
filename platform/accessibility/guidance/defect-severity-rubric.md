@@ -59,7 +59,7 @@ These issues have the potential to severly disrupt the user experience and must 
 
 * [Videos must have captioning](https://www.w3.org/WAI/perspective-videos/captions/)
 
-* [Color contrast issues](https://webaim.org/articles/contrast/)
+* [Color contrast issues](https://webaim.org/articles/contrast/) must be corrected
 
 * [Form inputs must have semantic labels](https://www.w3.org/WAI/tutorials/forms/labels/)
 
