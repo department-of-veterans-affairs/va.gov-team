@@ -1,12 +1,19 @@
 # Title Research Findings 
-**Digital Services Veterans Affairs (DSVA), VSA, Team Name**<br>
+**Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
-Designer 1 (email), Designer 2 (email), MM/DD/YYYY
+Aricka Lewis (aricka@adhocteam.us, 03/11/2020
 
-View the [Research Plan](link here).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-plan.md).
+
 ## Research Goals 
 
-Description of research goals
+The goal of this research was to understand users expectations for search results, including the following:
+
+- how many results they expect to be returned for a healthcare related search
+- how search results are impacted by geographic setting (urban/rural)
+- what geographic area they would expect the map to show by default
+- how they would expect to interact with the map to change their search results
+- how facility type impacts expectations
 
 ## Research Methodology 
 
@@ -18,7 +25,11 @@ Description of who was spoken to.
 
 ### Research Questions
 
-Research questions here
+- How does user interaction with the map and search results differ between urban and rural residents?
+- What impact does facility or service type have on how participants interact with search results?
+- How many search results should the facility locator display before pagination?
+- How do participants utilize the map and search results together?
+- How do particpants expect to refine their search results?
 
 ## Key Findings
 List top findings here
