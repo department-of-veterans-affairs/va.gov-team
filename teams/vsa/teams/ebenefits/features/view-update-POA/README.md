@@ -53,12 +53,12 @@ TBD
 ## Assumptions
 
 - Product will use existing prefill integrations to pre-populate known information
-- Product will use new (to us) BGS or BIP endpoints as EVSS is being deprecated
+- Product will use BGS or BIP endpoints as EVSS is being deprecated
 - More as per discovery
 
 ## Requirements and Constraints
 
-- A logged in LOA3-proofed Veteran should be able to submit a 686c, and possible a 674, depending on existing functionality
+- A logged in LOA3-proofed Veteran should be able to submit a 21-22 or 21-22a.
 - Is it necessary that the forms be PDFed and uploaded to eFolder? Need research.
 - TODO: Add more
 
@@ -74,13 +74,9 @@ TBD
 
 ### Business Value
 
-1. Reduce the burden on administrative professionals significantly by providing them fact-checked information directly from VA partner systems
-2. Reduce mail processing costs
-TBD
+1. Sunset EBN
 
-## KPIs
 
-TBD
 
 ---
 
@@ -108,15 +104,6 @@ TBD
 - Designer(s):
 - Content Writer(s):
 
-### API Team
-- Product and Project: 
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-### Veteran Facing UX Team
-- Product and Project:
-- Front-end Engineer(s):
-- Back-end Engineer(s):
 
 
 `*` = approval required for launch
