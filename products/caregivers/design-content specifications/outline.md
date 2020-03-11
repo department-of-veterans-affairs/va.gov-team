@@ -19,7 +19,7 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Drupal content pages** 
    - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/content-page.md)
 - **Introduction Screen**
-   - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-intropage.md)
+   - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/form-intro-page.md)
 - **Chapter 1: [Veteran Information Chapter]**
    - Page 1: [Vet Info One]()
    - Page 2: [Vet Info Two]()
