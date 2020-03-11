@@ -30,7 +30,7 @@
 
 ## Sprint 16 (2/26 - 3/10)
 ```diff 
-- 52 points over 16 issues
+- 54 points over 17 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings ([#6202](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6202))
