@@ -312,7 +312,7 @@ You bring:
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
 - Link to your accessibility test plan:
   - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
-  - **Markdown** [Github accessibility test plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
+  - **Markdown** [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 - List of known issues (with links to tickets when applicable)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
