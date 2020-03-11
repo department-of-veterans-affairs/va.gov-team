@@ -17,11 +17,16 @@ The goal of this research was to understand users expectations for search result
 
 ## Research Methodology 
 
-Description of method chosen
+A task-based remote, moderated usability study was conducted via Zoom between March 4 - March 6, 2020. A moderator began with introduction questions and prompted users with questions (from the conversation guide). Participants were encouraged to talk through their exploration of the Facility Locator on VA.gov. Remote observers and note takers were also in attendance.
 
 ### Who we talked to
 
-Description of who was spoken to.
+- 4 Veterans 
+- 1 Caregiver
+- Geographically diverse (IN, NY, FL, PA, TN)
+  - 3 rural
+  - 2 urban
+- Ages varied 25-64 years of age (exact data unknown)
 
 ### Research Questions
 
@@ -32,13 +37,23 @@ Description of who was spoken to.
 - How do particpants expect to refine their search results?
 
 ## Key Findings
-List top findings here
+
+1. The expected number of search results varies based on geographic location.
+2. The most likely use-case for the Facility Locator is when a person is traveling or researching an unfamiliar area.
+3. Participants did not refer to the Facility Locator when seeking help for a specific issue.
+4. The map is a secondary source for users to find a location.
+5. Participants are more likely to look for VA Medical Centers than non-VA locations.
+6. Participants depend on the name of a facility to inform their search.
+7. Participants want to know what services are available at a facility.
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+
+- Benefits help offices are often far away from a user's location.
+- There is a need for Caregiver specific information
+
 
 ## Recommendations
 - Add “search this area” functionality to map
@@ -48,6 +63,7 @@ Any additional insights that aren't "top findings."
 - Brainstorm new card labels
 - Include a "you are here" (similar to google maps) on map
 - Update labels to distinguish VAMCs
+- Include information on regional offices for benefits help
 
 ## Next Steps
 Next steps here
