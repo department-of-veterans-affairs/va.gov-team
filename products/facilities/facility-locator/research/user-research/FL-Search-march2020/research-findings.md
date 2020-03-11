@@ -82,21 +82,26 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 ## Next Steps
 
 ### Update search experience
+- Implement design recommendations 
 
 ### Look into Veteran journeys
+- Get a better understanding of how/when Veterans interact with and visit certain facilities
 
 ### Prepare for accessibility testing
+- Meet with Jennifer S. to plan 
 
 ## Appendix
 ### Conversation guide
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020
 
 ### Interview transcripts
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/session-notes
 
 ### Tools used for Synthesis
-e.g. mural boards, etc.  
+- Mural: https://app.mural.co/t/vsa8243/m/vsa8243/1582917972915/2b5515a1af8c264004147d139990c29ca4ac090c
 
 ### Pages and applications used
-Link to prototypes or pages that were tested
+https://www.va.gov/find-locations
 
 ### Other supporting documents created
-e.g. user flows, personas, etc.
+
