@@ -1,6 +1,6 @@
 # Accessibility Test Credentials Template
 
-So you're ready for an accessibility review as part of your wider staging review. Outstanding! In order to ensure the accessibility review goes smoothly, please make a copy of this template and save it to your your team's [platform accessibility folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility) on the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repository.
+So you're ready for an accessibility review as part of your wider staging review. Outstanding! In order to ensure the accessibility review goes smoothly, please make a copy of this template and your [accessibility test cases](#link-to-test-cases). Save them to the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/) repository.
 
 Please include as much information as you can. There is no such thing as over-communicating! Each section has comments that look like this:
 
