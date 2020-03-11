@@ -8,6 +8,26 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
+## Sprint 16 (3/11 - 3/24)
+```diff 
+- TBD
+```
+## 1. Continue Developing "Submit 686c Dependency Claims"
+- Design: Run final platform design/ collab cycle meetings
+- Frontend: Stub out remaining FE workflows and unit tests
+- Backend: Build infrastructure sufficient to submit a valid 686c
+
+## 2. View Payments: Finish Initial Designs
+- Design: Schedule Design intent meeting and create an initial feature design
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments (doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)
+
+## 3. Power of Attorney: Product Documentation and Walkthrough
+- Product: Create product documentation in feature README
+- Design: Begin customer journey map/ initial design/ collab cycle meetings with platform
+
+## 4. Stretch - Improve Product Infrastructure
+- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature. _(Determine what kind of Product-level support is needed.)_
+
 ## Sprint 16 (2/26 - 3/10)
 ```diff 
 - 54 points over 17 issues
