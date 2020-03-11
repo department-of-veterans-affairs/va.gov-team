@@ -8,12 +8,12 @@ Relevant links:
 
 ### Description 
 
-This page gives users step-by-step information on how to apply for a benefit. It also sets clear expectations on when they can expect a decision on their application. This page also gives users ways to get help, as well as important information about that specific form or benefit.  
+This page gives users step-by-step information on how to apply for a caregiver benefit. It also sets clear expectations on when they can expect a decision on their application. This page also gives users ways to get help, as well as important information about that specific form or benefit.  
 
 Users can navigate to a form’s introduction page either from within VA.gov or through an online search. Since users can navigate to this page from outside VA.gov, this page includes some basic benefit eligibility information and a link back to the VA.gov eligibility page. 
 
 ### Interaction Notes 
-- Click 
+- [Button] Click here to start application 
 - Or how widgets should perform would go here
 
 ### Content
