@@ -10,7 +10,7 @@
 ----
 ## Sprint 17 (3/11 - 3/24)
 ```diff 
-- TBD
+- 68 points over 20 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Run final platform design/ collab cycle meetings
