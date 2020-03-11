@@ -80,7 +80,12 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 - Include information on regional offices for benefits help
 
 ## Next Steps
-Next steps here
+
+### Update search experience
+
+### Look into Veteran journeys
+
+### Prepare for accessibility testing
 
 ## Appendix
 ### Conversation guide
