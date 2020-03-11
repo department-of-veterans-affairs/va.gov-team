@@ -80,8 +80,29 @@ These issues have the potential to disrupt the user experience and should be fix
 
 * Serious errors in automated scanning tools like [aXe browser plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
 * [Zoomed layouts](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) do not support use without horizontal scrolling, or have difficult to read text. Horizontal scrolling is allowed for data tables, images, or other rich media.
-* Color blindness issues (color is the only way to determine links from plain text, for instance)
-* Labels or calls to action that are not descriptive enough for assistive devices ("Edit...what?")
+* Color blindness issues (color is the only way to distinguish links from plain text, for instance)
+* Labels or calls to action that are not descriptive enough for assistive devices. Some examples might include:
+  * A button to edit a form in place. The button says "Edit", but doesn't answer "Edit...what?" to a screen reader. The user is asked to work back through the page and listen for a heading or key text to identify what this button might do.
+  * A button labeled "Learn more" that expands an accordion. Again, screen reader users are left to figure out what they might be learning more about.
+  * This issue can be remediated in a couple of ways:
+  
+    ```html
+    /*
+     * Best if you need to support language translation
+     */
+    <button>
+      <span aria-hidden="true">Edit</span>
+      <span class="sr-only">Edit street address</span>
+    </button>
+    ```
+    
+    ```html
+    /*
+     * Less markup, but does not support language translation
+     * https://adrianroselli.com/2019/11/aria-label-does-not-translate.html
+     */
+    <button aria-label="Edit street address">Edit</button>
+    ```
 * Unusual source order or click path
 * Content that is too far removed from an explanation, or with no explanation at all
 * Missing landmark HTML. This includes:
