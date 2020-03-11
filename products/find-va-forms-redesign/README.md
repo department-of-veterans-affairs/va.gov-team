@@ -38,6 +38,14 @@ __VA forms stakeholder working group includes:__
 
 ## Status/Decisions:
 
+## 03/11/2020
+
+Recap of redirect update w/ @mnorthuis from our Monday call:
+- Per last Friday's call with Missie Vacaro-Palomaki (VACO forms manager) on the forms working group call, OPM, GSA, and other non-VA and other internal forms will continue to be available in public VA forms search. 
+- Because they will continue to be in the DB, they will be available via organic search on VA.gov as dynamically generated template form detail landing pages (new pages w/new URLs).
+- So we still need to determine the legacy form detail pages for these non-VA forms. Using our current strategy of redirecting 1:1 only the highest traffic forms, these legacy hybrid VA-OPM/GSA form detail landing pages will be default redirected to the new forms search page URL. (Where users can search for the OPM/GSA form, and will be able to find them via regular form search as they do today.)
+
+
 ## 03/06/2020
 
 "Soft" launched forms search behind basic credentials/access input. This option also keeps the page hidden from search engines and IA, and clearly indicates to visitors that this isn't publicly available yet. 
