@@ -47,13 +47,27 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 7. Participants want to know what services are available at a facility.
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+
+**1. The expected number of search results varies based on geographic location.**
+
+**2. The most likely use-case for the Facility Locator is when a person is traveling or researching an unfamiliar area.**
+
+**3. Participants did not refer to the Facility Locator when seeking help for a specific issue.**
+
+**4. The map is a secondary source for users to find a location.**
+
+**5. Participants are more likely to look for VA Medical Centers than non-VA locations.**
+
+**6. Participants depend on the name of a facility to inform their search.**
+
+**7. Participants want to know what services are available at a facility.**
 
 ## Additional Insights
 
 - Benefits help offices are often far away from a user's location.
 - There is a need for Caregiver specific information
-
+- Distance and travel time vary by location
+- Users interpret facility descriptions differently
 
 ## Recommendations
 - Add “search this area” functionality to map
