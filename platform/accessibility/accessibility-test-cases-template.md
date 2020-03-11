@@ -1,8 +1,9 @@
 # Accessibility Test Cases Template
 
-* Confirm your team has a folder in the [va.gov-team-sensitive accessibility folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility). This private repo is a good place to store test credentials and passwords.
+* Confirm your team has a folder in the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/) repo. This private repo is a good place to store test credentials and passwords.
 * Copy the [accessibility test credentials template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md) and this test case template into your team folder.
 * Enter your unique product/feature data into the copied documents before requesting a [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) with VSP.
+* Include links to your test credentials and test plan in your staging review.
 
 ## Automated testing (required)
 
