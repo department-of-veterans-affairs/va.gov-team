@@ -8,7 +8,7 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
-## Sprint 16 (3/11 - 3/24)
+## Sprint 17 (3/11 - 3/24)
 ```diff 
 - TBD
 ```
