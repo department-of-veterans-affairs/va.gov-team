@@ -45,6 +45,7 @@ Recap of redirect update w/ @mnorthuis from our Monday call:
 - Because they will continue to be in the DB, they will be available via organic search on VA.gov as dynamically generated template form detail landing pages (new pages w/new URLs).
 - So we still need to determine the legacy form detail pages for these non-VA forms. Using our current strategy of redirecting 1:1 only the highest traffic forms, these legacy hybrid VA-OPM/GSA form detail landing pages will be default redirected to the new forms search page URL. (Where users can search for the OPM/GSA form, and will be able to find them via regular form search as they do today.)
 
+Note: the super high traffic OPM forms (there are 2 of them) will be redirected 1:1, per prior decision. Those 2 high traffic OPM forms are on Mikki's spreadsheet: SF 180 (redirect to our military records page); and OF 306 (to the OPM form landing page)
 
 ## 03/06/2020
 
