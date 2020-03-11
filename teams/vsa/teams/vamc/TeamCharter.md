@@ -8,16 +8,23 @@ Enable Veterans,their family, and caregivers, through use of the VA's VISN Medic
 Providing these upgraded and streamlined tools to the ALL VAMC system Office of Public Affairs and adminstrators, so that they can efficently support and continualy enable Veterans, their family, and caregivers in their VAMC journey. 
 
 ### VAMC North Star
-Systems published to "pre-prod" per quarter.
+Systems published to "pre-prod" per quarter. (Q2 Goal - 8 from VISN 4)
 
-### OKRs - Q1 2020
-- Objective: Automate VISN creation
+### OKRs 
+
+#### Q1 2020
+- Objective: "Push-button VISN creation"
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
-  - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
+  - Key Result: Reduce time to finalize and incorporate content for 1 system to less than 1 month
+  
+#### Q2 2020 - Tentative 
+- Objective: "Push-button VISN creation"
+  - Key Result: Reduce time to finalize and incorporate content for *n* systems to less than 1 month
   
 #### KPIs
 - page scaffolds created in a sprint
+- time to receive complete kick-off package back from PAO
 - pages loaded with data in a sprint 
 - pages loaded with content in a sprint
 
@@ -26,6 +33,7 @@ Systems published to "pre-prod" per quarter.
 - dropping content into components/fields automatically 
 - dropping content into a content block (create block + drop content in for that block e.g. accordion for parking info)
 - created components + content via a "business-focused" CSV  
+- Stub out 2 future VISNs at a time with their scaffold
 
 
 ## What we work on
