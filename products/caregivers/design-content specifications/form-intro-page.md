@@ -27,34 +27,9 @@ If you’re a family member caring for a Veteran with disabilities, we want to s
 
 {Link} Learn more about family caregiver benefits and find out if you qualify
 
+{CTA Green Button} Click here to start your application
 
-
-## Sign-in message (required)
-
-{blue box: Sign in message}
-
-Save time—and save your work in progress—by signing in before starting your application
-
-When you’re signed in to your VA.gov account:
--	We can prefill part of your application based on your account details.
--	You can save your application in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your application to submit it. After 60 days, we’ll delete the form and you’ll need to start over.
-
-Note: If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.
-
-{CTA Blue button} Sign in to start your [benefit] application
-
-{link} Start your application without signing in
-
-{end blue box}
-
-
-Most online applications will give you the option to start the form without signing in. 
-The exception is Disability Compensation form. You need to sign in to start that application. 
-
-![signed out.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/1d5d3f75-9047-44d1-8ebb-93c5c7c25e53)
-
-
-## Subway map (required)
+## Subway map 
 
 https://design.va.gov/components/process-list
 
