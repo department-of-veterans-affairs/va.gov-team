@@ -5,7 +5,7 @@ Relevant links:
 - [Github issue]()
 
 ### Description 
-This page provides information on The Program for Comprehensive Assistance for Family Members. The content page provides information of qualifications, what the user can get from the program, and what information user will need to apply. 
+This page provides information on The Program for Comprehensive Assistance for Family Members. It lays out qualifications, benefits of the program, and information need to apply. 
 
 ### Interaction Notes 
 - "Apply for caregiver benefits" button goes to intro page 
