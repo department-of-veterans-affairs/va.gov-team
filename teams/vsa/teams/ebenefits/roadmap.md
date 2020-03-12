@@ -15,7 +15,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Search for POA                                      | vsa-ebenefits | Q2        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
-| View My Documents (eFolder)                         | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | BGS integration
+| View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
