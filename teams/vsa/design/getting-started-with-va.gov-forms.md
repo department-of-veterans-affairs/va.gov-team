@@ -6,7 +6,7 @@ _With contributions from:_ VSA Design: Jonathan Nelson, Liz Lantz, Christian Val
 
 So you’re moving a paper form online.  Or moving a legacy online form to VA.gov. What are your next steps? 
 
-* [The structure of a form](#the-structure-of-a-form)
+* [The Structure of a Form](#the-structure-of-a-form)
    * [Content pages](#content-pages)
    * [Introduction pages](#the-introduction-page)
    * [Main form pages](#the-main-form-pages)
