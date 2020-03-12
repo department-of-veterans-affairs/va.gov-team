@@ -56,13 +56,20 @@ A VA clinical professional who connects caregivers of Veterans with VA and commu
 
 We use the same language for this step across all forms: 
 
-Complete this [benefits] form. After submitting the form, you’ll get a confirmation message. You can print this page for your records.
-Within this header we include content about how an applicant can get help filling out the form.
+Complete this caregiver benefits form, or have a power of attorney or representative complete the form. You’ll get a confirmation message after submitting the form. You can print this for your records
 
-This message is consistent across all forms: 
+{Addtional info component expanded} What is power of attorney?
 
-**What if I need help filling out my application?** 
-An accredited representative, like a Veterans Service Officer (VSO) can [help you fill out your claim](https://www.va.gov/disability/get-help-filing-claim/).
+Power of attorney is the legal authorization for someone to act on the Veteran’s or service member’s behalf when completing this form.
+
+{Addtional info component expanded} Who can be a represenative? 
+
+A representative can be a Veteran’s or service member’s: 
+
+* Court-appointed legal guardian 
+* Special guardian
+* Holder of durable power of attorney for health care
+*	Another designated health care agent 
 
 **VA review**
 
