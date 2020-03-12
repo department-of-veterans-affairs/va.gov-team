@@ -1,4 +1,4 @@
-# Faciilty Locator Search Expectations Research Findings 
+# Facility Locator Search Expectations Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
 Aricka Lewis (aricka@adhocteam.us), 03/11/2020
