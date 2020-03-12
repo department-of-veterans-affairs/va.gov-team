@@ -11,8 +11,8 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View Rated Disabilities                             | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | Launch on EVSS; redev to BGS Q3
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q3        | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
-| View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
-| Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
+| View POA (Representative)                           | vsa-ebenefits | Q2        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
+| Search for POA                                      | vsa-ebenefits | Q2        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
 | View My Documents (eFolder)                         | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | BGS integration
