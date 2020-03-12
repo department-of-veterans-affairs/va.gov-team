@@ -42,3 +42,5 @@ _Rollout meetings with VSA teams_
 - QA artifacts as part of Usability Testing Prep are _really_ tripping people up, they do not seem thrilled (curious to see if we get the same feedback in the post-review surveys?) 3/6/20
 - Related, the 2 Usability Testing Prep templates we've had so far have both been created by the team designer, which is not our guidance -- that could be why the QA artifacts are confusing, bc the designer doesn't know why they need to think about QA? 3/6/20
 - Need to add a step into templates that has Megan/Andrea assign ticket back to requesting team once meeting has been scheduled 3/6/20
+- Need to change templates to have requesting team put email addresses of attendees
+- Need to change templates to include our times that are blocked off for reviews in the "Scheduling" section
