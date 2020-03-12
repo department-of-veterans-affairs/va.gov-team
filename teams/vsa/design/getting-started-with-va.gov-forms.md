@@ -62,7 +62,7 @@ The states can be seen here [https://vsateams.invisionapp.com/share/A2W64P7YUG9#
 Example here: [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500061](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406500061)
 
 ### The Main Form Pages
-Examples start here (use the right/left arrow keys to navigate through): [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387)
+Some examples start here (use the right arrow key to navigate through): [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387](https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406903387)
 
 #### Sectioning of the Form
 (Reference: [https://dsva.slack.com/archives/C0NGDDXME/p1578005824025300](https://dsva.slack.com/archives/C0NGDDXME/p1578005824025300))
