@@ -61,13 +61,16 @@ Criteria for recruiting:
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
 ## Timeline 	
-This study will take place on TBD.
+This study will take place on March 31, April 1-3, 2020.
 Each session will be approximately 45 minutes.
 	
 ### Team Availability (EST)
 
 Date | Time
------|-------
+March 31 |11 AM - 6 PM
+April 1 |11 AM - 6 PM
+April 2 |11 AM - 6 PM
+April 3 |11 AM - 6 PM
 
 A pilot session will be held on TBD
 Pilot participant: TBD
