@@ -36,6 +36,11 @@ Last Updated February 26, 2020
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
 - [KPIs](#kpis)
+- [Go-to-market Strategy](#go-to-market-strategy)
+- [Target Launch Date](#target-launch-date)
+ 
+
+---
 
 # Implementation Information
 - [Status](#status)
@@ -122,6 +127,17 @@ Technical: There are many different types communications about debt (typically r
 https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHMNrk/edit#gid=1554481611)
 
 [Sample KPI Worksheet (Disability and Appeals)](https://docs.google.com/spreadsheets/d/1kd9BINUvJYvSa5vO2a4gCjs2x8-6ouhVYXA_VFj4eDY/edit#gid=1554481611)
+
+---
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
+---
 
 ---
 
