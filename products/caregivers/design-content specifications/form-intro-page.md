@@ -45,11 +45,12 @@ Subway, or process, map shows the steps applicants need to take to apply for a b
 * Social Security number or tax identification number 
 * Health care coverage information 
 
-{optional}
-**[If you have a conditional situation] You may also need:**
-- Loreum upsem
-- Loreum upsem
+**What if I need help filling out my application?** 
+An accredited representative, like a Veterans Service Officer (VSO) or a caregiver support coordinator can [help you fill out your claim](https://www.va.gov/disability/get-help-filing-claim/).
 
+{Addtional info component expanded} What is a caregiver support coordinator? 
+
+A VA clinical professional who connects caregivers of Veterans with VA and community resources offering supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and are designated specialists in caregiving issues.
 
 **Apply**
 
