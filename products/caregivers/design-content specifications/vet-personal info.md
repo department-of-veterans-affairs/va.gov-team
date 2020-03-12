@@ -12,10 +12,3 @@ Complete the following information about the Veteran or service member. You aren
 {Text Input} Veteran's Social Security number or tax identification number
 {Text Input} Veteran's date of birth
 {Text Input} Gender
-
-
-
-
-
-
-
