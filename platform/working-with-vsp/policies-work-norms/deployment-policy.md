@@ -17,6 +17,9 @@ During holiday release freezes:
 * Automated deploys will not occur
 * All code deploys require approval via the "Requesting out-of-band-deploys" process below
 * Content-only deploys may continue without explicit approval, but need to be manually triggered
+* Limited support will be available from VSP team.
+
+*There may be a change in this policy as VA dictates.*
 
 The holiday release freeze is in effect during the following dates:
 
