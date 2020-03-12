@@ -40,7 +40,7 @@ For numbers 3-4 mentioned above, users are given guidance on where they are in t
 For a bit of context on the technical side, [read up on the form system](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) and/or [watch the quick demo Chris V. gave to the VSA design team](https://zoom.us/rec/share/x5FpP7XC1DJOYZ3d933GUagdMInqeaa82ilM-KcLzUxo_-q1CWuJcUJVwzaPXTp_) in Feb. 2020 (pw: vsadesign) 
 
 ### Content Pages
-Drupal static Eligibility and How to Apply pages
+Typically, there is a Drupal content page that a user can read before entering an online form, where they learn about eligibility and how to apply.  This page can have wizards, buttons, and/or application status widgets that link to the form.
 
 Example here: [https://vsateams.invisionapp.com/share/A2W64P7YUG9#/screens/406902817](https://www.va.gov/disability/how-to-file-claim/)
 
