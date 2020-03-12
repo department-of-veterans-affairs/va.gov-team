@@ -1,4 +1,4 @@
-*Last updated 2020-01-17*
+*Last updated 2020-01-27*
 
 # Automated Deploys
 
@@ -12,18 +12,25 @@ If there are days or periods of time when many people will be out of the office 
 
 ### Holiday release freeze schedule
 
-Automated deploys will not occur on the following days, due to holidays:
+During holiday release freezes:
 
-#### 2019
+* Automated deploys will not occur
+* All code deploys require approval via the "Requesting out-of-band-deploys" process below
+* Content-only deploys may continue without explicit approval, but need to be manually triggered
+* Limited support will be available from VSP team.
 
-* 9/2 - **Labor Day**
-* 11/11 - **Veterans Day**
-* 11/27 - 11/29 - **Thanksgiving**
-* 12/23 - 1/3/2020 - **Winter holiday freeze** (Note: *two weeks*)
+*There may be a change in this policy as VA dictates.*
+
+The holiday release freeze is in effect during the following dates:
 
 #### 2020
 
-*Holiday release freeze schedule update coming soon*
+* 05/25 - **Memorial Day**
+* 07/03 - **Independence Day** (observed)
+* 09/07 - **Labor Day**
+* 11/11 - **Veteran's Day**
+* 11/25 - 11/27 - **Thanksgiving**
+* 12/23 - 1/1/2020 - **Winter holiday freeze** (note: *eight business days*)
 
 # Requesting out-of-band deploys
 
