@@ -1,5 +1,7 @@
 # GitHub Teams on for VA.gov
+
 ## What is GitHub Teams, and why are we talking about it?
+
 GitHub Teams give organizations the ability to create groups of members and control access to repositories. Team members can be granted read, write, or admin permissions to specific repositories.
 For more information on GitHub teams, please see [GitHub docs](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams).
 
@@ -8,7 +10,9 @@ At the moment, some teams have their own GitHub Teams, while others do not. GitH
 In the future, we will be using *Official GitHub Teams* as a source of truth for team rosters, access, and auditing purposes for VSP. The process of creating and maintaining Official GitHub Teams is below. 
 
 ## GitHub Team Process
+
 ### Creating a GitHub Team 
+
 * Work with your DEPO, Tech, and Team Lead to change an existing team to meet the requirements below or [create](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams)  an *Official GitHub Team* on VA.gov. 
     * All *Official GitHub Team* names should start with `vagov-` followed by the team name, which indicates the type of team this is. Examples of this are `vfs-*` (Veteran-facing Services) for teams working on an application or building tools and services on VA.gov.  Another is `vsp-*` (Veteran-facing Services Platform) for teams working on the platform supporting VFS teams. Examples would be `vagov-vsp-operations or `vagov-vfs-public-website`. If those two team types do not fit your team, work with the Platform team to create a logical team type prefix. 
     * Select the team name after `vfs-*` or `vsp-*`.  An example would be `vagov-vfs-[team name here]`. Choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
@@ -17,13 +21,15 @@ In the future, we will be using *Official GitHub Teams* as a source of truth for
 * Inform the VSP Platform Support and the VSP Operations team of any new GitHub team by posting in the #vfs-platform-support  channel. 
 
 ### Maintaining GitHub Teams 
+
 * Any new team members will need to be added to the `vagov-all-teams` GitHub team by a member of the Platform team as part of onboarding. This team will grant them base access to tools. New team members will not be allowed to join their *Official GitHub Team* until after their SAC adjudication returns a “favorable” response. For more information about the approval process, please see the [request for tools documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers). 
 * Teams are responsible for adding and removing members from an *Official GitHub Team*. 
     * Once approved, new team members should be added by the *Official GitHub Team’s* maintainers. 
     * If a team member leaves an *Official GitHub Team* they need to be removed within three days of departing the team by one of the team’s maintainers and then: 
         * Use the GitHub issue template “Offboarding Request” in the [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team) to remove any access from the user.
 
-### Making Changes to an Official GitHub Team 
+### Making Changes to an Official GitHub Team
+
 * No changes to an *Official GitHub Team* name can be made unless approved by DEPO, the VSP Platform Support, and the VSP Operations team.
     * To request an *Official GitHub Team* name change, please post in the  #vfs-platform-support channel and provide:
         * The existing and new team names
