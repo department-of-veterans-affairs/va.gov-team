@@ -73,53 +73,34 @@ A representative can be a Veteran’s or service member’s:
 
 **VA review**
 
-The step tells applicants how much time it takes VA to review their application.  The content under this heading depends on what type of benefit an applicant is applying for.
+A caregiver support coordinator will review the application and contact you or your caregiver about your eligibility.
 
-Some examples: 
+**If you initially meets eligibility requirements, the next steps are:
 
-{for Health Care} *We process health care claims within a week.*
-
-{for Education} *We usually process claims within 30 days. We’ll let you know by mail if we need more information.*
-
-{for Disability} *We process applications in the order we receive them. We may contact you if we have questions or need more information.  The amount of time it takes to review your claim depends on:*
-- Loreum upsem
-- Loreum upsem
-- Loreum upsem
-
+* You or your caregiver will visit the medical center where you receive care 
+* Your caregiver will receive education and training
+* A caregiver support coordinator will schedule a visit to your home
+ 
 **Decision**
-This step tells applicants they will be informed about the status of their application (if denied or approved) and the next steps.
-It also sets the user’s expectation for how long it takes to receive a response.
+
+Once we’ve reviewed your application, you’ll get a notice in the mail with our decision. 
 
 
-{CTA Blue button} Sign in to start your [benefit] application
-
-
-## Other components on the intro page
-
-### Alert boxes (optional)
-
-Depending on the type of benefit, we sometimes include an informational alert box with specific info about that benefit
-(https://design.va.gov/components/alertboxes). 
-
-This is an optional component and should only be used if there is important benefit or part of the application process to call out to the applicant. 
-
-![alert box.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/05c0adb9-7d2d-4040-8d2f-9742273d7771)
-
-
+{CTA Green button} Click here to start application
 
 ### OMB information 
 
 This appears at the bottom of the Introduction page and shows:
-- Respondent burden
-- OMB control numer
+- Respondent burden: 30 minutes 
+- OMB control numer: 2900-0091
 - Privacy act (link)
 
 
-### Need help? footer 
-
-This footer appears on the bottom of every page of the form. It includes phone numbers if applicants needs more support or has questions about filling out the form. 
+### Need help? footer  
 
 Need help?
+Need help filling out this form,  ask the VA Caregiver Support Line: 
+855-260-3274
 For help filling out this form, or if the form isn’t working right, please call VA Benefits and Services at 800-827-1000.
 If you have hearing loss, call TTY: 711.
 ```
