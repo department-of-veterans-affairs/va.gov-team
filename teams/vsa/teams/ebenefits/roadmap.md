@@ -54,3 +54,20 @@ _Targets are dates in FY2020 unless otherwise noted_
 | WAVE Enrollment Verification
 | Join Burn Pit Registry
 | Transfer Post-911 GI Bill Benefits
+
+## WIP: EVSS Roadmap
+
+| Service                                             |  Notes 
+| --------------------------------------------------- | -----
+| dependents                                          | May be deprecated as part of 686c work
+| disability_compensation_form                        | Needs migration plan
+| gi_bill_status                                      | Needs migration plan
+| intent_to_file                                      | Matching BGS service
+| letters                                             | Needs migration plan
+| pciu                                                | Migrate to fallback strategy of VA-Profile > BGS::EbenefitsAddressUpdateWebService
+| pciu_address                                        | Migrate to fallback strategy of VA-Profile > BGS::EbenefitsAddressUpdateWebService
+| ppiu                                                | Matching BGS service for both Comp and Ch33
+| reference_data                                      | Needs migration plan
+| vso_search                                          | May be deprecated as part of 21-22/a work
+
+
