@@ -1,5 +1,3 @@
-# Page 1
-
 # Apply for family caregiver benefits
 Form 10-10CG
 
