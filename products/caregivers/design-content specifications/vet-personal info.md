@@ -37,7 +37,9 @@ If you have hearing loss, call TTY: 711.
 .... Copy ....
 
 [large info alert component]
+
 [large info alert heading] heading copy
+
 [large info alert message] message copy
 
 [featured content component]
