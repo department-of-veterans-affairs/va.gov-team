@@ -48,36 +48,15 @@ application** from scratch and **migrate an existing application** to a new repo
 
 
 ### Detailed Design
-_Designs that are too detailed for the above High Level Design section belong
-here. Anything that will require a day or more of work to implement should be
-described here._
+As mentioned in the [High Level Design](#high-level-design), there are three
+main points of contact between the platform and applications.
 
-_This is a great place to put APIs, communication protocols, file formats, and
-the like._
-
-_It is important to include assumptions about what external systems will
-provide. For example if this system has a method that takes a user id as input,
-will your implementation assume that the user id is valid? Or if a method has a
-string parameter, does it assume that the parameter has been sanitized against
-injection attacks? Having such assumptions explicitly spelled out here before
-you start implementing increases the chances that misunderstandings will be
-caught by a reviewer before they lead to bugs or vulnerabilities. Please
-reference the external system's documentation to justify your assumption
-whenever possible (and if such documentation doesn't exist, ask the external
-system's author to document the behavior or at least confirm it in an email)._
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything
-that would be a pain to change if you were requested to do so in a code review.
-If you put that implementation detail in here, you'll be less likely to be asked
-to change it once you've written all the code._
-
-<!-- Note to self: My audience is engineers who are looking to learn why the -->
-<!-- front end is split up and deployed the way it is. Write to engineers who -->
-<!-- are trying to learn this. -->
+1. [Code](#code)
+1. [CI](#ci)
+1. [Deployment](#deployment)
 
 
-##### Applications live in their own repos
-
+#### Code
 Applications will live in their own separate repositories. This provides a
 number of benefits:
 - A clearer separation of concerns between applications
@@ -87,86 +66,55 @@ number of benefits:
     dependencies when they have the bandwidth
   - This narrower scope makes upgrading dependencies less onerous, so teams will
     be more likely to do it
-- [Independent CI pipelines](#applications-have-their-own-ci-pipelines)
-- [Independent deployments](#applications-have-their-own-deployments)
-
-Separating the front end code will require some additional overhead. To aid
-application teams, the platform will provide the following:
-- Default configuration
-  - CircleCI
-  - Jenkins (for now)
-  - ESLint rules
-  - WebPack
-- Application boilerplate for quickly spinning up a new application or migrating
-  an existing one
-  - Generators such as `CreateReactApp` can be used with the boilerplate (ideally)
-- [Platform code as NPM modules](#platform-code-is-distributed-as-versioned-npm-modules)
-- Instructions on how to set up a new application and port an existing one
-  - Including common steps such as copying the default configuration files,
-    connecting the repo to CircleCI / Jenkins, etc.
-
-<!-- What else? -->
 
 
-###### Questions
+##### Platform Responsibility
+- Cross-cutting functionality
+  - Utilities
+    - Authentication
+    - API helpers
+  - Forms library
+- Release notes on package updates
+- Code reviews on platform code
 
-- Who's in charge of managing read / write access to these repos?
-
-<!-- What else? -->
-
-
-#### Applications have their own CI pipelines
-Each repository will need to set up its own CI pipeline for building and testing
-changes. To aid application teams, the platform will provide:
-- Default configurations files
-  - CircleCI
-  - Jenkins (for now)
-- Default CI setup
-  - Whatever needs to happen to hook these configuration files into CircleCI /
-    Jenkins
-
-<!-- What else -->
+Application teams are free to make PRs to platform code, but it's up to the
+platform team to review and accept or reject the changes.
 
 
-#### Applications have their own deployments
-And importantly, their own rollbacks.
-There won't need to be nearly as much coordination for deployments.
+##### Application Teams Responsiblity
+- Ensuring their dependencies are up-to-date
+- Code reviews on application code
 
-#### Content and application files are served from separate buckets
-- Why?
-  - We'll have finer control over what's in an application deployment, but
-    things get complicated when we talk about content anything because goes
-  - Specifically, this is to aid in deployments
-- What are the challenges the single-bucket approach brings?
-    - When we deploy an application, we'd (note that this is a simplified view
-      of what actually happens):
-      1. Nuke a directory in the bucket
-      2. Push up the new files
-    - Rolling back an application deployment is similarly simple
-    - The struggle is with content deployments; we have no clear picture of what
-      belongs in the scope of the deployment; everything goes
-      - Couple this with the fact that the application landing pages are
-        indistinguishable from the HTML built from the CMS
-      - If we nuked the entire bucket, we'd lose the landing pages unless we did
-        some fancy footwork
-        - Would this fancy footwork be easier than a separate bucket?
-        
-- What are the deployment responsibilities?
-  - Adding new files
-  - Updating existing files
-  - Removing old files
 
-#### Platform code is distributed as versioned NPM modules
-This might make for a good Lerna repo, actually.
+#### CI
+Because applications have independent repositories, they can also manage their
+CI pipeline independently. Because there will be less to build and test in each
+individual pipeline, the Build-Release-Deploy (BRD) loop will be much shorter.
 
-#### More things to write about
-- How are the applications served on VA.gov?
-  - How is traffic routed to the right S3 bucket?
-    - The reverse proxies determine which bucket to route the request to, but
-      how does _it_ know?
-      - Some configuration that registers the paths?
-- How does this affect the stuff the Public Websites team works on?
-  - Their stuff isn't _really_ an app, but my guess is we can treat them as such
+
+##### Platform Responsibility
+- Infrastructure
+- Default configurations
+
+##### Application Teams Responsibility
+- Maintaining CI configurations
+
+#### Deployment
+Each application will have its own deployment cycle independent of the platform
+and other application code. This will allow teams to define the deployment cycle
+that works best for them.
+
+
+##### Platform Responsibility
+- Infrastructure
+  - Guides on how to use it
+- Default configurations
+
+
+##### Application Teams Responsibility
+- Defining the deployment cycle
+- Deploying code and other assets
+- Rolling back changes
 
 <!--
 
