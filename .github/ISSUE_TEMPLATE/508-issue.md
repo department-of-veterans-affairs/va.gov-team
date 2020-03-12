@@ -13,7 +13,7 @@ assignees: ''
 2. If this issue is being opened by a VFS team, please add the `triage-incident` and `product support` labels.
 3. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.
 4. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
-5. Indicate the 508 defect severity level: 
+5. Leave a link here to the 508 defect severity level: 
 
     - [508-defect-0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-0)
     - [508-defect-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-1)
@@ -31,6 +31,8 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 [COLOR]: Blue button on blue background does not have sufficient contrast ratio
 ---
 -->
+
+<!-- It's okay to delete the instructions above, but leave the link to the 508 defect severity level for your issue. -->
 
 **Feedback framework**
 
