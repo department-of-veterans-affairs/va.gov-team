@@ -25,12 +25,12 @@ This information is stored internally by VA.gov for 30 minutes after the last re
 
 ### Level of Assurance (LOA)
 The level of assurance, which is guaranteed by ID.me, is used during the process of authorizing authenticated users with VA.gov API resources.
-More Details on LOA in [Understanding LOA on Vetsdotgov](understanding-LOA-on-vetsdotgov.md)]
+More Details on LOA in [Understanding LOA on VA.gov](understanding-LOA-on-vetsdotgov.md)]
 
 
 ### Technical Diagram of User Authentication
-![Current Authentication Flow](../IDme/idme_flow.png)
-(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](/Products/Identity/Login/reference_documents/idme_flow_uml). )
+![Current Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/idme-flow.png)
+(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/idme-flow.uml). )
 
 ## User Authorization
 
@@ -43,5 +43,5 @@ In other words, a VA.gov user may use the Facility Locator, Health Care Applicat
 An authenticated user without the proper authorizations will be shown messaging within the user interface that outlines the next steps they must take to become authorized.
 
 ### Technical Diagram of LOA3 Identity Verification
-![Current LOA3 Authorization Flow](../IDme/loa1to_3_flow.png)
-(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](/Products/Identity/Login/reference_documents/IDme/loa1to_3_flow_uml). )
+![Current LOA3 Authorization Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/loa1to-3-flow.png)
+(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/loa1to-3-flow.uml). )
