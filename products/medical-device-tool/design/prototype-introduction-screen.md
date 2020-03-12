@@ -1,15 +1,15 @@
 # Prototype: Introduction screen
 
 Navigation: <br>
-[Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)
+**Default:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)<br>
+**Use case - Veteran is deceased:** Description | Content 
+
+## Default 
 
 Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/6CVSW1NTJB4) [(Mobile)](https://vsateams.invisionapp.com/share/TKVSW1W9C3G) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5250)
 
 ### Description 
-This is the introduction screen for the MDT form. All veterans must log in before navigating to the order form, so the only alert that needs to be displayed is the _authenticated pre-fill and save form_ info alert. 
-
-### Feedback 
-TBD
+This is the default introduction screen for the MDT form. All veterans must log in before navigating to the order form, so the only alert that needs to be displayed is the _authenticated pre-fill and save form_ info alert. 
 
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
@@ -65,4 +65,25 @@ Privacy Act Statement
 Need help? (h2 utility)
 For help placing an order, or if the order form isn’t working right, please call VA Benefits and Services at 800-827-1000.
 If you have hearing loss, call TTY: 711.
+```
+
+## Use case - Veteran is deceased 
+
+Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/P5WDY316YEC) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6693)
+
+### Description 
+If a Veteran's record displays that they are deceased, they should not be able to place an order for hearing aid batteries or accessories. However, we want to provide an alert indicating why they cannot place an order and who to contact if their record is incorrectly displaying that they're deceased.  
+
+### Content
+**Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
+
+```
+Home > Health care > Order hearing aid batteries and accessories
+
+# Order hearing aid batteries and accessories
+Equal to VA Form 2346 (Request for Batteries and Accessories)
+
+[Warning alert] Our records show that this Veteran is deceased (H4 utility)
+ We can't fulfill an order for this Veteran.
+ If this information is incorrect, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 ```
