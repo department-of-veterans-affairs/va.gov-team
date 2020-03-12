@@ -25,7 +25,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
-| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | 
+| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | BGS Integration
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
