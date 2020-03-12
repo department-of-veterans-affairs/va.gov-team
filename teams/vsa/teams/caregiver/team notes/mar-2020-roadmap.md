@@ -11,7 +11,7 @@
 | --- | --- | 
 | User will be able to: | 
 | Start 10-10CG application online without logging in| 155|
-| Fill in all fields from the paper 1010-CG form | n/a
+| Fill in all fields from the paper 10-10CG form | n/a
 | Ensure that all fields have been completed appropriately (data validation) | n/a
 | Select a medical facility from a program-approved list | n/a
 | Review entered data prior to submission | 176 |
