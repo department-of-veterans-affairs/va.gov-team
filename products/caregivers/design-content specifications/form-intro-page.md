@@ -91,7 +91,7 @@ Once we’ve reviewed your application, you’ll get a notice in the mail with o
 ### OMB information 
 
 This appears at the bottom of the Introduction page and shows:
-- Respondent burden: 30 minutes 
+- Respondent burden: 15 minutes 
 - OMB control numer: 2900-0091
 - Privacy act (link)
 
