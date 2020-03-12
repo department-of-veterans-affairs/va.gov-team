@@ -14,7 +14,7 @@ Users can navigate to a form’s introduction page either from within VA.gov or 
 
 ### Interaction Notes 
 - Click here to start application button
-- "Additional info" components 
+- "Additional info" components https://design.va.gov/components/additional-info
 
 ### Content
 
@@ -37,15 +37,14 @@ Subway, or process, map shows the steps applicants need to take to apply for a b
 
 **Prepare**
 
-Gives the applicant the information they’ll need to fill out the form, such as if they need to submit any document, SSN, bank information, military history, spouse information, etc.  This bullet can also include some basic eligibility information or a link back to the VA.gov benefit eligibility page.
-
-Items that are optional are called out.<br>
-
 **To fill out this application, you’ll need your:**
 
-* [example] Your Social Security number 
-* [example] copy of DD214
-* 
+* Address 
+* Phone number
+* Email address 
+* Social Security number or tax identification number 
+* Health care coverage information 
+
 {optional}
 **[If you have a conditional situation] You may also need:**
 - Loreum upsem
