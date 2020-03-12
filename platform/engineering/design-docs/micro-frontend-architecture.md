@@ -22,36 +22,30 @@ Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VFS) teams.
   - **Builds are slow** and **require a lot of memory**
 - Team autonomy
   - **CI failures** affect all teams
-  - **Individual applications can't roll back**
+  - **Individual applications can't roll back** without rolling back all
+    applications
   - **Developing applications requires CMS content**
   - Application dependencies are tied together making **library upgrades
-    difficult and error prone**
+    difficult,** time-consuming, and risky
 
 ### High Level Design
 
 **Each application** will be version controlled in its own **separate
 repository** with its own **CI pipeline** and **deployment schedule**.
 
+<!-- TODO: Move this to the deploy section of the detailed design -->
 ![Separate Builds - Separate content bucket](https://user-images.githubusercontent.com/12970166/74556016-d1bbb700-4f11-11ea-9a6f-d562e9048a0a.png)
 [Link to original diagram](https://www.lucidchart.com/invitations/accept/5ca3645c-fcf8-4cd1-bad2-d8ff17c9f1ba)
 
-
-To support this, the [platform
-code](https://github.com/department-of-veterans-affairs/vets-website/tree/c8e47d202e1457807de6c2a179f98767cc0ae9cc/src/platform)
-will be broken down and made into discreet **NPM modules** which can be imported
-and used in the applications.
-
-<!--
-  Should I add a transition plan here, in the Specifics section, as a new
-  section after that, or not at all?
--->
+To support this, **the [platform
+code](https://github.com/department-of-veterans-affairs/vets-website/tree/c8e47d202e1457807de6c2a179f98767cc0ae9cc/src/platform)**
+will be broken down and **made into NPM modules** which can be imported and used
+in the applications. VSP will **provide guidance** on how to **create a new
+application** from scratch and **migrate an existing application** to a new repo.
 
 
 ## Specifics
 
-**Coming soon to a design doc near you!**
-
-<!--
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong
@@ -77,6 +71,104 @@ that would be a pain to change if you were requested to do so in a code review.
 If you put that implementation detail in here, you'll be less likely to be asked
 to change it once you've written all the code._
 
+<!-- Note to self: My audience is engineers who are looking to learn why the -->
+<!-- front end is split up and deployed the way it is. Write to engineers who -->
+<!-- are trying to learn this. -->
+
+
+##### Applications live in their own repos
+
+Applications will live in their own separate repositories. This provides a
+number of benefits:
+- A clearer separation of concerns between applications
+- Independent dependency management
+  - Each application will have its own `package.json` and `node_modules`
+    independent of any other application, allowing teams the choice to upgrade
+    dependencies when they have the bandwidth
+  - This narrower scope makes upgrading dependencies less onerous, so teams will
+    be more likely to do it
+- [Independent CI pipelines](#applications-have-their-own-ci-pipelines)
+- [Independent deployments](#applications-have-their-own-deployments)
+
+Separating the front end code will require some additional overhead. To aid
+application teams, the platform will provide the following:
+- Default configuration
+  - CircleCI
+  - Jenkins (for now)
+  - ESLint rules
+  - WebPack
+- Application boilerplate for quickly spinning up a new application or migrating
+  an existing one
+  - Generators such as `CreateReactApp` can be used with the boilerplate (ideally)
+- [Platform code as NPM modules](#platform-code-is-distributed-as-versioned-npm-modules)
+- Instructions on how to set up a new application and port an existing one
+  - Including common steps such as copying the default configuration files,
+    connecting the repo to CircleCI / Jenkins, etc.
+
+<!-- What else? -->
+
+
+###### Questions
+
+- Who's in charge of managing read / write access to these repos?
+
+<!-- What else? -->
+
+
+#### Applications have their own CI pipelines
+Each repository will need to set up its own CI pipeline for building and testing
+changes. To aid application teams, the platform will provide:
+- Default configurations files
+  - CircleCI
+  - Jenkins (for now)
+- Default CI setup
+  - Whatever needs to happen to hook these configuration files into CircleCI /
+    Jenkins
+
+<!-- What else -->
+
+
+#### Applications have their own deployments
+And importantly, their own rollbacks.
+There won't need to be nearly as much coordination for deployments.
+
+#### Content and application files are served from separate buckets
+- Why?
+  - We'll have finer control over what's in an application deployment, but
+    things get complicated when we talk about content anything because goes
+  - Specifically, this is to aid in deployments
+- What are the challenges the single-bucket approach brings?
+    - When we deploy an application, we'd (note that this is a simplified view
+      of what actually happens):
+      1. Nuke a directory in the bucket
+      2. Push up the new files
+    - Rolling back an application deployment is similarly simple
+    - The struggle is with content deployments; we have no clear picture of what
+      belongs in the scope of the deployment; everything goes
+      - Couple this with the fact that the application landing pages are
+        indistinguishable from the HTML built from the CMS
+      - If we nuked the entire bucket, we'd lose the landing pages unless we did
+        some fancy footwork
+        - Would this fancy footwork be easier than a separate bucket?
+        
+- What are the deployment responsibilities?
+  - Adding new files
+  - Updating existing files
+  - Removing old files
+
+#### Platform code is distributed as versioned NPM modules
+This might make for a good Lerna repo, actually.
+
+#### More things to write about
+- How are the applications served on VA.gov?
+  - How is traffic routed to the right S3 bucket?
+    - The reverse proxies determine which bucket to route the request to, but
+      how does _it_ know?
+      - Some configuration that registers the paths?
+- How does this affect the stuff the Public Websites team works on?
+  - Their stuff isn't _really_ an app, but my guess is we can treat them as such
+
+<!--
 
 ### Code Location
 _The path of the source code in the repository._
