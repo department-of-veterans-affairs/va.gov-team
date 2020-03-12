@@ -5,6 +5,24 @@
 
 ---
 
+| Current mockups | XD Link |
+| :--- | :--- |
+| View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ |
+| 21-686c Introduction | --- |
+| Checkbox selection & Veteran info | --- |
+| Add spouse workflow | --- |
+| Add child workflow | --- |
+| Add student workflow (21-674) | --- |
+| Report divorce | --- |
+| Remove stepchild | --- |
+| Dependent's death | --- |
+| Child marriage | --- |
+| Student left school | --- |
+| Review screen | --- |
+| 21-686c Confimation | --- |
+
+---
+
 ### Discovery
 [Rainbows Team discovery & research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/rainbows-team-686-analysis)
 
@@ -13,7 +31,7 @@
 [Form 21-686c and 21-674 high-level business logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-business-logic/686_Business_Flows_W1.pdf)
 
 #### Resources
-[VA Form 21-686c Application Request to Add and/or Remove Dependents](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
+[VA Form 21-686c Application Request to Add and/or Remove Dependents](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf) (PDF)
 
 [VA Form 21-674 Request for School Attendance](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) (PDF)
 
@@ -46,4 +64,3 @@
 [21-686c/21-674 usability testing prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
 
 ---
-
