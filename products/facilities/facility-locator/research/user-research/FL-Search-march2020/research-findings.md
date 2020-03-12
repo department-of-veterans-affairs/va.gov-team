@@ -48,13 +48,13 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 
 ## Details of Findings
 
-**1. The expected number of search results varies based on geographic location.**
+**1. The expected number of search results varies based on geographic location.** Overall, participants did not want to see more than 5 results per page. Rural participants wanted to see 2-3 results returned and mentioned that anything listed after that would be too far to travel. Urban participants expected to see a larger _total_ number of results returned, but mentioned that they would generally want to see around 5 locations listed. 
 
-**2. The most likely use-case for the Facility Locator is when a person is traveling or researching an unfamiliar area.**
+**2. Veterans and caregivers are most likely to use the Facility Locator when traveling or researching unfamiliar areas.** Each participant we spoke with mentioned that they had previously used the locator when they didn't know what services would be available to them in a new area. Most commonly, participants said they used it when preparing for a move to a new location. 
 
-**3. Participants did not refer to the Facility Locator when seeking help for a specific issue.**
+**3. Participants did not refer to the Facility Locator when seeking help for a specific issue.** When prompted to seek in-person help for a home loan, all participants looked in the VA Benefits and Health Care dropdown or the white boxes on the VA.gov homepage. Most participants wanted find a message center or a phone number to call before attempting to visit a location.
 
-**4. The map is a secondary source for users to find a location.**
+**4. The map is a secondary source for users to find a location.** All participants viewed the list of search results; observing the distanced, name of location, and address. We observed that they used the map to compare pins of locations. A few participants wanted to see an indicator of their current location on the map. Geographically, urban participants were more satisifed with the results listed on the map as the radius shown was smaller (15 mi. or less) than what rural participants were shown (varied, generally 15+ mi.)
 
 **5. Participants are more likely to look for VA Medical Centers than non-VA locations.**
 
