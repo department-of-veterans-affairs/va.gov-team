@@ -160,4 +160,4 @@ Post research, everything needs to be sythesized and final recommendations need 
 2. The researcher/Samara/Clarice all work together on the final synthesis and recommendations.
 3. The researcher does all the final synthesis and recommendations and presents those to our team.
 
-The approach probably determines on a few factors and should be determined with input from the researcher.
+The approach probably depends on a few factors and should be determined with input from the researcher.
