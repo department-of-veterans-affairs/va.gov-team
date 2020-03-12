@@ -26,6 +26,7 @@ So you’re moving a paper form online.  Or moving a legacy online form to VA.go
 * [FAQ](#faq)
 
 ## The Structure of a Form
+![structure of a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/flow.png "Structure of a Form")
 
 First things first. Forms on VA.gov typically consist of:
 
