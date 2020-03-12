@@ -43,8 +43,6 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 3. Participants did not refer to the Facility Locator when seeking help for a specific issue.
 4. The map is a secondary source for users to find a location.
 5. Participants are more likely to look for VA Medical Centers than non-VA locations.
-6. Participants depend on the name of a facility to inform their search.
-7. Participants want to know what services are available at a facility.
 
 ## Details of Findings
 
@@ -56,11 +54,8 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 
 **4. The map is a secondary source for users to find a location.** All participants viewed the list of search results; observing the distanced, name of location, and address. We observed that they used the map to compare pins of locations. A few participants wanted to see an indicator of their current location on the map. Geographically, urban participants were more satisifed with the results listed on the map as the radius shown was smaller (15 mi. or less) than what rural participants were shown (varied, generally 15+ mi.)
 
-**5. Participants are more likely to look for VA Medical Centers than non-VA locations.**
+**5. Participants are more likely to look for VA Medical Centers than non-VA locations.** Most participants expressed a general lack of trust when it comes to VA-adjacent locations and would often scroll past clinics and non-VA locations to find VAMCs or similar locations. If a participant had experience with the Mission Act and/or community care, they trusted non-VA locations more than those who had not heard of the Mission Act.
 
-**6. Participants depend on the name of a facility to inform their search.**
-
-**7. Participants want to know what services are available at a facility.**
 
 ## Additional Insights
 
@@ -68,6 +63,8 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 - There is a need for Caregiver specific information
 - Distance and travel time vary by location
 - Users interpret facility descriptions differently
+- Participants depend on the name of a facility to inform their search.
+- Participants want to know what services are available at a facility.
 
 ## Recommendations
 - Add “search this area” functionality to map
@@ -85,7 +82,7 @@ A task-based remote, moderated usability study was conducted via Zoom between Ma
 - Implement design recommendations 
 
 ### Look into Veteran journeys
-- Get a better understanding of how/when Veterans interact with and visit certain facilities
+- Get a better understanding of how/when Veterans interact with and visit certain facilities and how they fit into the over Veteran Health Journey
 
 ### Prepare for accessibility testing
 - Meet with Jennifer S. to plan 
@@ -102,6 +99,3 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/produc
 
 ### Pages and applications used
 https://www.va.gov/find-locations
-
-### Other supporting documents created
-
