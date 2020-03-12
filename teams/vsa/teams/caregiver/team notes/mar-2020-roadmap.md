@@ -1,4 +1,4 @@
-# 1010-CG Status Update
+# 10-10CG Status Update
 
 - [Phase 0 (May 2020)](#phase-0-may-2020)
 - [Phase 1 (Estimated July 2020)](#phase-1-estimated-july-2020)
@@ -10,7 +10,7 @@
 | Requirement | Ticket # |
 | --- | --- | 
 | User will be able to: | 
-| Start 1010-CG application online without logging in| 155|
+| Start 10-10CG application online without logging in| 155|
 | Fill in all fields from the paper 1010-CG form | n/a
 | Ensure that all fields have been completed appropriately (data validation) | n/a
 | Select a medical facility from a program-approved list | n/a
@@ -51,7 +51,7 @@
 | Requirement | Ticket # |
 | --- | ---| 
 | Veteran will be able to: |
-| Fill in 1010-CG through a logged-in application portal | n/a |
+| Fill in 10-10CG through a logged-in application portal | n/a |
 | Save an incomplete form in progress | 163 |
 | View and edit an in-progress application| 161 |
 | View previously-submitted  application| 170 |
@@ -63,7 +63,7 @@
 | Requirement | Ticket # |
 | --- | ---| 
 | Caregiver will be able to: |
-| Fill in 1010-CG through a logged-in application portal | n/a |
+| Fill in 10-10CG through a logged-in application portal | n/a |
 | Save an incomplete form in progress | 163 |
 | View and edit an in-progress application| 162 |
 | Log into application portal to recieve application updates | 173 |
