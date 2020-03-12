@@ -9,16 +9,16 @@
 | :--- | :--- |
 | View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ |
 | 21-686c Introduction | --- |
-| Checkbox selection & Veteran info | --- |
+| Checkboxes & Veteran info | --- |
 | Add spouse workflow | --- |
 | Add child workflow | --- |
-| Add student workflow (21-674) | --- |
-| Report divorce | --- |
-| Remove stepchild | --- |
-| Dependent's death | --- |
-| Child marriage | --- |
-| Student left school | --- |
-| Review screen | --- |
+| Add student (21-674) | --- |
+| Report divorce workflow | --- |
+| Remove stepchild workflow | --- |
+| Dependent's death workflow | --- |
+| Child marriage workflow  | --- |
+| Student left school workflow | --- |
+| Review screen workflow | --- |
 | 21-686c Confimation | --- |
 
 ---
