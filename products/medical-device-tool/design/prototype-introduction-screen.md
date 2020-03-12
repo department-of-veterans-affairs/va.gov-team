@@ -2,7 +2,7 @@
 
 Navigation: <br>
 **Default:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)<br>
-**Use case - Veteran is deceased:** Description | Content 
+**Use case - Veteran is deceased:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-1) 
 
 ## Default 
 
