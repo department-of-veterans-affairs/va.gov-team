@@ -5,21 +5,21 @@
 
 ---
 
-| Current mockups | XD Link |
-| :--- | :--- |
-| View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ |
-| 21-686c Introduction | --- |
-| Checkboxes & Veteran info | --- |
-| Add spouse workflow | --- |
-| Add child workflow | --- |
-| Add student (21-674) | --- |
-| Report divorce workflow | --- |
-| Remove stepchild workflow | --- |
-| Dependent's death workflow | --- |
-| Child marriage workflow  | --- |
-| Student left school workflow | --- |
-| Review screen workflow | --- |
-| 21-686c Confimation | --- |
+| Current mockups | XD Link | Text |
+| :--- | :--- | :--- |
+| View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ | In mock |
+| 21-686c Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | TXT |
+| Checkboxes & Veteran info | https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/ | XD Comment |
+| Add spouse workflow | --- | --- |
+| Add child workflow | --- | --- |
+| Add student (21-674) | --- | --- |
+| Report divorce workflow | --- | --- |
+| Remove stepchild workflow | --- | --- |
+| Dependent's death workflow | --- | --- |
+| Child marriage workflow  | --- | --- |
+| Student left school workflow | --- | --- |
+| Review screen workflow | --- | --- |
+| 21-686c Confimation | --- | --- |
 
 ---
 
@@ -64,3 +64,4 @@
 [21-686c/21-674 usability testing prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
 
 ---
+
