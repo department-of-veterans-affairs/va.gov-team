@@ -1,8 +1,8 @@
 # Getting Started with VA.gov Forms
 
-Compiled by: Shawna Hein, VSA Design Lead
+_Compiled by:_ Shawna Hein, VSA Design Lead
 
-With contributions from: VSA Design: Jonathan Nelson, Liz Lantz, Christian Valla, Becca Walsh, VSP Engineering: Chris Valarida, VSP Content: Peggy Gannon
+_With contributions from:_ VSA Design: Jonathan Nelson, Liz Lantz, Christian Valla, Becca Walsh, VSP Engineering: Chris Valarida, VSP Content: Peggy Gannon
 
 So you’re moving a paper form online.  Or moving a legacy online form to VA.gov. What are your next steps? 
 
@@ -37,7 +37,7 @@ First things first. Forms on VA.gov typically consist of:
 
 For numbers 3-4 mentioned above, users are given guidance on where they are in the form using a segmented progress bar.  Each segment of the bar represents a “chapter” in the form.  Note that there can be multiple “pages” within each chapter, so the bar does not always increment when the user clicks between pages.
 
-For a bit of context on the technical side, [read up on the form system](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) and/or [watch the quick demo Chris V. gave to the VSA design team]("https://zoom.us/rec/share/x5FpP7XC1DJOYZ3d933GUagdMInqeaa82ilM-KcLzUxo_-q1CWuJcUJVwzaPXTp_") in Feb. 2020 (pw: vsadesign) 
+For a bit of context on the technical side, [read up on the form system](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) and/or [watch the quick demo Chris V. gave to the VSA design team](https://zoom.us/rec/share/x5FpP7XC1DJOYZ3d933GUagdMInqeaa82ilM-KcLzUxo_-q1CWuJcUJVwzaPXTp_) in Feb. 2020 (pw: vsadesign) 
 
 ### Content Pages
 Drupal static Eligibility and How to Apply pages
