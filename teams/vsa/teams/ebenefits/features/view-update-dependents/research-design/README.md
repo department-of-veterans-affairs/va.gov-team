@@ -1,4 +1,4 @@
-# View/Update Dependents reseach & design
+# View/Update Dependents research & design
 **VSA eBenefits Team | March 2020**
 
 `James Adams, UI/UX Designer`
