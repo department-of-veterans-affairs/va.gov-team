@@ -13,7 +13,7 @@ A user has a token that is stored in a sessiion cookie.  The VA API persists use
 The diagram below lays out example steps for a login flow necessary for a client application to access an API endpoint that requires authentication.  This example uses a user profile endpoint. If the endpoint is requested without a valid token in the cookie, then the VA API returns a `401` status code. 
 
 To obtain a valid cookie the user must complete the ID.me login flow via a signed SAML request. When the VA API receives a valid SAML callback, it persists a unique session in Redis. The cookie is returned to the client and can be used to validate subsequent requests. 
-![Current Authhentication Flow](../IDme/idme_flow.png)
+![Current Authhentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/idme-flow.png)
 
 ### SAML Request & Assertion
 The SAML assertion is obtained from ID.me after a user successfully completes the ID.me login flow.
@@ -45,13 +45,13 @@ Each resource on the VA-API will be protected by a level of assurance as defined
 
 ### Authorization Flow
 If a client attempts to access a resource with a _valid_ cookie, but insufficient authorization they will receive `HTTP 403 FORBIDDEN` (accompanying JSON TBD - should indicate which LOA is required).  In this case, a client must veirfy their session with `GET https://api.va.gov/sessions/verify/new`
-![Current LOA3 Authorization Flow](../IDme/loa1to_3_flow.png)
-(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](/Products/Identity/Login/reference_documents/IDme/loa1to_3_flow_uml). )
+![Current LOA3 Authorization Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/loa1to-3-flow.png)
+(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/loa1to-3-flow.uml). )
 
 ### Logout Flow
 Logout of VA.gov involves a SAML Single Logout (SLO) request to ID.me.  Flow is as follows:
-![Logout Flow](../IDme/logout.png)
-(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](/Products/Identity/Login/reference_documents/IDme/logout_uml). )
+![Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/logout.png)
+(**Note**: Diagram is auto-generated using [SequenceDiagram.org](http://sequencediagram.org) from [this source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/idme/logout.uml). )
 
 
 By the end of Step 5, the ID.me session has been destroyed. In Step 12 the VA.gov session is destroyed and no longer exists in Redis.
