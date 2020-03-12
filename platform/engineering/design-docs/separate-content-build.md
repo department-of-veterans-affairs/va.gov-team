@@ -6,27 +6,6 @@ _Replace the previous line with the the title of your project or component and r
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler  
 
-_For the rest of the document, replace all the italicized text. The document is
-designed to guide your thinking through a general design process. Not all
-sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate,
-you may want to pause after this section to wait for review comments before
-investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow
-engineer. It should be written before implementing the system to aid in planning
-and to facilitate discussions about design decisions. After implementation, the
-design doc will serve as a reference for users, maintainers, and anyone else
-interested in the system (and for that reason it is still useful to write design
-docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research
-report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should
-make sense to anyone familiar with software development._
-
 
 ## Overview
 
