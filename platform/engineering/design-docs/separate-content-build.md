@@ -87,6 +87,30 @@ There are currently two kinds of deployments:
 See [here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/)
 for more details.
 
+#### Pain points
+- Engineers developing applications need CMS content to build their applications
+  - When their applications has nothing to with the CMS
+  - It's a confusing requirement to new engineers
+  - It requires either SOCKS proxy access or the `npm run fetch-drupal-cache`
+    command, which isn't obvious
+  - The build fails with an unexpected error when the CMS content cache
+    (`pages.json`) is used with the updated Liquid templates to build the HTML
+    files
+    - Resulting in confused questions in the platform support channel and
+      general frustration
+- Application deployments depend on CMS content being valid
+  - If content has accessibility errors, the build and deploy job will fail and
+    application code won't be deployed to production
+  - If there's an error in the content build, application code won't get
+    deployed to production
+    - This includes broken links
+    - We have a safeguard that mostly works; if we run into a failure using the
+      latest CMS content, we try again with the cached content
+      - This doesn't work when the GraphQL query has been updated; that
+        invalidates the cache
+      - Errors in liquid templates would potentially break the build and falling
+        back to the cache won't help
+
 ### High Level Design
 _A high-level description of the system. This is the most valuable section of
 the document and will probably receive the most attention. You should explain,
