@@ -1,7 +1,7 @@
 # View/Update Dependents reseach & design
 **VSA eBenefits Team | March 2020**
 
-[James Adams](jadams@governmentcio.com) UI/UX Designer
+`James Adams, UI/UX Designer`
 
 ---
 
@@ -34,7 +34,7 @@
 #### View Dependents
 [View Dependents preliminary screen layouts](https://xd.adobe.com/view/fd970f62-8f56-4b24-5bc2-4d9f168715b2-8ba6/)
 
-[View Dependents current screen content/layout]()
+[View Dependents current screen content/layout](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/)
 
 #### Add Dependents (21-686c/21674)
 [21-686c/21-674 preliminary screen layouts](https://xd.adobe.com/view/ffffe536-2ba5-47c6-4c4b-ac1679179973-89ce/)
