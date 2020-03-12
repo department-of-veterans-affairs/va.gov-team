@@ -2,7 +2,7 @@
 
 *Liz Lantz, UX Designer/Researcher*
 
-Updated 3/10/2020
+Updated 3/12/2020
 
 ## Problem Statement
 
@@ -14,9 +14,9 @@ These wizards are sometimes so far down these pages, some users scroll right pas
 
 ## Discovery Goals
 
-In this stage of discovery, I seek to understand:
+In this stage of discovery, I sought to understand:
 
-- Other than the 3 URLs in our epic, are there other pages within va.gov that have similar wizards leading to tools/forms we need to include?
+- Are there other URLs not defined in our epic that have similar wizards we need to include in our work?
 - How did the wizards come to live on the content page rather than on the tool pages?
 - What other options have been explored other than putting wizards directly on the content pages?
 
@@ -30,7 +30,7 @@ In this stage of discovery, I seek to understand:
 
 ### Answers to initial questions
 
-**Other than the 3 URLs in our epic, are there other pages within va.gov that have similar wizards leading to tools/forms we need to include?**
+**Are there other URLs not defined in our epic that have similar wizards we need to include in our work?**
 
 Yes. The complete list of pages we will address with our work:
 
@@ -38,6 +38,10 @@ Yes. The complete list of pages we will address with our work:
 - https://va.gov/education/how-to-apply
 - https://va.gov/disability/eligibility
 - https://va.gov/disability/how-to-file-claim
+
+The wizard currently in progress for Add/Remove Dependants addresses a different use case than the wizards we're looking at here - it keeps the user in the same form rather than sending users to different places based on responses. Using a series of check boxes, the wizard complies sections of the same form for the user to complete based on their task.
+
+Another wizard exists for [submitting a discharge upgrade](https://www.va.gov/discharge-upgrade-instructions) that we may want to consider looking at, although it since already lives on it's own page, it does not line up with our problem definition. It also requires updates to align with the DSVA's current accessibility and design best practices.
 
 **How did the wizards come to live on the content page rather than on the tool pages?**
 
@@ -50,14 +54,11 @@ Yes. The complete list of pages we will address with our work:
   - Driven by stakeholder request because they didn't want to have to keep going through the wizard
   - Ultimately it was decided the wizard wasn't that hard to go through (although it has since grown)
 
-**What prevents users from erroneously submitting other forms on va.gov that don't have these wizards?**
-
-*will discuss w/ team*
 
 ### Additional information
 
 - It is very difficult to find relevant research studies in our research history document. After dedicating a full day to combing through the existing research, I have decided to rely on conversations w/ the IA and UX resources available.
-- We need to consider content pages that are specific to a form and link directly to the form itself, e.g. the [Fry Scholarship content page](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/). Does a user need a wizard if they're coming from here?
+- We need to consider that content pages exist that are specific to a form and link directly to the form itself, e.g. the [Fry Scholarship content page](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/).
 - Veterans receive mailers with urls sending them directly to the online form (bypassing the wizard).
 
 
@@ -66,4 +67,8 @@ Yes. The complete list of pages we will address with our work:
 - We have a complete list of the pages in question
 - No major findings in terms of other options previously explored
 - Leaning toward the "Turbo tax" approach - will discuss with team
-- Mapped wizard outcomes and URLs impacted: https://app.mural.co/t/vsa8243/m/vsa8243/1583339328670/26c12cb441183d0cccb2c0f38d1fb28dff4454f9
+- Mapped wizard outcomes, URLs impacted, and possible flow: https://app.mural.co/t/vsa8243/m/vsa8243/1583339328670/26c12cb441183d0cccb2c0f38d1fb28dff4454f9
+- Additional questions to discuss with team
+   - What prevents users from erroneously submitting other forms on va.gov that don't have these wizards?
+   - Do we need to wrap the Higher Level Review wizard shown in the Sprint 16 demo on 3/10/20 ([video here](https://drive.google.com/file/d/1UhFD634WSVVQchORAvGzGScmN-3cntRB/view), approx 28m mark)
+
