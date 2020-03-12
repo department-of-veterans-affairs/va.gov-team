@@ -48,7 +48,7 @@ Subway, or process, map shows the steps applicants need to take to apply for a b
 **What if I need help filling out my application?** 
 An accredited representative, like a Veterans Service Officer (VSO) or a caregiver support coordinator can [help you fill out your claim](https://www.va.gov/disability/get-help-filing-claim/).
 
-{Addtional info component expanded} What is a caregiver support coordinator? 
+{Addtional info expanded} What is a caregiver support coordinator? 
 
 A VA clinical professional who connects caregivers of Veterans with VA and community resources offering supportive programs and services. Caregiver Support Coordinators are located at every VA medical center and are designated specialists in caregiving issues.
 
@@ -58,11 +58,11 @@ We use the same language for this step across all forms:
 
 Complete this caregiver benefits form, or have a power of attorney or representative complete the form. You’ll get a confirmation message after submitting the form. You can print this for your records
 
-{Addtional info component expanded} What is power of attorney?
+{Addtional info expanded} What is power of attorney?
 
 Power of attorney is the legal authorization for someone to act on the Veteran’s or service member’s behalf when completing this form.
 
-{Addtional info component expanded} Who can be a represenative? 
+{Addtional info expanded} Who can be a represenative? 
 
 A representative can be a Veteran’s or service member’s: 
 
