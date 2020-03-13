@@ -44,7 +44,7 @@ tests. Pertinent to this document are:
     
 #### Deployment
 There are currently two kinds of deployments:
-1. Partial deploy
+1. [Partial deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only)
     - For static pages only
     - Uses the latest `vets-website` release and static assets
       - Does not trigger Webpack to build the JS and CSS bundles
@@ -54,7 +54,7 @@ There are currently two kinds of deployments:
         - Process is triggered [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content#L32)
     - Does **NOT** run any content validation such as accessibility tests or
       broken link checker
-2. Full deploy
+2. [Full deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
     - For `vets-website` code changes
     - Creates a new release and deploys it
     - Fetches the latest Drupal content
