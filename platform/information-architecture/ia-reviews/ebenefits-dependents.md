@@ -29,7 +29,7 @@
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static content page | **Current:** <br> www.va.gov/view-dependents/ <br> **New:** <br>  www.va.gov/view-change-dependents  | **Current:** <br> Home > View your dependents <br> **New:** <br> Home > View or change your dependents  | The "current" page was proposed for the View Dependents tool, and the URL and breadcrumb is being slightly modified as part of this work.   
-Online form | www.va.gov/view-change-dependents/add-remove-form-686c/ | Home > View or change your dependents > Add or remove dependents form 686c | 
+Online form | www.va.gov/view-change-dependents/add-remove-form-686c/ | Home > View or change your dependents > Add or remove dependents form 686c | Authentication is not required to access this form, and therefore users can directly access it through direct links or bookmarks. 
 View dependents tool | **Current:** <br> www.va.gov/view-dependents/dependents <br> **New:** <br>  www.va.gov/view-change-dependents/view | **Current:** <br> Home > Your VA dependents <br> **New:** <br> Home > View or change your dependents > View your dependents | The "current" page URL and breadcrumb was proposed for the View Dependents tool work, but should be modified based on this addition. 
  
 
@@ -46,7 +46,11 @@ Pages shown in site map here: https://app.moqups.com/Rnc4BDEKrA/view/page/abd763
 
 Priority | Placement | Description
 --- | --- | ---
-
+High | [Disability hub page](https://www.va.gov/disability/) |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
+High | Disability left nav |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
+Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
+Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations, but could be reviewed for priority over the other 2 options. 
+Low/Future | Profile  | Look at future opportunities to test user response to placement within the profile experience. 
 
 The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
 
