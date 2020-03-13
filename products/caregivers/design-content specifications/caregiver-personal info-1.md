@@ -18,20 +18,25 @@ Primary Family Caregiver
 {Content} Primary family caregivers are approved by the Program of Comprehensive Assistance for Family Caregivers to be the main provider of personal care services to a Veteran. They can be the Veteran’s or service member’s:
 
 - Parent
+- Spouse
+- Son or daughter 
+- Step family member
+- Extended family member
+- Someone who lives full-time with the Veteran, or will do so if approved as a primary family caregiver
 
-{Text Input} Veteran's first name
+{Text Input} Primary caregiver's first name
 
-{Text Input} Veteran's middle name 
+{Text Input} Primary caregiver's middle name 
 
-{Text Input} Veteran's last name 
+{Text Input} Primary caregiver's last name 
 
 {Dropdown Input} Suffix 
 
-{Text Input} Veteran's Social Security number or tax identification number
+{Text Input} Primary caregiver's Social Security number or tax identification number
 
-{Text Input} Veteran's date of birth
+{Text Input} Primary caregiver's date of birth
 
-{Text Input} Gender
+{Radio Input} Gender
 
 {CTA Back/Contiue button} 
 
