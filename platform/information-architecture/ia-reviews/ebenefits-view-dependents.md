@@ -1,5 +1,7 @@
 # IA Review and Recommendations
 
+> **OUTDATED! Please note that additional work has been done on this functionality, please reference IA work here:  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-dependents.md**
+
 **Team:** eBenefits
 
 **Product/Featue:** View Dependents
