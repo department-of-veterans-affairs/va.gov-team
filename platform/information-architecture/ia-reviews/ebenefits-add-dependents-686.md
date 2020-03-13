@@ -16,7 +16,7 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 **Background/Approach:**
-- Research did not show a strong desire to look for this capability within disability.  There was a draw to Family member benefits and Records.  The task asked was generic in nature (not specific to adding for disability), which may have resulted in a generic response rather than a benefit-specific response. For this reason, my recommendation is for this form to exist independently of a benefit (i.e. disability), and rather links can be added from specific benefits where appropriate (i.e. disability, family member hub, records hub, etc.). This will allow future use cases to be added as necessary (i.e. managing dependents or beneficiaries for all types of benefits). 
+- Research did not show a strong desire to look for this capability within disability.  There was a draw to Family member benefits and Records.  Recommendation is for this form to exist independently of a benefit hub, and rather links can be added from specific benefits where appropriate (i.e. disability, family member hub, records hub, etc.). This will allow future use cases to be added as necessary (i.e. managing dependents or beneficiaries for all types of benefits). 
 - Given the above, this allows us to bring this form together with the View Dependents tool.  The form and tool will share a single static page,  but users will not need to be authenticated to complete the form (authentication is required for the view tool). This means we cannot automatically bypass the static page for authenticated users as we usually do, unless they are directly linking to the tool. (see user flow diagram). 
 
 **User Flow**
