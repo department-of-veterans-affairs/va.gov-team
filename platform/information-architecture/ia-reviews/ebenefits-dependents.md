@@ -2,9 +2,9 @@
 
 **Team:** eBenefits
 
-**Product/Featue:** Add/Remove Dependents Form 686c
+**Product/Featue:** Add/Remove Dependents Form 686c + View dependents tool
 
-**Background/Context:** This is the next phase of work for the eBenefits functionality of viewing and adding dependents.  IA work for viewing dependents is complete, however this work may impact or change original IA work.  
+**Background/Context:** This is the next phase of work for the eBenefits functionality of viewing and adding dependents.  IA work for viewing dependents was complete, however this work changes the original IA work.  This is the documentation that should be referenced for both the View dependents & the Add/Remove dependents capabilities. 
 
 **Review Date:** 3/10/2020
 
@@ -31,7 +31,13 @@ Page | URL | Breadcrumb | Notes
 Static content page | **Current:** <br> www.va.gov/view-dependents/ <br> **New:** <br>  www.va.gov/view-change-dependents  | **Current:** <br> Home > View your dependents <br> **New:** <br> Home > View or change your dependents  | The "current" page was proposed for the View Dependents tool, and the URL and breadcrumb is being slightly modified as part of this work.   
 Online form | www.va.gov/view-change-dependents/add-remove-form-686c/ | Home > View or change your dependents > Add or remove dependents form 686c | Authentication is not required to access this form, and therefore users can directly access it through direct links or bookmarks. 
 View dependents tool | **Current:** <br> www.va.gov/view-dependents/dependents <br> **New:** <br>  www.va.gov/view-change-dependents/view | **Current:** <br> Home > Your VA dependents <br> **New:** <br> Home > View or change your dependents > View your dependents | The "current" page URL and breadcrumb was proposed for the View Dependents tool work, but should be modified based on this addition. 
- 
+
+**Details**
+- Label used in breadcrumb should closely match H1, work with your writer to finalize. 
+- Because these pages are outside of the benefit hubs, there is no left nav on neither static page nor the tool.
+- The static page will need to include a sign-in CTA module for the view dependents tool. 
+- Authenticated users should not bypass the static tool unless they are directly linked to the View dependents tool via direct link or bookmark.
+- If an unauthenticated user lands directly on the View dependents tool URL, they should be redirected to the static page.  
 
 **Visual representation of pages in the site map:** 
 
@@ -44,15 +50,16 @@ Pages shown in site map here: https://app.moqups.com/Rnc4BDEKrA/view/page/abd763
 
 **Entry point and crosslinking placement**
 
-Priority | Placement | Description
+Priority | Placement | Link to | Description
 --- | --- | ---
-High | [Disability hub page](https://www.va.gov/disability/) |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
-High | Disability left nav |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
+High | [Disability hub page](https://www.va.gov/disability/) |  www.va.gov/view-change-dependents |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
+High | Disability left nav |  www.va.gov/view-change-dependents | The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
+High | [View dependents tool](www.va.gov/view-change-dependents/view) |  www.va.gov/view-change-dependents/add-remove-form-686c/ |The tool should include a link to Add or Remove dependents and take the user directly to the form. 
 Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
 Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations, but could be reviewed for priority over the other 2 options. 
 Low/Future | Profile  | Look at future opportunities to test user response to placement within the profile experience. 
 
-The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
+The above linking opportunities rated "medium" or "low" are recommendations and not required for launch.  They can be implemented at your team's discretion.
 
 <hr>
 
