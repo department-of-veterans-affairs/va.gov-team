@@ -27,7 +27,7 @@ Accessibility specialist(s) will run through the the following automated and man
 * Zooming layouts to 400% on a subset of pages
 * Once-through keyboard navigation
 * 3 preferred screen reader and browser pairings. Pairings will be determined by analytics data and WebAIM’s [most recent screen reader survey](https://webaim.org/projects/screenreadersurvey8/#primary). The favored browser and screen reader pairings may evolve as Edge Chromium and Chrome assume more market share, but the current pairings include:
-  * JAWS on Windows7/10 using IE11
+  * JAWS on Windows7/10 using IE11 _(This is the VA 508 office's preferred test pairing)_
   * NVDA on Windows 7/10 using Firefox
   * VoiceOver on MacOS
 * End-to-end tests will be reviewed to ensure axe checks are run for primary and secondary (hidden) content
@@ -39,11 +39,13 @@ Accessibility specialist(s) will run through the the following automated and man
 * Zooming layouts to 400% on a subset of pages
 * Once-through keyboard navigation
 * 3 preferred screen reader and browser pairings. Pairings will be determined by analytics data and WebAIM’s [most recent screen reader survey](https://webaim.org/projects/screenreadersurvey8/#primary). The favored browser and screen reader pairings may evolve as Edge Chromium and Chrome assume more market share, but the current pairings include:
-  * JAWS on Windows7/10 using IE11
+  * JAWS on Windows7/10 using IE11 _(This is the VA 508 office's preferred test pairing)_
   * NVDA on Windows 7/10 using Firefox
   * VoiceOver on MacOS
 
 ## Issue Gathering and Triage
+* Validate code early and often to help identify issues sooner than later
+* Request a spot check 1-2 sprints before your anticipated staging review
 * Issues will be collected as issues in a new ZenHub epic. The accessibility specialist will assign this epic to the person who requested the staging review.
 * Issues will be triaged according to their severity. Some issues will be launch blockers. Others can be fixed post-launch. Teams should review the [accessibility defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md) if they have questions about issue severity or impact.
 * Accessibility specialists will work with stakeholders as issues are ready to be re-tested. When an issue has been resolved, the specialist or project manager should close it with a brief comment like _"Issue has been tested, and success criteria met. Moving to close."_
