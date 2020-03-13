@@ -1,4 +1,4 @@
-# GitHub Teams on for VA.gov
+# User Management Approach for VSP
 
 ## What is GitHub Teams, and why are we talking about it?
 
@@ -15,8 +15,8 @@ In the future, we will be using *Official GitHub Teams* as a source of truth for
 
 * Work with your DEPO, Tech, and Team Lead to change an existing team to meet the requirements below or [create](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams)  an *Official GitHub Team* on VA.gov. 
     * All *Official GitHub Team* names should start with `vagov-` followed by the team name, which indicates the type of team this is. Examples of this are `vfs-*` (Veteran-facing Services) for teams working on an application or building tools and services on VA.gov.  Another is `vsp-*` (Veteran-facing Services Platform) for teams working on the platform supporting VFS teams. Examples would be `vagov-vsp-operations or `vagov-vfs-public-website`. If those two team types do not fit your team, work with the Platform team to create a logical team type prefix. 
-    * Select the team name after `vfs-*` or `vsp-*`.  An example would be `vagov-vfs-[team name here]`. Choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
-    * Each GitHub team needs to have DEPO one Maintainer; these are Admins on a team who can add and remove users. The Maintainer should be the team’s DEPO lead. 
+    * Select the team name after `vfs-*` or `vsp-*`, an example would be `vagov-vfs-[team name here]`, then choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
+    * Each GitHub team must have their DEPO lead as a Maintainer/Admin, who can add and remove users.    
     * Maintainers should add all members to the team including both engineers and nonengineers. 
 * Inform the VSP Platform Support and the VSP Operations team of any new GitHub team by posting in the #vfs-platform-support  channel. 
 
@@ -28,11 +28,11 @@ In the future, we will be using *Official GitHub Teams* as a source of truth for
     * If a team member leaves an *Official GitHub Team* they need to be removed within three days of departing the team by one of the team’s maintainers and then: 
         * Use the GitHub issue template “Offboarding Request” in the [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team) to remove any access from the user.
 
-### Making Changes to an Official GitHub Team
+### Making Naming and Maintainer Changes to an Official GitHub Team
 
 * No changes to an *Official GitHub Team* name can be made unless approved by DEPO, the VSP Platform Support, and the VSP Operations team.
     * To request an *Official GitHub Team* name change, please post in the  #vfs-platform-support channel and provide:
         * The existing and new team names
         * An explanation for the name change
         * A DEPO point of contact.  
-* A replacement maintainer needs to be appointed before any other maintainer on a team leaves their team to ensure there are at least two maintainers per team at any time.
+* A replacement maintainer needs to be appointed before any other maintainer on a team leaves their team to ensure there areis at least twoone maintainers per team at any time.
