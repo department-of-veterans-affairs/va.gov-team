@@ -1,4 +1,4 @@
-# Medical Device Ordering Tool API Plan v1.0.0
+# Medical Device Ordering Tool API Plan v1.1.0
 
 ## Overview
 
@@ -37,70 +37,77 @@ Content-Type: application/json
       "last": "Anderson"
     },
     "gender": "M",
-    "veteranAddress": {
+    "permanentAddress": {
       "street": "MILITARY ADDY 3",
       "city": "DPO",
       "state": "MI",
       "country": "USA",
       "postalCode": "22312"
     },
+    "temporaryAddress": {
+      "street": "123 Test Street",
+      "city": "Test",
+      "state": "AK",
+      "country": "USA",
+      "postalCode": "67676"
+    },
     "email": "test2@test1.net",
     "supplies": [
-    {
-      "deviceName": "OMEGA XD3241",
-      "productName": "ZA1239",
-      "productGroup": "hearing aid batteries",
-      "productId": "1",
-      "availableForReorder": "false",
-      "lastOrderDate": "2020-01-01",
-      "nextAvailabilityDate": "2020-09-01",
-      "leftEar": "true",
-      "rightEar": "false"
-    },
-    {
-      "deviceName": "OMEGA XD3241",
-      "productName": "ZA1239",
-      "productGroup": "hearing aid batteries",
-      "productId": "2",
-      "availableForReorder": "false",
-      "lastOrderDate": "2020-01-01",
-      "nextAvailabilityDate": "2020-09-01",
-      "leftEar": "false",
-      "rightEar": "true"
-    },
-    {
-      "deviceName": "RITE Power",
-      "productName": "DOME",
-      "productGroup": "hearing aid dome",
-      "productId": "3",
-      "availableForReorder": "true",
-      "lastOrderDate": "2019-06-30",
-      "nextAvailabilityDate": "2019-12-15",
-      "quantity": "10",
-      "size": "6mm"
-    },
-    {
-      "deviceName": "RITE Power",
-      "productName": "DOME",
-      "productGroup": "hearing aid dome",
-      "productId": "4",
-      "availableForReorder": "true",
-      "lastOrderDate": "2019-06-30",
-      "nextAvailabilityDate": "2019-12-15",
-      "quantity": "10",
-      "size": "7mm"
-    }
-    {
-      "deviceName": "Waxbuster",
-      "productName": "single unit",
-      "productGroup": "hearing aid wax guard",
-      "productId": "5",
-      "availableForReorder": "true",
-      "lastOrderDate": "2019-06-30",
-      "nextAvailabilityDate": "2019-12-15",
-      "quantity": "10"
-    }
-  ]
+      {
+        "deviceName": "OMEGA XD3241",
+        "productName": "ZA1239",
+        "productGroup": "hearing aid batteries",
+        "productId": "1",
+        "availableForReorder": "false",
+        "lastOrderDate": "2020-01-01",
+        "nextAvailabilityDate": "2020-09-01",
+        "leftEar": "true",
+        "rightEar": "false"
+      },
+      {
+        "deviceName": "OMEGA XD3241",
+        "productName": "ZA1239",
+        "productGroup": "hearing aid batteries",
+        "productId": "2",
+        "availableForReorder": "false",
+        "lastOrderDate": "2020-01-01",
+        "nextAvailabilityDate": "2020-09-01",
+        "leftEar": "false",
+        "rightEar": "true"
+      },
+      {
+        "deviceName": "RITE Power",
+        "productName": "DOME",
+        "productGroup": "hearing aid dome",
+        "productId": "3",
+        "availableForReorder": "true",
+        "lastOrderDate": "2019-06-30",
+        "nextAvailabilityDate": "2019-12-15",
+        "quantity": "10",
+        "size": "6mm"
+      },
+      {
+        "deviceName": "RITE Power",
+        "productName": "DOME",
+        "productGroup": "hearing aid dome",
+        "productId": "4",
+        "availableForReorder": "true",
+        "lastOrderDate": "2019-06-30",
+        "nextAvailabilityDate": "2019-12-15",
+        "quantity": "10",
+        "size": "7mm"
+      }
+      {
+        "deviceName": "Waxbuster",
+        "productName": "single unit",
+        "productGroup": "hearing aid wax guard",
+        "productId": "5",
+        "availableForReorder": "true",
+        "lastOrderDate": "2019-06-30",
+        "nextAvailabilityDate": "2019-12-15",
+        "quantity": "10"
+      }
+    ]
   },
   "metadata": {
     "version": 0,
@@ -121,12 +128,12 @@ HTTP/1.1
 Accept-Encoding: *
 
 {
-  "veteranFullName": {
+  "fullName": {
     "first": "Greg",
     "middle": "A",
     "last": "Anderson"
   },
-  "veteranAddress": {
+  "permanentAddress": {
     "street": "101 Example Street",
     "street2": "Apt 2",
     "city": "Kansas City",
@@ -134,6 +141,8 @@ Accept-Encoding: *
     "country": "USA",
     "postalCode": "64117"
   },
+  "usePermanentAddress": true,
+  "useTemporaryAddress": false,
   "order": [
     {
       "productId": "1"
