@@ -27,8 +27,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static content page | **Current:** <br> www.va.gov/disability/add-remove-dependent/ <br> **New:** <br>  www.va.gov/add-remove-dependents  | **Current:** <br> Home > Disability benefits > Add or remove a dependent <br> **New:** <br> Home > How to add or remove dependents  | This is an existing static content page managed in Drupal.  It will need to be moved out of Disability and the URL and breadcrumb updated.  The left nav will also need to be removed form this page. 
-Online form | www.va.gov/add-remove-dependents/form-686c/ | Home > Add or remove dependents orm 686c
+Static content page | **Current:** <br> www.va.gov/disability/add-remove-dependent/ <br> **New:** <br>  www.va.gov/dependents  | **Current:** <br> Home > Disability benefits > Add or remove a dependent <br> **New:** <br> Home > Add or remove dependents  | This is an existing static content page managed in Drupal.  It will need to be moved out of Disability and the URL and breadcrumb updated.  The left nav will also need to be removed form this page. 
+Online form | www.va.gov/dependents/add-remove-form-686c/ | Home > Add or remove dependents form 686c
  
 **General Details**
 - Label used in breadcrumb should closely match H1, work with your writer to finalize. 
@@ -46,8 +46,8 @@ Online form | www.va.gov/add-remove-dependents/form-686c/ | Home > Add or remove
 
 Priority | Placement | Description
 --- | --- | ---
-High | https://www.va.gov/disability/add-remove-dependent/ | Add link within content for users to view dependents that are currently on their disability compensation. 
-Medium | Disability hub left nav | An option can be added to the left nav just below the Add dependents option.  Since this tool does not live in Disability this is not required. 
+High | View dependents static page www.va.gov/view-dependents  | Provide link to 
+Medium |  |  
 Medium | https://www.va.gov/disability/ | A link to View dependents could be added to the Manage benefits section of the disability hub page.  However, the standard max links on this page per section is 10 and this page is already at 11. Links in the list should be prioritized in terms of usage and this additional link should only be added if 2 other links can be removed.  Placement would be immediately after the Add dependent option.  Link label and teaser text will be required. 
 Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
 Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations. 
@@ -58,6 +58,10 @@ The above linking opportunities rated "medium" or "low" are purely recommendatio
 
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+- The proposed structure above requires moving an existing content page in the IA.  A redirect will need to be requested to send traffic to the new updated URL for the static page.
+- www.va.gov/disability/add-remove-dependent/ will need to be redirected to  www.va.gov/add-remove-dependents
+- The eBenefits team will be responsible for retiring and redirecting the old tool within the `ebenefits.va.gov` domain. 
 
 For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
 
