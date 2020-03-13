@@ -23,6 +23,7 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Chapter 1: [Veteran Information Chapter]**
    - Page 1: [Vet Info One](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-personal%20info.md)
    - Page 2: [Vet Info Two](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-contact%20info.md)
+   - Page 3: [Vet Info Three](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-medical%20info.md)
 - **Chapter 2: [Primary Caregiver Chapter]**
    - Page 1: [Primary Caregiver One]()
    - Page 2: [Primary Caregiver Two]()
