@@ -7,7 +7,7 @@
 
 #### Most current mockups
 
-| Screens | Mockups | Text |
+| Screens | Mockup Links | Text Sources |
 | :--- | :--- | :--- |
 | View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ | Get text from mock |
 | 21-686c Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) |
