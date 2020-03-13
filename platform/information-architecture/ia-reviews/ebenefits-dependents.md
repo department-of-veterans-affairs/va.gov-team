@@ -51,7 +51,7 @@ Pages shown in site map here: https://app.moqups.com/Rnc4BDEKrA/view/page/abd763
 **Entry point and crosslinking placement**
 
 Priority | Placement | Link to | Description
---- | --- | ---
+--- | --- | --- | ---
 High | [Disability hub page](https://www.va.gov/disability/) |  www.va.gov/view-change-dependents |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
 High | Disability left nav |  www.va.gov/view-change-dependents | The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
 High | [View dependents tool](www.va.gov/view-change-dependents/view) |  www.va.gov/view-change-dependents/add-remove-form-686c/ |The tool should include a link to Add or Remove dependents and take the user directly to the form. 
