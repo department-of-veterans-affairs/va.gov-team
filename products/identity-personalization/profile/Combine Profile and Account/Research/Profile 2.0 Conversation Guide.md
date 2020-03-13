@@ -21,55 +21,57 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 - Tell me about your service history OR tell me about yourself
 - How often do you visit the VA website?
-- What sort of personal information do expect to see on the VA website?
-- What tasks would you expect to do on the profile page?
+- Have you used the VA profile or account pages on the current site?
+- Do you have any applications currently connected with your VA account?
 
 ## Screenshare
 I'm going to send you a link to a clickable prototype. Once you have it pulled up, will you share you screen with me? I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.
 
-## First Task: Find facility locator
+## First Task: Wayfinding and profile navigation
 
 **Scenario**
-- You've come to the VA website because you need help applying for a VA Home Loan and want to talk to someone at a VA facility. Show us how you would do that.
+- You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address. 
+
+- Walk me through what you think these sections mean.
 
 ### Things to watch for:
-
-- How does the participant search by location (ZIP, city, etc.)?
-- Which dropdown options do they select?
-
-## Second Task: Review results
 
 - I noticed you clicked [search info]. Talk about why you chose this.
-- What are your impressions of the search results?
-- How many search results would you expect to see?
-- Why would you choose [the one they choose]?
+- How does the participant navigate to the contact information page?
+- Make note of how user interacts with navigation.
+- Do they understand why they can't edit all parts of the page?
+
+## Second Task: FAQ
+
+- Show me how you'd edit the email address you use to log into VA.gov.  
+
+- I noticed you clicked [search info]. Talk about why you chose this.
+- What are your impressions of the overall layout?
 
 ### Things to watch for:
 
-- How do they interact with the map?
-- Do they scroll through results? 
-- Do they compare anything?
+- How do they interact with the side navigation?
+- Do they scroll past their 'nametag' at the top? 
+- Do they get lost while trying to edit?
+- Do they use any of the 'learn more' or FAQ sections?
 
-## Third Task: Start new search
+## Third Task: Connect an account
 
 Great! I'm going to give you another scenario:
 
-- You have a sore throat and want to find a community clinic that provides urgent care for Veterans close to your house. Show us what you would do to find this.
+- You have been using the AppleHealth Kit application (which is an outside app) and you'd like to disconnect it from your VA account. Show me how you would you do that?
 
 ### Things to watch for:
 
-- What categories are they searching for?
-- Do they make note of the listings?
-- Do they look at the map first?
+- Where user goes to look for connected accounts
+- If user doesn't have an app - can they figure out where to add one? 
 
 ## Post-Task Interview 
 
-- How many results do you want to see after you search?
-- About how many miles out would you want to see in the search results?
-- How much area of the map would you want to interact with?
-- Do you use any sort of map applications? If so, which one(s)?
-- What kind of device do you normally use?
-- Would you use that device to search for facilities on VA.gov?
+- What sort of information do expect to see on the VA profile?
+- What tasks would you expect to do on the profile page?
+- Is there anything that you didn't see that you wish was on the VA profile?
+- What are you favorite parts of the profile? Least favorite parts?
 - Any questions for me? 
 
 ## Thank-You and Closing
