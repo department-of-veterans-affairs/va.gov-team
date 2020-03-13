@@ -24,7 +24,7 @@ TBA
 ---
 
 ### Design
-#### View Dependents
+
 [View Rated Disabilties initial concept](https://xd.adobe.com/view/ebfa6df6-c0aa-4ea9-413e-98793ba7a5a3-9dcb/)
 
 ---
