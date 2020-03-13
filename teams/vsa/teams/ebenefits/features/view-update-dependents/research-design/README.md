@@ -24,8 +24,7 @@
 | Report divorce | --- | --- |
 | Remove stepchild | --- | --- |
 | Dependent's death | --- | --- |
-| Child marriage | --- | --- |
-| Student left school | --- | --- |
+| Child marriage & Student left school | https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/ | --- |
 | Review & Confimation | https://xd.adobe.com/view/19a215a6-89a6-4786-6917-5c3ec6784e8f-6f93/ | --- |
 
 ---
