@@ -28,9 +28,9 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-Static content page | **Current:** <br> www.va.gov/view-dependents/ <br> **New:** <br>  www.va.gov/view-change-dependents  | **Current:** <br> Home > View your dependents <br> **New:** <br> Home > View or change your dependents  | The "current" page was proposed for the View Dependents tool, and the URL and breadcrumb is being slightly modified as part of this work.   
+Static content page | www.va.gov/view-change-dependents  | Home > View or change your dependents  | The was previously proposed for the View Dependents tool as www.va.gov/view-dependents/. The URL and breadcrumb are being modified as part of this work.   
 Online form | www.va.gov/view-change-dependents/add-remove-form-686c/ | Home > View or change your dependents > Add or remove dependents form 686c | Authentication is not required to access this form, and therefore users can directly access it through direct links or bookmarks. 
-View dependents tool | **Current:** <br> www.va.gov/view-dependents/dependents <br> **New:** <br>  www.va.gov/view-change-dependents/view | **Current:** <br> Home > Your VA dependents <br> **New:** <br> Home > View or change your dependents > View your dependents | The "current" page URL and breadcrumb was proposed for the View Dependents tool work, but should be modified based on this addition. 
+View dependents tool | www.va.gov/view-change-dependents/view | Home > View or change your dependents > View your dependents | The was previously proposed for the View Dependents tool as www.va.gov/view-dependents/dependents. The URL and breadcrumb are being modified as part of this work. 
 
 **Details**
 - Label used in breadcrumb should closely match H1, work with your writer to finalize. 
