@@ -13,7 +13,7 @@ Form 10-10CG
 
 {Modal} 
 
-Primary Family Caregiver
+## Primary Family Caregiver
 
 {Content} Primary family caregivers are approved by the Program of Comprehensive Assistance for Family Caregivers to be the main provider of personal care services to a Veteran. They can be the Veteran’s or service member’s:
 
@@ -34,12 +34,12 @@ Primary Family Caregiver
 
 {Text Input} Primary caregiver's Social Security number or tax identification number
 
-{Text Input} Primary caregiver's date of birth
+{Dropdown Input} Primary caregiver's date of birth
 
 {Radio Input} Gender
+{Radio Input options}: Male; Female
 
 {CTA Back/Contiue button} 
-
 
 ### Need help?  
 
