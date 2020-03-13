@@ -20,7 +20,7 @@ Staging accessibility reviews will be turned around in two days, provided the fo
   * [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 * Log any known issues using the [508 issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
 
-## Staging Review for Applications
+## VSP/VSA Staging Review for Applications
 Accessibility specialist(s) will run through the the following automated and manual tests for rich applications. These include  React applications, forms, and anything else that isn't static HTML.
 
 * Axe browser plugin checks on a subset of pages or app states to ensure coverage
@@ -32,7 +32,7 @@ Accessibility specialist(s) will run through the the following automated and man
   * VoiceOver on MacOS
 * End-to-end tests will be reviewed to ensure axe checks are run for primary and secondary (hidden) content
 
-## Staging Review for Static Content
+## VSP/VSA Staging Review for Static Content
 Accessibility specialist(s) will run through the the following automated and manual tests for static content. Static content includes pages generated from the content management system (CMS) or Markdown files.
 
 * Axe browser plugin checks on a subset of pages to ensure coverage
