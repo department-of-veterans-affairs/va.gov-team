@@ -5,23 +5,29 @@
 
 ---
 
-#### Most current mockups
+#### View Dependents
 
 | Screens | Mockup Links | Text Sources |
 | :--- | :--- | :--- |
 | View Dependents | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/ | Get text from mock |
-| 21-686c Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) |
+
+#### Add Dependents (21-686c/21-674)
+
+| Workflows | Mockup Links | Text Sources |
+| :--- | :--- | :--- |
+| Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) |
 | Checkboxes & Veteran info | https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/ | Text is in comment pane |
-| Add spouse workflow | --- | --- |
-| Add child workflow | --- | --- |
+| Add spouse | --- | --- |
+| Verteran marriage | --- | --- |
+| Add child | --- | --- |
 | Add student (21-674) | --- | --- |
-| Report divorce workflow | --- | --- |
-| Remove stepchild workflow | --- | --- |
-| Dependent's death workflow | --- | --- |
-| Child marriage workflow  | --- | --- |
-| Student left school workflow | --- | --- |
-| Review screen workflow | --- | --- |
-| 21-686c Confimation | --- | --- |
+| Report divorce | --- | --- |
+| Remove stepchild | --- | --- |
+| Dependent's death | --- | --- |
+| Child marriage | --- | --- |
+| Student left school | --- | --- |
+| Review | --- | --- |
+| Confimation | --- | --- |
 
 ---
 
