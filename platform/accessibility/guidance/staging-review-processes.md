@@ -6,9 +6,9 @@ All staging reviews will test the [happy path](https://en.wikipedia.org/wiki/Hap
 ## Before You Request a Review
 Staging accessibility reviews will be turned around in two days, provided the following items are done ahead of time:
 
-* Provide a 1-2 sprint "heads up" when the review needs to be completed
+* 1-2 sprints before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon
 * [Provide test user credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md#accessibility-test-credentials-template)
-* Conduct low-level accessibility tests ahead of the VSP staging review:
+* Conduct low-level accessibility tests ahead of the staging review:
   * [Run axe checks using the Chrome or Firefox browser plugin(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation)
   * [Write end-to-end (e2e) tests with good axe checks, including hidden content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements)
   * [Zoom layouts to 400% at 1280px width](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
@@ -16,11 +16,11 @@ Staging accessibility reviews will be turned around in two days, provided the fo
   * [Test for color contrast and color blindness issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#color-tests)
   * [Test with 1 or 2 screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation) _(VoiceOver or NVDA)_
 * Provide documentation for your test cases using one of the templates:
-  * [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR** 
+  * [TestRail accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR** 
   * [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 * Log any known issues using the [508 issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
 
-## VSP/VSA Staging Review for Applications
+## Staging Review for Applications
 Accessibility specialist(s) will run through the the following automated and manual tests for rich applications. These include  React applications, forms, and anything else that isn't static HTML.
 
 * Axe browser plugin checks on a subset of pages or app states to ensure coverage
@@ -32,7 +32,7 @@ Accessibility specialist(s) will run through the the following automated and man
   * VoiceOver on MacOS
 * End-to-end tests will be reviewed to ensure axe checks are run for primary and secondary (hidden) content
 
-## VSP/VSA Staging Review for Static Content
+## Staging Review for Static Content
 Accessibility specialist(s) will run through the the following automated and manual tests for static content. Static content includes pages generated from the content management system (CMS) or Markdown files.
 
 * Axe browser plugin checks on a subset of pages to ensure coverage
