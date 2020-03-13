@@ -3,7 +3,7 @@ Post-launch audit processes are designed to evaluate applications and static con
 
 You should [request a full audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+product+support&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BFeature-Name%5D) when your application is relatively code-stable in production. Ideally all issues identified during the staging review have been fixed, but your accessibility specialist will communicate known issues to the VA 508 office.
 
-## How The VSP/VSA Post-launch Audit is Different from a Staging Review
+## How The Post-launch Audit is Different from a Staging Review
 The post-launch audit will focus on manual testing with mobile and assistive technology:
 
 * Windows 7/10 IE11 + JAWS
