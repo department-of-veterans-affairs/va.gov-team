@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) |
 | Checkboxes & Veteran info | https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/ | Text is in comment pane |
-| Add spouse | --- | --- |
+| Add spouse | https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/ | Get text from mock |
 | Verteran marriage | --- | --- |
 | Add child | --- | --- |
 | Add student (21-674) | --- | --- |
