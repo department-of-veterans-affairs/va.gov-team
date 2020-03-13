@@ -2,10 +2,10 @@
 
 ## What is GitHub Teams, and why are we talking about it?
 
-GitHub Teams give organizations the ability to create groups of members and control access to repositories. Team members can be granted read, write, or admin permissions to specific repositories.
+The Teams feature within GitHub is core to access controls within the GitHub ecosystem. Teams are groups of individual users. Teams can have parent-child relationships with one another and act as a sort of directory service. They are a core feature of the platform to drive permissions. They are used to grant users permissions to read, write, administer, or perform other functions on repositories or team membership. On top of permissions for resources within GitHub, many partner applications (example: CircleCI) use these permissions or team memberships for access controls as well.
 For more information on GitHub teams, please see [GitHub docs](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams).
 
-At the moment, some teams have their own GitHub Teams, while others do not. GitHub Teams’ benefits and functions are not fully understood across VA.gov. Our goal is to provide a basic understanding of GitHub teams, establishing a logical structure of teams first. Then we can improve the process of granting access and developers’ experience on VA.gov. 
+At the moment, some VFS teams have their own GitHub Teams, while others do not. GitHub Teams’ benefits and functions are not fully understood across those building on VA.gov. Our goal is to provide a basic understanding of GitHub teams, establishing a logical structure of teams first. Then we can improve the process of granting access and developers’ experience on VA.gov.
 
 In the future, we will be using *Official GitHub Teams* as a source of truth for team rosters, access, and auditing purposes for VSP. The process of creating and maintaining Official GitHub Teams is below. 
 
