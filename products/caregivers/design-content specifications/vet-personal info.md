@@ -22,9 +22,7 @@ Form 10-10CG
 {CTA Back/Contiue button} 
 
 
-#### Need help? footer  
-
-Need help?
+### Need help?
 
 Need help filling out this form,  ask the VA Caregiver Support Line: 
 
