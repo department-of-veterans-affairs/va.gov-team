@@ -17,12 +17,15 @@ Form 10-10CG
 
 {Text Input} Veteran's date of birth
 
-{Text Input} Gender
+{Radio Input} Gender
+{Radio Input options}: Male; Female
 
 {CTA Back/Contiue button} 
 
 
-### Need help?
+### Need help?  
+
+Need help?
 
 Need help filling out this form,  ask the VA Caregiver Support Line: 
 
