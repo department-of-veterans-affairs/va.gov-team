@@ -15,6 +15,6 @@ eBenefits | View Dependents | COMPLETE 02/25/2020  | Now combined with the Add/r
 Websites Team | Forms Search Landing Pages | COMPLETE 03/06/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-detail-pages.md
 Websites Team | VA Forms Search | COMPLETE 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md 
 BAM1 | Higher Level Review Form | COMPLETE 12/3/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-higher-level-review.md 
-Health Care Products | Online Scheduling (VAOS) | COMPLETE 11/7/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-online-scheduling
+Health Care Products | Online Scheduling (VAOS) | COMPLETE 11/7/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-online-scheduling.md
 BAH | School Certifying Officials content page | COMPLETE 11/5/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-certifying-officials.md 
 eBenefits | Rated Disabilities | COMPLETE 10/18/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-rated-disabilities.md
