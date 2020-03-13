@@ -11,7 +11,9 @@ We envision a world where it takes less time to find information about VA benefi
 
 ### Team North Star:
 Potential:
-Reliable, secure, fast online experience using self service tools.
+1. Increase # of Self Service Transactions and # Online Submissions with use of Self Service Tools
+2. Reduce the time to communication of decisions of forms submitted online (versus offline)
+3. Increase and maintain customer satisfaction score and giving users a satisfying and reliable online experience.
 
 ## What we work on
 ### Product Suite
