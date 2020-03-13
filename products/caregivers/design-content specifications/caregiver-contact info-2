@@ -1,27 +1,28 @@
 # Apply for family caregiver benefits
 Form 10-10CG
 
-## Veteran/Service Member personal information
+## Primary caregiver contact information
 
-{Intro block} Complete the following information about the Veteran or service member. You aren’t required to fill in all fields, but we can review your application faster if you provide more information.
+{Intro block} Complete the following information about the caregiver or family member who is helping the Veteran or service member. You can also include information about up to 2 secondary family caregivers.
 
-{Text Input} Veteran's first name
+{Text Input} Primary caregiver’s current street address
 
-{Text Input} Veteran's middle name 
+{Text Input} Line 2 
 
-{Text Input} Veteran's last name 
+{Text Input} City
 
-{Dropdown Input} Suffix 
+{Dropdown Input} State
 
-{Text Input} Veteran's Social Security number or tax identification number
+{Text Input} Postal code
 
-{Text Input} Veteran's date of birth
+{Text Input} Primary caregiver’s phone number
 
-{Radio Input} Gender
-{Radio Input options}: Male; Female
+{Text Input} Primary caregiver’s alternate phone number
+
+{Dropdown Input} What is the primary caregiver's relationship with the Veteran? 
+{Dropdown options} Spouse; Father; Mother; Son; Daughter; Brother; Sister; Significant - Other; Relative - Other; Friend/Neighbor 
 
 {CTA Back/Contiue button} 
-
 
 ### Need help?  
 
