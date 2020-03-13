@@ -1,4 +1,4 @@
-H1: # Apply for family caregiver benefits
+# Apply for family caregiver benefits
 Form 10-10CG
 
 ## Veteran/Service Member personal information
