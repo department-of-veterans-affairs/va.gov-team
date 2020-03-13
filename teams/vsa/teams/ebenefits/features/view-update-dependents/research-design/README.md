@@ -20,7 +20,7 @@
 | Add spouse | https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/ | Get text from mock |
 | Veteran marriage | --- | --- |
 | Add child | --- | --- |
-| Add student (21-674) | --- | --- |
+| Add student (21-674) | https://xd.adobe.com/view/bccb4115-4715-4c19-74fc-71759fd7042d-cafa/ | --- |
 | Report divorce | --- | --- |
 | Remove stepchild | --- | --- |
 | Dependent's death | --- | --- |
