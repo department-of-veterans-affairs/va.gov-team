@@ -2,7 +2,8 @@
 
 Navigation: <br>
 **Default:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)<br>
-**Use case - Veteran is deceased:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-1) 
+**Use case - Veteran is deceased:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-1) <br>
+**Use case - No items are eligible for resupply:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-2) 
 
 ## Default 
 
@@ -86,4 +87,25 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 [Warning alert] Our records show that this Veteran is deceased (H4 utility)
  We can't fulfill an order for this Veteran.
  If this information is incorrect, please call Veterans Benefits Assistance at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+```
+
+## Use case - No items are available for resupply 
+
+Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/YHWEKTC2AXQ) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6694)
+
+### Description 
+If the Veteran has no hearing aid batteries or accessories available for resupply, they they should be restricted from entering the form. This design follows the pattern used on the 10-10CG's _Deceased veteran_ state to provide consistency across VA.gov. 
+
+### Content
+**Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
+
+```
+Home > Health care > Order hearing aid batteries and accessories
+
+# Order hearing aid batteries and accessories
+Equal to VA Form 2346 (Request for Batteries and Accessories)
+
+[Warning alert] You can’t place an order until MM/DD/YYYY (H4 utility)
+Our records show that none of your items are available for resupply until MM/DD/YYYY.
+If you need an item sooner, contact the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
