@@ -21,7 +21,7 @@ Documentation containing descriptions, interaction notes, and content for each c
 - **Introduction Screen**
    - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/form-intro-page.md)
 - **Chapter 1: [Veteran Information Chapter]**
-   - Page 1: [Vet Info One](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-personal%20info.md)
+   - Page 1: [Vet Info One](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-personal%20info-1.md)
    - Page 2: [Vet Info Two](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-contact%20info.md)
    - Page 3: [Vet Info Three](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/vet-medical%20info.md)
 - **Chapter 2: [Primary Caregiver Chapter]**
