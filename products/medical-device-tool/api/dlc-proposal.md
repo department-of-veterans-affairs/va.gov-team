@@ -43,7 +43,7 @@ Transfer-Encoding: chunked
 Content-Type: application/json
 
 {
-  "veteranAddress": {
+  "permanentAddress": {
     "street": "101 Example Street",
     "street2": "Apt 2",
     "city": "Kansas City",
@@ -51,7 +51,7 @@ Content-Type: application/json
     "country": "US",
     "postalCode": "64117"
   },
-  "veteranTemporaryAddress": {
+  "temporaryAddress": {
     "street": "201 Example Street",
     "city": "Galveston",
     "state": "TX",
@@ -118,7 +118,7 @@ va_veteran_birth_date: 1968-10-10
 va_api_key: 1234abcd1234abcd1234abcd1234abcd
 
 {
-  "veteranAddress": {
+  "permanentAddress": {
     "street": "101 Example Street",
     "street2": "Apt 2",
     "city": "Kansas City",
@@ -126,7 +126,7 @@ va_api_key: 1234abcd1234abcd1234abcd1234abcd
     "country": "US",
     "postalCode": "64117"
   },
-  "veteranTemporaryAddress": {
+  "temporaryAddress": {
     "street": "201 Example Street",
     "city": "Galveston",
     "state": "TX",
