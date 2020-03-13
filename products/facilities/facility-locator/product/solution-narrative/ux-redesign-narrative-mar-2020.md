@@ -31,6 +31,12 @@ This decision also required an additional update to the language in the intro te
 
 ### Alert
 
+When Facility type = Urgent care and Service type = Community urgent care providers (in VA's network), users will see an alert with a call to action to visit a webpage from the office of Community care to learn about eligibility and billing. 
 
+![Alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/urgent%20care%20alert.png)
 
+When urgent care pharmacies are again visible from the VA facility type dropdown, the same alert will be displayed for those searches. 
 
+### Search result subhead
+
+During QA of Urgent Care MVP Phase 1, it was discovered that the results summary subhead updated prematurely. In addition to this bug, the number of search results were incorrect for any PPMS (community care) related searches. Although not ideal, the decision was made to hide the subhead for all Facility Locator searches, regardless of Facility type. The goal is to prevent user confusion from the incorrect search summary and to provide a consistent Veteran experience. This is intended to be temporary, until the root cause(s) for the issue(s) can be addressed. 
