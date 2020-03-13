@@ -55,9 +55,9 @@ Priority | Placement | Link to | Description
 High | [Disability hub page](https://www.va.gov/disability/) |  www.va.gov/view-change-dependents |The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label and teaser text as appropriate. Placement is the same as it currently is. 
 High | Disability left nav |  www.va.gov/view-change-dependents | The existing "Add or remove dependents" link should be updated to point to the new static page to "View or change dependents".  Update the link label as appropriate. Placement is the same as it currently is. 
 High | [View dependents tool](www.va.gov/view-change-dependents/view) |  www.va.gov/view-change-dependents/add-remove-form-686c/ |The tool should include a link to Add or Remove dependents and take the user directly to the form. 
-Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
-Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations, but could be reviewed for priority over the other 2 options. 
-Low/Future | Profile  | Look at future opportunities to test user response to placement within the profile experience. 
+High | https://www.va.gov/search/?page=1&query=add+dependent | www.va.gov/view-change-dependents | Change item in top recommendations section for "add dependents" query to point to new page
+Medium | https://www.va.gov/search/?query=disability+dependents | www.va.gov/view-change-dependents | Add to top recommendations section for additional key searches such as: "disability dependents", "my dependents", "remove dependents".
+Low/Future | Profile  | www.va.gov/view-change-dependents/view | Look at future opportunities to test user response to placement within the profile experience. 
 
 The above linking opportunities rated "medium" or "low" are recommendations and not required for launch.  They can be implemented at your team's discretion.
 
