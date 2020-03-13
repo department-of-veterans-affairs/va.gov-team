@@ -5,19 +5,23 @@ Form 10-10CG
 
 [Intro block] Complete the following information about the Veteran or service member. You aren’t required to fill in all fields, but we can review your application faster if you provide more information.
 
-{Text Input} Veteran's first name
+{Dropdown Input} Country
 
-{Text Input} Veteran's middle name 
+{Text Input} Veteran's current street address  
 
-{Text Input} Veteran's last name 
+{Text Input} Line 2 
 
-{Dropdown Input} Suffix 
+{Text Input} City
 
-{Text Input} Veteran's Social Security number or tax identification number
+{Dropdown Input} State
 
-{Text Input} Veteran's date of birth
+{Text Input} Postal code
 
-{Text Input} Gender
+{Text Input} Veteran's primary phone number
+
+{Text Input} Veteran's alternate phone number
+
+{Text Input} Veteran's email address
 
 {CTA Back/Contiue button} 
 
