@@ -30,7 +30,8 @@ Documentation containing descriptions, interaction notes, and content for each c
    - Page 3: [Primary Caregiver Info Three](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/caregiver-medical%20info-3.md)
 - **Chapter 3: [Secondary Caregivers Chapter]**
    - Page 1: [Secondary One](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/secondary-caregiver-1.md)
-   - Page 2: [Secondary Two]()
+   - Page 2: [Secondary Two](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design-content%20specifications/secondary-caregiver-2.md)
+   - Page 3: [Secondary Three]()
 - **Chapter 4: Review order** 
    - Page 1: [Review order]()
 - **Confirmation screen** 
