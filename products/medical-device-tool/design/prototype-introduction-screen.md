@@ -130,5 +130,5 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 [Warning alert] You cannot place an order for hearing aid batteries and accessories
 Our records show that you aren’t eligible to order hearing aid batteries and accessories.
 If this information is incorrect, contact your audiologist to update your record.
-[Find contact information for your VAMC with the facility locator](https://www.va.gov/find-locations/).
+[Find contact information for your VAMC with the facility locator.](https://www.va.gov/find-locations/)
 ```
