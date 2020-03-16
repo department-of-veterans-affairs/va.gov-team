@@ -2,6 +2,8 @@
 
 ## What is GitHub Teams, and why are we talking about it?
 
+Currently, user management is difficult for VSP. There is no source of truth for who is currently on a team, if someone new has joined, or if someone left. This makes granting access and auditing users especially challenging. VSP needs a source of truth in order to have a better user management approach. VSP will use GitHub Teams as this source of truth. 
+
 The Teams feature within GitHub is core to access controls within the GitHub ecosystem. Teams are groups of individual users. Teams can have parent-child relationships with one another and act as a sort of directory service. They are a core feature of the platform to drive permissions. They are used to grant users permissions to read, write, administer, or perform other functions on repositories or team membership. On top of permissions for resources within GitHub, many partner applications (example: CircleCI) use these permissions or team memberships for access controls as well.
 For more information on GitHub teams, please see [GitHub docs](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams).
 
