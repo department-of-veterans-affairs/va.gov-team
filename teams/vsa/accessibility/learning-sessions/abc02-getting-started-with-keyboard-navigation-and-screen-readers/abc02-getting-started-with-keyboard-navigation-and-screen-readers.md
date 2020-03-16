@@ -212,4 +212,4 @@ Now, you try! Using VoiceOver or NVDA (links for more info on these screen reade
 
 * [WebAIM guide to using NVDA](https://webaim.org/articles/nvda/)
 
-* [MacOS VoiceOver guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
+* [MacOS VoiceOver guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
