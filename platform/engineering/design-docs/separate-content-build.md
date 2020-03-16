@@ -9,8 +9,8 @@
 ## Overview
 
 ### Objective
-The objective here is to define an approach to isolate the content build from
-the front end application build.
+The objective here is to define an approach to isolate the concerns of the
+content build from the front end application build and vice versa.
 
 This design document is intended for front end engineers and DevOps engineers on
 the Veteran-facing Services Platform (VSP) and other Veteran-Facing Services
