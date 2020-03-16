@@ -32,7 +32,7 @@ As currently configured, on the first of the month Dependabot will open PRs unti
 
 ## Pull requests 
 
-Ensure that no pull request reviews have been waiting more than 24 hours for a response. This includes follow-ups to reviews. When possible, rely on other FE team members to do PR reviews (e.g. ask for a volunteer and assign the PR to them).
+Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. When possible, rely on other FE team members to do PR reviews (e.g. ask for a volunteer and assign the PR to them).
 
 ## Support requests
 
