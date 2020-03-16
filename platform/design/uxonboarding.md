@@ -150,7 +150,7 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
 
 ### 508/Accessibility
 - Design for accessibility
-- Test with screenreaders ([see guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md) and ask for a demo if this is new to you)
+- Test with screenreaders ([see VoiceOver guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md) and [see cross-platform guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md) and ask for a demo if this is new to you)
 - Consult your friendly 508 office
 - Usability test for accessibility
 - More info here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility
