@@ -91,23 +91,31 @@ for more details.
         back to the cache won't help
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of
-the document and will probably receive the most attention. You should explain,
-at a high level, how your system will work. Don't get bogged down with details;
-those belong later in the document._
+The current front end build will be split up into two distinct builds:
+1. Content build
+    - Input: CMS content
+    - Output: HTML files, assets from the CMS (PDFs, images and the like)
+1. Application build
+    - Input: `vets-website` code
+    - Output: JavaScript and CSS bundles
 
-_A diagram showing how the major components communicate is very useful and a
-great way to start this section. If this system is intended to be a component in
-a larger system, a diagram showing how it fits in to the larger system will also
-be appreciated by your readers._
+The output of both these builds will be deployed to separate buckets. The
+reverse proxies will route traffic intelligently to the appropriate bucket given
+the request.
 
-_Most diagrams will need to be updated over time as the design evolves, so
-please create your diagrams with a program that is easily (and freely) available
-and attach the diagram source to the document to make it easy for a future
-maintainer (who could be you) to update the diagrams along with the document._
+<!-- TODO: Insert "MFE - Proposed traffic flow to S3 buckets" diagram -->
+
+**Important note:** JavaScript application landing pages will live in the CMS.
+To get an application into production, the page in Drupal will need to be
+published.
+
+**Another important note:** There is no way to coordinate these two deploys to
+make an application live for the first time. The process will be to manually:
+1. Verify the application assets are live in production
+1. Publish the landing page
+1. Deploy a new content build
 
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong
