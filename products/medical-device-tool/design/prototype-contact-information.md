@@ -14,18 +14,6 @@ Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/s
 Since qualified veterans need to be logged in to place an order, the default state can be assumed to pre-fill the veteran's contact information. <br>
 Initial focus point should be on the H1: _Order hearing aid batteries and accessories_
 
-### Feedback 
-**VSP Office hours in early February**
-The following feedback was incorporated into the design via [this Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5789).  
-* Use either full state name or state abbreviation + state name 
-* Reference: Pension form has every address field stacked
-    * Some fields are shorter (such as postal code)
-    * All others are same width
-* Stack all the address input fields
-* Input field labeling: _Street address 1_; _Street address 2_
-    * Review w/ content
-* Add helper text to _Street address 2_ to provide clarity about what part of the address the veteran should input 
-
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
@@ -80,9 +68,6 @@ Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/s
 ### Description 
 If the veteran's data is not being pre-filled or they need to manually update a portion of their contact information, they are able to do so by editing the input fields. 
 Initial focus point should be on the H1: _Order hearing aid batteries and accessories_
-
-### Feedback 
-TBD
 
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
@@ -139,9 +124,6 @@ Relevant links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/
 This screen shows how a veteran could add a new address or update an existing address. Since the component to capture email addresses is a text input field, the veteran would need to overwrite the current address or type a new one in the blank field.<br> 
 Initial focus point: Since the Veteran is editing their email address, the focus point should be on the _email address_ text input field. This is marked using the focus management styling provided in the VA design system. 
 
-### Feedback 
-TBD
-
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
@@ -196,9 +178,6 @@ Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/s
 ### Description 
 This design shows an example of how error messages should be displayed in the form's UI for the _Contact information_ screen. <br><br>
 Initial focus point depends on the action the user is taking. For example, if a user selects & deselects _Street address line 1_, then the focus would be on _Street address line 2_. The design team needs to double-check with the A11Y team to determine where the focus point would be if a user attempted to proceed to the next screen without completing all required fields. 
-
-### Feedback 
-TBD
 
 ### Content
 **Note:** The content for this screen contains all error messages. Content still needs to be reviewed by content team. 
