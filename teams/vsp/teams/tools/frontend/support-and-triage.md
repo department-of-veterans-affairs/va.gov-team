@@ -41,7 +41,7 @@ Support requests include every interaction you have with a VSF team member. Even
 - Create an issue describing the request in GitHub and link it to the Global Customer Support epic (ask Brandon if you need a link to this epic). 
 - Tag the issues with fe-tools, assign it to yourself, and prepend the title of the Ticket with *[Support] -*. 
 - Track any work done with comments. 
-- Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. 
+- Summarize any solutions and failed attempts so the issue can be referred to again in the future if necessary. 
 - If other team members are involved, add them to the ticket.
 
 ## Sentry errors
