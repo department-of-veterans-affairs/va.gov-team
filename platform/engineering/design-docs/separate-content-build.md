@@ -1,6 +1,5 @@
 # Separate Content Build
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
 **Author(s):** Christopher Valarida  
 **Last Updated:** March 12 2020  
 **Status:** **Draft** | In Review | Approved  
