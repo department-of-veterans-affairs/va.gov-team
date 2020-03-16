@@ -67,7 +67,10 @@ We may also use milestones for specific product milestones, such as an MVP or re
 
 ### Grooming sessions
 
-Every Friday at 11:30am ET the CMS team will will meet as a whole for backlog grooming and prioritization.  
+- Every other Monday at 3:30pm: Helpdesk and support backlog grooming 
+- Every other Tuesday at 1:30pm ET: Devops Grooming 
+- Every other Wednesday at 2pm ET: Design pod grooming 
+- Every other Friday at 12:30pm: Cross-disciplinary grooming. The agenda will usually be a few epics, and participation may depend on what epics we’re grooming. 
 
 It is the responsibility of the product manager to facilitate these 
 
