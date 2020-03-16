@@ -21,7 +21,7 @@ Udpated timeline coming soon...
 
 -----
 
-## Phase 0: Pre-launch & launch prep [Due Pre-Launch] <------- *WE ARE HERE*
+## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
 The goal of this stage is to ensure the tool is holistically ready for production launch
 - [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Product%20Dev%20Checklist%20-%20VAOS%20MVP.md) complete
 - New feature development stops; focus on integration testing, manual QA testing and bug squashing
@@ -39,7 +39,7 @@ The goal of this stage is to ensure the tool is holistically ready for productio
         - VA Telehealth staff- FCTs, TCTs, etc.
         - VA clinicians (primarily nurses)
 
-## Phase 1: Initial Public Rollout [Week 1]
+## Phase 1: Initial Public Rollout [Week 1] <------- *WE ARE HERE*
 The goal of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface edge-case bugs, service issues, etc. before a broader roll-out
 - Targeting 375 appointment attempts (~5% of legacy tool volume)/weekly to get statistically valid data set for comparison
 - ~5% of logged-in users on VA.gov automatically opted in (but have pathway for returning to legacy experience) *[need to discuss with Lauren]*
