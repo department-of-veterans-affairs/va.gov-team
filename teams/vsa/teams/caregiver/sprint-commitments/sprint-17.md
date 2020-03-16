@@ -18,8 +18,8 @@
 
 ## Content
 - [Support IA ticket making! (0)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6318)
-- Content for POA documentation (3)
-- Content for opt-in to notification service (3)
+- [Content for POA documentation (3)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6912) 
+- ~Content for opt-in to notification service (3)~ (On hold)
 
 
 # Notes 03-12-2020
