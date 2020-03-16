@@ -9,20 +9,21 @@ Also helpful:
   - [Quick Guide to Using VoiceOver on Mac OS X](http://www.victortsaran.net/quick-guide-to-using-voiceover-on-mac-os-x/), by [Victor Tsaran](https://www.linkedin.com/in/victortsaran)
 
 ## Basic controls quick reference:
-VO = control+option (but may vary)
+**VO** = `Control + Option`
 
 Function | Keyboard command 
 --- | --- 
 turn on Voice Over | command+F5 
-move around the elements on the page | VO + arrows 
+move around the elements on the page | **VO** + arrows 
 open VoiceOver rotor | VO + U (escape to close) 
-open commands menu (to find other shortcut commands) | VO + H + H 
-select something | VO + space 
-Navigate by headings only | VO + command + H 
-Read everything from the top of the page | VO + A 
-Jump to next paragraph | VO + P 
-Navigate to elements | tab; Shift-tab to go backwards
-Select or deselect a checkbox or other control | V0 + space 
+open commands menu (to find other shortcut commands) | **VO** + H + H 
+select something | **VO** + space 
+Navigate by headings only | **VO** + command + H 
+Read everything from the top of the page | **VO** + A 
+Jump to next paragraph | **VO** + P 
+Navigate to next focusable element | Tab
+Navigate to previous focusable element | Shift + Tab
+Select or deselect a checkbox or other control | **VO** + space 
 
 **Helpful Tip**: To temporarily pause VoiceOver's audio, press the CONTROL key to stop the speech. To resume VoiceOver speech, either press the CONTROL key again or perform other actions on the keyboard.
 
