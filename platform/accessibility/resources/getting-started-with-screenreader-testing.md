@@ -23,7 +23,7 @@ For users working on an Apple laptop or desktop, Safari and VoiceOver included i
 
   > To install an add-on, go to the NVDA tools menu, then select manage add-ons. Then select install, navigate to the location where you saved the downloaded add-on and choose the add-on package you wish to install.
   >
-  > [NVDA Community Add-ons Website]([https://addons.nvda-project.org/index.en.html#:~:text=To%20install%20an%20add%2Don,package%20you%20wish%20to%20install.](https://addons.nvda-project.org/index.en.html#:~:text=To install an add-on,package you wish to install.))
+  > [NVDA Community Add-ons Website](https://addons.nvda-project.org/index.en.html)
 
 * [Focus Highlight plugin (recommended)](https://addons.nvda-project.org/addons/focusHighlight.en.html)
 
