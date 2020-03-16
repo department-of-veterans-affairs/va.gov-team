@@ -23,10 +23,6 @@ The initial focus point per screen: <br>
 **Default page, 'yes' selected, hearing aids for both ears only** - The radio button _Yes, I need to order hearing aid batteries._<br>
 **Default page, 'yes' selected, mix of hearing aids** -  Since one of the cards is selected, the focus point should be on that card. We may need to provide styling references to the front-end engineers. <br>
 
-### Feedback 
-**Internal slack thread 03/03/2020**<br>
-There was a discussion thread around the checkbox button styling. The design was originally using a plus icon to visually represent adding an item to the Veteran's order and a checkmark icon when the item was added to the order. However, this pattern posed accessibility concerns surrounding how a screenreader would read out that content. The design was updated to show checkboxes that toggle instead of iconography. 
-
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
@@ -105,9 +101,6 @@ Relevant links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/
 It is possible that a veteran may only have rechargeable hearing aids on their record. There is no gating question for this use case; it is not good user experience to ask the veteran if they want to order batteries only to tell them that they cannot. However, it's important to still display the rechargeable hearing aids in case the veteran's record is not correctly updated and they expect to see a hearing aid that they can order batteries for. <br>
 Initial focus point should be on the H1: _Order hearing aid batteries and accessories_.
 
-## Feedback
-TBD
-
 ## Content 
 ```
 Home > Health care > Order hearing aid batteries and accessories
@@ -153,9 +146,6 @@ Relevant links: [Invision prototype: Default (Desktop)](https://vsateams.invisio
 ## Description
 This use case covers if a veteran does not have any devices that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible device layouts. Even though none of the hearing aids are eligible for resupply, it's important to display the hearing aids in case a veteran is expecting to be able to order for an aid or if they don't see an expected aid. 
 Initial focus point should be on h1:  Order hearing aid batteries and accessories
-
-## Feedback
-TBD
 
 ## Content 
  ```
