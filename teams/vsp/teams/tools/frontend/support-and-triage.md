@@ -65,5 +65,5 @@ The oncall developer should handle normal oncall tasks, but may need some fronte
 ## Process improvement 
 
 At the end of the rotation, there will be a short handoff meeting where we will discuss
-- ongoing support issues that need to be taken over by the next developer in the rotation
-- patterns in support issues that merit process improvement
+- Ongoing support issues that need to be taken over by the next developer in the rotation
+- Patterns in support issues that merit process improvement
