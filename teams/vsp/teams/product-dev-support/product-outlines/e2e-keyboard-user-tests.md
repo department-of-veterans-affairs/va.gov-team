@@ -60,12 +60,10 @@ We're going to build helpers to assist VFS teams with building their own keyboar
 
 ## Target Launch Date
 - Launch date: 3/17 or 3/24
-- A month after launch
+- A month after launch we will follow up with teams to check adoption rates
 
 ---
    
 ## Screenshots
 
-### Before
 
-### After
