@@ -1,6 +1,6 @@
-//DRAFT WIP //
+//DRAFT WIP
 
-//Overview
+// Overview
 The documentation is to provide definition and clarity as to how we are tracking analytics for the new VA Online Scheduling tool (VAOS-R). Use this document as a guide when looking into the analytics and performance of the VAOS tool on VA.gov. 
 
 // Events Tracking
@@ -43,15 +43,15 @@ The documentation is to provide definition and clarity as to how we are tracking
     - `{ appointmentType: ‘pending’, facilityType: ‘va’}`
  
  // Events Tracking Errors
- Failure - Exceeded outstanding requests limit
-Errored - Exceeded outstanding requests limit
- Failure - Doesn't meet requests past visits requirement
-errored - Doesn't meet requests past visits requirement
- Failure - Doesn't meet direct schedule past visits requirement
-errored - Doesn't meet direct schedule past visits requirement
- Failure - Doesn't have any available clinics
-errored - Doesn't have any available clinics
- Failure - Doesn't have any clinics available that match past clinics
-errored - Doesn't have any clinics available that match past clinics
- Failure - Doesn't have active PACT members
-errored - Doesn't have active PACT members
+- Failure - Exceeded outstanding requests limit
+  - Errored - Exceeded outstanding requests limit
+- Failure - Doesn't meet requests past visits requirement
+  - Errored - Doesn't meet requests past visits requirement
+- Failure - Doesn't meet direct schedule past visits requirement
+  - Errored - Doesn't meet direct schedule past visits requirement
+- Failure - Doesn't have any available clinics
+  - Errored - Doesn't have any available clinics
+- Failure - Doesn't have any clinics available that match past clinics
+  - Errored - Doesn't have any clinics available that match past clinics
+- Failure - Doesn't have active PACT members
+  - Errored - Doesn't have active PACT members
