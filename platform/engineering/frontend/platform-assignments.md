@@ -1,0 +1,40 @@
+# Overview 
+
+`vets-website` has several parts that require ongoing maintenance and improvement. These platform parts are assigned a primary and a secondary engineer. 
+
+This document describes the responsibilities of each of these roles and is intended for VSP frontend engineers and their leadership group. 
+
+## Primary 
+
+- Accountable for the ongoing maintenance of their designated platform part 
+  - Expected to do around a day of unplanned maintenance per sprint- this does not include support time but should be documented in a ticket and draft PR
+  - Inform engineering lead and product manager if no maintenance has been performed for 2 consecutive sprints 
+- Assists product manager with backlog management 
+  - Understands the implementation of the platform part 
+  - Provides feasible improvement options 
+  - Understand the problem solved by the platform part
+  - Makes tradeoff decisions with product manager 
+- Provide consultation and support to users 
+- Consults and informs secondary engineer for all changes made to the platform part
+  - Secondary engineer is required approver on all changes when available 
+- Keeps documentation organized and up to date 
+
+## Secondary 
+
+- Responsible for the ongoing maintenance of their designated platform part 
+- Reviews and approves all changes made 
+- Familiar with backlog and ongoing changes 
+- Can provide support on platform part when primary is unavailable 
+
+# Assignments 
+
+|  Platform Part | Primary  | Secondary   |  Backlog Link(s) | Notes  |
+|---|---|---|---|---|
+|  Security ools / dependency management | Jhonny Gonzalez  | ? | [Dependency Management](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22dependency+management%22)   |   |
+| FE operations (monitoring, alerting)  |   |   |   |   |
+| Testing tools (unit, functional, integration, accessibility) |   |   |   |   |
+| Continuous integration experience (GitHub, CircleCI) | Brooks Johnson  |   |   |   |
+| Build process |   |   |   |   |
+| Forms system |   |   |   |   |
+| Pre-production tools (feature toggles, review instances) |   |   |   |   |
+| Formation (React implementation of design system) |   |   |   |   |
