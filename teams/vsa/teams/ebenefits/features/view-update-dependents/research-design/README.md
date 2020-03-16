@@ -1,7 +1,7 @@
 # View/Update Dependents research & design
 **VSA eBenefits Team | March 2020**
 
-`James Adams, UI/UX Designer`
+`James Adams, designer`
 
 ---
 
@@ -16,8 +16,8 @@
 | Workflows | Mockup Links | Text Sources |
 | :--- | :--- | :--- |
 | Introduction | https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-intro-text.md) |
-| Checkboxes & Veteran info | https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/ | checkbox text in comment pane; get label text from mock |
-| Add spouse | https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/ | Get text from mock |
+| Checkboxes & Veteran info | https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/ | Checkbox text in comment pane; get label text from mock |
+| Add spouse | https://xd.adobe.com/view/e185627d-0f83-4762-747d-d646b4557713-97b4/ | Add'l Info text in comment pane; get label text from mock |
 | Veteran marriage | https://xd.adobe.com/view/a0834c4a-7109-4eff-6a61-43c2bd5cbcd6-d6b2/ | --- |
 | Add child | https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/ | --- |
 | Add student (21-674) | https://xd.adobe.com/view/bccb4115-4715-4c19-74fc-71759fd7042d-cafa/ | --- |
