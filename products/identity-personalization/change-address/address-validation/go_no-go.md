@@ -52,7 +52,7 @@
 
 **OK to proceed?**: N/A
 
-- Per our [approved release plan](), we did not do UAT. For launch, we will be launching this feature behind a feature flag and then confirming everything works ourselves. Only when we're sure everything is working as expected will we lift hte flag and release the feature to 25% of users. 
+- Per our [approved release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/release-plan.md), we did not do UAT. For launch, we will be launching this feature behind a feature flag and then confirming everything works ourselves. Only when we're sure everything is working as expected will we lift hte flag and release the feature to 25% of users. 
 
 ### Brad/Erik/Lihan: are there any Sev1 bugs or accessibility issues outstanding?
 
