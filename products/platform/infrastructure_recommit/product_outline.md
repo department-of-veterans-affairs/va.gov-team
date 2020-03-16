@@ -28,9 +28,9 @@ Configuration bifurcation (authoritative configuration lives in multiple repos w
 Local development Close coupling of system and service deployment (kernel patches go out with application deploys)
  
 ## Desired User Outcomes
-- Reduce complexity working on the Platform
-- Reduce complexity working with the Platform 
--  Deployments should be faster, easier to run, and teams should be deploying more. 
+- Reduce complexity building operation components on the platform
+- Reduce complexity using operation components to build on va.gov 
+- Deployments should be faster, easier to run, and teams should be deploying more. 
 - Faster Builds and feedback loop
 - More autonomy for teams
 - Faster feedback for everyone
