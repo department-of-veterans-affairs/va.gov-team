@@ -43,13 +43,13 @@ Every element that can have an action taken on it should accessible by just hitt
 #### 2) Navigate by headings should be properly nested and labeled well 
 
 Imagine you can't see the page and reading out headings was your only way to find the section you're looking for. Headings should be properly nested (no heading level is skipped) and labeled well enough to provide context when navigated outside the context of the page.
-- Open the rotor (VO+U) and arrow to the headings list
-- Navigate the page by headings (VO+command+H)
+- Open the rotor `VO + U` and arrow to the headings list
+- Navigate the page by headings `VO + Command + H`
 
 #### 3) Navigate by links
 
 Link labels out of context of the rest of the page should be descriptive enough to indicate the destination (no "click here"!).
-- Open the rotor (VO+U) and arrow to the links list. 
+- Open the rotor `VO + U` and arrow to the links list. 
 
 
 ### If applicable
@@ -62,11 +62,11 @@ Link labels out of context of the rest of the page should be descriptive enough 
 - After using any interactive element, make sure that pressing tab moves to an element that is immediately after where you left off or to an element that’s unsurprising
 
 #### 6) Make sure all elements that _look_ like form elements are coded as such
-- Use VO+U to open rotor and arrow to the form controls list – make sure all elements that look like form elements are on this list
+- Use `VO + U` to open the rotor and arrow to the form controls list – make sure all elements that look like form elements are on this list
 
 #### 7) Make sure all form elements can be interacted with
 - Tab through all form elements to make sure nothing gets skipped over
 - Use enter key to access a drop down or buttons
-- Use VO+spacebar to select checkboxes/radio buttons
+- Use `VO + Space` to select checkboxes/radio buttons
  
 
