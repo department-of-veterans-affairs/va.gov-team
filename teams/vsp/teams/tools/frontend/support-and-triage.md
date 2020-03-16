@@ -36,6 +36,8 @@ Ensure that no pull requests have been waiting on the @department-of-veterans-af
 
 ## Support requests
 
+Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
+
 - Create an issue describing the request in GitHub and link it to the Global Customer Support epic (ask Brandon if you need a link to this epic). 
 - Tag the issues with fe-tools, assign it to yourself, and prepend the title of the Ticket with *[Support] -*. 
 - Track any work done with comments. 
