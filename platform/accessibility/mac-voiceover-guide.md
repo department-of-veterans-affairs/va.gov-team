@@ -64,7 +64,7 @@ Link labels out of context of the rest of the page should be descriptive enough 
 #### 6) Make sure all elements that _look_ like form elements are coded as such
 - Use VO+U to open rotor and arrow to the form controls list – make sure all elements that look like form elements are on this list
 
-#### 6) Make sure all form elements can be interacted with
+#### 7) Make sure all form elements can be interacted with
 - Tab through all form elements to make sure nothing gets skipped over
 - Use enter key to access a drop down or buttons
 - Use VO+spacebar to select checkboxes/radio buttons
