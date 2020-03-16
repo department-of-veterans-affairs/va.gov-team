@@ -1,7 +1,8 @@
 # View Rated Disabilities research & design
 **VSA eBenefits Team | January 2020**
 
-`James Adams, UI/UX Designer`
+`James Adams, designer`
+`Aricka Lewis, researcher`
 
 ---
 
@@ -14,7 +15,9 @@
 ---
 
 ### Discovery
-TBA
+[eBenefits discovery session findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery/research-findings.md)
+
+[eBenefits discovery session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/discovery/interview-session-notes)
 
 ---
 
