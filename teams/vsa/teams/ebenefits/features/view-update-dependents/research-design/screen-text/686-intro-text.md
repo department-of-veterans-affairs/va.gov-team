@@ -1,5 +1,9 @@
 `Text WILL change to include research recommendations and content review/feedback`
 
+### Alert boxes
+
+Text for logged-in and logged out states will come from respective widgets.
+
 ### Add or remove dependents from your VA benefits
 
 Equal to VA Form 21-686c (Application Request To Add And/Or Remove Dependents) and/or
@@ -36,9 +40,9 @@ We process applications in the order we receive them. We may contact you if we h
 
 You’ll get a notice in the mail once we’ve processed your claim.
 
-Respondent burden: 30 minutes
-OMB approved #: 2900-0043
-Expiration date: 09/30/2021
+Respondent burden: 30 minutes  
+OMB approved #: 2900-0043  
+Expiration date: 09/30/2021  
 Privacy Act Statement
 
 #### Need help?
