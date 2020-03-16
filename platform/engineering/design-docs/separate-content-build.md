@@ -102,7 +102,6 @@ The output of both these builds will be deployed to separate buckets. The
 reverse proxies will route traffic intelligently to the appropriate bucket given
 the request.
 
-<!-- TODO: Insert "MFE - Proposed traffic flow to S3 buckets" diagram -->
 ![Proposed traffic flow to S3 buckets](images/proposed-traffic-flow-to-s3-buckets.png)
 
 **Important note:** JavaScript application landing pages will live in the CMS.
