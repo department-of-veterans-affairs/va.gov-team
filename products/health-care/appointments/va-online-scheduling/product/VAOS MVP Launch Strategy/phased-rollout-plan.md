@@ -48,7 +48,7 @@ The goal of this phase is to gather a statistically relevant usage sample to bot
   - [ ] Target sample of ~375 scheduling attempts reached
   - [ ] The tool is performing acceptably compared to legacy VAOS
     - [ ] Conversion rates (requested + direct-scheduled appointments / new appointment starts) are at least in-line with legacy tool (35%+)
-    - [ ] Flows have >=5% error rates (both in scheduling as well as cancelling)
+    - [ ] Flows have ≤ 5% error rates (both in scheduling as well as cancelling)
     - [ ] No major issues reported by Call Center / IRIS & other feedback mechanisms (e.g., 'feedback' feature on VA.gov)
   - [ ] No major issues reported by Sentry or Grafana for both vets-api and vets-website
   - [ ] Error reports debugged & resolved; any Sentry errors triaged and resolved
@@ -95,7 +95,7 @@ If conversion performance is significantly lower than existing tool's, delay adv
 - Request added tracking or add feedback question that would allow us to capture veterans' contact information for follow-up
 - Identify the flows that are causing issues and work to design through them
 
-### Problem: Tool error rates high (>5% total error rate for any given component or service)
+### Problem: Tool error rates high (≤5% total error rate for any given component or service)
 Depending on severity of the problem, either delay advancement or scale back veteran participation until issues resolved.
 - Work through logged metrics to triage & solve the problem
 - Delay advancement to next phase until error metrics resolved
