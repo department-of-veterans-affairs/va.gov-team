@@ -42,7 +42,7 @@ The goal of this stage is to ensure the tool is holistically ready for productio
 ## Phase 1: Initial Public Rollout [Week 1] <------- *WE ARE HERE*
 The goal of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface edge-case bugs, service issues, etc. before a broader roll-out
 - Targeting 375 appointment attempts (~5% of legacy tool volume)/weekly to get statistically valid data set for comparison
-- ~5% of logged-in users on VA.gov automatically opted in (but have pathway for returning to legacy experience) *[need to discuss with Lauren]*
+- ~5% of logged-in users on VA.gov automatically opted in (but have pathway for returning to legacy experience)
 
 ### Measurement of Success for Go / No Go decision for continuing to Phase 2:
   - [ ] Target sample of ~375 scheduling attempts reached
