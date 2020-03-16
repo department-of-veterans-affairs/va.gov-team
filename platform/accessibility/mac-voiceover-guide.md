@@ -13,7 +13,7 @@ Also helpful:
 
 Function | Keyboard command 
 --- | --- 
-turn on Voice Over | command+F5 
+turn on Voice Over | Command + F5 
 move around the elements on the page | **VO** + arrows 
 open VoiceOver rotor | VO + U (escape to close) 
 open commands menu (to find other shortcut commands) | **VO** + H + H 
