@@ -1,9 +1,9 @@
-//DRAFT WIP
+## // DRAFT WIP //
 
-// Overview
+## Overview
 The documentation is to provide definition and clarity as to how we are tracking analytics for the new VA Online Scheduling tool (VAOS-R). Use this document as a guide when looking into the analytics and performance of the VAOS tool on VA.gov. 
 
-// Events Tracking
+## Events Tracking
 - 'schedule appointment' button clicked on homepage
   - `vaos-schedule-appointment-button-clicked`
 - 'New Appointment' on confirmation page
@@ -42,7 +42,7 @@ The documentation is to provide definition and clarity as to how we are tracking
   - As additional data, capture confirmed vs pending & whether VA or CC
     - `{ appointmentType: ‘pending’, facilityType: ‘va’}`
  
- // Events Tracking Errors
+## Events Tracking Errors
 - Failure - Exceeded outstanding requests limit
   - Errored - Exceeded outstanding requests limit
 - Failure - Doesn't meet requests past visits requirement
