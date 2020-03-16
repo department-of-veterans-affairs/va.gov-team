@@ -9,7 +9,7 @@ Screen reader testing is an intensive, manual process. It involves subjective ju
 For users working on an Apple laptop or desktop, Safari and VoiceOver included in MacOS. You do not need to download any software to get started.
 
 * Read the  [A11y Project's quick tip on keyboard navigation in MacOS](https://a11yproject.com/posts/macos-browser-keyboard-navigation/)
-* Read the [VSP guide to using VoiceOver and Safari on MacOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
+* Read the [VSP guide to using VoiceOver and Safari on MacOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
 
 ## Windows 10 - NVDA and Firefox
 
