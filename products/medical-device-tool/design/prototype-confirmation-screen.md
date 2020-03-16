@@ -10,9 +10,6 @@ The confirmation screen follows the submission of every form to both inform the 
 The initial focus point should be at the top of the page "Skip to content" link (normal, no dynamic focus management).
 Once "Skip to content" is selected, the focus should be on h1: Order hearing aid batteries and accessories
 
-### Feedback 
-During an accessibility check-in, we were asked if we are going to be providing print styles for this screen. There is a separate initiative to incorporate print styles across VA.gov forms. 
-
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
