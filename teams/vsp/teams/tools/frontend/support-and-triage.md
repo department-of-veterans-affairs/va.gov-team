@@ -16,7 +16,7 @@ The rotation schedule can be found [here](https://dsva.pagerduty.com/schedules#P
 
 During the sprint, you should monitor the following Slack groups for issues:
 * #vfs-platform-support (individual requests)
-* #vfs-frontend (github reviews)
+* #vfs-frontend (individual requests)
 * #vfs-sentry-alerts
 * #oncall (general oncall issues and problems)
 
