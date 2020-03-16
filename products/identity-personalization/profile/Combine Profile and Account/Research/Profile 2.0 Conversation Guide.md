@@ -2,7 +2,7 @@
 
 ## Intro
 
-Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the new profile on the VA website.
+Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website.
 
 Before we start, a few things I want to mention:
 
@@ -14,7 +14,7 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
 ## Warm-up Questions
 
