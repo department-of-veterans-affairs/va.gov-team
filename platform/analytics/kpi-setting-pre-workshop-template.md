@@ -15,7 +15,7 @@ _For example, Health Care Application (10-10EZ), Disablitiy Compensation Applica
 
 - [Fill out here]
 
-### High Level Objectives
+### Objectives (& OKRs)
 _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
