@@ -20,9 +20,9 @@ During the sprint, you should monitor the following Slack groups for issues:
 * #vfs-sentry-alerts
 * #oncall (general oncall issues and problems)
 
-- **For small issues in the platform**: fix it yourself
-- **For longer platform related solutions**: if the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Brandon Rapp, Rian Fowler) to determine if we need to delegate or defer the work
-- **For tasks in applications owned by another team**: create a ticket and delegate it to someone on that team- preferably an engineering lead or a product manager.
+- **For small issues in the platform**: Fix it yourself
+- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Brandon Rapp, Rian Fowler) to determine if we need to delegate or defer the work
+- **For tasks in applications owned by another team**: Create a ticket and delegate it to someone on that team- preferably an engineering lead or a product manager
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
 
