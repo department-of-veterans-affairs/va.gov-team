@@ -137,6 +137,8 @@ Screen reader testing is mostly a manual process. Consider spot testing with at 
 
 #### Test Pairings:
 
+- [MacOS VoiceOver Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
+- [Cross-Platform Screen Reader Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md)
 - [Test using JAWS + IE11 on Win7/10](https://webaim.org/articles/jaws/)
 - [Test using NVDA + Firefox on Win7/10 - VIDEO](https://www.youtube.com/watch?v=Vx1vSd5uYS8)
 - [Test using VoiceOver + Safari on OSX](https://webaim.org/articles/voiceover/)
