@@ -41,8 +41,6 @@ Content feedback and guidance happens during the following Collaboration Cycle c
 
 - **Staging:** We’ll provide content feedback on your completed product on staging it’s launched. During this stage we’ll do a full E2E content review and a final proofread to ensure content recommendations we provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
-### Other content help
-
 
 ### <a id="resourcesandguides"></a> Resources and guides
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo.
