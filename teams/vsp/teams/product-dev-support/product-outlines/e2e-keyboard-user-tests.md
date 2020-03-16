@@ -66,4 +66,5 @@ We're going to build helpers to assist VFS teams with building their own keyboar
    
 ## Screenshots
 
+![Keyboard end-to-end test results](https://user-images.githubusercontent.com/934879/76780283-a9d7a180-67a4-11ea-8bf4-1b994db2715c.jpg)
 
