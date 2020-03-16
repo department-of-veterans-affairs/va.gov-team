@@ -5,65 +5,69 @@
 
 ---
 
-**Platform: is monitoring and alerting configured and working as expected?**
+### Platform: is monitoring and alerting configured and working as expected?
 
-**Decision**: `yes/no - any notes`
-
-- 
-
-**Joanne: is the Product Health Tool updated to track this product data and working as expected?**
-
-
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
 
 - 
 
-**Samara: are you ready to monitor analytics data for trends and problems?**
+### Joanne: is the Product Health Tool updated to track this product data and working as expected?
 
 
-**Decision**: `yes/no - any notes`
-
-- 
-
-
-**Lihan: are you ready to monitor performance data for latency, errors, etc?**
-
-
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
 
 - 
 
-**Lihan: are you confident we can handle the traffic?**
+### Samara: are you ready to monitor analytics data for trends and problems?
 
 
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
 
-- 
-
-**Samara: is the release plan complete and ready to execute against?**
+- Analytics are set up, but I am not sure where to view them. Have reached out to Jon and I'm waiting to hear back.
 
 
-**Decision**: `yes/no - any notes`
-
-- 
-
-**Samara: did you see KPI metrics populating from UAT?**
+### Lihan: are you ready to monitor performance data for latency, errors, etc?
 
 
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
 
 - 
 
-**Brad/Erik/Lihan: are there any Sev1 bugs or accessibility issues outstanding?**
+### Lihan: are you confident we can handle the traffic?
 
 
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
 
 - 
 
-**Chante: is call center ready to handle potential calls that may come in about preview.va.gov?**
+### Samara: is the release plan complete and ready to execute against?
 
 
-**Decision**: `yes/no - any notes`
+**OK to proceed?**: `yes/no - any notes`
+
+- 
+
+### Samara: did you see KPI metrics populating from UAT?
+
+
+**OK to proceed?**: N/A
+
+- Per our [approved release plan](), we did not do UAT. For launch, we will be launching this feature behind a feature flag and then confirming everything works ourselves. Only when we're sure everything is working as expected will we lift hte flag and release the feature to 25% of users. 
+
+### Brad/Erik/Lihan: are there any Sev1 bugs or accessibility issues outstanding?
+
+
+**OK to proceed?**: `yes/no - any notes`
+
+- 
+
+### Chante: is call center ready to handle potential calls that may come in about preview.va.gov?
+
+
+**OK to proceed?**: `yes/no - any notes`
+
+- 
+
+### Other concerns/discussion
 
 - 
