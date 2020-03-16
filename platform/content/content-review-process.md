@@ -1,5 +1,9 @@
 
-# Working with Platform Content Editor - Rules of Engagement (ROE)
+# Please note, this document is out of date. Please see the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md) about how to collaborate with the VSP content team. 
+
+---------
+
+## Working with Platform Content Editor - Rules of Engagement (ROE)
 This document will help all teams working on VA.gov understand when you should engage Platform  Content resources for review and support.
 
 
