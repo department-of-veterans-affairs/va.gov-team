@@ -10,4 +10,4 @@ Accessibility Beyond Compliance (ABC)
 ## Screen Reader References
 
 * [NVDA Commands, from Deque](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts#nvda-nvda_shortcut_keys)
-* [Mac VoiceOver Guide, in VSP Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
+* [Mac VoiceOver Guide, in VSP Accessibility Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
