@@ -8,9 +8,6 @@ Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/s
 ### Description 
 This is the _Veteran's personal details_ screen meant to validate the veteran's identity. The initial focus point should be on the H1: _Order hearing aid batteries and accessories_
 
-### Feedback 
-TBD
-
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
