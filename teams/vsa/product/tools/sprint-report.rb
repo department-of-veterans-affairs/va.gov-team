@@ -35,7 +35,7 @@ gh_json = JSON.parse(gh_response.body)
 file.puts "<table>"
 
 gh_json.each do |issue|
-	zh_api_key="73a3339821ee529afe6b4e9861eaff0c899847951f2fd5a53ba6c0fd985fb96b5cbc3c227449a403"
+	zh_api_key=<see Mickin for this>
 	zh_uri = URI.parse("https://api.zenhub.com/p1/repositories/133843125/issues/#{issue["number"]}")
 
 	zh_request = Net::HTTP::Get.new(zh_uri)
