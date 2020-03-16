@@ -1,137 +1,549 @@
-# Veteran-facing Services Platform (VSP)
-The `va.gov-team` repository is used for documentation created and used by the teams that build and use the VSP. The information in this repo is relevant to teams building Veteran-facing services, teams running the platform itself, DSVA (Digital Service at VA), DEPO (Digital Experience Product Office) team members, and VA stakeholders.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+    <link
+      href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
 
-This repo is open and viewable by the public.
-
-### What is the VSP?
-The Veteran-facing Services Platform (VSP) is the common infrastructure, technical and non-technical components, and processes that support static and interactive content consumed by Veterans via VA.gov. Major pieces of the VSP include a set of APIs that manage communication between a Veteran user and internal VA resources, an identity and authentication system, a design system based on the U.S. Web Design System, reusable frontend components, a Drupal-based content management system, and an extensive set of documentation and guides.
-
-## Get in touch
-
-To request support from the VSP team, drop us a line in Slack at [`#vfs-platform-support`](https://dsva.slack.com/messages/CBU0KDSB1).
-
-
-<!--
- TODO: update org chart
- * [Org chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
- -->
-
-## Production emergencies
-
-Is something broken?
-
-* Tell [#oncall](https://dsva.slack.com/messages/C30LCU8S3).
-* [Who's OnCall? (PagerDuty schedules)](https://dsva.pagerduty.com/schedules)
-* [See OnCall documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) (internal)
-* [Breakers dashboard (Grafana)](http://grafana.vetsgov-internal/dashboard/db/breakers?orgId=1)
-* [Submit a non-critical issue to be triaged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
-
-## Products
-
-### Burials and Memorials
-
-* [**Burials and Memorials**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials)
-* [VA Form 21P-530: Application for Burial Benefits
-]()
-* [Pre-Needs Burial](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need)
-* [Time of Need Burials]()
-
-### Careers and Employment
-
-* [**Careers and Employment**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers)
-* [Vocational Rehab & Employment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab)
-
-### Disability
-
-* [**Disability**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability)
-* [VA Form 21-686c: Declaration of Status of Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)
-* [VA Form 21-526: Application for Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
-
-### Education
-
-* [**Education**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers)
-* [Colmery Act Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/opt-out)
-* [Education Benefits Forms](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application)
-    * [VA Form 22-1990: Application for VA Education Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990)
-    * [VA Form 22-1995: Request for Change of Program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1995)
-    * [VA Form 22-0994: Application for VETTEC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/vettec-0994)
-* [GI Bill Comparison Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool)
-* [GI Bill Feedback Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-feedback-tool)
-* [Post-9/11 GI Bill Enrollment Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits)
-* [VA Form 21-674: Request for Approval of School Attendance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-attendance)
-
-### Health Care
-
-* [**Health Care**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care)
-* [VA Form 10-10EZ: Application for Health Care Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
-* [Appointment Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments)
-* [Blue Button](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/medical-records)
-* [Mental Health services (Executive Order 13822)]()
-* [Prescription Refills](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
-* [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging)
-
-### Life Insurance
-
-* [**Life Insurance**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/life-insurance)
-
-### Pension
-
-* [**Pension**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension)
-* [Pension 527EZ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension/application)
-
-### Records
-
-* [**Records**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records)
-* [DD214](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/dd214)
-* [Discharge Update](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
-* [Veteran ID Card Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
-* [Veteran ID Card v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
-* [Veteran Verification Badge]()
-
-### Not tied to a specific hub
-
-* [Appeals Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
-* [Claims Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
-* [Decision Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews)
-* [Facilities Locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
-* [Feedback Form]()
-* [Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-representative)
-* [Search.gov Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search)
-* [SiP Prefill](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/global-form-features)
-
-## Technical resources
-
-* [Banners](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)
-* Content Management System (CMS)
-    * [`va.gov-cms` repo](https://github.com/department-of-veterans-affairs/va.gov-cms/)
-    * [Overview docs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/cms/)
-* [Design System](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-system)
-* [Document Uploads](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/document-uploads/README.md)
-* [Downtime Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/downtime-notifications/README.md)
-* [EVSS Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/evss-integration)
-* [Feature Flags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md)
-* [Infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure)
-* [Review Instance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
-* [SEO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
-* [vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api)
-* [Yeoman application generator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/yeoman-application-generator.md)
-
-### Identity
-
-* [**Identity**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)
-* [Customer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/customer)
-* [Identity Unifier](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/identity-unifier)
-* [Login](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
-* [Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0) 
-
-## Other resources
-
-Relevant resources for VA.gov that live outside this GitHub repo.
-
-* [Design pattern and system documentation](https://design.va.gov/)
-* [Front-end development documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started)
-* [VA API documentation](https://developer.va.gov/)
-* [VA Digital Service Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/)
-* [USDS Playbook](https://playbook.cio.gov/)
-* [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
-* [`va.gov-team-sensitive`](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/), for non-public documentation
+  <body>
+    <header class="h-32 px-16 pt-8 bg-blue-900 text-white">
+      <div class="border-b pb-3">
+        <span class="text-4xl">VA</span>
+        <span class="border-l pl-2 text-3xl">
+          Documentation
+        </span>
+      </div>
+    </header>
+    <main>
+      <section>
+        <div class="bg-gray-200 px-40 py-16">
+          <h1 class="text-4xl font-bold">
+            A knowledge hub for those building on VA.gov.
+          </h1>
+          <div class="pt-4">
+            You have to make almighty descions when you're the creator. Fluff
+            that up. A tree cannot be straight if it has a crooked trunk.
+          </div>
+          <div class="pt-12">
+            <button
+              class="bg-blue-700 text-white rounded-sm px-4 py-2"
+              type="button"
+            >
+              Get Started
+            </button>
+          </div>
+        </div>
+        <div class="bg-blue-300 px-40 py-4">
+          <span class="font-bold text-xl">
+            This is a beta site.
+          </span>
+          We are always looking to make improvements.
+          <span class="font-bold">
+            Send us your feedback.
+          </span>
+        </div>
+      </section>
+      <section class="px-40 pt-16">
+        <h2 class="font-bold text-3xl">Practice area quick links</h2>
+        <div class="grid grid-cols-3 gap-4 pt-10">
+          <div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/README.md"
+                class="font-bold text-2xl"
+                >Engineering</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure"
+                class="text-blue-800"
+                >Infrastructure</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md"
+                class="text-blue-800"
+                >Platform code review guidelines</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api"
+                class="text-blue-800"
+                >Vets API</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs"
+                class="text-blue-800"
+                >Design doc template</a
+              >
+            </div>
+          </div>
+          <div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md"
+                class="font-bold text-2xl"
+                >Quality Assurance</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md"
+                class="text-blue-800"
+                >QA Artifact List</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/philosophy/README.md"
+                class="text-blue-800"
+                >VSP QA Philosophy</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail"
+                class="text-blue-800"
+                >Using Testrail</a
+              >
+            </div>
+            <div><a href="#" class="text-blue-800">Testing</a></div>
+          </div>
+          <div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research"
+                class="font-bold text-2xl"
+                >Research</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/README.md"
+                class="text-blue-800"
+                >Discovery Sprints</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md"
+                class="text-blue-800"
+                >Archive of research projects</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md"
+                class="text-blue-800"
+                >Observer guidelines</a
+              >
+            </div>
+            <div><a href="#" class="text-blue-800">Research templates</a></div>
+          </div>
+          <div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design"
+                class="font-bold text-2xl"
+                >Design</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/README.md"
+                class="text-blue-800"
+                >Design System</a
+              >
+            </div>
+            <div>
+              <a href="#" class="text-blue-800"
+                >Working with the design system</a
+              >
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Designing for VA.gov</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800"
+                >Research guidelines and processes</a
+              >
+            </div>
+          </div>
+          <div class="team">
+            <div><a href="#" class="font-bold text-2xl">Content & IA</a></div>
+            <div>
+              <a
+                href="https://design.va.gov/content-style-guide/"
+                class="text-blue-800"
+                >VA.gov content style guide</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md"
+                class="text-blue-800"
+                >Content and plain language best practices</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://design.va.gov/patterns/messaging-dictionary"
+                class="text-blue-800"
+                >Error message dictionary</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf"
+                class="text-blue-800"
+                >User starting points and calls to action</a
+              >
+            </div>
+          </div>
+          <div class="team">
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility"
+                class="font-bold text-2xl"
+                >Accessibility</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md"
+                class="text-blue-800"
+                >Accessibility best practices</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md"
+                class="text-blue-800"
+                >508 checklist</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md"
+                class="text-blue-800"
+                >Accessibility dev review step-by-step</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/disability-considerations.md"
+                class="text-blue-800"
+                >Disability considerations</a
+              >
+            </div>
+          </div>
+          <div class="team">
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics"
+                class="font-bold text-2xl"
+                >Analytics and Insights</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/analytics-communication-guide.md"
+                class="text-blue-800"
+                >Working with VSP Analytics and Insights</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-request-review.md"
+                class="text-blue-800"
+                >Request analytics review</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md"
+                class="text-blue-800"
+                >Google Analytics tagging process</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-protocol.md"
+                class="text-blue-800"
+                >KPI setting protocol</a
+              >
+            </div>
+          </div>
+          <div class="team">
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management"
+                class="font-bold text-2xl"
+                >Product Management</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md"
+                class="text-blue-800"
+                >Product development checklist</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md"
+                class="text-blue-800"
+                >Product outline template</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md"
+                class="text-blue-800"
+                >Release plan template</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf"
+                class="text-blue-800"
+                >VSP collaboration cycle</a
+              >
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="px-40 pt-16">
+        <h2 class="font-bold text-3xl">Products</h2>
+        <div class="grid grid-cols-3 gap-4 pt-10">
+          <div class="product">
+            <div class="font-bold text-2xl">
+              Benefits Applications and Tools
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Benefit letters</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Burials and memorials</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Claim and appeal status</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Decision reviews</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Disability and DIC</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800"
+                >Education, training and career</a
+              >
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Health care</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Housing assistance</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Life insurance</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Medical Device Tool</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Pensions</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">VA payment history</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Veteran ID cards</a>
+            </div>
+            <div>
+              <a href="#" class="text-blue-800">Veteran military records</a>
+            </div>
+          </div>
+          <div class="product">
+            <div class="font-bold text-2xl">
+              User Identity and Personalization
+            </div>
+            <div class="text-blue-800">
+              Account and profile
+            </div>
+            <div class="text-blue-800">
+              Change address
+            </div>
+            <div class="text-blue-800">
+              Dashboard
+            </div>
+            <div class="text-blue-800">
+              Direct Deposit
+            </div>
+            <div class="text-blue-800">
+              Login and authentication
+            </div>
+            <div class="text-blue-800">
+              User notifications
+            </div>
+            <div class="font-bold text-2xl">
+              VA Content and Features
+            </div>
+            <div class="text-blue-800">
+              Media Library
+            </div>
+            <div class="text-blue-800">
+              Office and administration sites
+            </div>
+            <div class="font-bold text-2xl">
+              Facilities
+            </div>
+            <div class="text-blue-800">
+              Facility Locator
+            </div>
+            <div class="text-blue-800">
+              Medical facility sites
+            </div>
+          </div>
+          <div class="product">
+            <div class="font-bold text-2xl">
+              Global Site Elements
+            </div>
+            <div class="text-blue-800">
+              Banners
+            </div>
+            <div class="text-blue-800">
+              Contact us
+            </div>
+            <div class="text-blue-800">
+              Crisis line
+            </div>
+            <div class="text-blue-800">
+              Global form features
+            </div>
+            <div class="text-blue-800">
+              Home page
+            </div>
+            <div class="text-blue-800">
+              Menus and navigation
+            </div>
+            <div class="text-blue-800">
+              Search
+            </div>
+            <div class="font-bold text-2xl">
+              Core Content
+            </div>
+            <div class="text-blue-800">
+              Audience hubs
+            </div>
+            <div class="text-blue-800">
+              Benefit hubs
+            </div>
+            <div class="text-blue-800">
+              Spanish translations
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="px-40 pt-16 pb-32">
+        <h2 class="font-bold text-4xl pt-16">Getting Started</h2>
+        <div class="grid grid-cols-2 gap-4 pt-12">
+          <div class="bg-gray-400 p-6">
+            <p class="font-bold text-xl">Systems and Tools</p>
+            <p class="pt-2">
+              Get access to and learn how to use the systems and tools we use to
+              get work fone on VA.gov.
+            </p>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Getting access to tools (GitHub, Slack, SOCKS, and more)</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >List of VA.gov repos</a
+              >
+            </div>
+          </div>
+          <div class="bg-gray-400 p-6">
+            <p class="font-bold text-xl pt-2">History of VA.gov</p>
+            <p>
+              Learn about our clients and the history of our product.
+            </p>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >History of the product</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline">Client perspective</a>
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline">In the news</a>
+            </div>
+          </div>
+          <div class="bg-gray-400 p-6">
+            <p class="font-bold text-xl">References</p>
+            <p class="pt-2">
+              Reference materials related to VA.gov to help guide your work.
+            </p>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Platform principles</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Digital modernization</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >United States Web Design System (USWDS)</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Web brand consolidation</a
+              >
+            </div>
+          </div>
+          <div class="bg-gray-400 p-6">
+            <p class="font-bold text-xl">Policies and guidelines</p>
+            <p class="pt-2">
+              Learn about our guiding principles and how we work together
+            </p>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Communication guidelines</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline">Code of conduct</a>
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >VA.gov team repo guidelines</a
+              >
+            </div>
+            <div class="pt-4">
+              <a href="#" class="text-blue-800 underline"
+                >Sensitive documentation guidance</a
+              >
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
