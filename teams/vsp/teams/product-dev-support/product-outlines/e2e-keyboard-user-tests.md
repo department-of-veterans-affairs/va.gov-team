@@ -2,12 +2,14 @@
 
 #### Communications
 - Team Name: Product Support
-- GitHub Label: product
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- GitHub Label: product support
+- Slack channel: #vsp-product-support but as support questions in #vfs-platform-support
+- Product POCs: Andrea Hewitt
 
 #### Team Members
+- Trevor Pierce
+- Dan Shank
+- Andrea Hewitt
 
 ---
 
