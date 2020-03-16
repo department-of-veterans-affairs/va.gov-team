@@ -72,7 +72,7 @@ Please list the people who will be serving in each role.
 ## Resources	
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/conversation-guide.md)	
 - [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1582917972915/2b5515a1af8c264004147d139990c29ca4ac090c)
-- Topline Summnary
-- Synthesis
-- Read-Out/Results	
-- Mural PDF
+- [Topline Summnary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/topline-summary.md)
+- [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
+- [Read-Out/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/Facility-Locator-Search-Research-Readout.pdf)	
+- [Mural PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/fl-search-usability-mural.pdf)
