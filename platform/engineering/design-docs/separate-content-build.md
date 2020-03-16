@@ -68,7 +68,7 @@ for more details.
 
 #### Pain points
 - Engineers developing applications need CMS content to build their applications
-  - When their applications has nothing to with the CMS
+  - When their applications have nothing to with the CMS
   - It's a confusing requirement to new engineers
   - It requires either SOCKS proxy access or the `npm run fetch-drupal-cache`
     command, which isn't obvious
