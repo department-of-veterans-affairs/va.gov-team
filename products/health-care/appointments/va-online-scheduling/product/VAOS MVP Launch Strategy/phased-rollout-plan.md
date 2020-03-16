@@ -53,14 +53,14 @@ The goal of this phase is to gather a statistically relevant usage sample to bot
   - [ ] No major issues reported by Sentry or Grafana for both vets-api and vets-website
   - [ ] Error reports debugged & resolved; any Sentry errors triaged and resolved
   
- ## Phase 2: Rollout ramp-up [Weeks 2 - 3]
+ ## Phase 2: Rollout ramp-up [Week 2]
 The goal of this phase is to repeat the results from Phase 1 with an ever-increasing audience. Opt-in percentages should be turned up once or twice weekly, preceded by miniature go/no-go meetings to assess performance for the period along the lines of the framework outlined in Phase 1.
 
 ### Measurement of Success Go / No Go decision for continuing to Phase 3:
    - [ ] All perforamnce criteria in Phase 1 met
    - [ ] At least 90% of logged-in veterans automatically opted in
 
-## Phase 3: Silent Launch, Full VA.gov Availability [Week 4]
+## Phase 3: Silent Launch, Full VA.gov Availability [Week 3]
 The goal of this phase is to fully launch the tool on VA.gov while paving the way for sunsetting legacy VAOS
 - VAOS auto-opt-in infrastructure removed; users directed to new VAOS as the default experience
 - Links from VA.gov and other unauthenticated pages (e.g., VA Mobile App Store) replaced with links to the new tool & corresponding content is updated
@@ -71,7 +71,7 @@ The goal of this phase is to fully launch the tool on VA.gov while paving the wa
   - [ ] The tool continues to perform acceptably compared to legacy VAOS as described in Phase 1
   - [ ] At least 8,000 scheduling attempts have been made
 
-## Phase 4: Marketed Launch of VAOS-R & Sunset Legacy VAOS [Week 5+]
+## Phase 4: Marketed Launch of VAOS-R & Sunset Legacy VAOS [Week 4+]
 The goal of this phase is to complete the scheduling transition from legacy VAOS to VA.gov and let the veteran community know about the new tool
 - Comms sent to VSOs, partner organizations, veterans, and any other interested parties
   - Waiting on external comms/marketing till this phase allows us to - 1. gradually ramp up volume to the tool and 2. incorporate  good feedback we've gotten into the actual comms
