@@ -6,7 +6,7 @@ All staging reviews will test the [happy path](https://en.wikipedia.org/wiki/Hap
 ## Before You Request a Review
 Staging accessibility reviews will be turned around in two days, provided the following items are done ahead of time:
 
-* 1-2 sprints before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon
+* 2-4 weeks before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon
 * [Provide test user credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md#accessibility-test-credentials-template)
 * Conduct low-level accessibility tests ahead of the staging review:
   * [Run axe checks using the Chrome or Firefox browser plugin(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation)
@@ -43,9 +43,11 @@ Accessibility specialist(s) will run through the the following automated and man
   * NVDA on Windows 7/10 using Firefox
   * VoiceOver on MacOS
 
+## Review New Interfaces and Patterns
+* Validate code early and often to help identify issues. This includes running axe checks and HTML validations, as well as basic keyboard and screen reader tests.
+* Request spot checks as needed before your staging review. Spot checks are meant to be collaborative sessions where interfaces or code can be discussed, reviewed, and tested. Spot checks can be a Slack conversation or informal video call.
+
 ## Issue Gathering and Triage
-* Validate code early and often to help identify issues sooner than later
-* Request a spot check 1-2 sprints before your anticipated staging review
 * Issues will be collected as issues in a new ZenHub epic. The accessibility specialist will assign this epic to the person who requested the staging review.
 * Issues will be triaged according to their severity. Some issues will be launch blockers. Others can be fixed post-launch. Teams should review the [accessibility defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md) if they have questions about issue severity or impact.
 * Accessibility specialists will work with stakeholders as issues are ready to be re-tested. When an issue has been resolved, the specialist or project manager should close it with a brief comment like _"Issue has been tested, and success criteria met. Moving to close."_
