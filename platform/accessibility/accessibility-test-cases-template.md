@@ -174,6 +174,7 @@ All pages and user flows (forms, data entry, navigation, user interface) must be
 All [happy path user flows or pages](https://en.wikipedia.org/wiki/Happy_path) should be passed through with **VoiceOver for MacOS** or **NVDA (open-source) for Windows**. This is meant to be a quick pass to catch difficult or incomplete user interactions.
 
 * [VSP MacOS VoiceOver Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
+* [VSP Cross-Platform Screen Reader Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md)
 * [WebAIM: Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
 * [NVDA Download](https://www.nvaccess.org/download/)
 * [NVDA Focus Plugin - recommended](https://addons.nvda-project.org/addons/focusHighlight.en.html)
