@@ -21,10 +21,10 @@
 | Veteran marriage | https://xd.adobe.com/view/a0834c4a-7109-4eff-6a61-43c2bd5cbcd6-d6b2/ | Get label text from mock |
 | Add child | https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/ | Add'l Info text in comment pane; get label text from mock |
 | Add student (21-674) | https://xd.adobe.com/view/bccb4115-4715-4c19-74fc-71759fd7042d-cafa/ | --- |
-| Remove stepchild | https://xd.adobe.com/view/f683f361-0a0d-4b7e-796e-49d0a8265195-80b2/ | --- |
-| Dependent's death | https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/ | --- |
-| Report divorce, Child marriage & Student left school | https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/ | --- |
-| Review & Confimation | https://xd.adobe.com/view/19a215a6-89a6-4786-6917-5c3ec6784e8f-6f93/ | --- |
+| Remove stepchild | https://xd.adobe.com/view/f683f361-0a0d-4b7e-796e-49d0a8265195-80b2/ | Get label text from mock |
+| Dependent's death | https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/ | Get label text from mock |
+| Report divorce, Child marriage & Student left school | https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/ | Get label text from mock |
+| Review & Confimation | https://xd.adobe.com/view/19a215a6-89a6-4786-6917-5c3ec6784e8f-6f93/ | [Github]() |
 
 ---
 
