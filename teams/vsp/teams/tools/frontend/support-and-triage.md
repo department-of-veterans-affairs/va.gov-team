@@ -6,7 +6,7 @@ Supporting VSA teams is requires a cohesive and well coordinated experience. The
 
 ## Rotation 
 
-The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, ~9am - 5pm Eastern). During that time, the responsibilities listed below are that developer's primary responsibility. 
+The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, around 9am - 5pm Eastern but persons residing on the west coast may start as late as noon). During that time, the responsibilities listed below are that developer's primary responsibility. 
 
 The rotation schedule can be found [here](https://dsva.pagerduty.com/schedules#PIDMJAN).
 
