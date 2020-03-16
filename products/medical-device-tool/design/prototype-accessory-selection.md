@@ -19,10 +19,6 @@ The initial focus point for each screen: <br>
 **Default page - 'no' selected:** The radio button _No, I don't need to order hearing aid accessories._<br>
 **Default page - 'yes' selected:** The radio button _Yes, I need to order hearing aid accessories._<br>
 
-## Feedback
-**Internal slack thread 03/03/2020**<br>
-There was a discussion thread around the checkbox button styling. The design was originally using a plus icon to visually represent adding an item to the Veteran's order and a checkmark icon when the item was added to the order. However, this pattern posed accessibility concerns surrounding how a screenreader would read out that content. The design was updated to show checkboxes that toggle instead of iconography. 
-
 ## Content 
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team.<br>
 <br>
@@ -99,9 +95,6 @@ Relevant links:<br>
 ## Description
 This use case covers if a veteran does not have any accessories that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible accessory layouts. Even though none of the hearing aid accessories are eligible for resupply, it's important to display the items in case either a veteran is expecting to be able to order one or they don't see an expected accessory. Initial focus point should be on h1: Order hearing aid batteries and accessories <br>
 The initial focus point for this screen: H1 - _Order hearing aid batteries and accessories_
-
-## Feedback
-TBD
 
 ## Content 
  ```
