@@ -1,3 +1,5 @@
+#Download file to your local
+#Run `ruby sprint-report.rb`
 require 'net/http'
 require 'uri'
 require 'JSON'
