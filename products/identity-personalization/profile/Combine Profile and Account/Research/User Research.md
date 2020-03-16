@@ -54,6 +54,7 @@ We will work with Perigean to reach our goal of observing 5-6 participants.
 Criteria for recruiting:
 
 - 8 sessions scheduled
+- At least 3 people with connected accounts
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
