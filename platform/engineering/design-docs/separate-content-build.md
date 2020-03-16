@@ -1,7 +1,7 @@
 # Separate Content Build
 
 **Author(s):** Christopher Valarida  
-**Last Updated:** March 12 2020  
+**Last Updated:** March 16 2020  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler  
 
@@ -117,6 +117,11 @@ make an application live for the first time. The process will be to manually:
 ## Specifics
 
 ### Detailed Design
+
+_Coming soon to a design doc near you!_
+
+<!--
+
 _Designs that are too detailed for the above High Level Design section belong
 here. Anything that will require a day or more of work to implement should be
 described here._
@@ -139,6 +144,10 @@ _Here's an easy rule of thumb for deciding what to write here: Think of anything
 that would be a pain to change if you were requested to do so in a code review.
 If you put that implementation detail in here, you'll be less likely to be asked
 to change it once you've written all the code._
+
+NOTE: Don't forget about broken link validation with regard to links to
+application assets. Specifically, how the application assets live in a
+different location than the HTML files.
 
 ### Code Location
 _The path of the source code in the repository._
@@ -224,8 +233,9 @@ _The table below should record the major changes to this document. You don't
 need to add an entry for typo fixes, other small changes or changes before
 finishing the initial draft._
 
+-->
+
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Mar ??, 2020 | Initial draft | Christopher Valarida
 
