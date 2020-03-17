@@ -24,7 +24,7 @@
 | Remove stepchild | https://xd.adobe.com/view/f683f361-0a0d-4b7e-796e-49d0a8265195-80b2/ | Get label text from mock |
 | Dependent's death | https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/ | Get label text from mock |
 | Report divorce, Child marriage & Student left school | https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/ | Get label text from mock |
-| Review & Confimation | https://xd.adobe.com/view/19a215a6-89a6-4786-6917-5c3ec6784e8f-6f93/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-confirm-text.md) |
+| Review & Confimation | https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/ | [Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/screen-text/686-confirm-text.md) |
 
 ---
 
