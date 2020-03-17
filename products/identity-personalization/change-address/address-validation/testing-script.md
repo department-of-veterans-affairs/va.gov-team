@@ -1,4 +1,11 @@
-# Address validation testing script
+# Address validation production testing 
+
+## Testing volunteers
+
+- Erik
+- Samara
+
+## Script
 
 1. Sign into VA.gov and go to https://www.va.gov/profile/
 1. Update your address using your real address (ie, just re-save the data that's already on file if you already have an address on file). The modal should close and the address should save after a few seconds.
