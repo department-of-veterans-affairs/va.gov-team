@@ -7,6 +7,16 @@
 1. Use brainstorming to examine possible risk mitigations
 1. Use brainstorming to examine possible challenges to risk mitigations
 
+---
+
+| Table of Risks |             |             |                            |
+|----------------|-------------|-------------|----------------------------|
+|Reference       |Risk Rating  |Description  |Realized Risk Consequences  |
+|1               |             | Something happens to cause a delay in the project | The schedule is delayed by 5 business days |
+|2               |             | Something happens that prevents one or more of the acceptence criteria in a user story scheduled for this sprint to be unobtainable | CI/CD pipeline is broken for entire platform |
+
+---
+
 
 | Matrix |                   |             |              |              |            |             |
 |--------|-------------------|-------------|--------------|--------------|------------|-------------|
@@ -19,12 +29,6 @@
 |        | (5) Severe        |             |              |              |            |             |
 
 ---
-
-| Table of Risks |             |             |                            |
-|----------------|-------------|-------------|----------------------------|
-|Reference       |Risk Rating  |Description  |Realized Risk Consequences  |
-|1               |             | Something happens to cause a delay in the project | The schedule is delayed by 5 business days |
-|2               |             | Something happens that prevents one or more of the acceptence criteria in a user story scheduled for this sprint to be unobtainable | CI/CD pipeline is broken for entire platform |
 
 | Risk Rating  | Description                                                                                                      |
 |--------------|------------------------------------------------------------------------------------------------------------------|
