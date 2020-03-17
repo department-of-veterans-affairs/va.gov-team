@@ -9,7 +9,7 @@ Last Updated February 26, 2020
      - Debt
      - DMC
 
-## POCs
+## Implementation Team (BAM2)
 |Name|Role|
 |----|----|
 |Matthew Self| DSVA Lead| 
@@ -19,8 +19,15 @@ Last Updated February 26, 2020
 |Mahariel Rosario | FE Engineer|
 |Riley Orr | Designer|
 |Becca Walsh | Designer|
+
+## Stakeholders/POCs (BAM2)
+|Name|Role|
+|----|----|
 |Melissa Rebstock | Veterans Experience Office (VEO) Executive Partner|
 |Jason Hoge | Debt Mgmt Center (DMC) Contact|
+|Paul Kimball | Chief Enterprise and Systems Architect, DMC |
+|Mihn Bang | Technical POC, VBMS eFolder|
+|Thomas Corley | IT Project Manager|
 
 ---
 
