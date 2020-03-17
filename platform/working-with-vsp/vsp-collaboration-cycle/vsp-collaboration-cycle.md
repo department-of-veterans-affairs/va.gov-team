@@ -391,7 +391,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 - Schedule a full audit when your product is launched to production, or code is relatively stable. This audit should be scheduled as early as possible. 
 
 ## Collaboration format: asynchronous
-- Read the [accessibility post-launch audit processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) document
+- Review the [accessibility post-launch audit processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) document
 
 ### Request Process
 **VFS Product Manager** use `Full Accessibility & 508 Office Audit` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+product+support&template=full-accessibility-and-508-office-audit.md&title=Full+Accessibility+%26+508+Office+Audit+%5BFeature-Name%5D) to open a ticket)_
