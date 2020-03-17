@@ -25,4 +25,6 @@ The script assumes you have stored your key at `~/.ssh/vetsgov_id_rsa` - if you 
 
 The socks script will start the socks proxy, configure the proxy settings on your computer to use a `proxy.pac` file, and start a small webserver to serve that file up. The proxy.pac file will send only a few URLs to the proxy, sending everything else directly to the internet.
 
-You'll also need to configure your browser to use the system proxy if you use this script. Another option is to install a proxy switcher into your browser - [details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#chrome--firefox).
+Finally, you'll need to configure your browser to use the system proxy if you use this script.
+
+If you don't want to use the proxy.pac route, another option is to install a proxy switcher into your browser - [details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#chrome--firefox).
