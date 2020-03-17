@@ -190,15 +190,11 @@ too large, the mechanisms can be summarized here and individual tips can be
 moved to another document._
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential
-stumbling blocks for users or maintainers, and their implications and
-workarounds. Unless something is known to be tricky ahead of time, this section
-will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a
-simple place holder, since caveats will almost certainly appear down the road._
-
-_To be determined._
+- The content validation doesn't happen in the build job
+  - The application CI runs tests, but the content CI does not
+  - This is because it takes a long time and content editors are used to seeing
+    their changes in production quickly
+  - Validation instead happens in a separate job
 
 ### Security Concerns
 _This section should describe possible threats (denial of service, malicious
@@ -218,6 +214,7 @@ stored or logged? How long is it stored?_
 ### Open Questions and Risks
 - Can we run the build and deploy job for `vets-website` (application build) in
   CircleCI?
+- How often should we run content the separate content validation job?
 
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
