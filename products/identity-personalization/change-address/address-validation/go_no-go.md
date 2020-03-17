@@ -17,7 +17,7 @@
 
 **OK to proceed?**: `yes/no - any notes`
 
-- Analytics are set up, but I am not sure where to view them. Have reached out to Jon and I'm waiting to hear back.
+- Analytics are set up. We have link to the board (!!). Waiting to hear back if we can see total successes/failures from this board as well (we track that elsewhere, so this shouldn't be a blocker).
 
 
 ### Lihan: are you ready to monitor performance data for latency, errors, etc?
