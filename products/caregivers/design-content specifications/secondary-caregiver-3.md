@@ -19,6 +19,8 @@ Form 10-10CG
 
 {Text Input} Secondary caregiver’s alternate phone number
 
+{Text Input} Secondary caregiver’s email address 
+
 {Dropdown Input} What is the secondary caregiver's relationship with the Veteran? 
 {Dropdown options} Spouse; Father; Mother; Son; Daughter; Brother; Sister; Significant - Other; Relative - Other; Friend/Neighbor 
 
