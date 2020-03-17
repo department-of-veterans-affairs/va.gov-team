@@ -41,7 +41,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Authenticated Experience Address Validation](#authenticated-experience-address-validation)
     * [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
     * [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
-    * []()
+    * [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
     * [New Project Name](#new-project-name)
 
 ## Helpful links
