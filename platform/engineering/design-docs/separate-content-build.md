@@ -145,7 +145,14 @@ application assets. Specifically, how the application assets live in a
 different location than the HTML files.
 
 ### Code Location
-_The path of the source code in the repository._
+To start, the **content build** will live at
+`vets-website/src/stages/build-content/`. (This should be mostly just a rename
+of `build/` to `build-content/` for clarity.) Once the implementation is
+complete, this code will **move to a new repository.**
+
+The **application build** will consist of **webpack configuration files** found in
+the **root of the project.** If we need any script files to aid in the build
+process, they will be located in `vets-website/scripts/build/`.
 
 ### Testing Plan
 _How you will verify the behavior of your system. Once the system is written,
