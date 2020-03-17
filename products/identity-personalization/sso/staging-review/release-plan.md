@@ -24,7 +24,7 @@ _Is this something we can implement with SSO using sticky feature flagging?_
 
 ### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
 - Desired date range: 4/1/20 - 4/6/20
-- Desired number of unique users: XX% (20%?) of total logins per day (
+- Desired number of unique users: XX% (20%?) of total logins per day (~2.6M total and 2.2M unique over this time period)
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
