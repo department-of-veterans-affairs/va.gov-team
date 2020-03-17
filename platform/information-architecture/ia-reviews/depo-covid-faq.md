@@ -16,14 +16,13 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
+- Single static supporting content page that will be linked to from primary Coronavirus pages and communications
+- Will live off root level as temporary page
 
 Page | URL | Breadcrumb
 --- | --- | ---
-FAQ page - new | www.va.gov/what-veterans-need-to-know-about-coronavirus | Home > What Veterans need to know about Coronavirus and VA
+FAQ page - new | www.va.gov/coronavirus-veteran-frequently-asked-questions | Home > Coronavirus FAQ: What Veterans need to know
 
-www.va.gov/what-veterans-need-to-know-about-coronavirus
-www.va.gov/coronavirus-veteran-frequently-asked-questions
-www.va.gov/veteran-frequently-asked-questions-about-coronavirus
 
 **General Details**
 
