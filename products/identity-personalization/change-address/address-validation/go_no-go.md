@@ -5,12 +5,6 @@
 
 ---
 
-### Platform: is monitoring and alerting configured and working as expected?
-
-**OK to proceed?**: `yes/no - any notes`
-
-- 
-
 ### Joanne: is the Product Health Tool updated to track this product data and working as expected?
 
 
