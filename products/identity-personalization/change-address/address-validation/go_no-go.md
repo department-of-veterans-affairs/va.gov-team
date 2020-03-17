@@ -62,6 +62,13 @@
 
 - 
 
+### VA Profile: Amy/Mike — is there anything on the VA Profile end that would prevent us from launching tomorrow? Or do you have any questions you'd like us to answer before you feel comfortable with us proceeding?
+
+
+**OK to proceed?**: `yes/no - any notes`
+
+-
+
 ### Other concerns/discussion
 
 - 
