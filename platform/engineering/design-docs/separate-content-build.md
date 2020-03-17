@@ -215,19 +215,10 @@ bucket?
   - Validation instead happens in a separate job
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious
-requests, etc) and what, if anything, is being done to protect against them. Be
-sure to list concerns for which you don't have a solution or you believe don't
-need a solution. Security concerns that we don't need to worry about also belong
-here (e.g. we don't need to worry about denial of service attacks for this
-system because it only receives requests from the api server which already has
-DOS attack protections)._
+There are no new concerns with a separated build process.
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added
-by this new application. Think about flows of user data through systems, places
-data is stored and logged, places data is displayed to users. Where is user data
-stored or logged? How long is it stored?_
+There are no new concerns with a separated build process.
 
 ### Open Questions and Risks
 - Can we run the build and deploy job for `vets-website` (application build) in
