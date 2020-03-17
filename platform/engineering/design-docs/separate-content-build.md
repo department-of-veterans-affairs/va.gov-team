@@ -205,17 +205,36 @@ risks you should include estimates of likelihood, cost if they occur and ideas
 for possible workarounds._
 
 ### Work Estimates
+The following estimates vary greatly depending on who's doing the work.
+
+1. Write a standalone script that can be pointed to the build output directory
+   to check for broken links
+    - Run this in Jenkins after the build succeeds
+    - **Estimate:** 3 hours - 3 days
+1. Remove the broken link checker step from the Metalsmith script
+    - **Estimate:** < 1 hour
 1. Separate the content and application builds into their own scripts within
    `vets-website`
+    - **Estimate:** 1 - 5 days
 1. Coordinate the builds with a consolidated build script to produce the same
    output of the current build
+    - **Estimate:** 2 hours - 2 days
 1. Copy the content build script to another repo
+    - **Estimate:** 2 hours - 1 day
 1. Set up the CI for that new repo
+    - **Estimate:** ??
+    - I'm not sure what all goes into this
+        - What does it take to wire this into Jenkins / Nomad?
 1. Coordinate with Ops to use the new repo to deploy content to a new bucket
+    - **Estimate:** ??
+    - Again, not sure what it takes to make this happen
 1. Set up the routing in the forward proxy
+    - **Estimate:** ??
+    - Probably between a few hours and a week...?
 1. Once we're confident all traffic is routed properly, switch the `vets-website`
    build to build only webpack assets (content on the application bucket
    shouldn't be touched at this point anyhow)
+    - **Estimate:** < 1 hour
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as
