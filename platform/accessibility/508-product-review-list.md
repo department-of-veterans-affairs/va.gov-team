@@ -41,6 +41,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Authenticated Experience Address Validation](#authenticated-experience-address-validation)
     * [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
     * [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
+    * []()
     * [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -517,6 +518,25 @@ Each application or logical section of the site will have a heading and a detail
 
 
 ---  [Table of Contents](#table-of-contents)
+
+### Facility Locator Urgent Care MVP
+
+**Maintainer:** _VSA <br/>
+**Audit Status:** Staging Review, IN-PROGRESS by VSA, March 17, 2020<br/>
+**Closed Issues:** _Create a reusable search link by filtering va.gov-team issues:_ https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A508%2FAccessibility+%2C+Facility+Locator+Urgent+Care+MVP+is%3Aclosed
+
+#### Open issues
+
+* [[SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️  — **_Launchblocker_**
+
+* [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+* [[SCREENREADER]: 'Directions' links SHOULD have accessible names](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6894)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+* [[COLOR, COGNITION]: CONSIDER changing background of map attribution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6892)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+---  [Table of Contents](#table-of-contents)
+
 
 ### New Project Name
 
