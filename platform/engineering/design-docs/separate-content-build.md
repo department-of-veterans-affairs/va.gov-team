@@ -117,6 +117,9 @@ make an application live for the first time. The process will be to manually:
 ## Specifics
 
 ### Detailed Design
+_Coming soon!_
+
+<!--
 _Designs that are too detailed for the above High Level Design section belong
 here. Anything that will require a day or more of work to implement should be
 described here._
@@ -143,6 +146,8 @@ to change it once you've written all the code._
 NOTE: Don't forget about broken link validation with regard to links to
 application assets. Specifically, how the application assets live in a
 different location than the HTML files.
+-->
+
 
 ### Code Location
 To start, the **content build** will live at
