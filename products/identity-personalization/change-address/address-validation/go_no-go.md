@@ -56,9 +56,9 @@
 
 ### Chante: is call center ready to handle potential calls that may come in about address validation?
 
-**OK to proceed?**: Pending confirmation from Chante
+**OK to proceed?**: Yes
 
-- 
+- Via Slack: "Call centers are good to go!"
 
 ### VA Profile: Amy/Mike — is there anything on the VA Profile end that would prevent us from launching tomorrow? Or do you have any questions you'd like us to answer before you feel comfortable with us proceeding?
 
