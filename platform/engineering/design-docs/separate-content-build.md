@@ -216,17 +216,8 @@ data is stored and logged, places data is displayed to users. Where is user data
 stored or logged? How long is it stored?_
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet,
-research that needs to be done and potential risks that could make make this
-system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we
-expect our users to interrupt running jobs? This relies on an undocumented
-third-party API which may be turned off at any point._
-
-_For each question you should include any relevant information you know. For
-risks you should include estimates of likelihood, cost if they occur and ideas
-for possible workarounds._
+- Can we run the build and deploy job for `vets-website` (application build) in
+  CircleCI?
 
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
