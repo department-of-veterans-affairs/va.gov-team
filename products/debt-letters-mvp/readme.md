@@ -82,7 +82,6 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 ## Solution Goals
 
 - TBD
-- 
 
 ### User Goals
 - To have a single place through which I can manage any debts I have with the VA
@@ -94,7 +93,6 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 - To receive consistently accurate information about the status of my account, regardless of the way in which that communication gets to me
 
 ## Hypotheses
-
 - TBD
 
 ## Requirements 
@@ -108,7 +106,6 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 - Information delivered to Veterans about the status and nature of their debts is accurate and up-to-date
 
 ## Constraints
-
 There are two main contraints known at this time, one coming from the business and one from the technical landscape within the VA.
 
 Business: This problem affects Veterans as well as eligible dependents, however due to external pressures from Congress, there is a desire to limit the scope of this problem to indebted Veterans to expedite the process of launching something meaningful to Veterans. It's currently unclear how much wiggle room there is here; it's possible we might be able to address the concerns of non-Veterans without adding complexity to the problem or lengthening the delivery timeline
@@ -117,7 +114,7 @@ Technical: There are many different types communications about debt (typically r
 
 
 ## Discovery Takeaways
-- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
+- Initial Discovery notes will eventually live [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery)
 
 ## Decisions
 
