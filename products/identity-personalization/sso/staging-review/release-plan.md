@@ -1,14 +1,9 @@
-# Release Plan Template
-
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
-
-That's what this Release Plan Template is for! And note - there are feature flags and beta banners at your disposal that you can use as a part of your plan.
+# SSOe Release Plan
 
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+_Is this something we can implement with SSO using sticky feature flagging?_
 
 ### Planning:
 - Desired date range or test duration: [date - date] or [duration]
@@ -27,10 +22,10 @@ That's what this Release Plan Template is for! And note - there are feature flag
 
 ## Phase II: unmoderated production testing
 
-### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
-- Desired number of unique users: x
-- How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
+### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
+- Desired date range: 4/1/20 - 4/6/20
+- Desired number of unique users: XX% (20%?) of total logins per day (
+- How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
 ### Results:
@@ -41,13 +36,12 @@ That's what this Release Plan Template is for! And note - there are feature flag
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
 ## Go Live!
 
-### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
+### Planning - Inbound and Outbound both at 100%:
+- Desired date: 4/7/20
+- Post-launch KPI 1: Number of logins on VA.gov remains consistent
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
 - etc
