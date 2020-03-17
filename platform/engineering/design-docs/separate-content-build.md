@@ -177,7 +177,8 @@ buckets, we can remove the content from the application build.
 properly?
 
 ### Logging
-_What your system will record and how._
+**Question:** What _should_ it log? Anything? Is this a Jenkins / Nomad /
+CircleCI thing?
 
 ### Debugging
 
