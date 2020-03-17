@@ -54,7 +54,7 @@
 - Lihan — No
 - Erik/Brad — No. The outstanding accessibility bug is not a blocker and has been determined to not be specific to this work.
 
-### Chante: is call center ready to handle potential calls that may come in about preview.va.gov?
+### Chante: is call center ready to handle potential calls that may come in about address validation?
 
 **OK to proceed?**: Pending confirmation from Chante
 
