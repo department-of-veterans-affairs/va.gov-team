@@ -155,9 +155,26 @@ the **root of the project.** If we need any script files to aid in the build
 process, they will be located in `vets-website/scripts/build/`.
 
 ### Testing Plan
-_How you will verify the behavior of your system. Once the system is written,
-this section should be updated to reflect the current state of testing and
-future aspirations._
+
+#### Conslidated build script
+After the content and application builds have their own build scripts within
+`vets-website`, we'll write a script to run both builds together to reproduce
+the current build script's output. To test that this is working properly we can:
+
+1. Run the script pre-separation (checkout `master` for this)
+1. Rename the `vets-website/build/localhost/` directory
+1. Run the post-separation build script
+1. Check that the all same files are there
+    - We can use `find` and `cmp` for this as needed
+    
+#### Forward proxy routing
+We'll have two buckets: One for content, one for application assets. During the
+transition, the application bucket will also contain content. Once the forward
+proxy routing is set up and we're confident traffic is being routed to the right
+buckets, we can remove the content from the application build.
+
+**Question:** How will we be able to verify that traffic is being routed
+properly?
 
 ### Logging
 _What your system will record and how._
