@@ -14,7 +14,7 @@ Staging accessibility reviews will be turned around in two days, provided the fo
   * [Zoom layouts to 400% at 1280px width](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
   * [Navigate using the keyboard only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation)
   * [Test for color contrast and color blindness issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#color-tests)
-  * [Test with 1 or 2 screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation) _(VoiceOver or NVDA)_
+  * [Test with 1 or 2 screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#screen-readers) _(VoiceOver or NVDA)_
 * Provide documentation for your test cases using one of the templates:
   * [TestRail accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR** 
   * [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
