@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Parcel Sandbox</title>
+    <title>VSP Documentation Landing Page</title>
     <meta charset="UTF-8" />
     <link
       href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
@@ -11,8 +11,8 @@
 
   <body>
     <header class="h-32 px-16 pt-8 bg-blue-900 text-white">
-      <div class="border-b pb-3">
-        <span class="text-4xl">VA</span>
+      <div class="pb-3">
+        <span class="text-4xl">VA.gov</span>
         <span class="border-l pl-2 text-3xl">
           Documentation
         </span>
@@ -21,34 +21,19 @@
     <main>
       <section>
         <div class="bg-gray-200 px-40 py-16">
-          <h1 class="text-4xl font-bold">
+          <h1 class="text-3xl font-bold text-gray-800">
             A knowledge hub for those building on VA.gov.
           </h1>
           <div class="pt-4">
-            You have to make almighty descions when you're the creator. Fluff
-            that up. A tree cannot be straight if it has a crooked trunk.
+            Connecting you to documentation, tools, and resources to help you as
+            you work.
           </div>
-          <div class="pt-12">
-            <button
-              class="bg-blue-700 text-white rounded-sm px-4 py-2"
-              type="button"
-            >
-              Get Started
-            </button>
-          </div>
-        </div>
-        <div class="bg-blue-300 px-40 py-4">
-          <span class="font-bold text-xl">
-            This is a beta site.
-          </span>
-          We are always looking to make improvements.
-          <span class="font-bold">
-            Send us your feedback.
-          </span>
         </div>
       </section>
       <section class="px-40 pt-16">
-        <h2 class="font-bold text-3xl">Practice area quick links</h2>
+        <h2 class="font-bold text-3xl">
+          Practice area quick links
+        </h2>
         <div class="grid grid-cols-3 gap-4 pt-10">
           <div>
             <div>
@@ -56,6 +41,13 @@
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/README.md"
                 class="font-bold text-2xl"
                 >Engineering</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md"
+                class="text-blue-800"
+                >Accessing staging</a
               >
             </div>
             <div>
@@ -74,9 +66,16 @@
             </div>
             <div>
               <a
-                href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api"
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md"
                 class="text-blue-800"
-                >Vets API</a
+                >Review instances</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/"
+                class="text-blue-800"
+                >Frontend dev on VA.gov</a
               >
             </div>
             <div>
@@ -84,6 +83,13 @@
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs"
                 class="text-blue-800"
                 >Design doc template</a
+              >
+            </div>
+            <div>
+              <a
+                href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/deployment-policy.md"
+                class="text-blue-800"
+                >Deployment policy and release freezes</a
               >
             </div>
           </div>
@@ -545,5 +551,7 @@
         </div>
       </section>
     </main>
+    <!-- <div id="app"></div>
+    <script src="src/index.js"></script> -->
   </body>
 </html>
