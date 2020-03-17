@@ -393,8 +393,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-* [[COGNITION]: In mobile view or zoomed to 400%, the repetition of the sidenav accordion label takes up vertical space making it difficult to read the content in context - #3560](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3560)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
 
