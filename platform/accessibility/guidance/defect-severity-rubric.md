@@ -6,6 +6,8 @@ This document will provide a common language for determining accessibility defec
 2. Timeline to fix the defect. Please note,  `508-defect-0` and `508-defect-1` are launch blockers.
 3. Potential users impacted by the defect
 
+The severity rubric aligns to both the [axe-core rule descriptions](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md) severity descriptions and human impact.
+
 ## Table of Contents
 
 * [Launch Blocking Issues](#launch-blocking-issues)
