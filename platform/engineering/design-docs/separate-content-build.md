@@ -180,14 +180,31 @@ properly?
 _What your system will record and how._
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's
-important to think about what tools you can provide to make debugging problems
-easier. Sometimes it's unclear whether the problem is in your system at all, so
-a mechanism for isolating a particular interaction and examining it to see if
-your system behaved as expected is very valuable. Once a system is in use, this
-is a great place to put tips and recipes for debugging. If this section grows
-too large, the mechanisms can be summarized here and individual tips can be
-moved to another document._
+
+#### Content
+
+##### Build
+When the [`process-cms-exports`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/process-cms-exports/index.js)
+system is live, there will be automated tests to validate input from the CMS and
+output from the content transformers.
+
+##### Deploy
+To determine whether a page exists in the drupal content, we can go to
+`staging.va.gov/drupal/debug/`. This page is not available in production,
+however.
+
+#### Application
+
+##### Build
+We have automated unit and end-to-end tests that are run on every CI build.
+
+##### Deploy
+**Question:** How _do_ we tell whether or not the deploy was successful and the
+expected version of the application code is live in production?
+
+#### Forward proxy routing
+**Question:** How can we tell if any given request is being sent to the right
+bucket?
 
 ### Caveats
 - The content validation doesn't happen in the build job
