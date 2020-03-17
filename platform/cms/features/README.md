@@ -1,4 +1,4 @@
-[WIP]
+[WIP -- this should just live in User Guides]
 
 # About CMS products and features
 
