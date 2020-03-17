@@ -20,7 +20,7 @@ Last Updated February 26, 2020
 |Riley Orr | Designer|
 |Becca Walsh | Designer|
 
-## Stakeholders/POCs (BAM2)
+## Stakeholders/POCs
 |Name|Role|
 |----|----|
 |Melissa Rebstock | Veterans Experience Office (VEO) Executive Partner|
