@@ -117,11 +117,6 @@ make an application live for the first time. The process will be to manually:
 ## Specifics
 
 ### Detailed Design
-
-_Coming soon to a design doc near you!_
-
-<!--
-
 _Designs that are too detailed for the above High Level Design section belong
 here. Anything that will require a day or more of work to implement should be
 described here._
@@ -210,10 +205,17 @@ risks you should include estimates of likelihood, cost if they occur and ideas
 for possible workarounds._
 
 ### Work Estimates
-_Split the work into milestones that can be delivered, put them in the order
-that you think they should be done, and estimate roughly how much time you
-expect it each milestone to take. Ideally each milestone will take one week or
-less._
+1. Separate the content and application builds into their own scripts within
+   `vets-website`
+1. Coordinate the builds with a consolidated build script to produce the same
+   output of the current build
+1. Copy the content build script to another repo
+1. Set up the CI for that new repo
+1. Coordinate with Ops to use the new repo to deploy content to a new bucket
+1. Set up the routing in the forward proxy
+1. Once we're confident all traffic is routed properly, switch the `vets-website`
+   build to build only webpack assets (content on the application bucket
+   shouldn't be touched at this point anyhow)
 
 ### Alternatives
 _This section contains alternative solutions to the stated objective, as well as
@@ -227,8 +229,6 @@ system to address their needs._
 _Features you'd like to (or will need to) add but aren't required for the
 current release. This is a great place to speculate on potential features and
 performance improvements._
-
--->
 
 ### Revision History
 Date | Revisions Made | Author
