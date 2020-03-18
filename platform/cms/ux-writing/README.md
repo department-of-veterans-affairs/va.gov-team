@@ -18,7 +18,7 @@ Point of contact: Rachel Kauff, UX Writer, CMS team
 
 ## Audiences and communications 
 
-- Who we communicate with and how to reach them
+- [Who we communicate with and how to reach them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/audiences-and-comms-channels.md)
 
 ## Processes
 
