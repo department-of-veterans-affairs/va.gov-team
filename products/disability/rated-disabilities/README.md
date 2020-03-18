@@ -10,7 +10,7 @@ _**Note** - content is being moved from the [VSA eBenefits Team folder](https://
 - Staging tool page link: [https://staging.va.gov/disability/view-disability-rating/rating](https://staging.va.gov/disability/view-disability-rating/rating)
 - VA.gov link (WIP): [https://www.va.gov/disability/view-disability-rating](https://staging.va.gov/disability/view-disability-rating)
 - Tool Page (WIP): [https://www.va.gov/disability/view-disability-rating/rating](https://staging.va.gov/disability/view-disability-rating/rating)
-- Demo video link: https://dsva.slack.com/files/ULW9ZB61X/FRTSAK422/rated-disabilities-call-center-walkthrough.mp4
+- Demo video link: [https://slack-files.com/T03FECE8V-F0109N6AQKA-a31ae73df4](https://slack-files.com/T03FECE8V-F0109N6AQKA-a31ae73df4)
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
 ---
