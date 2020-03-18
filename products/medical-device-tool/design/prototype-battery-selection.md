@@ -114,7 +114,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 
 [Informational alert] 
 None of your devices are eligible for battery resupply
-You’re only eligible for rechargeable hearing aids. Contact the Denver Logistics Center  if you are experiencing issues with your device. 
+You can't currently order batteries for your devices because they either don't require batteries or have had batteries supplied too recently.
 
 **These are the hearing aids we have on file for you:**
 
@@ -171,7 +171,7 @@ Prescribed MM/DD/YYYY
 [Warning alert inside card component] 
 You cannot order batteries for this device because it's rechargeable
 [Additional info component inside warning alert] Why can't I order batteries for this device?
-(content inside the 'Additional info' component)Rechargeable hearing aids do not use disposable batteries and must be recharged instead. If you are having trouble with charging your hearing aids, call the Denver Logistics Center at (303)273-6200.
+(content inside the 'Additional info' component)Rechargeable hearing aids do not use disposable batteries and must be recharged instead. If you are having trouble with charging your hearing aids, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 [Card component]
 Hearing aid name [h4 utility]
@@ -183,7 +183,7 @@ Prescribed MM/DD/YYYY
 [Warning alert inside card component] 
 You cannot order batteries for this device online until MM/DD/YYYY
 [Additional info component inside warning alert] Why can't I order batteries for this device?
-(content inside the 'Additional info' component)You can only order batteries for each device once every 5 months. Each order comes with enough batteries for approximately 6 months. If you need batteries sooner, call the Denver Logistics Center at (303)273-6200.
+(content inside the 'Additional info' component)You can only order batteries for each device once every 5 months. Each order comes with enough batteries for approximately 6 months. If you need batteries sooner, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 [Additional info component] What if I don't see my hearing aid?
 (content inside the 'Additional info' component)You'll need to contact your audiologist to update your record with additional devices
