@@ -34,7 +34,9 @@ _Rollout meetings with VSA teams_
 
 "Thank you very much for reviewing all of these areas and requirements with our team, although we have a unique product, it was extremely helpful to determine how, when, and with whom we need to collaborate. This is also helpful if we ever do, cross the bridge of develop, design, and build an application in our work space. Great WORK!"
 
-From 3/12 meeting with BAH -- they are going to be going through the collaboration cycle and comparing it to the handbook. Showing any gaps or new pain points with the new process. Amy knox did bring up that the handbook had information about where to store artifacts that the collaboration cycle doesn't have
+From 3/12 meeting with BAH -- they are going to be going through the collaboration cycle and comparing it to the handbook. Showing any gaps or new pain points with the new process. Amy K. did bring up that the handbook had information about where to store artifacts that the collaboration cycle doesn't have
+
+"Very much appreciate your assistance!"
 
 # Additional Notes from VSP Reviewers & Moderators 
 
