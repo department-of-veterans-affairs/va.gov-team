@@ -33,7 +33,9 @@ These issues have the potential to cause life-threatening situations and should 
 #### Types of issues:
 
 * Applications must not have [high flicker rates](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html) (could trigger epileptic seizures)
+  * [Three Flashes or Below Threshold: Understanding SC 2.3.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
 * Motion or movement should not cover a high percentage of the screen. This could lead to possible [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/).
+  * [WCAG2.1 Understanding Success Criterion 2.2.2: Pause, Stop, Hide](https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html)
 
 #### Potential impact:
 
@@ -65,12 +67,11 @@ These issues have the potential to severly disrupt the user experience and must 
   * [Labels or Instructions: Understanding SC 3.3.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html)
 * [Content being added or removed from the page must announce a change to assistive devices](https://fae.disability.illinois.edu/rulesets/WIDGET_14/)
 * Improper `aria` attributes or missing IDs must be corrected. See the [rules of ARIA use](https://www.w3.org/TR/using-aria/#NOTES).
-* Elements that can receive focus must have a yellow focus halo. This includes buttons, links, form inputs, textareas, and custom components. The following CSS rule should be present on the element that has keyboard focus.
+* Elements that can receive focus must have a yellow focus halo. This includes buttons, links, form inputs, textareas, and custom components. The following CSS rule should be present on the element that has keyboard focus. See [WCAG2.1 Understanding Success Criteria 2.4.7: Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html)
   
   ```css
   outline: 2px solid #f9c642;
   ```
-  * [WCAG2.1 Understanding Success Criteria 2.4.7: Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html)
 
 #### Potential impact:
 
