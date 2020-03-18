@@ -1,14 +1,14 @@
 # Contact Center Product Guide: "Your VA disability ratings"
 
 ### Table of Contents 
- - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
- - [User Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#user-access)
-   - [Who can access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#who-can-access-this)
-   - [How can users access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#how-can-users-access-this)
- - [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#navigation)
- - [FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#faqs)
- - [Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#functionality)
- - [Error Handling & Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#error-handling-and-notifications)
+ - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#what-is-it)
+ - [User Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#user-access)
+   - [Who can access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#who-can-access-this)
+   - [How can users access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#how-can-users-access-this)
+ - [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#navigation)
+ - [FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#faqs)
+ - [Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#functionality)
+ - [Error Handling & Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/contact-center/product-guide.md#error-handling-and-notifications)
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
@@ -18,15 +18,15 @@ The **Your VA disability ratings** page is where Veterans can view their combine
 - **Compensation 101: How did I get this rating?** video on YouTube; this explains how disability claims are determined, and how ratings are calculated. `(C)`
 - The VA phone number: 800-827-1000 `(D)`
 
-![Your-VA-disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-1_clean.png)
+![Your-VA-disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD-1_clean.png)
 
 The **Your VA disability ratings** screen will show disability ratings that are known to the VA. If a Veteran does not have a disability rating, an informational alert box will appear:
 
-![RD 400 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-2_clean.png)
+![RD 400 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD-2_clean.png)
 
 If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the total combined VA disability rating, or the individual disability ratings, or both, could show error alerts.
 
-![RD 500 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-3_clean.png)
+![RD 500 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD-3_clean.png)
 
 Target launch date is end of November 2019, early December 2020.
 
@@ -40,9 +40,9 @@ The **Your VA disability ratings** page is accessible for testing within the **V
 ## Navigation
 If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disability rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is already logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans who are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disability rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
 
-![RD  authenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD_Landing_1A.png)
+![RD  authenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD_Landing_1A.png)
 
-![RD  unauthenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-4_clean.png)
+![RD  unauthenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD-4_clean.png)
 
 After authentication, the Veteran is brought to the **Your VA disability ratings** page.  
 

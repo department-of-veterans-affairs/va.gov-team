@@ -7,4 +7,4 @@
 
 # Request DSVA to review your team's work
 
-- [Request Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md)
+- [Request Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)

@@ -276,10 +276,10 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 ## Collaboration format: asynchronous
 
 ### Request process
-**VFS Product Manager** follows instructions on the [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) to request a Contact Center review.
+**VFS Product Manager** follows instructions on the [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) to request a Contact Center review.
 
 ### Artifact inputs
-You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) for further instruction): 
+You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) for further instruction): 
 - Product Guide
 - Product Video
 
