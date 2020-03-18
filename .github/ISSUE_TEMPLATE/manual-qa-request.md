@@ -3,7 +3,7 @@ name: Manual QA Services Request
 about: Request manual QA services from the VSP Product Support team
 title: Request manual QA services for ENTER_PRODUCT_NAME
 labels: product support, QA
-assignees: peterhill-oddball
+assignees: pjhill
 
 ---
 
