@@ -26,9 +26,9 @@ Date | Topic | Link
 
 ## Main Repositories
 Our work is conducted primarily over public GitHub repositories:
-*   Docs: [https://github.com/department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team)
-*   Backend source: [https://github.com/department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api)
-*   Frontend source:[https://github.com/department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website)
+*   Docs: https://github.com/department-of-veterans-affairs/va.gov-team
+*   Backend source: https://github.com/department-of-veterans-affairs/vets-api
+*   Frontend source: https://github.com/department-of-veterans-affairs/vets-website
 
 ## Our Stack
 We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static site generation (build) to pull content from Drupal CMS and Markdown.
@@ -59,7 +59,7 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
     *   Rails MVC for REST APIs,
     *   Sidekiq for scheduled jobs
     *   Gems?
-*   PostgreSQL (for some persistence, local app state; but most of the back end talks to other REST services rather than heavy local entity CRUD). Vets-api schema file
+*   PostgreSQL (for some persistence, local app state; but most of the back end talks to other REST services rather than heavy local entity CRUD). Vets-api schema file.
 *   PostGIS (GIS/spatial)
 *   Redis (in memory; for sidekiq, persist user objects)
 *   PDF tk (PDF generation)
@@ -76,25 +76,25 @@ Channel                    | Description
 #random                    |                                        
 #vfs-all-teams             |                                         
 #vfs-backend               | Backend Developers, Technical               
-#vfs-engineers             |	Jenkins deploy, VSP announcements
-#vfs-frontend	             | Frontend Developers, Technical 
-#vfs-platform-support	     | VSP Platform Support (Help)
+#vfs-engineers             | Jenkins deploy, VSP announcements
+#vfs-frontend	            | Frontend Developers, Technical 
+#vfs-platform-support	   | VSP Platform Support (Help)
 #vsa	                     | VSA all teams and practice areas
 #vsa-authd-exp             | Team: Authenticated Experience
-#vsa-bam-2     	           | Team: Benefits And Memorial #2
+#vsa-bam-2     	         | Team: Benefits And Memorial #2
 #vsa-benefits-memorial     | Team: Benefits And Memorial #1
-#vsa-caregiver	           | Team: Caregiver
+#vsa-caregiver	            | Team: Caregiver
 #vsa-caregiver-engineering | Team: Caregiver (just devs)
-#vsa-ebenefits	           | Team: eBenefits
+#vsa-ebenefits	            | Team: eBenefits
 #vsa-engineering	         | VSA Frontend and Backend Engineers
-#vsa-facilities	           | Team: Facilities
-#vsa-product	             | VSA Product Collaboration (PMs, etc)
-#vsa-public-websites	     | Team: Public Websites
+#vsa-facilities	         | Team: Facilities
+#vsa-product	            | VSA Product Collaboration (PMs, etc)
+#vsa-public-websites	      | Team: Public Websites
 #vsa-vamc-upgrade	         | Team: Medical Center
 
 * If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the #vfs-platform-support channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 * **Bots**: ***/wtf*** looks up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
-* **Apps**: Allow your work account for “Google Calendar” so that Slack can remind you of meetings and automatically set your status to “In a meeting”
+* **Apps**: Allow the “Google Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
 * **Status**: In addition to setting your vacation time in the shared Google Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.
 
 ## Zoom Meetings
@@ -178,8 +178,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platfo
 *   **GitHub: VA<span/>.gov | VSP | Orientation** \
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation
 
-*   **GitHub: VA<span/>.gov | VSP | Request Access to internal tools** \
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md
+*   **GitHub: VA<span/>.gov | VSP | Request Access to Internal Tools** \
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md \
+The "[additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers)" section walks you though the request and setup for SOCKS access to Jenkins, Sentry, Prometheus, and Grafana. These DevOps services are hosted on private domains but can be accessed your web browser using an SSH script with the SwitchyOmega Chrome plugin to route web requests from your browser to the SOCKS5 proxy. If you have your PIV background check approved (eQIP adjudication), you may also request access to AWS Console for "troubleshooting, log file review, and to apply changes to the running instances and services" on AWS GovCloud.
 
 *   **GitHub: VA<span/>.gov | VSP | Deployment Process** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/deployment.md
@@ -248,12 +249,12 @@ Software            | URL                           | Description
 :---                | :---                          | :---
 Homebrew            | https://brew.sh               | Package manager for macOS, this package is used via the terminal to install node.js, ruby and all the other software needed. Must be updated regularly in order to keep the repositories up to date. Software allows MAC users to install yarn, node.js and NVM.
 GitHub Desktop      | https://desktop.github.com    | Adds support for Git command line and allows us to work with the VA repositories.
-Visual Studio Code	| https://code.visualstudio.com | IDE to modify and debug code.
-Docker	            | https://www.docker.com        | Needed to run Ruby, Postgres and all the necessary tools to execute the VA APIs.
+Visual Studio Code. | https://code.visualstudio.com | IDE to modify and debug code.
+Docker	           | https://www.docker.com        | Needed to run Ruby, Postgres and all the necessary tools to execute the VA APIs.
 Yarn	              | https://yarnpkg.com           | Dependency manager used on the VA frontend.
-Node.js	            | https://nodejs.org            | Needed to execute the website frontend.
+Node.js	           | https://nodejs.org            | Needed to execute the website frontend.
 Postman             | https://www.getpostman.com    | Needed to test and develop REST APIs.
-pgadmin	            | https://www.pgadmin.org       | PostgreSQL Tools.
+pgadmin	           | https://www.pgadmin.org       | PostgreSQL Tools.
 
 #### Local Build Instructions
 * **Front End:** https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build
