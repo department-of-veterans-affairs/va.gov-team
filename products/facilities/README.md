@@ -59,5 +59,5 @@ These are the products we are designing and building for Veterans and users on V
 ## Teams/Slack channels working on facilities products
 - #vsa-facilities - Facility Locator
 - #vsa-vamc-upgrade - VAMC product upgrade
-- #cms-facility - VAMC Pittsburgh pilot product
-- #cms-general - Drupal CMS
+- #cms-support - Drupal CMS support
+- #cms-team - Drupal CMS team
