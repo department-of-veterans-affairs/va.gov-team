@@ -38,6 +38,8 @@ From 3/12 meeting with BAH -- they are going to be going through the collaborati
 
 "Very much appreciate your assistance!"
 
+Should think about regression test plans and when we require them because teams are just having Tze build them in a box, which isn't helpful to the whole scrum team. Should we move that artifact later in the process? Work with peter on this. 
+
 # Additional Notes from VSP Reviewers & Moderators 
 
 ### Megan notes from rollout mtgs 
