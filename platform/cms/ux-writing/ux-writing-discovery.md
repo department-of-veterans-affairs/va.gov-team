@@ -27,6 +27,7 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - directive (helpful)
 
 ## User research
+
 *What language do CMS users employ to describe their own work?*
 
 - *What kind of context do users need so they can understand language they encounter in the CMS, without relying on external support?*
@@ -45,9 +46,11 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - parallel structure
 
 ## Personas, journey mapping, workflows
+
 *Understanding how vocabularies map to different personas and Drupal user roles*
 
 **CMS user experience**
+
 *If the CMS was a customer support agent, how would we rate its conversational skills? How does the conversation need to change with different kinds of users?*
 
 - familiarity
@@ -57,4 +60,5 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - consistency
 
 ## Back end style guide
-* What kinds of rules do we need to establish or further define to ensure consistency?*
+
+*What kinds of rules do we need to establish or further define to ensure consistency?*
