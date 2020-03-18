@@ -1,6 +1,6 @@
 ### Github Security Alerts Log
 
-| Security Alert       | Clientfacing | Alerted on   | Fixed on     | Comments                                                                                                                                               |
+| Security Alert       | Client-facing | Alerted on   | Fixed on     | Comments                                                                                                                                               |
 |----------------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | minimist             |              | Mar 13, 2020 |              |                                                                                                                                                        |
 | acorn                | yes          | Mar 13, 2020 | Mar 17, 2020 | Fixed. [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/11913)                                                                                                                                             |
