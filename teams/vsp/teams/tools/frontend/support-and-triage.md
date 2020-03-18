@@ -26,10 +26,6 @@ During the sprint, you should monitor the following Slack groups for issues:
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
 
-### Dependabot upgrades 
-
-As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
-
 ### Pull requests 
 
 Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. When possible, rely on other FE team members to do PR reviews (e.g. ask for a volunteer and assign the PR to them).
@@ -67,3 +63,7 @@ The oncall developer should handle normal oncall tasks, but may need some fronte
 At the end of the rotation, there will be a short handoff meeting where we will discuss
 - Ongoing support issues that need to be taken over by the next developer in the rotation
 - Patterns in support issues that merit process improvement
+
+### Dependabot upgrades 
+
+As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
