@@ -18,7 +18,7 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 
 ### Artifact inputs
 You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) for further instruction): 
-- [Product Guide] (products/identity-personalization/sso/contact-center-review/SSOe-product-guide.pdf)
+- [Product Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/contact-center-review/SSOe-product-guide.pdf)
 - Product Video **Exempt from this requirement per 3/11/2020 discussion)**
 
 ### Outcomes and artifact outputs
