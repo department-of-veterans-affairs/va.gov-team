@@ -2,11 +2,11 @@
 
 ## Testing volunteers
 
-- Erik
+- Erik: **Pass**
 - Samara
-- Rian Fowler
-- Anna Carey
-- Keifer Furzland
+- Rian Fowler: **Pass**
+- Anna Carey: **Pass**
+- Keifer Furzland: **Pass**
 
 ## Script
 
