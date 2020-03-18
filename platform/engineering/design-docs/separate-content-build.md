@@ -227,16 +227,19 @@ There are no new concerns with a separated build process.
 There are no new concerns with a separated build process.
 
 ### Open Questions and Risks
-- Can we run the build and deploy job for `vets-website` (application build) in
-  CircleCI?
-- How often should we run content the separate content validation job?
+All questions have been inlined to preserve context.
+
+Risks include:
+- Misconfiguring the forward proxy routing
+  - Could "remove" all static content from VA.gov
+  - Could "remove" all applications from VA.gov
 
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
 
 1. Write a standalone script that can be pointed to the build output directory
    to check for broken links
-    - Run this in Jenkins after the build succeeds
+    - Run this in Jenkins (Nomad? Circle?) after the build succeeds
     - **Estimate:** 3 hours - 3 days
 1. Remove the broken link checker step from the Metalsmith script
     - **Estimate:** < 1 hour
