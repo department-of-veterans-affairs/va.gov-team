@@ -24,6 +24,7 @@ The severity rubric aligns to both the [axe-core rule descriptions](https://gith
 
 `508-defect-0` and `508-defect-1` issues have the potential to make an application unusable for a significant group of users.
 
+---
 ### 508-defect-0
 
 **❗️ Potentially Harmful. Must be fixed immediately.**
@@ -42,6 +43,7 @@ These issues have the potential to cause life-threatening situations and should 
 * Users who have photosensitivity or seizure disorders
 * Users who have [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/) like motion sickness
 
+---
 ### 508-defect-1
 
 **❗️ Critical. Must be fixed before launch.**
@@ -87,6 +89,7 @@ These issues have the potential to severly disrupt the user experience and must 
 
 `508-defect-2` and `508-defect-3` issues have the potential to degrade the user experience and should be fixed as soon as possible. These issues may have a short or long time horizon; some are violations, others are suggested improvements.
 
+---
 ### 508-defect-2
 
 **⚠️ Serious. Should be fixed in 1-2 sprints post-launch.**
@@ -95,10 +98,14 @@ These issues have the potential to disrupt the user experience and should be fix
 
 #### Types of issues:
 
+* Page `<title>` tags should update on every route (URL) change. This includes single-page apps (SPAs).
+  * `<h1>` should match the `<title>` or be included in the `<title>`
+    * Example title: Check your appeals status | VA.gov
+    * Example heading: Check your appeals status
+  * [Page Titled: Understanding SC 2.4.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-title.html)
 * [Zoomed layouts](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) must support use without horizontal scrolling, or have difficult to read text. Horizontal scrolling is allowed for data tables, images, or other rich media.
 
 * Color blindness issues must be corrected. A common example is color being used to distinguish links from plain text.
-
 * Labels or calls to action must be descriptive to assistive devices. Some examples include:
 
   * A button to edit a form in place. The button says "Edit", but doesn't answer "Edit...what?" to a screen reader. The user is asked to work back through the page and listen for a heading or key text to identify what this button might do.
@@ -126,10 +133,10 @@ These issues have the potential to disrupt the user experience and should be fix
      */
     <button aria-label="Edit street address">Edit</button>
     ```
+  * Accessible labels must be included in visual labels
+  * [WCAG2.1 Understanding Success Criterion 2.5.3: Label in Name](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html)
 
 * Applications must have a [logical source order](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html)
-
-* Content must be semantically related to its explanation
 
 * HTML should use meaningful landmarks. These include:
 
@@ -150,6 +157,7 @@ These issues have the potential to disrupt the user experience and should be fix
 * Users who are hard of hearing or deaf
 * Users with short-term memory or other cognitive issues
 
+---
 ### 508-defect-3
 
 **⚠️ Minor. Should be fixed in 1-3 sprints post-launch.**
@@ -168,6 +176,7 @@ These issues have the potential to disrupt the user experience and should be fix
 * Users who have low-vision, partial vision, or are blind
 * Users who navigate by keyboard
 
+---
 ### 508-defect-4
 
 **✔️ Trivial. Consider fixing or exploring in 2-4 sprints post-launch.**
