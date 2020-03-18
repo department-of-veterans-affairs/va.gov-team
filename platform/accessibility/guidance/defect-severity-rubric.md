@@ -49,31 +49,28 @@ These issues have the potential to severly disrupt the user experience and must 
 #### Types of issues:
 
 * [Focus must be managed for single-page applications](https://adhocteam.us/2018/02/20/developer-driven-focus-management-for-single-page-applications/)
-
-* [Keyboard must not trap focus](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-trapping.html)
-
-* Content must be reachable without a pointer device like a mouse:
-
+  * [Name, Role, Value: Understanding SC 4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
+* Keyboard must not trap focus
+  * [No Keyboard Trap: Understanding SC 2.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-trapping.html)
+  * [Examples of Success Criterion 2.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/keyboard-operation-trapping.html#keyboard-operation-trapping-examples-head)
+  * Content must be reachable without a pointer device like a mouse:
   * UI or form controls must be reachable by `TAB` or `SHIFT + TAB`
   * UI or form controls must be reachable by screen reader shortcuts or menu options
-
 * Errors in automated tools like [aXe browser plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT) must be fixed
-
 * [Videos must have captioning](https://www.w3.org/WAI/perspective-videos/captions/)
-
+  * [Captions (Prerecorded): Understanding SC 1.2.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions.html)
 * [Color contrast issues](https://webaim.org/articles/contrast/) must be corrected
-
+  * [Contrast (Minimum): Understanding SC 1.4.3](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
 * [Form inputs must have semantic labels](https://www.w3.org/WAI/tutorials/forms/labels/)
-
+  * [Labels or Instructions: Understanding SC 3.3.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html)
 * [Content being added or removed from the page must announce a change to assistive devices](https://fae.disability.illinois.edu/rulesets/WIDGET_14/)
-
-* Improper `aria` attributes or missing IDs must be corrected
-
+* Improper `aria` attributes or missing IDs must be corrected. See the [rules of ARIA use](https://www.w3.org/TR/using-aria/#NOTES).
 * Elements that can receive focus must have a yellow focus halo. This includes buttons, links, form inputs, textareas, and custom components. The following CSS rule should be present on the element that has keyboard focus.
-
+  
   ```css
   outline: 2px solid #f9c642;
   ```
+  * [WCAG2.1 Understanding Success Criteria 2.4.7: Focus Visible](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html)
 
 #### Potential impact:
 
