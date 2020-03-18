@@ -296,9 +296,8 @@ would like to get feedback on this part from somebody with experience in the
 trenches.
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the
-current release. This is a great place to speculate on potential features and
-performance improvements._
+1. Splitting out the platform code from the application code
+1. Splitting up the applications into separate repositories
 
 ### Revision History
 Date | Revisions Made | Author
