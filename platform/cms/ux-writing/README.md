@@ -13,7 +13,7 @@ Point of contact: Rachel Kauff, UX Writer, CMS team
 
 - [User guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/user-guides.md)
 
-- Back-end style guide for the CMS team
+- [Back-end style guide for the CMS team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/back-end-style-guide.md)
 
 
 ## Audiences and communications 
