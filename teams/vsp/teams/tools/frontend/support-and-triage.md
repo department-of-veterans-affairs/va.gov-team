@@ -60,7 +60,7 @@ The oncall developer may reach out to the frontend support dev to assist with tr
 
 ### Process improvement 
 
-At the end of the rotation, there will be a short handoff meeting where we will discuss
+At the end of the rotation, there will be a short handoff meeting between PM, FE lead, and the previous/next rotations' support dev to discuss
 - Ongoing support issues that need to be taken over by the next developer in the rotation
 - Patterns in support issues that merit process improvement
 
