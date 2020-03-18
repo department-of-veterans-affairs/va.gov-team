@@ -1,5 +1,6 @@
 # Design Review Critique Guidelines:
-The purpose of these guidelines are for VSP design experts to give a standard framework of feedback so that VFS designers can understand what needs to be done, what needs to be explored, and what needs to be considered when incorporating VSP feedback into their designs. 
+
+The purpose of these guidelines are for VSP design experts to give a standard framework of feedback so that VFS designers can understand what needs to be done, what needs to be explored, and what needs to be considered when incorporating VSP feedback into their designs. _[Adapted from Asana's framework.](https://medium.com/@jackiebo/do-try-consider-how-we-give-product-feedback-at-asana-db9bc754cc4a)_ 
 
 ## Design Review Format: 
 - **Collaboration points applicable:** Design Intent Collaboration, Usability Testing Prep, Staging Review
