@@ -480,7 +480,6 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[SCREENREADER] Calendar Widget - Fieldset needs to be a sibling to the button trigger for screen reader usability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2709)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 * [[COGNITION]: Can we review the language for Community Care appointment review times?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6279)<br/>**Staging** | **Opened:** February 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-* [[COGNITION]: Let's consider moving the Edit links on the review page after their text blocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6241)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 * [[COGNITION]: Can we make the HR rule lines into borders or hide them from screen readers on review page?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6242)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 ---
