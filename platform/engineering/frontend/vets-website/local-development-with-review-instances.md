@@ -8,7 +8,9 @@ The good news is that it's possible to locally review your changes against the r
 
 ## Workflow
 
-After pushing your feature branch, run the following command in your local checkout of `vets-website`:
+Make sure you've pushed your feature branch. Also make sure you're [connected to the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
+
+Once those are in place, run the following command in your local checkout of `vets-website`:
 
 ```
 yarn watch:review
