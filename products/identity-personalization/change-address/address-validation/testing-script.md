@@ -3,7 +3,7 @@
 ## Testing volunteers
 
 - Erik: **Test passed**
-- Samara
+- Samara: **Test passed**
 - Rian Fowler: **Test passed**
 - Anna Carey: **Test passed**
 - Keifer Furzland: **Test passed**
