@@ -251,6 +251,10 @@ The following estimates vary greatly depending on who's doing the work.
     - **Estimate:** ??
     - I'm not sure what all goes into this
         - What does it take to wire this into Jenkins / Nomad?
+1. Create landing pages within the CMS for each application
+    - **TO DO:** Ensure this won't override the existing landing pages yet
+    - **Estimate:** 1 hour - 1 day
+    - **Note:** This work can be done in parallel with any of the above tasks
 1. Coordinate with Ops to use the new repo to deploy content to a new bucket
     - **Estimate:** ??
     - Again, not sure what it takes to make this happen
