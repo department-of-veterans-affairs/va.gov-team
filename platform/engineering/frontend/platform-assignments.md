@@ -16,9 +16,11 @@ This document describes the responsibilities of each of these roles and is inten
   - Inform engineering lead and product manager if no maintenance has been performed for 2 consecutive sprints 
 - Assists product manager with backlog management 
   - Understands the implementation of the platform part 
-  - Provides feasible improvement options 
-  - Understand the problem solved by the platform part
+  - Provides feasible improvement options including how to improve the experience for platform users 
+  - Understand the problem solved by the platform part and how it helps platform users 
   - Makes tradeoff decisions with product manager 
+  - Understands how to measure success 
+  - Knows who uses the platform part and when to reach out to them
 - Provide consultation and support to users 
 - Consults and informs secondary engineer for all changes made to the platform part
   - Secondary engineer is required approver on all changes when available 
