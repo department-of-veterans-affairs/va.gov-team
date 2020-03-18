@@ -1,6 +1,6 @@
 Welcome to the Contact Center lead Folder.
 
-Responsiblities for the Contact Center Lead can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/call-center/call-center-lead-responsibilities.md)
+Responsibilities for the Contact Center Lead can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/call-center-lead-responsibilities.md)
 
 ## Process Documents
 - WHVAH Escalation Process

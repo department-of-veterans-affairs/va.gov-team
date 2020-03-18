@@ -56,7 +56,7 @@ _Note: as always, use the **#vfs-platform-support** Slack channel whenever you h
 - [ ] Dashboards and alerts are set up for finding and investigating issues
 - [ ] Point of contact are documented for the app itself and any new backend dependencies `*`
 - [ ] There's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/34add7c7b3d558158ccf3f599e79c2380076481c/platform/product-management/product-outline-template.md)
-- [ ] [Contact centers know how to help users who call in about the feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md)
+- [ ] [Contact centers know how to help users who call in about the feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 
 ### ...marketable?
 - [ ] Product brief (with visuals), outlining the value and functionality of your product is in github
