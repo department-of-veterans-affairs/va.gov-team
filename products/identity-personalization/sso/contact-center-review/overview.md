@@ -7,8 +7,8 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 
 **Meeting: March 11, 2020 - 1:30pm-2pm**
 **Attendees:**
-**- Chante Lantos-Swett**
-**- Alexis James**
+- Chante Lantos-Swett
+- Alexis James
 
 ## Collaboration format: asynchronous
 
@@ -18,7 +18,7 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 ### Artifact inputs
 You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) for further instruction): 
 - Product Guide
-- Product Video
+- Product Video **Exempt from this requirement per 3/11/2020 discussion)**
 
 ### Outcomes and artifact outputs
 - Receive feedback on the artifacts you created for Contact Center trainings
