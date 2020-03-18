@@ -10,6 +10,7 @@
 | Requirement | Ticket # |
 | --- | --- | 
 | User will be able to: | 
+| Navigate to the 10-10CG online application| n/a|
 | Start 10-10CG application online without logging in| 155|
 | Fill in all fields from the paper 10-10CG form | n/a
 | Ensure that all fields have been completed appropriately (data validation) | n/a
