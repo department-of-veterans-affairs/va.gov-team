@@ -1,6 +1,6 @@
 # Overview 
 
-`vets-website` has several parts that require ongoing maintenance and improvement. These platform parts are assigned a primary and a secondary engineer. 
+The VSP frontend team is responsible for several parts that require ongoing maintenance and improvement. These platform parts are assigned a primary and a secondary engineer. 
 
 This document describes the responsibilities of each of these roles and is intended for VSP frontend engineers and their leadership group. 
 
