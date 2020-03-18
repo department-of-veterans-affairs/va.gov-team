@@ -32,7 +32,7 @@ There are a handful of key goals for VSP Sprint Objectives:
     - Super Epic + description (with ZH hyperlink):
       - Sprint Objective A
       - Sprint Objective B
-- Sprint objective should be an actionble and measureable
+- Sprint objective should be actionble and measureable
 - They should usually be small enough that they won't stay the same every sprint for the next 3 sprints.
 - Link objectives to the epic or super epic they are a part of
 - Don't be _too_ ambitious in the volume and scope for the sprint, leave about 20% space for unexpected work or challenges.
