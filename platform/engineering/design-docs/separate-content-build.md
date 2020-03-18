@@ -6,6 +6,49 @@
 **Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler  
 
 
+## Table of Contents
+
+- [Separate Content Build](#separate-content-build)
+    - [Overview](#overview)
+        - [Objective](#objective)
+        - [Background](#background)
+            - [Build script](#build-script)
+            - [CI pipeline](#ci-pipeline)
+            - [Deployment](#deployment)
+            - [Pain points](#pain-points)
+        - [High Level Design](#high-level-design)
+    - [Specifics](#specifics)
+        - [Detailed Design](#detailed-design)
+            - [Build and deploy](#build-and-deploy)
+            - [Routing](#routing)
+            - [Testing changes to applications](#testing-changes-to-applications)
+            - [Miscellaneous](#miscellaneous)
+        - [Code Location](#code-location)
+        - [Testing Plan](#testing-plan)
+            - [Conslidated build script](#conslidated-build-script)
+            - [Forward proxy routing](#forward-proxy-routing)
+        - [Logging](#logging)
+        - [Debugging](#debugging)
+            - [Content](#content)
+                - [Build](#build)
+                - [Deploy](#deploy)
+            - [Application](#application)
+                - [Build](#build-1)
+                - [Deploy](#deploy-1)
+            - [Forward proxy routing](#forward-proxy-routing-1)
+        - [Caveats](#caveats)
+        - [Security Concerns](#security-concerns)
+        - [Privacy Concerns](#privacy-concerns)
+        - [Open Questions and Risks](#open-questions-and-risks)
+        - [Work Estimates](#work-estimates)
+        - [Alternatives](#alternatives)
+            - [Mono-repo](#mono-repo)
+            - [Single S3 bucket](#single-s3-bucket)
+        - [Future Work](#future-work)
+        - [Revision History](#revision-history)
+
+
+
 ## Overview
 
 ### Objective
