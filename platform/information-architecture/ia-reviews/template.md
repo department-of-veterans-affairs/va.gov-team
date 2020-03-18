@@ -1,4 +1,5 @@
 # IA Review and Recommendations
+**STATUS:**
 
 **Team:** 
 
@@ -6,7 +7,7 @@
 
 **Background/Context:**
 
-**Review Date:** 
+**IA Completed Date:** 
 
 **IA Review Issue:** 
 
@@ -16,11 +17,14 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
+- 
+
 
 Page | URL | Breadcrumb
 --- | --- | ---
 
 **General Details**
+- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
@@ -30,15 +34,25 @@ Page | URL | Breadcrumb
 Priority | Placement | Description
 --- | --- | ---
 
-The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
+***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
 
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
+- 
+
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+*For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
+
 
 <hr>
 
 ### Additional Notes/Recommendations
+
+<hr>
+<hr>
+
+### Meetings Notes and Background Info
+
