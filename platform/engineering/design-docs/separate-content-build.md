@@ -117,36 +117,37 @@ make an application live for the first time. The process will be to manually:
 ## Specifics
 
 ### Detailed Design
-_Coming soon!_
 
-<!--
-_Designs that are too detailed for the above High Level Design section belong
-here. Anything that will require a day or more of work to implement should be
-described here._
+#### Build and deploy
+- The content build will live in a separate repository
+  - **Question:** What should we call this?
+- **Question:** Can the application build be run in Circle?
+- **Question:** Where can we run the content build?
+- Content will be deployed to a separate S3 bucket from the application code
+- The S3 buckets will have versioned directories in them with the contents of
+  each deployment
+  - Old directories will be removed after 90 days
+    - **Question:** What makes sense? This is a totally arbitrary number
 
-_This is a great place to put APIs, communication protocols, file formats, and
-the like._
+#### Routing
+- The nginx will route their traffic based on some configuration file
+  - **Question:** What configuration file? How does it work?
 
-_It is important to include assumptions about what external systems will
-provide. For example if this system has a method that takes a user id as input,
-will your implementation assume that the user id is valid? Or if a method has a
-string parameter, does it assume that the parameter has been sanitized against
-injection attacks? Having such assumptions explicitly spelled out here before
-you start implementing increases the chances that misunderstandings will be
-caught by a reviewer before they lead to bugs or vulnerabilities. Please
-reference the external system's documentation to justify your assumption
-whenever possible (and if such documentation doesn't exist, ask the external
-system's author to document the behavior or at least confirm it in an email)._
+#### Testing changes to applications
+- The `webpack-dev-server` will create application landing pages for local
+  testing
+- The E2E tests in CI will run the `webpack-dev-server` to serve the site so
+  they have access to the landing pages
 
-_Here's an easy rule of thumb for deciding what to write here: Think of anything
-that would be a pain to change if you were requested to do so in a code review.
-If you put that implementation detail in here, you'll be less likely to be asked
-to change it once you've written all the code._
-
-NOTE: Don't forget about broken link validation with regard to links to
-application assets. Specifically, how the application assets live in a
-different location than the HTML files.
--->
+#### Miscellaneous
+- We need a separate content validation job that runs once a day on a schedule
+  - **Question:** How will we validate links to `vets-website` assets?
+  - **Question:** Where will this job be run? Jenkins? Nomad? Circle?
+- The application build will be responsible for creating the `settings.js`
+  - It's currently a step in the Metalsmith script
+- The landing pages to the applications will be created in the CMS
+- The CMS repo will no longer import `vets-website`, but rather the new content
+  build repo
 
 
 ### Code Location
