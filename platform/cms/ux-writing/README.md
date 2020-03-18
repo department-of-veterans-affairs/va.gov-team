@@ -9,7 +9,7 @@ Point of contact: Rachel Kauff, UX Writer, CMS team
 
 - CMS UX discovery
 
-- Product release notes
+- [Product release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/product-release-notes.md)
 
 - User guides
 
