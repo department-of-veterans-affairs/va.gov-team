@@ -11,8 +11,8 @@ Welcome to the Platform Contact Center Folder!
   * The contact center team is responsible for triaging and escalating bugs to the correct VFS team. This document outlines the process for notifying VFS team of a bug and the process and timelines for responding to a reported issue. 
 
 ## Key Documents
-- [VFS Monthly Contact Center Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics/contact-center/call-center-data)
-  * These reports compile contact center data across multiple VA contact centers and sysytems. 
+- [VFS Monthly Contact Center Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics/contact-center/contact-center-data)
+  * These reports compile contact center data across multiple VA contact centers and systems. 
 
 
 
