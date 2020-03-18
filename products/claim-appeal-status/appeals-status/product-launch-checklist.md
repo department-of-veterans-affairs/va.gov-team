@@ -18,12 +18,12 @@ We have created a logic so that a specific contact center number is shown on the
 
 - In the fall of 2017, Brianne Ogilvie, who at the time was in charge of the Board Call Center mentioned that the National Call Center will be taking over Board calls. Gina talked to Theo Casey (Theophilos.Casey@va.gov), the new POC for Board calls on March 6, 2018 and it looks like this has been delayed and will not be happening for a while. 
 - Denise Kitt (Denise.Kitts@va.gov) from the Veteran Experience team is working with the White House Call Center and is mentioned using the appeals status API for their current CRM tool.
-- More notes on [appeals status contact center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf).
+- More notes on [appeals status contact center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-contact-center.pdf).
 
 ## Material for Contact Centers
 
 - [YouTube Demo Video](https://youtu.be/q0Akgcvhp48)
-- [Appeal Status Guide for Contact Centers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+- [Appeal Status Guide for Contact Centers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-contact-center.pdf)
 - [Product Launch Email 1-Pager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/product-launch-email-appeal-status-v2.docx)
 
 ## Record of communication 

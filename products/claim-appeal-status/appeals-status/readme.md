@@ -72,8 +72,8 @@ ___
 
 ### Top resources
 
-- [Contact Center guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
-   - [Contact Center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+- [Contact Center guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-contact-center.pdf)
+   - [Contact Center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-contact-center.pdf)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/appeal-status-designs-and-features.md)
 - [Content](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/content)
 - [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/research)
