@@ -13,7 +13,7 @@
 
 ### Maintaining GitHub Teams 
 
-* Any new team members will need to be added to the `vagov-all-teams` GitHub team by a member of the Platform team as part of onboarding. This team will grant them base access to tools. New team members will not be allowed to join their *Verified GitHub Team* until after their SAC adjudication returns a “favorable” response. For more information about the approval process, please see the [request for tools documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers). 
+* Any new team members will need to be added to the `vfs-all-teams` GitHub team by a member of the Platform team as part of onboarding. This team will grant them base access to tools. New team members will not be allowed to join their *Verified GitHub Team* until after their SAC adjudication returns a “favorable” response. For more information about the approval process, please see the [request for tools documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers). 
 * Teams are responsible for adding and removing members from a *Verified GitHub Team*. 
     * Once approved, new team members, should be added by the *Verified GitHub Team’s* maintainers. 
     * If a team member leaves a *Verified GitHub Team* they need to be removed within three days of departing the team by one of the team’s maintainers and then: 
