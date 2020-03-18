@@ -48,11 +48,12 @@ Should | On page [Family member hub](https://www.va.gov/family-member-benefits/)
 ### Redirect Needs <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-Current page URL | Redirect to | Notes
---- | --- | ---
-www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/ | www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregiver/ | 
+- The existing PCAFC page in health care is being moved in the IA and will have a URL change. The old URL will need to be redirected to the new URL.  
 
-For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+
+For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
+
 
 <hr>
 
