@@ -263,12 +263,37 @@ The following estimates vary greatly depending on who's doing the work.
     - **Estimate:** < 1 hour
 
 ### Alternatives
-_This section contains alternative solutions to the stated objective, as well as
-explanations for why they weren't used. In the planning stage, this section is
-useful for understanding the value added by the proposed solution and why
-particular solutions were discarded. Once the system has been implemented, this
-section will inform readers of alternative solutions so they can find the best
-system to address their needs._
+
+#### Mono-repo
+The alternative to splitting out the content build into its own separate repo is
+to keep it in `vets-website`. The reasons we're not doing this are:
+- We're trying to reduce what `vets-website` is "in charge" of
+  - Building static content from the CMS and compiling application code are two
+    completely separate functions
+- We can have one CI pipeline per repository
+  - And they'll be more narrowly focused
+- We can manage dependencies independently
+  - All dependencies in the content build repo are not client-facing
+    - There _may_ be exceptions later
+  - It will be harder for an application to use be able to use a dependency that
+    wasn't intended to be client-facing
+
+#### Single S3 bucket
+Instead of deploying content to a separate S3 bucket from the applications, we
+could continue to deploy them both to the same bucket. We decided to split up
+the deployment to:
+- Promote a higher separation of concerns
+  - **Question:** Is this even a thing we should be worried about?
+- Enable simpler rollbacks
+  - **Question:** Is this valid?
+
+**Note to reviewers:** I spent a lot of time trying to figure out what
+independent deployment and independent rollback looked like on one bucket, but
+I'm just not experienced enough to have a good answer. I don't want to introduce
+unneeded complexity, but separating the output from each build seemed like the
+right approach. At this point, it's more hunch than anything and I very much
+would like to get feedback on this part from somebody with experience in the
+trenches.
 
 ### Future Work
 _Features you'd like to (or will need to) add but aren't required for the
