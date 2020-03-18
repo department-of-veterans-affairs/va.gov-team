@@ -56,7 +56,7 @@ If there’s a new error, investigate. If there’s an error that you feel you m
 
 ### Oncall support
 
-The oncall developer should handle normal oncall tasks, but may need some frontend support. Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
+The oncall developer may reach out to the frontend support dev to assist with troubleshooting frontend related issues. 
 
 ### Process improvement 
 
