@@ -289,6 +289,8 @@ You may be required to use a VA email address and/or access internal VA sites fo
     *   If you want to use your own, it needs to be TAA-compliant (https://www.amtgov.com/what-is-taa-compliance.html). The list changes, but countries that are currently NOT TAA-compliant include China, India, Indonesia, Iran, Malaysia, Pakistan, Russia, and Sri Lanka.
 *   On Mac, only Safari is supported for CAG (DO NOT use Chrome).
 *   I have found that on my system, in Safari, clicking on a Desktop in the Citrix StoreFront just downloads an “.ica” file (does not automatically run it); however, if you also click the downloaded file, that will launch the Citrix session.
+*   VA TMS Video Walkthrough: https://www.tms.va.gov/SecureAuth35/ \
+Search for 4523428 or “VA CAG Remote Access Connectivity Video Walkthrough.” The video has OS-specific screens and tips, including Mac.
 
 *   **GitHub: VA<span/>.gov | VSP | Accessing VA Network Without a VA Laptop** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/accessing-va-network-without-va-laptop.md \
