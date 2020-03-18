@@ -87,6 +87,9 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 - Is it necessary that the forms be PDFed and uploaded to eFolder? Need research.
 - TODO: Add more
 
+## Discovery Takeaways
+A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) was put together and a series of usability sessions was scehduled and conducted.  A resulting [summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-analysis.md) and more official readout can be found [here](https://dsva.slack.com/archives/CLY6Q69RV/p1583446780067800?thread_ts=1583352659.066300&cid=CLY6Q69RV).  More can also be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686#discovery-takeaways)
+
 ## Solution Approach
 
 - Connect with "Rainbows" team members about 686c research and findings
