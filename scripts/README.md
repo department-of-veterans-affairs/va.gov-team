@@ -7,7 +7,7 @@ This is the script to deprecate old files that have been moved over to va.gov-te
 
 | url | messagingToBeAdded |
 | --- | ------------------ |
-|https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/research-plan-template.md | This page is no longer maintained and likely outdated. Please see the most current research documentation in the va.gov-team repo.
+|https://github.com/department-of-veterans-affairs/vets.gov-team/platform/research/research-plan-template.md | This page is no longer maintained and likely outdated. Please see the most current research documentation in the va.gov-team repo.
 
 ### Script Location
 
@@ -30,7 +30,7 @@ This is the script to find old url's and replace it with the new url's in va.gov
 
 | oldUrl | newUrl |
 | ------ | ------ |
-| https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/research-plan-template.md | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md |
+| https://github.com/department-of-veterans-affairs/vets.gov-team/platform/research/research-plan-template.md | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md |
 
 ### Script Location
 

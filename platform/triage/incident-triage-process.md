@@ -61,7 +61,7 @@ During this time, the we will continue to communicate and share updates either i
 ## Step Five: Document 
 We do this via Post Mortems for significant issues, or simply by documenting the fix and closing the relevant ZenHub issue.
 
-Sometimes there will be a need for follow up work like adjusting test coverage in `vets-website` / `vets-api`, or adjusting documentation in `vets.gov-team` / `va.gov-team`.
+Sometimes there will be a need for follow up work like adjusting test coverage in `vets-website` / `vets-api`, or adjusting documentation in `va.gov-team`.
 
 ## Step Six: Communicate Resolution
 Mass email? Mass Slack update? Just updating the ZH issue and @ mentioning the original source? TBD

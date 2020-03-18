@@ -14,7 +14,6 @@ Veterans want to receive healthcare benefits that they're entitled to, but curre
 
 ## Points of Contact
 
-* Waffle: https://waffle.io/department-of-veterans-affairs/vets.gov-team?search=hca
 * Slack: #healthcare-app; #rainbows-team; #dragons-team
 
 |Name|Role|Email|

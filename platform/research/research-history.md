@@ -10,8 +10,6 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
-__Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
-
 ### March 2020
 
 #### March 4-6: Facility Locator User Search Expectations

@@ -20,6 +20,7 @@ The goal of the eFolder API is to allow unstructured documents to be directly up
 * related docs on Central Mail:
     https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/services/vba_documents/UnderstandingDocumentProcessing.md
 * https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/eFolder
+* https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/efolder
 
 ## Notes
 * Do we need to date stamp eFolder uploads, or is this already done by the gem?

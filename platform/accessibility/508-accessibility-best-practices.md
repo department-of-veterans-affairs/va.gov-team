@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # 508, Accessibility, and Inclusive Design Best Practices
 
 **Table of Contents**
