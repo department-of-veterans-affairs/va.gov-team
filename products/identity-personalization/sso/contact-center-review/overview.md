@@ -6,6 +6,7 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 - At least 4 weeks prior to launch or unmoderated testing for a brand new service, or at least 2 weeks prior to launch or unmoderated testing for a new feature in an existing service. The build on staging should be as complete and ready to launch as possible, but the priority is to begin this review with the required lead time (4 or 2 weeks).
 
 **Meeting: March 11, 2020 - 1:30pm-2pm**
+
 **Attendees:**
 - Chante Lantos-Swett
 - Alexis James
@@ -17,7 +18,7 @@ Ensure that VA contact center representatives are prepared to help Veterans trou
 
 ### Artifact inputs
 You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) for further instruction): 
-- Product Guide
+- [Product Guide] (products/identity-personalization/sso/contact-center-review/SSOe-product-guide.pdf)
 - Product Video **Exempt from this requirement per 3/11/2020 discussion)**
 
 ### Outcomes and artifact outputs
