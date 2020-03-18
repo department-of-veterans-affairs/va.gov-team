@@ -125,6 +125,8 @@ Prescribed MM/DD/YYYY
 [Warning alert inside card component] 
 You cannot order batteries for this device
 This device does not need battery resupply because it’s rechargeable.
+[Additional info component inside warning alert] Why can't I order batteries for this device?
+(content inside the 'Additional info' component)Rechargeable hearing aids do not use disposable batteries and must be recharged instead. If you are having trouble with charging your hearing aids, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 [Additional info component] What if I don't see my hearing aid?
 (content inside the 'Additional info' component)You'll need to contact your audiologist to update your record with additional devices
