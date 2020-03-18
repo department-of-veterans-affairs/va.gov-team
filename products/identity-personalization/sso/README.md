@@ -9,7 +9,7 @@ _Last updated February 2020_
 - Product PoCs: Lauren Alexanderson
 
 #### Team Members
-- Product: Ambika Roos
+- Product: Ambika Roos, Alexis James
 - UX: Bridget Hapner
 - Engineering: Patrick Vinograd, Eric Buckley, Dan Hinze
 
