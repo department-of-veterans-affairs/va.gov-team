@@ -50,7 +50,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 <hr>
 
-### Additional Notes/Recommendations
+### Additional Details/Recommendations
 
 <hr>
 <hr>
