@@ -1,4 +1,4 @@
-### Github Security Alerts Log
+# Github Security Alerts Log
 
 | Security Alert       | Client-facing | Alerted on   | Fixed on     | Comments                                                                                                                                               |
 |----------------------|--------------|--------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,3 +18,10 @@
 | growl                | no           | Oct 21, 2019 | Mar 17, 2020 | Dismissed. Used by mocha                                                                                                                               |
 | hoek                 | no           | Oct 21, 2019 | Mar 17, 2020 | Dismissed. Used by sntp, boom and hawk (all packages deprecated                                                                                        |
 | ecstatic             | no           | Oct&#160;21, 2019 | Mar&#160;17, 2020 | Dismissed. Used by http-server                                                                                                                         |                                                                                                                         |
+# Goals:
+
+- [x] Identify alerts that are client facing and resolve those first
+- [x] Figure out if we need to address the other issues
+- [x] Create a triage plan in work tracking tool (JIRA, GitHub Issues, etc.)
+- [x] If the vulnerability is acknowledged as will not fix, you can mark that in GitHub vulnerabilities page by clicking dismiss.
+- [x] Monitor email alerts for new security vulnerabilities and assign a first responder.
