@@ -43,5 +43,5 @@ You are able to view both the status of your order and your order history any ti
 [Primary blue button] View your order history
 
 What if I have questions about my order? (h3 utility)
-If you have any questions about your order please call the Denver Logistics Center at 303-273-6200.
+If you have any questions about your order please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
