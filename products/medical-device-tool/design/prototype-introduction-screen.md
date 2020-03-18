@@ -36,7 +36,7 @@ To place an order, you’ll need your:
 - Hearing aid information
 
 What if I need help with my order?
-If you need help ordering hearing aid batteries and accessories, you can contact the Denver Logistics Center (DLC) at 303-273-6200.
+If you need help ordering hearing aid batteries and accessories, you can call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 2. Place your order (h5 utility)
 Complete this hearing aid batteries and accessories order form. 
@@ -55,7 +55,7 @@ You will receive an email with an order tracking number 1-2 days after your orde
 You should receive your order within the timeframe indicated by the order tracking number.
 
 What if I have questions about my order?
-If you have questions about your order, you can contact the Denver Logistics Center (DLC) at 303-273-6200.
+If you have questions about your order, you can call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 [Primary green button] Order hearing aid batteries and accessories
 
@@ -108,7 +108,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 
 [Warning alert] You can’t place an order until MM/DD/YYYY (H4 utility)
 Our records show that none of your items are available for resupply until MM/DD/YYYY.
-If you need an item sooner, contact the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+If you need an item sooner, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
 
 ## Use case - Veteran is not eligible for the benefit
