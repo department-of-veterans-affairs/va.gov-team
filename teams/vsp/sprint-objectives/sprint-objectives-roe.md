@@ -4,13 +4,13 @@ There are a handful of key goals for VSP Sprint Objectives:
 
 `1.` Via the act of setting them, serve as a gut check that your prioritizations and the evolution of your features and services are in line with the strategic objectives of VSP overall. Every Super Epic should link to a VSP OKR using 'Releases' in Zenhub.
 
-Identify how you can measure the impact of your work leveraging hard metrics (when possible) so DEPO has clear success metrics.
+`2.` Identify how you can measure the impact of your work leveraging hard metrics (when possible) so DEPO has clear success metrics.
 
-`2.` Give DEPO an idea of what you'll be taking on and why (i.e. the impact you hope to achieve with that work) so they can provide feedback based on their priorities and based on other VA-wide info they may be aware of. 
+`3.` Give DEPO an idea of what you'll be taking on and why (i.e. the impact you hope to achieve with that work) so they can provide feedback based on their priorities and based on other VA-wide info they may be aware of. 
 
-`3.` Via transparency into our planning and status report, enable DEPO to perform their fiduciary (that's not the right word?) duty and pay us based on how well we fulfilled our commitments.
+`4.` Via transparency into our planning and status report, enable DEPO to perform their fiduciary (that's not the right word?) duty and pay us based on how well we fulfilled our commitments.
 
-`4.` Surface opportunities for cross-collaboration, and spur cross-team discussion where needed.
+`5.` Surface opportunities for cross-collaboration, and spur cross-team discussion where needed.
 
 ## How to brainstorm Sprint Objectives
 
