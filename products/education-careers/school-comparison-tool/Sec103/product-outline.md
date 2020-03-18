@@ -39,7 +39,7 @@ How might we use the GI Bill Comparison Tool to clearly indicate compliance by e
 - Beneficiary requests for updates on payment timing
 
 ## Assumptions
-- Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
