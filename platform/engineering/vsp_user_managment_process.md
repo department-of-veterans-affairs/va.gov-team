@@ -5,8 +5,8 @@
 ### Creating a GitHub Team 
 
 * Work with your DEPO, Tech, and Team Lead to change an existing team to meet the requirements below or [create](https://help.github.com/en/enterprise/2.19/admin/user-management/creating-teams) a *Verified GitHub Team* on VA.gov. 
-    * All *Verified GitHub Team* names should start with `vagov-` followed by the team name, which indicates the type of team this is. Examples of this are `vfs-*` (Veteran-facing Services) for teams working on an application or building tools and services on VA.gov.  Another is `vsp-*` (Veteran-facing Services Platform) for teams working on the platform supporting VFS teams. Examples would be `vagov-vsp-operations or `vagov-vfs-public-website`. If those two team types do not fit your team, work with the Platform team to create a logical team type prefix. 
-    * Select the team name after `vfs-*` or `vsp-*`, an example would be `vagov-vfs-[team name here]`, then choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
+    * All *Verified GitHub Team* names should start with a prefix that indicates the type of team this is. Examples of this are `vfs-*` (Veteran-facing Services) for teams working on an application, building tools, and/or services on VA.gov. Another is `vsp-*` (Veteran-facing Services Platform) for teams working on the platform supporting VFS teams. Examples would be `vsp-operations` or `vfs-public-website`. 
+    * Select the team name after `vfs-*` or `vsp-*`, an example would be `vfs-[team name here]`, then choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
     * Each GitHub team must have their DEPO lead as a Maintainer/Admin, who can add and remove users.    
     * Maintainers should add all members to the team including both engineers and nonengineers. 
 * Inform the VSP Platform Support and the VSP Operations team of any new GitHub team by posting in the #vfs-platform-support  channel. 
