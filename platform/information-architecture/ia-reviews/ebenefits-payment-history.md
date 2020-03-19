@@ -1,11 +1,11 @@
 # IA Review and Recommendations
-**STATUS:**
+**STATUS: NOT STARTED**
 
-**Team:** 
+**Team:** eBenefits 
 
-**Product/Featue:** 
+**Product/Featue:** View Payment History
 
-**Background/Context:**
+**Background/Context:**  Part of the eBenefits migration work.  
 
 **IA Completed Date:** 
 
@@ -57,3 +57,11 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**Kick-off 3/19/2020**
+- login and see payments issued to me, click on line item and see detail
+- data table that is returned, leaning towards table data
+- no transactional functionality, all just viewing data, may need some interactions i.e. sorting, pagination, filtering, etc
+- usability testing needed
+- VSP recommended looking at BAM2 order history work, as its tabular data,  as well Yellow Ribbon tool and Find forms
+- amount of data returned is and could be very large
+- 
