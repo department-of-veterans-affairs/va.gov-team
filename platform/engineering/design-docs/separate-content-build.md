@@ -60,10 +60,31 @@ the Veteran-facing Services Platform (VSP) and other Veteran-Facing Services
 (VFS) teams. Most directly affected is the Content Management System (CMS) team.
 
 ### Background
+VA.gov is composed of static content (`.html`), applications (`.js`), and
+styling (`.css`).
+
+Static content files are created from the **[Metalsmith build
+script](#build-script)**. Application bundles are created with Webpack.
+
+These builds are currently **orchestrated by the same build script.**
+
+The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
+whenever a commit is pushed to a branch in GitHub. On a branch, this build must
+be successful **before the branch can be merged.**
+
+The output of this build are **[deployed](#deployment) to and hosted from an AWS
+S3 bucket**. Applications are deployed on a weekdaily schedule. New content is
+deployed by a manual trigger from the CMS and by the weekdaily application
+deployment.
+
+The co-mingling of the content and application builds have [led to
+frustrations](#pain-points) for engineers, slower iteration cycles due to failed
+builds, and failed production deployments.
 
 #### Build script
-This [Metalsmith](https://github.com/segmentio/metalsmith) script does many
-things. The highlights include:
+[Metalsmith](https://github.com/segmentio/metalsmith) is a static content build
+pipeline orchestrator. `vets-website` uses it to manage the steps in the content
+build. The highlights of what this script does include:
 - Fetching static content from Drupal
 - Building static HTML pages from the content
 - Triggering Webpack to build JS and CSS bundles
