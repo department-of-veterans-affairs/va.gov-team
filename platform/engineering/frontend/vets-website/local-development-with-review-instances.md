@@ -25,3 +25,39 @@ If the build and deploy for the review instance hasn't completed yet, the script
 
 If the review instance is ready, you're free to make any changes to your build and see the results of interactions with the review instance API.
 
+## Troubleshooting
+
+### Login redirects to the review instance
+
+The login process currently redirects you back to the review instance home page instead of your local instance's.
+
+To enable the logged in session in your local build, go back to `http://localhost:3001` and in the browser console run:
+
+```
+localStorage.setItem('hasSession', true);
+```
+
+Refresh, and you should be logged in as the user you signed in with.
+
+### Logout redirects to staging.va.gov
+
+Logout redirects are not working at the moment, but your session should be signed out nonetheless. The redirects will be worked on.
+
+### Drupal/Liquid.js errors
+
+```
+TypeError: Cannot read property 'startDate' of undefined
+    at item.sort ({...}/vets-website/src/site/filters/liquid.js:242:30)
+    at Array.sort (native)
+    at liquid.filters.eventSorter.item ({...}/vets-website/src/site/filters/liquid.js:240:25)
+```
+
+An error in a Liquid filter typically suggests that you need to pull the latest content from Drupal. Run `NODE_ENV=production yarn build --buildtype=vagovstaging --pull-drupal` first.
+
+### SOCKS connection
+
+```
+FetchError: request to ... failed, reason: Socket closed
+```
+
+Restart your SOCKS connection. This may involve aborting your `ssh socks -D 2001 -N` process and running it again.
