@@ -1,126 +1,123 @@
 # Reviewing changes in feature branches
 
-We often need want to deploy changes from a branch or pull request, so that we can do additional testing and verification outside of local machine testing. We currently have two different ways of accomplishing this.
+If you need to do additional testing and verification outside of local machine testing, you can deploy changes from a branch or pull request (PR). Heroku instances allow you to test changes to static content on the frontend, while review instances allow you to view changes to services or applications on the backend.
 
-## VA.gov visual/content review
+## Reviewing visual or content changes to VA.gov
 
-If you're looking to test a front end change in a PR in vets-website, you can use a Heroku instance. Heroku instances are spun up for each PR; you'll see one linked in the PR with a url that looks something like https://vetsgov-pr-5306.herokuapp.com (first row):
+If you want to test a frontend change in a PR in vets-website, you can use a Heroku instance. Heroku instances allow you to review content or visual changes that affect static content on VA.gov. They also allow external stakeholders to view the changes. 
+
+Heroku instances are spun up for each PR. You can access the URL from the PR, which looks something like https://vetsgov-pr-number.herokuapp.com (first row):
 
 ![PR deployment list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/pr-deployment-list.png)
 
-These instances are public, but they only build the website part of VA.gov, not any of the React apps. They are also not connected to an API backend. 
+Heroku instances are public, but they only build the website part of VA.gov, not any of the React apps. They are also not connected to an API backend.
 
-Heroku instances are best used to review content or visual changes that affect static content on VA.gov, especially if those changes need to be viewed by external stakeholders.
-
-## Full application reviews
+## Reviewing full applications
 
 If you need to test a service or application on VA.gov, or a backend change, review instances are the best option. Review instances are a deployment of a combination of vets-api and vets-website at specified versions.
 
-Internal review instances are built by Jenkins (these have a url like http://71aaf141c9283eb0f29ded3b967a118c.review.vetsgov-internal) and are connected to an API backend (second row):
+Internal review instances are built by Jenkins (these have a URL like http://71aaf141c9283eb0f29ded3b967a118c.review.vetsgov-internal) and are connected to an API backend (second row):
 
 ![PR deployment list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/pr-deployment-list.png)
 
-These require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) so can not be reviewed by external stakeholders.
+These review instances require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md), which means they cannot be reviewed by external stakeholders.
 
-Review instances are created as part of a pull request for the vets-api or vets-website github repositories, but they can also be created manually by running a Jenkins job.
+Review instances are created as part of a pull request for the vets-api or vets-website GitHub repositories, but they can also be created manually by running a Jenkins job.
 
-### Automatic Creation
+### Automatic creation
 
-The Jenkinsfiles in vets-website and vets-api define a stage that triggers a review instance deployment. Opening a PR will trigger the CI process, which will generate a "GitHub Deployment" for the PR. A message on the PR will provide a link to the review instance.
+The Jenkins files in vets-website and vets-api define a stage that triggers a review instance deployment. Opening a PR will trigger the continuous integration (CI) process, which will generate a "GitHub Deployment" for the PR. A message on the PR will provide a link to the review instance.
 
-You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) documentation for detailed instructions.
+Make sure your browser is configured to access the vetsgov-internal domain via the SOCKS proxy. See the [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) documentation for detailed instructions.
 
-### Manual Creation
+### Manual creation
 
-1. Visit http://jenkins.vfs.va.gov/job/deploys/job/vets-review-instance-deploy/ and log in. 
-1. Select "Build with Parameters"
+If you made changes to branches in both vets-website and vets-api, and you want to test the changes together, you can manually trigger a build.
+
+1.	Visit http://jenkins.vfs.va.gov/job/deploys/job/vets-review-instance-deploy/ and log in. 
+1. Select "Build with Parameters."
 1. Specify the branch names for `api_branch` and `web_branch`. These branches will be deployed together with the review instance.
 1. When the process is completed, the URL for the review instance will be provided at the end of the output logs.
 
-### Access and Usage
+### Access and usage
 
-**NOTE:** This section is actively being worked on right now and these processes should get easier as time goes on. Some of these processes are extremely painful at the moment, but we are making the feature available in its rough form as these get worked out. The epic for this work can be found [here](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4617), please reach out to #vfs-platform-support for feature requests or questions.
-
-These instances are running on an independent virtual machine that includes an installation of both vets-api and vets-website with an nginx proxy in front getting requests to the right place.
-
-The web interface (vets-website) and API (vets-api) are available over HTTP behind the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
+Review instances run on an independent virtual machine on which both vets-api and vets-website are installed. A nginx proxy in the front end directs requests. The web interface (vets-website) and API (vets-api) are available over HTTP behind the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
 
 #### SSH
 
-The instances are accessible via SSH and code can be freely modified in place. See [Internal Tools Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#internal-tools-access) to get SSH access setup and authorized.
+The review instances are accessible via SSH and you can modify code and see the changes. See [Internal Tools Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#internal-tools-access) to set up SSH access.
 
-⚠️ Code is re-deployed on each commit which could result in lost changes local to the review instance ⚠️ 
+⚠️ Code is re-deployed on each commit which could result in lost changes local to the review instance. ⚠️ 
 
-In order to get connected, first retrieve the hostname of the instance:
+To connect, retrieve the hostname of the instance:
 
-- click the "Deployed" link in the GitHub deployment panel to get to the Jenkins job
-- click on "Console output" to view the provisioning task
-- search for "Review instance available at" on the page, which will give you the hostname string for SSH access
+- Click the "Deployed" link in the GitHub deployment panel to open the Jenkins job.
+- Click on "Console output" to view the provisioning task.
+- Search for "Review instance available at" on the page, which will give you the hostname string for SSH access.
 
-Once you have the hostname, login with: `ssh dsva@<hostname>`.
+Once you have the hostname, login with: `ssh dsva@<hostname>`
 
 #### Common tasks
 
-Both vets-website and vets-api processes are managed via Docker Compose. The code is stored in the `dsva` user's home directory. Below are some common things you may want to do in an SSH session on these instances.
+Both vets-website and vets-api processes are managed via Docker Compose. The code is stored in the `dsva` user's home directory. You might need to perform the following common tasks in a SSH session on the review instances.
 
 ##### vets-website
 
-Watch logs (use control-c to exit):
+- To view build and access logs for the development web server, enter the following command (enter Ctrl-C to exit):
 
-`cd ~/vets-website; docker-compose -f docker-compose.review.yml logs -f`
+   `cd ~/vets-website; docker-compose -f docker-compose.review.yml logs -f`
 
-This will include both build logs and access logs to the development web server running.
+   This will include both build logs and access logs to the development web server running.
 
-Rebuild vets-website after a code change:
+- To rebuild vets-website after modifying the code, enter the following command:
 
-`cd ~/vets-website; docker-compose -f docker-compose.review.yml restart vets-website`
+   `cd ~/vets-website; docker-compose -f docker-compose.review.yml restart vets-website`
 
-This will cause some downtime on the instance while the site is rebuilt. The website will return 502's until the build process is done and the server is started again. To check on the progress or troubleshoot if you suspect the build failed, use the command above to view logs.
+   **Note:** You will not be able to view the instance while the website is building. The website will return 502 errors until the build process finishes and the server restarts. To check progress or troubleshoot if you suspect the build failed, use the command above to view logs.
 
-Start a shell session in the build environment for troubleshooting:
+- To troubleshoot, start a shell session in the build environment using the following command:
 
-`cd ~/vets-website; docker-compose -f docker-compose.review.yml exec vets-website bash`
+   `cd ~/vets-website; docker-compose -f docker-compose.review.yml exec vets-website bash`
 
 
 ##### vets-api
 
-To force a restart of puma or sidekiq (after a code change for example):
+- To force a restart of Puma or Sidekiq, enter the following command:
 
-`cd ~/vets-api; docker-compose -f docker-compose.review.yml restart vets-api`
+   `cd ~/vets-api; docker-compose -f docker-compose.review.yml restart vets-api`
 
-On these instances, Puma is running with `RAILS_ENV=development` which does enable live-reloading of some files but not all.
+   On review instances, Puma is running with `RAILS_ENV=development`, which enables live-reloading of some files, but not all. This means that you will not be able to see some code changes until you force a restart. The `vets-api` service in the compose file includes both Puma and Sidekiq.
 
-Also note that this `vets-api` service in the compose file includes both Puma and Sidekiq
+- To view stdout of Puma or Sidekiq processes, enter the following command (enter Ctrl-C to exit):
 
-Watch stdout of Puma or Sidekiq processes (control-c to exit):
+   `cd ~/vets-api; docker-compose -f docker-compose.review.yml logs -f vets-api`
 
-`cd ~/vets-api; docker-compose -f docker-compose.review.yml logs -f vets-api`
+   **Notes:**
+   - Do not add `-f` if you only want to view the files one time.
+   - In development mode, vets-api does not log to stdout. It logs to log/development.log like it would on a local installation.
 
-Leave off the `-f` if you want just a one-time view of the files.
+- To rebuild the container and start over, enter the following command:
 
-In development mode vets-api is not logging to stdout, the file is at `log/development.log` like it would be on a local installation.
+   `cd ~/vets-api; docker-compose -f docker-compose.review.yml down -v; docker-compose -f docker-compose.review.yml up -d`
+   
+   Running this command results in downtime for the instance.
 
-Rebuild the container and start over (note that this results in downtime for the instance):
+- To open a Rails console, enter the following command:
 
-`cd ~/vets-api; docker-compose -f docker-compose.review.yml down -v; docker-compose -f docker-compose.review.yml up -d`
+   `cd ~/vets-api; docker-compose -f docker-compose.review.yml exec vets-api bundle exec rails c`
 
-Get a Rails console:
+- To get a bash shell in one of the containers, enter the following command:
 
-`cd ~/vets-api; docker-compose -f docker-compose.review.yml exec vets-api bundle exec rails c`
-
-Get a bash shell in one of the containers:
-
-`cd ~/vets-api; docker-compose -f docker-compose.review.yml exec vets-api bash`
+   `cd ~/vets-api; docker-compose -f docker-compose.review.yml exec vets-api bash`
 
 ### Cleanup
 
-These instances are destroyed when the non-master branch(es) they are related to are deleted or the instance is older than 7 days.
+The review instance is deleted when the non-master branch that a review instance is related to is deleted or when the instance is older than 7 days.
 
+## User authentication
 
-## User Authentication
+The review instance requires a special nginx configuration that intercepts the callback to the staging-api.va.gov server, and forwards the authentication information to the appropriate review instance. The information is mapped by the `RelayState` parameter, which is provided to the review instance vets-api config with the `REVIEW_INSTANCE_SLUG` environment variable).
+
+For implementation-specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_revproxy.conf.j2#L181-L203).
 
 ![Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/review_instance_login_sequence.png)
-
-The review instance requires a special nginx configuration that intercepts the callback to the staging-api.va.gov server, and forwards the authentication information to the appropriate review instance (mapped by the `RelayState` parameter, which is provided to the review instance vets-api config with the `REVIEW_INSTANCE_SLUG` environment variable).
-
-For implementation specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_revproxy.conf.j2#L181-L203).
