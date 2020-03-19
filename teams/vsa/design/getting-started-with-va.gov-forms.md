@@ -126,6 +126,8 @@ An legal memo addresses this situation.: “As long as the underlying, approved 
 
 For legal or regulatory content, however, we need to use judgment and be careful. Sometimes this might mean providing a plain language summary and the legal language in parentheses for reference. We’ve sometimes used this approach on the public website unauthenticated pages. For tools and authenticated experiences, you can use things like the “learn more” dropdown or modals to have plain language versions alongside legal definitions.
 
+You may need to get PRA approval or other kinds of approval if you are tweaking the form itself and/or adding fields. Contact Rachel Sauter at USDS for details. 
+
 ## The Form Design Process
 There are a few documents that have been written to help PMs and their teams structure how and when they do things when embarking on a form project for VA.gov: 
 
