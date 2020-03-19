@@ -22,7 +22,10 @@
   - Improve the navigation of the Decision Reviews area
 - The approach to meet these goals, is to follow the hub and spoke approach used in our benefit hubs.  This requires the content of the primary Decision Reviews page be converted into the standard benefit hub template, content is arranged into Get/Manage type spokes and left hand navigation is added into the content area for easier navigation. 
 
-**Visual site map:**  https://app.moqups.com/Rnc4BDEKrA/view/page/ada8690dd
+
+**Visual site map**  
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0e304315-d73a-4fbc-a09c-bff26b82faf0)
 
 
 **URLs & Breadcrumbs** <br>
