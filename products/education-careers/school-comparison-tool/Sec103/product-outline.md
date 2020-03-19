@@ -1,4 +1,5 @@
-# Product Outline Template
+# Product Outline: Public Law Sec 103 Update
+## Veterans Benefits and Transition Act of 2018 - PL 115-407 Sec 103
 
 #### Communications
 - Team Name: Booz Allen
