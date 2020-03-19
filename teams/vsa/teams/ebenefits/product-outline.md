@@ -28,6 +28,8 @@
   - [My Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
    A simple view task that displays the payment and return history between a Veteran and the VA.
   _Features found in the product folder (as opposed to the eBenefits Team folder) are further along in the developemnt and approval process.)
+  - [View and update my representative/POA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
+  A simple view task that displays the Veterans representative and form process for modifications.
 
 # Implementation Information
 - [Status](#status)
