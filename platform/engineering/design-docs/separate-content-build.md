@@ -137,7 +137,8 @@ for more details.
 - When their applications have nothing to with the CMS
 - It **requires either SOCKS proxy access** or the `npm run fetch-drupal-cache`
   command, which isn't obvious
-- **Application deployments fail** when content in the CMS is invalid
+- **Application deployments and PR builds fail** when content in the CMS is
+  invalid
   - This includes broken links and accessibility violations
   - We have a safeguard that mostly works; if we run into a failure using the
     latest CMS content, we try again with the cached content in S3 from the last
