@@ -1,145 +1,145 @@
-﻿Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes
+﻿Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes,,
 ,caution_flag,"(1) accreditation_action CSV column action_description and accreditation_action CSV column justification_description
 (2) mou
 (3) n/a
 (4) settlement CSV column settlement_description
-(5) hcms CSV column hcm_reason","1) accreditation_institute_campus CSV column ope6 then ope
-(2) mou CSV column ope6
+(5) hcms CSV column hcm_reason","(1) accreditation_institute_campus CSV column opeid
+(2) mou CSV column 'ope id'
 (3) n/a
-(4) settlement CSV column cross
-(5) hcms CSV column ope6","For each of these creates a caution_flags row linked to institutions by a foreign_key
-(1) Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
+(4) settlement CSV column unitid to weam CSV column ipeds
+(5) hcms CSV column 'ope id'","For each of these creates a caution_flags row linked to institutions by a foreign_key
+1) Set value by joining on accreditation_institute_campus CSV column opeid.
     Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
     We include only those accreditation that are institutional and currently active.
-(2) Value is ""DoD Probation For Military Tuition Assistance""
-(3) If sec_702 CSV columen sec_702 is false then ""Does Not Offer Required In-State Tuition Rates""
-(4) Value is ""<list of relevant descriptions from settlement CSV>""
-(5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)"""
-,books,"(1) ipeds_ic_ay
-(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
-(2) ipeds_ic_pie CSV column cross","(1) n/a
-(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
-,tuition_in_state,"(1) ipeds_ic_ay
-(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
-(2) ipeds_ic_pie CSV column cross","(1) n/a
-(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
-,tuition_out_of_state,"(1) ipeds_ic_ay
-(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
-(2) ipeds_ic_pie CSV column cross","(1) n/a
-(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
-,accreditation_status,accreditation_action CSV column action_description, accreditation_institute_campus CSV column ope6 then ope,"Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
+2) Value is ""DoD Probation For Military Tuition Assistance""
+3) If sec702 CSV columen sec702 is false then ""Does Not Offer Required In-State Tuition Rates""
+4) Value is ""<list of relevant descriptions from settlement CSV>""
+5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)""",,
+,books,"1) ipeds_ic_ay
+2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
+2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg4ay3
+2) If no value from step 1 set value to ipeds_ic_py CSV column chg4py3",,
+,tuition_in_state,"1) ipeds_ic_ay
+2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
+2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg2ay3
+2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
+,tuition_out_of_state,"1) ipeds_ic_ay
+2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
+2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg3ay3
+2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
+,accreditation_status,accreditation_action CSV column action_description,accreditation_institute_campus CSV column opeid,"Set value by joining on accreditation_institute_campus CSV column opeid.
 Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
-We include only those accreditation that are institutional and currently active."
-,accreditation_type,accreditation_record, accreditation_institute_campus CSV column ope6 then ope,"Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
-We include only those accreditation that are institutional and currently active.
-Set the accreditation_type according to the hierarchy hybrid < national < regional."
-student_count,gibill,arf_gi_bill,weam CSV column facility_code,
-complaints object (remove complaints_ to find),complaints_accreditation_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""accreditation"""
-complaints object (remove complaints_ to find),complaints_accreditation_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""accreditation"""
-complaints object (remove complaints_ to find),complaints_credit_transfer_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer"""
-complaints object (remove complaints_ to find),complaints_credit_transfer_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer"""
-complaints object (remove complaints_ to find),complaints_degree_requirements_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""degree"""
-complaints object (remove complaints_ to find),complaints_degree_requirements_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""degree"""
-complaints object (remove complaints_ to find),complaints_facility_code,complaint,complaint CSV column facility_code,Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains any words
-complaints object (remove complaints_ to find),complaints_financial_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""financial"""
-complaints object (remove complaints_ to find),complaints_financial_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""financial"""
-complaints object (remove complaints_ to find),complaints_grades_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""grade"""
-complaints object (remove complaints_ to find),complaints_grades_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""grade"""
-complaints object (remove complaints_ to find),complaints_job_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""job"""
-complaints object (remove complaints_ to find),complaints_jobs_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""job"""
-complaints object (remove complaints_ to find),complaints_main_campus_roll_up,complaint,complaint CSV column ope6,Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains any words
-complaints object (remove complaints_ to find),complaints_marketing_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""recruit"""
-complaints object (remove complaints_ to find),complaints_marketing_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""recruit"""
-complaints object (remove complaints_ to find),complaints_other_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""other"""
-complaints object (remove complaints_ to find),complaints_other_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""other"""
-complaints object (remove complaints_ to find),complaints_quality_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""quality"""
-complaints object (remove complaints_ to find),complaints_quality_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""quality"""
-complaints object (remove complaints_ to find),complaints_refund_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""refund"""
-complaints object (remove complaints_ to find),complaints_refund_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""refund"""
-complaints object (remove complaints_ to find),complaints_student_loans_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""loans"""
-complaints object (remove complaints_ to find),complaints_student_loans_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""loans"""
-complaints object (remove complaints_ to find),complaints_transcript_by_fac_code,complaint,complaint CSV column facility_code,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer"""
-complaints object (remove complaints_ to find),complaints_transcript_by_ope_id_do_not_sum,complaint,complaint CSV column ope6,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer"""
-links object as scorecard,cross,crosswalk,weam CSV column facility_code,
-,ope,crosswalk,weam CSV column facility_code,
-,ope6,crosswalk,weam CSV column facility_code,
-school_system_code,f1syscod,ipeds_hd,ipeds_hd CSV column cross,
-school_system_name,f1sysnam,ipeds_hd,ipeds_hd CSV column cross,
-alias,ialias,ipeds_hd,ipeds_hd CSV column cross,
-links object as vet_website_link,vet_tuition_policy_url,ipeds_hd,ipeds_hd CSV column cross,
-,calendar,ipeds_ic,ipeds_ic CSV column cross,
-,credit_for_mil_training,ipeds_ic,ipeds_ic CSV column cross,
-,online_all,ipeds_ic,ipeds_ic CSV column cross,
-,soc_member,ipeds_ic,ipeds_ic CSV column cross,
-,student_vet_grp_ipeds,ipeds_ic,ipeds_ic CSV column cross,
-,vet_poc,ipeds_ic,ipeds_ic CSV column cross,
-,dodmou,mou,mou CSV column ope6,
-,created_at,n/a,n/a,"This is timestamp generated at the time ""Generate New Preview Version"" is clicked"
-,eight_keys,n/a,eight_key CSV column cross,Value is true if eight_key CSV column cross is not null
-,id,n/a,n/a,Generate by postgresql on insert into the database
-,stem_offered,n/a,ipeds_cip_code CSV column cross,Sets value to true if institutions cross column is not null and ipeds_cip_code CSV column ctotalt is greater than zero and there is a row in stem_cip_code CSV with the same value as the ipeds_cip_code CSV column cipcode
-,student_veteran,n/a,sva CSV column cross,Value is true if sva CSV column cross is not null
-,updated_at,n/a,n/a,"This is timestamp generated at the time ""Generate New Preview Version"" is clicked"
-,version,n/a,n/a,"This is a value determined by the number of times ""Generate New Preview Version"" has been clicked in an environment"
-,graduation_rate_veteran,outcome,outcome CSV column facility_code,
-,persistance_rate_veteran_ba,outcome,outcome CSV column facility_code,
-,persistance_rate_veteran_otb,outcome,outcome CSV column facility_code,
-,retention_rate_veteran_ba,outcome,outcome CSV column facility_code,
-,retention_rate_veteran_otb,outcome,outcome CSV column facility_code,
-,transfer_out_rate_veteran,outcome,outcome CSV column facility_code,
-,p911_recipients,p911_tf,weam CSV column facility_code,
-,p911_tuition_fees,p911_tf,weam CSV column facility_code,
-,p911_yellow_ribbon,p911_yr,weam CSV column facility_code,
-,p911_yr_recipients,p911_yr,weam CSV column facility_code,
-,school_closing,school_closure,school_closure CSV column facility_code,
-,school_closing_message,school_closure,school_closure CSV column facility_code,
-,school_closing_on,school_closure,school_closure CSV column facility_code,
-,avg_stu_loan_debt,scorecard,scorecard CSV column cross,
-,graduation_rate_all_students,scorecard,scorecard CSV column cross,
-links object as website,insturl,scorecard,scorecard CSV column cross,
-,locale,scorecard,scorecard CSV column cross,
-,pred_degree_awarded,scorecard,scorecard CSV column cross,
-,repayment_rate_all_students,scorecard,scorecard CSV column cross,
-,retention_all_students_ba,scorecard,scorecard CSV column cross,
-,retention_all_students_otb,scorecard,scorecard CSV column cross,
-,salary_all_students,scorecard,scorecard CSV column cross,
-,undergrad_enrollment,scorecard,scorecard CSV column cross,
-,sec_702,sec702,sec702 CSV column state,"When overlapping, sec_702 data from sec702_schools has precedence over data from sec702_schools, and only approved public schools can be SEC 702 complaint."
-,student_veteran_link,sva,sva CSV column cross,
-vet_success_email,vetsuccess_email,vsoc,weam CSV column facility_code,
-vet_success_name,vetsuccess_name,vsoc,weam CSV column facility_code,
-,accredited,weam,weam CSV column facility_code,where weam database column approved is true
-,address_1,weam,weam CSV column facility_code,where weam database column approved is true
-,address_2,weam,weam CSV column facility_code,where weam database column approved is true
-,address_3,weam,weam CSV column facility_code,where weam database column approved is true
-,bah,weam,weam CSV column facility_code,where weam database column approved is true
-,city,weam,weam CSV column facility_code,where weam database column approved is true
-,correspondence,weam,weam CSV column facility_code,where weam database column approved is true
-,country,weam,weam CSV column facility_code,where weam database column approved is true
-,distance_learning,weam,weam CSV column facility_code,where weam database column approved is true
-,dod_bah,weam,weam CSV column facility_code,where weam database column approved is true
-,facility_code,weam,weam CSV column facility_code,where weam database column approved is true
-,flight,weam,weam CSV column facility_code,where weam database column approved is true
-,independent_study,weam,weam CSV column facility_code,where weam database column approved is true
-name,institution,weam,weam CSV column facility_code,where weam database column approved is true
-type,institution_type_name,weam,weam CSV column facility_code,where weam database column approved is true
-,online_only,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_address_1,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_address_2,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_address_3,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_city,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_country,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_state,weam,weam CSV column facility_code,where weam database column approved is true
-,physical_zip,weam,weam CSV column facility_code,where weam database column approved is true
-,poe,weam,weam CSV column facility_code,where weam database column approved is true
-,priority_enrollment,weam,weam CSV column facility_code,where weam database column approved is true
-,state,weam,weam CSV column facility_code,where weam database column approved is true
-,va_highest_degree_offered,weam,weam CSV column facility_code,where weam database column approved is true
-,yr,weam,weam CSV column facility_code,where weam database column approved is true
-,zip,weam,weam CSV column facility_code,where weam database column approved is true
-,approval_status,,,
-,complaints_credit_job_by_fac_code,,,
-,transfer_out_rate_all_students,,,
-,complies_with_sec_103,sec103,sec103 CSV column facility_code,
-,solely_requires_coe,sec103,sec103 CSV column facility_code,
-,requires_coe_and_criteria,sec103,sec103 CSV column facility_code,
+We include only those accreditation that are institutional and currently active.",,
+,accreditation_type,accreditation_record,accreditation_institute_campus CSV column opeid,"Set value by joining on accreditation_institute_campus CSV column opeid.
+Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
+We include only those accreditation that are institutional and currently active.",,
+student_count,gibill,arf_gi_bill,arf_gi_bill CSV column 'facility no.',,,
+complaints object (remove complaints_ to find),complaints_accreditation_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""accreditation""",,
+complaints object (remove complaints_ to find),complaints_accreditation_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""accreditation""",,
+complaints object (remove complaints_ to find),complaints_credit_transfer_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer""",,
+complaints object (remove complaints_ to find),complaints_credit_transfer_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer""",,
+complaints object (remove complaints_ to find),complaints_degree_requirements_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""degree""",,
+complaints object (remove complaints_ to find),complaints_degree_requirements_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""degree""",,
+complaints object (remove complaints_ to find),complaints_facility_code,complaint,complaint CSV column 'facility code',Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains any words,,
+complaints object (remove complaints_ to find),complaints_financial_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""financial""",,
+complaints object (remove complaints_ to find),complaints_financial_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""financial""",,
+complaints object (remove complaints_ to find),complaints_grades_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""grade""",,
+complaints object (remove complaints_ to find),complaints_grades_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""grade""",,
+complaints object (remove complaints_ to find),complaints_job_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""job""",,
+complaints object (remove complaints_ to find),complaints_jobs_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""job""",,
+complaints object (remove complaints_ to find),complaints_main_campus_roll_up,complaint,complaint CSV column opeid,Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains any words,,
+complaints object (remove complaints_ to find),complaints_marketing_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""recruit""",,
+complaints object (remove complaints_ to find),complaints_marketing_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""recruit""",,
+complaints object (remove complaints_ to find),complaints_other_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""other""",,
+complaints object (remove complaints_ to find),complaints_other_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""other""",,
+complaints object (remove complaints_ to find),complaints_quality_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""quality""",,
+complaints object (remove complaints_ to find),complaints_quality_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""quality""",,
+complaints object (remove complaints_ to find),complaints_refund_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""refund""",,
+complaints object (remove complaints_ to find),complaints_refund_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""refund""",,
+complaints object (remove complaints_ to find),complaints_student_loans_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""loans""",,
+complaints object (remove complaints_ to find),complaints_student_loans_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""loans""",,
+complaints object (remove complaints_ to find),complaints_transcript_by_fac_code,complaint,complaint CSV column 'facility code',"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer""",,
+complaints object (remove complaints_ to find),complaints_transcript_by_ope_id_do_not_sum,complaint,complaint CSV column opeid,"Value is equal to the number of rows in complaint CSV that have the institution's facility_code and that its issues column contains the word  ""transfer""",,
+links object as scorecard,cross,crosswalk,crosswalk CSV column 'facility code',,,
+,ope,crosswalk,crosswalk CSV column 'facility code',,,
+,ope6,crosswalk,crosswalk CSV column 'facility code',,,
+school_system_code,f1syscod,ipeds_hd,ipeds_hd CSV column unitid to weam CSV column ipeds,,,
+school_system_name,f1sysnam,ipeds_hd,ipeds_hd CSV column unitid to weam CSV column ipeds,,,
+alias,ialias,ipeds_hd,ipeds_hd CSV column unitid to weam CSV column ipeds,,,
+links object as vet_website_link,vet_tuition_policy_url,ipeds_hd,ipeds_hd CSV column unitid to weam CSV column ipeds,,,
+,calendar,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,credit_for_mil_training,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,online_all,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,soc_member,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,student_vet_grp_ipeds,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,vet_poc,ipeds_ic,ipeds_ic CSV column unitid to weam CSV column ipeds,,,
+,dodmou,mou,mou CSV column 'ope id',,,
+,created_at,n/a,n/a,"This is timestamp generated at the time ""Generate New Preview Version"" is clicked",,
+,eight_keys,n/a,eight_key CSV column ipeds id to weam CSV column ipeds,Value is true if eight_key CSV column ipeds id is not null,,
+,id,n/a,n/a,Generate by postgresql on insert into the database,,
+,stem_offered,n/a,ipeds_cip_code CSV column unitid to weam CSV column ipeds,Sets value to true if weams ipeds column is not null and ipeds_cip_code CSV column ctotalt is greater than zero and there is a row in stem_cip_code CSV with the same value in CSV column '2010 cip code' as the ipeds_cip_code CSV column cipcode,,
+,student_veteran,n/a,sva CSV column ipeds_6 to weams CSV column ipeds,Value is true if sva CSV column ipeds_6 is not null,,
+,updated_at,n/a,n/a,"This is timestamp generated at the time ""Generate New Preview Version"" is clicked",,
+,version,n/a,n/a,"This is a value determined by the number of times ""Generate New Preview Version"" has been clicked in an environment",,
+,graduation_rate_veteran,outcome,outcome CSV column va_facility_code,,,
+,persistance_rate_veteran_ba,outcome,outcome CSV column va_facility_code,,,
+,persistance_rate_veteran_otb,outcome,outcome CSV column va_facility_code,,,
+,retention_rate_veteran_ba,outcome,outcome CSV column va_facility_code,,,
+,retention_rate_veteran_otb,outcome,outcome CSV column va_facility_code,,,
+,transfer_out_rate_veteran,outcome,outcome CSV column va_facility_code,,,
+,p911_recipients,p911_tf,p911_tf CSV column 'facility code',,,
+,p911_tuition_fees,p911_tf,p911_tf CSV column 'facility code',,,
+,p911_yellow_ribbon,p911_yr,p911_yr CSV column 'facility code',,,
+,p911_yr_recipients,p911_yr,p911_yr CSV column 'facility code',,,
+,school_closing,school_closure,school_closure CSV column facility_code,,,
+,school_closing_message,school_closure,school_closure CSV column facility_code,,,
+,school_closing_on,school_closure,school_closure CSV column facility_code,,,
+,avg_stu_loan_debt,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,graduation_rate_all_students,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+links object as website,insturl,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,locale,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,pred_degree_awarded,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,repayment_rate_all_students,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,retention_all_students_ba,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,retention_all_students_otb,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,salary_all_students,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,undergrad_enrollment,scorecard,scorecard CSV column unitid to weam CSV column ipeds,,,
+,sec_702,sec702,sec702 CSV column state,"When overlapping, sec_702 data from sec702_schools has precedence over data from sec702_schools, and only approved public schools can be SEC 702 complaint.",,
+,student_veteran_link,sva,sva CSV column ipeds_6 to weams CSV column ipeds,,,
+vet_success_email,vetsuccess_email,vsoc,weam CSV column 'facility code',,,
+vet_success_name,vetsuccess_name,vsoc,weam CSV column 'facility code',,,
+,accredited,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,address_1,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,address_2,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,address_3,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,bah,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,city,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,correspondence,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,country,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,distance_learning,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,dod_bah,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,facility_code,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,flight,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,independent_study,weam,weam CSV column 'facility code',where weam database column approved is true,,
+name,institution,weam,weam CSV column 'facility code',where weam database column approved is true,,
+type,institution_type_name,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,online_only,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_address_1,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_address_2,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_address_3,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_city,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_country,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_state,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,physical_zip,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,poe,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,priority_enrollment,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,state,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,va_highest_degree_offered,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,yr,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,zip,weam,weam CSV column 'facility code',where weam database column approved is true,,
+,approval_status,,,,,
+,complaints_credit_job_by_fac_code,,,,,
+,transfer_out_rate_all_students,,,,,
+,complies_with_sec_102,sec103,sec103 CSV column facility_code,,,
+,solely_requires_coe,sec103,sec103 CSV column facility_code,,sec103 CSV column facility_code,
+,requires_coe_and_criteria,sec103,sec103 CSV column facility_code,,sec103 CSV column facility_code,
