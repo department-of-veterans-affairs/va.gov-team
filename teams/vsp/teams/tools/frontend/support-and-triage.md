@@ -42,6 +42,8 @@ Support requests include every interaction you have with a VSF team member. Even
 
 ### Sentry errors
 
+Production website Sentry errors should be reviewed at least once a rotation and up to weekdaily as time permits. 
+
 Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the #vfs-sentry-alerts channel.
 The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
 * First occurence of an issue
