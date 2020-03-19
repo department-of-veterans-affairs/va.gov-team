@@ -1,32 +1,32 @@
 ﻿Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes
-,caution_flag,"1) accreditation_action CSV column action_description and accreditation_action CSV column justification_description
-2) mou
-3) n/a
-4) settlement CSV column settlement_description
-5) hcms CSV column hcm_reason","1) accreditation_institute_campus CSV column ope6 then ope
-2) mou CSV column ope6
-3) n/a
-4) settlement CSV column cross
-5) hcms CSV column ope6","For each of these creates a caution_flags row linked to institutions by a foreign_key
-1) Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
+,caution_flag,"(1) accreditation_action CSV column action_description and accreditation_action CSV column justification_description
+(2) mou
+(3) n/a
+(4) settlement CSV column settlement_description
+(5) hcms CSV column hcm_reason","1) accreditation_institute_campus CSV column ope6 then ope
+(2) mou CSV column ope6
+(3) n/a
+(4) settlement CSV column cross
+(5) hcms CSV column ope6","For each of these creates a caution_flags row linked to institutions by a foreign_key
+(1) Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
     Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
     We include only those accreditation that are institutional and currently active.
-2) Value is ""DoD Probation For Military Tuition Assistance""
-3) If sec_702 CSV columen sec_702 is false then ""Does Not Offer Required In-State Tuition Rates""
-4) Value is ""<list of relevant descriptions from settlement CSV>""
-5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)"""
-,books,"1) ipeds_ic_ay
-2) ipeds_ic_pie","1) ipeds_ay CSV column cross
-2) ipeds_ic_pie CSV column cross","1) n/a
-2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
-,tuition_in_state,"1) ipeds_ic_ay
-2) ipeds_ic_pie","1) ipeds_ay CSV column cross
-2) ipeds_ic_pie CSV column cross","1) n/a
-2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
-,tuition_out_of_state,"1) ipeds_ic_ay
-2) ipeds_ic_pie","1) ipeds_ay CSV column cross
-2) ipeds_ic_pie CSV column cross","1) n/a
-2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
+(2) Value is ""DoD Probation For Military Tuition Assistance""
+(3) If sec_702 CSV columen sec_702 is false then ""Does Not Offer Required In-State Tuition Rates""
+(4) Value is ""<list of relevant descriptions from settlement CSV>""
+(5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)"""
+,books,"(1) ipeds_ic_ay
+(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
+(2) ipeds_ic_pie CSV column cross","(1) n/a
+(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
+,tuition_in_state,"(1) ipeds_ic_ay
+(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
+(2) ipeds_ic_pie CSV column cross","(1) n/a
+(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
+,tuition_out_of_state,"(1) ipeds_ic_ay
+(2) ipeds_ic_pie","(1) ipeds_ay CSV column cross
+(2) ipeds_ic_pie CSV column cross","(1) n/a
+(2) If no value from step 1 set value to ipeds_ic_pie CSV equivalent column"
 ,accreditation_status,accreditation_action CSV column action_description, accreditation_institute_campus CSV column ope6 then ope,"Set value by joining on accreditation_institute_campus CSV column ope6 for more broad match, then accreditation_institute_campus CSV column ope for a more specific match because not all institutions have a unique ope provided.
 Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
 We include only those accreditation that are institutional and currently active."
@@ -104,8 +104,7 @@ links object as website,insturl,scorecard,scorecard CSV column cross,
 ,retention_all_students_otb,scorecard,scorecard CSV column cross,
 ,salary_all_students,scorecard,scorecard CSV column cross,
 ,undergrad_enrollment,scorecard,scorecard CSV column cross,
-,sec_702,sec702,sec702 CSV column state,"When overlapping, sec_702 data from sec702_schools has precedence over data from sec702_schools, and only approved public schools can be SEC 702 complaint.
-"
+,sec_702,sec702,sec702 CSV column state,"When overlapping, sec_702 data from sec702_schools has precedence over data from sec702_schools, and only approved public schools can be SEC 702 complaint."
 ,student_veteran_link,sva,sva CSV column cross,
 vet_success_email,vetsuccess_email,vsoc,weam CSV column facility_code,
 vet_success_name,vetsuccess_name,vsoc,weam CSV column facility_code,
