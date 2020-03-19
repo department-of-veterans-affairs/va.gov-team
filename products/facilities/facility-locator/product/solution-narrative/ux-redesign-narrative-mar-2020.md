@@ -48,3 +48,18 @@ When urgent care pharmacies are again visible from the VA facility type dropdown
 During QA of Urgent Care MVP Phase 1, it was discovered that the results summary subhead updated prematurely. In addition to this bug, the number of search results were incorrect for any PPMS (community care) related searches. Although not ideal, the decision was made to hide the subhead for all Facility Locator searches, regardless of Facility type. The goal is to prevent user confusion from the incorrect search summary and to provide a consistent Veteran experience. This is intended to be temporary, until the root cause(s) for the issue(s) can be addressed. 
 
 [Hidden subhead](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/hidden%20subhead.png)
+
+### Post-MVP
+
+Although this narrative outlines the changes made as part of the Urgent Care MVP release, there are outstanding issues in the backlog which will further improve the Veteran experience, including: 
+
+- "No service type found" notification
+- Addition of "you are here" indicator 
+- Correlation between map pin and cards in search results
+- Phone number display bug
+- Hours of operation for cemeteries bug
+- 508 Accessibility issues
+
+Other search improvements will be forthcoming, following user research conducted in March 2020 
+
+
