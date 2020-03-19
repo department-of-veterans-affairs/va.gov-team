@@ -1,12 +1,12 @@
-# Support and Triage rotation 
+# Support and Triage rotation (Frontend support dev)
 
 ## Overview 
 
-Supporting VSA teams requires a cohesive and well-coordinated experience. The frontend tools team assigns responsibility for this work to a VSP front end engineer on a weekly rotation. This document summarizes the responsibilities of this role and how the rotation works. 
+Supporting VSA teams requires a cohesive and well-coordinated experience. The frontend tools team assigns responsibility for this work to a VSP front end engineer (frontend support dev) on a weekly rotation. This document summarizes the responsibilities of this role and how the rotation works. 
 
 ## Rotation 
 
-The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, around 9am - 5pm Eastern but persons residing on the west coast may start as late as noon). During that time, the responsibilities listed below are that developer's primary responsibility. 
+The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, around noon - 5pm Eastern). During that time, the responsibilities listed below are that developer's primary responsibility. 
 
 The rotation schedule can be found [here](https://dsva.pagerduty.com/schedules#PIDMJAN).
 
@@ -26,15 +26,11 @@ During the sprint, you should monitor the following Slack groups for issues:
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
 
-## Dependabot upgrades 
-
-As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
-
-## Pull requests 
+### Pull requests 
 
 Ensure that no pull requests have been waiting on the @department-of-veterans-affairs/frontend-review-group more than 24 hours for a response. This includes follow-ups to reviews. When possible, rely on other FE team members to do PR reviews (e.g. ask for a volunteer and assign the PR to them).
 
-## Support requests
+### Support requests
 
 Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
 
@@ -44,7 +40,9 @@ Support requests include every interaction you have with a VSF team member. Even
 - Summarize any solutions and failed attempts so the issue can be referred to again in the future if necessary. 
 - If other team members are involved, add them to the ticket.
 
-## Sentry errors
+### Sentry errors
+
+Production website Sentry errors should be reviewed at least once a rotation and up to weekdaily as time permits. 
 
 Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the #vfs-sentry-alerts channel.
 The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
@@ -53,17 +51,21 @@ The #vfs-sentry-alerts channel is configured to receive alerts that meet one of 
 
 If there’s a new error, investigate. If there’s an error that you feel you might be able to fix, start a PR and try. If you need some help, ask for it. The goal is to reduce the number of repeated errors over time so the sentry log is only new, “real” issues.
 
-## Documentation
+### Documentation
 
 - Update documentation when resolving support requests. Ideally we have documentation we can link to when resolving support requests. 
 - The backlog has many issues tagged with _documentation_ that can be addressed. 
 
-## Oncall support
+### Oncall support
 
-The oncall developer should handle normal oncall tasks, but may need some frontend support. Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
+The oncall developer may reach out to the frontend support dev to assist with troubleshooting frontend related issues. 
 
-## Process improvement 
+### Process improvement 
 
-At the end of the rotation, there will be a short handoff meeting where we will discuss
+At the end of the rotation, there will be a short handoff meeting between PM, FE lead, and the previous/next rotations' support dev to discuss
 - Ongoing support issues that need to be taken over by the next developer in the rotation
 - Patterns in support issues that merit process improvement
+
+### Dependabot upgrades 
+
+As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
