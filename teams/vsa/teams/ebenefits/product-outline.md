@@ -81,13 +81,13 @@ This team aims to drastically increase the conversion rate of 686c form submissi
 ## KPIs
 Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  Also, looking into how RBPS is impacted will be a large metric as well.
 **Objective 1:** Migrate all features out of eBenefits and into VA.gov
-- Key result #1: 100% of the functionality is addressed in VA.gov by Feb 2022
-- Key result #2: 100%  (or more) of the traffic present in EBN is shown in VA.gov by Feb 2022
+- Key result #1: `100%` of the functionality is addressed in VA.gov by `Feb 2022`
+- Key result #2: `100%`  (or more) of the traffic present in EBN is shown in VA.gov by `Feb 2022`
 
 **Objective 2:** Improve the Veteran experience for these features
-- - Key result #1: Error handling covers 100% of known issues
-- - Key result #2: Language used is friendly and informative over 100% of features managed by this team
-- - Key result #3: A clear path forward for gaining additional information is present over 100% of features managed by this team
+- - Key result #1: Error handling covers `100%` of known issues
+- - Key result #2: Language used is friendly and informative over `100%` of features managed by this team
+- - Key result #3: A clear path forward for gaining additional information is present over `100%` of features managed by this team
 
 ---
 
