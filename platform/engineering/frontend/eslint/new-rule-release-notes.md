@@ -4,7 +4,7 @@
 
 March 19, 2020
 
-- The following [SonarJS rules](sonarjs.md) will be forced from now on:
+- The following [SonarJS rules](sonarjs.md) will be enforced from now on:
   - no-all-duplicated-branches
   - no-element-overwrite
   - no-identical-conditions
