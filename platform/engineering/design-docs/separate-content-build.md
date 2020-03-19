@@ -77,7 +77,7 @@ S3 bucket**. Applications are deployed on a weekdaily schedule. New content is
 deployed by a manual trigger from the CMS and by the weekdaily application
 deployment.
 
-The co-mingling of the content and application builds have [led to
+The entangling of the content and application builds have [led to
 frustrations](#pain-points) for engineers, slower iteration cycles due to failed
 builds, and failed production deployments.
 
