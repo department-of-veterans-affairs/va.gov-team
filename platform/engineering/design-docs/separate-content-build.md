@@ -164,8 +164,8 @@ make an application live for the first time. The process will be to manually:
 #### Build and deploy
 - The content build will live in a separate repository
   - **Question:** What should we call this?
-- **Question:** Can the application build be run in Circle?
-- **Question:** Where can we run the content build?
+  - **Question:** Can the application build be run in Circle?
+  - **Question:** Where can we run the content build?
 - Content will be deployed to a separate S3 bucket from the application code
 - The S3 buckets will have versioned directories in them with the contents of
   each deployment
