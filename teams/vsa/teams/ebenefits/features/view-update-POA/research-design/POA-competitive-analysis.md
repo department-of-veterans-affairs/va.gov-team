@@ -112,4 +112,5 @@ Suggestions for VA.gov's POA process
 	- VA file number and Insurance number 
 	- Combine Military service with Personal information
 		- Both steps are information is auto-populated 
+
 `Conclusion should have some thought about how eBenefits compare to other POA forms and processes. Suggestions are fine, but not necessary--this is Discovery.`		
