@@ -39,27 +39,59 @@ How might we use the GI Bill Comparison Tool to clearly indicate compliance by e
 ## Undesired Business Outcomes
 - Beneficiary requests for updates on payment timing
 
+## Undesired Business Outcomes
+- Beneficiary requests for updates on payment timing
+- If list isn’t current, wrong information would be reported to users
+
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- ### The files will contain current data and are updated regularly ### {highest risk}
+- The team will have access to all the information we need to effectively design & build the indicator
+- This is not the sole source of information communication to CH31/33 beneficiaries about 103 & benefit payments
+- If the situation arises where VA will be late on payments (and Sec 103 is triggered), additional alerts will be provided within VA.gov and in the GIBCT
+- Users will notice the 103 indicator and know how it’s relevant
+- Users will understand which documents are required for 103 for each compliant institution
+- The 103 indicator will prevent the worry and financial challenges experienced by CH31/33 Veterans & beneficiaries in the past
+
+*Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+*What are you going to build now, and why have you decided to start there?*
+
+DESIGN: 
+Insert an indicator within the GIBCT tool. Include supporting, contextual content that explains the indicator, its relevance and what it means for the prospective student.
+Education Service provided guidance / suggestions as to how to solve that feel appropriate given our experience with the GIBCT and its users. 
+-	Use of Profile Page / Institution Summary as a mechanism to convey general information about the school.
+
+*What have you explicitly decided to not include in this initial set of functionality, and why?*
+
+- Modals – because they’re now verboten and “Learn more” pattern will work. 
+- 103 filter on SRP – criticality of issue doesn’t seem to rise to the level of inclusion here. 
+
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Location may shift based on users’ ability to find the information
+
 
 ## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+*What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 --- 
+-	Number of users accessing 103 “Learn more” 
+-	{ need to evaluate further KPIs }
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+*How are Veterans and others using this product going to know it exists?*
+*What marketing, outreach, or communications are necessary for this product to be successful?*
+- Education Service: project briefings & demos
+- Education Service / Communications: email & social promos about new indicator & why it’s important
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+*What is your target launch date of your MVP/iteration?*
+
+NLT June 5.
+
+*What is your date for when you'll evaluate impact after launch?*
+
+Ideally a date 1 month after launch, around July 6. Subject to contract continuation. 
 
 ---
 
