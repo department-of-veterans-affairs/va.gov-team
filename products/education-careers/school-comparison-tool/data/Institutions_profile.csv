@@ -8,25 +8,25 @@
 (3) n/a
 (4) settlement CSV column unitid to weam CSV column ipeds
 (5) hcms CSV column 'ope id'","For each of these creates a caution_flags row linked to institutions by a foreign_key
-1) Set value by joining on accreditation_institute_campus CSV column opeid.
+(1) Set value by joining on accreditation_institute_campus CSV column opeid.
     Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
     We include only those accreditation that are institutional and currently active.
-2) Value is ""DoD Probation For Military Tuition Assistance""
-3) If sec702 CSV columen sec702 is false then ""Does Not Offer Required In-State Tuition Rates""
-4) Value is ""<list of relevant descriptions from settlement CSV>""
-5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)""",,
-,books,"1) ipeds_ic_ay
-2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
-2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg4ay3
-2) If no value from step 1 set value to ipeds_ic_py CSV column chg4py3",,
-,tuition_in_state,"1) ipeds_ic_ay
-2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
-2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg2ay3
-2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
-,tuition_out_of_state,"1) ipeds_ic_ay
-2) ipeds_ic_py","1) ipeds_ay CSV column unitid to weam CSV column ipeds
-2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","1) Set value to ipeds_ic_ay CSV column chg3ay3
-2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
+(2) Value is ""DoD Probation For Military Tuition Assistance""
+(3) If sec702 CSV columen sec702 is false then ""Does Not Offer Required In-State Tuition Rates""
+(4) Value is ""<list of relevant descriptions from settlement CSV>""
+(5) Value is ""Heightened Cash Monitoring (<relevant hcms CSV column hcm_resason>)""",,
+,books,"(1) ipeds_ic_ay
+(2) ipeds_ic_py","(1) ipeds_ay CSV column unitid to weam CSV column ipeds
+(2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","(1) Set value to ipeds_ic_ay CSV column chg4ay3
+(2) If no value from step 1 set value to ipeds_ic_py CSV column chg4py3",,
+,tuition_in_state,"(1) ipeds_ic_ay
+(2) ipeds_ic_py","(1) ipeds_ay CSV column unitid to weam CSV column ipeds
+(2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","(1) Set value to ipeds_ic_ay CSV column chg2ay3
+(2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
+,tuition_out_of_state,"(1) ipeds_ic_ay
+(2) ipeds_ic_py","(1) ipeds_ay CSV column unitid to weam CSV column ipeds
+(2) ipeds_ic_py CSV column unitid to weam CSV column ipeds","(1) Set value to ipeds_ic_ay CSV column chg3ay3
+(2) If no value from step 1 set value to ipeds_ic_py CSV column chg1py3",,
 ,accreditation_status,accreditation_action CSV column action_description,accreditation_institute_campus CSV column opeid,"Set value by joining on accreditation_institute_campus CSV column opeid.
 Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action.
 We include only those accreditation that are institutional and currently active.",,
