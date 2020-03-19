@@ -1,4 +1,4 @@
-# Release Plan Template
+# Homepage MVP Release Plan
 
 ---
 
