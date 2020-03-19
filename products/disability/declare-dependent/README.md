@@ -117,7 +117,20 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## KPIs
 
-TBD
+**Objective 1:** Migrate out of eBenefits and into VA.gov
+- Key result #1: `100%` of the functionality is addressed in VA.gov by June 2020
+
+**Objective 2:** Increase the conversion rate of the 686
+- Key result #2: Move conversion rate from `63%` to `75%` within first month of launch to VA.gov
+- Key result #3: Move conversion rate from `75%` to `95%` within first quarter launch to VA.gov
+  - KPI 1: Decrease the number of form submissions with incomplete information by `n%` within first month of launch to VA.gov
+
+**Objective 3:** Increase number of applications submitted
+- Key result #1: Move number of applications from `~12,000` to `~15,000` within first month of launch to VA.gov
+  - _Establish the number and quality of gateway funnels to this feature and increase it_
+
+**Objective 4:** Decrease the approval time for Veterans
+- Key result #1: _It currently takes 10-20 days to process a 686 form manually vs. 1-2 days to process automatically through RBPS_
 
 ---
 
