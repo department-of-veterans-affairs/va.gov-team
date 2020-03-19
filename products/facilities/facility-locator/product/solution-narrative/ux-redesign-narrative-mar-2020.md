@@ -45,7 +45,9 @@ When urgent care pharmacies are again visible from the VA facility type dropdown
 
 ### Search result subhead
 
-During QA of Urgent Care MVP Phase 1, it was discovered that the results summary subhead updated prematurely. In addition to this bug, the number of search results were incorrect for any PPMS (community care) related searches. Although not ideal, the decision was made to hide the subhead for all Facility Locator searches, regardless of Facility type. The goal is to prevent user confusion from the incorrect search summary and to provide a consistent Veteran experience. This is intended to be temporary, until the root cause(s) for the issue(s) can be addressed. 
+During QA of Urgent Care MVP Phase 1, it was discovered that the results summary subhead updated prematurely. In addition to this bug, the number of search results were incorrect for any PPMS (community care) related searches. PPMS data is not paginated in the response and despite significant effort, we were unable to resolve the issue. 
+
+Although not ideal, the decision was made to hide the subhead for all Facility Locator searches, regardless of Facility type. The goal is to prevent user confusion from the incorrect search summary and to provide a consistent Veteran experience. This is intended to be temporary, until the root cause(s) for the issue(s) can be addressed. 
 
 [Hidden subhead](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/hidden%20subhead.png)
 
