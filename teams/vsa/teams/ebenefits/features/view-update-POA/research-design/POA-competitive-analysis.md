@@ -24,7 +24,7 @@ Attorneys- There are several examples of law firms that provide their internal P
 #### eBenefits 
 The key users of the Representative for VA or Power of Attorney are Veterans, Veteran Serving Organization, and Layers, who are disputing a VA claim.
 
-## Solution
+## Current Applicaiton Process
 #### eBenefits Representative for VA Claims
 The eBenefits Representative for VA Claims feature allows Veterans to both searches for [Veteran Service Organizations]( https://www.va.gov/vso/VSO-Directory.pdf) like The American Legion or accredited VA attorneys to represent Veterans through their claims process.  The fundamental problem solved by the Power of Attorney is providing the veteran’s lawyer or designated organization to “initiate the veteran’s claim to preserve an effective start date, gather required records and evidence on your behalf, and review your application prior to submission.” 
 
@@ -106,5 +106,10 @@ VSO offers guidance through the VA's Power of Attorney process and provides link
 
 
 ## Conclusion
-`WIP`
-
+Suggestions for VA.gov's POA process
+- Create a responsive Representative results table.
+- Provided a search feature within the Find Local Representative step. This search feature would allow the veterans to type in the VSO or Law Firm's name. Alleviating the searching and sorting of the Representative result table. 
+- Combine some steps. 
+	- VA file number and Insurance number. 
+	- Combine MIlitary service with Personal information. 
+		- Both steps are information is auto-populated 
