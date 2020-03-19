@@ -3,7 +3,7 @@
 The purpose of this document is to provide a narrative of the iterations and decisions made during the UX redesign.
 It is preceded by 
 - [Beginning September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-sept-2019.md)
-- [v1: November 2019](https://https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-nov-2019.md)
+- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-nov-2019.md)
 
 ## v2: December 2019
 
