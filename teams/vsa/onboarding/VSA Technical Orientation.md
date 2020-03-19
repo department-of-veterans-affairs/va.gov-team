@@ -31,15 +31,15 @@ Our work is conducted primarily over public GitHub repositories:
 *   Frontend source: https://github.com/department-of-veterans-affairs/vets-website
 
 ## Our Stack
-We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static site generation (build) to pull content from Drupal CMS and Markdown.
+We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static site generation (build) to pull content from Drupal CMS and Markdown. All libraries are open source, including VA-specific components and forks.
 
 ### Frontend
 *   React
 *   Redux
 *   Node.js (*only for npm and build?; S3/CDN for production? Check into this* ....)
 *   Key Libraries:
-    *   VA<span/>.gov Forms System (VAFS) based on RJSF (react-jsonschema-form)
-    *   SASS: Formation (npm @department-of-veterans-affairs/formation)
+    *   The [VA<span/>.gov Forms System (VAFS)](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms) built on top of the [VA's fork of RJSF (react-jsonschema-form)](https://github.com/department-of-veterans-affairs/react-jsonschema-form).
+    *   Formation: SASS styles and assets for the VA design system ([npm @department-of-veterans-affairs/formation](https://www.npmjs.com/package/@department-of-veterans-affairs/formation)).
 
 ### Content
 *   Drupal CMS
@@ -109,7 +109,7 @@ We prefer most documents to be on GitHub, but sometimes they start off here.
 https://drive.google.com/drive/folders/0ACZ1e6Rs_6sDUk9PVA
 
 ## Google Calendar (Shared): PTO
-https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com
+https://www.google.com/calendar/render?cid=governmentcio.com_rae2ref7gb5p67nmcuj2l7ege0@group.calendar.google.com \
 PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Google PTO Calendar.
 
 ## Google Calendar: Work Account
@@ -118,6 +118,19 @@ PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Go
 *   If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
 
 ## GitHub
+*   **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
+https://github.com/department-of-veterans-affairs/vets-website \
+Frontend Source Code: React.js, HTML
+
+*   **GitHub: VA<span/>.gov | Public Repo | VETS-API** \
+https://github.com/department-of-veterans-affairs/vets-api \
+Backend Source Code: Ruby/Rails (mostly REST APIs)
+
+*   **GitHub: VA<span/>.gov | Public Repo | TEAM Non-Code Docs (VSP, VSA/VSFs)** \
+https://github.com/department-of-veterans-affairs/va.gov-team \
+Non-code documentation for VSP, VSA, and VSFs teams. \
+Note that this repo (va.gov-team) supersedes the “[vets.gov-team](https://github.com/department-of-veterans-affairs/vets.gov-team)” repo. That older repo was made private on January 2020, but most of the content was migrated to this repo.
+
 *   **GitHub: VA<span/>.gov | Public Repo | CONTENT (Markdown)** \
 https://github.com/department-of-veterans-affairs/vagov-content \
 The VA<span/>.gov content repository (aka VA<span/>.gov Interim CMS) in Markdown (.md) format.
@@ -125,19 +138,6 @@ The VA<span/>.gov content repository (aka VA<span/>.gov Interim CMS) in Markdown
 *  **GitHub: VA<span/>.gov | Public Repo | CMS Integration** \
 https://github.com/department-of-veterans-affairs/va.gov-cms \
 Metalsmith, GraphQL, Drupal, Liquid Templates => build static HTML.
-
-*   **GitHub: VA<span/>.gov | Public Repo | VETS-API** \
-https://github.com/department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api \
-Backend Source Code: Ruby/Rails (mostly REST APIs)
-
-*   **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
-https://github.com/department-of-veterans-affairs/vets-website \
-Frontend Source Code: React.js, HTML/CSS
-
-*   **GitHub: VA<span/>.gov | Public Repo | TEAM Non-Code Docs (VSP, VSA/VSFs)** \
-https://github.com/department-of-veterans-affairs/va.gov-team \
-Non-code documentation for VSP, VSA, and VSFs teams. \
-Note that this repo (va.gov-team) supersedes the “[vets.gov-team](https://github.com/department-of-veterans-affairs/vets.gov-team)” repo. That older repo was made private on January 2020, but most of the content was migrated to this repo.
 
 *   **GitHub: VA<span/>.gov | Private Repo | TEAM SENSITIVE** \
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive
@@ -261,15 +261,15 @@ pgadmin	           | https://www.pgadmin.org       | PostgreSQL Tools.
 * **VETS API:** https://github.com/department-of-veterans-affairs/vets-api
 
 ## Internal Sites (SOCKS access)
+Important build and DevOps sites reachable only through SOCKS proxy:
+* **Jenkins** (Builds): http://jenkins.vfs.va.gov
+* **Sentry**: http://sentry.vfs.va.gov (production errors: http://sentry.vfs.va.gov/vets-gov/platform-api-production)
+* **Grafana**: http://grafana.vfs.va.gov
+
 Prerequisites (set up SOCKS5 Proxy access):
 * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md
 * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md
 * Example GitHub "Environment Access Request" Issue (Request for SOCKS): https://github.com/department-of-veterans-affairs/va.gov-team/issues/5120
-
-Important sites reachable only through SOCKS proxy:
-* **Jenkins** (Builds): http://jenkins.vfs.va.gov
-* **Sentry**: http://sentry.vfs.va.gov (production errors: http://sentry.vfs.va.gov/vets-gov/platform-api-production)
-* **Grafana**: http://grafana.vfs.va.gov
 
 ### Tips
 *   Use the ProxySwitchOmega Chrome Extension to access jenkins/sentry/grafana on vfs.va.gov.
