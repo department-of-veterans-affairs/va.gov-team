@@ -44,11 +44,16 @@ Okay, I am going to send you a link to look at the tool in Domo. Can you open th
 Go through each section of the dashboard. 
 - What is this metric and what is it telling you about your product?
 - What would you do with that information?
-How would you share this data?
-If you need to report KPIs monthly, how would this help you?
 
-* Are there any metrics that are unclear?
+## Overall feedback and sharing
+- How would you share this data?
+- If you need to report KPIs monthly, how would this help you?
+
+* Is there anything that is unclear?
 * Are there any metrics that are missing or anything that you would want added?
+* After seeing these metrics, would you want to change anything about your KPI's?
+* What was the hardest part of this process?
+* What could we do to improve this dashboard for you?
 
 * Do you have any questions?
 
