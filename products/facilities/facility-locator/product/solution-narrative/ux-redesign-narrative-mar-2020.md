@@ -14,7 +14,11 @@ It is preceded by
 
 The Office of Community Care requested a number of changes to be made prior to the March 18, 2020 official roll out date. 
 
-The links to search for urgent care and pharmacies using the TriWest page were removed in the final phase of this project. These links were present:
+Previously, users searching for urgent care or urgent care pharamcies were directed away from the Facility Locator to the TriWest Provider Locator. 
+
+![Links to TriWest](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/70838910-3c8c2d00-1dbf-11ea-9a52-daa31c557749.png)
+
+These links to the TriWest site were removed in the final phase of this project. These links were present:
 - in the intro text above the search boxes
 - above the map, when the VA facility type searched was urgent care, community pharmacies or community providers
 - in the error message that displayed when no results were found
