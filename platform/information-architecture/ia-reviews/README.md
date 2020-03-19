@@ -4,6 +4,8 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+eBenefits | Payment History | NOT STARTED | 
+BAM 2 | Debt Letters | NOT STARTED | 
 Public Websites | Decision Review IA Improvements | IN PROGRESS | https://github.com/department-of-veterans-affairs/va.gov-team/issues/4141
 Public Websites | AMA Updates | REVIEW DECLINED | IA Review was declined by team in order to make deadline for content updates.  Team agreed that no URL changes, redirects or nav structural changes can be made.  Complete IA review of Decision Review process is needed as part of next steps. https://github.com/department-of-veterans-affairs/va.gov-team/issues/5541
 eBenefits | Add/Remove Dependents | COMPLETE 03/13/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-dependents.md
