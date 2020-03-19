@@ -140,3 +140,6 @@ type,institution_type_name,weam,weam CSV column facility_code,where weam databas
 ,approval_status,,,
 ,complaints_credit_job_by_fac_code,,,
 ,transfer_out_rate_all_students,,,
+,complies_with_sec_103,sec103,sec103 CSV column facility_code,
+,solely_requires_coe,sec103,sec103 CSV column facility_code,
+,requires_coe_and_criteria,sec103,sec103 CSV column facility_code,
