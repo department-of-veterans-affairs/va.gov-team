@@ -12,7 +12,7 @@
 ## Problem
 #### eBenefits Representative for VA Claims or Power of Attorney feature
 
-Claims Representative or Power of Attorney feature enables veterans to submit Form 21-22 and 21-22a online.  Forms 21-22 & 21-22a allows the veteran to allocate legal representation regarding a disputed VA claim to a Veteran Service Organization (VSO) 21-22 or legal counsel 22-22a.
+Claims Representative or Power of Attorney feature enables veterans to submit Form 21-22 and 21-22a online.  Forms 21-22 & 21-22a allows the veteran to allocate legal representation regarding a disputed VA claim to a Veteran Service Organization (VSO) 21-22 or legal counsel 22-22a. The application also provides the veteran with a list of officially recognized organizations and lawyers that can represent the veteran. 
 
 #### VSO and Attorneys POA forms
 VSO- Most VSO websites provide informational articles and FAQ pages about the VA's Power of Attorney process.  Within these webpages, the VSO provides links to VA.gov or eBenefits directing users to the 21-22 or 21-22a forms.  There are several other forms and hyperlinks directing the user to more information provided by the VA.
@@ -24,7 +24,7 @@ Attorneys- There are several examples of law firms that provide their internal P
 #### eBenefits 
 The key users of the Representative for VA or Power of Attorney are Veterans, Veteran Serving Organization, and Layers, who are disputing a VA claim.
 
-## Current Applicaiton Process
+## Current Application Process
 #### eBenefits Representative for VA Claims
 The eBenefits Representative for VA Claims feature allows Veterans to both searches for [Veteran Service Organizations]( https://www.va.gov/vso/VSO-Directory.pdf) like The American Legion or accredited VA attorneys to represent Veterans through their claims process.  The fundamental problem solved by the Power of Attorney is providing the veteran’s lawyer or designated organization to “initiate the veteran’s claim to preserve an effective start date, gather required records and evidence on your behalf, and review your application prior to submission.” 
 
