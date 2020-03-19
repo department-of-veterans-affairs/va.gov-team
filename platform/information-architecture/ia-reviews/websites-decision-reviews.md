@@ -15,17 +15,17 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+**Approach**
 - This goals of this solution are to
   - Bring both the legacy appeal and the new Decision Review process content together in one content area
   - Ensure entry points to this content are provided where applicable in the benefit section of VA.gov
   - Improve the navigation of the Decision Reviews area
 - The approach to meet these goals, is to follow the hub and spoke approach used in our benefit hubs.  This requires the content of the primary Decision Reviews page be converted into the standard benefit hub template, content is arranged into Get/Manage type spokes and left hand navigation is added into the content area for easier navigation. 
 
-** Visual site map:**  https://app.moqups.com/Rnc4BDEKrA/view/page/ada8690dd
+**Visual site map:**  https://app.moqups.com/Rnc4BDEKrA/view/page/ada8690dd
 
 
-**URLs & Breadcrumbs**
+**URLs & Breadcrumbs** <br>
 *Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb*
 
 Page | New URL | New Breadcrumb | Notes
@@ -40,8 +40,7 @@ Page | New URL | New Breadcrumb | Notes
 ### Navigation Changes and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Navigational Elements**
-
+**Navigational Elements**<br>
 *Please connect with your writer/editor on the proper labels and capitalization of these elements, copy below is provided for IA direction only*
 
 - The hub page hub should contain the following 3 spokes:
@@ -69,7 +68,8 @@ Page | New URL | New Breadcrumb | Notes
     - Frequently asked questions
     - Get help with your review request
 
-**Entry Points**
+**Entry Points** <br>
+*Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 Priority | Placement | Description
 --- | --- | ---
@@ -80,7 +80,6 @@ Must | Decision review hub page |
 Must | Decision review left nav |
 
 
-***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 <hr>
 
