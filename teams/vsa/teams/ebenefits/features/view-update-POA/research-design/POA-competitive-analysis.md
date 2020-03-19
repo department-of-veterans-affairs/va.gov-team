@@ -111,5 +111,5 @@ Suggestions for VA.gov's POA process
 - Provided a search feature within the Find Local Representative step. This search feature would allow the veterans to type in the VSO or Law Firm's name. Alleviating the searching and sorting of the Representative result table. 
 - Combine some steps. 
 	- VA file number and Insurance number. 
-	- Combine MIlitary service with Personal information. 
+	- Combine Military service with Personal information. 
 		- Both steps are information is auto-populated 
