@@ -1,5 +1,23 @@
 # Release Notes
 
+## SonarJS deployed rules
+
+March 19, 2020
+
+- The following [SonarJS rules](sonarjs.md) will be forced from now on:
+  - no-all-duplicated-branches
+  - no-element-overwrite
+  - no-identical-conditions
+  - no-one-iteration-loop
+  - no-use-of-empty-return-value
+  - no-collection-size-mischeck
+  - no-redundant-jump
+  - no-same-line-conditional
+  - no-useless-catch
+  - prefer-object-literal
+  - prefer-single-boolean-return
+  - prefer-while
+
 ## SonarJS release rules - Sprint 21
 
 March 4, 2020
