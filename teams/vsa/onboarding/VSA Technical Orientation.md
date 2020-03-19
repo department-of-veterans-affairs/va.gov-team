@@ -2,9 +2,10 @@
 Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](mailto:pshort@governmentcio.com)/[paul.short@va.gov](mailto:paul.short@va.gov)) as of 03/17/2020. Primary audience are VSA front end and back end developers, but other VSA team members may find some of the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for a new developer.
 
 ## What We Do
-We are currently working on: https://va.gov (public). 
+We are actively working on https://va.gov, the user-centered, public-facing website where veterans and their caregivers can find, apply for, track, and manage their benefits in one place.
+*   DEPO: The VA Digital Experience Product Office. VSP and VSA fall under DEPO.
 *   VSA: [Veteran-facing Services Applications (VSA)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa#veteran-facing-services-applications-vsa); our team (applications).
-*   VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team.
+*   VSP: [Veteran-facing Services Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/README.md#veteran-facing-services-platform-vsp); the platform team, which includes framework and DevOps.
 *   VFS: Veteran Facing Services (consumers of VSP, including VSA).
 
 ### Overview
