@@ -79,12 +79,12 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 ## KPIs
 
 **Objective 1:** Migrate out of eBenefits and into VA.gov
-- Key result #1: 100% of the functionality is addressed in VA.gov by July 2020
-- Key result #2: 100% of the EBN traffic is moved to VA.gov by August 2020
-  - Establish the number and quality of gateway funnels n to this feature and increase it by m
+- Key result #1: `100%` of the functionality is addressed in VA.gov by July 2020
+- Key result #2: `100%` of the EBN traffic is moved to VA.gov by August 2020
+  - Establish the number and quality of gateway funnels `n` to this feature and increase it by `m`
 
 **Objective 2:** Decrease the time taken to view payment history
-- Key result #1: Decrease time to acquire data from 1 minute to less than 30s
+- Key result #1: Decrease time to acquire data from `1 minute` to less than `30s`
 
 # Implementation Info
 
