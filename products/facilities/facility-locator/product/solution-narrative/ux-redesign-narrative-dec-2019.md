@@ -28,3 +28,7 @@ This iteration also included some map modifications made after user research rev
 
 
 - The approaching addition of Optum as a network provider made the UX redesign MVP necessary by 2/1/2020. 
+
+See also the following timelines:
+
+- [Final MVP: March 2019](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-mar-2020.md)
