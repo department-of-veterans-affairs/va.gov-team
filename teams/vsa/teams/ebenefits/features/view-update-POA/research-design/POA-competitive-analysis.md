@@ -12,93 +12,97 @@
 ## Problem
 #### eBenefits Representative for VA Claims or Power of Attorney feature
 
-Claims Representative or Power of Attorney feature enables veterans to submit Form 21-22 and 21-22a online.  Forms 21-22 & 21-22a allows the veteran to allocate legal representation regarding a disputed VA claim to a Veteran Service Organization 21-22 or legal counsel 22-22a. From the Payment History screen, users can access contact info, and ultimately direct deposit links.
+Claims Representative or Power of Attorney feature enables veterans to submit Form 21-22 and 21-22a online.  Forms 21-22 & 21-22a allows the veteran to allocate legal representation regarding a disputed VA claim to a Veteran Service Organization (VSO) 21-22 or legal counsel 22-22a.
 
 #### VSO and Attorneys POA forms
-VSO- Most VSO websites provide informational articles and FQA pages about the VA's Power of Attorney process.  Within these webpages, the VSO provides links to VA.gov or eBenefits directing users to the 21-22 or 21-22a forms.  There are several other forms and hyperlinks directing the user to more information provided by the VA.
+VSO- Most VSO websites provide informational articles and FAQ pages about the VA's Power of Attorney process.  Within these webpages, the VSO provides links to VA.gov or eBenefits directing users to the 21-22 or 21-22a forms.  There are several other forms and hyperlinks directing the user to more information provided by the VA.
 
 Attorneys- There are several examples of law firms that provide their internal Power of Attorney PDF forms. Standard inputs to the form are the applicant's legal name, today's date, applicant's address, and some signed statement agreeing to allow an attorney the right to represent the applicant.  
 
 
 ## User
 #### eBenefits 
-The key users of the Representative for VA or Power of Attorney are Veterans, Veteran Serving Organization and Layers who are disputing a VA claim.
+The key users of the Representative for VA or Power of Attorney are Veterans, Veteran Serving Organization, and Layers, who are disputing a VA claim.
 
 ## Solution
 #### eBenefits Representative for VA Claims
-The eBenefits Representative for VA Claims feature allows Veterans to both search for [Veteran Service Organizations]( https://www.va.gov/vso/VSO-Directory.pdf) like The American Legion or accredited VA attorneys to represent Veterans through their claims process.  The fundamental problem solved by the Power of Attorney is providing the veteran’s lawyer or designated organization to “initiate the veteran’s claim to preserve an effective start date, gather required records and evidence on your behalf, and review your application prior to submission”. 
+The eBenefits Representative for VA Claims feature allows Veterans to both searches for [Veteran Service Organizations]( https://www.va.gov/vso/VSO-Directory.pdf) like The American Legion or accredited VA attorneys to represent Veterans through their claims process.  The fundamental problem solved by the Power of Attorney is providing the veteran’s lawyer or designated organization to “initiate the veteran’s claim to preserve an effective start date, gather required records and evidence on your behalf, and review your application prior to submission.” 
 
 
-If you’re a Veteran seeking to have a representative manage their claim they will first signing in to eBenefits using DSLogon and click the “Representative” link in the left aside labeled “Dashboard”
+If you’re a Veteran seeking to have a representative manage your claim, first sign in to eBenefits using the DSLogon and click the “Representative” found in the “Dashboard” left aside. 
 
 - Click on Representative
 - Click on Apply for a Representative
 
+### Completing the form
+Clicking “apply” starts the application. The following steps need to be complete.
+
 #### Personal Information steps
-After clicking “apply” the user will start the online application. The user will have to complete the following steps.
-	- Privacy Act
-		- Checkbox and Save & Continue button
-	- VA File Number
-		- SS# and Save & Continue button
-	- Personal information
-		- Name
-		- Gender
-		- DOB
-		- SS#
-		- VA file#
-		- Address
-		- Email
+First, the veteran confirms, updates, or edits the following personal information.
+ - Privacy Act
+        - Checkbox and Save & Continue button
+    - VA File Number
+        - SS# and Save & Continue button
+    - Personal information
+        - Name
+        - Gender
+        - DOB
+        - SS#
+        - VA file#
+        - Address
+        - Email
 
 #### Searching for Representative steps 
-First, the veteran will have to choose what type of representation they would prefer
+Secondly, the veteran chooses what type of representation they would prefer.
 - VSO
 - Attorney
 - Claims Agent
 
-Secondly, the veteran will have to narrow their search to some local representative and click on the search button
+Thirdly, the veteran  narrows their search to some local representative and click on the search button
 - State
 - City
 - Zip
-- Distance from location. 
+- Distance from the location. 
 
-After clicking ‘search’ a table is displayed listing VA approved representatives. The table headers are
--	Name POA Code
--	Address
--	Phone
--	Accepts Electronic request
--	Actions (a select button to choose the representative)
--	Save & Continue button
+After clicking "search’" a table is displayed listing VA approved representatives. The table's column headers can be sorted by alpha or numeric order. The table headers are:
+- Name POA Code
+- Address
+- Phone
+- Accepts Electronic request
+- Actions (a select button to choose the representative)
+- Save & Continue button
 
-The table does provide the ability to sort the column headers by alpha or numeric order. Once a representative is selected the application it will display a box showing the representative contact information you have selected
--	Name
--	Origination name
--	Address
--	Phone #
+After a representative is selected, there is a confirmation step displaying the representative's information
+- Name
+- Origination name
+- Address
+- Phone #
 
 #### Military Information
-The Veteran will have to complete the following information if not auto populated
--	What is you most recent Service Member number?
--	What Branch of Service?
--	Click Save & Continue button
+Next, the veteran completes the following information if it is not auto-populated.
+- What is your most recent Service Member number?
+- What Branch of Service?
+- Click Save & Continue button
 
 #### Limitation of Consent
-Next the application allows to restrict certain information about the veteran. There veteran can choose between 
--	Yes with limiting below
-  -	Drug abuse
+Next, the application allows restricting of veteran's personal information. Veterans can choose between 
+- Yes with limiting below
+  - Drug abuse
   - Alcoholism or alcohol abuse
   - Infection with the Human Immunodeficiency Virus
   - Sickle Cell Anemia
 - No
+
 #### Authorization for Address Change
-The veteran chooses to allow the representative to change the veterans address. There are 2 radio buttons yes no.
+The veteran can permit the VSO or layers to change the veteran's address. There are 2 radio buttons, "Yes & No".
 
 #### Error Check
--	Review the application and see if there are any errors.
--	Example of issue
-  -	“You have 1 warning with a statement about the issue.
+Finally, the application bookended by a  review step. 
+- Example of issue
+- “You have 1 warning with a statement about the issue.
 
-#### Commercial financial account apps
-VSO offer guidance about the Power of Attorney process and provides links to different VA forms. Most often the VSO’s website provides the 21-22 PDF form to be printed off. Other commercial options can be found in Legalzoom and law offices.  Legalzoom request information and then provides the form while lay offices provide a PDF form “Durable Power of Attorney” which are created for specify use cases. An example is Michigan’s POA for finances.  ADD IMAGE
+#### Commercial
+VSO offers guidance through the VA's Power of Attorney process and provides links to different VA forms, most often, 21-22/21-22a in PDF. Other commercial options can are similar to LegalZoom and law offices.  LegalZoom requests information and then provides the needed form.  Law firms provide “Durable Power of Attorney” for specific use cases. An example is Michigan’s POA for finances.  ADD IMAGE
 
 
 ## Conclusion
