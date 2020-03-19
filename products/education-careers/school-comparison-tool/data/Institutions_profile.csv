@@ -1,11 +1,11 @@
 ﻿Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes,,
 ,caution_flag,"(1) accreditation_action CSV column action_description and accreditation_action CSV column justification_description
 (2) mou
-(3) n/a
+(3) sec702
 (4) settlement CSV column settlement_description
 (5) hcms CSV column hcm_reason","(1) accreditation_institute_campus CSV column opeid
 (2) mou CSV column 'ope id'
-(3) n/a
+(3) sec702 CSV column state
 (4) settlement CSV column unitid to weam CSV column ipeds
 (5) hcms CSV column 'ope id'","For each of these creates a caution_flags row linked to institutions by a foreign_key
 (1) Set value by joining on accreditation_institute_campus CSV column opeid.
