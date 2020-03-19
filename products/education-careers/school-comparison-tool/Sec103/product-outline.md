@@ -73,18 +73,21 @@ Education Service provided guidance / suggestions as to how to solve that feel a
 
 
 ## KPIs
+
 *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
---- 
+
 -	Number of users accessing 103 “Learn more” 
 -	{ need to evaluate further KPIs }
 
 ## Go-to-market Strategy
+
 *How are Veterans and others using this product going to know it exists?*
 *What marketing, outreach, or communications are necessary for this product to be successful?*
 - Education Service: project briefings & demos
 - Education Service / Communications: email & social promos about new indicator & why it’s important
 
 ## Target Launch Date
+
 *What is your target launch date of your MVP/iteration?*
 
 NLT June 5.
