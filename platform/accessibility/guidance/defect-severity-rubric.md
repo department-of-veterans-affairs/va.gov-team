@@ -167,6 +167,7 @@ These issues have the potential to disrupt the user experience and should be fix
 #### Types of issues:
 
 * [Invalid HTML](https://validator.w3.org/) (non-semantic, badly formed) must be fixed
+  * [Parsing: Understanding SC 4.1.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html)
 * Errors in early release tools like [axe-coconut](https://www.deque.com/axe/axe-for-web/early-release/) should be fixed
 * Best practice warnings in automated scanning tools like [aXe browser plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT) should be fixed
 
@@ -187,6 +188,7 @@ These issues and items to consider can improve the experience for assistive tech
 
 * Best practice warnings in early release tools like [axe-coconut](https://www.deque.com/axe/axe-for-web/early-release/) should be fixed
 * Less semantic HTML (using `<ul>` instead of `<ol>` for sequential instructions, for instance) should be fixed
+  * [Parsing: Understanding SC 4.1.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html)
 
 #### Potential impact:
 
