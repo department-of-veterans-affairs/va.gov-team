@@ -6,9 +6,13 @@
 Use Case: As a user I want to know my identity has been verified.
 Acceptance Criteria: Message stating “We have verified your identity” appears under “Identity Verification” section.
 
+Use Case: As a user, I want to be able to verify my identity.
+Acceptance Criteria: User can verify identity by clicking link "Verify your identity".
+
 ## Account Security
 Use Case: As a user, I want to be able to enhance the security of my account via the ability to enable 2FA
-Acceptance Criteria: User is able to turn on 2FA
+Acceptance Criteria: User is able to turn on 2FA via a link that says "Add an extra layer of security (called 2-factor authentication). This helps to make sure only you can access your account—even if someone gets your password.
+Set up 2-factor authentication"
 
 Use Case: As a user, I want to be able to see the security status of my account
 Acceptance Criteria: User is notified if 2FA is activated/de-activated
