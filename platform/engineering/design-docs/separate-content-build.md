@@ -72,7 +72,8 @@ The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
 whenever a commit is pushed to a branch in GitHub. On a branch, this build must
 be successful **before the branch can be merged.**
 
-The output of this build are **[deployed](#deployment) to and hosted from an AWS
+The output of this build are **[deployed](#deployment) to and hosted from a
+[versioned](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html) AWS
 S3 bucket**. Applications are deployed on a weekdaily schedule. New content is
 deployed by a manual trigger from the CMS and by the weekdaily application
 deployment.
@@ -183,8 +184,9 @@ make an application live for the first time. The process will be to manually:
   - **Question:** Can the application build be run in Circle?
   - **Question:** Where can we run the content build?
 - Content will be deployed to a separate S3 bucket from the application code
-- The S3 buckets will have versioned directories in them with the contents of
-  each deployment
+- The S3 buckets will have [versioned
+  directories](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
+  in them with the contents of each deployment
   - Old directories will be removed after 90 days
     - **Question:** What makes sense? This is a totally arbitrary number
 
