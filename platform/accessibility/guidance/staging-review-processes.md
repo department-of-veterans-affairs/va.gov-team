@@ -11,9 +11,9 @@ Staging accessibility reviews will be turned around in two days, provided the fo
 * Conduct low-level accessibility tests ahead of the staging review:
   * [Run axe checks using the Chrome or Firefox browser plugin(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation)
   * [Write end-to-end (e2e) tests with good axe checks, including hidden content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements)
+  * [Test for color contrast and color blindness issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#color-tests)
   * [Zoom layouts to 400% at 1280px width](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
   * [Navigate using the keyboard only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation)
-  * [Test for color contrast and color blindness issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#color-tests)
   * [Test with 1 or 2 screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#screen-readers) _(VoiceOver or NVDA)_
 * Provide documentation for your test cases using one of the templates:
   * [TestRail accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR** 
