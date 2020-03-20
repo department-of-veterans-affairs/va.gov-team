@@ -1,5 +1,5 @@
 ---
-### This document has been deprecated. Please see the [Design README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design) for information on working with the design practice area.
+### This document has been deprecated. Please see the [Design README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/README.md) for information on working with the design practice area.
 
 ---
 
