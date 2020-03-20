@@ -110,4 +110,13 @@ Ideally a date 1 month after launch, around July 6. Subject to contract continua
 
 ### Before
 
+*GI Bill Comparison Tool Profile Page:*  
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/images/Before_CT-School-Profile-Page.png" width="400"></kbd>  
+
+*GI Bill Comparison Tool Profile Page Detail:*  
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/images/Before_CT-School-Profile-Page_Detail.png" width="600"></kbd>  
+
+*GI Bill Comparison Tool Profile Page Detail Notes:*  
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/images/Before_CT-School-Profile-Page_Detail-Notes.png" width="600"></kbd>  
+
 ### After
