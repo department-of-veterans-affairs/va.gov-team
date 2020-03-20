@@ -47,12 +47,9 @@ We are starting from the VA.gov homepage.
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
 3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
 
-Alright, I have a few follow-up questions for you:
+Alright, I have a follow-up question about this scenario for you:
 
-1. What could be improved about the process we just looked at?
-- Do you have any questions about the process we just looked at?
-2. What did you find to be clear and easy to understand?
-3. What are your thoughts on how your personal information is displayed?
+1. What are your thoughts on how your personal information is displayed?
 
 ### Things to watch for:
 
@@ -65,23 +62,23 @@ Alright, I have a few follow-up questions for you:
 
 ## Second Task: Connected Apps (Mobile View)
 
-Alright, now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with an outside doctor. But now you've decided you want to remove the Health app's access to your VA records.   
+Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with an outside doctor. But now you've decided you want to remove the Health app's access to your VA records.   
 
 1. Could you walk me through how you would do that?
 (*Removes app*)
 2. How would you connect a different outside app to your VA health records?
 
-Alright, I have a few follow-up questions for you:
+Alright, I have a few follow-up questions for you about this scenario:
 
-1. What could be improved about the process we just looked at?
-- Do you have any questions about the process we just looked at?
-2. What did you find to be clear and easy to understand?
-3. What did you expect to see in the 'connected apps' section?
+1. What did you expect to see in the 'connected apps' section?
+2. Do you have any questions about the process we just looked at?
+3. What was your impression of the mobile navigation?
 
 ### Things to watch for:
 
 - Do they understand where to go for 'Connected apps'?
 - Do they understand that they cannot connect a new app through VA.gov?
+- Does the terminology 'connected apps' make sense?
 
 ## Third Task: Wayfinding and profile navigation (Desktop)
 
@@ -91,13 +88,10 @@ Okay, I'm now going to send you another link for a new prototype.  This will be 
 1. Okay, so for this scenario you'd now like to see how secure your account is on VA.gov.  Could you double check that your two-factor authentication is on for this account?
 2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
 
-Alright, I have a few follow-up questions for you:
+Alright, great! I have a few follow-up questions about this scenario for you:
 
-1. What could be improved about the process we just looked at?
-- Do you have any questions about the process we just looked at?
-2. What did you find to be clear and easy to understand?
-3. What are your overall impressions of the desktop profile?
-4. What are your overall impressions of the desktop navigation?
+1. What are your overall impressions of the va.gov profile?
+2. What are your overall impressions of the desktop navigation?
 
 ### Things to watch for:
 
@@ -105,19 +99,20 @@ Alright, I have a few follow-up questions for you:
 - Does the term 'account security' make sense to the user?
 - Does the overall navigation make sense?
 - If user doesn't have an app - can they figure out where to add one? 
+- Does the user interact with the nametag?
 
 ## Post-Task Interview 
 
-OK, those are all the screens we are going to look at today.
+OK, those are all the screens we are going to look at today. I just have a few more questions for you.
 
-1. Overall, how could we improve the different scenarios we looked at today?
+1. Overall, how could we improve the VA profile?
 2. What did you think was clear/what worked well?
 3. Was anything confusing? Why?
-3. Any questions do you have for me?
+4. Any questions do you have for me?
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 As a thank you for your participation, we'd like to send you a $50 thank-you check. This will be sent by (Brian/Shannon from) Perigean, the people that recruited you to talk to us today. They'll work with you to figure out the right place to send it.
 
