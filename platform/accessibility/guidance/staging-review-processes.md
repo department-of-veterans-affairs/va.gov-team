@@ -3,6 +3,13 @@ Accessibility staging reviews are part of the wider [VSP staging review](https:/
 
 All staging reviews will test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). Staging reviews **may not catch all accessibility issues**, but will ensure basic functionality is accessible. Accessibility specialists will conduct a more thorough audit when your application is relatively code-stable in production.
 
+## Table of Contents
+* [Before you request a review](#before-you-request-a-review)
+* [Staging review for applications](#staging-review-for-applications)
+* [Staging review for static content](#staging-review-for-static-content)
+* [Review new interfaces and patterns](#review-new-interfaces-and-patterns)
+* [Issue gathering and triage](#issue-gathering-and-triage)
+
 ## Before You Request a Review
 Staging accessibility reviews will be turned around in two days, provided the following items are done ahead of time:
 
