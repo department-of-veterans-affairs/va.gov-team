@@ -6,7 +6,7 @@ The VSP Design team supports teams building on VA.gov by providing guidance, fee
 - [Working with us](#workingwithus)
 - [Resources](#resources)
 
-## How to contact us
+## <a id="howtocontact"></a> How to contact us
 If you need a hand with anything, don't hesitate to contact us.
 - Emily Waggoner, Principal Designer - Slack @EmilyWaggoner
 - Crystabel Reiter, UX Designer - Slack @CrystabelReiter
@@ -14,7 +14,7 @@ If you need a hand with anything, don't hesitate to contact us.
 Slack channel: #design
 Github/Zenhub labels: product-support
 
-## What we do
+## <a id="whatwedo"></a> What we do
 VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.
 - Show you how we carry out research and design in support of VA.gov products.
 Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
@@ -22,7 +22,7 @@ Provide resources for planning, recruiting, facilitating, and synthesizing resea
 - Collaborate at key points throughout the life cycle of a product to help connect you to relevant patterns and research and ensure consistency
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
-## What we do
+## <a id="workingwithus"></a> Working with us
 ### Orientation
 During orientation, you’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
 
@@ -49,7 +49,7 @@ Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design 
 - **Design in the open**
 We encourage all designers to be open about their process and seek feedback throughout every step. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.
 
-## VA.gov design resources
+## <a id="resources"></a> VA.gov design resources
 - [VA.gov design system](https://design.va.gov/)
 - [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#how-we-work)
 - [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#in-general)
