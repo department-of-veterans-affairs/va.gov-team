@@ -47,10 +47,6 @@ We are starting from the VA.gov homepage.
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
 3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
 
-Alright, I have a follow-up question about this scenario for you:
-
-1. What are your thoughts on how your personal information is displayed?
-
 ### Things to watch for:
 
 - I noticed you clicked [this]. Talk about why you chose this.
