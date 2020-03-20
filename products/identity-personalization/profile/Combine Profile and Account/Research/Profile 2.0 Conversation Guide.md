@@ -6,7 +6,7 @@ Thanks for joining us today! My name is Tressa and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 - 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we will be looking at a prototype.** This means that we are looking at something that looks like a real website, but it functions a bit differently. For example, some links will work while other links won't.   At some points we will be using the mobile version of the website for this study - so just use your mouse like you'd use your finger on a phone. This is for the purpose of testing so we can focus on observing specific tasks. Do you have any questions about this or what a prototype is? 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -46,7 +46,6 @@ We are starting from the VA.gov homepage.
 1. You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address. 
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
 3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
-4. You'd now like to see how secure your account is.  Could you double check that your two-factor authentication is on for this account?
 
 Alright, I have a few follow-up questions for you:
 
@@ -86,30 +85,42 @@ Alright, I have a few follow-up questions for you:
 
 ## Third Task: Wayfinding and profile navigation (Desktop)
 
-Great! I'm going to give you another scenario:
+Okay, I'm now going to send you another link for a new prototype.  This will be the desktop version of Va.gov, and I'll have you walk through a scenario on this version.
 
-4. Have you ever used the Apple Health App?
-- (if yes) 
+(*From Homepage*)
+1. Okay, so for this scenario you'd now like to see how secure your account is on VA.gov.  Could you double check that your two-factor authentication is on for this account?
+2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
 
-- You have been using the AppleHealth Kit application (which is an outside app) and you'd like to disconnect it from your VA account. Show me how you would you do that?
+Alright, I have a few follow-up questions for you:
+
+1. What could be improved about the process we just looked at?
+- Do you have any questions about the process we just looked at?
+2. What did you find to be clear and easy to understand?
+3. What are your overall impressions of the desktop profile?
+4. What are your overall impressions of the desktop navigation?
 
 ### Things to watch for:
 
-- Where user goes to look for connected accounts
+- Where does user go to get to Account Security?
+- Does the term 'account security' make sense to the user?
+- Does the overall navigation make sense?
 - If user doesn't have an app - can they figure out where to add one? 
 
 ## Post-Task Interview 
 
-- What sort of information do expect to see on the VA profile?
-- What tasks would you expect to do on the profile page?
-- What were your overall impressions of the VA profile?
-- Any questions for me? 
+OK, those are all the screens we are going to look at today.
+
+1. Overall, how could we improve the different scenarios we looked at today?
+2. What did you think was clear/what worked well?
+3. Was anything confusing? Why?
+3. Any questions do you have for me?
 
 ## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+As a thank you for your participation, we'd like to send you a $50 thank-you check. This will be sent by (Brian/Shannon from) Perigean, the people that recruited you to talk to us today. They'll work with you to figure out the right place to send it.
+
+Any questions before we sign off?
 
 Great, well thank you so much again, and enjoy the rest of your day!
