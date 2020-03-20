@@ -16,9 +16,9 @@ Findings from the [User research](https://github.com/department-of-veterans-affa
 - Internal language and inconsistent labeling cause users to hesitate when looking into facilities.
 
 Finding labels that are meaningful to Veterans _and_ acceptable to stakeholders was challenging during parts of this project. 
-Labels which were considered midproject are documented [here] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-MVP-Language-Revisions.pdf). 
+Labels which were considered midproject are documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-MVP-Language-Revisions.pdf). 
 
-MVP included urgent care as a Facilit Type with two service types:
+MVP included urgent care as a Facility Type with two service types:
 - VA urgent care
 - Community urgent care providers (in VA's network): This service type returns results for URGENT CARE (if POS code = 20) and RETAIL/WALK-IN CARE (if POS code = 17). These urgent care facility types are designated on the search result card. 
 
