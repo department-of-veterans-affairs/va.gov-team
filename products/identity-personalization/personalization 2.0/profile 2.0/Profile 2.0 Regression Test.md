@@ -1,11 +1,11 @@
 
 
-"Account" page
+## "Account" page
 Identity Verification
 Use Case: As a user I want to know my identity has been verified.
 Acceptance Criteria: Message stating “We have verified your identity” appears under “Identity Verification” section.
 
-Account Security
+## Account Security
 Use Case: As a user, I want to be able to enhance the security of my account via the ability to enable 2FA
 Acceptance Criteria: User is able to turn on 2FA
 
@@ -28,15 +28,15 @@ Acceptance Criteria: User is able to Accept/Deny terms and conditions agreement
 Use Case: As a user, I want to be able to see the status of my terms and conditions for medical conditions agreement (accepted/vs needs approval)
 Acceptance Criteria: Status of Agreement is presented under the “Terms and Conditions” heading on the Account page.
 
-FAQ
+## FAQ
 Use Case: As a user, I want to be able to get answers to my questions regarding how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov.
 Acceptance Criteria: A link to the VA.gov FAQ page is provided and functional. 
 
 
 
-“Profile” page
+# “Profile” page
 
-Contact Information
+## Contact Information
 Use Case: As a user I want to be able to view and edit my contact information
 Acceptance Criteria: User can view/edit mailing address
 Acceptance Criteria: User can view/edit home address
@@ -46,10 +46,10 @@ Acceptance Criteria: User can view/edit work phone
 Acceptance Criteria: User can view/edit fax number
 Acceptance Criteria: User can view/edit email address
 
-Use Case: As a user I want to be able to update my account settings
+## Use Case: As a user I want to be able to update my account settings
 Acceptance Criteria: A link is provided to go to “Account settings”
 
-Direct Deposit Information for Disability Compensation and Pension Benefits
+## Direct Deposit Information for Disability Compensation and Pension Benefits
 Use Case: As a user I want to known how to change my direct deposit information for GI Bill and other education benefits
 Acceptance Criteria: Provide tool-tip to explain how to change direct deposit information to user
 
@@ -62,12 +62,12 @@ Acceptance Criteria: User is able to edit bank account information- Bank Name, A
 Use Case: As a user, i want to be able to report suspected fraudulent activity
 Acceptance Criteria: User is provided contact number to report suspected fraudulent activity
 
-Personal Information
+## Personal Information
 Use Case: As a user, I want to know how to view/update my personal information
 Acceptance Criteria: User is provided a tool-tip showing how to personal information
 Acceptance Criteria: User is able to view personal information
 
-Military Service
+## Military Service
 Use Case: As a user, I want to know what to do if my information is incorrect
 Acceptance Criteria: User is provided with tool-tip explaining what to do if information is incorrect
 
