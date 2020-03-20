@@ -196,12 +196,14 @@ make an application live for the first time. The process will be to manually:
   [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) to
   generate temporary landing pages for React applications
   - This will happen for all build types
-    - Engineers will be able to access the site locally because of this
-    - CI can run E2E tests without the output of the content build with this
+    - Engineers will be able to access the site on a `localhost` build
+    - CI can run E2E tests against production code without the output of the
+      content build
 - The E2E test script in CI will start a process to serve these pages so the
   tests can run a browser and access the applications
 - **Important note:** These HTML files will not be served in production; the
   landing pages for the applications come from the content build
+  - **Question:** How do we make this happen?
 
 #### Miscellaneous
 - We need a separate content validation job that runs once a day on a schedule
