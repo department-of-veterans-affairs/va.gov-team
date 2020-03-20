@@ -41,6 +41,16 @@ Acceptance Criteria: A link to the VA.gov FAQ page is provided and functional.
 
 # “Profile” page
 ## Contact Information
+
+Use Case: As a user, I would like to know how my information will be used.
+Acceptance Criteria: User sees a info box regarding how their contact information will be used
+
+Use case: As a user, I would like to know how to update my contact information for other benefits
+Acceptance Criteria: User sees a tool tip with information regariding depts to contact to directly update contact information for each situation
+
+Use Case: As a user, I want to be able to locate my closest VA medical center
+Acceptance Criteria: User is provided link to Facility Locator web page
+
 Use Case: As a user I want to be able to view and edit my contact information
 Acceptance Criteria: User can view/edit mailing address
 Acceptance Criteria: User can view/edit home address
