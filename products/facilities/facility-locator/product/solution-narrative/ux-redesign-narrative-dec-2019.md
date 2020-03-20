@@ -31,4 +31,4 @@ This iteration also included some map modifications made after user research rev
 
 See also the following timelines:
 
-- [Final MVP: March 2019](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-mar-2020.md)
+- [v3: February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-feb-2020.md)
