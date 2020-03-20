@@ -13,8 +13,8 @@ The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives
 * [Information Architecture (IA) Request](#information-architecture-ia-request)
 * [Analytics Request](#analytics-request)
 * [Contact Center Review](#contact-center-review)
-* [Privacy and Security Review](#privacy-and-security-review)
 * [Staging Review](#staging-review)
+* [Privacy and Security Review](#privacy-and-security-review)
 * [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
 * [Post-launch Check-in](#post-launch-check-in)
 
