@@ -8,7 +8,7 @@ This document will outline the team or teams wh are best suited to handle differ
 * [Axe scans in daily development](#axe-scans-in-daily-development)
 * [Axe checks in end-to-end tests](#axe-checks-in-end-to-end-tests)
 * [Color Contrast and Colorblindness](#color-contrast-and-colorblindness)
-* [Zoom Layouts to 400%](#zoom-layouts-to-400%)
+* [Zoom Layouts to 400%](#zoom-layouts-to-400)
 * [Keyboard Navigation](#keyboard-navigation)
 * [Screen Readers](#screen-readers)
 
