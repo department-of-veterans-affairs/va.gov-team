@@ -135,7 +135,6 @@ for more details.
   outdated locally cached content and updated Liquid templates
 - Fetching content from the CMS and building HTML files when developing
   applications **slows down the local builds** for engineers unnecessarily
-- When their applications have nothing to with the CMS
 - It **requires either SOCKS proxy access** or the `npm run fetch-drupal-cache`
   command, which isn't obvious
 - **Application deployments and PR builds fail** when content in the CMS is
