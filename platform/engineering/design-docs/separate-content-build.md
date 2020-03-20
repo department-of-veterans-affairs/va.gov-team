@@ -92,7 +92,7 @@ build. The highlights of what this script does include:
 - Creating the HTML pages for the React Single-Page Applications (SPAs)
 - Checking all HTML pages for broken links
 
-The script can be found [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js).
+See [the build script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js) for more details
 
 #### CI pipeline
 The CI pipeline for `vets-website` triggers the above build and runs a number of
@@ -115,7 +115,7 @@ There are currently two kinds of deployments:
       - Instead,
         [fetches](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/configure-assets.js#L22-L23)
         the assets [from S3](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/download-assets.js#L111)
-        - Process is triggered [here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content#L32)
+        - Process is triggered [from this Jenkins config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content#L32)
     - Does **NOT** run any content validation such as accessibility tests or
       broken link checker
 2. [Full deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
@@ -127,7 +127,7 @@ There are currently two kinds of deployments:
         <!-- TODO: Verify that either deploy will cache the pages.json and files -->
     - Runs the accessibility tests and link checker
 
-See [here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/)
+See [the deployment documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/)
 for more details.
 
 #### Pain points
@@ -374,4 +374,3 @@ trenches.
 Date | Revisions Made | Author
 -----|----------------|--------
 Mar ??, 2020 | Initial draft | Christopher Valarida
-
