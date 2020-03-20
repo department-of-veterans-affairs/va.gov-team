@@ -8,7 +8,7 @@ This document describes historical decisions that may be relevant.
 
 This document outlines technical and product decisions, rationale and timeline. 
 
-## Facility Locator UX Redesign Narrative
+## Narrative: Facility Locator UX Redesign and Urgent Care MVP
 
 The purpose of these documents provide a narrative of Facility Locator UX iterations and decisions: 
 
