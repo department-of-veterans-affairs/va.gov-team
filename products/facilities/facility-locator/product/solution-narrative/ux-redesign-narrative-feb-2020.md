@@ -31,5 +31,5 @@ MVP included urgent care as a **VA facility type** with two **service types**:
 - Dropdown functionality has been maintained.
 - Facility type-specific iconography has been removed from dropdown because Veterans did not find it meanigful during user research
 
-See also the following timelines:
+Timeline continues:
 - [Final MVP: March 2019](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-mar-2020.md)
