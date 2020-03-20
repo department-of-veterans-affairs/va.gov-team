@@ -1,6 +1,6 @@
 # Accessibility Testing by Practice Area
 
-This document will outline the team or teams wh are best suited to handle different accessibility tests outlined in the [accessibility staging review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
+This document will outline the team members or practice area(s) who are best suited to oversee tests outlined in the [accessibility staging review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md).
 
 ## Table of Contents
 
