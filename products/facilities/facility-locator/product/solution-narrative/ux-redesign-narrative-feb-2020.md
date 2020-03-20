@@ -16,9 +16,7 @@ Findings from the [User research](https://github.com/department-of-veterans-affa
 - Internal language and inconsistent labeling cause users to hesitate when looking into facilities.
 
 Finding labels that are meaningful to Veterans _and_ acceptable to stakeholders was challenging during parts of this project. 
-The following represents labels which were considered midproject: 
-
-![Language Revision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-MVP-Language-Revisions.pdf)
+Labels which were considered midproject are documented [here] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-MVP-Language-Revisions.pdf). 
 
 MVP included urgent care as a Facilit Type with two service types:
 - VA urgent care
