@@ -30,6 +30,7 @@ The CMS is built with Drupal and currently supports 4 main products at VA:
 
 The CMS points of contact are:  
 - Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
+- Clarence Maeng, Delivery Manager - Slack `@Clarence Maeng`
 - Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
 - Steve Wirt, Tech Lead - Slack `@Steve Wirt`
 - Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
