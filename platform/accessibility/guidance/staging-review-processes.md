@@ -6,7 +6,8 @@ All staging reviews will test the [happy path](https://en.wikipedia.org/wiki/Hap
 ## Before You Request a Review
 Staging accessibility reviews will be turned around in two days, provided the following items are done ahead of time:
 
-* 2-4 weeks before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon
+* Read the [accessibility testing by practice area](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md) document. This will help your team ensure testing is done ahead of the VSP staging review.
+* 2-4 weeks before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon.
 * [Provide test user credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md#accessibility-test-credentials-template)
 * Conduct low-level accessibility tests ahead of the staging review:
   * [Run axe checks using the Chrome or Firefox browser plugin(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation)
