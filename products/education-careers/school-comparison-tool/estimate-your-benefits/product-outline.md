@@ -1,9 +1,9 @@
 # Product Outline: Estimate Your Benefits
 
 #### Communications
-- Team Name: 
+- Team Name: Booz Allen
 - GitHub Label: 
-- Slack channel: 
+- Slack channel: bah-team
 - Product POCs:
 - Stakeholders: 
 
