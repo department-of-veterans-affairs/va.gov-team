@@ -1,7 +1,8 @@
 
 
-## "Account" page
-Identity Verification
+# "Account" page
+
+## Identity Verification
 Use Case: As a user I want to know my identity has been verified.
 Acceptance Criteria: Message stating “We have verified your identity” appears under “Identity Verification” section.
 
@@ -12,13 +13,13 @@ Acceptance Criteria: User is able to turn on 2FA
 Use Case: As a user, I want to be able to see the security status of my account
 Acceptance Criteria: User is notified if 2FA is activated/de-activated
 
-Sign-in Settings
+## Sign-in Settings
 Use Case: As a user, I want to be able to update the login credentials I use to sign into VA.gov.
 Acceptance Criteria: Link to Manage DS login information works
 Acceptance Criteria: Link to Manage MyHealthEVet information works
 Acceptance Criteria: Link to Manage ID.me login information works
 
-Terms and Conditions
+## Terms and Conditions
 Use Case: As a user, I want to be able to view the terms and conditions for medical conditions
 Acceptance Criteria: A link to “View terms and conditions” is present and functional
 
@@ -35,7 +36,6 @@ Acceptance Criteria: A link to the VA.gov FAQ page is provided and functional.
 
 
 # “Profile” page
-
 ## Contact Information
 Use Case: As a user I want to be able to view and edit my contact information
 Acceptance Criteria: User can view/edit mailing address
@@ -46,7 +46,7 @@ Acceptance Criteria: User can view/edit work phone
 Acceptance Criteria: User can view/edit fax number
 Acceptance Criteria: User can view/edit email address
 
-## Use Case: As a user I want to be able to update my account settings
+Use Case: As a user I want to be able to update my account settings
 Acceptance Criteria: A link is provided to go to “Account settings”
 
 ## Direct Deposit Information for Disability Compensation and Pension Benefits
