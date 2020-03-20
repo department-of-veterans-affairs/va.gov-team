@@ -27,6 +27,6 @@ It is preceded by [Beginning September/October 2019](https://github.com/departme
 - Based on DEPO and OCC input, urgent care search improvements became the priority. 
 - The issues remaining with non-urgent care community care are related to taxonomy and presentation at individual provider level rather than facility location level. 
 
-See also the following timelines: 
+Timeline continues: 
 
 - [v2: December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-dec-2019.md)
