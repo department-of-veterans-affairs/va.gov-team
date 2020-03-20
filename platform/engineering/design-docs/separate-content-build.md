@@ -192,10 +192,16 @@ make an application live for the first time. The process will be to manually:
   - **Question:** What configuration file? How does it work?
 
 #### Testing changes to applications
-- The `webpack-dev-server` will create application landing pages for local
-  testing
-- The E2E tests in CI will run the `webpack-dev-server` to serve the site so
-  they have access to the landing pages
+- The Webpack configuration will use
+  [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) to
+  generate temporary landing pages for React applications
+  - This will happen for all build types
+    - Engineers will be able to access the site locally because of this
+    - CI can run E2E tests without the output of the content build with this
+- The E2E test script in CI will start a process to serve these pages so the
+  tests can run a browser and access the applications
+- **Important note:** These HTML files will not be served in production; the
+  landing pages for the applications come from the content build
 
 #### Miscellaneous
 - We need a separate content validation job that runs once a day on a schedule
