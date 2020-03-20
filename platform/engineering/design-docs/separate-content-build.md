@@ -365,6 +365,8 @@ would like to get feedback on this part from somebody with experience in the
 trenches.
 
 ### Future Work
+1. Individually route applications asset requests to their own versioned objects
+   in S3
 1. Splitting out the platform code from the application code
 1. Splitting up the applications into separate repositories
 
