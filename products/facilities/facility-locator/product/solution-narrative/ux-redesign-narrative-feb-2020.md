@@ -15,14 +15,23 @@ Findings from the [User research](https://github.com/department-of-veterans-affa
 - Confusion about benefit coverage at facilities outside the VA 
 - Internal language and inconsistent labeling cause users to hesitate when looking into facilities.
 
-
 Finding labels that are meaningful to Veterans _and_ acceptable to stakeholders was challenging during parts of this project. 
-Labels considered included: 
-Facility type = Urgent care with service type = Urgent care and Community urgent care providers (in VA’s network)
-Facility type = "Non-VA health"
+The following represents labels which were considered midproject: 
 
-# TO BE CONTINUED 
+![Language Revision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-MVP-Language-Revisions.pdf)
+
+MVP included urgent care as a Facilit Type with two service types:
+- VA urgent care
+- Community urgent care providers (in VA's network): This service type returns results for URGENT CARE (if POS code = 20) and RETAIL/WALK-IN CARE (if POS code = 17). These urgent care facility types are designated on the search result card. 
 
 ![Urgent care service types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/urgent%20care%20service%20type.png)
 
+![Urgent care subtypes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/urgent%20care%20subtype.png)
+
+## Changes to search functionality
+- Search functionality moved to new 2 row stacked design 
+- Dropdown functionality has been maintained.
+- Facility type-specific iconography has been removed from dropdown because Veterans did not find it meanigful during user research
+
+See also the following timelines:
 - [Final MVP: March 2019](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-mar-2020.md)
