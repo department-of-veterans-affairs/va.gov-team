@@ -1,107 +1,57 @@
-# Design 
-Hello! In this folder, you'll find information specific to how Design works on VA.gov. 
-
-### Communication channels
-- Slack channels: #design
-- Github labels: design
-
-### Points of contact
-The Design points of contact are:  
-- Lauren Alexanderson, @Lalexanderson on Slack 
-- Alex Taylor, @alextaylor on Slack 
-- Jared Cunha, @jaredcunha on Slack 
-- Emily Waggoner, @Emily on Slack
-
+# Design
+The VSP Design team supports teams building on VA.gov by providing guidance, feedback, and other resources to ensure that we maintain consistent and human-centered design across the site.
 ### Table of contents
-The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
+- [How to contact us](#howtocontact)
+- [What we do](#whatwedo)
+- [Working with us](#workingwithus)
+- [Resources](#resources)
 
-- [UX Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md)
+## How to contact us
+If you need a hand with anything, don't hesitate to contact us.
+- Emily Waggoner, Principal Designer - Slack @EmilyWaggoner
+- Crystabel Reiter, UX Designer - Slack @CrystabelReiter
 
-- [Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-resources)
-    - [Design tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/designtools.md)
-    - [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
-    - [VA Graphic Standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/va-graphic-standards-guide.pdf)
-    
-    - [How to use user test accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/using-test-accounts.md)
+Slack channel: #design
+Github/Zenhub labels: product-support
 
-- Pattern Library
-        - [Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/readme.md)
-        - [Fonts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/vets-fonts.md)
-        - [Sketch Pattern Library](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/VA-gov-Pattern-Library.sketch)
-    - Formation Design System
-        - [Readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-system)
+## What we do
+VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.
+- Show you how we carry out research and design in support of VA.gov products.
+Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
+- Identify design system components and patterns that are most appropriate for what your team is designing
+- Collaborate at key points throughout the life cycle of a product to help connect you to relevant patterns and research and ensure consistency
+- Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
----
-# Previous Readme Content From Deprecated 'Work Practices' Folder
-The content in this folder was made with love by multiple generations of our UX team with special attention from your friendly UX Leads: Emily Wright-Moore, Suzanne Chapman, and Lauren Alexanderson.
+## What we do
+### Orientation
+During orientation, you’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
 
-*Current maintainer of this directory: Lauren Alexanderson*
+### VSP Collaboration Cycle
+The VSP Collaboration Cycle defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
+Design guidance is included as a standard in the following phases of the VSP Collaboration Cycle:
+Define: In the early stages of a project, we will meet in a Design Intent Collaboration meeting to provide you with direction regarding existing design components and research findings relevant to the problem space. 
 
-This folder includes design resources, processes & guidance, and information about the design practice. It does NOT include design components or research components for specific products. You should find those in the appropriate product folder. 
+- **Discover:** Usability testing prep collaboration happens when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
 
-## Getting started
+- **Build:** Staging review is conducted when design is on staging and provides a final look through of the built-out design. Ideally design is polished and discussed previously through prior reviews. We don't want to be making any major design changes at this stage.
 
-Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation) and you're ready to start working in your practice area. This should help you get started. 
-
-## Onboarding: Are you new or need a refresher of all the basic things? 
-- [UX Onboarding talking points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md)
-
-## Practice Area Schedule
-- Monday 1pm Full Team: join.me/vetsdotgov-design; Design & Research Crits, Demos, Readouts, and Discussions 
-
-## [Tools We Use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/designtools.md)
-*If you need to be invited to an account or need a license for a tool reach out to Alex Taylor or Lauren Alexanderson.*
-- **Slack**: All conversations about products should take place in the appropriate DSVA product channel, not a private DM, an AdHoc only, or DSVA only channel. 
-  - Bring any design questions for your fellow designers to the **#design** channel. 
-  - Bring any research questions to the **#vetsdotgov-research** channel. 
-- **GitHub**: Both for code and for storing #allthethingz. This is our knowledge management system too, so document everything!   
-  - Your research process should be documented end-to-end in a [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) stored in your product folder. When you're done with research, add your study & the link to your research folder to the [Research History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)   - Your [design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design) should also be documented in your product folder; upload and store design files, link to prototypes and templates.  
-- **Join.me**: We conduct our meetings on join.me/vetsdotgov-design. If you need to use the design channel at times when we don't have meetings check with Alex Taylor or Lauren Alexanderson. You can also use join.me to conduct some types of research sessions, if you don't need the user to interact with a prototype. 
-- **Sketch**: We use Sketch to design. There is a Sketch pattern library (see links below). Don't create new patterns without checking with the manager of the design system (currently: Sophia Dengo). 
-- **InVision**: We use InVision to create prototypes for testing, demos to stakeholders, etc. 
-- **Ripple**: Ripple is our Veteran database for research. We also have other options to recruit Veterans. Check with research & UX lead (Lauren Alexanderson). 
-- **GoToMeeting**: This is the tool we use to conduct remote research sessions. Requires you to have the desktop version to use. Review the [GoToMeeting Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/during-research) before you use it. Check in with Lauren before booking research sessions on it to make sure you're not overlapping with someone else. 
-- **Optimal Workshop**: This is a research tool you can use to conduct card sorts, tree tests, or unmoderated prototype tests. You can also use the Reframer tool within Optimal Workshop to synthesize research. 
-- **Handrail**: This tool facilitates notetaking during research sessions and synthesis.
-- **Mural**: This is a great group brainstorming tool. Can be used to map out a userflow, conduct remote post-it synthesis, etc. 
-- **Trello**: Trello is a free tool that can also be used to [conduct remote synthesis with your team](https://builttoadapt.io/using-trello-for-user-research-synthesis-fb1abdfc7c4b). 
-
-## Important Links 
-### Research
-- [Research folder with all the things](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research)
-- [Research process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md): This is the process that every team should follow for research. Research should be led by a designer. 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md): Designers should fill out this research plan as they think through their upcoming research. 
-- [Research history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) - This is perpetually a work in progress. If you see something missing, add it! 
-
-### Design
-- [Formation Design System](https://department-of-veterans-affairs.github.io/design-system/index.html): This is our "single source of truth" for design. If you have questions about a pattern or need to add one, please talk to Sophia Dengo and/or bring it up in the #design channel! 
-
-### Graphic Resources
-- [Formation Design System](https://department-of-veterans-affairs.github.io/design-system/index.html): *Repeating this, because it should be your first point of reference.* This is our "single source of truth" for design. If you have questions about a pattern or need to add one, please talk to Sophia Dengo and/or bring it up in the #design channel! 
-- [Sketch Pattern Library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-resources/pattern-library): A tool for designers to create hi-fidelity mockups of features on Vets.gov. It also serves as documentation of the styles and components that make up Vets.gov, as well as basic guidelines for the design system.
-
-### How to Run Vets.gov Locally on Your Computer
-Maybe you want to test a design in code or create a prototype. One way to do that is to set up Vets.gov to run locally on your computer. If you want help setting it up, reach out to Liz Hunt!
-
-## Design Folder Guide
-### [Design Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-resources): 
-*In this folder, you will find:*
- - Official VA graphics resources, such as logos and permissions for using them
- - Pattern Library, including the Sketch pattern library file, how to contribute to it, fonts, colors, and details about the creation and maintenance of the library. 
- - Vets.gov Logo: Vets.gov logo files
- - Sketch file for our palm cards, used for recruiting Veterans
- - Test accounts for different account types
- - The tools we use for design and research on Vets.gov (see also: above)
- - DSVA word document templates
- - Form design process
- - Additional sketch files for other random designs
-  
- ### [Documentation and Readouts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/documentation): 
- *In this folder you will find:*
- - Guidance on how to document significant design decisions
- - Guidance on how to lead a design review 
- - Guidance on how to present your work to stakeholders.
+Review the [Design checklist for usability testing prep and staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-checklist-for-usability-testing-and-staging-revi.md) to prepare your designs for the Usability testing prep collaboration and Staging review meetings. 
  
-### [Example Design Project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/example-design-project)
-*This is an older resource that provides a suggested folder struction for product design work. Needs to be updated. Use if it's helpful.* 
- 
+### Other ways to get VSP design feedback
+We are also available for informal discussions about design challenges and can help answer questions outside of the formal collaboration within the VSP Collaboration Cycle:
+
+- **Platform Design Office Hours**
+Every Tuesday from 3-4pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZDV1bzE3czUzb3U4cTA0YWlqbmRrOW40dDZfMjAyMDAyMTFUMTkwMDAwWiBlbWlseUBhZGhvY3RlYW0udXM&tmsrc=emily%40adhocteam.us&scp=ALL).
+
+- **Design + Content + Research sync**
+Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @Emily Waggoner know in Slack if you’d like to get on the list! [Add the event to your calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDMzMGQxbTZncmo4aDltNzBxazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtwNGNoOWs2NTIzaWMxbTY0c2o4aDlrNjkxMzZjaGw2dDJqZWhoZzc1MGpnZTFpOGNzZ18yMDE5MTExOFQxODAwMDBaIGVtaWx5QGFkaG9jdGVhbS51cw&tmsrc=emily%40adhocteam.us&scp=ALL).
+
+- **Design in the open**
+We encourage all designers to be open about their process and seek feedback throughout every step. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.
+
+## VA.gov design resources
+- [VA.gov design system](https://design.va.gov/)
+- [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#how-we-work)
+- [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
+- [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
+- [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers)
