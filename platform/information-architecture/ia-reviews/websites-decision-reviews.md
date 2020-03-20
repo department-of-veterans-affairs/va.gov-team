@@ -33,11 +33,11 @@
 
 Page | New URL | New Breadcrumb | Notes
 --- | --- | --- | ---
-[Manage a legacy appeal](https://www.va.gov/disability/file-an-appeal/) |  |   | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
-[Request a priority review](https://www.va.gov/disability/file-an-appeal/request-priority-review/) |  |   | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
-[Board of Veterans Appeals hearings](https://www.va.gov/disability/file-an-appeal/board-of-veterans-appeals/) | | | - This is an existing static page that will be...TBD
-Supplemental claim static page | | | 
-
+[Manage a legacy appeal](https://www.va.gov/disability/file-an-appeal/) | www.va.gov/decision-reviews/legacy-appeals | Home > VA decision reviews and appeals > Manage a legacy VA appeal   | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
+[Request a priority review](https://www.va.gov/disability/file-an-appeal/request-priority-review/) |  www.va.gov/decision-reviews/legacy-appeals/priority-review | Home > VA decision reviews and appeals > Manage a legacy VA appeal > Request a priority review  | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
+[Board of Veterans Appeals hearings](https://www.va.gov/disability/file-an-appeal/board-of-veterans-appeals/) | | | - This is an existing static page that will either be moved or retired...**TBD**
+[Supplemental claim static page](https://www.va.gov/decision-reviews/supplemental-claim/) | No changes to URL | Home > VA decision reviews and appeals > Supplemental claims | - This is an existing static page and is only a change to the H1 and Breadcrumb to remove the action word "Request".  This will make it consistent with the other review type pages, clarify that this page is not where the action is executed, and reserves the action word for the future when the actual form comes online.
+[Board appeals static page](https://www.va.gov/decision-reviews/board-appeal/) | No changes to URL | Home > VA decision reviews and appeals > Board appeals | - This is an existing static page and is only a change to the H1 and Breadcrumb to remove the action word "Request".  This will make it consistent with the other review type pages, clarify that this page is not where the action is executed, and reserves the action word for the future when the actual form comes online.
 
 
 <hr>
@@ -45,13 +45,25 @@ Supplemental claim static page | | |
 ### Navigation Changes and Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Navigational Elements**<br>
 *Please connect with your writer/editor on the proper labels and capitalization of these elements, copy below is provided for IA direction only*
 
-- The hub page hub should contain the following 3 spokes:
+**Navigational Elements**<br>
+
+- The hub page hub should contain the following 3 spokes and links:
   - Request a decision review
+    - Supplemental claims
+    - Higher-level reviews
+    - Board appeals
+    - After you request a review
+    - Contested claims
+    - Insurance claims
+    - Fiduciary claims
   - Manage your decision reviews and appeals
+    - Check  your status
+    - Manage your legacy disability appeal
   - More information and resources
+    - Frequently asked questions
+    - Get help with your review request
 - A left hand navigation element will need to be added to all level 2 content pages under www.va.gov/decision-reviews/
 - The left hand nav structure and order should be:
   - Request
@@ -61,11 +73,11 @@ Supplemental claim static page | | |
     - Board appeals
       - Veterans law judge hearings
       - After a board appeal decision
+    - After you request a review
     - Contested claims
     - Insurance claims
     - Fiduciary claims
   - Manage
-    - After you request a review
     - Check  your status
     - Manage your legacy disability appeal
       - Request a priority review
@@ -77,14 +89,13 @@ Supplemental claim static page | | |
 *Priority: Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
 Priority | Placement | Description
---- | --- | ---
-Must | Disability top nav flyout |
-Must | Disability hub page |
-Must | Disability left nav | 
-Must | Decision review hub page | 
-Must | Decision review left nav |
-
-
+--- | --- | --- | ---
+Must | Disability top nav flyout | Placed as bottom option in the "manage" column
+Must | Disability hub page | Replace the existing "Manage a legacy VA appeal" link and teaser text
+Must | Disability left nav | Replace the existing "Manage a legacy VA appeal" link 
+Must | Decision review hub page  | See above hub page info for placement
+Must | Decision review left nav  | See above left nav info for placement
+Should | All other benefit hubs | | A link to decision reviews should be added to every appropriate benefit hub under the "Manage" spoke. This should be reviewed on a hub by hub basis
 
 <hr>
 
