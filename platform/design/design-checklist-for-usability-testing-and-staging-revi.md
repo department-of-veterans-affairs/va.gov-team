@@ -1,4 +1,4 @@
-# Design checklist for usability testing prep and staging review
+# Design checklist for Usability Testing Prep and Staging Review
 Here’s a list of things we will be looking for when we review your designs:
 - [ ] New design patterns have been vetted by DSVA and documented
 - [ ] Mobile, tablet, and desktop breakpoints have been accounted for
