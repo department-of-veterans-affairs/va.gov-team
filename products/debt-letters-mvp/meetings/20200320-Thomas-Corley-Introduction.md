@@ -2,7 +2,7 @@
 ## Agenda:
 
 #### Attendees: 
-Matthew Self, Leah Keeler, Riley Orr, Amen Ra, Mahariel Rosario, Melissa Rebstock, Cameron Testerman
+Matthew Self, Leah Keeler, Riley Orr, Amen Ra, Mahariel Rosario, Thomas Corley, Minh Bang, Cameron Testerman
 
 #### Background:
 The Benefits & Memorials 2 team is working on a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them. 
