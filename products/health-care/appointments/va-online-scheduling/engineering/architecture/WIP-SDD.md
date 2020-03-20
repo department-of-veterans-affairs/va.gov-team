@@ -87,7 +87,7 @@ The veteran facing application on VA.gov does not interface with any VAMF servic
 
 ### Common Concepts
 
-1. Feature Flags - Features can be disabled / enabled based on user email, environment, and other conditions.
+1. Feature Toggles - Features can be disabled / enabled based on user email, environment, and other conditions.
 1. Circuit Breakers - Timeouts and Failed Requests are closely monitored, and can trigger a circuit break, which will limit outbound requests until the service becomes available again.
 1. StatsD Metrics - Realtime metrics for any type of data can be added.
 1. Rails Logs - Can add logs at any point in execution

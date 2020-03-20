@@ -1,4 +1,4 @@
-# Feature Flags (aka Feature Toggles, Feature Flippers)
+# Feature Toggles
 VSP has feature toggles that can be used in both vets-api and vets-website. 
 It's possible to enable/disable a feature entirely, for a percentage of all users, a percentage of all logged in users, a list of users, or using some criteria defined in a method. At this time the feautre toggles are managed by a select few administrators (ask in #VSP-Platform-Support slack), but we intend to allow more access in the future.
 
@@ -27,4 +27,4 @@ Full [vets-website feture toggle documentation](https://department-of-veterans-a
 ## Back End Implementation
 To check if a feature is enabled within the context of a specific user, call  `Flipper.enabled?('facility_locator_show_community_cares', @current_user))`.  The user parameter is optional.
 
-To initialize the feature flag (defaulted to disabled in stanging and production and enabled in development and test) in each environment add the feature name to FEATURE_TOGGLES in [config/features.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml)
+To initialize the feature toggle (defaulted to disabled in stanging and production and enabled in development and test) in each environment add the feature name to FEATURE_TOGGLES in [config/features.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml)

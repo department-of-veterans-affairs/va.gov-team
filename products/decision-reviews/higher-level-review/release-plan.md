@@ -4,7 +4,7 @@ So! You're thinking about how you want to launch your product. You know you'll p
 
 So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
 
-That's what this Release Plan Template is for! And note - there are feature flags and beta banners at your disposal that you can use as a part of your plan.
+That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.
 
 ---
 

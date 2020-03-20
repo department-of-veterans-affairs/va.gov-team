@@ -8,7 +8,7 @@ For example:
 
 * A new design pattern is added to the design system
 * The Sketch file has been updated
-* A change to how the feature flag works
+* A change to how the feature toggle works
 * A change to how the website build process works
 * A significant change to the content style guide
 
@@ -18,7 +18,7 @@ The post needs to provide enough information that a designer, developer, or cont
 
 > Sketch file has been updated to include new treatment for X. Find the Sketch file here [link].
 
-> We changed how the feature flag works. Instead of doing [describe the old way], you need to do X [describe the new way].
+> We changed how the feature toggle works. Instead of doing [describe the old way], you need to do X [describe the new way].
 
 ## DSVA and platform responsibilities
 

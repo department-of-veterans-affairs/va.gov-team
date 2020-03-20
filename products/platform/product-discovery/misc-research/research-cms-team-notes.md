@@ -20,7 +20,7 @@ Have workarounds
 
 3. **Redirects** - 90% of time have a way of working with it (potential for AUTOMATION) Megan, Nick, Wyatt, Mikki are already thinking about this problem
 
-4. **Feature Flags** - avoiding problem by not changing the content model. Most changes are additive. The problem is when we are deleting things or changing things.
+4. **Feature Toggles** - avoiding problem by not changing the content model. Most changes are additive. The problem is when we are deleting things or changing things.
 
 
 
@@ -79,7 +79,7 @@ Ex: Pittsburgh Website
 - Redirects are being made, creating broken links and stopping builds
 - Wyatt is working on this issue
 
-#### Feature Flags
+#### Feature Toggles
 
 - CMS code and FE code
 - Timing issue that changes or introduces something new and the front end isn’t expecting, there is an error

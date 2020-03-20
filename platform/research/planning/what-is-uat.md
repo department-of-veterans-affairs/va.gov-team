@@ -129,7 +129,7 @@ Here are some examples to help you understand when you must test with Veterans v
 1. Recruit participants. Follow the [normal steps for recruiting](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#participant-recruiting), [consent](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#participant-consent) and [thank-yous](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#participant-thank-yous).
 
 1. Your code needs to be in the production environment for UAT, but not visible to users who are not part of your UAT. 
-    * You should be using feature flags to hide your code when you push to staging. 
+    * You should be using feature toggles to hide your code when you push to staging. 
     * Your code can be made visible in the production environment to a limited set of users via a password.
     * You need to work with the DSVA devops team to set that up.
     * Post in the #support-external Slack channel -- explain that you're planning a UAT in production and want to put your service/tool/feature behind a password.

@@ -94,7 +94,7 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Define or reference a known resource
 - [x] For PRs: first review internally with BE or another engineer before the BE Team
   - [x] `Once internally reviewed, share with the BE Review Team at VSP (team name?)`
-  - [x] Ensure that feature flags are set appropriately to be toggled
+  - [x] Ensure that feature toggles are set appropriately to be toggled
 - [x] Documentation and points of contact for any new backend dependencies - see Product Outline for contact info
 
 ### Frontend Tasks
@@ -106,7 +106,7 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Define or reference a known resource
 - [x] For PRs: first review internally with FE or another engineer before the FE Team
   - [x] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
-  - [x] Ensure that feature flags are set appropriately to be toggled
+  - [x] Ensure that feature toggles are set appropriately to be toggled
   - [x] Entrance pages (i.e. supporting static content) in place
 
 ## Review

@@ -78,7 +78,7 @@ _Do we need to merge the FE and BE tasks?_
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
   - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
-  - [ ] Ensure that [feature flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) are set appropriately to be [toggled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md) 
+  - [ ] Ensure that [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) are set appropriately to be [toggled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md) 
 - [ ] Documentation and points of contact for any new backend dependencies
 - [ ] Links to important dashboards for investigating relevant issues
 ### Frontend Tasks
@@ -90,7 +90,7 @@ _Do we need to merge the FE and BE tasks?_
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with FE or another engineer before the FE Team
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
-  - [ ] Ensure that [feature flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) are set appropriately to be [toggled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md) 
+  - [ ] Ensure that [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) are set appropriately to be [toggled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md) 
   - [ ] Entrance pages (i.e. supporting static content) in place
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews

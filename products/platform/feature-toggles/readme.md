@@ -14,7 +14,7 @@ Feature Toggles will enable teams to test out new functionality (Applications, f
 
 ## Product Guides\Documentation:
 - [Feature Flag Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md)
-- [Front-End feature flags Overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/)
+- [Front-End feature toggles Overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/)
 
 
 ## Product Responsibility (Last updated: 1-16-20 )
