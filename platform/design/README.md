@@ -52,6 +52,6 @@ We encourage all designers to be open about their process and seek feedback thro
 ## VA.gov design resources
 - [VA.gov design system](https://design.va.gov/)
 - [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#how-we-work)
-- [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
+- [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#in-general)
 - [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers)
