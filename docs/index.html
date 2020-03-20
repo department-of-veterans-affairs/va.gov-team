@@ -35,11 +35,13 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
+
     <header class="h-32 px-16 pt-8 bg-blue-900 text-white">
       <div class="pb-3">
         <span class="text-4xl">VA.gov | Documentation</span>
       </div>
     </header>
+
     <main>
       <section>
         <div class="bg-gray-200 px-40 py-16">
@@ -51,7 +53,7 @@
             you work.
           </div>
         </div>
-        <div class="bg-blue-300 px-40 py-4">
+        <div class="beta-banner bg-blue-300 px-40 py-4">
           <span class="font-bold text-xl">
             This is a beta site.
           </span>
@@ -61,12 +63,14 @@
           </span>
         </div>
       </section>
+
+      <!-- Practice area quick links -->
       <section class="px-40 pt-16">
         <h2 class="font-bold text-3xl">
           Practice area quick links
         </h2>
         <div class="grid grid-cols-3 gap-8 pt-10">
-          <div>
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering"
@@ -124,7 +128,7 @@
               >
             </div>
           </div>
-          <div>
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md"
@@ -182,7 +186,7 @@
               >
             </div>
           </div>
-          <div>
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research"
@@ -233,7 +237,7 @@
               >
             </div>
           </div>
-          <div>
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design"
@@ -277,7 +281,7 @@
               >
             </div>
           </div>
-          <div class="team">
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content"
@@ -335,7 +339,7 @@
               >
             </div>
           </div>
-          <div class="team">
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/information-architecture"
@@ -379,7 +383,7 @@
               >
             </div>
           </div>
-          <div class="team">
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility"
@@ -423,7 +427,7 @@
               >
             </div>
           </div>
-          <div class="team">
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics"
@@ -474,7 +478,7 @@
               >
             </div>
           </div>
-          <div class="team">
+          <div class="practice-area">
             <div class="pb-4 border-b">
               <a
                 href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management"
@@ -513,6 +517,8 @@
           </div>
         </div>
       </section>
+
+      <!-- Working with VSP -->
       <section class="px-40 pt-16">
         <h2 class="font-bold text-3xl">
           Working with the Veteran-facing Service Platform (VSP)
@@ -571,11 +577,14 @@
           </div>
         </div>
       </section>
-      <section class="px-40 pt-16 pb-32">
+
+      <!-- Getting Started -->
+      <section class="getting-started px-40 pt-16 pb-32">
         <h2 class="font-bold text-4xl">Getting Started</h2>
         <div class="grid grid-cols-2 gap-4 pt-12">
-          <div class="card-column bg-gray-100">
-            <div class="p-6">
+          <div class="column bg-gray-100">
+            <!-- Policies and Guidelines -->
+            <div class="policies p-6">
               <p class="font-bold text-xl pt-2">Policies and guidelines</p>
               <div class="pt-4">
                 <a
@@ -592,7 +601,9 @@
                 >
               </div>
             </div>
-            <div class="px-6">
+
+            <!-- VA.gov products -->
+            <div class="products px-6">
               <p class="font-bold text-xl">VA.gov products</p>
               <div class="pt-4">
                 <a
@@ -602,7 +613,9 @@
                 >
               </div>
             </div>
-            <div class="p-6">
+
+            <!-- Systems and Tools -->
+            <div class="tools p-6">
               <p class="font-bold text-xl">Systems and tools</p>
               <div class="pt-4">
                 <a
@@ -641,17 +654,18 @@
               </div>
             </div>
           </div>
-          <div class="card-column bg-gray-100">
+
+          <!-- List of repos -->
+          <div class="column bg-gray-100">
             <div class="p-6 repos">
               <p class="font-bold text-xl pb-4">List of repos</p>
               <div class="repo">
-                <div>
-                  <a
-                    class="repo-link text-blue-800 hover:underline"
-                    href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products"
-                    >VA.gov-team</a
-                  >
-                </div>
+                <a
+                  class="repo-link text-blue-800 hover:underline"
+                  href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products"
+                  >VA.gov-team</a
+                >
+
                 <p class="pt-2 pb-4">
                   Repo for the Veteran Facing Services Platform (VSP) contract
                   that stores non-code documents created and used by the VA.gov
@@ -659,37 +673,33 @@
                 </p>
               </div>
               <div class="repo">
-                <div>
-                  <a
-                    class="repo-link text-blue-800 hover:underline"
-                    href="https://github.com/department-of-veterans-affairs/vets-website"
-                    >vets-website</a
-                  >
-                </div>
+                <a
+                  class="repo-link text-blue-800 hover:underline"
+                  href="https://github.com/department-of-veterans-affairs/vets-website"
+                  >vets-website</a
+                >
+
                 <p class="pt-2 pb-4">
                   Frontend for VA.gov
                 </p>
               </div>
               <div class="repo">
-                <div>
-                  <a
-                    class="repo-link text-blue-800 hover:underline"
-                    href="https://github.com/department-of-veterans-affairs/vets-api"
-                    >vets-api</a
-                  >
-                </div>
+                <a
+                  class="repo-link text-blue-800 hover:underline"
+                  href="https://github.com/department-of-veterans-affairs/vets-api"
+                  >vets-api</a
+                >
+
                 <p class="pt-2 pb-4">
                   API powering VA.gov
                 </p>
               </div>
               <div class="repo">
-                <div>
-                  <a
-                    class="repo-link text-blue-800 hover:underline"
-                    href="https://github.com/department-of-veterans-affairs/veteran-facing-services-tools"
-                    >veteran-facing-services-tools</a
-                  >
-                </div>
+                <a
+                  class="repo-link text-blue-800 hover:underline"
+                  href="https://github.com/department-of-veterans-affairs/veteran-facing-services-tools"
+                  >veteran-facing-services-tools</a
+                >
                 <p class="pt-2 pb-4">
                   Frontend code and documentation used by Veteran facing
                   services (VFS) on VA.gov. A monorepo managed by Lerna, a tool
@@ -698,13 +708,11 @@
                 </p>
               </div>
               <div class="repo">
-                <div>
-                  <a
-                    class="repo-link text-blue-800 hover:underline"
-                    href="https://github.com/department-of-veterans-affairs/vets-design-system-documentation"
-                    >vets-design-system-documentation</a
-                  >
-                </div>
+                <a
+                  class="repo-link text-blue-800 hover:underline"
+                  href="https://github.com/department-of-veterans-affairs/vets-design-system-documentation"
+                  >vets-design-system-documentation</a
+                >
                 <p class="pt-2 pb-4">
                   Repo for the design system documentation
                 </p>
@@ -713,7 +721,9 @@
           </div>
         </div>
       </section>
-      <div class="bg-blue-300 px-40 py-4">
+
+      <!-- Beta banner -->
+      <div class="beta-banner bg-blue-300 px-40 py-4">
         <span class="font-bold text-xl">
           This is a beta site.
         </span>
