@@ -55,3 +55,9 @@ We encourage all designers to be open about their process and seek feedback thro
 - [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#in-general)
 - [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers)
+
+##### Revision History
+
+Date | Revisions Made | Author
+-----|----------------|--------
+March 20, 2020 | Reformatted using new template. | Emily Waggoner
