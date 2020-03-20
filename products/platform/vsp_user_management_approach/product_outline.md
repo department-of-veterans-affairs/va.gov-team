@@ -1,4 +1,4 @@
-# User Management Product Outline (WIP)
+# User Management Product Outline 
 
 
 #### Communications
@@ -11,9 +11,17 @@
 
 ## Problem Statement 
 
+The process for access is very manual and time-intensive for both VSP Operations and the users requesting access. Right now, to get access, a user needs to follow instructions and fill out a ZH issue. Then VSP Operations will manually process each request. Depending on the type of access, DEPO may need to approve the request. Additionally, the process of auditing users on VA.gov is time-consuming and unclear, because VSP Operations needs to check with each team to verify if a user is active. This process is very cumbersome for all parties involved.
 
-How might we have a better structured source of truth, so that granting access and auditing team membership can be easy for both VSP and VSF teams.
+Now we want to create a clearer process to better help organize teams, so users can see where they are in the access process. Finally, once that process is in place we will work to address the task of automating access on VA.gov.
 
+**How might we have a better structure user management, so that auditing team membership, granting and automating team access  can be easy Va.gov.**
+
+### Top Pain points:
+- The time it takes to get access
+- Transparency during the access process
+- Manual and time-intensive
+- Auditing is time-consuming and slow 
 
 ## Desired User Outcomes
 - Team has more control over access
@@ -42,9 +50,9 @@ How might we have a better structured source of truth, so that granting access a
 - The current process is not scalable   
 
 ## Solution Approach
-We started this approach on VSP by creating and connecting team to access via webhooks to grab user’s SSH key via GitHub. Due to a lack of personal, we deprioritized this work to focus on getting processes in place to organize teams first. We will be rolling back the changes we made on VSP and taking this work on later as part of the Infrastructure Recommit. The initial work that was completed is still moving forward, only there will be chances in how things are implemented. Those changes are iterations on what we learned from our initial work and will be carried out as part of the Infrastructure Recommit. 
+We started this approach on VSP by creating and connecting teams to access via webhooks to grab the user’s SSH key via GitHub. Due to changes, these plans needed to be adjusted. We found that not only was access a problem, but so was auditing, offboarding, and general user management was as well. We decided to speak with more teams to have a better understanding of the problem space and iterate on what we learned from our initial work. This resulted in working with DEPO to shorten the time it took to grant users SOCKS access from 8+ days to 1. Now we are creating a clearer process to better help organize teams and clear user management structure. We also will be rolling back the automated changes we made on VSP and taking on access automation as part of the Infrastructure Recommit. 
 
-Currently, we are creating a [process]( ) to logically organize VSP and VFS teams. Once  this process is in place we then will connect access to both the general and Verified Teams. 
+Currently, we are creating a [process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/vsp_user_managment_process.md) to logically organize VSP and VFS teams. Once  this process is in place we then will connect access to both the general and Verified Teams. 
 
 * By organizing teams first and having a process in place this will make user management easier. 
 * Using GitHub Teams as the source of truth, because that is where all out work is now and teams are familiar with how GitHub works.
