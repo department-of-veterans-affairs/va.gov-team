@@ -36,6 +36,8 @@ Page | New URL | New Breadcrumb | Notes
 [Manage a legacy appeal](https://www.va.gov/disability/file-an-appeal/) |  |   | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
 [Request a priority review](https://www.va.gov/disability/file-an-appeal/request-priority-review/) |  |   | - This existing page will be moved from disability to Decision Reviews content area <br> - The URL and breadcrumb will change as noted <br> - A redirect will need to be created for the URL change. See redirect info below. <br> The left nav on this page will need to reflect the new Decision Review hub left nav. 
 [Board of Veterans Appeals hearings](https://www.va.gov/disability/file-an-appeal/board-of-veterans-appeals/) | | | - This is an existing static page that will be...TBD
+Supplemental claim static page | | | 
+
 
 
 <hr>
