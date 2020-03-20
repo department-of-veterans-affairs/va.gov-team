@@ -152,6 +152,18 @@ These people may have some opinions:
 - Conduct interviews
 - Synthesize
 
+## Additional research
+
+- Comparative analysis: Other logged in experiences
+
+## Next steps
+
+- Outline goals
+  - What is going to be on the actual homepage?
+  - Structure/design
+  - User expectations
+- Map those to each method
+
 ### Research synthesis
 
 Post research, everything needs to be sythesized and final recommendations need to be made. This could take on a few different shapes if someone else is helping out:
