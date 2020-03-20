@@ -72,8 +72,7 @@ The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
 whenever a commit is pushed to a branch in GitHub. On a branch, this build must
 be successful **before the branch can be merged.**
 
-The output of this build are **[deployed](#deployment) to and hosted from a
-[versioned](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html) AWS
+The output of this build are **[deployed](#deployment) to and hosted from an AWS
 S3 bucket**. Applications are deployed on a weekdaily schedule. New content is
 deployed by a manual trigger from the CMS and by the weekdaily application
 deployment.
