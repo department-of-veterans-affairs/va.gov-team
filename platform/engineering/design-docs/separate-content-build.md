@@ -182,8 +182,7 @@ make an application live for the first time. The process will be to manually:
   - **Question:** Can the application build be run in Circle?
   - **Question:** Where can we run the content build?
 - Content will be deployed to a separate S3 bucket from the application code
-- The S3 buckets will have [versioned
-  directories](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
+- The S3 buckets will be [versioned](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
   in them with the contents of each deployment
   - Old directories will be removed after 90 days
     - **Question:** What makes sense? This is a totally arbitrary number
