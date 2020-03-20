@@ -223,7 +223,7 @@ process, they will be located in `vets-website/scripts/build/`.
 
 ### Testing Plan
 
-#### Conslidated build script
+#### Consolidated build script
 After the content and application builds have their own build scripts within
 `vets-website`, we'll write a script to run both builds together to reproduce
 the current build script's output. To test that this is working properly we can:
