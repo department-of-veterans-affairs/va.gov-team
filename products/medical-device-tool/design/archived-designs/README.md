@@ -15,4 +15,4 @@ All of the archived designs for the Medical Device Tool live here. The most rece
 - **Chapter 3: Review order** 
    - Page 1: Review order (TBD)
 - **Confirmation screen** 
-   - Confirmation screen (TBD)
+   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/archived-designs/confirmation-screen.md)
