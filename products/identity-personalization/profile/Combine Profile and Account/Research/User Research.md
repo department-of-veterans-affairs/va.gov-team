@@ -68,8 +68,8 @@ Each session will be approximately 45 minutes.
 ### Team Availability (EST)
 
 Date | Time
-March 31 |11 AM - 6 PM
-April 1 |11 AM - 6 PM
+| March 31 |11 AM - 6 PM |
+| April 1 |11 AM - 6 PM |
 April 2 |11 AM - 6 PM
 April 3 |11 AM - 6 PM
 
