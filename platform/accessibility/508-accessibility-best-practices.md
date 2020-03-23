@@ -87,8 +87,9 @@ When you push your code to a feature branch or merge to master, the automated bu
     - White text on yellow, orange, red
     - Black text on darker blues, purples
     - Gray text on white or textured backgrounds.
-- Sketch plugins for designers to test deliverables in progress:
-    - [Sketch Color Contrast Analyzer](https://github.com/getflourish/Sketch-Color-Contrast-Analyser)
+- Check color contrast ratios of deliverables in progress:
+    - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+    - [Tanaguru Contrast Finder](https://contrast-finder.tanaguru.com/)
     - [Stark - Color Contrast and Color Blindness Plugin](http://www.getstark.co/)
 - Check for colorblindness issues in live sites using the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en)
 
