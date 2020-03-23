@@ -13,24 +13,32 @@
 | May 22 - May 29 | End-to-end testing |
 | May 29 | Phase 0 dark release (proof of concept)|
 
-## Phase 0 (May 2020)
-| Requirement | Ticket # |
+
+Key
+| Symbol | Meaning |
 | --- | --- | 
+| :white_check_mark:| Complete |
+| :zap: | To Do |
+| :no_entry_sign:| blocked |
+
+## Phase 0 (May 2020)
+| Requirement | Ticket # | Status |
+| --- | --- | --- |
 | User will be able to: | 
-| Navigate to the 10-10CG online application| n/a|
-| Start 10-10CG application online without logging in| 155|
-| Fill in all fields from the paper 10-10CG form | n/a
-| Ensure that all fields have been completed appropriately (data validation) | n/a
-| Select a medical facility from a program-approved list | n/a
-| Review entered data prior to submission | 176 |
-| Provide a signature for Veteran and Caregiver | 164 |
-| Recieve and print a confirmation message after submission | n/a
-| Not able to edit form after submission| 165 |
+| Navigate to the 10-10CG online application| n/a| :no_entry_sign:
+| Start 10-10CG application online without logging in| 155 | :white_check_mark:|
+| Fill in all fields from the paper 10-10CG form | n/a | :white_check_mark:|
+| Ensure that all fields have been completed appropriately (data validation) | n/a | :white_check_mark:|
+| Select a medical facility from a program-approved list | n/a | :white_check_mark:|
+| Review entered data prior to submission | 176 | :white_check_mark:|
+| Provide a signature for Veteran and Caregiver | 164 | :white_check_mark:|
+| Recieve and print a confirmation message after submission | n/a | :zap: |
+| Not able to edit form after submission| 165 | :white_check_mark:|
 | --- | --- | 
 | Business will be able to: | 
-| Verify veteran identity through MPI and ICN number | n/a
-| Start processing application in CARMA immediately | n/a |
-| Ensure a valid address was entered | n/a
+| Verify veteran identity through MPI and ICN number | n/a| :zap: |
+| Start processing application in CARMA immediately | n/a | :no_entry_sign:|
+| Ensure a valid address was entered | n/a| :zap: |
 
 
 ## Phase 1 (Estimated July 2020)
