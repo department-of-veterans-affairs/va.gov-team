@@ -448,15 +448,26 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 ### Order of priorities
 
+**Main team**
+
 Any overflow from last sprint, plus:
 
-1. Profile 2.0: Conduct sessions; Research report and readout; create any follow up tickets; design updates (if time)
-2. Profile 2.0: Build continues
+1. Profile 2.0: Finish conversation guide; Kickoff research; 
+2. Profile 2.0: Build starts?
 3. Address validation post-launch tickets
+4. Matt – what comes next with profile 2.0?
+
+**Logged-in homepage work**
+
+1. Planning
+2. Stakeholder interviews
 
 ### Address validation
 
-- Post build tickets
+- [ ] Ramp up to 50%
+- [ ] Ramp up to 100%
+- [ ] Change address update endpoint to use iso3 country code #6046
+- [ ] Stop using country name for VA profile contact information endpoint #5591
 
 ### Profile 2.0
 
@@ -467,13 +478,13 @@ Design
 - Research updates
 
 Dev
-- Continue build
+- Start build?
 
 ## Sprint 19 (4/8 - 4/21)
 
 ### Order of priorities
 
-1. Profile 2.0: Content review/IA work
+1. Profile 2.0: Conduct sessions and summarize research; Content review/IA work
 2. Profile 2.0: Build continues
 3. Address validation: If applicable, any final tickets
 
