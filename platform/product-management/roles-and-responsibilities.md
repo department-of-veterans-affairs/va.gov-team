@@ -24,6 +24,7 @@ Team Leads are responsible for setting the direction of Veteran Facing Tools (VF
 - Escalate team needs within VA
 - Own stakeholder management strategy. Empower the product team to manage stakeholder relationships where appropriate
 - Sign off on the launch of new products or features
+- Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
  
 #### Product Lead  
 ---
@@ -61,4 +62,5 @@ Product Managers are responsible for organizing the direction and implementation
 - Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements.
 - If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
 - Fulfill launch checklist criteria prior to each launch.
+- Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
 ---
