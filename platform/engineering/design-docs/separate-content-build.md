@@ -152,9 +152,11 @@ The current front end build will be split up into two distinct builds:
 1. Content build
     - Input: CMS content
     - Output: HTML files, assets from the CMS (PDFs, images and the like)
+    - This maps pretty cleanly to the current partial deploy
 1. Application build
     - Input: `vets-website` code
     - Output: JavaScript and CSS bundles
+    - This essentially maps to the current full deploy minus the content
 
 The output of both these builds will be deployed to separate buckets. The
 reverse proxies will route traffic intelligently to the appropriate bucket given
