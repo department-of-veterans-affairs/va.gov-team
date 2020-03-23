@@ -74,7 +74,7 @@ The naming convention for products begins with these prefixes:
 |Terms and Conditions | `terms-` |
 |Facility Locator | `fl-` |
 |Education Applications | `edu-`,  `edu-1990e-`, `edu-1990n-`, `edu-1995-`, `edu-5490-`, `edu-5495-`|
-|Health Care Application | `hca-` |
+|Health Care Applications | `hca-`, `vaos-` |
 |GIBCT| `gibct-`|
 |Post 9-11 Benefits Status| `post911-`|
 |Health Records| `health-record-` |
