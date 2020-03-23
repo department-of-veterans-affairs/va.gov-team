@@ -13,8 +13,8 @@ Documentation about the CMS lives in various places
 
 ### Documentation resources not currently in use. 
 
-* [va.gov-team-sensitive]() will house sensitive documentation that should be acessible to certain VA teams, but not made public. 
-* [va.gov-cms-team]() may house private team documentation. It may replace the CMS team's current use of Confluence.
+* [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/cms) will house sensitive documentation that should be acessible to certain VA teams, but not made public. 
+* [va.gov-cms-team](https://github.com/department-of-veterans-affairs/va.gov-cms-team) may house private team documentation. It may replace the CMS team's current use of Confluence.
 
 ## CMS-supported product at VA.gov
 
