@@ -455,18 +455,14 @@ Any overflow from last sprint, plus:
 1. Profile 2.0: Finish conversation guide; Kickoff research; 
 2. Profile 2.0: Build starts?
 3. Address validation post-launch tickets
-4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+4. PM work
+5. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
 
 **Logged-in homepage work**
 
 1. Planning
 2. Stakeholder interviews
-
-**Matt**
-
-1. Figure out what design needs to accompany [this ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6466) and get design tickets created and added to the backlog.
-2. Profile 2.0 epic grooming/What comes next with profile 2.0?
-3. Work with Erik to create a ticket for the Find VA Benefits work coming out of [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) 
 
 ### Address validation
 
@@ -488,6 +484,16 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 
 **Dev**
 - Start build?
+
+### PM work
+
+- Figure out what design needs to accompany [this ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6466) and get design tickets created and added to the backlog.
+- Profile 2.0 epic grooming/What comes next with profile 2.0?
+- Work with Erik to create a ticket for the Find VA Benefits work coming out of [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) 
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- If possible, have Tressa do design this sprint to unblock #6466
 
 ## Sprint 19 (4/8 - 4/21)
 
