@@ -25,7 +25,7 @@ Team Leads are responsible for setting the direction of Veteran Facing Tools (VF
 - Own stakeholder management strategy. Empower the product team to manage stakeholder relationships where appropriate
 - Sign off on the launch of new products or features
  
-#### Product Lead (Ad Hoc)
+#### Product Lead  
 ---
 Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and VFT product strategy and marketing.
 
@@ -46,22 +46,21 @@ Product Managers are responsible for organizing the direction and implementation
 
 ##### Key Responsibilities:
 
-- Create and maintain product documentation, which might include:
+- Create and maintain product documentation, outlines, and briefs with input from DEPO Team Lead and cross-functional product team
+- Meet regularly with Team Lead to
+  - Collaboratively prioritize product initiatives for each upcoming Program Increment
+  - Review upcoming Releases and set expectations around delivery capacity
+  - Get insight into stakeholder needs and expectations
+- Lead the delivery team in breaking product initiatives down into issues for implementation incl. writing:
   - User stories
   - Functional specs
   - System/policy/technical requirements
   - Acceptance criteria
   - Scope definition
-- Write Product Outlines, with input from DEPO Team Lead and cross-functional product team
-- Meet regularly with Team Lead to
-  - Collaboratively prioritize product initiatives for each upcoming Program Increment
-  - Review upcoming Releases and set expectations around delivery capacity
-  - Get insight into stakeholder needs and expectations
-- Lead the delivery team in breaking product initiatives down into issues for implementation.
 - Lead backlog grooming, estimation meetings, retros, sprint planning, and standups with delivery team.
 - Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements.
+- If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
 - Fulfill launch checklist criteria prior to each launch.
-
 ---
 
 ### Notes and Feedback
