@@ -2,9 +2,9 @@
 
 Support process previously used for VAOS will continue with VAOS-R on VA.gov, even as part of the transition of VAOS-R to the VA.gov team. The escalation will flow this pathway:
   - HRC will continue to be first point of contact -- Silvia Palmer POC
-    -- HRC create origin ticket in JIRA
-    -- HRC will work with the user to resolve issue; if issue resolved, close ticket @ Call Center
-    -- if issue cannot be resolve escalate to MSD
+   -- HRC create origin ticket in JIRA
+   -- HRC will work with the user to resolve issue; if issue resolved, close ticket @ Call Center
+   -- if issue cannot be resolve escalate to MSD
   - Mobile Service Desk (MSD) will continue to be second point of contact
     -- Receive unsolved issue from HRC
     -- MSD trys to replicate issue and opens issue in JIRA
