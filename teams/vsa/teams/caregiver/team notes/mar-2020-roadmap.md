@@ -7,11 +7,11 @@
 - [Phase 4 (Estimated March 2021)](#phase-4-estimated-march-2021)
 
 ## Timeline
+| Date | Milestone |
 | --- | --- | 
-| 
 | May 8 | Acumen endpoint delivery |
 | May 22 - May 29 | End-to-end testing |
-| May 29| Phase 0 Release (Proof of Concept)|
+| May 29 | Phase 0 dark release (proof of concept)|
 
 ## Phase 0 (May 2020)
 | Requirement | Ticket # |
