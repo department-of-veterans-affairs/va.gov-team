@@ -455,12 +455,17 @@ Any overflow from last sprint, plus:
 1. Profile 2.0: Finish conversation guide; Kickoff research; 
 2. Profile 2.0: Build starts?
 3. Address validation post-launch tickets
-4. Matt – what comes next with profile 2.0?
 
 **Logged-in homepage work**
 
 1. Planning
 2. Stakeholder interviews
+
+**Matt**
+
+1. Figure out what design needs to accompany [this ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6466) and get design tickets created and added to the backlog.
+2. Profile 2.0 epic grooming/What comes next with profile 2.0?
+
 
 ### Address validation
 
