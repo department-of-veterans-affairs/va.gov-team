@@ -252,7 +252,8 @@ Although we do not dictate whether developers should use Windows vs Linux vs Mac
     *   If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts. I believe this came up with video and DisplayLink drivers though (dual monitor support), not the development software itself.
 *   Most tools are open source.
 *   We don’t have Visio; I had to use the online version (Office 365).
-*   Software required for developers:
+
+### Software List
 
 Software            | URL                           | Description
 :---                | :---                          | :---
