@@ -448,8 +448,6 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 ### Order of priorities
 
-**Main team**
-
 Any overflow from last sprint, plus:
 
 1. Profile 2.0: Build starts
