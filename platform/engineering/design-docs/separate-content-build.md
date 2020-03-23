@@ -91,19 +91,19 @@ build. The highlights of what this script does include:
 - Creating the HTML pages for the React Single-Page Applications (SPAs)
 - Checking all HTML pages for broken links
 
-See [the build script](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js) for more details
+See [the build script](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/index.js) for more details
 
 #### CI pipeline
 The CI pipeline for `vets-website` triggers the above build and runs a number of
 tests. Pertinent to this document are:
 - Accessibility tests on static content pages
   - Using the [`npm run nightwatch:docker --
-    --env=accessibility`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L82) command
+    --env=accessibility`](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/Jenkinsfile#L82) command
   - This iterates through all the pages on the sitemap, which is created by the
     content build script
 - Broken link checks on static content pages
   - The actual link checking happens during the build script, but it isn't
-    reported anywhere until [after the build script has been run](https://github.com/department-of-veterans-affairs/vets-website/blob/master/jenkins/common.groovy#L200)
+    reported anywhere until [after the build script has been run](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/jenkins/common.groovy#L200)
     
 #### Deployment
 There are currently two kinds of deployments:
@@ -112,9 +112,9 @@ There are currently two kinds of deployments:
     - Uses the latest `vets-website` release and static assets
       - Does not trigger Webpack to build the JS and CSS bundles
       - Instead,
-        [fetches](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/configure-assets.js#L22-L23)
-        the assets [from S3](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/download-assets.js#L111)
-        - Process is triggered [from this Jenkins config](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile.content#L32)
+        [fetches](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/configure-assets.js#L22-L23)
+        the assets [from S3](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/plugins/download-assets.js#L111)
+        - Process is triggered [from this Jenkins config](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/Jenkinsfile.content#L32)
     - Does **NOT** run any content validation such as accessibility tests or
       broken link checker
 2. [Full deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
@@ -257,7 +257,7 @@ CircleCI thing?
 #### Content
 
 ##### Build
-When the [`process-cms-exports`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/process-cms-exports/index.js)
+When the [`process-cms-exports`](https://github.com/department-of-veterans-affairs/vets-website/blob/006185b7c40fe85a8b219ae99f3aefb3d8bf0e09/src/site/stages/build/process-cms-exports/index.js)
 system is live, there will be automated tests to validate input from the CMS and
 output from the content transformers.
 
