@@ -455,6 +455,7 @@ Any overflow from last sprint, plus:
 1. Profile 2.0: Finish conversation guide; Kickoff research; 
 2. Profile 2.0: Build starts?
 3. Address validation post-launch tickets
+4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 **Logged-in homepage work**
 
@@ -476,13 +477,16 @@ Any overflow from last sprint, plus:
 
 ### Profile 2.0
 
-Design
-- Conduct sessions
-- Research report
-- Any tickets that come out of research
-- Research updates
+**Design**
 
-Dev
+- Finish conversation guide (if not done)
+- Run practice session
+- Kick off recruiting (if ready)
+- Conduct sessions (if possible — either start or complete)
+
+If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to start on the tickets in epic #5518.
+
+**Dev**
 - Start build?
 
 ## Sprint 19 (4/8 - 4/21)
