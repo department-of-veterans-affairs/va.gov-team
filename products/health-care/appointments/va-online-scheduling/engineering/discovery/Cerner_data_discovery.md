@@ -18,9 +18,7 @@ VA.gov profile work ticket is https://github.com/department-of-veterans-affairs/
 
 The data we should expect from MVI is outlined at https://dsva.slack.com/archives/GM5JJ5388/p1580335197031100 and https://dsva.slack.com/archives/CMNQT72LX/p1582216115268200
 
-> Veteran logs in at full Cerner site (ie spokane), we should get 220CRNR ID in MVI
-
-> Veteran logs in at a CSS site (Columbus)  - we will get 200CRNR  ID in MVI
+> Veterans who are registered at any Cerner site - we will get 200CRNR  ID in MVI
 
 (via Lauren Alexanderson)
 
