@@ -452,17 +452,11 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 Any overflow from last sprint, plus:
 
-1. Profile 2.0: Finish conversation guide; Kickoff research; 
+1. Profile 2.0: Finish conversation guide; Kickoff research; Conduct research? 
 2. Profile 2.0: Build starts?
-3. Address validation post-launch tickets
+3. Address validation post-launch tickets (only the ones already listed)
 4. PM work
 5. Monitoring, maintenance, bug fixes, hardening, 508, etc.
-
-
-**Logged-in homepage work**
-
-1. Planning
-2. Stakeholder interviews
 
 ### Address validation
 
@@ -475,7 +469,8 @@ Any overflow from last sprint, plus:
 
 **Design**
 
-- Finish conversation guide (if not done)
+Overflow from last sprint, plus:
+
 - Run practice session
 - Kick off recruiting (if ready)
 - Conduct sessions (if possible — either start or complete)
