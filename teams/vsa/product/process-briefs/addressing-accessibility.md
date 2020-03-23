@@ -9,7 +9,7 @@
 
 #### Solution Hypotheses
 - Accessibility experts separate site-wide/global accessibility issues from initiative-specific accessibility issues. 
-Epics are used as often as possible to capture multiple accessibility findings for both global and initiative-specific issues. Product teams create consituent tickets within the epic so traceability is guaranteed. 
+- Epics are used as often as possible to capture multiple accessibility findings for both global and initiative-specific issues. Product teams create consituent tickets within the epic so traceability is guaranteed. 
 - Accessibility experts continue to leverage the Must, Should, Consider framework (or variant) to categorize both global and initative findings.  
 - Product teams are required to address Must items before launching an initiative or feature.
 
