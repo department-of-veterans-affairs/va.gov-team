@@ -179,6 +179,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platfo
 *   **GitHub: VA<span/>.gov | VSP | Orientation** \
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation
 
+*   **GitHub: VA<span/>.gov | VSP | How To Update Documentation** \
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/how-to-collaborate-on-documents.md \
+If you find issues with VSP documentation, propose corrections using the pull request (PR) process.
+
 *   **GitHub: VA<span/>.gov | VSP | Request Access to Internal Tools** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md \
 The "[additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-orientation-steps-for-developers)" section walks you though the request and setup for SOCKS access to Jenkins, Sentry, Prometheus, and Grafana. These DevOps services are hosted on private domains but can be accessed your web browser using an SSH script with the SwitchyOmega Chrome plugin to route web requests from your browser to the SOCKS5 proxy. If you have your PIV background check approved (eQIP adjudication), you may also request access to AWS Console for "troubleshooting, log file review, and to apply changes to the running instances and services" on AWS GovCloud.
@@ -213,14 +217,18 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/
 *   **GitHub: VA<span/>.gov | VSA | Engineering | Pull Request (PR) Process** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/pull-request-process.md
 
-*   **[GitHub: VA<span/>.gov | VSA | Engineering | Triage and On-Call Process** \
+*   **GitHub: VA<span/>.gov | VSA | Engineering | Triage and On-Call Process** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/devops/Triage-Process.md
 
 *   **GitHub: VA<span/>.gov | VSA | Orientation** \
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/orientation
 
 *   **GitHub: VA<span/>.gov | VSA | Onboarding | Slack Guidance** \
-[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
+
+*   **GitHub: VA<span/>.gov | Accessibility** \
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#automated-accessibility508-testing \
+The [Nightwatch e2e tests will run axe scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements) to enforce Section 508, WCAG2 A and WCAG2 AA compliance; however, to avoid unnecessary churn, developers are expected to procatively run local [axe and lighthouse scans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation) using [axe](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) and [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) Chrome extensions to detect [ruleset violations](https://dequeuniversity.com/rules/axe) as they are developing code.
 
 *   **GitHub: VA<span/>.gov | CMS | Create Drupal Account** \
 https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/cms-login.md \
