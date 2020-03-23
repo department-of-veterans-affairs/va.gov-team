@@ -13,7 +13,7 @@ Documentation about the CMS lives in various places
 
 ### Documentation resources not currently in use. 
 
-* [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/cms) will house sensitive documentation that should be accessible to certain VA teams, but not made public. This includes incident reports/post-mortems, information related to application login/SSO, etc. 
+* [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) houses sensitive documentation that should be accessible to certain VA teams, but not made public. This includes [incident reports/post-mortems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems) for all teams, and [information specific to the CMS application](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/cms) such as login/SSO or other sensitive topics. 
 * [va.gov-cms-team](https://github.com/department-of-veterans-affairs/va.gov-cms-team) may house private team documentation. It may replace the CMS team's current use of Confluence.
 
 ## CMS-supported product at VA.gov
