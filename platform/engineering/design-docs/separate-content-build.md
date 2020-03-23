@@ -188,7 +188,7 @@ make an application live for the first time. The process will be to manually:
     - **Question:** What makes sense? This is a totally arbitrary number
 
 #### Routing
-- The nginx will route their traffic based on some configuration file
+- The forward proxy will route their traffic based on some configuration file
   - **Question:** What configuration file? How does it work?
 
 #### Testing changes to applications
