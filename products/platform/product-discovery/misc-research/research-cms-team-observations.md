@@ -54,7 +54,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 3. Testing environments for user testing, e2e testing, and demos - workaround is we create a PR environment on a case-by-case basis. Missing features to copy from prod again, chose prod version.  Work on non-technical interface in progress.
 
-4. Feature flags - address issue where CMS BE deploys a change the FE did not expect resulting in an error message displayed on the page. Will need more coordination with new re-compete and upcoming changes to the content model.  (2020 initiative)
+4. Feature toggles - address issue where CMS BE deploys a change the FE did not expect resulting in an error message displayed on the page. Will need more coordination with new re-compete and upcoming changes to the content model.  (2020 initiative)
 
 
 

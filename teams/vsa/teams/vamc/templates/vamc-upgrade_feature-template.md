@@ -65,7 +65,7 @@ As a Veteran I want to _____ so that I can _____.
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
   - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set appropriately to be toggled
+  - [ ] Ensure that feature toggles are set appropriately to be toggled
 - [ ] Documentation and points of contact for any new backend dependencies
 - [ ] Links to important dashboards for investigating relevant issues
 ### Frontend Tasks
@@ -77,7 +77,7 @@ As a Veteran I want to _____ so that I can _____.
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with FE or another engineer before the FE Team
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set appropriately to be toggled
+  - [ ] Ensure that feature toggles are set appropriately to be toggled
   - [ ] Entrance pages (i.e. supporting static content) in place
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews

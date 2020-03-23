@@ -16,9 +16,9 @@
   * https://velocity.codeclimate.com/portal
 * \[Erik Hansen\] Direct Deposit launch
   * Launched to 10%, monitoring Google Analytics + Sentry for errors
-  * Relevant PRs for feature flags:
-    * [Bulk of work for using feature flags](https://github.com/department-of-veterans-affairs/vets-website/commit/5dd83de9f1d29c8342fde041ca3fc35429301df2)
-    * [Follow-up (feature flag names into constants)](https://github.com/department-of-veterans-affairs/vets-website/commit/9eb8de965f5e7bc8928f33ac855141df9221e8fa)
+  * Relevant PRs for feature toggles:
+    * [Bulk of work for using feature toggles](https://github.com/department-of-veterans-affairs/vets-website/commit/5dd83de9f1d29c8342fde041ca3fc35429301df2)
+    * [Follow-up (feature toggle names into constants)](https://github.com/department-of-veterans-affairs/vets-website/commit/9eb8de965f5e7bc8928f33ac855141df9221e8fa)
 * \[Rian Fowler\] Flipper and A/B testing / percentage rollouts
   * Heads-up: might start enforcing "in production a day before release", rolling out by percentage
   * See [documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags#release-toggles)

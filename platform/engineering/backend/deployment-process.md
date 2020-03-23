@@ -45,7 +45,7 @@ All Vets.gov GitHub repos are setup to do squash merges (via the GitHub PR inter
 
 A big assumption in this process is that the `master` should always be deployable. As such, the deployment to the staging environment is configured to happen automatically and can be used to see what something would look like in a production-like environment for any kind of manual testing/verification.
 
-Because `master` is designed to always be deployable, long running features that should _not_ be deployed should utilize feature flags in the code that disable the feature for the actual production environment. Notifying the DevOps team on what feature flags should be enabled/disabled in staging and production environment is an important part of this process. However, it's likely that breakages in staging will occur and that this is necessary to discover these prior to moving anything to the production steps.
+Because `master` is designed to always be deployable, long running features that should _not_ be deployed should utilize feature toggles in the code that disable the feature for the actual production environment. Notifying the DevOps team on what feature toggles should be enabled/disabled in staging and production environment is an important part of this process. However, it's likely that breakages in staging will occur and that this is necessary to discover these prior to moving anything to the production steps.
 
 Speaking of production steps, things kick off with the daily production push
 
