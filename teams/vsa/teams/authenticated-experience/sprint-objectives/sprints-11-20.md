@@ -465,7 +465,7 @@ Any overflow from last sprint, plus:
 
 1. Figure out what design needs to accompany [this ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6466) and get design tickets created and added to the backlog.
 2. Profile 2.0 epic grooming/What comes next with profile 2.0?
-
+3. Work with Erik to create a ticket for the Find VA Benefits work coming out of [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) 
 
 ### Address validation
 
