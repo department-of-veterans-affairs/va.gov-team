@@ -74,15 +74,15 @@ Goals- Understand the functions and how they map to the user stories and experie
         -	Payment information
      - Auto populated table
         -	Headers
-   -	Benefits- Compensation & pension
-   -	Payment Method- Direct Deposit
-   -	Finical Institution- Bank
-   -	Account type- Checking
-   -	Routing #- ###
-   -	Account #- #####
-   -	Effective Date- MM/DD/YYYY
-   -	CTA- Cancel
-   -	CTA- Save
+    -	Benefits- Compensation & pension
+    -	Payment Method- Direct Deposit
+    -	Finical Institution- Bank
+    -	Account type- Checking
+    -	Routing #- ###
+    -	Account #- #####
+    -	Effective Date- MM/DD/YYYY
+    -	CTA- Cancel
+    -	CTA- Save
 
 ### Representative Selection
 > User Stories:
@@ -132,12 +132,13 @@ Goals- Understand the functions and how they map to the user stories and experie
        - Name
        
 -	#### Limited of Consent
-  - Provide link to Section 7332 Title 38-U.S.C
-  - Optional Restrictions checkbox
-     - Drug Abuse
-     - Alcoholism
-     - Infection with the HIV
-     - Sickle cell anemia
+- Provide link to Section 7332 Title 38-U.S.C
+- Optional Restrictions checkbox
+   - Drug Abuse
+       - Alcoholism
+       - Infection with the HIV
+       - Sickle cell anemia
+       
 -	#### Military Service 
   - Auto populate
   
