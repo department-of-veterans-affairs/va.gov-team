@@ -42,7 +42,7 @@ Product Leads work with Team Leads and Product Managers to align delivery goals 
 
 #### Product Manager  
 ---
-Product Managers are responsible for organizing the direction and implementation for their individual team’s products, and for managing the team’s progress toward product and launch goals as defined in Product Outlines and Charters. This should be done in close collaboration with Team Leads and delivery teams, and frequent collaboration with Veteran Facing Tools Leads.
+Product Managers are responsible for organizing the direction and implementation for their individual team’s products, and for managing the team’s progress toward product and launch goals as defined in Product Outlines and Charters. This should be done in close collaboration with Team Leads and delivery teams, and frequent collaboration with Team Leads (DEPO).
 
 ##### Key Responsibilities:
 
@@ -62,8 +62,3 @@ Product Managers are responsible for organizing the direction and implementation
 - If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
 - Fulfill launch checklist criteria prior to each launch.
 ---
-
-### Notes and Feedback
-
-- Need to think about at some point adding in expectations for each other around O&M, how do we manage iteration, whose responsibility.
-- Update with Delivery Management role
