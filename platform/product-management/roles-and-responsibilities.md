@@ -1,43 +1,50 @@
-# Product Team Roles and Responsibilities
+## Product Team Roles and Responsibilities
 
-##  Team Lead (DSVA)
+### Roles 
+- Team Lead (DEPO)
+- Program Product Lead (VSA, VSP)
+- Team Product Manager  
+
+### Responsibilities
+
+####  Team Lead (DEPO)
 
 ---
 
-Team Leads are responsible for setting the direction of Veteran Facing Tools as a whole, and how that translates into the high level roadmap. This should be done in close collaboration with Product Managers, and regular collaboration with delivery teams and Veteran Facing Tools Leads.
+Team Leads are responsible for setting the direction of Veteran Facing Tools (VFT) as a whole, and how that translates into the high level roadmap. This should be done in close collaboration with Product Managers, and regular collaboration with delivery teams and Veteran Facing Tools Leads.
 
-### Key responsibilities:
+##### Key responsibilities:
 
-- Collaborate regularly Leads to define overall Veteran Facing Tools roadmap priorities
-- Meet regularly with Product Manager to:
+- Collaborate regularly with Leads to define overall VFT roadmap priorities
+- Meet regularly with individual product team Product Manager to:
   - Collaboratively prioritize product initiatives for each upcoming Program Increment
   - Stay aware of product-related updates and blockers
   - Provide input on strategic aspects of Product Outlines
-- Write product Charters for new initiatives where appropriate, with input from Product Manager and team.
+- Write and provide input on product documentation for new initiatives where appropriate, with input from Product Manager and team.
 - Escalate team needs within VA
-- Own stakeholder management strategy
+- Own stakeholder management strategy. Empower the product team to manage stakeholder relationships where appropriate
 - Sign off on the launch of new products or features
  
-## Product Lead (Ad Hoc)
+#### Product Lead (Ad Hoc)
 ---
-Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and Veteran Facing Tools product strategy and marketing.
+Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and VFT product strategy and marketing.
 
-### Key Responsibilities:
+##### Key Responsibilities:
 
 - Ensure Roadmap and Program Increment plans reflect reality and current status.
-- Document goals for each Program Increment in GitHub.
+- Document goals/OKRs for each iteration.
 - Update and disseminate product roadmap.
-- Ensure product team work reflects overall Veteran Facing Tools product strategy and goals.
+- Ensure product team work reflects overall VFT product strategy and goals.
 - Meet regularly with Team Leads and Engineering Leads to ensure products are well defined, and to communicate reasonable expectations for delivery.
 - Meet regularly with Product Managers for status updates, and blocker escalation.
 - Meet regularly with VA Web Communications team to communicate product updates, and to stay abreast of marketing initiatives that may have an impact on prioritization of product work.
 - Regularly review product analytics to communicate successes and concerns.
 
-## Product Manager (Ad Hoc)
+#### Product Manager  
 ---
 Product Managers are responsible for organizing the direction and implementation for their individual team’s products, and for managing the team’s progress toward product and launch goals as defined in Product Outlines and Charters. This should be done in close collaboration with Team Leads and delivery teams, and frequent collaboration with Veteran Facing Tools Leads.
 
-### Key Responsibilities:
+##### Key Responsibilities:
 
 - Create and maintain product documentation, which might include:
   - User stories
@@ -45,7 +52,7 @@ Product Managers are responsible for organizing the direction and implementation
   - System/policy/technical requirements
   - Acceptance criteria
   - Scope definition
-- Write Product Outlines, with input from Team Lead and delivery team
+- Write Product Outlines, with input from DEPO Team Lead and cross-functional product team
 - Meet regularly with Team Lead to
   - Collaboratively prioritize product initiatives for each upcoming Program Increment
   - Review upcoming Releases and set expectations around delivery capacity
@@ -57,7 +64,7 @@ Product Managers are responsible for organizing the direction and implementation
 
 ---
 
-# Notes and Feedback
+### Notes and Feedback
 
 - Need to think about at some point adding in expectations for each other around O&M, how do we manage iteration, whose responsibility.
 - Update with Delivery Management role
