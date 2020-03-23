@@ -56,7 +56,6 @@ How might we create an improved user experience for GIBCT users, particularly th
 -	Fewer requests to VA for benefits estimation – frees up call center resources
 -	Fewer requests to schools for benefits estimation – frees up local school resources to provide additional support to Veteran students
 -	Continued modernization of the GIBCT, an important resource for VA Education Service, reflects well on the VA and their reputation 
--	*COME BACK TO THIS: Any legislated changes to how education benefits are calculated can be made in a timely manner* 
 
 
 ## Undesired Business Outcomes
