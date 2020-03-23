@@ -7,10 +7,10 @@ This document will outline the team members or practice area(s) who are best sui
 * [The testing process](#the-testing-process)
 * [Axe scans in daily development](#axe-scans-in-daily-development)
 * [Axe checks in end-to-end tests](#axe-checks-in-end-to-end-tests)
-* [Color Contrast and Colorblindness](#color-contrast-and-colorblindness)
-* [Zoom Layouts to 400%](#zoom-layouts-to-400)
-* [Keyboard Navigation](#keyboard-navigation)
-* [Screen Readers](#screen-readers)
+* [Color contrast and colorblindness](#color-contrast-and-colorblindness)
+* [Zoom layouts to 400%](#zoom-layouts-to-400)
+* [Keyboard navigation](#keyboard-navigation)
+* [Screen readers](#screen-readers)
 
 ## The Testing Process
 
