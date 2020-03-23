@@ -471,6 +471,7 @@ Any overflow from last sprint, plus:
 
 Overflow from last sprint, plus:
 
+- Get build tickets ready
 - Run practice session
 - Kick off recruiting (if ready)
 - Conduct sessions (if possible — either start or complete)
@@ -478,7 +479,7 @@ Overflow from last sprint, plus:
 If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to start on the tickets in epic #5518.
 
 **Dev**
-- Start build?
+- Start build (figure out exactly which tickets)
 
 ### PM work
 
