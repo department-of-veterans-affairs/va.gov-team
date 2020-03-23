@@ -12,7 +12,7 @@ Support process previously used for VAOS will continue with VAOS-R on VA.gov, ev
     -- If backend issue MSD will esclate to MACM/Dev Team
     -- IF frontend issue, will handover JIRA ticket to VAOS/VA.gov in...?
     -- Will escalate to MACM or Dev team if needed
-  - VAOS/VA.gov Platform teams will serve as both third point of contact or concurrently reviewing/addressing issues discovered via our monitoring platforms (Sentry, Grafana, Google Analytics)
+ - VAOS/VA.gov Platform teams will serve as both third point of contact or concurrently reviewing/addressing issues discovered via our monitoring platforms (Sentry, Grafana, Google Analytics)
     -- Issues tracked via GitHub issues
     -- VAOS/VA.gov will absorb tickets/issues from MDS and HRC via JIRA
     -- VAOS/VA.gov will convert JIRA into trackable issues in Github and assign to appropriate team
