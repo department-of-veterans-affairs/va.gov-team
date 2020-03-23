@@ -464,10 +464,10 @@ Any overflow from last sprint, plus:
 
 ### Address validation
 
-- [ ] Ramp up to 50%
-- [ ] Ramp up to 100%
-- [ ] Change address update endpoint to use iso3 country code #6046
-- [ ] Stop using country name for VA profile contact information endpoint #5591
+- Ramp up to 50%
+- Ramp up to 100%
+- Change address update endpoint to use iso3 country code #6046
+- Stop using country name for VA profile contact information endpoint #5591
 
 ### Profile 2.0
 
