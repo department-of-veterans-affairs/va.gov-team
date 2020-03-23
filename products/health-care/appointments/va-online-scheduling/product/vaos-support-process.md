@@ -20,9 +20,7 @@ Support process previously used for VAOS will continue with VAOS-R on VA.gov, ev
 
 Tickets/issues will be marked with:
   - Low, Medium, High, Urgent
-  - Issues will maintain current SLAs
-    - MDS SLAs:
-      - 
+  - Issues will maintain current SLAs 
     
 ## Cross-team Communication
 - Slack channel?
