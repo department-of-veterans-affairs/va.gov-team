@@ -81,7 +81,7 @@ Alright, I have a few follow-up questions for you about this scenario:
 Okay, I'm now going to send you another link for a new prototype.  This will be the desktop version of Va.gov, and I'll have you walk through a scenario on this version.
 
 (*From Homepage*)
-1. Okay, so for this scenario you'd now like to see how secure your account is on VA.gov.  Could you double check that your two-factor authentication is on for this account?
+1. Okay, so for this scenario you'd now like to view your military information.  Could you double check that your service information looks correct?
 2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
 
 Alright, great! I have a few follow-up questions about this scenario for you:
