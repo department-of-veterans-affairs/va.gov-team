@@ -3,9 +3,9 @@
 
 #### Complications/Problems/Pain-points
 - Global i.e. non-initiative specific findings are sometimes mixed with initiative-specific accessibility findings. This is hard because there's a timeline associated with the initiative work. 
-- There likely isn't an outlet for global accessibility issues. If there is, it's not functioning well and/or teams are unaware of it's existence.
+- There likely isn't an outlet for global accessibility issues. If there is, it's not functioning well and/or teams are unaware of its existence.
 - Both accessibility experts and teams don't want to be surprised by new findings. Teams want the discretion to plan how they address accessibility items as it makes sense to them and their roadmaps.
-- Both accessibility experts and teams want to make sure findings aren't "lost" because 
+- Both accessibility experts and teams want to make sure findings aren't "lost"  
 
 #### Solution Hypotheses
 - Accessibility experts separate site-wide/global accessibility issues from initiative-specific accessibility issues. 
