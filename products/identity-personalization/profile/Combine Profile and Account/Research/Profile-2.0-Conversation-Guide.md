@@ -7,7 +7,7 @@ Thanks for joining us today! My name is Tressa and I also have some colleagues o
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 - 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we will be looking at a prototype.** This means that we are looking at something that looks like a real website, but it functions a bit differently. For example, some links will work while other links won't.   At some points we will be using the mobile version of the website for this study - so just use your mouse like you'd use your finger on a phone. This is for the purpose of testing so we can focus on observing specific tasks. Do you have any questions about this or what a prototype is? 
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. At some points we will be using the mobile version of the website for this study - so just use your mouse like you'd use your finger on a phone.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -30,20 +30,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 4. Have you connected any outside apps to your VA health records?
 
 ## Screenshare
-I'm going to send you a link to a clickable prototype. Just a reminder - this is not a real website, so not all of the links work.  In the prototype we've used a fake name and made up information for this fictional person.  For the sake of the study, could you please pretend to be the person represented in the prototype?
+
+- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+
+I'm first going to send you a link to VA.gov. 
 
 Once you have it pulled up, will you share you screen with me? I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.  
 
-Alright, now I am going to share keyboard and mouse controls and we are going to walk through the prototype.
-
-(*Intro screen*) First, I just want to reiterate that this is a prototype... OK, when you're ready, please click "Go to the Prototype."
-
-We are starting from the VA.gov homepage.
+We are starting from the VA.gov homepage and we would like to simulate a mobile experience so if you could make your browser screen narrow like a phone screen that would be great.
 
 ## First Task: Wayfinding and profile navigation (Mobile View)
 
 **Scenario**
 1. You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address. 
+
+- Okay, since you will need to be logged-in for this task, we're going to use a prototype with fake information. (*send link*) Now you've found the location and landed on this page.
+
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
 3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
 
@@ -78,10 +80,15 @@ Alright, I have a few follow-up questions for you about this scenario:
 
 ## Third Task: Wayfinding and profile navigation (Desktop)
 
-Okay, I'm now going to send you another link for a new prototype.  This will be the desktop version of Va.gov, and I'll have you walk through a scenario on this version.
+We are starting from the VA.gov homepage.
+
+Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again. I'll have you walk through a scenario on this version.
 
 (*From Homepage*)
 1. Okay, so for this scenario you'd now like to view your military information.  Could you double check that your service information looks correct?
+
+-(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to a protoype.  Again, this has all fake information.
+
 2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
 
 Alright, great! I have a few follow-up questions about this scenario for you:
@@ -102,6 +109,7 @@ Alright, great! I have a few follow-up questions about this scenario for you:
 OK, those are all the screens we are going to look at today. I just have a few more questions for you.
 
 1. Overall, how could we improve the VA profile?
+2. Did you have any specific thoughts about the name tag?
 2. What did you think was clear/what worked well?
 3. Was anything confusing? Why?
 4. Any questions do you have for me?
