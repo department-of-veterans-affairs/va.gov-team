@@ -15,10 +15,10 @@ This document will outline the team members or practice area(s) who are best sui
 ## The Testing Process
 
 1. Begin your testing as soon as possible:
-   * Color contrast and colorblindness testing can be done in the design phase
-   * Axe checks and end-to-end tests can be run/created during development
-   * Keyboard navigation can be tested during development
-   * Zooming layouts and screen reader testing should be done as features are stable in Staging
+   * [Color contrast and colorblindness testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#color-contrast-and-colorblindness) can be done in the design phase
+   * [Axe checks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#axe-scans-in-daily-development) and [end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#axe-checks-in-end-to-end-tests) can be run/created during development
+   * [Keyboard navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#keyboard-navigation) can be tested during development
+   * [Zooming layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#zoom-layouts-to-400) and [screen reader testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md#screen-readers) should be done as features are stable in Staging
 2. Ask your accessibility specialist if you encounter an issue you're not sure about. Issues that can't be completed before the staging review should be logged using the [508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) template and passed to your accessibility specalist as known items.
 3. Accessibility specialist will add known issues to an `epic` during the staging accessibility review
 4. After the staging review is complete, the accessibility specialist will work with your team to triage issues. Launch blocking issues ( severity 0/1 ) will be prioritized for immediate fix. All other issues will be prioritized according to their severity post-launch.
