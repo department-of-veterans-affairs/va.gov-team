@@ -13,14 +13,14 @@ We are actively working on https://va.gov, the user-centered, public-facing webs
 
 Date | Topic | Link
 :--- | :---  | :---
-2019_November | More Vets Are Taking Advantage of Digital Services Through New VA<span/>.gov | https://www.nextgov.com/it-modernization/2019/11/more-vets-are-taking-advantage-digital-services-through-new-vagov/161190
-2019_February | VA celebrates early success metrics from the VA<span/>.gov relaunch | https://www.fedscoop.com/va-celebrates-early-success-metrics-va-gov-relaunch
-2018_November | YouTube Video: Secretary Robert Wilkie introduces the new VA<span/>.gov website | https://www.youtube.com/watch?v=DEfRlL63nCg
-2018_October  | VA<span/>.gov relaunches as front door to benefits, services | https://fcw.com/articles/2018/10/02/redesigned-va-site-sammie.aspx
-2018_August   | The Importance of Product Management in Government | https://medium.com/the-u-s-digital-service/the-importance-of-product-management-in-government-b59933d01874
-2017_Fall     | Simplifying Veteran-facing Services through Vets<span/>.gov | https://www.usds.gov/report-to-congress/2017/fall/vets-dot-gov
-2017_June     | Vets<span/>.gov: A Modern Software Development Environment in Government | https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a
-2017_June     | Building Forms Faster on Vets<span/>.gov | https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db
+2019&nbsp;November | More Vets Are Taking Advantage of Digital Services Through New VA<span/>.gov | https://www.nextgov.com/it-modernization/2019/11/more-vets-are-taking-advantage-digital-services-through-new-vagov/161190
+2019&nbsp;February | VA celebrates early success metrics from the VA<span/>.gov relaunch | https://www.fedscoop.com/va-celebrates-early-success-metrics-va-gov-relaunch
+2018&nbsp;November | YouTube Video: Secretary Robert Wilkie introduces the new VA<span/>.gov website | https://www.youtube.com/watch?v=DEfRlL63nCg
+2018&nbsp;October  | VA<span/>.gov relaunches as front door to benefits, services | https://fcw.com/articles/2018/10/02/redesigned-va-site-sammie.aspx
+2018&nbsp;August   | The Importance of Product Management in Government | https://medium.com/the-u-s-digital-service/the-importance-of-product-management-in-government-b59933d01874
+2017&nbsp;Fall     | Simplifying Veteran-facing Services through Vets<span/>.gov | https://www.usds.gov/report-to-congress/2017/fall/vets-dot-gov
+2017&nbsp;June     | Vets<span/>.gov: A Modern Software Development Environment in Government | https://medium.com/the-u-s-digital-service/vets-gov-a-modern-software-development-environment-in-government-2a0ec8f0623a
+2017&nbsp;June     | Building Forms Faster on Vets<span/>.gov | https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db
 
 * Improvements: https://www.va.gov/scorecard
 * Playbook: https://www.va.gov/playbook
@@ -250,12 +250,18 @@ Software            | URL                           | Description
 :---                | :---                          | :---
 Homebrew            | https://brew.sh               | Package manager for macOS, this package is used via the terminal to install node.js, ruby and all the other software needed. Must be updated regularly in order to keep the repositories up to date. Software allows MAC users to install yarn, node.js and NVM.
 GitHub Desktop      | https://desktop.github.com    | Adds support for Git command line and allows us to work with the VA repositories.
-Visual Studio Code. | https://code.visualstudio.com | IDE to modify and debug code.
+Visual Studio Code  | https://code.visualstudio.com | IDE to modify and debug code.
 Docker	           | https://www.docker.com        | Needed to run Ruby, Postgres and all the necessary tools to execute the VA APIs.
 Yarn	              | https://yarnpkg.com           | Dependency manager used on the VA frontend.
 Node.js	           | https://nodejs.org            | Needed to execute the website frontend.
 Postman             | https://www.getpostman.com    | Needed to test and develop REST APIs.
 pgadmin	           | https://www.pgadmin.org       | PostgreSQL Tools.
+Chrome              | https://www.google.com/chrome | Needed for front-end development plug-ins.
+Chrome&nbsp;Extension: *React Developer Tools* | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Strongly recommended for React debugging.
+Chrome&nbsp;Extension: *Proxy&nbsp;SwitchyOmega* | [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) | Needed to access internal DevOps web sites sites--such as Jenkins, Sentry, Prometheus, Grafana--over SOCKS5 proxy.
+Chrome&nbsp;Extension: *axe* | [axe&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): catch accessibility issues during development *before* they are flagged by the build.
+Chrome&nbsp;Extension: *Lighthouse* | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): audits for performance, accessibility, progressive web apps, SEO and more.
+
 
 #### Local Build Instructions
 * **Front End:** https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build
