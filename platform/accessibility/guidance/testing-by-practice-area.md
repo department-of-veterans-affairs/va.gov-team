@@ -49,8 +49,9 @@ This document will outline the team members or practice area(s) who are best sui
 
 **Getting Started:**
 
+* [Quality assurance guide to creating end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing)
 * [Build pipeline requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements)
-* [Create end-to-end tests for staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md#scan-with-axe-browser-plugin-required)
+* [Create end-to-end tests for staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md#create-end-to-end-tests-for-client-side-applications-required)
 
 **Definition of Done:**
 
