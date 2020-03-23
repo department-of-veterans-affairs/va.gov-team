@@ -38,6 +38,7 @@ This document describes the responsibilities of each of these roles and is inten
 |  Platform Part | Primary  | Secondary   |  Backlog Link(s) | Notes  |
 |---|---|---|---|---|
 |  Security tools / dependency management | Jhonny Gonzalez  | ? | [Dependency Management](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22dependency+management%22)   |   |
+| Core UI frameworks (React, redux) |   |   |   |   |
 | FE operations (monitoring, alerting)  |   |   |   |   |
 | Testing tools (unit, functional, integration, accessibility) |   |   |   |   |
 | Continuous integration experience (GitHub, CircleCI) | Brooks Johnson  |   |   |   |
