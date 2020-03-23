@@ -1,5 +1,3 @@
-*Last updated: February 26, 2020* \
-*Owned by: VSP Content and IA Team*
 
 # Information Architecture (IA)
 
@@ -43,11 +41,19 @@ Github/Zenhub labels: `content-ia-team`
 - Taking down a content page and/or tool
 - Changing the UX of global navigational elements (i.e. top nav, left nav, breadcrumbs)
 
-### Requesting IA help
-* [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)\
-The VSP Collaboration Cycle defines the process of how VSP supports VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving. IA guidance is included as a standard part of the VSP Collaboration Cycle. 
-* [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)\
-Follow the redirect process at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
+### VSP Collaboration Cycle
+
+The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) defines the process of how VSP supports VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving. 
+
+IA guidance is included as a standard part of the VSP Collaboration Cycle:
+- **Project Kickoff:** IA follows along with early project activity to understand background, scope, audience and timing.
+
+- **Usability Testing Prep:** We’ll review prototypes or mockups to offer research plan suggestions to help you gather feedback to improve your feature’s findability and SEO value.
+
+- **Information Architecture Request (IA):** IA works asynchronously with teams to ensure that your new or updated content fits well in the VA.gov ecosystem.
+ 
+### Redirect Process
+Follow the [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md) at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
 
 
 ## Best practices and guides
@@ -71,5 +77,5 @@ Follow the redirect process at least 2 weeks before you will need to redirect UR
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Feb 26, 2020 | Reformatted using new template. | Gretchen Maciolek
+Feb 26, 2020 | Reformatted using new template. | Mikki Northius
 
