@@ -1,6 +1,6 @@
 ---
 name: Public Websites Intake Form
-about: To file requests with the VSA Public Websites team e.g. content support or redirects.
+about: To file requests with the VSA Public Websites team e.g. content support.
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming
 assignees: lunascoop
