@@ -1,4 +1,4 @@
-# BDD flow usability test. Topline Summary
+# BDD flow initial usability test. Topline Summary
 
 Prepared by: Christian Valla, BAM 1
 
@@ -14,9 +14,8 @@ Topline Summary is a short text in which we capture our first impressions from t
  - For everyone who observed the BDD sessions to align on perceived top findings. 
  - Allow for the team to let the researchers/designers know if there are any specific directions they want us to pursue as we analyze and synthesize the data we’ve gathered.
 
-## Topline observations in the BDD Research 
+## Overall summary of findings from the initial BDD Research
 
-## Overall summary of findings
 **Previous BDD experiences**
 -Four users had heard about BDD. Two users had filed a BDD claim. One was a good experience using a VSO. Successfully filed a claim. One was a bad experience using a VSO. Not getting the help he needed. Many rounds before finally being able to file.  
 
@@ -24,8 +23,7 @@ Topline Summary is a short text in which we capture our first impressions from t
 - Most users did not find the BDD page and felt it should be much easier to find.
 
 **Overall what did users think about the BDD flow?**
-- Users were somewhat hesitant on the gating pages, possibly overwhelmed by: 1. The amount of text and info on the page.  
-2. The lack of text / terms corresponding with the BDD program. 
+- Users were somewhat hesitant on the gating pages, possibly overwhelmed by: 1. The amount of text and info on the page. 2. The lack of text / terms corresponding with the BDD program. 
 - Several users felt that the call to action button should be more prominent. 
 - When the users started the gating questions, the flow seemed pretty self-explanatory, except some confusion about the blue and the green Sign in button on the BDD info page. 
 - When users came to the actual BDD flow, they went through it fast, with little or no problems or hesitations (one user went through the flow in approximately 5-6 minutes).
@@ -33,6 +31,7 @@ Topline Summary is a short text in which we capture our first impressions from t
 -One user suggested to add a percentage complete on the progress bar, as each section varies a lot in number of steps / length.
 
 ## Findings
+
 **Short interview about previous experiences with filing for BDD**
  - Four users had heard about BDD and would use it if available. 
  - Two users had filed a BDD claim. One user had a good experience with a helpful VSO and filed a BDD claim successfully. Hardest part: figure out what paperwork he needed, and get info / updates about the process from VA. Lack of visibility.
