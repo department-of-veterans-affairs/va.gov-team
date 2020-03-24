@@ -1,5 +1,5 @@
 
-Veteran conversation guide (v2)
+Veteran conversation guide
 ===============================
 
 [View the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/research-plan.md).
