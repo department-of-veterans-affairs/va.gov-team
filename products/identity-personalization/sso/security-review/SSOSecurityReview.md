@@ -5,6 +5,19 @@ The SSOe Integration project updates vets-api and vets-website with the followin
 
 ## An architecture diagram, showing involved systems + data flows
 
+### Component Roles
+
+In the current/before state:
+* ID.me acts as the sole Identity Provider (IdP) for VA.gov in SAML protocol terms. It's also referred to as an identity broker because it acts as the intermediary for additional credential types.
+* ID.me itself provides one of the credential options that users may authenticate with. It also enables two additional credential service providers (CSPs): MHV and DSLogon.
+
+In the proposed/after state:
+* In SAML terms, SSOe will be VA.gov's sole IdP. All SAML assertions that VA.gov receives will be issued by SSOe, signed using its key, etc.
+* However, all VA.gov-initiated authentications will continue to flow from SSOe to ID.me, and then in turn be brokered to the correct CSP (same menu of options - ID.me, MHV, DSLogon). So ID.me continues to be a (second-degree) identity broker for VA.gov.
+* VA.gov may accept and receive inbound SSO session established on other SSOe-enabled VA websites. In these cases the authenticated session is not necessarily brokered by ID.me.
+
+### Architecture Diagrams
+
 The diagrams below show before and after architecture of SSOe-integrated sign-in. They are simplified by not showing that each request/response is mediated by the user's browser. Each "northbound" request is really a 302 redirect to the browser that results in a GET to the upstream system. Each "southbound" request is really a hidden form that auto-submits a POST request to the downstream system. These are standard SAML GET and POST bindings.
 
 Before:
@@ -38,6 +51,9 @@ This work adds a new version of the sessions controller (v1/sessions) that expos
 * **v1/sessions/logout** - A SAML single-logout endpoint. This would be used to parse an incoming SAML logout request from an IdP and terminate the VA.gov user session. However SSOe does not currently implement SAML-bassed logout (see below).
 * **v1/sessions/ssoe_logout** - A non-SAML logout endpoint. Since SSOe does not support SAML logout, this endpoint will be used by vets-website to terminate the VA.gov session and then trigger SSOe’s “PKMS Logout” endpoint to terminate the SSOe session.
 
+Additionally, to support some of the intended outbound SSO use cases for EHRM, we have updated the existing v0/user controller response as follows:
+* Addition of an "isCernerPatient" parameter, indicating whether the user is a patient at a Cerner site, based on data received from MVI.
+* Addition of a "VHA facilities" list indicating at which VA facilities a user is a patient, again based on data received from MVI.
 
 ## Description of any new interactions with dependent services (i.e. vets-api —> ???)
 ### SAML
