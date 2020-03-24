@@ -114,3 +114,6 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 
 Form 8832: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
 
+## eBenefts Screenshot
+
+![Apply for CH36 on EBN](screenshot.png)
