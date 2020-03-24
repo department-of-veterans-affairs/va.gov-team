@@ -27,7 +27,7 @@ Understand the functions and how they map to the user stories and experience see
  > 3. No representative displayed
 
 ### Application process features
--	Store Applicants saved information from previous section
+-	Store applicant's saved information from previous section
 -	Continuing the application from saved
 -	Save the application’s progress
 -	Print applications progress
@@ -41,7 +41,7 @@ Understand the functions and how they map to the user stories and experience see
 -	Privacy Act information
 
  > User stories:
- > 4. Starting the POA Application
+ > 4. Starting the POA application
  > 5. Privacy Act acknowledgement
  > 11. Print application
 
@@ -52,35 +52,35 @@ Understand the functions and how they map to the user stories and experience see
       - Helper text for VA# format
       - Checkbox “I do not have a VA File #”
 -	**Veteran's biographical information**
-  - Auto Populated
-  -	Edit button- ‘change personal information’
-  -	Contact information- Compensation and Pension Benefits link
+  - Auto-populated
+  -	Edit button: ‘change personal information’
+  -	Contact information: Compensation and Pension Benefits link
   -	Address
      -	Type: 
         -	Domestic
         -	International
-        -	Military Overseas
-     -	Number & Street 
+        -	Military/overseas
+     -	Number & street 
      -	City
      -	State
      -	Zip
-        -	Phone: Primary/Secondary/Mobile
-        -	Emails Primary/Alternative
+        -	Phone: primary/secondary/mobile
+        -	Emails: primary/alternative
         -	Payment information
      - Auto populated table
         -	Headers
-    -	Benefits- Compensation & pension
-    -	Payment Method- Direct Deposit
-    -	Finical Institution- Bank
-    -	Account type- Checking
-    -	Routing #- ###
-    -	Account #- #####
-    -	Effective Date- MM/DD/YYYY
-    -	CTA- Cancel
-    -	CTA- Save
+    -	Benefits:  Compensation & pension
+    -	Payment method: Direct Deposit
+    -	Finical institution: Bank
+    -	Account type: Checking
+    -	Routing #: ###
+    -	Account #: #####
+    -	Effective date- MM/DD/YYYY
+    -	CTA: Cancel
+    -	CTA: Save
     
 > User stories:
-> 6. Enter VA File number
+> 6. Enter VA file number
 > 7. No VA fie number
 > 8. VA file error validation statement
 > 9. Confirm biographical information
@@ -89,44 +89,44 @@ Understand the functions and how they map to the user stories and experience see
 ### Representative selection
 -	**Authorizing address change**
      - Radio buttons Y and N
--	**Tables** (Auto populated from database)
+-	**Tables** (Auto-populated from database)
      - Headers
-       -	Names (POA code digits can be Alpha/Numeric)
+       -	Names (POA code digits can be alpha/numeric)
        - Contact info
            - Address
            -	Phone
-       - Sort by Alpha and Numeric
+       - Sort by alpha and numeric
        - CTA- selection
          - Auto fill forms 21-22 & 21-22a with veteran’s information
        - Print tables 
        - Pagination
        - CTA- "change search criteria"
-       - Insurance Number
+       - Insurance number
           - Input field
 -	**Attorney information**
-    - Veteran’s Organization Information
+    - Veteran’s organization information
       - Name
       - VA code # (022)
       - Address
-    - Attorney Information
+    - Attorney information
     - Information text- "Representative cannot accept online representation request."  
  -	**Find local representative**
-    - 	Selected
+    - Selected
        - VSO
        - Attorney
-       - Claims Agent
+       - Claims agent
        - Search 
-         -  Address
+         - Address
          - City
          - Zip
          - Distance
        - Name 
 -	**Limit of consent**
-- Provide link to Section 7332 Title 38-U.S.C
+- Provides link to Section 7332 Title 38-U.S.C
 - Optional Restrictions checkbox
-   - Drug Abuse
+   - Drug abuse
        - Alcoholism
-       - Infection with the HIV
+       - Infection with HIV
        - Sickle cell anemia
        
 -	**Military service** 
@@ -135,12 +135,12 @@ Understand the functions and how they map to the user stories and experience see
 > User stories:
 > 12. Search for a representative
 > 13/15/16/17/18. Complete step’s location inputs
-> 14. Select a Representative
+> 14. Select a representative
 > 19. See results of Search
-> 21. Print Representative result table
-> 22. Representative result table features- sort by columns
-> 23. Select Representatives
-> 25. Confirm Military service
+> 21. Print representative result table
+> 22. Representative result table features: sort by columns
+> 23. Select representatives
+> 25. Confirm military service
 > 26. Enter insurance #
   
 ### Error check
