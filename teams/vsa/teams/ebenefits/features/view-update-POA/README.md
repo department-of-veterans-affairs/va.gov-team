@@ -85,6 +85,7 @@ TBD
 
 **Nov 1 2019**  
 - Pre-discovery  
+
 **March 24, 2020**  
 - Kickoff with platform  
 
