@@ -115,6 +115,7 @@ Finally, the application is bookended by a review step.
 VSO offers guidance through the VA's Power of Attorney process and provides links to different VA forms, most often, 21-22/21-22a in PDF. Other commercial options can are similar to LegalZoom and law offices.  LegalZoom requests information and then provides the needed form.  Law firms provide “Durable Power of Attorney” for specific use cases. An example is Michigan’s POA for finances.
 
 ## Conclusion
+There are sevearl difference bewtwwn the VA's Power of Attorney process and VSO/Attrory.  The VA has 3 main componets to the process. First is definng the user within thier current system.  Secondly, they have a search feature allowing the Veterans to pick from a list of verivied VSO or Attorneys.  (THe Verfication process brakes ito four group.) Thirdly allicating a represeative.  The commerical process are limited  
 Suggestions for VA.gov's POA process
 - Create a responsive Representative results table
 - Provide a search feature within the Find Local Representative step. This search would allow Veterans to type in the VSO or law firm's name, alleviating the searching and sorting of the Representative result table. 
