@@ -1,10 +1,13 @@
-This document details various challenges encountered during the redesign.
+This document details various challenges encountered during the redesign and is broken up into the following sections:
 
-In general, there are some things that VA.gov does differently.
-
-1. The routes are distinctly different. Duh. But there's more to that. We don't include ICN, EDIPI, other data in the route. In fact the ruby middleware doesn't even expose this programatically to the FE.
-
-How does that work?
+1. Data structures are not optimized semantically
+2. Data structures not optimized in terms of the total number of requests needed to build common UIs.
+3. Data types / Payloads inconsistent
+4. Error object inconsistencies
+5. Ideally we would get consistent error payloads
+6. Validation rules should be defined by shared services comprehensively; lots of examples where validation happens in Legacy but doesn't necessarily return an error from the API / shared service.
+7. Violations of common HTTP expectations.
+8. Don't include PII such as ICN and EDIPI in routes, particularly if there routes are exposed on public terminals where they might remain in browser history.
 
 ## Data structures are not optimized semantically:
 
