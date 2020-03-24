@@ -1,5 +1,26 @@
 # Conversation Guide for Profile 2.0 
 
+## Moderator logistics
+
+*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+
+*In the Attendees section, make sure everyone except the participant is on mute*
+
+*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
+
+*Check your [screensharing setup]*
+
+*When the participant is ready, begin the session with the following intro*
+
+### Project-specific setup
+
+- Open VA.gov in a tab
+- Open Mobile prototype in another tab (https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
+- Open Desktop prototype in another tab (https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
+- Open old profile (https://www.va.gov/health-care/forms/vha-10-10CG.pdf) to show at the end
+
 ## Intro
 
 Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website.
@@ -36,8 +57,6 @@ I'm going to ask you to go to VA.gov on your browser.  Once you have it pulled u
 
 Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.  
 
-We are starting from the VA.gov homepage and we would like to simulate a mobile experience so if you could make your browser screen narrow like a phone screen that would be great.
-
 ## First Task: Wayfinding and profile navigation (Mobile View)
 
 **Scenario**
@@ -46,15 +65,17 @@ We are starting from the VA.gov homepage and we would like to simulate a mobile 
 - Okay, since you will need to be logged-in for this task, we're going to use a prototype with fake information. (*send link*) Now you've found the location and landed on this page.
 
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
+
 3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
+
+- Is it clear to you what parts of the page are editable?
+
+4. What is your impression of the personal information bar at the top of the page?
 
 ### Things to watch for:
 
 - I noticed you clicked [this]. Talk about why you chose this.
 - How does the participant interact with the nametag area of the page? Do they skip over it?
-- How does the participant navigate to the contact information page?
-- How does the participant navigate to the military information page?
-- Make note of how user interacts with navigation.  Is it easy to use and to find?
 - Do they understand why they can't edit all parts of the page?
 
 ## Second Task: Connected Apps (Mobile View)
@@ -63,54 +84,58 @@ Okay, great. Now we are going to walk through another scenario.  Imagine that la
 
 1. Could you walk me through how you would do that?
 (*Removes app*)
-2. How would you connect a different outside app to your VA health records?
+2. Was anything confusing to you in this process? 
+-(if yes) where would you look for answers?
+-(if no) imagine you did have concerns, where would you go for more information?
+3. How would you connect a different app to your VA health records?
+(if confused - add clarifiers): Have you used any non-VA apps to access your VA health records? or If you wanted to find new apps on your phone to use with VA.gov, where would you look?
 
 Alright, I have a few follow-up questions for you about this scenario:
 
 1. What did you expect to see in the 'connected apps' section?
 2. Do you have any questions about the process we just looked at?
-3. What was your impression of the mobile navigation?
+3. What was your overall impression of the mobile navigation?
 
 ### Things to watch for:
 
 - Do they understand where to go for 'Connected apps'?
 - Do they understand that they cannot connect a new app through VA.gov?
 - Does the terminology 'connected apps' make sense?
+- Make note of how user interacts with navigation.  Is it easy to use and to find?
 
 ## Third Task: Wayfinding and profile navigation (Desktop)
 
-We are starting from the VA.gov homepage.
-
-Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again. I'll have you walk through a scenario on this version.
+Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again, so if you could return to your browser with VA.gov and expand the screen so you're viewing it how you'd normally look at it.
 
 (*From Homepage*)
 1. Okay, so for this scenario you'd now like to view your military information.  Could you double check that your service information looks correct?
 
--(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to a protoype.  Again, this has all fake information.
+-(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to the desktop protoype.  Again, this has all fake information.
 
 2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
 
-Alright, great! I have a few follow-up questions about this scenario for you:
-
-1. What are your overall impressions of the va.gov profile?
-2. What are your overall impressions of the desktop navigation?
+3. What would you expect to be in the 'Account Security' section?
 
 ### Things to watch for:
 
-- Where does user go to get to Account Security?
-- Does the term 'account security' make sense to the user?
-- Does the overall navigation make sense?
-- If user doesn't have an app - can they figure out where to add one? 
-- Does the user interact with the nametag?
+- Does the overall desktop navigation make sense?
+- Is the user confused by any terminology?
+
+## Fourth Task: Profile and Profile 2.0 Comparison
+
+I'm going to quickly show you a different version of the profile (moderator shares screen with previous profile).
+
+1.Do you remember if you ever used this version? If so, what did you do on these pages?
+2. Based on going through this flow, would you prefer to use the version we used today or this version? Why? How would this version be different?
+
 
 ## Post-Task Interview 
 
 OK, those are all the screens we are going to look at today. I just have a few more questions for you.
 
-1. Overall, how could we improve the VA profile?
-2. Did you have any specific thoughts about the name tag?
-2. What did you think was clear/what worked well?
-3. Was anything confusing? Why?
+1. What are your overall impressions of the va.gov profile?
+2. What are your overall impressions of the desktop navigation?
+3. Overall, how could we improve the VA profile?
 4. Any questions do you have for me?
 
 ## Thank-You and Closing
