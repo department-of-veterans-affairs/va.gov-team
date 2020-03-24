@@ -61,7 +61,7 @@ eBenefits is broken.
 
 ## Solution Approach
 
-- FAST FAST FAST. Current EBN functionality involves clicking a single button. Translate form to VA.gov, prefill logged in user info, submit to Central Mail.
+- Translate form to VA.gov, prefill logged in user info, submit to Central Mail. Current EBN functionality involves clicking a single button. 
 
 ## Value Propositions
 
