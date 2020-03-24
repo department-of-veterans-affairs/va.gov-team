@@ -60,7 +60,7 @@ We are starting from the VA.gov homepage and we would like to simulate a mobile 
 
 ## Second Task: Connected Apps (Mobile View)
 
-Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with an outside doctor. But now you've decided you want to remove the Health app's access to your VA records.   
+Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with a non-VA doctor doctor. But now you've decided you want to remove the Health app's access to your VA records.   
 
 1. Could you walk me through how you would do that?
 (*Removes app*)
