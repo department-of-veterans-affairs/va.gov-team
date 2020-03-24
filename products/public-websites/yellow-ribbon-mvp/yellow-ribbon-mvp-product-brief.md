@@ -1,5 +1,7 @@
 # Yellow Ribbon MVP Product Outline
 
+Staging: https://staging.va.gov/education/yellow-ribbon-participating-schools/
+
 Last updated February 19, 2020
 
 ## POCs
@@ -11,7 +13,6 @@ Last updated February 19, 2020
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
 | Jennifer Lee  | Public Websites Product Owner                 |
-| Aruna Kucherlapati  | Product Manager                         |
 | Liz Lantz     | Designer/Researcher                           |
 | Nick Sullivan | FE Engineer                                   |
 | Kelson Adams  | FE Engineer                                   |
