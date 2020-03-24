@@ -75,13 +75,13 @@
 <li>How do users try to find BDD on VA.gov?</li>
 <li>How do users expect to get to this flow / process?</li>
 <li>What usability issues and pain points exist in the BDD flow?</li>
-<li>Are there any confusing steps in the flow of the HLR submission process?</li>
+<li>Are there any confusing steps in the flow?</li>
 <li>Are the steps clearly defined or self-explanatory?</li>
 <li>Does the user organically move from step to step?</li>
 <li>Does the user need more information to move forward?</li>
-<li>Is there any confusing or ambiguous language that exists in the HLR content?</li>
+<li>Is there any confusing or ambiguous language that exists in the flow?</li>
 <li>Are users missing any information in order to feel confident moving forward?</li>
-<li>Are there other questions or concerns the user has while completing the HLR process?</li>
+<li>Are there other questions or concerns the user has while completing the BDD process?</li>
 <li>What do veterans think will happen after the form is submitted?</li>
 </ul>
 
