@@ -1,19 +1,19 @@
+ # Power of Attorney features & user stories
+ **VSA eBenefits Team | March 2020**
  
+ `Nick Wygonik, UI/UX Designer`
+ 
+ ---
 
-`WIP`
-# eBenefits:  Map functions to user stories and experience
+#### References
+[Epic: Migrate "View and Update My Representative"](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3672)
 
-Epic: [Migrate "View and Update My Representative"](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3672)
-
-User story: [#5535](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5535)  
+[Github (#5535)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5535)  
 
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/README.md) 
 
-
-**VSA eBenefits Team | March 2020**
- [Nick Wygonik](nwygonik@governmentcio.com) UI/UX Designer
-
-Goals- Understand the functions and how they map to the user stories and experience seen in the Epic
+#### Goals
+Understand the functions and how they map to the user stories and experience seen in the Epic
 
 ## Power of Attorney features
 
