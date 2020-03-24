@@ -35,7 +35,7 @@ Last Updated February 26, 2020
 
 # Executive Summary 
 - [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
+- [Solution](#solution)
 - [Hypothesis](#hypothesis)
 - [Requirements](#requirements)
 - [Constraints](#constraints)
@@ -79,7 +79,7 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 - Those of our Veterans who have incurred a debt with the VA struggle to understand the reason for the debt and what their options are to resolve it because the communications about debt the VA sends are difficult to understand and slow to arrive. Our solution should focus on making all content and communication about debt accurate, timely, clear, and compassionate, so that Veterans can take appropriate action while maintaining their dignity.
 
 
-## Solution Goals
+## Solution
 
 - TBD
 
