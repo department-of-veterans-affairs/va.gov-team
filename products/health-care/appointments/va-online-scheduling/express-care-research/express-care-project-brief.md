@@ -35,6 +35,7 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
  + Is "same-day" care the same thing as scheduling an appointment? If not, how is this different?
  + Explain your current process for getting a same-day appointment
  + What is the latest time of day a Veteran should be able to get "same-day" care?
+ + We do not want to show express care/same day options to veterans who do not have access to it. Right now there are a lot of rules around who can use existing "express care." Technical research - are there ways to conditionally show this potential care option to Veterans who are eligible to access it?
 
 
 *******
