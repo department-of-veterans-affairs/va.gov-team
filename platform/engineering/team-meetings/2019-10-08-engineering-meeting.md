@@ -21,7 +21,7 @@
     * [Follow-up (feature toggle names into constants)](https://github.com/department-of-veterans-affairs/vets-website/commit/9eb8de965f5e7bc8928f33ac855141df9221e8fa)
 * \[Rian Fowler\] Flipper and A/B testing / percentage rollouts
   * Heads-up: might start enforcing "in production a day before release", rolling out by percentage
-  * See [documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags#release-toggles)
+  * See [documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles)
 * \[Eugene Doan\] Flipper UI updates: matches VA.gov style, clearer to use now
 * \[Lindsey Hattamer\] Build error output: rubocop output in Jenkins console
 * \[Johnny Holton\] MVI Upgrade
