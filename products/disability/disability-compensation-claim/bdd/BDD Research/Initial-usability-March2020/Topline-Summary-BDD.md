@@ -1,4 +1,4 @@
-# Facility Locator User Search Expectations Topline Summary
+# BDD flow usability test. Topline Summary
 
 Prepared by: Christian Valla, BAM 1
 
