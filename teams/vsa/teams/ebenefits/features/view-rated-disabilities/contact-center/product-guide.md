@@ -26,7 +26,7 @@ The **Your VA disability ratings** screen will show disability ratings that are 
 
 If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the total combined VA disability rating, or the individual disability ratings, or both, could show error alerts.
 
-![RD 500 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-3_clean.png)
+![RD 500 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/contact-center/images/RD-3_clean.png)
 
 Target launch date is end of November 2019, early December 2020.
 
