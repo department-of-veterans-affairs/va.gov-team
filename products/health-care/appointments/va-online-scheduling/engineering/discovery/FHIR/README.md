@@ -7,8 +7,8 @@ In building these new APIs as part of the new EAS API, please consider some of t
 
 The epic tracking the individual components is accessible [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6387)
 
-## [Appointments]()
-## Appointment Requests
+## [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md)
+## Appointment Requests (in progress)
 ## Appointment Cancelations
 ## Appointment Messages
 ## ...
