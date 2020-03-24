@@ -29,3 +29,6 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
  + Are Veterans willing/able to use online methods for same day care
  + What type of devices/platforms have Veterans used to receive similar type of access (if at all?)
  
+ ### Appendix of Background Research
+ + 
+ 
