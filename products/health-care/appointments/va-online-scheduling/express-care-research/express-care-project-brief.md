@@ -1,5 +1,7 @@
+# Express Care project brief
+
 ## Overview: 
-We need to understand when, why, and how a Veteran seeks care that they deem "urgent" "immediate" and "now" through VA digital channels. We specifically want to understand:
+We need to understand when, why, and how a Veteran seeks care that they deem "urgent", "immediate", and "now" through VA digital channels. We specifically want to understand:
  + when do Veterans seek "urgent" "immediate" "same day" care
  + what types of care do Veterans seek "urgent" "immediate" "same day" care / how do they define same day care
  + would Veterans use an online method for receiving same day care
@@ -23,13 +25,16 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
 
 ## Research Questions:
  + _Add questions here to supplement Research Plan_
- + How doe Veterans define Express Care 
- + Why/when do Veterans seek it out express care
+ + How do Veterans define Express Care 
+ + Why/when do Veterans seek out express care
  + Where would Veterans look to schedule/access this type of same day care
  + Are Veterans willing/able to use online methods for same day care
  + What type of devices/platforms have Veterans used to receive similar type of access (if at all?)
  + Where can we contextually redirect Veterans to appropriate access points based on need (e.g., if immediate need vs future facing need such as scheduled appointment)
  + What (if any) of the existing digital tools would a Veteran assume they'd use to receive immediate, same day digital care?
+ + Is "same-day" care the same thing as scheduling an appointment? If not, how is this different?
+ + Explain your current process for getting a same-day appointment
+ + What is the latest time of day a Veteran should be able to get "same-day" care?
 
 
 *******
@@ -59,3 +64,9 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
   + High appointment request volume
   + Multiple tools exist to accomplish same tasks
   + Some VHA resources are _overutilized_ (e.g. call center volume)
+  
+  ### Related documentation
+  
+  + [Facility locator research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
++ [Facility locator research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-findings.md) 
++[VAOS research findings for VA and community care requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
