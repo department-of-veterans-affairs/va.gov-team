@@ -17,19 +17,16 @@ Understand the functions and how they map to the user stories and experience see
 
 ## Power of Attorney features
 
-### Landing Page 
- > User story: 
- > 2. View my representative,
- > 3. No representative displayed,  
--	Display current ‘Representative’,
--	Links to ‘Manage your Representatives’,
--	Link ‘Change your Representatives’,
+### View representative page 
+-	Display current ‘Representative’
+-	Links to ‘Manage your Representatives’
+-	Link ‘Change your Representatives’
 
-### Application Process features
- > User Story:
- > 4. Starting the POA Application,
- > 5. Privacy Act acknowledgement,
- > 11. Print application,
+ > User stories: 
+ > 2. View my representative,
+ > 3. No representative displayed
+
+### Application process features
 -	Store Applicants saved information from previous section
 -	Continuing the application from saved
 -	Save the application’s progress
@@ -41,22 +38,20 @@ Understand the functions and how they map to the user stories and experience see
      - Radio buttons
      - Input fields
 -	Completion percentage displayed per each of the form’s step
--	Privacy Act information.
+-	Privacy Act information
 
-### Personal Information
-> User Stories-
-> 6. Enter VA File number
-> 7. No VA fie number
-> 8. VA file error validation statement
-> 9. Confirm biographical information
-> 10. Edit biographical information
+ > User stories:
+ > 4. Starting the POA Application
+ > 5. Privacy Act acknowledgement
+ > 11. Print application
 
--	#### VA File number	
+### Personal information
+-	**VA file number**	
       - Input field  
       - Content describing VA #
       - Helper text for VA# format
       - Checkbox “I do not have a VA File #”
--	#### Veterans biographical information
+-	**Veteran's biographical information**
   - Auto Populated
   -	Edit button- ‘change personal information’
   -	Contact information- Compensation and Pension Benefits link
@@ -83,21 +78,18 @@ Understand the functions and how they map to the user stories and experience see
     -	Effective Date- MM/DD/YYYY
     -	CTA- Cancel
     -	CTA- Save
+    
+> User stories:
+> 6. Enter VA File number
+> 7. No VA fie number
+> 8. VA file error validation statement
+> 9. Confirm biographical information
+> 10. Edit biographical information
 
-### Representative Selection
-> User Stories:
-> 12. Search for a representative,
-> 13/15/16/17/18. Complete step’s location inputs,
-> 14. Select a Representative, 
-> 19. See results of Search, 
-> 21. Print Representative result table, 
-> 22. Representative result table features- sort by columns, 
-> 23. Select Representatives, 
-> 25. Confirm Military service, 
-> 26. Enter insurance #, 
--	#### Authorizing Address change
+### Representative selection
+-	**Authorizing address change**
      - Radio buttons Y and N
--	#### Tables (Auto populated from database)
+-	**Tables** (Auto populated from database)
      - Headers
        -	Names (POA code digits can be Alpha/Numeric)
        - Contact info
@@ -108,18 +100,17 @@ Understand the functions and how they map to the user stories and experience see
          - Auto fill forms 21-22 & 21-22a with veteran’s information
        - Print tables 
        - Pagination
-       - CTA- ‘change search criteria’
+       - CTA- "change search criteria"
        - Insurance Number
           - Input field
--	#### Attorney information
+-	**Attorney information**
     - Veteran’s Organization Information
       - Name
       - VA code # (022)
       - Address
     - Attorney Information
-    - Information text- ‘Representative cannot accept online representation request.’
-    
- -	#### Find local Representative
+    - Information text- "Representative cannot accept online representation request."  
+ -	**Find local representative**
     - 	Selected
        - VSO
        - Attorney
@@ -129,9 +120,8 @@ Understand the functions and how they map to the user stories and experience see
          - City
          - Zip
          - Distance
-       - Name
-       
--	#### Limited of Consent
+       - Name 
+-	**Limit of consent**
 - Provide link to Section 7332 Title 38-U.S.C
 - Optional Restrictions checkbox
    - Drug Abuse
@@ -139,26 +129,36 @@ Understand the functions and how they map to the user stories and experience see
        - Infection with the HIV
        - Sickle cell anemia
        
--	#### Military Service 
+-	**Military service** 
   - Auto populate
   
-### Error Check
-> User Stories:
-> 30- Confirm warning message
-  -	Error checks
-  -	Warnings
+> User stories:
+> 12. Search for a representative
+> 13/15/16/17/18. Complete step’s location inputs
+> 14. Select a Representative
+> 19. See results of Search
+> 21. Print Representative result table
+> 22. Representative result table features- sort by columns
+> 23. Select Representatives
+> 25. Confirm Military service
+> 26. Enter insurance #
+  
+### Error check
+-	Error checks
+-	Warnings
 
-### Final Review
+> User story:
+> 30 - Confirm warning message
+
+### Final review
+-	Final Validation
+
 >User story:
->30/31- confirm application
--	#### Final Validation
+>30/31 - Confirm application
 
 ### Manage your Representative for VA claims
--	Links- ‘Find closer Representative offices’
--	Link- ‘Find new Representative’
--	Download forms
+-	Links to "Find closer Representative offices"
+-	Links to "Find new Representative"
+-	Links to form downloads
   - 21-22
   - 21-22a
-  
-
-
