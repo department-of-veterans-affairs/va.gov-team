@@ -448,6 +448,8 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 
 ### Order of priorities
 
+**Primary team**
+
 Any overflow from last sprint, plus:
 
 1. Profile 2.0: Build starts
@@ -455,6 +457,12 @@ Any overflow from last sprint, plus:
 3. Address validation post-launch tickets (only the ones already listed)
 4. PM work
 5. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+**Logged-in homepage discovery**
+
+1. Finalize research plan
+2. Plan 1 - 2 research activities (stakeholder interviews + maybe past research review?)
+3. Potentially start conducting stakeholder interviews
 
 ### Address validation
 
@@ -488,6 +496,16 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 - If possible, have Tressa do design this sprint to unblock #6466
+
+### Logged-in homepage discovery
+
+- Review and refine research proposal #7083
+- Review and refine list of stakeholders #7086
+- Create conversation guide #7087
+- Schedule interviews #7088
+- Conduct interviews #7089
+
+- Other tasks — what can we get done? Research review? Other planning?
 
 ## Sprint 19 (4/8 - 4/21)
 
