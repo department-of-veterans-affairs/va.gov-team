@@ -2,6 +2,7 @@
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
+- Staging EBN link: https://sqa.eauth.va.gov/ebenefits/representative
 - va.gov link: tbd
 
 ## WIP
