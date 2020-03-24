@@ -9,24 +9,34 @@ The diagrams below show before and after architecture of SSOe-integrated sign-in
 
 Before:
 
+![VA.gov SSOe integration "before" state](./assets/vagov_ssoe_before.jpg)
 
 After:
+
+![VA.gov SSOe integration "after" state](./assets/vagov_ssoe_after.jpg)
 
 
 ### Sequence Diagrams:
+
+The sequence diagrams show in more detail the set of requests/responses that are made for a typica authentication event. Note that the additional proxying of requests from ID.me to other credential providers (MHV,DSLogon) is omitted for clarity.
+
 Before:
+
+![VA.gov SSOe integration "before" sequence diagram](./assets/vagov_saml_before.jpg)
 
 
 After:
+
+![VA.gov SSOe integration "after" sequence diagram](./assets/vagov_saml_after.jpg)
 
 
 ## Description of any new publicly-exposed endpoints (vets-api or otherwise)
 This work adds a new version of the sessions controller (v1/sessions) that exposes the following resources:
-* v1/sessions/metadata - exposes the SAML SP metadata required by SSOe in its role as VA.gov’s Identity Provider. 
-* v1/sessions/{idme/mhv/dslogon/verify/mfa}/new - Invoked by vets-website in response to users clicking one of the sign in buttons, or requesting to verify their account or enroll in multifactor. This method crafts a SAML request with the right contents to trigger the requested action in SSOe/ID.me/MHV/DSLogon and redirects the user’s browser to SSOe with that request.
-* v1/sessions/callback - This is the Assertion Callback Service (ACS) URL to which SSOe sends the SAML response (aka assertion) after a user signs in. Vets-api parses the response, validates it (correctly signed by expected counterparts, encrypted, not expired, etc) and uses the attributes in the assertion to establish a user session.
-* v1/sessions/logout - A SAML single-logout endpoint. This would be used to parse an incoming SAML logout request from an IdP and terminate the VA.gov user session. However SSOe does not currently implement SAML-bassed logout (see below).
-* v1/sessions/ssoe_logout - A non-SAML logout endpoint. Since SSOe does not support SAML logout, this endpoint will be used by vets-website to terminate the VA.gov session and then trigger SSOe’s “PKMS Logout” endpoint to terminate the SSOe session.
+* **v1/sessions/metadata** - exposes the SAML SP metadata required by SSOe in its role as VA.gov’s Identity Provider. 
+* **v1/sessions/{idme/mhv/dslogon/verify/mfa}/new** - Invoked by vets-website in response to users clicking one of the sign in buttons, or requesting to verify their account or enroll in multifactor. This method crafts a SAML request with the right contents to trigger the requested action in SSOe/ID.me/MHV/DSLogon and redirects the user’s browser to SSOe with that request.
+* **v1/sessions/callback** - This is the Assertion Callback Service (ACS) URL to which SSOe sends the SAML response (aka assertion) after a user signs in. Vets-api parses the response, validates it (correctly signed by expected counterparts, encrypted, not expired, etc) and uses the attributes in the assertion to establish a user session.
+* **v1/sessions/logout** - A SAML single-logout endpoint. This would be used to parse an incoming SAML logout request from an IdP and terminate the VA.gov user session. However SSOe does not currently implement SAML-bassed logout (see below).
+* **v1/sessions/ssoe_logout** - A non-SAML logout endpoint. Since SSOe does not support SAML logout, this endpoint will be used by vets-website to terminate the VA.gov session and then trigger SSOe’s “PKMS Logout” endpoint to terminate the SSOe session.
 
 
 ## Description of any new interactions with dependent services (i.e. vets-api —> ???)
@@ -44,7 +54,7 @@ The keep alive endpoint returns a status code indicating whether an SSOe session
 
 ### Data changes
 From a security and privacy perspective the other change to be aware of is that while the substitution of SSOe for ID.me as the immediate protocol-level IDP is pretty straightforward,  we do receive a  different SAML payload from SSOe. The primary difference is that the SSOe SAML payload includes information that we would otherwise need to perform a separate MVI query for.
-* During rollout, we are not dispensing with the separate MVI query that occurs  during sign-in.  That work can be done as a follow-on as described in [this RFC] and [this epic].
+* During rollout, we are not dispensing with the separate MVI query that occurs  during sign-in.  That work can be done as a follow-on as described in [this RFC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/pv-ssoe-sec-review/platform/engineering/request-for-comment/2020-01-08-ssoe-removing-implicit-mvi-queries.md) and [this epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5760).
 * The SSOe SAML payload only contains MVI attributes for authenticated users with a sufficient LOA - just as vets-api only queries MVI for high-assurance users.
 * SSOe is capable of issuing a successful SAML response when MVI (which is a separate system operated by the same team) is down. In this scenario vets-api will receive a “CSP-only” SAML assertion equivalent to what we get from ID.me/MHV/DSLogon today.
 
