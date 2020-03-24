@@ -19,7 +19,7 @@
 - Open VA.gov in a tab
 - Open Mobile prototype in another tab (https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
 - Open Desktop prototype in another tab (https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
-- Open old profile (https://www.va.gov/health-care/forms/vha-10-10CG.pdf) to show at the end
+- Open old profile (need to add) to show at the end
 
 ## Intro
 
@@ -107,7 +107,7 @@ Alright, I have a few follow-up questions for you about this scenario:
 
 Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again, so if you could return to your browser with VA.gov and expand the screen so you're viewing it how you'd normally look at it.
 
-(*From Homepage*)
+(*From VA.gov homepage*)
 1. Okay, so for this scenario you'd now like to view your military information.  Could you double check that your service information looks correct?
 
 -(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to the desktop protoype.  Again, this has all fake information.
@@ -125,7 +125,7 @@ Okay, we're going to switch gears and take a look at the desktop view.  We will 
 
 I'm going to quickly show you a different version of the profile (moderator shares screen with previous profile).
 
-1.Do you remember if you ever used this version? If so, what did you do on these pages?
+1. Do you remember if you ever used this version? If so, what did you do on here?
 2. Based on going through this flow, would you prefer to use the version we used today or this version? Why? How would this version be different?
 
 
@@ -136,7 +136,7 @@ OK, those are all the screens we are going to look at today. I just have a few m
 1. What are your overall impressions of the va.gov profile?
 2. What are your overall impressions of the desktop navigation?
 3. Overall, how could we improve the VA profile?
-4. Any questions do you have for me?
+4. Any questions you have for me?
 
 ## Thank-You and Closing
 
