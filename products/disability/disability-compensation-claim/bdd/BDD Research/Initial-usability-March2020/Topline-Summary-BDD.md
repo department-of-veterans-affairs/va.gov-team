@@ -16,7 +16,29 @@ This topline summary is a result of the synthesis that happens after conducting/
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
 
 ## Research Questions & Answers
-**How do users try to find BDD on VA.gov?**
+
+**Previous experience with filing a BDD claim**
+- Four users had heard about BDD and would use it if available. 
+ - Two users had filed a BDD claim. One user had a good experience with a helpful VSO and filed a BDD claim successfully. Hardest part: figure out what paperwork he needed, and get info / updates about the process from VA. Lack of visibility and updates. 
+ - One user had a bad experience. The VSO did not want to file the claim for him, as they had “too many returns” of BDD  applications. He did not get the help he needed. 
+ 
+ **Task 1. (way finding task) How do users try to find info about the BDD program on VA.gov? : You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. Please go to VA.gov, and show me what you would do to find this program and apply for it.**
+ - Most users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go the next time. 
+ -  A couple of users searched for BDD and found the link ("Pre-discharge claim"), but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
+ - A couple of users overlooked the link to Pre-discharge Claim, as they were looking for other words / terms.
+ - Users tried to find info about the BDD program under "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". Others tried to look under "Service member Benefits" further down on the page. Overall, the page that describes the BDD program is too hard to find on VA.gov. 
+ - Two users suggest that the VA homepage should have a section or a button for Service Members that are about to separate:  “I am about to separate - what should I do now?” 
+ 
+ 
+ 
+
+**Task 2: Imagine that you’ve found the correct program and the correct form on VA.gov, and you now want to file a claim for a neck sprain issue and Tinnitus. How would you go about doing this?**
+ - 
+ 
+ 
+ 
+ 
+
  - Answer
  
 **How do users expect to get to this flow / process?**
@@ -76,18 +98,6 @@ This topline summary is a result of the synthesis that happens after conducting/
 
 
 
-
-Topline Summary is a short text in which we capture our first impressions from the research. It’s a summary of the main observations that the researcher and the observers have captured. This summary is all based on initial observations. At this point, the data has not been analysed. In the Topline we articulate some of the patterns we think are emerging, but these ideas may change once we do a detailed analysis and synthesis of the data we’ve gathered.
-
-**The goals of the topline summary:**
- - For everyone who observed the BDD sessions to align on perceived top findings. 
- - Allow for the team to let the researchers/designers know if there are any specific directions they want us to pursue as we analyze and synthesize the data we’ve gathered.
-
-## Top level summary of findings from the initial BDD Research
-
-**Previous BDD experiences**
- - Four users had heard about BDD. Two users had filed a BDD claim. One was a good experience using a VSO. Successfully filed a claim. One was a bad experience using a VSO. Not getting the help he needed. Many rounds before finally being able to file.  
-
 **Overall wayfinding tasks:**
 - Most users did not find the BDD page and felt it should be much easier to find.
 
@@ -101,18 +111,9 @@ Topline Summary is a short text in which we capture our first impressions from t
 ## Findings
 
 **Short interview about previous experiences with filing for BDD**
- - Four users had heard about BDD and would use it if available. 
- - Two users had filed a BDD claim. One user had a good experience with a helpful VSO and filed a BDD claim successfully. Hardest part: figure out what paperwork he needed, and get info / updates about the process from VA. Lack of visibility and updates. 
- - One user had a bad experience. The VSO did not want to file the claim for him, as they had “too many returns” of BDD  applications. He did not get the help he needed. 
- 
-**Way finding task: You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. Please go to VA.gov, and show me what you would do to find this program and apply for it.**
- - Most users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go the next time. 
- -  A couple of users searched for BDD and found the link ("Pre-discharge claim"), but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
- - A couple of users overlooked the link to Pre-discharge Claim, as they were looking for other words / terms.
- - Users tried to find info about the BDD program under "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". Others tried to look under "Service member Benefits" further down on the page. Overall, the page that describes the BDD program is too hard to find on VA.gov. 
- - Two users suggest that the VA homepage should have a section or a button for Service Members that are about to separate:  “I am about to separate - what should I do now?” 
 
-**Task 2: Imagine that you’ve found the correct program and the correct form on VA.gov, and you now want to file a claim for a neck sprain issue and Tinnitus. How would you go about doing this?**
+ 
+
 
 **Gating questions**
 - Gating pages: Users seem somewhat hesitant and not very confident as they interact with the first gating pages ("How to file a VA disability claim"). They seem a bit overwhelmed by all the text and some are confused to not see any text about BDD specifically. A couple of users think the supporting evidence requirements will overwhelm / scare some users away.  Several users think the section “Can I file my claim online?” should be more prominent on the page. When users start the gating questions, they seem more confident and less hesitant. 
