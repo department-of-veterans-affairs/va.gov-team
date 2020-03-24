@@ -17,7 +17,7 @@ Topline Summary is a short text in which we capture our first impressions from t
 ## Overall summary of findings from the initial BDD Research
 
 **Previous BDD experiences**
--Four users had heard about BDD. Two users had filed a BDD claim. One was a good experience using a VSO. Successfully filed a claim. One was a bad experience using a VSO. Not getting the help he needed. Many rounds before finally being able to file.  
+ - Four users had heard about BDD. Two users had filed a BDD claim. One was a good experience using a VSO. Successfully filed a claim. One was a bad experience using a VSO. Not getting the help he needed. Many rounds before finally being able to file.  
 
 **Overall wayfinding tasks:**
 - Most users did not find the BDD page and felt it should be much easier to find.
