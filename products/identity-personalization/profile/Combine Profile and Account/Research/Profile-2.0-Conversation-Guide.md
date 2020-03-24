@@ -27,15 +27,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 -  What do you typically do on Va.gov?
 3. Have you ever used VA.gov to update your personal information?
 - (if yes) Can you tell me about this experience?
-4. Have you connected any outside apps to your VA health records?
+4. Are you currently recieving any benefits from the VA? Which ones?
+5. Have you ever connected any outside apps to your VA health records? (*clarifier*) (For example, it's possible to connect your health app from your iphone to your VA health records.)
 
 ## Screenshare
 
-- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+I'm going to ask you to go to VA.gov on your browser.  Once you have it pulled up, will you share your screen with me?  Click the  "Share" button in Zoom.  For these exercises we would like to simulate a mobile experience so if you could make your browser screen narrow like a phone screen that would be great.
 
-I'm first going to send you a link to VA.gov. 
-
-Once you have it pulled up, will you share you screen with me? I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.  
+Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.  
 
 We are starting from the VA.gov homepage and we would like to simulate a mobile experience so if you could make your browser screen narrow like a phone screen that would be great.
 
