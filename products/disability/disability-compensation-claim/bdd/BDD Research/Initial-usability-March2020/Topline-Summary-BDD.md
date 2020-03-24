@@ -1,4 +1,4 @@
-# Initial usability test of the BDD flow. Topline Summary
+# Topline Summary: Initial BDD usability test
 
 Prepared by: Christian Valla, BAM 1
 
