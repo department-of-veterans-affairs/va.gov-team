@@ -98,11 +98,7 @@ Finally, the application is bookended by a review step.
 - Example of issue: “You have 1 warning with a statement about the issue"
 
 ### VSO and law firms processes
-VSO offers guidance through the VA's Power of Attorney process and provides links to different VA forms, most often, 21-22/21-22a in PDF. Other commercial options can are similar to LegalZoom and law offices.  LegalZoom requests information and then provides the needed form.  Law firms provide “Durable Power of Attorney” for specific use cases. An example is Michigan’s POA for finances.  ADD IMAGE
-
-`Will the comparison cases be illustrated using screen caps?`
-
-`Might consider add a little more detail--even if it's generalized--about what the comparative proceses are like (e.g. long or short, static or interactive, feature rich or combersome). Also, some commonalities and ponts of difference (if any).`
+VSO offers guidance through the VA's Power of Attorney process and provides links to different VA forms, most often, 21-22/21-22a in PDF. Other commercial options can are similar to LegalZoom and law offices.  LegalZoom requests information and then provides the needed form.  Law firms provide “Durable Power of Attorney” for specific use cases. An example is Michigan’s POA for finances.
 
 ## Conclusion
 Suggestions for VA.gov's POA process
@@ -111,6 +107,4 @@ Suggestions for VA.gov's POA process
 - Combine some steps:
 	- VA file number and Insurance number 
 	- Combine Military service with Personal information
-		- Both steps are information is auto-populated 
-
-`Conclusion should have some thought about how eBenefits compare to other POA forms and processes. Suggestions are fine, but not necessary--this is Discovery.`		
+		- Both steps are information is auto-populated 	
