@@ -38,9 +38,15 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
 
 
 *******
- ### Appendix of Background Research/Information
+## Appendix
+  
+### Related research documentation
++ [Facility locator research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
++ [Facility locator research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-findings.md) 
++[VAOS research findings for VA and community care requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
  + [Get Care Research (Fall 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care) -- Has some overlap with the broader question her of 'care access and digital tools.' They dabbled a bit in talking online health/telehealth.
- + 
+ 
+ ### Related Background Information
  + Current Veteran Care Access points/ecosystem:
   + VA Mobile Apps
        + VA Health Chat
@@ -66,9 +72,3 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
   + High appointment request volume
   + Multiple tools exist to accomplish same tasks
   + Some VHA resources are _overutilized_ (e.g. call center volume)
-  
-  ### Related documentation
-  
-  + [Facility locator research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
-+ [Facility locator research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-findings.md) 
-+[VAOS research findings for VA and community care requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
