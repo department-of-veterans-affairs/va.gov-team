@@ -34,20 +34,20 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
   + VA Mobile Apps
   + MyHealtheVet (MHV) -- _Veterans comfortable using this digital place for all health related needs_
    + Secure Messaging
-    + Secure messaging currently used to accomplish wide variety of tasks
-    + High % of Veterans use Secure Message (need to get exact numbers)
-   + Legacy VAOS (for now)
+     + Secure messaging currently used to accomplish wide variety of tasks
+     + High % of Veterans use Secure Message (need to get exact numbers)
+    + Legacy VAOS (for now)
   + VA.gov
-   + VAOS-R (new VA Online Scheduling on VA.gov)
+    + VAOS-R (new VA Online Scheduling on VA.gov)
   + VA Facility Locator
   + Telehealth
-   + CVT
-   + VVC (VA Video Connect) -- current focus Primary Care & Mental Health
-    + Current initiative to increase VVC by providers for PC and MH care capable
+    + CVT
+    + VVC (VA Video Connect) -- current focus Primary Care & Mental Health
+      + Current initiative to increase VVC by providers for PC and MH care capable
  + Notes from Get Care research:
-  + Veterans prefer face to face interactions
-  + Veterans are not aware of online services
-  + Veterans trust online services promoted/used by their primarcy care provider, however, there was expressed hesitancy associated with new technology. Veterans expressed first interaction with tech key and Veteran willingness to try if it can help their provider. 
+   + Veterans prefer face to face interactions
+   + Veterans are not aware of online services
+   + Veterans trust online services promoted/used by their primarcy care provider, however, there was expressed hesitancy associated with new technology. Veterans expressed first interaction with tech key and Veteran willingness to try if it can help their provider. 
   + Veterans are calling for items that could be handled online
   + Missed appointments high
   + High call volumes at call centers
