@@ -47,7 +47,7 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 ### Frontend development
 
 - Familiarize yourself with the [Client application documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started) site. It summarizes several common tasks, common components, and the high level structure of `vets-website` 
-- We encourage frequent merges of small pull requests and using [environment flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) to keep partially complete or in progress features from appearing in production. 
+- We encourage frequent merges of small pull requests and using [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) to keep partially complete or in progress features from appearing in production. 
 - If modifying an existing app, we encourage writing code that's [easy to delete](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to). We encourage coarse feature gating logic (i.e. "please repeat yourself") to avoid needing "shotgun surgery" later when the feature goes live. 
 - We rely heavily on automated testing in our continuous integration flow to detect regressions. It's important to follow our unit testing and end to end testing patterns to maintain a highly collaborative environment. 
 
