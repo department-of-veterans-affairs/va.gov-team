@@ -41,6 +41,8 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
 ## Appendix
   
 ### Related research documentation
++ [Urgent Care Usability Study (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md) - specific to urgent care benefit eligibility and finding urgent care facilities covered under VA benefits
+   + [Usability Testing Notes via Mural](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1560946920965/4bb321f266f232e3e1d91559b168a0f3c11fe84f)
 + [Facility locator research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
 + [Facility locator research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-findings.md) 
 +[VAOS research findings for VA and community care requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
