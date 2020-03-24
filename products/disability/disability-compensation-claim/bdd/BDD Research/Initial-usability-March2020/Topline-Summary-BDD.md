@@ -1,4 +1,4 @@
-# BDD flow initial usability test. Topline Summary
+# Initial usability test of the BDD flow. Topline Summary
 
 Prepared by: Christian Valla, BAM 1
 
@@ -14,7 +14,7 @@ Topline Summary is a short text in which we capture our first impressions from t
  - For everyone who observed the BDD sessions to align on perceived top findings. 
  - Allow for the team to let the researchers/designers know if there are any specific directions they want us to pursue as we analyze and synthesize the data we’ve gathered.
 
-## Overall summary of findings from the initial BDD Research
+## Top level summary of findings from the initial BDD Research
 
 **Previous BDD experiences**
  - Four users had heard about BDD. Two users had filed a BDD claim. One was a good experience using a VSO. Successfully filed a claim. One was a bad experience using a VSO. Not getting the help he needed. Many rounds before finally being able to file.  
@@ -23,25 +23,24 @@ Topline Summary is a short text in which we capture our first impressions from t
 - Most users did not find the BDD page and felt it should be much easier to find.
 
 **Overall what did users think about the BDD flow?**
-- Users were somewhat hesitant on the gating pages, possibly overwhelmed by: 1. The amount of text and info on the page. 2. The lack of text / terms corresponding with the BDD program. 
+- Users were somewhat hesitant when using the gating pages, possibly overwhelmed by: 1. The amount of text and info on the page. 2. The lack of terms corresponding with the BDD program. 
 - Several users felt that the call to action button should be more prominent. 
 - When the users started the gating questions, the flow seemed pretty self-explanatory, except some confusion about the blue and the green Sign in button on the BDD info page. 
 - When users came to the actual BDD flow, they went through it fast, with little or no problems or hesitations (one user went through the flow in approximately 5-6 minutes).
 - Users found the flow to be simple, straightforward, self explanatory, relatively short and efficient. 
--One user suggested to add a percentage complete on the progress bar, as each section varies a lot in number of steps / length.
 
 ## Findings
 
 **Short interview about previous experiences with filing for BDD**
  - Four users had heard about BDD and would use it if available. 
- - Two users had filed a BDD claim. One user had a good experience with a helpful VSO and filed a BDD claim successfully. Hardest part: figure out what paperwork he needed, and get info / updates about the process from VA. Lack of visibility.
+ - Two users had filed a BDD claim. One user had a good experience with a helpful VSO and filed a BDD claim successfully. Hardest part: figure out what paperwork he needed, and get info / updates about the process from VA. Lack of visibility and updates. 
  - One user had a bad experience. The VSO did not want to file the claim for him, as they had “too many returns” of BDD  applications. He did not get the help he needed. 
  
-**Way finding task:  You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. Please go to VA.gov, and show me what you would do to find this program and apply for it.**
- - Most users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go next time.
- -  A couple of users searched for BDD and found the link (Pre-discharge claim), but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
+**Way finding task: You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. Please go to VA.gov, and show me what you would do to find this program and apply for it.**
+ - Most users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go the next time. 
+ -  A couple of users searched for BDD and found the link ("Pre-discharge claim"), but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
  - A couple of users overlooked the link to Pre-discharge Claim, as they were looking for other words / terms.
- - Users tried to find info about the BDD program under Disability / File a claim for compensation, others looked under the main menu: VA Benefits and Health Care / Disability / Eligibility. Others tried to look under Service member Benefits further down on the page. Overall, the page that describes the BDD program is too hard to find on VA.gov. 
+ - Users tried to find info about the BDD program under "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". Others tried to look under "Service member Benefits" further down on the page. Overall, the page that describes the BDD program is too hard to find on VA.gov. 
  - Two users suggest that the VA homepage should have a section or a button for Service Members that are about to separate:  “I am about to separate - what should I do now?” 
 
 **Task 2: Imagine that you’ve found the correct program and the correct form on VA.gov, and you now want to file a claim for a neck sprain issue and Tinnitus. How would you go about doing this?**
@@ -76,7 +75,7 @@ Topline Summary is a short text in which we capture our first impressions from t
  - A couple of users would like to upload many documents at once (one click upload).
  - Several users wanted a chat help function or a call number for help with the BDD flow. 
   
-**Supporting evidence (claim exam)**
+**Supporting evidence (phone call about claim exam)**
  - Several users think they should also get a text or email about receiving a phone call for a claim exam. (Several users say they won’t answer unknown numbers due to all the spam and phishing attempts going on.) 
 
 **Review application page**
@@ -94,4 +93,6 @@ Topline Summary is a short text in which we capture our first impressions from t
 - Consider a FAQ in the gating page or BDD info page or the BDD introduction page.
 - Consider adding somewhere in the flow: Average days to complete a BDD claim 
 - Consider adding: Check the claim status after 24 hours. 
+- One user suggested to add a percentage complete on the progress bar, as each section varies a lot in number of steps / length.
+
 
