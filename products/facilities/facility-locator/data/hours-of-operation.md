@@ -11,11 +11,11 @@ This page will capture the variations in the ways hours of operations is being c
 | 800AM-1200 | 8:00 a.m. - 12:00 a.m. (timezone when available) |
 | 9:30AM-4:00PM | 9:30 a.m. - 4:00 p.m. (timezone when available) |
 | 930AM-800PM | 9:30 a.m. - 8:00 p.m. (timezone when available) |
-| 9:00AM-3:00PM - Appointments Only | 9:00 a.m. - 3:00 p.m. (timezone when available) By appointment only. | 
+| 9:00AM-3:00PM - Appointments Only | 9:00 a.m. - 3:00 p.m. (timezone when available) By appointment only | 
 | Sunrise - Sundown | Sunrise - Sunset |
 | Sunrise - Sunset | Sunrise - Sunset |
-| Appointments Only | By appointment only. |
-| By Appointment Only | By appointment only. |
+| Appointments Only | By appointment only |
+| By Appointment Only | By appointment only |
 | Closed | Closed | 
 | Itinerant |  |
 | AM-PM | 
