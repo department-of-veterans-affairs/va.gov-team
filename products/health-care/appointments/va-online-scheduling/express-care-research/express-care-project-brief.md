@@ -39,9 +39,11 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
 
 *******
  ### Appendix of Background Research/Information
- + [Get Care Research (Fall 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care) -- Has some overlap with the broader question her of 'care access and digital tools.' They dabbled a bit in talking online health/telehealth. 
+ + [Get Care Research (Fall 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care) -- Has some overlap with the broader question her of 'care access and digital tools.' They dabbled a bit in talking online health/telehealth.
+ + 
  + Current Veteran Care Access points/ecosystem:
   + VA Mobile Apps
+       + VA Health Chat
   + MyHealtheVet (MHV) -- _Veterans comfortable using this digital place for all health related needs_
    + Secure Messaging
      + Secure messaging currently used to accomplish wide variety of tasks
