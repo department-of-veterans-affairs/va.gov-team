@@ -8,7 +8,7 @@ This document contains the proposed endpoints, requests & response information f
 
 | HTTP Method | Endpoint                     | Description                                                                                                |
 |-------------|------------------------------|------------------------------------------------------------------------------------------------------------|
-| POST        | /v0/in_progress_forms/mdot           | Creates a new medical device and/or accessory order.                                                       |
+| POST        | /v0/mdot/supplies           | Creates a new medical device and/or accessory order.                                                       |
 | GET         | /v0/in_progress_forms/mdot   | Returns just the veteran information: address, gender, date of birth, email, etc.                          |
 
 ### GET /v0/in_progress_forms/mdot
@@ -118,7 +118,7 @@ Content-Type: application/json
 ```
 
 
-### POST /v0/in_progress_forms/mdot
+### POST /v0/mdot/supplies
 
 #### Request
 
@@ -128,11 +128,6 @@ HTTP/1.1
 Accept-Encoding: *
 
 {
-  "fullName": {
-    "first": "Greg",
-    "middle": "A",
-    "last": "Anderson"
-  },
   "permanentAddress": {
     "street": "101 Example Street",
     "street2": "Apt 2",
