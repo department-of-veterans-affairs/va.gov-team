@@ -8,6 +8,59 @@ Prepared by: Christian Valla, BAM 1
 
 [Session Notes]() 
 
+
+This topline summary is a result of the synthesis that happens after conducting/observing research sessions. This is a high level summary of trends and analysis, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
+
+**The goal of this document is:**
+ - To make sure everyone who observed the study is in alignment with the perceived findings
+ - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
+
+## Research Questions & Answers
+**Question 1**
+ - Answer
+ 
+**Question 2**
+ - Answer
+
+**Question 3**
+ - Answer
+
+**Question 4**
+ - Answer
+
+**Question 5**
+ - Answer
+
+## Hypotheses & Answers
+**Hypothesis**
+ - Answer
+ 
+**Hypothesis**
+ - Answer
+
+**Hypothesis**
+ - Answer
+ 
+## Other Findings
+**Finding**
+- Details
+> “Sample quote if relevent”
+
+**Finding**
+- Details
+> “Sample quote if relevent”
+
+**Finding**
+- Details
+> “Sample quote if relevent”
+
+
+
+
+
+
+
+
 Topline Summary is a short text in which we capture our first impressions from the research. It’s a summary of the main observations that the researcher and the observers have captured. This summary is all based on initial observations. At this point, the data has not been analysed. In the Topline we articulate some of the patterns we think are emerging, but these ideas may change once we do a detailed analysis and synthesis of the data we’ve gathered.
 
 **The goals of the topline summary:**
