@@ -1,10 +1,8 @@
-
-`WIP`
 # eBenefits Representative for VA Claims (POA) comparative analysis
 
 **VSA eBenefits Team | March 2020**
 
-[Nick Wygonik](nwygonik@governmentcio.com) UI/UX Designer
+`Nick Wygonik, UI/UX Designer`
 
 ---
 
@@ -31,7 +29,7 @@ A Veteran seeking to have a representative manage their claim must first sign in
 - Click on Representative
 - Click on Apply for a Representative
 
-### Completing the form
+#### Completing the form
 Clicking “apply” begins the application. The following steps must be completed:
 
 #### Personal Information steps
