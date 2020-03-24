@@ -2,7 +2,7 @@
 
 Prepared by: Christian Valla, BAM 1
 
-[Research plan](htt) 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BBD-Research-Plan.md) 
 
 [Conversation guide](ht) 
 
