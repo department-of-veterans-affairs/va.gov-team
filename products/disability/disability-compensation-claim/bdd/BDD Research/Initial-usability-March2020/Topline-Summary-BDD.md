@@ -16,21 +16,37 @@ This topline summary is a result of the synthesis that happens after conducting/
  - To gain insight from team/stakeholder/designers and determine specific directions to pursue as we analyze the data
 
 ## Research Questions & Answers
-**Question 1**
+**How do users try to find BDD on VA.gov?**
  - Answer
  
-**Question 2**
+**How do users expect to get to this flow / process?**
  - Answer
 
-**Question 3**
+**What usability issues and pain points exist in the BDD flow?**
  - Answer
 
-**Question 4**
+**Are there any confusing steps, or confusing or ambiguous language in the flow? Are the steps clearly defined or self-explanatory?**
+ - Answer
+
+**Does the user organically move from step to step?**
+ - Answer
+
+**Are users missing any information in order to feel confident moving forward?**
+ - Answer
+
+**Are there other questions or concerns the user has while completing the BDD process?**
+ - Answer
+ 
+**What do veterans think will happen after the form is submitted?**
  - Answer
 
 **Question 5**
  - Answer
-
+ 
+ 
+ 
+ 
+ 
 ## Hypotheses & Answers
 **Hypothesis**
  - Answer
