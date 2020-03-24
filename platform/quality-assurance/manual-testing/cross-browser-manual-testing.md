@@ -6,7 +6,7 @@ Conduct cross-browser manual testing after you've pushed your final/complete bui
 
 ## What You Will Need
 
-[TestRail Test Plan with Multiple Test Runs](testrail/README.md)
+[TestRail Test Plan with Multiple Test Runs](https://dsvavsp.testrail.io/index.php?/plans/view/30)
   * The best method for executing cross-browser manual testing in TestRail is to create a *Test Plan* for your release/sprint.  Within that *Test Plan* you can use the same collection of test cases to create multiple *Test Run*s with different OS / browser configurations.  In TestRail, that would look something like this --  
 ![TestRail example of test plan with multiple test runs for cross browser testing][testrail-cross-browser-test-plan]
 
