@@ -23,3 +23,9 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
 
 ## Research Questions:
  + _Add questions here to supplement Research Plan_
+ + How doe Veterans define Express Care, 
+ + Why/when do Veterans seek it out express care
+ + Where would Veterans look to schedule/access this type of same day care
+ + Are Veterans willing/able to use online methods for same day care
+ + What type of devices/platforms have Veterans used to receive similar type of access (if at all?)
+ 
