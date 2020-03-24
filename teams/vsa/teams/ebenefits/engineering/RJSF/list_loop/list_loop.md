@@ -7,7 +7,7 @@ There are times when you may need to allow the user to enter a list of items, su
 If we stick with our example of a list of children let's say you have received a design that requires a Veteran to enter in each of thier kids and then on subsiquent pages to enter in details about each respective kid. Let's go through what it would look like to build this. First we need to tell the form system that we are creating an array and we do that in the first page, where we ask the user to enter in each of their children. We do this by adding the child object, that is the collection of form fields that will capture all of the initial information on the first page ( in your design this is probably name, birthday, and some other information ), to our form schema. In this code example we have named the child object `childrenToAdd` -
 
 ```
-export const schema = {
+export const informationCchema = {
   type: 'object',
   properties: {
     childrenToAdd: {
@@ -33,7 +33,7 @@ There are a few things worth pointing out in this code, first you can see that w
 Once we have the first page we then need to create the next page, where for the sake of our example we may be capturing some more details about each child. Here is what the code looks like for a second page where we ask for the address of each child entered -
 
 ```
-export const schema = {
+export const addressSchema = {
   type: 'object',
   properties: {
     childrenToAdd: {
@@ -56,10 +56,60 @@ You may notice that this is very similar to the first page and that is because w
 
 ### Importing and using our pages
 
-We wrote both of these schemas as exporting a  `constant` named `schema`, but how do we actually use this? So inside your  `form.js` file inside your config you need to do a few things. First you need to import these `schema` objects and assign them, let's say we want to name our page `Child Information`, here is what the imports and the usage would look like -
+We wrote both of these schemas as exporting a  `constant` named `schema`, but how do we actually use this? So inside your  `form.js` file inside your config you need to do a few things. First you need to import these `schema` objects and assign them, let's say we want to name our two pages `Child Information` and `Child Address`, here is what the imports and the usage would look like -
 
 ```
-import { schema } from './our-file.js'
+import { informationSchema } from './our-child-information-file.js';
+// you would most likey import a uiSchema as well
 
+import { addressSchema } from './our-child-address-file.js';
+// again you would most likely import a uiSchema as well
+
+import IntroductionPage from '../containers/IntroductionPage';
+import ConfirmationPage from '../containers/ConfirmationPage';
+
+
+const formConfig = {
+  urlPrefix: '/',
+  submitUrl: '/v0/api',
+  trackingPrefix: 'new-form-',
+  introduction: IntroductionPage,
+  confirmation: ConfirmationPage,
+  formId: 'XX-230',
+  version: 0,
+  prefillEnabled: true,
+  savedFormMessages: {
+    notFound: 'Please start over to apply for new form benefits.',
+    noAuth: 'Please sign in again to continue your application for new form benefits.'
+  },
+  title: 'My new form',
+  defaultDefinitions: {
+  },
+  chapters: {
+    chapter1: {
+      title: 'Chapter 1',
+      pages: {
+        childInformation: {
+          path: 'child-information',
+          title: 'Child Information',
+          schema: informationSchema,
+          // you would most likely use your uiSchema here
+          }
+        },
+        childAddress: {
+          path: 'child-address/:index',
+          title: 'Child Address',
+          showPagePerItem: true,
+          arrayPath: 'childrenToAdd',
+          schema: addressSchema,
+          // you would most likely use your uiSchema here
+        },
+      }
+    }
+  }
+};
 
 ```
+There are a few things worth pointing out here, first we import our `informationSchema` and our `addressSchema` that we creating earlier. Normally you would separately create a uiSchema to go with each of these that holds the corresponding UI information about how the fields should be displayed, error messages, etc. Once we import both of the `schema` objects we then assign them to pages within our `formConfig` object with a few special properties. First we set up two pages, then in the second page we make sure that the `path` includes `/:index`, this is because we are creating an array and on each page item in the array the form system needs to know what item to associate what data with. On the second page we also add the property `showPagePerItem: true` and this ensures that we will get separate pages for each item in the array. What this will look like in reality is that on the first page of our form the user will enter in a few children, then they will be shown a   `childAddress` page for the first child, then a separate `childAddress` page for the second child, and so on for all of the children entered. 
+
+Something else worth mentioning is that we included `arrayPath: 'childrenToAdd'` and this is because this is the name we gave to our `array` inside the form `schema` objects so we need to reference it here and then the form system will take care of connecting all of the dots as to what data goes with each item in the `array`.
