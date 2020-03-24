@@ -30,7 +30,7 @@ Flow could be surfaced/launched from our VAOS "view your appointments" landing p
  + What type of devices/platforms have Veterans used to receive similar type of access (if at all?)
 
 
-
+*******
  ### Appendix of Background Research/Information
  + Current Veteran Care Access points/ecosystem:
   + VA Mobile Apps
