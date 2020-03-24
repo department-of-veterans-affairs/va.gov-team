@@ -19,17 +19,16 @@ Claims Representative or Power of Attorney (POA) feature enables Veterans to sub
 Previous research was conducted regarding the VA’s Power of Attorney process. 5 lawyers were interview and questioned about how the Power Of Attorney forms were submitted to the VA. Below are quotes from the lawyers.  
 Addition discovery about POA process at Law Offices
 -	> "We'd be happy to be able to directly upload anything to the VA"
--	
+	
 -	Beyond the burden this places on attorneys, according to The Office of Business Process Integration, processing faxes and paper documents **costs VA an additional $0.02 per document** as compared to digitally-submitted documents.
--	
+	
 -	Additionally, we learned that when attorneys submit documents, they do so in tightly-prepared, clearly-labeled packets, which are often pulled apart and mislabeled as they’re processed by Central Mail. 
--	
--	
+	
 -	> "We feel like our job is to make it as easy as possible for the adjudicators to review a case"
--	
--	
+
+
 -	> Attorneys stated that they often submit comprehensive, properly labeled evidence for the adjudicators that then gets pulled apart and individually mis-labeled as "third party correspondence,” which further increases the time needed to process a claim.
--	
+	
 -	_Quotes from [Document Upload (HHS & Law Office) Research Summary](https://github.com/department-of-veterans-affairs/vets-contrib/blob/ec60f4a26b21ea0b41801c4d12f3e5a5aea35b24/lighthouse/benefits-team/Upload/Research/Document_Submission_HHS-LAW_research_summary.md)._
 
 
