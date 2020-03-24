@@ -254,20 +254,21 @@ Although we do not dictate whether developers should use Windows vs Linux vs Mac
 *   We don’t have Visio; I had to use the online version (Office 365).
 
 ### Software List
+In order to dogfood VSP's install instructions, VSA developers are expected to have admin access to their own development systems and bring up their own local environment according to the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/):
 
 Software            | URL                           | Description
 :---                | :---                          | :---
-Homebrew            | https://brew.sh               | Package manager for macOS, this package is used via the terminal to install node.js, ruby and all the other software needed. Must be updated regularly in order to keep the repositories up to date. Software allows MAC users to install yarn, node.js and NVM.
-GitHub Desktop      | https://desktop.github.com    | Adds support for Git command line and allows us to work with the VA repositories.
-Visual Studio Code  | https://code.visualstudio.com | IDE to modify and debug code.
+Homebrew            | https://brew.sh               | Package manager for macOS. Used via the terminal to install node.js, nvm, ruby, yarn and all the other software needed. Must be updated regularly in order to keep the repositories up to date.
+Yarn	              | https://yarnpkg.com           | Dependency manager used on the VA frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
+Node.js	           | https://nodejs.org            | Needed to execute the website frontend. Install using the [VA.gov Client Platform "Getting Started" Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
+GitHub Desktop      | https://desktop.github.com    | Desktop Git client that allows us to work with the GitHub-hosted VA repositories. It addition to a UI, it also installs the Git command-line client.
+Visual Studio Code  | https://code.visualstudio.com | IDE to modify and debug code, especially front-end React, but also back-end Ruby/Rails. Sticking to this popular IDE makes it easier to recommend and standardize code-assist/quality  extensions (plug-ins).
 Docker	           | https://www.docker.com        | Needed to run Ruby, Postgres and all the necessary tools to execute the VA APIs.
-Yarn	              | https://yarnpkg.com           | Dependency manager used on the VA frontend.
-Node.js	           | https://nodejs.org            | Needed to execute the website frontend.
 Postman             | https://www.getpostman.com    | Needed to test and develop REST APIs.
 pgadmin	           | https://www.pgadmin.org       | PostgreSQL Tools.
 Chrome              | https://www.google.com/chrome | Needed for front-end development plug-ins.
 Chrome&nbsp;Extension: *React Developer Tools* | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Strongly recommended for React debugging.
-Chrome&nbsp;Extension: *Proxy&nbsp;SwitchyOmega* | [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) | Needed to access internal DevOps web sites sites--such as Jenkins, Sentry, Prometheus, Grafana--over SOCKS5 proxy.
+Chrome&nbsp;Extension: *Proxy&nbsp;SwitchyOmega* | [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) | Needed to access internal DevOps web sites sites--[such as Jenkins, Sentry, Prometheus, Grafana](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)--over SOCKS5 proxy.
 Chrome&nbsp;Extension: *axe* | [axe&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *required*. Catch accessibility issues during development *before* they are flagged by the build.
 Chrome&nbsp;Extension: *axe-coconut* | [axe-coconut&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *required for new development*. Catch WCAG 2.1 accessibility issues during development *before* they are flagged by the build.
 Chrome&nbsp;Extension: *Lighthouse* | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *recommended*. Audits for web performance, accessibility, progressive web apps, SEO and more.
