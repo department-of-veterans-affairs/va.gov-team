@@ -5,7 +5,7 @@
 Progressive rollout is totally optional. Some teams use progressive rollout on some features but it is not a hard and fast rule.
 If we want to do it progressively we can use Flipper UI -
 
-https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/
+https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/
 
 As an example progressive rollout was used with direct deposit because they were unsure how many errors they
 users would recieve as well as the types of errors they would recieve so they wanted to release the feature
