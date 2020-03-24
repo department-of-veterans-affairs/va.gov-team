@@ -13,7 +13,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
 | View POA (Representative)                           | vsa-ebenefits | Q2        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
 | Search for POA                                      | vsa-ebenefits | Q2        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
-| Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
+| Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Lighthouse integration (BGS)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
 | View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
@@ -24,7 +24,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
-| Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
+| Apply for VRE CH36 (8832)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Submit to Central Mail
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | BGS Integration
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
