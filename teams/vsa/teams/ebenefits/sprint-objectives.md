@@ -8,6 +8,33 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
+## Sprint 18 (3/25 - 4/7)
+```diff 
+- TBD
+```
+## 1. Continue Developing "Submit 686c Dependency Claims"
+- Design: Run final platform design/ collab cycle meetings
+- Frontend: Make app fully navigable in staging
+- Frontend: Work with BE to submit data model
+- Backend: Submit a simple, valid 686c and get both success and error responses
+- Backend: Begin work on 674
+
+## 2. View Payments: Finish Product Designs
+- Design: Schedule Design intent meeting and create an initial feature design
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments (doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)
+
+## 3. Career and Educational Counseling (CH36): Initial Product Designs
+- Product: Create product documentation in feature README
+- Product & Design: Initial stakeholder meeting
+- Design: Begin customer journey map/ initial design/ collab cycle meetings with platform
+
+## 4. Complete POA Research Prep
+- Finish initial research
+- Create research plan/ conversation guide for future study
+
+## 5. Stretch - Improve Product Infrastructure
+- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature. _(Determine what kind of Product-level support is needed.)_
+
 ## Sprint 17 (3/11 - 3/24)
 ```diff 
 - 76 points over 24 issues
