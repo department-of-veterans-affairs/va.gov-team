@@ -63,6 +63,9 @@ Acceptance Criteria: User can view/edit email address
 Use Case: As a user I want to be able to update my account settings
 Acceptance Criteria: A link is provided to go to “Account settings”
 
+Use Case: As a user, I want to be able to delete my contact information.
+Acceptance Criteria: User is able to remove contact information.
+
 ## Direct Deposit Information for Disability Compensation and Pension Benefits
 Use Case: As a user I want to known how to change my direct deposit information for GI Bill and other education benefits
 Acceptance Criteria: Provide tool-tip to explain how to change direct deposit information to user
@@ -84,4 +87,11 @@ Acceptance Criteria: User is able to view personal information
 ## Military Service
 Use Case: As a user, I want to know what to do if my information is incorrect
 Acceptance Criteria: User is provided with tool-tip explaining what to do if information is incorrect
+
+## Connected Accounts
+Use Case: As a user, I want to be able to add/remove connected apps
+Acceptance Criteria: User is abel to add/remove connected apps
+
+Use Case: As a user, I want to know what is being shared with who and how
+Acceptance Criteria: User is proved with FAQ page to explain relevant info regarding what and how their data is used (by app)
 
