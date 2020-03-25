@@ -4,7 +4,7 @@
 - Slack channel: #vsa-ebenefits
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
-- va.gov link: tbd
+- va.gov link: https://www.va.gov/careers-employment/education-and-career-counseling/
 
 ## WIP
 
