@@ -1,5 +1,7 @@
 # Research Plan for Authenticated Experience team, Logged in homepage, March 2020
 
+DRAFT - 3/25/20
+
 ## Goals	
 
 1. What product & team are you doing this research for?	
