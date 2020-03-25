@@ -168,7 +168,10 @@ safeguards in place to ensure they don't override each other.
 **Another important note:** There is no way to coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
 1. Verify the application assets are live in production
-1. Publish the landing page
+1. Make the landing page live in production in the content build
+    - Depending on the answer to [this
+      question](#react-application-landing-pages), this may mean publishing the
+      page in Drupal or switching the flag in the JSON file
 1. Deploy a new content build
 
 ## Specifics
