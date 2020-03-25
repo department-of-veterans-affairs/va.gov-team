@@ -35,6 +35,8 @@ It would be great to pre-fill as much as possible but keeping this to one button
 
 ![Education/ Career Counseling Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery/images/eligible.JPG)  
 _Education/ Career Counseling Eligibility_
+![Authenticated View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/screenshot.png)
+_Authenticated View_
 
 ## Technical
 There is no backend system here, the stakeholders (TED) have requested that this form get PDF'd and sent to Central Mail, which routes it to the TED Office.  
