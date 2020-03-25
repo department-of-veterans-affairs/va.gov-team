@@ -9,6 +9,9 @@
 
 #### Team Members
 
+- 
+- 
+- 
 ---
 
 ## Overview
@@ -22,8 +25,9 @@ How might we create an improved user experience for GIBCT users, particularly th
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+*Why would a user want to use this?*
+
+*With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 -	508 compliant
 -	Easily view changes to estimated benefits in GIBCT profile page
@@ -48,8 +52,9 @@ How might we create an improved user experience for GIBCT users, particularly th
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+*Why would your business want this to exist?*
+
+*With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 -	Addresses critical user need to provide accurate estimates of benefits regardless of users’ accessibility concerns or device use
 -	VA needs to comply with Sec. 508
@@ -67,7 +72,7 @@ How might we create an improved user experience for GIBCT users, particularly th
 
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
+*Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
 
 - Users will understand how to calculate their benefits with the updated UI
 - #### Our solution will be an improvement over what exists currently. Tool will work better for most people – not degrade the current experience ####
@@ -80,29 +85,28 @@ How might we create an improved user experience for GIBCT users, particularly th
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
+*What are you going to build now, and why have you decided to start there?*
 
 Improved UI to address accessibility concerns with explicit Estimate Your Benefits controls which change displayed benefit values.
 
 Starting there based on 508 accessibility feedback from VSP. 
 
-- *Why this solution / approach over other solutions / approaches?*
+*Why this solution / approach over other solutions / approaches?*
 
 We decided to do this over leaving as-is because we don’t want to leave out individuals with accessibility issues. 
 
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+*What have you explicitly decided to not include in this initial set of functionality, and why?*
 
 Cannot redesign the full GIBCT due to project scope. 
 
 Cannot include Search Results Page in this effort due to project scope. 
 
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 We’ll be prepared to iterate on the solution based on usability testing and user input. 
 
 ## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
---- 
+*What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 
 -	Analytics to evaluate GIBCT overall usage – does not decrease
 -	Analytics to track calculator-button clicks - ??
@@ -111,19 +115,20 @@ We’ll be prepared to iterate on the solution based on usability testing and us
 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+*How are Veterans and others using this product going to know it exists?*
+
+*What marketing, outreach, or communications are necessary for this product to be successful?*
 
 - VA should alert Veterans, other users, and institutions listed in GIBCT & SCOs that work at those institutions.
 - Communications via VA.gov, Email, social media.
 
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
+*What is your target launch date of your MVP/iteration?*
 
 NLT June 19, 2020
 
-- *What is your date for when you'll evaluate impact after launch?*
+*What is your date for when you'll evaluate impact after launch?*
 
 Ideally, July 20, 2020
 
