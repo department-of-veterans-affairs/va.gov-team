@@ -468,8 +468,6 @@ Any overflow from last sprint, plus:
 
 - Ramp up to 50%
 - Ramp up to 100%
-- Change address update endpoint to use iso3 country code #6046
-- Stop using country name for VA profile contact information endpoint #5591
 
 ### Profile 2.0
 
@@ -516,6 +514,11 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 3. Address validation: If applicable, any final tickets
 
 ### Profile 2.0
+
+Address validation
+
+- Change address update endpoint to use iso3 country code #6046
+- Stop using country name for VA profile contact information endpoint #5591
 
 Design
 
