@@ -21,21 +21,19 @@ In order to best support VFS teams, especially as they grow in number, we need t
 *Note: these are not intended to be prescriptive. Teams can plan work outside of the themes! But teams should look for opportunities to help VSP improve across these themes, and should  keep them front-of-mind when planning/prioritizing work.*
 
 ### Communication
-
-**Improve VSP outgoing communications**
+*Improve VSP outgoing communications*
 
 The ways in which we communicate with our customers has not kept pace with the scale of our operation. Teams building on the platform often miss announcements and key information in Slack about improvements to platform features, services, and processes. Support threads around similar issues are repeated across teams, and sometimes even within the same team. This leaves VFS teams confused and frustrated, which negatively affects the perception of the platform by those teams as well as VA stakeholders.
 
 We feel good about our inbound communications from VFS teams, particularly in soliciting our users’ pain points, but we haven’t done an equally good job communicating our work back to those teams and their stakeholders.
 
 ### Documentation
-**Improve documentation quality & processes**
+*Improve documentation quality & processes*
 
 Documentation about platform standards, processes, services, and tools, and about VA.gov products is difficult to parse, search, and maintain. This makes it relatively slow and frustrating for product managers, engineers, and designers to find the info they need to build and deploy apps. Additionally, today we create and edit documents reactively (when we are made aware there’s a problem) rather than proactively (based on a cross-team documentation culture and editorial schedule). The result is an ever-increasing backlog of documentation updates, out of date or non-existent documents, and the aforementioned delays and frustrations.
 
 ### Testing & Isolation
-
-**Let VFS teams “own their own destiny” through isolation and robust testing**
+*Let VFS teams “own their own destiny” through isolation and robust testing*
 
 Testing: For the size of ecosystem we operate, we don't have much automated testing, quality QA testing, healthy unit testing practices, or "compliance" testing. As a result, overall quality is at risk because VFS teams rely on manual/QA testing, have barriers to creating comprehensive automated tests, and do not sufficiently test their assumptions, and because we're unable to evaluate overall application quality across VA.gov at scale. In order to maintain a platform with many Veteran-facing applications, we need need confidence that apps meet our standards, and that they won't regress or break inadvertently after their “build” teams have moved on due to contract changes or otherwise.
 
