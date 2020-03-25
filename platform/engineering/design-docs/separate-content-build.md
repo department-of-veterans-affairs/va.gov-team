@@ -289,11 +289,6 @@ There are no new privacy concerns with a separated build process.
 ### Open Questions and Risks
 All questions have been inlined to preserve context.
 
-Risks include:
-- Misconfiguring the forward proxy routing
-  - Could "remove" all static content from VA.gov
-  - Could "remove" all applications from VA.gov
-
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
 
