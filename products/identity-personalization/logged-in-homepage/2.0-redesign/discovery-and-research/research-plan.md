@@ -1,6 +1,6 @@
 # Research Plan for Authenticated Experience team, Logged in homepage, March 2020
 
-
+DRAFT - 3/25/2020
 
 ## Goals	
 
@@ -74,7 +74,7 @@
 1.	Participant criteria: What are you looking for in a participant?	
    (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
 2.	What is your recruitment strategy? 	
-   (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+   We would like to utilize Perigean's services
 
 ## When? 	
 
@@ -91,7 +91,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
+- Participant recruiting & screening: Perigean
 - Project point of contact:	
 - Participant(s) for pilot test:	
 - Note-takers:	
@@ -103,7 +103,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 	
   *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Convo Guide	
-  *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+  [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/conversation-guide-stakeholders.md)	
 - Synthesis	
   *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
