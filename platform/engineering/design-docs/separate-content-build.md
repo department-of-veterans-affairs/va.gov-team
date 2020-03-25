@@ -311,7 +311,7 @@ The following estimates vary greatly depending on who's doing the work.
     - I'm not sure what all goes into this
         - What does it take to wire this into Jenkins / Nomad?
 1. Modify the `createReactPages` step to use the new JSON file
-    - **Estimate:** 1 day - 3 days
+    - **Estimate:** 1 - 3 days
     - **Note:** This work can be done in parallel with any of the above tasks
 1. Once we're confident the deploys are working properly, switch the
    `vets-website` build to build only webpack assets
