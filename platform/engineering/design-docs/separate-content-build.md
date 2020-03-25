@@ -163,16 +163,6 @@ safeguards in place to ensure they don't override each other.
 
 ![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
 
-**Important note:** JavaScript application landing pages will be created during
-the content build. There will be a JSON file with the parameters to create the
-landing pages. Parameters include:
-- URL of the page
-- Bundle name for the application
-- Whether the file should be made available in production
-
-<!-- When we do this, we need to update the manifest.json documentation and -->
-<!-- remove unused properties from all the files. -->
-
 **Another important note:** There is no way to coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
 1. Verify the application assets are live in production
@@ -209,7 +199,20 @@ make an application live for the first time. The process will be to manually:
 - The landing pages to the applications will be created in the CMS
 - The CMS repo will no longer import `vets-website`, but rather the new content
   build repo
+  
+#### React application landing pages
+**Important note:** JavaScript application landing pages will be created during
+the content build. There will be a JSON file with the parameters to create the
+landing pages. Parameters include:
+- URL of the page
+- Bundle name for the application
+- Whether the file should be made available in production
 
+When we do this, we need to update the manifest.json documentation and remove
+unused properties from all the files.
+
+**Question:** Should this be a transitionary stopgap measure until the landing
+pages are all created in Drupal, or could this be a viable long-term solution?
 
 ### Code Location
 To start, the **content build** will live at
