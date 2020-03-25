@@ -29,14 +29,14 @@ This feature can be found in EBN, after logging in, under **Additional Benefits*
 
 ![Additional Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery/images/addtl-benefits.JPG)  
 _Additional Benefits (Under "Things you can view here:") / Vocational Rehabilitation and Employment_
+![Authenticated View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/screenshot.png)
+_Authenticated View_
 
 ## Filtering for Eligibility
 It would be great to pre-fill as much as possible but keeping this to one button click would be great.  It tough to know a future discharge date, but we _might_ be able to find out when they were seperated from active duty, are in another education program and/or currently receiving VA education benefits (GI Bill eligilbty is on the platform).  Again, while it would be super helpful to position this feature to send on only highly convertable candidates to the stakeholders, we should err on the side of sending more less than qualified and let the stakeholders make the final decision.
 
 ![Education/ Career Counseling Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery/images/eligible.JPG)  
 _Education/ Career Counseling Eligibility_
-![Authenticated View](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/screenshot.png)
-_Authenticated View_
 
 ## Technical
 There is no backend system here, the stakeholders (TED) have requested that this form get PDF'd and sent to Central Mail, which routes it to the TED Office.  
