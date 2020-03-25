@@ -266,8 +266,12 @@ however.
 We have automated unit and end-to-end tests that are run on every CI build.
 
 ##### Deploy
-**Question:** How _do_ we tell whether or not the deploy was successful and the
-expected version of the application code is live in production?
+**Question:** How can we tell whether the application assets are live in
+production?  
+**Answer:** Look at www.va.gov/BUILD.txt and compare the `ref` to the commit
+hash you expect to be in production.
+- Note: This will change to something more like www.va.gov/webpack/BUILD.txt,
+  but we need to settle on a name for that new directory first
 
 ### Caveats
 - The content validation doesn't happen in the build job
