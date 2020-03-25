@@ -232,7 +232,7 @@ landing pages. Parameters include:
 When we do this, we need to update the manifest.json documentation and remove
 unused properties from all the files.
 
-**Question:** Should this be a transitionary stopgap measure until the landing
+**Question:** Should this be a transitional stopgap measure until the landing
 pages are all created in Drupal, or could this be a viable long-term solution?
 
 ### Code Location
@@ -241,7 +241,7 @@ To start, the **content build** will live at
 of `build/` to `build-content/` for clarity.) Once the implementation is
 complete, this code will **move to a new repository.**
 
-The **application build** will consist of **webpack configuration files** found in
+The **application build** will consist of **Webpack configuration files** found in
 the **root of the project.** If we need any script files to aid in the build
 process, they will be located in `vets-website/scripts/build/`.
 
@@ -301,7 +301,7 @@ There are no new security concerns with a separated build process.
 There are no new privacy concerns with a separated build process.
 
 ### Open Questions and Risks
-All questions have been inlined to preserve context.
+All questions have been in-lined to preserve context.
 
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
@@ -328,7 +328,7 @@ The following estimates vary greatly depending on who's doing the work.
     - **Estimate:** 1 - 3 days
     - **Note:** This work can be done in parallel with any of the above tasks
 1. Once we're confident the deploys are working properly, switch the
-   `vets-website` build to build only webpack assets
+   `vets-website` build to build only Webpack assets
     - **Estimate:** < 1 hour
     <!-- TODO: More clearly define the transition to separate deployments -->
 
