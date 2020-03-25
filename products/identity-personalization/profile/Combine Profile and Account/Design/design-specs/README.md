@@ -23,7 +23,7 @@ Documentation containing descriptions, interaction notes, and content for each c
 
 - Profile header 
 - Profile navigation
-- Contact information 
+- Personal & contact information 
 - Military information 
 - Direct deposit 
 - Account security 
