@@ -160,8 +160,6 @@ The current front end build will be split up into two distinct builds:
 The output of both these builds will be deployed to a single S3 bucket with
 safeguards in place to ensure they don't override each other.
 
-![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
-
 **Another important note:** There is no way to coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
 1. Verify the application assets are live in production
@@ -180,6 +178,24 @@ The content build will live in a separate repository called `content-build`.
 This repository will contain only code pertaining to the content build.
 
 ![Separated content code base](images/phase-2-separated-content-build.png)
+
+#### Coordinating deployments to S3
+We use S3 to serve a static site. To do this, the bucket consists of a file tree
+which corresponds to the URLs on VA.gov. For example, `/education/index.html` is
+the file that's served at www.va.gov/education/.
+
+The output of the application build **currently** live in the `/generated/`
+directory. To support the transition, the **new** application build will put its
+assets in the `/applications/` directory.
+
+![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
+
+To ensure that one build won't override files in the other, we'll have to
+1. Update
+   [`vets-website-deploy.sh`](https://github.com/department-of-veterans-affairs/devops/blob/2c63e6d62fa5ad2b6b87478e30d0a7bc2820c252/ansible/deployment/roles/deploy-vets-website/files/vets-website-deploy.sh)
+   to copy only to the `/applications/` directory
+1. Create a new deploy script for the content deployment which copies everything
+   over _except_ the `/applications/` directory
 
 #### Testing changes to applications
 - The Webpack configuration will use
