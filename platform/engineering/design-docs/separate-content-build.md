@@ -184,12 +184,7 @@ make an application live for the first time. The process will be to manually:
 ### Detailed Design
 
 #### Build and deploy
-- The content build will live in a separate repository
-  - **Question:** What should we call this?
-
-#### Routing
-- The forward proxy will route their traffic based on some configuration file
-  - **Question:** What configuration file? How does it work?
+- The content build will live in a separate repository called `content-build`
 
 #### Testing changes to applications
 - The Webpack configuration will use
