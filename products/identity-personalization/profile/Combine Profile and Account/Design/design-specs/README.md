@@ -1,7 +1,8 @@
-# [Project Name] Design + Content Specifications 
-Designer, Team
+# Profile 2.0 Design + Content Specifications 
 
-[Product Outline]()
+- **Team**: Authenticated Experience
+- **Lead designer**: Tressa Furner
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)
 
 ## High Level Flow Diagram
 
@@ -12,24 +13,18 @@ Put any high-level artifacts here that would help developers understand the over
 Put notes here about interactions or content that apply globally
 
 ## Per Page Specifications
-The most updated version of the full prototype can be viewed [here]().
+
+### Prototype
+The most updated version of [the full prototype can be viewed here](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/19477763).
+
+### Documentation
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
 
-- **Drupal content pages** 
-   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-contentpage.md)
-- **Introduction Screen**
-   - Page 1: [Introduction section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-intropage.md)
-- **Chapter 1: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 2: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 3: [Name of Chapter]**
-   - Page 1: [Name of Page]()
-   - Page 2: [Name of Page]()
-- **Chapter 4: Review order** 
-   - Page 1: [Review order]()
-- **Confirmation screen** 
-   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-confirmationpage.md)
+- Profile header 
+- Profile navigation
+- Contact information 
+- Military information 
+- Direct deposit 
+- Account security 
+- Connected accounts 
