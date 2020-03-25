@@ -158,11 +158,10 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-The output of both these builds will be deployed to separate buckets. The
-reverse proxies will route traffic intelligently to the appropriate bucket given
-the request.
+The output of both these builds will be deployed to a single S3 bucket with
+safeguards in place to ensure they don't override each other.
 
-![Proposed traffic flow to S3 buckets](images/proposed-traffic-flow-to-s3-buckets.png)
+![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
 
 **Important note:** JavaScript application landing pages will live in the CMS.
 To get an application into production, the page in Drupal will need to be
@@ -181,13 +180,6 @@ make an application live for the first time. The process will be to manually:
 #### Build and deploy
 - The content build will live in a separate repository
   - **Question:** What should we call this?
-  - **Question:** Can the application build be run in Circle?
-  - **Question:** Where can we run the content build?
-- Content will be deployed to a separate S3 bucket from the application code
-- The S3 buckets will be [versioned](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
-  in them with the contents of each deployment
-  - Old directories will be removed after 90 days
-    - **Question:** What makes sense? This is a totally arbitrary number
 
 #### Routing
 - The forward proxy will route their traffic based on some configuration file
@@ -241,15 +233,6 @@ the current build script's output. To test that this is working properly we can:
 1. Check that the all same files are there
     - We can use `find` and `cmp` for this as needed
     
-#### Forward proxy routing
-We'll have two buckets: One for content, one for application assets. During the
-transition, the application bucket will also contain content. Once the forward
-proxy routing is set up and we're confident traffic is being routed to the right
-buckets, we can remove the content from the application build.
-
-**Question:** How will we be able to verify that traffic is being routed
-properly?
-
 ### Logging
 **Question:** What _should_ it log? Anything? Is this a Jenkins / Nomad /
 CircleCI thing?
@@ -276,10 +259,6 @@ We have automated unit and end-to-end tests that are run on every CI build.
 ##### Deploy
 **Question:** How _do_ we tell whether or not the deploy was successful and the
 expected version of the application code is live in production?
-
-#### Forward proxy routing
-**Question:** How can we tell if any given request is being sent to the right
-bucket?
 
 ### Caveats
 - The content validation doesn't happen in the build job
@@ -327,16 +306,10 @@ The following estimates vary greatly depending on who's doing the work.
     - **TO DO:** Ensure this won't override the existing landing pages yet
     - **Estimate:** 1 hour - 1 day
     - **Note:** This work can be done in parallel with any of the above tasks
-1. Coordinate with Ops to use the new repo to deploy content to a new bucket
-    - **Estimate:** ??
-    - Again, not sure what it takes to make this happen
-1. Set up the routing in the forward proxy
-    - **Estimate:** ??
-    - Probably between a few hours and a week...?
-1. Once we're confident all traffic is routed properly, switch the `vets-website`
-   build to build only webpack assets (content on the application bucket
-   shouldn't be touched at this point anyhow)
+1. Once we're confident the deploys are working properly, switch the
+   `vets-website` build to build only webpack assets
     - **Estimate:** < 1 hour
+    <!-- TODO: More clearly define the transition to separate deployments -->
 
 ### Alternatives
 
@@ -354,22 +327,16 @@ to keep it in `vets-website`. The reasons we're not doing this are:
   - It will be harder for an application to use be able to use a dependency that
     wasn't intended to be client-facing
 
-#### Single S3 bucket
-Instead of deploying content to a separate S3 bucket from the applications, we
-could continue to deploy them both to the same bucket. We decided to split up
-the deployment to:
-- Promote a higher separation of concerns
-  - **Question:** Is this even a thing we should be worried about?
-- Enable simpler rollbacks
-  - **Question:** Is this valid?
-
-**Note to reviewers:** I spent a lot of time trying to figure out what
-independent deployment and independent rollback looked like on one bucket, but
-I'm just not experienced enough to have a good answer. I don't want to introduce
-unneeded complexity, but separating the output from each build seemed like the
-right approach. At this point, it's more hunch than anything and I very much
-would like to get feedback on this part from somebody with experience in the
-trenches.
+#### Multiple S3 Buckets
+There are a few challenges that multiple buckets present.
+1. ATO
+    - There's a lot of paperwork
+1. Namespacing
+    - To use S3 to serve a static site, the bucket needs to be named after the
+      namespace, e.g. `www.VA.gov`
+    - We could maybe get around this with using a subdomain like
+      `javascript.VA.gov` or something, but again, paperwork and likely more
+      maintenance burden
 
 ### Future Work
 1. Individually route applications asset requests to their own versioned objects
