@@ -21,10 +21,10 @@ The most updated version of [the full prototype can be viewed here](https://vsat
 
 Documentation containing descriptions, interaction notes, and content for each chapter's pages can be found here.
 
-- Profile header 
-- Profile navigation
-- Personal & contact information 
-- Military information 
-- Direct deposit 
-- Account security 
-- Connected accounts 
+- [Profile header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-header.md)
+- [Profile navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-navigation.md)
+- [Personal & contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/personal-contact-information.md) 
+- [Military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/military-information.md) 
+- [Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/direct-deposit.md) 
+- [Account security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/account-security.md)
+- [Connected accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/connected-accounts.md) 
