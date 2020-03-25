@@ -8,7 +8,7 @@
 
 ---
 
-Everything we do is in service of supporting VFS teams to build successful apps. We’ve made great headway from where we were in May 2019, but today VFS teams are struggling to use our tools and services without our help, and we’re spending an unscalable amount of time on manual support.
+**Everything we do is in service of supporting VFS teams to build successful apps.** We’ve made great headway from where we were in May 2019, but today VFS teams are struggling to use our tools and services without our help, and we’re spending an unscalable amount of time on manual support.
 
 In order to best support VFS teams, especially as they grow in number, we need to allow them to succeed with less manual support/intervention from us. And in order to get to a place where that’s possible, we need to focus on the following themes for Q2 2020:
 
