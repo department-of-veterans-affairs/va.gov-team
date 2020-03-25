@@ -21,7 +21,7 @@ Thanks for joining us today! My name is Liz and  [attendees] are also here from 
 ## Logged in homepage
 
 1. How were you involved with the vets.gov to va.gov transition, as it pertains to the logged in homepage/myVA experience ?
-2. What problems have you noticed about the current experience?
+2. What problems have you noticed about the current logged in homepage and myVA experiences?
 3. How would an update to the logged in homepage experience impact your work?
 4. What are your goals for a new logged in homepage experience?
 5. What does success look like to you? How would you know this project has succeeded?
