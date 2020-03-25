@@ -6,7 +6,7 @@ Prepared by: Christian Valla, BAM 1
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BDD%20conversation%20guide.md) 
 
-[Session Notes]() Will be posted here shortly
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/notes)
 
 
 This topline summary is a result of the synthesis that happens after conducting/observing research sessions. This is a high level summary of trends and analysis, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
