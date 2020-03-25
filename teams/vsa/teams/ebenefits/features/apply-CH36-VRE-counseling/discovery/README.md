@@ -25,7 +25,7 @@ If you are not logged in and you still want to apply for Chapter 36, you should 
 
 This feature can be found in EBN, after logging in, under Additional Benefits (Under "Things you can view here:") / Vocational Rehabilitation and Employment and can be initiated by clicking the blue button "Request Counseling." 
 
-![Additional Benefits](images/addtl-benefits.jpg)
+![Additional Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery/images/addtl-benefits.JPG)  
 _Additional Benefits (Under "Things you can view here:") / Vocational Rehabilitation and Employment_
 
 
