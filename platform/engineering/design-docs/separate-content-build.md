@@ -19,14 +19,13 @@
         - [High Level Design](#high-level-design)
     - [Specifics](#specifics)
         - [Detailed Design](#detailed-design)
-            - [Build and deploy](#build-and-deploy)
-            - [Routing](#routing)
+            - [Content build in a separate repository](#content-build-in-a-separate-repository)
             - [Testing changes to applications](#testing-changes-to-applications)
             - [Miscellaneous](#miscellaneous)
+            - [React application landing pages](#react-application-landing-pages)
         - [Code Location](#code-location)
         - [Testing Plan](#testing-plan)
-            - [Conslidated build script](#conslidated-build-script)
-            - [Forward proxy routing](#forward-proxy-routing)
+            - [Consolidated build script](#consolidated-build-script)
         - [Logging](#logging)
         - [Debugging](#debugging)
             - [Content](#content)
@@ -35,7 +34,6 @@
             - [Application](#application)
                 - [Build](#build-1)
                 - [Deploy](#deploy-1)
-            - [Forward proxy routing](#forward-proxy-routing-1)
         - [Caveats](#caveats)
         - [Security Concerns](#security-concerns)
         - [Privacy Concerns](#privacy-concerns)
@@ -43,10 +41,9 @@
         - [Work Estimates](#work-estimates)
         - [Alternatives](#alternatives)
             - [Mono-repo](#mono-repo)
-            - [Single S3 bucket](#single-s3-bucket)
+            - [Multiple S3 Buckets](#multiple-s3-buckets)
         - [Future Work](#future-work)
         - [Revision History](#revision-history)
-
 
 
 ## Overview
