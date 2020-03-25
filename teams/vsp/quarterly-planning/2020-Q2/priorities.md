@@ -1,10 +1,10 @@
 # VSP in Q2 2020
 
-**Vision:** *become a model for normalizing user-centered culture in bureaucracies: enabling a diverse set of teams to deliver reliable digital services that are continuously improving and work for people.*
+> **Vision:** *become a model for normalizing user-centered culture in bureaucracies: enabling a diverse set of teams to deliver reliable digital services that are continuously improving and work for people.*
 
-**Mission:** *provide a framework of systems, tools, processes, documentation, and customer support that together help VFS Teams create successful VA.gov products.*
+> **Mission:** *provide a framework of systems, tools, processes, documentation, and customer support that together help VFS Teams create successful VA.gov products.*
 
-**North Star:** *prove that this is possible at VA by creating a self-service ecosystem of customers building VFSs, that can grow sustainably to support the needs of DEPO.*
+> **North Star:** *prove that this is possible at VA by creating a self-service ecosystem of customers building VFSs, that can grow sustainably to support the needs of DEPO.*
 
 ---
 
