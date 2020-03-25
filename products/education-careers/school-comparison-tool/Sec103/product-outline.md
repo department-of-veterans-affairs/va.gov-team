@@ -39,9 +39,6 @@ How might we use the GI Bill Comparison Tool to clearly indicate compliance by e
 
 ## Undesired Business Outcomes
 - Beneficiary requests for updates on payment timing
-
-## Undesired Business Outcomes
-- Beneficiary requests for updates on payment timing
 - If list isn’t current, wrong information would be reported to users
 
 ## Assumptions
