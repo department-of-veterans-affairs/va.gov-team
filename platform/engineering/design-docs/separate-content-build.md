@@ -281,10 +281,10 @@ hash you expect to be in production.
   - Validation instead happens in a separate job
 
 ### Security Concerns
-There are no new concerns with a separated build process.
+There are no new security concerns with a separated build process.
 
 ### Privacy Concerns
-There are no new concerns with a separated build process.
+There are no new privacy concerns with a separated build process.
 
 ### Open Questions and Risks
 All questions have been inlined to preserve context.
