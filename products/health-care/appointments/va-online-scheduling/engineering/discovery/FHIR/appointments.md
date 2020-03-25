@@ -1,4 +1,4 @@
-# /appointments page
+# Appointments List Flow
 
 Cerner api: http://fhir.cerner.com/millennium/dstu2/scheduling/appointment/#search
 
