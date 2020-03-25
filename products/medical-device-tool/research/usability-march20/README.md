@@ -7,10 +7,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ### Design
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/research-plan.md)
-- Conversation Guide
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/conversation-guide.md)
 - Research Plan Feedback
   - Shawna's Feedback
-  - Usability Test Prep Issue
+    - After sharing our original conversation guide, Shawna recommended that we eliminate (or at least reduce) interrupting the participants mid-task to ask questions. We reworked the guide to allow a more natural progression through the tasks and placed "side-quest" tasks at the end once the main flow has been followed.
+  - [Usability Test Prep Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6499)
   - Lauren Alexanderson's Feedback
 - User Interview Notes
   - Participant 1
