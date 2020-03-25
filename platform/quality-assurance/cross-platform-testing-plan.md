@@ -1,13 +1,14 @@
 # VA.GOV Cross-Platform Testing Plan
+An up-to-date version of this file is present in the [*sensitive*](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/quality-assurance/cross-platform-testing-plan.md) version of this repo because it contains credentials.  The credentials that were included in this file previously have been changed, and credentials have been removed from this file.
 
 ## Tools
 
 We use [Sauce Labs](https://saucelabs.com/) as our testing platform. It supports over 800 [platforms](https://saucelabs.com/platforms) for testing and is [free for open source projects](https://saucelabs.com/open-source). The credentials for our account are:
 
 ```
-Username: vetsdotgov
-Password: vet3rans
-Access Key: 53cf8d23-c929-4392-9735-ce9c0ac3cae5
+Username: [redacted]
+Password: [redacted]
+Access Key: [redacted]
 ```
 
 ## Policies
@@ -37,7 +38,7 @@ You will also want to identify the tunnel created by the proxy because Sauce wil
 If Sauce Connect fails to start the Selenium server, specify a different port with the `--se-port` option:
 
 ```
-./sc -i {YOUR_IDENTIFIER} --user vetsdotgov --api-key 53cf8d23-c929-4392-9735-ce9c0ac3cae5 --se-port 5555
+./sc -i {YOUR_IDENTIFIER} --user [redacted] --api-key [redacted] --se-port 5555
 ```
 
 ### Running manual tests
@@ -49,14 +50,14 @@ To manually test a local branch, first launch the proxy and log into [Sauce Labs
 To execute the entire e2e test suite on sauce, run one of the following replacing {YOUR_IDENTIFIER} with the identifier you used when starting sauce connect:
 
 ```
-SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=vetsdotgov SAUCE_ACCESS_KEY=53cf8d23-c929-4392-9735-ce9c0ac3cae5 npm run test:sauce:desktop
-SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=vetsdotgov SAUCE_ACCESS_KEY=53cf8d23-c929-4392-9735-ce9c0ac3cae5 npm run test:sauce:mobile
+SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=[redacted] SAUCE_ACCESS_KEY=[redacted] npm run test:sauce:desktop
+SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=[redacted] SAUCE_ACCESS_KEY=[redacted] npm run test:sauce:mobile
 ```
 
 To execute a specific test, you can run a similar command:
 
 ```
-SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=vetsdotgov SAUCE_ACCESS_KEY=53cf8d23-c929-4392-9735-ce9c0ac3cae5 npm run test:sauce:desktop -- test/gibct/*.e2e.spec.js
+SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=[redacted] SAUCE_ACCESS_KEY=[redacted] npm run test:sauce:desktop -- test/gibct/*.e2e.spec.js
 ```
 
 Replace the `test/gibct...` part of that command with the path to the specs you want to run.
@@ -64,7 +65,7 @@ Replace the `test/gibct...` part of that command with the path to the specs you 
 If you had to specify a different port for the Selenium server, use the same port in the `SELENIUM_PORT` environment variable:
 
 ```
-SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SELENIUM_PORT=5555 SAUCE_USERNAME=vetsdotgov SAUCE_ACCESS_KEY=53cf8d23-c929-4392-9735-ce9c0ac3cae5 npm run test:sauce:desktop
+SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SELENIUM_PORT=5555 SAUCE_USERNAME=[redacted] SAUCE_ACCESS_KEY=[redacted] npm run test:sauce:desktop
 ```
 
 ### Browsers supported
@@ -87,7 +88,7 @@ Sauce also has a handy [Platform Configurator](https://wiki.saucelabs.com/displa
 By default, the commands above will run the tests against all of the browsers we test with by type. Because that process will be painfully slow, you may wish to run it against only a specific browser or platform. To do this, change the above commands to use the `test:sauce` command and pass in one or more environments you would like to use with the `-e` flag. For example:
 
 ```
-SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=vetsdotgov SAUCE_ACCESS_KEY=53cf8d23-c929-4392-9735-ce9c0ac3cae5 npm run test:sauce -- -e ie,chrome
+SAUCE_CONNECT_TUNNEL_IDENTIFIER={YOUR_IDENTIFIER} SAUCE_USERNAME=[redacted] SAUCE_ACCESS_KEY=[redacted] npm run test:sauce -- -e ie,chrome
 ```
 
 The list of available environments are defined in the [nightwatch-sauce config file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/config/nightwatch-sauce.js) in vets-website. The command will accept a comma-separated list of environments, up to five.
