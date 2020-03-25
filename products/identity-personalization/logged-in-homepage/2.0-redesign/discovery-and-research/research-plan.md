@@ -1,6 +1,6 @@
 # Research Plan for Authenticated Experience team, Logged in homepage, March 2020
 
-DRAFT - 3/25/2020
+
 
 ## Goals	
 
@@ -21,6 +21,8 @@ DRAFT - 3/25/2020
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
    - Why do people come to va.gov?
+     - What are their expectations?
+     - How might their experience be improved with an improved logged in experience and notification system?
    - What do people do on va.gov?
      - What are the pros and cons of their experience?
      - How do people use MY VA?
