@@ -12,9 +12,9 @@
 
 In order to best support VFS teams, especially as they grow in number, we need to allow them to succeed with less manual support/intervention from us. And in order to get to a place where that’s possible, we need to focus on the following themes for Q2 2020:
 
-- Communication
-- Documentation
-- Testing and Isolation
+- **Communication**
+- **Documentation**
+- **Testing & Isolation**
 
 ## More on the Q2 2020 themes
 
