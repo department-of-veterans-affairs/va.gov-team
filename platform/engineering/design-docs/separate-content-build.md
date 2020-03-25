@@ -81,6 +81,8 @@ The entangling of the content and application builds have [led to
 frustrations](#pain-points) for engineers, slower iteration cycles due to failed
 builds, and failed production deployments.
 
+![Phase 1 - Entanglement](images/phase-1-entanglement.png)
+
 #### Build script
 [Metalsmith](https://github.com/segmentio/metalsmith) is a static content build
 pipeline orchestrator. `vets-website` uses it to manage the steps in the content
@@ -173,8 +175,11 @@ make an application live for the first time. The process will be to manually:
 
 ### Detailed Design
 
-#### Build and deploy
-- The content build will live in a separate repository called `content-build`
+#### Content build in a separate repository
+The content build will live in a separate repository called `content-build`.
+This repository will contain only code pertaining to the content build.
+
+![Separated content code base](images/phase-2-separated-content-build.png)
 
 #### Testing changes to applications
 - The Webpack configuration will use
