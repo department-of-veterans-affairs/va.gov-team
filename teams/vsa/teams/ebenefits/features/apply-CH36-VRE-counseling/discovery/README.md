@@ -1,4 +1,4 @@
-# Initial Discovery: Education/ Career Counseling (Ch36)
+# Initial Discovery: Education/ Career Counseling (CH36)
 March 25, 2020
 
 ## Background & Paper Form
