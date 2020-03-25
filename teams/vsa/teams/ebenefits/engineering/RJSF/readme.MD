@@ -4,3 +4,4 @@ This is a set of recipies for common, more advanced forms you may need to create
 
 - [Reccomended Code Structure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/engineering/RJSF/reccomended_code_structure) - This is the reccomended way you organize your code so that it is easy to maintain
 - [List Loop](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/RJSF/list_loop/list_loop.md) - This is needed to build a form that allows a user to input a few items and a separate page for each of those items to enter more information about that respective item
+- [Using a Constants File](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/engineering/RJSF/constants) - Using a central file for all the variables you will use over and over again
