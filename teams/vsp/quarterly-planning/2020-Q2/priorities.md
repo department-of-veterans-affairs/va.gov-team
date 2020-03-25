@@ -41,7 +41,7 @@ Testing: For the size of ecosystem we operate, we don't have much automated test
 
 Isolation: Today, the code that VFS teams develop is often entangled with platform code and/or other VFS teams’ code. This makes development more challenging for those teams, and adds risk to the entire platform: one application’s mistake can considerably damage other applications on the platform, or even bring down the entire website. We need to continue increasing isolation of applications from one another, and of applications from the platform. We should be enabling application teams to “own their own destiny” by creating more separation in code and configuration from one application to the next, and making it harder for any one application team’s mistake to cause damage to other applications.
 
-## Themes in the context of 2020 Objectives
+## Example Pain Points by Theme (in the context of 2020 Objectives)
 
 *Note: the pain points below are examples that illustrate how these themes apply within our Objectives. The examples are not comprehensive! They are for illustrative purposes only. Use the research and ideation you’ve done on your teams to decide what pain points are valuable for your team to focus on.*
 
