@@ -323,12 +323,12 @@ The following estimates vary greatly depending on who's doing the work.
 #### Mono-repo
 The alternative to splitting out the content build into its own separate repo is
 to keep it in `vets-website`. The reasons we're not doing this are:
-- We're trying to reduce what `vets-website` is "in charge" of
+- To reduce what `vets-website` is "in charge" of
   - Building static content from the CMS and compiling application code are two
     completely separate functions
-- We can have one CI pipeline per repository
+- To keep one CI pipeline per repository
   - And they'll be more narrowly focused
-- We can manage dependencies independently
+- To manage dependencies independently
   - All dependencies in the content build repo are not client-facing
     - There _may_ be exceptions later
   - It will be harder for an application to use be able to use a dependency that
