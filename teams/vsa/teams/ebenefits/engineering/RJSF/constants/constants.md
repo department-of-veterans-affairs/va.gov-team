@@ -11,18 +11,6 @@ export const datePattern =
 export const phonePattern = '^[0-9]{10}$';
 export const currencyAmountPattern = '^\\d+(\\.\\d{1,2})?$';
 
-export const TASK_KEYS = {
-  addChild: 'addChild',
-  addSpouse: 'addSpouse',
-  reportDivorce: 'reportDivorce',
-  reportDeath: 'reportDeath',
-  reportStepchildNotInHousehold: 'reportStepchildNotInHousehold',
-  reportMarriageOfChildUnder18: 'reportMarriageOfChildUnder18',
-  reportChild18orOlderIsNotAttendingSchool:
-    'reportChild18orOlderIsNotAttendingSchool',
-  report674: 'report674',
-};
-
 export const countries = [
   { value: 'USA', label: 'United States' },
   { value: 'AFG', label: 'Afghanistan' },
