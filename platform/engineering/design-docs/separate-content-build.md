@@ -163,9 +163,15 @@ safeguards in place to ensure they don't override each other.
 
 ![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
 
-**Important note:** JavaScript application landing pages will live in the CMS.
-To get an application into production, the page in Drupal will need to be
-published.
+**Important note:** JavaScript application landing pages will be created during
+the content build. There will be a JSON file with the parameters to create the
+landing pages. Parameters include:
+- URL of the page
+- Bundle name for the application
+- Whether the file should be made available in production
+
+<!-- When we do this, we need to update the manifest.json documentation and -->
+<!-- remove unused properties from all the files. -->
 
 **Another important note:** There is no way to coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
@@ -302,9 +308,8 @@ The following estimates vary greatly depending on who's doing the work.
     - **Estimate:** ??
     - I'm not sure what all goes into this
         - What does it take to wire this into Jenkins / Nomad?
-1. Create landing pages within the CMS for each application
-    - **TO DO:** Ensure this won't override the existing landing pages yet
-    - **Estimate:** 1 hour - 1 day
+1. Modify the `createReactPages` step to use the new JSON file
+    - **Estimate:** 1 day - 3 days
     - **Note:** This work can be done in parallel with any of the above tasks
 1. Once we're confident the deploys are working properly, switch the
    `vets-website` build to build only webpack assets
