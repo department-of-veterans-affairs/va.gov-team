@@ -1,7 +1,7 @@
 # BDD Research Findings 
 **Benefits Delivery at Discharge (BDD)**<br>
 
-Christian Valla (cvalla@governmentcio.com), 03/25/2020
+Christian Valla (cvalla@governmentcio.com),  03/25/2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BBD-Research-Plan.md).
 
