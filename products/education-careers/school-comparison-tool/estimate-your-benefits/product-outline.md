@@ -87,23 +87,23 @@ How might we create an improved user experience for GIBCT users, particularly th
 
 *What are you going to build now, and why have you decided to start there?*
 
-Improved UI to address accessibility concerns with explicit Estimate Your Benefits controls which change displayed benefit values.
+- Improved UI to address accessibility concerns with explicit Estimate Your Benefits controls which change displayed benefit values.
 
-Starting there based on 508 accessibility feedback from VSP. 
+- Starting there based on 508 accessibility feedback from VSP. 
 
 *Why this solution / approach over other solutions / approaches?*
 
-We decided to do this over leaving as-is because we don’t want to leave out individuals with accessibility issues. 
+- We decided to do this over leaving as-is because we don’t want to leave out individuals with accessibility issues. 
 
 *What have you explicitly decided to not include in this initial set of functionality, and why?*
 
-Cannot redesign the full GIBCT due to project scope. 
+- Cannot redesign the full GIBCT due to project scope. 
 
-Cannot include Search Results Page in this effort due to project scope. 
+- Cannot include Search Results Page in this effort due to project scope. 
 
 *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-We’ll be prepared to iterate on the solution based on usability testing and user input. 
+- We’ll be prepared to iterate on the solution based on usability testing and user input. 
 
 ## KPIs
 *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
