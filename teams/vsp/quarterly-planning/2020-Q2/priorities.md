@@ -37,13 +37,13 @@ Documentation about platform standards, processes, services, and tools, and abou
 
 **Let VFS teams “own their own destiny” through isolation and robust testing**
 
-Testing: We have little to no automated testing, quality QA testing, and healthy unit testing practices for our current scale. As a result, overall quality is at risk because VFS teams rely on manual/QA testing, have barriers to creating comprehensive automated tests, and do not sufficiently test their assumptions. In order to maintain a platform with many Veteran-facing applications, we need to ensure apps go through testing for certain quality requirements, so we can confidence that they will not regress or break inadvertently after their “build” teams have moved on due to contract changes or otherwise. 
+Testing: For the size of ecosystem we operate, we don't have much automated testing, quality QA testing, healthy unit testing practices, or "compliance" testing. As a result, overall quality is at risk because VFS teams rely on manual/QA testing, have barriers to creating comprehensive automated tests, and do not sufficiently test their assumptions, and because we're unable to evaluate overall application quality across VA.gov at scale. In order to maintain a platform with many Veteran-facing applications, we need need confidence that apps meet our standards, and that they won't regress or break inadvertently after their “build” teams have moved on due to contract changes or otherwise.
 
 Isolation: Today, the code that VFS teams develop is often entangled with platform code and/or other VFS teams’ code. This makes development more challenging for those teams, and adds risk to the entire platform: one application’s mistake can considerably damage other applications on the platform, or even bring down the entire website. We need to continue increasing isolation of applications from one another, and of applications from the platform. We should be enabling application teams to “own their own destiny” by creating more separation in code and configuration from one application to the next, and making it harder for any one application team’s mistake to cause damage to other applications.
 
 ## Themes in the context of 2020 Objectives
 
-*Note: these some pain points examples that illustrate how these themes apply within our Objectives. The examples here are not comprehensive! They are for illustrative purposes only - use the research and ideation you’ve done on your teams to decide what pain points are valuable for your work to focus on solving.
+*Note: the pain points below are examples that illustrate how these themes apply within our Objectives. The examples are not comprehensive! They are for illustrative purposes only. Use the research and ideation you’ve done on your teams to decide what pain points are valuable for your team to focus on.*
 
 ### Objective 1: Any volume of simultaneous customers have a delightful, self-service, end-to-end experience using the Platform to build on VA.gov.
 
