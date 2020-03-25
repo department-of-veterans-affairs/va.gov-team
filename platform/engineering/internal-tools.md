@@ -149,7 +149,7 @@ are connected to the VA network or not. You will need to run the SOCKS proxy on 
     * Click the "Raw" button, and copy the URL that's in your browser.
 1. Run `curl URL > ~/.ssh/config`, where URL is the URL that you copied in the previous step. This will overwrite any existing ssh config without warning; please back up any existing file if it exists.
 
-1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov`
+1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov` (for Windows, the command will not require the `-K` flag)
 
 1. Proceed to the instructions below to access the SOCKS proxy.
     * If your key doesn't seem to be working, ask for help in the *#vfs-platform-support* Slack channel
