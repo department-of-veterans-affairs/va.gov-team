@@ -1,6 +1,6 @@
 ## Overview
 
-When creating a form there will be common variables that you will often use over and over again, such as Regex Patterns or lists of countries for drop downs. We have found that for the sake of maintainability it makes sense to put these in a  `constants` file. Here is a good example  for a `constants` file that you are welcome to use and extend and modify -
+When creating a form there will be common variables that you will often use over and over again, such as Regex Patterns or lists of countries for drop downs. We have found that for the sake of maintainability it makes sense to put these in a  `constants` file. It is also suggested to place this somewhere it can be easily imported into multiple files, such as your `config` folder. Here is a good example  for a `constants` file that you are welcome to use and extend and modify -
 
 ```
 export const textOnlyPattern = '^(?!\\s)(?!.*?\\s{2,})[^<>%$#@!^&*0-9]+$';
