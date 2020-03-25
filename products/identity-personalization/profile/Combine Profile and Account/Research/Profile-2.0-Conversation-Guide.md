@@ -94,7 +94,7 @@ Alright, I have a few follow-up questions for you about this scenario:
 
 1. What did you expect to see in the 'connected apps' section?
 2. Do you have any questions about the process we just looked at?
-3. What was your overall impression of the mobile navigation?
+3. Did you find it easy or hard to navigate using the menu at the top of the page?
 
 ### Things to watch for:
 
@@ -133,7 +133,7 @@ I'm going to quickly show you a different version of the profile (moderator shar
 
 OK, those are all the screens we are going to look at today. I just have a few more questions for you.
 
-1. What are your overall impressions of the va.gov profile?
+1. What are your overall impressions of the new va.gov profile we viewed today?
 2. What are your overall impressions of the desktop navigation?
 3. Overall, how could we improve the VA profile?
 4. Any questions you have for me?
