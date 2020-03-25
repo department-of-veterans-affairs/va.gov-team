@@ -17,6 +17,7 @@ Veterans Benefits and Transition Act of 2018 - PL 115-407 Sec 103
 
 ## Problem Statement
 Chapter 31/33 Veterans and beneficiaries experienced financial difficulties, have gone into debt, and were dropped from classes due to delayed payments by VA to their schools.    
+
 How might we use the GI Bill Comparison Tool to clearly indicate compliance by educational institutions with Sec 103, and what is required so Veterans and beneficiaries don't have to worry that they’ll be fined or dropped from classes if VA is late with payments.  
  
 ## Desired User Outcomes
