@@ -20,6 +20,7 @@
     - [Specifics](#specifics)
         - [Detailed Design](#detailed-design)
             - [Content build in a separate repository](#content-build-in-a-separate-repository)
+            - [Coordinating deployments to S3](#coordinating-deployments-to-s3)
             - [Testing changes to applications](#testing-changes-to-applications)
             - [Miscellaneous](#miscellaneous)
             - [React application landing pages](#react-application-landing-pages)
