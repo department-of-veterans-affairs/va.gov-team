@@ -12,9 +12,7 @@ Thanks for joining us today! My name is Liz and  [attendees] are also here from 
 
 2. How long have you been in this role?
 
-3. What does a typical day look like for you?
-
-4. Who are the people and teams you work most closely with?
+3. Who are the people and teams you work most closely with?
 
    
 
