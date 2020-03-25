@@ -16,7 +16,7 @@ In order to best support VFS teams, especially as they grow in number, we need t
 - **Documentation**
 - **Testing & Isolation**
 
-## More on the Q2 2020 themes
+## Theme Overviews
 
 *Note: these are not intended to be prescriptive. Teams can plan work outside of the themes! But teams should look for opportunities to help VSP improve across these themes, and should  keep them front-of-mind when planning/prioritizing work.*
 
