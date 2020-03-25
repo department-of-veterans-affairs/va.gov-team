@@ -25,7 +25,8 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 ## Table of Contents
 
 * [Design Rationale](#design-rationale)
-* [Create SSH public key](#create-ssh-public-key)
+* [Creating an SSH Keypair in Windows](#creating-an-ssh-keypair-in-windows)
+* [Creating an SSH Keypair in Mac or Linux](#creating-an-ssh-keypair-in-mac-or-linux)
 * [Configure the SOCKS proxy](#configure-the-socks-proxy)
 * [Test and use the SOCKS proxy](#test-and-use-the-socks-proxy)
 * [Tools](#tools)
@@ -65,8 +66,49 @@ Internal systems will not require any modification to connectivity, and should
 communicate with the utilities directly. They may use a `/etc/hosts` entry for
 the corresponding `*.vetsgov-internal` address when necessary.
 
+## Creating an SSH Keypair in Windows
 
-## Create SSH public key
+One of the easiest ways to create / use SSH keypairs on Windows, is to use a tool like `Git Bash` or `WSL (Windows Subsystem for Linux)`. For non-technical users, `Git Bash` is arguably less involved and may already be installed if you are using a GFE (Government furnished equipment) laptop. If you are using a GFE laptop, you can check to see if `Git Bash` is already installed by pressing the windows key and typing "git bash" or clicking the start button and typing "git bash" into the search bar. If it is already installed, great! If not, the software can be found [here](https://gitforwindows.org/). Once the package is downloaded, run the installer by clicking through the setup wizard (accept the default options as you click through the wizard). [This guide from the web](https://www.techoism.com/how-to-install-git-bash-on-windows/) has great step-by-step illustrations. 
+
+Once the software is successfully installed and configured, locate and run the program by again using either the windows key or clicking the start button and searching for "git bash". SSH keypairs typically go into a `.ssh` folder which will need to exist here for placement. Within `Git Bash` however, one can use one command to create the file structure, set the correct permissions, and create a new key in one go. In the terminal, type the command `ssh-keygen`. This will prompt you to enter a file in which to save the key. Using the same path in the example, type the intended name for your key (i.e. `/c/Users/Jeremy/.ssh/id_rsa_vetsgov`). The next two prompts will be for a passphrase to encrypt your key with and the confirmation of said passphrase. This is highly recommended to be set and remembered. You should see a "randomart" picture in your terminal if all previous steps have been successful (example below).
+
+```
+Jeremy@BattleStation1 MINGW64 ~
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Jeremy/.ssh/id_rsa): /c/Users/Jeremy/.ssh/id_rsa_vetsgov_example
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Jeremy/.ssh/id_rsa_vetsgov_example.
+Your public key has been saved in /c/Users/Jeremy/.ssh/id_rsa_vetsgov_example.pub.
+The key fingerprint is:
+SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA Jeremy@BattleStation1
+The key's randomart image is:
++---[RSA 2048]----+
+|*.ooo.           |
+|+==*..           |
+|E@&.+            |
+|=O=*             |
+|o++ o . S        |
+|o+.= + .         |
+|ooo = o          |
+|. o. =           |
+|.o  . .          |
++----[SHA256]-----+
+```
+
+Now that you have created an SSH keypair, you can verify that it exists and is within the correct directory by running `ls ~/.ssh`. You should now see your public key (will end in a `.pub` extension; i.e. `id_rsa_vetsgov.pub`) and your private key (same name minus the `.pub` extension). You can then view the contents of your new public key with the command `cat ~/.ssh/id_rsa_vetsgov.pub` which will need to be copied and provided in a future step.
+
+This key will need to be added to your SSH agent any time this terminal is restarted. The process for that will include ensuring your SSH agent is running with `eval $(ssh-agent -s)` and adding your key to the agent with `ssh-add ~/.ssh/id_rsa_vetsgov` (*Note: we use the private key here, not the `.pub` public key).* Once the key is added, you can verify with `ssh-add -l`. This command should give output showing your key's signature added to the running SSH agent like the illustration below.
+
+```
+$ssh-add -l                                                                                           
+2048 SHA256:ShkbdHKQqDwgONLv8/1qiYlX20kX9IPp3uV56ATp3c8 /home/jbritt/.ssh/id_rsa_vetsgov (RSA)
+```
+
+If all prior steps have been successful, you may now continue to [Configure the SOCKS proxy](#configure-the-socks-proxy).
+
+## Creating an SSH keypair in Mac or Linux
 
 If you don't already have a SSH public key, or you're not sure if you do,
 here are the steps to create one:
@@ -90,6 +132,7 @@ here are the steps to create one:
     * You will have a subdirectory in your home directory `~/.ssh`
     * This subdirectory has restrictive permissions `0700`
     * In this subdirectory you will have two files, `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`.
+    * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vetsgov.pub`. This should give a long string of random characters (i.e. ssh-rsa AAAAAjfje983jJL3j2....).
     * Got it? --> Back to [Orientation for Developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-steps-for-developers)
 
 ## Configure the SOCKS proxy
