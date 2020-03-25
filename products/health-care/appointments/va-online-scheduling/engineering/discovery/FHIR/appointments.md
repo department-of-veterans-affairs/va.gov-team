@@ -28,7 +28,7 @@ Cerner api: http://fhir.cerner.com/millennium/dstu2/scheduling/appointment/#sear
 
 ## Questions
 - Where do video links fit in? Location?
-- Do we need to send the whole appointment object to cancel?
+- Do we need to send the whole appointment object to cancel? Maybe this is a good time to consider use of DELETE based on id?
   - Not a blocker, just something we have to account for on the FE
 - Canceling requests will take one api call per timeslot?
 - Does the comments field mean patient comments, and does it have a character limit?
