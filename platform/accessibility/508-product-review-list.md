@@ -525,6 +525,22 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️  — **_Launchblocker_**
 
+* [[SCREENREADER]: Focus MUST move to notification of context change when new content is added](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7243)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-1 ❗️  — **_Launchblocker_**
+
+* [[SCREENREADER]: aria-live="polite" MUST be removed from the search results container](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7288)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-1 ❗️  — **_Launchblocker_**
+
+* [[KEYBOARD]: In Firefox Choose a VA facility type dropdown MUST be keyboard accessible](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7291)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-1 ❗️  — **_Launchblocker_**
+
+* [[MOBILE, ZOOM]: Content SHOULD fit within the viewport when zoomed to 400%.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 25, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
+* [[COGNITION]: Reading order SHOULD provide context between form and results](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7239)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
+* [Sitewide, design system [AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
+* [[SCREENREADER]: Search results SHOULD include semantic context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7285)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
+* [[SCREENREADER]: Upon Submit, focus MUST move to the context change notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7240)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
 * [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 * [[SCREENREADER]: 'Directions' links SHOULD have accessible names](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6894)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
