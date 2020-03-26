@@ -8,11 +8,7 @@
 
 ### Description
 
-This section of the profile will show people's military history that we pull from DEERS. It will also show their military awards if we are able to pull this information.
-
-### Open questions we still need to answer
-
-- Did we ever confirm whether we are actually pulling military awards?
+This section of the profile will show people's military history that we pull from DEERS. 
 
 ## Military information: Desktop
 
@@ -29,12 +25,9 @@ This section of the profile will show people's military history that we pull fro
 **Note**: For this section, none of the copy has changed from the current profile. However, I am including it below in case you need it.
 
 - **Page title**: Military information
-- **First section**: Period of service
-  - **Military branch**: (Populates dynamically using the info we currently get from DEERS)
-  - **Dates of service**: (Populates dynamically using the info we currently get from DEERS)
-- **Second section**: Service awards
-  - **Field label**: Award title
-  - **Awards**: (If we are actually populating these, they would populate dynamically from DEERS)
+- **Section title**: Period of service
+- **Military branch**: (Populates dynamically using the info we currently get from DEERS)
+- **Dates of service**: (Populates dynamically using the info we currently get from DEERS)
 
 ## FAQ
 
