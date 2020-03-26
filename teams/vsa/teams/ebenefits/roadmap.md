@@ -20,17 +20,16 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
-| Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | New LGY integration required
-| Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q4        | Q4        | New LGY integration required
-| View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q4        | Q4        | New LGY integration required
-| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q4        | Q4        | New LGY integration required
-| Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
+| Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | Possible new VRE integration required
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | --        | --        | --        | --        | BGS Integration
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
-* Note: VRE forms can be developed and launched very quickly, given an API and backend system for submission
 
 ## Complete: Applications and Features
 
