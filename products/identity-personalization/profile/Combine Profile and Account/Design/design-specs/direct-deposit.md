@@ -2,7 +2,7 @@
 
 ### Relevant links
 
-- Invision prototype [Desktop](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216937_DD_1) | [Mobile]()  
+- Invision prototype [Desktop](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216937_DD_1) | [Mobile](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)  
 - Github design issue: [#5266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5266)
 - Github front-end issue: [#5355](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5355)
 
