@@ -139,4 +139,4 @@ The burial form submission process uses polling, so there are two mocked API res
 - [Running tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/test/)
 - [Debugging tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/debugging-tests/)
 - [Keyboard e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/Keyboard_e2e.md)
-- [AxeCore e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/6a27450abed0eb724d9fa0334633ff8ffe700f78/src/platform/testing/e2e/nightwatch-commands/axeCheck.js)
+- [axeCore e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/6a27450abed0eb724d9fa0334633ff8ffe700f78/src/platform/testing/e2e/nightwatch-commands/axeCheck.js)
