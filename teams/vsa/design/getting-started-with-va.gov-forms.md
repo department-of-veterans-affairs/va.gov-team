@@ -10,24 +10,27 @@ _With contributions from:_ VSA Design: Jonathan Nelson, Liz Lantz, Christian Val
 
 So you’re moving a paper form online.  Or moving a legacy online form to VA.gov. What are your next steps? 
 
-* [The Structure of a Form](#the-structure-of-a-form)
-   * [Content pages](#content-pages)
-   * [Introduction pages](#the-introduction-page)
-   * [Main form pages](#the-main-form-pages)
-      * [Sectioning](#sectioning-of-the-form)
-      * [List Loop Pattern](#the-list-loop-pattern)
-      * [Labeling](#labeling-of-fields)
-      * [Optional vs Required](#optional-vs-required-labeling)
-      * [Hint text](#hint-text) 
-   * [Review page](#the-review-page)
-   * [Confirmation page](#the-confirmation-page)
-   * [Cross page topics](#cross-page-topics)
-      * [Legalese vs plain language](#legalese-vs-plain-language)   
-* [The Form Design Process](#the-form-design-process)
-   * [Product Managers](#product-managers)
-   * [Designers](#designers)
-   * [Developers](#developers)
-* [FAQ](#faq)
+- [Getting Started with VA.gov Forms](#getting-started-with-vagov-forms)
+  - [The Structure of a Form](#the-structure-of-a-form)
+    - [Content Pages](#content-pages)
+      - [The Application Status Widget](#the-application-status-widget)
+    - [The Introduction Page](#the-introduction-page)
+    - [The Main Form Pages](#the-main-form-pages)
+      - [Sectioning of the Form](#sectioning-of-the-form)
+      - [The “List Loop” pattern](#the-list-loop-pattern)
+      - [Labeling of Fields](#labeling-of-fields)
+      - [Optional vs Required labeling](#optional-vs-required-labeling)
+      - [Hint Text](#hint-text)
+      - [Other Components](#other-components)
+    - [The Review Page](#the-review-page)
+    - [The Confirmation Page](#the-confirmation-page)
+    - [Cross-Page Topics](#cross-page-topics)
+      - [Legalese Vs Plain Language](#legalese-vs-plain-language)
+  - [The Form Design Process](#the-form-design-process)
+    - [Product Managers](#product-managers)
+    - [Designers](#designers)
+    - [Developers](#developers)
+  - [FAQ](#faq)
 
 ## The Structure of a Form
 ![structure of a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/flow.png "Structure of a Form")
@@ -164,8 +167,15 @@ This document will not attempt to rewrite those documents, however, we will prov
    * Hierarchy/labelling
 
 ### Developers
-* Make sure you read up on and understand form builder [https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)/ and/or [watch the quick demo Chris V. gave to the design team](https://zoom.us/rec/share/x5FpP7XC1DJOYZ3d933GUagdMInqeaa82ilM-KcLzUxo_-q1CWuJcUJVwzaPXTp_) in Feb. 2020 (pw: vsadesign)
-   * Fill out a few forms on staging.va.gov to get a feel for the capabilities of the forms system
+* Make sure you read up on and understand form builder:
+   *  Fill out a few forms on staging.va.gov to get a feel for the capabilities of the forms system.
+   *  [Watch the zoom video of a quick demo Chris Valarida gave to the design team](./va-forms-informal-for-designers.mp4) in Feb. 2020. He goes over an example JSON object used by react-jsonschema-form (RJSF), and toggles between it and the rendered UI, so developers may find it useful.
+   *  Before coding, start with the VA<span/>.gov Forms System (VAFS) documentation on the [VA<span/>.gov Client Application Documentation site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/): **https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms**
+   *  The forms documentation is not perfect. Read through VSA's informal notes at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/forms-system. The documents there will be written from the perspective of developers consuming the library, so it may contain tips, gotcha's, and known issues. 
+   *  If you have determined that you need to implement custom behavior or appearance that the existing components do not support out-of-the-box, FIRST confirm with your design team that the feature is needed and cannot be implemented an alternate way that fits within the limitations of the existing forms framework. The va<span/>.gov Forms System (VAFS) is built on top of the VA's fork of react-jsonschema-form (RJSF), so if customization is required (or if you need a deeper understanding that goes beyond the tutorial), then you will need to dig one level deeper:
+      *  Read the overview [Creating custom fields and widgets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/creating-custom-fields-and-widgets), THEN
+      *  Consult the lower-level RJSF documentation on the [GitHub Repository for the VA fork of RJSF](https://github.com/department-of-veterans-affairs/react-jsonschema-form). Although you may run into other web sites that cover RJSF, stick with the documentation used specifically by the VA fork.
+
 * Make sure you start early when investigating data flows. Where will your data be coming from? Where will it be going?
    * Note: enlist your PM to help you find answers to this 
 * Read up on and understand all APIs and associated data models. Think about and capture in your discovery tickets:
