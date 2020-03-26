@@ -48,16 +48,21 @@ Product Managers are responsible for organizing the direction and implementation
 ##### Key Responsibilities:
 
 - Create and maintain product documentation, outlines, and briefs with input from DEPO Team Lead and cross-functional product team
-- Meet regularly with Team Lead to
-  - Collaboratively prioritize product initiatives for each upcoming Program Increment
+
+- Meet regularly with Team Lead and Product Lead to
+  - Collaboratively prioritize product initiatives for each upcoming quarter
+  - Define Objectives and Key results for each quarter
   - Review upcoming Releases and set expectations around delivery capacity
-  - Get insight into stakeholder needs and expectations
+  - Gain insight into stakeholder needs and expectations
+  - Refine KPIs and measures of success for products/initiatives
+
 - Lead the delivery team in breaking product initiatives down into issues for implementation incl. writing:
   - User stories
   - Functional specs
   - System/policy/technical requirements
   - Acceptance criteria
   - Scope definition
+
 - Lead backlog grooming, estimation meetings, retros, sprint planning, and standups with delivery team.
 - Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements.
 - If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
