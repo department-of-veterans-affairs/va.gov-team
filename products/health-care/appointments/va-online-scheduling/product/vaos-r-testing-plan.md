@@ -32,5 +32,4 @@ As part of testing protocol we test the new VAOS tool with actual users. This en
 - Open action item to define test cases to enable full regression testing from user submission to Schedule Manager
 
 ## TestRail Plan
-https://dsvavsp.testrail.io/index.php?/auth/login/L3N1aXRlcy92aWV3LzIxJmdyb3VwX2J5PWNhc2VzOnNlY3Rpb25faWQmZ3JvdXBfb3JkZXI9YXNjLTYwZWY4NmFiZGM5MzRiZDJmMGViZTlkODI5ODA5YWZlOGQ1NGUwYWI1OTk1ZjE2MTY3MWM4ODdkYTVlOTVjN2E:
-need to verify that Mark enabled this plan once @lenaecb gets access to TestRail account.
+Need to setup [TestRail](https://dsvavsp.testrail.io/index.php?/auth/login/L3N1aXRlcy92aWV3LzIxJmdyb3VwX2J5PWNhc2VzOnNlY3Rpb25faWQmZ3JvdXBfb3JkZXI9YXNjLTYwZWY4NmFiZGM5MzRiZDJmMGViZTlkODI5ODA5YWZlOGQ1NGUwYWI1OTk1ZjE2MTY3MWM4ODdkYTVlOTVjN2E:) for VAOS-R if applicable to this product
