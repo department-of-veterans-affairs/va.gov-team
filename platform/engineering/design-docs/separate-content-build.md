@@ -334,29 +334,51 @@ The following estimates vary greatly depending on who's doing the work.
 
 1. Write a standalone script that can be pointed to the build output directory
    to check for broken links
-    - Run this in Jenkins (Nomad? Circle?) after the build succeeds
-    - **Estimate:** 3 hours - 3 days
+    - **Estimate:** 2 hours - 2 days
+1. Trigger this job in Jenkins (Nomad? Circle?) after a `master` build succeeds
+    - **Estimate:** 1 - 2 days
 1. Remove the broken link checker step from the Metalsmith script
     - **Estimate:** < 1 hour
-1. Separate the content and application builds into their own scripts within
+1. Remove Webpack from the Metalsmith build script
    `vets-website`
-    - **Estimate:** 1 - 5 days
-1. Coordinate the builds with a consolidated build script to produce the same
-   output of the current build
-    - **Estimate:** 2 hours - 2 days
+    - Use
+      [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
+      to generate temporary application landing pages
+      - Create a template which we can use with the above plugin
+      - This should only be used in `localhost` builds until `vets-website` is
+        no longer responsible for deploying the content
+    - Write a script to run content and application builds while they're both in
+      `vets-website`
+    - **Estimate:** 1 - 3 days
+1. Modify the `createReactPages` step to use [the new JSON
+   file](#react-application-landing-pages)
+    - **Estimate:** 1 - 3 days
+    - **Note:** This work can be done in parallel with any of the above tasks
 1. Copy the content build script to another repo
-    - **Estimate:** 2 hours - 1 day
-1. Set up the CI for that new repo
+    - The hard part here is figuring out what all the content build touches
+      - [Madge](https://github.com/pahen/madge) might be helpful for this
+    - **Estimate:** 2 - 5 days
+1. Set up the CI for the content build repo
     - **Estimate:** ??
     - I'm not sure what all goes into this
         - What does it take to wire this into Jenkins / Nomad?
-1. Modify the `createReactPages` step to use the new JSON file
-    - **Estimate:** 1 - 3 days
-    - **Note:** This work can be done in parallel with any of the above tasks
+1. Set up the deploy job for the content build repo
+    - **Estimate:** ??
+    - **Question:** Is this where we write a new script to copy the files from
+      the build over to S3?
 1. Once we're confident the deploys are working properly, switch the
    `vets-website` build to build only Webpack assets
-    - **Estimate:** < 1 hour
+    - Modify the deploy script to copy over only the files in `applications/`
+      - The deployment of this to Jenkins (or wherever) must be done in concert
+        with the switch to building only Webpack assets
+    - **Estimate:** 1 hour - 1 day
+  
     <!-- TODO: More clearly define the transition to separate deployments -->
+
+    <!-- TODO: More clearly define the transition for the React app landing pages -->
+    <!-- When does it make sense to build them in the production build for the
+    E2E tests to use them? When we make the switch to have vets-website build
+    only Webpack assets? -->
 
 ### Alternatives
 
