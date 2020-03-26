@@ -146,3 +146,13 @@ We can use the existing "yellow" alert state we have for direct deposit. This wo
 ### Copy
 
 We’re sorry.  Something went wrong on our end.  Please refresh this page or try again later.
+
+
+## Direct deposit: Mobile view
+
+### Design
+
+
+[Most up-to-date version on InVision]()
+
+![Direct deposit_Mobile view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit_Mobile%20view.jpg)
