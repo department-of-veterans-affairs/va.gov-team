@@ -29,7 +29,6 @@ When you’re signed in to your VA.gov account: (h4 utility)
 [Blue button] Sign in to start your order
 
 [Info alert - if veteran is logged in] Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your order in progress and come back later to finish placing it.
-
 [Primary green button] Order hearing aid batteries and accessories
 
 ## Follow the steps below to order hearing aid batteries and accessories. (h4 utility)
@@ -63,7 +62,8 @@ You should receive your order within the timeframe indicated by the order tracki
 What if I have questions about my order?
 If you have questions about your order, you can call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
-[Primary green button] Order hearing aid batteries and accessories
+[Blue button - if Veteran is not signed in] Sign in to start your order
+[Primary green button - if veteran is signed in] Order hearing aid batteries and accessories
 
 Respondent burden: 00 minutes
 OMB Control #: 0000-0000
