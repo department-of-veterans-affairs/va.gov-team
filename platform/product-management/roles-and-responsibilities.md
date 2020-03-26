@@ -51,10 +51,11 @@ Product Managers are responsible for organizing the direction and implementation
 
 - Meet regularly with Team Lead and Product Lead to
   - Collaboratively prioritize product initiatives for each upcoming quarter
-  - Define Objectives and Key results for each quarter
-  - Review upcoming Releases and set expectations around delivery capacity
+  - Define Objectives and Key results (OKRs) for each quarter 
+  - Work with Leads as well as Product Team to develop Bets/Hypotheses for accomplishing OKRs
+  - Refine Key Performance Indicators (KPIs) for products/initiatives
   - Gain insight into stakeholder needs and expectations
-  - Refine KPIs and measures of success for products/initiatives
+  - Review upcoming Releases and set expectations around delivery capacity
 
 - Lead the delivery team in breaking product initiatives down into issues for implementation incl. writing:
   - User stories
