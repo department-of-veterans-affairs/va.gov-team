@@ -33,7 +33,7 @@ To the best of my knowledge, all existing copy is the same as what we currently 
   - **Edit label**: Edit
 - **Second section title**: Payment history
   - **Field label**: View your payment history
-    - This will link out to this page on eBenefits: (need to get link)
+    - This will link out to this page on eBenefits: https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
 
 **Note below main section**
 
