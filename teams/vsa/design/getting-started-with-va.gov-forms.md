@@ -169,12 +169,12 @@ This document will not attempt to rewrite those documents, however, we will prov
 ### Developers
 * Make sure you read up on and understand form builder:
    *  Fill out a few forms on staging.va.gov to get a feel for the capabilities of the forms system.
-   *  [Watch the zoom video of a quick demo Chris Valarida gave to the design team](https://zoom.us/rec/share/x5FpP7XC1DJOYZ3d933GUagdMInqeaa82ilM-KcLzUxo_-q1CWuJcUJVwzaPXTp_) in Feb. 2020 (pw: vsadesign)
+   *  [Watch the zoom video of a quick demo Chris Valarida gave to the design team](./va-forms-informal-for-designers.mp4) in Feb. 2020. He goes over an example JSON object used by react-jsonschema-form (RJSF), and toggles between it and the rendered UI, so developers may find it useful.
    *  Before coding, start with the VA<span/>.gov Forms System (VAFS) documentation on the [VA<span/>.gov Client Application Documentation site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/): **https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms**
    *  The forms documentation is not perfect. Read through VSA's informal notes at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/forms-system. The documents there will be written from the perspective of developers consuming the library, so it may contain tips, gotcha's, and known issues. 
    *  If you have determined that you need to implement custom behavior or appearance that the existing components do not support out-of-the-box, FIRST confirm with your design team that the feature is needed and cannot be implemented an alternate way that fits within the limitations of the existing forms framework. The va<span/>.gov Forms System (VAFS) is built on top of the VA's fork of react-jsonschema-form (RJSF), so if customization is required (or if you need a deeper understanding that goes beyond the tutorial), then you will need to dig one level deeper:
       *  Read the overview [Creating custom fields and widgets](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/creating-custom-fields-and-widgets), THEN
-      *  Consult the lower-level RJSF documentation on the [GitHub Repository for the VA fork of RJSF](https://github.com/department-of-veterans-affairs/react-jsonschema-form).
+      *  Consult the lower-level RJSF documentation on the [GitHub Repository for the VA fork of RJSF](https://github.com/department-of-veterans-affairs/react-jsonschema-form). Although you may run into other web sites that cover RJSF, stick with the documentation used specifically by the VA fork.
 
 * Make sure you start early when investigating data flows. Where will your data be coming from? Where will it be going?
    * Note: enlist your PM to help you find answers to this 
