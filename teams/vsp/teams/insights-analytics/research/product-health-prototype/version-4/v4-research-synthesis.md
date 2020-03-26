@@ -65,7 +65,7 @@ March 2020
 
 ## Overall Insights Recommendation & Follow Up: 
 **Design**:
-- We will need to further clarify between monthly and weekly use of data
+- Show weekly & annotate monthly
 - *Should be on all dashboards moving forward* We need to further humanize data labels, particularly Google Analytics. It allows for more readability and doing a 1 for 1 on GA labeling causes users to believe they should just go directly to the source for data.
 
 **Usefulness & Moving Forward**:
