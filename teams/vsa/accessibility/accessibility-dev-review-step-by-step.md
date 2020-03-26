@@ -1,7 +1,8 @@
 # Accessibility Dev Review Step-by-Step
 
-- [ ] Deque axe audit to identify accessibility issues
-- [ ] Lighthouse audit to identify web performance impact
+- [ ] Deque axe browser scan audit to identify accessibility issues
+- [ ] Deque axe-coconut browser scan audit to identify leading edge accessibility issues
+- [ ] Lighthouse browser scan audit to identify web performance impact
 - [ ] Navigate and tab through the page using keyboard only
 - [ ] Navigate the page using JAWS with IE11
 - [ ] Navigate the page using NVDA with Firefox
