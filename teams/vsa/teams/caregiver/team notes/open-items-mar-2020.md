@@ -1,5 +1,6 @@
 # 1010-CG Status Update
 
+# This page is out of date. Please see: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team%20notes/mar-2020-roadmap.md
 
 - [Metrics](#metrics)
 - [Phase 0 (May 2020)](#phase-0-may-2020)
