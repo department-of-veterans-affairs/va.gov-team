@@ -103,3 +103,46 @@ These should be the same as what we have in prod now.
 - **Routing number**: Please enter the bank's 9-digit routing number.
 - **Account number**: Please enter your account number.
 - **Account type**: Please select the type that best describes the account.
+
+
+## Direct deposit: Save state
+
+### Design
+
+I believe this state already exists in the design system, but Tressa should confirm.
+
+[Most up-to-date version on InVision]()
+
+![Direct deposit_Edit in place]()
+
+### Copy
+
+We've saved your direct deposit information.
+
+## Direct deposit: Save/update errors
+
+### Design
+
+We can use the existing "red" error state for the various errors we have for direct deposit.
+
+[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216940_DD_4)
+
+![Direct deposit_Edit in place](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit_error.jpg)
+
+### Copy
+
+We should use the same copy for all the errors we have now. No updates here.
+
+## Direct deposit: Section won't load
+
+### Design
+
+We can use the existing "yellow" alert state we have for direct deposit. This would be used if we can't load this section for whatever reason.
+
+[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216941_DD_5)
+
+![Direct deposit_Section won't load](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit_Can't%20load%20DD%20info.jpg)
+
+### Copy
+
+We’re sorry.  Something went wrong on our end.  Please refresh this page or try again later.
