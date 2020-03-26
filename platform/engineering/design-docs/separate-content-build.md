@@ -210,7 +210,8 @@ To ensure that one build won't override files in the other, we'll have to
   tests can run a browser and access the applications
 - **Important note:** These HTML files will not be served in production; the
   landing pages for the applications come from the content build
-  - **Question:** How do we make this happen?
+  - To ensure these pages aren't made in production, the deploy script will copy
+    only the files in `/applications/`
 
 #### Miscellaneous
 - We need a separate content validation job that runs once a day on a schedule
