@@ -218,7 +218,7 @@ To ensure that one build won't override files in the other, we'll have to
   - **Question:** Where will this job be run? Jenkins? Nomad? Circle?
 - The application build will be responsible for creating the `settings.js`
   - It's currently a step in the Metalsmith script
-- The landing pages to the applications will be created in the CMS
+- The landing pages to the applications will be created in the CMS build
 - The CMS repo will no longer import `vets-website`, but rather the new content
   build repo
   
