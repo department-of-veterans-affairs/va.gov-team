@@ -518,7 +518,7 @@ Each application or logical section of the site will have a heading and a detail
 ### Facility Locator Urgent Care MVP
 
 **Maintainer:** _VSA <br/>
-**Audit Status:** Staging Review, IN-PROGRESS by VSA, March 17, 2020<br/>
+**Audit Status:** Staging Review, VSA, March 26, 2020<br/>
 **Closed Issues:** _Create a reusable search link by filtering va.gov-team issues:_ https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A508%2FAccessibility+%2C+Facility+Locator+Urgent+Care+MVP+is%3Aclosed
 
 #### Open issues
