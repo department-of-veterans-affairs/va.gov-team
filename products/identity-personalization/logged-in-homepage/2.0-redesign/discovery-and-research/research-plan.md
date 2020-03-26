@@ -1,7 +1,5 @@
 # Research Plan for Authenticated Experience team, Logged in homepage, March 2020
 
-DRAFT - 3/25/2020
-
 ## Goals	
 
 1. What product & team are you doing this research for?	
@@ -28,6 +26,9 @@ DRAFT - 3/25/2020
      - How do people use MY VA?
      - How do people use the homepage?
      - How do people move through the site?
+   - What is currently being migrated from other places onto VA.gov that Veterans would expect to find on their dashboard?
+     - Which tasks are Veterans completing on other VA websites (e.g. eBenefits)?
+     - What don't we know?
    - What are other websites and apps doing for logged in homepages and status updates/notifications?
      - What aren't we thinking of?
      - What don't we know?
@@ -78,6 +79,7 @@ DRAFT - 3/25/2020
   Coming soon
 - Convo Guide	
   [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/conversation-guide-stakeholders.md)	
+- [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
 - Synthesis	
   Coming soon	
 - Lessons Learned	
