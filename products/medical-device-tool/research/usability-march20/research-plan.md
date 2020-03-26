@@ -32,7 +32,9 @@
 **45-minute remote, task-based usability study with Veterans who order hearing aid resupply.**
   
 2.	Why this method? How does this methodology help you answer your research questions? <br>
-**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using a test account in the tool's staging environment to help uncover successes and pain points in the ordering process. Additionally, we want the staging environment to be as close as possible to how the participant would actually place an order; we have validated with DLC that they will provide the hearing aid batteries and accessories for each participant so the test accounts can be prepped beforehand. Note: There will _not_ be any PII displayed.**
+**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using a test account in the tool's staging environment to help uncover successes and pain points in the ordering process. 
+<br><br>
+Additionally, we want the staging environment to be as close as possible to how the participant would actually place an order; we have validated with DLC that they will provide the hearing aid batteries and accessories for each participant so the test accounts can be prepped beforehand. Note: There will _not_ be any PII displayed.**
 
 3.	Where are you planning to do your research? <br>
 **Online, via Zoom.**
