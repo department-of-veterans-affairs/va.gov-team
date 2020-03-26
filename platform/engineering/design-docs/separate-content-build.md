@@ -237,6 +237,16 @@ unused properties from all the files.
 **Question:** Should this be a transitional stopgap measure until the landing
 pages are all created in Drupal, or could this be a viable long-term solution?
 
+#### Cache busting application code
+To ensure the latest code is downloaded by the browser, we have to bust the
+browser's cache. **Currently**, we're adding hashes to the asset file names and
+changing the `<script>` tag's `src` property to point to the file name with
+hash.
+
+Once we split out the content build, however, it's infeasible to continue this
+approach. Instead, we'll rely on the (`Cache-Control`
+header)[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control].
+
 ### Code Location
 To start, the **content build** will live at
 `vets-website/src/stages/build-content/`. (This should be mostly just a rename
