@@ -20,7 +20,7 @@
 ## Phase II: Release to GIDs
 
 ### Planning:
-- Desired date range or test duration: August 2020
+- Desired date range or test duration:TBD
 - Desired number of users: Whole GIDs team
 - How you'll recruit the right production test users: solicit feedback from the GIDs team
 - How you'll conduct the testing: mostly asynchronous feedback, may solicit feedback from folks in quick meetings
