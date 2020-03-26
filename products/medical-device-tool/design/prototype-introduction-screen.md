@@ -26,6 +26,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 When you’re signed in to your VA.gov account: (h4 utility)
 * We can prefill part of your order based on your account details.
 * You can save your order in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your order to submit it. After 60 days, we’ll delete the order form and you’ll need to start over.
+[Blue button] Sign in to start your order
 
 [Info alert - if veteran is logged in] Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your order in progress and come back later to finish placing it.
 
