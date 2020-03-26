@@ -43,12 +43,8 @@ There is no backend system here, the stakeholders (TED) have requested that this
 
 **Side note:** DoD's system for military service, at the Pentagon, has a system called the Defense Enrollment Eligibility Reporting System (DEERS) which syncs with the VA system called VA Department of Defense Identity Repository (VADIR), every 30 minutes. Mentioned above, eMIS is a webservice that we can use to access information in VADIR.
 
-## Use Cases
-1. **I am a Veteran, and I want to apply for Education/ Career Counseling** (CH36), so that I can get help with:
-- Counseling to help you decide which civilian or military jobs you want
-- Educational and Career Counseling to help you find a training program or job
-- Academic and adjustment counseling to help you deal with issues that get in the way of your success in training or employment
-2. **I am related to a Veteran, and I want to apply for Education/ Career Counseling** (CH36) so that I can get help with:
+## Use Case(s)
+1. **I am a Veteran, ore related to one, and I want to apply for Education/ Career Counseling** (CH36), so that I can get help with:
 - Counseling to help you decide which civilian or military jobs you want
 - Educational and Career Counseling to help you find a training program or job
 - Academic and adjustment counseling to help you deal with issues that get in the way of your success in training or employment
