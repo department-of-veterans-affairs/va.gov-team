@@ -11,7 +11,7 @@ Navigation: <br>
 Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/6CVSW1NTJB4) [(Mobile)](https://vsateams.invisionapp.com/share/TKVSW1W9C3G) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5250)
 
 ### Description 
-This is the default introduction screen for the MDT form. All veterans must log in before navigating to the order form, so the only alert that needs to be displayed is the _authenticated pre-fill and save form_ info alert. 
+This is the default introduction screen for the MDT form. The screen changes slightly for auth vs unauth, but those differences are indicated in the _Content_ section. 
 
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
@@ -22,7 +22,12 @@ Home > Health care > Order hearing aid batteries and accessories
 # Order hearing aid batteries and accessories
 Equal to VA Form 2346 (Request for Batteries and Accessories)
 
-[Info alert] Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your order in progress and come back later to finish placing it.
+[Info alert - if veteran is not logged in]: Save time—and save your work in progress—by signing in before starting your order
+When you’re signed in to your VA.gov account: (h4 utility)
+* We can prefill part of your order based on your account details.
+* You can save your order in progress, and come back later to finish filling it out. You’ll have 60 days from the date you start or update your order to submit it. After 60 days, we’ll delete the order form and you’ll need to start over.
+
+[Info alert - if veteran is logged in] Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your order in progress and come back later to finish placing it.
 
 [Primary green button] Order hearing aid batteries and accessories
 
