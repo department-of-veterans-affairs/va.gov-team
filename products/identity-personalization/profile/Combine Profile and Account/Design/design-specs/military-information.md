@@ -2,7 +2,7 @@
 
 ### Relevant links
 
-- Invision prototype [Desktop](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410215995_Military_Information_1) | [Mobile]()  
+- Invision prototype [Desktop](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410215995_Military_Information_1) | [Mobile](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)  
 - Github design issue: [#5265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5265)
 - Github front-end issue: [#5354](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5354)
 
@@ -47,7 +47,7 @@ Some Veterans have reported seeing military service information in their VA.gov 
 
 If the military service information in your profile doesn’t look right, please call the Defence Manpower Data Center (DMDC).  They’ll work with you to update your information in DEERS.
 
-To reach the DMDC, call 1-800-538-9552, Monday through Friday (except federal holidays), 8:00 a.m. to 8:00 p.m. ET.  If you have hearing loss, call TTY: 1-866-363-2883.
+To reach the DMDC, call 800-538-9552, Monday through Friday (except federal holidays), 8:00 a.m. to 8:00 p.m. ET.  If you have hearing loss, call TTY: 866-363-2883.
  
 ## If the section won't load/We can't connect to DEERS
  
