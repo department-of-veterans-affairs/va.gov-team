@@ -9,8 +9,16 @@
 ## Timeline
 | Date | Milestone |
 | --- | --- | 
-| May 8 | Acumen endpoint delivery |
-| May 22 - May 29 | End-to-end testing |
+| April 10 | Design complete |
+| April 14 | Analytics request |
+| April 21 | Frontend complete |
+| April 24 | Full accessibility review |
+| April 30 | Acumen endpoint delivery |
+| May 15 | Backend complete |
+| May 18 | VSP Privacy and Security Review |
+| May 18 - May 22 | End-to-end testing with CARMA |
+| May 20 | VSP Staging Review
+| May 27 | Dry Run Release
 | May 29 | Phase 0 dark release (proof of concept)|
 
 
@@ -21,11 +29,12 @@
 | :zap: | To Do |
 | :no_entry_sign:| blocked |
 
-## Phase 0 (May 2020)
+## Phase 0 Dark Release (May 2020)
 | Requirement | Ticket # | Status |
 | --- | --- | --- |
 | User will be able to: | 
 | Navigate to the 10-10CG online application| n/a| :no_entry_sign:
+| View instructions if the online form is unavailable | n/a | :zap: |
 | Start 10-10CG application online without logging in| 155 | :white_check_mark:|
 | Fill in all fields from the paper 10-10CG form | n/a | :white_check_mark:|
 | Ensure that all fields have been completed appropriately (data validation) | n/a | :white_check_mark:|
@@ -33,12 +42,14 @@
 | Review entered data prior to submission | 176 | :white_check_mark:|
 | Provide a signature for Veteran and Caregiver | 164 | :white_check_mark:|
 | Recieve and print a confirmation message after submission | n/a | :zap: |
+| Receive instruction to print out the form and mail in a copy if online form submission is not available for them (veteran isn't found in MPI) | n/a | :zap: |
 | Not able to edit form after submission| 165 | :white_check_mark:|
 | --- | --- | 
 | Business will be able to: | 
 | Verify veteran identity through MPI and ICN number | n/a| :zap: |
-| Start processing application in CARMA immediately | n/a | :no_entry_sign:|
+| Recieve application in CARMA immediately | n/a | :no_entry_sign:|
 | Ensure a valid address was entered | n/a| :zap: |
+| Recieve a paper version of the 10-10CG with filled in information | n/a | :zap: |
 
 
 ## Phase 1 (Estimated July 2020)
