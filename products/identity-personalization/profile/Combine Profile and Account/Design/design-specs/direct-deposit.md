@@ -63,7 +63,7 @@ These will use our current collapsible FAQ state. Also, copy is the same as what
 
 I believe this is all the same as what we have in prod now.
 
-- **Directions**: Please provide your bank’s routing number as well as you current account and type. 
+- **Directions**: Please provide your bank’s routing number as well as your current account and type. 
 - **Field labels**:
   - Routing number (Your 9-digit routing number will update your bank's name)(Required)
   - Account number (No more than 17 digits) (Required)
