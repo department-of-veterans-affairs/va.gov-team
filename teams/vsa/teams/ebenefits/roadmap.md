@@ -4,7 +4,7 @@
 
 ## Features In Planning and Development
 
-_Targets are dates in FY2020 unless otherwise noted_
+_Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal quarters (Q2 = Jan, Feb, Mar 2020, etc.)_
 
 | Feature                                             | Portfolio     | Discovery | Design    | Dev       | Launch    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
