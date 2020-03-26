@@ -15,7 +15,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Lighthouse integration (BGS)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
-| View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration
+| View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | New LGY integration required
@@ -27,6 +27,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Apply for VRE CH36 (8832)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Submit to Central Mail
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | BGS Integration
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
+| View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
 * Note: VRE forms can be developed and launched very quickly, given an API and backend system for submission
