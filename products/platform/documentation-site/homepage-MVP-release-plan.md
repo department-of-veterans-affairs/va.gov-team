@@ -26,9 +26,17 @@
 - "Success" criteria (by the numbers):
   - Average uniques/day for April increase over time
   - Average uniques/day for April > 25
-  - ???
-- Other KPIs: 
-  - ???
+- Other KPIs & qualitative metrics: 
+  - Average % of users who visit the site more than 1x/week _(need baseline)_
+  - "Can't find what I'm looking for" engagement rate _(need baseline)_
+  - Bounce rate (% of users who navigate away without clicking anything) _(need baseline)_
+  - Qualitative survey results (end of April)
+  
+#### Assumptions and Hypotheses 
+- Assumptions listed in [documentation site product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md)
+- We *hypothesize* that a documentation homepage will improve the findability of key docs, reulting in fewer "non-human-needed" documentation support requests.
+- We *hypothesize* that a documentation homepage will create a single source of truth for VA.gov's top used documentation, improving trustworthiness of docs.
+- We *hypothesize* that a documentation homepage will allow us (as documentation maintainers) to begin gathering metrics on what content is most used, allowing us to craft a data-informed documentation maintenance strategy.
 
 ### 2-week results (target April 15):
 - Number of unique users: x
@@ -38,11 +46,14 @@
 - If yes, what: lorem ipsum
 
 ### 1-month results (target end of April): 
+_End of April we will send out a qualitative survey_
+
 - Number of unique users: x
 - Actual results (per your "success criteria")
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
+- Feedback from qualitative survey: 
 
 ## 1-month evaluation
 
