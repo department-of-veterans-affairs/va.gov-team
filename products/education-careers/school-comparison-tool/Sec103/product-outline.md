@@ -74,7 +74,8 @@ Education Service provided guidance / suggestions as to how to solve that feel a
 
 *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 
--	Number of users accessing 103 “Learn more” 
+-	Compliance with public law
+- Number of users accessing 103 “Learn more” 
 -	{ need to evaluate further KPIs }
 
 ## Go-to-market Strategy
