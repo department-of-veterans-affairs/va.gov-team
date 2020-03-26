@@ -108,7 +108,8 @@ How might we create an improved user experience for GIBCT users, particularly th
 ## KPIs
 *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 
--	Analytics to evaluate GIBCT overall usage – does not decrease
+-	Compliance with Sec. 508
+- Analytics to evaluate GIBCT overall usage – does not decrease
 -	Analytics to track calculator-button clicks - ??
 -	Call Center calls – potential for decreased calls about how to use the GIBCT profile benefits estimator (need to determine if this is tracked & establish baseline before formalizing) 
 -	Potential for ForeSee integration (not there currently, no baseline to measure satisfaction up or down)
