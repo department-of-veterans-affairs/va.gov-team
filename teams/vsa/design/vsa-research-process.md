@@ -127,12 +127,14 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
       *	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
       *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
       *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
-5. Create your final research results. This should be a Github page (markdown file) as well as a presentation in the form of a slide deck. These should be done 6 business days after your last session. 
+5. Create your final research results. This should be a Github page (markdown file). This should be done within 6 business days after your last session. 
+   * You also may want to create a presentation deck if you are going to show your results to stakeholders or at a demo.
    * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1). 
    * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
    * Examples can be found here:  
-      * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
+      * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md
+      * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md
       * Results in a deck [starting on slide 18 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
    * Keep “insights” separate from recommendations. An insight might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
