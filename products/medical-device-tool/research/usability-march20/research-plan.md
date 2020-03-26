@@ -32,7 +32,7 @@
 **45-minute remote, task-based usability study with Veterans who order hearing aid resupply.**
   
 2.	Why this method? How does this methodology help you answer your research questions? <br>
-**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using a test account in the tool's staging environment to help uncover successes and pain points in the ordering process.**
+**We are choosing this research method because we are conducting usability testing and need to validate that the design is intuitive as Veterans place orders for hearing aid batteries and accessories. We will guide participants through tasks using a test account in the tool's staging environment to help uncover successes and pain points in the ordering process. Additionally, we want the staging environment to be as close as possible to how the participant would actually place an order; we have validated with DLC that they will provide the hearing aid batteries and accessories for each participant so the test accounts can be prepped beforehand. Note: There will _not_ be any PII displayed.**
 
 3.	Where are you planning to do your research? <br>
 **Online, via Zoom.**
@@ -42,7 +42,8 @@
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
-    - **We would like to interview 8-10 Veterans who order hearing aid batteries through the VA**
+    - **We would like to interview 8-10 Veterans who order hearing aid batteries through the VA.**<br>
+    - **Note: Participants _must_ be comfortable providing at least 1 of the following identifiers: Last four numbers of SSN or Date of Birth. This information will be sent to the DLC so each participant's order data can be populated in testing accounts prior to each session. No PII will be displayed.**
       - In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
       - At least 5 pre-9/11 Veterans
       - At least 5 post-9/11 Veterans
@@ -74,7 +75,7 @@ Non-clickable mockups can be found here: https://vsateams.invisionapp.com/share/
     - _Note: Please leave a minimum of 30 minutes between sessions._
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-**March 13, 1:30pm EST with Amen Ra (GCIO)**
+**April 10, 1:30pm EST with Amen Ra (GCIO)**
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
@@ -89,8 +90,7 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources
 - [Project Brief]
 
-- Discussion Guides
-  - tbd
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/conversation-guide.md)
 
 - Notes & Recordings
 *Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
