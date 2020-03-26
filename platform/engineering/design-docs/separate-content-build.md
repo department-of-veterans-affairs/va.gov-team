@@ -180,6 +180,18 @@ This repository will contain only code pertaining to the content build.
 
 ![Separated content code base](images/phase-2-separated-content-build.png)
 
+#### Triggering builds
+**Applications**  
+The `vets-website` build is triggered in CircleCI when:
+1. Code is pushed to a feature branch on GitHub
+1. A feature branch is merged into `master`
+1. A weekdaily deploy is triggered
+    - This build results in a versioned release artifact
+
+**Content**  
+The content build is triggered in Jenkins when an editor with the required
+permissions initiates a content deploy.
+
 #### Coordinating deployments to S3
 We use S3 to serve a static site. To do this, the bucket consists of a file tree
 which corresponds to the URLs on VA.gov. For example, `/education/index.html` is
