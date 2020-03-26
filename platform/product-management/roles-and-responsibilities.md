@@ -57,16 +57,16 @@ Product Managers are responsible for organizing the direction and implementation
   - Gain insight into stakeholder needs and expectations
   - Review upcoming Releases and set expectations around delivery capacity
 
-- Lead the delivery team in breaking product initiatives down into issues for implementation incl. writing:
+- Lead the delivery team in breaking product initiatives down into issues for implementation incl.:
   - User stories
   - Functional specs
   - System/policy/technical requirements
   - Acceptance criteria
   - Scope definition
+- Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
 
 - Lead backlog grooming, estimation meetings, retros, sprint planning, and standups with delivery team.
-- Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements.
-- If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
+- Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements. If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
 - Fulfill launch checklist criteria prior to each launch.
-- Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
+
 ---
