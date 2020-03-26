@@ -4,6 +4,7 @@
   - Updating the issue templates to be clearer for new people
   
 - [**Heading Stacks**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/patternLibraryInitiatives/headings.md)
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375
 
 - **Form controls with errors** - document the error message styling for form controls in the design system
 
