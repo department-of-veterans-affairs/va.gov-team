@@ -12,7 +12,7 @@ The current VA.gov infrastructure was born from the idea of supporting the first
 
 
 ## Problem Statement
-/We do not have a scalable self-service infrastructure in place to handle the desired growth of VFS and VSP teams over the next year on VA.gov./
+*We do not have a scalable self-service infrastructure in place to handle the desired growth of VFS and VSP teams over the next year on VA.gov.*
 
 How might we create a platform that enables self-service teams, that allows for a decrease in complexity and use modern practices for continuous delivery, while addressing the desired growth of VSP. 
 
