@@ -379,7 +379,7 @@ _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 #### April 10 – 15: HCA dashboard updates user testing
 *Dragons, Research Lead(s): Samara Strauss*
 - 5 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/user-testing/dashboard-updates)
 
 ### March 2019 
 
