@@ -329,6 +329,59 @@ There are no new privacy concerns with a separated build process.
 ### Open Questions and Risks
 All questions have been in-lined to preserve context.
 
+#### Risk: Deployment drift
+Given the relationship between the applications and content, there's necessarily
+some codependency. The primary relationship between the two builds is that **the
+content build is responsible for the application landing pages**.
+
+##### Reasons
+If the application build was responsible for creating the HTML landing pages for
+each application, it would need to write to directories outside of
+`applications/`. These could be **overwritten by the content deploy**.
+Additionally, if a file was written to an arbitrary location in S3
+(corresponding to the URL), when a future deploy **removed** that file, we have
+**no simple way to sync** that change.
+
+In order for the application build to create a landing page consistent with the
+rest of VA.gov, it would need access to the templates. This is the kind of
+dependency entanglement this document aims to resolve.
+
+##### Types of drift
+
+###### Missing application pages
+If we had to revert a content release for whatever reason, we may lose an
+application page.
+
+**Mitigation:** With hundreds of content editors, it's not feasible to revert a
+content release. Our current solution is to deploy a new release with the fix.
+This approach minimizes the risk of this type of drift.
+
+###### Contents of an application landing page change
+If the contents of a landing page change to, for example, point to a different
+bundle name before that bundle was made available, the request for it would 404
+in production.
+
+**Mitigation:** That said, the contents of the pages shouldn't change between
+releases unless we did it deliberately. In that case, it's the responsibility of
+the author of the change to ensure the change is valid before deploying it.
+
+###### Rolling back a newly-released application's code, but not landing page
+If we release a new application and had to roll the application deployment back,
+we could end up with a landing page that points to a JS bundle that doesn't
+exist.
+
+**Mitigation:** Similar to [missing application
+pages](#missing-application-pages), our approach has historically been to
+release a fix instead of reverting a release.
+
+###### Landing page deployed before code
+The content release which includes a newly prod-facing application landing page
+is deployed before the code is deployed to production.
+
+**Mitigation:** It's up to the team releasing a new application to ensure the
+code is in production before deploying the landing page for it.
+
+
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
 
