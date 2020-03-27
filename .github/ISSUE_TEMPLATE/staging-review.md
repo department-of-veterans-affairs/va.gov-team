@@ -2,7 +2,7 @@
 name: Staging Review
 about: Request a VSP staging review
 title: Staging Review [Feature-Name]
-labels: product support, content-ia-team
+labels: product support, content-ia-team, collaboration-cycle
 assignees: andreahewitt-odd, meganhkelley
 
 ---
