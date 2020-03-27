@@ -60,7 +60,10 @@ These issues have the potential to severly disrupt the user experience and must 
   * Content must be reachable without a pointer device like a mouse:
   * UI or form controls must be reachable by `TAB` or `SHIFT + TAB`
   * UI or form controls must be reachable by screen reader shortcuts or menu options
-* Errors in automated tools like [aXe browser plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT) must be fixed
+* Violations reported by the [axe browser plugin](https://deque.com/axe) must be corrected. Teams may run additional checks using toosl such as:
+  * [WAVE](https://wave.webaim.org)
+  * [SortSite](https://www.powermapper.com/products/sortsite/)
+  * [AATT](https://github.com/paypal/AATT) 
 * [Videos must have captioning](https://www.w3.org/WAI/perspective-videos/captions/)
   * [Captions (Prerecorded): Understanding SC 1.2.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/media-equiv-captions.html)
 * [Color contrast issues](https://webaim.org/articles/contrast/) must be corrected
