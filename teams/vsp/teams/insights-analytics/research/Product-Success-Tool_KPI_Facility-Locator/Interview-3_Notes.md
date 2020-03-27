@@ -1,0 +1,101 @@
+# Interview 3
+
+27 March 2020
+
+Note: participant referred to as "P3"
+
+Anything shown in quotation marks is a direct, or near-direct quote from P3
+
+## Notes:
+
+- What is your role?
+    - PM for (     ) team
+    - Juggles priorities, makes sure everything is in alignment, that we're delivering value to veterans
+- How do you define product success?
+    - "Delivering both business & end-user value"
+    - "How you define that depends on which initiative you're looking at"
+- Specifically by veteran use
+    - "That's how we define it, because veterans are our users"
+- Ideally, how often would you look at KPIs
+    - "I was literally just on that dashboard a couple minutes ago, and not because of this meeting"
+    - "A really regular part of my life"
+        - "I don't know if I'd say daily, but definitely weekly"
+- What has changed that you're looking at them more often?
+    - "as a product team we're a lot more committed to looking at the outcomes"
+    - The tools have gotten a lot better and less manual
+    - Skills to create and track KPIs have improved for themself and the team
+- Before the dashboard where would you go to look for KPI data
+    - "Google Analytics. Or I'd holler at Joanne to help me"
+    - "The dashboard it putting [data] closer to my fingertips"
+- Screensharing Domo
+- Can you just talk my through Domo and how you've been using it?
+    - "This top one is not been one we've been able to render in the dashboard"
+        - related to inherited defects
+    - "Drew a line in the sand" around which they are counting & their goals
+- Is having the link in there helpful?
+    - "Honestly, I don't use it that way"
+    - "It would be helpful if I didn't already have that habit [of looking at the epics in Github]"
+- O1
+    - KPI2
+        - "This has been really helpful"
+    - KPI 3
+        - related specifically with parity farther down
+    - KPI 4
+        - "Needed to establish a baseline first, hoping to watch it improve"
+- O2
+    - KPI 2
+- O3
+    - Not easy to measure, even by hand
+    - Not yet in dashboard
+- How have you been using & sharing this data?
+    - "I just used it this week with OCC. They were interested specifically in the number of clicks with that new benefit"
+        - Was able to easily find and share that data
+    - Shared data by screenshot to OCC
+    - "Likewise, this search refinement thing...we found out that they were doing their own testing, and so probably a lot of these clicks were theirs...I'm hoping that impacts this number"
+    - Above are the ways used in the last week.
+- Are you okay sharing the data that way (flat)? Are there any other ways that you'd want to share it?
+    - "i think that makes sense for that setting"
+    - "I was trying to link to (expanded vis view)...and I'm curious if that link is going to retain the linked timeframe"
+        - some confusion around how to link to the dashboard rather than screenshots, and what the issues are around that.
+- Is it just for your own reference, or is the link for the rest of the team?
+    - "Across the product team"
+    - "I wanted to link to this because it's awesome and an easy way to reference the numbers"
+- Is there anyone else that you would want to give access to?
+    - "i don't know that the team would use it"
+    - No one that doesn't already have access
+- After seeing these metrics, is there anything you'd want to change about your KPIs?
+    - They've changed for other reasons, but not necessarily because of the dashbaord
+- Facility locator search timing graph
+    - "I love this distribution"
+    - Desires a rolling average "by the week or something"
+        - "Would be nice to see even an average line that went across [the graph]"
+- What is the other product you're working on
+    - VAMC
+- Would you want to incorporate those VAMC KPIs into this dashboard or have a separate dashboard for each product?
+    - "I could see either way"
+    - "Would be nice to have one-stop shopping, or it might be nice to keep them separate"
+    - Some audiences may have interest in one and not the other.
+- Based on this dashboard does this give you enough metrics to see if this product is successful? What success is this measuring?
+    - "Generally this does"
+    - "Doesn't necessarily measure everything I would look at for team success"
+    - "For product health, I think this does a good job of capturing it"
+- Are there other metrics that are not here that you would want to see to help define product success?
+    - Prod tracker for Mickin in rolling up the metrics
+        - Could be a good thing for summary
+- Would you want the rollup to be manual or automated?
+    - "Automated, for sure"
+    - "If there's a way to give you a green light, red light, grade letter, whatever, of what you're doing across the board"
+- You'd want that live updated?
+    - "Maybe not at this moment, but regular as of [time period]"
+- Is there is anything missing that you'd want to add to the dashboard?
+    - "Um, not that I can think of"
+    - "We talked about making sure that it's all explained. But I think you guys have made those changes though"
+    - "I think it's good"
+- What else could we do to improve this dashboard or the process of doing this dashboard for you?
+    - "The process was really easy getting on the phone..."
+    - "The team has been fantastic"
+    - "Super helpful getting answers really really quickly"
+    - "You guys have been super responsive"
+- Do you have any other questions for us?
+    - "I don't think so"
+- Facilitator thanks P3
