@@ -21,17 +21,10 @@ During review, this exists as a Word document. [_Download v1 of the Word Doc her
 
 
 ## Prosthetic socks 
-Invision Prototype (TBD)
+[Invision Prototype](https://vsateams.invisionapp.com/share/VBWMFDUHDFX)
 
 ### Description
-TBD
-
-### Feedback 
-TBD
+This page will look the same for both authenticated and unauthenticated experiences.
 
 ### Content 
-```
-TBD
-# Title 
-## Subtitle
-```
+During review, this exists as a Word document. [_Download v1 of the Word Doc here._](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT%20-%20Prosthetic%20Socks%20Content.docx)
