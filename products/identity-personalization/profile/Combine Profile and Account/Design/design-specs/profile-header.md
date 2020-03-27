@@ -22,8 +22,6 @@ This section will show the following:
 
 **[Most up-to-date version on InVision](insert URL)
 
-- **Tressa** will need to provide design specs in here
-
 ![Desktop Nametag no badge.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/name-tag/Desktop%20Nametag%20no%20badge.png)
 
 ### Copy
@@ -35,7 +33,10 @@ This section will show the following:
 - **Notes**: 
 
 ### Requirements
-
+- req 1
+- req 2
+- req 3
+- req 4
 
 ### Design
 ### Banner - With Badge
