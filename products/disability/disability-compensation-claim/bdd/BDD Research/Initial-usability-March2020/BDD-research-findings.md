@@ -59,10 +59,10 @@ Several users prefer to add all the New conditions they want to claim at once, a
  - The other user had a bad experience using a VSO. The VSO did not want to file the claim for him, as they had “too many returns” of BDD applications. There was also a problem with location. One VSO told him he needed to file the BDD claim in the location where he was going to be after discharge. The user did not get the help he needed.  
 
  **2. How do users expect to get to, or try to find info about BDD on VA.gov?**
- - Six users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go the next time. 
+ - Six users of ten did not find the BDD info. The three users that did find it, did not seem confident that they would remember where to go the next time. Navigating to this information seemed to happen in an arbitrary, random fashion.  
  -  A couple of users used the search bar and searched for BDD and found the link "Pre-discharge claim", but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
- - A couple of users overlooked the link to Pre-discharge Claim because they were looking for other words/terms.
- - Users tried to find info about the BDD program under "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". Others tried to look under "Service member Benefits" further down on the page. 
+ - A couple of users overlooked the link "Pre-discharge Claim" because they were looking for other words or terms.
+ - Users tried to find info about the BDD program under "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". Others tried to look for the info under "Service member Benefits" further down on the page. 
  - Two users suggested that the VA homepage should have a section or a button for Service Members that are about to separate:  “I am about to separate - what should I do now?” 
  
 **Task 2: "Imagine that you’ve found the correct program and the correct form on VA.gov, and you now want to file a claim for a neck sprain issue and Tinnitus (ringing in the ear). How would you go about doing this?"**
