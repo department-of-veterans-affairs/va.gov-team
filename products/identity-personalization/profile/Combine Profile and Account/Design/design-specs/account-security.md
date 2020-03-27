@@ -20,6 +20,7 @@ This section will show the following:
 ## Account Security
 
 ### Design
+### Account Security - Identified Verified
 
 **[Most up-to-date version on InVision](insert URL)
 
@@ -39,6 +40,7 @@ This section will show the following:
 
 
 ### Design
+### Account Security - 2FA
 
 [Most up-to-date version on InVision](insert URL)
 
