@@ -1,18 +1,22 @@
 # The path to accessibility for VA.gov
 
-The first step to making accessibility a priority in our organization we need to get everyone synchronized on accessibility guidelines and best practices. This means going farther than simply creating checklists, we need a comprehensive strategy on how each member of the organization can become accessibility experts, in a matter of speaking. This can all be done asynchronously but a good starting point is -
+The first step to making accessibility a priority in our organization is that we need to get everyone synchronized on accessibility guidelines and best practices. This means going farther than simply creating checklists, we need a comprehensive strategy on how each member of the organization can become accessibility experts, in a matter of speaking. This can all be done asynchronously but a good starting point is -
 
-1. Getting synchronized on what source of accessibility guidelines we are following - There are many places to get resources on accessibility and each can have slightly different priorities in their information so it is critical that we all agree what set of resources we are working from so that everyone is on the same page.
+1. Getting synchronized on what source of accessibility guidelines we are following - There are many places to get resources on accessibility and each can have slightly different priorities in their information so it is critical that we all agree what set of resources we are working from so that everyone is on the same page. This should be done on an organizational level in a transparent manner so that everyone can have input.
 
 2. Disseminating the accessibility guidelines we all agree on throughout the organization in a way that there is accountability for learning the material - this can be an internal class we create or something else but the accountability is critical so that we can measure where we are before these efforts and where we are after in terms of organizational knowledge.
 
-Once we have all been synchronized on what accessibility means and then making sure we all have the same level of knowledge the work of actually ensuring we are creating accessible products really breaks down into two lanes -
+Once we have all been synchronized on what accessibility means and that we all have the same level of knowledge the work of actually ensuring we are creating accessible products breaks down into two lanes -
 
 ### Fixing the accessibility issues of our current components
 
-The components we use from the design system are used across the entire platform so to ensure that our products are accessible we need to make sure that these components meet our agreed upon accessibility baseline. This work should be shared by all the teams in the organization and can be done in a methodical and predictable way where we ensure that the changes made to the components do not break existing applications. 
+The components from the design system are used across the entire platform so to ensure that our products are accessible we need to make sure that these components meet our agreed upon accessibility baseline. This work should be shared by all teams in the organization and can be done in a methodical and predictable way where we ensure that the changes made to the components do not break existing applications.
 
-First we need to do an audit of where our components currently stand as well as how they are used so that we have a list for each component of what needs to be addressed. Once this list is compiled each team can pick a component off the list and devote a ticket or two per sprint in addressing the issues in the list for the component. Once the updates are complete for a component that component then needs to be reviewed to make sure it meets the accessibility requirements. When the component is approved and meets the accessibility requirements it can then be pushed to the codebase and a Slack message or email sent out to the organization as a whole to let folks know that this component is being updated and to review their team's usage of the component in staging to make sure everything is still in order. Once this is approved by all teams the changes can be pushed to production.
+- First we need to do an audit of where our components currently stand as well as how they are used so that we have a list for each component of what needs to be addressed. 
+- Once this list is compiled each team can pick a component off the list and devote a ticket or two per sprint in addressing the issues in the list for the component. 
+- Once the updates are complete for a component that component then needs to be reviewed to make sure it meets the accessibility requirements. 
+- When the component is approved and meets the accessibility requirements it can then be pushed to staging and a Slack message or email sent out to the organization as a whole to let folks know that this component is being updated and to review their team's usage of the component in staging to make sure everything is still in order. 
+- Once this is approved by all teams the changes can be pushed to production.
 
 We will attack each component that needs work one by one until they are all completely accessible. 
 
