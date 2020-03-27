@@ -600,7 +600,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 
 *Dragons Team | Research Lead: Samara Strauss*
 - 128 participants
-- Reearch Folder
+- [Reearch Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research/Chalkmark%20Testing/Results%20Summary.md)
 
 #### August 15 - August 17: Veteran ID Card landing page - Content and design evaluation
 
