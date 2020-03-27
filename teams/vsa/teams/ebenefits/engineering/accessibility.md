@@ -30,7 +30,9 @@ Accessibility needs to start with design and to ensure that our designs going fo
 
 #### Product Management
 
-Ultimately product managers are responsible for the features we create, and therefore the accessibility of those features. Similar to design mentioned above we need to create a set of documentation for product managers to reference for what they should be looking out for so that they can identify when a feature may not meet our agreed upon accessibility requirements. Product managers then need to be trained on this documentation in an accountable way so that they are empowered to know that the features their team creates are fully accessible. 
+Ultimately product managers are responsible for the features we create, and therefore the accessibility of those features. Similar to design mentioned above we need to create a set of documentation for product managers to reference for what they should be looking out for so that they can identify when a feature may not meet our agreed upon accessibility requirements. Product managers then need to be trained on this documentation in an accountable way so that they are empowered to know that the features their team creates are fully accessible. We should also allow product managers the space and time to review each design with their designers so that both diciplines can call out any potential accessibility issues that may make their way into the product as well as a plan to mitigate these issues.
 
 #### Engineering
+
+Building the features for VA.gov means that accessibility needs to take a front seat on our development process. Similar to design and product management we need to create resources for engineering and then make sure that they are trained on those resources in an accountable manner. We can go further than this and create a design/ engieering handoff when a new design begins development where designers and engineers are able to pour over the design and list out as many potential accessibility pitfalls could be introduced into the finished feature as well as a plan to mitigate these pitfalls.
 
