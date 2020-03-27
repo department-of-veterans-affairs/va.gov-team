@@ -60,9 +60,15 @@ WIP
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
 Moderator: Bridget Hapner
+
 Research guide writing and task development (usually but not always same as moderator): Bridget Hapner
+
 Participant recruiting & screening: TBD
+
 Project point of contact: Bridget Hapner
+
 Participant(s) for pilot test: TBD
-Note-takers: Alexis James, Ambika Roos 
+
+Note-takers: Alexis James, Ambika Roos
+
 Observers: TBD
