@@ -2,7 +2,7 @@
 name: IA Request
 about: Finalize the IA of your product for VA.gov
 title: IA Request [Feature-Name]
-labels: product support, content-ia-team
+labels: product support, content-ia-team, collaboration-cycle
 assignees: andreahewitt-odd, meganhkelley, mnorthuis
 
 ---
