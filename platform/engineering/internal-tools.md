@@ -133,6 +133,7 @@ here are the steps to create one:
     * This subdirectory has restrictive permissions `0700`
     * In this subdirectory you will have two files, `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`.
     * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vetsgov.pub`. This should give a long string of random characters (i.e. ssh-rsa AAAAAjfje983jJL3j2....).
+    * Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vetsgov`.
     * Got it? --> Back to [Orientation for Developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-steps-for-developers)
 
 ## Configure the SOCKS proxy
