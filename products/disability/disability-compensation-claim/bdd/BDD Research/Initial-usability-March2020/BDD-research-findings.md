@@ -37,26 +37,17 @@ would expect they should go to file a BDD claim online (if it was available onli
 7. What do veterans think will happen after the BDD claim form is submitted online?
 
 ## Key Findings
-1. 
-- Four users have heard about the BDD program, and two had filed before through a VSO. One had a good experience working with a VSO, one had a bad experience. 
-- All users see clear value in being able to file a BDD claim online.
-2. 
-- Six of ten users did not find the relevant BDD info on VA.gov. Locating this info on VA.gov seemed arbitrary, and users felt that it was buried and too hard to find. 
-3. 
-- Many users seemed hesitant where to go on the Content page ("How to file a VA disability claim") in order to start a claim. - All users eventually found the call-to-action button. - A few users think they might have navigated away from this page. 
-- Users are confused by seeing a blue and a green Sign in button: “Do they do the same thing?”
-4. 
-- A couple of users think there is a need for selecting and uploading many documents at once (with one-click) on the Upload evidence page.
-- Several users find the page “Details about your condition” unnecessary in the flow. 
-- Several users prefer to add all the New conditions they want to claim at once, and then be asked details for each of these.  
-5. 
-- Several users would like an email confirmation after completing the form, and a print button on the last (Submission) page. Users appreciate the tracking option.
-6. 
-- A couple of users have security concerns about uploading private medical records to this web page. 
-7. 
-- Users expect a phone call about a claim exam. Users hope to receive an email confirmation about VA having received their claim. 
-- Users hope to receive some sort of time estimation. 
-- Several users belive there will be few updates and a lack of visibility into the VA claim process. They think VA will only get in contact when they need info/records, and then get in touch again when claim is processed and their decision is made. 
+1. Four users have heard about the BDD program, and two had filed before with help of VSO. (One had a good experience, one had a bad experience.) 
+All users see clear value in being able to file a BDD claim online.
+2. Six of ten users did not find the relevant BDD info on VA.gov. Locating this info on VA.gov seemed arbitrary, and users felt that it was buried, and too hard to find. 
+3. Several users seemed unsure where to go on the Content page in order to start a claim. All users eventually found the call-to-action button. - A few users think they might have navigated away from this page. 
+Users are confused by seeing a blue and a green Sign in button: “Do they do the same thing?”
+4. A couple of users think there is a need for selecting and uploading many documents at once (with one-click) on the Upload evidence page.
+Several users find the page “Details about your condition” unnecessary in the flow. 
+Several users prefer to add all the New conditions they want to claim at once, and then be asked details for each of these.  
+5. Several users would like an email confirmation after completing the form, and a print button on the last (Submission) page. Users appreciate the tracking option.
+6. A couple of users have security concerns about uploading private medical records to this web page. 
+7. Users expect a phone call about a claim exam. Users hope to receive an email confirmation about VA having received their claim. Users hope to receive some sort of time estimation. Several users belive there will be few updates and a lack of visibility into the VA claim process. They think VA will only get in contact when they need info/records, and then get in touch again when claim is processed and their decision is made. 
 
 
 
