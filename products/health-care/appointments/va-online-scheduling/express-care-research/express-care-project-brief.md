@@ -1,41 +1,56 @@
 # Express Care project brief
 
 ## Overview: 
-We need to understand when, why, and how a Veteran seeks care that they deem "urgent", "immediate", and "now" through VA digital channels. We specifically want to understand:
+VA devloped Express Care to enable virtual access between Veteran patients and their medical providers ("PACTs"). However, Express Care as a service is not utilized by providers or patients and research needs to be conducted to better understand why and how the VA can improve this service, especially during a time when a Veteran may need medical attention, but be seen at a physical location.
+
+The problem we are focused on is: understanding when, why, and how a Veteran seeks care that they deem "urgent", "immediate", and "now" through VA digital channels. We specifically want to understand:
  + when do Veterans seek "urgent" "immediate" "same day" care
  + what types of care do Veterans seek "urgent" "immediate" "same day" care / how do they define same day care
- + would Veterans use an online method for receiving same day care
+ + would Veterans use an online method for receiving same day care / do Veterans know what services are available to them for same day care through VA
 
 ## Problem Statement:
-Some Veterans have a care need right now that requires immediate medical attention or guidance. For various reasons, the Veteran may not be able to go into a physical location for this care. Additionally, their care need may not require an in person visit. In both cases, however, the Veteran needs to talk to a medicial professional _today_. 
+Some Veterans have a care need that could be resolved without an in-person appointment and/or requires immediate medical attention or guidance, yet doesn't demand a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medicial professional _today_. 
 
-Currently, "Express Care" is a vehicle/care option by which the VA can provide immediate, same day evaluation via VA Video Connect (or telehealth). 
+Currently, "Express Care" is a vehicle/care option by which the VA can provide immediate, same day evaluation via VA Video Connect (or telehealth appointment). 
 
 Additionally, given the recent COVID-19 pandemic, there is an urgent need to give Veterans fast access to care and evaluation via telehealth either as an alternative to in office, face-to-face visits or as a mechanism for screening patients who suspect they have COVID-19. 
 
 This problem may be a subset to a larger problem statement - Veterans have acess to various types of care which can make it difficult to understand what kind of care to access and how to access it. This is especially true when considering the different VA digital access points to accessing care. 
 
 ## Goal:
-We want to perform user research with various Veterans to collect insights and data on what types of care Veterans would seek same-day care access and how they would go about (care options) receiving this immediate care at the VA with emphasis on understanding use of 'telehealth' or online care options.
+We want to perform usability research with Veterans to learn more about:
+ + Veterans undertanding of what appointment types are available to them through VA, specifically for telemedicine and same-day appointments
+  + how might Veterans seek same-day care (either through VA or other sources)
+  + how might Veterans go about receiving immediate care at the VA, with emphasis on understanding use of 'telehealth' or online care options. 
 
 ## Current Hypothesis:
-We believe the existing vehicle for delivering this same day care "Express Care" online is a separate flow from VA Online Schedule because urgent online consultation/care is same day and not future facing like VA Online Scheduling. 
+We believe there are two major hinderances to Express Care as a service for urgent/same-day appointments for Veteran patients:
+ + Veterans can only see their PACT, if and *only if* their PACT makes availability during normal business hours
+ + Veterans are unaware of Express Care as an option for scheduling an appointment, due to unavailability from providers
+ + Veterans won't think to make an Express Care appointment the same way as other types of VA appointments because of the timeliness of the appointment
+ 
+For the purpose of this usability research, we aim to focus largely on solving for when Veterans would make and Express Care appointment and how they would do so. 
 
-Flow could be surfaced/launched from our VAOS "view your appointments" landing page, but there may be a better entry point. What would that entry point be?
+We believe the existing option for same day care, "Express Care" online, is overlooked by VA patients as an option for recieving care because of how appointment scheduling online is facilitated through VA Online Schedule. Due to the nature of Express Care being urgent online consultation/care is same day and not future facing like VA Online Scheduling, it needs to exist outside of the VAOS ecosystem. 
+
+For example, the flow could be surfaced/launched from our VAOS "view your appointments" landing page, but there may be a better entry point. What might that entry point be?
 
 ## Research Questions:
  + _Add questions here to supplement Research Plan_
- + How do Veterans define Express Care 
- + Why/when do Veterans seek out express care
- + Where would Veterans look to schedule/access this type of same day care
+ + How do Veterans define Express Care (could this type of care be considered within a 24-hour period or must it be same day?)
+ + Why/when do Veterans seek out telehealth or telemedicine appointments? 
+ + What types of appointments do Veterans consider using telehealth appointments for? 
+ + Where would Veterans look to schedule/access this type of same day care (phrasing: How would you make a telehealth appointment? To be seen the same day?)
  + Are Veterans willing/able to use online methods for same day care
+ + What devices/platforms do you have access to? Are you familiar with or do you currently use any video conferencing apps? If so, which ones? Are you familiar with any from VA?
  + What type of devices/platforms have Veterans used to receive similar type of access (if at all?)
  + Where can we contextually redirect Veterans to appropriate access points based on need (e.g., if immediate need vs future facing need such as scheduled appointment)
  + What (if any) of the existing digital tools would a Veteran assume they'd use to receive immediate, same day digital care?
  + Is "same-day" care the same thing as scheduling an appointment? If not, how is this different?
+ + Have you ever made a same-day appointment
  + Explain your current process for getting a same-day appointment
- + What is the latest time of day a Veteran should be able to get "same-day" care?
- + We do not want to show express care/same day options to veterans who do not have access to it. Right now there are a lot of rules around who can use existing "express care." Technical research - are there ways to conditionally show this potential care option to Veterans who are eligible to access it?
+ + What is the latest time of day a Veteran should be able to get "same-day" care? // *I think this is a business question as written, but we should ask Veterans about when they expect they should be seen for same day visits*
+ + We do not want to show express care/same day options to Veterans who do not have access to it. Right now there are a lot of rules around who can use existing "express care." Technical research - are there ways to conditionally show this potential care option to Veterans who are eligible to access it? // *we could either show a bare bones wireframe or have them walk us through their experience currently: "Show us how you would make this appointment..."
 
 
 *******
