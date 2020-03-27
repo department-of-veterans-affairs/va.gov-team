@@ -1,12 +1,12 @@
 # The path to scalable accessibility for VA.gov
 
-The first step to making accessibility scalable across our organization is that we need to get everyone synchronized on accessibility guidelines and best practices. This means going farther than simply creating checklists, we need a comprehensive strategy on how each member of the organization can become accessibility experts, in a matter of speaking. This can all be done asynchronously but a good starting point is -
+The first step to making accessibility scalable across our organization is that we need to get everyone synchronized on accessibility guidelines and best practices. This means going farther than simply creating checklists, we need a comprehensive strategy on how each member of the organization can become accessibility experts, in a matter of speaking. This can all be done asynchronously but a good starting point is:
 
-1. Getting synchronized on what source of accessibility guidelines we are following - There are many places to get resources on accessibility and each can have slightly different priorities in their information so it is critical that we all agree what set of resources we are working from so that everyone is on the same page. This should be done on an organizational level in a transparent manner so that everyone can have input.
+**1. Getting synchronized on what source of accessibility guidelines we are following.**  There are many places to get resources on accessibility and each can have slightly different priorities in their information so it is critical that we all agree what set of resources we are working from so that everyone is on the same page. This should be done on an organizational level in a transparent manner so that everyone can have input.
 
-2. Disseminating the accessibility guidelines we all agree on throughout the organization in a way that there is accountability for learning the material - this can be an internal class we create or something else but the accountability is critical so that we can measure where we are before these efforts and where we are after in terms of organizational knowledge.
+**2. Disseminating the accessibility guidelines we all agree on throughout the organization in a way that there is accountability for learning the material.**  This can be an internal class we create or something else but the accountability is critical so that we can measure where we are before these efforts and where we are after in terms of organizational knowledge.
 
-Once we have all been synchronized on what accessibility means and that we all have the same level of knowledge the work of actually ensuring we are creating accessible products breaks down into two lanes -
+Once we have all been synchronized on what accessibility means and that we all have the same level of knowledge, the work of actually ensuring we are creating accessible products breaks down into two lanes:
 
 ### Fixing the accessibility issues of our current components
 
