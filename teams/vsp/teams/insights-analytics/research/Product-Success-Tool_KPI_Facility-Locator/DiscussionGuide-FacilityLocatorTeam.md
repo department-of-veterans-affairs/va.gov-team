@@ -26,10 +26,8 @@ Before we start, a few things I want to mention:
 * Can you tell me a little bit about what your role is? 
 
 #### General product health questions
-- What decisions would analytics data help you make?
-- Once you had the data, what sort of action would you take?
-- How often would you ideally look at analytics data? Monthly? Weekly? Daily?
-- What metric is most important to you for determining the health of a product?
+- How often would you ideally look at data for KPIs? Monthly? Weekly? Daily?
+- Where do you go to look for data for KPIs?
 
 ## First task: React to Product Success Tool - Facility Locator KPI tracking
 
