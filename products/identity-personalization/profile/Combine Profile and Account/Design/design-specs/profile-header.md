@@ -47,7 +47,7 @@ This section will show the following:
  
 ### Copy
  
-**Note**: Enter any specialized notes regarding Account Security - 2FA 
+**Note**: Enter any specialized notes regarding Desktop Nametag - With Badge
 - **Page title**: 
 - **Section title** 
 - **Notes**: 
