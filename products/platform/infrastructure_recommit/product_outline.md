@@ -57,6 +57,7 @@ Local development Close coupling of system and service deployment (kernel patche
 
 ## Assumptions
 - Users want true continuous deployment (most risky)
+- There will be more teams that have their own custom backends in the future
 - Making a flexible infrastructure will help the Platform adapt to different needs 
 - Development will increase 
 - The sentiment of complexity will decrease  
