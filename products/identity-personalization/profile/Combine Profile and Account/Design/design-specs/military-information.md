@@ -16,9 +16,10 @@ This section of the profile will show people's military history that we pull fro
 
 [Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410215995_Military_Information_1)
 
-- **Tressa** will need to provide design specs since these blocks don't exist in the current design system.
-
 ![Military info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/military-information/Military%20Information.jpg)
+
+![Table Specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/table-specs.jpg)
+
 
 ### Copy
 
