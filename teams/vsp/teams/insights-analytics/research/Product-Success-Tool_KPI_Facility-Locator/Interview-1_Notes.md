@@ -11,7 +11,7 @@ Anything shown in quotation marks is a direct, or near-direct quote from P1
 ---
 
 - "Haven't had a heck of a lot of time to think about everything"
-- Amy sets up context for meeting
+- Facilitator sets up context for meeting
     - P1 approves recording
 - How often would you ideally look at data for KPIs?
     - "I'd like to match the KPIs on a sprint-by-sprint basis to make sure that we are adjusting appropriately"
@@ -39,7 +39,7 @@ Anything shown in quotation marks is a direct, or near-direct quote from P1
     - "having a quantitative and occasionally qualitative analysis to refer back to helps me to shape the product and communicate back to stakeholders the justification for why or why we are not doing certain things"
     - "being able to establish these benchmarks...with consensus from the whole product team, and also having input from the whole business allows  us to get and keep everyone on the same page."
 - Could you pull up the KPI dashboard and share your screen?
-    - (Amy sends link)
+    - (Facilitator sends link)
     - "I don't even know if I've logged into this yet to be honest with you"
     - (Access struggles on Domo)
 - Could you go through the dashboard and talk through your thought process?
