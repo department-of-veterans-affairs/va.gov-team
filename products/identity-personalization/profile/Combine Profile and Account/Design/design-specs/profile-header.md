@@ -54,7 +54,10 @@ This section will show the following:
 - **Notes**: 
 
 ### Requirements
-
+- req 1
+- req 2
+- req 3
+- req 4
 
 
 ## MOBILE VIEW
