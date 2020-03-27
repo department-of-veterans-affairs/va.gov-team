@@ -1,3 +1,5 @@
+### to view images, go to the original summary in the vets.gov-team repo https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20Summary.md
+
 # Background
 
 ### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-plan.md)
