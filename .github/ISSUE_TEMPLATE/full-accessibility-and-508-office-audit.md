@@ -2,7 +2,7 @@
 name: Full Accessibility & 508 Office Audit
 about: Request a full accessibility review during the rollout process
 title: Full Accessibility & 508 Office Audit [Feature-Name]
-labels: 508/Accessibility, product support
+labels: 508/Accessibility, product support, collaboration-cycle
 assignees: 1Copenut, jenstrickland
 
 ---
