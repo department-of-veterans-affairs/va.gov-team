@@ -3,31 +3,46 @@
 This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
-_To be filled out with a Vets.gov lead prior to starting discovery work._
+_To be filled out with a VA.gov lead prior to starting discovery work._
 
 ### Project Name
-_Short name for the project (e.g., "In-person authentication," "disability benefits application," "benefits navigator")._
+Debt Letters MVP
 
 ### Problem Statement / How Might We statements
-What problem are we trying to solve? Why are we doing this? (focus on problems, not possible solutions)
+- How might we make it simpler for Veterans to view, interpret, and pay their debts to the VA? _(Might be too broad?)_
 
 ### What Sprint Teams Are Associated with this Discovery? 
-* Kudos / Rainbows / Core / Other
+* Benefits and Memorials 2
 
 ### Discovery Sprint Roles
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
-* Product Lead:
-* Discovery Sprint Lead:
-* Engineer:
-* Designer:
-* Researcher:
+* Product Lead: Matt Self 
+* Discovery Sprint Lead: Leah Keeler
+* Engineer: 
+* Designer: Rebecca Walsh & Riley Orr
+* Researcher: Rebecca Walsh & Riley Orr
 * Other people from the Sprint Team:
-* SME:
+* SME: 
 
 ### Stakeholders
-* VA business owner:
-* Stakeholders who will be involved or interviewed:
+#### VA business owner: 
+Jason Hoge (?)
+
+#### Stakeholders who will be involved or interviewed:
+|                     | Title                                      | Project Role               | Meeting Notes | Interview Notes |
+|---------------------|--------------------------------------------|----------------------------|---------------|-----------------|
+| Jason Hoge          | Chief of Treasury, Education, and Outreach |                            |               |                 |
+| Minh Bang           | Program Analyst                            | Technical SME              |               |                 |
+| Thomas Corley       | IT Project Manager                         |                            |               |                 |
+| Melissa Rebstock    | VEO Executive Partner                      |                            |               |                 |
+| Shay Norton-Leonard |                                            | Education Service Debt POC |               |                 |
+| Sarah Haddock       |                                            |                            |               |                 |
+| Todd Bruggeman      |                                            |                            |               |                 |
+| Jennifer Powell     |                                            |                            |               |                 |
+| Paul Kimball        |                                            |                            |               |                 |
+| Joseph Veit         |                                            |                            |               |                 |
+  
 
 
 ## DISCOVERY PLANNING
@@ -37,15 +52,71 @@ Note: revise above sections as needed
 
 ### Project Details
 
-* What do we know?
-* What don't we know?
-* Are any of the above assumptions that need to be verified?
-* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
-* What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
-* Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
-* What secondary research should we do (google, facebook, internal documents)?
-* Are there any intentional project constraints (things we're intentionally deeming out of scope)?
-* Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
+#### What do we know?
+* The VA sends out millions of letters (~2.5MM) yearly and have approximately 600,000-700,000 accounts of active debt at a time.
+* Debts originate from several departments and for many reasons:
+  * Education 
+  * Compensation and Pensions
+  * ???
+* Before sending the debt to DMC, departments often try to recoup the debt on their own first, so Veterans may have recieved prior debt notices before DMC steps in.
+* Once a debt _is_ sent to DMC, the DMC has 5 letter templates that are sent out.
+  * If a Veteran has a benefit to offset in order to pay the debt (Active Debtor), one letter is sent to the Veteran:
+    * 101 - Informs the Veteran of the debt and automatic 12-month repayment plan.
+    * _Note: Veterans are able to negotiate different payment plans with the DMC if need be._
+  * If a Veteran does not have a benefit to offset (Inactive Debtor), three letters will be sent ot the Veteran:
+    * 100 - 
+    * 117 - 
+    * 123 - 
+  * If a Veteran's debt increases, they recieve another letter (130)
+  * The DMC tries to recoup the debt for 120 days before:
+    * The debt must be reported to credit bureaus, causing a credit score decrease for the Veteran
+    * The debt must be sent to the Department of Treasury, which can look for other sources of income to debit. A debt going to the Department of Treasury can take on a 30-32% fee to the debtor.
+  * A debt will remain in the VA's system indefinitely until it is paid. A debt deemed 'uncollectible' can go inactive until the Veteran receives benefits again.
+
+#### What don't we know?
+##### Business Side:
+* Should we be taking into account letters sent prior to DMC's?
+* Where are all of the payments happening?
+* Can these letters be delivered as HTML pages instead of PDFs?
+
+##### Technical Side:
+* Can letters be categorized and put into the correct sequence?
+
+##### Veteran Side:
+* Why do Veterans seek out historical letters online?
+* What sort of goals do Veterans have when seeking historical letters?
+* What are Veteran's perspectives on:
+  * Incurring debt with the VA
+  * The letters themselves
+  * Paying the debt (ability to do so, knowledge of doing so, ease of doing so)
+
+#### Are any of the above assumptions that need to be verified?
+* Do Veterans want or need to see actual PDF letters in order to achieve their goals?
+
+#### How are we going to find out answers?
+* In-depth key stakeholder interviews
+* Call center interviews
+* User interviews
+
+#### What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
+* Any Veteran who has incurred a debt with the VA
+
+#### Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+* Stakeholders (list TBD)
+* Call center folks who deal with debt
+* Veterans who have debts with the VA (a mixture of inactive and active debtors)
+
+#### What secondary research should we do (google, facebook, internal documents)?
+* Review letters issued
+* Review reports about debt over time
+* Review any available call center records surrounding debt letters
+
+#### Are there any intentional project constraints (things we're intentionally deeming out of scope)?
+* Letters and processes that come before DMC intervention (?)
+
+#### Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
+* COVID-19 may impact scheduling with stakeholders and Veterans difficult.
+* Complicated backend subtleties revealed over time may impact potential design directions.
 
 
 ### Timeline
