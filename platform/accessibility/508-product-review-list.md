@@ -494,6 +494,8 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[SCREENREADER]: Clock icons MUST have text that describes the info represented by them](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6697)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 
+* [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+
 * [CMS [ZOOM]: Content SHOULD not be cut off when zoomed to 400%](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6399)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 * [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
