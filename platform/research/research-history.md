@@ -187,6 +187,10 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 - 10 participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/UAT/research-plan.md)
 
+#### Early September 2019
+*Authenticated experience: Samara Strauss*
+- [Personalization 2.0 research summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md)
+
 ### August 2019
 
 #### August 27 - 30: CARMA Caregiver Discovery **
@@ -231,10 +235,9 @@ _VA.gov CMS team: Lapedra Tolson_
 - 8-10 participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec-107/gibct-107-research-plan-round-3.md)
 
-
-#### Auguts 5 - 16: Personalization 2.0 Separating Service Member Interviews **
+#### August 5 - 16: Personalization 2.0 Separating Service Member Interviews **
 - 5 participants 
-- Research Plan
+- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews)
 
 #### August 5 - 12: VSP Onboarding - Round 2 (VSA) **
 *VSP Platform Support: Layla Soileau*
@@ -251,7 +254,6 @@ _VA.gov CMS team: Lapedra Tolson_
 - 8 participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2019/research-plan-unicorns-526-automation.md)
 
-
 #### July 9 - 10: GIBCT 107 Remote Moderated Usability Testing **
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 10 participants
@@ -264,7 +266,7 @@ _VA.gov CMS team: Lapedra Tolson_
 #### July 8-12: Dashboard 2.0 interviews
 *Dragons/Personalization: Samara Strauss*
 - 6 participants
-- Research folder
+- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews)
 
 #### July 8-10: Usability Research - GIBCT Colmery Sec 107 - Schools, Branches & Extensions 
 *BAH Team, Research Lead: Amy Knox, Theresa McMurdo*
