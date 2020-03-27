@@ -6,7 +6,7 @@
 
 ### Goals & What We Did
 
-In March 2019, we designed and conducted [testing on updates to the health care application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-summary.md). Since then, we have completed additional updates to the dashboard as part of the larger health care application experience. This round of testing evaluated those dashboard changes.
+In March 2019, we designed and conducted [testing on updates to the health care application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/user-testing/mar-2019/research-summary.md). Since then, we have completed additional updates to the dashboard as part of the larger health care application experience. This round of testing evaluated those dashboard changes.
 
 # Methods
 
