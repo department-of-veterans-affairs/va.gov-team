@@ -6,6 +6,8 @@ We asked the teams providing the information to keep in mind two important thing
 1. Some users (and agents) are not as technically advanced as you or some of your counterparts, so try to phrase the questions in layman terms. This will help ensure that all individuals understand what they are asking and what is being asked of them.
 2. Try to keep the questions to a minimum as much as possible. While we want to gather as much information as we can for your team, we want to remain vigilant of SLA's and metrics that the Contact/Call Center has agreed to. With this in mind, try to also incorporate questions that will determine if this is an actual issue that they may be experiencing or if it is actually a user error.
 
+The ultimate goal is to have the SalesForce CRM populate the questions as agents select the topics and sub-topics while assisting the customer.  The automatated population of the questions will allow the agents to ask the correct questions to the caller.  This will ultimately cut down on the back and forth of obtaining all needed information with users.
+
 Below is a compilation of those questions broken down by teams.
  
 **eBenefits:**
