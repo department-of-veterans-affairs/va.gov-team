@@ -3,6 +3,7 @@
 Navigation: <br>
 **Select accessories (Default):** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content)<br>
 **Use case - All accessories are ineligible:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description-1) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#feedback-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content-1)<br>
+**Use case - Veteran has no accessories on record:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description-2) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#feedback-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content-2)<br>
 
 ## Use case - Select accessories (Default)
 Relevant links: <br>
@@ -124,6 +125,87 @@ You cannot reorder this item until MM/DD/YYYY.
 
 [Additional info component] What if I don't see the accessories I need?
 (content inside the 'Additional info' component)If you need a different hearing aid accessory or an adjustment to an available item, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+
+[Secondary button] Back
+[Primary blue button] Continue
+
+[Link to exit the form] Finish this application later.
+
+Need help? (h2 utility)
+For help placing an order, or if the order form isn’t working right, please call VA Benefits and Services at 800-827-1000.
+If you have hearing loss, call TTY: 711.
+ ```
+## Use case - All accessories are ineligible 
+Relevant links:<br>
+**1.** Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/G6W9N8F4TH7) <br>
+**2.** [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5798)
+
+## Description
+This use case covers if a veteran does not have any accessories that are currently eligible for resupply. Additionally, the card components in this design can be applied to other combinations of eligible/ineligible accessory layouts. Even though none of the hearing aid accessories are eligible for resupply, it's important to display the items in case either a veteran is expecting to be able to order one or they don't see an expected accessory. Initial focus point should be on h1: Order hearing aid batteries and accessories <br>
+The initial focus point for this screen: H1 - _Order hearing aid batteries and accessories_
+
+## Content 
+ ```
+Home > Health care > Order hearing aid batteries and accessories
+
+# Order hearing aid batteries and accessories [h1]
+Equal to VA Form 2346 (Request for Batteries and Accessories)
+
+[Chapter title] 2 of 3 Select your supplies
+
+[Title] Add hearing aid accessories to your order (h4 utility)
+
+[Informational alert] 
+None of your hearing aid accessories are eligible for battery resupply
+If you need to order resupply for your hearing aid accessories, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+
+**These are the hearing aid accessories we have on file for you:**
+
+[Card component]
+Accessory item name [h4 utility]
+**Quantity:** ## (Approximately 6 months supply)
+**Last order date:** MM/DD/YYYY
+[Warning alert inside card component] 
+You cannot reorder this item until MM/DD/YYYY.
+[Additional info component inside warning alert] Why can't I order this item?
+(content inside the 'Additional info' component)You can only order a hearing aid accessory once every 5 months. Each order comes with enough items for approximately 6 months. If you need an item sooner, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+
+[Additional info component] What if I don't see the accessories I need?
+(content inside the 'Additional info' component)If you need a different hearing aid accessory or an adjustment to an available item, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+
+[Secondary button] Back
+[Primary blue button] Continue
+
+[Link to exit the form] Finish this application later.
+
+Need help? (h2 utility)
+For help placing an order, or if the order form isn’t working right, please call VA Benefits and Services at 800-827-1000.
+If you have hearing loss, call TTY: 711.
+ ```
+
+## Use case - Veteran has no accessories on record
+Relevant links:<br>
+**1.** Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/411094793_C2_P2-_Select_Supplies_-_Accessories_-_No_Accessories_On_Record) <br>
+**2.** [Github Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7134)
+
+## Description
+This use case covers if a veteran has no accessories on their record for the last two years. We leave this page in the flow as we want to ensure that Veterans know they are eligible to order accessories and how to do it in lieu of being able to order online.
+The initial focus point for this screen: H1 - _Order hearing aid batteries and accessories_
+
+## Content 
+ ```
+Home > Health care > Order hearing aid batteries and accessories
+
+# Order hearing aid batteries and accessories [h1]
+Equal to VA Form 2346 (Request for Batteries and Accessories)
+
+[Chapter title] 2 of 3 Select your supplies
+
+[Title] Add hearing aid accessories to your order (h4 utility)
+
+[Informational alert] 
+Online ordering is only available for accessories that you have received within the past two years.
+If you need accessories such as domes, wax guards, cleaning supplies, or desiccant, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 
 [Secondary button] Back
 [Primary blue button] Continue
