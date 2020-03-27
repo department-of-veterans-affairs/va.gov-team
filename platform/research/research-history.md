@@ -498,8 +498,8 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 #### January 28-February 1: Servicemember Research 
 *Ad Hoc Website Team, Research Lead: Jeff Barnes*
 - 7 Servicemembers
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-servicemembers)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-servicemembers/research-plan.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/audience-hubs/research/service-member)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/audience-hubs/research/service-member/research-plan.md)
 
 #### January 22-27: Family & Caregiver Audience Hub Tree Test 
 *VA.gov Website Team, Research Lead: Jeff Barnes & Mikki Northius*
