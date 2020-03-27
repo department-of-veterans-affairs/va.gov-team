@@ -586,7 +586,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### September 4-5: Benefits Recommendations 
 *Dragons Team | Research Lead: Samara Strauss* 
 - 6 Veterans
-- Research Folder
+- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research)
 
 ### August 2018
 
@@ -613,7 +613,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 
 *Dragons Team | Research Lead: Samara Strauss*
 - 4 service members, 2 Veterans
-- Research Folder
+- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research)
 - We spoke to 4 service members and 2 veterans about their perceptions and expectations around being asked "what benefits are you interested in?"
 
 #### August 1: Handbook Project - AbleVets Community Care Locator Alpha Phase Remote Usability Testing
@@ -643,7 +643,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### July 12-16: Benefits Recommendations Discovery
 *Dragons Team, research lead: Samara Strauss*
 - 6 Veterans
-- Research Folder
+- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research)
 
 ### June 2018
 
