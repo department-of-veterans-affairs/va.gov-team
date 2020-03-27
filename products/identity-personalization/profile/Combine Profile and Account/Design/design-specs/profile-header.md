@@ -18,6 +18,7 @@ This section will show the following:
 ## Banner
 
 ### Design
+### Banner - No Badge
 
 **[Most up-to-date version on InVision](insert URL)
 
@@ -37,6 +38,7 @@ This section will show the following:
 
 
 ### Design
+### Banner - With Badge
 
 [Most up-to-date version on InVision](insert URL)
 
@@ -57,12 +59,14 @@ This section will show the following:
 ## MOBILE VIEW
 
 ### Design
+### Banner - No Badge
 
 [Most up-to-date version on InVision](insert link)
 
 ![Mobile Nametag no badge.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/name-tag/Mobile%20Nametag%20no%20badge.png)
 
 ### Design
+### Banner - With Badge
 
 [Most up-to-date version on InVision](inser link)
 
