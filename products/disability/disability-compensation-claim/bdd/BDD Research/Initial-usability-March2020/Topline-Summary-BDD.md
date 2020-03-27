@@ -61,7 +61,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 **Are users missing any information in order to feel confident moving forward?**
  - A couple of users are not comfortable uploading private medical records onto this web page. Security concerns. 
  - A few users would like to upload many documents at once (one click upload) (as they have many documents).
- - Several users think they should also get a text or email about receiving a phone call (and from what number) for a claim exam (one user said won’t answer any unknown numbers due to all the spam and phishing attempts going on.) 
+ - Several users think they should also get a text or email about receiving a phone call (and from what number) for a claim exam (one user said won’t answer any unknown numbers due to all the phishing attempts going on.) 
  - A couple of users asked for a confirmation number or a claim number at the end of the flow. 
  - Several users would like an email confirmation after going through the BDD flow. 
  - Several users want a print button on the last (Submission) page. Users do appreciate the tracking option.
@@ -69,11 +69,11 @@ This topline summary is a result of the synthesis that happens after conducting/
 **Are there other questions or concerns the user has while completing the BDD process?**
  - A couple of users think it is premature to ask for Bank info, as they have no idea if they will get any benefits. A few users also have concerns about the Bank account security on the web page.
   - A few users think the questions about Additional benefits and additional aid are unnecessary at this stage of the process and suggest that they be optional.  
-  - One uuser argue that many Service Members have so many documents that they will need help from a VSO. 
+  - One user argue that many Service Members have so many documents that they will need help from a VSO. 
 
 **What do veterans think will happen after the form is submitted?**
  - They think they will receive a phone call about next steps. 
- - Users would like an email confirmation about having received their claim. 
+ - Users hope to get an email confirmation about having received their claim. 
  - They would like to have some sort of time estimation. 
  - Participants do not think they will receive a lot of updates and visibility into the claim process. They think VA will only get in contact when they need info/records, and then get in touch again when claim is processed and their decision is made. 
 
@@ -82,6 +82,6 @@ This topline summary is a result of the synthesis that happens after conducting/
 - A few users suggested adding a FAQ in the gating pages, on the BDD Info page or on the BDD introduction page.
 - Users suggested to add, somewhere in the flow: "Average days to complete a BDD claim" 
 - Consider adding: "Please allow 24 hours before chacking your claim status". 
-- One user suggested to add a percentage complete on the progress bar, as each section varies a lot in number of steps / length.
+- One user suggested to add a "percentage complete" on the progress bar, as each section varies a lot in number of steps / length.
 
 
