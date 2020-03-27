@@ -39,8 +39,8 @@ would expect they should go to file a BDD claim online (if it was available onli
 ## Key Findings
 1. Four users have heard about the BDD program, and two had filed before through a VSO. One had a good experience working with a VSO, one had a bad experience. All users see clear value in being able to file a BDD claim online.
 2. Six of ten users did not find the relevant BDD info on VA.gov. Locating this info on VA.gov seemed arbitrary, and users felt that it was buried and too hard to find. 
-All users eventually found the call-to-action button on the Content page, although several users felt it should be more prominent on the page.
-3. Users had no problem going through the gating questions on the Content page, however on the BDD introduction page, they are confused by seeing a blue and a green Sign in button: “Do they do the same thing?”
+3. Many users seemed hesitant where to go on the Content page ("How to file a VA disability claim") in order to start a claim. All users found the call-to-action button A few users think they might have navigated away from this page. 
+Users had no problem going through the gating questions on the Content page, however on the BDD introduction page, they are confused by seeing a blue and a green Sign in button: “Do they do the same thing?”
 A couple of users think there is a need for selecting and uploading many documents at once (with one-click) on the Upload evidence page.
 4. Several users find the page “Details about your condition” unnecessary in the flow. 
 Several users prefer to add all the New conditions they want to claim at once, and then be asked details for each of these.  
@@ -51,19 +51,12 @@ Several users belive there will be few updates and a lack of visibility into the
 
 
 
-
-
-Many users seemed hesitant and unsure where to go on the Content page ("How to file a VA disability claim") in order to start the claim process. All users found "Lets get started".button, but a few users think they might have navigated away from this page in a real-life situation. 
-
-Six of ten users did not find the relevant BDD info on VA.gov. The users that did find it, did not feel confident that they would remember how to get back to this page. Locating the BDD information on VA.gov seemed arbitrary, and users felt that the info was buried and too hard to find. 
-
-
 ## Details of Findings
 
 **1. Previous experience with filing a BDD claim**
  - Four users had heard about the BDD program and would use it if available.  One users said: "My life would've been much different if I had" (... been able to file a BDD). All users see clear value in being able to file a BDD claim online.
  - Two users had filed a BDD claim before. One user had a good experience with a VSO and filed a BDD claim successfully. The hardest part of the process for him, was a lack of visibility and updates. It was hard to figure out what paperwork he needed, and get enough info/updates about the process from VA. 
- - One user had a bad experience. The VSO did not want to file the claim for him, as they had “too many returns” of BDD  applications. There was also a problem with location. One VSO told him he needed to file the BDD claim in the location he was going to be. The user did not get the help he needed.  
+ - The other user had a bad experience using a VSO. The VSO did not want to file the claim for him, as they had “too many returns” of BDD applications. There was also a problem with location. One VSO told him he needed to file the BDD claim in the location where he was going to be after discharge. The user did not get the help he needed.  
 
  **2. How do users expect to get to, or try to find info about BDD on VA.gov?**
  - Six users did not find the BDD info page. The three users that did find it, did not seem confident that they would remember where to go the next time. 
