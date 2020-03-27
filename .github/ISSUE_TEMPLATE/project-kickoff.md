@@ -2,7 +2,7 @@
 name: Project Kickoff
 about: Request to Schedule a Project Kickoff 
 title: Project Kickoff [Feature-Name]
-labels: product support, content-ia-team
+labels: product support, content-ia-team, collaboration-cycle
 assignees: andreahewitt-odd, meganhkelley
 
 ---
