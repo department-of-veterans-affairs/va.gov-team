@@ -99,12 +99,10 @@ Several users find the page “Details about your condition” unnecessary.
  - A few users think the questions about Additional benefits and additional aid are unnecessary at this stage of the process and suggest that they be optional.  
   - Several users think they should also get a text or email about receiving a phone call (and from what number) for a claim exam (one user said won’t answer any unknown numbers due to all the phishing attempts going on.) 
 
-
 **What do veterans think will happen after the form is submitted?**
  - They think they will receive a phone call about having their claim exam. (They hope that they also receive a mail or a text about this).  
  - Users hope to get an email confirmation about VA having received their claim submission. 
  - Users would like to see some sort of time estimation for their BDD claim. 
-
 
 ## Additional Insights
  - One users suggested that the VA homepage should have a fifth tile for Service Members that are about to separate: “I am about to separate - what should I do now?” 
@@ -122,10 +120,10 @@ Several users find the page “Details about your condition” unnecessary.
 - Consider possibility for an email confirmation after completing the BDD form.
 - Consider adding a print button on the last (Submission) page. 
 - Consider adding a note about the security level regarding: uploading medical records and Bank account info. 
-- Consider providig users with an approximate time estimation for BDD claims in general.
-- Expose info under the drop down: "What if I don't know the name of my condition" in an info box.    
+- Consider providing users with an approximate time estimation for BDD claims in general.
+- Expose in drop down: "What if I don't know the name of my condition" on New conditions page.    
 - Consider removing the Upload evidence page entirely.
-- Remove questions about Additional benefits and additional aid, or at least make these questions an option to check if relevant for the user. 
+- Remove questions about Additional benefits and additional aid, or make these an option to check if relevant. 
 
 ## Next Steps
 - We will make the recommended changes to the prototype (depending on the specific feedback from the stakeholders), code it into VA.gov staging area and do a second round of usability testing in mid-April 2020. 
