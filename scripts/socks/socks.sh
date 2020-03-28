@@ -4,12 +4,14 @@
 # `./socks.sh off` will terminate the socks connection
 # `./socks.sh` with no arguments will echo the current status of socks
 # You can alias this script by adding `alias socks='/path/to/socks.sh'` to your `~/.bashrc` or `~/.zshrc` file.
-# Override the default location of keyfile by setting VA_SOCKS_KEYFILE
+# Override the default location of keyfile by setting VA_SOCKS_KEYFILE environment variable
+# Override the default network (Wi-Fi) by setting SOCKS_NETWORK environment variable
 # Note: Only tested on OSX; Requires Ruby >= 1.9
 set -o errexit
+set -o nounset
 # set -x
 
-NETWORK="Wi-Fi"
+SOCKS_NETWORK=${SOCKS_NETWORK:-"Wi-Fi"}
 IP="127.0.0.1"
 WEB_PORT=2001
 AUTOCONFIG_PORT=9500
@@ -28,15 +30,15 @@ function turn_system_proxy_on {
     eval $webserver_start_cmd &> /dev/null & disown;
 
     echo "Setting Mac proxy settings";
-    networksetup -setautoproxyurl       ${NETWORK} "http://localhost:${AUTOCONFIG_PORT}/proxy.pac";
-    networksetup -setautoproxystate     ${NETWORK} on;
-    networksetup -setproxyautodiscovery ${NETWORK} off;
+    networksetup -setautoproxyurl       "${SOCKS_NETWORK}" "http://localhost:${AUTOCONFIG_PORT}/proxy.pac";
+    networksetup -setautoproxystate     "${SOCKS_NETWORK}" on;
+    networksetup -setproxyautodiscovery "${SOCKS_NETWORK}" off;
 }
 
 function turn_system_proxy_off {
     echo "Clearing Mac proxy settings.";
-    networksetup -setautoproxystate     ${NETWORK} off;
-    networksetup -setproxyautodiscovery ${NETWORK} on;
+    networksetup -setautoproxystate     "${SOCKS_NETWORK}" off;
+    networksetup -setproxyautodiscovery "${SOCKS_NETWORK}" on;
 
     echo "Stopping proxy.pac webserver"
     webserver_kill_cmd="pkill -f \"$webserver_start_cmd\"";
