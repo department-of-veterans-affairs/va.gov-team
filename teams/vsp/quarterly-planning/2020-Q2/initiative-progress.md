@@ -1,4 +1,4 @@
-#Milestones
+# Milestones
 
 We did a Discovery Sprint on:
 - Infrastructure Overhaul
@@ -31,6 +31,12 @@ And we launched:
 - VFS user journey map + pain points workshops
 - VA.gov test users consolidation thingy
 - V2 review instances
+- VFS Code Owners initiative
+
+Upgrades
+- Ruby
+- Grafana
+- Postgres
 - 
 
 New documents:
