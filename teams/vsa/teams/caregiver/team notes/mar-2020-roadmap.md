@@ -21,7 +21,7 @@
 | May 27 | Dry Run Release
 | May 29 | Phase 0 dark release (proof of concept)|
 | June 1 | Full Accessibility and 508 Office Audit |
- * risk - this is still in progress, and could take more than 2 weeks to reach agreement
+ * `*` risk - this is still in progress, and could take more than 2 weeks to reach agreement
 
 
 
