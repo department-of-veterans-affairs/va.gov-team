@@ -19,7 +19,7 @@
 - Open VA.gov in a tab
 - Open Mobile prototype in another tab (https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
 - Open Desktop prototype in another tab (https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
-- Open old profile (need to add) to show at the end
+- Open old profile (in staging) to show at the end
 
 ## Intro
 
