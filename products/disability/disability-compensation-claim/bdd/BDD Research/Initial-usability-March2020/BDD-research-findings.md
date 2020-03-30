@@ -51,7 +51,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - A couple of participants have security concerns about uploading private medical records.
  - Several participants think the option to upload Service treatment records is not necessary (as VA will access these automatically in claim cases).
  - Several participants would like an email confirmation after completing the form, and a print button on the last (Submission) page.
-Several participants expect few updates and a lack of visibility into the VA claim process.
+6. Several participants expect few updates and a lack of visibility into the VA claim process.
 
 
 ## Details of Findings
@@ -76,9 +76,8 @@ Several participants expect few updates and a lack of visibility into the VA cla
  - A few users think they might have navigated away from this page by clicking in the left menu or on other links, before looking below the fold, potentially missing the call-to-action button.
  - When the users find the gating questions, they have no problem going through these.
   
-
 **5. Some steps of the form flow itself caused confusion, including: **
- - a. Participants are confused by seeing a blue and a green Sign-in button on the BDD introduction page: “Do they do the same thing?” . 
+ -- a. Participants are confused by seeing a blue and a green Sign-in button on the BDD introduction page: “Do they do the same thing?” . 
  - The BDD introduction page has a blue Sign-in button inside an info box (about the sign-in state) and a green Sign-in button right below this. This creates unnecessary hesitation/confusion in participants, as they are not sure if these two buttons will do the same thing or not. 
  
  **Are the steps clearly defined or self-explanatory, and does the user organically move from step to step?**
