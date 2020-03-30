@@ -6,7 +6,7 @@ COVID-19 is creating hot spots throughout the country. These hot spots put a str
 
 As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from the VA. 
 
-As a VA facility located in a COVID-19 hopspot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or allievate need for in-person evaluation this is creating operational bottlenecks. 
+As a VA facility located in a COVID-19 hot spot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or alleviate need for in-person evaluation this is creating operational bottlenecks.
 
 ## Goal:
 - Understand how Veterans would seek out immediate COVID-19 evaluation/care
