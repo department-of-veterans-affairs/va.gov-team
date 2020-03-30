@@ -77,19 +77,19 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - When the users find the gating questions, they have no problem going through these.
   
 **5. Some steps of the form flow itself caused confusion, including:**
- a. The BDD introduction page has a blue Sign-in button inside an info box and a green Sign-in button right below this. This creates unnecessary hesitation/confusion in participants, as they are not sure if these two buttons will do the same thing or not.
+ - a.The BDD introduction page has a blue Sign-in button inside an info box and a green Sign-in button right below this. This creates unnecessary hesitation/confusion in participants, as they are not sure if these two buttons will do the same thing or not.
  
- - b. Several participants would prefer to add all their new conditions at the same time, and then be asked about details for each of these. Participants think this will be more efficient and more logical (this is also the format used in the "New Claims" flow).  
+ - b.Several participants would prefer to add all their new conditions at the same time, and then be asked about details for each of these. Participants think this will be more efficient and more logical (this is also the format used in the "New Claims" flow).  
 
- - c. Several participants found the pages “Details about your condition” unnecessary. For every new condition, in this prototype, we inform the participants that on the next few pages we will ask for “Details about your condition”. Participants find this step completely superfluous.
+ - c.Several participants found the pages “Details about your condition” unnecessary. For every new condition, in this prototype, we inform the participants that on the next few pages we will ask for “Details about your condition”. Participants find this step completely superfluous.
 
- - d. A couple of participants want to select & upload many documents at once (one-click) on the "Upload evidence" page. They argue that most Service Members have a lot of documents, making it very time consuming to upload one file at a time.
+ - d.A couple of participants want to select & upload many documents at once (one-click) on the "Upload evidence" page. They argue that most Service Members have a lot of documents, making it very time consuming to upload one file at a time.
 
- - e. A couple of participants have some security concerns about uploading private medical records. A few participants are asking for information about the security level, such as a security certificate/emblem, regarding providing private medical records and Bank account information. 
+ - e.A couple of participants have some security concerns about uploading private medical records. A few participants are asking for information about the security level, such as a security certificate/emblem, regarding providing private medical records and Bank account information. 
  
- - f. Several participants think the option to upload Service treatment records is not necessary as VA will access these automatically in all claim cases. VA will always include the service records, private medical records can more efficiently be handled by VA, and layman statements are not necessary in most cases.
+ - f.Several participants think the option to upload Service treatment records is not necessary as VA will access these automatically in all claim cases. VA will always include the service records, private medical records can more efficiently be handled by VA, and layman statements are not necessary in most cases.
 
- -- g. Several participants would like an email confirmation after completing the form, so they know it went through correctly. Participants have experienced problems printing from within a web browser, so they want a print button on the last (Submission) page, to ensure all info is being printed out correctly. Participants do appreciate the tracking option on this page. Participants would like to see some sort of time estimation for their BDD claim.
+ -- g.Several participants would like an email confirmation after completing the form, so they know it went through correctly. Participants have experienced problems printing from within a web browser, so they want a print button on the last (Submission) page, to ensure all info is being printed out correctly. Participants do appreciate the tracking option on this page. 
 
 **6. Several participants expect few updates and a lack of visibility into the VA claim process.**
 Participants don't think there will be good visibility into their claim process. They think VA will only get in contact when they need info/records, and then get in touch again, when the claim is processed and their decision is made.
@@ -108,6 +108,7 @@ Participants don't think there will be good visibility into their claim process.
 - Several users want to see the info under the drop down link: "What if I don't know the name of my condition?" on the New conditions page expanded, as they find this information important, and they don't want to miss it.
 - A couple of users asked for a claim number at the end of the flow.
 - One user argues that most Service Members will have so many documents to file, that they will actually need help from a VSO in order to submit correctly.
+- Participants would like to see some sort of time estimation for their BDD claim.
 - Several users think they would use a VSO for a BDD process.
 
 
