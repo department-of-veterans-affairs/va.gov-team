@@ -28,6 +28,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Claim and Appeal Status](#claim-and-appeal-status)
       - [HCA Dashboard Notifications](#hca-dashboard-notifications)
       - [Apply for Pre-need Burial](#apply-for-pre-need-burial)
+      - [VA Letters](#va-letters)
+      - [Pensions](#pensions)
     - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
       - [Rated Disabilities](#rated-disabilities)
@@ -39,6 +41,11 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Edu 1990e](#edu-1990e)
       - [Edu 1990n](#edu-1990n)
       - [Education 1995 STEM Update](#education-1995-stem-update)
+      - [Edu 0993](#edu-0993)
+      - [Edu 0994](#edu-0994)
+      - [Edu 1995](#edu-1995)
+      - [Edu 5495](#edu-5495)
+      - [Apply Wizard](#apply-wizard)
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
       - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
@@ -243,6 +250,10 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
 
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in hca end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7384)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
 ---
 
 #### Apply for Pre-need Burial
@@ -259,6 +270,23 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [Sitewide Issue #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+- [[CI/CD]: Review coverage of accessibility checks in pre-need end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7404)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### VA Letters
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in VA letters end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7385)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Pensions
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in pensions end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7403)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -267,8 +295,6 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
---- [Table of Contents](#table-of-contents)
 
 ---
 
@@ -319,6 +345,7 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [[CI/CD]: Review coverage of accessibility checks in EDU feedback-tool end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7349)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -361,6 +388,46 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+#### Edu 0993
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Edu 0994
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Edu 1995
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Edu 5495
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Apply Wizard
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in EDU apply-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7350)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
 ### VSA Facility Locator
 
 #### General Issues
@@ -373,6 +440,7 @@ Each application or logical section of the site will have a heading and a detail
 - [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[MOBILE, ZOOM]: At 400%, content does not fit in screen view responsively](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[CI/CD]: Review coverage of accessibility checks in facility-locator end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7358)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 **Audit Status:** Issues logged by auditor in July 2019<br/>
@@ -516,6 +584,7 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
   **Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+- [[CI/CD]: Review coverage of accessibility checks in GIBCT feedback-tool end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7373)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -613,5 +682,3 @@ Add another link to the [Table of Contents](#table-of-contents). This is an impo
 
 - _Create a link from the issue title and issue number. Use the format `Issue Title - # Issue Number`_ <br/>
   **Opened:** _Date issue ticket was written_ | **Severity:** _Issue severity based on the [accessibility defect rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md)_
-
---- [Table of Contents](#table-of-contents)
