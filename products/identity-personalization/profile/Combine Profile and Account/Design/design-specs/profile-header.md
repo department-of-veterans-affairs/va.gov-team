@@ -4,7 +4,7 @@
 
 - **Invision prototype [Desktop]( https://vsateams.invisionapp.com/share/FJW9OGY2B9A) 
 - **Invision protoype [Mobile](https://vsateams.invisionapp.com/share/34WJ8JOCMAB) 
-- Github design issue:[N/A](insert URL)
+- Github design issue:[N/A]
 - Github front-end issue:[#5350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5350)
 - Badges:[#6328](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6328)
 
