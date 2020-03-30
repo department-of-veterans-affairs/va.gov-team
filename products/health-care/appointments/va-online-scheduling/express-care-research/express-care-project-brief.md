@@ -11,11 +11,11 @@ The problem we are focused on is: understanding when, why, and how a Veteran see
 ## Problem Statement:
 Veterans have medical needs that may either be resolved without an in-person appointment and/or want guidance about how seek additional care for a medical concern, yet may not demand a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medical professional *today*.
 
-Currently, "Express Care" is a vehicle/care option by which the VA can provide immediate, same day evaluation via VA Video Connect (or telehealth appointment). 
+Currently, "Express Care" is a care option developed by VA for immediate, same day evaluation via VA Video Connect (VA's proprietary telehealth platform). However, Express Care is not utilized by VA providers or patients and we believe the business rules in place prevent this platform from being a preferred option by providers and patients, alike.
 
-Additionally, given the recent COVID-19 pandemic, there is an urgent need to give Veterans fast access to care and evaluation via telehealth either as an alternative to in office, face-to-face visits or as a mechanism for screening patients who suspect they have COVID-19. 
+This problem may also be a subset to a larger problem statement - Veterans have access to various types of care which can make it difficult to understand what kind of care to access and how to access it. This is especially true when considering the different VA digital access points to accessing care.
 
-This problem may be a subset to a larger problem statement - Veterans have acess to various types of care which can make it difficult to understand what kind of care to access and how to access it. This is especially true when considering the different VA digital access points to accessing care. 
+Additionally, with the recent outbreak of the COVID-19 pandemic, there is an urgent need to give Veterans fast, safe access to care and evaluation via telehealth either as an alternative to in office, face-to-face visits. The VAOS team believes Express Care can serve as a tool to facilitate immediate access to remote medical care as well as provide VA providers a remote mechanism for screening patients who suspect they have COVID-19.
 
 ## Goal:
 We want to perform usability research with Veterans to learn more about:
