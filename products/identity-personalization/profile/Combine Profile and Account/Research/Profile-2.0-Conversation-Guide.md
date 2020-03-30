@@ -73,13 +73,13 @@ Alright, just a reminder - you are trying to update your mailing address.
 2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address. 
 - I noticed you got to the form to change your address from (*homepage*) or (*through the profile*) why did you go there?
 - Was it easy or hard to find where to edit your personal information?
-- Do you feel like you saw all of your personal information represented?
+- Take a look at the 'personal information' section: what information would you expect us to see here? Is anything missing?
 - Did you feel like it was easy or hard to edit your mailing address overall?
-- What are your thoughts on having mailing address and home address?
+- Why do you think we show a mailing address and home address?
 - Is it clear to you what parts of the page are editable?
 - Did that exercise make sense to you?
 
-3. Great, from here, could you show me how you would see what bank account you have connected to your VA profile?
+3. Great, from here, could you double check that any payments that you might recieve from the VA are going to get to you?
 - Why did you go to (*selected navigation*)?
 - Did that make sense to you?
 - Was anything confusing?
@@ -91,7 +91,7 @@ Alright, just a reminder - you are trying to update your mailing address.
 - Account Security
 - Connected Apps
 
-5. Go ahead and click into 'Account Security' and scroll through.
+5. Go ahead and click on Account Security and look over this section.
 - Does this section match your expectations? 
 - Why?
 
@@ -146,9 +146,6 @@ Okay, we're going to switch gears and take a look at the desktop view.  We will 
 
 2. Great, from here, could you show me how you'd edit the email address you use to log into VA.gov?
 - Do you understand why you need to go to an outside page to edit your email address? 
-
-3. Without clicking on it, what would you expect to be in the 'Account Security' section?
-- Go ahead and click on it and look over this section.  Does this match your expectations? Why? 
 
 Follow up Questions:
 
