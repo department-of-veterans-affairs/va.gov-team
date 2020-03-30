@@ -10,7 +10,6 @@
     https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/ 
 - Process Updates
   - Socks proxy accesss 
-- New Documentation (links)
 - Release Notes (links)
 
 
