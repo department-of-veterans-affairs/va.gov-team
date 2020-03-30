@@ -20,7 +20,7 @@ Now that BAH has implemented DEPO's new Caution Flag pattern into the Search Res
 
 [GIBCT Caution Flags SRP-Profile v0.0 - Desktop](https://bahdigital.invisionapp.com/share/AGIACXL4ZJB)  
 [GIBCT Caution Flags SRP-Profile v0.1 - Desktop](https://bahdigital.invisionapp.com/share/Z5IACZP4RVQ)  
-[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 2](https://bahdigital.invisionapp.com/share/ZMIAD3IFE2D)  
-[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 3/4](https://bahdigital.invisionapp.com/share/NCIAD3HABU7)    
-[CT Caution Flags SRP-Profile v0.2 - Desktop](https://bahdigital.invisionapp.com/share/EYIADACT3Z8)      
-[CT Caution Flags SRP-Profile v0.2 - Desktop for Developers](https://bahdigital.invisionapp.com/share/N5IAD8MHTC9)  
+[GIBCT Caution Flags SRP-Profile v0.1 for Testing - Scen 2](https://bahdigital.invisionapp.com/share/ZMIAD3IFE2D)  
+[GIBCT Caution Flags SRP-Profile v0.1 for Testing - Scen 3/4](https://bahdigital.invisionapp.com/share/NCIAD3HABU7)    
+[GIBCT Caution Flags SRP-Profile v0.2 - Desktop](https://bahdigital.invisionapp.com/share/EYIADACT3Z8)      
+[GIBCT Caution Flags SRP-Profile v0.2 - Desktop for Developers](https://bahdigital.invisionapp.com/share/N5IAD8MHTC9)  
