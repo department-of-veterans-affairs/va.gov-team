@@ -1,19 +1,19 @@
-**# Self-Service Product Guide Template** 
+**#Self-Service Product Guide Template** 
 
 The purpose of this template is for VSF teams to be aware of all pertinent information that is needed for product guides to be sent to Contact Centers.  
 
-**## Product Overview:**
+**##Product Overview:**
 - This is a brief description of the product
 
 **##User Access:**
 - Who can access this application
 
-**## Navigation:**
+**##Navigation:**
 - Include wizards
 - Include URL and screenshots of where the application can be found on the VA.gov homepage.
 - Include additional links/URLs and/or screenshots of other locations where this application can be accessed.
 
-**## Functionality:**
+**##Functionality:**
 - This is the information that will detail the page to show what you have access to:
      - NOT being signed in
      - Being signed into a LOA1 account
@@ -31,7 +31,7 @@ The purpose of this template is for VSF teams to be aware of all pertinent infor
 - Include screenshots to show details of known quick fixes or work-arounds
 - Include instructions
 
-**##Specifics:**
+**## Specifics:**
 - If your product is unique or has specific criteria, please include all details as well as screenshots with instructions.  This can    include, but is not limited to:
      - Application Information
      - Benefit Eligibility
