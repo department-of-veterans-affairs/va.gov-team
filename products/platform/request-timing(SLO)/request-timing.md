@@ -128,6 +128,27 @@ SLOs are currently undefined for external service request times. It was decided 
 
 Request Time percentile information will be a useful metric to report on as well. Ex: 90% of request times are below 300ms with 10% being above 300ms 
 
+### Types of Indicators
+In order to know if a given SLO was achieved for a given time range, we must define a technical specification of the metric we want to track - this specification is called the service level indicator (SLI)
+
+* Availability   
+**Proportion of requests that result in a successful response**
+    * How Many requests were made, and what percentage of those requests were not 5xx level responses? 
+
+* Latency   
+**Proportion of valid requests served faster than the acceptable threshold**
+    * What makes this request valid?
+    * What makes this request fast enough?
+        * Proportion of requests faster than 10000ms,
+        * Proportion of requests faster than 5000ms,
+        * Proportion of requests faster than 500ms
+
+* Quality   
+**The proportion of requests that provided undergraded responses, but not explicit errors**
+    * Is the service degraded but semi functional?
+    * What's the error state like? "skipped" request due to breakers outage?
+    * Consider the request undergraded if the user cannot login but request returns 2xx?
+
 #### Downstream Service Average HTTP Request Time
 Last 7 days (Recorded on 12-27-2019):
 * Appeals - 1.4s
