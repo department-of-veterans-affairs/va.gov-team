@@ -77,9 +77,9 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - When the users find the gating questions, they have no problem going through these.
   
 **5. Some steps of the form flow itself caused confusion, including:**
- - a: The BDD introduction page has a blue Sign-in button inside an info box and a green Sign-in button right below this. This creates unnecessary hesitation/confusion in participants, as they are not sure if these two buttons will do the same thing or not.
+   a: The BDD introduction page has a blue Sign-in button inside an info box and a green Sign-in button right below this. This creates unnecessary hesitation/confusion in participants, as they are not sure if these two buttons will do the same thing or not.
  
- - b: Several participants would prefer to add all their new conditions at the same time, and then be asked about details for each of these. Participants think this will be more efficient and more logical (this is also the format used in the "New Claims" flow).  
+   b: Several participants would prefer to add all their new conditions at the same time, and then be asked about details for each of these. Participants think this will be more efficient and more logical (this is also the format used in the "New Claims" flow).  
 
  - c: Several participants found the pages “Details about your condition” unnecessary. For every new condition, in this prototype, we inform the participants that on the next few pages we will ask for “Details about your condition”. Participants find this step completely superfluous.
 
