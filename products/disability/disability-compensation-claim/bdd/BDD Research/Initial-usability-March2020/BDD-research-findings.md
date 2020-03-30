@@ -58,27 +58,27 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - Six of ten users did not find any BDD info. The three users that did find it, did not seem confident that they would remember where to go next time to find it. Navigating to this information seemed to happen in an arbitrary fashion.  
  -  A couple of users used the search bar and searched for BDD and found the link "Pre-discharge claim", but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
  - A couple of users overlooked the link "Pre-discharge Claim" because they were looking for other words/terms.
- - Users also tried to find info about the BDD program under: "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". And a few users looked for the info further down on the page, for example under "Service Member Benefits". Overall the BDD info is too hard to find. 
+ - Users tried to find info about the BDD program under: "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". And a few users looked for the info further down on the page, for example under "Service Member Benefits". Overall the BDD info is too hard to find. 
  
-**Task 2: "Imagine that you’ve found the correct program and the correct form on VA.gov, and you now want to file a claim for a neck sprain issue and Tinnitus (ringing in the ear). How would you go about doing this?"**
- - On the gating page ("How to file a VA disability claim") some users seem unsure about where to go, possibly due to: 1. The amount of info/text on the page. 2. The call-to-action button is below the fold. 3. The lack of terms on this Content page that correspond with the BDD program.  
-  - All users eventually found the call-to-action button, but a few users think they would have navigated away from this page by clicking in the left menu or on other links, before looking below the fold, potentially missing the call-to-action button.
+**Task 2: "Imagine that you’ve found the correct program and form on VA.gov, and you want to file a claim. How would you go about doing this?"**
+ - On the gating page ("How to file a VA disability claim") some users seem unsure about where to go, possibly due to: 1. The large amount of info/text on the page. 2. The call-to-action button is below the fold. 3. The lack of terms on the Content page that correspond with the BDD program.  
+ - All users eventually found the call-to-action button, but a few users think they might have navigated away from this page by clicking in the left menu or on other links, before looking below the fold, potentially missing the call-to-action button.
+ - Several users would like the section "Can I file a claim online?" and the call-to-action button, to be more prominent.
 
 **What usability issues and pain points exist in the BDD flow?**
- - Several users would like the section "Can I file a claim online?" and the call-to-action button to be more prominent.
- - When users get to the BDD introduction page, they are confused by seeing a blue and a green Sign in button. “Do these two buttons do the same thing?”
-  - Several users prefer to add all new conditions they want to claim on the same page, and then be asked about the details for each (this is also the format used in the "New Claims" flow).
-  - A couple of users would like to be able to select and upload many documents at once (one-click upload).
+ - When users get to the BDD introduction page, they are confused by seeing a blue and a green Sign-in button. “Do these buttons do the same thing?”
+  - Several users prefer to add all their new conditions simultanously, on the same page, and then be asked about the details for each (this is also the format used in the "New Claims" flow).
+  - A couple of users would like to be able to select and upload many documents at once (one-click upload). They argue that most Service Members have a lot of documents, making it hard to upload one file at a time. 
 
 **Are there any confusing steps, or ambiguous language in the flow?**
  - Several users find the page “Details about your condition” page completely unnecessary in the flow. 
- - Several users want to see the info under the drop down link: "What if I don't know the name of my condition", open on the page, as they find this information important, and they don't want to miss it.  
+ - Several users want to see the info under the drop down link: "What if I don't know the name of my condition?" on the New conditions page expanded, as they find this information important, and they don't want to miss it.  
  - Several users think the option to upload Service treatment records is not necessary as VA will access these automatically in all claim cases. 
  
  **Are the steps clearly defined or self-explanatory, and does the user organically move from step to step?**
- - Users seem most hesitant when on the Content page ("How to file a VA disability claim"), and when the users find the gating questions, they have no problem going through these. 
+ - Users seem most hesitant when on the Content page ("How to file a VA disability claim"). When the users find the gating questions, they have no problem going through these. 
  - Users found the BDD flow (after the gating questions) to be simple, straightforward, relatively short and efficient.  
- - When the users came to the actual BDD flow, they went through it fast, with little effort and confusion (one user went through the entire flow in approximately 5-6 minutes). The steps seem to be self-explanatory for the users. 
+ - The users mostly went through the BDD flow fast, with little effort and confusion (one user went through the entire flow in approximately 5-6 minutes). The steps seemed to be self-explanatory for the users. 
 
 **Are users missing any information in order to feel confident moving forward?**
  - When users click on the link ("Learn more about BDD"), they find this information helpful. They are fine with it opening in a new tab. 
