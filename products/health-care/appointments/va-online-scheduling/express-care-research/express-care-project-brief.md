@@ -9,7 +9,7 @@ The problem we are focused on is: understanding when, why, and how a Veteran see
  + would Veterans use an online method for receiving same day care / do Veterans know what services are available to them for same day care through VA
 
 ## Problem Statement:
-Some Veterans have a care need that could be resolved without an in-person appointment and/or requires immediate medical attention or guidance, yet doesn't demand a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medicial professional _today_. 
+Veterans have medical needs that may either be resolved without an in-person appointment and/or want guidance about how seek additional care for a medical concern, yet may not demand a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medical professional *today*.
 
 Currently, "Express Care" is a vehicle/care option by which the VA can provide immediate, same day evaluation via VA Video Connect (or telehealth appointment). 
 
