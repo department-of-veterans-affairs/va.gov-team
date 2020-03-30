@@ -14,14 +14,11 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VA Developer Portal](#va-developer-portal)
     - [Outreach and Events](#outreach-and-events)
       - [Open issues](#open-issues)
-    - [VSA Facility Locator](#vsa-facility-locator)
-      - [General Issues](#general-issues)
-      - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
-    - [VSA Public Websites](#vsa-public-websites)
-      - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
-      - [Disability Calculator](#disability-calculator)
-      - [Local Side Navigation](#local-side-navigation)
-      - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
+    - [VSA Authenticated Experience](#vsa-authenticated-experience)
+      - [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
+      - [Address Validation](#address-validation)
+      - [Profile Appointment Text Messages](#profile-appointment-text-messages)
+      - [Benefits Recommendations](#benefits-recommendations)
     - [VSA Benefits and Memorials](#vsa-benefits-and-memorials)
       - [526v2 All Claims](#526v2-all-claims)
       - [996](#996)
@@ -31,11 +28,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Claim and Appeal Status](#claim-and-appeal-status)
       - [HCA Dashboard Notifications](#hca-dashboard-notifications)
       - [Apply for Pre-need Burial](#apply-for-pre-need-burial)
-    - [VSA Authenticated Experience](#vsa-authenticated-experience)
-      - [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
-      - [Address Validation](#address-validation)
-      - [Profile Appointment Text Messages](#profile-appointment-text-messages)
-      - [Benefits Recommendations](#benefits-recommendations)
     - [VSA Caregivers](#vsa-caregivers)
     - [VSA eBenefits](#vsa-ebenefits)
       - [Rated Disabilities](#rated-disabilities)
@@ -47,6 +39,14 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Edu 1990e](#edu-1990e)
       - [Edu 1990n](#edu-1990n)
       - [Education 1995 STEM Update](#education-1995-stem-update)
+    - [VSA Facility Locator](#vsa-facility-locator)
+      - [General Issues](#general-issues)
+      - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
+    - [VSA Public Websites](#vsa-public-websites)
+      - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
+      - [Disability Calculator](#disability-calculator)
+      - [Local Side Navigation](#local-side-navigation)
+      - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -132,6 +132,232 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[KEYBOARD]: Outreach materials - focus should be set on the number of results on pagination keypress or click - #981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/981)<br/>
   **Opened:** August 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+### VSA Authenticated Experience
+
+#### Profile Direct Deposit Feature
+
+**Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
+**No open issues**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22direct+deposit%22+label%3A508%2FAccessibility+is%3Aclosed)**
+
+---
+
+#### Address Validation
+
+**Audit Status:** Pre-launch 508 Review<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
+
+**Open Issues**
+
+- [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader(https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+
+- [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+---
+
+#### Profile Appointment Text Messages
+
+**Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+Text+Appointments+is%3Aclosed+)**
+
+---
+
+#### Benefits Recommendations
+
+**Audit Status:** Request sent to VA 508 office March 2019.<br/>
+
+**Open Issues** identified by VSP Product Support
+
+- [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
+  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+### VSA Benefits and Memorials
+
+#### 526v2 All Claims
+
+**Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A526+label%3A508%2FAccessibility+is%3Aclosed)**
+
+**Open Issues** identified by VA 508 office
+
+- [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [[CI/CD]: Review coverage of accessibility checks in 526EZ end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7314)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
+  **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
+
+---
+
+#### 996
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in 996 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7316)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+#### Discharge Wizard
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+#### 2346
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### 526 PTSD
+
+**Audit Status:** Audited January 2019<br/>
+**[781a PTSD form](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes)**
+
+**Open Issues**
+
+- [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #5190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5190)<br/>
+  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+#### Claim and Appeal Status
+
+**Audit Status:** Audited by VA 508 Office February 2019<br/>
+
+**Open Issues**
+
+- [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
+  **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [[CI/CD]: Review coverage of accessibility checks in Claims Status end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7313)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### HCA Dashboard Notifications
+
+**Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
+
+---
+
+#### Apply for Pre-need Burial
+
+**Audit Status:** Audited by VA 508 Office September 2018<br/>
+
+**Open Issues**
+
+- [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [Sitewide Issue #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [[SCREENREADER]: Headings should be nested appropriately for ease of navigation - #1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [Sitewide Issue #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+### VSA Caregivers
+
+**Open issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+--- [Table of Contents](#table-of-contents)
+
+---
+
+### VSA eBenefits
+
+#### Rated Disabilities
+
+**Audit Status:** Pre-launch 508 audit completed<br/>
+**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
+
+**Open Issues**
+
+- [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear - 4784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
+  **Opened:** January 13, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[SCREENREADER] Individual disabilities currently in individual `<dl>` would be improved in a single `<dl>` - 4637](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
+  **Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+#### 686 Form
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+### VFS Education
+
+#### Colmery Act Opt Out
+
+**Audit Status:** Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/>
+
+**Open Issues**
+
+- [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+
+---
+
+#### Education Feedback Tool
+
+**Audit Status:** Request sent to VA 508 office November 2018<br/>
+
+**Open Issues**
+
+- [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
+  **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
+  **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+
+---
+
+#### Edu 1990
+
+**Audit Status:** Completed June 2017<br/>
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Edu 1990e
+
+**Audit Status:** Completed June 2017<br/>
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Edu 1990n
+
+**Audit Status:** Completed June 2017<br/>
+
+**Open Issues**
+
+- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+---
+
+#### Education 1995 STEM Update
+
+**Audit Status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
+**No open issues**<br/>
+**[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aeducation+is%3Aclosed+label%3A508%2FAccessibility)**
 
 ---
 
@@ -256,232 +482,6 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
----
-
-### VSA Benefits and Memorials
-
-#### 526v2 All Claims
-
-**Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A526+label%3A508%2FAccessibility+is%3Aclosed)**
-
-**Open Issues** identified by VA 508 office
-
-- [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [[CI/CD]: Review coverage of accessibility checks in 526EZ end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7314)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-- [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-  **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
----
-
-#### 996
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in 996 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7316)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-#### Discharge Wizard
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-#### 2346
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-#### 526 PTSD
-
-**Audit Status:** Audited January 2019<br/>
-**[781a PTSD form](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes)**
-
-**Open Issues**
-
-- [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #5190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5190)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
----
-
-#### Claim and Appeal Status
-
-**Audit Status:** Audited by VA 508 Office February 2019<br/>
-
-**Open Issues**
-
-- [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[CI/CD]: Review coverage of accessibility checks in Claims Status end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7313)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-#### HCA Dashboard Notifications
-
-**Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
-
----
-
-#### Apply for Pre-need Burial
-
-**Audit Status:** Audited by VA 508 Office September 2018<br/>
-
-**Open Issues**
-
-- [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [Sitewide Issue #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: Headings should be nested appropriately for ease of navigation - #1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [Sitewide Issue #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
----
-
-### VSA Authenticated Experience
-
-#### Profile Direct Deposit Feature
-
-**Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
-**No open issues**<br/>
-**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22direct+deposit%22+label%3A508%2FAccessibility+is%3Aclosed)**
-
----
-
-#### Address Validation
-
-**Audit Status:** Pre-launch 508 Review<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
-
-**Open Issues**
-
-- [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader(https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
-
-- [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
-
----
-
-#### Profile Appointment Text Messages
-
-**Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
-**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+Text+Appointments+is%3Aclosed+)**
-
----
-
-#### Benefits Recommendations
-
-**Audit Status:** Request sent to VA 508 office March 2019.<br/>
-
-**Open Issues** identified by VSP Product Support
-
-- [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
----
-
-### VSA Caregivers
-
-**Open issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
---- [Table of Contents](#table-of-contents)
-
----
-
-### VSA eBenefits
-
-#### Rated Disabilities
-
-**Audit Status:** Pre-launch 508 audit completed<br/>
-**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
-
-**Open Issues**
-
-- [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear - 4784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
-  **Opened:** January 13, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER] Individual disabilities currently in individual `<dl>` would be improved in a single `<dl>` - 4637](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
-  **Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-
----
-
-#### 686 Form
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-### VFS Education
-
-#### Colmery Act Opt Out
-
-**Audit Status:** Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/>
-
-**Open Issues**
-
-- [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-
----
-
-#### Education Feedback Tool
-
-**Audit Status:** Request sent to VA 508 office November 2018<br/>
-
-**Open Issues**
-
-- [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
----
-
-#### Edu 1990
-
-**Audit Status:** Completed June 2017<br/>
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-#### Edu 1990e
-
-**Audit Status:** Completed June 2017<br/>
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-#### Edu 1990n
-
-**Audit Status:** Completed June 2017<br/>
-
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
----
-
-#### Education 1995 STEM Update
-
-**Audit Status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
-**No open issues**<br/>
-**[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**<br/>
-**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aeducation+is%3Aclosed+label%3A508%2FAccessibility)**
 
 ---
 
