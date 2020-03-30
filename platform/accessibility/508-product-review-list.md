@@ -492,21 +492,15 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
-* [CMS [ZOOM]: Content SHOULD not be cut off when zoomed to 400%](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6399)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-
 * [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 * [CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 * [CMS [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
-* [CMS [AXE-CORE Medium]: Heading levels SHOULD increase by one – "On this page" component header issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6338)<br/>**Production** | **Opened:** February 28, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-
 * [[COGNITION]: Content SHOULD not be cut off; IE11 accordion content is not flowing into columns](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6672)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 * [CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6507)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-
-* [[AXE-CORE]: Headings MUST not be empty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6371)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 * [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6339)<br/>**Production** | **Opened:** February 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
