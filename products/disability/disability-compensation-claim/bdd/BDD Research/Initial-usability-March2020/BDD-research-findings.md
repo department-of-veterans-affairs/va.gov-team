@@ -28,13 +28,13 @@ would expect they should go to file a BDD claim online (if it was available onli
 - Users ranged from very tech savvy (most of the users) to computer novice (1-2 users). 
 
 ### Research questions
-1. Previous expeience with filing a BDD claim.
-2. How do Service Members try to find info about BDD on VA.gov. How do users expect to get to the BDD flow?
-3. What usability issues and pain points exist in the BDD flow?
-4. Are there any confusing steps or ambiguous language in the flow? Are the steps self-explanatory and does the user organically move from step to step?
-5. Are users missing any information in order to feel confident moving forward?
-6. Are there other questions or concerns the user has while completing the BDD process?
-7. What do veterans think will happen after the BDD claim form is submitted online?
+- Previous expeience with filing a BDD claim.
+- How do Service Members try to find info about BDD on VA.gov. How do users expect to get to the BDD flow?
+- What usability issues and pain points exist in the BDD flow?
+- Are there any confusing steps or ambiguous language in the flow? Are the steps self-explanatory and does the user organically move from step to step?
+- Are users missing any information in order to feel confident moving forward?
+- Are there other questions or concerns the user has while completing the BDD process?
+- What do veterans think will happen after the BDD claim form is submitted online?
 
 ## Key Findings
 1. Four users had heard about the BDD program. Two users had filed before, with the help of VSO. All users see a clear value in being able to file a BDD claim online.
