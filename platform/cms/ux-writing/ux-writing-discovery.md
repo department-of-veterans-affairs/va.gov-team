@@ -47,17 +47,12 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 
 ## Personas, journey mapping, workflows
 
-*Understanding how vocabularies map to different personas and Drupal user roles*
+*Understanding how vocabularies map to different personas and Drupal user roles, and how that guides the CMS team's communication with users.*
 
-**CMS user experience**
+### CMS user experience
 
 *If the CMS was a customer support agent, how would we rate its conversational skills? How does the conversation need to change with different kinds of users?*
 
-- familiarity
-- relevance
-- ease
-- clarity
-- consistency
 
 ## Back end style guide
 
