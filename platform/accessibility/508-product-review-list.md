@@ -345,12 +345,8 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
+**No open issues**<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22direct+deposit%22+label%3A508%2FAccessibility+is%3Aclosed)**
-
-#### Open issues
-
-* [[COGNITION]: Direct Deposit - Consider revising the Call to Action UI for entering data - #1331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1331)<br/>
-**Opened:** August 27, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
 
