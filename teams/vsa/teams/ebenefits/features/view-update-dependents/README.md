@@ -130,14 +130,14 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 - KR1: Data shows that more 686 applications are being automatically approved within the Rules Based PRocessing Service; RBPS is automatically processing statistically significantly more 686 applications 
 - KR2: Data shows that the new 686 user experience within VA.gov results in a faster fill out time compared to the eBenefits portal
 
-**Objective 2:** Increased conversion rate of successful, automatically approved forms.
+**Objective 3:** Increased conversion rate of successful, automatically approved forms.
 - KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
 - KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
 
 ### Considerations
-1. Convert more through RBPS
-2. Enhance communication between form and Veteran
-3. Change structure to allow for minimal Veteran overhead/ impact
+**Objective 4:** Convert more through RBPS
+**Objective 5:** Enhance communication between form and Veteran
+**Objective 6:** Change structure to allow for minimal Veteran overhead/ impact
 
 
 ---
