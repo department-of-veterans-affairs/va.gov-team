@@ -56,7 +56,7 @@ Last updated February 19, 2020
 
 To provide Yellow Ribbon. (YR) participating school information as more user-friendly content than the current experience of 50+ manual table pages.  The current experience exists as it does today because there is no single source of Yellow Ribbon data.
 
-Our MVP will be a single-page application that leverages an existing API (GI Data Service) and allows users to search for YR schools based on relevant critera.
+Our MVP will be a single-page application that leverages an existing API (GI Data Service) and allows users to search for YR schools based on relevant criteria.
 
 ## User Problem Statement
 
