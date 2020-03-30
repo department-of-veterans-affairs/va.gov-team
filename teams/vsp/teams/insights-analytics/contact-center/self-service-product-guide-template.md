@@ -7,6 +7,7 @@ The purpose of this template is for VSF teams to be aware of all pertinent infor
 
 **##User Access:**
 - Who can access this application
+
 **## Navigation:**
 - Include wizards
 - Include URL and screenshots of where the application can be found on the VA.gov homepage.
@@ -32,11 +33,11 @@ The purpose of this template is for VSF teams to be aware of all pertinent infor
 
 **##Specifics:**
 - If your product is unique or has specific criteria, please include all details as well as screenshots with instructions.  This can    include, but is not limited to:
-- Application Information
-- Benefit Eligibility
-- Sponsor Information
-- Education History
-- Personal Information
-- Direct Deposit
-- Military History
+     - Application Information
+     - Benefit Eligibility
+     - Sponsor Information
+     - Education History
+     - Personal Information
+     - Direct Deposit
+     - Military History
  
