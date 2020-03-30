@@ -25,9 +25,8 @@ We want to perform usability research with Veterans to learn more about:
 
 ## Current Hypothesis:
 We believe there are two major hinderances to Express Care as a service for urgent/same-day appointments for Veteran patients:
- + Veterans can only see their PACT, if and *only if* their PACT makes availability during normal business hours
- + Veterans are unaware of Express Care as an option for scheduling an appointment, due to unavailability from providers
- + Veterans won't think to make an Express Care appointment the same way as other types of VA appointments because of the timeliness of the appointment
+ + Veterans only have access to Express Care if and when their PACT enables Express Care. Express Care is only an option if and *only if* their PACT enables Express Care *and* makes availability during normal business hours. As a result, Veterans are unaware of Express Care as an option for scheduling an appointment, due to unavailability from providers.
+ + Veterans don't think to make an Express Care appointment the same way as other types of VA appointments because of the timeliness of the appointment.
  
 For the purpose of this usability research, we aim to focus largely on solving for when Veterans would make and Express Care appointment and how they would do so. 
 
