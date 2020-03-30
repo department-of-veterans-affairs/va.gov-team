@@ -89,7 +89,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  
  - f: Several participants think the option to upload Service treatment records is not necessary as VA will access these automatically in all claim cases. VA will always include the service records, private medical records can more efficiently be handled by VA, and layman statements are not necessary in most cases.
 
- -- g: Several participants would like an email confirmation after completing the form, so they know it went through correctly. Participants have experienced problems printing from within a web browser, so they want a print button on the last (Submission) page, to ensure all info is being printed out correctly. Participants do appreciate the tracking option on this page. 
+ - g: Several participants would like an email confirmation after completing the form, so they know it went through correctly. Participants have experienced problems printing from within a web browser, so they want a print button on the last (Submission) page, to ensure all info is being printed out correctly. Participants do appreciate the tracking option on this page. 
 
 **6. Several participants expect few updates and a lack of visibility into the VA claim process.**
 Participants don't think there will be good visibility into their claim process. They think VA will only get in contact when they need info/records, and then get in touch again, when the claim is processed and their decision is made.
