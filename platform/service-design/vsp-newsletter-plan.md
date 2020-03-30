@@ -28,9 +28,8 @@
 
 - How do we organize so people can jump to a sections:
   - tools
-  - documentation
+  - processes
   - design system updates
-  - collaboration cycle (broader process stuff)
 
 - Branding
 
