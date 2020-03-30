@@ -14,6 +14,7 @@
 | April 21 | Frontend complete |
 | April 24 | Full accessibility review |
 | April 30 | Acumen endpoint delivery |
+| May 4 | VSP Contact Center Review |
 | May 15 | Backend complete |
 | May 18 | VSP Privacy and Security Review |
 | May 18 - May 22 | End-to-end testing with CARMA |
