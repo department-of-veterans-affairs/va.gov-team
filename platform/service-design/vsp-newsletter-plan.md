@@ -7,7 +7,7 @@
 - New Tools
   - Review instances: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md
   - Feature flags:
-    https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/ 
+    https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles
 - Process Updates
   - Socks proxy accesss 
 - Release Notes (links)
