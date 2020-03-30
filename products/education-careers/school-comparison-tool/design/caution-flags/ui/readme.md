@@ -18,9 +18,9 @@ DEPO is moving towards a singular, scalable approach to cards throughout VA.gov.
 
 Now that BAH has implemented DEPO's new Caution Flag pattern into the Search Results Page, we're focusing on improvements to the Caution Flags in the Institution Profile. Part of our work is also focused on continuing improvements for Caution Flags in the search. A major aspect of this work is language considerations, specifically making the Caution Flags plain language to improve comprehension with users.
 
-[GIBCT Caution Flags SRP-Profile v0.0 - Desktop](https://bahdigital.invisionapp.com/share/AGIACXL4ZJB) 
-[GIBCT Caution Flags SRP-Profile v0.1 - Desktop](https://bahdigital.invisionapp.com/share/Z5IACZP4RVQ)
-[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 2](https://bahdigital.invisionapp.com/share/ZMIAD3IFE2D)
-[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 3/4](https://bahdigital.invisionapp.com/share/NCIAD3HABU7)
-[CT Caution Flags SRP-Profile v0.2 - Desktop](https://bahdigital.invisionapp.com/share/EYIADACT3Z8)
-[CT Caution Flags SRP-Profile v0.2 - Desktop for Developers](https://bahdigital.invisionapp.com/share/N5IAD8MHTC9)
+[GIBCT Caution Flags SRP-Profile v0.0 - Desktop](https://bahdigital.invisionapp.com/share/AGIACXL4ZJB)  
+[GIBCT Caution Flags SRP-Profile v0.1 - Desktop](https://bahdigital.invisionapp.com/share/Z5IACZP4RVQ)  
+[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 2](https://bahdigital.invisionapp.com/share/ZMIAD3IFE2D)  
+[CT Caution Flags SRP-Profile v0.1 for Testing - Scen 3/4](https://bahdigital.invisionapp.com/share/NCIAD3HABU7) 
+[CT Caution Flags SRP-Profile v0.2 - Desktop](https://bahdigital.invisionapp.com/share/EYIADACT3Z8)  
+[CT Caution Flags SRP-Profile v0.2 - Desktop for Developers](https://bahdigital.invisionapp.com/share/N5IAD8MHTC9)  
