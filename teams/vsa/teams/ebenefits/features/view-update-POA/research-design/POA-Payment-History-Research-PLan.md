@@ -76,12 +76,12 @@ Perigeon will recruit the remote users <br>
 - **Need document completion date:** Conversation guided April 2nd
 
 ## Sessions
-- **Length of sessions:** 45m-1h
+- **Length of sessions:** 45m-1h <br>
 
-Availability: If applicable, when would you like sessions scheduled? 
-    - TBD
-    - (December 13, 9:30 am - 3:00 pm EST.  example text)
-    - _Note: Please leave a minimum of 30 minutes between sessions._
+Availability: If applicable, when would you like sessions scheduled? <br>
+- TBD
+- (December 13, 9:30 am - 3:00 pm EST.  example text)
+- _Note: Please leave a minimum of 30 minutes between sessions._
 
 Pilot: 
 - Date TBD
