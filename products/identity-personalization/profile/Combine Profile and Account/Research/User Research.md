@@ -67,16 +67,18 @@ Each session will be approximately 60 minutes.
 	
 ### Team Availability (EST)
 
+A pilot session will be held on April 1 sometime between 9 AM-2 PM EST
+Pilot participant: Erik Hansen, erik@adhocteam.us 
+
 Date | Time
 -----|-------
+April 1 |Pilot Session between 9 AM -2 PM 
 April 6 |11 AM - 6 PM
 April 7 |11 AM - 6 PM 
 April 8 |11 AM - 6 PM
 April 9 |11 AM - 6 PM
 April 10 |11 AM - 6 PM
 
-A pilot session will be held on April 1
-Pilot participant: Erik Hansen, erik@adhocteam.us 
 
 ## Team Roles
 
