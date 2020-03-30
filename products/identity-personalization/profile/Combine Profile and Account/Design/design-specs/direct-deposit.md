@@ -20,9 +20,10 @@ This section of the profile will show people's direct deposit information that w
 
 ![Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
 
+Here's specs for the table.
+
 ![Table Specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/table-specs.jpg)
 
-![Expanded Table Specs] ()
 
 ### Copy
 
@@ -62,6 +63,10 @@ These will use our current collapsible FAQ state. Also, copy is the same as what
 [Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216938_DD_2)
 
 ![Direct deposit_Edit in place](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit_edit%20in%20place.jpg)
+
+Here are specs for the edit-in-place.
+
+![Expanded Table Specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/edit-in-place-specs.jpg)
 
 ### Copy
 
@@ -155,6 +160,6 @@ We’re sorry.  Something went wrong on our end.  Please refresh this page or tr
 
 ### Design
 
-[Most up-to-date version on InVision]()
+[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
 
 ![Direct deposit_Mobile view](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit_Mobile%20view.jpg)
