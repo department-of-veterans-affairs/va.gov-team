@@ -125,6 +125,7 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)<br/>
 **Opened:** August 16, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+* [[CI/CD]: Review coverage of accessibility checks in disability-rating-calculator end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -146,6 +147,8 @@ Each application or logical section of the site will have a heading and a detail
 
 * [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+* [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[CI/CD]: Review coverage of accessibility checks in 526EZ end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7314)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
@@ -238,6 +241,7 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
 **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+* [[CI/CD]: Review coverage of accessibility checks in Claims Status end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7313)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -284,7 +288,9 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Completed June 2017<br/>
-**No open issues**
+
+#### Open Issues
+* [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -292,7 +298,9 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Completed June 2017<br/>
-**No open issues**
+
+#### Open Issues
+* [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -300,7 +308,9 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Completed June 2017<br/>
-**No open issues**
+
+#### Open Issues
+* [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
 
@@ -539,6 +549,48 @@ Each application or logical section of the site will have a heading and a detail
 
 ---  [Table of Contents](#table-of-contents)
 
+---
+
+### Caregivers
+
+**Maintainer:** _VSA Caregivers_<br/>
+
+#### Open issues
+
+* [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+
+--- [Table of Contents](#table-of-contents)
+
+---
+
+### eBenefits 686 Form
+
+**Maintainer:** _VSA eBenefits_<br/>
+
+#### Open issues
+
+* [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+
+--- [Table of Contents](#table-of-contents)
+
+---
+
+### VSA-Benefits Forms
+
+**Maintainer:** _VSA Benefits and Memorials_<br/>
+
+#### Open issues
+
+* [[CI/CD]: Review coverage of accessibility checks in 996 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7316)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+
+--- [Table of Contents](#table-of-contents)
+
+---
 
 ### New Project Name
 
