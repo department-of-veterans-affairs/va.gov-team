@@ -1,4 +1,4 @@
-# VSP Newsletter [draft]
+# VSP Newsletter v1.0 [draft]
 
 
 
