@@ -9,18 +9,20 @@
 ## Timeline
 | Date | Milestone |
 | --- | --- | 
-| April 10 | Design complete |
+| April 10 | Design complete (risk) |
 | April 14 | Analytics request |
 | April 21 | Frontend complete |
-| April 24 | Full accessibility review |
 | April 30 | Acumen endpoint delivery |
 | May 4 | VSP Contact Center Review |
 | May 15 | Backend complete |
 | May 18 | VSP Privacy and Security Review |
+| May 20 | VSP Staging Review |
 | May 18 - May 22 | End-to-end testing with CARMA |
-| May 20 | VSP Staging Review
 | May 27 | Dry Run Release
 | May 29 | Phase 0 dark release (proof of concept)|
+| June 1 | Full Accessibility and 508 Office Audit |
+
+
 
 
 ## Key
