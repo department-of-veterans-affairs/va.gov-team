@@ -81,15 +81,15 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - The users mostly went through the BDD flow fast, with little effort and confusion (one user went through the entire flow in approximately 5-6 minutes). The steps seemed to be self-explanatory for the users. 
 
 **Are users missing any information in order to feel confident moving forward?**
- - When users click on the link ("Learn more about BDD"), they find this information helpful. They are fine with it opening in a new tab. 
- - A couple of users have security concerns about uploading private medical records andBank account information onto this page.  
+ - When users click on the link ("Learn more about BDD"), they find this information helpful. They are fine with it opening in a new tab. One user felt this info (including the eligibility info) should be surfaced first in the BDD flow. 
  - A couple of users asked for a confirmation number or a claim number at the end of the flow. 
  - Several users would like an email confirmation after going through the BDD flow. 
  - Several users want a print button on the last (Submission) page. Users do appreciate the tracking option.
 
 **Are there other questions or concerns the user has while completing the BDD process?**
  - A couple of users think it is premature to ask for Bank info, as they have no idea if they will get any benefits. 
- - A few users think the questions about Additional benefits and additional aid are unnecessary at this stage of the process and suggest that they be optional.  
+ - A few users think the questions about Additional benefits and additional aid are unnecessary at this stage of the process and suggest that these be optional.  
+  - A couple of users have security concerns about uploading private medical records and Bank account information.  
   - Several users think they should also get a text or email about receiving a phone call (and from what number) for a claim exam (one user said won’t answer any unknown numbers due to all the phishing attempts going on.) 
 
 **What do veterans think will happen after the form is submitted?**
@@ -99,9 +99,9 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - Users do not think they will receive a lot of updates and visibility into the claim process. They think VA will only get in contact when they need info/records, and then get in touch again, when the claim is processed and their decision is made. 
 
 ## Additional Insights
- - One users suggested that the VA homepage should have a fifth tile for Service Members that are about to separate: “I am about to separate - what should I do now?” 
+ - One users suggested that the VA.gov homepage should have a fifth tile for Service Members that are about to separate: “I am about to separate - what should I do now?” 
  - One user believes that the text about supporting evidence requirements on the Content page could overwhelm/scare some users away.  
- - One user argue that many Service Members have so many documents that they will actually need help from a VSO in order to submit everything correctly. 
+ - One user argue that most Service Members have so many documents to file, that they will actually need help from a VSO in order to submit everything correctly. 
 - The "Upload evidence" page might not be necessary: Service treatment records are automatically included, private medical records could be handled by VA, and lay man statements are not necessary.
  - Most users think they would use a VSO for a BDD process. 
 
