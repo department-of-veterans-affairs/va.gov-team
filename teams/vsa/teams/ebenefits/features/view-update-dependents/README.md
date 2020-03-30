@@ -134,6 +134,11 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 - KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
 - KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
 
+### Considerations
+1. Convert more through RBPS
+2. Enhance communication between form and Veteran
+3. Change structure to allow for minimal Veteran overhead/ impact
+
 
 ---
 
