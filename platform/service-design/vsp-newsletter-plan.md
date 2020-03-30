@@ -1,18 +1,7 @@
 # VSP Newsletter v1.0 [draft]
-
-
-
-**MailChimp Account**
-https://us19.admin.mailchimp.com/campaigns/#t:campaigns-list
-
-email: naomi.marcussen@oddball.io
-
-username: teamvsp
-
-pass: T3amVSP2020! 
-
-
-
+ 
+ 
+ 
 ## What info to collect
 
 - New Tools
@@ -56,3 +45,12 @@ pass: T3amVSP2020!
 - Add to Documentation site once launched
 
   
+
+**MailChimp Account**
+https://us19.admin.mailchimp.com/campaigns/#t:campaigns-list
+
+email: naomi.marcussen@oddball.io
+
+username: teamvsp
+
+pass: T3amVSP2020!
