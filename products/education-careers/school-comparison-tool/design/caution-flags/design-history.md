@@ -1,5 +1,5 @@
 # GI Bill Comparison Tool Caution Flags 
-Link to product brief:  
+
 Designers: Amy Knox, Cindy Cruz, Theresa McMurdo
 
 ## Iteration 1 - Sprint 41
