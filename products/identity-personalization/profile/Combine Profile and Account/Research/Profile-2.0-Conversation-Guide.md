@@ -27,8 +27,8 @@ Thanks for joining us today! My name is Tressa and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 - 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. At some points we will be using the mobile version of the website for this study - so just use your mouse like you'd use your finger on a phone.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. At some points we will be using the mobile version of the website for this study - so just use your mouse like you'd use your finger on a phone. Also, all of these pages were made using a completely made up person with completely fake information. This will not affect your account or information in any way.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -48,7 +48,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 -  What do you typically do on Va.gov?
 3. Have you ever used VA.gov to update your personal information?
 - (if yes) Can you tell me about this experience?
+- Do you remember what forms you used?
 4. Are you currently recieving any benefits from the VA? Which ones?
+- Did you get these by applying through the website? When?
 5. Have you ever connected any outside apps to your VA health records? (*clarifier*) (For example, it's possible to connect your health app from your iphone to your VA health records.)
 
 ## Screenshare
@@ -60,17 +62,38 @@ Try to move a bit slower than you normally would on a website and talk me throug
 ## First Task: Wayfinding and profile navigation (Mobile View)
 
 **Scenario**
-1. You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address. 
+1. You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address.
 
-- Okay, since you will need to be logged-in for this task, we're going to use a prototype with fake information. (*send link*) Now you've found the location and landed on this page.
+- Okay, since you will need to be logged-in for this task, we're going to use a prototype with fake information and I'll send you the link. (*send link*) 
 
-2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address.
+- Now you've found the location and landed on this page. Just as a reminder - all of the information in this prototype is completely made up.  We will be logging in as 'Kim Washington' (who is completely fictional) today and if you could pretend to be her for these exercises, that would be great. 
 
-3. Great, could you show me how you'd edit the email address you use to log into VA.gov?
+Alright, just a reminder - you are trying to update your mailing address.
 
+2. (*On the Edit form*) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (*On the updated form*) OK, now you have entered a new address. 
+- I noticed you got to the form to change your address from (*homepage*) or (*through the profile*) why did you go there?
+- Was it easy or hard to find where to edit your personal information?
+- Do you feel like you saw all of your personal information represented?
+- Did you feel like it was easy or hard to edit your mailing address overall?
+- What are your thoughts on having mailing address and home address?
 - Is it clear to you what parts of the page are editable?
+- Did that exercise make sense to you?
 
-4. What is your impression of the personal information bar at the top of the page?
+3. Great, from here, could you show me how you would see what bank account you have connected to your VA profile?
+- Why did you go to (*selected navigation*)?
+- Did that make sense to you?
+- Was anything confusing?
+
+4. Could you go ahead and open the profile menu? Okay, without clicking into any of the sections - could you explain to me what you think each one might be used for?
+- Personal and Contact Information
+- Military Information
+- Direct Deposit
+- Account Security
+- Connected Apps
+
+5. Go ahead and click into 'Account Security' and scroll through.
+- Does this section match your expectations? 
+- Why?
 
 ### Things to watch for:
 
@@ -82,13 +105,18 @@ Try to move a bit slower than you normally would on a website and talk me throug
 
 Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with a non-VA doctor doctor. But now you've decided you want to remove the Health app's access to your VA records.   
 
-1. Could you walk me through how you would do that?
-(*Removes app*)
+(*Clarifiers*) - So you have an app on your phone that you've previously connected to VA.gov and now you want to remove that app from VA.gov.
+
+1. Could you walk me through how you would do that? (*Removes app*)
+- Why do you think it would live in (*selected*) section?
+- Do you know if your information from this app is completely removed from VA.gov?
+
 2. Was anything confusing to you in this process? 
 -(if yes) where would you look for answers?
 -(if no) imagine you did have concerns, where would you go for more information?
+
 3. How would you connect a different app to your VA health records?
-(if confused - add clarifiers): Have you used any non-VA apps to access your VA health records? or If you wanted to find new apps on your phone to use with VA.gov, where would you look?
+(if confused - add clarifiers): If you wanted to find new apps on your phone to use with VA.gov, where would you look?
 
 Alright, I have a few follow-up questions for you about this scenario:
 
@@ -108,33 +136,50 @@ Alright, I have a few follow-up questions for you about this scenario:
 Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again, so if you could return to your browser with VA.gov and expand the screen so you're viewing it how you'd normally look at it.
 
 (*From VA.gov homepage*)
-1. Okay, so for this scenario you'd now like to view your military information.  Could you double check that your service information looks correct?
+1. Okay, so for this scenario you'd now like to view your period of service in the military.  Could you double check that your service information looks correct?
 
--(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to the desktop protoype.  Again, this has all fake information.
+-(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to the desktop protoype.  Again, this has all fake information with a fake person - Kim Washington.
 
-2. From here, could you show me how you would see what bank account you have connected to your direct deposit information?
+- Do you understand what information on the page is editable?
+- Do you understand why you can't edit military information?
+- Was anything confusing?
 
-3. What would you expect to be in the 'Account Security' section?
+2. Great, from here, could you show me how you'd edit the email address you use to log into VA.gov?
+- Do you understand why you need to go to an outside page to edit your email address? 
+
+3. Without clicking on it, what would you expect to be in the 'Account Security' section?
+- Go ahead and click on it and look over this section.  Does this match your expectations? Why? 
+
+Follow up Questions:
+
+1. Was it easy or hard to find the pages you needed?
+2. Was anything confusing?
+3. Could you scroll up to the the dark grey box below the header with your name in it? What are your thoughts about this area?
 
 ### Things to watch for:
 
 - Does the overall desktop navigation make sense?
 - Is the user confused by any terminology?
+- Does the user understand the FAQ dropdowns?
 
 ## Fourth Task: Profile and Profile 2.0 Comparison
 
 I'm going to quickly show you a different version of the profile (moderator shares screen with previous profile).
 
-1. Do you remember if you ever used this version? If so, what did you do on here?
-2. Based on going through this flow, would you prefer to use the version we used today or this version? Why? How would this version be different?
+1. Do you remember if you ever used this version? 
+- (*if yes*) What did you do on here?
+- (*if no*) What are your thoughts on these pages vs the pages we looked at earlier?
+2. Based on going through this flow, would you prefer to use the version we used today or this version? 
+- Why? 
+- How would this version be different?
 
 
 ## Post-Task Interview 
 
 OK, those are all the screens we are going to look at today. I just have a few more questions for you.
 
-1. What are your overall impressions of the new va.gov profile we viewed today?
-2. What are your overall impressions of the desktop navigation?
+1. What are your overall impressions of the new VA.gov profile we viewed today?
+2. What are your overall impressions of navigating through the profile?
 3. Overall, how could we improve the VA profile?
 4. Any questions you have for me?
 
