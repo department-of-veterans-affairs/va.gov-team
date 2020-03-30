@@ -2,11 +2,11 @@
 Based on urgency to provide additional COVID-19 response coverage through digital channels, we need to re-focus Express care research to specifically solve for directing verteran to appropriate digital user flow for COVID-19 screening and care. 
 
 ## Problem Statement:
-COVID-19 is creating hot spots throughout the country. These hot spots put a strain on VA medicial facilities and staff as they try and field calls and screen patients. 
+COVID-19 is creating hot spots throughout the country. These hot spots put a strain on VA medical facilities and staff as they try and field calls and screen patients.
 
-As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from the VA. 
+As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from my VA doctor/PACT team.
 
-As a VA facility located in a COVID-19 hot spot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or alleviate need for in-person evaluation this is creating operational bottlenecks.
+As a VA facility located in a COVID-19 hot spot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or alleviate need for in-person evaluation this is creating operational bottlenecks. I want to do this by PACT.
 
 ## Goal:
 - Understand how Veterans would seek out immediate COVID-19 evaluation/care
