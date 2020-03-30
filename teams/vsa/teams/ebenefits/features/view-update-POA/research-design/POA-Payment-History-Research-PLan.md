@@ -46,10 +46,10 @@ Our goal is to conduct interviews:
  
 **Our hypothesis**   
 POA: Is the user will easily navigate through the wizard and efficiently locate, find, and select their representative but, the following issues may arise:
-- Clearly understanding the component shift from a wizard to a search feature back to a wizard.
-- Realizing whether or not the veteran rights have been legally “handed over.”
+- Clearly understanding the component's shift from a wizard to a search feature back to a wizard.
+- Realizing whether or not the veteran understands their rights have been legally “handed over.”
 
-PH: Is the veteran will have two principal ways they will use the tool.  First, expect features centered efficiently, searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
+PH: Is the veteran will have two principal ways they will use the tool.  First, expected features should be centered around efficiently searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
 
 ## Method
 **What method of research are you planning?** <br>
