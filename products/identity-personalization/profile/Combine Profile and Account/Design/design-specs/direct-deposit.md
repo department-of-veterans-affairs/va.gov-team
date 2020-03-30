@@ -20,6 +20,10 @@ This section of the profile will show people's direct deposit information that w
 
 ![Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
 
+![Table Specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/table-specs.jpg)
+
+![Expanded Table Specs] ()
+
 ### Copy
 
 To the best of my knowledge, all existing copy is the same as what we currently have in the direct deposit section on VA.gov.
