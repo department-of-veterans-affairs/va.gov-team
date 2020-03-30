@@ -44,8 +44,8 @@
 - Add to Documentation site once launched
 
   
-
-**MailChimp Account**
+  
+## MailChimp Account
 https://us19.admin.mailchimp.com/campaigns/#t:campaigns-list
 
 email: naomi.marcussen@oddball.io
