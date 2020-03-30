@@ -101,7 +101,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 ## Additional Insights
  - One users suggested that the VA.gov homepage should have a fifth tile for Service Members that are about to separate: “I am about to separate - what should I do now?” 
  - One user believes that the text about supporting evidence requirements on the Content page could overwhelm/scare some users away.  
- - One user argue that most Service Members have so many documents to file, that they will actually need help from a VSO in order to submit everything correctly. 
+ - One user argue that most Service Members will have so many documents to file, that they will actually need help from a VSO in order to submit everything correctly. 
 - The "Upload evidence" page might not be necessary: Service treatment records are automatically included, private medical records could be handled by VA, and lay man statements are not necessary.
  - Most users think they would use a VSO for a BDD process. 
 
@@ -112,12 +112,12 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 - Remove the green sign-in button on the top of the BDD introduction page. 
 - Allow users to add all their new conditions at once.   
 - Expose info in drop down: "What if I don't know the name of my condition" on the New conditions page.    
-- Allow users to select and upload many documents with one click.
+- Allow users to select and upload many documents simultanously with one click.
 - Remove the pages “Details about your condition”.
-- Consider adding a note about the security level regarding: uploading medical records and Bank account info. 
+- Consider adding a note about the security level regarding: uploading medical records and providing Bank account info. Consider moving Bank account info to end of flow and add a note about why its important to provide this info.
 - Consider removing the Upload evidence page entirely.
-- Remove questions about Additional benefits and additional aid, or make these an check box option. 
-- Consider possibility for an email confirmation after completing the BDD form.
+- Remove questions about Additional benefits and additional aid, or make these an option to check. 
+- Consider an automated email confirmation after completion of the BDD form.
 - Consider adding a print button on the last (Submission) page. 
 - Consider providing users with an approximate time estimation for BDD claims in general.
 
