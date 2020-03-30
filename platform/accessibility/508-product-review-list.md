@@ -529,8 +529,6 @@ Each application or logical section of the site will have a heading and a detail
 
 * [Sitewide, design system [AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
-* [[SCREENREADER]: Search results SHOULD include semantic context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7285)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-
 * [[SCREENREADER]: Upon Submit, focus MUST move to the context change notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7240)<br/>**Production** | **Opened:** March 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 * [[KEYBOARD, SCREENREADER]: Navigating by keyboard between the map and the search results MUST be intuitive with changes communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6897)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-3 — **_Minor_**
