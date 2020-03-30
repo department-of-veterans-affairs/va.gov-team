@@ -134,5 +134,5 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/notes
 
 ### Pages and applications used. 
-https://www.va.gov
+VA website:  https://www.va.gov
 BDD Prototype: https://vsateams.invisionapp.com/share/Z8W8ACWN3UG
