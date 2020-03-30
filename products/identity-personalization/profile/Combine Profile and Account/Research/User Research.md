@@ -62,20 +62,21 @@ Criteria for recruiting:
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
 ## Timeline 	
-This study will take place on March 31, April 1-3, 2020.
-Each session will be approximately 45 minutes.
+This study will take place on April 6-10, 2020.
+Each session will be approximately 60 minutes.
 	
 ### Team Availability (EST)
 
 Date | Time
 -----|-------
-March 31 |11 AM - 6 PM
-April 1 |11 AM - 6 PM 
-April 2 |11 AM - 6 PM
-April 3 |11 AM - 6 PM
+April 6 |11 AM - 6 PM
+April 7 |11 AM - 6 PM 
+April 8 |11 AM - 6 PM
+April 9 |11 AM - 6 PM
+April 10 |11 AM - 6 PM
 
-A pilot session will be held on TBD
-Pilot participant: TBD
+A pilot session will be held on April 1
+Pilot participant: Erik Hansen, erik@adhocteam.us 
 
 ## Team Roles
 
@@ -84,12 +85,12 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Tressa Furner	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Tressa Furner	
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: erik@adhocteam.us
 - Note-takers: Aricka Lewis (aricka@adhocteam.us)
 - Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Brad Conley (bconley@governmentcio.com), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us), Carey Otto (carey.otto@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Profile%202.0%20Conversation%20Guide.md)
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Profile-2.0-Conversation-Guide.md)
 - [Synthesis]()
 
