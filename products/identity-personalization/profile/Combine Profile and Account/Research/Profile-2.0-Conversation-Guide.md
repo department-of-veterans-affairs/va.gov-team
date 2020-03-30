@@ -21,7 +21,7 @@
 - Open Desktop prototype in another tab (https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
 - Open old profile (in staging) to show at the end
 
-## Intro
+## Intro (5 minutes)
 
 Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website.
 
@@ -59,7 +59,7 @@ I'm going to ask you to go to VA.gov on your browser.  Once you have it pulled u
 
 Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.  
 
-## First Task: Wayfinding and profile navigation (Mobile View)
+## First Task: Wayfinding and profile navigation (Mobile View) (20 minutes)
 
 **Scenario**
 1. You have recently moved and you've come to the VA website because you need to update your mailing address. Show me what you would do to change your mailing address.
@@ -101,7 +101,7 @@ Alright, just a reminder - you are trying to update your mailing address.
 - How does the participant interact with the nametag area of the page? Do they skip over it?
 - Do they understand why they can't edit all parts of the page?
 
-## Second Task: Connected Apps (Mobile View)
+## Second Task: Connected Apps (Mobile View) (10 minutes)
 
 Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with a non-VA doctor doctor. But now you've decided you want to remove the Health app's access to your VA records.   
 
@@ -131,12 +131,12 @@ Alright, I have a few follow-up questions for you about this scenario:
 - Does the terminology 'connected apps' make sense?
 - Make note of how user interacts with navigation.  Is it easy to use and to find?
 
-## Third Task: Wayfinding and profile navigation (Desktop)
+## Third Task: Wayfinding and profile navigation (Desktop) (10 minutes)
 
 Okay, we're going to switch gears and take a look at the desktop view.  We will start from the VA.gov homepage again, so if you could return to your browser with VA.gov and expand the screen so you're viewing it how you'd normally look at it.
 
 (*From VA.gov homepage*)
-1. Okay, so for this scenario you'd now like to view your period of service in the military.  Could you double check that your service information looks correct?
+1. Okay, so for this scenario you'd like to double check that the VA has the correct dates for the time that you were in the military.  How would you do that?
 
 -(*send link*) Okay, you'll have to be logged in for the next step, so here's a link to the desktop protoype.  Again, this has all fake information with a fake person - Kim Washington.
 
@@ -162,7 +162,7 @@ Follow up Questions:
 - Is the user confused by any terminology?
 - Does the user understand the FAQ dropdowns?
 
-## Fourth Task: Profile and Profile 2.0 Comparison
+## Fourth Task: Profile and Profile 2.0 Comparison (5 minutes)
 
 I'm going to quickly show you a different version of the profile (moderator shares screen with previous profile).
 
