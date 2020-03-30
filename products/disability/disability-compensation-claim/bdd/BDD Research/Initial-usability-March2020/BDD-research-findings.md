@@ -29,24 +29,23 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 - Users ranged from very tech savvy (most of the users) to computer novice (1-2 users). 
 
 ### Research questions
-- What are their previous expeience with filing a BDD claim?
-- How and were do Service Members try to find info about BDD on VA.gov?
+- What are their previous experience with filing a BDD claim?
+- How and where do Service Members try to find info about BDD on VA.gov?
 - What usability issues and pain points exist in the BDD prototype?
-- Are there any confusing steps or ambiguous language in the flow? 
-- Are the steps self-explanatory and does the user organically move from step to step?
+- Are there any confusing steps or ambiguous language in the BDD flow? 
+- Are the steps self-explanatory, and does the user organically move from step to step?
 - Are users missing any information in order to feel confident moving forward?
-- Are there other questions or concerns the users have while completing the BDD process?
-- What do veterans think will happen after the BDD claim form is submitted online?
+- Are there other questions or concerns the users have while going through the BDD process?
+- What do veterans expect will happen after their BDD claim form is submitted online?
 
 ## Key Findings
-1. Four users had heard about the BDD program. Two users had filed before, with the help of VSO. One good, one bad experience. All users see a clear value in being able to file a BDD claim online.
+1. Four users had heard about the BDD program. Two users had filed before, with the help of VSO. One good, and one bad experience. All users see a clear value in being able to file a BDD claim online.
 2. Six of the ten users did not find the relevant BDD info on VA.gov. Locating this info on VA.gov seemed arbitrary, and users felt that the information was buried and too hard to find. 
-3. Several users seemed unsure where to go on the Content page in order to start a claim. All users eventually found the call-to-action button, but several users felt the it should be more prominent. Users are confused by seeing a blue and a green Sign in button on the BDD introduction page: “Do they do the same thing?” Several users prefer to add all the new conditions they want to claim, at the same time, and then be asked about details for each of these.  
-4. Several users find the page “Details about your condition” unnecessary. A couple of users surface a need for selecting & uploading many documents at once (one-click) on the Upload evidence page.
-5. Several users would like an email confirmation after completing the form, and a print button on the last (Submission) page. 
-6. A couple of users have security concerns about uploading private medical records. 
-7. Users hope to receive an email confirmation about VA having received their claim, and to receive some sort of time estimation. Several users expect few updates and a lack of visibility into the VA claim process.
-
+3. Several users seemed unsure where to go on the Content page in order to start a claim. All users eventually found the call-to-action button, but several users felt that the button should be more prominent. Users are confused by seeing a blue and a green Sign-in button on the BDD introduction page: “Do they do the same thing?” Several users would prefer to add all their new conditions at the same time, and then be asked about details for each of these.  
+4. Several users find the page “Details about your condition” unnecessary. A couple of users want to select & upload many documents at once (one-click) on the "Upload evidence" page.
+5. A couple of users have security concerns about uploading private medical records. 
+6. Several users would like an email confirmation after completing the form, and a print button on the last (Submission) page. 
+7. Users expect to get an email about a VA claim exam, and some sort of time estimation. Several users expect few updates and a lack of visibility into the VA claim process.
 
 ## Details of Findings
 
