@@ -1,7 +1,7 @@
 # Research Plan for [eBenefits]( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits), [Power of Attorney and Payment History]( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA), 3/26/2020
 
 ## Goals        
-The VA’s eBenefits program enables Veterans and Caregivers to access and manage, benefits provided by the VA. The VSA eBenefit team [mission]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md) is to `‘Transform benefits products into personalized, guided experiences that help Veterans and the people in their network get the benefits and service they deserve.’`
+The VA’s eBenefits program enables Veterans and Caregivers to access and manage, benefits provided by the VA. The VSA eBenefit team [mission]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
 
 View My Representative
 The current eBenefits “View My Representative” (VMR) overarching purpose was to digitize the VA's Power of Attorney forms 21-22 and 21-22a. <br>
