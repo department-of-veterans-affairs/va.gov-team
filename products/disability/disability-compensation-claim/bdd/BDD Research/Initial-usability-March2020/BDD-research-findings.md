@@ -50,12 +50,12 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 ## Details of Findings
 
 **Previous experience with filing a BDD claim**
- - Four users had heard about the BDD program and would use it if available. One users said: "My life would've been much different if I had" (... been able to file a BDD). All users see clear value in being able to file a BDD claim online.
+ - Four users had heard about the BDD program and all would use it if available. One users said: "My life would've been much different if I had" (... been able to file a BDD). All users see a clear value in being able to file a BDD claim online.
  - Two users had filed a BDD claim before. One user had a good experience with a VSO and filed a BDD claim successfully. The hardest part of the process for him, was a lack of visibility and updates. It was hard to figure out what paperwork he needed, and get enough info/updates about the process from VA. 
  - The other user had a bad experience using a VSO. The VSO did not want to file the claim for him, as they had “too many returns” of BDD applications. There was also a problem with location. One VSO told him he needed to file the BDD claim in the location where he was going to be after discharge. The user did not get the help he needed.  
 
  **Task 1: How do users try to find info about BDD on VA.gov?**
- - Six users of ten did not find any BDD info. The three users that did find it, did not seem confident that they would remember where to go next time. Navigating to this information seemed to happen in an arbitrary fashion.  
+ - Six of ten users did not find any BDD info. The three users that did find it, did not seem confident that they would remember where to go next time to find it. Navigating to this information seemed to happen in an arbitrary fashion.  
  -  A couple of users used the search bar and searched for BDD and found the link "Pre-discharge claim", but the link was broken: (https://www.va.gov/disability/how-to-file-claim/when-to-file-claim/pre-discharge-claim/) 
  - A couple of users overlooked the link "Pre-discharge Claim" because they were looking for other words/terms.
  - Users also tried to find info about the BDD program under: "Disability / File a claim for compensation", others looked under the main menu: "VA Benefits and Health Care / Disability / Eligibility". And a few users looked for the info further down on the page, for example under "Service Member Benefits". Overall the BDD info is too hard to find. 
@@ -106,7 +106,8 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
  - Most users think they would use a VSO for a BDD process. 
 
 ## Recommendations
-- Consider how the BDD program can be more discoverable on VA.gov
+- Consider how to make info about the BDD program more discoverable on VA.gov.
+- Fix the link "Pre-discharge claim" on VA.gov.
 - Consider making the "Can I file a claim online?" section and call-to-action button more prominent. 
 - Remove the green sign-in button on the top of the BDD introduction page. 
 - Allow users to add all their new conditions at once.   
