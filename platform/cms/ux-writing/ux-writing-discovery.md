@@ -12,7 +12,7 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 
 - What is the baseline / “before” picture of language context in the cms and how is it impacting usability?
 
-**Vocabulary**
+**Vocabularies**
 
 - Technical: Drupal
 - Technical: web
@@ -26,6 +26,10 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - directive (authoritative)
 - directive (helpful)
 
+**Grammar**
+
+- parallel structure
+
 ## User research
 
 *What language do CMS users employ to describe their own work?*
@@ -33,7 +37,7 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - *What kind of context do users need so they can understand language they encounter in the CMS, without relying on external support?*
 - *What words are familiar or difficult for each user?*
 
-**Methods**
+**Possible methods**
 
 - Highligher testing (*What words make users feel more or less confident?*)
 - Card sorts (*Terms I understand fully/ terms I'm not sure about / terms I don't understand*)
@@ -41,17 +45,9 @@ Mapping **language and vocabularies** to **personas**, **journeys**, and **workf
 - CMS training observation (*what kinds of help/feedback are users requesting?*)
 
 
-**Grammar**
-
-- parallel structure
-
 ## Personas, journey mapping, workflows
 
 *Understanding how vocabularies map to different personas and Drupal user roles, and how that guides the CMS team's communication with users.*
-
-### CMS user experience
-
-*If the CMS was a customer support agent, how would we rate its conversational skills? How does the conversation need to change with different kinds of users?*
 
 
 ## Back end style guide
