@@ -1,7 +1,7 @@
 # UX Writing for Va.gov CMS
 *Designing with words to improve usability of the Va.gov content management system and communications to users.*
 
-Point of contact: Rachel Kauff, UX Writer, CMS team
+Point of contact: Rachel Kauff, UX Writing lead, CMS team
 
 ## Strategy
 
