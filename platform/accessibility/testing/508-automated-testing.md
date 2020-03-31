@@ -1,17 +1,16 @@
 # Automated Accessibility/508 Compliance Testing
 
-## Automated Accessibility/508 Compliance Tests
-
-The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing. For the initial test script, I used custom `data-` attributes that take cues from Java and BEM naming conventions:
-
-* `data-nwId="`
-* `page-name`
-* `-blockContainer-N-`
-* `-htmlElement-N"`
-
-So a typical data attribute might look like `data-nwID="index-form-1-input-1"`. The naming scheme is verbose, but I believe it offers a way for UX and research to map user workflows with respect to forms and rich widgets.
+The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing. The blocks below show an actual test in production, and the helper methods available in the API.
 
 ```javascript
+/*
+ * https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/gi/tests/01-keyboard.e2e.spec.js
+ */
+
+const E2eHelpers = require('../../../platform/testing/e2e/helpers');
+const Timeouts = require('../../../platform/testing/e2e/timeouts');
+const GiHelpers = require('./gibct-helpers');
+
 module.exports = E2eHelpers.createE2eTest(client => {
   const {
     ARROW_DOWN,
