@@ -13,7 +13,7 @@ Point of contact: Rachel Kauff, UX Writing lead, CMS team
 
 - [CMS UX writing discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/ux-writing-discovery.md)
 
-- [Product release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/product-release-notes.md)
+- [Product release notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/ux-writing/product-release-notes)
 
 - [User guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/user-guides.md)
 
