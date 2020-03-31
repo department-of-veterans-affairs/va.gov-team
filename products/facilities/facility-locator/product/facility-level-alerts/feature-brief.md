@@ -1,6 +1,7 @@
-# _Facility Locator Feature Brief for Facility Level Alerts
+# _Facility Locator Feature Brief for Facility Level Alerts_
 
-This document will focus on the new Facility Level alert feature for the Facility Locator
+This document will focus on the new facility-level alert feature within VA.gov's Facility Locator.
+
 ## Table of Contents
 
 [User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#user-journey)
