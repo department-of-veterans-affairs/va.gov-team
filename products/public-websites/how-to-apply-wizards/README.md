@@ -1,9 +1,9 @@
 # "How to Apply" Wizards Product Outline
 
 ## Overview
-Make it easier for Veterans and others to find the right online experience to apply for benefits. [We'll make this happen by moving/consolidating pre-application questions and steps to make them easier to find and complete].
+Help Veterans and others find the right online experience to apply for benefits by making it easier to complete "How to Apply" wizards. 
 
-_Note: hypotheses still in formulation_
+We'll make this happen by iterating content pages to quickly navigate users to tools pages where wizards will help determine the right online application for a Veteran's situation. 
 
 ## Problem Statement
 > From [Wizards: "How to Apply" and "Can I file a claim online?" - Discovery Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/discovery/wizards-discovery-readout.pdf)
