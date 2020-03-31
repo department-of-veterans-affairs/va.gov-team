@@ -1,12 +1,13 @@
 # 10-10CG Status Update
 
+- [Draft Timeline](#draft-timeline)
 - [Phase 0 (May 2020)](#phase-0-may-2020)
 - [Phase 1 (Estimated July 2020)](#phase-1-estimated-july-2020)
 - [Phase 2 (Estimated September 2020)](#phase-2-estimated-september-2020)
 - [Phase 3 (Estimated January 2021)](#phase-3-estimated-january-2021)
 - [Phase 4 (Estimated March 2021)](#phase-4-estimated-march-2021)
 
-## Timeline
+## Draft Timeline
 | Date | Milestone |
 | --- | --- | 
 | April 10 | Content and design complete* |
