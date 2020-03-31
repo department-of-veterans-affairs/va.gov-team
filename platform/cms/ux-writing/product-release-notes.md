@@ -37,8 +37,13 @@ The CMS team will be putting out regular communications that help both technical
 
 **Q: Excellent. So how do I become release note famous?**
 
-**A:** Flag it in the ticket
-* 🟥 Use the maroon colored "release notes" label 
+**A:** Add a label and AC
+* 🟥 Use the maroon colored "release notes" label
+* ➕ Add the following AC: 
+  - [ ] What day will your work make it to end users? As soon as you know, @ the UX writer in a comment in this issue
+  - [ ] Connect w/ UX writer for a very short (10 min or less) release notes interview about your work 
+
+**👀 More details:**
 * 🧹 Best done right when the ticket is created, such as in planning or grooming
 * 📎 Product manager and UX writer (Kevin + Rachel) will review flagged items weekly
 * 💎 UX writer may follow up for details after item is demoed
