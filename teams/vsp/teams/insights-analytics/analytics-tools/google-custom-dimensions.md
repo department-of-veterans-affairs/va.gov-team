@@ -1,3 +1,5 @@
+#### Vets.gov Archived Resource: This material was transferred from the Vets.gov repo and outlines previously suggested custom dimensions in 2017.
+
 # Vets.gov Custom Dimensions
 
 ## Current
