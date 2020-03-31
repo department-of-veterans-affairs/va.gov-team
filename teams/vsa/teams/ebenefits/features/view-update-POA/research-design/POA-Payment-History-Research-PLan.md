@@ -20,7 +20,7 @@ Payment table headers:<br>
  - Date (of payment)
  - Type (of payment which office made a payment
  - Account (payable to)
- - Instituion (payable to)
+ - Instituion (payable to) 
  - Amount (paid or returned)
 
 
