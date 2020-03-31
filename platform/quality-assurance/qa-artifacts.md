@@ -29,7 +29,7 @@ Regression test plans should represent a basic suite of test scenarios that cove
 * (Draft) delivered for [Usability Testing Prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)
 * (Final) delivered for [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 
-You will create a test plan within [TestRail](https://dsvavsp.testrail.io/). The test plan is a mapping of the functional changes being developed to test cases that test them. A test plan can consists of multiple types of test (manual, automated end-to-end, and load tests).  If test cases do not exist for each change then they will need to be created.
+You will create a test plan within [TestRail](https://dsvavsp.testrail.io/). The test plan is a mapping of the functional changes being developed to test cases that verify those changes behave as expected per the user stories and acceptance criteria. A test plan may employ multiple testing techniques (manual, automated end-to-end, and load tests).  If test cases do not exist for each change then they will need to be created.
 - Example: [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/30)
 
 ### Test Cases
