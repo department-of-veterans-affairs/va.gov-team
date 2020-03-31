@@ -12,135 +12,164 @@ The intent of this script is to create a common language, extensible functions, 
 So a typical data attribute might look like `data-nwID="index-form-1-input-1"`. The naming scheme is verbose, but I believe it offers a way for UX and research to map user workflows with respect to forms and rich widgets.
 
 ```javascript
-module.exports = {
-  'INDEX: Assert 1 TAB to load page Content 1': client => {
-    const { ENTER, TAB } = client.Keys;
+module.exports = E2eHelpers.createE2eTest(client => {
+  const {
+    ARROW_DOWN,
+    ARROW_LEFT,
+    ARROW_RIGHT,
+    ARROW_UP,
+    ENTER,
+    TAB,
+  } = client.Keys;
 
-    client
-      .url('http://localhost:8080')
-      .waitForElementVisible('[data-nwId="body-index"]')
-      .assert.isActiveElement('[data-nwId="body-index"]')
-      .keys(TAB)
-      .assert.isActiveElement('[data-nwId="link-content-1"]')
-      .keys(ENTER);
-  },
+  GiHelpers.initApplicationMock();
 
-  'CONTENT-1: Assert text inputs can be tabbed': client => {
-    const { TAB } = client.Keys;
-    const base = '[data-nwId="content-1';
-    const body = `${base}-body"]`;
-    const form1 = `${base}-form-1`;
-    const inputs = [
-      [`${form1}-input-1"]`, 'Josephine Rogers'],
-      [`${form1}-input-2"]`, '29'],
-      [`${form1}-input-3"]`, 'josephine@test.com'],
-      [`${form1}-input-4"]`, '5551234567'],
-      [`${form1}-input-5"]`, 'itsjrogers'],
-      [`${form1}-input-6"]`, 'jrogers99'],
-    ];
+  client.openUrl(`${E2eHelpers.baseUrl}/gi-bill-comparison-tool/`);
 
-    // Assert content-1.html is loaded and that
-    // the <body> tag has keyboard focus
-    client
-      .assert.urlContains('content/content1.html')
-      .waitForElementVisible(body)
-      .assert.isActiveElement(body);
+  E2eHelpers.overrideSmoothScrolling(client);
+  client.timeoutsAsyncScript(2000);
 
-    // Assert inputs can be reached with TAB,
-    // and that proper values can be entered
-    // by keyboard entry
-    inputs.forEach(i => {
-      const [element, input] = i;
+  // Assert the correct number of focusable elements in the form
+  client.assert.hasFocusableCount('div.usa-width-two-thirds form', 15);
 
-      client
-        .keys(TAB)
-        .assert.isActiveElement(element)
-        .sendKeys(element, input)
-        .assert.attributeContains(element, 'value', input);
-    });
-  },
+  // Assert the correct number of tabbable elements in the form
+  client.assert.hasTabbableCount('div.usa-width-two-thirds form', 11);
 
-  'CONTENT-1: Assert checkboxes can be toggled with SPACEBAR': client => {
-    const { SPACE, TAB } = client.Keys;
-    const base = '[data-nwId="content-1';
-    const form1 = `${base}-form-1`;
-    const checkboxes = [
-      [`${form1}-checkbox-1"]`],
-      [`${form1}-checkbox-2"]`],
-      [`${form1}-checkbox-3"]`],
-      [`${form1}-checkbox-4"]`],
-    ];
+  // Assert skip navigation link works correctly
+  client
+    .waitForElementVisible('.landing-page', Timeouts.verySlow)
+    .keys(TAB)
+    .assert.isActiveElement('a.show-on-focus')
+    .keys(ENTER)
+    .keys(TAB)
+    .assert.isActiveElement('.va-nav-breadcrumbs-list > li > a');
 
-    // Assert that checkobxes can be reached with TAB,
-    // and that they can be checked with SPACE (spacebar)
-    checkboxes.forEach(i => {
-      const [element] = i;
+  // Move on to the form
+  client.repeatKeypress(TAB, 3).assert.isActiveElement('#militaryStatus');
 
-      client
-        .keys(TAB)
-        .assert.isActiveElement(element)
-        .keys(SPACE)
-        .assert.attributeContains(element, 'checked', 'true');
-    });
-  },
+  // Evaluate the military status select menu
+  client.allyEvaluateSelectMenu('#militaryStatus', 'child', 'child');
 
-  'CONTENT-1: Assert radio buttons can be toggled with arrow keys': client => {
-    const {
+  // Open and close the GI Bill Benefit modal
+  client
+    .keys(TAB)
+    .allyEvaluateModalWindow(
+      'button[aria-label="Learn more about VA education and training programs"]',
+      'div[role="alertdialog"]',
+      'button[aria-label="Close this modal"]',
+    );
+
+  // Evaluate the GI Bill Benefit select
+  client
+    .keys(TAB)
+    .assert.isActiveElement('#giBillChapter')
+    .allyEvaluateSelectMenu('#giBillChapter', 'montgomery', '30');
+
+  // Open and close the enlistment modal
+  client
+    .keys(TAB)
+    .allyEvaluateModalWindow(
+      'button[aria-label="Learn more about how the length of Montgomery GI Bill active-duty service affects your benefits"]',
+      'div[role="alertdialog"]',
+      'button[aria-label="Close this modal"]',
+    );
+
+  // Evaluate the enlistment select
+  client
+    .keys(TAB)
+    .assert.isActiveElement('#enlistmentService')
+    .allyEvaluateSelectMenu('#enlistmentService', '2', '2');
+
+  // Evaluate the type of institution radio group with ARROW_DOWN and ARROW_RIGHT
+  client
+    .keys(TAB)
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-1"]',
+      ],
       ARROW_DOWN,
-      ARROW_LEFT,
+    )
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-1"]',
+      ],
       ARROW_RIGHT,
+    );
+
+  // Evaluate the type of institution radio group with ARROW_UP and ARROW_LEFT in reverse order
+  client
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-1"]',
+      ],
       ARROW_UP,
-      TAB,
-    } = client.Keys;
-    const base = '[data-nwId="content-1';
-    const form1 = `${base}-form-1`;
-    const radioButtons = [
-      [`${form1}-radio-1"]`],
-      [`${form1}-radio-2"]`],
-    ];
+      true,
+    )
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="category"][id^="radio-buttons-"][id$="-1"]',
+      ],
+      ARROW_LEFT,
+      true,
+    );
 
-    client
-      .keys(TAB)
-      .assert.isActiveElement(radioButtons[0])
-      .keys(ARROW_DOWN)
-      .assert.isActiveElement(radioButtons[1])
-      .keys(ARROW_UP)
-      .assert.isActiveElement(radioButtons[0])
-      .keys(ARROW_RIGHT)
-      .assert.isActiveElement(radioButtons[1])
-      .keys(ARROW_LEFT)
-      .assert.isActiveElement(radioButtons[0]);
-  },
+  // Skip the modal and evaluate the type of class radio group with ARROW_DOWN and ARROW_RIGHT.
+  // This one is a bit unique because the second radio is pre-checked.
+  client
+    .repeatKeypress(TAB, 2)
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-1"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-2"]',
+      ],
+      ARROW_DOWN,
+    )
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-1"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-2"]',
+      ],
+      ARROW_RIGHT,
+    );
 
-  'CONTENT-1: Assert button can submit form by pressing SPACEBAR': client => {
-    const { SPACE, TAB } = client.Keys;
-    const button = 'button[data-nwId="content-1-form-1-button-1"]';
+  // Evaluate the type of class radio group with ARROW_UP and ARROW_LEFT in reverse order
+  client
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-1"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-2"]',
+      ],
+      ARROW_UP,
+      true,
+    )
+    .allyEvaluateRadioButtons(
+      [
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-0"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-1"]',
+        '.form-radio-buttons  input[name="onlineClasses"][id^="radio-buttons-"][id$="-2"]',
+      ],
+      ARROW_LEFT,
+      true,
+    );
 
-    client
-      .keys(TAB)
-      .assert.elementPresent(button)
-      .assert.isActiveElement(button)
-      .keys(SPACE)
-      .assert.urlContains('http://localhost:8080/content/content1.html?name=Josephine+Rogers&age=29&email=josephine%40test.com&telephone=5551234567&twitter=itsjrogers&keybase=jrogers99&checkbox-contacts=checkbox-email&checkbox-contacts=checkbox-telephone&checkbox-contacts=checkbox-twitter&checkbox-contacts=checkbox-keybase&radio-subscribe=radio-yes#');
-  },
+  // Let's try to submit an incomplete form by skipping over the city typeahead
+  client
+    .repeatKeypress(TAB, 2)
+    .assert.isDisabledElement('#search-button', false)
+    .assert.isActiveElement('#search-button')
+    .keys(ENTER);
 
+  // An error should appear on the enter a city, school or name typeahead label
+  client.assert.elementPresent('#search-error-message');
 
-  'CONTENT-1: Assert button can submit form by pressing ENTER': client => {
-    const { ENTER, SHIFT, TAB } = client.Keys;
-    const button = 'button[data-nwId="content-1-form-1-button-1"]';
-
-    client
-      .keys(SHIFT + TAB)
-      .assert.elementPresent(button)
-      .assert.isActiveElement(button)
-      .keys(ENTER)
-      .assert.urlContains('http://localhost:8080/content/content1.html?name=Josephine+Rogers&age=29&email=josephine%40test.com&telephone=5551234567&twitter=itsjrogers&keybase=jrogers99&checkbox-contacts=checkbox-email&checkbox-contacts=checkbox-telephone&checkbox-contacts=checkbox-twitter&checkbox-contacts=checkbox-keybase&radio-subscribe=radio-yes#');
-  },
-
-  after: client => {
-    client.end();
-  },
-};
+  client.end();
+});
 ```
 
 ## Keyboard e2e helper api
@@ -227,17 +256,17 @@ this.demoTest = function (client) {
 |----------|:-------------:|:-------------:|
 | selectorArray | string | The array of radio buttons by (CSS / Xpath) to be evaluated. | 
 | arrowPressed | object | Nightwatch Keys object. Expects ARROW_DOWN || ARROW_RIGHT. |
-| reversed | boolean | Will reverse the array order to workw ith ARROW_UP and ARROW_LEFT. | 
+| reversed | boolean | Will reverse the array order to work with ARROW_UP and ARROW_LEFT. | 
 | timeoutNum | number | Value in milliseconds to wait for a selector. Default is 2000. |
 
 
-#### allyevaluateSelectMenu
+#### allyEvaluateSelectMenu
 
 Evaluate select menus for basic keyboard functionality. Each select can receive keyboard focus by pressing TAB. Select menus should open with SPACE press, and user should be able to enter keys. This is an imperfect  approximation, but Nightwatch doesn't support arrow keys for traversing options in the open select.
 
 ``` javascript 
 this.demoTest = function (client) {
-  client.allyevaluateSelectMenu('selector', 'option text', 'option value');
+  client.allyEvaluateSelectMenu('selector', 'option text', 'option value');
 };
 ```
 
@@ -248,4 +277,3 @@ this.demoTest = function (client) {
 | optionText | string | The text of the <option> that should be selected. |
 | selectedOption | string | Value attribute of the <option> that should be selected. | 
 | timeoutNum | number | Value in milliseconds to wait for a selector. Default is 2000. |
-
