@@ -13,7 +13,7 @@ This document will focus on the new Facility Level alert feature for the Facilit
 
 [Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#not-currently-in-scope)
 
-[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md.md#measuring-success)
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#measuring-success)
 
 [Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#dependencies)
 
@@ -49,10 +49,10 @@ _What's in and what's out?_
 **MVP**
 - This feature will leverage two concepts already in use at VHA facilities: operating status and operating notes. These fields will be made available in Drupal, pulled in by the Facilities API and included in Facilityy Locator search results. 
 
-Focused on solving the following problems:
+**Focused on solving the following problems:**
 - Displaying a visual indicator for VA facility-level operating status and additional detail for related policies and services
 
-To address the following user stories: 
+**To address the following user stories:** 
 - As a Veteran, I want reliable facility-level operating status so that I know where and how I can be served. 
 
 **Future Iterations**
@@ -71,6 +71,7 @@ _How will we know if we are successful?_
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
 
 **Team/Internal dependencies**
+[TBD]
   
 **Partner dependencies**
   - The CMS team is responsible for making operating status and notes available in Drupal.  
@@ -87,7 +88,8 @@ _Are other features dependent on this one? What do we need from partners? What d
 - The Veteran must be able to view an indicator of operating status at a facility level. 
 - The Veteran must be able to view details related to the facility level operating status. 
 - Operating status indicator is included in search results.
-- 
+- Implementation is without Priorty-1 508 defects. 
+
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
