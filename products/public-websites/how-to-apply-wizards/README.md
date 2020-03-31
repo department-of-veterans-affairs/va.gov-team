@@ -41,10 +41,10 @@ How might we make the Veteran experience of starting online applications more se
 
 ## Desired User / Business Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*  
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+**Why would a user want to use this?**
+**With this problem solved, what should users be able to do/achieve that they couldn't before?**
+**Why would your business want this to exist?**
+**With this problem solved, what should your business be able to do/achieve that they couldn't before?**
 
 - It's easier for Veterans to find the right online experience to apply for the benefits they're looking for 
 - Veterans aren't spending time filling out the wrong online application
