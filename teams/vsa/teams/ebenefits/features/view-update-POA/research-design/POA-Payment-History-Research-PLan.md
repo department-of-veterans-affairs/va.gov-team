@@ -6,15 +6,10 @@
 The VA’s eBenefits program enables Veterans and Caregivers to access and manage, benefits provided by the VA. The VSA eBenefit team [mission]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
 
 ##### View My Representative
-The current eBenefits “View My Representative” (VMR) overarching purpose was to digitize the VA's Power of Attorney forms 21-22 and 21-22a. <br>
-
-The three main features to the VMR
- - A form wizard or application process
- - Selecting a representative
- - Manage the elected representative.  
+The current eBenefits “View My Representative” (VMR) overarching purpose was to digitize the VA's Power of Attorney forms 21-22 and 21-22a. There are three main features to the VMR: A form wizard or application process, selecting a representative to manage the disputed claim, and managing the elected representative. Although the process is not very complicated, it is important the veteran clearly understood that they are allicating their claim rights to a legal representative. 
  
 ##### View My Payments
-The current eBenefits "View My Payment History" (PH) consolidates VA payments history into a single application. There are two main features of PH. First, is Payments Made, and second, Payment Returned. <br>
+The current eBenefits "View My Payment History" (PH) consolidates VA payments history into a single application. There are two main features of PH. First, is Payments Made, and second, Payment Returned. 
 
 Payment table headers:<br>
  - Date (of payment)
@@ -37,18 +32,23 @@ Payment table headers:<br>
 - [References](#references)
 
 ### Goals        
-**The Research's Goal:**
-Our goal is to conduct interviews:
- - Document the user's expectations of the tool. 
- - Note the user's pain points.
- - Access the user's level of comprehension of the tasks. 
- 
+Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
+
+#### Document the user's expectations of the tool. 
+- 
+#### Note the user's pain points.
+- 
+#### Access the user's level of comprehension of the tasks. 
+- 
+
 ### Hypothesis   
-POA: Is the user will easily navigate through the wizard and efficiently locate, find, and select their representative, but the following issues may arise:
+#### Power of Attorney
+Our hypothesis is, the veteran will easily navigate through the wizard and efficiently locate, find, and select their representative, but the following issues may arise:
 - Clearly understanding the component's shift from a wizard to a search feature back to a wizard.
 - Realizing whether or not the veteran understands their rights have been legally “handed over.”
 
-PH: Is the veteran will have two principal ways they will use the tool.  First, expected features should be centered around efficiently searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
+#### Payment History
+Our hypothesis is, the veteran will have two principal ways they will use the tool.  First, expected features should be centered around efficiently searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
 
 ### Research Questions
 #### Power of Attorney
