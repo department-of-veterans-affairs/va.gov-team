@@ -1,3 +1,5 @@
+#### Vets.gov Resource: This is an archived resource that was transferred from the Vets.gov repo.
+
 # Architecture Overview
 
 Vets.gov is using fairly standard Google Analytics (GA) implementation. We take advantage of Google Tag Manager (GTM) to simplify administration and deployment of instrumentation. We supplement the default events with a set of custom events fired from our JavaScript.
