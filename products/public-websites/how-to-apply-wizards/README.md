@@ -1,5 +1,4 @@
-# "How to Apply" Wizards Product Outline WIP
-
+# "How to Apply" Wizards Product Outline
 
 ## Overview
 Make it easier for Veterans and others to find the right online experience to apply for benefits. [We'll make this happen by moving/consolidating pre-application questions and steps to make them easier to find and complete].
