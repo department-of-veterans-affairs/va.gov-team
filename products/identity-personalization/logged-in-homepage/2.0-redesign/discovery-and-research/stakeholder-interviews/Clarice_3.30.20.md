@@ -82,3 +82,13 @@ I think other than that… IDK… to the notifications piece… some section so 
 Concerns would be I hope we get the granularity of information right. We don’t want information galore so that it’s not helpful, but we don’t want it to be too-surface… getting the right level of info of what people want to know is key.
 
 The other thing that Samara has brought up is all the different views… some veterans have a ton of things open and some have nothing going on — how do we create the personalized portal for the new veteran to the veteran who has an overload of stuff?
+
+### What logged in homepage/dashboard experiences have you come across that work well, and not so well? How about notifications?
+
+Delta, Fidelity Bank
+
+(Refer to Slack conversation for more details. Didn't include additional comments here for privacy purposes.)
+
+### Someone mentioned that I should talk to Julia Elman, as she is a designer working on the mobile app. Does that fall under what you're doing as well?
+
+Yes, Julia is on the Adhoc team, she ran some user studies on a personalized app prototype. It falls under what I'm doing on App Discovery. Though. Not sure how relevant/important this would be for dashboard/authenticated experience just because we're asking the adhoc team to primarily focus on technical feasibility and (only secondly Veteran desirability) the desirability piece still worth asking about, but mainly we're having the adhoc team look at if the VA were to build an app, what mobile frameowrk should we use technically - e.g. progressive web app, hybrid, native ios app, react native, etc. so they're focusing much less on the user experience and need-base side of research. But totally work also talking to the adhoc team about.
