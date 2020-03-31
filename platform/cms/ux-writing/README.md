@@ -9,7 +9,7 @@ Point of contact: Rachel Kauff, UX Writing lead, CMS team
 
 ## Outputs
 
-- [CMS design improvements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/CMS-design-improvements.md)
+- [CMS design improvements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/ux-writing/CMS-design-improvements)
 
 - [CMS UX writing discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/ux-writing-discovery.md)
 
