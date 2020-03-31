@@ -32,7 +32,7 @@ describe('VIC veteran information', () => {
       <DefinitionTester
         definitions={formConfig.defaultDefinitions}
         schema={schema}
-        data=\{{}}
+        data={{}}
         uiSchema={uiSchema}
         />
     );
@@ -85,7 +85,7 @@ Finally in this file we fill in all the data and submit:
         onSubmit={onSubmit}
         definitions={formConfig.defaultDefinitions}
         schema={schema}
-        data=\{{}}
+        data={{}}
         uiSchema={uiSchema}
         />
     );
