@@ -31,7 +31,7 @@ This document will focus on the new Facility Level alert feature for the Facilit
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 - As a Veteran, I need to...
-  - view an up-to-date operating status for VA facilities so that I do not visit a location which has closed to in-person visits. 
+  - view up-to-date operating status for VA facilities so that I do not visit a location which has closed to in-person visits. 
   - Understand how policies and service offerings may have changed due to COVID-19 so that I know how to receive the services I need. 
 
 ### Project Rationale
