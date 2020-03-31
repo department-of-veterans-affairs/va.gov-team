@@ -4,7 +4,7 @@ DATE/TIME OF INTERVIEW: [3/19/20] at [1:30] PM EST
 
 ## Intro - (5 minutes)
 
-Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line taking notes. Today we're going to talk about the appeals process on VA.gov, specifically an appeals process that we call a Higher Level Review.
+Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line taking notes. Today we're going to talk about the benefits process on VA.gov, specifically a benefits process that we call Benefits Delivery at Discharge.
 
 Before we start, a few things I want to mention:
 
