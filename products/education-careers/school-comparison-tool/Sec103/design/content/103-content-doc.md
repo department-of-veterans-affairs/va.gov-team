@@ -18,11 +18,11 @@
 
 **[Rogers STEM Scholarship:]()** {dynamic content} 
 
-**[Attend with Certificate of Eligibility (COE) only, or COE and additional criteria:**]() { dynamic content based on Compliance Template:  COE only, COE plus additional criteria, No } 
+**[Attend with Certificate of Eligibility (COE) only, or COE and additional criteria:]()** { dynamic content based on Compliance Template:  COE only, COE plus additional criteria, No } 
 
 
 
-{ 103 Modal content }
+{ *103 Modal content* }
 
 Under what circumstances does this school allow Post-9/11 GI Bill, Montgomery GI Bill, and Fry Scholarship beneficiaries to attend or participate in classes while awaiting payment from us? 
 
