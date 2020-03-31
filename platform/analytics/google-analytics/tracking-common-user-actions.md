@@ -26,10 +26,5 @@ Many basic Interactions are tracked within Google Analytics. Common elements tha
 | Signing onto the Modernized tools | Sign-on | Login - vagovprod | 
 
 #### Design System Components
-There are several common navigation elements that use the [Design System components](https://design.va.gov/components). We'll continue building this library with the components and matching Google Analytics navigation elements. These elements will require additional dataLayer code within the front-end. For the Google Analytics Event Category and Action, this is the output you'll see within Google Analytics reports. 
+There are several common navigation elements that use the [Design System components](https://design.va.gov/components). We'll continue building this library with the components and matching Google Analytics navigation elements. These elements will require additional dataLayer code within the front-end. 
 
-If you do not see an element on the list, please reach out to the Analytics-Insights team.
-
-| Element | dataLayer | Google Analytics Event Category | Google Analytics Event Action |
-| --- | --- | --- |--- |
-| Accordion | dataLayer.push({'event':'nav-accordion-collapse|expand'});| Interactions | Navigation - Accordion - Expand (or Collapse) | 
