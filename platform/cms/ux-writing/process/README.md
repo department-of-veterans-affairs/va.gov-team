@@ -30,7 +30,7 @@
   - [ ] Peer review by a member of the design pod 
   - [ ] Finalize edits to text, and mark as ready to implement in the original issue
   - [ ] Document strategy behind language choices that are relevant to [the back end style guide](https://docs.google.com/document/d/1o3euR0eMoXRyp8G6sx1OCpmRtBShYGAm-Rb8MSXXir0/edit#)
-- For bigger lifts, such as **2+ story points**: add an associated UX writing task issue 
+- For bigger lifts, such as **2+ story points**: add an associated [UX writing task issue](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/.github/ISSUE_TEMPLATE/cms-ux-writing.md) 
 Because gathering enough context to do the writing is often a lot more work than it seems, most work falls in category #2, so if you’re not sure, add it as its own issue.
 
 3. **Get clear on the context**
