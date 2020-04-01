@@ -6,6 +6,7 @@ Point of contact: Rachel Kauff, UX Writing lead, CMS team
 ## Strategy
 
 - [Principles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/CMS-back-end-style-guide/principles.md)
+- [Audiences and communications channels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/audiences-communications/audiences-and-comms-channels.md)
 
 ## Outputs
 
@@ -19,10 +20,6 @@ Point of contact: Rachel Kauff, UX Writing lead, CMS team
 
 - [Back-end style guide for the CMS team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/back-end-style-guide.md)
 
-
-## Audiences and communications 
-
-- [Audiences and communications channels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/audiences-communications/audiences-and-comms-channels.md)
 
 ## Process
 
