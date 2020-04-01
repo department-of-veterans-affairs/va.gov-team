@@ -662,7 +662,6 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues
 
 - [[COGNITION]: Can we review the language for Community Care appointment review times?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6279)<br/>**Staging** | **Opened:** February 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-- [[COGNITION]: Can we make the HR rule lines into borders or hide them from screen readers on review page?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6242)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 ---
 
