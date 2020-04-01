@@ -30,7 +30,8 @@
   - [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the #vfs-platform-support-channel
 
 ### Sprint 21 (03-17-2020)
-- [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/FE_automated_code_quality) - v1.1 - ESLint: First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
+- [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/FE_automated_code_quality) - v1.1 
+  - ESLint: First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
 
 ### Sprint 20 (03-03-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/FE_automated_code_quality) - v1.0
