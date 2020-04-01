@@ -8,7 +8,7 @@
 - Be the default note taker to ensure language is captured accurately
 - Perform audit of resulting data, by doing the following:
   - Code data in reframer
-  - Pull out key codes into concepts mind map (when appropriate) + AT database
+  - Pull out key codes into concepts mind map (when appropriate) + Airtable database
   - Synthesize findings and document in back end style guide
 
 
