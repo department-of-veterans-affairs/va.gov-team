@@ -7,9 +7,9 @@
 - Participate as observer in user research sessions
 - Be the default note taker to ensure language is captured accurately
 - Perform audit of resulting data, by doing the following:
-- Code data in reframer
-- Pull out key codes into concepts mind map (when appropriate) + AT database
-- Synthesize findings and document in back end style guide
+  - Code data in reframer
+  - Pull out key codes into concepts mind map (when appropriate) + AT database
+  - Synthesize findings and document in back end style guide
 
 
 ## Planning cross-functional work
