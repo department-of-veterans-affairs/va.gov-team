@@ -2,6 +2,9 @@
 
 The purpose of this template is for VSF teams to be aware of all pertinent information that is needed for product guides to be sent to Contact Centers.  
 
+## **Table of Contents:**
+- This is the roadmap to each portion of your writing
+
 ## **Product Overview:**
 - This is a brief description of the product
 
@@ -40,4 +43,9 @@ The purpose of this template is for VSF teams to be aware of all pertinent infor
      - Personal Information
      - Direct Deposit
      - Military History
- 
+     
+     Below are examples of a well created product guide.
+     
+     - https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
+     - https://github.com/department-of-veterans-affairs/va.gov-team/files/4245076/GI.Bill.Comparison.Tool.Product.guide.docx
+     - https://github.com/department-of-veterans-affairs/va.gov-team/files/4346350/Pension.Application.Product.guide.docx
