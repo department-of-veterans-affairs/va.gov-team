@@ -1,6 +1,6 @@
 # Appointments List
 
-Status: Blocked by oustanding questions
+Status: Blocked by outstanding questions
 
 ## Services
 ### Current services used
