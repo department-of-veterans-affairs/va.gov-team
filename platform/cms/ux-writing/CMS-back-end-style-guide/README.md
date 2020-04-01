@@ -13,7 +13,7 @@ How to write text that improves the usability of the VA.gov content management s
 
 **Kinds of content**
 - Button labels
-- Error messages
+- Alerts
 - Labels
 - Help text
 - User guides
@@ -22,6 +22,11 @@ How to write text that improves the usability of the VA.gov content management s
 - Punctuation
 - Capitalization
 - Abbreviations
+
+**Styling**
+- Emphasis / bolded text
+- Italics
+- 
 
 **Specific words and phrases**
 - [Word list (WIP)](https://airtable.com/invite/l?inviteId=invPtEMyH5nFr8AUD&inviteToken=85a9f78aeed3e2ccf9e7e2cffae57418a00203968f984a4f6ceece207ba5905d)
