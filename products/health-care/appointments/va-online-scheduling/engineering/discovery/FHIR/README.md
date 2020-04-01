@@ -38,13 +38,13 @@ We know the following resources will be available:
 
 ## Rails API related discovery
 
-### Figure out routes, folder hierarchy in vets-api repo for a new v1 VAOS API.
+1. Figure out routes, folder hierarchy in vets-api repo for a new v1 VAOS API.
 
-### Investigate use of fhir_crucible gems and components or other rails specific FHIR commmunity maintained resources.
+2. Investigate use of fhir_crucible gems and components or other rails specific FHIR commmunity maintained resources.
 
-### Instrumentation and operational challenges to supporting multiple API versions: breakers, errors, sentry, statsd, cloudwatch, rspec, others.
+3. Instrumentation and operational challenges to supporting multiple API versions: breakers, errors, sentry, statsd, cloudwatch, rspec, others.
 
-### Documentation strategy for supporting multiple API versions
+4. Documentation strategy for supporting multiple API versions
 
 ## React UI related discovery
 
