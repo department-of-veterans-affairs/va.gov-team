@@ -8,7 +8,7 @@ assignees: gunsch
 ---
 
 ## Steps to complete the Privacy & Security Review: 
-- [ ] Lead engineer or product manager: using this template, create issue and fill in feature name in the title 
+- [ ] Lead engineer or product manager: using this template, create issue in `va.gov-team-sensitive` and fill in feature name in the title 
 - [ ] Reach out to Andrew Gunsch (@ gunsch in Slack) to schedule a 60 minute meeting 
 - [ ] VSP privacy and security review team provides written feedback for your team on your feature, including clear action items to complete
 - [ ] **Requesting team** completes action items
@@ -20,6 +20,7 @@ assignees: gunsch
 - Description of any new publicly-exposed endpoints (vets-api or otherwise)
 - Description of any new interactions with dependent services (i.e. vets-api --> ???)
 - Description of any other security hotspots you're concerned about / want extra attention on
+- Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 
 ## Meeting attendees from **requesting team**
 - Lead engineer (required): **name**
