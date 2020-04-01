@@ -50,7 +50,7 @@ All the sections identified below are still work in progress. These will be augm
 #### What is supported?
 ### Eligibility
 ### Clinics
-### Time Slots
+### Time Slots (both request and self schedule)
 ### Appointment Request Submission
 #### Appointment Messages
 ### Community Care Request
