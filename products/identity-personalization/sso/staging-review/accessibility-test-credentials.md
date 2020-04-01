@@ -10,6 +10,9 @@ Each section has comments that look like this:
 
 ## Team Name
 
+SSO-Login
+Slack: va-sso
+
 <!-- Enter your team name like vsa-public-websites. This name can match your Slack channel. -->
 
 
@@ -18,14 +21,14 @@ Each section has comments that look like this:
 
 <!-- Tell us about your product. Add as much detail as you want, and be sure to call out key items like intended audience(s), the stated purpose, and anything else you feel is relevant to an accessibility review. -->
 
-
+This will impact all authenicated users of VA.gov. For more details please see our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/README.md)
 
 ## Staging URL and Test User(s)
 
 <!-- Provide a Staging URL and any test users that the accessibility specialist should use to review your product -->
 
-* Staging URL:
-* Test User if applicable: _vets.gov.user+000@email.address_
+* Staging URL:https://staging.va.gov/sign-in/?application=myvahealth
+* Test User if applicable: N/A
 
 
 
@@ -34,8 +37,7 @@ Each section has comments that look like this:
 <!-- Include a link to your TestRail or Markdown test plan. The staging accessibiilty review will be more completed more quickly when teams have done their own testing ahead of time. -->
 Use the TestRail or Markdown template to document your accessibility test cases. These must be completed before the VSP staging accessibility review can start.
 
-* TestRail: [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
-* Markdown: [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
+* Markdown: [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan.md)
 
 
 ## Known Issues
