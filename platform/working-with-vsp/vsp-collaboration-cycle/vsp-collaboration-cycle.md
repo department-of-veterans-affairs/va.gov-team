@@ -356,7 +356,7 @@ Ensure your feature meets VSP's privacy and security standards.
 ## Collaboration format: 60-minute meeting
 
 ### Request process
-**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gunsch&labels=product+support&template=privacy-and-security-review.md&title=Privacy+and+Security+Review+%5BFeature-Name%5D) to open a ticket)_
+**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template in `va.gov-team-sensitive` repository _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new?assignees=gunsch&labels=product+support%2C+collaboration-cycle&template=privacy-and-security-review.md&title=Privacy+and+Security+Review+%5BFeature-Name%5D) to open a ticket)_
 
 ### Artifact inputs
 - An architecture diagram, showing involved systems + data flows
