@@ -28,7 +28,9 @@ The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/
 
 Accessibility guidance is included in the following phases of the VSP Collaboration Cycle:
 
-* **Project Kickoff:** Incorporating accessibility into the early phases of a project minimizes the need for rework later. Relevant resources: [508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md), [508, accessibility, and inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md).
+* **Project Kickoff:** Incorporating accessibility into the early phases of a project minimizes the need for rework later. Relevant resources:
+ * [508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
+ * [508, accessibility, and inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md).
 * **Define:** We help in early project discussions to make sure inclusive design is woven into your work. Main areas to consider at this phase include:
    * challenges with user flows
    * color contrast
@@ -36,13 +38,18 @@ Accessibility guidance is included in the following phases of the VSP Collaborat
    * accessible interactions
    * design for various device sizes
    * cognitive impact
+   * considerations for including diverse research participants
 * **Discover:** We provide more specific feedback at this phase, including:
    * relevant design system components and patterns
    * feedback on recruiting diverse research participants
    * additional testing scenarios
-* **Build:** We review your completed test plan and automated end-to-end test results, manually test the happy path, and triage issues for severity. We will let you know whether issues must be fixed pre- or post-launch. This testing is done as part of the VSP staging review.
-* **Validate:** Post launch, we do a full accessibility audit and ask the VA 508 office to conduct a review. Post-launch audits uncover usability issues that might not otherwise appear on an automated report. These findings drive future innovation, updates to the design system, and improve research sessions. 
-(Note: This audit was previously done prior to launch, but is now done post-launch to emphasize speed and agility.)
+* **Build:** We conduct the following accessibility checks:
+   * Review your completed test plan and automated end-to-end test results
+   * Manually test the [happy path](https://en.wikipedia.org/wiki/Happy_path)
+   * Triage issues for severity and whether they must be fixed pre- or post-launch. This testing is done as part of the VSP staging review.
+* **Validate:** Post launch, we do a full accessibility audit and ask the VA 508 office to conduct a review:
+   * Post-launch audits uncover usability issues that might not otherwise appear on an automated report.
+   * These findings drive future innovation, updates to the design system, and improve research sessions. (Note: This audit was previously done prior to launch, but is now done post-launch to emphasize speed and agility.)
 
 ## Resources and guides
 **General Guidance**
