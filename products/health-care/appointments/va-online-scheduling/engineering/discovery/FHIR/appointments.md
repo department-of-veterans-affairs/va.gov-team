@@ -65,6 +65,7 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Location data not necessarily included inline
 
 ## Oustanding questions
+- Can we use `_include` to pull in Location references?
 - Do we need to send the whole appointment object to cancel?
 - Canceling requests will take one api call per timeslot?
 - Does the comments field mean patient comments, and does it have a character limit?
