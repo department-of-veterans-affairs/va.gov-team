@@ -4,6 +4,7 @@ Status: Blocked by outstanding questions
 
 ## Services
 ### Current services used
+
 /vaos/appointments
 /vaos/appointment_requests
 
