@@ -38,7 +38,7 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
 - Document the veteran’s expectations of the tool. 
   - Determine the tool’s intuitiveness.
   - Confirm the usage of the digital process compared to the paper form.
-  - Uncover during what point do veterans select a representative. 
+  - Uncover when in the journey does the veterans select a representative. 
     - After the VA has denied the claim.
     - After issues with VA bureaucracy.
     - After the veteran has vetted a VSO or attorney. 
@@ -213,5 +213,5 @@ Availability: If applicable, when would you like sessions scheduled? <br>
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
-_This plan was needs approved by Lauren Alexanderson on _
+_This plan needs approval from Lauren Alexanderson_
  
