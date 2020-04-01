@@ -18,9 +18,9 @@ March 19, 2020
   - prefer-single-boolean-return
   - prefer-while
 
-## SonarJS release rules - Sprint 21
+## SonarJS release rules
 
-March 4, 2020
+Sprint 21 - March 4, 2020
 
 - The following [SonarJS rules](sonarjs.md) will be trialed:
   - no-all-duplicated-branches
