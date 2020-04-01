@@ -1,6 +1,6 @@
 # New appointment data
 
-FHIR equivalent in parentheses
+FHIR equivalent in parentheses, bold items are uncertain/unknown
 
 - Type of care list
    - Data for each item:
