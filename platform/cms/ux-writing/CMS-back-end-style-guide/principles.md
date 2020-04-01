@@ -19,11 +19,11 @@ Apply labels and terms consistently across the entire system to build a coherent
 Whenever possible, help content editors see the “why” driving CMS functionality, so they can align their work with VA.gov and USDS design principles.
 
 ## Build familiarity
-Turn content editors into CMS users by helping them get comfortable with concepts related to  
+Bring content editors on board to the CMS approach by helping them get comfortable with concepts related to  
 Drupal and structured content. When introducing technical or unfamiliar terms, include context that provides a definition.
 
 ## Encourage human centered design 
-Convert CMS users into human centered designers by integrating guidance into user guides and help text. Make it easy for users to understand what features they have at their disposal to solve service and content design problems and meet Veteran needs.
+Provide guidance that encourages human centered design practices, and implement it where they are most likely to use it. Make it easy for users to understand what features they have at their disposal to solve service and content design problems to meet Veteran needs.
 
 ## Writing = designing
 Writing shapes user experience just as much as the visual and functional elements of an interface, therefore UX writing should act as a fully integrated practice with other UX research and design activities on the CMS team.
