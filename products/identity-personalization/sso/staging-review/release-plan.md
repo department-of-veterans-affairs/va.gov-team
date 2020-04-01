@@ -29,7 +29,7 @@ N/A for this feature release.
 - Post-launch KPI 2: Number of successful logins via DSlogon on VA.gov remains consistent
 - Post-launch KPI 3: Number of successful logins via id.me on VA.gov remains consistent
 - [Metrics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventLabel&_r.drilldown=analytics.eventCategory:Sign-on&explorer-graphOptions.primaryConcept=analytics.uniqueEventsTrue&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=10/)
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/go_nogo_plan.md]
 
 ### 1-week results:
 - Number of unique users: x
