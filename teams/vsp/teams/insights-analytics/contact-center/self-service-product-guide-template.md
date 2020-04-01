@@ -44,7 +44,7 @@ The purpose of this template is for VSF teams to be aware of all pertinent infor
      - Direct Deposit
      - Military History
      
-     Below are examples of a well created product guide.
+     Below are examples of a well created product guides.
      
      - https://github.com/department-of-veterans-affairs/va.gov-team/files/4245065/Education.22-1990.Product.guide.docx
      - https://github.com/department-of-veterans-affairs/va.gov-team/files/4245076/GI.Bill.Comparison.Tool.Product.guide.docx
