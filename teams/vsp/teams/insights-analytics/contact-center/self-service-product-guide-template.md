@@ -1,6 +1,7 @@
 # **Self-Service Product Guide Template** 
 
 The purpose of this template is for VSF teams to be aware of all pertinent information that is needed for product guides to be sent to Contact Centers.  
+All prodcut guides should be in WORD format and include the following:
 
 ## **Table of Contents:**
 - This is the roadmap to each portion of your writing
