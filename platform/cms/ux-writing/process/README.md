@@ -1,4 +1,4 @@
-# UX writing processes 
+# UX writing processes in design & development cycle 
 
 ## Working on research
 
