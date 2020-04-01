@@ -1,33 +1,35 @@
 # New appointment data
 
+FHIR equivalent in parentheses
+
 - Type of care list
    - Data for each item:
-      - Identifier (stop code)
-- Community care supported sites
+      - Identifier/stop code (**HealthcareService.identifier**)
+- Community care supported sites (**Location**)
    - Filtered by: site ids
    - Data for each time:
-      - Site id
+      - Site
       - Is supported flag
-- Community Care eligibility
+- Community Care eligibility (**Unknown**)
    - Filtered by: ICN, type of care
    - Data:
       - Is eligible flag
-- VA parent facilities
+- VA parent facilities (Organization)
    - Filtered by: ICN, type of care id
    - Data for each parent facility:
-      - Id
-      - Friendly name
-      - City
-      - State
-      - Root site id
-- VA child facilities
+      - Id (Organization.identifier)
+      - Friendly name (Organization.name)
+      - City (Organization.address[].city)
+      - State (Organization.address[].city)
+      - Root site id (**Organization.identifier**)
+- VA child facilities (Location)
    - Filtered by: ICN, type of care id, parent facility id, site id
    - Data for each facility:
-      - Id
-      - Friendly name
-      - Supports direct scheduling flag
-      - Supports requests flag
-- Request eligibility data
+      - Id (Location.identifier)
+      - Friendly name (Location.name)
+      - Supports direct scheduling flag (**Unknown**)
+      - Supports requests flag (**Unknown**)
+- Request eligibility data (**Unknown**)
    - Request limit
       - Filtered by: ICN, facility id, type of care id
       - Data:
@@ -42,30 +44,30 @@
       - Filtered by: ICN, site id
       - Data:
          - Member count
-   - Appointment history
+   - Appointment history (Appointment)
       - Filtered by: ICN, start date, end date
       - Data for each item:
-         - Clinic id
-         - Site id
-- Clinics
+         - Clinic id (Appointment.participant[HealthcareService].identifier)
+         - Site id (Appointment.participant[Location].identifier)
+- Clinics (HealthcareService)
    - Filtered by: ICN, facility id, site id, type of care id
    - Data for each item:
-      - Friendly name
-      - Regular name
-      - Id
-- Facility detail
+      - Friendly name (HealthcareService.serviceName)
+      - Regular name (HealthcareService.serviceName
+      - Id (HealthcareService.identifier)
+- Facility detail (Location)
    - Filtered by: User chosen facility id
    - Data:
-      - Name
-      - Address
-      - Phone
-- Appointment slots
+      - Name (Location.name)
+      - Address (Location.address)
+      - Phone (Location.telecom)
+- Appointment slots (Slot)
    - Filtered by: ICN, type of care id, clinic id, start date, end date
    - Data for each item:
-      - Date and time
-      - Timezone
-      - Duration
-      - Availability
+      - Date and time (Slot.start, Slot.end)
+      - Timezone (**Unknown**)
+      - Duration (Slot.start, Slot.end)
+      - Availability (Slot.freeBusyType)
 - Contact info
    - Filtered by ICN
    - Data:
