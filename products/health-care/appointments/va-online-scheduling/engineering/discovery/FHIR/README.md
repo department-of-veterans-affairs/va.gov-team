@@ -36,26 +36,38 @@ We know the following resources will be available:
 - Slot
   - Appointment slot that can be booked into.
 
-## Appointments List
+## Rails API related discovery
+
+### Figure out routes, folder hierarchy in vets-api repo for a new v1 VAOS API.
+
+### Investigate use of fhir_crucible gems and components or other rails specific FHIR commmunity maintained resources.
+
+### Instrumentation and operational challenges to supporting multiple API versions: breakers, errors, sentry, statsd, cloudwatch, rspec, others.
+
+### Documentation strategy for supporting multiple API versions
+
+## React UI related discovery
+
+### Appointments List
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md) Needs feedback from Mike/Brad on the questions raised. Can feel free to answer questions in the github issue below, or make edits to the markdown file directly to answer questions.
 - [Github Issue](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6386)
 
-### Appointment Cancellation
+#### Appointment Cancellation
 - Discovery In Progress
 
-# WIP
+## WIP
 All the sections identified below are still work in progress. These will be augmented with flow diagrams detailing the decision tree in its current form with recommendations on where some of this business logic and decision tree logic ought to be moved to the "monolith" API layer.
-## New Appointment Flow
-### Types of care
-### Community Cares
-### Facilities
-#### Parent Facilities
-#### What is supported?
-### Eligibility
-### Clinics
-### Time Slots (both request and self schedule)
-### Appointment Request Submission
-#### Appointment Messages
-### Community Care Request
-#### Appointment Messages
-### Direct Schedule Appointment
+### New Appointment Flow
+#### Types of care
+#### Community Cares
+#### Facilities
+  - Parent Facilities
+  - What is supported?
+#### Eligibility
+#### Clinics
+#### Time Slots (both request and self schedule)
+#### Appointment Request Submission
+  - Appointment Messages
+#### Community Care Request
+  - Appointment Messages
+#### Direct Schedule Appointment
