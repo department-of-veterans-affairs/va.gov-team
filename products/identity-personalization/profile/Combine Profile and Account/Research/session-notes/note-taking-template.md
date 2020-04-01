@@ -4,27 +4,6 @@
 
 *[Participant #] [Date] [Time]*
 
-## Moderator logistics
-
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
-
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
-
-*In the Attendees section, make sure everyone except the participant is on mute*
-
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
-*Check your [screensharing setup]*
-
-*When the participant is ready, begin the session with the following intro*
-
-### Project-specific setup
-
-- Open VA.gov in a tab
-- Open Mobile prototype in another tab (https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
-- Open Desktop prototype in another tab (https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
-- Open old profile (in staging) to show at the end
-
 ## Intro (5 minutes)
 
 Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website.
@@ -37,6 +16,8 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+    
+    **Participant:** Notes here
 
 *Start recording.*
 
@@ -46,17 +27,48 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Tell me about your service history OR tell me about yourself
-2. Have you ever been to VA.gov?
-- (if yes) How often do you use VA.gov on average?
--  What do you typically do on Va.gov?
-3. Have you ever used VA.gov to update your personal information?
-- (if yes) Can you tell me about this experience?
-- (if yes) Can you tell me what you were specifically doing?
-- Do you remember what forms you used?
-4. Are you currently recieving any benefits from the VA? Which ones?
-- Did you get these by applying through the website? When?
-5. Have you ever connected any outside apps to your VA health records? (*clarifier*) (For example, it's possible to connect your health app from your iphone to your VA health records.)
+**Moderator: Before we look at the website, let’s start with a few warm-up questions.Tell me about your service history OR tell me about yourself**
+
+**Participant:** 
+ 
+ 
+**Moderator: Have you ever been to VA.gov?**
+
+**Participant:** 
+ 
+**Moderator: (if yes) How often do you use VA.gov on average?**
+
+**Participant:** 
+ 
+**Moderator:  What do you typically do on Va.gov?**
+
+**Participant:** 
+
+**Moderator:  Have you ever used VA.gov to update your personal information?**
+
+**Participant:** 
+
+**Moderator:(if yes) Can you tell me about this experience?**
+
+**Participant:** 
+
+**Moderator:(if yes) Can you tell me what you were specifically doing?**
+
+**Participant:** 
+
+**Moderator:Do you remember what forms you used??**
+
+**Participant:** 
+
+**Moderator:Are you currently recieving any benefits from the VA? Which ones?**
+
+**Participant:** 
+
+**Moderator:Did you get these by applying through the website? When?**
+
+**Participant:**
+
+**Have you ever connected any outside apps to your VA health records? (*clarifier*) (For example, it's possible to connect your health app from your iphone to your VA health records.)**
 
 ## Screenshare
 
