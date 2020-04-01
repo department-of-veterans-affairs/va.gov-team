@@ -5,8 +5,8 @@ Status: Blocked by outstanding questions
 ## Services
 ### Current services used
 
-/vaos/appointments
-/vaos/appointment_requests
+- /vaos/appointments
+- /vaos/appointment_requests
 
 ### Equivalent FHIR resource
 Appointment: http://hl7.org/fhir/dstu2/appointment.html
