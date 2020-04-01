@@ -1,4 +1,4 @@
-# 1010-CG Status Update
+# 1010-CG Long Term Plan (Draft)
 
 
 
