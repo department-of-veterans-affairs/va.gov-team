@@ -44,7 +44,7 @@
 | Review entered data prior to submission | 176 | :white_check_mark:|
 | Provide a signature for Veteran and Caregiver | 164 | :white_check_mark:|
 | Recieve and print a confirmation message after submission | n/a | :zap: |
-| Receive instruction to print and mail the form if online form submission is not available| n/a | :zap: |
+| Receive instruction to print and mail the form if online submission is not available| n/a | :zap: |
 | Not able to edit form after submission| 165 | :white_check_mark:|
 | --- | --- | 
 | Business will be able to: | 
