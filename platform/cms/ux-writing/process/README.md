@@ -41,9 +41,9 @@
 
 4. **Leave room for the writing process**
 - There’s always something that can be edited, even after one produces an initial draft they feel confident about. There will almost always need to be multiple drafts for text at various stages of the work, so it’s important to:
-- Anticipate multiple iterations of the text, which may have technical or design implications.
-- Make sure the UX writer gives a final sign off on the text before it’s implemented in a prototype or in the product.
-- Editing can get messy, so The UX writer should clearly communicate what state the text is in (draft/validate/peer review/final)
+  - Anticipate multiple iterations of the text, which may have technical or design implications.
+  - Make sure the UX writer gives a final sign off on the text before it’s implemented in a prototype or in the product.
+  - Editing can get messy, so The UX writer should clearly communicate what state the text is in (draft/validate/peer review/final)
 
 5. **Give feedback**
 - Peer review should always be part of the UX writing AC. Anticipate spending time giving feedback along with other members of the team.
