@@ -18,11 +18,11 @@ Feature Toggles will enable teams to test out new functionality (Applications, f
 
 ## Product Responsibility (Last updated: 1-16-20 )
 Features Toggles curently are a shared responsibility by the FE and BE Tools Teams.
-- Troubleshooting: #vsp-product-support
-- Onboarding: #vsp-product-support
-- Maintenance: #vsp-tools-fe or #vsp-tools-fe
-- Training Documents: #vsp-tools-fe or #vsp-tools-fe
-- Product Feedback or New Feature Requests: #vsp-tools-fe or #vsp-tools-fe
+- Troubleshooting: #vsf-product-support
+- Onboarding: #vsf-product-support
+- Maintenance: #vsf-product-support or #vsp-tools-fe
+- Training Documents: #vsf-product-support
+- Product Feedback or New Feature Requests: #vsf-product-support
 
 ## Examples or References of usage:
 - Direct Deposit Team used feature toggles for a % rollout - [Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1674)
