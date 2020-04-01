@@ -12,7 +12,7 @@
 - Synthesize findings and document in back end style guide
 
 
-## Planning UX writing work
+## Planning cross-functional work
 
 1. **Add the UX writing label as early as possible in planning**
 - Team members add the maroon colored UX writing label to GitHub issues when there are words/text involved that end users will see as a part of any of the following:
@@ -45,5 +45,5 @@ Because gathering enough context to do the writing is often a lot more work than
 - Make sure the UX writer gives a final sign off on the text before it’s implemented in a prototype or in the product.
 - Editing can get messy, so The UX writer should clearly communicate what state the text is in (draft/validate/peer review/final)
 
-**Give feedback**
-Peer review should always be part of the UX writing AC. Anticipate spending time giving feedback along with other members of the team.
+5. **Give feedback**
+- Peer review should always be part of the UX writing AC. Anticipate spending time giving feedback along with other members of the team.
