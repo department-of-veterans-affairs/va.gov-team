@@ -11,11 +11,12 @@
   - Pull out key codes into concepts mind map (when appropriate) + Airtable database
   - Synthesize findings and document in back end style guide
 
+## When to involve UX writing
 
-## Planning cross-functional work
+0. Are there words visible to CMS users in the development of a new feature or enhancement? If yes...
 
 1. **Add the UX writing label as early as possible in planning**
-- Team members add the dark red colored UX writing label to GitHub issues when there are words/text involved that end users will see as a part of any of the following:
+- Team members add the dark red colored UX writing label to GitHub issues as a part of any of the following:
   - A spike or planned design work
   - New features or new functionality 
   - Existing functionality + planned design work 
@@ -23,15 +24,8 @@
 
 2. **Break out the work**
 - Label epics and stories in a way that helps plan and track the work:
-- For small lifts, such as **1 story point or less**: add the following AC for collaborating w/ UX writer 
-  - [ ] Collaborate w/ UX writer on ____ text
-  - [ ] Draft text in a format that is ready for usability testing or implementation
-  - [ ] Validate draft with those responsible for the work
-  - [ ] Peer review by a member of the design pod 
-  - [ ] Finalize edits to text, and mark as ready to implement in the original issue
-  - [ ] Document strategy behind language choices that are relevant to [the back end style guide](https://docs.google.com/document/d/1o3euR0eMoXRyp8G6sx1OCpmRtBShYGAm-Rb8MSXXir0/edit#)
-- For bigger lifts, such as **2+ story points**: add an associated [UX writing task issue](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/.github/ISSUE_TEMPLATE/cms-ux-writing.md) 
-- Because gathering enough context to do the writing is often a lot more work than it seems, most work falls in category #2, so if you’re not sure, add it as its own issue.
+(https://docs.google.com/document/d/1o3euR0eMoXRyp8G6sx1OCpmRtBShYGAm-Rb8MSXXir0/edit#)
+- Add an associated [UX writing task issue](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/.github/ISSUE_TEMPLATE/cms-ux-writing.md) 
 
 3. **Get clear on the context**
 - A UX writer and others will start collaborating by getting clear on the following:
