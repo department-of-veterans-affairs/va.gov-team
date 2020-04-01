@@ -103,7 +103,7 @@ Alright, just a reminder - you are trying to update your mailing address.
 
 ## Second Task: Connected Apps (Mobile View) (10 minutes)
 
-Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with a non-VA doctor doctor. But now you've decided you want to remove the Health app's access to your VA records.   
+Okay, great. Now we are going to walk through another scenario.  Imagine that last month, you used your iPhone's Health app to share your VA medical records with a non-VA doctor. But now you've decided you want to remove the Health app's access to your VA records.   
 
 (*Clarifiers*) - So you have an app on your phone that you've previously connected to VA.gov and now you want to remove that app from VA.gov.
 
