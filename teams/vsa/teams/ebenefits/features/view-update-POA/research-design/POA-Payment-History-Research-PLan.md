@@ -34,12 +34,64 @@ Payment table headers:<br>
 ### Goals        
 Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
 
-#### Document the user's expectations of the tool. 
-- 
-#### Note the user's pain points.
-- 
-#### Assess the user's level of comprehension of the tasks. 
-- 
+#### Power of Attorney
+- Document the veteran’s expectations of the tool. 
+  - Determine the tool’s intuitiveness.
+  - Confirm the usage of the digital process compared to the paper form.
+  - Uncover during what point do veterans select a representative. 
+    - After the VA has denied the claim.
+    - After issues with VA bureaucracy.
+    - After the veteran has vetted a VSO or attorney. 
+  - Document how veterans became aware of this benefit?
+- Discover veteran’s pain points.
+ - Determine best location on VA.gov
+ - Assess ease of entry into the tool.
+ - Determine that Headers VA file number and Insurance number are clear to the veterans.
+ - Uncover more efficient methods to search for an attorneys and a VSOs
+- Assess the veteran’s level of comprehension.
+ - Confirm veteran’s understanding of rights waived.
+ - Confirm attorney or VSO involvement with completing the form? 
+ - Assess the helpfulness of the legal text.
+    - Should/could we write better content for each step to increase veterans understanding of the legal statements?
+ - Determine veterans awareness of what the next steps are the denial process.
+ - Determine if veterans can differentiate wizard’s steps and search functionality
+-  Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
+
+#### Payment History
+- Uncover what information is pertinent to the veterans.
+ - Determine the veterans frequency of visiting the site?
+    - Define information hierarchy
+    - Confirm type of payable accounts.
+ - Determine what is driving the veterans to visit the site.
+    - Confirm if they are correcting a payment error.
+    - Confirm if they are verifying a sent payment.
+- Confirm the veterans verification of a payment through Payment History compared to their personal banking institution.
+- Determine best location on VA.gov
+- Confirm the veterans expectation of the table
+    - Determine if veterans are searching for a particular payment or a period 
+    - Confirm search features expected by the veterans
+      - Document how the veterans would prefer search functionality
+        - sort, filter, fuzzy math, suggested search results
+     - Uncover the amount of payments need to be displayed.
+       - Mobile vs desktop
+     - Confirm the different veteran needs by device (mobile needs vs Desktop needs)
+       - Does the data displayed change by device
+       - Does the use case change based on device 
+
+## Questions
+- Is the wizard intuitive to the veterans? (POA) 
+- Is the information presented clearly? (POA)
+- Do Veterans understand what the different Power of Attorney steps mean? (POA)
+- Do users understand how to fill in each field? (POA)
+- What do users think will happen after they’ve submitted the form? (POA)
+- What information do Veterans expect to see in the search results? (POA)
+- How do users navigate the representative results? (POA)
+- What other tools/sites do vets use to fill out the Power Of Attorney Form? (POA)
+- How do veterans determine to employ a representative to dispute their claims? (POA)
+- What information do Veterans expect to see in the Payment tables? (PH)
+- How do users navigate the Payment table? (PH)
+- What other tools/sites do vets use to confirm payments made? (POA)
+Would you like to see the whole number of astics numbers with last 4
 
 ### Hypothesis   
 #### Power of Attorney
