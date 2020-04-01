@@ -53,7 +53,7 @@ Unless its an emergency, waiting until standup to discuss assignments for reques
 
 The #vfs-backend-utility-dev channel can be used to track new and resubmitted PRs, as can the GitHub filters in the channel description. We try to have a 24h turnaround, so getting to them quickly is important, especially for small/simple/easy PRs.
 
-There are several GitHub filters you can use, all of which are pinned in the #vfs-backend-utility-dev channel. These include filters for first-time reviews for vets-api and GIDS as well as second reviews for vets-api PRs.
+There are several GitHub filters you can use, all of which are pinned in the #vfs-backend-utility-dev channel. These include filters for [first-time reviews for vets-api](https://github.com/department-of-veterans-affairs/vets-api/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP+NOT+WIP+) and [GIDS](https://github.com/department-of-veterans-affairs/gibct-data-service/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+) as well as [second reviews for vets-api PRs](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3A%22Please+Review%22+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP).
 
 Once you have started to review a PR, *please track it by additing it to the Code Review Epic for the sprint*.
 
