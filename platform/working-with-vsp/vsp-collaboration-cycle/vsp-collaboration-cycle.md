@@ -363,6 +363,7 @@ Ensure your feature meets VSP's privacy and security standards.
 - Description of any new publicly-exposed endpoints (vets-api or otherwise)
 - Description of any new interactions with dependent services (i.e. vets-api --> ???)
 - Description of any other security hotspots you're concerned about / want extra attention on
+- Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 ### Outcomes and artifact outputs
