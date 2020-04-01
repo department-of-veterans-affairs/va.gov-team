@@ -1,6 +1,10 @@
 # CMS back end style guide
+How to write text that improves the usability of the Va.gov content management system and communications to users.
 
-Guides writing and communications related to the CMS as a product so current and future UX designers and developers on the CMS team can make decisions about CMS language that is consistent, well-designed, and backed by research.
+**For issues not covered in this guide, default to following:**
+1. [Va.gov content style guide](https://design.va.gov/content-style-guide/index) (front-end style guide)
+2. AP style
+
 
 ## Index
 
@@ -13,6 +17,7 @@ Guides writing and communications related to the CMS as a product so current and
 - Error Messages
 - Field labels
 - Help text
+- User guides
 
 **Grammar**
 - Punctuation
