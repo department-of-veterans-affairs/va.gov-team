@@ -118,7 +118,11 @@ PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Go
 *   In addition to putting time away on the PTO Calendar, you can also block off OOO times and appointments as events on your work calendar, but don’t send them off as meeting invites.
 *   If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
 
-## GitHub
+## GitHub Links
+*   **GitHub: VA.gov Documentation** \
+https://department-of-veterans-affairs.github.io/va.gov-team \
+VSP's knowledge hub (quick links page) for building on VA.gov
+
 *   **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
 https://github.com/department-of-veterans-affairs/vets-website \
 Frontend Source Code: React.js, HTML
@@ -205,6 +209,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platfo
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/request-for-change \
 Many of the RFCs do a good job explaining why things are the way they are. How to propose changes: create a RFC, then submit a PR so that it the RFC can be commented on and discussed; after consensus, merge/close.
 
+*   **GitHub: VA<span/>.gov | VSP | Quality Assurance** \
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance \
+["Unit" Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/unit-testing) ([Enzyme](https://enzymejs.github.io/enzyme/) integration tests for React components, runs on the unit testing stacks; [e2e Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing): Nightwatch API with some custom helpers, [Redux Dev Tools Chrome extension](https://github.com/zalmoxisus/redux-devtools-extension). [Load Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing): Locust and wrk2. [TestRail](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/testrail) is the test managment software used for recording evidence of both manual and automated tests (mostly manual for now).
+
 *   **GitHub: VA<span/>.gov | VSA | Main** \
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa
 
@@ -268,11 +276,11 @@ Postman             | https://www.getpostman.com    | Needed to test and develop
 pgadmin	           | https://www.pgadmin.org       | PostgreSQL Tools.
 Chrome              | https://www.google.com/chrome | Needed for front-end development plug-ins.
 Chrome&nbsp;Extension: *React Developer Tools* | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Strongly recommended for React debugging.
+Chrome&nbsp;Extension: *Redux DevTools* | [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Used by developers writing [e2e tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/README.md), to record information entered on forms.
 Chrome&nbsp;Extension: *Proxy&nbsp;SwitchyOmega* | [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) | Needed to access internal DevOps web sites sites--[such as Jenkins, Sentry, Prometheus, Grafana](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)--over SOCKS5 proxy.
 Chrome&nbsp;Extension: *axe* | [axe&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *required*. Catch accessibility issues during development *before* they are flagged by the build.
 Chrome&nbsp;Extension: *axe-coconut* | [axe-coconut&nbsp;-&nbsp;Web&nbsp;Accessibility Testing](https://chrome.google.com/webstore/detail/axe-coconut-web-accessibi/iobddmbdndbbbfjopjdgadphaoihpojp) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *required for new development*. Catch WCAG 2.1 accessibility issues during development *before* they are flagged by the build.
 Chrome&nbsp;Extension: *Lighthouse* | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | [508 accessibility scanning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation): *recommended*. Audits for web performance, accessibility, progressive web apps, SEO and more.
-
 
 #### Local Build Instructions
 * **Front End:** https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/run-build
