@@ -15,7 +15,7 @@
 ## Planning cross-functional work
 
 1. **Add the UX writing label as early as possible in planning**
-- Team members add the maroon colored UX writing label to GitHub issues when there are words/text involved that end users will see as a part of any of the following:
+- Team members add the dark red colored UX writing label to GitHub issues when there are words/text involved that end users will see as a part of any of the following:
   - A spike or planned design work
   - New features or new functionality 
   - Existing functionality + planned design work 
