@@ -10,6 +10,7 @@ Debt Letters MVP
 
 ### Problem Statement / How Might We statements
 - How might we make it simpler for Veterans to view, interpret, and pay their debts to the VA? _(Might be too broad?)_
+- How might we better inform Veterans of their debts to the VA? 
 
 ### What Sprint Teams Are Associated with this Discovery? 
 * Benefits and Memorials 2
@@ -48,8 +49,6 @@ Jason Hoge (?)
 ## DISCOVERY PLANNING
 _To be filled out by Discovery Sprint Team._
 
-Note: revise above sections as needed
-
 ### Project Details
 
 #### What do we know?
@@ -68,10 +67,10 @@ Note: revise above sections as needed
     * 117 - 
     * 123 - 
   * If a Veteran's debt increases, they recieve another letter (130)
-  * The DMC tries to recoup the debt for 120 days before:
-    * The debt must be reported to credit bureaus, causing a credit score decrease for the Veteran
-    * The debt must be sent to the Department of Treasury, which can look for other sources of income to debit. A debt going to the Department of Treasury can take on a 30-32% fee to the debtor.
-  * A debt will remain in the VA's system indefinitely until it is paid. A debt deemed 'uncollectible' can go inactive until the Veteran receives benefits again.
+* The DMC tries to recoup the debt for 120 days before:
+  * The debt must be reported to credit bureaus, causing a credit score decrease for the Veteran
+  * The debt must be sent to the Department of Treasury, which can look for other sources of income to debit. A debt going to the Department of Treasury can take on a 30-32% fee to the debtor.
+* A debt will remain in the VA's system indefinitely until it is paid. A debt deemed 'uncollectible' can go inactive until the Veteran receives benefits again.
 
 #### What don't we know?
 ##### Business Side:
