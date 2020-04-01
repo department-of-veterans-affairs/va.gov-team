@@ -35,7 +35,7 @@
 | Requirement | Ticket # | Status |
 | --- | --- | --- |
 | User will be able to: | 
-| Navigate to the 10-10CG online application| n/a| :no_entry_sign:
+| Navigate to the 10-10CG online application| n/a| :zap:
 | View instructions if the online form is unavailable | n/a | :zap: |
 | Start 10-10CG application online without logging in| 155 | :white_check_mark:|
 | Fill in all fields from the paper 10-10CG form | n/a | :white_check_mark:|
