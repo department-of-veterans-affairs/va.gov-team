@@ -14,7 +14,7 @@ FHIR equivalent in parentheses
          - Confirmed
          - Pending
          - Cancelled
-      - Method (*derived from Appointment.participant?*)
+      - Method (**derived from Appointment.participant?**)
          - Community Care
          - VA facility
          - VA video
@@ -29,7 +29,7 @@ FHIR equivalent in parentheses
       - Appointment date and time (Appointment.start, Appointment.end, or Appointment.slot)
          - Timezone of facility
          - Both requested times and confirmed times
-      - User provided detail (*Appointment.comment?*)
+      - User provided detail (**Appointment.comment?**)
       - Appointment context (Appointment.reason)
          - Routine
          - Medication concern
@@ -42,5 +42,5 @@ FHIR equivalent in parentheses
       - Request messages
          - Filtered by: ICN, request id
          - Data for first item:
-            - Message text (*Appointment.reason or Appointment.comment*)
+            - Message text (**Appointment.reason or Appointment.comment**)
          
