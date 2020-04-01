@@ -1,6 +1,6 @@
 # Appointment list
 
-FHIR equivalent in parentheses
+FHIR equivalent in parentheses, bold items are uncertain/unknown
 
 - Appointment list
    - Filtered by: ICN, start date, end date
@@ -38,7 +38,7 @@ FHIR equivalent in parentheses
       - User contact details (Appointment.participant[Patient])
          - Email
          - Phone
-      - Allowed cancel reasons (*Unknown*)
+      - Allowed cancel reasons (**Unknown**)
       - Request messages
          - Filtered by: ICN, request id
          - Data for first item:
