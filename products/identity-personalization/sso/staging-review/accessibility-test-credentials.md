@@ -1,4 +1,4 @@
-# Accessibility Test Credentials Template
+# SSO Accessibility Test Credentials
 
 So you're ready for an accessibility review as part of your [VSP staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D). Outstanding! In order to ensure the accessibility review goes smoothly, please make a copy of this template and your [accessibility test cases](#link-to-test-cases). Save them to the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/) repository.
 
