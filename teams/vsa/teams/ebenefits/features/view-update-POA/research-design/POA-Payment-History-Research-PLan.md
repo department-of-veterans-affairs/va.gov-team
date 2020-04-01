@@ -38,7 +38,7 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
 - 
 #### Note the user's pain points.
 - 
-#### Access the user's level of comprehension of the tasks. 
+#### Assess the user's level of comprehension of the tasks. 
 - 
 
 ### Hypothesis   
