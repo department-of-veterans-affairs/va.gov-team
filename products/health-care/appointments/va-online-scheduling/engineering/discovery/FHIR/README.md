@@ -2,6 +2,9 @@
 
 The purpose of this document is to serve as a table of contents for all the discovery efforts related to Cerner FHIR APIs from the perspective of VAOS redesign. A few high level points are identified below.
 
+- ### Upcoming VAOS Architecture milestones
+  - As discussed in Tampa, the following architectural milestones will provide guidance for FHIR API implementation as part of VAOS redesign. [VOAS Architecture Milestones](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/VAOSArchitectSvcMilestones_20200109-VAOS-DesignEvolutionDraft.pdf)
+
 - ### API design best practices
   - As discussed in Tampa, any new iteration on APIs would ideally follow some of the best practices identified here: [API design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/api_observations.md).
 
