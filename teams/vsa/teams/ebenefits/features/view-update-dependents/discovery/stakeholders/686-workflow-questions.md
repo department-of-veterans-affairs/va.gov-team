@@ -21,6 +21,24 @@
 17. Was the June 2014 version of the 21-686c used to remove dependents from a Veteran's disability claim?
 18. Is/was the Veteran responsible for "updating" dependents info via the 21-686c (e.g. a separated spouses address).
 19. ~~The paper form directs users to VA.gov for the digital version (it does not yet exist there); do you have staff that monitors/manages the digital version of forms (in the event of problems, changes, etc.)? As it exists on eBenefits?~~
+20. What are the implications of “Separated Spouses”?
+21. What are the implications of “Veteran Spouses”?
+22. How long does processing (typically) take?
+23. What address considerations are made for homeless claimants?
+24. What is the best phone number for questions or follow-up?
+25. 21-674 Request for School Attendance
+26. Prior term school can/should include high school--even if they were 17?
+27. Implications of sessions/classes per week?
+28. Can term dates (or any dates) be post dated?
+29. When is 674 “due” relative to school term
+30. Do applicants have to supply “proof” of school attendance for approval?
+31. Which address is required for student (home/school)
+32. Which address for school is needed (e.g. main campus, satellite, online...)
+33. Is it possible to look at a successful deliverable from RBPS? 
+34. Is there a model payload?
+35. What is the current RBPS success rate for the 21-686c/674?
+36. How many forms are sent in annually?  How many of those are automatically processed?
+37. How long does approval take for manual submission vs auto?
 
 ### For Us / General
 1. Can VA.gov support role-based access/permissions yet? Or is just Veterans accessing Authenticated Experiences?
@@ -36,8 +54,8 @@
 - I'd want to test this in user sessions when testing the designs. I don't believe we do this in other long applications.
 
 ## Concerns
-1. Seems VA.gov is specific with their forms. They have a convention of calling-out the VA paper form number itself when presenting the digital equivalent; we may not be able to abstract them away, collect data and package it as a form submission.
-2. So we may have to drive users to a specific 21-674 form if they want to request school attendance.
+1. VA.gov is specific with their forms. They have a convention of calling-out the VA paper form number itself when presenting the digital equivalent; we may not be able to abstract them away, collect data and package it as a form submission.
+2. We may have to drive users to a specific 21-674 form if they want to request school attendance.
 - SK: We should do what we can to mitigate this and to inculde the 674 experience in the broader Dependency Claims experience.
 3. The loop and list feature looks wobbly in the Rainbows 686 implementation; appears to be styling problems with button placement, and I'd like to see the second element 'committed' using a button rather than just a blind 'Continue.'
 4. We may need to add organizing styling or features to form generator. We may ned to ditch the progress bar.
