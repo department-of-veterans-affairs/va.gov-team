@@ -100,6 +100,7 @@
   - Led the vets.gov > va.gov design.
   - There have been talks about when Andy was still on the team "what if we make the logged out homepage a big thing that says 'you need to log in to manage your tools'"
   - Will have insights into logged in/vs logged out homepage
+  - Ask about history behind a prominent "create account/log in" call to action ever tried out on the logged-out homepage / what's the background behind why we don't have a "register" button on the site and only have "sign in" with the callout to create an account within "Sign in"?
   
 30 min would probably be enough for most people on the list.
 
