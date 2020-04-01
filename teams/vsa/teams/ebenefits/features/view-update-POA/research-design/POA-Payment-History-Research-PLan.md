@@ -15,7 +15,7 @@ Payment table headers:<br>
  - Date (of payment)
  - Type (of payment which office made a payment
  - Account (payable to)
- - Instituion (payable to) 
+ - Institution (payable to) 
  - Amount (paid or returned)
 
 
@@ -44,25 +44,25 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
     - After the veteran has vetted a VSO or attorney. 
   - Document how veterans became aware of this benefit?
 - Discover veteran’s pain points.
- - Determine best location on VA.gov
- - Assess ease of entry into the tool.
- - Determine that Headers VA file number and Insurance number are clear to the veterans.
- - Uncover more efficient methods to search for an attorneys and a VSOs
+  - Determine best location on VA.gov
+  - Assess ease of entry into the tool.
+  - Determine that Headers VA file number and Insurance number are clear to the veterans.
+  - Uncover more efficient methods to search for an attorneys and a VSOs
 - Assess the veteran’s level of comprehension.
- - Confirm veteran’s understanding of rights waived.
- - Confirm attorney or VSO involvement with completing the form? 
- - Assess the helpfulness of the legal text.
+  - Confirm veteran’s understanding of rights waived.
+  - Confirm attorney or VSO involvement with completing the form? 
+  - Assess the helpfulness of the legal text.
     - Should/could we write better content for each step to increase veterans understanding of the legal statements?
  - Determine veterans awareness of what the next steps are the denial process.
  - Determine if veterans can differentiate wizard’s steps and search functionality
--  Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
+ - Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
 
 #### Payment History
 - Uncover what information is pertinent to the veterans.
- - Determine the veterans frequency of visiting the site?
+  - Determine the veterans frequency of visiting the site?
     - Define information hierarchy
     - Confirm type of payable accounts.
- - Determine what is driving the veterans to visit the site.
+  - Determine what is driving the veterans to visit the site.
     - Confirm if they are correcting a payment error.
     - Confirm if they are verifying a sent payment.
 - Confirm the veterans verification of a payment through Payment History compared to their personal banking institution.
