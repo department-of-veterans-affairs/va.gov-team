@@ -1,7 +1,7 @@
 # 9 UX Writing Principles to make the VA.gov CMS more usable
 
 ## Address the user
-Whether it’s help text, labels, or user guides, the words in the CMS are part of a conversation between the system and the user. Good UX manners suggest that the CMS should speak to the user in ways that are relevant and easy to understand, rather than trying to impress the user with its jargon and technical prowess. 
+Whether it’s help text, labels, or user guides, the words in the CMS are part of a conversation between the system and a user. Good UX manners suggest that the CMS should speak to the user in ways that are relevant and easy to understand, rather than trying to impress the user with its jargon and technical prowess. 
 
 ## Be concise
 Write text that gives content editors only the information they need to confidently accomplish their tasks with minimal cognitive load, so they can focus their attention on what matters. 
