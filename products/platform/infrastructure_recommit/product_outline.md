@@ -61,6 +61,7 @@ Local development Close coupling of system and service deployment (kernel patche
 - Making a flexible infrastructure will help the Platform adapt to different needs 
 - Development will increase 
 - The sentiment of complexity will decrease  
+- There will be more teams like GIDs with their own custom backends comeing on the platform in the future. 
 
 ## Solution Approach
 We will work in a discovery sprint then four different phases: 
