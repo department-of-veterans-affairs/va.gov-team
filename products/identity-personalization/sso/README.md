@@ -71,13 +71,6 @@ _What we hope to achieve, or enable, through our work. A vision should be ambiti
 Seamless navigation for any user redirected between health tools or benefits housed on multiple platforms (VA.gov, MHV, My VA Health).
 
 
-## North Star Metric
-
-_The key result we will track and hope to see from our work_
-
-1. Reduced re-directs to login pages for authenticated users (likely VA.gov > MHV and VA.gov > eBenefits)
-2. My VA Health?? (Standalone login page and updates to VA.gov Health pages)
-
 
 ## Desired Outcomes
 
@@ -95,8 +88,8 @@ _The key result we will track and hope to see from our work_
 
 **KPIs (in addition to north star metric)**
 
-*   lower traffic to MHV Create Account page and eBenefits login page
-*   reduced bounce rate for MHV Create Account page and eBenefits login page
-*   reduced calls to help desk about login-related issues
+*   Maintain login success rate for MHV users
+*   Maintain login success rate for DSLogon
+*   Maintain login success rate for id.me
 
 
