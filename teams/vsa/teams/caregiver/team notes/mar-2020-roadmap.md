@@ -2,10 +2,6 @@
 
 - [Draft Timeline](#draft-timeline)
 - [User Stories](#user-stories)
-- [Phase 1 (Estimated July 2020)](#phase-1-estimated-july-2020)
-- [Phase 2 (Estimated September 2020)](#phase-2-estimated-september-2020)
-- [Phase 3 (Estimated January 2021)](#phase-3-estimated-january-2021)
-- [Phase 4 (Estimated March 2021)](#phase-4-estimated-march-2021)
 
 ## Draft Timeline
 | Date | Milestone |
