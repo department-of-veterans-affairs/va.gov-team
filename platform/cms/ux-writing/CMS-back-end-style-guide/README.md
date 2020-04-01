@@ -1,10 +1,9 @@
-# CMS back end style guide
-How to write text that improves the usability of the Va.gov content management system and communications to users.
+# CMS back-end style guide
+How to write text that improves the usability of the VA.gov content management system and communications to users.
 
 **For issues not covered in this guide, default to following:**
-1. [Va.gov content style guide](https://design.va.gov/content-style-guide/index) (front-end style guide)
+1. [VA.gov content style guide](https://design.va.gov/content-style-guide/index) (front-end style guide)
 2. AP style
-
 
 ## Index
 
@@ -14,8 +13,8 @@ How to write text that improves the usability of the Va.gov content management s
 
 **Kinds of content**
 - Button labels
-- Error Messages
-- Field labels
+- Error messages
+- Labels
 - Help text
 - User guides
 
