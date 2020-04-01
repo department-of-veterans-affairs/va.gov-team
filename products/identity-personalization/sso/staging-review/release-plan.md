@@ -3,28 +3,21 @@
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-_Is this something we can implement with SSO using sticky feature flagging?_
+N/A for this feature release.
 
-### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
 
-### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
 
 ## Phase II: unmoderated production testing
 
 ### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
-- Desired date range: 4/1/20 - 4/6/20
-- Desired number of unique users: XX% (20%?) of total logins per day (~2.6M total and 2.2M unique over this time period)
+- Desired date range: 4/8/20 - 4/10/20
+- Desired number of unique users: We plan to start with 1% of users and gradually increase users over two days.
+- How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
+- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+
+### Planning - Inbound (SSOe is live for users logging in on [eauth](https://eauth.va.gov/accessva/) properties and then navigating to VA.gov):
+- Desired date range: 5/4/20 - 5/8/20
+- Desired number of unique users: We plan to start with 1% of users and gradually increase users over two days.
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
@@ -40,10 +33,10 @@ _Is this something we can implement with SSO using sticky feature flagging?_
 ## Go Live!
 
 ### Planning - Inbound and Outbound both at 100%:
-- Desired date: 4/7/20
-- Post-launch KPI 1: Number of logins on VA.gov remains consistent
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- Desired date: 5/11/20
+- Post-launch KPI 1: Number of successful logins on VA.gov remains consistent
+- Post-launch KPI 2: Reduced bounce rate for MHV Create Account page and eBenefits login page
+- Post-launch KPI 3: lower traffic to MHV Create Account page and eBenefits login page
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
