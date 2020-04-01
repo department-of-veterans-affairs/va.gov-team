@@ -1,6 +1,6 @@
 # 9 UX Writing Principles to make the VA.gov CMS more usable
 
-## Write to the user
+## Address the user
 Whether it’s help text, labels, or user guides, the words in the CMS are part of a conversation between the system and the user. Good UX manners suggest that the CMS should speak to the user in ways that are relevant and easy to understand, rather than trying to impress the user with its jargon and technical prowess. 
 
 ## Be concise
@@ -22,8 +22,8 @@ Whenever possible, help content editors see the “why” driving CMS functional
 Turn content editors into CMS users by helping them get comfortable with concepts related to  
 Drupal and structured content. When introducing technical or unfamiliar terms, include context that provides a definition.
 
-## Empower human-centered content editors
-Convert CMS users into human centered designers by integrating HCD guidance into user guides and help text. Make it easy for users to understand what features they have at their disposal to solve service and content design problems and meet Veteran needs.
+## Encourage human centered design 
+Convert CMS users into human centered designers by integrating guidance into user guides and help text. Make it easy for users to understand what features they have at their disposal to solve service and content design problems and meet Veteran needs.
 
 ## Writing = designing
 Writing shapes user experience just as much as the visual and functional elements of an interface, therefore UX writing should act as a fully integrated practice with other UX research and design activities on the CMS team.
