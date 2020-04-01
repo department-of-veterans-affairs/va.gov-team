@@ -14,6 +14,25 @@ The purpose of this document is to serve as a table of contents for all the disc
 ## Epic
 The epic tracking the individual components is accessible [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6387)
 
+## Overview
+
+We know the following resources will be available:
+
+- Appointment
+  - Represents an appointment or a request (a pending appointment)
+- HealthcareService
+  - This is possibly a VistA clinic or type of care
+- Location
+  - VA facility, Video appointment location, or CC provider
+- Organization
+  - VistA system (3 digit code)
+- Patient
+  - The current user
+- Schedule
+  - Collects available slots for a chosen health care service or practioner. No clear var-resources equivalent
+- Slot
+  - Appointment slot that can be booked into.
+
 ## Appointments List
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md) Needs feedback from Mike/Brad on the questions raised. Can feel free to answer questions in the github issue below, or make edits to the markdown file directly to answer questions.
 - [Github Issue](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6386)
