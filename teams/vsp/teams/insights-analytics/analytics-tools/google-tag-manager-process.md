@@ -1,6 +1,6 @@
 # Google Tag Manager and Google Analytics Internal Processes for VFS Implementations
 
-*Overview*: This resource outlines suggested processes for the Analytics-Insights team to guide and implement common VFS requests.
+*Overview*: This resource outlines suggested processes for the Analytics-Insights team to guide and implement common VFS requests for Modernized products. Implementation requests for MyHealtheVet, eBenefits, and legacy content are noted as well. 
 
 ## Helpful Artifacts in Planning Google Tag Manager Implementation:
 - Review the the VFS team's KPI Pre-Workshop Planning and KPI Workshop readouts
@@ -63,7 +63,11 @@ Configuration for non-form products include implementation for the Facility Loca
 *To-do's for Analytics-Insights Team:*
 1. Provide dataLayer requirements to VFS teams that follow the `product prefix-interaction suffix`. For example, the event for MyHealtheVet logins is `login-attempted-mhv`.  
 2. Add conditions to triggers, like page paths where the trigger should fire, if applicable.
+3. Apply custom dimensions if necessary
+
+#### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
+The Analytics-Insights team also receives infrequent requests to implement new tracking on MHV,eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, the Analytics-Insights team has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
 
 ## Publishing Workspace
-Google Tag Manager environments were established, so that the Analytics-Insights team can publish their active workspace to Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
+Google Tag Manager environments were established, so that the Analytics-Insights team can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
 
