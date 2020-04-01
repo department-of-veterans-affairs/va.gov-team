@@ -20,7 +20,7 @@ FHIR equivalent in parentheses, bold items are uncertain/unknown
       - Id (Organization.identifier)
       - Friendly name (Organization.name)
       - City (Organization.address[].city)
-      - State (Organization.address[].city)
+      - State (Organization.address[].state)
       - Root site id (**Organization.identifier**)
 - VA child facilities (Location)
    - Filtered by: ICN, type of care id, parent facility id, site id
