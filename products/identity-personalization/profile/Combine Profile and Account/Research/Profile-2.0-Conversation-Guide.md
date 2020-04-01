@@ -48,6 +48,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 -  What do you typically do on Va.gov?
 3. Have you ever used VA.gov to update your personal information?
 - (if yes) Can you tell me about this experience?
+- (if yes) Can you tell me what you were specifically doing?
 - Do you remember what forms you used?
 4. Are you currently recieving any benefits from the VA? Which ones?
 - Did you get these by applying through the website? When?
