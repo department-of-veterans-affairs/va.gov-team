@@ -8,7 +8,7 @@
 4. How often is 686 used to remove dependents vs. adding them? 
 5. ~~It seems applying to add dependent to a claim would be the more popular use of the form; is that the case?~~
 6. Does VA have to “discover” deceased or divorced dependents, or do Veterans actually self-report? 
-7. Do child dependents automatically age-out?
+7. ~~Do child dependents automatically age-out?~~ Yes
 8. (That you're aware of) Is there any info/data that is not being collected from eBenefits that is collected by the paper form? The reverse? Info collected but not on the paper form? (e.g. Veteran’s birthdate, service #)
 9. Is there any info or data that’s being collected differently? (e.g. Middle name vs. middle initial, birth or marriage locations).
 10. Would it cause a problem if we handled 'location' information in two multi-purpose fields rather than a combination of four?
@@ -26,7 +26,11 @@
 22. How long does processing (typically) take?
 23. What address considerations are made for homeless claimants?
 24. What is the best phone number for questions or follow-up?
-25. 21-674 Request for School Attendance
+
+
+21-674 Request for School Attendance
+
+
 26. Prior term school can/should include high school--even if they were 17?
 27. Implications of sessions/classes per week?
 28. Can term dates (or any dates) be post dated?
