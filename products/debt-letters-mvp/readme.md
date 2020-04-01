@@ -81,9 +81,23 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 
 ## Solution
 
-- TBD
+### Phase 1
+#### Debt Landing Page
+[Epic](XXX)
+Veterans will be able to come to single place on VA.gov where they can get general information about incurring a debt with the VA and learn about their options for managing debt with the VA. This landing page should be clear and concise and accurately communicate the options Veterans have to manage and resolve debt.
 
-### User Goals
+#### Veteran Debt Letters
+[Epic](XXX)
+Veterans with an active debt with the VA will be able to receive secure outbound communications about that debt on VA.gov.
+
+### Phase 2
+#### New Letter Notifications
+Veterans will...
+
+#### Expanded Letter Types
+Veterans will be...
+
+### Potential User Goals
 - To have a single place through which I can manage any debts I have with the VA
 - To be able to understand all of the communication about any debts I have with the VA
 - To be able to understand and access all of the available paths to resolve any debts I have incurred
