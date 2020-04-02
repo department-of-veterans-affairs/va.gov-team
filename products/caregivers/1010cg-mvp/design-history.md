@@ -3,6 +3,31 @@ Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-
 
 Designers: Jonathan Nelson
 
+## Iteration 6 - Sprint 17
+
+### Feedback & Outcomes
+
+### Designs
+- https://vsateams.invisionapp.com/share/63WCRA92GSC
+- https://vsateams.invisionapp.com/share/Y4WCCM3NMCX
+- https://vsateams.invisionapp.com/share/ATW7AI7QXCV
+
+
+#### Design Iterations  
+Meeting date: Ongoing    
+Attendees: Jonathan Nelson
+
+Outcomes
+- Wireframed concepts for notification and status updates
+- Print stylesheet 
+- Print button on confirmation page 
+- Establishing documentation for content collaboration 
+
+Resources
+- https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/design-content%20specifications
+
+
+
 ## Iteration 5 - Sprint 16
 
 ### Feedback & Outcomes
@@ -17,10 +42,8 @@ Meeting date: Ongoing
 Attendees: Jonathan Nelson
 
 Outcomes
-Created prototype with no reference to log in (as it was decided that the MVP would be an unauthenticated experience). 
-
-
-Created and present options for plain language utilizing modals (Designs based on stakeholder conversations regarding plain language vs legalese)
+- Created prototype with no reference to log in (as it was decided that the MVP would be an unauthenticated experience).
+- Created and present options for plain language utilizing modals (Designs based on stakeholder conversations regarding plain language vs legalese)
 
 Resources
 
