@@ -1,6 +1,6 @@
 <h1 id="toc_0">Conversation Guide for Benefit Delivery at Discharge (BDD): Usability test 1 of 2</h1>
 
-<p><a href=".(/products/disability/disability-compensation-claim/bdd/BDD Research/Initial-usability-March2020/BBD-Research-Plan.md)">View the research plan</a>.</p> 
+<p><a href=".(/products/disability/disability-compensation-claim/bdd/BDD Research/Initial-usability-March2020/BBD-Research-Plan.md)">View the research plan here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BBD-Research-Plan.md
 
 <h2 id="toc_1">Moderator logistics</h2>
 
