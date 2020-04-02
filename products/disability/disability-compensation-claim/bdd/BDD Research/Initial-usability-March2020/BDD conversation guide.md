@@ -17,7 +17,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 <b>Project-specific setup</b>
 - Open VA.gov in a tab
-- Open prototype in another tab (https://vsateams.invisionapp.com/share/BUWOTNKFPK7)
+- Prototype (https://vsateams.invisionapp.com/share/BUWOTNKFPK7)
 
 <h2 id="toc_5">Intro - (5 minutes)</h2>
 
