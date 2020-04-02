@@ -12,6 +12,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### March 2020
 
+#### March 18-20: BDD Initial Usability test 
+*Governmentcioc researcher: Christian Valla
+
+-10 participants
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020)
+
 #### March 4-6: Facility Locator User Search Expectations
 *Ad Hoc: VSA Facilities, Aricka Lewis*
 
