@@ -1,5 +1,21 @@
 # Release Notes
 
+## SonarJS release rules
+
+Sprint 23 & 24 - April 2, 2020
+
+- The following [SonarJS rules](sonarjs.md) will be trialed:
+  - no-extra-arguments
+  - no-identical-expressions
+  - max-switch-cases
+  - no-duplicated-branches
+  - no-inverted-boolean-check
+  - no-redundant-boolean
+  - no-small-switch
+  - no-unused-collection
+- These rules will be under review for 4 weeks (Sprint 23 & 24) and enforced starting Sprint 25
+- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
+
 ## SonarJS deployed rules
 
 March 19, 2020
