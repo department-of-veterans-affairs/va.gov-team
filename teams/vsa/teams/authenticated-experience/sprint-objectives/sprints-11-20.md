@@ -559,6 +559,11 @@ Dev
 1. Profile 2.0: Prepare for QA
 2. Profile 2.0: Finish build
 
+Logged in homepage
+
+1. Analytics review
+2. Plan user research/kickoff recruiting
+
 ### Profile 2.0
 
 Design
