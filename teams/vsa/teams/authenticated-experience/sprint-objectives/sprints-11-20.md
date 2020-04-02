@@ -542,7 +542,8 @@ Dev
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-- What can we get done from the backlog?
+- Remove "Check out your new personalized homepage" footer banner #7535
+- Remove "Change your contact information..." modal that shows when users go to the profile #7537
 
 ### Logged in homepage (Don't include in main AE team sprint objectives)
 
