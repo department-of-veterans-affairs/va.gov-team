@@ -103,22 +103,6 @@ Our hypothesis is, the veteran will easily navigate through the wizard and effic
 Our hypothesis is, the veteran will have two principal ways they will use the tool.  First, expected features should be centered around efficiently searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
 
 ### Research Questions
-- Where is the best place to have this form in the IA?  (POA/PH)
-- Where would users want to find it? (POA/PH)
-- Is the wizard intuitive to the veterans? (POA) 
-- Is the information presented clearly? (POA)
-- Do Veterans understand what the different Power of Attorney steps mean? (POA)
-- Do users understand how to fill in each field? (POA)
-- What do users think will happen after they’ve submitted the form? (POA)
-- What information do Veterans expect to see in the search results? (POA)
-- How do users navigate the representative results? (POA)
-- What other tools/sites do vets use to fill out the Power Of Attorney Form? (POA)
-- How do veterans determine to employ a representative to dispute their claims? (POA)
-- What information do Veterans expect to see in the Payment tables? (PH)
-- How do users navigate the Payment table? (PH)
-- What other tools/sites do vets use to confirm payments made? (POA)
-Woudl you like to see the whole number of astics numbers with last 4
-
 #### Power of Attorney
 - Where is the best place to have this form in the IA?  (POA/PH)
 - Where would users want to find it? (POA/PH)
