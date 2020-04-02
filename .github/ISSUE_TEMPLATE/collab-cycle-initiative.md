@@ -29,3 +29,7 @@ assignees: ''
 
 ## Reference
 - [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf)
+
+## How to configure this issue
+- [ ] **Attached to an Epic** (what body of work is this a part of?)
+- [ ] **Labeled with Team**  
