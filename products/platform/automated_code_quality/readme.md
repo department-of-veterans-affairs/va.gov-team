@@ -26,10 +26,10 @@ Provide automated tooling to automate to improve code quality with explicit and 
 
 
 ## Version Notes:
-### Release v1.1 Srint 21 (03-30-20)
+### Release v1.1 Sprint 21 (03-30-20)
 - ESLint- First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
 ---
-### Release v1.0 Srint 20 (03-03-20)
+### Release v1.0 Sprint 20 (03-03-20)
 - ESLint- Publish and setup the first set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-release-rules)
 - Manual Review Triggers - Publish a [list of platform standards around code changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/manual-review-triggers.md) that will force a manual review by the FE developers
 
