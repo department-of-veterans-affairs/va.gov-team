@@ -114,7 +114,7 @@ Okay, great. Now we are going to walk through another scenario.  Imagine that la
 
 2. Was anything confusing to you in this process? 
 -(if yes) where would you look for answers?
--(if no) imagine you did have concerns, where would you go for more information?
+-(if no) imagine you did have concerns, where would you go for more information? (Follow up: imagine I wasn't here, where would you go for more information?)
 
 3. How would you connect a different app to your VA health records?
 (if confused - add clarifiers): If you wanted to find new apps on your phone to use with VA.gov, where would you look?
