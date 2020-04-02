@@ -14,12 +14,18 @@ _For moderated production testing, we will meet individually with each VSA team 
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: resources will be live in `va.gov-team` repository 
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of users: 10 teams
+- Number of bugs identified / fixed: N/A
+- Was the data submitted (if any) easy for VA to process?: N/A
+- Types of errors logged: [Feedback from teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/qualitative-feedback.md)
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? Yes 
+* Collaboration Cycle Zenhub Label
+* Added release plan as artifact to privacy and security
+* Moved privacy and security template into sensitive repo
+* Added another review block
+* Fixed the title of the usability test prep template
+* Began using collaboration point tracker
+
 
 ## Phase II: unmoderated production testing
 
@@ -37,16 +43,19 @@ _For unmoderated production testing, we will have ask all VSA teams to follow th
  
 
 ### Results:
-- Number of unique users: x
+- Number of unique users: 10
 - Actual results (per your "success criteria")
+* Teams engaged when they should for collaboration cycle two too remote
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
+
 ## Hard Launch (Go Live!) 
 
 _After completing a Go/No Go meeting, our hard launch will mean that we roll this process out to all remaining VFS teams._ 
+* Because we don't have enough bandwidth as a platform to simultaneously be running two processes at once, we rolled this out to more teams than we expected during moderated testing so Hard Launch was limited and not really treated as a release stage. 
 
 ### Planning:
 - Desired date: by end of March 2020
