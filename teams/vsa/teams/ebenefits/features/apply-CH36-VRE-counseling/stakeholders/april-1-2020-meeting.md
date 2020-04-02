@@ -1,6 +1,5 @@
 # Kickoff with Education & Career Counseling Stakeholders
 April 1, 2020  
-### Contact
 |Stakeholders|eBenefits|
 |---|---|
 |Lois Collins, _Task Lead_ (llcollins@mitre.org) |Steve Kovacs, _DEPO Lead_ (steven.kovacs@va.gov)|
