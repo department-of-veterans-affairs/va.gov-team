@@ -154,6 +154,9 @@ Points: Complexity Estimate
   - VA Network overview (ping TJ for recording)
   - CMS build overview (ping TJ for recording)
   - VA overview (ping TJ for recording)
+  - Infra Recommit Demo (ping TJ for recording)
+  - Review instance how to (ping TJ for recording)
+  - Infra Recommit Local Dev (ping TJ for recording)
 - Zenhub (if you would want to go over ZH more ping TJ)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf
  - Access to Tools and AWS
