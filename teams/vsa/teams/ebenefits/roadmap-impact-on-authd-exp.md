@@ -11,6 +11,4 @@
 | Ancillary Benefits | View status of various other benefits (Special Monthly Compensation, VR&E, Education/ Career Counseling, etc) | None | Needs discovery to determine which benefits are displayed |
 | Account Roles and Relationships | View other users that have some kind of relationship to this account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) | Authorize or de-authorize relationships | This work is theoretical. |
 
-## Login
 
-User Roles and Relationships: Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.)
