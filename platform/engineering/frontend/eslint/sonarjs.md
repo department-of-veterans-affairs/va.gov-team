@@ -2,7 +2,7 @@
 
 **Author:** Jhonny Gonzalez
 
-**Last Updated:** February 24, 2020
+**Last Updated:** April 2, 2020
 
 **eslint version:** 4.18.2
 
