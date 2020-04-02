@@ -1,5 +1,16 @@
 # Conversation Guide for 21-22 Power of Attorney & Payment History 
 
+## Background
+
+## Goals
+#### Power of Attorney
+- [ ] Document the veteran’s expectations of the tool.
+- [ ] Discover veteran’s pain points.
+- [ ] Assess the veteran’s level of comprehension.
+#### Payment History
+- [ ] Uncover what information is pertinent to the veterans
+- [ ] Confirm the veterans expectation of the table
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
@@ -34,27 +45,56 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 We are going to be talking about VA benefits today. You will not be asked to devoluge any personal health information.
-Before we look at the prototype, let’s start with a few warm-up questions.
+Before we look at website, let’s start with a few warm-up questions.
 
 - Tell me a little about your background and your service history.
 - What has been your experiences electing a representative to handle your claims?
 
 
-## 
+## Veteran’s expectations questions.
 - Are you currently using a representaive to help with a disputed VA claim?
 - Are you using an attorney or a VSO
 - How long ago did you allicated your rights to an attorney/VSO to help with a VA claim?
+- What were the factors or dessions that lead you to use an attorney.
+    Look for answers like <br>
+        - Friends, family, approached by services 
+        - Bureacucracy
+- How did you apply for a POW 
+    Look for answers like <br>
+        - Paper
+        - eBenefits
+        - Service
+- Why did you choose the paper/eBen/VSO form?
+- Did you prefer this method?
 
-- Can you talk about your experamnce when you assigned an representative for your VA disbuted claim. 
+## Pain Point questions
+### Screenshare
+- Moderator will share their screen. Confirm from particapent that they can see the eBenefits protal. 
 
-- Are you familiar with the VA 21-22 form? 
+I am going to share my screen with you. Can you see the eBenefits webstie on your computer.
+
+- How familiar are you with the Power of Atterney form also called the 21-22? 
     - And what is your experience with the form?
+    
+- What were some of your thought about the process
+    - intuative
+- What were some of your thoughts about the form/website. (this qusetion is ment to lead to the next topic.)
 
-## Screenshare
-Will you share your screen with me? I'm going to send you a link to the VA.gov website.
+**Screens**
+- Patriot Act screen
+    Please give us your thoughts about this screen.
+    Please walk me through how you would complete this screen
+- Search for Representative
+    Please give us your thoughts about this screen
+    Please walk me thtought how you would complete this screen.
 
-## First Task: Find form
-- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+
+## Comprenstion
+- Where there areas you needed assistant when filling ou the form
+- Who did you contact for help
+- How did they help you
+- Can you to me a littl eabout how you completed the form.  
+
 
 **Scenario**
 
