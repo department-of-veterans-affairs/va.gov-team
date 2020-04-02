@@ -1,6 +1,6 @@
-# Initial Meeting with Education & Career Counseling (CH36) Stakeholders
-April 1, 2020
-eBenefits Notes
+# Kickoff with Education & Career Counseling Stakeholders
+April 1, 2020  
+
   
 --------
 ### Contact
