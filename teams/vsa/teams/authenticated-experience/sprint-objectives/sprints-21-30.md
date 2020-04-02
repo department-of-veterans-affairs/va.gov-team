@@ -18,6 +18,11 @@
 1. Profile 2.0 QA & 508 review
 2. Profile 2.0: Outline release plan
 
+Logged in homepage
+
+1. Conduct user research
+2. Comparative analysis
+
 ## Sprint 22 (5/20 – 6/2)
 
 ### Order of priorities
@@ -26,6 +31,11 @@
 2. Profile 2.0: Prep for UAT
 3. Profile 2.0: Pre-launch checklist — Analytics, call center guide, security/privacy/production readiness reviews
 
+Logged in homepage
+
+1. User research synthesis
+2. Begin discovery phase synthesis
+
 ## Sprint 23 (6/3 – 6/16)
 
 ### Order of priorities
@@ -33,6 +43,11 @@
 1. Profile 2.0: E2E testing; Load testing (do we need to do this again for the profile?)
 2. Profile 2.0: Make sure all launch is updated
 3. Profile 2.0: Continue on pre-launch items
+
+Logged-in homepage
+
+1. Finish discovery phase synthesis
+2. Share with DEPO team
 
 ## Sprint 24 (6/17 – 6/30)
 
