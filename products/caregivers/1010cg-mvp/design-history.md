@@ -42,7 +42,6 @@ Outcomes
 - Print button on confirmation page 
 - Print stylesheet (presented to VSP - Updated designs based on feedback) 
 - Establishing documentation for content collaboration 
-- 
 
 Resources
 - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/design-content%20specifications
