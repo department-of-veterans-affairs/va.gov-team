@@ -18,6 +18,7 @@ Attendees: Jonathan Nelson
 
 Outcomes
 Created prototype with no reference to log in 
+
 Created and present options for plain language utilizing modals 
 
 Resources
