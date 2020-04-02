@@ -5,7 +5,7 @@
 
 |Product |Latest Version |Last Updated |
 |----|----|----|
-|[Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality)|v1.1 |03-17-2020 |
+|[Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality)|v1.2 |04-02-2020 |
 |[Best-in-Class App](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/best-in-class-app)|||
 |[Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/vsp-collaboration-cycle)|||
 |[Documentation Site](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site)|||
@@ -23,6 +23,10 @@
 ---
 
 ## Changelog
+### Sprint 23 (04-02-2020 - 4-14-2020)
+[Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.2
+- ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack and provide us with your feedback.
+
 ### Sprint 22 (04-01-2020)
 - [Feature Toggles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/feature-toggles) - v0.3
   - Added sticky behavior so unauthenticated users can be locked into a particular variant by a unique ID
