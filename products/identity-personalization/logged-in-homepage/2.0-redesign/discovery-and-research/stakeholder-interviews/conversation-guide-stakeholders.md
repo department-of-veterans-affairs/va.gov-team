@@ -18,7 +18,7 @@ Thanks for joining us today! My name is Liz and  [attendees] are also here from 
 6. What metrics would you be interested in seeing around a logged in homepage?
 7. What logged in homepage/dashboard experiences have you come across that work well, and not so well? How about notifications?
 8. What might make this project easier or harder in any specific ways, as it relates to your role on va.gov, or your team?
-9. What are concerns do you have about this project? What do you imagine going wrong? 
+9. What concerns do you have about this project? What do you imagine going wrong? 
 10. Is there anyone else you think we should talk to?
 
 ## Practice Specific
