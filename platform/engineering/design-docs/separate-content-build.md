@@ -62,9 +62,9 @@
 The objective here is to define an approach to isolate the concerns of the
 content build from the front end application build and vice versa.
 
-This design document is intended for front end engineers and DevOps engineers on
-the Veteran-facing Services Platform (VSP) and other Veteran-Facing Services
-(VFS) teams. Most directly affected is the Content Management System (CMS) team.
+This design document is intended for front end and DevOps engineers on
+the Veteran-facing Services Platform (VSP) and Veteran-Facing Services
+(VFS) teams. The most directly affected group is the Content Management System (CMS) team.
 
 ### Background
 VA.gov is composed of static content (`.html`), applications (`.js`), and
@@ -73,14 +73,14 @@ styling (`.css`).
 Static content files are created from the **[Metalsmith build
 script](#build-script)**. Application bundles are created with Webpack.
 
-These builds are currently **orchestrated by the same build script.**
+These builds are currently **orchestrated by a single build script.**
 
 The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
-whenever a commit is pushed to a branch in GitHub. On a branch, this build must
-be successful **before the branch can be merged.**
+whenever a commit is pushed to a branch in GitHub. This build must
+succeed **before the branch can be merged** from a pull request. 
 
-The output of this build are **[deployed](#deployment) to and hosted from an AWS
-S3 bucket**. Applications are deployed on a weekdaily schedule. New content is
+The outputs of this build are frontend applications that are **[deployed](#deployment) to and hosted from an AWS
+S3 bucket**. These applications are deployed on a weekdaily schedule. New content is
 deployed by a manual trigger from the CMS and by the weekdaily application
 deployment.
 
@@ -117,7 +117,7 @@ tests. Pertinent to this document are:
 #### Deployment
 There are currently two kinds of deployments:
 1. [Partial deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only)
-    - For static pages only
+    - Outputs static pages (.html) only
     - Uses the latest `vets-website` release and static assets
       - Does not trigger Webpack to build the JS and CSS bundles
       - Instead,
@@ -127,7 +127,7 @@ There are currently two kinds of deployments:
     - Does **NOT** run any content validation such as accessibility tests or
       broken link checker
 2. [Full deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
-    - For `vets-website` code changes
+    - Outputs frontend applications (.js, .css) and static pages (.html)
     - Creates a new release and deploys it
     - Fetches the latest Drupal content
       - Falls back to the cached content in S3 from the last successful deploy
@@ -143,7 +143,7 @@ for more details.
   outdated locally cached content and updated Liquid templates
 - Fetching content from the CMS and building HTML files when developing
   applications **slows down the local builds** for engineers unnecessarily
-- It **requires either SOCKS proxy access** or the `npm run fetch-drupal-cache`
+  - It **requires either SOCKS proxy access** or the `npm run fetch-drupal-cache`
   command, which isn't obvious
 - **Application deployments and PR builds fail** when content in the CMS is
   invalid
