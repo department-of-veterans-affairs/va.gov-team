@@ -32,6 +32,8 @@ This section will show the following:
 
 ### Copy
 
+**Note**: Copy is the same is it is in prod.
+
 - **Identity verification** 
 - **Content**: We've verified your identity
 
@@ -61,6 +63,8 @@ Grey box content:
 ![Account Security - 2FA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%202%20factor.jpg)
  
 ### Copy
+
+**Note**: Copy is the same is it is in prod.
  
 - **Identity verification** 
 - **Content**: We need to make sure you're you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.
