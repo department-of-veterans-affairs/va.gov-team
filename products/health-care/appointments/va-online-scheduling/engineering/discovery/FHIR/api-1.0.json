@@ -1,0 +1,263 @@
+{
+  "resourceType": "Conformance",
+  "publisher": "Not provided",
+  "date": "2020-03-30T18:50:37+00:00",
+  "kind": "instance",
+  "software": {
+    "name": "VSP",
+    "version": "v1"
+  },
+  "implementation": {
+    "description": "VistA Scheduling Provider",
+    "url": "vsp-v1/vsp/v1"
+  },
+  "fhirVersion": "1.0.2",
+  "acceptUnknown": "extensions",
+  "format": [
+    "application/xml+fhir",
+    "application/json+fhir"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "Appointment",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Appointment"
+          },
+          "interaction": [
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "date",
+              "type": "date",
+              "documentation": "Appointment date/time."
+            },
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "An Identifier of the Appointment"
+            },
+            {
+              "name": "patient",
+              "type": "string",
+              "documentation": "One of the individuals of the appointment is this patient"
+            }
+          ]
+        },
+        {
+          "type": "HealthcareService",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/HealthcareService"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "An identifier for the location"
+            },
+            {
+              "name": "location",
+              "type": "string",
+              "documentation": "The location of the Healthcare Service"
+            },
+            {
+              "name": "organization",
+              "type": "string",
+              "documentation": "Searches for Healthcareservice that are managed by the provided organization"
+            },
+            {
+              "name": "servicecategory",
+              "type": "token",
+              "documentation": "Service Category of the Healthcare Service"
+            }
+          ]
+        },
+        {
+          "type": "Location",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Location"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "An identifier for the location"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "documentation": "The location's exact name"
+            },
+            {
+              "name": "organization",
+              "type": "string",
+              "documentation": "Searches for locations that are managed by the provided organization"
+            }
+          ]
+        },
+        {
+          "type": "Organization",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Organization"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "address",
+              "type": "string",
+              "documentation": "An address line of the Organization in the format <line>-<state>"
+            },
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "An identifier for the organization"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "documentation": "The organization's exact name"
+            }
+          ]
+        },
+        {
+          "type": "Patient",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Patient"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "A patient identifier"
+            }
+          ]
+        },
+        {
+          "type": "Schedule",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Schedule"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "actor",
+              "type": "string",
+              "documentation": "The individual(HealthcareService, Practitioner, Location, ...) to find a Schedule for"
+            },
+            {
+              "name": "date",
+              "type": "date",
+              "documentation": "Date range"
+            },
+            {
+              "name": "id",
+              "type": "token"
+            },
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "A schedule identifier"
+            }
+          ]
+        },
+        {
+          "type": "Slot",
+          "profile": {
+            "reference": "http://hl7.org/fhir/profiles/Slot"
+          },
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "-location",
+              "type": "reference",
+              "documentation": "Location reference",
+              "chain": [
+                "*"
+              ]
+            },
+            {
+              "name": "_id",
+              "type": "token",
+              "documentation": "The ID of the resource"
+            },
+            {
+              "name": "fb-type",
+              "type": "token",
+              "documentation": "The free/busy status of the appointment"
+            },
+            {
+              "name": "identifier",
+              "type": "token",
+              "documentation": "A schedule identifier"
+            },
+            {
+              "name": "schedule",
+              "type": "string",
+              "documentation": "The Schedule Resource that we are seeking a slot within"
+            },
+            {
+              "name": "slot-type",
+              "type": "token",
+              "documentation": "The type of appointments that can be booked into the slot"
+            },
+            {
+              "name": "start",
+              "type": "date",
+              "documentation": "Start date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
