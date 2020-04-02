@@ -64,7 +64,7 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Requests may be broken into one item per timeslot
 - Location data not necessarily included inline
 
-## Oustanding questions
+## Outstanding questions
 - Can we use `_include` to pull in Location references?
 - Do we need to send the whole appointment object to cancel?
 - Canceling requests will take one api call per timeslot?
