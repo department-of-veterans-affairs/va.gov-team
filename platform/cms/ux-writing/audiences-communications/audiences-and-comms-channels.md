@@ -22,4 +22,4 @@ Mapping **channels** (*Where are all the places users experience communications 
 **See the communications mind map**
 
 - [Live artifact (Whimsical)](https://whimsical.com/YKVFNFuRvUW2SynLQ5K1nH)
-- [Static artifact (.png)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/artifacts/CMS%20communications.png)
+- [Static artifact (.png)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/audiences-communications/CMS%20communications.png)
