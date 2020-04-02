@@ -509,9 +509,17 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 
 ### Order of priorities
 
-1. Profile 2.0: Conduct sessions and summarize research; Content review/IA work
+1. Profile 2.0: Conduct sessions and summarize research; Start on content review/IA work
 2. Profile 2.0: Build continues
-3. Address validation: If applicable, any final tickets
+3. Address validation: Final tickets
+4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+Logged in homepage
+
+1. Synthesis for stakeholder interviews so far
+2. Wrap up stakeholder interviews (if possible)
+3. Research review
+4. (Samara) Product outline
 
 ### Profile 2.0
 
@@ -519,16 +527,28 @@ Address validation
 
 - Change address update endpoint to use iso3 country code #6046
 - Stop using country name for VA profile contact information endpoint #5591
+- Follow up with veterans to see if this feature resolves their issues saving addresses #6012
+- [508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
 
 Design
 
-- Review content pages/My VA dashboard for any needed updates
-- IA plan and review
+- Conduct sessions #2587
+- Create report and tickets #2588
 
 Dev
 
-- Build continues
-- Implement research updates
+- Build continues **What can we get done?**
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- What can we get done from the backlog?
+
+### Logged in homepage (Don't include in main AE team sprint objectives)
+
+- Finish conducting interviews #7089
+- Stakeholder synthesis #7090
+- Compile list of documents to review #7264
+- Review documents and document insights #7265
 
 ## Sprint 20 (4/22 - 5/5)
 
