@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
     <!-- Google Tag Manager -->
     <!-- https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6354 -->
     <script>
@@ -37,9 +38,12 @@
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <header class="h-auto px-16 py-4 bg-blue-900 text-white">
+    <header class="h-auto px-16 py-4 bg-blue-900 text-white flex justify-between items-center">
       <div>
         <span class="text-3xl">VA.gov | Documentation</span>
+      </div>
+      <div>
+        <input type="text" placeholder="Search" id="docsearch-input" class="bg-white text-black focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal" />
       </div>
     </header>
 
@@ -55,7 +59,7 @@
           </div>
         </div>
         <div class="beta-banner px-40 py-4 text-lg" style="background-color: #E1F3F8;">
-          Can’t find what you’re looking for? Is something broken? Do you have other feedback? 
+          Can’t find what you’re looking for? Is something broken? Do you have other feedback?
           <span class="font-bold" style="padding-left:2px;">
             <a class="hover:underline" style="color:#112E51;" href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=meganhkelley%2C+gmaciolek%2C+kristinagore&labels=content-ia-team%2C+documentation-support%2C+documentation-homepage-request&template=documentation-support-request.md&title=Documentation+Support+Request" target="_blank"> Let us know</a>
           </span>
@@ -795,11 +799,20 @@
 
       <!-- Beta banner -->
        <div class="beta-banner px-40 py-4 text-lg" style="background-color: #E1F3F8;">
-          Can’t find what you’re looking for? Is something broken? Do you have other feedback? 
+          Can’t find what you’re looking for? Is something broken? Do you have other feedback?
           <span class="font-bold" style="padding-left:2px;">
             <a class="hover:underline" style="color:#112E51;" href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=meganhkelley%2C+gmaciolek%2C+kristinagore&labels=content-ia-team%2C+documentation-support%2C+documentation-homepage-request&template=documentation-support-request.md&title=Documentation+Support+Request" target="_blank"> Let us know</a>
           </span>
         </div>
     </main>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+    <script type="text/javascript">
+      docsearch({
+        apiKey: '833ffe9c54e839b3c1a4f0953f1dea15',
+        indexName: 'department-of-veterans-affairs',
+        inputSelector: '#docsearch-input',
+        debug: false // Set debug to true if you want to inspect the dropdown
+      });
+    </script>
   </body>
 </html>
