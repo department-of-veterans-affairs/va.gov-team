@@ -61,11 +61,11 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 - [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7511)
 - Status: Blocked by questions
 
-#### Community Cares
+#### Community Care eligibility
 #### Facilities
   - Parent Facilities
   - What is supported?
-#### Eligibility
+#### VA eligibility
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/eligibility.md)
 - [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7513)
 - Status: Blocked by questions
