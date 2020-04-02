@@ -10,9 +10,9 @@ April 1, 2020
 ## TED Office Overview
 In November 2018, the Office of Transition and Economic Development was created and reports directly to the Principal Deputy Under Secretary for Benefits ([Margarita Devlin, MA, CRC](https://www.benefits.va.gov/benefits/bio_margarita_devlin.asp)) and collaborates across all VBA business lines and work towards empowering current and future Veterans.  In addition to Chapter 36, TED also works on the Transition Assistance Program (TAP) and is on over 300 military installations and impacts over 200,000 transitioning servicemembers nationwide.
 
-Currently, Chapter 36 is housed within VRE but on October 1, 2020 it will re-align with the TED Office.  Renamed from Personalized Career Planning and Guidance Program (PCPG) with assistance from Mitre.
+Currently, Chapter 36 is housed within VRE but on October 1, 2020 it will re-align with the TED Office.  Renamed from Personalized Career Planning and Guidance (PCPG) Program with assistance from Mitre.
 
-There are a few differentiators for how Chapter 36 will be administered: 1)  Using contracted counselors, 2) The application process will be traiged by TED as they come in online working with VRE, who owns the form 8832.
+There are a few differentiators for how Chapter 36 will be administered: 1)  Using contracted counselors, 2) The application process will be traiged by TED as they come in online, working with VRE, who owns the Form 8832.
 
 This program will be accessible by Veterans and their dependents.
 
@@ -34,7 +34,7 @@ Five.
 - (days or hours?)
 ```
 **Do you have a sense of volume?  How many applications are obtained?**  
-Data is unreliable but we think it might be 4-6,000 per year but that is based on nothing.
+Data is unreliable but we think it might be 4-6,000 per year but that is based on very little evidence.
 
 **Is there a blueprint for what is absolutely required via the form or a minimum amount of things to get someone through the process?** 
 As an action item, we would like to spend some time on that and we will get back to you in about a week.
