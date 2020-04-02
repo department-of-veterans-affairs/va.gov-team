@@ -13,7 +13,7 @@ This does not include research for Appeals projects, which is stored in differen
 ### March 2020
 
 #### March 18-20: BDD Initial Usability test 
-*Governmentcioc researcher: Christian Valla
+*GovernmentCIO, BAM1. Lead researcher: Christian Valla
 
 -10 participants
 
