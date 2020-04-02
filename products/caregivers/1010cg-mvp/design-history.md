@@ -3,6 +3,25 @@ Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-
 
 Designers: Jonathan Nelson
 
+## Iteration 7 - Sprint 18
+
+### Feedback & Outcomes
+
+### Designs
+https://vsateams.invisionapp.com/share/UDW9MPS5ETW
+
+
+#### Design Iterations  
+Meeting date: Ongoing    
+Attendees: Jonathan Nelson
+
+Outcomes
+- 
+
+Resources
+- https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/design-content%20specifications
+
+
 ## Iteration 6 - Sprint 17
 
 ### Feedback & Outcomes
@@ -11,6 +30,7 @@ Designers: Jonathan Nelson
 - (Application status) https://vsateams.invisionapp.com/share/63WCRA92GSC
 - (Print button)https://vsateams.invisionapp.com/share/Y4WCCM3NMCX
 - (Print stylesheet) https://vsateams.invisionapp.com/share/ATW7AI7QXCV
+- (Prototype for stakeholder feedback) https://vsateams.invisionapp.com/share/UDW9MPS5ETW
 
 
 #### Design Iterations  
@@ -20,8 +40,9 @@ Attendees: Jonathan Nelson
 Outcomes
 - Wireframed concepts for notification and status updates
 - Print button on confirmation page 
-- Print stylesheet 
+- Print stylesheet (presented to VSP - Updated designs based on feedback) 
 - Establishing documentation for content collaboration 
+- 
 
 Resources
 - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/design-content%20specifications
