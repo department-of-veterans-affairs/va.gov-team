@@ -2,7 +2,7 @@
 
 ### What is your role?
 
-I am a presidential innovation fellow working under Charles Worthington since last January. I’ve been focusing and looking at how we improve communications, including notifications and veteran correspondence. The VA has been communicating the same way for 70 years — via paper mail. How do we get them to use more modern tools — email, text, etc? How that integrates with VA.gov — I’ve been partnering with business lines on how they are communicating and making sure we’re… (missed this)
+I am a presidential innovation fellow working under Charles Worthington since last January. I’ve been focusing and looking at how we improve communications, including notifications and veteran correspondence. The VA has been communicating the same way for 70 years — via paper mail. How do we get them to use more modern tools — email, text, etc? How that integrates with VA.gov (our Veteran facing front door to our services) — I’ve been partnering with business lines on how they are trying to transform and drive digital transformation and do it in a way that ensures we're connected, not fragmented, across services.
 
 Working with settings and profiles team to make sure we are elevating preferences so veterans have control over notification (e.g. subscribe or unsubscribe) so they can know what’s going on with their claims and applications at the VA.
 
@@ -33,7 +33,7 @@ The biggest challenge is that we don’t have a strong sense of logged in person
 
 Coming from the private sector, there’s a big switch when you are logged out vs. logged in — (listed examples from different services).
 
-Biggest gap — (missed this)
+In terms of personalization and knowing what YOUR stuff is, where it is, and what it is about - that's the biggest gap I see.
 
 ### How would this update impact your work?
 
@@ -49,7 +49,11 @@ Now, we’re trying to figure out if this is the right time to do this, what wou
 
 Philosophically, the pages are feeding the same data. If we do have a logged in homepage, it has your claims, status, prescriptions, and the push for a logged in homepage… if we do build an app, at a minimum, it needs to show what’s available on the logged-in homepage. 
 
-For an app, the tailored feature would be push notifications, (something else). 1/3 of eBenefits and VA.gov is just people logging in to see your claim status. About 37% of traffic to VA.gov is mobile traffic. The complimentary-ness is that a lot of people are using this on mobile. If we had push notifications or communication lines, here’s what we need from you or here is how you were rated, that communication is fragmented today and is done on paper. This is why people have to log in every day. So there are some unique benefits to the mobile form factor — push notifications and logging in being two of them.
+For an app, the tailored feature would be push notifications, authenticiation.  On the web, we can't push you a notification. 1/3 of eBenefits and VA.gov is just people logging in every single day to check disability claims. About 37% of traffic to VA.gov is mobile traffic. 
+
+The complimentary-ness of the workstreams is that a lot of people are using this on mobile, but what are they doing, what are they going to find out, can we help them find what they're looking for in better ways?  
+
+If we had push notifications or communication lines, here’s what we need from you or here is how you were rated, that communication is fragmented today and is done on paper. This is why people have to log in every day just to check things like status tracker. So there are some unique benefits to the mobile form factor — push notifications and identify/logging in being two of them.
 
 Depending on the business line… take a picture with your phone to get updated info for direct deposit. Phone as a device provides this connection model that other businesses use in really smart ways and the VA has none of that.
 
@@ -71,7 +75,7 @@ I think it would be successful if there is high engagement on the page. Not nece
 
 Internally, more buy-in and stakeholder consolidation. So instead of teams investing their silo’d approach, they don’t want to build their own dashboard or portal, they want to work with the VA.gov team. So we’re one organization, one brand, and we’re building that trust internally.
 
-###Is there anything you think of that makes this project easier/harder?
+### Is there anything you think of that makes this project easier/harder?
 
 The app piece? I think being able to use code and components is key, so not building one notification for one platform and then another for a different one.
 
