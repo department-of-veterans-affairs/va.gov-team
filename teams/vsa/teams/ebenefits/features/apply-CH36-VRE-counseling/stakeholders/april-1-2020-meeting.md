@@ -20,7 +20,7 @@ There are a few differentiators for how Chapter 36 will be administered: 1)  Usi
 
 This program will be accessible by Veterans and their dependents.
 
-### Questions
+### Q&A
 **What happens after an application is processed?  What is the next thing a Veteran might hear?**  
 When someone applies, the first thing is that eligibility is determined, then it goes to a contract counselor to have that service done and a report is generated.
 
