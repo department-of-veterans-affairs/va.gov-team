@@ -33,17 +33,22 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
+We are going to be talking about VA benefits today. You will not be asked to devoluge any personal health information.
 Before we look at the prototype, let’s start with a few warm-up questions.
 
-- Tell me about your service history.
-- What has been your experiences electing a representative for ?
+- Tell me a little about your background and your service history.
+- What has been your experiences electing a representative to handle your claims?
+
 
 ## 
-- Have you recently allicated your legal rights to an attorney or VSO to help with a VA claim?
+- Are you currently using a representaive to help with a disputed VA claim?
+- Are you using an attorney or a VSO
+- How long ago did you allicated your rights to an attorney/VSO to help with a VA claim?
+
+- Can you talk about your experamnce when you assigned an representative for your VA disbuted claim. 
+
 - Are you familiar with the VA 21-22 form? 
     - And what is your experience with the form?
-    
-[I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.]()
 
 ## Screenshare
 Will you share your screen with me? I'm going to send you a link to the VA.gov website.
