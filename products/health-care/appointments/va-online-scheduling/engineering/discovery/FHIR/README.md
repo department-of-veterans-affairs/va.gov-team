@@ -1,6 +1,6 @@
-# Cerner FHIR API Discovery
+# FHIR API Discovery
 
-The purpose of this document is to serve as a table of contents for all the discovery efforts related to Cerner FHIR APIs from the perspective of VAOS redesign. A few high level points are identified below.
+The purpose of this document is to serve as a table of contents for all the discovery efforts related to FHIR APIs from the perspective of VAOS redesign. A few high level points are identified below.
 
 - ### Upcoming VAOS Architecture milestones
   - As discussed in Tampa, the following architectural milestones will provide guidance for FHIR API implementation as part of VAOS redesign. [VOAS Architecture Milestones](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/VAOSArchitectSvcMilestones_20200109-VAOS-DesignEvolutionDraft.pdf)
@@ -46,17 +46,14 @@ We know the following resources will be available:
 
 4. Documentation strategy for supporting multiple API versions
 
-## React UI related discovery
+## UI related discovery
+
+This is a work in progress. These will be augmented with flow diagrams detailing the decision tree in its current form with recommendations on where some of this business logic and decision tree logic ought to be moved to the "monolith" API layer.
 
 ### Appointments List
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md) Needs feedback from Mike/Brad on the questions raised. Can feel free to answer questions in the github issue below, or make edits to the markdown file directly to answer questions.
 - [Github Issue](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6386)
 
-#### Appointment Cancellation
-- Discovery In Progress
-
-## WIP
-All the sections identified below are still work in progress. These will be augmented with flow diagrams detailing the decision tree in its current form with recommendations on where some of this business logic and decision tree logic ought to be moved to the "monolith" API layer.
 ### New Appointment Flow
 #### Types of care
 #### Community Cares
