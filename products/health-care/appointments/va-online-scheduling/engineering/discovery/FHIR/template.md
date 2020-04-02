@@ -1,6 +1,6 @@
 # Page title
 
-Status: Open | In progress | Blocked by oustanding questions | Complete
+Status: Open | In progress | Blocked by outstanding questions | Complete
 
 ## Services
 ### Current services used
@@ -10,4 +10,4 @@ Status: Open | In progress | Blocked by oustanding questions | Complete
 Start from data inventory
 ### Missing/incomplete data list
 ### Differences in scope of data returned
-## Oustanding questions
+## Outstanding questions
