@@ -1,0 +1,27 @@
+# Type of care
+
+Status: In progress
+
+## Services
+### Current services used
+- None, but UI types are defined here
+  - https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/utils/constants.js
+- Current backend types defined in 
+  - `/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care`
+  - `/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares`
+### Equivalent FHIR resource
+- Unclear, possibly some property on HealthcareService
+
+## Data
+### Data to FHIR model mapping
+- Type of care id/stop code (**HealthcareService.serviceType?**)
+
+### Missing/incomplete data list
+- N/A 
+
+### Differences in scope of data returned
+- We're not fetching these types now
+
+## Oustanding questions
+- How are stop codes used in VSP?
+- Will we be able to only show Locations that support given types of care with VSP?
