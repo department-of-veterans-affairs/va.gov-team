@@ -66,6 +66,10 @@ This is a work in progress. These will be augmented with flow diagrams detailing
   - Parent Facilities
   - What is supported?
 #### Eligibility
+- [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/eligibility.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7513)
+- Status: Blocked by questions
+
 #### Clinics
 #### Time Slots (both request and self schedule)
 #### Appointment Request Submission
