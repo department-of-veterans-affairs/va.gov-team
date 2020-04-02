@@ -37,7 +37,7 @@ Last updated February 19, 2020
 - [Discovery Takeaways](#discovery-takeaways)
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
-- [KPIs](#kpis)
+- [KPIs](#KPIs-and-misc-metrics)
 
 # Implementation Information
 
@@ -157,7 +157,9 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 
 
-## KPIs
+## KPIs and misc metrics
+
+- [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.filter=benefits.va.gov~2Fgibill~2Fyellow_ribbon~2F&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=500&explorer-graphOptions.selected=analytics.nthMonth/)
 
 ### Objective
 
