@@ -33,7 +33,8 @@ The Appeals Modernization Act (AMA) caused a shift from the old or legacy appeal
 - Claim status tool CTAs: Make CTAs for this tool consistent across all pages.
 
 # KPIs
- - 	WIP- Need to meet with the Analytics team to determine KPIs.
+- [Pages off /decision-reviews/](https://analytics.google.com/analytics/web/?authuser=1#/my-reports/ncUMI3DKQ4WvjHvX80ybvg/a50123418w177519031p184624291/)
+- [PDF downloads off /decision-reviews/](https://analytics.google.com/analytics/web/?authuser=1#/my-reports/ncUMI3DKQ4WvjHvX80ybvg/a50123418w177519031p184624291/)
 ________________________________________
 
 # Target Launch Date
