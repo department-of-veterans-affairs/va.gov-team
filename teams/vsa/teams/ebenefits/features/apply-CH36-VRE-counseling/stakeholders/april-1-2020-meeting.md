@@ -1,8 +1,5 @@
 # Kickoff with Education & Career Counseling Stakeholders
 April 1, 2020  
-
-  
---------
 ### Contact
 |Stakeholders|eBenefits|
 |---|---|
