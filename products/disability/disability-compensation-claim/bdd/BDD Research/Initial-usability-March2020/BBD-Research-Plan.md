@@ -121,7 +121,8 @@
 <li><p>Read-Out/Results  </p>
 
 <ul>
-<li><em>Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.</https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BDD-research-findings.md><br></li>
+<li><em>Read-out presentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BDD-research-findings.md
+  
 <li>** Don&#39;t forget to add a link to your research folder to the research tracker! <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md">https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md</a>]()</li>
 </ul></li>
 </ul>
