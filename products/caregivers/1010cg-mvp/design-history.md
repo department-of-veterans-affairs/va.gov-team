@@ -17,9 +17,10 @@ Meeting date: Ongoing
 Attendees: Jonathan Nelson
 
 Outcomes
-Created prototype with no reference to log in 
+Created prototype with no reference to log in (as it was decided that the MVP would be an unauthenticated experience). 
 
-Created and present options for plain language utilizing modals 
+
+Created and present options for plain language utilizing modals (Designs based on stakeholder conversations regarding plain language vs legalese)
 
 Resources
 
