@@ -26,9 +26,9 @@ Provide automated tooling to automate to improve code quality with explicit and 
 
 
 ## Version Notes:
-### Release v1.0 Sprint 20 (03-03-20)
-- ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md)
-
+### Release v1.2 Sprint 20 (04-02-20)
+- ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack and provide us with your feedback.
+---
 ### Release v1.1 Sprint 21 (03-30-20)
 - ESLint - First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
 ---
