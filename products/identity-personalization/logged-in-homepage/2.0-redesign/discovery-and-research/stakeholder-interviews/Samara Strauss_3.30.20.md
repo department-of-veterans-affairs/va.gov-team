@@ -26,7 +26,7 @@ Tl;dr there was no change to myVA, just co-existed with the logged out homepage.
 
 So many
 
-- She did a bunch of [research last summer on personalization 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) to vet this whole thing, "should we do this?" Answer was YES.  A lot of the stuff is outlined in that research.
+- She did a bunch of [research last summer on personalization 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) to vet this whole thing, "should we do this?" Answer was YES.  A lot of the stuff is outlined in that research.  ([Dashboard 2.0 research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md) is also relevant)
 - We have a lot of redundancy between those two pages, Technically, myVA existed before the va.gov homepage, between the two, of the top 20 links, 9 are repeated on myVA. Lots of duplication
   They both do things well, but they’re not doing enough
 - On my va the visual design didn’t scale well, updated things don’t bubble up to the top, hard to scan
