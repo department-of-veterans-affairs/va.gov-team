@@ -1,19 +1,19 @@
 # Milestones
 
-## We did Discovery Sprints about:
+## Discovery Sprints:
 
 - Infrastructure Overhaul
 - Identity
 
-## We provided Premium Support for:
+## Premium Support:
 
 - CMS
 - GIDS
 - VA.gov IA Redesign
 
-## We launched:
+## Launches:
 
-### Mainly for the efficacy and health of the platform overall
+**...mainly for the efficacy of the platform overall**
 
 - Monthly NPS survey
 - "Utility dev" support rotation model
@@ -25,7 +25,12 @@
 - VA.gov test users consolidation thingy
 
 
-### Mainly for developers
+**...mainly for DEPO stakeholderrs**
+
+- Education Domo dashboard
+- COVID Domo dashboard
+
+**...mainly for developers**
 
 - Dockerization of vets-api
 - Dependabot
@@ -34,18 +39,18 @@
 - V2 review instances
 - VFS Code Owners initiative
 
-### Mainly for designers
+**...mainly for designers**
 
 - nada last quarter
 
-### Mainly for product managers
+**...mainly for product managers**
 
 - Facility Locator KPI Domo dashboard
-- Education Domo dashboard
-- COVID Domo dashboard
 - Collaboration cycle
 - Collaboration point tracker
 - V2 Product Development Checklist
+
+**...mainly for content writers**
 
 ## We upgraded:
 
