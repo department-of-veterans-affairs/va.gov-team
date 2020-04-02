@@ -53,9 +53,14 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 ### Appointments List
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md) Needs feedback from Mike/Brad on the questions raised. Can feel free to answer questions in the github issue below, or make edits to the markdown file directly to answer questions.
 - [Github Issue](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/6386)
+- Status: Blocked by questions
 
 ### New Appointment Flow
 #### Types of care
+- [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/types_of_care.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7511)
+- Status: Blocked by questions
+
 #### Community Cares
 #### Facilities
   - Parent Facilities
