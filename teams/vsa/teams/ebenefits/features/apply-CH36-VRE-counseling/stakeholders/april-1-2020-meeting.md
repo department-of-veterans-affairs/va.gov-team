@@ -41,4 +41,4 @@ As an action item, we would like to spend some time on that and we will get back
 
 Future steps will include comm strategy which the EBN team can help collaborate with and there is a contractor (DIS) in place to help with this and any other marketing needs.  There will most likely be some announcement in September.
 
-Lois has shared some SME and customer findings via email.
+Lois has shared some SME and customer findings via email (April 1, 2020).
