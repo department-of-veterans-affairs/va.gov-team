@@ -1,4 +1,4 @@
-# VA.gov Application Generator (Yeoman)
+# VA.gov Application Generator (Yeoman) v.1.0
 
 #### Communications
 - Team Name: VSP BE Tools & VSP FE Tools
