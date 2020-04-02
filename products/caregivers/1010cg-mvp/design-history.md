@@ -19,8 +19,8 @@ Attendees: Jonathan Nelson
 
 Outcomes
 - Wireframed concepts for notification and status updates
-- Print stylesheet 
 - Print button on confirmation page 
+- Print stylesheet 
 - Establishing documentation for content collaboration 
 
 Resources
