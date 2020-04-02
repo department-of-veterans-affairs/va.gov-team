@@ -18,9 +18,9 @@ This section of the profile will show the navigation.
 
 ![profile-nav-specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/profile-nav-specs.png)
 
-[profile-nav-hover](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/profile-nav-hover.png)
+![profile-nav-hover](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/profile-nav-hover.png)
 
-[profile-navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/profile-navigation/profile-navigation.png)
+![profile-navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/profile-navigation/profile-navigation.png)
 
 ### Copy
 
