@@ -1,6 +1,6 @@
 # Type of care
 
-Status: In progress
+Status: Blocked by outstanding questions
 
 ## Services
 ### Current services used
@@ -22,6 +22,6 @@ Status: In progress
 ### Differences in scope of data returned
 - We're not fetching these types now
 
-## Oustanding questions
+## Outstanding questions
 - How are stop codes used in VSP?
 - Will we be able to only show Locations that support given types of care with VSP?
