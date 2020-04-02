@@ -43,11 +43,11 @@ These are the rules in which we are already in compliance and they are very stra
 - [prefer-single-boolean-return](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/prefer-single-boolean-return.md)
 - [prefer-while](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/prefer-while.md)
 
-### Sprint 22
+### Sprint 23 & 24
 
-**Testing period:** 3/18/20 - 3/31/20
+**Testing period:** 4/2/20 - 4/29/20
 
-**Enforced after:** 4/1/20
+**Enforced after:** 4/30/20
 
 **No. of rules:** 8
 
@@ -62,11 +62,11 @@ In this batch we have some rules in which are throwing already a few errors. In 
 - [no-small-switch](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-small-switch.md)
 - [no-unused-collection](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-unused-collection.md)
 
-### Sprint 23
+### Sprint 25 & 26
 
-**Testing period:** 4/1/20 - 4/14/20
+**Testing period:** 4/30/20 - 5/27/20
 
-**Enforced after:** 4/15/20
+**Enforced after:** 5/28/20
 
 **No. of rules:** 5
 
