@@ -52,14 +52,14 @@
 
 **...mainly for content writers**
 
-## We upgraded:
+## Upgrades:
 
 - Ruby
 - Rails
 - Grafana
 - Postgres
 
-## We wrote up key new documentation:
+## New docs:
 
 - Release toggles
 - Review instances
