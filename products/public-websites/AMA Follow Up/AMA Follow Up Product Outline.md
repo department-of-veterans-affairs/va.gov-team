@@ -1,11 +1,10 @@
 # Appeal Modernization Process (AMA)- Follow Up Changes Outline
 
-## WIP
-
 # Communications
  - Team Name: Public Websites
- - GitHub Label:
+ - GitHub Label: #vsa-public-websites
  - Slack channel: #vsa-public-websites
+ 
 
 # Team Members
 |Name|Role|
