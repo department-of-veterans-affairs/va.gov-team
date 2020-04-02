@@ -11,7 +11,7 @@
 |[Documentation Site](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site)|||
 |[Endpoint Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/frontend-product-mapping)|||
 |[Feature Toggles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/feature-toggles)|v0.3|04-01-2020|
-|[New App Generator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/new-app-generator)|||
+|[New App Generator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/new-app-generator)|v1.0|04-02-20|
 |[Product Success Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/product-success-tool)|||
 |[Request Timing (SLO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/request-timing(SLO))|||
 |[Review Instances](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/review-instances)|||
