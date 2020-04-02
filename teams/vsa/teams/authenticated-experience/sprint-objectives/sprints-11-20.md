@@ -529,6 +529,7 @@ Address validation
 - Stop using country name for VA profile contact information endpoint #5591
 - Follow up with veterans to see if this feature resolves their issues saving addresses #6012
 - [508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
+- Start investigation: What is causing the mailing and home address errors we are still seeing? #7532
 
 Design
 
