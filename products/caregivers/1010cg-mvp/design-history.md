@@ -8,7 +8,7 @@ Designers: Jonathan Nelson
 ### Feedback & Outcomes
 
 ### Designs
-https://vsateams.invisionapp.com/share/UDW9MPS5ETW
+https://vsateams.invisionapp.com/share/PZWOPQQ8GW9
 
 
 #### Design Iterations  
@@ -16,11 +16,11 @@ Meeting date: Ongoing
 Attendees: Jonathan Nelson
 
 Outcomes
-- 
+- Updated designs based on stakeholder feedback
+- Created deliverables for stakeholder feedback
 
 Resources
-- https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/design-content%20specifications
-
+- 
 
 ## Iteration 6 - Sprint 17
 
