@@ -29,10 +29,8 @@ If they do it right there in person, there is no lag time if any and it wouldn't
 Currently, we reach out by telephone, email, and then letter where we reference the previous attempt at communication. 
 
 **What is the time frame from: date of receipt, reviewing eligibility, to initial contact with applicant?**  
-Five.  
-``` diff
-- (days or hours?)
-```
+Five (business days).  
+
 **Do you have a sense of volume?  How many applications are obtained?**  
 Data is unreliable but we think it might be 4-6,000 per year but that is based on very little evidence.
 
@@ -41,4 +39,11 @@ As an action item, we would like to spend some time on that and we will get back
 
 Future steps will include comm strategy which the EBN team can help collaborate with and there is a contractor (DIS) in place to help with this and any other marketing needs.  There will most likely be some announcement in September.
 
+
 Lois has shared some SME and customer findings via email (April 1, 2020).
+
+### Notes from Education and Career Counseling discovery deck
+The discovery deck outlined the results of the implementation of a Human Centered Design (HCD) strategy. Organizers gathered information and insights around Chapter 36 by talking to Veterans and service members, private sector counselors, and program intermediaries. Organizers mapped out the user journeys of participants, and identified strengths and weaknesses, pain points and opprtunities.
+
+
+
