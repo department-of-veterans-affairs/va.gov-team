@@ -4,30 +4,26 @@
 
 ## Goals
 #### Power of Attorney
-- [ ] Document the veteran’s expectations of the tool.
-- [ ] Discover veteran’s pain points.
-- [ ] Assess the veteran’s level of comprehension.
+- [ ] Document Veterans' expectations of the tool.
+- [ ] Discover Veterans' pain points.
+- [ ] Assess the Veteran's understanding of the legal implications of this form.
 #### Payment History
-- [ ] Uncover what information is pertinent to the veterans
-- [ ] Confirm the veterans expectation of the table
+- [ ] Determine Veterans' objective(s)/reason(s) for accessing their payment history.
+- [ ] Establish and prioritize table features and attributes, based on Veterans' input.
 
-## Moderator logistics
+## Moderator Logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
 *Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
 
-*In the Attendees section, make sure everyone except the participant is on mute*
-
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
-*Check your screensharing setup*
-
-*When the participant is ready, begin the session with the following intro*
+- *In the Attendees section, make sure everyone, except the participant, is on mute*
+- *In the Audio section, click the drop-down arrow and ensure "Play Entry/Exit Chimes" is unchecked*
+- *Check your screensharing setup*
+- *When the participant is ready, begin the session with the following intro:*
 
 ## Intro - 5 minutes
-
-Thanks for joining us today! My name is Nick and I have some colleagues on the line observing and taking notes. Today we're going to walk through the Power of Attorney form and the Payment History feature on the VA's eBenefits website. 
+My name is Nick and thank you for joining us today.  Before we go any further, I'd like to make you aware that I have my colleagues on the line who will be observing and taking notes.  Today, we're going to walk through the Power of Attorney form and the Payment History feature on the VA's eBenefits website. 
 
 Before we start, a few things I want to mention:
 
@@ -44,63 +40,67 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-We are going to be talking about VA benefits today. You will not be asked to devoluge any personal health information.
-Before we look at website, let’s start with a few warm-up questions.
+We are going to be talking about how you use certain VA benefit features today. You will not be asked to divulge any personal health information.  Before we look at the website, let’s start with a few warm-up questions.
 
-- Tell me a little about your background and your service history.
-- What has been your experiences electing a representative to handle your claims?
+- Tell me a little about your personal background and your service history.
 
 
-## Veteran’s expectations questions.
-- Are you currently using a representaive to help with a disputed VA claim?
-- Are you using an attorney or a VSO
-- How long ago did you allicated your rights to an attorney/VSO to help with a VA claim?
-- What were the factors or dessions that lead you to use an attorney.
-    Look for answers like <br>
-        - Friends, family, approached by services 
-        - Bureacucracy
-- How did you apply for a POW 
-    Look for answers like <br>
-        - Paper
-        - eBenefits
-        - Service
-- Why did you choose the paper/eBen/VSO form?
-- Did you prefer this method?
+## Veteran’s Expectations
+- Are you currently using a representaive to assist with a disputed VA claim?
+- Is that representative an attorney or a VSO?
+- When did you allocate your rights to an attorney/VSO to help with your VA claim?
+- Can you share your reasoning behind electing a repesentative for your claim?
+    Look for answers, such as friends, family, bureacracy, approached by service
+- How did you apply for a Power of Attorney (POA)? 
+    Look for answers, such as paper, eBenefits, a service
+- What was your reasoning behind using that application method?
+- Are you satisfied with the method you used and was it your preference?
 
-## Pain Point questions
+## Pain Points
 ### Screenshare
-- Moderator will share their screen. Confirm from particapent that they can see the eBenefits protal. 
+- Moderator will share their screen. Confirm with particapent that they can see the eBenefits portal. 
 
-I am going to share my screen with you. Can you see the eBenefits webstie on your computer.
+I am going to share my screen with you. Can you see the eBenefits website on your computer?
 
-- How familiar are you with the Power of Atterney form also called the 21-22? 
-    - And what is your experience with the form?
-    
-- What were some of your thought about the process
-    - intuative
-- What were some of your thoughts about the form/website. (this qusetion is ment to lead to the next topic.)
+- How familiar are you with the Power of Attorney form, also called the 21-22 form? 
+- What is your experience with the VA's POA process?
 
 **Screens**
-- Patriot Act screen
-    Please give us your thoughts about this screen.
-    Please walk me through how you would complete this screen
+- Patriot Act
+    Please give us your initial thoughts about this screen.
+    Please walk me through how you would complete this screen.
+    Can you verbalize some of your thougths about the Patriot Act text?
+
 - Search for Representative
     Please give us your thoughts about this screen
-    Please walk me thtought how you would complete this screen.
-
-
-## Comprenstion
-- Where there areas you needed assistant when filling ou the form
+    Please walk me thought how you would complete this screen.
+    Could you think of another way to search for attorney
+    Can you descibe what you think would be the best was to seatch for a attorney/VSO
+    When you filled out this form did you have an attorney or VSO already choosen. 
+    
+- Representative Table
+    When you were searching for a representative, what were the key pieces of information you need to choose a representative?
+    How would you order the table headers from least important to most important?
+    Is there anything missing in this table that you would find valuable?
+   how would you prerefe to search this table or find a attorney
+   define your search critera
+   
+## Legal Comprehension
+- Were there areas you needed assistant when filling out the form
 - Who did you contact for help
 - How did they help you
-- Can you to me a littl eabout how you completed the form.  
+- Can you to me a little about how you completed the form.  
 
 
+## Payment History
+- [ ] Uncover what information is pertinent to the Veterans
+
+- [ ] Confirm the Veterans' expectation of the table
 **Scenario**
 
-- You've recently have a claim deined and you wish to appeal the denial.  You would like to appoint an Attorney to represent you throught the disputed claim process. You have navigated to VA.gov, show us where you would go to find the form to do this.
+- You've recently had a claim denied and you wish to appeal the denial.  You would like to appoint an attorney to represent you throughout the disputed claim process. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
-### Discussion topics:
+### Discussion Topics:
 - Where does the participant click first? next?
 - Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
 
