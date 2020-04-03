@@ -16,6 +16,8 @@ Publish a periodic email newsletter publicizing platform improvements to ensure 
 
 VSP currrently communicates information to customers about improvements to platform features, services, and processes  largely through Slack.  We have heard from VFS teams that announcements on Slack are often missed or get lost resulting in delay and fustration as they run into avoidable issues or waste time searching for an old Slack message.  We have heard from VSP teams that these communication gaps lead to redudant support requests and a lack of awareness of platform improvements.
 
+The risk from not addressing this problem is VSP will have an incomplete customer feedback loop where we are releasing improvements to the platform based on customer feedback but they are not aware of what we have done.
+
 *How might we improve VSP outgoing communications to keep pace with the scale of our operation?* 
 
 ## Desired User Outcomes
@@ -43,12 +45,15 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Risks
 
-The risk from not addressing this problem is VSP will have an incomplete customer feedback loop where we are releasing improvements to the platform based on customer feedback but they are not aware of what we have done.
+
 
 ## Assumptions
 
 - Creating a new communication channel (beyond Slack and Team of Teams) to share platform annoucements will increase  VFS team members' awareness of improvements to platform features, services, and processes.
 - Sending a periodic email to VFS team members communicating platform improvements with links to relevant documentation will make it easier for them to refer back to information on platform features, services, and processes  as they are building on the platform. [Most Risky]
+- Customers will not find an email communcation from VSP to be a burden.
+- We need a tool outside of Gmail and Outlook.
+- Mailchipm email will not be blocked or go to customers' spam folder.
 
 ## Solution Approach
 
