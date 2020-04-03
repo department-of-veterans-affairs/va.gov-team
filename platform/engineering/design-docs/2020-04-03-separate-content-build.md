@@ -64,7 +64,6 @@ content build from the front end application build and vice versa.
 
 This design document is intended for front end and DevOps engineers on the
 Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VFS) teams.
-The most directly affected group is the Content Management System (CMS) team.
 
 ### Background
 VA.gov is composed of static content (`.html`), applications (`.js`), and
