@@ -26,7 +26,8 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Undesired User Outcomes
 
-VFS teams are unaware of improvements to platform features, services, and processes inhibiting their ability to successfully build products for  VA.gov.
+- Customers receive conflicting information about the platform through different communication channels.
+- Customers perceive the email newsletter as spam.
 
 ## Desired Business Outcomes
 
@@ -35,8 +36,8 @@ VFS teams are unaware of improvements to platform features, services, and proces
 
 ## Undesired Business Outcomes
 
-- Customers view the communications as unhelpful.
-- VSP is not sending a consistent message about platform features, services, and processes across channels.
+- Email communictions are not noticed by customers.
+- VSP is unable to handle questions pursuant to newsletter releases.
 
 ## Risks
 
