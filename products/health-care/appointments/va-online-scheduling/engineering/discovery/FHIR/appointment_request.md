@@ -15,7 +15,7 @@ Status: Blocked by questions
 ## Data
 ### Data to FHIR model mapping
 - Type of care (Appointment.type)
-- Type (**Unknown**)
+- Visit Type (**Unknown**)
 - Status (Appointment.status)
   - Looks like we have to send "proposed"
 - Method (**Unknown**)
@@ -33,6 +33,7 @@ Status: Blocked by questions
 ### Missing/incomplete data list
 
 - Appointment "system" (Community Care or VA)
+- Visit Type
 
 ### Differences in scope of data returned
 
