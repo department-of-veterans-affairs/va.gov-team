@@ -448,6 +448,19 @@ The following estimates vary greatly depending on who's doing the work.
       - The deployment of this to Jenkins (or wherever) must be done in concert
         with the switch to building only Webpack assets
     - **Estimate:** 1 hour - 1 day
+1. Create the content model for application landing pages in Drupal
+    - **Estimate:** ??
+1. Create all the application landing pages in Drupal
+    - Test in staging
+    - **Estimate:** 2 hours?
+1. Create a buildtype branch in the Metalsmith script to build application
+   landing pages only in prodction
+    - So we can test the landing pages from Drupal
+    - **Estimate:** 1 hour
+1. Publish all the application landing pages and remove the `createReactPages`
+   Metalsmith step
+    - **Question:** How do we coordinate this so the cut over is clean?
+    - **Estimate:** 1 hour
 
 ### Alternatives
 
