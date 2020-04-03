@@ -417,7 +417,7 @@ The following estimates vary greatly depending on who's doing the work.
 1. Copy the content build script to another repo
     - The hard part here is figuring out what all the content build touches
       - [Madge](https://github.com/pahen/madge) might be helpful for this
-    - **Estimate:** 2 - 5 days
+    - **Estimate:** 5 - 8 days
 1. Set up the CI for the content build repo
     - **Estimate:** ??
     - I'm not sure what all goes into this
