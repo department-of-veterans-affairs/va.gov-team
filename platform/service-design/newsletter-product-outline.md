@@ -20,7 +20,7 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Desired User Outcomes
 
-Every VFS team member and stakeholder receives a message outside of Slack announcing recently released improvements to platform features, services, and processes along with links to relevant documentation to learn more.
+Every VFS team member and stakeholder is aware and understands announcements about improvements platform features, services, and processes.
 
 ## Undesired User Outcomes
 
