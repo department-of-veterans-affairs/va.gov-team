@@ -90,7 +90,7 @@ The entangling of the content and application builds have [led to
 frustrations](#pain-points) for engineers, slower iteration cycles due to failed
 builds, and failed production deployments.
 
-![Phase 1 - Entanglement](images/phase-1-entanglement.png)
+![Phase 1 - Entanglement](images/separated-content-build/phase-1-entanglement.png)
 
 #### Build script
 [Metalsmith](https://github.com/segmentio/metalsmith) is a static content build
@@ -189,7 +189,7 @@ make an application live for the first time. The process will be to manually:
 The content build will live in a separate repository called `content-build`.
 This repository will contain only code pertaining to the content build.
 
-![Separated content code base](images/phase-2-separated-content-build.png)
+![Separated content code base](images/separated-content-build/phase-2-separated-content-build.png)
 
 #### Triggering builds
 **Applications**  
@@ -212,7 +212,7 @@ The output of the application build **currently** live in the `/generated/`
 directory. To support the transition, the **new** application build will put its
 assets in the `/applications/` directory.
 
-![Coordinating deployments to S3](images/coordinating-deployments-to-s3.png)
+![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
 
 To ensure that one build won't override files in the other, we'll have to
 1. Update
