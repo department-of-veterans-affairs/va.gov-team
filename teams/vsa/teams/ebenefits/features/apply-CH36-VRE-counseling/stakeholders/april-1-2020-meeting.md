@@ -45,5 +45,17 @@ Lois has shared some SME and customer findings via email (April 1, 2020).
 ### Notes from Education and Career Counseling discovery deck
 The discovery deck outlined the results of the implementation of a Human Centered Design (HCD) strategy. Organizers gathered information and insights around Chapter 36 by talking to Veterans and service members, private sector counselors, and program intermediaries. Organizers mapped out the user journeys of participants, and identified strengths and weaknesses, pain points and opprtunities.
 
+#### Key takeaways for VA.gov implementation of 28-8832 (Application for Educational and Career Counseling)
 
+- Dependents of Veterans and service members are eligilble for ECC, but they are underserved; often, they don't realize they are eligible, and the strong focus is on Veterans and servce member themselves.
+- Websites, and other sources, presents incomplete or misleading information; participants often just "stumbled" onto Chapter 36 info searching a variety of VA sites.
+- eBenefits in particular was cited for hidden, mischaracterized information.
+- Because of nomenclature and program overlaps, VA education and career programs are conflated and confused; participants often mixed-up the features and benefits of Chapter 33, Chapter 31 and Chapter 36. Cofusion is stronger between CH 36 and CH31.
+- There was a marked decrease in CH36 applications when the "paperless" electronic application process was encouraged.
+- One specific recommendation was to give Chapter 36 benefits its own page, and to cross-promote CH36 on Chapter 33 pages.
+- There is a general recommendation to produce clear, easily understood content for CH36 pages.
+- Another particular recommendation was to host Chapter 36 events for groups of eligible participants which would include completing the 28-8832 on eBenefits.
+- The deck gives anecdotes from individual who process CH36 forms; they say form information is incomplete and processing time is often greater than two weeks.
+- There is a correlaton between processing time and participation: the less time in processing, the higher the reate of program participation.
 
+- 
