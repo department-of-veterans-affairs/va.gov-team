@@ -392,13 +392,6 @@ code is in production before deploying the landing page for it.
 ### Work Estimates
 The following estimates vary greatly depending on who's doing the work.
 
-1. Write a standalone script that can be pointed to the build output directory
-   to check for broken links
-    - **Estimate:** 2 hours - 2 days
-1. Trigger this job in Jenkins (Nomad? Circle?) after a `master` build succeeds
-    - **Estimate:** 1 - 2 days
-1. Remove the broken link checker step from the Metalsmith script
-    - **Estimate:** < 1 hour
 1. Remove Webpack from the Metalsmith build script `vets-website`
     - Use
       [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
