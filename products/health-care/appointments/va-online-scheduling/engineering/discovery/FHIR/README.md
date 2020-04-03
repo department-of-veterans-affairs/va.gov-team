@@ -80,5 +80,8 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 - Status: Blocked by questions
 
 #### Community Care Request
-  - Appointment Messages
+- [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/community_care_request.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7517)
+- Status: Blocked by questions
+
 #### Direct Schedule Appointment
