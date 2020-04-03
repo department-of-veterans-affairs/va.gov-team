@@ -62,9 +62,9 @@
 The objective here is to define an approach to isolate the concerns of the
 content build from the front end application build and vice versa.
 
-This design document is intended for front end and DevOps engineers on
-the Veteran-facing Services Platform (VSP) and Veteran-Facing Services
-(VFS) teams. The most directly affected group is the Content Management System (CMS) team.
+This design document is intended for front end and DevOps engineers on the
+Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VFS) teams.
+The most directly affected group is the Content Management System (CMS) team.
 
 ### Background
 VA.gov is composed of static content (`.html`), applications (`.js`), and
@@ -76,13 +76,13 @@ script](#build-script)**. Application bundles are created with Webpack.
 These builds are currently **orchestrated by a single build script.**
 
 The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
-whenever a commit is pushed to a branch in GitHub. This build must
-succeed **before the branch can be merged** from a pull request. 
+whenever a commit is pushed to a branch in GitHub. This build must succeed
+**before the branch can be merged** from a pull request.
 
-The outputs of this build are frontend applications that are **[deployed](#deployment) to and hosted from an AWS
-S3 bucket**. These applications are deployed on a weekdaily schedule. New content is
-deployed by a manual trigger from the CMS and by the weekdaily application
-deployment.
+The outputs of this build are frontend applications that are
+**[deployed](#deployment) to and hosted from an AWS S3 bucket**. These
+applications are deployed on a weekdaily schedule. New content is deployed by a
+manual trigger from the CMS and by the weekdaily application deployment.
 
 The entangling of the content and application builds have [led to
 frustrations](#pain-points) for engineers, slower iteration cycles due to failed
@@ -143,8 +143,8 @@ for more details.
   outdated locally cached content and updated Liquid templates
 - Fetching content from the CMS and building HTML files when developing
   applications **slows down the local builds** for engineers unnecessarily
-  - It **requires either SOCKS proxy access** or the `npm run fetch-drupal-cache`
-  command, which isn't obvious
+  - It **requires either SOCKS proxy access** or the `npm run
+  fetch-drupal-cache` command, which isn't obvious
 - **Application deployments and PR builds fail** when content in the CMS is
   invalid
   - This includes broken links and accessibility violations
@@ -274,8 +274,8 @@ To start, the **content build** will live at
 of `build/` to `build-content/` for clarity.) Once the implementation is
 complete, this code will **move to a new repository.**
 
-The **application build** will consist of **Webpack configuration files** found in
-the **root of the project.** If we need any script files to aid in the build
+The **application build** will consist of **Webpack configuration files** found
+in the **root of the project.** If we need any script files to aid in the build
 process, they will be located in `vets-website/scripts/build/`.
 
 ### Testing Plan
@@ -317,8 +317,8 @@ We have automated unit and end-to-end tests that are run on every CI build.
 ##### Deploy
 **Question:** How can we tell whether the application assets are live in
 production?  
-**Answer:** Look at www.va.gov/applications/BUILD.txt and compare the `ref` to the commit
-hash you expect to be in production.
+**Answer:** Look at www.va.gov/applications/BUILD.txt and compare the `ref` to
+the commit hash you expect to be in production.
 
 ### Caveats
 - The content validation doesn't happen in the build job
@@ -399,8 +399,7 @@ The following estimates vary greatly depending on who's doing the work.
     - **Estimate:** 1 - 2 days
 1. Remove the broken link checker step from the Metalsmith script
     - **Estimate:** < 1 hour
-1. Remove Webpack from the Metalsmith build script
-   `vets-website`
+1. Remove Webpack from the Metalsmith build script `vets-website`
     - Use
       [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
       to generate temporary application landing pages
@@ -435,10 +434,10 @@ The following estimates vary greatly depending on who's doing the work.
   
     <!-- TODO: More clearly define the transition to separate deployments -->
 
-    <!-- TODO: More clearly define the transition for the React app landing pages -->
-    <!-- When does it make sense to build them in the production build for the
-    E2E tests to use them? When we make the switch to have vets-website build
-    only Webpack assets? -->
+    <!-- TODO: More clearly define the transition for the React app landing
+    pages --> <!-- When does it make sense to build them in the production build
+    for the E2E tests to use them? When we make the switch to have vets-website
+    build only Webpack assets? -->
 
 ### Alternatives
 
