@@ -6,7 +6,7 @@ Status:
 - vaos/systems/{system_id}/clinic_institutions
 
 ### Equivalent FHIR resource
-- Organizational
+- http://hl7.org/fhir/organization.html
 
 ## Data
 ### Data to FHIR model mapping
