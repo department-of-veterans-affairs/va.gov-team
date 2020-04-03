@@ -38,7 +38,9 @@ Security is obviously an issue.
 
 ### What are your goals for a new logged in homepage experience?
 
-One of my goals would be for us to audit the design system for authenticated work, so how identity might affect elements. Looking at the US Design System and see if they are doing anything related to that. Other than that, I would love to see us… for an authenticated homepage specifically, what is the north star guiding how we make decisions. One end of the range would be the minimum changes to support the highest level of goals. The other end of the spectrum would be a completely different page — what requires immediate attention, what questions of yours have been answered. We probably want to design a page that is there to (missed this part).
+One of my goals would be for us to audit the design system for authenticated work, so how identity might affect elements. Looking at the US Design System and see if they are doing anything related to that. Other than that, I would love to see us… for an authenticated homepage specifically, what is the north star guiding how we make decisions. One end of the range would be the minimum changes to support the highest priority auth exp goals. The other end of the spectrum would be a completely different page — what requires immediate attention, what questions of yours have been answered. 
+
+The page we have is a roll of the dice for an unauthenticated user, "we're betting that these are the things you want to do". We probably want to design a page that is very much about what they're there to do and nothing else. Or at least prioritize that content.
 
 ### What does success look like to you? How would you know this project has succeeded?
 
