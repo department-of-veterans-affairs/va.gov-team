@@ -267,6 +267,12 @@ hash.
 Once we split out the content build, however, it's infeasible to continue this
 approach. Instead, we'll rely on the (`Cache-Control`
 header)[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control].
+Setting it to `no-cache` will require browsers to check with the server for
+every request before using the cached assets.
+
+**Note:** This will cause higher traffic for S3 and may result in a lower
+performance for users, as the browser will have to make a request to the server
+before the cache can be used.
 
 ### Code Location
 To start, the **content build** will live at
