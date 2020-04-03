@@ -23,6 +23,7 @@ VSP currrently communicates information to customers about improvements to platf
 - Customers are less fustrated about platform update communications.
 - Customers are aware of platform updates. 
 - Customers understand how platform updates benefit them.
+- Customers feel the plaform and the platform community is valuable
 
 ## Undesired User Outcomes
 
@@ -33,6 +34,7 @@ VSP currrently communicates information to customers about improvements to platf
 
 - Increased customer satisfaction and engagement.
 - Accelerated awareness and adoption of platform features, services, and processes.
+- Stakeholder buy-in the platform is valuable.
 
 ## Undesired Business Outcomes
 
