@@ -57,7 +57,7 @@ The risk from not addressing this problem is VSP will have an incomplete custome
 
 ## Solution Approach
 
-For the MVP, we plan to build and publish the initial edition of an email newsletter to VFS teams sharing information on recently released platform improvements.  The purpose of the MVP is to test if a periodic newsletter would be an effective new channel for VSP to communicate platform improvements to VFS teams and stakeholders. 
+For the MVP, we plan to build and publish the initial edition of an email newsletter to VFS teams sharing information on recently released platform improvements.  The purpose of the MVP is to test if a periodic newsletter would be an effective new channel for VSP to communicate platform improvements to VFS teams and stakeholders and as a byproduct of its tone and content dirve engagement, appreciation of the platform's value, and foster a collaborative culture. 
 
 To build the MVP, we need to set up a process for content creation, packaging, and distribution.
 
