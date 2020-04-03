@@ -401,11 +401,19 @@ The following estimates vary greatly depending on who's doing the work.
         no longer responsible for deploying the content
     - Write a script to run content and application builds while they're both in
       `vets-website`
-    - **Estimate:** 1 - 3 days
+    - **Estimate:** 3 - 5 days
+1. Create an `application-registry.json` to hold information about all
+   applications in `vets-website` neede during the content build process
+    - This includes `rootUrl`, `appName`, `inProduction`
+    - **Estimate:** 1 hour - 1 day
 1. Modify the `createReactPages` step to use [the new JSON
    file](#react-application-landing-pages)
-    - **Estimate:** 1 - 3 days
-    - **Note:** This work can be done in parallel with any of the above tasks
+    - Remove the unused pieces of the `manifest.json` files
+    - Update the documentation for the `manifest.json` files
+    - Update the app generator to not add the unused properties in the
+      `manifest.json`, but log to the console with instructions on what to do to
+      make the application landing page in the content build
+    - **Estimate:** 2 - 4 days
 1. Copy the content build script to another repo
     - The hard part here is figuring out what all the content build touches
       - [Madge](https://github.com/pahen/madge) might be helpful for this
