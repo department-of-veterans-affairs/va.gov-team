@@ -50,9 +50,9 @@ We are going to be talking about how you use certain VA benefit features today. 
 - Is that representative an attorney or a VSO?
 - When did you allocate your rights to an attorney/VSO to help with your VA claim?
 - Can you share your reasoning behind electing a repesentative for your claim?
-    Look for answers, such as friends, family, bureacracy, approached by service
+    - Look for answers, such as friends, family, bureacracy, approached by service
 - How did you apply for a Power of Attorney (POA)? 
-    Look for answers, such as paper, eBenefits, a service
+    - Look for answers, such as paper, eBenefits, a service
 - What was your reasoning behind using that application method?
 - Are you satisfied with the method you used and was it your preference?
 
@@ -67,22 +67,22 @@ I am going to share my screen with you. Can you see the eBenefits website on you
 
 **Screens**
 - Patriot Act
-    Please give us your initial thoughts about this screen.
-    Please walk me through how you would complete this screen.
-    Can you verbalize some of your thougths about the Patriot Act text?
-
+  - Please give us your initial thoughts about this step.
+  - Please walk me through how you would complete this step.
+  - Can you verbalize some of your thougths about the Patriot Act text?
+    
 - Search for Representative
-    Please give us your thoughts about this screen
-    Please walk me thought how you would complete this screen.
-    Could you think of another way to search for attorney
-    Can you descibe what you think would be the best was to seatch for a attorney/VSO
-    When you filled out this form did you have an attorney or VSO already choosen. 
+  - Please give us your thoughts about this step
+  - Please walk me thought how you would complete this step.
+  - Could you think of another way to search for attorney
+  - Can you descibe what you think would be the best was to seatch for a attorney/VSO
+  - When you filled out this form did you have an attorney or VSO already choosen. 
     
 - Representative Table
-    When you were searching for a representative, what were the key pieces of information you need to choose a representative?
-    How would you order the table headers from least important to most important?
-    Is there anything missing in this table that you would find valuable?
-   how would you prerefe to search this table or find a attorney
+  - When you were searching for a representative, what were the key pieces of information you need to choose a representative
+  - How would you order the table headers from least important to most important?
+  - Is there anything missing in this table that you would find valuable
+  - How would you prerefe to search this table or find a attorney
    define your search critera
    
 ## Legal Comprehension
@@ -96,56 +96,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
 - [ ] Uncover what information is pertinent to the Veterans
 
 - [ ] Confirm the Veterans' expectation of the table
-**Scenario**
 
-- You've recently had a claim denied and you wish to appeal the denial.  You would like to appoint an attorney to represent you throughout the disputed claim process. You have navigated to VA.gov, show us where you would go to find the form to do this.
-
-### Discussion Topics:
-- Where does the participant click first? next?
-- Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
-
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-conversation-guide.md
-
-
-## Second Task: Select form(s)
-
-Great! You found it and ended up on this page. 
-
-Moderator shares prototype link: https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/?fullscreen (make sure the participant is still sharing screen)
-- What are your first impressions? 
-- Are the options shown clear to you?
-- Show us what you would do next to add your spouse and their child to your benefits.
-
-### Things to watch for:
-- Does the participant know they can select multiple scenarios?
-- Make note of how the participant interacts with the optinons
-
-## Third Task: Step through form
-
-Go ahead and show us what you would do to add them.
-- Be sure to think out loud and comment on anything that you may find confusing, interesting, etc.
-
-### Things to watch for:
-- Does the participant understand that all the workflows are within this form? 
-- Watch for any hiccups in the form process
-
-## Fourth Task: Review application
-
-- Take a moment to review the information presented on the screen. 
-- Go ahead and show us what you would do to finish the application.
-
-### Things to watch for:
-- Does the participant discern between the different scenarios?
-- Make note of how participant reviews form summary
-
-## Fifth Task (if time): Remove
-
-- Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
-
-OR
-
-- Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
 
 ## Post-Task Interview
 - Would you prefer to complete multiple tasks at the same time? Or individually?
