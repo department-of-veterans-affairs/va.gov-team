@@ -45,7 +45,7 @@ We are going to be talking about how you use certain VA benefit features today. 
 - Tell me a little about your background and your service history.
 
 
-## Document Veterans' expectations of the tool.
+## Document Veterans' expectations of the tool- 10 minutes
 - Are you currently using a representative to assist with a disputed VA claim?
 - Is that representative an attorney or a VSO?
 - When did you allocate your rights to an attorney/VSO to help with your VA claim?
@@ -56,7 +56,7 @@ We are going to be talking about how you use certain VA benefit features today. 
 - What was your reasoning behind using that application method?
 - Are you satisfied with the method you used, and was it your preference?
 
-## Discover Veterans' pain points.
+## Discover Veterans' pain points- 10 minutes
 ### Screenshare
 - Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal. 
 
@@ -84,7 +84,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
   - How would you order the table headers from most important to least important?
   - Is there anything missing in this table that you would find valuable?
    
-## Assess the Veteran's understanding of the legal implications of this form.
+## Assess the Veteran's understanding of the legal implications of this form- 10 minutes
 - What are your thoughts on the length of the form? 
 - Were there areas you needed assistant when filling out the form?
 - Whom did you contact for help?
@@ -92,7 +92,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
 - Can you to me a little about how you completed the form?  
 
 
-## Payment History
+## Payment History- 15 minutes
 We are going to change gears a bit and look at different eBenefits feature called Payment History. This screen shows a history of payments made by the VA to a veteran. 
 
 - Confirm with the participant that they can see the eBenefits Payment History screen. 
@@ -116,9 +116,16 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
     - What would be the next step to correct the problem?
 
 #### Establish and prioritize table features and attributes based on Veterans' input.
-- My next set of questions will be centered around the Payment tables features.
-- Previously you said that you come here to do "X". How many payments would need to be displayed in the initial table for you to be able to accomplish that objective? 
-- How can we make locating your "particular payment easier."
+My next set of questions will be centered around the Payment tables features.
+- On average how many payment items need to be displayed for the intital table?
+- Would displaying the last 5 payments issuesd be enought to complete the most common task?
+    - If not how many?
+- How would you search for a "particular payment"?
+    - Sort, filter, text imput of fuzz math/ auto-complete suggestions, date range searches.
+- Is there a reason you did not mention 'x' [look at search features from previous question]?
+- Can you please rank the table headers as most import to least important.
+- Are there any table headers that we could remove without preventing you from completing your task? 
+- Why are these headers not needed?
 
 ## Post-Task Interview
 - What would you change about this prototype?
