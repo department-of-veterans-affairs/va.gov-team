@@ -81,8 +81,10 @@ whenever a commit is pushed to a branch in GitHub. This build must succeed
 
 The outputs of this build are frontend applications that are
 **[deployed](#deployment) to and hosted from an AWS S3 bucket**. These
-applications are deployed on a weekdaily schedule. New content is deployed by a
-manual trigger from the CMS and by the weekdaily application deployment.
+applications are deployed on a weekdaily schedule. Content in the CMS is
+deployed by a manual trigger from the CMS and by the weekdaily application
+deployment. This trigger runs a Jenkins job which, in turn, runs the [Metalsmith
+build script](#build-script).
 
 The entangling of the content and application builds have [led to
 frustrations](#pain-points) for engineers, slower iteration cycles due to failed
