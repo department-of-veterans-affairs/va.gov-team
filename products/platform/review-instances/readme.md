@@ -9,8 +9,8 @@ Review instances allows testing against live pre production backends. If you nee
 
 
 ## Product Guides\Documentation:
-- [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md))
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/review-instances/product-outline.md))
+- [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/review-instances/product-outline.md)
 
 
 ## Product Responsibility (Last updated: 1-16-20 )
