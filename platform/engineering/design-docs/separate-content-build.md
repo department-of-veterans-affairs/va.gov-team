@@ -132,7 +132,6 @@ There are currently two kinds of deployments:
     - Fetches the latest Drupal content
       - Falls back to the cached content in S3 from the last successful deploy
         (full or partial)
-        <!-- TODO: Verify that either deploy will cache the pages.json and files -->
     - Runs the accessibility tests and link checker
 
 See [the deployment documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/)
