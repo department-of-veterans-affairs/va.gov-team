@@ -3,7 +3,7 @@
 **Author(s):** Christopher Valarida  
 **Last Updated:** March 16 2020  
 **Status:** Draft | **In Review** | Approved  
-**Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler  
+**Approvers:** Dror Matalon, Andrew Gunsch [x], Rian Fowler  
 
 
 ## Table of Contents
