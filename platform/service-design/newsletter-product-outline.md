@@ -20,7 +20,7 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Desired User Outcomes
 
-Every VFS team member and stakeholder is aware and understands announcements about improvements platform features, services, and processes.
+Every VFS team member and stakeholder is aware and understands announcements about improvements to platform features, services, and processes resulting in increased customer satisfaction.
 
 ## Undesired User Outcomes
 
