@@ -15,7 +15,7 @@ Status: In progress
 ## Data
 ### Data to FHIR model mapping
 - Type of care (Appointment.type)
-- Type (**Unknown**)
+- Visit Type (**Unknown**)
 - Status (Appointment.status)
   - Looks like we have to send "proposed"
 - Method (**Unknown**)
@@ -26,7 +26,6 @@ Status: In progress
 - Preferred language (**Unknown**)
 - Closest facility (**Appointment.participant[Organization]**)
 - User contact details (**Unknown**)
-- Visit type (**Unknown**)
 ### Missing/incomplete data list
 - Preferred language
 - Closest facility?
