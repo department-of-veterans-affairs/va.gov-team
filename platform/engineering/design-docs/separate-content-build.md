@@ -245,18 +245,26 @@ To ensure that one build won't override files in the other, we'll have to
   build repo
   
 #### React application landing pages
-**Important note:** JavaScript application landing pages will be created during
-the content build. There will be a JSON file with the parameters to create the
-landing pages. Parameters include:
+JavaScript application landing pages will be created during the content build.
+
+**Phase 1: Stopgap solution**  
+To mirror the current process for creating application landing pages, we will
+modify the `createReactPages` Metalsmith plugin to use a JSON file with the
+parameters instead of pulling the properties from the various `manifest.json`
+files. This JSON file will include:
 - URL of the page
-- Bundle name for the application
+- Application name
 - Whether the file should be made available in production
 
-When we do this, we need to update the manifest.json documentation and remove
+When we do this, we will update the `manifest.json` documentation and remove
 unused properties from all the files.
 
-**Question:** Should this be a transitional stopgap measure until the landing
-pages are all created in Drupal, or could this be a viable long-term solution?
+**Phase 2: Long-term solution**  
+All application landing pages will be created in the CMS. The page's published
+state will determine whether the application should be made available in
+production.
+
+Once this is complete, we will remove the Phase 1 stopgap solution.
 
 #### Cache busting application code
 To ensure the latest code is downloaded by the browser, we have to bust the
