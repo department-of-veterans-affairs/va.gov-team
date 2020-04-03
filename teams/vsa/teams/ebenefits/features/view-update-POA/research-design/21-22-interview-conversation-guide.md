@@ -36,7 +36,7 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?"** 
 
 ## Warm-up Questions - 5 minutes
 
@@ -45,7 +45,7 @@ We are going to be talking about how you use certain VA benefit features today. 
 - Tell me a little about your background and your service history.
 
 
-## Document Veterans' expectations of the tool- 10 minutes
+## Document Veterans' expectations of the tool - 10 minutes
 - Are you currently using a representative to assist with a disputed VA claim?
 - Is that representative an attorney or a VSO?
 - When did you allocate your rights to an attorney/VSO to help with your VA claim?
@@ -56,7 +56,7 @@ We are going to be talking about how you use certain VA benefit features today. 
 - What was your reasoning behind using that application method?
 - Are you satisfied with the method you used, and was it your preference?
 
-## Discover Veterans' pain points- 10 minutes
+## Discover Veterans' pain points - 10 minutes
 ### Screenshare
 - Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal. 
 
@@ -102,30 +102,30 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
 #### Determine Veterans' objective(s)/reason(s) for accessing their payment history.
 - How familiar are you with eBenefits Payment History feature?
 - Do you currently use this feature, and how often?
-- How long have you been getting payments from the VA?
+- How long have you been getting payments from the VA? ⭐
 - Can you share your reasoning behind why you use this feature?
-- Are there other reasons?
-- How often are you looking for a particular payment?
-    - Why are you looking for this particular payment
-- How often are you looking for a period of payments?
-    - Why are you looking for this period of payments?
+  - Are there other reasons?
+- How often are you looking for a particular payment? ⭐
+  - Why are you looking for this particular payment? 
+- How often are you looking for a period of payments? ⭐
+  - Why are you looking for this period of payments?
 - Do you prefer to check your VA payment on your bank's website or the VA's website?
 - How many banking accounts do you have? what types?
-- Can you walk me through how you would solve payment issues?
-    - How would you know there is an issue?
-    - What would be the next step to correct the problem?
+- Can you walk me through how you would solve a payment issue? ⭐
+  - How would you know there is an issue?
+  - What would be the next step to correct the problem?
 
 #### Establish and prioritize table features and attributes based on Veterans' input.
 My next set of questions will be centered around the Payment tables features.
-- On average how many payment items need to be displayed for the intital table?
-- Would displaying the last 5 payments issuesd be enought to complete the most common task?
+- On average how many payment items need to be displayed for the intitial table?
+- Would displaying the last 5 payments issued be enough to complete the most common task? ⭐
     - If not how many?
 - How would you search for a "particular payment"?
-    - Sort, filter, text imput of fuzz math/ auto-complete suggestions, date range searches.
+    - Sort, filter, text input of fuzz math/ auto-complete suggestions, date range searches.
 - Is there a reason you did not mention 'x' [look at search features from previous question]?
-- Can you please rank the table headers as most import to least important.
+- Can you please rank the table headers as most import to least important. ⭐
 - Are there any table headers that we could remove without preventing you from completing your task? 
-- Why are these headers not needed?
+  - Why are these headers not needed?
 
 ## Post-Task Interview
 - What would you change about this prototype?
