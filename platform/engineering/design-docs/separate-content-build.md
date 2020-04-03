@@ -432,13 +432,6 @@ The following estimates vary greatly depending on who's doing the work.
       - The deployment of this to Jenkins (or wherever) must be done in concert
         with the switch to building only Webpack assets
     - **Estimate:** 1 hour - 1 day
-  
-    <!-- TODO: More clearly define the transition to separate deployments -->
-
-    <!-- TODO: More clearly define the transition for the React app landing
-    pages --> <!-- When does it make sense to build them in the production build
-    for the E2E tests to use them? When we make the switch to have vets-website
-    build only Webpack assets? -->
 
 ### Alternatives
 
