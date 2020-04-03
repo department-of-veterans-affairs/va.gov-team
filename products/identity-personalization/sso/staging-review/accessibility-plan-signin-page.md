@@ -4,7 +4,7 @@
 * No specific test credentials or passwords are needed for testing.
 * Enter your unique product/feature data into the copied documents before requesting a [staging review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) with VSP.
 * [Sign-in Page](https://staging.va.gov/sign-in/?application=myvahealth)
-* [Color comparisons, Color Blindness, Zoom Testing, Keyboard, and Screen Reader Testing for the stand-along sign-in page and the SSO comms modal can be found here](https://docs.google.com/document/d/1lKCWVqcJjYTbrpg1W2QpRVA6gBpqWXeA6_KrJF3v3iM/edit#) 
+* Manual tests including color comparisons, color blindness, zoom testing, keyboard, and screen reader testing for the stand-along sign-in page and the SSO comms modal can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf) 
 
 ## Automated testing (required)
 
