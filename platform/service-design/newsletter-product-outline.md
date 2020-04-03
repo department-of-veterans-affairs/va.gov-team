@@ -20,9 +20,9 @@ VSP currrently communicates information to customers about improvements to platf
 
 ## Desired User Outcomes
 
-Customers are less fustrated about platform update communications.
-Customers are aware of platform updates. 
-Customers understand how platform updates benefit them.
+- Customers are less fustrated about platform update communications.
+- Customers are aware of platform updates. 
+- Customers understand how platform updates benefit them.
 
 ## Undesired User Outcomes
 
