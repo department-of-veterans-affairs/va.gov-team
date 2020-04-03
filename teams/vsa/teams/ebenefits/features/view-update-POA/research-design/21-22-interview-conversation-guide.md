@@ -1,7 +1,5 @@
 # Conversation Guide for 21-22 Power of Attorney & Payment History 
 
-## Background
-
 ## Goals
 #### Power of Attorney
 - [ ] Document Veterans' expectations of the tool.
