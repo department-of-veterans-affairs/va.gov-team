@@ -73,7 +73,7 @@ styling (`.css`).
 Static content files are created from the **[Metalsmith build
 script](#build-script)**. Application bundles are created with Webpack.
 
-These builds are currently **orchestrated by a single build script.**
+These two distinct tasks are currently **entangled in a single build script.**
 
 The **[CI pipeline](#ci-pipeline)** runs this build script (among other things)
 whenever a commit is pushed to a branch in GitHub. This build must succeed
