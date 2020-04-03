@@ -14,7 +14,7 @@ Publish a periodic email newsletter publicizing platform improvements to ensure 
 
 ## Problem Statement
 
-VSP currrently communicates information to customers about improvements to platform features, services, and processes  largely through Slack.  We have heard from VFS teams that announcements on Slack are often missed or get lost resulting in delay and fustration as they run into avoidable issues or waste time searching for an old Slack message.  We have heard from VSP teams that these communication gaps lead to redudant support requests and negatively affect the perception of the platform by VFS teams as well as VA stakeholders.
+VSP currrently communicates information to customers about improvements to platform features, services, and processes  largely through Slack.  We have heard from VFS teams that announcements on Slack are often missed or get lost resulting in delay and fustration as they run into avoidable issues or waste time searching for an old Slack message.  We have heard from VSP teams that these communication gaps lead to redudant support requests and a lack of awareness of platform improvements.
 
 *How might we improve VSP outgoing communications to keep pace with the scale of our operation?* 
 
