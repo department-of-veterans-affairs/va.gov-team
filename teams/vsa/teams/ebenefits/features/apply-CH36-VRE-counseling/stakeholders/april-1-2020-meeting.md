@@ -58,4 +58,4 @@ The discovery deck outlined the results of the implementation of a Human Centere
 - The deck gives anecdotes from individual who process CH36 forms; they say form information is incomplete and processing time is often greater than two weeks.
 - There is a correlaton between processing time and participation: the less time in processing, the higher the reate of program participation.
 
-- 
+
