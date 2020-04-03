@@ -10,3 +10,9 @@ Currently we have all of the JSON we are using to validate the 686-674 form insi
 
 
 ## Notes
+
+### Check to make sure that the current JSON schema is the best shape it can be for submission of the form
+
+
+
+
