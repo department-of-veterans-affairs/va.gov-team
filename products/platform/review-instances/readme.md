@@ -13,7 +13,7 @@ Review instances allows testing against live pre production backends. If you nee
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/review-instances/product-outline.md)
 
 
-## Product Responsibility (Last updated: 1-16-20 )
+## Product Responsibility (Last updated: 4-3-20 )
 Review Instances currently are a shared responsibility by the FE/ BE Tools and Operations Teams.
 - Troubleshooting: #vsf-product-support
 - Onboarding: #vsf-product-support
