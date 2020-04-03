@@ -2,7 +2,7 @@
 name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team e.g. content support.
 title: <Type of Request> from <Team>
-labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming
+labels: vsa-public-websites, vsa, vsa-public-websites-intake, needs-grooming, Epic
 assignees: lunascoop
 ---
 
@@ -93,7 +93,8 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 --- 
 ### Public Websites internal use
 
-#### Next steps
+#### Acceptance Criteria
+- [ ] Convert this request into a Zenhub epic
 - [ ] follow-up with requestor to address any lingering questions/concerns
 - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
