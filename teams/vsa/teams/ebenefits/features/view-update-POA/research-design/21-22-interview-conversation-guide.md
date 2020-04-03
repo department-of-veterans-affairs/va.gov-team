@@ -122,7 +122,7 @@ My next set of questions will be centered around the Payment tables features.
     - If not how many?
 - How would you search for a "particular payment"?
     - Sort, filter, text input of fuzz math/ auto-complete suggestions, date range searches.
-- Is there a reason you did not mention 'x' [look at search features from previous question]?
+- Is there a reason you did not mention `x` (look at search features from previous question)?
 - Can you please rank the table headers as most import to least important. ⭐
 - Are there any table headers that we could remove without preventing you from completing your task? 
   - Why are these headers not needed?
