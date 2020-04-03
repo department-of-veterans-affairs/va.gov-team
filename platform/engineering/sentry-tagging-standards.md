@@ -3,51 +3,50 @@
 
 ## Background
 
-Sentry allows for adding [additional context](https://docs.sentry.io/enriching-error-data/context/?platform=ruby) to captured error events. 
+Sentry allows adding [additional context](https://docs.sentry.io/enriching-error-data/context/?platform=ruby) to error events 
 
-In the context of the VSP, we aim to standardize our use of these features for consistency and reliability in searching/filtering Sentry events.
+This document aims to standardize our use of these features for consistency and reliability in searching/filtering Sentry events.
 
-**Definitions**
+### Definitions
 
 *Tags* are key/value pairs which generate breakdowns charts and [search filters](http://sentry.vfs.va.gov/vets-gov/platform-api-production/?query=is%3Aunresolved+backend_service%3Aevss). You can see all tags for the given Sentry project [here](http://sentry.vfs.va.gov/settings/vets-gov/projects/platform-api-production/tags/). Tags will also be used in the Sentry alert sent to Slack.
 
 *Extra* context is unstructured and difficult to use as a search/filter metric. Use sparingly.
 
+### Automated tagging in `vets-api`
 
+- every controller action in `vets-api` that inherits from ApplicationController is tagged with:
+ 
+```ruby
+ def user_context
+    {
+      uuid: current_user&.uuid,
+      authn_context: current_user&.authn_context,
+      loa: current_user&.loa,
+      mhv_icn: current_user&.mhv_icn
+    }
+  end
 
-### What you get for free:
-- every controller action that inherits from ApplicationController is tagged with:
-    ```ruby
-     def user_context
-        {
-          uuid: current_user&.uuid,
-          authn_context: current_user&.authn_context,
-          loa: current_user&.loa,
-          mhv_icn: current_user&.mhv_icn
-        }
-      end
+  def tags_context
 
-      def tags_context
+    {
+      controller_name: controller_name,
+      sign_in_method: sign_in_method_for_tag
+    }
+  end
 
-        {
-          controller_name: controller_name,
-          sign_in_method: sign_in_method_for_tag
-        }
-      end
+  def extra_context
+    {
+      request_uuid: request.uuid
+    }
+  end
+```
 
-      def extra_context
-        {
-          request_uuid: request.uuid
-        }
-      end
-    ```
+- Sidekiq jobs are automatically tagged by code in `lib/sidekiq/error_tag.rb` with the job's class name.
 
-`job`
-- Sidekiq job is automatically tagged in `lib/sidekiq/error_tag.rb` with the job class name
+### Manually tagging in `vets-api`
 
-### Manually added tag guidelines:
-
-The following tags are available and encouraged for use in service transactions. 
+The following tags are available and encouraged for use in your code.
 
 Generally it is advisable to provide warrants if adding a new tag not seen here in a given PR.
 
