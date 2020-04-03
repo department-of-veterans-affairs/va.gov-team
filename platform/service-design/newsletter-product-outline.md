@@ -34,7 +34,7 @@ VSP currrently communicates information to customers about improvements to platf
 
 - Increased customer satisfaction and engagement.
 - Accelerated awareness and adoption of platform features, services, and processes.
-- Stakeholder buy-in the platform is valuable.
+- Stakeholder buy-in that the platform is valuable.
 
 ## Undesired Business Outcomes
 
