@@ -34,7 +34,7 @@ Five (business days).
 **Do you have a sense of volume?  How many applications are obtained?**  
 Data is unreliable but we think it might be 4-6,000 per year but that is based on very little evidence.
 
-**Is there a blueprint for what is absolutely required via the form or a minimum amount of things to get someone through the process?** 
+**Is there a blueprint for what is absolutely required via the form or a minimum amount of things to get someone through the process?**   
 As an action item, we would like to spend some time on that and we will get back to you in about a week.
 
 Future steps will include comm strategy which the EBN team can help collaborate with and there is a contractor (DIS) in place to help with this and any other marketing needs.  There will most likely be some announcement in September.
