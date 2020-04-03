@@ -509,7 +509,8 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 
 ### Order of priorities
 
-1. Profile 2.0: Conduct sessions and summarize research; Start on content review/IA work
+1. Profile 2.0: Conduct sessions and summarize research
+  - If time, start on content review/IA work
 2. Profile 2.0: Build continues
 3. Address validation: Final tickets
 4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
@@ -521,9 +522,7 @@ Logged in homepage
 3. Research review
 4. (Samara) Product outline
 
-### Profile 2.0
-
-Address validation
+### Address validation
 
 - Change address update endpoint to use iso3 country code #6046
 - Stop using country name for VA profile contact information endpoint #5591
@@ -531,10 +530,13 @@ Address validation
 - [508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
 - Start investigation: What is causing the mailing and home address errors we are still seeing? #7532
 
+### Profile 2.0
+
 Design
 
-- Conduct sessions #2587
+- Conduct research sessions #2587
 - Create report and tickets #2588
+- If time, start on content review/IA work
 
 Dev
 
