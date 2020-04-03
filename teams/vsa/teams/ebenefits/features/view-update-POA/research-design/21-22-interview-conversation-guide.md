@@ -128,7 +128,7 @@ My next set of questions will be centered around the Payment tables features.
   - Why are these headers not needed?
 
 ## Post-Task Interview
-- What would you change about this prototype?
+- ~What would you change about this prototype?~
 - What kind of device (mobile/desktop/tablet) do you use most often? Would you use that kind of device to fill this form out?
 - How would you expect to find this form on the website?
 - Any questions for me? 
