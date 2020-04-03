@@ -57,7 +57,7 @@ To build the MVP, we need to set up a process for content creation, packaging, a
 
 For the MVP, we will not include platform release notes as these will be communicated by other means.
 
-We will track and analyze how our audience interacts with the MVP newsletter (using Mailchimp or alternative tools) to determine next steps for evolving our apporach in subsequent phases.
+We will track and analyze how our audience interacts with the MVP newsletter (using Mailchimp or alternative tools) to determine next steps for evolving our approach in subsequent phases.
 
 ## KPIs
 
