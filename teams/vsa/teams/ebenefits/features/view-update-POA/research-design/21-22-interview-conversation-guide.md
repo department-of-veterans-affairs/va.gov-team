@@ -84,7 +84,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
   - How would you order the table headers from most important to least important?
   - Is there anything missing in this table that you would find valuable?
    
-## Assess the Veteran's understanding of the legal implications of this form- 10 minutes
+## Assess the Veteran's understanding of the legal implications of this form - 10 minutes
 - What are your thoughts on the length of the form? 
 - Were there areas you needed assistant when filling out the form?
 - Whom did you contact for help?
@@ -92,7 +92,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
 - Can you to me a little about how you completed the form?  
 
 
-## Payment History- 15 minutes
+## Payment History - 15 minutes
 We are going to change gears a bit and look at different eBenefits feature called Payment History. This screen shows a history of payments made by the VA to a veteran. 
 
 - Confirm with the participant that they can see the eBenefits Payment History screen. 
