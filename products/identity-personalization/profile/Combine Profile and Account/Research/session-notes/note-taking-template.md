@@ -156,7 +156,7 @@ Things to look for:
 
 **Participant:** 
 
-**Moderator: Did you find it easy or hard to navigate using the menu at the top of the page?
+**Moderator: Did you find it easy or hard to navigate using the menu at the top of the page?**
 
 **Participant:** 
 
