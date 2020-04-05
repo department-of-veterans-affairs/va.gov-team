@@ -113,7 +113,7 @@ Things to look for:
 
 **Participant:**
 
-**Moderator: Could you scroll up to the the dark grey box below the header with your name in it? What are your thoughts about this area?
+**Moderator: Could you scroll up to the the dark grey box below the header with your name in it? What are your thoughts about this area?**
 
 **Participant:**
 
