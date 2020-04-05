@@ -99,7 +99,7 @@ Things to look for:
 
 **Participant:** 
 
-**Moderator: Did that make sense to you? **
+**Moderator: Did that make sense to you?**
 
 **Participant:** 
 
@@ -255,8 +255,8 @@ Things to look for:
 
 ## Thank-You and Closing
 
-**Moderator: Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.  As a thank you for your participation, we'd like to send you a $50 thank-you check. This will be sent by (Brian/Shannon from) Perigean, the people that recruited you to talk to us today. They'll work with you to figure out the right place to send it.  Any questions before we sign off? **
+**Moderator: Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.  As a thank you for your participation, we'd like to send you a $50 thank-you check. This will be sent by (Brian/Shannon from) Perigean, the people that recruited you to talk to us today. They'll work with you to figure out the right place to send it.  Any questions before we sign off?**
 
 **Participant:**
 
-**Moderator: Great, well thank you so much again, and enjoy the rest of your day! **
+**Moderator: Great, well thank you so much again, and enjoy the rest of your day!**
