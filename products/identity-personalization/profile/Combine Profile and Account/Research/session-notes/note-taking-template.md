@@ -25,8 +25,6 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions
 
-Before we look at the website, let’s start with a few warm-up questions.
-
 **Moderator: Before we look at the website, let’s start with a few warm-up questions.Tell me about your service history OR tell me about yourself**
 
 **Participant:** 
