@@ -96,6 +96,8 @@ Alright, just a reminder - you are trying to update your mailing address.
 - Does this section match your expectations? 
 - Why?
 
+6. Could you scroll up to the the dark grey box below the header with your name in it? What are your thoughts about this area? 
+
 ### Things to watch for:
 
 - I noticed you clicked [this]. Talk about why you chose this.
