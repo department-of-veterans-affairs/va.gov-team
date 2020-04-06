@@ -5,6 +5,7 @@ Situation
 * We link to historic rates. It’s not a requirement and not sure why it’s necessary. Decided to keep 3 years worth of rates data (to coincide with requirements to keep tax data for 3 years)
     * For certain legacy years, we link to a legacy page on benefits.va.gov. These pages are not overridden and so we link out to these pages.
     * More recent legacy years, however, begin and end on VA.gov. And we overwrite legacy pages with new rate information so there is NO canonical legacy page
+* Tier 1 content, which includes rates, is maintained by Public Websites
     
 
 Draft Product Outline 
@@ -35,5 +36,6 @@ Solution Hypotheses
     * Massive spreadsheet for stakeholders to fill out broken out by worksheet within. Would be manual to incorporate those ourselves.  
     
 Next Steps
-* Noodle on problems/assumptions
+* Think through problems/assumptions
+* Noodle on potential hypotheses
 
