@@ -493,8 +493,6 @@ Each application or logical section of the site will have a heading and a detail
 
 **Open Issues**
 
-- [[SCREENREADER]: Clock icons MUST have text that describes the info represented by them](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6697)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-1 — **_Critical_**
-
 - [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 - [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
@@ -657,11 +655,8 @@ Each application or logical section of the site will have a heading and a detail
 ### VFS Veterans Affairs Online Scheduler (VAOS)
 
 **Audit Status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**
-
-#### Open issues
-
-- [[COGNITION]: Can we review the language for Community Care appointment review times?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6279)<br/>**Staging** | **Opened:** February 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**<br/>
+**No open issues**
 
 ---
 
