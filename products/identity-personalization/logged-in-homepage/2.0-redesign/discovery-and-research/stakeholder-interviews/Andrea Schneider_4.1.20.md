@@ -24,13 +24,14 @@ It doesn’t differentiate. The website as it is for an unauth user is the same 
 
 (Can you elaborate?) Because we know so much about veterans, and if they are logged in, we can provide them with a much more targeted experience of what they are trying to do and make them of aware of the things they could/are able to do vs. the vast amount of info available on VA.gov for users who we don’t know who you are or what you are trying to achieve. Once you are logged in, we can allow a veteran to accomplish a task in a better/fast way, help them with their particular situation of tasks they need to complete they weren’t aware of, or things they can take advantage of. We can target the outcomes based on knowing more about who you are.
 
-### How would an update to the logged in homepage experience impact your work?
+### Do you have specific opinions on the dashboard/homepage as it relates to disability benefits?
 
-(What are your opinions related to disability benefits and the dashboard?) Having veterans understand what their current situation is… we just launched “view my rated disability” so a veteran can see their exact rating right now. Being able to see that on a dashboard would help them continue to be familiar with where they are currently, especially around veterans who want to be able to apply to get an increase to their disability. 
+Having veterans understand what their current situation is… we just launched “view my rated disability” so a veteran can see their exact rating right now. Being able to see that on a dashboard would help them continue to be familiar with where they are currently, especially around veterans who want to be able to apply to get an increase to their disability. 
 
 Most veterans commit to memory what their ratings are, but let’s say hypothetically your rating for you knee injury is at 10% and you’re sustaining more problems because it’s getting worse. Then you see on your dashboard that it’s 10% and you see a link to apply for an increase. We can tie these things together from a health + benefits perspective. We want to aggregate and conglomerate this info to how it can affect/influence your benefits. 
 
 A more concrete example — info we know from VHA for what you’re getting treated for. If you’re not already getting treated for that, we can say this health condition might qualify you for this disability which general has a rating of whatever, and here is how you can apply for it. Just making that info super clear to a veteran on how they can apply for that condition.
+
 
 ### What are your goals for a new logged in homepage experience?
 
@@ -68,7 +69,7 @@ The other thing that might make this harder is trying to figure out how we suppo
 
 If we’re putting all this info into one place, if info is pulling and it’s conflicting. For example, we are hearing examples of veterans seeing their data as one thing in one place and it’s different in the other. (Gives example of the addresses on veteran benefits letters being different). (If data is different, how do veterans trust us?)
 
-You mentioned you’d been thinking about authenticated experiences in government for 20 years? What have you been thinking about related to this?
+### You mentioned you’d been thinking about authenticated experiences in government for 20 years? What have you been thinking about related to this?
 
 The first time I have ever worked on authenticated experiences was a project to envision what it would look like for someone to log in to their government website — so a super dashboard fed by all the different agencies that had information about you. The VA is part of that in my mind. Is there an opportunity to take this logged in experience and federate it with other experiences that influence it? 
 
