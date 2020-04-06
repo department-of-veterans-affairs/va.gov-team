@@ -36,6 +36,6 @@ After your VSP orientation, please check out these resources:
 
 1. [Understanding Goal Conversions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-success-in-analytics.md)
 
-
+2. [Importance of UTM Parameters - Video](https://drive.google.com/drive/folders/1PCFIkdvz6ptFENxrcw59x23OQ1VdWEH_)
 
 
