@@ -83,4 +83,43 @@ Notes
 Notes
 
 
+## Connected Accounts: MOBILE - "Learn about"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![ca-mobile-learn-about](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/ca-mobile-learn-about.png)
+
+### Design Specs
+
+### Copy
+Notes
+
+
+## Connected Accounts: MOBILE - "Disconnected App"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![ca-mobile-disconnect-app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/ca-mobile-disconnected.png)
+
+### Design Specs
+
+### Copy
+Notes
+
+## Connected Accounts: MOBILE - "No App"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![ca-mobile-no-app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/ca-mobile-no-app.jpg)
+
+### Design Specs
+
+### Copy
+Notes
 
