@@ -1,4 +1,4 @@
-Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes
+Vets-webservice Name,GIDS Database Column Name,Imported CSV Origin,Joined to institution by,Notes,
 ,caution_flags,(1) accreditation_action CSV column action_description and accreditation_action CSV column justification_description,(1) accreditation_institute_campus CSV column opeid, (1) Set value by joining on accreditation_institute_campus CSV column opeid. Set value if institution has received a probationary action and has not receieved a restorative action after the probrationary action. We include only those accreditation that are institutional and currently active.
 ,caution_flags,(2) mou,(2) mou CSV column 'ope id',(2) Value is 'DoD Probation For Military Tuition Assistance'
 ,caution_flags,(3) sec702,(3) sec702 CSV column state,(3) If sec702 CSV columen sec702 is false then 'Does Not Offer Required In-State Tuition Rates'
