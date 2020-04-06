@@ -63,7 +63,7 @@ Additionally, we want the staging environment to be as close as possible to how 
 
 
 2.	Prepare: When will the thing you are testing be ready? <br> 
-**The staging environment will be fully functional by (TBD)**
+**The staging environment will be fully functional by April 10th**
 
 Non-clickable mockups can be found here: https://vsateams.invisionapp.com/share/6MVTG94WNH5 
 
