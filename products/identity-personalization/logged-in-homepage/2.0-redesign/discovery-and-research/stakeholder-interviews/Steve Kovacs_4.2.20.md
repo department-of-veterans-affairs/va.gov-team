@@ -38,9 +38,9 @@ After that, payment history — all payments VA has made to you. After that is P
 
 Between this and next quarter, 1) disability rating, 2) list of dependents, 3) payment history, and 4) whoever is your current POA.
 
-Is this list comprehensive of what we’d need to accommodate for a dashboard/logged in UX?
+### Is this list comprehensive of what we’d need to accommodate for a dashboard/logged in UX?
 
-Idk, that feels like a more over-arching service design question. There is no shortage of information we could provide. It’s a matter of what they need to get to. I could see that if someone has a lot o payments/dependents/etc, it may not make sense to put them all together.
+Idk, that feels like a more over-arching service design question. There is no shortage of information we could provide. It’s a matter of what they need to get to. I could see that if someone has a lot of payments/dependents/etc, it may not make sense to put them all together.
 
 How would an update to the logged in homepage experience impact your work?
 
@@ -66,7 +66,7 @@ But you know, 20% projects where we can build up relationships to find out these
 
 ### What metrics would you be interested in seeing around a logged in homepage?
 
-We’ll move dependency claims over to VA.gov and it’ll exist on its own as part of the disability hub. As all our tools do, they exist as these tools in these hubs. How this unified and personalized experience dries people to spokes, or how it triages benefit discovery… again I think it’s usual top of funnel metrics. “I have a person here, what are they doing?” if they are not doing anything meaningful, what can we do to get through to them?
+We’ll move dependency claims over to VA.gov and it’ll exist on its own as part of the disability hub. As all our tools do, they exist as these tools in these hubs. How this unified and personalized experience drives people to spokes, or how it triages benefit discovery… again I think it’s usual top of funnel metrics. “I have a person here, what are they doing?” if they are not doing anything meaningful, what can we do to get through to them?
 
 ### Can you talk more about eligibility/logged in flow?
 
