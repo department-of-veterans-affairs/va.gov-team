@@ -93,3 +93,7 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 - Status: Blocked by questions
 
 #### Direct Schedule Appointment
+- [Discovery Notes](
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointment_direct_schedule.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7518)
+- Status: Blocked by questions
