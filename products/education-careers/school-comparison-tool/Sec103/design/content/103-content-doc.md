@@ -18,14 +18,23 @@
 
 **[Rogers STEM Scholarship:]()** {dynamic content} 
 
-**[Attend with Certificate of Eligibility (COE) only, or COE and additional criteria:]()** { dynamic content based on Compliance Template:  COE only, COE plus additional criteria, No } 
+**[Protection against late VA payments:]()** { dynamic messages displayed based on Compliance Template:  Yes, with Certificate of Eligibility (COE); Yes, with Certificate of Eligibility (COE) and additional criteria; No } 
 
+{ *103 Modal* } 
 
+### Protection against late VA payments
 
-{ *103 Modal content* }
+If VA payments to institutions are delayed, schools receiving GI Bill benefits must allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility on file.  
 
-Under what circumstances does this school allow Post-9/11 GI Bill, Montgomery GI Bill, and Fry Scholarship beneficiaries to attend or participate in classes while awaiting payment from us? 
+Schools may require proof of GI Bill eligibility in the form of:  
 
-Schools that receive GI BIll benefits must allow beneficiaries to attend classes with a Certificate of Eligibility (COE) or, in some cases, a COE and additional information, if we are late with their payment. 
+* Certificate of Eligibility (COE) **or**
+* Certificate of Eligibility (COE) and additional criteria  
 
-Contact this institution's school certifying official to learn more about this school's policy. 
+**Schools can't impose late fees, deny access to facilities or classes, or otherwise penalize beneficiaries if VA is late with tuition and/or fees payments.** The restriction on penalties doesn't apply if the beneficiary owes additional fees to the school beyond the tuition and fees that VA pays. Students are protected up to 90 days from the beginning of the term from these penalties.  
+
+Contact this institution's school certifying official to learn more about their policy or [learn more about the Transition Act](https://benefits.va.gov/gibill/fgib/transition_act.asp).
+
+{ *End 103 Modal* } 
+
+ 
