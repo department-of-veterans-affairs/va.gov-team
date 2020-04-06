@@ -1,10 +1,11 @@
-Rates and Tables
+## Product Outline
 
 Situation
 * Rates help Veterans understand payment changes. They might also use for tax purposes.
 * We link to historic rates. It’s not a requirement and not sure why it’s necessary. Decided to keep 3 years worth of rates data (to coincide with requirements to keep tax data for 3 years)
     * For certain legacy years, we link to a legacy page on benefits.va.gov. These pages are not overridden and so we link out to these pages.
     * More recent legacy years, however, begin and end on VA.gov. And we overwrite legacy pages with new rate information so there is NO canonical legacy page
+    
 
 Draft Product Outline 
 
