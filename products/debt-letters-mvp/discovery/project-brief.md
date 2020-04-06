@@ -9,8 +9,13 @@ _To be filled out with a VA.gov lead prior to starting discovery work._
 Debt Letters MVP
 
 ### Problem Statement / How Might We statements
-- How might we make it simpler for Veterans to view, interpret, and pay their debts to the VA? _(Might be too broad?)_
+MVP:
 - How might we better inform Veterans of their debts to the VA? 
+- How might we make it simpler for Veterans to **view** their debts to the VA?
+
+Vision:
+- How might we better inform Veterans of their debts to the VA? 
+- How might we make it simpler for Veterans to **view, interpret, and pay** their debts to the VA?
 
 ### What Sprint Teams Are Associated with this Discovery? 
 * Benefits and Memorials 2
@@ -63,9 +68,9 @@ _To be filled out by Discovery Sprint Team._
     * 101 - Informs the Veteran of the debt and automatic 12-month repayment plan.
     * _Note: Veterans are able to negotiate different payment plans with the DMC if need be._
   * If a Veteran does not have a benefit to offset (Inactive Debtor), three letters will be sent ot the Veteran:
-    * 100 - 
-    * 117 - 
-    * 123 - 
+    * 100 - Informs the Veteran of the debt and repayment information
+    * 117 - 30 days after, a reminder 
+    * 123 - 30 days after, an overview of the next steps of the debt (i.e. being sent to Treasury, credit bureaus)
   * If a Veteran's debt increases, they recieve another letter (130)
 * The DMC tries to recoup the debt for 120 days before:
   * The debt must be reported to credit bureaus, causing a credit score decrease for the Veteran
@@ -77,9 +82,11 @@ _To be filled out by Discovery Sprint Team._
 * Should we be taking into account letters sent prior to DMC's?
 * Where are all of the payments happening?
 * Can these letters be delivered as HTML pages instead of PDFs?
+* How much letter history are we going to show?
 
 ##### Technical Side:
 * Can letters be categorized and put into the correct sequence?
+* Does PDF preview exist?
 
 ##### Veteran Side:
 * Why do Veterans seek out historical letters online?
@@ -93,28 +100,35 @@ _To be filled out by Discovery Sprint Team._
 * Do Veterans want or need to see actual PDF letters in order to achieve their goals?
 
 #### How are we going to find out answers?
+Now:
 * In-depth key stakeholder interviews
 * Call center interviews
-* User interviews
+
+Later:
+* Interviews at the beginning of each usability session
 
 #### What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Any Veteran who has incurred a debt with the VA
 
 #### Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+**Now:**
 * Stakeholders (list TBD)
 * Call center folks who deal with debt
+
+**Later:**
 * Veterans who have debts with the VA (a mixture of inactive and active debtors)
 
 #### What secondary research should we do (google, facebook, internal documents)?
-* Review letters issued
+* [Review letters issued](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery/letter-samples)
 * Review reports about debt over time
 * Review any available call center records surrounding debt letters
 
 #### Are there any intentional project constraints (things we're intentionally deeming out of scope)?
 * Letters and processes that come before DMC intervention (?)
+* Letters outside of the 5 standard templates (?)
 
 #### Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
-* COVID-19 may impact scheduling with stakeholders and Veterans difficult.
+* COVID-19 may impact scheduling with stakeholders, call center employees, and Veterans difficult.
 * Complicated backend subtleties revealed over time may impact potential design directions.
 
 
@@ -123,10 +137,10 @@ See also: [sample discovery sprint schedule](https://github.com/department-of-ve
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
-  * Discovery Prep:
-  * Discovery (ideally 1-2 weeks):
-  * User Research:
-  * Complete & Readout:
+  * Discovery Prep: Sprint 20 (4/8/20 - 4/14/20)
+  * Discovery (ideally 1-2 weeks): Sprint 21 (4/15/20 - 4/28/20)
+  * User Research: Sprint 2
+  * Complete & Readout: 
 
 ## Upon Completion
 _To be filled out by the sprint team._
