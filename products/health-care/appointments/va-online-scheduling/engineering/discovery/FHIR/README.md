@@ -74,6 +74,7 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 
 #### Clinics
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/clinics.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7515)
 - Status: Blocked by questions
 
 #### Time Slots (both request and self schedule)
