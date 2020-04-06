@@ -48,7 +48,7 @@
 # Executive Summary
 
 ## User Problem Statement
-As a Veteran, I want to find, and apply for, as many benefits available to me so that I can leverage more of the VA's resources.
+eBenefits, in its current legacy state, is no longer the best version of what can be provided to Veterans, their dependents and caregivers, so that they can quickly and easily apply and obtain the benefits they deserve.
 
 ## Solution Goals
 Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.  As such, eBenfits will be sunsetted.
