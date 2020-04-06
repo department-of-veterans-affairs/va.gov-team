@@ -1,4 +1,4 @@
-# Apply for Chapter 36 Benefits (VRE Education and Career Counseling)
+# Apply for Education and Career Benefits (Chapter 36)
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
@@ -34,7 +34,7 @@
 
 ## Abstract
 
-Veterans and related claimants can apply for "Chapter 36" benefits, or Education and Career Counseling benefits, through the TED (Transition and Economic Development) office. This is a very simple application for which we should attempt to prefill all possible fields.
+Veterans and related claimants can apply for "Chapter 36" benefits, or Education and Career Counseling benefits, through the TED (Transition and Economic Development) Office. This is a very simple application for which we should attempt to prefill all possible fields.
 
 ## User Problem Statement
 
