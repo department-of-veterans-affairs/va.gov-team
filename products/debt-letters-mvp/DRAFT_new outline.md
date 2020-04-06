@@ -26,16 +26,16 @@ We will give Veterans who have incurred a debt with the VA a place on VA.gov tha
 Communications about debt, which are delivered principally through the paper mail service, are sporadic, and untimely, and often times go unread due to a variety of reasons (misplaced, didn’t open, etc.). This makes keeping track of and resolving debt difficult, time-consuming, and stressful for Veterans.
 
 ## How Might We
-- make the process of debt management and communication more clear and friendly to Veterans?
-- make the receipt of debt communications more timely for Veterans?
-- give every Veteran the information they need to resolve their debt in the most efficient manner possible?
-- alert Veterans to the fact their are new communications from the VA about a debt?
-- help Veterans understand the nature and origin of their debts?
-- ensure digital communications aren't communicating information that is contradictory to paper letters?
+- Make the process of debt management and communication more clear and friendly to Veterans?
+- Make the receipt of debt communications more timely for Veterans?
+- Give every Veteran the information they need to resolve their debt in the most efficient manner possible?
+- Alert Veterans to the fact their are new communications from the VA about a debt?
+- Help Veterans understand the nature and origin of their debts?
+- Ensure digital communications aren't communicating information that is contradictory to paper letters?
  
 ## Desired User Outcomes
 
-- Beyond the general benefits of moving to a digital platform, Veterans would specifically have much more timely access to information about debts which could potentially have a dramatic impact by altering the amounts of expected benefits payments and affecting credit scores among other things. For many Veterans, understanding the origin of a debt, what options exist for resolving it, and being able to know immediately of changes in the status of the debt are the primary Veterans objectives this work will address.
+Beyond the general benefits of moving to a digital platform, Veterans would specifically have much more timely access to information about debts which could potentially have a dramatic impact by altering the amounts of expected benefits payments and affecting credit scores among other things. For many Veterans, understanding the origin of a debt, what options exist for resolving it, and being able to know immediately of changes in the status of the debt are the primary Veterans objectives this work will address.
 
 With this feature implemented, Veterans will be able to visit a single location that will act as the hub for debt management at the VA. From this place they will be able to get general information about how to verify debt obligations, understand the options for debt resolution, and get access to other relevant content and information aimed at making the debt management process more transparent and clear to Veterans.
 
@@ -52,7 +52,7 @@ All of this combined, centralizing/improving content about VA debt management, p
 - To modernize and improve the Veteran experience as it relates to debt management and communication
 
 ## Assumptions
-#### - We will be able to figure out a way around the fact that the letters are stored in the eFolder only as PDF documents given that we don't *want* to just throw a PDF up on the website
+- #### We will be able to figure out a way around the fact that the letters are stored in the eFolder only as PDF documents given that we don't *want* to just throw a PDF up on the website
 - We will be able to access and parse the letter types we care about from the repository they are stored in, which is the VBMS eFolder
 - We will be able to work with the VBMS team *efficiently* to have them intake and implement our requirements for the "notification" feature
 - Letters stored in the eFolder will be consistently formatted and named
