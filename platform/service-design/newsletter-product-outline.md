@@ -71,8 +71,9 @@ We will track and analyze how our audience interacts with the MVP newsletter (us
 ## KPIs
 
 - % of recipients who open the email
-- click through rate
+- click through rates for links in the newsletter
 - Newsletter Helpfulness rating - scale from 1 to 5
+- Increase in customer NPS
 
 ------
 
