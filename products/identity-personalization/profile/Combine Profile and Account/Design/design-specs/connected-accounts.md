@@ -15,14 +15,12 @@ This section of the profile will show users the following:
 4. How to disconnet apps
 
 
-## Connected Accounts: Desktop
+## Connected Accounts: Desktop - "Learn About"
 ### Design
 
-[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216937_DD_1)
+[Most up-to-date version on InVision](TBD)
 
-- **Tressa** will need to provide design specs since read-only view styling is new.
-
-![Connected Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
+![Connected-apps-learn-about](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-learn-about.png)
 
 ### Design Specs
 
@@ -30,17 +28,59 @@ This section of the profile will show users the following:
 Notes
 
 
-## Connected Accounts: Desktop
+## Connected Accounts: Desktop - "Connected Apps - Connected"
 ### Design
 
-[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A#/410216937_DD_1)
+[Most up-to-date version on InVision](TBD)
 
-- **Tressa** will need to provide design specs since read-only view styling is new.
 
-![Connected Accounts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
+![connected-apps-connected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-connected.jpghttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/direct-deposit/Direct%20deposit.jpg)
 
 ### Design Specs
 
 ### Copy
 Notes
+
+
+## Connected Accounts: Desktop - "Connected Apps - Disconnected"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![connected-apps-disconnected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-disconnected.png)
+
+### Design Specs
+
+### Copy
+Notes
+
+## Connected Accounts: Desktop - "Connected Apps - No App"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![connected-apps-no-app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-no-app.jpg)
+
+### Design Specs
+
+### Copy
+Notes
+
+
+## Connected Accounts: Desktop - "Connected Apps - modal"
+### Design
+
+[Most up-to-date version on InVision](TBD)
+
+
+![connected-apps-modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-modal.png)
+
+### Design Specs
+
+### Copy
+Notes
+
+
 
