@@ -21,20 +21,21 @@ The epic tracking the individual components is accessible [here](https://github.
 
 We know the following resources will be available:
 
-- Appointment
-  - Represents an appointment or a request (a pending appointment)
-- HealthcareService
-  - This is possibly a VistA clinic or type of care
-- Location
-  - VA facility, Video appointment location, or CC provider
 - Organization
   - VistA system (3 digit code)
-- Patient
-  - The current user
+- Location
+  - VA facility, Video appointment location, or CC provider
+- HealthcareService
+  - This is possibly a VistA clinic or type of care
 - Schedule
   - Collects available slots for a chosen health care service or practioner. No clear var-resources equivalent
 - Slot
   - Appointment slot that can be booked into.
+- Appointment
+  - Represents an appointment or a request (a pending appointment)
+- Patient
+  - The current user
+
 
 ## Rails API related discovery
 
