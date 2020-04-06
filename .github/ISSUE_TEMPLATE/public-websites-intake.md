@@ -13,9 +13,10 @@ assignees: lunascoop
 - Support for redirects that have **first been vetted by the VSP IA team**
 - Engineering support for implementation of REACT sign in widgets
 
-## Instructions
-* Submit this request when VSA Public Website team intervention is required
-* Provide detailed information of your request to help us understand our role in completing your request 
+## Steps to complete intake request
+- [ ] Submit this request when VSA Public Website team intervention is required
+- [ ] Provide detailed information of your request to help us understand our role in completing your request 
+- [ ] Link to this issue in #vsa-public-websites in Slack, tag @Selina Cooper 
 
 __When to submit a request__
 
@@ -95,7 +96,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 #### Acceptance Criteria
 - [ ] Convert this request into a Zenhub epic
-- [ ] follow-up with requestor to address any lingering questions/concerns
+- [ ] Follow-up with requestor to address any lingering questions/concerns
 - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
 #### Definition of Done
