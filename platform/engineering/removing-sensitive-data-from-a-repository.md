@@ -7,6 +7,7 @@ _Last updated Q1 2020 by VSP Content & IA team_
    - Add the following information to the [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
      - Origin
        - Initial commit date
+       - Nature of sensitive info
        - Author
        - Initial commit SHA (SHA of commit where sensitive info was first introduced to repo)
        - Initial commit branch (`master` or something else)
