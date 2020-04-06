@@ -4,8 +4,8 @@
 - Slack channel: #vsa-ebenefits
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
-- va.gov link: https://www.va.gov/careers-employment/education-and-career-counseling/
-
+- VA.gov link (unauth landing page): https://www.va.gov/careers-employment/education-and-career-counseling/
+- VA.gov link (tool page): TBD
 ## WIP
 
 ### Table of Contents
@@ -38,7 +38,7 @@ Veterans and related claimants can apply for "Chapter 36" benefits, or Education
 
 ## User Problem Statement
 
-eBenefits is broken.
+eBenefits, in its current legacy state, is no longer the best version of what can be provided to Veterans, their dependents and caregivers, so that they can quickly and easily apply and obtain the benefits they deserve.
 
 ## Solution Goals
 
@@ -88,20 +88,16 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 - TBD
 
 ## Team
-
 - VA Executive Sponsor `*`:
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
-- Product Manager `*`: 
-- Design Lead: 
-- Eng Lead:
-- VA Web Comms Partner:
-- VA Contact Center Partner(s):
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
-
-
+- DEPO Product Lead: **Steve Kovacs** - steven.kovacs@va.gov  
+- Product Manager: **Jason Wolf** - jwolf@governmentcio.com
+- Designer: **James Adams** - jadams@governmentcio.com
+- Frontend: **Jesse Cohn** - jesse.cohn@adhocteam.us
+- Frontend: **Micah Chiang** - micah@adhocteam.us
+- Backend: **Kathleen Crawford** - kcrawford@governmentcio.com
+- Backend: **Derek Dyer** - ddyer@governmentcio.com
 
 `*` = approval required for launch
 
