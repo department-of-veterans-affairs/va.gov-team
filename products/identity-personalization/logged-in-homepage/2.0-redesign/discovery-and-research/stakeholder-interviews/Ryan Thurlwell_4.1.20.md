@@ -6,7 +6,7 @@ I am one of the oddballs on our DEPO team that has no very-strict role. I’m a 
 
 There are kind of two main funnels for how work exists at the VA — the one funnel is the VA business needs. They come to us with a solution, and we usually say “let’s figure out what the actual problem is.” The other part of the work is work that we — DEPO — where we kind of… so VA.gov — maybe 2 years ago at this point — that was a different website, and one day everyone agreed (to make it a new website).
 
-(Talking about how Ryan, Jen, Andy worked together) Together as a a design team, would spin up a V001 — here is kind of a first draft that captures a vision so everyone can look at the same artifact and say “this is where we’re headed” and then iterate on that thing. So “Pittsburgh” spun up that way. It kind of just put everything in motion
+(Talking about how Ryan, Jen, Andy worked together) Together as a design team, would spin up a V001 — here is kind of a first draft that captures a vision so everyone can look at the same artifact and say “this is where we’re headed” and then iterate on that thing. So “Pittsburgh” spun up that way. It kind of just put everything in motion
 
 ### How long have you been in this role?
 
@@ -31,6 +31,10 @@ VAOS is a good example — it was a tool you had to sign into separately. It’s
 [Back to the homepage] So for a signed in user, we know you’re enrolled in this and not enrolled in this.
 
 ### How would an update to the logged in homepage experience impact your work?
+It would impact my work in the sense that I would love to design it.  (Talked about how chaotic things are with so many teams, but feels things will get more organized as they move forward).  Our main goal is to enable folks like you [contractos] to do the things that you do.  I would imagine the authenticated experience would come from DEPO as a collective. We'll figure that out as we go. 
+
+### Kevin Hoffman brought up the the design system and how it leans very much toward the unauthenticated experience. I know you work on the design system; what impacts do you see to your work in that regard?  (need to review recording)
+How do we make this the first thing that we do? How do we make the components available early so people can start using them and we can learn from them?
 
 ### What are your goals for a new logged in homepage experience?
 
