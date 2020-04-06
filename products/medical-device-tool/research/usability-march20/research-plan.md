@@ -95,8 +95,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/conversation-guide.md)
 
-- Notes & Recordings
-*Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
+- [Notes & Recordings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/usability-march20/notes)
 
 - Synthesis
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 
