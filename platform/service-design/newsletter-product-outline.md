@@ -58,10 +58,13 @@ For the MVP, we plan to build and publish the initial edition of an email newsle
 To build the MVP, we need to set up a process for content creation, packaging, and distribution.
 
 1. Creation: For each feature or service described in the newsletter, the VSP PM(s) responsible for it will write a product guide using a template.  The newsletter will have a 2-3 sentence description taken from the product guide with links to the entire guide as well as other user-facing documentation.
-2. Packaging: The content of the newsletter MVP will be assembled by the Service Design team, reviewed by the Content team, and approved by Leadership.
+2. Packaging: The content of the newsletter MVP will be assembled by the Service Design team with input from other VSP designers, reviewed by the Content team, and approved by Leadership.
 3. Distribution: We will use an email marketing tool like Mailchimp to distribute the newsletter.  Using the tool, we will create a web page for VFS team members and stakeholders to subscribe to the newsletter.
 
-For the MVP, we will not include platform release notes as these will be communicated by other means.
+For the MVP, we will include links to following types of documentation (as applicable) for readers to learn more about the udpates featured in the newsletter:
+- Product guide 
+- Developer guide
+- Release notes
 
 We will track and analyze how our audience interacts with the MVP newsletter (using Mailchimp or alternative tools) to determine next steps for evolving our approach in subsequent phases.
 
