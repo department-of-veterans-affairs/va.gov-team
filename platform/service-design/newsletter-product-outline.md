@@ -49,7 +49,7 @@ The risk from not addressing this problem is VSP will have an incomplete custome
 - Sending a periodic email to VFS team members communicating platform improvements with links to relevant documentation will make it easier for them to refer back to information on platform features, services, and processes  as they are building on the platform. [Most Risky]
 - Customers will not find an email communcation from VSP to be a burden.
 - We need a tool outside of Gmail and Outlook for analytics.
-- Mailchipm email will not be blocked or go to customers' spam folder.
+- Mailchimp email will not be blocked or go to customers' spam folder.
 
 ## Solution Approach
 
