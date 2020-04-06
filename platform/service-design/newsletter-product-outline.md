@@ -22,10 +22,10 @@ The risk from not addressing this problem is VSP will have an incomplete custome
 
 ## Desired User Outcomes
 
-- Customers are less fustrated about platform update communications.
+- Customers are less frustrated about platform update communications.
 - Customers are aware of platform updates. 
 - Customers understand how platform updates benefit them.
-- Customers feel the plaform and the platform community is valuable
+- Customers feel the platform and the platform community is valuable
 
 ## Undesired User Outcomes
 
