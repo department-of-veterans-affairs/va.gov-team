@@ -4,6 +4,28 @@ _Last updated Q1 2020 by VSP Content & IA team_
 
 1. Back up repo
 1. Identify all file(s) to be removed
+   - Add the following information to the [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
+     - Origin
+       - Initial commit date
+       - Author
+       - Initial commit SHA (SHA of commit where sensitive info was first introduced to repo)
+       - Initial commit branch (`master` or something else)
+       - Merge date (if applicable)
+       - Merge commit SHA (SHA of commit where sensitive info was merged, if applicable)
+       - PR url (if applicable)
+     - Identification
+       - When
+       - Who
+     - Migration
+       - When
+       - Who
+       - Where
+       - New filename
+       - SHA of commit where sensitive info was migrated
+     - Deletion
+       - When
+       - Who
+       - SHA of commit where sensitive info was deleted
 1. Fetch everything from remote
 1. Notify people about the upcoming purge and freezing of `master`
 1. Freeze `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
