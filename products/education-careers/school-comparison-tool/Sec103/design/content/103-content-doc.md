@@ -27,7 +27,6 @@
 If VA payments to institutions are delayed, schools receiving GI Bill benefits must allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility on file.  
 
 Schools may require proof of GI Bill eligibility in the form of:  
-
 * Certificate of Eligibility (COE) **or**
 * Certificate of Eligibility (COE) and additional criteria  
 
