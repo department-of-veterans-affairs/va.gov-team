@@ -45,11 +45,12 @@ Additionally, we want the staging environment to be as close as possible to how 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
     - **We would like to interview 8-10 Veterans who order hearing aid batteries through the VA.**<br>
-    - **Note: Participants _must_ be comfortable providing at least 1 of the following identifiers: Last four numbers of SSN or Date of Birth. This information will be sent to the DLC so each participant's order data can be populated in testing accounts prior to each session. No PII will be displayed.**
+    - **Note: Participants _must_ be comfortable providing at least 1 of the following identifiers: Last four numbers of SSN or Date of Birth. This information, in addition to their full name, will be sent to the DLC so each participant's order data can be populated in testing accounts prior to each session. No PII will be displayed in the testing accounts.**
       - In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
       - At least 5 pre-9/11 Veterans
       - At least 5 post-9/11 Veterans
       - Include a mix of Veterans with a disability rating of 80% or higher
+      - Include a mix of male and female Veterans
       - If possible, 1-2 Veterans who have a cochlear implant
 
 2.	What is your recruitment strategy? <br>
@@ -67,7 +68,7 @@ Additionally, we want the staging environment to be as close as possible to how 
 Non-clickable mockups can be found here: https://vsateams.invisionapp.com/share/6MVTG94WNH5 
 
 3. Length of Sessions: How long do you estimate each session will be? <br>
-**30m-45m**
+**45m-1hr**
 
 4. Availability: If applicable, when would you like sessions scheduled? 
     - April 15, 9:30 am - 3:30 pm EST
