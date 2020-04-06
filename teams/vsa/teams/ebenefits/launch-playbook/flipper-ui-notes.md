@@ -1,4 +1,7 @@
 # Flipper Notes
+**Objectives:**  
+1. Allow for a controllable perventage be guided into the new application
+2. Allow for a known list of email addresses to be allowed through into the new application
 ## Background
 ### When releasing to production in chunks, do we use Flipper UI or implimentation switches?
 
