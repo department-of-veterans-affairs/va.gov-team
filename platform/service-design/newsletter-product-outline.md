@@ -43,10 +43,6 @@ The risk from not addressing this problem is VSP will have an incomplete custome
 - Email communictions are not noticed by customers.
 - VSP is unable to handle questions pursuant to newsletter releases.
 
-## Risks
-
-
-
 ## Assumptions
 
 - Creating a new communication channel (beyond Slack and Team of Teams) to share platform annoucements will increase  VFS team members' awareness of improvements to platform features, services, and processes.
