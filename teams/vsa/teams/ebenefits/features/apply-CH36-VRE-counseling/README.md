@@ -107,8 +107,8 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 
 ## Resources and Documentation
 
-- Discovery
-- [Research and Design](research-design/README.md)
+- [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/discovery)
+- [Research and Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling/research-design)
 
 ## NOTES
 
