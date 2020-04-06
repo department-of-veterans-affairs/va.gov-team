@@ -1,6 +1,6 @@
 # Flipper Notes
 **Objectives:**  
-1. Allow for a controllable perventage be guided into the new application from a Drupal page (un/auth page)
+1. Allow for a controllable percentage be guided into the new application from a Drupal page (un/auth page)
 2. Allow for a known list of email addresses to be allowed through into the new application from a Drupal page (un/auth page)
 ## Background
 ### When releasing to production in chunks, do we use Flipper UI or implimentation switches?
