@@ -6,9 +6,7 @@ Situation
     * For certain legacy years, we link to a legacy page on benefits.va.gov. These pages are not overridden and so we link out to these pages.
     * More recent legacy years, however, begin and end on VA.gov. And we overwrite legacy pages with new rate information so there is NO canonical legacy page
 * Tier 1 content, which includes rates, is maintained by Public Websites
-    
 
-Draft Product Outline 
 
 Current state
 * Right now we get an email from a stakeholder who tells us the rates have been updated with new numbers 
@@ -24,7 +22,7 @@ Questions
 * How we provide Veterans and others access to rates information that's helpful?
 
 Assumptions 
-* Veterans and others actually need legacy rates
+* We need to maintain legacy rate information
 * There's no SEO impact of saving legacy pages [like benefits.va.gov does]
 
 Solution Hypotheses
