@@ -1,4 +1,4 @@
-# Education & Career Counseling user flows
+# Education & Career Counseling Inbound User Flows
 **VSA eBenefits Team | March 2020**
 
 `James Adams, designer`
