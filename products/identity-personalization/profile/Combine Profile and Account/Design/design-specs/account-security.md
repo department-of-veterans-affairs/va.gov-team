@@ -26,9 +26,6 @@ This section will show the following:
 
 ![Account Security - Identity Verified](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%20Identity%20Verified.jpg)
 
-**Table Specs**
-
-![table-specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/table-specs.jpg)
 
 ### Copy
 
