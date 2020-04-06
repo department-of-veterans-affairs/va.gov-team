@@ -73,6 +73,9 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 - Status: Blocked by questions
 
 #### Clinics
+- [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/clinics.md)
+- Status: Blocked by questions
+
 #### Time Slots (both request and self schedule)
 #### Appointment Request Submission
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointment_request.md)
