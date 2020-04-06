@@ -10,21 +10,21 @@ Begin at the [Yellow Ribbon benefit page](https://staging.va.gov/education/about
 
 Begin at the [Yellow Ribbon tool landing page](https://staging.va.gov/education/yellow-ribbon-participating-schools/)
 
-- [ ] Review text above search fields. Have we accurately captured program information?
-- [ ] Review/click link to historical rate information. Does this meet requirements?
+- [ ] Review the intro and instructional text. Does anything look factually inaccurate?
+- [ ] Review/click link to historical rate information. Does this meet Veteran student requirements for accessing prior academic year information?
 
 ### Search results
 
-Search for schools by the various criteria below. 
+Search for a Yellow Ribbon participating school by the various criteria below. 
 
 Is the tool returning the expected number of results?
 
-Does the information presented for each school feel accurate based on your knowledge of the data?
+Does the information presented for each school match what we currently provide on the existing school tabels? Do the results feel accurate based on your knowledge of the data?
 
 - [ ] Only by school name
 - [ ] Only by state or territory
 - [ ] Only by city
-- [ ] Only by schools that fund all tuition and fees not covered by GI Bill (unlimited)
+- [ ] Only by schools that fund all tuition and fees not covered by GI Bill ('unlimited/99,999' value)
 - [ ] Only by schools that provide funding to all eligible students (unlimited)
 - [ ] By city and state together
 - [ ] By city, state, and school name
