@@ -59,7 +59,7 @@ Additionally, we want the staging environment to be as close as possible to how 
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? <br>
-**April 15, 2020 - April 20, 2020**, research plan / conversation guide submitted to Lauren Alexanderson by (TBD).
+**April 15, 2020 - April 20, 2020**, research plan / conversation guide submitted to Lauren Alexanderson by April 6, 2020.
 
 
 2.	Prepare: When will the thing you are testing be ready? <br> 
