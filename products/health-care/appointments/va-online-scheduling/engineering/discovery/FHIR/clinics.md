@@ -3,7 +3,7 @@ Status:
 
 ## Services
 ### Current services used
-- vaos/systems/{system_id}/clinic_institutions
+- vaos/facilities/{facilityId}/clinics
 
 ### Equivalent FHIR resource
 - http://hl7.org/fhir/organization.html
@@ -11,12 +11,16 @@ Status:
 ## Data
 ### Data to FHIR model mapping
 - Data for each child facility:
-  - Id (Organization.identifier)
-  - Friendly name (Organization.name)
-  - City (Organization.address[].city)
-  - State (Organization.address[].state)
-  - zipcode (Organization.address[].postalCode)
-  - Main phone (Organization.telcom[].value
+  - siteCode (Unknown)
+  - clinicId (Organization.identifier)
+  - clinicName (Organization.name)
+  - clinicFriendlyLocationName (Unknown)
+  - primaryStopCode (Unknown)
+  - secondaryStopCode (Unknown)
+  - directSchedulingFlag (Unknown)
+  - displayToPatientFlag (Unknown)
+  - institutionName ((Organization.name)
+  - institutionCode (Unknown)
 
 **NOTE:**
 See documention on FHIR search http://hl7.org/fhir/search.html
@@ -29,9 +33,23 @@ GET [base]/Organization/?partof={parent organization id}
 N/A
 
 ## Missing/incomplete data list
-N/A
+- siteCode
+- clinicFriendlyLocationName
+- primaryStopCode
+- secondaryStopCode
+- directSchedulingFlag
+- displayToPatientFlag
+- institutionName
+- institutionCode
 
 ## Differences in scope of data returned
 N/A
 
 ## Outstanding questions
+- Can the type "CodeableConcept" be used to model
+  - siteCode
+  - primaryStopCode
+  - secondaryStopCode
+  - institutionCode
+- How are flags modeled?
+- Can the Organization.typeOf field be used to retrieve the siteId since Organization is hierarchical?
