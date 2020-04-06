@@ -14,7 +14,7 @@ Publish a periodic email newsletter publicizing platform improvements to ensure 
 
 ## Problem Statement
 
-VSP currrently communicates information to customers about improvements to platform features, services, and processes  largely through Slack.  We have heard from VFS teams that announcements on Slack are often missed or get lost resulting in delay and fustration as they run into avoidable issues or waste time searching for an old Slack message.  We have heard from VSP teams that these communication gaps lead to redudant support requests and a lack of awareness of platform improvements.
+VSP currently communicates information to customers about improvements to platform features, services, and processes  largely through Slack.  We have heard from VFS teams that announcements on Slack are often missed or get lost resulting in delay and frustration as they run into avoidable issues or waste time searching for an old Slack message.  We have heard from VSP teams that these communication gaps lead to redundant support requests and a lack of awareness of platform improvements.
 
 The risk from not addressing this problem is VSP will have an incomplete customer feedback loop where we are releasing improvements to the platform based on customer feedback but they are not aware of what we have done.
 
@@ -40,20 +40,20 @@ The risk from not addressing this problem is VSP will have an incomplete custome
 
 ## Undesired Business Outcomes
 
-- Email communictions are not noticed by customers.
+- Email communications are not noticed by customers.
 - VSP is unable to handle questions pursuant to newsletter releases.
 
 ## Assumptions
 
-- Creating a new communication channel (beyond Slack and Team of Teams) to share platform annoucements will increase  VFS team members' awareness of improvements to platform features, services, and processes.
+- Creating a new communication channel (beyond Slack and Team of Teams) to share platform announcements will increase  VFS team members' awareness of improvements to platform features, services, and processes.
 - Sending a periodic email to VFS team members communicating platform improvements with links to relevant documentation will make it easier for them to refer back to information on platform features, services, and processes  as they are building on the platform. [Most Risky]
-- Customers will not find an email communcation from VSP to be a burden.
+- Customers will not find an email communication from VSP to be a burden.
 - We need a tool outside of Gmail or Outlook for analytics.
 - Mailchimp email will not be blocked or go to customers' spam folder.
 
 ## Solution Approach
 
-For the MVP, we plan to build and publish the initial edition of an email newsletter to VFS teams sharing information on recently released platform improvements.  The purpose of the MVP is to test if a periodic newsletter would be an effective new channel for VSP to communicate platform improvements to VFS teams and stakeholders and as a byproduct of its tone and content dirve engagement, appreciation of the platform's value, and foster a collaborative culture. 
+For the MVP, we plan to build and publish the initial edition of an email newsletter to VFS teams sharing information on recently released platform improvements.  The purpose of the MVP is to test if a periodic newsletter would be an effective new channel for VSP to communicate platform improvements to VFS teams and stakeholders and as a byproduct of its tone and content drive engagement, appreciation of the platform's value, and foster a collaborative culture. 
 
 To build the MVP, we need to set up a process for content creation, packaging, and distribution.
 
@@ -61,7 +61,7 @@ To build the MVP, we need to set up a process for content creation, packaging, a
 2. Packaging: The content of the newsletter MVP will be assembled by the Service Design team with input from other VSP designers, reviewed by the Content team, and approved by Leadership.
 3. Distribution: We will use an email marketing tool like Mailchimp to distribute the newsletter.  Using the tool, we will create a web page for VFS team members and stakeholders to subscribe to the newsletter.
 
-For the MVP, we will include links to following types of documentation (as applicable) for readers to learn more about the udpates featured in the newsletter:
+For the MVP, we will include links to following types of documentation (as applicable) for readers to learn more about the updates featured in the newsletter:
 - Product guide 
 - Developer guide
 - Release notes
@@ -84,7 +84,7 @@ We will track and analyze how our audience interacts with the MVP newsletter (us
 ## Target Launch Date
 
 - Target launch date for the MVP: 4/15
-- Post-launch evaluaton: finish by 4/30
+- Post-launch evaluation: finish by 4/30
 
 ------
 
