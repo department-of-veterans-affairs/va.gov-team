@@ -16,7 +16,7 @@ _Last updated Q1 2020 by VSP Content & IA team_
      - Identification
        - When
        - Who
-     - Migration
+     - Migration (if applicable)
        - When
        - Who
        - Where
