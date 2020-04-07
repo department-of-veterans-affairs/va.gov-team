@@ -27,13 +27,14 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
    - VA facility
    - VA video
    - Mobile GFE video
-- Location (Appointment.participant[Location])
-   - Video link
-   - Clinic
-      - name
-      - facility name
-      - facility address
-      - facility phone number
+- Facility (Appointment.participant[Location])
+- Video link (Appointment.particpant[HealthcareService])
+   - Contained resource
+- Clinic (Appointment.particpant[HealthcareService])
+   - name (HealthcareService.name)
+   - facility name (Location.name)
+   - facility address (Location.address)
+   - facility phone number (Location.telecom)
 - Appointment date and time (Appointment.start, Appointment.end, or Appointment.slot)
    - Timezone of facility
    - Both requested times and confirmed times
@@ -56,7 +57,6 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 
 - Method
 - Status might not tell us if a cancelled appt was a request or booked appt
-- Video locations
 - Community Care locations
 - Cancel reasons
 
