@@ -45,3 +45,6 @@ VSP engineers are mainly concerned with “first seen” and “high volume” a
 
 ## Tagging
 VSP and VFS engineers will be responsible for complying with our current [tagging standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md). A list of existing tags can be found in the Sentry project settings.
+
+## Slack Sentry Reaction Legend
+We currently have a slack emoji reaction legend pinned in the `#vfs-sentry-alerts` channel. This allows developers to acknowledge issues and remove overlap during issue investigation. The legend can be found with the pinned items in `#vfs-sentry-alerts`.
