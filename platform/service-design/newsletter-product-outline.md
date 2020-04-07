@@ -1,4 +1,4 @@
-# Platform Newsletter Product Outline
+# Platform Newsletter Product Outline (draft)
 
 #### Communications
 
