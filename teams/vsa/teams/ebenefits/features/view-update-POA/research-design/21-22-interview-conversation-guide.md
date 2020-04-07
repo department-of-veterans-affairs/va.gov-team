@@ -20,6 +20,12 @@
 - *Check your screen sharing setup*
 - *When the participant is ready, begin the session with the following intro:*
 
+### Project-specific setup
+- Open eBenefits in a tab
+- Sign in as a test user (Rene Lowel)
+- Walk interviewee through Power of Attorney
+- Open Payment History page 
+
 ## Intro - 5 minutes
 My name is Nick, and thank you for joining us today.  Before we go any further, I'd like to make you aware that I have my colleagues on the line who will be observing and taking notes.  Today, we're going to walk through the Power of Attorney form and the Payment History feature on the VA's eBenefits website. 
 
@@ -86,39 +92,49 @@ I am going to share my screen with you. Can you see the eBenefits website on you
 - What are your thoughts on the length of this form? 
 - What method did you use to complete this form (paper vs technology)?
 - Did anyone assist you in filling out this form or were there any areas where you needed assistance filling out this form?
-- If you did require assistance, whom did you contact for help and what actions did that person take to assist you? 
+- If you did require assistance, whom did you contact for help and what actions did that person take to assist you?
 
 ## Payment History - 15 minutes
-We are going to change gears a bit and look at a different eBenefits feature called Payment History. This screen shows a history of payments made by the VA to a Veteran. 
+We are going to change gears a bit and look at a different part of eBenefits. 
 
 - Confirm with the participant that they can see the eBenefits Payment History screen. 
 
 I am going to continue sharing my screen with you. Can you see the eBenefits website on your computer?
 
 #### Accessing Payment History
+- Do you currently recieve payments from the VA?
 - How long have you been getting payments from the VA? ⭐
-- Have you ever used the eBenefits Payment History feature?
-- If you have used this feature, how often are you using the feature?
-- Would you share why you would be using this feature?
-- How often are you looking for a particular payment? ⭐
-  - Why are you looking for a particular payment? 
-- How often are you looking for a period of payments? ⭐
-  - Why are you looking for a period of payments?
-- Do you prefer to check your VA payment on your bank's website or the VA's website?
-- How many banking accounts do you have receiving payments from the VA? What types of accounts are those?
-- Can you walk me through how you would figure out a payment issue from the VA? ⭐
-  - How would you know there is an issue?
-  - What would be the next step to correct the problem?
- - In your opinion, how would you expect to find this feature on the website?
+- Take a look at my screen. What is your impression of what is going on here?
+- Have you ever seen this page before?
+    - If so
+       - How often are you coming to this page?
+       - What are some scenarios in which you might come to this page (e.g. what would you be looking for or trying to access?) 
+       - How often are you looking for a particular payment? 
+            - Why are you looking for a period of payments?
+       - How often are you looking for a range of payments?
+            - Why are you looking for a period of payments?
+        - Do you prefer to check your VA payment on your bank's website or the VA's website?
+        - How many banking accounts do you have? 
+            - What types of accounts are those?
+            - How many do you use to cash your VA payments?
+        - What would you do if you felt like there was an issue with one of the payments you received from the VA? 
+            - How would you know there is an issue?
+            - What would be the next step to correct the problem?
+        - In your opinion, how would you expect to find this feature on the website?
+     - If not
+        - Do you think this page would be useful to you at all?
+            - Why or why not? What might you do on this page that could be helpful to you?
+        - Do you prefer to check your VA payment on your bank's website or the VA's website?
+        - What would you do if you felt like there was an issue with one of the payments you received from the VA?
+            - How would you know there is an issue?
+            - What would be the next step to correct the problem?
 
 #### Table Features and Attributes
 My next set of questions will be centered around the Payment Table features.
 - On average, how many payment items would you like to see displayed for you to complete your most common task(s) in this table?
-- How often are you searching for a date range of payments?
-- How often are you searching for a particular payment?
 - How would you search for a particular payment you're looking for?
     - Sort, filter, text input of fuzzy math, auto-complete suggestions, date range searches
-- Can you please rank the table headers from most import to least important? ⭐
+- Can you please rank the table headers from most import to least important? 
 - Is there anything on the table that we could remove without preventing you from completing your task? 
   - If so, why would that information in particular not be necessary?
 
