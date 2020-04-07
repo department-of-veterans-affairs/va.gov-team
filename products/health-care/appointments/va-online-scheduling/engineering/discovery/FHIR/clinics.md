@@ -6,7 +6,7 @@ Status: Blocked by questions
 - vaos/facilities/{facilityId}/clinics
 
 ### Equivalent FHIR resource
-- http://hl7.org/fhir/organization.html
+- http://hl7.org/fhir/location.html
 
 ## Data
 ### Data to FHIR model mapping
