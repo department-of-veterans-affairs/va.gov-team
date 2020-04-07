@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Section 103
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
@@ -8,37 +8,62 @@ Booz Allen research for Education Services / OIT.
 	
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
-4. Hypothesis: What is your hypothesis for this research? 	
+4. Hypothesis: What is your hypothesis for this research? 
+ - When users find the Section 103 control, the content will effectively communicate the issue of delayed VA payments and its resolution.
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - Remote, moderated usability testing in a demo environment using Zoom. 	
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
+  - Researchers need to test the accessibility of certain aspects of the site.  Additionally, they need to know if users can find the Section 103 control as it is new functionality.
+  
+3.	Where are you planning to do your research? 
+   - Online using Zoom 	
+   
+4.	What will you be testing?
+   - Page, content and accessibility
+   
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+   - Zoom
+   
 ## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+1.	Participant criteria: What are you looking for in a participant?
+ A mix of the following:
+ - GI Bill beneficiaries impacted by VA late payments (specifically from Fall 2018)
+ - Individuals using Post-9/11 or CH31 Active Duty during Fall 2018
+ - Individuals using screen readers (who are using education benefits now or have used them in the last 5 years)
+	
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+ - Recruitment will be performed by Perigean Technologies
+
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
+ - April 21st - 23rd
+ 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
+ - 45 minutes
+ 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+
+ - Tuesday, April 21st from 8 AM - 6 PM
+ - Wednesday, April 22nd from 8 AM - 5 PM
+ - Thursday, April 23rd from 8 AM - 6 PM
+ 
+5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+
+- Monday, April 20th
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
+- Moderator: Amy Knox; 240.547.1733; knox_amy@bah.com
 - Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Participant recruiting & screening: Perigean Technologies
+- Project point of contact: Amy Knox
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
+- Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
+- Observers:	Brian Grubbs brian.grubbs@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla Vannieuker darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	
 - Project Brief: 	
