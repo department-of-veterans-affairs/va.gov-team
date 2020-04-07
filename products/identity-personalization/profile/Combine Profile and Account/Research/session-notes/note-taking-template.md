@@ -6,14 +6,6 @@
 
 ## Intro (5 minutes)
 
-**Moderator:** Hello? Can you hear me? (no response). Hi <name redacted>? Can you hear me? 
-
-**Participant**: Good afternoon. Sorry for the delay. I was having difficulty logging in. 
-
-**Moderator**: Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website. 
-
-
-
 Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile on the VA website.
 
 Before we start, a few things I want to mention:
