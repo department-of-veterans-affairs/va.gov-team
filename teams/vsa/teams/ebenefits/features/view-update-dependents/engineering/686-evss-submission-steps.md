@@ -38,9 +38,9 @@
 | vnp686StudentCreate               | vnpChildStudentCreate       |             |
 | vnp686SchoolCreate                | vnpChildSchoolCreate        |             |
 | vnp686RelationshipCreate          | vnpPtcpntRlnshpCreate       | This service is used to create VONAPP participant relationship information  |
-| vnp686Benefit                     | vnpBnftClaimCreate          |             |
-|                                   | insertBenefitClaim          |             |
-|                                   | vnpBnftClaimUpdate          |             |
+| vnp686Benefit                     | vnpBnftClaimCreate          | This service is used to create VONAPP benefit claims information |
+|                                   | insertBenefitClaim          | Performs a C&P Benefit Claim Establishment |
+|                                   | vnpBnftClaimUpdate          | This service is used to update VONAPP benefit claims information |
 | vnp686Attachment                  |                             |             |
 | vnp686ProcUpdate                  | vnpProcUpdate               | This service is used to update the VONAPP process information |
 | vnp686MapperUpdate                |                             |             |
