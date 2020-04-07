@@ -2,8 +2,12 @@
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+Booz Allen research for Education Services / OIT. 
+
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
+	
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
