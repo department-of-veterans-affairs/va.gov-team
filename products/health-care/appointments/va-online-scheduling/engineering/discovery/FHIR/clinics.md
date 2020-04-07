@@ -1,5 +1,5 @@
-# Clinics (WIP)
-Status: 
+# Clinics
+Status: Blocked by questions
 
 ## Services
 ### Current services used
@@ -12,14 +12,14 @@ Status:
 ### Data to FHIR model mapping
 - Data for each child facility:
   - siteCode (Unknown)
-  - clinicId (Organization.identifier)
-  - clinicName (Organization.name)
+  - clinicId (Location.identifier)
+  - clinicName (Location.name)
   - clinicFriendlyLocationName (Unknown)
   - primaryStopCode (Unknown)
   - secondaryStopCode (Unknown)
   - directSchedulingFlag (Unknown)
   - displayToPatientFlag (Unknown)
-  - institutionName ((Organization.name)
+  - institutionName (Location.name)
   - institutionCode (Unknown)
 
 **NOTE:**
@@ -27,10 +27,7 @@ See documention on FHIR search http://hl7.org/fhir/search.html
 
 **Example URL**
 
-GET [base]/Organization/?partof={parent organization id}
-
-### Start from data inventory
-N/A
+GET [base]/Location/?partof={parent organization id}
 
 ## Missing/incomplete data list
 - siteCode
@@ -46,6 +43,8 @@ N/A
 N/A
 
 ## Outstanding questions
+- What resource do clinics map to?
+  - Location, HealthcareService, Schedule?
 - Can the type "CodeableConcept" be used to model
   - siteCode
   - primaryStopCode
