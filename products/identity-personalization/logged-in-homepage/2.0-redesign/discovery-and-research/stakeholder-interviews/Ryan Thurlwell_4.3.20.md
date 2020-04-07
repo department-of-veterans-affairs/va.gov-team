@@ -1,18 +1,18 @@
-# Stakeholder interview with Ryan Thurlwell
-
 ## Interview 2 - 4.3.2020
 
 ### Any additional thoughts since our last meeting?
 
-I think we left off talking about service design.  All the touchpoints - that's where you lose the most trust. Talks about the need for consistency across branding, consistency, and touch points to establish trust. (Goes on to talk about variety of emails sent out by VA, lack of consistent branding, etc)
+I think we left off talking about service design.  All the touch points - that's where you lose the most trust. (Talks about the need for consistency across branding, consistency, and touch points to establish trust. Gives examples of variety of emails sent out by VA, lack of consistent branding, etc)
 
 ### How would an update to the logged in homepage experience impact your work?
 
-It would impact my work in the sense that I would love to design it.  (Talked about how chaotic things are with so many teams, but feels things will get more organized as they move forward).  Our main goal is to enable folks like you [contractorImagines] to do the things that you do.  I would imagine the authenticated experience would come from DEPO as a collective. We'll figure that out as we go. 
+It would impact my work in the sense that I would love to design it.  (Talked about how chaotic things are with so many teams, but feels things will get more organized as they move forward).  
+
+Our main goal is to enable folks like you [contractors] to do the things that you do.  I would imagine the authenticated experience would come from DEPO as a collective. We'll figure that out as we go. 
 
 ### How about impacts to your work/involvement with the design system?
 
-Instead of this being the last thing we think about how do we make this the first thing that we do? How do we make the components useful things that we can put out in the wild sooner so people can start using them and we can learn from them? (Talked about the alert/sign in widget that are part of the identity path) We need to standardize what that means to be signed in. What that looks like to be signed in on a tool page.  
+Instead of this [design system] being the last thing we think about, how do we make this the first thing that we do? How do we make the components useful things that we can put out in the wild sooner so people can start using them and we can learn from them? (Talked about the alert/sign in widget that are part of the identity path) We need to standardize what that means to be signed in. What that looks like to be signed in on a tool page.  
 
 One of Andy's ideas was "how does the healthcare hub change for me if I'm signed in" If you're enrolled we don't need to be asking you if you're eligible.
 
