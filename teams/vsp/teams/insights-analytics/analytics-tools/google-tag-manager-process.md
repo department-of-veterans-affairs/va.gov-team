@@ -2,6 +2,14 @@
 
 *Overview*: This resource outlines suggested processes for the Analytics-Insights team to guide and implement common VFS requests for Modernized products. Implementation requests for MyHealtheVet, eBenefits, and legacy content are noted as well. 
 
+## TLDR - General Acceptance Criteria for VFS Implementation
+- Meet with VFS team to scope dataLayer requirements
+- Develop requirements and send to FE team
+- In parallel, configure Google Tag Manager in new workspace and include issue number(s) in workspace title; add new custom dimension(s) where necessary in non-Production and Production Google Analytics properties
+- Validate once it is ready on staging 
+- Add new Google Analytics goal on non-Production and Production Google Analytics properties and validate
+- Annotate in Google Analytics
+
 ## Helpful Artifacts in Planning Google Tag Manager Implementation:
 - Review the the VFS team's KPI Pre-Workshop Planning and KPI Workshop readouts
 - Read through the user story and acceptance criteria within the _Analytics Implementation and QA_ request issue
