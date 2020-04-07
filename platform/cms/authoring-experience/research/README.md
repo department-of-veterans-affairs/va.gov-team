@@ -1,6 +1,6 @@
 # CMS Support Channels - Monthly Log Analysis
 
-The CMS team will do a monthly log analysis of specific support channels to help inform design decisions and prioritization. The collection process can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/monthly%20log%20analysis)
+The CMS team will do a monthly log analysis of specific support channels to help inform design decisions and prioritization. The collection process can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/monthly%20log%20analysis).
 
 # Content Management System Author Experience (AX)
 
