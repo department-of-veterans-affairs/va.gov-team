@@ -25,10 +25,6 @@ Status: Blocked by questions
 **NOTE:**
 See documention on FHIR search http://hl7.org/fhir/search.html
 
-**Example URL**
-
-GET [base]/Location/?partof={parent organization id}
-
 ## Missing/incomplete data list
 - primaryStopCode
 - secondaryStopCode
