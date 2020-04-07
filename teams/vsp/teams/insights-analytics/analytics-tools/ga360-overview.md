@@ -1,12 +1,31 @@
-# Google Analytics 360
+# Google Analytics and Tag Manager 360
 
 Overview: This resource outlines the Google Analytics properties and Google Tag Manager containers that belong to the Veterans Affairs Google Analytics 360 account. The Analytics & Insights team should have an understanding of this structure. 
 
-## Google Tag Manager Overview
+### Google Analytics 360 Overview
+The Google Analytics 360 license is currently renewed on an annual basis. 
+
+#### VA.gov Account and Active Properties
+- Account: The Google Analytics 360 (GA360) is tied to the Veterans Affairs' Google Analytics 360 license. The Account is the topmost level of settings.
+- Active Properties: There are several Properties actively used by the VSP Analytics & Insights team. These are:
+  -  VA.gov Production Property - Live data for Modernized, MHV, eBenefits, and other VA.gov subdomains/subdirectories
+  -  VA.gov Non-Production Property - Sandbox for non-production environments
+  -  VA.gov CMS Backend - Used to measure internal activity on the VA.gov CMS 
+  -  VSP Table of Contents - Measures activity on the VSP Table of Contents for GitHub
+ 
+- Other properties that collect data but not actively used by VSP Analytics & Insights team:
+  - OPIA - This property existed during Vets.gov. Because of our current configuration in GTM, data is still sent to this property but not actively used.
+  
+- Historical Properties: Vets.gov properties are labeled with a prefix of "HISTORICAL - ". Prior to mid-2017, Vets.gov data for each product suite (e.g. Health Care or Education) was collected in a separate GA property. This was consolidated from mid-2017 to November 2018 in a "Vets.gov - All" property.
+
+#### VA.gov Content not measured within VA.gov Production Property
+A list of subdomains and subdirectories was identified and provided to leadership during the WBC Project in November 2018. The background can be found within [this Vets.gov-team issue.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13922)
+
+### Google Tag Manager 360 Overview
 - Account: The Google Tag Manager 360 (GTM360) is tied to the Veterans Affairs' Google Analytics 360 license. The Account is the topmost level of settings.
 - Containers: A GTM container is a collection of settings--tags, triggers, and variables--that are configured to send data to Google Analytics.
 
-### Veterans Affairs GTM Containers
+#### Veterans Affairs GTM Containers
 The VSP Analytics-Insights team manages four Google Tag Manager containers. These are:
 
 1. VA.gov Modernized Homepage and Tools (GTM-WFJWBD) - This container is deployed across all of the modernized content on VA.gov and was transitioned from Vets.gov. The majority of VFS support issues are deployed in this container.
@@ -14,5 +33,5 @@ The VSP Analytics-Insights team manages four Google Tag Manager containers. Thes
 3. Drupal CMS (GTM-WQ3DLLB) - This container is used on the Drupal CMS to measure usage by internal VA staff and contractors and not on veteran-facing content. This was created in February 2020.
 4. VSP GitHub Table of Contents (GTM-T2ZTDXZ) - This container is used to implement settings for the Platform documentation site.
 
-### Access
+#### Access
 The VSP Analytics-Insights team maintains Publish and Manage Users rights across the account and its containers. Access to VFS teams has been typically on an edit or read-only capacity. 
