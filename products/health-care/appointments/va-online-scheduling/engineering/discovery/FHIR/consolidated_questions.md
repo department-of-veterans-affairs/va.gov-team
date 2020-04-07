@@ -2,11 +2,12 @@
 
 Summarized high priority questions:
 
-- What resources use (or will use) the VATS-configured eligibility criteria?
-- How do HealthcareService and Schedule relate to the current VistA scheduling process?
-   - For both requests and self scheduling
-- How are stop codes used with the VSP FHIR implementation?
-   - Can we search for Locations based on the stop codes they support?
+- Generally, we don't have a good sense of what happens in the Location > HealthcareService > Schedule > Slot part of the flow
+  - What resources use (or will use) the VATS-configured eligibility criteria?
+  - How do HealthcareService and Schedule relate to the current VistA scheduling process?
+     - For both requests and self scheduling
+  - How are stop codes used with the VSP FHIR implementation?
+     - Can we search for Locations based on the stop codes they support?
 - Can we expect `_include` and `_revinclude` support?
    - This enables resource bundling and appears to cover all the UI use cases
 - How are timezones handled?
