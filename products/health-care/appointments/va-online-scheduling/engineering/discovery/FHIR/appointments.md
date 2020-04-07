@@ -65,6 +65,7 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Location data not necessarily included inline
 
 ## Outstanding questions
+- How can we tell if something is a CC or VA appointment?
 - Can we use `_include` to pull in Location references?
 - Do we need to send the whole appointment object to cancel?
 - Canceling requests will take one api call per timeslot?
