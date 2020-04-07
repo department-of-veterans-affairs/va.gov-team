@@ -94,7 +94,7 @@ Easier for y’all — you have regular touch points and access to different tea
 
 Some sort of IA help would be helpful — do things live in the same place in the auth world as the unauth world?
 
-I think every team wants their thing at the top of the page, but this has to serve users first, both from decluttering to how to build it in such a way that it’s responsive to the specific needs of a specific user. So, if someone wants to see their appointments at the top of the dashboard, then… (missed some of this) So figuring out how to make it adaptive (and missed this as well). 
+I think every team wants their thing at the top of the page, but this has to serve users first, both from decluttering to how to build it in such a way that it’s responsive to the specific needs of a specific user. How to keep it useful and decluttered but build it in a way that it can be responsive to a specific user and their specific needs.  So, if someone wants to see their appointments at the top of the dashboard, I want to see what I Have to do eveery day. Or another Veteran doesn't care about Rx and wants to see access to care at the top.  So figuring out how to make it adaptive would be hard, but also cool.
 
 ### What concerns do you have about this project? What do you imagine going wrong?
 
