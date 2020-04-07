@@ -19,6 +19,10 @@ This section of the profile will show users the following:
 
 ![connected-apps-specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/Connected-apps-specs.png)
 
+![connected-apps-modal-specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/connected-apps-modal.jpg)
+
+![Processing update button](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/Processing%20update%20button.jpg)
+
 ## Connected Accounts: Desktop - "Connected Apps - Connected"
 ### Design
 
@@ -61,12 +65,14 @@ This section of the profile will show users the following:
 
 **App Box**
 
+Logo, app name, and bullet points are pulled in from Okta (our OAuth solution maintained by Lighthouse)
+
 - **First section title**: {App Name}
   - **Subtitle**: Connected on February 21, 2020
   - **Button**: Disconnect
   - **Dropdown label**: Learn about Apple HealthKit
    - **Dropdown content title**: {App Name} can view your:
-    - **Dropdown data**: This will be pulled from ... 
+    - **Dropdown data**: Okta (our OAuth solution maintained by Lighthouse) 
 
 **Grey Box**
 
@@ -97,12 +103,14 @@ This section of the profile will show users the following:
   
 **App Box**
 
+Logo, app name, and bullet points are pulled in from Okta (our OAuth solution maintained by Lighthouse)
+
 - **First section title**: {App Name}
   - **Subtitle**: Connected on February 21, 2020
   - **Button**: Disconnect
   - **Dropdown label**: Learn about Apple HealthKit
    - **Dropdown content title**: {App Name} can view your:
-    - **Dropdown data**: This will be pulled from ... 
+    - **Dropdown data**: This will be pulled from Okta (our OAuth solution maintained by Lighthouse)  
 
 **Grey Box**
 
@@ -148,6 +156,20 @@ This section of the profile will show users the following:
   -**Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
   -**Button**: Cancel
   -**Button**: Disconnect
+  
+## Connected Accounts: Desktop - "Connected Apps - modal processing"
+
+### Design
+
+![connected-apps-modal-processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-modal-processing.png)
+
+### Copy
+
+**Modal**
+
+-**Title**: Do you want to disconnect this app?
+  -**Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
+  -**Button**: Processing
 
 
 ## Connected Accounts: MOBILE - "Learn about"
@@ -160,12 +182,14 @@ This section of the profile will show users the following:
 ### Copy
 **App Box**
 
+Logo, app name, and bullet points are pulled in from Okta (our OAuth solution maintained by Lighthouse)
+
 - **First section title**: {App Name}
   - **Subtitle**: Connected on February 21, 2020
   - **Button**: Disconnect
   - **Dropdown label**: Learn about Apple HealthKit
    - **Dropdown content title**: {App Name} can view your:
-    - **Dropdown data**: This will be pulled from ... 
+    - **Dropdown data**: This will be pulled from okta
 
 **Grey Box**
 
@@ -197,12 +221,14 @@ This section of the profile will show users the following:
   
 **App Box**
 
+Logo, app name, and bullet points are pulled in from Okta (our OAuth solution maintained by Lighthouse)
+
 - **First section title**: {App Name}
   - **Subtitle**: Connected on February 21, 2020
   - **Button**: Disconnect
   - **Dropdown label**: Learn about Apple HealthKit
    - **Dropdown content title**: {App Name} can view your:
-    - **Dropdown data**: This will be pulled from ... 
+    - **Dropdown data**: This will be pulled from okta
 
 **Grey Box**
 
