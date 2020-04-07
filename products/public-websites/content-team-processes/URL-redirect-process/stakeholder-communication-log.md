@@ -62,5 +62,74 @@ www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/ge
 https://benefits.va.gov/compensation/current_rates_dic.asp | www.va.gov/disability/survivor-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |   
 https://benefits.va.gov/pension/current_rates_Parents_DIC_pen.asp | www.va.gov/disability/parent-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |  
 https://www.benefits.va.gov/compensation/resources-rates-read-parentsdic.asp | www.va.gov/disability/parent-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 | 
-https://benefits.va.gov/compensation/resources-rates-read-dic.asp | www.va.gov/disability/survivor-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |  
+https://benefits.va.gov/compensation/resources-rates-read-dic.asp | www.va.gov/disability/survivor-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/18/20 |  
+www.benefits.va.gov/homeloans/veteran_borrowers.asp | www.va.gov/housing-assistance/home-loans/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/purchasecashout.asp | www.va.gov/housing-assistance/home-loans/loan-types/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/purchaseco_buy_process.asp | www.va.gov/housing-assistance/home-loans/home-buying-process/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/nadl.asp | www.va.gov/housing-assistance/home-loans/loan-types/native-american-direct-loan/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/irrrl.asp | www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/purchaseco_eligibility.asp | www.va.gov/housing-assistance/home-loans/eligibility/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/HOMELOANS/purchaseco_certificate.asp | www.va.gov/housing-assistance/home-loans/how-to-apply/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/HOMELOANS/resources_payments.asp | www.va.gov/housing-assistance/home-loans/trouble-making-payments/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+www.benefits.va.gov/homeloans/adaptedhousing.asp | www.va.gov/housing-assistance/disability-housing-grants/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 02/25/20 | 
+https://www.benefits.va.gov/homeloans/resources_veteran.asp | www.va.gov/housing-assistance/home-loans/home-buying-process/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 |  
+https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp | www.va.gov/housing-assistance/home-loans/funding-fee-and-closing-costs/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 |
+https://www.benefits.va.gov/homeloans/purchaseco_loan_limits.asp | www.va.gov/housing-assistance/home-loans/loan-limits/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 |
+www.benefits.va.gov/vocrehab/employment_tracks.asp | www.va.gov/careers-employment/vocational-rehabilitation/programs/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/VOCREHAB/independent_living.asp | www.va.gov/careers-employment/vocational-rehabilitation/programs/independent-living/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/vocrehab/eligibility_and_entitlement.asp | www.va.gov/careers-employment/vocational-rehabilitation/eligibility/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/vocrehab/application_roadmap.asp | www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/VOCREHAB/edu_voc_counseling.asp | www.va.gov/careers-employment/education-and-career-counseling/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/vocrehab/employment_tracks.asp | www.va.gov/careers-employment/vocational-rehabilitation/programs/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 | 
+www.benefits.va.gov/gibill/careerscope.asp | www.va.gov/careers-employment/careerscope-skills-assessment/ | Sandy Tadeo, Adrianne Hooten | 03/02/20 |
+https://www.benefits.va.gov/compensation/rates-index.asp | https://www.va.gov/disability/compensation-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 | Reverted on 03/13 due to outdated rates info
+https://www.benefits.va.gov/compensation/resources-rates-read-compAndSMC.asp | https://www.va.gov/disability/compensation-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 |
+https://www.benefits.va.gov/compensation/read_rates.asp | https://www.va.gov/disability/compensation-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 |
+https://www.benefits.va.gov/compensation/resources_comp01.asp | https://www.va.gov/disability/compensation-rates/veteran-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 |
+https://www.benefits.va.gov/compensation/resources_comp02.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 | Reverted on 03/13 due to outdated rates info
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 | Reverted on 03/17 due to outdated rates info
+https://www.benefits.va.gov/compensation/sb2018.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Sandy Tadeo, Adrianne Hooten | 03/10/20 | Reverted on 03/17 due to outdated rates info
+www.benefits.va.gov/gibill/education_programs.asp | www.va.gov/education/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |   
+www.benefits.va.gov/gibill/get_started.asp | www.va.gov/education/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/montgomery_bill.asp | www.va.gov/education/about-gi-bill-benefits/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/coop_training.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/correspondence_training.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/correspondence-training/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/entrepreneurship_training.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/flight_training.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/flight-training/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/accelerated_payments.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/non_college_degree.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/onthejob_apprenticeship.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/independent_distance_learning.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/online-distance-learning/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/foreign_school_information_for_students.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/study-at-foreign-schools/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/licensing_certification.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/national_testing.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/tuition_assistance.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/tutorial_assistance.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/higher_learning.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/undergraduate-graduate-programs/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/workstudy.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/mgib_ad.asp | www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/mgib_sr.asp | www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/post911_gibill.asp | www.va.gov/education/about-gi-bill-benefits/post-9-11/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/choosing_a_school.asp | www.va.gov/education/choosing-a-school/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |   
+www.benefits.va.gov/gibill/school_locator.asp | www.va.gov/education/choosing-a-school/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/school_decision.asp | www.va.gov/education/choosing-a-school/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |   
+www.benefits.va.gov/gibill/principles_of_excellence.asp | www.va.gov/education/choosing-a-school/principles-of-excellence/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/apply.asp | www.va.gov/education/how-to-apply/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/national_call_to_service.asp | www.va.gov/education/other-va-education-benefits/national-call-to-service-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/reap.asp | www.va.gov/education/other-va-education-benefits/reap/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/veap.asp | www.va.gov/education/other-va-education-benefits/veap/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/survivor_dependent_assistance.asp | www.va.gov/education/survivor-dependent-benefits/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/GIBILL/DEA.asp | www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/GIBILL/Fry_scholarship.asp | www.va.gov/education/survivor-dependent-benefits/fry-scholarship/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/post911_transfer.asp | www.va.gov/education/transfer-post-9-11-gi-bill-benefits/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/gibill/fgib/VetTec.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/GIBILL/fgib/VetTec_Veteran.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
+www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |   
+
+
+
+
+
+
+
 
