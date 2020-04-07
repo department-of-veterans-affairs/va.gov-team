@@ -558,8 +558,8 @@ Dev
 
 ### Order of priorities
 
-1. Profile 2.0: Prepare for QA
-2. Profile 2.0: Finish build
+1. Profile 2.0: Content review; IA plan and review
+2. Profile 2.0: Continue build; implement updates from usability testing
 
 Logged in homepage
 
