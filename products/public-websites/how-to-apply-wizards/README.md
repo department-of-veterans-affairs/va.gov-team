@@ -32,8 +32,11 @@ How might we make the Veteran experience of starting online applications more se
 
 ## Assumptions
 - Veterans fill out applications that don't apply to their situations (riskiest)
+  - Source: Contact Center, respective product teams e.g. Disability, Education
 - It's difficult to find "How to Apply" wizards
+  - Source: Google Analytics (bounce, etc.)
 - Benefit content pages are unnecessarily detailed
+  - Source: research studies, Google Analytics (scroll depth, etc.)
 
 <!-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality* -->
 
