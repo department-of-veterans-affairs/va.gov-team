@@ -152,24 +152,24 @@ Logo, app name, and bullet points are pulled in from Okta (our OAuth solution ma
 
 **Modal**
 
--**Title**: Do you want to disconnect this app?
-  -**Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
-  -**Button**: Cancel
-  -**Button**: Disconnect
+- **Title**: Do you want to disconnect this app?
+  - **Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
+  - **Button**: Cancel
+  - **Button**: Disconnect
   
 ## Connected Accounts: Desktop - "Connected Apps - modal processing"
 
 ### Design
 
-![connected-apps-modal-processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-modal-processing.png)
+![connected-apps-modal- processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/connected-apps/connected-apps-modal-%20processing.png)
 
 ### Copy
 
 **Modal**
 
--**Title**: Do you want to disconnect this app?
-  -**Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
-  -**Button**: Processing
+- **Title**: Do you want to disconnect this app?
+  - **Content**: {App Name} won’t have access to new information about you from VA once you disconnect. This may impact the usefulness of the app.
+  - **Button**: Processing
 
 
 ## Connected Accounts: MOBILE - "Learn about"
