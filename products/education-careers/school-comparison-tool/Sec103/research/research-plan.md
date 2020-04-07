@@ -5,8 +5,22 @@ As a designer I need to create a research plan to share with my team.	(This shou
 Booz Allen research for Education Services / OIT. 
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
+
+Chapter 31/33 Veterans and beneficiaries experienced financial difficulties, have gone into debt, and were dropped from classes due to delayed payments by VA to their schools.  In response to this, Section 103 was passed, requiring institutions receiving GI Bill benefits to allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility on file. 
+
+Schools may require proof of GI Bill eligibility in the form of:
+•  Certificate of Eligibility (COE) or
+•  Certificate of Eligibility (COE) and additional criteria
+
+An indicator of Section 103 compliance was added under the Institution Summary section of each school profile within the GIBCT tool along with supporting, contextual content that explains the indicator, its relevance and what it means for the prospective student.  The researchers need to test the effectiveness of the design.
 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
+ - What is the findability of the Section 103 indicator and its associated content?
+ - Do users understand the Section 103 issue and its resolution?
+ - Is the modal an effective way of conveying Section 103 information?
+ - Do users understand and know how to comply with the school's requirements for Section 103 protection?
+ - How usable is the Section 103 functionality for individuals who use screen readers?
+ - What, if any, interest do individuals have in Section 103 / Transition Act?
 
 4. Hypothesis: What is your hypothesis for this research? 
  - When users find the Section 103 control, the content will effectively communicate the issue of delayed VA payments and its resolution.
