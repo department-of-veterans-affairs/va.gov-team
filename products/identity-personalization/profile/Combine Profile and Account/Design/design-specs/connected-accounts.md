@@ -42,8 +42,8 @@ This section of the profile will show users the following:
   
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
@@ -70,12 +70,12 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
-  -**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
-    - **Link title:** Go to Connected Accounts FAQs
-    - **Link data**: This will link to: (forthcoming)
-    - **Link title:** Find apps you can use
-    - **Link data**: This will link to: (forthcoming)
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+  - **Link title:** Go to Connected Accounts FAQs
+   - **Link data**: This will link to: (forthcoming)
+  - **Link title:** Find apps you can use
+   - **Link data**: This will link to: (forthcoming)
    
    
 ## Connected Accounts: Desktop - "Connected Apps - Disconnected"
@@ -106,8 +106,8 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
@@ -127,13 +127,12 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
    - **Link data**: This will link to: (forthcoming)
-
 
 ## Connected Accounts: Desktop - "Connected Apps - modal"
 
@@ -170,8 +169,8 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
@@ -207,8 +206,8 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
@@ -232,8 +231,8 @@ This section of the profile will show users the following:
 
 **Grey Box**
 
--**Title**: Have questions about connecting to VA.gov?
--**Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
+- **Title**: Have questions about connecting to VA.gov?
+- **Content**: Get answers to frequently asked questions about how connected third-party apps work, what types of information they can see, and the benefits of sharing your information.
   - **Link title:** Go to Connected Accounts FAQs
    - **Link data**: This will link to: (forthcoming)
   - **Link title:** Find apps you can use
