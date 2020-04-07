@@ -63,6 +63,12 @@ This is a work in progress. These will be augmented with flow diagrams detailing
 - Status: Blocked by questions
 
 #### Community Care eligibility
+
+- [Discovery Notes](
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/community_care_eligibility.md)
+- [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7512)
+- Status: Blocked by questions
+
 #### Facilities
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/facilities.md)
 - [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7513)
