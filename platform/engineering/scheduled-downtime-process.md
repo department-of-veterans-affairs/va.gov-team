@@ -8,6 +8,8 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 ## Steps to schedule and implement downtime notifications on VA.gov
 
+### Start here: for *all* scheduled downtime
+
 1. Team initiating downtime (VSP or other) documents the exact date and time you anticipate the downtime happening and the systems that will be taken down:
     - Systems affected: system name 1, system name 2, etc.
     - Proposed date and time for staging: DayOfWeek, Month Date, YYYY, from h:mm AM/PM to h:mm AM/PM
@@ -16,7 +18,9 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
  
 1. Communicate planned downtime to the VSP Operation's Product Manager (@ricetj) in order to be added to the downtime schedule (link) and VA's Polaris. Then the DEPO Heads of the Platform (@KevinMHoffmanUSDS and Dror Matalon) should review your addition to the downtime schedule.
 
-### When downtime is expected to last > 10 minutes: 
+1. Proceed to Option A or B below based on the expected duration of downtime
+
+### Option A: When downtime is expected to last > 10 minutes: 
 
 1. Make an announcement at the weekly Team of Teams meeting and notify #vfs-all-teams in Slack at least 1 week in advance
 
@@ -32,7 +36,7 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 1. **For downtime messages that will appear in applications, tools, and on sign-in modules:**
     - Applications, tools, and sign-in modules will show automated notifications when the associated service is unavailable, but no advance or custom messaging will be shown in these locations.
 
-### When downtime is expected to last < 10 minutes: 
+### Option B: When downtime is expected to last < 10 minutes: 
 
 1. Make an announcement in #vfs-all-teams in Slack at least 1 business day in advance. 
 
