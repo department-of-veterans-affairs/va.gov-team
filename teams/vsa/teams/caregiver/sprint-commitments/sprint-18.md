@@ -1,6 +1,7 @@
 ## Front End
 - Read through QA test plan
 - Build feature toggle/form unavailable page
+- Read through accesibility plan
 - Stretch: GA Tags
 
 ## Back End
