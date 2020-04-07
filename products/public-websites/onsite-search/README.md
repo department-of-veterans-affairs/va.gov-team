@@ -6,8 +6,7 @@
 - Slack channel: #Public Websites Team
 - Product POCs: 
    - Jennifer Lee, DSVA (Jennifer.Lee27@va.gov)
-   - Dave Conlon, DEPO (David.Conlon@va.gov)
-   - Kara Kemahli, Ad Hoc (kara@adhocteam.us)
+   - Dave Conlon, DEPO (David.Conlon@va.gov) 
 - Search.gov POC: 
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
 
