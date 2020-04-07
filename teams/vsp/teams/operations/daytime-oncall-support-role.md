@@ -1,6 +1,6 @@
 # Daytime Oncall Support Role
 
-The Operations team can be “interrupted” by unscheduled requests that come in from the VFS or VSP teams, leadership, monitoring, and other teams and stakeholders at the VA. We want to find some ways to reduce the interruptions for individual team members and clarify who is responsible for handling each request by funneling individual tasks through one person. This person will, handle things that can be handled directly and efficiently and delegate things that cannot. Some specific examples of the kind of requests handled by this developer are:
+The Operations team can be “interrupted” by unscheduled requests that come in from the VFS or VSP teams, leadership, monitoring, and other teams and stakeholders at the VA. We want to find some ways to reduce the interruptions for individual team members and clarify who is responsible for handling each request by funneling individual tasks through one person. This person will handle things that can be handled directly and efficiently and delegate things that cannot. Some specific examples of the kind of requests handled by this developer are:
 
 * Normal daytime oncall [responsbilites](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) 
 * Monitoring oncall channel
@@ -38,9 +38,9 @@ During the sprint, you should monitor the following Slack groups for issues:
 * #devops-alerts
 * #oncall (general oncall issues and problems)
 
-As issues come in, the main job is to acknowledge the incoming request, decide on the best person to handle it (maybe you), and followup to make sure the request is completed in a timely manner. It is *100%* ok to assign the request, whatever it is, to someone more suited to the task but the first point of contact should be daytime oncall person. 
+As issues come in, the main job is to acknowledge the incoming request, decide on the best person to handle it (maybe you), and follow up to make sure the request is completed in a timely manner. We try to at least acknowledge requests within about an hour. It is *100%* ok to assign the request, whatever it is, to someone more suited to the task but the first point of contact should be daytime oncall person. 
 
-Unless its an emergency, waiting until standup to discuss assignments for requests will help keep interruptions to a minimum for everyone.
+Unless it's an emergency, waiting until standup to discuss assignments for requests will help keep interruptions to a minimum for everyone.
 
 At the end of the rotation, the developer should unassign themselves from the two Super Epics.
 
@@ -50,10 +50,10 @@ Your Github team notification and #vsp-operations channel can be used to track P
 
 ### Support requests
 
-Create an issue describing the request in GitHub and link it to one of the two super-epics. Assign it to yourself. Track any work done with comments. Only track support that takes more than 15 mins and if it a PR that takes under 15 mins please link to the super epic. If the support work seems to be taking you down a long road, make a note around this and bring to the team to scope out into a project. Unless an emergency doesn't spend more than 2 hours on any given support work. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
+Create an issue describing the request in GitHub and link it to one of the two super-epics. Assign it to yourself. Track any work done with comments. Only track support that takes more than 15 mins and if it is a PR that takes under 15 mins please link to the super epic. If the support work seems to be taking you down a long road, make a note around this and bring to the team to scope out into a project. Unless an emergency doesn't spend more than 2 hours on any given support work. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
 
 ### Working on Postmortem action items
-In Zenhub there is a label entitled "Postmortem Action Item". These are tasked that have been itentifted after an incident's postmotem. The daytime oncall Dev should work of these items If there is no active support work or incident. If there is another dev working on the Postmortem Action Items connect with them to try and see how to help get that work completed. 
+In Zenhub there is a label entitled "Postmortem Action Item". These are tasks that have been identified after an incident's postmortem. The daytime oncall Dev should work on these items If there is no active support work or incident. If there is another dev working on the Postmortem Action Items connect with them to try and see how to help get that work completed. 
 
 ### Supporting and Monitoring Deployments
 If deploys fail and there is no direct owner, take some time to try and find the cause of the failed deploy. If you do decide to look into a failed deployment make sure to start a thread under it and let others know. 
@@ -67,6 +67,12 @@ If there is nothing else to do, here are a few more ideas:
 * Dig into an area of the code you are unfamiliar with
 * Pair with another developer to help move their issue forward
 
+### Tracking 
+
+In order to improve this process we need to track the kinds of things the daytime oncall support person does. So track the tasks you perform while in the role by leaving a comment in the sprint objective issue for that sprint in GitHub.
+
 ### Ongoing review
 
 At the end of each rotation, we’ll work to generate a report and figure out between the PM, tech lead, and both current and next utility developer how to adjust the process to continue to make things as smooth and easy as possible for the entire team while also providing excellent support to each other and teams working on VA.gov.
+
+
