@@ -29,7 +29,7 @@ As far as data mapping, we have three options:
 
 Our current UI architecture looks like this:
 
-
+![FE technical architecture](fe_architecture.png)
 
 And drilling down, the actions layer looks like:
 
