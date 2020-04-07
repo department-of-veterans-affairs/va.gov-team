@@ -1,6 +1,6 @@
 ## PostSubmit686
 
-| EVSS Step                         | BGS Service (If Applicable) | Description |
+| EVSS Step                         | BGS Service (If Applicable) | Description/Notes |
 | --------------------------------- | --------------------------- |-------------|
 | readStep686                       |                             |             |
 | documentSyncInflight              |                             |             |
@@ -21,10 +21,10 @@
 | noOp                              |                             |             |
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
-| email686Message                   |                             |             |
+| email686Message                   |                             | Note: VA.gov does not currently have send email capability |
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
-| messageCenter686                  |                             |             |
+| messageCenter686                  |                             | Puts a notification in the eBenefits notification center - this can probably be skipped as VA.gov does not currently have notifications |
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
 | vnp686AppDelete                   |                             |             |
