@@ -8,10 +8,10 @@ How do we migrate to these new services without replacing them all at once?
 
 ## Dependencies
 
-1. A working service in SQA to test against and get a full understanding of th intended flow
+1. A full understanding of the intended flow and how resources map to VistA concepts
 2. Services will be released in production as they are completed, not all at once in September. If we don't do this, we increase risk for VAOS-R up to September and for both VAOS-R and EAS in September.
 
-## Technical approach
+## Background
 
 The front end needs to be able keep the codebase as consistent as possible when using EAS endpoints or var-resources endpoints. Running a fork or separate branch is not acceptable.
 
@@ -25,22 +25,42 @@ As far as data mapping, we have three options:
 2. Map VAR format to FHIR format
 3. Map both to simplified FHIR format
 
-## Individual strategies
+## Technical approach
 
-Individual strategies should include:
-1. Code layer where feature flag switching would live
-   - API, Redux action, Redux reducer, React component, utilities, etc
-2. Rough steps in the strategy
-3. Complexity estimate
+Our current UI architecture looks like this:
 
-### Appointments List
-### New Appointment Flow
-#### Types of care
-#### Community Care eligibility
-#### Facilities
-#### VA eligibility
-#### Clinics
-#### Time slots (both request and self schedule)
-#### Appointment request submission
-#### Community Care request submission
-#### Direct schedule appointment submission
+
+
+And drilling down, the actions layer looks like:
+
+TODO
+
+Our tentative approach is to add a service layer in between the action creators and API. This layer will handling the switching logic between the FHIR apis and the old VAR apis. This layer will map all data into a common, simplified FHIR-based format. The services available will be organized to be as much like the FHIR resources as possible. 
+
+TODO
+
+As we migrate fully over to the FHIR APIs, the service layer will shrink and become very similar to our current API layer, which is a thin wrapper around the fetch calls to the VAR apis.
+
+TODO
+
+## Service design doc
+
+This will document:
+
+1. The different functions we need in each service
+2. The FHIR and VAR APIs used by each
+3. The simplified data output format
+
+This organization may change depending on our understanding of the flow.
+
+### Organization
+
+### Location
+
+### HealthcareService
+
+### Schedule
+
+### Slot
+
+### Appointment
