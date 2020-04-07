@@ -24,7 +24,7 @@
 | email686Message                   |                             | Note: VA.gov does not currently have send email capability |
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
-| messageCenter686                  |                             | Puts a notification in the eBenefits notification center - this can probably be skipped as VA.gov does not currently have notifications |
+| messageCenter686                  |                             | Puts a notification in the eBenefits notification center - this will be skipped for now as VA.gov does not currently have notifications |
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
 | vnp686AppDelete                   |                             |             |
