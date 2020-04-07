@@ -3,7 +3,7 @@
 ## What is the opportunity?
 We are currently in the midst of an unprecedented global pandemic, which is creating a marked increase in demand for both information and services from veterans and dependents. [DATA DATA — call center wait times, medical center wait times, spikes in internet traffic.] To take some of the load off the medical centers, VA.gov is currently directing veterans to call in before coming in, but that in turn is leading to strain on the call centers. [DATA DATA DATA — about call centers]
 
-We suspect that veterans are seeking information about COVID-19 from the VA in particular because other information sources such as the CDC and WHO aren’t providing answers to veteran-specific questions and concerns. Additionally, as the medical provider for millions of veterans (and the largest integrated health system in the nation), the VA is the first point of contact for veterans with questions about their health and wellbeing.
+We suspect that veterans are seeking information about COVID-19 from the VA in particular because other information sources such as the CDC and WHO aren’t providing answers to veteran-specific questions and concerns. Additionally, as the medical provider for millions of veterans (and the largest integrated health system in the nation), the VA is the first point of contact for veterans with questions about their health and well being.
 
 So far, we’ve created an FAQ page on VA.gov that attempts to answer some of these veteran-specific questions and also direct veterans to where they can receive services. It’s helping, but we’re continuing to see increased load and wait times.   
 
