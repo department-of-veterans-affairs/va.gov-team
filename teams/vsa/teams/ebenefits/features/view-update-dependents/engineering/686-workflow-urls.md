@@ -33,10 +33,10 @@
     * `/686-stepchild-no-longer-part-of-household` - asks for child name, creates an array if more than one. 
     * `/686-stepchild-no-longer-part-of-household/:index` - asks if veteran is still supporting stepchild, and if so then how much support they are providing. Also asks for name and address of who the child lives with now.
 1. 674 Workflow
-  * `/report-674` - asks for the student's name, ssn, and dob.
-  * `/report-674-student-address` - asks for the student's address, whether or not they were previously married, and if the student's tuition is being paid for by a federal agency. If yes, then asks for name of agency and when payments began. 
-  * `/report-674-student-school-address` - asks for the name and address of the school the student will attend. Optionally asks for the type of training the student will receive.
-  * `/report-674-student-school-term-dates` - asks for school term start and end dates, expected date of graduation, and if the student is currently enrolled full time in high school or college. If not enrolled full time, then asks for course of study, and classes and hours per week.
-  * `/report-674-last-term-information` - asks if student attended school last term. If yes, then asks for school name, address, start and end date of term, classes and hours per week.
-  * `/report-674-student-income-information` - asks if student earn an income this year and next year. If yes to either, then asks for all earnings from employment, annual social security payments, other annuities income, all other income.
-  * `/report-674-student-networth-information` - asks if student has savings, investments, properties, etc. If yes, then asks for savings, value of bonds and securities, value of real estate, and value of all other assets. Optionally asks for remarks about networth.
+    * `/report-674` - asks for the student's name, ssn, and dob.
+    * `/report-674-student-address` - asks for the student's address, whether or not they were previously married, and if the student's tuition is being paid for by a federal agency. If yes, then asks for name of agency and when payments began. 
+    * `/report-674-student-school-address` - asks for the name and address of the school the student will attend. Optionally asks for the type of training the student will receive.
+    * `/report-674-student-school-term-dates` - asks for school term start and end dates, expected date of graduation, and if the student is currently enrolled full time in high school or college. If not enrolled full time, then asks for course of study, and classes and hours per week.
+    * `/report-674-last-term-information` - asks if student attended school last term. If yes, then asks for school name, address, start and end date of term, classes and hours per week.
+    * `/report-674-student-income-information` - asks if student earn an income this year and next year. If yes to either, then asks for all earnings from employment, annual social security payments, other annuities income, all other income.
+    * `/report-674-student-networth-information` - asks if student has savings, investments, properties, etc. If yes, then asks for savings, value of bonds and securities, value of real estate, and value of all other assets. Optionally asks for remarks about networth.
