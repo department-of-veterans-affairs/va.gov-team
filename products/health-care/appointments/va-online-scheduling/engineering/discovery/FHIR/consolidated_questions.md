@@ -58,15 +58,7 @@ Summarized high priority questions:
 
 [Discovery Notes](clinics.md)
 
-- What resource do clinics map to?
-  - Location, HealthcareService, Schedule?
-- Would the type "CodeableConcept" be used to model
-  - siteCode
-  - primaryStopCode
-  - secondaryStopCode
-  - institutionCode
-- How are flags modeled in general?
-- Can the Organization.typeOf field be used to retrieve the siteId since Organization is hierarchical?
+- Can we search for clinics (HealthcareServices) by stop code?
 
 ## Time slots
 
