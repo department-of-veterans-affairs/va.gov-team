@@ -18,7 +18,7 @@ A helpful example [is available here](https://www.va.gov/education/how-to-apply/
   - https://www.va.gov/education/eligibility
   - https://www.va.gov/education/how-to-apply
   - https://www.va.gov/disability/eligibility
-  - https://www.va.gov/disbaility/how-to-file-claim
+  - https://www.va.gov/disability/how-to-file-claim
 
 Veterans typically land on these content pages while researching benefits. 
 However, these pages may not always make it easy for Veterans to find these helpful in-content wizards (and subsequently the right online application). *data point --> % of views on https://www.va.gov/education/how-to-apply/ that result in outbound navigation to application*
