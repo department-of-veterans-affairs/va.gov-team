@@ -1,4 +1,4 @@
-# Connected Accounts
+# Connected Apps
 
 ### Relevant links
 
