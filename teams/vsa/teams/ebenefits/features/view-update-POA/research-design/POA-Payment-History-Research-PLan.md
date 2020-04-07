@@ -23,7 +23,6 @@ Payment table headers:<br>
 - [Goals](#goals)
 - [Hypotheses](#hypotheses)
 - [Research Questions](#research-questions)
-- [Success](#success)
 - [Method](#method)
 - [Participants and Recruitment](#participants-and-recruitment)
 - [Timeline](#timeline)
@@ -78,7 +77,8 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
        - Does the data displayed change by device
        - Does the use case change based on device 
 
-## Questions
+## Research Questions
+### Power of Attorney
 - Is the wizard intuitive to the veterans? (POA) 
 - Is the information presented clearly? (POA)
 - Do Veterans understand what the different Power of Attorney steps mean? (POA)
@@ -88,41 +88,24 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
 - How do users navigate the representative results? (POA)
 - What other tools/sites do vets use to fill out the Power Of Attorney Form? (POA)
 - How do veterans determine to employ a representative to dispute their claims? (POA)
+- What other tools/sites do vets use to confirm payments made? (POA)
+
+### Payment History
 - What information do Veterans expect to see in the Payment tables? (PH)
 - How do users navigate the Payment table? (PH)
-- What other tools/sites do vets use to confirm payments made? (POA)
-Would you like to see the whole number of astics numbers with last 4
 
-### Hypothesis   
-#### Power of Attorney
+## Hypothesis   
+### Power of Attorney
 Our hypothesis is, the veteran will easily navigate through the wizard and efficiently locate, find, and select their representative, but the following issues may arise:
 - Clearly understanding the component's shift from a wizard to a search feature back to a wizard.
 - Realizing whether or not the veteran understands their rights have been legally “handed over.”
 
-#### Payment History
+### Payment History
 Our hypothesis is, the veteran will have two principal ways they will use the tool.  First, expected features should be centered around efficiently searching for a particular payment or a period of payments. Secondly, the veteran will also like to view only the last several (5-10) payments/returns.
 
-### Research Questions
-#### Power of Attorney
-- Where is the best place to have this form in the IA?  (POA/PH)
-- Where would users want to find it? (POA/PH)
-- Is the wizard intuitive to the veterans? (POA) 
-- Is the information presented clearly? (POA)
-- Do Veterans understand what the different Power of Attorney steps mean? (POA)
-- Do users understand how to fill in each field? (POA)
-- What do users think will happen after they’ve submitted the form? (POA)
-- What information do Veterans expect to see in the search results? (POA)
-- How do users navigate the representative results? (POA)
-- What other tools/sites do vets use to fill out the Power Of Attorney Form? (POA)
-- How do veterans determine to employ a representative to dispute their claims? (POA)
-
-#### Payment History
-- What information do Veterans expect to see in the Payment tables? (PH)
-- How do users navigate the Payment table? (PH)
-- What other tools/sites do vets use to confirm payments made? (POA)
-
-### Method
+## Method
 - Method: Directed interviews
+   - Show veterans eBenefits and ask them questions about how they use these features, what works and doesn’t work, and what their expectations are
 - Participants: Veterans who utilize View My Representative and View My Payments features on eBenefits
 - Location: Remote, Zoom meeting coordinated by Perigeon.
 - Recruitment of interviewees: Perigeon
@@ -131,7 +114,9 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 
 ### Participants and Recruitment
 - Recruitment through Perigeon
- - 8 Veterans
+ - 14 participants will be scheduled by Perigeon
+    - Our expectation is to interview 8-10 veterans.
+    - We are anticipating 7 no-shows.
  - Must receive payments from the VA 
  - Must have a VSO or Attorney representative disputed claim.
  - All genders
@@ -141,22 +126,28 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
  - Sessions will run approximately 45 minutes.
 
 ### Timeline 
-- **Interview dates:** April 6th, 2020 - April 10th, 2020
-- **Need document completion date:** Conversation guided April 2nd
+- **Interview dates:** April 16-26, 2020
+- **Need document completion date:** 
 
 #### Pilot: 
-- Date TBD
-- Time
-- Participant
+- Date 15th
+- Time TBD
+- Participant: TBD
 
 Availability: If applicable, when would you like sessions scheduled? <br>
-- TBD
-- (December 13, 9:30 am - 3:00 pm EST.  example text)
+April 16-23, from 9:00 AM to 3:00 PM
+(April 17-18 are weekends, no open availabilty)
 - _Note: Please leave a minimum of 30 minutes between sessions._
 
 #### eBenefits Team Availability: 
 | Date | Time (CST) |
-| Month Day | Time AM to Time PM|
+| 04 - 16 | 9:00 AM to 3:00 PM |
+| 04 - 17 | 9:00 AM to 3:00 PM |
+| 04 - 20 | 9:00 AM to 3:00 PM |
+| 04 - 21 | 9:00 AM to 3:00 PM |
+| 04 - 22 | 9:00 AM to 3:00 PM |
+| 04 - 23 | 9:00 AM to 3:00 PM |
+
 * Please leave 30 mins between session
 
 ## Team Roles
@@ -177,9 +168,10 @@ Availability: If applicable, when would you like sessions scheduled? <br>
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
-- [Conversation Guide]()
 
-- [Add/Remove Dependents Walkthrough/Workflows](https://xd.adobe.com/view/0f7759a1-b990-4d71-50c9-138d9e593fd0-7946/)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md)
+
+- [Add/Remove Dependents Walkthrough/Workflows]
 
 - [Session Notes]() (Available after research sessions.)
 
