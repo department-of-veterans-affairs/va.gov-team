@@ -1,8 +1,9 @@
 # Manual Functional Testing
  
-## General
+## Recommendations
 
-We advise teams to begin conducting manual verifications of product changes mid-sprint.  It is also prudent to conduct a final round of manual verification when your team closes out the sprint.
+1. Based on your product's development and logistics, it may be possible to begin conducting manual verifications of acceptance criteria mid-sprint.
+1. Conduct a final round of manual verification when your team closes out the sprint.
 
 <hr>
 
@@ -10,8 +11,8 @@ We advise teams to begin conducting manual verifications of product changes mid-
 
 [TestRail](testrail/README.md)
   * Use TestRail to craft your test plan.
-  * Provide traceability by referencing user stories for each test case.
-  * Link issues discovered during testing to the test execution that uncovered them.
+  * Provide traceability by using TestRail's **References** field to link to a related user story for each test case.
+  * Use TestRail's **Defects** field to link issues discovered during testing to the test case execution that uncovered the issue.
 
 [Access to the Staging Environment](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-  * See [Login](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md) for test user accounts if you need to test login as part of your product.
+  * See [Test User Accounts by Use Case](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md) for test user accounts if you need to be authenticated in order to verify acceptance criteria for your product.
