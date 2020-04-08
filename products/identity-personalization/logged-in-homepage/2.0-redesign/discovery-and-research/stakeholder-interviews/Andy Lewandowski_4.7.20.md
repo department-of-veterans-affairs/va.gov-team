@@ -10,9 +10,10 @@ I was designer in 2018 and product owner in 2019.
 
 ### Can you tell me about that process as it pertains to the logged in homepage/myVA experience?
 
-I never implemented anything, but our biggest challenge with going from unauth to auth is (missed this). Our primary user is the veteran, families, and caregivers. There are thousands of pages in the unauth. (missed this part — might want to re-listen to interview)
+I never implemented anything, but our biggest challenge with going from unauth to auth is that it's just completely different. The unauth experience serves our primary user is the veteran, plus families, and caregivers. And then it serves everyone else. There are hundreds of thousands of pages and hundreds of subdomains in the unauth exp, everything from public health to research, which doesn't serves Veterans, that serves medical professionals, to the public health websites, which also serve many users including accreditation firms. Things that have to be publically accessible on your website.
 
-When you move into auth, this is laser focused on veterans’ health care and benefits. As an unauth team, our biggest big picture idea is the unauth experience is all the marketing content, and all the stuff behind auth is that you already have the benefit. The auth experience shouldn’t be learning about benefits, you shouldn’t be reading through thousands of pages.
+
+When you move into auth, this is laser focused on veterans’, we don't have delegated roles, caregives and family members can't have their own accounts. And it's laser focused on health care and benefits. As an unauth team, our biggest big picture idea is the unauth experience is about exploring and learning about benefits, it's all the marketing content, if VA.gov were a private sector website.  And all the stuff behind auth means that you already have the benefit or the product. The auth experience shouldn’t be learning about eligibility requirements, you shouldn’t be reading through thousands of pages.
 
 (Made bank analogy)
 
