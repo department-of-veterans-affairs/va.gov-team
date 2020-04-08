@@ -2,7 +2,7 @@
 
 ## Microsoft
 - Aaron Barth, Solution Architect
-- Pankaj Surti
+- Pankaj Surti, Developer + BI and Analytics
 
 ## ThoughtWorks
 ### Core team
