@@ -618,8 +618,7 @@ Dev
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 - Pre-launch - Go/No-go
 - Launch - Initial launch to UAT users
-- UAT - Research plan
-- UAT - Convo guide
+- UAT - Plan for UAT
 - UAT - Recruiting
 - UAT - Conduct sessions
 - UAT - Fix bugs (if necessary)
