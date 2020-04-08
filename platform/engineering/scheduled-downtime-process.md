@@ -20,7 +20,7 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 1. Proceed to Option A or B below based on the expected duration of downtime
 
-***NOTE:* If downtime is expected to last < 10 minutes (Option B), and during the scheduled maintenance window the engineer finds that downtime is unexpectedly going to exceed the 10 minute window, the protocol is to roll back the change *(if possible)* and proceed according to Option A below.*
+***NOTE:* If downtime is expected to last < 10 minutes (Option B), and during the scheduled maintenance window the engineer finds that downtime is unexpectedly going to exceed the 10 minute window, the protocol is to roll back the change *(if possible)* and proceed according to Option A below.**
 
 ### Option A: When downtime is expected to last > 10 minutes: 
 
