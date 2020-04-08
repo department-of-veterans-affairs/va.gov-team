@@ -11,11 +11,11 @@
 - Stakeholders: `TODO` 
 
 #### Team Members  
-**James Adams** - jadams@governmentcio.com
-**Jesse Cohn** - jesse.cohn@adhocteam.us
-**Micah Chiang** - micah@adhocteam.us
-**Kathleen Crawford** - kcrawford@governmentcio.com
-**Derek Dyer** - ddyer@governmentcio.com
+**James Adams** - jadams@governmentcio.com  
+**Jesse Cohn** - jesse.cohn@adhocteam.us  
+**Micah Chiang** - micah@adhocteam.us  
+**Kathleen Crawford** - kcrawford@governmentcio.com  
+**Derek Dyer** - ddyer@governmentcio.com  
 
 ---
 
