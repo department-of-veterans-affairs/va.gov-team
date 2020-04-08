@@ -1,9 +1,10 @@
 # Looking back: Milestones from Q1 2020
 
-## Discovery Sprints:
+## Workshops:
 
-- Infrastructure Overhaul
-- Identity
+- Infrastructure Overhaul discovery sprint
+- Identity discovery sprint
+- Customer pain point roadmapping
 
 ## Premium Support:
 
