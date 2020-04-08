@@ -101,7 +101,7 @@ These issues have the potential to disrupt the user experience and should be fix
 
 #### Types of issues:
 
-* Page `<title>` tags should update on every route (URL) change. This includes single-page apps (SPAs).
+* Page `<title>` tags must update on every route (URL) change. This includes single-page apps (SPAs).
   * `<h1>` should match the `<title>` or be included in the `<title>`
     * Example title: Check your appeals status | VA.gov
     * Example heading: Check your appeals status
@@ -150,7 +150,7 @@ These issues have the potential to disrupt the user experience and should be fix
   * `<footer>`
   * divs with `role` attributes.
 
-* HTML must have properly nested headings. Adding an `<h4>` as the first heading underneath an `<h2>` is an example of improper nesting. The [WebAIM WAVE](https://wave.webaim.org/) or [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) browser plugins  provide visual representations of heading nesting.
+* HTML should have properly nested headings. Adding an `<h4>` as the first heading underneath an `<h2>` is an example of improper nesting. The [WebAIM WAVE](https://wave.webaim.org/) or [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en) browser plugins  provide visual representations of heading nesting.
 
 #### Potential impact:
 
