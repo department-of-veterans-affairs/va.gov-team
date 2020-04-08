@@ -36,18 +36,18 @@ This section will show the following:
 
 - **2-factor authentication**
 - **Content**: Add an extra layer of security (called 2-factor authentication).  This helps to make sure only you can access your account - even if someone gets your password.
--**Link text**: Set up 2-factor authentication 
--**Link**: https://api.idmelabs.com/en/multifactor/setup/phone/new 
+- **Link text**: Set up 2-factor authentication 
+- **Link**: https://api.idmelabs.com/en/multifactor/setup/phone/new 
 
 
 - **Terms and conditions**
 - **Content**: To get started using our health tools, you'll need to read and agree to the Terms and Conditions for Medical Information.  This will give us your permission to show you your VA medical information on this site.
--**Link text**: Go to the Terms and Conditions for Health Tools
--**Link**: https://va.gov/health-care/medical-information-terms-conditions/
+- **Link text**: Go to the Terms and Conditions for Health Tools
+- **Link**: https://va.gov/health-care/medical-information-terms-conditions/
 
 Grey box content:
--**Have questions about signing in to VA.gov?**
--**Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
+- **Have questions about signing in to VA.gov?**
+- **Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
 
 ### Requirements
 
@@ -65,8 +65,8 @@ Grey box content:
  
 - **Identity verification** 
 - **Content**: We need to make sure you're you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.
--**Link text**: Verify your identity
--**Link**: https://staging.va.gov/sign-in-faq/#verifying-your-identity
+- **Link text**: Verify your identity
+- **Link**: https://staging.va.gov/sign-in-faq/#verifying-your-identity
 
 - **2-factor authentication**
 - **Content**: You've added an extra layer of security to your account with 2-factor authentication.
@@ -74,12 +74,12 @@ Grey box content:
 
 - **Terms and conditions**
 - **Content**: To get started using our health tools, you'll need to read and agree to the Terms and Conditions for Medical Information.  This will give us your permission to show you your VA medical information on this site.
--**Link text**: Go to the Terms and Conditions for Health Tools
--**Link**: https://va.gov/health-care/medical-information-terms-conditions/
+- **Link text**: Go to the Terms and Conditions for Health Tools
+- **Link**: https://va.gov/health-care/medical-information-terms-conditions/
 
 Grey box content:
--**Have questions about signing in to VA.gov?**
--**Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
+- **Have questions about signing in to VA.gov?**
+- **Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
 
 
 ## MOBILE VIEW
