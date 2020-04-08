@@ -53,7 +53,7 @@ Also, the other part was that consolidating is still happening (eg. MHV and eBen
 
 OPIA = Office of Public and Intergovernmental Affairs. They owned VA.gov before us. They still currently own the homepage.
 
-If you were still on the team, what goals would you have for a new logged in homepage experience?
+### If you were still on the team, what goals would you have for a new logged in homepage experience?
 
 We’ve talked about it being a notifications-driven experience, but I do think whether it’s a notification or other type of logic, I think doing the work for users would be great. So, surfacing CTAs. So instead of having them dig through case status card for disability claim, maybe we just put a CTA on the homepage that says “upload evidence”. Rather than forcing them to click into a prescription tool to see where the Rx is, we should just tell them it’s one day away in Albequerque. We had a strategy that all tools would have API to power the homepage. So MHV controls Rxs, but we would need an API to get those additional details.
 
