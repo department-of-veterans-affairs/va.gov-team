@@ -587,22 +587,41 @@ Dev
 
 ## Work that still needs to happen for Profile 2.0
 
-- Finish usability testing
-- Research write synthesis/create tickets
-- Tressa reviewing content for updates
-- Tressa figuring out what URLs need to be updated
-- IA review (VSP cycle)
-- Finish build/implement updates from user testing
-- QA
-- 508 review of build
-- Updates that came out of QA/508 audit
-- Have team go through and do an update of the Product Outline (to prep for pre-launch activities/reviews)
-- Put together plan for how we want analytics set up
-- Analytics review (VSP cycle)
-- Analytics implementation
-- Contact Center Review (VSP cycle)
-- Put together release plan
-- Staging Review (VSP cycle) — Happens after QA
-- Work with VA comms to figure out how we should communicate internally/externally about this feature update
-- Privacy and Security Review (VSP cycle) — Happens closer to launch
-- Full Accessibility and 508 Office Audit (VSP cycle) — Post launch
+- User testing - Finish usability testing
+- User testing - Research write synthesis/create tickets
+- Content/IA - Tressa reviewing content for updates
+- Content/IA - Provide designs/guidance for content updates
+- Content/IA - Tressa figuring out what URLs need to be updated/redirected
+- Content/IA - IA review (VSP cycle)
+- Build - Finish build
+- Build - Implement updates from user testing
+- Build - Implement any content updates/URL redirects/New URLs
+- Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+- QA – plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- QA - Tze conducts QA
+- 508 - Request review of build
+- 508 - Jen/Trevor conduct review of build
+- QA - Implement fixes/updates that came out of QA/508 audit
+- Analytics — Revisit KPIs and make sure they are updated in the product outline
+- Analytics - Put together plan for how we want analytics set up
+- Analytics - review (VSP cycle)
+- Analytics - implementation
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
+- Call center — Prep guide
+- Call center - Prep video
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
+- Pre-launch - Put together release plan
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+- Pre-launch - Go/No-go
+- Launch - Initial launch to UAT users
+- UAT - Research plan
+- UAT - Convo guide
+- UAT - Recruiting
+- UAT - Conduct sessions
+- UAT - Fix bugs (if necessary)
+- Launch - Ramp up phased launch
+- Post-launch - Full Accessibility and 508 Office Audit (VSP cycle)
