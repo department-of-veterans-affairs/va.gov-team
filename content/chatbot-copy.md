@@ -85,6 +85,21 @@ For routine appointments, we recommend using telehealth
 
 #### 25. How do I know if my VA health facility is still open for regular appointments? 
 
+#### 26. I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
+
+#### 27. How can I ask for a new mental health appointment? 
+
+#### 29. Will my benefit patient be delayed because of COVID-19?
+
+#### 30. My school changed all classes to online, Will I still qualify for my GI bill benefits? 
+
+#### 31. Are VA regional offices closed? 
+
+#### 32. How can I stay updated on regional office closures or service interruptions? 
+
+#### 33. How can I contact my local regional office? 
+
+
 
 
 
