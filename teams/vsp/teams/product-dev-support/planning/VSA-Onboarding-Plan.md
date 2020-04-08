@@ -129,7 +129,7 @@ Consider including:
 ## Resources
 * [Onboarding Workshop Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/decisions.md)
 * [Onboarding for External Contractors](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation)
-* [Draft - Kickoff Agendas for New Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/New%20VFS%20Team%20Kickoff%20Template.md)
+* [Draft - Kickoff Agendas for New Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/templates/New%20VFS%20Team%20Kickoff%20Template.md)
 * [How does onboarding work today? -- meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/Running%20Notes.md)
 
 

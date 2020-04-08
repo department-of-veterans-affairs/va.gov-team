@@ -12,7 +12,7 @@ The required steps of the VSA-QA Process are as follows:
     - Assign ticket to your **Engineering Team Product/Project Manager**
     - Add **vsa-qa** label
     - Add link to Epic ticket
-    - Add link to Pre-Launch Checklist \(or ensure Epic ticket has this link) \[See [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d210639376918e687efdeda9445199985783c487/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md) for checlist guidelines]
+    - Add link to Pre-Launch Checklist \(or ensure Epic ticket has this link) \[See [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md) for checklist guidelines]
     - Ensure that Test Plan includes documentation of (or links to):
         - UX Design comps
         - User scenarios/stories
