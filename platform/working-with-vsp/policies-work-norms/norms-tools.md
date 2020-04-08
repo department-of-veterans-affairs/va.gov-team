@@ -17,7 +17,7 @@
 
 The [VA Github organization](https://github.com/department-of-veterans-affairs) contains many repos from teams across the VA. To make it easier for VFS teams working on the Veteran-facing Services Platform, we've listed the repos that are relevant to your work.
 
-After your team has been added to the VA Github organization (see [requesting access to tools](../onboarding/request-access-to-tools.md), your team will have access to these repos:
+After your team has been added to the VA Github organization (see [requesting access to tools](../orientation/request-access-to-tools.md), your team will have access to these repos:
 
 * [va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) (public, write access)
     * We'll set up a "Product" folder for your team, which you'll use to store and share product development artifacts.
