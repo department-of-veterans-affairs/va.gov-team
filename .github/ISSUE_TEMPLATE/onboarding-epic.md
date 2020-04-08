@@ -41,6 +41,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Full team: Request KPI workshop with analytics team
 - [ ] PM Request 508 intro
 - [ ] PM and Engineers: Request load testing, privacy, and security intro
+- [ ] PM and Engineering Lead: Request ATO intro
 
 
 ## Notes:
