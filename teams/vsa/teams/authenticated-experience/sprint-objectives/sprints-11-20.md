@@ -608,7 +608,7 @@ Dev
 - Analytics - implementation
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
-- Call center — Prep guide
+- Call center - Prep guide
 - Call center - Prep video
 - Call center - Contact Center Review (VSP cycle)
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
