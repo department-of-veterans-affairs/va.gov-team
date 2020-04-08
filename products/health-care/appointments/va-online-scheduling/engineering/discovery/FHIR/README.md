@@ -26,7 +26,7 @@ We know the following resources will be available:
 - Location
   - VA facility, Video appointment location, or CC provider
 - HealthcareService
-  - This is possibly a VistA clinic or type of care
+  - This is typically a VistA clinic, could also be a VA Video Connect virual room
 - Schedule
   - Collects available slots for a chosen health care service or practioner. No clear var-resources equivalent
 - Slot
