@@ -5,6 +5,8 @@
 
 ### What is the most ideal data structure for the FE?
 
+Each "page" in each workflow comes through as a separate JSON object, for instance the veteran information and the veteran address are two separate pages so they come through as two separate JSON objects, is this ok for BE?
+
 the structure we have will most likely need to follow the workflows but can be wrapped in objects.
 
 ### What conventions do we need to agree on (i.e. do all states come through as just a two digit abbreviation)?
