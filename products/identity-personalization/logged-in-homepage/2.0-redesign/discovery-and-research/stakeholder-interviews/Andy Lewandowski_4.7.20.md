@@ -57,11 +57,11 @@ OPIA = Office of Public and Intergovernmental Affairs. They owned VA.gov before 
 
 We’ve talked about it being a notifications-driven experience, but I do think whether it’s a notification or other type of logic, I think doing the work for users would be great. So, surfacing CTAs. So instead of having them dig through case status card for disability claim, maybe we just put a CTA on the homepage that says “upload evidence”. Rather than forcing them to click into a prescription tool to see where the Rx is, we should just tell them it’s one day away in Albequerque. We had a strategy that all tools would have API to power the homepage. So MHV controls Rxs, but we would need an API to get those additional details.
 
-A homepage is only going to work when tools are built in as similar of a way as possible. If there are APIs for some, but not others, that would suck.
+Your team needs clarity and authority from the CTO/DEPO level around this is a requirement for all auth. products and here's why - A homepage is only going to work when tools are designed, developed, and built in as similar of a way as possible so there is consistency. If there are APIs for some, but not others, that would suck.
 
 ### Anything else?
 
-Benefit exploration. When VA.gov becomes more mature, unauth and auth start to blend. So rather than do a big bang benefits navigator/explorer, we did one for each benefits hub. So we would start to do private sector things, we could make them create an account to see results. Or give us family info so we can send them family benefits.
+Benefit nagivation, exploration. When VA.gov becomes more mature, it should become super private sector where unauth and auth start to blend. Example: rather than do a big bang benefits navigator/explorer inside the account experience, we did one for each benefit hub. And when the customer starts in the unauth benefits hub, we would start to do private sector things, we could make them create an account or give email address to see results. Or give us family contact info so we start to track other people that are part of the Veteran journey.
 
 There is also the native mobile app, but my question is always “why?” If everything is responsive, why go native? The top benefit of a mobile app is notifications. You’re already authenticated, so notifications just show up on your home screen.
 
