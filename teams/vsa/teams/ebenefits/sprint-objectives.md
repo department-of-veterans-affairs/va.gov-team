@@ -8,6 +8,35 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
+## Sprint 19 (4/8 - 4/21)
+```diff 
+- TBD
+```
+## 1. Prepare "Dependency Claims" for pre-launch and testing
+- Design and Product: Run final collab cycle meetings
+- Design and Product: Incorporate two new Pension questions and content
+- FE and BE: Work together to submit data model
+- FE and BE: Work together to complete submission activities (PDF, error states)
+- Backend: Complete submission workflows
+- Product: Create call center documentation
+- Product: FE user story smoke test
+- Team: Set critical dates for launch activities (e2e testing, load testing, usability, UAT, n% rollout)
+
+## 2. View Payments: Iteration
+- FE (STRETCH): Stub out View Payments based on mock data
+
+## 3. PCPG (CH36): Finish Product Designs, Iteration
+- Product: Update product documentation in feature README
+- Product and Design: Collab Cycle Kickoff
+- Design: Compete initial designs based on minimal form scenario, schedule Design Intent meeting
+
+## 4. Scaffold Loan Guaranty Application Projects
+- Product: Build product documentation
+- Research: Build conversation guide and perform initial analysis
+
+## 5. POA: Design Iteration
+- Design (STRETCH): Iterate on product designs and schedule further Collab Cycle activities as needed
+
 ## Sprint 18 (3/25 - 4/7)
 ```diff 
 - 79 points over 29 issues
