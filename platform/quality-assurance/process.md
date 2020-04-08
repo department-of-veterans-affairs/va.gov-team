@@ -38,11 +38,11 @@
                 4. Verify no existing appointments
                 5. Create new appointment
 1. Execute tests
-    1. Execute tests on your feature branch as you build your user story locally
+    1. Execute tests on your feature branch or staging
     2. Record test results
     3. [Record test incidents](record-test-incident.md)
     4. Iterate on the story
-    5. Goto 1
+    5. Goto i
 1. Report results at the end of development
     - Submit results to the VSP Product Support Team by creating a review ticket
     - For a detailed explanation of expected deliverables see the [QA artifacts](qa-artifacts.md) documentation.  An overview with examples is listed below --
