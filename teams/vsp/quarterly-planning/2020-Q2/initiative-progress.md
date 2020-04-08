@@ -42,7 +42,8 @@
 
 **...mainly for designers**
 
-- nada last quarter
+- design system updates
+- Collaboration cycle
 
 **...mainly for product managers**
 
