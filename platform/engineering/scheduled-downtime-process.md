@@ -20,8 +20,6 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 1. Proceed to Option A or B below based on the expected duration of downtime
 
-***NOTE:* If downtime is expected to last < 10 minutes (Option B), and during the scheduled maintenance window the engineer finds that downtime is unexpectedly going to exceed the 10 minute window, the protocol is to roll back the change *(if possible)* and proceed according to Option A below.**
-
 ### Option A: When downtime is expected to last > 10 minutes: 
 
 1. Make an announcement at the weekly Team of Teams meeting and notify #vfs-all-teams in Slack at least 1 week in advance
@@ -43,9 +41,11 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 1. Make an announcement in #vfs-all-teams in Slack at least 1 business day in advance. 
 
 1. There will be no sitewide or advance notification of this downtime. Applications, tools, and sign-in modules will show automated notifications when the associated service is unavailable. 
+
+1. If, during the scheduled maintenance window the engineer finds that downtime is unexpectedly going to exceed the 10-minute window, roll back the change *(if possible)* and proceed according to Option A instead.
+
+## Downtime notification content and design resources
  
- ## Downtime notification content and design resources
+Standardized scheduled downtime messages and design components can be found here: 
  
- Standardized scheduled downtime messages and design components can be found here: 
- 
- https://design.va.gov/patterns/messaging-dictionary
+https://design.va.gov/patterns/messaging-dictionary
