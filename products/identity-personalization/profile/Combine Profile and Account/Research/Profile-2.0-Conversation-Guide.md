@@ -80,7 +80,7 @@ Alright, just a reminder - you are trying to update your mailing address.
 - Is it clear to you what parts of the page are editable?
 - Did that exercise make sense to you?
 
-3. Great, from here, could you double check that any payments that you might recieve from the VA are going to get to you?
+3. Great, from here, could you double check that the VA has the correct banking information for you?
 - Why did you go to (*selected navigation*)?
 - Did that make sense to you?
 - Was anything confusing?
