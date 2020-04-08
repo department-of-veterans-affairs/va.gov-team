@@ -6,9 +6,9 @@
 
 I'm here to help answer your questions about COVID-19 and VA benefits and services. If I can't answer your questions, I'll help you connect to a call center representative.
 
-**Before we get started:** If you have any of the symptoms listed below, please call 911 now. These are signs of an emergency and you need to get medical care right away.
+Before we get started, if you have any of the symptoms listed below, please call 911. These are signs of an emergency and you need to get medical care right away.
 
-**Emergency warning signs:**
+**Call 911 if you have:**
 - Trouble breathing, **or**
 - Persistent (continuing) pain or pressure in your chest, **or**
 - Bluish lips or face, **or**
@@ -29,7 +29,7 @@ _COMMENTS FOR THIS SCREEN:_
 
 [6. If yes: Go to 4. Handoff for CDC Symptom Checker]
 
-[7. If no: Go to 5. What would you like to know about?]
+[7. If no: Go to 5. What would you like to ask about?]
 
 ------
 
@@ -39,7 +39,55 @@ You may find the Centers for Disease Control's (CDC) Coronavirus Self-Checker to
 
 [Go to CDC Coronavirus Symptom Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 
-_[COMMENT: Do we want the same *Go back* kind of option on each screen?]_
+[Go back to previous screen]
+
+------
+
+## 5. What would you like to ask about today?
+
+Please choose the topic that best fits your needs. You can always go back to this screen if you need to choose a new topic.
+
+[Getting care at VA](Go to 8)
+[VA's COVID response](Go to 11)
+[Mental health resources](Go to 9)
+[VA benefits](Go to 10)
+
+------
+
+### 13. What question can I answer first?
+
+------
+
+# QUESTION BANK
+
+
+#### 12. What should I do if I have an upcoming VA health appointment?
+
+For routine appointments, we recommend using telehealth
+
+
+
+#### 17. Can I be tested for coronavirus COVID-19 at VA?
+
+#### 18. What should I do if I have a community care appointment?
+
+#### 19. What is VA doing to deal with COVID-19?
+
+#### 20. How do I reschedule or cancel my upcoming VA appointment? 
+
+#### 21. Can I get a referral to see a community care provider if I can't be seen at VA?
+
+#### 22. What if I tried to call my clinic and I can't get through?
+
+#### 23. What should I do if I need to refill or renew my prescription?
+
+#### 24. Can I use emergency care?
+
+#### 25. How do I know if my VA health facility is still open for regular appointments? 
+
+
+
+
 
 
 
