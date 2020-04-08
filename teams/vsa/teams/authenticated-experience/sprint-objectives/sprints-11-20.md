@@ -597,12 +597,12 @@ Dev
 - Build - Implement updates from user testing
 - Build - Implement any content updates/URL redirects/New URLs
 - Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
-- QA – plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
 - QA - Tze conducts QA
 - 508 - Request review of build
 - 508 - Jen/Trevor conduct review of build
 - QA - Implement fixes/updates that came out of QA/508 audit
-- Analytics — Revisit KPIs and make sure they are updated in the product outline
+- Analytics - Revisit KPIs and make sure they are updated in the product outline
 - Analytics - Put together plan for how we want analytics set up
 - Analytics - review (VSP cycle)
 - Analytics - implementation
