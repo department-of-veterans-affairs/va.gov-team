@@ -576,3 +576,27 @@ Dev
 
 - Finish build
 - Implement IA changes/updates
+
+----------------
+
+## Work that still needs to happen for Profile 2.0
+
+- Finish usability testing
+- Research write synthesis/create tickets
+- Tressa reviewing content for updates
+- Tressa figuring out what URLs need to be updated
+- IA review (VSP cycle)
+- Finish build/implement updates from user testing
+- QA
+- 508 review of build
+- Updates that came out of QA/508 audit
+- Have team go through and do an update of the Product Outline (to prep for pre-launch activities/reviews)
+- Put together plan for how we want analytics set up
+- Analytics review (VSP cycle)
+- Analytics implementation
+- Contact Center Review (VSP cycle)
+- Put together release plan
+- Staging Review (VSP cycle) — Happens after QA
+- Work with VA comms to figure out how we should communicate internally/externally about this feature update
+- Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Full Accessibility and 508 Office Audit (VSP cycle) — Post launch
