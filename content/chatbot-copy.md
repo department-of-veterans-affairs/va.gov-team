@@ -4,16 +4,20 @@
 
 [Good morning/Good afternoon/Good evening], [NAME].
 
-_COMMENT: Incorporating Ramya's research around personalized/time-sensitive greeting, if possible. I did a little reading around whether or not to "name" the chatbot. An [interesting article](https://techcrunch.com/2017/01/07/on-bots-language-and-making-technology-disappear/) noted that it can be annoying and disruptive to users, and I think that may be true specifically in this kind of situation where we're dealing with very serious, critical info. So I'm thinking maybe just, "I'm here as VA's virtua assistant..." or maybe even simply, "I'm here to answer your questions..." One question I have around timing: Will the bot be able to know the user's time zone?_
+I'm here to help answer your questions about COVID-19 and VA benefits and services. If I can't answer your questions, I'll help you connect to a call center representative.
 
-I'm here to help answer your questions about COVID-19 and VA benefits and services. If I can't answer your questions, I'll help you connect to a call center representative. _COMMENT: I think it would be good to offer the reassurance that the user can connect to a person if this doesn't work right up front. Thoughts?_
+**Before we get started:** If you have any of the symptoms listed below, please call 911 now. These are signs of an emergency and you need to get medical care right away.
 
-**Before we get started:** If you have any of the symptoms listed below, please call 911 now. These are signs of an emergency and you need to get care right away.
-
+**Emergency warning signs:**
 - Trouble breathing, **or**
 - Persistent (continuing) pain or pressure in your chest, **or**
 - Bluish lips or face, **or**
-- Suddenly feeling confused
+- New confusion (suddenly feeling confused)
+
+_COMMENTS FOR THIS SCREEN:_ 
+1. Incorporated Ramya's research around personalized/time-sensitive greeting, if possible. I did a little reading around whether or not to "name" the chatbot. An [interesting article](https://techcrunch.com/2017/01/07/on-bots-language-and-making-technology-disappear/) noted that it can be annoying and disruptive to users, and I think that may be true specifically in this kind of situation where we're dealing with very serious, critical info. So I'm thinking maybe just, "I'm here as VA's virtua assistant..." or even more simply, "I'm here to answer your questions..."
+2. One question I have around timing-based greeting: Will the bot be able to know the user's time zone?
+3. Ramya's research noted that the intro should include how the user will interact with the bot. As part of that, I think it would be good to offer the reassurance that the user can connect to a person if this doesn't work right up front. Thoughts?
 
 ------
 
