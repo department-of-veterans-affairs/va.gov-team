@@ -393,6 +393,8 @@ Dev
 
 ## Sprint 17 (3/11 - 3/24)
 
+### [Sprint 17 Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6622)
+
 ### Order of priorities
 
 Any overflow from last sprint (Matt will identify if there is overflow), plus:
@@ -445,6 +447,8 @@ We *might* get to address validation post-launch tickets, but this is unlikely g
 - Curate Profile 2.0 Epic #6682
 
 ## Sprint 18 (3/25 - 4/7)
+
+### [Sprint 18 Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7193)
 
 ### Order of priorities
 
@@ -506,6 +510,8 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 - Other tasks — what can we get done? Research review? Other planning?
 
 ## Sprint 19 (4/8 - 4/21)
+
+### [Sprint 19 Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7725)
 
 ### Order of priorities
 
