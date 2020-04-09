@@ -17,7 +17,7 @@ _COMMENTS FOR THIS SCREEN:_
 1. Incorporated Ramya's research around personalized/time-sensitive greeting, if possible. I did a little reading around whether or not to "name" the chatbot. An [interesting article](https://techcrunch.com/2017/01/07/on-bots-language-and-making-technology-disappear/) noted that it can be annoying and disruptive to users, and I think that may be true specifically in this kind of situation where we're dealing with very serious, critical info. So I'm thinking maybe just, "I'm here as VA's virtua assistant..." or even more simply, "I'm here to answer your questions..."
 2. One question I have around timing-based greeting: Will the bot be able to know the user's time zone?
 3. Ramya's research noted that the intro should include how the user will interact with the bot. As part of that, I think it would be good to offer the reassurance that the user can connect to a person if this doesn't work right up front. Thoughts?
-4. Do we need to add other info about interaction, like "I'll 
+4. Do we need to add other info about how the user will interact with the bot, like how they'll choose topics and questions? My instinct is no, it will be self-explanatory in the experience, but would love others' thoughts.
 
 ------
 
@@ -36,7 +36,7 @@ _COMMENTS FOR THIS SCREEN:_
 
 ## 4. Handoff for CDC Symptom Checker
 
-##### Use the CDC Coronavirus Self-Checker tool
+##### Visit the CDC Coronavirus Self-Checker tool
 
 The Centers for Disease Control and Prevention (CDC) designed this tool to help you make decisions about seeking appropriate medical care.
 
@@ -52,13 +52,14 @@ The Centers for Disease Control and Prevention (CDC) designed this tool to help 
 
 Please choose the topic that best fits your needs. You can always come back to this list to choose a new topic. <br>
 
-[Health care and appointments](Go to 8) <br>
+[Health care, appointments, and prescriptions](Go to 8) <br>
 [VA's COVID response](Go to 11) <br>
 [Mental health concerns](Go to 9) <br>
 [Benefits and claims](Go to 10)
 
 _COMMENTS ON THIS SECTION_
 1. Is it accurate to say you can always "come back to this list" or will the list be always present or in a menu? Just want to make sure content reflects design and functionality.
+2. I've made the topic names more gramatically parallel. Also made "Getting care at VA" topic more general since it covers community (non-VA) care, prescriptions, etc. 
 
 ------
 
@@ -83,7 +84,7 @@ If you have a non-urgent elective procedure scheduled, we may contact you to can
 
 ##### For routine scheduled appointments
 
-We recommend using telehealth to visit your provider by phone or video. You can also cancel or reschedule your appointment. 
+We recommend using telehealth to visit your provider by phone or video. 
 
 **To change your appointment to a telehealth visit, sign in online to:**
 - [Send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet, **or**
@@ -91,9 +92,11 @@ We recommend using telehealth to visit your provider by phone or video. You can 
 
 Once your provider schedules a telehealth appointment, you’ll receive a VA Video Connect link (or another approved video meeting tool). 
 
+You can also [cancel or reschedule your appointment](link to 20. How do I reschedule or cancel my upcoming VA appointment?). 
+
 _COMMENTS ON THIS SECTION:_
 1. I'm checking on the telehealth appointment online tool because the actual tool page has a note saying we don't want routine appointment requests right now due to high volume with covid.
-2. We encourage changing to telehealth here, and we give instructions around that (following the FAQs page and call center approaches). But we also note that you can cancel or reschedule, and those instructions are in another question. Is there a way to surface question 20. "How do I reschedule or cancel my upcoming VA appointment?" beneath this answer?
+2. We encourage changing to telehealth here, and we give instructions around that (following the FAQs page and call center approaches). But we also note that you can cancel or reschedule, and those instructions are in another question. Hoping we can include a link to surface that related question (20. How do I reschedule or cancel my upcoming VA appointment?).
 
 #### 17. Can I be tested for coronavirus COVID-19 at VA?
 
