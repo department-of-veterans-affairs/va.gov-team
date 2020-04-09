@@ -11,7 +11,6 @@ Begin at the [Yellow Ribbon benefit page](https://staging.va.gov/education/about
 Begin at the [Yellow Ribbon tool landing page](https://staging.va.gov/education/yellow-ribbon-participating-schools/)
 
 - [ ] Review the intro and instructional text. Does anything look factually inaccurate?
-- [ ] Review/click link to historical rate information. Does this meet Veteran student requirements for accessing prior academic year information?
 
 ### Search results
 
