@@ -74,7 +74,7 @@
 
 [View Dependents current screen content/layout](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/)
 
-#### Add Dependents (21-686c/21674)
+#### Add Dependents (21-686c/21-674)
 [21-686c/21-674 preliminary screen layouts](https://xd.adobe.com/view/ffffe536-2ba5-47c6-4c4b-ac1679179973-89ce/)
 
 [21-686c/21-674 usability testing prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
