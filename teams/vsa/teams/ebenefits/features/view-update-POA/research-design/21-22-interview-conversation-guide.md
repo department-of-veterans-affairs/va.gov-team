@@ -51,15 +51,16 @@ We are going to be talking about how you use certain VA benefit features today. 
 
 ## Document Expectations - 10 minutes
 - Are you currently using a representative to assist with a disputed VA claim?
-- Is that representative an attorney or a VSO?
-- When did you allocate your rights to an attorney/VSO to help with your VA claim?
-- Can you share your reasoning behind electing a representative for your claim?
+- Is that representative an attorney or a VSO? **(who did you end up going with?)**
+- When did you allocate your rights to an attorney/VSO to help with your VA claim? **(when did you complete the assign a represenative to your claim(s)?)**
+- **Why did you choose to go with (Said repre)?**   Can you share your reasoning behind electing a representative for your claim?
     - Look for answers such as friends, family, bureaucracy, approached by service
+- **What were you hoping to accomplsih by have the representative?**
 - How did you apply for a Power of Attorney (POA)? 
     - Look for answers such as paper, eBenefits, a service
-- What was your reasoning behind using that application method?
-- Are you satisfied with the method you used, and was it your preference?
-- In your opinion, how would you expect to find this feature on the website?
+- Are you satisfied with the method you used? Why or Why not?
+- What would have been your preference?
+
 
 ## Discover Pain Points - 10 minutes
 ### Screenshare
@@ -76,23 +77,27 @@ I am going to share my screen with you. Can you see the eBenefits website on you
   - Please explain how you would complete this step?
   - Can you verbalize some of your thoughts about the Privacy Act text?
     
+- VA Number
+  - Do you know your VA number?
+  - How would you prefere to look up the number? 
 - Search for Representative
   - Please give me your thoughts about this step?
   - Please explain how you would complete this step?
-  - Please give me a few ways you would search for a Veteran?
-  - Did you know which attorney or VSO you wanted representing you before you began filling out the Power of Attorney form?
+  - Please give me a few ways you would search for a Represenative?
+  - Did you know which attorney/VSO you wanted representing you before you began filling out the Power of Attorney form?
       
 - Representative Table
   - Please give me your thoughts on this table?
   - Please explain how you would select a representative from the table?
-  - Is there additional information, outside of what's contained in this table, that you would need to choose a representative?
-  - Can you please rank the table headers from most important to least important?
+  - Is there additional information you would need inorder to choise a representative?
+  - Can you please rank the table headers from most important to least important? Why?
    
 ## Legal Understanding - 10 minutes
 - What are your thoughts on the length of this form? 
 - What method did you use to complete this form (paper vs technology)?
-- Did anyone assist you in filling out this form or were there any areas where you needed assistance filling out this form?
+- Were there any areas where you needed assistance filling out this form?
 - If you did require assistance, whom did you contact for help and what actions did that person take to assist you?
+- In your opinion, how would you expect to find this feature on the website?
 
 ## Payment History - 15 minutes
 We are going to change gears a bit and look at a different part of eBenefits. 
@@ -103,7 +108,7 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
 
 #### Accessing Payment History
 - Do you currently recieve payments from the VA?
-- How long have you been getting payments from the VA? ⭐
+- How long have you been getting payments from the VA? 
 - Take a look at my screen. What is your impression of what is going on here?
 - Have you ever seen this page before?
     - If so
@@ -113,7 +118,8 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
             - Why are you looking for a period of payments?
        - How often are you looking for a range of payments?
             - Why are you looking for a period of payments?
-        - Do you prefer to check your VA payment on your bank's website or the VA's website?
+        - How do you prefer to check your VA payment on your 
+             - bank's website or the VA's website?
         - How many banking accounts do you have? 
             - What types of accounts are those?
             - How many do you use to cash your VA payments?
@@ -131,7 +137,7 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
 
 #### Table Features and Attributes
 My next set of questions will be centered around the Payment Table features.
-- On average, how many payment items would you like to see displayed for you to complete your most common task(s) in this table?
+- On average, how many payment items would you like to see displayed? 
 - How would you search for a particular payment you're looking for?
     - Sort, filter, text input of fuzzy math, auto-complete suggestions, date range searches
 - Can you please rank the table headers from most import to least important? 
