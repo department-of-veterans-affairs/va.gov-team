@@ -2,7 +2,7 @@
 name: Offboarding request
 about: To inform the Platform team when a team VSP or VFS team member has left and needs offboarding. 
 title: Offboarding of [individual]
-labels: product support, operations, Offboarding
+labels: product support, operations, Offboarding, analytics-insights
 assignees: ''
 
 ---
