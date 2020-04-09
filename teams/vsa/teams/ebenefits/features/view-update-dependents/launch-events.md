@@ -14,22 +14,25 @@ Set a date and walk back the various steps.  This achieves a few things:
 ## Events  
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
+- DE: Refine content
 - BE/FE: connections made
 - FE: get a 200 response from BE
 - FE: e2e tests
 - FE: pre-QA smoke test
 - BE: refactor submission process
 - BE: submission tested
-- 508 Review
-- QA Review
+- PD: Request 508 Review
+- PD: Request QA Review
+- DE: Landing pages sent to Public Web
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
+- FE: Set up Flipper component on landing page
 - BE: e2e tests, error handling
-- BE/FE: code complete
+- BE/FE: v1 code complete
 - BE/FE: e2e and load testing with partner systems
 - PD: Stakeholder review/ demo
-- UAT/ UAT outcome PRs
+- UAT/ UAT outcome PRs 
 
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
