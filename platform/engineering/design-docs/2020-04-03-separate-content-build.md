@@ -3,7 +3,7 @@
 **Author(s):** Christopher Valarida  
 **Last Updated:** March 16 2020  
 **Status:** Draft | **In Review** | Approved  
-**Approvers:** Dror Matalon, Andrew Gunsch, Rian Fowler  
+**Approvers:** Dror Matalon, Andrew Gunsch [x], Rian Fowler [x]
 
 
 ## Table of Contents
@@ -171,9 +171,9 @@ The current front end build will be split up into two distinct builds:
 The output of both these builds will be deployed to a single S3 bucket with
 safeguards in place to ensure they don't override each other.
 
-**Another important note:** There is no way to coordinate these two deploys to
+**Another important note:** The deploy process will not automatically coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
-1. Verify the application assets are live in production
+1. Verify the application assets (js and css) are live in production
 1. Make the landing page live in production in the content build
     - Depending on the answer to [this
       question](#react-application-landing-pages), this may mean publishing the
@@ -220,7 +220,7 @@ To ensure that one build won't override files in the other, we'll have to
 1. Create a new deploy script for the content deployment which copies everything
    over _except_ the `/applications/` directory
 
-#### Testing changes to applications
+#### Creating temporary static pages for application testing
 - The Webpack configuration will use
   [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) to
   generate temporary landing pages for React applications
@@ -236,7 +236,7 @@ To ensure that one build won't override files in the other, we'll have to
     only the files in `/applications/`
 
 #### Miscellaneous
-- We need a separate content validation job that runs once a day on a schedule
+- Separating the content and application builds will require a standalone content validation job that runs outside of the CI pipeline- probably once a day on a schedule
   - **Question:** How will we validate links to `vets-website` assets?
   - **Question:** Where will this job be run? Jenkins? Nomad? Circle?
 - The application build will be responsible for creating the `settings.js`
