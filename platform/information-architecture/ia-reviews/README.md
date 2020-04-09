@@ -4,9 +4,9 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
-eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24
-eBenefits | Payment History | NOT STARTED | Kick-off held 3/19
-BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12
+eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
+eBenefits | Payment History | NOT STARTED | Kick-off held 3/19 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
+BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
 Facilities | Left Nav Redesign | NOT STARTED | Kick-off held 3/19, Usability prep 3/24 Likely won't be IA work to do, just informed, will review in staging.
 BAM 1 | Benefits Delivery at Discharge | IN PROGRESS | Usability prep feedback given, waiting research results https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Public Websites | Decision Review IA Improvements | IN PROGRESS | IA mostly complete, waiting responses to open questions https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-decision-reviews.md
