@@ -28,6 +28,17 @@
 
 ---
 
+#### Information architecture & naming
+
+| Page | Title (H1) | Breadcrumbs | URL |
+| :--- | :--- | :--- | :--- |
+| View/change dependents landing page | View or change dependents on your VA disability benefits | Home › View or change your dependents | www.va.gov/view-change-dependents |
+| View dependents tool page | Your VA dependents | Home › View or change your dependents › View your dependents | www.va.gov/view-change-dependents/view |
+| VA Forms 21-686c/21-674 intro page | Add or remove dependents from your VA benefits | Home › View or change your dependents › Add or remove dependents Form 21-686c | www.va.gov/view-change-dependents |
+| VA Forms 21-686c/21-674 form screens | Add or remove dependents from your VA benefits |  Home ›  View or change your dependents › Add or remove dependents Form 21-686c | www.va.gov/view-change-dependents + [screen URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/686-workflow-urls.md) |
+
+---
+
 ### Discovery
 [Rainbows Team discovery & research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/rainbows-team-686-analysis)
 
