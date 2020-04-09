@@ -46,12 +46,11 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: 04/22/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md] Planning to hold this meeting with Education Services + DEPO representative + OIT on 04/20/2020
 
 ### 1-week results:
 - Number of unique users: x
