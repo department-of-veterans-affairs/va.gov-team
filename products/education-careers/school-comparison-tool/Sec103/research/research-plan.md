@@ -21,7 +21,7 @@ An indicator of Section 103 compliance was added under the Institution Summary s
  - Is the modal an effective way of conveying Section 103 information?
  - Do users understand and know how to comply with the school's requirements for Section 103 protection?
  - How usable is the Section 103 functionality for individuals who use screen readers?
- - What, if any, interest do individuals have in "learning more" about Section 103 / Transition Act?
+ - What, if any, interest do individuals have in "learning more" about Transition Act / Sec. 103?
 
 4. Hypothesis: What is your hypothesis for this research? 
  - When users find the Section 103 control, the content will effectively communicate the issue of delayed VA payments and its resolution.
