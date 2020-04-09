@@ -6,9 +6,7 @@
 
 **Background/Context:**  The AMA is in full effect as of Feb 19, 2020.  The team wants to improve the findability of Decision Reviews content, as well as the UX for navigating the current content.  The legacy appeals process will also need to be incorporated. 
 
-**Review Date:** 
-
-**IA Review Issue:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/6920
 
 <hr>
 
@@ -115,3 +113,9 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Additional Notes/Recommendations
+
+**4/9/2020 - Staging Review**
+- Issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/7521
+- left nav not appearing on several pages, my access to staging on CAG not working...will review when left nav is corrected
+
+
