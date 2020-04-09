@@ -1,5 +1,5 @@
 #Download file to your local
-#Generate a new Zenhub API Token from your personal Zenhub profile 
+#Generate a new Zenhub API Token from your personal Zenhub profile - https://app.zenhub.com/dashboard/tokens
 #Confirm you have ruby installed by running the following in your terminal: > ruby -v
 #Generate the sprint issues list by running the following in your terminal: > ruby sprint-report.rb
 require 'net/http'
