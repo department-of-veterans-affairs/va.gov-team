@@ -45,3 +45,6 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 - Will the order history capability be part of this phase of work?
   - Not part of initial phase
   - Need to discuss how to approach IA with this still in mind or whether it is deferred for the longer term
+  
+ - Pre-usability feedback issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/6499
+   - There is no IA feedback at this point, so an IA specific feedback issue was not created. 
