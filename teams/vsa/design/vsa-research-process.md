@@ -111,11 +111,10 @@ The following process is recommended by the VSA Design Lead:
     * On the right side of the [Mural template](https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4), there is a Top Observation section, which is handy during the debrief sessions.  A benefit of this is team cohesion and getting folks interested in the research
     * Use the Top Observation section to capture what your observers feel sticks out from each session. There is no need to get a thorough synthesis at this stage.
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
-   * An example topline summary can be found [here](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f)
+* A template for your topline summary [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md)
+   * Examples: [Caregiver summary](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit) and [Facility Locator Search summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/topline-summary.md) 
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
-   * A template for your topline summary [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md)
-   * Examples: [Caregiver summary](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit) and [Facility Locator Search summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/topline-summary.md) 
 4. Synthesize your research. 
    * To quickly synthesize, go through all the notes files and recordings files as needed and flesh out your topline summary in the following way:
       * Grab quotes to support your themes
