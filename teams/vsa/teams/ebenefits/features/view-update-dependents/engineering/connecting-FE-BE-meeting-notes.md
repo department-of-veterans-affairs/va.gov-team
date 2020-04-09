@@ -13,28 +13,30 @@
     "va_file_number": "123VAFileNumber",
     "service_number": "123service_number",
     "date_of_birth": "1970-01-01",
+    "phone": "1112223334",
+    "email_address": "foo@foo.com",
     "address": {
-      "country": "united states",
+      "country": "USA",
       "line_one": "8200 Doby Ln",
       "line_two": "",
       "line_three": "",
       "city": "PASADENA",
       "state": "MD",
-      "postal_code": "67201",
-      "phone": "1112223333",
-      "email_address": "foo@foo.com"
+      "postal_code": "67201"
     },
     "spouse": {
+      "type": "Spouse",
       "first_name": "CurrentSpouseFirstName",
       "middle_name": "CurrentSpouseMiddleName",
       "last_name": "CurrentSpouseLastName",
       "suffix": "",
       "ssn": "796104437",
+      "phone": "1112223333",
       "date_of_birth": "1970-01-01",
       "veteran_status": false,
       "reason_for_separation": "",
       "address": {},
-      "marraige": {
+      "marriage": {
         "date": "1990-01-01",
         "state": "MD",
         "city": "PASADENA",
@@ -76,6 +78,7 @@
     ],
     "dependents": [
       {
+        "type": "Child",
         "first_name": "Mia",
         "middle_name": "MiddleName",
         "last_name": "Webster",
@@ -85,11 +88,16 @@
         "state_of_birth": "MD",
         "city_of_birth": "PASADENA",
         "status": "biological",
+        "phone": "1112223333",
         "living_with_veteran": true,
         "step_child_date": "",
-        "attendingSchool": true
+        "attendingSchool": true,
+        "school_info": {
+          "graduation_date": "2022-04-09T13:26:32Z"
+        }
       },
       {
+        "type": "Child",
         "first_name": "Randall",
         "middle_name": "MiddleName",
         "last_name": "Webster",
@@ -99,9 +107,10 @@
         "state_of_birth": "MD",
         "city_of_birth": "PASADENA",
         "status": "biological",
+        "phone": "1112223333",
         "living_with_veteran": true,
         "step_child_date": "",
-        "attendingSchool": false
+        "attending_school": false
       }
     ]
   }
