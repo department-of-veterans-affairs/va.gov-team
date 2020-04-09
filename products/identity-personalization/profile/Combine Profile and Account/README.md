@@ -1,4 +1,4 @@
-# Product Outline: Combine Profile and Account
+# Product Outline: Combine Profile and Account (Profile 2.0)
 
 ## Communications
 
@@ -115,10 +115,6 @@ As the authenticated experience team, we want to be able to do the following:
 ### Out of Scope
 
 1. Adding any new features to the combined Profile/Account that aren't already in development.  
-
-## Constraints
-
-(Needs updating)
 
 ## Solution Approach
 
