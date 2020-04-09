@@ -560,6 +560,7 @@ Logged in homepage
 
 1. Profile 2.0: Content review; IA plan and review
 2. Profile 2.0: Continue build; implement updates from usability testing
+3. Profile 2.0: Analytics planning
 
 Logged in homepage
 
@@ -572,6 +573,8 @@ Logged in homepage
 - Content/IA - IA review (VSP cycle)
 - Build - Continue build
 - Build - Implement updates from user testing
+- Analytics - Revisit KPIs and make sure they are updated in the product outline
+- Analytics - Put together plan for how we want analytics set up
 
 ----------------
 
