@@ -271,7 +271,6 @@ Todo: Wrap each page object in a wrapper object to give context
 
 Country needs to be just a letter code
 
-### What are the known limitations for the BE (if any)?
+### questions
 
-
-### What are the known limitations for the FE (if any)?
+In the workflow for add spouse there is a section of the veteranMarriageHistory, the marriage history itself is inside an array but the marriage history along with the question of if the veteran was married before is not wrapped in an object, is this ok for BE?
