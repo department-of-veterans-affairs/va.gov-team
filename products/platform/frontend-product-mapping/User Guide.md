@@ -19,13 +19,14 @@ The mapping document is Located [here](http://grafana.vfs.va.gov/d/zGUbwGLWz/fro
 
 ## Using the Grafana Board
 
-### Step 1
+### Step 1 (Yellow Boxes)
 1) Select the Environment
 2) Select the Time Frame
 
-### Step 2
+### Step 2 (Green Boxes)
 1) Select the specific application and view endpoints
 
+![Grafana Board](https://user-images.githubusercontent.com/52047369/78937754-dca04d00-7a65-11ea-86b5-4b977923bd85.png)
 
 ## Future Improvements (in coming releases)
 - Improve the accuracy of the mapping to vets-api from front end applications
