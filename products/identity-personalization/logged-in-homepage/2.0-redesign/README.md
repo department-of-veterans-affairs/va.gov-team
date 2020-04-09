@@ -102,28 +102,6 @@ Additionally:
 5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
 6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
 
-## Assumptions
-
-## Questions
-
-## Discovery Takeaways
-
-- [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) — Last summer, we conducted research to validate moving forward with a logged-in homepage redesign.
-- Currently, we are undergoing a discovery phase geared more directly toward the homepage redesign. We'll link to those reports here as they're completed.
-
-## Requirements
-
-### Goals
-
-*From the Personalization 2.0 strategy from 2019*
-
-1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage.
-2. **Get users where they need to go** — We should balance bubbling up content with showing a succinct list of links to quickly route people to tools.
-3. **Elevate personally relevant information** — Users should see themselves in these updates.
-4. **Scale gracefully** — Our designs should allow for future updates and expansion. 
-5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
-6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
-
 ### In Scope 
 
 ### Out of Scope
