@@ -19,6 +19,8 @@ _April 8 - April 21_
 - FE: pre-QA smoke test
 - BE: refactor submission process
 - BE: submission tested
+- 508 Review
+- QA Review
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
