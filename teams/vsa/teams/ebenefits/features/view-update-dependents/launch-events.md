@@ -15,6 +15,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - BE/FE: connections made
+- FE: get a 200 response from BE
 - FE: e2e tests
 - FE: pre-QA smoke test
 - BE: refactor submission process
