@@ -86,8 +86,14 @@ Additionally:
 - People are reliant on the top 20 tasks on the homepage to navigate the site, and we should be mindful of this as we approach a redesign.
 - Status update/alert information is hard to find on My VA.
 - The logged-in homepage doesn't need to be too widget heavy. It needs to primarily serve as a router and a place to see status updates. Only a few widgets — upcoming appointments, your VAMC, etc — are necessary.
+- This is a risky project, as the logged-in homepage could easily become a dumping ground or fought-after real estate by VA stakeholders
+- This work, from a wayfinding/UX perspective, will be more successful if we accompany it with an authenticated tools menu/nav, but that may not necessarily be part of V1 of this project.
 
 ## Questions
+
+1. What needs to appear as a widget vs. just a link on the new logged in homepage?
+2. How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
+3. Do things like "Your dependents", "Your disability rating", and other tools need to live on the new logged-in homepage, or should they actually live in the VA.gov profile? 
 
 ## Discovery Takeaways
 
