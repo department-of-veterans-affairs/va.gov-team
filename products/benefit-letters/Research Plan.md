@@ -1,4 +1,4 @@
-# Research Plan for IAM with eBenefits
+# Research Plan for IAM with eBenefits (which will verify access to Letters on eBenefits)
 As a product owner, I need to create a research plan to share with my team.	
 ## Goals	
 1. What product & team are you doing this research for?	Benefits & Memorials 1 and eBenefits
