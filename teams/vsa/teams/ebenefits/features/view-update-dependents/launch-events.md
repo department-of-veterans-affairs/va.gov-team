@@ -9,7 +9,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 4. Should assist in ticket creation  
 ## Assumptions  
 **Launch to prod:** May 6, 2020  
-**Number of work days:** 27   
+**Number of work days:** 27 from today   
 **Number of sprints:** 2   
 ## Events  
 ### Sprint 19 (T-28)  
