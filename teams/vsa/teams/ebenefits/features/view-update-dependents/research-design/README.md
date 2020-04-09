@@ -1,5 +1,5 @@
-# View/Update Dependents research & design
-**VSA eBenefits Team | March 2020**
+# View, Add & Update Dependents research & design
+**VSA eBenefits Team | March-April 2020**
 
 `James Adams, designer`
 
