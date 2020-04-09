@@ -2,14 +2,16 @@
 `WIP`
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
-- Old links: 
+- Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)): 
   - [View Dependents - http://www.ebenefits.va.gov/ebenefits/dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
   - [Update Dependents - http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
 - Staging links: 
   - [View dependents](https://staging.va.gov/disability/view-dependents/)
   - [Add or change dependents](https://staging.va.gov/disability-benefits/new-686/) WIP link, to be updated
-- va.gov link: tbd
-- [Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)  
+- VA.gov link: 
+  - [Static landing page for dependents](https://www.va.gov/view-change-dependents)
+  - [View dependents](https://www.va.gov/view-change-dependents/view)
+  - [Add or change dependent](www.va.gov/view-change-dependents/add-remove-form-686c/)
 - [Current Mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Table of Contents
