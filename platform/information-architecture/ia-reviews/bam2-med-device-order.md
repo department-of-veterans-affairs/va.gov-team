@@ -41,6 +41,9 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 
 ### Meeting Notes
 
+**Early collab discussion**
+- Provided draft content structure to team to aid in refining design and prototype. Will complete final IA review once research and designs are complete. https://app.moqups.com/Rnc4BDEKrA/view/page/a523fd3f0 
+
 **4/1/2020 - Pre-usability Collab**
 - Will the order history capability be part of this phase of work?
   - Not part of initial phase
