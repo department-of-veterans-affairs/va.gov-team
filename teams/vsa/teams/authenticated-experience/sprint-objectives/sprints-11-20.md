@@ -515,11 +515,9 @@ If there's not a bunch of overflow from sprint 17, Tressa may have bandwidth to 
 
 ### Order of priorities
 
-1. Profile 2.0: Conduct sessions and summarize research
-  - If time, start on content review/IA work
-2. Profile 2.0: Build continues
-3. Address validation: Final tickets
-4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+1. Address validation: Final tickets
+2. Profile 2.0: Conduct sessions and summarize research (If time, start on content review/IA work)
+3. Profile 2.0: Build continues
 
 Logged in homepage
 
@@ -529,36 +527,32 @@ Logged in homepage
 4. (Samara) Product outline
 
 ### Address validation
-
 - Change address update endpoint to use iso3 country code #6046
 - Stop using country name for VA profile contact information endpoint #5591
-- Follow up with veterans to see if this feature resolves their issues saving addresses #6012
-- [508 Office Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
-- Start investigation: What is causing the mailing and home address errors we are still seeing? #7532
+- Follow up with veterans to see if this feature resolves their issues saving addresses #6012 (Samara)
+- 508 Office Review #7735
 
 ### Profile 2.0
 
-Design
+#### PM
+- Profile 2.0 epic grooming/What comes next with profile 2.0? #7222
 
+#### Design
 - Conduct research sessions #2587
 - Create report and tickets #2588
-- If time, start on content review/IA work
 
-Dev
+(If time)
+- Determine if there is any other content/links that needs to be updated as part of Profile 2.0 #5528
+- Review Sign in FAQ for any links/content that need to be updated #5527
+- Review Change your address content page for any links/content that need to be updated #5524
+- Review My VA for any links/content that need to be updated #5522
+- Review Direct deposit content page for any links/content that need to be updated #5525
 
-- Build continues **What can we get done?**
-
-### Monitoring, maintenance, bug fixes, hardening, 508, etc.
-
-- Remove "Check out your new personalized homepage" footer banner #7535
-- Remove "Change your contact information..." modal that shows when users go to the profile #7537
-
-### Logged in homepage (Don't include in main AE team sprint objectives)
-
-- Finish conducting interviews #7089
-- Stakeholder synthesis #7090
-- Compile list of documents to review #7264
-- Review documents and document insights #7265
+#### Dev
+- Make reusable Profile 2.0 info table component #7554
+- Account security #5356
+- Create a new side-nav component #7256
+- Direct deposit #5355
 
 ## Sprint 20 (4/22 - 5/5)
 
@@ -574,14 +568,10 @@ Logged in homepage
 
 ### Profile 2.0
 
-Design
-
-- Prep for QA
-
-Dev
-
-- Finish build
-- Implement IA changes/updates
+- Content/IA - Tressa figuring out what URLs need to be updated/redirected
+- Content/IA - IA review (VSP cycle)
+- Build - Continue build
+- Build - Implement updates from user testing
 
 ----------------
 
