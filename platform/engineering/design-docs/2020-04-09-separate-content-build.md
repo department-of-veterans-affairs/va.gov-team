@@ -1,9 +1,9 @@
 # Separate Content Build
 
 **Author(s):** Christopher Valarida  
-**Last Updated:** March 16 2020  
-**Status:** Draft | **In Review** | Approved  
-**Approvers:** Dror Matalon, Andrew Gunsch [x], Rian Fowler [x]
+**Last Updated:** April 9 2020  
+**Status:** Draft | In Review | **Approved**  
+**Approvers:** Dror Matalon [x], Andrew Gunsch [x], Rian Fowler [x]
 
 
 ## Table of Contents
@@ -495,4 +495,4 @@ There are a few challenges that multiple buckets present.
 ### Revision History
 Date | Revisions Made | Author
 -----|----------------|--------
-Mar ??, 2020 | Initial draft | Christopher Valarida
+Apr 9, 2020 | Initial draft | Christopher Valarida
