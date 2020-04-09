@@ -1,4 +1,4 @@
-_Quick reference to other features' launch events:_ [686](https://#), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)  
+_Quick reference to other features' launch events:_ [686](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/launch-events.md), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)  
 # Launch Events
 `eBenefits | April 2020`
 ## Considerations
