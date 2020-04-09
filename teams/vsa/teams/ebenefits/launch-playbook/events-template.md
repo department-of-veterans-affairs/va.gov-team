@@ -2,7 +2,7 @@ _This should start out as a template and be configured for each feature as their
 
 _Quick reference to other features' launch events:_ [686](https://#), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)  
 # Launch Events
-`eBenefits | April 2020`
+`eBenefits | Month Year`
 ## Considerations
 Set a date and walk back the various steps.  This achieves a few things:
 1. Allows for more accurate estimation of the actual launch date, from various segments (sprint vs days)
