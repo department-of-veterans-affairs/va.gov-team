@@ -1,6 +1,6 @@
 _This should start out as a template and be configured for each feature as their requirments may be somewhat individualized/ unique._  
 
-_Quick reference:_ [686](https://#), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)
+_Quick reference to other features' launch events:_ [686](https://#), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)  
 # Launch Events
 `eBenefits | April 2020`
 ## Considerations
