@@ -3,11 +3,11 @@
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
 - Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)): 
-  - [View Dependents - http://www.ebenefits.va.gov/ebenefits/dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
-  - [Update Dependents - http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
+  - [View Dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
+  - [Update Dependents](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
 - Staging links: 
   - [View dependents](https://staging.va.gov/disability/view-dependents/)
-  - [Add or change dependents](https://staging.va.gov/disability-benefits/new-686/) WIP link, to be updated
+  - [Add or change dependents](https://staging.va.gov/disability-benefits/new-686/) _WIP link, to be updated_  
 - VA.gov link: 
   - [Static landing page for dependents](https://www.va.gov/view-change-dependents)
   - [View dependents](https://www.va.gov/view-change-dependents/view)
@@ -51,7 +51,7 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 
 ## User Problem Statement
 
-- I am a Veteran who needs to review and update information about my family and other dependents, so that my family can receive the benefits that I have earned. The paper forms are complicated and frustrating, and sending them off to the VA without any feedback makes me anxious that I might have done something wrong.
+I am a Veteran who needs to review and update information about my family and other dependents, so that my family can receive the benefits that I have earned. The paper forms are complicated and frustrating, and sending them off to the VA without any feedback makes me anxious that I might have done something wrong.
 
 ## Solution Goals
 
