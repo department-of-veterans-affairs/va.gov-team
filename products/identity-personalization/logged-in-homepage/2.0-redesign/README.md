@@ -82,6 +82,11 @@ Additionally:
 
 ## Assumptions
 
+- People prefer the logged-in homepage to My VA. It's both more usable and more visually appealing.
+- People are reliant on the top 20 tasks on the homepage to navigate the site, and we should be mindful of this as we approach a redesign.
+- Status update/alert information is hard to find on My VA.
+- The logged-in homepage doesn't need to be too widget heavy. It needs to primarily serve as a router and a place to see status updates. Only a few widgets — upcoming appointments, your VAMC, etc — are necessary.
+
 ## Questions
 
 ## Discovery Takeaways
