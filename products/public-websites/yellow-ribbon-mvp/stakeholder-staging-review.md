@@ -1,7 +1,7 @@
 # Stakeholder Staging Review
 
 ### Yellow Ribbon benefit page
-**not completed at time of review, skipped this**
+*not on staging at time of review, skipped this*
 
 Begin at the [Yellow Ribbon benefit page](https://staging.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 
