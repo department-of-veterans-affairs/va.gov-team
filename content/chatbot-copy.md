@@ -4,7 +4,7 @@
 
 [Good morning/Good afternoon/Good evening], [NAME].
 
-I'm here to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.
+I'm here as VA's virtual assistant to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.
 
 **If you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
 - Trouble breathing
@@ -14,7 +14,7 @@ I'm here to help answer your questions about the coronavirus COVID-19 and VA ben
 - Inability to arouse (trouble waking up or staying awake)
 
 _COMMENTS FOR THIS SCREEN:_ 
-1. Incorporated Ramya's research around personalized/time-sensitive greeting, if possible. I did a little reading around whether or not to "name" the chatbot. An [interesting article](https://techcrunch.com/2017/01/07/on-bots-language-and-making-technology-disappear/) noted that it can be annoying and disruptive to users, and I think that may be true specifically in this kind of situation where we're dealing with very serious, critical info. So I'm thinking maybe just, "I'm here as VA's virtua assistant..." or even more simply, "I'm here to answer your questions..."
+1. Incorporated Ramya's research around personalized/time-sensitive greeting, if possible. I did a little reading around whether or not to "name" the chatbot. An [interesting article](https://techcrunch.com/2017/01/07/on-bots-language-and-making-technology-disappear/) noted that it can be annoying and disruptive to users, and I think that may be true specifically in this kind of situation where we're dealing with very serious, critical info. So I'm thinking maybe just, "I'm here as VA's virtual assistant..." or even more simply, "I'm here to answer your questions..." Thoughts?
 2. One question I have around timing-based greeting: Will the bot be able to know the user's time zone?
 3. Ramya's research noted that the intro should include how the user will interact with the bot. As part of that, I think it would be good to offer the reassurance that the user can connect to a person if this doesn't work right up front. Thoughts?
 4. Do we need to add other info about how the user will interact with the bot, like how they'll choose topics and questions? My instinct is no, it will be self-explanatory in the experience, but would love others' thoughts.
