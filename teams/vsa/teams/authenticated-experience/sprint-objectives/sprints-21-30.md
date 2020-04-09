@@ -22,8 +22,7 @@ Profile 2.0
 - Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
 - QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
 - 508 - Request review of build
-- Analytics - Revisit KPIs and make sure they are updated in the product outline
-- Analytics - Put together plan for how we want analytics set up
+- Analytics - review (VSP cycle)
 
 Logged in homepage
 1. Conduct user research
@@ -36,7 +35,6 @@ Logged in homepage
 Profile 2.0
 
 - QA - Implement fixes/updates that came out of QA/508 audit
-- Analytics - review (VSP cycle)
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
 
