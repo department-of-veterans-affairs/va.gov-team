@@ -12,7 +12,9 @@ We understand the desire to DM someone you’ve worked with previously about a q
 
 ## Engineering Support
 
-If you are looking specifically for engineering support, you’ll still ask your question in  #vfs-platform-support but the developers that are on the support rotation are also listed in the description of that channel for Back End, Front End and Operations questions. 
+For engineering support, please post your question in #vfs-platform-support. If you know that you need specific support from Backend, Frontend, or Ops, you can `@mention` the developer for that team's current support rotation.
+
+The current support rotation developer is listed in the channel's description.
 
 ![](https://user-images.githubusercontent.com/769353/78387128-a8271f80-7593-11ea-87f1-f5ac05f3f15c.png)
 
