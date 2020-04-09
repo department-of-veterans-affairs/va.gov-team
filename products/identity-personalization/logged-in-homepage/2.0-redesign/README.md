@@ -43,16 +43,25 @@
 
 ## Overview
 
+At a high level, this project aims to do major things:
+
+1. Redesign the logged-in homepage so that it is a personalized experience. Currently, the homepage does not change when users are logged out or logged in.
+2. Retire the existing My VA dashboard in favor of a redesigned logged-in homepage.
+
 ## Problems
 
 Based on some [research we did last summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard), these are the main problems we've observed with regards to the My VA dashboard and the existing logged-in homepage.
 
-1. People don't use — or even know about — the My VA dashboard.
-2. We don't guide people to the My VA dashboard.
-3. The My VA dashboard is too duplicative of the homepage.
-4. People prefer the homepage over the My VA dashboard because it is a more effective router, and because it has a more appealing visual design.
-5. On My VA, we have not effectively employed [the design system](https://design.va.gov/). My VA is designed like a content page, so adding new content has made these pages extremely lenghty and hard to scan.
+- People don't use — or even know about — the My VA dashboard.
+- We don't guide people to the My VA dashboard.
+- The My VA dashboard is too duplicative of the homepage.
+- People prefer the homepage over the My VA dashboard because it is a more effective router, and because it has a more appealing visual design.
+- On My VA, we have not effectively employed [the design system](https://design.va.gov/). My VA is designed like a content page, so adding new content has made these pages extremely lenghty and hard to scan.
 
+Additionally:
+
+- Important content is burried on My VA. We have a lot of good status/"notification" content in there that is buried if you don't know what you are looking for.
+- The logged-in homepage isn't personalized at all, so when users log in, they may see links that no longer apply to their circumstances (eg. seeing an "Apply for health care" link if you're a person who already receives VA health care).
 
 ### User Problem Statement
 
