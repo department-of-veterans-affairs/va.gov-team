@@ -57,3 +57,5 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**Usability testing prep - 3/9/2020**
+- IA feedback issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/6692
