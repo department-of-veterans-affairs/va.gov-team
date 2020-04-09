@@ -6,12 +6,12 @@ Set a date and walk back the various steps.  This achieves a few things:
 1. Allows for more accurate estimation of the actual launch date, from various segments (sprint vs days)
 2. Sets the steps clearly and informs the team if there are any gaps that need to be addressed for either the current feature or the next
 3. A tangible reference for the team to synchronize on where we are and where we are headed
-4. Should assist in ticket creation
-## Assumptions
-**Launch to prod:** May 6, 2020 
-**Number of work days:** 27 
-**Number of sprints:** 2  
-## Events
+4. Should assist in ticket creation  
+## Assumptions  
+**Launch to prod:** May 6, 2020  
+**Number of work days:** 27   
+**Number of sprints:** 2   
+## Events  
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - BE/FE: connections made
