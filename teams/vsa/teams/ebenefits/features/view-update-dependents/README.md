@@ -14,9 +14,9 @@
   - [Add or change dependent](www.va.gov/view-change-dependents/add-remove-form-686c/)
 - [Current Mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
-### Table of Contents
+## Table of Contents
 
-# Executive Summary
+### Executive Summary
 - [Abstract](#abstract)
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
@@ -27,7 +27,7 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#okrs--kpis)
 
-# Implementation Information
+### Implementation Information
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [Team](#team)
