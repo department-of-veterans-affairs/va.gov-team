@@ -33,7 +33,7 @@ The Appeals Modernization Act (AMA) caused a shift from the old or legacy appeal
 
 # KPIs
 - [Pages off /decision-reviews/](https://analytics.google.com/analytics/web/?authuser=1#/my-reports/ncUMI3DKQ4WvjHvX80ybvg/a50123418w177519031p184624291/)
-- [PDF downloads off /decision-reviews/](https://analytics.google.com/analytics/web/?authuser=1#/my-reports/ncUMI3DKQ4WvjHvX80ybvg/a50123418w177519031p184624291/)
+- [PDF downloads off /decision-reviews/](https://analytics.google.com/analytics/web/?authuser=1#/report/content-event-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200331&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22%5EPDF%20Downloaded%22,0%5D%5D&_r.drilldown=analytics.pagePath:~2Fdecision-reviews~2Findex.html&explorer-segmentExplorer.segmentId=analytics.eventAction/)
 ________________________________________
 
 # Target Launch Date
