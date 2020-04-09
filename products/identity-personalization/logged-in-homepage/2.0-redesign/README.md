@@ -65,7 +65,42 @@ Additionally:
 
 ### User Problem Statement
 
+- **As a veteran, I want to be able to easily get to/see tools that apply to my specific circumstances at the VA when I log into VA.gov.**
+- **As a veteran, I want to be able to easily get to the tools I need to use when I log into VA.gov.**
+- **As a veteran, I want to easily be able to see status updates and alerts that require my attention when I log into VA.gov.**
+
 ### Business Goals
+
+- To lay a foundation for a personalized logged-in homepage for veterans that shows content/links that are relevant to their experience at the VA.
+- To lay a foundation for a logged-in homepage for veterans that can accomodate growth and modification over time without becoming quickly unwieldy or cluttered.
+- To lay a foundation for logged-in homepage that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
+- Have a place to link to/highlight new tools so that we don't have to bury tools in content hubs where veterans can't easily find them.
+- Have a place to highlight health care tools to show the potential/viability of consolidating MHV into VA.gov.
+- To lay the foundation for how to handle "internal" notifications on VA.gov by better highlighting status updates/action items for veterans.
+- To move the VA (outside of DEPO)further in the direction of builing/highlighting tools in one place instead of building one-off, silo'd tools.
+- To retire My VA.
+
+## Assumptions
+
+## Questions
+
+## Discovery Takeaways
+
+- [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) — Last summer, we conducted research to validate moving forward with a logged-in homepage redesign.
+- Currently, we are undergoing a discovery phase geared more directly toward the homepage redesign. We'll link to those reports here as they're completed.
+
+## Requirements
+
+### Goals
+
+*From the Personalization 2.0 strategy from 2019*
+
+1. **Reduce redundancy** — Specifically, we should reduce redundancy between the My VA dashboard and the VA.gov homepage.
+2. **Get users where they need to go** — We should balance bubbling up content with showing a succinct list of links to quickly route people to tools.
+3. **Elevate personally relevant information** — Users should see themselves in these updates.
+4. **Scale gracefully** — Our designs should allow for future updates and expansion. 
+5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
+6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
 
 ## Assumptions
 
