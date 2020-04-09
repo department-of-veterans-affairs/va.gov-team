@@ -54,7 +54,9 @@ An indicator of Section 103 compliance was added under the Institution Summary s
 1.	Timeline: What dates do you plan to do research? 	
  - April 21st - 23rd
  	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
+2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+ - Expecting work to be complete by April 15 or 16th
+ 
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
  - 45 minutes
  
@@ -68,6 +70,7 @@ An indicator of Section 103 compliance was added under the Institution Summary s
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 
 - Monday, April 20th
+- Team member: 
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -78,7 +81,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test:	
 - Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
 - Observers:	Brian Grubbs brian.grubbs@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla Vannieuker darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+	
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
