@@ -14,4 +14,6 @@ We understand the desire to DM someone you’ve worked with previously about a q
 
 If you are looking specifically for engineering support, you’ll still ask your question in  #vfs-platform-support but the developers that are on the support rotation are also listed in the description of that channel for Back End, Front End and Operations questions. 
 
+![](https://user-images.githubusercontent.com/769353/78387128-a8271f80-7593-11ea-87f1-f5ac05f3f15c.png)
+
 Please do not DM an engineer that you have worked with previously when you have questions but instead post them in the #vfs-platform-support channel. 
