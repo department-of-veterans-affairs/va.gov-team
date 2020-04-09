@@ -16,16 +16,16 @@ Set a date and walk back the various steps.  This achieves a few things:
 _April 8 - April 21_  
 - BE/FE: connections made
 - FE: e2e tests
-- FE: Pre-QA smoke test
-- BE: Refactor submission process
-- BE: Submission tested
+- FE: pre-QA smoke test
+- BE: refactor submission process
+- BE: submission tested
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
 - BE: e2e tests, error handling
-- BE/FE: Code complete
-- Stakeholder review/ demo
-- e2e and load testing with partner systems
+- BE/FE: code complete
+- BE/FE: e2e and load testing with partner systems
+- PD: Stakeholder review/ demo
 - UAT/ UAT outcome PRs
 
 ### Launch Sprint 21 (T)
