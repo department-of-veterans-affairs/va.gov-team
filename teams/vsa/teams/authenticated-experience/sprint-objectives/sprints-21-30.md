@@ -15,11 +15,17 @@
 
 ### Order of priorities
 
-1. Profile 2.0 QA & 508 review
-2. Profile 2.0: Outline release plan
+Profile 2.0
+
+- Build - Finish build
+- Build - Implement any content updates/URL redirects/New URLs
+- Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
+- Analytics - Revisit KPIs and make sure they are updated in the product outline
+- Analytics - Put together plan for how we want analytics set up
 
 Logged in homepage
-
 1. Conduct user research
 2. Comparative analysis
 
@@ -27,9 +33,12 @@ Logged in homepage
 
 ### Order of priorities
 
-1. Profile 2.0: Implement fixes from QA/508
-2. Profile 2.0: Prep for UAT
-3. Profile 2.0: Pre-launch checklist — Analytics, call center guide, security/privacy/production readiness reviews
+Profile 2.0
+
+- QA - Implement fixes/updates that came out of QA/508 audit
+- Analytics - review (VSP cycle)
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
 
 Logged in homepage
 
@@ -40,9 +49,14 @@ Logged in homepage
 
 ### Order of priorities
 
-1. Profile 2.0: E2E testing; Load testing (do we need to do this again for the profile?)
-2. Profile 2.0: Make sure all launch is updated
-3. Profile 2.0: Continue on pre-launch items
+Profile 2.0
+
+- Call center - Prep guide
+- Call center - Prep video
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
+- Pre-launch - Put together release plan
+- UAT - Plan for UAT
 
 Logged-in homepage
 
@@ -53,26 +67,46 @@ Logged-in homepage
 
 ### Order of priorities
 
-1. Profile 2.0: UAT
-2. Profile 2.0: Work with comms team
+Profile 2.0
+
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 ## Sprint 25 (7/1 – 7/14)
 
 ### Order of priorities
 
-1. Profile 2.0: Go/No-go
-2. Profile 2.0: Begin phased launch
+Profile 2.0
+
+- UAT - Recruiting
+- Pre-launch - Go/No-go
+- Launch - Initial launch to UAT users
 
 ## Sprint 26 (7/15 – 7/28)
 
 ### Order of priorities
 
-1. Profile 2.0: Continue phased launch/launch to 100%
+Profile 2.0
+
+- UAT - Conduct sessions
+- UAT - Fix bugs (if necessary)
+- Launch - Ramp up phased launch
 
 ## Sprint 27 (7/29 – 8/11)
 
+Profile 2.0
+
+- Post-launch - Full Accessibility and 508 Office Audit (VSP cycle)
+
 ## Sprint 28 (8/12 – 8/25)
+
+Profile 2.0
 
 ## Sprint 29 (8/26 – 9/8)
 
+Profile 2.0
+
 ## Sprint 30 (9/9 – 9/22)
+
+Profile 2.0
