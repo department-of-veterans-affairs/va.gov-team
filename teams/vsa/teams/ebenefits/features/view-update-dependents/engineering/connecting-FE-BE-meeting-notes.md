@@ -1,9 +1,9 @@
 ## FE & BE meeting Agenda topics
 
-### What is the most ideal data structure for the BE?
+### What is the current data structure being used by the BE?
 
 
-### What is the most ideal data structure for the FE?
+### What is the current data structure being created by the FE?
 
 Each "page" in each workflow comes through as a separate JSON object, for instance the veteran information and the veteran address are two separate pages so they come through as two separate JSON objects, is this ok for BE?
 
