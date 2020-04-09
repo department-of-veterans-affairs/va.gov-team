@@ -118,7 +118,7 @@ Task 2: Review Content screen & navigate to the form
 
 I'm going to paste a new link into the Zoom chat. This link will be a prototype, so some areas will be clickable while others are not.
 
-*(Paste Invision link into Zoom chat) (TBD)*
+*(Paste Invision link into Zoom chat) https://vsateams.invisionapp.com/share/4FWT41FGQKR*
 
 Take a moment to look over this page.
 
