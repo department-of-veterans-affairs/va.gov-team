@@ -575,6 +575,7 @@ Logged in homepage
 - Build - Implement updates from user testing
 - Analytics - Revisit KPIs and make sure they are updated in the product outline
 - Analytics - Put together plan for how we want analytics set up
+- Analytics - Submit request for review
 
 ----------------
 
