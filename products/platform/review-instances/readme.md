@@ -30,7 +30,7 @@ Review Instances currently are a shared responsibility by the FE/ BE Tools and O
 - Review instances are connected to pre production live backends. 
 ---
 ### Release v1.5
-- Review Instances are pointed to staging.
+- Review Instances are pointed at staging.
 ---
 ### Release v1.0
 - Review instances are able to provide mock backend data for testing.
