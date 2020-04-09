@@ -4,7 +4,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 ## Current Reviews
 
-Team | Project | Review Status | IA Documentation 
+Team | Project | Review Status | Status Notes 
 --- | --- | --- | --- 
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 eBenefits | Payment History | NOT STARTED | Kick-off held 3/19 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
