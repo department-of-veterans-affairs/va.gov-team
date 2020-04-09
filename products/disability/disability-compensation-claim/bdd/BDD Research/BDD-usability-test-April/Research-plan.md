@@ -1,14 +1,12 @@
-<h1 id="toc_0">Research Plan Benefits Delivery at Discharge (BDD) (Usability test 1 of 2)</h1>
+<h1 id="toc_0">Research Plan for Benefits Delivery at Discharge (BDD) (Usability test 2)</h1>
 
-<p>VSA B&amp;M1 Team, BDD, Christian Valla, February 2020</p>
+<p>VSA B&amp;M1 Team, BDD, Christian Valla, April 2020</p>
 
 <h2 id="toc_1">Background</h2>
 
-<p>This is part 1 of 2 for the BDD research process. </p>
+<p>This is part 2 of 2 for the BDD research process. </p>
 
-<p>-Part 1 will be an interview about previous BDD experiences + usability testing of an Invision prototype of the BDD flow. </p>
-
-<p>-Part 2 will be a usability test of the finished BDD flow in Staging. </p>
+<p>-This will be a usability test of the BDD flow in Staging. </p>
 
 <p>Service members (SM) who are separating and plan to file for disability can file their claim before separation. This is done through the Veterans Affairs (VA) Benefits Delivery at Discharge (BDD) program. This program allows Service members to apply for VA disability compensation benefits prior to separation. Claims must be filed between 180 to 90 days prior to separation. </p>
 
@@ -20,9 +18,7 @@
 
 <p>How do Service Members (SM) experience this process? </p>
 
-<p>How is the process perceived, including: the workload, the timelines/deadlines, the complexity of the process, the pain points, the need for support/info?</p>
-
-<p>To understand if the initial online BDD prototype works for users and matches their expectations.</p>
+<p>To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
 
 <h2 id="toc_3">Method</h2>
 
@@ -30,7 +26,7 @@
 
 <p>We will be conducting remote, moderated usability studies.</p>
 
-<p>The first interview round will also include a 10-15 min section about their former BDD experiences.</p>
+<p>The first interview round will also include a 10 min section about their former BDD experiences.</p>
 
 <p>We will use Zoom to conduct these sessions.</p>
 
