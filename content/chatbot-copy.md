@@ -220,15 +220,13 @@ If you have specific questions, you can contact the Education Call Center toll-f
 
 #### 31. Are VA regional offices closed? 
 
-Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits, following current CDC guidelines to prevent community spread.
+Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits, following current CDC guidelines to prevent community spread. But we can still support you with educational counseling, claims information, and other services by phone or approved video conferencing tools. 
 
-Our regional office staff are still available by phone and by video conferencing tools like VA Video Connect (or other approved video meeting tools). We’re continuing to support services like educational counseling, collecting information for fiduciary claims, and other assistance by phone or video.
+**To get help or request a video appointment,** call us at 800-827-1000. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-To call your regional office for help with benefits or to request a video appointment, call 800-827-1000 toll-free.
+**To check on the status of your claim or appeal,** use our online claim status tool.
 
-To check on the status of your claim or appeal, use our online claim status tool.
-
-For other benefit questions, you can also send your question to our online customer service tool called IRIS (Inquiry Routing & Information System). 
+**For other benefit questions,** send a question to our online customer service tool called IRIS (Inquiry Routing & Information System). 
 
 #### 32. How can I stay updated on regional office closures or service interruptions? 
 
@@ -247,11 +245,48 @@ Call us toll-free at 800-827-1000. Our regional office staff are still providing
 
 ------
 
-## 34. Did this answer your question?
+## 34. Do you need more information?
 
 ------
 
 ## 35. For more information
+
+Here are the best ways to get more information on specific topics.
+
+##### Health care, appointments, and prescriptions
+
+**VA health care appointments**
+[Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+
+**Local VA health facility hours, services, and safety measures** 
+Check your facility's website for the latest updates. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+##### Benefits and claims
+
+**VA claim or appeal status**
+[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+
+**Benefit payments**
+[View your benefit payments online](https://www.va.gov/va-payment-history/)
+
+**Video appointment requests related to benefit claims or services**
+Call our VA call center at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+**Debt related to VA benefits**
+Call the VA Debt Management Center at 800-827-0648, Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+
+**Education benefits**
+Contact the Education Call Center toll-free at 888-442-4551, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+
+[Or use our online customer service center](https://iris.custhelp.va.gov/)
+ 
+_need to add mental health services_
+
+
+
+
+
 
 ------
 
