@@ -3,7 +3,7 @@
 
 - Auth
 - beta-enrollment
-- burials
+- [burials](./#burials)
 - caregivers
 - claims-status
 - disability-benefits
@@ -39,8 +39,16 @@
 
 These are the forms apps (and their listed dependencies) that use downtime notifications by setting the `downtime` property on their form config.
 
-- burials
-  - dependencies: `icmhs` (Intake, conversion, & mail handling services)
+### burials
+
+**dependencies** 
+- `icmhs` (Intake, conversion, & mail handling services)
+
+#### Endpoints
+
+- GET `/burial_claims/[GUID]`
+- POST `/burial_claims`
+
 - disability-benefits/all-claims
   - dependencies: `evss`, `emis`, `mvi` (Master Veteran Index), `vet360` 
 - disability-benefits/686
