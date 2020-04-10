@@ -69,8 +69,8 @@ _To be filled out by Discovery Sprint Team._
     * _Note: Veterans are able to negotiate different payment plans with the DMC if need be._
   * If a Veteran does not have a benefit to offset (Inactive Debtor), three letters will be sent ot the Veteran:
     * 100 - Informs the Veteran of the debt and repayment information
-    * 117 - 30 days after, a reminder 
-    * 123 - 30 days after, an overview of the next steps of the debt (i.e. being sent to Treasury, credit bureaus)
+    * 117 - 30 days after 100, a reminder 
+    * 123 - 60 days after 117, an overview of the next steps of the debt if not repaid within 30 days (i.e. being sent to Treasury, credit bureaus)
   * If a Veteran's debt increases, they recieve another letter (130)
 * The DMC tries to recoup the debt for 120 days before:
   * The debt must be reported to credit bureaus, causing a credit score decrease for the Veteran
@@ -86,9 +86,12 @@ _To be filled out by Discovery Sprint Team._
 
 ##### Technical Side:
 * Can letters be categorized and put into the correct sequence?
+* Can status of payments be determined and when can that be displayed?
 * Does PDF preview exist?
 
 ##### Veteran Side:
+* Do Veterans expect to be able to find debt letters online?
+* Where do Veterans expect to find debt letters online?
 * Why do Veterans seek out historical letters online?
 * What sort of goals do Veterans have when seeking historical letters?
 * What are Veteran's perspectives on:
@@ -103,9 +106,10 @@ _To be filled out by Discovery Sprint Team._
 Now:
 * In-depth key stakeholder interviews
 * Call center interviews
+* Discussions with Authenticated Experience team
 
 Later:
-* Interviews at the beginning of each usability session
+* Generative interviews at the beginning of each usability session
 
 #### What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Any Veteran who has incurred a debt with the VA
@@ -114,6 +118,7 @@ Later:
 **Now:**
 * Stakeholders (list TBD)
 * Call center folks who deal with debt
+* Authenticated Experience team members
 
 **Later:**
 * Veterans who have debts with the VA (a mixture of inactive and active debtors)
@@ -137,10 +142,10 @@ See also: [sample discovery sprint schedule](https://github.com/department-of-ve
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
-  * Discovery Prep: Sprint 20 (4/8/20 - 4/14/20)
-  * Discovery (ideally 1-2 weeks): Sprint 21 (4/15/20 - 4/28/20)
-  * User Research: Sprint 2
-  * Complete & Readout: 
+  * Discovery Prep: Sprint 20 (4/8/20 - 4/21/20)
+  * Discovery (ideally 1-2 weeks): Sprint 21 (4/22/20 - 5/6/20)
+  * User Research: - 
+  * Complete & Readout: 5/5
 
 ## Upon Completion
 _To be filled out by the sprint team._
