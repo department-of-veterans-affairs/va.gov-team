@@ -74,6 +74,12 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 1. Sunset EBN
 2. Increase CH36 applications
 
+### KPIs
+- Discoverability
+- Number of online submissions
+
+## Go-to-Market
+- Comms isn't controlled by this team but discoverability may be a lever to pull
 
 ---
 
