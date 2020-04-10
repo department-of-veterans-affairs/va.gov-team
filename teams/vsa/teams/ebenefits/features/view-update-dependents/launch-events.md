@@ -15,7 +15,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of work days:** 27 from today   
 **Number of sprints:** 2   
 
-🌀 = Collab Cycle Meeting  
+🌀 = Collaboration Cycle
 
 ## Events  
 ### Sprint 19 (T-28)  
