@@ -45,6 +45,7 @@ _April 22 - May 5_
 - FE: Confirm Sentry access, enter utility code
 - 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
 - PD: Stakeholder review/ demo
+- PD: Coordinate with VA comms
 
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
