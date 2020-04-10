@@ -13,7 +13,7 @@ Welcome to the design sprint for performance analytics! Here are some things to 
 - [Metrics as Features](https://docs.google.com/presentation/d/1-6lS9XJ6GuK2QICVEjD1BdhPj8E8paNhB6KjDVwVCG8/edit#slide=id.g7555e84c9b_0_149)
 
 ## Current Tooling Sources
-- [VSP Tools Teams Analytics]()
+- [VSP Tools Teams Analytics](https://docs.google.com/document/d/1x-KKPELAPdADoJfgIZdpUguDmatmLgf8wb1pdsFKKrw/edit#heading=h.42yqnt7rj1tv) - Needs to be updated with synthesis
 
 ## General Resources about Design Sprints
 - [Google Ventures - Design Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md)
