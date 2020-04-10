@@ -30,8 +30,8 @@
 - [KPIs](#kpis)
 
 # Implementation Information
-- [Discovery Takeaways](#discovery-takeaways)
 - [Solution Narrative](#solution-narrative)
+- [Discovery Takeaways](#discovery-takeaways)
 - [Development](#development)
 - [Design](#design)
 
