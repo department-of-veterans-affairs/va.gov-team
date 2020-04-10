@@ -27,7 +27,7 @@ _April 8 - April 21_
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
-- FE: Set up Flipper component on landing page
+- FE: Set up and test Flipper component on landing page
 - BE: e2e tests, error handling
 - BE/FE: v1 code complete
 - BE/FE: e2e and load testing with partner systems
