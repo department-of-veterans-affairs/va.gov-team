@@ -35,10 +35,19 @@
 
 ## Forms apps
 
-These are the forms apps that use downtime notifications by setting the `downtime` property on their form config.
+<!-- use `rg "downtime:" src/applications/` -->
+
+These are the forms apps (and their listed dependencies) that use downtime notifications by setting the `downtime` property on their form config.
 
 - burials
+  - dependencies: `icmhs` (Intake, conversion, & mail handling services)
 - disability-benefits/all-claims
+  - dependencies: `evss`, `emis`, `mvi` (Master Veteran Index), `vet360` 
 - disability-benefits/686
+  - dependencies: `evss`
 - hca
+  - dependencies: `es` (Enrollment services)
+  - custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/components/DowntimeMessage.jsx)
+
 - pensions
+  - dependencies: `icmhs` (Intake, conversion, & mail handling services)
