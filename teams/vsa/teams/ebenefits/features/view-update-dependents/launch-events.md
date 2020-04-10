@@ -8,7 +8,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 3. A tangible reference for the team to synchronize on where we are and where we are headed
 4. Should assist in ticket creation  
 ## Assumptions  
-**Launch to prod:** May 6, 2020  
+**Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_
 **Number of work days:** 27 from today   
 **Number of sprints:** 2   
 ## Events  
