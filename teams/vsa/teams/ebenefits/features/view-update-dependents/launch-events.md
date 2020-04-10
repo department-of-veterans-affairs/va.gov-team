@@ -14,9 +14,10 @@ Set a date and walk back the various steps.  This achieves a few things:
 ## Events  
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
-- DE: Refine content
+- DE: Refine form content (labels, titles, buttons, etc)
 - BE/FE: connections made
 - FE: get a 200 response from BE
+- FE: complete JSON transport tasks
 - FE: e2e tests
 - FE: pre-QA smoke test
 - BE: refactor submission process
