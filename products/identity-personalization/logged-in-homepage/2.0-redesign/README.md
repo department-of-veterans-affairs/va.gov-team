@@ -116,7 +116,7 @@ Additionally:
 ## Discovery Takeaways
 
 - [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) — Last summer, we conducted research to validate moving forward with a logged-in homepage redesign.
-- Currently, we are undergoing a discovery phase geared more directly toward the homepage redesign. We'll link to those reports here as they're completed.
+- Currently, we are undergoing a discovery phase geared more specifically toward how we might approach the homepage redesign. We'll link to those reports here as they're completed.
 
 ## Requirements
 
