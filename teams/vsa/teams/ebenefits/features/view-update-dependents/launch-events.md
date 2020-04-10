@@ -22,15 +22,14 @@ Set a date and walk back the various steps.  This achieves a few things:
 _April 8 - April 21_  
 - DE: Refine form content (labels, titles, buttons, etc)
 - BE/FE: connections made
-- FE: get a 200 response from BE
+- FE: get a `200` response from BE
 - FE: complete JSON transport tasks
 - FE: e2e tests
-- FE: pre-QA smoke test
+- FE: pre-QA "smoke test"
 - BE: refactor submission process
 - BE: submission tested
-- PD: request 508 Review
-- PD: request QA Review
-- PD: request GA Event names
+ - 🌀 [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
+ - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs
 - DE: landing pages sent to Public Websites
 
