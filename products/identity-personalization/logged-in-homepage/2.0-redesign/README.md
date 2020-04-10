@@ -77,7 +77,7 @@ Additionally:
 - To lay a foundation for logged-in homepage that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
 - Have a place to link to/highlight new tools so that we don't have to bury tools in content hubs where veterans can't easily find them.
 - Have a place to highlight health care tools to show the potential/viability of consolidating MHV into VA.gov.
-- To lay the foundation for how to handle "internal" notifications on VA.gov by better highlighting status updates/action items for veterans.
+- To lay the foundation for how to better highlight status update/action item notifications for veterans.
 - To move the VA (outside of DEPO)further in the direction of builing/highlighting tools in one place instead of building one-off, silo'd tools.
 - To retire My VA.
 
