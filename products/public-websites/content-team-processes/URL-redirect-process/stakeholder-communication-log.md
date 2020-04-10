@@ -124,7 +124,7 @@ www.benefits.va.gov/GIBILL/Fry_scholarship.asp | www.va.gov/education/survivor-d
 www.benefits.va.gov/gibill/post911_transfer.asp | www.va.gov/education/transfer-post-9-11-gi-bill-benefits/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
 www.benefits.va.gov/gibill/fgib/VetTec.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
 www.benefits.va.gov/GIBILL/fgib/VetTec_Veteran.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
-www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |   
+www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 | Redirect reverted on 04/10 due to looping error  
 
 
 
