@@ -18,7 +18,7 @@
 
 **[Rogers STEM Scholarship:]()** {dynamic content} 
 
-**[Protection against late VA payments:]()** { dynamic messages displayed based on Compliance Template:  Yes, with Certificate of Eligibility (COE); Yes, with Certificate of Eligibility (COE) and additional criteria } 
+**[Protection against late VA payments:]()** { dynamic messages displayed based on Compliance Template: Requires Certificate of Eligibility (COE); Requires Certificate of Eligibility (COE) and additional criteria; No information available at this time  } 
 
 { *103 Modal* } 
 
