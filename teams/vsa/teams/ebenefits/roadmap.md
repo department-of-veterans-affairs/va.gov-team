@@ -12,7 +12,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View Rated Disabilities **(COMPELETE 05022020)**    | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | Launch on EVSS; redev to BGS Q3
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q3        | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
-| View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
+| View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q3        | BGS integration
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Submit to Central Mail; Oct 2020 launch for alignment
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
 | Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
