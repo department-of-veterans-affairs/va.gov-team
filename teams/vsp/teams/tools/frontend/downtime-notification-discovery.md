@@ -22,7 +22,6 @@
 - letters
 - login
 - [pensions](#pensions)
-- personalization
 - post-911-gib-status
 - pre-need
 - proxy-rewrite
@@ -104,3 +103,77 @@ Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-ve
 
 - GET `/v0/pension_claims/[GUID]`
 - POST `/v0/pension_claims`
+
+## Personalization 
+
+### account
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### appointments
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### connected-accounts
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### dashboard
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### preferences 
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### profile-2
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### profile360
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### rated-disabilities
+
+**dependencies**
+
+- 
+
+#### Endpoints
+
+### view-dependents 
+
+**dependencies**
+
+- 
+
+#### Endpoints
