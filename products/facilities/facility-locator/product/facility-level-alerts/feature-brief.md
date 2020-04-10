@@ -48,10 +48,13 @@ _Why should this project be a priority?_
 _What's in and what's out?_
 
 **MVP**
-- This feature will leverage two concepts already in use at VHA facilities: operating status and operating notes. These fields will be made available in Drupal, pulled in by the Facilities API and included in Facilityy Locator search results. 
+- This feature will leverage two concepts already in use at VHA facilities: operating status and operating notes. These fields will be made available in Drupal, pulled in by the Facilities API and included in Facility Locator search results. 
+- Frequency of update will be the responsibility of the facility owner. 
+   - VAMCs being managed at the facility level could be updated as frequently as every 15 minutes but not anticipated to be this often.    - Other locations will be daily at first but will be scaled in the future so there are authors who can update more frequently should the need arise.
 
 **Focused on solving the following problems:**
 - Displaying a visual indicator for VA facility-level operating status and additional detail for related policies and services
+- This status is being activated for COVID-19 but will have future use in the instance of natural disasters (hurricane, earthquake, flood) or other emergencies,  such as active shooter
 
 **To address the following user stories:** 
 - As a Veteran, I want reliable facility-level operating status so that I know where and how I can be served. 
