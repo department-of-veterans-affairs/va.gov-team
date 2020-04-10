@@ -136,6 +136,11 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 - Our MVP will stand alone rather than on the current Yellow Ribbon hub page
 - [IA Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-yellow-ribbon.md) from VSP available as of 2/19/20
 - [History of design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-design-decisions.md) available to review
+- For the first year, provide a PDF spreadsheet link to the upcoming school year information on our tool landing page
+  - Depends on Janice and Joe providing the consolidated list of new/updated school info as a spreadsheet
+  - Ask them to provide this no later than first week of June, so we have at least 2 days to PDF it and add the link to the tool landing page
+  - Link would be published mid-June, and we would remove the link on July 31/Aug1 -- when the 'upcoming' school info becomes 'current' in GIDS
+- Prior years info: We will not provide links to these in the modernized experience. We will not redirect the legacy page that has the repository of old years: https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp
 
 #### Pending Decisions
 
