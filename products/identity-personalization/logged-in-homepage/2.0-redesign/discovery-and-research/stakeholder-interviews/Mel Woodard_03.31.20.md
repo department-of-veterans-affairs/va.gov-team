@@ -29,7 +29,7 @@ Looked at financial, medical sector, insurance websites, and some more less trad
 
 (Discussing [personalization blue sky prototype](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/13596891?scrollOffset=216))
 
-As we were working through the concepts, we were on the fly trying to come up with things that would be useful for Veterans to see. We broke it down into a few different buckets (shown as columns) we thought would be most useful: 
+As we were working through the concepts, we were on the fly trying to come up with things that would be useful for Veterans to see. We broke it [dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard.png) down into a few different buckets (shown as columns) we thought would be most useful: 
 
 - First bucket is the middle column, here are all your status updates on current benefits that you're using
 
@@ -40,20 +40,20 @@ As we were working through the concepts, we were on the fly trying to come up wi
 
 - Third bucket is at the bottom of the right column, and at the top of the page Including a localized aspect to show local events and their VA facility 
 
-- Profile page, with the `% complete`, thinking there was an idea to create incentivize users to complete their profile to offer a more personalized, relevant experience if we had all of that information
+- [Profile page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-profile%402x.png), with the `% complete`, thinking there was an idea to create incentivize users to complete their profile to offer a more personalized, relevant experience if we had all of that information
 
   - The more we know about you, the more we can give you a jumpstart to benefits
 
-- Documents page - fuzziest on this one. There's an equivalent experience existed in eBenefits.  
+- [Documents page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-documents%402x.png) - fuzziest on this one. There's an equivalent experience existed in eBenefits.  
 
   - Design infers that we'll also see some documents that came from the DoD, documents you uploaded, or docs from secure messaging. This would be the place to house all of the docs and was mapped more like an equivalent feature to what exists in eBenefits
 
-- Health care team secure messaging - idea was to demonstrate that starting from the dashboard  you can use the side nav to get to all of these tools.  
+- Health care team secure [messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-inbox%402x.png) - idea was to demonstrate that starting from the dashboard  you can use the side nav to get to all of these tools.  
 
   - Making it feel like it's all part of the same space rather than navigating out to separate applications
-  - Clicking from the message card on the homepage would lead you straight to the message detail
+  - Clicking from the message card on the homepage would lead you straight to the [message detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-secure-messages-detail%402x.png)
 
-- Prescriptions - if you wanted to see details on all of your prescriptions, it would be on this view
+- [Prescriptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-prescriptions%402x.png) - if you wanted to see details on all of your prescriptions, it would be on this view
 
   - Doesn't recall about package tracking or if that was a feature that could be provided
 
