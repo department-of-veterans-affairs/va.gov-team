@@ -1,3 +1,42 @@
+In Navy, enlisted officer
+
+He has been to VA.gov
+He rarely uses it since he’s not currently eligible for benefits, he plans to use it more when he retires.
+
+When on VA.gov he does the following:
+Looks at available benefits so he will be familiar when the time comes
+
+Has not used it to update information since initial set up
+Notifications or CTA’s would be helpful
+
+Has never connected any apps to VA.gov
+
+Change mailing address scenario:
+This was easy and worked well.
+Information was where it was expected to be.
+
+----------------
+
+Desktop view, VA.gov
+User comments:
+It’s a standardized interface
+Likes the sidebar since it’s easy to navigate
+
+
+Overall impression of the original:
+User likes it
+User says learning curve is small
+
+Overall impressions of navigating through the profile
+It was easy to navigate
+Easy to find what he was looking for
+
+Overall, how could we improve the VA profile
+Too much wasted space
+fonts/text too large
+Service seal not necessary or could be put on the side
+
+
 # Combining profile & account usability testing
 
 [Note-taker name]
