@@ -36,7 +36,7 @@ VAOS is a good example — it was a tool you had to sign into separately. It’s
 
 [On designs he already did with Andy] Andy would have these epiphanies and just put stuff on a whiteboard and we would just start something.
 
-[Shares screen/design] This was our first, bare bones, IDEO-style of what a logged in homepage would look like. We just bucketed… we just prioritized this… when you’re looking at the homepage, you can’t exclude the header. That’s a key piece of the logged in experience. I’ve always found our header (navigation) a bit kludgy (listed some concerns).
+[Shares screen/design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/thurlwell-logged-in-concept.png) This was our first, bare bones, IDEO-style of what a logged in homepage would look like. We just bucketed… we just prioritized this… when you’re looking at the homepage, you can’t exclude the header. That’s a key piece of the logged in experience. I’ve always found our header (navigation) a bit kludgy (listed some concerns).
 
 [On the actual page] We listed notifications. These should always point you to the product. So you would click (the notification) and go to see your appointments. 
 
