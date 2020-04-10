@@ -50,7 +50,7 @@ The Centers for Disease Control and Prevention (CDC) designed this tool to help 
 
 **What do you need help with today?**
 
-Please choose the topic that best fits your needs. You can always come back to this list to choose a new topic. <br>
+Please choose the topic that best fits your needs. You can always use the **Start over** button to start again and choose a different topic. <br>
 
 [Health care, appointments, and prescriptions](Go to 8 > 13) <br>
 [VA's COVID response](Go to 11 > 14) <br>
@@ -67,9 +67,11 @@ _COMMENTS ON THIS SECTION_
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
 
 [add questions based on decision tree/message bank]
+
+[start over button]
 
 ### 11. > 14. VA's COVID-19 response, What question can we answer for you first?
 
@@ -77,9 +79,11 @@ Please choose the question that best fits your needs. You can always come back t
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
 
 [add questions based on decision tree/message bank]
+
+[start over button]
 
 ### 9. > 15. Mental health concerns, What question can we answer for you first?
 
@@ -87,9 +91,11 @@ Please choose the question that best fits your needs. You can always come back t
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
 
 [add questions based on decision tree/message bank]
+
+[start over button]
 
 ### 10. > 16. Benefits and claims, What question can we answer for you first?
 
@@ -97,9 +103,11 @@ Please choose the question that best fits your needs. You can always come back t
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
 
 [add questions based on decision tree/message bank]
+
+[start over button]
 
 _COMMENTS ON THIS SECTION_
 1. Thoughts on whether to include "first" (ie, "What question can I answer for you first?") to imply that the user is welcome to ask as many questions as they like?
@@ -285,32 +293,52 @@ Call us toll-free at 800-827-1000, 8:00 a.m. to 9:00 p.m. ET. Our regional offic
 
 ## 34. Do you need more information?
 
-[radio button or other interaction] Yes, I'd like to ask another question. [Go back/surface questions within the category]
-[radio button or other interaction] Yes, I'd like to talk to someone. [Go to 35 for relevant info]
-[radio button or other interaction] No, I have the information I need. [End session or give some kind of closing message?]
+**Do you need more information?**
 
-_COMMENTS ON THIS SECTION_
+Yes [go to 35]
 
-I'm not sure how this part will work. I've added the above as an idea, but please let me know how this is evolving in design/dev and I can adjust. Thanks!
+No [go to 36]
 
 ------
 
-## 35. For more information
+## 35. Yes
 
-Here are the best ways to get more information on specific topics.
+**What would you like to do next?**
 
-_COMMENTS_
-1. Consider serving up the below related info depending on user's path to getting here.
-2. Please note that I need to look at this content again for additional info we may want to add.
+Ask another question [37 - go back to topic questions list]
 
-##### Health care, appointments, and prescriptions
+Connect with a call center representative [go to 38]
 
-**VA health care appointments**
+------
+
+## 36. No
+
+Thank you for using our coronavirus virtual assistant. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+
+_COMMENTS ON THIS SECTION_
+
+Not sure if we need a final message, but adding here in case. 
+
+-----
+
+## 38. 
+
+[information to serve up based on topic category]
+
+[for health care, appointments, and prescriptions]
+
+**For general questions about the coronavirus COVID-19**
+Call MyVA311 at 844-698-2311.
+
+**For VA health care appointments**
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-**Local VA health facility hours, services, and safety measures** 
+**For local VA health facility hours, services, and safety measures** 
 Check your facility's website for the latest updates. <br>
 [Find a VA location](https://www.va.gov/find-locations)
+
+**For technical questions about My HealtheVet**
+Contact the My HealtheVet help desk at 877-327-0022.
 
 ##### Benefits and claims
 
