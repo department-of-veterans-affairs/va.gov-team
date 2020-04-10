@@ -36,17 +36,7 @@
 - veteran-representative
 - vic-v2
 - vre
-- [yellow-ribbon](#yellow-ribbon)
-
-## Non-forms apps
-
-### yellow-ribbon
-
-Not configured to use the `<DowntimeNotification>` component
-
-#### Endpoints
-
-- GET `/gi/yellow_ribbon_programs`
+- yellow-ribbon
 
 ## Forms apps
 
@@ -78,6 +68,8 @@ These are the forms apps (and their listed dependencies) that use downtime notif
 - GET `/facilities/suggested/`
 
 ### disability-benefits/686
+
+Displays a [custom <SystemDownView />](https://github.com/department-of-veterans-affairs/vets-website/blob/472df4983b0f83df93be1f68c059bce496b9a168/src/applications/disability-benefits/686/components/AuthorizationMessage.jsx#L32) when there's an error retrieving profile records 
 
 **dependencies**
 
@@ -118,9 +110,13 @@ Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-ve
 
 ### account
 
+Uses default <DowntimeNotification /> message. 
+Uses <RequiredLoginView />.
+
 **dependencies**
 
-- 
+- mvi
+- emis
 
 #### Endpoints
 
@@ -187,3 +183,15 @@ Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-ve
 - 
 
 #### Endpoints
+
+## Other components 
+
+### [<RequiredLoginView />](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/user/authorization/components/RequiredLoginView.jsx)
+
+Displays a [custom `<SystemDownView />`](https://github.com/department-of-veterans-affairs/vets-website/blob/472df4983b0f83df93be1f68c059bce496b9a168/src/platform/user/authorization/components/RequiredLoginView.jsx#L80) when `va_profile` is unavailable. 
+
+Used where noted above. 
+
+**dependencies**
+
+- appeals_status 
