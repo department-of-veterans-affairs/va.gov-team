@@ -14,6 +14,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_  
 **Number of work days:** 27 from today   
 **Number of sprints:** 2   
+Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
 🌀 = Collaboration Cycle
 
@@ -36,7 +37,7 @@ _April 8 - April 21_
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
-- FE: Set up and test Flipper component on landing page
+- FE: Set up and test Flipper component on Drupal landing page
 - BE: e2e tests, error handling
 - BE/FE: v1 code complete
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
