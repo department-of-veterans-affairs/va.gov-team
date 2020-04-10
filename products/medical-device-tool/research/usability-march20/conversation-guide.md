@@ -43,7 +43,7 @@ Before we start, I want to mention a few things about this session:
 
 -   In this session, we want to hear your honest opinions. So please let us know what you think, and any ideas on how we can improve this process for you. We are not testing your abilities or knowledge in any way. I will not be offended by any opinions you express, and I welcome your feedback.
 
--   You'll be interacting with VA.gov's staging environment using a test account created for this session. This means that you will be interacting with a replica of VA.gov, but none of your personal data will be displayed and none of your actions will affect your actual VA information or benefits. 
+-   You'll be interacting with a prototype during this session. This means that you will be interacting with a replica of VA.gov, but some areas may be clickable while others aren't. None of your actions will affect your actual VA information or benefits.
 
 -   If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 
@@ -93,7 +93,7 @@ Task 1: Find information on ordering hearing aid batteries on VA.gov
 
 I'm going to share a link to the VA's website in the Zoom chat. Once you open the page, would you share your screen with me? You can share by pressing the button in the center of the bottom of the screen.
 
-*(Paste link into Zoom chat) [https://www.staging.va.gov/](https://www.va.gov/)*
+*(Paste link into Zoom chat) [https://www.va.gov/](https://www.va.gov/)*
 
 Imagine that you're interested in placing an order for hearing aid batteries on VA.gov.
 
@@ -118,7 +118,7 @@ Task 2: Review Content screen & navigate to the form
 
 I'm going to paste a new link into the Zoom chat. This link will be a prototype, so some areas will be clickable while others are not.
 
-*(Paste Invision link into Zoom chat) https://vsateams.invisionapp.com/share/4FWT41FGQKR*
+*(Paste Invision link into Zoom chat) https://preview.uxpin.com/6eac3d277fb657b17dbeef85149d862b1279c05c#/pages/127630404/simulate/no-panels?mode=i*
 
 Take a moment to look over this page.
 
@@ -161,10 +161,10 @@ Take a moment to look over this page, and go ahead and show me what you would do
 
 -   What are your thoughts about the sign in process?
 
-I am going to share the login information you may use to access the next screen in the Zoom chat. 
+I am going to share the login information you may use to access the next screen in the Zoom chat. Today you're going to be Hector! Go ahead and copy and paste this login information into the login screen. 
 
-*Test user: TBD
-Test user password: TBD*
+*Test user: Hector@gmail.com
+Test user password: password1
 
 Task 4: Complete the ordering form (introduction page →  confirmation)
 ----------------------------------------------------------------------
@@ -247,7 +247,7 @@ The products displayed will be the products that the participant is currently el
 
 -   What would you do now that you've completed the form?
 
--   Do you feel like there's anything missing from the page
+-   Do you feel like there's anything missing from the page?
 
 ### Extra tasks
 
