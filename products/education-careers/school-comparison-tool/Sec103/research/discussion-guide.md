@@ -54,7 +54,7 @@ Things to watch for:
 -	Do any other questions come to mind about this?
 
 ## Third Task: Additional Criteria - 5 minutes
--	You are also interested in attending University Y and are curious about their Section 103 requirements.  Please locate the Section 103 requirements for this university.
+-	You are also interested in attending University Y and are curious about their requirements for obtaining protection against late VA payments.  Please determine the requirements for this university.
   - What do you think “additional criteria” is?
   - How would you go about finding out more information?
 
