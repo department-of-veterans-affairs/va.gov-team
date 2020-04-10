@@ -16,7 +16,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 
 ## Assumptions  
 **Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_  
-**Number of work days:** 27 from today   
+**Number of work days:** 26 from today   
 **Number of sprints:** 2   
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
@@ -61,7 +61,7 @@ _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
 - UAT/ UAT outcome PRs, email whitelist 
-- Launch to n% of users
+- ⭐Launch to n% of users
 - Launch to 100% of users
 - Create eBenefits user redirect messaging  
 - Coordinate page redirects
