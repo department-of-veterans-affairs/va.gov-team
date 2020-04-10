@@ -172,7 +172,17 @@ Additionally:
 
 #### Logged-in homepage
 
+![2019 VA.gov homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/VA.gov%20homepage.png)
+
 #### My VA
+
+*All widgets*
+
+![My VA 1.0 all widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-All%20Features.png)
+
+*Empty state*
+
+![My VA 1.0 empty state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/screenshots/Dashboard-Updated-Empty%20states.png)
 
 ### After
 
