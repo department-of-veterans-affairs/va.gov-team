@@ -32,10 +32,10 @@ _April 22 - May 5_
 - BE/FE: v1 code complete
 - BE/FE: e2e and load testing with partner systems
 - PD: Stakeholder review/ demo
-- UAT/ UAT outcome PRs 
 
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
+- UAT/ UAT outcome PRs, email whitelist 
 - Launch to n% of users
 - Launch to 100% of users
 - Create eBenefits user redirect messaging  
