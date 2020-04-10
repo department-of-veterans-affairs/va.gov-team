@@ -43,10 +43,11 @@
 
 ## Overview
 
-At a high level, this project aims to do major things:
+At a high level, this project aims to do the following things:
 
-1. Redesign the logged-in homepage so that it is a personalized experience. Currently, the homepage does not change when users are logged out or logged in.
-2. Retire the existing My VA dashboard in favor of a redesigned logged-in homepage.
+1. Redesign the logged-in homepage so that it provides a personalized experience. Currently, the homepage does not change when users are logged out or logged in.
+2. Elevate status updates and notifications for logged in users.
+3. Retire the existing My VA dashboard in favor of a redesigned logged-in homepage.
 
 ## Problems
 
