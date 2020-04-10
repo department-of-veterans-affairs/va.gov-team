@@ -8,7 +8,7 @@ The current implementation does provide insights, however the strategy that is c
 Identifying vets-api endpoints by front end application only in V0.1
 
 ## Requirements to Use
-- SOCKS proxy setup
+- [SOCKS proxy setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/scripts/socks/README.md)
 - Access to Grafana
 
 ## Accessing the Mapping Board
@@ -32,4 +32,3 @@ The mapping document is Located [here](http://grafana.vfs.va.gov/d/zGUbwGLWz/fro
 - Improve the accuracy of the mapping to vets-api from front end applications
 - Include mappings to downstream services
 - Introduce improved visualization to see entire map
-
