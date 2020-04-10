@@ -4,7 +4,7 @@
 
 [Good morning/Good afternoon/Good evening], [NAME].
 
-I'm here as VA's virtual assistant to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.
+You can use this tool to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions through the tool, we'll help you connect to a call center representative.
 
 **If you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
 - Trouble breathing
@@ -46,26 +46,60 @@ The Centers for Disease Control and Prevention (CDC) designed this tool to help 
 
 ------
 
-## 5. What can I help you with today?
+## 5. What do you need help with today?
 
-**What can I help you with today?** _[alt question: What would you like to ask about today?]_
+**What do you need help with today?**
 
 Please choose the topic that best fits your needs. You can always come back to this list to choose a new topic. <br>
 
-[Health care, appointments, and prescriptions](Go to 8) <br>
-[VA's COVID response](Go to 11) <br>
-[Mental health concerns](Go to 9) <br>
-[Benefits and claims](Go to 10)
+[Health care, appointments, and prescriptions](Go to 8 > 13) <br>
+[VA's COVID response](Go to 11 > 14) <br>
+[Mental health concerns](Go to 9 > 15) <br>
+[Benefits and claims](Go to 10 > 16)
 
 _COMMENTS ON THIS SECTION_
 1. Is it accurate to say you can always "come back to this list" or will the list be always present or in a menu? Just want to make sure content reflects design and functionality.
 2. I've made the topic names more gramatically parallel. Also made "Getting care at VA" topic more general since it covers community (non-VA) care, prescriptions, etc. 
 
-------
+### 8. > 13. Health care, appointments, and prescriptions, What question can we answer for you first?
 
-### 13 - 16. What question can I answer for you first?
+##### Health care, appointments, and prescriptions
+
+**What question can we answer for you first?**
 
 Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+
+[add questions based on decision tree/message bank]
+
+### 11. > 14. VA's COVID-19 response, What question can we answer for you first?
+
+##### VA's COVID-19 response
+
+**What question can we answer for you first?**
+
+Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+
+[add questions based on decision tree/message bank]
+
+### 9. > 15. Mental health concerns, What question can we answer for you first?
+
+##### Mental health concerns
+
+**What question can we answer for you first?**
+
+Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+
+[add questions based on decision tree/message bank]
+
+### 10. > 16. Benefits and claims, What question can we answer for you first?
+
+##### Benefits and claims
+
+**What question can we answer for you first?**
+
+Please choose the question that best fits your needs. You can always come back to this list to choose a new question. <br>
+
+[add questions based on decision tree/message bank]
 
 _COMMENTS ON THIS SECTION_
 1. Thoughts on whether to include "first" (ie, "What question can I answer for you first?") to imply that the user is welcome to ask as many questions as they like?
@@ -202,13 +236,18 @@ First, it's important to know you're not alone, and we're here for you. Concerns
 
 #### 27. How can I ask for a new mental health appointment?
 
+[will add content today]
+
+
 #### 28. Can I visit a patient at a VA facility?
+
+[will add content today]
 
 #### 29. Will my benefit payment be delayed because of COVID-19?
 
 We’re currently processing all benefit payments as normal. Benefit payments include payments for disability, pension, education payments to your school, and more.  
 
-View your VA benefit payments online
+[View your VA benefit payments online](https://www.va.gov/va-payment-history/)
 
 #### 30. My school changed all classes to online, Will I still qualify for my GI bill benefits? 
 
@@ -224,34 +263,45 @@ Yes. We’ve temporarily closed all of our 56 regional offices for in-person vis
 
 **To get help or request a video appointment,** call us at 800-827-1000. We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-**To check on the status of your claim or appeal,** use our online claim status tool.
+**To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
-**For other benefit questions,** send a question to our online customer service tool called IRIS (Inquiry Routing & Information System). 
+**For other benefit questions,** send a question to our online customer service tool called [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
 #### 32. How can I stay updated on regional office closures or service interruptions? 
 
 For the latest status of our regional offices and other benefit services, you can:
 
-Visit the Veterans Benefits Administration (VBA) news page.
-Call the benefits hotline toll-free at 800-827-1000.
-Follow us on social media.
-VBA Facebook
-
-VBA Twitter: @VAVetBenefits
+- Visit the [Veterans Benefits Administration (VBA) news page](https://www.benefits.va.gov/benefits/news.asp).
+- Call the benefits hotline toll-free at 800-827-1000.
+- Follow us on social media.
+  - [VBA Facebook](https://www.facebook.com/VeteransBenefits)
+  - VBA Twitter: [@VAVetBenefits](https://twitter.com/VAVetBenefits)
 
 #### 33. How can I contact my local regional office? 
 
-Call us toll-free at 800-827-1000. Our regional office staff are still providing benefits help by phone and video. 
+Call us toll-free at 800-827-1000, 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video. 
 
 ------
 
 ## 34. Do you need more information?
+
+[radio button or other interaction] Yes, I'd like to ask another question. [Go back/surface questions within the category]
+[radio button or other interaction] Yes, I'd like to talk to someone. [Go to 35 for relevant info]
+[radio button or other interaction] No, I have the information I need. [End session or give some kind of closing message?]
+
+_COMMENTS ON THIS SECTION_
+
+I'm not sure how this part will work. I've added the above as an idea, but please let me know how this is evolving in design/dev and I can adjust. Thanks!
 
 ------
 
 ## 35. For more information
 
 Here are the best ways to get more information on specific topics.
+
+_COMMENTS_
+1. Consider serving up the below related info depending on user's path to getting here.
+2. Please note that I need to look at this content again for additional info we may want to add.
 
 ##### Health care, appointments, and prescriptions
 
@@ -292,6 +342,7 @@ _need to add mental health services_
 
 ## 36. Back to top
 
+[to add]
 
 
 
