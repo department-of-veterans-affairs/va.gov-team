@@ -1,6 +1,6 @@
 # [Combining Profile and Account] Topline Summary
 
-`Prepared by: Tressa Furner, Authenticated Experience
+Prepared by: Tressa Furner, Authenticated Experience
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/User%20Research.md) 
 
@@ -57,22 +57,37 @@ This topline summary is a result of the synthesis that happens after conducting/
  - True
  - Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the profile and had a difficult time finding the profile menu.
  > “...my only complaint is the profile menu did not stand out...”
+ > "I was just thinking my info, I did not think of profile menu. I have never… I don’t know. I would click on my name and my info would be there or my name would be there?"
+ > "I kept clicking under the name and I didn’t pay attention to the bar. Which actually says profile menu. I automatically went to the name… but like I said profile menu is right there, so once I saw that I was able to navigate from there."
  
 **The side nav will go over really well and increase scanability.**
  - True
+ - 4/5 participants preferred the new side nav design to the old profile design.
+ > “You can go through and see most relevant info. It seems pretty intuitive. Once you are here. That something a lot of the VA profile did not have in the past, it was more utilitarian and was not intuitive, not a lot of thought process put into it. This makes it user friendly.”
+ > "You know, looking at the older site, like I said it just seemed like there was a lot more going on, which can be confusing for...I was going to say for like older Veterans, but I guess for everyone really."
 
 **Participants might be confused about Connected Apps and what that means**
- - Answer
+ - Partially true
+ - Most participants understood and easily grasped the concept of Connected Apps, though there was some confusion about how to connect apps.
+ > “Its intuitive, It’s similar to other apps I use for uhm, like Drop Box per-say, where I have other apps that have access to it. Where I can have access to verify who has access to it and I can block them or allow it. It’s good.”
+ > "...because it’s third party access, they need to be connected in the first place. Umm, so I would imagine you both connect and disconnect in the same place..."
  
 ## Other Findings
 **Finding**
-- Details
-> “Sample quote if relevent”
+- Email address needs more clarification in general
+> “So it look like it connects for corresponded, it’s not intuitive that that is your log in because I do not remember being able to use an email address to log in...”
+> "I’m thinking it’s just the site… not sure if it changes everything across the board but anything pertaining to the site"
 
 **Finding**
-- Details
-> “Sample quote if relevent”
+- Users liked the 'name-tag' area, but it's taking up too much space. Especially in mobile.
+> “I really like coming in and seeing my service Army there. It’s a nice little feeling like a reminder a way to feel connected.”
+> “The emblem could be smaller. We can pretty much recognize our service emblem. It's not critical to this spot and doesn't need to be big.”
 
 **Finding**
-- Details
-> “Sample quote if relevent”
+- Users want to see their benefit information on the profile.
+> “The only other thing I would say is possibility benefit information. And again, that might include education options, your disability stuff I don’t know, or go to a menu that link to those things. If I was coming to this and scrolling through it would be nice to have it all in one spot.”
+
+**Finding**
+- Users tried to use 'search' rather than the profile menu to find what they are looking for
+>"But I would click out and try to find it in one of the search, tool boxes or dropdowns"
+> "It depends on what I’m looking for… quite honestly if I’m not sure where to find it, then I use the search engine"
