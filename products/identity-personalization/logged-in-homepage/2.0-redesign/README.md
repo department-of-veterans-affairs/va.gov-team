@@ -104,9 +104,9 @@ Additionally:
 ### Technical
 
 - What data do we have access to now that we can show on the homepage? 
-- Is there data we have that we could leverage in an improved way (eg.  Showing where a prescrition is en-route)
+- Is there data we have but aren't leveraging?
 - Is there data that we don't have and need?
-- Is there data we want and maybe wouldn't leverage in the 2.0 MVP, but might leverage in a second/improvement phase?
+- What data might we want for future phases/improvements?
 
 ### PM
 
