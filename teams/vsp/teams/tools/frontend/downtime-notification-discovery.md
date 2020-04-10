@@ -7,6 +7,12 @@
 - caregivers
 - claims-status
 - disability-benefits
+  - [all-claims](#disability-benefits/all-claims)
+  - 2346
+  - 526EZ
+  - [686](#disability-benefits/686)
+  - 686c-674
+  - 996
 - discharge-wizard
 - edu-benefits (each app)
 - facility-locator
