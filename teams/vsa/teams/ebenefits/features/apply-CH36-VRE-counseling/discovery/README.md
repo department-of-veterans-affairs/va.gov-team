@@ -1,5 +1,6 @@
-# Initial Discovery: Education/ Career Counseling (CH36)
-March 25, 2020
+# Initial Discovery: Personalized Career Planning & Guidance (via the TED Office)
+_Formerly known as Education/ Career Counseling (CH36) via VRE_
+`March 25, 2020`
 
 ## Background & Paper Form
 Chapter 36 refers to its place in [Title 38 of the US legal code](https://www.law.cornell.edu/uscode/text/38/3697A) (check breadcrumbs) but doesn't really convey context, so when outside the team, try to use "Education/ Career Counseling."  (Title 38 is all about Veteran Benefits.  All the work we do, the power of the VA to provide benefits to the Veteran and their dependents, derives from this language.)  Technically anyone who is elgible for education assistance including CH33, which GI Bill, is also eligible  for this benefit.  All benefits that the VA offers, roll up to a single Veterans eligibility.  However you are related to that Veteran, that's how your eligibility is formed.
