@@ -17,8 +17,8 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of sprints:** 2   
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
-🌀 = Collaboration Cycle
-⏳ = May be more time intensive than anticipated
+🌀 = Collaboration Cycle  
+⏳ = May be more time intensive than anticipated  
 
 ## Events  
 ### Sprint 19 (T-28)  
