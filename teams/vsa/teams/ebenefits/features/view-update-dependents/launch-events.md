@@ -9,7 +9,10 @@ Set a date and walk back the various steps.  This achieves a few things:
 3. A tangible reference for the team to synchronize on where we are and where we are headed
 4. Should assist in ticket creation  
 ## Unknowns
-- BGS interactions?
+- BGS interactions
+- Outcome of QA review
+- Outcome of 508 review
+- Stakeholder feedback
 
 ## Assumptions  
 **Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_  
@@ -41,14 +44,17 @@ _April 8 - April 21_
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
+- FE & BE: address issues from QA review  
 - FE: set up and test Flipper component on Drupal landing page
 - ⏳ BE: e2e tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967), [#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
 - BE: submit PR to merge BGS endpoints into `vets-api`
+- DE: Fit/finish review/implementation
 - BE/FE: v1 code complete
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
-- 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+- 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)  
+_(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 
@@ -59,11 +65,13 @@ _May 6 - May 19_
 - Launch to 100% of users
 - Create eBenefits user redirect messaging  
 - Coordinate page redirects
+- Code hardening/bug fixes
 
 ### Sprint 22 (T+14)
 _May 20 - June 2_
 - Implement eBenefits user redirect messaging 
 - Deprecate feature
+- Optimization/ongoing bug fixes
 - 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
 
 
