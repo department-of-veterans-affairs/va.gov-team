@@ -1,5 +1,6 @@
 _Quick reference to other features' launch events:_ [686](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/launch-events.md), [POA](https://#), [Payment History](https://#), [CH36](https://#), [LGY](https://#)  
 # Launch Events
+**For View dependents and Add or remove dependents using the VA Form 21-686c/674**
 `eBenefits | April 2020`
 ## Considerations
 Set a date and walk back the various steps.  This achieves a few things:
