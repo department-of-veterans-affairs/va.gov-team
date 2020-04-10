@@ -99,7 +99,7 @@ Additionally:
 - Do things like "Your dependents" and "Your disability rating" need to be displayed on the new logged-in homepage, or should they be displayed on the VA.gov profile, or both? 
 - What works well about the current homepage that veterans don't want to change? What would veterans change about the homepage as it is now?
 - How could an authenticated tool bar/menu fit into the current navigation before Mikki/Ryan/Jen are able to revisit the IA and flatten the IA/nav across the board?
-- How do we design for the 2.0 MVP in a way that will accomodate future improvements we know we want to make (eg. accomodating a future widget we know we'll eventually have; updates to the data/details we have for a particular status or widget)?
+- How can the initial phase of the 2.0 redesign account for future growth and improvements?
 
 ### Technical
 
