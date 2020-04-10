@@ -32,3 +32,13 @@
 - vic-v2
 - vre
 - yellow-ribbon
+
+## Forms apps
+
+These are the forms apps that use downtime notifications by setting the `downtime` property on their form config.
+
+- burials
+- disability-benefits/all-claims
+- disability-benefits/686
+- hca
+- pensions
