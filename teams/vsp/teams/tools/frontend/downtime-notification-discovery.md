@@ -121,8 +121,8 @@ Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-ve
 
 ### account
 
-Uses default <DowntimeNotification /> message. 
-Uses <RequiredLoginView />.
+Uses default `<DowntimeNotification />` message. 
+Uses `<RequiredLoginView />`.
 
 **dependencies**
 
