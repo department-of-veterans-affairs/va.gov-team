@@ -42,7 +42,7 @@ _May 6 - May 19_
 - Coordinate page redirects
 
 ### Sprint 22 (T+14)
-_May 6 - 19_
+_May 20 - June 2_
 - Implement eBenefits user redirect messaging 
 - Deprecate feature
 
