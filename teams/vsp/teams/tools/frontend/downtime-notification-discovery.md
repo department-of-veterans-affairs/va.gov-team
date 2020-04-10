@@ -36,6 +36,17 @@
 - veteran-representative
 - vic-v2
 - vre
+
+## Non-forms apps
+
+### yellow-ribbon
+
+Not configured to use the `<DowntimeNotification>` component
+
+#### Endpoints
+
+- GET `/gi/yellow_ribbon_programs`
+- yellow-ribbon
 - yellow-ribbon
 
 ## Forms apps
