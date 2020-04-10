@@ -106,6 +106,7 @@ Additionally:
 
 - What staging users will we need, and who can help us get those set up?
 - How do we appropriately involve stakeholders, both within DEPO and outside of DEPO, in this project? How do we do this in a way that doesn't allow the homepage to become a dumping ground?
+- How can we make this a seamless transition for veterans (from the existing logged-in homepage to the new logged-in homepage)?
 
 ## Solution Approach
 
