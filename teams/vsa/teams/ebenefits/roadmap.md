@@ -8,8 +8,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 
 | Feature                                             | Portfolio     | Discovery | Design    | Dev       | Launch    | Notes 
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
-| Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q3        | Blocked by MPI updates
-| Submit BDD Claim (526ez)                            | vsa-bam-1     | Q1        | --        | Q2        | Q3        | 
+| Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q3        | 
+| Submit BDD Claim (526ez)                            | vsa-bam-1     | Q1        | Q3        | Q3        | Q3        | 
 | View Rated Disabilities **(COMPELETE 05022020)**    | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | Launch on EVSS; redev to BGS Q3
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q3        | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
