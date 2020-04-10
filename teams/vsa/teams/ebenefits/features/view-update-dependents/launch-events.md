@@ -21,14 +21,15 @@ Most of View Dependents is finished, but with this timeline, the remaining steps
 ## Events  
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
-- DE: Refine form content (labels, titles, buttons, etc)
-- BE/FE: connections made
+- DE: Refine form content (labels, titles, buttons, etc) (#6965)
+- FE: e2e tests (#6049, #7224, #7486, #7487, #7488, #7489)
+- FE: refactor workflows (#7736)
+- BE/FE: connections made (#7771, #7724)
 - FE: get a `200` response from BE
-- FE: complete JSON transport tasks
-- FE: e2e tests
-- FE: pre-QA "smoke test"
-- BE: refactor submission process
-- BE: submission tested
+- FE: complete JSON transport tasks (#6043)
+- FE: pre-QA "smoke test" (#7201)
+- BE: refactor submission process (#7726)
+- BE: submission tested (#3765)
  - 🌀 [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs
@@ -38,7 +39,7 @@ _April 8 - April 21_
 _April 22 - May 5_
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
 - FE: Set up and test Flipper component on Drupal landing page
-- BE: e2e tests, error handling
+- BE: e2e tests, error handling (#6967, #6968)
 - BE/FE: v1 code complete
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
