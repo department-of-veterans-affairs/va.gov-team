@@ -1,6 +1,6 @@
 # Goal of user testing
 
-To find out whether users prefer a bot that presents itself as a helpful personal assistant for the Veteran, or one that VA presents as a tool the Veteran can use. I'm particularly interested in understanding if the more personal nature of the first person bot feels warm and inviting, or whether it feels annoying and offputting, particularly given that it's coming from a government organization people may have complex feelings about and the critical and serious nature of the topic.
+To find out whether users prefer a bot that presents itself as a helpful personal assistant for the Veteran, or one that VA presents as a tool the Veteran can use. I'm particularly interested in understanding if the more personal nature of the first person bot feels warm and inviting, or whether it feels annoying and off putting, particularly given that it's coming from a government organization people may have complex feelings about and the critical and serious nature of the topic.
 
 ------
 
