@@ -11,14 +11,9 @@ Identifying vets-api endpoints by front end application only in V0.1
 - [SOCKS proxy setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/scripts/socks/README.md)
 - Access to Grafana
 
-## Accessing the Mapping Board
-
-You will need to access Grafana so connect to the SOCKS proxy
-
-The mapping document is Located [here](http://grafana.vfs.va.gov/d/zGUbwGLWz/frontend-to-backend-app-mapping?orgId=1).
-
 ## Using the Grafana Board
 
+The mapping document is Located [here](http://grafana.vfs.va.gov/d/zGUbwGLWz/frontend-to-backend-app-mapping?orgId=1).
 ### Step 1 (Yellow Boxes)
 1) Select the Environment
 2) Select the Time Frame
