@@ -1,4 +1,4 @@
-# CMS Support Channels - Log Analysis Procedure
+# CMS Support Channels - Monthly Log Analysis Procedure
 
 ### Channels we'll be monitoring:
 * #cms-support
@@ -6,11 +6,11 @@
 * VA CMS Support Email
 
 ### Periodicity:
-A cycle of collection and analysis will happen monthly and a a readout will be available at the end of each cycle. 
+A cycle of data collection and analysis will happen monthly and a readout will be available in the first half of the next month.
 
-### Collection and analysis:
-* Collection and analysis will be done by Jordana Mello and Rachel Kauff.
-* Throughout the cycle, important content to be analyzed will be redirected to the #cms-log-anlaysis.
+### Data collection and analysis:
+* Data collection and analysis will be done by Jordana Mello and Rachel Kauff.
+* Throughout the cycle, relevant content to be analyzed will be redirected to the #cms-log-anlaysis.
 * After removing sensitive data, the content will be added to Reframer and coded.
 
 ### Information processing and analysis:
