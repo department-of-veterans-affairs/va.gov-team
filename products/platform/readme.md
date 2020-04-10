@@ -18,7 +18,7 @@
 |[Review Instances](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/review-instances)|||
 |[Scorecard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/scorecard)|||
 |[User Management](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/vsp_user_management_approach)|||
-|[Website Performance Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/web-perf-monitoring)|||
+|[Website Performance Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/web-perf-monitoring)|v0.1|04-10-2020|
 
 ---
 
@@ -34,7 +34,12 @@
 
 ### Sprint 21 (03-17-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.1 
-  - ESLint: First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules) 
+  - ESLint: First set of standard linting rules are [enforced](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md#SonarJS-deployed-rules)
+- [Website Performance Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/web-perf-monitoring)|v0.1|04-10-2020| - v0.1
+  - Establish VSP performance standards
+  - Rollout Speedcurve to Facility Locator Team for feedback around setup and usage
+
+ 
 
 ### Sprint 20 (03-03-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.0
