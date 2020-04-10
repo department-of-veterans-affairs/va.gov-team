@@ -23,6 +23,16 @@
      serviceNumber: '12345678',
      birthDate: '1982-02-04'
    },
+   
+  childMarriage: {
+    marriedChildName: {
+    first: 'James',
+    middle: 'Quandry',
+    last: 'Beanstalk',
+    suffix: 'Sr.'
+    },
+    dateChildMarried: '1977-02-02'
+    },
 
 }
 
