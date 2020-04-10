@@ -12,7 +12,7 @@
 - facility-locator
 - find-forms
 - gi
-- hca
+- [hca](#hca)
 - letters
 - login
 - pensions
@@ -73,9 +73,20 @@ These are the forms apps (and their listed dependencies) that use downtime notif
 - None?
 
 
-- hca
-  - dependencies: `es` (Enrollment services)
-  - custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/components/DowntimeMessage.jsx)
+### hca
+
+Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/components/DowntimeMessage.jsx)
+
+**dependencies**
+
+- `es` (Enrollment services)
+
+#### Endpoints
+
+- GET `/health_care_applications/enrollment_status`
+- GET `/notifications/dismissed_statuses/form_10_10ez`
+- PUT `/notifications/dismissed_statuses/form_10_10ez`
+- POST `/notifications/dismissed_statuses`
 
 - pensions
   - dependencies: `icmhs` (Intake, conversion, & mail handling services)
