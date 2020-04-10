@@ -73,7 +73,7 @@ Additionally:
 ### Business Goals
 
 - To lay a foundation for a personalized logged-in homepage for veterans that shows content/links that are relevant to their experience at the VA.
-- To lay a foundation for a logged-in homepage for veterans that can accomodate growth and modification over time without becoming quickly unwieldy or cluttered.
+- To lay a foundation for a logged-in homepage for veterans that can accomodate growth and modification over time without quickly becoming unwieldy or cluttered.
 - To lay a foundation for logged-in homepage that could eventually be adapted to serve other user types once we're able to support more roles and permissions.
 - Have a place to link to/highlight new tools so that we don't have to bury tools in content hubs where veterans can't easily find them.
 - Have a place to highlight health care tools to show the potential/viability of consolidating MHV into VA.gov.
