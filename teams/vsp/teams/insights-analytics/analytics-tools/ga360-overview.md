@@ -23,8 +23,24 @@ The Google Analytics 360 license is renewed on an annual basis with Empirical Pa
 #### VA.gov Content not measured within VA.gov Production Property
 A list of subdomains and subdirectories was identified and provided to leadership during the WBC Project in November 2018. The background can be found within [this Vets.gov-team issue.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13922)
 
-#### Access
+#### Configuration of Cross-Domain Tracking
+To prevent inflation of sessions, several domains are listed as Referral Exclusions. These domains are either (a) the top-level domain va.gov or (b) authentication providers that will typically route veterans back to va.gov. Without this setting, activity from the authentication providers at DS Logon (dmdc.osd.mil) and ID.me would create a new session.
 
+#### Access to Google Analytics
+Access to Google Analytics can be customized by Account, Property, and View Level and also have additional permissions. 
+- Account-Level: Users will see every property, including historical properties, and each view within the properties.
+- Property-Level: Users will see only that property and each view.
+- View-Level: Users will only see that view.  
+
+From there, users can also be provided with the following access:
+- Manage Users: Typically provided to the VSP Analytics & Insights team so they can provision new credentials.
+- Edit: Gives internal users the ability to change settings; again, the VSP & Analytics Insights team has Edit rights to be able to customize settings across Google Analytics. Edit access has not been given to VFS teams, as there are not many checks and balances to validate setting changes.
+- Collaborate: Allows internal users to share segments and add annotations
+- Read-Only: Only allows users to view reports
+
+Most VFS teams have been given Read-Only or Collaborate access.
+
+_Group Permissions_: Recently, teams have been added to User Groups in Google Analytics. To create a new user group from the Account/Property/View User Management screen, click on the blue plus sign (+) in the upper right corner of the screen. From there, select Add User Groups. At this screen, you can then add users to this group and customize access to an entire team using this screen. 
 
 ### Google Tag Manager 360 Overview
 - Account: The Google Tag Manager 360 (GTM360) is tied to the Veterans Affairs' Google Analytics 360 license. The Account is the topmost level of settings.
