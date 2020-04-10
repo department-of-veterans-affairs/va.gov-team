@@ -3,7 +3,7 @@
 
 - Auth
 - beta-enrollment
-- [burials](./#burials)
+- [burials](#burials)
 - caregivers
 - claims-status
 - disability-benefits
@@ -49,10 +49,30 @@ These are the forms apps (and their listed dependencies) that use downtime notif
 - GET `/burial_claims/[GUID]`
 - POST `/burial_claims`
 
-- disability-benefits/all-claims
-  - dependencies: `evss`, `emis`, `mvi` (Master Veteran Index), `vet360` 
-- disability-benefits/686
-  - dependencies: `evss`
+### disability-benefits/all-claims
+
+**dependencies**
+
+- `evss`
+- `emis`
+- `mvi` (Master Veteran Index)
+- `vet360` 
+
+#### Endpoints
+
+- GET `/facilities/suggested/`
+
+### disability-benefits/686
+
+**dependencies**
+
+- `evss`
+
+#### Endpoints
+
+- None?
+
+
 - hca
   - dependencies: `es` (Enrollment services)
   - custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/components/DowntimeMessage.jsx)
