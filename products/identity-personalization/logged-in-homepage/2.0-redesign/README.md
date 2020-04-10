@@ -65,9 +65,9 @@ Additionally:
 
 ### User Problem Statement
 
-- **As a veteran, I want to be able to easily get to/see tools that apply to my specific circumstances at the VA when I log into VA.gov.**
-- **As a veteran, I want to be able to easily get to the tools I need to use when I log into VA.gov.**
-- **As a veteran, I want to easily be able to see status updates and alerts that require my attention when I log into VA.gov.**
+- **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
+- **As a veteran, I want to be able to log in to VA.gov and easily see status updates and notifications that apply to my specific experience at the VA.**
+- **As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.**
 
 ### Business Goals
 
