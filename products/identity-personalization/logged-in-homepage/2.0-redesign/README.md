@@ -22,7 +22,7 @@
 # Executive Summary 
 - [Overview](#overview)
 - [Problems](#problems)
-- [User Problem Statement](#user-problem-statement)
+- [User Problem Statements](#user-problem-statements)
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
@@ -63,7 +63,7 @@ Additionally:
 - Important content is burried on My VA. We have a lot of good status/"notification" content in there that is buried if you don't know what you are looking for.
 - The logged-in homepage isn't personalized at all, so when users log in, they may see links that no longer apply to their circumstances (eg. seeing an "Apply for health care" link if you're a person who already receives VA health care).
 
-### User Problem Statement
+### User Problem Statements
 
 - **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
 - **As a veteran, I want to be able to log in to VA.gov and easily see status updates and notifications that apply to my specific experience at the VA.**
