@@ -227,6 +227,14 @@
           suffix: 'II'
     }
   ],
+  
+  childNoLongerAtSchoolName: {
+    first: 'Billy',
+    middle: 'Yohan',
+    last: 'Johnson',
+    suffix: 'Sr.'
+  },
+  dateChildLeftSchool: '2019-03-03',
 }
 
 ```
