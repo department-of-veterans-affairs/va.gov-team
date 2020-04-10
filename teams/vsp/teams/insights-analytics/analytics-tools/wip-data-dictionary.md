@@ -27,7 +27,7 @@ While this is possible to dedupe authenticated users with additional configurati
 
 - Sessions: Google Analytics measures activity on the site as the start of a session. A user of VA.gov (aka device) can have multiple session over a time period, but sessions will expire after 30 minutes of inactivity on the site.
 
-_ Pageviews and Unique Pageviews: Google Analytics tracks the individual view of each page as a pageview. This includes multiple views of a page within the same session. You may also see the metric for a unique pageview. A unique pageview indicates that a page was viewed _once_ within a session, but it only increments once. 
+- Pageviews and Unique Pageviews: Google Analytics tracks the individual view of each page as a pageview. This includes multiple views of a page within the same session. You may also see the metric for a unique pageview. A unique pageview indicates that a page was viewed _once_ within a session, but it only increments once. 
 
    _Example_: In a session, a veteran visits https://www.va.gov/health-care/ to learn more about available Health Care benefits. The veteran then clicks to https://www.va.gov/health-care/eligibility/. They decide they need to look at more information and returns back to https://www.va.gov/health-care/. This is how Google Analytics would view the activity:
 
