@@ -39,8 +39,9 @@ _April 8 - April 21_
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
-- FE: Set up and test Flipper component on Drupal landing page
+- FE: set up and test Flipper component on Drupal landing page
 - BE: e2e tests, error handling (#6967, #6968)
+- BE: submit PR to merge BGS endpoints into `vets-api`
 - BE/FE: v1 code complete
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
