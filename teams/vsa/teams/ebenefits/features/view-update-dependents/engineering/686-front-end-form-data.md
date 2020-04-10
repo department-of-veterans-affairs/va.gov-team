@@ -53,6 +53,60 @@
     isMarriageAnnulledOrVoid: true,
     explanationOfAnnullmentOrVoid: 'Some stuff about the marriage being declared void.'
   },
+  
+  deaths: [
+        {
+          deceasedDateOfDeath: '2011-02-03',
+          deceasedLocationOfDeath: {
+            state: 'California',
+            city: 'Aomplea'
+          },
+          fullName: {
+            first: 'John',
+            middle: 'Henry',
+            last: 'Doe',
+            suffix: 'Sr.'
+          },
+          dependentType: 'CHILD',
+          childStatus: {
+            childUnder18: true
+            /* this could also be one of the following
+            stepChild: true
+            adopted: true
+            disabled: true
+            childOver18InSchool: true
+            */
+          }
+        },
+        {
+          deceasedDateOfDeath: '2012-03-03',
+          deceasedLocationOfDeath: {
+            state: 'California',
+            city: 'Clawson'
+          },
+          fullName: {
+            first: 'Sally',
+            middle: 'Bertram',
+            last: 'Struthers',
+            suffix: 'Jr.'
+          },
+          dependentType: 'SPOUSE'
+        },
+        {
+          deceasedDateOfDeath: '2009-03-04',
+          deceasedLocationOfDeath: {
+            state: 'Michigan',
+            city: 'Ann Arbor'
+          },
+          fullName: {
+            first: 'Rob',
+            middle: 'Bertram',
+            last: 'Stark',
+            suffix: 'II'
+          },
+          dependentType: 'DEPENDENT_PARENT'
+        }
+      ],
 
 }
 
