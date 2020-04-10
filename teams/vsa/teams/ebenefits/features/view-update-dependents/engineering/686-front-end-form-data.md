@@ -107,6 +107,97 @@
           dependentType: 'DEPENDENT_PARENT'
         }
       ],
+      
+  veteranWasMarriedBefore: true,
+      veteranMarriageHistory: [
+        {
+          marriageStartDate: '2007-04-03',
+          marriageStartLocation: {
+            state: 'Arkansas',
+            city: 'Rock Island'
+          },
+          reasonMarriageEnded: 'OTHER',
+          /* This could also be
+          reasonMarriageEnded: 'DIVORCE'
+          reasonMarriageEnded: 'DEATH'
+          reasonMarriageEnded: 'ANNULMENT'
+          */
+          reasonMarriageEndedOther: 'Some other reason',
+          marriageEndDate: '2009-05-05',
+          marriageEndLocation: {
+            state: 'Illinois',
+            city: 'Rock Island'
+          },
+          formerSpouseName: {
+            first: 'Sansa',
+            middle: 'Bigfoot',
+            last: 'Stark',
+            suffix: 'III'
+          }
+        }
+      ],
+      spouseWasMarriedBefore: true,
+      spouseMarriageHistory: [
+        {
+          marriageStartDate: '2008-03-03',
+          marriageStartLocation: {
+            state: 'Illinois',
+            city: 'Rock Island'
+          },
+          reasonMarriageEnded: 'OTHER', 
+          reasonMarriageEndedOther: 'Some other reason',
+          marriageEndDate: '2010-03-04',
+          marriageEndLocation: {
+            state: 'Illinois',
+            city: 'Rock Island'
+          },
+          formerSpouseName: {
+            first: 'Clovis',
+            middle: 'Nigel',
+            last: 'The Cat',
+            suffix: 'Sr.'
+          }
+        }
+      ],
+      spouseDoesLiveWithVeteran: false,
+      currentSpouseReasonForSeparation: 'Somthing happened',
+      currentSpouseAddress: {
+        countryName: 'United States',
+        addressLine1: '2037 29th St',
+        city: 'Rock Island',
+        stateCode: 'IL',
+        zipCode: '61201'
+      },
+      currentMarriageDetails: {
+        dateOfMarriage: '2014-03-04',
+        locationOfMarriage: {
+          state: 'California',
+          city: 'Slawson'
+        },
+        marriageType: 'OTHER',
+        /* This could also be
+        marriageType: 'CEREMONIAL'
+        marriageType: 'COMMON-LAW'
+        marriageType: 'TRIBAL'
+        marriageType: 'PROXY'
+        */
+        marriageTypeOther: 'Some Other type',
+        'view:marriageTypeInformation': {}
+      },
+      spouseInformation: {
+        spouseFullName: {
+          first: 'Jenny',
+          middle: 'Lauren',
+          last: 'McCarthy',
+          suffix: 'Sr.'
+        },
+        spouseSSN: '323454323',
+        spouseDOB: '1981-04-04',
+        isSpouseVeteran: true,
+        spouseVAFileNumber: '00000000',
+        spouseServiceNumber: '11111111'
+      },
+     
 
 }
 
