@@ -1,4 +1,5 @@
-# Initial Discovery: Personalized Career Planning & Guidance (via the TED Office)
+# Initial Discovery: Personalized Career Planning & Guidance 
+**(via the TED Office)**
 _Formerly known as Education/ Career Counseling (CH36) via VRE_
 `March 25, 2020`
 
