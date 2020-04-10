@@ -78,7 +78,10 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 - Discoverability
 - Number of online submissions
 
+--
 ## Go-to-Market
+_How will Veterans find this product? How will they know it exists?_
+
 - Comms isn't controlled by this team but discoverability may be a lever to pull
 
 ---
