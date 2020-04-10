@@ -91,9 +91,26 @@ Additionally:
 
 ## Questions
 
-1. What needs to appear as a widget vs. just a link on the new logged in homepage?
-2. How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
-3. Do things like "Your dependents", "Your disability rating", and other tools need to live on the new logged-in homepage, or should they actually live in the VA.gov profile? 
+### Design
+
+- What info needs to appear as a widget vs. just a link on the new logged in homepage?
+- How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
+- Do things like "Your dependents" and "Your disability rating" need to be displayed on the new logged-in homepage, or should they be displayed on the VA.gov profile, or both? 
+- What works well about the current homepage that veterans don't want to change? What would veterans change about the homepage as it is now?
+- How could an authenticated tool bar/menu fit into the current navigation before Mikki/Ryan/Jen are able to revisit the IA and flatten the IA/nav across the board?
+- How do we design for the 2.0 MVP in a way that will accomodate future improvements we know we want to make (eg. accomodating a future widget we know we'll eventually have; updates to the data/details we have for a particular status or widget)?
+
+### Technical
+
+- What data do we have access to now that we can show on the homepage? 
+- Is there data we have that we could leverage in an improved way (eg.  Showing where a prescrition is en-route)
+- Is there data that we don't have and need?
+- Is there data we want and maybe wouldn't leverage in the 2.0 MVP, but might leverage in a second/improvement phase?
+
+### PM
+
+- What staging users will we need, and who can help us get those set up?
+- How do we appropriately involve stakeholders, both within DEPO and outside of DEPO, in this project? How do we do this in a way that doesn't allow the homepage to become a dumping ground?
 
 ## Discovery Takeaways
 
@@ -115,7 +132,11 @@ Additionally:
 
 ### In Scope 
 
+- Leveraging data and tools we have now on VA.gov
+
 ### Out of Scope
+
+- Integration of entirely new data/backend systems that we don't already have access to for 2.0 MVP
 
 ## Solution Approach
 
