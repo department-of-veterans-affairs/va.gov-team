@@ -22,14 +22,14 @@ Most of View Dependents is finished, but with this timeline, the remaining steps
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - DE: Refine form content (labels, titles, buttons, etc) ([#6965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6965))
-- FE: e2e tests (#6049, #7224, #7486, #7487, #7488, #7489)
-- FE: refactor workflows (#7736)
-- BE/FE: connections made (#7771, #7724)
+- FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049), [#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489))
+- FE: refactor workflows ([#7736](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7736))
+- BE/FE: connections made ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771), [#7724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7724))
 - FE: get a `200` response from BE
-- FE: complete JSON transport tasks (#6043)
-- FE: pre-QA "smoke test" (#7201)
-- BE: refactor submission process (#7726)
-- BE: submission tested (#3765)
+- FE: complete JSON transport tasks ([#6043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6043))
+- FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201))
+- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726))
+- BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765))
  - 🌀 [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit)
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs
