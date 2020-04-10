@@ -130,17 +130,22 @@ Additionally:
 5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
 6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
 
-### In Scope 
-
-- Leveraging data and tools we have now on VA.gov
-
-### Out of Scope
-
-- Integration of entirely new data/backend systems that we don't already have access to for 2.0 MVP
-
 ## Solution Approach
 
+### Discovery
+
+- We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
+
+### Build
+
+- Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
+
 ## Value Propositions
+
+- We will reduce the confusion as to whether people should use the homepage or My VA as their landing pad when they are logged in to VA.gov.
+- We will make it easier to see helpful status updates/notifications that require action so veterans can act on this information more easily.
+- If we create a better, more usable logged in experience, we may see an increase in the number of people who create accounts, log in to VA.gov, and verify their identities.
+- We are laying a foundation for a scalable, personalized homepage that can be adapted to other user types when the site is able to accomodate other roles and permissions.
 
 ## KPIs
 
