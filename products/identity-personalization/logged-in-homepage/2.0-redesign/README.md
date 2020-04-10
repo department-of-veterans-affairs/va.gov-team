@@ -28,18 +28,12 @@
 - [Questions](#questions)
 - [Solution Approach](#solution-approach)
 - [KPIs](#kpis)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Requirements](#requirements)
 
 # Implementation Information
-- [Status](#status)
+- [Discovery Takeaways](#discovery-takeaways)
 - [Solution Narrative](#solution-narrative)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Development](#development)
 - [Design](#design)
-- [Screenshots](#screenshots)
 
 ## Overview
 
@@ -123,13 +117,6 @@ Additionally:
 
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
 
-## Value Propositions
-
-- We will reduce the confusion as to whether people should use the homepage or My VA as their landing pad when they are logged in to VA.gov.
-- We will make it easier to see helpful status updates/notifications that require action so veterans can act on this information more easily.
-- If we create a better, more usable logged in experience, we may see an increase in the number of people who create accounts, log in to VA.gov, and verify their identities.
-- We are laying a foundation for a scalable, personalized homepage that can be adapted to other user types when the site is able to accomodate other roles and permissions.
-
 ## KPIs
 
 - Do more people log in because we've made it easier to navigate VA.gov and their tools?
@@ -139,12 +126,14 @@ Additionally:
 - Do we see a decrease in people calling the call center for information/updates? (Not sure how to measure this)
 - Do we see an increase in overall level of satisfaction with the homepage? (eg. Foresee data)
 
+---
+
+# Implementation Info
+
 ## Discovery Takeaways
 
 - [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md) — Last summer, we conducted research to validate moving forward with a logged-in homepage redesign.
 - Currently, we are undergoing a discovery phase geared more specifically toward how we might approach the homepage redesign. We'll link to those reports here as they're completed.
-
-## Requirements
 
 ### Goals
 
@@ -157,25 +146,25 @@ Additionally:
 5. **Prioritize wayfinding** — We should make it easy for users to find information that is relevant to them, and we should guide users accordingly depending on where they are in their journey at the VA.
 6. **Effectively use visual space** — We should avoid a single-column, "content page" approach. Design updates should more effectively employ [the design system](https://design.va.gov/) and update it as needed.
 
----
+## Solution Narrative
 
-# Implementation Info
-
-## Status
+### Status
 
 - **Summer 2019**: Personalization 2.0 initial discovery/strategy completed.
 - **March 2020**: Kicked off logged-in homepage discovery
 - **April 2020**: DEPO takeholder interviews complete
 
-## Solution Narrative
+### Key Decisions
 
-## How to Access and Test
+## Development
 
-## Error Handling
+### How to Access and Test
 
-## Service Level Objective
+### Error Handling
 
-## API Calls and Dependent Systems
+### Service Level Objective
+
+### API Calls and Dependent Systems
 
 ## Design
 
