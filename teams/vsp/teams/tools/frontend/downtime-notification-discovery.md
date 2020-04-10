@@ -15,7 +15,7 @@
 - [hca](#hca)
 - letters
 - login
-- pensions
+- [pensions](#pensions)
 - personalization
 - post-911-gib-status
 - pre-need
@@ -88,5 +88,13 @@ Custom messaging using [`<DowntimeMessage>`](https://github.com/department-of-ve
 - PUT `/notifications/dismissed_statuses/form_10_10ez`
 - POST `/notifications/dismissed_statuses`
 
-- pensions
-  - dependencies: `icmhs` (Intake, conversion, & mail handling services)
+### pensions
+
+**dependencies**
+
+- `icmhs` (Intake, conversion, & mail handling services)
+
+#### Endpoints
+
+- GET `/v0/pension_claims/[GUID]`
+- POST `/v0/pension_claims`
