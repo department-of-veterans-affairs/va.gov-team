@@ -39,9 +39,9 @@ Service seal not necessary or could be put on the side
 
 # Combining profile & account usability testing
 
-[Note-taker name]
+[Matt Shea]
 
-*[Participant #] [Date] [Time]*
+*[Participant P3] [April 11, 2020] [11:00]*
 
 ## Intro (5 minutes)
 
