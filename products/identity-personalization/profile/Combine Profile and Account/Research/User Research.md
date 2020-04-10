@@ -39,7 +39,7 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 - People will prefer 2.0 to 1.0.
 - The side nav will go over really well and increase scanability.
 - Saving and error interactions will be intuitive and meet expectations.
-- Participants may be confused about the "Your Account" labeling and not know what to expect to see there.
+- The mobile navigation will be hard to find and understand.
 - Participants may not understand why or how to edit "personal information"
 - Participants might be confused about Connected Accounts and what that means
 
