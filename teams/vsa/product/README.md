@@ -12,6 +12,7 @@
   - [Agile Ceremonies](#agile-ceremonies)
   - [Sprint Objectives](#sprint-objectives)
   - [Issue Templates and Examples](#issue-templates-and-examples)
+  - [Team of Teams](#team-of-teams)
 - [Launch Prep](#launch-prep)
 
 ### Setting Direction-Guideposts, OKRs, and Bets
@@ -85,6 +86,9 @@ Resources:
 | [508 Issue (Accessibility)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/.github/ISSUE_TEMPLATE/508-issue.md) | [[COGNITION]: Error message should only display once per error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5948) |
 | [Public Websites Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) | [[Content] HLR: Introduction Page Copy Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5622) |
 
+#### Team of Teams (ToT)
+An opportunity for product managers and DEPO leads working across VA.gov to share updates for awareness, dependencies, blockers. 
+- [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/ToT_Template.pptx)
 
 #### Testing
    - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)
