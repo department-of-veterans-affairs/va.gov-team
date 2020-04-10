@@ -1,4 +1,4 @@
-# Load Testing Waiver
+# SSOe Load Testing Waiver
 
 We are requesting a waiver for load testing before launch of SSOe integration.
 
