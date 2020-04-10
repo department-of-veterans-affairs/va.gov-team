@@ -61,7 +61,7 @@ _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
 - UAT/ UAT outcome PRs, email whitelist 
-- ⭐Launch to n% of users
+- 🚀Launch to n% of users
 - Launch to 100% of users
 - Create eBenefits user redirect messaging  
 - Coordinate page redirects
