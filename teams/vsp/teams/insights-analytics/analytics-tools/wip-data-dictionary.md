@@ -3,14 +3,27 @@
 # Data Dictionary
 Objective: This resource defines common Google Analytics terms and provides more context on their usage within VA.gov. 
 
-### Historical Data in Google Analytics
-In November 2018, the modernized Vets.gov experience was consolidated with VA.gov as part of the Web Brand Consolidation. MyHealtheVet and eBenefits also began populating into the VA.gov Production Property in 2018, with basic pageview and session data. More granular veteran transactions on MHV and eBenefits do not exist in the VA.gov Production Property.
+### How do I view data for a particular area of the site? 
 
+#### All VA.gov Data
+To see users, sessions, and pageviews for all Modernized, MyHealtheVet, eBenefits and other parts of the VA.gov site, the "All VA.gov Production" View aggregates activity across these sections of the site. There are several subdomains and subdirectories that have not been fully implemented onto the same VA.gov Google Analytics property.
+
+#### All Modernized Data
+To see data to only the Modernized content of VA.gov, there is a "WBC Modernized View" in Google Analytics. This allows you to see activity across all the Modernized content and veteran-facing products on the site. 
+
+Goals are configured in this view, but there is a limitation of only 20 views. For deeper product analysis and additional goals, you can view goals for each Modernized product suite, like Health Care Modernized, Disability Modernized, etc.
+
+#### Historical Data for MHV, eBenefits, and Vets.gov
+MyHealtheVet and eBenefits began populating into the VA.gov Production Property in mid-2018, with basic pageview and session data. In November 2018, the modernized Vets.gov experience was consolidated with VA.gov as part of the Web Brand Consolidation.
+ 
+Data before November 2018 for VA.gov, MHV, and eBenefits does not exist within the same VA.gov property, though it may be collected in other Google Analytics properties that are not within the VSP Analytics & Insights team's control. 
 
 ### How does Google Analytics measure usage and activity on VA.gov? 
-- Users: Google Analytics measures users by counting activity of unique device IDs. This ID is a numeric identifier that does not contain any private veteran information. The out-of-box user metric does not deduplicate users across devices. While this is possible to dedupe users with additional configuration, the Platform Analytics & Insights team does not have this configured at this time. 
+- Users: Google Analytics measures users by counting activity of unique device IDs. This ID is a numeric identifier that does not contain any private veteran information. The out-of-box user metric does not deduplicate users across devices. 
 
-   _Example_: If I browse on a laptop and a desktop, Google Analytics counts each device as a user. 
+While this is possible to dedupe authenticated users with additional configuration, the Platform Analytics & Insights team does not have this configured at this time. 
+
+   _Example_: If a veteran browses on their laptop and then on a desktop, Google Analytics counts each device as a user. 
 
 - Sessions: Google Analytics measures activity on the site as the start of a session. A user of VA.gov (aka device) can have multiple session over a time period, but sessions will expire after 30 minutes of inactivity on the site.
 
@@ -26,3 +39,7 @@ _ Pageviews and Unique Pageviews: Google Analytics tracks the individual view of
    _How should I interpret this data?_ It's helpful to look at total pageviews to understand the engagement that content within your product area is receiving. In these reports, you can identify content that might be underperforming against your hypothesis. 
    
 ### How are common veteran interactions tracked?
+
+- Clicks on Navigation Elements
+- Scroll Depth
+- Form Submissions and Other Veteran Interactions
