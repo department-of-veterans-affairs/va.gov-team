@@ -11,6 +11,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_
 **Number of work days:** 27 from today   
 **Number of sprints:** 2   
+🌀 = Collab Cylce Meeting
 ## Events  
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
@@ -22,18 +23,22 @@ _April 8 - April 21_
 - FE: pre-QA smoke test
 - BE: refactor submission process
 - BE: submission tested
-- PD: Request 508 Review
-- PD: Request QA Review
-- PD: Request GA Event names
-- DE: Landing pages sent to Public Web
+- PD: request 508 Review
+- PD: request QA Review
+- PD: request GA Event names
+- PD: contact center docs
+- DE: landing pages sent to Public Websites
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
+- 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
 - FE: Set up and test Flipper component on landing page
 - BE: e2e tests, error handling
 - BE/FE: v1 code complete
+- 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
+- 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
 - PD: Stakeholder review/ demo
 
 ### Launch Sprint 21 (T)
@@ -48,5 +53,6 @@ _May 6 - May 19_
 _May 20 - June 2_
 - Implement eBenefits user redirect messaging 
 - Deprecate feature
+- 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
 
 
