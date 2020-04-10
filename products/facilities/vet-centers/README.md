@@ -15,7 +15,7 @@ This is the new VA.gov facility product for VA's Vet Centers.
 - Research, design, and write new content for "Prepare for your visit" section
 - Research, design, and write new VHA Vet Center services taxonomy
 - Research, design, and write (first draft/pilot) local facility content for each Vet Center service
-- Build Vet Center cemetery facilities in Drupal
+- Build Vet Center facilities in Drupal
 - Build VHA Vet Center services taxonomy in Drupal, and integrate into the Facilities API
 - Build and publish new front-end VA Vet Center facility product
 - Research, design, and write new content for new facility products

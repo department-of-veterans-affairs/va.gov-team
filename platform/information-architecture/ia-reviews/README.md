@@ -6,6 +6,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | Review Status | Status Notes 
 --- | --- | --- | --- 
+eBenefits | Chapt 36 Career Counseling | NOT STARTED | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 eBenefits | Payment History | NOT STARTED | Kick-off held 3/19 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
 BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md

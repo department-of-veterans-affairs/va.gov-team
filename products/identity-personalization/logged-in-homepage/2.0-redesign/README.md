@@ -43,9 +43,11 @@ At a high level, this project aims to do the following things:
 2. Elevate status updates and notifications for logged in users.
 3. Retire the existing My VA dashboard in favor of a redesigned logged-in homepage.
 
+This is part of the [Personalization 2.0 strategy from 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md). Personalization 2.0 includes the effort to combine the profile and account pages (profile 2.0) and this effort to redesign the logged-in homepage.
+
 ## Problems
 
-Based on some [research we did last summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard), these are the main problems we've observed with regards to the My VA dashboard and the existing logged-in homepage.
+Based on the research that informed [the Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard), these are the main problems we've observed with regards to the My VA dashboard and the existing logged-in homepage.
 
 - People don't use — or even know about — the My VA dashboard.
 - We don't guide people to the My VA dashboard.

@@ -126,6 +126,8 @@ Take a moment to look over this page.
 
 -   Did you read anything that was surprising? Confusing?
 
+- Which ordering method on this page would you prefer?
+
 Now that you've had a chance to look over this page, go ahead and show me what you would do next to request hearing aid batteries and accessories from the VA.
 
 *If successful in finding the 'Place an order' button:*
@@ -137,8 +139,6 @@ Now that you've had a chance to look over this page, go ahead and show me what y
 -   What were you looking for in order to move forward?
 
 -   Direct participant to "Place an order" button
-
-The next portion of this session will take place in a staging environment that acts like VA.gov.
 
 Task 3: Signing in from the intro page
 --------------------------------------
@@ -251,7 +251,8 @@ The products displayed will be the products that the participant is currently el
 
 ### Extra tasks
 
-I'm going to now share my screen and show a few portions of the form you just completed. I'm going to show you a few scenarios and ask you questions about each one.
+I'm going to share a link to a page from the form you just completed. 
+https://preview.uxpin.com/6eac3d277fb657b17dbeef85149d862b1279c05c#/pages/127504547/simulate/sitemap?mode=i
 
 #### Address page
 
@@ -265,6 +266,8 @@ Now, let's say you noticed a typo in your address and you'd like to update it. H
 
 -   Is that what you expected to happen?
 
+Go ahead and proceed to the next screen.
+
 #### Battery selection page
 
 Now let's say you don't see the batteries you're expecting. What would you do?
@@ -272,6 +275,8 @@ Now let's say you don't see the batteries you're expecting. What would you do?
 *Things to watch out for:*
 
 -   Was the participant able to find the directions and the DLC's contact information?
+
+Go ahead and proceed to the next screen.
 
 #### Review submission page
 

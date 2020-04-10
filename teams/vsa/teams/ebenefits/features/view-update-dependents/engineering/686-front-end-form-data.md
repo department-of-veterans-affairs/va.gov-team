@@ -24,6 +24,11 @@
      birthDate: '1982-02-04'
    },
    
+  moreVeteranInformation: {
+    phoneNumber: '2146866521',
+    emailAddress: 'cohnjesse@gmail.xom'
+  },
+   
   childMarriage: {
     marriedChildName: {
     first: 'James',
@@ -32,7 +37,22 @@
     suffix: 'Sr.'
     },
     dateChildMarried: '1977-02-02'
+  },
+  
+  reportDivorce: {
+    formerSpouseName: {
+      first: 'Ron',
+      middle: 'Walter',
+      last: 'Swanson'
     },
+    dateOfDivorce: '2001-02-03',
+    locationOfDivorce: {
+      state: 'Michigan (MI)',
+      city: 'Clawson'
+    },
+    isMarriageAnnulledOrVoid: true,
+    explanationOfAnnullmentOrVoid: 'Some stuff about the marriage being declared void.'
+  },
 
 }
 
