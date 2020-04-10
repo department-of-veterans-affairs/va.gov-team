@@ -150,10 +150,12 @@ Additionally:
 
 ## KPIs
 
-- Do more people log in because we've made it easier to navigate VA.gov and their tools if they log in?
-- Do we see an increase in accounts created, especially LOA3 accounts?
+- Do more people log in because we've made it easier to navigate VA.gov and their tools?
+- Do we see an increase in accounts created?
+- Do we see an increase in people who verify their identities (LOA3)?
 - Do we see an increase in people routing to tools through the homepage?
-- Do we see a decrease in people calling the call center for information? (Not sure how to measure this)
+- Do we see a decrease in people calling the call center for information/updates? (Not sure how to measure this)
+- Do we see an increase in overall level of satisfaction with the homepage? (eg. Foresee data)
 
 ---
 
