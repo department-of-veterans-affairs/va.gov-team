@@ -23,6 +23,7 @@ _April 8 - April 21_
 - BE: submission tested
 - PD: Request 508 Review
 - PD: Request QA Review
+- PD: Request GA Event names
 - DE: Landing pages sent to Public Web
 
 ### Sprint 20 (T-14)  
@@ -31,6 +32,7 @@ _April 22 - May 5_
 - BE: e2e tests, error handling
 - BE/FE: v1 code complete
 - BE/FE: e2e and load testing with partner systems
+- FE: Confirm Sentry access, enter utility code
 - PD: Stakeholder review/ demo
 
 ### Launch Sprint 21 (T)
