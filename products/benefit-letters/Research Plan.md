@@ -57,7 +57,7 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	- coming soon
+- Convo Guide	- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/IAM%20conversation%20guide.md
 
 *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
