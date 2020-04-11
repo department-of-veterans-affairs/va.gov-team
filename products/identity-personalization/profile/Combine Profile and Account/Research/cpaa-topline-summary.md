@@ -22,6 +22,7 @@ This topline summary is a result of the synthesis that happens after conducting/
  - All participants expressed tasks to be 'easy' (once they were more familiar with layout and navigation)
  - All participants were able to locate the profile page from the home page on both mobile and desktop
  - All participants were able to easily understand most terminology within navigation and content of the profile
+ - Users often tried to use 'search' rather than the profile menu to find what they are looking for
  - Almost all participants mentioned they expected to see their benefit information somewhere on the profile (if this is possible - I think this would be a valuable addition)
  - All participants thought that the military badge on mobile was taking up too much space, 2/5 thought it was unnecessary all together.
  -Recommendations: Remove/size down military badge on mobile, add in benefit information (if possible)
@@ -86,8 +87,3 @@ This topline summary is a result of the synthesis that happens after conducting/
 **Finding**
 - Users want to see their benefit information on the profile.
 > “The only other thing I would say is possibility benefit information. And again, that might include education options, your disability stuff I don’t know, or go to a menu that link to those things. If I was coming to this and scrolling through it would be nice to have it all in one spot.”
-
-**Finding**
-- Users tried to use 'search' rather than the profile menu to find what they are looking for
->"But I would click out and try to find it in one of the search, tool boxes or dropdowns"
-> "It depends on what I’m looking for… quite honestly if I’m not sure where to find it, then I use the search engine"
