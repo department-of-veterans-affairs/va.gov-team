@@ -42,7 +42,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 
 - Define and maintain rules of engagement (ROE) for how VSP Analytics & Insights and VFS teams should collaborate
 - Keep analytics and contact centers best practice documentation up to date
-- Be available in #vfs-platform-support to answer Analytics and Contact Center related questions
+- Be available in #vfs-platform-support and #vfs-analytics to answer Analytics and Contact Center related questions
 - Implement analytics on veteran-facing products
     - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
     - QA Google Tag Manager for quality analytics before launches
@@ -52,16 +52,25 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
     - Host KPI setting workshops with teams
     - Check in quarterly with teams to support KPI tracking
     - Document and track team KPIs, including baselines, goals, and results
+    - Provide deep dive sessions with Product Managers
+    - Provide KPI and OKR resource decks
     - Determine additional KPI or metrics coaching or workshop opportunities
 - Maintain repository of relevant VFS data
     - Determine success metrics for VFS products
     - Document where success metrics live and how to obtain them
     - Discover which success metrics are uncaptured
         - Determine a process for how to wrangle uncaptured metrics (or document any blockers)
-- Deploy and maintain the "Product Health" tool
+- Deploy and maintain the Product Success Tool
     - Aggregate relevent data from across different channels
     - Visualize product problems
-- Respond to one-off and recurring data reporting requests
+    - Maintain BigQuery
+    - Connect all relevant and available data to Dom
+- Maintain & develop Contact Center relationships
+- Determine appropriate ForeSee tracking questions and strategy
+- Support Contact Center issues
+    - Triage Tier 3 issues to appropriate VFS teams
+    - Respond to Tier 3 issues
+- Respond to and publish one-off and recurring data reporting requests
 
 ### Roadmap:
 [Link to Github Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=analytics-insights,super-epic&repos=133843125)
@@ -71,13 +80,12 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 ## Who we are
 
 ### Team Members:
-- DSVA Product Leads: _Leah Bannon & Patrick Bateman_
+- DEPO Product Leads: _Kevin Hoffman & Dror Matalon_
+- DEPO Contact Center Product Lead: _Chante Lantos-Swett_
 - Product Manager: _Joanne Esteban_
-- Insights Lead: _Nedie Recel_
 - Implementation Specialist: _Jon Wehausen_
+- Implementation Specialist: _Brian Martin_
 - Designer/UX Researcher: _Amy Cesal_
-- Front End Engineer: _Nicola Beuscher_
-- DSVA Contact Center Product Lead: _Chante Lantos-Swett_
 - Contact Center Lead: _Kimberley Daniels_
 
 ---
@@ -92,7 +100,7 @@ Check in on people and product progress
 - Zoom M, T, W, F @ 10:00am ET
     - 15 min
 - Slack Up Th @ 10:00am ET
-- 3 Question Format: What did I accomplish yesterday? What will I do today? Any impediments?
+- 3 Question Format (based on team objectives): What did I accomplish yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
@@ -121,11 +129,15 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Description with Background and Acceptance Criteria
 - Labels: `Analytics-Insights`
 - User Story (if applicable), Goal, and Acceptance Criteria
-- Nested in an Epic
+- Nested in an Epic/Super Epic
 
 All work should be validated as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint.
+
+*Prioritizing*
+- [Link to Priorities](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1585175387763/ebc0ae5ed4997ab30dd932409b12269a34bd5bce)
+- Ensure that we are putting VFS teams and Veteran Facing Services first. In an effort to provide excellent customer support, reply to Slack messages within a general 2 hour time frame. This can be a threaded response, as in "We should be able to take a look tomorrow. Could you please submit this as a GH issue using this template: [link]?" [Platform Slack message with customer service message](https://dsva.slack.com/archives/CJRQ85PQB/p1564606636087800).
 
 #### Team Norms
 
@@ -152,4 +164,4 @@ GitHub is the single source of truth. Every body of work should be documented fo
     - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
     - Access - ping us on Slack, #vfs-platform-support
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
-- "Product Health Tool" TBD
+- "Product Success Tool
