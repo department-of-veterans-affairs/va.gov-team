@@ -17,12 +17,14 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 ### Product Portfolio:
 
 **Products**
-- "Product Health" Tool
+- Product Success Tool
 - Google Tag Manager
 - Google Analytics
 - ForeSee
+- Social Studios
 - VFS KPI Setting and Tracking Processes
 - Contact Center relationships
+- Contact Center triaging
 
 **Metrics Suite**
 - Google Analytics
