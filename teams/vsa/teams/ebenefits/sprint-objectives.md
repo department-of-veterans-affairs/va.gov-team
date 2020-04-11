@@ -39,7 +39,7 @@
 
 ## Sprint 18 (3/25 - 4/7)
 ```diff 
-- 79 points over 29 issues
+- 74 points over 28 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Run final platform design/ collab cycle meetings
