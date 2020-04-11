@@ -1,5 +1,5 @@
 # Conversation Guide: User Acceptance Testing for eBenefits IAM - logging in to eBenefits with partner services
-## Logging in with ID.me and MHV credentials
+Logging in with DS Logon, ID.me and MHV credentials. The script is identical but the different scenarios have the users logging in with the various credentials, and the users are either Veterans or dependents
 ### April 2020
 
 - Link to give participant: https://eauth.va.gov/accessva/?cspSelectFor=ebenefits 
@@ -32,7 +32,7 @@ Great! Any questions before we get started?
 
 ## Login
 
-- **(Scenario A1)To start, can you confirm for me that you are a Veteran with an existing DS Logon Premium account and that you are receiving payments from the VA for at least one rated disability **
+- **(Scenario A1) To start, can you confirm for me that you are a Veteran with an existing DS Logon Premium account and that you are receiving payments from the VA for at least one rated disability **
   - If no: Ok, unfortunately, we will need to end the session because we need you to have these accounts. 
 
 - **Do you know your DS Logon username and password?** 
@@ -60,17 +60,17 @@ Great! Any questions before we get started?
 - **Complete the Authentication process - enter your username and password**
 - [ ] **UAT TASK:** *Validate that the user can log in with their DS Logon credentials*
 
-- **Return to eBenefits Dashboard and click Disabilities**
-**Great, now let's check that the correct disability rating information is here and it's what you expected to see?**
+- **Return to eBenefits Dashboard and click Disabilities.**
+  **Great, now let's check that the correct disability rating information is here and it's what you expected to see?**
 - [ ] **UAT TASK:** *The correct disability rating information is displayed*
 
-- **Let's go look a the Direct Deposit information now. Navigate to Manage -> Contacts and Direct Deposit -> Direct Deposit and Contact Information Update** 
-**Do you see the correct account information and Contact Information?**
+- **Let's go look a the Direct Deposit information now.  Navigate to Manage -> Contacts and Direct Deposit -> Direct Deposit and Contact Information Update.** 
+  **Do you see the correct account information and Contact Information?**
 - [ ] **UAT TASK:** *Contact information page is displayed reflecting your registered information*
 
-- **Next, let's look at your VA letters. Navigate to the Letters feature (Manage -> Documents and Records -> VA Letters)**
-and Contact Information Update** 
-**Do these letter options seem correct to you?**
+- **Next, let's look at your VA letters. Navigate to the Letters feature (Manage -> Documents and Records -> VA Letters).**
+
+  **Do these letter options seem correct to you?**
 - [ ] **UAT TASK:** *List of available letters is displayed, including the Benefit Summary Letter*
 
 - **Now generate the Benefit Summary Letter**
