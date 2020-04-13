@@ -26,3 +26,8 @@
 ## VHA
 - Kathy Frisbee (Office of Connected Care), Co-Product Owner
 - Denise Kitts (Veterans Experience Office), Co-Product Owner
+
+## Content & Design
+- Martha Wilkes
+- Danielle Thierry
+- Trevor (a11y SME)
