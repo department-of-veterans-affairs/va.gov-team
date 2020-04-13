@@ -1,162 +1,243 @@
-# Authenticated Experience Team Charter
+# Authenticated Experience Product Plan 
 
-## Guideposts 
-### Authenticated Experience Mission Statement:
-Help veterans accomplish tasks more easily by leveraging what we know about them as a logged in user.
+- GitHub Label: vsa-authenticated-exp  
 
-### Authenticated Experience Vision:
-"A personalized experience where veterans can easily accomplish what matters to them "
-- personalized experience
-- relevant information
-- notifications/status updates
-- complete tasks
+- Slack channel: #vsa-authd-exp 
 
-### Authenticated Experience North Star:
-potentials:
-1) Minimizing the amount of time veterans spend to accomplish tasks within the AE.
-- want this to be a roll up of all possible relevant inputs/metrics
+- Product POC's: Lisa Koenigsberg, Samara Strauss and Justin Pickett 
 
-Future note:
-If this was an ideal personalized product experience, we would show the user all relevant benefits/tasks that apply to them.
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 
-## What we work on
+--- 
 
-### Product Line
-Authenticated Experience for VA.gov
+### Table of Contents 
 
-### Product Portfolio
-
-*	Dashboard
-*	Profile
-*	Account
-* Notifications
-*	Login Flows
-* In Content Personalization
-*	Others
-
-## Responsibilities
-Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
-
-## Roadmap
-
-### Q1 2020
-
-#### Direct Deposit
-- Removal of direct deposit from eBenefits
-
-#### Address validation
-- QA
-- Pre-launch checklist
-- Launch
-
-### Profile 2.0
-- Design
-- Technical discovery
-
-### Q2 2020
-
-#### Profile 2.0
-- User testing
-- Build
-- QA
-- Pre-launch
-
-#### Logged-in homepage
-- Discovery & strategy
-- Start design
-
-### Q3 2020
-
-#### Profile 2.0
-
-- Launch
-
-#### Logged-in homepage
-- Design
-- Build
-- User testing and additional user research
-
-## Team Members
-
-|**Roles**              |**Assigned**                        |
-|-----------------------|------------------------------------|
-|DSVA team lead         |Samara Strauss
-|Team Product Manager   |Matt Shea
-|Designer/Researcher    |Tressa Furner
-|Front-End Engineer     |Erik Hansen
-|Front-End Engineer     |Sandra Hallie
-|Back-End Engineer      |Lihan Li
-
-## Workflow + Cadence
-
-### Stand-up: people & product check-ins
-Daily @ 3pm ET (except Tuesdays) 
-20-25 min  
-Format:  
-1. General Discussion
-2. What I did yesterday? 
-3. What will I do today? 
-4. Any impediments?
-5. Recap
-
-### Sprint Planning
-Outline team and member focus, goals for sprint:  
-1st Wednesday of every sprint  
-1-2 hour(s) 
-
-### Retro
-Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
-2nd Tuesday of every sprint   
-30 min
-
-### Grooming
-Assess and update workload for remainder of sprint:  
-2nd Thursday of every sprint   
-1-hour 
-
-### Issue Etiquette
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-  * Estimate
-  * Title that explains task
-  * Description with Background and Acceptance Criteria
-  * Labels - vsa-authenticated-exp (and cross functional team labels)
-  * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
-  * Epic assigned
   
-All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+# Executive Summary  
 
-### Estimation
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
+- [Mission](#mission) 
 
- 1 - Easy task, work is known, can be executed quickly   
- 2 - Mostly known, doable
- 3 - Becoming complex   
- 5 - Very complex, may take a full sprint or longer    
- 8 - Needs to be broken down into smaller user stories      
+- [User Problem Statement](#user-problem-statement) 
 
-### Team Norms
+- [Solution Goals](#solution-goals) 
 
-  * Be respectful, both online and off
-  * Show your face (Webcam) at meetings / calls
-  * Speak up! - everyone’s voice matters
-  * We are flexible, but intentional in the way we work
-  * Let’s have fun and do great work!
+- [Questions](#questions) 
 
-**And some logistics:**
+- [Assumptions](#assumptions) 
 
-Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
-GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
-Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub.
-Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
-Extra time? Explore the "Ready" column in ZenHub.
+- [Requirements and Constraints](#requirements-and-constraints) 
 
-**Role-Related Knowledge / Best Practices**
+- [Discovery Takeaways](#discovery-takeaways) 
 
-[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
+- [Solution Approach](#solution-approach) 
 
-[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
+- [Value Propositions](#value-propositions) 
 
-[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
+- [KPIs](#kpis) 
 
+  
+
+# Implementation Information 
+
+- [Status](#status) 
+
+- [Solution Narrative](#solution-narrative) 
+
+- [Team](#team) 
+
+- [Resources and Documentation](#resources-and-documentation) 
+
+- [Screenshots](#screenshots) 
+
+  
+
+--- 
+
+  
+
+# Executive Summary 
+
+  
+
+## Mission 
+
+Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
+
+  
+
+## User Problem Statement 
+
+1. I don’t know what I don’t know - what benefits and services can I get access to? 
+
+2. What info does VA know about me and why isn’t it always accurate / consistent? 
+
+
+## Solution Goals 
+
+Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve. 
+
+
+#### User Goals 
+
+
+1. Port Direct Deposit to VA.gov from eBenefits. [Product Outiline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
+
+2. Implement a Notifications MVP [Product Outiline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-settings-product-outline.md)
+
+3. Personalization 2.0 [Product Outiline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0)
+
+4. Address Validation & Override [Product Outiline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/product-outline.md)
+
+5. Bad Address Indicator [Product Outiline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/bad-address-indicator/product-outline.md)
+
+  
+
+#### Business Goals 
+
+  
+1. Porting over Direct Deposit functionality to VA.gov from eBenefits, decreases fraud cases releated to direct deposit, pension and compensation. 
+
+3. Implement a Notifications MVP - brings VetText, Vets360, and VA.gov together to allow Veterans with healthcare to set/manage text notifications for their medical appointments. 
+
+3. Personalization 2.0 - Creates a centralized, modern, and easy to use logged in experience where vets, and others, manage and self-serve all things VA benefits and services related
+
+4. Address Validation & Override - Leverages UAM tools to do real time validation and suggestions with a last ditch override option.
+
+5. Bad Address Indicator - Consumes the BAI indicator from VetProfile and surface a UI notification to the user that the address in question needs attention. 
+
+
+  
+
+## Questions 
+
+- What are the reasons around why people are currently experiencing fraud regarding their direct deposit information on eBenefits website? 
+
+- What level of personalization can we be confident in? 
+
+-  
+
+## Assumptions 
+
+ 
+  
+
+## Requirements and Constraints 
+
+  
+
+- Data in the VA itself is non-standard 
+
+- Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
+
+- 
+
+  
+
+## Discovery Takeaways 
+
+  
+
+## (Potential) Solution Approach(es) 
+
+1. Enable user to update their personal data (address, email, phone) for accuracy and the ablility to update their direct deposit information on VA.gov safe and securely. 
+
+3. Share information with the user based on their personal (existing) and custom (entered) data. 
+
+  
+
+## Value Propositions 
+
+- Increase Veteran access to the benefits they deserve. 
+
+  
+
+#### User Value 
+
+- Veterans, caregivers, and family members get increased access to benefits. 
+
+  
+
+#### Business Value 
+  
+
+## KPIs 
+
+--- 
+
+# Implementation Info 
+
+ 
+## Status 
+
+  
+
+## Solution Narrative 
+
+- **Date**: summary of any big changes and why 
+
+- **Date**: summary of any big changes and why 
+
+  
+
+## Team 
+
+
+- VA Executive Sponsor `*`: Chris Johnston / Lisa Koenisberg / Samara Strauss
+
+- Product Manager `*`: Justin Pickett
+
+- Design Lead: Samara Strauss/ Shawna Hein
+
+- Eng Lead: Jose Costa
+
+- VA Contact Center Partner(s):  Chante Lantos-Swett
+
+- Production Testing Partner(s): Tze Chu-Lei
+
+- Designer(s): Arthur Green
+
+- Content Writer(s): Peggy Gannon
+
+- Front-end Engineer(s): Erik Hansen , Bradley Conley
+
+- Back-end Engineer(s): Lihan Li 
+
+  
+
+`*` = approval required for launch 
+
+  
+
+## Resources and Documentation 
+
+  
+
+- Discovery and Research 
+
+- Technical Documentation 
+
+- Product specs 
+
+- Design 
+
+- Roadmap 
+
+- ATO documentation 
+
+
+### How to access in staging 
+
+- Link: https://staging.va.gov
+
+- Password protection info: Zm9ydHkgdHdv
+
+- User authentication info: vets.gov.user+0@gmail.com
+
+  
+
+### Screenshots 
+
+#### Before 
+
+#### After 
