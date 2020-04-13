@@ -22,9 +22,9 @@ DEPO is moving towards a singular, scalable approach to cards throughout VA.gov.
 [GIBCT Caution Flags Search v0.0 - Desktop](https://bahdigital.invisionapp.com/share/YUIACDIH34S)  
 [GIBCT Caution Flags Search v0.0 - Mobile](https://bahdigital.invisionapp.com/share/9MIACE1FGHN)  
 
-<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/caution-flags/ui/images/Desktop%20Search%20results%20v0.0.png" width="320"></kbd> 
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/caution-flags/design/images/Desktop%20Search%20results%20v0.0.png" width="320"></kbd> 
  
-<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/caution-flags/ui/images/Mobile%20Search%20results%20v0.0.png" width="160"></kbd> 
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/caution-flags/design/images/Mobile%20Search%20results%20v0.0.png" width="160"></kbd> 
 
 
 
