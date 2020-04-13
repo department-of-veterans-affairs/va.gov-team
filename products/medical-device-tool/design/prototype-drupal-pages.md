@@ -13,7 +13,7 @@ Navigation: <br>
 
 ### Content
 
-This exists as a Word document. [Download the Word Doc here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1_SC_RO.docx)
+This exists as a Word document. [_Download the Word Doc here._](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1_SC_RO.docx)
 
 
 ## Prosthetic socks 
