@@ -10,7 +10,6 @@
 - pre-need
 - proxy-rewrite
 - public-outreach-materials
-- validate-mhv-account
 
 ### search
 
@@ -42,6 +41,18 @@ No downtime behavior or listed dependencies
 - GET `/terms_and_conditions/[TERMS_NAME]/versions/latest`
 - GET `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
 - POST `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
+
+### validate-mhv-account
+
+There is no downtime behavior or listed dependencies
+
+#### Endpoints
+
+These are redirects
+
+- `/v1/sessions/verify/new`
+- `/sessions/verify/new`
+
 
 
 ### vaos
