@@ -3,14 +3,11 @@
 
 - Auth
 - beta-enrollment
-- [burials](#burials)
 - caregivers
 - claims-status
 - disability-benefits
-  - [all-claims](#disability-benefits/all-claims)
   - 2346
   - 526EZ
-  - [686](#disability-benefits/686)
   - 686c-674
   - 996
 - discharge-wizard
@@ -18,10 +15,8 @@
 - facility-locator
 - find-forms
 - gi
-- [hca](#hca)
 - letters
 - login
-- [pensions](#pensions)
 - post-911-gib-status
 - pre-need
 - proxy-rewrite
@@ -34,11 +29,6 @@
 - verify
 - veteran-id-card
 - veteran-representative
-- [vic-v2](#vic-v2)
-- vre
-  - [chapter31](#vre-chapter31)
-  - [chapter36](#vre-chapter36)
-- [yellow-ribbon](#yellow-ribbon)
 
 ### vic-v2
 
