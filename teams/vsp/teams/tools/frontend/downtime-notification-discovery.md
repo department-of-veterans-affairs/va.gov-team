@@ -17,9 +17,20 @@
 - pre-need
 - proxy-rewrite
 - public-outreach-materials
-- search
 - static-pages
 - validate-mhv-account
+
+### search
+
+This app uses the `<DowntimeNotification>` component
+
+**dependencies**
+
+- `search`
+
+#### Endpoints
+
+- GET `/search`
 
 ### terms-and-conditions
 
