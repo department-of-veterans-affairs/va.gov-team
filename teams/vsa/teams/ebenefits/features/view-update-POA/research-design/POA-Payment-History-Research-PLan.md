@@ -124,8 +124,8 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
     - Computer access and basic computer literacy
     - Total Rated Disability of 30% or greater
     - Include 3 to 4 Veterans Total Rated Disability of 80% or higher.
-    - Sessions will run approximately 45 minutes.
-- Perigeon will provided a note taker. 
+    - Sessions will run approximately 60 minutes.
+- We request that Perigeon provide a note taker for all the sessions. 
 
 ### Timeline 
 - **Interview dates:** April 21-24, 2020
