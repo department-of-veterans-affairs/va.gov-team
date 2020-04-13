@@ -23,9 +23,9 @@ healthcare: {
   ],
   answers: [
     scenario.messages.upcoming_appointment,
-    scenario.messages.community_care_apt,
+    scenario.messages.community_care_appt,
     scenario.messages.referral,
-    scenario.messages.reschedule_apt,
+    scenario.messages.reschedule_appt,
     scenario.messages.emergency_care,
     scenario.messages.need_refill,
     scenario.messages.cant_call_clinic,
@@ -55,7 +55,7 @@ mental_health: {
   ],
   answers: [
     scenario.messages.feeling_anxious,
-    scenario.messages.new_mental_health_apt
+    scenario.messages.new_mental_health_appt
   ]
 },
 

@@ -42,7 +42,7 @@ Our health facilities have been testing Veterans who meet the CDC's criteria. We
 `,
 
 /* 18. What should I do if I have a community care appointment? */
-community_care_apt: `
+community_care_appt: `
 
 Please contact your community care (non-VA) provider directly before going to your appointment. Some providers' hours or services may be affected by current CDC and local health department guidelines.
 
@@ -61,7 +61,7 @@ We've activated our emergency management coordination cell (EMCC) and started cl
 `,
 
 /* 20. How do I reschedule or cancel my upcoming VA appointment? */
-reschedule_apt: `
+reschedule_appt: `
 Sign in to your VA.gov account to [reschedule or cancel your appointment online](https:/*www.va.gov/health-care/schedule-view-va-appointments/).
 
 **Note:** Some clinics are advising patients to not reschedule or schedule new appointments for some types of routine care, as they develop more guidance on safely providing care to protect patients and staff. Because this is a rapidly changing situation, the best way to get the most up-to-date facility information is to check your local VA health facility’s website. <br>
@@ -145,7 +145,7 @@ First, it's important to know you're not alone, and we're here for you. Concerns
 `,
 
 /* 27. How can I ask for a new mental health appointment? */
-new_mental_health_apt: `
+new_mental_health_appt: `
 _to be added_
 `,
 
