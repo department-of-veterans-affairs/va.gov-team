@@ -1,8 +1,6 @@
 
 ## Apps 
 
-- caregivers
-- claims-status
 - disability-benefits
   - 2346
   - 526EZ
@@ -135,6 +133,10 @@ Not configured to use the `<DowntimeNotification>` component
 - GET `/gi/yellow_ribbon_programs`
 
 ## Forms apps
+
+### Caregivers 
+
+No downtime in form config. No submit behavior 
 
 ### veteran-representative
 
@@ -415,3 +417,15 @@ Show custom [`<AlertBox />`](https://github.com/department-of-veterans-affairs/v
 ### Endpoints 
 
 - POST, DELETE `/beta_registration`
+
+## Claims Status
+
+Uses [custom down message](https://github.com/department-of-veterans-affairs/vets-website/blob/743159566f204870b25b30b2ac089513e862e521/src/applications/claims-status/containers/AppealInfo.jsx#L33-L43)
+
+**dependencies** 
+
+???
+
+### Endpoints
+
+- GET `/appeals`
