@@ -13,3 +13,6 @@
 - Accessibility experts continue to leverage the Must, Should, Consider framework (or variant) to categorize both global and initative findings.  
 - Product teams are required to address Must items before launching an initiative or feature.
 
+#### Solution Narrative
+
+
