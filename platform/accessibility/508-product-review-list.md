@@ -54,6 +54,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Disability Calculator](#disability-calculator)
       - [Local Side Navigation](#local-side-navigation)
       - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
+      - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -654,6 +655,44 @@ Each application or logical section of the site will have a heading and a detail
 **No open issues**
 
 ---
+
+### Appeal Modernization Process (AMA) Phase 2
+
+**Audit status:** _Staging review completed by VSA, April 10, 2020._<br/>
+**Closed issues:** _https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647_ (Can't create a link with the process documented, as VSA teams are not using labels for their projects)
+
+#### Open issues
+
+* [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one - #7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708)<br/>
+  **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [CMS, components, design system [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict - #7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723)<br/>
+  **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [sitewide, design system, CMS [AXE-CORE]: Heading levels should increase by one - #7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755)<br/>
+  **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [[SCREENREADER, COGNITION]: Bold text SHOULD be made headings, in this instance - #7770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7770)<br/>
+  **Opened:** April 8, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [[COGNITION]: SHOULD use a list for a list of options - #7803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7803)<br/>
+  **Opened:** April 9, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark - #7844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7844)<br/>
+  **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
+  **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+* [[SCREENREADER, COGNITION]: State abbreviations SHOULD be coded as such - #7808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7808)<br/>
+  **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
+* [[SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users - #7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834)<br/>
+  **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
+* [[MOBILE] There SHOULD be sufficient space between interactive elements, to avoid errors - #7839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7839)<br/>
+  **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
+* [CMS [AXE-CORE]: All page content MUST be contained by landmarks - #7757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7757)<br/>
+  **Opened:** April 8, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+* [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner - #7710](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7710)<br/>
+  **Opened:** April 7, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+* [design system, components, cms [SEMANTIC MARKUP] Download links SHOULD use the download attribute - #7840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7840)<br/>
+  **Opened:** April 9, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+* [[COGNITION] CONSIDER adding a heading before "Longer than 1 year" - #7847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7847)<br/>
+  **Opened:** April 10, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+
+--- 
 
 ### New Project Name
 
