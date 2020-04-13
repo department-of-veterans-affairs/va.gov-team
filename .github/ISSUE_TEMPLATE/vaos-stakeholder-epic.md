@@ -3,7 +3,7 @@ name: VAOS Stakeholder Epic
 about: For VAOS stakeholders to provide input into product roadmap
 title: VAOS Stakeholder Epic
 labels: vaos, roadmapOCC, VAMF, discovery,
-assignees: ''
+assignees: @lenaecb
 projects: VAOS-R Roadmap
 
 ---
