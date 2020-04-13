@@ -139,8 +139,8 @@ First, it's important to know you're not alone, and we're here for you. Concerns
 - **Stay connected and healthy.** Stay in touch with friends and family by phone and social media. Follow your normal routine as much as possible, and get enough sleep and exercise.
 - **Keep your existing mental health appointments.** If you currently have regular sessions, you can change them to telehealth (phone or video) appointments by [sending your provider a secure message](https:/*www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 - **Ask for a new mental health appointment.** If you need same-day mental health care—or want to request a new appointment—call your local VA health facility.<br>
-**[Find a VA location](https:/*www.va.gov/find-locations)**
-- **[Get more VA tips for maintaining your mental health](https:/*www.mentalhealth.va.gov/coronavirus/)
+- **[Find a VA location](https:/*www.va.gov/find-locations)**
+- **[Get more VA tips for maintaining your mental health](https:/*www.mentalhealth.va.gov/coronavirus/)**
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https:/*www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
 `,
 
