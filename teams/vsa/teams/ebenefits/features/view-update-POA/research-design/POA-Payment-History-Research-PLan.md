@@ -114,28 +114,29 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 
 ### Participants and Recruitment
 - Recruitment through Perigeon
- - 14 participants will be scheduled by Perigeon
-    - Our expectation is to interview 8-10 veterans.
-    - We are anticipating 7 no-shows.
- - Must receive payments from the VA 
- - Must have a VSO or Attorney representative disputed claim.
- - All genders
- - Computer access and basic computer literacy
- - Total Rated Disability of 30% or greater
- - Include 3 to 4 Veterans Total Rated Disability of 80% or higher.
- - Sessions will run approximately 45 minutes.
+  - Veteran requirements:
+    - 14 participants will be scheduled by Perigeon
+      - Our expectation is to interview 8-10 veterans.
+      - We are anticipating 7 no-shows.
+    - Must receive payments from the VA 
+    - Must have a VSO or Attorney representative disputed claim.
+    - All genders
+    - Computer access and basic computer literacy
+    - Total Rated Disability of 30% or greater
+    - Include 3 to 4 Veterans Total Rated Disability of 80% or higher.
+    - Sessions will run approximately 45 minutes.
+- Perigeon will provided a note taker. 
 
 ### Timeline 
-- **Interview dates:** April 16-26, 2020
-- **Need document completion date:** 
+- **Interview dates:** April 23-30, 2020
 
 #### Pilot: 
-- Date 15th
-- Time TBD
-- Participant: TBD
+- Date: 04/20/2020
+- Time: 
+- Participant: Derek Dyer
 
 Availability: If applicable, when would you like sessions scheduled? <br>
-April 16-23, from 9:00 AM to 3:00 PM
+April 23-30, from 9:00 AM to 3:00 PM
 (April 17-18 are weekends, no open availabilty)
 - _Note: Please leave a minimum of 30 minutes between sessions._
 
