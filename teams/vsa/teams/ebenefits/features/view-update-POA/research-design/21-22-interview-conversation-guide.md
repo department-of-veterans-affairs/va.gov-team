@@ -23,7 +23,7 @@
 ### Project-specific setup
 - Open eBenefits in a tab
 - Sign in as a test user (Rene Lowel)
-- Have Rene Lowel's SS# for the POA wlak through
+- Have Rene Lowel's SS# for the POA walk through
 - Open VA.gov website as backup for wayfinding task
 
 ## Intro - 5 minutes
