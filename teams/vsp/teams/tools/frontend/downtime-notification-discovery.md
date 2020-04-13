@@ -17,7 +17,6 @@
 - pre-need
 - proxy-rewrite
 - public-outreach-materials
-- static-pages
 - validate-mhv-account
 
 ### search
@@ -31,6 +30,15 @@ This app uses the `<DowntimeNotification>` component
 #### Endpoints
 
 - GET `/search`
+
+### static-pages
+
+No downtime notification behavior
+
+### Endpoints
+
+- GET `/facilities/va`
+- GET `/facilities/va/[ID]`
 
 ### terms-and-conditions
 
