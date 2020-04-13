@@ -1,7 +1,5 @@
 # Authenticated experience product outline 
 
-## Overview
-
 - GitHub Label: vsa-authenticated-exp  
 - Slack channel: #vsa-authd-exp 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
@@ -38,28 +36,28 @@
 - [Value propositions](#value-propositions) 
 - [KPIs](#kpis) 
 
-### Mission 
+## Mission 
 
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-### User problem statements 
+## User problem statements 
 
 1. I don’t know what I don’t know - what benefits and services can I get access to? 
 2. What info does VA know about me and why isn’t it always accurate / consistent? 
 
-### Business goals 
+## Business goals 
 
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve. 
 
-### Questions 
+## Questions 
 
-### Assumptions 
+## Assumptions 
 
-### Requirements and Constraints 
+## Requirements and Constraints 
 
 - Data in the VA itself is non-standard 
 - Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
 
-### Value Propositions  
+## Value Propositions  
 
-### KPIs 
+## KPIs 
