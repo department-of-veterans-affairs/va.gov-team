@@ -86,7 +86,7 @@ Seamless navigation for any user redirected between health tools or benefits hou
 3. Create a standalone, URL-based Login page that acts as the front door for Cerner health tools (and also acts as a landing page for users who decline EULA, do not have an EDIPI record, or who have logged out of Cerner)
 4. Seamless redirects at the appropriate stages for authenticated users who need to move from VA.gov to My VA Health (Cerner) or to MHV from VA.gov health pages: users whose health tools are housed either in MHV or in My VA Health can easily access what they are looking for without needing to understand the intricacies of the difference between each platform
 
-**KPIs (in addition to north star metric)**
+**KPIs**
 
 *   Maintain login success rate for MHV users
 *   Maintain login success rate for DSLogon
