@@ -340,8 +340,6 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in EDU feedback-tool end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7349)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
