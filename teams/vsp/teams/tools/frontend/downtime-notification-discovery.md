@@ -30,6 +30,41 @@
 - veteran-id-card
 - veteran-representative
 
+### vaos
+
+Uses the `<DowntimeNotification>` component in the container app.  If there is not a `sites` prop it will show a `<NoRegistrationMessage>` alert box, otherwise it will show the default children.
+
+**dependencies**
+
+- `mvi` (Master Veteran Index)
+- `vaos`
+
+#### Endpoints
+
+- GET `/vaos/appointments`
+- GET `/vaos/appointment_requests`
+- GET `/vaos/appointment_requests/[REQUEST_ID]/messages`
+- GET `/vaos/facilities`
+- GET `/vaos/systems/[SYSTEM_ID]/direct_scheduling_facilities`
+- GET `/vaos/community_care/eligibility/[TYPE_OF_CARE]`
+- GET `/vaos/facilities/[FACILITY_ID]/visits/[DIRECT_OR_REQUEST]`
+- GET `/vaos/facilities/[FACILITY_ID]/limits`
+- GET `/vaos/systems/[SYSTEM_ID]/clinic_institutions`
+- GET `/vaos/facilities/[FACILITY_ID]/clinics`
+- GET `/vaos/systems/[SYSTEM_ID]/pact`
+- GET `/facilities/va/vha_[STAGING_ID]`
+- GET `/facilities/va`
+- GET `/vaos/community_care/supported_sites`
+- GET `/vaos/facilities/[FACILITY_ID]/available_appointments`
+- GET `/vaos/facilities/[SYSTEM_ID]/cancel_reasons`
+- PUT `/vaos/appointments/cancel`
+- PUT `/vaos/appointment_requests/[REQUEST_ID]`
+- POST `/vaos/appointment_requests`
+- POST `/vaos/appointments`
+- POST `/vaos/appointment_requests/[REQUEST_ID]/messages`
+- GET `/vaos/preferences`
+- PUT `/vaos/preferences`
+
 ### vic-v2
 
 #### Endpoints
