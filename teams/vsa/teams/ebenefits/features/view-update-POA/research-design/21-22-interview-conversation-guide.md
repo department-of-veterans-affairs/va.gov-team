@@ -203,6 +203,14 @@ For this exercise,
 - Did the navigation and menu options make sense?
 - Were there any confusing terms?
 
+## Post-Task Interview
+OK, those are all the screens we are going to look at today. I just have some closing questions for you.
+
+- What are your overall impressions of the new features we look at today?
+- What are your overall impressions of navigating through the POwer of Attorney application?
+- What are your overall impressions of Payment History' features?
+- Overall, how could we improve the VA navigation to locate these features?
+- Any questions you have for me?
 
 ## Thank You and Closing 
 We appreciate you taking the time to share your thoughts with us today. Your feedback is very helpful to us as we continue to work on the site and make sure it works for Veterans.
