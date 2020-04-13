@@ -22,7 +22,11 @@
 |Sandra Hallie |FE Engineer |  |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-## Projects & Status 
+## Roadmap & project status 
+
+### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
+
+### Project status
 
 **Last updated April 2020**
 
