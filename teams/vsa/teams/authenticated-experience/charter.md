@@ -1,6 +1,5 @@
 # Authenticated Experience Team Charter
 
-
 ## Guideposts 
 ### Authenticated Experience Mission Statement:
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
@@ -19,9 +18,6 @@ potentials:
 
 Future note:
 If this was an ideal personalized product experience, we would show the user all relevant benefits/tasks that apply to them.
-
-
-
 
 ## What we work on
 
@@ -43,16 +39,6 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
 ## Roadmap
 
-### Q4 2019
-
-#### Direct Deposit
-- QA
-- Launch to 100% on VA.gov
-
-#### Address validation
-- Design
-- Build
-
 ### Q1 2020
 
 #### Direct Deposit
@@ -66,24 +52,29 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 ### Profile 2.0
 - Design
 - Technical discovery
-- User testing
-- Start build
 
 ### Q2 2020
 
-### Profile 2.0
-- Finish build
+#### Profile 2.0
+- User testing
+- Build
 - QA
 - Pre-launch
+
+#### Logged-in homepage
+- Discovery & strategy
+- Start design
+
+### Q3 2020
+
+#### Profile 2.0
+
 - Launch
 
-### Future work
-
-To be prioritized:
-
-- Notification center
-- Dashboard 2.0
-- External notifications
+#### Logged-in homepage
+- Design
+- Build
+- User testing and additional user research
 
 ## Team Members
 
@@ -91,10 +82,10 @@ To be prioritized:
 |-----------------------|------------------------------------|
 |DSVA team lead         |Samara Strauss
 |Team Product Manager   |Matt Shea
-|Front-End Engineer     |Erik Hansen
-|Front-End Engineer     |Brad Conley
-|Back-End Engineer      |Lihan Li
 |Designer/Researcher    |Tressa Furner
+|Front-End Engineer     |Erik Hansen
+|Front-End Engineer     |Sandra Hallie
+|Back-End Engineer      |Lihan Li
 
 ## Workflow + Cadence
 
