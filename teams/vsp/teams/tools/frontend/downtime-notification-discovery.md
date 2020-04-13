@@ -3,7 +3,6 @@
 
 - find-forms
 - letters
-- login
 - post-911-gib-status
 
 ### public-outreach-materials
@@ -553,3 +552,20 @@ Uses [custom down message](https://github.com/department-of-veterans-affairs/vet
 ### Endpoints
 
 - GET `/appeals`
+
+## Login Modal
+
+Displays a [custom alertbox](https://github.com/department-of-veterans-affairs/vets-website/blob/1484646c0a1bff78ddc5cc8c55d8519e69a75f57/src/platform/user/authentication/components/SignInModal.jsx#L55-L64) when backend service is down. 
+
+Downtime messaging is [based on service that is down](https://github.com/department-of-veterans-affairs/vets-website/blob/1484646c0a1bff78ddc5cc8c55d8519e69a75f57/src/platform/user/authentication/components/SignInModal.jsx#L92-L130)
+
+**dependencies**
+
+- idme
+- dslogon
+- mhv
+- mvi
+
+### Endpoints
+
+- No endpoints but redirects to external sites 
