@@ -5,7 +5,7 @@
 - Staging: staging.va.gov/track-claims (redirects to staging.va.gov/track-claims/your-claims)
 
 ## Testing
-- [How to log into staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+- [How to log into staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ## Important Keywords
 claims, claims status, compensation claim, claims and appeals, claim for compensation, claims list, check claims
