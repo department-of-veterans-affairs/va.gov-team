@@ -23,8 +23,6 @@
 - static-pages
 - terms-and-conditions
 - validate-mhv-account
-- vaos
-- verify
 - veteran-id-card
 - veteran-representative
 
@@ -62,6 +60,18 @@ Uses the `<DowntimeNotification>` component in the container app.  If there is n
 - POST `/vaos/appointment_requests/[REQUEST_ID]/messages`
 - GET `/vaos/preferences`
 - PUT `/vaos/preferences`
+
+### verify
+
+No downtime notification behavior - no listed dependencies
+
+#### Endpoints
+
+These are redirects
+
+- `/v1/sessions/verify/new`
+- `/sessions/verify/new`
+
 
 ### vic-v2
 
