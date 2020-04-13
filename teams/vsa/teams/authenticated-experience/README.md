@@ -1,4 +1,4 @@
-# Authenticated experience: Portfolio at a glance
+# Authenticated experience at a glance
 
 ## Important documents
 
