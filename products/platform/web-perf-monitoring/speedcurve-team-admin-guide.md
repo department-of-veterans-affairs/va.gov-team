@@ -8,19 +8,19 @@
  - Adding  team members
  - Default Configuration
       
-#### Existing teams with multiple products
+### Existing teams with multiple products
 - Monitor and Configure new url's
 
-#### Performance Budgets
+### Performance Budgets
 - Performance Budgets
    - Adjusting performance budgets
    - Exceeding performance budgets
    
-#### Monthly Checks
+### Monthly Checks
  - Number of checks per month
  - Automatic checks vs manual checks
  - How are checks calculated?
  - What if I need more checks?
    
-#### Offboarding
+### Offboarding
    - Remove team members or admins
