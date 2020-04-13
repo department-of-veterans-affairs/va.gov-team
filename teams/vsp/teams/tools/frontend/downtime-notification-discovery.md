@@ -23,7 +23,6 @@
 - static-pages
 - terms-and-conditions
 - validate-mhv-account
-- veteran-id-card
 - veteran-representative
 
 ### vaos
@@ -72,6 +71,18 @@ These are redirects
 - `/v1/sessions/verify/new`
 - `/sessions/verify/new`
 
+### veteran-id-card
+
+This app uses the `<DowntimeNotification>` component
+
+**dependencies**
+
+- `vic`
+
+#### Endpoints
+
+- GET `/id_card/attributes`
+- POST `/id_card/announcement_subscription`
 
 ### vic-v2
 
