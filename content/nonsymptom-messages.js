@@ -12,6 +12,18 @@ Please choose the question that best fits your needs.
 You can always ask another question if you need more information.
 `,
 
+need_more_info: `
+**Do you need more information?**
+`,
+
+do_next: `
+**What would you like to do next?**
+`,
+
+exit: `
+Thank you for using our coronavirus virtual assistant. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+`,
+
 /* 12. What should I do if I have an upcoming VA health appointment? */
 upcoming_appointment: `
 ##### For scheduled procedures
@@ -193,6 +205,41 @@ For the latest status of our regional offices and other benefit services, you ca
 /* 33. How can I contact my local regional office? */
 contact_regional_office: `
 Call us toll-free at 800-827-1000, 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video.
+`,
+
+/* 38. Connect with call center */
+contact_info: `
+**For general questions about the coronavirus COVID-19**
+Call MyVA311 at 844-698-2311.
+
+**For VA health care appointments**
+[Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+
+**For local VA health facility hours, services, and safety measures**
+Check your facility's website for the latest updates. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+**For technical questions about My HealtheVet**
+Contact the My HealtheVet help desk at 877-327-0022.
+
+##### Benefits and claims
+
+**VA claim or appeal status**
+[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+
+**Benefit payments**
+[View your benefit payments online](https://www.va.gov/va-payment-history/)
+
+**Video appointment requests related to benefit claims or services**
+Call our VA call center at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+**Debt related to VA benefits**
+Call the VA Debt Management Center at 800-827-0648, Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+
+**Education benefits**
+Contact the Education Call Center toll-free at 888-442-4551, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+
+[Or use our online customer service center](https://iris.custhelp.va.gov/)
 `
 
 };

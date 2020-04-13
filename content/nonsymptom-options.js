@@ -7,6 +7,11 @@ root: [
   "Benefits and claims"
 ],
 
+do_next: [
+  "Ask another question",
+  "Connect with a call center representative",
+],
+
 healthcare: {
   questions: [
     "What should I do if I have an upcoming VA health appointment?",
