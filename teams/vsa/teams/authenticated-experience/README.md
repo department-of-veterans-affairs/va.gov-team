@@ -70,10 +70,16 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
 # Project Info 
 
-## Status 
+## Projects & Status 
 
-## Projects
+**Last updated April 2020**
+
+|Project|Status|
+|----|----|
+|[Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
+|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Build |
+|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Discovery|
 
 ## Roadmap
 
-### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
+- [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
