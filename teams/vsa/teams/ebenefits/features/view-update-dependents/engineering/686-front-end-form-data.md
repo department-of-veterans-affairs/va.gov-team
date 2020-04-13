@@ -277,6 +277,94 @@
           birthDate: '2009-03-03'
         }
       ],
+      
+      // 674 start
+      
+      studentDoesHaveNetworth: true,
+      networthInformation: {
+        savings: '3455',
+        securities: '3234',
+        realEstate: '5623',
+        otherAssets: '4566',
+        remarks: 'Some remarks about the student\'s net worth'
+      },
+      studentDoesEarnIncome: true,
+      studentEarningsFromSchoolYear: {
+        earningsFromAllEmployment: '12000',
+        annualSocialSecurityPayments: '3453',
+        otherAnnuitiesIncome: '30595',
+        allOtherIncome: '5596'
+      },
+      studentWillEarnIncomeNextYear: true,
+      studentExpectedEarningsNextYear: {
+        earningsFromAllEmployment: '12000',
+        annualSocialSecurityPayments: '3940',
+        otherAnnuitiesIncome: '3989',
+        allOtherIncome: '984'
+      },
+      studentDidAttendSchoolLastTerm: true,
+      lastTermSchoolInformation: {
+        schoolName: 'Another amazing school',
+        schoolAddress: {
+          countryName: 'United States',
+          addressLine1: '2037 29th St',
+          city: 'Rock Island',
+          stateCode: 'AR',
+          zipCode: '61201'
+        },
+        dateTermBegan: '2016-03-04',
+        dateTermEnded: '2017-04-05',
+        classesPerWeek: 4,
+        hoursPerWeek: 40
+      },
+      termDates: {
+        officialSchoolStartDate: '2019-03-03',
+        expectedStudentStartDate: '2019-02-03',
+        expectedGraduationDate: '2020-06-02'
+      },
+      programInformation: {
+        studentIsEnrolledFullTime: false,
+        courseOfStudy: 'An amazing program',
+        classesPerWeek: 4,
+        hoursPerWeek: 37
+      },
+      schoolInformation: {
+        schoolName: 'My Great School',
+        trainingProgram: 'Something amazing',
+        schoolAddress: {
+          countryName: 'United States',
+          addressLine1: '2037 29th St',
+          addressLine2: 'another line',
+          addressLine3: 'Yet another line',
+          city: 'Rock Island',
+          stateCode: 'AR',
+          zipCode: '61201'
+        }
+      },
+      studentAddress: {
+        'view:livesOnMilitaryBaseInfo': {},
+        countryName: 'United States',
+        addressLine1: '1019 Robin Cir',
+        addressLine2: 'NA',
+        addressLine3: 'NA',
+        city: 'Arroyo Grande',
+        stateCode: 'CA',
+        zipCode: '93420'
+      },
+      studentWasMarried: true,
+      marriageDate: '2015-03-04',
+      tuitionIsPaidByGovAgency: true,
+      agencyName: 'Some Agency',
+      datePaymentsBegan: '2019-02-03',
+      'view:674Information': {},
+      studentFullName: {
+        first: 'Ernie',
+        middle: 'bubkis',
+        last: 'McCracken',
+        suffix: 'II'
+      },
+      studentSSN: '370947141',
+      studentDOB: '2001-03-03',
 }
 
 ```
