@@ -279,7 +279,7 @@ For this exercise,
 ## Post-Task Interview
 OK, those are all the screens we are going to look at today. I just have some closing questions for you.
 
-- What are your overall impressions of the new features we look at today?
+
 - What are your overall impressions of navigating through the POwer of Attorney application?
 - What are your overall impressions of Payment History' features?
 - Overall, how could we improve the VA navigation to locate these features?
