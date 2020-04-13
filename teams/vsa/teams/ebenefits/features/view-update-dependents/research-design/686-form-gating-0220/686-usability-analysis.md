@@ -166,7 +166,7 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
 [Topline research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
 
-[Powerpoint version of this analysis]()  |  Not yet available.
+[Powerpoint version of this analysis](https://dsva.slack.com/files/UN0CAJHC0/FUYL3R6S1/686-usability-readout.ppt)
 
 [PDF version of this analysis]()  |  Not yet available.
 
