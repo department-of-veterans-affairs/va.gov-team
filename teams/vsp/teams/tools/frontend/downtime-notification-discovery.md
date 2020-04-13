@@ -8,7 +8,10 @@
 - post-911-gib-status
 - pre-need
 - proxy-rewrite
-- public-outreach-materials
+
+### public-outreach-materials
+
+No downtime behavior or dependencies, and no endpoints
 
 ### search
 
