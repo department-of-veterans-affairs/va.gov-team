@@ -109,20 +109,19 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 - Participants: Veterans who utilize View My Representative and View My Payments features on eBenefits
 - Location: Remote, Zoom meeting coordinated by Perigeon.
 - Recruitment of interviewees: Perigeon
-- The Power of Attorney screens will be presented to a Veteran, and a monitor will ask questions from the conversation guide.   
-- The Payment History screens will be presented to a Veteran, and a monitor will ask questions from the conversation guide.
+- The Power of Attorney screens will be presented to a Veteran, and a moderator will ask questions from the conversation guide.   
+- The Payment History screens will be presented to a Veteran, and a moderator will ask questions from the conversation guide.
 
 ### Participants and Recruitment
 - Recruitment through Perigeon
   - Veteran requirements:
     - 14 participants will be scheduled by Perigeon
       - Our expectation is to interview 8-10 veterans.
-      - We are anticipating 7 no-shows.
+      - We are anticipating 4-6 no-shows based on veterans showing up more during the stay at home order
     - Must receive payments from the VA 
     - Must have a VSO or Attorney representative disputed claim.
     - All genders
     - Computer access and basic computer literacy
-    - Total Rated Disability of 30% or greater
     - Include 3 to 4 Veterans Total Rated Disability of 80% or higher.
     - Sessions will run approximately 60 minutes.
 - We request that Perigeon provide a note taker for all the sessions. 
@@ -132,19 +131,21 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 
 #### Pilot: 
 - Date: 04/20/2020
-- Time: 10:00 AM t0 11:00 AM CT Time. (11:00 AM to 12:00 PM ET)
+- Time: 12:00 - 1:00 ET
 - Participant: Derek Dyer
+- Email: DDyer@governmentcio.com
 
 Availability: If applicable, when would you like sessions scheduled? <br>
 April 21-24, from 9:00 AM to 3:00 PM
 - _Note: Please leave a minimum of 30 minutes between sessions._
 
 #### eBenefits Team Availability: 
-| Date    | Time (CST)         |
+| Date    | Time (EST)         |
 | ------- | ------------------ |
 | 04 - 21 | 9:00 AM to 3:00 PM |
 | 04 - 22 | 9:00 AM to 3:00 PM |
 | 04 - 23 | 9:00 AM to 3:00 PM |
+| 04 - 24 | 9:00 AM to 3:00 PM |
 
 * Please leave 30 mins between session
 
@@ -155,6 +156,7 @@ April 21-24, from 9:00 AM to 3:00 PM
 - [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
 - [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
 - [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
+- [Derek Dyer](Ddyer@governmentcio.com) -- Backend engineer
 - [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
 - [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
 - [Jennifer Strickland](jennifer.stricklandn@adhocteam.us) -- 508 compliance

@@ -1,11 +1,6 @@
 
 ## Apps 
 
-- disability-benefits
-  - 2346
-  - 526EZ
-  - 686c-674
-  - 996
 - discharge-wizard
 - edu-benefits (each app)
 - find-forms
@@ -172,6 +167,43 @@ These are the forms apps (and their listed dependencies) that use downtime notif
 #### Endpoints
 
 - GET `/facilities/suggested/`
+
+### disability-benefits/2346
+
+No downtime specified
+
+#### Endpoints
+
+- GET `/in_progress_forms/MDOT`
+
+### disability-benefits/526EZ
+
+No downtime specified 
+
+#### Endpoints
+
+- POST `/v0/disability_compensation_form/submit`
+- GET `/ppiu/payment_information`
+- GET `/intent_to_file`
+- POST `/intent_to_file/compensation`
+- GET `/disability_compensation_form/submission_status/`
+- POST `/form526_opt_in`
+
+### disability-benefits/686c-674
+
+No downtime specified
+
+#### Endpoints
+
+- `/v0/api`
+
+### disability-benefits/996
+
+No downtime specified
+
+#### Endpoints
+
+- none
 
 ### disability-benefits/686
 

@@ -23,7 +23,7 @@
 ### Project-specific setup
 - Open eBenefits in a tab
 - Sign in as a test user (Rene Lowel)
-- Have Rene Lowel's SS# for the POA wlak through
+- Have Rene Lowel's SS# for the POA walk through
 - Open VA.gov website as backup for wayfinding task
 
 ## Intro - 5 minutes
@@ -34,7 +34,7 @@ Before we begin, there are a few things I wanted to mention:
 - **This entire session should take about an hour.** I want to be sure not to keep you too long, so I may occasionally prompt you with the next question or topic.
 - **Our intention** is to modernize and enhance two features found on eBenefits website because we are building these features on VA.gov. With your help, we would like to incorporate Veterans' feedback about how to improve the features.
 - **In this session, we want to hear your honest opinion.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **"You'll be viewing a test environment of eBenefits** for this study. All data is made up and the actions we take will not affect your actual VA information or benefits"
 - **If for any reason and at any time you want to stop the session, please let me know.**  
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - **If you're okay with me recording, once I start recording, I am going to confirm that you are ok with me recording this session again.** 
