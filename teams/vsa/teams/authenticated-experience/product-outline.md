@@ -2,6 +2,8 @@
 
 ### Table of contents
 - [Mission](#mission)
+- [Vision](#vision)
+- [North start objective](#north-star-objectives)
 - [User problem statements](#user-problem-statements) 
 - [Business goals](#business-goals) 
 - [Questions](#questions) 
@@ -10,9 +12,15 @@
 - [Value propositions](#value-propositions) 
 - [KPIs](#kpis) 
 
-## Mission 
+## Overview
+
+### Mission 
 
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
+
+### Vision
+
+### North start objectives
 
 ## User problem statements 
 
