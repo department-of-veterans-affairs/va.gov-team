@@ -6,7 +6,7 @@
 - [Road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
 ## Table of Contents 
-- [Team members](#overview)
+- [Team members](#team-members)
 - [Projects & status](#mission) 
 - [User problem statements](#user-problem-statements) 
 - [Business goals](#business-goals) 
