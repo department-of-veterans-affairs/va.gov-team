@@ -179,8 +179,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
  - After walking through this form can you explain to me what this form legal purpose is for?
  - Do you feel you have a better understanding of this process after filling out the form?
     - Why?
- - How did you apply for a Power of Attorney (POA)? 
- - Look for answers such as paper, eBenefits, a service
+ - How did you apply for a Power of Attorney? 
  - Are you satisfied with the method you used?
     - Why or Why not?
     - What would have been your preference?
