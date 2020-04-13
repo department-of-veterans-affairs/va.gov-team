@@ -107,9 +107,9 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
   - [ ] Check with Andrea Hewitt for questions, [ref](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-- [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
-- [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
-- [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
+- [ ] Review the ATO Procedures
+- [ ] Request a preliminary ATO review
+- [ ] Request a pre-launch ATO review
 
 ### QA
 - [ ] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
