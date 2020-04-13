@@ -71,6 +71,10 @@ Profile 2.0
 - Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
+Logged-in homepage
+- Begin design phase
+- Technical discovery
+
 ## Sprint 25 (7/1 – 7/14)
 
 ### Order of priorities
@@ -81,6 +85,10 @@ Profile 2.0
 - Pre-launch - Go/No-go
 - Launch - Initial launch to UAT users
 
+Logged-in homepage
+- Design
+- Technical discovery
+
 ## Sprint 26 (7/15 – 7/28)
 
 ### Order of priorities
@@ -90,6 +98,10 @@ Profile 2.0
 - UAT - Conduct sessions
 - UAT - Fix bugs (if necessary)
 - Launch - Ramp up phased launch
+
+Logged-in homepage
+- Design
+- Technical: Start laying foundation for notifications
 
 ## Sprint 27 (7/29 – 8/11)
 
