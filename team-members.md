@@ -12,6 +12,8 @@
 - Ramya Ramesh, Product Lead
 - Shefali Nayak, Developer
 - Todd Stanich, Senior Designer
+- Shaun Hubbard, Senior Developer
+
 ### Extended team
 - Kennedy Collins, Product Lead
 - Mike McCormack, Client Principal
