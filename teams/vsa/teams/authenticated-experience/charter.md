@@ -76,17 +76,6 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 - Build
 - User testing and additional user research
 
-## Team Members
-
-|**Roles**              |**Assigned**                        |
-|-----------------------|------------------------------------|
-|DSVA team lead         |Samara Strauss
-|Team Product Manager   |Matt Shea
-|Designer/Researcher    |Tressa Furner
-|Front-End Engineer     |Erik Hansen
-|Front-End Engineer     |Sandra Hallie
-|Back-End Engineer      |Lihan Li
-
 ## Workflow + Cadence
 
 ### Stand-up: people & product check-ins
