@@ -2,7 +2,6 @@
 ## Apps 
 
 - letters
-- post-911-gib-status
 
 ### find-forms
 
@@ -11,6 +10,21 @@ No downtime behavior or dependencies
 #### Endpoints
 
 - GET `/forms`
+
+### post-911-gib-status
+
+Does use the `<DowntimeNotification>` component, but it also uses some custom downtime error messaging that is handled in a child container.
+
+https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/post-911-gib-status/utils/helpers.jsx#L158-L168
+
+**dependencies**
+
+- `evss`
+
+#### Endpoints
+
+- GET `/backend_statuses/gibs`
+- GET `/post911_gi_bill_status`
 
 ### public-outreach-materials
 
