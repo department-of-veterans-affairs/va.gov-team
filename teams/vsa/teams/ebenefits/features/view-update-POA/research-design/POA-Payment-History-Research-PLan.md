@@ -128,23 +128,20 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 - Perigeon will provided a note taker. 
 
 ### Timeline 
-- **Interview dates:** April 23-30, 2020
+- **Interview dates:** April 21-24, 2020
 
 #### Pilot: 
 - Date: 04/20/2020
-- Time: 
+- Time: 10:00 AM t0 11:00 AM CT Time. (11:00 AM to 12:00 PM ET)
 - Participant: Derek Dyer
 
 Availability: If applicable, when would you like sessions scheduled? <br>
-April 23-30, from 9:00 AM to 3:00 PM
-(April 17-18 are weekends, no open availabilty)
+April 21-24, from 9:00 AM to 3:00 PM
 - _Note: Please leave a minimum of 30 minutes between sessions._
 
 #### eBenefits Team Availability: 
-| Date | Time (CST) |
-| 04 - 16 | 9:00 AM to 3:00 PM |
-| 04 - 17 | 9:00 AM to 3:00 PM |
-| 04 - 20 | 9:00 AM to 3:00 PM |
+| Date    | Time (CST)         |
+| ------- | ------------------ |
 | 04 - 21 | 9:00 AM to 3:00 PM |
 | 04 - 22 | 9:00 AM to 3:00 PM |
 | 04 - 23 | 9:00 AM to 3:00 PM |
