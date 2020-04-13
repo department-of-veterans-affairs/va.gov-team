@@ -1,22 +1,13 @@
 # Authenticated experience product outline 
 
+## Overview
+
 - GitHub Label: vsa-authenticated-exp  
 - Slack channel: #vsa-authd-exp 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 - [Road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
-## Table of Contents 
-- [Team members](#team-members)
-- [Projects & status](#projects--status) 
-- [User problem statements](#user-problem-statements) 
-- [Business goals](#business-goals) 
-- [Questions](#questions) 
-- [Assumptions](#assumptions) 
-- [Requirements and constraints](#requirements-and-constraints)  
-- [Value propositions](#value-propositions) 
-- [KPIs](#kpis) 
-
-## Team Members
+### Team Members
 
 |Name|Role|Email|
 |----|----|-----|
@@ -27,7 +18,7 @@
 |Sandra Hallie |FE Engineer |  |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-## Projects & Status 
+### Projects & Status 
 
 **Last updated April 2020**
 
@@ -37,28 +28,38 @@
 |[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Build |
 |[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Discovery|
 
-## Mission 
+## Product outline
+- [Mission](#mission)
+- [User problem statements](#user-problem-statements) 
+- [Business goals](#business-goals) 
+- [Questions](#questions) 
+- [Assumptions](#assumptions) 
+- [Requirements and constraints](#requirements-and-constraints)  
+- [Value propositions](#value-propositions) 
+- [KPIs](#kpis) 
+
+### Mission 
 
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-## User problem statements 
+### User problem statements 
 
 1. I don’t know what I don’t know - what benefits and services can I get access to? 
 2. What info does VA know about me and why isn’t it always accurate / consistent? 
 
-## Business goals 
+### Business goals 
 
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve. 
 
-## Questions 
+### Questions 
 
-## Assumptions 
+### Assumptions 
 
-## Requirements and Constraints 
+### Requirements and Constraints 
 
 - Data in the VA itself is non-standard 
 - Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
 
-## Value Propositions  
+### Value Propositions  
 
-## KPIs 
+### KPIs 
