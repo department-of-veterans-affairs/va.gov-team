@@ -28,6 +28,8 @@
     phoneNumber: '2146866521',
     emailAddress: 'cohnjesse@gmail.xom'
   },
+  
+  // Report marriage of a child under 18
    
   childMarriage: {
     marriedChildName: {
@@ -38,6 +40,10 @@
     },
     dateChildMarried: '1977-02-02'
   },
+  
+  // End Report marriage of a child under 18
+  
+  // Report a divorce
   
   reportDivorce: {
     formerSpouseName: {
@@ -53,6 +59,10 @@
     isMarriageAnnulledOrVoid: true,
     explanationOfAnnullmentOrVoid: 'Some stuff about the marriage being declared void.'
   },
+  
+  // End Report a divorce
+  
+  // Report the death of a dependent
   
   deaths: [
     {
@@ -107,6 +117,10 @@
           dependentType: 'DEPENDENT_PARENT'
     }
   ],
+  
+  // End Report death of a dependent
+  
+  // Add spouse
       
   veteranWasMarriedBefore: true,
       veteranMarriageHistory: [
@@ -197,7 +211,10 @@
         spouseVAFileNumber: '00000000',
         spouseServiceNumber: '11111111'
   },
-      
+     
+  // End add spouse
+  
+  // Report stepchild is no longer part of household
       
   stepChildren: [
     {
@@ -228,6 +245,10 @@
     }
   ],
   
+  End stepshild no longer part of household
+  
+  // Report child has stopped attending school
+  
   childNoLongerAtSchoolName: {
     first: 'Billy',
     middle: 'Yohan',
@@ -235,6 +256,10 @@
     suffix: 'Sr.'
   },
   dateChildLeftSchool: '2019-03-03',
+  
+  // End report child has stopped attending school
+  
+  // Add a child
   
   childrenToAdd: [
         {
@@ -278,7 +303,9 @@
         }
       ],
       
-      // 674 start
+      // End add a child
+      
+      // 674
       
       studentDoesHaveNetworth: true,
       networthInformation: {
@@ -365,6 +392,8 @@
       },
       studentSSN: '370947141',
       studentDOB: '2001-03-03',
+      
+      // end 674
 }
 
 ```
