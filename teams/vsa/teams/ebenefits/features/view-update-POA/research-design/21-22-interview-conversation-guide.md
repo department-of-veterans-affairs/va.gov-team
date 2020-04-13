@@ -90,64 +90,137 @@ I am going to share my screen with you. Can you see the eBenefits website on you
     - Does this step seem to be an appropriate first step for the form.
     - Do you have any other thoughts about this step that you would like to bring up? 
    
-- VA Number (796-12-4704)
-  - Do you know your VA number?
-  - How would you prefere to look up the number? 
+- VA Number (796-12-4704) 
+    - **Can you tell me what you know about the VA number?**
+    - How often are you asked for you VA#?
+    - Do you know your number off hand?
+        - Yes: Do you have a system to remember the number?
+        - No: How would you prefer to look up your number? (emailed / verification number)
+            - Why
+
+- Personal information
+    - How often do you update your personal VA information?
+        - What information do you usually update?
+    - How often does the VA have the wrong information?
+        - What information is usually wrong?
+    - Can you remember when you were filling out this form if there was any personal information missing that would help speed up the process? 
+    - Do you see value in this step?
+        - Yes
+            - Why is this information important to display? 
+            - Can we display this information differently?
+        - No
+            - Why?
+            - Are we missing information? 
+            - What information are we missing?
+
 - Search for Representative
-  - Please give me your thoughts about this step?
-  - Please explain how you would complete this step?
-  - Please give me a few ways you would search for a Represenative?
-  - Did you know which attorney/VSO you wanted representing you before you began filling out the Power of Attorney form?
+    - Please give me your thoughts about this step?
+    - Please explain how you would complete this step?
+    - When you initially came to this step do you see it as a way to gather information about how to contact a representative or did you already have the representative in mind and you are trying to find that representative.
+    - Can you explain the role that representative played in how you filled out the form/ If any at all. 
+    - Was the Rep present when you filled out this section of the form?
       
 - Representative Table
-  - Please give me your thoughts on this table?
-  - Please explain how you would select a representative from the table?
-  - Is there additional information you would need inorder to choise a representative?
-  - Can you please rank the table headers from most important to least important? Why?
+    - Please give me your thoughts on this table?
+    - Please explain how you would select a representative from the table?
+    - What information would you expect to find in this table? 
+        - Why: Is there additional information that would help in choosing a representative?
+        - Why not: What information would be needed? 
+    - What information is the most important and why?
+    - Was this easy or difficult to complete?
+
+- Confirming Representative
+    - Please give me your thoughts on this step? 
+    - Do you see value in this screen?
+        - Yes
+            - Why is this information important to display? 
+            - Can we display this information differently?
+        - No
+            - Why?
+            - Are we missing information? 
+            - What information are we missing?
+
+- Insurance Number
+    - Can you tell me what you know about the insurance number?
+    - How often are you asked for you insurance #
+    - Do you know your number off hand?
+        - Yes: Do you have a system to remember the number?
+        - No: How would you prefer to look up your number (emailed / verification number)
+            - Why
+
+- Military Service
+    - Please give me your thoughts on this step? 
+    - Do you see value in this screen?
+        -  Yes
+            - Why is this information important to display? 
+            - Can we display this information differently?
+        -  No
+            - Why?
+            - Are we missing information? 
+            - What information are we missing?
+      
+- Limited Consent
+    - Can you talk to me about your initial thoughts regarding this step?
+    - How easy is this screens information to understand. 
+ 
+- Authorizes an Address Change
+    - After reading the step’s title What are you expecting to see on this page?
+    - How easily is it to understand the steps objective? 
+    - How would you prefer to display information?
+
+- Error Messages
+   
+
    
 ## Legal Understanding - 10 minutes
-- What are your thoughts on the length of this form? 
-- What method did you use to complete this form (paper vs technology)?
-- Were there any areas where you needed assistance filling out this form?
-- If you did require assistance, whom did you contact for help and what actions did that person take to assist you?
-- In your opinion, how would you expect to find this feature on the website?
+ - What are your thoughts on the length of this form?
+ - Did you find this process easy or difficult? 
+ - Was this form easy to understand?
+ - After walking through this form can you explain to me what this form legal purpose is for?
+ - Do you feel you have a better understanding of this process after filling out the form?
+    - Why?
+ - How did you apply for a Power of Attorney (POA)? 
+ - Look for answers such as paper, eBenefits, a service
+ - Are you satisfied with the method you used?
+    - Why or Why not?
+    - What would have been your preference?
+ - Did anyone assist you in filling out this form?
+    - Who: representative or family friend
+    - Did a representative help you fill this form out?
+    - Were they present when you filled this form out?
+ - What issues did you run into while filling this form out?
+    - Were there any legal questions this form did not answer?
+
 
 ## Payment History - 15 minutes
 We are going to change gears a bit and look at a different part of eBenefits. 
 
 - Confirm with the participant that they can see the eBenefits Payment History screen. 
 
-I am going to continue sharing my screen with you. Can you see the eBenefits website on your computer?
+I am going to continue sharing my screen with you. Can you see the eBenefits website on your computer? So I am going to click through to the Payment History screen. Just so you are aware there is only one screen to review.
 
 #### Accessing Payment History
-- Do you currently recieve payments from the VA?
+- Do you currently receive payments from the VA?
 - How long have you been getting payments from the VA? 
-- Take a look at my screen. What is your impression of what is going on here?
 - Have you ever seen this page before?
     - If so
-       - How often are you coming to this page?
-       - What are some scenarios in which you might come to this page (e.g. what would you be looking for or trying to access?) 
-       - How often are you looking for a particular payment? 
-            - Why are you looking for a period of payments?
-       - How often are you looking for a range of payments?
-            - Why are you looking for a period of payments?
-        - How do you prefer to check your VA payment on your 
-             - bank's website or the VA's website?
-        - How many banking accounts do you have? 
-            - What types of accounts are those?
-            - How many do you use to cash your VA payments?
-        - What would you do if you felt like there was an issue with one of the payments you received from the VA? 
-            - How would you know there is an issue?
-            - What would be the next step to correct the problem?
-        - In your opinion, how would you expect to find this feature on the website?
-     - If not
-        - Do you think this page would be useful to you at all?
-            - Why or why not? What might you do on this page that could be helpful to you?
-        - Do you prefer to check your VA payment on your bank's website or the VA's website?
-        - What would you do if you felt like there was an issue with one of the payments you received from the VA?
-            - How would you know there is an issue?
-            - What would be the next step to correct the problem?
-
+        - How often are you coming to this page? 
+        - Do you prefer to check your VA payment on your bank's website or the VA?
+	        - Why? 
+        - Why are you coming to this website instead of your bank?
+        - How would you know there is an issue?
+        - What would you do if you felt like there was an issue with a VA payment?
+		    - Would you be on your bank's website?
+        - How would you fix the problem?
+        - How often are you looking for a particular payment? 
+            - Why are you looking for a particular payment?
+        - How often are you looking for a range of payments?
+            - Why are you looking for a range of payments?
+    - If not
+       - Do you think this page would be useful to you at all?
+       - Why or why not? 
+            - What might you do on this page that could be helpful to you?
+        
 #### Table Features and Attributes
 My next set of questions will be centered around the Payment Table features.
 - On average, how many payment items would you like to see displayed? 
