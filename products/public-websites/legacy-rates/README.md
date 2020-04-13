@@ -25,13 +25,15 @@ Assumptions
 * We need to maintain legacy rate information
 * There's no SEO impact of saving legacy pages [like benefits.va.gov does]
 
-Solution Hypotheses
+Solution Hypotheses/Bets:
 * Legacy rates: 
     * Create an “archive” of all legacy pages off the root with a new year e.g. rates/2019 that would be the old version of the page as it previously was. Involves cloning the older page in Drupal
     * Create a PDF of old rates pages to link out to
 * On-going maintenance:
     * Drupal table field 
-    * Massive spreadsheet for stakeholders to fill out broken out by worksheet within. Would be manual to incorporate those ourselves.  
+    * Spreadsheet for stakeholders to fill out broken out by worksheet within. Would be manual to incorporate those ourselves. 
+      * We'd start with a "template" for the spreadsheet that the stakeholders would fill out. We'd then upload it for them into Drupal.
+      
     
 Next Steps
 * Think through problems/assumptions
