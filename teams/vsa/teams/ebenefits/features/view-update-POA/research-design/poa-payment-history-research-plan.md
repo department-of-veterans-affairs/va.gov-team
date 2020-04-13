@@ -1,4 +1,4 @@
-# Research Plan for eBenefits Form 21-22 & 21-22a Power of Attorney and Payment History
+# Research Plan for eBenefits Power of Attorney and Payment History
 
 #### VSA eBenefits Team / 21-22 & 21-22a Migration & Moderization
 
@@ -79,20 +79,20 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
 
 ## Research Questions
 ### Power of Attorney
-- Is the wizard intuitive to the veterans? (POA) 
-- Is the information presented clearly? (POA)
-- Do Veterans understand what the different Power of Attorney steps mean? (POA)
-- Do users understand how to fill in each field? (POA)
-- What do users think will happen after they’ve submitted the form? (POA)
-- What information do Veterans expect to see in the search results? (POA)
-- How do users navigate the representative results? (POA)
-- What other tools/sites do vets use to fill out the Power Of Attorney Form? (POA)
-- How do veterans determine to employ a representative to dispute their claims? (POA)
-- What other tools/sites do vets use to confirm payments made? (POA)
+- Is the wizard intuitive to the veterans? 
+- Is the information presented clearly?
+- Do Veterans understand what the different Power of Attorney steps mean? 
+- Do users understand how to fill in each field?
+- What do users think will happen after they’ve submitted the form? 
+- What information do Veterans expect to see in the search results? 
+- How do users navigate the representative results? 
+- What other tools/sites do vets use to fill out the Power Of Attorney Form? 
+- How do veterans determine to employ a representative to dispute their claims? 
+- What other tools/sites do vets use to confirm payments made? 
 
 ### Payment History
-- What information do Veterans expect to see in the Payment tables? (PH)
-- How do users navigate the Payment table? (PH)
+- What information do Veterans expect to see in the Payment tables? 
+- How do users navigate the Payment table?
 
 ## Hypothesis   
 ### Power of Attorney
