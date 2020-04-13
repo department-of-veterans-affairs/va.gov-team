@@ -109,8 +109,8 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 - Participants: Veterans who utilize View My Representative and View My Payments features on eBenefits
 - Location: Remote, Zoom meeting coordinated by Perigeon.
 - Recruitment of interviewees: Perigeon
-- The Power of Attorney screens will be presented to a Veteran, and a monitor will ask questions from the conversation guided.   
-- The Payment History screens will be presented to a Veteran, and a monitor will ask questions from the conversation guided.
+- The Power of Attorney screens will be presented to a Veteran, and a monitor will ask questions from the conversation guide.   
+- The Payment History screens will be presented to a Veteran, and a monitor will ask questions from the conversation guide.
 
 ### Participants and Recruitment
 - Recruitment through Perigeon
