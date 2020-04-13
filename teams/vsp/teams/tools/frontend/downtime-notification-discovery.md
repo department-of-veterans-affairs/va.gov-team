@@ -2,7 +2,6 @@
 ## Apps 
 
 - discharge-wizard
-- edu-benefits (each app)
 - find-forms
 - letters
 - login
@@ -214,6 +213,78 @@ No downtime specified
 #### Endpoints
 
 - None?
+
+### education-benefits/0993
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/0993`
+
+### education-benefits/0994
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/0994`
+
+### education-benefits/1990
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/1990`
+
+### education-benefits/1990e
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/1990e`
+
+### education-benefits/1990n
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/1990n`
+
+### education-benefits/1995
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/1995`
+
+### education-benefits/5490
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/5490`
+
+### education-benefits/5495
+
+No downtime specified 
+
+### Endpoints
+
+- POST `/v0/education_benefits_claims/5495`
+
+### education-benefits/feedback-tool
+
+No downtime specified
+
+#### Endpoints
+
+- GET `/gi/institutions/search`
 
 
 ### hca
