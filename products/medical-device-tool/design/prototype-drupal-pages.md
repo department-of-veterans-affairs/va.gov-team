@@ -11,10 +11,6 @@ Navigation: <br>
 
 ### Description 
 
-
-### Feedback 
-TBD
-
 ### Content
 
 This exists as a Word document. [Download the Word Doc here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1_SC_RO.docx)
