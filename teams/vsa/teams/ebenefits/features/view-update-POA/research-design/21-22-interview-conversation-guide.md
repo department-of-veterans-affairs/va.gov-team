@@ -23,8 +23,8 @@
 ### Project-specific setup
 - Open eBenefits in a tab
 - Sign in as a test user (Rene Lowel)
-- Walk interviewee through Power of Attorney
-- Open Payment History page 
+- Have Rene Lowel's SS# for the POA wlak through
+- Open VA.gov website as backup for wayfinding task
 
 ## Intro - 5 minutes
 My name is Nick, and thank you for joining us today.  Before we go any further, I'd like to make you aware that I have my colleagues on the line who will be observing and taking notes.  Today, we're going to walk through the Power of Attorney form and the Payment History feature on the VA's eBenefits website. 
@@ -231,11 +231,12 @@ My next set of questions will be centered around the Payment Table features.
   - If so, why would that information in particular not be necessary?
 
 
-## wayfinding tasks 5 minutes
-### Power of Attorney 
-We are going to switch gears and ask you to locate the Power of Attorney form, also called the 21-22 application on VA.gov.  
+## Wayfinding tasks 5 minutes
 
-For this exercise we are going to ask you to share your screen.  I have added the Zoom's screenshare instructions to the chat. The chat icon can be found int hge lower part of the Zoom app's window. 
+"OK we're going to switch gears and ask you to tell us where you would look for the features we've discussed on VA.gov
+
+### Power of Attorney  
+For this exercise we are going to ask you to share your screen.  I have added the Zoom's screenshare instructions to the chat. The chat icon can be found in the lower part of the Zoom app's window. 
 
 **Instructions**
 Copy steps into the chatbox:
@@ -245,7 +246,7 @@ Copy steps into the chatbox:
 4. Click the desktop view. Fist option found in the upper left corner
 5. Click the Share button. The Blue button in the bottom right corner. 
 6. Attach pictures to the chatbox as well. 
-7. Can you please find the Power of Attorney form on the VA.gov
+7. Let's say you heard that you can fill out the form to appoint a representative (the one we looked at earlier) on VA.gov. You have navigated to VA.gov and now want to find the application. Show us where you would go to find it."
 8. Thank you.
 
 **Things to look for:**
@@ -259,15 +260,16 @@ Copy steps into the chatbox:
 - Did that exercise make sense to you?
 
 ### Payment History
-We are going to switch gears and ask you to locate the Payment History on VA.gov.  
 
 For this exercise, 
 **Instructions**
 - Can you please go back to the homepage. 
-- Can you please locate the Payment History on the VA.gov
+- "Let's say you heard that you can see a list of payments the VA has sent you (the feature we looked at earlier) on VA.gov. You have navigated to VA.gov and now want to find this list. Show us where you would go to find it."
 - Thank you.
 
 **Things to look for:**
+- Make note that they Veteran my want to log in.  If so encourge and ask 
+	- What would you do after you sign in. 
 - I noticed you clicked "X" first. 
     - Why?
 - Where would you most likely think to find the Payment History feature?
@@ -279,9 +281,8 @@ For this exercise,
 ## Post-Task Interview
 OK, those are all the screens we are going to look at today. I just have some closing questions for you.
 
-
-- What are your overall impressions of navigating through the POwer of Attorney application?
-- What are your overall impressions of Payment History' features?
+- What worked well or did not work well when navigating through the Power of Attorney application?
+- What worked well or did not work well with the Payment History' feature?
 - Overall, how could we improve the VA navigation to locate these features?
 - Any questions you have for me?
 
