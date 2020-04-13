@@ -7,7 +7,7 @@
 
 ## Table of Contents 
 - [Team members](#team-members)
-- [Projects & status](#mission) 
+- [Projects & status](#projects--status) 
 - [User problem statements](#user-problem-statements) 
 - [Business goals](#business-goals) 
 - [Questions](#questions) 
