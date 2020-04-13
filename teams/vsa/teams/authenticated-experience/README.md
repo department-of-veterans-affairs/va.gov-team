@@ -17,27 +17,24 @@
 
 --- 
 
-### Table of Contents 
+## Table of Contents 
 
-# Executive Summary  
+# Executive Summary 
 
 - [Mission](#mission) 
 - [User Problem Statement](#user-problem-statement) 
-- [Solution Goals](#solution-goals) 
+- [Business Goals](#business-goals) 
 - [Questions](#questions) 
 - [Assumptions](#assumptions) 
-- [Requirements and Constraints](#requirements-and-constraints) 
-- [Discovery Takeaways](#discovery-takeaways) 
-- [Solution Approach](#solution-approach) 
+- [Requirements and Constraints](#requirements-and-constraints)  
 - [Value Propositions](#value-propositions) 
 - [KPIs](#kpis) 
 
-# Implementation Information 
+# Project Information 
 
-- [Status](#status) 
-- [Solution Narrative](#solution-narrative) 
-- [Team](#team) 
-- [Resources and Documentation](#resources-and-documentation) 
+- [Status](#status)
+- [Projects](#projects)  
+- [Roadmap](#roadmap)
 
 --- 
 
@@ -115,98 +112,18 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
   
 
-## Value Propositions 
-
-- Increase Veteran access to the benefits they deserve. 
-
-  
-
-#### User Value 
-
-- Veterans, caregivers, and family members get increased access to benefits. 
-
-  
-
-#### Business Value 
-  
+## Value Propositions  
 
 ## KPIs 
 
 --- 
 
-# Implementation Info 
+# Project Info 
 
- 
 ## Status 
 
-  
+## Projects
 
-## Solution Narrative 
+## Roadmap
 
-- **Date**: summary of any big changes and why 
-
-- **Date**: summary of any big changes and why 
-
-  
-
-## Team 
-
-
-- VA Executive Sponsor `*`: Chris Johnston / Lisa Koenisberg / Samara Strauss
-
-- Product Manager `*`: Justin Pickett
-
-- Design Lead: Samara Strauss/ Shawna Hein
-
-- Eng Lead: Jose Costa
-
-- VA Contact Center Partner(s):  Chante Lantos-Swett
-
-- Production Testing Partner(s): Tze Chu-Lei
-
-- Designer(s): Arthur Green
-
-- Content Writer(s): Peggy Gannon
-
-- Front-end Engineer(s): Erik Hansen , Bradley Conley
-
-- Back-end Engineer(s): Lihan Li 
-
-  
-
-`*` = approval required for launch 
-
-  
-
-## Resources and Documentation 
-
-  
-
-- Discovery and Research 
-
-- Technical Documentation 
-
-- Product specs 
-
-- Design 
-
-- Roadmap 
-
-- ATO documentation 
-
-
-### How to access in staging 
-
-- Link: https://staging.va.gov
-
-- Password protection info: Zm9ydHkgdHdv
-
-- User authentication info: vets.gov.user+0@gmail.com
-
-  
-
-### Screenshots 
-
-#### Before 
-
-#### After 
+### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
