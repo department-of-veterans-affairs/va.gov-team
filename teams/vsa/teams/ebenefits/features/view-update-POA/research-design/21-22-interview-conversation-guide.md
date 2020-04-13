@@ -157,11 +157,54 @@ My next set of questions will be centered around the Payment Table features.
 - Is there anything on the table that we could remove without preventing you from completing your task? 
   - If so, why would that information in particular not be necessary?
 
+
+## wayfinding tasks 5 minutes
+### Power of Attorney 
+We are going to switch gears and ask you to locate the Power of Attorney form, also called the 21-22 application on VA.gov.  
+
+For this exercise we are going to ask you to share your screen.  I have added the Zoom's screenshare instructions to the chat. The chat icon can be found int hge lower part of the Zoom app's window. 
+
+**Instructions**
+Copy steps into the chatbox:
+1. Open a browser on your computer
+2. Click the Zoom app
+3. Click the green share screen icon button (located at the bottom of app or screen)
+4. Click the desktop view. Fist option found in the upper left corner
+5. Click the Share button. The Blue button in the bottom right corner. 
+6. Attach pictures to the chatbox as well. 
+7. Can you please find the Power of Attorney form on the VA.gov
+8. Thank you.
+
+**Things to look for:**
+- I noticed you clicked "X" first. 
+    - Why?
+- Where would you most likely think to find the form?
+- Was it easy or hard to find the form?
+    - Why?
+- Did the navigation and menu options make sense?
+- Were there any confusing terms?
+- Did that exercise make sense to you?
+
+### Payment History
+We are going to switch gears and ask you to locate the Payment History on VA.gov.  
+
+For this exercise, 
+**Instructions**
+- Can you please go back to the homepage. 
+- Can you please locate the Payment History on the VA.gov
+- Thank you.
+
+**Things to look for:**
+- I noticed you clicked "X" first. 
+    - Why?
+- Where would you most likely think to find the Payment History feature?
+- Was it easy or hard to find the form?
+    - Why?
+- Did the navigation and menu options make sense?
+- Were there any confusing terms?
+
+
 ## Thank You and Closing 
-
 We appreciate you taking the time to share your thoughts with us today. Your feedback is very helpful to us as we continue to work on the site and make sure it works for Veterans.
-
-Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If you do, I'll have our team send you an email with a little blurb that you can pass along to that individual. 
 
 Thank you again and enjoy the rest of your day!
