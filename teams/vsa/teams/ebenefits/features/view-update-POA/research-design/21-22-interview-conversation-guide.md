@@ -32,9 +32,10 @@ My name is Nick, and thank you for joining us today.  Before we go any further, 
 Before we begin, there are a few things I wanted to mention:
 
 - **This entire session should take about an hour.** I want to be sure not to keep you too long, so I may occasionally prompt you with the next question or topic.
+- **Our intention** is to modernize and enhance two features found on eBenefits website because we are building these features on VA.gov. With your help, we would like to incorporate Veterans' feedback about how to improve the features.
 - **In this session, we want to hear your honest opinion.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **If for any reason and at any time you want to stop the session, please let me know.**  
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - **If you're okay with me recording, once I start recording, I am going to confirm that you are ok with me recording this session again.** 
 
@@ -50,34 +51,46 @@ We are going to be talking about how you use certain VA benefit features today. 
 
 
 ## Document Expectations - 10 minutes
-- Are you currently using a representative to assist with a disputed VA claim?
-- Is that representative an attorney or a VSO? **(who did you end up going with?)**
-- When did you allocate your rights to an attorney/VSO to help with your VA claim? **(when did you complete the assign a represenative to your claim(s)?)**
-- **Why did you choose to go with (Said repre)?**   Can you share your reasoning behind electing a representative for your claim?
-    - Look for answers such as friends, family, bureaucracy, approached by service
-- **What were you hoping to accomplsih by have the representative?**
-- How did you apply for a Power of Attorney (POA)? 
-    - Look for answers such as paper, eBenefits, a service
-- Are you satisfied with the method you used? Why or Why not?
-- What would have been your preference?
+- Are you currently using a PoA or representative to assist with a disputed VA claim?
+ 
+Yes
+- Can you share your reasoning behind electing a representative for your claim?
+- Who did you end up choosing? 
+- Is that an attorney or a VSO? 
+- How did you find out about this service?
+  - Look for answers such as friends, family, bureaucracy, approached by service
+- Can you briefly tell us what you know about VA’s Power of Attorney
+- When was the last time you assigned a representative to your claim(s)?
+ 
+No
+- Is there a reason that you do not have a representative you are working with?
+- What are the steps you think might be involved in selecting a representative for the Power of Attorney process? 
+- Would you use this service?
+  - Why & Why not
 
 
 ## Discover Pain Points - 10 minutes
 ### Screenshare
-- Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal. 
+- Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal.
 
-I am going to share my screen with you. Can you see the eBenefits website on your computer?
+I am going to share my screen with you. Can you see the eBenefits website on your computer? As I said before we are going to walk through how to fill out the Power of Attorney form and gather your thoughts about each step.
 
-- How familiar are you with the Power of Attorney form, also called the 21-22 form? 
-- What is your experience with the VA's POA process?
+- How familiar are you with the Power of Attorney form, also called the 21-22 form?
+- The first step we will be reviewing is the Privacy Act. 
 
 **Screens**
 - Privacy Act
-  - Please give us your initial thoughts about this step?
-  - Please explain how you would complete this step?
-  - Can you verbalize some of your thoughts about the Privacy Act text?
-    
-- VA Number
+    - **What are your initial  thoughts about this step?**
+    - What are your feelings about how the VA presents this legal text on its pages?
+    - How often do you read the legal text in a document (sometimes called Terms and Conditions)
+        - Why & Why not?
+    - How would you prefer to view the legal documents?
+    - Can you remember an example where you like how the legal documentation was presented
+        - How was it presented?
+    - Does this step seem to be an appropriate first step for the form.
+    - Do you have any other thoughts about this step that you would like to bring up? 
+   
+- VA Number (796-12-4704)
   - Do you know your VA number?
   - How would you prefere to look up the number? 
 - Search for Representative
