@@ -23,7 +23,6 @@
 - static-pages
 - terms-and-conditions
 - validate-mhv-account
-- veteran-representative
 
 ### vaos
 
@@ -109,6 +108,14 @@ Not configured to use the `<DowntimeNotification>` component
 - GET `/gi/yellow_ribbon_programs`
 
 ## Forms apps
+
+### veteran-representative
+
+No downtime notification behavior or listed dependencies.
+
+The `submitUrl` is `/v0/vso_appointments`
+
+---
 
 <!-- use `rg "downtime:" src/applications/` -->
 
