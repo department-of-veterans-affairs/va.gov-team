@@ -1,7 +1,6 @@
 
 ## Apps 
 
-- claims-status
 - disability-benefits
   - 2346
   - 526EZ
