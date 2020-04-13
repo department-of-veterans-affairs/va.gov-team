@@ -2,7 +2,7 @@
 name: VAOS Stakeholder Epic
 about: For VAOS stakeholders to provide input into product roadmap
 title: VAOS Stakeholder Epic
-labels: roadmapOCC, VAMF, discovery, VAOS
+labels: vaos, roadmapOCC, VAMF, discovery,
 assignees: ''
 
 ---
@@ -42,5 +42,5 @@ _Link to Additional Implementation artifacts- requirements based on policy, data
 ```
 
 ## How to configure this issue
-- [ ] **Labeled with `roadmapOCC` and `VAMF` and `VAOS`**
+- [ ] **Labeled with `roadmapOCC` and `VAMF` and `vaos`**
 - [ ] **Add Epic to VAOS-R Roadmap Project in Github - must do this in GH, not Zenhub**
