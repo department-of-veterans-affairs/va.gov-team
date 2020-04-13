@@ -21,8 +21,18 @@
 - public-outreach-materials
 - search
 - static-pages
-- terms-and-conditions
 - validate-mhv-account
+
+### terms-and-conditions
+
+No downtime behavior or listed dependencies
+
+#### Endpoints
+
+- GET `/terms_and_conditions/[TERMS_NAME]/versions/latest`
+- GET `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
+- POST `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
+
 
 ### vaos
 
