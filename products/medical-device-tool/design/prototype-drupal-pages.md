@@ -17,7 +17,7 @@ TBD
 
 ### Content
 
-During review, this exists as a Word document. [_Download v1 of the Word Doc here._](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1.docx)
+This exists as a Word document. [Download the Word Doc here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1_SC_RO.docx)
 
 
 ## Prosthetic socks 
