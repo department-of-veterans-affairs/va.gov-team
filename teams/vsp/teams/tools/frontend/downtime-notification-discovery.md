@@ -1,13 +1,11 @@
 
 ## Apps 
 
-- discharge-wizard
 - find-forms
 - letters
 - login
 - post-911-gib-status
 - pre-need
-- proxy-rewrite
 
 ### public-outreach-materials
 
