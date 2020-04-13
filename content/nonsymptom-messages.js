@@ -195,4 +195,4 @@ contact_regional_office: `
 Call us toll-free at 800-827-1000, 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video.
 `
 
-}
+};

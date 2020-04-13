@@ -18,7 +18,7 @@ healthcare: {
     "What if I tried to call my clinic, and I can't get through?",
     "How do I know if my VA health facility is still open for regular appointments?",
     "Can I visit a patient at a VA facility?",
-    "Can I be be tested for coronavirus COVID-19 at VA?",
+    "Can I be tested for coronavirus COVID-19 at VA?",
     "Start over"
   ],
   answers: [
@@ -37,7 +37,7 @@ healthcare: {
 
 va_covid_response: {
   questions: [
-    "Can I be be tested for coronavirus COVID-19 at VA?",
+    "Can I be tested for coronavirus COVID-19 at VA?",
     "What is VA doing to deal with COVID-19?",
     "Start over"
   ],
@@ -77,4 +77,4 @@ benefits: {
   ]
 }
 
-}
+};
