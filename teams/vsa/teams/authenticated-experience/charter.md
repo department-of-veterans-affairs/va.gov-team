@@ -2,7 +2,7 @@
 
 ## Guideposts 
 ### Authenticated Experience Mission Statement:
-Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
+Help veterans accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
 ### Authenticated Experience Vision:
 "A personalized experience where veterans can easily accomplish what matters to them "
