@@ -61,7 +61,7 @@ What makes it hard is that it’s across VA, so people have a lot of opinions ab
 
 ### What are concerns do you have about this project? What do you imagine going wrong?
 
-My only concern is one of speed. I think we’re at the point where we really need something approved over what we have. I would be sad if we spent a year trying to make this perfect without making anything incrementally better at all.
+My only concern is one of speed. I think we’re at the point where we really need something improved over what we have. I would be sad if we spent a year trying to make this perfect without making anything incrementally better at all.
 
 ### Is there anyone else you think we should talk to?
 
