@@ -131,8 +131,9 @@ Our hypothesis is, the veteran will have two principal ways they will use the to
 
 #### Pilot: 
 - Date: 04/20/2020
-- Time: 10:00 AM t0 11:00 AM CT Time. (11:00 AM to 12:00 PM ET)
+- Time: 12:00 - 1:00 ET
 - Participant: Derek Dyer
+- Email: DDyer@governmentcio.com
 
 Availability: If applicable, when would you like sessions scheduled? <br>
 April 21-24, from 9:00 AM to 3:00 PM
@@ -155,6 +156,7 @@ April 21-24, from 9:00 AM to 3:00 PM
 - [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
 - [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
 - [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
+- [Derek Dyer](Ddyer@governmentcio.com) -- Backend engineer
 - [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
 - [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
 - [Jennifer Strickland](jennifer.stricklandn@adhocteam.us) -- 508 compliance
