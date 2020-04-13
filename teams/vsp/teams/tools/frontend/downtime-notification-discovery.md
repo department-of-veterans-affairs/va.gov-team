@@ -12,9 +12,7 @@
   - 996
 - discharge-wizard
 - edu-benefits (each app)
-- facility-locator
 - find-forms
-- gi
 - letters
 - login
 - post-911-gib-status
@@ -278,3 +276,30 @@ Uses `<DowntimeNotification />` to render a [custom message](https://github.com/
 - appeals
 
 #### Endpoints
+
+## Facility locator 
+
+Uses `<DowntimeNotificaiton />` to render standard message. 
+
+**dependencies**
+
+- arcgis 
+
+### Endpoints
+
+- GET `/v0/facilities`
+- GET `/v0/facilities/va`
+- GET `/v0/facilities/ccp`
+
+## GI Bill Comparison tool
+
+Uses `<DowntimeNotification />` to render standard message.
+Shows custom [`<ServiceError>`](https://github.com/department-of-veterans-affairs/vets-website/blob/b43dcb46199606b23bd0a62bd17f8946b1f9c9c5/src/applications/gi/components/ServiceError.jsx#L4-L11) when backend returns error. 
+
+**dependencies**
+
+- none listed
+
+### Endpoints
+
+- GET `/v0/gi`
