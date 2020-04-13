@@ -12,9 +12,7 @@
   - 996
 - discharge-wizard
 - edu-benefits (each app)
-- facility-locator
 - find-forms
-- gi
 - letters
 - login
 - post-911-gib-status
