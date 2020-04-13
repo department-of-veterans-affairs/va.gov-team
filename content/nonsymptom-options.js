@@ -7,8 +7,8 @@ root: [
   "Benefits and claims"
 ],
 
-healthcare: [
-  [
+healthcare: {
+  questions: [
     "What should I do if I have an upcoming VA health appointment?",
     "What should I do if I have a community care appointment?",
     "Can I get a referral to see a community care provider if I can't be seen at VA?",
@@ -21,7 +21,7 @@ healthcare: [
     "Can I be be tested for coronavirus COVID-19 at VA?",
     "Start over"
   ],
-  [
+  answers: [
     scenario.messages.upcoming_appointment,
     scenario.messages.community_care_apt,
     scenario.messages.referral,
@@ -33,34 +33,34 @@ healthcare: [
     scenario.messages.visit_patient,
     scenario.messages.get_tested,
   ]
-],
+},
 
-va_covid_response: [
-  [
+va_covid_response: {
+  questions: [
     "Can I be be tested for coronavirus COVID-19 at VA?",
     "What is VA doing to deal with COVID-19?",
     "Start over"
   ],
-  [
+  answers: [
     scenario.messages.get_tested,
     scenario.messages.va_response
   ]
-],
+},
 
-mental_health: [
-  [
+mental_health: {
+  questions: [
     "I don't have symptoms, but I feel anxious and overwhelmed. What can I do?",
     "How can I ask for a new mental health appointment?",
     "Start over"
   ],
-  [
+  answers: [
     scenario.messages.feeling_anxious,
     scenario.messages.new_mental_health_apt
   ]
-],
+},
 
-benefits: [
-  [
+benefits: {
+  questions: [
     "Will my benefit patient be delayed because of COVID-19?",
     "My school changed all classes to online, Will I still qualify for my GI bill benefits?",
     "Are VA regional offices closed?",
@@ -68,13 +68,13 @@ benefits: [
     "How can I contact my local regional office?",
     "Start over"
   ],
-  [
+  answers: [
     scenario.messages.benefit_delay,
     scenario.messages.gi_benefits,
     scenario.messages.regional_office_closure,
     scenario.messages.stay_updated_closures,
     scenario.messages.contact_regional_office
   ]
-]
+}
 
 }
