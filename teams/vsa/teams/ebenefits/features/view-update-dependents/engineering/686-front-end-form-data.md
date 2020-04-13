@@ -235,6 +235,48 @@
     suffix: 'Sr.'
   },
   dateChildLeftSchool: '2019-03-03',
+  
+  childrenToAdd: [
+        {
+          doesChildLiveWithYou: false,
+          childAddressInfo: {
+            personChildLivesWith: {
+              first: 'Bill',
+              middle: 'Oliver',
+              last: 'Bradsky'
+            },
+            childAddress: {
+              countryName: 'United States',
+              addressLine1: '1019 Robin Cir',
+              addressLine2: 'NA',
+              addressLine3: 'NA',
+              city: 'Arroyo Grande',
+              stateCode: 'CA',
+              zipCode: '93420'
+            }
+          },
+          childPlaceOfBirth: {
+            state: 'California',
+            city: 'Slawson'
+          },
+          childStatus: {
+            biological: true
+          },
+          'view:childStatusInformation': {},
+          childPreviouslyMarried: 'Yes',
+          childPreviousMarriageDetails: {
+            dateMarriageEnded: '2018-03-04',
+            reasonMarriageEnded: 'Other',
+            otherReasonMarriageEnded: 'Some other reason'
+          },
+          first: 'John',
+          middle: 'oliver',
+          last: 'Hamm',
+          suffix: 'Sr.',
+          ssn: '000000000',
+          birthDate: '2009-03-03'
+        }
+      ],
 }
 
 ```
