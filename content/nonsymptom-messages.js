@@ -67,7 +67,7 @@ If you have concerns about rescheduling your appointment, [send a secure message
 
 /* 19. What is VA doing to deal with COVID-19? */
 va_response: `
-We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities. <br>
+We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.
 
 [Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
 `,
@@ -76,7 +76,8 @@ We've activated our emergency management coordination cell (EMCC) and started cl
 reschedule_appt: `
 Sign in to your VA.gov account to [reschedule or cancel your appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/).
 
-**Note:** Some clinics are advising patients to not reschedule or schedule new appointments for some types of routine care, as they develop more guidance on safely providing care to protect patients and staff. Because this is a rapidly changing situation, the best way to get the most up-to-date facility information is to check your local VA health facility’s website. <br>
+**Note:** Some clinics are advising patients to not reschedule or schedule new appointments for some types of routine care, as they develop more guidance on safely providing care to protect patients and staff. Because this is a rapidly changing situation, the best way to get the most up-to-date facility information is to check your local VA health facility’s website.
+
 [Find a VA location](https://www.va.gov/find-locations/)
 `,
 
@@ -220,7 +221,8 @@ Call MyVA311 at 844-698-2311.
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
 **For local VA health facility hours, services, and safety measures**
-Check your facility's website for the latest updates. <br>
+Check your facility's website for the latest updates.
+
 [Find a VA location](https://www.va.gov/find-locations)
 
 **For technical questions about My HealtheVet**
