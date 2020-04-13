@@ -2,9 +2,18 @@
 
 - GitHub Label: vsa-authenticated-exp  
 - Slack channel: #vsa-authd-exp 
-- Product POC's: Samara Strauss and Matt Shea
-
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+
+### Team Members
+
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|Matt Shea |Product Manager| matt.shea@adhocteam.us |
+|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Sandra Hallie |FE Engineer |  |
+|Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 --- 
 
