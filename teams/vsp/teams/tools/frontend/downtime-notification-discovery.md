@@ -369,7 +369,6 @@ Shows custom [`<ServiceError>`](https://github.com/department-of-veterans-affair
 
 No downtime notification.
 
-
 **dependencies**
 
 ???
