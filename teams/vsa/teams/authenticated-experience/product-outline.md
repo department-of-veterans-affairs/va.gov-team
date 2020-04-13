@@ -3,7 +3,7 @@
 ### Table of contents
 - [Mission](#mission)
 - [Vision](#vision)
-- [North start objectives](#north-star-objectives)
+- [North star objectives](#north-star-objectives)
 - [User problem statements](#user-problem-statements) 
 - [Business goals](#business-goals) 
 - [Questions](#questions) 
