@@ -37,44 +37,7 @@ Authenticated Experience for VA.gov
 ## Responsibilities
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
-## Roadmap
-
-### Q1 2020
-
-#### Direct Deposit
-- Removal of direct deposit from eBenefits
-
-#### Address validation
-- QA
-- Pre-launch checklist
-- Launch
-
-### Profile 2.0
-- Design
-- Technical discovery
-
-### Q2 2020
-
-#### Profile 2.0
-- User testing
-- Build
-- QA
-- Pre-launch
-
-#### Logged-in homepage
-- Discovery & strategy
-- Start design
-
-### Q3 2020
-
-#### Profile 2.0
-
-- Launch
-
-#### Logged-in homepage
-- Design
-- Build
-- User testing and additional user research
+## [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
 ## Workflow + Cadence
 
