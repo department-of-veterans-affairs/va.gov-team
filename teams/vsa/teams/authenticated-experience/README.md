@@ -5,7 +5,18 @@
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
 - [Road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
-### Team Members
+## Table of Contents 
+- [Team members](#overview)
+- [Projects & status](#mission) 
+- [User problem statements](#user-problem-statements) 
+- [Business goals](#business-goals) 
+- [Questions](#questions) 
+- [Assumptions](#assumptions) 
+- [Requirements and constraints](#requirements-and-constraints)  
+- [Value propositions](#value-propositions) 
+- [KPIs](#kpis) 
+
+## Team Members
 
 |Name|Role|Email|
 |----|----|-----|
@@ -16,7 +27,7 @@
 |Sandra Hallie |FE Engineer |  |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-### Projects & Status 
+## Projects & Status 
 
 **Last updated April 2020**
 
@@ -25,19 +36,6 @@
 |[Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
 |[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Build |
 |[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Discovery|
-
---- 
-
-## Table of Contents 
-
-- [Mission](#mission) 
-- [User Problem Statements](#user-problem-statements) 
-- [Business Goals](#business-goals) 
-- [Questions](#questions) 
-- [Assumptions](#assumptions) 
-- [Requirements and Constraints](#requirements-and-constraints)  
-- [Value Propositions](#value-propositions) 
-- [KPIs](#kpis) 
 
 ## Mission 
 
