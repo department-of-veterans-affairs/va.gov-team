@@ -3,7 +3,7 @@
 ### Table of contents
 - [Mission](#mission)
 - [Vision](#vision)
-- [North start objective](#north-star-objectives)
+- [North start objectives](#north-star-objectives)
 - [User problem statements](#user-problem-statements) 
 - [Business goals](#business-goals) 
 - [Questions](#questions) 
@@ -26,7 +26,7 @@ Help veterans accomplish tasks more easily by leveraging what we know about them
 - notifications/status updates
 - complete tasks
 
-### North start objectives
+### North star objectives
 
 potentials:
 1) Minimizing the amount of time veterans spend to accomplish tasks within the AE.
