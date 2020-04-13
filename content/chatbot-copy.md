@@ -17,7 +17,9 @@ You can use this tool to quickly get answers to your questions about the coronav
 
 [NOTE: Removed # 3]
 
-## 4. Handoff for CDC Symptom Checker
+## 4. Handoff & VA-specific ending message for CDC Symptom Checker
+
+**[handoff message]**
 
 ##### Visit the CDC Coronavirus Self-Checker tool
 
@@ -26,6 +28,20 @@ The Centers for Disease Control and Prevention (CDC) designed this tool to help 
 [Go to CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) <br>
 
 [Go back]
+
+**[VA-specific ending messages]**
+
+**[IF user receives CDC "Call 911 - You may be having a medical emergency." message]**
+
+**[IF user receives CDC "Urgent medical attention may be needed. Please go to the Emergency Department" message]**
+
+**[IF user receives CDC "Contact a healthcare provider in the long-term care facility where you live" message]
+
+**[IF user receives CDC "Sounds like you are feeling ok" message]**
+
+**[IF user receives CDC "Pease make a selection so I can help give you care advice" message]**
+
+
 
 ------
 
@@ -360,15 +376,26 @@ Contact the Education Call Center toll-free at 888-442-4551, Monday through Frid
 _need to add mental health services_
 
 
-
-
-
-
 ------
 
 ## 36. Back to top
 
 [to add]
+
+------
+
+## Error message for when user clicks on an option that no longer 
+
+We're sorry. That's not a valid option.
+
+**What would you like to do next?**
+- [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)
+- [Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)
+- [Request an appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/)
+- [Check your local VA health facility website](https://www.va.gov/find-locations/)
+- [Start over to ask another question](start over)
+
+
 
 
 
