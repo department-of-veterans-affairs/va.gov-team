@@ -40,7 +40,7 @@ _April 8 - April 21_
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs
 - DE: landing pages sent to Public Websites
-- DE: Usability Sessions with Research Plan and Conversaion Guide
+- DE: usability Sessions with Research Plan and Conversaion Guide
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
