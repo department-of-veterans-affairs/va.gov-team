@@ -38,3 +38,16 @@
 - Design
 - Build
 - User testing and additional user research
+
+## Q4 2020
+
+### Logged-in homepage
+
+- QA
+- Pre-launch
+
+## Q1 2021
+
+### Logged-in homepage
+
+- Launch
