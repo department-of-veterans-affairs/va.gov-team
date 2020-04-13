@@ -154,10 +154,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Address Validation
 
-**Audit Status:** Pre-launch 508 Review<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
+**Audit status:** Pre-launch 508 Review<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 
@@ -167,16 +167,16 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Profile Appointment Text Messages
 
-**Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
+**Audit status:** First audit completed by VSP Product Support Team October 2019<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+Text+Appointments+is%3Aclosed+)**
 
 ---
 
 #### Benefits Recommendations
 
-**Audit Status:** Request sent to VA 508 office March 2019.<br/>
+**Audit status:** Request sent to VA 508 office March 2019.<br/>
 
-**Open Issues** identified by VSP Product Support
+**Open issues** identified by VSP Product Support
 
 - [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
@@ -187,10 +187,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### 526v2 All Claims
 
-**Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
+**Audit status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A526+label%3A508%2FAccessibility+is%3Aclosed)**
 
-**Open Issues** identified by VA 508 office
+**Open issues** identified by VA 508 office
 
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -203,19 +203,19 @@ Each application or logical section of the site will have a heading and a detail
 
 #### 996
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in 996 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7316)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 #### Discharge Wizard
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in discharge-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7347)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 #### 2346
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -223,10 +223,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### 526 PTSD
 
-**Audit Status:** Audited January 2019<br/>
+**Audit status:** Audited January 2019<br/>
 **[781a PTSD form](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes)**
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #5190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5190)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
@@ -235,9 +235,8 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Claim and Appeal Status
 
-**Audit Status:** Audited by VA 508 Office February 2019<br/>
-
-**Open Issues**
+**Audit status:** Audited by VA 508 Office February 2019<br/>
+**Open issues**
 
 - [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -247,10 +246,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### HCA Dashboard Notifications
 
-**Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
+**Audit status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in hca end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7384)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -258,9 +257,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Apply for Pre-need Burial
 
-**Audit Status:** Audited by VA 508 Office September 2018<br/>
+**Audit status:** Audited by VA 508 Office September 2018<br/>
 
-**Open Issues**
+**Open issues**
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -276,15 +275,13 @@ Each application or logical section of the site will have a heading and a detail
 
 #### VA Letters
 
-**Open Issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in VA letters end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7385)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+**No open issues**
 
 ---
 
 #### Pensions
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in pensions end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7403)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -305,7 +302,7 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** Pre-launch 508 audit completed<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear - 4784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
   **Opened:** January 13, 2020 | **Severity:** 508-defect-2 - **_Serious_**
@@ -316,7 +313,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### 686 Form
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -326,9 +323,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Colmery Act Opt Out
 
-**Audit Status:** Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/>
+**Audit status:** Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/>
 
-**Open Issues**
+**Open issues**
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -337,9 +334,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Education Feedback Tool
 
-**Audit Status:** Request sent to VA 508 office November 2018<br/>
+**Audit status:** Request sent to VA 508 office November 2018<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
   **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -351,9 +348,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 1990
 
-**Audit Status:** Completed June 2017<br/>
+**Audit status:** Completed June 2017<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -361,9 +358,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 1990e
 
-**Audit Status:** Completed June 2017<br/>
+**Audit status:** Completed June 2017<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -371,9 +368,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 1990n
 
-**Audit Status:** Completed June 2017<br/>
+**Audit status:** Completed June 2017<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -381,7 +378,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Education 1995 STEM Update
 
-**Audit Status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
+**Audit status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
 **No open issues**<br/>
 **[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aeducation+is%3Aclosed+label%3A508%2FAccessibility)**
@@ -390,7 +387,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 0993
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -398,7 +395,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 0994
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -406,7 +403,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 1995
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -414,7 +411,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Edu 5495
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -422,7 +419,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Apply Wizard
 
-**Open Issues**
+**Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in EDU apply-wizard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7350)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -434,8 +431,8 @@ Each application or logical section of the site will have a heading and a detail
 
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A508%2FAccessibility+label%3A%22facility+locator%22+is%3Aclosed)**
 
-**Open Issues**<br/>
-**Audit Status:** Issues logged by auditor in February 2020<br/>
+**Audit status:** Issues logged by auditor in February 2020<br/>
+**Open issues**<br/>
 
 - [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
@@ -443,8 +440,8 @@ Each application or logical section of the site will have a heading and a detail
 - [[CI/CD]: Review coverage of accessibility checks in facility-locator end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7358)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
-**Audit Status:** Issues logged by auditor in July 2019<br/>
-
+**Audit status:** Issues logged by auditor in July 2019<br/>
+**Open issues**<br/>
 - [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
   **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
@@ -456,10 +453,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Facility Locator Urgent Care MVP
 
-**Audit Status:** Staging Review completed by VSA March 26, 2020<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A508%2FAccessibility+%2C+Facility+Locator+Urgent+Care+MVP+is%3Aclosed)**
+**Audit status:** Staging Review completed by VSA March 26, 2020<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A508%2FAccessibility+%2C+Facility+Locator+Urgent+Care+MVP+is%3Aclosed)**
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6911)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-1 ❗️ — **_Launchblocker_**
 
@@ -489,9 +486,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Appeal Modernization Process (AMA)
 
-**Audit Status:** Staging Review complete, March 9, 2020; Sent to VA 508 Office March 11, 2020<br/>
+**Audit status:** Staging Review complete, March 9, 2020; Sent to VA 508 Office March 11, 2020<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
@@ -511,10 +508,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Disability Calculator
 
-**Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Avsa-public-websites+is%3Aclosed+Disability+Calculator)**
+**Audit status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Avsa-public-websites+is%3Aclosed+Disability+Calculator)**
 
-**Open Issues**
+**Open issues**
 
 - [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)<br/>
   **Opened:** August 16, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -524,17 +521,17 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Local Side Navigation
 
-**Audit Status:** Completed June 2017<br/>
+**Audit status:** Completed June 2017<br/>
 **No open issues**
 
 ---
 
 #### Pittsburgh Side Navigation (CMS)
 
-**Audit Status:** First audit completed by VSA November 2019<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-facilities+label%3A508%2FAccessibility+Sidenav+is%3Aclosed)**
+**Audit status:** First audit completed by VSA November 2019<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-facilities+label%3A508%2FAccessibility+Sidenav+is%3Aclosed)**
 
-**Open Issues**
+**Open issues**
 
 - [[KEYBOARD]: Ensure content structure may be navigated by tab order - #3552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3552)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -555,9 +552,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Health Care Application 1010-EZ
 
-**Audit Status:** Request sent to VA 508 office November 2018<br/>
+**Audit status:** Request sent to VA 508 office November 2018<br/>
 
-#### Open issues
+**Open issues**
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -568,9 +565,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool
 
-**Audit Status:** Audited by VA 508 Office November 2018<br/>
+**Audit status:** Audited by VA 508 Office November 2018<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[COGNITION]: GIBCT® - Standardize the search and filter behavior with a "Go" button click - #1276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1276)<br/>
   **Opened:** August 23, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -591,7 +588,7 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** Audited by VSP Product Support Team August 2019<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-comparisontool+label%3A508%2FAccessibility+is%3Aclosed)**
 
-**Open Issues**
+**Open issues**
 
 - [[SCREENREADER]: GIBCT® VETTEC - Can we move the Learn more buttons out of the label tags? - #1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/>
   **Opened:** August 22, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -600,7 +597,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool Colmery 107 Feature
 
-**Audit Status:** Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019.<br/>
+**Audit status:** Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019.<br/>
 **No open issues**<br/>
 **[Test application](https://staging.va.gov/gi-bill-comparison-tool/)**<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-ct-107+is%3Aclosed+label%3A508%2FAccessibility)**
@@ -609,10 +606,10 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool Forever GI Bill Section 116
 
-**Audit Status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
+**Audit status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-ct-116+label%3A508%2FAccessibility+is%3Aclosed)**
 
-**Open Issues**
+**Open issues**
 
 - [[DOCUMENT]: GIBCT Section 116 - Excel document has merged cells that could cause accessibility issues - #3835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3835)<br/>
   **Opened:** November 28, 2019 | **Severity:** 508-defect-1 — **_Critical_**
@@ -629,9 +626,9 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool Caution Flags
 
-**Audit Status:** Design review phase<br/>
-**No Open Issues**<br/>
-**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Abah-comparisontool+is%3Aclosed+label%3A508%2FAccessibility)**
+**Audit status:** Design review phase<br/>
+**No open issues**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Abah-comparisontool+is%3Aclosed+label%3A508%2FAccessibility)**
 
 ---
 
@@ -639,7 +636,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Audit Status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
 
-**Open Issues**
+**Open issues**
 
 - [[DOCUMENT] GIBCT SCO - Lists are not picked up correctly by screen readers in Section 305 PDF - #3869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3869)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -654,7 +651,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ### VFS Veterans Affairs Online Scheduler (VAOS)
 
-**Audit Status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
+**Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**<br/>
 **No open issues**
 
@@ -662,8 +659,8 @@ Each application or logical section of the site will have a heading and a detail
 
 ### New Project Name
 
-**Audit Status:** _Audit status, team, and date_<br/>
-**Closed Issues:** _Create a reusable search link by filtering va.gov-team issues:_
+**Audit status:** _Audit status, team, and date_<br/>
+**Closed issues:** _Create a reusable search link by filtering va.gov-team issues:_
 
 1.  Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues) on the va.gov-team repository
 1.  Click the `<NUMBER> Closed` link to switch to closed issues
