@@ -22,7 +22,7 @@
 |Sandra Hallie |FE Engineer |  |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-### Projects & Status 
+## Projects & Status 
 
 **Last updated April 2020**
 
