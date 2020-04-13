@@ -1,8 +1,6 @@
 
 ## Apps 
 
-- Auth
-- beta-enrollment
 - caregivers
 - claims-status
 - disability-benefits
@@ -376,3 +374,25 @@ Shows custom [`<ServiceError>`](https://github.com/department-of-veterans-affair
 ### Endpoints
 
 - GET `/v0/gi`
+
+## Auth
+
+No downtime notification.
+
+**dependencies**
+
+???
+
+### Endpoints
+
+- GET `/user`
+
+## Beta enrollment
+
+Show custom [`<AlertBox />`](https://github.com/department-of-veterans-affairs/vets-website/blob/fbab127ac0fe745ef55bac6c9db98d718d264d61/src/applications/beta-enrollment/containers/BetaEnrollmentButton.jsx#L54-L66) when there's an error calling its end point.
+
+**dependencies**
+
+### Endpoints 
+
+- POST, DELETE `/beta_registration`
