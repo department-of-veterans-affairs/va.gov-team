@@ -576,3 +576,17 @@ Downtime messaging is [based on service that is down](https://github.com/departm
 ### Endpoints
 
 - No endpoints but redirects to external sites 
+
+## Letters 
+
+Displays standard downtime message 
+
+**dependencies**
+
+- evss
+
+### Endpoints
+
+- GET `/v0/letters`
+- GET `/v0/letters/beneficiary`
+- POST `/v0/letters/${letterType}`
