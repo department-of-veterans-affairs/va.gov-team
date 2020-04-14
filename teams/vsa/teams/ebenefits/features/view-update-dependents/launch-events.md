@@ -16,7 +16,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 
 ## Assumptions  
 **Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_  
-**Number of work days:** 21 from today   
+**Number of work days:** 20 from today   
 **Number of sprints:** 2   
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
@@ -40,7 +40,7 @@ _April 8 - April 21_
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs
 - DE: landing pages sent to Public Websites
-- DE: usability Sessions with Research Plan and Conversaion Guide
+- DE: usability Sessions with Research Plan and Conversation Guide
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
