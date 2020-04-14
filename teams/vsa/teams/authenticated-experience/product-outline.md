@@ -28,7 +28,6 @@
 - Increase use of self-service tools on VA.gov.
 - Reduce touchpoints that veterans need.
 - Show veterans and their communities everything we know about them in one place.
-
 - Create a usable/scalable logged-in homepage.
 - Create a usable/scalable veteran profile.
 - Create a logged-in navigation that focuses on getting users to tools.
