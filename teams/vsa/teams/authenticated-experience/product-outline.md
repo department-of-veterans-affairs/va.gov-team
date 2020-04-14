@@ -14,6 +14,9 @@
 
 ## Overview
 
+- High level overview of vision/mission
+- Link to [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+
 ## User problem statements 
 
 - **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
@@ -22,7 +25,7 @@
 
 ## Business goals 
 
-- Increase use of self-service tools.
+- Increase use of self-service tools on VA.gov.
 - Reduce touchpoints that veterans need.
 - Show veterans and their communities everything we know about them in one place.
 
