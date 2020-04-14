@@ -1,13 +1,7 @@
-Sentry Upgrade
-
-- current version
-- why are we staying on 9.1.2
-  - existing limitations
-- plans for future
-
 ## Current State
 Current Sentry Version = `9.1.2` 
 
+### Simplified Deployment
 ![image](https://user-images.githubusercontent.com/3077884/79146240-0a500380-7d90-11ea-9ead-aa6303d5082d.png)
 
 
