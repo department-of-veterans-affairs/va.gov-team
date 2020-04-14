@@ -8,7 +8,7 @@ Welcome to the design sprint for performance analytics! Here are some things to 
 
 ## Existing Analytics Dashboards (Product Success Tool)
 
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/platform/product-dashboard/product-outline.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-dashboard/product-success-tool-outline.md)
 - [Product Brief](https://docs.google.com/presentation/d/1sI32UbQRqpKqOhBT8lkUuOHgfD4UUkV2cd5Pzw1fP9w/edit#slide=id.g76c280c04b_0_21) - (PPT version of the product outline)
 - [Metrics as Features](https://docs.google.com/presentation/d/1-6lS9XJ6GuK2QICVEjD1BdhPj8E8paNhB6KjDVwVCG8/edit#slide=id.g7555e84c9b_0_149)
 
