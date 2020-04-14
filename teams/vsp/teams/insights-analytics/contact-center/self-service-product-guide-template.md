@@ -1,49 +1,41 @@
 # **Self-Service Product Guide Template** 
 
-The purpose of this template is for VSF teams to be aware of all pertinent information that is needed for product guides to be sent to Contact Centers.  
-All prodcut guides should be in WORD format and include the following:
+The purpose of this document is to provide a template for the creation of product guides for the VA.gov contact center. VSF teams should use this template as a guide for descriping the use and functionality of a new tool or a significant update to an existing tool or feature.
+
+All prodcut guides should be created and saved as a word document. You will need to use screenshots as well as text to demonstrate the key functionality of your product. A complete product guide will include the following:
 
 ## **Table of Contents:**
-- This is the roadmap to each portion of your writing
+- This is the roadmap to each portion of your writing. Please inclue the following sections in your table of contents:
+  - Product Overview
+  - User Access
+  - Navigation
+  - Functionality
+  - Major Issues and Error Messages
 
 ## **Product Overview:**
-- This is a brief description of the product
+- This is a brief description of the product. Please include a couple of sentences of what the product is, how it works, and who is it for.
 
 ## **User Access:**
-- Who can access this application
+- User access refers to what types of users can use this product. Please indicate whether the user has to have a certain type of VA.gov account (i.e. LOA1 vs. LOA3 vs. no account needed) to use the product. You can also describe any additional requirements or criteria a user must meet in order to use your product successfully.  
 
 ## **Navigation:**
-- Include wizards
-- Include URL and screenshots of where the application can be found on the VA.gov homepage.
-- Include additional links/URLs and/or screenshots of other locations where this application can be accessed.
+- This section should describe how the user finds the product on VA.gov. Please provide the actual URL for your product as well as other locations that link to your product. Below are a few examples of what you might show in this section:
+  - URL and screenshot if a link to your product is shown on the VA.gov homepage
+  - URL and screenshot if a link to your product is shown in a benefits hub
+  - URL and screenshot if your product can be accessed by a another feature like the VA profile. 
+- You do not need to list out all access points for your product but please provide details for the most relevant pathways. 
 
 ## **Functionality:**
-- This is the information that will detail the page to show what you have access to:
-     - NOT being signed in
-     - Being signed into a LOA1 account
-     - Being signed into a LOA3 account
-     - Include URLs/links and screenshots
+- This section will go over the actual functionality of your product. Depending on the complexity of your product, this section will be the longest part of your product guide. We know it is difficult to point out every single feature of the product, particularly for an application, but please provide as much detail as possible. If your product has different stages or sections, we recommend breaking this section into subsections to cover the different parts of your product (i.e. wizards, different sections of an application, etc). 
 
 ## **Major Issues and Error Messages**
-- Include any screenshots
-- Indicate and include any information and/or screenshots detailing:
-     - NOT being signed in
-     - Being signed into a LOA1 account
-     - Being signed into a LOA3 account
+- Error messages or alerts SPECIFIC to your product are an important tool for contact center representatives trying to triage an issue. Please provide screenshots and descriptions of ALL error or warning messages that are specific to your product. For each of these error messages, please provide the following: 
+     - Screenshot of the error message
+     - Explanation of what might be causing the problem
+     - Suggestions for what might resolve the error message. 
+     - If available, please include any known work arounds.
 
-## **Known Work-Arounds:**
-- Include screenshots to show details of known quick fixes or work-arounds
-- Include instructions
 
-## **Specifics:**
-- If your product is unique or has specific criteria, please include all details as well as screenshots with instructions.  This can    include, but is not limited to:
-     - Application Information
-     - Benefit Eligibility
-     - Sponsor Information
-     - Education History
-     - Personal Information
-     - Direct Deposit
-     - Military History
      
      Below are examples of a well created product guides.
      
