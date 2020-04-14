@@ -43,15 +43,15 @@ We will be walking through how to request access in the steps outlined below.
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
-#### 2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
+#### <a id="authorizekeys">2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
-* Use the issue template `Environment Access Request Template`
-  * Follow the template instructions
-    * Provide the name of your Contracting Officer's Representative (COR)
-    * Provide your name, role and company
+* Use the issue template `Environment Access Request Template`.
+  * Follow the template instructions.
+    * Provide the name of your Contracting Officer's Representative (COR).
+    * Provide your name, role and company.
     * Paste the public portion of your ssh key. The template has an example.
     * Grant AWS Console Access? Yes or No.
-  * Tag group `@department-of-veterans-affairs/vsp-operations` to review
+  * Tag group `@department-of-veterans-affairs/vsp-operations` to review.
   * Monitor the issue for updates and respond to any questions from the operations group.
   * Occasionally operations will need to reach out via Slack for additional information.
 
@@ -67,16 +67,16 @@ We will be walking through how to request access in the steps outlined below.
 
 Jenkins, Grafana, and Sentry have been linked to GitHub for user authentication.
 * The services will not be accessible until the SOCKS proxy is configured and working properly.
-* When logging into these services for the first time click the button `Login with GitHub` or similar
-  * You will be prompted to link your GitHub account and presented with a permissions dialog
-  * Allow the service to access your account and view your Organization membership
+* When logging into these services for the first time click the button `Login with GitHub` or similar.
+  * You will be prompted to link your GitHub account and presented with a permissions dialog.
+  * Allow the service to access your account and view your Organization membership.
 
 #### 8. For AWS Console access
 ##### 8A. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
 ##### 8B. You are required to login and change the temporary password immediately.
-* AWS will prompt you to change your password during first login
+* AWS will prompt you to change your password during the first login.
 * Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
-  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md)
+  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md).
 
 
 ## Tools overview
@@ -89,14 +89,14 @@ With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You ca
 
 With the Socks proxy set up and running, go to http://sentry.vfs.va.gov.
 
-We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/
+VSP uses Sentry teams to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/.
 
 ### Grafana
 With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "GitHub" button on the login page.
 
 There are many dashboards and you should click around to get familiar with the variety of metrics being collected and visualized (make sure Data Source is set to Production). A few highlights are:
 
-- [Site](http://grafana.vfs.va.gov/dashboard/db/site) to see overall metrics about the health of the site
-- [External Service Status](http://grafana.vfs.va.gov/dashboard/db/external-service-status) to see the availability of the services vets.gov depends on.
-- [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics.
-- [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) to see metrics on the reverse proxies.
+- [Site](http://grafana.vfs.va.gov/dashboard/db/site) provides overall metrics about the health of the site.
+- [External Service Status](http://grafana.vfs.va.gov/dashboard/db/external-service-status) allows you to see the availability of the services vets.gov depends on.
+- [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) provides database statistics.
+- [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) provides metrics on the reverse proxies.
