@@ -38,7 +38,7 @@ When we need to give the user some information before they enter a full page Rea
 
 Another possible solution, albeit a more complicated one, is to isolate the area of the unauthenticated page that has content that specifically links to the React app and wrap this content inside a React [widget](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-widget) and then wrap that widget inside some Flipper UI code. This will allow you to access the flipper value throgh redux and change this peice of content for users who are gated from the feature. 
 
-![Flipper example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/launch-playbook/images/Flipper.png)
+<!-- ![Flipper example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/launch-playbook/images/Flipper.png) -->
 
 ## Using Flipper on Drupal (Epic Draft)
 ### Story
