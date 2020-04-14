@@ -28,4 +28,5 @@
 | /disability/get-help-filing-claim/ | https://www.ebenefits.va.gov/ebenefits/vso-search
 | /disability/get-help-filing-claim/ | https://www.ebenefits.va.gov/ebenefits/manage/representative
 | /disability/how-to-file-claim/ (_inside wizard_) | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation
-
+| Claim Status Tool Component | https://www.ebenefits.va.gov/ebenefits-portal/ebenefits.portal
+| Letters Tool Component | https://www.ebenefits.va.gov/ebenefits/download-letters
