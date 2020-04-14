@@ -3,7 +3,7 @@
 **1. Allow for a controllable percentage be guided into the new application from a Drupal page (un/auth page)**  
 Flipper should be able to do this no problem  
 **2. Allow for a known list of email addresses to be allowed through into the new application from a Drupal page (un/auth page)**  
-Pretty sure we can whitelist email addresses, need to confirm though  
+We can whitelist email addresses  
 ## Background
 ### When releasing to production in chunks, do we use Flipper UI or implimentation switches?
 
