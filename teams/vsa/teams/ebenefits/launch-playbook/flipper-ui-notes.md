@@ -57,6 +57,9 @@ Eventually we may want to present the application directly and without authentic
 
 ### Tasks
 - Create a high level thumbnail view of the different potential pathways and highlight where the React components would be located.
+  - Currently, there are two major pathways contemplated for users to get to View Dependents as well as the 686 itself: 
+  1. Sign in and view
+  2. Add or change your dependents
 - Document the procedure and order of events for unwinding any necessary Flipper components after allowing 100% of traffic through.
   - Leave in place to act as a future "valve"? 
   - What is the precedent?
