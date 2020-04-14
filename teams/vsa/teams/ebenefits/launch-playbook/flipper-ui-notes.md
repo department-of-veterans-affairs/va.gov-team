@@ -57,7 +57,14 @@ Eventually we may want to present the application directly and without authentic
 
 ### Tasks
 - Create a high level thumbnail view of the different potential pathways and highlight where the React components would be located.
-  - Currently, there are two major pathways contemplated for users to get to View Dependents as well as the 686 itself: 
+---
+- There are a three potential routes to View Dependents and the 21-686c within VA.gov:
+   - The current Add Dependents landing page: https://www.va.gov/disability/add-remove-dependent/
+   - The Declare Dependents page (broken?) https://www.va.gov/disability/add-remove-dependent/add-dependent-form-21-686c/
+   - The form search tool (if deployed ahead of 686 launch)
+   - Google shows links to PDF versions of the form, and points to other 686 information and resources; no link to the eBenefits version of the 686 was found.
+   - eBenefits requires users to be logged-in to view dependents or to access its implementation of the 686
+- In implementing Flipper, the major pathways contemplated for users to get to View Dependents as well as the 686 itself: 
   1. Sign in and view
     - This will need a flipper component to split traffic between **View Dependents in VA.gov** and the **legacy eBenefits Dependents application**  
     - From the View Dependents page, another flipper component will split traffic to the **new online 686 form** and the **legacy eBenefits Dependents application**  
@@ -70,7 +77,7 @@ Eventually we may want to present the application directly and without authentic
 - React Components to be built  `TODO:`
   - Landing page has an embed of....
   - Flipper configuration considerations `TODO:`
-- Test
+- Review and testing
   - RBPS
   - Stakeholders
   - GA
