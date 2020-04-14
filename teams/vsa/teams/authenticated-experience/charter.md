@@ -18,9 +18,10 @@ We want to work towards a VA authenticated experience that is so easy and so sea
 Our current mission is to create a logged in experience on VA.gov that:
 
 - Differentiates itself from the logged out experience.
-- Consolidates what we know about veterans and their communities and effectively and efficiently reflects this info back to them throughout the site.
+- Elevates what we know about veterans and their communities throughout the site.
+- Consolidates personal/benefit data so that it tells a story and doesn't feel silo'd.
 - Guides veterans and their communities towards tasks and tools they need/want to complete.
-- Serves up status updates/alerts/action items in a way that makes it easy for veterans and their communities to act on this information.
+- Serves up status updates/alerts/action items in a way that makes it easy to act on this information.
 
 ### North star objectives
 
