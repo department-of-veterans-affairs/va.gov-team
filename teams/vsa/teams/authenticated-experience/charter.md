@@ -18,10 +18,10 @@ Authenticated Experience for VA.gov
 * Logged-in navigation
 * Personalized content for logged in users
 
-## Responsibilities
+### Responsibilities
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
-## [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
+### [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
 ## Workflow + Cadence
 
