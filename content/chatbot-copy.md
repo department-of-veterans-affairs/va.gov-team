@@ -100,11 +100,18 @@ If you'd prefer to get information about the coronavirus COVID-19 and VA health 
 
 Please choose the topic that best fits your needs. You can always use the **Start over** button to start again and choose a different topic. <br>
 
-[My current COVID-19 symptoms](Go to 4)
-[Health care, appointments, and prescriptions](Go to 8 > 13) <br>
-[VA's COVID response](Go to 11 > 14) <br>
+[Coronavirus COVID-19 prevention](Go to 34 > 37)
+[COVID-19 testing at VA](Go to 35 > 12)
+[My current COVID-19 symptoms](Go to 43 > 3)
+[Health care, appointments, and prescriptions](Go to 5 > 9) <br>
 [Mental health concerns](Go to 9 > 15) <br>
 [Benefits and claims](Go to 10 > 16)
+
+------
+
+### Coronavirus COVID-19 prevention
+
+
 
 ------
 
@@ -369,6 +376,28 @@ For the latest status of our regional offices and other benefit services, you ca
 Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video.
 
 If you have hearing loss, call TTY: 800-829-4833.
+
+#### 37. If I need to leave my house, how do I stay safe? 
+
+#### 38. What else can I do to protect myself beside washing hands and covering cough and sneezes?
+
+#### 39. Should I wear a mask?
+
+#### 40. When will a vaccine be out?
+
+#### 41. If I get COVID-19, will I have immunity from getting it again?
+
+#### 43. Will my COVID-19 stimulus check lower my VA payments?
+
+#### 44. What if I can't pay my existing VA debt?
+
+#### 45. What if I'm having trouble paying my VA-backed home loan during this time?
+
+#### 45. Will I still have to pay my VA copays during the pandemic?
+
+#### 47. What if I've been diagnosed with COVID-19 and need immediate action on my VA appeal?
+
+#### 48. How do I get help if I'm homeless or at risk of becoming homeless?
 
 ------
 
