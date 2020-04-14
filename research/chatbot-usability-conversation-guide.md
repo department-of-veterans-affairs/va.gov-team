@@ -20,6 +20,8 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 Before we look at the tool, let’s start with a few questions.
+- Have you looked for information about COVID-19?
+ - If so, where have you looked? What type of information have you looked for?
 - Have you visited the VA website?
  - If so, how did you get there (type in, google search, bookmark) and what page did you visit? (local facility, main VA page, myhealthevet)
 - Have you used VA resources for information related to COVID-19?
