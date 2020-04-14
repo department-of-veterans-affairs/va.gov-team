@@ -5,13 +5,21 @@
 |forms/disability benefits/all claims|✔|✘|evss,emis,mvi,vet360|GET `/facilities/suggested/`|
 |forms/disability benefits/2346|✘|✘||GET `/in_progress_forms/MDOT`|
 |forms/disability benefits/526EZ|✘|✘||POST `/v0/disability_compensation_form/submit`,GET `/ppiu/payment_information`,GET `/intent_to_file`,POST `/intent_to_file/compensation`,GET `/disability_compensation_form/submission_status/`,POST `/form526_opt_in`|
+|forms/disability benefits/686c-674|✘|✘|||
+|forms/disability benefits/0993|✘|✘||POST `/v0/education_benefits_claims/0993`|
+|forms/disability benefits/0994|✘|✘||POST `/v0/education_benefits_claims/0994`|
+|forms/disability benefits/1990|✘|✘||POST `/v0/education_benefits_claims/1990`|
+|forms/disability benefits/1990e|✘|✘||POST `/v0/education_benefits_claims/1990e`|
+|forms/disability benefits/1990n|✘|✘||POST `/v0/education_benefits_claims/1990n`|
+|forms/disability benefits/1995|✘|✘||POST `/v0/education_benefits_claims/1995`|
+|forms/disability benefits/5490|✘|✘||POST `/v0/education_benefits_claims/5490`|
+|forms/disability benefits/5495|✘|✘||POST `/v0/education_benefits_claims/5490`|
+|forms/disability benefits/feedback tool|✘|✘||GET `/gi/institutions/search`|
 |forms/caregivers|✘|✘|||
+|forms/hca|✘|[link](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/components/DowntimeMessage.jsx)|es|GET `/health_care_applications/enrollment_status`GET `/notifications/dismissed_statuses/form_10_10ez`PUT `/notifications/dismissed_statuses/form_10_10ez`POST `/notifications/dismissed_statuses`|
 |forms/preneed|✘|✘||POST `/v0/preneeds/burial_forms`, GET `/v0/preneeds/cemeteries`|
 |forms/veteran representative|✘|✘||POST `/v0/vso_appointments`|
-||✔|✘|||
-||✔|✘|||
-||✔|✘|||
-||✔|✘|||
+|forms/pensions|✔|✘|icmhs|GET `/v0/pension_claims/[GUID]`,POST `/v0/pension_claims`|
 | post 911 gib status|✔| [link](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/post-911-gib-status/utils/helpers.jsx#L158-L168)|evss|GET `/backend_statuses/gibs`, GET `/post911_gi_bill_status`|
 |public outreach materials|✘|✘||
 |search|✔|✘|search|GET `/search`|
