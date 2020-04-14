@@ -18,4 +18,4 @@
 |**Direct deposit for comp & pen**|Removal of direct deposit from eBenefits| — | — | — | — |
 |**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
 |**Profile 2.0**|Design; technical discovery| User testing; build; QA; pre-launch | Launch | — | — |
-|**Logged-in homepage**|Begin discovery| Complete discovery; design; technical discovery | Design; build; user testing and additional user research | QA; pre-launch | Launch |
+|**Logged-in homepage**|Begin discovery| Complete design discovery; start technical discovery; start design | Finish design; build; user testing and additional user research | QA; pre-launch | Launch |
