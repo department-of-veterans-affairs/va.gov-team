@@ -59,9 +59,10 @@ As a compromise, we proposed placing the ELB & EC2 instances inside the `vetsgov
 
 ![image](https://user-images.githubusercontent.com/3077884/78701455-1130cf00-78d5-11ea-90ee-dfb30691abed.png)
 
-Related PR's to create infra:
+Related PR's:
 - https://github.com/department-of-veterans-affairs/devops/pull/6685
 - https://github.com/department-of-veterans-affairs/devops/pull/6675
+- https://github.com/department-of-veterans-affairs/devops/pull/6608
 
 ## Conclusion
 - the “temporary” side deployment of Sentry 10 in the vetsgov-utility VPC is… “meh”
