@@ -21,11 +21,8 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of sprints:** 2   
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
-[Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
-
 🌀 = Collaboration Cycle  
 ⏳ = May be more time intensive than anticipated  
-
 
 ## Events  
 ### Sprint 19 (T-28)  
@@ -80,4 +77,5 @@ _May 20 - June 2_
 - Optimization/ongoing bug fixes
 - 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
 
-
+## Other Tools and Resources
+- [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
