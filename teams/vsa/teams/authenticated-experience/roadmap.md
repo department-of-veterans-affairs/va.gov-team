@@ -16,7 +16,7 @@
 |Project|Q1 2020|Q2 2020|Q3 2020|Q4 2020|Q1 2021|
 |----|----|----|----|----|----|
 |**Logged in hompage**|Removal of direct deposit from eBenefits| — | — | — | — |
-|**Address validation**|QA; pre-launch checklist;launch| 508 review; post-launch updates; monitoring | — | — | — |
+|**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
 |**Profile 2.0**|Design; technical discovery| User testing; build; QA; pre-launch | Launch | — | — |
 |**Logged-in homepage**|Begin discovery| Complete discovery; design; technical discovery | Design; build; user testing and additional user research | QA; pre-launch | Launch |
 
