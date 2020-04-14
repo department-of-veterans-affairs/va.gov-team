@@ -29,6 +29,12 @@
 - Reduce touchpoints that veterans need.
 - Show veterans and their communities everything we know about them in one place.
 
+- Create a usable/scalable logged-in homepage.
+- Create a usable/scalable veteran profile.
+- Create a logged-in navigation that focuses on getting users to tools.
+- Establish a foundation for notifications on VA.gov.
+- Create pages that can eventually be adapted to other user roles and permissions once VA.gov is able to support them.
+
 ## Questions 
 
 ## Assumptions 
