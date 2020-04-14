@@ -225,21 +225,29 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 
 #### 23. What should I do if I need to refill my prescription?
 
-First, please request refills as soon as possible so we can process your request and send your refill before you're scheduled to run out of your current prescription.
+Please request refills as soon as possible, but no later than 10 days before you run out of your current prescription.
 
-##### If you currently get your prescription sent to you by mail
-You’ll continue to receive your refills as normal. 
+**Note:** If you currently get your prescription sent to you by mail, you’ll continue to receive your refill requests as normal. 
 
-#### If you usually pick up your prescription in person or order them online
+##### To request a refill
 
-**You must actively request a refill in one of these ways:** 
+**You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
-- **Through our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line. Be sure to have your RX number from the prescription label and Social Security number ready. For prescriptions that are no longer refillable, you may be able to request to have more medication sent to you. For some medications, your health care team may contact you first.
+- **Through your mobile device** with our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
+- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line. Be sure to have your RX number from the prescription label and Social Security number ready. 
 - **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
-##### If you have questions about your prescriptions
-If you need a prescription renewed that's no longer refillable, or if you have other questions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center. 
+##### If you've run out of refills on your prescription
+
+**You can request a prescription renewal in one of these ways:**
+- Try calling your VA pharmacy's automated refill line. For some medications, your health care team may need to contact you before you can get more medication.
+- Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet. 
+- Call your local VA medical center. <br> 
+[Find a VA location](https://www.va.gov/find-locations/)
+
+##### If your prescription renewal requires an in-person evaluation
+
+We’re temporarily allowing evaluations through telehealth (phone or video) appointments. To request a telehealth appointment, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
 #### 24. Can I use emergency care?
 
