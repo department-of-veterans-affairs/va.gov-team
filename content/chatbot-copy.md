@@ -33,15 +33,64 @@ The Centers for Disease Control and Prevention (CDC) designed this tool to help 
 
 **[IF user receives CDC "Call 911 - You may be having a medical emergency." message]**
 
+**Remember:** For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
+
 **[IF user receives CDC "Urgent medical attention may be needed. Please go to the Emergency Department" message]**
 
-**[IF user receives CDC "Contact a healthcare provider in the long-term care facility where you live" message]
+[Find your nearest VA health facility with emergency care](https://www.va.gov/find-locations/)
+
+**Remember:** For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
+
+**[IF user receives CDC "Contact a healthcare provider in the long-term care facility where you live" message]**
+
+If you have non-urgent questions, you can [send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
+
+We're taking many precautions to help protect Veterans in our VA nursing homes. This include limiting outside visitors. <br>[Learn more about steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
+
+**[IF user receives CDC "Stay home and take care of yourself in home isolation. Call a medical provider within 24 hours" message]
+
+**To contact your VA provider or request a telehealth visit by phone or video, you can:**
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
+- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+
+**If you decide to go to a VA facility for urgent care**
+
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
+
+**{IF user receives CDC "Stay home and take care of yourself. Call your provider if you get worse" message]**
+
+**If you have questions for your VA provider, or would like to request a telehealth visit by phone or video, you can:**
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
+- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+
+**If you think you need urgent care (within 24 to 48 hours)**
+
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
 
 **[IF user receives CDC "Sounds like you are feeling ok" message]**
 
+If you have more questions about your symptoms, we're here to help.
+
+**To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
+
+- **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
+- **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
+
+If you'd like to talk to someone about your general COVID-19 questions, you can call MyVA311 at 844-698-2311.
+
 **[IF user receives CDC "Pease make a selection so I can help give you care advice" message]**
 
+If you'd prefer to get information about the coronavirus COVID-19 and VA health care, benefits, and services, you can start over and choose another topic.
 
+[Start over]
 
 ------
 
@@ -115,7 +164,7 @@ Please choose the question that best fits your needs. You can always ask another
 
 ##### For scheduled procedures
 
-**If you have a non-urgent elective procedure scheduled,** we may contact you to cancel or reschedule for a later date. Urgent and emergency procedues will continue as scheduled.
+**If you have a non-urgent elective procedure scheduled,** we may contact you to cancel or reschedule for a later date. Urgent and emergency procedures will continue as scheduled.
 
 ##### For routine scheduled appointments
 
@@ -246,9 +295,9 @@ Call your nearest VA medical center or Vet Center to talk about your needs.<br>
 
 **If you're not sure what kind of help you need**
 
-Call us at 877-222-8387 to find the right resources for your needs. If you have hearing loss, call TTY 800-877-8339.
+Call us at 877-222-8387 to find the right resources for your needs. We’re here Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
 
-We’re here Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+If you have hearing loss, call TTY 800-877-8339.
 
 [Learn more about getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
 
