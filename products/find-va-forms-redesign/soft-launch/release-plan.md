@@ -6,6 +6,12 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 
 That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.-->
 
+## WIP Plan
+- A phased rollout that tracks the following [tentative] dimensions: 
+  - there's parity between the most often searched forms on `/vaforms` and the new Find VA Forms based solely on organic traffic to the new search experience
+    - i.e. we haven't redirected a percentage of users going to the new search from the legacy search? we haven't updated Top Recommendations on the on-site search? we're not preventing discoverability?
+  - If we've hit parity withthe legacy search, we can go after inorganic traffic
+
 ---
 Analytics:
 [Baseline `\vaforms` Pageviews](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p176188361/_u.date00=20200301&_u.date01=20200331&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fvaforms~2Fsearch_action.asp%3FFormNo=%22,0%5D%5D&explorer-table.rowStart=0&explorer-table.rowCount=100/)
@@ -38,9 +44,9 @@ Analytics:
 - Desired date range: 04/20/2020 - 04/23/2020
 - Desired number of unique users: 150
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
-  - Not implementing any redirects or on-site search Top Recommendations
+  - Live in production no longer behind auth, but we won't implement any redirects or on-site search Top Recommendations
 - "Success" criteria (by the numbers): 
-  - [use your KPIs to help guide this. It could be things like abandomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+  - TBD % PDF downloads / top searches e.g. % downloads / searches for 21-526ez
 
 ### Results:
 - Number of unique users: x
