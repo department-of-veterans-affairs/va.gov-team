@@ -25,14 +25,13 @@
 
 ## Business goals 
 
-- Increase use of self-service tools on VA.gov.
-- Reduce touchpoints that veterans need.
-- Show veterans and their communities everything we know about them in one place.
-- Create a usable/scalable logged-in homepage.
-- Create a usable/scalable veteran profile.
-- Create a logged-in navigation that focuses on getting users to tools.
+- Create a logged-in experience that makes it easier to find tools and complete tasks.
+- Personalize the logged-in experience across pages by elevating contextually-relevant veteran information.
+- Create a usable/scalable landing pad for users (ie. logged-in homepage/dashboard) where they can manage their tools/tasks in once place.
+- Make it easier to see and manage personal/contact information.
 - Establish a foundation for notifications on VA.gov.
-- Create pages that can eventually be adapted to other user roles and permissions once VA.gov is able to support them.
+- Create a logged-in experience that can eventually be adapted to other user roles and permissions once VA.gov is able to support them.
+- Help veterans explore benefits in which they are interested and may qualify. 
 
 ## Questions 
 
