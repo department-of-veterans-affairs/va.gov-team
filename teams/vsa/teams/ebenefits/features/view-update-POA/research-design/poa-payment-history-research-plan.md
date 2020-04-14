@@ -189,5 +189,5 @@ April 21-24, from 9:00 AM to 3:00 PM
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
-_This plan needs approval from Lauren Alexanderson_
+Reviewed and approved by Lauren Alexanderson on 04/14/2020
  
