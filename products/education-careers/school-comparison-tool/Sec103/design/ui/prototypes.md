@@ -1,6 +1,8 @@
 ## InVision GIBCT PL 115-407 "Section 103" Prototypes Apr 2020:
 
-GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view. The following enhancements are designed to provide an indicator in the Comparison Tool to increase awareness for Veterans of the institutions that comply with Sec. 103. 
+GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.   
+
+The following enhancements are designed to provide an indicator in the Comparison Tool to increase awareness for Veterans of the institutions that comply with Sec. 103. 
 
 [GIBCT PL 115-407 Section 103 v0.2 for Usability Testing - (Work in Progress)]() 
 [GIBCT PL 115-407 Section 103 v0.2](https://bahdigital.invisionapp.com/share/7RIADHXPZFD)  
