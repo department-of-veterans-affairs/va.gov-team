@@ -9,6 +9,7 @@ The following enhancements are designed to provide an indicator in the Compariso
 [GIBCT PL 115-407 Section 103 v0.1](https://bahdigital.invisionapp.com/share/7NIADE8GMJ2)      
 [GIBCT PL 115-407 Section 103 v0.0](https://bahdigital.invisionapp.com/share/X8IADF2EVR6)    
 
+*Sec. 103 v0.0 screens:*  
 <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/design/ui/images/Profile%20-University%20of%20California-Davis.png" width="320"></kbd> 
  
 <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/Sec103/design/ui/images/Profile%20-University%20of%20California-Davis%20-%20Sec%20103%20Modal%202.png" width="320"></kbd> 
