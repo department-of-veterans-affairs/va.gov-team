@@ -4,7 +4,7 @@ The Program Manager (Product Manager) must submit a completed PTA to the VSP ATO
 
 ## Completion Steps 
 
-1.	All questions on the [PTA template](PTA_Template.md) must be completely filled out.
+1.	All questions on the [PTA template](pta-template.md) must be completely filled out.
 
 2.	Once completed, please notify the VSP ATO Specialist about the completed PTA template for further review.
 
