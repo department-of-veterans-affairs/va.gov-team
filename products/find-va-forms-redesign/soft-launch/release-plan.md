@@ -7,8 +7,9 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.-->
 
 ---
-Baseline analytics:
-`/vaforms` : [Pageviews](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p176188361/_u.date00=20200301&_u.date01=20200331&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fvaforms~2Fsearch_action.asp%3FFormNo=%22,0%5D%5D&explorer-table.rowStart=0&explorer-table.rowCount=100/)
+Analytics:
+[Baseline `\vaforms` Pageviews](https://analytics.google.com/analytics/web/?authuser=1#/report/content-pages/a50123418w177519031p176188361/_u.date00=20200301&_u.date01=20200331&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22~2Fvaforms~2Fsearch_action.asp%3FFormNo=%22,0%5D%5D&explorer-table.rowStart=0&explorer-table.rowCount=100/)
+[`/find-forms` Landing Page behavior](https://analytics.google.com/analytics/web/?authuser=1#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20200301&_u.date01=20200413&explorer-table.filter=~2Ffind-forms&explorer-table.plotKeys=%5B%5D&_.gSectionId=summary&_r.tabId=explorer/)
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
