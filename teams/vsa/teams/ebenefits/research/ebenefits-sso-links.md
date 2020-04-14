@@ -1,11 +1,10 @@
 # Links to EBN where user state should be preserved
 
-| Page | Link
+| VA.gov Page | Link
 | ---- | ----
 | /health-care/eligibility/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative
 | /health-care/order-hearing-aid-batteries-prosthetic-socks/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=hearing-aid-batteries-and-prosthetic-socks
 | /view-your-va-payment-history/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
-| /change-your-va-direct-deposit-and-contact-information/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
 | /health-care/pay-copay-bill/dispute-charges/ | https://www.ebenefits.va.gov/ebenefits/vso-search
 | /change-direct-deposit/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
 | /va-payment-history/ | https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
