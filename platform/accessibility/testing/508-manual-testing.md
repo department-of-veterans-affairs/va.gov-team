@@ -5,6 +5,8 @@ Automated testing cannot, and will not, have a human tester's subjectivity. Many
 
 ## Current Testing
 
+### Web Applications
+
 * Run [axe checks](https://deque.com/axe) on every page or unique state (required)
 * Run [axe-coconut](https://www.deque.com/axe/axe-for-web/early-release/) on every page. Coconut is a leading-edge tool, and identifies more WCAG2.1 success criteria that will eventually become the law of the land.
 * Run [WAVE](https://wave.webaim.org/) on every page if time allows. WAVE is more visual than axe or axe-coconut, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
@@ -18,17 +20,26 @@ Automated testing cannot, and will not, have a human tester's subjectivity. Many
   * NVDA + Firefox
   * Safari + VoiceOver
   * iOS Safari + VoiceOver
-* Document checking
+
+### Documents (PDF, Word, etc.)
   * Accessibility checks using Acrobat Pro
   * Review with one or more screen readers
+
+### General Responsibilities
 * Write issue tickets for findings
-* Write code to fix tickets
-* Review code in pull request reviews
-* Help teams QA and close issue tickets
+* Consult on code to fix tickets
+* Review pull requests for accessibility fixes
+* Help teams QA and close tickets
 * Research new tools and interfaces
 
-## WCAG 2.1 and Future
+## WCAG 2.1 and Future Testing
+WCAG 2.1 offers [17 new success criteria](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/) that are likely to be included in Section 508 requirements in the future. Many of these new success criteria are focused on typography, cognition (understanding), and usability. They will require additional time in manual testing. 
 
-* High-contast mode checking, inverse mode checking
+* Windows [high-contast mode](https://support.microsoft.com/en-us/help/13862/windows-10-use-high-contrast-mode)
+* [Inverse or "dark" mode](https://css-tricks.com/dark-modes-with-css/) testing
 * Mobile-first usability
-* Typography
+* WCAG 2.1 Typography
+  * [SC 1.3.4 Orientation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#134-orientation-aa)
+  * [1.4.10 Reflow](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1410-reflow-aa)
+  * [1.4.11 Non-text Contrast](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1411-non-text-contrast-aa)
+  * [1.4.12 Text Spacing](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1412-text-spacing-aa)
