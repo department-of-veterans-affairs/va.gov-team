@@ -8,7 +8,7 @@
 
 **Cautionary warnings and school closings**
 
-Caution flags displayed on an institution record indicate VA, or another federal agency like the Department of Education or Department of Defense, has applied increased regulatory or legal scrutiny to that program. We recommend potential students consider these cautionary warnings before enrolling in the program.
+Caution flags indicate VA or another federal agency has increased regulatory or legal scrutiny to that institution's program. We recommend potential students consider these warnings before enrolling in the program.
 
 When VA receives notice that a school or campus location will be closing, we add a school closing flag to that institution's profile. Once a school's closing date passes, we update the flag to reflect the closure and remove the institution from the Comparison Tool during the next system update. 
 
