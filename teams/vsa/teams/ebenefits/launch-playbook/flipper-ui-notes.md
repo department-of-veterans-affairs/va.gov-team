@@ -55,7 +55,7 @@ Eventually we may want to present the application directly and without authentic
 - Limit entrance pathways?
 - Simply not allow direct/unauthenticated access until more UAT is complete?
 
-### Pilot Tasks
+### Tasks
 - Create a high level thumbnail view of the different potential pathways and highlight where the React components would be located.
 - Document the procedure and order of events for unwinding any necessary Flipper components after allowing 100% of traffic through.
   - Leave in place to act as a future "valve"? 
