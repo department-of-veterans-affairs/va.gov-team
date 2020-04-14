@@ -173,7 +173,7 @@ April 21-24, from 9:00 AM to 3:00 PM
 
 - [Add/Remove Dependents Walkthrough/Workflows]
 
-- [Session Notes]() (Available after research sessions.)
+- [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes)
 
 - [Topline Summary]()
 
