@@ -6,7 +6,7 @@
 
 ### Vision
 
-We want to work towards a VA authenticated experience that is so easy and so seamless that it feels like a top-notch private sector platform. We want to meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
+We want to work towards a VA authenticated experience that is so easy and so seamless that it feels like a world-class private sector service. We want to meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
 
 - The service member to veteran transition between DoD and VA is so seamless that it goes unnoticed.
 - Veterans and their communities can apply for/enroll in benefits with one click.
