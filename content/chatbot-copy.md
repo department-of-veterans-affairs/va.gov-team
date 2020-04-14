@@ -10,8 +10,8 @@ You can use this tool to quickly get answers to your questions about the coronav
 - Trouble breathing
 - Persistent (continuing) pain or pressure in the chest
 - Bluish lips or face
-- New confusion (suddenly feeling confused)
-- Inability to arouse (trouble waking up or staying awake)
+- Suddenly feeling or acting confused
+- Trouble waking up or staying awake
 
 ------
 
@@ -23,7 +23,7 @@ You can use this tool to quickly get answers to your questions about the coronav
 
 ##### Visit the CDC Coronavirus Self-Checker tool
 
-The Centers for Disease Control and Prevention (CDC) designed this tool to help you make decisions about seeking appropriate medical care.
+The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care.
 
 [Go to CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) <br>
 
@@ -69,7 +69,7 @@ Please choose the question that best fits your needs. You can always ask another
 
 [add questions based on decision tree/message bank]
 
-[start over button]
+[Start over button]
 
 ### 11. > 14. VA's COVID-19 response, What question can we answer for you first?
 
@@ -81,7 +81,7 @@ Please choose the question that best fits your needs. You can always ask another
 
 [add questions based on decision tree/message bank]
 
-[start over button]
+[Start over button]
 
 ### 9. > 15. Mental health concerns, What question can we answer for you first?
 
@@ -93,7 +93,7 @@ Please choose the question that best fits your needs. You can always ask another
 
 [add questions based on decision tree/message bank]
 
-[start over button]
+[Start over button]
 
 ### 10. > 16. Benefits and claims, What question can we answer for you first?
 
@@ -105,7 +105,7 @@ Please choose the question that best fits your needs. You can always ask another
 
 [add questions based on decision tree/message bank]
 
-[start over button]
+[Start over button]
 
 ------
 
@@ -115,20 +115,17 @@ Please choose the question that best fits your needs. You can always ask another
 
 ##### For scheduled procedures
 
-**If you have a non-urgent elective procedure scheduled,** we may contact you to cancel or reschedule for a later date. Urgent and emergent procedues will continue as scheduled.
+**If you have a non-urgent elective procedure scheduled,** we may contact you to cancel or reschedule for a later date. Urgent and emergency procedues will continue as scheduled.
 
 ##### For routine scheduled appointments
 
 We recommend using telehealth to visit your provider by phone or video. You can also cancel or reschedule your appointment.
 
-**To change your appointment to a telehealth visit, sign in online to:**
+**To change your appointment to a telehealth visit, sign in to:**
 - [Send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet, **or**
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Request to change to a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
 
 Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). 
-
-_COMMENTS ON THIS SECTION:_
-1. I'm checking on the telehealth appointment online tool because the actual tool page has a note saying we don't want routine appointment requests right now due to high volume with covid.
 
 #### 17. Can I be tested for coronavirus COVID-19 at VA?
 
@@ -137,7 +134,7 @@ _COMMENTS ON THIS SECTION:_
 - Other existing illnesses or conditions
 - Possible exposure
 
-We're currently testing Veterans who meet the CDC's criteria. 
+We're currently testing Veterans who meet the [CDC's criteria](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). 
 
 #### 18. What should I do if I have a community care appointment?
 
@@ -163,7 +160,7 @@ Sign in to your VA.gov account to [reschedule or cancel your appointment online]
 
 #### 21. Can I get a referral to see a community care provider if I can't be seen at VA?
 
-This depends on your needs. We’re continuing to make community care referrals. But we’re prioritizing referrals for urgent or other medically necessary care. And some community care providers' hours or services may be affected CDC and local health department guidelines.
+This depends on your needs. We’re continuing to make community care referrals. But we’re prioritizing referrals for urgent or other medically necessary care. And some community care providers' hours or services may be affected by CDC and local health department guidelines.
 
 **Please remember:** You need VA approval for all community care appointments, except for emergency and urgent care needs. Getting a referral depends on eligibility, type of care, and other factors. At this time, community care eligibility requirements haven't changed. <br>
 [Learn about eligibility for community care](https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp)
@@ -172,25 +169,25 @@ This depends on your needs. We’re continuing to make community care referrals.
 
 We apologize if you can't get through or are on hold for a long time. We’re currently receiving a very high number of calls, and we're working hard to handle the increase. 
 
-**To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent concerns. You can:**
+**To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
 
-- [Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) about any health concern or question.
-- [Try our health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is part of the pilot.
+- **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
+- **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
 #### 23. What should I do if I need to refill my prescription?
 
-First, please request refills as soon as possible. We'll process your request and send your refill before you're scheduled to run out of your current prescription.
+First, please request refills as soon as possible so we can process your request and send your refill before you're scheduled to run out of your current prescription.
 
 ##### If you currently get your prescription sent to you by mail
 You’ll continue to receive your refills as normal. 
 
-#### If you usually pick up your prescription in person or online
+#### If you usually pick up your prescription in person or order them online
 
 **You must actively request a refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
 - **Through our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line. Be sure to have your RX number from the prescription label and Social Security number ready. For many prescriptions that are no longer refillable, you can request to have more medication sent to you. For some medications, your health care team may contact you first.
-- **By mail.** Complete the prescription refill form that came with each medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
+- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line. Be sure to have your RX number from the prescription label and Social Security number ready. For prescriptions that are no longer refillable, you may be able to request to have more medication sent to you. For some medications, your health care team may contact you first.
+- **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
 ##### If you have questions about your prescriptions
 If you need a prescription renewed that's no longer refillable, or if you have other questions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center. 
@@ -201,7 +198,7 @@ If you need a prescription renewed that's no longer refillable, or if you have o
 
 Call 911 or go to your nearest ER. For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
 
-**Symtoms that may require emergency care include:**
+**Symptoms that may require emergency care include:**
 - Chest pain
 - Numbness or tingling in your arms or on one side of your body
 - Severe fever or violent vomiting
@@ -209,7 +206,9 @@ Call 911 or go to your nearest ER. For emergencies, you don’t need a referral 
 
 ##### If you have an urgent care need
 
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. By not using the ER for nonmedical emergencies, you can help us protect you, other patients, and our staff. And you can help us address critical medical needs first during this period of COVID-19 outbreak. 
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. 
+
+Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
 
 **Symptoms that may require urgent care (within 24 to 48 hours) include:**
 - Sore throat, earache
@@ -236,16 +235,25 @@ Many people feel stress about COVID-19. These steps may help:
 
 #### 27. How can I ask for a new mental health appointment?
 
-If you need same-day mental health care—or want to request a new appointment—call your local VA health facility.<br>
-**[Find a VA location](https://www.va.gov/find-locations)**
+**If you’re already using VA medical services**
+[Send a secure message to your primary care provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to help you make an appointment with a VA mental health provider.
+
+**If you’re not already using VA medical services or need same-day mental health care**
+Call your nearest VA medical center or Vet Center to talk about your needs.<br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+**If you're not sure what kind of help you need**
+Call us at 877-222-8387 to find the right resources for your needs. If you have hearing loss, call TTY: 800-877-8339.
+
+We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 
 #### 28. Can I visit a patient at a VA facility?
 
 ##### For VA nursing homes, and spinal cord and disorder centers
 
-At this time, you can't visit a resident in a VA nursing home or spinal cord injury and disorder center, unless they qualify as a "compassionate case." This means the Veteran is in their last stage of life in a hospice unit and you can visit that Veteran’s room only. 
+At this time, you can't visit a resident in a VA nursing home or spinal cord injury and disorder center, unless they qualify as a "compassionate case." This means the Veteran is in their last stage of life in a hospice unit and you can only visit that Veteran’s room. 
 
-We understand this is difficult for families, but we're doing it to protect the most vulnerable patients from community spread of the coronavirus COVID-19. Learn about the [steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
+We know this is difficult for families, but we're taking these precautions to protect the most vulnerable patients from community spread of the coronavirus COVID-19. Learn about the [steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
 
 ##### For other VA health facilities
 
@@ -293,7 +301,7 @@ For the latest status of our regional offices and other benefit services, you ca
 
 #### 33. How can I contact my local regional office? 
 
-Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video. 
+Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video. 
 
 ------
 
@@ -327,7 +335,7 @@ benefits and claims
 
 ## 36. No
 
-Thank you for using our coronavirus virtual assistant. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+Thank you for using our coronavirus virtual assistant tool. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
 
 _COMMENTS ON THIS SECTION_
 
@@ -341,59 +349,117 @@ Not sure if we need a final message, but adding here in case.
 
 [for health care, appointments, and prescriptions]
 
-**For general questions about the coronavirus COVID-19**
+Here are the best ways to talk with someone about your specific health care needs.
+
+**General coronavirus COVID-19 questions**
 Call MyVA311 at 844-698-2311.
 
-**For VA health care appointments**
+**VA health care appointments**
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-**For local VA health facility hours, services, and safety measures** 
-Check your facility's website for the latest updates. <br>
+**Local VA health facility hours, services, and safety measures** 
+Check your facility's website for the latest updates and contact information. <br>
 [Find a VA location](https://www.va.gov/find-locations)
 
-**For technical questions about My HealtheVet**
+**Mental health resources**
+Call our health benefits hotline at 877-222-8387, Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+
+**Debt management information related to VA health care**
+Call our Health Resource Center at 888-827-4817.
+
+**Technical questions about My HealtheVet**
 Contact the My HealtheVet help desk at 877-327-0022.
 
-##### Benefits and claims
+[VA's COVID-19 response]
 
-**VA claim or appeal status**
-[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+Here are the best ways to talk with someone about your specific COVID-19 needs.
 
-**Benefit payments**
-[View your benefit payments online](https://www.va.gov/va-payment-history/)
+**General coronavirus COVID-19 questions**
+Call MyVA311 at 844-698-2311.
 
-**Video appointment requests related to benefit claims or services**
-Call our VA call center at 800-827-1000, Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+**VA health care appointments**
+[Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+
+**Local VA health facility hours, services, and safety measures** 
+Check your facility's website for the latest updates and contact information. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+**Appointments for VA benefits and services**
+
+Call our VA call center at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
-Call the VA Debt Management Center at 800-827-0648, Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 
-**Education benefits**
-Contact the Education Call Center toll-free at 888-442-4551, Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+**Education benefit questions**
+Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET.
 
-[Or use our online customer service center](https://iris.custhelp.va.gov/)
- 
-_need to add mental health services_
+[Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
+[mental health resources]
+
+Here are the best ways to talk with someone about your specific mental health needs.
+
+**To schedule an appointment**
+
+[Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+
+Or call our health benefits hotline at 877-222-8387, Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+
+**To talk to someone anytime, day or night**
+
+Call 877-927-8387 to talk with a fellow combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
+
+**To get help now if you or a Veteran you care about is in crisis**
+
+Contact our Veterans Crisis Line 24/7 by phone, text, or chat:
+- Call 800-273-8255 and select 1
+- Text 838255
+- Start a confidential chat
+
+If you have hearing loss, call TTY 800-799-4889.
+
+[benefits and claims]
+
+Here are the best ways to talk with someone about your specific benefit and claim related needs.
+
+**Benefit payment or claim status information**
+
+[View your benefit payments online](https://www.va.gov/va-payment-history/) <br>
+
+[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+
+**Appointments for VA benefits and services**
+
+Call our VA call center at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+
+**Debt related to VA benefits**
+Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
+
+**Education benefit questions**
+Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET.
+
+[Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
 ------
 
 ## 36. Back to top
 
-[to add]
+_COMMENT_
+Not 100% sure of functionality here. Could be "Back to top of chat" or "Start over," depending on how it will work.
 
 ------
 
 ## Error message for when user clicks on an option that no longer 
 
-We're sorry. That's not a valid option.
+We're sorry. That's not a valid option. Please choose another option. 
 
 **What would you like to do next?**
 - [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)
 - [Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)
 - [Request an appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/)
 - [Check your local VA health facility website](https://www.va.gov/find-locations/)
-- [Start over to ask another question](start over)
+- [Start over to ask another question](Start over)
 
 
 
