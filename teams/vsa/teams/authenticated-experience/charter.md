@@ -1,4 +1,4 @@
-# Authenticated Experience Team Charter
+# Authenticated experience team charter
 
 **Updated April 2020**
 
