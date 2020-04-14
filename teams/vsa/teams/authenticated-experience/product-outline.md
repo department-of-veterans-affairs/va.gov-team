@@ -1,5 +1,7 @@
 # Authenticated experience product outline 
 
+**Updated April 2020**
+
 ### Table of contents
 - [Vision](#vision)
 - [Mission](#mission)
