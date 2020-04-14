@@ -182,14 +182,14 @@ Yes. If you’re currently receiving GI Bill benefits, payments will continue au
 
 We’re working closely with schools to ensure enrollments are accurately certified and processed.
 
-If you have specific questions, you can contact the Education Call Center toll-free at [888-442-4551](tel:8884424551), Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+If you have specific questions, you can contact the Education Call Center toll-free at [888-442-4551](tel:+18884424551), Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
 `,
 
 /* 31. Are VA regional offices closed? */
 regional_office_closure: `
 Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits, following current CDC guidelines to prevent community spread. But we can still support you with educational counseling, claims information, and other services by phone or approved video conferencing tools.
 
-**To get help or request a video appointment,** call us at [800-827-1000](tel:8008271000). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+**To get help or request a video appointment,** call us at [800-827-1000](tel:+18008271000). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 **To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
@@ -201,7 +201,7 @@ stay_updated_closures: `
 For the latest status of our regional offices and other benefit services, you can:
 
 - Visit the [Veterans Benefits Administration (VBA) news page](https://www.benefits.va.gov/benefits/news.asp).
-- Call the benefits hotline toll-free at [800-827-1000](tel:8008271000).
+- Call the benefits hotline toll-free at [800-827-1000](tel:+18008271000).
 - Follow us on social media.
   - [VBA Facebook](https://www.facebook.com/VeteransBenefits)
   - VBA Twitter: [@VAVetBenefits](https://twitter.com/VAVetBenefits)
@@ -209,13 +209,13 @@ For the latest status of our regional offices and other benefit services, you ca
 
 /* 33. How can I contact my local regional office? */
 contact_regional_office: `
-Call us toll-free at [800-827-1000](tel:8008271000), 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video.
+Call us toll-free at [800-827-1000](tel:+18008271000), 8:00 a.m. to 9:00 p.m. ET. Our regional office staff are still providing benefits help by phone and video.
 `,
 
 /* 38. Connect with call center */
 contact_info: `
 **For general questions about the coronavirus COVID-19**
-Call MyVA311 at [844-698-2311](tel:8446982311).
+Call MyVA311 at [844-698-2311](tel:+18446982311).
 
 **For VA health care appointments**
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
@@ -226,7 +226,7 @@ Check your facility's website for the latest updates.
 [Find a VA location](https://www.va.gov/find-locations)
 
 **For technical questions about My HealtheVet**
-Contact the My HealtheVet help desk at [877-327-0022](tel:8773270022).
+Contact the My HealtheVet help desk at [877-327-0022](tel:+18773270022).
 
 ##### Benefits and claims
 
@@ -237,13 +237,13 @@ Contact the My HealtheVet help desk at [877-327-0022](tel:8773270022).
 [View your benefit payments online](https://www.va.gov/va-payment-history/)
 
 **Video appointment requests related to benefit claims or services**
-Call our VA call center at [800-827-1000](8008271000), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+Call our VA call center at [800-827-1000](tel:+18008271000), Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
-Call the VA Debt Management Center at [800-827-0648](8008270648), Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+Call the VA Debt Management Center at [800-827-0648](tel:+18008270648), Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
 
 **Education benefits**
-Contact the Education Call Center toll-free at [888-442-4551](8008270648), Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
+Contact the Education Call Center toll-free at [888-442-4551](tel:+18008270648), Monday through Friday, 8:00 a.m. to 7:00 p.m. ET.
 
 [Or use our online customer service center](https://iris.custhelp.va.gov/)
 `
