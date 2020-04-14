@@ -1,6 +1,17 @@
 |App|Standard Message|Nonstandard Message|Dependencies|vets-api Endpoints|
 |---|---|---|---|---|
 |find forms|✘|✘|| GET `/forms`|
+|forms/burials|✔|✘|icmhs|GET `/burial_claims/[GUID]`, POST `/burial_claims`|
+|forms/disability benefits/all claims|✔|✘|evss,emis,mvi,vet360|GET `/facilities/suggested/`|
+|forms/disability benefits/2346|✘|✘||GET `/in_progress_forms/MDOT`|
+|forms/disability benefits/526EZ|✘|✘||POST `/v0/disability_compensation_form/submit`,GET `/ppiu/payment_information`,GET `/intent_to_file`,POST `/intent_to_file/compensation`,GET `/disability_compensation_form/submission_status/`,POST `/form526_opt_in`|
+|forms/caregivers|✘|✘|||
+|forms/preneed|✘|✘||POST `/v0/preneeds/burial_forms`, GET `/v0/preneeds/cemeteries`|
+|forms/veteran representative|✘|✘||POST `/v0/vso_appointments`|
+||✔|✘|||
+||✔|✘|||
+||✔|✘|||
+||✔|✘|||
 | post 911 gib status|✔| [link](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/post-911-gib-status/utils/helpers.jsx#L158-L168)|evss|GET `/backend_statuses/gibs`, GET `/post911_gi_bill_status`|
 |public outreach materials|✘|✘||
 |search|✔|✘|search|GET `/search`|
@@ -8,52 +19,20 @@
 |terms and conditions|✘|✘||GET `/terms_and_conditions/[TERMS_NAME]/versions/latest`,GET `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`,POST `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`|
 |validate mhv account|✘|✘|||
 |vaos|✘|[link](https://github.com/department-of-veterans-affairs/vets-website/blob/7ff9874b2da7eef36997a9033ee96c043c5a915f/src/applications/vaos/components/NoRegistrationMessage.jsx#L6-L29)|mvi, vaos|GET `/vaos/appointments`,GET `/vaos/appointment_requests`,GET `/vaos/appointment_requests/[REQUEST_ID]/messages`,GET `/vaos/facilities`,GET `/vaos/systems/[SYSTEM_ID]/direct_scheduling_facilities`,GET `/vaos/community_care/eligibility/[TYPE_OF_CARE]`,GET `/vaos/facilities/[FACILITY_ID]/visits/[DIRECT_OR_REQUEST]`,GET `/vaos/facilities/[FACILITY_ID]/limits`,GET `/vaos/systems/[SYSTEM_ID]/clinic_institutions`,GET `/vaos/facilities/[FACILITY_ID]/clinics`,GET `/vaos/systems/[SYSTEM_ID]/pact`,GET `/facilities/va/vha_[STAGING_ID]`,GET `/facilities/va`,GET `/vaos/community_care/supported_sites`,GET `/vaos/facilities/[FACILITY_ID]/available_appointments`,GET `/vaos/facilities/[SYSTEM_ID]/cancel_reasons`,PUT `/vaos/appointments/cancel`,PUT `/vaos/appointment_requests/[REQUEST_ID]`,POST `/vaos/appointment_requests`,POST `/vaos/appointments`,POST `/vaos/appointment_requests/[REQUEST_ID]/messages`,GET `/vaos/preferences`,PUT `/vaos/preferences`|
+|verify|✘|✘|||
+|veteran id card|✘|✘|vic|GET `/id_card/attributes`,POST `/id_card/announcement_subscription`|
+|vre chapter 31|✘|✘|||
+|vre chapter 36|✘|✘|||
+|yellow ribbon |✘|✘||GET /gi/yellow_ribbon_programs|
+||✔|✘|||
+||✔|✘|||
+||✔|✘|||
 ||✔|✘|||
 
 
 ## Apps 
 
 - letters
-
-### verify
-
-No downtime notification behavior - no listed dependencies
-
-#### Endpoints
-
-These are redirects
-
-- `/v1/sessions/verify/new`
-- `/sessions/verify/new`
-
-### veteran-id-card
-
-This app uses the `<DowntimeNotification>` component
-
-**dependencies**
-
-- `vic`
-
-#### Endpoints
-
-- GET `/id_card/attributes`
-- POST `/id_card/announcement_subscription`
-
-### vic-v2
-
-#### Endpoints
-
-- GET `/vic/vic_submissions/[GUID]`
-- GET `/v0/vic/profile_photo_attachments/[ID]`
-- POST `/vic/vic_submissions`
-
-### vre chapter31
-
-No non-global downtime notifications and no endpoints (?)
-
-### vre chapter36
-
-No non-global downtime notifications and no endpoints (?)
 
 ### yellow-ribbon
 
