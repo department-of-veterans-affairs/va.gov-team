@@ -1,113 +1,19 @@
+|App|Standard Message|Nonstandard Message|Dependencies|vets-api Endpoints|
+|---|---|---|---|---|
+|find forms|✘|✘|| GET `/forms`|
+| post 911 gib status|✔| [link](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/post-911-gib-status/utils/helpers.jsx#L158-L168)|evss|GET `/backend_statuses/gibs`, GET `/post911_gi_bill_status`|
+|public outreach materials|✘|✘||
+|search|✔|✘|search|GET `/search`|
+|static pages|✘|✘||GET `/facilities/va`, GET `/facilities/va/[ID]`|
+|terms and conditions|✘|✘||GET `/terms_and_conditions/[TERMS_NAME]/versions/latest`,GET `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`,POST `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`|
+|validate mhv account|✘|✘|||
+|vaos|✘|[link](https://github.com/department-of-veterans-affairs/vets-website/blob/7ff9874b2da7eef36997a9033ee96c043c5a915f/src/applications/vaos/components/NoRegistrationMessage.jsx#L6-L29)|mvi, vaos|GET `/vaos/appointments`,GET `/vaos/appointment_requests`,GET `/vaos/appointment_requests/[REQUEST_ID]/messages`,GET `/vaos/facilities`,GET `/vaos/systems/[SYSTEM_ID]/direct_scheduling_facilities`,GET `/vaos/community_care/eligibility/[TYPE_OF_CARE]`,GET `/vaos/facilities/[FACILITY_ID]/visits/[DIRECT_OR_REQUEST]`,GET `/vaos/facilities/[FACILITY_ID]/limits`,GET `/vaos/systems/[SYSTEM_ID]/clinic_institutions`,GET `/vaos/facilities/[FACILITY_ID]/clinics`,GET `/vaos/systems/[SYSTEM_ID]/pact`,GET `/facilities/va/vha_[STAGING_ID]`,GET `/facilities/va`,GET `/vaos/community_care/supported_sites`,GET `/vaos/facilities/[FACILITY_ID]/available_appointments`,GET `/vaos/facilities/[SYSTEM_ID]/cancel_reasons`,PUT `/vaos/appointments/cancel`,PUT `/vaos/appointment_requests/[REQUEST_ID]`,POST `/vaos/appointment_requests`,POST `/vaos/appointments`,POST `/vaos/appointment_requests/[REQUEST_ID]/messages`,GET `/vaos/preferences`,PUT `/vaos/preferences`|
+||✔|✘|||
+
 
 ## Apps 
 
 - letters
-
-### find-forms
-
-No downtime behavior or dependencies
-
-#### Endpoints
-
-- GET `/forms`
-
-### post-911-gib-status
-
-Does use the `<DowntimeNotification>` component, but it also uses some custom downtime error messaging that is handled in a child container.
-
-https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/post-911-gib-status/utils/helpers.jsx#L158-L168
-
-**dependencies**
-
-- `evss`
-
-#### Endpoints
-
-- GET `/backend_statuses/gibs`
-- GET `/post911_gi_bill_status`
-
-### public-outreach-materials
-
-No downtime behavior or dependencies, and no endpoints
-
-### search
-
-This app uses the `<DowntimeNotification>` component
-
-**dependencies**
-
-- `search`
-
-#### Endpoints
-
-- GET `/search`
-
-### static-pages
-
-No downtime notification behavior
-
-### Endpoints
-
-- GET `/facilities/va`
-- GET `/facilities/va/[ID]`
-
-### terms-and-conditions
-
-No downtime behavior or listed dependencies
-
-#### Endpoints
-
-- GET `/terms_and_conditions/[TERMS_NAME]/versions/latest`
-- GET `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
-- POST `/terms_and_conditions/[TERMS_NAME]/versions/latest/user_data`
-
-### validate-mhv-account
-
-There is no downtime behavior or listed dependencies
-
-#### Endpoints
-
-These are redirects
-
-- `/v1/sessions/verify/new`
-- `/sessions/verify/new`
-
-
-
-### vaos
-
-Uses the `<DowntimeNotification>` component in the container app.  If there is not a `sites` prop it will show a `<NoRegistrationMessage>` alert box, otherwise it will show the default children.
-
-**dependencies**
-
-- `mvi` (Master Veteran Index)
-- `vaos`
-
-#### Endpoints
-
-- GET `/vaos/appointments`
-- GET `/vaos/appointment_requests`
-- GET `/vaos/appointment_requests/[REQUEST_ID]/messages`
-- GET `/vaos/facilities`
-- GET `/vaos/systems/[SYSTEM_ID]/direct_scheduling_facilities`
-- GET `/vaos/community_care/eligibility/[TYPE_OF_CARE]`
-- GET `/vaos/facilities/[FACILITY_ID]/visits/[DIRECT_OR_REQUEST]`
-- GET `/vaos/facilities/[FACILITY_ID]/limits`
-- GET `/vaos/systems/[SYSTEM_ID]/clinic_institutions`
-- GET `/vaos/facilities/[FACILITY_ID]/clinics`
-- GET `/vaos/systems/[SYSTEM_ID]/pact`
-- GET `/facilities/va/vha_[STAGING_ID]`
-- GET `/facilities/va`
-- GET `/vaos/community_care/supported_sites`
-- GET `/vaos/facilities/[FACILITY_ID]/available_appointments`
-- GET `/vaos/facilities/[SYSTEM_ID]/cancel_reasons`
-- PUT `/vaos/appointments/cancel`
-- PUT `/vaos/appointment_requests/[REQUEST_ID]`
-- POST `/vaos/appointment_requests`
-- POST `/vaos/appointments`
-- POST `/vaos/appointment_requests/[REQUEST_ID]/messages`
-- GET `/vaos/preferences`
-- PUT `/vaos/preferences`
 
 ### verify
 
