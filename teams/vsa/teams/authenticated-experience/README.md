@@ -1,5 +1,7 @@
 # Authenticated experience at a glance
 
+**Last updated April 2020**
+
 ## Where to find us 
 
 - GitHub Label: vsa-authenticated-exp  
@@ -27,8 +29,6 @@
 ### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
 ### Project status
-
-**Last updated April 2020**
 
 |Project|Status|
 |----|----|
