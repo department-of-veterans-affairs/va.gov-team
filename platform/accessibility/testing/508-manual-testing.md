@@ -1,4 +1,7 @@
 # Manual Testing for Accessibility Audits
+Automated testing will catch 40% (conservatively) of all accessibility issues. This type of testing is well-suited to find and flag issues like invalid markup, [improper use of ARIA](https://www.w3.org/TR/using-aria/) and duplicated IDs. 
+
+Automated testing cannot, and will not, have a human tester's subjectivity. Many accessibility issues are "more art than science" and need a subjective opinion. For instance, an automated testing tool would not know to flag focus management as an issue. A human tester would be able to identify this as a potential problem for screen readers, and log it accordingly.
 
 ## Current Testing
 
