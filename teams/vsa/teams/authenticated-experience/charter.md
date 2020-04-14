@@ -11,6 +11,7 @@ We want to work towards a VA authenticated experience that is so easy and so sea
 - The service member to veteran transition between DoD and VA is so seamless that it goes unnoticed.
 - Veterans and their communities can apply for/enroll in benefits with one click.
 - Veterans and their communities can easily interact with the VA through text messages and email.
+- A veteran's logged in portal is a separate experience from the "marketing" content.
 
 ### Mission 
 
