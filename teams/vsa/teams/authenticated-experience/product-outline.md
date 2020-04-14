@@ -18,7 +18,7 @@
 
 ### Vision
 
-We want to work towards a VA authenticated experience that is so easy and so seamless that it feels like it happens in the backgrounds of people's lives. We want to work towards a future where we truly meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and where we make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
+We want to work towards a VA authenticated experience that is so easy and so seamless that it feels like it can happen in the backgrounds of people's lives. We want to meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
 
 - The service member to veteran transition between DoD and VA is so seamless that it goes unnoticed.
 - Veterans and their communities can apply for/enroll in benefits with one click.
@@ -51,17 +51,29 @@ Our current mission is to create a logged in experience on VA.gov that:
 ### Business goals 
 
 - Increase use of self-service tools.
-- Reduce touchpoints that veterans need 
-- Show veterans and their communities everything we know about them in one place
+- Reduce touchpoints that veterans need.
+- Show veterans and their communities everything we know about them in one place.
 
 ### Questions 
 
 ### Assumptions 
 
-### Requirements and Constraints 
+## Requirements and Constraints 
 
-- Data in the VA itself is non-standard 
-- Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
+### Requirements
+
+### Constraints
+
+#### Data
+- Data in the VA is complicated and all over the place. Different information is stored across hundreds of databases and is often duplicative or conflicting.
+  - EG. Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
+- For data we don't currently have but want, we may need a new ATO to get this information, and this could take a lot of time.
+- We don't have a lot of data we want, and we may not be able to get it because it the information isn't digital or is in a database that is a mess/unreliable/will be eventually sunset.
+
+#### Design
+
+- Elements of the logged in experience are set/affected by/affect the logged out experience, so we have to consider this in our work.
+- The existing design system is tailored to the needs of unauthenticated content pages. 
 
 ## Metrics
 
@@ -70,8 +82,9 @@ Our current mission is to create a logged in experience on VA.gov that:
 ### KPIs 
 
 - Increase the amount of people who:
-  - Log in to VA.gov
-  - Verify their identities
-  - Manage their benefits online
+  - Log in to VA.gov.
+  - Verify their identities.
+  - Manage their benefits online.
 - Reduce the amount of people who call in to the call center for status updates on claims and other information.
-- Reduce the amount of time it takes to complete tasks in the authenticated experience
+- Reduce the amount of time it takes to complete tasks in the authenticated experience.
+- Increase the amount of people who navigate to tools via the logged-in homepage and logged in navigation.
