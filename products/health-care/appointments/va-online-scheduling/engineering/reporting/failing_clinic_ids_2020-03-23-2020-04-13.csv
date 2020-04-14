@@ -24,6 +24,7 @@ clinic_id,site_code,timestamp,primaryStopCode,primaryStopCodeName,secondaryStopC
 21528,583,2020-03-29T16:38:51.910979Z,502,MENTAL HEALTH CLINIC - IND,*Missing*,false,Wakeman VA Clinic
 2724,598,2020-03-31T03:02:57.523148Z,674,ADMIN PAT ACTIVTIES (MASNONCT),*Missing*,false,John L. McClellan Memorial Veterans' Hospital
 2724,598,2020-03-31T03:01:51.533183Z,674,ADMIN PAT ACTIVTIES (MASNONCT),*Missing*,false,John L. McClellan Memorial Veterans' Hospital
+14121,626,2020-03-31T00:20:28.682701Z,"","","","","","",""
 1820,626,2020-03-24T20:42:31.850969Z,108,LABORATORY,*Missing*,false,Clarksville VA Clinic
 1820,626,2020-03-24T20:42:46.333901Z,108,LABORATORY,*Missing*,false,Clarksville VA Clinic
 13339,636,2020-03-30T23:24:50.277608Z,432,PRE-SURG EVAL,UROLOGY CLINIC,IC UROLOGY PRE-OP CLINIC,false,Iowa City VA Medical Center
