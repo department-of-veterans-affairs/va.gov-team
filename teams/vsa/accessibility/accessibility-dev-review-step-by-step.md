@@ -11,6 +11,7 @@
 - [ ] As available/possible, access and navigate the page using available mobile devices, in both portrait and landscape
 - [ ] Visual evaluation to identify cognitive considerations to align with WCAG
 - [ ] Create Epic to contain issues found, assign to yourself
+- [ ] Create individual issue tickets for issues found, include in the epic for the review
 - [ ] Add issues found to the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md) (This will be used to create the weekly email to the 508 Office.)
 - [ ] ~~Add issues to the [GCIO Sprint Checkoff Sheet](https://docs.google.com/document/d/1031rFMfaUQKMLLA0yybGNz9tMIH7WtTVwVWCOsjep0E/edit?ts=5d77e7f8#heading=h.rsumqrms2hm2)~~
 - [ ] If the issues are sitewide, design system, components, or CMS issues, add to the [Tracking VSP a11y issues affecting VSA teams](https://docs.google.com/spreadsheets/d/1v1TjvvXaTOun1ZFBoOVeDqZlQVr5leD_YVEnDPntxLI/edit#gid=0) spreadsheet; remove the teams label from the ticket, but keep it in the epic for the review.
