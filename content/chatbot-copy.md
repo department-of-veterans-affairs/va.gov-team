@@ -134,7 +134,7 @@ Once your provider schedules a telehealth appointment, you’ll receive a link t
 - Other existing illnesses or conditions
 - Possible exposure
 
-We're currently testing Veterans who meet the [CDC's criteria](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). 
+We're currently testing Veterans who meet the [CDC criteria for testing](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). 
 
 #### 18. What should I do if I have a community care appointment?
 
@@ -194,7 +194,7 @@ If you need a prescription renewed that's no longer refillable, or if you have o
 
 #### 24. Can I use emergency care?
 
-##### If you have life-threatening medical emergency
+##### If you have a life-threatening medical emergency
 
 Call 911 or go to your nearest ER. For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
 
@@ -236,16 +236,22 @@ Many people feel stress about COVID-19. These steps may help:
 #### 27. How can I ask for a new mental health appointment?
 
 **If you’re already using VA medical services**
+
 [Send a secure message to your primary care provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to help you make an appointment with a VA mental health provider.
 
 **If you’re not already using VA medical services or need same-day mental health care**
+
 Call your nearest VA medical center or Vet Center to talk about your needs.<br>
 [Find a VA location](https://www.va.gov/find-locations)
 
 **If you're not sure what kind of help you need**
-Call us at 877-222-8387 to find the right resources for your needs. If you have hearing loss, call TTY: 800-877-8339.
 
-We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
+Call us at 877-222-8387 to find the right resources for your needs. If you have hearing loss, call TTY 800-877-8339.
+
+We’re here Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+
+[Learn more about getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
+
 
 #### 28. Can I visit a patient at a VA facility?
 
@@ -257,7 +263,9 @@ We know this is difficult for families, but we're taking these precautions to pr
 
 ##### For other VA health facilities
 
-At this time, we ask that you postpone your visit. This helps us protect older Veterans and those who already have health issues. [Visit the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more tips on stopping community spread.
+At this time, we ask that you postpone your visit. This helps us protect older Veterans and those who already have health issues. <br>
+
+[Visit the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more tips on stopping community spread.
 
 #### 29. Will my benefit payment be delayed because of COVID-19?
 
@@ -275,7 +283,7 @@ Yes. If you’re currently receiving GI Bill benefits, payments will continue au
 
 We’re working closely with schools to ensure enrollments are accurately certified and processed.
 
-For specific questions, contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET.
+For specific questions, contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY 711.
 
 #### 31. Are VA regional offices closed? 
 
@@ -283,7 +291,7 @@ Yes. We’ve temporarily closed all of our 56 regional offices for in-person vis
 
 We can still support you with educational counseling, claims information, and other services by phone or approved video conferencing tools. 
 
-**To get help or request a video appointment,** call us at 800-827-1000,  Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+**To get help or request a video appointment,** call us at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
 
 **To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
@@ -294,14 +302,16 @@ We can still support you with educational counseling, claims information, and ot
 For the latest status of our regional offices and other benefit services, you can:
 
 - Visit the [Veterans Benefits Administration (VBA) news page](https://www.benefits.va.gov/benefits/news.asp)
-- Call the benefits hotline toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET
+- Call the benefits hotline toll-free at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET
 - Follow us on social media:
   - [VBA Facebook](https://www.facebook.com/VeteransBenefits)
   - VBA Twitter: [@VAVetBenefits](https://twitter.com/VAVetBenefits)
 
 #### 33. How can I contact my local regional office? 
 
-Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video. 
+Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video.
+
+If you have hearing loss, call TTY: 800-829-4833.
 
 ------
 
@@ -362,7 +372,7 @@ Check your facility's website for the latest updates and contact information. <b
 [Find a VA location](https://www.va.gov/find-locations)
 
 **Mental health resources**
-Call our health benefits hotline at 877-222-8387, Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+Call our health benefits hotline at 877-222-8387 (TTY: 800-877-8339), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
 
 **Debt management information related to VA health care**
 Call our Health Resource Center at 888-827-4817.
@@ -386,7 +396,7 @@ Check your facility's website for the latest updates and contact information. <b
 
 **Appointments for VA benefits and services**
 
-Call our VA call center at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call our VA call center at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY: 800-829-4833.
 
 **Debt related to VA benefits**
 Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
@@ -404,11 +414,16 @@ Here are the best ways to talk with someone about your specific mental health ne
 
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-Or call our health benefits hotline at 877-222-8387, Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+Call your nearest VA medical center or Vet Center. <br>
+[Find a VA location](https://www.va.gov/find-locations)
+
+**To ask for help with getting resources**
+
+Call our health benefits hotline at 877-222-8387 (TTY: 800-877-8339), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET. 
 
 **To talk to someone anytime, day or night**
 
-Call 877-927-8387 to talk with a fellow combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year.
+Call 877-927-8387 (TTY: 800-877-8339) to talk with a fellow combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year. 
 
 **To get help now if you or a Veteran you care about is in crisis**
 
@@ -431,13 +446,13 @@ Here are the best ways to talk with someone about your specific benefit and clai
 
 **Appointments for VA benefits and services**
 
-Call our VA call center at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call our VA call center at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
-Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
+Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
 
 **Education benefit questions**
-Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET.
+Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
 
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
