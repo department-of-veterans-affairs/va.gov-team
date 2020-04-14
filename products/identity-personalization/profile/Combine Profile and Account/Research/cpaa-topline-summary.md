@@ -1,4 +1,4 @@
-# [Combining Profile and Account] Topline Summary
+# Combining Profile and Account Topline Summary
 
 Prepared by: Tressa Furner, Authenticated Experience
 
