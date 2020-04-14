@@ -2,13 +2,33 @@
 
 **Updated April 2020**
 
+## What we stive for
+
+### Vision
+
+We want to work towards a VA authenticated experience that is so easy and so seamless that it feels like it can happen in the backgrounds of people's lives. We want to meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
+
+- The service member to veteran transition between DoD and VA is so seamless that it goes unnoticed.
+- Veterans and their communities can apply for/enroll in benefits with one click.
+- Veterans and their communities can easily interact with the VA through text messages and email.
+- The logged-in experience on VA.gov feels like a world-class, private sector experience.
+
+### Mission 
+
+Our current mission is to create a logged in experience on VA.gov that:
+
+- Differentiates itself from the logged out experience.
+- Consolidates what we know about veterans and their communities and effectively and efficiently reflects this info back to them throughout the site.
+- Guides veterans and their communities towards tasks and tools they need/want to complete.
+- Serves up status updates/alerts/action items in a way that makes it easy for veterans and their communities to act on this information.
+
+### North star objectives
+
+- Reduce the amount of time it takes to interact with the VA
+- Make interacting with the VA feel as easy as sending an email
+- Make the VA feel like it's a 1:1 experience
+
 ## What we work on
-
-### Product Line
-
-Authenticated Experience for VA.gov
-
-### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
 ### Product Portfolio
 
@@ -18,8 +38,7 @@ Authenticated Experience for VA.gov
 * Logged-in navigation
 * Personalized content for logged in users
 
-### Responsibilities
-Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
+### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
 ### [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
