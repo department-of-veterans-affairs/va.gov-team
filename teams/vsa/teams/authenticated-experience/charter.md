@@ -1,20 +1,22 @@
 # Authenticated Experience Team Charter
 
+**Updated April 2020**
+
 ## What we work on
 
 ### Product Line
 
 Authenticated Experience for VA.gov
 
+### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
+
 ### Product Portfolio
 
-*	Dashboard
-*	Profile
-*	Account
-* Notifications
-*	Login Flows
-* In Content Personalization
-*	Others
+* Logged-in homepage redesign (Dashboard 2.0)
+*	My VA (until it's retired for the logged-in homepage)
+* Combining profile and account (Profile 2.0)
+* Logged-in navigation
+* Personalized content for logged in users
 
 ## Responsibilities
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
@@ -88,9 +90,6 @@ Extra time? Explore the "Ready" column in ZenHub.
 
 **Role-Related Knowledge / Best Practices**
 
-[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
-
-[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
-
-[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
-
+- [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
+- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
+- [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
