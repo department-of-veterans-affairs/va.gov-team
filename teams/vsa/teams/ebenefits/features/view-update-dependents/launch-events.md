@@ -8,6 +8,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 2. Sets the steps clearly and informs the team if there are any gaps that need to be addressed for either the current feature or the next
 3. A tangible reference for the team to synchronize on where we are and where we are headed
 4. Should assist in ticket creation  
+
 ## Unknowns
 - BGS interactions
 - Outcome of QA review
@@ -20,8 +21,11 @@ Set a date and walk back the various steps.  This achieves a few things:
 **Number of sprints:** 2   
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
+[Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
+
 🌀 = Collaboration Cycle  
 ⏳ = May be more time intensive than anticipated  
+
 
 ## Events  
 ### Sprint 19 (T-28)  
