@@ -1,12 +1,13 @@
 
-# Search Product Outline - VA.gov - THIS IS A DRAFT
+# Search Product Outline - VA.gov  
 
 ## Communications
 - GitHub Label: search
-- Slack channel: #Public Websites Team
+- Slack channel: #va-search
 - Product POCs: 
-   - Jennifer Lee, DSVA (Jennifer.Lee27@va.gov)
-   - Dave Conlon, DEPO (David.Conlon@va.gov) 
+   - Jennifer Lee, DSVA @Jen Lee
+   - John Hashimoto @John Hashimoto
+   - Steph Orkand @Stephanie Orkand
 - Search.gov POC: 
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
 
