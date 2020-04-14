@@ -58,6 +58,7 @@ _April 22 - May 5_
 _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
+- Adjust the robots.txt file to include the direct link to the 686
 
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
