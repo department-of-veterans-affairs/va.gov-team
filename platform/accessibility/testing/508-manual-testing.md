@@ -22,8 +22,10 @@ Automated testing cannot, and will not, have a human tester's subjectivity. Many
   * iOS Safari + VoiceOver
 
 ### Documents (PDF, Word, etc.)
-  * Accessibility checks using Acrobat Pro
-  * Review with one or more screen readers
+Teams can request accessibility reviews for their PDF and Word files. This includes several manual checks:
+  * Acrobat Pro [accessibility checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
+  * Review with one or more screen readers. Usually this is JAWS.
+  * Evaluating [Common Look](https://commonlook.com/accessibility-software/pdf-validator/) as another option for quick PDF scans.
 
 ### General Responsibilities
 * Write issue tickets for findings
@@ -37,8 +39,15 @@ WCAG 2.1 offers [17 new success criteria](https://www.w3.org/WAI/standards-guide
 
 * Windows [high-contast mode](https://support.microsoft.com/en-us/help/13862/windows-10-use-high-contrast-mode)
 * [Inverse or "dark" mode](https://css-tricks.com/dark-modes-with-css/) testing
-* Mobile-first usability
-* WCAG 2.1 Typography
+* Text to speech using tools like [Dragon Speaking](https://www.nuance.com/dragon/business-solutions/dragon-professional-individual.html)
+* Zoom magnifier tools like [Zoom Text](https://www.zoomtext.com/)
+* WCAG 2.1 mobile usability
+  * [SC 1.3.4 Orientation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#134-orientation-aa)
+  * [SC 2.5.1 Pointer Gestures](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#251-pointer-gestures-a)
+  * [SC 2.5.2 Pointer Cancellation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#252-pointer-cancellation-a)
+  * [SC 2.5.4 Motion Actuation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#254-motion-actuation-a)
+  * [SC 2.5.5 Target Size](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#255-target-size-aaa)
+* WCAG 2.1 typography
   * [SC 1.3.4 Orientation](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#134-orientation-aa)
   * [1.4.10 Reflow](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1410-reflow-aa)
   * [1.4.11 Non-text Contrast](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/#1411-non-text-contrast-aa)
