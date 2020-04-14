@@ -7,7 +7,7 @@ Booz Allen research for Education Services / OIT.
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
 
-Chapter 31/33 Veterans and beneficiaries experienced financial difficulties, have gone into debt, and were dropped from classes due to delayed payments by VA to their schools.  In response to this, Section 103 was passed, requiring institutions receiving GI Bill benefits to allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility on file. 
+Chapter 31/33 Veterans and beneficiaries experienced financial difficulties, have gone into debt, and were dropped from classes due to delayed payments by VA to their schools.  In response to this, PL 115-407 Section 103 was passed, requiring institutions receiving GI Bill benefits to allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility for their education benefits on file. 
 
 Schools may require proof of GI Bill eligibility in the form of:
  - Certificate of Eligibility (COE) or
@@ -29,7 +29,7 @@ An indicator of Section 103 compliance was added under the Institution Summary s
 
 ## Method	
 1.	What method of research are you planning? 	
-  - Remote, moderated usability testing in a demo environment using Zoom. 	
+  - Remote, moderated usability testing in a demo or stagins environment using Zoom. 	
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
   - Researchers need to test the accessibility of certain aspects of the site.  Additionally, they need to know if users can find the Section 103 control as it is new functionality.
@@ -47,23 +47,23 @@ An indicator of Section 103 compliance was added under the Institution Summary s
 1.	Participant criteria: What are you looking for in a participant?
 
 6-8 participants
-Generally, GI Bill beneficiaries impacted by VA late payments during Fall 2018, some of whom regularly use assistive tech for wev=b browsing 
+Generally, GI Bill beneficiaries impacted by VA late payments to institutions during Fall 2018, some of whom regularly use assistive tech for wev=b browsing 
 
 A mix of the following:
- - 3-4 GI Bill beneficiaries using Post-9/11 or CH31 Active Duty benefits during Fall 2018
+ - 3-4 GI Bill beneficiaries using Post-9/11 or CH31 Active Duty benefits during Fall 2018 impacted by late VA payments
  - 3-4 GI Bill beneficiaries using Post-9/11 or CH31 Active Duty benefits during Fall 2018, who regularly use a screen reader for web browsing. Or, if there aren't enough of these individuals, expanding this criteria to GI Bill beneficiaries who've used Post-9/11 or CH31 Active Duty benefits in the last 5 years, who regularly use a screen reader for web browsing. 
  
 Age Range: 18-45
 
 Geography: Geographically dispersed across US
 
-VA Benefit requirement: Ch 33, Post-9/11 GI Bill or Ch 31 Active-Duty benefits
+VA Benefit requirement: Ch 33, Post-9/11 GI Bill or Ch 31 (Vocational Rehabilitation) Education benefits
 
-Technology: Access to a computer, preferably running Google Chrome browser; Assistive 
+Technology: Access to a computer, preferably running Google Chrome browser; Assistive technologies, if needed
 
 Familiarity with technology: Any
 
-Accessibility preference: 3-4 participants using screen reader for web browing
+Accessibility preference: 3-4 participants using screen reader for web browsing
 
 Login requirements: None
 	
