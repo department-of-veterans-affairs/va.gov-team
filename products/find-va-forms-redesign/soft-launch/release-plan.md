@@ -11,19 +11,22 @@ That's what this Release Plan Template is for! And note - there are feature togg
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: March 6th, at least 2 weeks
+- Desired number of users: Members of the Form Working Group have a chance to "kick the tires"
+- How you'll recruit the right production test users: VA's Forms contacts
+- How you'll conduct the testing: Share the production link with identified testers
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Credentials provided to those testing
 
 ### Results:
 - Number of users: x
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Types of errors logged: Needed to correct links out to content pages rather than to apply pages from `/find-forms`
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes 
+- If yes, what: 
+  - Adjusted designs to make them more mobile-friendly/accessibile 
+  - Drupal content updates
+  - Make 'download PDF form' links in the modern forms search initiate download
 
 ## Phase II: unmoderated production testing
 
