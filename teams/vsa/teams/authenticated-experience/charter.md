@@ -2,7 +2,7 @@
 
 **Updated April 2020**
 
-## What we stive for
+## What we strive for
 
 ### Vision
 
