@@ -36,30 +36,42 @@ Our current mission is to create a logged in experience on VA.gov that:
 
 ### North star objectives
 
-- Increase veterans' abilities to manage their benefits online and offline
-- Reduce the amount of time it takes to complete tasks in the authenticated experience
-- Increase veterans' abilities to see themselves in the authenticated experience
-- Improve communication between the VA, veterans, and their communities
+- Reduce the amount of time it takes to interact with the VA
+- Make interacting with the VA feel as easy as sending an email
+- Make the VA feel like it's a 1:1 experience
 
-## User problem statements 
+## User and Business Goals
+
+### User problem statements 
 
 - **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
 - **As a veteran, I want to be notified of status updates and action items that apply to my specific experience at the VA.**
 - **As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.**
 
-## Business goals 
+### Business goals 
 
-Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve. 
+- Increase use of self-service tools.
+- Reduce touchpoints that veterans need 
+- Show veterans and their communities everything we know about them in one place
 
-## Questions 
+### Questions 
 
-## Assumptions 
+### Assumptions 
 
-## Requirements and Constraints 
+### Requirements and Constraints 
 
 - Data in the VA itself is non-standard 
 - Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
 
-## Value Propositions  
+## Metrics
 
-## KPIs 
+### Value Propositions  
+
+### KPIs 
+
+- Increase the amount of people who:
+  - Log in to VA.gov
+  - Verify their identities
+  - Manage their benefits online
+- Reduce the amount of people who call in to the call center for status updates on claims and other information.
+- Reduce the amount of time it takes to complete tasks in the authenticated experience
