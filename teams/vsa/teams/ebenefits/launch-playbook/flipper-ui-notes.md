@@ -59,7 +59,11 @@ Eventually we may want to present the application directly and without authentic
 - Create a high level thumbnail view of the different potential pathways and highlight where the React components would be located.
   - Currently, there are two major pathways contemplated for users to get to View Dependents as well as the 686 itself: 
   1. Sign in and view
+    - This will need a flipper component to split traffic between **View Dependents in VA.gov** and the **legacy eBenefits Dependents application**  
+    - From the View Dependents page, another flipper component will split traffic to the **new online 686 form** and the **legacy eBenefits Dependents application**  
   2. Add or change your dependents
+    - This will be hidden until at 100%
+  - Given that traffic might inadvertanly see the url directly (from Google for exmaple)
 - Document the procedure and order of events for unwinding any necessary Flipper components after allowing 100% of traffic through.
   - Leave in place to act as a future "valve"? 
   - What is the precedent?
