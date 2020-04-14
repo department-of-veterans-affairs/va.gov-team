@@ -172,7 +172,7 @@ These steps assume your SSH keys have been authorized and that you're running on
 1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov` (for Windows, the command will not require the `-K` flag).
 
 1. Proceed to the instructions below to access the SOCKS proxy.
-    * If your key doesn't seem to be working, ask for help in the *#vfs-platform-support* Slack channel
+    * If your key doesn't seem to be working, ask for help in the #vfs-platform-support Slack channel
 
 
 #### Accessing SOCKS proxy from VA network
