@@ -528,10 +528,10 @@ Talk with someone about my specific needs [go to 48]
 
 Nothing. I have the information I need. [go to 49]
 
-[shortened topic name list]
-health care
-VA response
-mental health
+[shortened topic name list] <br>
+health care <br>
+VA response <br>
+mental health <br>
 benefits and claims
 
 -----
