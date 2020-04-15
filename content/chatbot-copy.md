@@ -4,7 +4,7 @@
 
 [Good morning/Good afternoon/Good evening], [NAME].
 
-You can use this tool to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions through the tool, we'll help you connect to a call center representative.
+You can use this tool to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions through the tool, we'll connect you with someone to talk to about your specific needs.
 
 **If you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
 - Trouble breathing
@@ -128,7 +128,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 [add questions based on message bank - per below order]
 
 - [23] Will my benefit payment be delayed because of COVID-19?
-- [24] My school changed all classes to online, Will I still qualify for my GI bill benefits? 
+- [24] My school changed all classes to online. Will I still qualify for my GI Bill benefits? 
 - [50] Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
 - [25] Are VA regional offices closed? 
 - [26] How can I stay updated on regional office closures or service interruptions?
@@ -151,9 +151,9 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 We recommend using telehealth to visit your provider by phone or video. You can also cancel or reschedule your appointment.
 
-**To change your appointment to a telehealth visit, sign in to:**
+**To change your appointment to a telehealth appointment, sign in VA.gov to:**
 - [Send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet, **or**
-- [Request to change to a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Request to change to a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
 
 Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). 
 
@@ -197,8 +197,8 @@ Please request refills as soon as possible, but no later than 10 days before you
 **You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
 - **Through your mobile device** with our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
-- **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
+- **By phone** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
+- **By mail** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
 For questions about your prescriptions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center.
 
@@ -265,7 +265,7 @@ Many people feel stress about COVID-19. These steps may help:
 - **Keep your existing mental health appointments.** If you currently have regular sessions, [send your provider a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to request telehealth visits by phone or video.
 - **Ask for a new mental health appointment.** If you need same-day mental health care—or want to request a new appointment—call your local VA health facility.<br>
 **[Find a VA location](https://www.va.gov/find-locations)**
-- **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)
+- **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)**
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
 
 #### 21. How can I ask for a new mental health appointment?
@@ -311,7 +311,7 @@ No. We’re currently processing all benefit payments as normal. This includes:
 
 [View your VA benefit payments online](https://www.va.gov/va-payment-history/)
 
-#### 24. My school changed all classes to online. Will I still qualify for my GI bill benefits? 
+#### 24. My school changed all classes to online. Will I still qualify for my GI Bill benefits? 
 
 Yes. If you’re currently receiving GI Bill benefits, payments will continue automatically. You don’t have to do anything. 
 
@@ -329,7 +329,7 @@ We can still answer your questions by phone or through our online customer servi
 
 **To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
-**For other benefit questions,** send a question to our online customer service tool called [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
+**For other benefit questions,** send a question to our online customer service tool [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
 #### 26. How can I stay updated on regional office closures or service interruptions? 
 
@@ -356,7 +356,7 @@ If you need to go out to get essential items like groceries and medicines, the b
 **Follow these 5 steps to help protect yourself and others—even if you're feeling well:**
 
 **1. Stay at least 6 feet away from others** (called physical distancing).
-**2. Wear a cloth face cover.** Don't wear a mask that's meant for a healthcare worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
+**2. Wear a cloth face cover.** Don't wear a mask that's meant for a health care worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
 **3. Avoid anyone who appears sick.**
 **4. Try to wipe down frequently touched items,** like door or shopping cart handles. 
 **5. Wash your hands with soap and water or use hand sanitizer** after you touch items in a store. Avoid touching your face with unwashed hands. 
@@ -371,12 +371,12 @@ There's a lot you can do to protect yourself and others from COVID-19.
 2. **Stay at least 6 feet away from others** if you do need to go out (called physical distancing).
 3. **Wash your hands often with soap and water for at least 20 seconds,** especially after you go out in public or after you blow your nose, cough, or sneeze. If you don't have soap and water, use an alcohol-based hand sanitizer that contains at least 60% alcohol. 
 4. **Avoid touching your eyes, nose, and mouth** with unwashed hands.
-5. **Cover your mouth and nose with a cloth face cover** when you're out in public. Don't use a mask meant for a health care worker.
+5. **Cover your mouth and nose with a cloth face cover** when you're out in public. Don't use a mask meant for a health care worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
 6. **Clean and disinfect all "high-touch" surfaces each day.** This includes things like light switches, counters, and door knobs.
 
 **If you're sick, take these 5 added steps:**
 
-1. **Monitor your symptoms and stay in contact with your health care team by phone or video.** Take care of both your physical and emotional wellbeing.
+1. **Monitor your symptoms and stay in contact with your health care team by phone or video.** Take care of both your physical and emotional well-being.
 2. **If you need to get medical care in person, please contact us first.** Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse. This will decrease exposure risk to you and to others. 
 [Find a VA location](https://www.va.gov/find-locations/)
 3. **Stay in a separate room, away from other people and animals in your home,** with the exception of a service animal. If possible, use a separate bathroom.
@@ -397,7 +397,7 @@ CDC recommends that almost everyone wear a cloth face cover when they have to go
 
 An announcement was made by the NIH (National Institute of Health) on March 16, 2020 about an investigational vaccine. The first dose was given that day. 
 
-We can't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
+We don't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
 
 #### 38. If I get COVID-19, will I have immunity from getting it again?
 
@@ -419,7 +419,7 @@ The U.S. Department of the Treasury won’t take any more action on your debt du
 
 We’ll work with you to decide whether you’d prefer us to temporarily stop collection action, including stopping the addition of fees and interest, during this time or extend your repayment terms.
 
-- **If you have debt related to VA benefits,** please contact the VA Debt Management Center at 800-827-0648 to make arrangements. We’re here Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+- **If you have debt related to VA benefits,** please contact the VA Debt Management Center at 800-827-0648 to make arrangements. We’re here Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 - **If you have debt related to VA health care,** please contact the Health Resource Center at 888-827-4817 to make arrangements. Be sure to have your account number ready.
 
 #### 42. What if I'm having trouble paying my VA-backed home loan during this time?
@@ -454,7 +454,7 @@ We offer many programs and services that may help—including free health care a
 
 #### 50. Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
 
-Yes, we're still doing exams to rate potential disabilities, diagnose health conditions, and determine service-connected disabilities. We’re doing many exams virtually by phone, videoconference, or online. We’re also doing more records reviews using Acceptable Clinical Evidence (ACE). This means we’ll review your existing medical records instead of requiring an in-person or telehealth exam.
+Yes. We're still doing exams to rate potential disabilities, diagnose health conditions, and determine service-connected disabilities. We’re doing many exams virtually by phone, videoconference, or online. We’re also doing more records reviews using Acceptable Clinical Evidence (ACE). This means we’ll review your existing medical records instead of requiring an in-person or telehealth exam.
 
 **If your claim requires an in-person exam and we can’t conduct the exam in person**
 
@@ -473,7 +473,7 @@ If you feel unsafe going to an in-person exam, we can put your exam on hold unti
 
 **If you've completed your claim exam**
 
-[Sign in  to track your VA claim status online](https://www.va.gov/?next=%2Ftrack-claims)
+[Sign in to track your VA claim status online](https://www.va.gov/?next=%2Ftrack-claims)
 
 #### 51. What if I had or need an in-person appointment for VA benefits or services?
 
@@ -500,7 +500,7 @@ Ask another [shortened topic name - see below] question [29 - go back to topic q
 
 Ask a different type of question [47 - no screen; just go back to topics list]
 
-Connect with a call center representative [go to 48] _[alt: Talk with someone about my specific needs]_
+Talk with someone about my specific needs [go to 48]
 
 Nothing. I don't need more information. [go to 49]
 
@@ -591,7 +591,7 @@ If you have hearing loss, call TTY 800-799-4889.
 
 [benefits and claims]
 
-Here are the best ways to talk with someone about your specific benefit and claim related needs.
+Here are the best ways to talk with someone about your specific benefit and claim-related needs.
 
 **Benefit payment or claim status information**
 
