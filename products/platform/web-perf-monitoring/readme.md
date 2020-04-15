@@ -1,8 +1,8 @@
 # Web Performance Monitoring v0.1
-Provide standards and monitoring to help meaure, evaluate and govern website performance. 
+Provide standards and monitoring to help measure, evaluate, and govern website performance. 
 
 ## Performance Standards
-In order to track and monitor performance VSP has researched and documented a list of success metrics along with recommended threshold that teams should not exceed. Through our monitoring software (Speedcurve) performance budgets for the metrics/thresholds will be established for all VFS teams.
+In order to track and monitor performance VSP has researched and documented a list of success metrics along with recommended thresholds that teams should not exceed. Through our monitoring software (Speedcurve) performance budgets for the metrics/thresholds will be established for all VFS teams.
 
 List of [Performance Metrics and Thresholds](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/user-guide.md#metrics)
 
@@ -46,7 +46,7 @@ By leveraging the software application, [SpeedCurve](https://www.speedcurve.com)
 
 ## Version Notes:
 ### Release v0.1
-- Establish VSP performacne standards
+- Establish VSP performance standards
 - Rollout Speedcurve to Facility Locator Team for feedback around setup and usage
 
 
