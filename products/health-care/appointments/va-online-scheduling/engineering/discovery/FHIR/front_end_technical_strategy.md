@@ -35,7 +35,7 @@ And drilling down, the actions layer looks like:
 
 ![FE action creators](fe_action_creators.png)
 
-Our tentative approach is to add a service layer in between the action creators and API. This layer will handling the switching logic between the FHIR apis and the old VAR apis. This layer will map all data into a common, simplified FHIR-based format. The services available will be organized to be as much like the FHIR resources as possible. 
+Our tentative approach is to add a service layer in between the action creators and API. This layer will handling the switching logic between the FHIR apis and the old VAR apis. This layer will map all data into the FHIR format. The services available will be organized to be as much like the FHIR resources as possible. 
 
 TODO
 

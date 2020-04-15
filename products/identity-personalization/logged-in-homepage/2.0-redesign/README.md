@@ -91,7 +91,8 @@ Additionally:
 
 ### Design
 
-- What info needs to appear as a widget vs. just a link on the new logged in homepage?
+- How do veterans conceptualize the difference between a dashboard/logged-in homepage a profile? What kind of information do they expect to see on each page?
+- What info needs to appear as a widget vs. just a link on the new logged-in homepage?
 - How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
 - Do things like "Your dependents" and "Your disability rating" need to be displayed on the new logged-in homepage, or should they be displayed on the VA.gov profile, or both? 
 - What works well about the current homepage that veterans don't want to change? What would veterans change about the homepage as it is now?

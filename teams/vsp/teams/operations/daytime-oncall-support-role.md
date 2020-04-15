@@ -28,7 +28,7 @@ This rotation can be found in [Pagerduty](https://dsva.pagerduty.com/schedules#P
 
 This developer, just like oncall, DOES NOT HAVE TO DO EVERYTHING but _does_ have to be the first point of contact. They will not have any other critical tasks while they are handling these two super epics.
 
-At the beginning of the rotation, you should make sure you are assigned to each of those two Super Epics. This makes it clear who’s responsible (you!) for the rotation. 
+At the beginning of the rotation, you should make sure you are assigned to each of those two Super Epics. This makes it clear who’s responsible (you!) for the rotation. Also change the channel topic in the #vfs-platform-support channel, to reflex your name.
 
 During the sprint, you should monitor the following Slack groups for issues:
 * #vfs-platform-support (individual requests)

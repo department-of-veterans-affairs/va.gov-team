@@ -8,6 +8,7 @@ Set a date and walk back the various steps.  This achieves a few things:
 2. Sets the steps clearly and informs the team if there are any gaps that need to be addressed for either the current feature or the next
 3. A tangible reference for the team to synchronize on where we are and where we are headed
 4. Should assist in ticket creation  
+
 ## Unknowns
 - BGS interactions
 - Outcome of QA review
@@ -58,6 +59,7 @@ _April 22 - May 5_
 _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
+- Adjust the robots.txt file to include the direct link to the 686
 
 ### Launch Sprint 21 (T)
 _May 6 - May 19_
@@ -75,4 +77,5 @@ _May 20 - June 2_
 - Optimization/ongoing bug fixes
 - 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
 
-
+## Other Tools and Resources
+- [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)

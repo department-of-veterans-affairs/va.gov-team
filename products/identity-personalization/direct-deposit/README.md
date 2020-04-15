@@ -160,6 +160,14 @@ On January 29, 2020, eBenefits removed the direct deposit feature from the websi
 - There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
 - At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
 
+**October 2019**
+
+- We launched to 25% of users.
+
+**Sept 2019**
+
+- We launched to 10% of users.
+
 **8/21/19**
 
 As of 8/16/2019, VBA leadership has asked the DSVA team to launch the direct deposit functionality on VA.gov as quick as possible. We received clearance to pursue launch despite not yet having everything in place for the eBenefits fraud team.

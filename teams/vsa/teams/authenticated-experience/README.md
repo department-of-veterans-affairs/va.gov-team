@@ -1,11 +1,17 @@
 # Authenticated experience at a glance
 
+**Last updated April 2020**
+
 ## Where to find us 
 
 - GitHub Label: vsa-authenticated-exp  
 - Slack channel: #vsa-authd-exp 
 
-## Team Members
+## Who we are
+
+### [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+
+### Team Members
 
 |Name|Role|Email|
 |----|----|-----|
@@ -16,13 +22,13 @@
 |Sandra Hallie |FE Engineer |  |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
-## Roadmap & project status 
+## What we work on
+
+### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md)
 
 ### [Authenticated experience road map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 
 ### Project status
-
-**Last updated April 2020**
 
 |Project|Status|
 |----|----|

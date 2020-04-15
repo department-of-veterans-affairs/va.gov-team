@@ -21,19 +21,19 @@ Analytics:
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: March 6th, at least 2 weeks
-- Desired number of users: Members of the Form Working Group have a chance to "kick the tires"
-- How you'll recruit the right production test users: VA's Forms contacts
-- How you'll conduct the testing: Share the production link with identified testers
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Credentials provided to those testing
+- **Desired date range or test duration:** since March 6th, min. 2 weeks
+- **Desired number of users:** Members of the Form Working Group have a chance to "kick the tires"
+- **How you'll recruit the right production test users:** VA's Forms contacts
+- **How you'll conduct the testing:** Share the production link with identified testers
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** Credentials provided to those testing
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: Needed to correct links out to content pages rather than to apply pages from `/find-forms`
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes 
-- If yes, what: 
+- **Number of users:** x
+- **Number of bugs identified / fixed:** x/x
+- **Was the data submitted (if any) easy for VA to process?:** yes/no, lorem ipsum
+- **Types of errors logged:** Needed to correct links out to content pages rather than to apply pages from `/find-forms`
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** yes 
+- **If yes, what:** 
   - Adjusted designs to make them more mobile-friendly/accessibile 
   - Drupal content updates
   - Make 'download PDF form' links in the modern forms search initiate download
@@ -41,52 +41,52 @@ Analytics:
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: 04/20/2020 - 04/23/2020
-- Desired number of unique users: 150
-- How you'll make the product available in production while limiting the # of users who can find/access it: 
+- **Desired date range:** 04/20/2020 - 04/23/2020
+- **Desired number of unique users:** 150
+- **How you'll make the product available in production while limiting the # of users who can find/access it:** 
   - Live in production no longer behind auth, but we won't implement any redirects or on-site search Top Recommendations
-- "Success" criteria (by the numbers): 
+- **"Success" criteria (by the numbers):** 
   - TBD % PDF downloads / top searches e.g. % downloads / searches for 21-526ez
 
 ### Results:
-- Number of unique users: x
-- Actual results (per your "success criteria")
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- **Number of unique users:** x
+- **Actual results (per your "success criteria"):**
+- **Was the data submitted (if any) easy for VA to process?:** yes/no, lorem ipsum
+- **Types of errors logged:** lorem ipsum
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?:** yes/no 
+- **If yes, what:** lorem ipsum
 
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- **Desired date:** 04/23/2020
+- **Post-launch KPI 1:** % conversion to PDF download
+- **Post-launch KPI 2:** xx lorem ipsum
+- **Post-launch KPI 3:** xx lorem ipsum
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- **Go / No Go:** (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- **Number of unique users:** x
+- **Post-launch KPI 1 actual:** xx lorem ipsum
+- **Post-launch KPI 2 actual:** xx lorem ipsum
+- **Post-launch KPI 3 actual:** xx lorem ipsum
+- **Any issues with VA handling/processing?:** yes/no, lorem ipsum
+- **Types of errors logged:** lorem ipsum
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?:** yes/no 
+  - **If yes, what:** lorem ipsum
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- **Number of unique users:** x
+- **Post-launch KPI 1 actual:** xx lorem ipsum
+- **Post-launch KPI 2 actual:** xx lorem ipsum
+- **Post-launch KPI 3 actual:** xx lorem ipsum
+- **Any issues with VA handling/processing?:** yes/no, lorem ipsum
+- **Types of errors logged:** lorem ipsum
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?:** yes/no 
+- **If yes, what:** lorem ipsum
 
 ## Post-launch Questions 
 

@@ -1,14 +1,37 @@
-# Authenticated Experience Team Charter
+# Authenticated experience team charter
 
 **Updated April 2020**
 
+## What we strive for
+
+### Vision
+
+We want to work towards a VA authenticated experience that is so easy and seamless that it feels like a concierge service. We want to meet veterans and their communities (families, caregivers, VSOs, etc.) where they are, and make them feel seen by, reflected in, and guided through their experience at the VA. There are many ways in which this could unfold, but we see a world in which:
+
+- The service member to veteran transition between DoD and VA is so seamless that it goes unnoticed.
+- We never ask a veteran to prove they are a veteran (ie. provide a DD214).
+- Veterans can easily find and understand what beenfits they might be eligble for.
+- Veterans and their communities can apply for/enroll in benefits with one click.
+- Veterans and their communities can mostly interact with the VA through text messages and email.
+- A veteran's logged in portal can compete with the best private sector experiences.
+
+### Mission 
+
+Our current mission is to create a logged in experience on VA.gov that:
+
+- Differentiates itself from the logged out experience.
+- Elevates what we know about veterans and their communities throughout the site so the information tells a story.
+- Consolidates personal/benefit data so that it doesn't feel silo'd.
+- Guides veterans and their communities towards tasks and tools they need/want to complete.
+- Serves up status updates/alerts/action items in a way that makes it easy to act on this information.
+
+### North star objectives
+
+- Reduce the amount of time it takes to interact with the VA
+- Make interacting with the VA feel as easy as sending an email
+- Make the VA feel like it's a 1:1 experience
+
 ## What we work on
-
-### Product Line
-
-Authenticated Experience for VA.gov
-
-### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
 ### Product Portfolio
 
@@ -18,8 +41,7 @@ Authenticated Experience for VA.gov
 * Logged-in navigation
 * Personalized content for logged in users
 
-### Responsibilities
-Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
+### [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/product-outline.md#north-star-objectives)
 
 ### [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/roadmap.md)
 

@@ -10,13 +10,12 @@
 
 <p>Service members (SM) who are separating and plan to file for disability can file their claim before separation. This is done through the Veterans Affairs (VA) Benefits Delivery at Discharge (BDD) program. This program allows Service members to apply for VA disability compensation benefits prior to separation. Claims must be filed between 180 to 90 days prior to separation. </p>
 
-<p>Currently the BDD process is done through paper forms, by the SM and/or VSO. This requires a lot of management and processing time for VA. Transferring this process to a 100% online process will save VA time and resources and will also present a possibility to create a better user experience for the SM. </p>
+<p>Currently the BDD process is done through paper forms, by the SM and/or VSO. This requires a lot of management and processing time for VA. Transferring this process to a 100% online process will save VA time and resources and will also present a possibility to create a better user experience for the SM. 
+The initial usability testing was done with Invision and the BDD flow has been modified by this research. The new BDD flow is shorter/condenced, as is now being built out in staging for usability test 2</p>
 
 <h2 id="toc_2">Goals</h2>
 
 <p>To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
-
-<p>How do Service Members (SM) experience this process? </p>
 
 <p>To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
 
@@ -24,13 +23,13 @@
 
 <p>We will conduct a usability test with 8-10 active Service Members. </p>
 
-<p>We will be conducting remote, moderated usability studies.</p>
-
-<p>The first interview round will also include a 10 min section about their former BDD experiences.</p>
+<p>We will be conducting a remote, moderated usability study.</p>
 
 <p>We will use Zoom to conduct these sessions.</p>
 
-<p>We will ask Veterans to navigate to an Invision link (provided in the Zoom chat) and share their screens with us via Zoom.</p>
+<p>The session will include a short interview (5-10 min) about their former BDD experiences.</p>
+
+<p>We will ask Veterans to navigate to the BDD flow in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
 
 <h2 id="toc_4">Participants and Recruitment</h2>
 
@@ -43,29 +42,25 @@
 <li><p>Ideally 4 participants have started or submitted a BDD claim. </p></li>
 <li><p>Ensure variation in age, gender, location, tech savviness.</p></li>
 <li><p>Participants must be able to describe to the researcher what they are trying to accomplish, what they are experiencing and what they are thinking as they move through the prototype.</p></li>
-<li><p>Must be able to use Zoom, use the chat function, share their screen through Zoom, and navigate an Invision prototype.</p></li>
+<li><p>Must be able to use Zoom, use the chat function, share their screen through Zoom, and navigate a prototype of the BDD flow on VA staging.</p></li>
 </ul>
 
 <h2 id="toc_5">Research questions</h2>
 
-<h4 id="toc_6">For the interview part about former BDD experiences</h4>
+<h4 id="toc_6">For the interview about former BDD experiences</h4>
 
 <ul>
 <li>What are the current steps for submitting a BBD claim? </li>
 <li>How (and when) do SM find out about the BDD process? </li>
-<li>Do they understand why the BDD process is different from Original claims?</li>
 <li>What is the necessary information and documentation that they need? </li>
 <li>Did SM file alone or with a VSO?</li>
-<li>What are the current timelines for BDD claims?</li>
-<li>What percentage of SM starting a BDD claim are registering at VA.gov for the first time? </li>
 <li>What was the most confusing part of the process?</li>
 <li>What is the workload and time commitment for the SM?</li>
 <li>What were the pain points in the process? </li>
 <li>What was the most helpful part of the process?</li>
-<li>Did the SM have the info and documentation necessary? </li>
 </ul>
 
-<h4 id="toc_7">For the usability test of the BDD prototype</h4>
+<h4 id="toc_7">For the usability test of the BDD flow</h4>
 
 <ul>
 <li>How do users try to find BDD on VA.gov?</li>
@@ -122,3 +117,5 @@
 <li>** Don&#39;t forget to add a link to your research folder to the research tracker! <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md">https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md</a>]()</li>
 </ul></li>
 </ul>
+
+

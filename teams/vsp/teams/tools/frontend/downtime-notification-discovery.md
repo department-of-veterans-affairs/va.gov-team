@@ -1,3 +1,7 @@
+_This is a work in progress_
+
+## Summary of downtime coverage 
+
 |App|Standard Message|Nonstandard Message|Dependencies|vets-api Endpoints|
 |---|---|---|---|---|
 |Auth|✘|✘||GET `/user`|
@@ -50,3 +54,27 @@
 |vre chapter 31|✘|✘|||
 |vre chapter 36|✘|✘|||
 |yellow ribbon |✘|✘||GET /gi/yellow_ribbon_programs|
+
+## Notes from discovery 
+
+- Some apps like the profile page can function without all of their services available 
+- Most forms are not configured to display downtime messaging
+- Many apps have custom messaging and styling for their downtime messaging 
+- Some downtime messaging appears as result of an API error and may not represent a real downtime 
+- Some non-forms applications are gated using a static page widget that does no support downtime 
+- Sitewide downtime messaging is not triggered by the same calls / infrastructure as app level messaging 
+
+## Recommended actions 
+
+- Low effort 
+  - Configure downtime for all of the forms
+  - Remove custom downtime messaging for forms 
+- Medium effort 
+  - Update DowntimeNotification component to meet design specifications 
+  - Mandate usage of DowntimeNotification component (no custom downtime display behavior)
+  - Fix upcoming downtime behavior on forms 
+  - Add downtime behavior to static pages signin widget
+  - Provide trigger for sitewide messaging (i.e. integrate it with the pager duty global downtime, remove manually configured dates from promo banner) 
+  - Update sitewide messaging to meet design specifications 
+  - Consolidate downtime triggers (i.e. apps should use a single config published to S3) 
+ 

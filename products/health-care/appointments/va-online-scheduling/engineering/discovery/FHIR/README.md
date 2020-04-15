@@ -24,7 +24,7 @@ We know the following resources will be available:
 - Organization
   - VistA system (3 digit code)
 - Location
-  - VA facility, Video appointment location, or CC provider
+  - VA facility, and possibly CC provider
 - HealthcareService
   - This is typically a VistA clinic, could also be a VA Video Connect virual room
 - Schedule

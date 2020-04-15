@@ -20,14 +20,18 @@ See [previous Lean UX Outline](https://github.com/department-of-veterans-affairs
 ### Business 
 
 - We assume that documentation must default to public, in line with DEPO's "default to transparency" culture.
-- We assume that some documentation cannot be public.
-- We assume that 
+- We assume that "public documentation" means that an anonymous user can view and suggest edits.
+- We assume that some documentation cannot be public and must have restricted access.
 
 ### User
 
 - We assume that the majority of documentation support requests come to VSP from VFS team members.
-- We assume that product documentation should come be created and maintained by VFS teams.
+- We assume that product documentation should be created and maintained by VFS teams.
 - We assume that cultural differences among all teams building on and in support of VA.gov make it hard to adopt one standard documentation process across all teams.
+- We assume that users need to be able to update documentation without the help of a developer (but that in the short term, the users who will be updating documentation are fairly tech-savvy). 
+- We assume that users will adopt a documentation solution and default to self-service.
+- We assume that most technical and non-technical documentation should live in the same place. **_Needs validation._**
+- We assume that some technical documentation will be so granular and specific that it should live with the code it refers to.
 
 ## Hypothesis 
 

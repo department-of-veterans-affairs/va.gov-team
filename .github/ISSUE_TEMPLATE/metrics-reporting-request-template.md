@@ -3,7 +3,7 @@ name: Metrics Reporting Request Template
 about: To request ad hoc data or metrics
 title: Analytics Reporting Request for [person or team]
 labels: analytics-insights, analytics-request
-assignees: joanneesteban, jonwehausen, nedierecel
+assignees: joanneesteban, bsmartin-ep, jonwehausen
 
 ---
 
@@ -28,14 +28,18 @@ Please fill out the following sections:
 Who is this request for?
 
 - [Insert Name(s)]
+
     _Send Slack message to DSVA Slack Channel, `#VFS-Platform-Support`, that includes: email address(es) for user(s) requesting data and link to this Github issue._
+    
 - What team/project is this work for?
+
     _this adds context for the data_
     - [Insert team and project)
     
 
 ## Timeframe for Analytics Requested
 _Please provide the timeframe for the metrics you are requesting._
+What timeframes are you looking to analyze (e.g. before vs. after)?
 
 
 ## Analytics to Track Down
@@ -47,6 +51,13 @@ _Please provide the timeframe for the metrics you are requesting._
 
 ## Which Product Questions are you trying to answer?
 
+## Other Helpful Questions to think through
+- Who is your audience?
+- Why do you need this data?
+- What are you hoping to find?
+- What is your hypothesis that you're hoping the data will support?
+- What area of the VA are you hoping to assess?
+- How frequently do you need this data?
 
 ## Additional Comments
 _Add any comments or questions for the Insights team here (if applicable)._

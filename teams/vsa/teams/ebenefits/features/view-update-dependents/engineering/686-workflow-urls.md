@@ -11,7 +11,7 @@
     * `/add-child` - root url for add-child workflow, all children get added here initially.
     * `/add-child/:index` - beginning of individual child information entry. Includes child status, place of birth, and whether or not they were previously married with additional details question if they were.
     * `/add-child/:index/additional-information` - Asks if child lives with veteran, and, if they don't asks who they live with and the address they live at.
-    * `/add-chid-evidence` - Asks for additional documents if a child is other than biological.
+    * `/add-child-evidence` - Asks for additional documents if a child is other than biological.
 1. Add Spouse
     * `/add-spouse` - root url for add-spouse, includes spouse name, ssn, dob, and whether or not they are a veteran.
     * `/current-marriage-information` - asks for date of marriage to current spouse, location of marriage, type of marriage.

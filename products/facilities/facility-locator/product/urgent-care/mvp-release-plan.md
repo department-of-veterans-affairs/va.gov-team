@@ -1,69 +1,56 @@
 # Urgent Care MVP Release Plan (WIP)
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
-### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
-
-### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-## Phase II: unmoderated production testing
-
-### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
-- Desired number of unique users: x
-- How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
-- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported call center calls < 2 calls, error rate < 5%, etc.]
-
-### Results:
-- Number of unique users: x
-- Actual results (per your "success criteria")
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
-
 ## Go Live!
+Code complete: 2/20/2020
+Urgent care alert:  3/17/2020
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+**Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
+- Between Oct 16, 2019-Nov 14, 2019: Baseline rate of search refinements
+  - 3.71% CCare 
+  - 2.20%  health
 
-### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
+**Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
+- Between Oct 16, 2019-Mar 17, 2020: Baseline average of 24,000/month (n=119,939)
+
+**Post-launch KPI 3**- Time to return search results
+- November 2019 baseline average = 3.49 sec (all facility types)
+
+### Milestone 1 post-launch results:
+**Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
+- Between Feb 1, 2020-March 10, 2020: Rate of search refinements
+  - 4.95% CCare provider
+  - 9.75% urgent care
+  - 15.22% pharmacy
+  - 2.4% health 
+
+**Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
+  - As of March 10, new data is not yet available
+
+**Post-launch KPI 3**- Time to return search results
+- Between Feb 1, 2020-Mar 8, 2020: average = 3.31 sec (all facility types)
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
+### Milestone 2 post-launch results:
+**Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
+- Between March 11, 2020-April 14, 2020: Rate of search refinements
+  - 7.18% CCare provider
+  - 7.05% urgent care
+  - 15.8% pharmacy
+  - 2.76% health 
+
+**Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
+  - Between March 17 - April 14, 2020: 4,219 users
+
+**Post-launch KPI 3**- Time to return search results
+- Between March 11-April 13, 2020: average = 4.38 sec (all facility types)
 - Any issues with VA handling/processing?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? _Based on [user feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md), we are planning iterations to the presentation of search results and changes to the user-map interaction. We have also made changes to the query, in response to an update to the PPMS data released by Microsoft in March._ 
+
 
 ## Post-launch Questions 
 
