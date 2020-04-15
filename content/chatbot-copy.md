@@ -31,7 +31,7 @@ Please choose the topic that best fits your need. If you want to choose another 
 
 ------
 
-### 30. > 33. COVID-19 prevention
+### 30. > 33. Coronavirus COVID-19 prevention
 
 **What question can we answer for you first?**
 
@@ -321,9 +321,9 @@ For specific questions, contact our Education Call Center toll-free at 888-442-4
 
 Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits. This decision is based on current CDC guidelines to prevent community spread of the coronavirus COVID-19. 
 
-We can still support you with educational counseling, claims information, and other services by phone or approved video conferencing tools. 
+We can still answer your questions by phone or through our online customer service tool. And we can support you with needs such as educational counseling, fiduciary claims, and specially adaptive housing by phone or approved video conferencing tools. 
 
-**To get help or request a video appointment,** call us at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
+**To get help with benefits,** call us at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
 
 **To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
@@ -341,41 +341,47 @@ For the latest status of our regional offices and other benefit services, you ca
 
 #### 27. How can I contact my local regional office? 
 
-Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video.
+Our regional office staff is still providing benefits help by phone and online.
 
-If you have hearing loss, call TTY: 800-829-4833.
+Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY: 800-829-4833.
+
+Or send a question to our online customer service tool called [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
 #### 34. If I need to leave my house, how do I stay safe? 
 
-Follow these steps to stay safe when you need to go out to the store, pharmacy, or other needed trip:
+If you need to go out to get essential items like groceries and medicines, the best way to prevent illness is to avoid being exposed to the virus. 
 
-- Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
-- Wear a cloth face cover. Don't wear a mask that's meant for a healthcare worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
-- Avoid anyone who appears sick.
-- Avoid touching your face.
-- Try to wipe down frequently touched items, like door handles. 
-- If you go through a store and touch things while you're there, either wash your hands with soap and water or use hand sanitizer.  
+**Follow these 5 steps to help protect yourself and others—even if you're feeling well:**
+
+**1. Stay at least 6 feet away from others** (called physical distancing).
+**2. Wear a cloth face cover.** Don't wear a mask that's meant for a healthcare worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
+**3. Avoid anyone who appears sick.**
+**4. Try to wipe down frequently touched items,** like door or shopping cart handles. 
+**5. Wash your hands with soap and water or use hand sanitizer** after you touch items in a store. Avoid touching your face with unwashed hands. 
 
 #### 35. What steps can I take to protect myself and others? 
 
-There's a lot you can do to protect yourself and others from COVID-19. These steps are especially important if you're an older person or if you have an underlying health condition like problems with your heart, lungs, or immune system.
+There's a lot you can do to protect yourself and others from COVID-19. 
 
-**Take these steps, even if you're feeling well:**
+**Take these 6 steps, even if you're feeling well:**
 
-1. Stay home as much as possible.
-2. Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
-3. Avoid using public transportation, ridesharing, or taxis. 
-4. Clean your hands often with soap and water for at least 20 seconds. This is especially important after you've been out in public, or after you blow your nose, cough, or sneeze. If you don't have soap and water, use an alcohol-based hand sanitizer that contains at least 60% alcohol. 
-5. Cover your mouth and nose with a cloth face cover when you're out in public.
-6. Clean and disinfect all "high-touch" surfaces. This includes things like light switches, counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, remotes, and bedside tables. 
+1. **Stay home** except to get medical care or essential items like groceries and medicines.
+2. **Stay at least 6 feet away from others** if you do need to go out (called physical distancing).
+3. **Wash your hands often with soap and water for at least 20 seconds,** especially after you go out in public or after you blow your nose, cough, or sneeze. If you don't have soap and water, use an alcohol-based hand sanitizer that contains at least 60% alcohol. 
+4. **Avoid touching your eyes, nose, and mouth** with unwashed hands.
+5. **Cover your mouth and nose with a cloth face cover** when you're out in public. Don't use a mask meant for a health care worker.
+6. **Clean and disinfect all "high-touch" surfaces each day.** This includes things like light switches, counters, and door knobs.
 
-**If you or someone you live with have symptoms of, or are diagnosed with, COVID-19, take these added steps:**
+**If you're sick, take these 5 added steps:**
 
-1. Stay home except to get medical care. 
-2. If you do need to get care in person, please contact us first. Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse. This will decrease exposure risk to you and to others. 
+1. **Monitor your symptoms and stay in contact with your health care team by phone or video.** Take care of both your physical and emotional wellbeing.
+2. **If you need to get medical care in person, please contact us first.** Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse. This will decrease exposure risk to you and to others. 
 [Find a VA location](https://www.va.gov/find-locations/)
-3. Separate yourself from other people and animals in your home, with the exception of a service animal. 
-4. Avoid sharing personal household items such as dishes, eating utensils, towels, and bedding. Wash these items with soap and water after use. 
+3. **Stay in a separate room, away from other people and animals in your home,** with the exception of a service animal. If possible, use a separate bathroom.
+4. **Wear a cloth face covering** if you do need to be in the same room with others.
+5. **Avoid sharing personal items** like dishes, towels, and bedding.
+
+[Get more tips from CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
 
 #### 36. Should I wear a mask?
 
@@ -383,7 +389,7 @@ Yes. You should cover your nose and mouth with a cloth face cover when you're in
 
 CDC recommends that almost everyone wear a cloth face cover when they have to go out in public, like to the grocery store or to pick up other necessities. Be sure not to put a mask on a child under age 2 or on anyone who has trouble breathing or can't remove the mask without help.
 
-**Remember:** Don't wear a mask that's meant for a health care worker. And don't forget to stay at least 6 feet away from others. Masks aren't a substitue for physical distancing.
+**Remember:** Don't wear a mask that's meant for a health care worker. And don't forget to stay at least 6 feet away from others. Masks aren't a substitute for physical distancing.
 
 #### 37. When will a vaccine be out?
 
