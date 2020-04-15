@@ -19,3 +19,5 @@
 |**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
 |**Profile 2.0**|Design; technical discovery| User testing; build; QA; pre-launch | Launch | — | — |
 |**Logged-in homepage**|Begin discovery| Complete design discovery; start technical discovery; start design | Finish design; build; user testing and additional user research | QA; pre-launch | Launch |
+|**Notification center**| — | — | Figure out how this overlaps with logged-in homepage redesign | TBD | TBD |
+|**Logged-in navigation**| — | — | Figure out how this overlaps with logged-in homepage redesign | TBD | TBD |
