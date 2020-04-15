@@ -89,11 +89,11 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 ### Estimation
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
- 1 - Easy task, work is known, can be executed quickly   
- 2 - Mostly known, doable
- 3 - Becoming complex   
- 5 - Very complex, may take a full sprint or longer    
- 8 - Needs to be broken down into smaller user stories      
+ - 1 - Easy task, work is known, can be executed quickly   
+ - 2 - Mostly known, doable
+ - 3 - Becoming complex   
+ - 5 - Very complex, may take a full sprint or longer    
+ - 8 - Needs to be broken down into smaller user stories      
 
 ### Team Norms
 
