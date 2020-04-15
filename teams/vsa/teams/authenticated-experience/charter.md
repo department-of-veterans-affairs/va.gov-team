@@ -17,7 +17,7 @@ The authenticated experience team wants to work towards a concierge-like VA expe
 
 ### Mission 
 
-Our current mission is to create a logged in experience on VA.gov that:
+To move us towards this vision, our current mission is to create a logged in experience on VA.gov that:
 
 - Differentiates itself from the logged out experience.
 - Elevates what we know about veterans and their communities throughout the site so the information tells a story.
