@@ -213,7 +213,6 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 **To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
 
 - **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
-- **[Enroll in the Annie app COVID-19 service](https://www.mobile.va.gov/app/annie-app-veterans)** for daily text messages to check on how you’re feeling and let you know when you should contact your care team.
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
 #### 17. How do I refill my prescription?
