@@ -9,6 +9,9 @@ VSP runs on-premise version `9.1.2` within the AWS utility environment.
 
 **Note:** Version `10.0` is on the horizon, but requires a relatively large infrastructure reconstruct, which is in the works. Sentry is currently part of the build, release, deploy (BRD) lifecycle and configurations exist within the devops repo.
 
+## Issue assignment
+The Issue Owners/Alerting Rules feature has some limitations with automatic issue assignment in Sentry `9.1.2`. For now, issue assignment will be a manual process responsibility for VSP engineers. Automatic issue assignment is a feature adopted in Sentry `10.0`.
+
 ## Sentry team process
 In an effort to allow VFS teams to “own” their Sentry teams, VSP engineers are responsible for the following:
 
