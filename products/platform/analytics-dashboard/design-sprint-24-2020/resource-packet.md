@@ -18,6 +18,7 @@ Mural Room with Design Sprint Boards - before the sprint, please get acquainted 
 - [VSP Tools Teams Analytics](https://docs.google.com/spreadsheets/d/1gXH7PfI3UCSu8mzEuYqkE5qwSJV6nFO1s8UpDCZm0BA/edit#gid=0)
 
 ## Existing Analytics Dashboards (Product Success Tool)
+Previous VFS facing analytics dashboards.
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-dashboard/product-success-tool-outline.md)
 - [Product Brief](https://docs.google.com/presentation/d/1sI32UbQRqpKqOhBT8lkUuOHgfD4UUkV2cd5Pzw1fP9w/edit#slide=id.g76c280c04b_0_21) - (PPT version of the product outline)
