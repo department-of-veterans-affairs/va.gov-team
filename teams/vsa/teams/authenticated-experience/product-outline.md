@@ -21,6 +21,7 @@ The authenticated experience team aims to create a world-class logged-in experie
 - **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
 - **As a veteran, I want to be notified of status updates and action items that apply to my specific experience at the VA.**
 - **As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.**
+- **As a veteran, I want the VA to tell me what benefits I qualify for, and then help me learn about them.**
 
 ## Business goals 
 
@@ -42,11 +43,21 @@ The authenticated experience team aims to create a world-class logged-in experie
 
 ## Assumptions 
 
-- 
+- Veterans want to quickly complete tasks on VA.gov. They want to get in, find what they are looking for, and get out as fast as possible.
+- Veterans expect to see themselves reflected in their logged-in experience. They figure that the VA already knows everything about them because of transferred records from DoD and any other information they've already submitted to the VA.
+- Veterans want to see status update/notification information when they sign in to VA.gov.
+- Veterans want to receive email and text message notifications so they don't have to sign in to the website or call the VA call centers.
+- Veterans want us to tell them what benefits they qualify for.
 
 ## Requirements and Constraints 
 
 ### Requirements
+
+- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md#vision).
+- Our work will put veterans first.
+- Our work will consider the full veteran experience — from logged out to logged in, from online to offline.
+- When we know information about veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
+- We will work to grow the design system so it better accomodates authenticated tools, flows, and use cases.
 
 ### Constraints
 
