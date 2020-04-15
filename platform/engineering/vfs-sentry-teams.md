@@ -44,7 +44,8 @@ Issues can be sorted and filtered according to a user’s filtering criteria (fo
 ### Sentry team filtering
 Sentry users can search for issues assigned to their team via custom search. By providing the 'assigned' custom search attribute followed by their team name tag, user can filter by issues assigned to their team.
 
-Example team assignment search: assigned: #benefits-memorial-1 
+* Example team assignment search: assigned:#benefits-memorial-1 
+* Note: The hashtag needs to be present when searching by team name
 
 Sentry users can obtain more error-related details by drilling down into individual issues for a more comprehensive debugging approach. Unresolved issues will display per project on the issue dashboard. On the project issues dashboard, specific users can be assigned to issues. You can also obtain time-based error data. An overview displaying issue trends can be viewed in the “Overview” tab.
 
