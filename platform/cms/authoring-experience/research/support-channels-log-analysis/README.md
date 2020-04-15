@@ -1,4 +1,4 @@
-# Research Plan for VFS-CMS tool, February 2020 
+# Research Plan for VFS-CMS tool, January - February 2020 
 As a member of the CMS team design pod, I need to establish a process for analyzing interactions between CMS users and the CMS team, so that I can identify common themes to inform research and design.	
 
 ## Goals
