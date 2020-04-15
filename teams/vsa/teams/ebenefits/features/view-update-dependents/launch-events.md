@@ -66,6 +66,7 @@ _May 6 - May 19_
 - UAT/ UAT outcome PRs, email whitelist 
 - Launch to n% of users🚀
 - Launch to 100% of users
+- Remove url from robots.txt file to allow for search to crawl the new form
 - Create eBenefits user redirect messaging  
 - Coordinate page redirects
 - Code hardening/bug fixes
