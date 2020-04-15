@@ -458,7 +458,7 @@ Ask another [shortened topic name - see below] question [29 - go back to topic q
 
 Ask a different type of question [47 - no screen; just go back to topics list]
 
-Connect with a call center representative [go to 48]
+Connect with a call center representative [go to 48] _[alt: Talk with someone about my specific needs]_
 
 Nothing. I don't need more information. [go to 49]
 
@@ -470,11 +470,11 @@ benefits and claims
 
 -----
 
-## 48. 
+## 48. Talk with someone about my specific needs
 
 [information to serve up based on topic category]
 
-[for health care, appointments, and prescriptions]
+[for prevention, testing, & health care, appointments, and prescriptions]
 
 Here are the best ways to talk with someone about your specific health care needs.
 
@@ -497,33 +497,29 @@ Call our Health Resource Center at 888-827-4817.
 **Technical questions about My HealtheVet**
 Contact the My HealtheVet help desk at 877-327-0022.
 
-[VA's COVID-19 response]
-
-Here are the best ways to talk with someone about your specific COVID-19 needs.
-
-**General coronavirus COVID-19 questions**
-Call MyVA311 at 844-698-2311.
-
-**VA health care appointments**
-[Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
-
-**Local VA health facility hours, services, and safety measures** 
-Check your facility's website for the latest updates and contact information. <br>
-[Find a VA location](https://www.va.gov/find-locations)
-
-**Appointments for VA benefits and services**
-
-Call our VA call center at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY: 800-829-4833.
+[debt, copays, and related concerns]
 
 **Debt related to VA benefits**
-Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
+Call our VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 
-**Education benefit questions**
-Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET.
+**Debt management information related to VA health care**
+Call our Health Resource Center at 888-827-4817.
 
-[Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
+**VA-backed home loans**
+Call 877-827-3702 to talk with a VA loan technician, Mon. – Fri., 8:00 a.m. to 6:00 p.m. ET.
 
-[mental health resources]
+**Support for homelessness**
+Call the National Call Center for Homeless Veterans at 877-424-3838 for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+
+**You can also:**
+
+[View your benefit payments online](https://www.va.gov/va-payment-history/) <br>
+
+[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+
+[Go to the Board of Veterans' Appeals customer service site](https://www.bva.va.gov/CustomerService.asp)
+
+[anxiety and related concerns]
 
 Here are the best ways to talk with someone about your specific mental health needs.
 
