@@ -1,4 +1,4 @@
-_**NOTE: Please make all phone numbers clickable. Thank you!**_
+_**NOTE: Please make all phone numbers clickable.**_
 
 # Page content
 
@@ -28,7 +28,7 @@ Get answers to your questions about the coronavirus COVID-19 and VA benefits and
 
 **What do you need help with today?**
 
-Please choose the topic that best fits your need.
+Please choose the topic that best fits your needs.
 
 [COVID-19 prevention](Go to 30 > 33) <br>
 [COVID-19 testing at VA](Go to 31) <br>
