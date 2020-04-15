@@ -39,12 +39,12 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 [add questions based on message bank - per below order]
 
-What steps can I take to protect myself and others from COVID-19?
-If I need to leave my house, how do I stay safe? 
-Should I wear a mask?
-When will a vaccine be out?
-If I get COVID-19, will I have immunity from getting it again?
-What is VA doing to deal with COVID-19?
+[39] What is VA doing to deal with COVID-19?
+[35] What steps can I take to protect myself and others from COVID-19?
+[34] If I need to leave my house, how do I stay safe? 
+[36] Should I wear a mask?
+[37] When will a vaccine be out?
+[38] If I get COVID-19, will I have immunity from getting it again?
 
 [Start over button]
 
@@ -129,9 +129,11 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 Will my benefit payment be delayed because of COVID-19?
 My school changed all classes to online, Will I still qualify for my GI bill benefits? 
+Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
 Are VA regional offices closed? 
 How can I stay updated on regional office closures or service interruptions?
 How can I contact my local regional office? 
+What if I had or need an in-person appointment for VA benefits or services?
 
 [Start over button]
 
@@ -450,6 +452,44 @@ We offer many programs and services that may help—including free health care a
 - **Contact your nearest VA medical center** and ask to talk with a VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager.
 [Find the nearest VA medical center](https://www.va.gov/find-locations/)
 
+#### 50. Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
+
+Yes, we're still doing exams to rate potential disabilities, diagnose health conditions, and determine service-connected disabilities. We’re doing many exams virtually by phone, videoconference, or online. We’re also doing more records reviews using Acceptable Clinical Evidence (ACE). This means we’ll review your existing medical records instead of requiring an in-person or telehealth exam.
+
+**If your claim requires an in-person exam and we can’t conduct the exam in person**
+
+We’ll contact you to reschedule for a later date. Please make sure we have your up-to-date mailing address, phone number, and email address. <br>
+[Update your contact information online](https://www.va.gov/change-address/)
+
+If you have questions or would like to proactively reschedule, please contact us as soon as possible. Call your VA medical center or health facility, or [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to your VA provider. 
+
+**If you have an in-person exam scheduled with a non-VA provider we’ve contracted with to do your exam**
+
+To increase our ability to do more claim exams, we’ve contracted with certain trusted health care providers across the country to conduct exams in non-VA locations. 
+
+If you have an exam appointment with a contracted provider, they may still conduct the exam while taking steps to ensure your and their staff's safety. 
+
+If you feel unsafe going to an in-person exam, we can put your exam on hold until it can be rescheduled. We won’t deny a claim solely for failure to report for an exam at this time. If you have questions or need to request a hold, please contact the non-VA provider directly.
+
+**If you've completed your claim exam**
+
+[Sign in  to track your VA claim status online](https://www.va.gov/?next=%2Ftrack-claims)
+
+#### 51. What if I had or need an in-person appointment for VA benefits or services?
+
+We’ve temporarily closed our regional offices to the public and stopped in-person appointments. But we’re using virtual services to hold appointments by telephone or online video through VA Video Connect or other approved video meeting tools. Once your video appointment is scheduled, you’ll receive a VA Video Connect link.
+
+We’ll work with you to change your in-person appointment to a virtual appointment for benefits and services such as:
+
+- Home loans
+- Specially Adapted Housing grants
+- Vocational Rehabilitation and Employment (VR&E)
+- Chapter 36 educational counseling
+- Fiduciary
+- Military service coordinators
+
+Please work with your VA representative to reschedule appointments. If you have questions, call us at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+
 ------
 
 ## 28. What would you like to do next?
@@ -559,13 +599,13 @@ Here are the best ways to talk with someone about your specific benefit and clai
 
 **Appointments for VA benefits and services**
 
-Call our VA call center at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call us at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
 Call the VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
 
 **Education benefit questions**
-Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
+Contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
 
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
