@@ -35,7 +35,7 @@ If you have more questions about your symptoms, we're here to help.
 - **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
-If you'd like to talk to someone about your general COVID-19 questions, you can call MyVA311 at 844-698-2311.
+If you'd like to talk to someone about your general COVID-19 questions, you can call MyVA311 at [844-698-2311](tel:+18446982311).
   `,
 
   /* CDC msg2: Call 911 - You may be having a medical emergency. */
