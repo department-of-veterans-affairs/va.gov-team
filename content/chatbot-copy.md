@@ -15,101 +15,25 @@ You can use this tool to quickly get answers to your questions about the coronav
 
 ------
 
-[NOTE: Removed # 3]
-
-## 4. Handoff & VA-specific ending message for CDC Symptom Checker
-
-**[handoff message]**
-
-##### Visit the CDC Coronavirus Self-Checker tool
-
-The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care.
-
-[Go to CDC Coronavirus Self-Checker](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) <br>
-
-[Go back]
-
-**[VA-specific ending messages]**
-
-**[IF user receives CDC "Call 911 - You may be having a medical emergency." message]**
-
-**Remember:** For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
-
-**[IF user receives CDC "Urgent medical attention may be needed. Please go to the Emergency Department" message]**
-
-[Find your nearest VA health facility with emergency care](https://www.va.gov/find-locations/)
-
-**Remember:** For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
-
-**[IF user receives CDC "Contact a healthcare provider in the long-term care facility where you live" message]**
-
-If you have non-urgent questions, you can [send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-
-We're taking many precautions to help protect Veterans in our VA nursing homes. This include limiting outside visitors. <br>[Learn more about steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
-
-**[IF user receives CDC "Stay home and take care of yourself in home isolation. Call a medical provider within 24 hours" message]
-
-**To contact your VA provider or request a telehealth visit by phone or video, you can:**
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
-
-**If you decide to go to a VA facility for urgent care**
-
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
-[Find a VA location](https://www.va.gov/find-locations)
-
-Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
-
-**{IF user receives CDC "Stay home and take care of yourself. Call your provider if you get worse" message]**
-
-**If you have questions for your VA provider, or would like to request a telehealth visit by phone or video, you can:**
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
-
-**If you think you need urgent care (within 24 to 48 hours)**
-
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
-[Find a VA location](https://www.va.gov/find-locations)
-
-Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
-
-**[IF user receives CDC "Sounds like you are feeling ok" message]**
-
-If you have more questions about your symptoms, we're here to help.
-
-**To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
-
-- **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
-- **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
-
-If you'd like to talk to someone about your general COVID-19 questions, you can call MyVA311 at 844-698-2311.
-
-**[IF user receives CDC "Pease make a selection so I can help give you care advice" message]**
-
-If you'd prefer to get information about the coronavirus COVID-19 and VA health care, benefits, and services, you can start over and choose another topic.
-
-[Start over]
-
-------
-
-## 5. What do you need help with today?
+## 4. What do you need help with today?
 
 **What do you need help with today?**
 
 Please choose the topic that best fits your need. If you want to choose another topic later, you can always start over. <br>
 
-[Coronavirus COVID-19 prevention](Go to 34 > 37)
-[COVID-19 testing at VA](Go to 35 > 12)
-[My current COVID-19 symptoms](Go to 43 > 3)
+[Coronavirus COVID-19 prevention](Go to 30 > 33) <br>
+[COVID-19 testing at VA](Go to 31) <br>
+[My current COVID-19 symptoms](Go to 39 > 3) <br>
 [Health care, appointments, and prescriptions](Go to 5 > 9) <br>
-[Mental health concerns](Go to 9 > 15) <br>
-[Benefits and claims](Go to 10 > 16)
+[Debt, copays, and other financial concerns](Go to 32 > 46)
+[Anxiety and related concerns](Go to 6 > 10) <br>
+[Benefits and claims](Go to 7 > 11)
 
 ------
 
-### Coronavirus COVID-19 prevention
+### 30. > 33. COVID-19 prevention
+
+**What question can we answer for you first?**
 
 Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
@@ -125,8 +49,32 @@ What is VA doing to deal with COVID-19?
 [Start over button]
 
 ------
+### 31. COVID-19 testing at VA
 
-### 8. > 13. Health care, appointments, and prescriptions, What question can we answer for you first?
+**Can I be tested for coronavirus COVID-19 at VA?**
+
+**This depends on many factors, including your:**
+- Symptoms and their severity
+- Other existing illnesses or conditions
+- Possible exposure
+
+We're currently testing Veterans who meet the [CDC criteria for testing](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). 
+
+------
+
+#### 39. > 3. My current COVID-19 symptoms (handoff to COVID self-checker)
+
+**Visit the CDC Coronavirus Self-Checker tool**
+
+The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care.
+
+[Go to CDC Coronavirus Self-Checker](go to self-checker)
+
+_[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/content) for content within self-checker tool]
+
+------
+
+### 5. > 9. Health care, appointments, and prescriptions, What question can we answer for you first?
 
 ##### Health care, appointments, and prescriptions
 
@@ -140,11 +88,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 ------
 
-### [NOTE: REMOVED 11. > 14. VA's COVID-19 response]
-
-------
-
-### 35. > 49. Debt, copays, and other financial concerns
+### 32. > 46. Debt, copays, and other financial concerns
 
 **What question can we answer for you first?**
 
@@ -161,7 +105,7 @@ How do I get help if I'm homeless or at risk of becoming homeless?
 
 ------
 
-### 9. > 15. Anxiety and related concerns, What question can we answer for you first?
+### 6. > 10. Anxiety and related concerns, What question can we answer for you first?
 
 ##### Anxiety and related concerns
 
@@ -175,7 +119,7 @@ How can I ask for a new mental health appointment?
 
 [Start over button]
 
-### 10. > 16. Benefits and claims, What question can we answer for you first?
+### 7. > 11. Benefits and claims, What question can we answer for you first?
 
 ##### Benefits and claims
 
@@ -195,7 +139,7 @@ How can I contact my local regional office?
 
 # QUESTION BANK
 
-#### 12. What should I do if I have an upcoming VA health appointment?
+#### 8. What should I do if I have an upcoming VA health appointment?
 
 ##### For scheduled procedures
 
@@ -211,45 +155,26 @@ We recommend using telehealth to visit your provider by phone or video. You can 
 
 Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). 
 
-#### 17. Can I be tested for coronavirus COVID-19 at VA?
-
-**This depends on many factors, including your:**
-- Symptoms and their severity
-- Other existing illnesses or conditions
-- Possible exposure
-
-We're currently testing Veterans who meet the [CDC criteria for testing](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). 
-
-#### 18. What should I do if I have a community care appointment?
-
-Please contact your community care (non-VA) provider directly before going to your appointment. Some providers' hours or services may be affected by current CDC and local health department guidelines. 
-
-##### If your community care provider cancels your appointment
-
-Work with the provider to reschedule. We're extending VA authorizations for community care referrals during this time.
-
-If you have concerns about rescheduling your appointment, [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your VA provider.
-
-#### 19. What is VA doing to deal with COVID-19?
+#### 13. What is VA doing to deal with COVID-19?
 
 We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.<br>
 [Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
 
-#### 20. How do I reschedule or cancel my upcoming VA appointment? 
+#### 14. How do I reschedule or cancel my upcoming VA appointment? 
 
 Sign in to your VA.gov account to [reschedule or cancel your appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/).
 
 **Note:** Some clinics are asking patients to not reschedule or schedule new appointments for some types of routine care so they can protect both patients and staff. The situation is changing quickly. For the latest information, please check your local VA health facility’s website. <br>
 [Find a VA location](https://www.va.gov/find-locations/) 
 
-#### 21. Can I get a referral to see a community care provider if I can't be seen at VA?
+#### 15. Can I get a referral to see a community care provider if I can't be seen at VA?
 
 This depends on your needs. We’re continuing to make community care referrals. But we’re prioritizing referrals for urgent or other medically necessary care. And some community care providers' hours or services may be affected by CDC and local health department guidelines.
 
 **Please remember:** You need VA approval for all community care appointments, except for emergency and urgent care needs. Getting a referral depends on eligibility, type of care, and other factors. At this time, community care eligibility requirements haven't changed. <br>
 [Learn about eligibility for community care](https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp)
 
-#### 22. What if I tried to call my clinic and I can't get through?
+#### 16. What if I tried to call my clinic and I can't get through?
 
 We apologize if you can't get through or are on hold for a long time. We’re currently receiving a very high number of calls, and we're working hard to handle the increase. 
 
@@ -258,7 +183,7 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 - **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
-#### 23. What should I do if I need to refill my prescription?
+#### 17. What should I do if I need to refill my prescription?
 
 Please request refills as soon as possible, but no later than 10 days before you run out of your current prescription.
 
@@ -284,7 +209,17 @@ Please request refills as soon as possible, but no later than 10 days before you
 
 We’re temporarily allowing evaluations through telehealth (phone or video) appointments. To request a telehealth appointment, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-#### 24. Can I use emergency care?
+#### 17. What should I do if I have a community care appointment?
+
+Please contact your community care (non-VA) provider directly before going to your appointment. Some providers' hours or services may be affected by current CDC and local health department guidelines. 
+
+##### If your community care provider cancels your appointment
+
+Work with the provider to reschedule. We're extending VA authorizations for community care referrals during this time.
+
+If you have concerns about rescheduling your appointment, [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your VA provider.
+
+#### 18. Can I use emergency care?
 
 ##### If you have a life-threatening medical emergency
 
@@ -307,12 +242,12 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 - Sprains or strained muscles from sports or exercise
 - Minor cuts and injuries
 
-#### 25. How do I know if my VA health facility is still open for regular appointments? 
+#### 19. How do I know if my VA health facility is still open for regular appointments? 
 
 The situation is changing quickly during this time. To get the latest information, please check your local VA health facility’s website. <br>
 [Find a VA location](https://www.va.gov/find-locations/)
 
-#### 26. I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
+#### 20. I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
 
 First, know that you're not alone, and we can help. 
 
@@ -325,7 +260,7 @@ Many people feel stress about COVID-19. These steps may help:
 - **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
 
-#### 27. How can I ask for a new mental health appointment?
+#### 21. How can I ask for a new mental health appointment?
 
 **If you’re already using VA medical services**
 
@@ -344,8 +279,7 @@ If you have hearing loss, call TTY 800-877-8339.
 
 [Learn more about getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
 
-
-#### 28. Can I visit a patient at a VA facility?
+#### 22. Can I visit a patient at a VA facility?
 
 ##### For VA nursing homes, and spinal cord and disorder centers
 
@@ -359,7 +293,7 @@ At this time, we ask that you postpone your visit. This helps us protect older V
 
 [Visit the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more tips on stopping community spread.
 
-#### 29. Will my benefit payment be delayed because of COVID-19?
+#### 23. Will my benefit payment be delayed because of COVID-19?
 
 No. We’re currently processing all benefit payments as normal. This includes:
 - Disability payments
@@ -369,7 +303,7 @@ No. We’re currently processing all benefit payments as normal. This includes:
 
 [View your VA benefit payments online](https://www.va.gov/va-payment-history/)
 
-#### 30. My school changed all classes to online. Will I still qualify for my GI bill benefits? 
+#### 24. My school changed all classes to online. Will I still qualify for my GI bill benefits? 
 
 Yes. If you’re currently receiving GI Bill benefits, payments will continue automatically. You don’t have to do anything. 
 
@@ -377,7 +311,7 @@ We’re working closely with schools to ensure enrollments are accurately certif
 
 For specific questions, contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY 711.
 
-#### 31. Are VA regional offices closed? 
+#### 25. Are VA regional offices closed? 
 
 Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits. This decision is based on current CDC guidelines to prevent community spread of the coronavirus COVID-19. 
 
@@ -389,7 +323,7 @@ We can still support you with educational counseling, claims information, and ot
 
 **For other benefit questions,** send a question to our online customer service tool called [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
-#### 32. How can I stay updated on regional office closures or service interruptions? 
+#### 26. How can I stay updated on regional office closures or service interruptions? 
 
 For the latest status of our regional offices and other benefit services, you can:
 
@@ -399,13 +333,13 @@ For the latest status of our regional offices and other benefit services, you ca
   - [VBA Facebook](https://www.facebook.com/VeteransBenefits)
   - VBA Twitter: [@VAVetBenefits](https://twitter.com/VAVetBenefits)
 
-#### 33. How can I contact my local regional office? 
+#### 27. How can I contact my local regional office? 
 
 Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. Our regional office staff is still providing benefits help by phone and video.
 
 If you have hearing loss, call TTY: 800-829-4833.
 
-#### 37. If I need to leave my house, how do I stay safe? 
+#### 34. If I need to leave my house, how do I stay safe? 
 
 Follow these steps to stay safe when you need to go out to the store, pharmacy, or other needed trip:
 
@@ -416,7 +350,7 @@ Follow these steps to stay safe when you need to go out to the store, pharmacy, 
 - Try to wipe down frequently touched items, like door handles. 
 - If you go through a store and touch things while you're there, either wash your hands with soap and water or use hand sanitizer.  
 
-#### 38. What other steps can I take to protect myself and others? 
+#### 35. What other steps can I take to protect myself and others? 
 
 First, you can stay home and away from other people as much as possible. This includes taking these steps:
 
@@ -441,26 +375,26 @@ If you or someone you live with have symptoms of, or are diagnosed with, COVID-1
 11.	Clean all "high-touch" surfaces with household cleaning spray every day, including light switches, counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, remotes, and bedside tables. Also, clean any surfaces that may have blood, stool, or body fluids on th
 
 
-#### 39. Should I wear a mask?
+#### 36. Should I wear a mask?
 
 CDC recommends that everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities.
 Cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
 
-#### 40. When will a vaccine be out?
+#### 37. When will a vaccine be out?
 
 An announcement was made by the NIH (National Institute of Health) on March 16, 2020 about an investigational vaccine. The first dose was given that day. 
 
 We can't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
 
-#### 41. If I get COVID-19, will I have immunity from getting it again?
+#### 38. If I get COVID-19, will I have immunity from getting it again?
 
 We don’t yet know. Based on experiences with past viruses, exposure will likely lead to a level of immunity. But we'll need time to see if that holds true for COVID-19. 
 
-#### 43. Will my COVID-19 stimulus check lower my VA payments?
+#### 40. Will my COVID-19 stimulus check lower my VA payments?
 
 No. We won’t count any money received as part of the COVID-19 stimulus package as income for VA pension or parent Dependency and Indemnity Compensation (DIC) beneficiaries. This means your payments will stay the same.
 
-#### 44. What if I can't pay my existing VA debt?
+#### 41. What if I can't pay my existing VA debt?
 
 As of April 3, 2020, we’ve taken action to stop collection on newly established Veteran debt and make it easier for Veterans to request extended repayment plans and address other needs during this time. Please check back regularly for updates.
 
@@ -475,7 +409,7 @@ We’ll work with you to decide whether you’d prefer us to temporarily stop co
 - **If you have debt related to VA benefits,** please contact the VA Debt Management Center at 800-827-0648 to make arrangements. We’re here Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
 - **If you have debt related to VA health care,** please contact the Health Resource Center at 888-827-4817 to make arrangements. Be sure to have your account number ready.
 
-#### 45. What if I'm having trouble paying my VA-backed home loan during this time?
+#### 42. What if I'm having trouble paying my VA-backed home loan during this time?
 
 If you’re experiencing financial hardship directly or indirectly caused by COVID-19, you can request forbearance from your mortgage company. This allows you to delay payments on your loan for a period of time. 
 
@@ -483,11 +417,11 @@ To request forbearance, contact the mortgage company that collects your payments
 
 [Learn more about how we can help you avoid foreclosure](https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/)
 
-#### 45. Will I still have to pay my VA copays during the pandemic?
+#### 43. Will I still have to pay my VA copays during the pandemic?
 
 As of April 6, 2020, we’ve stopped sending monthly copay billing statements for all Veterans. This means you won’t receive a bill for any copays during this time. Please check back regularly for updates.
 
-#### 47. What if I've been diagnosed with COVID-19 and need immediate action on my VA appeal?
+#### 44. What if I've been diagnosed with COVID-19 and need immediate action on my VA appeal?
 
 The Board of Veterans' Appeals will offer you a priority review to move your appeal to the front of the line. This is called “Advanced on the Board of Veterans’ Appeals Docket” (or AOD). <br>
 
@@ -495,7 +429,7 @@ The Board of Veterans' Appeals will offer you a priority review to move your app
 
 [Check your VA claim or appeal status online](https://www.va.gov/claim-or-appeal-status/)
 
-#### 48. How do I get help if I'm homeless or at risk of becoming homeless?
+#### 45. How do I get help if I'm homeless or at risk of becoming homeless?
 
 We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
 
@@ -511,9 +445,9 @@ We offer many programs and services that may help—including free health care a
 
 Ask another [shortened topic name - see below] question [29 - go back to topic questions list]
 
-Ask a different type of question [48 - no screen; just go back to topics list]
+Ask a different type of question [47 - no screen; just go back to topics list]
 
-Connect with a call center representative [go to 30]
+Connect with a call center representative [go to 48]
 
 Nothing. I don't need more information. [go to 49]
 
