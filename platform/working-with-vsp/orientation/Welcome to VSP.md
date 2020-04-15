@@ -99,7 +99,7 @@ Both manually and through automated tests, ensure your solution is doing what yo
 
 ### ATO
 
-You'll need to ensure the solution you're building has the authority to operate (ATO). [Here's what to expect, and how to request an ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md).
+You'll need to ensure the solution you're building has the authority to operate (ATO).
 
 ### Security
 

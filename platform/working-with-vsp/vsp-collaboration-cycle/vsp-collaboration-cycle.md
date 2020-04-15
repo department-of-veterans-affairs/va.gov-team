@@ -368,6 +368,7 @@ Ensure your feature meets VSP's privacy and security standards.
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
+- Once VFS team has complete those action items, assign the security review issue back to @gunsch, who will confirm completion and close out the issue, signalling approval of the security review.
 
 ### Meeting attendees 
 - VFS brings:

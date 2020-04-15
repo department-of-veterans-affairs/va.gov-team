@@ -34,11 +34,10 @@ We support engineers by providing resources and guidance to enable them to creat
 ## <a id="bestpractices"></a>VA.gov engineering resources
 
 ## <a id="whentorequest"></a>Engineering reviews
-**There are several types of reviews that involve the engineering team**
+**There are multiple types of reviews that involve the engineering team**
 
-1. A Security Review, which must be completed before the project can be launched. [Guidelines](../security/security-review-process.md)
-2. A Personally Identifying Information (PII) Review [Guidelines](./pii-guidelines.md), which should happen early in the development process
-3. On-going code reviews in each pull-request. [Guidelines](./code_review_guidelines.md) These reviews should happen after the code has been reviewed by another member of your team and before it is merged into the platform
+1. A Security, Privacy, and Production readiness Review, which must be completed before the project can be launched. [Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)
+1. On-going code reviews in each pull-request. [Guidelines](./code_review_guidelines.md) These reviews should happen after the code has been reviewed by another member of your team and before it is merged into the platform
 
 ## <a id="feedback"></a>Other ways to get VSP engineering feedback
 

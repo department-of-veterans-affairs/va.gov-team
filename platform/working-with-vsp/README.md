@@ -1,11 +1,8 @@
 # Decisions we've made about managing external teams
 
 * [External team access to tools](external-team-access.md)
-* [ATO and security](ato-security.md)
 * [Logging and monitoring](logging-monitoring.md)
 * [Tracking and workflow](#tracking-requirements-and-workflow)
-* See [Questions to be answered](questions.md)
-* See [In-progess POVs (not yet decided)](in-progress-povs)
 
 <hr/>
 
@@ -29,7 +26,7 @@ If external teams decide to use Jira, DSVA needs to work out access details with
 
 ### Contractor to Contractor communication
 
-[See the norms we've established](https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Norms/norms-communication.md)
+[See the norms we've established](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md)
 
 * We've decided to monitor the situation and respond as things come up.
 * We've decided Mary will think about the following for future contracts.
@@ -42,6 +39,3 @@ DSVA is working on this now.
 
 - One initial idea related to intake (per Liz): if someone new wants to build, they need to have a plan in place for how what they create will be maintained. Might need definition around if upstream team DOES prioritize something that "our" team would need to maintain, then "we" 
 - RISK: the idea of "one team builds, and another team maintains" is not ideal, and is one of the key problems w/current state of govt contracting. Is it possible to sway the approach we recommend to encourage a structure where the team that builds something is the same team that maintains it?
-
-
-
