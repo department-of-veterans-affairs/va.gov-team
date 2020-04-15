@@ -123,7 +123,7 @@ Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-
 emergency_care: `
 ##### If you have life-threatening medical emergency
 
-Call 911 or go to your nearest ER. For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
+Call [911](tel:+1911) or go to your nearest ER. For emergencies, you don’t need a referral or approval from VA to go to a non-VA ER in your community.
 
 **Symtoms that may require emergency care include:**
 - Chest pain
