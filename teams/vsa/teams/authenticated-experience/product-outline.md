@@ -14,7 +14,7 @@
 
 ## Overview
 
-The authenticated experience team aims to create a world-class logged-in experience for veterans and their communities on VA.gov (for more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)). This product outline goes into detail around more specific goals, thinking, and metrics that guide our work.  
+The authenticated experience team aims to create a world-class logged-in experience for veterans and their communities on VA.gov (for more on our vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)). This product outline goes into detail around the goals, thinking, and metrics that guide our work.  
 
 ## User problem statements 
 
