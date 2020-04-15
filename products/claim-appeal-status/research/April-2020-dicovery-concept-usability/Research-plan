@@ -1,30 +1,36 @@
-# Logged in homepage: Research needs
+# Claim Status Tool: Research plan
 
-This doc outlines our research/discovery needs for the new logged in homepage. Given that Samara and Clarice's availability is limited, we're hoping a clear outline will help us figure out what parts of this discovery phase can be managed by us and where we might need to bring in additional resources.
+This doc outlines our research/discovery needs for the new Claim Status Tool. By Christian Valla
 
 ## Project background
 
-Prior to the launch of the redesigned VA.gov in November 2018, the logged in homepage on Vets.gov was a personalized dashboard that allowed veterans to view their in-progress applications, claims, messages, and prescriptions. When the new VA.gov launched, this dashboard was renamed My VA and moved to a different location; users' logged in homepage remained the same as the logged out homepage.
+The Claim Status Tool was launched approximately 3 years ago and only minor changes has been done since. This tool is used often, some chack it every day, by millions of users. We see this as a great opportunity to create a great user experience for veterans depending on this tool. 
 
-As time has gone on, My VA has grown but scaled poorly due to the structure set by the MVP. Additionally, the logged in homepage and My VA compete for veteran attention and focus because they are largely redundant of each other. What differs is their approach — the logged in homepage is primarily a router, while My VA is very much a dashboard.
+Very little research has been done on this tool. What has been done is shared here: [research we did over the summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
 
-Through [research we did over the summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md), we determined that it's time to revisit both My VA and the logged in homepage. [We have proposed conslidating these two pages into one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#key-takeaway-we-need-to-revisit-our-my-va-logged-in-homepage-approach) by getting rid of My VA altogether and treating the logged-in homepage as a user's personalized landing pad and router. 
+We would like to do research in 4 phases:
+1. Previous work review (very little, so this will be minimal) including a detailed mapping of the current tool.
+2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into hoe other companies / organizations are dealing with (claim) status tracking. 
+3. Usability test of excisting claim status tool (if applicable: include early concepts to test).
+4. Concept testing and usability testing of the new claim status tool. 
 
-While we're sure of what we want to do, the exact approach is still undefined. We would like to complete a discovery phase in order to help us better define user behavior, expectations, and needs, as well as stakeholder needs.
+## Product questions
 
-## Product questions we're trying to answer
+How to create a better Claim Status Tool, that does what the current tool does, better, but also look into how this tool can be pushed further, and open up for not only better user experience, but potentially broaden the scope and possibilities of such a tool. 
+Understand what users needs and wants from such a tool. 
+Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
+Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
+Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
+Learn about: 
+- What people want to accomplish when they come to the current claim status tool? 
+- What would they like to accomplish that they cant now?  
+- What are the painpoints and limitations of the current tool? 
+- What are working well with the current tool? 
+- How can current tool be improved? 
+- How can the claim status tool be redefined, to create a better and more efficien
 
-We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
 
-To help us figure this out, we'd like to better understand:
 
-- Why people come to VA.gov.
-- What people do on VA.gov
-- How people move through the site.
-- How people use the homepage.
-- How people use My VA.
-- Areas for improvement for existing functionality.
-- How people's experience with the site might change if we had a proper notification system.
 
 ## Research needs
 
