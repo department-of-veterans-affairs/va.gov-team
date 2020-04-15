@@ -68,8 +68,13 @@ _This is a work in progress_
 
 - Low effort 
   - Configure downtime for all of the forms
-  - Review / update default messaging for forms 
+  - Remove custom downtime messaging for forms 
 - Medium effort 
-  - Add downtime behavior to static pages widgets 
-  - Display sitewide downtime messaging 
-  
+  - Update DowntimeNotification component to meet design specifications 
+  - Mandate usage of DowntimeNotification component (no custom downtime display behavior)
+  - Fix upcoming downtime behavior on forms 
+  - Add downtime behavior to static pages signin widget
+  - Provide trigger for sitewide messaging (i.e. integrate it with the pager duty global downtime, remove manually configured dates from promo banner) 
+  - Update sitewide messaging to meet design specifications 
+  - Consolidate downtime triggers (i.e. apps should use a single config published to S3) 
+ 
