@@ -38,12 +38,12 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 * X participants
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
 
-#### March 03 - March 13, 2020: Support channels log analysis 
+#### CMS support channels log analysis 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
 
-* VA CMS Suppor Email and #cms-support Slack
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)
+* [January - February 2020](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)
+* [WIP] March - April 2020
 
 #### [WIP] February XX - March XX, 2020: Content proofing usability study 
 
