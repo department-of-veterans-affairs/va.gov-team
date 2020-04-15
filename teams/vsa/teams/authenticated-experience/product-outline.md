@@ -90,3 +90,4 @@ Creating a cohesive logged-in experience will:
 - Reduce the amount of people who call in to the call center for status updates on claims and other information.
 - Reduce the amount of time it takes to complete tasks in the authenticated experience.
 - Increase the amount of people who navigate to tools via the logged-in homepage and logged in navigation.
+- Increase in the amount of VA partners who want to build on VA.gov instead of building one-off tools.
