@@ -17,7 +17,7 @@
 
 ### Goals
 
-The authenticated experience on then-Vets.gov originated in early 2018. Since we transitioned to VA.gov in late 2018, we  have largely left this experience untouched, instead focusing primarily on other feature development/enhancement. 
+The authenticated experience on then-Vets.gov originated in early 2018. Since we transitioned to VA.gov in late 2018, we  have  left this experience largely untouched, instead focusing primarily on other feature development/enhancement. 
 
 This has left us in a position where we don't have much of an authenticated experience, especially compared to the robustness of the unauthenticated experience. Our logged in experience doesn't meet user needs and expections, and it has left VA.gov teams without a way to guide logged-in users to tools and task. 
 
