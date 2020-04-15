@@ -7,9 +7,9 @@ Veteran-facing services (VFS) teams are responsible for configuring and managing
 For more in depth technical knowledge, this [Sentry README](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md#runningtesting-sentry-locally) defines the technical, architectural, and configuration details related to Sentry.
 
 # Current Versioning
-Our current version of Sentry is 9.1.2. 
+Our current version of Sentry is `9.1.2`. 
 
-Note: Sentry 10.0 is the latest version of Sentry. The new version is on the horizon, but cannot be upgraded until the Operations team implements their new infrastructure recommit. Details [here](https://github.com/department-of-veterans-affairs/va.gov-team/pull/7989) 
+Note: Sentry `10.0` is the latest version of Sentry. The new version is on the horizon, but cannot be upgraded until the Operations team implements their new infrastructure recommit. Details [here](https://github.com/department-of-veterans-affairs/va.gov-team/pull/7989) 
 
 # Getting started
 In order to access Sentry, you need to configure the SOCKS proxy. The setup details can be found in the [Internal Tools Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md).
