@@ -1,4 +1,14 @@
-_**NOTE: Please make all phone numbers clickable.**_
+# Notes
+
+**Notes on content sources:**
+
+- Content in the **COVID-19 prevention** section is sourced from the MyVA311 IVR and the CDC website.
+- Content in the question **How can I ask for a new mental health appointment?** is sourced from https://www.va.gov/health-care/health-needs-conditions/mental-health/
+- All other content is sourced from https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
+
+Content has been revised to align with chatbot tone and space limitations.
+
+**Note for develpers: Please make all phone numbers clickable.**
 
 # Page content
 
@@ -517,7 +527,7 @@ Ask a different type of question [47 - no screen; just go back to topics list]
 
 Talk with someone about my specific needs [go to 48]
 
-Nothing. I don't need more information. [go to 49]
+Nothing. I have the information I need. [go to 49]
 
 [shortened topic name list]
 health care
@@ -627,7 +637,7 @@ Contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
 ------
-## 49. Nothing. I don't need more information.
+## 49. Nothing. I have the information I need.
 
 Thank you for using our VA coronavirus chatbot. If you have more questions later, you can use the chatbot again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
 
