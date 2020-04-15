@@ -1,12 +1,21 @@
+_**NOTE: Please make all phone numbers clickable. Thank you!**_
+
+# Page content
+
+[page h1]
+
+# VA coronavirus chatbot
+
+[page intro]
+Get answers to your questions about the coronavirus COVID-19 and VA benefits and services below. 
+
+------
+
 # 1. START
 
 ## 2. Welcome and emergency warning symptoms
 
-[Good morning/Good afternoon/Good evening], [NAME].
-
-You can use this chatbot to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
-
-**If you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
+**Before we get started, if you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
 - Trouble breathing
 - Persistent (continuing) pain or pressure in the chest
 - Bluish lips or face
@@ -19,15 +28,17 @@ You can use this chatbot to quickly get answers to your questions about the coro
 
 **What do you need help with today?**
 
-Please choose the topic that best fits your need. If you want to choose another topic later, you can always start over. <br>
+Please choose the topic that best fits your need.
 
-[Coronavirus COVID-19 prevention](Go to 30 > 33) <br>
+[COVID-19 prevention](Go to 30 > 33) <br>
 [COVID-19 testing at VA](Go to 31) <br>
 [My current COVID-19 symptoms (CDC self-checker tool)](Go to 39 > 3) <br>
 [Health care, appointments, and prescriptions](Go to 5 > 9) <br>
-[Debt, copays, and other financial concerns](Go to 32 > 46)
-[Benefits and claims](Go to 7 > 11)
+[Debt, copays, and other financial concerns](Go to 32 > 46) <br>
+[Benefits and claims](Go to 7 > 11) <br>
 [Anxiety and related concerns](Go to 6 > 10) <br>
+
+**Note:** If you want to choose another topic later, you can always start over. And if we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
 
 ------
 
@@ -64,13 +75,13 @@ We're currently testing Veterans who meet the [CDC criteria for testing](https:/
 
 #### 39. > 3. My current COVID-19 symptoms (handoff to COVID self-checker)
 
-**Visit the CDC Coronavirus Self-Checker tool**
+**CDC coronavirus self-checker tool**
 
-The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care. If you'd like to go back to choose another topic in the VA coronavirus chatbot, you can refresh the page to start over.
+The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care. If you'd like to come back to choose another topic in the VA coronavirus chatbot, you can refresh the page to start over.
 
-[Go to CDC Coronavirus Self-Checker](go to self-checker)
+[Go to the CDC coronavirus self-checker](go to self-checker)
 
-_[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/content) for content within self-checker tool]
+_[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/content) for content within self-checker tool]_
 
 ------
 
@@ -111,6 +122,27 @@ Please choose the question that best fits your needs. You can always ask more qu
 - [44] What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?
 - [45] How do I get help if I'm homeless or at risk of becoming homeless?
 
+[Start over button]
+
+------
+
+### 7. > 11. Benefits and claims, What question can we answer for you first?
+
+##### Benefits and claims
+
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+
+[add questions based on message bank - per below order]
+
+- [23] Will my benefit payment be delayed because of COVID-19?
+- [24] My school changed all classes to online. Will I still qualify for my GI Bill benefits? 
+- [50] Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
+- [51] What if I had or need an in-person appointment for VA benefits or services?
+- [52] What if I need to turn in or sign paperwork for my claim or appeal?
+- [25] How can I work with my regional office during this time?
+
+[Start over button]
+
 ------
 
 ### 6. > 10. Anxiety and related concerns, What question can we answer for you first?
@@ -124,24 +156,6 @@ Please choose the question that best fits your needs. You can always ask more qu
 [add questions based on message bank - per below order]
 - [20] I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
 - [21] How can I ask for a new mental health appointment? 
-
-[Start over button]
-
-### 7. > 11. Benefits and claims, What question can we answer for you first?
-
-##### Benefits and claims
-
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
-
-[add questions based on message bank - per below order]
-
-- [23] Will my benefit payment be delayed because of COVID-19?
-- [24] My school changed all classes to online. Will I still qualify for my GI Bill benefits? 
-- [50] Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
-- [25] Are VA regional offices closed? 
-- [26] How can I stay updated on regional office closures or service interruptions?
-- [27] How can I contact my local regional office? 
-- [51] What if I had or need an in-person appointment for VA benefits or services?
 
 [Start over button]
 
@@ -202,7 +216,7 @@ Please request refills as soon as possible, but no later than 10 days before you
 
 **You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)
-- **Through your mobile device** with our new [Rx Refill mobile app](https://www.mobile.va.gov/app/rx-refill)** 
+- **Through your mobile device** with our new [Rx Refill mobile app](https://www.mobile.va.gov/app/rx-refill) 
 - **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your Rx number from the prescription label and Social Security number ready. 
 - **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
@@ -274,7 +288,7 @@ Many people feel stress about COVID-19. These steps may help:
 - **Stay connected and healthy.** Stay in touch with friends and family by phone and social media. Follow your normal routine as much as possible, and get enough sleep and exercise. 
 - **Keep your existing mental health appointments.** If you currently have regular sessions, [send your provider a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to request telehealth visits by phone or video.
 - **Ask for a new mental health appointment.** If you need same-day mental health care—or want to request a new appointment—call your local VA health facility.<br>
-**[Find a VA location](https://www.va.gov/find-locations)**
+[Find a VA location](https://www.va.gov/find-locations)
 - **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)**
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
 
@@ -329,35 +343,26 @@ We’re working closely with schools to ensure enrollments are accurately certif
 
 For specific questions, contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY 711.
 
-#### 25. Are VA regional offices closed? 
+#### 25. How can I work with my regional office during this time?
 
-Yes. We’ve temporarily closed all of our 56 regional offices for in-person visits. This decision is based on current CDC guidelines to prevent community spread of the coronavirus COVID-19. 
+We’ve temporarily closed all of our 56 regional offices for in-person visits due to COVID-19. 
 
 We can still answer your questions by phone or through our online customer service tool. And we can support you with needs such as educational counseling, fiduciary claims, and specially adaptive housing by phone or approved video conferencing tools. 
 
-**To get help with benefits,** call us at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
+**To get help with benefits**
+Call us at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
 
-**To check on the status of your claim or appeal,** use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
+**To check on the status of your claim or appeal**
+Use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
 
-**For other benefit questions,** send a question to our online customer service tool [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
+**For other benefit questions**
+Use our online customer service tool [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
-#### 26. How can I stay updated on regional office closures or service interruptions? 
-
-For the latest status of our regional offices and other benefit services, you can:
-
+**To stay updated on closures or services interruptions**
 - Visit the [Veterans Benefits Administration (VBA) news page](https://www.benefits.va.gov/benefits/news.asp)
-- Call the benefits hotline toll-free at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET
 - Follow us on social media:
   - [VBA Facebook](https://www.facebook.com/VeteransBenefits)
   - VBA Twitter: [@VAVetBenefits](https://twitter.com/VAVetBenefits)
-
-#### 27. How can I contact my local regional office? 
-
-Our regional office staff is still providing benefits help by phone and online.
-
-Call us toll-free at 800-827-1000, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY: 800-829-4833.
-
-Or send a question to our online customer service tool called [IRIS (Inquiry Routing & Information System)](https://iris.custhelp.va.gov/). 
 
 #### 34. If I need to leave my house, how do I stay safe? 
 
@@ -459,7 +464,7 @@ We offer many programs and services that may help—including free health care a
 **Find the support you need:**
 
 - **Call the National Call Center for Homeless Veterans** at 877-424-3838 for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
-- **Contact your nearest VA medical center** and ask to talk with a VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager.
+- **Contact your nearest VA medical center** and ask to talk with a VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
 [Find the nearest VA medical center](https://www.va.gov/find-locations/)
 
 #### 50. Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
@@ -526,7 +531,7 @@ benefits and claims
 
 [information to serve up based on topic category]
 
-[for prevention, testing, & health care, appointments, and prescriptions]
+### [for prevention + testing + health care, appointments, and prescriptions]
 
 Here are the best ways to talk with someone about your specific health care needs.
 
@@ -549,7 +554,7 @@ Call our Health Resource Center at 888-827-4817.
 **Technical questions about My HealtheVet**
 Contact the My HealtheVet help desk at 877-327-0022.
 
-[debt, copays, and related concerns]
+### [debt, copays, and related concerns]
 
 **Debt related to VA benefits**
 Call our VA Debt Management Center at 800-827-0648, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
@@ -567,11 +572,11 @@ Call the National Call Center for Homeless Veterans at 877-424-3838 for help 24 
 
 [View your benefit payments online](https://www.va.gov/va-payment-history/) <br>
 
-[Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
+[Check your claim status online](https://www.va.gov/claim-or-appeal-status/) <br>
 
 [Go to the Board of Veterans' Appeals customer service site](https://www.bva.va.gov/CustomerService.asp)
 
-[anxiety and related concerns]
+### [anxiety and related concerns]
 
 Here are the best ways to talk with someone about your specific mental health needs.
 
@@ -595,11 +600,11 @@ Call 877-927-8387 (TTY: 800-877-8339) to talk with a fellow combat Veteran about
 Contact our Veterans Crisis Line 24/7 by phone, text, or chat:
 - Call 800-273-8255 and select 1
 - Text 838255
-- Start a confidential chat
+- [Start a confidential chat](https://www.veteranscrisisline.net/get-help/chat)
 
 If you have hearing loss, call TTY 800-799-4889.
 
-[benefits and claims]
+### [benefits and claims]
 
 Here are the best ways to talk with someone about your specific benefit and claim-related needs.
 
@@ -637,12 +642,10 @@ Not 100% sure of functionality here. Could be "Back to top of chat" or "Start ov
 
 ## Error message for when user clicks on an option that no longer 
 
-We're sorry. That's not a valid option. Please choose another option. 
+We're sorry. That's not a valid option. 
 
-**What would you like to do next?**
+**Please try one of these options or refresh the page to start over:**
 - [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)
 - [Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)
 - [Request an appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/)
 - [Check your local VA health facility website](https://www.va.gov/find-locations/)
-- [Start over to ask another question](Start over)
-
