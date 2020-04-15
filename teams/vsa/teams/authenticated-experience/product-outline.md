@@ -18,10 +18,9 @@ The authenticated experience team aims to create a world-class logged-in experie
 
 ## User problem statements 
 
-- **As a veteran, I want to be able to log in to VA.gov and easily find the tools and tasks that apply to my specific experience at the VA.**
-- **As a veteran, I want to be notified of status updates and action items that apply to my specific experience at the VA.**
-- **As a veteran, I want to be able to log in to VA.gov, quickly complete whatever I came to do, and then get back to the rest of my life.**
-- **As a veteran, I want the VA to tell me what benefits I qualify for, and then help me learn about them.**
+- **As a veteran, I want to be able to log in to VA.gov, easily find the tools and tasks that apply to my specific experience at the VA, and quickly complete those tasks.**
+- **As a veteran, I want the VA to provide me with status updates, action items, and benefit info that applies to my specific circumstances instead of having to track this information down on my own.**
+- **As a veteran, I want to see myself in my VA.gov experience.**
 
 ## Business goals 
 
