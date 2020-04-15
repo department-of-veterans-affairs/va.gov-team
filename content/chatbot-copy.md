@@ -98,7 +98,7 @@ If you'd prefer to get information about the coronavirus COVID-19 and VA health 
 
 **What do you need help with today?**
 
-Please choose the topic that best fits your needs. You can always use the **Start over** button to start again and choose a different topic. <br>
+Please choose the topic that best fits your need. If you want to choose another topic later, you can always start over. <br>
 
 [Coronavirus COVID-19 prevention](Go to 34 > 37)
 [COVID-19 testing at VA](Go to 35 > 12)
@@ -111,7 +111,18 @@ Please choose the topic that best fits your needs. You can always use the **Star
 
 ### Coronavirus COVID-19 prevention
 
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
+[add questions based on message bank - per below order]
+
+What steps can I take to protect myself and others from COVID-19?
+If I need to leave my house, how do I stay safe? 
+Should I wear a mask?
+When will a vaccine be out?
+If I get COVID-19, will I have immunity from getting it again?
+What is VA doing to deal with COVID-19?
+
+[Start over button]
 
 ------
 
@@ -121,33 +132,46 @@ Please choose the topic that best fits your needs. You can always use the **Star
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
-[add questions based on decision tree/message bank]
-
-[Start over button]
-
-### 11. > 14. VA's COVID-19 response, What question can we answer for you first?
-
-##### VA's COVID-19 response
-
-**What question can we answer for you first?**
-
-Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
-
-[add questions based on decision tree/message bank]
+[add questions based on message bank - order tbd based on decision re: approach]
 
 [Start over button]
 
-### 9. > 15. Mental health concerns, What question can we answer for you first?
+------
 
-##### Mental health concerns
+### [NOTE: REMOVED 11. > 14. VA's COVID-19 response]
+
+------
+
+### 35. > 49. Debt, copays, and other financial concerns
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
-[add questions based on decision tree/message bank]
+[add questions based on message bank - per below order]
+
+Will my COVID-19 stimulus check lower my VA payments?
+What if I can’t pay my existing VA debt?
+What if I’m having trouble paying my VA-backed home loan during this time?
+Will I still have to pay my VA copays during the pandemic?
+What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?
+How do I get help if I'm homeless or at risk of becoming homeless?
+
+------
+
+### 9. > 15. Anxiety and related concerns, What question can we answer for you first?
+
+##### Anxiety and related concerns
+
+**What question can we answer for you first?**
+
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+
+[add questions based on message bank - per below order]
+I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
+How can I ask for a new mental health appointment? 
 
 [Start over button]
 
@@ -155,11 +179,15 @@ Please choose the question that best fits your needs. You can always ask another
 
 ##### Benefits and claims
 
-**What question can we answer for you first?**
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
-Please choose the question that best fits your needs. You can always ask another question if you need more information. <br>
+[add questions based on message bank - per below order]
 
-[add questions based on decision tree/message bank]
+Will my benefit payment be delayed because of COVID-19?
+My school changed all classes to online, Will I still qualify for my GI bill benefits? 
+Are VA regional offices closed? 
+How can I stay updated on regional office closures or service interruptions?
+How can I contact my local regional office? 
 
 [Start over button]
 
@@ -379,47 +407,115 @@ If you have hearing loss, call TTY: 800-829-4833.
 
 #### 37. If I need to leave my house, how do I stay safe? 
 
-#### 38. What else can I do to protect myself beside washing hands and covering cough and sneezes?
+Follow these steps to stay safe when you need to go out to the store, pharmacy, or other needed trip:
+
+- Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
+- Wear a cloth face cover. Don't wear a mask that's meant for a healthcare worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
+- Avoid anyone who appears sick.
+- Avoid touching your face.
+- Try to wipe down frequently touched items, like door handles. 
+- If you go through a store and touch things while you're there, either wash your hands with soap and water or use hand sanitizer.  
+
+#### 38. What other steps can I take to protect myself and others? 
+
+First, you can stay home and away from other people as much as possible. This includes taking these steps:
+
+1. Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
+2. If possible, reduce going go to work, school, or other public areas. 
+3. Avoid using public transportation, ridesharing, or taxis. 
+ 
+You can also take these protective steps:
+First, you should stay home except to get medical care. Call ahead use secure messaging on MyHealtheVet your provider using MyHealtheVet before going in person to visit your doctor. This will decrease exposure risk to you and to others. 
+1. Wear a facemask when you are around other people or pets or before entering your provider’s office. 
+2. Clean your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains at least 60 percent alcohol. 
+3. Cover your coughs and sneezes with a tissue and discard the tissue. 
+
+If you or someone you live with have symptoms of, or are diagnosed with, COVID-19:
+
+1. Separate yourself from other people and animals in your home. 
+2. Do not handle pets or other animals while sick unless you need a service animal.  
+3. 
+8.	
+9.	
+10.	Avoid sharing personal household items such as dishes, eating utensils, towels, and bedding. Wash these items with soap and water after use. 
+11.	Clean all "high-touch" surfaces with household cleaning spray every day, including light switches, counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, remotes, and bedside tables. Also, clean any surfaces that may have blood, stool, or body fluids on th
+
 
 #### 39. Should I wear a mask?
 
+CDC recommends that everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities.
+Cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+
 #### 40. When will a vaccine be out?
+
+An announcement was made by the NIH (National Institute of Health) on March 16, 2020 about an investigational vaccine. The first dose was given that day. 
+
+We can't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
 
 #### 41. If I get COVID-19, will I have immunity from getting it again?
 
+We don’t yet know. Based on experiences with past viruses, exposure will likely lead to a level of immunity. But we'll need time to see if that holds true for COVID-19. 
+
 #### 43. Will my COVID-19 stimulus check lower my VA payments?
+
+No. We won’t count any money received as part of the COVID-19 stimulus package as income for VA pension or parent Dependency and Indemnity Compensation (DIC) beneficiaries. This means your payments will stay the same.
 
 #### 44. What if I can't pay my existing VA debt?
 
+As of April 3, 2020, we’ve taken action to stop collection on newly established Veteran debt and make it easier for Veterans to request extended repayment plans and address other needs during this time. Please check back regularly for updates.
+
+**If you have VA debt that we’ve already transferred to the U.S. Department of the Treasury **
+
+The U.S. Department of the Treasury won’t take any more action on your debt during this time. This means they won’t add more fees or interest, reduce or withhold part of your federal or state payments or job wages to pay your debt, or refer your account to a private collection agency.
+
+**If you have VA debt being managed by VA**
+
+We’ll work with you to decide whether you’d prefer us to temporarily stop collection action, including stopping the addition of fees and interest, during this time or extend your repayment terms.
+
+- **If you have debt related to VA benefits,** please contact the VA Debt Management Center at 800-827-0648 to make arrangements. We’re here Monday through Friday, 7:30 a.m. to 7:00 p.m. ET.
+- **If you have debt related to VA health care,** please contact the Health Resource Center at 888-827-4817 to make arrangements. Be sure to have your account number ready.
+
 #### 45. What if I'm having trouble paying my VA-backed home loan during this time?
+
+If you’re experiencing financial hardship directly or indirectly caused by COVID-19, you can request forbearance from your mortgage company. This allows you to delay payments on your loan for a period of time. 
+
+To request forbearance, contact the mortgage company that collects your payments. <br>
+
+[Learn more about how we can help you avoid foreclosure](https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/)
 
 #### 45. Will I still have to pay my VA copays during the pandemic?
 
+As of April 6, 2020, we’ve stopped sending monthly copay billing statements for all Veterans. This means you won’t receive a bill for any copays during this time. Please check back regularly for updates.
+
 #### 47. What if I've been diagnosed with COVID-19 and need immediate action on my VA appeal?
+
+The Board of Veterans' Appeals will offer you a priority review to move your appeal to the front of the line. This is called “Advanced on the Board of Veterans’ Appeals Docket” (or AOD). <br>
+
+[Find out how to file for AOD and required documents](https://www.bva.va.gov/CustomerService.asp) <br>
+
+[Check your VA claim or appeal status online](https://www.va.gov/claim-or-appeal-status/)
 
 #### 48. How do I get help if I'm homeless or at risk of becoming homeless?
 
-------
+We offer many programs and services that may help—including free health care and, in some cases, free limited dental care. We can also help you connect with resources in your community, like homeless shelters or faith-based organizations.
 
-## 34. Do you need more information?
+**Find the support you need:**
 
-**Do you need more information?**
-
-Yes [go to 35]
-
-No [go to 36]
+- **Call the National Call Center for Homeless Veterans** at 877-424-3838 for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+- **Contact your nearest VA medical center** and ask to talk with a VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager.
+[Find the nearest VA medical center](https://www.va.gov/find-locations/)
 
 ------
 
-## 35. Yes
+## 28. What would you like to do next?
 
-**What would you like to do next?**
+Ask another [shortened topic name - see below] question [29 - go back to topic questions list]
 
-Ask another [shortened topic name - see below] question [37 - go back to topic questions list]
+Ask a different type of question [48 - no screen; just go back to topics list]
 
-Ask a different type of question [go back to 5]
+Connect with a call center representative [go to 30]
 
-Connect with a call center representative [go to 38]
+Nothing. I don't need more information. [go to 49]
 
 [shortened topic name list]
 health care
@@ -427,19 +523,9 @@ VA response
 mental health
 benefits and claims
 
-------
-
-## 36. No
-
-Thank you for using our coronavirus virtual assistant tool. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
-
-_COMMENTS ON THIS SECTION_
-
-Not sure if we need a final message, but adding here in case. 
-
 -----
 
-## 38. 
+## 48. 
 
 [information to serve up based on topic category]
 
@@ -543,6 +629,11 @@ Contact the Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
 ------
+## 49. Nothing. I don't need more information.
+
+Thank you for using our VA coronavirus chat tool. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+
+------
 
 ## 36. Back to top
 
@@ -561,9 +652,4 @@ We're sorry. That's not a valid option. Please choose another option.
 - [Request an appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/)
 - [Check your local VA health facility website](https://www.va.gov/find-locations/)
 - [Start over to ask another question](Start over)
-
-
-
-
-
 
