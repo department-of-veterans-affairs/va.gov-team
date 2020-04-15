@@ -74,6 +74,13 @@ The authenticated experience team aims to create a world-class logged-in experie
 
 ## Value Propositions  
 
+Creating a cohesive logged-in experience will:
+
+- Help veterans complete tasks more quickly.
+- Increase veteran satisfaction with the VA.
+- Reduce the need for multiple touchpoints (other VA websites; VA call centers).
+- Help veterans get benefits more quickly.
+
 ## KPIs 
 
 - Increase the amount of people who:
