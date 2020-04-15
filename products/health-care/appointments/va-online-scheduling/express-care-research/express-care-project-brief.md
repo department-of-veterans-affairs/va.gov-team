@@ -39,9 +39,10 @@ We want to perform usability research with Veterans to learn more about:
 - Develop solution that appropriately directs veterans to right care/screening for COVID-19 within VAOS for hot spots
 
 ## Current Hypothesis:
-We believe there are two major hinderances to Express Care as a service for urgent/same-day appointments for Veteran patients:
+We believe there are three major hinderances to Express Care as a service for urgent/same-day appointments for Veteran patients:
 - Veterans are completely unaware of Express Care as an option for getting care, due to appointment unavailability from providers.
 - Veterans don't think to make an Express Care appointment the same way as other types of VA appointments because of the timeliness of the appointment. Veterans won't think to schedule an Express Care appointment in VAOS the same way they would another appointment type.
+- VA providers and facilities may be completely unaware of Express Care as an option for providing care, rendering Express Care null and void as an option to Veteran patients.
 
 As a result, we also believe if VA turns on Express Care, Veterans will not know they can use it as a same-day resource for same-day, virtual COVID-19 screening appointments. 
 
