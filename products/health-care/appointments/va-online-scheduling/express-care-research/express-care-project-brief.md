@@ -1,9 +1,9 @@
 # Express Care Project Brief
 
 ## Overview
-Veterans have medical needs that may either be resolved without an in-person appointment and/or want guidance about how seek additional care for a medical concern, yet may not warrant a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medical professional,  today.
+Veterans have medical needs that may either be resolved without an in-person appointment and/or want guidance about how to seek additional care for a medical concern, yet may not warrant a trip to the ER. For various reasons, the Veteran may not be able to go into a physical location for this care. In both cases, however, the Veteran needs to talk to a medical professional,  today.
 
-"Express Care" is a solution developed by VA (launched in 2017) for immediate, same day evaluation via VA Video Connect (VA's proprietary Telehealth platform). However, Express Care is not utilized by VA providers, and as a result cannot be used by Veteran patients. 
+"Express Care" is a solution developed by VA (launched in 2017) for immediate, same day phone call triage by a VA scheduler in order to determine next course of action, either phone call follow up by a Veteran's PACT, VA Video Connect visit(VA's proprietary Telehealth platform), scheduling of a non-urgent appointment, or no further action. However, Express Care is not utilized by VA providers, and as a result cannot be used by Veteran patients. 
 
 Due to Express Care being unused, research needs to be conducted to better understand Veterans needs when seeking urgent, same day medical appointments, virtually. Also, Veterans have access to numerous types of care options/"products" which can make it difficult to understand which type of care to select and how to access it. This is especially true when considering the different VA digital access points to accessing care.
 
@@ -18,11 +18,11 @@ As a Veteran with a medical concern, I need access to a Telehealth appointment w
 
 ***COVID-19 is creating hot spots throughout the country. These hot spots put a strain on VA medical facilities and staff as they try and field calls and screen patients.***
 
-As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from my VA doctor/PACT team.
+As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from my VA doctor/PACT team. 
 
 As a VA facility located in a COVID-19 hot spot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or alleviate need for in-person evaluation this is creating operational bottlenecks. I want to do this by PACT.
 
-### Problem statements, additional [maybe remove, because not talking to VA or VA providers]
+### Out of scope problem statements
 
 As the VA, the business rules created that dictate availability of Express Care scheduling prevent Veterans from utilizing  this platform as a viable scheduling option.
 
@@ -64,7 +64,7 @@ For example, the flow could be surfaced/launched from our VAOS "view your appoin
 - When do Veterans think COVID-19 Express Care appointments be available to them?
 
 ## Timeline:
-- ***Friday, 4/3 have researched/tested options for rapid implementation within VAOS on directing Veterans to immediate screening and/or care due to COVID-19***
+- ***UNDETERMINED as of 4/15/2020. Next steps: have researched/tested options for rapid implementation within legacy VAOS on directing Veterans to immediate screening and/or care due to COVID-19***
 
 *******
 ## Appendix
