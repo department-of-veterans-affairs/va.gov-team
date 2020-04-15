@@ -4,7 +4,7 @@
 
 [Good morning/Good afternoon/Good evening], [NAME].
 
-You can use this tool to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions through the tool, we'll connect you with someone to talk to about your specific needs.
+You can use this chatbot to quickly get answers to your questions about the coronavirus COVID-19 and VA benefits and services. If we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
 
 **If you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
 - Trouble breathing
@@ -39,7 +39,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 [add questions based on message bank - per below order]
 
-- [13] What is VA doing to deal with COVID-19?
+- [13] What's VA doing to deal with COVID-19?
 - [35] What steps can I take to protect myself and others from COVID-19?
 - [34] If I need to leave my house, how do I stay safe? 
 - [36] Should I wear a mask?
@@ -86,7 +86,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 - [8] What should I do if I have or need a VA health appointment?
 - [12] What should I do if I have a community care appointment, or need a referral?
-- [17] What should I do if I need to refill my prescription? 
+- [17] How can I refill my prescription? 
 - [18] Can I use emergency care?
 - [16] What if I tried to call my clinic, and I can't get through?
 - [21] How can I ask for a new mental health appointment? 
@@ -165,7 +165,7 @@ We recommend using telehealth to visit your provider by phone or video. You can 
 
 Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). 
 
-#### If you need to reschedule or cancel your appointment
+**To reschedule or cancel your appointment:**
 
 Sign in to your VA.gov account to [reschedule or cancel your appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/).
 
@@ -177,7 +177,7 @@ Sign in to your VA.gov account to [reschedule or cancel your appointment online]
 Please check your local VA health facility’s website. The situation is changing quickly during this time. <br>
 [Find a VA location](https://www.va.gov/find-locations/)
 
-#### 13. What is VA doing to deal with COVID-19?
+#### 13. What's VA doing to deal with COVID-19?
 
 We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.<br>
 [Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
@@ -192,7 +192,7 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 - **[Enroll in the Annie app COVID-19 service](https://www.mobile.va.gov/app/annie-app-veterans)** for daily text messages to check on how you’re feeling and let you know when you should contact your care team.
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
-#### 17. What should I do if I need to refill my prescription?
+#### 17. How do I refill my prescription?
 
 Please request refills as soon as possible, but no later than 10 days before you run out of your current prescription.
 
@@ -201,8 +201,8 @@ Please request refills as soon as possible, but no later than 10 days before you
 ##### To request a refill
 
 **You'll need to actively request your refill in one of these ways:** 
-- **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
-- **Through your mobile device** with our new [Rx Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
+- **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)
+- **Through your mobile device** with our new [Rx Refill mobile app](https://www.mobile.va.gov/app/rx-refill)** 
 - **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your Rx number from the prescription label and Social Security number ready. 
 - **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
@@ -405,7 +405,7 @@ CDC recommends that almost everyone wear a cloth face cover when they have to go
 
 #### 37. When will a vaccine be out?
 
-An announcement was made by the NIH (National Institute of Health) on March 16, 2020 about an investigational vaccine. The first dose was given that day. 
+An announcement was made by the NIH (National Institute of Health) on March 16, 2020, about an investigational vaccine. The first dose was given that day. 
 
 We don't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
 
@@ -624,7 +624,7 @@ Contact our Education Call Center toll-free at 888-442-4551, Mon. – Fri., 8:00
 ------
 ## 49. Nothing. I don't need more information.
 
-Thank you for using our VA coronavirus chat tool. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+Thank you for using our VA coronavirus chatbot. If you have more questions later, you can use the chatbot again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
 
 ------
 
