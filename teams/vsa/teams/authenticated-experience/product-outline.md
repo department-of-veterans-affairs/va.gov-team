@@ -34,7 +34,15 @@ The authenticated experience team aims to create a world-class logged-in experie
 
 ## Questions 
 
+- How do veterans conceptualize the difference between a dashboard/logged-in homepage a profile? What kind of information do they expect to see on each page?
+- What kind of notifications do veterans want to see, and where do they want to receive them?
+- How can we effectively guide users when they are logged in?
+- How can we create a logged-in navigation that doesn't totally eliminate the "explore" content?
+- How can we more effectively insert users' information throughout non-tool content?
+
 ## Assumptions 
+
+- 
 
 ## Requirements and Constraints 
 
