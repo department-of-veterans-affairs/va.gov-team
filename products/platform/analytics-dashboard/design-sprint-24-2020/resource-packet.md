@@ -8,8 +8,11 @@ Welcome to the design sprint for performance analytics! Here are some things to 
 
 ## Mural Boards
 - Mural Room with Design Sprint Boards - before the sprint, please get acquainted with using Mural.
+
 [General Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1586451019412/undefined)
+
 [Day 1 Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1586958108987/undefined)
+
 [Day 2 and Beyond Board](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1586971052646/undefined)
 
 ## Current Tooling Sources
