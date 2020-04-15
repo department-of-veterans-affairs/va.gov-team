@@ -89,15 +89,15 @@ Additionally:
 
 ## Questions
 
-### Design
+### Design/IA
 
 - How do veterans conceptualize the difference between a dashboard/logged-in homepage a profile? What kind of information do they expect to see on each page?
-- Is the logged-in homepage really the notification center? Are those two different projects, or the same project?
-- What info needs to appear as a widget vs. just a link on the new logged-in homepage?
-- How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
-- Do things like "Your dependents" and "Your disability rating" need to be displayed on the new logged-in homepage, or should they be displayed on the VA.gov profile, or both? 
-- What works well about the current homepage that veterans don't want to change? What would veterans change about the homepage as it is now?
+- Do things like "Your dependents" and "Your disability rating" need to be displayed on the new logged-in homepage, or should they be displayed on the VA.gov profile, or both?
 - How could an authenticated tool bar/menu fit into the current navigation before Mikki/Ryan/Jen are able to revisit the IA and flatten the IA/nav across the board?
+- Is the logged-in homepage really the notification center? Are those two different projects, or the same project?
+- How will we show notifications? Where will they "live"? How will they be marked as read/dismissed?
+- What info needs to appear as a widget vs. just a link on the new logged-in homepage?
+- What works well about the current homepage that veterans don't want to change? What would veterans change about the homepage as it is now?
 - How can the initial phase of the 2.0 redesign account for future growth and improvements?
 
 ### Technical
