@@ -64,7 +64,7 @@ The authenticated experience team aims to create a world-class logged-in experie
 - Data in the VA is complicated and all over the place. Different information is stored across hundreds of databases and is often duplicative or conflicting.
   - EG. Contact info currently stored across, EVSS, CORPDB, etc. - many locations, and often conflicting 
 - For data we don't currently have but want, we may need a new ATO to get this information, and this could take a lot of time.
-- We don't have a lot of data we want, and we may not be able to get it because it the information isn't digital or is in a database that is a mess/unreliable/will be eventually sunset.
+- We don't have all of the data we want, and we may not be able to get it because it the information isn't digital or is in a database that is a mess/unreliable/will be eventually sunset.
 
 #### Design
 
