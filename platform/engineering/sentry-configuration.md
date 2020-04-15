@@ -1,4 +1,4 @@
-# How to configure Sentry for VFS teams
+# How to Configure Sentry for your Application
 
 The Veteran-facing Services Platform (VSP) utilizes Sentry as a tool to track errors related to VA.gov applications. Sentry allows teams to discover, triage, and prioritize errors in real-time. 
 
