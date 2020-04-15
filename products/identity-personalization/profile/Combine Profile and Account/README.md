@@ -150,9 +150,10 @@ Other metrics are qualitative:
 - **Summer 2019**: Discovery completed.
 - **September 2019**: Initial design explorations
 - **October 2019**: Project put on hold due to other team needs.
-- **January 2010**: Project resumed. Design explorations delivered. Beginning profile refactoring.
+- **January 2020**: Project resumed. Design explorations delivered. Beginning profile refactoring.
 - **February 2020**: Initial designs completed; beginning copy.
 - **March 2020**: Completing copy, beginning build, conducting user testing.
+- **April 2020**: User testing completed; build in progress.
 
 ## Solution Narrative
 
