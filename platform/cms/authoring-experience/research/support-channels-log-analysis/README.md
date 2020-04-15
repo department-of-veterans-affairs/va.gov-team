@@ -41,10 +41,13 @@ Analysis:
 * Rachel Kauff (UX Writer, CMS team)- rachel.kauff@civicactions.com
 
 ## Resources	
-* Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-
-* [WIP] Synthesis	
+* Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)	
 	
-* [WIP] Lessons Learned
+* Lessons Learned:
+	* Code _Sentiment_ using the following tags: Positive, Neutral, Negative.
+	* Register recommendations in the format of user stories and epics.
+	* focus only content that is most relevant to the research questions and KPIs.
+	* Streamline analysis process to lowest level of effort:
+		* Reduce participating team members to just 1-2 designers doing the coding
 	
 * [WIP] Read-Out/Results	
