@@ -181,6 +181,7 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 **To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
 
 - **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question.
+- **[Enroll in the Annie app COVID-19 service](https://www.mobile.va.gov/app/annie-app-veterans)** for daily text messages to check on how you’re feeling and let you know when you should contact your care team.
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
 
 #### 17. What should I do if I need to refill my prescription?
@@ -194,20 +195,24 @@ Please request refills as soon as possible, but no later than 10 days before you
 **You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
 - **Through your mobile device** with our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line. Be sure to have your RX number from the prescription label and Social Security number ready. 
+- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
 - **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
+
+For questions about your prescriptions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center.
 
 ##### If you've run out of refills on your prescription
 
 **You can request a prescription renewal in one of these ways:**
-- Try calling your VA pharmacy's automated refill line. For some medications, your health care team may need to contact you before you can get more medication.
+- Call the number on your prescription label. Be sure to have your RX number from the prescription label and Social Security number ready. For some medications, your health care team may need to contact you before you can get more medication.
 - Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet. 
 - Call your local VA medical center. <br> 
 [Find a VA location](https://www.va.gov/find-locations/)
 
 ##### If your prescription renewal requires an in-person evaluation
 
-We’re temporarily allowing evaluations through telehealth (phone or video) appointments. To request a telehealth appointment, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+If you need to renew a prescription for a medication that requires an in-person evaluation, we've temporarily updated our policy to allow this type of evaluation through telehealth (phone or video) appointment. 
+
+To request a telehealth appointment for a prescription renewal, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
 #### 17. What should I do if I have a community care appointment?
 
@@ -233,7 +238,8 @@ Call 911 or go to your nearest ER. For emergencies, you don’t need a referral 
 
 ##### If you have an urgent care need
 
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. 
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
+[Find a VA location](https://www.va.gov/find-locations/)
 
 Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
 
@@ -350,35 +356,34 @@ Follow these steps to stay safe when you need to go out to the store, pharmacy, 
 - Try to wipe down frequently touched items, like door handles. 
 - If you go through a store and touch things while you're there, either wash your hands with soap and water or use hand sanitizer.  
 
-#### 35. What other steps can I take to protect myself and others? 
+#### 35. What steps can I take to protect myself and others? 
 
-First, you can stay home and away from other people as much as possible. This includes taking these steps:
+There's a lot you can do to protect yourself and others from COVID-19. These steps are especially important if you're an older person or if you have an underlying health condition like problems with your heart, lungs, or immune system.
 
-1. Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
-2. If possible, reduce going go to work, school, or other public areas. 
+**Take these steps, even if you're feeling well:**
+
+1. Stay home as much as possible.
+2. Stay at least 6 feet away from others even if you don't feel sick (called physical distancing).
 3. Avoid using public transportation, ridesharing, or taxis. 
- 
-You can also take these protective steps:
-First, you should stay home except to get medical care. Call ahead use secure messaging on MyHealtheVet your provider using MyHealtheVet before going in person to visit your doctor. This will decrease exposure risk to you and to others. 
-1. Wear a facemask when you are around other people or pets or before entering your provider’s office. 
-2. Clean your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains at least 60 percent alcohol. 
-3. Cover your coughs and sneezes with a tissue and discard the tissue. 
+4. Clean your hands often with soap and water for at least 20 seconds. This is especially important after you've been out in public, or after you blow your nose, cough, or sneeze. If you don't have soap and water, use an alcohol-based hand sanitizer that contains at least 60% alcohol. 
+5. Cover your mouth and nose with a cloth face cover when you're out in public.
+6. Clean and disinfect all "high-touch" surfaces. This includes things like light switches, counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, remotes, and bedside tables. 
 
-If you or someone you live with have symptoms of, or are diagnosed with, COVID-19:
+**If you or someone you live with have symptoms of, or are diagnosed with, COVID-19, take these added steps:**
 
-1. Separate yourself from other people and animals in your home. 
-2. Do not handle pets or other animals while sick unless you need a service animal.  
-3. 
-8.	
-9.	
-10.	Avoid sharing personal household items such as dishes, eating utensils, towels, and bedding. Wash these items with soap and water after use. 
-11.	Clean all "high-touch" surfaces with household cleaning spray every day, including light switches, counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, remotes, and bedside tables. Also, clean any surfaces that may have blood, stool, or body fluids on th
-
+1. Stay home except to get medical care. 
+2. If you do need to get care in person, please contact us first. Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse. This will decrease exposure risk to you and to others. 
+[Find a VA location](https://www.va.gov/find-locations/)
+3. Separate yourself from other people and animals in your home, with the exception of a service animal. 
+4. Avoid sharing personal household items such as dishes, eating utensils, towels, and bedding. Wash these items with soap and water after use. 
 
 #### 36. Should I wear a mask?
 
-CDC recommends that everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities.
-Cloth face coverings should not be placed on young children under age 2, anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable to remove the mask without assistance.
+Yes. You should cover your nose and mouth with a cloth face cover when you're in public. You could spread COVID-19 to others even if you don't feel sick.
+
+CDC recommends that almost everyone wear a cloth face cover when they have to go out in public, like to the grocery store or to pick up other necessities. Be sure not to put a mask on a child under age 2 or on anyone who has trouble breathing or can't remove the mask without help.
+
+**Remember:** Don't wear a mask that's meant for a health care worker. And don't forget to stay at least 6 feet away from others. Masks aren't a substitue for physical distancing.
 
 #### 37. When will a vaccine be out?
 
