@@ -26,8 +26,8 @@ Please choose the topic that best fits your need. If you want to choose another 
 [My current COVID-19 symptoms (CDC self-checker tool)](Go to 39 > 3) <br>
 [Health care, appointments, and prescriptions](Go to 5 > 9) <br>
 [Debt, copays, and other financial concerns](Go to 32 > 46)
-[Anxiety and related concerns](Go to 6 > 10) <br>
 [Benefits and claims](Go to 7 > 11)
+[Anxiety and related concerns](Go to 6 > 10) <br>
 
 ------
 
@@ -66,7 +66,7 @@ We're currently testing Veterans who meet the [CDC criteria for testing](https:/
 
 **Visit the CDC Coronavirus Self-Checker tool**
 
-The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care.
+The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care. If you'd like to go back to choose another topic in the VA coronavirus chatbot, you can refresh the page to start over.
 
 [Go to CDC Coronavirus Self-Checker](go to self-checker)
 
@@ -82,7 +82,15 @@ _[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-v
 
 Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
-[add questions based on message bank - order tbd based on decision re: approach]
+[add questions based on message bank - per order below]
+
+- [8] What should I do if I have or need a VA health appointment?
+- [12] What should I do if I have a community care appointment, or need a referral?
+- [17] What should I do if I need to refill my prescription? 
+- [18] Can I use emergency care?
+- [16] What if I tried to call my clinic, and I can't get through?
+- [21] How can I ask for a new mental health appointment? 
+- [22] Can I visit a patient at a VA facility?
 
 [Start over button]
 
@@ -194,8 +202,8 @@ Please request refills as soon as possible, but no later than 10 days before you
 
 **You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
-- **Through your mobile device** with our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
+- **Through your mobile device** with our new [Rx Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
+- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your Rx number from the prescription label and Social Security number ready. 
 - **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
 For questions about your prescriptions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center.
@@ -203,7 +211,7 @@ For questions about your prescriptions, send a [secure message to your provider]
 ##### If you've run out of refills on your prescription
 
 **You can request a prescription renewal in one of these ways:**
-- Call the number on your prescription label. Be sure to have your RX number from the prescription label and Social Security number ready. For some medications, your health care team may need to contact you before you can get more medication.
+- Call the number on your prescription label. Be sure to have your Rx number from the prescription label and Social Security number ready. For some medications, your health care team may need to contact you before you can get more medication.
 - Send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet. 
 - Call your local VA medical center. <br> 
 [Find a VA location](https://www.va.gov/find-locations/)
