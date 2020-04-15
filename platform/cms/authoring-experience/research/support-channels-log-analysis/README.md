@@ -50,4 +50,4 @@ Analysis:
 	* Streamline analysis process to lowest level of effort:
 		* Reduce participating team members to just 1-2 designers doing the coding
 	
-* [Read-Out/Results] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/authoring-experience/research/support-channels-log-analysis/Log%20Analysis%20Readout%20-%20Jan_Feb%202020.pdf)	
+* [Read-Out/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/authoring-experience/research/support-channels-log-analysis/Log%20Analysis%20Readout%20-%20Jan_Feb%202020.pdf)	
