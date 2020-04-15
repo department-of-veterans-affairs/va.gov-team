@@ -39,12 +39,12 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 [add questions based on message bank - per below order]
 
-[39] What is VA doing to deal with COVID-19?
-[35] What steps can I take to protect myself and others from COVID-19?
-[34] If I need to leave my house, how do I stay safe? 
-[36] Should I wear a mask?
-[37] When will a vaccine be out?
-[38] If I get COVID-19, will I have immunity from getting it again?
+- [13] What is VA doing to deal with COVID-19?
+- [35] What steps can I take to protect myself and others from COVID-19?
+- [34] If I need to leave my house, how do I stay safe? 
+- [36] Should I wear a mask?
+- [37] When will a vaccine be out?
+- [38] If I get COVID-19, will I have immunity from getting it again?
 
 [Start over button]
 
@@ -96,12 +96,12 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 [add questions based on message bank - per below order]
 
-Will my COVID-19 stimulus check lower my VA payments?
-What if I can’t pay my existing VA debt?
-What if I’m having trouble paying my VA-backed home loan during this time?
-Will I still have to pay my VA copays during the pandemic?
-What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?
-How do I get help if I'm homeless or at risk of becoming homeless?
+- [40] Will my COVID-19 stimulus check lower my VA payments?
+- [41] What if I can’t pay my existing VA debt?
+- [42] What if I’m having trouble paying my VA-backed home loan during this time?
+- [43] Will I still have to pay my VA copays during the pandemic?
+- [44] What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?
+- [45] How do I get help if I'm homeless or at risk of becoming homeless?
 
 ------
 
@@ -114,8 +114,8 @@ How do I get help if I'm homeless or at risk of becoming homeless?
 Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
 
 [add questions based on message bank - per below order]
-I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
-How can I ask for a new mental health appointment? 
+- [20] I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
+- [21] How can I ask for a new mental health appointment? 
 
 [Start over button]
 
@@ -127,13 +127,13 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 [add questions based on message bank - per below order]
 
-Will my benefit payment be delayed because of COVID-19?
-My school changed all classes to online, Will I still qualify for my GI bill benefits? 
-Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
-Are VA regional offices closed? 
-How can I stay updated on regional office closures or service interruptions?
-How can I contact my local regional office? 
-What if I had or need an in-person appointment for VA benefits or services?
+- [23] Will my benefit payment be delayed because of COVID-19?
+- [24] My school changed all classes to online, Will I still qualify for my GI bill benefits? 
+- [50] Is VA still doing claim exams (also called compensation and pension, or C&P, exams)?
+- [25] Are VA regional offices closed? 
+- [26] How can I stay updated on regional office closures or service interruptions?
+- [27] How can I contact my local regional office? 
+- [51] What if I had or need an in-person appointment for VA benefits or services?
 
 [Start over button]
 
@@ -489,6 +489,8 @@ We’ll work with you to change your in-person appointment to a virtual appointm
 - Military service coordinators
 
 Please work with your VA representative to reschedule appointments. If you have questions, call us at 800-827-1000 (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+
+[Read our Coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
 
 ------
 
