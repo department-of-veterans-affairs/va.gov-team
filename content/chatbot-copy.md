@@ -23,7 +23,7 @@ Please choose the topic that best fits your need. If you want to choose another 
 
 [Coronavirus COVID-19 prevention](Go to 30 > 33) <br>
 [COVID-19 testing at VA](Go to 31) <br>
-[My current COVID-19 symptoms](Go to 39 > 3) <br>
+[My current COVID-19 symptoms (CDC self-checker tool)](Go to 39 > 3) <br>
 [Health care, appointments, and prescriptions](Go to 5 > 9) <br>
 [Debt, copays, and other financial concerns](Go to 32 > 46)
 [Anxiety and related concerns](Go to 6 > 10) <br>
@@ -141,7 +141,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 # QUESTION BANK
 
-#### 8. What should I do if I have an upcoming VA health appointment?
+#### 8. What should I do if I have or need a VA health appointment?
 
 ##### For scheduled procedures
 
@@ -151,30 +151,28 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 We recommend using telehealth to visit your provider by phone or video. You can also cancel or reschedule your appointment.
 
-**To change your appointment to a telehealth appointment, sign in VA.gov to:**
+**To change your in-person visit to a telehealth appointment, sign in online to:**
 - [Send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet, **or**
 - [Request to change to a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
 
 Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). 
 
-#### 13. What is VA doing to deal with COVID-19?
-
-We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.<br>
-[Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
-
-#### 14. How do I reschedule or cancel my upcoming VA appointment? 
+#### If you need to reschedule or cancel your appointment
 
 Sign in to your VA.gov account to [reschedule or cancel your appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/).
 
 **Note:** Some clinics are asking patients to not reschedule or schedule new appointments for some types of routine care so they can protect both patients and staff. The situation is changing quickly. For the latest information, please check your local VA health facility’s website. <br>
 [Find a VA location](https://www.va.gov/find-locations/) 
 
-#### 15. Can I get a referral to see a community care provider if I can't be seen at VA?
+#### For the latest information on facility hours and safety measures
 
-This depends on your needs. We’re continuing to make community care referrals. But we’re prioritizing referrals for urgent or other medically necessary care. And some community care providers' hours or services may be affected by CDC and local health department guidelines.
+Please check your local VA health facility’s website. The situation is changing quickly during this time. <br>
+[Find a VA location](https://www.va.gov/find-locations/)
 
-**Please remember:** You need VA approval for all community care appointments, except for emergency and urgent care needs. Getting a referral depends on eligibility, type of care, and other factors. At this time, community care eligibility requirements haven't changed. <br>
-[Learn about eligibility for community care](https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp)
+#### 13. What is VA doing to deal with COVID-19?
+
+We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.<br>
+[Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
 
 #### 16. What if I tried to call my clinic and I can't get through?
 
@@ -197,8 +195,8 @@ Please request refills as soon as possible, but no later than 10 days before you
 **You'll need to actively request your refill in one of these ways:** 
 - **Online** with the [My HealtheVet prescription refill and tracking tool](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home).
 - **Through your mobile device** with our new [RX Refill mobile app](https://www.mobile.va.gov/app/rx-refill)**. 
-- **By phone** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
-- **By mail** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
+- **By phone.** Call the number on your prescription label for your VA pharmacy's automated refill line or to speak to a pharmacy representative. Be sure to have your RX number from the prescription label and Social Security number ready. 
+- **By mail.** Complete the prescription refill form that came with your medication. Mail the form to the VA pharmacy address listed on your medication paperwork.
 
 For questions about your prescriptions, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet or call your local VA medical center.
 
@@ -216,7 +214,9 @@ If you need to renew a prescription for a medication that requires an in-person 
 
 To request a telehealth appointment for a prescription renewal, send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-#### 17. What should I do if I have a community care appointment?
+#### 17. What should I do if I have a community care appointment, or need a referral?
+
+##### If you have a scheduled community care appointment
 
 Please contact your community care (non-VA) provider directly before going to your appointment. Some providers' hours or services may be affected by current CDC and local health department guidelines. 
 
@@ -225,6 +225,13 @@ Please contact your community care (non-VA) provider directly before going to yo
 Work with the provider to reschedule. We're extending VA authorizations for community care referrals during this time.
 
 If you have concerns about rescheduling your appointment, [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your VA provider.
+
+##### If you need a referral
+
+We'll work with you to assess your needs. We’re continuing to make community care referrals. But we’re prioritizing referrals for urgent or other medically necessary care. 
+
+**Please remember:** You need VA approval for all community care appointments, except for emergency and urgent care needs. Getting a referral depends on eligibility, type of care, and other factors. At this time, community care eligibility requirements haven't changed. <br>
+[Learn about eligibility for community care](https://www.va.gov/COMMUNITYCARE/programs/veterans/index.asp)
 
 #### 18. Can I use emergency care?
 
@@ -249,11 +256,6 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 - Sore throat, earache
 - Sprains or strained muscles from sports or exercise
 - Minor cuts and injuries
-
-#### 19. How do I know if my VA health facility is still open for regular appointments? 
-
-The situation is changing quickly during this time. To get the latest information, please check your local VA health facility’s website. <br>
-[Find a VA location](https://www.va.gov/find-locations/)
 
 #### 20. I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
 
