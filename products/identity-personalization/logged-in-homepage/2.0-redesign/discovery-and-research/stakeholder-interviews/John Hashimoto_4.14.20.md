@@ -36,7 +36,7 @@ It should be obvious how to log in. Most consumers like me are used to using  a 
 
 How many people register for the logged in experience. In a sense, what they’ve said up if there is customization or tailoring — what have they set up? What are they clicking in the logged in experience? Are there barriers or abandonment issues? Are there areas of frustration that we could fix up?
 
-I’m curious about your perspective around informing people on “what’s new” coming from a news background. Any thoughts?
+### I’m curious about your perspective around informing people on “what’s new” coming from a news background. Any thoughts?
 
 If there are features you want to promote to the veteran so they’ll know it’s there and poke around in that. You’re gonna know what their interest is either by their set up or the processes they involved in. Presumably, we’ll know what to bubble up automatically.
 
