@@ -16,7 +16,6 @@
 - Design and Product: Run final collab cycle meetings
 - Design and Product: Incorporate two new Pension questions and content
 - FE and BE: Work together to submit data model
-- FE and BE: Work together to complete submission activities (PDF, error states)
 - Backend: Complete submission workflows
 - Product: Create call center documentation
 - Product: FE user story smoke test
