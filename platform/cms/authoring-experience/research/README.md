@@ -57,4 +57,4 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
 * X participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/assignments-editorial-workflow)
