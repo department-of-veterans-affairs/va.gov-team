@@ -25,16 +25,16 @@ How to create a better Claim Status Tool:
 - How can the claim status tool be redefined, to create a better and more efficient experience? 
 - Investigate how the new claims tool can be pushed further, and open up for not only better user experiences, but potentially broaden the scope and possibilities of such a tool. Could the new tool expedite additional use cases? 
 - Investigate how this tool can integrate with other parts of VA.gov, especially with regards to the revamp of the content pages (communicate with Liz Lantz). 
-- Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
+- Understand how the new claim status tool can best expedite the reevant use cases in an efficient and elegant way.
 
 
 ## Research needs
 
-We would like to propose a research process consiting of 4 phases:
+We would like to propose a research process consisting of 4 phases:
 
-1. Previous work review, including a detailed mapping of the current tool/flow.
-2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into hoe other companies / organizations are dealing with (claim) status tracking. 
-3. Usability test of excisting claim status tool (if applicable: include early concepts to test).
+1. A previous research review, including a detailed mapping of the current tool and its use cases.
+2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into how other companies / organizations are dealing with (claim) status tracking. 
+3. Usability test of excisting claim status tool (if applicable, include early concepts to test).
 4. Concept testing and usability testing of the new claim status tool. 
 
 ### 1. Previous research review
@@ -44,36 +44,33 @@ Are there any existing, relevant quantitative research?
   
 ### 2. Discovery phase
 
-We want to understand better what a claim status tool can be, what the possibilities are for good user experiences, and what business opportunities are here. We will start with a competitive analyses and see how other companies and organizations and handling claims, status tracking, progress info etc.
+We want to understand better what a claim status tool can be, what the possibilities are for good user experiences, and what business opportunities are here. We will start with a competitive analyses and see how other companies and organizations and handling claims, status tracking, progress updates etc. 
 
 ### 3. Usability test of the current claim status tool
 
-- Why are users coming to the claim status tool? 
-- What are the most frequent use cases?
-- What expectations do users have to the tool? How is the tool meeting these expectations?
+- What are the use cases for the current claims tool?
+- What expectations do users have to the claims tool? 
+- How is the current tool meeting these expectations?
 - What are the usability issues and pain points?
 - What would make the tool more useful?
 - What is working well with the current tool?
-- What are the needs and wants that users have that are not being met by the current tool?
+- What are the needs and wants that users have, that are not being met by the current tool?
 
 
 ### 4. Concept testing and usability testing of new claim status tool
 
-- Test early concept of a new claim status tool. 
+- Test early concepts of a new claim status tool. 
 - Usability test of new claim status tool. 
 
 
 
 #### Tasks
 
-- Finish this research plan.
-
-- Do a previous research review.
-
-- Do a competitive analysis.
+- Complete a previous research / work review.
+- Complete a competitive analysis.
 
 - Recruit participants for usability study of current tool.
-- Make sure claim status tool can be tested in staging. (?)
+(- Make sure claim status tool can be tested in staging. (?))
 - Create a conversation guide/script for usability test of current tool. 
 - Execute usability study of current tool.
 
