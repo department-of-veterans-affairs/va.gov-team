@@ -310,15 +310,15 @@ Prerequisites (set up SOCKS5 Proxy access):
 You may be required to use a VA email address and/or access internal VA sites for certain integration activities (such as backend service integration or discovery of sample data). As an alternative to lugging around Government Furnished Equipment (GFE), you can check your VA email and access internal VA web sites from virtual machines via Citrix Access Gateway (CAG) and your VA-issued Personal Identity Verification (PIV) card.
 
 ### Tips:
-*   Bookmark the VA CAG site: https://citrixaccesspiv.va.gov
-*   The instructions for VA email and CAG should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Julie Ramirez ([Julie.Ramirez2@va.gov](mailto:Julie.Ramirez2@va.gov))
+*   Bookmark the VA Citrix Remote Access login site: https://citrixaccess.va.gov/
+*   VA Remote Access Help: https://www.oit.va.gov/resources/remote-access/
+*   VA CAG Remote Access Connectivity Video Walkthrough: https://www.youtube.com/watch?v=073hayTIiwA
+*   Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Julie Ramirez ([Julie.Ramirez2@va.gov](mailto:Julie.Ramirez2@va.gov))
 *   Julie will also issue you a PIV card reader if you ask.
     *   That’s the best route if you don’t have one already.
     *   If you want to use your own, it needs to be TAA-compliant (https://www.amtgov.com/what-is-taa-compliance.html). The list changes, but countries that are currently NOT TAA-compliant include China, India, Indonesia, Iran, Malaysia, Pakistan, Russia, and Sri Lanka.
 *   On Mac, only Safari is supported for CAG (DO NOT use Chrome).
 *   I have found that on my system, in Safari, clicking on a Desktop in the Citrix StoreFront just downloads an “.ica” file (does not automatically run it); however, if you also click the downloaded file, that will launch the Citrix session.
-*   VA TMS Video Walkthrough: https://www.tms.va.gov/SecureAuth35/ \
-Search for 4523428 or “VA CAG Remote Access Connectivity Video Walkthrough.” The video has OS-specific screens and tips, including Mac.
 
 *   **GitHub: VA<span/>.gov | VSP | Accessing VA Network Without a VA Laptop** \
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/accessing-va-network-without-va-laptop.md \
