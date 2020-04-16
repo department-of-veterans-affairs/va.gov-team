@@ -1,4 +1,4 @@
-# Apply for Education and Career Benefits (Chapter 36)
+# Apply for Personalized Career Planning & Guidance (Chapter 36)
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
