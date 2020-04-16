@@ -4,7 +4,7 @@
 This applies to persons who are not Federal employees (e.g. VA or OMB), have access to this team repository, and will be leaving their project.
 
 ## Instructions
-The DSVA platform team is your offboarding concierge. All you need to do is:
+The VSP platform team is your offboarding concierge. All you need to do is:
 
 1. Drop a message in the [#vfs-platform-support](https://dsva.slack.com/messages/CBU0KDSB1) Slack channel stating that you will be leaving us with the following information:
 - Your last day
