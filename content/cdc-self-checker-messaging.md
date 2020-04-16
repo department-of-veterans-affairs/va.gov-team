@@ -31,7 +31,7 @@ If you'd like to get more answers to questions about COVID-19 and VA benefits an
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 - [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
 
 **If you decide to go to a VA facility for urgent care**
 
