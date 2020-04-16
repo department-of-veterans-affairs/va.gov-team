@@ -10,6 +10,7 @@
 	- Darrell Neel
 	- Amy Knox
 	- Dan Shawkey
+	- Desiree Turner
 ---
 ## Overview
 Create an application for the Rogers STEM Scholarship that is 508 compliant and delivers digital submission capabilities for VA Form 22-10203.
