@@ -558,24 +558,54 @@ Logged in homepage
 
 ### Order of priorities
 
-1. Profile 2.0: Content review; IA plan and review
-2. Profile 2.0: Continue build; implement updates from usability testing
-3. Profile 2.0: Analytics planning
+**Project work**
 
-Logged in homepage
+1. Implement analytics tag for My VA health chat alert
+2. Profile 2.0: Content review; IA plan and review
+3. Profile 2.0: Continue build; implement updates from usability testing
+4. Profile 2.0: Analytics planning
+5. Address validation: Follow-up with veterans to see if they are still having issues saving their addresses
+
+**Non-project work**
+
+1. Onboard Sandra (Welcome, Sandra!)
+
+**Logged in homepage**
 
 1. Analytics review
 2. Plan user research/kickoff recruiting
 
+### COVID-19: Health chat alert
+
+- Implement analytics tag for My VA health chat alert #8033
+
 ### Profile 2.0
 
+- Content/IA - Tressa reviewing content for updates
+- Content/IA - Provide designs/guidance for content updates
 - Content/IA - Tressa figuring out what URLs need to be updated/redirected
-- Content/IA - IA review (VSP cycle)
+- **Stretch goal**: Content/IA - IA review (VSP cycle)
 - Build - Continue build
 - Build - Implement updates from user testing
 - Analytics - Revisit KPIs and make sure they are updated in the product outline
 - Analytics - Put together plan for how we want analytics set up
 - Analytics - Submit request for review
+
+### Address validation
+
+- Follow up with veterans to see if this feature resolves their issues saving addresses #6012 (Note: still waiting to hear back from Chante/Kimberly/Joanne to see whether this is resolved or not)
+
+### Onboarding Sandra 
+
+- Sandra's onboarding checklist #8074
+  - **Matt** this ticket needs further grooming by you
+  
+### Logged-in homepage  
+
+- Create research plan #7269
+- Create conversation guide #7270
+- Kick-off recruiting #7273
+- Analytics review and report #7772
 
 ----------------
 
