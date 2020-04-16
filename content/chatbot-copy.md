@@ -8,7 +8,7 @@
 
 Content has been revised to align with chatbot tone and space limitations.
 
-**Note for develpers: Please make all phone numbers clickable.**
+**Note for developers: Please make all phone numbers clickable.**
 
 # Page content
 
