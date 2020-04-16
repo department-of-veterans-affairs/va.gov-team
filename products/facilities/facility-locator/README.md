@@ -4,8 +4,6 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 **Product owner:** David Conlon 
 
-**Supporting product owner:** Andy Lewandowski 
-
 ## What to know about the product
 
 - It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
@@ -34,7 +32,7 @@ All of these folks help drive the vision and implementation of VA Community Care
 
 - Dr. Kamron Matthews: Works directly with community health care networks and regions for Veterans to receive community care benefits.
   - Zach Fain: Does a lot of implemntation work for networks
-  - Aszur Rollins: Product Owner for community care provider locator data (which is in the Facility Locator)
+  - Tobie Wethington: Project Manager for community provider data from PPMS (used in Facility locator for Community Care Urgent Care, Community Care Provider Locator)
 - Dr. Jen McDonald: Was involved with Mission Act implementation
 - Dr. Leo Greenstone: Business sponsor to have AbleVets team build their community care provider lookup on Facility Locator
 - Dr. Mark Upton: Has an interest in community care urgent care facilities
