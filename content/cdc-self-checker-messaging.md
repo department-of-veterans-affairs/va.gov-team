@@ -7,8 +7,7 @@ You can also read more in our [coronavirus FAQs](https://www.va.gov/coronavirus-
 
 ## 1. Sounds like you are feeling ok
 
-**If you’re not sure about your symptoms,** our Annie text messaging service can help you monitor your symptoms and tell you when you should see your health care provider. <br>
-Learn more about the [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans).
+**If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
 
 **If you'd like to talk with your VA health care provider,** you can [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
@@ -52,9 +51,7 @@ We're taking many precautions to help protect Veterans in our VA nursing homes. 
 
 ## 8. Stay home and take care of yourself. Call your provider if you get worse
 
-If you’re not sure about your symptoms, our Annie text messaging service can help you monitor your symptoms and tell you when you should see your health care provider. <br>
-
-Learn more about the [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans).
+**If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
 
 ### To contact your VA provider or request a telehealth visit by phone or video, you can:
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
@@ -84,8 +81,7 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 
 ## 10. Sorry you’re feeling ill. Stay at home and monitor your symptoms. Call your provider if you get worse
 
-If you’re not sure about your symptoms, our Annie text messaging service can help you monitor your symptoms and tell you when you should see your health care provider. <br>
-Learn more about the [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans).
+**If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
