@@ -74,8 +74,17 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 In the context of VA.gov, the contract testing process looks like this:
 1. **Contract tests are written for a FE application.** They are written like unit tests with `describe` and `it` blocks and will follow these steps:
    - Start up the mock server from the Pact library. This requires naming the consumer and provider and assigning a port for the server to run.
+     ```
+     const mockApi = new Pact({
+       port: 3000,
+       consumer,
+       provider,
+       spec: 2,
+     });
+
+     ```
    - Test each request in its own `describe` block. Further wrap in `context` blocks if necessary to test the same request when there are different BE states.
-   - In each `it` block, define the request and response interaction being tested and add them to the mock server.
+   - In each `it` block, define the request and response interaction being tested and add them to the mock server (`mockApi.addInteraction({ ... })`).
      This sets up the mock server to accept the specified requests and return the specified expected responses.
      Interactions are defined in objects formatted like so:
 
@@ -127,7 +136,7 @@ In the context of VA.gov, the contract testing process looks like this:
 2. The contract tests will run in CI when FE changes are pushed.
    - **If they pass, they generate pacts in the form of JSON files in the `pacts` directory.** JSON files are generated for each pairing of consumer (the FE application) and provider (`vets-api`).
    - If they fail, it's possible the request wasn't picked up by the mock server because request defined in the interaction didn't match the request that was actually made. It's also possible the component or function that made the request failed an assertion.
-3. **The CI job invokes a script to publish the pacts to a broker.** The published pacts should be versioned to the current commit hash of `vets-website`. For builds to be deployed, the pacts should also be tagged with the appropriate environment.
+3. **The CI job invokes a script to publish the pacts to a broker.** The command to publish should require a version to label the consumer and optionally accept tags. The published pacts should be versioned to the current commit hash of `vets-website`. For builds to be deployed, the pacts should also be tagged with the appropriate environment. *Tagging is important to ensure that we verify only the pact associated with the build that is getting deployed and not pacts generated from other branches.*
 
    This assumes that the broker is accessible from CI. There may be some work involved in configuring the the broker to allow access depending on where it's hosted.
 4. Publishing the pacts should trigger a webhook in the broker that invokes a Rake task in `vets-api`:
