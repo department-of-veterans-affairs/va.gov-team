@@ -9,6 +9,7 @@
    - John Hashimoto @John Hashimoto
    - Steph Orkand @Stephanie Orkand
 - Search.gov POC: 
+   - Arantxa Pipernova (search@support.digitalgov.gov)
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
 
 ## Table of Contents
@@ -27,7 +28,7 @@
 Onsite search has not been revisited since the rebranding launch and transition from vets.gov to VA.gov. Since then many legacy pages and forms have been redirected to VA.gov., but a number of subdomains still exist and have not been brought in to the new VA.gov site experience. 
 
 ### User Goals
-- Easily find and get to relevant, related information that helps veterans, caregivers,  find what I am looking for the first time.
+- Easily find and get to relevant, related information that helps veterans, caregivers, find what I am looking for the first time.
 
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
