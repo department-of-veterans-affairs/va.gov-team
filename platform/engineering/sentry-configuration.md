@@ -19,14 +19,14 @@ Each VFS team needs to designate a Sentry administrator and provide the name of 
 
 1. Create a new team based on the naming and structuring conventions described in the [VSP user management process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/vsp_user_managment_process.md), for example, vfs-[team name here]. If permissions need to be adjusted ask in the `#vfs-platform-support` Slack channel.
 2. Add team members to your Sentry team. This can be done by navigating to **(Project) Settings => Teams => Add Member**.
-3. Provide a list of ownership rules (paths and urls) that your team wants to monitor for Sentry errors. Examples can be found in the Sentry issue owners [documentation](https://docs.sentry.io/workflow/issue-owners/#configuration).
+3. Provide a list of ownership rules (paths and urls) that your team wants to monitor for Sentry errors. Examples can be found in the Sentry issue owners [documentation](https://docs.sentry.io/workflow/issue-owners/#configuration). Ownership rules are used for issues assignment suggestions.
 4. Provide the list to a VSP engineer in the `#vfs-platform-support` Slack channel. 
 
 ## Issue assignment
 The Issue Owners feature has some limitations with automatic issue assignment in Sentry `9.1.2`. For now, issue assignment will be a manual process responsibility for VSP engineers. Automatic issue assignment is a feature adopted in Sentry `10.0`.
 
 ## Issue owners and alerting rules
-As stated above, the issue owners feature does not automatically assign issues in Sentry `9.1.2`. 
+As stated above, the issue owners feature does not automatically assign issues in Sentry `9.1.2`, but it does suggest issue owners.
 
 The implementation details below will not be adopted until Sentry 10:
 * The “Issue Owners” feature allows developers to reduce noise by directing notifications to specific teams based on a path or URL. VFS teams are responsible to provide VSP with a list of paths and URLs that are of concern to their team. By assigning specific alerting rules, Sentry allows teams to pass issues to the developer who can fix them, faster. By defining paths/urls of concern to a team, issues are automatically assigned to teams.
