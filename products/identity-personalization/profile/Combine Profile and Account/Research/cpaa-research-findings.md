@@ -53,7 +53,7 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 - Does the labeling on the left nav make sense?
 
 ## Key Findings
-1. Participants preferred the new profile design to the old design.
+1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile.
 2. Participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.
 3. Users expect to see their benefit information on their profile. 
 4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).
@@ -61,8 +61,8 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 
 ## Details of Findings
 
-**1. Participants preferred the new profile design to the old design.** 
-4/5 participants preferred the overall layout of the new profile 2.0, specifically calling out the new side nav design.  The participant that preferred the old profile was in the 55-65 age range. All participants stated that finding the pages they needed in the new design was 'easy'. Many thought the old layout seemed too information dense and difficult to navigate. 
+**1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile.** 
+4/5 participants preferred the overall layout of the new profile 2.0, specifically calling out the new side nav design.  The participant that preferred the old profile was in the 55-65 age range. Many thought the old layout seemed too information dense and difficult to navigate. As far as wayfinding, all participants stated that finding the pages they needed in the new design was 'easy'. All participants were able to locate the profile page from the home page on both mobile and desktop, though they used a variety of methods (Sign-in, My VA, Menu, Records).  
  > “You can go through and see most relevant info. It seems pretty intuitive. Once you are here. That something a lot of the VA profile did not have in the past, it was more utilitarian and was not intuitive, not a lot of thought process put into it. This makes it user friendly.”
  
  > "You know, looking at the older site, like I said it just seemed like there was a lot more going on, which can be confusing for...I was going to say for like older Veterans, but I guess for everyone really."
@@ -104,7 +104,7 @@ All users mentioned that they would expect to see benefit information in their p
 > "Maybe in addition to the direct deposit and the connect apps and the personal information if there was something like benefits you are currently using, currently receiving...benefits you are currently using. Because chances are if I am logging on to VA.gov, it has to do with one of the benefits I am using."
  
 **4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).** 
-All participants expected the email address shown in 'Personal and contact information' represented the email address used to log-in. Participants didn't notice the 'more information' drop down and even after reading the 'More Information' content there was confusion about updating the contact email vs the log-in email.
+All participants expected the email address shown in 'Personal and contact information' represented the email address used to log-in. Participants didn't notice the 'more information' drop down and even after reading the 'More Information' content there was confusion about updating the contact email vs the log-in email.  Users also expected log-in information to live in Account security.
 
 > "I just didn’t notice it. But I would imagine that changing your email address would change your DS and ID."
 
@@ -118,7 +118,7 @@ Users expected the log-in information to live under 'Account Security'.
 > "(In account security) I would expect to see either a phone number or email address you can edit - I think I use a phone number as my two factor. I would expect to see that is the factor they are using the correct either phone number or email address."
 
 **5. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.**
-Users expected connected apps to live in the profile pages, they understood the terminology used and easily found the pages.  There was some confusion about how to connect an app. (Clarifier: Inn order for users to disconnect, they must first connect and that is done on a third-party app. The users we tested with did not have this real life context, when they gave their feedback.)
+Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expeced connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Inn order for users to disconnect, they must first connect and that is done on a third-party app. The users we tested with did not have this real life context, when they gave their feedback.)
 > "Well, because it’s third party access, they need to to connected in first place. Umm, so I would imagine you both connect and disconnect in the same place." 
 
 > "It's intuitive. It’s similar to other apps I use for uhm, like Drop Box per-say, where I have other apps that have access to it. Where I can have access to verify who has access to it and I can block them or allow it. It’s good.”
@@ -129,12 +129,16 @@ No users read the 'app disconnected' confirmation message, but after reading the
 ## Additional Insights
 - Users liked the 'name-tag' area, but it's taking up too much space in the mobile view.
 - All users preferred desktop to mobile
-- Users navigated to the profile page in many different ways (Sign-in, My VA, Menu, Records), but all participants found their way to their profile
 - 4/5 participants preferred the new side nav design to the old profile design.
+- All users easily understood what content was editable
+- FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ
+- Once users found the 'profile menu' they were able to find and use it again easily
+- The side nav design increases ease of scanability in profile 2.0
+- 
 
 ## Recommendations
-- Make mobile subnavigation clearer for the logged in experience
-- Add clarification around email address in Personal and Contact information and add email addresses to Account Security
+- Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to logged-in experience, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
+- Add clarification around email address in Personal and Contact information and add email address to Account Security
 - Possibly add benefits overview to profile (this hinges on decisions around the logged-in homepage)
 - Remove/shrink military badge in 'nametag'
 
@@ -149,6 +153,10 @@ No users read the 'app disconnected' confirmation message, but after reading the
 - Create mocks for proposed nametag view
 
 ## Appendix
+
+### Topline Summary:
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/cpaa-topline-summary.md
+
 ### Conversation guide: 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Profile-2.0-Conversation-Guide.md
 
