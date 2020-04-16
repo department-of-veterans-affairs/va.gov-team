@@ -16,7 +16,7 @@
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Jen Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
+|Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
 
 ## Table of Contents
 
