@@ -53,7 +53,7 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 - Does the labeling on the left nav make sense?
 
 ## Key Findings
-1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile.
+1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile using the new navigation.
 2. Participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.
 3. Users expect to see their benefit information on their profile. 
 4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).
@@ -61,7 +61,7 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 
 ## Details of Findings
 
-**1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile.** 
+**1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile using the new navigation.** 
 4/5 participants preferred the overall layout of the new profile 2.0, specifically calling out the new side nav design.  The participant that preferred the old profile was in the 55-65 age range. Many thought the old layout seemed too information dense and difficult to navigate. As far as wayfinding, all participants stated that finding the pages they needed in the new design was 'easy'. All participants were able to locate the profile page from the home page on both mobile and desktop, though they used a variety of methods (Sign-in, My VA, Menu, Records).  
  > “You can go through and see most relevant info. It seems pretty intuitive. Once you are here. That something a lot of the VA profile did not have in the past, it was more utilitarian and was not intuitive, not a lot of thought process put into it. This makes it user friendly.”
  
