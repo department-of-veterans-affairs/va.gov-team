@@ -1,22 +1,8 @@
-scenario.messages = {
+scenario.cdc_wrapper_messages = {
 
-welcome: `Hello, I'm here as the VA coronavirus chatbot to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.`,
-
-emergencyWarning: `**If you or someone else has any of these emergency warning signs of COVID-19, please call [911](tel:+1911) to get medical care right away:**
-
-- Trouble breathing
-- Persistent (continuing) pain or pressure in the chest
-- Bluish lips or face
-- New confusion (suddenly feeling confused)
-- Inability to arouse (trouble waking up or staying awake)`,
-
-beforeWeGetStarted: `**Before we get started, do you have any of the symptoms listed below?**
-
-- Fever
-- Cough
-- Shortness of breath`,
-
-cdcSymptomCheckerPreText: `The Centers for Disease Control and Prevention (CDC) designed this tool to help you make decisions about seeking appropriate medical care.`,
+cdcSymptomCheckerPreText: `
+The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care. If you'd like to come back to choose another topic in the VA coronavirus chatbot, you can refresh the page to start over.
+`,
 
 cdcSymptomCheckerPostText: {
   /* CDC msg0: Please make a selection so I can help give you care advice. */
