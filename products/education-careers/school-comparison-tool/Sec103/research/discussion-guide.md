@@ -42,6 +42,14 @@ Before we look at the website, let’s start with a few warm-up questions.
   - What were you looking for? 
   - Do you recall how you first learned about it? 
 
+Before we get started, I'd like you to share your screen with me. In Zoom, can you select the Share button?
+On this next screen, let's go with the default selection. Also, there is a checkbox that says "Share computer sound." Can you make sure that it's checked and select "Share"?
+** Confim that the screen reader is audible.
+** Confirm that screensharing works.
+
+Okay. Now I'd like you to open a new browser window or tab.
+I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the Url - which would you prefer?
+
 
 ## First Task: Find Section 103 - 15 minutes
 You have a friend who had to take a loan back in 2018 due to late VA payments to their school.  You know that the VA has taken steps to keep this from happening again, but that schools may require certain documentation from you to attend classes if the payments are late.  You’re interested in attending Midland University in Fremont Nebraska, how would you use the Comparison Tool to find what information Midland University requires?
