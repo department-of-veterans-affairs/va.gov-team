@@ -30,7 +30,7 @@
 | Symbol | Meaning |
 | --- | --- | 
 | :white_check_mark:| Complete |
-| :zap: | To Do |
+| :zap: | To Do
 | :no_entry_sign:| blocked |
 
 ## User Stories
