@@ -28,9 +28,9 @@ If you'd like to get more answers to questions about COVID-19 and VA benefits an
 ## 5. Sorry you’re feeling sick. Call a medical provider within 24 hours (have some COVID symptoms and medical conditions putting them at greater risk)
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
+- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments.
 
 **If you decide to go to a VA facility for urgent care**
 
@@ -43,9 +43,9 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 
 _[N/A]_
 
-## 7. Contact a healthcare provider in the long-term care facility where you live
+## 7. Contact a health care provider in the long-term care facility where you live
 
-If you have non-urgent questions, you can [send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
+If you have non-urgent questions, you can [send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
 We're taking many precautions to help protect Veterans in our VA nursing homes. This includes limiting outside visitors. <br>[Learn more about steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
 
@@ -54,9 +54,9 @@ We're taking many precautions to help protect Veterans in our VA nursing homes. 
 **If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
 
 ### To contact your VA provider or request a telehealth visit by phone or video, you can:
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
+- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments.
 
 ### If you decide to go to a VA facility for urgent care
 
@@ -68,9 +68,9 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 ## 9. Stay home and take care of yourself in home isolation. Call a medical provider within 24 hours
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
+- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments.
 
 **If you decide to go to a VA facility for urgent care**
 
@@ -84,9 +84,9 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 **If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
-- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
-- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
-- [Request a telehealth appointment online]((https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments
+- [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
+- [Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat) if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature.
+- [Request a telehealth appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) for some types of appointments.
 
 **If you decide to go to a VA facility for urgent care**
 
