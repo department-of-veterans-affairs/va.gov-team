@@ -4,7 +4,7 @@ GIBCT users who are estimating benefits, especially those with accessibility cha
 
 The following enhancements are designed to provide an indicator in the Comparison Tool to increase awareness for Veterans of the institutions that comply with Sec. 103. 
 
-[GIBCT PL 115-407 Section 103 v0.2 for Usability Testing - (Work in Progress)]()   
+[GIBCT PL 115-407 Section 103 v0.2 for Usability Testing](https://bahdigital.invisionapp.com/share/QHIADJPTRJ8)   
 [GIBCT PL 115-407 Section 103 v0.2](https://bahdigital.invisionapp.com/share/7RIADHXPZFD)  
 [GIBCT PL 115-407 Section 103 v0.1](https://bahdigital.invisionapp.com/share/7NIADE8GMJ2)      
 [GIBCT PL 115-407 Section 103 v0.0](https://bahdigital.invisionapp.com/share/X8IADF2EVR6)    
