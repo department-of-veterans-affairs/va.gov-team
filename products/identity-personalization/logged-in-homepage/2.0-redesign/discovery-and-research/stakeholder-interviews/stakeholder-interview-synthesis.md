@@ -82,9 +82,17 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
    
 
-2. We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.
+2. **We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.**
+
+   This is another symptom of the logged-in homepage and navigation largely staying the same - stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to myVA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu - it contains ALL the items, even when logged in, which requires significant cognitive load to sort through and find the task they actually came to complete. 
+
+   While myVA *does* guide Veterans to tasks and tools, it's not used much (reference above research), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
+
+   
 
 3. Veterans are not receiving effective updates or communication through VA.gov
+
+   
 
 ### Goals
 
