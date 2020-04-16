@@ -1,6 +1,6 @@
 scenario.messages = {
 
-welcome: `Hello, I'm here as VA's virtual assistant to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.`,
+welcome: `Hello, I'm here as the VA coronavirus chatbot to help answer your questions about the coronavirus COVID-19 and VA benefits and services. If I can't answer all your questions, I'll help you connect to a call center representative.`,
 
 emergencyWarning: `**If you or someone else has any of these emergency warning signs of COVID-19, please call [911](tel:+1911) to get medical care right away:**
 

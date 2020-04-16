@@ -21,7 +21,7 @@ do_next: `
 `,
 
 exit: `
-Thank you for using our coronavirus virtual assistant. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
+Thank you for using our VA coronavirus chatbot. If you have more questions later, you can use the tool again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
 `,
 
 /* 12. What should I do if I have an upcoming VA health appointment? */
