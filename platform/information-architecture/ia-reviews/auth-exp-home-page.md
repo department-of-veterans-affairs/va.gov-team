@@ -55,3 +55,19 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**4/16/20 - Kick-off**
+- when logged in you have the home page and the My VA Dashboard - they compete for attention with the Veteran
+- Dashboard is supposed to be a personalized space with VA - many don't use or know about it
+- Current dashboard is designed like a content page, doesn't utilize the design system
+- User goals:
+  - easy access to tools/tasks specific to my VA experience
+  - easily see status updates and notifications
+  - quickly complete tasks the user came to do and move on
+- Biz goals: 
+ - lay a foundation for a personalized home page that is relevant to the user type and their tasks
+ - have a place to highlight status updates and notifications
+ - retire My VA
+- Future thoughts for authenticated tools navigation 
+- Logged in home page vs profile?
+- Timeline - launch before end of year would be awesome, doing discovery phase now, this will likely be broken down into a couple projects
+
