@@ -3,7 +3,7 @@
 
 ## Contents
 - [Setting Direction-Guideposts, OKRs, and Bets](#setting-direction-guideposts-okrs-and-bets)
-- [Product Documentation](#product-documentation)
+- [Documentation](#documentation)
   - [Product Outline](#product-outline)
   - [Roadmap](#roadmap)
 - [Delivery](#delivery)
@@ -12,8 +12,9 @@
   - [Agile Ceremonies](#agile-ceremonies)
   - [Sprint Objectives](#sprint-objectives)
   - [Issue Templates and Examples](#issue-templates-and-examples)
-  - [Team of Teams](#team-of-teams)
 - [Launch Prep](#launch-prep)
+- [Misc](#misc)
+  - [Team of Teams](#team-of-teams)
 
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
@@ -24,7 +25,7 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 ### Documentation
 #### Product outline
-- Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". 
+- Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". These outlines capture key decisions made, pivots, and the results of our hypotheses. 
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
   - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
@@ -44,8 +45,26 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
 - Examples 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
+  
+#### Launch Reports
+
 
 ### Delivery
+
+#### Issue Templates and Examples
+<details>
+<summary>
+
+| Issue Type | Examples |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=epic-issue.md&title=) | * [Facility Locator Urgent Care MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4193)<br> * [Product Success Tool - Iterate to include Predictive Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3670) |
+| [User Story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=) | * [Suppress urgent care pharmacy searches within Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5129)<br> * [[User Testing] BDD Conduct User Testing Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5096)<br> * [[Launch on 1/29] Redirect from facility detail pages to new VAMC Pittsburgh pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3564) |
+| [Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=bug&template=bug-issue.md&title=) | * [[Bug] Letters: Javascript error seen when address is undefined.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5107)<br> * [Move Breadcrumbs to Higher Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4938) |
+| [508 Issue (Accessibility)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/.github/ISSUE_TEMPLATE/508-issue.md) | [[COGNITION]: Error message should only display once per error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5948) |
+| [Public Websites Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) | [[Content] HLR: Introduction Page Copy Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5622) |
+
+</summary>
+</details>
 
 #### VSP Collaboration Cycle
 
@@ -77,14 +96,16 @@ Resources:
   - "Complete Yellow Ribbon Research + Synthesis"
   - "Build new endpoint to expose new YR data"
 
-#### Issue Templates and Examples
-| Issue Type | Examples |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=epic-issue.md&title=) | * [Facility Locator Urgent Care MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4193)<br> * [Product Success Tool - Iterate to include Predictive Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3670) |
-| [User Story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=) | * [Suppress urgent care pharmacy searches within Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5129)<br> * [[User Testing] BDD Conduct User Testing Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5096)<br> * [[Launch on 1/29] Redirect from facility detail pages to new VAMC Pittsburgh pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3564) |
-| [Bug](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=bug&template=bug-issue.md&title=) | * [[Bug] Letters: Javascript error seen when address is undefined.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5107)<br> * [Move Breadcrumbs to Higher Location](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4938) |
-| [508 Issue (Accessibility)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/.github/ISSUE_TEMPLATE/508-issue.md) | [[COGNITION]: Error message should only display once per error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5948) |
-| [Public Websites Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) | [[Content] HLR: Introduction Page Copy Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5622) |
+
+
+### Launch Prep
+   - [Launch Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/launch-playbook)
+   - [Product development checklist (update coming)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
+   - [Launch Guide (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Product_Launch_Guide.md)
+   - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
+   - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
+   
+   ### Misc 
 
 #### Team of Teams (ToT)
 An opportunity for product managers and DEPO leads working across VA.gov to share updates for awareness, dependencies, blockers. 
@@ -98,10 +119,3 @@ An opportunity for product managers and DEPO leads working across VA.gov to shar
   - [Vets/VA Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=972187789)
   - [Access to Error Logging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/internal-tools.md)
   - [VA.gov Form Mapping Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/va.gov-form-mapping-guide.xlsx)
-
-### Launch Prep
-   - [Launch Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/launch-playbook)
-   - [Product development checklist (update coming)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
-   - [Launch Guide (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Product_Launch_Guide.md)
-   - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
-   - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
