@@ -42,13 +42,13 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 
 ## 6. Contact the occupational health provider at your workplace immediately (have some COVID symptoms and work at healthcare facility)
 
-_[N/A]
+_[N/A]_
 
 ## 7. Contact a healthcare provider in the long-term care facility where you live
 
 If you have non-urgent questions, you can [send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 
-We're taking many precautions to help protect Veterans in our VA nursing homes. This include limiting outside visitors. <br>[Learn more about steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
+We're taking many precautions to help protect Veterans in our VA nursing homes. This includes limiting outside visitors. <br>[Learn more about steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
 
 ## 8. Stay home and take care of yourself. Call your provider if you get worse
 
