@@ -87,7 +87,7 @@ We're currently testing Veterans who meet the [CDC criteria for testing](https:/
 
 **CDC coronavirus self-checker tool**
 
-The Centers for Disease Control and Prevention (CDC) designed this tool to help you decide when to seek medical care. If you'd like to come back to choose another topic in the VA coronavirus chatbot, you can refresh the page to start over.
+With this tool, CDC's chatbot guide, "**Clara**," will help you decide when to seek medical care. If you'd like to come back to the VA coronavirus chatbot to choose another topic, you can refresh the page to start over. <br>
 
 [Go to the CDC coronavirus self-checker](go to self-checker)
 
