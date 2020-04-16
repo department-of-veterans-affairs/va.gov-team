@@ -12,7 +12,10 @@ Very little research has been done on the claim status tool. What has been done 
 ## Product questions
 
 Learn more about: 
-- What people want to accomplish when they come to the current claim status tool? 
+- What research and recommendations already exists?
+- What can be learned from other companies and organizations about claim status tracking and tools? 
+- Learn more about user expectations towards tracking tools in general.
+- What are the current use cases within the current claim status tool?
 - What are the painpoints and limitations of the current tool? 
 - What are working well with the current tool? 
 - How can the current tool be improved? 
@@ -20,9 +23,8 @@ Learn more about:
 
 How to create a better Claim Status Tool:
 - How can the claim status tool be redefined, to create a better and more efficient experience? 
-- Investigate how the new claims tool can be pushed further, and open up for not only better user experiences, but potentially broaden the scope and possibilities of such a tool. 
-- Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
-- Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
+- Investigate how the new claims tool can be pushed further, and open up for not only better user experiences, but potentially broaden the scope and possibilities of such a tool. Could the new tool expedite additional use cases? 
+- Investigate how this tool can integrate with other parts of VA.gov, especially with regards to the revamp of the content pages (communicate with Liz Lantz). 
 - Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
 
 
