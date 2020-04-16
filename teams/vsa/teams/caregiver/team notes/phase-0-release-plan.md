@@ -4,20 +4,20 @@
 - [User Stories](#user-stories)
 
 ## Draft Timeline
-| Date | Milestone |
-| --- | --- | 
-| April 10 | Content and design complete* |
-| April 14 | VSP Analytics request |
-| April 21 | Frontend complete |
-| April 30 | Acumen endpoint delivery |
-| May 4 | VSP Contact Center Review |
-| May 15 | Backend complete |
-| May 18 | VSP Privacy and Security Review |
-| May 18 | VSP Staging Review |
-| May 18 - May 22 | End-to-end testing with CARMA |
-| May 27 | Dry Run Release
-| May 29 | Phase 0 dark release (proof of concept)|
-| June 1 | VSP Full Accessibility and 508 Office Audit |
+| Date | Milestone | Additional Detail | 
+| --- | --- | --- | 
+| April 10 | Content and design complete* | |
+| April 14 | VSP Analytics request | |
+| April 21 | Frontend complete | |
+| April 30 | Acumen endpoint delivery | |
+| May 4 | VSP Contact Center Review | |
+| May 15 | Backend complete | |
+| May 18 | VSP Privacy and Security Review | |
+| May 18 | VSP Staging Review | |
+| May 18 - May 22 | End-to-end testing with CARMA | |
+| May 27 | Dry Run Release| |
+| May 29 | Phase 0 dark release (proof of concept)| |
+| June 1 | VSP Full Accessibility and 508 Office Audit | |
 
  `*` Risk - this is still in progress, and could take additional time to reach agreement
 
