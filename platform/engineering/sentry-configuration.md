@@ -26,7 +26,7 @@ Each VFS team needs to designate a Sentry administrator and provide the name of 
 The Issue Owners feature has some limitations with automatic issue assignment in Sentry `9.1.2`. For now, issue assignment will be a manual process responsibility for VSP engineers. Automatic issue assignment is a feature adopted in Sentry `10.0`.
 
 ## Issue owners and alerting rules
-As stated above, the issue owners feature does not automatically assign issues in Sentry `9.1.2`, but it does suggest issue owners.
+As stated above, the issue owners feature does not automatically assign issues in Sentry `9.1.2`, but it does suggest issue assignees.
 
 The implementation details below will not be adopted until Sentry 10:
 * The “Issue Owners” feature allows developers to reduce noise by directing notifications to specific teams based on a path or URL. VFS teams are responsible to provide VSP with a list of paths and URLs that are of concern to their team. By assigning specific alerting rules, Sentry allows teams to pass issues to the developer who can fix them, faster. By defining paths/urls of concern to a team, issues are automatically assigned to teams.
