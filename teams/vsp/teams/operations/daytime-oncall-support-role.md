@@ -7,7 +7,7 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
 * Responding to and reviewing any internal or external DevOps PRs
-* Respond and grant [approved access](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/operations/Internal_Onboarding_Instructions.md) to requests for access in Zenhub or remove accesss per [offboarding requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md).
+* Respond and grant [approved access](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/operations/Internal_Onboarding_Instructions.md) to requests for access in Zenhub or remove access per [offboarding requests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md).
 * Supporting and monitoring deployments
 * Small, non-critical issues that can be easily stopped/started
 * Working on Postmortem action items.
