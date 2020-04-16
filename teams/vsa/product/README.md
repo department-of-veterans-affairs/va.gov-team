@@ -22,6 +22,7 @@
   
 </details>
 
+---
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
 They establish quarterly Objectives and Key Results (OKRs) that advance them towards their vision. 
