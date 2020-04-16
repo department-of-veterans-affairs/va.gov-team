@@ -437,8 +437,8 @@ You bring:
 Begin thinking about how your product should be evolving based on the results you've reported.
 
 VSA teams: 
-- Complete your [VSA Initiative Impact Report](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
-- Reach out to Mickin with your completed Report in DSVA #vsa-product and work together to schedule a 30min debrief + QA of your Report with the VSA Practice Leads, your PO, and DEPO Leads 
+- Complete your [VSA Initiative Impact Report](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1) and share with VSA Product Lead (@mickin) for feedback
+- Work with VSA Product Lead to schedule a 30min debrief + QA of your Report with the VSA Practice Leads, your PO, and DEPO Leads 
 
 ## For further support at this point
 Reach out in #vfs-all-teams with questions
