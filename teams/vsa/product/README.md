@@ -54,7 +54,8 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
   
 #### Launch Reports
-
+Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
+- [VSA Initiative Launch Report Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
 
 ### Delivery
 
