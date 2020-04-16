@@ -51,7 +51,7 @@ Sentry users can obtain more error-related details by drilling down into individ
 
 ## Tagging standards
 
-VFS engineers are  responsible for complying with VSP’s current [tagging standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md). A list of existing tags can be found in Sentry as a per project based setting.
+VFS engineers are  responsible for complying with VSP’s current [tagging standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md). A list of existing tags can be found in Sentry as a per project based setting. Tags can be utilized as a measure along with issue assignment to filter errors realted to your team.
 
 ## Slack Sentry reaction legend
 We currently have a Slack emoji reaction legend pinned in the `#vfs-sentry-alerts` Slack channel. This legend allows developers to acknowledge issues and remove overlap during issue investigation. The legend can be found with the pinned items in the `#vfs-sentry-alerts` Slack channel.
