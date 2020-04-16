@@ -2,6 +2,7 @@
 
 Now that BAH has implemented DEPO's new Caution Flag pattern into the Search Results Page, we're focusing on enhancements to the Caution Flags in the Institution Profile. Part of our work is also focused on continuing improvements for Caution Flags in the search. A major aspect of this work is language considerations, specifically making the Caution Flags plain language to improve user comprehension.
 
+[CT  Caution Flags v0.3 - Filter Content Update](https://bahdigital.invisionapp.com/share/ZAIADJGP9QT)  
 [GIBCT Caution Flags SRP-Profile v0.2 - Desktop for Developers](https://bahdigital.invisionapp.com/share/N5IAD8MHTC9)  
 [GIBCT Caution Flags SRP-Profile v0.2 - Desktop](https://bahdigital.invisionapp.com/share/EYIADACT3Z8)      
 [GIBCT Caution Flags SRP-Profile v0.1 for Testing - Scen 3/4](https://bahdigital.invisionapp.com/share/NCIAD3HABU7)  
