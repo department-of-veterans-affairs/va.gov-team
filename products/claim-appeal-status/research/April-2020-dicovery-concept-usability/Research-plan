@@ -1,22 +1,17 @@
 # Claim Status Tool: Research plan
 
-This doc outlines our research/discovery needs for the new Claim Status Tool. By Christian Valla
+This doc outlines our research/discovery needs for the new Claim Status Tool. 
+By Christian Valla
 
 ## Project background
 
-The Claim Status Tool was launched approximately 3 years ago and only minor changes has been done since. This tool is used often, some chack it every day, by millions of users. We see this as a great opportunity to create a great user experience for veterans depending on this tool. 
+The Claim Status Tool was launched approximately 3 years ago and only minor changes has been done since. This tool is a priority to improve as it is used frequently by millions of veterans. (Some veterans check their claim status several times a week.) We see this as a good opportunity to create a great user experience for veterans using and depending on this tool. 
 
-Very little research has been done on this tool. What has been done is shared here: [research we did over the summer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
-
-We would like to do research in 4 phases:
-1. Previous work review (very little, so this will be minimal) including a detailed mapping of the current tool.
-2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into hoe other companies / organizations are dealing with (claim) status tracking. 
-3. Usability test of excisting claim status tool (if applicable: include early concepts to test).
-4. Concept testing and usability testing of the new claim status tool. 
+Very little research has been done on the claim status tool. What has been done is shared here: [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 
 ## Product questions
 
-How to create a better Claim Status Tool, that does what the current tool does, better, but also look into how this tool can be pushed further, and open up for not only better user experience, but potentially broaden the scope and possibilities of such a tool. 
+How to create a better Claim Status Tool, that does what the current tool does, better, but also to look into how this tool can be pushed further, and open up for not only better user experience, but potentially broaden the scope and possibilities of such a tool. 
 Understand what users needs and wants from such a tool. 
 Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
 Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
@@ -27,156 +22,92 @@ Learn about:
 - What are the painpoints and limitations of the current tool? 
 - What are working well with the current tool? 
 - How can current tool be improved? 
-- How can the claim status tool be redefined, to create a better and more efficien
-
-
+- How can the claim status tool be redefined, to create a better and more efficient? 
 
 
 ## Research needs
 
-We'd like to complete the following as part of this discovery effort:
+We would like to propose a research process consiting of 4 phases:
 
-- [Previous research review](#previous-research-review)
-- [Analytics review](#analytics-review)
-- [User interviews/testing](#user-interviewstesting)
-- [Stakeholder interviews](#stakeholder-interviews)
-- [Research synthesis](#research-synthesis)
+1. Previous work review, including a detailed mapping of the current tool/flow.
+2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into hoe other companies / organizations are dealing with (claim) status tracking. 
+3. Usability test of excisting claim status tool (if applicable: include early concepts to test).
+4. Concept testing and usability testing of the new claim status tool. 
 
-### Previous research review
+### 1. Previous research review
 
-We'd like to go through previous research that has informed what we have now on VA.gov and what we might like to have/improve in the future. With this context, we can make sure this next research project is supplemental and not redundant of previous research.
-
-This is a non-exhaustive list of some of the previous research that would inform this work. In the event someone else was able to help us with this discovery phase, we'd help find any additional research/resources we wanted to be considered.
-
-Past research
-
-- [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
-- [Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
-- [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
-- [Brand consolidation research (2018)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/user-research)
-  - [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203%20Research%20Readout.pptx)
-  - [April 2018 deck 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203b%20Research%20Readout.pptx)
-  - [September 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
-  - [October 1, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-6/Brand%20Consolidation%20Research%20Summary%2010-1-2018_study%206%20only.pptx)
-  - [October 25, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx)
-- My VA research
-  - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
+We'd like to go through all previous research on the claim status tool, to learn from it and make sure we are not duplicating any research. 
+Are there any existing, relevant quantitative research?
   
-### Analytics review
+### 2. Discovery phase
 
-We want to look at analytics to get a better sense of how users behave at scale. We will look into the following:
+We want to understand better what a claim status tool can be, what the possibilities are for good user experiences, and what business opportunities are here. We will start with a competitive analyses and see how other companies and organizations and handling claims, status tracking, progress info etc.
 
-#### General
+### 3. Usability test of the current claim status tool
 
-- What are the top ~20  pages visited on VA.gov?
-  - How does this change if we look at top pages for logged out users vs. logged in users?
-- What are the top ~20 search terms on VA.gov?
-- What are the top ~20 entry points for VA.gov?
-- After people enter the site, what is the next thing they do?
-- % of traffic by device (desktop; tablet; mobile).
+- Why are users coming to the claim status tool? 
+- What are the most frequent use cases?
+- What expectations do users have to the tool? How is the tool meeting these expectations?
+- What are the usability issues and pain points?
+- What would make the tool more useful?
+- What is working well with the current tool?
+- What are the needs and wants that users have that are not being met by the current tool?
 
-#### Homepage
 
-- What page do people visit BEFORE the homepage?
-- How often is the homepage people's first entry point?
-- What links do people click from the homepage?
-- How many people visit the homepage?
+### 4. Concept testing and usability testing of new claim status tool
 
-#### My VA
+- Test early concept of a new claim status tool. 
+- Usability test of new claim status tool. 
 
-- What page do people visit BEFORE My VA?
-- Is My VA ever a first entry point?
-- What do people do from My VA? (ie. what links do they click?)
-- How many people visit My VA? 
 
-This is [already in-progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6322) and we will likely not need any help beyond considering analytics in synthesis.
-
-### User interviews/testing
-
-Even with previous research and an analytics review, we feel strongly that talking to veterans would help us further clarify what users need and expect from the logged in homepage. Analytics can tell us what; user interviews and testing can tell us why.
-
-#### Questions we have
-
-- Why do people come to VA.gov? What do they want to do?
-- Why do people log in to VA.gov?
-- Why do people go to the homepage?
-- What makes the logged in homepage useful now? What would make it more useful?
-- What do they expect to see on a logged in homepage?
-- Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
-- Why do people go to My VA?
-- What makes My VA useful? What would make it more useful than it is now?
-- Where do people expect to see/receive notifications? How would notifications be most helpful to people?
-- What are the main things people do on all VA digital tools (both on VA.gov and outside of it)?
-- What are people's pain points that might be relevant to our logged in homepage work?
-- Do people trust the data they see on VA.gov?
 
 #### Tasks
 
-- Create a research plan/design
-- Create a conversation guide/script
-- Recruit participants (note: we can use the VA contractor, Perigean, to help us recruit and schedule)
-- Conduct research
-- Synthesize
+- Finish this research plan.
 
-#### Thoughts on methods
+- Do a previous research review.
 
-- Some of the research will likely be in interview format
-- We may or may not want to show users the following as discussion tools:
-  - The existing logged in homepage
-  - My VA
-  - [This blue sky protoype of a logged in VA.gov](https://vsateams.invisionapp.com/d/main?origin=v7#/projects/prototypes/13596891?scrollOffset=216)
-  
-#### Additional user research
+- Do a competitive analysis.
 
-- We are open to additional user research beyond interviews if it would be helpful in us getting answers to our questions.
+- Recruit participants for usability study of current tool.
+- Make sure claim status tool can be tested in staging. (?)
+- Create a conversation guide/script for usability test of current tool. 
+- Execute usability study of current tool.
 
-### Stakeholder interviews
+- Recruit participants for concept testing of new tool ideas. 
+- Create prototype for new claims tool. 
+- Write a conversation guide for concept test.
+- Concept testing of new claim status tool. 
 
-#### Who
+- Recruit participants for usability study of new claims tool. 
+- Create prototype and conversation guide. 
 
-For this work, our stakeholders are all part of DEPO. We recommend at least a 30 minute chat to gather needs/thoughts/opinions from the following folks.
+- Conduct usability test of new claims tool.
 
-These people probably have lots of opinions:
+- Synthesize research 
 
-- Charles Worthington
-- Chris Johnston
-- Lauren Alexanderson
-- Samara Strauss (if I'm not doing the interviews)
-- Clarice Chan
 
-These people may have some opinions:
+#### Methods
 
-- Steve Kovacs
-- Andrea Schneider
-- Matt Self
-- Jen Lee
-- Ryan Thurlwell
-- Mel Woodard
+- Previous research review
+- Competitive analysis
+- Usability test (remote, zoom)
+- Concept test (remote, zoom)
+- Usability test (remote, zoom) 
 
-#### Tasks
-
-- Create a conversation guide
-- Conduct interviews
-- Synthesize
-
-## Additional research
-
-- Comparative analysis: Other logged in experiences
 
 ## Next steps
 
-- Outline goals
-  - What is going to be on the actual homepage?
-  - Structure/design
-  - User expectations
-- Map those to each method
+- Finish this research plan.
+- Complete a previous research review.
+- Complete a competitive analysis.
+- Recruit participants for usability study of current tool.
+
 
 ### Research synthesis
 
-Post research, everything needs to be sythesized and final recommendations need to be made. This could take on a few different shapes if someone else is helping out:
-
-1. The researcher synthesizes the activities above, but Samara/Clarice do the final synthesis of all research and make recommendations.
-2. The researcher/Samara/Clarice all work together on the final synthesis and recommendations.
-3. The researcher does all the final synthesis and recommendations and presents those to our team.
-
-The approach probably depends on a few factors and should be determined with input from the researcher.
+- A small report that summarizes the Previous Research Review and the Competitive analysis. W / Recommendations. 
+- A report from the usability test of the current claim status tool. 
+- A report from early concept testing of new claim status tool sketches / ideas.
+- A report from the usability test of new claim status tool.
+- An executive summary from all research. 
