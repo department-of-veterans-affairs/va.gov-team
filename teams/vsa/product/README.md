@@ -2,19 +2,25 @@
 *The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).*
 
 ## Contents
+
+<details>
+  
 - [Setting Direction-Guideposts, OKRs, and Bets](#setting-direction-guideposts-okrs-and-bets)
 - [Documentation](#documentation)
   - [Product Outline](#product-outline)
   - [Roadmap](#roadmap)
 - [Delivery](#delivery)
+  - [Issue Templates and Examples](#issue-templates-and-examples)
   - [VSP Collaboration Cycle](#vsp-collaboration-cycle)
   - [MVPs](#mvps)
   - [Agile Ceremonies](#agile-ceremonies)
   - [Sprint Objectives](#sprint-objectives)
-  - [Issue Templates and Examples](#issue-templates-and-examples)
+  
 - [Launch Prep](#launch-prep)
 - [Misc](#misc)
   - [Team of Teams](#team-of-teams)
+  
+</details>
 
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
