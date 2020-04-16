@@ -17,13 +17,13 @@ Learn more about:
 - What are working well with the current tool? 
 - How can the current tool be improved? 
 - Understand what users needs and wants from such a tool. What would they like to accomplish within the tool, that they can't accomplish now?  
+
 How to create a better Claim Status Tool:
 - How can the claim status tool be redefined, to create a better and more efficient experience? 
 - Investigate how the new claims tool can be pushed further, and open up for not only better user experiences, but potentially broaden the scope and possibilities of such a tool. 
 - Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
 - Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
 - Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
-
 
 
 ## Research needs
