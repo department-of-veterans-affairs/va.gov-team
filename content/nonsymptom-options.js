@@ -133,6 +133,12 @@ scenario.option_lists = {
     "Ask a different type of question",
     "Talk with someone about my specific needs",
     "Nothing. I have the information I need."
+  ],
+
+  symptom_checker_do_next: [
+    "Ask a question",
+    "Talk with someone about my specific needs",
+    "Nothing. I have the information I need."
   ]
 
 };
