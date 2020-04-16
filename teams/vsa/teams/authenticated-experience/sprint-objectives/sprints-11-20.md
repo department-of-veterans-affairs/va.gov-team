@@ -565,6 +565,7 @@ Logged in homepage
 3. Profile 2.0: Continue build; implement updates from usability testing
 4. Profile 2.0: Analytics planning
 5. Address validation: Follow-up with veterans to see if they are still having issues saving their addresses
+6. PM — Review team docs
 
 **Non-project work**
 
@@ -599,6 +600,10 @@ Logged in homepage
 
 - Sandra's onboarding checklist #8074
   - **Matt** this ticket needs further grooming by you
+
+### PM
+
+- Review updated authenticated experience team documents #8038
   
 ### Logged-in homepage  
 
