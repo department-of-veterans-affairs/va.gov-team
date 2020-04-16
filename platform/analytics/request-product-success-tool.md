@@ -8,6 +8,8 @@ In order to ensure that KPIs will be tracked for product decisions, please ensur
 
 [VFS example of KPIs and OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md)
 
+(Future State: Reporting Process using the Product Success Tool in Team of Teams)
+
 ### Timing
 
 VSP Analytics & Insights will generally take 2-3 sprints to fulfill your request, depending on the complexity of your metrics.
@@ -22,3 +24,5 @@ Additional Definitions:
 - "I would like to see where users are clicking out from Urgent Care searches"
 - "I would like to see how many PDF downloads are happening after Urgent Care searches"
 - "I would like to see how many users are using the search term "Urgent Care""
+
+We may reach out for a follow up meeting to further define your goals. 
