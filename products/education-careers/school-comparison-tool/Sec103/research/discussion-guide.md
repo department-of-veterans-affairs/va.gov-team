@@ -2,14 +2,17 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're how to find a school is compliant with the law within the GI Bill Comparison Tool on the VA website.
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're going to take a look at the GI Bill Comparison Tool.  Specifically, we're looking at how schools within the Comparison Tool comply with a particular law.
 
-Before we start, a few things I want to mention:
-- This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+Before we get started, a few things I want to mention:
+- This entire session should take about 45 minutes. I don't want to keep you much longer than that, so I may occasionally prompt you with the next question or topic.
+- During this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I won't be offended by any opinions you express, and welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
-- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
+Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
+
+  - If yes: Great - thank you.  Once I start recording, I'll ask again so we have your audible confirmation.
+  - If no: Ok. My team will just observe and take notes as we go. 
 
 Start recording.
 - 	I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
@@ -22,7 +25,7 @@ Start recording.
 - 	What browser are you using today?
 - 	Are you using a screen magnifier today?
 - 	What screenreader are you using today?
-- 	Do you know your screen reader's verbosity setting? High, medium, low?
+- 	Do you know your screen reader's verbosity setting? High, medium, low? Is that your standard setting (or do you tend to change it depending on what you're working with)?
 
 ## Warm-up Questions (Optional) - 10 minutes
 
@@ -30,14 +33,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your GI Bill education benefits?
 2.	What has been your experience with VA payments to your school?
-3.	Were you attending classes and receiving education benefits in the fall of 2018? 
+3.	Were you attending classes and receiving education benefits in the Fall of 2018? 
   - If yes, do you recall if you had any issues with VA late payments to your school? 
   - If yes, can you tell me a little about what happened?
 4.	Have you ever used the GI Bill Comparison Tool before?
+- If yes, fantastic! 
+  - When do you think the last time you used it was? 
+  - What were you looking for? 
+  - Do you recall how you first learned about it? 
 
 
 ## First Task: Find Section 103 - 15 minutes
--	You have a friend who had to take a loan back in 2018 due to late VA payments for schooling.  You know that the VA has taken steps to keep this from reoccurring, but that schools may have requirements for you to meet.  You’re interested in attending University X, how would you use the Comparison Tool to find out what information University X requires?
+You have a friend who had to take a loan back in 2018 due to late VA payments to their school.  You know that the VA has taken steps to keep this from happening again, but that schools may require certain documentation from you to attend classes if the payments are late.  You’re interested in attending Midland University in Fremont Nebraska, how would you use the Comparison Tool to find what information Midland University requires?
 
 Things to watch for:
 -	Where does the user initially look for the information?
@@ -54,7 +61,7 @@ Things to watch for:
 -	Do any other questions come to mind about this?
 
 ## Third Task: Additional Criteria - 5 minutes
--	You are also interested in attending University Y and are curious about their requirements for obtaining protection against late VA payments.  Please determine the requirements for this university.
+-	You are also interested in attending Clarkson College in Omaha NE and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining the requirements for this school?
   - What do you think “additional criteria” is?
   - How would you go about finding out more information?
 
@@ -73,5 +80,5 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
-Great, well thank you so much again, and enjoy the rest of your day!
+Great, thanks so much and enjoy the rest of your day!
 
