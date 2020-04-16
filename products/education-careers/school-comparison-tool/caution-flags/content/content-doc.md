@@ -2,7 +2,7 @@
 
 ## Caution Flag Filter
 
-### Warnings and school closings (Learn more) { modal link }
+### Warnings and school closings ([Learn more](modal)) 
 
 { modal content } 
 
