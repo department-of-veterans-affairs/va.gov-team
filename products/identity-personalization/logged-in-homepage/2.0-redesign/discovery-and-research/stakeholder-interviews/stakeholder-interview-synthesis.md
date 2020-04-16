@@ -20,8 +20,7 @@ As part of a larger discovery effort for the new logged-in homepage, we wanted t
 We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. A moderator began with introduction questions and prompted stakeholders with questions (from the conversation guide). Remote observers and note takers were also in attendance for some sessions.
 
 ### Who we talked to
-
-- Charles Worthington
+#### Round 1
 - Chris Johnston
 - Lauren Alexanderson
 - Samara Strauss
@@ -29,11 +28,9 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 - Steve Kovacs
 - Andrea Schneider
 - Matt Self
-- Jen Lee
 - Ryan Thurlwell
 - Mel Woodard
 - Kevin Hoffman
-- John Hashimoto
 - Mikki Northius
 - Dave Conlon
 - Andy Lewandowski
@@ -90,8 +87,9 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
    
 
-3. Veterans are not receiving effective updates or communication through VA.gov
+3. **Veterans are not receiving effective updates or communication through VA.gov**
 
+   When we have new information or updates for Veterans to act upon, they have to seek it out rather than us surfacing it for them upon logging in.  By not having a centralized place for Veterans to find these notifications, we're missing the opportunity to help Veterans complete their tasks more quickly, make them aware of actions they need to take, and quickly provide status updates.
    
 
 ### Goals
