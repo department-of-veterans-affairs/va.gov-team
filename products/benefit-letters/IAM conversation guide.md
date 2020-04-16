@@ -1,5 +1,5 @@
 # Conversation Guide: User Acceptance Testing for eBenefits IAM - logging in to eBenefits with partner services
-Logging in with DS Logon, ID.me and MHV credentials. The script is identical but the different scenarios have the users logging in with the various credentials, and the users are either Veterans or dependents
+Logging in with DS Logon, ID.me and MHV credentials. The script is identical but the different scenarios have the users logging in with the various credentials, and the users are either Veterans or dependents. The spreadsheet here https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/New%20CSP%20Pilot%20Test_V1%20(2).xlsm includes all the login scenarios to test and the expected outcomes by login type
 ### April 2020
 
 - Link to give participant: https://eauth.va.gov/accessva/?cspSelectFor=ebenefits 
