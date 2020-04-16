@@ -6,7 +6,7 @@
 - Slack channel: #va-search
 - Product POCs: 
    - Jennifer Lee, DSVA @Jen Lee
-   - John Hashimoto @John Hashimoto
+   - John Hashimoto, DSVA @John Hashimoto
    - Steph Orkand @Stephanie Orkand
 - Search.gov POC: 
    - Arantxa Pipernova (search@support.digitalgov.gov)
@@ -32,7 +32,7 @@ Onsite search has not been revisited since the rebranding launch and transition 
 
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
-- Provide a more comprehensive sitemap so search results are more accurate by allowing searching within a subdomain
+- Provide a more comprehensive sitemap (https://www.va.gov/site_map.htma) so search results are more accurate by allowing searching within a subdomain
 
 ## Assumptions
 - Capturing click events and sending them back to search.gov will help prioritize indexing
