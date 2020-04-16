@@ -5,24 +5,25 @@ By Christian Valla
 
 ## Project background
 
-The Claim Status Tool was launched approximately 3 years ago and only minor changes has been done since. This tool is a priority to improve as it is used frequently by millions of veterans. (Some veterans check their claim status several times a week.) We see this as a good opportunity to create a great user experience for veterans using and depending on this tool. 
+The Claim Status Tool was launched approximately 3 years ago and only minor changes has been done since then. This tool is a priority to improve as it is used frequently by millions of veterans. (It is not uncommon for veterans to check their claim status several times a week.) We see this as an opportunity to create a great user experience for veterans using and depending on this tool. 
 
 Very little research has been done on the claim status tool. What has been done is shared here: [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 
 ## Product questions
 
-How to create a better Claim Status Tool, that does what the current tool does, better, but also to look into how this tool can be pushed further, and open up for not only better user experience, but potentially broaden the scope and possibilities of such a tool. 
-Understand what users needs and wants from such a tool. 
-Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
-Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
-Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
-Learn about: 
+Learn more about: 
 - What people want to accomplish when they come to the current claim status tool? 
-- What would they like to accomplish that they cant now?  
 - What are the painpoints and limitations of the current tool? 
 - What are working well with the current tool? 
-- How can current tool be improved? 
-- How can the claim status tool be redefined, to create a better and more efficient? 
+- How can the current tool be improved? 
+- Understand what users needs and wants from such a tool. What would they like to accomplish within the tool, that they can't accomplish now?  
+How to create a better Claim Status Tool:
+- How can the claim status tool be redefined, to create a better and more efficient experience? 
+- Investigate how the new claims tool can be pushed further, and open up for not only better user experiences, but potentially broaden the scope and possibilities of such a tool. 
+- Learn more about the specific user behaviors and expectations are with regards to tracking tools in general. 
+- Investigate how this tool can integrate with other parts of VA.gov, and with the revamp of the content pages. 
+- Understand how the new claim status tool can best take care of the most common use cases in an efficient and elegant way.
+
 
 
 ## Research needs
