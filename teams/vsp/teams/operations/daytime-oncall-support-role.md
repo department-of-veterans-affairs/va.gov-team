@@ -2,7 +2,7 @@
 
 The Operations team can be “interrupted” by unscheduled requests that come in from the VFS or VSP teams, leadership, monitoring, and other teams and stakeholders at the VA. We want to find some ways to reduce the interruptions for individual team members and clarify who is responsible for handling each request by funneling individual tasks through one person. This person will handle things that can be handled directly and efficiently and delegate things that cannot. Some specific examples of the kind of requests handled by this developer are:
 
-* Normal daytime oncall [responsbilites](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) 
+* Normal daytime oncall [responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) 
 * Monitoring oncall channel
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
