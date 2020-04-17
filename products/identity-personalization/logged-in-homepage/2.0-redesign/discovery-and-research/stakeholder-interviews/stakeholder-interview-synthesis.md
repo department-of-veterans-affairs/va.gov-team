@@ -185,7 +185,7 @@ Multiple stakeholders also named companies who offer personalized experiences th
 
 ### Action items
 
-- Authenticated experience PO (Samara Strauss) should regroup with DEPO stakeholders on how to involve VA stakeholders in this project
+- Samara Strauss (current PO of Authenticated Experience team) should regroup with DEPO stakeholders on how to involve VA stakeholders in this project
 - We'll include Bank of America, USAA, Chase, Fidelity, Google, Apple, Delta, State Farm and Geico in our comparative analysis.
 - We'll continue with remaining research activities planned for this discovery effort: 
   - Past research review ([Issue #7265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7265))
@@ -197,4 +197,6 @@ Multiple stakeholders also named companies who offer personalized experiences th
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)
 - [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
+
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
+
