@@ -1,4 +1,4 @@
-# Product Outline: Logged-in navigation
+# Product Outline: Authenticated/logged-in navigation
 
 ## Communications
 
