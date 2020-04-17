@@ -20,9 +20,11 @@ All applications on the Veteran-facing Services Platform include a phone number 
 
 *If you're building a brand new service*:
 
-  1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors.
+  1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors. 
   1. The Product Guide must be a Word document or a PDF.
   1. Create a new folder in your team's Product folder called ```Contact Center.``` Store the Product Guide there.
+  
+      [Template for creating a product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/self-service-product-guide-template.md)
 
 *If you're building new features for an existing service*:
 
