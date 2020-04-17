@@ -11,14 +11,18 @@ Complete except for the protected rates page (issue #2212).
 
 Refer to issue #6807.
 
-Need to check with Nick about how to figure out how to redirect 2 pages that are treated differently from a technical perspective:
+**Need to check with Nick about how to figure out how to redirect 2 pages that are treated differently from a technical perspective:**
 - C&P claim exam
 - Add or remove a dependent
 
-Need to double check all redirects to determine:
+**ACTION ITEM:** Mikki to dig into where we left on with this and will determine next steps. When we have that figured out, Danielle to do a last audit of current legacy page vs. our page before we tell SMEs we're redirecting.
+
+**Need to double check all redirects to determine:**
 - What's been directed?
 - What hasn't been redirected?
 - What do we need to do to finish it?
+
+**ACTION ITEM:** Mikki to go through spreadsheet and check all redirects and post update here.
 
 ## Education
 
@@ -45,7 +49,9 @@ Refer to issue #19263 for rewriting (old Vets repo). We had paused this due to I
 
 Main yellow ribbon page was completed and redirected as part of parity effort.
 
-Conversations are in progress around how to handle the historic rates. Need to check in with Liz on the status of those conversations. 
+Conversations are in progress around how to handle the historic rates. Need to check in with Liz on the status of those conversations.
+
+**ACTION ITEM:** Mikki to check in with Liz. 
 
 ## Careers (Voc Rehab)
 
@@ -60,6 +66,8 @@ Epic #18107 and issue #18324 for rewriting (in old Vets repo).
 Parity work and relevant redirects complete.
 
 Refer to issue #2213 to see the pages that we need to rewrite. There seems to be confusion around this in the ticket. All of the pages were in various states of rewriting. We need to finish that work, get SME approval, and then we can implement redirects. All of the information we need is in Danielle's rewriting issues (linked to from Mikki's redirect issue).
+
+**ACTION ITEM:** Danielle to look at old tickets and come up with plan for editing/auditing/building in Drupal/moving through SME reviews & approvals.
 
 ## Housing 
 
