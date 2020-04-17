@@ -316,6 +316,22 @@ You bring:
   - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
   - **Markdown** [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 - List of known issues (with links to tickets when applicable)
+- On the request template, certify that the following accessibility checks are complete:
+    - Read the accessibility staging review documentation (required)
+    - Read the accessibility post-launch processes (recommended)
+    - Conduct axe browser scan, document or address issues found (required)
+    - Create or ensure end-to-end tests exist, and include the axe check (required)
+    - Add keyboard end-to-end tests in CI/CD test runs (recommended)
+    - Conduct axe-coconut browser scan, document or address issues found (recommended)
+    - Test with WAVE tool (recommended)
+    - Check color pairing for proper contrast (required)
+    - Check for colorblindness issues (required)
+    - Zoom to 200% and confirm readability, no info cut off, etc (required)
+    - Repeat for 300% (required)
+    - Repeat for 400% (required)
+    - Navigate all pages and core functionality with keyboard only (required)
+    - Test all pages and core functionality happy path  with MacOs + VoiceOver and/or NVDA+Firefox (required)
+
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
