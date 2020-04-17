@@ -49,7 +49,16 @@ Conversations are in progress around how to handle the historic rates. Need to c
 
 ## Careers (Voc Rehab)
 
-Epic #18107 and issue #18324 for rewriting (in old Vets repo). Mikki/Danielle sent their affected pages/questions doc sent to SMEs in May 2019. Last email response is from Misty and says the policy folks are looking at the document. Need to figure out how best to follow up on this.
-
 Careers is complete except for one rates page. Refer to issue #18324 for rewriting (old Vets repo).
+
+Mikki/Danielle sent their affected pages/questions doc sent to SMEs in May 2019. Last email response is from Misty and says the policy folks are looking at the document. Need to figure out how best to follow up on this.
+
+Epic #18107 and issue #18324 for rewriting (in old Vets repo). 
+
+## Life insurance
+
+Parity work and relevant redirects complete.
+
+Refer to issue #2213 to see the pages that we need to rewrite. There seems to be confusion around this in the ticket. All of the pages were in various states of rewriting. We need to finish that work, get SME approval, and then we can implement redirects. All of the information we need is in Danielle's rewriting issues (linked to from Mikki's redirect issue).
+
 
