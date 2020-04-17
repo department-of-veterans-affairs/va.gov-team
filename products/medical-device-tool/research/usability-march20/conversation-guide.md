@@ -226,6 +226,7 @@ The products displayed will be the products that the participant is currently el
 -   If the item was currently unavailable, was the participant able to determine how they could order that item?
 
 ### Review Submission
+This page will not be showing the selections you've made up until this point, but please pretend as if it is.
 
 *Things to watch out for:*
 
@@ -296,6 +297,10 @@ Followup Questions
 ------------------
 
 That concludes the task portion of this session! I have a few follow-up questions before we wrap up.
+
+-   What was your overall impression of the online ordering method we looked at today?
+
+  -   How could this experience have been improved for you?
 
 -   What technology do you use regularly? (if stuck: computer, mobile device, tablet, etc)
 
