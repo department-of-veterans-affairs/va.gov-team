@@ -32,3 +32,17 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change chapter title to: "What do you want to do?
 - [ ] Add instructional text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
 - [ ] Change checkbox text and order per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
+
+### Veteran's info section
+
+- [ ] Capitalize "Suffix"
+- [ ] Change checkbox to "I live on a United States military base outside of the U.S."
+- [ ] Change "Street address" to just "Street"
+- [ ] Change "Zip code" to "Postal code"
+
+### Spouse's info section
+
+- [ ] 
+- [ ]
+- [ ] 
+
