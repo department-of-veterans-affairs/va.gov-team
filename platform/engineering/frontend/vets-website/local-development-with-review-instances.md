@@ -18,7 +18,7 @@ yarn watch:review
 
 > What this does is figure out the URL for the review instance's API and use reference it in the build wherever requests are made to the API. This is effectively the same as the following command, but you don't have to create a pull request or crawl through Jenkins logs to find the review instance URL.
 > ```
-> yarn watch --api="<API_URL>"
+> yarn watch --env.api="<API_URL>"
 > ```
 
 If the build and deploy for the review instance hasn't completed yet, the script will return an error message with a possible reason for why the review instance is not ready yet (e.g., `'No deployments found. Build is probably in progress.'`).
