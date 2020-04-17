@@ -179,9 +179,9 @@ Multiple stakeholders also named companies who offer personalized experiences th
 
 ### Things to think about
 
-- We'll want to work closely with VSP to build-up/scale the visual design system to accommodate the authenticated tools. This redesign is a good playground for that
-- We should think more broadly about how to guide veterans in the logged-in experience — how does a logged-in navigation factor into this project?
-- Once we have completed this discovery phase and are more sure of the direction we'll go, coming up with a concrete vision and roadmap will help us manage stakeholder expectations.
+- We'll want to work closely with VSP to audit the design system and build-up/scale it to accommodate the authenticated tools. This redesign is a good opportunity to explore.
+- We should think more broadly about how to guide Veterans in the logged-in experience — how does a logged-in navigation factor into this project?
+- Establishing a concrete solution vision and building out our roadmap early on will help us manage stakeholder expectations.
 
 ### Action items
 
@@ -193,10 +193,8 @@ Multiple stakeholders also named companies who offer personalized experiences th
   - User interviews ([Epic #7268](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7268))
   - Comparative analysis ([Issue #7266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7266))
 
-
 ## Appendix
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)
 - [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
-
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
