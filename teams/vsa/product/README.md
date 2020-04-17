@@ -58,6 +58,14 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
 - [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
 
+- Launch Announcement Template
+  > Hey everyone, congrats to the < team > on the launch of < initiative >!
+    The problem < initiative > attempts to solve is helping Veterans < goal >.
+    We < brief description of approach e.g. new online exp., content changes >.
+    With success primarily focused on < success metrics/criteria >.
+    It’ll be important to keep in mind < brief considerations for the future >.
+    Congrats to < teams/folks involved > for their hard work!
+
 ### Delivery
 
  #### Issue Templates and Examples  
