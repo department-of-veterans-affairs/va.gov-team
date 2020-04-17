@@ -61,4 +61,10 @@ Parity work and relevant redirects complete.
 
 Refer to issue #2213 to see the pages that we need to rewrite. There seems to be confusion around this in the ticket. All of the pages were in various states of rewriting. We need to finish that work, get SME approval, and then we can implement redirects. All of the information we need is in Danielle's rewriting issues (linked to from Mikki's redirect issue).
 
+## Housing 
 
+Everything is complete.
+
+## Burials
+
+Complete except for the **Find a cemetery** page. Refer to issue #3021. We would like to have another conversation about the best way to handle this page.
