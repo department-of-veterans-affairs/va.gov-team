@@ -5,6 +5,8 @@
 
 ---
 
+Screens proofed in staging.VA.gov the week of April 13, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
+
 ### Throughout
 
 - [ ] Add breadcrumbs
@@ -42,9 +44,9 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Spouse's info section
 
-- [ ] Change "Your spouse’s first name" to Spouse's first name"
-- [ ] Change "Your spouse’s middle name" to Spouse's middle name"
-- [ ] Change "Your spouse’s last name" to Spouse's last name"
+- [ ] Change "Your spouse’s first name" to "Spouse's first name"
+- [ ] Change "Your spouse’s middle name" to "Spouse's middle name"
+- [ ] Change "Your spouse’s last name" to "Spouse's last name"
 - [ ] Bold "or" in labels under the "Where were you married?" section
 - [ ] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
 
