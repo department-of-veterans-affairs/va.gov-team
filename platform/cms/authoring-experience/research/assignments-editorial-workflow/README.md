@@ -15,36 +15,31 @@ By consolidating available actions and workflow information in one single area, 
 * Additional information in the new actions area helps editors see the status of their content at a glance.
 
 #### Research Questions
-The research is designed to answer the following questions:
-* xxx
-
-Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
-Understand the value of the View screen in the editorial workflow.
-Understand how the View screen currently fits into the users' editorial workflow.
-Evaluate comprehension of navigation and on-page interactions on the View screens.
-Uncover the users' expectations for navigating to and away from the View screen.
-Understand if labels provide enough context and guidance for users to complete their tasks with confidence and ease.
-Uncover pain points, user expectations, and potential future features.
+* Does the new editorial workflow design support the needs of the users?
+* Do users understand how content moves back and forth in the editorial workflow?
+* Do users understad that a content state can be moved to "in review" using either _assign_ or _send for review_?
+* Where do users expect to find the actions that can be done with a content?
+* What should assignments be used for?
 
 #### What knowledge will make us feel like the research process has been successful?
 Developing a thorough understanding of how the assignments tool serves the needs of content editors, reviewers, and stakeholders and validating design solutions in the prototype to address contextualization and actions related to the editorial workflow will show our research process has been successful.
 
 ## Method	
 
-*What method of research are you planning?*
+**What method of research are you planning?**
 45-minute remote, moderated usability study with four CMS user groups. Remote observers and note takers will be in attendance.
 
 To record the session, we'll make an initial record using verbatim notes and zoom audio and screen recording, followed by synthesized notes on our observations.
 
 To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
 
-*Why this method? How does this methodology help you answer your research questions?*
+**Why this method? How does this methodology help you answer your research questions?**
 This research method was chosen because we intend to validate that the proposed design is intuitive and help our users review and move content in the editorial workflow. We will guide participants through tasks using a navigational prototype to help uncover successes and pain points.
 
-*Where are you planning to do your research?*
+**Where are you planning to do your research?**
 Online, via Zoom.
 
-*What will you be testing?*
+**What will you be testing?**
 We will be testing a navigational prototype in Adobe XD.
 
 ## Participants and Recruitment	
