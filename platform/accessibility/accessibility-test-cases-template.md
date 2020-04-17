@@ -25,7 +25,7 @@ This will be the automated tests teams must run before requesting a staging acce
 
 **Expected result:**
 
-1. The axe scan should have 0 violations. Any `Best practices` items can be reviewed with the accessibility specialist.
+1. The axe scan should have 0 `Violations`. Any `Best practices` items can be reviewed with the accessibility specialist.
 
 ---
 
