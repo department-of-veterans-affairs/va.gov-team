@@ -37,13 +37,19 @@ Refer to issue #6807.
 
 Refer to issue #17817 for rewriting (old Vets repo) and #2211 for redirect.
 
+**ACTION ITEM:** Danielle to dig in and follow up.
+
 **Restoration of benefits:**
 
 Refer to issue #17696 for rewriting (old Vets repo). Last step was Danielle signing off to send to SMEs back in July, and Randi asking about how to do that in August.
 
+**ACTION ITEM:** Danielle to dig in and follow up.
+
 **STEM scholarship:**
 
 Refer to issue #19263 for rewriting (old Vets repo). We had paused this due to IA discussions. Need to pick back up on it there.
+
+**ACTION ITEM:** None right now.
 
 **Yellow Ribbon:**
 
@@ -77,10 +83,14 @@ Everything is complete.
 
 Complete except for the **Find a cemetery** page. Refer to issue #3021. We would like to have another conversation about the best way to handle this page.
 
+**ACTION ITEM:** Mikki and Danielle to reconsider and make proposal and post in issue.
+
 ## Records
 
 Refer to #2216. Page is in records, but intro focuses on burials. We would like to have another conversation about the best way to align the IA with the content. We should either:
 - Leave it in records, and keep the burials-specific messaging within burials and then link to a more generic messaging on this page, **or**
 - Move this to burials, and have a link from records
+
+**ACTION ITEM:** Mikki and Danielle to reconsider and make proposal and post in issue.
 
 
