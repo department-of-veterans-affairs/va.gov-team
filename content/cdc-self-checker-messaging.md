@@ -67,7 +67,7 @@ We're taking many precautions to help protect Veterans in our VA nursing homes. 
 
 ### More information from VA
 
-**If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
+**If you’re not sure about your symptoms,** our [Annie text messaging service](https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor them and advise you when to contact your VA care team or your facility's advice nurse. The messages also provide general wellness tips and steps you can take to protect yourself. <br>
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
@@ -101,7 +101,7 @@ Please don't go to the ER for nonmedical emergencies. This helps us protect you,
 
 ### More information from VA
 
-**If you’re not sure about your symptoms,** our [Annie COVID-19 automated text messaging service]( https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor your symptoms and tell you when you should see your health care provider. <br>
+**If you’re not sure about your symptoms,** our [Annie text messaging service](https://www.mobile.va.gov/app/annie-app-veterans) can help you monitor them and advise you when to contact your VA care team or your facility's advice nurse. The messages also provide general wellness tips and steps you can take to protect yourself. <br>
 
 **To contact your VA provider or request a telehealth visit by phone or video, you can:**
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
