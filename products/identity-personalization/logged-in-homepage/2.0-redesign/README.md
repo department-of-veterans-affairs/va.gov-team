@@ -106,6 +106,7 @@ Additionally:
 - Is there data we have but aren't leveraging?
 - Is there data that we don't have and need?
 - What data might we want for future phases/improvements?
+- Is a progressive web app something we should consider in the future?
 
 ### PM
 
