@@ -1,10 +1,12 @@
 # 10-10CG Phase 0 Release Plan
 
 - [Draft Timeline](#draft-timeline)
-- [User Stories](#user-stories)
+- [Dark Release Definition](#dark-release-definition)
+- [Soft Release Definition](#soft-release-definition) 
+- [Phase 0 User Stories](#user-stories)
 
 ## Draft Timeline
-| Date | Milestone | Additional Detail | 
+| Date | Milestone | Notes | 
 | --- | --- | --- | 
 | April 10 | Content and design complete* | |
 | April 14 | VSP Analytics request | |
@@ -16,15 +18,21 @@
 | May 18 | VSP Staging Review | |
 | May 18 - May 22 | End-to-end testing with CARMA | |
 | May 27 | Dry Run Release| |
-| May 29 | Phase 0 dark release (proof of concept)<sup>+</sup>| <ul> <li>Development work from VA.gov team is completed for all MVP US approved by the Business Owner.</li> <li> In May, the application and landing page is not a public URL. If a public URL must be used as part of the Va.Gov testing process, then the public URL can be temporarily used for testing and then made into a not-public URL once testing is complete (eg the public URL is “turned off” after testing).</li> <li> The public is not made aware of the landing page or 1010 CG online form. No announcements regarding the form until later (to be determined by the Business Owners).</li> <li> There will be testing in various testing environments prior to deployment between the two teams. After a successful testing, functionality will show that an application can flow successfully from VA.gov to CARMA.</li><li> No real applications (eg an actual veteran) will be sent from VA.gov to CARMA during this phase. If one is accidentally sent and goes into CARMA, the CARMA team will need to alert the CSCs so that they are aware and can work with the CARMA team to process the application.</li></ul>  |
+| May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
 | June 1 | VSP Full Accessibility and 508 Office Audit | |
-| July 30 | Soft Release<sup>+</sup> | <ul> <li>After all of the development work is tested and in production, a small group of CSCs will work with real applicants to submit online applications. CARMA completes remaining development items.</li> <li> Items flow through the usual testing, then push to prod, etc. VA.Gov team may complete enhancement items. Items flow through the usual testing, then push to prod, etc. After sign off, the Business Owners will decide when to make the announcement to the VA as a whole and do the public about the form now being available online. After the Business Owner decision, the form is now a public URL and is visible.</li></ul>  |
+| July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
 
  `*` Risk - this is still in progress, and could take additional time to reach agreement
 
-`+` According to CARMA Program team
+`+` As defined by the Program team
 
+## Dark Release Definition
+(as of 4/15/20)
+<ul> <li>Development work from VA.gov team is completed for all MVP US approved by the Business Owner.</li> <li> In May, the application and landing page is not a public URL. If a public URL must be used as part of the Va.Gov testing process, then the public URL can be temporarily used for testing and then made into a not-public URL once testing is complete (eg the public URL is “turned off” after testing).</li> <li> The public is not made aware of the landing page or 1010 CG online form. No announcements regarding the form until later (to be determined by the Business Owners).</li> <li> There will be testing in various testing environments prior to deployment between the two teams. After a successful testing, functionality will show that an application can flow successfully from VA.gov to CARMA.</li><li> No real applications (eg an actual veteran) will be sent from VA.gov to CARMA during this phase. If one is accidentally sent and goes into CARMA, the CARMA team will need to alert the CSCs so that they are aware and can work with the CARMA team to process the application.</li></ul>  
 
+## Soft Release Definition
+(as of 4/15/20)
+<ul> <li>After all of the development work is tested and in production, a small group of CSCs will work with real applicants to submit online applications. CARMA completes remaining development items.</li> <li> Items flow through the usual testing, then push to prod, etc. VA.Gov team may complete enhancement items. Items flow through the usual testing, then push to prod, etc. After sign off, the Business Owners will decide when to make the announcement to the VA as a whole and do the public about the form now being available online. After the Business Owner decision, the form is now a public URL and is visible.</li></ul>
 
 ## Key
 | Symbol | Meaning |
