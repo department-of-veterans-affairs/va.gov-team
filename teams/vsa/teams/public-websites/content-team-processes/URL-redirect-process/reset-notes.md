@@ -1,4 +1,3 @@
-
 ## Health care
 
 Complete back in July.
@@ -87,10 +86,15 @@ Complete except for the **Find a cemetery** page. Refer to issue #3021. We would
 
 ## Records
 
-Refer to #2216. Page is in records, but intro focuses on burials. We would like to have another conversation about the best way to align the IA with the content. We should either:
-- Leave it in records, and keep the burials-specific messaging within burials and then link to a more generic messaging on this page, **or**
-- Move this to burials, and have a link from records
+Refer to #2216. Page is in records, but focuses on burials. It should therefore live in burials, and should be linked to from the "Get your military records" page as a crosslink.
 
-**ACTION ITEM:** Mikki and Danielle to reconsider and make proposal and post in issue.
+**Note:** We also have information from VBA about the records they accept. This can be something we tackle later. We can also follow up with VHA 
 
+**DECISIONS:** 
+- Move page to burials. 
+- Close #2216.
+- Create 2 new issues (1 for moving burials documents page into burials and 1 for backlog to tackle VBA documents later).
 
+**ACTION ITEM:** 
+- Mikki to close ticket #2216 and create the new issues.
+- Danielle to assign/work with team on new issue when created.
