@@ -2,7 +2,8 @@
 
 ## Introduction - 5 min
 
-Thanks for joining us today! My name is Jordana and I also have some colleagues on the line observing and taking notes. Today we're going to xxx.
+Thanks for joining us today! My name is Jordana and I also have some colleagues on the line observing and taking notes. Today we're going to be testing a new way for usres to order review and move content in the editorial workflow. During this test, I will ask you to share your screen so that I can follow along with you.
+
 Before we start, a few things I want to mention:
 
 * **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -16,9 +17,21 @@ Before we start, a few things I want to mention:
 
 * xxx
 
-## General Questions - xxx min
+## General Tasks - xxx min
 
-* xxx
+### Task 1: Designate content to be taken care of by a member of your team 
+### Task 2: Give content to someone else to work on
+### Task 3: Ask someone to take a look at a piece of content for approval
+### Task 4: Send content to an external stakeholder for approval
+### Task 5: Request adjustments to a piece of content that’s in review
+### Task 6: Check on where content is in the editorial process
+### Task 7: Check when changes were last made to content and who made the change
+### Task 8: Check who is responsible for working on this content
+### Task 9: Check to see when the content was last published
+### Task 10: Set content as ready to go live on VA.gov
+
+
+
 
 ## Additional Questions - xxx min
 I have just a few more questions to ask you before we finish up today.
