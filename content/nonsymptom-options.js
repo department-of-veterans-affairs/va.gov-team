@@ -11,12 +11,12 @@ scenario.option_lists = {
       "Start over"
     ],
     answers: [
-      scenario.messages.va_covid_response,
-      scenario.messages.protect_myself,
-      scenario.messages.leave_house,
-      scenario.messages.wear_mask,
-      scenario.messages.vaccine,
-      scenario.messages.covid_immunity
+      "va_covid_response",
+      "protect_myself",
+      "leave_house",
+      "wear_mask",
+      "vaccine",
+      "covid_immunity"
     ],
     do_next: [
       "Ask another COVID-19 prevention question",
@@ -24,7 +24,7 @@ scenario.option_lists = {
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
     ],
-    contacts: scenario.messages.handoff_health_care,
+    contacts: "handoff_health_care",
   },
 
   health_care: {
@@ -39,13 +39,13 @@ scenario.option_lists = {
       "Start over"
     ],
     answers: [
-      scenario.messages.va_health_appointment,
-      scenario.messages.community_care_appointment,
-      scenario.messages.refill_prescription,
-      scenario.messages.emergency_care,
-      scenario.messages.cant_call_clinic,
-      scenario.messages.mental_health_appointment,
-      scenario.messages.visit_patient
+      "va_health_appointment",
+      "community_care_appointment",
+      "refill_prescription",
+      "emergency_care",
+      "cant_call_clinic",
+      "mental_health_appointment",
+      "visit_patient"
     ],
     do_next: [
       "Ask another health care question",
@@ -53,7 +53,7 @@ scenario.option_lists = {
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
     ],
-    contacts: scenario.messages.handoff_health_care,
+    contacts: "handoff_health_care",
   },
 
   benefits: {
@@ -67,12 +67,12 @@ scenario.option_lists = {
       "Start over"
     ],
     answers: [
-      scenario.messages.benefit_payment_delay,
-      scenario.messages.gi_bill_benefits,
-      scenario.messages.claim_exams,
-      scenario.messages.in_person_appointment,
-      scenario.messages.turn_in_paperwork,
-      scenario.messages.regional_office
+      "benefit_payment_delay",
+      "gi_bill_benefits",
+      "claim_exams",
+      "in_person_appointment",
+      "turn_in_paperwork",
+      "regional_office"
     ],
     do_next: [
       "Ask another benefits and claims question",
@@ -80,7 +80,7 @@ scenario.option_lists = {
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
     ],
-    contacts: scenario.messages.handoff_benefits,
+    contacts: "handoff_benefits",
   },
 
   financial: {
@@ -94,12 +94,12 @@ scenario.option_lists = {
       "Start over"
     ],
     answers: [
-      scenario.messages.covid_stimulus_check,
-      scenario.messages.existing_va_debt,
-      scenario.messages.va_backed_home_loan,
-      scenario.messages.va_copay,
-      scenario.messages.covid_diagnosis_va_appeal,
-      scenario.messages.homeless_help
+      "covid_stimulus_check",
+      "existing_va_debt",
+      "va_backed_home_loan",
+      "va_copay",
+      "covid_diagnosis_va_appeal",
+      "homeless_help"
     ],
     do_next: [
       "Ask another financial question",
@@ -107,7 +107,7 @@ scenario.option_lists = {
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
     ],
-    contacts: scenario.messages.handoff_financial,
+    contacts: "handoff_financial",
   },
 
   anxiety: {
@@ -117,8 +117,8 @@ scenario.option_lists = {
       "Start over"
     ],
     answers: [
-      scenario.messages.anxious_and_overwhelmed,
-      scenario.messages.mental_health_appointment
+      "anxious_and_overwhelmed",
+      "mental_health_appointment"
     ],
     do_next: [
       "Ask another anxiety question",
@@ -126,7 +126,7 @@ scenario.option_lists = {
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
     ],
-    contacts: scenario.messages.handoff_anxiety,
+    contacts: "handoff_anxiety",
   },
 
   testing_do_next: [
@@ -154,12 +154,12 @@ scenario.root_options = {
     "Anxiety and related concerns"
   ],
   submenus: [
-    scenario.option_lists.covid_prevention,
+    "covid_prevention",
     null,
     null,
-    scenario.option_lists.health_care,
-    scenario.option_lists.financial,
-    scenario.option_lists.benefits,
-    scenario.option_lists.anxiety
+    "health_care",
+    "financial",
+    "benefits",
+    "anxiety"
   ]
 };
