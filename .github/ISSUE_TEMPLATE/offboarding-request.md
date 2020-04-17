@@ -13,7 +13,7 @@ Fill out name of individual and *Description* section below.
 # Description
 - Please provide the name of the individual needing offboarded.
    > Janet Doe
-- Please provide the name of their team, their role on that team, and the name of the company they work for.
+- Please provide the name of their team, their role on that team, expected last day, and the name of the company they work for.
    > this adds context
 - Please provide any type of access they may have. 
   > ex: SOCKS, Pagerduty, Google analytics, ect.
