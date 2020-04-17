@@ -49,5 +49,24 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change "Your spouse’s last name" to "Spouse's last name"
 - [ ] Bold "or" in labels under the "Where were you married?" section
 - [ ] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
+- [ ] Use base-checkbox address block for separated spouse's address
+- [ ] Checkbox to say "They live on a United States military base outside of the U.S."
+- [ ] Change "Street address" to just "Street"
+- [ ] Change "Zip code" to "Postal code"
+- [ ] Bold "your spouse" in the label, "Was your spouse married before?"
+- [ ] Change button text to: "Add another former spouse"
+- [ ] Change "Where did this marriage take place?" to "Place of marriage to former spouse"
+- [ ] Bold "or" in labels under the "Place of marriage to former spouse" section
+- [ ] Change "Where did this marriage end?" to "Place marriage with former spouse ended"
+- [ ] Bold "or" in labels under the "Place marriage with former spouse ended"
+- [ ] Bold "you" in "Were you married before?"
+- [ ] All of the same list/loop revision above
+
+### Upload section
+
+- [ ] Upload section seems to be missing from spouse workflow (other than ceremonial marriage, foreign address)
+
+
+
 
 
