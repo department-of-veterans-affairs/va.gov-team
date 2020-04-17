@@ -16,6 +16,7 @@ By consolidating available actions and workflow information in one single area, 
 
 #### Research Questions
 The research is designed to answer the following questions:
+* How does content move through the editorial workflow in the new design?
 * 
 
 Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
@@ -37,7 +38,10 @@ To record the session, we'll make an initial record using verbatim notes and zoo
 To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
 
 ## Participants and Recruitment	
-xxx
+* Public Website Team: 4 participants.
+* Platform Content and IA: 1 participant.
+* VAMC PAO: 1 participant.
+* VISN Web Editor: 1 participant.
 
 Interview invitations to be done directly via email and/or Slack.
 
@@ -51,8 +55,8 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 
 ## Team Roles 	
 * Moderator: Jordana Mello (jordana.mello@agile6.com | (202) 808 6882)
-* Research guide writing and task development: Jordana Mello (jordana.mello@agile6.com) and Rachel Kauff (rachel.kauff@civicactions.com)
-* Participant recruiting & screening:	Jordana Mello
+* Research guide writing and task development: Jordana Mello (jordana.mello@agile6.com), Nick Bloom (nick.bloom@agile6.com) and Rachel Kauff (rachel.kauff@civicactions.com)
+* Participant recruiting & screening:	Jordana Mello and Rachel Kauff
 * Project point of contact:	Kevin Walsh
 * Participant(s) for pilot test: Kevin Walsh
 * Note-takers: Rachel Kauff (rachel.kauff@civicactions.com)
@@ -60,8 +64,8 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-* [Conversation Guide]()
-* [Recruitment Comms]()
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/authoring-experience/research/assignments-editorial-workflow/conversation-guide/README.md)
+* Recruitment Comms
 * Synthesis	
 * Lessons Learned
 * Readout/Results
