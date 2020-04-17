@@ -4,6 +4,7 @@
 - Aaron Barth, Solution Architect
 - Pankaj Surti, Developer + BI and Analytics
 
+
 ## ThoughtWorks
 ### Core team
 - Anushya Prasad, Project Manager
@@ -21,13 +22,15 @@
 
 ## VA
 ### VA CTO Office
-- Kaeli Yuen
+- Kaeli Yuen, Project Lead
+- Michael Chelen
+- Patrick Bateman
 
-## VHA
+### VHA
 - Kathy Frisbee (Office of Connected Care), Co-Product Owner
 - Denise Kitts (Veterans Experience Office), Co-Product Owner
 
-## Content & Design
+### Content & Design
 - Martha Wilkes
 - Danielle Thierry
 - Trevor (a11y SME)
