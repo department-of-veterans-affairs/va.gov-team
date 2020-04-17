@@ -8,8 +8,8 @@
 ### Throughout
 
 - [ ] Add breadcrumbs
-- [ ] Change title to "Add or remove dependents from your VA benefits"
-- [ ] Change subtext to "Equal to VA Form 21-686c (Application Request to Add And/Or Remove Dependents) and/or
+- [ ] Change title to: "Add or remove dependents from your VA benefits"
+- [ ] Change subtext to: "Equal to VA Form 21-686c (Application Request to Add And/Or Remove Dependents) and/or
 Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Add "Need help? section
 - [ ] Add in-form sub text: "VA Form 21-686c (and 21-674)"
@@ -42,7 +42,10 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Spouse's info section
 
-- [ ] 
-- [ ]
-- [ ] 
+- [ ] Change "Your spouse’s first name" to Spouse's first name"
+- [ ] Change "Your spouse’s middle name" to Spouse's middle name"
+- [ ] Change "Your spouse’s last name" to Spouse's last name"
+- [ ] Bold "or" in labels under the "Where were you married?" section
+- [ ] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
+
 
