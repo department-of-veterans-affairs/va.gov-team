@@ -22,7 +22,7 @@ Status: Blocked by questions
       - Friendly name (Organization.name)
       - City (Organization.address[].city)
       - State (Organization.address[].state)
-      - Root site id (**Organization.identifier**)
+      - Root site id (Organization.identifier)
 - VA child facilities (Location)
    - Data for each facility:
       - Id (Location.identifier)
