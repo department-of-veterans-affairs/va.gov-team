@@ -31,11 +31,22 @@ Uncover pain points, user expectations, and potential future features.
 Developing a thorough understanding of how the assignments tool serves the needs of content editors, reviewers, and stakeholders and validating design solutions in the prototype to address contextualization and actions related to the editorial workflow will show our research process has been successful.
 
 ## Method	
-Remote moderated usability testing will be conducted via Zoom. The moderator will prompt users with guiding questions from the conversation guide and a navigational prototype in Adobe XD will be used for the testing. Remote observers and note takers will be in attendance.
+
+*What method of research are you planning?*
+45-minute remote, moderated usability study with four CMS user groups. Remote observers and note takers will be in attendance.
 
 To record the session, we'll make an initial record using verbatim notes and zoom audio and screen recording, followed by synthesized notes on our observations.
 
 To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
+
+*Why this method? How does this methodology help you answer your research questions?*
+This research method was chosen because we intend to validate that the proposed design is intuitive and help our users review and move content in the editorial workflow. We will guide participants through tasks using a navigational prototype to help uncover successes and pain points.
+
+*Where are you planning to do your research?*
+Online, via Zoom.
+
+*What will you be testing?*
+We will be testing a navigational prototype in Adobe XD.
 
 ## Participants and Recruitment	
 * Public Website Team: 4 participants.
