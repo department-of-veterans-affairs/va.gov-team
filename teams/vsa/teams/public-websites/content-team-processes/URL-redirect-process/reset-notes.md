@@ -45,11 +45,11 @@ Refer to issue #19263 for rewriting (old Vets repo). We had paused this due to I
 
 Main yellow ribbon page was completed and redirected as part of parity effort.
 
-Conversations are in progress around how to handle the historic rates. Need to check in with Liz on the status of those conversations.
+Conversations are in progress around how to handle the historic rates. Need to check in with Liz on the status of those conversations. 
 
 ## Careers (Voc Rehab)
 
-Issues #18107 for rewriting (in old Vets repo). Need to go back and find our document showing SMEs the pages and asking them questions. 
+Epic #18107 and issue #18324 for rewriting (in old Vets repo). Mikki/Danielle sent their affected pages/questions doc sent to SMEs in May 2019. Last email response is from Misty and says the policy folks are looking at the document. Need to figure out how best to follow up on this.
 
 Careers is complete except for one rates page. Refer to issue #18324 for rewriting (old Vets repo).
 
