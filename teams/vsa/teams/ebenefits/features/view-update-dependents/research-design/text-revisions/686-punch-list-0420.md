@@ -12,7 +12,7 @@
 - [ ] Change subtext to "Equal to VA Form 21-686c (Application Request to Add And/Or Remove Dependents) and/or
 Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Add "Need help? section
-- Add in-form sub text: "VA Form 21-686c (and 21-674)"
+- [ ] Add in-form sub text: "VA Form 21-686c (and 21-674)"
 
 ### Introduction
 
