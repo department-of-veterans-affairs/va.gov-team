@@ -19,7 +19,7 @@
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Sandra Hallie |FE Engineer |  |
+|Sandra Hallie |FE Engineer | shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 
 ## What we work on
