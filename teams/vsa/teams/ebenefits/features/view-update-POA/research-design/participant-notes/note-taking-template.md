@@ -71,11 +71,9 @@ We are going to be talking about how you use certain VA benefit features today. 
 **Participant:**</br>   
 
 
-
 ### Screenshare
 Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal.
-
-Moderator: I am going to share my screen with you. Can you see the eBenefits website on your computer? As I said before we are going to walk through how to fill out the Power of Attorney form and gather your thoughts about each step.
+I am going to share my screen with you. Can you see the eBenefits website on your computer? As I said before we are going to walk through how to fill out the Power of Attorney form and gather your thoughts about each step.
 
 **Moderator: How familiar are you with the Power of Attorney form, also called the 21-22 form?**</br>
 **Participant:**</br>   
@@ -143,21 +141,24 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Moderator: What information is usually wrong?**</br>
 **Participant:**</br>   
 
-**Moderator: Can you remember when you were filling out this form if there was any personal information missing that would help speed up the process? **</br>
+**Moderator: Can you remember when you were filling out this form if there was any personal information missing that would help speed up the process?**</br>
 **Participant:**</br>   
 
 **Moderator: Do you see value in this step?**</br>
 **Participant:**</br>   
-   Yes
-**Moderator: Why is this information important to display? **</br>
+   Yes  
+**Moderator: Why is this information important to display?**</br>
 **Participant:**</br>   
+
 **Moderator: Can we display this information differently?**</br>
 **Participant:**</br>   
-  No
+  No  
 **Moderator: Why?**</br>
 **Participant:**</br>   
+
 **Moderator: Are we missing information? **</br>
 **Participant:**</br>   
+
 **Moderator: What information are we missing?**</br>
 **Participant:**</br>   
 
@@ -184,13 +185,13 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Moderator: Please explain how you would select a representative from the table?**</br>
 **Participant:**</br>   
 
-**Moderator: What information would you expect to find in this table? **</br>
+**Moderator: What information would you expect to find in this table?**</br>
 **Participant:**</br>   
 
 **Moderator: Why: Is there additional information that would help in choosing a representative?**</br>
 **Participant:**</br>   
 
-**Moderator: Why not: What information would be needed? **</br>
+**Moderator: Why not: What information would be needed?**</br>
 **Participant:**</br>   
 
 **Moderator: What information is the most important and why?**</br>
@@ -200,23 +201,24 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Participant:**</br>   
 
 ### Confirming Representative
-**Moderator: Please give me your thoughts on this step? **</br>
+**Moderator: Please give me your thoughts on this step?**</br>
 **Participant:**</br>   
 
 **Moderator: Do you see value in this screen?**</br>
 **Participant:**</br>   
 
-  Yes
+  Yes  
 **Moderator: Why is this information important to display?**
 **Participant:**</br>   
 
+**Moderator: Can we display this information differently?**</br>
+**Participant:**</br>  
 
-**Moderator: Can we display this information differently?
-  No
+  No  
 **Moderator: Why?**</br>
 **Participant:**</br>   
 
-**Moderator: Are we missing information? **</br>
+**Moderator: Are we missing information?**</br>
 **Participant:**</br>   
 
 **Moderator: What information are we missing?**</br>
@@ -241,27 +243,31 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Moderator: How would you prefer to look up your number? (emailed / verification number)**</br>
 **Participant:**</br>   
 
-**Moderator: Why? **</br>
+**Moderator: Why?**</br>
 **Participant:**</br>   
 
 ### Military Service
 
-**Moderator: Please give me your thoughts on this step? **</br>
+**Moderator: Please give me your thoughts on this step?**</br>
 **Participant:**</br>   
 
 **Moderator: Do you see value in this screen?**</br>
 **Participant:**</br>   
-        -  Yes
-**Moderator: Why is this information important to display? **</br>
+        
+	-  Yes
+	
+**Moderator: Why is this information important to display?**</br>
 **Participant:**</br>   
 
 **Moderator: Can we display this information differently?**</br>
 **Participant:**</br>   
-        -  No
+       
+       -  No
+       
 **Moderator: Why?**</br>
 **Participant:**</br>   
 
-**Moderator: Are we missing information? **</br>
+**Moderator: Are we missing information?**</br>
 **Participant:**</br>   
 
 **Moderator: What information are we missing?**</br>
@@ -278,7 +284,7 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Moderator: After reading the step’s title What are you expecting to see on this page?**</br>
 **Participant:**</br>   
 
-**Moderator: How easily is it to understand the steps objective? **</br>
+**Moderator: How easily is it to understand the steps objective?**</br>
 **Participant:**</br>   
 
 **Moderator: How would you prefer to display information?**</br>
@@ -287,7 +293,6 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 ## Error Messages
    
 
-   
 ## Legal Understanding - 10 minutes
 **Moderator: What are your thoughts on the length of this form?**</br>
 **Participant:**</br>   
@@ -307,7 +312,7 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Moderator: Why?**</br>
 **Participant:**</br>   
 
-**Moderator: How did you apply for a Power of Attorney? **</br>
+**Moderator: How did you apply for a Power of Attorney?**</br>
 **Participant:**</br>   
 
 **Moderator: Are you satisfied with the method you used?**</br>
@@ -338,7 +343,6 @@ Moderator: I am going to share my screen with you. Can you see the eBenefits web
 **Participant:**</br>   
 
 
-
 ## Payment History - 15 minutes
 We are going to change gears a bit and look at a different part of eBenefits. 
 Confirm with the participant that they can see the eBenefits Payment History screen. 
@@ -348,20 +352,20 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
 **Moderator: Do you currently receive payments from the VA?**</br>
 **Participant:**</br>   
 
-**Moderator: How long have you been getting payments from the VA? **</br>
+**Moderator: How long have you been getting payments from the VA?**</br>
 **Participant:**</br>   
 
 **Moderator: Have you ever seen this page before?**</br>
 **Participant:**</br>   
 
-    - If so
-**Moderator: How often are you coming to this page? **</br>
+If so
+**Moderator: How often are you coming to this page?**</br>
 **Participant:**</br>   
 
 **Moderator: Do you prefer to check your VA payment on your bank's website or the VA?**</br>
 **Participant:**</br>   
 
-**Moderator: Why? **</br>
+**Moderator: Why?**</br>
 **Participant:**</br>   
 
 **Moderator: Why are you coming to this website instead of your bank?**</br>
@@ -391,7 +395,7 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
 **Moderator: Why are you looking for a range of payments?**</br>
 **Participant:**</br>   
 
-    - If not
+If not
 **Moderator: Do you think this page would be useful to you at all?**</br>
 **Participant:**</br>   
 
@@ -404,7 +408,7 @@ I am going to continue sharing my screen with you. Can you see the eBenefits web
         
 #### Table Features and Attributes
 My next set of questions will be centered around the Payment Table features.
-**Moderator: On average, how many payment items would you like to see displayed? **</br>
+**Moderator: On average, how many payment items would you like to see displayed?**</br>
 **Participant:**</br>   
 
 **Moderator: How would you search for a particular payment you're looking for?**</br>
@@ -413,10 +417,10 @@ My next set of questions will be centered around the Payment Table features.
 **Moderator: Sort, filter, text input of fuzzy math, auto-complete suggestions, date range searches?**</br>
 **Participant:**</br>   
 
-**Moderator: Can you please rank the table headers from most import to least important? **</br>
+**Moderator: Can you please rank the table headers from most import to least important?**</br>
 **Participant:**</br>   
 
-**Moderator: Is there anything on the table that we could remove without preventing you from completing your task? **</br>
+**Moderator: Is there anything on the table that we could remove without preventing you from completing your task?**</br>
 **Participant:**</br>   
 
 **Moderator: If so, why would that information in particular not be necessary?**</br>
