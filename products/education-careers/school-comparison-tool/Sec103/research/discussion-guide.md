@@ -9,7 +9,7 @@ Before we get started, a few things I want to mention:
 - During this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I won't be offended by any opinions you express, and welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
 
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
+Are you comfortable if I record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
 
   - If yes: Great - thank you.  Once I start recording, I'll ask again so we have your audible confirmation.
   - If no: Ok. My team will just observe and take notes as we go. 
@@ -17,15 +17,29 @@ Are you comfortable if I record my screen and audio as we talk today? We use the
 Start recording.
 - 	I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
+### Setting up Screenreader & Sharing
+
+For our next step, I'd like you to share your screen and screen reader audio with me. 
+
+In Zoom, can you select the Share button?
+
+On this next screen, let's go with the default selection. 
+
+Also, there is a checkbox in the Share Screeen option that says "Share computer sound." This will let us hear your screenreader.  Can you make sure that it's checked and select "Share"?
+
+*Confim that the screen reader is audible.
+*Confirm that screensharing works.  If it doesn't work immediately, suggest they restart the screenreader (order of operations isn't typically isn't critical) 
+
 ### Checklist for Screen Reader Participants
 - 	Are you using a computer or mobile phone during our session today? Mac or Windows? iOS or Android?
-- 	Do you have the latest version of Zoom (4.3.1) installed? Check under Zoom > About.
-- 	Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
-- 	Would you mind setting your screen reader to its default speed? We want to accurately hear and record what you’re experiencing on VA.gov.
 - 	What browser are you using today?
 - 	Are you using a screen magnifier today?
-- 	What screenreader are you using today?
+- 	Do you have the latest version of Zoom (4.3.1) installed? Check under Zoom > About.
+- 	Which screenreader are you using today?
+- 	Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
+- 	Would you mind setting your screen reader to its default speed? We want to accurately hear and record what you’re experiencing on VA.gov.
 - 	Do you know your screen reader's verbosity setting? High, medium, low? Is that your standard setting (or do you tend to change it depending on what you're working with)?
+
 
 ## Warm-up Questions (Optional) - 10 minutes
 
@@ -42,17 +56,25 @@ Before we look at the website, let’s start with a few warm-up questions.
   - What were you looking for? 
   - Do you recall how you first learned about it? 
 
-Before we get started, I'd like you to share your screen with me. In Zoom, can you select the Share button?
-On this next screen, let's go with the default selection. Also, there is a checkbox that says "Share computer sound." Can you make sure that it's checked and select "Share"?
-** Confim that the screen reader is audible.
-** Confirm that screensharing works.
+### For Screenreader Participants
 
 Okay. Now I'd like you to open a new browser window or tab.
+
 I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the Url - which would you prefer?
 
+https://bit.ly/2XFnKix
+
+### For non-Screenreader Participants
+
+For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
+
+When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
+
+I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
 ## First Task: Find Section 103 - 15 minutes
-You have a friend who had to take a loan back in 2018 due to late VA payments to their school.  You know that the VA has taken steps to keep this from happening again, but that schools may require certain documentation from you to attend classes if the payments are late.  You’re interested in attending Midland University in Fremont Nebraska, how would you use the Comparison Tool to find what information Midland University requires?
+
+You have a friend who had to take a loan back in 2018 due to late VA payments to their school.  You know that the VA has taken steps to keep this from happening again, but that schools may require certain documentation from you to attend classes if the payments are late.  You’re interested in attending **Midland University in Fremont Nebraska**, how would you use the Comparison Tool to find what information Midland University requires?
 
 Things to watch for:
 -	Where does the user initially look for the information?
@@ -62,14 +84,17 @@ Things to watch for:
 -	Screen reader: how does the user move throughout the page? (quick tabbing through options, listening to every control/element, etc.)
 -	Screen reader: how does the user interact with modals?
 
+Upon completion of task: How did you think that went? 
 
 ## Second Task: Section 103 Content - 10 minutes
--	What does “Protection against late VA payments” mean to you?
+{ Get participant to 103 indicator }
+
+As you're reviewing the information in this area of the page, could you tell me what “Protection against late VA payments” means to you?
 -	Have you heard of a Certificate of Eligibility before?  If so, when? Have you submitted one before?
 -	Do any other questions come to mind about this?
 
 ## Third Task: Additional Criteria - 5 minutes
--	You are also interested in attending Clarkson College in Omaha NE and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining the requirements for this school?
+Let's say you are also interested in attending **Clarkson College in Omaha, NE** and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining those requirements for this school?
   - What do you think “additional criteria” is?
   - How would you go about finding out more information?
 
