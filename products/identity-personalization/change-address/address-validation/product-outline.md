@@ -120,6 +120,12 @@ We expect to see the following:
 
 ## Status
 
+**March 2020**
+
+- Launched to 25% of users on 3/18/2020
+- Launched to 50% of users on 3/25/2020
+- Launched to 100% of users on 3/30/2020
+
 **Feb 2020**
 
 - We are approaching QA and should be launching the feature shortly after that.
