@@ -16,8 +16,7 @@ By consolidating available actions and workflow information in one single area, 
 
 #### Research Questions
 The research is designed to answer the following questions:
-* How does content move through the editorial workflow in the new design?
-* 
+* xxx
 
 Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
 Understand the value of the View screen in the editorial workflow.
