@@ -14,13 +14,9 @@ By consolidating available actions and workflow information in one single area, 
 - Consolidating actions into a single area will help editors manage their content more quickly without unnecessary scrolling and surfaces all available options, so that they know what is possible.
 - Additional information in the new actions area helps editors see the status of their content at a glance.
 
-
-
-
-#### Research Questions:
+#### Research Questions
 The research is designed to answer the following questions:
-
-...
+xxx
 
 #### What knowledge will make us feel like the research process has been successful?
 Developing a thorough understanding of how the assignments tool serves the needs of content editors, reviewers, and stakeholders and validating design solutions in the prototype to address contextualization and actions related to the editorial workflow will show our research process has been successful.
@@ -33,7 +29,7 @@ To record the session, we'll make an initial record using verbatim notes and zoo
 To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
 
 ## Participants and Recruitment	
-Due to the narrow user base for statistically representative personas, three _user groups_ were selected in the editorial workflow spectrum based on work commonalities. Research participants will be selected within each _user group_. We seek to identify behavioral patterns unique to each _user group_.
+- xxx
 
 Interview invitations to be done directly via email and/or Slack.
 
