@@ -562,7 +562,7 @@ Logged in homepage
 
 1. Implement analytics tag for My VA health chat alert
 2. Profile 2.0: Design updates from user testing; content review; IA plan and review
-3. Profile 2.0: Continue build; implement updates from usability testing
+3. Profile 2.0: Continue build
 4. Profile 2.0: Analytics planning
 5. Address validation: Follow-up with veterans to see if they are still having issues saving their addresses
 6. PM: Review team docs
@@ -588,7 +588,6 @@ Logged in homepage
 - Content/IA - Tressa figuring out what URLs need to be updated/redirected
 - **Stretch goal**: Content/IA - IA review (VSP cycle)
 - Build - Continue build
-- Build - Implement updates from user testing
 - Analytics - Revisit KPIs and make sure they are updated in the product outline
 - Analytics - Put together plan for how we want analytics set up
 - Analytics - Submit request for review
