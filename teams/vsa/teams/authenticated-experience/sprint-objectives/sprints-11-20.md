@@ -582,6 +582,7 @@ Logged in homepage
 
 ### Profile 2.0
 
+- Design - User testing updates
 - Content/IA - Tressa reviewing content for updates
 - Content/IA - Provide designs/guidance for content updates
 - Content/IA - Tressa figuring out what URLs need to be updated/redirected
