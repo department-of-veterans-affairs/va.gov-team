@@ -561,7 +561,7 @@ Logged in homepage
 **Project work**
 
 1. Implement analytics tag for My VA health chat alert
-2. Profile 2.0: Content review; IA plan and review
+2. Profile 2.0: Design updates from user testing; content review; IA plan and review
 3. Profile 2.0: Continue build; implement updates from usability testing
 4. Profile 2.0: Analytics planning
 5. Address validation: Follow-up with veterans to see if they are still having issues saving their addresses
