@@ -37,11 +37,15 @@ And drilling down, the actions layer looks like:
 
 Our tentative approach is to add a service layer in between the action creators and API. This layer will handling the switching logic between the FHIR apis and the old VAR apis. This layer will map all data into the FHIR format. The services available will be organized to be as much like the FHIR resources as possible. 
 
-TODO
+![FE mid high level arch](fe_mid_high_level_arch.png)
+
+A more in depth look at the service layer:
+
+![fe_mid_action_creators](fe_mid_action_creators.png)
 
 As we migrate fully over to the FHIR APIs, the service layer will shrink and become very similar to our current API layer, which is a thin wrapper around the fetch calls to the VAR apis.
 
-TODO
+![fe_post migration](fe_post_high_level.png)
 
 ## Service design doc
 
