@@ -54,6 +54,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 - [ ] Bold "your spouse" in the label, "Was your spouse married before?"
+- [ ] Change header in list loop to "Next former spouse"
 - [ ] Change button text to: "Add another former spouse"
 - [ ] Change "Where did this marriage take place?" to "Place of marriage to former spouse"
 - [ ] Bold "or" in labels under the "Place of marriage to former spouse" section
@@ -65,6 +66,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Upload section
 
 - [ ] Upload section seems to be missing from spouse workflow (other than ceremonial marriage, foreign address)
+- [ ] Upload section seems to be missing from child workflow (other than bilogical foreign address)
 
 ### Form review page
 
@@ -73,6 +75,17 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Confirmation page
 
 - [ ] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
+
+### Child's info section
+
+- [ ] Make "number" lowercase in "Child’s Social Security Number"
+- [ ] Change header in list loop to "Next child"
+- [ ] Child's name header seems to be missing after child info screen
+- [ ] Bold "or" in labels under the "Child's place of birth" section
+- [ ] Use base-checkbox address block for "Person your child lives with" address
+- [ ] Change "Street address" to just "Street"
+- [ ] Change "Zip code" to "Postal code"
+
 
 
 
