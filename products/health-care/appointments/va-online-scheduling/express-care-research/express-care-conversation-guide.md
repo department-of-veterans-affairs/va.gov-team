@@ -41,12 +41,6 @@ Before we look at the website, let’s start with a few warm-up questions.
     - Have you used it?
   - If NO: What do you think it might be?
   - Prompt if needed: Is it Telehealth or in-person?
-- Have you ever used Telehealth appointments?
-  - If YES: 
-    - Can you tell us a bit more about your experience?
-  - If NO: 
-    - Have you considered it before? 
-    - What, if anything, is preventing you from trying it?
 - Are you aware of any forms of Telehealth appointments offered by VA providers?
   - If YES: 
     - Which ones?
@@ -56,6 +50,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Section 1: Value of VA urgent Telehealth
 
+- Have you ever used Telehealth appointments?
+  - If YES: 
+    - Was this with a VA provider or non-VA doctor?
+        - If VA: How did you schedule your appointment 
+    - Was this a same-day appointment?
+    - Can you tell me a bit more about your experience?
+  - If NO: 
+    - In your own words, can you define "Telehealth"?
+    - Have you considered it before? 
+    - What would convince you to try it?
+  - Would you consider using Telehealth appointments for a same-day appointment?
 - Have you heard anything about same-day/urgent care Telehealth appointments through VA?
   - (Clarification question if needed: Do you think that VA offers any same-day urgent care appointments? Do you think that the VA offers any same-day urgent care Telehealth appointments?)
 - Have you ever tried to make a same-day appointment with a VA provider, either someone you see regularly or any available provider?
