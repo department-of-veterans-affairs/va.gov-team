@@ -66,6 +66,14 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [ ] Upload section seems to be missing from spouse workflow (other than ceremonial marriage, foreign address)
 
+### Form review page
+
+- [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
+
+### Confirmation page
+
+- [ ] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
+
 
 
 
