@@ -88,7 +88,6 @@ We're currently testing Veterans who meet the [CDC criteria for testing](https:/
 **CDC coronavirus self-checker tool**
 
 With this tool, CDC's chatbot guide, "**Clara**," will help you decide when to seek medical care. If you'd like to come back to the VA coronavirus chatbot to choose another topic, you can refresh the page to start over. <br>
-
 [Go to the CDC coronavirus self-checker](go to self-checker)
 
 _[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/content) for content within self-checker tool]_
@@ -101,7 +100,7 @@ _[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-v
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
 
 [add questions based on message bank - per order below]
 
@@ -121,7 +120,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
 
 [add questions based on message bank - per below order]
 
@@ -140,7 +139,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 ##### Benefits and claims
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
 
 [add questions based on message bank - per below order]
 
@@ -161,7 +160,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. <br>
+Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
 
 [add questions based on message bank - per below order]
 - [20] I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
@@ -331,7 +330,6 @@ We know this is difficult for families, but we're taking these precautions to pr
 ##### For other VA health facilities
 
 At this time, we ask that you postpone your visit. This helps us protect older Veterans and those who already have health issues. <br>
-
 [Visit the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more tips on stopping community spread.
 
 #### 23. Will my benefit payment be delayed because of COVID-19?
@@ -451,7 +449,6 @@ We’ll work with you to decide whether you’d prefer us to temporarily stop co
 If you’re experiencing financial hardship directly or indirectly caused by COVID-19, you can request forbearance from your mortgage company. This allows you to delay payments on your loan for a period of time. 
 
 To request forbearance, contact the mortgage company that collects your payments. <br>
-
 [Learn more about how we can help you avoid foreclosure](https://www.va.gov/housing-assistance/home-loans/trouble-making-payments/)
 
 #### 43. Will I still have to pay my VA copays during the pandemic?
@@ -461,9 +458,7 @@ As of April 6, 2020, we’ve stopped sending monthly copay billing statements fo
 #### 44. What if I've been diagnosed with COVID-19 and need immediate action on my VA appeal?
 
 The Board of Veterans' Appeals will offer you a priority review to move your appeal to the front of the line. This is called “Advanced on the Board of Veterans’ Appeals Docket” (or AOD). <br>
-
 [Find out how to file for AOD and required documents](https://www.bva.va.gov/CustomerService.asp) <br>
-
 [Check your VA claim or appeal status online](https://www.va.gov/claim-or-appeal-status/)
 
 #### 45. How do I get help if I'm homeless or at risk of becoming homeless?
@@ -581,10 +576,8 @@ Call the National Call Center for Homeless Veterans at <a href="tel: 877-424-383
 
 **You can also:**
 
-[View your benefit payments online](https://www.va.gov/va-payment-history/) <br>
-
+[View your benefit payments online](https://www.va.gov/va-payment-history/)<br>
 [Check your claim status online](https://www.va.gov/claim-or-appeal-status/) <br>
-
 [Go to the Board of Veterans' Appeals customer service site](https://www.bva.va.gov/CustomerService.asp)
 
 ### [anxiety and related concerns]
@@ -622,7 +615,6 @@ Here are the best ways to talk with someone about your specific benefit and clai
 **Benefit payment or claim status information**
 
 [View your benefit payments online](https://www.va.gov/va-payment-history/) <br>
-
 [Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
 
 **Appointments for VA benefits and services**
