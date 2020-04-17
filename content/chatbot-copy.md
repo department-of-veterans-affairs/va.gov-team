@@ -313,7 +313,7 @@ Call your nearest VA medical center or Vet Center to talk about your needs.<br>
 
 **If you're not sure what kind of help you need**
 
-Call us at <a href="tel: 877-222-8387"> 877-222-8387</a> to find the right resources for your needs. We’re here Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+Call us at [877-222-8387](tel:18772228387) to find the right resources for your needs. We’re here Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
 
 If you have hearing loss, call TTY 800-877-8339.
 
@@ -348,7 +348,7 @@ Yes. If you’re currently receiving GI Bill benefits, payments will continue au
 
 We’re working closely with schools to ensure enrollments are accurately certified and processed.
 
-For specific questions, contact our Education Call Center toll-free at <a href="tel: 888-442-4551">888-442-4551</a>, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY 711.
+For specific questions, contact our Education Call Center toll-free at [888-442-4551](tel:18884424551), Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. If you have hearing loss, call TTY 711.
 
 #### 25. How can I work with my regional office during this time?
 
@@ -357,7 +357,7 @@ We’ve temporarily closed all of our 56 regional offices for in-person visits d
 We can still answer your questions by phone or through our online customer service tool. And we can support you with needs such as educational counseling, fiduciary claims, and specially adaptive housing by phone or approved video conferencing tools. 
 
 **To get help with benefits**
-Call us at <a href="tel: 800-827-1000">800-827-1000</a>, Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
+Call us at [800-827-1000](tel:18008271000), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
 
 **To check on the status of your claim or appeal**
 Use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
@@ -441,8 +441,8 @@ The U.S. Department of the Treasury won’t take any more action on your debt du
 
 We’ll work with you to decide whether you’d prefer us to temporarily stop collection action, including stopping the addition of fees and interest, during this time or extend your repayment terms.
 
-- **If you have debt related to VA benefits,** please contact the VA Debt Management Center at <a href="tel: 800-827-0648">800-827-0648</a> to make arrangements. We’re here Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
-- **If you have debt related to VA health care,** please contact the Health Resource Center at <a href="tel: 888-827-4817">888-827-4817</a> to make arrangements. Be sure to have your account number ready.
+- **If you have debt related to VA benefits,** please contact the VA Debt Management Center at [800-827-0648](tel:18008270648) to make arrangements. We’re here Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
+- **If you have debt related to VA health care,** please contact the Health Resource Center at [888-827-4817](tel:8888274817) to make arrangements. Be sure to have your account number ready.
 
 #### 42. What if I'm having trouble paying my VA-backed home loan during this time?
 
@@ -467,7 +467,7 @@ We offer many programs and services that may help—including free health care a
 
 **Find the support you need:**
 
-- **Call the National Call Center for Homeless Veterans** at <a href="tel: 877-424-3838">877-424-3838</a> for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+- **Call the National Call Center for Homeless Veterans** at [877-424-3838](tel:18774243838) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 - **Contact your nearest VA medical center** and ask to talk with a VA social worker. If you're a female Veteran, ask for the Women Veterans Program Manager. <br>
 [Find the nearest VA medical center](https://www.va.gov/find-locations/)
 
@@ -507,7 +507,7 @@ We’ll work with you to change your in-person appointment to a virtual appointm
 - Fiduciary
 - Military service coordinators
 
-Please work with your VA representative to reschedule appointments. If you have questions, call us at <a href="tel: 800-827-1000">800-827-1000</a> (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Please work with your VA representative to reschedule appointments. If you have questions, call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 [Read our Coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
 
@@ -542,7 +542,7 @@ benefits and claims
 Here are the best ways to talk with someone about your specific health care needs.
 
 **General coronavirus COVID-19 questions**
-Call MyVA311 at <a href="tel: 844-698-2311">844-698-2311</a>.
+Call MyVA311 at [844-698-2311](tel:18446982311).
 
 **VA health care appointments**
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
@@ -552,27 +552,27 @@ Check your facility's website for the latest updates and contact information. <b
 [Find a VA location](https://www.va.gov/find-locations)
 
 **Mental health resources**
-Call our health benefits hotline at <a href="tel: 877-222-8387"> 877-222-8387</a> (TTY: 800-877-8339), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
+Call our health benefits hotline at [877-222-8387](tel:18772228387), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET.
 
 **Debt management information related to VA health care**
-Call our Health Resource Center at <a href="tel: 888-827-4817">888-827-4817</a>.
+Call our Health Resource Center at [888-827-4817](tel:18888274817).
 
 **Technical questions about My HealtheVet**
-Contact the My HealtheVet help desk at <a href="tel: 877-327-0022">877-327-0022</a>.
+Contact the My HealtheVet help desk at [877-327-0022](tel:18773270022).
 
 ### [debt, copays, and related concerns]
 
 **Debt related to VA benefits**
-Call our VA Debt Management Center at <a href="tel: 800-827-0648">800-827-0648</a>, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
+Call our VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 
 **Debt management information related to VA health care**
-Call our Health Resource Center at <a href="tel: 888-827-4817">888-827-4817</a>.
+Call our Health Resource Center at [888-827-4817](tel:18888274817).
 
 **VA-backed home loans**
-Call <a href="tel: 877-827-3702">877-827-3702</a> to talk with a VA loan technician, Mon. – Fri., 8:00 a.m. to 6:00 p.m. ET.
+Call [877-827-3702](tel:18778273702) to talk with a VA loan technician, Mon. – Fri., 8:00 a.m. to 6:00 p.m. ET.
 
 **Support for homelessness**
-Call the National Call Center for Homeless Veterans at <a href="tel: 877-424-3838">877-424-3838</a> for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
+Call the National Call Center for Homeless Veterans at [877-424-3838](tel:18774243838) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 
 **You can also:**
 
@@ -593,17 +593,17 @@ Call your nearest VA medical center or Vet Center. <br>
 
 **To ask for help with getting resources**
 
-Call our health benefits hotline at <a href="tel: 877-222-8387"> 877-222-8387</a> (TTY: 800-877-8339), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET. 
+Call our health benefits hotline at [877-222-8387](tel:877-222-8387) (TTY: 800-877-8339), Mon. – Fri., 8:00 a.m. to 8:00 p.m. ET. 
 
 **To talk to someone anytime, day or night**
 
-Call <a href="tel: 877-927-8387">877-927-8387</a> (TTY: 800-877-8339) to talk with a fellow combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year. 
+Call [877-927-8387](tel:18779278387) (TTY: 800-877-8339) to talk with a fellow combat Veteran about your experiences, 24 hours a day, 7 days a week, 365 days a year. 
 
 **To get help now if you or a Veteran you care about is in crisis**
 
 Contact our Veterans Crisis Line 24/7 by phone, text, or chat:
-- Call <a href="tel: 800-273-8255">800-273-8255</a> and select 1
-- Text <a href="tel: 838255">838255</a>
+- Call [800-273-8255](tel:18002738255) and select 1
+- Text [838255](tel:838255)
 - [Start a confidential chat](https://www.veteranscrisisline.net/get-help/chat)
 
 If you have hearing loss, call TTY 800-799-4889.
@@ -619,13 +619,13 @@ Here are the best ways to talk with someone about your specific benefit and clai
 
 **Appointments for VA benefits and services**
 
-Call us at <a href="tel: 800-827-1000">800-827-1000</a> (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call us at [8008271000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
-Call the VA Debt Management Center at <a href="tel: 800-827-0648">800-827-0648</a>, Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
+Call the VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
 
 **Education benefit questions**
-Contact our Education Call Center toll-free at <a href="tel: 888-442-4551">888-442-4551</a>, Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
+Contact our Education Call Center toll-free at [888-442-4551](tel:18884424551), Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
 
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
 
