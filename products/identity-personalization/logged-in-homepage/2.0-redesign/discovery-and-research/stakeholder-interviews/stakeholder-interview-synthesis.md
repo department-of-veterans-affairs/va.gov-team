@@ -1,15 +1,16 @@
 # Logged-in Homepage Stakeholder Interviews Research Summary 
 
-------DRAFT, 04/16/2020------
+------DRAFT, 04/17/2020------
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
-Liz Lantz (liz@adhocteam.us), 04/16/2020
+Liz Lantz (liz@adhocteam.us), 04/17/2020
 
 ## Research Goals 
 
 As part of a larger discovery effort for the new logged-in homepage, we wanted to talk to DEPO stakeholders in order to:
 
+- Better understand problems and pinpoints stakeholders perceive with the current logged-in homepage and myVA
 - Gain insight to their goals and ideas around success for a new logged in homepage experience
 - Understand the impact of this work to other teams
 - Better understand risks
@@ -20,7 +21,9 @@ As part of a larger discovery effort for the new logged-in homepage, we wanted t
 We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. A moderator began with introduction questions and prompted stakeholders with questions (from the conversation guide). Remote observers and note takers were also in attendance for some sessions.
 
 ### Who we talked to
-#### Round 1
+
+**Round 1**
+
 - Chris Johnston
 - Lauren Alexanderson
 - Samara Strauss
@@ -34,6 +37,12 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 - Mikki Northius
 - Dave Conlon
 - Andy Lewandowski
+
+**Round 2**
+
+- Charles Worthington
+- Jen Lee
+- John Hashimoto
 
 ### Research Questions
 
@@ -49,33 +58,33 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
 1. The logged in homepage and navigation largely stay the same when people log in, which gives little sense of personalization and doesn't effectively present what we know about Veterans.
 2. We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.
-3. Veterans are not receiving effective updates or communication through VA.gov
+3. We're not effectively providing updates or notifications to Veterans through VA.gov.
 
 ### Goals
 
-1. A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them
-2. The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks
-3. We should provide a logged-in experience that scales visually and across use cases
+1. A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them.
+2. The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks.
+3. We should provide a logged-in experience that scales visually and across use cases.
 
 ### Impacts to work
 
-1. Teams can leverage the homepage to elevate tools
-2. A new logged-in experience may influence how and what people build for Veterans outside the homepage
+1. Teams can leverage the homepage to elevate tools.
+2. A new logged-in experience may influence how and what people build for Veterans outside the homepage.
 
 ### Project Risks
 
 1. Having many stakeholders could prevent us from delivering incremental improvements in a timely way.
 2. The logged-in homepage could become a dumping ground.
-3. We could create/increase Veteran mistrust through poor data integrity and login experiences
-4. COVID-19 disruptions could impact ability to effectively interact with stakeholders
+3. We could create/increase Veteran mistrust through poor data integrity and login experiences.
+4. COVID-19 disruptions could impact ability to effectively interact with stakeholders.
 
 ## Details of Findings
 
-### Problems with the current UX 
+### Perceived problems with the current UX 
 
 1. **The logged in homepage and navigation largely stay the same when people log in, which gives little sense of personalization and doesn't effectively present what we know about Veterans.**
 
-   Since the logged-in homepage and the majority of navigation don't change when you log in, we're falling short in giving Veteran's a personalized landing pad that makes them feel welcome, and missing an opportunity to provide them with a more targeted experience that reflects who they are.  Also, the content and actions presented to them are redundant across the logged-in and logged-out experiences, so the value of logging in is easily missed.  A Veteran can find personalized content in MyVA, but the [Personalization 2.0 research conducted in the summer of 2019](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard) taught us that users either don't know about it, or don't have much of a need for it.  
+   Since the logged-in homepage and the majority of navigation don't change from the logged-out experience, we are falling short in providing a more targeted experience that reflects Veterans' circumstances and needs, guides them to tasks and tools, and makes them feel welcome. Without a more tailored authenticated experience, Veterans don't have enough incentive to log in.
 
    
 
@@ -87,28 +96,27 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
    
 
-3. **Veterans are not receiving effective updates or communication through VA.gov**
+3. **We're not effectively providing updates or notifications to Veterans through VA.gov**.
 
    When we have new information or updates for Veterans to act upon, they have to seek it out rather than us surfacing it for them upon logging in.  By not having a centralized place for Veterans to find these notifications, we're missing the opportunity to help Veterans complete their tasks more quickly, make them aware of actions they need to take, and quickly provide status updates.
-   
 
-### Goals
+### Stakeholder goals
 
-1. A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them
-2. The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks
-3. We should provide a logged-in experience that scales visually and across use cases
+1. A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them.
+2. The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks.
+3. We should provide a logged-in experience that scales visually and across use cases.
 
-### Impacts to work
+### Impacts to work and DEPO teams
 
-1. Teams can leverage the homepage to elevate tools
-2. A new logged-in experience may influence how and what people build for Veterans outside the homepage
+1. Teams can leverage the homepage to elevate tools.
+2. A new logged-in experience may influence how and what people build for Veterans outside the homepage.
 
-### Project Risks
+### Perceived project risks
 
 1. Having many stakeholders could prevent us from delivering incremental improvements in a timely way.
 2. The logged-in homepage could become a dumping ground.
-3. We could create/increase Veteran mistrust through poor data integrity and login experiences
-4. COVID-19 disruptions could impact ability to effectively interact with stakeholders
+3. We could create/increase Veteran mistrust through poor data integrity and login experiences.
+4. COVID-19 disruptions could impact ability to effectively interact with stakeholders.
 
 ## 
 
@@ -118,14 +126,14 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
 It will be important to look at metrics before and after the launch of a new logged-in homepage to understand the impact we're having on Veterans (an in-depth look at current analytics to understand where we are today is planned as part of this discovery effort). Two common themes emerged when stakeholders were asked what metrics they'd be interested in seeing for this effort.
 
-1. Measuring interactions can help us understand if we are guiding Veterans in a meaningful way that  helps them complete tasks.  Metrics to look at could be:
+1. **Measuring interactions can help us understand if we are guiding Veterans in a meaningful way that  helps them complete tasks.**  Metrics to look at could be:
    - Navigation path from logged-in homepage, especially as it relates to online tools 
    - Interactions on logged-in homepage (what are users clicking on?)
    - Use of self-service tools
    - Volume of calls to call center related tasks available through the logged-in homepage
    - Volume of manual and in-person submissions related tasks available through the logged-in homepage
 
-2. Measuring authenticated sessions will give insights into how Veterans perceive the value we're providing through a personalized, data-driven experience.  Metrics to look at could be:
+2. **Measuring authenticated sessions will give insights into how Veterans perceive the value we're providing through a personalized, data-driven experience.**  Metrics to look at could be:
    - User sentiment
    - Number of profiles
    - Time to log in
@@ -133,7 +141,7 @@ It will be important to look at metrics before and after the launch of a new log
 
 ### **Comparative experiences**
 
-Conversations with stakeholders validated that banking and finance experiences closely match the use case for VA.gov - users can transact on the site, submit applications and receive a level of personalization that creates a strong differentiation in the logged-out to logged-in experience.  These experiences, when done well, also allows a user to easily understand their status/standing, and receive notifications. 
+Conversations with stakeholders validated that banking and financial sites serve as valuable models for VA.gov. When done well, financial and banking sites provide a level of personalization that create a strong differentiation from the logged-out experience. They allow users to complete a number of transactions, including submitting applications, viewing account statuses and updates, and receiving notifications. They also keep marketing content separate from the logged-in experience.
 
 Companies mentioned that we'll aim to look at (account availability may create a blocker):
 
@@ -144,13 +152,21 @@ Companies mentioned that we'll aim to look at (account availability may create a
 
 Multiple stakeholders also named companies who offer personalized experiences that impact users both online and offline, or across multiple products such as Google, Delta, and Apple.  Insurance companies, such as State Farm or Geico also came up as something to consider, as they also provide users the ability to apply, file a claim, check status, and manage their benefits.
 
-## Recommendations
+## Considerations and action items
 
-
+- We'll want to work closely with VSP to build-up/scale the visual design system to accommodate the authenticated tools. This redesign is a good playground for that
+- We should think more broadly about how to guide veterans in the logged-in experience — how does a logged-in navigation factor into this project?
+- Authenticated experience PO (Samara Strauss) should regroup with DEPO stakeholders on how to involve VA stakeholders in this project
+- We'll include Bank of America, USAA, Chase, Fidelity, Google, Apple, Delta, State Farm and Geico in our comparative analysis.
 
 ## Next Steps
 
-Continue with remaining research activities planned for this discovery effort.
+We'll continue with remaining research activities planned for this discovery effort: 
+
+- Past research review ([Issue #7265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7265))
+- Analytics review ([Issue #7772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7772))
+- User interviews ([Epic #7268](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7268))
+- Comparative analysis ([Issue #7266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7266))
 
 
 
