@@ -20,7 +20,7 @@
 ### Planning:
 - Desired date: 04/20/20
 - Post-launch KPI 1: Click through rate beginning with COVID-19 alert banner through to the facility-level operating status information
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/go-no-go.md)
 
 ### 1-week results:
 - Number of unique users: x
