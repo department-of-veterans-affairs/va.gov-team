@@ -75,7 +75,7 @@ We are going to be talking about how you use certain VA benefit features today. 
 ### Screenshare
 Moderator will share their screen. Confirm with the participant that they can see the eBenefits portal.
 
-**Moderator: I am going to share my screen with you. Can you see the eBenefits website on your computer? As I said before we are going to walk through how to fill out the Power of Attorney form and gather your thoughts about each step.
+Moderator: I am going to share my screen with you. Can you see the eBenefits website on your computer? As I said before we are going to walk through how to fill out the Power of Attorney form and gather your thoughts about each step.
 
 **Moderator: How familiar are you with the Power of Attorney form, also called the 21-22 form?**</br>
 **Participant:**</br>   
@@ -84,7 +84,7 @@ Moderator will share their screen. Confirm with the participant that they can se
 
 **Screens**
 ### Privacy Act
-**Moderator: What are your initial  thoughts about this step?****</br>
+**Moderator: What are your initial  thoughts about this step?**</br>
 **Participant:**</br>   
 
 **Moderator: What are your feelings about how the VA presents this legal text on its pages?**</br>
