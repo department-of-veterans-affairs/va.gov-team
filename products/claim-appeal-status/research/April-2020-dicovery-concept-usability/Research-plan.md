@@ -32,7 +32,7 @@ How to create a better Claim Status Tool:
 
 We would like to propose a research process consisting of 4 phases:
 
-1. A previous research review, including a detailed mapping of the current tool and its use cases.
+1. A previous research review, including a detailed mapping of the current tool and its use cases, as well as any existing quantitative research.
 2. A discovery phase, to better define user behavior, expectations, and needs, including a comparative study looking into how other companies / organizations are dealing with (claim) status tracking. 
 3. Usability test of excisting claim status tool (if applicable, include early concepts to test).
 4. Concept testing and usability testing of the new claim status tool. 
@@ -44,7 +44,14 @@ Are there any existing, relevant quantitative research?
   
 ### 2. Discovery phase
 
-We want to understand better what a claim status tool can be, what the possibilities are for good user experiences, and what business opportunities are here. We will start with a competitive analyses and see how other companies and organizations and handling claims, status tracking, progress updates etc. 
+We want to understand better what a claim status tool can be, what the possibilities are for good user experiences, and what business opportunities are here. We will start with a competitive analyses and see how other companies and organizations and handling claims, status tracking, progress updates etc. How many claims, on average, does a user have within the claim status tool?
+Existing quantitative data:?
+- How many claims, on average, does a user have within the claim status tool?
+- What call center data can we collect for the claim status tool? What were people calling in about?
+- What are the most prevalent types of documents uploaded in the 'additional evidence' tool?
+- When users exit the CST, where do they go?
+- How do users enter the CST? What page(s) do they come from?
+
 
 ### 3. Usability test of the current claim status tool
 
