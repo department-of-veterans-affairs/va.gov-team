@@ -9,7 +9,7 @@
    - John Hashimoto, DSVA @John Hashimoto
    - Steph Orkand @Stephanie Orkand
 - Search.gov POC: 
-   - Arantxa Pipernova (search@support.digitalgov.gov)
+   - Arantxa Pipernova (arantxa.recio@gsa.gov)
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
 
 ## Table of Contents
