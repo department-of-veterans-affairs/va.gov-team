@@ -19,9 +19,10 @@ This will be the automated tests teams must run before requesting a staging acce
 **Steps to test:**
 
 1. Install the [browser plugin for Chrome, Firefox or Edge Chromium](https://deque.com/axe)
-2. Open the Developer tools and select the Axe tab
-3. Press the large Analyze button to run the scan, one page at a time
-4. Verify the issues (if any)
+1. Open the Developer tools by right-clicking with your mouse and selecting `Inspect`
+1. Click on the `Axe` tab. It will most likely be on the far right.
+1. Press the large Analyze button to run the scan, one page at a time
+1. Verify the issues (if any)
 
 **Expected result:**
 
@@ -58,9 +59,10 @@ This will be the automated tests teams should run before requesting a staging ac
 **Steps to test:**
 
 1. Install the [browser plugin for Chrome](https://www.deque.com/axe/axe-for-web/early-release/)
-2. Open the Developer tools and select the Axe-coconut tab
-3. Press the large Analyze button to run the scan, one page at a time
-4. Verify the issues (if any)
+1. Open the Developer tools by right-clicking with your mouse and selecting `Inspect`
+1. Click on the `Axe-coconut` tab. It will most likely be on the far right.
+1. Press the large Analyze button to run the scan, one page at a time
+1. Verify the issues (if any)
 
 **Expected result:**
 
