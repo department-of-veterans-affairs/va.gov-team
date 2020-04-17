@@ -16,7 +16,7 @@ Once those are in place, run the following command in your local checkout of `ve
 yarn watch:review
 ```
 
-> What this does is figure out the URL for the review instance's API and use reference it in the build wherever requests are made to the API. This is effectively the same as the following command, but you don't have to create a pull request or crawl through Jenkins logs to find the review instance URL.
+> What this does is figure out the URL for the review instance's API and reference it in the build wherever requests are made to the API. This is effectively the same as the following command, but you don't have to create a pull request or crawl through Jenkins logs to find the review instance URL.
 > ```
 > yarn watch --env.api="<API_URL>"
 > ```
