@@ -26,9 +26,17 @@ Need to double check all redirects to determine:
 - Danielle to edit old Github rates pages. This is going to require going back to the pages to check current information since it's been so long now.
 - Randi to do copy edit & build pages in Drupal
 - Peggy review? (depending on VSP review requirement/capacity)
-- SME reviews
+- SME reviews of rewriting (SME review must come before redirect issue starts)
 - Pick up on issue #2211
 
 **Compare benefits page:**
 
 Refer to #17817 for rewriting and #2211 for redirect.
+
+**Restoration of benefits:**
+
+Refer to #17696 for rewriting. Last step was Danielle signing off to send to SMEs back in July, and Randi asking about how to do that in August.
+
+**STEM scholarship:**
+
+Refer to issue #19263 for rewriting. We had paused this due to IA discussions. Need to pick back up on it there.
