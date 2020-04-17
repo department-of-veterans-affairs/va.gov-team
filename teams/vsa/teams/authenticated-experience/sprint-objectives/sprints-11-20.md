@@ -600,6 +600,7 @@ Logged in homepage
 
 - Sandra's onboarding checklist #8074
   - **Matt** this ticket needs further grooming by you
+- Matt helping Sandra onboard
 
 ### PM
 
