@@ -29,4 +29,4 @@ Fill out name of individual and *Description* section below.
  - [ ] Pagerduty access removed (if applicable) 
  - [ ] Google analytics, and Domo access removed (if applicable) 
  
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support , @department-of-veterans-affairs/vsp-analytics-insights, @KevinMHoffmanUSDS, @drorva  
