@@ -3,6 +3,7 @@ Questions? Contact Shawna Hein.
 
 - [Va.gov Base Process](#process)
 - [Setup](#setup)
+- [VSP Collaboration Cycle](#vsp-collaboration-cycle)
 - [Recruiting](#recruiting)
 - [Pilot/Test Sessions](#pilot-sessions)
 - [Taking Notes](#taking-notes)
@@ -28,6 +29,11 @@ Some thoughts about whether or not to include instructions to "think aloud" at t
 * If you're evaluating task time, asking someone to think aloud can skew your results.
 * If you want to really see what someone would do alone, by asking them to talk aloud, you're changing their behavior. In cases like this, you can better understand what you're looking for by asking specific questions at key moments during the testing.
 
+## <a id="vsp-collaboration-cycle"></a>VSP Collaboration Cycle
+* Before running a usability study, request a [Usability Testing Prep collaboration session with VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#usability-testing-prep)
+* VSP should schedule the meeting within 2-3 days
+* Once the meeting has happened, take a look at the feedback. If the research plan and guide are good to go, you can send to Lauren that same day, and use the week things are being scheduled to make any requested changes to the prototype
+
 ## <a id="recruiting"></a>Recruiting
 **Note: The language of our contract stipulates that you do not recruit veterans “on the side” to do informal research on your own. You must use DEPO’s services for all research recruiting. Please contact Lauren Alexanderson if you would like to talk to veterans in support of your work on VSA, and be sure to have her (or your DEPO contact) review and approve your plan.**
 
@@ -38,15 +44,13 @@ VA has an agreement with a recruiting organization that will manage all recruiti
 
 Information about using our recruiter, Pergean to recruit participants for your moderated usability and other research studies  [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md).
 
-When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack **at least 1 week before you want to start sessions.** Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
-
-Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
-
-Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. Also, consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
-
-To talk to stakeholders or VA employees that are working on the other side of the forms, be sure to work through and cc stakeholders. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
-
-At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
+* When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack **at least 1 week before you want to start sessions.** Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
+* Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
+* Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. Also, consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
+* If you'd like buffer time in between user sessions, make sure to state that in your research plan.
+* Make sure to list your whole team and any interested stakeholders in the list of folks you want Perigeon to invite to the user sessions in your research plan. 
+* If you are recruiting stakeholders or VA employees that are working on the other side of the forms, you do not go through Perigeon to recruit. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
+* At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
 Run a pilot/test session before your study, including Perigean’s team, so you rehearse process of logging in, get any conversation guide kinks worked out, understand how to hand off mouse controls, and have a participant show their screen. VSP and/or Perigean can help schedule the pilot.
@@ -86,6 +90,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
    * Ask open-ended questions and avoid Yes/No prompts. 
    * Follow-up questions like with “Why?” and “Tell me more” if the user has given you a short statement or not provided enough information.
    * Avoid using morale/biased language like "good!" or "perfect!" when a user completes a task in the way you'd expect.
+   * If someone asks you how something works or what happens when they click on something, respond with "how would you expect it to work?" rather than answering their question
 * There is a channel in DSVA Slack called #feedback-backchannel.  Make sure to be in that channel when running your sessions and that your observers know about it.
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
