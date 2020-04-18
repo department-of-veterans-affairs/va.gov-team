@@ -3,13 +3,19 @@
 
 ## Health care
 
-Complete back in July 2019. No decisions or action items.
+Complete back in July 2019. No decisions or action items needed.
+
+## Housing 
+
+Complete. No decisions or action items needed.
 
 ## Pensions
 
-Complete except for the protected rates page.
+Completed back in July except for the protected rates page.
 
-Redirect of protected rates page was put on hold on April 2 as part of larger discussion of how to handle historical rates. Refer to issue [#2212](https://app.zenhub.com/workspaces/dsva-5e0105febd078d9165e53a99/issues/department-of-veterans-affairs/va.gov-team/2212).
+**Current state:**
+
+Redirect of protected rates page was put on hold on April 2 as part of larger discussion of how to handle historical rates. A solution for that is now in place. Refer to issue [#2212](https://app.zenhub.com/workspaces/dsva-5e0105febd078d9165e53a99/issues/department-of-veterans-affairs/va.gov-team/2212) for redirect work.
 
 But before we can do the redirect, we need to finish the rewriting, move the page from GitHub to Drupal, and get SME approval. The page was sent to SMEs for review back in July 2019. The last note is from Danielle providing SME feedback email before leaving the contract, but it looks like there was no follow-up on that. We need to address that feedback, but it's been so long now, we also need to sent it back through SME approval. Again, since it's been so long, we also need to do another comparison of the rewritten and legacy pages to ensure our rewritten page reflects the current, accurate factual info from the legacy page. Refer to old Vets repo issue [#18514][https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18514). 
 
@@ -18,7 +24,7 @@ But before we can do the redirect, we need to finish the rewriting, move the pag
 - Keep redirect issue in backlog for now until we've completed rewriting approval process.
 - Implement historical rates solution from issue [#6937](https://app.zenhub.com/workspaces/dsva-5e0105febd078d9165e53a99/issues/department-of-veterans-affairs/va.gov-team/6937) as part of rewriting process.
 
-**ACTION ITEM:** 
+**ACTION ITEMS:** 
 
 - Danielle to create a new rewriting isssue based on where we left off on issue #18514, and work with Stephanie to prioritize and assign the right team members to the tasks. Associated tasks will include:
   - Incorporate SME feedback
@@ -30,24 +36,28 @@ But before we can do the redirect, we need to finish the rewriting, move the pag
   - Incorporate any additional SME feedback, and capture SME approval in documentation
   - Re-start redirect process at this time (when rewritten page is ready & approved)
 
-- Danielle and Mikki to check in on the historical rates issue to make sure it's moving forward.
-
 ## Disability
 
 Refer to issue #6807.
 
-**Need to check with Nick about how to figure out how to redirect 2 pages that are treated differently from a technical perspective:**
+**Current state:**
+
+There are 2 pages that are set to be redirected, but are treated differently from a technical perspective:
 - C&P claim exam
 - Add or remove a dependent
 
-**ACTION ITEM:** Mikki to dig into where we left on with this and will determine next steps. When we have that figured out, Danielle to do a last audit of current legacy page vs. our page before we tell SMEs we're redirecting.
+We need Nick to weigh in on how to handle redirecting these. In addition, before redirecting, we need to make sure that in the long gap between SME approval of these pages and now, we're not missing info SMEs may have been adding to or changing on the legacy pages.
 
-**Need to double check all redirects to determine:**
-- What's been directed?
-- What hasn't been redirected?
-- What do we need to do to finish it?
+For the rest of the disability pages, it seems that there have been issues with redirects and there has been a need for redirects to be reverted at times. We need to double check all disability links to catch any potential errors before they impact Veterans or SMEs.
 
-**ACTION ITEM:** Mikki to go through spreadsheet and check all redirects and post update here.
+**ACTION ITEMS:** 
+
+- Mikki to check in with Nick about how to redirect these pages.
+- Danielle to do a last audit of current legacy page vs. our page before we tell SMEs we're redirecting.
+- Mikki to go through spreadsheet and check all redirects and post update here. Will determine:
+  - What's been directed?
+  - What hasn't been redirected?
+  - What do we need to do to finish/fix?
 
 ## Education
 
@@ -99,10 +109,6 @@ Parity work and relevant redirects complete.
 Refer to issue #2213 to see the pages that we need to rewrite. There seems to be confusion around this in the ticket. All of the pages were in various states of rewriting. We need to finish that work, get SME approval, and then we can implement redirects. All of the information we need is in Danielle's rewriting issues (linked to from Mikki's redirect issue).
 
 **ACTION ITEM:** Danielle to look at old tickets and come up with plan for editing/auditing/building in Drupal/moving through SME reviews & approvals.
-
-## Housing 
-
-Everything is complete.
 
 ## Burials
 
