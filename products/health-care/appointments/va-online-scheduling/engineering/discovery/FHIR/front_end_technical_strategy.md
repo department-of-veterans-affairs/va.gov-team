@@ -46,3 +46,5 @@ A more in depth look at the service layer:
 As we migrate fully over to the FHIR APIs, the service layer will shrink and become very similar to our current API layer, which is a thin wrapper around the fetch calls to the VAR apis.
 
 ![fe_post migration](fe_post_high_level.png)
+
+[Service design documentation](fe_service_design.md)
