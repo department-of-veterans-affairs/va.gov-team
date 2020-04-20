@@ -21,7 +21,16 @@ Description of who was spoken to.
 Research questions here
 
 ## Key Findings
-List top findings here
+The 5-10 top findings from your study should be listed here.  Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
+
+1. Finding one
+2. Finding two
+3. Finding three
+4. Finding four
+5. Finding five
+6. Finding six
+7. Finding seven
+
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
