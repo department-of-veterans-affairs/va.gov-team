@@ -57,6 +57,8 @@ Run a pilot/test session before your study, including Perigean’s team, so you 
 
 The recommendation is to recruit one of your developers as a pilot participant, to get them involved early in the process. If that doesn't work, feel free to ask VSP or one of your VSA design colleagues to act as a pilot participant.
 
+[Guidelines have been written about being a pilot participant](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-pilot-participant-guidelines.md). These should be sent to the participant prior to the test session.
+
 ## <a id="taking-notes"></a> Taking Notes
 
 We have to be careful with -- and if possible avoid using -- recordings because of Federal regulations regarding Personally Identifiable Information (PII). Assign a colleague, such as another designer or member of your team, to take verbatim notes during your research sessions. Perigean can also take verbatim notes for your research sessions, but you must request this at the beginning of the study. [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/how-to-take-session-notes.md)
