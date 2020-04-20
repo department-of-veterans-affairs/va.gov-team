@@ -42,7 +42,7 @@ _(About 5 minutes)_
 
 _Present the prototype for this task_
 
-#### Task 2: Give content to someone else to work on
+#### Task 2: Now give the content to someone else to work on
 
 _Present the prototype for this task_
 
@@ -85,7 +85,7 @@ _About 3 minutes_
 
 That concludes the task portion of this session! I have a few follow-up questions before we wrap up.
 
-* What was your overall impression of the new way to move content throght the editorial workflow?
+* What was your overall impression of the new way to move content through the editorial workflow?
 
 * How could this experience have been improved for you?
 
