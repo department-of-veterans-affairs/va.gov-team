@@ -15,7 +15,7 @@ Content has been revised to align with chatbot tone and space limitations.
 # VA coronavirus chatbot
 
 [page intro]
-Get answers to your questions about the coronavirus COVID-19 and VA benefits and services below. 
+Get answers to your questions about the coronavirus and VA benefits and services below. 
 
 ------
 
@@ -46,7 +46,7 @@ Please choose the topic that best fits your needs.
 [Benefits and claims](Go to 7 > 11) <br>
 [Anxiety and related concerns](Go to 6 > 10) <br>
 
-**Note:** If you want to choose another topic later, you can always come back to this list. And if we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
+**Note:** If you want to choose another topic later, you can come back to this list to ask a different question. And if we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
 
 ------
 
@@ -77,7 +77,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 - Other existing illnesses or conditions
 - Possible exposure
 
-We're currently testing Veterans who meet the [CDC criteria for testing](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). If you have symptoms and think you may need testing, please contact us online or by phone. We have different ways of testing Veterans, including drive-thru testing, that help protect you, other Veterans, and our staff. Please avoid going in-person to a VA health facility for testing unless we've advised you to.
+We're currently testing Veterans who meet the [CDC criteria for testing](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html). If you have symptoms and think you may need testing, please contact us online or by phone. We have different ways of testing Veterans, including drive-through testing, that help protect you, other Veterans, and our staff. Please avoid going to a VA health facility in person for testing unless we've advised you to.
 
 To ask about testing, you can [send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet or call your local VA health facility. <br> 
 [Find a VA health facility](https://www.va.gov/find-locations/)
@@ -183,14 +183,14 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 We recommend using telehealth to visit your provider by phone or video. Once your provider schedules a telehealth appointment, you’ll receive a link to VA Video Connect (or another approved video meeting tool). You can also choose to cancel or reschedule your appointment.
 
-You can contact your VA health facility for help with appointments, or you may be able to change to a telehealth appointment, reschedule, or cancel online. <br>
+You can contact your VA health facility for help with appointments, or you can go online to change to a telehealth appointment or to reschedule or cancel a visit. <br>
 
 **For support by phone:**
 [Find your VA health facility's phone number](https://www.va.gov/find-locations/) 
 
 **For online appointment support, you'll need to sign in to:**
 - [Send a secure message](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging-spotlight) to your provider through My HealtheVet
-- [Request a phone or video appointment](https://www.va.gov/health-care/schedule-view-va-appointments/) (**note:** this may vary by facility)
+- [Request a phone or video appointment](https://www.va.gov/health-care/schedule-view-va-appointments/) (**Note:** This may vary by facility.)
 - [Reschedule or cancel your appointment](https://www.va.gov/health-care/schedule-view-va-appointments/) 
 
 **Note:** Some clinics are asking patients to not reschedule or schedule new appointments for some types of routine care so they can protect both patients and staff. The situation is changing quickly. For the latest information, please check your local VA health facility’s website. <br>
@@ -213,12 +213,12 @@ We apologize if you can't get through or are on hold for a long time. We’re cu
 **To help us address the most urgent needs first, we ask that you use one of our online tools for routine or non-urgent questions. You can:**
 
 - **[Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)** about any health concern or question
-- **[Request a phone or video appointment](https://www.va.gov/health-care/schedule-view-va-appointments/)** (**note:** this may vary by facility)
+- **[Request a phone or video appointment](https://www.va.gov/health-care/schedule-view-va-appointments/)** (**Note:** This may vary by facility.)
 - **[Try our new health chat app (limited availability)](https://www.mobile.va.gov/app/va-health-chat)** if your primary VA health facility is one of the [select locations](https://www.mobile.va.gov/app/va-health-chat) testing this new feature
 
 #### 17. How do I refill my prescription?
 
-Please request refills as soon as possible, but no later than 10 days before you run out of your current prescription.  And please check that we have your current mailing address on file in your [VA.gov profile](https://www.va.gov/profile) so we send your prescriptions to the right address. If you need to, you can sign in to [change your address online](https://www.va.gov/change-address/).
+Please request refills as soon as possible, but no later than 10 days before you run out of your current prescription. And please check that we have your current mailing address on file in your [VA.gov profile](https://www.va.gov/profile) so we send your prescriptions to the right address. If you need to, you can sign in to [change your address online](https://www.va.gov/change-address/).
 
 **Note:** If you currently get your prescription sent to you by mail, you’ll continue to receive your refill requests as normal. 
 
@@ -282,7 +282,7 @@ Call 911 or go to your nearest ER. For emergencies, you don’t need a referral 
 **Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
 [Find a VA location](https://www.va.gov/find-locations/)
 
-Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
+Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus and address critical medical needs first during this time. 
 
 **Symptoms that may require urgent care (within 24 to 48 hours) include:**
 - Sore throat, earache
@@ -299,7 +299,7 @@ Many people feel stress about COVID-19. These steps may help:
 - **Keep your existing mental health appointments.** If you currently have regular sessions, [send your provider a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to request telehealth visits by phone or video.
 - **Ask for a new mental health appointment.** If you need same-day mental health care, call your local VA health facility.<br>
 [Find a VA location](https://www.va.gov/find-locations). <br> To request a new appointment, you can also:
-  - [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**note:** this may vary by facility)
+  - [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**Note:** This may vary by facility.)
   - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 - **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)**
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
@@ -309,7 +309,7 @@ Many people feel stress about COVID-19. These steps may help:
 **If you’re already using VA medical services**
 
 - [Send a secure message to your primary care provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to help you make an appointment with a VA mental health provider, or
-- [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**note:** this may vary by facility)
+- [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**Note:** This may vary by facility.)
 
 **If you’re not already using VA medical services or need same-day mental health care**
 
@@ -325,7 +325,7 @@ We're currently following CDC guidelines and limiting visitors for patients rece
 
 We do make an exception for Veterans who qualify as a "compassionate case." This means the Veteran is in their last stage of life in a hospice unit and you can only visit that Veteran’s room. 
 
-We know this is difficult for families, but we're taking these precautions to protect the most vulnerable patients from community spread of the coronavirus COVID-19. Learn about the [steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400). <br>
+We know this is difficult for families, but we're taking these precautions to protect the most vulnerable patients from community spread of COVID-19. Learn about the [steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400). <br>
 
 [Visit the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for more tips on stopping community spread.
 
@@ -506,7 +506,7 @@ We’ll work with you to change your in-person appointment to a virtual appointm
 
 Please work with your VA representative to reschedule appointments. If you have questions, call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
-[Read our Coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
+[Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
 
 ## 52. What if I need to turn in or sign paperwork for my claim or appeal?
 
@@ -614,7 +614,7 @@ Here are the best ways to talk with someone about your specific mental health ne
 
 **To find your nearest VA health facility's phone number**
 
-Use our website's [**Find VA locations** tool](https://www.va.gov/find-locations). facility locator tool to 
+Use our website's [**Find VA locations** tool](https://www.va.gov/find-locations). 
 
 **To send a secure message to your provider, you'll need to sign in online to:**
 
@@ -644,7 +644,7 @@ Here are the best ways to talk with someone about your specific benefit and clai
 
 **Appointments for VA benefits and services**
 
-Call us at [8008271000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
 Call the VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
