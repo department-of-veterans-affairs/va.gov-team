@@ -59,7 +59,7 @@ Interview invitations to be done directly via email and/or Slack.
 The research will be piloted with Kevin Walsh, VFS-CMS Product Manager 
 
 ## Team Roles 	
-* Moderator: Jordana Mello (jordana.mello@agile6.com | (202) 808 6882)
+* Moderator: Jordana Mello (jordana.mello@agile6.com | 202 808 6882)
 * Research guide writing and task development: Jordana Mello (jordana.mello@agile6.com) and Rachel Kauff (rachel.kauff@civicactions.com)
 * Participant recruiting & screening:	Jordana Mello and Rachel Kauff
 * Project point of contact:	Kevin Walsh
