@@ -5,7 +5,7 @@ This research plan is for the VFS-CMS - VFS-CMS team.
 
 The VFS-CMS is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to **test a proposal for a context panel in the CMS, including the actions area, editorial workflow transition and the concept of assignments**. 
+Our objective for this research is to **test a proposal for a context panel in the CMS, including the actions area, editorial workflow transition and the assignments feature**. 
 
 #### Solution Hypothesis
 By consolidating available actions and workflow information in one single area, the proposed design gives more concrete context for the variety of actions that users can take with a revision in a specific stage of the editorial workflow, considering their role in the system.
