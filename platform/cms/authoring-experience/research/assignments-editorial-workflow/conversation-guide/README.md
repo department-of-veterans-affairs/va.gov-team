@@ -4,7 +4,7 @@
 
 _(About 5 minutes)_
 
-Thank you for joining us today! My name is Jordana, and I'm a designer and researcher for VA.gov CMS. I also have some colleagues on the line observing and taking notes for me. Today we're going to be testing a new way for CMS users to review and move content in the editorial workflow. During this test, I will ask you to share your screen so that I can follow along with you.
+Thank you for joining us today! My name is Jordana, and I'm a designer and researcher for the VA.gov CMS. I also have some colleagues on the line observing and taking notes for me. Today we're going to be testing a new way for CMS users to review and move content in the editorial workflow. During this test, I will ask you to share your screen so that I can follow along with you.
 
 Before we start, a few things I want to mention:
 
@@ -27,13 +27,13 @@ I want to verify that you are okay with me recording screen and audio today.
 
 _(About 5 minutes)_
 
-* How's  
+* How's your day going so far?
 
-* Lastly, have you participated in usability testing before?
+* Have you participated in usability testing before?
 
 [If yes] How'd it go?
 
-[If no] Ok, it's always fun to try something new. Thanks for signing up!
+[If no] Ok, it's always fun to try something new. Thanks for be willing to participate in this study!
 
 
 ## Main Tasks
@@ -46,7 +46,7 @@ _Present the prototype for this task_
 
 _Present the prototype for this task_
 
-#### Task 3: Ask someone to take a look at a piece of content for approval
+#### Task 3: Designate someone to take a look at a piece of content for approval
 
 _Present the prototype for this task_
 
