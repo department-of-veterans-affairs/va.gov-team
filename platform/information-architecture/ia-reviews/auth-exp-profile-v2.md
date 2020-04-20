@@ -34,7 +34,10 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 
 ### Meeting notes
 
-
+**4/20/20 - Content mtg with Public Websites**
+- Some FAQ content is not veteran facing
+- primary entry point is from the profile page, but doesn't necessarily mean that users HAVE to be logged in to see the content
+- Content currently has some developer content in it, which has been recommended to be removed
 
 **3/31/20 - Pre-usability testing collab - FAQ and Apps list pages**
 - "Find apps to use" / "App directory" - land on title, need consistent between title and breadcrumb
