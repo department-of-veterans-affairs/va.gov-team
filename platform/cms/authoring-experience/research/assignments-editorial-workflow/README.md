@@ -17,7 +17,7 @@ By consolidating available actions and workflow information in one single area, 
 #### Research Questions
 * Does the new editorial workflow design support the needs of the users?
 * Do users understand how content moves back and forth in the editorial workflow?
-* Do users understad that a content state can be moved to "in review" using either _assign_ or _send for review_?
+* Do users understand that a content state can be moved to "in review" using either _assign_ or _send for review_?
 * Where do users expect to find the actions that can be done with a content?
 * What should assignments be used for?
 
