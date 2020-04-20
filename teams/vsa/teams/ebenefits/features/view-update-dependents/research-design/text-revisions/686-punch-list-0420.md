@@ -18,6 +18,9 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Introduction
 
+- [ ] Change sigend-in message text to: "**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out."
+- [ ] Change green button text to: "Add or remove a dependent"
+
 #### Subway map
 - [ ] Change header to: "Follow the steps below to apply to add or remove a dependent"
 - [ ] Prepare section: all new text per [mocks](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/)
@@ -79,7 +82,16 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Add student section (674)
 
+#### 674 not implemented
+
 ### Remove stepchild section
+
+- [ ] Deselect radio-button for stepchild expenses question; add "Required"
+- [ ] Sentence-case button text: "Add another stepchild"
+- [ ] Change gray-box heater to: "Next stepchild"
+- [ ] Use base-checkbox address block for "Who does this stepchild live with?" address
+- [ ] Change "Street address" to just "Street"
+- [ ] Change "Zip code" to "Postal code"
 
 ### Dependent death section
 
