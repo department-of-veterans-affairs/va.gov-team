@@ -14,7 +14,7 @@ This organization may change depending on our understanding of the flow.
 - Any data that does have a place in the FHIR spec that we know of, put inside an object called `legacyVAR` for each resouce object
 - When you need to generate an `id` value, prefix it with `var` and use the existing id from the current vets-api service
 
-## FHIR data usage guidelines
+## FHIR service usage guidelines
 
 - Don't rely on a resource `id` for any meaningful information, use a value from the `identifier` list.
   - Vista Scheduling Provider ids are opaque and not useful to us, but for data we're mapping from var-resources, that will not be the case, because we're creating them.
