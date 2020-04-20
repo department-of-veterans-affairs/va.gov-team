@@ -65,6 +65,7 @@ In addition to ensuring SSOe is usable and achieves its stated goals, we may ask
 - 4-8 participants across DSVA, Ad Hoc, and potentially other contractors
 - Participants must have CAG access 
 - Must have their own MHV, ID.me, or DS Logon account
+- We'll need to work with testers at the beginning of testing to get their Google ID number so we can turn on SSOe in prod just for them
 
 #### What is your recruitment strategy?
 - Will put out a call on Slack across DSVA and Ad Hoc, seeking users who have their own accounts to test with in production
