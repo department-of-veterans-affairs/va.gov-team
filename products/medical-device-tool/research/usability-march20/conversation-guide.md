@@ -58,7 +58,7 @@ Warm-up Questions
 
 *(5 Minutes)*
 
-As we talk to users and learn about their experience, these questions can be edited to get more insightful information.
+_As we talk to users and learn about their experience, these questions can be edited to get more insightful information._
 
 -   Before we jump into the session, can you tell me a little about yourself? (If stuck, ask about service, location, occupation, etc.)
 
