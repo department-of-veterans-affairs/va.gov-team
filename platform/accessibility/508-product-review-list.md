@@ -55,7 +55,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Local Side Navigation](#local-side-navigation)
       - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
-      - [Covid-19 Resources](#covid-19-resources)
+      - [Covid-19 Resources](#covid-links-and-resources-pdf)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
