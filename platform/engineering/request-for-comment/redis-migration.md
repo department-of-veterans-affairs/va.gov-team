@@ -23,6 +23,12 @@ vets-api Redis Migration
     - schedules
     - schedules-changed
     - sidekiq-scheduler
+    
+### An Idea of What Our Redis Cache Looks Like
+
+![image](https://user-images.githubusercontent.com/3077884/79758846-eb9bc080-82eb-11ea-8e5e-5d54db785fba.png)
+
+* _Generated from a locally running Redis and `vets-api` server + sidekiq processes_
 
 
 ## Option 1: Maintain Two Running Redis Instances in Parallel
