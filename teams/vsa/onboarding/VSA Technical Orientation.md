@@ -66,7 +66,7 @@ We have a React/Redux/Node front end with a Ruby-on-Rails back end, plus static 
 *   PDF tk (PDF generation)
 
 ## Slack
-Slack is preferred over emails; however, you may be getting meeting requests via email that you’ll need to accept and add to your calendar.
+Slack is preferred over emails; however, you will get meeting requests via email that you’ll need to accept and add to your calendar, so you should still check your company email a few times a day. You are also required to check your VA email weekly via Citrix Access Gateway (CAG) to keep it active (daily if your job requires it). You are expected to have slack running and constantly monitored during working hours. We also recommend turning on the Google Calendar and Google Drive slack apps.
 *   Federal DSVA Workspace URL: https://dsva.slack.com
 *   Guidance: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/onboarding/vsa-slack-guidance.md
 *   DSVA Channels:
@@ -307,7 +307,9 @@ Prerequisites (set up SOCKS5 Proxy access):
 *   REF: https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/internal-tools 
 
 ## Citrix Access Gateway (CAG)
-You may be required to use a VA email address and/or access internal VA sites for certain integration activities (such as backend service integration or discovery of sample data). As an alternative to lugging around Government Furnished Equipment (GFE), you can check your VA email and access internal VA web sites from virtual machines via Citrix Access Gateway (CAG) and your VA-issued Personal Identity Verification (PIV) card.
+All members of the VSA team are required to maintain a VA email account regardless of their role. You may also be required to use a VA email address and/or access internal VA sites for certain integration activities such as backend service integration or discovery of sample data. As an alternative to lugging around Government Furnished Equipment (GFE), you can check your VA email and access internal VA web sites from virtual machines via Citrix Access Gateway (CAG) and your VA-issued Personal Identity Verification (PIV) card.
+
+Once you have received your VA login credentials, it is imperative that you log into your VA account within 24 hours via CAG (Citrix Access Gateway). Additionally, you are required to access your VA account every 90 days in order to avoid having your account disabled. Re-enabling a disabled account is a security event that requires an explanation from the VA Contracing Office Representative (COR), so it's something not to be taken lightly. For that reason--and to stay up to date with any communication sent by the VA to your email--we require you to access your email on a frequent basis to keep the account active: weekly if you are not using VA email regularly, daily if your job requires it.
 
 ### Tips:
 *   Bookmark the VA Citrix Remote Access login site: https://citrixaccess.va.gov/
