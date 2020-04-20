@@ -8,10 +8,10 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 The goal of this research is to understand user comprehension after combining current 'profile' and 'account' into one page as part of the personalization 2.0 effort. This includes:
 
-- does the user feel like the design reflects them personally?
-- can the user find the information that they are looking for effectively?
-- how does the side navigation effect task efficiency?
-- how easily can the user change information within the profile?
+- Does the user feel like the design reflects them personally?
+- Can the user find the information that they are looking for effectively?
+- How does the side navigation effect task efficiency?
+- How easily can the user change information within the profile?
 
 Prior to the research we hypothesized that:
 
@@ -37,7 +37,7 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 ### Research Questions
 
 - Can people find what they're looking for in the profile?
-- Do users understand how to update their information??
+- Do users understand how to update their information?
 - What information is important for them to see first?
 - Do the terms we use on the profile make sense/mean anything to users?
 - Has the side nav increased scanability of the new profile? Do people find what the need easily?
@@ -54,10 +54,12 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 
 ## Key Findings
 1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile using the new navigation.
-2. Participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.
-3. Users expect to see their benefit information on their profile. 
-4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).
-5. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.
+2. User's ability to easily navigate using the desktop side menu supports the capacity for the design to scale.
+3. Participants had a difficult time finding the 'profile menu' in the mobile view, and in general were confused about the mobile navigation.
+4. Users expect to see their benefit information on their profile. 
+5. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).
+6. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.
+7. Users liked the 'name-tag' area, but the military badge is taking up too much space in the mobile view.
 
 ## Details of Findings
 
@@ -73,7 +75,13 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
  
  > " It’s a lot more user friendly than many other VA stuff. Usually it’s a form and submit and it’s a long drawn out process..."
  
-**2. Participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.**
+**2. User's ability to easily navigate using the side menu supports the capacity for the design to scale.** All users were able to quickly scan and locate the pages they were looking for using the side menu.  Even with 'Connected Apps' added in, all page links were visible, giving the user a clear overview of what was available to them. All participants were able to understand the terminology used in the page links. 
+
+ > "...the other version (new profile) to me is much better, it’s less convoluted, less confusing. You don’t have to scroll down...on this one you have to scroll down for days just to get to where you want to go. I like the setup."
+ 
+ > "Well, I like the menu that pops up there. It's got all you information you can see that you can click on it and go to a different area. It's highlighted with the blue and the menu item you select is highlighted there. So it gives you a kind of visual direction for where you are going. Nice simple and “X” to get out."
+ 
+**3. Participants had a difficult time finding the 'profile menu' in the mobile view, and in general were confused about the mobile navigation.**
 Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the profile and had a difficult time finding the profile menu. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. Furthermore, participants seemed confused about the difference in functionality between Menu, 'User Name' Menu, and 'Profile Menu'.
  > “...my only complaint is the profile menu did not stand out...”
  
@@ -90,20 +98,23 @@ Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the pr
  
  > "I can’t actually click anywhere. But I would click out and try to find it in one of the search tool boxes..."
 
-**3. Users expect to see their benefit information on their profile.** 
+**4. Users expect to see their benefit information on their profile.** 
 All users mentioned that they would expect to see benefit information in their profile. Some mentioned they would expect to see it in their 'Personal and contact information', some expected it to be it's own page within the profile. There was a range of things mentioned, including the following:
 - Education options
-- Disability
-- Benefit Rating/entitlement (?)
+- Current disability
+- Disability rating
+- Permanent vs Temporary
+- Benefit entitlement
 - Percentage Used
 - Current treatments
+- Types of discharge (honorable/dishonorable etc.)
 > "The only other thing I would say is possibility benefit information. And again, that might include education options, your disability stuff I don’t know, or go to a menu that link to those things. If I was coming to this and scrolling through it would be nice to have it all in one spot."
 
 > "The only other thing I would add is what types of discharge, honorable/dishonorable because it does effect what type of VA benefits you get."
 
 > "Maybe in addition to the direct deposit and the connect apps and the personal information if there was something like benefits you are currently using, currently receiving...benefits you are currently using. Because chances are if I am logging on to VA.gov, it has to do with one of the benefits I am using."
  
-**4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).** 
+**5. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).** 
 All participants expected the email address shown in 'Personal and contact information' represented the email address used to log-in. Participants didn't notice the 'more information' drop down, and even after reading the 'More Information' content, there was confusion about updating the contact email vs the log-in email.  Users also expected log-in information to live in Account security.
 
 > "I just didn’t notice it. But I would imagine that changing your email address would change your DS and ID."
@@ -117,7 +128,7 @@ Users expected the log-in information to live under 'Account Security'.
 
 > "(In account security) I would expect to see either a phone number or email address you can edit - I think I use a phone number as my two factor. I would expect to see that is the factor they are using the correct either phone number or email address."
 
-**5. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.**
+**6. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.**
 Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expeced connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Before a user can disconnect a third-party app, they have to connect it, but this can only be done via the app itself. Our test participants did not have this context.)
 > "Well, because it’s third party access, they need to to connected in first place. Umm, so I would imagine you both connect and disconnect in the same place." 
 
@@ -126,7 +137,12 @@ Even though 4/5 users had never connected an app, users still understood the ter
 No users read the 'app disconnected' confirmation message, but after reading they were not concerned that information might still be saved after disconnecting.
 > "No, but that’s because I didn’t read everything thoroughly. It says, “they won’t have access to new information but will still have access to information previously shared. Remove any stored data. Connect Apple Healthkit and request permanent deletion.” So, to answer your question, no, it was not, permanently."
 
-**6. Users liked the 'name-tag' area, but it's taking up too much space in the mobile view.**
+**7. Users liked the 'name-tag' area, but the military badge is taking up too much space in the mobile view.** Overall, participants had a positive response to the 'name-tag' area of the design.  Users thought the military badge was a nice addition, but that it was taking up too much valuable space in mobile view.
+> "The emblem could be smaller. We can pretty much recognize our service emblem. It's not critical to this spot and doesn't need to be so big."
+
+> I like, I really like coming in and seeing my service Army there. It’s a nice little feeling, like a reminder and a way to feel connected."
+
+> "I like it. (laughs) honestly I do. It kind of reminds you who you are. I like it. I mean...it says ok this is what branch... this is who you are, this is the branch you served under. It’s simple, it’s a simple identifier. It kind of looks cool."
 
 ## Additional Insights
 - All users preferred desktop to mobile.
