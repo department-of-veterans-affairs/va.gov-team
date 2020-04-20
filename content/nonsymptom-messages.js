@@ -180,7 +180,7 @@ To request a new appointment, you can also:
 `,
 
 /* 21. How can I ask for a new mental health appointment? */
-mental_health_appointment = `
+mental_health_appointment: `
 **If you’re already using VA medical services**
 
 - [Send a secure message to your primary care provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to help you make an appointment with a VA mental health provider, or
@@ -250,6 +250,7 @@ Use our online customer service tool [IRIS (Inquiry Routing & Information System
 `,
 
 /* 31. COVID-19 testing at VA */
+va_covid_testing: `
 **Can I be tested for coronavirus COVID-19 at VA?**
 
 **This depends on many factors, including your:**
