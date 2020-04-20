@@ -91,7 +91,7 @@ That concludes the task portion of this session! I have a few follow-up question
 
 * How do you see assignments improving the way you work?
 
-* [If any] Specific questions regarding the session.
+* [Time to ask specific questions regarding the session].
 
 * Is there anything else you'd like to share with us?
 
