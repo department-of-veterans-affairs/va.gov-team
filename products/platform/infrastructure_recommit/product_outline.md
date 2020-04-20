@@ -18,14 +18,17 @@ How might we create a platform that enables self-service teams, that allows for 
 
 ## Background
 The Platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov’s infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max, and if nothing changes, our infrastructure will make it harder for teams to develop on our Platform and hinder future teams from joining.
+
 Currently, our infrastructure leads to many problems: 
-Very long build times Steep learning curve making onboarding difficult 
-Lack of direct feedback from the system about deploy and service health state (is my change live, and did it break the site? ) 
-Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, several proxy layers, etc…) 
-Arduous process to onboard things that don’t fit BRD process exactly (CMS) 
-Environment specific implicit configuration (difficult to spin up DVP Sandbox as an example, how can we get more?) 
-Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners) 
-Local development Close coupling of system and service deployment (kernel patches go out with application deploys)
+
+- Very long build times Steep learning curve making onboarding difficult 
+- Lack of direct feedback from the system about deploy and service health state (is my change live, and did it break the site? ) 
+- Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, several proxy layers, etc…) 
+- Arduous process to onboard things that don’t fit BRD process exactly (CMS) 
+- Environment specific implicit configuration (difficult to spin up DVP Sandbox as an example, how can we get more?) 
+- Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners) 
+- Local development
+- Close coupling of system and service deployment (kernel patches go out with application deploys)
  
 ## Desired User Outcomes
 - Reduce complexity building operation components on the platform
