@@ -724,7 +724,13 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 **Audit status:** review TBD — content is launching without review due to emergency status
 ** Closed issues:** TBD
 
-* [[DOCUMENTS]: Documents MUST be accessible, Covid Links and Resources PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8172)<br/>**Production** | **Opened:** April 20, 2020 | **Severity:** _508-defect-1 - **Critical**_
+* [[DOCUMENTS]: Documents MUST be accessible, Covid Links and Resources PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8172)<br/>**Production** | **Opened:** April 20, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+```diff 
+! The above is really a 508-defect-1, but since we need to coordinate with another 
+! team to find out who is responsible for creating the accessible PDF, I am 
+! setting this as a 2.
+```
 
 
 ---
