@@ -1,6 +1,6 @@
 # Logged-in Homepage Stakeholder Interviews Research Summary 
 
-**Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
+**Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
 Liz Lantz (liz@adhocteam.us), 04/20/2020
 
@@ -86,7 +86,7 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
 2. **We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.**
 
-   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu - it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
+   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu — it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
 
    While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/VA.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
 
@@ -122,7 +122,7 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
 1. **Having many stakeholders could prevent us from delivering incremental improvements in a timely way.**
 
-   Almost every stakeholder mentioned concerns around navigating many opinions, containing. scope, and competing priorities.  These are valid concerns. Having a clear solution vision for this work, staying focused on our North Star objectives, and open communication with teams will be critical to mitigating this risk.
+   Almost every stakeholder mentioned concerns around navigating many opinions, containingScope scope, and competing priorities.  These are valid concerns. Having a clear solution vision for this work, staying focused on our North Star objectives, and open communication with teams will be critical to mitigating this risk.
 
 2. **The logged-in homepage could become a dumping ground.**
 
@@ -146,7 +146,7 @@ It will be important to look at metrics before and after the launch of a new log
 
 1. **Measuring interactions can help us understand if we are guiding Veterans in a meaningful way that  helps them complete tasks.**  Metrics to look at could be:
    - Navigation path from logged-in homepage, especially as it relates to online tools 
-   - Interactions on logged-in homepage (what are users clicking on?)
+   - Interactions with logged-in homepage
    - Use of self-service tools
    - Whether the volume of calls to call centers changes as a result of the new logged-in homepage
    - Whether the number of tasks completed by mail or in-person changes as a result of the new logged-in homepage
@@ -155,8 +155,8 @@ It will be important to look at metrics before and after the launch of a new log
    - User satisfaction
    - Number of people who verify their identity (LOA3)
    - Time to log in
-   - Number of authenticated sessions (how many times a person uses VA.gov while logged in)
-   - Number of users who log in (count of individuals logging in)
+   - Count of sessions where a user is logged in
+   - Count of individuals logging in
 
 ### **Comparative experiences**
 
@@ -195,3 +195,4 @@ Multiple stakeholders also named companies who offer personalized experiences th
 - [Interview notes](https://github.com/department-of-veterans-affairs/VA.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
 
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
+
