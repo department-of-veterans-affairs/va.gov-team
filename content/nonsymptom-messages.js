@@ -66,7 +66,9 @@ Please check your local VA health facility’s website. The situation is changin
 
 /* 13. What's VA doing to deal with COVID-19? */
 va_covid_response: `
-We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.<br>
+We've activated our emergency management coordination cell (EMCC) and started clinical screenings at all VA facilities.
+
+
 [Learn more about our public health response](https://www.publichealth.va.gov/n-coronavirus/)
 `,
 
