@@ -54,6 +54,6 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 - Add a link to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense) for each objective
 - For any objectives that you think might not be complete this sprint, in italics below it, describe why and what you've done about it (deprioritize and put in your backlog? continue next sprint? pivot to different approach? pass to another team?)
 
-## Samples
+## Other Resources
 
 [VSP OKR's](https://docs.google.com/spreadsheets/d/16ad3HohYHv5Z22XAhlwatomQBsfRRsV0I5Q4z0qrEB0/edit#gid=1225616757)
