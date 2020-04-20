@@ -8,7 +8,7 @@ scenario.option_lists = {
       "Should I wear a mask?",
       "When will a vaccine be out?",
       "If I get COVID-19, will I have immunity from getting it again?",
-      "Start over"
+      "Ask a different type of question"
     ],
     answers: [
       "va_covid_response",
@@ -36,7 +36,7 @@ scenario.option_lists = {
       "What if I tried to call my clinic, and I can't get through?",
       "How can I ask for a new mental health appointment?",
       "Can I visit a patient at a VA facility?",
-      "Start over"
+      "Ask a different type of question"
     ],
     answers: [
       "va_health_appointment",
@@ -64,7 +64,7 @@ scenario.option_lists = {
       "What if I had or need an in-person appointment for VA benefits or services?",
       "What if I need to turn in or sign paperwork for my claim or appeal?",
       "How can I work with my regional office during this time?",
-      "Start over"
+      "Ask a different type of question"
     ],
     answers: [
       "benefit_payment_delay",
@@ -91,7 +91,7 @@ scenario.option_lists = {
       "Will I still have to pay my VA copays during the pandemic?",
       "What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?",
       "How do I get help if I'm homeless or at risk of becoming homeless?",
-      "Start over"
+      "Ask a different type of question"
     ],
     answers: [
       "covid_stimulus_check",
@@ -114,7 +114,7 @@ scenario.option_lists = {
     questions: [
       "I don't have symptoms, but I feel anxious and overwhelmed. What can I do?",
       "How can I ask for a new mental health appointment?",
-      "Start over"
+      "Ask a different type of question"
     ],
     answers: [
       "anxious_and_overwhelmed",
