@@ -174,8 +174,7 @@ I am going to share my screen with you. Can you see the eBenefits website on you
    
 ## Legal Understanding - 10 minutes
  - What are your thoughts on the length of this form?
- - Did you find this process easy or difficult? 
- - Was this form easy to understand?
+ - What worked well or did not work well when navigating through the Power of Attorney application?
  - After walking through this form can you explain to me what this form legal purpose is for?
  - Do you feel you have a better understanding of this process after filling out the form?
     - Why?
@@ -252,8 +251,7 @@ Copy steps into the chatbox:
 - I noticed you clicked "X" first. 
     - Why?
 - Where would you most likely think to find the form?
-- Was it easy or hard to find the form?
-    - Why?
+- What worked well or did not work well with the Payment History' feature?
 - Did the navigation and menu options make sense?
 - Were there any confusing terms?
 - Did that exercise make sense to you?
@@ -277,12 +275,11 @@ For this exercise,
 - Did the navigation and menu options make sense?
 - Were there any confusing terms?
 
+- Overall, how could we improve the VA navigation to locate these features?
+
 ## Post-Task Interview
 OK, those are all the screens we are going to look at today. I just have some closing questions for you.
 
-- What worked well or did not work well when navigating through the Power of Attorney application?
-- What worked well or did not work well with the Payment History' feature?
-- Overall, how could we improve the VA navigation to locate these features?
 - Any questions you have for me?
 
 ## Thank You and Closing 
