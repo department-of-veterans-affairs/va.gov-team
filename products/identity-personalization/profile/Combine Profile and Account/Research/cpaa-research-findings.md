@@ -8,24 +8,24 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 The goal of this research is to understand user comprehension after combining current 'profile' and 'account' into one page as part of the personalization 2.0 effort. This includes:
 
-- does the user feel like the design reflects them personally
-- can the user find the information that they are looking for effectively
-- how does the side navigation effect task efficiency
-- how easily can the user change information within the profile
+- does the user feel like the design reflects them personally?
+- can the user find the information that they are looking for effectively?
+- how does the side navigation effect task efficiency?
+- how easily can the user change information within the profile?
 
 Prior to the research we hypothesized that:
 
 - We'll find some terminology that needs updating.
-- People will prefer 2.0 to 1.0.
+- People will prefer the new profile to the old profile.
 - The side nav will go over really well and increase scanability.
 - Saving and error interactions will be intuitive and meet expectations.
 - The mobile navigation will be hard to find and understand.
-- Participants may not understand why or how to edit "personal information"
-- Participants might be confused about Connected Apps and what that means
+- Participants may not understand why or how to edit "personal information".
+- Participants might be confused about Connected Apps and what that means.
 
 ## Research Methodology 
 
-We used Zoom to conduct remote moderated usability testing sessions to observe how participants use profile 2.0.  We primarily used mobile views in InVision.
+We used Zoom to conduct remote moderated usability testing sessions to observe how participants use the new profile.  We primarily used mobile views in InVision.
 
 ### Who we talked to
 
@@ -44,8 +44,8 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 - Do saving/errors interactions feel intuitive?
 - Do people understand why some info isn't editable, and how to update it?
 - How does the overall nav effect visibility of the profile? Is it easy to find?
-- How do people think the new profile compares to profile/account 1.0?
-- Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
+- How do people think the new profile compares to the old profile/account?
+- Do people understand what connected apps are? Do they want to see this section of the profile if they don't have connected apps?
 - Where would people go to change the email address they use to sign in?
 - Does the mobile nav and placement make sense? 
 - Do users understand the 'learn more' sections? Are they actually representing the most 'frequently asked questions'?
@@ -61,8 +61,8 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 
 ## Details of Findings
 
-**1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile using the new navigation.** 
-4/5 participants preferred the overall layout of the new profile 2.0, specifically calling out the new side nav design.  The participant that preferred the old profile was in the 55-65 age range. Many thought the old layout seemed too information dense and difficult to navigate. As far as wayfinding, all participants stated that finding the pages they needed in the new design was 'easy'. All participants were able to locate the profile page from the home page on both mobile and desktop, though they used a variety of methods (Sign-in, My VA, Menu, Records).  
+**1. People easily found what they were looking for within the new profile. Consequently, most participants preferred the new profile to the old one.** 
+4/5 participants preferred the overall layout of the new profile, specifically calling out the new side nav design. Many thought the old layout seemed too information dense and difficult to navigate. As far as wayfinding, all participants stated that finding the pages they needed in the new design was 'easy'. All participants were able to locate the profile page from the home page on both mobile and desktop, though they used a variety of methods (Sign-in, My VA, Menu, Records).  
  > “You can go through and see most relevant info. It seems pretty intuitive. Once you are here. That something a lot of the VA profile did not have in the past, it was more utilitarian and was not intuitive, not a lot of thought process put into it. This makes it user friendly.”
  
  > "You know, looking at the older site, like I said it just seemed like there was a lot more going on, which can be confusing for...I was going to say for like older Veterans, but I guess for everyone really."
@@ -126,15 +126,15 @@ Even though 4/5 users had never connected an app, users still understood the ter
 No users read the 'app disconnected' confirmation message, but after reading they were not concerned that information might still be saved after disconnecting.
 > "No, but that’s because I didn’t read everything thoroughly. It says, “they won’t have access to new information but will still have access to information previously shared. Remove any stored data. Connect Apple Healthkit and request permanent deletion.” So, to answer your question, no, it was not, permanently."
 
+**6. Users liked the 'name-tag' area, but it's taking up too much space in the mobile view.**
+
 ## Additional Insights
-- Users liked the 'name-tag' area, but it's taking up too much space in the mobile view.
 - All users preferred desktop to mobile
 - 4/5 participants preferred the new side nav design to the old profile design.
 - All users easily understood what content was editable
 - FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ
 - Once users found the 'profile menu' they were able to find and use it again easily
-- The side nav design increases ease of scanability in profile 2.0
-- 
+- The side nav design increases ease of scanability in profile
 
 ## Recommendations
 - Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to logged-in experience, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
