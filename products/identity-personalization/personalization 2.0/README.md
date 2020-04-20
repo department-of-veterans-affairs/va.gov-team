@@ -1,6 +1,6 @@
 # Personalization 2.0
 
-|Projects| Project outline | Project folder |
+|Projects| Outline | Folder |
 |----|----|----|
 | Profile 2.0 |[Profile 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)|[Profile 2.0 folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)|
 | Logged-in homepage | [Logged-in homepage outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)|[Logged-in homepage folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign)|
