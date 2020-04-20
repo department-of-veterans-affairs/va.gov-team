@@ -78,6 +78,7 @@ PdfFill::Filler.fill_form(burial_claim) # => "tmp/pdfs/21P-530_1.pdf"
 
 ## FAQ
 - How do I find the field names, or "keys", of my new pdf form?
+
 You can call `PdfForms#get_fields` to get a list of the available fields in your pdf.
   ```ruby
   pdftk = PdfForms.new('/usr/local/bin/pdftk')
