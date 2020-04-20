@@ -42,7 +42,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 
-### Spouse's info section
+### Add spouse section
 
 - [ ] Change "Your spouse’s first name" to "Spouse's first name"
 - [ ] Change "Your spouse’s middle name" to "Spouse's middle name"
@@ -61,9 +61,35 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change "Where did this marriage end?" to "Place marriage with former spouse ended"
 - [ ] Bold "or" in labels under the "Place marriage with former spouse ended"
 - [ ] Bold "you" in "Were you married before?"
+
+### Veteran marriage section
+
 - [ ] All of the same list/loop revision above
 
-### Upload section
+
+### Add child section
+
+- [ ] Make "number" lowercase in "Child’s Social Security Number"
+- [ ] Change header in list loop to "Next child"
+- [ ] Child's name header seems to be missing after child info screen
+- [ ] Bold "or" in labels under the "Child's place of birth" section
+- [ ] Use base-checkbox address block for "Person your child lives with" address
+- [ ] Change "Street address" to just "Street"
+- [ ] Change "Zip code" to "Postal code"
+
+### Add student section (674)
+
+### Remove stepchild section
+
+### Dependent death section
+
+### Report divorce section
+
+### Child marriage section
+
+### Student left school section
+
+### Upload sections
 
 - [ ] Upload section seems to be missing from spouse workflow (other than ceremonial marriage, foreign address)
 - [ ] Upload section seems to be missing from child workflow (other than bilogical foreign address)
@@ -76,15 +102,6 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [ ] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
 
-### Child's info section
-
-- [ ] Make "number" lowercase in "Child’s Social Security Number"
-- [ ] Change header in list loop to "Next child"
-- [ ] Child's name header seems to be missing after child info screen
-- [ ] Bold "or" in labels under the "Child's place of birth" section
-- [ ] Use base-checkbox address block for "Person your child lives with" address
-- [ ] Change "Street address" to just "Street"
-- [ ] Change "Zip code" to "Postal code"
 
 
 
