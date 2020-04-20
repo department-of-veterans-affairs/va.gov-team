@@ -1,6 +1,6 @@
 # Logged-in Homepage Stakeholder Interviews Research Summary 
 
-**Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
+**Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
 Liz Lantz (liz@adhocteam.us), 04/20/2020
 
@@ -88,7 +88,7 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
    Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu — it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
 
-   While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/VA.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
+   While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
 
 3. **We're not effectively providing updates or notifications to Veterans through VA.gov**.
 
@@ -184,15 +184,15 @@ Multiple stakeholders also named companies who offer personalized experiences th
 - Samara Strauss (current PO of Authenticated Experience team) should regroup with DEPO stakeholders on how to involve VA stakeholders in this project
 - We'll include Bank of America, USAA, Chase, Fidelity, Google, Apple, Delta, State Farm and Geico in our comparative analysis.
 - We'll continue with remaining research activities planned for this discovery effort: 
-  - Past research review ([Issue #7265](https://github.com/department-of-veterans-affairs/VA.gov-team/issues/7265))
-  - Analytics review ([Issue #7772](https://github.com/department-of-veterans-affairs/VA.gov-team/issues/7772))
-  - User interviews ([Epic #7268](https://github.com/department-of-veterans-affairs/VA.gov-team/issues/7268))
-  - Comparative analysis ([Issue #7266](https://github.com/department-of-veterans-affairs/VA.gov-team/issues/7266))
+  - Past research review ([Issue #7265](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7265))
+  - Analytics review ([Issue #7772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7772))
+  - User interviews ([Epic #7268](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7268))
+  - Comparative analysis ([Issue #7266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7266))
 
 ## Appendix
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/VA.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)
-- [Interview notes](https://github.com/department-of-veterans-affairs/VA.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)
+- [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
 
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
 
