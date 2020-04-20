@@ -104,7 +104,7 @@ All users mentioned that they would expect to see benefit information in their p
 > "Maybe in addition to the direct deposit and the connect apps and the personal information if there was something like benefits you are currently using, currently receiving...benefits you are currently using. Because chances are if I am logging on to VA.gov, it has to do with one of the benefits I am using."
  
 **4. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).** 
-All participants expected the email address shown in 'Personal and contact information' represented the email address used to log-in. Participants didn't notice the 'more information' drop down and even after reading the 'More Information' content there was confusion about updating the contact email vs the log-in email.  Users also expected log-in information to live in Account security.
+All participants expected the email address shown in 'Personal and contact information' represented the email address used to log-in. Participants didn't notice the 'more information' drop down, and even after reading the 'More Information' content, there was confusion about updating the contact email vs the log-in email.  Users also expected log-in information to live in Account security.
 
 > "I just didn’t notice it. But I would imagine that changing your email address would change your DS and ID."
 
@@ -118,7 +118,7 @@ Users expected the log-in information to live under 'Account Security'.
 > "(In account security) I would expect to see either a phone number or email address you can edit - I think I use a phone number as my two factor. I would expect to see that is the factor they are using the correct either phone number or email address."
 
 **5. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.**
-Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expeced connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Inn order for users to disconnect, they must first connect and that is done on a third-party app. The users we tested with did not have this real life context, when they gave their feedback.)
+Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expeced connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Before a user can disconnect a third-party app, they have to connect it, but this can only be done via the app itself. Our test participants did not have this context.)
 > "Well, because it’s third party access, they need to to connected in first place. Umm, so I would imagine you both connect and disconnect in the same place." 
 
 > "It's intuitive. It’s similar to other apps I use for uhm, like Drop Box per-say, where I have other apps that have access to it. Where I can have access to verify who has access to it and I can block them or allow it. It’s good.”
@@ -129,12 +129,12 @@ No users read the 'app disconnected' confirmation message, but after reading the
 **6. Users liked the 'name-tag' area, but it's taking up too much space in the mobile view.**
 
 ## Additional Insights
-- All users preferred desktop to mobile
+- All users preferred desktop to mobile.
 - 4/5 participants preferred the new side nav design to the old profile design.
-- All users easily understood what content was editable
-- FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ
-- Once users found the 'profile menu' they were able to find and use it again easily
-- The side nav design increases ease of scanability in profile
+- All users easily understood what content was editable.
+- FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ.
+- Once users found the 'profile menu' they were able to find and use it again easily.
+- The side nav design increases ease of scanability in profile.
 
 ## Recommendations
 - Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to logged-in experience, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
@@ -145,7 +145,10 @@ No users read the 'app disconnected' confirmation message, but after reading the
 ## Next Steps
 ### Mobile Navigation
 - Discover what research (if any) has been done around current mobile navigation/subnavigation
-- Put together deck with proposals for current solution and future solutions (keeping logged-in homepage in mind)
+- Put together markdown document or deck with proposals for current solution and future solutions (keeping logged-in homepage in mind)
+
+### Benefits
+- Further explore the placement of benefit information in the logged-in homepage discovery
 
 ### Update Designs
 - Create mocks for Mobile subnavigation
