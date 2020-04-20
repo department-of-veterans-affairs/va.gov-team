@@ -55,6 +55,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Local Side Navigation](#local-side-navigation)
       - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
+      - [Covid-19 Resources](#covid-19-resources)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -718,7 +719,15 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
   **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
 
 --- 
+### Covid-19 Resources (VSA Public Websites)
 
+**Audit status:** review TBD — content is launching without review due to emergency status
+** Closed issues:** TBD
+
+* [[DOCUMENTS]: Documents MUST be accessible, Covid Links and Resources PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8172)<br/>**Production** | **Opened:** April 20, 2020 | **Severity:** _508-defect-1 - **Critical**_
+
+
+---
 ### New Project Name
 
 **Audit status:** _Audit status, team, and date_<br/>
