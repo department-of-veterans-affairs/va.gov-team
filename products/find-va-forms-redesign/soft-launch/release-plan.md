@@ -7,10 +7,14 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.-->
 
 ## WIP Plan
-- A phased rollout that tracks the following [tentative] dimensions: 
-  - there's parity between the most often searched forms on `/vaforms` and the new Find VA Forms based solely on organic traffic to the new search experience
-    - i.e. we haven't redirected a percentage of users going to the new search from the legacy search? we haven't updated Top Recommendations on the on-site search? we're not preventing discoverability?
-  - If we've hit parity withthe legacy search, we can go after inorganic traffic
+
+### high-level:
+- A phased rollout:
+  - Phase 1: Basic auth, distributed to Forms Working Group
+  - Phase 2: Remove auth, update Top Recommendations (Best Bets) on VA.gov's on-site search
+  - Phase 3: Update footer `Find a VA form` link + implement redirects from `/vaforms`
+### "Exit velocity" - what will it take to move to the next phase?
+- **Top task conversion rate** One value proposition for the new Find VA Forms experience is we make it easier for Veterans and others to find the things that are most relevant. The existing experience is a basic list of form search results without any preferential treatment for the most often sought after services. The new experience changes that.
 
 ---
 Analytics:
@@ -18,7 +22,8 @@ Analytics:
 
 [`/find-forms` Landing Page behavior](https://analytics.google.com/analytics/web/?authuser=1#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20200301&_u.date01=20200413&explorer-table.filter=~2Ffind-forms&explorer-table.plotKeys=%5B%5D&_.gSectionId=summary&_r.tabId=explorer/)
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: :white_check_mark:
+Moderated production testing (also known as User Acceptance Testing, or UAT) 
 
 ### Planning:
 - **Desired date range or test duration:** since March 6th, min. 2 weeks
@@ -38,13 +43,16 @@ Analytics:
   - Drupal content updates
   - Make 'download PDF form' links in the modern forms search initiate download
 
-## Phase II: unmoderated production testing
+## Phase II: :o:
+Unmoderated production testing
 
 ### Planning:
 - **Desired date range:** 04/20/2020 - 04/23/2020
 - **Desired number of unique users:** 150
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** 
-  - Live in production no longer behind auth, but we won't implement any redirects or on-site search Top Recommendations
+  - Live in production no longer behind auth
+  - Top Recommendations (Best Bets) updated on VA.gov on-site search to reflect new form experience
+  - Not included: redirects, footer updates
 - **"Success" criteria (by the numbers):** 
   - TBD % PDF downloads / top searches e.g. % downloads / searches for 21-526ez
 
@@ -58,15 +66,18 @@ Analytics:
 
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
-## Go Live!
+## Go Live! :o:
+
+- No credentials required
+- Top Recommendations (Best Bets) reflect new Forms experience via on-site search
+- "Find a VA form" footer link updated
+- Redirect from `/vaforms` to `/find-forms` implemented
 
 ### Planning:
 - **Desired date:** 04/23/2020
-- **Post-launch KPI 1:** % conversion to PDF download
-- **Post-launch KPI 2:** xx lorem ipsum
-- **Post-launch KPI 3:** xx lorem ipsum
-- etc
-- **Go / No Go:** (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- **Post-launch KPI 1:** xx% conversion to Top tasks
+- **Post-launch KPI 2:** xx% conversion to Manage your VA and other information online
+- **Post-launch KPI 3:** xx% conversion to More information
 
 ### 1-week results:
 - **Number of unique users:** x
