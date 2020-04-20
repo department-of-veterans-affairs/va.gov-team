@@ -19,7 +19,7 @@ scenario.option_lists = {
       "covid_immunity"
     ],
     do_next: [
-      "Ask another COVID-19 prevention question",
+      "Ask another prevention question",
       "Ask a different type of question",
       "Talk with someone about my specific needs",
       "Nothing. I have the information I need."
