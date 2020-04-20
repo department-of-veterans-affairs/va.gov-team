@@ -15,11 +15,11 @@ Review instances allows testing against live pre production backends. If you nee
 
 ## Product Responsibility (Last updated: 4-3-20 )
 Review Instances currently are a shared responsibility by the FE/ BE Tools and Operations Teams.
-- Troubleshooting: #vsf-product-support
-- Onboarding: #vsf-product-support
-- Maintenance: #vsf-product-support 
-- Training Documents: #vsf-product-support
-- Product Feedback or New Feature Requests: #vsf-product-support
+- Troubleshooting: #vfs-platform-support
+- Onboarding: #vfs-platform-support
+- Maintenance: #vfs-platform-support
+- Training Documents: #vfs-platform-support
+- Product Feedback or New Feature Requests: #vfs-platform-support
 
 ## Examples or References of usage:
 - [Demo](https://dsva.slack.com/files/UJ2JYB7D2/FTYTGNLMV/review_instance_demo.mp4)
