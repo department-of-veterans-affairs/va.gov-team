@@ -16,7 +16,7 @@ As part of a larger discovery effort for the new logged-in homepage, we wanted t
 
 ## Research Methodology 
 
-We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. A moderator began with introduction questions and prompted stakeholders with questions (from the conversation guide). Remote observers and note takers were also in attendance for some sessions.
+We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A moderator began with introduction questions and prompted stakeholders with questions (from the conversation guide). Remote observers and note takers were also in attendance for some sessions.
 
 ### Who we talked to
 
@@ -142,7 +142,7 @@ We conducted remote 1:1 interviews  via Zoom between March 30 - April 17, 2020. 
 
 ### **Metrics**
 
-It will be important to look at metrics before and after the launch of a new logged-in homepage to understand the impact of this work. Two common themes emerged when stakeholders were asked what metrics they'd be interested in seeing for this effort.
+Two common themes emerged when stakeholders were asked what metrics they'd be interested in seeing for this effort:
 
 1. **Measuring interactions can help us understand if we are guiding Veterans in a meaningful way that  helps them complete tasks.**  Metrics to look at could be:
    - Navigation path from logged-in homepage, especially as it relates to online tools 
