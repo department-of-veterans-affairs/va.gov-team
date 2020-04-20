@@ -61,3 +61,7 @@ Only write new jobs to the new Redis instance while still executing jobs off the
 
 ### Cons
 - Will require a small amount of downtime ~(30s - 2 minutes)
+
+## Nice To Haves
+- Separate vets-api cache data and sidekiq data on separate Redis servers
+- Namespace vets-api cache data to a root folder, so as not to confuse it with redis "utility" data such as `breakers` & `statsd-roster`
