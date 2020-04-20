@@ -1,19 +1,13 @@
 # Personalization 2.0
 
-## Communications
+|Project2|
+|----|
+|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) |
+|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) |
+| Notification center |
+| Logged-in navigation|
 
-- **GitHub Label**: vsa-authenticated-exp; personalization-2.0
-- **Slack channel**: vsa-authd-exp
 
-### Roles
-
-|Name|Role|
-|----|----|
-|Samara Strauss |Auth exp team lead designer|
-|Tressa Furner |Auth exp team designer|
-|Erik Hansen | Auth exp FE engineer|
-|Brad Conley | Auth exp FE engineer|
-|Lihan Li | Auth exp BE engineer |
 
 ## The Problem
 
@@ -60,9 +54,3 @@ As the authenticated experience team, we want to be able to do the following:
 
 1. Should we get rid of My VA in favor of a logged in homepage?
 2. Should the new My VA actually be the new combined Profile/Account?
-
-## Projects
-
-### Combining Profile and Account
-
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)
