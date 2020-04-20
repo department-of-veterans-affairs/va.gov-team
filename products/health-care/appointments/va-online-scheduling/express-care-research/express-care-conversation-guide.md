@@ -35,18 +35,18 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- Have you heard of "Express Care"?
-  - If YES: 
-    - What is it? 
-    - Have you used it?
-  - If NO: What do you think it might be?
-  - Prompt if needed: Is it Telehealth or in-person?
 - Are you aware of any forms of Telehealth appointments offered by VA providers?
   - If YES: 
     - Which ones?
   - Have you ever utilized these services? 
     - (Prompt if needed: VA or non-VA providers)
   - How did you become aware of them?
+- Have you heard of "Express Care"?
+  - If YES: 
+    - What is it? 
+    - Have you used it?
+  - If NO: What do you think it might be?
+  - Prompt if needed: Is it Telehealth or in-person?
 
 ## Section 1: Value of VA urgent Telehealth
 
@@ -101,8 +101,11 @@ Next, I'm going to ask you some questions related to coronavirus. These are gene
 ## Section 4: [Prototype]
 
 Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
-
-
+- [in prototype: show MyHealth screen] Imagine you are signed in to your account on VA.gov and you see this screen [my VA], where would you go to make a same-day urgent Telehealth appointment?
+- [in prototype: show scheduling list screen] Imagine you are signed in to your account and you see this appointment scheduling screen. From this list, walk me through how you would make a same-day Telehealth appointment?
+- [in prototype: show express care scheduling screen] What would you expect once submitting this form?
+  - Prompt if necessary: Does "request a phone screening" meet your expectations for making a same day urgent Telehealth appointment?
+  - Do you think you will get a call back *today*?
 
 ## Closing Interview - 5 minutes
 
