@@ -24,6 +24,12 @@ For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/pr
 
 **Team Charter**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
+**Roadmap**
+- You must have super epics in place for NOW, NEXT, FUTURE
+- Every NOW, NEXT, and FUTURE super epic must include in the description which Objective it is connected to
+- Every NOW super epic must include what KPIs you believe this work will impact
+- Every super epic title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
+
 ---
 
 ## Scrum and Meeting Cadence
