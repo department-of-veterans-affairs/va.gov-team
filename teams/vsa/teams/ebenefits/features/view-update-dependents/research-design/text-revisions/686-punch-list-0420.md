@@ -67,7 +67,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Veteran marriage section
 
-- [ ] All of the same list/loop revision above
+- [ ] All of the same list/loop revisions above
 
 
 ### Add child section
@@ -88,12 +88,17 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [ ] Deselect radio-button for stepchild expenses question; add "Required"
 - [ ] Sentence-case button text: "Add another stepchild"
-- [ ] Change gray-box heater to: "Next stepchild"
+- [ ] Change gray-box header to: "Next stepchild"
 - [ ] Use base-checkbox address block for "Who does this stepchild live with?" address
 - [ ] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 
 ### Dependent death section
+
+- [ ] Change add button to: "Report another deceased dependent"
+- [ ] Add header to list/loop gray box: "Next dependent"
+- [ ] Bold "or" in labels under the "Place of death" section
+- [ ] Change City (or APO/FPO/DPO) to: "City **or** county"
 
 ### Report divorce section
 
