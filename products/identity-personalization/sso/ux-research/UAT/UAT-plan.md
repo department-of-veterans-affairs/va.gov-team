@@ -55,30 +55,27 @@ In addition to ensuring SSOe is usable and achieves its stated goals, we may ask
 - Do our testers find the SSOe redirects to be confusing or otherwise detremential to their experience? 
 
 ## Method
-- User acceptance testing
-- Remote moderated, via Zoom. Will ask testers to share their screens.
-- Testing from VA.gov 
-- This type of testing will allow us to observe a variety of users experiencing SSOe with different credentials & see how testers outside of our team react to SSOe in real-time
+- User acceptance testing - goal is to ensure SSOe works in production.
+- Remote moderated _and_ unmoderated, via Zoom. Will seek to ensure all credential types are tested, and conduct a couple moderated sessions to benefit from seeing a testers flow as they navigate SSO, but also ask for unmoderated testers to ensure we're able to get folks who have all the credential types we need.
+- Testing will take place on VA.gov. We'll need to work with testers before they test to get their Google ID number so we can turn on SSOe in production for them. 
 
 ## Participants and Recruitment
 #### Participant criteria
-- 4-8 participants across DSVA, Ad Hoc, and potentially other contractors
-- Participants must have CAG access 
+- At least 4, ideally 8, open to more participants across DEPO and Ad Hoc
 - Must have their own MHV, ID.me, or DS Logon account
-- We'll need to work with testers at the beginning of testing to get their Google ID number so we can turn on SSOe in prod just for them
 
 #### What is your recruitment strategy?
-- Will put out a call on Slack across DSVA and Ad Hoc, seeking users who have their own accounts to test with in production
+- Will put out a call on Slack across DSVA and Ad Hoc, seeking users who have their own accounts to test with
 
 ## Timeline
 #### Dates
-- We are seeking to launch SSOe to 1% of users on 5/6/20, meaning we need to have testing completed by Friday 5/1/20
+- We are seeking to launch SSOe to 1% of users on 5/6/20, and want to start UAT on that same date
 
-#### Stimuli for testting
+#### Stimuli for testing
 - Production environment
 
-#### Length of Sessions
-- About 30 minutes, maximum of 45 minutes 
+#### Length of sessions
+- About 20 minutes, maximum of 45 minutes 
 
 #### Availability
 - Pending completion of SSOe work dates can be set 
