@@ -94,7 +94,7 @@ As you're reviewing the information in this area of the page, could you tell me 
 -	Do any other questions come to mind about this?
 
 ## Third Task: Additional Criteria - 5 minutes
-Let's say you are also interested in attending **Clarkson College in Omaha, NE** and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining those requirements for this school?
+Let's say you are also interested in attending **Chadron State College in Chadron, NE** and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining those requirements for this school?
   - What do you think “additional criteria” is?
   - How would you go about finding out more information?
 
