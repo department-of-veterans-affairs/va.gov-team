@@ -1,9 +1,7 @@
-vets-api Redis Migration
-
 ## Motivations
 1. We are 2 major version behind. We're using 3.2.4 and the latest major version is 5.0.8. At the time of writing, AWS supports up to 5.0.5.
 2. Would be nice to have separate Redis instances for our sidekiq stuff and the rest of our application cache. See https://github.com/mperham/sidekiq/wiki/Using-Redis#multiple-redis-instances
-3. Having the AWS EC at 3.2.4 prevents us from upgrading our `redis` gem, which in turn prevents us from upgrading the Rails gem.
+3. Having the AWS EC at 3.2.4 prevents us from upgrading our `redis` gem, which in turn prevents us from using the new Rails Cache feature.
 
 3. Want to use rails cache but cant because redis gem needs to be 4 (but our aws engine is 3.2.4)
 
