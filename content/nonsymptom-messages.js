@@ -195,6 +195,8 @@ Call your nearest VA medical center or Vet Center to talk about your needs.
 [Find a VA location](https://www.va.gov/find-locations)
 
 **If you're not sure what kind of help you need**
+
+
 [Learn more about getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
 `,
 
