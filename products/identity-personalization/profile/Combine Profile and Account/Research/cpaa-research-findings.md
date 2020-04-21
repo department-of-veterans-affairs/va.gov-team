@@ -104,12 +104,10 @@ Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the pr
 
 **4. Users expect to see their benefit information on their profile.** 
 All users mentioned that they would expect to see benefit information in their profile. Some mentioned they would expect to see it in their 'Personal and contact information', some expected it to be its own page within the profile. There was a range of things mentioned, including the following:
+- Current benefits available/used
 - Education options
 - Current disability
 - Disability rating
-- Permanent vs Temporary
-- Benefit entitlement
-- Percentage Used
 - Current treatments
 - Types of discharge (honorable/dishonorable etc.)
 > "The only other thing I would say is possibility benefit information. And again, that might include education options, your disability stuff I don’t know, or go to a menu that link to those things. If I was coming to this and scrolling through it would be nice to have it all in one spot."
@@ -154,16 +152,16 @@ No users read the 'app disconnected' confirmation message, but after reading the
 - All users preferred desktop to mobile.
 - 4/5 participants preferred the new side nav design to the old profile design.
 - All users easily understood what content was editable.
-- FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ.
+- In-context FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ.
 - Once users found the 'profile menu' they were able to find and use it again easily.
 - The side nav design increases ease of scanability in profile.
 - In-line editing was clear and easy to use and utilized space nicely.
 
 ## Recommendations
-- Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to logged-in experience, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
-- Add clarification around email address in Personal and Contact information and add email address to Account Security
-- Possibly add benefits overview to profile (this hinges on decisions around the logged-in homepage)
-- Remove/shrink military badge in 'nametag'
+- Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to the profile, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
+- Add clarification around email address in Personal and Contact information and add email address to Account Security.
+- Further investigate what benefit information we should add to the profile.
+- Remove/shrink military badge in 'nametag' in mobile view.
 
 ## Next Steps
 ### Mobile Navigation
