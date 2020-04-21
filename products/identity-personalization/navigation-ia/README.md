@@ -109,6 +109,8 @@ This is still heavily TBD but will likely involve leadership from Meg Peters and
 ## Discovery
 
 - [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
+- [Profile 2.0 user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/cpaa-research-findings.md#details-of-findings)
+  - Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.
 
 ## Development
 
