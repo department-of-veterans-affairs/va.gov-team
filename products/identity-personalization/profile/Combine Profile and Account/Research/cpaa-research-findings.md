@@ -81,6 +81,8 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
  
  > "Well, I like the menu that pops up there. It's got all your information you can see that you can click on it and go to a different area. It's highlighted with the blue and the menu item you select is highlighted there. So it gives you a kind of visual direction for where you are going. Nice simple and “X” to get out."
  
+ ![Desktop Nav](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Screens/Desktop%20Nav.png)
+ 
 **3. Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.**
 Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the profile and had a difficult time finding the profile menu. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. Furthermore, participants seemed confused about the difference in functionality between Menu, 'User Name' Menu, and 'Profile Menu'.
  > “...my only complaint is the profile menu did not stand out...”
@@ -97,6 +99,8 @@ Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the pr
  > "Like I said, if there’s something I’m not sure of or know exactly where to find it, search bar is there."
  
  > "I can’t actually click anywhere. But I would click out and try to find it in one of the search tool boxes..."
+ 
+ ![Mobile menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Screens/mobile%20menu.png)
 
 **4. Users expect to see their benefit information on their profile.** 
 All users mentioned that they would expect to see benefit information in their profile. Some mentioned they would expect to see it in their 'Personal and contact information', some expected it to be its own page within the profile. There was a range of things mentioned, including the following:
@@ -143,6 +147,8 @@ No users read the 'app disconnected' confirmation message, but after reading the
 > I like, I really like coming in and seeing my service Army there. It’s a nice little feeling, like a reminder and a way to feel connected."
 
 > "I like it. (laughs) honestly I do. It kind of reminds you who you are. I like it. I mean...it says ok this is what branch... this is who you are, this is the branch you served under. It’s simple, it’s a simple identifier. It kind of looks cool."
+
+![Mobile-nametag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Screens/mobile-nametag.png)
 
 ## Additional Insights
 - All users preferred desktop to mobile.
