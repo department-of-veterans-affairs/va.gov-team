@@ -40,7 +40,7 @@ Onsite search has not been revisited since the rebranding launch and transition 
 ## Scope 
 
 ## Solution Approach & Considerations
-- On-site Search - technical discovery for improvements https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
+- On-site Search - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
    
 
 ## Value Propositions
