@@ -1,7 +1,7 @@
 # Integration Testing with Consumer-Driven Contract Tests
 
 **Author:** Eugene Doan  
-**Last Updated:** April 16, 2020  
+**Last Updated:** April 21, 2020  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], John Paul Ashenfelter []
 
@@ -298,4 +298,5 @@ Enforcing integration test coverage would be difficult since there's no real way
 
 Date | Revisions Made | Author
 -----|----------------|--------
+Apr 21, 2020 | Added questions. Revisions to clarify CI workflow. Revisions to clarify questions from comments. | Eugene Doan
 Apr 16, 2020 | Initial draft | Eugene Doan
