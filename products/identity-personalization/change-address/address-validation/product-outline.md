@@ -141,6 +141,7 @@ We expect to see the following:
 - **September 2019**: Initial design complete
 
 - **October 2019**: User testing; build begins
+  - Note: A FE bug prevented analytics from being tracked pre-October 9 for individual fields. This resulted in a lack of data for mailing address save failures before that date. We start to see analytics after this date.
 
 - **December 2019**: QA planned but halted due to a significant amount of bugs; Also, VA Profile needed to make some changes and get us a new endpoint. 
 
