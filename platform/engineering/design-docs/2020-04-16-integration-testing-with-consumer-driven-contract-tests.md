@@ -147,7 +147,7 @@ In the context of VA.gov, the contract testing process looks like this:
    ```
    This task pulls all relevant pacts from the broker and verifies that the expected responses match the actual responses when running the requests through a running instance of the API. For any states specified in the pacts, the API will set up any matching states already defined in `provider_states.rb`. If there are no matching states, the verification will fail.
    
-   [Pact Broker webhooks can be created using the CLI](https://github.com/pact-foundation/pact_broker-client/#create-webhook), whether it's from the Ruby gem or NPM package. **The webhook should just check for `contract_content_changed` because the broker will automatically pass any unmodified contracts that previously passed verification."
+   [Pact Broker webhooks can be created using the CLI](https://github.com/pact-foundation/pact_broker-client/#create-webhook), whether it's from the Ruby gem or NPM package. **The webhook should just check for `contract_content_changed` because the broker will automatically pass any unmodified contracts that previously passed verification."**
    
    While the pacts are being verified, the `vets-website` build can proceed to E2E tests.
 
@@ -162,6 +162,8 @@ In the context of VA.gov, the contract testing process looks like this:
    ```
    pact-broker can-i-deploy --broker-base-url=BROKER_BASE_URL
    ```
+   This check is dependent on the published verification results.
+
    **If verification was successful, the CI pipeline will proceed to deploy. If it failed, the pipeline will stop.**
 
    We're assuming that the CI pipeline can wait for the asynchronous verification task to run and conditionally handle the output of that task.
@@ -298,5 +300,5 @@ Enforcing integration test coverage would be difficult since there's no real way
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Apr 21, 2020 | Added questions. Revisions to clarify CI workflow. Revisions to clarify questions from comments. | Eugene Doan
+Apr 21, 2020 | <ul><li>Added questions.</li><li>Revisions to clarify CI workflow.</li><li>Revisions to clarify questions from comments.</li></ul> | Eugene Doan
 Apr 16, 2020 | Initial draft | Eugene Doan
