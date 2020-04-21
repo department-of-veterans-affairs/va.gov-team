@@ -127,11 +127,11 @@ What kind of help is available to get up to speed?
 
 ### Learning Sessions / Brown bags
 
--   Paul Short (VSA engineering lead) will be hosting a brown bag where your accessibility specialists will help engineers get up to speed on expected scans and how they work. 
+* Paul Short (VSA engineering lead) hosted a brown bag where accessibility specialists helped engineers get up to speed on expected scans and how they work. 
 
--   TBD: recording HERE
+   * [Recording HERE](https://docs.google.com/document/d/1Eh3ImnVwfrioKhR62Xn-B3oTJyL1Cp-MJHSwHMttFGQ/edit#)
 
--   Shawna and Mickin will discuss expectations and field questions in their weekly meetings.
+* Shawna and Mickin will discuss expectations and field questions in their weekly meetings.
 
 ### Request Templates
 
