@@ -77,28 +77,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Can you tell me what types of urgent care you might seek through VA's same-day Telehealth appointments?
 - Who do you expect to speak with for an urgent same-day VA Telehealth appointment?
 
-## Section 3: Coronavirus appointments 
-
-Next, I'm going to ask you some questions related to coronavirus. These are general questions related to how you might seek medical help if you are experiencing symptoms. If you feel uncomfortable at any point we can move on to the next section or stop, just let me know. 
-- Can you tell me in your own words what COVID-19 means?
-- When you are speaking with family or friends how do you refer to the current pandemic?
-  - Do you differentiate between the disease versus the virus?
-- Have you been practicing physical distancing, physical isolation, or quarantined, by choice or otherwise?
-  - If so, what caused you to do so?
-  - If not, what would cause you to do so?
-- Where do you go to seek guidance on taking care of yourself and your family during this pandemic?
-  - What VA health care resources are you aware of related to coronavirus, if any?
-- Have you had any concern that you have experienced symptoms related to coronavirus?
-  - If YES: 
-    - What did you do to get care?
-  - If NO: 
-    - Imagine that you did, what would your first step towards seeking care be?
-  - Are you aware of any coronavirus screening resources through VA available to you?
-- Would you use an online screening tool if you were experiencing symptoms of coronavirus?
-- Do you think VA has appointments available to help you if you are experiencing symptoms or may be suffering from coronavirus?
-  - Do you think VA has any urgent Telehealth appointments available to yourself or Veterans?
-
-## Section 4: [Prototype]
+## Section 3: [Prototype]
 
 Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
 - [in prototype: show appointments screen] Imagine you have signed in to your account on VA.gov and you see your appointments page. Where would you go to make a same-day urgent Telehealth appointment?
@@ -116,9 +95,12 @@ Next, we're going to take a look at a prototype. As I mentioned earlier, this is
   - Do you think you will get a call back *today*?
   - Who do you think you will speak with?
 
-## Closing Interview - 5 minutes
+## Section 4: Closing Interview - 5 minutes
 
-- After learning more about Express Care, would you consider it if you were in need of a coronavirus screening, if that was an available type of care?
+- After learning more about Express Care, would you consider it if you were in need of an appointment, today?
+  - Would you use consider using this kind of screening tool if you were experiencing symptoms of coronavirus?
+- Do you think VA has resources appointments available to help you if you are experiencing symptoms or may be suffering from coronavirus?
+  - Do you think VA has any urgent Telehealth appointments available to yourself or Veterans?
 - Do you have any comments or questions about Express Care that we have not yet covered today?  
 
 ## Thank-You and Closing - 5 minutes
