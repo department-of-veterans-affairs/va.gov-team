@@ -1,8 +1,8 @@
 # VA Online Scheduling Product Outline
 - GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
-  - [VA PPG Team Slack](vappgteam.slack.com)
-  - [DSVA Team Slack - VAOS channel](https://app.slack.com/client/T03FECE8V/CMNQT72LX)
+  - [DSVA Team Slack - #vaos-team](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
+  - [VA PPG Team Slack - #vaos-sm-toolset](https://app.slack.com/client/T6J0KKXPW/CFCQT5XJL), [#vaos-engineers](https://app.slack.com/client/T6J0KKXPW/CM5ENJZ6C)
 - VA.gov link: N/A [TODO: add once VAOS in production]
 - Demo video link: n/a [TODO: add once VAOS in production]
 - Product POCs:
