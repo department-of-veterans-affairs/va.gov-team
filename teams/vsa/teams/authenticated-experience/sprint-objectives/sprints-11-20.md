@@ -573,7 +573,7 @@ Logged in homepage
 
 **Logged in homepage**
 
-1. Analytics review
+1. Finish work from last sprint
 2. Plan user research/kickoff recruiting
 
 ### COVID-19: Health chat alert
@@ -608,10 +608,10 @@ Logged in homepage
   
 ### Logged-in homepage  
 
+- Finish work from last sprint
 - Create research plan #7269
 - Create conversation guide #7270
 - Kick-off recruiting #7273
-- Analytics review and report #7772
 
 ----------------
 
