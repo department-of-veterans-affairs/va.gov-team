@@ -42,7 +42,7 @@ The following list is a set of resources to help you do your work and answer que
 ## 508 issues tracking
 
 Starting with sprint 14, I am tracking the 508 issues on VA.gov, and specific to VSA teams. 
-<img src="" alt="bar graph of the data in the following table" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/2020-sprint19-issues.png" alt="bar graph of the data in the following table" />
 
 <figure>
   <table>
