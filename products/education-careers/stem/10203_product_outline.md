@@ -20,6 +20,8 @@ Currently, Veterans applying for the Rogers STEM Scholarship to extend their CH3
 
 With the inclusion of the STEM scholarship as part of the 22-1995, adjustments were made to the form which allowed users with 2 different goals to use the same form.  With the introduction of a new, separate form for the Rogers STEM Scholarship, users will be able to complete the form they need, thus streamlining the application process for all users.
 
+During the initial implementation of the STEM Scholarship application as part of the 22-1995, an issue arose where a high number of ineligible people (>80% of applicants) were applying for the scholarship, resulting in significant work for the application processors.  Steps were taken to address that as part of the 22-1995, and an integral part of the new form is to continue to drive the number of ineligible submissions down.
+
 How might we increase valid submissions of 22-1995 and 22-10203, and streamline the application process for Veterans using either of the two forms?
  
 ## Desired User Outcomes
@@ -51,7 +53,7 @@ We're going to build a simple, streamlined application form. We have a solid fou
 
 - *Why this solution / approach over other solutions / approaches?*
 
-
+To be compliant with the available application forms.
 
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 
@@ -64,7 +66,7 @@ We may find a way to solve for SCO support of applications.
 ## KPIs
 - *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 - Successful 22-10203 STEM Scholarship Application submissions esp. compared to applications via 22-1995
-- Valid Application submissions, # and %  
+- Valid 22-10203 Application submissions, # and %  
 
 --- 
 ## Go-to-market Strategy
