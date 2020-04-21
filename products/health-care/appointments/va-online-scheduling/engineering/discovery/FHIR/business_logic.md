@@ -13,18 +13,26 @@ Business logic is hard to define, but this attempts to detail the appointment po
   - FE queries var-resources based on sites
   - var-resources prevents scheduling into of non-registered sites (maybe?)
 - Users are only presented with facilities within a site that can are enabled for direct scheduling or requests for the type of care chosen
-  - Configured by sites in VATS
+  - var-resources service exposes flags from VATS
 - Users are not allowed to request an appointment if they are over the site-configured request limit
+  - var-resources provides service that contains limit and current request count
 - Users are not allowed to request or direct schedule an appointment if they do not have a previous visit to the facility in the site-configured time range
   - Separate settings in VATS for direct and request
+  - var-resources provides service that returns time range and boolean yes/no flag
 - Users are not allowed to direct schedule an appointment if there are no VistA clinics available for their type of care
   - For primary care, VistA clinics are filtered by a user's PACT
+  - var-resources provides service that returns only clinics that are available and match stop codes associated with type of care
 - Users are not allowed to direct schedule an appointment without an active PACT
+  - var-resources provides service that returns PACT members
+  - var-resources provided clinic service filters clinics by PACT association when type of care is primary care
 - Users are not allowed to direct schedule if they have not visited any of the available clinics in the past 24 months
   - New in VAOS-R, logic entirely on FE
 - Users must submit their ideal preferred appointment date in addition to their chosen time slot
+  - Not clear if this is required by backend
 - Users can only choose dates for appointment requests that are at least 4 days in the future and no more than 120 days in the future
+  - Enforced by var-resources appointment request service
 - Users can only choose dates for direct scheduling that are no more than 395 days in the future
+  - Enforced by MAS api (I think)
 - Users are required to enter the following information for an appointment:
   - Type of care
   - VistA clinic (direct schedule only)
@@ -50,11 +58,14 @@ Business logic is hard to define, but this attempts to detail the appointment po
 - Any requests in Submitted status are shown
 - Cancelled requests are shown until all of the requested date options are in the past
 - Video appointments have an active link to VVC 30 minutes prior to the appointment and up to 4 hours after
+  - Date logic in front end
 - Video appointments can not be cancelled online
+  - Prevented by MAS cancellation service, not checkable up front (as far as we know)
 - Community Care appointments can not be cancelled online
 - VistA appointments can be cancelled online
 - The full address and contact info for a facility is shown or referenced for each non-video appointment
 - VistA appointments show booking notes if the appointment was self-scheduled
+  - Front end determines if text in booking notes field matches data VAOS would send
 - Video appointments show instructions included from VVC
   - This is not implemented in legacy or new VAOS, but is a requirement
 
