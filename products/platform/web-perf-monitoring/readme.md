@@ -4,7 +4,7 @@ Provide standards and monitoring to help measure, evaluate, and govern website p
 ## Performance Standards
 In order to track and monitor performance VSP has researched and documented a list of success metrics along with recommended thresholds that teams should not exceed. Through our monitoring software (Speedcurve) performance budgets for the metrics/thresholds will be established for all VFS teams.
 
-List of [Performance Metrics and Thresholds](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/user-guide.md#metrics)
+List of [Performance Metrics and Thresholds](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/performance-standards.md#metrics)
 
 ##Performance Monitoring  
 By leveraging the software application, [SpeedCurve](https://www.speedcurve.com), VSF teams can easily track, test and optimize UI performance for their application.
@@ -12,7 +12,7 @@ By leveraging the software application, [SpeedCurve](https://www.speedcurve.com)
 [Why did we choose Speedcurve?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/web-perf-monitoring/web-perf-monitoring-product-outline.md)
 
 ### Track Performance
-- Teams will have access to a performance budget dashboard which tracks their performance each week against [VSP standard performacne metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/user-guide.md#metrics)
+- Teams will have access to a performance budget dashboard which tracks their performance each week against [VSP standard performacne metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/performance-standards.md#metrics)
 
 ### Test Performance
 - Speedcurve allows teams to easily test the performacne impact of new code through their "Changes" and "Benchmarking" capabilities. 
