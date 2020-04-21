@@ -1,0 +1,48 @@
+@startuml
+' Syntax here: http://plantuml.com/sequence-diagram
+' Sequence diagram showing calls from the FE to the various
+' services associated with the healthbot
+
+title Coronavirus-chatbot sequence diagram
+
+skinparam shadowing false
+skinparam roundcorner 20
+
+' Definition of participants
+actor user  #981b1e
+entity browser #205493
+control "va.gov" as vagov #112e51
+control "healthbot service" as healthbot #7FBA00
+boundary "VA network boundary"
+control "vets-api" as vetsapi #112e51
+
+autonumber
+== Initiation/handshake ==
+user -[#black]> browser: Click chatbot page link
+browser -[#green]> vagov: GET /coronavirus-chatbot
+vagov --[#green]> browser: initial page
+browser -[#blue]> vetsapi: POST v0/coronavirus_chatbot/tokens
+vetsapi -[#orange]> healthbot: POST /directline.botframework.com/v3/directline/tokens/generate
+healthbot --[#orange]> vetsapi: response with token
+vetsapi --[#green]> browser: response with token
+browser -[#orange]> healthbot: POST /directline.botframework.com/v3/directline/conversations
+healthbot --[#orange]> browser: response to initiate chat
+
+== Chat ==
+user -[#black]> browser: Ask first question
+browser -[#red]> healthbot: First question
+healthbot --[#red]> browser: First answer
+user -[#black]> browser: Ask second question
+browser -[#red]> healthbot: Second question
+healthbot --[#red]> browser: Second answer
+
+legend center
+    |Color| Type |
+    |<#green>| Unauthenticated GET requests|
+    |<#blue> | Unauthenticated POST requests|
+    |<#red>| Authenticated GET requests|
+    |<#orange>|Authenticated POST requests|
+endlegend
+
+
+@enduml

@@ -26,3 +26,8 @@ The front end container is currently in [vagov-content](https://github.com/depar
 
 This widget handles making the call to the back-end to get the token, and then starting the chat conversation using
 the [WebChat BotFramework](https://github.com/microsoft/BotFramework-WebChat).
+
+## Sequence
+The sequence of calls is described by [this plantuml](chatbot-sequence.puml). Diagram is below:
+
+![Chatbot sequence diagram](chatbot-sequence.png)
