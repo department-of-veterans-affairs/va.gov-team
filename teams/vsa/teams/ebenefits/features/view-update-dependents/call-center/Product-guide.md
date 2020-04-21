@@ -3,17 +3,17 @@ View/Modify Dependents (21-686c)
 `eBenefits Team | April 2020`  
 
 ## Table of contents
- - What is it?
- - User Access
+- What is it?
+- User Access
   - Who can access?
   - How can users access?
- - Navigation
- - Functionality
- - Error & Notification Log
- - FAQs
+- Navigation
+- Functionality
+- Error & Notification Log
+- FAQs
 
 ### What is it?
- - Viewing and modifying dependents for a Veteran is a common function to see which dependents the Veteran has associated with their benefits and awards.  Using the 686  form, the Veteran can inform the VA about additional dependents that can take advantage of their benefits or remove dependents as needed for various reasons.
+Viewing and modifying dependents for a Veteran is a common function to see which dependents the Veteran has associated with their benefits and awards.  Using the 686  form, the Veteran can inform the VA about additional dependents that can take advantage of their benefits or remove dependents as needed for various reasons.
 
 View/Modify Dependents also conforms to 508 compliance and can be used with major screen readers and other assistant tools.
 
