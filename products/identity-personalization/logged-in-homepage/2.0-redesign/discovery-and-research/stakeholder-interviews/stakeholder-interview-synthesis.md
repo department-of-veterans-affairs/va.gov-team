@@ -70,15 +70,11 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 ### Stakeholder goals
 
-1. **A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them.**
+1. **Provide Veterans with a personalized, data-driven, and task-based experience**.
 
-   By leveraging the data we have for each Veteran profile, we'll be able to surface the most relevant information related to benefits, claims, and preferred VA facilities to each individual. We can build Veteran trust by providing information and updates that reflect their specific situation, and empowering them to complete tasks quickly and efficiently.
+   Responses to the questions around goals shared a common theme of fixing the perceived problems described above.  Generally, stakeholders want to provide Veterans with a clear path to complete their tasks, understand their status with the VA, and provide easy access to the things that are most important. 
 
-2. **The logged-in homepage should give Veterans a clear path to complete tasks.**
-
-   Stakeholders want to see a task-based UX for the logged-in homepage. This would help Veterans achieve their goals quickly and efficiently, while providing continued access to the things that are most important. This will hopefully contribute to people relying less on call centers, submitting manual forms, or having to go in-person to complete tasks.
-
-3. **We should provide a logged-in experience that scales visually and across use cases.**
+2. **We should provide a logged-in experience that scales visually and across use cases.**
 
    As VA.gov continues to grow, we'll need to establish a logged-in experience that can grow with it.  The logged-in homepage needs to be a place users can easily and efficiently find what they're looking for, whether that's 2 or 20 tasks, and if they are a new Veteran or if they've been using the VA for decades.
 
@@ -170,3 +166,4 @@ Multiple stakeholders also named companies who offer personalized experiences th
 
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
 
+- https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
