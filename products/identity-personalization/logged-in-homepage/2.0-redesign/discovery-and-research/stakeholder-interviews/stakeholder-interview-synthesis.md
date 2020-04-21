@@ -6,10 +6,10 @@ Liz Lantz (liz@adhocteam.us), 04/20/2020
 
 ## Research Goals 
 
-As part of a larger discovery effort for the new logged-in homepage, we wanted to talk to DEPO stakeholders in order to:
+As part of a larger discovery effort for the new logged-in homepage, we wanted to talk to DEPO stakeholders in order to do the following:
 
-- Better understand problems and pinpoints stakeholders perceive with the current logged-in homepage and My VA
-- Gain insight to their goals and ideas around success for a new logged in homepage experience
+- Better understand problems and painpoints stakeholders perceive with the current logged-in homepage and My VA
+- Gain insight to user's goals and ideas around success for a new logged-in homepage experience
 - Understand the impact of this work to other teams
 - Better understand risks
 - Expand our thinking and gain insights into what we don't know yet
@@ -86,13 +86,13 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.**
 
-   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu — it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
+   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu — it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
 
    While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
 
 3. **We're not effectively providing updates or notifications to Veterans through VA.gov**.
 
-   Veterans have to seek out updates because they don't see them immediately upon logging in.  We're missing the opportunity to help Veterans with task completion  and understanding their status and next steps by not having a centralized place for them to find these notifications.
+   Veterans have to seek out updates because they don't see them immediately upon logging in.  We're missing the opportunity to help Veterans with task completion and understanding their status and next steps by not having a centralized place for them to find these notifications.
 
 ### Stakeholder goals
 
@@ -102,7 +102,7 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks.**
 
-   Stakeholders want to see a task-based UX for the logged-in homepage, to help Veterans achieve their goals quickly and efficiently, while providing continued access to the things that are most important. This will hopefully contribute to people relying less on call centers, submitting manual forms, or having to go in-person to complete tasks.
+   Stakeholders want to see a task-based UX for the logged-in homepage. This would help Veterans achieve their goals quickly and efficiently, while providing continued access to the things that are most important. This will hopefully contribute to people relying less on call centers, submitting manual forms, or having to go in-person to complete tasks.
 
 3. **We should provide a logged-in experience that scales visually and across use cases.**
 
