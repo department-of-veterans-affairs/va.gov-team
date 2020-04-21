@@ -10,7 +10,7 @@
 ----
 ## Sprint 19 (4/8 - 4/21)
 ```diff 
-- 54 points over 18 issues
+- 56 points over 19 issues
 ```
 ## 1. Prepare "Dependency Claims" for pre-launch and testing
 - Design and Product: Run final collab cycle meetings
