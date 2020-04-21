@@ -666,8 +666,13 @@ Each application or logical section of the site will have a heading and a detail
 #### GI Bill Comparison Tool Caution Flags
 
 **Audit status:** Design review phase<br/>
-**No open issues**<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Abah-comparisontool+is%3Aclosed+label%3A508%2FAccessibility)**
+
+**Open Issues:**
+- [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
+  **Opened:** April 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT - CONSIDER updating abbreviations for more clarity and understanding - #7990](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7990)<br/>
+  **Opened:** April 14, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 ---
 
@@ -685,6 +690,19 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[DOCUMENT]: GIBCT SCO - VA ONCE PDF logo needs alt text - #3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+
+---
+
+#### GI Bill Comparison Tool STEM Feature
+
+**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-stem+label%3A508%2FAccessibility+is%3Aclosed)**
+
+**Open issues**
+
+- [[COGNITION]: Does the visual representation of STEM question responses belong on the application review screen? - #6545](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6545)<br/>
+  **Opened:** March 4, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+
 
 ---
 
