@@ -101,11 +101,20 @@ Next, I'm going to ask you some questions related to coronavirus. These are gene
 ## Section 4: [Prototype]
 
 Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
-- [in prototype: show MyHealth screen] Imagine you are signed in to your account on VA.gov and you see this screen [my VA], where would you go to make a same-day urgent Telehealth appointment?
-- [in prototype: show scheduling list screen] Imagine you are signed in to your account and you see this appointment scheduling screen. From this list, walk me through how you would make a same-day Telehealth appointment?
-- [in prototype: show express care scheduling screen] What would you expect once submitting this form?
-  - Prompt if necessary: Does "request a phone screening" meet your expectations for making a same day urgent Telehealth appointment?
+- [in prototype: show appointments screen] Imagine you have signed in to your account on VA.gov and you see your appointments page. Where would you go to make a same-day urgent Telehealth appointment?
+  - Is that what you expected to happen? 
+    - If YES: Why?
+    - If NO: Why not?
+- [in prototype: show scheduling list screen] Imagine you are signed in to your account, want to make an appointment, and you see this appointment scheduling screen. From this list, walk me through how you would try to be seen today for something, virtually.
+  - Why did you choose this option?
+  - Based on the type of care description, what do you think will happen?
+    - Was it clear to you that this is a screening, before an actual appointment?
+    - Was it clear to you that this is not an in-person appointment? 
+    - Who do you think you will get a call from? (Clarifiy: a provider or a scheduler?)
+- [in prototype: show Express Care scheduling screen] (Click continue from scheduling list screen) This is the Express Care request screen. What do you expect will happen once you submit this form?
+  - Prompt if necessary: Does "request a phone screening" meet your expectations for making a same-day urgent Telehealth appointment?
   - Do you think you will get a call back *today*?
+  - Who do you think you will speak with?
 
 ## Closing Interview - 5 minutes
 
