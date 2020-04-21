@@ -1,5 +1,8 @@
 # IA Review and Recommendations
 
+**STATUS:** COMPLETE
+- 4/21/2020 - Modified to accomodate stakeholder request for entry points to DR content in every benefit hub as well as moving the legacy appeal board appeal page into the DR hub. 
+
 **Team:** Public Websites
 
 **Product/Featue:** IA improvements for Decision Reviews content
@@ -93,8 +96,14 @@ Must | Disability top nav flyout | https://www.va.gov/decision-reviews/ | Placed
 Must | Disability hub page  | https://www.va.gov/decision-reviews/ | Replace the existing "Manage a legacy VA appeal" link and teaser text
 Must | Disability left nav  | https://www.va.gov/decision-reviews/ | Replace the existing "Manage a legacy VA appeal" link 
 Should | Home page top tasks > Disability group | https://www.va.gov/decision-reviews/ |  
+Must | Health care | https://www.va.gov/decision-reviews/ | TBD
+Must | Education and training | https://www.va.gov/decision-reviews/ | TBD
+Must | Careers and employment | https://www.va.gov/decision-reviews/ | TBD
+Must | Pension | https://www.va.gov/decision-reviews/ | TBD
+Must | Housing assistance | https://www.va.gov/decision-reviews/ | TBD
+Must | Burials and memorials | https://www.va.gov/decision-reviews/ | TBD
+Must | Life insurance | https://www.va.gov/decision-reviews/ | TBD
 
-- As we learn more about the decision review process and how it applies to additional benefit types outside of Disability, entry points should be added to aditional benefit hubs as appropriate. 
 
 <hr>
 
@@ -113,6 +122,10 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Additional Notes/Recommendations
+
+**4/20/2020 - Stakeholder requests**
+- Stakeholders requested entry points to DR content in each of the benefit hubs - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8094
+- Stakeholders indicated that the legacy board appeal page should be maintained
 
 **4/9/2020 - Staging Review**
 - Issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/7521
