@@ -1,7 +1,7 @@
 # Combining Profile and Account Research Findings 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
-Tressa Furner (tressa.furner@adhocteam.us), April 13, 2020
+Tressa Furner (tressa.furner@adhocteam.us), April 20, 2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/User%20Research.md).
 ## Research Goals 
@@ -25,12 +25,12 @@ Prior to the research we hypothesized that:
 
 ## Research Methodology 
 
-We used Zoom to conduct remote moderated usability testing sessions to observe how participants use the new profile.  We primarily used mobile views in InVision.
+We used Zoom to conduct remote moderated usability testing sessions to observe how participants use the new profile.  We used prototypes in Invision using primarily [mobile view](https://vsateams.invisionapp.com/share/34WJ8JOCMAB) followed by [desktop view](https://vsateams.invisionapp.com/share/FJW9OGY2B9A).
 
 ### Who we talked to
 
 - 5 Veterans
-- Ages varied from 35-65 (exact data unknown)
+- Ages varied from 35-65 (exact demographics unknown)
 - 3 out of 5 Veterans were currently receiving benefits
 - No participants had any connected apps
 
@@ -54,8 +54,8 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
 
 ## Key Findings
 1. Participants preferred the new profile design to the old design, and easily found what they were looking for within the profile using the new navigation.
-2. User's ability to easily navigate using the desktop side menu supports the capacity for the design to scale.
-3. Participants had a difficult time finding the 'profile menu' in the mobile view, and in general were confused about the mobile navigation.
+2. The side nav increased scanability of the overall profile, especially in the desktop view.
+3. Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.
 4. Users expect to see their benefit information on their profile. 
 5. Users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in).
 6. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.
@@ -75,13 +75,13 @@ We used Zoom to conduct remote moderated usability testing sessions to observe h
  
  > " It’s a lot more user friendly than many other VA stuff. Usually it’s a form and submit and it’s a long drawn out process..."
  
-**2. User's ability to easily navigate using the side menu supports the capacity for the design to scale.** All users were able to quickly scan and locate the pages they were looking for using the side menu.  Even with 'Connected Apps' added in, all page links were visible, giving the user a clear overview of what was available to them. All participants were able to understand the terminology used in the page links. 
+**2. The side nav increased scanability of the overall profile, especially in the desktop view.** All users were able to quickly scan and locate the pages they were looking for using the side menu. All participants were able to understand the terminology used in the page links.  Even with 'Connected Apps' added in, all page links were visible, giving the user a clear overview of what was available to them. It can be assumed that adding in new page links to the navigation would still be consistent with these findings and would support the capacity for the design to scale.
 
  > "...the other version (new profile) to me is much better, it’s less convoluted, less confusing. You don’t have to scroll down...on this one you have to scroll down for days just to get to where you want to go. I like the setup."
  
- > "Well, I like the menu that pops up there. It's got all you information you can see that you can click on it and go to a different area. It's highlighted with the blue and the menu item you select is highlighted there. So it gives you a kind of visual direction for where you are going. Nice simple and “X” to get out."
+ > "Well, I like the menu that pops up there. It's got all your information you can see that you can click on it and go to a different area. It's highlighted with the blue and the menu item you select is highlighted there. So it gives you a kind of visual direction for where you are going. Nice simple and “X” to get out."
  
-**3. Participants had a difficult time finding the 'profile menu' in the mobile view, and in general were confused about the mobile navigation.**
+**3. Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.**
 Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the profile and had a difficult time finding the profile menu. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. Furthermore, participants seemed confused about the difference in functionality between Menu, 'User Name' Menu, and 'Profile Menu'.
  > “...my only complaint is the profile menu did not stand out...”
  
@@ -93,13 +93,13 @@ Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the pr
  
  > "I know for me it was an oversight on my part because my mind automatically went to looking for my name, but it’s right… there. I mean. It could be a different color, or it could be capitalized, but other than that, you have this blue bar right there, I just missed it… probably because I was scrolling up real fast and my mind was on checking under my name."
  
- If users couldn't find what they were looking for in any of the menus, they would give up and go to the search bar.
+ If users couldn't find what they were looking for in any of the menus on mobile, they would give up and go to the search bar.
  > "Like I said, if there’s something I’m not sure of or know exactly where to find it, search bar is there."
  
  > "I can’t actually click anywhere. But I would click out and try to find it in one of the search tool boxes..."
 
 **4. Users expect to see their benefit information on their profile.** 
-All users mentioned that they would expect to see benefit information in their profile. Some mentioned they would expect to see it in their 'Personal and contact information', some expected it to be it's own page within the profile. There was a range of things mentioned, including the following:
+All users mentioned that they would expect to see benefit information in their profile. Some mentioned they would expect to see it in their 'Personal and contact information', some expected it to be its own page within the profile. There was a range of things mentioned, including the following:
 - Education options
 - Current disability
 - Disability rating
@@ -129,7 +129,7 @@ Users expected the log-in information to live under 'Account Security'.
 > "(In account security) I would expect to see either a phone number or email address you can edit - I think I use a phone number as my two factor. I would expect to see that is the factor they are using the correct either phone number or email address."
 
 **6. Users easily found connected apps and understood what it was, but there was some confusion about how to connect apps.**
-Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expeced connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Before a user can disconnect a third-party app, they have to connect it, but this can only be done via the app itself. Our test participants did not have this context.)
+Even though 4/5 users had never connected an app, users still understood the terminology used and easily found the pages. They expected connected apps to live in their profile, and easily found the FAQ link.  All participants found the 'Apps you can use' link, but there was still some confusion about how to connect an app. (Clarifier: Before a user can disconnect a third-party app, they have to connect it, but this can only be done via the app itself. Our test participants did not have this context.)
 > "Well, because it’s third party access, they need to to connected in first place. Umm, so I would imagine you both connect and disconnect in the same place." 
 
 > "It's intuitive. It’s similar to other apps I use for uhm, like Drop Box per-say, where I have other apps that have access to it. Where I can have access to verify who has access to it and I can block them or allow it. It’s good.”
@@ -137,7 +137,7 @@ Even though 4/5 users had never connected an app, users still understood the ter
 No users read the 'app disconnected' confirmation message, but after reading they were not concerned that information might still be saved after disconnecting.
 > "No, but that’s because I didn’t read everything thoroughly. It says, “they won’t have access to new information but will still have access to information previously shared. Remove any stored data. Connect Apple Healthkit and request permanent deletion.” So, to answer your question, no, it was not, permanently."
 
-**7. Users liked the 'name-tag' area, but the military badge is taking up too much space in the mobile view.** Overall, participants had a positive response to the 'name-tag' area of the design.  Users thought the military badge was a nice addition, but that it was taking up too much valuable space in mobile view.
+**7. Users liked the 'name-tag' area, but the military badge is taking up too much space in the mobile view.** Overall, participants had a very positive response to the 'name-tag' area of the design, they liked the simple nod to their service.  Users often thought the military badge was a nice addition, but that it was taking up too much valuable space in mobile view, making it difficult to see important information.
 > "The emblem could be smaller. We can pretty much recognize our service emblem. It's not critical to this spot and doesn't need to be so big."
 
 > I like, I really like coming in and seeing my service Army there. It’s a nice little feeling, like a reminder and a way to feel connected."
@@ -166,10 +166,12 @@ No users read the 'app disconnected' confirmation message, but after reading the
 ### Benefits
 - Further explore the placement of benefit information in the logged-in homepage discovery
 
-### Update Designs
-- Create mocks for Mobile subnavigation
+### Universal Design Updates
 - Create mocks for proposed email address changes
+
+### Mobile Specific Design Updates
 - Create mocks for proposed nametag view
+- Create mocks for Mobile subnavigation
 
 ## Appendix
 
