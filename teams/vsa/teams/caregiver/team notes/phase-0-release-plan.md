@@ -10,7 +10,7 @@
 | --- | --- | --- | 
 | April 10 | Content and design complete* | [Completed on 4/16](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
 | April 14 | VSP Analytics request | [Completed on 4/16](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
-| April 21 | Frontend complete | |
+| April 23 | Frontend complete | |
 | April 30 | Acumen endpoint delivery | |
 | May 4 | VSP Contact Center Review | |
 | May 15 | Backend complete | |
