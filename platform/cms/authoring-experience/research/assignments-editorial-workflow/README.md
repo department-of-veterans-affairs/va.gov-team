@@ -52,10 +52,10 @@ Interview invitations to be done directly via email and/or Slack.
 
 ## Timeline
 
-#### Desired Timeline: xxx, 2020
+#### Desired Timeline: 11 - 15 May, 2020
 45 min each individual session
 
-#### Pilot Date: xxx, 2020
+#### Pilot Date: May 1, 2020
 The research will be piloted with Kevin Walsh, VFS-CMS Product Manager 
 
 ## Team Roles 	
