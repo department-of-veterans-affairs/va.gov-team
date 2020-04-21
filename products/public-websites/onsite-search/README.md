@@ -39,7 +39,8 @@ Onsite search has not been revisited since the rebranding launch and transition 
 
 ## Scope 
 
-## Solution Approach
+## Solution Approach & Considerations
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
    
 
 ## Value Propositions
