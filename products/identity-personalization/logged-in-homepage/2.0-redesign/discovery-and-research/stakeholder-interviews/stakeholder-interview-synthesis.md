@@ -9,7 +9,7 @@ Liz Lantz (liz@adhocteam.us), 04/20/2020
 As part of a larger discovery effort for the new logged-in homepage, we wanted to talk to DEPO stakeholders in order to do the following:
 
 - Better understand problems and painpoints stakeholders perceive with the current logged-in homepage and My VA
-- Gain insight to user's goals and ideas around success for a new logged-in homepage experience
+- Gain insight to stakeholder's goals and ideas around success for a new logged-in homepage experience
 - Understand the impact of this work to other teams
 - Better understand risks
 - Expand our thinking and gain insights into what we don't know yet
