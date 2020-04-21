@@ -2,21 +2,21 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**<br>
 
-Liz Lantz (liz@adhocteam.us), 04/20/2020
+Liz Lantz (liz@adhocteam.us), 04/21/2020
 
 ## Research Goals 
 
 As part of a larger discovery effort for the new logged-in homepage, we wanted to talk to DEPO stakeholders in order to do the following:
 
-- Better understand problems and painpoints stakeholders perceive with the current logged-in homepage and My VA
+- Better understand problems and pain points stakeholders perceive with the current logged-in homepage and My VA
 - Gain insight to stakeholder's goals and ideas around success for a new logged-in homepage experience
-- Understand the impact of this work to other teams
+- Understand the impact of this work on other teams
 - Better understand risks
-- Expand our thinking and gain insights into what we don't know yet
+- Expand our thinking and better understand what we don't know yet
 
 ## Research Methodology 
 
-We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A moderator began with introduction questions and prompted stakeholders with questions (from the conversation guide). Remote observers and note takers were also in attendance for some sessions.
+We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A moderator began with introductory questions and prompted stakeholders with further questions (from the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)). Remote observers and note takers were also in attendance for some sessions.
 
 ### Who we talked to
 
@@ -50,33 +50,7 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 - How do stakeholders define success? What metrics are they interested in seeing?
 - What risks do stakeholders anticipate for this work? What concerns do they have?
 
-## Key Findings
-
-### Perceived problems with the current UX 
-
-1. The homepage and navigation largely stay the same when people log in, which gives little sense of personalization and doesn't effectively present what we know about Veterans.
-2. We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.
-3. We're not effectively providing updates or notifications to Veterans through VA.gov.
-
-### Stakeholder goals
-
-1. A Veteran's logged-in homepage should be a data driven experience that reflects what we know about them.
-2. The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks.
-3. We should provide a logged-in experience that scales visually and across use cases.
-
-### Impacts to work and DEPO teams
-
-1. Teams can leverage the homepage to elevate tools.
-2. A new logged-in experience may influence how and what people build for Veterans outside the homepage.
-
-### Perceived project risks
-
-1. Having many stakeholders could prevent us from delivering incremental improvements in a timely way.
-2. The logged-in homepage could become a dumping ground.
-3. We could create/increase Veteran mistrust through poor data integrity and login experiences.
-4. COVID-19 disruptions could impact ability to effectively interact with stakeholders.
-
-## Details of Findings
+## Findings
 
 ### Perceived problems with the current UX 
 
@@ -86,13 +60,13 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.**
 
-   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for rather than going to My VA or using the main navigation.  One stakeholder described it as a "greek diner" approach to the navigation menu — it contains ALL the items which requires significant cognitive load to sort through and find the task they actually came to complete. 
+   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for rather than going to My VA or using the main navigation.  One stakeholder described VA.gov as having a "greek diner" approach to the navigation menu — it contains ALL the items. This requires a significant cognitive load for the user to sort through the options and find the task they actually came to complete. 
 
    While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
 
 3. **We're not effectively providing updates or notifications to Veterans through VA.gov**.
 
-   Veterans have to seek out updates because they don't see them immediately upon logging in.  We're missing the opportunity to help Veterans with task completion and understanding their status and next steps by not having a centralized place for them to find these notifications.
+   Veterans have to seek out updates because they don't see them immediately upon logging in.  We're missing the opportunity to help Veterans with task completion and assist them in understanding their status and next steps.
 
 ### Stakeholder goals
 
@@ -100,13 +74,13 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
    By leveraging the data we have for each Veteran profile, we'll be able to surface the most relevant information related to benefits, claims, and preferred VA facilities to each individual. We can build Veteran trust by providing information and updates that reflect their specific situation, and empowering them to complete tasks quickly and efficiently.
 
-2. **The logged-in homepage should guide Veterans in a meaningful way that helps them complete tasks.**
+2. **The logged-in homepage should give Veterans a clear path to complete tasks.**
 
    Stakeholders want to see a task-based UX for the logged-in homepage. This would help Veterans achieve their goals quickly and efficiently, while providing continued access to the things that are most important. This will hopefully contribute to people relying less on call centers, submitting manual forms, or having to go in-person to complete tasks.
 
 3. **We should provide a logged-in experience that scales visually and across use cases.**
 
-   As VA.gov continues to grow, we'll need to establish a logged-in experience that can grow with it.  The logged-in homepage needs to be a place users can easily and efficiently find what they're looking for, whether that's 2 or 20 tasks, and if they are new Veteran or if they've been using the VA for decades.
+   As VA.gov continues to grow, we'll need to establish a logged-in experience that can grow with it.  The logged-in homepage needs to be a place users can easily and efficiently find what they're looking for, whether that's 2 or 20 tasks, and if they are a new Veteran or if they've been using the VA for decades.
 
 ### Impacts to work and DEPO teams
 
@@ -116,13 +90,13 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **A new logged-in experience may influence how and what people build for Veterans outside the homepage.**
 
-   Having a centralized place that makes it easy to see relevant tools will also inform our DEPO teams and other business lines about what's out there, and may influence what they're working on.  APIs may also be impacted, since we may want to get data we don’t have now for homepage, and we'll need to ingest that data in a consistent way.
+   Having a centralized place that makes it easy to see relevant tools will also inform our DEPO teams and other business lines about what's out there, and may influence what they're working on.  APIs may also be impacted, since we may want to access data we don’t currently have on the homepage, and we'll need to ingest that data in a consistent way.
 
 ### Perceived project risks
 
 1. **Having many stakeholders could prevent us from delivering incremental improvements in a timely way.**
 
-   Almost every stakeholder mentioned concerns around navigating many opinions, containingScope scope, and competing priorities.  These are valid concerns. Having a clear solution vision for this work, staying focused on our North Star objectives, and open communication with teams will be critical to mitigating this risk.
+   Almost every stakeholder mentioned concerns around navigating many opinions, containing scope, and competing priorities.  Having a clear solution vision for this work, staying focused on our North Star objectives, and open communication with teams will be critical to mitigating this risk.
 
 2. **The logged-in homepage could become a dumping ground.**
 
@@ -130,11 +104,11 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 3. **We could create/increase Veteran mistrust through poor data integrity and login experiences.**
 
-   Data integrity will become even more critical to maintaining and building Veteran trust as we increase personalization to enhance the logged in experience.  We'll need to carefully consider the data we have available to us as we build our roadmap, perhaps holding off on some features longer than others, until we are confident we can present Veterans with an experience they can trust.
+   Data integrity will become even more critical to maintaining and building Veteran trust as we increase personalization to enhance the logged-in experience.  We'll need to carefully consider the data we have available to us as we build our roadmap, perhaps holding off on some features longer than others, until we are confident we can present Veterans with an experience they can trust.
 
 4. **COVID-19 disruptions could impact ability to effectively interact with stakeholders.**
 
-   At the time of writing, all team members are working remotely, which inherently has more limitations than being in-person.   The timeline has already been extended due to COVID-19 impacts on work schedules.  We're not sure how long this will go on, and will need to be persistent and creative to try to match the productivity we could have with this work if we were not in the midst of a global pandemic.
+   At the time of writing, all team members are working remotely, which inherently has more limitations than being in-person.   The timeline has already been extended due to COVID-19 impacts on work schedules.  We're not sure how long this will go on, and will need to be persistent and creative in spite of a global pandemic.
 
 
 
