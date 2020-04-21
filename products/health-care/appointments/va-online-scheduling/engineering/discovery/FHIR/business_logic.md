@@ -60,7 +60,11 @@ Business logic is hard to define, but this attempts to detail the appointment po
 
 ## Backend
 
-There is likely additional business logic in var-resources that is not captured above, but the front end team does not have visibility into this. Below are the services the front end uses from var-resources/VAMF:
+There is likely additional business logic in var-resources that is not captured above, but the front end team does not have visibility into this. 
+
+Someone on the backend team needs to determine the deltas between these services and the EAS/VSP services.
+
+Below are the services the front end uses from var-resources/VAMF:
 
 - `/cdw/v2/facilities/{system_id}/clinics`
 - `/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{system_id}/patient/ICN/#{user.icn}/{schedule_type}-eligibility/visited-in-past-months`
