@@ -83,7 +83,7 @@ In the context of VA.gov, the contract testing process looks like this:
      });
 
      ```
-   - Test each request in its own `describe` block. Further wrap in `context` blocks if necessary to test the same request when there are different BE states.
+   - Test each request in its own `describe` block. Purely for better readability and organization, tests can be wrapped one level further in `context` blocks corresponding to different BE states when the same request expects different results for each of those states.
    - In each `it` block, define the request and response interaction being tested and add them to the mock server (`mockApi.addInteraction({ ... })`).
      This sets up the mock server to accept the specified requests and return the specified expected responses.
      Interactions are defined in objects formatted like so:
@@ -133,9 +133,11 @@ In the context of VA.gov, the contract testing process looks like this:
      })
    });
    ```
-2. The contract tests will run in CI when FE changes are pushed.
+2. The contract tests will run in continuous integration (CI) when FE changes are pushed.
    - **If they pass, they generate pacts in the form of JSON files in the `pacts` directory.** JSON files are generated for each pairing of consumer (the FE application) and provider (`vets-api`).
    - If they fail, it's possible the request wasn't picked up by the mock server because request defined in the interaction didn't match the request that was actually made. It's also possible the component or function that made the request failed an assertion.
+
+   The assumption henceforth is that the CI workflow is done in Circle.
 3. **The CI job invokes a script to publish the pacts to a broker.** The command to publish should require a version to label the consumer and optionally accept tags. The published pacts should be versioned to the current commit hash of `vets-website`. For builds to be deployed, the pacts should also be tagged with the appropriate environment. *Tagging is important to ensure that we verify only the pact associated with the build that is getting deployed and not pacts generated from other branches.*
 
    This assumes that the broker is accessible from CI. There may be some work involved in configuring the the broker to allow access depending on where it's hosted.
@@ -143,14 +145,28 @@ In the context of VA.gov, the contract testing process looks like this:
    ```
    bundle exec rake pact:verify
    ```
-   This task pulls all relevant pacts from the broker and verifies that the expected responses match the actual responses when running the requests through a running instance of the API.
+   This task pulls all relevant pacts from the broker and verifies that the expected responses match the actual responses when running the requests through a running instance of the API. For any states specified in the pacts, the API will set up any matching states already defined in `provider_states.rb`. If there are no matching states, the verification will fail.
+   
+   [Pact Broker webhooks can be created using the CLI](https://github.com/pact-foundation/pact_broker-client/#create-webhook), whether it's from the Ruby gem or NPM package. **The webhook should just check for `contract_content_changed` because the broker will automatically pass any unmodified contracts that previously passed verification."
+   
+   While the pacts are being verified, the `vets-website` build can proceed to E2E tests.
+
+   **If the pacts are coming from a feature branch and the API has not been updated to match the new expectations, verification should be expected to fail.** In that case, once the pacts have been published, the BE developers working on updating the API can run the following task during development to verify their changes:
+   ```
+   bundle exec rake pact:verify:at[http://build-box/MyConsumerBuild/latestSuccessful/artifacts/my_consumer-my_provider.json]
+   ```
+   The actual URL should point to the contract that was published from the `vets-website` feature branch. After the `vets-api` feature branch is merged to master, that pact should be able to pass verification. 
 5. **The verification results are published back to the broker** with the version of the API that verified the pacts. Again, we can use the commit hash to version, but this time it's from `vets-api`.
    The broker maintains a matrix matching the consumer version and provider version.
-6. **If verification is successful, the CI pipeline will proceed. If it failed, the pipeline will stop.**
+6. **The `vets-website` build runs a check to see if it can be deployed.**
+   ```
+   pact-broker can-i-deploy --broker-base-url=BROKER_BASE_URL
+   ```
+   **If verification was successful, the CI pipeline will proceed to deploy. If it failed, the pipeline will stop.**
 
-   The assumption here is that the CI pipeline can wait for this asynchronous verification task to run and conditionally handle the output of that task.
+   We're assuming that the CI pipeline can wait for the asynchronous verification task to run and conditionally handle the output of that task.
 
-The above steps apply to changes made from the FE. Assuming the pacts are already in place, the relevant CI pipeline step for BE is running the verification Rake task to ensure that the changes don't break existing contracts in the appropriate environments.
+**The above steps apply to changes made from the FE.** Assuming the pacts are already in place, the only relevant step for the BE CI pipeline is running the verification Rake task to ensure that any API changes don't break existing contracts in the appropriate environments.
 
 ### Code Location
 In `vets-website`:
@@ -182,6 +198,16 @@ There are no security concerns with contract testing.
 There are no privacy concerns with contract testing.
 
 ### Open Questions and Risks
+
+#### [Question] What should we recommend testing within the contract tests? What layer of abstraction should we focus on?
+
+For demo purposes, I have been testing action creators that make API requests. The assertions made by that test might be redundant if there are already tests for the action creators. But I'm more so concerned whether this good level test at to call it a valid integration test. The Pact documentation seems to suggest testing calls made from a client class, as in something that has methods that invoke specific endpoints, but we don't follow such a pattern in `vets-website`.
+
+The forms system makes submissions using common functions, so we can cover most of the contract tests for form applications. It might be a good idea to create a helper function that can perform contract tests for any form. The question is what function we should test the submission from. In particular, should we be including the form data transformation in the test?
+
+#### [Question] How should `vets-api` set up the provider states?
+
+We ultimately depend on external services for any endpoint, so we would need to stub out those services to keep the contract tests focused on the `vets-website` and `vets-api` integration. `vets-api` uses VCR to record the expected behaviors of those external services for its own tests. Can we leverage the cassettes from VCR to set up the provider states, or is there a better approach?
 
 #### [Question] In using a broker, how will the asynchronicity of the publishing and verification steps be handled when it comes to reporting build status (GitHub PRs, CI jobs)?
 
