@@ -9,13 +9,13 @@ Starting with sprint 14, I am tracking the 508 issues on VA.gov, and specific to
     <thead>
       <tr style="text-align:left">
         <th style="text-align:left">&nbsp;</th>
-        <th style="text-align:left">Cognition</th>
-        <th style="text-align:left">Accessible Documents</th>
-        <th style="text-align:left">Focus Management</th>
-        <th style="text-align:left">Headings</th>
-        <th style="text-align:left">Mobile Design</th>
-        <th style="text-align:left">Semantic Markup</th>
-        <th style="text-align:left">Top issues Total</th>
+        <th style="text-align:right">Cognition</th>
+        <th style="text-align:right">Accessible Documents</th>
+        <th style="text-align:right">Focus Management</th>
+        <th style="text-align:right">Headings</th>
+        <th style="text-align:right">Mobile Design</th>
+        <th style="text-align:right">Semantic Markup</th>
+        <th style="text-align:right">Top issues Total</th>
         <th style="text-align:left">&nbsp;</th>
         <th style="text-align:left">All 508/Accessibility issues</th>
         <th style="text-align:left">&nbsp;</th>
