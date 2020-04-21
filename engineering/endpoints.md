@@ -3,7 +3,7 @@
 ## vets-api
 
 ### `//[api-env].va.gov/v0/coronavirus_chatbot/tokens`
-This HTTPS endpoint returns a Javascript Web Token (JWT) that originates from an instance of the Microsoft Health Bot Service (herein, bot service) and is passed through vets-api. The JWT is encoded with the following structure:
+This HTTPS endpoint returns a JSON Web Token (JWT) that originates from an instance of the Microsoft Health Bot Service (herein, bot service) and is passed through vets-api. The JWT is encoded with the following structure:
 
 ```json
 {
