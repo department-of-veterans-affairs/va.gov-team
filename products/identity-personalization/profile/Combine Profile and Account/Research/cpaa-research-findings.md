@@ -157,6 +157,7 @@ No users read the 'app disconnected' confirmation message, but after reading the
 - FAQ's were noticed and utilized throughout the sessions - with exception to the email address FAQ.
 - Once users found the 'profile menu' they were able to find and use it again easily.
 - The side nav design increases ease of scanability in profile.
+- In-line editing was clear and easy to use and utilized space nicely.
 
 ## Recommendations
 - Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to logged-in experience, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
