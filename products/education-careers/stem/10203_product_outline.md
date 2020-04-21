@@ -80,10 +80,10 @@ We may find a way to solve for SCO support of applications.
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
-	- TBD; subject to contract continuation.
+	- Beginning of July; subject to contract continuation.
 
 - *What is your date for when you'll evaluate impact after launch?*
-	- TBD; Ideally a date 1 month after launch. Subject to contract continuation.
+	- End of July; Ideally a date 1 month after launch. Subject to contract continuation.
 
 ---
 ## Solution Narrative
