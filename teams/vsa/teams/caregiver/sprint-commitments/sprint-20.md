@@ -12,8 +12,14 @@
 - Send PDF to CARMA
 - Start research on submission/rate limiting
 - Refactor namespace/property changes
+- Add new header to CARMA submission request
 
 ## Content
+- Strategy for "try again" page
+- Develop template for starting content conversations with new stakeholders
 
 ## Design
 - Finalize "try again" page
+- Accessibility spot check
+- Work with Public Websites on form unavailable implementation
+
