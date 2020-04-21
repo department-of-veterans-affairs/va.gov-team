@@ -8,7 +8,7 @@ Starting with sprint 14, I am tracking the 508 issues on VA.gov, and specific to
   <table style="text-align:left">
     <thead>
       <tr style="text-align:left">
-        <th style="text-align:left">&nbsp;</th>
+        <th style="text-align:left; width:100px;">&nbsp;</th>
         <th style="text-align:right">Cognition</th>
         <th style="text-align:right">Accessible Documents</th>
         <th style="text-align:right">Focus Management</th>
