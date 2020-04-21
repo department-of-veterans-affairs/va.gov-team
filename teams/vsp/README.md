@@ -16,8 +16,8 @@ Provide teams across VA with the support, documentation, tools, and automation t
 - #vsp-content-ia 
 - #vsp-operations
 - #vsp-product-support
-- #vsp-tools
-- #vsp-triage
+- #vsp-tools-fe
+- #vsp-tools-be
 
 
 ### Github Labels
