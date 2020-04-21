@@ -42,6 +42,21 @@ Should think about regression test plans and when we require them because teams 
 
 Need to add ATO to collab cycle once their training materials are ready. 
 
+### Unmoderated Testing
+
+*From Collaboration Point Survey (linked above) as of 4/21/20 — note that 58.3% of respondents noted that they had just completed Project Kickoff*
+
+- Reviewers gave actionable feedback to aid in improving our solution. The feedback was specific and to the point, and it gave us options for other things we could try.
+- Thank you for taking the time to meet, we appreciate your feedback and ideas!
+- It was not clear to me when the async feedback was complete. I got a few sub-issues assigned to me but not everyone assigned one so wasn't sure if that meant "it's all good" or if it meant "I haven't gotten around to this yet". The required vs recommended changes were initially ambiguous. Although it is not the intention, at this point the review felt like it added extra work on my plate (not to take action on the recommendations, but just the process of initiating, organizing, responding, etc), and extra time to my timeline. The feedback provided yielded good improvements though.
+- First-time through, so useful to understand what pieces of information VSP finds valuable at this stage, so that we can ensure we're emphasizing them as we actually begin discovery on the project.
+- 	• too many steps • too hard to tell where things are in the process • too easy to get things mixed up in github with all the tickets • good to get feedback • feedback definitely helpful
+- The efforts discussed are relatively straight-forward and required very little discussion.
+- We provided context for the work we are planning
+- It was good for everyone to get aligned but it was new to everyone and the only real questions anyone had were about the process and not the project. I expect as we do more of these, it'll become more valuable.
+- I thought part of the meeting would be to review our product outline to identify any areas that we need to improve upon. The meeting went by very quickly overall and didn't feel super informative.
+- We just had the logged in homepage kickoff, and it was an effective way to get a large # of people up to speed on the work we're doing and to field conversation/questions.
+
 # Additional Notes from VSP Reviewers & Moderators 
 
 ### Megan notes from rollout mtgs 
