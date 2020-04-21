@@ -25,8 +25,9 @@ Profile 2.0
 - Analytics - review (VSP cycle)
 
 Logged in homepage
-1. Conduct user research
+1. Analytics review
 2. Comparative analysis
+3. Conduct research
 
 ## Sprint 22 (5/20 – 6/2)
 
