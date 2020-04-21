@@ -66,6 +66,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
       - [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
+      - [GI Bill Comparison Tool STEM Feature](#gi-bill-comparison-tool-stem-feature)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [Open issues](#open-issues-2)
     - [New Project Name](#new-project-name)
