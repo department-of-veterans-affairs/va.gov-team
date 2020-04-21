@@ -24,7 +24,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - Participant 8
   - Participant 9
   - Participant 10
-- Topline Summary
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/usability-topline-summary.pdf)
 - Synthesis Artifacts
 - Research Readout Notes
 - Research Readout Presentation
