@@ -3,7 +3,7 @@
 
 GI Bill Comparison Tool users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.
 
-We're focused on creating a unified, responsive experience for Comparison Tool users, including those using assistive technologies, that will allow them to easily estimate and detect updates they make to their benefits. These are focused on the "Estimate your benefits" section of profile pages throughout the Comparison Tool.  
+We're focused on creating a unified, responsive experience for users, including those using assistive technologies, that will allow them to easily estimate and detect updates they make to their benefits. These are focused on the "Estimate your benefits" section of profile pages throughout the Comparison Tool.  
 
 ### VET TEC Training Providers
 [GIBCT EYB - VET TEC - Mobile - v0.0](https://bahdigital.invisionapp.com/share/DRIADKKP7QN)  
