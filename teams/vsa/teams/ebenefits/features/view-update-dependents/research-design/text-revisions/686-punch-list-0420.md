@@ -126,6 +126,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Form review page
 
 - [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
+- [ ] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
 ### Confirmation page
 
