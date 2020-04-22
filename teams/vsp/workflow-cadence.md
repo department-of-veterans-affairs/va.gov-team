@@ -1,34 +1,6 @@
 # VSP Workflow Cadence
 
----
-
-## Definitions
-
-**OKRs**: Objectives and Key Results. Goals and measurable actions/results we want to aim for, to guide our progress as we build and iterate on Platform tools and processes. To be revisited on a quarterly basis. We store OKRs in our [VSP Mission, Vision, Roadmap, and OKRs Deck](https://docs.google.com/presentation/d/1-8LlD8jljlv-C9IIQO1fHDC4ok0NzpJF3nLfwnx5610/edit#slide=id.g5bcedc037d_2_48)
-
-For deeper reading: [OKR - The Ultimate Guide to Objectives and Key Results](https://www.perdoo.com/the-ultimate-okr-guide/) and [Google's re:Work Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
-
-**Super Epic**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to a Super Epic. Super Epics are prioritized into the Now, Next, and Future pipelines of the ZenHub board, and together comprise your team's agile roadmap. Store Super Epics in ZenHub using the Epic functionality and the `super-epic` label, and the Milestone for the VSP Objective it is furthering. 
-
-**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on a Super Epic. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective Super Epic.
-
-**User story**: "the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective." (from Atlassion). A group of user stories together should fully describe the feature or service your target user group needs. We store user stories in their respective product folder here in GitHub, and we include user stories in the epics and issues in ZenHub depending upon whether a user story is appropriate to guide the task.
-
-For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/project-management/user-stories) and [Not everything is a user story](https://www.lullabot.com/articles/not-everything-is-a-user-story)
-
-**Issue**: a user story or task that a team needs to accomplish in order to complete an Epic. We store Issues in ZenHub using the Issue functionality, and we nest east Issue within its respective Epic.
-
-**Sprint Objective**: a goal that a team aims to achieve in an upcoming sprint. Every Sprint, each team recommends their collective Sprint Objectives via the respective Sprint Report Google document, and VSP Leadership and DSVA provide feedback prior to the start of the new Sprint. Teams use these Sprint Objectives to guide their Sprint Planning.
-
-**Sprint Report**: a report that indicates whether we met our Sprint Objectives by the end of the sprint, and if not what the reason was, and thus how we're going to proceed. We submit these reports to DSVA at the end of the Sprint, and we get paid each Sprint based upon DSVA's acceptance of these reports.
-
-**Team Charter**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
-
-**Roadmap:** plans that represent the initiatives each team will focus on in the near, medium, and long term based on their consideration of forward-looking strategy, customer pain points, and VSP pain points.
-- You must have super epics (i.e. initiatives) in place for NOW, NEXT, FUTURE
-- Every NOW, NEXT, and FUTURE super epic must include in the description which Objective it is connected to
-- Every NOW super epic must include what KPIs you believe this work will impact
-- Every super epic title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
+Read on to learn about the different types of documentation and meetings we use across the VSP ecosystem in order to successfully create goals, communicate across teams and within practice areas, and execute on our goals on a sprint-by-sprint basis.
 
 ---
 
@@ -36,35 +8,28 @@ For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/pr
 
 ### Cross-program Meetings
 Team of Teams
+Bi-weekly Design Sync
+Bi-weekly Engineering Sync
+Bi-weekly Product Sync (coming soon)
 
-### Full Team Meetings
+### Full VSP Team Meetings
 Bi-weekly End of Sprint Demos
 Monthly VSP retros
 Monthly VSP All Hands (internal only - no clients)
 
-### Sprint Team Meetings
+### VSP Sprint Team Meetings
 Daily standup
 Weekly grooming
 Bi-weekly Sprint Objective brainstorm
 Bi-weekly Sprint Planning
 Bi-weekly Team Retro
 
-### Issue estimation
-
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity. We need estimates on issues to help us predict how much work may be reasonable in a given sprint, and to help reveal different opinions on complexity/risk/loe to spur alignment and strategy convos where needed.
-
-- 1: Easy task, work is known, can be executed quickly
-- 5: Becoming complex
-- 13: Very complex, may take a full sprint or longer
-- `>` 13: Should be an Epic that can be broken down into smaller Issues.
-
-Here are the basics of how to think about points and how to estimate:
-
-- Estimates represent the complexity, uncertainty, and risk in completing an issue.
-- Estimates represent the effort for anyone in the practice area to complete, not just the effort for you or for an expert.
-- Estimates do not = hours or days of work.
-- Estimates are abstract, and are not used to compare individual or team productivity.
-- Estimates will not be 100% accurate, and that's fine. They're a planning, learning, and misalignment-revealing tool.
+### VSP Practice Area Meetings
+Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
+Product: PM Sync
+Design:
+Engineering:
+Other: 
 
 ---
 
@@ -129,5 +94,51 @@ Icebox
 ### Icebox
 We close those issues/epics/super epics w/an “icebox” label and a “[team]” label so teams can come back and review these items in their future strategy and planning, without having them clog up the active work views.
 
+### Issue estimation
 
+Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity. We need estimates on issues to help us predict how much work may be reasonable in a given sprint, and to help reveal different opinions on complexity/risk/loe to spur alignment and strategy convos where needed.
+
+- 1: Easy task, work is known, can be executed quickly
+- 5: Becoming complex
+- 13: Very complex, may take a full sprint or longer
+- `>` 13: Should be an Epic that can be broken down into smaller Issues.
+
+Here are the basics of how to think about points and how to estimate:
+
+- Estimates represent the complexity, uncertainty, and risk in completing an issue.
+- Estimates represent the effort for anyone in the practice area to complete, not just the effort for you or for an expert.
+- Estimates do not = hours or days of work.
+- Estimates are abstract, and are not used to compare individual or team productivity.
+- Estimates will not be 100% accurate, and that's fine. They're a planning, learning, and misalignment-revealing tool.
+
+
+---
+
+## Definitions
+
+**OKRs**: Objectives and Key Results. Goals and measurable actions/results we want to aim for, to guide our progress as we build and iterate on Platform tools and processes. To be revisited on a quarterly basis. We store OKRs in our [VSP Mission, Vision, Roadmap, and OKRs Deck](https://docs.google.com/presentation/d/1-8LlD8jljlv-C9IIQO1fHDC4ok0NzpJF3nLfwnx5610/edit#slide=id.g5bcedc037d_2_48)
+
+For deeper reading: [OKR - The Ultimate Guide to Objectives and Key Results](https://www.perdoo.com/the-ultimate-okr-guide/) and [Google's re:Work Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
+
+**Super Epic**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to a Super Epic. Super Epics are prioritized into the Now, Next, and Future pipelines of the ZenHub board, and together comprise your team's agile roadmap. Store Super Epics in ZenHub using the Epic functionality and the `super-epic` label, and the Milestone for the VSP Objective it is furthering. 
+
+**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on a Super Epic. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective Super Epic.
+
+**User story**: "the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective." (from Atlassion). A group of user stories together should fully describe the feature or service your target user group needs. We store user stories in their respective product folder here in GitHub, and we include user stories in the epics and issues in ZenHub depending upon whether a user story is appropriate to guide the task.
+
+For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/project-management/user-stories) and [Not everything is a user story](https://www.lullabot.com/articles/not-everything-is-a-user-story)
+
+**Issue**: a user story or task that a team needs to accomplish in order to complete an Epic. We store Issues in ZenHub using the Issue functionality, and we nest east Issue within its respective Epic.
+
+**Sprint Objective**: a goal that a team aims to achieve in an upcoming sprint. Every Sprint, each team recommends their collective Sprint Objectives via the respective Sprint Report Google document, and VSP Leadership and DSVA provide feedback prior to the start of the new Sprint. Teams use these Sprint Objectives to guide their Sprint Planning.
+
+**Sprint Report**: a report that indicates whether we met our Sprint Objectives by the end of the sprint, and if not what the reason was, and thus how we're going to proceed. We submit these reports to DSVA at the end of the Sprint, and we get paid each Sprint based upon DSVA's acceptance of these reports.
+
+**Team Charter**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
+
+**Roadmap:** plans that represent the initiatives each team will focus on in the near, medium, and long term based on their consideration of forward-looking strategy, customer pain points, and VSP pain points.
+- You must have super epics (i.e. initiatives) in place for NOW, NEXT, FUTURE
+- Every NOW, NEXT, and FUTURE super epic must include in the description which Objective it is connected to
+- Every NOW super epic must include what KPIs you believe this work will impact
+- Every super epic title format must be aligned w/our standards: (Product/Service) - (phrase starting w/a verb NOT ending in 'ing' about what you're changing/creating.)
 
