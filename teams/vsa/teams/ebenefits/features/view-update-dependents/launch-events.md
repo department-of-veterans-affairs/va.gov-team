@@ -16,9 +16,9 @@ Set a date and walk back the various steps.  This achieves a few things:
 - Stakeholder feedback
 
 ## Assumptions  
-**Launch to prod:** Wedensday, May 6, 2020  _(Sprint 21 Planning)_  
-**Number of work days:** 15 from today   
-**Number of sprints:** 2   
+**Launch to prod:** 
+**Number of work days:**   from today   
+**Number of sprints:**    
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
 🌀 = Collaboration Cycle  
