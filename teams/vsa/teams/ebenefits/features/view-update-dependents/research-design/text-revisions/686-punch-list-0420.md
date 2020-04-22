@@ -128,6 +128,9 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
 - [ ] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
+### Submission Failure
+- [ ] Blue "Go Back to VA.gov" button should be "Go back to VA.gov"
+
 ### Confirmation page
 
 - [ ] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
