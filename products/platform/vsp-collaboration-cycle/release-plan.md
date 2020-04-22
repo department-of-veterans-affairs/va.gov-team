@@ -69,14 +69,7 @@ _After completing a Go/No Go meeting, our hard launch will mean that we roll thi
 - Go / No Go: (ready / not ready)[link to the Go No Go meeting doc]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+Because this is a process, there are no measurable results that can be gathered in a week. 
 
 ### 1-month results:
 - Number of unique users: x
