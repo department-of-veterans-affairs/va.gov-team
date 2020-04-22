@@ -18,7 +18,7 @@
 ## 4. Scaffold Loan Guaranty Application Projects
 - Product: Build product documentation
 
-
+=======================
 
 - Design: Iterate on product designs and schedule further Collab Cycle activities as needed
 needs to wait until research and recommendations are done
