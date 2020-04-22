@@ -2,7 +2,7 @@
 
 **Notes on content sources:**
 
-- Content in the **COVID-19 prevention** section is sourced from the MyVA311 IVR and the CDC website.
+- Content in the **COVID-19 prevention** section is sourced from the VA311 IVR and the CDC website.
 - Content in the question **How can I ask for a new mental health appointment?** is sourced from https://www.va.gov/health-care/health-needs-conditions/mental-health/
 - All other content is sourced from https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
 
@@ -198,7 +198,7 @@ You can contact your VA health facility for help with appointments, or you can g
 
 [Find a VA location](https://www.va.gov/find-locations/) 
 
-#### For the latest information on facility hours and safety measures
+##### For the latest information on facility hours and safety measures
 
 Please check your local VA health facility’s website. The situation is changing quickly during this time.
 
@@ -579,13 +579,16 @@ benefits and claims
 
 Here are the best ways to talk with someone about your specific health care needs.
 
-**General coronavirus COVID-19 questions**
-Call MyVA311 at [844-698-2311](tel:18446982311).
+**General coronavirus questions**
+
+Call VA311 at [844-698-2311](tel:18446982311).
 
 **VA health care appointments**
+
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
 **Local VA health facility hours, services, and questions** 
+
 Check your facility's website for the latest updates and contact information.
 
 [Find a VA location](https://www.va.gov/find-locations)
@@ -608,15 +611,19 @@ If you have hearing loss, call TTY 800-799-4889.
 ### [debt, copays, and related concerns]
 
 **Debt related to VA benefits**
+
 Call our VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 
 **Debt management information related to VA health care copays**
+
 Call our Health Resource Center at [888-827-4817](tel:18888274817).
 
 **VA-backed home loans**
+
 Call [877-827-3702](tel:18778273702) to talk with a VA loan technician, Mon. – Fri., 8:00 a.m. to 6:00 p.m. ET.
 
 **Support for homelessness**
+
 Call the National Call Center for Homeless Veterans at [877-424-3838](tel:18774243838) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 
 **You can also:**
