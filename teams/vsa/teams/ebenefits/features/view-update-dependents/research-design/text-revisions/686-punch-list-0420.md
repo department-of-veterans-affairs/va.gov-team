@@ -74,6 +74,8 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Add child section
 
 - [ ] Make "number" lowercase in "Child’s Social Security Number"
+- [ ] When entering a letter on accident, the requiled field prompt pops in and says `does not match pattern "^[0-9]*[-]*[0-9]*[-]*[0-9]*$"` instead of "Please use only 9 numbers"
+  - [ ] Field also took more than 9 digits
 - [ ] Change header in list loop to "Next child"
 - [ ] Child's name header seems to be missing after child info screen
 - [ ] Bold "or" in labels under the "Child's place of birth" section
