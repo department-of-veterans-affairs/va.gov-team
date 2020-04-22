@@ -60,7 +60,7 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **We're not effectively guiding Veterans to tasks and tools from the logged-in homepage or via the navigation.**
 
-   Stakeholders feel Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for rather than going to My VA or using the main navigation.  One stakeholder described VA.gov as having a "greek diner" approach to the navigation menu — it contains ALL the items. This requires a significant cognitive load for the user to sort through the options and find the task they actually came to complete. 
+   In user testing, stakeholders have observed that Veterans rely on the Top Tasks on the VA.gov homepage to get to the tasks and tools they're looking for, rather than going to My VA or using the main navigation.  One stakeholder described VA.gov as having a "greek diner" approach to the navigation menu — it contains ALL the items. This requires a significant cognitive load for the user to sort through the options and find the task they actually came to complete. 
 
    While My VA does elevate personal information, it's not used very frequently (we learned this in [our Personalization 2.0 research study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-the-my-va-dashboard)), and the visual experience hasn't scaled in such a way that it helps Veterans find what they're looking for quickly. We can do better than presenting a stacked list that requires significant mental processing and scrolling to understand all that is available.
 
@@ -76,7 +76,7 @@ We conducted remote 1:1 interviews via Zoom between March 30 - April 17, 2020. A
 
 2. **We should provide a logged-in experience that scales visually and across use cases.**
 
-   As VA.gov continues to grow, we'll need to establish a logged-in experience that can grow with it.  The logged-in homepage needs to be a place users can easily and efficiently find what they're looking for, whether that's 2 or 20 tasks, and if they are a new Veteran or if they've been using the VA for decades.
+   As VA.gov continues to grow, we'll need to establish a logged-in experience that can grow with it.  The logged-in homepage needs to be a place users can easily and efficiently find what they're looking for, whether they are a new Veteran or if they've been using the VA for decades, or if they are presented with 2 or 20 tasks.
 
 ### Impacts to work and DEPO teams
 
