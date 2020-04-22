@@ -1,8 +1,8 @@
-# Logged-in homepage Previous Research Review
+# Logged-in homepage Past Research Review
 
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
-Liz Lantz (liz@adhocteam.us), 04/22/2020
+Liz Lantz (liz@adhocteam.us), 04/21/2020
 
 ## Background
 
@@ -21,13 +21,13 @@ As part of discovery for a new logged-in homepage, we reviewed previous research
   - VA.gov users expect an experience tailored to them, and are task-oriented.
   - We need an onboarding experience.
 
-**[Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization 2.0/discovery-research/dashboard-interviews/research-summary.md)**
+**[Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)**
 
 This research rolled up into the larger Personalization 2.0 report linked above and reported similar findings to what is described above.
 
 ### Notifications
 
-**[Notification research (March 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA MVP/Research/User Notifications Readout - end of sprint demo.pptx)**
+**[Notification research (March 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)**
 
 - **Goals**: Gain insights into users expectations around notifications from VA.gov.
 - **Findings**:
@@ -39,7 +39,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
 
 5 decks from this research were reviewed, all related to the consolidation effort and redesign of VA.gov.
 
-**Homepage Research [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov Relaunch 2018/user-research/study-3/Merger Study 3 Research Readout.pptx) and [April 2018 deck 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov Relaunch 2018/user-research/study-3/Merger Study 3b Research Readout.pptx)** 
+**Homepage Research [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203%20Research%20Readout.pptx) and [April 2018 deck 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203b%20Research%20Readout.pptx)** 
 
 - **Goals**: Learn about Veterans preferences for the homepage. 
 - **Findings**:
@@ -47,7 +47,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
   - Veterans preferred a page design that is simple and not cluttered.
   - Benefit categories identified as priority are health, disability, education, and records.
 
-**Preview.va.gov - Unauthenticated users, studies from [September 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov Relaunch 2018/user-research/study-5/Brand Consolidation Research Summary 9-6-2018_Study 5 only.pptx) (VA Veterans) and [October 1, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov Relaunch 2018/user-research/study-6/Brand Consolidation Research Summary 10-1-2018_study 6 only.pptx) (Non-VA Veterans)** 
+**Preview.va.gov - Unauthenticated users, studies from [September 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx) (VA Veterans) and [October 1, 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-6/Brand%20Consolidation%20Research%20Summary%2010-1-2018_study%206%20only.pptx) (Non-VA Veterans)** 
 
 - **Goals**: Gather feedback about the homepage, navigation, hub pages, tool landing pages, and tasks for unauthenticated users on preview.va.gov.
 - **Findings**:
@@ -55,7 +55,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
   - Veterans responded positively to the simplicity and layout of the homepage, and the homepage exposed Veterans to benefits they may not have considered.
   - Tasks not listed in the "top 4" boxes were much more difficult to complete.
 
-[**Preview.va.gov - Authenticated Users**](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov Relaunch 2018/user-research/study-8/Brand Consolidation Research Summary 10-25-2018_Study 8 only.pptx ) (October 2018)
+[**Preview.va.gov - Authenticated Users**](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-8/Brand%20Consolidation%20Research%20Summary%2010-25-2018_Study%208%20only.pptx) (October 2018)
 
 - **Goals:** Understand how authenticated users work through top tasks on preview.va.gov.
 - **Findings:**
@@ -65,7 +65,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
 
 ### My VA Research
 
-**[Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April 2018 usability/Personalization MVP readout.pptx)** 
+**[Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)** 
 
 - **Goals**: Examine functionality, nomenclature, navigation, and overall impressions in the Dashboard, Profile, and Accounting settings MVP.
 - **Findings:**
@@ -74,7 +74,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
   - Participants expressed interest in notifications, and changing the order of modules on the dashboard to reflect their personal preferences and activity.
   - Participants relied on links in the dashboard to get to settings instead of using main nav.
 
-**["Find VA Benefits" user testing (September 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Research/MVP Research/User Testing/Research Summary.md)**
+**["Find VA Benefits" user testing (September 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research/User%20Testing/Research%20Summary.md)**
 
 - **Goals:** Evaluate Find VA Benefits tool MVP to better understand the flow, utility, and interactions.
 - **Findings**:
@@ -92,11 +92,11 @@ This research rolled up into the larger Personalization 2.0 report linked above 
 
 ## Journey maps
 
-**[Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran Journey Map.pdf)** 
+**[Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)** 
 
 This provides an overview of the 10 life stages any Veteran may encounter.  This is a good resource to build an understanding of how Veteran's needs change over time, and inspire thinking around how our design can adapt to support them through those changes.
 
-**[VA patient experience map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veterans Outpatient Journey Map.pdf)** 
+**[VA patient experience map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veterans%20Outpatient%20Journey%20Map.pdf)** 
 
 This resource traces the outpatient experience from the perspective of the employee, and provides insights into painpoints Veterans experience related to receiving care from their provider. 
 
@@ -104,11 +104,11 @@ This resource traces the outpatient experience from the perspective of the emplo
 
 Each of the following journey maps go into detail about a specific benefit journey. Journeys begin from application to receipt of benefits, focusing on actions needed and veterans' positive, negative, and neutral feelings. We should use these resources to familiarize ourselves with the processes for each of these benefits and inform how we might highlight them on the new logged-in homepage.
 
-**[Disabilities claim process map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran Journey - Disability Claim - 11x17 -  9.4.17.pdf)** 
+**[Disabilities claim process map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20-%20Disability%20Claim%20-%2011x17%20-%20%209.4.17.pdf)** 
 
-**[Education benefits map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Edu Journey Map_110518_v6.pdf)** 
+**[Education benefits map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Edu%20Journey%20Map_110518_v6.pdf)** 
 
-**[Pension journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Pension Journey Map_011119_V5.pdf)**
+**[Pension journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Pension%20Journey%20Map_011119_V5.pdf)**
 
 ## Research done by outside groups
 
