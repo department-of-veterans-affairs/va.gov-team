@@ -6,30 +6,30 @@ Read on to learn about the different types of documentation and meetings we use 
 
 ## Scrum and Meeting Cadence
 
-### Cross-program Meetings
-Team of Teams
-Bi-weekly Design Sync
-Bi-weekly Engineering Sync
-Bi-weekly Product Sync (coming soon)
+**Cross-program Meetings**
+- Team of Teams
+- Bi-weekly Design Sync
+- Bi-weekly Engineering Sync
+- Bi-weekly Product Sync (coming soon)
 
-### Full VSP Team Meetings
-Bi-weekly End of Sprint Demos
-Monthly VSP retros
-Monthly VSP All Hands (internal only - no clients)
+**Full VSP Team Meetings**
+- Bi-weekly End of Sprint Demos
+- Monthly VSP retros
+- Monthly VSP All Hands (internal only - no clients)
 
-### VSP Sprint Team Meetings
-Daily standup
-Weekly grooming
-Bi-weekly Sprint Objective brainstorm
-Bi-weekly Sprint Planning
-Bi-weekly Team Retro
+**VSP Sprint Team Meetings**
+- Daily standup
+- Weekly grooming
+- Bi-weekly Sprint Objective brainstorm
+- Bi-weekly Sprint Planning
+- Bi-weekly Team Retro
 
-### VSP Practice Area Meetings
-Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
-Product: PM Sync
-Design:
-Engineering:
-Other: 
+**VSP Practice Area Meetings**
+- Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
+- Product: PM Sync
+- Design:
+- Engineering:
+- Other: 
 
 ---
 
