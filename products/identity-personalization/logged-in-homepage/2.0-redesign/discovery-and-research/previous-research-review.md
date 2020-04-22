@@ -6,23 +6,24 @@ Liz Lantz (liz@adhocteam.us), 04/22/2020
 
 ## Summary
 
-As part of discovery for a new logged-in homepage, we reviewed previous research to establish a foundation for the designer(s) tackling the logged-in homepage redesign, and to guide future user interviews so they are unique and answer new questions.
+As part of discovery for a new logged-in homepage, we reviewed previous research conducted between 2016-2019. The goal of this review is to establish a foundation for the designer(s) tackling the logged-in homepage redesign, and to guide future user interviews so they are unique and answer new questions.
 
-The majority of these research studies were interviews and task-based usability studies, and covered
+The majority of this research was interviews and task-based usability studies, and evaluated:
 
-- Evaluating homepage designs and task completion for the VA.gov redesign (2018), 
-- Better understanding what Veterans expect from notifications, and
-- Evaluation of the My VA MVP
+- Homepage designs and task completion for the VA.gov redesign (2018), 
+- Veteran's expectations of notifications, and
+- The My VA MVP
 
-We also looked at artifacts specific to the benefit experience, including journey maps and a comprehensive study completed by Frog in 2016 that goes into great detail about Veteran pain points from learning about benefits to managing info on line.
+We also looked at artifacts highlighting pain points in the benefit experience, and managing information online. This included journey maps and a comprehensive study completed by Frog in 2016.
 
 ## Highlights
 
 - Veterans are task-oriented and expect an experience tailored to them.
-- The My VA dashboard isn't used much and is duplicative of the homepage. However, in interviews, Veterans found it helpful and easy to understand.  Generally, they understood the content, features, and functionality as it exists currently.
+- The My VA dashboard isn't utilized extensively, and is duplicative of the homepage. However, in interviews, Veterans found it helpful and easy to understand.  Generally, they understood the content, features, and functionality as it exists currently.
 - Veterans would benefit from a centralized place online to see statuses and notifications, especially with regard to updates about applications and appointments.
-- We need an onboarding experience for first time users of the VA, and for those who onboarding to benefits for the first time.
-- Organizing content by benefit type matches the Veteran's mental model. One study specifically recommended organizing a dashboard re-design by benefit type since the new "Manage your VA Health Care" section of the dashboard met participants' expectations. 
+- We need an onboarding experience for first time users of the VA.
+- We need an onboarding experience for those onboarding to benefits for the first time.
+- Organizing content by benefit type matches the Veteran's mental model. One study specifically recommended organizing a dashboard redesign by benefit type since the new "Manage your VA Health Care" section of the dashboard met participant expectations. 
 
 ## List of Studies
 
