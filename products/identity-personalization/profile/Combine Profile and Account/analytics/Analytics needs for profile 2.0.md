@@ -18,6 +18,7 @@ Currently, we have profile analytics in a few of places:
 - High level profile stats
 - A dashboard for of the following:
   - Contact information
+  - (Maybe) A small update to the address validation dashboard
   - A small update to the direct deposit dashboard
   - Account security
   - Connected apps
@@ -35,49 +36,61 @@ This would include:
 
 We are likely capturing this email in analytics already, but I would love to have this info in a consolidated dashboard so it's easier to track than it is now. I would like to see:
 
-#### Detailed view for contact information
+#### Mailing address
+ 
+- Successful form submissions (Already have on the address validation dashboard)
+- Failed form submissions (Already have on the address validation dashboard)
 
-Mailing Address
+#### Home address
 
-- Form views (how many people click Edit)
-- Successful form submissions
-- Failed form submissions
-- Address validation stats
+- Successful form submissions (Already have on the address validation dashboard)
+- Failed form submissions (Already have on the address validation dashboard)
 
-Home Address
+#### Home phone number
 
-- Form views (how many people click Edit)
-- Successful form submissions
-- Failed form submissions
-- Address validation stats
-
-Home phone number
-
-- Form views (how many people click Edit)
-- Successful form submissions
+- Successful form submissions 
 - Failed form submissions
 
-Mobile phone number
+#### Mobile phone number
 
-- Form views (how many people click Edit)
-- Successful form submissions
+- Successful form submissions 
 - Failed form submissions
 - How many people have opted into health care appointment reminders ("Send me text message (SMS) reminders for my VA health care appointments" checkbox)
 
-Work phone number
+#### Work phone number
 
-- Form views (how many people click Edit)
-- Successful form submissions
+- Successful form submissions 
 - Failed form submissions
 
-Fax phone number
+#### Fax phone number
 
-- Form views (how many people click Edit)
-- Successful form submissions
+- Successful form submissions 
 - Failed form submissions
 
-Email address
+#### Email address
 
-- Form views (how many people click Edit)
-- Successful form submissions
+- Successful form submissions 
 - Failed form submissions
+
+### Address validation dashboard
+
+- Would it be possible to click into the data on this dashboard so we could see full reports?
+- Otherwise, we're good to go.
+
+### Direct deposit dashboard
+
+- Would need to add tracking for the "View payment history" link. 
+- Otherwise, we're good to go.
+
+### Account security
+
+- Clicks of Verify your identity
+- Clicks of Set up 2-factor authentication
+- Clicks of Go to the terms and conditions for health tools
+
+### Connected apps
+
+- How many users have apps connected
+- How many users disconnect apps from here
+- Clicks of "Go to connected accounts FAQ"
+- Clicks of "Full list of possible applications"
