@@ -6,7 +6,7 @@ By Christian Valla
 ## Project background
 
 The Claim Status Tool was launched approximately 3 years ago and only minor changes have been done since. The claim status tool is a priority to improve, as it is used frequently by millions of veterans (it is not uncommon for veterans to check their claim status several times a week). We see this as an opportunity to create a great user experience for veterans using and depending on this tool.
-Very little research has been done on the claim status tool. What has been done is shared here:[research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
+Very little research has been done on the claim status tool. What has been done is shared here:  [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 
 ## Product questions
 
