@@ -48,10 +48,10 @@
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+- Desired date: ?
+- Post-launch KPI 1: VSP has setup 100% of VFS teams in Speedcurve
+- Post-launch KPI 2: # of metrics that exceed performance budgets
+- Post-launch KPI 3: Performance gains per team
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
