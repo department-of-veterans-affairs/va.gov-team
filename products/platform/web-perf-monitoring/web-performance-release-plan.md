@@ -1,9 +1,9 @@
 # Website Performance Monitoring
 
 ---
+## Phase I: Moderated Testing
 
-## Phase I: HCA Website Performance Testing
-
+#### Plan: HCA Website Performance Testing 
 ### Planning:
 - Desired date range or test duration: Feb 2020 - March 2020
 - Desired number of users: 2 Users
@@ -18,8 +18,9 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? N/A
 - If yes, what: N/A
 
-## Phase II: Pilot Testing with Facilities Team
+## Phase II: Unmoderated testing
 
+#### Plan: Pilot Testing with Facilities Team
 ### Planning:
 - Desired date range: 03/13/20 - 04/28/20
 - Desired number of unique users: 2
