@@ -147,7 +147,7 @@ _Do we need to merge the FE and BE tasks?_
 
 ## Release Plan
 - [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-- [ ] Review the -deployment policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/deployment-policy.md)
+- [ ] Review the [deployment policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/deployment-policy.md)
 
 ## Consider Deliverables and Artifacts
 - [ ] Ensure that these are noted and [stored](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) for easy access
