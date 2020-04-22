@@ -1,7 +1,3 @@
-# WIP
-
--------
-
 # Analytics needs for Profile 2.0
 
 ## What we have now
