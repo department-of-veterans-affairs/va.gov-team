@@ -304,12 +304,10 @@ Many people feel stress about COVID-19. These steps may help:
 
 - **Stay connected and healthy.** Stay in touch with friends and family by phone and social media. Follow your normal routine as much as possible, and get enough sleep and exercise. 
 - **Keep your existing mental health appointments.** If you currently have regular sessions, [send your provider a secure message](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) to request telehealth visits by phone or video.
-- **Ask for a new mental health appointment.** If you need same-day mental health care, call your local VA health facility.
-
-[Find a VA location](https://www.va.gov/find-locations).
-
-To request a new appointment, you can also:
-  - [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**Note:** This may vary by facility.)
+- **Ask for a new mental health appointment.** If you need same-day mental health care, call your local VA health facility.  
+[Find a VA location](https://www.va.gov/find-locations).  
+To request a new appointment, you can also:  
+  - [Request a phone or video appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/) (**Note:** This may vary by facility.)  
   - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 - **[Get more VA tips for maintaining your mental health](https://www.mentalhealth.va.gov/coronavirus/)**
 - **[Visit the CDC to learn more about managing COVID-19 stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html)**
@@ -387,11 +385,11 @@ If you need to go out to get essential items like groceries and medicines, the b
 
 **Follow these 5 steps to help protect yourself and others—even if you're feeling well:**
 
-**1. Stay at least 6 feet away from others** (called physical distancing).
-**2. Wear a cloth face cover.** Don't wear a mask that's meant for a health care worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
-**3. Avoid anyone who appears sick.**
-**4. Try to wipe down frequently touched items,** like door or shopping cart handles. 
-**5. Wash your hands with soap and water or use hand sanitizer** after you touch items in a store. Avoid touching your face with unwashed hands. 
+1. **Stay at least 6 feet away from others** (called physical distancing).
+2. **Wear a cloth face cover.** Don't wear a mask that's meant for a health care worker. And don't put a face cover on children under 2 or anyone who can't remove the cover themselves.
+3. **Avoid anyone who appears sick.**
+4. **Try to wipe down frequently touched items,** like door or shopping cart handles. 
+5. **Wash your hands with soap and water or use hand sanitizer** after you touch items in a store. Avoid touching your face with unwashed hands. 
 
 #### 35. What steps can I take to protect myself and others? 
 
@@ -427,7 +425,7 @@ CDC recommends that almost everyone wear a cloth face cover when they have to go
 
 #### 37. When will a vaccine be out?
 
-An announcement was made by the NIH (National Institute of Health) on March 16, 2020, about an investigational vaccine. The first dose was given that day. 
+An announcement was made by the NIH (National Institutes of Health) on March 16, 2020, about an investigational vaccine. The first dose was given that day. 
 
 We don't know how long it will take to develop a safe, effective vaccine. At this time, it's very difficult to predict the specific time a vaccine will be available.
 
@@ -664,14 +662,13 @@ Here are the best ways to talk with someone about your specific benefit and clai
 
 [Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
 
-**Appointments for VA benefits and services**
-
+**Appointments for VA benefits and services**  
 Call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
-**Debt related to VA benefits**
+**Debt related to VA benefits**  
 Call the VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET. 
 
-**Education benefit questions**
+**Education benefit questions**  
 Contact our Education Call Center toll-free at [888-442-4551](tel:18884424551), Mon. – Fri., 8:00 a.m. to 7:00 p.m. ET. 
 
 [Or use our online customer service center called IRIS](https://iris.custhelp.va.gov/)
