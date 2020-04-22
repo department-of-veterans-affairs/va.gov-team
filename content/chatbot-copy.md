@@ -579,22 +579,17 @@ benefits and claims
 
 Here are the best ways to talk with someone about your specific health care needs.
 
-**General coronavirus questions**
-
+**General coronavirus questions**  
 Call VA311 at [844-698-2311](tel:18446982311).
 
-**VA health care appointments**
-
+**VA health care appointments**  
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet.
 
-**Local VA health facility hours, services, and questions** 
-
-Check your facility's website for the latest updates and contact information.
-
+**Local VA health facility hours, services, and questions**  
+Check your facility's website for the latest updates and contact information.  
 [Find a VA location](https://www.va.gov/find-locations)
 
-**Online help:**
-
+**Online help:**  
 - [Get information for specific health conditions](https://www.va.gov/health-care/health-needs-conditions/)
 - [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 - [Learn more about getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
@@ -610,20 +605,16 @@ If you have hearing loss, call TTY 800-799-4889.
 
 ### [debt, copays, and related concerns]
 
-**Debt related to VA benefits**
-
+**Debt related to VA benefits**  
 Call our VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
 
-**Debt management information related to VA health care copays**
-
+**Debt management information related to VA health care copays**  
 Call our Health Resource Center at [888-827-4817](tel:18888274817).
 
-**VA-backed home loans**
-
+**VA-backed home loans**  
 Call [877-827-3702](tel:18778273702) to talk with a VA loan technician, Mon. – Fri., 8:00 a.m. to 6:00 p.m. ET.
 
-**Support for homelessness**
-
+**Support for homelessness**  
 Call the National Call Center for Homeless Veterans at [877-424-3838](tel:18774243838) for help 24 hours a day, 7 days a week. You’ll talk privately with a trained VA counselor for free.
 
 **You can also:**
@@ -638,16 +629,13 @@ Call the National Call Center for Homeless Veterans at [877-424-3838](tel:187742
 
 Here are the best ways to talk with someone about your specific mental health needs.
 
-**To find your nearest VA health facility's phone number**
-
+**To find your nearest VA health facility's phone number**  
 Use our website's [**Find VA locations** tool](https://www.va.gov/find-locations). 
 
-**To send a secure message to your provider, you'll need to sign in online to:**
-
+**To send a secure message to your provider, you'll need to sign in online to:**  
 [Send a secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) through My HealtheVet
 
-**To get more information about VA mental health resources**
-
+**To get more information about VA mental health resources**  
 Read more online about [getting started with VA mental health care](https://www.va.gov/health-care/health-needs-conditions/mental-health/)
 
 **To get help now if you or a Veteran you care about is in crisis**
