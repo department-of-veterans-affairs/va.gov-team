@@ -4,12 +4,14 @@
 
 Currently, we have profile analytics in a few of places:
 
-- [This analytics dashboard](https://datastudio.google.com/u/0/reporting/1MEhg3-5vnPBsSc_1wCzh6LByR3RjH92q/page/OoJS?s=vS-iovB_OEo) was created a couple years ago when the 1.0 version of the personlized quite (My VA, Profile, Account) went out. 
-- We also have some analytics in GA for [profile submission data](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/). We may have additional data in GA, but I don't know how to track it down.
+- [Old personalization 1.0 dashboard](https://datastudio.google.com/u/0/reporting/1MEhg3-5vnPBsSc_1wCzh6LByR3RjH92q/page/OoJS?s=vS-iovB_OEo)
+- [Profile submission data](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
 - [Direct deposit dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
 - [Address validation dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
 ## What need
+
+We need some general stats on profile views/behavior at a high level, and then we need to add or consolidate some other analytics in one or more dashboards. We likely already have tracking for most of the analytics we want and just need to get those stats into a consolidated dashboard(s).
 
 - High level profile stats
 - A dashboard for of the following:
