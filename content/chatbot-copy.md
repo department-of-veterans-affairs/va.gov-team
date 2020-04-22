@@ -50,7 +50,7 @@ Please choose the topic that best fits your needs.
 
 ------
 
-### 30. > 33. Coronavirus COVID-19 prevention
+### 30. > 33. COVID-19 prevention
 
 **What question can we answer for you first?**
 
