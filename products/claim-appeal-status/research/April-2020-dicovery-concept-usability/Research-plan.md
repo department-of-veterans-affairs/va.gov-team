@@ -92,7 +92,7 @@ What other opportunities lie within this tool?
 
 
 
-#### Methods
+## Methods
 
 - Previous research review
 - Competitive analysis
@@ -103,7 +103,7 @@ What other opportunities lie within this tool?
 
 
 
-#### Next steps
+## Next steps
 
 - Complete a previous research / work review.
 - Complete a comparative analysis.
@@ -121,7 +121,7 @@ What other opportunities lie within this tool?
 - Synthesize research
 
 
-### Research synthesis
+## Research synthesis
 
 - A report that summarizes the Previous Research Review and the Competitive analysis.
 - A report from any quantitative analysis.
