@@ -5,7 +5,7 @@
 ## Phase I: HCA Website Performance Testing
 
 ### Planning:
-- Desired date range or test duration: Feb 2020 - Ongoing
+- Desired date range or test duration: Feb 2020 - March 2020
 - Desired number of users: 2 Users
 - How you'll conduct the testing: Create a full team setup of performance metrics for HCA Team including performance budgets and setting up alerts in Slack
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
