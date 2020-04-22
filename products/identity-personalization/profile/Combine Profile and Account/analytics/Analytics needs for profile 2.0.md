@@ -83,6 +83,7 @@ We are likely capturing this email in analytics already, but I would love to hav
 - Clicks of Verify your identity
 - Clicks of Set up 2-factor authentication
 - Clicks of Go to the terms and conditions for health tools
+- Clicks of "Go to VA.gov FAQ"
 
 ### Connected apps
 
