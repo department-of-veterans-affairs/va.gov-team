@@ -56,6 +56,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
+      - [Find Forms MVP](#find-forms-mvp)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -748,7 +749,7 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 ### Covid-19 Resources (VSA Public Websites)
 
 **Audit status:** review TBD — content is launching without review due to emergency status
-** Closed issues:** TBD
+**Closed issues:** TBD
 
 * [[DOCUMENTS]: Documents MUST be accessible, Covid Links and Resources PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8172)<br/>**Production** | **Opened:** April 20, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 
@@ -758,6 +759,31 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 ! setting this as a 2.
 ```
 
+---
+### Find Forms MVP
+
+**Audit status:** _Staging review completed by VSA, April 22, 2020._<br/>
+**Closed issues:** TBD
+
+* [[#8248 components, design system [SCREENREADER] Aside MUST not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8248)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+* [[#8250 sitewide [AXE-CORE]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+* [[#8252 CMS [COGNITION]: Headings MUST look like headings, links MUST look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8252)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+* [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+* [[#8254 design system, components [KEYBOARD]: Focus outline MUST be visible around focused content, pagination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8254)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
+
+* [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [[#8257 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8257)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [[#8265 [COGNITION, SCREENREADER]: CONSIDER adding the word "Enter" to the label for the form input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8265)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 ### New Project Name
