@@ -163,7 +163,4 @@ Multiple stakeholders also named companies who offer personalized experiences th
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/conversation-guide-stakeholders.md)
 - [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews)
-
 - [Mural board used for synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
-
-- https://app.mural.co/t/vsa8243/m/vsa8243/1585670923656/bff24beab7f02c50650b7d6f358a09399c2d6799)
