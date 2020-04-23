@@ -16,14 +16,15 @@ Q: How do we intentionally reflect on the measurable impact of our work? How do 
 ## First Fridays - Initiative Impact Review: 
 
 Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward.
-Who attends? 
-- DEPO leads, VSA Practice leads, DEPO team leads, VSA PMs
-What happens?
-- The VSA PM debriefs the team on a launched initiative:
-    - Problem
-    - Solution Approach / Hypotheses
-    - Results for Veteran, Business, Technology
-    - Recommendations
+
+- Who attends? 
+  - DEPO leads, VSA Practice leads, DEPO team leads, VSA PMs
+- What happens?
+  - The VSA PM debriefs the team on a launched initiative:
+      - Problem
+      - Solution Approach / Hypotheses
+      - Results for Veteran, Business, Technology
+      - Recommendations
 - When will this happen?
     - First Friday of each month
 - How do we get started?
