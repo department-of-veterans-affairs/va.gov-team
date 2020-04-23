@@ -16,6 +16,8 @@
 | April 30 | Acumen endpoint delivery | |
 | May 1 | Finalize VSP Staging Review |
 | May 4 | VSP Contact Center Review | |
+| May 5 | Review Platform feedback with Program team
+| May 11 | Frontend complete
 | May 15 | Backend complete | |
 | May 18 | VSP Privacy and Security Review | |
 | May 18 - May 22 | End-to-end testing with CARMA | |
