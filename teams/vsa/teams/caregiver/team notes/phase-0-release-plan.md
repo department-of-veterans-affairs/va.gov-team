@@ -5,17 +5,19 @@
 - [Soft Release Definition](#soft-release-definition) 
 - [Phase 0 User Stories](#user-stories)
 
-## Draft Timeline
+## In-Progress Timeline
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
-| April 10 | Content and design complete* | [Completed on 4/16](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
-| April 14 | VSP Analytics request | [Completed on 4/16](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
-| April 23 | Frontend complete | |
+| April 16 | Content and design complete* | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
+| April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
+| April 23 | End-to-end payload validation testing with CARMA | Completed| 
+| April 24 | Frontend complete | |
+| April 27 | Submit VSP Staging Review Request
+| May 1 | Finalize VSP Staging Review |
 | April 30 | Acumen endpoint delivery | |
 | May 4 | VSP Contact Center Review | |
 | May 15 | Backend complete | |
 | May 18 | VSP Privacy and Security Review | |
-| May 18 | VSP Staging Review | |
 | May 18 - May 22 | End-to-end testing with CARMA | |
 | May 27 | Dry Run Release| |
 | May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
