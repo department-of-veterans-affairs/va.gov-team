@@ -14,7 +14,7 @@
 | April 24 | Frontend complete | |
 | April 27 | Submit VSP Staging Review Request
 | April 30 | Acumen endpoint delivery | |
-| May 1 | Finalize VSP Staging Review |
+| May 1 | VSP Staging Review complete |
 | May 4 | VSP Contact Center Review | |
 | May 5 | Review Platform feedback with Program team
 | May 11 | Frontend complete
