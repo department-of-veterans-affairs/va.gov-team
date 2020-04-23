@@ -20,7 +20,7 @@ The service member to veteran transition is seamless.
 To move us towards this vision, our current mission is to create a logged in experience on VA.gov that:
 
 - Differentiates itself from the logged out experience.
-- Elevates what we know about veterans and their communities throughout the site so the information tells a story.
+- Elevates veteran data so that it tells a story.
 - Consolidates personal/benefit data so that it doesn't feel silo'd.
 - Guides veterans and their communities towards tasks and tools they need/want to complete.
 - Serves up status updates/alerts/action items in a way that makes it easy to act on this information.
