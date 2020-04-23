@@ -119,4 +119,7 @@ We will work in a discovery sprint then four different phases:
 ### Current Status
 - Local and Playground Buildout
 
+## Timeline 
+![timeline for Ifra recommit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/infrastructure_recommit/images/infra_recommit_timeline.png)
+
 
