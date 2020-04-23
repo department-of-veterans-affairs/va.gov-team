@@ -1,7 +1,6 @@
 # Claim and Appeal Status Tool
 
 ## Communications
-# 526 Original Claims on va.gov 
 - GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a (#vsa-benefits-memorials)
 - Product POCs: Andrea Schneider and Luke Majewski
