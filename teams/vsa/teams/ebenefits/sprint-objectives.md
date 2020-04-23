@@ -10,7 +10,7 @@
 ----
 ## Sprint 20 (4/22 - 5/5)
 ```diff
-- # points over # issues
+- 50 points over 15 issues
 ```
 ## 1. Prepare "Dependency Claims" for pre-launch
 - FE: Standardize 686 launch infrastructure and form code to match other forms on platform
