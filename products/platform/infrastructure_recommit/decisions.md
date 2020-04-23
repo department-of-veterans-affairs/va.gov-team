@@ -25,3 +25,9 @@ In this document we will talk through any decisions that where made, why we made
 | Do we want to use Datadog for our monitoring or stay with our current setup. | VSP Operations and stakeholders|  
 | What logging choice do we want to go with? |  VSP Operations and stakeholders|
 |  |  |
+
+
+## Timeline
+![timeline for Ifra recommit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/infrastructure_recommit/images/infra_recommit_timeline.png)
+
+
