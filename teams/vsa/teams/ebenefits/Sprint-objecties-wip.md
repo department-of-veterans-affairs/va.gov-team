@@ -21,8 +21,8 @@
 =======================
 
 ## 2. Payments, POA, PCPG: Design Iteration
-- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
-needs to wait until research and recommendations are done
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed  
+_needs to wait until research and recommendations are done_
 
 ## 3. VRE (CH31): Initial Designs
 - Product: Update product documentation in feature README
