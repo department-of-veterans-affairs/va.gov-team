@@ -11,7 +11,7 @@
 - Research: Continue research sessions and prep synthesis doc
 - Design: Iterate on product designs for PCPG
 
-## 3. VRE (CH31): Initial Designs
+## 3. VRE (CH31): Initial Documentation
 - Product: Update product documentation in feature README
 - Product and Design: Schedule collab Cycle Kickoff
 
