@@ -9,21 +9,21 @@ In the event of an incident, this document should serve as a useful guide for wh
 
 ## Services by Feature
 ### BGS
-- View, add or remove dependents
+- **View, add or remove dependents**
   - Static landing page: https://www.va.gov/view-change-dependents
   - View dependents: https://www.va.gov/view-change-dependents/view
   - Add or remove dependents: https://www.va.gov/view-change-dependents/add-remove-form-686c/
-- View my representative
+- **View my representative**
   - Static landing page: TBD
   - View representative: TBD
-- View my payment history
+- **View my payment history**
   - Static landing page: TBD
 
 ### EVSS
-- View my rated disbailities
+- **View my rated disbailities**
   - Static landing page: https://www.va.gov/disability/view-disability-rating/
   - View disbaility rating: https://www.va.gov/disability/view-disability-rating/rating
 
 ### None
-- Personalized career planning and guidance (PCPG, CH36)
+- **Personalized career planning and guidance (PCPG, CH36)**
   - Static landing page: TBD
