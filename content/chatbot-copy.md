@@ -38,13 +38,13 @@ Get answers to your questions about the coronavirus and VA benefits and services
 
 Please choose the topic that best fits your needs.
 
-[COVID-19 prevention](Go to 30 > 33) <br>
-[COVID-19 testing at VA](Go to 31) <br>
-[My current COVID-19 symptoms (CDC self-checker tool)](Go to 39 > 3) <br>
-[Health care, appointments, and prescriptions](Go to 5 > 9) <br>
-[Debt, copays, and other financial concerns](Go to 32 > 46) <br>
-[Benefits and claims](Go to 7 > 11) <br>
-[Anxiety and related concerns](Go to 6 > 10) <br>
+[COVID-19 prevention](Go to 30 > 33)  
+[COVID-19 testing at VA](Go to 31)  
+[My current COVID-19 symptoms (CDC self-checker tool)](Go to 39 > 3)  
+[Health care, appointments, and prescriptions](Go to 5 > 9)  
+[Debt, copays, and other financial concerns](Go to 32 > 46)  
+[Benefits and claims](Go to 7 > 11)  
+[Anxiety and related concerns](Go to 6 > 10)  
 
 **Note:** If you want to choose another topic later, you can come back to this list to ask a different question. And if we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
 
@@ -89,7 +89,7 @@ To ask about testing, you can [send a secure message](https://www.myhealth.va.go
 
 **CDC coronavirus self-checker tool**
 
-With this tool, CDC's chatbot guide, "**Clara**," will help you decide when to seek medical care. If you'd like to come back to the VA coronavirus chatbot to choose another topic, you can refresh the page to start over. <br>
+With this tool, CDC's chatbot guide, "**Clara**," will help you decide when to seek medical care. If you'd like to come back to the VA coronavirus chatbot to choose another topic, you can refresh the page to start over.  
 [Go to the CDC coronavirus self-checker](go to self-checker)
 
 _[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/content) for content within self-checker tool]_
@@ -561,12 +561,12 @@ Talk with someone about my specific needs [go to 48]
 
 Nothing. I have the information I need. [go to 49]
 
-[shortened topic name list] <br>
-testing <br>
-prevention <br>
-health care <br>
-VA response <br>
-mental health <br>
+[shortened topic name list]  
+testing  
+prevention  
+health care  
+VA response  
+mental health  
 benefits and claims
 
 -----

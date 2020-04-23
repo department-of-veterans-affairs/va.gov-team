@@ -47,7 +47,7 @@ If you'd like to get more answers to questions about COVID-19 and VA benefits an
 
 **If you decide to go to a VA facility for urgent care**
 
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility.  
 [Find a VA location](https://www.va.gov/find-locations)
 
 Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
@@ -81,7 +81,7 @@ We're taking many precautions to help protect Veterans in our VA nursing homes. 
 
 **If you decide to go to a VA facility for urgent care**
 
-**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility. <br>
+**Please contact us first.** You can send a [secure message to your provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or call your facility’s advice nurse before going to a clinic or walk-in urgent care facility.  
 [Find a VA location](https://www.va.gov/find-locations)
 
 Please don't go to the ER for nonmedical emergencies. This helps us protect you, other patients, and our staff from community spread of the coronavirus COVID-19 and address critical medical needs first during this time. 
