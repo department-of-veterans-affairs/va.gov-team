@@ -41,3 +41,26 @@ Next Steps
 * Noodle on potential hypotheses
 * Make legacy rate pages into PDFs; link to the PDFs, hosted by us; redirect those 2 legacy years pages to our current rates page
 
+## Status/Decisions
+
+### 4/22/20
+__This approach should be used for the other cloned historic rate pages.__
+
+- Enable the menu.
+- Treat the historic page as a level 4 (i.e., a child of the 2020 rates page).
+- Make the menu/nav label shorter than the H1 (e.g., "Historic 2019 rates" in nav)
+- See example of level 4 menu behavior: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/ -- This is the desired pattern if these steps work and there are no menu bugs.
+
+This approach is for the interim/short term; we will evaluate all L4+ nav behaviors more holistically during L4 work.
+FYSA @DanielleThierryUSDSVA @johnhashva
+
+
+__From Mikki:__
+URL pattern for these historic rates pages, since they will be sitting as a child to the current rates, can be simplified and structured as: __/historic-rates-2019__
+
+Full URL: /disability/compensation-rates/veteran-rates/historical-rates-2019
+
+Reference ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6937#issuecomment-617983344
+
+
+
