@@ -13,8 +13,8 @@
 | April 23 | End-to-end payload validation testing with CARMA | Completed| 
 | April 24 | Frontend complete | |
 | April 27 | Submit VSP Staging Review Request
-| May 1 | Finalize VSP Staging Review |
 | April 30 | Acumen endpoint delivery | |
+| May 1 | Finalize VSP Staging Review |
 | May 4 | VSP Contact Center Review | |
 | May 15 | Backend complete | |
 | May 18 | VSP Privacy and Security Review | |
