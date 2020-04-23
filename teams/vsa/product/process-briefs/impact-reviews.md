@@ -29,3 +29,4 @@ Every initiative—a new feature, a product launch, technical improvements—wra
     - First Friday of each month
 - How do we get started?
     - [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
+    - The [VSA Product Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=1522365621) should contain the data you need to present
