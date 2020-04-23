@@ -1,11 +1,14 @@
 # eBenefits Incident Response Plan 🔥
 In the event of an incident, this document should serve as a useful guide for what to do and when. 
 ## Roles and Responsibilities
-- Steve Kovacs, [#vsa-ebenefits](https://dsva.slack.com/archives/CLY6Q69RV) - DEPO Lead
-- Jason Wolf, [#vsa-ebenefits](https://dsva.slack.com/archives/CLY6Q69RV) - Product Manager
-- Kathleen Crawford, [#vsa-ebenefits](https://dsva.slack.com/archives/CLY6Q69RV) - Backend Engineer
-- Derek Dyer, [#vsa-ebenefits](https://dsva.slack.com/archives/CLY6Q69RV) - Backend Engineer
-- [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+| [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  | [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  |
+|---|---|
+| Steve Kovacs, DEPO Lead
+Jason Wolf, Product Manager
+Kathleen Crawford, Backend Engineer
+Derek Dyer, Backend Engineer  |   |
+
+
 
 ## Services by Feature
 ### BGS
