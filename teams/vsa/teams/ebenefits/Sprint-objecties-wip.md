@@ -3,7 +3,7 @@
 ## 1. Prepare "Dependency Claims" for pre-launch
 - FE: Standardize 686 launch infrastructure and form code to match other forms on platform
 - BE: Implement final API endpoint, Pre-Fill, and begin unit testing
-- Product: FE user story smoke test `*`
+- Product: FE user story smoke test
 - Design: Create Reserch Plan and Conversation Guide
 - Team: Set critical dates for launch activities (e2e testing, load testing, usability, UAT, n% rollout)
 
