@@ -35,7 +35,7 @@ Originally this applciation was on eBenefits. The VA.gov version addressed the p
 Provide a rich "status" experience that does not leave the veteran guessing as to either when or what is next in their appeal.  Also, take advantage of any additional details available in the VBMS or Corp DB.
 
 ### Business Goals
-
+  - Reduce the number of calls to the call center
 
 ## Assumptions
 We have a number of initial hypotheses and assumptions about the direction the tool should take in this next iteration. This product outline is meant to capture our perspective from a "greenfield" or "blue sky" starting point. Our most basic assumptions around the direction of this product can be captured simply by:
@@ -46,17 +46,17 @@ We have a number of initial hypotheses and assumptions about the direction the t
 - The main issues for veterans will be detailed status and some sort of timeframe for their claim/appeal adjudication
 
 ## Questions
-
-## Requirements
-#### In Scope 
-
-#### Out of Scope
+Please see [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability/Research-plan.md)
 
 ## Solution Approach
+In work but essentially we are taking a "greenfield" approach to see what is possible.
 
 ## Value Propositions
+The Claim Status Tool was launched approximately 3 years ago and only minor changes have been done since. The claim status tool is a priority to improve, as it is used frequently by millions of veterans (it is not uncommon for veterans to check their claim status several times a week). We see this as an opportunity to create a great user experience for veterans using and depending on this tool. Very little research has been done on the claim status tool. What has been done is shared here: [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 
 ## KPIs
+  - Reduce the number of call center calls by 75%
+  - Increase the number of status message granularity by 75%
 
 ---
 
@@ -69,14 +69,14 @@ We have a number of initial hypotheses and assumptions about the direction the t
 ## Product Decisions
 
 ## Team
-
 - VA Digital Strategist(s): Andrea Schneider and Luke Majewski
 - Product Manager: Luke Majewski 
 - Research Lead: Christian Valla
 - Design Lead: Kevin Stachura
-- Engineers:
+- Engineers: Anna Carey, Sarah-Jaine Szekeresh, Robin Garrison, Nick Sprinkle
    
 ## Screenshots
+
 
 ### Before
 
