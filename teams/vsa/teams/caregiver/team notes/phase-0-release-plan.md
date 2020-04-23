@@ -1,11 +1,11 @@
 # 10-10CG Phase 0 Release Plan
 
-- [Draft Timeline](#draft-timeline)
+- [Timeline](#timeline)
 - [Dark Release Definition](#dark-release-definition)
 - [Soft Release Definition](#soft-release-definition) 
 - [Phase 0 User Stories](#user-stories)
 
-## In-Progress Timeline
+## Timeline
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
 | April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
@@ -26,6 +26,8 @@
 
 
 `+` As defined by the Program team
+
+For more information on the VSP (VA.gov Platform) Collaboration touchpoints, please see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md).
 
 ## Dark Release Definition
 (as of 4/15/20)
