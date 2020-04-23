@@ -1,7 +1,8 @@
 # Product Team tools
 
 ## Sprint Report tool
-
+<details>
+  
 ### Common commands
 
 These are some common commands you might find useful:
@@ -26,3 +27,5 @@ These are some common commands you might find useful:
 3. Run the sprint report tool - `ruby sprint-report.rb` and follow the prompts
 4. Open up the new sprint-report.html file with your issues
 5. Paste your issues into your sprint report. You'll still need to indicate which epics your tickets belong to.
+
+</details>
