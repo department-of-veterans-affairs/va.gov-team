@@ -128,3 +128,9 @@ The topics of information covered by the COVID-19 chatbot met participant's expe
  - There is not a question before the "I agree" and "I don't agree" buttons so it is not clear what the user is agreeing to.
  - In the intro message, it says this is only meant for people in the United States. "Why then does it ask if you live in the US?" one participant asked.
  - "Are you ill, or caring for someone who is ill?" some participants questioned the definition of "ill" and if it was specific to COVID symptoms.
+
+## Future research
+- There is an opportunity to conduct research around the discoverability of the chatbot on va.gov to inform link placement and calls to action.
+- Throughout our testing, some participants have expressed a desire to input free text. Further research should be conducted to better understand users' expectations for free text entry.
+- Our decision to put the chatbot on a standalone page vs some type of overlay or chat window was driven by the need to link from a variety of sources, timeline, technical considerations, and accessibility. Research to include user input in this decision will inform future iterations.
+- After launch, monitoring analytics will help identify opportunities to use user research to better understand behaviors we are observing.
