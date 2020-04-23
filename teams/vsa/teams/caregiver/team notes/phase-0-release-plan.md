@@ -8,7 +8,7 @@
 ## In-Progress Timeline
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
-| April 16 | Content and design complete* | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
+| April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
 | April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
 | April 23 | End-to-end payload validation testing with CARMA | Completed| 
 | April 24 | Frontend complete | |
@@ -24,7 +24,6 @@
 | June 1 | VSP Full Accessibility and 508 Office Audit | |
 | July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
 
- `*` Risk - this is still in progress, and could take additional time to reach agreement
 
 `+` As defined by the Program team
 
