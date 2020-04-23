@@ -22,6 +22,7 @@ Global unauthenticated experience team for VA.gov.
 **Product Portfolio:**
 
 - Facility Locator 
+- VAMC template
 
 **Responsibilities:**
 Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities and basic benefit eligibility 
