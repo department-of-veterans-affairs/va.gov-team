@@ -8,8 +8,6 @@ Jason Wolf, Product Manager
 Kathleen Crawford, Backend Engineer
 Derek Dyer, Backend Engineer  |   |
 
-
-
 ## Services by Feature
 ### BGS
 - **View, add or remove dependents**
