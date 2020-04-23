@@ -33,16 +33,14 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 ________________________________________
 
 **Team Members**
-- VA Digital Strategist(s): Andy Lewandowski, David Conlon
-- VA Data API: David M
+- VA Product Owner: David Conlon
+- VA Data API: David Mazik
 - Product Manager: Michelle Middaugh
-- VA UI Design Lead: Ryan
+- VA UI Design Lead: Ryan Thurlwell
 - UX/Design: Aricka Lewis
-- Eng Lead:
 - Back End Engineer: Lance Sanchez
 - Front End Engineer: Gilbran Rodriguez
-- VA Researcher(s): 
-- DevOps Engineer: Cameron Testerman
+- Drupal Engineer: Ethan Teague
 
 **Workflow + Cadence**
 
