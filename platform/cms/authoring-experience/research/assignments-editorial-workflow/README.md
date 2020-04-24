@@ -76,4 +76,4 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 * Readout/Results
 
 ------
-Research plan approved not yet approved
+_Research plan approved by Jeff Barnes on April 24, 2020._
