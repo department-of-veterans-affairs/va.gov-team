@@ -2,7 +2,7 @@
 
 ### Ask yourself the questions below weekly, starting from Day 1.
 
-This checklist is for you to gut check that you've taken all of the steps necessary for your new platform tool, service, or feature to be successful for us and for VFS teams. You won't have answers to all of these questions right away, and some you'll want to take action on multiple times, but you should check in regularly to make sure these things are happening iteratively over the lifetime of the thing you're creating and maintaining.
+This checklist is for you to gut check that you've taken all of the steps necessary for your new platform tool, service, or feature to be successful. You won't have answers to all of these questions right away, and some you'll want to take action on multiple times, but you should check in regularly to make sure these things are happening iteratively over the lifetime of the thing you're creating and maintaining.
 
 ---
 
