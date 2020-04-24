@@ -65,7 +65,6 @@ For more information on the VSP (VA.gov Platform) Collaboration touchpoints, ple
 | Business will be able to: | 
 | Verify veteran identity through MPI and ICN number | n/a| :zap: |
 | Recieve application in CARMA immediately | n/a | :no_entry_sign:|
-| Ensure a valid address was entered | n/a| :zap: |
 | Recieve a paper version of the 10-10CG with filled in information | n/a | :zap: |
 
 
