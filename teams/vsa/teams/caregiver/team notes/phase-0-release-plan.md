@@ -11,18 +11,18 @@
 | April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
 | April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
 | April 23 | Payload validation testing with CARMA in QA/Dev | Completed| 
-| April 24 | First draft  frontend complete | |
-| April 27 | Submit VA.gov Platform Staging Review Request
-| April 30 | Acumen Staging endpoint delivery | |
-| May 1 | VA.gov Platform Staging Review complete |
-| May 4 | Staging demo - review VA.gov Platform feedback with Program team
-| May 4-8 | Program team reviews Staging functionality and provides additional feedback | 
-| May 15 | Frontend complete |
-| May 15 | Backend complete | |
-| May 18 | VA.gov Platform Privacy and Security Review | |
-| May 18 - May 22 | Dark Release functionality testing with CARMA| |
+| April 24 | First draft  frontend complete | On track|
+| April 27 | Submit VA.gov Platform Staging Review Request | On track |
+| April 30 | Acumen Staging endpoint delivery |  |
+| May 1 | VA.gov Platform Staging Review complete | On track |
+| May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
+| May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
+| May 15 | Frontend complete | On track
+| May 15 | Backend complete | On track
+| May 18 | VA.gov Platform Privacy and Security Review | On track
+| May 18 - May 22 | Dark Release functionality testing with CARMA| On track
 | May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
-| June 1 | VA.gov Platform Full Accessibility and 508 Office Audit | |
+| June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
 | July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
 
 
