@@ -712,10 +712,6 @@ Each application or logical section of the site will have a heading and a detail
 
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**<br/>
-- [[KEYBOARD]: VAOS - Upcoming and past appointment tabs MUST handle keyboard navigation and data properly - #8157](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8157)<br/>
-  **Opened:** April 17, 2020 | **Severity:** 508-defect-1 - **_Critical_**
-- [[COGNITION]: VAOS - Tabs MUST have hover and focus states for navigation and usability - #8111](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8111)<br/>
-  **Opened:** April 17, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 - [[COGNITION]: VAOS - Past appointments filter MUST have a submit button or clear instructions - #8112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8157)<br/>
   **Opened:** April 17, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[ZOOM]: VAOS - CONSIDER Upcoming appointments tab goes to two lines at 400% - #8134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8134)<br/>
