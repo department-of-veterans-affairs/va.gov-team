@@ -10,5 +10,5 @@ After completing our card sorting activity, we conducted usability testing with 
 - **Early April:** Present results to VA stakeholders.
 
 ## Documents
-- [Usability conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20conversation%20guide.docx)
+- [Usability conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20conversation%20guide.pdf)
 - [Usability test report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.docx)
