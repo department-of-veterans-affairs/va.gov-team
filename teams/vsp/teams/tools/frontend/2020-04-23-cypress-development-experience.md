@@ -87,6 +87,11 @@ Currently cypress doesn't support file uploads natively, but this can be done [p
 ### Accessibility
 Just like most e2e tools, cypress has its own [axe-core plugin](https://github.com/avanslaars/cypress-axe) to test accessibility.
 
+### Mobile Testing
+Cypress allows you to dynamically change the [viewport](https://docs.cypress.io/api/commands/viewport.html#Syntax) of the window directly in tests. This means we can test various screen sizes in the same testing suite without needing to exit and change the viewport manually. Conveniently, there are already [preset viewports](https://docs.cypress.io/api/commands/viewport.html#Arguments) based on real devices.
+
+Nightwatch also supports this [functionality](https://nightwatchjs.org/api/windowSize.html#apimethod-page), but cypress' syntax is a bit cleaner, and comes with more options, including the presets mentioned earlier.
+
 ### Syntax
 
 Because [cypress has adopted](https://docs.cypress.io/guides/references/bundled-tools.html#Mocha) `mocha`'s syntax, tests are cleaner and more organized than they are in `v0.9` of `nightwatch`. Developer's on the platform will be used to this because we already use `mocha` for our unit tests. Nightwatch has also introduced the bdd interface in [v1.3](https://nightwatchjs.org/guide#using-bdd-describe-beta-).
