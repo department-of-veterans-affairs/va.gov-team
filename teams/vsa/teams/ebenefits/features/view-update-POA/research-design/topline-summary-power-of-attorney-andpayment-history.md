@@ -2,13 +2,13 @@
 
 Prepared by: Nick Wygonik, eBenefit
 
-[Research plan] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/poa-payment-history-research-plan.md) 
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/poa-payment-history-research-plan.md) 
 
-[Conversation guide]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md) 
 
-[Session Notes]( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes) 
+[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes) 
 
-[Mural Board]( https://app.mural.co/t/vsa8243/m/vsa8243/1586894114068/61c321a566e2ed2b80f46becc7b8aa5a31c02ec8) 
+[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1586894114068/61c321a566e2ed2b80f46becc7b8aa5a31c02ec8) 
 
 This topline summary is a result of the synthesis that happens after conducting/observing research sessions. This is a high level summary of trends and analysis, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
@@ -94,6 +94,20 @@ The Veteran will also like to view only the last several (5-10) payments/returns
 - Hypothesis is false.
 - Participants did not wish to see a set amount or grouping of payments.   They favored the payment table to be in chronological order, with the most resent payment at top of the ledger.
 
+### Power of Attorney
+**Participants will not be able to find the Power of Attorney form on VA.gov**
+- True
+- 0-10 participants were able to find the Power of Attorney Form 21-22.
+
+### Payment History
+**Participants will not be able to locate the Payment History feature on VA.gov**
+- False
+- 9-10 participants were able to navigate to the Payment History feature
+
 ## Other Findings
 **Multiple participants requested to have ‘Military Sexual Trauma’ (MST) added to the limited compensation step of the Power of Attorney Form.**
 > find statement
+
+**Participants associated the terms Diabltiy and Records as areas to locate Power of Attorney**
+
+
