@@ -12,18 +12,18 @@
 | April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
 | April 23 | End-to-end payload validation testing with CARMA | Completed| 
 | April 24 | Frontend complete | |
-| April 27 | Submit VSP Staging Review Request
-| April 30 | Acumen endpoint delivery | |
-| May 1 | VSP Staging Review complete |
+| April 27 | Submit VA.gov Platform Staging Review Request
+| April 30 | Acumen endpoint delivery for sraging | |
+| May 1 | VA.gov Platform Staging Review complete |
 | May 4 | Review Platform feedback with Program team
 | May 4-8 | Program team reviews Staging code and provides remaining feedback | 
 | May 15 | Frontend complete|
 | May 15 | Backend complete | |
-| May 18 | VSP Privacy and Security Review | |
+| May 18 | VA.gov Platform Privacy and Security Review | |
 | May 18 - May 22 | End-to-end testing with CARMA (form submission --> Salesforce) | |
 | May 27 | Dry Run Release| |
 | May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
-| June 1 | VSP Full Accessibility and 508 Office Audit | |
+| June 1 | VA.gov Platform Full Accessibility and 508 Office Audit | |
 | July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
 
 
