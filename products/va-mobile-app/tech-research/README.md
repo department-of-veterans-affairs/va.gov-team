@@ -8,8 +8,6 @@ In other words, the bets are initial recommendations about how the VA could buil
 
 ## Bet: React Native provides the best balance between organizational viability and technical feasibility
 
-### Activities and Output
-
 | Activites                  | Output        |  
 | -------------              |-------------|
 |Build React Native app |React Native Prototype App | 
@@ -19,7 +17,6 @@ In other words, the bets are initial recommendations about how the VA could buil
 
 ## Bet: Login can be accomplished by enabling the VA.gov-centric part of vets-api to accept OAuth
 
-### Activites and Output
 | Activites                  | Output        |  
 | -------------              |-------------|
 |Document ID.me/Okta mobile OAuth flow including what is missing and how those gaps will be filled |(1) Identify existing tickets (2) Create new tickets (3) Tech solution plans
