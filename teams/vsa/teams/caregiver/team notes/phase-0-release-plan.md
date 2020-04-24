@@ -15,12 +15,12 @@
 | April 27 | Submit VSP Staging Review Request
 | April 30 | Acumen endpoint delivery | |
 | May 1 | VSP Staging Review complete |
-| May 4 | VSP Contact Center Review | |
-| May 5 | Review Platform feedback with Program team
-| May 11 | Frontend complete
+| May 4 | Review Platform feedback with Program team
+| May 4-8 | Program team reviews Staging code and provides remaining feedback | 
+| May 15 | Frontend complete|
 | May 15 | Backend complete | |
 | May 18 | VSP Privacy and Security Review | |
-| May 18 - May 22 | End-to-end testing with CARMA | |
+| May 18 - May 22 | End-to-end testing with CARMA (form submission --> Salesforce) | |
 | May 27 | Dry Run Release| |
 | May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
 | June 1 | VSP Full Accessibility and 508 Office Audit | |
