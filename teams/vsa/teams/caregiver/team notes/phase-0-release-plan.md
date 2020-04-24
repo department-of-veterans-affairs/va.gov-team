@@ -15,7 +15,7 @@
 | April 27 | Submit VA.gov Platform Staging Review Request
 | April 30 | Acumen endpoint delivery for staging | |
 | May 1 | VA.gov Platform Staging Review complete |
-| May 4 | Review Platform feedback with Program team
+| May 4 | Review VA.gov Platform feedback with Program team
 | May 4-8 | Program team reviews Staging code and provides remaining feedback | 
 | May 15 | Frontend complete|
 | May 15 | Backend complete | |
