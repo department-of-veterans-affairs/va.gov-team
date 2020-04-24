@@ -13,4 +13,4 @@ Our initial discovery into *Technical Feasibility* was broken out into two phase
 
 - **Evaluate Approaches and Frameworks:** Feb 28 - March 9, 2020
 - **Experiment with Approachces and Frameworks:** March 9 - March 20, 2020
-- **Recommend Framework to Validate Further** March 23 - April, 2010
+- **Recommend Framework to Validate Further:** March 23 - April, 2010
