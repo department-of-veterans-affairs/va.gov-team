@@ -66,9 +66,18 @@ In some cases, it can be acceptable to start implementation in this phase, once 
 > **Tip**: when you’re trying to get final approvals after a few rounds of review, directly ping reviewers and ask: "what else needs to be changed to get your sign-off?"
 
 
+### Planning
+
+Once docs are approved by all reviewers (with review approval in GitHub, or filling in the approval "[x]"), commit the design doc to GitHub. You can begin planning your implementation!
+
+Using your team's planning process, plan and document work items, whether that's epics in ZenHub, tickets in GitHub, or user stories captured elsewhere. Work items should flow directly from your design doc's "detailed design"; if the design doc is detailed enough, it should be easy to transform your detailed design into a high-level list of tasks to build out the project.
+
+
 ### Implementation
 
-Once docs are approved by all reviewers (with review approval in GitHub, or filling in the approval "[x]"), commit the design doc to GitHub. You can begin implementation!
+Go and build! Reference the design doc as needed for decisions that have already been made.
+
+Sometimes roadblocks will arise during implementation that were not anticipated in the design doc. This is a good time to revisit the design doc and propose new changes as appropriate. While this doesn't require a full re-review and re-approval, use your judgment on whether the changes you propose would affect your approvers and discuss your new decisions with them as appropriate. Keeping the design doc updated with major changes in decisions or approach will keep it a relevant record for future reference.
 
 
 ## Templates
