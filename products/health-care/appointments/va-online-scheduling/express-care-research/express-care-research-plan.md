@@ -104,7 +104,7 @@
    **Week 2**
 
    Monday May 4, 9:30 - 1 PM EST, 2 - 7PM EST
-   Tuesday May 5, 9:30 - 1 PM EST, 2 - 7PM EST
+   Tuesday May 5, Unavailable
    Wednesday May 6, 9:30 - 1 PM EST, 2 - 7PM EST
    Thursday May 7, 9:30 - 1 PM EST, 2 - 7PM EST
    Friday May 8, 9:30 - 1 PM EST, 2 - 7PM EST
