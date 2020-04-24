@@ -33,7 +33,7 @@ Within the hypothesis are a series of bets that we are making about what, why an
 NOTE: Our bets evolve as we learn from our research. What is documented here are the bets that came out of the discovery sprint.
 
 ## Activites and Output
-To validate or invalidate these bets, we are conducting both [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md) and [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research). While the UX research aims to answer the *what* and *why* guiding questions, the technical research is focused on the *how* question. Each track of research has a set of activites to test bets and corresponding outputs that will communicate the findings. 
+To validate or invalidate these bets, we are conducting both [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md) and [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research). While the UX research aims to answer the *what* and *why* guiding questions, the technical research is focused on the *how* question. Each track of research has a set of activites to test the bets and corresponding outputs that will communicate the findings. 
 
-## Output
+## Outcome
 Using these findings we will determine whether the bet was right and if not, use what we learned to pivot. The goal is to conduct these activites in a way that gets us closer to answering our guiding questions and determining if 2020 is the year VA builds an app!
