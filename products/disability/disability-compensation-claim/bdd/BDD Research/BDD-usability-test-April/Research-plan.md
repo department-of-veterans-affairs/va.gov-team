@@ -6,7 +6,7 @@
 
 <p>This is part 2 of 2 for the BDD research process. </p>
 
-<p>This will be a usability test of the BDD flow in Staging. </p>
+<p>This will be a usability test of the BDD flow (V2) in Staging. </p>
 
 <p>Service members (SM) who are separating and plan to file for disability can file their claim before separation. This is done through the Veterans Affairs (VA) Benefits Delivery at Discharge (BDD) program. This program allows Service members to apply for VA disability compensation benefits prior to separation. Claims must be filed between 180 to 90 days prior to separation. </p>
 
