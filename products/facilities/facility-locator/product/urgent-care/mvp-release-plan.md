@@ -1,28 +1,28 @@
 # Urgent Care MVP Release Plan (WIP)
 
 ## Go Live!
-Code complete: 2/20/2020
-Urgent care alert:  3/17/2020
+- Code complete: 2/20/2020
+- Urgent care alert:  3/17/2020
 
 ### Planning:
 **Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
 
-Between Oct 16, 2019-Nov 14, 2019: Baseline rate of search refinements
+- Between Oct 16, 2019-Nov 14, 2019: Baseline rate of search refinements
   - 3.71% CCare 
   - 2.20%  health
 
 **Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
 
-Between Oct 16, 2019-Mar 17, 2020: Baseline average of 24,000/month (n=119,939)
+- Between Oct 16, 2019-Mar 17, 2020: Baseline average of 24,000/month (n=119,939)
 
 **Post-launch KPI 3**- Time to return search results
 
-November 2019 baseline average = 3.49 sec (all facility types)
+- November 2019 baseline average = 3.49 sec (all facility types)
 
 ### Milestone 1 post-launch results:
 **Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
 
-Between Feb 1, 2020-March 10, 2020: Rate of search refinements
+- Between Feb 1, 2020-March 10, 2020: Rate of search refinements
   - 4.95% CCare provider
   - 9.75% urgent care
   - 15.22% pharmacy
@@ -30,16 +30,16 @@ Between Feb 1, 2020-March 10, 2020: Rate of search refinements
 
 **Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
 
-As of March 10, new data is not yet available
+- As of March 10, new data is not yet available
 
 **Post-launch KPI 3**- Time to return search results
 
-Between Feb 1, 2020-Mar 8, 2020: average = 3.31 sec (all facility types)
+- Between Feb 1, 2020-Mar 8, 2020: average = 3.31 sec (all facility types)
 
 ### Milestone 2 post-launch results:
 **Post-launch KPI 1**- Rate of search refinements for Community Care compared to VA facility searches
 
-Between March 11, 2020-April 14, 2020: Rate of search refinements
+- Between March 11, 2020-April 14, 2020: Rate of search refinements
   - 7.18% CCare provider
   - 7.05% urgent care
   - 15.8% pharmacy
@@ -47,15 +47,15 @@ Between March 11, 2020-April 14, 2020: Rate of search refinements
 
 **Post-launch KPI 2**- % of users who complete Urgent Care searches that end up viewing benefit page (unauth)
 
-Between March 17 - April 14, 2020: 4,219 users
+-  March 17 - April 14, 2020: 4,219 users
 
 **Post-launch KPI 3**- Time to return search results
 
-Between March 11-April 13, 2020: average = 4.38 sec (all facility types)
+- Between March 11-April 13, 2020: average = 4.38 sec (all facility types)
 
 **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
 
-Based on [user feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md), we are planning iterations to the presentation of search results and changes to the user-map interaction. 
+- Based on [user feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md), we are planning iterations to the presentation of search results and changes to the user-map interaction. 
 
 
 ## Post-launch Questions 
@@ -75,9 +75,11 @@ The increase in search refinements is surprising as we expected them to decrease
 Aricka Lewis and I interviewed a subject matter expert from the Office of Community Care to learn more about the community care journey for Veterans.
 Insights:
 - Although VA.gov is built for Veteran use, community providers or patient advocates also use it to find providers for referrals.   Their search process tends to use the legacy workflow, which may also be contributing to the increase in refinements.
+  - Between 3/11 and 4/19, there were 25,553 unique searches using the new workflow (site search category = NonVAUrgentCare). This is about 5% of the total searches. By comparison, there were 6,648 searches using the legacy workflow during the same time period, representing 1.32% of the searches during that time.
 - Urgent care facilities either fill the urgent care prescription or send it to a specific pharmacy for filling. Veterans do not search for for their own pharmacies.
 
 **Which of the assumptions you listed in your product outline were/were not validated?**
+
 _As a Veteran using the Tricare or Optum network area, I need to find a retail pharmacy so that I can have fill my prescription._
 
 **How might your product evolve now or in the future based on these results?**
