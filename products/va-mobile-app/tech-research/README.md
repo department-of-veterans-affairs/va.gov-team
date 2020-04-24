@@ -1,5 +1,5 @@
 # Background
-The goal of this technical research is to validate or invalidate bets that were derived from our initial [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint). In order to do that, we have a set of activites that will allow us to experiment and test the bets. Each activity has a corresponding output that we will use to communicate our findings. 
+The goal of our technical research is to validate or invalidate bets that were derived from our initial [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint). In order to do that, we have a set of activites that will allow us to experiment and test the bets. Each activity has a corresponding output that we will use to communicate our findings. 
 
 ## Guiding Question
 These bets were made in response to questions that have guided our technical research: How should a VA mobile app be built?What framework and technical approach should the mobile app use?
