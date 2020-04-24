@@ -4,17 +4,17 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 ## Current Reviews
 
-Team | Project | Review Status | Status Notes 
+Team | Project | IA Work Status | Status Notes 
 --- | --- | --- | --- 
 BAH | STEM Scholarship App | NOT STARTED | Kick-off held 4/21 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 eBenefits | Chapt 36 Career Counseling | NOT STARTED | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 eBenefits | Payment History | NOT STARTED | Kick-off held 3/19 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
 BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
-BAM 1 | Benefits Delivery at Discharge | IN PROGRESS | Usability prep feedback given, waiting research results <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
+BAM 1 | Benefits Delivery at Discharge |  NOT STARTED | Usability prep feedback given, waiting research results <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Public Websites | Decision Review IA Improvements | IN PROGRESS | IA mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-decision-reviews.md
-Authenticated Experience | Profile 2.0 | IN PROGRESS | Usability prep feedback given for profile pages, FAQ page, and app directory <br> page. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
-BAM 2 | Medical Device Ordering | IN PROGRESS   | Usability prep feebback given. Awaiting research and results. <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
+Authenticated Experience | Profile 2.0 | NOT STARTED | Usability prep feedback given for profile pages, FAQ page, and app directory <br> page. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
+BAM 2 | Medical Device Ordering |  NOT STARTED   | Usability prep feebback given. Awaiting research and results. <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
 
 
 ## Completed Reviews
