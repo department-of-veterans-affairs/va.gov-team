@@ -11,3 +11,16 @@ Our initial discovery into *Veteran Desirability* consisted of two activites bro
 
 - **Phase one:** Feb 28 - March 9, 2020
 - **Phase two:** March 9 - March 30, 2020
+
+## Outcome
+
+At the end of the discovery sprint, we had three bets about what Veterans desire in a VA mobile app:
+1. **Features:** Authenticated features are more valuable to Veterans than unauthenticated features
+2. **Added Value:** A mobile application provides more value to Veterans than a mobile VA.gov experience.
+
+The next step is to validate these bets. See: [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research)
+
+
+
+
+
