@@ -95,24 +95,23 @@
 
 4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
 
-   **Week 1**
-   Monday April 27, 9:30 - 2 PM EST, 4 - 7PM EST
-   Tuesday April 28, 9:30 - 1 PM EST, 2 - 7PM EST
-   Wednesday April 29, 9:30 - 1 PM EST, 2 - 7PM EST
-   Thursday April 30, 9:30 - 1 PM EST, 2 - 7PM EST
-   Friday May 1, 9:30 - 1 PM EST, 2 - 7PM EST
-   **Week 2**
+   **Week 1** <br>
+   Monday April 27, 9:30 - 2 PM EST, 4 - 7PM EST<br>
+   Tuesday April 28, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Wednesday April 29, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Thursday April 30, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Friday May 1, 9:30 - 1 PM EST, 2 - 7PM EST<br>
 
-   Monday May 4, 9:30 - 1 PM EST, 2 - 7PM EST
-   Tuesday May 5, Unavailable
-   Wednesday May 6, 9:30 - 1 PM EST, 2 - 7PM EST
-   Thursday May 7, 9:30 - 1 PM EST, 2 - 7PM EST
-   Friday May 8, 9:30 - 1 PM EST, 2 - 7PM EST
+   **Week 2**<br>
+   Monday May 4, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Tuesday May 5, Unavailable<br>
+   Wednesday May 6, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Thursday May 7, 9:30 - 1 PM EST, 2 - 7PM EST<br>
+   Friday May 8, 9:30 - 1 PM EST, 2 - 7PM EST<br>
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   Thursday April 23, 9:30 - 1 PM EST, 2 - 7PM EST
-
+   Thursday April 23, 9:30 - 1 PM EST, 2 - 7PM EST<br>
    Friday April 24, 9:30 - 1 PM EST, 2 - 7PM EST
 
 ## Team Roles	
