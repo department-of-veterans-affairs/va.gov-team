@@ -15,3 +15,4 @@ When we originally were moving files from the vets.gov-team repo to the va.gov-t
 | vets.gov-team/Products/Identity/Personalization/Profile/MHV Profile/ |va.gov-team/products/identity-personalization/profile/profile-V1/mhv-profile/ | | 
 | vets.gov-team/Products/Identity/Personalization/Profile/Vet360 UAT/ | va.gov-team/products/identity-personalization/profile/profile-V1/2018-vet360-uat/ | | 
 | vets.gov-team/Products/Identity/Personalization/Notifications/| va.gov-team/products/identity-personalization/notifications/2018-notifications-work/ | |
+| vets.gov-team/Products/Identity/Personalization/Recommendations/ | va.gov-team/products/identity-personalization/logged-in-homepage/my-va/2018-find-va-benefits/ | |
