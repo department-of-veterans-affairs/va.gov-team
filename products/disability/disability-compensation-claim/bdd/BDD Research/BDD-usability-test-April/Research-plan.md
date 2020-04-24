@@ -16,7 +16,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <h2 id="toc_2">Goals</h2>
 
 <p>To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
-
+<p>To understand how users try to find info about BDD on VA.gov</p>
 <p>To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
 
 <h2 id="toc_3">Method</h2>
@@ -29,7 +29,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <p>The session will include a short interview (5 min) about their former BDD experiences.</p>
 
-<p>We will ask Veterans to navigate to the BDD flow in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
+<p>We will ask Veterans to navigate to the BDD flow (V2) in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
 
 <h2 id="toc_4">Participants and Recruitment</h2>
 
@@ -50,7 +50,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <h4 id="toc_6">For the interview about former BDD experiences</h4>
 
 <ul>
-<li>What are the current steps for submitting a BBD claim? </li>
+<li>What are the steps for submitting a BBD claim? </li>
 <li>How (and when) do SM find out about the BDD process? </li>
 <li>What is the necessary information and documentation that they need? </li>
 <li>Did SM file alone or with a VSO?</li>
@@ -63,8 +63,9 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <h4 id="toc_7">For the usability test of the BDD flow (V2)</h4>
 
 <ul>
-<li>How do users try to find BDD on VA.gov?</li>
-<li>How do users expect to get to this flow?</li>
+<li>How do users try to find info about BDD on VA.gov?</li>
+  
+<li>How do users expect to get to the BDD flow?</li>
 <li>What usability issues and pain points exist in the BDD flow (V2)?</li>
 <li>Are there any confusing steps in the flow?</li>
 <li>Are the steps clearly defined or self-explanatory?</li>
