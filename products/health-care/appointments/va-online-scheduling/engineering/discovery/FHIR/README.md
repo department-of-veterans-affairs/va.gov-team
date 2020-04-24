@@ -49,7 +49,7 @@ We know the following resources will be available:
 
 ## UI related discovery
 
-This is a work in progress. These will be augmented with flow diagrams detailing the decision tree in its current form with recommendations on where some of this business logic and decision tree logic ought to be moved to the "monolith" API layer.
+Front end technical strategy is detailed [here](front_end_technical_strategy.md), and there's a [service design doc](fe_service_design.md) with guidelines and documentation on how the UI service layer will work (still in progress). We've also create an [outline](business_logic.md) of the "business logic" present in the application, in order to facilitate discussions about how to organize the backend services.
 
 ### Appointments List
 - [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/discovery/FHIR/appointments.md)
