@@ -1,8 +1,8 @@
 
 # Background
-In late February of 2020, a 4-week discovery sprint kicked off to explore the questions of **whether** and **how** the VA should build a mobile app. 
+In late February of 2020, a four-week discovery sprint kicked off to explore three basic questions related to whether and how the VA should build a mobile app. 
 
-The question of **whether** the VA should build a mobile app focused on *Veteran Desirability* and user research to determine whether Veterans would actually want or use an app. 
+The questions of **what** the VA would build and **why** the VA should build a mobile app focused on *Veteran Desirability* and user research to determine whether Veterans would actually want or use an app. 
 
 The question of **how** the VA should build a mobile app focused on *Technical Feasibility* research and experimentation to determine how the VA could build an app given the systems and technologies that exist at VA today.
 
