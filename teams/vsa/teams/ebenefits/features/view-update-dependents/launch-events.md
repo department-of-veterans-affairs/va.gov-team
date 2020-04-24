@@ -61,8 +61,9 @@ _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints
 - PD: Coordinate with VA comms
 - Adjust the robots.txt file to include the direct link to the 686
 
-### Launch Sprint 21 (T)
+### Sprint 21
 _May 6 - May 19_
+- ⏳ BE: PDF Fill (1 Sprint)
 - UAT/ UAT outcome PRs, email whitelist 
 - Launch to n% of users🚀
 - Launch to 100% of users
@@ -71,12 +72,19 @@ _May 6 - May 19_
 - Coordinate page redirects
 - Code hardening/bug fixes
 
-### Sprint 22 (T+14)
+### Sprint 22 
 _May 20 - June 2_
+- ⏳ BE: PDF Send to VBMS (1 Sprint)
 - Implement eBenefits user redirect messaging 
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
+
+## Sprint 23
+_June 3 - June 16_
+
+## Sprint 24
+_June 17 - June 30_
 
 ## Other Tools and Resources
 - [Table of contents for 686 mockups](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
