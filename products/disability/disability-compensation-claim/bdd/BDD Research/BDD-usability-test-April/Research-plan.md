@@ -15,21 +15,21 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <h2 id="toc_2">Goals</h2>
 
-<p>To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
-<p>To understand how users try to find info about BDD on VA.gov</p>
-<p>To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
+<p>- To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
+<p>- To understand how users try to find info about BDD on VA.gov</p>
+<p>- To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
 
 <h2 id="toc_3">Method</h2>
 
-<p>We will conduct a usability test with 8-10 active Service Members. </p>
+<p>- We will conduct a usability test with 8-10 active Service Members. </p>
 
-<p>We will be conducting a remote, moderated usability study.</p>
+<p>- We will be conducting a remote, moderated usability study.</p>
 
-<p>We will use Zoom to conduct these sessions.</p>
+<p>- We will use Zoom to conduct these sessions.</p>
 
-<p>The session will include a short interview (5 min) about their former BDD experiences.</p>
+<p>- The session will include a short interview (5 min) about their former BDD experiences.</p>
 
-<p>We will ask Veterans to navigate to the BDD flow (V2) in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
+<p>- We will ask Veterans to navigate to the BDD flow (V2) in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
 
 <h2 id="toc_4">Participants and Recruitment</h2>
 
