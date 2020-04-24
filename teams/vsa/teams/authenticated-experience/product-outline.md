@@ -93,7 +93,7 @@ This will show us that people are more easily getting to tools and completing ta
 - Greater use of self service tools.
 - Reduced time to task completion on VA.gov.
 - Lower call center volume.
-- A decrease in mail/in-person interactions
+- A decrease in mail/in-person interactions.
 
 #### Sign in behavior
 
