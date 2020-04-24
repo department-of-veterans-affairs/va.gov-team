@@ -48,9 +48,10 @@ This checklist is for you to gut check that you've taken all of the steps necess
 - [ ] Dashboards and alerts are set up for finding and investigating issues
 - [ ] Points of contact are documented for service / tool / feature and any new backend dependencies
 - [ ] There's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/34add7c7b3d558158ccf3f599e79c2380076481c/platform/product-management/product-outline-template.md)
-- [ ] There's a user guide
+- [ ] It has been incorporated into orientation materials
 
 ### ...marketable?
 - [ ] External comms content is in place in appropriate channels (collaborate w/Service Design)
 - [ ] Product brief (with visuals), outlining the value and functionality of your product is in github
 - [ ] You've done a [Go/No Go meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
+- [ ] Training, outreach, or other adoption-oriented activities are planned
