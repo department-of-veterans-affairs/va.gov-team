@@ -32,6 +32,7 @@ This research rolled up into the larger Personalization 2.0 report linked above 
 - **Goals**: Gain insights into users expectations around notifications from VA.gov.
 - **Findings**:
   - Veterans want notifications that are simple, succinct, personal, reassuring, and timely.
+  - Participants would prefer VA communications that give a clear sense of what to expect and when, and provide consistent information across all channels.
   - Most users in the study wanted communications about updates to their applications and appointments.
   - Users are interested in a centralized place online to see statuses.
 
