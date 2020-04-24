@@ -35,14 +35,15 @@
 ### Current
 
 * When the [My Health](https://staging.va.gov/health-care/my-health-account-validation/error/needs-va-patient) page can't find patient information, `h3` and `h2` elements are skipped, and the **What You Can Do** heading is an `h4` element
-* In the Dashboard alert components, the heading is an `h3` followed by a `div` with the class `.vads-u-font-size--h3` applied to it.
-* [Find Benefits](https://staging.va.gov/my-va/find-benefits) page skips even numbered heading elements
-* We've Signed You Out page skips `h2` heading element, and jumps straight to the **What You Can Do** heading as an `h3`
-* [Application flow, progress bar](https://app.mural.co/t/vsa8243/m/vsa8243/1587731349237/39559057117c229f1c189a95a3ebc0d6079fd9f3) `h1` is followed by an `h4` in the progress bar; progress bar could use semantic structure of `dl` with the [progress element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress) inside a `dd`
+* In the **Dashboard alert components**, the heading is an `h3` followed by a `div` with the class `.vads-u-font-size--h3` applied to it.
+* **[Find Benefits](https://staging.va.gov/my-va/find-benefits)** page skips even numbered heading elements
+* **We've Signed You Out** page skips `h2` heading element, and jumps straight to the **What You Can Do** heading as an `h3`
+* **[Application flow, progress bar](https://app.mural.co/t/vsa8243/m/vsa8243/1587731349237/39559057117c229f1c189a95a3ebc0d6079fd9f3)** `h1` is followed by an `h4` in the progress bar
 
 ### Proposed
-* In the Dashboard alert components, use an h4 after the h3
+* In the **Dashboard alert components**, use an h4 after the h3 | alternately, use a `dl` for alert components, since they may appear at multiple levels in a page structure, and are less about the content of the page and more about the insertion of a message
 * **What You Can Do** heading should be used consistently across pages - `h3` makes the most sense from examples seen so far
+* **Progress bar** progress bar could use semantic structure of `dl` with the [progress element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress) inside a `dd`, as this is not really a heading for the content and more of a utility item
 
 ## Featured Content
 ### Current
