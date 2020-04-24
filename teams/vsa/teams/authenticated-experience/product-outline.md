@@ -82,11 +82,36 @@ Creating a cohesive logged-in experience will:
 
 ## KPIs 
 
-- Increase the amount of people who:
-  - Log in to VA.gov.
-  - Verify their identities.
-  - Manage their benefits online.
-- Reduce the amount of people who call in to the call center for status updates on claims and other information.
-- Reduce the amount of time it takes to complete tasks in the authenticated experience.
-- Increase the amount of people who navigate to tools via the logged-in homepage and logged in navigation.
+We can reasonably measure utility and satisfcation with the authenticated experience by measuring interactions on VA.gov, sign in behavior, and overall satisfication scores.
+
+#### Interactions to measure
+
+This will show us that people are more easily getting to tools and completing tasks at the VA, which are two of our [north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md#north-star-objectives).
+
+- More direct navigation to tools via the logged-in homepage or navigation.
+- More interaction with the logged-in homepage.
+- Greater use of self service tools.
+- Reduced time to task completion on VA.gov.
+- Lower call center volume.
+- A decrease in mail/in-person interactions
+
+#### Sign in behavior
+
+This will show us that people think that it is worth logging in to VA.gov and interacting with us as an authenticated user. This would reflect that we have met our third [north star objective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md#north-star-objectives) — making the VA feel like it's a 1:1 experience.
+
+- More people logging in.
+- More people verifying their identities.
+- More logged-in sessions overall.
+- Shorter time between coming to the site and logging in.
+
+#### Overall satisfaction
+
+If we see an increase in baseline ForeSee metrics, we'll know that we have made the authenticated experience more useful and enjoyable.
+
+- Higher satisfaction ratings via ForeSee or Medallia.
+
+#### VA business metrics
+
+If we create a robust, useable, and scalable logged in experience, we may also see behavior changes around how VA teams approach building tools. We'd like to see:
+
 - Increase in the amount of VA partners who want to build on VA.gov instead of building one-off tools.
