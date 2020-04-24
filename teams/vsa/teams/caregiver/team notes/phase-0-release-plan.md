@@ -17,8 +17,8 @@
 | May 1 | VA.gov Platform Staging Review complete |
 | May 4 | Staging demo to Program team; Review VA.gov Platform feedback with Program team
 | May 4-8 | Program team reviews Staging functionality and provides remaining feedback | 
-| May 15 | Frontend complete|
-| May 15 | Backend complete | |
+| May 15 | Frontend complete (user can fill out and submit the form)|
+| May 15 | Backend complete (form data and filled out PDF gets sent to CARMA)| |
 | May 18 | VA.gov Platform Privacy and Security Review | |
 | May 18 - May 22 | End-to-end testing with CARMA (form submission --> Salesforce) | |
 | May 27 | Dry Run Release| |
