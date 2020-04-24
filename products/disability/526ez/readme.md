@@ -1,10 +1,10 @@
 # Product Outline: Disability Compensation Application (Form 526)
 
 - GitHub Label: 526 disability-claims
-- Slack channel: #vetsgov-claimsmodern
+- Slack channel: [#vsa-benefits-memorial](https://dsva.slack.com/archives/C909ZG2BB)
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
 - Demo video link: n/a
-- [Test users](/Products/Disability/Disability%20526EZ/engineering/vetsgov_test_users_526.csv)
+- [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
 ---
 
