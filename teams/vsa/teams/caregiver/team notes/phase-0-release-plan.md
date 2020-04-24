@@ -21,14 +21,14 @@
 | May 15 | Backend complete | On track
 | May 18 | VA.gov Platform Privacy and Security Review | On track
 | May 18 - May 22 | Dark Release functionality testing with CARMA| On track
-| May 29 | Phase 0 Dark Release<sup>+</sup> |
+| May 29 | Phase 0 Dark Release<sup>+</sup> | On track
 | June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
-| July 30 | Soft Release<sup>+</sup> |
+| July 30 | Soft Release<sup>+</sup> | On track
 
 
 `+` As defined by the Program team
-[Dark Release Definition](#dark-release-definition)|
-[Doft Release Definition](#soft-release-definition) |
+- [Dark Release Definition](#dark-release-definition)|
+- [Soft Release Definition](#soft-release-definition) |
 
 For more information on the VSP (VA.gov Platform) Collaboration touchpoints, please see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md).
 
