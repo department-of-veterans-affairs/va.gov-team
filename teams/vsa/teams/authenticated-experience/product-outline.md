@@ -82,7 +82,7 @@ Creating a cohesive logged-in experience will:
 
 ## KPIs 
 
-We can reasonably measure utility and satisfcation with the authenticated experience by measuring interactions on VA.gov, sign in behavior, and overall satisfication scores.
+We can measure we have moved in the right direction with the authenticated experience by measuring interactions on VA.gov, sign in behavior, and overall satisfaction scores.
 
 #### Interactions to measure
 
