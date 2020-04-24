@@ -57,7 +57,7 @@ For more information on the VSP (VA.gov Platform) Collaboration touchpoints, ple
 | Ensure that all fields have been completed appropriately (data validation) | n/a | :white_check_mark:|
 | Select a medical facility from a program-approved list | n/a | :white_check_mark:|
 | Review entered data prior to submission | 176 | :white_check_mark:|
-| Provide a signature for Veteran and Caregiver | 164 | :white_check_mark:|
+| Provide a signature for Veteran and Caregiver(s) | 164 | :white_check_mark:|
 | Recieve and print a confirmation message after submission | n/a | :zap: |
 | Receive instruction to print and mail the form if online submission is not available| n/a | :zap: |
 | Not able to edit form after submission| 165 | :white_check_mark:|
