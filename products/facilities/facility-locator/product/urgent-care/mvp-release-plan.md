@@ -1,4 +1,4 @@
-# Urgent Care MVP Release Plan (WIP)
+# Urgent Care MVP Release Plan
 
 ## Go Live!
 - Code complete: 2/20/2020
