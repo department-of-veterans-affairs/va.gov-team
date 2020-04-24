@@ -59,7 +59,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <ul>
 <li>How do users try to find info about BDD on VA.gov?</li>
     
-<h4 id="toc_7">For the usability test of the BDD flow (V2)</h4>
+<h4 id="toc_6">For the usability test of the BDD flow (V2)</h4>
  
 <ul>
 <li>How do users expect to get to the BDD flow?</li>
