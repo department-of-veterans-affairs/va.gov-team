@@ -5,6 +5,9 @@
 Building a mobile application for VA requires a significant amount of research in order to answer key questions that will ensure any product we develop meets Veterans' needs. While the team completed an initial Discovery Sprint, there are still some unanswered questions and additional validation that is required to determine the specifications of our solution.
 This research plan aims to explain the activities that we will use to answer the following guiding questions, validate our hypothesis and underlying bets for what will make for a successful VA Mobile application. Below is a graphic from our April 10, 2020 status update that includes each of these items:
 
+![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/Research%20Diagram.png "Diagram")
+
+
 
 
 ### What is the difference between Guiding Questions, Hypothesis and Bets?
@@ -91,7 +94,7 @@ _Bet: A mobile application provides more value to Veterans than a mobile VA.gov 
 - What do they prefer to do on VA.gov vs. a mobile device?
 
 ### Resources
-Please refer to the research plan for further information. 
+Please refer to the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md) for further information. 
 
 
 
