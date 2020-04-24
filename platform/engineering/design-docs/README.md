@@ -11,7 +11,7 @@ The process of writing and reviewing design docs accomplishes a number of import
 *   Aids in consensus-building around the technical solution to a problem. In particular, the act of naming reviewers who must _explicitly approve_ the design doc creates a forcing-function for building consensus with (at minimum) that set of reviewers, and helps ensure that, months from now, we’re not questioning the approach we started with.
 *   Creates a record of decision-making and tradeoffs for future readers, so we can revisit "why did we do this?" later. This also contributes to improving our culture of documentation overall!
 
-In short, they help us build _the right thing_, keep everyone _on the same page_, and provide _records for later._ 
+In short, design docs help us build _the right thing_, keep everyone _on the same page_, and provide _records for later._ 
 
 
 ## What a design doc should contain
