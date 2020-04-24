@@ -103,11 +103,13 @@ The Veteran will also like to view only the last several (5-10) payments/returns
 **Participants will not be able to locate the Payment History feature on VA.gov**
 - False
 - 9-10 participants were able to navigate to the Payment History feature
+> Found amount of info on VA.gov page overwhelming
+> "I don't know where else to go"
 
 ## Other Findings
 **Multiple participants requested to have ‘Military Sexual Trauma’ (MST) added to the limited compensation step of the Power of Attorney Form.**
 > find statement
 
 **Participants associated the terms Diabltiy and Records as areas to locate Power of Attorney**
-
+> Looked for POA in Disability section
 
