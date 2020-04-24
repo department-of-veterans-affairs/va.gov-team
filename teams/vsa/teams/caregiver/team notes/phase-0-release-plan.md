@@ -21,7 +21,6 @@
 | May 15 | Backend complete (form data and filled out PDF gets sent to CARMA)| |
 | May 18 | VA.gov Platform Privacy and Security Review | |
 | May 18 - May 22 | Dark Release functionality testing with CARMA (form submission --> Salesforce) | |
-| May 27 | Dry Run Release| |
 | May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
 | June 1 | VA.gov Platform Full Accessibility and 508 Office Audit | |
 | July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
