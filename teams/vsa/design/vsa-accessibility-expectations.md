@@ -70,7 +70,7 @@ Designers should make sure they are designing with accessibility best practices 
 
 * Try using [these cool accessibility annotations in your Sketch files](https://www.sketchappsources.com/resource/download-3929.html) if it's helpful!
 
-* Support your team by validating work using browser extensions (see the Developer section for more information).
+* (Optional) Support your team by validating work using browser extensions (see the Developer section for more information).
 
    * [axe browser extension for Chrome and Firefox](https://www.deque.com/axe/axe-for-web/)
 
