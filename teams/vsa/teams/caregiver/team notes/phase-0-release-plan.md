@@ -10,10 +10,10 @@
 | --- | --- | --- | 
 | April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
 | April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
-| April 23 | End-to-end payload validation testing with CARMA in QA/Dev | Completed| 
+| April 23 | Payload validation testing with CARMA in QA/Dev | Completed| 
 | April 24 | First draft coded frontend complete | |
 | April 27 | Submit VA.gov Platform Staging Review Request
-| April 30 | Acumen endpoint delivery for sraging | |
+| April 30 | Acumen endpoint delivery for staging | |
 | May 1 | VA.gov Platform Staging Review complete |
 | May 4 | Review Platform feedback with Program team
 | May 4-8 | Program team reviews Staging code and provides remaining feedback | 
