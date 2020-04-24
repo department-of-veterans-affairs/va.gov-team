@@ -27,7 +27,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <p>We will use Zoom to conduct these sessions.</p>
 
-<p>The session will include a short interview (5-10 min) about their former BDD experiences.</p>
+<p>The session will include a short interview (5 min) about their former BDD experiences.</p>
 
 <p>We will ask Veterans to navigate to the BDD flow in VA staging (provided in the Zoom chat) and have participants share their screen with us via Zoom.</p>
 
@@ -60,17 +60,17 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <li>What was the most helpful part of the process?</li>
 </ul>
 
-<h4 id="toc_7">For the usability test of the BDD flow</h4>
+<h4 id="toc_7">For the usability test of the BDD flow (V2)</h4>
 
 <ul>
 <li>How do users try to find BDD on VA.gov?</li>
-<li>How do users expect to get to this flow / process?</li>
-<li>What usability issues and pain points exist in the BDD flow?</li>
+<li>How do users expect to get to this flow?</li>
+<li>What usability issues and pain points exist in the BDD flow (V2)?</li>
 <li>Are there any confusing steps in the flow?</li>
 <li>Are the steps clearly defined or self-explanatory?</li>
 <li>Does the user organically move from step to step?</li>
 <li>Does the user need more information to move forward?</li>
-<li>Is there any confusing or ambiguous language that exists in the flow?</li>
+<li>Is there any confusing or ambiguous language in the flow?</li>
 <li>Are users missing any information in order to feel confident moving forward?</li>
 <li>Are there other questions or concerns the user has while completing the BDD process?</li>
 <li>What do veterans think will happen after the form is submitted?</li>
@@ -79,10 +79,10 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <h2 id="toc_8">When?</h2>
 
 <ul>
-<li>Timeline for this study: March 17 (pilot test), 18, 19, and 20, 2020. </li>
+<li>Timeline for this study: TBD  </li>
 <li>Length of Sessions: 60 minutes</li>
 <li>Availability: 11 am - 5 pm ET</li>
-<li>Pilot: 17 March, 2020</li>
+<li>Pilot: TBD </li>
 </ul>
 
 <h4 id="toc_9">Team Roles</h4>
@@ -92,9 +92,9 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <li>Conversation guide writing and task development: Christian V.</li>
 <li>Participant recruiting &amp; screening: Perigean</li>
 <li>Project point of contact: Christian V. (Phone: 415 757 7668, cvalla@governmentcio.com)</li>
-<li>Participant(s) for pilot test: Kevin. S.</li>
+<li>Participant(s) for pilot test: TBD </li>
 <li>Note-takers: Kevin S.</li>
-<li>Observers: Nick S., Robin G., Silvio L., Andrea S., Shawna H., Kelly L., Maria V., Luke M.</li>
+<li>Observers: Nick S., Robin G., Silvio L., Andrea S., Shawna H., Kelly L., Maria V., Luke M., Barry C., Paul S.</li>
 </ul>
 
 <h2 id="toc_10">Resources</h2>
@@ -104,7 +104,8 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <a href="">products/disability/disability-compensation-claim/bdd/product-outline.md</a><br>
 <em>Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here</em><br></li>
 <li><p>Convo Guide<br>
-<em>Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here</em>    <a href="">products/disability/disability-compensation-claim/bdd/BDD Research/Initial-usability-March2020/BDD conversation guide.md</a></p></li>
+  
+<em>Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here</em>   
 <li><p>Synthesis 
 <em>Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)</em>  </p></li>
 <li><p>Lessons Learned<br>
@@ -112,9 +113,9 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <li><p>Read-Out/Results  </p>
 
 <ul>
-<li><em>Read-out presentation: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/Initial-usability-March2020/BDD-research-findings.md
+<li><em>Read-out presentation: 
   
-<li>** Don&#39;t forget to add a link to your research folder to the research tracker! <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md">https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md</a>]()</li>
+<li>** Don&#39;t forget to add a link to your research folder to the research tracker! <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md">https:......md</a>]()</li>
 </ul></li>
 </ul>
 
