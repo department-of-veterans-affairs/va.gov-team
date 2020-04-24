@@ -21,7 +21,7 @@ Today, nearly 40% of all users access VA.gov on a mobile or tablet device. The V
   - Do Veterans feel strongly about certain tasks being better for mobile or better for desktop for them? Why?
 - Where can a mobile app add unique value to VA’s technology offering (VA.gov et al)?
 - What is the “critical mass” of capabilities that Veterans would find compelling enough for an app to feel worthwhile to download?
-- - What will make Veterans say “this is a great start”?
+  - What will make Veterans say “this is a great start”?
   - Refer back to Veteran’s experience with VA (benefits they access) and ask what pain points exist for them there? Do they think a mobile app could help?
 
 
@@ -53,7 +53,7 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
 - We would like to interview 8-10 Veterans for this generative research project. Participant criteria: 
 - All participants must be Veterans.
 - Participant pool should be diverse in
-- - Branch of service
+  - Branch of service
   - Gender (30% or more women)
   - Race
   - Age (at least two people from 18-30, 31-50, and 50+)
@@ -61,7 +61,7 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
   - Density (rural)
 - Should be majority mobile device users 
 - Diversity of experience with VA benefits and services, but definitely some participants with experience with one of these three: 
-- - Education & career services
+  - Education & career services
   - Disability benefits
   - Health care benefits
 - At least 1 assistive device user (nice to have)
@@ -75,9 +75,9 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
 
 ### When
 
-1. Timeline for this study: May 4 – May 15 (depending on recruitment)
+1. Timeline for this study: Monday, May 4 – Friday, May 15 (depending on recruitment)
 2. Length of Sessions: 45–60 minutes
-3. Availability: Monday–Wednesday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions.
+3. Availability: Monday – Wednesday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions.
 4. Prepare: We will conduct a pilot interview on May 1. 
 
 
