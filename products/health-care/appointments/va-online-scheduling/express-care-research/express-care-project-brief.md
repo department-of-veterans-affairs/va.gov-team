@@ -1,6 +1,4 @@
-# Iteration on Research - Focus COVID-19 Response
-Based on urgency to provide additional COVID-19 response coverage through digital channels, we need to re-focus Express care research to specifically solve for directing verteran to appropriate digital user flow for COVID-19 screening and care. 
-
+# Express Care 
 ## Problem Statement:
 COVID-19 is creating hot spots throughout the country. These hot spots put a strain on VA medical facilities and staff as they try and field calls and screen patients.
 
