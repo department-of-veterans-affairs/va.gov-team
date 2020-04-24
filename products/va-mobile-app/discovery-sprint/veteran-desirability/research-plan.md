@@ -1,8 +1,13 @@
 # Background
-We are exploring how best to provide mobile device access to VA services and information. The core decision we are working towards is: What technical approach will best serve the needs of Veterans? We are using these criteria to judge potential approaches:
-Does it provide a comfortable and helpful experience to Veterans?
-How well can it take advantage of existing resources and infrastructure?
-What impact does this approach have on other digital work being done at VA?
+We are exploring how best to provide mobile device access to VA services and information. The guiding questions we are working towards to answer are: 
+- Why should the VA build a mobile app? What problem for VA beneficiaries does it solve that VA.gov or existing apps don't solve?
+- What features should a VA mobile app include? What features do Veterans prioritize and need in a VA mobile app?
+
+We are using these criteria to judge potential approaches:
+- Does it provide a comfortable and helpful experience to Veterans?
+- How well can it take advantage of existing resources and infrastructure?
+- What impact does this approach have on other digital work being done at VA?
+
 We are starting research this week to collect Veteran perspectives on what they need from VA. Veteran insights will help us uncover key questions that we can use to guide the technical discovery being done by our team across the full spectrum of approaches. We are taking a two phased approach outlined below.
 
 ## Phase One
