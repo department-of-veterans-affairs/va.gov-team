@@ -16,7 +16,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <p>- To understand the current user experience, when going through a BDD process using paper forms and / or VSO.</p>
 <p>- To understand how users try to find info about BDD on VA.gov</p>
-<p>- To understand if the BDD prototype (V2) in staging works for users and matches their expectations.</p>
+<p>- To understand if the BDD prototype (V2) in staging work for users and matches their expectations.</p>
 
 <h2 id="toc_3">Method</h2>
 
