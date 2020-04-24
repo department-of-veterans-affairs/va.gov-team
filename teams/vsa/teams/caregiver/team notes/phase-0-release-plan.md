@@ -13,7 +13,7 @@
 | April 23 | Payload validation testing with CARMA in QA/Dev | Completed| 
 | April 24 | First draft  frontend complete | On track|
 | April 27 | Submit VA.gov Platform Staging Review Request | On track |
-| April 30 | Acumen Staging endpoint delivery |  |
+| April 30 | CARMA Staging endpoint delivery |due from Acumen team |
 | May 1 | VA.gov Platform Staging Review complete | On track |
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
