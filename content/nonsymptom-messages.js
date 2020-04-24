@@ -234,7 +234,7 @@ We’ve temporarily closed all of our 56 regional offices for in-person visits d
 We can still answer your questions by phone or through our online customer service tool. And we can support you with needs such as educational counseling, fiduciary claims, and specially adaptive housing by phone or approved video conferencing tools.
 
 **To get help with benefits**
-Call us at [800-827-1000](tel:18008271000), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 800-829-4833.
+Call us at [800-827-1000](tel:18008271000), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. If you have hearing loss, call TTY 711.
 
 **To check on the status of your claim or appeal**
 Use our [online claim status tool](https://www.va.gov/claim-or-appeal-status/).
@@ -418,7 +418,7 @@ We’ll work with you to change your in-person appointment to a virtual appointm
 - Fiduciary
 - Military service coordinators
 
-Please work with your VA representative to reschedule appointments. If you have questions, call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Please work with your VA representative to reschedule appointments. If you have questions, call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
 `,
@@ -446,7 +446,7 @@ We’re not requiring physical or wet signatures (meaning signed in ink), as lon
 We’re accepting different forms of electronic, digital, and typed signatures. Please work with your VA representative to find out which type of signature you’ll need for a specific benefit or service.
 
 **If you have any questions**
-Call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 `,
 
 /* HANDOFF - [for prevention + testing + health care, appointments, and prescriptions] */
@@ -535,7 +535,7 @@ Here are the best ways to talk with someone about your specific benefit and clai
 [Check your claim status online](https://www.va.gov/claim-or-appeal-status/)
 
 **Appointments for VA benefits and services**
-Call us at [800-827-1000](tel:18008271000) (TTY: 800-829-4833), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+Call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
 
 **Debt related to VA benefits**
 Call the VA Debt Management Center at [800-827-0648](tel:18008270648), Mon. – Fri., 7:30 a.m. to 7:00 p.m. ET.
