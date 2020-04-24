@@ -85,3 +85,6 @@ _As a Veteran using the Tricare or Optum network area, I need to find a retail p
 **How might your product evolve now or in the future based on these results?**
 - We needed to hide the community pharmacy (in VA's network) search option due to the data issues at the source. Returning this functionality will be low priority based on our findings about Veteran pharmacy searches. 
 - In addition to the ux enhancements mentioned above, we plan to return urgent care search results with a single list containing both VA facilities and community urgent care providers as a result of Veteran feedback and search refinement data. 
+
+## VSA Initiative Impact Review
+[Link](https://docs.google.com/presentation/d/1FrAFdI8gYC3kuyyMKaiq6_fjui9yrWA946G_wNGHny4/edit?usp=sharing)
