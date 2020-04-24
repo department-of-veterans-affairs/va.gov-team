@@ -1,4 +1,4 @@
-# Product development checklist
+# Platform initiative development checklist
 
 ### Ask yourself the questions below weekly, starting from Day 1.
 
