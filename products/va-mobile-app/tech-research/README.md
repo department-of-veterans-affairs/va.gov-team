@@ -4,7 +4,7 @@ The goal of our technical research is to validate or invalidate bets that were d
 ## Guiding Question
 These bets were made in response to questions that have guided our technical research: How should a VA mobile app be built?What framework and technical approach should the mobile app use?
 
-In other words, the bets are initial recommendations about how the VA could build an app. The first bet focuses on the technical framework that VA could use, the second bet focuses on how VA could implement logon and the third bet focuses on a mobile API strategy. Using the activities and outputs listed below, we will either valiate or invalidate these bets.
+In other words, the bets are initial recommendations about how the VA could build an app. The first bet focuses on the technical framework that VA could use, the second bet focuses on how VA could implement logon and the third bet focuses on a mobile API strategy. Using the activities and outputs listed below, we will either valiate or invalidate these bets, getting us one step closer to recommending a technical approach for a VA mobile app.
 
 ## Bet: React Native provides the best balance between organizational viability and technical feasibility
 
