@@ -14,7 +14,7 @@ Our initial discovery into *Veteran Desirability* consisted of two activites bro
 
 ## Outcome
 
-At the end of the discovery sprint, we had three bets about what Veterans desire in a VA mobile app:
+At the end of the discovery sprint, we had two bets about what Veterans desire in a VA mobile app:
 1. **Features:** Authenticated features are more valuable to Veterans than unauthenticated features
 2. **Added Value:** A mobile application provides more value to Veterans than a mobile VA.gov experience.
 
