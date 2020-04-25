@@ -16,3 +16,11 @@ This is a list of content areas the content team has identified in the course of
 | --- | --- | --- | --- | --- |--- | 
 | [Eligibility - preview](https://vagov-content-pr-137.herokuapp.com/burials-memorials/eligibility/) | Eligibility wizard | Wizard that helps each audience (Veteran, service member, spouse, dependent child, parent) quickly find out if they qualify for burial in a VA national cemetery. In general, eligibility wizards could be helpful. But this benefit, in particular, has several different potential eligible groups and a lot of nuances within each group. | | | |
 | [Parents DIC rates - preview](https://vagov-content-pr-438.herokuapp.com/burials-memorials/parent-dic-rates/#historic-rates) | Rates wizard/calculator | Wizard/calculator that allows parent to input information/answer questions about: <ul><li> Whether only one, or both, parents are alive</li><li>Whether eligible parent is living with a spouse</li><li>The parent's (and spouse's if applicable) yearly income (note: would need to include functionality and/or instructions around what counts as income)</li><li>Whether the eligible parent also qualifies for Aid and Attendance</li></ul> <br> Rate wizards/calculators would be helpful, in general. But this particular benefit requires a "rate of decrease (decrement)" calculation that complicates it even more than most. We've created step-by-step, contexual instructions to make it as easy as possible, but a wizard/calculator would be particularly helpful here. | | | |
+
+
+## Life insurance hub
+
+| Page (link to latest version) | Potential tool/wizard | Description | Priority level: Need <br> (What's the level of complication that we'd be simplifying with this tool?) | Priority level: Use <br> (How many people are using the benefit/visiting the page/need the information?)  | Example(s) for reference |
+| https://insurance.va.gov/NeedsCalculator | Improvements to calculator | We are rewriting the intro page for this tool as part of our life insurance hub rewriting/redirect work. However, the calculator itself could also benefit from UX design/PL review. | --- | --- |--- | 
+| --- | --- | --- | --- | --- |--- | 
+
