@@ -106,7 +106,7 @@ How might we make the Veteran experience of starting online applications more se
 - Team Name: Public Websites
 - GitHub Label: vsa-public-websites
 - Slack channel: #vsa-public-websites, #va-how-to-apply-wizards
-- POCs: Jennifer Lee, Liz Lantz, Selina Cooper, Mikki Northius
+- POCs: John Hashimoto, Liz Lantz, Selina Cooper, Mikki Northius
 
 ---
 
