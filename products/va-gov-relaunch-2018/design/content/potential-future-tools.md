@@ -21,6 +21,7 @@ This is a list of content areas the content team has identified in the course of
 ## Life insurance hub
 
 | Page (link to latest version) | Potential tool/wizard | Description | Priority level: Need <br> (What's the level of complication that we'd be simplifying with this tool?) | Priority level: Use <br> (How many people are using the benefit/visiting the page/need the information?)  | Example(s) for reference |
-| https://insurance.va.gov/NeedsCalculator | Improvements to calculator | We are rewriting the intro page for this tool as part of our life insurance hub rewriting/redirect work. However, the calculator itself could also benefit from UX design/PL review. | --- | --- |--- | 
 | --- | --- | --- | --- | --- |--- | 
+| https://insurance.va.gov/NeedsCalculator | Improvements to calculator | We are rewriting the [intro page for this tool](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8439) as part of our life insurance hub rewriting/redirect work. However, the calculator itself could also benefit from UX design/PL review. | --- | --- |--- | 
+
 
