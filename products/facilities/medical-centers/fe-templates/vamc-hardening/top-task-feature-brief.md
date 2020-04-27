@@ -1,0 +1,94 @@
+# _Feature Brief: VAMC Top Task Page Hardening_ (WIP)
+
+This document will focus on the hardening of selected VA Medical Center (VAMC) pages. 
+
+These pages are part of the redesign of VAMC websites which began with the soft launch of the new Pittsburgh health care in September 2019. The goal of this work is to prepare VAMC system content model to scale. 
+
+## Table of Contents
+
+[User Journey]
+
+[User Stories]
+
+[Project Rationale]
+
+[Project Scope and Scale]
+
+[Measuring Success]
+
+[Dependencies]
+
+[Risk factors]
+
+[Rejected Solutions]
+
+[Definition of Done]
+
+[Key Links]
+
+
+## User Journey
+VA health care facilities represent the primary touchpoint for Veterans who use VA health care. VAMC websites are part of a Veterans experience with a VA facility and support Veterans in accomplishing their goals online. 
+
+## User Stories
+*What two or three core use cases do we believe should cover ~80% of users?*
+- As a content producer, I want to be able to create content at the system or facility level so that I can provide localized information to Veterans. 
+- As a content producer, I want the editorial experience to be user friendly so that I can serve Veterans efficiently. 
+- As the VHA, I want national content to be maintained at the national level so that Veterans have a standardized experience. 
+
+## Project Rationale
+_Why should this project be a priority?_ 
+As the VAMC page relaunch rolls out to more VISNs, it will be important to ensure a consistent end user experience across multiple VAMCs, serve content producers by creating a flexible, reusable content model with governance mechanisms and improve the editorial experience. 
+
+## Project Scope and Scale
+_What's in and what's out?_
+
+In scope: 
+- Governance
+- Content model considerations 
+- Editorial experience considerations
+Out of scope: 
+- Migration and change management (will be handled by the VAMC upgrade team)
+
+This initial phase will focus on a subset of "required" VAMC pages which havw significant national content and minimal need for localized edits, such as  
+  - "Top-Task" pages (from the Veteran's point-of-view)
+    o  Make an appointment
+    o  Register for care
+    o  Pharmacy and prescription refills
+    o  Request your medical records
+    o  Billing and insurance
+    o  Contact us
+  - Other standardized largely nation content pages, such as 
+    o  Policies
+    o  Dav Vans
+  - Pages for required VA programmatic services, such as 
+    o  Caregiver support
+    o  Homeless Veteran care
+    o  LGBT Veteran care
+    o  Mental health care
+    o  Minority Veteran care
+    o  Patient advocates
+    o  Returning service member care
+    o  Suicide prevention
+    o  Women Veteran care
+
+## Measuring Success
+_How will we know if we are successful?_
+OBJECTIVE 4: Deliver an efficient editorial experience
+Key result: Decreased support requests to CMS
+
+## Dependencies
+- This work will require coordination between the Facilities, CMS and VAMC upgrade teams. 
+
+## Risk factors
+- We assume pages identified as "required" truly must exist on all VAMCs.
+- We assume the product is mature enough to harden pages and that no significant design iterations will be planned in the near-term. Even if this need occurs, it should still be easier to move content blocks into a new page design or format following this work. 
+
+## Rejected Solutions
+
+## Definition of Done
+
+## Key Links
+
+[Current website](https://www.va.gov/pittsburgh-health-care)
+
