@@ -23,6 +23,10 @@
 ---
 
 ## Changelog
+### Sprint 24 (04-06-2020 - 04-28-2020)
+[Error Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/error-monitoring)
+- Sentry was upgraded to verision 9.1.2 and the BE Tools team is assisting setting up each team wanting to work in sentry in order to setup the filtering and triaging of alerts.  Instructions on configuring sentry can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d0ee4cc50068f41083732455a7df86b6b5d59b67/platform/engineering/sentry-configuration.md)
+
 ### Sprint 23 (04-02-2020 - 4-14-2020)
 [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.2
 - ESLint - Publish and setup the second set of standard linting rules for [trial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) for the next 4 weeks. Feedback from VFS teams will be collected during this period. Please use the tag @frontend-review-group or message any of the front-end tools team members in Slack and provide us with your feedback.
