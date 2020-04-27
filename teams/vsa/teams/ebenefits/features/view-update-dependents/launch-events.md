@@ -17,8 +17,9 @@ Set a date and walk back the various steps.  This achieves a few things:
 
 ## Assumptions  
 **Launch to prod:** 
-**Number of work days:**   from today   
+**Number of work days:**  T from today   
 **Number of sprints:**    
+
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
 🌀 = Collaboration Cycle  
@@ -39,7 +40,6 @@ _April 8 - April 21_
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request)
 - PD: contact center docs ([#8218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8218)✔)
 - DE: landing pages sent to Public Websites )[#8012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8012)✔)
-- DE: usability Sessions with Research Plan and Conversation Guide
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
@@ -49,12 +49,14 @@ _April 22 - May 5_
 - BE: submit PR to merge BGS endpoints into `vets-api`
 - DE: Fit/finish review/implementation
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765))
+- DE: Research Plan and Conversation Guide for usability Sessions 
 
 ### Sprint 21
 _May 6 - May 19_
 - ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
 - ⏳ BE: PDF Fill (1 Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469))
 - ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489))
+- DE: 686 usability Sessions 
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
