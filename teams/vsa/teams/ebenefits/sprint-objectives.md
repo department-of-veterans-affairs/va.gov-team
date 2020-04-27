@@ -16,7 +16,7 @@
 - FE: Standardize 686 launch infrastructure and form code to match other forms on platform
 - BE: Implement final API endpoint, Pre-Fill, and begin unit testing
 - Product: FE user story smoke test
-- Design: Create Reserch Plan and Conversation Guide
+- Research: Create Reserch Plan and Conversation Guide
 - Team: Set critical dates for launch activities (e2e testing, load testing, usability, UAT, n% rollout)
 
 ## 2. Payments, POA, PCPG: Design Iteration
