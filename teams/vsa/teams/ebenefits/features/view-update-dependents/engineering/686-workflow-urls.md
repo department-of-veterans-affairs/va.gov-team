@@ -42,4 +42,4 @@
     * `/report-674-student-networth-information` - asks if student has savings, investments, properties, etc. If yes, then asks for savings, value of bonds and securities, value of real estate, and value of all other assets. Optionally asks for remarks about networth.
 ## Confirmation Page
 1. Review and Submit the 686
-    * `/review-and-submit`
+    * `/review-and-submit` - allows person submitting to review entries, go back if needed
