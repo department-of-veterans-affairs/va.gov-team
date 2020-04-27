@@ -125,5 +125,5 @@ The overall intent of the form was unclear to the participants. Participants wer
 
 ## Other Findings
 **Multiple participants requested to have ‘Military Sexual Trauma’ (MST) added to the limited compensation step of the Power of Attorney Form.**
-> find statement
+> "I would like to see MST in there becuase some people don't want their VSO to know."
 
