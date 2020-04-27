@@ -47,13 +47,12 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Participants with fewer results wished to have non-local representation offered.  
 - Several participants also wanted to see the representative’s subspecialties, judgement stats, and representative’s name and phone number.  
 	
-**What other tools/sites do Veterans use to complete the Power Of Attorney Form?** </br>
+**What other tools/sites do Veterans use to complete the Power Of Attorney Form?**</br>
 - All participants preferred completing the form with their representative present. 
 - Most participants were unaware they completed this form because the Representative completed the form for them.  
 - Participants spoke about word-of-mouth and Veteran services as valued resources.
 
-**What matters to a Veteran when choosing a representative?** ?
-</br>
+**What matters to a Veteran when choosing a representative?**</br>
 - Participant’s history demonstrated an evolution in how representatives are chosen.  Word-of-mouth plays a large role in selecting the first representative.  The second representative is vetted based on the shortcomings or of the first representative.
 - Examples of selection criteria are trust, distance, and availability to representative.
 
@@ -63,9 +62,11 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Participants felt the initial information displayed on the table provided adequate information about the payment.
 - Two participants requested that the Payment Table clearly display their claim number and its associated payment.
 - Two participants mentioned displaying their financial institution and associated account number. 
+
 **What other tools/sites do Veterans use to confirm payments made?**</br>
 - Participants stated they confirm deposited payments through their bank. 
 - Calling the VA is the preferred method of resolving a payment. 
+
 **How do users navigate the Payment Table?**</br>
 - Participants used filter and sort features to navigate the table.
 - Participants mentioned searching by date range to “make sure they can find the payment”. 
