@@ -7,7 +7,7 @@ _For example, Platform, Global UX, etc._
 
 ### North Star
 
-- [Fill out here]
+- Login success rates should remain constant.
 
 
 ### Product
