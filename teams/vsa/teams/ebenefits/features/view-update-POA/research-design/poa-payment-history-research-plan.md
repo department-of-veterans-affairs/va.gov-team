@@ -52,7 +52,7 @@ Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.
   - Confirm attorney or VSO involvement with completing the form? 
   - Assess the helpfulness of the legal text.
     - Should/could we write better content for each step to increase veterans understanding of the legal statements?
- - Determine veterans awareness of what the next steps are the denial process.
+ - Determine veterans awareness of what the next steps are in the denial process.
  - Determine if veterans can differentiate wizard’s steps and search functionality
  - Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
 
