@@ -143,7 +143,7 @@ This footer appears on the bottom of every page of the form. It includes phone n
 #### Need help?
 
 If you have questions or need help filling out this form, please call [insert agency to call, e.g., VA Benefits and Services] at 800-827-1000{make phone number a link}. 
-We're here [days and hours, time zone]
+We're here [days and hours, time zone].
 
 If you have hearing loss, call TTY: 711.
 
