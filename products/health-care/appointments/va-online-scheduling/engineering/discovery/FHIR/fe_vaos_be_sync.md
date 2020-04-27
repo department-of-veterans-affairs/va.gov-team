@@ -23,7 +23,7 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 1. Attempt to filter Locations down from HealthcareServices available
    - Potentially pulls down too much data to be workable
    - Unclear how it would apply for appointment requests
-2. Move the VATS criteria check to a resource after Location
+2. Move the VATS supported check to a resource after Location
    - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click 
       - This is somewhere between 0 and 16% of users, based on VAOS-R analytics
       - VAOS-R team is going to attempt to see if we can get a more accurate number
