@@ -5,5 +5,5 @@ The purpose of this document is to document the VAMC Medical Center Template lau
 ## Upgrade of VAMC Left Navigation Menu
 ### Summary
 ### Launch Date
-### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/left-nav-upgrade/vamc-left-nav-enhancement-feature-brief.md)
-### [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/left-nav-upgrade/release-plan.md)
+### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/left-nav/vamc-left-nav-enhancement-feature-brief.md)
+### [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/left-nav/release-plan.md)
