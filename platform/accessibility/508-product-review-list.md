@@ -710,7 +710,7 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 
 - [[SCREENREADER, COGNITION]: Bold text SHOULD be made headings, in this instance - #7770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7770)<br/>
 **Production** | **Opened:** April 8, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-* [[COGNITION]: SHOULD use a list for a list of options - #7803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7803)<br/>
+- [[COGNITION]: SHOULD use a list for a list of options - #7803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7803)<br/>
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [[SCREENREADER, COGNITION]: State abbreviations SHOULD be coded as such - #7808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7808)<br/>
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
