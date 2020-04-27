@@ -27,8 +27,8 @@
 - Product: Update product documentation in feature README
 - Product and Design: Schedule collab Cycle Kickoff
 
-## 4. Scaffold Loan Guaranty Application Projects
-- Product: Build product documentation
+## 4. (STRETCH) Scaffold Loan Guaranty Application Projects
+- Product: Build product documentation (SK)
 
 ## Sprint 19 (4/8 - 4/21)
 ```diff 
