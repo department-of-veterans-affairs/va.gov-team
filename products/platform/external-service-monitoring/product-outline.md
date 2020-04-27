@@ -6,21 +6,19 @@
 - GitHub Label(s): `external-service`
 - Slack Channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
 - Product POCs: [Alex Pappas](https://github.com/alexpappasoddball)
-- Stakeholders: [WIP] (Dror?)
+- Stakeholders: Dror Matalon, Andrew Gunsch 
 
 #### Team Members
 
-- VA Digital Strategist(s):
 - Product Manager: Alex Pappas
-- Design Lead: 
-- Eng Lead: Bill Ryan
 - Engineers: Lindsey Hattamer, Keifer Furzland
 
 ---
 
 ## Overview
 
-[WIP]
+The external service performance monitoring product includes a collection of resources including Grafana dashboards,
+documentation and reporting for external services. 
 
 ## Problem Statement
 
@@ -70,21 +68,19 @@ VSP Backend Tools team provides and supports a collection of tools and processes
 
 ## Value Propositions
 
-[WIP]
-
-- Provide clearer insight into external service partner performance
+- Provide clearer insights into external service partner performance
 - Provide analytical support for executive-level discussion with partner service teams
 
 ## KPIs
 
-[WIP] 
+Tool is performing well if:
 
-- Tool is performing well if:
 - Teams are consistently able to see current & historical performance for external endpoints
 
 ---
 
 ### In Scope
+
 - Defining and presenting `vets-api` service level indicators (SLIs) and objectives (SLOs)
 - Collecting downstream service request metrics as part of risk analysis
 - Mapping of `vets-api` endpoints to downstream services
@@ -104,11 +100,12 @@ VSP Backend Tools team provides and supports a collection of tools and processes
 - Update `vets-api` codebase to uniformly adopt Faraday `ActiveSupport` notifications for request time [instrumentation subscription](http://dpsk.github.io/blog/2013/10/01/track-request-time-with-the-faraday/)
 - Expand product capabilities by building script(s) similar to the Lighthouse [monthly SLA report](https://github.com/department-of-veterans-affairs/devops/tree/ac6318670a49213c4d01b3d9a4a3c385d099c94e/lighthouse/reporting/monthly_sla/report)
 
-## Solution Narrative
-
-[WIP]
-
 ### Current Status
+
+#### Version 0.1 
+
+- I
+-
 
 This product is currently in the ideation & discovery phase.
 
