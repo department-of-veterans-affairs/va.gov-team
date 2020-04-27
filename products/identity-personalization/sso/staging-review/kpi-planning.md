@@ -7,7 +7,7 @@ _For example, Platform, Global UX, etc._
 
 ### North Star
 
-- Login success rates should remain constant.
+- Reduced number of logins during a session.
 
 
 ### Product
@@ -33,7 +33,7 @@ _What are the major user and business pain points along the entirety of the serv
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- [Fill out here]
+- Less time spent logging in between Va properties.
 - [Fill out here]
 - [Fill out here]
 - [Fill out here]
