@@ -21,7 +21,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 **Is the wizard intuitive to the Veterans?**</br>
 - Participants remarked that the steps were “Easy to complete or fairly straight forward”.
 - Participants favored the small amount of information and limited interaction per screen.
-- Participants remarked some steps were not intuitive, specifically, the VA number, limiting, Privacy Act, and the insurance number. 
+- Participants remarked some steps were not intuitive, specifically, the VA number, Limiting Concent, Privacy Act, and the insurance number. 
 - When encountering error states some participants what the error was about and how to address the error.
  
 **Is the information presented clearly?** </br>
@@ -106,7 +106,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 ### Power of Attorney Form (Form 21-22)
 **Participants will be unable to find the Form 21-22 on VA.gov**
 - Hypothesis is true.
-- Zero of 10 participants were able to find Form 21-22 on the VA website.
+- Zero of ten participants were able to find Form 21-22 on the VA website.
 
 **Participants associated the terms ‘Disability’ and ‘Records’ as areas to locate the Power of Attorney Form.**
 > Many of the participants searched for ‘Power of Attorney’ in the Disability section.
@@ -115,9 +115,10 @@ This topline summary is a result of the synthesis that happens after conducting/
 ### Payment History
 **Participants will be unable to locate the Payment History feature on VA.gov**
 - Hypothesis is false.
-- Nine out of 10 participants were able to navigate to the Payment History feature.
+- Nine out of ten participants were able to navigate to the Payment History feature.
 - Participants found the amount of information on the VA.gov homepage to be overwhelming.
-> Participants remarked there was a lot of information on the homepage and stated "I don't know where else to go".
+- Some participants remarked there was a lot of information on the homepage 
+ > "I don't know where else to go".
 
 ## Other Findings
 **Multiple participants requested to have ‘Military Sexual Trauma’ (MST) added to the limited compensation step of the Power of Attorney Form.**
