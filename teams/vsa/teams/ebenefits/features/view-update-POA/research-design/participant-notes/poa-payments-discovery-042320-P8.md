@@ -1,4 +1,4 @@
-## eBenefits POA/Payment History discovery session 1
+## eBenefits POA/Payment History discovery session 8
 #### Conducted: April 23, 2020 via GoToMeeting
 #### Moderator: Nick Wygonik
 #### Participant: XX (F)
