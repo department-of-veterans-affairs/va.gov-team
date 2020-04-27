@@ -171,11 +171,9 @@ April 21-24, from 9:00 AM to 3:00 PM
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md)
 
-- [Add/Remove Dependents Walkthrough/Workflows]
-
 - [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes)
 
-- [Topline Summary]()
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
 - [Research Synthesis]() (Available after research sessions.)
 
