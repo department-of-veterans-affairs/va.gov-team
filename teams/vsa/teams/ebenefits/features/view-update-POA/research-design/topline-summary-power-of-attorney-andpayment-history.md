@@ -81,11 +81,11 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Hypothesis is true.  
 - Participants searching for a specific representative easily found the office they were searching for.  
 
-**Participants will clearly understand the search feature within the wizard. **</br>
+**Participants will clearly understand the search feature within the wizard.**</br>
 - Hypothesis is false.
 - Participants struggled to understand the role the search feature played within the wizard. 
 
-**Veteran do understand their rights have been legally “handed over.” **</br>
+**Veteran do understand their rights have been legally “handed over.”**</br>
 - Hypothesis is false.
 - Participants were unclear of the overall purpose of Form 21-22 and how the form would impact their appeals process.
 
