@@ -43,3 +43,4 @@
 ## Confirmation Page
 1. Review and Submit the 686
     * `/review-and-submit` - allows person submitting to review entries, go back if needed
+    * `/confirmation` - shows that the claim was received and allows for some expectations moving forward
