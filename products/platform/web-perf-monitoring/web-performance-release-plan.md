@@ -55,6 +55,23 @@
 - Post-launch KPI 3: Performance gains per team per metric
 - Post-launch KPI 4: Number of optimization opportunities identified and scoped
 
+#### Create a full list of teams on VSP
+- Identify team admins (product leads, dev leads, FE devs)
+  
+#### Create teams on speedcurve
+- Add Admins to their teams
+- Create performance budget dashboards
+- Link perf budget alerts to Slack
+  
+#### Demo of Speedcurve Functionality
+  - Zoom Meeting & Recording
+
+#### Speedcurve Documentation
+  - 'VSP Setting up Speedcurve' Documentation
+  - 'VFS Team Admin Options for Speedcurve' Documentation
+  - 'Track, Test, Optimize Performance with Speedcurve'
+ 
+
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
