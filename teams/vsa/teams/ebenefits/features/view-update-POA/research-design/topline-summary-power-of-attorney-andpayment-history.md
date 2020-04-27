@@ -30,6 +30,15 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Many participants did not understand they were filling out Form 21-22 and were unsure how to fill out certain steps. 
 - Two things hindered participants from completing the steps: when the instructions were in legal language or if there was a lack of information providing the necessary context.
 - Participants indicated a preference towards summarizing legal language into layman terms.
+ > Users are overwhelmed by all the text on this page. Most users think they will not read most of 
+ > this text (even though they find the text important) and skip to the next step. 
+
+ > Quotes:
+
+ > “This is a heck of a lot of reading! Most of us will not read all of that. Anytime you see “terms 
+ > of service” that you have seen 50 times before, you want to skip over it.“
+ > “90% of veterans are not gonna read it!”
+ > “That is a lot of reading!”
 
 **Do users understand how to fill in each field?** </br>
 - Participants did express a lack of confidence in how they completed certain steps, specifically, VA number, Insurance Number, Authorization of Address Change, and Limited Consent.
