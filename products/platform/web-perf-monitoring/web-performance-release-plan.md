@@ -35,9 +35,9 @@
 ### Results:
 - Number of unique users: 2 Users
 - Actual results
-  - [ ] Full set of checks run weekly for one url
-  - [ ] Performance Budgets are set for every metric
-  - [ ] Performance Budget alerts are successfully sent to Slack
+  - [x] Full set of checks run weekly for one url
+  - [x] Performance Budgets are set for every metric
+  - [x] Performance Budget alerts are successfully sent to Slack
   - [ ] Number of performance budget alerts sent
   - [ ] Weekly report of all metrics that exceed performance budgets 
 - Was the data submitted (if any) easy for VA to process?: Alerts are being sent, Weekly email alert is being sent. Data is not being stored anywhere currently.
@@ -56,20 +56,21 @@
 - Post-launch KPI 4: Number of optimization opportunities identified and scoped
 
 #### Create a full list of teams on VSP
-- Identify team admins (product leads, dev leads, FE devs)
+- [ ] Identify team admins (product leads, dev leads, FE devs)
   
 #### Create teams on speedcurve
-- Add Admins to their teams
-- Create performance budget dashboards
-- Link perf budget alerts to Slack
+- [ ] Add Admins to their teams
+- [ ] Create performance budget dashboards
+- [ ] Link perf budget alerts to Slack
   
 #### Demo of Speedcurve Functionality
-  - Zoom Meeting & Recording
+  - [ ] Schedule & Record Zoom Meeting Demo
+  - [ ] Link to Zoom Recording in Help Documents
 
 #### Speedcurve Documentation
-  - 'VSP Setting up Speedcurve' Documentation
-  - 'VFS Team Admin Options for Speedcurve' Documentation
-  - 'Track, Test, Optimize Performance with Speedcurve'
+  - [ ] 'VSP Setting up Speedcurve' Documentation
+  - [ ] 'VFS Team Admin Options for Speedcurve' Documentation
+  - [ ] 'Track, Test, Optimize Performance with Speedcurve'
  
 
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
