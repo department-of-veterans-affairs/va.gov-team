@@ -1,5 +1,7 @@
 # FE - BE FHIR new appointment flow issues to resolve
 
+As of 4/27/20
+
 ## Locations can't currently be filtered by type of care a facility offers
 
 ### Proposed solutions
