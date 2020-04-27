@@ -1,7 +1,7 @@
 # 526 Original Claims on VA.gov
 
 ## Communications
-- GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
+- GitHub Label: [526](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a (#vsa-benefits-memorials)
 - Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: https://www.va.gov/disability/how-to-file-claim/
