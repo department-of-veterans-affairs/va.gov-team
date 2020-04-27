@@ -33,15 +33,15 @@ _What are the major user and business pain points along the entirety of the serv
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- Less time spent logging in between Va properties.
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Users loging in to/from va.gov to ebenefits only login once.
+- Users loging in to/from va.gov to MHV only login once.
+- Users loging in to/from va.gov to Cerner only login once.
+- Users loging in to/from va.gov to other eAuth sites only login once.
 
 ### Hypotheses
 _What do you plan to do/build/create to achieve your user and business goals?_
 
 _ex: By creating more orientation and training content, we expect teams to be more self-sufficient after they are onboarded._
 
-- [Fill out here]
+- By creating a seamless transition for authenicated users between multiple Va web properties Veterans will get access to the information they need in a timely manner.
 
