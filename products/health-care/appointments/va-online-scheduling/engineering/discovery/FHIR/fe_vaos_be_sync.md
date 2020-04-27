@@ -2,7 +2,7 @@
 
 As of 4/27/20
 
-## Locations can't currently be filtered by type of care a facility offers
+## FE is not currently able to filter out Location resources that don't offer the chosen type of care
 
 ### Proposed solutions
 
@@ -16,7 +16,7 @@ As of 4/27/20
 
 Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 
-## Locations can't currently be filtered by the VATS defined request and direct supported flags
+## FE is not currently able to filter out Location resources that don't allow online requests or scheduling
 
 ### Proposed solutions
 
@@ -26,6 +26,7 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 2. Move the VATS criteria check to a resource after Location
    - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click 
       - This is somewhere between 0 and 16% of users, based on VAOS-R analytics
+      - VAOS-R team is going to attempt to see if we can get a more accurate number
    - Unclear if this is acceptable to Lauren and other stakeholders
 3. Extend the Location resource to support VATS flags
    - Would be an array of data, one item for each Location `type`, with two flags each
