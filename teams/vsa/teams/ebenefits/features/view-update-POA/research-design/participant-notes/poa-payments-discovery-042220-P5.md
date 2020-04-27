@@ -8,8 +8,6 @@
 
 [ NOTE: Raw notes are unedited; some cleanup required ]
 
-Participant 5
-
 - Navy for four years
 - Son in military
 - Worked as contractor, FEMA
