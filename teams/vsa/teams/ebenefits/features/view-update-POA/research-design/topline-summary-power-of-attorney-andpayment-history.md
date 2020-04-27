@@ -19,10 +19,13 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Research Questions & Answers
 ### Power of Attorney
 **Is the wizard intuitive to the Veterans?**</br>
+- Participants expressed confusion about what exactly they were filling out and wanted more context up regarding the form and what to expect.
 - Participants remarked that the steps were “Easy to complete or fairly straight forward.”
+The overall intent of the form was unclear to the participants. Participants were often unsure of what they were filling out.
 - Participants favored the small amount of information and limited interaction per screen.
-- Participants remarked some steps were not intuitive; specifically, the VA number, Limiting Consent, Privacy Act, and the insurance number. 
+- Participants remarked some steps were not intuitive; specifically, the VA Number, Limiting Consent, Privacy Act, and the Insurance Number. 
 - When encountering error states some participants what the error was about and how to address the error.
+
  
 **Is the information presented clearly?** </br>
 - Many participants did not understand they were filling out form 21-22 and were unsure how to fill out certain steps. 
@@ -54,7 +57,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 
 **What matters to a Veteran when choosing a representative?**</br>
 - The participant’s history demonstrated an evolution in how representatives are chosen.  Word-of-mouth plays a significant role in selecting the first representative.  The second representative is vetted based on the shortcomings or of the first representative.
-- Examples of selection criteria are trust, distance, and availability to representative.
+- Examples of selection criteria are trust, distance, and availability to meet with their representative.
 
 
 ### Payment History
