@@ -71,7 +71,7 @@ _May 20 - June 2_
 - BE/FE: v1 code complete
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
-- Adjust the robots.txt file to include the direct link to the 686 for no_follow
+- FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
 
 ## Sprint 23
 _June 3 - June 16_
