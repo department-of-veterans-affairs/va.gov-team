@@ -6,25 +6,25 @@ These pages are part of the redesign of VAMC websites which began with the soft 
 
 ## Table of Contents
 
-[User Journey]
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#user-journey)
 
-[User Stories]
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#user-stories)
 
-[Project Rationale]
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#project-rationale)
 
-[Project Scope and Scale]
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#project-scope-and-scale)
 
-[Measuring Success]
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#measuring-success)
 
-[Dependencies]
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#dependencies)
 
-[Risk factors]
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#risk-factors)
 
-[Rejected Solutions]
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#rejected-solution)
 
-[Definition of Done]
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#definition-of-done)
 
-[Key Links]
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/fe-templates/vamc-hardening/top-task-feature-brief.md#key-links)
 
 
 ## User Journey
@@ -37,7 +37,8 @@ VA health care facilities represent the primary touchpoint for Veterans who use 
 - As the VHA, I want national content to be maintained at the national level so that Veterans have a standardized experience. 
 
 ## Project Rationale
-_Why should this project be a priority?_ 
+_Why should this project be a priority?_
+
 As the VAMC page relaunch rolls out to more VISNs, it will be important to ensure a consistent end user experience across multiple VAMCs, serve content producers by creating a flexible, reusable content model with governance mechanisms and improve the editorial experience. 
 
 ## Project Scope and Scale
@@ -74,8 +75,9 @@ This initial phase will focus on a subset of "required" VAMC pages which havw si
 
 ## Measuring Success
 _How will we know if we are successful?_
+
 OBJECTIVE 4: Deliver an efficient editorial experience
-Key result: Decreased support requests to CMS
+KEY RESULT: Decreased support requests to CMS
 
 ## Dependencies
 - This work will require coordination between the Facilities, CMS and VAMC upgrade teams. 
