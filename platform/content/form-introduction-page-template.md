@@ -136,14 +136,14 @@ This appears at the bottom of the Introduction page and shows:
 - Privacy act (link)
 
 
-### Need help? footer 
+### Need help footer 
 
 This footer appears on the bottom of every page of the form. It includes phone numbers if applicants needs more support or has questions about filling out the form. 
 
-### Need help?
+#### Need help?
 
-For help filling out this form, or if the form isn’t working right, please call [insert agency to call, e.g., VA Benefits and Services] at 800-827-1000. 
-We're here [days and hours]
+For help filling out this form, or if you have questions, please call [insert agency to call, e.g., VA Benefits and Services] at 800-827-1000{make phone number a link}. 
+We're here [days and hours, time zone]
 
 If you have hearing loss, call TTY: 711.
 
