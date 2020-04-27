@@ -34,6 +34,7 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
    - BE prefers to avoid non v4 related FHIR spec extensions
 4. Create new non-FHIR endpoint (or adapt existing one) to fetch flags for all facilities at a site, call that endpoint in parallel with Location resource fetch
    - Poor API consumer experience, confusing to future consumers
+   - Potentially poorer UI performance
 
 #### Assumptions
 - There's a mapping of the types that will be used on Location to the current types of care defined for VAOS
