@@ -12,24 +12,24 @@
 
 ### Status
 
-Solution 1 amenable to both BE and FE, not explicitly agreed upon
+Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 
 ## Locations can't currently be filtered by the VATS defined request and direct supported flags
 
 ### Proposed solutions
 
 1. Attempt to filter facilities down from HealthcareServices offered
-  - Potentially pulls down too much data to be workable
-  - Unclear how it would apply for appointment requests
+   - Potentially pulls down too much data to be workable
+   - Unclear how it would apply for appointment requests
 2. Move the VATS criteria check to a later resource
-  - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click (somewhere between 0 and 16% of users)
-  - Unclear if this is acceptable to product owners
+   - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click (somewhere between 0 and 16% of users)
+   - Unclear if this is acceptable to product owners
 3. Extend the Location resource to support VATS flags
-  - Would be an array of data, one item for each Location `type`, with two flags each
-  - Potential conceptual conflict with FHIR schedulable resources
-  - BE prefers not to extend FHIR spec
+   - Would be an array of data, one item for each Location `type`, with two flags each
+   - Potential conceptual conflict with FHIR schedulable resources
+   - BE prefers not to extend FHIR spec
 4. Create new non-FHIR endpoint (or adapt existing one) to fetch flags for all facilities at a site, make call in parallel with Location resource fetch
-  - Poor API consumer experience, confusing to future consumers
+   - Poor API consumer experience, confusing to future consumers
 
 #### Assumptions
 - There's a mapping of the types that will be used on Location to the current types of care defined for VAOS
@@ -43,18 +43,18 @@ Unresolved. FE team prefers 3, BE prefers something other than 3. 1 would likely
 ### Proposed solutions
 
 1. Create new non-FHIR endpoint to consolidate eligibility criteria, including VATS supported flags
-  - UX is basically the same as before
-  - Potentially confusing to future clients, who must consume FHIR and non-FHIR endpoints for scheduling
+   - UX is basically the same as before
+   - Potentially confusing to future clients, who must consume FHIR and non-FHIR endpoints for scheduling
 2. Prevent the return of HealthcareService resources if one of these criteria fails
-  - GET call could return an appropriate 4xx status code and include the reason in the `OperationOutcome` resources.
-  - Would require adding a patient search parameter to HealthcareResource
-  - UX is basically the same as before, but is more inline with the model of only returning resources that are actionable
-    - This model was stated as the preferred direction by Lauren A and Mike R in Tampa in January
-  - Unclear how this would apply to requests
+   - GET call could return an appropriate 4xx status code and include the reason in the `OperationOutcome` resources.
+   - Would require adding a patient search parameter to HealthcareResource
+   - UX is basically the same as before, but is more inline with the model of only returning resources that are actionable
+      - This model was stated as the preferred direction by Lauren A and Mike R in Tampa in January
+   - Unclear how this would apply to requests
 
 #### Blockers
 - It's very hard to map out a FHIR-based path for this without an understanding of the appointment request flow
 
 ### Status
 
-Unresolved. FE prefers 2, but it's unclear if the BE believes this to be feasible
+Unresolved. FE prefers 2, but it's unclear if the BE believes this to be a good direction and/or feasible
