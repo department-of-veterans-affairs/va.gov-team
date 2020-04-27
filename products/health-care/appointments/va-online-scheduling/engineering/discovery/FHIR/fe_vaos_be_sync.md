@@ -24,8 +24,9 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
    - Potentially pulls down too much data to be workable
    - Unclear how it would apply for appointment requests
 2. Move the VATS criteria check to a resource after Location
-   - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click (somewhere between 0 and 16% of users)
-   - Unclear if this is acceptable to Lauren or other stakeholders
+   - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click 
+      - This is somewhere between 0 and 16% of users, based on VAOS-R analytics
+   - Unclear if this is acceptable to Lauren and other stakeholders
 3. Extend the Location resource to support VATS flags
    - Would be an array of data, one item for each Location `type`, with two flags each
    - BE is concerned about a conceptual conflict with FHIR schedulable resources
@@ -54,7 +55,7 @@ Unresolved. FE team prefers 3, BE prefers something other than 3. 1 would likely
       - This model was stated as the preferred direction by Stephen Barrs, Lauren A, and Mike R in Tampa in 1/2020
    - Unclear how this would apply to requests
 
-#### Blockers
+#### Dependencies
 - It's very hard to map out a FHIR-based path for this without an understanding of the appointment request flow
 
 ### Status
