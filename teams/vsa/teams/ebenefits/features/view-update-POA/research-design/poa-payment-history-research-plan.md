@@ -31,7 +31,7 @@ Payment table headers:<br>
 - [References](#references)
 
 ### Goals        
-Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
+Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
 
 #### Power of Attorney
 - Document the veteran’s expectations of the tool. 
