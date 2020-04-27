@@ -25,10 +25,8 @@
 _needs to wait until research and recommendations are done_
 
 ## 3. VRE (CH31): Initial Designs
-- Product: Update product documentation in feature README
-- Product and Design: Collab Cycle Kickoff
 - Design: Compete initial designs based on minimal form scenario, schedule Design Intent meeting
+_needs more discovery_
 
 ## 4. Scaffold Loan Guaranty Application Projects
-- Product: Build product documentation
 - Research: Build conversation guide and perform initial analysis
