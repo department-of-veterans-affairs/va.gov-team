@@ -23,18 +23,20 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 1. Attempt to filter Locations down from HealthcareServices available
    - Potentially pulls down too much data to be workable
    - Unclear how it would apply for appointment requests
+   - UX would match or improve upon current application
 2. Move the VATS supported check to a resource after Location
    - Forces users who are trying to schedule at a facility that offers a type of care, but doesn't support online scheduling of it to make an extra click 
       - This is somewhere between 0 and 16% of users, based on VAOS-R analytics
       - VAOS-R team is going to attempt to see if we can get a more accurate number
    - Unclear if this is acceptable to Lauren and other stakeholders
+   - UX would match current application
 3. Extend the Location resource to support VATS flags
    - Would be an array of data, one item for each Location `type`, with two flags each
    - BE is concerned about a conceptual conflict with FHIR schedulable resources
    - BE prefers to avoid non v4 related FHIR spec extensions
 4. Create new non-FHIR endpoint (or adapt existing one) to fetch flags for all facilities at a site, call that endpoint in parallel with Location resource fetch
    - Poor API consumer experience, confusing to future consumers
-   - Potentially poorer UI performance
+   - Potentially poorer UX performance due to extra call
 
 #### Assumptions
 - There's a mapping of the types that will be used on Location to the current types of care defined for VAOS
