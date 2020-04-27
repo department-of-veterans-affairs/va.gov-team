@@ -38,7 +38,7 @@ _April 8 - April 21_
  - 🌀 [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit) ✔
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request) ✔
 - PD: contact center docs ([#8218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8218)✔)
-- DE: landing pages sent to Public Websites )[#8012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8012)✔)
+- DE: landing pages sent to Public Websites ([#8012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8012)✔)
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
