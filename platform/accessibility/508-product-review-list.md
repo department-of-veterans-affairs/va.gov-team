@@ -10,6 +10,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   - [Table of Contents](#table-of-contents)
   - [Helpful links](#helpful-links)
   - [Issues by Application](#issues-by-application)
+    - [Formation Design System](#formation-design-system)
     - [Site-wide](#site-wide)
     - [VA Developer Portal](#va-developer-portal)
     - [Outreach and Events](#outreach-and-events)
@@ -82,6 +83,27 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
+### Formation Design System
+
+**Maintainer:** VSP<br/>
+**Audit Status:** [Audit underway by VSP as of April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)<br/>
+**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3A%22design+system%22+label%3A508%2FAccessibility)**<br/>
+
+**Open Issues**
+
+- [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[SCREENREADER]: Improve the modal windows to prevent AT users from navigating page behind the window screen - #1449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1449)<br/>
+**Production** | **Opened:** August 29, 2019 | **Severity:** 508-defect-2 — **_Serious_**
+- [Update the Additional Info component to be used for Learn More expandable sections in forms - #4330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4330)<br/>
+**Production** | **Opened:** December 18, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [Create research code samples for better accordion usability with screen readers, assistive technology - #4706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4706)<br/>
+**Production** | **Opened:** January 9, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [Consider building two On This Page components for in-page anchor links - #5125](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5125)<br/>
+**Production** | **Opened:** January 9, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[IMPROVEMENT]: Formation - CONSIDER making Featured Content heading dynamic - #8352](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8352)<br/>
+**Production** | **Opened:** April 23, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
 ### Site-wide
 
 **Maintainer:** VSP & VSA<br/>
@@ -89,78 +111,53 @@ Each application or logical section of the site will have a heading and a detail
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Asitewide+label%3A508%2FAccessibility)**<br/>
 
 **Open Issues**
-
-- [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
   
 - [[COGNITION]: Multiple ambiguities with linked text in content block - #3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)<br/>
-  **Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
+**Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_*
 - [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
-  **Production** | **Opened:** July 31, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
+**Production** | **Opened:** July 31, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Text and inputs added dynamically should be announced by screen readers - #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[KEYBOARD]: main nav accessibility -- tabbing in small screens - #1144](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1144)<br/>
-  **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
-* [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one - #7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708)<br/>
-  **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-
-* [CMS, components, design system [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict - #7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723)<br/>
-  **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-
-* [sitewide, design system, CMS [AXE-CORE]: Heading levels should increase by one - #7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755)<br/>
-  **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-
-* [CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark - #7844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7844)<br/>
-  **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-
-* [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
-  **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-
+**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one - #7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708)<br/>
+**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [CMS, components, design system [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict - #7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723)<br/>
+**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [sitewide, design system, CMS [AXE-CORE]: Heading levels should increase by one - #7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755)<br/>
+**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark - #7844](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7844)<br/>
+**Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
+**Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [[EXPLORATION]: Turn on jsx-a11y ESLint rules - #1139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1139)<br/>
-  **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[EXPLORATION]: Disable known buggy axe rules individually - #1140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1140)<br/>
-  **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
-  **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [Implement utility class for removing gold outline during focus - #457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457)<br/>
-  **Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-  **Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[SCREENREADER]: VA is read phonetically instead of as the abbreviation - #4507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4507)<br/>
-  **Production** | **Opened:** January 2, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
-
+**Production** | **Opened:** January 2, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[SCREENREADER]: JAWS + Chrome enables focus mode when we focus breadcrumb UL on page load - #319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: Review sections with no header cause aria-label errors - #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
-  **Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-
-* [CMS [AXE-CORE]: All page content MUST be contained by landmarks - #7757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7757)<br/>
-  **Production** | **Opened:** April 8, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
-
-* [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner - #7710](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7710)<br/>
-  **Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
-
-* [design system, components, cms [SEMANTIC MARKUP] Download links SHOULD use the download attribute - #7840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7840)<br/>
-  **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
-
+**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+- [CMS [AXE-CORE]: All page content MUST be contained by landmarks - #7757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7757)<br/>
+**Production** | **Opened:** April 8, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+- [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner - #7710](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7710)<br/>
+**Production** | **Opened:** April 7, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
+- [design system, components, cms [SEMANTIC MARKUP] Download links SHOULD use the download attribute - #7840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7840)<br/>
+**Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
 - [Consider displaying Veterans Crisis Line info in footer on screens 767px wide and smaller - #3459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3459)<br/>
-  **Production** | **Opened:** November 13, 2019 | **_Enhancement_**
+**Production** | **Opened:** November 13, 2019 | **_Enhancement_**
 
 ---
 
