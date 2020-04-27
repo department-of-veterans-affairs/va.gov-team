@@ -19,13 +19,13 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Research Questions & Answers
 ### Power of Attorney
 **Is the wizard intuitive to the Veterans?**</br>
- - Participants remarked that the steps were “Easy to complete or fairly straight forward”
- - Participants favored the small amount of information and limited interaction per screen.
+- Participants remarked that the steps were “Easy to complete or fairly straight forward”
+- Participants favored the small amount of information and limited interaction per screen.
 - There were certain steps where participants did not understand reducing the intuitiveness of the step specifically, the VA number, limiting , privacy act, and the insurance number. Also, several participants who had errors filling out the form stated this page lacked contextual understanding of what the error is and how to rectify the error.
  
 **Is the information presented clearly?** </br>
-- Participants did not understand they were filling out form 21-22. Because participants did not understand they were filling out form 21-22, the participants were unsure of how to fill out certain steps. 
-- Two things hindered participants from completing steps: when the step instructions were in legal language or if there was a lack of content, which reduced context.
+- Many participants did not understand they were filling out form 21-22 and were unsure how to fill out certain steps. 
+- Two things hindered participants from completing the steps: when the instructions were in legal  language or if there was a lack of information provided the nessery context.
 - Participants indicated a preference towards summarizing legal language into layman terms.
 
 **Do users understand how to fill in each field?** </br>
