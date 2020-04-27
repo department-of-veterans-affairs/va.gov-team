@@ -46,10 +46,10 @@ Unresolved. FE team prefers 3, BE prefers something other than 3. 1 would likely
    - UX is basically the same as before
    - Potentially confusing to future clients, who must consume FHIR and non-FHIR endpoints for scheduling
 2. Prevent the return of HealthcareService resources if one of these criteria fails
-   - GET call could return an appropriate 4xx status code and include the reason in the `OperationOutcome` resources.
-   - Would require adding a patient search parameter to HealthcareResource
+   - The service could return an appropriate 4xx status code and include the reason in the `OperationOutcome` resource.
+   - Would require adding a patient search parameter to HealthcareResource, which it appears will already be happening
    - UX is basically the same as before, but is more inline with the model of only returning resources that are actionable
-      - This model was stated as the preferred direction by Lauren A and Mike R in Tampa in January
+      - This model was stated as the preferred direction by Stephen Barrs, Lauren A, and Mike R in Tampa in 1/2020
    - Unclear how this would apply to requests
 
 #### Blockers
