@@ -40,3 +40,5 @@
     * `/report-674-last-term-information` - asks if student attended school last term. If yes, then asks for school name, address, start and end date of term, classes and hours per week.
     * `/report-674-student-income-information` - asks if student earn an income this year and next year. If yes to either, then asks for all earnings from employment, annual social security payments, other annuities income, all other income.
     * `/report-674-student-networth-information` - asks if student has savings, investments, properties, etc. If yes, then asks for savings, value of bonds and securities, value of real estate, and value of all other assets. Optionally asks for remarks about networth.
+## Confirmation Page
+`/review-and-submit`
