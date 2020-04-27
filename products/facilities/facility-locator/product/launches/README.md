@@ -21,7 +21,7 @@ The purpose of this document is to document the Facility Locator launch timeline
 ### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mvp-feature-brief.md)
 ### [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mvp-release-plan.md)
 
-
+---
 
 ## Display of facility-level operating status
 ### Summary
@@ -30,12 +30,15 @@ The purpose of this document is to document the Facility Locator launch timeline
 ### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md)
 ### [Release Plan]
 
+---
 
 ## Display of facility-level operating status
 ### Summary
 ### Launch Date
 ### [Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/left-nav-upgrade/vamc-left-nav-enhancement-feature-brief.md)
 [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/left-nav-upgrade/release-plan.md)
+
+---
 
 ## Upgrade of VAMC Left Navigation Menu
 ### Summary
