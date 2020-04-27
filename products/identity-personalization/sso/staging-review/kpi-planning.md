@@ -3,7 +3,7 @@
 ### Product Line
 _For example, Platform, Global UX, etc._
 
-- [Fill out here]
+- Identity
 
 ### North Star
 
@@ -13,25 +13,22 @@ _For example, Platform, Global UX, etc._
 ### Product
 _For example, Health Care Application (10-10EZ), Disablitiy Compensation Application (21-526EZ), etc._
 
-- [Fill out here]
+- SSOe
 
 ### Objectives (& OKRs)
 _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
 
-- [Fill out here]
-- [Fill out here]
+- Create a seamless authenticated user experience to/from VA.gov and other properties like MHV and eBenefits.
+- Clearly communicate information about this change to users.
 - [Fill out here]
 - [Fill out here]
 
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- See [Pain Points](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso) in the SSOe product outline.
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
