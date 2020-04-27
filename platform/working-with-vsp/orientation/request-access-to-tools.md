@@ -43,7 +43,7 @@ We will be walking through how to request access in the steps outlined below.
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
-#### <a id="authorizekeys">2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
+#### <a id="authorizekeys"></a>2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
 * Use the issue template `Environment Access Request Template`.
   * Follow the template instructions.
