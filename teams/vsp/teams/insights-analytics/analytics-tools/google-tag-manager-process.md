@@ -2,6 +2,15 @@
 
 *Overview*: This resource outlines suggested processes for the Analytics-Insights team to guide and implement common VFS requests for Modernized products. Implementation requests for MyHealtheVet, eBenefits, and legacy content are noted as well. 
 
+## What GTM Is NOT Needed For Tracking
+- Tracking static page links that lead to one location 
+  - _These types of requests should be pushed back on in lieu of utilizing Navigation Summary and/or Previous Page Reports_
+- Direct conversion / funnel / abandon tracking
+  - _These types of requests can be fulfilled with goal or custom funneling within Google Analytics_
+- Search terms (maybe) 
+  - _This is more commonly done at the view level within Google Analytics instead of GTM_
+  - _That said, there may be cases in the future where we need to do search through GTM_
+  
 ## TLDR - General Acceptance Criteria for VFS Implementation
 - Meet with VFS team to scope dataLayer requirements
 - Develop requirements and send to FE team
@@ -20,6 +29,16 @@ After completing the discovery call and completing adjustments to acceptance cri
 
 ### dataLayer Requirements
 After consulting with the VFS Product Manager and FE team members, the Analytics-Insights team member should begin drafting dataLayer events and, where applicable, dataLayer variables. These requirements should be provided to the VFS team in the _Analytics Implementation & QA_ issue. 
+
+##### Example DL Reuirements Template
+- In addition to this template, it's often a good idea to have a "Developer Notes" section of important things to the FE to know / keep in mind when implementing
+- Each event / interaction should have it's own row clearly identifying the business use case and the event / variables that correspond
+- Screenshots should be used where needed to give further context
+
+Description of Interaction | dataLayer Example
+------------ | ------------- 
+_i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click'`<br>`});`
+_i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click'`<br>`});`
 
 ### Google Tag Manager Configuration 
 As the VFS team is implementing the requirements, the Analytics-Insights team should begin configuration of the new or revised Google Tag Manager tag(s), trigger(s), and/or variable(s). There are several shared configurations that can be leveraged across VFS forms products or global navigation elements. These are outlined below. Implementation for other use cases will be noted. 
@@ -74,6 +93,27 @@ Configuration for non-form products include implementation for the Facility Loca
 1. Provide dataLayer requirements to VFS teams that follow the `product prefix-interaction suffix`. For example, the event for MyHealtheVet logins is `login-attempted-mhv`.  
 2. Add conditions to triggers, like page paths where the trigger should fire, if applicable.
 3. Apply custom dimensions if necessary
+
+### QA Testing
+As part of story validation, the Analytics & Insights teams performs thorough QA of both the dataLayer and GTM workspace. This testing should be done within the staging environment and reflect as close to the final functionality as possible. The QA process can be deamed "done" when the following are done: 
+1. The dataLayer events and variables have been validated according to relevant test scenarios.
+2. The GTM configuration, by a different team member than the one who configured the workspace, has been validated according to the same relevant test scenarios. 
+3. All test scenarios have been documented within the github issue. Please see below for template. 
+
+##### Edge Cases to Test / Ask yourself
+1. **DL Bleed-over**: If multiple events fire on a page and are used within the same tagging, ensure DL variables DO NOT bleed-over into other irrelevant events. This can be solved by asking the developer to pass in `undefined` for events where the variable is not used
+2. **Refresh**: Would a refresh negatively impact this data? Is it a risk we need to account for? 
+3. **Funneling**: Would a user moving forward and backward within the form cause issues? 
+4. **Authentication**: Does authentication impact this tracking?  
+
+##### Example QA Template
+- The folowing template can be used for both QAing the DL as well as GTM tagging
+- Screenshots should clearly and concretely reflect the test case, which relevant pointers, arrows, boxes emphasizing these scenarios
+
+Description of Interaction | Screenshot | Test Status
+------------ | ------------- | -------------
+_i.e Clicked primary CTA button on X page_ | Screenshot 1 here | ✔️ **PASS**
+_i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
 The Analytics-Insights team also receives infrequent requests to implement new tracking on MHV,eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, the Analytics-Insights team has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
