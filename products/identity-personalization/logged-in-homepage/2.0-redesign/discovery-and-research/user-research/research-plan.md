@@ -35,9 +35,9 @@ We'd like to talk with Veterans to better understand their expectations of logge
 
 **4. What is your hypothesis for this research?**
    - Veterans will see their profile as a place to see personal information about them that is in their control.
-   - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
+     - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
    - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA
-   - Content expectations for the logged-in homepage would be status updates, benefits they currently receive, historical info like past claims, information related to their healthcare provider, etc.
+     - Content expectations for the logged-in homepage would be status updates, benefits they currently receive, historical info like past claims, information related to their healthcare provider, etc.
    - There will be some items of content whose ideal location will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
    - The content Veterans expect to see on their logged-in homepage will mostly be items they can take action on, and they'll expect a way to take a next step.
    - Veterans will expect to see notifications in some kind of notification specific area, probably accessible through the navigation.
@@ -102,10 +102,11 @@ Please list the people who will be serving in each role. Include the primary pho
   -  Participant(s) for pilot test: TBD
   -  Note-takers: TBD
   -  Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
-    - Samara Strauss
-    - shawna.hein@adhoc.team
-    - matt.shea@adhoc.team
-    - tressa.furner@adhoc.team 
+  
+   -  samara.strauss@va.gov
+   -  shawna.hein@adhoc.team
+   -  matt.shea@adhoc.team
+   -  tressa.furner@adhoc.team 
 
 
 
