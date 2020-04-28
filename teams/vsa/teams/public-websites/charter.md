@@ -57,6 +57,7 @@ Ex:
 ### **Workflow + Cadence**
 
 **Stand-up**
+
 Stand-ups meetings will be held in a [zoom meeting](https://us02web.zoom.us/j/95694473204). The team will still hold Stand-up meeting in the Zoom evern if all members can not make it.   
 
 Join Zoom Meeting
@@ -79,6 +80,7 @@ Find your local number: https://us02web.zoom.us/u/kcndZmlWfA
 
 
 **Stand Up: People / Product check-ins**
+
 M,W,Th,Fri on Zoom @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
 Tues on Slack
 Note: 
@@ -89,12 +91,14 @@ Note:
  - Any Blocker and Dependancies?
 
 **Sprint Planning**
+
 Outline team and member focus, goals for sprint
 1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
 on a [zoom meeting](https://us02web.zoom.us/j/98086497393)
 1.5 hours
 
 **Retro**
+
 Review accomplishments, ways to improve from prior sprint: [Funretro] (https://funretro.io/dashboard)
 Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
 on a [zoom meeting](https://us02web.zoom.us/j/99104113238)
@@ -103,6 +107,7 @@ on a [zoom meeting](https://us02web.zoom.us/j/99104113238)
 - What to start doing
 
 **Grooming** 
+
 Assess and update workload for remainder of sprint
 2nd Wednesday of every sprint, 1-hour
 on a [zoom meeting](https://us02web.zoom.us/j/93282204164)
