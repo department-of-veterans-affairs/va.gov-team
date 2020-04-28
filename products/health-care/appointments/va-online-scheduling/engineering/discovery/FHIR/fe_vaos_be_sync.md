@@ -1,6 +1,6 @@
 # FE - BE FHIR new appointment flow issues to resolve
 
-As of 4/27/20
+As of 4/28/20
 
 ## FE is not currently able to filter out Location resources that don't offer the chosen type of care
 
@@ -43,7 +43,9 @@ Solution 1 amenable to both BE and FE, but not explicitly agreed upon
 
 ### Status
 
-Unresolved. FE team prefers 3, BE prefers something other than 3. 1 would likely be acceptable to both, but we can't currently tell if it's feasible due to outstanding questions around appointment requests and issues with VSP staging.
+Moving forward with option 1: https://issues.mobilehealth.va.gov/browse/VAOSR-613. FE should consider back up option of 2 if 1 turns out to not be feasible.
+
+Source: meeting on 4/28/20, 11:15 am ET.
 
 ## VA online scheduling policy checks are done in Appointment resource, and the FE needs them to happen earlier
 
@@ -64,4 +66,6 @@ Unresolved. FE team prefers 3, BE prefers something other than 3. 1 would likely
 
 ### Status
 
-Unresolved. FE prefers 2, but it's unclear if the BE believes this to be a good direction and/or feasible
+Past visits and PACT checks will be incorporated into HealthcareService call outlined here: https://issues.mobilehealth.va.gov/browse/VAOSR-613. We will need to be cognizant of performance impacts.
+
+Source: meeting on 4/28/20, 11:15 am ET.
