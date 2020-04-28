@@ -62,7 +62,7 @@ Method
 Participants and Recruitment
 ----------------------------
 
-**1.Participant criteria: What are you looking for in a participant?**
+**1. Participant criteria: What are you looking for in a participant?**
   - Veterans who log into VA.gov
   - To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment.
   - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. 
@@ -74,12 +74,15 @@ When?
 -----
 
 **1. Timeline: What dates do you plan to do research?** 
+
 May 11-May 15, 2020
 
 **2. Prepare: When will the thing you are testing be ready?** 
+
 Card sort + co-design plans will be finalized by May 6
 
 **3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)**
+
 45-60 minutes
 
 **4. Availability: If applicable, when would you like sessions scheduled?**
@@ -89,6 +92,7 @@ Card sort + co-design plans will be finalized by May 6
   - May 12 and 14: available from 7am-9am, 11am-3pm or 6-8pm
 
 **5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+
 May 7, team member TBD
 
 Team Roles
