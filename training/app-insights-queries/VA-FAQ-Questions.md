@@ -48,6 +48,6 @@ customEvents
         ) on conv_id_
     
 //| where stepLabel_ == 'root'
-| where stepLabel_ == ''
+//| where stepLabel_ == ''
 | summarize count() by tostring(stepText_), tostring(stepResponseMessage_), tostring(stepLabel_)
 ```
