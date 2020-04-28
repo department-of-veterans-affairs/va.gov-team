@@ -80,7 +80,7 @@ If possible, we would like to add the following question as an open text field q
 ### When
 
 1. Timeline for this study: Monday, May 4 – Friday, May 15 (depending on recruitment)
-2. Length of Sessions: 45–60 minutes
+2. Length of Sessions: 45–60 minutes (we'd like to schedule for an hour, but we anticipate sessions taking ~45 minutes)
 3. Availability: Monday – Wednesday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions.
 4. Prepare: We will conduct a pilot interview on April 30 or May 1.
 
