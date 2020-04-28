@@ -31,7 +31,7 @@ Payment table headers:<br>
 - [References](#references)
 
 ### Goals        
-Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
+Is to migrate the current eBenfits digital version of Form 21-22 & 21-22a to VA.gov. In doing so, the VSP team will assess the clarity of the content to increase the veteran's understanding and reduce confusion, reducing bounce rates, and incomplete applications.
 
 #### Power of Attorney
 - Document the veteran’s expectations of the tool. 
@@ -52,7 +52,7 @@ Is to mirgrate the current eBenfits ditigal version of Form 21-22 & 21-22a to VA
   - Confirm attorney or VSO involvement with completing the form? 
   - Assess the helpfulness of the legal text.
     - Should/could we write better content for each step to increase veterans understanding of the legal statements?
- - Determine veterans awareness of what the next steps are the denial process.
+ - Determine veterans awareness of what the next steps are in the denial process.
  - Determine if veterans can differentiate wizard’s steps and search functionality
  - Determine if plain language and or guidance would be helpful to increase comprehension of the legal process and ramifications.  
 
@@ -171,11 +171,9 @@ April 21-24, from 9:00 AM to 3:00 PM
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md)
 
-- [Add/Remove Dependents Walkthrough/Workflows]
-
 - [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes)
 
-- [Topline Summary]()
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
 - [Research Synthesis]() (Available after research sessions.)
 

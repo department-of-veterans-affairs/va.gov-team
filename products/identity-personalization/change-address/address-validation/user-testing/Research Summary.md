@@ -34,19 +34,19 @@ We talked to **4 veterans**:
 
 **Address is invalid. User can override this determination or pick a suggested address.**
 
-![Address invalid: Override; Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/images%20for%20user%20testing%20report/Address%20invalid:%20Override%3B%20Suggestions.png)
+![Address invalid: Override; Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user-testing/images-for-user-testing-report/address-invalid-override-suggestions.png)
 
 **Address is invalid. User can override this determination, but there are no suggestions.**
 
-![Address invalid: Override; No suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/images%20for%20user%20testing%20report/Address%20invalid:%20Override%3B%20No%20suggestions.png)
+![Address invalid: Override; No suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user-testing/images-for-user-testing-report/address-invalid-override-no-suggestions.png)
 
 **Address is invalid. User can not override this determination. They can only edit or pick a suggested address.**
 
-![Address invalid: No override; Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/images%20for%20user%20testing%20report/Address%20invalid:%20No%20override%3B%20Suggestions.png)
+![Address invalid: No override; Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user-testing/images-for-user-testing-report/address-invalid-no-override-suggestions.png)
 
 **Address is invalid. User can not override this determination. They can only edit their address.**
 
-![Address invalid: No Override; No Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/images%20for%20user%20testing%20report/Address%20invalid:%20No%20Override%3B%20No%20Suggestions.png)
+![Address invalid: No Override; No Suggestions.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user-testing/images-for-user-testing-report/address-invalid-no-override-no-suggestions.png)
 
 ## Results & Takeaways
 

@@ -14,11 +14,12 @@ Answers to these questions help determine where applicants are taken in order to
 
 A helpful example [is available here](https://www.va.gov/education/how-to-apply/). Applicants navigate to the wizard and complete a series of questions to determine which education application is most appropriate for their needs.  
 
-- They are currently four (4) urls where in-content "How to Apply" wizards exist:
+- They are currently four (5) urls where in-content "How to Apply" wizards exist:
   - https://www.va.gov/education/eligibility
   - https://www.va.gov/education/how-to-apply
   - https://www.va.gov/disability/eligibility
   - https://www.va.gov/disability/how-to-file-claim
+  - https://www.va.gov/decision-reviews/higher-level-review/
 
 Veterans typically land on these content pages while researching benefits. 
 However, these pages may not always make it easy for Veterans to find these helpful in-content wizards (and subsequently the right online application). *data point --> % of views on https://www.va.gov/education/how-to-apply/ that result in outbound navigation to application*
@@ -66,10 +67,10 @@ How might we make the Veteran experience of starting online applications more se
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- (1) Develop user flows that outline proposed approach of moving wizards to the Applicaton/Tool landing pages - https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6315
+- (2) Validate assumptions -- as much as possible -- with usage data (Analytics Team) and user insights (Contact Center)
+- (3) Determine if a prototype can/should be built to validate assumptions -- or if we can/should build a live MVP version on site with traffic throttling
+
 
 --- 
 
@@ -106,7 +107,7 @@ How might we make the Veteran experience of starting online applications more se
 - Team Name: Public Websites
 - GitHub Label: vsa-public-websites
 - Slack channel: #vsa-public-websites, #va-how-to-apply-wizards
-- POCs: Jennifer Lee, Liz Lantz, Selina Cooper, Mikki Northius
+- POCs: John Hashimoto, Liz Lantz, Selina Cooper, Mikki Northius
 
 ---
 

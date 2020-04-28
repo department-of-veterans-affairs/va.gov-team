@@ -23,6 +23,9 @@
 ---
 
 ## Changelog
+### Sprint 24 (04-06-2020 - 04-28-2020)
+[Error Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/error-monitoring)
+- Sentry was upgraded to version 9.1.2 and the BE Tools team is assisting setting up each team wanting to work in Sentry in order to setup the filtering and triaging of alerts.  Instructions on configuring Sentry can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d0ee4cc50068f41083732455a7df86b6b5d59b67/platform/engineering/sentry-configuration.md)
 
 ### Sprint 23 (04-02-2020 - 4-14-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.2

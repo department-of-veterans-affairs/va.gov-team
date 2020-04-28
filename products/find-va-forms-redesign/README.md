@@ -20,6 +20,23 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 ## This is the folder for all background, historical, discovery documents for this product. 
 
+# Communications
+ - Team Name: Public Websites
+ - GitHub Label: #vsa-public-websites
+ - Slack channel: #vsa-public-websites
+ 
+
+# Team Members
+|Name|Role|
+|----|----|
+|Jennifer Lee	| Public Websites Product Owner|
+|Stephanie Orkand |Product Manager|
+|Nick Sullivan	|FE Engineer|
+|Kelson Adams|	FE Engineer|
+|Laura Walsh|	Content|
+|Randi Hecht	|Content|
+
+
 
 __VA forms stakeholder working group includes:__
 

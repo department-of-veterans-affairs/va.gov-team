@@ -5,6 +5,12 @@
 
 ---
 
+[UI Review View Dependents Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/view-dependents-punch-list-4-22.md)
+
+[UI Review Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0420.md)
+
+---
+
 #### View Dependents
 
 | Screens | Mockup Links | Text Sources |

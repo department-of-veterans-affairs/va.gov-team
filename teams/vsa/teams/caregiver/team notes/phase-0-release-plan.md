@@ -1,30 +1,36 @@
 # 10-10CG Phase 0 Release Plan
 
-- [Draft Timeline](#draft-timeline)
+- [Timeline](#timeline)
 - [Dark Release Definition](#dark-release-definition)
 - [Soft Release Definition](#soft-release-definition) 
 - [Phase 0 User Stories](#user-stories)
 
-## Draft Timeline
+## Timeline
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
-| April 10 | Content and design complete* | [Completed on 4/16](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
-| April 14 | VSP Analytics request | [Completed on 4/16](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
-| April 23 | Frontend complete | |
-| April 30 | Acumen endpoint delivery | |
-| May 4 | VSP Contact Center Review | |
-| May 15 | Backend complete | |
-| May 18 | VSP Privacy and Security Review | |
-| May 18 | VSP Staging Review | |
-| May 18 - May 22 | End-to-end testing with CARMA | |
-| May 27 | Dry Run Release| |
-| May 29 | Phase 0 Dark Release<sup>+</sup> | [Program Definition](#dark-release-definition)|
-| June 1 | VSP Full Accessibility and 508 Office Audit | |
-| July 30 | Soft Release<sup>+</sup> | [Program Definition](#soft-release-definition) |
+| April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
+| April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
+| April 23 | Payload validation testing with CARMA in QA/Dev | Completed| 
+| April 24 | First draft  frontend complete | On track|
+| April 27 | Submit VA.gov Platform Staging Review Request | On track |
+| April 30 | CARMA Staging endpoint delivery | External |
+| May 1 | VA.gov Platform Staging Review complete | On track |
+| May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
+| May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
+| May 15 | Frontend complete | On track
+| May 15 | Backend complete | On track
+| May 18 | VA.gov Platform Privacy and Security Review | On track
+| May 18 - May 22 | Dark Release functionality testing with CARMA| On track
+| May 29 | Phase 0 Dark Release<sup>+</sup> | On track
+| June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
+| July 30 | Soft Release<sup>+</sup> | On track
 
- `*` Risk - this is still in progress, and could take additional time to reach agreement
 
 `+` As defined by the Program team
+- [Dark Release Definition](#dark-release-definition)|
+- [Soft Release Definition](#soft-release-definition) |
+
+For more information on the VSP (VA.gov Platform) Collaboration touchpoints, please see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md).
 
 ## Dark Release Definition
 (as of 4/15/20)
@@ -52,7 +58,7 @@
 | Ensure that all fields have been completed appropriately (data validation) | n/a | :white_check_mark:|
 | Select a medical facility from a program-approved list | n/a | :white_check_mark:|
 | Review entered data prior to submission | 176 | :white_check_mark:|
-| Provide a signature for Veteran and Caregiver | 164 | :white_check_mark:|
+| Provide a signature for Veteran and Caregiver(s) | 164 | :white_check_mark:|
 | Recieve and print a confirmation message after submission | n/a | :zap: |
 | Receive instruction to print and mail the form if online submission is not available| n/a | :zap: |
 | Not able to edit form after submission| 165 | :white_check_mark:|
@@ -60,7 +66,6 @@
 | Business will be able to: | 
 | Verify veteran identity through MPI and ICN number | n/a| :zap: |
 | Recieve application in CARMA immediately | n/a | :no_entry_sign:|
-| Ensure a valid address was entered | n/a| :zap: |
 | Recieve a paper version of the 10-10CG with filled in information | n/a | :zap: |
 
 

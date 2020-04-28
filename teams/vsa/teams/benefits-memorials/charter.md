@@ -6,14 +6,14 @@
 
 ## Guideposts 
 ### B&M 1  Mission Statement:
-Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
+Making it quick and easy for veterans to apply for their benefits.
+
 
 ### B&M 1 Vision:
-WIP - _What's the ideal end-state for B&M 1 and its problem space in 1-2-3 years?_ 
+Obtaining VA benefits is the easiest thing Veterans do online. 
 
 ### B&M 1  North Star:
-WIP - _What's our indicator of success for our vision? e.g. average time through each or all decision review processes?_
-Perhaps create separate north stars to account for decision review vs. claims vs. appeals
+Reduce the effort and complexity of getting your benefits payment.
 
 ## What we work on
 ### **Product Line** 

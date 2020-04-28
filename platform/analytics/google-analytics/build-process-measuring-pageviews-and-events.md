@@ -29,7 +29,7 @@ _Example_:
 For example, within their visit to the site, a user comes to our homepage, goes to `/health-care/`, and then back to the homepage, Google Analytics will record the activity like so: 
 
 | Interaction | Pageview | 
-| --- | --- | 
+| :--- | :--- | 
 | Veteran visits www.va.gov | 1 Pageview |
 | Veteran visits www.va.gov/health-care | 1 Pageview | 
 | Veteran returns to homepage | Records a 2nd pageview for the homepage|
@@ -67,21 +67,22 @@ The code snippets takes on a format like `window.dataLayer.push({ event: 'vets-c
 The naming convention for products begins with these prefixes:
 
 |Product|Prefix|
-|---|---|
-|Claims Tracker | `claims-`|
-|Sign-on | `login-`, `logout-`, `register-`, `verify-`|
-|Navigation | `nav-` |
-|Terms and Conditions | `terms-` |
-|Facility Locator | `fl-` |
-|Education Applications | `edu-`,  `edu-1990e-`, `edu-1990n-`, `edu-1995-`, `edu-5490-`, `edu-5495-`|
-|Health Care Applications | `hca-`, `vaos-` |
-|GIBCT| `gibct-`|
-|Post 9-11 Benefits Status| `post911-`|
-|Health Records| `health-record-` |
-|VA Letters| `letter-`|
-|Secure Messaging| `sm-` |
-|Prescription Refills| `rx-`|
+|:---|:---|
 |Burials|`burials-530-`, `preneed-`|
-|Pensions|`pensions-`|
-|Veteran ID Card| `vic-`|
+|Claims Tracker | `claims-`|
 |Discharge Upgrade| `discharge-upgrade-`|
+|Education Applications | `edu-`,  `edu-1990e-`, `edu-1990n-`, `edu-1995-`, `edu-5490-`, `edu-5495-`|
+|Facility Locator | `fl-` |
+|GIBCT| `gibct-`|
+|Health Care Applications | `hca-`, `vaos-` |
+|Health Records| `health-record-` |
+|Navigation | `nav-` |
+|Pensions|`pensions-`|
+|Post 9-11 Benefits Status| `post911-`|
+|Prescription Refills| `rx-`|
+|Profile | `profile-`|
+|Secure Messaging| `sm-` |
+|Sign-on | `login-`, `logout-`, `register-`, `verify-`|
+|Terms and Conditions | `terms-` |
+|VA Letters| `letter-`|
+|Veteran ID Card| `vic-`|

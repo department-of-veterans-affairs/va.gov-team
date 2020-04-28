@@ -5,7 +5,7 @@ Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Lear
 Additional formats to access content
 
 * [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/abc-2019-11-22-inclusive-design-best-practices.pdf)
-* [Video]() - to come when we have a place for videos
+* [Video download, mp4, 77.7Mb](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/2019-11-22-ABC-Inclusive-Design-Best-Practices.mp4) - to come when we have a place for videos
 
 ## Point of Contacts
 * Jennifer Strickland, VSA Accessibility Specialist
