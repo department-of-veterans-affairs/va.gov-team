@@ -107,9 +107,13 @@ Please list the people who will be serving in each role. Include the primary pho
   -  Note-takers: TBD
   - Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
     - samara.strauss@va.gov
-    - shawna.hein@adhoc.team
-    - matt.shea@adhoc.team
-    - tressa.furner@adhoc.team
+    - shawna.hein@adhocteam.us
+    - matt.shea@adhocteam.us
+    - tressa.furner@adhocteam.us
+    - erik@adhocteam.us
+    - lihan@adhocteam.us
+    - tze@adhocteam.us
+    - jennifer.strickland@adhocteam.us
 
 Resources
 ---------
