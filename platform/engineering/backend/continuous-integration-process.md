@@ -82,7 +82,7 @@ In addition to traditional unit tests, several compliance scans will run. These 
 - Code Coverage: An automated testing suite can only reliably tell you if your app is still working after changes if enough of it is covered by automated tests. A code coverage scanner makes sure xx% of the application is always covered.
 - Linting: This checks your code for clean style or easy to catch syntactic errors. This helps make the code more maintainable by helping make the code itself idiomatic and consistent looking across modules.
 
-Note that integration tests and 508 compliance tests are not run during this phase, but are run in a later process during the [Deployment Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/deployment-process.md).
+Note that integration tests and 508 compliance tests are not run during this phase, but are run in a later process during the [Deployment Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/deployment.md).
 
 ## Test and peer review code
 
