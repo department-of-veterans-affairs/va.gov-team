@@ -58,33 +58,10 @@ Ex:
 
 **Stand-up**
 
-Stand-ups meetings will be held in a [zoom meeting](https://us02web.zoom.us/j/95694473204). The team will still hold Stand-up meeting in the Zoom evern if all members can not make it.   
-
-Join Zoom Meeting
-https://us02web.zoom.us/j/95694473204
-
-Meeting ID: 956 9447 3204
-One tap mobile
-+13462487799,,95694473204# US (Houston)
-+12532158782,,95694473204# US (Tacoma)
-
-Dial by your location
-        +1 346 248 7799 US (Houston)
-        +1 253 215 8782 US (Tacoma)
-        +1 669 900 6833 US (San Jose)
-        +1 312 626 6799 US (Chicago)
-        +1 929 205 6099 US (New York)
-        +1 301 715 8592 US (Germantown)
-Meeting ID: 956 9447 3204
-Find your local number: https://us02web.zoom.us/u/kcndZmlWfA
-
-
-**Stand Up: People / Product check-ins**
-
-- M,W,Th,Fri on Zoom @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
--- Tues on Slack
-- 30 min total
-- 3 Question Format: 
+* M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+- Tues on Slack
+* 30 min total
+* 3 Question Format: 
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
