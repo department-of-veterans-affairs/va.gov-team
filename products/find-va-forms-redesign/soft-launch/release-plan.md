@@ -43,18 +43,20 @@ Moderated production testing (also known as User Acceptance Testing, or UAT)
   - Drupal content updates
   - Make 'download PDF form' links in the modern forms search initiate download
 
-## Phase II: :o:
+## Phase II: :cyclone:
 Unmoderated production testing
 
 ### Planning:
-- **Desired date range:** 04/20/2020 - 04/23/2020
-- **Desired number of unique users:** 150
+- **Desired date range:** 4/29-5/1
+- **Desired number of unique users:** 300 (based on number of unique users navigating to /vaforms from a query for "forms" on VA.gov's on-site search
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** 
   - Live in production no longer behind auth
   - Top Recommendations (Best Bets) updated on VA.gov on-site search to reflect new form experience
-  - Not included: redirects, footer updates
+  - **Not** included: redirects, footer updates
 - **"Success" criteria (by the numbers):** 
-  - TBD % PDF downloads / top searches e.g. % downloads / searches for 21-526ez
+  - Conversions present to "Frequently used VA forms"
+  - Conversions present to "Manage your VA and other information online"
+  - Conversions present to "More information"
 
 ### Results:
 - **Number of unique users:** x
