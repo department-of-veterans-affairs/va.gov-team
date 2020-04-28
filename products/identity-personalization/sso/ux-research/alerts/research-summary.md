@@ -27,13 +27,13 @@ We wanted to test 3 different design directions to determine what design Veteran
 *Design directions for reference*
 
 ##### Direction 1
-![Direction 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option1.png "Direction 1")
+![Direction 1](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/alerts/Option1.png "Direction 1")
 
 ##### Direction 2
-![Direction 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option2.png "Direction 2")
+![Direction 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/alerts/Option2.png "Direction 2")
 
 ##### Direction 3
-![Direction 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/Option3.png "Direction 3")
+![Direction 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/alerts/Option3.png "Direction 3")
 
 
 ## Overall, participants preferred Direction 2
