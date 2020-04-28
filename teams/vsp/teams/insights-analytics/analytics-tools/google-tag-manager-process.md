@@ -52,9 +52,11 @@ Other events that do not fall into these buckets are then placed into a default 
 | edu.* | Forms - Education |
 | burials.* | Forms - Burials | 
 | preneed.* | Forms - Burials | 
-| (hca|vaos).* | Forms - Health Care |
+| (hca\|vaos).* | Forms - Health Care |
 | pensions.* | Forms - Pensions | 
 | disability.* | Forms - Disability |
+
+Other events that do not fall into these buckets are given a default Event Action of "Forms".
 
 *Event Label uses the `event` that triggered the tag*. This is helpful for debugging and for reporting in the Behavior>Top Events report in Google Analytics.
 
