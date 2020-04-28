@@ -1,5 +1,7 @@
 
-# Research Plan for Mobile App Discovery, April 24, 2020
+# Research Plan for Mobile App Discovery
+
+April 24, 2020
 
 ## What product & team?
 
@@ -50,9 +52,9 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
 
 ### Participants and Recruitment
 
-- We would like to interview 8-10 Veterans for this generative research project. Participant criteria: 
-- All participants must be Veterans.
-- Participant pool should be diverse in
+We would like to interview 8-10 Veterans for this generative research project. Participant criteria: 
+- All participants must be Veterans
+- Participant pool should be diverse in:
   - Branch of service
   - Gender (30% or more women)
   - Race
@@ -66,6 +68,8 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
   - Health care benefits
 - At least 1 assistive device user (nice to have)
 
+If possible, we would like to add the following question as an open text field question to the recruitment screener (nice to have)
+- How would you describe your mobile device usage?
 
 ## Recruitment strategy
 
@@ -78,7 +82,7 @@ Remote, mostly conversational sessions with Veterans. If warranted by the conver
 1. Timeline for this study: Monday, May 4 – Friday, May 15 (depending on recruitment)
 2. Length of Sessions: 45–60 minutes
 3. Availability: Monday – Wednesday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions.
-4. Prepare: We will conduct a pilot interview on May 1. 
+4. Prepare: We will conduct a pilot interview on April 30 or May 1.
 
 
 ### Team Roles
