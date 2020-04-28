@@ -33,8 +33,7 @@ Read on to learn about the different types of documentation and meetings we use 
 
 ---
 
-## Sprint Objectives Reporting process
-_to be defined_
+## [Sprint Objectives Reporting process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/sprint-objectives/sprint-objectives-roe.md)
 
 ---
 
