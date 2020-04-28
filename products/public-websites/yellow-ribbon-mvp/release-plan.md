@@ -1,21 +1,22 @@
 # Release Plan Yellow Ribbon MVP
-
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
-
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
-
-That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.
-
+WIP
 ---
+Phased roll-out:
+* Yellow Ribbon Participating Schools page available, link sent to stakeholders
+* Redirects and content updates implemented, opening access/discoverability to page
+
+Things to decide: do we need to release to production behind an auth experience (like Find VA Forms)?
+Are there SEO implications if we have it available on production but no redirects/content updates in place? Soft Launch
+
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired date range or test duration: [May 6, 2020 - May 13, 2020] or [duration]
+- Desired number of users: Stakeholders for the Yellow Ribbon initiative
+- How you'll recruit the right production test users: VA's Yellow Ribbon contacts
+- How you'll conduct the testing: Share the production link with the test group
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: URL will be accessible
 
 ### Results:
 - Number of users: x
@@ -28,9 +29,9 @@ That's what this Release Plan Template is for! And note - there are feature togg
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
-- Desired number of unique users: x
-- How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
+- Desired date range: [05/06/2020 - 05/13/2020]
+- Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders. Desired number of uniques: 50
+- How you'll make the product available in production while limiting the # of users who can find/access it: https://www.va.gov/education/yellow-ribbon-participating-schools will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
 ### Results:
@@ -46,7 +47,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: 05/14/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
