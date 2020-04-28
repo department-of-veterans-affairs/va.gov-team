@@ -7,12 +7,15 @@
 ## Guideposts
 
 ### Team Mission Statement:
-
+Provide Veterans and others access to vital information about VA benefits and services
 
 ### Team Vision:
+We envision a world where it takes less tiem to find information about VA benefits and services than it does on Google
 
 ### Team North Star:
-
+1. Use of self-service tools and associated number of conversions
+2. Time to outcome
+3. Customer Satisfaction
 
 ## What we work on
 
