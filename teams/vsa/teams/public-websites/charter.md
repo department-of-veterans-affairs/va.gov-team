@@ -10,7 +10,7 @@
 Provide Veterans and others access to vital information about VA benefits and services
 
 ### Team Vision:
-We envision a world where it takes less tiem to find information about VA benefits and services than it does on Google
+We envision a world where it takes less time to find information about VA benefits and services than it does on Google
 
 ### Team North Star:
 1. Use of self-service tools and associated number of conversions
@@ -19,12 +19,16 @@ We envision a world where it takes less tiem to find information about VA benefi
 
 ## What we work on
 
-### **Product Line** 
-Public Website
+### **Product Line**
+Global unauthenticated experience team for VA.gov
 
 ### **Product Portfolio**
-  - [name](link)
-  - Tools, section of site
+  - Public website content
+  - Global menu
+  - Benefit hubs
+  - Onsite search
+  - [Find a VA Form](https://www.va.gov/find-forms)
+  
 
 ### **Responsibilities**
 TBD
@@ -49,96 +53,69 @@ Ex:
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
 
-## KPIs
-Ex:
-[Medical Device Tool KIP's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)
 
 ### **Workflow + Cadence**
 
 **Stand-up**
-Stand-ups meetings will be held in a [zoom meeting](https://zoom.us/j/432704511?pwd=WlhYUHVRSm4yaGswTVlqYjdMemE0UT09). The team will still hold Stand-up meeting in the Zoom evern if all members can not make it.   
+Stand-ups meetings will be held in a [zoom meeting](https://us02web.zoom.us/j/95694473204). The team will still hold Stand-up meeting in the Zoom evern if all members can not make it.   
 
-> Join Zoom Meeting
-> https://zoom.us/j/432704511?pwd=WlhYUHVRSm4yaGswTVlqYjdMemE0UT09
-> 
-> Meeting ID: 432 704 511
-> Password: 593547
+Join Zoom Meeting
+https://us02web.zoom.us/j/95694473204
 
-> One tap mobile
-> +16699006833,,432704511# US (San Jose)
-> +19292056099,,432704511# US (New York)
+Meeting ID: 956 9447 3204
+One tap mobile
++13462487799,,95694473204# US (Houston)
++12532158782,,95694473204# US (Tacoma)
 
-> Dial by your location
-  >       +1 669 900 6833 US (San Jose)
-  >     +1 929 205 6099 US (New York)
-> Meeting ID: 432 704 511
-> Find your local number: https://zoom.us/u/aebkSZ5lpY
+Dial by your location
+        +1 346 248 7799 US (Houston)
+        +1 253 215 8782 US (Tacoma)
+        +1 669 900 6833 US (San Jose)
+        +1 312 626 6799 US (Chicago)
+        +1 929 205 6099 US (New York)
+        +1 301 715 8592 US (Germantown)
+Meeting ID: 956 9447 3204
+Find your local number: https://us02web.zoom.us/u/kcndZmlWfA
 
-People / Product check-ins
-Daily @ 11 EST/ 10 CST/ 9 MT/ 8 PST
-15 min total
+
+**Stand Up: People / Product check-ins**
+M,W,Th,Fri on Zoom @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+Tues on Slack
+Note: 
+30 min total
 3 Question Format: 
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
- 
-
 
 **Sprint Planning**
 Outline team and member focus, goals for sprint
-1st Wednesday of every sprint
-2 hours
+1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
+on a [zoom meeting](https://us02web.zoom.us/j/98086497393)
+1.5 hours
 
 **Retro**
-Last Wednesday of every sprint, 60 min
-Review accomplishments from prior sprint:[Funretro] (https://funretro.io/dashboard)
+Review accomplishments, ways to improve from prior sprint: [Funretro] (https://funretro.io/dashboard)
+Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+on a [zoom meeting](https://us02web.zoom.us/j/99104113238)
 - What went well
 - Areas for improvement
 - What to start doing
 
 **Grooming** 
 Assess and update workload for remainder of sprint
-Each Wednesday of every sprint, 1-hour
+2nd Wednesday of every sprint, 1-hour
+on a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
 ### **Issue Etiquette**
----
-name: User Story Template
-about: This is a generic user story template
-title: User Story Template for va.gov-teams
-labels: ''
-assignees: ''
+For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
----
-
-## User Story:
-As a __________, I need __________ so that I can __________.
-
-
-## Tasks
-_The steps that must be done by the team to complete the acceptance criteria_
-- [ ] First thing we need to do - x hour(s) - Owner
-- [ ] Second thing we need to do - y hour(s) - Owner
-- [ ] Third thing we need to do - z hour(s) - Owner
-- [ ] etc
-
-## Acceptance Criteria:
-_The requirements that must be met in order to mark this user story as completed_
-- [ ] Testable Outcome Y
-- [ ] Testable Outcome Z
-
-## Configuration
-- [ ] **Attached to a Milestone** (when will this be completed?)
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
-- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
-- [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
-
-## Next Steps
-- Tickets, or Actions
-
-## Blockers & Dependencies
-- Tickets, Groups, Teams, Events
-  
+Estimate
+Title that explains task
+Description with Background and Acceptance Criteria
+Labels: vsa-caregivers
+User Story (if applicable), Goal, and Acceptance Criteria
+Nested in an Epic
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
