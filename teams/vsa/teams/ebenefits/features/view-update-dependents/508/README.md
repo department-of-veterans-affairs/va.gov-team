@@ -10,12 +10,12 @@
 User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
 
 **Staging url:**
-- Scan with axe browser plugin
-- Create end-to-end tests for client-side applications
-- Scan with axe-coconut
-- Lighthouse Scan (Chrome)
-- NVDA Scan (Firefox)
-- VoiceOver (Safari)
-- Keyboard Navigation
-- Color contrast & blindness
-- Zoom to 400% at 1280px
+1. Scan with axe browser plugin
+2. Create end-to-end tests for client-side applications
+3. Scan with axe-coconut
+4. Lighthouse Scan (Chrome)
+5. NVDA Scan (Firefox)
+6. VoiceOver (Safari)
+7. Keyboard Navigation
+8. Color contrast & blindness
+9. Zoom to 400% at 1280px
