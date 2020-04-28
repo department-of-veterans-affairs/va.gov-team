@@ -58,9 +58,11 @@ Ex:
 
 **Stand-up**
 
-M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT (Tues on Slack)
--30 min total
--3 Question Format: 
+M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT 
+* Tues on Slack
+* 30 min total
+
+3 Question Format: 
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
@@ -68,15 +70,17 @@ M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET
 **Sprint Planning**
 
 Outline team and member focus, goals for sprint
-1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
-on a [zoom meeting](https://us02web.zoom.us/j/98086497393)
-1.5 hours
+* 1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
+* On a [zoom meeting](https://us02web.zoom.us/j/98086497393)
+* 1.5 hours
 
 **Retro**
 
 Review accomplishments, ways to improve from prior sprint: [Funretro] (https://funretro.io/dashboard)
-Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
-on a [zoom meeting](https://us02web.zoom.us/j/99104113238)
+* Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+* On a [zoom meeting](https://us02web.zoom.us/j/99104113238)
+
+Questions to Go Over:
 - What went well
 - Areas for improvement
 - What to start doing
@@ -84,10 +88,11 @@ on a [zoom meeting](https://us02web.zoom.us/j/99104113238)
 **Grooming** 
 
 Assess and update workload for remainder of sprint
-2nd Wednesday of every sprint, 1-hour
-on a [zoom meeting](https://us02web.zoom.us/j/93282204164)
+* 2nd Wednesday of every sprint, 1-hour
+* On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
 ### **Issue Etiquette**
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
 Estimate
