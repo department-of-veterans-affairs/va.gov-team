@@ -58,17 +58,15 @@ Content-Type: application/json
     "country": "US",
     "postalCode": "77550"
   },
-  "supplies": [
+  "hearingAids": [
     {
-      "deviceName": "OMEGA XD3241",
-      "productName": "ZA1239",
-      "productGroup": "hearing aid batteries",
-      "productId": "1",
-      "availableForReorder": "false",
-      "lastOrderDate": "2020-01-01",
-      "nextAvailabilityDate": "2020-09-01",
-      "quantity": "60"
-    },
+      "deviceName": "OMEGA XD3241"
+      "rechargeable": true,
+      "productId": "9cf28362-38a5-46a6-872c-a8be6d59d59c",
+      "prescribedDate": "2020-01-01"
+    }
+  ],
+  "supplies": [
     {
       "productName": "DOME",
       "productGroup": "hearing aid accessories",
