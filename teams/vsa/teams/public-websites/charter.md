@@ -81,11 +81,10 @@ Find your local number: https://us02web.zoom.us/u/kcndZmlWfA
 
 **Stand Up: People / Product check-ins**
 
-M,W,Th,Fri on Zoom @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
-Tues on Slack
-Note: 
-30 min total
-3 Question Format: 
+- M,W,Th,Fri on Zoom @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+-- Tues on Slack
+- 30 min total
+- 3 Question Format: 
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
