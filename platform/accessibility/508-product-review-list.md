@@ -586,7 +586,6 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1277)<br/>
   **Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-- [[CI/CD]: Review coverage of accessibility checks in GIBCT feedback-tool end-to-end tests - #7373](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7373)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[MARKUP]: GIBCT - Revisit the provider detail pages to refactor, remove extra ARIA attributes - #8392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8392)<br/>
   **Opened:** April 24, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
