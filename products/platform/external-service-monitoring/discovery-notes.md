@@ -35,7 +35,7 @@ The [Product Tool Prototype](https://department-of-veterans-affairs.github.io/pr
 ### Existing Metrics - [Dashboard](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now)
 
 #### SLI Overview:
-*[ External Service Availability Indicators](http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-availability-indicators?panelId=591&edit&fullscreen&orgId=1&from=now-14d&to=now)
+*[ External Service Performance Indicators](http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators)
 
 #### Request Timing:
 * [Vets-API request duration (by controller/action): Full picture (vets-api => external service) request timing](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&fullscreen&edit&panelId=4)
@@ -210,6 +210,7 @@ Current SLOs from Prometheus metrics per service/endpoint
 ### Other
 * [ZH Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4162)
 * [Bucket/Histogram Information](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/roles/revproxy-configure/files/prometheus.lua)
+* [Notes](https://hackmd.io/lqvunvJ_TyegF2kQH3I82w)
 
 #### Todo/Questions
 * New Source-App Header may be useful
@@ -220,10 +221,7 @@ Current SLOs from Prometheus metrics per service/endpoint
 * Where are we defining vets-api SLOs as of now?
 * Do we have a risk analysis template yet? 
 
-
 ##### Reporting
 * [Reporting example](https://hackmd.io/lqvunvJ_TyegF2kQH3I82w#Iterate-monitor-and-Refine-SLOs)
 * Over time we will iterate, add, and refine SLOs where needed
-
-## Product Decisions
 

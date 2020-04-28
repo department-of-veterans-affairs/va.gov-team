@@ -5,7 +5,7 @@
 - Team Name: VSP Backend Tools
 - GitHub Label(s): `external-service`
 - Slack Channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
-- Product POCs: [Alex Pappas](https://github.com/alexpappasoddball)
+- Product POCs: Alex Pappas
 - Stakeholders: Dror Matalon, Andrew Gunsch 
 
 #### Team Members
@@ -17,8 +17,7 @@
 
 ## Overview
 
-The external service performance monitoring product includes a collection of resources including Grafana dashboards,
-documentation and reporting for external services. 
+The external service performance monitoring product includes a collection of resources including Grafana dashboards, process documentation, and reporting for external services. 
 
 ## Problem Statement
 
@@ -59,16 +58,17 @@ The Backend Tools team assumes:
 
 VSP Backend Tools team provides and supports a collection of tools and processes to address the problem:
 
-- :love_letter: Weekly trends reporting job for stakeholders (request subscription [here]())
-- :books: Concise docs for using insights and deeper reporting for both VFS and VSP audiences
+- :love_letter: Weekly trends reporting job for stakeholders
+- :books: Concise docs for [using Grafana](grafana-slo-user-guide.md) and deeper reporting for both VFS and VSP audiences
 - :bar_chart: Collection of Grafana boards for "right now and in the last two weeks" level data
 - :notebook: Documentation for each external service & playbooks for triage and incident response
-  - General-audience (VFS & VSP) documents are maintained in this product directory [`../external-services`]()
-  - Engineering-audience and on-call response playbooks are maintained in the private :lock:[`devops`]() repository.
+  - General-audience (VFS & VSP) documents are maintained in this product directory
+      [`./service-documents/`](./service-documents/)
+  - Engineering-audience and on-call response playbooks are maintained in the private :lock: [`devops`](https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations) repository.
 
 ## Value Propositions
 
-- Provide clearer insights into external service partner performance
+- Provide clear insights into external service partner performance
 - Provide analytical support for executive-level discussion with partner service teams
 
 ## KPIs
@@ -86,6 +86,7 @@ Tool is performing well if:
 - Mapping of `vets-api` endpoints to downstream services
 
 ### Out of Scope
+
 - Defining what a "product success tool" looks like
 - Defining the pathway for consumption of our SLOs
 - Defining client-side (VA.gov) SLOs or SLIs (page load times, etc).
@@ -102,10 +103,14 @@ Tool is performing well if:
 
 ### Current Status
 
-#### Version 0.1 
+#### Version 0.1 - 2020-04-28
 
-- I
--
+- Implement baseline SLI definitions 
+- Document and update Grafana dashboards related to external services
+- Draft initial SLO documents for most external services
+- Reorganize and rename product outline and folder documents
+
+##### Previous Versions
 
 This product is currently in the ideation & discovery phase.
 
