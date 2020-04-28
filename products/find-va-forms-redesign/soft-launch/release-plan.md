@@ -76,7 +76,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Redirect from `/vaforms` to `/find-forms` implemented
 
 ### Planning:
-- **Desired date:** 04/23/2020
+- **Desired date:** Week of 5/4
 - **Post-launch KPI 1:** xx% conversion to Top tasks
 - **Post-launch KPI 2:** xx% conversion to Manage your VA and other information online
 - **Post-launch KPI 3:** xx% conversion to More information
