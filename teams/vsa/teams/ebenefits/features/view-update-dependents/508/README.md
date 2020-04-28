@@ -9,20 +9,13 @@
 ## Credentials Used
 User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
 
-### Scan with axe browser plugin 
-
-### Create end-to-end tests for client-side applications 
-
-### Scan with axe-coconut 
-
-### Lighthouse Scan (Chrome)
-
-### NVDA Scan (Firefox)
-
-### VoiceOver (Safari)
-
-### Keyboard Navigation
-
-### Color contrast & blindness
-
-### Zoom to 400% at 1280px
+Staging url:
+Scan with axe browser plugin
+Create end-to-end tests for client-side applications
+Scan with axe-coconut
+Lighthouse Scan (Chrome)
+NVDA Scan (Firefox)
+VoiceOver (Safari)
+Keyboard Navigation
+Color contrast & blindness
+Zoom to 400% at 1280px
