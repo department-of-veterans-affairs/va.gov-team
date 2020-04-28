@@ -46,12 +46,13 @@ _What's in and what's out?_
 
 In scope: 
 - Governance
-- Content model considerations 
+- Expansion of the existing content model 
+- Creation of new content types 
 - Editorial experience considerations
 Out of scope: 
 - Migration and change management (will be handled by the VAMC upgrade team)
 
-This initial phase will focus on a subset of "required" VAMC pages which havw significant national content and minimal need for localized edits, such as  
+This initial phase will focus on a subset of "required" VAMC pages which have significant national content and minimal need for localized edits, such as  
   - "Top-Task" pages (from the Veteran's point-of-view)
     o  Make an appointment
     o  Register for care
