@@ -31,7 +31,7 @@ Global unauthenticated experience team for VA.gov
   
 
 ### **Responsibilities**
-TBD
+We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
 ### **Roadmap**
 Ex:
