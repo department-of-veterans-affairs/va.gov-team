@@ -1,3 +1,4 @@
+```
 let tenantName_ = 'azcctolabhealthbot-djeoexc';
 let dialogname_va_coronavirus_chatbot_ = '/scenarios/va_coronavirus_chatbot' ;
 
@@ -49,3 +50,4 @@ customEvents
 //| where stepLabel_ == 'root'
 | where stepLabel_ == ''
 | summarize count() by tostring(stepText_), tostring(stepResponseMessage_), tostring(stepLabel_)
+```
