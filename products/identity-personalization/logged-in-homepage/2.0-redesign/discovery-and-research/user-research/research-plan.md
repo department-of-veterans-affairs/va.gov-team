@@ -101,26 +101,18 @@ Please list the people who will be serving in each role. Include the primary pho
   -  Project point of contact: Liz Lantz
   -  Participant(s) for pilot test: TBD
   -  Note-takers: TBD
-  -  Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
-  
-   -  samara.strauss@va.gov
-   -  shawna.hein@adhoc.team
-   -  matt.shea@adhoc.team
-   -  tressa.furner@adhoc.team 
-
-
+  - Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
+    - samara.strauss@va.gov
+    - shawna.hein@adhoc.team
+    - matt.shea@adhoc.team
+    - tressa.furner@adhoc.team
 
 Resources
 ---------
 
 -   [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)
-
 -   Convo Guide Coming soon
-
 -   [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
-
 -   Synthesis Coming soon
-
 -   Lessons Learned Coming soon
-
 -   Read-Out/Results Coming soon
