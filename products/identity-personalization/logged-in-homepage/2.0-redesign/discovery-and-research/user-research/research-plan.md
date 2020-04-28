@@ -36,9 +36,9 @@ We'd like to talk with Veterans to better understand their expectations of logge
 **4. What is your hypothesis for this research?**
    - Veterans will see their profile as a place to see personal information about them that is in their control.
    - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
-   - Veterans will see their logged-in homepage as a "dashboard" where they see personal information about them that is influenced by the VA
-   - Content expectations for the logged-in homepage would be status updates, benefits they have, historical info like past claims, things related to their healthcare provider, etc.
-   - There will be some items of content that will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
+   - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA
+   - Content expectations for the logged-in homepage would be status updates, benefits they currently receive, historical info like past claims, information related to their healthcare provider, etc.
+   - There will be some items of content whose ideal location will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
    - The content Veterans expect to see on their logged-in homepage will mostly be items they can take action on, and they'll expect a way to take a next step.
    - Veterans will expect to see notifications in some kind of notification specific area, probably accessible through the navigation.
 
@@ -46,16 +46,68 @@ Method
 ------
 
 **1. What method of research are you planning and why?**
-
-Initial short qualitative interview followed by a moderated card sort and co-design exercise
+  - We'll conduct an initial short qualitative interview to gain insight into the "why" questions we have.
+  - This will be followed by a moderated, closed card sort to see how Veterans differentiate content on their profile and dashboard.
+  - We'd also like to work with Veterans on a  co-design exercise to better understand their expectations for what a dashboard should look like.  Still to be finalized.
   
 **2. Where are you planning to do your research?**
 
-Sessions with users would be remote moderated sessions via Zoom.
+  - Sessions will be remote moderated sessions.
+  - We'll use Zoom and Optimal Workshop.
     
 **3. What will you be testing?**
 
-We will not be testing a prototype in this study.
+  - We will set up a card sort exercise in Optimal Workshop
+
+Participants and Recruitment
+----------------------------
+
+**1.Participant criteria: What are you looking for in a participant?**
+  - Veterans who log into VA.gov
+  - To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment.
+  - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. 
+
+**2. What is your recruitment strategy?**
+We will leverage Perigan's recruitment capabilities.
+
+When?
+-----
+
+**1. Timeline: What dates do you plan to do research?** 
+May 11-May 15, 2020
+
+**2. Prepare: When will the thing you are testing be ready?** 
+Card sort + co-design plans will be finalized by May 6
+
+**3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)**
+45-60 minutes
+
+**4. Availability: If applicable, when would you like sessions scheduled?**
+
+  - May 11 available from 3pm - 8pm
+  - May 13 and 15: available from 9-11am and 2-8pm
+  - May 12 and 14: available from 7am-9am, 11am-3pm or 6-8pm
+
+**5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+May 7, team member TBD
+
+Team Roles
+----------
+Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
+
+  -  Moderator: Liz Lantz, liz.lantz@adhoc.team, 843-898-4463
+  -  Research guide writing and task development (usually but not always same as moderator): Liz Lantz
+  -  Participant recruiting & screening: Perigian
+  -  Project point of contact: Liz Lantz
+  -  Participant(s) for pilot test: TBD
+  -  Note-takers: TBD
+  -  Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
+    - Samara Strauss
+    - shawna.hein@adhoc.team
+    - matt.shea@adhoc.team
+    - tressa.furner@adhoc.team 
+
+
 
 Resources
 ---------
