@@ -35,7 +35,7 @@ We will develop and deliver the content, navigation, and tools that provide our 
 
 ### **Roadmap**
 Ex:
-[Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Benefits%20and%20Memorials%202%20Road%20Map%20v3.png)
+[Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
 
 ### **Team Members**
 
