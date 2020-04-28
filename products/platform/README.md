@@ -23,13 +23,6 @@
 ---
 
 ## Changelog
-### Sprint 24 (04-15-2020 - 04-28-2020)
-
-- [External Service Monitoring](./external-service-monitoring) - v0.1
-  - Implement baseline SLI definitions 
-  - Document and update Grafana dashboards related to external services
-  - Draft initial SLO documents for most external services
-  - Reorganize and rename product outline and folder documents
 
 ### Sprint 23 (04-02-2020 - 4-14-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.2
