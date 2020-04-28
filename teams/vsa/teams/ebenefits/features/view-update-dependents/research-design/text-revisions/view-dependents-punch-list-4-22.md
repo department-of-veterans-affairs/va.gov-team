@@ -15,7 +15,7 @@
 
 #### Throughout
 - [ ] URL for View Dependents should be `../view-change-dependents/view` (`../view-change-dependents/` is the static landing page from PubWeb) 
-- [ ] ~~Change breadcrumbs~~ This should be updated when urls get updated
+- [ ] ~~Change breadcrumbs~~ This should be updated when urls get updated (it should say what the page is: "Your VA dependents")
 
 #### Header
 
