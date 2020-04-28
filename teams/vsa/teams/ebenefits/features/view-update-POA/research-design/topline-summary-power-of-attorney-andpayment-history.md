@@ -113,6 +113,10 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Wayfinding Exercise
 - Participants were asked to search for the Power of Attorney Form and the Payment History feature on the VA.gov website. 
 - Participants favored the search feature found in the header and the homepage’s 'hub links'. 
+- There were three ways participants located the Payment History feature.  
+    1. Search by "payment history," and VA.gov payment history page is the first result. 
+    2. The Hub link- 'View your payment history."
+    3. Menu item VA benefits and healthcare > Pension > View my Payment History
 
 ### Power of Attorney Form (Form 21-22)
 **Participants will be unable to find the Form 21-22 on the VA.gov website**
