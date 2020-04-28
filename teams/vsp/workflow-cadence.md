@@ -31,6 +31,21 @@ Read on to learn about the different types of documentation and meetings we use 
 - Engineering:
 - Other: 
 
+**VSP Tag Up**
+- Audience: DEPO Leadership, VSP Leadership, PMs
+- Cadence: Bi-Weekly prior to start of new sprint
+- Purpose: Product Team sprint objective overview
+
+**Review Sprint Progress**
+- Audience: DEPO Leadership, VSP Leadership
+- Cadence: Bi-Weekly prior to end of current sprint
+- Purpose: Review Sprint progress for each Product team prior to end of sprint
+
+**Mid-Sprint Platform Leads**
+- Audience: DEPO Leadership, VSP Leadership
+- Cadence: Bi-Weekly during current sprint
+- Purpose: Repuposed to review leadership topics/initatives outside of sprint related meetings
+  
 ---
 
 ## [Sprint Objectives Reporting process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/sprint-objectives/sprint-objectives-roe.md)
