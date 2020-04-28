@@ -6,9 +6,9 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 supports eight discrete workflows (including the 21-674), and when deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system. 
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add or remove dependents from their disability claim. Including the 21-674, the "686" supports eight discrete workflows When deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system. 
 
-Usability testing was conducted using prortypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deplayed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
+Usability testing was conducted using prototypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deployed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
 
 ## Table of contents
 - [Goals](#goals)
