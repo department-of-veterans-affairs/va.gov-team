@@ -137,5 +137,5 @@ This topline summary is a result of the synthesis that happens after conducting/
 
 ## Other Findings
 **Multiple participants requested to have ‘Military Sexual Trauma’ (MST) added to the limited compensation step of the Power of Attorney Form.**
-> "I would like to see MST in there becuase some people don't want their VSO to know."
+> "I would like to see MST in there because some people don't want their VSO to know."
 
