@@ -60,7 +60,7 @@ Content-Type: application/json
   },
   "hearingAids": [
     {
-      "deviceName": "OMEGA XD3241"
+      "deviceName": "OMEGA XD3241",
       "rechargeable": true,
       "productId": "9cf28362-38a5-46a6-872c-a8be6d59d59c",
       "prescribedDate": "2020-01-01"
