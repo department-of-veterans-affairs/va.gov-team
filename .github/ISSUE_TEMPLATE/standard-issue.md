@@ -7,18 +7,9 @@ assignees: ''
 
 ---
 
-## User Story or Problem Statement
-As a _____, I need _____ so I can _____.
+## Issue Description
+_What details are necessary for understanding the specific work or request tracked by this issue?_
 
-or
-
-Problem description. How might we _____________ ?
-
-## Goal
-_What outcome(s) do we want to see?_
-
-## Objectives or Key Results this is meant to further
-- _Include references to KPIs we intend to impact_
 ---
 ## Tasks
 - [ ] _What work is necessary for this story to be completed?_
