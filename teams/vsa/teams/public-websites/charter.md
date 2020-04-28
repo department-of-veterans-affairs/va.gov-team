@@ -94,13 +94,13 @@ Assess and update workload for remainder of sprint
 ### **Issue Etiquette**
 
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
+- Estimate
+- Title that explains task
+- Description with Background and Acceptance Criteria
+- Labels: vsa-caregivers
+- User Story (if applicable), Goal, and Acceptance Criteria
+- Nested in an Epic
 
-Estimate
-Title that explains task
-Description with Background and Acceptance Criteria
-Labels: vsa-caregivers
-User Story (if applicable), Goal, and Acceptance Criteria
-Nested in an Epic
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
@@ -125,9 +125,13 @@ Estimation is not based on how long something will take to complete, but is rath
 **And some logistics:**
 
 Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
+
 GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
+
 Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub.
+
 Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
+
 Extra time? Explore the "Ready" column in ZenHub.
 
 **Role-Related Knowledge / Best Practices**
