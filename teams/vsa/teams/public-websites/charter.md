@@ -34,8 +34,7 @@ Global unauthenticated experience team for VA.gov
 We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
 ### **Roadmap**
-Ex:
-[Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
+[Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
 
 ### **Team Members**
 
