@@ -49,6 +49,7 @@ In scope:
 - Expansion of the existing content model 
 - Creation of new content types 
 - Editorial experience considerations
+
 Out of scope: 
 - Migration and change management (will be handled by the VAMC upgrade team)
 
