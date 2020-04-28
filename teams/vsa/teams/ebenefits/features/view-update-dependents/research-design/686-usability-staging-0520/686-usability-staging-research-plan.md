@@ -6,7 +6,7 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 is 12 pages in its paper incarnation, and it supports eight discrete workflows (including the 21-674). Once deployed to VA.gov, the 686 will be one of the longer, more complex forms on the site. The new 686 must be developed within the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 supports eight discrete workflows (including the 21-674), and when deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in currently developed form--and to highlighting the path to optimizing user satisfaction and overall form performance.
 
 ## Table of contents
 - [Goals](#goals)
@@ -70,31 +70,40 @@ Additional Questions
 7. What workflow combinations (scenarios) do users think are likely? 
   
 #### Success
-This research effort will be successful if it points to a clear verdict regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
+This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
  - Will users understand and accept the checkbox selection of various workflows
  - What guidance (intructional text, headers, etc.) will users need to support successful completeion of the form
  - How will users react to the long, potentially emotional add-spouse workflow
  - Are there any workflow combinations that would be problematic for users
 
 ### Method
-Usability testing will be conducted remotely using Zoom or GoToMeeting. Details TBD.
+Usability testing will be conducted remotely using Zoom or GoToMeeting. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
 
 ### Participants and recruitment
-Participants will be recruited via Perigean. The study will require X Veterans from a range of service backgrounds. Participant criteria include:
-- X Veterans
-- Fits any of the following:
-  - Has child (age 18 to 23) who is about to enroll or has enrolled in college
-  - Has recently been married
-  - Has recently been divorced
-  - Have or had dependents; received or applied for dependents benefits
+Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Criteria include:
+
+#### All participants
+- 12 Veterans
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
 - Several Veterans (3+) with Total Rated Disability of 80% or greater and cognitive disabilities
 - Sessions will run approximately 45 minutes
 
+#### Group 1
+- Fits any of the following:
+  - Have or had dependents; received or applied for dependents benefits
+  - Has recently been married/divorced
+  - Has experienced dependent status change such as, marriage, death, leaving school
+  
+  #### Group 2
+- Fits any of the following:
+  - Have or had dependents; received or applied for dependents benefits
+  - Has child (age 18 to 23) who is about to enroll or has enrolled in college
+  - Has recently been divorced
+
 ### Timeline
-The target window for research sessions is TBD. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
+The target window for research sessions is TBD, pending competion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
 
 #### Pilot session
 The target date for the pilot session is TBD.
