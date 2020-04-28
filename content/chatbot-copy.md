@@ -54,7 +54,7 @@ Please choose the topic that best fits your needs.
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one.
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one.
 
 [add questions based on message bank - per below order]
 
@@ -102,7 +102,7 @@ _[Note: See [cdc-self-checker-messaging file](https://github.com/department-of-v
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one. 
 
 [add questions based on message bank - per order below]
 
@@ -122,10 +122,11 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one. 
 
 [add questions based on message bank - per below order]
 
+- [54] Is VA helping to make sure I get my stimulus check?
 - [40] Will my COVID-19 stimulus check lower my VA payments?
 - [41] What if I can’t pay my existing VA debt?
 - [42] What if I’m having trouble paying my VA-backed home loan during this time?
@@ -142,7 +143,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 ##### Benefits and claims
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one. 
 
 [add questions based on message bank - per below order]
 
@@ -163,7 +164,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one. 
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one. 
 
 [add questions based on message bank - per below order]
 - [20] I don't have symptoms, but I feel anxious and overwhelmed. What can I do? 
@@ -525,7 +526,7 @@ Please work with your VA representative to reschedule appointments. If you have 
 
 [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl) for more information about how to file and sign paperwork for VA benefits and claims.
 
-## 52. What if I need to turn in or sign paperwork for my claim or appeal?
+#### 52. What if I need to turn in or sign paperwork for my claim or appeal?
 
 As of April 3, 2020, we’re providing extensions for any claim or paperwork deadlines. 
 
@@ -548,9 +549,10 @@ We’re not requiring physical or wet signatures (meaning signed in ink), as lon
 We’re accepting different forms of electronic, digital, and typed signatures. Please work with your VA representative to find out which type of signature you’ll need for a specific benefit or service.
 
 **If you have any questions**
+
 Call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. 
 
-## 53. If I’ve lost my job, can I get help with my VA copays over time?
+#### 53. If I’ve lost my job, can I get help with my VA copays over time?
 
 Yes. If you're struggling because of life situations like losing your job, having a sudden decrease in income, or having an increase in out-of-pocket family health care expenses, we can help. You can request financial hardship assistance to manage your current VA copay debt or request an exemption from future copays.
 
@@ -559,6 +561,26 @@ Yes. If you're struggling because of life situations like losing your job, havin
 [Watch a video about financial hardship options (YouTube)](https://www.youtube.com/watch?v=3Pa_EUA0Qy0)
 
 You can also call our Health Resource Center at [866-400-1238](tel:18008271000) to talk to someone about your options.
+
+#### 54. Is VA helping to make sure I get my stimulus check?
+
+Yes. If you receive VA disability or pension benefits, you’ll automatically receive a $1,200 stimulus check from the IRS, even if you don’t file tax returns. You don’t need to do anything to receive your check. 
+
+We’re working with the Internal Revenue Service (IRS) and U.S. Department of the Treasury to make sure you receive your payment as soon as possible. You’ll soon be able to [track your payment on IRS.gov](https://www.irs.gov/coronavirus/get-my-payment).
+
+**If you have 1 or more dependent children under the age of 17**
+
+You may qualify for an extra $500 per child. **If you didn’t file a tax return in 2018 or 2019, you must register with the IRS by May 5, 2020, to get this added amount.**
+
+[Register as a non-filer on IRS.gov](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here)
+
+**If you’ve already started using the IRS’s Economic Impact Payments (EIP) portal**
+
+You can continue using the portal to give the IRS your information and track your stimulus check. This won’t cause any problems with getting your check.
+
+Note: Use only IRS.gov to register or get information about your stimulus check. Be careful of scams. Unless you’ve asked to be contacted, the IRS will never contact you by email, phone, or text to ask for personal or financial information or to open an attachment or visit a website link.
+
+
 
 ------
 
