@@ -47,7 +47,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [ ] Capitalize "Suffix"
 - [ ] Change checkbox to "I live on a United States military base outside of the U.S."
-- [ ] Change "Street address" to just "Street"
+- [x] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 
 ### Add spouse section
@@ -59,7 +59,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
 - [ ] Use base-checkbox address block for separated spouse's address
 - [ ] Checkbox to say "They live on a United States military base outside of the U.S."
-- [ ] Change "Street address" to just "Street"
+- [x] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 - [ ] Bold "your spouse" in the label, "Was your spouse married before?"
 - [ ] Change header in list loop to "Next former spouse"
@@ -84,7 +84,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Child's name header seems to be missing after child info screen
 - [ ] Bold "or" in labels under the "Child's place of birth" section
 - [ ] Use base-checkbox address block for "Person your child lives with" address
-- [ ] Change "Street address" to just "Street"
+- [x] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 
 ### Add student section (674)
@@ -92,7 +92,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Remove form number from header: "Information needed to add a student 18 to 23 years old"
 - [ ] Include note: "Note: This should be where the student is living while attending school." above student address section
 - [ ] Confirm size of section headers (look small)
-- [ ] Change "Street address" to just "Street" throughout
+- [x] Change "Street address" to just "Street" throughout
 - [ ] Change "Zip code" to "Postal code" throughout
 - [ ] Bold "or" in "Kind of training or educational program"
 
@@ -102,7 +102,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Sentence-case button text: "Add another stepchild"
 - [ ] 🤷‍Change gray-box header to: "Next stepchild"
 - [ ] Use base-checkbox address block for "Who does this stepchild live with?" address
-- [ ] Change "Street address" to just "Street"
+- [x] Change "Street address" to just "Street"
 - [ ] Change "Zip code" to "Postal code"
 
 ### Dependent death section
