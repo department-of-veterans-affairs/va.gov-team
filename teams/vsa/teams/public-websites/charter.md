@@ -58,10 +58,9 @@ Ex:
 
 **Stand-up**
 
-* M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
-- Tues on Slack
-* 30 min total
-* 3 Question Format: 
+M,W,Th,Fri on [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT (Tues on Slack)
+-30 min total
+-3 Question Format: 
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
