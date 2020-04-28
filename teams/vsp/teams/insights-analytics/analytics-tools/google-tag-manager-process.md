@@ -1,6 +1,8 @@
 # Google Tag Manager and Google Analytics Internal Processes for VFS Implementations
 
-*Overview*: This resource outlines suggested processes for the Analytics-Insights team to guide and implement common VFS requests for Modernized products. Implementation requests for MyHealtheVet, eBenefits, and legacy content are noted as well. 
+**Documentation Audience**: VSP Analytics & Insights
+
+**Overview**: This resource outlines suggested processes for the VSP Analytics & Insights team to guide and implement common VFS requests for Modernized products. Implementation requests for MyHealtheVet, eBenefits, and legacy content are noted as well.
 
 ## What GTM Is NOT Needed For Tracking
 - Tracking static page links that lead to one location 
@@ -41,7 +43,7 @@ _i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'ev
 _i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click'`<br>`});`
 
 ### Google Tag Manager Configuration 
-As the VFS team is implementing the requirements, the Analytics-Insights team should begin configuration of the new or revised Google Tag Manager tag(s), trigger(s), and/or variable(s). There are several shared configurations that can be leveraged across VFS forms products or global navigation elements. These are outlined below. Implementation for other use cases will be noted. 
+As the VFS team is implementing the requirements, the VSP Analytics & Insights team should begin configuration of the new or revised Google Tag Manager tag(s), trigger(s), and/or variable(s). There are several shared configurations that can be leveraged across VFS forms products or global navigation elements. These are outlined below. Implementation for other use cases will be noted. 
 
 #### Forms Tag
 The Forms Tag applies to veteran-facing forms with multiple steps. The form tag is configured using `Form - Category` and `Form - Action` variables, which rely on RegEx patterns. These patterns look for event suffixes and prefixes to correctly categorize them into the right Event Category and Event Action. 
@@ -116,8 +118,8 @@ _i.e Clicked primary CTA button on X page_ | Screenshot 1 here | ✔️ **PASS**
 _i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
-The Analytics-Insights team also receives infrequent requests to implement new tracking on MHV,eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, the Analytics-Insights team has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
+VSP Analytics & Insights also receives infrequent requests to implement new tracking on MHV,eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, VSP Analytics & Insights has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
 
 ## Publishing Workspace
-Google Tag Manager environments were established, so that the Analytics-Insights team can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
+Google Tag Manager environments were established, so that VSP Analytics & Insights can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
 
