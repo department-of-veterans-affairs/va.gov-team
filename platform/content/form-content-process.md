@@ -16,12 +16,13 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
 - How is the paper form currently processed offline? (This might help inform what type of information may need to go on the form Confirmation page.) 
+- Where does this form fit into the larger way or services people currently get the benefit? 
 - Review the paper form and form fields to understand how each field is used and for what end
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
 - Identify related and potentially dependent questions
-- Discuss if there is any specific content that stakeholders think should be included on the online's form Introduction page
-- Discuss if there is any specific content that stakeholder think should be included on the online's form Confirmation page
+- Discuss if there is any specific content that should be included on the online's form Introduction page (addition eligiblity information?) 
+- Discuss if there is any specific content that should be included on the online's form Confirmation page (other related benefits a user  might be elibile for?)
 
 
 ## Determine scope
