@@ -7,6 +7,10 @@
 
 [Reference mockups](https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/)
 
+```diff
+- Update this list immediately upon completion
+```
+
 ### View dependents screen
 
 #### Throughout
