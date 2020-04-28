@@ -77,7 +77,7 @@ TBD
 
 ## Manual testing (required)
 
-Manual test results can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf) for the standalone sign in page and [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Signed%20Out%20Standalone%20Sign%20in%20Page%20Accessibility%20Tests.pdf) for the signed-out state of the standalong login page.
+Manual test results can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Screen_Accessibility_Tests.pdf) for the standalone sign in page and [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/SSO-Login_Signed%20Out%20Standalone%20Sign%20in%20Page%20Accessibility%20Tests.pdf) for the signed-out state of the standalone login page.
 
 ### Color comparisons (required)
 
