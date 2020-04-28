@@ -11,7 +11,7 @@
 |[Documentation Site](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site)|||
 |[Downtime Notifications]()|||
 |[Endpoint Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/frontend-product-mapping)|||
-|[External Service Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring)|v0.1|04-28-2020|
+|[External Service Monitoring](./external-service-monitoring)|v0.1|04-28-2020|
 |[Feature Toggles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/feature-toggles)|v0.3|04-01-2020|
 |[New App Generator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/new-app-generator)|v1.0|04-02-2020|
 |[Product Success Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/product-success-tool)|||
@@ -25,7 +25,7 @@
 ## Changelog
 ### Sprint 24 (04-15-2020 - 04-28-2020)
 
-- [External Service Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/external-service-monitoring) - v0.1
+- [External Service Monitoring](./external-service-monitoring) - v0.1
   - Implement baseline SLI definitions 
   - Document and update Grafana dashboards related to external services
   - Draft initial SLO documents for most external services
