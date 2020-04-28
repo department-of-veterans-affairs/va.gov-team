@@ -62,7 +62,7 @@ The following list is a set of resources compiled by the people in your practice
 - Code review
     - [Code Review Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)
     - Release process
-        - [Deployment process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/deployment-process.md)
+        - [Deployment process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/deployment.md)
 - Triage Processes
 	- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/incident-response-playbook.md)
 	- [Incident Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/incident-triage-process.md)
