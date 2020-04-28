@@ -130,6 +130,7 @@ Please choose the question that best fits your needs. You can always ask more qu
 - [41] What if I can’t pay my existing VA debt?
 - [42] What if I’m having trouble paying my VA-backed home loan during this time?
 - [43] Will I still have to pay my VA copays during the pandemic?
+- [53] If I’ve lost my job, can I get help with my VA copays over time?
 - [44] What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?
 - [45] How do I get help if I'm homeless or at risk of becoming homeless?
 
@@ -548,6 +549,16 @@ We’re accepting different forms of electronic, digital, and typed signatures. 
 
 **If you have any questions**
 Call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET. 
+
+## 53. If I’ve lost my job, can I get help with my VA copays over time?
+
+Yes. If you're struggling because of life situations like losing your job, having a sudden decrease in income, or having an increase in out-of-pocket family health care expenses, we can help. You can request financial hardship assistance to manage your current VA copay debt or request an exemption from future copays.
+
+[Learn more about requesting financial hardship assistance](https://www.va.gov/health-care/pay-copay-bill/financial-hardship/)
+
+[Watch a video about financial hardship options (YouTube)](https://www.youtube.com/watch?v=3Pa_EUA0Qy0)
+
+You can also call our Health Resource Center at [866-400-1238](tel:18008271000) to talk to someone about your options.
 
 ------
 
