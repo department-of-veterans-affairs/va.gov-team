@@ -1,5 +1,5 @@
 /***
-| __Code_ | __Meaning__ |
+| _Code_ | _Meaning_ |
 |----------------|-------------|
 | VET360_ADDR200 | Address ID must be null (I think this is for Post)
 | VET360_ADDR201 | Address ID must not be null  (I think this is for Put)
