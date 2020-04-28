@@ -16,14 +16,8 @@
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/UAT/UAT-plan.md)
 
 ## User Flows
-**Background** Charted out user flows for signing in and signing up with SSOe as a resource for someone to quickly see what the SSOe user facing experience is. 
+**Background** Charted out user flows for signing in and signing up with SSOe as a resource for someone to quickly see what the SSOe user facing experience is. Includes UX recommendations within the user flow diagram. 
 
 **Resources:** 
 - [Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso/ux-research/ssoe-user-flows)
 
-## Future Considerations: SSOe on VA.gov
-**Purpose:** Putting forth future considerations for user engagement on SSOe
-
-**Timeline:** No set timeline
-
-- [Future Considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/ux-research/future-considerations/future-planning.md)
