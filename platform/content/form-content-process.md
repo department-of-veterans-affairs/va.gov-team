@@ -21,7 +21,7 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
 - Identify related and potentially dependent questions
-- Discuss if there is any specific content that should be included on the online's form Introduction page (addition eligiblity information?) 
+- Discuss if there is any specific content that should be included on the online's form Introduction page (addition eligibility information?) 
 - Discuss if there is any specific content that should be included on the online's form Confirmation page (other related benefits a user  might be elibile for?)
 
 
