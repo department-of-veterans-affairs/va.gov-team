@@ -17,6 +17,7 @@ So you’re moving a paper form online.  Or moving a legacy online form to VA.go
     - [The Introduction Page](#the-introduction-page)
     - [The Main Form Pages](#the-main-form-pages)
       - [Sectioning of the Form](#sectioning-of-the-form)
+      - [Addresses](#addresses)
       - [The “List Loop” pattern](#the-list-loop-pattern)
       - [Labeling of Fields](#labeling-of-fields)
       - [Optional vs Required labeling](#optional-vs-required-labeling)
@@ -78,6 +79,16 @@ Some examples start here (use the right arrow key to navigate through): [https:/
 * If the screens within the chapters end up having more than 3-5 questions, or more than one conceptual topic, as a general rule, break those screens into multiple "pages" within the section. For example, if you have a chapter on “Veteran info” you may have multiple pages within that chapter, one where you get contact information, another where you get medical information. 
    * **Note for the future:** There is general consensus that this design pattern could be improved. It’s not ideal for a user to click “continue” and not have the progress bar increment.  A small percentage of users are consistently confused by this behavior. Additionally, the number of pages may increase or decrease based on conditional questions, which adds complications to improving this pattern.
 * With conditional questions, use the blue bar / expanding element as long as it's not too long / overwhelming and/or requires a call to another service.  Otherwise, use another page within the section instead.
+
+#### Addresses
+Many forms have sections where users are asked to review and/or edit an address. 
+
+If the user is editing an address, if possible, make sure it only is editing the address for that particular form and is not necesssarily editing the profile address on file. Use the following language on the form to make that clear to folks:
+
+`This is the address we have on file for you. Any updates you make here to your address will apply only to this application.
+{address form fields, etc..}.` 
+
+`To update your address for all of your VA accounts, you’ll need to go to your profile page. [View the address that's on file in your profile](va.gov/profile).`  
 
 #### The “List Loop” pattern
 If your form has a section where user can add “multiple” of something, e.g. “add multiple children” or “add multiple past jobs” you should use the list loop pattern within the form system. This involves:
