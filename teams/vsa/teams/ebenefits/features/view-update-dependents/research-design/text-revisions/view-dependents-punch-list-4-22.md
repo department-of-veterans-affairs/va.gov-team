@@ -25,9 +25,9 @@
 - [ ] Style no-record text within gray DIV; like [background alert styling](https://design.va.gov/components/alertboxes#background-color-only), but F1F1F1 gray
 - [ ] Padding-top in card/list should be 16px
 - [ ] Dependents name in card/list should be title-case (upper and lower) rather than all-caps
-- [ ] Dependents name font should be Bitter rather than Source Sans
-- [ ] Birthdate should be formatted Month, day year, e.g. January 1, 2020
-- [ ] SSN should be formatted with dashes, e.g. 111-22-3333
+- [ ] 🤷‍Dependents name font should be Bitter rather than Source Sans
+- [ ] 🤷‍Birthdate should be formatted Month, day year, e.g. January 1, 2020
+- [ ] 🤷‍SSN should be formatted with dashes, e.g. 111-22-3333
 
 #### Sidebar
 - [ ] Link "Get help filing a claim" needs to be linked to `https://www.va.gov/disability/get-help-filing-claim/`
