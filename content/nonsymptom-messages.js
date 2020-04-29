@@ -325,7 +325,7 @@ We don’t yet know. Based on experiences with past viruses, exposure will likel
 `,
 
 /* 40. Will my COVID-19 stimulus check lower my VA payments? */
-covid_stimulus_check: `
+stimulus_check_va_payments: `
 No. We won’t count any money received as part of the COVID-19 stimulus package as income for VA pension or parent Dependency and Indemnity Compensation (DIC) beneficiaries. This means your payments will stay the same.
 `,
 
