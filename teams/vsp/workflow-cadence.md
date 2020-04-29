@@ -88,7 +88,7 @@ Read on to learn about the different types of documentation and meetings we use 
 - Cadence: Weekly
 - Purpose: Sync on Design initiatves, leadership direction and discussion of any issues/concerns
 
-**Engineer**
+**Engineering**
 - Audience: VSP Eng Lead and Product Team Eng Leads
 - Cadence: Weekly
 - Purpose: Sync on Engineering initatives/ technical directions and discussion of any issues/concerns
