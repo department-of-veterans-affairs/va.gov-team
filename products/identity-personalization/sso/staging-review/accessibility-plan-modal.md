@@ -1,4 +1,4 @@
-# SSO Accessibility Test Cases - Sign-in Page
+# SSO Accessibility Test Cases - Modal
 
 * See the [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/README.md) for specifics about this new feeature.
 * [Test Credentials]: (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-test-credentials.md)
