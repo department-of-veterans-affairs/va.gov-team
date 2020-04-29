@@ -479,7 +479,7 @@ Yes. If you're struggling because of life situations like losing your job, havin
 
 [Watch a video about financial hardship options (YouTube)](https://www.youtube.com/watch?v=3Pa_EUA0Qy0)
 
-You can also call our Health Resource Center at [866-400-1238](tel:18008271000) to talk to someone about your options.
+You can also call our Health Resource Center at [866-400-1238](tel:18664001238) to talk to someone about your options.
 
 
 
