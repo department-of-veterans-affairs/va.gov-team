@@ -14,8 +14,9 @@ We decided on the general approach to map the CMS AX labels to the frontend form
 
 #### "Revision date" field label value: 
 
-We will change this label to __"Form last updated"__
-The date displayed will be the revision date from the forms database; if there's no revision date value, we will display the date from the issue date field. 
+- We will change this label to __"Form last updated"__
+- This change affects FE design - the label that appears on the search results and on the form detail landing page. (Don't change search results design yet until properly socialized with forms managers.)
+- The date displayed will be the revision date from the forms database; if there's no revision date value, we will display the date from the issue date field. 
 
 #### "Related to" field logic:  
 
