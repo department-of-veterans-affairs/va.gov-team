@@ -6,11 +6,9 @@
 - Slack channel: #vsa-bam-2
 - Product POCs:
   - Matthew Self, DEPO Lead
-  - Nick Wygoink, BAM2 Product Manager
+  - Leah Keeler, BAM2 Product Manager
 - Stakeholders:
-  - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
-  - Paras Shah, VEText Project Manager
-  - Robert Durkin, ?
+  - Denver Logistics Center 
 
 ## Important Links
 - [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
@@ -22,10 +20,10 @@
 ## Team
 
 - DEPO Digital Strategist(s): Matthew Self
-- Product Manager: Nick Wygoink
+- Product Manager: Leah Keeler
 - Design Lead: Shawna Hein
-- Eng Lead: Joe Costa
-- Engineers: Amen Ra, Joseph Brothers
+- Eng Lead: Paul Short
+- Engineers: Cameron Testerman (BE), Brad Conley (FE), Mahariel Rosario (FE)
 - Designers: Rebecca Walsh, Riley Orr
 
 [Team Github Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
