@@ -1,4 +1,4 @@
-# _Feature Brief: VAMC Top Task Page Hardening_ (WIP)
+# _Feature Brief: Hardening of VAMC Joint Editorial Ownership pages (WIP)
 
 This document will focus on the hardening of selected VA Medical Center (VAMC) pages. 
 
@@ -53,7 +53,7 @@ In scope:
 Out of scope: 
 - Migration and change management (will be handled by the VAMC upgrade team)
 
-This initial phase will focus on a subset of "required" VAMC pages which have significant national content and minimal need for localized edits, such as  
+This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content and minimal need for localized edits. 
   - "Top-Task" pages (from the Veteran's point-of-view)
     o  Make an appointment
     o  Register for care
