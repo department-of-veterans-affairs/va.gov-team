@@ -12,9 +12,9 @@ This will be the automated tests teams must run before requesting a staging acce
 
 ### Scan with axe browser plugin (required)
 
-0 Violations - 0 Needs Review - 0 Rejected - 4 Best Practices
+0 Violations - 21 Needs Review - 0 Rejected - 4 Best Practices
 
-![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_test_result.png)
+![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_report_modal.png)
 
 ---
 
@@ -30,9 +30,9 @@ N/A
 
 
 ### Scan with axe-coconut (recommended)
-0 Violations - 9 Needs Review - 0 Rejected - 4 Best Practices
+0 Violations - 21 Needs Review - 0 Rejected - 4 Best Practices
 
-![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_coconut_test_result.png)
+![Result](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/AXE_coconut_modal.png)
 
 ---
 
@@ -46,7 +46,7 @@ N/A
 
 1 Error - Request for waiver.
 
-![WAVE plugin summary pane](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/WAVE_summary.png)
+![WAVE plugin summary pane](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/modal_wave.png)
 
 ![WAVE Error Detail](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/assets/WAVE_error_explanation.png)
 
