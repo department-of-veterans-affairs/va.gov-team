@@ -24,68 +24,75 @@ Unauthenticated Experience for VA.gov
 -	IA, Menus, Navigation 
 -	Content Hubs 
 -	Legacy content rewriting 
--	Content Migration (Github to Drupal) 
--	VAMC Sites / Pages  
--	Facility Locator 
--	On-site Search  
--	Tier 2 content templates 
--	Tier 3 content templates 
--	Style Guide 
--	VA Forms 
+-	On-site Search
+-	Find a VA Form
 -	Contact Us/ Help Utility
 -	Global Alerts
 
 ### Responsibilities:
-Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov.
+We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
+
+Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov. 
 
 ### Roadmap:
-_Link to agile roadmap_
+[Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
 
 ---
 
 ## Who we are
 ### Team Members:
-- DSVA Lead: Jennifer Lee
-- Design
-  - Liz Lantz
-- Engineering
-  - Nick Sullivan
-  - Kelson Adams
-- Content
-  - Randi Hecht
-  - Anne Hurley
-  - Selina Cooper
-  - Laura Walsh
+
+|**Roles**              |**Assigned**                        |
+|-----------------------|------------------------------------|
+|DSVA Product Owner     |Jen Lee                             |
+|DSVA Product Owner     |John Hashimoto                      |
+|DVSA Content Lead      |Danielle Thierry                    |
+|Product Manager        |Stephanie Orkand                    |
+|Front End Engineer     |Nick Sullivan                       |
+|Front End Engineer     |Kelson Adams                        |
+|Design/Research        |Liz Lantz                           |
+|Content Writer         |Selina Cooper                       |
+|Content Writer         |Anne Hurley                         |
+|Content Writer         |Laura Walsh                         |
+|Copy Editor            |Randi Hecht                         |
 
 ---
+### **Workflow + Cadence**
 
-## How we work
-### Workflow + Cadence
-#### Stand-up
-Check in on people and product progress
+**Stand-up**
 
-- Daily @ 11:30a ET (except Tuesdays)
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+M,W,Th,Fri on a [zoom meeting](https://us02web.zoom.us/j/95694473204) @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT 
+* Tues on Slack
+* 30 min total
 
-#### Sprint Planning
-Outline work to be done this sprint in order to accomplish the team's goals
+3 Question Format: 
+ - What I did yesterday?
+ - What will I do today? 
+ - Any Blocker and Dependancies?
 
-- 1st Wednesday of every sprint @ 1pm ET
-- 2 hours
+**Sprint Planning**
 
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+Outline team and member focus, goals for sprint
+* 1st Wednesday of every sprint @ 1:00pm ET/ 12:00pm CT/ 11:00am MT/ 10:00am PT
+* On a [zoom meeting](https://us02web.zoom.us/j/98086497393)
+* 1.5 hours
 
-- 1st Wednesday of every sprint @ 11:30a ET
-- 1 hour
+**Retro**
 
-#### Grooming
+Review accomplishments, ways to improve from prior sprint: [Funretro] (https://funretro.io/dashboard)
+* Last Wednesday of every sprint @ 11:30am ET/ 10:30am CT/ 9:30am MT/ 8:30am PT
+* On a [zoom meeting](https://us02web.zoom.us/j/99104113238)
+
+Questions to Go Over:
+- What went well
+- Areas for improvement
+- What to start doing
+
+**Grooming** 
+
 Assess and update workload for remainder of sprint
-
-- 2nd Thursday of every sprint
-- 1 hour
-- _any other notes you have_
+* 2nd Wednesday of every sprint, 1-hour
+* On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
