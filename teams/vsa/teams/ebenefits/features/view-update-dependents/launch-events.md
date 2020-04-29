@@ -55,6 +55,7 @@ _May 6 - May 19_
 - BE: implement Sidekiq job
 - ⏳ BE: PDF Fill (1 Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469))
 - ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
+- Implement Critical Content Changes for the 686 [#8016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8016)
 - ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489))
 - FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201))
 - DE: 686 usability Sessions 
