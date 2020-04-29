@@ -34,6 +34,7 @@ We'd like to talk with Veterans to better understand their expectations of logge
     - links into tools (eg. top tasks)?
 
 **4. What is your hypothesis for this research?**
+
    - Veterans will see their profile as a place to see personal information about them that is in their control.
      - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
    - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA
@@ -46,15 +47,16 @@ Method
 ------
 
 **1. What method of research are you planning and why?**
+
   - We'll conduct an initial short qualitative interview to gain insight into the "why" questions we have.
   - This will be followed by a moderated, closed card sort to see how Veterans differentiate content on their profile and dashboard.
   - We'd also like to work with Veterans on a  co-design exercise to better understand their expectations for what a dashboard should look like.  Still to be finalized.
-  
+
 **2. Where are you planning to do your research?**
 
   - Sessions will be remote moderated sessions.
   - We'll use Zoom and Optimal Workshop.
-    
+
 **3. What will you be testing?**
 
   - We will set up a card sort exercise in Optimal Workshop
@@ -62,20 +64,28 @@ Method
 Participants and Recruitment
 ----------------------------
 
-**1. Participant criteria: What are you looking for in a participant?**
-  - Veterans who log into VA.gov
-  - To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment.
-  - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. 
+**1. Participant criteria**
+
+  - We'd like to interview **[NUMBER]** Veterans who log into VA.gov
+  - We request the participant pool be diverse in:
+      - Gender (at least 30% women)
+      - Age (at least two people from 18-30, 31-50, and 50+)
+      - Enlisted vs officer backgrounds (at least 30% enlisted)
+      - Geography
+      - Experience with VA benefits and services (at least two people have 3 or more benefits)
+  - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractability, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 **2. What is your recruitment strategy?**
-We will leverage Perigan's recruitment capabilities.
+
+- We will leverage Perigan's recruitment capabilities.
+- In order to get **[NUMBER]**, we'd like Perigean to recruit **[NUMBER]**, with the expectation that there be a max of **[NUMBER]** no shows.
 
 When?
 -----
 
 **1. Timeline: What dates do you plan to do research?** 
 
-May 11-May 15, 2020
+May 11-May 15, 2020, depending on recruitment
 
 **2. Prepare: When will the thing you are testing be ready?** 
 
@@ -97,6 +107,7 @@ May 7, team member TBD
 
 Team Roles
 ----------
+
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
   -  Moderator: Liz Lantz, liz.lantz@adhoc.team, 843-898-4463
@@ -105,15 +116,14 @@ Please list the people who will be serving in each role. Include the primary pho
   -  Project point of contact: Liz Lantz
   -  Participant(s) for pilot test: TBD
   -  Note-takers: TBD
-  - Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
-    - samara.strauss@va.gov
-    - shawna.hein@adhocteam.us
-    - matt.shea@adhocteam.us
-    - tressa.furner@adhocteam.us
-    - erik@adhocteam.us
-    - lihan@adhocteam.us
-    - tze@adhocteam.us
-    - jennifer.strickland@adhocteam.us
+  -  Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
+     - samara.strauss@va.gov
+     - shawna.hein@adhocteam.us
+     - matt.shea@adhocteam.us
+     - tressa.furner@adhocteam.us
+     - erik@adhocteam.us
+     - lihan@adhocteam.us
+     - clarice.chan@va.gov
 
 Resources
 ---------
