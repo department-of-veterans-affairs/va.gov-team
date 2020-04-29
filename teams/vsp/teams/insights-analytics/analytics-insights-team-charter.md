@@ -66,7 +66,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
     - Aggregate relevent data from across different channels
     - Visualize product problems
     - Maintain BigQuery
-    - Connect all relevant and available data to Dom
+    - Connect all relevant and available data to Domo
 - Maintain & develop Contact Center relationships
 - Determine appropriate ForeSee tracking questions and strategy
 - Support Contact Center issues
