@@ -1,42 +1,46 @@
-```diff
-- WIP - Subject to change
-```
+# Public Websites Charter
 
-# **VSA Public Websites Team Charter**
+---
 
 ## Guideposts
-
-### Team Mission Statement:
-Provide Veterans and others access to vital information about VA benefits and services
+### Team Mission:
+Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
 ### Team Vision:
-We envision a world where it takes less time to find information about VA benefits and services than it does on Google
+We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
-### Team North Star:
+### Team North Stars:
 1. Use of self-service tools and associated number of conversions
 2. Time to outcome
-3. Customer Satisfaction
+3. Customer satisfaction
 
 ## What we work on
+### Product Suite
+Unauthenticated Experience for VA.gov
 
-### **Product Line**
-Global unauthenticated experience team for VA.gov
+### Product Portfolio:
+-	Home Page 
+-	Header / Footer 
+-	IA, Menus, Navigation 
+-	Content Hubs 
+-	Legacy content rewriting 
+-	On-site Search
+-	Find a VA Form
+-	Contact Us/ Help Utility
+-	Global Alerts
 
-### **Product Portfolio**
-  - Public website content
-  - Global menu
-  - Benefit hubs
-  - Onsite search
-  - [Find a VA Form](https://www.va.gov/find-forms)
-  
-
-### **Responsibilities**
+### Responsibilities:
 We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
-### **Roadmap**
+Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov. 
+
+### Roadmap:
 [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
 
-### **Team Members**
+---
+
+## Who we are
+### Team Members:
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
@@ -52,7 +56,7 @@ We will develop and deliver the content, navigation, and tools that provide our 
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
 
-
+---
 ### **Workflow + Cadence**
 
 **Stand-up**
@@ -90,13 +94,13 @@ Assess and update workload for remainder of sprint
 * 2nd Wednesday of every sprint, 1-hour
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
-### **Issue Etiquette**
+#### Issue Etiquette
+For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: vsa-caregivers
+- Labels: _your team's labels_
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
@@ -104,39 +108,22 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-### **Estimation**
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
+#### Team Norms
 
-1 - Easy task, work is known, can be executed quickly  
-2 - Mostly known, doable   
-3 - Becoming complex  
-5 - Very complex, may take a full sprint or longer  
-8 - Needs to be broken down into smaller user stories  
+_Update as you see fit! These are some starter norms for you to consider_
 
-### **Team Norms**
+- Be respectful, both online and off
+- Show your face (Webcam) at meetings / calls
+- Speak up! - everyone’s voice matters
+- We are flexible, but intentional in the way we work
+- Let’s have fun and do great work!
 
-  * Be respectful, both online and off
-  * Show your face (Webcam) at meetings / calls
-  * Speak up! - everyone’s voice matters
-  * We are flexible, but intentional in the way we work
-  * Let’s have fun and do great work!
+#### Slack:
+#vsa-public-websites
 
-**And some logistics:**
+#### GitHub
+label: vsa-public-websites
 
-Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
-
-GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
-
-Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub.
-
-Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
-
-Extra time? Explore the "Ready" column in ZenHub.
-
-**Role-Related Knowledge / Best Practices**
-
-[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
-
-[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
-
-[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
+#### General things
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Extra time? Explore the "Ready" column in ZenHub.
