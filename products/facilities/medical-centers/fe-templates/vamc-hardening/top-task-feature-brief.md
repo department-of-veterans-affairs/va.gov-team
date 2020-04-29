@@ -1,4 +1,4 @@
-# _Feature Brief: Hardening of VAMC Joint Editorial Ownership pages (WIP)
+# Feature Brief: Hardening of VAMC Joint Editorial Ownership pages (WIP)
 
 This document will focus on the hardening of selected VA Medical Center (VAMC) pages. 
 
