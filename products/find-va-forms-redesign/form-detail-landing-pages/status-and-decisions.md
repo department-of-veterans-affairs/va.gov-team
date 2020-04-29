@@ -29,6 +29,12 @@ __Other outcomes:__
 
 - We will not add a "Veterans" label (like we have for Family member benefits and Service member benefits). Rationale: all benefits on VA are essentially Veteran related, even the ones that are family member or service member benefits.
 
+__Next steps:__
+- Beth will create a discover ticket for migration approach. 
+
+- Jen will update CSV format per fields needed for migration, with solidified Related to values. 
+
+- Jen will coordinate stakeholders filling out the 500ish form values. 
 
 
 ## 04/27/20
@@ -49,7 +55,9 @@ We decided on the general approach to map the CMS AX labels to the frontend form
 #### "Related to" field logic:  
 
 - By default, when a new form is added in the database, the __Related to__ field will display the associated form owner from the forms database: VA, VHA, VBA, or NCA
+
 - The default value can be updated in Drupal by the content editor to display one or more of the related to values (e.g., Health care, Education and training, Family members, etc.) 
+
 - The complete list of related to values still needs to be solidified. 
 
 
