@@ -59,7 +59,7 @@ Method
 
 **3. What will you be testing?**
 
-  - We will set up a Mural board for each
+  - We'll have a Mural board set up, and use the card sort as a back up.
 
 Participants and Recruitment
 ----------------------------
