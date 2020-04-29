@@ -7,6 +7,7 @@ def markdown_to_js(filename,scenarioVariable)
 
     chatbot_messages.each do |message|
         key, content = message.strip().split("\n",2)
+        content = content.strip()
         output_file.write("    #{key}: `\n#{content}\n`,\n\n")
     end
 
