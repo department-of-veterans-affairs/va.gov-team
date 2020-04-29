@@ -61,7 +61,7 @@ The Forms Tag applies to veteran-facing forms with multiple steps. The form tag 
 | .*continue-application$ | Interactions |
 | .*form-reapply$ | Interactions |
 | .*file-uploaded | Interactions |
-| .*schedule-new-appointment-started | Interactions |
+| vaos-(schedule-appointment-button-clicked\|schedule-another-appointment-button-clicked\|schedule-new-appointment-started\|past-appointments-legacy-link-clicked) | Interactions |
 | .*howToApply-applyNow$ | Transactions | 
 
 Other events that do not fall into these buckets are then placed into a default Event Category for "API Calls". 
@@ -89,7 +89,7 @@ The Navigation Click tag tracks common design library elements used across VA.go
 2. Ensure dataLayer requirements use the `nav-` prefix
 
 #### Non-Form Products
-Configuration for non-form products include implementation for the Facility Locator, GI Bill Comparison Tool, Authenticated Experience products, and the login process. These products are typically configured as distinct tags, triggers, and variables. Where applicable, custom dimensions can also be added to these tags to track hit, session, or user-scoped traits. 
+Configuration for non-form products includes implementation for the Facility Locator, GI Bill Comparison Tool, Authenticated Experience products, and the login process. These products are typically configured as distinct tags, triggers, and variables. Where applicable, custom dimensions can also be added to these tags to track hit, session, or user-scoped traits. 
 
 *To-do's for Analytics-Insights Team:*
 1. Provide dataLayer requirements to VFS teams that follow the `product prefix-interaction suffix`. For example, the event for MyHealtheVet logins is `login-attempted-mhv`.  
@@ -97,10 +97,10 @@ Configuration for non-form products include implementation for the Facility Loca
 3. Apply custom dimensions if necessary
 
 ### QA Testing
-As part of story validation, the Analytics & Insights teams performs thorough QA of both the dataLayer and GTM workspace. This testing should be done within the staging environment and reflect as close to the final functionality as possible. The QA process can be deamed "done" when the following are done: 
+As part of story validation, the Analytics & Insights team performs thorough QA of both the dataLayer and GTM workspace. This testing should be done within the staging environment and reflect as close to the final functionality as possible. The QA process can be deemed "done" when the following are done: 
 1. The dataLayer events and variables have been validated according to relevant test scenarios.
 2. The GTM configuration, by a different team member than the one who configured the workspace, has been validated according to the same relevant test scenarios. 
-3. All test scenarios have been documented within the github issue. Please see below for template. 
+3. All test scenarios have been documented within the GitHub issue. Please see below for template. 
 
 ##### Edge Cases to Test / Ask yourself
 1. **DL Bleed-over**: If multiple events fire on a page and are used within the same tagging, ensure DL variables DO NOT bleed-over into other irrelevant events. This can be solved by asking the developer to pass in `undefined` for events where the variable is not used
@@ -118,8 +118,8 @@ _i.e Clicked primary CTA button on X page_ | Screenshot 1 here | ✔️ **PASS**
 _i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
-VSP Analytics & Insights also receives infrequent requests to implement new tracking on MHV,eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, VSP Analytics & Insights has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
+VSP Analytics & Insights also receives infrequent requests to implement new tracking on MHV, eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, VSP Analytics & Insights has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
 
 ## Publishing Workspace
-Google Tag Manager environments were established, so that VSP Analytics & Insights can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
+Google Tag Manager environments were established so that VSP Analytics & Insights can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
 
