@@ -10,21 +10,22 @@ N/A for this feature release.
 ## Phase II: unmoderated production testing
 
 ### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
-- Desired date range: 4/8/20 - 4/10/20
+- Desired date range: 5/6/20 - 5/8/20
 - Desired number of unique users: We plan to start with 1% of users and gradually increase to 100% of users over two days.
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
-- "Success" criteria (by the numbers):  No changes to login success rates.
+- "Success" criteria (by the numbers):  Decrease in amount of logins per user per session. Under investigation by John Wehausen.
 
 ### Planning - Inbound (SSOe is live for users logging in on [eauth](https://eauth.va.gov/accessva/) properties and then navigating to VA.gov):
-- Desired date range: 5/4/20 - 5/8/20
+- Desired date range: 5/6/20 - 5/8/20
 - Desired number of unique users: We plan to start with 1% of users and gradually increase users over two days.
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
-- "Success" criteria (by the numbers): No changes to login success rates.
+- "Success" criteria (by the numbers): Decrease in amount of logins per user per session. Under investigation by John Wehausen.
 
 ## Go Live!
 
 ### Planning - Inbound and Outbound both at 100%:
 - Desired date: 5/11/20
+- Decrease in amount of logins per user per session. Under investigation by John Wehausen.
 - Post-launch KPI 1: Number of successful logins via MHV on VA.gov remains consistent
 - Post-launch KPI 2: Number of successful logins via DSlogon on VA.gov remains consistent
 - Post-launch KPI 3: Number of successful logins via id.me on VA.gov remains consistent
