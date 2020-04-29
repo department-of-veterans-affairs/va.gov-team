@@ -1,7 +1,7 @@
 
-# Content Reviews
+#  VSP Content reviews
 
-List of projects with final and in progress content work. If your team/work is not listed below and it should be, reach out to the Content and IA team.
+List of projects with final and in-progress VSP content work. If your team/work is not listed below and it should be, reach out to the Content and IA team.
 
 ## Current Reviews
 
