@@ -64,7 +64,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [x] Change "Zip code" to "Postal code"
 - [ ] Bold "your spouse" in the label, "Was your spouse married before?"
 - [x] Change header in list loop to "Next former spouse"
-- [ ] Change button text to: "Add another former spouse"
+- [x] Change button text to: "Add another former spouse"
 - [x] Change "Where did this marriage take place?" to "Place of marriage to former spouse"
 - [ ] Bold "or" in labels under the "Place of marriage to former spouse" section
 - [x] Change "Where did this marriage end?" to "Place marriage with former spouse ended"
