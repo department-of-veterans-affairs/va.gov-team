@@ -15,6 +15,7 @@ Ensure that:
 1. The title is bolded
 2. The documentation audience is clear
 3. There's a summary or overview
+4. The documentation is readable: reach out to another Insights team member to QA!
 
 ## Naming Conventions
 
