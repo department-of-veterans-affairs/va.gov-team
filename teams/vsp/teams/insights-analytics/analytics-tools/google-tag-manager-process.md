@@ -40,7 +40,7 @@ After consulting with the VFS Product Manager and FE team members, the Analytics
 Description of Interaction | dataLayer Example
 ------------ | ------------- 
 _i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click'`<br>`});`
-_i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click'`<br>`});`
+_i.e Clicked primary CTA button on X page_ | `dataLayer.push({`<br>`'event': 'event-name-here-click',`<br>`'other-variable': 'that-we-want-to-track'`<br>`});`
 
 ### Google Tag Manager Configuration 
 As the VFS team is implementing the requirements, the VSP Analytics & Insights team should begin configuration of the new or revised Google Tag Manager tag(s), trigger(s), and/or variable(s). There are several shared configurations that can be leveraged across VFS forms products or global navigation elements. These are outlined below. Implementation for other use cases will be noted. 
@@ -88,6 +88,8 @@ The Navigation Click tag tracks common design library elements used across VA.go
 1. Design library elements that have not been captured in this list should be added to the Google Tag Manager variable "Navigation Action Lookup". 
 2. Ensure dataLayer requirements use the `nav-` prefix
 
+The Navigation Click tag is a [non-interaction event](https://support.google.com/analytics/answer/1033068?hl=en#NonInteractionEvents), so they will not be factored in to bounce rate calculations.
+
 #### Non-Form Products
 Configuration for non-form products includes implementation for the Facility Locator, GI Bill Comparison Tool, Authenticated Experience products, and the login process. These products are typically configured as distinct tags, triggers, and variables. Where applicable, custom dimensions can also be added to these tags to track hit, session, or user-scoped traits. 
 
@@ -121,5 +123,4 @@ _i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
 VSP Analytics & Insights also receives infrequent requests to implement new tracking on MHV, eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, VSP Analytics & Insights has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
 
 ## Publishing Workspace
-Google Tag Manager environments were established so that VSP Analytics & Insights can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production if no further changes are made.
-
+Google Tag Manager environments were established so that VSP Analytics & Insights can publish their active workspace to Dev and Staging, in lieu of relying on the Preview link to complete validation. These changes should then be published to Production by a different team member than the one who configured the workspace if no further changes are made.
