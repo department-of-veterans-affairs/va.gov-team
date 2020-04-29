@@ -20,7 +20,7 @@ Please choose the topic that best fits your needs.
 choose_question: `
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one.
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one.
 `,
 
 do_next: `
