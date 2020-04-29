@@ -18,7 +18,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
 
 ### <a id="whatwedo"></a> What we do
 
-VSP Content provides guidance and feedback on all content being created across VA.gov to ensure it follows our content style guide, such as: 
+VSP Content provides guidance and feedback on all content being created across VA.gov to ensure it follows our content best practices, such as: 
 
 -	[ ] [Voice](https://design.va.gov/content-style-guide/content-principles.html): Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
@@ -31,37 +31,38 @@ VSP Content provides guidance and feedback on all content being created across V
 
 ### <a id="workingwithus"></a> Working with us
 
-The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
+The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) defines the process for VSP support of all VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
 
-Content feedback and guidance happens during the following Collaboration Cycle check-ins: 
+VSP provides content feedback and guidance during the following Collaboration Cycle check-in meetings: 
 
 - **Project Kickoff:** During the kickoff, we'll get a better understanding of the problem your team is trying to solve. Engaging content  as early as possible in your work will provide us with background information, and well as help us understand scope, audience, and timing. We'll also be able to identity if there are any areas of your project that might need additional support or collaboration. 
 
-- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to help better understand what areas of your product might need extra content review or support.
+- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the produc/tool, and if there are areas where content can improve their experience. 
 
-- **Staging:** We’ll provide content feedback on your completed product on staging it’s launched. During this stage we’ll do a full E2E content review and a final proofread to ensure content recommendations we provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
+- **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
 
 ### <a id="resourcesandguides"></a> Resources and guides
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo.
 
 - Content processes
-     - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)  
+     - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md) 
+     - [List of current and past VSP content reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-reviews.md)
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
     - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
     
  - VA.gov form guidance
-     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-content-process.md)
+     - [Form content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-content-process.md)
      - [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md)
      - [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)     
-     - [Form labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-labels.md)
+     - [Form labels](https://design.va.gov/patterns/form-labels)
      
 - VA.gov content style guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
-    - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
+    - [Error messages](https://design.va.gov/patterns/messaging-dictionary)
     - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
     
  - VA.gov content strategy guides
