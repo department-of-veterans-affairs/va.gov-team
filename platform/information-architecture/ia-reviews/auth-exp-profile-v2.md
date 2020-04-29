@@ -34,7 +34,13 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 
 ### Meeting notes
 
-**4/20/20 - Content mtg with Public Websites**
+**4/28/2020 - Connected accts mtg w/Danielle, Selina, Carey O, Matt S**
+- getting rid of old connected accounts FAQ
+- new FAQ and app directory should both be available to unauthenticated users, PW site to implement
+- App directory likely not supported by Drupal due to images, 
+- Plan to launch with Profile 2.0 work
+
+**4/20/20 - Connected accts mtg w/Selina, Carey O, Matt S**
 - Some FAQ content is not veteran facing
 - primary entry point is from the profile page, but doesn't necessarily mean that users HAVE to be logged in to see the content
 - Content currently has some developer content in it, which has been recommended to be removed
