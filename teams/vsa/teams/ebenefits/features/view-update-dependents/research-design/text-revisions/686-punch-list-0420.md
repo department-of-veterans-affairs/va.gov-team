@@ -40,8 +40,9 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Checkboxes
 
 - [x] Change chapter title to: "What do you want to do?
-- [ ] Add instructional text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
-- [ ] Change checkbox text and order per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
+- [x] Add instructional text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
+- [x] Change checkbox text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
+- [ ] Change checkbox order per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
 
 ### Veteran's info section
 
