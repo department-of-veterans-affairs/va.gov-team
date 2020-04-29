@@ -73,13 +73,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Section 2: Scheduling expectations
 
-- Do you consider "same-day" or urgent care the same thing as scheduling an appointment? If not, how is this different?
+- Do you consider "same-day" or "urgent care" the same thing as scheduling an appointment? 
+  - If YES: How would you schedule this type of appoint now?
+  - If NO: How are these care types different than other appointments you schedule?
+    - How would you schedule this type of care appointment?
 - Can you tell me what types of urgent care you might seek through VA's same-day Telehealth appointments?
 - Who do you expect to speak with for an urgent same-day VA Telehealth appointment?
+  - Probe, if necessary: Your PACT, any available provider, an RN, etc. 
 
 ## Section 3: [Prototype]
 
-Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
+Next, we're going to take a look at a prototype. We've stripped away a lot of the webpage to focus on specific information, so it may look and feel different than what you are familiar with on VA.gov. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. 
+
+- Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+  - Probe: What does / doesn't make sense?
 - [in prototype: show appointments screen] Imagine you have signed in to your account on VA.gov and you see your appointments page. Where would you go to make a same-day urgent Telehealth appointment?
   - Is that what you expected to happen? 
     - If YES: Why?
