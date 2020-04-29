@@ -95,6 +95,8 @@ Assess and update workload for remainder of sprint
 * On a [zoom meeting](https://us02web.zoom.us/j/93282204164)
 
 #### Issue Etiquette
+**For Requests originating outside the Public Websites team** - please use our [Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=lunascoop&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+needs-grooming%2C+Epic&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
+
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
 - Estimate
