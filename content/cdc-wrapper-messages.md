@@ -1,4 +1,4 @@
-
+# Message before entering CDC symptom-checker flow
 > cdcSymptomCheckerPreText
 
 **CDC coronavirus self-checker tool**

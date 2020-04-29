@@ -1,4 +1,4 @@
-
+# First message in chatbot
 > emergencyWarning
 
 **Before we get started, if you or someone else has any of these emergency warning signs of COVID-19, please call 911 to get medical care right away:**
@@ -8,6 +8,7 @@
 - Suddenly feeling or acting confused
 - Trouble waking up or staying awake
 
+# Prompt for root menu
 > root
 
 **What do you need help with today?**
@@ -16,17 +17,21 @@ Please choose the topic that best fits your needs.
 
 **Note:** If you want to choose another topic later, you can come back to this list to ask a different question. And if we can't answer all your questions here, we'll connect you with someone to talk to about your specific needs.
 
+# Prompt for submenus with questions
 > choose_question
 
 **What question can we answer for you first?**
 
 Please choose the question that best fits your needs. You can always ask more questions after we answer this one.
 
+# Prompt for after a question is answered
 > do_next
 
 **What would you like to do next?**
 
+# Exit message if user selects "I have all the info I need"
 > exit
+
 Thank you for using our VA coronavirus chatbot. If you have more questions later, you can use the chatbot again or visit our [coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/) page for up-to-date answers on frequently asked questions.
 
 
