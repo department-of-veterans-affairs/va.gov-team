@@ -1,4 +1,4 @@
-Research Plan for Authenticated Experience team, Logged-in homepage, April 2020
+Research Plan for Authenticated Experience team, Logged-in homepage, May 2020
 ===============================================================================
 
 Goals
@@ -69,10 +69,11 @@ Participants and Recruitment
   - We'd like to interview **[NUMBER]** Veterans who log into VA.gov
   - We request the participant pool be diverse in:
       - Gender (at least 30% women)
-      - Age (at least two people from 18-30, 31-50, and 50+)
-      - Enlisted vs officer backgrounds (at least 30% enlisted)
+      - Ethnicity/Race (at least 30% non-Caucasian)
+      - Age (at least **[NUMBER]** people from 18-34, 35-54, and 55+)
+      - Education level (at least 30% falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
       - Geography
-      - Experience with VA benefits and services (at least two people have 3 or more benefits)
+      - Experience with VA benefits and services (at least **[NUMBER]** people have 3 or more benefits)
   - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 **2. What is your recruitment strategy?**
