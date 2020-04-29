@@ -17,7 +17,7 @@ Please choose the topic that best fits your needs.
 > choose_question
 **What question can we answer for you first?**
 
-Please choose the question that best fits your needs. You can always ask more questions after we answer your first one.
+Please choose the question that best fits your needs. You can always ask more questions after we answer this one.
 
 > do_next
 **What would you like to do next?**
@@ -339,7 +339,7 @@ We don’t yet know. Based on experiences with past viruses, exposure will likel
 
 
 # 40. Will my COVID-19 stimulus check lower my VA payments?
-> covid_stimulus_check
+> stimulus_check_va_payments
 No. We won’t count any money received as part of the COVID-19 stimulus package as income for VA pension or parent Dependency and Indemnity Compensation (DIC) beneficiaries. This means your payments will stay the same.
 
 
@@ -372,7 +372,7 @@ To request forbearance, contact the mortgage company that collects your payments
 
 
 # 43. Will I still have to pay my VA copays during the pandemic?
-> va_copay
+> va_copay_during_pandemic
 As of April 6, 2020, we’ve stopped sending monthly copay billing statements for all Veterans. This means you won’t receive a bill for any copays during this time. Please check back regularly for updates.
 
 
@@ -469,6 +469,37 @@ We’re accepting different forms of electronic, digital, and typed signatures. 
 
 **If you have any questions**
 Call us at [800-827-1000](tel:18008271000) (TTY: 711), Mon. – Fri., 8:00 a.m. to 9:00 p.m. ET.
+
+
+# 53. If I’ve lost my job, can I get help with my VA copays over time?
+> va_copays_lost_job
+Yes. If you're struggling because of life situations like losing your job, having a sudden decrease in income, or having an increase in out-of-pocket family health care expenses, we can help. You can request financial hardship assistance to manage your current VA copay debt or request an exemption from future copays.
+
+[Learn more about requesting financial hardship assistance](https://www.va.gov/health-care/pay-copay-bill/financial-hardship/)
+
+[Watch a video about financial hardship options (YouTube)](https://www.youtube.com/watch?v=3Pa_EUA0Qy0)
+
+You can also call our Health Resource Center at [866-400-1238](tel:18008271000) to talk to someone about your options.
+
+
+
+# 54. Is VA helping to make sure I get my stimulus check?
+> stimulus_check_va_help
+Yes. If you receive VA disability or pension benefits, you’ll automatically receive a $1,200 stimulus check from the IRS, even if you don’t file tax returns. You don’t need to do anything to receive your check. 
+
+We’re working with the Internal Revenue Service (IRS) and U.S. Department of the Treasury to make sure you receive your payment as soon as possible. You’ll soon be able to [track your payment on IRS.gov](https://www.irs.gov/coronavirus/get-my-payment).
+
+**If you have 1 or more dependent children under the age of 17**
+
+You may qualify for an extra $500 per child. **If you didn’t file a tax return in 2018 or 2019, you must register with the IRS by May 5, 2020, to get this added amount.**
+
+[Register as a non-filer on IRS.gov](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here)
+
+**If you’ve already started using the IRS’s Economic Impact Payments (EIP) portal**
+
+You can continue using the portal to give the IRS your information and track your stimulus check. This won’t cause any problems with getting your check.
+
+Note: Use only IRS.gov to register or get information about your stimulus check. Be careful of scams. Unless you’ve asked to be contacted, the IRS will never contact you by email, phone, or text to ask for personal or financial information or to open an attachment or visit a website link.
 
 
 

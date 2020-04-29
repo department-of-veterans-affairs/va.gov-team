@@ -85,19 +85,23 @@ scenario.option_lists = {
 
   financial: {
     questions: [
+      "Is VA helping to make sure I get my stimulus check?",
       "Will my COVID-19 stimulus check lower my VA payments?",
       "What if I can’t pay my existing VA debt?",
       "What if I’m having trouble paying my VA-backed home loan during this time?",
       "Will I still have to pay my VA copays during the pandemic?",
+      "If I’ve lost my job, can I get help with my VA copays over time?",
       "What if I’ve been diagnosed with COVID-19 and need immediate action on my VA appeal?",
       "How do I get help if I'm homeless or at risk of becoming homeless?",
       "Ask a different type of question"
     ],
     answers: [
-      "covid_stimulus_check",
+      "stimulus_check_va_help",
+      "stimulus_check_va_payments",
       "existing_va_debt",
       "va_backed_home_loan",
-      "va_copay",
+      "va_copay_during_pandemic",
+      "va_copay_lost_job",
       "covid_diagnosis_va_appeal",
       "homeless_help"
     ],
