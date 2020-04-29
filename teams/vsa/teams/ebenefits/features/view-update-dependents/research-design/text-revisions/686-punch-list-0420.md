@@ -58,8 +58,8 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [x] Change "Your spouse’s last name" to "Spouse's last name"
 - [ ] Bold "or" in labels under the "Where were you married?" section
 - [x] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
-- [ ] Use base-checkbox address block for separated spouse's address
-- [ ] Checkbox to say "They live on a United States military base outside of the U.S."
+- [x] Use base-checkbox address block for separated spouse's address
+- [x] Checkbox to say "They live on a United States military base outside of the U.S."
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
 - [ ] Bold "your spouse" in the label, "Was your spouse married before?"
@@ -84,7 +84,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Change header in list loop to "Next child"
 - [ ] Child's name header seems to be missing after child info screen
 - [ ] Bold "or" in labels under the "Child's place of birth" section
-- [ ] Use base-checkbox address block for "Person your child lives with" address
+- [x] Use base-checkbox address block for "Person your child lives with" address
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
 
