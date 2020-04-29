@@ -97,8 +97,8 @@ This research rolled up into the larger Personalization 2.0 report linked above 
 
 - **Goals:** To evaluate what features veterans might be interested in using  if the VA were to develop a mobile app.
 - **Findings:**
-  - Mobile app feeatures people were interested in: Being able to request military records, having the ability to update contact information, uploading documents, seeing status updates/appointment reminders/secure messages, and in getting help in a crisis.
-  - Features people were less interested in: Comparing GI bill benefits, having the ability to sign in for appointments,viewing patment history, adding VA docs to their Apple/Android wallet.
+  - **Mobile app features people were interested in**: Being able to request military records; having the ability to update contact information; uploading documents; seeing status updates, receiving appointment reminders, and sending secure messages; and getting help in a crisis.
+  - **Features people were less interested in**: Comparing GI bill benefits, having the ability to sign in for appointments, viewing patment history, adding VA docs to their Apple/Android wallet.
   
 ## Journey maps
 
