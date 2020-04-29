@@ -3,6 +3,27 @@
 ## mm/dd/yy
 
 
+## 04/29/20
+
+Outcome from call w/Beth Jacobson re migration approach for custom fields that don't come from the forms database: Related to; Online tool; When to use this form. 
+
+__Migration:__
+
+1/ Beth will do a discovery to see how this might work. 
+2/ The form PDF URL can stand in as the 'key' that connects the migrated data to a form record. 
+3/ Related to, Online tool, and When to use this form values can all be included as part of the migration. 
+4/ As a CSV spreadsheet. 
+5/ Each related to value as a column, with an X if a form gets that value. 
+6/ No problem that she can see at this time to do a staggered migration. I.e., first chunk for the top 30-40 mvp high value forms; 2nd chunk for all the other forms. (This gives us time for VA stakeholders to add those values into a shared spreadsheet for the other 500ish forms in the database.)
+
+
+__Other outcomes:__
+
+1/ We will create a Related to value for forms that are not VA forms -- Not a VA form/Non-VA form -- so that in the future, we have the option to use this tag to suppress/hide non-VA forms from search or from getting a VA form detail landing page. (Rationale: We don't want VA form detail landing pages to compete with the source of truth - e.g., OPM and GSA forms that actually have form pages on the OPM/GSA forms site.)
+2/ We will not add a "Veterans" label (like we have for Family member benefits and Service member benefits). Rationale: all benefits on VA are essentially Veteran related, even the ones that are family member or service member benefits.
+
+
+
 ## 04/27/20
 
 Outcomes from call w/Beth Jacobson re Drupal form detail landing page data fields schema. 
