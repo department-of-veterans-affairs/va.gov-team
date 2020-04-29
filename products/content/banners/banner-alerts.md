@@ -4,6 +4,17 @@ This product folder captures the latest iterations, decisions, and implementatio
 
 This work captures 3 types of full-width banners that can appear at the top of the page. This work does not cover the promo announcement component that appears at the bottom of the viewport. 
 
+## Rubric for prioritization (display hierarchy)
+This hierarchy applies when more than one of these types of events occur simultaneously. We know this weighting may not always feel right, but believe this should cover 80% of cases, and we want to get out of using subjective judgement one case at a time, every time. 
+
+There can be only a maximum of 1 type each - this means sometimes, there might be up to 3 banners at the top of the page - always in this order of display:
+
+1/ Emergency banner (always first - these do not have a specific expiration date)
+2/ System maintanence banner (order by expiration date)
+3/ Veteran action needed (order by expiration date)
+
+The order of banners #2 and #3 should be configured to display based on expiration date. The message with the earliest expiry should appear above the other. 
+
 ## Emergency banner alert: https://design.va.gov/components/alertboxes#full-width-alerts
 
 This type of banner is to be used only for emergency communications -- e.g., natural disasters affecting services such as hurricanes, wild fires; major events such as government shutdowns, mass shootings, and other major events affecting services. 
@@ -18,7 +29,8 @@ __Note:__ At DEPO discretion the same banner message can be published on lower l
 This is a new type of banner to be used for communicating system downtimes that affect all services or tools sitewide across VA.gov. 
 
 - The header text for sitewide system maintenance banner will always be: __System maintenance__
-- The body text will be standardized text for 1) advance notice [ and ... TBD ] and automatically be removed after the downtime
+- The body text will be standardized text for 1) advance notice 2) and during downtime. 
+- The banner will automatically go away after the downtime window.
 - The sitewide system maintenance banner should be configured to appear sitewide across all VA.gov pages (minus medical center products).
 - Message must have a specifiec expiration date and must disappear automatically on expiry. 
 
@@ -47,7 +59,7 @@ __Note 3:__ DEPO global ux content admin should have the ability to publish this
 
 - The header text for this type of banner should be customizable with a limit of 50 characters with spaces.
 - The body text will be customizable with a limit of 200 characters with spaces.
-- This message banner should be configurable 
+- This message banner should be configurable with an expiration date.
 - Message must have a specifiec expiration date and must disappear automatically on expiry. 
 
 __Design notes:__
