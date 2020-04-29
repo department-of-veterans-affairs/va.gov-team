@@ -38,6 +38,6 @@ Any GTM admin can approve access for va.gov team member with a demonstrated need
 
 VA.gov will be using a single container with the following permission structure:
 
-- Publish: VSP Analytics-Insights (Nedie Recel and Jon Wehausen)
+- Publish: VSP Analytics-Insights (Jon Wehausen and Brian Martin)
 
 - Approve: All other va.gov team members
