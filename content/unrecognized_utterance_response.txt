@@ -1,5 +1,0 @@
-Line below needs to be moved manually into the healthbot service.
-This is configured at https://us.healthbot.microsoft.com/account/azcctolabhealthbot-djeoexc/configuration/conversation#/interactions
-First Global Default, "Default reply for utterances that are not understood"
-
-We're sorry. That's not a valid option.\n\n**Please try one of these options or refresh the page to start over:**\n- [Read our coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)\n-  [Send a secure message to your VA provider](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home)\n- [Request an appointment online](https://www.va.gov/health-care/schedule-view-va-appointments/)\n- [Check your local VA health facility website](https://www.va.gov/find-locations/)
