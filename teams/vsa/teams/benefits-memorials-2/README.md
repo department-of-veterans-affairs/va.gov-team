@@ -29,11 +29,11 @@ TBD
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
-|Design Lead            |Shawna Hein                         |
 |Team Product Manager   |Leah Keeler                         |
 |Back End Engineer      |Cameron Testerman                   |
 |Front End Engineer     |Brad Conley                         |
 |Front End Engineer     |Mahariel Rosario                    |
+|Design Lead            |Shawna Hein                         |
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
 
