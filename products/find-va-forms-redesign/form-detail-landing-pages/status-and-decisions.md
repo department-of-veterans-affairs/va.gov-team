@@ -7,12 +7,26 @@
 
 Outcomes from call w/Beth Jacobson re Drupal form detail landing page data fields schema. 
 
-#### Decsion about __"Revision date"__ field label:  
+#### Drupal field label nomenclature mapping: 
+
+We decided on the general approach to map the CMS AX labels to the frontend form detail landing page user interface label as closelyl as possible. 
+
+
+#### "Revision date" field label value: 
+
 We will change this label to __"Form last updated"__
 The date displayed will be the revision date from the forms database; if there's no revision date value, we will display the date from the issue date field. 
 
-#### Decision about Drupal field labels: 
-We decided on the general approach to map the CMS AX labels to the frontend form detail landing page user interface label as closelyl as possible. 
+#### "Related to" field logic:  
+
+- By default, when a new form is added in the database, the __Related to__ field will display the associated form owner from the forms database: VA, VHA, VBA, or NCA
+- The default value can be updated in Drupal by the content editor to display one or more of the related to values (e.g., Health care, Education and training, Family members, etc.) 
+- The complete list of related to values still needs to be solidified. 
+
+
+#### Next step:
+
+Jen solidifies Related to values. 
 
 
 ## 04/24/20
