@@ -2,6 +2,19 @@
 
 ## mm/dd/yy
 
+
+## 04/27/20
+
+Outcomes from call w/Beth Jacobson re Drupal form detail landing page data fields schema. 
+
+#### Decsion about __"Revision date"__ field label:  
+We will change this label to __"Form last updated"__
+The date displayed will be the revision date from the forms database; if there's no revision date value, we will display the date from the issue date field. 
+
+#### Decision about Drupal field labels: 
+We decided on the general approach to map the CMS AX labels to the frontend form detail landing page user interface label as closelyl as possible. 
+
+
 ## 04/24/20
 
 Call w/ Stephanie, Nick, Mikki, Andrew Fichter, Jen Lee, Beth Jacobson, and John Hashimoto. 
