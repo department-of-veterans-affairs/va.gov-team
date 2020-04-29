@@ -48,63 +48,68 @@ Method
 
 **1. What method of research are you planning and why?**
 
-  - We'll conduct an initial short qualitative interview to gain insight into the "why" questions we have.
-  - This will be followed by a moderated, closed card sort to see how Veterans differentiate content on their profile and dashboard.
-  - We'd also like to work with Veterans on a  co-design exercise to better understand their expectations for what a dashboard should look like.  Still to be finalized.
+  - We will conduct an initial short qualitative interview to gain insight into the "why" questions we have.
+  - This will be followed by a moderated co-design exercise. We think this collaborative approach will give us the best chance to understand what Veterans expectations are around a logged-in experience.
+  - We will have a card sort available as a back-up because it could provide similar insights to the design exercise.
 
 **2. Where are you planning to do your research?**
 
   - Sessions will be remote moderated sessions.
-  - We'll use Zoom and Optimal Workshop.
+  - We will use Zoom and Mural. Optimal Workshop will be used for the back-up card sort.
 
 **3. What will you be testing?**
 
-  - We will set up a card sort exercise in Optimal Workshop
+  - We will set up a Mural board for each
 
 Participants and Recruitment
 ----------------------------
 
 **1. Participant criteria**
 
-  - We'd like to interview **[NUMBER]** Veterans who log into VA.gov
+  - We'd like to interview 10-12 Veterans who log into VA.gov.
+  - Participants must be able to participate via a desktop device.
   - We request the participant pool be diverse in:
-      - Gender (at least 30% women)
-      - Ethnicity/Race (at least 30% non-Caucasian)
-      - Age (at least **[NUMBER]** people from 18-34, 35-54, and 55+)
-      - Education level (at least 30% falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
+      - Gender (at least 3 women)
+      - Ethnicity/Race (at least 3 non-Caucasian)
+      - Age 
+          - at least 2 people from 18-34
+          - at least 2 people from 35-54
+          - at least 2 people who are 55 or older.
+      - Education level (at least 3 falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
       - Geography
-      - Experience with VA benefits and services (at least **[NUMBER]** people have 3 or more benefits)
+      - Experience with VA benefits and services (at least 3 people who have 3 or more benefits)
   - To ensure inclusivity, we request some participants that have identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 **2. What is your recruitment strategy?**
 
 - We will leverage Perigan's recruitment capabilities.
-- In order to get **[NUMBER]**, we'd like Perigean to recruit **[NUMBER]**, with the expectation that there be a max of **[NUMBER]** no shows.
+- In order to get 10-12 participants, we'd like Perigean to recruit 15, with the expectation that there be a max of 5 no shows.
 
 When?
 -----
 
 **1. Timeline: What dates do you plan to do research?** 
 
-May 11-May 15, 2020, depending on recruitment.
+​     May 11-May 15, 2020, depending on recruitment.
 
 **2. Prepare: When will the thing you are testing be ready?** 
 
-Card sort + co-design plans will be finalized by May 6.
+​    Card sort + co-design plans will be finalized by May 6.
 
 **3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)**
 
-45-60 minutes
+​    45-60 minutes
 
 **4. Availability: If applicable, when would you like sessions scheduled?**
 
-  - May 11: available from 3pm - 8pm
-  - May 13 and 15: available from 9-11am and 2-8pm
-  - May 12 and 14: available from 7am-9am, 11am-3pm or 6-8pm
+  - May 11: available from 3pm - 8pm (Please only schedule 1 participant on this day)
+  - May 13 and 15: available from 9-11am and 2-8pm (Please allow 15 minutes between sessions)
+  - May 14: available from 7am-9am, 11am-3pm or 6-8pm (Please allow 15 minutes between sessions)
 
 **5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-May 7, team member TBD
+- May 7, between 11am-3pm
+- We'll be piloting research with a team member outside of the design practice; exact team member TBD
 
 Team Roles
 ----------
