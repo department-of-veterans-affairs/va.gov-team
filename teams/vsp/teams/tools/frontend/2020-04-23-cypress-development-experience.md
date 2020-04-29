@@ -122,7 +122,9 @@ Tests run identically across different browsers. Because cypress is executed in 
 
 There isn't any configuration needed to test in different browsers which is nice. The test runner also has a toggle that allows you to select from your locally installed browsers.
 
+<p align="center">
 <img width="797" alt="Screen Shot 2020-04-21 at 10 43 32 AM" src="https://user-images.githubusercontent.com/9042882/79896326-1570e800-83bd-11ea-909c-c4264ba6e4a3.png">
+</p>
 
 ## Assertions
 
@@ -147,6 +149,19 @@ Checks if the given element is disabled on the page.
 // Bdd assertion
 cy.get('button').should('be.disabled')
 ```
+
+## Nightwatch vs Cypress
+
+### Browser Support
+The latest version of [nightwatch](https://nightwatchjs.org/gettingstarted/configuration/#browser-drivers-setup) supports Chrome, Firefox, Safari, and Internet Explorer. Even though nightwatch supports IE and Safari when cypress doesn't, setting up the configuration for different browser support is more involved. Out of the box, Cypress doesn't need any configuration for multiple browser support. This is beneficial as it saves time when trying to run e2e tests in CI, and
+
+### Popularity
+Cypress is significantly more popular than nightwatch. Looking at the `npm` weekly download numbers, [Cypress](https://www.npmjs.com/package/cypress) surpasses [nightwatch](https://www.npmjs.com/package/nightwatch) with nearly 7 and a half more downloads as of April 28, 2020. This suggests that new developers coming to the platform will probably be more familiar with cypress than nightwatch.
+
+### Plugins
+Currently cypress has hundreds of [plugins](https://docs.cypress.io/plugins/index.html) available for integration. This makes it possible to do things like [drag and drop](https://github.com/4teamwork/cypress-drag-drop). Nightwatch doesn't have the same level of plugin support.
+
+
 
 ## Next Steps for Converting to Cypress
 - Convert custom nightwatch commands and assertions.
