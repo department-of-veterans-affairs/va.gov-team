@@ -20,18 +20,30 @@
 - Women's health
 
 ### VA Pittsburgh services
+- Amputation care
+- line item
 
 ### Vet Centers
+- Bereavement counseling
+- line item
 
 ### VA benefits
+- Applying for benefits
+- Burial claim help
+- line item
 
 ### VA cemetery
+- Confederate cemetery
+- line item
 
-### VHA specialty care services
+### VHA specialty care service
+- Bariatric surgery (weight loss surgery)
+- line item
 
 ### Urgent Care
-
-
+- VA urgent care
+- Community urgent care
+- line item
 
 # Things to keep in mind
 
