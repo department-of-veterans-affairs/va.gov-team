@@ -17,6 +17,8 @@ Enable Veterans, their dependents, and caregivers to easily discover, apply for,
 ### **Product Portfolio**
 [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
 
+[Debt Letters MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
+
 [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Responsibilities**
@@ -27,11 +29,11 @@ TBD
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
-|DSVA Design Researcher |Kevin Hoffman                       |
-|Team Product Manager   |Nicolaus Wygonik                    |
-|Back End Engineer      |Joseph Brothers                     |
+|Design Lead            |Shawna Hein                         |
+|Team Product Manager   |Leah Keeler                         |
+|Back End Engineer      |Cameron Testerman                   |
 |Front End Engineer     |Brad Conley                         |
-|Front End Engineer     |Amen Ra                             |
+|Front End Engineer     |Mahariel Rosario                    |
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
 
