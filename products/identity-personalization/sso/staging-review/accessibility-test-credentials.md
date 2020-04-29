@@ -27,8 +27,9 @@ This will impact all authenicated users of VA.gov. For more details please see o
 
 <!-- Provide a Staging URL and any test users that the accessibility specialist should use to review your product -->
 
-* Staging URL:https://staging.va.gov/sign-in/?application=myvahealth
-* Test User if applicable: 
+* Staging URL (Cerner sign-in):https://staging.va.gov/sign-in/?application=myvahealth
+* Staging URL (general sign-in): https://staging.va.gov/
+* Test Users: 
 
 DS Logon Test Accounts: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/ds-logon-lower-env-test-accounts.md
 
@@ -41,7 +42,7 @@ id.me Accounts: https://github.com/department-of-veterans-affairs/va.gov-team-se
 <!-- Include a link to your TestRail or Markdown test plan. The staging accessibiilty review will be more completed more quickly when teams have done their own testing ahead of time. -->
 Use the TestRail or Markdown template to document your accessibility test cases. These must be completed before the VSP staging accessibility review can start.
 
-* Markdown: [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan.md)
+* Markdown: [Github accessibility test results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/sso/staging-review/accessibility-plan.md)
 
 
 ## Known Issues
@@ -49,6 +50,6 @@ Use the TestRail or Markdown template to document your accessibility test cases.
 <!-- If you find accessibility issues during your testing, please open Github issues for them and include links to those issues here. The accessibility specialist will create an epic to collect these issues and any findings from the staging accessibility review. -->
 
 * [Create an accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
-* _Issue number_
-* _Issue number_
-* _Issue number_
+* [777](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7777)
+* [7767](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7767)
+* [7813](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7813)
