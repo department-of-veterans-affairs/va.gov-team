@@ -45,7 +45,6 @@ _April 22 - May 5_
 - FE & BE: address issues from QA review  
 - FE: set up and test Flipper component on Drupal landing page
 - ⏳ BE: unit tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967), [#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
-- ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
 - BE: submit PR to merge BGS endpoints into `vets-api`
 - DE: Fit/finish review/implementation
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765))
@@ -55,6 +54,7 @@ _April 22 - May 5_
 _May 6 - May 19_
 - BE: implement Sidekiq job
 - ⏳ BE: PDF Fill (1 Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469))
+- ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968))
 - ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489))
 - FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201))
 - DE: 686 usability Sessions 
