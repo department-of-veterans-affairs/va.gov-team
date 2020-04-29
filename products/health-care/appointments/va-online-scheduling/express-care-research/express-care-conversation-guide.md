@@ -81,7 +81,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Who do you expect to speak with for an urgent same-day VA Telehealth appointment?
   - Probe, if necessary: Your PACT, any available provider, an RN, etc. 
 
-## Section 3: [Prototype]
+## Section 3: [Prototype](https://invis.io/3PWYUFVAVQU)
 
 Next, we're going to take a look at a prototype. We've stripped away a lot of the webpage to focus on specific information, so it may look and feel different than what you are familiar with on VA.gov. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. 
 
