@@ -1,9 +1,9 @@
 
-#  VSP Content reviews
+#  VSP Content review
 
-List of projects with final and in-progress VSP content work. If your team/work is not listed below and it should be, reach out to the Content and IA team.
+Below is a list of projects with final and in-progress VSP content work. If your team/work is not listed below and it should be, please reach out to the Content and IA team.
 
-## Current Reviews
+## Current reviews
 
 Team | Project | Content review stage | Notes 
 --- | --- | --- | --- 
@@ -23,7 +23,7 @@ Public Websites | Yellow Ribbon Tool | Usability prep review |
 SSO Log in team | Cerner migration | Usability prep review | on pause 
 
 
-## Completed Reviews
+## Completed reviews
 
 Team | Project | Review Status | Zenhub ticket
 --- | --- | --- | --- 
