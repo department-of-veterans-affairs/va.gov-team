@@ -355,7 +355,7 @@ To request forbearance, contact the mortgage company that collects your payments
 `,
 
 /* 43. Will I still have to pay my VA copays during the pandemic? */
-va_copay: `
+va_copays_during_pandemic: `
 As of April 6, 2020, we’ve stopped sending monthly copay billing statements for all Veterans. This means you won’t receive a bill for any copays during this time. Please check back regularly for updates.
 `,
 

@@ -100,8 +100,8 @@ scenario.option_lists = {
       "stimulus_check_va_payments",
       "existing_va_debt",
       "va_backed_home_loan",
-      "va_copay_during_pandemic",
-      "va_copay_lost_job",
+      "va_copays_during_pandemic",
+      "va_copays_lost_job",
       "covid_diagnosis_va_appeal",
       "homeless_help"
     ],
