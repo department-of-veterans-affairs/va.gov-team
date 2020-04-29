@@ -11,6 +11,11 @@
 3. Anything VSP-internal should go in the Teams folder
 4. Product Outlines & User Guides should go in the Products folder
 
+Ensure that:
+1. The title is bolded
+2. The documentation audience is clear
+3. There's a summary or overview
+
 ## Naming Conventions
 
 [product or service]-[update/description]
