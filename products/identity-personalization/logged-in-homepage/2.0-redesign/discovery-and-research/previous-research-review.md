@@ -90,7 +90,16 @@ This research rolled up into the larger Personalization 2.0 report linked above 
   - People found the **Update** and **Decision** blocks to be helpful, but had mixed feelings about being able to remove them. 
   - People want to see meaningful next steps in their notifications
   - We should consider organizing the dashboard by benefit type; the new "Manage your VA Health Care" section of the dashboard met participants' expectations. 
+  
+### VA Mobile App Discovery  
 
+**[VA Mobile App Discovery: Card Sorting Report (April 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/card-sorting/VA%20Mobile%20App%20Discovery_%20Card%20sorting%20report.pdf)**
+
+- **Goals:** To evaluate what features veterans might be interested in using in a VA mobile app if we were to develop one.
+- **Findings:**
+  - Mobile app feeatures people were interested in: Being able to request military records, having the ability to update contact information, uploading documents, seeing status updates/appointment reminders/secure messages, and in getting help in a crisis.
+  - Features people were less interested in: Comparing GI bill benefits, having the ability to sign in for appointments,viewing patment history, adding VA docs to their Apple/Android wallet.
+  
 ## Journey maps
 
 **[Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)** 
