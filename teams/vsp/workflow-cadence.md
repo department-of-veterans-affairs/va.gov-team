@@ -12,24 +12,46 @@ Read on to learn about the different types of documentation and meetings we use 
 - Bi-weekly Engineering Sync
 - Bi-weekly Product Sync (coming soon)
 
-**Full VSP Team Meetings**
-- Bi-weekly End of Sprint Demos
-- Monthly VSP retros
-- Monthly VSP All Hands (internal only - no clients)
+## Full VSP Team Meetings
 
-**VSP Sprint Team Meetings**
-- Daily standup
-- Weekly grooming
-- Bi-weekly Sprint Objective brainstorm
-- Bi-weekly Sprint Planning
-- Bi-weekly Team Retro
+**End of Sprint Demos**
+- Audience: DEPO Leadership, Full VSP Contractor Team
+- Cadence: Bi-Weekly, end of sprint
+- Purpose: Demonstration of features/functionality by various VSP Product Teams
 
-**VSP Practice Area Meetings**
-- Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
-- Product: PM Sync
-- Design:
-- Engineering:
-- Other: 
+**Retrospective**
+- Audience: DEPO Leadership, Full VSP Contractor Team
+- Cadence: Monthly, end of month
+- Purpose: Look back at preceding 2 sprints during that month.  Discussion of what went well, questions, what could have gone better and action items.
+
+**VSP All Hands**
+- Audience: Full VSP Contractor Team
+- Cadence: Monthly
+- Purpose: Updates to contractor team related to program
+
+## VSP Product Team Meetings
+
+**Daily Standup**
+- Audience: Individual VSP Product Teams
+- Cadence: Daily
+- Purpose: Quick status on tasks/tickets, Identify impediments, quick decision making, report/resolve blockers
+
+**Weekly Grooming**
+- Audience: Individual VSP Product Teams
+- Cadence: Weekly
+- Purpose: Weekly review of backlog in preparation for next sprint 
+
+**Sprint Planning**
+- Audience: Individual VSP Product Teams
+- Cadence: Bi-Weekly
+- Purpose: Planning, refinement and agreement on sprint objectives for upcoming sprint 
+
+**Product Team Retro**
+- Audience: Individual VSP Product Teams
+- Cadence: Bi-weekly
+- Purpose: End of Sprint retrospective for indidual product teams.  Identify/Discuss what went well, questions, what could have gone better and action items.
+
+## VSP Leadership Meetings
 
 **VSP Tag Up**
 - Audience: DEPO Leadership, VSP Leadership, PMs
@@ -45,6 +67,31 @@ Read on to learn about the different types of documentation and meetings we use 
 - Audience: DEPO Leadership, VSP Leadership
 - Cadence: Bi-Weekly during current sprint
 - Purpose: Repuposed to review leadership topics/initatives outside of sprint related meetings
+
+**VSP Leadership Sync**
+- Audience: VSP Leadership
+- Cadence: Weekly
+- Purpose: Sync on Program/contract related topics, discussion of staffing, issues/concerns and strategic alignment 
+
+## VSP Practice Area Meetings
+
+**Product**
+- Product: [Initiative Stand Up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/initiative-stand-up.md)
+
+**Product PM Sync**
+- Audience: VSP Product Lead and Product Team Product Managers
+- Cadence: Weekly
+- Purpose: Sync on Product Team initatives, review of roadmaps, workshop activities (when needed), discussion of any issues/concerns
+
+**Design**
+- Audience: VSP Design Lead and Product Team Designers
+- Cadence: Weekly
+- Purpose: Sync on Design initiatves, leadership direction and discussion of any issues/concerns
+
+**Engineer**
+- Audience: VSP Eng Lead and Product Team Eng Leads
+- Cadence: Weekly
+- Purpose: Sync on Engineering initatives/ technical directions and discussion of any issues/concerns
   
 ---
 
