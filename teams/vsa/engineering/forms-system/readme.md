@@ -34,9 +34,9 @@ These real-world implementation patterns are somewhat gnarlky in detail. In some
 - [possible-issues.md](./possible-issues.md) - Our current (evolving) list of *possible* issues, things we may need to vet internally.
 
 ## Wish List
-- Documentation on *formConfig* options such as *hideIf, hideOnReview, hideOnReviewIfFalse, updateFormData, updateSchema, expandUnder* (including limitations we have run into with HideIf, exapandIf, and why.)
+- Documentation on *formConfig* options such as *hideIf, hideOnReview, hideOnReviewIfFalse, updateFormData, updateSchema, expandUnder* (including limitations we have run into with HideIf, expandIf, and why.)
 - More HOW-TO guides mined from Slack conversations and the existing forms in source control. For example, forms 2346, 526EZ, 686, 686c-674, 996 are listed under [src/applications/disability-benefits](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits). Would like to have an empirical analysis that summarizes *all the forms* we have built in va.<span/>gov so far and identify what patterns we are using. Are 80% just out-of-the box, and 20% special cases? Would like to know which ones are special, and for those special cases, what implementation patterns were used.
-- A visual design-oriented catalog that shows the forms components integrated on test pages (100% tracability).
+- A visual design-oriented catalog that shows the forms components integrated on test pages (100% traceability).
 - A live playground feature similar to the [one for the original RSFJ](https://rjsf-team.github.io/react-jsonschema-form/).
 - Visible backlog of VAFS/RJSF items in VSP that VSA developers can see so that we have transparency into what is known and not known as far as defect, features, workarounds, etc. WHEN or IF we get any of these improvements is a totally different story, but we at least need to keep track of the issues so that we don't keep stepping into them. When we get into the how/solutioning, VSA developers would be expected to work with VSP (joint effort, not something that would be expected to be handed down).
 
