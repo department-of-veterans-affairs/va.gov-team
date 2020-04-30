@@ -29,7 +29,7 @@ The search box includes the following fields:
 - [ ] This is a required field unless location is enabled in browser
 
 ### VA facility type
-- [ ] The VA facility Type dropdown defaults to VA health. 
+- [ ] The VA facility type drop down defaults to VA health. 
 
 **VA facility type**
 Drop down includes the following: 
