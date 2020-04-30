@@ -2,7 +2,11 @@
 WIP
 ---
 Phased roll-out:
-* Yellow Ribbon Participating Schools page available, link sent to stakeholders
+* Yellow Ribbon Participating Schools page available behind an auth sign-in
+** Credentials shared with stakeholders, for final review/feedback/"kick the tires"
+** Content changes not applied to other YR pages
+* Yellow Ribbon Participating Schools page available, auth sign-in removed
+** Content changes not applied to other YR pages
 * Redirects and content updates implemented, opening access/discoverability to page
 
 Things to decide: do we need to release to production behind an auth experience (like Find VA Forms)?
@@ -12,11 +16,11 @@ Are there SEO implications if we have it available on production but no redirect
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [May 6, 2020 - May 13, 2020] or [duration]
+- Desired date range or test duration: [05/06/2020 - 05/08/2020] or [duration]
 - Desired number of users: Stakeholders for the Yellow Ribbon initiative
 - How you'll recruit the right production test users: VA's Yellow Ribbon contacts
-- How you'll conduct the testing: Share the production link with the test group
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: URL will be accessible
+- How you'll conduct the testing: Share the production link + credentials with the test group
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: behind an auth wall
 
 ### Results:
 - Number of users: x
@@ -29,13 +33,15 @@ Are there SEO implications if we have it available on production but no redirect
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: [05/06/2020 - 05/13/2020]
+- Desired date range: [05/11/2020 - 05/15/2020]
 - Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders. Desired number of uniques: 50
-- How you'll make the product available in production while limiting the # of users who can find/access it: https://www.va.gov/education/yellow-ribbon-participating-schools will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
+- How you'll make the product available in production while limiting the # of users who can find/access it: 
+-- https://www.va.gov/education/yellow-ribbon-participating-schools will be available, accessible on the production site. 
+-- Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
 ### Results:
-- Number of unique users: x
+- Number of unique users: 150
 - Actual results (per your "success criteria")
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -47,7 +53,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: 05/14/2020
+- Desired date: 05/18/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
