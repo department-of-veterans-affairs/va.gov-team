@@ -115,9 +115,11 @@ Specifically,
 
 ### Measuring Success
 _How will we know if we are successful?_
+
 OBJECTIVE 3: Deliver a usable and accessible experience on any device
 Key result: Users will not need to use “pogo-sticking” behavior to find content deeper within the site. (This will be evaluated during usability tests.) 
-Key result: User satisfaction will increase to (TBD) by (date). 
+Key result: By June 30, Veterans can access Pittsburgh VAM’s most frequently viewed content using the Left Nav menu. 
+Key result: By April 30, Veterans can access Pittsburgh VAMC top task content from Left Nav menu within 4 clicks or less. 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
