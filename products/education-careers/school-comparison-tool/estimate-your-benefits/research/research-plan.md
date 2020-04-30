@@ -11,8 +11,9 @@ Booz Allen research for Education Services / OIT
   - Remote, moderated usability testing in a demo or staging environment using Zoom	or WebEx
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-  - There are several concerns with this section - the current layout does not allow the user to see changes they are making and the automatic updating of the benefits panel is an accessibility concern.  Numerous changes have been made to address these issues - including a new pattern for mobile users.  Researchers need to determine if the proposed solutions fixes the accessibility issue and that users understand and can effectively utilize the re-design of the desktop version and the new mobile design pattern.
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+  - There are several concerns with this section - the current layout does not allow the user to see changes they are making and the automatic updating of the benefits panel is an accessibility concern.  Numerous changes have been made to address these issues - including a new pattern for mobile users.  Researchers need to determine if the proposed solutions fix the accessibility issue and that users understand and can effectively utilize the re-design of the desktop version and the new mobile design pattern.
+3.	Where are you planning to do your research? 	
+ - Online using Zoom	or WebEx
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 ## Participants and Recruitment	
@@ -22,11 +23,13 @@ Booz Allen research for Education Services / OIT
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
+ - May 13 - 14, 2020 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
+3. Length of Sessions: How long do you estimate each session will be? 
+ - 1 hour
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+  - May 12th, 2020
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	
