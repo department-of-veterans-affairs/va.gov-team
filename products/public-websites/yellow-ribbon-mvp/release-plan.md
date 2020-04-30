@@ -2,14 +2,14 @@
 WIP
 ---
 Phased roll-out:
-1. Yellow Ribbon Participating Schools page available behind an auth sign-in
+Phase 1: Yellow Ribbon Participating Schools page available behind an auth sign-in
 - Credentials shared with stakeholders, for final review/feedback/"kick the tires"
 - Content changes not applied to other YR pages
 
-2. "Soft Launch" Yellow Ribbon Participating Schools page available, auth sign-in removed
+Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available, auth sign-in removed
 - Content changes not applied to other YR pages
 
-3. Redirects and content updates implemented, opening access/discoverability to page
+Phase 3: Redirects and content updates implemented, opening access/discoverability to page
 
 Are there SEO implications if we have it available on production but no redirects/content updates in place?
 
