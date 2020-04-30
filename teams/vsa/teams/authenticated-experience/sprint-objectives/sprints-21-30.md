@@ -17,17 +17,20 @@
 
 Profile 2.0
 
-- Build - Finish build
-- Build - Implement any content updates/URL redirects/New URLs
-- Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-- 508 - Request review of build
-- Analytics - review (VSP cycle)
+1. Finish any open design tasks (what are they?)
+2. Build - Continue build
+3. Analytics - review (VSP cycle)
 
 Logged in homepage
-1. Analytics review
+1. Conduct research
 2. Comparative analysis
-3. Conduct research
+3. (maybe) Research synthesis — this depends on if we finish research on time
+4. (Samara — maybe) Analytics review
+
+Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- Will Tressa have bandwidth for design tasks in the backlog?
+- Can Lihan work on any of the errors issues in his backlog? Also, does Leah need him for multiple sprints?
 
 ## Sprint 22 (5/20 – 6/2)
 
@@ -35,6 +38,13 @@ Logged in homepage
 
 Profile 2.0
 
+- Continue build
+
+----
+
+- Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
 - QA - Implement fixes/updates that came out of QA/508 audit
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
