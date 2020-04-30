@@ -6,7 +6,7 @@ Warm-up Questions
 
 > Can you tell me a little about yourself?
 
-So, I served 11 years active duty in the Marine Corps followed by... I've been in the Reserves so far for two years. I've deployed twice to Afghanistan. I worked in air intelligence for a while on the flight line and heavy weapons. That's what led to my hearing loss for the most part. I work as a contractor for Booze Allen Hamilton. I just do advisory work for the Air Force. Nice little office job. Got a wife and a two year old you might hear running around in the background. And a dog that acts more like a cat.
+So, I served 11 years active duty in the Marine Corps followed by... I've been in the Reserves so far for two years. I've deployed twice to Afghanistan. I worked in air intelligence for a while on the flight line and heavy weapons. That's what led to my hearing loss for the most part. I work as a contractor for (omitted). I just do advisory work for the Air Force. Nice little office job. Got a wife and a two year old you might hear running around in the background. And a dog that acts more like a cat.
 
 > Can you tell me about your hearing aids?
 
