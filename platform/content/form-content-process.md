@@ -81,9 +81,12 @@ Content editor also begins to write the form’s Introduction and Confirmation p
 
 We usually do several rounds of usability testing. For the first test, we use a prototype. 
 
-Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking. 
+Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking.
 
-Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing. This is to ensure we are tracking content revisions and feedback in one single outline (not in the protoype mockup). 
+[Guidance on observing research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
+
+Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing and research synthesis reports. This is to ensure we are tracking content revisions and feedback in one single outline (not in the protoype mockup). 
+[Research synthesis how to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md)
 
 
 **CONTENT/DESIGN/IA**: 
