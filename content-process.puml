@@ -20,6 +20,7 @@ if (Content change type?) then (FAQ text)
       repeat while (content is dev is good?) is (no)
       ->yes;
   endif
+  #pink:Change "Last Updated Date" in vagov-content;
 else (New CDC scenario)
   #pink:repeat :Trigger CI: CDC scenario update;
   #orange:Download CDC scenario
