@@ -63,22 +63,49 @@
 - Substance abuse assessment and referral
 
 ### VA benefits
-- Applying for benefits
-- Burial claim help
-- line item
+- Applying For Benefits
+- Burial Claim Assistance
+- Disability Claim Assistance
+- eBenefits Registration Assistance
+- Education And Career Counseling
+- Education Claim Assistance
+- Homeless Assistance
+- Integrated Disability Evaluation System Assistance
+- Pre Discharge Claim Assistance
+- Updating Direct Deposit Information
+- Vocational Rehabilitation And Employment Assistance
 
 ### VA cemetery
 - Confederate cemetery
-- line item
+- Govermnent lots
+- Monument sites
+- Soldiers lot
+- Army/Cemetery
+- Rural cemetery
+- National cemetery
 
 ### VHA specialty care service
 - Bariatric surgery (weight loss surgery)
-- line item
+- Chaplain (spiritual support)
+- Critical Care Specialty
+- Diabetes and Endocrinology
+- Geriatric Care
+- Infectious Disease
+- Nephrology (kidney)
+- Neurology (nerves)
+- Oncology (cancer)
+- Orthotic and Prosthetic (amputee care and custom orthotics)
+- Pacemaker (heart)
+- Pulmonary (lungs)
+- Robotic-Assisted Surgery
+- Spinal Cord Injury
+- Transplant Surgery (heart, lung, liver, etc.)
+- Vascular Surgery
+- Women’s Care
 
 ### Urgent Care
 - VA urgent care
 - Community urgent care
-- line item
 
 # Things to keep in mind
 
