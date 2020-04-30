@@ -3,16 +3,15 @@ WIP
 ---
 Phased roll-out:
 1. Yellow Ribbon Participating Schools page available behind an auth sign-in
-* Credentials shared with stakeholders, for final review/feedback/"kick the tires"
-* Content changes not applied to other YR pages
+- Credentials shared with stakeholders, for final review/feedback/"kick the tires"
+- Content changes not applied to other YR pages
 
-2. Yellow Ribbon Participating Schools page available, auth sign-in removed
-* Content changes not applied to other YR pages
+2. "Soft Launch" Yellow Ribbon Participating Schools page available, auth sign-in removed
+- Content changes not applied to other YR pages
 
 3. Redirects and content updates implemented, opening access/discoverability to page
 
-Things to decide: do we need to release to production behind an auth experience (like Find VA Forms)?
-Are there SEO implications if we have it available on production but no redirects/content updates in place? Soft Launch
+Are there SEO implications if we have it available on production but no redirects/content updates in place?
 
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
@@ -38,8 +37,7 @@ Are there SEO implications if we have it available on production but no redirect
 - Desired date range: [05/11/2020 - 05/15/2020]
 - Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders. Desired number of uniques: 50
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
--- https://www.va.gov/education/yellow-ribbon-participating-schools will be available, accessible on the production site. 
--- Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
+The page will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
 
 ### Results:
