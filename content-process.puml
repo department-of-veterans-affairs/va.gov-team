@@ -1,0 +1,68 @@
+@startuml
+
+title Chatbot content process
+skinparam ConditionEndStyle hline
+
+start
+
+if (Content change type?) then (FAQ text)
+  #lightblue:Update FAQ text on VA.gov;
+  if (Change to logic?) then (yes)
+    #pink:repeat :Work with content team on new logic;
+      'Update dev scenario;
+      #lightgreen:Review logic in dev;
+    repeat while (content in dev is good?) is (no)
+  else (no)
+      #lightgreen:repeat :Update markdown_answers.md\npush to master;
+        #yellow:CI to validate format, generate JS output;
+        #pink:Upload js to healthbot dev environment;
+        #lightgreen:Check content in dev;
+      repeat while (content is dev is good?) is (no)
+      ->yes;
+  endif
+else (New CDC scenario)
+  #pink:repeat :Trigger CI: CDC scenario update;
+  #orange:Download CDC scenario
+  commit to master
+  push scenario to dev;
+  #lightgreen:Review new scenario in dev;
+  repeat while (content in dev is good?) is (no)
+endif
+
+repeat
+
+  repeat
+    #pink:Trigger CI: staging promotion (1.0.1);
+    #orange:Download scenarios from dev
+    Filter scenarios
+    upload scenario to staging
+    run smoke test
+    commit results to master
+    tag master 1.0.1-RC1;
+    #lightblue:Check content in staging;
+    backward:fix issue;
+  repeat while (content in staging is good?) is (no)
+  ->yes;
+
+  #pink:Trigger CI: prod promotion (1.0.1-RC1);
+  #orange:Grab tagged ref from git
+  upload scenario to prod
+  run smoke test
+  tag master 1.0.1;
+  #lightgreen:Check content in production;
+  backward:fix issue;
+repeat while (content in prod is good?) is (no)
+->yes;
+
+end
+
+legend center
+    |Color| Type |
+    |<#lightblue> | VA stakeholders |
+    |<#lightgreen>| Chatbot content team|
+    |<#pink>| Engineering team|
+    |<#orange>| CI - manually triggered|
+    |<#yellow>| CI - automated|
+endlegend
+
+@enduml
