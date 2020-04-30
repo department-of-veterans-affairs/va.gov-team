@@ -4,7 +4,29 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1. What product & team are you doing this research for?	
 Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+3. Research questions: What question(s) do you hope to be able to answer after completing this research?
+- #### General:
+- What do users think of the calculator categories (e.g. interest in opening them)?
+- Is calculating benefits easier or harder with the new design?  Which design do users prefer?
+- When making changes in several accordions, do users go back and check previous accordions to see if changes are holding?
+- What do users think of the automatic closing of accordions?
+- Do users click calculate for every accordion or just once after all changes are made?
+- When do they expect changes to be made (as they are making them or after clicking Calculate)?
+- When users click Calculate, do they notice which values have changed?
+- Do users realize they can change “Your benefits” values on Search Results page?
+
+- #### Assistive Tech:
+- How well can users navigate the EYB section using assistive devices?
+- What parts of the interface frustrate the user (e.g. accessing any inputs, movement of the focus, etc.)?
+- How easy is it for users to make selections and recalculate benefits on assistive devices?
+
+- #### Mobile:
+- Do users open and close the bottom sheet?  If so, how?
+- What are user thoughts on the bottom sheet (e.g. helpful, obstructive, indifferent)?
+- Do users like that the sheet only appears within the EYB section?
+- What do users think of the values shown in the bottom sheet (collapsed and expanded)?
+- Do users expect bottom sheet numbers to update as they make selections?
+
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
@@ -18,18 +40,40 @@ Booz Allen research for Education Services / OIT
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+6-9 participants - GI Bill beneficiaries who have used, are currently using or plan to use their GI Bill benefits in the next 12 months
+
+A mix of the following:
+2 - 3 GI Bill beneficiaries with access to a desktop computer 
+2 - 3 GI Bill beneficiaries with access to a desktop computer who regularly use a screen reader or magnifier for web browsing. 
+2 - 3 GI Bill beneficiaries with access to a mobile device
+
+Age Range: 18-45
+
+Geography: Geographically dispersed across US
+
+VA Benefit requirement: Ch 33, Post-9/11 GI Bill or Ch 31 (Vocational Rehabilitation) Education benefits
+
+Technology: Access to a computer, preferably running Google Chrome browser; Assistive technologies (for some); Access to a mobile device (for some)
+
+Familiarity with technology: Any
+
+Accessibility preference: 2-3 participants using screen reader or magnifier for web browsing
+
+Login requirements: None
 2.	What is your recruitment strategy? 	
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
  - May 13 - 14, 2020 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
+- By COB on May 8, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
  - 1 hour
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
+4.	Availability: If applicable, when would you like sessions scheduled? 
+- Wednesday, May 13th from 8 AM - 6 PM
+- Thursday, May 14th from 8 AM - 6 PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-  - May 12th, 2020
+  - May 12, 2020
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator:	Amy Knox; 301.254.0907; knox_amy@bah.com
