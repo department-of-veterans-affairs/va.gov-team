@@ -1,8 +1,8 @@
-## Samara's preliminary list
+# Items for logged-in hompage co-design/card sort
 
-### Items I think we should include in another card sort
+This list of items will be used to create pre-populated stickes for our co-design exercise, and our back-up card sorting exercise in Optimal Workshop.
 
-These were all included in the summer card sort and I think would be good in another card sort aimed at differentiating the dashboard from the profile. Some of these seem like they would clearly live in one location or the other, but many could, in theory, go in either place.
+The majority of these came from the summer card sort, and we feel would be good in another card sort aimed at differentiating the dashboard from the profile. Some of these seem like they would clearly live in one location or the other, but many could, in theory, go in either place.
 
 1. Secure messages with your doctor
 2. A list of your prescriptions and refill statuses
@@ -13,24 +13,24 @@ These were all included in the summer card sort and I think would be good in ano
 7. Share your VA medical records with your community care centers or your community doctors
 8. Your order status for medical supplies (eg. hearing aids, prosthetic socks, etc)
 9. Your GI Bill benefits balance
-10. GI Bill payments made to you by the VA
-11. Track your VA disability claim or appeal status
-12.	Upload claim or appeal supporting documents that were requested by the VA
-13.	Your rated disabilities (combined rating and individual ratings)
-14.	Payments made to you by the VA
-15.	Direct deposit/bank account information
-16.	Personal information (name, gender, birth date)
-17.	Contact information (address, phone number, email address)
-18.	Military service history
-19.	Verify your identity on VA.gov
-20.	Set up 2-factor authentication
-21.	Change your username/password
-22.	Download your VA letters and documents
-23.	Documents you've uploaded to VA.gov)
-24.	Your notification preferences (eg. where and how the VA can contact you)
-25.	Your dependents 
+10. Track your VA disability claim or appeal status
+11. Upload claim or appeal supporting documents that were requested by the VA
+12. Your rated disabilities (combined rating and individual ratings)
+13. Payments made to you by the VA
+14. Direct deposit/bank account information
+15. Personal information (name, gender, birth date)
+16. Contact information (address, phone number, email address)
+17. Military service history
+18. Verify your identity on VA.gov
+19. Set up 2-factor authentication
+20. Change your username/password
+21. Download your VA letters and documents
+22. Documents you've uploaded to VA.gov)
+23. Your notification preferences (eg. where and how the VA can contact you)
+24. Your dependents 
+25. Updates on your claim or appeal status
 
-### Items from last summer’s card sort that I don’t think we need to include in a new one
+### Items from last summer’s card sort that we are intentionally not including
 
 **Benefit applications** 
 
