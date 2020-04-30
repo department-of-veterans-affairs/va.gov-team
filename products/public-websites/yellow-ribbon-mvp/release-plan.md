@@ -6,23 +6,22 @@ Phased roll-out:
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
 Phase 2: Launch Yellow Ribbon Participating Schools page available on production
-
-- The new tool is available on production, and tested that it works as intended
-- When the tool has been verified:
--- Content changes (removing accordions, replace with link to tool), update entry points and navigation
--- Redirect the 2020 static legacy pages to the new tool
--- Note: we will not be able to redirect previous years
+The new tool is available on production, and tested that it works as intended
+When the tool has been verified:
+- Content changes (removing accordions, replace with link to tool), update entry points and navigation
+- Redirect the 2020 static legacy pages to the new tool
+- Note: we will not be able to redirect previous years
 
 
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [April 2020 - 05/08/2020] or [duration]
+- Desired date range or test duration: [April 2020 - 05/06/2020] or [duration]
 - Desired number of users: Stakeholders for the Yellow Ribbon initiative
 - How you'll recruit the right production test users: VA's Yellow Ribbon contacts
 - How you'll conduct the testing: on staging.va.gov
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: the work will be available to stakeholders on staging.va.gov and not on production. 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Stakeholders have been using staging.va.gov to review the tool
 
 ### Results:
 - Number of users: x
@@ -35,17 +34,11 @@ Phase 2: Launch Yellow Ribbon Participating Schools page available on production
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: [05/11/2020 - 05/15/2020]
-- Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders.
+- Desired date range: 
+- Desired number of unique users: 
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
-
-The page will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
-
 - "Success" criteria (by the numbers):
 
-Track the new search refinements, to educate on user's behavior and inform future research, development for solution(s) for database-driven table content. Includes:
-* Search refinements before and after initial search
-* Exits to schools' websites
 
 ### Results:
 - Number of unique users: x
@@ -58,10 +51,14 @@ Track the new search refinements, to educate on user's behavior and inform futur
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
 ## Go Live!
-
+We will deploy the new tool to production, and test that functionality, design is as expected. 
+When the tool has been verified:
+- Content changes (removing accordions, replace with link to tool), update entry points and navigation
+- Redirect the 2020 static legacy pages to the new tool
+- Note: we will not be able to redirect previous years
 
 ### Planning:
-- Desired date: 05/18/2020
+- Desired date: 05/11/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
