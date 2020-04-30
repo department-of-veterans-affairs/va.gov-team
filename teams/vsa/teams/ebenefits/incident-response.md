@@ -28,3 +28,6 @@ Derek Dyer, Backend Engineer  |   |
 ### None
 - **Personalized career planning and guidance (PCPG, CH36)**
   - Static landing page: TBD
+
+## Resources
+- [Sentry Configuration Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-configuration.md)
