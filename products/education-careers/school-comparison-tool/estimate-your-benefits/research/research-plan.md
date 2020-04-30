@@ -40,12 +40,12 @@ Booz Allen research for Education Services / OIT
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-6-9 participants - GI Bill beneficiaries who have used, are currently using or plan to use their GI Bill benefits in the next 12 months
+14-20 participants - GI Bill beneficiaries who have used, are currently using or plan to use their GI Bill benefits in the next 12 months
 
 A mix of the following:
-2 - 3 GI Bill beneficiaries with access to a desktop computer 
-2 - 3 GI Bill beneficiaries with access to a desktop computer who regularly use a screen reader or magnifier for web browsing. 
-2 - 3 GI Bill beneficiaries with access to a mobile device
+4 - 6 GI Bill beneficiaries with access to a desktop computer 
+4 - 6 GI Bill beneficiaries with access to a desktop computer who regularly use a screen reader or magnifier for web browsing. 
+6 - 8 GI Bill beneficiaries with access to a mobile device
 
 Age Range: 18-45
 
