@@ -17,7 +17,7 @@
 | May 1 | VA.gov Platform Staging Review complete | On track |
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
-| May 11 | Request Accessibility spot check |
+| May 11 | Request Accessibility spot check | On track
 | May 15 | Frontend complete | On track
 | May 15 | Backend complete | On track
 | May 18 | VA.gov Platform Privacy and Security Review | On track
