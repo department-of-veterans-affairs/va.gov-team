@@ -31,3 +31,5 @@ Derek Dyer, Backend Engineer  |   |
 
 ## Resources
 - [Sentry Configuration Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-configuration.md)
+- Grafana
+- CloudWatch
