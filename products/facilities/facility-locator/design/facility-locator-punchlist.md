@@ -31,7 +31,6 @@ The search box includes the following fields:
 ### VA facility type
 - [ ] The VA facility type drop down defaults to VA health. 
 
-**VA facility type**
 Drop down includes the following: 
 - [ ] VA health
 - [ ] Urgent care
@@ -136,7 +135,7 @@ When Facility type = "Urgent care" and the service type = "VA urgent care", sear
 - [ ] **Main Phone Number**
 - [ ] **Mental Health Phone Number** 
 
-When Facility type = "Community urgent care providers (in VA’s network)"Observe the following information is displayed on search results card for each search:
+When Facility type = "Community care providers (in VA’s network)", search results cards should contain the following
 - [ ] Capital letter indicator
 - [ ] Distance in miles
 - [ ] Facility type displayed as "COMMUNITY PROVIDERS (IN VA’S NETWORK)"
@@ -189,9 +188,123 @@ When Facility type = "Vet Centers", search results cards should contain the foll
 
 # Facility Detail page
 
+## Community care providers (in VA's network)
 
+When Facility type = "Community care providers (in VA’s network)", the facility detail page should contain the following
+- [ ] **Name of Provider** (may display in all caps or sentence case)
+- [ ] **Facility type** displayed as "Community care providers (in VA's network)"
+- [ ] Address
+- [ ] Directions
+- [ ] "Planning to visit? Please call first as information on this page may change."
+- [ ] "**Provider Details**", including the following under a blue horizontal divider
+      - [ ] Gender:
+      - [ ] Services:
+      - [ ] Description of service
+- [ ] "**Appointments**", including the following under a blue horizontal divider
+      - [ ] **Accepting new patients** "Yes" or "No")
+- [ ] "**Community Care Details**", including the following under a blue horizontal divider
+      - [ ] **Network**
+      - [ ] **Preferred communication method**
+      - [ ] **Provider (NPI/Tax) ID**
+- [ ] **View on Map**
+- [ ] Static map image under a blue horizontal divider
+- [ ] **About Community Care**
+- [ ] "What's Community Care and am I eligible?" with link to https://www.va.gov/communitycare/index.asp, under a blue horizontal divider
+     
 
+## VA facilities
 
+When Facility type = "VA health", the facility detail page should contain the following
+- [ ] **Name of Facility**
+- [ ] Facility type displayed as "VA HEALTH"
+- [ ] Address
+- [ ] Phone icon and Main phone number
+- [ ] Phone icon and Mental health phone number
+- [ ] Globe icon and Website
+- [ ] Road icon and Directions
+- [ ] "Planning to visit? Please call first as information on this page may change."
+- [ ] "**Services**", including the following under a blue horizontal divider
+      - [ ] "Services current as of" (date)
+      - [ ] "This list may not include all of the services available at this location."
+      - [ ] "Please check on the facility’s website or call them for this information."
+      - [ ] List of services
+- [ ] "**Appointments**", including the following under a blue horizontal divider
+      - [ ] "Current as of" (date)
+      - [ ] **New patient wait times**
+           - [ ] "The average number of days a Veteran who hasn’t been to this location has to wait for a non-urgent appointment"
+           - [ ] list of services and wait in days
+      - [ ] **Existing patient wait times**
+           - [ ] "The average number of days a patient who has already been to this location has to wait for a non-urgent appointment"
+           - [ ] list of services and wait in days
+ - [ ] "**Veteran-reported Satisfaction Scores**", including the following under a blue horizontal divider
+      - [ ] "Current as of" (date)
+      - [ ] "Veteran-reported satisfaction scores come from the Consumer Assessment of Health and Systems survey, which measures satisfaction of nearly 150,000 Veterans across the U.S. every 6 months."
+      - [ ] Urgent care appointments
+      - [ ] "% of Veterans who say they usually or always get an appointment when they need care right away"
+           - [ ] **Primary care at this location**
+           - [ ] Number displayed as pictograph and xx%
+           - [ ] **Specialty care at this location**
+           - [ ] Number displayed as pictograph and xx%
+      - [ ] Routine care appointments
+      - [ ] "% of Veterans who say they usually or always get an appointment when they need it"
+           - [ ]  **Primary care at this location**
+           - [ ] Number displayed as pictograph and xx%
+           - [ ] **Specialty care at this location**
+           - [ ] Number displayed as pictograph and xx%
+- [ ] **View on Map**
+- [ ] Static map image under a blue horizontal divider
+- [ ] **Hours of Operation**
+      - [ ] list of hours by day of the week under blue horizontal divider
+      
+When Facility type = "VA benefits", the facility detail page should contain the following
+- [ ] **Name of Facility**
+- [ ] Facility type displayed as "VA BENEFITS"
+- [ ] Address
+- [ ] Phone icon and Main phone number
+- [ ] Globe icon and Website
+- [ ] Road icon and Directions
+- [ ] "Planning to visit? Please call first as information on this page may change."
+- [ ] "**Services**", followed by a list under a blue horizontal divider
+- [ ] **"View on Map"**
+- [ ] Static map image under a blue horizontal divider
+- [ ] **"Hours of Operation"**
+      - [ ] list of hours by day of the week under blue horizontal divider
+      
+When Facility type = "Vet Centers", the facility detail page should contain the following
+- [ ] **Name of Facility**
+- [ ] Facility type displayed as "VET CENTER"
+- [ ] Address
+- [ ] Phone icon and Main phone number
+- [ ] Globe icon and Website
+- [ ] Road icon and Directions
+- [ ] "Planning to visit? Please call first as information on this page may change."
+- [ ] "**Services**", followed by a list under a blue horizontal divider
+- [ ] **"View on Map"**
+- [ ] Static map image under a blue horizontal divider
+- [ ] **"Hours of Operation"**
+      - [ ] list of hours by day of the week under blue horizontal divider
+      - [ ] "In addition to the hours listed above, all Vet Centers maintain non-traditional hours that are specific to each site and can change periodically given local Veteran, Service member & Family needs. Please contact your Vet Center to obtain the current schedule."
+      
+When Facility type = "VA Cemeteries", the facility detail page should contain the following
+- [ ] **Name of Facility**
+- [ ] Facility type displayed as one of the following
+      CONFEDERATE CEMETERY
+      GOVERNMENT LOTS 
+      MONUMENT SITE
+      SOLDIERS LOT
+      ARMY CEMETERY
+      RURAL CEMETERY
+      NATIONAL CEMETERY
+- [ ] Address
+- [ ] Globe icon and Website
+- [ ] Road icon and Directions
+- [ ] **"View on Map"**
+- [ ] Static map image under a blue horizontal divider
+- [ ] **"Hours of Operation"**
+      - [ ] list of hours by day of the week under blue horizontal divider
+      - [ ] "In addition to the hours listed above, all Vet Centers maintain non-traditional hours that are specific to each site and can change periodically given local Veteran, Service member & Family needs. Please contact your Vet Center to obtain the current schedule."
+      
 
+- [ ] Operating status indicator (unless operating status is "Normal")
 
 
