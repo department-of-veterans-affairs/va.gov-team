@@ -4,7 +4,7 @@ WIP
 
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
-Go Live: Launch Yellow Ribbon Participating Schools page available on production
+Phase 2/Go Live: Launch Yellow Ribbon Participating Schools page available on production
 The new tool is available on production, and tested that it works as intended. At this point, the tool is available but 'hidden' from users unless they have the URL.
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
