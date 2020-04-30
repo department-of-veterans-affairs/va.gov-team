@@ -96,7 +96,7 @@ When?
 
 Co-design exercise and card sort will be finalized by May 6.
 
-**3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)**
+**3. Length of Sessions: How long do you estimate each session will be?**
 
 45-60 minutes
 
@@ -109,7 +109,7 @@ Co-design exercise and card sort will be finalized by May 6.
 **5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
 - May 7, between 11am-3pm
-- We'll be piloting research with a team member outside of the design practice; exact team member TBD
+- We'll be piloting research with a team member outside of the design practice; exact team member is still TBD.
 
 Team Roles
 ----------
@@ -122,7 +122,7 @@ Please list the people who will be serving in each role. Include the primary pho
   -  Project point of contact: Liz Lantz
   -  Participant(s) for pilot test: TBD
   -  Note-takers: TBD
-  -  Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.
+  -  Observers: 
      - samara.strauss@va.gov
      - shawna.hein@adhocteam.us
      - matt.shea@adhocteam.us
