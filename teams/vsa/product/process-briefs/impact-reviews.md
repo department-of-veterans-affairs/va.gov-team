@@ -12,8 +12,8 @@ That means we may not take advantage of quantitiative results to drive future pr
 And we it means we may not celebrate the impact we have on Veterans beyond the launch of particular feature.
 
 Q: How do we intentionally reflect on the measurable impact of our work? How do we use these lessons to inform our path forward?
-
-## First Fridays - Initiative Impact Review: 
+## Hypotheses
+### First Fridays - Initiative Impact Review: 
 
 Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward.
 
@@ -30,3 +30,8 @@ Every initiative—a new feature, a product launch, technical improvements—wra
 - How do we get started?
     - [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
     - The [VSA Product Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=1522365621) should contain the data you need to present
+    
+ ## Results
+ * Launch our first Impact Review on 5/1 
+    * KPI/results - TBD
+ 
