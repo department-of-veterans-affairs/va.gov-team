@@ -5,7 +5,7 @@ WIP
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
 Go Live: Launch Yellow Ribbon Participating Schools page available on production
-The new tool is available on production, and tested that it works as intended
+The new tool is available on production, and tested that it works as intended. At this point, the tool is available but 'hidden' from users unless they have the URL.
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
 - Redirect the 2020 static legacy pages to the new tool
@@ -50,16 +50,16 @@ When the tool has been verified:
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
 ## Go Live!
-We will deploy the new tool to production, and test that functionality, design is as expected. 
+We will deploy the new tool to production, and test that functionality, design is as expected. At this point, the tool is available but 'hidden' from users unless they have the URL.
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
 - Redirect the 2020 static legacy pages to the new tool
 - Note: we will not be able to redirect previous years
 
 ### Planning:
-- Desired date: 05/11/2020
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
+- Desired date: x
+- Post-launch KPI 1: Sarch refinements before and after initial search
+- Post-launch KPI 2: Exits to univerity pages
 - Post-launch KPI 3: xx lorem ipsum
 - etc
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
