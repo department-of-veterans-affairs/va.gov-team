@@ -8,18 +8,20 @@
 ## Timeline
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
-| April 16 | Content and design complete | [Completed](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
-| April 16 | VSP Analytics request | [Completed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
-| April 23 | Payload validation testing with CARMA in QA/Dev | Completed| 
-| April 24 | First draft  frontend complete | On track|
-| April 27 | Submit VA.gov Platform Staging Review Request | On track |
+| April 16 | Content and design complete | [Complete](https://vsateams.invisionapp.com/share/9XWSQZ6SMG5) |
+| April 16 | VSP Analytics request | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8081) |
+| April 23 | Payload validation testing with CARMA in QA/Dev | Complete| 
+| April 24 | First draft frontend complete | Complete |
+| April 27 | Submit VA.gov _first round_ Platform Staging Review Request | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8479) |
 | April 30 | CARMA Staging endpoint delivery | External |
 | May 1 | VA.gov Platform Staging Review complete | On track |
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
+| May 11 | Request Accessibility spot check |
 | May 15 | Frontend complete | On track
 | May 15 | Backend complete | On track
 | May 18 | VA.gov Platform Privacy and Security Review | On track
+| May 18 | VA.gov Platform Staging Review  | On track|
 | May 18 - May 22 | Dark Release functionality testing with CARMA| On track
 | May 29 | Phase 0 Dark Release<sup>+</sup> | On track
 | June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
