@@ -219,4 +219,4 @@ Alright, now let's take a look at what we've got in these categories.
 
 ## Thank-You and Closing - 1 minute
 
-Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!
