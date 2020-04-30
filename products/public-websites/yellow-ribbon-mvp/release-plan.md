@@ -57,8 +57,8 @@ When the tool has been verified:
 - Note: we will not be able to redirect previous years
 
 ### Planning:
-- Desired date: x
-- Post-launch KPI 1: Sarch refinements before and after initial search
+- Desired date: May 13, 2020
+- Post-launch KPI 1: Search refinements before and after initial search
 - Post-launch KPI 2: Exits to univerity pages
 - Post-launch KPI 3: xx lorem ipsum
 - etc
