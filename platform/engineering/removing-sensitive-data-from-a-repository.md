@@ -1,6 +1,17 @@
-# Checklist for removing PII in .md file from a documentation repo
+## Table of Contents
+
+- [Purging PII from a markdown file in GitHub](#purging-pii-from-a-markdown-file-in-github)
+- [Purging PII from an issue or ticket in GitHub](#purging-pii-from-an-issue-or-ticket-in-github)
+  - [Delete issue or comment text](#option-1-delete-text-and-delete-edit-history)
+  - [Delete comments](#option-2-comments-only-delete-entire-comment)
+  - [Delete issues](#option-3-delete-entire-issue)
+- [Additional info and resources](#additional-information-and-resources)
+
+# Purging PII from a markdown file in GitHub
 
 _Last updated Q1 2020 by VSP Content & IA team_
+
+*These instructions have been used for non-code (documentation only) respositories only.*
 
 1. Back up repo
 1. Identify all file(s) to be removed
@@ -25,7 +36,9 @@ _Last updated Q1 2020 by VSP Content & IA team_
 1. Update [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
 1. Contact GitHub support to permanently remove cached views and references to the sensitive data in pull requests
 
-# Checklist for removing a GitHub issue that contains PII
+# Purging PII from an issue or ticket in GitHub
+
+ZenHub = GitHub for the purposes of these instructions.
 
 _Last updated Q1 2020 by VSP Content & IA team_
 
