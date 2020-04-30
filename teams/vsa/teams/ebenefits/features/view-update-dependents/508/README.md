@@ -11,6 +11,7 @@ User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
 
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction
 1. Scan with axe browser plugin
+**Heading levels should only increase by one**
 ```HTML
 <h4>Follow the steps below to apply for declare or remove a dependent.</h4>
 ```
