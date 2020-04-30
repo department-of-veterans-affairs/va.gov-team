@@ -81,8 +81,8 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [x] Make "number" lowercase in "Child’s Social Security Number"
 - [x] When entering a letter on accident, the required field prompt pops in and says `does not match pattern "^[0-9]*[-]*[0-9]*[-]*[0-9]*$"` instead of "Please use only 9 numbers"
   - [x] Field also took more than 9 digits
-- [ ] Change header in list loop to "Next child"
-- [ ] Child's name header seems to be missing after child info screen
+- [x] Change header in list loop to "Next child" EDIT: No Longer doing this per conversation with Jim.
+- [x] Child's name header seems to be missing after child info screen
 - [ ] Bold "or" in labels under the "Child's place of birth" section
 - [x] Use base-checkbox address block for "Person your child lives with" address
 - [x] Change "Street address" to just "Street"
@@ -91,7 +91,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Add student section (674)
 
 - [x] Remove form number from header: "Information needed to add a student 18 to 23 years old"
-- [ ] Include note: "Note: This should be where the student is living while attending school." above student address section
+- [x] Include note: "Note: This should be where the student is living while attending school." above student address section
 - [ ] Confirm size of section headers (look small)
 - [x] Change "Street address" to just "Street" throughout
 - [x] Change "Zip code" to "Postal code" throughout
@@ -108,8 +108,8 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Dependent death section
 
-- [ ] Change add button to: "Report another deceased dependent"
-- [ ] Add header to list/loop gray box: "Next dependent"
+- [x] Change add button to: "Report another deceased dependent EDIT: No longer doing this per conversation with Jim.
+- [x] Add header to list/loop gray box: "Next dependent" EDIT: No longer doing this per conversation with Jim.
 - [ ] Bold "or" in labels under the "Place of death" section
 - [x] Change City (or APO/FPO/DPO) to: "City **or** county"
 
