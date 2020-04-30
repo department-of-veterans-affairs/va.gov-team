@@ -1,5 +1,19 @@
 # Release Notes
 
+## SonarJS deployed rules
+
+April 30, 2020
+
+- The following [SonarJS rules](sonarjs.md) will be enforced from now on:
+  - no-extra-arguments
+  - no-identical-expressions
+  - max-switch-cases
+  - no-duplicated-branches
+  - no-inverted-boolean-check
+  - no-redundant-boolean
+  - no-small-switch
+  - no-unused-collection
+
 ## SonarJS release rules
 
 Sprint 23 & 24 - April 2, 2020
