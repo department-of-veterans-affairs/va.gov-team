@@ -2,12 +2,14 @@
 WIP
 ---
 Phased roll-out:
-* Yellow Ribbon Participating Schools page available behind an auth sign-in
-** Credentials shared with stakeholders, for final review/feedback/"kick the tires"
-** Content changes not applied to other YR pages
-* Yellow Ribbon Participating Schools page available, auth sign-in removed
-** Content changes not applied to other YR pages
-* Redirects and content updates implemented, opening access/discoverability to page
+1. Yellow Ribbon Participating Schools page available behind an auth sign-in
+* Credentials shared with stakeholders, for final review/feedback/"kick the tires"
+* Content changes not applied to other YR pages
+
+2. Yellow Ribbon Participating Schools page available, auth sign-in removed
+* Content changes not applied to other YR pages
+
+3. Redirects and content updates implemented, opening access/discoverability to page
 
 Things to decide: do we need to release to production behind an auth experience (like Find VA Forms)?
 Are there SEO implications if we have it available on production but no redirects/content updates in place? Soft Launch
