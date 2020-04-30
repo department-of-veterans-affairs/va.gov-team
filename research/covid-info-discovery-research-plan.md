@@ -8,6 +8,8 @@ Previous rounds of research focused on a chatbot as a way of communicating infor
 - Understand awareness and discoverability of the chatbot.
 - Identify usability shortcomings and potential improvements for interacting with the chatbot.
 
+Our hypothesis is that participants will follow many different paths on va.gov to find coronavirus information and that the chatbot is difficult to discover during that process. 
+
 
 ## Method
 We will conduct remote testing using screen sharing over Zoom.
