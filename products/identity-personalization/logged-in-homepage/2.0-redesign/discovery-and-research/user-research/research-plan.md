@@ -102,7 +102,7 @@ When?
 
 **4. Availability: If applicable, when would you like sessions scheduled?**
 
-  - May 11: available from 3pm - 8pm (Please only schedule 1 participant on this day)
+  - May 11: available from 9:30-11am, and 2pm - 8pm (Please only schedule 1 participant on this day)
   - May 13 and 15: available from 9-11am and 2-8pm (Please allow 15 minutes between sessions)
   - May 14: available from 7am-9am, 11am-3pm or 6-8pm (Please allow 15 minutes between sessions)
 
