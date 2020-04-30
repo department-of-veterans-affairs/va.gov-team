@@ -62,13 +62,13 @@ In this batch we have some rules in which are throwing already a few errors. In 
 - [no-small-switch](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-small-switch.md)
 - [no-unused-collection](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-unused-collection.md)
 
-### Sprint 25 & 26
+### Sprint 26 & 27
 
-**Testing period:** 4/30/20 - 5/27/20
+**Testing period:** 5/14/20 - 6/10/20
 
-**Enforced after:** 5/28/20
+**Enforced after:** 6/11/20
 
-**No. of rules:** 5
+**No. of rules:** 3
 
 - [cognitive-complexity](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/cognitive-complexity.md)
 - [no-collapsible-if](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-collapsible-if.md)
