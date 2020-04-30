@@ -59,7 +59,7 @@ Method
 
 **3. What will you be testing?**
 
-  - We'll have a Mural board set up, and use the card sort as a back up.
+  - We'll have a [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588287883697/58994facc18f9750768a0992b9a6bafb2aacd9fe) set up for each session, and use the [card sort](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) as a back up.
 
 Participants and Recruitment
 ----------------------------
@@ -139,6 +139,8 @@ Resources
 -   [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)
 -   [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/conversation-guide.md)
 -   [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
+-   Example of [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588287883697/58994facc18f9750768a0992b9a6bafb2aacd9fe) we'll use for each session
+-   [Preview of card sort](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) we'll use if needed
 -   Synthesis Coming soon
 -   Lessons Learned Coming soon
 -   Read-Out/Results Coming soon
