@@ -90,15 +90,15 @@ When?
 
 **1. Timeline: What dates do you plan to do research?** 
 
-​     May 11-May 15, 2020, depending on recruitment.
+ May 11-May 15, 2020, depending on recruitment.
 
 **2. Prepare: When will the thing you are testing be ready?** 
 
-​    Card sort + co-design plans will be finalized by May 6.
+Co-design exercise and card sort will be finalized by May 6.
 
 **3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)**
 
-​    45-60 minutes
+45-60 minutes
 
 **4. Availability: If applicable, when would you like sessions scheduled?**
 
