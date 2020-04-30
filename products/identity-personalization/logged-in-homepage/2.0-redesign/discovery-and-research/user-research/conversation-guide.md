@@ -1,6 +1,6 @@
-#Conversation Guide for Authenticated Experience team, Logged-in homepage, May 2020
+# Conversation Guide for Authenticated Experience team, Logged-in homepage, May 2020
 
-##Moderator logistics
+## Moderator logistics
 
 Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
@@ -217,6 +217,6 @@ Alright, now let's take a look at what we've got in these categories.
 
 -   Any questions for me?
 
-### Thank-You and Closing - 1 minute
+## Thank-You and Closing - 1 minute
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
