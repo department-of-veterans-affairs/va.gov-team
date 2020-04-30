@@ -75,4 +75,4 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. How might your product evolve now or in the future based on these results?
 
 ## VSA Initiative Impact Review
-[Link]
+[Link](https://docs.google.com/presentation/d/18PJOfZdUtpnLqfEBkzo7SpRhQ4ZiSSvCRYM8nUWQAyM/edit#slide=id.g72c7463e88_0_21)
