@@ -2,12 +2,10 @@
 WIP
 ---
 Phased roll-out:
-Phase 1: Yellow Ribbon Participating Schools page available behind an auth sign-in
-- Credentials shared with stakeholders for final review/feedback
-- Content changes not applied to other YR pages
+Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
-Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available, auth sign-in removed
-- Content changes not applied to other YR pages
+Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available on production
+- Content changes, redirects not applied to other YR pages
 
 Phase 3: Redirects and content updates implemented, opening access/discoverability to page
 
@@ -17,11 +15,11 @@ Are there SEO implications if we have it available on production but no redirect
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [05/06/2020 - 05/08/2020] or [duration]
+- Desired date range or test duration: [April 2020 - 05/08/2020] or [duration]
 - Desired number of users: Stakeholders for the Yellow Ribbon initiative
 - How you'll recruit the right production test users: VA's Yellow Ribbon contacts
-- How you'll conduct the testing: Share the production link + credentials with the test group
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: behind an auth wall
+- How you'll conduct the testing: on staging.va.gov
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: the work will be available to stakeholders on staging.va.gov and not on production. 
 
 ### Results:
 - Number of users: x
@@ -38,12 +36,13 @@ Are there SEO implications if we have it available on production but no redirect
 - Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders.
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
 The page will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
-- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
-Search refinements before and after initial search
-Exits to university pages
+- "Success" criteria (by the numbers):
+Track the new search refinements, to educate on user's behavior and inform future research, development for solution(s) for database-driven table content. Includes:
+* Search refinements before and after initial search
+* Exits to schools' websites
 
 ### Results:
-- Number of unique users: 150
+- Number of unique users: x
 - Actual results (per your "success criteria")
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
