@@ -2,6 +2,7 @@
 WIP
 ---
 Phased roll-out:
+
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
 Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available on production
@@ -35,8 +36,11 @@ Are there SEO implications if we have it available on production but no redirect
 - Desired date range: [05/11/2020 - 05/15/2020]
 - Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders.
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
+
 The page will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
+
 - "Success" criteria (by the numbers):
+
 Track the new search refinements, to educate on user's behavior and inform future research, development for solution(s) for database-driven table content. Includes:
 * Search refinements before and after initial search
 * Exits to schools' websites
