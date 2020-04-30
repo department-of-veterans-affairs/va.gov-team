@@ -43,6 +43,13 @@ Next Steps
 
 ## Status/Decisions
 
+### 4/29/20
+Outcome of call with Mikki, Danielle, and Meg - on disability redirects: 
+
+- All historic disability rates (SMC, birth defects, DIC, etc.) – We will use same approach for cloning and PDFing plus all prior year rate pages will be redirected to the current year page. 
+
+
+
 ### 4/22/20
 __This approach should be used for the other cloned historic rate pages.__
 
