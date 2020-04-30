@@ -21,11 +21,46 @@
 
 ### VA Pittsburgh services
 - Amputation care
-- line item
+- Audiology and speech
+- Caregiver support
+- Dental/oral surgery
+- HIV/hepatitis
+- Homeless Veteran care
+- Intimate partner violence
+- LGBT Veteran care
+- Laboratory and pathology
+- Low vision and blind rehabilitation
+- MOVE! weight management
+- Mental health care
+- Military sexual trauma
+- Minority Veteran care
+- My HealtheVet coordinator
+- Nutrition, food, and dietary
+- Orthopedics
+- Pharmacy
+- Physical medicine and rehabilitation
+- Primary care
+- Radiology
+- Registry exams
+- Rehabilitation and prosthetics
+- Returning service member care
+- Spinal cord injury and disorders
+- Telehealth
+- Travel reimbursement
+- Urology
+- Vocational rehabilitation and employment programs
+- Wheelchair and mobility
+- Women Veteran care
 
 ### Vet Centers
-- Bereavement counseling
-- line item
+- Bereavement (grief) counseling
+- Community outreach and education
+- Employment referral
+- Family counseling for military related issues
+- Individual and group counseling for Veterans, service members, and their families
+- Military sexual trauma counseling and referral
+- Referral of other VA services
+- Substance abuse assessment and referral
 
 ### VA benefits
 - Applying for benefits
