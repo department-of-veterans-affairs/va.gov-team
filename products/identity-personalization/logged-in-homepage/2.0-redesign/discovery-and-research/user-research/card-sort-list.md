@@ -1,8 +1,10 @@
-# Items for logged-in hompage co-design/card sort
+# Items for logged-in hompage co-design activity and card sort
 
 This list of items will be used to create pre-populated stickes for our co-design exercise, and our back-up card sorting exercise in Optimal Workshop.
 
 The majority of these came from the summer card sort, and we feel would be good in another card sort aimed at differentiating the dashboard from the profile. Some of these seem like they would clearly live in one location or the other, but many could, in theory, go in either place.
+
+In the cardsort, we will create one category called "homepage", and instruct Veterans how to create another category if they don't think an item belongs on the homepage.
 
 1. Secure messages with your doctor
 2. A list of your prescriptions and refill statuses
