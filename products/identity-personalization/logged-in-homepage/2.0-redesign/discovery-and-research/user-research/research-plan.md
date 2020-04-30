@@ -6,7 +6,7 @@ Goals
 
 **1. What product & team are you doing this research for?**
 
-Logged-in homepage, Authenticated Experience team
+Logged-in homepage redesign for the Authenticated Experience team
 
 **2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
@@ -37,9 +37,9 @@ We'd like to talk with Veterans to better understand their expectations of logge
 
    - Veterans will see their profile as a place to see personal information about them that is in their control.
      - Content expectations for the profile would reflect information they provided through a registration process. Personal things like contact information, dependents, branch of service, etc.
-   - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA
+   - Veterans will see their logged-in homepage as a "dashboard" where they see personal information that is influenced by the VA.
      - Content expectations for the logged-in homepage would be status updates, benefits they currently receive, historical info like past claims, information related to their healthcare provider, etc.
-   - There will be some items of content whose ideal location will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
+   - There will be some content items whose ideal location will not be clear cut in our study, e.g. rated disabilities might belong in profile for some folks and the logged in homepage for others.
    - The content Veterans expect to see on their logged-in homepage will mostly be items they can take action on, and they'll expect a way to take a next step.
    - Veterans will expect to see notifications in some kind of notification specific area, probably accessible through the navigation.
 
@@ -49,7 +49,7 @@ Method
 **1. What method of research are you planning and why?**
 
   - We will conduct an initial short qualitative interview to gain insight into the "why" questions we have.
-  - This will be followed by a moderated co-design exercise. We think this collaborative approach will give us the best chance to understand what Veterans expectations are around a logged-in experience.
+  - This will be followed by a moderated co-design exercise. We've chosen this collaborative approach to gain insight into what Veterans expect to see on their logged-in homepage (versus their profile), and where they would expect to see these items.  Engaging with participants in this way will also help us see any difference between what participants say, and what they actually do.
   - We will have a card sort available as a back-up because it could provide similar insights to the design exercise.
 
 **2. Where are you planning to do your research?**
