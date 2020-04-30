@@ -56,6 +56,18 @@ Develop and assist other teams in unauthenticated content and products for Veter
 |Content Writer         |Laura Walsh                         |
 |Copy Editor            |Randi Hecht                         |
 
+### Popular Labels in ZenHub
+
+* vsa-public-websites
+* vsa-public-websites-intake
+* frontend
+* content
+* needs-grooming
+* design
+
+Milestones are set up as:
+* Public Websites Sprint xx
+
 ---
 ### **Workflow + Cadence**
 
