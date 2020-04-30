@@ -5,12 +5,14 @@ Phased roll-out:
 
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
-Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available on production
-- Content changes, redirects not applied to other YR pages
+Phase 2: Launch Yellow Ribbon Participating Schools page available on production
 
-Phase 3: Redirects and content updates implemented, opening access/discoverability to page
+- The new tool is available on production, and tested that it works as intended
+- When the tool has been verified:
+-- Content changes (removing accordions, replace with link to tool), update entry points and navigation
+-- Redirect the 2020 static legacy pages to the new tool
+-- Note: we will not be able to redirect previous years
 
-Are there SEO implications if we have it available on production but no redirects/content updates in place?
 
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
