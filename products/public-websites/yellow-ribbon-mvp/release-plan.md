@@ -3,7 +3,7 @@ WIP
 ---
 Phased roll-out:
 Phase 1: Yellow Ribbon Participating Schools page available behind an auth sign-in
-- Credentials shared with stakeholders, for final review/feedback/"kick the tires"
+- Credentials shared with stakeholders for final review/feedback
 - Content changes not applied to other YR pages
 
 Phase 2: "Soft Launch" Yellow Ribbon Participating Schools page available, auth sign-in removed
@@ -35,10 +35,12 @@ Are there SEO implications if we have it available on production but no redirect
 
 ### Planning:
 - Desired date range: [05/11/2020 - 05/15/2020]
-- Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders. Desired number of uniques: 50
+- Desired number of unique users: Link shared with VA's Yellow Ribbon stakeholders.
 - How you'll make the product available in production while limiting the # of users who can find/access it: 
 The page will be available, accessible on the production site. Redirects, content updates that will point to the page will not be implemented, limiting the discoverability. 
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+Search refinements before and after initial search
+Exits to university pages
 
 ### Results:
 - Number of unique users: 150
@@ -51,6 +53,7 @@ The page will be available, accessible on the production site. Redirects, conten
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
 ## Go Live!
+
 
 ### Planning:
 - Desired date: 05/18/2020
