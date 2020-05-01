@@ -1,49 +1,32 @@
 # Release Plan: VAMC Left Navigation update  (WIP)
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+The left navigation component was initially designed as a part of the redesign of VAMC website which was soft launched in September 2019, beginning with the Pittsburgh health care system. 
 
-### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+A usability study was conducted in November/December 2019 to evaluate how the user experience of VA.gov could be improved with a redesign of the existing left navigation component. The [existing site](https://www.va.gov/pittsburgh-health-care) was tested to establish a baseline of behaviors and a live protype of the new design was testing in the [staging environment](https://staging.va.gov/pittsburgh-health-care). 
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-## Phase II: unmoderated production testing
-
-### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
-- Desired number of unique users: x
-- How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
-- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
-
-### Results:
-- Number of unique users: x
-- Actual results (per your "success criteria")
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-findings.md#local-nav-research-report)
+- Number of users: 5 Veterans with Pittsburgh VAMC experience were recruited to ensure familiarity with the content. 
+- Bugs identified 
+  - Breadcrumbs displayed inconsistently throughout the staging site, with the “Home” breadcrumb appearing and disappearing.
+  - Accessibility defects within the staging prototype were identified and are documented in [#3411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3411)
+- Recommendations for UX changes based on user feedback included:
+   - Creation of a more discernible difference between levels in the hierarchy. 
+   - Closer integration of breadcrumbs with the page title 
+   - Keep opened accordions open and display all third level pages in the local navigation, except when they are chronologically listed 
+  
 
 ## Go Live!
 
+These changes will be available to 100% of the Veterans and Veteran Caregivers accessing the Pittsburgh health care system website.  Between March 29 and April 29, there were 24,784 pageviews for pittsburgh-health-care pages. 
+
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Desired date: 05/08/2020
+- Post-launch KPI 1: By April 30, Veterans can access Pittsburgh VAMC top task content from Left Navigation menu within 4 clicks or less. 
+- Post-launch KPI 2: By June 30, Veterans can access Pittsburgh VAMC’s most frequently viewed content using the Left Nav menu. 
+  - This to ensure that the Pittsburgh VAMC Left Navigation menu supports efficient navigation to the pages Veterans view as most meaningful/relevant. 
+- [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/fe-templates/left-nav)
 
 ### 1-week results:
 - Number of unique users: x
@@ -74,5 +57,5 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. Which of the assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
 
-## VSA Initiative Impact Review
-[Link](https://docs.google.com/presentation/d/18PJOfZdUtpnLqfEBkzo7SpRhQ4ZiSSvCRYM8nUWQAyM/edit#slide=id.g72c7463e88_0_21)
+## VSA Initiative Impact Review 
+[Link]
