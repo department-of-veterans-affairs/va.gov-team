@@ -30,27 +30,14 @@ When the tool has been verified:
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing
+## Phase II: unmoderated production testing + "Go Live"
 
-### Planning:
-- Desired date range: 
-- Desired number of unique users: 
-- How you'll make the product available in production while limiting the # of users who can find/access it: 
-- "Success" criteria (by the numbers):
+**Production testing**
+We will deploy the new tool to production, test the tool's functionality, design is as expected. 
+At this point, the tool is available but 'hidden' from users unless they have the URL.
+The time needed to conduct this testing is minimal- perhaps a few minutes.
 
-
-### Results:
-- Number of unique users: x
-- Actual results (per your "success criteria")
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
-
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
-
-## Go Live!
-We will deploy the new tool to production, and test that functionality, design is as expected. At this point, the tool is available but 'hidden' from users unless they have the URL.
+**Go Live**
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
 - Redirect the 2020 static legacy pages to the new tool
