@@ -2,7 +2,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're going to take a look at the GI Bill Comparison Tool.  Specifically, we're looking at how to calculate your GI Bill benefits for schools within the Comparison Tool.
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're going to take a look at the GI Bill Comparison Tool.  Specifically, we're looking at how to calculate your GI Bill benefits for institutions and programs within the Comparison Tool.
 
 Before we get started, a few things I want to mention:
 - This entire session should take about 60 minutes. I don't want to keep you much longer than that, so I may occasionally prompt you with the next question or topic.
