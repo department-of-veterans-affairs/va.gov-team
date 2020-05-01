@@ -174,7 +174,6 @@ All veterans were uncertain about what information to provide. There is little t
 
 **7. Veterans found it challenging to navigate to the Power of Attorney feature.**
 1 out of 10 Veterans was able to locate the Power of Attorney form from the VA.gov homepage. The veterans used three navigational paths: the search feature, the hub links, and the menu item ‘VA benefits and health care.’ The Veterans felt overwhelmed by the dense content on the VA.gov's pages. The search terms that the Veteran's used,such as 'Power of Attorney', 'Power of Attorney form,' & 'representative' turned out to produce results that were too broad, burying any relevant search results.  the results. The hub links within the 'Disability' and 'Records' divs resonated with veterans. (provide an example or clarify for people with less context available?). They associated a claim with 'Disability' and saw the form as a legal document and paired it with 'Records.' 
-
 > - "This is overwhelming I would be stuck at this point."</br> 
 
 - Searching
@@ -190,6 +189,8 @@ All veterans were uncertain about what information to provide. There is little t
 > - "Click on VA benefits and Health Care, click on Diablitly. I though it would be under Manage your benefits becuase I have already got my benefits."</br>
 > - "I would still go to disability first."</br>
 
+![Hub resutls](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/Hub.png)
+![Search resutls](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/PoA-wayfinding-results.png)
 
 ### Payment History Detailed Finding
 **1. Veterans did not use the eBenefit's Payment History feature. They preferred to manage payments through their bank.**
@@ -218,6 +219,8 @@ The veteran's key search term, 'Payment History,' was at the top of the result, 
 > - "The search up at the top to the payment history to see what it would give me."</br> 
 > - "I would click on the first one."</br> 
 > - "Scroll down and Diabilities. Right there."</br>
-
-
+![Search results]()
+![Hub links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-hub-links.png)
+![Menu items Disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-pension.png)
+![Menu items Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-disability.png)
 
