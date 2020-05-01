@@ -46,10 +46,9 @@ Also, there is a checkbox in the Share Screen option that says "Share computer s
 Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your GI Bill education benefits?
-2.  Where are you currently in your education journey?
 - If applicable, when did you start school?
-3.  How did you (or would you) find out what benefits VA provides for your education and housing?
-4.	Have you ever used the GI Bill Comparison Tool before?
+2.  How did you (or would you) find out what benefits VA provides for your education and housing?
+3.	Have you ever used the GI Bill Comparison Tool before?
 - If yes, fantastic! 
   - When do you think the last time you used it was? 
   - What were you looking for? 
@@ -100,22 +99,29 @@ Upon completion of task:
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 
+## Second Task: Ivy League school - 10 minutes (Desktop Non-Assistive ONLY)
+You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
+  - How does this school compare to others you've seen?
 
-## Second Task: OJT or VET TEC - 10 minutes
+## Third Task: OJT or VET TEC - 10 minutes
 OJT - A friend of yours has told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  What benefits would you receive if you trained with this employer?
 
 VET TEC - A friend of yours has told you that **GALVANIZE INC** has a VET TEC program in San Francisco, CA for data science.  What benefits would you receive if you took this program?
 
+Things to watch for:
+- How does the user navigate to this program/employer?
+-	What, if any, fields do they change within the EYB section?
+
 Upon completion of task: 
 - How did you think that went? 
 - What did you think of this information versus University of California?
+- Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
+- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
+- Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
+- Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 - Were you able to find what you were looking for?  Was anything missing?
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
-
-## Third Task: Ivy League school - 10 minutes
-You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
-  - How does this school compare to others you've seen?
 
 
 ## Fourth Task: Benefits Change - 5 minutes (Optional)
@@ -123,6 +129,9 @@ You recently found out that you are eligible for the **Vocational Rehabilitation
 
 Things to watch for:
 -	Do users realize they can change “Your benefits” values on Search Results page?
+
+Upon completion of task: 
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
