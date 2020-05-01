@@ -230,3 +230,19 @@ The veteran's key search term, 'Payment History,' was at the top of the result, 
 **2. The steps in the Power of Attorney had two main themes. The Veterans keep shifting between the two themes as they proceed through the feature.  
 - The first was confirming the Veteran's information found in steps 2, 3, 6, and 7
 - The second was information pertaining to the representative found in steps 1, 4, 5, 8, and 9
+
+## Next Steps
+- Meet with team to review findings and discuss design recommendations
+- Create mockups and conduct a usability test.
+
+## Appendix
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
+
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/21-22-interview-conversation-guide.md)
+
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/participant-notes)
+
+- [Tools used for Synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1586894114068/61c321a566e2ed2b80f46becc7b8aa5a31c02ec8)
+
+### Pages and applications used
+- eBenefits pint portal
