@@ -219,7 +219,7 @@ The veteran's key search term, 'Payment History,' was at the top of the result, 
 > - "The search up at the top to the payment history to see what it would give me."</br> 
 > - "I would click on the first one."</br> 
 > - "Scroll down and Diabilities. Right there."</br>
-![Search results]()
+![Search results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-search-results.png)
 ![Hub links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-hub-links.png)
 ![Menu items Disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-pension.png)
 ![Menu items Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-disability.png)
