@@ -91,11 +91,11 @@ Upon completion of task:
 - How did you think that went? 
 - What did you think of the accordions?  What did you think of how the questions were grouped together?
 - Were you able to find what you were looking for?  Was anything missing?
-- When you were clicking through the accordions, what did you think about the opening and closing of the accordions?
+- When you were clicking through the accordions, what did you think about how they opened and closed?
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
-- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
+- Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 
@@ -119,7 +119,7 @@ Upon completion of task:
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
-- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
+- Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 
