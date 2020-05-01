@@ -39,17 +39,32 @@ I’d like to dive a bit deeper into how you interact with the VA.
 - Have you interacted with VA since COVID-19 has begun?
   - Has COVID-19 changed how you interact with the VA in any way?
   
-## Mobile usage (5 minutes) 
-Now I'd like to talk a little bit about how you use your mobile device. 
-- How would you describe your use of your mobile device - for example, how often you use it, why you use it? 
-- What do you do most frequently on your mobile devices? 
-- What apps do you regularly use?
-  - What is your favorite and why?
-  - [Probe on non-social media apps]
-- What devices do you use (e.g. mobile, desktop, tablet, shared desktop)?
-- [If participant uses desktop and mobile] Do you have a preference between using desktop and mobile?
-- Are there certain things you prefer to do on one versus the other? Why?
-- [If participant uses a shared desktop] Do you have a desktop at home, or do you go somewhere to use a desktop?
+## Device usage (10 minutes) 
+Let’s for a minute and talk about your devices. I’d love to first get a clear picture of all the devices you use. For now, please talk generally about your behaviors with computers, phones, etc - I’d love to hear holistically about your experience, not just your experience with VA. 
+- Can you tell me about all the devices you use (e.g. mobile, desktop, tablet, shared desktop)?
+  - [If they use a shared desktop] Do you have a desktop at home, or do you go somewhere to use a desktop?
+  
+**[If they use desktop and mobile]**
+- Can you talk a bit about how you use your mobile device versus how you use your desktop?
+  - What types of things do you do on each?
+  - Are there certain things you prefer to do on one versus the other? Why?
+- Do you have a preference between using desktop and mobile?
+    - Overall, do you prefer one over the other?
+
+**[Mobile]**
+Great, thank you for sharing that. Now let’s talk specifically about mobile.
+- How often do you use your mobile device - for example, how many hours in a day would you say you use it?
+- When you use it, why do you use it? 
+- Can you share all the apps you can remember that you’ve used in the last month? 
+- Of the apps you regularly use, do you have a favorite? 
+  - What makes it a favorite for you?
+ 
+**[If mobile usage is very low]**
+I’d love to hear more about your feelings about using a mobile device.
+- Can you share a bit about your preference to not use a mobile device very often?
+- Have you used any mobile apps?
+  - What has your experience been?
+
 
 ## Interaction with VA on mobile (10 minutes)
 - Have you ever accessed VA.gov on your mobile device?
@@ -66,11 +81,23 @@ Now I'd like to talk a little bit about how you use your mobile device.
   
 ## Ideal world (10 minutes)
 Thank you for sharing everything you’ve shared with us so far. What I’d like to do now is ask you some “blue sky” questions about how you’d like to interact with the VA via your mobile device in an ideal world. 
-- When thinking about how you’d *like* to interact with the VA via your mobile device, what types of things come to mind? Why?
-- When thinking about the VA benefits we’ve discussed today, does anything stick out as an area that would benefit from being manageable via a VA mobile app? Why? If multiple areas would be useful, please let us know - we would like to hear about anything you would find useful.
-- How do you see a mobile app bringing value in these areas as opposed to a website?
-- Can you talk a litte bit about at what point in accessing or managing a benefit you might find a mobile app useful?
-  - How frequently do you think you would want to interact with the VA via a mobile app? 
+
+- When thinking about VA benefits we’ve discussed today, does anything stick out as an area that would benefit from being manageable via a VA mobile app?
+  - Why? 
+  - At what point in interacting with that benefit do you think you might find a mobile app useful?
+  - Can you share a bit about what you imagine a mobile app that helps you interact with this benefit looking like?
+    - What types of things can you do?
+    - What type of information is included?
+    - How frequently would you want to interact with VA via this mobile app?
+
+- How do you see a mobile app bringing value in this area as opposed to a website?
+   - How would you describe the benefit to you? What does the app do for you?
+
+[Recap of areas discussed so far] Are there other areas where a mobile app could be useful? If multiple areas would be useful, please let us know - we would like to hear about anything you would find useful.
+
+**Journey imagination**
+I’d like to ask now about your overall experience with VA, and talk about your experience with VA from when you first started interacting with VA until now. 
+- Thinking back on your experience with VA, where in your journey with VA could an app have been useful to you?
 
 _Summary of potential areas to probe on_
   - Service verification (e.g. ID card, letters, etc)
