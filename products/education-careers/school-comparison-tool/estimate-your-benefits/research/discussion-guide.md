@@ -47,7 +47,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your GI Bill education benefits?
 2.  Where are you currently in your education journey?
-3.	Have you ever used the GI Bill Comparison Tool before?
+3.  How did you / how would you go about finding out how much VA would pay towards your education and housing?
+3a. If applicable, when did you start school?
+4.	Have you ever used the GI Bill Comparison Tool before?
 - If yes, fantastic! 
   - When do you think the last time you used it was? 
   - What were you looking for? 
@@ -69,35 +71,53 @@ When you think aloud, it helps us understand what works well and where we might 
 
 I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
-## First Task:  - 15 minutes
+## First Task: Calculate Benefits at School / IHL - 15 minutes
 
-You have a friend who had to take a loan back in 2018 due to late VA payments to their school.  You know that the VA has taken steps to keep this from happening again, but that schools may require certain documentation from you to attend classes if the payments are late.  You’re interested in attending **Midland University in Fremont Nebraska**, how would you use the Comparison Tool to find what information Midland University requires?
+You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending College of Central Florida?
 
 Things to watch for:
+- How does the user select the school (School name or View Details)?
 -	Where does the user initially look for the information?
--	Does the user look under the Institutional Summary section?
--	What, if any, interest does the user show in the “Protection against late VA payments” modal information?
--	Does the user click on the modal for more information?
--	Screen reader: how does the user move throughout the page? (quick tabbing through options, listening to every control/element, etc.)
--	Screen reader: how does the user interact with modals?
+-	Which accordions does the user open?
+- When making changes to inputs located in several accordions, do users go back and check previous accordions to see if changes are holding?
+- Do users click calculate for every accordion or just once after all changes are made?
+- When users click Calculate, do they notice which values have changed?
+- When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
+-	Assistive: How well can users navigate the EYB section using assistive devices?
+-	Assistive: Are there any parts of the interface that the user struggles with (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
+- Assistive: What do users think of the process of making selections and recalculating benefits while using assistive devices?
 
-Upon completion of task: How did you think that went? 
+Upon completion of task: 
+- How did you think that went? 
+- What did you think of the accordions?  What did you think of how the questions were grouped together?
+- Were you able to find what you were looking for?  Was anything missing?
+- When you were clicking through the accordions, what did you think about the opening and closing of the accordions?
+- Do you have any questions about the benefits you would receive at this school?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 
-## Second Task: Section 103 Content - 10 minutes
-{ Get participant to 103 indicator }
 
-As you're reviewing the information in this area of the page, could you tell me what “Protection against late VA payments” means to you?
--	Have you heard of a Certificate of Eligibility before?  If so, when? Have you submitted one before?
--	Do any other questions come to mind about this?
+## Second Task: OJT or VET TEC - 10 minutes
+OJT - A friend of yours has told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  What benefits would you receive if you trained with this employer?
 
-## Third Task: Additional Criteria - 5 minutes
-Let's say you are also interested in attending **Chadron State College in Chadron, NE** and are curious about their requirements for obtaining protection against late VA payments.  How would you go about determining those requirements for this school?
-  - What do you think “additional criteria” is?
-  - How would you go about finding out more information?
+VET TEC - A friend of yours has told you that **GALVANIZE INC** has a VET TEC program in San Francisco, CA for data science.  What benefits would you receive if you took this program?
+
+Upon completion of task: 
+- How did you think that went? 
+- What did you think of this information versus University of California?
+- Were you able to find what you were looking for?  Was anything missing?
+- Do you have any questions about the benefits you would receive at this school?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+
+## Third Task: Ivy League school - 10 minutes
+You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
+  - How does this school compare to others you've seen?
+
+
+## Fourth Task: Benefits Change - 5 minutes (Optional)
+You recently found out that you are eligible for the **Vocational Rehabilitation & Employment** GI Bill.  You are curious how your benefits with this bill would compare to the Post 9/11 GI Bill.  How would you go about changing your GI Bill selection? 
 
 Things to watch for:
--	Does the user click on the modal?
--	Does the user search around anywhere else looking for more information on “additional criteria”?
+-	Do users realize they can change “Your benefits” values on Search Results page?
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
