@@ -7,8 +7,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
  - GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.  This out-of-view situation occurs because the inputs section and calculated benefits section are displayed side-by-side, but the inputs section is significantly longer than the calculated benefits section.  As such, changes to inputs at the bottom of the section result in re-calculated benefits that are above the fold.  This situation is exacerbated because the changes currently happen automatically upon modification of inputs; this is an accessibility issue and the design needs to be modified to initiate re-calculations upon a button press.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-- #### Desktop - General:
-- Is calculating benefits easier or harder with the new design?  Which design do users prefer?
+- #### General:
 - When making changes to inputs located in several accordions, do users go back and check previous accordions to see if changes are holding?
 - What do users think of the accordions (e.g. interest in opening them) and the appropriateness of their names/titles?
 - What do users think of the automatic closing of accordions?
@@ -16,18 +15,19 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
 - When users click Calculate, do they notice which values have changed?
 - Do users realize they can change “Your benefits” values on Search Results page?
+- How easy or hard is it to recalculate benefits for users?
 
-- #### Desktop - Assistive Tech:
+- #### Additional Questions for Assistive Tech on Desktop:
 - How well can users navigate the EYB section using assistive devices?
-- What parts of the interface frustrate the user (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
-- How easy is it for users to make selections and recalculate benefits on assistive devices?
+- Are there any parts of the interface that the user struggles with (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
+- What do users think of the process of making selections and recalculating benefits while using assistive devices?
 
-- #### Mobile:
+- #### Additional Questions for Mobile:
 - What are user thoughts on the bottom sheet (e.g. helpful, obstructive, indifferent)?
 - What do users think of the values shown in the bottom sheet (collapsed and expanded)?
 - Do users expect bottom sheet numbers to update as they make selections?
 - Do users expand and collapse the bottom sheet?  If so, how?
-- Do users like that the sheet only appears within the EYB section?
+- What are thoughts on the bottom sheet only appearing within the EYB section?
 
 4. Hypothesis: What is your hypothesis for this research? 
 - #### Desktop: 
@@ -49,25 +49,25 @@ As a designer I need to create a research plan to share with my team.	(This shou
   - Zoom or WebEx
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- 14-20 participants 
-- GI Bill beneficiaries who have used, are currently using or plan to use their GI Bill benefits in the next 12 months
+- 11-16 participants 
+- GI Bill beneficiaries who have used GI Bill benefits in the past 12 months or are planning to use them in the next 6 months
 
 A mix of the following:
 - 4 - 6 GI Bill beneficiaries with access to a desktop computer 
-- 4 - 6 GI Bill beneficiaries with access to a desktop computer who regularly use a screen reader or magnifier for web browsing. 
-- 6 - 8 GI Bill beneficiaries with access to a mobile device
+- 3 - 4 GI Bill beneficiaries with access to a desktop computer who regularly use a screen reader or magnifier for web browsing. 
+- 4 - 6 GI Bill beneficiaries with access to a mobile device
 
-Age Range: 18-45
+Age Range: 18-65
 
 Geography: Geographically dispersed across US
 
-VA Benefit requirement: Ch 33, Post-9/11 GI Bill or Ch 31 (Vocational Rehabilitation) Education benefits
+VA Benefit requirement: Post-9/11 GI Bill benefits
 
 Technology: Access to a computer, preferably running Google Chrome browser; Assistive technologies (for some); Access to a mobile device (for some)
 
 Familiarity with technology: Any
 
-Accessibility preference: 4-6 participants using screen reader or magnifier for web browsing
+Accessibility preference: 3-4 participants using screen reader or magnifier for web browsing
 
 Login requirements: None
 
@@ -76,14 +76,15 @@ Login requirements: None
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
- - May 13 - 14, 2020 	
+ - May 13 - 15, 2020 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 - By COB on May 8, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
  - 1 hour
 4.	Availability: If applicable, when would you like sessions scheduled? 
 - Wednesday, May 13th from 8 AM - 6 PM
-- Thursday, May 14th from 8 AM - 6 PM
+- Thursday, May 14th from 8 AM - 6 PM, excluding 2 - 3 PM
+- Friday, May 15th from 8 AM - 6 PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
   - May 12, 2020
 ## Team Roles	
