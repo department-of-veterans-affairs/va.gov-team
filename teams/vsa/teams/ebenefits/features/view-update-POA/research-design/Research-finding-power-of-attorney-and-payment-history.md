@@ -224,3 +224,9 @@ The veteran's key search term, 'Payment History,' was at the top of the result, 
 ![Menu items Disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-pension.png)
 ![Menu items Pension](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/payment-history-menu-disability.png)
 
+
+## Additional Findings
+**1.  Many Participants request that Military Sexual Trauma (MST) be one of the items added to the Power of Attorney's limited Consent step.  This was a point brought up by several Veterans. Currently, it is not an option to limit this information. MST effects were not limited to the step but also was a factor in who the Veteran picked as a representative. The Veterans we spoke in favor of a similar gender representative because it increased their comfort level.  
+**2. The steps in the Power of Attorney had two main themes. The Veterans keep shifting between the two themes as they proceed through the feature.  
+- The first was confirming the Veteran's information found in steps 2, 3, 6, and 7
+- The second was information pertaining to the representative found in steps 1, 4, 5, 8, and 9
