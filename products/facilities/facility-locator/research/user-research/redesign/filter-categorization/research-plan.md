@@ -7,7 +7,7 @@ The goal of this study is to understand how Veterans would expect the facility l
 - How will Veterans want to organize the filter contents?
 - Will the current services taxonomy be validated?
 
-**Hypothesis*
+**Hypothesis**
 - 
 
 ## Method	
