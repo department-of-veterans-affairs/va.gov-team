@@ -60,16 +60,19 @@ The 686 is a long and complicated form in its entirety, but the digital version 
  - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ### Research questions
-1. Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows? 
-2. Are the forms presented clearly and easy to understand by Veterans? 
-3. Where do users need examples, guidance or section headers as they interact with the form?
-4. Where are the pain points in the longer workflows (add-spouse/add-child, add-student)?
+1. In what section VA.gov would users expect to find the 21-686c? How would they navigate there?
+2. Are the form instructions clear and complete?
+3. Do participants understand how the 21-686c works as a multi-purpose form?
+4. What are the "sticking points" in the various form workflows? What workflow combinations cause users problems (add-spouse/add-child, add-child/add-student, add spouse/report divorce)?
+5. Where do users need examples, more guidance or improved section headers as they interact with the form?
+6. Will users understand when and how to upload additional documentation?
+7. Is the information on the confirmation page clear and complete?
+8. Can users complete the longer scenarios is less than 30 minutes?
 
 Additional Questions
 
-5. What are users' experiences with the current 21-686c (paper, digital, VSO, etc.)?
-6. Do participants know they have to reports changes in their dependents status?
-7. What workflow combinations (scenarios) do users think are likely? 
+9. What are users' experiences with dependents on ther VA benefit and the current 21-686c (paper, digital, VSO, etc.)?
+10. What workflow combinations (scenarios) do users consider likely? 
   
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
