@@ -6,7 +6,15 @@
 ---
 
 Punch list as of April 30, 2020. 
-Reference mockups are available [here.]
+
+# Design prototypes
+
+| Page | Design Link | Date |
+|--- | --- | --- |
+| Main Search page | TBD | --- |
+| Facility Detail page | TBD | --- |
+| Facility Locator Mobile | TBD | --- |
+
 
 # Facility Locator main search page
 
@@ -98,8 +106,10 @@ When Facility type = "Urgent care", the service type drop down is available, wit
 - [ ] Search results are presented on cards with white background separated by horizontal gray stripe
 - [ ] The top line of each search result cards has a capital letter indicator corresponding to a location on the map and distance in miles. 
 - [ ] Linked names appear actionable (underlined)
-- [ ] Linked to directions appear actionable (underlined)
+- [ ] Links to directions appear actionable (underlined)
 - [ ] Phone numbers appear actionable (underlined)
+- [ ] Any detail is displayed as provided by API
+- [ ] Details with null value in the API will not be shown
 
 When Facility type = "VA health", search results cards should contain the following
 - [ ] Capital letter indicator
@@ -188,6 +198,12 @@ When Facility type = "Vet Centers", search results cards should contain the foll
 
 # Facility Detail page
 
+- [ ] Any detail is shown as provided by API
+- [ ] Details with null value in the API will not be shown
+- [ ] Links to directions appear actionable (underlined)
+- [ ] Website links appear actionable (underlined)
+- [ ] Phone numbers appear actionable (underlined)
+
 ## Community care providers (in VA's network)
 
 When Facility type = "Community care providers (in VA’s network)", the facility detail page should contain the following
@@ -216,6 +232,9 @@ When Facility type = "Community care providers (in VA’s network)", the facilit
 
 When Facility type = "VA health", the facility detail page should contain the following
 - [ ] **Name of Facility**
+- [ ] Operating status indicator (unless operating status is "Normal")
+- [ ] Operating Notes within alert box (if available)
+- [ ] "Visit the (linked) website to learn more about hours and services." (Appears if website is available)
 - [ ] Facility type displayed as "VA HEALTH"
 - [ ] Address
 - [ ] Phone icon and Main phone number
@@ -258,6 +277,9 @@ When Facility type = "VA health", the facility detail page should contain the fo
       
 When Facility type = "VA benefits", the facility detail page should contain the following
 - [ ] **Name of Facility**
+- [ ] Operating status indicator (unless operating status is "Normal")
+- [ ] Operating Notes within alert box (if available)
+- [ ] "Visit the (linked) website to learn more about hours and services." (Appears if website is available)
 - [ ] Facility type displayed as "VA BENEFITS"
 - [ ] Address
 - [ ] Phone icon and Main phone number
@@ -272,6 +294,9 @@ When Facility type = "VA benefits", the facility detail page should contain the 
       
 When Facility type = "Vet Centers", the facility detail page should contain the following
 - [ ] **Name of Facility**
+- [ ] Operating status indicator (unless operating status is "Normal")
+- [ ] Operating Notes within alert box (if available)
+- [ ] "Visit the (linked) website to learn more about hours and services." (Appears if website is available)
 - [ ] Facility type displayed as "VET CENTER"
 - [ ] Address
 - [ ] Phone icon and Main phone number
@@ -287,6 +312,9 @@ When Facility type = "Vet Centers", the facility detail page should contain the 
       
 When Facility type = "VA Cemeteries", the facility detail page should contain the following
 - [ ] **Name of Facility**
+- [ ] Operating status indicator (unless operating status is "Normal")
+- [ ] Operating Notes within alert box (if available)
+- [ ] "Visit the (linked) website to learn more about hours and services." (Appears if website is available)
 - [ ] Facility type displayed as one of the following
       CONFEDERATE CEMETERY
       GOVERNMENT LOTS 
@@ -305,6 +333,6 @@ When Facility type = "VA Cemeteries", the facility detail page should contain th
       - [ ] "In addition to the hours listed above, all Vet Centers maintain non-traditional hours that are specific to each site and can change periodically given local Veteran, Service member & Family needs. Please contact your Vet Center to obtain the current schedule."
       
 
-- [ ] Operating status indicator (unless operating status is "Normal")
+
 
 
