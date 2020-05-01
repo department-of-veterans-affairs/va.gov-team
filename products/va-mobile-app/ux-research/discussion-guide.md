@@ -14,7 +14,7 @@ Before we start, there are a few things I want to mention:
 
 Those are all the logistics I wanted to share. Do you have any questions for me before we get started?
 
-## Icebreaker (5 minutes)
+## Icebreaker (3 minutes)
 First, I want to learn a little more about you and your experience with VA.
 - Can you share a few sentences about your background in the military?
 - Have you used any VA benefits (e.g. education benefits, healthcare benefits, etc) or services?
@@ -68,7 +68,7 @@ I’d love to hear more about your feelings about using a mobile device.
   - What has your experience been?
 
 
-## Interaction with VA on mobile (10 minutes)
+## Interaction with VA on mobile (5 minutes)
 - Have you ever accessed VA.gov on your mobile device?
   - [If yes] Can you share a little bit about how you’ve used VA.gov on mobile?
     - How would you describe your experience using VA.gov on mobile?
@@ -81,7 +81,7 @@ I’d love to hear more about your feelings about using a mobile device.
   - [If yes] How did you find out about the app(s)?
     - What was your experience like using it/them?
   
-## Ideal world (10 minutes)
+## Ideal world (15 minutes)
 Thank you for sharing everything you’ve shared with us so far. What I’d like to do now is ask you some “blue sky” questions about how you’d like to interact with the VA via your mobile device in an ideal world. 
 
 - When thinking about VA benefits we’ve discussed today, does anything stick out as an area that would benefit from being manageable via a VA mobile app?
@@ -97,7 +97,7 @@ Thank you for sharing everything you’ve shared with us so far. What I’d like
 
 [Recap of areas discussed so far] Are there other areas where a mobile app could be useful? If multiple areas would be useful, please let us know - we would like to hear about anything you would find useful.
 
-**Journey imagination**
+### Journey imagination
 
 I’d like to ask now about your overall experience with VA, and talk about your experience with VA from when you first started interacting with VA until now. 
 - Thinking back on your experience with VA, where in your journey with VA could an app have been useful to you?
