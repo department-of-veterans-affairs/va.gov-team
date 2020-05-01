@@ -46,7 +46,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Veteran's info section
 
-- [ ] Implement new "info on file" screen in place of Veteran ID info [mockup](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/Add-Modify-Dependents-MVI-Details)
+- [ ] Implement new "info on file" screen in place of Veteran ID info per [mockup](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/screen/dc153448-40b1-4d35-b890-698dca690305/Add-Modify-Dependents-MVI-Details)
 - [x] Capitalize "Suffix"
 - [x] Change checkbox to "I live on a United States military base outside of the U.S."
 - [x] Change "Street address" to just "Street"
