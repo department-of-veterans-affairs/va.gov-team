@@ -101,7 +101,7 @@ Upon completion of task:
 
 ## Second Task: Ivy League school - 10 minutes (Desktop Non-Assistive ONLY)
 You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
-  - How does this school compare to others you've seen?
+  - How does this school compare to UNIVERSITY OF CALIFORNIA-BERKELEY?
 
 ## Third Task: OJT or VET TEC - 10 minutes
 OJT - A friend of yours has told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  What benefits would you receive if you trained with this employer?
