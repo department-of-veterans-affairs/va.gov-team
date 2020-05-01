@@ -1,7 +1,7 @@
 # User Management Approach for VSP (WIP)
 
 ## Overview
-All teams working on VA.gov need to have a Verifited Github team, which will be used for team based access, auditing of users, and roasters. 
+All teams working on VA.gov need to have a *Verified GitHub Team*, which will be used for team based access, auditing of users, and roasters. 
 
 ## GitHub Team Process
 
