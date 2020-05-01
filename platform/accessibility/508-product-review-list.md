@@ -675,8 +675,6 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 - [[COGNITION]: VAOS - Past appointments filter MUST have a submit button or clear instructions - #8112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8112)<br/>
 **Opened:** April 17, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[ZOOM]: VAOS - CONSIDER Upcoming appointments tab goes to two lines at 400% - #8134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8134)<br/>
-**Opened:** April 17, 2020 | **Severity:** 508-defect-1 - **_Critical_**
 
 ---
 
