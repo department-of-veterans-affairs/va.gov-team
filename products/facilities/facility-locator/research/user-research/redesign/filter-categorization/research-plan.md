@@ -8,7 +8,7 @@ The goal of this study is to understand how Veterans would expect the facility l
 - Will the current services taxonomy be validated?
 
 **Hypothesis**
-- 
+- line item
 
 ## Method	
 1.	We will be sending a link to Veterans to participate in an unmoderated card sorting activity.	
