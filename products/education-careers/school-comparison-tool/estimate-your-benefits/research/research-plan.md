@@ -67,11 +67,13 @@ Technology: Access to a computer, preferably running Google Chrome browser; Assi
 
 Familiarity with technology: Any
 
-Accessibility preference: 2-3 participants using screen reader or magnifier for web browsing
+Accessibility preference: 4-6 participants using screen reader or magnifier for web browsing
 
 Login requirements: None
+
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+- Recruitment will be performed by Perigean Technologies
+
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
  - May 13 - 14, 2020 	
