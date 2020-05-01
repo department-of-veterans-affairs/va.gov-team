@@ -15,6 +15,8 @@
   - breakers
   - statsd-roster
     - keeps a running list of StatsD keys for the purpose of initializing them to 0 at server startup
+  - Rack attack for rate limiting
+  - active_record_cache_aside.rb
 - vets-api-worker
   - sidekiq
     - processes
@@ -33,9 +35,15 @@
 
 Standup the new elasticache in VAGOV that runs in parallel to the Redis instance we have now.
 
-### Vets-api Cache
+### Vets-api Application Data
 
 Add code to `vets-api` `redis_store.rb` that saves data to both redis instances - this migrates data in real time. After 30 days (the longest configured ttl in `redis.yml`), both instances will have the exact same data and we can safely remove the older redis from the `vets-api` code.
+
+### Vets-api Utility Data
+
+This includes breakers, statsdroster, & rack rate limiting. This data regenerates itself and is safe to leave behind.
+
+It would be possible to migrate it, but I don't think it's worth the risk (see: "Migrating Utility Data").
 
 ### Sidekiq Stuff
 
@@ -65,3 +73,15 @@ Only write new jobs to the new Redis instance while still executing jobs off the
 ## Nice To Haves
 - Separate vets-api cache data and sidekiq data on separate Redis servers
 - Namespace vets-api cache data to a root folder, so as not to confuse it with redis "utility" data such as `breakers` & `statsd-roster`
+
+
+## Other Notes
+
+### Migrating Utility Data
+It would be possible to migrate our vets-api utility data. Generally, this could be done by: 
+
+1. stopping the service (e.g. `Breakers.disabled = true`)
+2. execute a rake task to migrate the data using [`scan`](https://redis.io/commands/scan)
+3. restart the service
+
+This comes with a bit of risk, since `scan` would have to iterate over ~1.5 million records in the Redis cache which could affect the performance of `vets-api`.
