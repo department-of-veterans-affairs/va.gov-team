@@ -72,36 +72,49 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
 
-You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending College of Central Florida?
+You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending University of California Berkeley?
+
+_Potential prompt:_ Let's say you were interested in taking classes at this school remotely, how would you go about incorporating that information?  
 
 Things to watch for:
 - How does the user select the school (School name or View Details)?
--	Where does the user initially look for the information?
+-	Where does the user initially look for their benefit information?
+
+Accordions
+- Does the user engage with the accordions without prompting? 
 -	Which accordions does the user open?
 - When making changes to inputs located in several accordions, do users go back and check previous accordions to see if changes are holding?
+
+Calculate button
 - Do users click calculate for every accordion or just once after all changes are made?
 - When users click Calculate, do they notice which values have changed?
 - When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
+
 -	Assistive: How well can users navigate the EYB section using assistive devices?
 -	Assistive: Are there any parts of the interface that the user struggles with (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
 - Assistive: What do users think of the process of making selections and recalculatingWhat are user thoughts on the bottom sheet (e.g. helpful, obstructive, indifferent)?
+
 - Mobile: Do users expand and collapse the bottom sheet? If so, how?
 
 Upon completion of task: 
 - How did you think that went? 
-- What did you think of the accordions?  What did you think of how the questions were grouped together?
-- Were you able to find what you were looking for?  Was anything missing?
-- When you were clicking through the accordions, what did you think about how they opened and closed?
-- Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+- Were you able to find what you were looking for?  Was anything missing?
+- Do you have any questions about the benefits you would receive at this school?
+
+- What did you think of the accordions?  What did you think of how the questions were grouped together?
+- When you were clicking through the accordions, what did you think about how they opened and closed?
+
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
 - Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 
 ## Second Task: Ivy League school - 10 minutes (Desktop Non-Assistive ONLY)
+
 You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
-  - How does this school compare to UNIVERSITY OF CALIFORNIA-BERKELEY?
+
+  - How do the benefits at this school compare to what you'd get at UNIVERSITY OF CALIFORNIA-BERKELEY?
 
 ## Third Task: OJT or VET TEC - 10 minutes
 OJT - A friend of yours has told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  What benefits would you receive if you trained with this employer?
@@ -118,16 +131,19 @@ Upon completion of task:
 - Were you able to find what you were looking for?  Was anything missing?
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
 - Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 
 ## Fourth Task: Benefits Change - 5 minutes (Optional)
+
 You recently found out that you are eligible for the **Vocational Rehabilitation & Employment** GI Bill.  You are curious how your benefits with this bill would compare to the Post 9/11 GI Bill.  How would you go about changing your GI Bill selection within the Comparison Tool? 
 
 Things to watch for:
--	Do users realize they can change “Your benefits” values on Search Results page?
+-	Where do users try to change their benefit? 
+- Do users realize they can change “Your benefits” values on Search Results page?
 
 Upon completion of task: 
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
