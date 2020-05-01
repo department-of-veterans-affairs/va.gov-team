@@ -7,7 +7,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
  - GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.  This situation is exacerbated because the changes currently happen automatically upon modification of inputs; this is an accessibility issue and the design needs to be modified to make changes occur upon a button click.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-- #### General:
+- #### Desktop - General:
 - What do users think of the calculator categories (e.g. interest in opening them)?
 - Is calculating benefits easier or harder with the new design?  Which design do users prefer?
 - When making changes in several accordions, do users go back and check previous accordions to see if changes are holding?
@@ -17,7 +17,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - When users click Calculate, do they notice which values have changed?
 - Do users realize they can change “Your benefits” values on Search Results page?
 
-- #### Assistive Tech:
+- #### Desktop - Assistive Tech:
 - How well can users navigate the EYB section using assistive devices?
 - What parts of the interface frustrate the user (e.g. accessing any inputs, movement of the focus, etc.)?
 - How easy is it for users to make selections and recalculate benefits on assistive devices?
