@@ -27,3 +27,13 @@ The need to support unplanned critical initiatives can delay our planned project
 ## Impact of near-term work on other VSA product teams:
 
 Will continue our support for other teams’ initiatives. No breaking changes anticipated with our current initiatives.
+
+
+Testing something
+Current URL  |  Redirect to new URL
+---  |  ---
+*https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ak.asp* | *https://www.va.gov/education/yellow-ribbon-participating-schools/*
+*https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/al.asp* | *https://www.va.gov/education/yellow-ribbon-participating-schools/*
+*https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ar.asp* | *https://www.va.gov/education/yellow-ribbon-participating-schools/*
+*https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/az.asp
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/22.asp* | test
