@@ -13,7 +13,7 @@
 | April 23 | Payload validation testing with CARMA in QA/Dev | Complete| 
 | April 24 | First draft frontend complete | Complete |
 | April 27 | Submit VA.gov _first round_ Platform Staging Review Request | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8479) |
-| April 30 | CARMA Staging endpoint delivery | External |
+| April 30 | CARMA Staging endpoint delivery | Recieved |
 | May 1 | VA.gov Platform Staging Review complete | On track |
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
