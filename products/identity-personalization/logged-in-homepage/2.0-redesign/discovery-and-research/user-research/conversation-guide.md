@@ -1,6 +1,6 @@
-#Conversation Guide for Authenticated Experience team, Logged-in homepage, May 2020
+# Conversation Guide for Authenticated Experience team, Logged-in homepage, May 2020
 
-##Moderator logistics
+## Moderator logistics
 
 Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
@@ -16,8 +16,6 @@ Before the session, send out the [observer instructions](https://github.com/depa
 - [ ] Have staging.va.gov open in a tab
 - [ ] Be ready to screen share
 - [ ] Have card sort link available
-
-
 
 When the participant is ready, begin the session with the following intro
 
