@@ -35,7 +35,7 @@ When the tool has been verified:
 **Production testing**
 We will deploy the new tool to production, test the tool's functionality, design is as expected. 
 At this point, the tool is available but 'hidden' from users unless they have the URL.
-The time needed to conduct this testing is minimal- perhaps a few minutes.
+The time needed to conduct this testing is likely just a few minutes.
 
 **Go Live**
 When the tool has been verified:
