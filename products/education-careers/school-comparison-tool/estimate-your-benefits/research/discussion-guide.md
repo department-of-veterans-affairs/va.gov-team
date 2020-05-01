@@ -41,14 +41,14 @@ Also, there is a checkbox in the Share Screen option that says "Share computer s
 - 	Do you know your screen reader's verbosity setting? High, medium, low? Is that your standard setting (or do you tend to change it depending on what you're working with)?
 
 
-## Warm-up Questions (Optional) - 10 minutes
+## Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your GI Bill education benefits?
 2.  Where are you currently in your education journey?
-3.  How did you / how would you go about finding out how much VA would pay towards your education and housing?
-3a. If applicable, when did you start school?
+- If applicable, when did you start school?
+3.  How did you (or would you) find out what benefits VA provides for your education and housing?
 4.	Have you ever used the GI Bill Comparison Tool before?
 - If yes, fantastic! 
   - When do you think the last time you used it was? 
@@ -85,11 +85,16 @@ Things to watch for:
 - When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
 -	Assistive: How well can users navigate the EYB section using assistive devices?
 -	Assistive: Are there any parts of the interface that the user struggles with (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
-- Assistive: What do users think of the process of making selections and recalculating benefits while using assistive devices?
+- Assistive: What do users think of the process of making selections and recalculatingWhat are user thoughts on the bottom sheet (e.g. helpful, obstructive, indifferent)?
+- Mobile: Do users expand and collapse the bottom sheet? If so, how?
 
 Upon completion of task: 
 - How did you think that went? 
 - What did you think of the accordions?  What did you think of how the questions were grouped together?
+- Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
+- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
+- Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
+- Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 - Were you able to find what you were looking for?  Was anything missing?
 - When you were clicking through the accordions, what did you think about the opening and closing of the accordions?
 - Do you have any questions about the benefits you would receive at this school?
@@ -121,7 +126,6 @@ Things to watch for:
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
--	We had you look for information on delayed VA payments within the GI Bill Comparison Tool.  If this situation arose in real life where do you think you’d look for information on how to deal with this issue? 
 -	Any questions for me?
 
 ## Thank-You and Closing - 3 minutes
