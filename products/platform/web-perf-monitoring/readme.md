@@ -6,7 +6,7 @@ In order to track and monitor performance VSP has researched and documented a li
 
 List of [Performance Metrics and Thresholds](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/performance-standards.md#metrics)
 
-##Performance Monitoring  
+## Performance Monitoring  
 By leveraging the software application, [SpeedCurve](https://www.speedcurve.com), VSF teams can easily track, test and optimize UI performance for their application.
 
 [Why did we choose Speedcurve?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/web-perf-monitoring/web-perf-monitoring-product-outline.md)
