@@ -17,6 +17,8 @@ Before the session, send out the [observer instructions](https://github.com/depa
 - [ ] Be ready to screen share
 - [ ] Have card sort link available
 
+
+
 When the participant is ready, begin the session with the following intro
 
 ## Intro - 3 minutes
@@ -192,7 +194,7 @@ Alright, now let's take a look at what we've got in these categories.
 
 -   What expectations does the participant have around notifications and updates?
 
-## Third Task: Review current logged-in homepage - 5 minutes
+## Third Task: Discuss current logged-in experience - 5 minutes
 
 I'm going to share my screen, and log into the site.
 *Go to staging.va.gov, share screen and log in. Moderator will be on the homepage.*
@@ -200,24 +202,17 @@ I'm going to share my screen, and log into the site.
 -   Alright, I'm logged in- I'd like to learn more about your thoughts on the current logged-in experience.
 -   Tell me how what you see lines up with your expectations.
 -   Is this what you typically see when you log in?
+-   Our session today has been focused a personalized homepage - how do you see that as being different from your profile?
 
 That's helpful, thank you!
 
 ## Post-Task Interview - 5 minutes
 
-- We've talked a lot today about a personalized homepage - what do you think the difference is between that, and your profile?
-
-  *Leave logged-in screen share active in case it's helpful to reference*
-
-- Is there anything you'd want to see on the pages/cards we made today that we haven't talked about?
-
-- Is there anything you'd want to be able to do from the pages we made that we haven't talked about?
-
-- If applicable: Throughout this session, I've been using the word "homepage" - how does that resonate with you? Would you call it something different?
-
-- Do you have any other thoughts on anything we discussed today you want to be sure to share before we wrap up?
-
-- Any questions for me?
+-   Is there anything you'd want to see on the pages/cards we made today that we haven't talked about?
+-   Is there anything you'd want to be able to do from the pages we made that we haven't talked about?
+-   If applicable: Throughout this session, I've been using the word "homepage" - how does that resonate with you? Would you call it something different?
+-   Do you have any other thoughts on anything we discussed today you want to be sure to share before we wrap up?
+-   Any questions for me?
 
 ### Thank-You and Closing - 1 minute
 
