@@ -52,6 +52,7 @@ Let’s for a minute and talk about your devices. I’d love to first get a clea
     - Overall, do you prefer one over the other?
 
 **[Mobile]**
+
 Great, thank you for sharing that. Now let’s talk specifically about mobile.
 - How often do you use your mobile device - for example, how many hours in a day would you say you use it?
 - When you use it, why do you use it? 
@@ -60,6 +61,7 @@ Great, thank you for sharing that. Now let’s talk specifically about mobile.
   - What makes it a favorite for you?
  
 **[If mobile usage is very low]**
+
 I’d love to hear more about your feelings about using a mobile device.
 - Can you share a bit about your preference to not use a mobile device very often?
 - Have you used any mobile apps?
@@ -96,6 +98,7 @@ Thank you for sharing everything you’ve shared with us so far. What I’d like
 [Recap of areas discussed so far] Are there other areas where a mobile app could be useful? If multiple areas would be useful, please let us know - we would like to hear about anything you would find useful.
 
 **Journey imagination**
+
 I’d like to ask now about your overall experience with VA, and talk about your experience with VA from when you first started interacting with VA until now. 
 - Thinking back on your experience with VA, where in your journey with VA could an app have been useful to you?
 
