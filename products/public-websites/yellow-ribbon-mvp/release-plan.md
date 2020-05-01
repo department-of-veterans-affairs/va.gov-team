@@ -16,7 +16,7 @@ When the tool has been verified:
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [April 2020 - 05/06/2020] or [duration]
+- Desired date range or test duration: [April 2020 - 05/01/2020] or [duration]
 - Desired number of users: Stakeholders for the Yellow Ribbon initiative
 - How you'll recruit the right production test users: VA's Yellow Ribbon contacts
 - How you'll conduct the testing: on staging.va.gov
@@ -57,7 +57,7 @@ When the tool has been verified:
 - Note: we will not be able to redirect previous years
 
 ### Planning:
-- Desired date: May 13, 2020
+- Desired date: May 11, 2020
 - Post-launch KPI 1: Search refinements before and after initial search
 - Post-launch KPI 2: Exits to univerity pages
 - Post-launch KPI 3: xx lorem ipsum
