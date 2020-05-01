@@ -4,30 +4,30 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1. What product & team are you doing this research for?	
 - Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
- - GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.  This situation is exacerbated because the changes currently happen automatically upon modification of inputs; this is an accessibility issue and the design needs to be modified to make changes occur upon a button click.
+ - GIBCT users who are estimating benefits, especially those with accessibility challenges or those on mobile devices, may not detect the changes they’re making to the estimated benefits on Profile Pages because those changes could be happening outside their field of view.  This out-of-view situation occurs because the inputs section and calculated benefits section are displayed side-by-side, but the inputs section is significantly longer than the calculated benefits section.  As such, changes to inputs at the bottom of the section result in re-calculated benefits that are above the fold.  This situation is exacerbated because the changes currently happen automatically upon modification of inputs; this is an accessibility issue and the design needs to be modified to initiate re-calculations upon a button press.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 - #### Desktop - General:
-- What do users think of the calculator categories (e.g. interest in opening them)?
 - Is calculating benefits easier or harder with the new design?  Which design do users prefer?
-- When making changes in several accordions, do users go back and check previous accordions to see if changes are holding?
+- When making changes to inputs located in several accordions, do users go back and check previous accordions to see if changes are holding?
+- What do users think of the accordions (e.g. interest in opening them) and the appropriateness of their names/titles?
 - What do users think of the automatic closing of accordions?
 - Do users click calculate for every accordion or just once after all changes are made?
-- When do they expect changes to be made (as they are making them or after clicking Calculate)?
+- When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
 - When users click Calculate, do they notice which values have changed?
 - Do users realize they can change “Your benefits” values on Search Results page?
 
 - #### Desktop - Assistive Tech:
 - How well can users navigate the EYB section using assistive devices?
-- What parts of the interface frustrate the user (e.g. accessing any inputs, movement of the focus, etc.)?
+- What parts of the interface frustrate the user (e.g. accessing any inputs, movement of the focus, opening accordions, etc.)?
 - How easy is it for users to make selections and recalculate benefits on assistive devices?
 
 - #### Mobile:
-- Do users open and close the bottom sheet?  If so, how?
 - What are user thoughts on the bottom sheet (e.g. helpful, obstructive, indifferent)?
-- Do users like that the sheet only appears within the EYB section?
 - What do users think of the values shown in the bottom sheet (collapsed and expanded)?
 - Do users expect bottom sheet numbers to update as they make selections?
+- Do users expand and collapse the bottom sheet?  If so, how?
+- Do users like that the sheet only appears within the EYB section?
 
 4. Hypothesis: What is your hypothesis for this research? 
 - #### Desktop: 
