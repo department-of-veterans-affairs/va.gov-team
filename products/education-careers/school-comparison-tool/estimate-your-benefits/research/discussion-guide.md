@@ -90,14 +90,14 @@ Things to watch for:
 Upon completion of task: 
 - How did you think that went? 
 - What did you think of the accordions?  What did you think of how the questions were grouped together?
-- Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
-- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
-- Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
-- Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 - Were you able to find what you were looking for?  Was anything missing?
 - When you were clicking through the accordions, what did you think about the opening and closing of the accordions?
 - Do you have any questions about the benefits you would receive at this school?
 - On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+- Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
+- Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
+- Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
+- Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
 
 ## Second Task: Ivy League school - 10 minutes (Desktop Non-Assistive ONLY)
 You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
@@ -115,17 +115,16 @@ Things to watch for:
 Upon completion of task: 
 - How did you think that went? 
 - What did you think of this information versus University of California?
+- Were you able to find what you were looking for?  Was anything missing?
+- Do you have any questions about the benefits you would receive at this school?
+- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
 - Mobile: What did you think of the values shown in the bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
-- Were you able to find what you were looking for?  Was anything missing?
-- Do you have any questions about the benefits you would receive at this school?
-- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
-
 
 ## Fourth Task: Benefits Change - 5 minutes (Optional)
-You recently found out that you are eligible for the **Vocational Rehabilitation & Employment** GI Bill.  You are curious how your benefits with this bill would compare to the Post 9/11 GI Bill.  How would you go about changing your GI Bill selection? 
+You recently found out that you are eligible for the **Vocational Rehabilitation & Employment** GI Bill.  You are curious how your benefits with this bill would compare to the Post 9/11 GI Bill.  How would you go about changing your GI Bill selection within the Comparison Tool? 
 
 Things to watch for:
 -	Do users realize they can change “Your benefits” values on Search Results page?
