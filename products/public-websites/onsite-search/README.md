@@ -5,7 +5,6 @@
 - GitHub Label: search
 - Slack channel: #va-search
 - Product POCs: 
-   - Jennifer Lee, DSVA @Jen Lee
    - John Hashimoto, DSVA @John Hashimoto
    - Steph Orkand @Stephanie Orkand
 - Search.gov POC: 
