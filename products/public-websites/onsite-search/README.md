@@ -11,6 +11,7 @@
 - Search.gov POC: 
    - Arantxa Pipernova (arantxa.recio@gsa.gov)
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
+   - Ayush Chakravarty (ayush.chakravarty@gsa.gov)
 
 ## Table of Contents
 - [User Problem Statement](#user-problem-statement)
@@ -25,10 +26,12 @@
 - [Keywords](#keywords)
 
 ## User Problem Statement
-Onsite search has not been revisited since the rebranding launch and transition from vets.gov to VA.gov. Since then many legacy pages and forms have been redirected to VA.gov., but a number of subdomains still exist and have not been brought in to the new VA.gov site experience. 
+As a Veteran, I am able to find the information I need to on the VA.gov Website (Desktop and Mobile) as quickly and easily as possible using the search feature.
 
 ### User Goals
-- Easily find and get to relevant, related information that helps veterans, caregivers, find what I am looking for the first time.
+- Veterans want to easily and quickly find the information they need -- with few clicks as possible -- on the VA.gov Website.
+- Veterans want to skip/avoid reading long pages of content in order to get to their desired outcome.
+- Veterans want to get the most relevant results when they use VA.gov search.
 
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
