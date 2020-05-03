@@ -28,28 +28,34 @@
 As a Veteran, I am able to find the information I need to on the VA.gov Website (Desktop and Mobile) as quickly and easily as possible using the search feature.
 
 ### User Goals
-- Veterans want to easily and quickly find the information they need -- with few clicks as possible -- on the VA.gov Website.
-- Veterans want to skip/avoid reading long pages of content in order to get to their desired outcome.
-- Veterans want to get the most relevant results when they use VA.gov search.
+- As I veteran, I want to easily and quickly find the information I need with few clicks as possible on the VA.gov Website.
+- As a veteran, I want to avoid reading long pages of content in order to get to my desired outcome.
+- As a veteran, I want to get the most relevant results when I use VA.gov search.
+- As a veteran, I want to get the most relevant results even if I am not precise about the information I seek or make a mistake in my search terms.
 
 ### Product Goals
 - Modernize the on-site search experience on VA.gov with features and functions which enable more directed search (e.g. type-ahead, faceted search, etc.)
-- Make VA.gov on-site search results more relevant
+- Make VA.gov on-site search results more relevant and reliable
 - Measureably improve customer satifisfaction with VA.gov on-site search
-- Create a cohesive brand across the VA through direct control of the search page layout and look (To be verified as a goal)
-- Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be verified as a goal)
+- Create a cohesive brand across the VA through direct control of the search page layout and look (To be better defined and verified as a goal)
+- Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be better defined and verified as a goal)
 
 ## Assumptions
 - The current VA.gov on-site search experience is not satisfactory to our users
-- Key "modern" features and functions can be leveraged given VA.gov's API-based implementation with Search.gov
+- Most important modern features and functions can be leveraged using VA.gov's API-based implementation with Search.gov
 
-## Scope 
-- 
+# Requirements
+## In Scope
+- The VA.gov on-site search experience which is used in the modern header of VA properties and powered by Search.gov 
 
-## Solution Approach & Considerations
+## Out of Scope
+- The search experience on any VA-affiliated Websites not using the VA.gov search powered by Search.gov. 
+
+# Discovery
+## Technical
 - On-site Search - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
-   
-
+## User
+- 
 ## Value Propositions
 - Reduces confusion for users navigating throughout the site
 - Improves brand consistency for the VA
