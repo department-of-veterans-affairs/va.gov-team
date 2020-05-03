@@ -32,14 +32,19 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 - Veterans want to skip/avoid reading long pages of content in order to get to their desired outcome.
 - Veterans want to get the most relevant results when they use VA.gov search.
 
-### Business Goals
-- Create a cohesive brand across the VA through direct control of the search page layout and look
-- Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain
+### Product Goals
+- Modernize the on-site search experience on VA.gov with features and functions which enable more directed search (e.g. type-ahead, faceted search, etc.)
+- Make VA.gov on-site search results more relevant
+- Measureably improve customer satifisfaction with VA.gov on-site search
+- Create a cohesive brand across the VA through direct control of the search page layout and look (To be verified as a goal)
+- Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be verified as a goal)
 
 ## Assumptions
-- Capturing click events and sending them back to search.gov will help prioritize indexing
+- The current VA.gov on-site search experience is not satisfactory to our users
+- Key "modern" features and functions can be leveraged given VA.gov's API-based implementation with Search.gov
 
 ## Scope 
+- 
 
 ## Solution Approach & Considerations
 - On-site Search - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
