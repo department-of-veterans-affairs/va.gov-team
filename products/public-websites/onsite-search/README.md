@@ -42,7 +42,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 
 ## Assumptions
 - The current VA.gov on-site search experience is not satisfactory to our users
-- Most important modern features and functions can be leveraged using VA.gov's API-based implementation with Search.gov
+- Most important modern features -- e.g. type ahead, faceted search -- can be leveraged using VA.gov's API-based implementation with Search.gov
 
 # Requirements
 ## In Scope
@@ -54,6 +54,14 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 # Discovery
 ## Technical
 - On-site Search - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
+## Product
+An assessment of the features available for API-based implementations of Search.gov has found that the following capabilities are --  or will soon -- be available: 
+- Type-ahead
+- Spelling suggestions
+- Related searches
+- Event-based advanced analytics
+- Routed queries
+- Faceted search via collections
 ## User
 - 
 ## Value Propositions
