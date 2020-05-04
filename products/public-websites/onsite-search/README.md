@@ -53,7 +53,8 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 
 # Discovery
 ## Technical
-- On-site Search - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
+- Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
+- Search.gov GitHub Repository for VA.gov implementation https://github.com/GSA/search-gov-agency-collaboration
 ## Product
 An assessment of the features available for API-based implementations of Search.gov has found that the following capabilities are --  or will soon -- be available: 
 - Type-ahead
@@ -64,6 +65,14 @@ An assessment of the features available for API-based implementations of Search.
 - Faceted search via collections
 ## User
 - 
+## Analytics
+The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions surround VA.gov on-site search, including:
+
+- How many VA.gov daily visitors use search -- e.g., 2% or more?
+- What are the top search terms/queries overall?
+- What are the top search terms per benefits hub/site category -- Health Care, Disability, Education & Training
+- How many are searching Top Tasks -- e.g. Check your claim or appeal status, Refill and track your prescription
+- Are there any indicators that our search is not fulfilling the users’ needs? 
 ## Value Propositions
 - Reduces confusion for users navigating throughout the site
 - Improves brand consistency for the VA
@@ -71,7 +80,7 @@ An assessment of the features available for API-based implementations of Search.
 - Allows for full stylistic & functional control over the entire page and product
 
 ## KPIs
----
+- 
 
 # Implementation Info
 the search.gov account# for this product is 7378
