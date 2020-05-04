@@ -1,7 +1,7 @@
 # Process for updating Chatbot copy 
 - Ensure that the content has been approved by the Content team
 - Make changes to markdown files in Github
-- Create an issue on Github for one or multiple related edits to the content copy. And tag the issue with the label content_change and attach a severity label to the issue, one amongst Severity 1, Severity 2, Severity 3, Severity 4.
+- Create an issue on Github for one or multiple related edits to the content copy. And tag the issue with the label content_change and attach a severity label to the issue, one amongst Severity 1 - Critical, Severity 2 - High, Severity 3 - Medium, Severity 4 - Low.
 - Any Severity 1 and Severity 2 issues will be attempted to be addressed immediately. 
 - The team will review all content_change issues as part of the regular grooming process and pull them into the team 
 
