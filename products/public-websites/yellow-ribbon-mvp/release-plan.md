@@ -11,7 +11,7 @@ When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
 
 Go Live: 
-- Redirect the 2020 static legacy pages to the new tool
+- Redirect the 2019-2020 static current pages to the new tool
 - Note: we will not be able to redirect previous years
 
 
@@ -40,14 +40,14 @@ We will deploy the new tool to production, test the tool's functionality, design
 At this point, the tool is available but 'hidden' from users unless they have the URL.
 The time needed to conduct this testing is likely just a few minutes.
 
-**Go Live**
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
 - Confirm that analytics are being captured (1-2 days)
 
 ## Go Live
-After we are able to confirm that the tool is live, content changes have been made, anayltics are being captured and the number of searches appears to be on par with the number of unique page views for the top 5 states on the legacy pages:
-- Redirect the 2020 static legacy pages to the new tool
+After we are able to confirm that the tool is live, content changes have been made, anayltics are being captured. 
+Until we apply the redirects, organic traffic will continue to come in to the 2019-2020 static pages. When ready, we will:
+- Redirect the 2019-2020 static pages to the new tool
 - Note: we will not be able to redirect previous years
 
 ### Planning:
