@@ -9,7 +9,7 @@
 #### Defining Goals
 1. What is a goal in Google Analytics?
 
-- A goal is a user transaction on VA.gov--like a form completion or saving a profile section--that is defined as success for your product(s). These can be defined when a user reaches a distinct URL or completes a key event. 
+- A goal is a user transaction on VA.gov--like a form completion or saving a profile section--that is defined as a success for your product(s). These can be defined as when a user reaches a distinct URL or completes a key event. 
 
 2. What is an event in Google Analytics?
 
@@ -42,7 +42,7 @@ In setting up the core Conversion reports, you can’t mix events and URLs to fo
 - You’ll have to share the custom funnel that you’ve built. It does not appear automatically in others’ reports. 
 - Please engage the Analytics-Insights team for further assistance.
 
-7. From a technical implementation, what happens when a user finishes their form?_ For modernized VA.gov forms, several events are triggered:
+7. From a technical implementation, what happens when a user finishes their form? For modernized VA.gov forms, several events are triggered:
   - `<product>--submission`: Measures initial submission; Successes and failures are measured as separate events 
   - `<product>--submission-successful` or `<product>--submission-failed` occurs: One of two events will occur to indicate succcessful submission or failed submission. (e.g.“hca--submission-successful”)
 
