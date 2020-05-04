@@ -4,7 +4,7 @@
 - Slack channel: #vsa-ebenefits
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Staging EBN Apply: https://sqa.eauth.va.gov/wssweb/wss-common-webparts/mvc/ebn/verifyVRE1900Application 
-- Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
+- Form: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/vocational-rehabilitation/
 - VA.gov link (tool page): TBD
 ## WIP
