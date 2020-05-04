@@ -4,6 +4,8 @@
 
 *Audience*: VFS teams requesting a KPI dashboard for their applications.
 
+---
+
 Once you have your product's KPIs, fill out the Github request template (link to be added) with your KPIs linked to the template.
 
 In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **linked to OKRs or product/user goals.** 
