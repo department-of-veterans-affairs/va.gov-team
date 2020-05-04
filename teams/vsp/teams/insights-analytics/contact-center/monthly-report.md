@@ -12,7 +12,7 @@ There are two spreadsheets involved in the monthly reporting process, both locat
   - Update date range in each of the six tabs
   - Open the VA.gov 2020 Issues spreadsheet located on the O drive.
   - Sort by month
-  - Use the 'Countif'Excel function to calculate the separate totals for IRIS and for SalesForce issues.
+  - Use the 'Countif' Excel function to calculate the separate totals for IRIS and for SalesForce issues.
   - Once you have the totals of each system, enter them in the tab labeled Contact Center Summary in the total issues column in monthly reporting shreadsheet.
 
  ### IRIS/SF Issue Breakdown Tab
