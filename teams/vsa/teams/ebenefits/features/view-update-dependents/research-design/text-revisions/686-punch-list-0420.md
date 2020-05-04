@@ -27,15 +27,15 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Address `https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction` failing on refresh/redirect
 
 #### Subway map
-- [ ] Change header to: "Follow the steps below to apply to add or remove a dependent"
-- [ ] Prepare section: all new text per [mocks](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/)
-- [ ] Apply section: all new text per [mocks](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/)
-- [ ] VA review section change to: "We process applications in the order we receive them. We may contact you if we have questions or need more information."
-- [ ] Decision section change to: "You’ll get a notice in the mail once we’ve processed your claim."
+- [x] Change header to: "Follow the steps below to apply to add or remove a dependent"
+- [x] Prepare section: all new text per [mocks](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/)
+- [x] Apply section: all new text per [mocks](https://xd.adobe.com/view/057055ba-4c2b-4367-667b-7d7034cb43b4-7341/)
+- [x] VA review section change to: "We process applications in the order we receive them. We may contact you if we have questions or need more information."
+- [x] Decision section change to: "You’ll get a notice in the mail once we’ve processed your claim."
 
 #### OMB block
-- [ ] Change "OMB Control #: 21-686" to "OMB approved #: 2900-0043"
-- [ ] Change expiration date to: "09/30/2021"
+- [x] Change "OMB Control #: 21-686" to "OMB approved #: 2900-0043"
+- [x] Change expiration date to: "09/30/2021"
 
 ### Checkboxes
 
@@ -144,7 +144,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Confirmation page
 
-- [ ] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
+- [x] All new text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/screen/85157fc6-68fe-4a6b-bc76-b499c56283af/Add-Dependents-Confirmation-1-ALT)
 
 
 
