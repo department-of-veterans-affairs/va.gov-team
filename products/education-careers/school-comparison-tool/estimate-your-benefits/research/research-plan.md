@@ -52,7 +52,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - Mobile: Page, content and new design pattern  	
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
-  - Zoom or WebEx
+  - Zoom (WebEx if needed for mobile testing)
 
 ## Participants and Recruitment	
 
@@ -94,7 +94,7 @@ Login requirements: None
  - 1 hour max.
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
-- Wednesday, May 13th from 8 AM - 6 PM
+- Wednesday, May 13th from 8 AM - 6 PM, excluding 11AM - 12PM
 - Thursday, May 14th from 8 AM - 6 PM, excluding 2 - 3 PM
 - Friday, May 15th from 8 AM - 6 PM
 
