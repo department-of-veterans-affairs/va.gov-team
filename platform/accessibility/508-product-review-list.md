@@ -47,6 +47,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Edu 1995](#edu-1995)
       - [Edu 5495](#edu-5495)
       - [Apply Wizard](#apply-wizard)
+      - [Edu 10203 STEM Benefit Form](#edu-10203-stem-benefit-form)
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
       - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
@@ -68,7 +69,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
       - [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
-      - [GI Bill Comparison Tool STEM Feature](#gi-bill-comparison-tool-stem-feature)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [Open issues](#open-issues-2)
     - [New Project Name](#new-project-name)
@@ -445,6 +445,13 @@ Each application or logical section of the site will have a heading and a detail
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 ---
+#### Edu 10203 STEM Benefit Form
+
+**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
+**No open issues**
+
+
+---
 
 #### Apply Wizard
 
@@ -651,14 +658,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[DOCUMENT]: GIBCT SCO - VA ONCE PDF logo needs alt text - #3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-
----
-
-#### GI Bill Comparison Tool STEM Feature
-
-**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
-**No open issues**
-
 
 ---
 
