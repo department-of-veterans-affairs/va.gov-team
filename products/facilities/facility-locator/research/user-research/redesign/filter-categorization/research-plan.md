@@ -23,13 +23,10 @@ We will be sending an OptimalSort link to Veterans to participate in an unmodera
 We will recruit 30-60 participants representing a population under age 40 yrs and over 60 years, preferably with a mix of urban/rural locations.
 
 **Recruitment strategy** 
-TBD
-
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+We will share the link with Veterans in our internal community.	
 
 ## When? 	
-Timeline: What dates do you plan to do research? 	
-- The card sorting exercise should take participants 10-20 minutes to complete.
+The link for the card sort will be shared out during the week of May 4th. The card sorting exercise should take participants 10-20 minutes to complete.
 
 The card sort link will be tested by a member of the Facility Locator team prior to sending it out.	
 
