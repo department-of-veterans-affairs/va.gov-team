@@ -127,11 +127,11 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 ## OKR's
 Objective: Improve security of Direct Deposit
 
-- OKR: Reduced cases of fraudulent activity
-Bet 1: Add 2FA to Direct Deposit
+OKR: Reduced cases of fraudulent activity
+- Bet 1: Add 2FA to Direct Deposit
 
-- OKR: Increased utilization of direct deposit
-Bet 1: Move Direct Deposit to the Profile
+OKR: Increased utilization of direct deposit
+- Bet 1: Move Direct Deposit to the Profile
 
 
 ## KPIs
