@@ -22,8 +22,8 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Introduction
 
-- [ ] Change signed-in message text to: "**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out."
-- [ ] Change green button text to: "Add or remove a dependent" 
+- [x] Change signed-in message text to: "**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out."
+- [x] Change green button text to: "Add or remove a dependent" 
 - [ ] Address `https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction` failing on refresh/redirect
 
 #### Subway map
