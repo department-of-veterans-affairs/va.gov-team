@@ -4,9 +4,9 @@ WIP
 
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
-Phase 2: Launch Yellow Ribbon Participating Schools page available on production
-- The new tool is available on production, and tested that it works as intended. 
-- When the tool is deployed to production, the tool is available but 'hidden' from users unless they have the URL.
+Phase 2: Launch Yellow Ribbon Participating Schools tool available on production
+- The new tool is available on production and verified.
+- Note: When the tool is deployed to production, the tool is available but 'hidden' from users unless they have the URL.
 - When the tool has been verified: Content changes (removing accordions, replace with link to tool), update entry points and navigation
 
 Go Live: 
@@ -18,14 +18,14 @@ Go Live:
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [April 2020 - 05/01/2020] or [duration]
+- Desired date range or test duration: [April 2020 - 05/01/2020]
 - Desired number of users: Stakeholders for the Yellow Ribbon initiative
 - How you'll recruit the right production test users: VA's Yellow Ribbon contacts
 - How you'll conduct the testing: on staging.va.gov
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Stakeholders have been using staging.va.gov to review the tool
 
 ### Results:
-- Number of users: x
+- Number of users: Stakeholders, PW team
 - Number of bugs identified / fixed: x/x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
@@ -39,13 +39,14 @@ We will deploy the new tool to production, test the tool's functionality, design
 At this point, the tool is available but 'hidden' from users unless they have the URL.
 The time needed to conduct this testing is likely just a few minutes.
 
+
 When the tool has been verified:
-- Content changes (removing accordions, replace with link to tool), update entry points and navigation
+- Content changes (removing accordions, replacements with link to tool), update entry points and navigation
 - Confirm that analytics are being captured (1-2 days)
 
+
 ## Go Live
-After we are able to confirm that the tool is live, content changes have been made, anayltics are being captured. 
-Until we apply the redirects, organic traffic will continue to come in to the 2019-2020 static pages. When ready, we will:
+After we are able to confirm that anayltics are being captured. It is important to note that, until we apply the redirects, we will continue to see organic traffic come in to the 2019-2020 static current pages. When ready, we will:
 - Redirect the 2019-2020 static pages to the new tool
 - Note: we will not be able to redirect previous years
 
