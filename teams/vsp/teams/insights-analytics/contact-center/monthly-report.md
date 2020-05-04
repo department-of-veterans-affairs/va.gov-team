@@ -7,12 +7,12 @@ There are two spreadsheets involved in the monthly reporting process, both locat
 
 
 * ### Contact Center Summary Tab
-- Open the 2020 (_month_) - VA.gov.Contact.center.report located the O drive to find the previous months report.
-- Copy the report and save as.
-- Update date range in each of the six tabs
-- Open the VA.gov 2020 Issues spreadsheet located on the O drive.
-- Sort by month
-- Use the 'Countif'Excel function to calculate the separate totals for IRIS and for SalesForce issues.
+  - Open the 2020 (_month_) - VA.gov.Contact.center.report located the O drive to find the previous months report.
+  - Copy the report and save as.
+  - Update date range in each of the six tabs
+  - Open the VA.gov 2020 Issues spreadsheet located on the O drive.
+  - Sort by month
+  - Use the 'Countif'Excel function to calculate the separate totals for IRIS and for SalesForce issues.
   - Once you have the totals of each system, enter them in the tab labeled Contact Center Summary in the total issues column in monthly reporting shreadsheet.
 
 * ### IRIS/SF Issue Breakdown Tab
@@ -41,3 +41,4 @@ There are two spreadsheets involved in the monthly reporting process, both locat
   - Copy each feedback descrption from the VA.gov 2020 Issues Spreadsheet.
   - Paste the details in the corresponding space in the monthly report spreadsheet in the feedback tab.
     
+Once all information is gathered share out through the #vfs-analytics slack channel.
