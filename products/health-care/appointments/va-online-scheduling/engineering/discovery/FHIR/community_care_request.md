@@ -37,10 +37,3 @@ Status: In progress
 
 - Will we still need to include the VA organization?
 - We currently allow you to omit the provider and also for users to enter the details on their own. Is that supported?
-- How do we specify a slot, since this is a request, not a self-schedule?
-- Does user generated messaging go in Appointment.comment?
-- How do we distinguish between sending a request or self-schedule appointment?
-- How do we distinguish between sending a CC or VA request?
-- Do we need to include the current patient as a participant?
-- How can a user update their contact details for an appointment/request?
-  - This is done through the preferences service now
