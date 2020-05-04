@@ -23,5 +23,10 @@ Status: Blocked by outstanding questions
 - We're not fetching these types now
 
 ## Outstanding questions
+- What is the HealthcareService.type mapping to the current types of care?
+
+### Answered questions
 - How are stop codes used in VSP?
+  - Stop codes combinations will be mapped to serviceType on HealthcareService, which will map to our existing types of care in some way
 - Will we be able to only show Locations that support given types of care with VSP?
+  - Yes, we will be able to do this through collecting the Locations included on a HealthcareService search
