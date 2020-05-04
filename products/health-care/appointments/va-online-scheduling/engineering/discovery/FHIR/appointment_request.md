@@ -41,7 +41,6 @@ Status: Blocked by questions
 
 ## Outstanding questions
 
-- What resources do we need to use in the FHIR flow for appointment requests?
 - How can we determine what Locations support requests for a given type of care
    - Support meaning that they're enabled in VATS, the patient meets the past visit criteria, and they are not over the request limit
 - Does user generated messaging go in Appointment.comment? Or some other field?
