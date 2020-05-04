@@ -18,7 +18,7 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 - [Method](#method)
 - [Participants and Recruitment](#participants-and-recruitment)
 - [Timeline](#timeline)
-- [Team Member Roles](team-member-roles)
+- [Team Members](team-members)
 - [Resources](#resources)
 - [References](#references)
 
