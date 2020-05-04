@@ -29,6 +29,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Requirements](#requirements)
 - [Solution Approach](#solution-approach)
+- [OKRs]($okrs)
 - [KPIs](#kpis)
 
 # Implementation Information
