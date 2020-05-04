@@ -165,6 +165,7 @@ Upon completion of task:
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
 -	Any questions for me?
+- I want to give a chanced to the other people on the line to ask a question.
 
 ## Thank-You and Closing - 3 minutes
 
