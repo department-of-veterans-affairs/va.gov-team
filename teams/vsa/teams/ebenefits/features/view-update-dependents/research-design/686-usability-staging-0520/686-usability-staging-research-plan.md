@@ -30,33 +30,33 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Determine expected usage scenarios and frequency
  - Determine if users can easily understand the a-la-carte selection of vearious workflows (checkboxes)
  - Determine if users understand the form-within-form nature of the 21-686c and 21-674
- - Observe whether can access the 674-only workflow
 
 #### Decide what support users need to navigate and successfully submit the form
+ - Determine if introduction text is clear and complete
  - Determine what instructions, guidance and examples will be helpful within form workflows
  - Observe whether section and subsection headers, and labeling are clear and helpful
- - Assess users' acceptance and understanding of upload mechanism and requirements
- - Determine if users quickly understand the different "add" and "remove" scenarios
+ - Assess users' understanding and acceptance of "tell-me-more" accordions
 
 #### Determine if users identify cases requiring additional documentation
- - Confirm that introductory text informs users regarding upload requirements
+ - Confirm that introductory text informs users about upload requirements
  - Determine if users understand the scenarios/workflows where additional information is needed
  - Assess users' understanding of the upload process, and it's placement within workflows
 
 #### Discover any problems that arise from longer/complicated chapter combinations
- - Assess user acceptability of add-spouse marriage history sections
- - Determine potential issues with add-spouse and report-divorce workflow combinations
- - Determine if the overall length of add-spouse/add-child/add-student combo is acceptable
+ - Determine potential issues with add-spouse/report-divorce workflow combinations
+ - Determine potential issues with add-spouse/add-child workflow combinations
+ - Determine potential issues with add-child/add-student workflow combinations
+ - Determine potential issues with report-divorce/remove-stepchild workflow combinations
  - Note any potential problems with list/loop feature
  - Assess user acceptance of various "remove" workflows
 
 ### Hypotheses
 The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
 
- - Users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once.
- - Users will require clatification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.
- - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form. 
- - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
+ - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
+ - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
+ - User acceptance and understanding fo the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
+ - Users will understand and accept the longer workflows; list/loop may create some confusion (odd button sequences); divorce and stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
 
 ### Research questions
 1. In what section VA.gov would users expect to find the 21-686c? How would they navigate there?
