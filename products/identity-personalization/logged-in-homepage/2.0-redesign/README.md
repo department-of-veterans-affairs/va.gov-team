@@ -28,6 +28,7 @@
 - [Assumptions](#assumptions)
 - [Questions](#questions)
 - [Solution Approach](#solution-approach)
+- [OKRs](#okrs)
 - [KPIs](#kpis)
 
 # Implementation Information
@@ -118,6 +119,23 @@ Additionally:
 
 - We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
+
+## OKRs
+
+Objective: Create a usable/scalable landing pad for users (ie. logged-in homepage) where they can manage their tools/tasks in once place
+
+OKR: Increased use of online tools
+- Bet 1: Retire existing My VA dashboard
+- Bet 2: Create adaptable Logged-In homepage to accompany other user roles and permissions once VA.gov is able to support   them.
+- Bet 3: Create personalized experience where tools/tasks most important and relevant to users are on the dashboard.
+
+OKR: Increased satisfaction with logged-in homepage (Forsee data)
+- Bet 1: Elevate contextually relevant information
+- Bet 2: Alert Veterans to benefits they qualify for
+- Bet 3: Updating design patterns to better suite authenticated tools
+ 
+OKR: Improved/faster navigation to online tools
+- Bet 1: Provide personalized tasks/tools 
 
 ## KPIs
 
