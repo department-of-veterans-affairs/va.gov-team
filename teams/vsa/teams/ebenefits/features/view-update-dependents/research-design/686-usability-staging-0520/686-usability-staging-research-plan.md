@@ -23,12 +23,12 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 - [References](#references)
 
 ### Goals
-The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimizepotential  confusion and consolidate the form's flow.
+The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimize potential  confusion and consolidate the form's flow.
 
 #### Determine if users understand and accept the multi-purpose nature of the form
  - Uncover user-expected flows to the 21-686 form
  - Determine expected usage scenarios and frequency
- - Determine if users can easily understand the a-la-carte selection of vearious workflows (checkboxes)
+ - Determine if users can easily understand the a-la-carte selection of various workflows (checkboxes)
  - Determine if users understand the form-within-form nature of the 21-686c and 21-674
 
 #### Decide what support users need to navigate and successfully submit the form
@@ -70,15 +70,15 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
 Additional Questions
 
-9. What are users' experiences with dependents on ther VA benefit and the current 21-686c (paper, digital, VSO, etc.)?
+9. What are users' experiences with dependents on there VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
 10. What workflow combinations (scenarios) do users consider likely? 
   
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
- - Will users understand and accept the checkbox selection of various workflows
- - What guidance (intructional text, headers, etc.) will users need to support successful completeion of the form
- - How will users react to the long, potentially emotional add-spouse workflow
- - Are there any workflow combinations that would be problematic for users
+ - Will users understand and accept the multi-purpose nature of the form
+ - What guidance (instructional text, headers, etc.) will users need to support successful completion of the form
+ - Will users understand when additional information is required; and how to upload it
+ - Are there any workflow combinations that would be problematic for users due to length and/or imformation detail required
 
 ### Method
 Usability testing will be conducted remotely using Zoom or GoToMeeting. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
