@@ -634,8 +634,6 @@ Each application or logical section of the site will have a heading and a detail
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
 **Opened:** April 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT - CONSIDER updating abbreviations for more clarity and understanding - #7990](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7990)<br/>
-**Opened:** April 14, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 ---
 
