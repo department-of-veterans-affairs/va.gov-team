@@ -40,6 +40,7 @@ Last Updated December 10, 2019
 - [Discovery Takeaways](#discovery-takeaways)
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
+- [OKRs](#okrs)
 - [KPIs](#kpis)
 
 # Implementation Information
