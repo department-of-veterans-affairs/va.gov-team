@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS:** IN PROCESS
+**STATUS:** IN PROGRESS
 
 **Team:** Benefits & Memorials 2
 
