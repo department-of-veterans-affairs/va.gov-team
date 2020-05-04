@@ -101,6 +101,23 @@ We expect to see the following:
 - Implement a secure address change feature for the user in the user profile section.
 - Test Test Test
 
+## OKRs
+Objective: Reduce mailing issues and improve data quality
+
+OKR: Decreased returned mail and calls to the VA contact center (data not readily available)
+- Bet 1: Implement Address Validation
+
+OKR: Decrease in save errors and 
+- Bet 1: Implement Address Validation
+
+OKR: Improved address data quality
+- Bet 1: Implement suggested addresses
+
+
+
+
+
+
 ## KPIs
 
 ### Objectives & Tracking
