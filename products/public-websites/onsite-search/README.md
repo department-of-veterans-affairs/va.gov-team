@@ -24,6 +24,12 @@
 - [Testing](#testing)
 - [Keywords](#keywords)
 
+## North Star
+Providing a first-class, modern on-site search tool for Veterans is completely in alignment with our North Star goals of:
+- Increase the use of self-service tools, focusing on services most important to Veterans.
+- Decrease the time users spend waiting for an outcome.
+- Consistently deliver a satisfying, reliable, and secure online experience.
+
 ## User Problem Statement
 As a Veteran, I am able to find the information I need to on the VA.gov Website (Desktop and Mobile) as quickly and easily as possible using the search feature.
 
