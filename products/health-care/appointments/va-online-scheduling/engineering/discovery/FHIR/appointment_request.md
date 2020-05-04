@@ -41,9 +41,16 @@ Status: Blocked by questions
 
 ## Outstanding questions
 
-- Does user generated messaging go in Appointment.comment?
-- How do we distinguish between sending a request or self-schedule appointment?
+- What resources do we need to use in the FHIR flow for appointment requests?
+- How can we determine what Locations support requests for a given type of care
+   - Support meaning that they're enabled in VATS, the patient meets the past visit criteria, and they are not over the request limit
+- Does user generated messaging go in Appointment.comment? Or some other field?
+- How do we distinguish between sending a request or self-schedule appointment? The status?
+- It's been mentioned that requests are submitted using the requested periods extension. Is there documentation for that?
+   - Does it support multiple requested periods?
+- Do we need to include the current patient as a participant when creating a request?
+- Currently the front end updates contact information on each request submission, which affects contact info used in Scheduling Manager. Is this functionality captured in EAS/VSP?
+
+### Answered questions
 - How do we distinguish between sending a CC or VA request?
-- Do we need to include the current patient as a participant?
-- How can a user update their contact details for an appointment/request?
-  - This is done through the preferences service now
+  - The location participant
