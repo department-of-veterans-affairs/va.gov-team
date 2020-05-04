@@ -41,4 +41,4 @@ There are two spreadsheets involved in the monthly reporting process, both locat
   - Copy each feedback descrption from the VA.gov 2020 Issues Spreadsheet.
   - Paste the details in the corresponding space in the monthly report spreadsheet in the feedback tab.
     
-Once all information is gathered share out through the [#vfs-analytics] slack channel.
+Once all information is gathered share out through the (#vfs-analytics) slack channel.
