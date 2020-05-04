@@ -63,6 +63,9 @@ An assessment of the features available for API-based implementations of Search.
 - Event-based advanced analytics
 - Routed queries
 - Faceted search via collections
+
+While the VA.gov content team is currently utilizing the "best bets" features, this effort will encompass an effort to better leverage this feature as well.
+
 ## User
 - 
 ## Analytics
