@@ -1,8 +1,8 @@
-# IA Reviews
+# Veteran Facing Services IA Work
 
 List of projects with final and in progress IA work. If your team/work is not listed below and it should be, reach out to the Content and IA team.
 
-## Current Reviews
+## Current IA Work
 
 Team | Project | IA Work Status | Status Notes 
 --- | --- | --- | --- 
