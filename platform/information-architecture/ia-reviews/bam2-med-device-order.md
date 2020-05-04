@@ -54,6 +54,11 @@ Must | Search best bets | www.va.gov/health-care/order-prosthetic-socks/ | - Upd
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
+**Note regarding crosslinking within Disability**
+- Research synthesis indicates that some participants felt this order form should also be linked to from Disability
+- At this time, links within the hub pages and left nav are slotted for content that is directly related to applying for and managing Disability benefits, and therefore there isn't a standard place to provide cross-linking in those key navigational areas.
+- Cross-linking could be provided within body copy of applicable pages, but keep in mind that the Veteran must have health care benefits to utilize the order forms. This can be discussed with the content experts to identify where cross-linking for this might make sense. 
+
 <hr>
 
 
