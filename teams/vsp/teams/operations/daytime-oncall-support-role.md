@@ -44,6 +44,10 @@ Unless it's an emergency, waiting until standup to discuss assignments for reque
 
 At the end of the rotation, the developer should unassign themselves from the two Super Epics.
 
+### IAM Activity Audit
+
+A Lambda function runs Monday-Friday @ 11am Eastern to check for IAM users reaching the max limit of inactivity (90 days) for ATO compliance. If there are no users reaching that limit, the function will not post to Slack. If there are users close to that limit a bot user will post a message in #vsp-operations with those users/usernames. Reply to the thread if this occurs CC'ing the owner(s) of the offending user account(s). If the user(s) no longer require the account(s) or do not plan to keep the activity refreshed, we can then remove the user(s) via Terraform [here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). If the user(s) do intend to keep the account, inform them that the account could be subject to being disabled if the activity is not reset before the 90 day mark.
+
 ### Pull Requests
 
 Your Github team notification and #vsp-operations channel can be used to track PRs that need to be reviewed. 
