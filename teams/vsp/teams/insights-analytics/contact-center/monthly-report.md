@@ -1,7 +1,7 @@
-* ## Monthly Contact Center Report
+* ##Monthly Contact Center Report
 
 
-* ### Contact Center Summary
+* ###Contact Center Summary
 - From the VA Network locate the O drive to find the previous months report.
   - 2020 February - VA.gov.Contact.center.report
 - Copy the report and save as.
@@ -28,7 +28,7 @@
     tab in the Monthly report spreadsheet.
   - Follow the same steps for the second system
   
-  * ### Feedback
+  * ###Feedback
   - Use the same steps above to seperate the feedback issues.
   - Copy each feedback descrption from the VA.gov 2020 Issues Spreadsheet.
   - Paste the details in the corresponding space in the monthly report spreadsheet in the feedback tab.
