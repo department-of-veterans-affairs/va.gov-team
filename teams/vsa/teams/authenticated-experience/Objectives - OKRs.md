@@ -11,7 +11,7 @@ North Star: Decreased time to find and complete tasks
 Objective: Improve security of Direct Deposit 
 OKR: Reduced cases of fraudulent activity
     Bet 1: Add 2FA to Direct Deposit
-OKR: Increased utilization of direct deposit
+OKR: Increased utilization of direct deposit 
     Bet 1: Move direct Deposit to the Profile
 
 Objective: Reduce mailing issues and improve data quality
@@ -28,8 +28,6 @@ OKR: Decreased time to complete tasks
     Bet 2: Updating the design to fit the design system
     Bet 3: Improve information architecture
  
-
-
 
 Objective: Create a usable/scalable landing pad for users (ie. logged-in homepage) where they can manage their tools/tasks in once place
 OKR: Increased use of online tools
