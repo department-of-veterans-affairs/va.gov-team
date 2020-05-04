@@ -73,6 +73,6 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
    - Unknown, but we can figure this out through testing
 - Canceling requests will take one api call per timeslot?
    - Request flow is unknown currently
-- Does the comments field mean patient comments, and does it have a character limit?
+- Does the current booking notes field map to comments? Or some other field?
 - Would we also need to fetch a Patient reference for contact info?
    - Request system/flow is unknown, so we don't know where contact info is coming from
