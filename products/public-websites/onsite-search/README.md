@@ -78,7 +78,7 @@ As part of the Product discovery process, we will take a more holistic and expan
 ## User
 - 
 ## Analytics
-The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions surround VA.gov on-site search, including:
+The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions related to VA.gov on-site search, including:
 
 - How many VA.gov daily visitors use search -- e.g., 2% or more?
 - What are the top search terms/queries overall?
