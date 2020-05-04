@@ -124,6 +124,23 @@ As the authenticated experience team, we want to be able to do the following:
 2. The profile should feel more personalized, making veterans feel "seen" by the VA.
 3. This new approach should allow us to easily scale the profile as new sections are added/needed.
 
+## Objectives and OKRs
+Objective: Create a Profile experience that makes it easier to find tools and complete tasks
+
+- [Address Validation KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/product-outline.md#kpis)
+- [Address Validation Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/RCgGG1xYQtmqUXZda2yGOw/a50123418w177519031p176188361/)
+- [Direct Deposit KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit#kpis)
+- [Direct Deposit Analytics](https://analytics.google.com/analytics/web/#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/_u.date00=20191101&_u.date01=20200428/)
+
+OKR: Decreased time to find update personal/contact/Direct Deposit information
+- Bet 1: Combine Profile and Account pages
+
+OKR: Decreased time to complete tasks
+- Bet 1: Create side-nav menu
+- Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
+- Bet 3: Improve the information architecture
+
+
 ## KPIs
 
 - Can people find what they need more easily?
