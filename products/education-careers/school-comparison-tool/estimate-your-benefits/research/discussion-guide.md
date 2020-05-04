@@ -72,13 +72,14 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
 
-You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending University of California Berkeley?
+You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending University of California-Berkeley?
 
 _Potential prompt:_ Let's say you were interested in taking classes at this school remotely, how would you go about incorporating that information?  
 
 Things to watch for:
 - How does the user select the school (School name or View Details)?
 -	Where does the user initially look for their benefit information?
+- How often and after what actions are users viewing “Estimate your benefits” panel to track changes there?
 
 Accordions
 - Does the user engage with the accordions without prompting? 
@@ -109,21 +110,24 @@ Upon completion of task:
 - Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
+- Mobile: What do users think of the size of the expanded sheet (e.g. too big, too small)?
 
 ## Second Task: Ivy League school - 10 minutes (Desktop Non-Assistive ONLY)
 
 You know that the Post 9/11 GI Bill covers Ivy League schools and you want to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice (e.g. Brown University, Harvard, Yale, Dartmouth) and see what benefits you would receive at these institutions.
 
   - How do the benefits at this school compare to what you'd get at UNIVERSITY OF CALIFORNIA-BERKELEY?
+  - How often and after what actions are users viewing “Estimate your benefits” panel to track changes there?
 
 ## Third Task: OJT or VET TEC - 10 minutes
 OJT - A friend of yours has told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  What benefits would you receive if you trained with this employer?
 
-VET TEC - A friend of yours has told you that **GALVANIZE INC** has a VET TEC program in San Francisco, CA for data science.  What benefits would you receive if you took this program?
+VET TEC - A friend of yours has told you that **GALVANIZE INC** is a VET TEC training provider with a program in San Francisco, CA for data science.  What benefits would you receive if you took this program?
 
 Things to watch for:
 - How does the user navigate to this program/employer?
 -	What, if any, fields do they change within the EYB section?
+- How often and after what actions are users viewing “Estimate your benefits” panel to track changes there?
 
 Upon completion of task: 
 - How did you think that went? 
@@ -136,6 +140,7 @@ Upon completion of task:
 - Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
 - Mobile: When do you think that pop-up/sheet should appear?  When should it disappear?
+- Mobile: What do users think of the size of the expanded sheet (e.g. too big, too small)?
 
 ## Fourth Task: Benefits Change - 5 minutes (Optional)
 
