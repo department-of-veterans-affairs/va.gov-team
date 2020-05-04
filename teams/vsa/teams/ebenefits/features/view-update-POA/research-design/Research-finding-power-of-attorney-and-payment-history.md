@@ -60,7 +60,7 @@ We used GoToMeetings to conduct remote directed interviews regarding the Power o
 ### Power of Attorney Findings
 - All participants preferred completing the Power of Attorney form with their chosen representative present.
 - Participants found the legal instructions confusing and unhelpful. They would prefer a plain english summary to the legal text.
-- The form's structure confused the veterans. 
+- Veterans were confused by the form's structure and goals and felt like they wanted more context around the purpose of the form adn what steps they would be going through.
 - Veterans felt the search feature lacked key decision information. Most veterans wanted the table to display:
   - Distance & location of the representatives from their home,
   - The representative's name,
