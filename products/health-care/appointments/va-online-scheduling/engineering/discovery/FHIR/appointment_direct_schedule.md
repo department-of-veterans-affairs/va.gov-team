@@ -36,4 +36,7 @@ N/A
 - Will this update user preferences (i.e. contact info)?
 - Do we need to send appointment type?
 - Do we send a slot reference, or a start/end time?
+
+### Answered questions
 - Do we need to send additional clinic info, or just a reference?
+   - We would send a HealthcareService reference
