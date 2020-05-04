@@ -1,5 +1,5 @@
 
-# Search Product Outline - VA.gov  
+# On-Search Product Outline - VA.gov (WIP)
 
 ## Communications
 - GitHub Label: search
@@ -80,12 +80,13 @@ The Analytics team is conducting a gap research spike (https://github.com/depart
 - Allows for full stylistic & functional control over the entire page and product
 
 ## KPIs
-- 
+- TBD
 
 # Implementation Info
 the search.gov account# for this product is 7378
 
 ## Solution Narrative
+
 ### Technical Decisions
 
 ## Service Level Objectives (SLOs)
