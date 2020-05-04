@@ -35,8 +35,15 @@ See documention on FHIR search http://hl7.org/fhir/search.html
 N/A
 
 ## Outstanding questions
+
+- The front end uses the friendly name and falls back to the regular clinic name if that doesn't exist. How are the two names being mapped to HealthcareService?
+
+### Answered questions
+
 - Can the type "CodeableConcept" be used to model
   - primaryStopCode
   - secondaryStopCode
   - directSchedulingFlag (Unknown)
   - displayToPatientFlag
+
+It looks like these will be mapped to characteristics, though the front end doesn't use them directly and it shouldn't matter to us.
