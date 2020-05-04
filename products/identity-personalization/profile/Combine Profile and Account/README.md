@@ -125,7 +125,7 @@ As the authenticated experience team, we want to be able to do the following:
 2. The profile should feel more personalized, making veterans feel "seen" by the VA.
 3. This new approach should allow us to easily scale the profile as new sections are added/needed.
 
-## Objectives and OKRs
+## OKRs
 Objective: Create a Profile experience that makes it easier to find tools and complete tasks
 
 - [Address Validation KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/product-outline.md#kpis)
