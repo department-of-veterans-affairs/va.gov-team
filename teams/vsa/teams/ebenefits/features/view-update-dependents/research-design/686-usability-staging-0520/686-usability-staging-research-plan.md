@@ -8,7 +8,7 @@
 #### Background
 VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add or remove dependents from their disability claim. Including the 21-674, the "686" supports eight discrete workflows When deployed to VA.gov, it will be one of the longer, more complex forms on the site. The new 686 was designed and developed using the conventions and constraints of the VA.gov form system. 
 
-Usability testing was conducted using prototypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deployed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
+Usability testing was conducted using prototypes in [February, 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220) Follow-up testing on the form as developed and deployed to VA.gov staging will be critical to uncovering potential problems in the "live" product--and testing will be valuable in highlighting the path to optimizing user satisfaction and overall form performance.
 
 ## Table of contents
 - [Goals](#goals)
@@ -23,14 +23,13 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 - [References](#references)
 
 ### Goals
-The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
+The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimizepotential  confusion and consolidate the form's flow.
 
-#### Determine if the checkbox selection is an acceptable way for users to enter the form
- - Determine typical usage scenarios and frequency
+#### Determine if users understand and accept the multi-purpose nature of the form
  - Uncover user-expected flows to the 21-686 form
- - Assess ease of entry from introduction page to the 21-686c form itself
- - Determine if users can differentiate purposes of 21-686c from 21-674
+ - Determine expected usage scenarios and frequency
  - Determine if users can easily understand the a-la-carte selection of vearious workflows (checkboxes)
+ - Determine if users understand the form-within-form nature of the 21-686c and 21-674
  - Observe whether can access the 674-only workflow
 
 #### Decide what support users need to navigate and successfully submit the form
@@ -39,10 +38,10 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess users' acceptance and understanding of upload mechanism and requirements
  - Determine if users quickly understand the different "add" and "remove" scenarios
 
-#### Confirm the proper "chaptering" of the various business workflows
- - Assess whether users can differentiate individual sections
- - Confirm that current form sections are appropriate alone and in a series
- - Determine if the accordions in the confirmation sections are manageable for users
+#### Determine if users identify cases requiring additional documentation
+ - Confirm that introductory text informs users regarding upload requirements
+ - Determine if users understand the scenarios/workflows where additional information is needed
+ - Assess users' understanding of the upload process, and it's placement within workflows
 
 #### Discover any problems that arise from longer/complicated chapter combinations
  - Assess user acceptability of add-spouse marriage history sections
@@ -61,7 +60,7 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
 ### Research questions
 1. In what section VA.gov would users expect to find the 21-686c? How would they navigate there?
-2. Are the form instructions clear and complete?
+2. Are the form instructions clear and complete? Will users know what documents and info they will need to complete the form?
 3. Do participants understand how the 21-686c works as a multi-purpose form?
 4. What are the "sticking points" in the various form workflows? What workflow combinations cause users problems (add-spouse/add-child, add-child/add-student, add spouse/report divorce)?
 5. Where do users need examples, more guidance or improved section headers as they interact with the form?
