@@ -66,8 +66,13 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 
 ## Outstanding questions
 - How can we tell if something is a CC or VA appointment?
+   - CC appointments will have a different Location than VA appointments
 - Can we use `_include` to pull in Location references?
+   - Yes, this will be supported
 - Do we need to send the whole appointment object to cancel?
+   - Unknown, but we can figure this out through testing
 - Canceling requests will take one api call per timeslot?
+   - Request flow is unknown currently
 - Does the comments field mean patient comments, and does it have a character limit?
 - Would we also need to fetch a Patient reference for contact info?
+   - Request system/flow is unknown, so we don't know where contact info is coming from
