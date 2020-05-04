@@ -4,7 +4,8 @@
 VA.gov utilizes the premium version of Google Analytics (also known as Google Analytics 360) and Google Tag Manager, a tag management platform, to measure and provide insights on the site’s attribution, behavior, and conversion. 
 
 Collaboration between the Analytics-Insights VFS teams is important for ensuring that key site transactions and other user interactions are defined, implemented, and quality checked prior to launch. This data is pulled into Google Analytics by pushing a set of dataLayer events via the front-end code. This code is then translated by Google Tag Manager into a readable format for end-users of Google Analytics. 
-When to Request an Analytics Review
+
+### When to Request an Analytics Review
 
 #### Discovery Phase: 
 We encourage you to engage with the Analytics-Insights team as early as possible. There are two key events where you’ll engage with us during this phase.
@@ -24,7 +25,7 @@ We encourage you to engage with the Analytics-Insights team as early as possible
 
 ### Next Steps
 
-**Step 1:Complete an Analytics Implementation Request**
+**Step 1: Complete an Analytics Implementation Request**
 
 To kickoff the Discovery Phase, you can request assistance using the Analytics Implementation request ticket on GitHub. We ask that you input the objectives and definition of success, wireframes, and information architecture. We will review, and if further clarification is necessary, we will establish a :30-session discovery kickoff call.
 
@@ -57,7 +58,9 @@ Look for any issues or outages in data and report them to the VSP Analytics-Insi
 
 - A steep increase in metrics not related to outreach efforts
 - A steep decrease or zeroing of metrics
-- Notify VSP Analytics & Insights on future iterations. Changes might include:
+
+Notify VSP Analytics & Insights on future iterations. Changes might include:
+
 - New success or error states
 - New URL structure
 - Additional features for your product, including new steps within the flow
