@@ -656,12 +656,8 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool STEM Feature
 
-**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.
-
-**Open issues**
-
-- [[COGNITION]: Does the visual representation of STEM question responses belong on the application review screen? - #6545](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6545)<br/>
-**Opened:** March 4, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+**Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
+**No open issues**
 
 
 ---
