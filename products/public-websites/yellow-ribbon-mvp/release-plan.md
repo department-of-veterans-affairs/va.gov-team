@@ -4,10 +4,13 @@ WIP
 
 Phase 1: Yellow Ribbon Participating Schools page available for Stakeholders' UAT/Feedback on staging
 
-Phase 2/Go Live: Launch Yellow Ribbon Participating Schools page available on production
-The new tool is available on production, and tested that it works as intended. At this point, the tool is available but 'hidden' from users unless they have the URL.
+Phase 2: Launch Yellow Ribbon Participating Schools page available on production
+The new tool is available on production, and tested that it works as intended. 
+When the tool is deployed to production, the tool is available but 'hidden' from users unless they have the URL.
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
+
+Go Live: 
 - Redirect the 2020 static legacy pages to the new tool
 - Note: we will not be able to redirect previous years
 
@@ -30,7 +33,7 @@ When the tool has been verified:
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing + "Go Live"
+## Phase II: unmoderated production testing
 
 **Production testing**
 We will deploy the new tool to production, test the tool's functionality, design is as expected. 
@@ -40,6 +43,10 @@ The time needed to conduct this testing is likely just a few minutes.
 **Go Live**
 When the tool has been verified:
 - Content changes (removing accordions, replace with link to tool), update entry points and navigation
+- Confirm that analytics are being captured (1-2 days)
+
+## Go Live
+After we are able to confirm that the tool is live, content changes have been made, anayltics are being captured and the number of searches appears to be on par with the number of unique page views for the top 5 states on the legacy pages:
 - Redirect the 2020 static legacy pages to the new tool
 - Note: we will not be able to redirect previous years
 
