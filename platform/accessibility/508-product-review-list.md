@@ -228,6 +228,7 @@ Each application or logical section of the site will have a heading and a detail
 
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[CI/CD]: Continue exploration of description list refactoring for all-claims accessibility checks - #8595](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8595)<br/>**Production** | **Opened:** April 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests - #7319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
   **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
