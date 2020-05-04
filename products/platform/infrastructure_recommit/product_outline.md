@@ -95,6 +95,7 @@ Demo repo:
 [Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3463)
 - Local and Playground Buildout  [#6541](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6541) 
    - [Demo half way through](https://zoom.us/rec/share/-_xNdb_K2FtOXreS0R6GdYp4PNncT6a80CRIqfYPzRrm020BlXwsiu88KG26802f)
+   - [Playground and Vault](https://dsva.slack.com/archives/CJRQ85PQB/p1588194981383300)
 - Dev, Stage, & Prod Buildout
 - New Services
 - Service Migrations
