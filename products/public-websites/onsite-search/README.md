@@ -69,8 +69,7 @@ An assessment of the features available for API-based implementations of Search.
 - Event-based advanced analytics (via js code snippet)
 - Routed queries
 - Faceted search via collections
-
-While the VA.gov content team is currently utilizing the "best bets" features, this effort will encompass an effort to better leverage this feature as well.
+- Improved use of Best Bets
 
 As part of the Product discovery process, we will take a more holistic and expansive look at broader on-site search trends and features to ensure we consider all best practices.  Examples include:
 - Search Engine Result Page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
