@@ -44,7 +44,10 @@ Status: Blocked by questions
 ## Outstanding questions
 
 - How can we get the timezone for a Location?
-- How do we get request/direct scheduling supported flag information?
 - Sometimes there are five digit "parent" VAMCs, are those considered Organizations or Locations?
+
+### Answered questions
+- How do we get request/direct scheduling supported flag information?
+   - This will be incorporated into the HealthcareService logic, we will have to pull Locations out of the valid HealthcareServices we get back
 - Do we have different fields for friendly vs institution name?
    - No, based on loking at the Organization and Location responses in staging
