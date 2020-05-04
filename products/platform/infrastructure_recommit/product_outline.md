@@ -80,6 +80,16 @@ We will work in a discovery sprint then four different phases:
 - Implementation
 	- Build or overhaul infrastructure and processes using iterated design. Adjust services to use it, removing old stuff along the way. 
 	-  Incorporate Focus group to solicit feedback and iterate 
+	
+	
+Repos:
+- https://github.com/department-of-veterans-affairs/vsp-infra-local
+- https://github.com/department-of-veterans-affairs/vsp-infra-ami
+- https://github.com/department-of-veterans-affairs/vsp-infra-playground
+- https://github.com/department-of-veterans-affairs/vsp-infra-deployer
+
+Demo repo:
+- https://github.com/department-of-veterans-affairs/vsp-infra-demo
 
 ## Implementation Milestones
 [Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3463)
@@ -114,6 +124,7 @@ We will work in a discovery sprint then four different phases:
 - *2/21/2020*: Internal diagrams and team discussions
 - *2/27/2020*: Ops team using and demoing sample app
 - *3/2/2020*: Focus group meeting and demo  
+- *4/2020*: Local playground build starting 
 
 
 ### Current Status
