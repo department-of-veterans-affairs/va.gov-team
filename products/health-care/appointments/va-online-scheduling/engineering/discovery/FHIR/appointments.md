@@ -65,6 +65,10 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Location data not necessarily included inline
 
 ## Outstanding questions
+- Does the current booking notes field map to comments? Or some other field?
+
+### Answered questions
+
 - How can we tell if something is a CC or VA appointment?
    - CC appointments will have a different Location than VA appointments
 - Can we use `_include` to pull in Location references?
@@ -73,6 +77,5 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
    - Unknown, but we can figure this out through testing
 - Canceling requests will take one api call per timeslot?
    - Request flow is unknown currently
-- Does the current booking notes field map to comments? Or some other field?
 - Would we also need to fetch a Patient reference for contact info?
    - Request system/flow is unknown, so we don't know where contact info is coming from
