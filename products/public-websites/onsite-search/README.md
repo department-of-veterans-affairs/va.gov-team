@@ -60,7 +60,7 @@ An assessment of the features available for API-based implementations of Search.
 - Type-ahead
 - Spelling suggestions
 - Related searches
-- Event-based advanced analytics
+- Event-based advanced analytics (via js code snippet)
 - Routed queries
 - Faceted search via collections
 
@@ -76,6 +76,7 @@ The Analytics team is conducting a gap research spike (https://github.com/depart
 - What are the top search terms per benefits hub/site category -- Health Care, Disability, Education & Training
 - How many are searching Top Tasks -- e.g. Check your claim or appeal status, Refill and track your prescription
 - Are there any indicators that our search is not fulfilling the users’ needs? 
+
 ## Value Propositions
 - Reduces confusion for users navigating throughout the site
 - Improves brand consistency for the VA
