@@ -1,24 +1,31 @@
-# VAFS/RJSF Recipes & Best Practices
+# VAFS/RJSF Recipes
+The VA Forms System (VAFS) is built upon the VA fork of react-json-schema-form (RJSF). Here is VSA's set of internal guidelines and patterns for common yet more advanced forms you may need to create using VASF/RJSF.
 
-The VA Forms System (VAFS) is built upon the VA fork of react-json-schema-form (RJSF). Here is VSA's set of internal guidelines and recipies for common yet more advanced forms you may need to create using VASF/RJSF. The recipies are organized by the form 'task' you are trying to achieve. 
+## Contents
 
-## Style and Organization
+### Patterns
+Pattern  | Category | Rating* | Description
+--- | --- | --- | ---
+[Recommended&nbsp;Code&nbsp;Structure](./code_structure.md) | Style | Recommended | A way to organize your code so that it is easy to maintain.
+[Using a Constants File](./constants.md) | Style | Optional | Using a central file for all the variables you will use over and over again.
+[List Loop](./list_loop.md) | Implementation | Recommended | This is needed to build a form that allows a user to input a few items and a separate page for each of those items to enter more information about that respective item.
+[Custom React Component: Simple Case](./custom_component_simple.md) | Implementation | Workaround | Update form state with an onChange handler within a custom React component.
+[Custom React Component: Multiple/Complex](./custom_component_multiple.md) | Implementation | Workaround | Using a custom React component requires that you pass in the form's schema for that component (map a small slice of form state to the component). In this scenario, we use the same component twice and we pass in a different instance of the schema to each instance of the component. Since each instance only has access to its own individual schema/form state, we are using Redux in order for our instances to see each other's form state.
 
-- [Recommended Code Structure](./code_structure.md) - A way to organize your code so that it is easy to maintain.
+Rating scale:
+- Recommended: encouraged practice.
+- Optional: encouraged but optional (judgment call).
+- Workaround: real-world implementation that is somewhat gnarlky or hackish in detail due to design limitations of the forms system. Workarounds may have side-effects, break best practices, or may be difficult to follow or maintain. They may become obsolete if the forms system improves.
+- Obsolete: don't do this any more (might be in the code base but don't start anything new using this pattern).
+- Avoid: don't ever do this.
 
-- [Using a Constants File](./constants.md) - Using a central file for all the variables you will use over and over again.
+### Known or Possible Issues
 
+- [2020-03-forms-doc-feedback.md](./2020-03-forms-doc-feedback.md) - VSA front-end developers had an open discussion about issues they ran into while working with Forms. Here's the candid feedback. 
+  
+- [possible-issues.md](./possible-issues.md) - Our current (evolving) list of *possible* issues, things we may need to vet internally.
 
-## Implementation Patterns
-These real-world implementation patterns are somewhat gnarlky in detail. In some situations we may be using the forms system beyond what it was originally designed for.
-
-- [List Loop](./list_loop.md) - This is needed to build a form that allows a user to input a few items and a separate page for each of those items to enter more information about that respective item.
-
-- [Custom React Component: Simple Case](./custom_component_simple.md) - Update form state with an onChange handler within a custom React component.
-
-- [Custom React Component: Multiple/Complex](./custom_component_multiple.md) - Using a custom React component requires that you pass in the form's schema for that component (map a small slice of form state to the component). In this scenario, we use the same component twice and we pass in a different instance of the schema to each instance of the component. Since each instance only has access to its own individual schema/form state, we are using Redux in order for our instances to see each other's form state.
-
-## Other Guidance
+## External Links
 
 - [Official VA.gov Forms System (VAFS) Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/)
 
@@ -26,12 +33,6 @@ These real-world implementation patterns are somewhat gnarlky in detail. In some
 
 - Video: [Walkthrough of a JSON object for RJSF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/va-forms-informal-for-designers.mp4).
 
-
-## Known or Possible Issues
-
-- [2020-03-forms-doc-feedback.md](./2020-03-forms-doc-feedback.md) - VSA front-end developers had an open discussion about issues they ran into while working with Forms. Here's the candid feedback. 
-  
-- [possible-issues.md](./possible-issues.md) - Our current (evolving) list of *possible* issues, things we may need to vet internally.
 
 ## Wish List
 - Documentation on *formConfig* options such as *hideIf, hideOnReview, hideOnReviewIfFalse, updateFormData, updateSchema, expandUnder* (including limitations we have run into with HideIf, expandIf, and why.)

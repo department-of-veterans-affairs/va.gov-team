@@ -1,12 +1,12 @@
 # Extending RJSF Behavior Using a Custom React Component
-
-(Based mostly on [bradl3yC](https://github.com/bradl3yC)'s write-up of his solution)
+Based mostly on [bradl3yC](https://github.com/bradl3yC)'s write-up of his initial solution. Due to other issues, the design has changed (radio buttons removed) so you may not see this technique in the latest version of the form; however, you may find yourself needing a similar workaround.
 
 ## The Problem:
-Using a custom component requires that you pass in a schema for that component.  It essentially maps a small slice of form state to the component.  Because the same component is used twice but we are passing in a different schema, each of those components, each of those only has access to its own individual schema/form state. (Read [Background: The Original Problem](#background-the-original-problem) for further details.)
+  - Our form shows two multually exclusive addresses, *permanent* and *temporary*. Each has their own data and we need to change a 3rd slice of state called *current address*. This 3rd piece of state this lives outside of the other two but we need it mapped to determine which radio button was selected.
+  - Using a custom component requires that you pass in a schema for that component. It essentially maps a small slice of form state to the component. Because the same component is used twice but we are passing in a different schema, each of those components only has access to its own individual schema/form state. (Read [Background: The Original Problem](#background-the-original-problem) for further details.)
 
 ## The Solution/Hack:
-Take the custom React widget and connect it to Redux.  After its connected to Redux, map state to the entire form state so it can see the form state of other components.  From there, we need to be able to update form state for events we've added to the custom widget.  I am leveraging *setData* located in [platform/forms-system/src/js/actions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/src/js/actions.js) - I basically looked at what data the form system would send it naturally and mimicked it in my own *onChange* event here: https://github.com/department-of-veterans-affairs/vets-website/pull/12295/files#diff-e840e38183aa55fb387f1af118cd752bR92
+Take the custom React widget and connect it to Redux. After it is connected to Redux, map state to the entire form state so it can see the form state of other components.  From there, we need to be able to update form state for events we've added to the custom widget. We are leveraging *setData* located in [platform/forms-system/src/js/actions.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/src/js/actions.js). We basically looked at what data the form system would send it naturally and mimicked it in our own *onChange* event here: https://github.com/department-of-veterans-affairs/vets-website/pull/12295/files#diff-e840e38183aa55fb387f1af118cd752bR92
 
 *[src/applications/disability-benefits/2346/components/ReviewCardField.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/2346/components/ReviewCardField.jsx)*
 
@@ -49,21 +49,66 @@ export default connect(
   ```
 
 ## Side-Effect: Extra Component
-You still need to pass in a schema that accounts for the data you want to modify with the form system.  The form system will then add its own component for that data.  So you end up with an extra component.  We need to hide it!  The original way to do this was to leverage a hideIf param that exits in the uiSchema.  There is, however, a gotcha with this.  When you hide a component on the form, it removes its schema thus wiping out its form state.
+You still need to pass in a schema that accounts for the data you want to modify with the form system. The form system will then add its own component for that data.  So you end up with an extra component. We need to hide it! The original way to do this was to leverage a *hideIf* param that exits in the *uiSchema*.  There is, however, a gotcha with this.  When you hide a component on the form, it removes its schema thus wiping out its form state. We confirmed this by digging into the underlying code a bit:
 
 *[src/platform/forms-system/src/js/state/helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/src/js/state/helpers.js)*
+
 ```
-export function expandArrayPages(pageList, data) {
+export function removeHiddenData(schema, data) {
+
+  // null is necessary here because Rails 4 will convert empty arrays to null
+  // In the forms, there's no difference between an empty array and null or undefined
+  if (isHiddenField(schema) || typeof data === 'undefined' || data === null) {
+    return undefined;
+  }
+
+  if (schema.type === 'object') {
+    return Object.keys(data).reduce((current, next) => {
+      if (typeof data[next] !== 'undefined' && schema.properties[next]) {
+        const nextData = removeHiddenData(schema.properties[next], data[next]);
+
+        // if the data was removed, then just unset it
+        if (typeof nextData === 'undefined') {
+          return _.unset(next, current);
+        }
+
+        // if data was updated (like a nested prop was removed), update it
+        if (nextData !== data[next]) {
+          return _.set(next, nextData, current);
+        }
+      }
+
+      return current;
+    }, data);
+  }
+
+  if (schema.type === 'array') {
+    const newItems = data.map((item, index) => removeHiddenData(schema.items[index], item),
+    );
+
+    if (newItems.some((newItem, idx) => newItem !== data[idx])) {
+      return newItems;
+    }
+
+    return data;
+  }
+  return data;
+}
 . . .
-     } else if (nextPage.arrayPath !== lastArrayPath && !!arrayPages.length) {
-        const newList = currentList.concat(
-          generateArrayPages(arrayPages, data),
-          nextPage,
-        );
+/**
+ * This is the main sequence of updates that happens when data is changed
+ * on a form. Most updates are applied to the schema. And by default the data
+ * is updated to remove newly hidden data.
+ . . .
+export function updateSchemaAndData(
+. . .
+  if (!preserveHiddenData) {
+    // Remove any data that’s now hidden in the schema
+    const newData = removeHiddenData(newSchema, formData);
  ```
 
 ## Workaround: Hide the Extra Component 
-Instead of using a hideIf func, you can pass a custom className to the uiSchema.  So I passed in the utility className from the design system to just hide it via CSS. \
+Instead of using a *hideIf* func, you can pass a custom className to the uiSchema.  So I passed in the utility className from the design system to just hide it via CSS. \
 *Discussion on slack: https://dsva.slack.com/archives/CBU0KDSB1/p1587597608400600*
 
 ## Limitations
@@ -77,9 +122,7 @@ If it isn't obvious by now, rather than treating VSFS/RJSF as a back box, we're 
 Here is the original problem we were trying to solve, and conversations we had in Slack related to it. First, here is the write-up from [mr0sari0](https://github.com/mr0sari0):
 
 ### Form System Questions/Limitations
-Sharing state between `ui:fields`,
-- A field can not trigger a change to another field
-- Two schema fields cannot alter the state of each other within a `ui:field`. 
+Problem with sharing state between `ui:widget`: a field can not trigger a change to another field that is in a different widget
 
 For example, if one field has a radio button and another field has a radio button, if you try to click on one of them, it will not deselect the other.
 ![](https://i.imgur.com/gKuIrem.png)
