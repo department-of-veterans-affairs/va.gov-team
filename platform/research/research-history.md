@@ -10,6 +10,12 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
+### April 2020
+#### April 2-20: COVID-19 Information & Chatbot
+*ThoughtWorks, Todd Stanich*
+- 13 participants (two rounds)
+- [Research folder](https://github.com/department-of-veterans-affairs/covid19-chatbot/tree/master/docs/research) 
+
 ### March 2020
 
 #### March 18-20: BDD Initial Usability test 
