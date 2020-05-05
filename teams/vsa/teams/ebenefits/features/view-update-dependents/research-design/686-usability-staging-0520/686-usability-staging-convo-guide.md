@@ -41,32 +41,51 @@ I have a few things I need to mention before we start:
 - Click through sign-in screens
 - Etc.
 
+**Now we're ready to start.** Because dependents are family-members, some of the scenarios I have on my list (like divorce, children leaving home and even death) may be hard for you to get through. Please let me know if you'd like to skip a particular task, and we'll move to another.
+
 ## Workflow set 1
 - Add spouse/Report divorce
 - Report death
 - Add student
 - Report student left school
 
-### Task
-- Question/step
-- Question/step
-- Question/step
-
-#### Things to look for
-
-### Task
-- Question/step
+### First task: introduction and checkbox selection
 - Question/step
 - Question/step
 
-#### Things to look for
+#### Things to look for:
+- Do users read (or even scan) the introdcution text
+- Are users selecting the correct workflow(s)
+- Are there any emotional reactions to the verbiage in the 'remove' workflows (divorce, death)
 
-### Task
-- Question/step
+### Second task: complete the selected workflow(s)
 - Question/step
 - Question/step
 
-#### Things to look for
+#### Things to look for:
+- Where do users stop and look for clarification or guidance
+- Do users open/read tell-me-mores
+- How long do users take to complete the various screens
+- Will users recall instructions from the intro screen
+- When and where does "form-fatigue" set in
+
+### Third task: upload additional documentation
+- Question/step
+- Question/step
+
+#### Things to look for:
+- Do users know when they should upload documentation
+- Will users recall info or prompts regarding documentation from the intro or tell-me-mores
+- How do users interact with the upload feature
+
+### Fourth task: review and return to start
+- Question/step
+- Question/step
+
+#### Things to look for:
+- Do users read and understand the confirmation page text
+- Will users expect any functionality or feature that aren't present
+- How do users navigate back to the start of the form
 
 ---
 
