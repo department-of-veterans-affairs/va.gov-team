@@ -68,25 +68,43 @@ Review accomplishments from prior sprint, what went well, areas for improvement,
 - 30 min
 
 ### Grooming
+
+#### When
+
 Assess and update workload for remainder of sprint:  
-- 2nd Wednesday of every sprint   
-- 1 hour 
+- 2nd Wednesday of every sprint for one-hour
+
+#### What
+
+In grooming, we will walk through each team member's Zenhub board to make sure tickets are ready by the time we get to sprint planning. By the end of grooming:
+
+- 100% of tickets have a `needs-grooming` tag/label until grooming happens
+- Definition of “groomed”-100% of tickets have are associated with an epic
+- 100% of tickets have acceptance criteria
+- 100% of tickets are estimated
+- 100% of tickets are appropriately labeled
+- At least 3 sprints out, 5 tickets tentatively assigned to those iterations
+
+#### Prior to grooming
+
+Please reviews `needs-grooming` tickets within your discipline (determined by the right GitHub label e.g. `frontend`).
 
 ### Issue Etiquette
+
+#### Issue creation
+
+You can create issues for yourself or the team throughout the sprint. We'll use grooming to get tickets ready to go before they are put in the "Current Sprint" column on our Zenhub board.
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-  * Estimate
-  * Title that explains task
-  * Description with Background and Acceptance Criteria
-  * Labels - vsa-authenticated-exp (and cross functional team labels)
-  * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
-  * Epic assigned
-  * Milestone
+- Estimate
+- Title that explains task
+- Description with Background and Acceptance Criteria
+- Labels - vsa-authenticated-exp (and cross functional team labels)
+- User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
+- Epic assigned
+- Milestone
   
-All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
-
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint.
-
-### Estimation
+#### Estimation
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
  - 1 - Easy task, work is known, can be executed quickly   
@@ -95,6 +113,12 @@ Estimation is not based on how long something will take to complete, but is rath
  - 5 - Very complex, may take a full sprint or longer    
  - 8 - Needs to be broken down into smaller user stories      
 
+#### Issue validation 
+
+All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+
+If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint.
+ 
 ### Team Norms
 
 - Be respectful, both online and off
