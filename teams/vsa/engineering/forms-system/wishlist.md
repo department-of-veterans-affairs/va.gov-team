@@ -7,6 +7,14 @@ Visible backlog of VAFS/RJSF items in VSP that VSA developers can see so that we
 - Need clear guidelines on how VSA developers can *quickly* get draft items into the backlog (PBI candidates) so that we know that ideas, problems, or requests that were raised in Slack are being captured rather than lost. 
 - When we get into the how/solutioning, VSA developers would be expected to work with VSP (joint effort, not something that would be expected to be handed down).
 
+## VAFS/RJSF Community
+VAFS is essentially open-source created by developers working on vets.gov (now va.gov). We need to identify and build a community of developers across VSP, VSA, VFS, etc. to
+- improve existing understanding of the library
+- as users (stakeholders) of the library, provide feedback
+- as open source community users, contribute to the codebase
+- assist with that backlog (especially if the forms system does 90% of what they need but need developer resouces to do the 10% that the forms library isn't providing)
+- have a list of developers "VAFS forms experts" who can assist in the design process (such the VSP Design Review process)
+
 ## Document formConfig Options
 Documentation on *formConfig* options such as *hideIf, hideOnReview, hideOnReviewIfFalse, updateFormData, updateSchema, expandUnder* (including limitations we have run into with *hideIf/expandIf*, and why).
 
