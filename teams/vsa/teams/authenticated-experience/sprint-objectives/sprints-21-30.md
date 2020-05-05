@@ -21,6 +21,8 @@ Profile 2.0
 2. Build - Continue build
 3. Analytics - review (VSP cycle)
 
+https://dsva.slack.com/archives/C909ZG2BB/p1588694304032400
+
 Logged in homepage
 1. Conduct research
 2. Comparative analysis
