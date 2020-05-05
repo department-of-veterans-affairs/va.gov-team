@@ -78,12 +78,11 @@ Assess and update workload for remainder of sprint:
 
 In grooming, we will walk through each team member's Zenhub board to make sure tickets are ready by the time we get to sprint planning. By the end of grooming:
 
-- 100% of tickets have a `needs-grooming` tag/label until grooming happens
-- Definition of “groomed”-100% of tickets have are associated with an epic
-- 100% of tickets have acceptance criteria
-- 100% of tickets are estimated
-- 100% of tickets are appropriately labeled
-- At least 3 sprints out, 5 tickets tentatively assigned to those iterations
+- 100% of tickets have are associated with an epic.
+- 100% of tickets have acceptance criteria.
+- 100% of tickets are estimated.
+- 100% of tickets are appropriately labeled.
+- At least 3 sprints out, 5 tickets tentatively assigned to those iterations.
 
 #### Prior to grooming
 
