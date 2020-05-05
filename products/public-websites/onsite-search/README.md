@@ -60,6 +60,9 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 - The search experience on any VA-affiliated Websites not using the VA.gov search powered by Search.gov. 
 
 # Discovery
+## Market Insights & Trends
+- Nielsen Norman Group: Site search suggestions -- e.g., autocomplete or autosuggest https://www.nngroup.com/articles/site-search-suggestions/
+- Nielsen Norman Group: The pinball pattern of scanning the modern search results page.   https://www.nngroup.com/articles/pinball-pattern-search-behavior/
 ## Technical
 - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
 - Search.gov GitHub Repository for VA.gov implementation https://github.com/GSA/search-gov-agency-collaboration
@@ -84,8 +87,9 @@ The Analytics team is conducting a gap research spike (https://github.com/depart
 
 - How many VA.gov daily visitors use search -- e.g., 2% or more?
 - What are the top search terms/queries overall?
-- What are the top search terms per benefits hub/site category -- Health Care, Disability, Education & Training
-- How many are searching Top Tasks -- e.g. Check your claim or appeal status, Refill and track your prescription
+- What are the top search terms per benefits hub/site category -- Health Care, Disability, Education & Training?
+- How many are searching Top Tasks -- e.g. Check your claim or appeal status, Refill and track your prescription?
+- How often do search users click through to the second page?
 - Are there any indicators that our search is not fulfilling the users’ needs? 
 
 ## Value Propositions
