@@ -245,6 +245,10 @@ Depending on the work that you do, you may need access to the Drupal CMS. To gai
 *  **GitHub: VA<span/>.gov | Private | DevOps | Config** \
 https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/deployment/config/vets-api
 
+*  **GitHub: VA<span/>.gov | Private | DevOps | External Service Integrations** \
+https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations
+Pages in this area describe integrations between va.gov and external services, including services within the VA and services managed by third parties. These pages are intended for VSP on-call support but are somewhat useful as general summaries for back-end developers and systems integrators as well. Each page contains a general description of a service, how it integrates with va.gov, environment specific details (such as endpoints), required configuration, and--for incident management purposes--troubleshooting steps, escalation procedures, and contact information. The information in these pages are considered system security sensitive, so you'll need access to the VA's private DevOps GitHub repository in order to see them.
+
 *   **GitHub: VA<span/>.gov | Private | Team Sensitive | Accessing Staging** \
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md
 
