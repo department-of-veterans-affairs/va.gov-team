@@ -20,6 +20,8 @@
 ### Planning:
 - Desired date: 04/20/20
 - Post-launch KPI 1: Click through rate beginning with COVID-19 alert banner through to the facility-level operating status information
+- Post-launch KPI 2: Number of calls to contact center about facility status  
+  - March 2020 = 235 calls
 - [Go / No Go: (ready / not ready)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/go-no-go.md)
 
 ### 1-week results:
