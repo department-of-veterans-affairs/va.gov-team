@@ -21,18 +21,6 @@ This section will show the following:
 
 ## DESKTOP VIEW
 
-## Personal and Contact Information
-
-### Design
-
-## Specs
-
-![table-specs-w grid](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/table-specs%20w%20grid.png)
-
-![edit-in-place-specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/edit-in-place-specs.jpg)
-
-![processing-update-button](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/feature-specs/Processing%20update%20button.jpg)
-
 ### Personal and contact information 
 
 **[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/FJW9OGY2B9A)
