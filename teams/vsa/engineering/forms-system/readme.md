@@ -4,26 +4,22 @@ The VA Forms System (VAFS) is built upon the VA fork of react-json-schema-form (
 ## Contents
 
 ### Patterns
-Pattern  | Category | Rating* | Description
+Page | Category | Rating* | Description
 --- | --- | --- | ---
-[Recommended&nbsp;Code&nbsp;Structure](./code_structure.md) | Style | Recommended | A way to organize your code so that it is easy to maintain.
-[Using a Constants File](./constants.md) | Style | Optional | Using a central file for all the variables you will use over and over again.
-[List Loop](./list_loop.md) | Implementation | Recommended | This is needed to build a form that allows a user to input a few items and a separate page for each of those items to enter more information about that respective item.
-[Custom React Component: Simple Case](./custom_component_simple.md) | Implementation | Workaround | Update form state with an onChange handler within a custom React component.
-[Custom React Component: Multiple/Complex](./custom_component_multiple.md) | Implementation | Workaround | Using a custom React component requires that you pass in the form's schema for that component (map a small slice of form state to the component). In this scenario, we use the same component twice and we pass in a different instance of the schema to each instance of the component. Since each instance only has access to its own individual schema/form state, we are using Redux in order for our instances to see each other's form state.
+[code_structure.md](./code_structure.md) | Style | Recommended | **Recommended Code Structure**. A way to organize your code so that it is easy to maintain.
+[constants.md](./constants.md) | Style | Optional | **Using a Constants File**. Central file for all the variables you will use over and over again.
+[list_loop.md](./list_loop.md) | Implementation | Recommended | **List Loop**. Needed to build a form that allows a user to input a few items and a separate page for each of those items to enter more information about that respective item.
+[custom_component_simple.md](./custom_component_simple.md) | Implementation | Workaround | **Custom React Component: Simple Case**. Update form state with an onChange handler within a custom React component.
+[custom_component_multiple.md](./custom_component_multiple.md) | Implementation | Workaround | **Custom React Component: Multiple/Complex**. Using a custom React component requires that you pass in the form's schema for that component (map a small slice of form state to the component). In this scenario, we use the same component twice and we pass in a different instance of the schema to each instance of the component. Since each instance only has access to its own individual schema/form state, we are using Redux in order for our instances to see each other's form state.
 
-Rating scale:
-- Recommended: encouraged practice.
-- Optional: encouraged but optional (judgment call).
-- Workaround: real-world implementation that is somewhat gnarlky or hackish in detail due to design limitations of the forms system. Workarounds may have side-effects, break best practices, or may be difficult to follow or maintain. They may become obsolete if the forms system improves.
-- Obsolete: don't do this any more (might be in the code base but don't start anything new using this pattern).
-- Avoid: don't ever do this.
+  *&nbsp;Rating scale: **Recommended**: encouraged practice. **Optional**: encouraged but optional (judgment call). **Workaround**: gnarlky or hackish real-world implementation due to design limitations of the Forms system. Workarounds may have side-effects, bend/break best practices, or may be difficult to follow or maintain. They may become obsolete if the Forms system improves; however, we are capturing these today because it may be necessary in order to use the Forms system. **Obsolete**: don't do this any more (might be in the code base but don't start anything new using this pattern). **Avoid**: don't ever do this.
 
-### Known or Possible Issues
-
-- [2020-03-forms-doc-feedback.md](./2020-03-forms-doc-feedback.md) - VSA front-end developers had an open discussion about issues they ran into while working with Forms. Here's the candid feedback. 
-  
-- [possible-issues.md](./possible-issues.md) - Our current (evolving) list of *possible* issues, things we may need to vet internally.
+### Issues
+Page | Description
+--- | ---
+[2020-03-forms-doc-feedback.md](./2020-03-forms-doc-feedback.md)&nbsp; | VSA front-end developers had an open discussion about issues they ran into while working with Forms. Here's the candid feedback. 
+[possible-issues.md](./possible-issues.md) | Our current (evolving) list of *possible* issues, things we may need to vet internally.
+[wishlist.md](wishlist.md) | Improvements we would like to become items in a visible backlog.
 
 ## External Links
 
@@ -32,14 +28,6 @@ Rating scale:
 - [Getting Started With VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md) - originally for VSA Designers, but also has [Tips for Developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md#developers).
 
 - Video: [Walkthrough of a JSON object for RJSF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/va-forms-informal-for-designers.mp4).
-
-
-## Wish List
-- Documentation on *formConfig* options such as *hideIf, hideOnReview, hideOnReviewIfFalse, updateFormData, updateSchema, expandUnder* (including limitations we have run into with HideIf, expandIf, and why.)
-- More HOW-TO guides mined from Slack conversations and the existing forms in source control. For example, forms 2346, 526EZ, 686, 686c-674, 996 are listed under [src/applications/disability-benefits](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits). Would like to have an empirical analysis that summarizes *all the forms* we have built in va.<span/>gov so far and identify what patterns we are using. Are 80% just out-of-the box, and 20% special cases? Would like to know which ones are special, and for those special cases, what implementation patterns were used.
-- A visual design-oriented catalog that shows the forms components integrated on test pages (100% traceability).
-- A live playground feature similar to the [one for the original RSFJ](https://rjsf-team.github.io/react-jsonschema-form/).
-- Visible backlog of VAFS/RJSF items in VSP that VSA developers can see so that we have transparency into what is known and not known as far as defect, features, workarounds, etc. WHEN or IF we get any of these improvements is a totally different story, but we at least need to keep track of the issues so that we don't keep stepping into them. When we get into the how/solutioning, VSA developers would be expected to work with VSP (joint effort, not something that would be expected to be handed down).
 
 ## VSP POCs (as of April 30, 2020)
 
