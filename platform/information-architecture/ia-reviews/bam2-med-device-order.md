@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS:** COMPLETE
+**STATUS: COMPLETE**
 
 **Team:** Benefits & Memorials 2
 
@@ -79,6 +79,9 @@ Must | Search best bets | www.va.gov/health-care/order-prosthetic-socks/ | - Upd
 <hr>
 
 ### Additional Details/Recommendations
+
+- none
+
 
 <hr>
 <hr>
