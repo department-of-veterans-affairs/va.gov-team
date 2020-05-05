@@ -10,6 +10,7 @@
 - Attendee/Observer instructions, including instructions for #feedback-backchannel, will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md)
+- [Note-taking template]()
 
 ### Priorities
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback.
@@ -35,10 +36,66 @@ I have a few things I need to mention before we start:
 - And last, before we look at the test pages, if you wanted to add or change a dependent on your VA benefit now, what would you do? This can be online or otherwise: website, phone call, in-person... 
 
 ### User screenshares
-- Click on staging link (home or form intro?
+- Click on staging link (home or form intro?)
 - Cut/paste login; cut/paste password
 - Click through sign-in screens
 - Etc.
+
+## Workflow set 1
+- Add spouse/Report divorce
+- Report death
+- Add student
+- Report student left school
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
+
+---
+
+## Workflow set 2
+- Add spouse/Add child
+- Report death
+- Report marriage of child
+- Report divorce/Remove stepchild
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
+
+### Task
+- Question/step
+- Question/step
+- Question/step
+
+#### Things to look for
 
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here.
