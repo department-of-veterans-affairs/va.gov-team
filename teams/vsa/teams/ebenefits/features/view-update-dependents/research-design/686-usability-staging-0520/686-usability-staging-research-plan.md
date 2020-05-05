@@ -12,8 +12,8 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 
 ## Table of contents
 - [Goals](#goals)
-- [Hypotheses](#hypotheses)
 - [Research Questions](#research-questions)
+- [Hypotheses](#hypotheses)
 - [Success](#success)
 - [Method](#method)
 - [Participants and Recruitment](#participants-and-recruitment)
@@ -50,14 +50,6 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Note any potential problems with list/loop feature
  - Assess user acceptance of various "remove" workflows
 
-### Hypotheses
-The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
-
- - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
- - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
- - User acceptance and understanding fo the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
- - Users will understand and accept the longer workflows; list/loop may create some confusion (odd button sequences); divorce and stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
-
 ### Research questions
 1. In what section VA.gov would users expect to find the 21-686c? How would they navigate there?
 2. Are the form instructions clear and complete? Will users know what documents and info they will need to complete the form?
@@ -72,6 +64,15 @@ Additional Questions
 
 9. What are users' experiences with dependents on there VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
 10. What workflow combinations (scenarios) do users consider likely? 
+
+### Hypotheses
+The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
+
+ - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
+ - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
+ - User acceptance and understanding fo the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
+ - Users will understand and accept the longer workflows; list/loop may create some confusion (odd button sequences); divorce and stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
+
   
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
