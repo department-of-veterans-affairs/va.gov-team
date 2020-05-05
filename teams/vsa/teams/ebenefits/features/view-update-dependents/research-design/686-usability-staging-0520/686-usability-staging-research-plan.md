@@ -84,6 +84,8 @@ This research effort will be successful if it gives clear indications regarding 
 ### Method
 Usability testing will be conducted remotely using Zoom or GoToMeeting. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
 
+This methodology allows for direct obeservation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
+
 ### Participants and recruitment
 Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Criteria include:
 
