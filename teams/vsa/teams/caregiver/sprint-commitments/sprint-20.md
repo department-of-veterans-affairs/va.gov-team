@@ -7,13 +7,16 @@
 - Update QA test plan
 
 ## Back end
-- [ ] Update schema based on form/design changes
-- [ ] Update PDF generation based on final design
+- [x] Update schema based on form/design changes
+- [x] Update PDF generation based on final design
 - [ ] Verify veteran status based on ICN number
 - [ ] Send PDF to CARMA
-- [ ] Start research on submission/rate limiting
-- [ ] Refactor namespace/property changes
-- [ ] Add new header to CARMA submission request
+- [ ] ~Start research on submission/rate limiting~
+- [x] Refactor namespace/property changes
+- [x] Add new header to CARMA submission request
+- [x] Add CARMA staging credentials to build environment
+- [x] Payload validation testing with CARMA
+
 
 ## Content
 - Strategy for "try again" page
