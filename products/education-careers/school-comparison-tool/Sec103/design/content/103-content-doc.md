@@ -29,11 +29,11 @@ If VA payments to institutions are delayed, schools receiving GI Bill benefits m
 
 Schools may require proof of GI Bill eligibility in the form of:
 *	Certificate of Eligibility (COE) or
-*	Certificate of Eligibility (COE) and additional criteria, such as an award letter or other documents the school specifies.
+*	Certificate of Eligibility (COE) and additional criteria such as an award letter or other documents the school specifies
 
 **Schools can't impose late fees, deny access to facilities or classes, or otherwise penalize beneficiaries if VA is late with tuition and/or fees payments.** The restriction on penalties doesn't apply if the beneficiary owes additional fees to the school beyond the tuition and fees that VA pays. Students are protected from these penalties up to 90 days from the beginning of the term. 
 
-Contact the School Certifying Official to learn more about the school’s policy. [Read our FAQs on the Veterans Benefits and Transition Act](https://benefits.va.gov/gibill/fgib/transition_act.asp) to learn more about protections against late VA payments.
+Contact the School Certifying Official (SCO) to learn more about the school’s policy. [Read our FAQs on the Veterans Benefits and Transition Act](https://benefits.va.gov/gibill/fgib/transition_act.asp) to learn more about protections against late VA payments.
 
 
 { *End 103 Modal* } 
