@@ -6,7 +6,7 @@
 
 ## Structure
 
-1. Ensure that we adhere to the VSP Content & IA naming protocols on Github
+1. Ensure that we adhere to the [VSP Content & IA naming and structure protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) on Github
 2. Anything VFS facing needs to go in the Platforms folder
 3. Anything VSP-internal should go in the Teams folder
 4. Product Outlines & User Guides should go in the Products folder
