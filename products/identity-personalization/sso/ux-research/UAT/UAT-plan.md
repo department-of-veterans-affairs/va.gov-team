@@ -20,29 +20,54 @@ The 4 flows below chart out how users could test both outbound and inbound SSOe 
 
 ### Flow 1: ID.me
 
-Complete the following test cases: 
+#### Complete the following test cases: 
+
+**Outbound**
+
 - [C318, ID.me,  LOA3 Sign in to VA.gov](https://dsvavsp.testrail.io/index.php?/cases/view/318&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C320, ID.me LOA3 View claims/appeals](https://dsvavsp.testrail.io/index.php?/cases/view/320&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C321, ID.me LOA3 Navigate to MHV in new tab](https://dsvavsp.testrail.io/index.php?/cases/view/321&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C322, ID.me LOA3 Navigate to MHV via My Health](https://dsvavsp.testrail.io/index.php?/cases/view/322&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C323, ID.me LOA3 Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/323&group_by=cases:section_id&group_order=asc&group_id=60)
+
+**Inbound**
+
 - [C361, ID.me LOA3 Inbound session from MHV](https://dsvavsp.testrail.io/index.php?/cases/view/361&group_by=cases:section_id&group_order=asc&group_id=68)
 
-### Flow 2: MHV Basic
 
-Complete the following test cases: 
-- Link test cases (WIP) 
+### Flow 2: MHV Premium
 
-### Flow 3: MHV Premium
+#### Complete the following test cases: 
+ 
+**Outbound**
 
-Complete the following test cases: 
-- Link test cases (WIP)
+- [C328, MHV Premium Sign in to VA.gov](https://dsvavsp.testrail.io/index.php?/cases/view/328&group_by=cases:section_id&group_order=asc&group_id=83)
+- [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
+- [C330, MHV Premium VA.gov health dashboard](https://dsvavsp.testrail.io/index.php?/cases/view/330&group_by=cases:section_id&group_order=asc&group_id=83)
+- [C331, MHV Premium Navigate to MHV in new tab](https://dsvavsp.testrail.io/index.php?/cases/view/331&group_by=cases:section_id&group_order=asc&group_id=83)
+- [C333, MHV Premium Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/333)
 
-### Flow 4: DS Logon
+**Inbound**
 
-Complete the following test cases: 
-- Link test cases (WIP)
+- [C360, MHV Premium Inbound session from MHV](https://dsvavsp.testrail.io/index.php?/cases/view/360&group_by=cases:section_id&group_id=68&group_order=asc)
+
+
+### Flow 3: DS Logon
+
+#### Complete the following test cases: 
+
+**Outbound**
+
+- [C341, DSLogon Premium Sign in to VA.gov](https://dsvavsp.testrail.io/index.php?/cases/view/341&group_by=cases:section_id&group_id=83&group_order=asc)
+- [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
+- [C342, DSLogon Premium VA.gov account page](https://dsvavsp.testrail.io/index.php?/cases/view/342)
+- [C343, DSLogon Premium Navigate to MHV](https://dsvavsp.testrail.io/index.php?/cases/view/343)
+- [C344, DSLogon Premium Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/344)
+
+**Inbound**
+
+- [C363, DSLogon Premium (Mapped UUID) Inbound session from MHV](https://dsvavsp.testrail.io/index.php?/cases/view/363)
 
 
 ## Output
@@ -61,7 +86,7 @@ In addition to ensuring SSOe is usable and achieves its stated goals, we may ask
 
 ## Participants and Recruitment
 #### Participant criteria
-- At least 4, ideally 8, open to more participants across DEPO and Ad Hoc
+- At least 4, ideally 8, participants across DEPO and Ad Hoc
 - Must have their own MHV, ID.me, or DS Logon account
 
 #### What is your recruitment strategy?
@@ -69,34 +94,28 @@ In addition to ensuring SSOe is usable and achieves its stated goals, we may ask
 
 ## Timeline
 #### Dates
-- We are seeking to launch SSOe to 1% of users on 5/6/20, and want to start UAT on that same date
+- We are seeking to launch SSOe to 1% of users in late May, and want to start UAT around mid-May
 
 #### Stimuli for testing
-- Production environment
+- Production environment (we can turn on SSOe for individual users using the feature flipper)
 
 #### Length of sessions
 - About 20 minutes, maximum of 45 minutes 
 
 #### Availability
-- Pending completion of SSOe work dates can be set 
+- Dates can be set pending completion of SSOe work
 
 #### Pilot
-Test cases run by SSO-Login team with test credentials will serve as pilot 
+- Test cases run by SSO-Login team with test credentials will serve as pilot 
 
 ### Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
 
-Moderator: Alexis James, Patrick Vinograd, Bridget Hapner, Eric Buckley, Dan Hinze may all serve as moderators 
-
-Research guide writing and task development (usually but not always same as moderator): Bridget Hapner
-
-Participant recruiting & screening: Bridget Hapner
-
-Project point of contact: Alexis James
-
-Participant(s) for pilot test: N/A
-
-Note-takers: SSO-Login team may all serve as note-takers, a note taker will be designated prior to each session
-
-Observers: N/A
+- Moderator: Alexis James, Patrick Vinograd, Bridget Hapner, Eric Buckley, Dan Hinze may all serve as moderators 
+- Research guide writing and task development (usually but not always same as moderator): Bridget Hapner
+- Participant recruiting & screening: Bridget Hapner and Alexis James
+- Project point of contact: Alexis James
+- Participant(s) for pilot test: N/A
+- Note-takers: SSO-Login team may all serve as note-takers, a note taker will be designated prior to each session
+- Observers: N/A
 
