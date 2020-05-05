@@ -86,7 +86,7 @@ In grooming, we will walk through each team member's Zenhub board to make sure t
 
 #### Prior to grooming
 
-Please reviews `needs-grooming` tickets within your discipline (determined by the right GitHub label e.g. `frontend`).
+Please review `needs-grooming` tickets within your discipline (determined by the right GitHub label e.g. `frontend`).
 
 ### Issue Etiquette
 
