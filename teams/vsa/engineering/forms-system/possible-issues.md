@@ -37,12 +37,3 @@ There seems to be two issues: \
 ### Details
 "Your formId has to match the in progess form endpoint in order to use the main form reducer. For instance form 2346 endpoint is /in_progress_forms/MDOT, the form id is MDOT" \
 TODO: need more context, an example (filename + loc + changeset). This statement is probably a tip or (undocumented?) solution.
-
-## Need a way to compare form changes
-### Developer POC: Marhariel Rosario
-### GitHub Issue#: TBD
-
-### Details
-https://dsva.slack.com/archives/CBU0KDSB1/p1586881755333400
-There currently is no way to compare original form data to current form data. It would be a nice addition to the forms system to include something in the formContext that indicates the last changed field and data.
-TODO: need to refine the ask, how the differences should be best presented (programmatic usage).
