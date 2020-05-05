@@ -1,5 +1,5 @@
 # VSA Technical Orientation
-Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](mailto:pshort@governmentcio.com)/[paul.short@va.gov](mailto:paul.short@va.gov)) as of 03/17/2020. Primary audience are VSA front end and back end developers, but other VSA team members may find some of the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for a new developer.
+Technical orientation from the VSA Technical Lead ([pshort@governmentcio.com](mailto:pshort@governmentcio.com)/[paul.short@va.gov](mailto:paul.short@va.gov)) as of 05/05/2020. Primary audience are VSA front end and back end developers, but other VSA team members may find some of the links here useful. There is a lot of decent documentation available; however, some of it is changing, redundant, outdated, or requires more context in order to navigate. This is an attempt to capture the most important links in a structured order for a new developer.
 
 ## What We Do
 We are actively working on https://va.gov, the user-centered, public-facing website where veterans and their caregivers can find, apply for, track, and manage their benefits in one place.
@@ -118,11 +118,7 @@ PTO Calendar: put your days off (approved vacation, sick, etc.) on our shared Go
 *   In addition to putting time away on the PTO Calendar, you can also block off OOO times and appointments as events on your work calendar, but don’t send them off as meeting invites.
 *   If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
 
-## GitHub Links
-*   **GitHub: VA.gov Documentation** \
-https://department-of-veterans-affairs.github.io/va.gov-team \
-VSP's knowledge hub (quick links page) for building on VA.gov
-
+## GitHub Repositories
 *   **GitHub: VA<span/>.gov | Public Repo | VETS-WEBSITE** \
 https://github.com/department-of-veterans-affairs/vets-website \
 Frontend Source Code: React.js, HTML
@@ -149,6 +145,13 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive
 
 *   **GitHub: VA<span/>.gov | Private Repo | DEVOPS** \
 https://github.com/department-of-veterans-affairs/devops
+
+
+## GitHub Links
+*   **GitHub: VA.gov Documentation** \
+https://department-of-veterans-affairs.github.io/va.gov-team \
+VSP's knowledge hub (quick links page) for building on VA.gov.
+Go here first to navigate our documentation.
 
 *   **GitHub: VA<span/>.gov | Client App Doc | Main** \
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools
