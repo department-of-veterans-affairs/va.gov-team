@@ -55,7 +55,7 @@ Based on the research that informed [the Personalization 2.0 strategy](https://g
 - We don't guide people to the My VA dashboard.
 - The My VA dashboard is too duplicative of the homepage.
 - People prefer the homepage over the My VA dashboard because it is a more effective router, and because it has a more appealing visual design.
-- On My VA, we have not effectively employed [the design system](https://design.va.gov/). My VA is designed like a content page, so adding new content has made these pages extremely lenghty and hard to scan.
+- On My VA, we have not effectively employed [the design system](https://design.va.gov/). My VA is designed like a content page, so adding new content has made these pages extremely lengthy and hard to scan.
 
 Additionally:
 
