@@ -39,7 +39,7 @@ Status: Blocked by outstanding questions
 
 ### Differences in scope of data returned
 
-* `Slot.status` is required in FHIR spec, but we can probably just search for Slots where `status === free`
+* `Slot.freeBusyType` is required in FHIR spec, but we can probably just search for Slots where `freeBusyType === free`
 
 ## Outstanding questions
 
