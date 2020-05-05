@@ -87,7 +87,7 @@ Usability testing will be conducted remotely using Zoom or GoToMeeting. Particip
 This methodology allows for direct obeservation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
 
 ### Participants and recruitment
-Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Criteria include:
+Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
 
 #### All participants
 - 12 Veterans
@@ -103,11 +103,23 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
   - Has recently been married/divorced
   - Has experienced dependent status change such as, marriage, death, leaving school
   
-  #### Group 2
+#### Workflow set 1
+- Add spouse/Report divorce
+- Report death
+- Add student
+- Report student left school
+  
+#### Group 2
 - Fits any of the following:
   - Have or had dependents; received or applied for dependents benefits
   - Has child (age 18 to 23) who is about to enroll or has enrolled in college
   - Has recently been divorced
+  
+#### Workflow set 2
+- Add spouse/Add child
+- Report death
+- Report marriage of child
+- Report divorce/Remove stepchild
 
 ### Timeline
 The target window for research sessions is TBD, pending competion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
