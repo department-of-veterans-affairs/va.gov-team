@@ -6,7 +6,9 @@
 - Slack channel: #va-search
 - Product POCs: 
    - John Hashimoto, DSVA @John Hashimoto
-   - Steph Orkand @Stephanie Orkand
+   - Steph Orkand, VSA/GCIO @Stephanie Orkand
+- Engineering POCs:
+   - Nick Sullivan, VSA/AdHoc @Nick Sullivan
 - Search.gov POC: 
    - Arantxa Pipernova (arantxa.recio@gsa.gov)
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
