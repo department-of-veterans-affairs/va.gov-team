@@ -72,6 +72,9 @@ Pact is language agnostic and has packages for both Node.js and Ruby, so both `v
 - `vets-api` will install the `pact` gem.
 
 In the context of VA.gov, the contract testing process looks like this:
+
+![Contract Testing Workflow](images/contract-testing/contract-testing-workflow.png)
+
 1. **Contract tests are written for a FE application.** They are written like unit tests with `describe` and `it` blocks and will follow these steps:
    - Start up the mock server from the Pact library. This requires naming the consumer and provider and assigning a port for the server to run.
      ```
