@@ -14,6 +14,9 @@ There are two spreadsheets involved in the monthly reporting process, both locat
   - Sort by month
   - Use the 'Countif' Excel function to calculate the separate totals for IRIS and for SalesForce issues.
   - Once you have the totals of each system, enter them in the tab labeled Contact Center Summary in the total issues column in monthly reporting shreadsheet.
+    - Tier 1 Issues = Resolved
+    - Tier 2 Issues = Follow Up
+    - Tier 3 Issues = Escalated
 
  ### IRIS/SF Issue Breakdown Tab
   - From the VA.gov 2020 Issues spreadsheet:
