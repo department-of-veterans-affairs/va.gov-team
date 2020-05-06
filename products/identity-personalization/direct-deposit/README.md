@@ -139,12 +139,6 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 - KPI: High numbers "Form Submits for Direct Deposit Information" metric on GA dashboard
 - KPI: Low numbers for "Failures in Saving Direct Deposit Information" metric on GA dashboard
 
-### Tracking
-
-[Direct Deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
-
-- Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.)
-
 ---
 
 # Implementation Info
