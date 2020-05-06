@@ -14,20 +14,25 @@ It may help to go into Edit this document, copy the following Markdown, and past
   - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/plans/view/105) **OR**
   - **Markdown** [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md) **OR** 
   - Certify that the following required accessibility tests are complete by checking each of these boxes (your accessibility specialist is available to help). Recommended items are optional, but highly encouraged.
-    - [ ] Read the [accessibility staging review documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) (required)
-    - [ ] Read the [accessibility post-launch processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) (_recommended_)
-    - [ ] Conduct axe browser scan, and document or address issues found (required)
-    - [ ] Ensure end-to-end tests - including the axe check, pass (required)
-    - [ ] Add keyboard end-to-end tests in CI/CD test runs (_recommended_)
-    - [ ] Conduct axe-coconut browser scan, document or address issues found (_recommended_)
-    - [ ] Test with [WAVE tool](https://wave.webaim.org/) (_recommended_)
-    - [ ] Check color pairing for proper contrast (required)
-    - [ ] Check for colorblindness issues (required)
-    - [ ] Zoom to 200% at 1280px wide and confirm readability, no info cut off, etc (required)
-    - [ ] Repeat for 300% (required)
-    - [ ] Repeat for 400% (required)
-    - [ ] Navigate all pages and core functionality with keyboard only (required)
-    - [ ] Test all pages and core functionality happy path with MacOs + VoiceOver and/or NVDA+Firefox (required)
+  
+    Required:
+    - [ ] Read the [accessibility staging review documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) 
+    - [ ] Conduct axe browser scan, and document or address issues found 
+    - [ ] Ensure end-to-end tests - including the axe check, pass 
+    - [ ] Check color pairing for proper contrast 
+    - [ ] Check for colorblindness issues 
+    - [ ] Zoom to 200% at 1280px wide and confirm readability, no info cut off, etc 
+    - [ ] Repeat for 300% 
+    - [ ] Repeat for 400% 
+    - [ ] Navigate all pages and core functionality with keyboard only 
+    - [ ] Test all pages and core functionality happy path with MacOs + VoiceOver and/or NVDA+Firefox 
+    
+    Recommended:
+    - [ ] Read the [accessibility post-launch processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) 
+    - [ ] Add keyboard end-to-end tests in CI/CD test runs 
+    - [ ] Conduct axe-coconut browser scan, document or address issues found 
+    - [ ] Test with [WAVE tool](https://wave.webaim.org/) 
+
 
 Known issues:
 
