@@ -116,6 +116,17 @@
 ### Why is 'primary care' not available in the Community Care flow?
 - Primary Care should be coordinated through a veteran's VA primary care physician to ensure that a doctor with context of a patient's needs gets a chance to think about the issue. Thus, if a veteran has an active assignment to a PACT, a veteran should not be able to make a primary care appointment at a Community Care facility without his or her VA doctor coordinating that care. This coordination is outside the scope of VAOS, so VAOS will only allow scheduling Primary Care appointments in the community if a veteran does not have an assigned PACT.
 
+### How are Submitted Requests display in new VAOS, seems different than legacy VAOS? 
+- Yes, VAOS-R we are displaying requests for the last 30 days based on submitted date whereas legacy VAOS displays up to 3 months of requests and shows all request statuses.
+  - For requst with status 'submitted' show
+  - For requests with status 'Cancelled' show them if there's a request date later than today 
+  - For requests with a status of Cancelled, we show them if there's a requested date later than today
+  - For any other request statuses, we do not show
+- What we're not showing for requests:
+  - Any request submitted more than 30 days ago
+  - Cancelled requests where all of their requested dates are in the past
+  - Requests with a status other than Cancelled or Submitted
+
 
 
 
