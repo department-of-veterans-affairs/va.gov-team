@@ -152,10 +152,24 @@ In the context of VA.gov, the contract testing process looks like this:
    ```
    bundle exec rake pact:verify
    ```
-   This task pulls all relevant pacts from the broker, replays the requests defined in the pacts against the API, and verifies that the expected responses match the actual responses. For any states specified in the pacts, the API will set up any matching states already defined in `provider_states.rb`. If there are no matching states, the verification will fail.
-   
+   This task pulls all relevant pacts from the broker, replays the requests defined in the pacts against the API, and verifies that the expected responses match the actual responses. For any states specified in the pacts, the API will set up any matching states already defined in `provider_states.rb` (example below). If there are no matching states, the verification will fail.
+   ```
+   Pact.provider_states_for 'HCA' do
+     provider_state 'enrollment service is up' do
+       set_up do
+         # Stub the response from the enrollment service here.
+       end
+
+       tear_down do
+         # Any tear down steps to clean up the provider state
+       end
+     end
+   end
+   ```
+
+
    [Pact Broker webhooks can be created using the CLI](https://github.com/pact-foundation/pact_broker-client/#create-webhook), whether it's from the Ruby gem or NPM package. **The webhook should just check for `contract_content_changed` because the broker will automatically pass any unmodified contracts that previously passed verification."**
-   
+
    While the pacts are being verified, the `vets-website` build can proceed to E2E tests.
 
    **If the pacts are coming from a feature branch and the API has not been updated to match the new expectations, verification should be expected to fail.** In that case, once the pacts have been published, the BE developers working on updating the API can run the following task during development to verify their changes:
