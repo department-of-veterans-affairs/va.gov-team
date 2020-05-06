@@ -102,22 +102,34 @@ We expect to see the following:
 - Implement a secure address change feature for the user in the user profile section.
 - Test Test Test
 
-## OKRs
-Objective: Reduce mailing issues and improve data quality
+## OKRs & KPIs
 
-OKR: Decreased returned mail and calls to the VA contact center (data not readily available)
-- Bet 1: Implement Address Validation
+### [GA dashboard for address validation]()
 
-OKR: Decrease in save errors and 
-- Bet 1: Implement Address Validation
+**Objective**: Reduce mailing issues and improve data quality
 
-OKR: Improved address data quality
+**Key result**: Decreased returned mail and calls to the VA contact center (data not readily available)
+- Bet 1: Implement address validation
+- Bet 2: Implement address suggestions as part of validation
+- KPI: *Need to see if we can track down returned mail metrics**
+- KPI: Reduction in call center complaints (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
+
+**Key result**: Decrease in save errors
+- Bet 1: Implement address validation
+- Bet 2: Implement address suggestions as part of validation
+- KPI: Mailing address save errors on GA dashboard
+- KPI: Home address save errors on GA dashboard
+
+**Key result**: Increase in successful saves
+- Bet 1: Implement address validation
+- Bet 2: Implement address suggestions as part of validation
+- KPI: Mailing address save successes on GA dashboard
+- KPI: Home address save successes on GA dashboard
+
+**Key result**: Improved address data quality
 - Bet 1: Implement suggested addresses
-
-
-
-
-
+- KPI: Address suggestions provided on GA dashboard
+- KPI: Address suggestions used on GA dashboard
 
 ## KPIs
 
