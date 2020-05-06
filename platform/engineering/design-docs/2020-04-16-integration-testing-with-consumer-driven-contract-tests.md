@@ -1,7 +1,7 @@
 # Integration Testing with Consumer-Driven Contract Tests
 
 **Author:** Eugene Doan  
-**Last Updated:** April 30, 2020  
+**Last Updated:** May 6, 2020  
 **Status:** Draft | **In Review** | Approved  
 **Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], John Paul Ashenfelter []
 
@@ -186,6 +186,31 @@ In the context of VA.gov, the contract testing process looks like this:
 
 ![This diagram illustrates the general Pact workflow with webhooks](https://raw.githubusercontent.com/wiki/pact-foundation/pact_broker/images/webhook_end_to_end.png)
 
+### Deploy Strategy and Tagging
+
+Every build of `vets-website` publishes pacts, tags the version with the _name of the branch_, and triggers the verification task from a `master` build of `vets-api`.
+- We could also verify the pacts against `prod` `vets-api` (in addition to `master`) for more stability. This ensures that `vets-website` deploy won't be blocked by `vets-api` deploy failures and that PR's won't be able to merge with a stale verification status and break other builds. The downside is that `vets-website` PRs may have to sit an extra day to wait for any corresponding `vets-api` changes to go out to prod first.
+
+Every build of `vets-api` verifies pacts from versions that have been tagged as `master` and `prod` and tags the results with the _name of the branch_.
+- Verifying `master` pacts would be ideal, since it would stay up to date on verifying the `vets-website` master branch, and it would ensure that `vets-website` and `vets-api` work together in staging.
+- But that introduces the possibility of breaking `vets-api` builds when the `vets-website` stale verification merge issue arises, since the `vets-website` master branch will have breaking changes in that scenario, although fairly unlikely to occur.
+- On the other hand, not verifying `master` means that changes in the `vets-api` master branch can cause the `vets-website` master builds to fail even if not actually breaking contracts for `prod` `vets-website`.
+
+At daily deploy, if the `vets-api` verification passes and the build gets deployed, the verification results for this version gets tagged as `prod`.
+
+After deploying `vets-api` to production, tag this version as `prod`.
+
+At daily deploy, the `vets-website` pipeline checks `can-i-deploy`. The deploy can't proceed if this check fails. This would have to occur after the result of the `vets-api` deploy.
+- If the `vets-api` build would have accommodated production-breaking changes from this `vets-website` build but couldn't get deployed, then the `vets-website` deploy can't proceed either.
+- If this `vets-website` build wouldn't break with the `vets-api` currently in production, the deploy will go out as usual.
+
+```
+pact-broker can-i-deploy -a 'App Name' --version $COMMIT_HASH -a 'VA.gov API' --latest prod
+```
+
+After deploying `vets-website` to production, tag this version as `prod`.
+
+
 ### Code Location
 In `vets-website`:
 - Contract tests will be specific to each application and located within that application's `tests` directory: `src/applications/**/tests/contract/*.contract.spec.js`.
@@ -197,25 +222,32 @@ In `vets-api`:
 - Configuration for the provider verification will be at `spec/service_consumers/pact_helper.rb`.
 - Provider states will be at `spec/service_consumers/provider_states.rb`.
 
+
 ### Testing Plan
 We can start with a trial run of using Pact to contract teste a VA.gov application. This will demonstrate the viability of incorporating contract testing into our process and reveal any unforeseen work that needs to be done.
 
 Currently, we have a local setup of the Pact flow. There is a FE app (HCA) running through the pact generation, publishing, and verification loop with the API and a Docker instance of the Pact broker, all set up locally. It hasn't been tested in CI yet, so there is more discovery to be done with configuring the webhooks and async jobs.
 
+
 ### Logging
 The continuous integration job that runs the contract tests will contain the output of running the tests and store the generated pacts as build artifacts. The mechanism for passing pacts from consumer to provider will also need to store the pacts, whether it's a central repository or a Pact broker.
+
 
 ### Debugging
 The output from the tests that create the pacts and from the provider verification of the pacts should be sufficient to figure out where issues occurred. If the failure is due to a breakdown in the expected request and response interaction, FE and BE developers involved should discuss to clear up assumptions and misunderstandings.
 
+
 ### Caveats
 To be determined.
+
 
 ### Security Concerns
 There are no security concerns with contract testing.
 
+
 ### Privacy Concerns
 There are no privacy concerns with contract testing.
+
 
 ### Open Questions and Risks
 
@@ -243,11 +275,37 @@ There is a [Docker image available](https://github.com/pact-foundation/pact-brok
 
 If we don't want to self-host, there is also a [commercial solution](https://pactflow.io/?utm_source=github&utm_campaign=pact_broker_intro) that's a fork of that broker with improved UI and federated login. 
 
+#### [Question] How will provider states be set up for authenticated requests?
+
+What will it take to simulate a logged in session? Can we simply stub out SAML responses? If that's not possible, there may be a way to [modify the request with live data](https://github.com/pact-foundation/pact-ruby/wiki/Verifying-pacts#modifying-the-request-with-live-data).
+
 #### [Risk] Contract testing could introduce a non-trivial increase to build times for `vets-website`
 
 There will be additional tests to run, but they run similarly to unit tests, so the performance cost of running the tests themselves is likely to be low.
 
 However, the provider verification step requires running a Rake task with a build of the API. There is also a question of where we can point to that build in order to run that task. If we have to build it when the verification is triggered, it will add to the total build time. If the build occurs in Circle, we could probably leverage some caching mechanisms from Circle orbs to improve the build time. If BE Tools team has configured their own `vets-api` build job and optimized for performance, we might be able to reference that. There might also be an option where we could just pull an pre-built master image of the API and run the verification task in that.
+
+#### [Risk] The verification status check for `vets-website` PRs might not report the most up-to-date status and could lead to breaking master builds.
+
+Sometimes `vets-api` has to implement or update the endpoint in master to accommodate the changes from a `vets-website` feature branch before that feature branch can merge. When the API changes are pushed to master, the verification job can be re-run, and the `vets-website` PR can get a passing status.
+
+The concern is the possibility of leaving the feature branch un-merged for a long enough time that another `vets-api` change gets introduced that would break the contract again. The status wouldn't update without manually re-running the job, and developers are unlikely to double check a passing status.
+
+`vets-website` Version | `vets-api` Version | Verification Results
+-----------------------|--------------------|---------------------
+1                      | 1                  | Success
+1                      | 2                  | Failure
+
+- The status on the PR for `vets-website` v1 would display success and can merge.
+- `vets-api` v2 has breaking changes for `vets-website` v1 and gets merged to master
+- `vets-website` v1 PR still shows the old success and can still merge.
+
+Ultimately, verification during the `vets-website` master build should catch any issues, since it will validate all of its contracts against the `vets-api` master. The problem is that an app's broken contract will fail any `vets-website` builds for branches based off of the master that had that contract test checked in, and those branches will need to pull in the fixes when master gets patched.
+
+This could only occur if there is a lot of overlapping development on one endpoint and developers leave a PR sitting for a long enough time with the passing verification status. Furthermore, it would involve BE developers not communicating with FE developers at all when making changes, which would be bad practice. Overall, it's an unlikely situation. Even when it comes to resolving the issue, it should be clear which contract is affecting the build, and it should be fairly quick to revert a change or make the necessary patches.
+
+One way this can be avoided entirely is by running the verification task with the `prod` version of `vets-api`, but having PRs wait for `vets-api` changes to deploy to production could be detrimental to a team's velocity. That tradeoff might not be worthwhile for an issue that might be uncommon and can be quickly patched.
+
 
 ### Work Estimates
 *Rough estimates relative to a sprint (2 weeks) with expected outcomes listed after.*
@@ -276,6 +334,7 @@ However, the provider verification step requires running a Rake task with a buil
 
 6. Roll out Pact workflow with CI integration (1-2 sprints)
    - Previous demo'd application with full Pact test flow running in CI
+
 
 ### Alternatives
 
@@ -318,6 +377,7 @@ Enforcing integration test coverage would be difficult since there's no real way
 
 Date | Revisions Made | Author
 -----|----------------|--------
+May 6, 2020 | Added deploy strategy and a question and risk. | Eugene Doan
 Apr 30, 2020 | Updated with clarifications from review | Eugene Doan
 Apr 21, 2020 | <ul><li>Added questions.</li><li>Revisions to clarify CI workflow.</li><li>Revisions to clarify questions from comments.</li></ul> | Eugene Doan
 Apr 16, 2020 | Initial draft | Eugene Doan
