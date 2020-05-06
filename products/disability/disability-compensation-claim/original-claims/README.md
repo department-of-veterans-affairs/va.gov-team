@@ -63,8 +63,11 @@ Reuse the existing 526 form and flow with a transparent experience to the vetera
 Service members being able to apply for their first VA benefits on VA.gov versus eBenefits will improve their overall experience and likelyhood of filing for these benefits.
 
 ## OKRs and KPIs
-### KPI
+### KPIs
 - Traffic to VA.gov 526 experience
+
+#### Baseline KPIs
+- TBD
 
 ### Key Results (KRs) 
 1. We will see an increase in traffic to our 526 forms of 10% (based on traffic in eBenefits)
