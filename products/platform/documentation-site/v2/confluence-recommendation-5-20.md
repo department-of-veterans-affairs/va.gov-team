@@ -81,7 +81,7 @@ Confluence is designed to enable knowledge sharing and collaboration across larg
 
 **Users** — users are defined as team members with a Confluence account, which will be required to a) contribute to documentation, and b) view non-public information. Non-users will still be able to view and comment on public information.
 
-**Search integration (Algolia)** — one strong option for improved search capability is Algolia. The product’s Pro tier is $499/month, but we may require an Enterprise plan. More info on Algolia in our [Recommendation](#recommendation).
+**Search integration (Algolia)** — one strong option for improved search capability is Algolia. The product’s Pro tier is $499/month, but we may require an Enterprise plan. More info on Algolia in our [Recommendation](#search-integration-algolia).
 
 **Publishing add-on (Scroll Viewport - k15t)** — this product is soon to be released for Confluence Cloud; we don’t yet have pricing information. The estimates shown here are based on costs for Scroll Viewport on Confluence Server. More info on Scroll Viewport in our [Recommendation](#recommendation). 
 
