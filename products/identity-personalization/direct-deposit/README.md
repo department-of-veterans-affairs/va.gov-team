@@ -123,7 +123,7 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 - Ramped up from 50% of users to 75% of users - 12.5.19
 - Ramped up to 100% of users — 12.16.19
 
-## OKR's
+## OKRs & KPIs
 
 ### [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
 
