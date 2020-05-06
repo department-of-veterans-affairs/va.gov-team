@@ -1,5 +1,5 @@
 # VAFS/RJSF Recipes
-The VA Forms System (VAFS) is built upon the VA fork of react-json-schema-form (RJSF). Here is VSA's set of internal guidelines and patterns for common yet more advanced forms you may need to create using VASF/RJSF.
+The VA.gov Forms System (VAFS) [[doc](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms)][[src](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/forms-system)] is built upon the VA fork of react-json-schema-form (RJSF) [[src](https://github.com/department-of-veterans-affairs/react-jsonschema-form)][[npm](https://www.npmjs.com/package/@department-of-veterans-affairs/react-jsonschema-form)]. Here is VSA's set of internal guidelines and patterns for common yet more advanced forms you may need to create using VASF/RJSF.
 
 ## Contents
 
@@ -34,6 +34,6 @@ Page | Description
 - Chris Valarida: has been helpful with assisting VSA on VAFS forms issues on Slack. So far has been the most technical, willing to dig into code.
 - Dan Shank: considered the current tech lead for Forms system and other documentation efforts.
 - Rian Fowler: VSP Front End Lead.
-- Jeff Balboni: historical context. Name comes up in slack when searching for uiSchema and other forms-related keywords; also contributed to this 2017 article, "[Building Forms Faster on Vets.gov](https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db)".
+- Jeff Balboni: historical context. Contributor to the [VA fork of RJSF](https://github.com/department-of-veterans-affairs/react-jsonschema-form), co-authored 2017 article, "[Building Forms Faster on Vets.gov](https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db)".
 - Documentation: Megan Kelley, Kristina Gore, etc. Best to go through Dan Shank, Rian Fowler, and Chris Valarida first.
 
