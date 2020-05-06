@@ -31,6 +31,7 @@ In the cardsort, we will create one category called "homepage", and instruct Vet
 23. Your notification preferences (eg. where and how the VA can contact you)
 24. Your dependents 
 25. Updates on your claim or appeal status
+26. Your Representative (Power of Attorney)
 
 ### Items from last summer’s card sort that we are intentionally not including
 
