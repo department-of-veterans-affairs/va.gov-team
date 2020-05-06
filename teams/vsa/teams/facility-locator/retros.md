@@ -26,7 +26,7 @@
 
 [Sprint 19, ending April 21, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/retros.md#sprint-19-ending-april-21-2020)
 
-[Sprint 20, ending May 5, 2020]()
+[Sprint 20, ending May 5, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/retros.md#sprint-20-ending-may-5-2020)
 
 ### Sprint 7, ending November 5, 2019
 
