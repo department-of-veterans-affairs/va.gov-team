@@ -83,7 +83,7 @@ Confluence is designed to enable knowledge sharing and collaboration across larg
 
 **Search integration (Algolia)** — one strong option for improved search capability is Algolia. The product’s Pro tier is $499/month, but we may require an Enterprise plan. More info on Algolia in our [Recommendation](#search-integration-algolia).
 
-**Publishing add-on (Scroll Viewport - k15t)** — this product is soon to be released for Confluence Cloud; we don’t yet have pricing information. The estimates shown here are based on costs for Scroll Viewport on Confluence Server. More info on Scroll Viewport in our [Recommendation](#recommendation). 
+**Publishing add-on (Scroll Viewport - k15t)** — this product is soon to be released for Confluence Cloud; we don’t yet have pricing information. The estimates shown here are based on costs for Scroll Viewport on Confluence Server. More info on Scroll Viewport in our [Recommendation](#publishing-add-on-scroll-viewport---k15t). 
 
 ### Additional costs
 
