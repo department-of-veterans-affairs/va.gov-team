@@ -149,7 +149,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### November 13 - 15: Authenticated Experience/Personalization: Candidate Address - Override Usability
 *VA: Samara Strauss*
 - 5 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/contact-information/address-validation/user%20testing/Research%20Plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/user%20testing/Research%20Plan.md)
 
 ### October 2019
 

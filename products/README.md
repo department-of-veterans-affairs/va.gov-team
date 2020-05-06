@@ -47,7 +47,7 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 
 ### User Identity and Personalization
 - [Account and profile](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/account-profile)
-- [Change address](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/contact-information)
+- [Change address](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information)
 - [Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/dashboard)
 - [Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit)
 - [Login and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
