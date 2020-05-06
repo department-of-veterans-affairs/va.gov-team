@@ -128,7 +128,7 @@ As the authenticated experience team, we want to be able to do the following:
 ## OKRs
 Objective: Create a Profile experience that makes it easier to find tools and complete tasks
 
-- [Address Validation KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/product-outline.md#kpis)
+- [Address Validation KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/contact-information/address-validation/product-outline.md#kpis)
 - [Address Validation Analytics](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/RCgGG1xYQtmqUXZda2yGOw/a50123418w177519031p176188361/)
 - [Direct Deposit KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit#kpis)
 - [Direct Deposit Analytics](https://analytics.google.com/analytics/web/#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/_u.date00=20191101&_u.date01=20200428/)
