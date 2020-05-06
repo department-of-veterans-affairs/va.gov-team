@@ -39,7 +39,7 @@ This section will show the following:
  - **Content**: We've verified your identity
  - **FAQ link text**: How do I update my personal information?
 
-- **Section title**: Addresses
+- **Section title**: Addresses 
  - **Mailing address**: Entered by user
  - **If nothing is entered text** Please add your mailing address
 
