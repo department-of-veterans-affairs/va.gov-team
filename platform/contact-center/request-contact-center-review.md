@@ -45,6 +45,8 @@ All applications on the Veteran-facing Services Platform include a phone number 
   1. Create a Product Video (with audio) that steps through the primary user flows.
   1. Create a transcript of the audio from the Product Video. The transcript must be a Word document or a PDF.
   1. Remember your Product Video will be uploaded to the VA Youtube channel. It will be unlisted but visible to people with the URL.
+  
+     [Contact Center Product Demo Video Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/product-demo-video-process.md)
 
 ## Request Contact Center Review
 
