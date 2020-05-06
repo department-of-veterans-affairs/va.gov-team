@@ -103,7 +103,7 @@ We expect to see the following:
 
 ## OKRs & KPIs
 
-### [GA dashboard for address validation]()
+### [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
 **Objective**: Reduce mailing issues and improve data quality
 
