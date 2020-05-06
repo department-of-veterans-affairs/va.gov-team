@@ -107,43 +107,30 @@ We expect to see the following:
 
 **Objective**: Reduce mailing issues and improve data quality
 
+Objective: Reduce mailing issues and improve data quality
+
 **Key result**: Decreased returned mail and calls to the VA contact center (data not readily available)
 - Bet 1: Implement address validation
 - Bet 2: Implement address suggestions as part of validation
-- KPI: *Need to see if we can track down returned mail metrics**
-- KPI: Reduction in call center complaints (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
+- KPI: Need to see if we can track down returned mail metrics*
+- KPI: Reduction in call center complaints (#6012)
 
-**Key result**: Decrease in save errors
+**Key result**: Decrease in save errors/Increase in successful saves
 - Bet 1: Implement address validation
 - Bet 2: Implement address suggestions as part of validation
 - KPI: Mailing address save errors on GA dashboard
 - KPI: Home address save errors on GA dashboard
+- KPI: Mailing address successful saves on GA dashboard
+- KPI: Home address successful saves on GA dashboard
 
-**Key result**: Increase in successful saves
+**Key result**: Improved address data quality/reduction in bad addresses
 - Bet 1: Implement address validation
-- Bet 2: Implement address suggestions as part of validation
-- KPI: Mailing address save successes on GA dashboard
-- KPI: Home address save successes on GA dashboard
-
-**Key result**: Improved address data quality/Reduce the number of bad addresses being saved in VA profiles
-- Bet 1: Implement suggested addresses
+- Bet 2: Implement suggested addresses
 - KPI: Address suggestions provided on GA dashboard
 - KPI: Address suggestions used on GA dashboard
+- KPI: Mailing address successful saves on GA dashboard
+- KPI: Home address successful saves on GA dashboard
 
-
-## KPIs
-
-### Objectives & Tracking
-- **Objective**: Reduce the number of veterans that report to call centers that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
-  - **Tracking**: Work with the contact center team team to see if there is an decrease in call in cases.
-- **Objective**: Increase the amount of successful mailing address submissions.
-  - **Tracking**: Track whether we see people using suggested addresses.
-- **Objective**: Reduce the number of bad addresses being saved in VA profiles
-  - **Tracking**: Low override; high rate of using suggestions or editing/saving addresses.
-  - **Tracking**: Track the number of successful address form submissions increases.
-- **Objective**: Reduce returned mail at the VA (Note: Not sure how to measure this).
-  - **Tracking**: Not sure how to determine whether the overall rate of returned mail has decreased at the VA.
-  
 ---
 
 # Implementation Info
