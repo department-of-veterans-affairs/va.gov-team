@@ -125,10 +125,11 @@ We expect to see the following:
 - KPI: Mailing address save successes on GA dashboard
 - KPI: Home address save successes on GA dashboard
 
-**Key result**: Improved address data quality
+**Key result**: Improved address data quality/Reduce the number of bad addresses being saved in VA profiles
 - Bet 1: Implement suggested addresses
 - KPI: Address suggestions provided on GA dashboard
 - KPI: Address suggestions used on GA dashboard
+
 
 ## KPIs
 
