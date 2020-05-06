@@ -12,7 +12,8 @@
 - Once QA passes, automated process to move from DEV →  Staging →  Prod 
   - A script needs to be created 
   - Jenkins job to run the script
-- The team will push regular content change requests received to Prod twice every week, on Tuesdays and Thursdays. Additionally, if there are any critical updates that are required, the team will make such changes available on Prod as needed. 
+- The team will push regular content change requests received to Prod twice every week, on Monday's and Thursdays. Additionally, if there are any critical updates that are required, the team will make such changes available on Prod as needed. 
+  - If a Holiday falls on a Monday, content change will happen the following business day
   
 ## Open Questions 
 - Who needs to be involved to get changes from DEV →  Staging →  Prod? Who has access to be able to do this?
