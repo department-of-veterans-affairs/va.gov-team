@@ -1,5 +1,5 @@
-# Wish List
-Things we would like to become items in a visible backlog.
+# Wish List (Backlog Candiates)
+If implemented and acted on by VSP and VSF teams, these things could improve the form system function and process, so we'd like them to become items in a visible backlog.
 
 ## Visible Backlog (Transparency)
 Visible backlog of VAFS/RJSF items in VSP that VSA developers can see so that we have transparency into what is known and not known as far as defect, features, or workarounds. WHEN or IF we get any of these improvements is a totally different story, but we at least need to keep track of the issues so that we don't keep stepping into them. Specifically for Forms, we would like to make known issues [defects, feature requests, known limits, etc] more transparent.
