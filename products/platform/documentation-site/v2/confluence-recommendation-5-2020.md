@@ -2,6 +2,7 @@
 ## Confluence Cloud with Add-ons
 
 Date: May 2020
+
 Authors: VSP’s Content & Information Architecture Team — Gretchen Maciolek, Megan Kelley
 
 ### Table of Contents
