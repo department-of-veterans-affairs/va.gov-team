@@ -1,5 +1,6 @@
 # Monitoring
 
+Note: Sentry access requires VA network connection (VPN/CAG).
 
 ### [Dev](https://dev.va.gov/coronavirus-chatbot/)
 - [Sentry FE](http://sentry.vfs.va.gov/vets-gov/website-development/?query=url%3A%22https%3A%2F%2Fdev.va.gov%2Fcoronavirus-chatbot%2F%22) 
