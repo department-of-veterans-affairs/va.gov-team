@@ -66,6 +66,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 ## Technical
 - Initial technical discovery for improvements (Jan 2020) https://github.com/department-of-veterans-affairs/va.gov-team/issues/5322#issuecomment-580918779
 - Search.gov GitHub Repository for VA.gov implementation https://github.com/GSA/search-gov-agency-collaboration
+- VA.gov XML Site Map - https://www.va.gov/sitemap.xml
 ## Product
 An assessment of the features available for API-based implementations of Search.gov has found that the following capabilities are --  or will soon -- be available: 
 - Type-ahead
