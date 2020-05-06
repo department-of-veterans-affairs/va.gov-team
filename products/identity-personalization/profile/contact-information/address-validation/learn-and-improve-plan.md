@@ -2,7 +2,7 @@
 
 ## KPIs
 
-From our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/contact-information/address-validation/product-outline.md#kpis).
+From our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md#kpis).
 
 ### Objectives & Tracking
 - **Objective**: Reduce the number of veterans that report to call centers that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
@@ -28,7 +28,7 @@ We already track [successful mailing/home address submissions](https://analytics
 
 ### Post-launch
 
-- Do a [phased launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/contact-information/address-validation/release-plan.md) to make sure everything is working properly.
+- Do a [phased launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/release-plan.md) to make sure everything is working properly.
 - After we have launched to 100% of users, go back to the veterans who have contacted the call center saying they can't update their addresses and have them try now that the address validation is live. If this works, we'll have resolved the issue around some veterans not being able to save their addresses.
 
 ### 1 – 2 months post-launch
@@ -47,4 +47,4 @@ With a few months of data behind us, this would be the point to start figuring o
 
 ## Potential next phase
 
-Based on whether we see a reduction in mail returned to the VA or not, we may want to consider pursuing the [bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/contact-information/bad-address-indicator/product-outline.md) that was proposed last fall.
+Based on whether we see a reduction in mail returned to the VA or not, we may want to consider pursuing the [bad address indicator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/product-outline.md) that was proposed last fall.

@@ -61,7 +61,7 @@ We receive returned mail back from Veteran addresses not recognized by Vet360, w
 1.  Implement an effective method of notifying Veterans that they have a bad mailing address.
 2.  Clearly communicating they have a bad mailing address, that they need to update their mailing address and that they can do it on VA.gov or by calling into the VA.
 3.  Displaying information regarding their bad mailing address status clearly on VA.gov
-4.  Allowing them to update their address on VA.gov [Updating address UX is being optimized here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/contact-information/address-validation)
+4.  Allowing them to update their address on VA.gov [Updating address UX is being optimized here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation)
 
 ### User Goals
 **As a user, I want to be notified as soon as possible that I have had returned mail from the VA**.
