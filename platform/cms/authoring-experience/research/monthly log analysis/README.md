@@ -9,7 +9,7 @@
 A cycle of data collection and analysis will happen monthly and a readout will be available in the first half of the next month.
 
 ### Data collection and analysis:
-* Data collection and analysis will be done by Jordana Mello and Rachel Kauff.
+* Data collection and analysis will be done by Jordana Mello and Nick Bloom.
 * Throughout the cycle, relevant content to be analyzed will be redirected to the #cms-log-anlaysis.
 * After removing sensitive data, the content will be added to Reframer and coded.
 
