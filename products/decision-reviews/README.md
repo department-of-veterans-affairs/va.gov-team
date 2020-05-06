@@ -150,9 +150,11 @@ WIP: Needs research into existing costs (in time, money, and quality-of-life) of
 Note that BVA has expressed that they are getting "hammered" with mail.
 
 #### Baseline KPIs
+to be added
 
 ### Key Results (KRs)
-tbd
+to be added
+
 
 ---
 ## Results and Recommendations
