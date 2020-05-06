@@ -34,6 +34,7 @@ This section will show the following:
 **Personal and Contact information** 
 
 **Section title**: N/A
+
 **Date of birth**: (Populates dynamically using the info we currently get from DEERS)
 **Gender**: (Populates dynamically using the info we currently get from DEERS)
 **Content**: We've verified your identity
