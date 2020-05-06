@@ -107,13 +107,12 @@ We expect to see the following:
 
 **Objective**: Reduce mailing issues and improve data quality
 
-Objective: Reduce mailing issues and improve data quality
 
 **Key result**: Decreased returned mail and calls to the VA contact center (data not readily available)
 - Bet 1: Implement address validation
 - Bet 2: Implement address suggestions as part of validation
-- KPI: Need to see if we can track down returned mail metrics*
-- KPI: Reduction in call center complaints (#6012)
+  - KPI: Need to see if we can track down returned mail metrics*
+  - KPI: Reduction in call center complaints (#6012)
 
 **Key result**: Decrease in save errors/Increase in successful saves
 - Bet 1: Implement address validation
