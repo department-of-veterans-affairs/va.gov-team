@@ -121,68 +121,161 @@ This section will show the following:
   - **Link text**: Update email address on DS Logon
   - **Link**:
 
+## Addresses
 ### Personal and contact information - Edit Mailing Address 
 
 ![pc-edit mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-edit%20mailing%20address.png)
 
-- **Terms and conditions**
-  - **Content**: To get started using our health tools, you'll need to read and agree to the Terms and Conditions for Medical Information.  This will give us your permission to show you your VA medical information on this site.
-  - **Link text**: Go to the Terms and Conditions for Health Tools
-  - **Link**: https://va.gov/health-care/medical-information-terms-conditions/
-
-Blue box content:
-- **Have questions about signing in to VA.gov?**
-  - **Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
-
-### Requirements
-
-
-### Design
-### Account Security - 2FA
-
-![Account Security - 2FA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20-%202%20factor.jpg)
+**Mailing address**
+ - **Checkbox** I live on a United States miliatry base outside of the United States
+ - **Dropdown**: Learn more about military base addresses
+ - **Dropdown Text**: 
+  
+ - **Field Title**: Street address line 1 (*Required)
+ - **Field**
  
-### Copy
+ - **Field Title**: Line 2
+ - **Field**
 
-**Note**: Copy is the same is it is in prod.
+ - **Field Title**: Line 3
+ - **Field**
  
-- **Identity verification** 
-- **Content**: We need to make sure you're you - and not someone pretending to be you - before we can give you access to your personal and health-related information.  This helps to keep your information safe, and to prevent fraud and identity theft.
-- **Link text**: Verify your identity
-- **Link**: https://staging.va.gov/sign-in-faq/#verifying-your-identity
+ - **Field Title**: City (*Required)
+ - **Field**
+ 
+ - **Field Title**: State (*Required)
+ - **Field**
+ 
+ - **Field Title**: Postal code (*Required)
+ - **Field**
+ 
+ - **Button Text**: Save
+ - **Button Text**: Cancel
+ 
+ ### Processing update button
+ 
+![pc-processing update] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-processing%20update.png)
 
-- **2-factor authentication**
-- **Content**: You've added an extra layer of security to your account with 2-factor authentication.
+ - **Button Text**: Processing update...
+ 
+ ### Couldn't update
+ 
+![pc-couldn't update] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-couldn't%20update.png)
 
+- **Text**: We're sorry.  We couldn't update your mailing address. Please try again.
 
-- **Terms and conditions**
-- **Content**: To get started using our health tools, you'll need to read and agree to the Terms and Conditions for Medical Information.  This will give us your permission to show you your VA medical information on this site.
-- **Link text**: Go to the Terms and Conditions for Health Tools
-- **Link**: https://va.gov/health-care/medical-information-terms-conditions/
+ ### Processing update button
+ 
+![pc-delayed update] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-delayed%20update.png)
 
-Grey box content:
-- **Have questions about signing in to VA.gov?**
-- **Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
+ - **Text**: We're sorry for the delay.  This can take up to 30 minutes to save.  You can close this section and we'll continue working on it and let you know when it's saved.
+ 
+  ### Address has been saved
+ 
+![pc-mailing address saved] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-mailing%20address%20saved.png)
 
+ - **Text**: Your mailing address has been saved.
+ 
+ ### Confirm Address
+ 
+![pc-confirm address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-confirm%20address.png)
 
-## MOBILE VIEW
+**Mailing address**
+Grey Box
+ - **Title** Please confirm your address
+ - **Text**: We couldn't confirm your address with the U.S. Postal Service.  Please verify your address so we can save it to your VA profile.  If the address you entered isn't correct, please edit it or choose a suggested address below.
+  
+ - **Title**: You entered:
+ - **Radio Button**
+ - **Button**: Edit
+ 
+ - **Title**: Suggested addresses:
+ - **Radio Button**
+ 
+ 
+ - **Button Text**: Save
+ - **Button Text**: Cancel
+ 
+  ### Update/confirm unit number
+ 
+![pc-unit number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-unit%20number.png)
 
-### Design
+**Mailing address**
+Grey Box
+ - **Title** Please update or confirm your unit number
+ - **Text**: We couldn't confirm your address with the U.S. Postal Service because there may be a problem with the unit number.  Please edit your address to update the unit number. If your unit number is already correct, please continue with the address you entered below. 
+  
+ - **Title**: You entered:
+ - **Radio Button**
+ - **Button**: Edit
+ 
+ - **Button Text**: Save
+ - **Button Text**: Cancel
+ 
+ 
+ ### Personal and contact information - Home Mailing Address
 
-[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
+![pc-edit home address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-edit%20home%20address.png)
 
-![Account Security - Identity Verified - Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20Mobile%20-%20Identity%20Verified.jpg)
+**Home address**
+ - **Checkbox** My home address is the same as my mailing address.
+  
+ - **Field Title**: Street address line 1 (*Required)
+ - **Field**
+ 
+ - **Field Title**: Line 2
+ - **Field**
 
-### Design
+ - **Field Title**: Line 3
+ - **Field**
+ 
+ - **Field Title**: City (*Required)
+ - **Field**
+ 
+ - **Field Title**: State (*Required)
+ - **Field**
+ 
+ - **Field Title**: Postal code (*Required)
+ - **Field**
+ 
+ - **Button Text**: Save
+ - **Button Text**: Cancel
+ - **Button Text**: Delete
+ 
+## Phone Numbers
 
-[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
+![pc-edit phone number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-edit%20phone%20number.png)
 
-![Account Security - 2FA - Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20Mobile%20-%202%20factor.jpg)
+**Home**
+Grey Box
+ - **Text** We can only support U.S. phone numbers right now.  If you have an international number, please check back later.
+  
+ - **Field Title**: Number (*Required)
+ - **Field**
+ 
+ - **Field Title**: Extension
+ - **Field**
+ 
+ - **Button Text**: Save
+ - **Button Text**: Cancel
+ - **Button Text**: Delete
+ 
+ ## Email Addresses
+ 
+ ## Messaging
+ 
+ ### Unable to retrieve personal information
+ 
+![pc-unable to retrieve personal info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-unable%20to%20retrieve%20personal%20info.png)
 
+Grey Box
+ - **Title**: We are unable to retrieve your personal information
+ - **Text**: We're sorry.  Something went wrong on our end and we couldn't access your personal information.  Please try again later.
+ 
+ ### Unable to retrieve contact information
+ 
+![pc-unable to retrieve contact info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/personal-and-contact-information/pc-unable%20to%20retrieve%20contact%20info.png)
 
-### Design
-
-[Most up-to-date version on InVision](https://vsateams.invisionapp.com/share/34WJ8JOCMAB)
-
-![Account Security - Navigation - Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/design-specs/profile-images/account-security/Account%20Security%20Mobile%20-%20Nav.jpg)
-
+Grey Box
+ - **Title**: We are unable to retrieve your contact information
+ - **Text**: We're sorry.  Something went wrong on our end and we couldn't access your contact information.  Please try again later.
