@@ -15,8 +15,6 @@
 - The team will push regular content change requests received to Prod twice every week, on Tuesdays and Thursdays. Additionally, if there are any critical updates that are required, the team will make such changes available on Prod as needed. 
   
 ## Open Questions 
-- What will the frequency be for uploading a file to healthbot? 
-> A: Once a day (determine a set time) 
 - Who needs to be involved to get changes from DEV →  Staging →  Prod? Who has access to be able to do this?
 
 # Content process
