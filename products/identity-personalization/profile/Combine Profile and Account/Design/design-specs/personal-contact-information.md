@@ -36,13 +36,19 @@ This section will show the following:
 **Section title**: N/A
 
 **Date of birth**: (Populates dynamically using the info we currently get from DEERS)
+
 **Gender**: (Populates dynamically using the info we currently get from DEERS)
+
 **Content**: We've verified your identity
+
 **FAQ link text**: How do I update my personal information?
 
 **Section title**: Addresses
+
 **Mailing address**: Entered by user
+
 **If nothing is entered text** Please add your mailing address
+
 **Button Text**: Edit
 **Button Link**: Links to in-line editing 
 
