@@ -16,7 +16,8 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [KPIs](#okrs-and-kpis)
+- [Results and Recommendations](#Results-and-Recommendations)
 
 # Implementation Information
 - [Status](#status)
@@ -134,19 +135,32 @@ Overall approach: Start with HLR Compensation (since it's relatively simple and 
 
 "You can reduce the burden on Intake staff significantly by providing them fact-checked information directly from VA partner systems." WIP: this will be further developed when the existing metrics are better understood (see KPIs, below).
 
-## KPIs
+## OKRs and KPIs
 
-WIP: Needs research into existing costs (in time, money, and quality-of-life) of decision review request processing. 
-
-Note that BVA has expressed that they are getting "hammered" with mail.
-
-**Metrics**
+### KPIs
 - Higher digital conversion rates and lower paper form submissions
 - Veterans are more satisfied with their claims process
 - Lower processing costs
 - Less time to complete forms
 - Less time to get adjudication/completion from VA for appeals
 - Fewer PDF downloads vs. completion rates
+
+WIP: Needs research into existing costs (in time, money, and quality-of-life) of decision review request processing. 
+
+Note that BVA has expressed that they are getting "hammered" with mail.
+
+#### Baseline KPIs
+
+### Key Results (KRs)
+tbd
+
+---
+## Results and Recommendations
+### Results
+TBD after launch
+### Recommendations
+TBD after launch
+
 
 ---
 
