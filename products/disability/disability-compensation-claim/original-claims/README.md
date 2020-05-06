@@ -74,6 +74,11 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 2. After 6 months, we will see another 5% increase as the ease of use for VA.gov will get more veterans to use VA.gov.
 
 ---
+## Results and Recommendations
+### Results
+TBD after launch
+### Recommendations
+TBD after launch
 
 ## Team
 
