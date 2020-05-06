@@ -117,18 +117,18 @@ We expect to see the following:
 **Key result**: Decrease in save errors/Increase in successful saves
 - Bet 1: Implement address validation
 - Bet 2: Implement address suggestions as part of validation
-- KPI: Mailing address save errors on GA dashboard
-- KPI: Home address save errors on GA dashboard
-- KPI: Mailing address successful saves on GA dashboard
-- KPI: Home address successful saves on GA dashboard
+  - KPI: Mailing address save errors on GA dashboard
+  - KPI: Home address save errors on GA dashboard
+  - KPI: Mailing address successful saves on GA dashboard
+  - KPI: Home address successful saves on GA dashboard
 
 **Key result**: Improved address data quality/reduction in bad addresses
 - Bet 1: Implement address validation
 - Bet 2: Implement suggested addresses
-- KPI: Address suggestions provided on GA dashboard
-- KPI: Address suggestions used on GA dashboard
-- KPI: Mailing address successful saves on GA dashboard
-- KPI: Home address successful saves on GA dashboard
+  - KPI: Address suggestions provided on GA dashboard
+  - KPI: Address suggestions used on GA dashboard
+  - KPI: Mailing address successful saves on GA dashboard
+  - KPI: Home address successful saves on GA dashboard
 
 ---
 
