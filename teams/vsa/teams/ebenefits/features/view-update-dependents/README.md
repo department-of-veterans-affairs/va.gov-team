@@ -126,6 +126,17 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## OKRs & KPIs
 
+## KPIs
+- 686 views
+- Successful application submissions
+- Number of auto-approved applications by Rules Based Processing Service (RBPS)
+- Time to complete 686
+
+### Baselines
+- tbd
+
+## OKRs
+
 **Objective 1:** Greater number of Veterans applying to get benefits associated with their dependents.
 - Key Results 1: Data shows the number of views of the 686 application has increased since migration; statistically significant increase in traffic
 - Key Results 2: Data shows more applications are being successfully submitted; statistaclly significant increase in number of approved submissions 
@@ -143,6 +154,12 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 **Objective:** Enhance communication between form and Veteran  
 **Objective:** Change structure to allow for minimal Veteran overhead/ impact  
 
+---
+## Results and Recommendations
+### Results
+TBD after launch
+### Recommendations
+TBD after launch
 
 ---
 
