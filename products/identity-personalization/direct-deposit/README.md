@@ -40,8 +40,7 @@ Last Updated December 10, 2019
 - [Discovery Takeaways](#discovery-takeaways)
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
-- [OKRs](#okrs)
-- [KPIs](#kpis)
+- [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
 - [Status](#status)
@@ -125,22 +124,20 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 - Ramped up to 100% of users — 12.16.19
 
 ## OKR's
-Objective: Improve security of Direct Deposit
 
-OKR: Reduced cases of fraudulent activity
+### [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+
+**Objective: Improve security of Direct Deposit**
+
+**Key result**: Reduced cases of fraudulent activity
 - Bet 1: Add 2FA to Direct Deposit
+- KPI: [Reduced cases of fraud reported by fraud team](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit/analytics)
+- KPI: Low numbers for both "account-flagged-for-fraud-error-update" and "account-flagged-for-fraud-error-enroll" metric on GA dashboard
 
-OKR: Increased utilization of direct deposit
+**Key result**: Increased utilization of direct deposit
 - Bet 1: Move Direct Deposit to the Profile
-
-
-## KPIs
-
-### Objective
-
-- Improve direct deposit security and decrease the number of cases of fraud.
-- Implement improved error messaging that will help direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
-- Decrease "flagged for fraud" error rate. Information on this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
+- KPI: High numbers "Form Submits for Direct Deposit Information" metric on GA dashboard
+- KPI: Low numbers for "Failures in Saving Direct Deposit Information" metric on GA dashboard
 
 ### Tracking
 
