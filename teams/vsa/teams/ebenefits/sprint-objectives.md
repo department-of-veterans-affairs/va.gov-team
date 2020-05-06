@@ -14,7 +14,9 @@
 ```
 ## 1. Prepare "Dependency Claims" for pre-launch
 - FE: Standardize 686 launch infrastructure and form code to match other forms on platform
+- FE: Adjust for 508 needs in View Dependents
 - BE: Investigate `VA file number` API endpoint, PDF creation
+- BE: Bring in PDF creation tasks as available
 - Product: user story smoke test + test cases
 - Team: Set critical dates for launch activities (e2e testing, load testing, usability, UAT, n% rollout)
 
