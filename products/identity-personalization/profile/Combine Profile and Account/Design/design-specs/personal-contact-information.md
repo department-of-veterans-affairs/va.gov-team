@@ -130,7 +130,7 @@ This section will show the following:
 - **Link text**: Go to the Terms and Conditions for Health Tools
 - **Link**: https://va.gov/health-care/medical-information-terms-conditions/
 
-Grey box content:
+Blue box content:
 - **Have questions about signing in to VA.gov?**
 - **Content**: Get answers to frequently asked questions about how to sign in, common issues with verifying your identity, and your privacy and security on VA.gov
 
