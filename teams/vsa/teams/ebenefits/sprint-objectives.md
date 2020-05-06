@@ -8,9 +8,28 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
+## Sprint 21 (5/6 - 5/19)
+```diff
+- 41 points over 16 issues
+```
+## 1. Prepare "Dependency Claims" for pre-launch
+- FE: Standardize 686 launch infrastructure and form code to match other forms on platform
+- BE: Investigate `VA file number` API endpoint, PDF creation
+- Product: user story smoke test + test cases
+- Team: Set critical dates for launch activities (e2e testing, load testing, usability, UAT, n% rollout)
+
+## 2. Payments, POA, PCPG: Design Iteration
+- Design: Iterate on product designs for PCPG
+
+## 3. VRE (CH31): Initial Documentation
+- Design: High level thumbnail, user journey
+
+## 4. (STRETCH) Scaffold Loan Guaranty Application Projects
+- Product: Build product documentation (SK)
+
 ## Sprint 20 (4/22 - 5/5)
 ```diff
-- 50 points over 15 issues
+- 64 points over 20 issues
 ```
 ## 1. Prepare "Dependency Claims" for pre-launch
 - FE: Standardize 686 launch infrastructure and form code to match other forms on platform
