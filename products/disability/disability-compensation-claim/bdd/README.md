@@ -65,11 +65,26 @@ Reuse the existing 526 form and flow with only changes related to seperation dat
 ## Value Propositions
 Service members being able to apply for their first VA benefits on VA.gov versus eBenefits will improve their overall experience and likelyhood of filing for these benefits.
 
+## OKRs and KPIs
 ## KPIs
+- 526 traffic
+
+### Baseline KPIs
+- TBD
+
+## Key Results (KRs)
+
 1. We will see an increase in traffic to our 526 forms of 10% (based on traffic in eBenefits)
 2. After 6 months, we will see another 5% increase as the program is advertised to more service members.
 
 ---
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
@@ -108,6 +123,8 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 		- => HAIMS will only send Post discharge STR manifest once all results are available and there is a certification memo.
 
 ## Product Decisions
+
+
 
 ## Team
 
