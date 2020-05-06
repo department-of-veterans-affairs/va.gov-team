@@ -43,11 +43,16 @@ I have a few things I need to mention before we start:
 
 **Now we're ready to start.** Because dependents are family-members, some of the scenarios I have on my list (like divorce, children leaving home and even death) may be hard for you to get through. Please let me know if you'd like to skip a particular task, and we'll move to another.
 
-## Workflow set 1
-- Add spouse/Report divorce
-- Report death
-- Add student
-- Report student left school
+We'll be exploring made-up scenarios that don't neccessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
+
+## Workflow set 1 scenarios
+- **Add spouse/Report divorce** | You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse.
+- **Add student** | You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent.
+
+It's been an eventful year for you. Two major events have ocurred close together:
+
+- **Report death** | Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA.
+- **Report student left school** | Your now 23-year-old step child just graduated college, and is no longer considered a dependent by VA.
 
 ### First task: introduction and checkbox selection
 - Question/step
@@ -89,7 +94,7 @@ I have a few things I need to mention before we start:
 
 ---
 
-## Workflow set 2
+## Workflow set 2 scenarios
 - Add spouse/Add child
 - Report death
 - Report marriage of child
