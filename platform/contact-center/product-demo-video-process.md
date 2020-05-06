@@ -1,4 +1,4 @@
-### Contact Center Training Video Process
+### Contact Center Product Demo Video Process
 
 ## Summary
 Training videos are the video version of the product guide and are created by VFS teams for contact center use.  The contact center training videos can easily be created by recording a Slack, Zoom, Microsoft Teams, or Skype call.  
