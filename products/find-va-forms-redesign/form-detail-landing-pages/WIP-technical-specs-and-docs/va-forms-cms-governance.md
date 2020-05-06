@@ -35,7 +35,7 @@ Form pages will be governed by the same workflow as other content ('Draft', 'In 
 
 
 ## Stage 2
-- The VA Forms DB is retired and all public facing VA forms are managed in the CMS.
+- The VA Forms DB is retired and all public facing VA forms are managed in the CMS. VA forms managers get training and permission setting to manage forms in the CMS (ex: upload/delete forms). 
 
 - The CMS is the source of truth for all form data for public facing VA forms. 
 
