@@ -380,7 +380,7 @@ Enforcing integration test coverage would be difficult since there's no real way
 
 Date | Revisions Made | Author
 -----|----------------|--------
-May 6, 2020 | Added deploy strategy and a question and risk. | Eugene Doan
+May 6, 2020 | Added workflow diagram, deploy strategy, and a question and risk. | Eugene Doan
 Apr 30, 2020 | Updated with clarifications from review | Eugene Doan
 Apr 21, 2020 | <ul><li>Added questions.</li><li>Revisions to clarify CI workflow.</li><li>Revisions to clarify questions from comments.</li></ul> | Eugene Doan
 Apr 16, 2020 | Initial draft | Eugene Doan
