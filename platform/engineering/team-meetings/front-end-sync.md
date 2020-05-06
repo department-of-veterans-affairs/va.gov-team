@@ -1,3 +1,12 @@
+# 20200506
+
+## Agenda
+- automated forms tester that uses cypress
+- style linting + button-has-type linting
+
+## Notes
+- jhonny is going to look into style linting 
+
 # 20200325
 
 ## Agenda
