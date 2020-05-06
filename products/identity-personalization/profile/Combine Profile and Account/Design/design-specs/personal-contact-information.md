@@ -33,24 +33,18 @@ This section will show the following:
 
 **Personal and Contact information** 
 
-**Section title**: N/A
+- **Section title**: N/A
+ - **Date of birth**: (Populates dynamically using the info we currently get from DEERS)
+ - **Gender**: (Populates dynamically using the info we currently get from DEERS)
+ - **Content**: We've verified your identity
+ - **FAQ link text**: How do I update my personal information?
 
-**Date of birth**: (Populates dynamically using the info we currently get from DEERS)
+- **Section title**: Addresses
+ - **Mailing address**: Entered by user
+ - **If nothing is entered text** Please add your mailing address
 
-**Gender**: (Populates dynamically using the info we currently get from DEERS)
-
-**Content**: We've verified your identity
-
-**FAQ link text**: How do I update my personal information?
-
-**Section title**: Addresses
-
-**Mailing address**: Entered by user
-
-**If nothing is entered text** Please add your mailing address
-
-**Button Text**: Edit
-**Button Link**: Links to in-line editing 
+- **Button Text**: Edit
+- **Button Link**: Links to in-line editing 
 
 **Home address**: Entered by user
 **If nothing is entered text** Please add your home address
