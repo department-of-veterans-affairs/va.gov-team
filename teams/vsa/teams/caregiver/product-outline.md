@@ -81,8 +81,9 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Start processing applications faster
 - Fewer rejections
 
-## KPIs
+## KPIs and OKRs
 
+### KPIs
  - How many applications are submitted
  - How many applications are submitted online
  - How many applications are successful vs. unsuccessful
@@ -90,10 +91,10 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
-### Baseline KPIs
+#### Baseline KPIs
 tbd
 
-## OKRs
+### OKRs
 tbd
 
 ---
