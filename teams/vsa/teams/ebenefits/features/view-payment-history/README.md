@@ -18,7 +18,7 @@
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
-- [KPIs](#kpis)
+- [KPIs and OKRs](#kpis-and-okrs)
 
 # Implementation Information
 - [Status](#status)
@@ -76,7 +76,15 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 - Perform usability tests
 - Follow launch checklist
 
-## KPIs
+## KPIs and OKRs
+### KPIs
+- % of View Payment History traffic (EBN / VA.gov)
+- Time to view My Payment History
+
+#### Baseline KPIs
+- Time to view My Payment History: 1 minute
+
+### OKRs
 
 **Objective 1:** Migrate out of eBenefits and into VA.gov
 - Key result #1: `100%` of the functionality is addressed in VA.gov by July 2020 (for view payment history)
@@ -85,6 +93,15 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 
 **Objective 2:** Decrease the time taken to view payment history
 - Key result #1: Decrease time to acquire data from `1 minute` to less than `30s`
+
+---
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
