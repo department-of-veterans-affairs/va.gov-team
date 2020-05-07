@@ -2,24 +2,33 @@
 
 ## mm/dd/yy
 
+
+## 05/07/20
+
+__Decision re non-VA forms and form detail landing page:__
+
+__We will not disable non-VA forms from being published as form detail landing pages.__ There are not that many of them, and for those that do have search value, it's an opportunity to make people aware of VA benefits and services, and as a government agency, we are still better equipped to send people to the source of truth (vs. non-government sites that hijack government forms for nefarious purposes). 
+
+
+
 ## 05/06/20
 Outcome - form detail landing page migration process and requirements - call with Beth Jacobson. 
 
-New understanding regarding form detail landing page governance and behavior in the CMS - WIP documentation here (not merged into main branch yet): https://github.com/department-of-veterans-affairs/va.gov-team/blob/jenniferlee-edits-va-forms-cms-governance/products/find-va-forms-redesign/form-detail-landing-pages/WIP-technical-specs-and-docs/va-forms-cms-governance.md
+(Updated 5/7)
 
 __Changes in undestanding and requirements:__
 
-- Migration will automatically generate a form detail landing page in the CMS in DRAFT state. 
+- Nightly migration will automatically generate a form detail landing page in the CMS in publish state. 
 
-- A PW content editor needs to validate the form details (and/or customize the editable CMS form fields as needed). 
+- When a new form is added or a form is removed, a PW content editor will review the form detail page and add customized field data if needed or delete the form detail page and initiat a redirect. 
 
 - Only someone with PW content publisher permission can edit, delete, and publish form detail landing pages. 
 
-- If a form is "Not a VA form" -- example: a GSA form -- we will **not** publish a form detail landing page for it. (This is still TBC at the moment - given there are currently fewer than 30 non VA forms, might be more sustainalbe to alow form detail landing page for these and just delete them later -- but still allow forms to come up on the search; they just wouldn't get a detail page.)
+- If the form is mot a VA form, the PW content editor/publisher will check that value. This will not (in MVP 1.0) exclude it from search. It will show on the form detail Related to field some TBD verbiage that this is not a VA form and possibly provide a link to the GSA forms site.  
 
 - @beth will create a batch publishing dashboard for migrated forms. This will allow the PW content team and QA to validate the initial set of forms in Draft state, and publish them together as a batch after validation/QA. 
 
-- We need a notification mechanism in order to know when a new form has been added or deleted (vis-a-vis removing/redirecting the associated form detail landing page). @beth to look into this [notification ticket #8567](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/8567)
+- We need a notification mechanism in order to know when a new form has been added or deleted (vis-a-vis removing/redirecting the associated form detail landing page). @beth to look into this [notification ticket #8567](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/8567)  TBD if this needs FE and/or Lighthouse support as well. 
 
 
 
@@ -32,6 +41,12 @@ When forms are deleted from the source VA Forms DB, we have to address a couple 
 2/ If the form had a low/no value form detail landing page, how will we retire the page and will we redirect it? 
 
 In order to do either of the above, PW content team needs to get notified when a form has been deleted in the forms DB. 
+
+__Next steps:__ 
+
+- Discovery for event notification ticket @beth
+
+- Jen find out with stakeholders how often forms are added/removed, what their current process is for retiring and redirecting. 
 
 
 
