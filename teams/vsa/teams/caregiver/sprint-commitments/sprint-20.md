@@ -12,7 +12,7 @@
 - [ ] Verify veteran status based on ICN number
 - [ ] Send PDF to CARMA
 - [ ] ~Start research on submission/rate limiting~
-- [x] Refactor namespace/property changes
+- [x] ~Refactor namespace/property changes~
 - [x] Add new header to CARMA submission request
 - [x] Add CARMA staging credentials to build environment
 - [x] Payload validation testing with CARMA
