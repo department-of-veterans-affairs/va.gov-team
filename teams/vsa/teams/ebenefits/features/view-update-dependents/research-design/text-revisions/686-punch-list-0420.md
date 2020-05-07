@@ -116,17 +116,17 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Report divorce section
 
-- [ ] Remove Dependent death section
+- [x] Remove Dependent death section
 - [ ] Bold "or" in labels under the "Where did this marriage end?" section
 
 ### Child marriage section
 
-- [ ] Remove Dependent death section
+- [x] Remove Dependent death section
 - [x] Match labels to [mocks](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/screen/6bb638da-6be6-4d63-a0ad-bea72daec150/Apply-Dependents-Report-Child-Marriage-1)
 
 ### Student left school section
 
-- [ ] Remove Dependent death section
+- [x] Remove Dependent death section
 - [x] Match labels to [mocks](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/screen/c13df40e-416a-49df-9fa3-5b18b1b96bb8/Apply-Dependents-Report-Stopped-School-1)
 
 ### Upload sections
@@ -137,7 +137,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Form review page
 
 - [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
-- [ ] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
+- [x] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
 ### Submission Failure
 - [ ] Blue "Go Back to VA.gov" button should be "Go back to VA.gov"
