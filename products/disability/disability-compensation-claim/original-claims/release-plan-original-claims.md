@@ -19,10 +19,12 @@
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: May 15th - May 30th
+- Desired date range: May 13th - May 21th
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
-- "Success" criteria (by the numbers): All of the true new original claims are successful at establishing a new user in MVI. This is again tricky because even if a user has never filed a claim before, they may not need to go through 
+- "Success" criteria (by the numbers): All of the true new original claims are successful at establishing a new user in MVI. This is again tricky because even if a user has never filed a claim before, they may not need to go through MVI anyways.  We believe we have a high level of confidence that we are still ready to proceed.
+
+Our plan will be to do 2-3 days of 25% gating, 2-3 days of 50% gating, and 2-3 days of 75% gating before we go full go-live.
 
 ### Results:
 - Number of unique users: x
@@ -37,7 +39,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: June 15th
+- Desired date: May 22
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
