@@ -70,7 +70,7 @@ _How will we know if we are successful?_
 - User satisfaction (Foresee)
 
 #### Baseline KPIs
-- [GA / Domo Link](#)
+- GA / Domo Link - ?
 
 ### OKRs
 
