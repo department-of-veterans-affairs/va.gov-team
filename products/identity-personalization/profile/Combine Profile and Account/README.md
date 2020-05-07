@@ -133,14 +133,14 @@ As the authenticated experience team, we want to be able to do the following:
 **Key result**: Decreased time to find and update contact information
 - Bet 1: Update the design patterns as needed to better fit design needs for authenticated tools
 - Bet 2: Improve the information architecture
-- KPI: ???
+- Potential KPIs
   - Less time on the profile, *plus* same amount or more of successful contact information submissions
 
 **Key result**: Decreased time to find and update direct deposit information
 - Bet 1: Create side-nav menu
 - Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
 - Bet 3: Improve the information architecture
-- KPI: ???
+- Potential KPIs
   - Less time on the profile, *plus* same amount or more of successful direct deposit submissions
   - Editing direct deposit information after clicking the side nav (would show people found what they were looking for)
 
@@ -148,14 +148,14 @@ As the authenticated experience team, we want to be able to do the following:
 - Bet 1: Create side-nav menu
 - Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
 - Bet 3: Improve the information architecture
-- KPI: ???
+- Potential KPIs
   - Less time on the profile, *plus* same amount or more of clicks on links to verify identity/set up 2FA/reset password
   - Clicking on links to verify identity/set up 2FA/reset password after clicking the side nav (would show people found what they were looking for)
 
 **Key result**: Increase overall satisfaction with the profile experience
 - Bet 1: Combine Profile and Account pages
 - Bet 2: Update IA and visual design of the profile
-- KPI: [Foresee data]()
+- KPI: Foresee data (need link)
 
 We need to figure out how to measure the following:
 
