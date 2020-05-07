@@ -1,4 +1,4 @@
-# Release Plan Template
+# Release Plan Original Claims
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
@@ -9,20 +9,20 @@
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: On production it is live but it the veteran has to "lie" in order to get to the original claims section.
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Number of users: 5
+- Number of bugs identified / fixed: 2/2
+- Was the data submitted (if any) easy for VA to process?: Not really applicable, 
+- Types of errors logged: Actually unrelated to this product.  But during testing, we identified other issues with GI Bill.
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? None - but reminder this is not a change to any look and feel expect for ONE gating question now allows them to use VA.gov instead of saying to go to eBenefits.
+- If yes, what: None.
 
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: April 30th to mid-May
+- Desired date range: May 15th - May 30th
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
-- "Success" criteria (by the numbers): All of the new original claims are successful at establishing a new user in MVI.
+- "Success" criteria (by the numbers): All of the true new original claims are successful at establishing a new user in MVI. This is again tricky because even if a user has never filed a claim before, they may not need to go through 
 
 ### Results:
 - Number of unique users: x
@@ -37,7 +37,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: June 1st
+- Desired date: June 15th
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
