@@ -40,23 +40,23 @@ _(About 5 minutes)_
 
 #### Task 1: Designate content to be taken care of by a member of your team 
 
-_Present the prototype for this task_
+Let's say you're working on the Coronavirus FAQ content, but there has been a change in your work priority and you need your team mate Quinn to update the page content. Using the prototype, how would you pass the content to Quinn?
 
 #### Task 2: Now give the content to someone else to work on
 
-_Present the prototype for this task_
+After passing the content to Quinn, you suddenly realized that Quinn had gone on vacation. Point out in the prototype what action you would use to pass the content to another person and why. 
 
 #### Task 3: Designate someone to take a look at a piece of content for approval
 
-_Present the prototype for this task_
+You finished working on the Coronavirus FAQ and want your supervisor Jordan to give a thumbs up before you send the final version to a stakeholder. Using the prototype, how would you request Jordan's opinion.
 
 #### Task 4: Send content to an external stakeholder for approval
 
-_Present the prototype for this task_
+Now that Jordan gave you a green light, how would you send the content for Tracey (the stakeholder)?
 
 #### Task 5: Request adjustments to a piece of content that’s in review
 
-_Present the prototype for this task_
+Let's say you are responsible for reviewing content before it gets submitted to stakeholders. Looking at the Coronavirus FAQ page you realized that the number of cases per state didn't get fixed and is still wrong. Using the prototype, how would you point that out to you and request the necessary changes?
 
 #### Task 6: Check on where content is in the editorial process
 
