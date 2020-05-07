@@ -1,4 +1,4 @@
-# Medical Device Ordering Tool DLC API Proposal v1.4.0
+# Medical Device Ordering Tool DLC API Proposal v1.5.0
 
 ## Overview
 
@@ -11,8 +11,7 @@ This document outlines a set of proposed endpoints, along with corresponding htt
 | GET         | /supplies        | Returns an array of medical supplies and accessories available to order for the veteran. |
 | POST        | /supplies        | Creates a new reorder of medical supplies and/or accessories for the veteran.            |
 
-
-### GET /supplies
+### GET /supplies (without api key)
 
 #### Request
 
@@ -25,14 +24,31 @@ va_veteran_first_name: Greg
 va_veteran_middle_name: A
 va_veteran_last_name: Anderson
 va_veteran_birth_date: 1968-10-10
-va_api_key: 1234abcd1234abcd1234abcd1234abcd
 ```
 
-##### Parameters
+#### Response
 
-| Parameter	         | In    | Type   | Default | Required | Description                                           |
-|--------------------|-------|--------|---------|----------|-------------------------------------------------------|
-| product_group      | query | string | all     | false    | Limits the response array to specific type of supply. |
+```json
+HTTP/1.1 200 OK
+Date: Thu, Jan 30 2020 21:30:42 GMT
+Transfer-Encoding: chunked
+Content-Type: application/json
+
+{
+  "vaApiKey": "abcd1234abcd1234"
+}
+```
+
+### GET /supplies (with api key)
+
+#### Request
+
+``` json
+GET https://fake-api.dlc-example.com/supplies
+HTTP/1.1
+Accept-Encoding: *
+va_api_key: abcd1234abcd1234
+```
 
 #### Response
 
@@ -58,15 +74,17 @@ Content-Type: application/json
     "country": "US",
     "postalCode": "77550"
   },
-  "hearingAids": [
-    {
-      "deviceName": "OMEGA XD3241",
-      "rechargeable": true,
-      "productId": "9cf28362-38a5-46a6-872c-a8be6d59d59c",
-      "prescribedDate": "2020-01-01"
-    }
-  ],
   "supplies": [
+    {
+        "deviceName": "OMEGA XD3241",
+        "productName": "ZA1239",
+        "productGroup": "hearing aid batteries",
+        "productId": "1",
+        "availableForReorder": "false",
+        "lastOrderDate": "2020-01-01",
+        "nextAvailabilityDate": "2020-09-01",
+        "prescribedDate": "2019-10-10"
+    },
     {
       "productName": "DOME",
       "productGroup": "hearing aid accessories",
@@ -131,8 +149,8 @@ va_api_key: 1234abcd1234abcd1234abcd1234abcd
     "country": "US",
     "postalCode": "77550"
   },
-  "useVeteranAddress": "true",
-  "useTemporaryAddress": "false",
+  "useVeteranAddress": true,
+  "useTemporaryAddress": false,
   "order": [
     {
       "productId": "1"
