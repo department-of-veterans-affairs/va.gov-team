@@ -21,6 +21,8 @@
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
+- [OKRs](#okrs)
+
 
 # Implementation Information
 - [Status](#status)
@@ -80,6 +82,9 @@ I can apply for CH31 benefits quickly and without mailing in a form or visiting 
 ### KPIs
 - Discoverability
 - Number of online submissions
+#### Baseline KPIs
+tbd
+### OKRs
 
 --
 ## Go-to-Market
@@ -88,7 +93,15 @@ _How will Veterans find this product? How will they know it exists?_
 - Comms isn't controlled by this team but discoverability may be a lever to pull
 - Perhaps at account log-in/creation
 
+
 ---
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
