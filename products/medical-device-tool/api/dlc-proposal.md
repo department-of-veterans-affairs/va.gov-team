@@ -11,7 +11,7 @@ This document outlines a set of proposed endpoints, along with corresponding htt
 | GET         | /supplies        | Returns an array of medical supplies and accessories available to order for the veteran. |
 | POST        | /supplies        | Creates a new reorder of medical supplies and/or accessories for the veteran.            |
 
-### GET /supplies (without api key)
+### GET /supplies
 
 #### Request
 
@@ -35,30 +35,7 @@ Transfer-Encoding: chunked
 Content-Type: application/json
 
 {
-  "vaApiKey": "abcd1234abcd1234"
-}
-```
-
-### GET /supplies (with api key)
-
-#### Request
-
-``` json
-GET https://fake-api.dlc-example.com/supplies
-HTTP/1.1
-Accept-Encoding: *
-va_api_key: abcd1234abcd1234
-```
-
-#### Response
-
-```json
-HTTP/1.1 200 OK
-Date: Thu, Jan 30 2020 21:30:42 GMT
-Transfer-Encoding: chunked
-Content-Type: application/json
-
-{
+  "vaApiKey": "abcd1234abcd1234",
   "permanentAddress": {
     "street": "101 Example Street",
     "street2": "Apt 2",
@@ -74,6 +51,7 @@ Content-Type: application/json
     "country": "US",
     "postalCode": "77550"
   },
+  "vetEmail": "greg@example.com"
   "supplies": [
     {
         "deviceName": "OMEGA XD3241",
@@ -126,11 +104,6 @@ Content-Type: application/json
 POST https://fake-api.dlc-example.com/supplies
 HTTP/1.1
 Accept-Encoding: *
-va_veteran_id: 5555 // Last 4 digits of SSN
-va_veteran_first_name: Greg
-va_veteran_middle_name: A
-va_veteran_last_name: Anderson
-va_veteran_birth_date: 1968-10-10
 va_api_key: 1234abcd1234abcd1234abcd1234abcd
 
 {
@@ -149,6 +122,7 @@ va_api_key: 1234abcd1234abcd1234abcd1234abcd
     "country": "US",
     "postalCode": "77550"
   },
+  "vetEmail": "greg@example.com"
   "useVeteranAddress": true,
   "useTemporaryAddress": false,
   "order": [
