@@ -138,7 +138,9 @@ OKR: Improved/faster navigation to online tools
 - Bet 1: Provide personalized tasks/tools 
 
 ## KPIs
+“% (or #?) of authenticated users who completed at least 3 transactions/conversions against a self-service tool in a month”
 
+### Metrics
 - Do more people log in because we've made it easier to navigate VA.gov and their tools?
 - Do we see an increase in accounts created?
 - Do we see an increase in people who verify their identities (LOA3)?
@@ -147,6 +149,13 @@ OKR: Improved/faster navigation to online tools
 - Do we see an increase in overall level of satisfaction with the homepage? (eg. Foresee data)
 
 ---
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
