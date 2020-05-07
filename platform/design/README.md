@@ -29,7 +29,8 @@ During orientation, you’ll meet the people on VSP who specialize in design and
 ### VSP Collaboration Cycle
 The VSP Collaboration Cycle defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
 Design guidance is included as a standard in the following phases of the VSP Collaboration Cycle:
-Define: In the early stages of a project, we will meet in a Design Intent Collaboration meeting to provide you with direction regarding existing design components and research findings relevant to the problem space. 
+
+- **Define:** In the early stages of a project, we will meet in a Design Intent Collaboration meeting to provide you with direction regarding existing design components and research findings relevant to the problem space. 
 
 - **Discover:** Usability testing prep collaboration happens when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
 
