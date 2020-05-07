@@ -16,7 +16,7 @@
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [KPIs-OKRs](#kpis-and-okrs)
 
 # Implementation Information
 - [Status](#status)
@@ -83,11 +83,18 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 
 ## KPIs
 
-- As of January 2020, our KPI definition is still in progress. We're primarily tracking: 
  - How many applications are submitted
  - How many applications are submitted online
  - How many applications are successful vs. unsuccessful
  - Qualitative metrics on the application process and overall experience
+- Customer satisfaction (application process, caregiver program in general, etc.)
+- Call Center reports
+
+### Baseline KPIs
+tbd
+
+## OKRs
+tbd
 
 ---
 
