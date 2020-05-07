@@ -27,7 +27,7 @@ Provide resources for planning, recruiting, facilitating, and synthesizing resea
 During orientation, you’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility and get a tour of how we approach UX. We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you.
 
 ### VSP Collaboration Cycle
-The VSP Collaboration Cycle defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
+The [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf) defines the process for VSP support of VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving.
 Design guidance is included as a standard in the following phases of the VSP Collaboration Cycle:
 
 - **Define:** In the early stages of a project, we will meet in a Design Intent Collaboration meeting to provide you with direction regarding existing design components and research findings relevant to the problem space. 
