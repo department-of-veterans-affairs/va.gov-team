@@ -42,7 +42,7 @@ Last Updated February 26, 2020
 - [Discovery Takeaways](#discovery-takeaways)
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
-- [KPIs](#kpis)
+- [KPIs-OKRs](#kpis-and-okrs)
 - [Go-to-market Strategy](#go-to-market-strategy)
 - [Target Launch Date](#target-launch-date)
  
@@ -137,7 +137,14 @@ Technical: There are many different types communications about debt (typically r
 
 ## Roll-Out Approach
 
-## KPIs
+## KPIs and OKRs
+### KPIs
+_What is the most important metric of success for this initiative_
+#### Baseline KPIs
+_What baseline are we starting from_
+
+### Objectives and Key Results (OKRs)
+_What targets are we setting_
 
 [KPI Process Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d5625a8ebf6a4fc0ff21ce0830907de993593d21/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-process.md)
 
@@ -156,8 +163,13 @@ https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHM
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
+## Results and Recommendations
+### Results
+- TBD after launch
 
----
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
