@@ -69,7 +69,8 @@ _What's in and what's out?_
 _How will we know if we are successful?_
 
 **Objective 2: Deliver meaningful facility information**
-- Key Result #1: A user can find  facility-specific operating status and policies during an emergency. 
+- Key Result: A user can find  facility-specific operating status and policies during an emergency. 
+- Key Result: REduction in the number of calls to the Contact Center inquiring about facility and/or service availability. 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
