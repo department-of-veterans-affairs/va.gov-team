@@ -51,7 +51,7 @@ Okay. Now I'd like you to open a new browser window or tab.
 
 I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the Url - which would you prefer?
 
- - Fill in link here
+ - **https://bit.ly/2xARJgI**
 
 
 For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
