@@ -37,7 +37,7 @@ Last updated February 19, 2020
 - [Discovery Takeaways](#discovery-takeaways)
 - [Decisions](#decisions)
 - [The Plan](#the-plan)
-- [KPIs](#KPIs-and-misc-metrics)
+- [KPIs](#KPIs)
 
 # Implementation Information
 
