@@ -19,7 +19,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [KPIs-OKRs](#kpis-okrs)
 
 # Implementation Information
 - [Status](#status)
@@ -75,9 +75,14 @@ I can apply for CH36 benefits quickly and without mailing in a form or visiting 
 1. Sunset EBN
 2. Increase CH36 applications
 
-### KPIs
+### KPIs-OKRs
+#### KPIs
 - Discoverability
 - Number of online submissions
+##### Baseline KPIs
+tbd
+#### OKRs
+tbd
 
 --
 ## Go-to-Market
@@ -87,6 +92,14 @@ _How will Veterans find this product? How will they know it exists?_
 - Perhaps at account log-in/creation
 
 ---
+
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
