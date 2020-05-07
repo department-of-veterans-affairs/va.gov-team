@@ -65,6 +65,15 @@ _What's in and what's out?_
 ### Measuring Success
 _How will we know if we are successful?_
 
+### KPIs
+- Time to return results
+- User satisfaction (Foresee)
+
+#### Baseline KPIs
+- [GA / Domo Link](#)
+
+### OKRs
+
 **Objective 2: Enhance the search process**
 KEY RESULT: Time for delivery of search results will improve by (TBD) by (date)
 KEY RESULT: User satisfaction ratings for the Facility Locator search page will increase to (TBD) by (date).  
@@ -82,8 +91,16 @@ _Are other features dependent on this one? What do we need from partners? What d
   
   ### Risk factors
   
+  ---
+### Results and Recommendations
+#### Results
+- TBD after launch
 
-### Rejected Solutions
+#### Recommendations
+- TBD after launch
+--- 
+
+#### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
 
 
