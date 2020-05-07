@@ -14,6 +14,8 @@
    - Ideally, Facility Locator would link directly to a page displaying the facility-level operating status so that we could track that traffic. However, not all VA facilities have a website. Facilities which do display the information do not organize it in a consistent predictable way that can be logically linked. 
    - The Pittsburgh VAMC health care system **does** have specific pages for this purpose and will be used as a proxy, measuring click through rate beginning with the COVID-19 alert banner through to the facility-level operating status information. 
    - Additionally, Veterans will be directed to the webpages from facility detail pages viewed in Facility Locator. This traffic can also be measured.  
+- KPI: Number of calls to contact center about facility status  
+  - March 2020 = 235 calls
 
 ## Go Live!
 
