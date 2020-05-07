@@ -6,7 +6,7 @@ As part of [CMS product discovery](../cms-product-discovery.md), we will identif
 2. Review of destination content model
     * Plan changes that are necessary. (see [content model service](#))
 3. Source data analysis
-    * Analysis of CSVs, API sources, etc, 
+    * Analysis of CSVs, API sources, etc. A sample of data is sufficient for this analysis.
       * Data integrity (spilling out of container, multiple lines) , columns maintain their lines.
       * Suitable for migration, Do things map to other drupal entities (entity references, migration lookups)
       * Data map to specific fields.
