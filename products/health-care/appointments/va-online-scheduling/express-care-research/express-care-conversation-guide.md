@@ -111,7 +111,7 @@ Next, we're going to take a look at a prototype. We've stripped away a lot of th
 - After learning more about Express Care, would you consider it if you were in need of an appointment, today?
   - Would you use consider using this kind of screening tool if you were experiencing symptoms of coronavirus?
 - Do you think VA has resources available to help you if you are experiencing symptoms or may be suffering from coronavirus?
-- When we've returned to "normal", do you anticipate feeling comfortable going back to 
+- When we've returned to "normal", do you anticipate feeling comfortable going back to regular office visits?
 - Do you have any comments or questions about Express Care that we have not yet covered today?  
 
 ## Thank-You and Closing - 5 minutes
