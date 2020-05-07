@@ -20,6 +20,7 @@
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
+- [OKRs](#okrs)
 
 
 # Implementation Information
@@ -80,7 +81,64 @@ Money spent on programs at the VA will be better utilized.
 
 - Number of site/system page scaffolds completed in a sprint
 - Number of sites/systems completed in a sprint (with 508 + content)
+
+### Baseline KPIs
+Pre-Sprint 14
+- <30 page scaffolds per sprint
+- n/a time to receive complete kick-off package back from PAO
+- 0 pages loaded with data
+- 0 pages loaded with content
+
+Sprint 14
+- 60 page scaffolds per sprint
+- n/a time to receive complete kick-off package back from PAO
+- 0 pages loaded with data
+
+## OKRs
+Migrate all VA VISNs to a Drupal framework
+
 ---
+## Results and Recommendations
+### Results
+
+<details>
+
+**VISN 4**
+  
+Sprint 15
+- 120 pages created (result of cloning)
+- __ pages loaded with data
+- 0 pages loaded with content
+
+Sprint 16
+- done, no more page scaffolds to create
+- n/a time to receive complete kick-off package back from PAO
+- 24 pages loaded with data (Result of Drupal training. BAs more familiar with the data they were extracting and had the time so started loading the data themselves)
+- __ content loaded
+
+Sprint 17
+- done, no more page scaffolds to create
+- n/a time to receive complete kick-off package back from PAO
+- __ pages loaded with data in a sprint 
+- __ pages loaded with content in a sprint
+
+Sprint 18
+- done, no more page scaffolds to create
+- n/a time to receive complete kick-off package back from PAO
+- __ pages loaded with data in a sprint 
+- __ pages loaded with content in a sprint
+
+Sprint 19
+- done, no more page scaffolds to create
+- n/a time to receive complete kick-off package back from PAO
+- __ pages loaded with data in a sprint 
+- __ pages loaded with content in a sprint
+
+</details>
+
+### Recommendations
+- TBD after launch
+--- 
 
 # Implementation Info
 
