@@ -120,10 +120,23 @@ Increase customer satisfaction
 ## OKRs-KPIs
 
 ### KPIs
-* Increase online orders by 5% QoQ
-* Order abandon rate <10%
+* Number of online orders
+* Order abandonment rate
+
+#### Baseline KPIs
+- Online orders - 7k per month
+- Offline orders - 180k per month 
+- Percentage of orders online - 3.8%
 
 ### Objectives and Key Results
+
+- Number of online orders: 2020 goal - 9k/month 
+- Percentage of orders online: 2020 goal - 5% of all orders, 2021+ goal - 5% QoQ
+- Abandonment Rate - <10%
+
+* Increase online orders by 5% QoQ
+
+
 *Objective:* Reduce ordering complexity and streamline the process.
 * Reduction in mailed in orders
 * Reduction of Contact Center orders
@@ -160,6 +173,15 @@ In progress
 
 ## Solution Narrative
 - TBD
+
+---
+## Results and Recommendations
+### Results
+- TBD after launch
+
+### Recommendations
+- TBD after launch
+--- 
 
 ## How to Access and Test
 - Currently: AccessVA, eBenfits, and ROES
