@@ -7,7 +7,7 @@
 - ~Update QA test plan~
 
 ## Back end
-- [x] Update schema based on form/design changes
+- [x] ~Update schema based on form/design changes~
 - [x] Update PDF generation based on final design
 - [ ] Verify veteran status based on ICN number
 - [ ] Send PDF to CARMA
