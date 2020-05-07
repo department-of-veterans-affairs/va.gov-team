@@ -51,7 +51,7 @@ Content-Type: application/json
     "country": "US",
     "postalCode": "77550"
   },
-  "vetEmail": "greg@example.com"
+  "vetEmail": "greg@example.com",
   "supplies": [
     {
         "deviceName": "OMEGA XD3241",
@@ -122,7 +122,7 @@ va_api_key: 1234abcd1234abcd1234abcd1234abcd
     "country": "US",
     "postalCode": "77550"
   },
-  "vetEmail": "greg@example.com"
+  "vetEmail": "greg@example.com",
   "useVeteranAddress": true,
   "useTemporaryAddress": false,
   "order": [
