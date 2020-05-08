@@ -45,28 +45,24 @@ We'd like to know the following:
 - What do people do from My VA? (ie. what links do they click?)
 - How many people visit My VA? 
 
-## Insights: VA.gov overall
+## Why do people come to the site? What do they do here?
 
-WIP
+### Popular tools
 
-Popular pages
-- In a surprise to no one, the homepage is the most popular page and landing page.
-- The claim status tool is the most popular tool on the site, whether users are logged in or out.
-- These results are largely reflect what we have seen in the past the claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. Although these tools don't exist on VA.gov, people also wanted to know how to how to view payment history and refill their prescriptions.
+These results are largely reflect what we have seen in the past the claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. Although these tools don't exist on VA.gov, people also wanted to know how to how to view payment history and refill their prescriptions.
+
+### Popular content hubs
+
+In terms of "explore" content, how to apply for GI Bill/education benefits, how to apply for disability benefits, and how to apply for a veteran ID card made it into the top 25.
+
+### Top landing pages
+
+### Other insights
+
  - On the modernized site, we only see one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
  - More unexpected: going by pageview, My VA is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
-- In terms of "explore" content, how to apply for GI Bill/education benefits, how to apply for disability benefits, and how to apply for a veteran ID card made it into the top 25.
-
-Logged in vs. logged out experience
-
-- Logged in or logged out, people want to get to the claim status tool.
-- Logged in users appear to be on the site primarily to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters).
-- Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
+- Logged in users appear to be on the site primarily to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters). Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
 - Search is much more important for logged out users than logged in users.
-- Locating a facility is somewhat more important to logged out than logged in users.
-- GI Bill benefits are important to both logged in and logged out users, but logged out users are much more likely to use the GI bill comparison tool, while logged in users want to check the status of their GI bill benefits.
-- In the case of an emergency, logged out users do look to the VA. The Coronavirus FAQ made it into the top 25 pages even though it had only been around for the last month of the time period for which we pulled data.
-
 
 ## Insights: VA.gov homepage
 
