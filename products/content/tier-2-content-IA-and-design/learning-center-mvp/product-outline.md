@@ -1,4 +1,4 @@
-# Learning center product outline
+# Learning center product outline (WIP draft)
 
 This is the folder for all background, historical, discovery, and status documentation for this product.
 
