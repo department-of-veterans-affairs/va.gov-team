@@ -51,12 +51,16 @@ Okay. Now I'd like you to open a new browser window or tab.
 
 I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the Url - which would you prefer?
 
- - **https://bit.ly/2xARJgI**
+ - If link via chat - open Zoom, click the 3 dots on the bottom right of your screen.  Click Chat to access.
+
+ - If spelled out, **https://bit.ly/2xARJgI**
 
 
 For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
 
 When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
+
+Since we are testing on mobile, we can't see what you are tapping on the screen, so if you could tell us what you are tapping, that would be very helpful.  
 
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
