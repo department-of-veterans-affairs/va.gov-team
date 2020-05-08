@@ -57,7 +57,8 @@ More unexpected: going by pageview, My VA is more popular than we would have exp
 
 [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
-**Popular "tools" content**
+<details>
+  <summary><b>Popular "tools" content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
 
 | Page title | Page| Pageviews |
 |-----|------|------|
@@ -84,7 +85,8 @@ In terms of "explore/apply" content, how to apply for GI Bill/education benefits
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
-**Popular "explore/apply" content**
+<details>
+  <summary><b>Popular "explore/apply" content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
 
 | Page title | Page| Pageviews |
 |-----|------|------|
@@ -94,9 +96,14 @@ In terms of "explore/apply" content, how to apply for GI Bill/education benefits
 | VA disability compensation hub page | /disability/index\.html| 1,669,521   |
 | Types of Veteran ID cards content page | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
 
+</details>
+
 It's worth noting that in the data we received back, logged out users primary focus was exploring benefits. When looking at the data from a logged-out only lens, we saw additional content hubs appear in the top 25.
 
 - [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+<details>
+  <summary><b>Popular "explore/apply" logged out content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
 
 | Page title   | Page  | Pageviews  |
 |----------|-------|----|
@@ -114,6 +121,8 @@ It's worth noting that in the data we received back, logged out users primary fo
 | Family member benefit hub page | /family\-member\-benefits/index\.html| 740,490 |
 | Eligibility for VA health care content page | /health\-care/eligibility/index\.html | 722,121    |
 | Coronavirus FAQ| /coronavirus\-veteran\-frequently\-asked\-questions/index\.html | 707,904    |
+
+</details>
 
 ### Logged out vs. logged in users
 
