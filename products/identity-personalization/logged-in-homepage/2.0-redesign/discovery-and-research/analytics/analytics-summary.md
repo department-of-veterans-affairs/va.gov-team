@@ -154,7 +154,9 @@ The **homepage (~25MM)** was the most popular by orders of magnitude, with the *
 
 ### People come back to the homepage through the sign in flow, and then through many of the site's most popular pages.
 
-People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **
+People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **view payment history (455,233)**, and **refill and track prescriptions (361,060)**.
+
+[Top 25 pages before the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/)
 
 ### From the homepage, people primarily navigte into the tools displayed in the top 20 tasks. 
 
