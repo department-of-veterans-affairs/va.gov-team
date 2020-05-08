@@ -165,3 +165,20 @@ This further shows the reliance on the top 20 tasks and suggests we should take 
 [Top 25 interactions on the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
 
 ## How do people use My VA?
+
+### People come to my VA via many of the same paths that lead them to the homepage, just in smaller numbers.
+
+People come to My VA through **sign in (~600K)**, the **claim status tool (393,342)**, and **view payment history (75,162)** just like they do on the homepage. They just do so in a much smaller quantity.
+
+[My VA previous page paths](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/)
+
+### Login is the primary action taken from My VA.
+
+Since you can't view My VA without being logged in, it's interesting that the most popular action by far from My VA is to **log in (~5MM events)**. This may suggest that people are going directly to this page and signing in from here, potentially people who have bookmarked this page.
+
+### Claims, VA letters, and profile information are all popular next steps from My VA.
+
+Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)** which was a unique interaction we didn't see from the homepage, likely because a link to the profile is featured prominently from the dashboard.
+
+[Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
+
