@@ -19,11 +19,13 @@ The goal of this study is to understand how Veterans would expect the facility l
 ## Method	
 We will be sending an OptimalSort link to Veterans to participate in an unmoderated card sorting activity.	This method will help us answer our research questions by providing Veterans the opportunity to complete the study in their own time without influence.
 
+[Link to study](https://adhoc.optimalworkshop.com/optimalsort/x52yzb56)
+
 ## Participants and Recruitment	
 We will recruit 30-60 participants representing a population under age 40 yrs and over 60 years, preferably with a mix of urban/rural locations.
 
 **Recruitment strategy** 
-We will share the link with Veterans in our internal community.	
+We will use the Perigean contract to recruit Veterans using [this email template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/redesign/filter-categorization/recruitment-email.md)
 
 ## When? 	
 The link for the card sort will be shared out during the week of May 4th. The card sorting exercise should take participants 10-20 minutes to complete.
