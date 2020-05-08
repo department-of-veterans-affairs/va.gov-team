@@ -92,3 +92,47 @@ We'd like to know the following:
   
 </details>
 
+### Top 20 search terms 
+
+#### Conclusions
+
+- A conclusion
+- Another
+- Etc
+
+#### Data
+
+<details>
+  <summary><b>Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+  
+| \(Search Term \- Lowercase\) | SUM of Total Unique Searches |
+|------------------------------|------------------------------|
+| \(other\)                    | 803751                       |
+| benefits                     | 153244                       |
+| health                       | 58827                        |
+| forms                        | 24197                        |
+| jobs                         | 13494                        |
+| direct deposit               | 12723                        |
+| ebenefits                    | 10335                        |
+| tms                          | 10240                        |
+| cemetery                     | 9726                         |
+| dd214                        | 8597                         |
+| certificate of eligibility   | 8154                         |
+| vatas                        | 7867                         |
+| 22\-1995                     | 7492                         |
+| careers                      | 6711                         |
+| vet\_center                  | 6665                         |
+| va forms                     | 6527                         |
+| dental                       | 6304                         |
+| agent orange                 | 5964                         |
+| dbq                          | 5716                         |
+| chapter 35                   | 5376                         |
+| aid and attendance           | 5004                         |
+| coe                          | 4629                         |
+| mission act                  | 4466                         |
+| urgent care                  | 3985                         |
+| champva                      | 3946                         |
+
+  
+</details>
+
