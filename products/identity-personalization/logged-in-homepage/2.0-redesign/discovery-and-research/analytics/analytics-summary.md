@@ -124,7 +124,7 @@ It's worth noting that in the data we received back, logged out users primary fo
 
 </details>
 
-### Logged in users primarily come to VA.gov to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters). Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
+### Logged in users come to VA.gov to check the status of benefits or to get their records. Logged out users are more interested in exploring benefit eligibility and application information. 
 
 Also, search is significantly more important for logged out users **(~4.3MM pageviews)** than logged in users **(~1.1MM pageviews)**.
 
