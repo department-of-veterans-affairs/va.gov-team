@@ -2,7 +2,7 @@
 _**Note** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)_
 
 # Feature Outline: View My Rated Disabilities
-`WIP`
+🚀`Launched Feb 5, 2020`
 - GitHub Label: vsa-ebenefits
 - Slack channel: #vsa-ebenefits
 - Old link: [https://www.ebenefits.va.gov/ebenefits/disabilities](https://www.ebenefits.va.gov/ebenefits/disabilities)
