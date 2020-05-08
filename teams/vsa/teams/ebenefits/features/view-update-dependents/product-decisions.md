@@ -14,4 +14,10 @@ _Steve: "Since file number is a critical field for establishment of a claim, AND
 **TL;DR - We are going to run a check on this and if we are _not_ able to get it, we need to send the user to a phone number to ensure their VA file number is in place in the VA system of record via some error messaging (WIP):**
   
 ![you're missing critical info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/images/your-profile-is-missing-info.png)
-
+------------
+## Issue Title  
+`Date decided`  
+**Description.**  
+  
+_Note/ Guiding principle_
+- Action item
