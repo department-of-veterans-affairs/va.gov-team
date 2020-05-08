@@ -1,11 +1,13 @@
 # STEM Analytics - Observations from 22-1995
 
+Updates to 22-1995 to better inform applicants of Rogers STEM Scholarship requirements launched 3/11/20. Observations below are from the time period March 12 - May 8.
+
 What's the rate of successful submissions now? [22-1995 STEM Successful Submissions - last 30 days](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184334251/_u.dateOption=last30days&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.customDimension49&_r.drilldown=analytics.eventLabel:edu-1995--submission-successful/)
 
 Submissions have decreased since the screening criteria were added. 
 
-Jan 15 - March 11 = 30,821
-March 12 - May 8 = 23,088
+* Jan 15 - March 11 = 30,821
+* March 12 - May 8 = 23,088
 
 
 What's the rate of denied applications? Need info from Buffalo for this
