@@ -1,5 +1,15 @@
 # Product outline: Redesign the Find a VA Form page https://www.va.gov/vaforms/
 
+This is the folder for all background, historical, discovery, and status documentation for this product. 
+
+## Table of Contents
+
+- [Problem Statement](#problem-statement)
+- [Team](#team)
+- [Status and decisions](#status-and-decisions)
+
+
+
 ## Problem Statement 
 
 Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
@@ -15,28 +25,26 @@ vaforms-org-search-keywords-SEMRush.png
 
 Legacy issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1482
 
-Current epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
+__Current epic:__ https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
 
 Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
-## This is the folder for all background, historical, discovery documents for this product. 
 
-# Communications
+# Team
  - Team Name: Public Websites
  - GitHub Label: #vsa-public-websites
- - Slack channel: #vsa-public-websites
+ - Slack channel: #va-forms
  
 
-# Team Members
+## Team Members
 |Name|Role|
 |----|----|
 |Jennifer Lee	| Public Websites Product Owner|
-|Stephanie Orkand |Product Manager|
+|Stephanie Orkand | Product Manager|
 |Nick Sullivan	|FE Engineer|
 |Kelson Adams|	FE Engineer|
-|Laura Walsh|	Content|
-|Randi Hecht	|Content|
+|Randi Hecht	| Content|
 
 
 
@@ -55,7 +63,7 @@ __VA forms stakeholder working group includes:__
 
 
 
-## Status/Decisions:
+# Status and decisions:
 
 ## 03/11/2020
 
