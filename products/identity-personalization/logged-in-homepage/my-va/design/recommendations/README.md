@@ -1,0 +1,1 @@
+For dashboard updates that include benefit recommendation design, please go here https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Design.
