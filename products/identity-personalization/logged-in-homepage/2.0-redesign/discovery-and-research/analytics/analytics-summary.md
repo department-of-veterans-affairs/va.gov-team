@@ -152,4 +152,12 @@ The homepage was the most popular by orders of magnitude, with the claim status 
 
 ## How do people use the homepage?
 
+### As expected, people are entirely reliant on the top 20 tasks to navigate the homepage.
+
+Almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable excpetions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (5,095,696)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
+
+This further shows the reliance on the top 20 tasks and suggests we should take extra care with how we handle these when creating a personalized logged-in homepage.
+
+[Top 25 interactions on the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
+
 ## How do people use My VA?
