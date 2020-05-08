@@ -51,9 +51,10 @@ We'd like to know the following:
 
 These results are largely reflect what we have seen in the past the claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. Although these tools don't exist on VA.gov, people also wanted to know how to how to view payment history and refill their prescriptions.
 
-**VA.gov tools that were in the top 25 pages from April 2019 – 2020**
+[Full list of top 25 pages]()
 
-[Full list of top 25 page]()
+<details>
+  <summary><b>Modernized VA.gov: Tools in the top 25 pages from April 2019 – 2020</b></summary>
 
 | Page title | Page| Pageviews |
 |-----|------|------|
@@ -70,6 +71,8 @@ These results are largely reflect what we have seen in the past the claim status
 | VA.gov profile | /profile/index\.html | 1,920,045   |
 | VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html| 1,726,433   |
 | Post 9/11 GI Bill Statement of Benefits| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997  |
+
+</details>
 
 ### Popular content hubs
 
