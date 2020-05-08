@@ -22,10 +22,7 @@ if (Content change type?) then (FAQ text)
   endif
   #pink:Change "Last Updated Date" in vagov-content;
 else (New CDC scenario)
-  #pink:repeat :Trigger CI: CDC scenario update;
-  #orange:Download CDC scenario
-  commit to master
-  push scenario to dev;
+  #pink:repeat :Pull CDC scenarios and localization file from git\nimport into dev;
   #lightgreen:Review new scenario in dev;
   repeat while (content in dev is good?) is (no)
 endif
@@ -40,6 +37,7 @@ repeat
     run smoke test
     commit results to master
     tag master 1.0.1-RC1;
+    #pink:Upload new CDC localization file;
     #lightblue:Check content in staging;
     backward:fix issue;
   repeat while (content in staging is good?) is (no)
@@ -50,6 +48,7 @@ repeat
   upload scenario to prod
   run smoke test
   tag master 1.0.1;
+  #pink:Upload new CDC localization file;
   #lightgreen:Check content in production;
   backward:fix issue;
 repeat while (content in prod is good?) is (no)
