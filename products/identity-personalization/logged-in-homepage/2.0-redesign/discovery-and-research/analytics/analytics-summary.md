@@ -46,17 +46,14 @@ We'd like to know the following:
 - How many people visit My VA? 
 
 
-## General
+## VA.gov: Overall site data
 
-### Top 25 pages 
+### Top 25 pages: Logged in/logged out combined data
 
-#### Conclusions
+- These results are largely reflect what we have seen in the past the claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. Although these tools don't exist on VA.gov, people also wanted to know how to how to view payment history and refill their prescriptions.
+- More unexpected: going by pageview, My VA is more popular than we would have expected. This likely indicates an interest in seeing personalized benefit information.
+- In terms of "explore" content, how to apply for GI Bill/education benefits, how to apply for disability benefits, and how to apply for a veteran ID card made it into the top 25.
 
-- A conclusion
-- Another
-- Etc
-
-#### Data
 
 <details>
   <summary><b>Overall: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
@@ -92,6 +89,12 @@ We'd like to know the following:
   
 </details>
 
+### Top 25 pages: Logged in data only
+
+- The claim status tools is the most popular page outside of the homepage for logged in users.
+- Logged in users appear to be on the site primarily to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters).
+- On the modernized site, we only see one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
+
 <details>
   <summary><b>Logged in: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
   
@@ -125,6 +128,16 @@ We'd like to know the following:
 |  | Total: | 217477308  |
 
 </details>
+
+### Top 25 pages: Logged out data only
+
+- Logged in or logged out, people want to get to the claim status tool.
+- Search is much more important for logged out users than logged in users.
+- Locating a facility is somewhat more important to logged out than logged in users.
+- GI Bill benefits are important to both logged in and logged out users, but logged out users are much more likely to use the GI bill comparison tool, while logged in users want to check the status of their GI bill benefits.
+- Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
+- In the case of an emergency, logged out users do look to the VA. The Coronavirus FAQ made it into the top 25 pages even though it had only been around for the last month of the time period for which we pulled data.
+
 
 <details>
   <summary><b>Logged out: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
