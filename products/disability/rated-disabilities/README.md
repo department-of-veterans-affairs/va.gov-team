@@ -84,6 +84,10 @@ Having Rated Disabilities closer to the VA.go experience should allow the user t
 Keeping the Veteran engaged should also in create an environment where benefits are transferred faster and smoother.
 
 ## KPIs  
+Objective: Transition legacy eBenefit users for this feature over to the new VA.gov experience.
+KPI #1: See percentage of traffic from the legacy eBenefit feature decrease over time
+KPI #2: See percentage of traffic to the new VA.gov feature increase over time
+
 Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.    
 
 ---
