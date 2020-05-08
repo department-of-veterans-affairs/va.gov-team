@@ -57,8 +57,7 @@ More unexpected: going by pageview, My VA is more popular than we would have exp
 
 [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
-<details>
-  <summary><b>Modernized VA.gov: Tools in the top 25 pages from April 2019 – 2020</b></summary>
+**Popular "tools" content**
 
 | Page title | Page| Pageviews |
 |-----|------|------|
