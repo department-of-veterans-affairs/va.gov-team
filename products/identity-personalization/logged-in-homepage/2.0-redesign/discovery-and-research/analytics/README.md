@@ -2,7 +2,7 @@
 
 Here are the current GA reports updated to Apr 12 2019 - Apr 12 2020.
 
-Report Name |   | Mobile / Tablet
+Report Name | Desktop/Tablet/Mobile  | Mobile / Tablet only
 :--- | :---: | :---:
 Top Pages on VA.<span></span>gov Modernized | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.deviceCategory&_.useg=builtin11/)
 Top 25 Pages - Logged In Session | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.advFilter=%5B%5B0,%22analytics.deviceCategory%22,%22RE%22,%22Mobile%7CTablet%22,0%5D%5D/)
