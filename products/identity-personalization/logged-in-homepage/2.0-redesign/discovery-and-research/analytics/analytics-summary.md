@@ -133,8 +133,23 @@ Search is much more important for logged out users than logged in users.
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 - [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
-### Top landing pages
+### Landing pages: Where people are starting their VA.gov journey
 
-## Insights: VA.gov homepage
+This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
 
-## Insights: My VA
+The homepage was the most popular by orders of magnitude, with the claim status tool and the facility locator rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
+
+[Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+### What people are searching for
+
+- "Health" and "benefits" are what people are most interested in. This may mean that people are looking for more help and assistance from us on getting started with benefits.
+- "Forms" is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like "direct deposit", "cemetaries," and "certificate of eligibility" are high on the list, which suggests that we may need to elevate these tools more.
+- "DD214" is high on the list, further reflecting people's desire to get their military records.
+
+[Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
+
+## How do people use the homepage?
+
+## How do people use My VA?
