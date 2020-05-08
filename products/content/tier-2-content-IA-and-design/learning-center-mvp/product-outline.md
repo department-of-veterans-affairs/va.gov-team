@@ -10,7 +10,6 @@ This is the folder for all background, historical, discovery, and status documen
 - [Status and decisions](#status-and-decisions)
 - [Product requirements](#product-requirements)
 - [Implementation info](#implementation-info)
-- [Team](#team)
 
 
 
@@ -136,17 +135,3 @@ Claim status learning center ticket - CLOSED: https://app.zenhub.com/workspaces/
 ## Implementation info
 
 
-
----
-
-## Team
-
-- DEPO PO: Jen Lee
-- Product manager: Stephanie Orkand
-- Design: Ryan Thurlwell
-- IA: Mikki Northuis
-- Content Strategist:
-- Drupal engineer:
-- FE engineer(s): 
-- GitHub label: 
-- Slack channel: 
