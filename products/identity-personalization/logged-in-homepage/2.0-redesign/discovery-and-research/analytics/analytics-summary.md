@@ -1,49 +1,35 @@
-## WIP — We'll do some kind of summary of this content
+# Logged-in homepage discovery: Analytics review
 
-## Product Questions
+## Goals
 
-We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
+As part of the [logged-in homepage discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/research-plan.md), we conducted an analytics review to learn more about user behavior related to VA.gov overall, the homepage, and the My VA dashboard.
 
-To help us figure this out, we'd like to better understand:
+## Questions we were trying to answer
 
-- Why people come to VA.gov.
-- What people do on VA.gov
-- How people move through the site.
-- How people use the homepage.
-- How people use My VA.
-- Areas for improvement for existing functionality.
-- How people's experience with the site might change if we had a proper notification system.
+For the analytics review, we were specifically looking for more insight into the following high-level questions that will guide as as we pursue the logged-in homepage work:
 
-## Analytics to Track Down
+- Why do people come to VA.gov? What people do they do on the site?
+- What leads people to the homepage? What do they do from there?
+- What leads people to the My VA? What do they do from there?
 
-I'm pretty sure most, if not all, of these metrics are already tracked, but we don't know where or how to track them down ourselves. That's where we need your help.
+## Analytics
 
-We'd like to know the following:
+Our incredible analytics team pulled a ton of data for us. Here are the links to the reports referenced in this document:
 
-**General**
-
-- What are the top ~20  pages visited on VA.gov?
-  - How does this change if we look at top pages for logged out users vs. logged in users?
-- What are the top ~20 search terms on VA.gov? 
-- Is there a pattern to where people are in the site when they decide to search?
-- What are the top ~20 entry points for VA.gov?
-- What are the top ~20 organic search terms people are using to get to VA.gov?
-- After people enter the site, what is the next thing they do?
-- % of traffic by device (desktop; tablet; mobile).
-
-**Homepage**
-
-- What page do people visit BEFORE the homepage?
-- How often is the homepage people's first entry point?
-- What do people do from the homepage? (ie. what links do they click?)
-- How many people visit the homepage?
-
-**My VA**
-
-- What page do people visit BEFORE My VA?
-- Is My VA ever a first entry point?
-- What do people do from My VA? (ie. what links do they click?)
-- How many people visit My VA? 
+Report Name | Desktop/Tablet/Mobile  | Mobile / Tablet only
+:--- | :---: | :---:
+Top Pages on VA.<span></span>gov Modernized | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.deviceCategory&_.useg=builtin11/)
+Top 25 Pages - Logged In Session | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.advFilter=%5B%5B0,%22analytics.deviceCategory%22,%22RE%22,%22Mobile%7CTablet%22,0%5D%5D/)
+Top 25 Pages - Not Logged In Sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.deviceCategory&explorer-table.advFilter=%5B%5B0,%22analytics.deviceCategory%22,%22RE%22,%22Mobile%7CTablet%22,0%5D%5D/)
+Top 25 Landing Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin11/)
+Site Search | [report](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25&_.useg=builtin11/)
+Mobile Usage | | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-mobile-overview/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL/)
+Top 25 Before Homepage | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&_.useg=builtin11&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&_r.drilldown=analytics.pagePath:~2Findex.html/)
+Top 25 Interactions on Homepage (Excluding Scrolling) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&_.useg=builtin11&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
+My VA Previous Page Path | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/) | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D&_.useg=builtin11/) 
+My VA Entrances | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D/) | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D&_.useg=builtin11/)
+Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25&_.useg=builtin11/)
+% of users who viewed homepage vs. My VA (note: 3 month report) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g/) |  |
 
 ## Why do people come to the site? What do they do here?
 
