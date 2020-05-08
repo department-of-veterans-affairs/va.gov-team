@@ -51,18 +51,18 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess user acceptance of various "remove" workflows
 
 ### Research questions
-1. In what section VA.gov would users expect to find the 21-686c? How would they navigate there?
+1. In what section of VA.gov would users expect to find the 21-686c? How would they navigate there?
 2. Are the form instructions clear and complete? Will users know what documents and info they will need to complete the form?
 3. Do participants understand how the 21-686c works as a multi-purpose form?
 4. What are the "sticking points" in the various form workflows? What workflow combinations cause users problems (add-spouse/add-child, add-child/add-student, add spouse/report divorce)?
 5. Where do users need examples, more guidance or improved section headers as they interact with the form?
 6. Will users understand when and how to upload additional documentation?
 7. Is the information on the confirmation page clear and complete?
-8. Can users complete the longer scenarios is less than 30 minutes?
+8. Can users complete the longer scenarios in 30 minutes or less?
 
 Additional Questions
 
-9. What are users' experiences with dependents on there VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
+9. What are users' experiences with dependents on their VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
 10. What workflow combinations (scenarios) do users consider likely? 
 
 ### Hypotheses
@@ -70,21 +70,20 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
  - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
  - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
- - User acceptance and understanding fo the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
+ - User acceptance and understanding of the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
  - Users will understand and accept the longer workflows; list/loop may create some confusion (odd button sequences); divorce and stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
 
-  
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
  - Will users understand and accept the multi-purpose nature of the form
  - What guidance (instructional text, headers, etc.) will users need to support successful completion of the form
  - Will users understand when additional information is required; and how to upload it
- - Are there any workflow combinations that would be problematic for users due to length and/or imformation detail required
+ - Are there any workflow combinations that would be problematic for users due to length and/or information detail required
 
 ### Method
 Usability testing will be conducted remotely using Zoom or GoToMeeting. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
 
-This methodology allows for direct obeservation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
+This methodology allows for direct observation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
 
 ### Participants and recruitment
 Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
@@ -122,7 +121,7 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
 - Report divorce/Remove stepchild
 
 ### Timeline
-The target window for research sessions is TBD, pending competion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
+The target window for research sessions is TBD, pending completion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
 
 #### Pilot session
 The target date for the pilot session is TBD.
