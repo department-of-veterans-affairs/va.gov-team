@@ -55,7 +55,7 @@ On the modernized site, we only see one health tool — refill prescriptions —
 
 More unexpected: going by pageview, My VA is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
 
-[Full list of top 25 pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
+[Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
 <details>
   <summary><b>Modernized VA.gov: Tools in the top 25 pages from April 2019 – 2020</b></summary>
@@ -80,7 +80,41 @@ More unexpected: going by pageview, My VA is more popular than we would have exp
 
 ### Exploring and applying for benefits
 
-In terms of "explore" content, how to apply for GI Bill/education benefits, how to apply for disability benefits, and how to apply for a veteran ID card made it into the top 25.
+In terms of "explore/apply" content, how to apply for GI Bill/education benefits, disability content, and veteran ID card content made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
+
+- [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
+- [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+**Popular "explore/apply" content**
+
+| Page title | Page| Pageviews |
+|-----|------|------|
+| How to apply for the GI Bill and related benefits content page| /education/how\-to\-apply/index\.html| 2,836,891 |
+| How to file a VA disability claim content page | /disability/how\-to\-file\-claim/index\.html| 2,583,794   |
+| How to apply for a Veteran ID Card content page| /records/get\-veteran\-id\-cards/vic/index\.html | 1,734,573   |
+| VA disability compensation hub page | /disability/index\.html| 1,669,521   |
+| Types of Veteran ID cards content page | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
+
+It's worth noting that in the data we received back, logged out users primary focus was exploring benefits. When looking at the data from a logged-out only lens, we saw additional content hubs appear in the top 25.
+
+- [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+| Page title   | Page  | Pageviews  |
+|----------|-------|----|
+| How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html| 1,599,227|
+| How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html | 1,368,858  |
+| GI Bill comparison tool | /gi\-bill\-comparison\-tool/  | 1,105,048  |
+| VA disability compensation hub page| /disability/index\.html| 1,066,396  |
+| How to apply for VA health care content page| /health\-care/how\-to\-apply/index\.html  | 1,030,906  |
+| GI Bill comparison tool results | /gi\-bill\-comparison\-tool/index\.html | 979,965    |
+| Request your military service records \(including DD214\) content page | /records/get\-military\-service\-records/index\.html| 969,554    |
+| How to apply for a Veteran ID Card content page | /records/get\-veteran\-id\-cards/index\.html| 823,157|
+| Careers and employment hub page | /careers\-employment/index\.html | 804,267|
+| Health care hub landing page | /health\-care/index\.html | 786,269    |
+| VIC application intro page | /records/get\-veteran\-id\-cards/vic/index\.html | 765,312    |
+| Family member benefit hub page | /family\-member\-benefits/index\.html| 740,490 |
+| Eligibility for VA health care content page | /health\-care/eligibility/index\.html | 722,121    |
+| Coronavirus FAQ| /coronavirus\-veteran\-frequently\-asked\-questions/index\.html | 707,904    |
 
 ### Logged out vs. logged in users
 
