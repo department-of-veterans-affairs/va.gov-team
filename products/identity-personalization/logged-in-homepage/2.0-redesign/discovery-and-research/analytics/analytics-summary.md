@@ -228,6 +228,33 @@ This data tells us the first page people land on when they come to the modernize
 <details>
   <summary><b>Top 25 landing pages: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
   
-  
+  | Page title | Landing Page  | Sessions   |
+|-----|----|------|
+| 1\. Homepage| /index\.html| 25,070,263 |
+| 2\. Claim status content page \(logged out\)| /claim\-or\-appeal\-status/index\.html| 5,393,042  |
+| 3\. Facility locator| /find\-locations/index\.html| 1,952,952  |
+| 4\. Claim status tool \(logged in\) | /track\-claims/your\-claims/ | 1,010,684  |
+| 5\. Facility locator | /facilities/index\.html?XXX | 971,893 |
+| 6\. How to apply for the GI Bill and related benefits content page| /education/how\-to\-apply/index\.html| 892,361|
+| 7\. My VA | /my\-va/| 861,001    |
+| 8\. Search | /search/index\.html| 774,987|
+| 9\. How to apply for VA health care content page| /health\-care/how\-to\-apply/index\.html | 672,874|
+| 10\. Coronavirus FAQ| /coronavirus\-veteran\-frequently\-asked\-questions/index\.html | 640,788    |
+| 11\. How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html                    | 591,583|
+| 12\. Request your military service records \(including DD214\) content page | /records/get\-military\-service\-records/index\.html | 589,348    |
+| 13\. Post\-9/11 GI Bill Statement of Benefits  | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/   | 576,928    |
+| 14\. How to apply for a Veteran ID Card | /records/get\-veteran\-id\-cards/vic/index\.html| 513,449    |
+| 15\. VA disability compensation hub page | /disability/index\.html| 491,502    |
+| 16\. Facility locator | /find\-locations/ | 451,634    |
+| 17\. Health care hub landing page | /health\-care/index\.html | 438,591    |
+| 18\. GI Bill comparison tool results | /gi\-bill\-comparison\-tool/index\.html | 432,685    |
+| 19\. GI Bill comparison tool | /gi\-bill\-comparison\-tool/ | 431,133    |
+| 20\. Careers and employment hub page  | /careers\-employment/index\.html| 414,798    |
+| 21\. Types of Veteran ID cards content page | /records/get\-veteran\-id\-cards/index\.html  | 395,887    |
+| 22\. VA education and training benefits hub page | /education/index\.html | 388,201    |
+| 23\. Print out your VA Welcome Kit  | /welcome\-kit/index\.html | 284,815    |
+| 24\. View your VA payment history content page | /va\-payment\-history/index\.html | 259,841    |
+| 25\. 2020 Veterans disability compensation rates | /disability/compensation\-rates/veteran\-rates/index\.html | 250,966 |
+| | Total:  | 60,307,442 |
   
 </details>
