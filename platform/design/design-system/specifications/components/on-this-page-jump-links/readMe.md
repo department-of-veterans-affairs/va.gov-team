@@ -32,6 +32,6 @@
 
 #### Package information
 
-**Package usage:**  
+* **Package usage:**  
 
-**Requires:** 
+* **Requires:** 
