@@ -4,6 +4,9 @@
 
 ## Visual design
 
+<img src="url_of_image" alt="meaningful_description"/>
+
+
 ## Behavior
 
 ## Accessibility
