@@ -1,0 +1,62 @@
+## General Errors
+![General errors](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Dashboard/Design/Dashboard-03-errors.png)
+
+**Cause:**
+The prescriptions, messages, and claims error messages are the same as the ones in their respective apps; they indicate that data is not available from the underlying service. 
+
+**Effect:** 
+If data is accessible but there is no data, there will be a "blank state" message or the widget will be hidden instead of an error message showing.
+
+
+## MVI error
+![Not in MVI errors](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Dashboard/Design/Dashboard-06-not-in-MVI.png)
+
+ **Cause:** 
+ 
+ This could be caused by two things:
+ 
+ - MVI is down.
+ - The person is not in MVI.
+
+**Effect:** 
+
+We can not show the veteran certain information because we don't know if they are who they say they are.
+
+**Resolution:** 
+
+- If MVI is down, this will resolve when MVI is back up.
+- If the veteran is not in MVI, they will need to work with the VA to get into MVI.
+
+## Find VA Benefits — Save error
+![Find VA Benefits save error](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Design/MVP%20Design/Mockups/Find%20VA%20Benefits-%20Benefits%20Selected-Save%20Failure.png)
+
+**Cause:**
+
+- TL;DR — A server error.
+- Longer explanation according to Erik – "When saving preferences, we make a call to persist the preferences to the backend. We call either `POST /user/preferences` or `DELETE /user/preferences/benefits/delete_all` and if that call fails for some reason we show that error message but we leave the checkboxes as is so the user can simply hit the SAVE PREFS button again.
+
+**Effect:** 
+
+- Find VA Benefits preferenes can't be saved or deleted.
+
+**Resolution:** 
+
+- This will likely resolve itself if the user tries to save it again.
+- If the problem persists, a dev would need to look into the issue.
+
+## Find VA Benefits — Retrieval error
+![Find VA Benefits retrieval error](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Design/MVP%20Design/Mockups/Find%20VA%20Benefits-Can't%20retrieve%20preferences%20error.png)
+
+**Cause:**
+
+- TL;DR — A server error.
+- Longer explanation according to Erik – "When loading that page we have to call `GET /user/preferences` to get the user's selected preferences and we also have to call `GET /user/preferences/choices/benefits` to get the list of all available preferences. If either of those calls fail for any reason, we will show that error message."
+
+**Effect:** 
+
+- Find VA Benefits preferenes can't be retrieved.
+
+**Resolution:** 
+
+- This will likely resolve itself if the user refreshes the page.
+- If the problem persists, a dev would need to look into the issue.
