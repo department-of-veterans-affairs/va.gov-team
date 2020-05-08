@@ -61,6 +61,11 @@ We'd like to know the following:
 For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 <details>
   <summary>Click to expand!</summary>
+  | Page title | Page| Pageviews |
+  |-----|------|------|
+  | **1. Homepage** | /index\.html | 48,794,621  |
+</details>
+
 | Page title | Page| Pageviews |
 |-----|------|------|
 | **1. Homepage** | /index\.html | 48,794,621  |
@@ -89,4 +94,4 @@ For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 | **24. VA disability compensation hub page** | /disability/index\.html| 1,669,521   |
 | **25. Types of Veteran ID cards content page** | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
 |   | Total page views: | 351,784,722 |
-</details>
+
