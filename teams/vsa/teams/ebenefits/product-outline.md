@@ -28,8 +28,10 @@
   - [My Payment History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
    A simple view task that displays the payment and return history between a Veteran and the VA.
   _Features found in the product folder (as opposed to the eBenefits Team folder) are further along in the developemnt and approval process.)
-  - [View and update my representative/POA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
+  - [View and update my representative/Power of Attorney](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA)
   A simple view task that displays the Veterans representative and form process for modifications.
+  - [Personalized Career Planning and Growth (CH36)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-CH36-VRE-counseling)  This is a one-click application where authenticated Veterans can apply for assistance in getting their career jumpstarted after leaving the military
+  - [Vocational Rehabilitation and Employment](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31) If you have a service-connected disability that limits your ability to work or prevents you from working, the VA Vocational Rehabilitation and Employment (VR&E) program—also referred to as Chapter 31—can help.  This is a one-click application where authenticated Veterans can apply for assistance for vocational rehabilitation
 
 # Implementation Information
 - [Status](#status)
