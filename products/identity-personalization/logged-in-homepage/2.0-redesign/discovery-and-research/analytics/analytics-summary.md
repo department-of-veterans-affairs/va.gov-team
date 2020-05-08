@@ -52,7 +52,7 @@ We'd like to know the following:
 
 For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 
-| Page title | Page| Pageviews   |
+| Page title | Page| Pageviews |
 |-----|------|------|
 | **1. Homepage** | /index\.html | 48,794,621  |
 | **2. ??**  | \(other\) | 37,220,258  |
@@ -78,5 +78,5 @@ For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 | **22. VA Prescription Refill and Tracking content page**| /health\-care/refill\-track\-prescriptions/index\.html  | 1,726,433   |
 | **23. Post 9/11 GI Bill Statement of Benefits**| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997  |
 | **24. VA disability compensation hub page** | /disability/index\.html| 1,669,521   |
-| **25. Types of Veteran ID cards content page** /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
+| **25. Types of Veteran ID cards content page** | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
 |   | Total page views: | 351,784,722 |
