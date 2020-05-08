@@ -60,7 +60,7 @@ For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 | **4. Old facility locator URL from vets.gov (confirm)**| /facilities/index\.html?XXX | 24,971,596  |
 | **5. Claim status tool (logged in)**| /track\-claims/your\-claims/| 24,426,252  |
 | **6. Sign in: DS Logon**| /auth/login/callback?type=dslogon  | 11,439,993  |
-| **7.Claim status tool ("index" doesn't come up)**| /track\-claims/index\.html | 10,342,922  |
+| **7. Claim status tool ("index" doesn't come up)**| /track\-claims/index\.html | 10,342,922  |
 | **8. Search** | /search/index\.html | 5,441,027   |
 | **9. My VA ("index"  doesn't come up)** | /my\-va/index\.html| 4,647,413   |
 | **10. Sign in: ID.me** | /auth/login/callback?type=idme | 4,167,709   |
