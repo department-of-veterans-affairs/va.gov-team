@@ -9,8 +9,10 @@ As part of the [logged-in homepage discovery effort](https://github.com/departme
 For the analytics review, we were specifically looking for more insight into the following high-level questions that will guide as as we pursue the logged-in homepage work:
 
 - Why do people come to VA.gov? What people do they do here?
-- What leads people to the homepage? What do they do from there?
-- What leads people to the My VA? What do they do from there?
+- What leads people to the homepage? 
+- What do they do from there?
+- What leads people to the My VA? 
+- What do they do from there?
 
 ## Analytics
 
