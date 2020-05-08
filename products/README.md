@@ -30,7 +30,7 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 | [Benefit hubs](content/benefit-hubs) | Core Content | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) |  | Managed in VACMS |
 | [Spanish translations](content/spanish-translation) | Core Content | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) |  | Managed in VACMS |
 | [Facility locator](facilities/facility-locator) | Facilities | [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator) |  |  |
-| [Medical facility sites](facilities/medical-centers) | Facilities | [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator), [VA Medical Center (VAMC)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/vamc) |  |  |
+| [Medical facility sites](facilities/medical-centers) | Facilities | [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator), [VA Medical Center (VAMC)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/vamc) |  |  Managed in VACMS |
 | [Banners](global/banners) | Global Site Elements | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux), [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator) |  | Most banners are managed from VACMS |
 | [Contact us](global/contact-us) | Global Site Elements |  |  |  |
 | [Crisis line](global/crisis-line) | Global Site Elements |  |  |  |
@@ -44,6 +44,7 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 | [Direct deposit](identity-personalization/direct-deposit) | User Identity and Personalization |  |  |  |
 | [Login and authentication](identity-personalization/login) | User Identity and Personalization |  |  |  |
 | [User notifications](identity-personalization/notifications) | User Identity and Personalization |  |  |  |
-| [Media library](media-library) | VA Content and Features |  |  | Managed in VACMS |
-| [Office and administration sites](office-administration) | VA Content and Features |  | Postponed | Future product for VACMS |
-| VA Forms | VA Content and Features | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | In development |  |
+| [Media library](media-library) | VA Content and Features | [CMS team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms) |  | Managed in VACMS |
+| [Outreach materials and events](#) | VA Content and Features | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) |  | Managed in VACMS |
+| [Office and administration sites](office-administration) | VA Content and Features |  | Postponed? | Future product for VACMS |
+| VA Forms | VA Content and Features | [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux) | In development | Content related to 30 out of 500 forms managed from VACMS |
