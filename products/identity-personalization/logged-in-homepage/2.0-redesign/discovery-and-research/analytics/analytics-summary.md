@@ -97,34 +97,33 @@ We'd like to know the following:
   
   | Page title  | Page | Pageviews  |
 |------------|---------|------------|
-| ??    | \(other\)| 52,453,193 |
-| Homepage  | /index\.html | 25,511,589 |
-| Claim status tool   | /claim\-or\-appeal\-status/index\.html  | 21,921,531 |
-| Sign in: DS Logon | /auth/login/callback?type=dslogon | 10,730,879 |
-| Claim status tool| /track\-claims/index\.html | 9,794,262  |
-| My VA   | /my\-va/index\.html| 4,217,283  |
-| Sign in: ID\.me   | /auth/login/callback?type=idme  | 3,909,215  |
-| Sign in: MHV   | /auth/login/callback?type=mhv | 3,394,032  |
-| Post\-9/11 GI Bill Statement of Benefits content page | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/ | 2,498,933  |
-| Old facility locator URL from vets\.gov \(confirm\) | /facilities/index\.html?XXX | 2,358,882  |
-| Va\.gov profile | /profile/index\.html | 1,723,315  |
-| My VA | /my\-va/ | 1,606,595  |
-| Post 9/11 GI Bill Statement of Benefits | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,527,984|
-| Download VA benefit letters content page | /records/download\-va\-letters/index\.html |1,513,599  |
-| Logout| /logout/index\.html| 1,436,142  |
-| ??? | /health\-care/my\-health\-account\-validation/index\.html | 1,290,148  |
-| Download VA benefit letters: Prompt to confirm address | /records/download\-va\-letters/letters/confirm\-address/ | 1,288,342  |
-| VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html  |1,282,502  |
-| How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html                     | 1,237,664  |
-| How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html  | 1,214,936  |
-| My VA| /index\.html?next=/my\-va| 1,178,048  |
-| Search | /search/index\.html| 1,102,817  |
-| Download VA benefit letters: List of letters | /records/download\-va\-letters/letters/letter\-list/| 1,059,008|
-| Claim status tool | /index\.html?next=/track\-claims/ | 1,034,058  |
-| How to apply for a Veteran ID Card content page | /records/get\-veteran\-id\-cards/vic/index\.html | 969,261|
+| 1. ??    | \(other\)| 52,453,193 |
+| 2. Homepage  | /index\.html | 25,511,589 |
+| 3. Claim status tool   | /claim\-or\-appeal\-status/index\.html  | 21,921,531 |
+| 4. Sign in: DS Logon | /auth/login/callback?type=dslogon | 10,730,879 |
+| 5. Claim status tool| /track\-claims/index\.html | 9,794,262  |
+| 6. My VA   | /my\-va/index\.html| 4,217,283  |
+| 7. Sign in: ID\.me   | /auth/login/callback?type=idme  | 3,909,215  |
+| 8. Sign in: MHV   | /auth/login/callback?type=mhv | 3,394,032  |
+| 9. Post\-9/11 GI Bill Statement of Benefits content page | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/ | 2,498,933  |
+| 10. Old facility locator URL from vets\.gov \(confirm\) | /facilities/index\.html?XXX | 2,358,882  |
+| 11. Va\.gov profile | /profile/index\.html | 1,723,315  |
+| 12. My VA | /my\-va/ | 1,606,595  |
+| 13. Post 9/11 GI Bill Statement of Benefits | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,527,984|
+| 14. Download VA benefit letters content page | /records/download\-va\-letters/index\.html |1,513,599  |
+| 15. Logout| /logout/index\.html| 1,436,142  |
+| 16. ??? | /health\-care/my\-health\-account\-validation/index\.html | 1,290,148  |
+| 17.Download VA benefit letters: Prompt to confirm address | /records/download\-va\-letters/letters/confirm\-address/ | 1,288,342  |
+| 18. VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html  |1,282,502  |
+| 19. How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html | 1,237,664  |
+| 20. How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html  | 1,214,936  |
+| 21. My VA| /index\.html?next=/my\-va| 1,178,048  |
+| 22. Search | /search/index\.html| 1,102,817  |
+| 23. Download VA benefit letters: List of letters | /records/download\-va\-letters/letters/letter\-list/| 1,059,008|
+| 24. Claim status tool | /index\.html?next=/track\-claims/ | 1,034,058  |
+| 25. How to apply for a Veteran ID Card content page | /records/get\-veteran\-id\-cards/vic/index\.html | 969,261|
 |  | Total: | 217477308  |
 
-  
 </details>
 
 <details>
