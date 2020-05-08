@@ -34,6 +34,7 @@ The card sort link will be tested by a member of the Facility Locator team prior
 
 ## Team Roles	
 Since this is an unmoderated study, there will be no team members present for the sessions. 
+Plan and study created by Aricka Lewis, aricka@adhocteam.us
 
 ## Resources	
 - Synthesis		
