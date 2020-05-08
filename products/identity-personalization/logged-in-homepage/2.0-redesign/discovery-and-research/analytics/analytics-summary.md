@@ -158,7 +158,7 @@ People come to the homepage through the **sign in flow (~6MM combined through DS
 
 [Top 25 pages before the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/)
 
-### From the homepage, people primarily navigte into the tools displayed in the top 20 tasks. 
+### From the homepage, people primarily navigate into the tools displayed in the top 20 tasks. 
 
 As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable excpetions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
 
