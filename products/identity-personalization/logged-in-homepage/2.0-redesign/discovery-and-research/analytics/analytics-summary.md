@@ -51,6 +51,26 @@ We'd like to know the following:
 
 These results are largely reflect what we have seen in the past the claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. Although these tools don't exist on VA.gov, people also wanted to know how to how to view payment history and refill their prescriptions.
 
+**VA.gov tools that were in the top 25 pages from April 2019 – 2020**
+
+[Full list of top 25 page]()
+
+| Page title | Page| Pageviews |
+|-----|------|------|
+| Claim status tool (logged out content page) | /claim\-or\-appeal\-status/index\.html | 26,328,147  |
+| Facility locator (forward from old vets.gov URL)| /facilities/index\.html?XXX | 24,971,596  |
+| Claim status tool (logged in)| /track\-claims/your\-claims/| 24,426,252  |
+| Claim status tool | /track\-claims/index\.html | 10,342,922  |
+| My VA | /my\-va/index\.html| 4,647,413   |
+| Facility locator| /find\-locations/index\.html| 3,624,995   |
+| Post-9/11 GI Bill Statement of Benefits content page| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/| 3,369,881|
+| View your VA payment history content page | /va\-payment\-history/index\.html  | 2,351,679   |
+| My VA dashboard| /my\-va/| 2,168,777|
+| Download VA benefit letters content page | /records/download\-va\-letters/index\.html| 1,965,634   |
+| VA.gov profile | /profile/index\.html | 1,920,045   |
+| VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html| 1,726,433   |
+| Post 9/11 GI Bill Statement of Benefits| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997  |
+
 ### Popular content hubs
 
 In terms of "explore" content, how to apply for GI Bill/education benefits, how to apply for disability benefits, and how to apply for a veteran ID card made it into the top 25.
