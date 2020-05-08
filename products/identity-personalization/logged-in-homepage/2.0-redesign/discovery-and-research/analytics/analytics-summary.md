@@ -61,9 +61,11 @@ We'd like to know the following:
 For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 <details>
   <summary>Click to expand!</summary>
+  
   | Page title | Page| Pageviews |
   |-----|------|------|
   | **1. Homepage** | /index\.html | 48,794,621  |
+  
 </details>
 
 | Page title | Page| Pageviews |
