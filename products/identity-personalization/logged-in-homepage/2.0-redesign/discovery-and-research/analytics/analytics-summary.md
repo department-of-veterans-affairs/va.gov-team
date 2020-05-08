@@ -181,4 +181,3 @@ Since you can't view My VA without being logged in, it's interesting that the mo
 Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)** which was a unique interaction we didn't see from the homepage, likely because a link to the profile is featured prominently from the dashboard.
 
 [Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
-
