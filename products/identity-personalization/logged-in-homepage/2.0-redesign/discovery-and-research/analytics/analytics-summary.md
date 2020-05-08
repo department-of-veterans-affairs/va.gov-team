@@ -59,7 +59,7 @@ We'd like to know the following:
 #### Data
 
 <details>
-  <summary>**For the modernized VA.gov from 4.12.2019 — 4.12.2020**</summary>
+  <summary><b>Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
   
   | Page title | Page| Pageviews |
 |-----|------|------|
