@@ -1,43 +1,3 @@
-# External Service Monitoring 
-
-## Implementation Notes
-
-#### Manually generating SLO reports
-
-These instructions and script assume Mozilla Firefox as your browser. 
-
-This can be done with `chrome`/`chromium` and `chromedriver` but will require significant alterations.
-
-##### Prerequisites:
-
-- `ruby --version` should be `2.3.x` or greater
-- `convert --version` should be `Version ImageMagick 6.9.x` or greater [download instructions](https://imagemagick.org/script/download.ph://imagemagick.org/script/download.php)
-- `firefox --version` should be `Mozilla Firefox 72.x` or greater
-- `geckodriver` [install instructions](https://github.com/mozilla/geckodriver/releases)
-- Ensure your browser profile is configured with the [SOCKS5 proxy
-config](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks/README.md)
- for your machine.
-- Login to GitHub and use OAuth to login to [Grafana](http://grafana.vfs.va.gov)
-
-Now you should be prepared to execute the script.
-
-Either download script [here](./report-crawler.rb) or copy & paste the following:
-
-Find your profile name by opening `about:profiles` in Firefox - the active profile name is what you're looking for.
-
-Then, substitute your profile name for `$PROFILE` in the following, and run the reporting command:
-
-`PROFILE_NAME=$PROFILE ./report-crawler.rb`
-
-This should output some status information and will generate a collection of screenshots in `./screenshots`
-
-Contact @kfrz if you experience issues with this script.
-
----
-
-The dashboard screenshots in [`service-documents/`](products/platform/external-service-monitoring/service-documents/) are generated with the following script:
-
-```ruby
 #!/usr/bin/env ruby
 
 # frozen_string_literal: true
@@ -143,17 +103,3 @@ backends.each do |backend|
   filename = SLOReporter.new(b, backend).capture_screenshot
   spinner.success('success')
 end
-
-```
-
-The tricky part is having a profile for Firefox (or Chrome) that's already configured by having logged into Github and
-Grafana, and has the proxy switching configuration included.
-
-Then running the script only takes a few minutes, though you must not have an existing instance of that browser window
-open.
-
-
-## Roadmap
-
-This approach is likely to be used once or twice as a stop gap while the tools team(s) work on a better approach,
-whether that be using Grafana API directly or building custom dashboards from scratch with Chartkick/Chart.js.
