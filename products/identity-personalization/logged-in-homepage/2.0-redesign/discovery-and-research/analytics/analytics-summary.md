@@ -47,13 +47,13 @@ We'd like to know the following:
 
 ## Why do people come to the site? What do they do here?
 
-### Popular tools & tasks
+### Overall, the claim status tool is the most popular tool on the website.
 
-The claim status tool is our most popular tool. Other tools that made it into the top 25 include the facility locator, the GI Bill statement of benefits, and the letters tool. People also wanted to view payment history and refill their prescriptions even though these tools do not exist on VA.gov.
+The **claim status tool (~60,000,000)** is our most popular tool. Other tools that made it into the top 25 include the **facility locator (~27,000,000)**, the **GI Bill statement of benefits (3,369,881)**, and the **download your VA letters tool (1,965,634)**. People also wanted to **view payment history (2,351,679)** and **refill their prescriptions (1,726,433)** even though these tools do not exist on VA.gov.
 
-On the modernized site, we only see one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
+On the modernized site, we only saw one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
 
-More unexpected: going by pageview, My VA is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
+More unexpected: going by pageview, **My VA (~6,800,000)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
 
 [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
@@ -71,7 +71,7 @@ More unexpected: going by pageview, My VA is more popular than we would have exp
 | Post-9/11 GI Bill Statement of Benefits content page| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/| 3,369,881|
 | View your VA payment history content page | /va\-payment\-history/index\.html  | 2,351,679   |
 | My VA dashboard| /my\-va/| 2,168,777|
-| Download VA benefit letters content page | /records/download\-va\-letters/index\.html| 1,965,634   |
+| Download VA benefit letters content page | /records/download\-va\-letters/index\.html| 1,965,634 |
 | VA.gov profile | /profile/index\.html | 1,920,045   |
 | VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html| 1,726,433   |
 | Post 9/11 GI Bill Statement of Benefits| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997  |
@@ -80,7 +80,7 @@ More unexpected: going by pageview, My VA is more popular than we would have exp
 
 ### Exploring and applying for benefits
 
-In terms of "explore/apply" content, how to apply for GI Bill/education benefits, disability content, and veteran ID card content made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
+In terms of "explore/apply" content, **how to apply for GI Bill/education benefits (2,836,891)**, **disability content (~4,000,000)**, and **veteran ID card content (~3,200,000)** made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
 
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
@@ -137,7 +137,7 @@ Search is much more important for logged out users than logged in users.
 
 This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
 
-The homepage was the most popular by orders of magnitude, with the claim status tool and the facility locator rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
+The **homepage (25,070,263)** was the most popular by orders of magnitude, with the **claim status tool (5,393,042)** and the **facility locator (1,952,952)** rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
 
 [Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
