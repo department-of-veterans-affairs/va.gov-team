@@ -44,3 +44,40 @@ We'd like to know the following:
 - Is My VA ever a first entry point?
 - What do people do from My VA? (ie. what links do they click?)
 - How many people visit My VA? 
+
+
+## General
+
+### Top 25 pages 
+
+For the modernized VA.gov from 4.12.2019 — 4.12.2020.
+
+| Page title                                                     | Page                                                    | Pageviews   |
+|----------------------------------------------------------------|---------------------------------------------------------|-------------|
+| Homepage                                                       | /index\.html                                            | 48,794,621  |
+| ??                                                             | \(other\)                                               | 37,220,258  |
+| Claim status tool \(logged out content page\)                  | /claim\-or\-appeal\-status/index\.html                  | 26,328,147  |
+| Old facility locator URL from vets\.gov \(confirm\)            | /facilities/index\.html?XXX                             | 24,971,596  |
+| Claim status tool \(logged in\)                                | /track\-claims/your\-claims/                            | 24,426,252  |
+| A part of the sign in flow if you're using DS Logon            | /auth/login/callback?type=dslogon                       | 11,439,993  |
+| Claim status tool \("index" doesn't come up\)                  | /track\-claims/index\.html                              | 10,342,922  |
+| Search                                                         | /search/index\.html                                     | 5,441,027   |
+| My VA \("index"  doesn't come up\)                             | /my\-va/index\.html                                     | 4,647,413   |
+| A part of the sign in flow if you're using ID\.me              | /auth/login/callback?type=idme                          | 4,167,709   |
+| A part of the sign in flow if you're using MHV                 | /auth/login/callback?type=mhv                           | 3,642,767   |
+| Facility locator                                               | /find\-locations/index\.html                            | 3,624,995   |
+| Post\-9/11 GI Bill Statement of Benefits content page          | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/        | 3,369,881   |
+| How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html                   | 2,836,891   |
+| How to file a VA disability claim content page                 | /disability/how\-to\-file\-claim/index\.html            | 2,583,794   |
+| View your VA payment history content page                      | /va\-payment\-history/index\.html                       | 2,351,679   |
+| My VA dashboard                                                | /my\-va/                                                | 2,168,777   |
+| Download VA benefit letters content page                       | /records/download\-va\-letters/index\.html              | 1,965,634   |
+| VA\.gov profile \("index"  doesn't come up\)                   | /profile/index\.html                                    | 1,920,045   |
+| ???                                                            | /index\.html?next=/my\-va                               | 1,762,813   |
+| How to apply for a Veteran ID Card content page                | /records/get\-veteran\-id\-cards/vic/index\.html        | 1,734,573   |
+| VA Prescription Refill and Tracking content page               | /health\-care/refill\-track\-prescriptions/index\.html  | 1,726,433   |
+| Post 9/11 GI Bill Statement of Benefits                        | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997   |
+| "                                                              |
+| VA disability compensation hub page"                           | /disability/index\.html                                 | 1,669,521   |
+| Types of Veteran ID cards content page                         | /records/get\-veteran\-id\-cards/index\.html            | 1,621,850   |
+|                                                                | Total page views:                                       | 351,784,722 |
