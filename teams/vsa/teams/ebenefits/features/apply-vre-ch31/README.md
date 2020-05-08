@@ -2,6 +2,7 @@
 
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
+- Initial paths: https://xd.adobe.com/view/397eb9d2-4b41-4e8c-6d56-b47ae93c54f1-4f4f/screen/435bca4a-b907-41ee-9284-648cd2f5f114/Chapter-31-Screens-1
 - Staging EBN link: https://sqa.eauth.va.gov/ebenefits/vre
 - Staging EBN Apply: https://sqa.eauth.va.gov/wssweb/wss-common-webparts/mvc/ebn/verifyVRE1900Application 
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-1900-ARE.pdf
