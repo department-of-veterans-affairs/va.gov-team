@@ -57,22 +57,22 @@ For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 | **1. Homepage** | /index\.html | 48,794,621  |
 | **2. ??**  | \(other\) | 37,220,258  |
 | **3. Claim status tool** (logged out content page) | /claim\-or\-appeal\-status/index\.html | 26,328,147  |
-| **4.Old facility locator URL from vets.gov (confirm)**| /facilities/index\.html?XXX | 24,971,596  |
-| **5.Claim status tool (logged in)**| /track\-claims/your\-claims/| 24,426,252  |
+| **4. Old facility locator URL from vets.gov (confirm)**| /facilities/index\.html?XXX | 24,971,596  |
+| **5. Claim status tool (logged in)**| /track\-claims/your\-claims/| 24,426,252  |
 | **6. Sign in: DS Logon**| /auth/login/callback?type=dslogon  | 11,439,993  |
 | **7.Claim status tool ("index" doesn't come up)**| /track\-claims/index\.html | 10,342,922  |
-| **8.Search** | /search/index\.html | 5,441,027   |
-| **9.My VA ("index"  doesn't come up)** | /my\-va/index\.html| 4,647,413   |
+| **8. Search** | /search/index\.html | 5,441,027   |
+| **9. My VA ("index"  doesn't come up)** | /my\-va/index\.html| 4,647,413   |
 | **10. Sign in: ID.me** | /auth/login/callback?type=idme | 4,167,709   |
 | **11. Sign in: MHV**| /auth/login/callback?type=mhv| 3,642,767   |
 | **12. Facility locator**| /find\-locations/index\.html| 3,624,995   |
 | **13. Post-9/11 GI Bill Statement of Benefits content page**| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/| 3,369,881|
-| **14.How to apply for the GI Bill and related benefits content page**| /education/how\-to\-apply/index\.html| 2,836,891 |
+| **14. How to apply for the GI Bill and related benefits content page**| /education/how\-to\-apply/index\.html| 2,836,891 |
 | **15. How to file a VA disability claim content page** | /disability/how\-to\-file\-claim/index\.html| 2,583,794   |
 | **16. View your VA payment history content page** | /va\-payment\-history/index\.html  | 2,351,679   |
 | **17. My VA dashboard**| /my\-va/| 2,168,777|
 | **18. Download VA benefit letters content page** | /records/download\-va\-letters/index\.html| 1,965,634   |
-| **19.VA.gov profile ("index"  doesn't come up)** | /profile/index\.html | 1,920,045   |
+| **19. VA.gov profile ("index"  doesn't come up)** | /profile/index\.html | 1,920,045   |
 | **20. ???** | /index\.html?next=/my\-va | 1,762,813   |
 | **21. How to apply for a Veteran ID Card content page**| /records/get\-veteran\-id\-cards/vic/index\.html | 1,734,573   |
 | **22. VA Prescription Refill and Tracking content page**| /health\-care/refill\-track\-prescriptions/index\.html  | 1,726,433   |
