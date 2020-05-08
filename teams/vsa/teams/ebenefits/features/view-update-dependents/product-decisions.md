@@ -9,6 +9,6 @@ _[Steve](https://dsva.slack.com/archives/CLY6Q69RV/p1588968974382400?thread_ts=1
   - If the file number is not present in the API response, then the user is in an error state.  
   - The VA file number is required to submit   
   
-**TL;DR - We are going to run a check on this and if we are not able to get it, we need to send the user to a phone number to ensure their VA file number is in place in the VA system of record.**
+**TL;DR - We are going to run a check on this and if we are _not_ able to get it, we need to send the user to a phone number to ensure their VA file number is in place in the VA system of record via some error messaging.**
 
 
