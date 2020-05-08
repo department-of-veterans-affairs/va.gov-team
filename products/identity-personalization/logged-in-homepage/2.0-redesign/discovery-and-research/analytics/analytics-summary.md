@@ -78,7 +78,7 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 
 </details>
 
-### Exploring and applying for benefits
+### "Explore/Apply" content is the primary focus for logged out users. 
 
 In terms of "explore/apply" content, **how to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)** made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
 
@@ -124,16 +124,14 @@ It's worth noting that in the data we received back, logged out users primary fo
 
 </details>
 
-### Logged out vs. logged in users
+### Logged in users primarily come to VA.gov to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters). Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
 
-Logged in users appear to be on the site primarily to check the status of benefits (claims, GI Bill benefits) or to get their records (download letters). Logged out users are more interested in exploring benefits and getting information on eligibility and how to apply for them.
-
-Search is much more important for logged out users than logged in users.
+Also, search is significantly more important for logged out users **(~4.3MM pageviews)** than logged in users **(~1.1MM pageviews)**.
 
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 - [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
-### Landing pages: Where people are starting their VA.gov journey
+### People start on the homepage, the claim status tool, and the facility locator.
 
 This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
 
@@ -141,12 +139,12 @@ The **homepage (~25MM)** was the most popular by orders of magnitude, with the *
 
 [Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
-### What people are searching for
+### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
 
-- "Health" and "benefits" are what people are most interested in. This may mean that people are looking for more help and assistance from us on getting started with benefits.
-- "Forms" is also high on the list, which suggests people want a full list of VA forms.
-- Benefits-related terms like "direct deposit", "cemetaries," and "certificate of eligibility" are high on the list, which suggests that we may need to elevate these tools more.
-- "DD214" is high on the list, further reflecting people's desire to get their military records.
+- **"Benefits" (153,244)** and **"health" (58,827)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
+- **"Forms" (24,197)** is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like **"direct deposit" (12,723)**, **"cemetery" (9,726)**, and **"certificate of eligibility" (8,154)** are high on the list, which suggests that we may need to elevate these tools more.
+- **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
 
 [Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
 
