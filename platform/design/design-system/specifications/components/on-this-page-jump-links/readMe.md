@@ -4,7 +4,7 @@
 
 ## Visual design
 
-<img src="url_of_image" alt="meaningful_description"/>
+<img src="url_of_image" alt="visual design specifications for the on this page component"/>
 
 
 ## Behavior
