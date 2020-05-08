@@ -1,24 +1,46 @@
 # Research Plan for COVID screener, May 2020
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+
 ## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+This study is to support the implementation of the COVID screener tool created by the Raleigh/Durham VAMC. 
+
+The screener allows the VAMC operations staff to quickly, remotely screen everyone entering the medical center for COVID symptoms. It was created to reduce in-person interaction with staff and triage potential COVID patients away from the general hospital population. The product was launched around May 8, 2020.
+
+Our primary research questions are: 
+- What are users' (Veterans, employees, and visitors) expectations for screening/intake at the VAMC?
+- Can users effectively find and complete the screener?
+- Do users know what to do after completing the screener? Are their expectations met?
+- Does the screener accomplish the goals of the VAMC staff? (These will be more clearly defined before the study runs).
+
+Hypothesis:
+
+The screener tool will allow users to quickly self-triage and get a PASS/SCREEN result, however the usefulness of this result will be unclear.
+
+
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+1.	What method of research are you planning?
+
+Directed interviews combined with usability testing of a high-fidelity prototype. Remote moderated.
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+
+Selected this method to gather information around the users expectations for COVID, intake processes. Have a live product to do usability testing on. Remote for safety.
+
+3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
+
+Preference to use ZoomGov account, will consider others if they allow for mobile testing.
+
+4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
+
+TBD. Currently the prototype solution is available online, we may have a 2.0 version or high-fidelity mocks prior to this study running.
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+Targeting 8 users including a mix of Veterans, non-Veteran visitors, and VA medical center employees. All must have recently visited a VAMC (within 6 months). Strong preference for Raleigh/Durham VAMC staff. Strong preference for Veterans/Visitors to Raleigh Durham within the past week.
+
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+Research recruiting contract.
+
+---
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
