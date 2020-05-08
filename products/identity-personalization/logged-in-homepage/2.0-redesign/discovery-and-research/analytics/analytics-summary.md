@@ -129,6 +129,35 @@ We'd like to know the following:
 <details>
   <summary><b>Logged out: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
   
+  | Page title   | Page  | Pageviews  |
+|----------|-------|----|
+| 1\. Homepage | /index\.html | 23,283,032 |
+| 2\. Old facility locator URL from vets\.gov \(confirm\) | /facilities/index\.html?XXX  | 22,612,714 |
+| 3\. Claim status tool | /claim\-or\-appeal\-status/index\.html  | 4,406,616  |
+| 4\. Search | /search/index\.html| 4,338,210  |
+| 5\. Facility locator results | /find\-locations/index\.html | 3,313,358  |
+| 6\. ???  | \(other\) | 3,011,199  |
+| 7\. Claim status tool  | /track\-claims/your\-claims/ | 2,189,805  |
+| 8\. How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html| 1,599,227|
+| 9\. How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html | 1,368,858  |
+| 10\. GI Bill comparison tool | /gi\-bill\-comparison\-tool/  | 1,105,048  |
+| 11\. Facility locator results| /find\-locations/ | 1,072,389  |
+| 12\. VA disability compensation hub page| /disability/index\.html| 1,066,396  |
+| 13\. How to apply for VA health care content page| /health\-care/how\-to\-apply/index\.html  | 1,030,906  |
+| 14\. GI Bill comparison tool results | /gi\-bill\-comparison\-tool/index\.html | 979,965    |
+| 15\. Request your military service records \(including DD214\) content page | /records/get\-military\-service\-records/index\.html| 969,554    |
+| 16\. View your VA payment history content page | /va\-payment\-history/index\.html | 893,992    |
+| 17\. Post 9/11 GI Bill Statement of Benefits | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/ | 870,948    |
+| 18\. How to apply for a Veteran ID Card content page | /records/get\-veteran\-id\-cards/index\.html| 823,157|
+| 19\. Careers and employment hub page | /careers\-employment/index\.html | 804,267|
+| 20\. Health care hub landing page | /health\-care/index\.html | 786,269    |
+| 21\. VIC application intro page | /records/get\-veteran\-id\-cards/vic/index\.html | 765,312    |
+| 22\. Family member benefit hub page | /family\-member\-benefits/index\.html| 740,490 |
+| 23\. Eligibility for VA health care content page | /health\-care/eligibility/index\.html | 722,121    |
+| 24\. Sign in: DS Logon| /auth/login/callback?type=dslogon| 709,114    |
+| 25\. Coronavirus FAQ| /coronavirus\-veteran\-frequently\-asked\-questions/index\.html | 707,904    |
+| | Total: | 130027222  |
+  
 </details>
 
 ### Top 20 search terms 
