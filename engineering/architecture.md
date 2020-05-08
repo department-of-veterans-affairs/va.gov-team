@@ -34,9 +34,10 @@ The sequence of calls is described by [this plantuml](chatbot-sequence.puml). Di
 
 ## Environments
 
-|Environment|va.gov|vets-api|vets-api location|bot-service management URL|bot-service location|
-|---|---|---|---|---|---|
-|Production|[va.gov](https://va.gov/coronavirus-chatbot/)|[api.va.gov](https://api.va.gov/v0/coronavirus_chatbot/tokens)|VAEC AWS Govcloud|[management portal (va-cva-prod-healthbot-dl0pbmv) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-prod-healthbot-dl0pbmv)|VAEC Azure Commercial|
-|Staging|[staging.va.gov](https://staging.va.gov/coronavirus-chatbot/)|[staging-api.va.gov](https://staging-api.va.gov/v0/coronavirus_chatbot/tokens)|VAEC AWS Govcloud|[management portal (va-cva-staging-healthbot-orrw0m6) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-staging-healthbot-orrw0m6)|VAEC Azure Commercial|
-|Dev|[dev.va.gov](https://dev.va.gov/coronavirus-chatbot/)|[dev-api.va.gov](https://dev-api.va.gov/v0/coronavirus_chatbot/tokens)|VAEC AWS Govcloud|[management portal (azcctolabhealthbot-djeoexc)](https://us.healthbot.microsoft.com/account/azcctolabhealthbot-djeoexc)|VAEC Azure EDE Lab|
-|VAEC Dev (not currently used)|n/a|n/a|n/a|[management portal (va-cva-dev-healthbot-8dbmwqb) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-dev-healthbot-8dbmwqb)|VAEC Commercial|
+|Environment|va.gov|vets-api|bot-service management URL|bot-service location|
+|---|---|---|---|---|
+|Production|[va.gov](https://va.gov/coronavirus-chatbot/)|[api.va.gov](https://api.va.gov/v0/coronavirus_chatbot/tokens)|[management portal (va-cva-prod-healthbot-dl0pbmv) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-prod-healthbot-dl0pbmv)|VAEC Azure Commercial|
+|Staging|[staging.va.gov](https://staging.va.gov/coronavirus-chatbot/)|[staging-api.va.gov](https://staging-api.va.gov/v0/coronavirus_chatbot/tokens)|[management portal (va-cva-staging-healthbot-orrw0m6) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-staging-healthbot-orrw0m6)|VAEC Azure Commercial|
+|Dev|[dev.va.gov](https://dev.va.gov/coronavirus-chatbot/)|[dev-api.va.gov](https://dev-api.va.gov/v0/coronavirus_chatbot/tokens)|[management portal (azcctolabhealthbot-djeoexc)](https://us.healthbot.microsoft.com/account/azcctolabhealthbot-djeoexc)|VAEC Azure EDE Lab|
+|Sandbox|n/a|n/a|[management portal (azcctolabhealthbot-dev-2-txzkqrf](https://us.healthbot.microsoft.com/account/azcctolabhealthbot-dev-2-txzkqrf/)|VAEC Azure EDE Lab|
+|VAEC Dev (not currently used)|n/a|n/a|[management portal (va-cva-dev-healthbot-8dbmwqb) (CAG or GFE)](https://us.healthbot.microsoft.com/account/va-cva-dev-healthbot-8dbmwqb)|VAEC Azure Commercial|
