@@ -15,7 +15,6 @@
 
 ### Semantic markup
 
-<hr>
 
 ## design.va.gov documentation
 
