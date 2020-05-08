@@ -58,9 +58,8 @@ We'd like to know the following:
 
 #### Data
 
-For the modernized VA.gov from 4.12.2019 — 4.12.2020.
 <details>
-  <summary>Click to expand!</summary>
+  <summary>**For the modernized VA.gov from 4.12.2019 — 4.12.2020**</summary>
   
   | Page title | Page| Pageviews |
 |-----|------|------|
