@@ -49,11 +49,11 @@ We'd like to know the following:
 
 ### Overall, the claim status tool is the most popular tool on the website.
 
-The **claim status tool (~60,000,000)** is our most popular tool. Other tools that made it into the top 25 include the **facility locator (~27,000,000)**, the **GI Bill statement of benefits (3,369,881)**, and the **download your VA letters tool (1,965,634)**. People also wanted to **view payment history (2,351,679)** and **refill their prescriptions (1,726,433)** even though these tools do not exist on VA.gov.
+The **claim status tool (~60MM)** is our most popular tool. Other tools that made it into the top 25 include the **facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. People also wanted to **view payment history (~2.4MM)** and **refill their prescriptions (~1.7MM)** even though these tools do not exist on VA.gov.
 
 On the modernized site, we only saw one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
 
-More unexpected: going by pageview, **My VA (~6,800,000)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
+More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
 
 [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
@@ -80,7 +80,7 @@ More unexpected: going by pageview, **My VA (~6,800,000)** is more popular than 
 
 ### Exploring and applying for benefits
 
-In terms of "explore/apply" content, **how to apply for GI Bill/education benefits (2,836,891)**, **disability content (~4,000,000)**, and **veteran ID card content (~3,200,000)** made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
+In terms of "explore/apply" content, **how to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)** made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
 
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
@@ -137,7 +137,7 @@ Search is much more important for logged out users than logged in users.
 
 This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
 
-The **homepage (25,070,263)** was the most popular by orders of magnitude, with the **claim status tool (5,393,042)** and the **facility locator (1,952,952)** rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
+The **homepage (~25MM)** was the most popular by orders of magnitude, with the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
 
 [Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
@@ -152,9 +152,13 @@ The **homepage (25,070,263)** was the most popular by orders of magnitude, with 
 
 ## How do people use the homepage?
 
-### As expected, people are entirely reliant on the top 20 tasks to navigate the homepage.
+### People come back to the homepage through the sign in flow, and then through many of the site's most popular pages.
 
-Almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable excpetions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (5,095,696)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
+People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **
+
+### From the homepage, people primarily navigte into the tools displayed in the top 20 tasks. 
+
+As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable excpetions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
 
 This further shows the reliance on the top 20 tasks and suggests we should take extra care with how we handle these when creating a personalized logged-in homepage.
 
