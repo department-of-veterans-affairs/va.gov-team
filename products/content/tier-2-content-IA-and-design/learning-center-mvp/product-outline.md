@@ -8,7 +8,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Status and decisions](#status-and-decisions)
-- [Product requirements](#product-requirements
+- [Product requirements](#product-requirements)
 - [Implementation info](#implementation-info)
 - [Team](#team)
 
