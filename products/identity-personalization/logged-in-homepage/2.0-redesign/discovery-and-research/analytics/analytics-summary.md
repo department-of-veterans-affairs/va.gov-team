@@ -217,3 +217,17 @@ We'd like to know the following:
   
 </details>
 
+### Top 25 entry points 
+
+This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
+
+- Landing pages largely reflect what we see in terms of popularity of pages overall. The homepage, claim status, GI bill benefits, content hubs, DD214 info, and info on the veteran ID card were all in the top 25 list.
+- The homepage was the most popular by orders of magnitude, with the claim status tool and the facility locator rounding out the top 3.
+- My VA makes a higher appearance on this list than I would have expected, but the raw number of sessions are a minor fraction of people landing on the homepage.
+
+<details>
+  <summary><b>Top 25 landing pages: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+  
+  
+  
+</details>
