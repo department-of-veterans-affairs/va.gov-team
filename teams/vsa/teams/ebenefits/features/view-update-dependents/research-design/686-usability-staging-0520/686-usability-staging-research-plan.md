@@ -26,16 +26,15 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimize potential  confusion and consolidate the form's flow.
 
 #### Determine if users understand and accept the multi-purpose nature of the form
- - Uncover user-expected flows to the 21-686 form
- - Determine expected usage scenarios and frequency
- - Determine if users can easily understand the a-la-carte selection of various workflows (checkboxes)
- - Determine if users understand the form-within-form nature of the 21-686c and 21-674
+ - Confirm users' acceptance of the a-la-carte selection of various workflows (checkboxes)
+ - Observe users' interactions with workflow not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
+ - Determine if users notice/understand the form-within-form nature of the 21-686c and 21-674
 
 #### Decide what support users need to navigate and successfully submit the form
- - Determine if introduction text is clear and complete
- - Determine what instructions, guidance and examples will be helpful within form workflows
- - Observe whether section and subsection headers, and labeling are clear and helpful
- - Assess users' understanding and acceptance of "tell-me-more" accordions
+ - Determine if users can find and understand the instructions relevant to their scenarios on the intro page.
+ - Determine what instructions, guidance and examples will be helpful within form workflows not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
+ - Assess user acceptance of various "remove" workflows; pay particular attention to the emotional nature of the scenarios.
+ - Assess users' understanding and acceptance of "tell-me-more" accordions, particularly in workflows requiring uploaded documentation
 
 #### Determine if users identify cases requiring additional documentation
  - Confirm that introductory text informs users about upload requirements
@@ -43,12 +42,12 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess users' understanding of the upload process, and it's placement within workflows
 
 #### Discover any problems that arise from longer/complicated chapter combinations
- - Determine potential issues with add-spouse/report-divorce workflow combinations
- - Determine potential issues with add-spouse/add-child workflow combinations
- - Determine potential issues with add-child/add-student workflow combinations
- - Determine potential issues with report-divorce/remove-stepchild workflow combinations
+ - Determine potential issues with particular flows: 
+   - Add-spouse/report-divorce
+   - Add-spouse/add-child workflow combinations
+   - Add-child/add-student workflow combinations
+   - Report-divorce/remove-stepchild workflow combinations
  - Note any potential problems with list/loop feature
- - Assess user acceptance of various "remove" workflows
 
 ### Research questions
 1. In what section of VA.gov would users expect to find the 21-686c? How would they navigate there?
