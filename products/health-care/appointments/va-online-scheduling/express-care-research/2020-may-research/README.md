@@ -15,8 +15,6 @@
 | [P09](../2020-may-research/session-notes/20200507-express-care-p09.md) | Veteran                      | Male   | White or caucasian                            | 55 - 64 | High school diploma or equivalent (for ex: GED)              | Air Force       | PA       |
 | [P10](../2020-may-research/session-notes/20200507-express-care-p10.md) | Veteran                      | Female | White or caucasian                            | 45 - 54 | Bachelor's degree                                            | Navy            | GA       |
 | [P11](../2020-may-research/session-notes/20200508-express-care-p11.md) | Veteran (former VA employee) | Female | Other                                         | 45 - 54 | Master's degree                                              | Air Force, Navy | MI       |
-| P12                                                          | Veteran                      | Male   | White or caucasian                            | 55 - 64 | Associate’s degree / trade certificate / vocational training | Navy            | NH       |
-
 
 
 ## May 2020 Research: Top takeaways
