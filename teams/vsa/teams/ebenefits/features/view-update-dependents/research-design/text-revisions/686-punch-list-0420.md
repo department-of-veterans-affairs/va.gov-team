@@ -8,7 +8,7 @@
 ```diff
 - Update this list immediately upon completion
 ```
-
+🤷‍needs clarification
 Screens proofed in staging.VA.gov the week of April 13, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Throughout
@@ -24,7 +24,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [x] Change signed-in message text to: "**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out."
 - [x] Change green button text to: "Add or remove a dependent" 
-- [ ] Address `https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction` failing on refresh/redirect
+- [x] Address `https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction` failing on refresh/redirect
 
 #### Subway map
 - [x] Change header to: "Follow the steps below to apply to add or remove a dependent"
