@@ -12,7 +12,7 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 ### Sites Reviewed
 
-- Bank of America
+- [Bank of America](#bank-of-america)
 
 - Chase
 
@@ -247,6 +247,8 @@ Their approach to alerts and accessing personalized content in the site was inte
 
 ### Google
 
-Google's use case is quite different from VA.gov, but it was worth evaluating their approach to personalization given their presence in the online space. Their personalized experience is rooted in a consistent, sparse navig![](https://lh3.googleusercontent.com/0676PsofA8FNdho33WAvGbERWt2l8Pbr1sBZLxcXFWM79vF1yHh8ondml6VRnxD4a6Koi5wKOF-eVEggl9IWB_yU1m85Oai7V2kcqA4D2af3WJbPAFlPxKihf-bRJzpAu81xGXpI)ation that drives users to their profile information or Google apps.
+Google's use case is quite different from VA.gov, but it was worth evaluating their approach to personalization given their presence in the online space. Their personalized experience is rooted in a consistent, sparse navigation that drives users to their profile information or Google apps.
 
 The account dashboard felt like the most relevant area to evaluate for this research. Despite the different use cases, similar patterns such as content groupings and text links to complete tasks are used on Google's dashboard. Like State Farm, it was easy to scan the content on the page thanks to lots of white space and clean typography.  This is another example  of left-hand vertical navigation, which was easy to navigate and distinct from the overall navigation.
+
+![](https://lh3.googleusercontent.com/0676PsofA8FNdho33WAvGbERWt2l8Pbr1sBZLxcXFWM79vF1yHh8ondml6VRnxD4a6Koi5wKOF-eVEggl9IWB_yU1m85Oai7V2kcqA4D2af3WJbPAFlPxKihf-bRJzpAu81xGXpI)
