@@ -26,7 +26,8 @@
 - Because the flow of the form is so forked depending on which options you select. It isn't really a linear booking process that maps cleanly to the concept of progressing through different chapters.
 
 ### What type of 'add to calendar' action is triggered when someone clicks that link from their confirmation page?
-- ??? .ical?
+- .ics file (iCalendar) is downloaded with specific appoitnment information. iCalendar files should work for Microsoft Outlook, Google Calendar, and Apple Calendars, but some may require a conversion to .csv 
+- In the future, we will be looking to create a 'calendar widget' to enable more calendar functionality 
 
 ### How far in the past will appointments be pulled to determine available self-schedule clinics?
 - 24 months (confirm with Jeff, may be 12 months presently).
@@ -127,7 +128,7 @@
   - Cancelled requests where all of their requested dates are in the past
   - Requests with a status other than Cancelled or Submitted
   
-## Previously Seen business logic:
+### Previously Seen business logic:
 - Veterans are only able to use online scheduling if they’ve been seen at the selected facility for that type of care in the past 2 years. VAOS will automatically check their completed appointment history to make this determination.
 - This logic applies to all care types/specialities including Primarcy Care and Mental Health. 
 
