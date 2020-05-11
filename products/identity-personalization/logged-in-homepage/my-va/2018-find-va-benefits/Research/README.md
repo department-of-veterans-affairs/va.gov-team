@@ -1,0 +1,1 @@
+Discovery research resources can be found in the [Discovery Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Discovery).
