@@ -78,7 +78,7 @@ When looking at all of VA's main web properties, we can see that in addition to 
 
 In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~30MM)**, various interactions to download personal records **(Blue button ~12.5MM; MHV's "Download My Data" too ~8.8MM)**, and information on **applying for education benefits (~6.7MM)**.
 
-On the modernized VA.gov only, we see similar interests. **Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
+On the modernized VA.gov only, we see similar interest in the **facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
 
 [Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
