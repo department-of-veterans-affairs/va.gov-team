@@ -36,7 +36,16 @@ _(About 5 minutes)_
 [If no] Ok, it's always fun to try something new. Thanks for be willing to participate in this study!
 
 
-## Main Activities
+## Activity 0: Contextualization
+
+I'll present you with some scenarios and ask you a few questions.
+
+- What can you tell me about this content in regards to revision and editorial workflow?
+- Can you tell me when changes were last made to this content and who made them?
+- When was this content last published?
+- Can you tell me who is currently responsible for working on this content?
+
+## Main activities
 
 Now, I have some activities that I'd like you to do in the prototype. In each activity, you'll play the role of a fictional person and I'll let you know who you are each time. I ask you to let me know when you think you finished the activity.
 
@@ -71,15 +80,11 @@ In this activity you'll be _Jackie_.
 
 As Jackie, you're responsible for reviewing content from your colleagues. So now you're reviewing the Coronavirus FAQs page that Aiden sent to you and you realized that there's a typo on the page title. Using the prototype, how would you point that out to Aiden and request the necessary changes?
 
-#### Activity 6: Check on where content is in the editorial process
+#### Activity 6: Publish content
 
-Now I'll present you some scenarios and ask you some questions.
+In this activity you'll be _Billie_.
 
-- Can you tell me where the state of the content and where it is in the editorial process?
-- Can you tell me when changes were last made to the content and who made them?
-- When was this content last published?
-- Can you tell me who is currently responsible for working on this content?
-- Can you set the content as ready to go live on VA.gov?
+As Billie, can you set this Coronavirus FAQ page as ready to go live on VA.gov?
 
 ## Additional Questions
 
