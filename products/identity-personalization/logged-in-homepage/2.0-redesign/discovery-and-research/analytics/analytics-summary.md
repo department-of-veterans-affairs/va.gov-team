@@ -30,7 +30,7 @@ Top 25 Interactions on Homepage (Excluding Scrolling) | [report](https://analyti
 My VA Previous Page Path | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/) | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D&_.useg=builtin11/) 
 My VA Entrances | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D/) | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D&_.useg=builtin11/)
 Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25&_.useg=builtin11/)
-| Homepage vs. My VA user breakdown | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
+| Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
 
 ## Why do people come to the site? What do they do here?
 
@@ -194,9 +194,15 @@ The **homepage (~25MM)** was the most popular by orders of magnitude, with the *
 
 ## The homepage and My VA 
 
-### (Details on user breakdown for the homepage/My VA)
+### About half of VA.gov users go to the homepage. Only about 8% of users go to My VA.
 
-## How do people use the homepage?
+Of the modernized VA.gov's almost **8.7MM** users, about **49% (~4.3MM)** go to the homepage. Only about **8% (~700K)** go to My VA.
+
+**Note**: Unlike other reports, this data is only for the first three months of the year — Jan 1 – Apr 2, 2020.
+
+[Homepage vs. My VA user 3-month report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)
+
+**Recommendation**: Given significantly lower activity, continue with plan to retire My VA permanently.
 
 ### People come back to the homepage through the sign in flow, and then through many of the site's most popular pages.
 
@@ -212,11 +218,15 @@ This further shows the reliance on the top 20 tasks and suggests we should take 
 
 [Top 25 interactions on the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
 
+**Recommendation**: For the logged-in homepage, take an iterative approach to changing the top tasks since people are so reliant on using these to navigate around.
+
 ### People come to my VA via many of the same paths that lead them to the homepage, just in smaller numbers.
 
 People come to My VA through **sign in (~600K)**, the **claim status tool (393,342)**, and **view payment history (75,162)** just like they do on the homepage. They just do so in a much smaller quantity.
 
 [My VA previous page paths](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/)
+
+**Recommendation**: Given significantly lower activity, continue with plan to retire My VA permanently.
 
 ### Login is the primary action taken from My VA.
 
@@ -227,3 +237,5 @@ Since you can't view My VA without being logged in, it's interesting that the mo
 Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)** which was a unique interaction we didn't see from the homepage, likely because a link to the profile is featured prominently from the dashboard.
 
 [Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
+
+**Recommendation**: Given overall popularity of these tools throughout the analytics, emphasize them on the logged-in homepage.
