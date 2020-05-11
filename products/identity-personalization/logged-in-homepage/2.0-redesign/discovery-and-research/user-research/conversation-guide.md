@@ -16,7 +16,7 @@ Before the session, send out the [observer instructions](https://github.com/depa
 - [ ] Have staging.va.gov open in a tab
 - [ ] Have mock-ups of staging available
 - [ ] Be ready to screen share
-- [ ] Have card sort link available
+- [ ] Have[card sort link](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) available
 
 When the participant is ready, begin the session with the following intro
 
@@ -58,13 +58,13 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
 -   When you visit the site, how often do you sign in?
 -   And last but not least, can you tell me about the benefits you currently receive?
 
-Great! Thanks for sharing all of that with me.  Let's get started.
+Great! Thanks for sharing all of that with me.  Let's get started. I'm going to share my screen.
 
 ## First Task: Create and Review Items - 10 minutes
 
-I'm going to hop over to a tool called Mural.  This is what we'll use to create a rough version of your personalized page.  
-
 *Begin screen sharing*
+
+Can you see my screen?  Great! This is a tool called Mural. This is what we'll use to create a rough version of your personalized page.  
 
 You can see here that I've set up some blank sticky notes for us to get started, and I created some outlines to use as pages. One can represent the personalized page you see when you log in to VA.gov; I created the other in case there's another place on va.gov that makes more sense for any of the items.
 
