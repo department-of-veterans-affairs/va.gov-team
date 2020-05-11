@@ -74,7 +74,7 @@ When looking at all of VA's main web properties, we can see that in addition to 
 
 **Recommendation**: Put health care tools front and center on the new logged-in homepage.
 
-### In both the non-modernized and modernized data, we can see that people care about find a VA location, getting records, and applying for education benefits.
+### In both the non-modernized and modernized data, we can see that people care about finding a VA location, getting records, and applying for education benefits.
 
 In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~30MM)**, various interactions to download personal records **(Blue button ~12.5MM; MHV's "Download My Data" too ~8.8MM)**, and information on **applying for education benefits (~6.7MM)**.
 
