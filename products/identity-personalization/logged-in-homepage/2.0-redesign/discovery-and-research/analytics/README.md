@@ -1,6 +1,8 @@
-### From [Issue 6322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6322#issuecomment-613120930)
+## From [Issue 6322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6322#issuecomment-613120930)
 
 Here are the current GA reports updated to Apr 12 2019 - Apr 12 2020.
+
+### Modernized site data (2018 VA.gov only)
 
 Report Name | Desktop/Tablet/Mobile  | Mobile / Tablet only
 :--- | :---: | :---:
@@ -19,3 +21,11 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 | Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)| |
 
 
+### Non-modernized site data (includes MHV, eBenefits, and other va.gov subdomains)
+
+|Name|Report
+|---|---|
+|Top 25pages|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)|
+|Top landing pages|[report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)|
+|Top site search|[report](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=/)|
+|Homepage - Top pages before home|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&_r.drilldown=analytics.pagePath:www.va.gov~2F/)|
