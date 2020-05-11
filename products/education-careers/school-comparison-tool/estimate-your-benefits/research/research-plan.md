@@ -95,7 +95,7 @@ Login requirements: None
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
 - Wednesday, May 13th from 8 AM - 6 PM, excluding 11AM - 12PM
-- Thursday, May 14th from 8 AM - 6 PM, excluding 2 - 3 PM
+- Thursday, May 14th from 8 AM - 6 PM, excluding 1 - 3 PM
 - Friday, May 15th from 8 AM - 6 PM
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
