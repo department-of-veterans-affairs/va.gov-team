@@ -92,6 +92,27 @@ In the non-modernized data, we can see that My VA is more popular than we though
 
 **Recommendation**: Continue with plan to personalize the logged-in homepage. Also continue with plan to retire My VA, since the homepage still gets siginificantly more traction.
 
+### People start on the homepage, the claim status tool, and the facility locator.
+
+Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **(~22MM sessions)**, and eBenefits **(~20MM sessions)** homepages are peoples' main entrance points. In terms of tools, we can see in the modernized VA.gov site data that the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** are popular entry points
+
+[Top landing pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+[Top landing pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
+
+**Recommendation**: [Is there a recommendation]
+
+### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
+
+- **"Benefits" (153,244)** and **"health" (58,827)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
+- **"Forms" (24,197)** is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like **"direct deposit" (12,723)**, **"cemetery" (9,726)**, and **"certificate of eligibility" (8,154)** are high on the list, which suggests that we may need to elevate these tools more.
+- **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
+
+[Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
+
+**Recommendation**: Create more direct access to direct deposit, DD214, burial, and COE info in the logged in experience, whether that is from the homepage or further elevating these items in a logged in navigation.
+
 ## Logged-in vs. logged-out: Why do people come to the site? What do they do here?
 
 **Note**: When looking at data by logged-in vs. logged-out users, we are only able to use modernized VA.gov site data. Our analytics are not able to track whether users log in via MyHealtheVet or eBenefits, so we can not tell whether actions taken on those sites are taken from a logged-in or logged-out state.
@@ -119,27 +140,6 @@ Additionally, while we can't see a breakdown of what logged-in users do in the n
 [Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
 **Recommendation**: Create a tool/task-focused navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
-
-### People start on the homepage, the claim status tool, and the facility locator.
-
-This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
-
-The **homepage (~25MM)** was the most popular by orders of magnitude, with the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
-
-[Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
-
-**Recommendation**: [Is there a recommendation]
-
-### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
-
-- **"Benefits" (153,244)** and **"health" (58,827)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
-- **"Forms" (24,197)** is also high on the list, which suggests people want a full list of VA forms.
-- Benefits-related terms like **"direct deposit" (12,723)**, **"cemetery" (9,726)**, and **"certificate of eligibility" (8,154)** are high on the list, which suggests that we may need to elevate these tools more.
-- **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
-
-[Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
-
-**Recommendation**: Create more direct access to direct deposit, DD214, burial, and COE info in the logged in experience, whether that is from the homepage or further elevating these items in a logged in navigation.
 
 ## The homepage and My VA 
 
