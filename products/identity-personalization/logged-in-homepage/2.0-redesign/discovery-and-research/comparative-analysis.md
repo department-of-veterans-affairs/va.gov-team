@@ -45,7 +45,7 @@ USAA and Fidelity also had options to customize the view, which further signifie
 
 Most sites also welcomed the user with a large greeting that includes their name. Oftentimes, the user's name is also used as a link in the navigation to access their profile. On many sites, the words "My" and "Your" were used to label sections and contributed to a sense of personalization.
 
-Takeaways 
+**Takeaways** 
 
 -   A logged-in homepage clearly signifies personalization when it reflects what is known about the user and little else.  
 
@@ -79,7 +79,7 @@ I observed a common page structure of:
 
 -   Most sites did not include any kind of personal or profile information on the logged-in homepage itself.
 
-Takeaways
+**Takeaways**
 
 -   The prevalence of the pattern described above suggests that it is a successful model in the private sector we can leverage for VA.gov.  
 
@@ -97,7 +97,7 @@ Some sites styled links to look like buttons, which was most effective when ther
 
 There were a couple of sites that used widgets where the user could complete a task right on the page or triggered a modal with a text link to complete an action.  Those felt unnecessarily complicated and cluttered compared to the simpler approach. An exception to this was Chase, which opened a panel upon clicking "pay card".  I liked this compared to other approaches because the darkening/blurring of the background, and the size of the panel helped draw focus to the action.
 
-Takeaways
+**Takeaways**
 
 -   Text links are a common and effective way for users to complete tasks from a logged-in homepage; styling the link as a button can help draw the users attention to the primary action.  
 
@@ -117,7 +117,7 @@ When they were available, there was a clear distinction between alerts and notif
 
 - Some sites used a message center for notifications, which felt like overkill considering the content. "A statement is available." "Your payment has cleared".
 
-Takeaways 
+**Takeaways** 
 
 -   There should be a clear distinction between important alerts and less important  notifications.  
 
@@ -133,7 +133,7 @@ State Farm allowed users to toggle between the overall site nav and the authenti
 
 Geico's navigation was minimal, and utterly confusing.  Navigating away from the dashboard to almost any part of the site revealed a different navigation pattern, and the user was prompted to log in again repeatedly.
 
-Takeaways  
+**Takeaways**  
 
 -   Users will expect to see some authenticated items incorporated into the main navigation after logging in. 
 
