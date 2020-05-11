@@ -20,7 +20,7 @@ Our incredible analytics team pulled a ton of data for us. All data referenced i
 <details>
   <summary><b>Modernized site data (2018 VA.gov only)</b></summary>
 
-Report Name | Desktop/Tablet/Mobile
+Report Name | Desktop/Tablet/Mobile data
 :--- | :---: |
 Top Pages on VA.<span></span>gov Modernized | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/) | 
 Top 25 Pages - Logged-in Sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
@@ -40,9 +40,9 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 <details>
   <summary><b>Non-modernized site data (includes MHV, eBenefits, and other va.gov subdomains)</b></summary>
 
-|Name|Report
+|Report name|Desktop/Tablet/Mobile data|
 |---|---|
-|Top 25pages|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)|
+|Top 25 pages|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)|
 |Top landing pages|[report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)|
 |Top site search|[report](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=/)|
 |Homepage - Top pages before home|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&_r.drilldown=analytics.pagePath:www.va.gov~2F/)|
