@@ -5,7 +5,10 @@
 * What level of granularity is required for the program name & CIP Code?
   * What are other ways that we could request the CIP code from the user that would capture what Buffalo needs?   
 * How does the Buffalo team anticipate understanding what school the student is attending for the new program? 
+
+### When do you plan to start your training? 
 * The question "When do you plan to start your training?" appears on the form.  Is this asking when the student first began their STEM program, when their next semester begins or another question altogether?
+* Could you receive STEM retroactively for classes you're already taking?  (Does the field need to allow for dates in the past?)
  
 
 ### Credit Hours
