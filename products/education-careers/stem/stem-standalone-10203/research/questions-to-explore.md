@@ -1,7 +1,7 @@
 # Questions to explore with VA stakeholders
 
 
-* What information about the program does the team in Buffalo need to research the application? 
+* What information about the STEM program does the team in Buffalo need to research the application? 
 * What level of granularity is required for the program name & CIP Code?
   * What are other ways that we could request the CIP code from the user that would capture what Buffalo needs?   
 * How does the Buffalo team anticipate understanding what school the student is attending for the new program? 
