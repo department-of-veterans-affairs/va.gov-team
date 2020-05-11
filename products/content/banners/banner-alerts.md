@@ -4,16 +4,57 @@ This product folder captures the latest iterations, decisions, and implementatio
 
 This work captures 3 types of full-width banners that can appear at the top of the page. This work does not cover the promo announcement component that appears at the bottom of the viewport. 
 
+## Decisions and status per May 9, 2020, call
+
+__Change: There will be one style of full-width banner component, rather than having 2 variations. Instead of having 2 kinds of behavior (dismissable vs. show less/more), it will always be configurable to be dismissable.__
+
+__Not changed:__ Rubric for display hierarchy is still a) Emergency banner, b) Sitewide downtime banner, c) Veteran action needed banner
+
+
+__1. Emergency banner__
+
+- Ability to publish: OPIA, DEPO, VISNs, and VAMCs.
+- OPIA can publish on VA.gov homepage.
+- DEPO needs ability to publish sitewide or on specific nodes, including VAMC products and/or homepage. (The homepage is not a node.)
+- VISNs can publish across all VAMC pages.
+- VAMCs can publish on their VAMC pages only. 
+- Yellow.
+- 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session. 
+
+__2. Sitewide system maintenance downtime banner__ 
+
+- Ability to publish: DEPO.
+- Sitewide, including VAMC products. 
+- 2 states: In advance of downtime; and during downtime. 
+- Yellow for advance; red for during.
+- 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
+- Must configure schedule and expiration: for in-advance messaging start and end; during message start and end -- dates and times.
+- Standardized text with customizable dates and times. 
+
+__3. Veteran action needed banner__ 
+
+- Ability to publish: DEPO.
+- Ability to configure for sitewide or specific nodes, including VAMC products and/or homepage. 
+- Yellow
+- 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
+- Must configure expiration date and time. 
+
+__4. Product for alerts to enable governance within the CMS__
+
+ - DEPO and VISNs must have the ability to see what other products are currently displaying a banner alert.
+ - @DAVE - this is where we need you to summarize your alert dashboard product idea.
+
+
 ## Rubric for prioritization (display hierarchy)
 This hierarchy applies when more than one of these types of events occur simultaneously. We know this weighting may not always feel right, but believe this should cover 80% of cases, and we want to get out of using subjective judgement one case at a time, every time. 
 
 There can be only a maximum of 1 type each - this means sometimes, there might be up to 3 banners at the top of the page - always in this order of display:
 
 1/ Emergency banner (always first - these do not have a specific expiration date)
-2/ System maintanence banner (order by expiration date)
-3/ Veteran action needed (order by expiration date)
+2/ System maintanence banner ~(order by expiration date)~ 
+3/ Veteran action needed ~(order by expiration date)~
 
-The order of banners #2 and #3 should be configured to display based on expiration date. The message with the earliest expiry should appear above the other. 
+The order of banners #2 and #3 should be configured to display based on expiration date. ~The message with the earliest expiry should appear above the other.~ 
 
 ## Emergency banner alert: https://design.va.gov/components/alertboxes#full-width-alerts
 
