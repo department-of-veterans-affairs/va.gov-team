@@ -278,3 +278,4 @@ Old VAOS Tool: https://veteran.mobile.va.gov/var/v4/
 
 #### After
 New VAOS Tool: https://www.va.gov/health-care/schedule-view-va-appointments/appointments
+![New VAOS Tool Homepage](/products/health-care/appointments/va-online-scheduling/product/images/new-vaos-homepage.png)
