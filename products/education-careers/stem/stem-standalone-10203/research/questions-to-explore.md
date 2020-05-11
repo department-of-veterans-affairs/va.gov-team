@@ -6,4 +6,4 @@
 * How does the Buffalo team anticipate understanding what school the student is attending for the new program? 
 * Are the credit hour requirements also applicable to those pursuing a teaching certification?
 * The question "When do you plan to start your training?" appears on the form.  Is this asking when the student first began their STEM program, when their next semester begins or another question altogether?
-
+* For credit hours, are these hours the total number of hours a student has, or just the ones that apply to the degree they are pursuing?
