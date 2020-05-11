@@ -13,7 +13,7 @@ Our primary research questions are:
 
 Hypothesis:
 
-The screener tool will allow users to quickly self-triage and get a PASS/SCREEN result, however the usefulness of this result will be unclear.
+TBD
 
 
 ## Method	
