@@ -6,7 +6,7 @@ As part of the [logged-in homepage discovery effort](https://github.com/departme
 
 ## Goals
 
-Analytics are an especially good way of seeing what people are doing. They can't tell us why, but they can tell us what. The data that was pulled for us was especially good at giving us insight into the following:
+Analytics are an especially good way of seeing what people are doing. They can't tell us "why," but they can tell us "what." The data we looked at was especially good at giving us insight into the following:
 
 - Why do people come to VA.gov? What people do they do here?
 - Who's using the homepage? Who's using My VA?
