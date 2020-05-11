@@ -14,25 +14,23 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [Bank of America](#bank-of-america)
 
-- Chase
+- [Chase](#chase)
 
-- Fidelity Investments
+- [Fidelity](#fidelity) 
 
-- Fidelity NetBenefits
+- [Schwab](#schwab)
 
-- Schwab
+- [Geico](#geico)
 
-- Geico
+- [State Farm](#state-farm)
 
-- State Farm
+- [USAA](#USAA)
 
-- USAA
+- [Quality Payment Program (QPP)](#quality-payment-program-qpp)
 
-- Quality Payment Program (QPP)
+- [Delta](#delta)
 
-- Delta
-
-- Google
+- [Google](#google)
 
 Goals & Takeaways
 -----------------
