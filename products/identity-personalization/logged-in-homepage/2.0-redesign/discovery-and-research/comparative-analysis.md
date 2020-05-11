@@ -173,7 +173,7 @@ Chase took a unique approach to a few things:
 
 -   They provide an overall snapshot of the card at the top of the page, with clear actions (likely the most common) at the bottom of the container.
 
--   The "pay card" link in that summery triggered a panel that slides in to pay. This felt more effective than BofA's approach because it gave me more visual breathing room and it's styling largely eliminated the distraction of content behind the panel.
+-   The "pay card" link in that summary triggered a panel that slides in to pay. This felt more effective than BofA's approach because it gave me more visual breathing room and it's styling largely eliminated the distraction of content behind the panel.
 
 -   Their overall navigation is a hamburger nav, so it doesn't have to change drastically once logged in. Navigation consistency helps users feel rooted, and there is plenty of room to add authenticated nav items without feeling too cluttered.
 
