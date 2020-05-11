@@ -61,7 +61,7 @@ No navigational links will be added to these pages, users will access these page
 
 **User Flows:**  
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/ec5630d9-5c71-4ebb-90ab-466cee1d5c8c)
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/5b75f40f-84ab-4933-96e9-4a00b5952b79)
 
 - External search results can/will include a direct link to the online form (preferred), a link to the How to Apply page, a link to the form detail page, a direct link to the pdf (least preferred).
 - VA.gov search results can/will include a direct link to the online form (preferred), a link to the How to Apply page, a link to the form detail page, a direct link to the pdf (least preferred).
