@@ -32,7 +32,7 @@ My VA Entrances | [report](https://analytics.google.com/analytics/web/#/report/c
 Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/) | table.rowCount=25&_.useg=builtin11/)
 | Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
 
-## Why do people come to the site? What do they do here?
+## Overall: Why do people come to the site? What do they do here?
 
 ### What people do depends on what data you're looking at. We see different behavior patterns when we look at the "modernized" vs. "non-modernized" data.
 
@@ -42,132 +42,51 @@ Fortunately, we have access to analytics for anything that falls under the VA.go
 
 Whether we are looking at data by pageviews **(~60MM)** or popular landing pages **(~5.4MM sessions)**, the claim status tool is the most popular tool on the modernized VA.gov. Information on how to apply for disability benefits **(~2.6MM pageviews)** and the disability hub **(~1.7MM pageviews)** are also popular.
 
+[Top 25 pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
+
 **Recommendation**: Emphasize the disability and claim products in the logged in experience, as this is a major reason people come to VA.gov.
 
-### On the modernized site (va.gov), content and tools related to the GI bill, facility locator, prescriptions, records, and VIC rounded out the top 25 pages.
+### In the non-modernized data (VA.gov plus MHV, eBenefits, etc), we can see just how important health care management is to the veteran population.
 
-**Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. People also wanted to **view payment history (~2.4MM)** and **refill their prescriptions (~1.7MM)** even though these tools do not exist on VA.gov.
+When looking at all of VA's main web properties, we can see that in addition to using the claim status tool, most people come to VA's online tools to manage their health care. MyHealtheVet's homepage got **~145MM** pageviews in the last year, vs. VA.gov's homepage, which got **~23MM**. On MHV, veterans are most interested in **messaging their medical teams (~56MM pageviews)**, **refilling prescriptions (~47MM pageviews)**, and **viewing labs and tests (~25MM pageviews)**.
 
-On the modernized site, we only saw one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
+[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/)
 
-Going by pageview, **My VA (~6.8MM)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
+**Recommendation**: Put health care tools front and center on the new logged-in homepage.
 
-[Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
+### In both the non-modernized and modernized data, we can see that people care about find a VA location, getting records, and applying for education benefits.
 
-<details>
-  <summary><b>Top 25 pages: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~)**, various interactions to download personal records **(Blue button ~; MHV's "Download My Data" too ~)**, and information on **applying for education benefits (~)**.
 
-  | Page title | Page| Pageviews |
-|-----|------|------|
-| 1. Homepage | /index\.html | 48,794,621  |
-| 2. ??  | \(other\) | 37,220,258  |
-| 3. Claim status tool (logged out content page) | /claim\-or\-appeal\-status/index\.html | 26,328,147  |
-| 4. Old facility locator URL from vets.gov| /facilities/index\.html?XXX | 24,971,596  |
-| 5. Claim status tool (logged in)| /track\-claims/your\-claims/| 24,426,252  |
-| 6. Sign in: DS Logon| /auth/login/callback?type=dslogon  | 11,439,993  |
-| 7. Claim status tool| /track\-claims/index\.html | 10,342,922  |
-| 8. Search | /search/index\.html | 5,441,027   |
-| 9. My VA | /my\-va/index\.html| 4,647,413   |
-| 10. Sign in: ID.me | /auth/login/callback?type=idme | 4,167,709   |
-| 11. Sign in: MHV| /auth/login/callback?type=mhv| 3,642,767   |
-| 12. Facility locator| /find\-locations/index\.html| 3,624,995   |
-| 13. Post-9/11 GI Bill Statement of Benefits content page| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/| 3,369,881|
-| 14. How to apply for the GI Bill and related benefits content page| /education/how\-to\-apply/index\.html| 2,836,891 |
-| 15. How to file a VA disability claim content page | /disability/how\-to\-file\-claim/index\.html| 2,583,794   |
-| 16. View your VA payment history content page | /va\-payment\-history/index\.html  | 2,351,679   |
-| 17. My VA dashboard| /my\-va/| 2,168,777|
-| 18. Download VA benefit letters content page | /records/download\-va\-letters/index\.html| 1,965,634   |
-| 19. VA.gov profile | /profile/index\.html | 1,920,045   |
-| 20. ??? | /index\.html?next=/my\-va | 1,762,813   |
-| 21. How to apply for a Veteran ID Card content page| /records/get\-veteran\-id\-cards/vic/index\.html | 1,734,573   |
-| 22. VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html| 1,726,433   |
-| 23. Post 9/11 GI Bill Statement of Benefits| /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,704,997  |
-| 24. VA disability compensation hub page | /disability/index\.html| 1,669,521   |
-| 25. Types of Veteran ID cards content page | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
-|   | Total page views: | 351,784,722 |
+On the modernized VA.gov only, we see similar interests. **Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
 
-</details>
+**Recommendation**: Emphasize VA locations, personal records, and education benefits in the logged-in experience.
 
-**Recommendation**: Leverage this data when determining priority for links on the homepage. 
+### My VA is more popular than we expected
 
-### In the non-modernized data, we can see [conclusion].
+In the non-modernized data, we can see that My VA is more popular than we thought if we look at pageviews alone. This page makes it into the top 25 of all pages across VA web properties with about **~7.5MM views**. This may indicate an interest in seeing personalized benefit information.
 
-[Details]
+[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/)
 
-**Recommendation**: [Put recommendation here]. 
+**Recommendation**: Continue with plan to personalize the logged-in homepage. Also continue with plan to retire My VA, since the homepage still gets siginificantly more traction.
 
-### The data also tells different stories for logged out and logged in users. Logged out users are more interested in exploring/applying for benefits... 
+## Logged-in vs. logged-out: Why do people come to the site? What do they do here?
+
+### Logged-out users are more interested in exploring/applying for benefits.
 
 "Explore/apply" content is popular on VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. However, we saw that the focus on explore/apply skewed more towards logged out users when we looked at top pages broken down by logged in vs. logged out users.
 
-- [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
+[Top 25 pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
-<details>
-  <summary><b>Popular "explore/apply" content for all users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
-
-| Page title | Page| Pageviews |
-|-----|------|------|
-| How to apply for the GI Bill and related benefits content page| /education/how\-to\-apply/index\.html| 2,836,891 |
-| How to file a VA disability claim content page | /disability/how\-to\-file\-claim/index\.html| 2,583,794   |
-| How to apply for a Veteran ID Card content page| /records/get\-veteran\-id\-cards/vic/index\.html | 1,734,573   |
-| VA disability compensation hub page | /disability/index\.html| 1,669,521   |
-| Types of Veteran ID cards content page | /records/get\-veteran\-id\-cards/index\.html| 1,621,850   |
-
-</details>
-
-- [Top 25 Pages - Logged out sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
-
-<details>
-  <summary><b>Popular "explore/apply" for logged out users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
-
-| Page title   | Page  | Pageviews  |
-|----------|-------|----|
-| How to apply for the GI Bill and related benefits content page | /education/how\-to\-apply/index\.html| 1,599,227|
-| How to file a VA disability claim content page| /disability/how\-to\-file\-claim/index\.html | 1,368,858  |
-| GI Bill comparison tool | /gi\-bill\-comparison\-tool/  | 1,105,048  |
-| VA disability compensation hub page| /disability/index\.html| 1,066,396  |
-| How to apply for VA health care content page| /health\-care/how\-to\-apply/index\.html  | 1,030,906  |
-| GI Bill comparison tool results | /gi\-bill\-comparison\-tool/index\.html | 979,965    |
-| Request your military service records \(including DD214\) content page | /records/get\-military\-service\-records/index\.html| 969,554    |
-| How to apply for a Veteran ID Card content page | /records/get\-veteran\-id\-cards/index\.html| 823,157|
-| Careers and employment hub page | /careers\-employment/index\.html | 804,267|
-| Health care hub landing page | /health\-care/index\.html | 786,269    |
-| VIC application intro page | /records/get\-veteran\-id\-cards/vic/index\.html | 765,312    |
-| Family member benefit hub page | /family\-member\-benefits/index\.html| 740,490 |
-| Eligibility for VA health care content page | /health\-care/eligibility/index\.html | 722,121    |
-| Coronavirus FAQ| /coronavirus\-veteran\-frequently\-asked\-questions/index\.html | 707,904    |
-
-</details>
+[Top 25 pages on the modernized VA.gov only: Logged-out sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 **Recommendation**: Long term, work with the unauthenticated/global UX team to figure out how we can seamlessly transition users from a logged out to logged in experience when users may have different needs ranging from exploring to managing benefits.
 
-### ... whereas logged in users are more interested in checking the status of their benefits or accessing their records. 
+### Logged-in users are more interested in checking the status of their benefits or accessing their records. 
 
-For logged in users, we can see that tools and tasks were more likely to be the focus, with our typical cast of characters (claim status, GI Bill, VA benefit letters, prescriptions) all making it into the top 25.
+For logged-in users, we can see that tools and tasks were more likely to be the focus, with our typical cast of characters (claim status, GI Bill, VA benefit letters, prescriptions) all making it into the top 25.
 
-- [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
-
-<details>
-  <summary><b>Popular tasks/tools for logged in users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
-
-| Page title   | Page  | Pageviews  |
-|----------|-------|----|
-| Claim status tool   | /claim\-or\-appeal\-status/index\.html  | 21,921,531 |
-| Claim status tool| /track\-claims/index\.html | 9,794,262  |
-| My VA   | /my\-va/index\.html| 4,217,283  |
-| Post\-9/11 GI Bill Statement of Benefits content page | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/ | 2,498,933  |
-| Old facility locator URL from vets\.gov \(confirm\) | /facilities/index\.html?XXX | 2,358,882  |
-| Va\.gov profile | /profile/index\.html | 1,723,315  |
-| My VA | /my\-va/ | 1,606,595  |
-| Post 9/11 GI Bill Statement of Benefits | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,527,984|
-| Download VA benefit letters content page | /records/download\-va\-letters/index\.html |1,513,599  |
-| Download VA benefit letters: Prompt to confirm address | /records/download\-va\-letters/letters/confirm\-address/ | 1,288,342  |
-| VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html  |1,282,502  |
-| My VA| /index\.html?next=/my\-va| 1,178,048  |
-| Download VA benefit letters: List of letters | /records/download\-va\-letters/letters/letter\-list/| 1,059,008|
-| Claim status tool | /index\.html?next=/track\-claims/ | 1,034,058  |
-
-</details>
+[Top 25 pages on the modernized VA.gov only: Logged-in sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 **Recommendation**: Create a tool/task-focused navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
 
