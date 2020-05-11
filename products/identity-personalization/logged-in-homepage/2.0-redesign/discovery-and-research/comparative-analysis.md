@@ -1,4 +1,4 @@
-Logged-inHomepage Redesign: Comparative Analysis
+Logged-in Homepage Redesign: Comparative Analysis
 ================================================
 
 Background
