@@ -15,9 +15,7 @@ Analytics are an especially good way of seeing what people are doing. They can't
 
 ## Analytics
 
-Our incredible analytics team pulled a ton of data for us. 
-
-Unless otherwise noted, all data is for the last year: April 12, 2019 — April 12, 2020.
+Our incredible analytics team pulled a ton of data for us. All data referenced in this report is below. Unless otherwise noted, the timeline for each report is **April 12, 2019 — April 12, 2020**.
 
 <details>
   <summary><b>Modernized site data (2018 VA.gov only)</b></summary>
@@ -25,8 +23,8 @@ Unless otherwise noted, all data is for the last year: April 12, 2019 — April 
 Report Name | Desktop/Tablet/Mobile
 :--- | :---: |
 Top Pages on VA.<span></span>gov Modernized | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/) | 
-Top 25 Pages - Logged In Session | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
-Top 25 Pages - Not Logged In Sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
+Top 25 Pages - Logged-in Sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
+Top 25 Pages - Logged-out sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
 Top 25 Landing Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
 Site Search | [report](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/) | 
 Mobile Usage | | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-mobile-overview/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL/)
@@ -38,7 +36,6 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 | Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
 
 </details>
-
 
 <details>
   <summary><b>Non-modernized site data (includes MHV, eBenefits, and other va.gov subdomains)</b></summary>
@@ -56,7 +53,7 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 
 ### To get the full picture, we needed to look at both the "modernized" and "non-modernized" data.
 
-Fortunately, we have access to analytics for anything that falls under the VA.gov domain. Of course, this includes the "modernized" site our team redesigned in 2018 — anything that falls under www.va.gov — but this also includes data for MyHealtheVet (myhealth.va.gov), eBenefits (ebenefits.va.gov), and VBA's site (benefits.va.gov) because those sites all live as subdomains under VA.gov. We looked at both data sets to get the most full picture of veteran behavior.
+Data can be divided into two major buckets — the data for the “modernized” site, which is the new VA.gov that our team relaunched in 2018, and data for the “non-modernized” VA web properties, which includes MyHealtheVet (myhealth.va.gov), eBenefits (ebenefits.va.gov), VBA's site (benefits.va.gov) and any other subdomains under VA.gov. We looked at both data sets to get the fullest picture of user behavior.
 
 ### On the modernized site (va.gov), the claim status tool is king.
 
@@ -66,9 +63,9 @@ Whether we are looking at data by pageviews **(~60MM)** or popular landing pages
 
 **Recommendation**: Emphasize the disability and claim products in the logged in experience, as this is a major reason people come to VA.gov.
 
-### In the non-modernized data (VA.gov plus MHV, eBenefits, etc), we can see just how important health care management is to the veteran population.
+### In the non-modernized data (VA.gov plus MHV, eBenefits, etc.), we can see just how important health care management is to the veteran population.
 
-When looking at all of VA's main web properties, we can see that in addition to using the claim status tool, most people come to VA's online tools to manage their health care. MyHealtheVet's homepage got **~145MM** pageviews in the last year, vs. VA.gov's homepage, which got **~23MM**. On MHV, veterans are most interested in **messaging their medical teams (~56MM pageviews)**, **refilling prescriptions (~47MM pageviews)**, and **viewing labs and tests (~25MM pageviews)**.
+When looking at all of VA's main web properties, we can see that in addition to using the claim status tool, most people come to VA's online tools to manage their health care. MyHealtheVet's homepage got **~145MM** pageviews in the last year, vs. VA.gov's homepage, which got **~23MM**. On MyHealtheVet, veterans are most interested in **messaging their medical teams (~56MM pageviews)**, **refilling prescriptions (~47MM pageviews)**, and **viewing labs and tests (~25MM pageviews)**.
 
 [Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/)
 
@@ -76,7 +73,7 @@ When looking at all of VA's main web properties, we can see that in addition to 
 
 ### In both the non-modernized and modernized data, we can see that people care about finding a VA location, getting records, and applying for education benefits.
 
-In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~30MM)**, various interactions to download personal records **(Blue button ~12.5MM; MHV's "Download My Data" too ~8.8MM)**, and information on **applying for education benefits (~6.7MM)**.
+In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~30MM)**, various interactions to download personal records **(Blue button ~12.5MM; MHV's "Download My Data" tool ~8.8MM)**, and information on **applying for education benefits (~6.7MM)**.
 
 On the modernized VA.gov only, we see similar interest in the **facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
 
@@ -90,17 +87,17 @@ In the non-modernized data, we can see that My VA is more popular than we though
 
 [Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
-**Recommendation**: Continue with plan to personalize the logged-in homepage. Also continue with plan to retire My VA, since the homepage still gets siginificantly more traction.
+**Recommendation**: Continue with plan to personalize the logged-in homepage. Also continue with plan to retire My VA, since the homepage still gets significantly more traction.
 
 ### People start on the homepage, the claim status tool, and the facility locator.
 
-Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **(~22MM sessions)**, and eBenefits **(~20MM sessions)** homepages are peoples' main entrance points. In terms of tools, we can see in the modernized VA.gov site data that the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** are popular entry points
+Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **(~22MM sessions)**, and eBenefits **(~20MM sessions)** homepages are peoples' main entrance points.
+
+In terms of tools, we can see in the modernized VA.gov site data that the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** are popular entry points
 
 [Top landing pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 [Top landing pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
-
-**Recommendation**: [Is there a recommendation]
 
 ### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
 
@@ -113,11 +110,11 @@ On the modernized VA.gov:
 
 [Top search terms on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
 
-**Recommendation**: Create more direct access to direct deposit, DD214, burial, and COE info in the logged in experience, whether that is from the homepage or further elevating these items in a logged in navigation.
+**Recommendation**: Create more direct access to direct deposit, DD214, burial, and certificate of eligibility info in the logged-in experience, whether that is from the homepage or further elevating these items in a logged-in navigation.
 
 ## Logged-in vs. logged-out: Why do people come to the site? What do they do here?
 
-**Note**: When looking at data by logged-in vs. logged-out users, we are only able to use modernized VA.gov site data. Our analytics are not able to track whether users log in via MyHealtheVet or eBenefits, so we can not tell whether actions taken on those sites are taken from a logged-in or logged-out state.
+**Note**: When looking at data by logged-in vs. logged-out users, we are only able to use modernized VA.gov site data. Our analytics are not able to track whether users log in via MyHealtheVet or eBenefits, so we cannot tell whether actions taken on those sites are taken from a logged-in or logged-out state.
 
 ### Logged-out users are more interested in exploring/applying for benefits.
 
@@ -129,7 +126,7 @@ However, when we look at top pages by logged-in vs. logged-out users, we can see
 
 [Top 25 pages on the modernized VA.gov only: Logged-out sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
-**Recommendation**: Long term, work with the unauthenticated/global UX team to figure out how we can seamlessly transition users from a logged out to logged in experience when users may have different needs ranging from exploring to managing benefits.
+**Recommendation**: Long term, work with the unauthenticated/global UX team to figure out how we can seamlessly transition users from a logged-out to logged-in experience when users may have different needs ranging from exploring to managing benefits.
 
 ### Logged-in users are more interested in checking the status of their benefits or accessing their records. 
 
@@ -141,7 +138,7 @@ Additionally, while we can't see a breakdown of what logged-in users do in the n
 
 [Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
-**Recommendation**: Create a tool/task-focused navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
+**Recommendation**: Create a tool/task-based navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
 
 ## The homepage and My VA 
 
@@ -155,7 +152,7 @@ Of the modernized VA.gov's almost **8.7MM** users, about **49% (~4.3MM)** go to 
 
 **Recommendation**: Given significantly lower activity, continue with plan to retire My VA permanently.
 
-### People come back to the homepage through the sign in flow, and then through many of the site's most popular pages.
+### As mentioned above, many people come to the homepage directly. They also come to the homepage through the sign in flow, and then through many of the site's most popular pages.
 
 People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **view payment history (455,233)**, and **refill and track prescriptions (361,060)**.
 
@@ -163,7 +160,7 @@ People come to the homepage through the **sign in flow (~6MM combined through DS
 
 ### From the homepage, people primarily navigate into the tools displayed in the top 20 tasks. 
 
-As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable excpetions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
+As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable exceptions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
 
 This further shows the reliance on the top 20 tasks and suggests we should take extra care with how we handle these when creating a personalized logged-in homepage.
 
@@ -171,7 +168,7 @@ This further shows the reliance on the top 20 tasks and suggests we should take 
 
 **Recommendation**: For the logged-in homepage, take an iterative approach to changing the top tasks since people are so reliant on using these to navigate around.
 
-### People come to my VA via many of the same paths that lead them to the homepage, just in smaller numbers.
+### People come to My VA via many of the same paths that lead them to the homepage, just in smaller numbers.
 
 People come to My VA through **sign in (~600K)**, the **claim status tool (393,342)**, and **view payment history (75,162)** just like they do on the homepage. They just do so in a much smaller quantity.
 
@@ -185,10 +182,13 @@ Since you can't view My VA without being logged in, it's interesting that the mo
 
 [Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
 
+**Recommendation**: Redirect My VA URL to the homepage once we retire the page.
+
 ### Claims, VA letters, and profile information are all popular next steps from My VA.
 
-Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)** which was a unique interaction we didn't see from the homepage, likely because a link to the profile is featured prominently from the dashboard.
+Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)**.
 
 [Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
 
-**Recommendation**: Given overall popularity of these tools throughout the analytics, emphasize them on the logged-in homepage.
+**Recommendation**: Given overall popularity of these tools throughout the analytics, emphasize them on the logged-in homepage. 
+
