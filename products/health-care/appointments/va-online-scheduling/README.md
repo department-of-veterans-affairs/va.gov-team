@@ -42,7 +42,7 @@
 - [Solution Approach](#solution-approach)
     - [MVP](#mvp-implementation)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [OKRs](#okrs)
 
 # Implementation Information
 - [Status](#status)
