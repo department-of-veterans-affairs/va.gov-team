@@ -40,24 +40,26 @@ _(About 5 minutes)_
 
 I'll present you with some scenarios and ask you a few questions.
 
-- What can you tell me about this content in regards to revision and editorial workflow?
+- What can you tell me about this content in regards to revision and editorial workflow stage?
 - Can you tell me when changes were last made to this content and who made them?
-- When was this content last published?
+- When was this content last published and who published it?
 - Can you tell me who is currently responsible for working on this content?
+
+Before we move on, do you have any questions regarding what you saw?
 
 ## Main activities
 
 Now, I have some activities that I'd like you to do in the prototype. In each activity, you'll play the role of a fictional person and I'll let you know who you are each time. I ask you to let me know when you think you finished the activity.
 
-#### Activity 1: Designate content to be taken care of by a member of your team 
+#### Activity 1: Designate content to a member of your team 
 
 In this activity you'll be _Charlie_.
 
-Context: You're responsible for the Coronavirus FAQs page and there has been a change in your work priority. So now you need to designate your team mate Billie to keep working on this content. Using the resources in the prototype, how would you pass the content to Billie?
+Context: You're responsible for the Coronavirus FAQs page and you usually do peer revision with your team mate Billie. You just finished to adjust the content and want Billie to take a look at. Using the resources in the prototype, how would you pass the content for Billie?
 
 #### Activity 2: Give the content to someone else to work on
 
-In this activity you'll keep being _Charlie_.
+In this activity you're still _Charlie_.
 
 Context: After passing the content to Billie, you were told that they're not available to work on the Coronavirus FAQs page. In the prototype, please show me what action you would chose to pass the content to another person and why. 
 
@@ -69,7 +71,7 @@ You finished working on the Coronavirus FAQs page and want your manager Dylan to
 
 #### Activity 4: Send content to an external stakeholder for approval
 
-In this activity you'll keep being _Frankie_.
+In this activity you're still _Frankie_.
 
 Now that Dylan gave you a green light, how would you send the content for Tracey (external stakeholder) for a final approval?
 
