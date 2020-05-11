@@ -17,12 +17,15 @@ _Steve: "Since file number is a critical field for establishment of a claim, AND
 ------------
 ## Additional Pension Questions  
 `May 5, 2020`  
-**Some questions have come to light involving the.**  
-  
-_Note/ Guiding principle_
-- Action item
+**Some questions have come to light involving a Veterans Pension information.  These questions are:** 
+When adding dependent, ask an additional (optional) question: "Did this dependent have income in the last 365 days?"
 
-**TL;DR - what does this mean?  what do we do next?**
+Ask a global (optional) question: "Did the household have a total income of less than $XXX in the last tax year?"
+  
+_This should be handled with care and context so that financial questions are not off-putting to the Veteran_
+- Design the presetnation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
+
+**TL;DR - 2 new pension questions to be added.  Create a mockup for later implementation**
 
 ------------
 ## Issue Title  
