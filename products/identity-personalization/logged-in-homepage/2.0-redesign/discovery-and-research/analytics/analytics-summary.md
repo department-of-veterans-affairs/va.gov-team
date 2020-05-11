@@ -40,7 +40,13 @@ Fortunately, we have access to analytics for anything that falls under the VA.go
 
 ### On the modernized site (va.gov), the claim status tool is king.
 
-The **claim status tool (~60MM)** is our most popular tool. Other tools that made it into the top 25 include the **facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. People also wanted to **view payment history (~2.4MM)** and **refill their prescriptions (~1.7MM)** even though these tools do not exist on VA.gov.
+Whether we are looking at data by pageviews **(~60MM)** or popular landing pages **(~5.4MM sessions)**, the claim status tool is the most popular tool on the modernized VA.gov. Information on how to apply for disability benefits **(~2.6MM pageviews)** and the disability hub **(~1.7MM pageviews)** are also popular.
+
+**Recommendation**: Emphasize the disability and claim products in the logged in experience, as this is a major reason people come to VA.gov.
+
+### On the modernized site (va.gov), content and tools related to the GI bill, facility locator, prescriptions, records, and VIC rounded out the top 25 pages.
+
+**Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. People also wanted to **view payment history (~2.4MM)** and **refill their prescriptions (~1.7MM)** even though these tools do not exist on VA.gov.
 
 On the modernized site, we only saw one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
 
