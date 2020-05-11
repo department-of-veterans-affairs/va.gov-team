@@ -104,12 +104,14 @@ Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **
 
 ### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
 
+On the modernized VA.gov:
+
 - **"Benefits" (153,244)** and **"health" (58,827)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
 - **"Forms" (24,197)** is also high on the list, which suggests people want a full list of VA forms.
 - Benefits-related terms like **"direct deposit" (12,723)**, **"cemetery" (9,726)**, and **"certificate of eligibility" (8,154)** are high on the list, which suggests that we may need to elevate these tools more.
 - **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
 
-[Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
+[Top search terms on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
 
 **Recommendation**: Create more direct access to direct deposit, DD214, burial, and COE info in the logged in experience, whether that is from the homepage or further elevating these items in a logged in navigation.
 
@@ -180,6 +182,8 @@ People come to My VA through **sign in (~600K)**, the **claim status tool (393,3
 ### Login is the primary action taken from My VA.
 
 Since you can't view My VA without being logged in, it's interesting that the most popular action by far from My VA is to **log in (~5MM events)**. This may suggest that people are going directly to this page and signing in from here, potentially people who have bookmarked this page.
+
+[Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
 
 ### Claims, VA letters, and profile information are all popular next steps from My VA.
 
