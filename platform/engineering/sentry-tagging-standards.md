@@ -48,7 +48,8 @@ This document aims to standardize our use of these features for consistency and 
 
 The following tags are available and encouraged for use in your code.
 
-Generally it is advisable to provide warrants if adding a new tag not seen here in a given PR.
+If you add a new tag in a pull request, please make sure to explain the reason(s) for needing the new tag
+so that it is easier to approve the change.
 
 `feature`
   - Represents a specific, pre-defined feature. E.g., `pension_burial` or  `vic`
