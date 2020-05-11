@@ -4,20 +4,20 @@
   - [DSVA Team Slack - #vaos-team](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
   - [VA PPG Team Slack - #vaos-sm-toolset](https://app.slack.com/client/T6J0KKXPW/CFCQT5XJL), [#vaos-engineers](https://app.slack.com/client/T6J0KKXPW/CM5ENJZ6C)
 - [Zenhub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125)
-- VA.gov link: N/A [TODO: add once VAOS in production]
-- Demo video link: n/a [TODO: add once VAOS in production]
+- VA.gov link: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
+- Demo video link: [Need to update] Current link -- https://drive.google.com/drive/u/0/search?q=vaos%20demo
 - Product POCs:
   - VAOS Suite Business Owners:
     - Dr. Kathleen Frisbee (Kathleen.Frisbee@va.gov)
     - Dr. Neil Evans (Neil.Evans@va.gov)
     - Dr. Clinton Greenstone (Clinton.Greenstone@va.gov)
     - Dr. Michael Davies (Michael.Davies@va.gov)
-  - VAOS Suite Product Owner: Steve Eaton (steve.eaton@va.gov)
-  - VAOS Suite Program Manager: Eric Hopkins (eric.hopkins@va.gov)
-  - VAOS Suite Project Manager: Judy Mercado (judy.mercado@va.gov)
+  - Mobile Portfolio Manager: Steve Eaton (steve.eaton@va.gov)
+  - VAOS Suite Project Manager: Eric Hopkins (eric.hopkins@va.gov)
+  - VAOS Suite Analyst/Scrum Master: Judy Mercado (judy.mercado@va.gov)
   - VA.gov Health Product Owner: Lauren Alexanderson (lauren.alexanderson@va.gov)
   - Lead Designer: Ryan Thurlwell (ryan.thurlwell@va.gov)
-  - Eng Lead: Stephen Barrs (stephen.barrs@va.gov)
+  - Eng Lead: Stephen Brush (steven.brush@va.gov)
   - Frontend Engineers:
     - Jeff Balboni (jeff@adhocteam.us)
     - Narin Ratana (narin@adhocteam.us)
@@ -26,8 +26,8 @@
   - BE Engineers:
     - Kam Karshenas (kam@adhocteam.us)
     - Alastair Dawson (alastair@adhocteam.us)
-    - Steven Brush (steven.brush@va.gov
-  - Product Manager: Mark Greenburg (mark.greenburg@adhocteam.us / mark.greenburg@va.gov)
+    - AJ Magbud (Ahmed.Magdub@va.gov)
+  - Product Manager: Lenae Storey (lenae.storey@adhocteam.us)
 
 ---
 
