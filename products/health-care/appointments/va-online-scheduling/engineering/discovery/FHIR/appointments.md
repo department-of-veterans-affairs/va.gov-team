@@ -15,13 +15,11 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 ### Data to FHIR model mapping
 
 - Type of care (Appointment.type)
-- Type (Appointment.status)
-   - Request
-   - Appointment
 - Status (Appointment.status)
    - Confirmed
    - Pending
    - Cancelled
+   - Proposed (appt requests)
 - Method (**derived from Appointment.participant?**)
    - Community Care
    - VA facility
@@ -38,8 +36,8 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Appointment date and time (Appointment.start, Appointment.end, or Appointment.slot)
    - Timezone of facility
    - Both requested times and confirmed times
-- User provided detail (**Appointment.comment?**)
-- Appointment context (Appointment.reason)
+- User provided detail (Appointment.comment)
+- Appointment context (requests) (**Appointment.reason**)
    - Routine
    - Medication concern
    - New issue
@@ -65,7 +63,8 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
 - Location data not necessarily included inline
 
 ## Outstanding questions
-- Does the current booking notes field map to comments? Or some other field?
+- What is the mapping from VistA statuses to FHIR statuses?
+
 
 ### Answered questions
 
@@ -79,3 +78,5 @@ Appointment: http://hl7.org/fhir/dstu2/appointment.html
    - Request flow is unknown currently
 - Would we also need to fetch a Patient reference for contact info?
    - Request system/flow is unknown, so we don't know where contact info is coming from
+- Does the current booking notes field map to comments? Or some other field?
+   - Comments
