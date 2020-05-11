@@ -80,21 +80,27 @@ In the non-modernized data, we see huge numbers of pageviews for the **finding a
 
 On the modernized VA.gov only, we see similar interests. **Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
 
+[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
+
 **Recommendation**: Emphasize VA locations, personal records, and education benefits in the logged-in experience.
 
 ### My VA is more popular than we expected
 
 In the non-modernized data, we can see that My VA is more popular than we thought if we look at pageviews alone. This page makes it into the top 25 of all pages across VA web properties with about **~7.5MM views**. This may indicate an interest in seeing personalized benefit information.
 
-[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/)
+[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
 **Recommendation**: Continue with plan to personalize the logged-in homepage. Also continue with plan to retire My VA, since the homepage still gets siginificantly more traction.
 
 ## Logged-in vs. logged-out: Why do people come to the site? What do they do here?
 
+Note: For looking at pageviews by logged-in vs. logged-out users, we were only able to use the reports that looked at data for the modernized VA.gov. Because of how we track data, we can only see if someone logs in on VA.gov and then travels to MyHealtheVet or eBenefits. We can not detect if someone logs in direct on MyHealtheVet or eBenefits.
+
 ### Logged-out users are more interested in exploring/applying for benefits.
 
-"Explore/apply" content is popular on VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. However, we saw that the focus on explore/apply skewed more towards logged out users when we looked at top pages broken down by logged in vs. logged out users.
+"Explore/apply" content is popular on the modernized VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. 
+
+However, when we look at top pages by logged-in vs. logged-out users, we can see that there are many more "explore/apply" pages in the top 25 results for logged-out users **(12 pages)** than logged-in users **(3 pages)**. For logged-out users, **how to apply for GI bill benefits (~1.6MM pageviews)**, **how to file a disability claim (~1.1MM pageviews)**, and **how to apply for health care (~1MM pageviews)** were the most popular "explore/apply" pages.
 
 [Top 25 pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
@@ -104,9 +110,13 @@ In the non-modernized data, we can see that My VA is more popular than we though
 
 ### Logged-in users are more interested in checking the status of their benefits or accessing their records. 
 
-For logged-in users, we can see that tools and tasks were more likely to be the focus, with our typical cast of characters (claim status, GI Bill, VA benefit letters, prescriptions) all making it into the top 25.
+For logged-in users on the modernized VA.gov, there were **(7 tools)** in the top 25 pages and only **(3 "explore/apply)** pages. The **claim status tool (~31MM pageviews)**, **GI Bill statement of benefits (~4MM pageviews)**, **download you VA benefit letters (~3.8MM)**, **the facility locator (~2.4MM)**, and **refill and track prescriptions (~1.3MM)** all made it into the top 25.
+
+Additionally, while we can't see a breakdown of what logged-in users do in the non-modernized site data, we know that all of the tools on MyHealtheVet require people to be logged in to use them. Therefore, we can extrapolate that the most popular tools besides the claim status tool are the health care tools, with **secure messages (~56MM pageviews)**, **prescriptions refills (~47MM pageviews)**, and **labs and tests (~25MM pageviews)** receiving the most use.
 
 [Top 25 pages on the modernized VA.gov only: Logged-in sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+[Top pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)
 
 **Recommendation**: Create a tool/task-focused navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
 
