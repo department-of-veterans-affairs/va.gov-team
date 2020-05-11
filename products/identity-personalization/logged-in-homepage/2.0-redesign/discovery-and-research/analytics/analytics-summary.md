@@ -56,7 +56,7 @@ When looking at all of VA's main web properties, we can see that in addition to 
 
 ### In both the non-modernized and modernized data, we can see that people care about find a VA location, getting records, and applying for education benefits.
 
-In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~)**, various interactions to download personal records **(Blue button ~; MHV's "Download My Data" too ~)**, and information on **applying for education benefits (~)**.
+In the non-modernized data, we see huge numbers of pageviews for the **finding a VA location (~30MM)**, various interactions to download personal records **(Blue button ~12.5MM; MHV's "Download My Data" too ~8.8MM)**, and information on **applying for education benefits (~6.7MM)**.
 
 On the modernized VA.gov only, we see similar interests. **Facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. 
 
