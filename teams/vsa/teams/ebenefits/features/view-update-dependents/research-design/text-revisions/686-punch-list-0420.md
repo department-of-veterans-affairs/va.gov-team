@@ -8,7 +8,7 @@
 ```diff
 - Update this list immediately upon completion
 ```
-🤷‍needs clarification
+- 🤷‍ needs clarification  
 Screens proofed in staging.VA.gov the week of April 13, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Throughout
