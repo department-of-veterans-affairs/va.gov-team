@@ -8,7 +8,7 @@ Thank you for joining us today! My name is Jordana, and I'm a designer and resea
 
 Before we start, a few things I want to mention:
 
-* This entire session should take about 45 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+* This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
 * In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve the new CMS to better meet your needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
@@ -36,48 +36,50 @@ _(About 5 minutes)_
 [If no] Ok, it's always fun to try something new. Thanks for be willing to participate in this study!
 
 
-## Main Tasks
+## Main Activities
 
-#### Task 1: Designate content to be taken care of by a member of your team 
+Now, I have some activities that I'd like you to do in the prototype. In each activity, you'll play the role of a fictional person and I'll let you know who you are each time. I ask you to let me know when you think you finished the activity.
 
-Let's say you're working on the Coronavirus FAQ content, but there has been a change in your work priority and you need your team mate Quinn to update the page content. Using the prototype, how would you pass the content to Quinn?
+#### Activity 1: Designate content to be taken care of by a member of your team 
 
-#### Task 2: Now give the content to someone else to work on
+In this activity you'll be _Charlie_.
 
-After passing the content to Quinn, you suddenly realized that Quinn had gone on vacation. Point out in the prototype what action you would use to pass the content to another person and why. 
+Context: You're responsible for the Coronavirus FAQs page and there has been a change in your work priority. So now you need to designate your team mate Billie to keep working on this content. Using the resources in the prototype, how would you pass the content to Billie?
 
-#### Task 3: Designate someone to take a look at a piece of content for approval
+#### Activity 2: Give the content to someone else to work on
 
-You finished working on the Coronavirus FAQ and want your supervisor Jordan to give a thumbs up before you send the final version to a stakeholder. Using the prototype, how would you request Jordan's opinion.
+In this activity you'll keep being _Charlie_.
 
-#### Task 4: Send content to an external stakeholder for approval
+Context: After passing the content to Billie, you were told that they're not available to work on the Coronavirus FAQs page. In the prototype, please show me what action you would chose to pass the content to another person and why. 
 
-Now that Jordan gave you a green light, how would you send the content for Tracey (the stakeholder)?
+#### Activity 3: Designate someone to take a look at a piece of content for approval
 
-#### Task 5: Request adjustments to a piece of content that’s in review
+In this activity you'll be _Frankie_.
 
-Let's say you are responsible for reviewing content before it gets submitted to stakeholders. Looking at the Coronavirus FAQ page you realized that the number of cases per state didn't get fixed and is still wrong. Using the prototype, how would you point that out to you and request the necessary changes?
+You finished working on the Coronavirus FAQs page and want your manager Dylan to review it before you send the final version to a stakeholder. Using the prototype, how would you request Dylan's opinion?
 
-#### Task 6: Check on where content is in the editorial process
+#### Activity 4: Send content to an external stakeholder for approval
 
-_Present the prototype for this task_
+In this activity you'll keep being _Frankie_.
 
-#### Task 7: Check when changes were last made to content and who made the change
+Now that Dylan gave you a green light, how would you send the content for Tracey (external stakeholder) for a final approval?
 
-_Present the prototype for this task_
 
-#### Task 8: Check who is responsible for working on this content
+#### Activity 5: Request adjustments to a piece of content that’s in review
 
-_Present the prototype for this task_
+In this activity you'll be _Jackie_.
 
-#### Task 9: Check to see when the content was last published
+As Jackie, you're responsible for reviewing content from your colleagues. So now you're reviewing the Coronavirus FAQs page that Aiden sent to you and you realized that there's a typo on the page title. Using the prototype, how would you point that out to Aiden and request the necessary changes?
 
-_Present the prototype for this task_
+#### Activity 6: Check on where content is in the editorial process
 
-#### Task 10: Set content as ready to go live on VA.gov
+Now I'll present you some scenarios and ask you some questions.
 
-_Present the prototype for this task_
-
+- Can you tell me where the state of the content and where it is in the editorial process?
+- Can you tell me when changes were last made to the content and who made them?
+- When was this content last published?
+- Can you tell me who is currently responsible for working on this content?
+- Can you set the content as ready to go live on VA.gov?
 
 ## Additional Questions
 
