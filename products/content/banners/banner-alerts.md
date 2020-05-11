@@ -35,7 +35,7 @@ __3. Veteran action needed banner__
 
 - Ability to publish: DEPO.
 - Ability to configure for sitewide or specific nodes, including VAMC products and/or homepage. 
-- Yellow
+- Yellow [@RYAN - do you recommend this one always be yellow or always blue (per original recommendation below)? ] 
 - 300 character count limit including spaces; allow links; needs to be configurable as dismissable per cookie or per session.
 - Must configure expiration date and time. 
 
@@ -51,10 +51,13 @@ This hierarchy applies when more than one of these types of events occur simulta
 There can be only a maximum of 1 type each - this means sometimes, there might be up to 3 banners at the top of the page - always in this order of display:
 
 1/ Emergency banner (always first - these do not have a specific expiration date)
+
 2/ System maintanence banner ~(order by expiration date)~ 
+
 3/ Veteran action needed ~(order by expiration date)~
 
-The order of banners #2 and #3 should be configured to display based on expiration date. ~The message with the earliest expiry should appear above the other.~ 
+
+~The order of banners #2 and #3 should be configured to display based on expiration date. The message with the earliest expiry should appear above the other.~ 
 
 ## Emergency banner alert: https://design.va.gov/components/alertboxes#full-width-alerts
 
@@ -79,10 +82,10 @@ __Design notes:__
 1. The icon runs inline with the type to help utilize space
 2. No more header type treatment, simply bold type, separated by an em dash
 3. On mobile, the blue banner is half the height it is on desktop
-4. It is persistent (non-dismissible)
-5. It can expand/collapse 
-6. The default state on page load is expanded
-7. It pushes all content below it downward on the page (it does not overlay)
+~4. It is persistent (non-dismissible)~
+~5. It can expand/collapse~
+~6. The default state on page load is expanded~
+~7. It pushes all content below it downward on the page (it does not overlay)~
 
 ## Important action-needed, Veteran-facing alert banner
 
@@ -99,16 +102,16 @@ __Note 2:__ At DEPO discretion, the same banner message can be published on lowe
 __Note 3:__ DEPO global ux content admin should have the ability to publish this type of banner via the CMS, on all or specific nodes, including the homepage. [TBD/TBC Drupal permissions capability]
 
 - The header text for this type of banner should be customizable with a limit of 50 characters with spaces.
-- The body text will be customizable with a limit of 200 characters with spaces.
+- The body text will be customizable with a limit of ~200~ 300 characters with spaces.
 - This message banner should be configurable with an expiration date.
 - Message must have a specifiec expiration date and must disappear automatically on expiry. 
 
 __Design notes:__
 1. The icon runs inline with the type to help utilize space
 2. No more header type treatment, simply bold type, separated by an em dash
-3. On mobile, the blue banner is half the height it is on desktop
-4. It is persistent (non-dismissible)
-5. It can expand/collapse 
-6. The default state on page load is expanded
-7. It pushes all content below it downward on the page (it does not overlay)
+3. On mobile, the ~blue~ yellow banner is half the height it is on desktop
+~4. It is persistent (non-dismissible)~
+~5. It can expand/collapse~ 
+~6. The default state on page load is expanded~
+~7. It pushes all content below it downward on the page (it does not overlay)~
 
