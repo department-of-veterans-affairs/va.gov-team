@@ -23,6 +23,7 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+
 ------------
 ## Issue Title  
 `Date decided`  
