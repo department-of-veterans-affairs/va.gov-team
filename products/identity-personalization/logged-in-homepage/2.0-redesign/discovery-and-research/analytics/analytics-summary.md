@@ -15,7 +15,12 @@ Analytics are an especially good way of seeing what people are doing. They can't
 
 ## Analytics
 
-Our incredible analytics team pulled a ton of data for us. Here are the links to the reports referenced in this document:
+Our incredible analytics team pulled a ton of data for us. 
+
+Unless otherwise noted, all data is for the last year: April 12, 2019 — April 12, 2020.
+
+<details>
+  <summary><b>Modernized site data (2018 VA.gov only)</b></summary>
 
 Report Name | Desktop/Tablet/Mobile
 :--- | :---: |
@@ -31,6 +36,21 @@ My VA Previous Page Path | [report](https://analytics.google.com/analytics/web/#
 My VA Entrances | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D/) | 
 Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/) | table.rowCount=25&_.useg=builtin11/)
 | Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
+
+</details>
+
+
+<details>
+  <summary><b>Non-modernized site data (includes MHV, eBenefits, and other va.gov subdomains)</b></summary>
+
+|Name|Report
+|---|---|
+|Top 25pages|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-segmentExplorer.segmentId=analytics.pageTitle&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50/)|
+|Top landing pages|[report](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)|
+|Top site search|[report](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=/)|
+|Homepage - Top pages before home|[report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&_r.drilldown=analytics.pagePath:www.va.gov~2F/)|
+
+</details>
 
 ## Overall: Why do people come to the site? What do they do here?
 
