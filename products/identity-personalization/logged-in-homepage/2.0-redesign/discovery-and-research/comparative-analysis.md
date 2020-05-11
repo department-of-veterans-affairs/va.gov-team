@@ -43,7 +43,7 @@ Almost every site we looked at (Delta and Google being exceptions) predominantly
 
 USAA and Fidelity also had options to customize the view, which further signifies to the user that the experience is tailored just for them. The people who shared those screenshots stated they could not recall ever using the customization options.
 
-Most sites also welcomed the user with a large greeting that includes their name. Oftentimes, the user's name is also used as a link in the navigation to access their profile. On many sites, the words "My" and "Your" were used to label sections and contributed to sense of personalization.
+Most sites also welcomed the user with a large greeting that includes their name. Oftentimes, the user's name is also used as a link in the navigation to access their profile. On many sites, the words "My" and "Your" were used to label sections and contributed to a sense of personalization.
 
 Takeaways 
 
@@ -93,7 +93,7 @@ Takeaways
 
 Text links were common across all the sites, with the dashboard routing users to complete their tasks. In the section groupings described above, sites tended to link 1-3 primary actions (e.g. "Pay insurance" or "View claims") which took the user to another page offering a more detailed view.  Several sites had a dropdown menu within the section that offered more options as text links.
 
-Some sites styled linka to look like a buttons which was most effective when there was one primary action for the user to take.
+Some sites styled links to look like buttons, which was most effective when there was one primary action for the user to take.
 
 There were a couple of sites that used widgets where the user could complete a task right on the page or triggered a modal with a text link to complete an action.  Those felt unnecessarily complicated and cluttered compared to the simpler approach. An exception to this was Chase, which opened a panel upon clicking "pay card".  I liked this compared to other approaches because the darkening/blurring of the background, and the size of the panel helped draw focus to the action.
 
