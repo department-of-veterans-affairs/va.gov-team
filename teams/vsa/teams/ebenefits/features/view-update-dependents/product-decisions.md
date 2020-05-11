@@ -14,6 +14,7 @@ _Steve: "Since file number is a critical field for establishment of a claim, AND
 **TL;DR - We are going to run a check on this and if we are _not_ able to get it, we need to send the user to a phone number to ensure their VA file number is in place in the VA system of record via some error messaging (WIP):**
   
 ![you're missing critical info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/images/your-profile-is-missing-info.png)
+
 ------------
 ## Additional Pension Questions  
 `May 5, 2020`  
@@ -26,6 +27,16 @@ _This should be handled with care and context so that financial questions are no
 - Design the presetnation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
 
 **TL;DR - 2 new pension questions to be added.  Create a mockup for later implementation**
+
+------------
+## 674 in First Version
+`Date decided`  
+**The 674 is essentially a whole separate form but can fit nicely inside of the 686.  Because there are some aspects of the 674 that require some heavier lifting, we may not go into the first version with the 674 complete**  
+  
+_Note/ Guiding principle_
+- Action item
+
+**TL;DR - what does this mean?  what do we do next?**
 
 ------------
 ## Issue Title  
