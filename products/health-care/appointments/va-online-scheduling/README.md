@@ -273,4 +273,9 @@ VA Online Scheduling, VAOS, Veteran Appointment Request
 
 ### Screenshots
 #### Before
+Old VAOS Tool: https://veteran.mobile.va.gov/var/v4/
+[insert image here]
+
 #### After
+New VAOS Tool: https://www.va.gov/health-care/schedule-view-va-appointments/appointments
+[insert image here]
