@@ -81,7 +81,7 @@ On the modernized VA.gov only, we see similar interest in the **facility locator
 
 **Recommendation**: Emphasize VA locations, personal records, and education benefits in the logged-in experience.
 
-### My VA is more popular than we expected
+### My VA is more popular than we expected.
 
 In the non-modernized data, we can see that My VA is more popular than we thought if we look at pageviews alone. This page makes it into the top 25 of all pages across VA web properties with about **~7.5MM views**. This may indicate an interest in seeing personalized benefit information.
 
@@ -140,7 +140,7 @@ Additionally, while we can't see a breakdown of what logged-in users do in the n
 
 **Recommendation**: Create a tool/task-based navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
 
-## The homepage and My VA 
+## The homepage and My VA: How do people interact with these pages?
 
 ### About half of VA.gov users go to the homepage. Only about 8% of users go to My VA.
 
