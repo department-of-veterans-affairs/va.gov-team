@@ -68,15 +68,18 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 - Search.gov GitHub Repository for VA.gov implementation https://github.com/GSA/search-gov-agency-collaboration
 - VA.gov XML Site Map - https://www.va.gov/sitemap.xml
 ## Product
-An assessment of the features available for API-based implementations of Search.gov has found that the following capabilities are --  or will soon -- be available: 
-- Type-ahead
-- Spelling suggestions
+Initial focus will be given to assessing the current state of the search product, including:
+- Is the auto-generated site xml map for VA.gov optimal for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). 
+- Have we provided sitemaps for all or many of the VA.gov subdomains (site map indexing is preferred to crawling)
+Then, we will look to implement a series of modern search features, including: 
+- Type-ahead - available via Search.gov API
+- Highlighting
+- Spelling suggestions - https://open.gsa.gov/api/searchgov-suggestions/
 - Related searches
 - Event-based advanced analytics (via js code snippet)
 - Routed queries
 - Faceted search via collections
 - Improved use of Best Bets
-
 As part of the Product discovery process, we will take a more holistic and expansive look at broader on-site search trends and features to ensure we consider all best practices.  Examples include:
 - Search Engine Result Page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 - 
@@ -86,7 +89,7 @@ As part of the Product discovery process, we will take a more holistic and expan
 ## Analytics
 The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions related to VA.gov on-site search, including:
 
-- How many VA.gov daily visitors use search -- e.g., 2% or more?
+- How many VA.gov daily visitors use search -- 10% overall, 6% mobile in 2020 (YTD)
 - What are the top search terms/queries overall?
 - What are the top search terms per benefits hub/site category -- Health Care, Disability, Education & Training?
 - How many are searching Top Tasks -- e.g. Check your claim or appeal status, Refill and track your prescription?
