@@ -24,6 +24,7 @@ Most of View Dependents is finished, but with this timeline, the remaining steps
 
 🌀 = Collaboration Cycle  
 ⏳ = May be more time intensive than anticipated  
+🤷‍♂️ = Clarification needed  
 
 ## Events  
 ### Sprint 19 (T-28)  
@@ -65,6 +66,7 @@ _May 6 - May 19_
 - FE: Confirm Sentry access, enter utility code
 - 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)  
 _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
+- Veteran Info Review Page; page #8838, data #8829, gating #8838
 
 ### Sprint 22 
 _May 20 - June 2_
