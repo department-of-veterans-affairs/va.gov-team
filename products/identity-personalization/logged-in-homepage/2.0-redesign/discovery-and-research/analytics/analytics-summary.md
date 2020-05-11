@@ -50,7 +50,7 @@ Whether we are looking at data by pageviews **(~60MM)** or popular landing pages
 
 On the modernized site, we only saw one health tool — refill prescriptions — in the top 25. This is likely because health care is primarily managed on MHV. We should review the non-modernized data to get a more full picture of the importance of health tools.
 
-More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
+Going by pageview, **My VA (~6.8MM)** is more popular than we would have expected. This may indicate an interest in seeing personalized benefit information.
 
 [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
