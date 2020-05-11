@@ -103,10 +103,10 @@ In terms of tools, we can see in the modernized VA.gov site data that the **clai
 
 On the modernized VA.gov:
 
-- **"Benefits" (153,244)** and **"health" (58,827)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
-- **"Forms" (24,197)** is also high on the list, which suggests people want a full list of VA forms.
-- Benefits-related terms like **"direct deposit" (12,723)**, **"cemetery" (9,726)**, and **"certificate of eligibility" (8,154)** are high on the list, which suggests that we may need to elevate these tools more.
-- **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
+- **"Benefits" (~150K)** and **"health" (~59K)** are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
+- **"Forms" (~24K)** is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like **"direct deposit" (~13K)**, **"cemetery" (~10K)**, and **"certificate of eligibility" (~8K)** are high on the list, which suggests that we may need to elevate these tools more.
+- **"DD214" (~9K)** is high on the list, further reflecting people's desire to get their military records.
 
 [Top search terms on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
 
@@ -154,13 +154,13 @@ Of the modernized VA.gov's almost **8.7MM** users, about **49% (~4.3MM)** go to 
 
 ### As mentioned above, many people come to the homepage directly. They also come to the homepage through the sign in flow, and then through many of the site's most popular pages.
 
-People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **view payment history (455,233)**, and **refill and track prescriptions (361,060)**.
+People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **view payment history (~455K)**, and **refill and track prescriptions (~360K)**.
 
 [Top 25 pages before the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/)
 
 ### From the homepage, people primarily navigate into the tools displayed in the top 20 tasks. 
 
-As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable exceptions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (759,540)**, and **Refill and track your prescriptions (516,320)** had the most clicks.
+As expected, almost all of the top 25 interactions on the homepage take place in the top 20 tasks, with notable exceptions being the sign in prompt and some interaction with the main nav. In the top 20 tasks, **Check your claim or appeal status (~5MM)**, **View payment history (~760K)**, and **Refill and track your prescriptions (~516K)** had the most clicks.
 
 This further shows the reliance on the top 20 tasks and suggests we should take extra care with how we handle these when creating a personalized logged-in homepage.
 
@@ -170,7 +170,7 @@ This further shows the reliance on the top 20 tasks and suggests we should take 
 
 ### People come to My VA via many of the same paths that lead them to the homepage, just in smaller numbers.
 
-People come to My VA through **sign in (~600K)**, the **claim status tool (393,342)**, and **view payment history (75,162)** just like they do on the homepage. They just do so in a much smaller quantity.
+People come to My VA through **sign in (~600K)**, the **claim status tool (~393K)**, and **view payment history (~75K)** just like they do on the homepage. They just do so in a much smaller quantity.
 
 [My VA previous page paths](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/)
 
@@ -186,7 +186,7 @@ Since you can't view My VA without being logged in, it's interesting that the mo
 
 ### Claims, VA letters, and profile information are all popular next steps from My VA.
 
-Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (239,802)**, among other things. They also want to go to their **profile (304,902)**.
+Unsurprisingly, people who come to My VA have the same priorities as other users — they want to **track claims (~560K)** and **download their VA letters (~240K)**, among other things. They also want to go to their **profile (~305K)**.
 
 [Top 25 interactions from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/)
 
