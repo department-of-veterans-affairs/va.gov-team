@@ -20,18 +20,17 @@ In the cardsort, we will create one category called "homepage", and instruct Vet
 12. Your rated disabilities (combined rating and individual ratings)
 13. Payments made to you by the VA
 14. Direct deposit/bank account information
-15. Personal information (name, gender, birth date)
-16. Contact information (address, phone number, email address)
-17. Military service history
-18. Verify your identity on VA.gov
-19. Set up 2-factor authentication
-20. Change your username/password
-21. Download your VA letters and documents
-22. Documents you've uploaded to VA.gov)
-23. Your notification preferences (eg. where and how the VA can contact you)
-24. Your dependents 
-25. Updates on your claim or appeal status
-26. Your Representative (Power of Attorney)
+15. Your personal information (name, gender, birth date)
+16. Your contact information (address, phone number, email address)
+17. Your military service history
+18. Set up 2-factor authentication
+19. Change your username/password
+20. Download your VA letters and documents
+21. Documents you've uploaded to VA.gov)
+22. Your notification preferences (eg. where and how the VA can contact you)
+23. Your dependents 
+24. Updates on your claim or appeal status
+25. Your Representative (Power of Attorney)
 
 ### Items from last summer’s card sort that we are intentionally not including
 
