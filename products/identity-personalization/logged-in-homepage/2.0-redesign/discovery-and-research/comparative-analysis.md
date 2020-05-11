@@ -169,13 +169,13 @@ The activity center on the left contains a variety of actions that could be perf
 
 ### Chase
 
-Chase took a unique approach to a few things I felt were effective:
+Chase took a unique approach to a few things:
 
 -   They provide an overall snapshot of the card at the top of the page, with clear actions (likely the most common) at the bottom of the container.
 
--   The "pay card" link in that summery triggered a panel that slides in where I can pay my card. This felt more effective than BofA's approach because it gave me more visual breathing room and it's styling largely eliminated the distraction of content behind the panel.
+-   The "pay card" link in that summery triggered a panel that slides in to pay. This felt more effective than BofA's approach because it gave me more visual breathing room and it's styling largely eliminated the distraction of content behind the panel.
 
--   Their navigation is worth noting too - their overall navigation is a hamburger nav, so it doesn't have to change drastically once logged in. Navigation consistency helps users feel rooted, and there is plenty of room to add authenticated nav items without feeling too cluttered.
+-   Their overall navigation is a hamburger nav, so it doesn't have to change drastically once logged in. Navigation consistency helps users feel rooted, and there is plenty of room to add authenticated nav items without feeling too cluttered.
 
 ![](https://lh3.googleusercontent.com/0s9OtBRMFh9dPZTYOLcfR7AeTjaPExQBFucHqMd7BAHTnWdUR6XCuBHvPzn7W-YNAOm2ZiGJtG4GmMmJgqLvMMjkyPv6VyaE5YZIjS3znmnbUWzru9Ps-ySTsDledMthuzftY56Y)
 
@@ -185,7 +185,7 @@ Chase took a unique approach to a few things I felt were effective:
 
 Fidelity had a unique "welcome" screen upon logging in that screenshot contributors said they never use.  The text-heavy welcome pushes down the main actions far down the page, and has a different look and feel than the rest of the logged in experience once you get into the site. I was surprised by the amount of real estate dedicated to news and other content not specific to the user.
 
-It's worth noting that folks mentioned they prefer the app when I asked them for these screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
+Folks mentioned they prefer the app when I asked them for these screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
 
 ![](https://lh4.googleusercontent.com/xCJsr_jc8TVG0viP840NZtAlT-9Ppt2egUZKkKkBWemNUJaLYoMt1q-1kOGWQNjUZw6pvqqH83xyj_0o7aMFt22B5N-RfshJDPQ0DA3SPzuA6f9HYwdtRwvKUKJJFJ7Szn3Mygrb)
 
