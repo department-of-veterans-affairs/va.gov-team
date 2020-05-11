@@ -126,8 +126,17 @@
   - Any request submitted more than 30 days ago
   - Cancelled requests where all of their requested dates are in the past
   - Requests with a status other than Cancelled or Submitted
+  
+## Previously Seen business logic:
+- Veterans are only able to use online scheduling if they’ve been seen at the selected facility for that type of care in the past 2 years. VAOS will automatically check their completed appointment history to make this determination.
+- This logic applies to all care types/specialities including Primarcy Care and Mental Health. 
 
-
+### For Direct Schedule - in legacy VAOS, Veterans were always shown a list of available clinics, but for new VAOS that busines logic was altered. Why? And what is the new business logic?
+- Why: A key design principle for new VAOS is ensuring that Veterans are only seeing options that are available to them. This principle also applies to new business in which Veterans are only enabled for self schedule for VA appointments if they have been previously seen for that type of care at that specific VAMC. 
+- If the veteran was previously seen (i.e. had a previous appointment for the ‘type of care’ selected) within the last 24 months, they are shown a list of the clinic(s) from those appointment to expedite self-scheduling.
+- If the veteran selects “I need a different clinic”, when they are not seeing a clinic they are familiar with or used in the past, they are always forwarded to the appointment request workflow. This logic specifically deviates from previous VAOS app logic where legacy VAOS showed all available clinics regardless if the Veteran had be seen by specific clinic in the past. This along with nonsensical clinic naming convention led many Veterans to schedule into the wrong clinic. 
+- We realize we’re being conservative in new VAOS, where some available/open self-schedulable clinics are not showing up. It’s a tradeoff, and it’s an experiment. The idea is – if we send you down the request flow, a human can actually help you get routed to a new clinic (and ideally, the right one for your situation). Next time you schedule, that clinic will show up as an option for you.
+- We will want to watch this as part of user feedback and schedule manager feedback as part of new VAOS availability. 
 
 
 
