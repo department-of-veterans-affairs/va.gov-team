@@ -209,44 +209,46 @@ Makes it easier for veterans to directly schedule or request a healthcare appoin
 #### Business Value
 Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings. More maintainable solution by in-house teams over the long-term.
 
-## KPIs
+## OKRs
 
-### Goals [TODO: establish goal states once baselines measured]
-- Increase percent of appointments scheduled online
-- Decrease percent of scheduled appointments that result in no-shows
+### Objectives
+- Increase number of logged in users on VAOS on VA.gov
+- Increase number of appointments scheduled online (including % increase) -- measured as completion/conversion
 - Improve perception of scheduling experience among veterans
+- Decrease percent of scheduled appointments that result in no-shows
 - Decrease processing time for schedulers
 - Decrease phone volume for appointment scheduling
 - Reduce volume of appointments scheduled via Secure Messaging
 
-### KPIs [TODO: table or presentation improvements]
+### KRs
 
-- Percent of veterans who are able to complete the scheduling flow
-  - Measure with GA events: number of terminal events fired (request / direct schedule) compared to number of 'add new appointment' events fired.
-- Percent of overall appointments scheduled or requested online
-  - Tap into VA healthcare appointments metrics, compare with total completion events fired (requests + direct schedules)
+- Number and Percent of veterans who are able to complete the scheduling flow
+  - Measure with GA events and GA user funnels
+- Type of care/speciality per scheduling type (VA request, CC request, or Self Schedule)
+  - Measure with GA events/users
+- Retention rate of Veterans returning back to VAOS tool
+- Number and Percent of overall appointments scheduled or requested online
+  - Cross-comparison of GA VAOS events to VHA Scheduling data
 - Percent of veterans who feel that they've accomplished what they set out to do
-  - No way to currently track this and no baseline exists, but we could add a single survey question to the existing flow
+  - Consider using Foresee in future to prompt in flow questions
 - Number of healthcare appointments scheduled over the phone
-  - Would need to tap into phone metrics, which may not be possible
+  - Need to collect information from VHA scheduling data
 - Veteran satisfaction
-  - Not sure where these metrics would come from
+  - TBD
 - Latency, uptime, production bug volume, deploy speed
-  - Should look through App Dynamics and also review any other sources for these metrics that we could track over time
+  - Sentry Dashboarad collects these metrics
 
 ---
 
 # Implementation Info
 
 ## Status
-- In active discovery and development
-- Team onboarding onto VSP
-- [Phased rollout](product/phased-rollout-plan.md) to begin November
+- [Phased rollout](product/phased-rollout-plan.md) in progress -- Currently live 100% on VA.gov with new VAOS-R
 
 ## How to Access and Test
-- Link: 
-- Password protection info:
-- User authentication info:
+- Link: https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/
+- Password protection info: Check with VAOS team member
+- User authentication info: Check with VAOS team member
 
 ## Error Handling
 
@@ -263,29 +265,11 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 - Technical Documentation
 - Product specs
 - Design
-- Roadmap
+- [Roadmap] (https://github.com/department-of-veterans-affairs/va.gov-team/projects/13)
 - ATO documentation
 
 ## Keywords
 VA Online Scheduling, VAOS, Veteran Appointment Request
-
-## Team
-
-- VA Executive Sponsor ``: 
-- VA Policy Expert(s):
-- VA Digital Strategist(s) `*`:
-- Product Manager `*`:
-- Design Lead:
-- Eng Lead:
-- VA Web Comms Partner: 
-- VA Contact Center Partner(s): 
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-`*` = approval required for launch
 
 ### Screenshots
 #### Before
