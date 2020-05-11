@@ -84,7 +84,7 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
 <details>
-  <summary><b>Popular "explore/apply" content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+  <summary><b>Popular "explore/apply" content for all users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
 
 | Page title | Page| Pageviews |
 |-----|------|------|
@@ -99,7 +99,7 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 - [Top 25 Pages - Logged out sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 <details>
-  <summary><b>Popular "explore/apply" logged out content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+  <summary><b>Popular "explore/apply" for logged out users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
 
 | Page title   | Page  | Pageviews  |
 |----------|-------|----|
@@ -131,7 +131,20 @@ For logged in users, we can see that tools and tasks were more likely to be the 
 
 | Page title   | Page  | Pageviews  |
 |----------|-------|----|
-
+| Claim status tool   | /claim\-or\-appeal\-status/index\.html  | 21,921,531 |
+| Claim status tool| /track\-claims/index\.html | 9,794,262  |
+| My VA   | /my\-va/index\.html| 4,217,283  |
+| Post\-9/11 GI Bill Statement of Benefits content page | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/ | 2,498,933  |
+| Old facility locator URL from vets\.gov \(confirm\) | /facilities/index\.html?XXX | 2,358,882  |
+| Va\.gov profile | /profile/index\.html | 1,723,315  |
+| My VA | /my\-va/ | 1,606,595  |
+| Post 9/11 GI Bill Statement of Benefits | /education/gi\-bill/post\-9\-11/ch\-33\-benefit/status/ | 1,527,984|
+| Download VA benefit letters content page | /records/download\-va\-letters/index\.html |1,513,599  |
+| Download VA benefit letters: Prompt to confirm address | /records/download\-va\-letters/letters/confirm\-address/ | 1,288,342  |
+| VA Prescription Refill and Tracking content page| /health\-care/refill\-track\-prescriptions/index\.html  |1,282,502  |
+| My VA| /index\.html?next=/my\-va| 1,178,048  |
+| Download VA benefit letters: List of letters | /records/download\-va\-letters/letters/letter\-list/| 1,059,008|
+| Claim status tool | /index\.html?next=/track\-claims/ | 1,034,058  |
 
 </details>
 
