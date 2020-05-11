@@ -2,7 +2,7 @@
 
 ## Project overview
 
-As part of the [logged-in homepage discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/research-plan.md), we conducted an analytics review to learn more about user behavior related to VA.gov overall, the homepage, and the My VA dashboard.
+As part of the [logged-in homepage discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/research-plan.md), we conducted an analytics review to learn more about user behavior related to VA.gov, the homepage, and the My VA dashboard.
 
 ## Goals
 
