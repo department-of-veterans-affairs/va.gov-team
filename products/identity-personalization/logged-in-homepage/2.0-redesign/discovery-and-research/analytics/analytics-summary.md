@@ -77,9 +77,9 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 
 **Recommendation**: [Put recommendation here]. 
 
-### The data also tells a different story for logged out and logged in users. Logged out users are more interested in exploring/applying for benefits... 
+### The data also tells different stories for logged out and logged in users. Logged out users are more interested in exploring/applying for benefits... 
 
-"Explore/apply" content is popular on VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. However, we saw that the focus on explore/apply skewed more towards logged out users when we looked at top pages broken down by logged in vs. logged out users. Also, search is significantly more important for logged out users **(~4.3MM pageviews)** than logged in users **(~1.1MM pageviews)**.
+"Explore/apply" content is popular on VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. However, we saw that the focus on explore/apply skewed more towards logged out users when we looked at top pages broken down by logged in vs. logged out users.
 
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
@@ -120,6 +120,8 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 
 </details>
 
+**Recommendation**: Long term, work with the unauthenticated/global UX team to figure out how we can seamlessly transition users from a logged out to logged in experience when users may have different needs ranging from exploring to managing benefits.
+
 ### ... whereas logged in users are more interested in checking the status of their benefits or accessing their records. 
 
 For logged in users, we can see that tools and tasks were more likely to be the focus, with our typical cast of characters (claim status, GI Bill, VA benefit letters, prescriptions) all making it into the top 25.
@@ -148,6 +150,8 @@ For logged in users, we can see that tools and tasks were more likely to be the 
 
 </details>
 
+**Recommendation**: Create a tool/task-focused navigation for logged in users, both on the logged-in homepage and throughout the authenticated experience.
+
 ### People start on the homepage, the claim status tool, and the facility locator.
 
 This data tells us the first page people land on when they come to the modernized VA.gov. This may reflect how people are being directed via search engine results or what pages people have bookmarked.
@@ -155,6 +159,8 @@ This data tells us the first page people land on when they come to the modernize
 The **homepage (~25MM)** was the most popular by orders of magnitude, with the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** rounding out the top 3. Other popular landing pages include many of the content pages we've already related as popular, namely content related to health care, disability, and education benefits.
 
 [Top 25 landing pages](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+**Recommendation**: [Is there a recommendation]
 
 ### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
 
@@ -164,6 +170,12 @@ The **homepage (~25MM)** was the most popular by orders of magnitude, with the *
 - **"DD214" (8,597)** is high on the list, further reflecting people's desire to get their military records.
 
 [Top search terms](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
+
+**Recommendation**: Create more direct access to direct deposit, DD214, burial, and COE info in the logged in experience, whether that is from the homepage or further elevating these items in a logged in navigation.
+
+## The homepage and My VA 
+
+### (Details on user breakdown for the homepage/My VA)
 
 ## How do people use the homepage?
 
@@ -180,8 +192,6 @@ As expected, almost all of the top 25 interactions on the homepage take place in
 This further shows the reliance on the top 20 tasks and suggests we should take extra care with how we handle these when creating a personalized logged-in homepage.
 
 [Top 25 interactions on the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
-
-## How do people use My VA?
 
 ### People come to my VA via many of the same paths that lead them to the homepage, just in smaller numbers.
 
