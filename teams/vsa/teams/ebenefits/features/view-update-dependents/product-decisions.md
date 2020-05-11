@@ -15,6 +15,15 @@ _Steve: "Since file number is a critical field for establishment of a claim, AND
   
 ![you're missing critical info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/images/your-profile-is-missing-info.png)
 ------------
+## Additional Pension Questions  
+`May 5, 2020`  
+**Some questions have come to light involving the.**  
+  
+_Note/ Guiding principle_
+- Action item
+
+**TL;DR - what does this mean?  what do we do next?**
+------------
 ## Issue Title  
 `Date decided`  
 **Description.**  
