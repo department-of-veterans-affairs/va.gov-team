@@ -14,13 +14,14 @@ BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12 <br> https://github.com/
 BAM 1 | Benefits Delivery at Discharge |  NOT STARTED | Usability prep feedback given, waiting research results <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Public Websites | Decision Review IA Improvements | IN PROGRESS | IA mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-decision-reviews.md
 Authenticated Experience | Profile 2.0 | NOT STARTED | Usability prep feedback given for profile pages, FAQ page, and app directory <br> page. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
-BAM 2 | Medical Device Ordering | COMPLETE | IA work mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
+
 
 
 ## Completed Reviews
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+BAM 2 | Medical Device Ordering | COMPLETE 05/05/2020 | IA work mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
 Public Websites | AMA Updates | REVIEW DECLINED | IA Review was declined by team in order to make deadline for content updates.  Team agreed that no URL changes, redirects or nav structural changes can be made.  Complete IA review of Decision Review process is needed as part of next steps. https://github.com/department-of-veterans-affairs/va.gov-team/issues/5541
 eBenefits | Add/Remove Dependents | COMPLETE 03/13/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-dependents.md
 Public Websites | Yellow Ribbon Tool | COMPLETE 02/19/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-yellow-ribbon.md
