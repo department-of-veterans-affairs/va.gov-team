@@ -18,7 +18,7 @@ For period 1/1/19 - 7/14/19, comparing pageviews and unique page vies for sitewi
 List of questions we hope the analytics team might help with...
 
 1. **Profile** ([Analytics Dashboard WIP](https://datastudio.google.com/u/0/reporting/1MEhg3-5vnPBsSc_1wCzh6LByR3RjH92q/page/OoJS?s=vS-iovB_OEo))
-  * Number of updates for each action ([Nedie provided high level first pass]())  (Still need repeatable report, monthly)
+  * Number of updates for each action ([Nedie provided high level first pass](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/Personalization%202.0/Artifacts/VA.gov%20Modernized-Google%20Analytics-Profile%20Saves-02242019-06262019.xlsx))  (Still need repeatable report, monthly)
   * Actions taken per session, to help identify common themes/collection of actions (asked 6/27)
   * Number of failed updates for each action? Do we get a reason code or some indicator of what failed? (asked 6/27)
   * Are users getting to the profile page from nav or elsewhere on site?
@@ -38,7 +38,9 @@ List of questions we hope the analytics team might help with...
   * Login error rates, per type.
   * Type of login being used (ds login, MHV, id.me)
   * These login events are from 1/1/19 - 7/14/19.  What is the story to tell here...most users are logging in to track and view claims?
-    
+  
+  ![alt text](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/Personalization%202.0/Artifacts/Login_Events.png "Login Events")
+  
 5. **My Health**
   * Basic click info
   * How many users click direct vs. access via other parts of va.gov?
@@ -64,8 +66,3 @@ List of questions we hope the analytics team might help with...
   * Pathing through the experience (from point of entry through to completion, help identify breaks or consistent failure points)
   * Completions and failures
   * Email confirmation open, clicks, etc. (future?)
-  
-
-  
- 
-
