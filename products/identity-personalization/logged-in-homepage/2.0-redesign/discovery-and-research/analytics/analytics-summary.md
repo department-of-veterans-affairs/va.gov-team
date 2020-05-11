@@ -34,7 +34,7 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 
 ## Overall: Why do people come to the site? What do they do here?
 
-### What people do depends on what data you're looking at. We see different behavior patterns when we look at the "modernized" vs. "non-modernized" data.
+### To get the full picture, we needed to look at both the "modernized" and "non-modernized" data.
 
 Fortunately, we have access to analytics for anything that falls under the VA.gov domain. Of course, this includes the "modernized" site our team redesigned in 2018 — anything that falls under www.va.gov — but this also includes data for MyHealtheVet (myhealth.va.gov), eBenefits (ebenefits.va.gov), and VBA's site (benefits.va.gov) because those sites all live as subdomains under VA.gov. We looked at both data sets to get the most full picture of veteran behavior.
 
