@@ -94,7 +94,7 @@ In the non-modernized data, we can see that My VA is more popular than we though
 
 ## Logged-in vs. logged-out: Why do people come to the site? What do they do here?
 
-Note: For looking at pageviews by logged-in vs. logged-out users, we were only able to use the reports that looked at data for the modernized VA.gov. Because of how we track data, we can only see if someone logs in on VA.gov and then travels to MyHealtheVet or eBenefits. We can not detect if someone logs in direct on MyHealtheVet or eBenefits.
+**Note**: When looking at data by logged-in vs. logged-out users, we are only able to use modernized VA.gov site data. Our analytics are not able to track whether users log in via MyHealtheVet or eBenefits, so we can not tell whether actions taken on those sites are taken from a logged-in or logged-out state.
 
 ### Logged-out users are more interested in exploring/applying for benefits.
 
