@@ -16,7 +16,7 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [Chase](#chase)
 
-- [Fidelity](#fidelity) 
+- [Fidelity Investments](#fidelity-investments) 
 
 - [Schwab](#schwab)
 
@@ -24,7 +24,7 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [State Farm](#state-farm)
 
-- [USAA](#USAA)
+- [USAA](#usaa)
 
 - [Quality Payment Program (QPP)](#quality-payment-program-qpp)
 
@@ -177,9 +177,11 @@ Chase took a unique approach to a few things:
 
 -   Their overall navigation is a hamburger nav, so it doesn't have to change drastically once logged in. Navigation consistency helps users feel rooted, and there is plenty of room to add authenticated nav items without feeling too cluttered.
 
-![](https://lh3.googleusercontent.com/0s9OtBRMFh9dPZTYOLcfR7AeTjaPExQBFucHqMd7BAHTnWdUR6XCuBHvPzn7W-YNAOm2ZiGJtG4GmMmJgqLvMMjkyPv6VyaE5YZIjS3znmnbUWzru9Ps-ySTsDledMthuzftY56Y)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-unauth-menu.png)
 
-![](https://lh3.googleusercontent.com/B-OkKw9Q8bjrDBKgQgPdk4fzkxSl5Ip3jxpoIJeg0vNEs5XoAite1b1oD_jdFxEERYd_DBOWKhb6TUzz4lqhtNTfjv1zLK9KNdESvJcNyTvk9jIqRThYIyHz2ZrkPKgkRZkU-qhs)![](https://lh5.googleusercontent.com/hrtev77zmBK3Ylh5FYICFUyc76-0Uv1KuLN9z427qpLxgZmYM9PbpgczkZ0i1lk7d_ubP6TGn72fojZKEFsGKbPLMjtdJg9PanFJThA3-9_NFS_71iYCrJeaS-zTpRzzUH3rBBKY)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-dashboard.png)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/chase-widget-pay-card.png)
 
 ### Fidelity Investments
 
@@ -187,11 +189,11 @@ Fidelity had a unique "welcome" screen upon logging in that screenshot contribut
 
 Folks mentioned they prefer the app when I asked them for these screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
 
-![](https://lh4.googleusercontent.com/xCJsr_jc8TVG0viP840NZtAlT-9Ppt2egUZKkKkBWemNUJaLYoMt1q-1kOGWQNjUZw6pvqqH83xyj_0o7aMFt22B5N-RfshJDPQ0DA3SPzuA6f9HYwdtRwvKUKJJFJ7Szn3Mygrb)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/01-fidelity-post-login.png)
 
-![](https://lh3.googleusercontent.com/8LCX52S64RhwfAO7face5OvWfWO5QDUV7fPRrYLuoufDxEM5hDj4c1qDodF8SP4HiC0-Jayz8l5EGwJ4yu3Ltjln8ip2zVqc6am3k-KLxCnqeWDKphq5bjIEKPOKSa0WrVnapi_P)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/02-fidelity-all-accounts.png)
 
-![](https://lh5.googleusercontent.com/8pxBVl7eeQtWWfvjEZ0UjvU5ELM6H5iKJJA1V0ffY9uxdQRhB2P15zsKFI2wV0tYzokEqYtPSRYnCDax12WQBFOnQBPjmlB7H02RsxZ5ROFFqN1_Pl-k_to5_jqHtfUipLetIAPj)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/03-fidelity-mobile-logged-in-feed.png)
 
 ### Schwab
 
@@ -199,13 +201,13 @@ Schwab's logged in experience was more modern than the other investment-focused 
 
 Their approach to navigation was complex- a top level navigation, where each item triggered a sectioned megamenu.  When you were in a top level section, a secondary navigation with those sections as navigation points appeared below the main navigation.  While complicated, it appears to be an effective way to help users understand their options without necessarily having to parse through the entire mega menu every time.
 
-![](https://lh6.googleusercontent.com/pROLwIVzSJNlogPu3YtcSxoUdL2pxzRA5w4iV8VyrCfvq41owz71bBbTWGPDG-GuCparIVWUUiZZgPrUQwVJM2M32QI8_LkJd6E1zBACY6lbcKVU7rAHDgYSGvKDMl_qRccXIN3J)![](https://lh3.googleusercontent.com/1zjyySN7dS2PHxPBUMLk6VtZOU9DJFj2mAAmdJo06dVv-LrBhKxqbDp0y-6iFuzE_CITz3V6Sb9mkyZYoZOSS-1MbDBPHK_5n15Qobv3bWr4QjJvKUnW1z8HsRmC-ROh1m5-GzgW)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/Schwab-Logged-In-Dashboard.jpg)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/Schwab-Accounts-MegaMenu.png)
 
 ### Geico
 
 Geico's unique logged-in homepage is a hyper focused, two column view dedicated to the users policies and actions.  Even the navigation is mostly hidden.  Alerts appear above the two columns, along a large welcome message.  This approach is effective in providing the user with direct access to tasks. However, navigating away from the dashboard turned out to be messy  without a consistent visual approach, and navigation changing throughout the experience.  The user was also repeatedly asked to log in again, even though his name was reflected back to him. Geico's site demonstrated the important role navigation plays in orienting the user and building trust.
 
-![](https://lh4.googleusercontent.com/pr-IlXBlzE3OhtPcq4gOWVIk3OZiIQNMIpK2sQK4zD1rZ5GMxz4639hEN6UPUDg5HtwCbq7aVnZBENDukf7x21tLeoX4YfJStdAprPtUHBXPTxFxkNmjAqdSQy5get8RiGP6ZHrz)![](https://lh5.googleusercontent.com/sJrLaRobLFZqreHcfXZyVNMPh1TYDafSMPkx9wrl30Li7bb8DApNB9PiXG0oPXBVghIt2PmLJB4plVQeSoCUBEgvQ6INUlMt4w9pLq29YHjn8cXUyLeB5Ez5yHzEl1dXCGTcPi1f)![](https://lh4.googleusercontent.com/Dif0GwZPHGpewAJ-5UDbbNMmSuDN1NGoGUV0fGsEuvGNMuqi6myZFNQp3fg__8qZIk5aLJcHVZx4bmrKmb9_mkbiR9OG2dAL6yIsArjtRde0ASMGcq8w6yoAB8CuGu5mF962fxi1)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/geico-desktop-dashboard-welcome.png)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/GEICO.3-Logged-In_Dashboard2.jpeg)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/geico-desktop-logged-in-go-to-geico.com.png)
 
 ### State Farm
 
@@ -213,11 +215,11 @@ State Farm's logged in homepage was one of the easiest to navigate, largely due 
 
 The way users navigated from authenticated to unauthenticated content was particularly interesting - they had two small links above the overall navigation that allowed users to toggle between the two experiences.  Although subtle, the labeling is clear once noticed, and from there it's effortless to go between the two options.
 
-![](https://lh5.googleusercontent.com/LUBgFBR11HRhtwSyBosmXXOfdeUJUzgiCQD6M5kXebKYxMBCbhL2Kug0FAXC-strm_z8jvlu1oUzMyeE6VeS_gYu4Wv4G0GbEt80c7QXVZYyTV2k2F2AUyq1YHKAWepXmKBX8gxx)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/state-farm-desktop-dashboard.png)
 
-![](https://lh3.googleusercontent.com/1eRbWqBfRaODYyQJFlrbMEgKK7nlVBRn7DIS3K6gO2shGdZFU1t3XI1bmwpH2Se-hEAhKJtLw1_ific26wTHxl0TFIUYsFW2rTQksQdeOF9kXK_RqX6tyoq7UPvvuPsP_v8vy19j)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/state-farm-main-menu-active.png)
 
-(second screenshot shows navigation when "main menu" is clicked from the "my account" view shown in first screenshot)
+*(second screenshot shows navigation when "main menu" is clicked from the "my account" view shown in first screenshot)*
 
 ### USAA
 
@@ -225,7 +227,7 @@ USAA did a good job of splitting different offerings (Insurance, Services, Banki
 
 USAA added sections for offerings the user hasn't signed up for yet (see Services and Banking sections) with "learn more" calls to action.  While it adds to clutter on the page, I do think it's an approach worth noting as it could inform how we help Veterans learn about benefits they are eligible for, but haven't applied for yet. The way it's presented here feels a little tricky since it is seamlessly integrated with the items the user did sign up for, but it also doesn't feel like marketing noise.
 
-![](https://lh3.googleusercontent.com/EnTN2jvoPGPu5fgQEYYZuMnLDe9EWYxwiTYNxPUCFCtFNdMwTPH2igdaUwQV9E9lEsxY_HgAzXs4hXL7Yb1OVe1GgJOkJCjxiOr4kMgy0AUFkizVebCgoW9CAFBuVFqgEHqlYSK0)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
 
 ### Quality Payment Program (QPP)
 
@@ -233,7 +235,7 @@ QPP's logged-in experience was most notably distinct from many of the other site
 
 The vertical navigation creates more of a "dashboard" vs "homepage" feeling, which is important to take under consideration as we get closer to determining our approach.
 
-![](https://lh3.googleusercontent.com/2umDzZQkdtdxHW4V4ofRwBl7dp15YB8pQHaiOLwWYM2p_cjKGNmw8w85emcEx9jwJs5_OrPEkbIIrmxipJc00C5blnSRp29H15A5t-v6ArWH0lA81Onj04JVIWPXyCKJyHpnu-hz)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/QPP-dash.png)
 
 ### Delta
 
@@ -241,7 +243,7 @@ Delta's logged-in experience was the most subtle of them all, with the homepage 
 
 Their approach to alerts and accessing personalized content in the site was interesting - clicking on the user name or the notification icon triggered the same tabbed modal, with a different tab active depending on what you clicked on.  While this can't replace a logged-in homepage, the approach is effective at providing personalized information quickly from anywhere in the site.
 
-![](https://lh3.googleusercontent.com/FU07YxHgvhUC220wtObiP2UVHkRcKhV-GRFpsS-eTAjUzhL3bIbRCw42v_T2MrRbcMZrawJDrAQV5p4Pe-EyzWL0GoGzUaaGr_UdJ6Gi5AJZC8-ECxWUEUfY30q_949txbUyWcsG)![](https://lh4.googleusercontent.com/VIs9-wTpJ_PGvzRasGosjU-EtvjwEiQqs2ublJWTrWZo2UrSeHZRLZjH2Ojn7gq9Z4qEUGk92JFZ7VFiLtC4StIQIhJdFjDbU33Bodk9cUOGx5plYAPZdZPIXEltKIJD05aYtnLQ)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/delta-menu-user.png)![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/delta-menu-feed-notifications.png)
 
 ### Google
 
@@ -249,4 +251,4 @@ Google's use case is quite different from VA.gov, but it was worth evaluating th
 
 The account dashboard felt like the most relevant area to evaluate for this research. Despite the different use cases, similar patterns such as content groupings and text links to complete tasks are used on Google's dashboard. Like State Farm, it was easy to scan the content on the page thanks to lots of white space and clean typography.  This is another example  of left-hand vertical navigation, which was easy to navigate and distinct from the overall navigation.
 
-![](https://lh3.googleusercontent.com/0676PsofA8FNdho33WAvGbERWt2l8Pbr1sBZLxcXFWM79vF1yHh8ondml6VRnxD4a6Koi5wKOF-eVEggl9IWB_yU1m85Oai7V2kcqA4D2af3WJbPAFlPxKihf-bRJzpAu81xGXpI)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/google-account-dashboard.png)
