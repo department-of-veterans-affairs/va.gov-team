@@ -1,8 +1,11 @@
 # IA Review and Recommendations
 
+**STATUS: OLD!!**
+See updated IA here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-detail-pages-v2.md
+
 **Team:** Public Websites
 
-**Product/Featue:** Forms Detail Pages
+**Product/Featue:** Forms Detail Pages 
 
 **Background/Context:**
 <br>These pages will provide a SEO landing page for core form number searches.  This is a redesign of existing legacy landing pages. The top forms/online tools will be customized/high-touch while all others will be dynamically generated content via an API. 
