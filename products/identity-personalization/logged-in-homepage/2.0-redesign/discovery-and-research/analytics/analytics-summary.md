@@ -1,18 +1,17 @@
 # Logged-in homepage discovery: Analytics review
 
-## Goals
+## Project overview
 
 As part of the [logged-in homepage discovery effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/research-plan.md), we conducted an analytics review to learn more about user behavior related to VA.gov overall, the homepage, and the My VA dashboard.
 
-## Questions we were trying to answer
+## Goals
 
-For the analytics review, we were specifically looking for more insight into the following high-level questions that will guide as as we pursue the logged-in homepage work:
+Analytics are an especially good way of seeing what people are doing. They can't tell us why, but they can tell us what. The data that was pulled for us was especially good at giving us insight into the following:
 
 - Why do people come to VA.gov? What people do they do here?
-- What leads people to the homepage? 
-- What do they do from there?
-- What leads people to the My VA? 
-- What do they do from there?
+- Who's using the homepage? Who's using My VA?
+- How do people interact with the homepage?
+- How do people interact with My VA?
 
 ## Analytics
 
@@ -35,7 +34,11 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 
 ## Why do people come to the site? What do they do here?
 
-### Overall, the claim status tool is the most popular tool on the website.
+### What people do depends on what data you're looking at. We see different behavior patterns when we look at the "modernized" vs. "non-modernized" data.
+
+Fortunately, we have access to analytics for anything that falls under the VA.gov domain. Of course, this includes the "modernized" site our team redesigned in 2018 — anything that falls under www.va.gov/, but this also includes data for MyHealtheVet (myhealth.va.gov), eBenefits (ebenefits.va.gov), and VBA's site (benefits.va.gov) because those sites all live as subdomains under VA.gov. We looked at both data sets to get the most full picture of veteran behavior.
+
+### On the modernized site (va.gov), the claim status tool is king.
 
 The **claim status tool (~60MM)** is our most popular tool. Other tools that made it into the top 25 include the **facility locator (~27MM)**, the **GI Bill statement of benefits (3.4MM)**, and the **download your VA letters tool (~2MM)**. People also wanted to **view payment history (~2.4MM)** and **refill their prescriptions (~1.7MM)** even though these tools do not exist on VA.gov.
 
@@ -66,12 +69,19 @@ More unexpected: going by pageview, **My VA (~6.8MM)** is more popular than we w
 
 </details>
 
-### "Explore/Apply" content is the primary focus for logged out users. 
+**Recommendation**: Leverage this data when determining priority for links on the homepage. 
 
-In terms of "explore/apply" content, **how to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)** made it onto the lists for top 25 pages overall and top 25 pages for logged in users.
+### In the non-modernized data, we can see [conclusion].
+
+[Details]
+
+**Recommendation**: [Put recommendation here]. 
+
+### The data also tells a different story for logged out and logged in users. Logged out users are more interested in exploring/applying for benefits... 
+
+"Explore/apply" content is popular on VA.gov. **How to apply for GI Bill/education benefits (~2.8MM)**, **disability content (~4MM)**, and **veteran ID card content (~3.2MM)**) all made it into the top 25 pages overall. However, we saw that the focus on explore/apply skewed more towards logged out users when we looked at top pages broken down by logged in vs. logged out users. Also, search is significantly more important for logged out users **(~4.3MM pageviews)** than logged in users **(~1.1MM pageviews)**.
 
 - [Top 25 pages — Overall](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
-- [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 <details>
   <summary><b>Popular "explore/apply" content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
@@ -86,9 +96,7 @@ In terms of "explore/apply" content, **how to apply for GI Bill/education benefi
 
 </details>
 
-It's worth noting that in the data we received back, logged out users primary focus was exploring benefits. When looking at the data from a logged-out only lens, we saw additional content hubs appear in the top 25.
-
-- [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+- [Top 25 Pages - Logged out sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 <details>
   <summary><b>Popular "explore/apply" logged out content: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
@@ -112,12 +120,20 @@ It's worth noting that in the data we received back, logged out users primary fo
 
 </details>
 
-### Logged in users come to VA.gov to check the status of benefits or to get their records. Logged out users are more interested in exploring benefit eligibility and application information. 
+### ... whereas logged in users are more interested in checking the status of their benefits or accessing their records. 
 
-Also, search is significantly more important for logged out users **(~4.3MM pageviews)** than logged in users **(~1.1MM pageviews)**.
+For logged in users, we can see that tools and tasks were more likely to be the focus, with our typical cast of characters (claim status, GI Bill, VA benefit letters, prescriptions) all making it into the top 25.
 
 - [Top 25 Pages - Logged In Session](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
-- [Top 25 Pages - Not Logged In Sessions](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
+
+<details>
+  <summary><b>Popular tasks/tools for logged in users: Modernized VA.gov from 4.12.2019 — 4.12.2020</b></summary>
+
+| Page title   | Page  | Pageviews  |
+|----------|-------|----|
+
+
+</details>
 
 ### People start on the homepage, the claim status tool, and the facility locator.
 
