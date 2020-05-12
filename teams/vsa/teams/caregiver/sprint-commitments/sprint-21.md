@@ -2,9 +2,9 @@
 
 - Finish code changes
 - Print button for confirmation page
-- Understand the breadcrumbs issue
+- ~Understand the breadcrumbs issue~
 - Work with Analytics to implement GA
-- Work with Public Websites on form unavailable
+- ~Work with Public Websites on form unavailable~
 - Unit tests for presubmit component
 - Integrate with backend
 - Build custom error/form-not-submimtted page
@@ -18,6 +18,6 @@
 - Write and Merge PDF Attachment on CARMA Submissions
 
 ## Content/Design
-- Finalize decisions based off tomorrow's meeting
+- ~Finalize decisions based off tomorrow's meeting~
 - Develop template for starting content conversations with new stakeholders
 - Make sure documentation is up to date
