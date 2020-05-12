@@ -71,6 +71,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [Open issues](#open-issues-2)
+    - [SSOe Single Sign On](#ssoe-single-sign-on)
     - [New Project Name](#new-project-name)
       - [Open issues](#open-issues-3)
 
@@ -716,6 +717,17 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 - [[#8257 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8257)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### SSOe Single Sign On
+
+**Audit status:** _Ready for VSP staging review_<br/>
+
+**Open issues**
+
+- [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>**Staging** | **Opened:** May 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 Back to [Table of Contents](#table-of-contents)
 
