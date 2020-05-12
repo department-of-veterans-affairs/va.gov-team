@@ -23,11 +23,9 @@ If you need to work around this limit in a full report, you can shorten your tim
 ## Why aren't my user totals adding up? 
 You may notice the user count at the top of the report does not equal the summation of the rows:
 
-| Region | Users
-| ----------- | ------------| 
- <br> | 2,701,980
-Texas | 249,376
-California | 247,555
+![Image of Totals not adding up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/totals-not-adding-up-example.PNG)
+
+
 
 Why aren't both of these numbers 2,701,980 or 2,797,253?  This is because a user can be counted in more than one dimension row.  In this particular report, a user can access a VA site from more than one state and therefore increment the users metric in multiple rows.
 
