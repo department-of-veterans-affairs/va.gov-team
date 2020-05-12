@@ -19,10 +19,16 @@
 - [User Problem Statement](#user-problem-statement)
 - [Assumptions](#assumptions)
 - [Requirements](#requirements)
+- [Discovery](#discovery)
+- [User Insights](#user-insights)
+- [Analytics](#analytics)
 - [Value Propositions](#value-propositions)
-- [Status](#status)
+- [KPIs](#kpis)
+- [Implementation Info](#implementation-info)
 - [Solution Narrative](#solution-narrative)
-- [Service Level Objective](#service-level-objective)
+- [Implementation Info](#implementation-info)
+- [Technical Decisions](#technical-decisions)
+- [Service Level Objectives](#service-level-objectives)
 - [Testing](#testing)
 - [Keywords](#keywords)
 
@@ -84,7 +90,7 @@ As part of the Product discovery process, we will take a more holistic and expan
 - Search Engine Result Page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 - 
 
-## User
+## User Insights
 - 
 ## Analytics
 The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions related to VA.gov on-site search, including:
