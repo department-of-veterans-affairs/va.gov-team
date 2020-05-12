@@ -1,4 +1,4 @@
-# Product Outline Template
+# STEM Stand-alone form Product Outline
 #### Communications
 - Team Name: VA.gov Education (Booz Allen Hamilton)
 - GitHub Label: bah-stem
