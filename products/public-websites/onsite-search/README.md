@@ -17,7 +17,6 @@
 ## Table of Contents
 - [User Problem Statement](#user-problem-statement)
 - [Assumptions](#assumptions)
-- [Limitations](#limitations)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [Status](#status)
