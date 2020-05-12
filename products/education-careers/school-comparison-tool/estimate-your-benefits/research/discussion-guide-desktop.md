@@ -62,7 +62,7 @@ Calculate button
 
 Upon completion of task: 
 - How did you think that went? 
-- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 - Were you able to find what you were looking for?  Did it seem like anything was missing?
 - Do you have any questions about the benefits you would receive at this school?
 
@@ -97,7 +97,7 @@ Upon completion of task:
 - What did you think of this information versus University of California/Ivy League school?
 - Were you able to find what you were looking for?  Was anything missing?
 - Do you have any questions about the benefits you would receive at this school?
-- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 ## Fourth Task: Benefits Change - 5 minutes (Optional)
 
@@ -108,7 +108,7 @@ Things to watch for:
 - Do users realize they can change “Your benefits” values on Search Results page?
 
 Upon completion of task: 
-- On a scale of 1 to 5 where 1 is very easy and 5 is very hard, how would you rate this task?
+- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 ## Post-Task Interview - 5 minutes
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
