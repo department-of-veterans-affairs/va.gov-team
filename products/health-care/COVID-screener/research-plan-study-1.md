@@ -32,16 +32,16 @@ Research recruiting contract required to supply participants.
 
 ---
 ## When? 	
-Timeline:	Study planned for Wednesday (5/13) - Friday (5/15).
+Timeline:	Study planned for Monday (5/18)
 
 Prepare: Prototype ready date TBD
 
 Length of Sessions: 30 minutes
 
-Availability: Wednesday 5/20 @ 9am-6pm, Thursday 5/21 @ 9am-4pm , Friday 5/22 @ 9am-11am
+Availability: Monday (5/18) 8am-6pm
 
 
-5.	Pilot: Tuesday 5/19 @ TBD
+5.	Pilot: Friday 5/15 @ TBD
 
 ## Team Roles		
 - Moderator:	Jeff Barnes 202.740.7021 jeffrey.barnes4@va.gov
