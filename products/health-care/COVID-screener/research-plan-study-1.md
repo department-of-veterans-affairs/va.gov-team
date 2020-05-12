@@ -41,7 +41,7 @@ Length of Sessions: 30 minutes
 Availability: Wednesday 5/20 @ 9am-6pm, Thursday 5/21 @ 9am-4pm , Friday 5/22 @ 9am-11am
 
 
-5.	Pilot: Tuesday 5/12 @ TBD
+5.	Pilot: Tuesday 5/19 @ TBD
 
 ## Team Roles		
 - Moderator:	Jeff Barnes 202.740.7021 jeffrey.barnes4@va.gov
