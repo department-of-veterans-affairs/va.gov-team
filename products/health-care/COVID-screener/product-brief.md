@@ -8,19 +8,19 @@ In the most mature effort we have observed, the Durham VAMC has launched a webpa
 
 ## Opportunity
 
-The Durham VAMC implementation of a pre-entry covid screener was intended for use exclusively within that facility. Other efforts are similarly localized. OCTO believes there is an opportunity to begin aliging around a single, nationwide pre-entry covid screener to reduce the duplication of effort, allow for greater standardization of screening protocols across VISNs, and ensure protocols are updated quickly and timely through the use of common technical architecture.
+The Durham VAMC implementation of a pre-entry covid screener was intended for use exclusively within that facility. Other efforts are similarly localized. OCTO believes there is an opportunity to begin aligning around a single, nationwide pre-entry covid screener to reduce the duplication of effort, allow for greater standardization of screening protocols across VISNs, and ensure protocols are updated quickly and timely through the use of common technical architecture.
 
 A further, and potentially more important opportunity is to leverage the opportunity for a subtle behavior change in patients and visitors to VHA facilities. By encouraging a digital interaction with the VHA prior to entering a VHA facility, patients and visitors will feel more comfortable and be more prepared to engage in more complex and engaging pre-visit activities through digital means. For example, in addition to completing a mandatory pre-entry covid screen, a patient could "level up" on their next visit to using the same or an adjacent tool to check in for their appointment or receive up to the second instructions on which entrance to use or whether to wait in their car instead of a crowded waiting room.
 
-Beyond activities closely tied to the physical proximity of a patient or visitor to a VHA facility (e.g. completing an entry screener or checking in for an appointment), the possibilty of high levels of engagement in pre-visit activities such as questionnaire or health summary submission become more possible. However, to cross the digital divide to reach patients and visitors that would not otherwise consider interacting with VHA digitally, we have to start small. OCTO views this as an excellent opportunity to do just that.
+Beyond activities closely tied to the physical proximity of a patient or visitor to a VHA facility (e.g. completing an entry screener or checking in for an appointment), the possibility of high levels of engagement in pre-visit activities such as questionnaire or health summary submission become more possible. However, to cross the digital divide to reach patients and visitors that would not otherwise consider interacting with VHA digitally, we have to start small. OCTO views this as an excellent opportunity to do just that.
 
 ## Proposal
 
-OCTO proposes to build a common pre-entry covid screener delivered on VA.gov. The initial tool will be based on experiences collected from VHA colleagues and direct observations of the Durham VAMC localized implementation and will evolve iteratively based on quantitative and qualitative data collected from patient and visitor users. As engagement with the pre-entry screener increases, OCTO will rapidly scale out to incoporate other common sense functionality, such as appointment check in or customized facility updates and wayfinding. As the product continues to grow, it will link up with a concurrent effort already underway by OCTO to define and deploy a high value pre-visit experience.
+OCTO proposes to build a common pre-entry covid screener delivered on VA.gov. The initial tool will be based on experiences collected from VHA colleagues and direct observations of the Durham VAMC localized implementation and will evolve iteratively based on quantitative and qualitative data collected from patient and visitor users. As engagement with the pre-entry screener increases, OCTO will rapidly scale out to incorporate other common sense functionality, such as appointment check in or customized facility updates and wayfinding. As the product continues to grow, it will link up with a concurrent effort already underway by OCTO to define and deploy a high value pre-visit experience.
 
-In addition to a robust pre-entry tool focused on patients and visitors, OCTO will also explore and, if approrpriate, implement a specific tool for VHA employees, contractors, and other frequent visitors. This may simply be a branch in the logic of the patient and visitor focused tool, or it may be a unique experience altogether.
+In addition to a robust pre-entry tool focused on patients and visitors, OCTO will also explore and, if appropriate, implement a specific tool for VHA employees, contractors, and other frequent visitors. This may simply be a branch in the logic of the patient and visitor focused tool, or it may be a unique experience altogether.
 
-OCTO will use the following foundational concepts to shape the first iteration of the pre-entry screenign tool. These concepts will be revised and refined based on information continuusly gathered from the field:
+OCTO will use the following foundational concepts to shape the first iteration of the pre-entry screening tool. These concepts will be revised and refined based on information continuously gathered from the field:
 
 - Screening questions should tie back to the latest CDC guidance;
 - Screening should take place as early as possible in a persons visit to a VHA facility, ideally before they have physically entered the facility;
@@ -43,7 +43,7 @@ During the initial phase of this work, the following are not in scope:
 - the ability to localize the pre-entry screener to individual facilities;
 - integration of the pre-entry screener with the electronic health record system or other patient-specific system;
 - the requirement that a patient "log in" to access the pre-entry screener; and
-- the use of usage or behaviorial data gathered from the tool for epidemological purposes without further study and validation.
+- the use of usage or behavioral data gathered from the tool for epidemiological purposes without further study and validation.
 
 ## Team
 
