@@ -130,7 +130,7 @@ However, when we look at top pages by logged-in vs. logged-out users, we can see
 
 ### Logged-in users are more interested in checking the status of their benefits or accessing their records. 
 
-For logged-in users on the modernized VA.gov, there were **(7 tools)** in the top 25 pages and only **(3 "explore/apply)** pages. The **claim status tool (~31MM pageviews)**, **GI Bill statement of benefits (~4MM pageviews)**, **download you VA benefit letters (~3.8MM)**, **the facility locator (~2.4MM)**, and **refill and track prescriptions (~1.3MM)** all made it into the top 25.
+For logged-in users on the modernized VA.gov, there were **(7 tools)** in the top 25 pages and only **(3 "explore/apply)** pages. The **claim status tool (~31MM pageviews)**, **GI Bill statement of benefits (~4MM pageviews)**, **download your VA benefit letters (~3.8MM)**, **the facility locator (~2.4MM)**, and **refill and track prescriptions (~1.3MM)** all made it into the top 25.
 
 Additionally, while we can't see a breakdown of what logged-in users do in the non-modernized site data, we know that all of the tools on MyHealtheVet require people to be logged in to use them. Therefore, we can extrapolate that the most popular tools besides the claim status tool are the health care tools, with **secure messages (~56MM pageviews)**, **prescriptions refills (~47MM pageviews)**, and **labs and tests (~25MM pageviews)** receiving the most use.
 
