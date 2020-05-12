@@ -95,6 +95,9 @@ Each application or logical section of the site will have a heading and a detail
 - [Create a marketing message for ESLint axe check rule(s) - #8669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8669)<br/>
 **Production** | **Opened:** May 5, 2020
 
+Back to [Table of Contents](#table-of-contents)
+
+---
 ### Formation Design System
 
 **Maintainer:** VSP<br/>
@@ -120,6 +123,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[IMPROVEMENT]: Address Block - CONSIDER adding a component and structured data - #8859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8859)<br/>
 **Production** | **Opened:** May 6, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
+---
 ### Site-wide
 
 **Maintainer:** VSP & VSA<br/>
@@ -175,12 +181,16 @@ Each application or logical section of the site will have a heading and a detail
 - [Consider displaying Veterans Crisis Line info in footer on screens 767px wide and smaller - #3459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3459)<br/>
 **Production** | **Opened:** November 13, 2019 | **_Enhancement_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 ### VA Developer Portal
 
 **Audit Status:** Issues logged by VSP Product Support in Q1 2019 audit<br/>
 **[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion)**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -193,7 +203,9 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues
 
 - [[KEYBOARD]: Outreach materials - focus should be set on the number of results on pagination keypress or click - #981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/981)<br/>
-  **Opened:** August 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** August 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -203,6 +215,8 @@ Each application or logical section of the site will have a heading and a detail
 
 **Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
 **No open issues**<br/>
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -215,11 +229,15 @@ Each application or logical section of the site will have a heading and a detail
 - [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 - [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Profile Appointment Text Messages
 
 **Audit status:** First audit completed by VSP Product Support Team October 2019<br/>
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -230,7 +248,9 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues** identified by VSP Product Support
 
 - [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -247,7 +267,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[CI/CD]: Continue exploration of description list refactoring for all-claims accessibility checks - #8595](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8595)<br/>**Production** | **Opened:** April 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests - #7319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-  **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
+**Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -269,6 +291,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in 2346 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7318)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### 526 PTSD
@@ -279,7 +303,9 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #5190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5190)<br/>
-  **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -292,6 +318,8 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in Claims Status end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7313)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### HCA Dashboard Notifications
@@ -301,6 +329,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in hca end-to-end tests - #7384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7384)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -320,11 +350,15 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** June 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[CI/CD]: Review coverage of accessibility checks in pre-need end-to-end tests - #7404](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7404)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### VA Letters
 
 **No open issues**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -334,6 +368,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in pensions end-to-end tests - #7403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7403)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 ### VSA Caregivers
@@ -341,6 +377,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -356,7 +394,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear - 4784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
   **Opened:** January 13, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER] Individual disabilities currently in individual `<dl>` would be improved in a single `<dl>` - 4637](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
-  **Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -365,6 +405,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in 686/686c-674 end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7315)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -377,7 +419,9 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -391,6 +435,8 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[CI/CD]: Review coverage of accessibility checks in EDU feedback-tool end-to-end tests - #7349](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7349)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Edu 1990
@@ -400,6 +446,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -411,6 +459,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Edu 1990n
@@ -421,6 +471,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Education 1995 STEM Update
@@ -428,6 +480,8 @@ Each application or logical section of the site will have a heading and a detail
 **Audit status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
 **No open issues**<br/>
 **[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -437,6 +491,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Edu 0994
@@ -444,6 +500,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -453,6 +511,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Edu 5495
@@ -461,12 +521,15 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[CI/CD]: Review coverage of accessibility checks in Education apps' end-to-end tests - #7348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7348)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 #### Edu 10203 STEM Benefit Form
 
 **Audit status:** Audited by VSP Product Support and VA 508 Office April 2020. VA 508 office found no issues.<br/>
 **No open issues**
 
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -475,6 +538,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [[CI/CD]: Review coverage of accessibility checks in EDU apply-wizard end-to-end tests - #7350](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7350)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -499,7 +564,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
   **Opened:** July 8, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[AXE-CORE]: Facility Locator - Provider Detail page has an UL that needs to be nested properly - #360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/360)<br/>
-  **Opened:** June 21, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** June 21, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -521,6 +588,8 @@ Each application or logical section of the site will have a heading and a detail
 - [[SCREENREADER]: 'Directions' links SHOULD have accessible names](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6894)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 - [[COLOR, COGNITION]: CONSIDER changing background of map attribution](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6892)<br/>**Production** | **Opened:** March 16, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 ### VSA Public Websites
@@ -539,6 +608,8 @@ Each application or logical section of the site will have a heading and a detail
 - [CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6507)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6339)<br/>**Production** | **Opened:** February 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Disability Calculator
@@ -551,12 +622,16 @@ Each application or logical section of the site will have a heading and a detail
   **Opened:** August 16, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in disability-rating-calculator end-to-end tests - #7320](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7320)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### Local Side Navigation
 
 **Audit status:** Completed June 2017<br/>
 **No open issues**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -577,7 +652,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -590,7 +667,9 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 
 - [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -609,7 +688,9 @@ Each application or logical section of the site will have a heading and a detail
 - [[COGNITION]: GIBCT - "Learn more" is used for modals and windows to new content - #1132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1132)<br/>
   **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1277)<br/>
-  **Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -621,6 +702,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[SCREENREADER]: GIBCT® VETTEC - Can we move the Learn more buttons out of the label tags? - #1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/>
   **Opened:** August 22, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -629,6 +712,8 @@ Each application or logical section of the site will have a heading and a detail
 **Audit status:** Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019.<br/>
 **No open issues**<br/>
 **[Test application](https://staging.va.gov/gi-bill-comparison-tool/)**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -649,6 +734,8 @@ Each application or logical section of the site will have a heading and a detail
 - [[COGNITION]: GIBCT Section 116 - VoiceOver is spelling out some all caps text instead of reading it - #3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 #### GI Bill Comparison Tool Caution Flags
@@ -658,6 +745,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
 **Opened:** April 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -686,6 +775,8 @@ Each application or logical section of the site will have a heading and a detail
 - [[DOCUMENT]: GIBCT SCO - CONSIDER adding headers to the Dear SCO letter - #8765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8765)<br/>
 **Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
+Back to [Table of Contents](#table-of-contents)
+
 ---
 
 ### VFS Veterans Affairs Online Scheduler (VAOS)
@@ -695,6 +786,8 @@ Each application or logical section of the site will have a heading and a detail
 **Open issues**
 - [[SCREENREADER]: VAOS - Past appointments MUST manage focus when users filter their appointments - #8912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8912)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION]: VAOS - CONSIDER making the Past Appointments update button enabled at all times - #8940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8940)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
@@ -719,6 +812,8 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 - [[COGNITION] CONSIDER adding a heading before "Longer than 1 year" - #7847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7847)<br/>
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
 
+Back to [Table of Contents](#table-of-contents)
+
 --- 
 ### Covid-19 Resources (VSA Public Websites)
 
@@ -733,6 +828,8 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 ! team to find out who is responsible for creating the accessible PDF, I am 
 ! setting this as a 2.
 ```
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 ### Find Forms MVP
@@ -759,6 +856,14 @@ Back to [Table of Contents](#table-of-contents)
 **Open issues**
 
 - [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites" - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>**Staging** | **Opened:** May 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### COVID-19 Chatbot
+
+**Audit status:** _App in production. This application has some dependencies being adjusted, and will be queued for review as soon as possible._<br/>
+**[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**
 
 Back to [Table of Contents](#table-of-contents)
 
