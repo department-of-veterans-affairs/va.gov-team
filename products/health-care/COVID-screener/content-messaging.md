@@ -93,17 +93,20 @@ _[potential alt for grammar so we can add an "a" before "sore throat, runny nose
 Do you currently have a sore throat, runny nose, or nasal congestion?
 
 
-# Pass
+# Pass/Fail
 
-PASS 
+Please leave this screen open and show it to the staff member at the facility entrance.
+
+**These results are valid for:**
 Tuesday
-May 12
-1:23 p.m.
+May 12, 2020
+
+**Note:** To start the screener again, please select "Restart." You can't take this screener more than once per day.
 
 [button] Restart
 
 _[Questions for this screen]
 
-1) I wonder a bit about "Pass/Fail" kind of language from an empathy standpoint, as well as whether it risks putting the user in the mind frame of this being a test they should try to pass (especially if they're taking it multiple days). I'd like to understand what the next step might be for the user before recommending potential alt language. 
+1) I wonder a bit about "Pass/Fail" kind of language from an empathy standpoint, as well as whether it risks putting the user in the mind frame of this being a test they should try to pass (especially if they're taking it multiple days). Wondering if we can use just color to indicate 
  
-2) What happens if the user clicks, "Restart"? Does it let the user take the screener again?
+2) What happens if the user clicks, "Restart"? Does it let the user take the screener again? Wondering if we should put a note on there about not taking the screener more than once per day?
