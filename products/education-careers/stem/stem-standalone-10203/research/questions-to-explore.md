@@ -5,7 +5,7 @@
 
 ### Chapter 33 Benefits
 * In the event the applicant is a Post-9/11 GI Bill beneficiary AND a Fry Scholar, would the benefit periods run sequentially? 
-* If the user was previously Chapter 33, but now is using a non-Chapter 33 benefit, would they remain eligible for the Rogers STEM Scholarship?
+* If the user was previously Chapter 33, but is now using a non-Chapter 33 benefit, would they remain eligible for the Rogers STEM Scholarship?
 
 ### School, STEM Program & CIP Code
 * What information about the STEM program does the team in Buffalo need to research the application? 
