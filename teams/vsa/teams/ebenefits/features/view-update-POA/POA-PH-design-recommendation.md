@@ -26,6 +26,6 @@
     - Combine Payments and Return Payments into one ledger. Veterans are familiar with a ledger with debit and credits. 
     - The Disclaimer text is confusing and poorly labeled. Creating a FAQ section may make the content more palatable.
     - Display the Veteran's financial information on the page:  
-          - The Veteran's bank
-          - The account linked to their direct deposit
-          - Link payments to their claims
+       - The Veteran's bank
+       - The account linked to their direct deposit
+       - Link payments to their claims
