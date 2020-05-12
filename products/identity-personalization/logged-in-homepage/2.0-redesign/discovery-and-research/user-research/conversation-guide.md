@@ -64,16 +64,18 @@ Great! Thanks for sharing all of that with me.  Let's get started. I'm going to 
 
 *Begin screen sharing*
 
-Can you see my screen?  Great! This is a tool called Mural. This is what we'll use to create a rough version of your personalized page.  
+Can you see my screen?  Good. This is a tool called Mural. This is what we'll use to create a rough version of the personalized page you'd want to see when you log into VA.gov.  For our exercise today, let's imagine anything is possible. As we talk about what's important to you, think about anything and everything VA that would be helpful for you to see or have access to when you log in.  eBenefits, My healthE Vet - anything is fair game.  
 
 You can see here that I've set up some blank sticky notes for us to get started, and I created some outlines to use as pages. One can represent the personalized page you see when you log in to VA.gov; I created the other in case there's another place on va.gov that makes more sense for any of the items.
 
 First, we'll use the stickies to create items to put on the page.  Then, we'll organize them in the way that would be the most useful to you, if it were a real page.  
 
-- To get started, let's create some stickies for the items that are important for you to see when you log in. Again, just a reminder that we're talking about a personalized page that is specific to you, not a generic page for all Veterans.  
-  As we create the stickies, we'll talk through why each one is important to you.
+- So, let's create some stickies for the items that are important for you to see when you log in. Again, just a reminder that we're talking about a personalized page that is specific to you, not a generic page for all Veterans.  It'll be helpful if you can also talk about why each item is important to you.
+  
+What would you want to see when you first log in to VA.gov?
 
-- You mentioned the last time you logged into VA.gov was to [state action].  Would stickies. around those actions be a good place to start?
+*If participant hesitates*
+- You mentioned the last time you logged into VA.gov was to [state action].  Would stickies around those actions be a good place to start?
 
   -   *Create sticky notes with each item.*
   -   ***Can you share details on why that's important to you?***
@@ -82,9 +84,9 @@ First, we'll use the stickies to create items to put on the page.  Then, we'll o
 
 - Why are those things the most helpful for you?
 
-- Okay, I'd like to show you some other stickies I made ahead of time that I thought might spark some interest for you.
+- Okay, I'd like to show you some other stickies I made ahead of time that I thought might spark some interest for you. It's completely fine if none of these are things you'd care to see when you log in. Just let me know and we can set them aside.
 
-- Take a moment to review them, and think out loud as you do - I'd love to know how these resonate with you.  If you spot any duplicates before I do, let me know so we can de-clutter.
+- Take a moment to review them, and think out loud as you do - I'd love to know how these resonate with you.  
 
   *Allow participant to review cards and encourage them to verbalize their thoughts as they do so.*
 
@@ -106,7 +108,7 @@ Great! Now, we'll move on to our pages.
 
 As I said earlier, one can represent the personalized page you see when you log in to VA.gov; I created the other in case there's another place on va.gov that makes more sense for any of the items. We can make more pages later, if we need them.
 
-First, let's organize the stickies on your personalized page in the way that reflects how important they are to you. Tell me where to put each one, and we'll talk about why it would be helpful for you to have it there.  You can use the annotation tool to point if that's easier to guide where things go.  If there are stickies that are important to you, but you don't feel like the page is the right place, we can work with them later.
+First, let's organize the stickies on your personalized page in the way that reflects how important they are to you. Tell me where to put each one, and we'll talk about why it would be helpful for you to have it there.  If there are stickies that are important to you, but you don't feel like the page is the right place, we can work with them later.
 
 -   *Organize stickies with participant, encouraging them to continue thinking out loud and asking for clarification.*
 -   *Use size to help reflect priority*
@@ -114,8 +116,7 @@ First, let's organize the stickies on your personalized page in the way that ref
 -   *As appropriate, ask*
     -   ***Can you share details on why that's important to you?***
     -   ***What actions did you take when you looked at that in the past?***
-    -   If they'd expect to have access to those from anywhere else in the site
-    -   If participants have trouble, ask questions based on what they already mentioned was a priority.
+    -   If participants have trouble, ask questions based on what they mentioned was a priority in the warm-up interview.
 -   *Once it feels like they're done:* It feels like we're slowing down and things might be in a pretty good place.  How are you feeling about what we've done here? Do we need to make any adjustments?
 -   Now let's revisit the other stickies that aren't on a page yet. 
     -   Why are these still important?
@@ -125,13 +126,9 @@ First, let's organize the stickies on your personalized page in the way that ref
 ### Things to watch for:
 
 - Does any part of the organization cause the participant to hesitate or get stuck?
-
 - What sections or groupings does the participant create?
-
 - Does the participant make any distinction between the homepage and another possible section of the site (profile)?
-
 - Where does the participant place notification related items?
-
 - What expectations does the participant have around notifications and updates?
 
 ## Backup Task 1 - 20 minutes    
@@ -192,24 +189,20 @@ Alright, now let's take a look at what we've got in these categories.
 ### Things to watch for:
 
 -   Does any part of the organization cause the participant to hesitate or get stuck?
-
 -   What sections or groupings does the participant create?
-
 -   Does the participant want to add even more categories?
-
 -   Where does the participant place notification related items?
-
 -   What expectations does the participant have around notifications and updates?
 </details>
 
 ## Third Task: Discuss current logged-in experience - 5 minutes
 
-The last thing I wanted to review with you is the current logged in homepage.
+The last thing I wanted to review with you is the current logged-in homepage.
 
 -   I'd like to learn more about your thoughts on the current logged-in experience.
 -   Tell me how what you see lines up with your expectations.
 -   Is this what you typically see when you log in?
--   Our session today has been focused a personalized homepage - how do you see that as being different from your profile?
+-   Our session today has been focused a personalized page - how do you see that as being different from your profile?
 
 That's helpful, thank you!
 
@@ -221,6 +214,6 @@ That's helpful, thank you!
 -   Do you have any other thoughts on anything we discussed today you want to be sure to share before we wrap up?
 -   Any questions for me?
 
-### Thank-You and Closing - 1 minute
+## Thank-You and Closing - 1 minute
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful as we continue to work on the site and make sure it really works for Veterans. Thank you so much again, and enjoy the rest of your day!
