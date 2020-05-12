@@ -57,7 +57,7 @@ Data can be divided into two major buckets — the data for the “modernized”
 
 ### On the modernized site (va.gov), the claim status tool is king.
 
-Whether we are looking at data by pageviews **(~60MM)** or popular landing pages **(~5.4MM sessions)**, the claim status tool is the most popular tool on the modernized VA.gov. Information on how to apply for disability benefits **(~2.6MM pageviews)** and the disability hub **(~1.7MM pageviews)** are also popular.
+Whether we are looking at data by pageviews **(~60MM)** or popular landing pages **(~5.4MM sessions)**, the claim status tool is the most popular tool on the modernized VA.gov outside of the homepage. Information on how to apply for disability benefits **(~2.6MM pageviews)** and the disability hub **(~1.7MM pageviews)** are also popular.
 
 [Top 25 pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/)
 
