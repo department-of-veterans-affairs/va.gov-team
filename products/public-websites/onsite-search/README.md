@@ -73,21 +73,20 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 - Search.gov GitHub Repository for VA.gov implementation https://github.com/GSA/search-gov-agency-collaboration
 - VA.gov XML Site Map - https://www.va.gov/sitemap.xml
 ## Product
-Initial focus will be given to assessing the current state of the search product, including:
-- Is the auto-generated site xml map for VA.gov optimal for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). 
-- Have we provided sitemaps for all or many of the VA.gov subdomains (site map indexing is preferred to crawling)
-Then, we will look to implement a series of modern search features, including: 
-- Type-ahead - available via Search.gov API
-- Highlighting
+There are four areas of focus for this initiative:
+1. Optimizing site indexing to ensure surfacing of the most relevant results in both on-site and organic search.  Key questions:
+- Is the auto-generated site xml map for VA.gov best structured for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). 
+- Have sitemaps been provided for all or the prioritized VA.gov subdomains (site map indexing is preferred to crawling)
+2. Implement and/or improve the VA.gov utilization of available Search.gov features, including: 
+- Type-ahead - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896 
+- Routed query - https://search.gov/manual/routed-queries.html
+- Event-based analytics (via js code snippet) - available in late May/early June 2020
+- Enhanced use of Best Bets/Top Recommendations
+3. Determine if/when other Search.gov features can be leveraged by VA.gov given the API-based implementation.  These include: 
 - Spelling suggestions - https://open.gsa.gov/api/searchgov-suggestions/
-- Related searches
-- Event-based advanced analytics (via js code snippet)
-- Routed queries
-- Faceted search via collections
-- Improved use of Best Bets
-As part of the Product discovery process, we will take a more holistic and expansive look at broader on-site search trends and features to ensure we consider all best practices.  Examples include:
-- Search Engine Result Page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
-- 
+- Faceted search via collections - https://search.gov/manual/collections.html
+- YouTube videos - https://search.gov/manual/youtube.html (if a priority to the business)
+As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 
 ## User Insights
 - 
