@@ -186,9 +186,9 @@ Of the modernized VA.gov's almost **8.7MM** users, about **49% (~4.3MM)** go to 
 
 **Recommendation**: Given significantly lower activity, continue with plan to retire My VA permanently.
 
-### As mentioned above, many people come to the homepage directly. They also come to the homepage through the sign in flow, and then through many of the site's most popular pages.
+### Most people start directly on the homepage, but some people reorient themselves their throughout their session.
 
-People come to the homepage through the **sign in flow (~6MM combined through DS logon, MHV, and ID.me)** and many of the other popular pages on the site, including the **claim status tool (~2.4MM)**, **view payment history (~455K)**, and **refill and track prescriptions (~360K)**.
+The bulk of the homepage's views are as people's entrance **(25MM pageviews)** into VA.gov. In smaller numbers, people re-orient themselves on the homepage throughout their session. The **claim status tool (~2.4MM pageviews)**, **view payment history (~455K pageviews)**, and **refill and track prescriptions (~360K pageviews)** were some of the top pages people were on before they made their way back to the homepage.
 
 [Top 25 pages before the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/)
 
