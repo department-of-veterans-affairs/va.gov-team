@@ -56,18 +56,18 @@ I have a website I want you to visit - I can send you the link via chat in Zoom 
  - If spelled out, **https://bit.ly/2xARJgI**
 
 
-For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
+For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you're talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
 
 When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
 
-Since we are testing on mobile, we can't see what you are tapping on the screen, so if you could tell us what you are tapping, that would be very helpful.  
+And, one last thing... we can't see exactly what you are tapping on the screen, so **before** you actually click on anything, stop and let me know what you're looking at and want to click on.  Then we'll know and I'll give you the OK.   Make sense? 
 
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
 
 You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending University of California-Berkeley?
 
-_Potential prompt:_ Let's say you were interested in taking classes at this school remotely, how would you go about incorporating that information?  
+_Potential prompt:_ Let’s say you received $3000 from your local Rotary Club to help fund your education. How would you go about factoring in that money? 
 
 Things to watch for:
 - How does the user select the school (School name or View Details)?
@@ -86,19 +86,19 @@ Calculate button
 
 - Mobile: Do users expand and collapse the bottom sheet? If so, how?
 
-Upon completion of task: 
+**Upon completion of task:** 
 - How did you think that went? 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 - Were you able to find what you were looking for?  Did it seem like anything was missing?
 - Do you have any questions about the benefits you would receive at this school?
 
-Accordions:
+**Accordions:**
 Let's take a look at the Estimate Your Benefits part of the page.
 - What did you think of the accordions (Your benefits, Learning format and schedule, Scholarships and other funding)?  
 - What did you think of how the questions were grouped together?
 - When you were clicking through the accordions, what did you think about how they opened and closed?
 
-Mobile:
+**Mobile:**
 - Mobile: What did you think of the sticky pop-up/bottom sheet displayed within the EYB section?
 - Mobile: What did you think of the values shown in the sticky pop-up/bottom sheet (collapsed and expanded)?
 - Mobile: When do you think those numbers should update? (as you make selections or after clicking Calculate)
@@ -106,7 +106,7 @@ Mobile:
 - Mobile: What do users think of the size of the expanded sheet (e.g. too big, too small)?
 
 ## Second Task: OJT or VET TEC - 10 minutes
-OJT - A friend of yours told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  Can you find that data center and let me know what benefits you would receive if you trained with this employer?
+OJT - A friend of yours told you that **RAGING WIRE DATA CENTER in Sacramento, CA** provides on-the-job training for veterans in data science.  Can you find that data center and let me know what benefits you would receive if you trained with this employer?
 
 VET TEC - A friend of yours told you that **GALVANIZE INC** is a VET TEC training provider with a program in San Francisco, CA for data science.  Can you find that provider and let me know what benefits you would receive if you took this program?
 
