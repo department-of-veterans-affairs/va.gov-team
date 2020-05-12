@@ -20,7 +20,7 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <h2 id="toc_3">Method</h2>
 
-<p>- We will conduct a usability test with 8-10 active Service Members. </p>
+<p>- We will conduct a usability test with approximately 8 active Service Members. </p>
 <p>- We will be conducting a remote, moderated usability study.</p>
 <p>- We will use Zoom to conduct these sessions.</p>
 <p>- The session will include a short interview (5 min) about their former BDD experiences.</p>
@@ -28,9 +28,9 @@ The initial usability testing was done with Invision and the BDD flow has been m
 
 <h2 id="toc_4">Participants and Recruitment</h2>
 
-<p>We would like to interview 8-10 participants.</p>
+<p>We would like to interview 8 participants.</p>
 <ul>
-<li><p>In order to get 8-10 participants, we would like Perigean to schedule 15 participants total, with the expectation that there will be a max of 7 no-shows.</p></li>
+<li><p>In order to get 8 participants, we would like Perigean to schedule 13 participants total, with the expectation that there will be a max of 5 no-shows.</p></li>
 <li><p>For the participants Perigeon recruits:</p></li>
 <li><p>All Participants must be active Service Members.</p></li>
 <li><p>Ideally 4 participants have started or submitted a BDD claim. </p></li>
