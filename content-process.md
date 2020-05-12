@@ -5,8 +5,7 @@
 - The team will review all [`content_change`](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Acontent_change) issues as part of the regular grooming process and pull them into the team 
 
 # Process for updating the content within the Chatbot
-- Content editor updates markdown file
-- Markdown file is turned into Javascript ([automatically](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/Jenkinsfile#L46))
+- Updated Markdown file is turned into Javascript ([automatically](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/Jenkinsfile#L46))
 - File needs to be uploaded to healthbot (manually) 
 - Once QA passes, automated process to move from DEV →  Staging →  Prod 
   - A script needs to be created 
