@@ -6,7 +6,7 @@
 
 ---
 
-Once you have your product's KPIs, fill out the Github request template (link to be added) with your KPIs linked to the template.
+Once you have your product's KPIs, fill out the [Github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-product-success-tool.md&title=Analytics+Product+Success+Tool+Request+for+%5BTeam%5D) with your KPIs linked to the template.
 
 In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **linked to OKRs or product/user goals.** 
 
@@ -31,4 +31,13 @@ Additional Definitions:
 - "I would like to see how many PDF downloads are happening after Urgent Care searches"
 - "I would like to see how many users are using the search term "Urgent Care""
 
+Additional Examples:
+- "Average page load time for va.gov/decision-reviews" *over* "page load time"
+
 We may reach out for a follow up meeting to further define your goals. 
+
+### Follow Up
+
+We ask that you report updates to or usage of your metrics in public spaces, such as Team of Teams or Slack. (This section may be updated in the future with additional guidance). 
+
+As you track your KPIs, you may find that previous assumptions may have been changed or that your metrics no longer back your product success. In case your KPIs themselves need to be updated, please feel free to reach out to fill out the [request issue template]( ) again and we can initiate an update to your dashboard. 
