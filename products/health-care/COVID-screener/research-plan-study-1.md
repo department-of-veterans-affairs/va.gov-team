@@ -26,7 +26,7 @@ Currently the prototype solution is available online, we may have a 2.0 version 
 Preference for now is to use a ZoomGov account but will consider any option that will allow a user to remotely share their mobile screen.
 
 ## Participants and Recruitment	
-Targeting 8 users including a mix of Veterans, non-Veteran visitors, and VA medical center employees. All must have recently visited a VAMC (within 6 months). Strong preference for anyone who has visited a VAMC in the last month.
+Targeting 5 users including a mix of Veterans, non-Veteran visitors, and VA medical center employees. All must have recently visited a VAMC (within 6 months). Strong preference for anyone who has visited a VAMC in the last month.
 
 Research recruiting contract required to supply participants.
 
