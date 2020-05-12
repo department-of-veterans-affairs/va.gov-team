@@ -43,7 +43,7 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 You are considering attending **UNIVERSITY OF CALIFORNIA-BERKELEY** for data science and want to know what costs (including tuition, fees, etc.) are covered under the Post 9/11 GI Bill. How would you use the Comparison Tool to find out what benefits you would receive if attending University of California-Berkeley?
 
-_Potential prompt:_ Let's say you were interested in taking classes at this school remotely, how would you go about incorporating that information?  
+_Potential prompt:_ Let’s say you received $3000 from your local Rotary Club to help fund your education. How would you go about factoring in that money?
 
 Things to watch for:
 - How does the user select the school (School name or View Details)?
@@ -60,13 +60,13 @@ Calculate button
 - When users click Calculate, do they notice which values have changed?
 - When do users expect re-calculations to occur (as they are making them or after clicking Calculate)?
 
-Upon completion of task: 
+**Upon completion of task:** 
 - How did you think that went? 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 - Were you able to find what you were looking for?  Did it seem like anything was missing?
 - Do you have any questions about the benefits you would receive at this school?
 
-Accordions:
+**Accordions:**
 Let's take a look at the Estimate Your Benefits part of the page.
 - What did you think of the accordions (Your benefits, Learning format and schedule, Scholarships and other funding)?  
 - What did you think of how the questions were grouped together?
@@ -83,7 +83,7 @@ You know that the Post 9/11 GI Bill covers Ivy League schools like Brown Univers
   - How do the benefits at this school compare to what you'd get at UNIVERSITY OF CALIFORNIA-BERKELEY?
 
 ## Third Task: OJT or VET TEC - 10 minutes
-OJT - A friend of yours told you that **RAGING WIRE DATA CENTER in Sacramento, CA** does on-the-job training for veterans in data science.  Can you find that data center and let me know what benefits you would receive if you trained with this employer?
+OJT - A friend of yours told you that **RAGING WIRE DATA CENTER in Sacramento, CA** provides on-the-job training for veterans in data science.  Can you find that data center and let me know what benefits you would receive if you trained with this employer?
 
 VET TEC - A friend of yours told you that **GALVANIZE INC** is a VET TEC training provider with a program in San Francisco, CA for data science.  Can you find that provider and let me know what benefits you would receive if you took this program?
 
@@ -92,7 +92,7 @@ Things to watch for:
 -	What, if any, fields do they change within the EYB section?
 - How often and after what actions are users viewing “Estimate your benefits” panel to track changes there?
 
-Upon completion of task: 
+**Upon completion of task:** 
 - How did you think that went? 
 - What did you think of this information versus University of California/Ivy League school?
 - Were you able to find what you were looking for?  Was anything missing?
@@ -107,10 +107,13 @@ Things to watch for:
 -	Where do users try to change their benefit? 
 - Do users realize they can change “Your benefits” values on Search Results page?
 
-Upon completion of task: 
+**Upon completion of task:** 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 ## Post-Task Interview - 5 minutes
+
+Those are all the tasks I have for you today. 
+
 -	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
 -	Any questions for me?
 - I want to give a chanced to the other people on the line to ask a question.
