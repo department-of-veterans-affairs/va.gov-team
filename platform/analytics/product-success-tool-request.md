@@ -10,7 +10,7 @@ Once you have your product's KPIs, fill out the Github request template (link to
 
 In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **linked to OKRs or product/user goals.** 
 
-*If you e support with determining your KPIs or linking them to OKRs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165) or feel free to reach out to VSP Analytics & Insights on the #vfs-platform-support channel.
+*If you need support with determining your KPIs or linking them to OKRs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165) or feel free to reach out to VSP Analytics & Insights on the #vfs-platform-support channel.
 
 [VFS example of KPIs and OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md)
 
