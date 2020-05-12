@@ -13,7 +13,7 @@ We won't store or share any of your data.
 
 # Question 1
 
-**Question 1 of 6** _[Can we include the "of [total #]" to keep progress signal throughout screening?]_
+**Question 1 of 6** _[Can we include the "of [total #]" to keep progress signal throughout screening? Will update content thoughts in alignment with revised design approach to making employee option more of an opt-out]_
 
 Are you a:
 
