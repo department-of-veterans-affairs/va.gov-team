@@ -1,1 +1,1 @@
-
+## For WIP visual wireframe of form detail landing page and content fields, see: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files
