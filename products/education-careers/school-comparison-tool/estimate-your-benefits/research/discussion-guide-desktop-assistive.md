@@ -60,7 +60,7 @@ Okay. Now I'd like you to open a new browser window or tab.
 
 I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the Url - which would you prefer?
 
- - Fill in link here
+ - **[https://bit.ly/2XFnKix](https://bit.ly/2XFnKix)**
 
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
