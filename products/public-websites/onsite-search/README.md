@@ -117,7 +117,7 @@ the search.gov account# for this product is 7378
 
 ### Technical Decisions
 
-## Service Level Objectives (SLOs)
+## Service Level Objectives
 These are currently defined as alerts that trigger pagerduty for a product.
 - [Search related alerts here](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/prometheus/rules/application.rules)
 
