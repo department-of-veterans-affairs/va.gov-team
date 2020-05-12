@@ -4,7 +4,7 @@
 
 _(About 5 minutes)_
 
-Thank you for joining us today! My name is Jordana, and I'm a designer and researcher for the VA.gov CMS. I also have some colleagues on the line observing and taking notes for me. Today we're going to be testing a new way for CMS users to review and move content in the editorial workflow. During this test, I will ask you to share your screen so that I can follow along with you.
+Thank you for joining us today! My name is Jordana, and I'm a designer and researcher for the VA.gov CMS. I also have some colleagues on the line observing and taking notes for me. Today we're going to be testing a new way for CMS users to review and move content in the editorial workflow. During this test, I will share my screen with you and, at some point, ask you to take control of my screen, so that you can interact with the prototype.
 
 Before we start, a few things I want to mention:
 
