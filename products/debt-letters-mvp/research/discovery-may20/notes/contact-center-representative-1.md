@@ -1,4 +1,4 @@
-# Contact Center Rep Interview: Brent B. 
+# Contact Center Representative Interview: Brent B. 
 May 11, 2020<br>
 **Rebecca Walsh & Riley Orr**
 
