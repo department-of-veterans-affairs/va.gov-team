@@ -47,7 +47,7 @@ VA 4107 VHA | www.va.gov/find-forms/about-form-va-4107-vha | Home > Find forms >
 
 **Drupal URL Requirements**
 - Drupal will auto-generate the URL based on the specified form data to complete the URL structure above. 
-- The URL, once established, should be locked down so it is not changed if the data is changed - this is to ensure we do not have random URL changes that will impact SEO.
+- The URL, once established, should be locked down so it is not changed if the data is changed - this is to ensure we do not have random URL changes that will create dead links or impact SEO.
 - The auto-generated URL can only be changed by being manually overwritten by the Public Websites team if they choose to do so - changing the URL will likely require redirects to be put in place to transfer SEO juice.
 
 <hr>
@@ -62,7 +62,7 @@ No navigational links will be added to these pages, users will access these page
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/5b75f40f-84ab-4933-96e9-4a00b5952b79)
 
 - External search, VA.gov search, and VA.gov Find form tool results will all include 
-  - a direct link to the online form (preferred)
+  - a direct link to the online tool (preferred)
   - a link to the How to Apply page
   - a direct link to the pdf (least preferred).
   - a link to these form detail pages.
