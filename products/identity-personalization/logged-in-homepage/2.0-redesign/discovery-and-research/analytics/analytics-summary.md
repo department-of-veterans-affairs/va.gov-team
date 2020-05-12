@@ -108,7 +108,39 @@ On the modernized VA.gov:
 - Benefits-related terms like **"direct deposit" (~13K)**, **"cemetery" (~10K)**, and **"certificate of eligibility" (~8K)** are high on the list, which suggests that we may need to elevate these tools more.
 - **"DD214" (~9K)** is high on the list, further reflecting people's desire to get their military records.
 
-[Top search terms on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/17yMINMRQiCe6kcHdjC6tg/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200413&5592-table.plotKeys=%5B%5D&5592-table.rowStart=0&5592-table.rowCount=25/)
+<details>
+  <summary><b>Top 25 search terms on the modernized VA.gov only</b></summary>
+  
+| \(Search Term \- Lowercase\) | SUM of Total Unique Searches |
+|------------------------------|------------------------------|
+| \(other\)                    | 803751                       |
+| benefits                     | 153244                       |
+| health                       | 58827                        |
+| forms                        | 24197                        |
+| jobs                         | 13494                        |
+| direct deposit               | 12723                        |
+| ebenefits                    | 10335                        |
+| tms                          | 10240                        |
+| cemetery                     | 9726                         |
+| dd214                        | 8597                         |
+| certificate of eligibility   | 8154                         |
+| vatas                        | 7867                         |
+| 22\-1995                     | 7492                         |
+| careers                      | 6711                         |
+| vet\_center                  | 6665                         |
+| va forms                     | 6527                         |
+| dental                       | 6304                         |
+| agent orange                 | 5964                         |
+| dbq                          | 5716                         |
+| chapter 35                   | 5376                         |
+| aid and attendance           | 5004                         |
+| coe                          | 4629                         |
+| mission act                  | 4466                         |
+| urgent care                  | 3985                         |
+| champva                      | 3946                         |
+
+  
+</details>
 
 **Recommendation**: Create more direct access to direct deposit, DD214, burial, and certificate of eligibility info in the logged-in experience, whether that is from the homepage or further elevating these items in a logged-in navigation.
 
