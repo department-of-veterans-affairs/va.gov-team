@@ -27,7 +27,6 @@
 - [Implementation Info](#implementation-info)
 - [Solution Narrative](#solution-narrative)
 - [Implementation Info](#implementation-info)
-- [Technical Decisions](#technical-decisions)
 - [Service Level Objectives](#service-level-objectives)
 - [Testing](#testing)
 - [Keywords](#keywords)
