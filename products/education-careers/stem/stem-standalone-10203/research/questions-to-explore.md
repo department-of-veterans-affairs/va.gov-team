@@ -1,7 +1,7 @@
 # Questions to explore with VA stakeholders
 
 ### Reviewing STEM Scholarship Applications
-* What are the team's impressions on how the updated 22-1995 form is performing?  What's the current rate of application rejections? 
+* What are the team's impressions on how the updated 22-1995 form is performing?  What's the current rate of applications - approved and  rejected? 
 
 ### Chapter 33 Benefits
 * In the event the applicant is a Post-9/11 GI Bill beneficiary AND a Fry Scholar, would the benefit periods run sequentially? 
