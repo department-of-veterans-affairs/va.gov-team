@@ -105,7 +105,7 @@ To start the screener again, please select "Restart." You can't take this screen
 
 [button] Restart
 
-_[Questions for this screen]
+_[Questions for this screen]_
 
 1) I wonder a bit about "Pass/Fail" kind of language from an empathy standpoint, as well as whether it risks putting the user in the mind frame of this being a test they should try to pass (especially if they're taking it multiple days). Wondering if we can use just color to indicate 
  
