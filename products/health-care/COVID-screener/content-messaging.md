@@ -107,8 +107,8 @@ To start the screener again, please select "Restart." You can't take this screen
 
 _[Questions for this screen]_
 
-1) I wonder a bit about "Pass/Fail" kind of language from an empathy standpoint, as well as whether it risks putting the user in the mind frame of this being a test they should try to pass (especially if they're taking it multiple days). Wondering if we can use just color to indicate pass/fail? Or maybe we could do something like:
- - Screening complete
- - More screening needed
+1) I wonder a bit about "Pass/Fail" kind of language from an empathy standpoint, as well as whether it risks putting the user in the mind frame of this being a test they should try to pass (especially if they're taking it multiple days). Wondering if we can do something like:
+  - Screening complete
+  - More screening needed
  
 2) What happens if the user clicks, "Restart"? Does it let the user take the screener again? Wondering if we should put a note on there about not taking the screener more than once per day?
