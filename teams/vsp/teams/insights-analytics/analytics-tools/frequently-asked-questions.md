@@ -2,10 +2,10 @@
 
 ## Overview
  - This document intends to serve as a reference to common Google Analytics / insight-related questions our team receives
- - This list will continue to be updated / refined moving forward to include new questions and/or replace other answers
+ - This list will continue to be updated / refined moving forward to include new questions and/or replace with newer answers
 
- ## Table of Contents
-  - Why are my pageviews different in the overview? 
+ ## All Questions
+  - Why are my pageviews different in the overview?
   - Why aren't my user totals adding up? 
   - What are the big amoung of '(other)' pageviews in the All Website data view? 
   - What’s wrong with my goal funnel visualization report? Why is my conversion rate so low? 
