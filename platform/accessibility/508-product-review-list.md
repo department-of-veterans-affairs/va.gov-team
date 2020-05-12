@@ -10,6 +10,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   - [Table of Contents](#table-of-contents)
   - [Helpful links](#helpful-links)
   - [Issues by Application](#issues-by-application)
+    - [Automation](#automation)
     - [Formation Design System](#formation-design-system)
     - [Site-wide](#site-wide)
     - [VA Developer Portal](#va-developer-portal)
@@ -84,6 +85,16 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
+### Automation
+- [[CI/CD]: CONSIDER updating the axe-core library to version 3.x.x for our automated accessibility tests - #8941](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8941)<br/>
+**Production** | **Opened:** May 8, 2020
+- [Create ESLint rules to call axeCheck in E2E tests properly - #8491](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8491)<br/>
+**Production** | **Opened:** April 27, 2020
+- [Create a CircleCI rule that alerts the front-end review team if E2E tests don't include an axeCheck - #8781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8781)<br/>
+**Production** | **Opened:** May 5, 2020
+- [Create a marketing message for ESLint axe check rule(s) - #8669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8669)<br/>
+**Production** | **Opened:** May 5, 2020
+
 ### Formation Design System
 
 **Maintainer:** VSP<br/>
@@ -93,7 +104,7 @@ Each application or logical section of the site will have a heading and a detail
 **Open Issues**
 
 - [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-  **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[SCREENREADER]: Improve the modal windows to prevent AT users from navigating page behind the window screen - #1449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1449)<br/>
 **Production** | **Opened:** August 29, 2019 | **Severity:** 508-defect-2 — **_Serious_**
 - [Update the Additional Info component to be used for Learn More expandable sections in forms - #4330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4330)<br/>
