@@ -4,7 +4,7 @@ Logged-in Homepage Redesign: Comparative Analysis
 Background
 ----------
 
-As part of the larger discovery effort to redesign the VA.gov logged-in homepage, a comparative analysis was conducted to see how other sites handle personalization and content organization on a logged-in homepage.
+As part of the [larger discovery effort to redesign the VA.gov logged-in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/research-plan.md), a comparative analysis was conducted to see how other sites handle personalization and content organization on a logged-in homepage.
 
 This study focused primarily on sites in the banking and insurance industries since they serve as a good model for the VA.gov use case (manage benefits, claims, payments, transactions, view history, etc). We explored a couple of companies outside of these industries based on recommendations in stakeholder interviews.
 
