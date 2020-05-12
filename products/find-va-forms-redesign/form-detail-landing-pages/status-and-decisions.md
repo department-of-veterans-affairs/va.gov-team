@@ -3,6 +3,27 @@
 ## mm/dd/yy
 
 
+## 05/12/20
+
+Status of ETA per call with Beth Jacobson, Andrew Fichter, Jen Lee, and Stephanie Orkand. Beth shared her diagram WIP for final state of API flows. 
+
+__Current target ETA about 5 weeks to get us to Graph QL stage:__
+
+- 1 week to complete content modeling
+- 1 week to migrate VA forms DB
+- 1 week to scrpt migrations for the custom content fields
+- 1 week for CMS team and content team to check/QA migrations
+- 1 week cushion for things that could go wrong
+
+__Who's responsible for what parts:__
+- Connecting to and migrating forms DB into Drupal: Beth
+- Exposing the Graph QL: Beth
+- Grabbing the Graph QL to bring into the Lighthouse forms API: Lighthouse team (Andrew POC)
+
+__RE using sample data to start migration work:__
+- If we used sample data to start, we'd need to do it in staging; and then recreate it in prod. Question/initial thought: Might be better to just do it in prod (don't want to use fake data in prod). TBC. 
+
+
 ## 05/07/20
 
 __Decision re non-VA forms and form detail landing page:__
