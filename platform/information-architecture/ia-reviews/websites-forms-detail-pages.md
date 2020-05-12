@@ -27,7 +27,6 @@
   - The form number will be pulled from the forms data and used in the URL preceeded by "/about-form-"  - exact data field TBD
   - Spaces in form numbers will be replaced by dashes
   - All alpha characters will be lower case
-  - All characters in the form name/number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
 
 ***URL Structure: www.va.gov/find-forms/about-form-[form-nbr]***
 
@@ -35,15 +34,16 @@
 - The breadcrumb will have a consistent structured label that is dynamically generated from form data
   - The form number will be pulled from the forms data and used in the breadcrumb preceeded by "About form"
   - Spacing and capitalization will be displayed as it is in the data
-  - All characters in the form number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
-
+  
 ***Breadcrumb Structure:  Home > Find forms > About form [form number]***
+
 
 Example Form data | Example URL  | Example Breadcrumb
 --- | --- | ---
-10-10ez | www.va.gov/about-form-10-10ez | Home > About form 10-10ez
-21-526EZ | www.va.gov/about-form-21-526ez | Home > About form 21-526EZ 
-VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > About form VA 4107 VHA 
+10-10ez | www.va.gov/find-forms/about-form-10-10ez | Home > Find forms > About form 10-10ez
+21-526EZ | www.va.gov/find-forms/about-form-21-526ez | Home > Find forms > About form 21-526EZ 
+VA 4107 VHA | www.va.gov/find-forms/about-form-va-4107-vha | Home > Find forms > About form VA 4107 VHA 
+
 
 **Drupal URL Requirements**
 - Drupal will auto-generate the URL based on the specified form data to complete the URL structure above. 
@@ -64,7 +64,6 @@ No navigational links will be added to these pages, users will access these page
 - External search, VA.gov search, and VA.gov Find form tool results will all include 
   - a direct link to the online form (preferred)
   - a link to the How to Apply page
-  - a link to the form detail page
   - a direct link to the pdf (least preferred).
   - a link to these form detail pages.
 - This model should be watched to ensure we do not negatively impact SEO for any of the above options and optimize for the best user experience. 
