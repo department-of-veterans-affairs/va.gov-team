@@ -1,5 +1,9 @@
 # Durham VAMC field visit
 
+- [Word doc of all photos taken today](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/photos/12may2020/12may2020-photos.docx)
+
+- [GH directory of all photos taken today](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/COVID-screener/photos/12may2020)
+
 ### Tuesday May 12 @ 7:00 am
 
 Today was the 2nd day of ScreenPass operations at Durham VAMC.
