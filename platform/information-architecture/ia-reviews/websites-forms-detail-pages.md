@@ -27,7 +27,7 @@
   - The form number will be pulled from the forms data and used in the URL preceeded by "/about-form-"  - exact data field TBD
   - Spaces in form numbers will be replaced by dashes
   - All alpha characters will be lower case
-  - All characters in the form name/number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
+  - All characters in the form name/number coming from the data will be used (i.e. we will not drop extra characters such as "VA") (@MIKKI - WE SHOULD CHECK IN WITH BETH JACOBSON TO MAKE SURE THIS IS HOW THE CONTENT MODEL WORKS VIS A VIS HOW DRUPAL PULLS IN FORMS DATABASE FORMS DATA; I'LL LOOP HER IN ON THE PR)
 
 ***URL Structure: www.va.gov/find-forms/about-form-[form-nbr]***
 
@@ -37,17 +37,19 @@
   - Spacing and capitalization will be displayed as it is in the data
   - All characters in the form number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
 
-***Breadcrumb Structure:  Home > Find forms > About form [form number]***
+***Breadcrumb Structure:  Home > ~Find forms~ Find a VA form > About form [form number]***
+
+(@Mikki - just want to make sure below URL structure is still good to use, given the form detail page will now be linked to from the search result listing. I.e., .gov/about-form-[formnumber]  vs. .gov/find-forms/about-form-[formnumber] ?)
 
 Example Form data | Example URL  | Example Breadcrumb
 --- | --- | ---
-10-10ez | www.va.gov/about-form-10-10ez | Home > About form 10-10ez
-21-526EZ | www.va.gov/about-form-21-526ez | Home > About form 21-526EZ 
-VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > About form VA 4107 VHA 
+10-10ez | www.va.gov/about-form-10-10ez | Home > Find a VA form > About form 10-10ez
+21-526EZ | www.va.gov/about-form-21-526ez | Home > Find a VA form > About form 21-526EZ 
+VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > Find a VA form > About form VA-4107
 
 **Drupal URL Requirements**
 - Drupal will auto-generate the URL based on the specified form data to complete the URL structure above. 
-- The URL, once established, should be locked down so it is not changed if the data is changed - this is to ensure we do not have random URL changes that will impact SEO.
+- The URL, once established, should be locked down so it is not changed if the data is changed - this is to ensure we do not have random URL changes that will impact SEO or create dead links every time a form is updated.
 - The auto-generated URL can only be changed by being manually overwritten by the Public Websites team if they choose to do so - changing the URL will likely require redirects to be put in place to transfer SEO juice.
 
 <hr>
@@ -62,11 +64,11 @@ No navigational links will be added to these pages, users will access these page
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/5b75f40f-84ab-4933-96e9-4a00b5952b79)
 
 - External search, VA.gov search, and VA.gov Find form tool results will all include 
-  - a direct link to the online form (preferred)
-  - a link to the How to Apply page
+  - a direct link to the online tool (preferred)
+  - a link to the How to Apply page 
   - a link to the form detail page
   - a direct link to the pdf (least preferred).
-  - a link to these form detail pages.
+  - a link to these form detail pages. (@Mikki - this bullet looks like a duplicate?] 
 - This model should be watched to ensure we do not negatively impact SEO for any of the above options and optimize for the best user experience. 
 
 <hr>
@@ -76,9 +78,9 @@ No navigational links will be added to these pages, users will access these page
 
 - All existing legacy form detail pages will need to be redirected so users do not receive a 404 when trying to visit an old URL from search or old link. 
 - We will do server-side redirects of legacy form detail landing pages with the following approach:
-  - For X number of high search value form detail landing pages, we will do 1:1 redirect mapping from the current legacy form detail landing page to the new.
+  - For X number (about 30) of high search value form detail landing pages, we will do 1:1 redirect mapping from the current legacy form detail landing page to the new.
   - Non-VA forms that rank high will be redirected to their appropriate destination on the corresponding site (i.e. OPM). 
-  - For the remaining (562-X) landing pages, we will do a default redirect to the new main search page URL (va.gov/find-forms)
+  - For the remaining (400/so) landing pages, we will do a default redirect to the new main search page URL (va.gov/find-forms)
 - Specific redirects will be documented in a redirect request ticket.  
 - We will need to identify the data source that will be used to generate the URLs for those legacy detail pages that we need to 1:1 redirect.
  
