@@ -55,7 +55,7 @@ Most sites also welcomed the user with a large greeting that includes their name
 
 ### How do sites organize different types of content within a single logged-in homepage/dashboard view?
 
-I observed a common page structure of:
+A common page structure was observed:
 
 1\. Welcome message
 
@@ -75,7 +75,7 @@ I observed a common page structure of:
 
 -   The service type groups were frequently within a container the user could expand and collapse. 
 
--   Some sites had alert badges on the groupings themselves if there was something important about that particular item
+-   Some sites had alert badges on the groupings themselves if there was something important about that particular item.
 
 -   Most sites did not include any kind of personal or profile information on the logged-in homepage itself.
 
@@ -95,7 +95,7 @@ Text links were common across all the sites, with the dashboard routing users to
 
 Some sites styled links to look like buttons, which was most effective when there was one primary action for the user to take.
 
-There were a couple of sites that used widgets where the user could complete a task right on the page or triggered a modal with a text link to complete an action.  Those felt unnecessarily complicated and cluttered compared to the simpler approach. An exception to this was Chase, which opened a panel upon clicking "pay card".  I liked this compared to other approaches because the darkening/blurring of the background, and the size of the panel helped draw focus to the action.
+There were a couple of sites that used widgets where the user could complete a task right on the page or triggered a modal with a text link to complete an action.  Those felt unnecessarily complicated and cluttered compared to the simpler approach. An exception to this was Chase, which opened a panel upon clicking "pay card".  This was more effective in drawing focus to the action compared to other approaches due to the darkening/blurring of the background, and the size of the panel.
 
 **Takeaways**
 
@@ -111,9 +111,9 @@ This was challenging to evaluate consistently across the sites as many of our sc
 
 When they were available, there was a clear distinction between alerts and notifications.
 
-- Alerts were commonly displayed immediately under the `h1` and frequently not dismissible. Some sites put them in a collapsible container.  Those that I saw were frequently not actionable and a message the company wanted to relay to the user (e.g. an upcoming change), but I did find some examples where a user-specific alert was placed above a company message alert
+- Alerts were commonly displayed immediately under the `h1` and frequently not dismissible. Some sites put them in a collapsible container.  Many were not actionable and contained a generic message the company wanted to relay to the user (e.g. an upcoming change). There were some examples where a user-specific alert was placed above a company message alert.
 
-- Notifications were accessible via an icon in the navigation (bell or envelope), with a badge used to indicate something needed to be read.  Many sites directed users to a dedicated center for these.  An outlier was State Farm, which leveraged a panel overlay to display the message where I could click to take the desired action.  This felt smoother to me than having to first go to a message center to see the message, and then take action.
+- Notifications were accessible via an icon in the navigation (bell or envelope), with a badge used to indicate something needed to be read.  Many sites directed users to a dedicated center for these.  An outlier was State Farm, which leveraged a panel overlay to display the message where a user could click to take the desired action.  This felt smoother to me than having to first go to a message center to see the message, and then take action.
 
 - Some sites used a message center for notifications, which felt like overkill considering the content. "A statement is available." "Your payment has cleared".
 
@@ -129,7 +129,7 @@ This was handled differently across sites.  Banking sites tended to have more ac
 
 The most common items added were "my accounts/policies", profile, and messages.  Most sites had drop down menus for these items and/or a secondary navigation once the user moved away from the dashboard into a deeper section of the site.  The secondary navigation was a nice way to allow users to drill down further into the site.
 
-State Farm allowed users to toggle between the overall site nav and the authenticated navigation, which felt intuitive and easy to use.  Although it is not a common pattern, I think this could provide a great user experience with a solid IA foundation.
+State Farm allowed users to toggle between the overall site nav and the authenticated navigation, which felt intuitive and easy to use.  Although it is not a common pattern, this could provide a great user experience with a solid IA foundation.
 
 Geico's navigation was minimal, and utterly confusing.  Navigating away from the dashboard to almost any part of the site revealed a different navigation pattern, and the user was prompted to log in again repeatedly.
 
@@ -147,7 +147,7 @@ A few sites employed the use of a tile grid to organize content.  While this was
 
 #### Scalability
 
-I kept scalability in mind as I looked through these sites, and felt that the collapsible containers lent themselves nicely to being able to add more sections to the site if needed, and give the user the ability to minimize sections if they wanted.
+We kept scalability in mind as sites were evaluated, and felt that the collapsible containers lent themselves nicely to being able to add more sections to the site if needed, and give the user the ability to minimize sections if they wanted.
 
 USAA took the liberty of adding containers for services the user did not already have in their larger "My Summary" container, with a "learn more" call to action. This sets them up nicely for scaling up as users add services.
 
@@ -185,9 +185,9 @@ Chase took a unique approach to a few things:
 
 ### Fidelity Investments
 
-Fidelity had a unique "welcome" screen upon logging in that screenshot contributors said they never use.  The text-heavy welcome pushes down the main actions far down the page, and has a different look and feel than the rest of the logged in experience once you get into the site. I was surprised by the amount of real estate dedicated to news and other content not specific to the user.
+Fidelity had a unique "welcome" screen upon logging in that screenshot contributors said they never use.  The text-heavy welcome pushes down the main actions far down the page, and has a different look and feel than the rest of the logged in experience once you get into the site. The amount of real estate dedicated to news and other content not specific to the user was surprising.
 
-Folks mentioned they prefer the app when I asked them for these screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
+Folks mentioned they prefer the app when asked for screenshots. The mobile app provides a more personalized experience with direct access to common tasks via the horizontal app menu across the bottom of the screen.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/01-fidelity-post-login.png)
 
@@ -225,7 +225,7 @@ The way users navigated from authenticated to unauthenticated content was partic
 
 USAA did a good job of splitting different offerings (Insurance, Services, Banking), but putting them in a larger "My Accounts Summary" container adds unnecessary complexity to their logged-in homepage.  The content would be easier to quickly digest if there were fewer font weights and colors used.
 
-USAA added sections for offerings the user hasn't signed up for yet (see Services and Banking sections) with "learn more" calls to action.  While it adds to clutter on the page, I do think it's an approach worth noting as it could inform how we help Veterans learn about benefits they are eligible for, but haven't applied for yet. The way it's presented here feels a little tricky since it is seamlessly integrated with the items the user did sign up for, but it also doesn't feel like marketing noise.
+USAA added sections for offerings the user hasn't signed up for yet (see Services and Banking sections) with "learn more" calls to action.  While it adds to clutter on the page, the approach could inform how we help Veterans learn about benefits they are eligible for, but haven't applied for yet. The way it's presented here feels a little tricky since it is seamlessly integrated with the items the user did sign up for, but it also doesn't feel like marketing noise.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/USAA-Desktop-Auth-Home.png)
 
