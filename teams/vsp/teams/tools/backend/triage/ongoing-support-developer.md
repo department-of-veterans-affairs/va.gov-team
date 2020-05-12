@@ -1,81 +1,124 @@
 # Utility Developer Role
 
-The backend tools team can be “interrupted” by unscheduled requests that come in from the support team (often on behalf of a VSA team), leadership, monitoring/ops tooling (Sentry), and other teams and stakeholders at the VA. We want to find some ways to reduce the interruptions for individual team members and clarify who is responsible for handling each request by funneling individual tasks through one person. This person will, handle things that can be handled directly and efficiently and delegate things that cannot. Some specific examples of the kind of requests handled by this developer are:
+[VSP Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/product-dev-support) recieves support requests from VFS teams, VSP leadership, and VA stakeholders. These requests often require direct support from the Backend Tools team. The specific support requirements vary, and can lead to unscheduled context switching for the engineers who are involved.
+
+In an effort to reduce interruptions for the team at large and clarify triage responsibilities, the Backend Tools team will designate a single member of the team each sprint to act as the **Utility Developer**. 
+
+The assignment schedule is available on [PagerDuty](https://dsva.pagerduty.com/schedules#PPGUD8L). :link:
+
+This is a shared responsibility assigned to the entire team, much like handling on-call responsibilities -- and each developer on the team will take a turn in the rotation.
+
+This role and associated tasks are part of several ongoing multi-sprint goals:
+
+* [Triage](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/2297)
+* [Incident Response](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1954)
+* [Global Customer Support](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3675)
+
+##### Monitored Support Channels
+
+* [#vfs-platform-support] - individual support requests from VFS team members
+* [#vfs-sentry-alerts] - Alerts for high-volume or unique "first-seen" errors caught by [Sentry]
+* [#oncall] - Alerts for VSP on-call level issues
+* [#vsp-backend-utility-dev] - Automatic feed of GitHub pull request and commit activity
+
+Some specific examples of the kind of requests handled by this developer are:
 
 * Pull requests for review from VSA teams
-* Requests for assistance from the support team
-* Support requests in the VSA/VSF support channel (#vfs-platform-support)
-* Reviewing sentry errors
-* Supporting oncall develeoper
+* Requests for general assistance in the [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) channel
+* On-call developer support requests
 * Any internal VSP team PRs
+* Review Sentry errors
 * Small, non-critical issues that can be easily stopped/started
 
-There is no intention to permanently assign this role to a single person -- this is a shared responsibility assigned to the entire team much like handling oncall responsibilities -- and each developer on the team will take a turn on a rotating basis.
+## Responsibilities
 
-## What’s the time commitment (Answer: the entire sprint)
+As issues come in, the main job is to: 
 
-This task is part of several ongoing sprint goals:
+1. acknowledge the incoming request
+1. decide on the best person to handle the request
+1. follow up to make sure the request is completed in a timely manner.
 
-* Triage https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/2297
-* Incident Response https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1954
-* Global Customer Support https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3675
+It is *100%* acceptable to delegate the request, whatever it is, to someone more suited to the task - but the first point of contact should be the utility developer. Unless it's an emergency, waiting until standup to discuss assignments for requests helps to minimize interruptions for everyone.
 
-Each developer will get assigned a sprint and will only be responsible for the objectives related to this ongoing responsibility for that sprint. Since this covers *three* ongoing SuperEpics, we’re assigning it like we’d assign any other sprint deliverable.
+---
 
-The utility developer assignment schedule is on PagerDuty: https://dsva.pagerduty.com/schedules#PPGUD8L
+**The utility developer will...**
 
-The role will be assigned to a developer for an entire sprint, running during our standard support/business hours (Mon - Fri, ~9am - 5pm Eastern) starting on Wed at 11am on the first day of the sprint and handing off to the next developer two weeks later when the next sprint begins.
-
-
-## What do I do?
-
-This developer, much like oncall, DOES NOT HAVE TO DO EVERYTHING but _does_ have to be the first point of contact. They will not have any other critical tasks while they are handling these three tasks.
+* be assigned to a developer for an entire sprint
+* be generally available during our standard support/business hours: **M-F 9:00a - 5:00p ET**  :clock5: (adjustable based on time zone)
 
 ### At the beginning of the sprint
 
-* add yourself to the #vfs-backend-utility-dev group
-* make sure you are assigned to each of those three Super Epics listed above
-* unmute #vfs-sentry-alerts, #oncall, and #vfs-platform-support Slack channels if they're muted
-* add yourself as the backend developer on support to the #vfs-platform-support channl
+**The utility developer will...**
 
-### During the sprint, you should monitor the following Slack groups for issues:
+* join the [#vsp-backend-utility-dev] Slack channel
+* make sure they are assigned to both of the support [Super Epics]
+* unmute [#vfs-sentry-alerts], [#oncall], and [#vfs-platform-support] Slack channels (if they're muted)
+* update the [#vfs-platform-support] channel topic with their name
+* attend a hand-off meeting which occurs at 11:00a ET on the planning day (Wednesda) before a new sprint
+* use this time to align with the Backend Tools in standup
+* use this time to communicate any major ongoing issues
 
-* #vfs-platform-support (individual requests from VSF team members)
-* #vfs-backend-utility-dev (automated feed of GitHub PRs and commits)
-* #vfs-sentry-alerts
-* #oncall (general oncall issues and problems)
+### Throughout the sprint
 
-As issues come in, the main job is to acknowledge the incoming request, decide on the best person to handle it, and followup to make sure the request is completed in a timely manner. It is *100%* ok to assign the request, whatever it is, to someone more suited to the task but the first point of contact should be the utility developer. 
+**The utility developer will...**
 
-Unless its an emergency, waiting until standup to discuss assignments for requests will help keep interruptions to a minimum for everyone.
+* be the first point of contact for support issues
+* resolve support requests that can be resolved directly and efficiently
+* delegate support requests appropriately if not directly addressable
+* **_not_** be responsible for resolving every issue directly
+* **_not_** have any other critical task assignments while they are in the role.
 
-### Pull Requests
+### At the end of the sprint
 
-The #vfs-backend-utility-dev channel can be used to track new and resubmitted PRs, as can the GitHub filters in the channel description. We try to have a 24h turnaround, so getting to them quickly is important, especially for small/simple/easy PRs.
+**The utility developer will...**
 
-There are several GitHub filters you can use, all of which are pinned in the #vfs-backend-utility-dev channel. These include filters for [first-time reviews for vets-api](https://github.com/department-of-veterans-affairs/vets-api/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP+NOT+WIP+) and [GIDS](https://github.com/department-of-veterans-affairs/gibct-data-service/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+) as well as [second reviews for vets-api PRs](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3A%22Please+Review%22+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP).
+* unassign theirself from the [Super Epics]
+* remove theirself from the [#vsp-backend-utility-dev] Slack channel
+* ensure that all of the PRs reviewed are linked to the [Code Review][Super Epics] ticket for the sprint
 
-Once you have started to review a PR, *please track it by additing it to the Code Review Epic for the sprint*.
 
-As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
+## Priorities
+
+### Reviewing Pull Requests
+
+VFS teams rely on the VSP Backend Tools team to review and approve pull requests to `vets-api` and `gibct-data-service`. The [#vsp-backend-utility-dev] channel can be used to track new and resubmitted Pull Requests. 
+
+Several GitHub filters exist to quickly identify pull requests needing review. 
+
+- [first reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP+NOT+WIP+)
+- [first reviews for `GIDS`](https://github.com/department-of-veterans-affairs/gibct-data-service/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+)
+- [subsequent reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3A%22Please+Review%22+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP)
+
+For quick reference these are also pinned in the [#vsp-backend-utility-dev] channel. 
+
+- add pull request to the [Code Review Epic][Super Epics] for the current sprint
+
+#### VSP Pull Requests
+
+As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. See open Dependabot PRs with [this filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview).
 
 ### Support requests
 
-Create an issue describing the request in GitHub and link it to one of the three super-epics. Assign it to yourself. Track any work done with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
+Track support requests in [this spreadsheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit#gid=1793382735). Track any work done or issues created with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
 
 ### Sentry errors
 
-Browse [Sentry](http://sentry.vfs.va.gov/vets-gov/platform-api-production/) and monitor the #vfs-sentry-alerts channel.
-
-The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
-* First occurence of an issue
-* High volume of an error occurring
-
 If there’s a new error, investigate. If there’s an error that you feel you might be able to fix, start a PR and try. If you need some help, ask for it. The goal is to reduce the number of repeated errors over time so the sentry log is only new, “real” issues.
+
+The [#vfs-sentry-alerts] channel is configured to receive alerts when one of the following criteria are met:
+
+* First occurence of an error
+* High volumes of an error occurring
+
+- Browse [Sentry](http://sentry.vfs.va.gov/vets-gov/platform-api-production/) and monitor the [#vfs-sentry-alerts] channel.
+
 
 ### Everything else
 
-The oncall developer should handle normal oncall tasks, but may need some backend support. Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
+The on-call developer typically handles on-call tasks but occasinally they may need some backend support. 
+
+Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
 
 If there’s *literally* nothing else to do, here are a few more ideas:
 
@@ -83,12 +126,14 @@ If there’s *literally* nothing else to do, here are a few more ideas:
 * Pair with another developer to help move their issue forward
 * Dig into an area of the code you are unfamiliar with
 
-### At the end of the sprint
-
-* unassign yourself from the three Super Epics
-* remove yourself from the #vfs-backend-utility-dev Slack channel
-* ensure that all of the PRs you reviewed are assigned to the Code Review Sprint XX ticket for your sprint
-
 ## Ongoing review
 
-At the end of each sprint, we’ll work to generate a report and figure out between the PM, tech lead, and both current and next utility developer how to adjust the process to continue to make things as smooth and easy as possible for the entire team while also providing excellent support to each other and the VSA teams.
+At the end of each sprint, we’ll conduct a retrospective between the product manager, tech lead, and the utility developer(s), with the goal of generating a report on how to adjust the Utility Developer process to improve the efficiency of supporting VFS teams.
+
+
+[#vfs-platform-support]: https://dsva.slack.com/archives/CBU0KDSB1
+[#oncall]: https://dsva.slack.com/archives/C30LCU8S3
+[#vfs-sentry-alerts]: https://dsva.slack.com/archives/CJTDG22NM
+[#vsp-backend-utility-dev]: https://dsva.slack.com/archives/GRN7R3R44
+[Super Epics]: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=tools-be&repos=133843125
+[Sentry]: http://sentry.vfs.va.gov/
