@@ -174,7 +174,9 @@ Once you've got everything you want in your homepage bucket, we'll see what's le
 -   Do any items cause the participant to hesitate?
 -   Any mention of notifications or updates?
 </details>
+
 ## Backup Task 2 - 10 minutes
+
 <details>
   <summary>Grouping cards</summary>
 Alright, now let's take a look at what we've got in these categories.
@@ -199,6 +201,7 @@ Alright, now let's take a look at what we've got in these categories.
 
 -   What expectations does the participant have around notifications and updates?
 </details>
+
 ## Third Task: Discuss current logged-in experience - 5 minutes
 
 The last thing I wanted to review with you is the current logged in homepage.
