@@ -105,6 +105,8 @@ Each application or logical section of the site will have a heading and a detail
 
 - [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[SCREENREADER]: Additional Information - VoiceOver MUST set focus correctly when the component is toggled - #8856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8856)<br/>
+**Production** | **Opened:** May 6, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[SCREENREADER]: Improve the modal windows to prevent AT users from navigating page behind the window screen - #1449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1449)<br/>
 **Production** | **Opened:** August 29, 2019 | **Severity:** 508-defect-2 — **_Serious_**
 - [Update the Additional Info component to be used for Learn More expandable sections in forms - #4330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4330)<br/>
@@ -115,6 +117,8 @@ Each application or logical section of the site will have a heading and a detail
 **Production** | **Opened:** January 9, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 - [[IMPROVEMENT]: Formation - CONSIDER making Featured Content heading dynamic - #8352](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8352)<br/>
 **Production** | **Opened:** April 23, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[IMPROVEMENT]: Address Block - CONSIDER adding a component and structured data - #8859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8859)<br/>
+**Production** | **Opened:** May 6, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 ### Site-wide
 
