@@ -25,8 +25,8 @@ In Zoom, can you select the Share button?  On this screen, let's go with the def
 
 There's a checkbox on this Share Screen that says "Share computer sound." This will let us hear your screen reader.  Can you make sure that it's checked and select "Share"?
 
-*Confirm that the screen reader is audible.
-*Confirm that screensharing works.  If it doesn't work immediately, suggest they restart the screen reader (order of operations isn't typically isn't critical) 
+* Confirm that the screen reader is audible.
+* Confirm that screensharing works.  If it doesn't work immediately, suggest they restart the screen reader (order of operations isn't typically isn't critical) 
 
 ### Checklist for Screen Reader Participants
 - 	Are you using a computer or mobile phone during our session today? 
@@ -55,12 +55,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If no, no worries.  We're checking that out today and always appreciate getting a fresh perspective on it.
 
 
-Okay. Now I'd like you to open a new browser window or tab.
+Okay. Now I'd like you to open a new browser window or tab. 
 
 I have a website I want you to visit - I can send you the link via chat in Zoom or I can spell out the URL - which would you prefer?
 
  - **[https://bit.ly/2XFnKix](https://bit.ly/2XFnKix)**
 
+As you work through the task, if you have any comments or questions, feel free to let us know. 
 
 ## First Task: Calculate Benefits at School / IHL - 15 minutes
 
