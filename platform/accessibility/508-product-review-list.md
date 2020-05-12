@@ -693,6 +693,8 @@ Each application or logical section of the site will have a heading and a detail
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
 
 **Open issues**
+- [[SCREENREADER]: VAOS - Past appointments MUST manage focus when users filter their appointments - #8912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8912)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[COGNITION]: VAOS - CONSIDER making the Past Appointments update button enabled at all times - #8940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8940)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 ---
 
