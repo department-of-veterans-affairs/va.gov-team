@@ -12,7 +12,7 @@ Authors: VSP’s Content & Information Architecture Team — Gretchen Maciolek, 
 - [Costs](#costs)
 - [Analysis of alternatives](#analysis-of-alternatives)
 - [Recommendation](#recommendation)
-- [Next steps and additional information](#next-steps-and-additional-information)
+- [Additional information](#additional-information)
 
 ## Summary
 
@@ -146,7 +146,25 @@ Because we know that findability is such a high severity pain point in our curre
 
 Confluence is typically used as an enterprise wiki, with the look and feel of internal docs (which can easily be made publicly accessible). In order to launch a set of published, trustworthy user guides for building on VA.gov (composed primarily of VSP-owned documentation), we recommend using an add-on that renders pages in a more polished format. Scroll Viewport is the leading choice for this functionality, although it is not yet available for Confluence Cloud. If it does not become available on our timeline, we will explore alternative add-ons or (minimal) custom development work to achieve the same effect.
 
-## Next steps and additional information
+## Additional information
+
+### GitHub Integration
+
+Currently, VSP uses GitHub and ZenHub for documentation, project management, and software development. By moving documentation to Confluence we will not lose any commonly used existing functionality; GitHub pull requests used in software development will still be easily linked to ZenHub issues, and vice versa.
+
+If we choose to link to pull requests or issues in Confluence (which is not a common practice in our current documentation), there are multiple Confluence add-ons that we could explore, including [GitHub links for Confluence](https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud&tab=overview) and [GitHub Macros for Confluence](https://marketplace.atlassian.com/apps/1216734/github-macros-for-confluence?hosting=cloud&tab=overview).
+
+### High-Level Implementation Strategy
+
+As described in our [Problem Statement](#problem-statement-and-background) above:
+
+> We approached our recent research with the following frame: first, how might we improve the user experience for a core set of VSP-owned documentation in order to create a set of introductory user guides for building on VA.gov? Then, how might our recommended solution scale to support product-based and other VA.gov documentation?
+
+Accordingly, our high-level implementation strategy is to migrate VSP-owned, VFS-facing documentation to Confluence as a set of user guides for teams using the platform to build on VA.gov. We would use this subset of documentation to determine best practices for migration process, Confluence configuration, and documentation style.
+
+Our long-term implementation strategy, which we hope to begin by Q4 2020, also includes migration of product documentation to Confluence — which is typically owned by DEPO and/or VFS teams. We would tentatively pilot this initiative with the VSA Benefits and Memorials 1 Team, which has expressed interest in beginning to use Confluence as soon as possible. 
+
+### Notes
 
 This document is not a comprehensive resource about all things documentation — or even all documentation tooling considerations. Some areas that we have not addressed here are: 
 
