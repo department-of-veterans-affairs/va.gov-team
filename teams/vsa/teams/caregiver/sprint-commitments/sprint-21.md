@@ -13,7 +13,7 @@
 
 - Send CARMA requests through VA Proxy
 - Add Prod Credentials to deployment infrastructure
-- Merge MVI Lookup (ICN lookup for every person)
+- ~Merge MVI Lookup (ICN lookup for every person)~
 - Write and Merge Veteran Verification (ICN --> veteran status)
 - Write and Merge PDF Attachment on CARMA Submissions
 
