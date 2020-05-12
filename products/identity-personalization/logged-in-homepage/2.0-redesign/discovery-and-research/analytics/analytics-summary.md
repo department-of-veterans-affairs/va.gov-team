@@ -91,13 +91,15 @@ In the non-modernized data, we can see that My VA is more popular than we though
 
 ### People start on the homepage, the claim status tool, and the facility locator.
 
-Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **(~22MM sessions)**, and eBenefits **(~20MM sessions)** homepages are peoples' main entrance points.
+One of the questions we needed to answer in this research was: "do people actually start on the homepage, or do they enter the site directly through tools?" Across VA's digital properties, the MyHealtheVet **(~47MM sessions)**, VA.gov **(~22MM sessions)**, and eBenefits **(~20MM sessions)** homepages are peoples' main entrance points, which shows us that people tend to start at "home" to get themselves oriented before diving into tools.
 
 In terms of tools, we can see in the modernized VA.gov site data that the **claim status tool (~5.4MM)** and the **facility locator (~2MM)** are popular entry points
 
 [Top landing pages on the modernized VA.gov only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/)
 
 [Top landing pages between VA.gov, MHV, eBenefits, and more](https://analytics.google.com/analytics/web/#/report/content-landing-pages/a50123418w177519031p176188361/_u.date00=20190412&_u.date01=20200412&_.useg=&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
+
+**Recommendation**: Since people are orienting themselves on the homepage to navigate to tools, carefully balance widgets with links directly into tools.
 
 ### People are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
 
