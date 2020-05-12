@@ -6,7 +6,7 @@ Background
 
 As part of the larger discovery effort to redesign the VA.gov logged-in homepage, a comparative analysis was conducted to see how other sites handle personalization and content organization on a logged-in homepage.
 
-This study focused primarily on sites in the banking and insurance industries since they serve as a good model for the VA.gov use case (manage benefits, claims, payments, transactions, view history, etc). A few other companies suggested by stakeholders as having a solid personalized experience were also explored.
+This study focused primarily on sites in the banking and insurance industries since they serve as a good model for the VA.gov use case (manage benefits, claims, payments, transactions, view history, etc). We explored a couple of companies outside of these industries based on recommendations in stakeholder interviews.
 
 Screenshots were solicited for sites of interest since accounts are required to view the authenticated experience. We primarily requested desktop views.
 
@@ -32,10 +32,18 @@ Screenshots were solicited for sites of interest since accounts are required to 
 
 - [Google](#google)
 
-Goals & Takeaways
+Goals
 -----------------
 
 This comparative analysis aimed to observe the following:
+
+- How do sites signify to the user that they're providing a personalized experience upon logging in?
+- How do sites organize different types of content within a single logged-in homepage/dashboard view
+- What appears as a widget vs text link vs something else?
+- How are sites implementing alerts and notifications?
+- How does an authenticated toolbar/menu fit into the overall site navigation?
+
+## Takeaways
 
 ### How do sites signify to the user that they're providing a personalized experience upon logging in?
 
