@@ -23,6 +23,10 @@ __Who's responsible for what parts:__
 __RE using sample data to start migration work:__
 - If we used sample data to start, we'd need to do it in staging; and then recreate it in prod. Question/initial thought: Might be better to just do it in prod (don't want to use fake data in prod). TBC. 
 
+__Next step:__
+- Biweekly (every 2 weeks) check-in with Lighthouse team for ongoing coordination. @stephanie
+
+
 
 ## 05/07/20
 
