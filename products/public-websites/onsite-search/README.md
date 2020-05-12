@@ -79,8 +79,8 @@ There are four areas of focus for this initiative:
 - Have sitemaps been provided for all or the prioritized VA.gov subdomains (site map indexing is preferred to crawling)
 2. Implement and/or improve the VA.gov utilization of available Search.gov features, including: 
 - Type-ahead - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896 
-- Routed query - https://search.gov/manual/routed-queries.html
-- Event-based analytics (via js code snippet) - available in late May/early June 2020
+- Routed query - https://search.gov/manual/routed-queries.html - API documentation may be available in May 2020
+- Event-based analytics (via js code snippet) - API documentation to be available in June 2020
 - Enhanced use of Best Bets/Top Recommendations
 3. Determine if/when other Search.gov features can be leveraged by VA.gov given the API-based implementation.  These include: 
 - Spelling suggestions - https://open.gsa.gov/api/searchgov-suggestions/
