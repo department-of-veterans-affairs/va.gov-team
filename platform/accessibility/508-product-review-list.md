@@ -658,6 +658,18 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[DOCUMENT]: GIBCT SCO - VA ONCE PDF logo needs alt text - #3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
+- [[DOCUMENT]: GIBCT SCO - Dear SCO letter links MUST point to valid resources - #8758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8758)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[DOCUMENT] GIBCT SCO - Page headings SHOULD be tagged in Section 305 PDF - #8749](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8749)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DOCUMENT]: GIBCT SCO - Page headings SHOULD be tagged in VA ONCE PDF - #8750](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8750)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DOCUMENT]: GIBCT SCO - Dear SCO letter text SHOULD be linked or adjusted - #8761](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8761)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DOCUMENT]: GIBCT SCO - Dear SCO letter list SHOULD announce as a list - #8764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8764)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DOCUMENT]: GIBCT SCO - CONSIDER adding headers to the Dear SCO letter - #8765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8765)<br/>
+**Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
 
