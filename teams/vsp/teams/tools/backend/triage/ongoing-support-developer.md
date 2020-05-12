@@ -55,7 +55,7 @@ It is *100%* acceptable to delegate the request, whatever it is, to someone more
 * make sure they are assigned to both of the support [Super Epics]
 * unmute [#vfs-sentry-alerts], [#oncall], and [#vfs-platform-support] Slack channels (if they're muted)
 * update the [#vfs-platform-support] channel topic with their name
-* attend a hand-off meeting which occurs at 11:00a ET on the planning day (Wednesda) before a new sprint
+* attend a hand-off meeting which occurs at 1:00p ET on the planning day (Wednesday) before a new sprint
 * use this time to align with the Backend Tools in standup
 * use this time to communicate any major ongoing issues
 
