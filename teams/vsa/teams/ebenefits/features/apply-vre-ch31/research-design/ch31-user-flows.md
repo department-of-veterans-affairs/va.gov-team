@@ -22,7 +22,7 @@ The "paper" form is available [online](https://www.vba.va.gov/pubs/forms/VBA-28-
 - Signature
 
 #### eBenefits current user flow
-![Current eBenefits user flow]()
+![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/images/Chapter_31_Breakdown_1.png)
 
 #### Proposed VA.gov user flow
-![VR&E User flow]()
+![VR&E User flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/research-design/images/Chapter_31_User_Paths_1.png)
