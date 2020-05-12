@@ -134,9 +134,9 @@ First, let's organize the stickies on your personalized page in the way that ref
 
 - What expectations does the participant have around notifications and updates?
 
-    
-
-## Backup Task 1: Card Sort - 20 minutes
+## Backup Task 1 - 20 minutes    
+<details>
+  <summary>Card Sort</summary>
 
 Thanks for going through that with me! That was really helpful. I'd like to move over to a card sorting activity, which will give us some quantitative data to analyze when we're done with our study..  
 
@@ -173,9 +173,10 @@ Once you've got everything you want in your homepage bucket, we'll see what's le
 -   Which items is the participant most confident they'd be interested in?
 -   Do any items cause the participant to hesitate?
 -   Any mention of notifications or updates?
-
-## Backup Task 2: Grouping cards - 10 minutes
-
+</details>
+## Backup Task 2 - 10 minutes
+<details>
+  <summary>Grouping cards</summary>
 Alright, now let's take a look at what we've got in these categories.
 
 -   Should we group any of them together?
@@ -197,7 +198,7 @@ Alright, now let's take a look at what we've got in these categories.
 -   Where does the participant place notification related items?
 
 -   What expectations does the participant have around notifications and updates?
-
+</details>
 ## Third Task: Discuss current logged-in experience - 5 minutes
 
 The last thing I wanted to review with you is the current logged in homepage.
