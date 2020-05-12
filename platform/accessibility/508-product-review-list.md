@@ -638,7 +638,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### GI Bill Comparison Tool Caution Flags
 
-**Audit status:** Design review phase
+**Audit status:** Approved by VA 508 office in May 2020. Final VSP audit underway in May 2020.
 
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
