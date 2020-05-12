@@ -15,9 +15,10 @@
    - Ayush Chakravarty (ayush.chakravarty@gsa.gov)
 
 ## Table of Contents
+- [North Star](#north-star)
 - [User Problem Statement](#user-problem-statement)
 - [Assumptions](#assumptions)
-- [Solution Approach](#solution-approach)
+- [Requirements](#requirements)
 - [Value Propositions](#value-propositions)
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
