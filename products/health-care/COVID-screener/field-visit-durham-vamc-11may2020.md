@@ -1,6 +1,10 @@
 # Durham VAMC field visit
 ## Monday May 11 @ 10:00
 
+- [Word doc with all photos included](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/photos/11may2020/11may2020-photos.docx)
+
+- [GH directory of photos](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/COVID-screener/photos/11may2020)
+
 ### Main entrance
 
 - I met Stacy the VA screener
