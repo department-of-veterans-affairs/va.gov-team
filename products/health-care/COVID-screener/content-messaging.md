@@ -101,7 +101,7 @@ Please leave this screen open and show it to the staff member at the facility en
 Tuesday
 May 12, 2020
 
-**Note:** To start the screener again, please select "Restart." You can't take this screener more than once per day.
+To start the screener again, please select "Restart." You can't take this screener more than once per day.
 
 [button] Restart
 
