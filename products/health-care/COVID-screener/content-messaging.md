@@ -34,7 +34,7 @@ Have you had a fever in the last 24 hours?
 
 [button] No
 
-_[potential alt to keep the timing up front for consistency with other questions and to use the correct word of "past" rather than "last"]
+_[potential alt to keep the timing up front for consistency with other questions and to use the correct word of "past" rather than "last"]_
 
 In the past 24 hours, have you had a fever?
 
