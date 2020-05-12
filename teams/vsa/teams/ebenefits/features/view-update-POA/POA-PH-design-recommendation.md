@@ -16,9 +16,9 @@
 - Participants wanted the Representative Search Table to include: a rating system based on Veteran feedback, the representative's specialty, representative's name, and the number of cases won, 
 - Provide verbiage about the last time the table information was updated.
 - Ensure that the statement below or something similar is incorporated in the Limited Consent step because Veterans understood the intent of the step after reading the statement. 
-> “Though I give my consent to VA, I do NOT want the POA Representative to access records relating to the following treatments.”
+> “Though I give my consent to the VA, I do NOT want the POA Representative to access records relating to the following treatments.”
 - Participants asked that Military Sexual Trauma (MST) be included in the Limited Consent step. 
-- Provide a statement regarding how the Veterans may benefit from the Representative changing or update their address. The Veterans are fearful and lack trust, and saw the request as relinquishing control and a breach of trust.
+- Provide a statement regarding how the Veterans may benefit from the Representative changing or updating their address. Veterans are fearful and lack trust, and saw the request as relinquishing control and a breach of trust.
 
 ## Payment History
 - Veterans favored their bank's website features and layout over the current Payment History.  
