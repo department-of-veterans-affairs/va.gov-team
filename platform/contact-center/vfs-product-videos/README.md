@@ -8,7 +8,11 @@
 526 Disability Claims Application
 
   -[VA.gov Disability Claims Tool - Intro](https://www.youtube.com/watch?v=I_hn7Xv6KZI&feature=youtu.be)
+  
   -[VA.gov Disability Claims Tool - Veteran Profile](https://www.youtube.com/watch?v=2KR8K8MQSVs&feature=youtu.be)
+  
   -[VA.gov Disability Claims Tool - Add Contentions](https://www.youtube.com/watch?v=uY6OrcwOalw&feature=youtu.be)
+  
   -[VA.gov Disability Claims Tool - Add Evidence](https://www.youtube.com/watch?v=Ekb-lU6bH0A&feature=youtu.be)
+  
   -[VA.gov Disability Claims Tool - Review and Submit](https://www.youtube.com/watch?v=-a4BauA9iD0&feature=youtu.be)
