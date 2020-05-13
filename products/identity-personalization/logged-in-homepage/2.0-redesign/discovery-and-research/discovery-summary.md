@@ -27,6 +27,7 @@ Initial thoughts
   - To avoid analysis paralysis (stakeholder interviews)
   - Because we see in analytics just how reliant people are on the top 20 tasks
   - Because the logged in experience should be a system that works together, and we don't have a specific logged in nav OR notifications OR a logged in homepage. This all needs to work together and we don't want to take forever making it perfect.
+  - **In what order should we approach this redesign (eg. the nav? some homepage widgets? notifications?)**
 - User test, user test, user test.
   - This page is too imporatnt to user test once
   - We saw in our research review that the 2018 homepage was tested at least 6 times to get to the right approach
