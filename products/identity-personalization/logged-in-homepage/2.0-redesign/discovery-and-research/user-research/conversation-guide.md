@@ -40,11 +40,11 @@ Before we start, a few things I want to mention:
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 
-- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
-*Start recording.*
+  - *Start recording.*
 
--   I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
+  - I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
 ## Warm-up Questions - 10 minutes
 
