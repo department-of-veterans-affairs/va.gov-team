@@ -74,8 +74,7 @@ First, we'll use the stickies to create items to put on the page.  Then, we'll o
   
 What would you want to see when you first log in to VA.gov?
 
-*If participant hesitates*
-- You mentioned the last time you logged into VA.gov was to [state action].  Would stickies around those actions be a good place to start?
+*If participant hesitates*: You mentioned the last time you logged into VA.gov was to [state action].  Would stickies around those actions be a good place to start?
 
   -   *Create sticky notes with each item.*
   -   ***Can you share details on why that's important to you?***
