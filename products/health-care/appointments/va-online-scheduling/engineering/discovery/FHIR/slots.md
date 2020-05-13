@@ -44,7 +44,7 @@ Status: Blocked by outstanding questions
 ## Outstanding questions
 
 - Do we need to fetch the Schedule resource, or is there a way to use chained params to fetch slots and schedules at once?
-- There does not appear to be an end date search param. VAOS currently fetches 60 day chunks of time slot data, otherwise there are timeouts in the underlying service.
+
 
 ### Answered questions
 * How will we search for slots?  Currently we use a combination of `facilityId`, `typeOfCareId` and an array of`clinicIds` as search parameters in addition to `startDate` and `endDate`.
@@ -53,3 +53,5 @@ Status: Blocked by outstanding questions
    - Request flow is currently unknown
 * Will we be using the `Schedule` FHIR entity?
    - Yes, but may be able to combine calls
+* There does not appear to be an end date search param. VAOS currently fetches 60 day chunks of time slot data, otherwise there are timeouts in the underlying service.
+   - You can specify multiple dates and get a range: `date=ge2010-01-01&date=le2011-12-31`
