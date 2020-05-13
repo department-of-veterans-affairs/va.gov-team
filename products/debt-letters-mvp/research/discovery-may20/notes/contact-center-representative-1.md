@@ -2,6 +2,25 @@
 May 11, 2020<br>
 **Rebecca Walsh & Riley Orr**
 
+
+## Executive Summary
+Brent is a VED call center representative who fields calls about both Education and Compensation & Pension debts.
+
+-   Brent interprets debt letters, answers questions about debts (origination, amount), works on payment plans, helps with waivers or disputes, and assists with or reroute non DMC-related calls.
+-   Many Veterans are confused or threatened by the DMC letters, which inform them about the payment plan they've been put on, but not specific origins of the debt. The letters are long and generic, which causes confusion.
+-   Veterans often don't associate or remember the regional office letters sent to them prior to DMC involvement.
+-   Veterans become upset when they're not able to learn more about debt origins.
+-   Education debts can be issued when a student's enrollment status changes or when a certifying official makes a mistake.
+-   Having debt letters will help Veterans by making them more timely and accessible for populations who move addresses often (particularly students). Today, many Veterans aren't informed of their debt until it hits their credit 90 days after notification.
+-   Compensation & Pension debts are most often issued when a Veteran doesn't submit the right paperwork (e.g. adding/removing dependents or spouses, not submitting medical bills)
+-   The Committee for Waivers and Compromises can take a very long time to make a decision (6 months in some cases).
+-   Communication between the regional offices and DMC is poor.
+-   Payment plans over 12 months require a financial status report to be submitted, which can be found on the debtman site.
+-   Veterans with LGY debts don't know about the Compromised Interest option, usually just call about their balance.
+
+--- 
+## Transcript
+
 **Can you tell me about your role?**<br>
 Basically answering the phone calls. Trying to figure out questions of their debt, we try to set them up on payment plans, they kinda want to know where the debt came from, why it was created, the letters, some of the letters they got from COVID-19 they have a lot of questions about because they’re so vague. They ask, “What is this letter about?” I think because it’s a generic letter. 
 
