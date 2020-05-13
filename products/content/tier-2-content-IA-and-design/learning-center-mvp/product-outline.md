@@ -3,7 +3,7 @@
 This is the folder for all background, historical, discovery, and status documentation for this product.
 
 ## Table of Contents
-- [User Problem Statement](#user-problem-statement)
+- [Problem Statement](#user-problem-statement)
 - [User Goals](#user-goals)
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
@@ -14,12 +14,10 @@ This is the folder for all background, historical, discovery, and status documen
 
 
 
-## User Problem Statement
+## Problem Statement
 
 
-The tier 1 Veteran-first benefit hubs are nearly complete migrating legacy content. But there's still a tremendous amount of legacy content that hasn't been brought into the new VA.gov site experience. 
-
-In order to better prioritize content, and so that we don't migrate all content into the benefit hubs, the WBC team created a tiered content framework. 
+The tier 1 Veteran-first benefit hubs are nearly complete migrating legacy content. But there's still a tremendous amount of legacy content that hasn't been brought into the new VA.gov site experience. In order to better prioritize content, and so that we don't migrate all content into the benefit hubs, the WBC team created a tiered content framework. 
 
 It's critical that we don't migrate all content into the benefit hubs because that would recreate the old legacy site experience of mixing critical Veteran benefit content with everything else. 
 
@@ -35,15 +33,19 @@ This product focuses on creating an IA and content design for tier 2 content tha
 
 __What this product is not__
 
-This product is NOT for engagement, marketing, time-based type of tier 2 content such as campaigns. 
+This product is NOT for engagement, marketing, time-based type of tier 2 content such as campaigns. It's not for tier 1 benefit information, and it's not for tier 3 program office/administration content. 
 
+For more information about content tiers on VA.gov, see: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/content-tiers-VA.gov.pdf 
 
 
 ## User Goals
 
-__Primary users__
+__As a Veteran, family member, or other beneficiary of VA benefits and services, I want to easily and quickly find information that helps me answer my benefit questions and troubleshoot my VA account problems without having to call customer service or visit a VA location for an in-person consult as the first resort.__ As a user, I currently have few means to do this other than calling, writing a letter, reporting tech issues to my Congress member, or consulting the internet and social media sites (which may or may not be the source of trustworthy, accurate information. I also have TeamSite pages which are confusing to navigate and relevant information that I need is mixed in with a lot of information that's irrelevant for my needs.
 
-Veterans, family members, and other beneficiaries (or potential beneficiaries)
+__Primary users: beneficiary audience__
+
+Veterans, family members, and other beneficiaries (and potential beneficiaries)
+
 
 __Secondary users__
 
@@ -77,7 +79,6 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 ### High-level requirements
 
 __MVP learning center templates:__
-
 
 1. Single FAQ*
 2. Multiple FAQs* 
@@ -123,6 +124,13 @@ __Governance (WIP)__
 ## Status and decisions
 
 ## mm/dd/yyyy
+
+## 05/01/20
+
+Call with Jeff Barnes, Kevin Hoffman, Chante LantosSwett, and John Hashimoto RE VA.gov help desk. 
+
+Early conversation on the need for a "help center" in light of new VA.gov help desk. 
+
 
 
 __Historical: status__
