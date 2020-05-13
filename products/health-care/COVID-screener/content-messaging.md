@@ -1,8 +1,8 @@
 # Intro screen
 
-**ScreenPass**
+**COVID-19 screener**
 
-_[initial recommended content; would love to include # of questions in the intro messaging if possible...will all users get all 5 questions?]_
+_[initial recommended content; would love to include # of questions in the intro messaging if possible...will all users get all 6 questions?]_
 
 Each time you enter a VA facility, you'll need to answer 6 questions first as part of our coronavirus symptom screening. 
 
@@ -62,15 +62,7 @@ _[potential alt to use "past" instead of "last" and potential additional help co
 
 In the past 3 days, have you had flu-like symptoms?
 
-These may include:
-- Fever or feeling feverish/chills
-- Cough
-- Sore throat
-- Runny or stuffy nose
-- Muscle or body aches
-- Headaches
-- Fatigue (tiredness)
-- Vomiting or diarrhea (less common in adults)
+These may include symptoms like a fever, chills, sore throat, headache, body aches, or fatigue (tiredness).
 
 # Question 5
 
@@ -80,7 +72,7 @@ Have you been exposed to someone CONFIRMED with Coronavirus (COVID-19) disease W
 
 _[potential alt for plain language, style guide, and avoiding all caps; also, do we want to include a timeframe here? If they'd been exposed >2 weeks ago, do they still need additional screening?]_
 
-In the past 2 weeks, have you been exposed to someone who has a confirmed coronavirus diagnosis when you weren't wearing personal protective equipment (PPE)?
+In the past 14 days, have you been exposed to someone with a confirmed coronavirus diagnosis without wearing personal protective equipment (PPE)?
 
 # Question 6
 
@@ -95,11 +87,12 @@ Do you currently have a sore throat, runny nose, or nasal congestion?
 
 # Pass/Fail
 
-Please leave this screen open and show it to the staff member at the facility entrance.
+[PASS] / [More screening needed]
 
-**These results are valid for:**
-Tuesday
-May 12, 2020
+**Results valid for:**
+Tuesday, May 12, 1:23 p.m.
+
+Please show this screen to the staff member at the entrance.
 
 [button] Start new screening
 
