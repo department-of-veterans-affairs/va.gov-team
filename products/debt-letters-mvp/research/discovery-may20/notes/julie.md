@@ -30,6 +30,8 @@ These separate debts can be paid with one check. However, if the Veteran wants t
 
 Julie thinks that the letters can be long and the language could be improved; however, she also thinks online letters would be beneficial for the student population because they are both transient and tech-savvy. Additionally, she noted that certain parts of the Veteran population may not use an online portal. She sees potential for online self-service features such as requesting a waiver or submitting the form Veterans complete for a payment plan (VA Form 5655). She thinks it’s vital for Veterans to know the reasons why they have a debt, where it came from, and the options available to them. 
 
+---
+
 ## Transcript
 
 **Can you tell me about your role?**<br>
