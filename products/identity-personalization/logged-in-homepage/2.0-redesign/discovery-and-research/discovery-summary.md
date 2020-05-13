@@ -1,7 +1,7 @@
-Initial thoughts
+**Overview of this work**
 
-- Include only the most important insights that feel necesary to bubble up from each individual activities.
-- Divide recommendations by UI/design recs and then process/project recs.
+- A quick intro here.
+- Link to all research summaries.
 
 **UI recs**
 
@@ -24,7 +24,7 @@ Base this on user testing:
   - Something about how to handle records?
   - Something about how to handle learning about new benefits?
   
-**Process**
+**Process recs**
 
 - Be strategic about involving outside stakeholders.
   - To avoid lengthy churn or the page becoming a dumping ground.
@@ -38,7 +38,8 @@ Base this on user testing:
   - We saw in our research review that the 2018 homepage was tested at least 6 times to get to the right approach.
   - This will also allow us to design with users, build more iteratively, and make meaningful updates.
 
-
 **Challenges**
+
+Not sure whether we should include this as a separate section or just mention challenges contextually throughout.
 
 - Getting to a better overall logged-in experience will require navigation work, which means we need to work closely with the public websites team, Mikki, and Meg to make sure the unauthenticated nav and the authenticated nav can work in harmony.
