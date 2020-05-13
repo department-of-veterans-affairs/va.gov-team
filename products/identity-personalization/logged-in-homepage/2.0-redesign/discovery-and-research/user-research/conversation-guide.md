@@ -194,13 +194,15 @@ Alright, now let's take a look at what we've got in these categories.
 -   What expectations does the participant have around notifications and updates?
 </details>
 
-## Third Task: Discuss current logged-in experience - 5 minutes
+## Third Task: Discuss existing screens - 5 minutes
 
-The last thing I wanted to review with you is the current logged-in homepage.
+Before we wrap up, I want to review a couple of screens with you.
 
--   I'd like to learn more about your thoughts on the current logged-in experience.
+-   First, I'd like to learn more about your thoughts on the current logged-in experience. *Show screenshot of current logged-in homepage*
 -   Tell me how what you see lines up with your expectations.
 -   Is this what you typically see when you log in?
+-   Next, I'd like you to show you an idea we had for what this new logged-in page could look like.  Take a look. Tell me how this lines up with what you'd expect from a logged-in experience.
+-   Would something like this be useful for you?
 -   Our session today has been focused a personalized page - how do you see that as being different from your profile?
 
 That's helpful, thank you!
