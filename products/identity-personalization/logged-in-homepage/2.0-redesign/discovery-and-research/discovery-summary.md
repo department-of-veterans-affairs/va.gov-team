@@ -13,6 +13,9 @@ Initial thoughts
 - Notifications should be at the top of the page, accessible from anywhere
   - Ubiquitous pattern seen in comparative analysis
   - Most people enter from homepage, but this will make notifications accessible from anywhere
+- With what we should put on the dashboard:
+  - How much of this is status/"in flight" content (eg. claim status, in progress applications, upcoming appointments)?
+  - How much of this is "about me" (eg. disability rating)?
   
 **Process**
 
