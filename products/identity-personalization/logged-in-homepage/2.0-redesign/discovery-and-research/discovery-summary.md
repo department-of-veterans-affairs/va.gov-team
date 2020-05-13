@@ -16,6 +16,8 @@ Initial thoughts
 - With what we should put on the dashboard:
   - How much of this is status/"in flight" content (eg. claim status, in progress applications, upcoming appointments)?
   - How much of this is "about me" (eg. disability rating)?
+- Something about how to handle records?
+- Something about how to handle learning about new benefits?
   
 **Process**
 
