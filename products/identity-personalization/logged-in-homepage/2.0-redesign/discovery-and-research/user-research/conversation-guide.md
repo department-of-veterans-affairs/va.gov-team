@@ -16,7 +16,7 @@ Before the session, send out the [observer instructions](https://github.com/depa
 - [ ] Have staging.va.gov open in a tab
 - [ ] Have mock-ups of staging available
 - [ ] Be ready to screen share
-- [ ] Have[card sort link](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) available
+- [ ] Have [card sort link](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) available
 
 When the participant is ready, begin the session with the following intro
 
@@ -30,7 +30,7 @@ Before we start, a few things I want to mention:
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve the logged-in experience to better meet Veteran's needs. I won't be offended by any opinions you express, and I wholeheartedly welcome your feedback.
 
-- **You and I will go through a collaborative activity to help our team understand how we can design a personalized page that best meets your needs.** We'll use a virtual board to create a rough version of a page that would best meet your needs and expectations - I want to emphasize this is not a generic page for all Veterans.  I'll drive the mouse so you focus on our conversation. Again, please note we're not testing you in any way, and there are no right or wrong answers.
+- **You and I will go through a collaborative activity to help our team understand how we can design a personalized page that best meets your needs and expectations.** I want to emphasize this is not a generic page for all Veterans.  We'll use a virtual board to create a rough version of the page, and I'll drive the mouse so you focus on our conversation. Again, please note we're not testing you in any way, and there are no right or wrong answers.
 
   If time allows, I have card sort set up that we can jump over to after the virtual board.
 
