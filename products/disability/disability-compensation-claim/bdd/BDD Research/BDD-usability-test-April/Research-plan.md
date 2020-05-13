@@ -77,10 +77,10 @@ The initial usability testing was done with Invision and the BDD flow has been m
 <h2 id="toc_8">When?</h2>
 
 <ul>
-<li>Timeline for this study: 19-22 May 2020. </li>
+<li>Timeline for this study: 20-22 May 2020. </li>
 <li>Length of Sessions: 60 minutes</li>
 <li>Availability: 11 am - 5 pm EST </li>
-<li>Pilot: 19 May 2020 </li>
+<li>Pilot: 19 May 2020, 3pm EST </li>
 </ul>
 
 <h4 id="toc_9">Team Roles</h4>
