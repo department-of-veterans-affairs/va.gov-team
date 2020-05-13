@@ -5,16 +5,16 @@
  - This list will continue to be updated / refined moving forward to include new questions and/or replace with newer answers
 
  ## All Questions
-  - Why are my pageviews different in the overview?
-  - Why aren't my user totals adding up? 
-  - What are the big amoung of '(other)' pageviews in the All Website data view? 
-  - What’s wrong with my goal funnel visualization report? Why is my conversion rate so low? 
-  - Why do total submission events not match the backend? 
-  - Why do my goal completions not match total submission events? 
-  - Does being on a VPN affect opt-out functionality? 
-  - How does being on a VPN affect my data in Google Analytics? 
-  - Why do I not have the same tracking on eBenefits / MHV? 
-
+  - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
+  - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
+  - [What are the big amount of '(other)' pageviews in the All Website data view?](#what-are-the-big-amount-of-other-pageviews-in-the-all-website-data-view)
+  - [What’s wrong with my goal funnel visualization report? Why is my conversion rate so low?](#whats-wrong-with-my-goal-funnel-visualization-report-why-is-my-conversion-rate-so-low)
+  - [Why do total submission events not match the backend?](#why-do-total-submission-events-not-match-the-backend)
+  - [Why do my goal completions not match total submission events?](#why-do-my-goal-completions-not-match-total-submission-events)
+  - [Does being on a VPN affect opt-out functionality?](#does-being-on-a-vpn-affect-opt-out-functionality)
+  - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
+  - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
+  
 ## Why are my pageviews different in the overview? 
 You may notice a difference in total pageviews between overview and full reports. Google Analytics has a [1 million row limit](https://support.google.com/analytics/answer/1009671?hl=en&ref_topic=2601030) on reports. A high cardinality dimension like Page URL on a comprehensive view like "All VA.gov Website Data" can reach this limit within a timeframe of only a few months. The total pageviews in the Overview is a more accurate number than the total pageviews in a row-limited report.
 
@@ -76,3 +76,8 @@ A VPN itself will most likely not affect the analytics opt-out.  The opt-out wor
 While a VPN itself will probably not affect our analytics opt-out or modify the cookies we use to identify you, a VPN may affect the data we record in Google Analytics. Specifically, location or geo data can be inaccurate and constantly changing. 
 
 Please note that some VPN software includes additional browser extensions that may clear or block cookies.
+
+## Why do I not have the same tracking on eBenefits or MHV?
+
+Analytics-Insights did not configure tracking to capture logins for users authenticating on MHV or eBenefits; we could review the unique pageviews to the authenticated dashboard to approximate logins.
+
