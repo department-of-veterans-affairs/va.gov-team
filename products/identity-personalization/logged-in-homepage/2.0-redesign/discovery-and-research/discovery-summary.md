@@ -32,3 +32,8 @@ Initial thoughts
   - This page is too imporatnt to user test once
   - We saw in our research review that the 2018 homepage was tested at least 6 times to get to the right approach
   - This will also allow us to design with users, build more iteratively, and make meaningful updates
+
+
+**Challenges**
+
+- Getting to a better overall logged-in experience will require navigation work, which means we need to work closely with the public websites team, Mikki, and Meg to make sure the unauthenticated nav and the authenticated nav can work in harmony.
