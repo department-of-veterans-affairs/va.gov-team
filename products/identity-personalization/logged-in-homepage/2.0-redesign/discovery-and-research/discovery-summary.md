@@ -1,7 +1,12 @@
 **Overview of this work**
 
-- A quick intro here.
+- A quick intro to this project.
 - Link to all research summaries.
+
+**Findings & recs intro**
+
+- Maybe — A comment on why we should feel justified in this work.
+  - User testing: Current homepage/authenticated experience does not meet user's expectations for what they would expect to see in a logged-in state.
 
 **UI recs**
 
