@@ -2,6 +2,32 @@
 May 11, 2020<br>
 **Rebecca Walsh & Riley Orr**
 
+
+## Executive Summary
+
+Brent is a VED call center representative who fields calls about both Education and Compensation & Pension debts (50/50)
+- Brent works with Veterans over the phone to find the best solution for them with their debts, including issuing refunds and assisting with the waiver/dispute process. Each call is personal.
+- He uses the letter issue dates to determine where Veterans are in the collection cycle.
+- Refunds can be necessary when a payment plan goes unnoticed and needs to be modified or disputed.
+- Types of C&P debts include general pension debts, overpayment of pension, overpayment of compensation, burial debts, rehab debts, and old education debts.
+- Types of Education debts include those for Post 9/11, Chapter 35 (Dependent Education), Chapter 30 (Montgomery Bill), Chapter 1606, and Chapter 1607. 
+- Veterans can complete a third party authorization form allowing someone to speak on their behalf, or they can make payments toward an account with only the balance of that account.
+- He often look up the regional office letters to understand and explain why a debt was created.
+- Systems used to view debt:
+    - CAROLS, where debt information is primarily stored
+    - LTS is used to look up Post 9/11 (Ch33) debts, which make up about 90% of education debts. LTS has records of school certifications and regional office letters.
+    - VBMS has the original C&P letters & DMC letters.
+- Veterans often do not get the regional office letters, and when they get the DMC letters, they are not clear.
+- Veterans call about edu debts because they weren’t aware of the debt, didn’t receive the letters, don’t agree with the debt, don’t understand where the debt comes from, the debt is an error, need a payment plan, or need to dispute/waive the debt. They may also lose entitlement or their sponsor did not complete the requirements.
+- Veterans call about C&P debts when they informed the VA of a change but it didn’t happen soon enough, they don’t agree with the debt, drill days interfere with benefits, they stop receiving the benefit, have incarcerated pay, or dependents pass away. 
+- Believes that having the letters online will be beneficial as they will reach more people in a timely manner. 
+- Believes 99% of Veterans don’t read the letters or ignore them until their benefits are affected.
+- LGY can be complicated because sometimes they aren’t in CAROLs.
+
+----
+
+## Transcript 
+
 **Can you tell me about your role?**<br>
 We receive calls from veterans and dependents setting up payment plans. Well, I think you understand most of it. Primarily it’s through phone contacts. We receive calls. There is some callbacks in some cases. We’re doing various other things correcting refunds because we can refund money. We do refunds, we assist them in the waiver process. Primarily it’s getting calls from the veterans and working them through the issue trying to find the best solution for them. We don’t necessarily see the debt letters, we see dates when they’re issued. Can determine where they’re at in the collection cycle based on the dates. We react to the timing of the letters being sent. 
 
