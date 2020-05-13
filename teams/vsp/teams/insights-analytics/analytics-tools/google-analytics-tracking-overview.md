@@ -1,6 +1,4 @@
-**This is a work-in-progress Data Dictionary that should be updated and migrated to the Platform folder once completed.**
-
-# Data Dictionary
+# Google Analytics Tracking Overview
 Objective: This resource defines common Google Analytics terms and provides more context on their usage within VA.gov. 
 
 ### How do I view data for a particular area of the site? 
@@ -17,6 +15,8 @@ Goals are configured in this view, but there is a limitation of only 20 views. F
 MyHealtheVet and eBenefits began populating into the VA.gov Production Property in mid-2018, with basic pageview and session data. In November 2018, the modernized Vets.gov experience was consolidated with VA.gov as part of the Web Brand Consolidation.
  
 Data before November 2018 for VA.gov, MHV, and eBenefits does not exist within the same VA.gov property, though it may be collected in other Google Analytics properties that are not within the VSP Analytics & Insights team's control. 
+
+[View a list of VA.gov Views](google-views.md)
 
 ### How does Google Analytics measure usage and activity on VA.gov? 
 - Users: Google Analytics measures users by counting activity of unique device IDs. This ID is a numeric identifier that does not contain any private veteran information. The out-of-box user metric does not deduplicate users across devices. 
@@ -43,3 +43,13 @@ While this is possible to dedupe authenticated users with additional configurati
 - Clicks on Navigation Elements
 - Scroll Depth
 - Form Submissions and Other Veteran Interactions
+
+### What custom dimensions and metrics do we have configured?
+
+ - [Custom Dimensions](google-custom-dimensions.md)
+ - [Custom Metrics](google-custom-metrics.md)
+ 
+ ### Where can I find answers to common reporting questions?
+ 
+  - View our [Frequently Asked Questions](google-frequently-asked-questions.md)
+ 
