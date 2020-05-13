@@ -2,6 +2,36 @@
 May 8, 2020 <br>
 **Rebecca Walsh & Riley Orr**
 
+## Executive Summary
+
+Julie Lawrence is the Chief of Education and External Relations and Treasury Section at the DMC. She runs multiple teams that handle different kinds of debt; these teams are typically 10-15 folks ranging from entry level to chief positions. All of the employees attend a DMC 101 class for 13 weeks and receive weekly training to refresh their knowledge as they assist Veterans with their debts. 
+
+### The teams that handle Veterans’ debts
+
+**1. Debts referred to the Treasury program**<br>
+This team works with debts that are aged and get referred to the US Treasury Program for collection action.
+
+**2. Congressional responses**<br>
+This team deals with inbound calls from elected officials and outbound calls to veterans and beneficiaries. For example, a Veteran could reach out to an elected official with questions about their debt, and the elected official or their staff contacts the DMC. 
+
+**3. Education debt**<br>
+This team works on education cases. There are two types of cases: debts owed by students/beneficiaries attending higher education, and debts owed by higher education institutions.
+
+**4. Electronic correspondence**<br>
+This team handles all electronic correspondence that comes through IRIS. Veterans can contact the Electronic Correspondence team through email or selecting the “Ask a question” link on VA.gov. 
+
+Veterans call to request information for payment plans or ask how their debt can be waived. When handling debt cases, employees have access to the following information: why the debt was created, what letters were sent, when the letters were sent, and where the Veteran is in the debt process. However, Compensation and Pension letters are in a separate system from Education letters. Some reasons a Veteran can acquire a Compensation and Pension debt include unclaimed divorces or not removing dependents. 
+
+Veterans can receive an Education debt if a student changes enrollment or drops out of classes. A student can have three different education debts at the same time: tuition, housing, and books.
+
+> “The letter from the regional office will have all of them combined, but each debt is treated separately so they will get 3 separate letters.”
+
+These separate debts can be paid with one check. However, if the Veteran wants to pay their debts online then they need to submit separate transactions for each debt. This can be time consuming, as all the Veteran’s information needs to be manually entered for each payment. 
+
+Julie thinks that the letters can be long and the language could be improved; however, she also thinks online letters would be beneficial for the student population because they are both transient and tech-savvy. Additionally, she noted that certain parts of the Veteran population may not use an online portal. She sees potential for online self-service features such as requesting a waiver or submitting the form Veterans complete for a payment plan (VA Form 5655). She thinks it’s vital for Veterans to know the reasons why they have a debt, where it came from, and the options available to them. 
+
+## Transcript
+
 **Can you tell me about your role?**<br>
 So I am the chief of the education and external relations and treasury section at DMC. My teams work throughout several benefit types. On the treasury side, I have a team that works with debts that are aged and get referred to the US Treasury Program for collection action. When people have questions, they go to the treasury and the treasury goes back to us. That’s one part of my group. I also have a group that does Congressional responses so if someone goes to their elected official and has a question or wants someone to. intervene on their behalf we respond to those high profile cases. Cases that get elevated to senior level executives, that can be across any benefit types. I have a team that works on education cases. Those cases are really two different types: owed by students/beneficiaries attending higher education, and debts owed by the higher education institution. My team works both of those types answering questions, understanding how debts came about,  and how to resolve them either through payments from ongoing education benefits or compensation and pension benefits, cash payments, or getting referred to the treasury once they get aged and getting that method of payment. I have an external correspondence team that handles inbound electronic correspondence. So, if a veteran mailed us hard copy mail or sends us a fax, all of that generally goes to another team. If a veteran emails us something or goes to VA.gov or clicks on “Ask a question” link, those all come to my e-correspondence team and we process those questions if we can and/or we route them to the appropriate email that can answer them.
 
