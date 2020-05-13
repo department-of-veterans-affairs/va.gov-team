@@ -38,7 +38,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: May 22
+- Desired date: June 24
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
