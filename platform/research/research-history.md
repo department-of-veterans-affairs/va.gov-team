@@ -10,7 +10,15 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
+------
+
 ### April 2020
+#### April 20-30: View my representative (POA)/ View payment history** (H4 Level)
+*eBenefits, Nick Wygonik*
+
+- Eight participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design)
+
 #### April 2-20: COVID-19 Information & Chatbot
 *ThoughtWorks, Todd Stanich*
 - 13 participants (two rounds)
