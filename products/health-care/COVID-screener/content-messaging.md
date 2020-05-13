@@ -92,7 +92,7 @@ Do you currently have a sore throat, runny nose, or nasal congestion?
 **Results valid for:**
 Tuesday, May 12, 1:23 p.m.
 
-Please show this screen to the staff member at the entrance.
+Please show this screen to the staff member at the facility entrance.
 
 [button] Start new screening
 
