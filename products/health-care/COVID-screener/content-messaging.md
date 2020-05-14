@@ -13,7 +13,7 @@ We won't store or share your data.
 
 # Question 1
 
-_[Questions here as I'm thinking through this. Let me know if see value in exploring these further now or in future: 
+_Questions here as I'm thinking through this. Let me know if see value in exploring these further now or in future:_ 
 
 _1. In this iteration of the screener, will the user's answer affect the other questions they receive in any way or result in a "patient/visitor/employee" label on their results screen? If no, wondering if we could get right into the symptoms questions and get this down to 5 total?_
 
