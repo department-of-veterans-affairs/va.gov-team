@@ -60,6 +60,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [Appeal Modernization Process (AMA) Phase 2](#appeal-modernization-process-ama-phase-2)
       - [Covid-19 Resources](#covid-links-and-resources-pdf)
       - [Find Forms MVP](#find-forms-mvp)
+      - [Yellow Ribbon MVP](#yellow-ribbon-mvp)
     - [VFS Health Care](#vfs-health-care)
       - [Health Care Application 1010-EZ](#health-care-application-1010-ez)
       - [Open issues](#open-issues-1)
@@ -864,6 +865,34 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _App in production. This application has some dependencies being adjusted, and will be queued for review as soon as possible._<br/>
 **[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### Yellow Ribbon MVP
+
+**Audit status:** _Staging review completed by VSA, May 7, 2020._<br/>
+
+**Open issues**
+
+* [#8791 [COGNITION, SEMANTIC MARKUP]: individual search items SHOULD read semantically](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8791)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [#8806 [DOCUMENTS]: PDF MUST be accessible](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8806)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** Upcoming work caution 
+
+* [#8790 design system, components [KEYBOARD]: Focus outline MUST be visible around focused content, pagination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8790)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+
+**Closed**
+* [#8786 [SEMANTIC MARKUP]: Form elements MUST be paired with labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8786)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
+
+* [#8787 [AXE-CORE, SCREENREADER]: Heading levels SHOULD only increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8787)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-2_
+
+* [#8788 [FOCUS MANAGEMENT, SCREEN READER]: Focus SHOULD be managed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8788)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
+
+* [#8789 [ZOOM, MOBILE DESIGN]: When zoomed to 400% content MUST not be cut off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8789)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-4 - **Trivial**_
+
+* [#8792 [FOCUS MANAGMENT]: There MUST not be any keyboard traps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8792)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
+
 
 Back to [Table of Contents](#table-of-contents)
 
