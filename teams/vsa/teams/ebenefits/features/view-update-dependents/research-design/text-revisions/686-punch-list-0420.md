@@ -102,8 +102,6 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 ### Remove stepchild section
 
 - [ ] Deselect radio-button for stepchild expenses question; add "Required"
-- [ ] Sentence-case button text: "Add another stepchild"
-- [ ] 🤷‍Change gray-box header to: "Next stepchild"
 - [ ] Use base-checkbox address block for "Who does this stepchild live with?" address
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
