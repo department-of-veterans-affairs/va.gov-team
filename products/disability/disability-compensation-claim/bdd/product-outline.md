@@ -13,7 +13,7 @@
 - [Assumptions](#assumptions)
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
+- [Solution Narrative](#solution-narrative)
 - [Value Propositions](#value-propositions)
 - [Objectives and Key Results](#objectives-and-key-results)
 
@@ -116,9 +116,8 @@ Major changes happened recently, section will be updated.
 
 Luke has this data, needs to update.
 
-## Solution Approach
-
-This is being filled in after the fact.
+## Solution Narrative
+- Go live target for June 24
 
 ## Value Propositions
 
