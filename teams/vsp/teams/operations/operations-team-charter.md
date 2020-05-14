@@ -10,6 +10,8 @@ Enable VA to build digital tools at scale that improve Veterans’ lives.
 ### Team Mission Statement:
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
+
+Note: These may shift in the new Infra. 
 ### Product Suite: 
 - Platform 
 
