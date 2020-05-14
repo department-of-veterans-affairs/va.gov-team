@@ -11,7 +11,7 @@ Non-Veterans
 
 All
 - Please fill this out as if you were arriving at the medical center. **Ask them to fill out the survey then STOP**
-- What would you expect to happen next?
+- What would you expect to happen next? PASS and FAIL scenarios
 - Anything you liked or didn't like about the app?
 - How were you holding your phone and using the app?
 - Any other feedback?
@@ -42,8 +42,8 @@ How were you holding your phone and using the app?
 -Just used my thumb one hand (button size was fine)
 
 Any other feedback?
--"What if someone thinks of something? There's no back button."
--"Dont want people to think oh I passed, I want to get screened maybe I should take it again"
+- "What if someone thinks of something? There's no back button."
+- "Dont want people to think oh I passed, I want to get screened maybe I should take it again"
 
 ## P2 - Male, early 20s, Non-Vet family member, tech-literate
 - No problem accessing
@@ -102,11 +102,10 @@ Anything you liked or didnt like about the app?
 - "No, im a big fan of simplocioty, i think adding more bells and whisteles increases the complexity. especially if someone is alerady feeling anxt, complicatino would only add to that."
 
 Any other feedback?
-"I thought the (start a new screening) was to take me to the next set of questions, like now that I passed I have another set of questions to answer."
+- "I thought the (start a new screening) was to take me to the next set of questions, like now that I passed I have another set of questions to answer."
 
 How were you holding your phone and using the app?
-"Holding it in my right hand, sitting on counch, using my left thumb to click" "I have tiny hands"
-
+- "Holding it in my right hand, sitting on counch, using my left thumb to click" "I have tiny hands"
 
 ## P4 - Female. Mid 40s. Veteran
 First Question: "Is this a QR code? Because it should be.People should be able to scan so they can fill it out on their way in."
