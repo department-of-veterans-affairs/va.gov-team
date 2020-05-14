@@ -4,6 +4,6 @@
 
 * [Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/common-issues/headings-should-increase-by-one.md)
 
-* [link]()
+* [[FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading]()
 
 * [link]()
