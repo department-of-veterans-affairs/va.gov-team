@@ -31,7 +31,7 @@ Features Toggles curently are a shared responsibility by the FE and BE Tools Tea
 
 ### Release v0.4 - Sprint 26 (05-25-2020)
 - Updated behavior to default features toggled to "off" in development, to avoid causing developer problems. See [#8519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8519)
-
+---
 ### Release v0.3 - Sprint 22 (04-01-2020)
 - Added sticky behavior so unauthenticated users can be locked into a particular variant by a unique ID. Built to support % rollout for the SSO Team.  [#6078](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6078)
 - [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the #vfs-platform-support-channel
