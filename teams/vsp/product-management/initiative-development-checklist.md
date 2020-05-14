@@ -36,7 +36,7 @@ This checklist is for you to gut check that you've taken all of the steps necess
 - [ ] Phased, data-informed [release plan](/) is complete
 - [ ] *(if applicable)* Monitoring is setup correctly and working
 
-### ...upholds performance, security, and reliability standards?
+### ...performant, secure, and reliabile?
 - [ ] If any user data is handled through this service / tool / feature, the private data is kept safe, including not logging PII
 - [ ] Service / tool / feature doesn't introduce new vulnerabilities
 - [ ] Service / tool / feature has 90% [unit test coverage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/unit-testing/README.md), running in CI/CD
