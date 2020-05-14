@@ -28,6 +28,9 @@ Built on their own in a mobile-only API layer.
 - Advantages: mobile team would own the dataflow
 - Disadvantages: could be duplicative over the long term; would present challenges in handling hosting, governance, and technical debt
 
-## [Diagram](#Header2)
-Finally, here is a [diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/tech-research/API%20Integration%20Layers.png) that illustrates the various ways the mobile app could access existing endpoints in vets-api and Lighthouse as well as build new endpoints in a mobile-only API. As discussed, there are strengths and weaknesses to these approaches and ultimately, we could end up using a hybrid approach.
+## Diagram
+Finally, here is a diagram that illustrates the various ways the mobile app could access existing endpoints in vets-api and Lighthouse as well as build new endpoints in a mobile-only API. As discussed, there are strengths and weaknesses to these approaches and ultimately, we could end up using a hybrid approach.
+![API Integration Layers](https://user-images.githubusercontent.com/58053619/81984919-221edf80-95fb-11ea-8f0b-cafdd68f41cf.png)
+
+
 
