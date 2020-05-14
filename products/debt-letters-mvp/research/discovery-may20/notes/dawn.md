@@ -2,6 +2,34 @@
 May 8, 2020<br>
 **Rebecca Walsh & Riley Orr**
 
+## Executive Summary
+
+Dawn Eggers is the Assistant Chief at the Debt Management Center (DMC). She and Jodi share 106 employees, with 89 of them being Debt Counselors (phone representatives). There are two teams and a group that handles escalated calls; the ‘escalation team’ also handles emails. Debt Counselors undergo a 13 week training program, but after 8 weeks of formal training they pivot to on-the-job training where they listen to calls and slowly gain more responsibility as they become comfortable helping Veterans. 
+
+Debt Counselors typically assist 3,000 Veterans a day, with calls typically lasting 6-7 minutes. Dawn told us that they receive twice as many Education calls then Compensation and Pension calls. When Veterans call the DMC, Debt Counselors identify them using their VA file number or SSN. Veterans mostly call about letters notifying them of an increase in debt or if the debt is sent to credit reporting agencies. 
+
+Education debts include housing, tuition, and books; each education debt is listed individually. 
+> “It is very common, especially in education, to have more than one debt for an individual”
+
+Compensation and Pension debts don’t occur as often as Education debts, and people tend to remember how they were created. These debts can result from divorce, change in dependency, and drill pay. Veterans feel frustrated if they report a change in a spouse or dependent and there’s a processing delay which results in a debt. 
+
+Payment plans are typically set up to last 12 months. However, payment plans can be reduced or extended if the Veteran submits VA Form 5655. Additionally, Debt Counselors are also authorized to approve payment plans for up to 3 years. Veterans can also use VA Form 5655 to request compromise offers if they are unable to pay the requested amount or if they want to dispute the debt with the benefit office directly. 
+
+Dawn mentioned that the letters could be improved. The regional debt letters include the reason why the debt was created, but the DMC debt letters only display the amount owed and the debt type. She would like more connection between DMC letters and regional office letters. 
+
+She believes that it would be beneficial to have the Loan Guarantee debt letters online so someone the Veteran trusts can help them navigate the debt. 
+>"Loan guarantee is tough. Those ones are a struggle simply because, loan guarantee letters are a very very old program. The people who these debts belong to are generally older and living on a fixed income.”
+
+Additionally, she thinks that the student population would be more inclined to view debt letters online. 
+>"I think those individuals going to school, are very technologically advanced individuals. They’re used to seeing everything online, so they’d be more inclined to view it online."
+
+Ultimately, she wants Veterans to feel comfortable contacting the DMC because the Debt Counselors can help lead them through their options and select the b best one for their individual needs. 
+>“Call us! We are not scary! We are helpful, and we will give other options.”
+
+---
+
+## Transcript
+
 **Can you tell me about your role?**<br>
 I’m an assistant chief. I have one (cut out) and the two of us report to the chief. Between Jodi and I, we have 106 employees. We have 89 debt councilors. Roughly 45 each. We operate a veteran-facing contact center and our primary function is to collect benefit debt from veterans and their beneficiaries 
 
