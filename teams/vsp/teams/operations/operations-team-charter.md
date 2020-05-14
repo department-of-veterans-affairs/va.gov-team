@@ -121,7 +121,8 @@ Stragetgic meeting to plan work for the team and work we need/want to accomplish
 Assess and update workload for remainder of sprint
 
 - 1st Friday of every sprint
-- 1 hour
+- 45 mins right after standup
+- revisit the Ready columns  
 
 
 #### Issue Etiquette
