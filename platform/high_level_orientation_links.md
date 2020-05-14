@@ -47,9 +47,7 @@
 
 ### ZenHub Info
 
-[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
-
-[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
+[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/zenhub.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/zenhub.md)
 
 ## Engineering
 
