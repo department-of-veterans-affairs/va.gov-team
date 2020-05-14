@@ -20,12 +20,11 @@
 
 - Based on this information, my recommendation is to place the application under the Family member hub page.  In addition, the existing PCAFC content page should also be moved under the Family member hub page. Although this content area was not intended to include child pages, the content and benefits included in the PCAFC and its application are more broad than a single benefit and fit better with the family member content. 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/a3d3d317-2d8b-49a7-a378-082747d08da9)
 
 Page | New URL | New Breadcrumb | Notes
 --- | --- | --- | ---
-[Program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/) | https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregiver/ | Home > Family member benefits > Program of Comprehensive Assistance for Family Caregivers | - This is an existing static content page currently living in health care and will be moved to the family member hub.<br> - The URL and breadcrumb change.<br> - A redirect will need to be created for the URL change. See redirect info below.<br> - The left nav will need to be removed from this page. 
-New form for applying for the caregiver program | https://www.va.gov/family-member-benefits/apply-for-caregiver-program-form-10-10cg/ | Home > Family member benefits > Apply for the Program of Comprehensive Assistance for Family Caregivers | 
+[Program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/) | https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/ | Home > Family member benefits > Program of Comprehensive Assistance for Family Caregivers | - This is an existing static content page currently living in health care and will be moved to the family member hub.<br> - The URL and breadcrumb change.<br> - A redirect will need to be created for the URL change. See redirect info below.<br> - The left nav will need to be removed from this page. 
+New form for applying for the caregiver program | https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/ | Home > Family member benefits > Apply for the Program of Comprehensive Assistance for Family Caregivers | 
 
 *Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb*
 
@@ -38,8 +37,8 @@ New form for applying for the caregiver program | https://www.va.gov/family-memb
 Priority | Placement | Description
 --- | --- | ---
 Must| Health Care Left Nav | **REMOVE link** to the "Comprehensive assistance for caregivers" from the left nav in the Health care hub
-Should | On page [Health care for spouses, dependents and family caregivers](https://www.va.gov/health-care/family-caregiver-benefits/) | Keep the existing text and link, update to the new location of the PCAFC page
-Should | On page [Family member hub](https://www.va.gov/family-member-benefits/) | Keep the existing text and link, make sure the link is updated to the new location of the PCAFC page
+Must | On page [Health care for spouses, dependents and family caregivers](https://www.va.gov/health-care/family-caregiver-benefits/) | Keep the existing text and link, update to the new location of the PCAFC page
+Must | On page [Family member hub](https://www.va.gov/family-member-benefits/) | Keep the existing text and link, make sure the link is updated to the new location of the PCAFC page
 
 ️***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
