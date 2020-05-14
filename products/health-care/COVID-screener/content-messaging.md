@@ -119,3 +119,4 @@ Please show this screen to the staff member at the facility entrance.
 
 [button] Start new screening
 
+_[opening PR]_
