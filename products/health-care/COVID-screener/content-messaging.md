@@ -90,7 +90,7 @@ _[update notes: tightened/plain language'd copy a bit more]_
 
 **Question 6 of 6**
 
-In the past 14 days, have you had contact with someone diagnosed with the coronavirus without wearing personal protective equipment (PPE)?
+In the past 14 days, have you had contact with someone diagnosed with COVID-19 without wearing personal protective equipment (PPE)?
 
 
 # Pass
