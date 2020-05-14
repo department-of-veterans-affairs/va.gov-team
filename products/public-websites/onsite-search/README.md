@@ -1,5 +1,5 @@
 
-# On-Search Product Outline - VA.gov (WIP)
+# On-Site Search Product Outline - VA.gov (WIP)
 
 ## Communications
 - GitHub Label: search
