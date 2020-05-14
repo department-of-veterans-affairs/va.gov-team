@@ -99,7 +99,7 @@ What would you expect to happen next?
 Anything you liked or didnt like about the app?
 - "I like the interface, its nice and big (the text), very straightforward"
 - "I think someone with PPE, give an example of mask gloves type of thing, other than that I like this."
-- "No, im a big fan of simplocioty, i think adding more bells and whisteles increases the complexity. especially if someone is alerady feeling anxt, complicatino would only add to that."
+- "No, im a big fan of simplicity, i think adding more bells and whisteles increases the complexity. especially if someone is alerady feeling anxt, complicatino would only add to that."
 
 Any other feedback?
 - "I thought the (start a new screening) was to take me to the next set of questions, like now that I passed I have another set of questions to answer."
@@ -167,7 +167,7 @@ Anything you liked or didnt like about the app?
 - "Really simple, quick."
 - "Only feedback is the one about symptoms, I thought it was a little crowded, I would like it to be bulleted and cleaner, if you are in a car and stressed out."
 - "You would probably a little stressed out, mask on your face, stressed out"
-- "The looks is really clean and easy, not janky, (no) wasted space, pretty user friendly"
+- "The look is really clean and easy, not janky, (no) wasted space, pretty user friendly"
 
 What would you expect to happen next? FAIL
 - asked to go back through and FAIL
