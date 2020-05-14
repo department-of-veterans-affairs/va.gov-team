@@ -24,6 +24,16 @@ Provide reliable infrastructure, secure access controls, and CI/CD tooling to al
 |Environment connectivity|AWS / VAEC, Forward Proxy, Reverse Prox| 
 |Technical Compliance Issues|Nessus and WASA scans, Ensuring compliance with documentation, SSL configuration|
 
+Note: This list will change once we are in the new Infra. 
+
+### Areas we work in: 
+- SRE
+- Operations
+- Release Engineer 
+- Platform Infrastructure
+- Governance & Security
+
+Note: These may shift in the new Infra. 
 
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
@@ -55,7 +65,7 @@ Other Member that contribute to our Team's mission
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ 12:00pm EST
+- Monday/Wedesday/Friday @ 12:00pm EST
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
@@ -72,26 +82,30 @@ Agenda
 Output
 - Action items related to the cards
 
+#### Pre Planning
+ 
+Talk about work we want to do in the coming sprint. Prioitize this work and see what we can move forward with and what we can't.
+Agenda
+- 45 mins right after standup, Friday before new sprint.
+- Get plans for sprint in order so we have a plan before planning.
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 Agenda
-- 1st Wednesday of every sprint @ 1:00pm EST
-- 1 hour
+- 1st Wednesday of every sprint right after standup
+- 45 mins
 - Discuss the sprint objectives
 - Overview of resourcing for the sprint
-- Break down the sprint's user stories into tasks
+- Assign work from pre-planning
 - Point the tasks
-- Review the top backlog tasks
 Output
 - Sprint backlog made up of pointed tasks required to meet the stories' acceptance criteria
-- Team understanding of the top backlog tasks
 
 
 #### Ops All hands
 Talk and demo work we are working on to ensure we are aware of current work in a bit more techincal detail. 
 
-- 2nd Thursday of every sprint
+- 2nd Wednesday of every sprint, right after standup.
 -  45 mins
 - Talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos on the team. 
 
@@ -154,9 +168,11 @@ Points: Complexity Estimate
   - VA Network overview (ping TJ for recording)
   - CMS build overview (ping TJ for recording)
   - VA overview (ping TJ for recording)
+  - Rev and Fwd Proxy deep dive (ping TJ for recording)
   - Infra Recommit Demo (ping TJ for recording)
   - Review instance how to (ping TJ for recording)
   - Infra Recommit Local Dev (ping TJ for recording)
+  - Infra Recommit Playground (ping TJ for recordings)
 - Zenhub (if you would want to go over ZH more ping TJ)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf
  - Access to Tools and AWS
