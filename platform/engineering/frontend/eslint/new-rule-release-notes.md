@@ -1,5 +1,19 @@
 # Release Notes
 
+## ESLint release rules
+
+Sprint 26 & 27 - May 14, 2020
+
+- The following [SonarJS rules](sonarjs.md) will be trialed:
+  - cognitive-complexity
+  - no-collapsible-if
+  - prefer-immediate-return
+- These rules will be under review for 4 weeks (Sprint 26 & 27) and enforced starting Sprint 28
+- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
+- Other ESLint rules that will be added:
+  - va/use-resolved-path
+  - react/prefer-stateless-function
+
 ## SonarJS deployed rules
 
 April 30, 2020
