@@ -12,6 +12,7 @@ We won't store or share your data.
 # Question 1
 
 **Question 1 of 6** 
+
 Are you a:
 
 [button] Patient or support person
