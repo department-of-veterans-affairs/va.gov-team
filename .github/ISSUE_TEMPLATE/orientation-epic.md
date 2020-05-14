@@ -34,7 +34,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
   - [ ] [Set Up Back-end](https://github.com/department-of-veterans-affairs/vets-api#vets-api-)
   - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
   - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
-  - [ ] [Process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
+ - [ ] [Process for when a teammate leaves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/contractoroffboarding.md)
 - [ ] Designers: Attend breakout session
 - [ ] Engineers: Attend breakout session
 - [ ] Front-end Engineers: Attend deep-dive session
