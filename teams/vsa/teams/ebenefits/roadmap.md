@@ -25,7 +25,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
 | Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
-| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q4        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | --        | --        | --        | --        | BGS Integration
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
