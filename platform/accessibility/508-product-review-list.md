@@ -52,6 +52,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [VSA Facility Locator](#vsa-facility-locator)
       - [General Issues](#general-issues)
       - [Facility Locator Urgent Care MVP](#facility-locator-urgent-care-mvp)
+      - [Left Nav](#left-nav)
     - [VSA Public Websites](#vsa-public-websites)
       - [Appeal Modernization Process (AMA)](#appeal-modernization-process-ama)
       - [Disability Calculator](#disability-calculator)
@@ -885,13 +886,37 @@ Back to [Table of Contents](#table-of-contents)
 **Closed**
 * [#8786 [SEMANTIC MARKUP]: Form elements MUST be paired with labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8786)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
 
-* [#8787 [AXE-CORE, SCREENREADER]: Heading levels SHOULD only increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8787)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-2_
+* [#8787 [AXE-CORE, SCREENREADER]: Heading levels SHOULD only increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8787)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-2 - **Serious**_
 
 * [#8788 [FOCUS MANAGEMENT, SCREEN READER]: Focus SHOULD be managed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8788)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
 
 * [#8789 [ZOOM, MOBILE DESIGN]: When zoomed to 400% content MUST not be cut off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8789)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 * [#8792 [FOCUS MANAGMENT]: There MUST not be any keyboard traps](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8792)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-1 ❗ Launchblocker_
+
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+### Left Nav
+
+**Audit status:** _Staging review completed by VSA, May 12, 2020._<br/>
+
+**Open issues**
+
+* [#8961 [SCREENREADER, AXE-CORE, SEMANTIC MARKUP]: `<ul>` and `<ol>` MUST only directly contain `<li>`, `<script>` or `<template>` elements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8961)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_ 
+
+* [#8964 [SCREENREADER]: For the current page CONSIDER adding `aria-current="page"` attribute to the sidenav link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8964)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [#8974 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - In this section button](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8974)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [#8975 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - individual nav links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8975)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [#8977 [SCREENREADER]: CONSIDER removing aria-label from the individual menu links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8977)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+
+* [#8992 [COGNITION]: Left Nav - In this section link SHOULD have an accessible label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8992)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-2 -  - **Serious**_ 
+
+* [#8958 [COGNITION, MOBILE DESIGN]: Sidenav MUST not be cut off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8958)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_ 
 
 
 Back to [Table of Contents](#table-of-contents)
