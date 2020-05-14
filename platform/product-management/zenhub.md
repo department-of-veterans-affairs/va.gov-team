@@ -10,7 +10,7 @@ The difference between a github issue and a Zenhub issue is further described in
 To start using Zenhub, you can follow the onboarding process described here:
 * [Zenhub onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 
-### Zenhub licenses
+### Requesting a Zenhub license
 
 If after following the onboarding instructions above, you see a screen like the below stating "You have not been assigned a license; Contact an admin to request access", 
 
@@ -24,4 +24,13 @@ If after 1 day, Zenhub still doesn't work, please create a new thread in [#vfs-p
 
 The product management process for Zenhub is described here:
 * [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
+ 
+ ## Zenhub administration
+ 
+ If you are a Zenhub administrator, you can use the following steps to approve license requests:
+ 1. Go to https://app.zenhub.com/dashboard/o/department-of-veterans-affairs/manage
+ 2.  Hit "assign all"
+ 3. Follow the additional 1-2 steps to "purchase" the licenses
+ 
+ Note: this will make you feel nervous because it seems like you're shelling out money for something. But you're not. We have a forever unlimited free licenses setup with ZenHub. So, though it feels like you're spending money, the card on file will not be charged for the additional licenses.
  
