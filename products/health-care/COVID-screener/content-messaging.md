@@ -47,9 +47,13 @@ In the past 7 days, have you had a cough or shortness of breath that's new or ge
 In the past 3 days, have you had any of these symptoms?
 
 [radio button] Fever or feeling feverish (chills, sweating)
+
 [radio button] Sore throat
+
 [radio button] Muscle pain or body aches
+
 [radio button] Vomiting or diarrhea
+
 [radio button] Change in smell or taste
 
 [button] No symptoms
