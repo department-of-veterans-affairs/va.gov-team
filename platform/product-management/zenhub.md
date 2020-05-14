@@ -18,7 +18,7 @@ try to click the button to request a license, then wait 1 business day for acces
 
 If Zenhub still doesn't work, or you haven't been granted a license after 1 business day, please create a new thread in #vfs-platform-support and ping @zenhub-admins to request that they grant your license. Please provide your github username so they can process the request.
 
-<img src="zenhub-license-request.png" width="100" alt="zenhub license request">
+<img src="zenhub-license-request.png" width="400" alt="zenhub license request">
 
 ## Product management with Zenhub
 The product management process for Zenhub is described here:
