@@ -3,6 +3,9 @@
 ## Key Findings
 
 - All participants successfully completed the screener, several described it as "easy", "simple", "clean"
+- Some participants indicated that visiting the VAMC would be a stressful event
+  - "You would probably a little stressed out, mask on your face, stressed out"
+  - "I would probably feel a little aprehensive, i would be more comfortable doing telehealth or going to a small, less popluated clinic."
 - Some participants made errors and needed to go back to a previous question, which they were able to do with the browswer back button
   - "It looks like the page requires you to scroll"
 - Question 4 provided a long list of symptoms, which 2 participants noted was distracting
