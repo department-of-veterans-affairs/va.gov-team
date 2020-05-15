@@ -1,4 +1,4 @@
-## Logged-in Homepage P5
+## Logged-in Homepage P6
 
 [Tressa Furner]
 
