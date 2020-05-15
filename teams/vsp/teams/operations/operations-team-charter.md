@@ -48,13 +48,14 @@ _List of products within your team's perview - make sure the list of products he
 
 ### Team Members:
 - Team lead Ops Engineer - Wyatt Walter
-- Product Manager - TJ Rice
-- Ops Engineer - Taylor Skinner
 - Senior Ops Engineer - Nathan Hruby
+- Senior Ops Engineer - Taylor Skinner
+- Senior Ops Engineer - Demian Ginther 
 - Ops Engineer - Bennie Mosher
 - Ops Engineer - Jeremy Britt
+- Ops Engineer - Julian Severino
 - ATO SME - Faith Owusu
-
+- Product Manager - TJ Rice
 Other Member that contribute to our Team's mission
 - DevOps Engineer - William Ryan
 
