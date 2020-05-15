@@ -6,7 +6,7 @@
 
 ### **Planning:**
 
-- Desired date range: 5/5/20 - 5/8/2
+- Desired date range: 5/20 - 5/22
 - Desired number of unique users: ~20
 - How you'll make the product available in production while limiting the # of users who can find/access it: create a landing page to subscribe to the beta newsletter and share the URL with participants.
 - Planning "success" criteria (by the numbers): 
