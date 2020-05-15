@@ -75,7 +75,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 ## Product
 There are four areas of focus for this initiative:
 1. Optimizing site indexing to ensure surfacing of the most relevant results in both on-site and organic search.  Key questions:
-- Is the auto-generated site xml map for VA.gov best structured for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). 
+- Is the auto-generated site xml map for VA.gov best structured for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). Note: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md
 - Have sitemaps been provided for all or the prioritized VA.gov subdomains (site map indexing is preferred to crawling)
 2. Implement and/or improve the VA.gov utilization of available Search.gov features, including: 
 - Type-ahead - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896 
