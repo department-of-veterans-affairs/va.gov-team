@@ -20,8 +20,8 @@ The "paper" forms are available online [(21-22 for VSOs)](https://www.vba.va.gov
 - Authorization
 
 #### eBenefits current user flow
-![Current eBenefits user flow]()
+![Current eBenefits user flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/images/View_Appoint_POA_Breakdown_1.png)
 
 #### Proposed VA.gov user flow
-![Use cases]()
-![Proposed VA.gov user flows]()
+![Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/images/View_Appoint_POA_Usecase_Workflows_1.png)
+![Proposed VA.gov user flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/images/View_Appoint_POA_User_Paths_1.png)
