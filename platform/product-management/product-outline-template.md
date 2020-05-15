@@ -29,9 +29,11 @@
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-_Include links to Domo or Google Analytics Dashboards/Reports_
+* _What are the most important metrics that track with this product/initiative's success?_
+* _Include links to Domo or Google Analytics Dashboards/Reports_
 
 #### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### OKRs
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
