@@ -78,7 +78,7 @@ What would you expect to happen next?
 
 ## Second Task: Alternate conclusion - 5 minutes
 
-Please select [RESTART BUTTON]. This time you are going to work through again, but select [YES/NO] on Question 1. Go ahead when you are ready.
+Please select [RESTART BUTTON]. This time you are going to work through again, but select [YES/NO] on Question 6. Go ahead when you are ready.
 
 **At Complettion**
 
