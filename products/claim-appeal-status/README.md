@@ -65,6 +65,16 @@ The Claim Status Tool was launched approximately 3 years ago and only minor chan
  - Reduce the number of call center calls by 75%
   - Increase the number of status message granularity by 75%
 
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
 ---
 
 ## Results and Recommendations
