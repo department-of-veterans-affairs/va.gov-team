@@ -24,7 +24,7 @@ We will be testing a prototype [Link Will Go Here] through Zoom.
 Participant Criteria
 - Goal: 5 Participants
 - Veterans and Caregivers
-- Representing ages under 40 and 40-65 
+- Representing ages under 40 and over 60
 - Representative gender demographic (at least 1 woman)
 - All levels of familiarity with technology
 
