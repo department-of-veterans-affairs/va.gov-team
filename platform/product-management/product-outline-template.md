@@ -1,27 +1,4 @@
 # Product Outline Template
-
-
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- 
-</details>
-
 ---
 
 ## Overview
@@ -98,3 +75,38 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Before
 
 ### After
+
+---
+
+#### Communications
+
+<details>
+
+- Team Name: 
+- GitHub Label: 
+- Slack channel: 
+- Product POCs:
+- Stakeholders: 
+
+</details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ - Engineering:
+ - Research/Design: 
+ 
+</details>
+
+
+#### Stakeholders
+
+<details>
+ 
+_What offices/departments are critical to make this initiative successful?_
+ 
+</details>
+
