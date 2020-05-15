@@ -51,7 +51,7 @@ After we are able to confirm that anayltics are being captured. It is important 
 - Note: we will not be able to redirect previous years
 
 ### Planning:
-- Desired date: May 11, 2020
+- Desired date: May 20, 2020
 - Post-launch KPI 1: Search refinements before and after initial search
 - Post-launch KPI 2: Exits to univerity pages
 - Post-launch KPI 3: xx lorem ipsum
