@@ -42,7 +42,7 @@
   - **KPI** - # and frequency of Veterans returning to VAOS
   - **KPI** - # of Veterans who schedule an appointment ongoing
 
-### OBJECTIVE 5: Improve visibility into application and BE services/resources performance
+### OBJECTIVE 5 [WIP] : Improve visibility into application and BE services/resources performance
 - **KR** - 
   - **KPI** - Error events in GA
   - **KPI** - Latency
