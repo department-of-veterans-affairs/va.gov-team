@@ -13,10 +13,10 @@ if (Content change type?) then (FAQ text)
       #lightgreen:Review logic in dev;
     repeat while (content in dev is good?) is (no)
   else (no)
-      #lightgreen:repeat :Update markdown_answers.md\npush to master;
+      #lightgreen:repeat :Update chatbot-messages.md\npush to master;
         #yellow:CI to validate format, generate JS output;
         #pink:Upload js to healthbot dev environment;
-        #lightgreen:Check content in dev;
+        #pink:Check content in dev;
       repeat while (content is dev is good?) is (no)
       ->yes;
   endif
@@ -30,25 +30,27 @@ endif
 repeat
 
   repeat
+    #pink:Upload new CDC localization file to staging;
     #pink:Trigger CI: staging promotion (1.0.1);
     #orange:Download scenarios from dev
     Filter scenarios
+    commit results to master
+    tag master 1.0.1
     upload scenario to staging
     run smoke test
-    commit results to master
-    tag master 1.0.1-RC1;
-    #pink:Upload new CDC localization file;
-    #lightblue:Check content in staging;
+    push git changes to remote;
+    #lightgreen:Check content in staging;
     backward:fix issue;
   repeat while (content in staging is good?) is (no)
   ->yes;
 
-  #pink:Trigger CI: prod promotion (1.0.1-RC1);
+  #pink:Upload new CDC localization file to prod;
+  #pink:Trigger CI: prod promotion (1.0.1);
   #orange:Grab tagged ref from git
+  add tag 1.0.1-release
   upload scenario to prod
   run smoke test
-  tag master 1.0.1;
-  #pink:Upload new CDC localization file;
+  push git changes to remote;
   #lightgreen:Check content in production;
   backward:fix issue;
 repeat while (content in prod is good?) is (no)

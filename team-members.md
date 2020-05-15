@@ -2,12 +2,12 @@
 
 ## Microsoft
 - Aaron Barth, Solution Architect
-- Pankaj Surti, Developer + BI and Analytics
-
+- Sajas Salahuddeen, Developer + BI and Analytics
 
 ## ThoughtWorks
 ### Core team
 - Anushya Prasad, Project Manager
+- Jedda Puzon, Product Analyst
 - Karl Brown, Technical Principal
 - Katie Ho, Senior Developer
 - Ramya Ramesh, Product Lead

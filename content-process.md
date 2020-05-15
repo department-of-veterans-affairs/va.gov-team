@@ -5,22 +5,20 @@
 - The team will review all [`content_change`](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Acontent_change) issues as part of the regular grooming process and pull them into the team 
 
 # Process for updating the content within the Chatbot
-- Updated Markdown file is turned into Javascript ([automatically](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/Jenkinsfile#L46))
-- File needs to be uploaded to healthbot (manually) 
-- Once QA passes, automated process to move from DEV →  Staging →  Prod 
-  - A script needs to be created 
-  - Jenkins job to run the script
+- Updated Markdown file is turned into Javascript [automatically by a Jenkins job](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/Jenkinsfile#L46))
+- The javascript file needs to be uploaded to healthbot manually by a developer. At this point, the change will be live in dev. 
+- Once QA in dev passes, there is an automated process to move from DEV →  Staging →  Prod
+    - First, the staging promotion job is run. This gets the latest scenarios from dev, checks them into github with a tag, and pushes them to staging.
+    - Then, if staging check out, the production promotion job is kicked off. This job gets the scenarios from github based on the tag, applies another tag to denote that the content is released, and pushes the scenarios to production.
 - The team will push regular content change requests received to Prod twice every week, on Mondays and Thursdays. Additionally, if there are any critical updates that are required, the team will make such changes available on Prod as needed. 
   - If a Holiday falls on a Monday, content change will happen the following business day
   
 ## Notes 
-- Content changes Waiting for JTF approval - will be in a branch.
+- Content changes Waiting for JTF approval will be placed in a branch.
 - Approved changes will constantly be pushed to Master and we can release every Monday/Thursday
-  
-## Open Questions 
-- Who needs to be involved to get changes from DEV →  Staging →  Prod? Who has access to be able to do this?
+ 
 
 # Content process
-Flow diagram for content changes
+The below diagram details the process for content updates:
 
 ![content-process](content-process.png)
