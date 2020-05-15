@@ -7,6 +7,7 @@
 
 - Maybe — A comment on why we should feel justified in this work.
   - User testing: Current homepage/authenticated experience does not meet user's expectations for what they would expect to see in a logged-in state.
+  - User testing: It is clear just how much people log in and expect to see something tailored to *them*.
 
 **UI recs**
 
