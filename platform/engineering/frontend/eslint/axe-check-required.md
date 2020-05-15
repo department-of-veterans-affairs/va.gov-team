@@ -4,7 +4,7 @@ VSP engineering has shipped a custom ESLint rule: [`axe-check-required`](https:/
 
 The `axe-check-required` rule looks for the [`axeCheck()` method](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) in Nightwatch end-to-end tests, and will throw if it does not find at least one per e2e test.
 
-![ESLint warning message on the user terminal](https://user-images.githubusercontent.com/934879/82087054-fc561100-96b4-11ea-8703-0de349f8dce1.jpg)
+![ESLint warning message on the user terminal](https://user-images.githubusercontent.com/934879/82089161-b733de00-96b8-11ea-88a7-6558a4dbfdf6.jpg)
 
 ## Adding `axeCheck` to Nightwatch e2e tests
 
