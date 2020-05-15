@@ -90,8 +90,20 @@ _Are other features dependent on this one? What do we need from partners? What d
 - Availability of Mapbox functionality and features based on current contract and version
   
   ### Risk factors
-  
-  ---
+
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
+---
+
+
 ### Results and Recommendations
 #### Results
 - TBD after launch
