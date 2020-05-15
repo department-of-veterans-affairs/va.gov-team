@@ -7,6 +7,8 @@ Tressa Furner (tressa.furner@adhocteam.us), May 8, 2020
 
 In recent research for the effort to combine profile and account on VA.gov, we discovered that participants had a difficult time using the mobile subnavigation within the new profile design.  We recommended making the mobile subnavigation clearer for the logged in experience.  Since this is something that might effect the site as a whole, this is possibly a two-tier solution. First, there should be a short term fix specific to the profile, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
 
+In the The last statistic she remembers is about 1/3 all traffic is mobile. Joanne on the VSP platform could have new numbers now though
+
 This document is a place to store any findings made by other designers concerning Mobile Navigation for ease of hand-off in future design efforts.
 
 ## Gathered Research
