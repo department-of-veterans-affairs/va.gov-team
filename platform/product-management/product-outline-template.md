@@ -1,13 +1,26 @@
 # Product Outline Template
 
+
 #### Communications
+
+<details>
+
 - Team Name: 
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
 - Stakeholders: 
 
+</details>
+
 #### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ 
+</details>
 
 ---
 
@@ -33,6 +46,20 @@
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
+
+
+---
+## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
+
+### KPIs
+_Include links to Domo or Google Analytics Dashboards/Reports_
+
+#### Baseline KPI Values
+
+### OKRs
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
