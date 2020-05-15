@@ -1,4 +1,4 @@
-# Research Plan for Facility Locator Redesign - April 2020
+# Research Plan for Facility Locator Redesign - June 2020
 
 ## Goals
 This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Locator team.
