@@ -38,6 +38,8 @@ Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Order of priorities
 
+What's leftover from last sprint that we need to move into this one?
+
 Profile 2.0
 
 - Design
@@ -47,8 +49,8 @@ Profile 2.0
   - Finish build
   - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
 - PM 
-  — Submit analytics request for review
-  — Analytics review (VSP cycle)
+  - Submit analytics request for review
+  - Analytics review (VSP cycle)
 
 Logged in homepage
 
