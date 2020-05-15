@@ -3,17 +3,17 @@
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-N/A for this feature release.
+We have two userd ready to perform UAT in production on our release date that will help to determine
 
 
 
 ## Phase II: unmoderated production testing
 
 ### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
-- Desired date range: 5/6/20 - 5/8/20
-- Desired number of unique users: We plan to start with 1% of users and gradually increase to 100% of users over two days.
+- Desired date range: 5/20/20 - 5/26/20
+- Desired number of unique users: We plan to start with 500 users and gradually increase in increments of 500 until we have reached 50 authentications. Based on current usage trends, approximately 25% of VA.gov users authenticate. However if we have not reached 50 authenticated users in 1 hour we plan to release this feature in incrememnts of 500 users until the desired sample size is reached.
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
-- "Success" criteria (by the numbers):  Decrease in amount of logins per user per session. Under investigation by John Wehausen.
+- "Success" criteria (by the numbers):  Login success rates per method (id.me, MHV and DS logon) should remain stable.
 
 ### Planning - Inbound (SSOe is live for users logging in on [eauth](https://eauth.va.gov/accessva/) properties and then navigating to VA.gov):
 - Desired date range: 5/6/20 - 5/8/20
