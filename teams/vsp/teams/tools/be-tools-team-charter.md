@@ -21,7 +21,6 @@ Maintain and track the stability, performance and health of the platform for eve
  - Version Control of other systems.
  - Triage service
  - vets-api
- - Identity (?)
 
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
@@ -36,11 +35,11 @@ _List of products within your team's perview - make sure the list of products he
 - Team Product Manager: Alex Pappas
 
 - BE Dev Lead: John Paul Ashenfelter
-- BE Dev Engineer: Anna Carey
 - BE Dev Engineer: Bill Ryan (Ops Eng)
 - BE Dev Engineer: Johnny Holton
 - BE Dev Engineer: Keifer Furzland
 - BE Dev Engineer: Lindsey Hattamer
+- BE Dev Engineer: Philip Becker
 
 ---
 
@@ -56,6 +55,7 @@ _List of products within your team's perview - make sure the list of products he
   - Tuesday/Thursday (Slack Ups)
 - Duration: 15 min
 - Details: 3 Question Format: What I did yesterday? What will I do today? Any blockers?
+- Stand up updates will be recorded daily in the BE Tools Team Notes located [here](https://docs.google.com/document/d/1LdP53ZdxyUZISgXPkttrnoOuxYwDx5gNdUt5Cqbl6DM/edit?pli=1#)
 
 #### Retro
 - What: Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
@@ -69,7 +69,7 @@ _List of products within your team's perview - make sure the list of products he
 - When: 1st Wednesday of every sprint @ 12:30 ET (Follows Retro)
 - Duration: 1 hour
 
-#### Mid-Sprint Update
+#### Mid-Sprint Checkin
 - What: Review progress made against sprint objectives
 - Who: Whole Team
 - When: 2nd Wednesday of every sprint
