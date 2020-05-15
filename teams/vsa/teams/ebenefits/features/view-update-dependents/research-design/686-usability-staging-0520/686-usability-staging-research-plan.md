@@ -26,12 +26,11 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimize potential  confusion and consolidate the form's flow.
 
 #### Determine if users understand and accept the multi-purpose nature of the form
- - Confirm users' acceptance of the a-la-carte selection of various workflows (checkboxes)
  - Observe users' interactions with workflow not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
  - Determine if users notice/understand the form-within-form nature of the 21-686c and 21-674
+ - Observe how users interact with the form review accordions
 
 #### Decide what support users need to navigate and successfully submit the form
- - Determine if users can find and understand the instructions relevant to their scenarios on the intro page.
  - Determine what instructions, guidance and examples will be helpful within form workflows not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
  - Assess user acceptance of various "remove" workflows; pay particular attention to the emotional nature of the scenarios.
  - Assess users' understanding and acceptance of "tell-me-more" accordions, particularly in workflows requiring uploaded documentation
@@ -57,12 +56,12 @@ The over-arching business goal of the 686 is the quick automatic processing of t
 5. Where do users need examples, more guidance or improved section headers as they interact with the form?
 6. Will users understand when and how to upload additional documentation?
 7. Is the information on the confirmation page clear and complete?
-8. Can users complete the longer scenarios in 30 minutes or less?
+8. How will users interact with the form review accordions?
+9. Can users complete the longer scenarios in 30 minutes or less?
 
-Additional Questions
-
-9. What are users' experiences with dependents on their VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
-10. What workflow combinations (scenarios) do users consider likely? 
+**Additional Questions**
+10. What are users' experiences with dependents on their VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
+11. What workflow combinations (scenarios) do users consider likely? 
 
 ### Hypotheses
 The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
@@ -70,7 +69,10 @@ The 686 is a long and complicated form in its entirety, but the digital version 
  - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
  - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
  - User acceptance and understanding of the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
- - Users will understand and accept the longer workflows; list/loop may create some confusion (odd button sequences); divorce and stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
+ - Users will understand and accept the longer workflows
+ - The list/loop pattern may create some confusion (odd button sequences)
+ - Divorce plus stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
+ - The form review accordions will prove challenging to participants because of page depth, and the potentially large number of section in longer workflows.
 
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
