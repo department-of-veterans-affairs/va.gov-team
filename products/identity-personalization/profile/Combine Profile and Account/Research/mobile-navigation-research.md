@@ -13,7 +13,7 @@ This document is a place to store any findings made by other designers concernin
 
 Authenticated Experience, [Profile 2.0 Research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/cpaa-research-findings.md)
 
-**Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.**
+- **Specifically in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation.**
 Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the profile and had a difficult time finding the profile menu. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. Furthermore, participants seemed confused about the difference in functionality between Menu, 'User Name' Menu, and 'Profile Menu'.
  > “...my only complaint is the profile menu did not stand out...”
  
@@ -31,9 +31,11 @@ Most participants looked elsewhere (i.e. Menu, 'Kim') to navigate through the pr
  > "I can’t actually click anywhere. But I would click out and try to find it in one of the search tool boxes..."
  
  ![Mobile menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Screens/mobile%20menu.png)
+
+
+
+ - **Text in large font sizes are not stacking correctly**
  
- **Text in large font sizes are not stacking correctly**
- 
- From Martha Wilkes during chatbot testing. 
+ From Martha Wilkes during chatbot testing. (Has inverted color mode on)
  
  ![Mobile font size](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/Screens/Mobile%20Font%20Size%20and%20Stacking.jpg)
