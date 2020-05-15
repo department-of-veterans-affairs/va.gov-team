@@ -16,8 +16,7 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Check on mobile specific issues with getting into Zoom
 
 ## Intro - 5 minutes
 
@@ -35,9 +34,9 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the tool, let’s start with a few warm-up questions.
 
@@ -75,7 +74,7 @@ What would you expect to happen next?
 - How quickly can they complete the screener?
 - Their reaction/understanding of the PASS/SCREEN page
 
-## Second Task: Alternate conclusion
+## Second Task: Alternate conclusion - 5 minutes
 
 Please select [RESTART BUTTON]. This time you are going to work through again, but select [YES/NO] on Question 1. Go ahead when you are ready.
 
@@ -90,13 +89,14 @@ What would you expect to happen next?
 - Reaction to alternate conclusion
 - How that changes their impression of the tool
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
 Thank you for working through that with me. I just have a few more questions before we break.
 
 - What did you like or dislike about the experience of using that tool?
 - Since I cannot see your hands, can you please describe how you you were holding your phone during the session?
+- Is there anything else you would like to share?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
