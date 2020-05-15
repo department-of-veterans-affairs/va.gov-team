@@ -51,11 +51,13 @@ Do you have any upcoming trips planned to a VA Medical Center?
 
 ## First Task: Complete Screener - 5 minutes
 
-Ok, now I am going to ask you to share your screen with me. Please look at the bottom of your phone screen, in the center you should see a button that says "share content". Select that button. You should be prompted with an option to share "Zoom". Please select Zoom and Zoom only. Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
+Ok, now I am going to ask you to share your screen with me. Please look at the bottom of your phone screen, in the center you should see a button that says "share content". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
 
 Please tap anywhere to return to the Zoom App.
 
 Great, now I can see your phone screen! I'm about to send you a link through the chat window. Please tap the link when it comes through. [If they miss it], no problem, look at the bottom of your phone screen, on the left there should be a button that says "Chat". 
+
+Send the link: []
 
 **Prompt**
 
