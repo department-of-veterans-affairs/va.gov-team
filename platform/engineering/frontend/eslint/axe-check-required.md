@@ -4,13 +4,11 @@ VSP engineering has shipped a custom ESLint rule [axe-check-required](https://gi
 
 Axe-check-required looks for the [axeCheck() method](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) in Nightwatch end-to-end tests, and will throw if it does not find at least one per e2e test.
 
-
+![ESLint warning message on the user terminal](https://user-images.githubusercontent.com/934879/82087054-fc561100-96b4-11ea-8703-0de349f8dce1.jpg)
 
 ## Adding axeCheck to Nightwatch e2e tests
 
 So the axe-check-required rule has thrown a warning -- your end-to-end test doesn't have an accessibility scan. Not to worry, we can add `axeCheck` in just a few lines of code, and remove that ESLint warning.
-
-
 
 **axeCheck method arguments**
 
@@ -42,8 +40,6 @@ _(please review with your accessibility specialist)_
 ```javascript
 client.axeCheck('.unique-class-name', rules: ['section508'] });
 ```
-
-
 
 ## Nightwatch axeCheck errors
 
