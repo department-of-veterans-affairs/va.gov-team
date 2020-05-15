@@ -47,11 +47,13 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Go Live!
 
 ### Planning:
-- Desired date: 04/26/2020
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Desired date: 05/26/2020
+- Post-launch KPI 1: No new defects reported
+- Post-launch KPI 2: Performance: Endpoint latency doesn't change post-launch
+  - Checkpoint Immediately Post-release
+  - 2 weeks post-release
+  - 1 month post-release
+- Post-launch KPI 3: Google Analytics: Learn more is clicked? Need UX input on this
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
@@ -73,6 +75,11 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
+
+
+
+## Failed Launch
+
 
 ## Post-launch Questions 
 
