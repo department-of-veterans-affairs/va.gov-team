@@ -56,6 +56,7 @@ _List of products within your team's perview - make sure the list of products he
 - Ops Engineer - Julian Severino
 - ATO SME - Faith Owusu
 - Product Manager - TJ Rice
+
 Other Member that contribute to our Team's mission
 - DevOps Engineer - William Ryan
 
