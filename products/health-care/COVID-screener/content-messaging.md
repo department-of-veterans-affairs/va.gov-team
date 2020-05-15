@@ -89,18 +89,16 @@ In the past 14 days, have you had contact with someone diagnosed with COVID-19 w
 
 ## PASS
 
-_[update notes: tightened copy a bit more]_
-
 **Valid for:**
 Tuesday, May 12, 1:23 p.m.
 
 Please show this screen to the staff member at the facility entrance.
 
-[button] Start new screening
+Thank you for helping us protect you and others during this time.
+
+[link] Start new screening
 
 # Fail
-
-_[update notes: tightened copy a bit more]_
 
 ## More screening needed
 
@@ -109,6 +107,7 @@ Tuesday, May 12, 1:23 p.m.
 
 Please show this screen to the staff member at the facility entrance.
 
-[button] Start new screening
+Thank you for helping us protect you and others during this time.
 
-_[opening PR]_
+[link] Start new screening
+
