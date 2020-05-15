@@ -86,9 +86,10 @@ VFS teams rely on the VSP Backend Tools team to review and approve pull requests
 
 Several GitHub filters exist to quickly identify pull requests needing review. 
 
-- [first reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP+NOT+WIP+)
+- [first reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+draft%3Afalse+-label%3AVSP+-label%3ALighthouse+review%3Arequired)
 - [first reviews for `GIDS`](https://github.com/department-of-veterans-affairs/gibct-data-service/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+)
 - [subsequent reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3A%22Please+Review%22+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP)
+- [VSP team reviews](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+draft%3Afalse+-label%3AVSP+-label%3ALighthouse+review%3Arequired)
 
 For quick reference these are also pinned in the [#vsp-backend-utility-dev] channel. 
 
