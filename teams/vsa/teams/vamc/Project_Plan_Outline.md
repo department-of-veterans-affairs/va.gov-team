@@ -138,7 +138,17 @@ Sprint 19
 
 ### Recommendations
 - TBD after launch
+
 --- 
+
+## Go-to-market Strategy
+- These pages will replace existing VA Medical Center pages
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
+---
 
 # Implementation Info
 
