@@ -89,7 +89,7 @@ There are four areas of focus for this initiative:
 - Tweets - https://search.gov/manual/twitter.html
 - YouTube videos - https://search.gov/manual/youtube.html (if a priority to the business)
 
-As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
+4. As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 
 ## User Insights
 - 
