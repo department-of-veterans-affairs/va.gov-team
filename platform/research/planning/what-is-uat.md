@@ -1,19 +1,10 @@
 # User Acceptance Testing (UAT)
-
-* **Definitions for terms used in this file:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
   
 <hr> 
 
 * [What is UAT?](#what-is-uat)
 * [UAT Logistics](#uat-logistics)
-* [Process for DSVA](#process-for-dsva-and-internal-contractors)
-* [Process for External Contractors](#process-for-external-contractors)
+* [Process](#process)
 
 <hr>
 
@@ -94,19 +85,15 @@ Here are some examples to help you understand when you must test with Veterans v
 <hr>
 
 
-## Process for DSVA and Internal Contractors
+## Process
 
-1. Work with the devops team to determine how you will do your UAT.
-
-2. Recruit participants. These methods for UAT recruiting have been useful in the past.
+1. Work with your DEPO Lead to recruit participants. These methods for UAT recruiting have been useful in the past, but should go through your DEPO Lead.
 
     - See [the "UAT recruiting" bullet point here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Fill out the form if you'd like to use this option for UAT recruiting.
 
-    - **IS ADVISORY BOARD STILL OPERATING?** Advisory Board: DSVA has an advisory board which was started by Marina Martin, the previous CTO and Team Lead.  It is comprised of key stakeholders and VA champions who have helped us over the years, many of whom are Veterans.  To email this group, please work with StatOps Lead or Vets.gov Lead. 
+    - Social Media: If you can craft a few sentences about who you are looking for and what you need tested you can put this up on social media sites to try and find participants. Facebook search different groups and ask the administrator to join or post or if it's public, post yourself. You can also try on Twitter or on your personal Facebook page and ask others to share!
 
-    - Social Media: If you can craft a few sentences about who you are looking for and what you need tested you can put this up on social media sites to try and get Veterans.  Facebook search different groups and ask the administrator to join or post or if it's public, post yourself.  You can also try on Twitter or on your personal Facebook page and ask others to share!
-
-    - ID.me: ID.me has a huge network of Veterans and they post regularly on their social platforms.  You could reach out in the slack channel and ask if they would be willing to help. 
+    - ID.me: ID.me has a huge network of Veterans and they post regularly on their social platforms. You could reach out in their slack channel and ask if they'd be willing to help. 
 
     - Ask the business owner or main stakeholder on the project to help recruit. 
 
@@ -115,14 +102,8 @@ Here are some examples to help you understand when you must test with Veterans v
     -  MHV Coordinators: This should really be a special ask and should only be done if it's necessary for you to go through MHV Coordinators.  In the past we have gotten pushback from Susan Haidary (who runs the MHV Coordinator program) on requesting help from them.
 
     - VSOs: _can someone enter info here about going through VSOs for this if you have had experience_
-
-    - Operation Code: https://operationcode.org/ More info about this coming soon!
-
-<hr>
-
-## Process for External Contractors
-
-1. Create a UAT test script. The test script is to make sure you've captured all acceptance criteria before you write the Conversation Guide in the next step. This can be any format you like.
+    
+<!--1. Create a UAT test script. The test script is to make sure you've captured all acceptance criteria before you write the Conversation Guide in the next step. This can be any format you like.-->
 
 1. Create a Conversation Guide. [See examples](#example-conversation-guides-for-uat)   
 
@@ -138,5 +119,8 @@ Here are some examples to help you understand when you must test with Veterans v
     * Create Github issues for each problem found. 
     * Fix all issues related to acceptance criteria.
     * Add any remaining issues to your backlog and prioritize them.
+
+<!--    - Operation Code: https://operationcode.org/ More info about this coming soon!-->
+
 
 
