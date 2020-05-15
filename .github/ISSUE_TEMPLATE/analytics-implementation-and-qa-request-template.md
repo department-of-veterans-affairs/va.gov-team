@@ -10,8 +10,13 @@ assignees: joanneesteban, bsmartin-ep, jonwehausen
 # Analytics Implementation or QA Request
 
 ## What this form is for
-Use this template to request Google Tag Manager and Google Analytics implementation or QA for your product. Please fill out all brackets. 
 
+<details>
+<summary>More Information</summary>
+<div>
+    <br>
+<p>Use this template to request Google Tag Manager and Google Analytics implementation or QA for your product. Please fill out all brackets.</p>
+    
 > _Please see the following information for implementation timeline:_
 > New Teams: Implementation will usually be completed in 4 sprints:
 > 
@@ -24,6 +29,8 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 > 
 > - Sprint 1: Discovery and FE Implementation
 > - Sprint 2: Tagging Implementation and QA
+</div>
+</details>
 
 ## Description
 - Is this request for Google Analytics implementation or QA?
