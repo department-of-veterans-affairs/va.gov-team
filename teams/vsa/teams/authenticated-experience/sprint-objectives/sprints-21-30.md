@@ -40,26 +40,20 @@ Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 Profile 2.0
 
-- Design — finish up remaining tickets that have come up
-- Design - IA review
-- Finish build
-- Build - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
-- Analytics — submit request for review
-- Analytics - review (VSP cycle)
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-
-
-----
-
-- 508 - Request review of build
-- QA - Implement fixes/updates that came out of QA/508 audit
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
-- Testing - Implement/run tests we determine we need
+- Design
+  - Finish up remaining tickets that have come up
+  - IA review
+- Build
+  - Finish build
+  - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+- PM 
+  — Submit analytics request for review
+  — Analytics review (VSP cycle)
 
 Logged in homepage
 
-1. User research synthesis
-2. Begin (finish?) discovery phase synthesis
+- User research synthesis
+- Begin (finish?) discovery phase synthesis
 
 ## Sprint 23 (6/3 – 6/16)
 
@@ -67,6 +61,12 @@ Logged in homepage
 
 Profile 2.0
 
+----
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
+- QA - Implement fixes/updates that came out of QA/508 audit
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
 - Call center - Prep guide
 - Call center - Prep video
 - Call center - Contact Center Review (VSP cycle)
