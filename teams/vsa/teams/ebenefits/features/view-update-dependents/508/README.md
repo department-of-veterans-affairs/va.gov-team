@@ -144,21 +144,116 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 8. Zoom to 400% at 1280px
 - Zoom in was uneventful. Looked like a huge mobile screen.
 ----
-**Staging url:** 
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/add-child
 1. Scan with axe browser plugin
-
+- None found
 2. Scan with axe-coconut
-
+- 🙈 some notes here on contrast and backgrounds but they are in the header or part of the design system
 3. Lighthouse Scan (Chrome)
-
+- 100%
 4. NVDA Scan (Firefox)
-
+Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
-
+- Worked great
 6. Keyboard Navigation
-
+- Worked great
 7. Color contrast & blindness
-
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
 8. Zoom to 400% at 1280px
-
+- Zoom in was uneventful. Looked like a huge mobile screen.
 ----
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/add-child/0
+1. Scan with axe browser plugin
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+2. Scan with axe-coconut
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/add-child/0/additional-information
+1. Scan with axe browser plugin
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+2. Scan with axe-coconut
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/add-child-evidence
+1. Scan with axe browser plugin
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+2. Scan with axe-coconut
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
+**Staging url:** h
+1. Scan with axe browser plugin
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+2. Scan with axe-coconut
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
+**Staging url:** h
+1. Scan with axe browser plugin
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+2. Scan with axe-coconut
+- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
