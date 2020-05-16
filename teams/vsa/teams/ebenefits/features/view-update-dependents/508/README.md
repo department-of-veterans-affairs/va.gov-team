@@ -16,14 +16,14 @@ User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
 - Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential.  
 ```HTML
 <h4>Follow the steps below to apply for declare or remove a dependent.</h4>
-Check "Prepare" and "When you apply,..." as they may be H5/6
 ```
+Check "Prepare" and "When you apply,..." as they may be H5/6
 2. Scan with axe-coconut   
 - Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential.  
 ```HTML
 <h4>Follow the steps below to apply for declare or remove a dependent.</h4>
-Check "Prepare" and "When you apply,..." as they may be <H5/6>
 ```
+Check "Prepare" and "When you apply,..." as they may be <H5/6>
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
@@ -36,11 +36,11 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 - Links were easily viewable. 
 - No contrast errors were detected in the page.
 8. Zoom to 400% at 1280px
-- Zoom in was uneventful.  Looked like a huge mobile screen.
+- Zoom in to 400% was uneventful.  Looked like a huge mobile screen.
 ----
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/686-options-selection
 1. Scan with axe browser plugin
-- 🙈 in the footer
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
@@ -50,7 +50,7 @@ Element source
 <h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
 ```
 2. Scan with axe-coconut
-- 🙈 in the footer
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
@@ -73,15 +73,92 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 8. Zoom to 400% at 1280px
 - Zoom in was uneventful. Looked like a huge mobile screen.
 ----
-
-
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/veteran-information
+1. Scan with axe browser plugin
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+Element location
+``` HTML
+.va-footer-linkgroup:nth-child(1) > h4
+```
+Element source
+``` HTML
+<h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
+```
+2. Scan with axe-coconut
+- Text inside the element is not included in the accessible name
+Element location
+``` HTML
+a[aria-label="\38 00\.\ 8\ 2\ 7\.\ 1000"]
+```
+Element source
+``` HTML
+<a aria-label="800. 8 2 7. 1000" href="tel:800 827 1000">800-827-1000</a>
+```
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+Element location
+``` HTML
+.va-footer-linkgroup:nth-child(1) > h4
+```
+Element source
+``` HTML
+<h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
+```
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/veteran-address
+1. Scan with axe browser plugin
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+Element location
+``` HTML
+.va-footer-linkgroup:nth-child(1) > h4
+```
+Element source
+``` HTML
+<h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
+```
+2. Scan with axe-coconut
+None found
+3. Lighthouse Scan (Chrome)
+- 100%
+4. NVDA Scan (Firefox)
+Links and buttons showed up in the elements list.  Reading sounded fine.
+5. VoiceOver (Safari)
+- Worked great
+6. Keyboard Navigation
+- Worked great
+7. Color contrast & blindness
+- Links were easily viewable. 
+- No contrast errors were detected in the page.
+8. Zoom to 400% at 1280px
+- Zoom in was uneventful. Looked like a huge mobile screen.
+----
 **Staging url:** 
 1. Scan with axe browser plugin
+
 2. Scan with axe-coconut
+
 3. Lighthouse Scan (Chrome)
+
 4. NVDA Scan (Firefox)
+
 5. VoiceOver (Safari)
+
 6. Keyboard Navigation
+
 7. Color contrast & blindness
+
 8. Zoom to 400% at 1280px
+
 ----
