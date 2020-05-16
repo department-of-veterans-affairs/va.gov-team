@@ -27,7 +27,7 @@ Check "Prepare" and "When you apply,..." as they may be <H5/6>
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -62,7 +62,7 @@ Element source
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -106,7 +106,7 @@ Element source
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -133,7 +133,7 @@ None found
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -152,7 +152,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -171,7 +171,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -190,7 +190,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -209,7 +209,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -220,7 +220,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 8. Zoom to 400% at 1280px
 - Zoom in was uneventful. Looked like a huge mobile screen.
 ----
-**Staging url:** h
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/review-and-submit
 1. Scan with axe browser plugin
 - 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
 2. Scan with axe-coconut
@@ -228,7 +228,7 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 3. Lighthouse Scan (Chrome)
 - 100%
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+- Links and buttons showed up in the elements list.  Reading sounded fine.
 5. VoiceOver (Safari)
 - Worked great
 6. Keyboard Navigation
@@ -239,21 +239,20 @@ Links and buttons showed up in the elements list.  Reading sounded fine.
 8. Zoom to 400% at 1280px
 - Zoom in was uneventful. Looked like a huge mobile screen.
 ----
-**Staging url:** h
+**Staging url:** http
 1. Scan with axe browser plugin
-- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+
 2. Scan with axe-coconut
-- 🙈 a few header and footer compalaints; out of scope for us but Public Websites, or Drupal team might be interested
+
 3. Lighthouse Scan (Chrome)
-- 100%
+
 4. NVDA Scan (Firefox)
-Links and buttons showed up in the elements list.  Reading sounded fine.
+
 5. VoiceOver (Safari)
-- Worked great
+
 6. Keyboard Navigation
-- Worked great
+
 7. Color contrast & blindness
-- Links were easily viewable. 
-- No contrast errors were detected in the page.
+
 8. Zoom to 400% at 1280px
-- Zoom in was uneventful. Looked like a huge mobile screen.
+
