@@ -6,7 +6,7 @@
 2. [508 Compliance Tracker](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=0)
 3. [Accessibility Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
 
-🙈 - Out of scope, note party responsible
+🙈 - Out of scope, note team(s) responsible
 
 ## Credentials Used
 User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
