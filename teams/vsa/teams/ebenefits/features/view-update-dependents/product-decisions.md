@@ -24,7 +24,8 @@ When adding dependent, ask an additional (optional) question: "Did this dependen
 Ask a global (optional) question: "Did the household have a total income of less than $XXX in the last tax year?"
   
 _This should be handled with care and context so that financial questions are not off-putting to the Veteran_
-- Design the presetnation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
+- Design the presentation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
+- These questions are in the current mockups, with callouts, but will not be implemented until after production.
 
 **TL;DR - 2 new pension questions to be added.  Create a mockup for later implementation**
 
@@ -37,8 +38,25 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+------------
+
+## Field Deltas 
+`May 18, 2020`  
+**The form presents a set of questions and possible answers but the backend in BGS may only accept a portion or a different set of them.**  
+  
+_As much as possible we want the structured data to be representative of what is being presented._
+- Ensure there is documentation on what these deltas are.
 
 ------------
+
+## Tweaks to Questions  
+`May 18, 2020`  
+
+**Report Divorce - two radio buttons for reason marriage ended: Divorce and Annulment / Other.
+Spouse Marriage History - three radio buttons for reason marriage ended: Divorce, Death, and Other.**  
+  
+------------
+
 ## Issue Title  
 `Date decided`  
 **Description.**  
@@ -47,3 +65,4 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+------------
