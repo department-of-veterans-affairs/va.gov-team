@@ -1,8 +1,8 @@
-## Logged-in Homepage P6
+## Logged-in Homepage P15
 
 [Tressa Furner]
 
-*[Participant #15] [5/13/2020] [3:15 PM EST]*
+*[Participant #15] [5/15/2020] [3:15 PM EST]*
 
 ## Intro - 3 minutes
 
