@@ -31,7 +31,7 @@ Most of View Dependents is finished, but with this timeline, the remaining steps
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - DE: Refine form content (labels, titles, buttons, etc) ([#6965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6965))
-- ⏳ FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, [#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224) 👈 (2 of 6))  
+- ⏳ FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, (see Sprint 21: 2 of 6) 👈))  
 - FE: refactor workflows ([#7736](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7736))
 - BE/FE: connections made ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)✔, [#7724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7724)✔)
 - FE: get a `200` response from BE ✔
@@ -54,25 +54,26 @@ _April 22 - May 5_
 
 ### Sprint 21
 _May 6 - May 19_
-- BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
 - ⏳ BE: PDF Fill (1 Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) 👈
-- ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) 👈
+- BE: Required BGS Field Mapping for 686 Submission ([#8349](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8349))  👈
 - Implement Critical Content Changes for the 686 [#8016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8016) ✔
 - FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201)) ✔
-- DE: 686 usability Sessions 
+- DE: 686 usability Sessions  ([#8569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8569)) 👈
+- FE (new): Veteran Info Review Page ([#8838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8838), [#8829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8829)) ✔
+
+### Sprint 22 
+_May 20 - June 2_
+- ⏳ BE: PDF Send to VBMS (1 Sprint)
+- BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
+- ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) 👈
+- ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) 👈
+- BE/FE: v1 code complete
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
 - 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)  
 _(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
-- Veteran Info Review Page; page #8838, data #8829, gating #8838
-
-### Sprint 22 
-_May 20 - June 2_
-- ⏳ BE: PDF Send to VBMS (1 Sprint)
-- ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) 👈
-- BE/FE: v1 code complete
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 - FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
