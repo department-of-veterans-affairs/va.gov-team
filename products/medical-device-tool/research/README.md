@@ -60,7 +60,7 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
 - Synthesis Artifacts
   - [Personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/personas.md)
 - Research, IA, and Content Consultation Notes
-  - [IA Consultation Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/ia-recommendations-v1.png)
+  - [IA Consultation Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md)
 - Discovery Readout
   - [Discovery readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md) 
   - [Discovery readout presentation deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
