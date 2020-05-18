@@ -141,7 +141,7 @@ As the authenticated experience team, we want to be able to do the following:
 - Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
 - Bet 3: Improve the information architecture
 - Potential KPIs
-  - Same or increased count of direct deposit updates after clicking the side nav (would show people found what they were looking for)
+  - Clicks on the "Direct deposit" link in the navigation *plus* the same amount or more of direct deposit submissions
   - Less time on the profile, *plus* same amount or more of successful direct deposit submissions 
 
 **Key result**: Decreased time to find and interact with account settings
@@ -150,7 +150,7 @@ As the authenticated experience team, we want to be able to do the following:
 - Bet 3: Improve the information architecture
 - Potential KPIs
   - Less time on the profile, *plus* same amount or more of clicks on links to verify identity/set up 2FA/reset password 
-  - Clicking on links to verify identity/set up 2FA/reset password after clicking the side nav (would show people found what they were looking for)
+  - Clicks on the "Account settings" link in the navigation *plus* the same amount or more of clicks to verify identity/set up 2FA/reset password
 
 **Key result**: Increase overall satisfaction with the profile experience
 - Bet 1: Combine Profile and Account pages
