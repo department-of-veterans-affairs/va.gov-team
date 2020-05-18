@@ -25,6 +25,8 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
 - VFS KPI Setting and Tracking Processes
 - Contact Center relationships
 - Contact Center triaging
+- Domo
+- BigQuery
 
 **Metrics Suite**
 - Google Analytics
@@ -38,6 +40,9 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
 - Social Studios
 - PA&I
 - Grafana*
+- Speedcurve*
+
+* Grafana is owned by VSP Back End Tools and VSP Operations. Speedcurve is owned by VSP Front End Tools.
 
 ### Responsibilities:
 *Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
