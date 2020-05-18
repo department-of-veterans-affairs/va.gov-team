@@ -1,3 +1,5 @@
+# This doc is a work in progress
+
 # Platform initiative development checklist
 
 ### Ask yourself the questions below weekly, starting from Day 1.
