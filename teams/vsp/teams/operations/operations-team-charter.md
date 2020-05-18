@@ -27,6 +27,7 @@ Note: These may shift in the new Infra.
 |Technical Compliance Issues|Nessus and WASA scans, Ensuring compliance with documentation, SSL configuration|
 
 Note: This list will change once we are in the new Infra. 
+_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Areas we work in: 
 - SRE
@@ -35,12 +36,19 @@ Note: This list will change once we are in the new Infra.
 - Platform Infrastructure
 - Governance & Security
 
-Note: These may shift in the new Infra. 
-
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+Note: These will shift in the new Infra. 
 
 ### Roadmap:
 [Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team/pull/3082#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations,super-epic&repos=133843125,48004036,194202180,31788863)
+
+###  Gray Areas and Questions
+- CI/CD in future infra
+- CI pipeline Monitoring in the future Infra 
+- AWS account (used across multiple contracts)
+
+
+
+
 
 ---
 
