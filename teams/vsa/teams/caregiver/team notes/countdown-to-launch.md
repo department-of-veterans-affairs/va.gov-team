@@ -4,6 +4,7 @@ May 29, 2020
 ## To Do:
 
 ### Front end
+- [ ] Content finalized
 - [ ] Frontend code complete (+ schema updates)
 - [ ] Print button works
 - [ ] Confirmation page works
