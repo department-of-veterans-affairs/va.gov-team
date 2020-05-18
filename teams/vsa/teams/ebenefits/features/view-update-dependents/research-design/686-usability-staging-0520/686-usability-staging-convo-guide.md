@@ -43,29 +43,40 @@ I have a few things I need to mention before we start:
 
 **Now we're ready to start.** Because dependents are family-members, some of the scenarios I have on my list (like divorce, children leaving home and even death) may be hard for you to get through. Please let me know if you'd like to skip a particular task, and we'll move to another.
 
-We'll be exploring made-up scenarios that don't neccessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
+We'll be exploring made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
 
 ## Workflow set 1 scenarios
 - **Add spouse/Report divorce** | You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse.
 - **Add student** | You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent.
 
-It's been an eventful year for you. Two major events have ocurred close together:
+It's been an eventful year for you. Two major events have occurred close together:
 
 - **Report death** | Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA.
 - **Report student left school** | Your now 23-year-old step child just graduated college, and is no longer considered a dependent by VA.
 
-### First task: introduction and checkbox selection
-- Question/step
-- Question/step
+## Workflow set 2 scenarios
+- **Add spouse/Add child** | You recently married and your spouse has two children. You want to claim all them as dependents.
+- **Report divorce/Remove stepchild** | Fast-forward to years later, you've had a recent divorce, and your ex-spouse and stepchildren have moved on.
+
+It's been an eventful year for you. Two major events have occurred close together:
+
+- **Report death** | Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA.
+- **Report marriage of child** | Your child is 17, but, with your consent, has recently married. You need to let VA know.
+
+
+### Usability tasks
+
+### First task: introduction and checkbox selection | 5 minutes
+- Find out what you'll need to complete and submit the form for the particular scenario (above).
+- Select the options for your particular scenario (above).
 
 #### Things to look for:
-- Do users read (or even scan) the introdcution text
+- Do users read (or even scan) the introduction text, and can they find the info or documents they'll need
 - Are users selecting the correct workflow(s)
 - Are there any emotional reactions to the verbiage in the 'remove' workflows (divorce, death)
 
-### Second task: complete the selected workflow(s)
-- Question/step
-- Question/step
+### Second task: complete the selected workflow(s) | 10 to 20 minutes
+- Complete the form using made-up information
 
 #### Things to look for:
 - Where do users stop and look for clarification or guidance
@@ -74,52 +85,27 @@ It's been an eventful year for you. Two major events have ocurred close together
 - Will users recall instructions from the intro screen
 - When and where does "form-fatigue" set in
 
-### Third task: upload additional documentation
-- Question/step
-- Question/step
+### Third task: upload additional documentation | 5 minutes
+- If the scenario requires it, find and upload a test document
 
 #### Things to look for:
 - Do users know when they should upload documentation
 - Will users recall info or prompts regarding documentation from the intro or tell-me-mores
 - How do users interact with the upload feature
 
-### Fourth task: review and return to start
-- Question/step
-- Question/step
+### Fourth task: review and return to start | 5 minutes
+- (at the review screen) Be sure you entered the form info correctly
+- What could your do if there was an error you wanted to fix
+- Submit the form
+- What should you do next
 
 #### Things to look for:
+- How do user manage the Review Screen
 - Do users read and understand the confirmation page text
 - Will users expect any functionality or feature that aren't present
 - How do users navigate back to the start of the form
 
 ---
-
-## Workflow set 2 scenarios
-- Add spouse/Add child
-- Report death
-- Report marriage of child
-- Report divorce/Remove stepchild
-
-### Task
-- Question/step
-- Question/step
-- Question/step
-
-#### Things to look for
-
-### Task
-- Question/step
-- Question/step
-- Question/step
-
-#### Things to look for
-
-### Task
-- Question/step
-- Question/step
-- Question/step
-
-#### Things to look for
 
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here.
