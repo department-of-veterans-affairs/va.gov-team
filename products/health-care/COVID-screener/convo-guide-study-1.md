@@ -55,11 +55,18 @@ Ok, now I am going to ask you to share your screen with me. Please look at the b
 
 Please tap anywhere to return to the Zoom App.
 
-Great, now I can see your phone screen! I'm about to send you a link through the chat window. Please tap the link when it comes through. [If they miss it], no problem, look at the bottom of your phone screen, on the left there should be a button that says "Chat". 
+Great, now I can see your phone screen! Please text the following number 919-355-0995 with the message "Screener". *Send the number in chat if needed. Link to screener for reference http://ec2-52-91-98-47.compute-1.amazonaws.com/covid19screener/*
 
-Send the link: []
 
-**Prompt**
+**Prompt 1**
+
+What is your first impression of this message?
+
+What would you do next?
+- What do you expect to happen? 
+- What are the phone numbers and link at the bottom of the message?
+
+**Prompt 2**
 
 Alright, please act as if you have just arrived at the VA Medical Center. A sign in the parking lot directed you to this site. You can work through it just like you would in the real world. Go ahead when you are ready.
 
@@ -78,7 +85,7 @@ What would you expect to happen next?
 
 ## Second Task: Alternate conclusion - 5 minutes
 
-Please select [RESTART BUTTON]. This time you are going to work through again, but select [YES/NO] on Question 6. Go ahead when you are ready.
+Please select scroll up to the final question of the survey. Please change your answer to [YES/NO]. Go ahead when you are ready.
 
 **At Complettion**
 
