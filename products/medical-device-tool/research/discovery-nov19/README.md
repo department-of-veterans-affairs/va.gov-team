@@ -52,8 +52,9 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - [Participant 11 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p11.md)
 - Synthesis Artifacts
   - [Personas/Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/personas.md)
+  - [Content Inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/content-inventory.md)
 - Research, IA, and Content Consultation Notes
-- Discovery Readout
+- Discovery Readout - [Markdown document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md) | [Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
 
 #### Engineering
 - Technical Review Commentary
