@@ -11,7 +11,7 @@ Currently, we have profile analytics in a few of places:
 
 ## What need
 
-We need some general stats on profile views/behavior at a high level, and then we need to add or consolidate some other analytics in one or more dashboards. We likely already have tracking for most of the analytics we want and just need to get those stats into a consolidated dashboard(s).
+We need some general stats on profile views/behavior at a high level, and then we need to add or consolidate some other analytics into one or more dashboards. We likely already have tracking for most of the analytics we want and just need to get those stats into a consolidated dashboard(s).
 
 - High level profile stats
 - A dashboard for of the following:
@@ -23,12 +23,17 @@ We need some general stats on profile views/behavior at a high level, and then w
 
 ### High level stats
 
-This would include:
+These are based on our [high-level project OKRs & KPIS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md#okrs--kpis). This includes:
 
 - Total profile visits
-- Profile navigation clicks
+- Number of clicks on each link in the profile navigation
+  - Personal and contact information
+  - Military information
+  - Direct deposit
+  - Account settings
+  - Connected accounts
+- Time spent on profile
 - Stats around the next page viewed following profile (maybe top 5, then link to detailed view)
-- Error info (need to define this)
 
 ### Contact information dashboard
 
