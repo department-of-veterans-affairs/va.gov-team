@@ -40,7 +40,7 @@ Check "Prepare" and "When you apply,..." as they may be <H5/6>
 ----
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/686-options-selection
 1. Scan with axe browser plugin
-- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?  
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
@@ -50,7 +50,7 @@ Element source
 <h4 class="va-footer-linkgroup-title">Veteran programs and services</h4>
 ```
 2. Scan with axe-coconut
-- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?  
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
@@ -75,7 +75,7 @@ Element source
 ----
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/veteran-information
 1. Scan with axe browser plugin
-- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?  
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
@@ -119,7 +119,7 @@ Element source
 ----
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/veteran-address
 1. Scan with axe browser plugin
-- 🙈 Heading order invalid in the footer; CMS or Public Websites?
+- 🙈 Heading order invalid in the footer; CMS or Public Websites?  
 Element location
 ``` HTML
 .va-footer-linkgroup:nth-child(1) > h4
