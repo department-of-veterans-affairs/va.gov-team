@@ -31,16 +31,16 @@ Most of View Dependents is finished, but with this timeline, the remaining steps
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - DE: Refine form content (labels, titles, buttons, etc) ([#6965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6965))
-- ⏳ FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, (see Sprint 21: 2 of 6) 👈))  
+- ⏳ FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, (see Sprint 21: 2 of 6))  
 - FE: refactor workflows ([#7736](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7736))
-- BE/FE: connections made ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)✔, [#7724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7724)✔)
+- BE/FE: connections made ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)✔, [#7724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7724)) ✔
 - FE: get a `200` response from BE ✔
 - FE: complete JSON transport tasks ([#6043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6043)) ✔
 - BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
  - 🌀 [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#full-accessibility-and-508-office-audit) ✔
  - 🌀 [Request QA Review & GA Event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#analytics-request) ✔
-- PD: contact center docs ([#8218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8218)✔)
-- DE: landing pages sent to Public Websites ([#8012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8012)✔)
+- PD: contact center docs ([#8218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8218)) ✔
+- DE: landing pages sent to Public Websites ([#8012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8012)) ✔
 
 ### Sprint 20 (T-14)  
 _April 22 - May 5_
