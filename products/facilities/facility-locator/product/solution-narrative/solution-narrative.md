@@ -18,8 +18,10 @@ Please see also [Legacy Solution Narrative](https://github.com/department-of-vet
   - Does it make sense to indicate what type of user is looking for a Facility?
   **Andy:** (in Slack Oct. 16, 2019) Previously VA.gov used persona links (Veteran, Caregiver, etc) take you to persona pages, which linked out to content. The decision was made to NOT build the new VA.gov’s info. architecture based on personas. Veterans are our default users. We know family members and caregivers put themselves in the shoes of Veterans when navigating VA.
 
-**What defines Facility Locator 2.0?**
-
+**SEO strategy**
+   - Please see Github issue [#2776](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2776)
+   - Facilities themselves should be optimized for SEO, not the Facility Locator (May 18, 2020)
+   
 **Parity**
 - The stated goal of "reaching parity" = data source parity, not content parity. (October 15, 2019)
 
