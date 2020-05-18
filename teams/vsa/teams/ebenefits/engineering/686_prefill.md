@@ -6,8 +6,47 @@ There are two issues with our prefill, one is a data nesting issue which is caus
 
 ### The problem/ solution
 
-Prefill is supposed to work out of the box but this is predicated on the idea that the data coming from the prefill URL and the data on the front end is named the same. Our prefill data for the veteran is coming in called `veteranInformation` and on the front end it is wrapped in an object called `veteranContactInformation`. We need to alter the back end prefill endpoint so that the data returned is nested correctly, then prefill works on the form 686c-674.
+Prefill is supposed to work out of the box but this is predicated on the idea that the data coming from the prefill URL and the data on the front end is named the same. Our prefill data for the veteran is coming in called `veteranAddress` as well as `veteranEmail`, `dayPhone` and `nightPhone` and on the front end it is wrapped in an object called `veteranContactInformation` as well as named differently. We need to alter the back end prefill endpoint so that the data returned is nested correctly, then prefill works on the form 686c-674.
 
+Here is what the data structure coming from the backend prefill looks like
+```
+{
+  "formData": {
+    "veteranAddress": {
+      "addressType": "DOMESTIC",
+      "street": "W8257 HWY SS",
+      "city": "ADELL",
+      "state": "WI",
+      "countryDropdown": "USA",
+      "postalCode": "53001"
+    },
+    "veteranEmail": "test1@gmail.com",
+    "dayPhone": "7039991919",
+    "nightPhone": "7032221212",
+    },
+},
+```
+
+Here is how the data is structured on the front end
+
+```
+{
+  "formData": {
+    "veteranContactInformation": {
+      "veteranAddress": {
+          "addressType": "DOMESTIC",
+          "street": "W8257 HWY SS",
+          "city": "ADELL",
+          "state": "WI",
+          "countryDropdown": "USA",
+          "postalCode": "53001"
+      },
+      "emailAddress": "thisemail@x.com",
+      "phoneNumber": "555-555-5555",
+    },
+  }
+}
+```
 
 #### side note
 
