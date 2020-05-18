@@ -13,12 +13,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ### Discovery Objectives
 
-- [ ] Discovery artifacts (personas, journey maps, synthesis, etc) complete and in GH
-- [ ] Initial technical review and commentary filled out in GH
-- [ ] Research, IA, and Content consultation complete
-- [ ] Initial functional specs complete and in GH
-- [ ] Product Outline filled out in GH
-- [ ] Discovery readout presentation complete and in GH
+- [x] Discovery artifacts (personas, journey maps, synthesis, etc) complete and in GH
+- [x] Initial technical review and commentary filled out in GH
+- [x] Research, IA, and Content consultation complete
+- [x] Initial functional specs complete and in GH
+- [x] Product Outline filled out in GH
+- [x] Discovery readout presentation complete and in GH
 
 ## Important Links & Deliverables
 
@@ -54,7 +54,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - [Personas/Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/personas.md)
   - [Content Inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/content-inventory.md)
 - Research, IA, and Content Consultation Notes
-- Discovery Readout - [Markdown document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md) | [Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
+  - [IA Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/ia-recommendations-v1.png)
+- Discovery Readout
+  - [Markdown document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md)
+  - [Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
 
 #### Engineering
 - Technical Review Commentary
