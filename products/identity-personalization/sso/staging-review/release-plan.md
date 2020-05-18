@@ -25,6 +25,8 @@ We have two users ready to perform UAT in production on our release date that wi
 
 ### Planning - Inbound and Outbound both at 100%:
 - Desired date: tbd
+- NOTE: The main business goal of creating a seamless authenticated experience can not be measured at this time. There is no data for how many times a user logs in in one session. Thus our primary objective is to have little to no impact on users and their ability to authenticate. We will measure this with the following KPIs.
+
 - Post-launch KPI 1: Number of successful logins via MHV on VA.gov remains consistent
 - Post-launch KPI 2: Number of successful logins via DSlogon on VA.gov remains consistent
 - Post-launch KPI 3: Number of successful logins via id.me on VA.gov remains consistent
