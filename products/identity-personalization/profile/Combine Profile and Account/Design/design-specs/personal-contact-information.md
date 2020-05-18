@@ -117,10 +117,9 @@ This section will show the following:
   - **Link text**: Update email address on ID.me
   - **Link**: https://api.id.me/en/session/new
   - **Link text**: Update email address on MyHealtheVet
-  - **Link**: https://mhvidp-prod.myhealth.va.gov/mhv-portal-web/web/guest/home?p_p_state=maximized&p_p_mode=view&saveLastPath=false&_58_struts_action=%2Flogin%2Flogin&p_p_id=58&p_p_lifecycle=0&_58_redirect=%2Fmhv-portal-web%2Fc%2Fportal%2Fsaml%2Fsso
+  - **Link**: https://www.myhealth.va.gov/mhv-portal-web/home
   - **Link text**: Update email address on DS Logon
-  - **Link**: https://myaccess.dmdc.osd.mil/identitymanagement/authenticate.do?execution=e1s1
-
+  - **Link**: https://myaccess.dmdc.osd.mil/identitymanagement/consent?continueToUrl=%2Fidentitymanagement%2Fauthenticate.do%3Fexecution%3De2s1
 ## Addresses
 ### Personal and contact information - Edit Mailing Address 
 
