@@ -19,7 +19,7 @@ through Slack or send a message to the # vsp-contact-center-support Slack channe
 - Microsoft Teams _(must have VA access)_
 
 
-### 5/8/2020:
+#### 5/8/2020:
 #### WHVAH/VEO<> VA.gov Contact Center
 Agenda Items:
 - Any information needed from our team
