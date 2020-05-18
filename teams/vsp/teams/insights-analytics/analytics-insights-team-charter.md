@@ -65,7 +65,12 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
 - Deploy and maintain the Product Success Tool
     - Aggregate relevent data from across different channels
     - Visualize product problems
+    - Analyze data where appropriate
     - Maintain BigQuery
+        - Maintain data models
+        - Pipe data where appropriate
+        - Work with other VSP teams to uphold data integrity
+        - Decrease costs through efficient processes
     - Connect all relevant and available data to Domo
 - Maintain & develop Contact Center relationships
 - Determine appropriate ForeSee tracking questions and strategy
@@ -73,6 +78,7 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
     - Triage Tier 3 issues to appropriate VFS teams
     - Respond to Tier 3 issues
 - Respond to and publish one-off and recurring data reporting requests
+- Understand available VA.gov related data and answer questions or triage where appropriate
 
 ### Roadmap:
 [Link to Github Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=analytics-insights,super-epic&repos=133843125)
@@ -82,7 +88,7 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
 ## Who we are
 
 ### Team Members:
-- DEPO Product Leads: _Kevin Hoffman & Dror Matalon_
+- DEPO Platform Product Leads: _Kevin Hoffman & Dror Matalon_
 - DEPO Contact Center Product Lead: _Chante Lantos-Swett_
 - Product Manager: _Joanne Esteban_
 - Implementation Specialist: _Jon Wehausen_
@@ -167,3 +173,6 @@ GitHub is the single source of truth. Every body of work should be documented fo
     - Access - ping us on Slack, #vfs-platform-support
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 - Product Success Tool
+
+#### Team Questions for DEPO/leadership
+- (May 2020) What does VSP Analytics & Insights own in relation to the analytics that is currently owned by the other VSP teams? Our current assumption is that VSP Analytics & Insights displays data, handles most customer (VFS, storytellers, etc.) interations with data, analyzes data, and provides tracking for the products listed in this charter. However, the collection and instrumentation of the other sources of data, such as Prometheus, Speedcurve, etc., will live with and be owned by their current VSP owners. So if someone has a Speedcurve question, VSP Analytics & Insights would answer basic questions such as "is my performance too low?" but would triage further questions, particularly engineering and debuggin related questions, to the Front End Tools Team. Is this assumption correct?
