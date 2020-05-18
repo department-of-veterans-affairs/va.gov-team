@@ -3,7 +3,7 @@
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-We have two users ready to perform UAT in production on our release date that will help to determine
+We have two users ready to perform UAT in production on our release date that will help to determine if it is ok to move forward with the roll-out.
 
 
 
