@@ -47,10 +47,10 @@ Design team member(s):
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator: Aricka Lewis
-- Research guide writing and task development (usually but not always same as moderator): Aricka lewis
+- Moderator: 
+- Research guide writing and task development (usually but not always same as moderator):
 - Participant recruiting & screening: Perigean
-- Project point of contact: Aricka Lewis
+- Project point of contact: 
 - Participant(s) for pilot test:
 - Note-takers:
 - Observers: 
