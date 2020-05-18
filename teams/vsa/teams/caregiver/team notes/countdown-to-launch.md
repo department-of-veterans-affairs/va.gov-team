@@ -16,7 +16,8 @@ May 29, 2020
 - [ ] All urgent A11y findings are addressed
 
 ### Back end
-- [ ] Finalize all work relating to "veteran verification"
+- [ ] Schema changes
+- [ ] Finalize all work relating to "veteran verification" (includes confirmation with CARMA)
 - [ ] Send CARMA requests through VA Proxy
 - [ ] Add Prod Credentials to deployment infrastructure
 - [ ] Write and Merge PDF Attachment on CARMA Submissions
