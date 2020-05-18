@@ -18,7 +18,7 @@
 - Write and Merge PDF Attachment on CARMA Submissions
 - Update 10-10cg submission screening to only require a profile to be found in MVI for the veteran on the form
 - Confirm with CARMA about "veteran verification" flag
-
+- (Backlog) Research ability to screen submissions for only: (1) veterans and (2) service members with a discharge date.
 
 
 ## Content/Design
