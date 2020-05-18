@@ -43,6 +43,8 @@ _Note/ Guiding principle_
 ## Field Deltas 
 `May 18, 2020`  
 **The form presents a set of questions and possible answers but the backend in BGS may only accept a portion or a different set of them.**  
+
+-E.g., we take suffix online but there is no place to fill it in the actual pdf.
   
 _As much as possible we want the structured data to be representative of what is being presented._
 - Ensure there is documentation on what these deltas are.
