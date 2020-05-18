@@ -23,11 +23,11 @@ through Slack or send a message to the # vsp-contact-center-support Slack channe
 #### WHVAH/VEO<> VA.gov Contact Center
 Agenda Items:
 - Any information needed from our team
-  -_ WHVAH had no pending updates and needed no details or information from our side of the house_
+  _WHVAH had no pending updates and needed no details or information from our side of the house_
 - How is remote work going for VEO and WHVAH
   - Call volume
-      _Call volume has stabalized.  Mission Act calls decreased about 37% from March to April, but as of late, they are beginning to trend upward.
+      _Call volume has stabalized.  Mission Act calls decreased about 37% from March to April, but as of late, they are beginning to trend upward._
 - Progress on SalesForce Fields for VA.gov issues
-  _Due to other priorities, the SalesForce development is now on hold.  Lana Waters expressed that she is unsure how long the delay will be, but she is going to try to push forward with the updates.  She will keep us posted on any updates and the outcome.
+  _Due to other priorities, the SalesForce development is now on hold.  Lana Waters expressed that she is unsure how long the delay will be, but she is going to try to push forward with the updates.  She will keep us posted on any updates and the outcome._
 - Review of ALL current VA.gov technical KMs 
-  _Informed particicpants that there are possible updates to the current KMs that their agents are using.  Additional probing questions have been sent over to the Todd and his team for review; this is going to be discussed duting our first Tiger Team meeting which will be held on 5/27/2020.
+  _Informed particicpants that there are possible updates to the current KMs that their agents are using.  Additional probing questions have been sent over to the Todd and his team for review; this is going to be discussed duting our first Tiger Team meeting which will be held on 5/27/2020._
