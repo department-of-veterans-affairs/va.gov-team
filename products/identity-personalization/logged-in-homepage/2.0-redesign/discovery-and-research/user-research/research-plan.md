@@ -141,6 +141,9 @@ Resources
 -   [Mural board mapping research goals to research methods](https://app.mural.co/t/vsa8243/m/vsa8243/1584898521775/64383bc2873e8c81bdd84190e16726e20855818e)
 -   Example of [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588287883697/58994facc18f9750768a0992b9a6bafb2aacd9fe) we'll use for each session
 -   [Preview of card sort](https://adhoc.optimalworkshop.com/optimalsort/7o81t7ix) we'll use if needed
+-   [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1588961163704/d3fd97dc5a533761bc9bc216e8a320d5c16c79ce) for observer notes during sessions
+-   [Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes)
+-   [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/topline-summary.md)
 -   Synthesis Coming soon
 -   Lessons Learned Coming soon
 -   Read-Out/Results Coming soon
