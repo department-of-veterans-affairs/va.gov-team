@@ -55,12 +55,10 @@ Of course none of your actions will affect your actual VA information or benefit
 
 <ul>
 <li>Have you ever filed a BDD disability claim with the Department of Veteran Affairs?</li>
-<li>How did you file it (alone or with a VSO)? Mail or in an office?</li>
+<li>How did you file it (alone or with a VSO)? </li>
 <li>Tell me about how it was to go through this process.<br></li>
-<li>What were the hardest parts?</li>
 <li>What was most confusing within this process? </li>
 <li>Was there anything in particular that was helpful in this process?</li>
-<li>If you would do it again, would you do anything different?</li>
 <li>Do you have any other comments about this process? </li>
 </ul>
 
