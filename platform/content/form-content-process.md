@@ -48,7 +48,7 @@ Content editor begins to create an outline for the form and a list of copy needs
 - Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. <br>
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
 - Discuss what content you need to write for the form Introduction page
-- Discuss what content you need to write for the the form Confirmation page
+- Discuss what content you need to write for the form Confirmation page
 
 **CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form. How will users get to the form? Please loop in I/A for this discussion. 
