@@ -82,4 +82,10 @@ Next steps here
 
 ### Pages and applications used
 
+**Logged-in VA.gov homepage at time of study:**
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/VA%20Home.jpg)
+
+**Dashboard page of blue-sky prototype created by Mel Woodard, pre-transition of Vets.gov to VA.gov:**
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard.png)
