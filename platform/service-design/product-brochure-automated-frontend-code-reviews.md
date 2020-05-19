@@ -12,13 +12,13 @@ An automated process that looks for code additions and modifications that don't 
 
 ------
 
-### Product Documentation
+### Product documentation
 
 [User guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/manual-reviews) | [Current linting rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) | [Adding new linting rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/adding-new-rules.md)
 
 ------
 
-### Point of Contact 
+### Point of contact 
 
 Post a message in the [#vfs-product-support](https://slack.com/app_redirect?channel=CPCGRR7F1) Slack channel and tag @frontend-review-group to send us feedback.
 
