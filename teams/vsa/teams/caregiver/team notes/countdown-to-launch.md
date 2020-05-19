@@ -4,7 +4,7 @@ May 29, 2020
 ## To Do:
 
 ### Front end
-- [ ] Content finalized
+- [x] Content finalized
 - [ ] Frontend code complete (+ schema updates)
 - [ ] Print button works
 - [ ] Confirmation page works
@@ -12,7 +12,7 @@ May 29, 2020
 - [ ] Frontend and backend are connected
 - [ ] Unit tests for presubmit component
 - [ ] Run through A11y Testing Checklist
-- [ ] A11y Spot Check
+- [x] A11y Spot Check
 - [ ] All urgent A11y findings are addressed
 
 ### Back end
