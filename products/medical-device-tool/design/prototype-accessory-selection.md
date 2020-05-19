@@ -30,7 +30,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 
 Select the hearing aid accessories you need (h4 utility) 
 You'll be sent a 6-month supply for each accessory you choose below. You can only order each hearing aid accessory once every 5 months.
-If you need items sooner, call the DLC at 303-273-6200 or email dalc.css@va.gov.
+If you need unavailable items sooner, please call the DLC Customer Service Station at 303-273-6200 or email dalc.css@va.gov.
 
 Accessory name (h4 utility)
 **Quantity:** ## (Approximately 6 months supply)
@@ -74,7 +74,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 [Informational alert] 
 You can't add accessories to your order at this time(h4 utility)
 Our records show that your accessories aren't available for reorder until [date]. You can only order items once every 5 months.
-If you need items sooner, call the DLC at 303-273-6200 or email dalc.css@va.gov.
+If you need unavailable items sooner, please call the DLC Customer Service Station at 303-273-6200 or email dalc.css@va.gov.
 
 **These are the hearing aid accessories we have on file for you:**
 
