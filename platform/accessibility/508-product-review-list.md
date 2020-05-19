@@ -890,10 +890,12 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### SSOe Single Sign On
 
-**Audit status:** _Ready for VSP staging review_<br/>
+**Audit status:** _VSP staging review completed_<br/>
 
 **Open issues**
 
+- [[SCREENREADER]: Single sign-on modal - Keyboard and screen reader focus MUST be trapped in modal windows - #9229](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9229)<br/>**Staging** | **Opened:** May 18, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[KEYBOARD]: Single sign-on modal - Focus SHOULD go to the top of the page when modal is closed - #9227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9227)<br/>**Staging** | **Opened:** May 18, 2020 | **Severity:** _508-defect-3 - **Minor**_
 - [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites" - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>**Staging** | **Opened:** May 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 Back to [Table of Contents](#table-of-contents)
