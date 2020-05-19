@@ -20,5 +20,5 @@ An automated process that looks for code additions and modifications that don't 
 
 ### Point of contact 
 
-Post a message in the [#vfs-product-support](https://slack.com/app_redirect?channel=CPCGRR7F1) Slack channel and tag @frontend-review-group to send us feedback.
+Post a message in the [#vfs-product-support](https://slack.com/app_redirect?channel=C0126N46NLS) Slack channel and tag @frontend-review-group to send us feedback.
 
