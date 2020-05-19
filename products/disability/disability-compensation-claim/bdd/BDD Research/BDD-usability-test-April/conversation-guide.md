@@ -79,6 +79,30 @@ Of course none of your actions will affect your actual VA information or benefit
 <li><p>Please go to VA.gov, and show me what you would do to find this program and apply for it.
 [they do the task]</p></li>
 </ul>
+Tasks for BDD usability test 2:
+
+What are your thoughts on this page you’ve landed on? (first impressions / quick thoughts)
+
+OK, now I’m going to show you another version of this page, what do you think of this and how it compares to the page you just saw? How would you figure out what kind of claim to use? How would this compare with the other version you looked at?
+
+Depending on where the user ends up - guide them to the other page:
+pre-discharge claim: Take a look at this page. 
+What are your first impressions and thoughts about this page? 
+What would you do on this page? 
+Is anything confusing on this page?
+how to file a disability claim: Take a look at this page. 
+What are your first impressions and thoughts about this page?
+What would you do on this page?
+Do you have all the info you need to file a pre-discharge claim on this page?
+If no, what is missing? What would make you confident that you could file such a claim on this page?
+Is anything confusing on this page?
+Imagine you want to figure out what claims you are allowed to apply for and not. Where would you go from here?
+
+OK, now I’m going to show you another version of this page, what do you think of this and how it compares to the page you just saw?
+
+Task 2:
+Take a look at this page (Eligibility for VA disability benefits) and let me know what your first impressions are, and what you would do here. Is anything on this page confusing? 
+Take a look at this page (Types of VA disability claims and when to file) and let me know what your first impressions are, and what you would do here. Is anything on this page confusing? 
 
 <h2 id="toc_7">Task 2</h2>
 
