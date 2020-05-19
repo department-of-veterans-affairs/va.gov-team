@@ -47,7 +47,7 @@ The following list is a set of resources to help you do your work and answer con
 
 - Content processes
      - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md) 
-     - [List of current and past VSP content reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-reviews.md)
+     - [List of current and past VSP content reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-reviews/content-review-tracking.md)
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
