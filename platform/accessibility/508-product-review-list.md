@@ -73,6 +73,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
       - [GI Bill Estimate Your Benefits](#gi-bill-estimate-your-benefits)
+      - [GI Bill Section 103](#gi-bill-section-103)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [Open issues](#open-issues-2)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
@@ -816,6 +817,23 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: EYB - CONSIDER hiding the HR divider from screen readers - #9245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9245)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### GI Bill Section 103
+
+**Audit Status:** VSP staging review complete<br/>
+
+**Open issues**
+
+- [[ZOOM]: Section 103 - Modal windows MUST be usable at 200% to 400% zoom - #9240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9240)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+
+Back to [Table of Contents](#table-of-contents)
 
 ---
 
