@@ -8,7 +8,7 @@
 Platform
 
 ### Team Mission Statement:
-Provide expert design, engineering, and product guidance to VFS teams to ensure their applications are consistent, reliable, and maintainable as well as embody the culture of human-centeredness. 
+Provide expert design, engineering, and product guidance to VFS teams to ensure their applications are consistent, accessible, and maintainable as well as embody the culture of human-centeredness. 
 
 
 ### Responsibilities:
@@ -97,4 +97,10 @@ GitHub is the single source of truth. Every body of work should be documented fo
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready" column in ZenHub. That should be full of groomed tickets in priority order. 
+- Extra time? Explore the "Ready" column in ZenHub. That should be full of groomed tickets in priority order.
+
+
+
+#### Grey areas
+Are we just providing guidance (sounds more like guardrails) for VFS teams or kind of policing and becoming roadblocks to launch? 
+
