@@ -32,6 +32,7 @@ Equal to VA Form 2346 (Request for Batteries and Accessories)
 
 Add batteries to your order (h4 utility) 
 You'll be sent a 6-month supply of batteries for each device you choose below. You can only order batteries for each device once every 5 months.
+If you need unavailable batteries sooner, please call the DLC Customer Service Station at 303-273-6200 or email dalc.css@va.gov.
 
 [Interactive card component]
 Hearing aid name (h4 utility)
@@ -115,6 +116,7 @@ You can't add batteries to your order at this time (h4 utility)
 You can't order batteries for your hearing aids because:
 - They don't require batteries, **or**
 - You recently ordered batteries for this device. You can only reorder batteries for each device once every 5 months.
+If you need unavailable batteries sooner, please call the DLC Customer Service Station at 303-273-6200 or email dalc.css@va.gov.
 
 [Interactive card component]
 Hearing aid name (h4 utility)
@@ -125,8 +127,6 @@ Prescribed DD/MM/YYYY
 **Last order date:** MM/DD/YYYY
 [Warning alert component]
 You can't reorder batteries for this device until [Last order date + 5 months](h5 utility)
-You can only order batteries for each device once every 5 months. Each battery order comes with a 6-month supply. 
-If you need batteries sooner, please call the DLC Customer Service Station at 303-273-6200 or email dlc.css@va.gov.
 
 [Secondary button] Back
 [Primary blue button] Continue
