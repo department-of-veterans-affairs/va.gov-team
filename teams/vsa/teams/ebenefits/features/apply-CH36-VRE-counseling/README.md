@@ -6,6 +6,8 @@
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/education-and-career-counseling/
 - VA.gov link (tool page): TBD
+- Current prototype: 
+
 ## WIP
 
 ### Table of Contents
