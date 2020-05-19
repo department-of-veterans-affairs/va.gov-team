@@ -36,7 +36,7 @@ _List of products within your team's perview - make sure the list of products he
 - Platform Infrastructure
 - Governance & Security
 
-Note: These will shift in the new Infra. 
+Note: These will shift in the new Infra.
 
 ### Roadmap:
 [Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team/pull/3082#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations,super-epic&repos=133843125,48004036,194202180,31788863)
@@ -45,8 +45,7 @@ Note: These will shift in the new Infra.
 - CI/CD in future infra
 - CI pipeline Monitoring in the future Infra 
 - AWS account (used across multiple contracts)
-
-
+- Team mission in the future.
 
 
 
