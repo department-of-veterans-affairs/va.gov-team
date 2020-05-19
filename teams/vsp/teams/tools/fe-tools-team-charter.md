@@ -18,14 +18,14 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 |Product|Tool/Sub-Features|
 |----|----|
 |Testing| Linting Rules (eslint), Workflow Automation (CircleCI), Unit Test Coverage, Unit test runner, Unit test helpers, Visual regression testing (puppeteer and jest), Cross-Browser (BrowserStack, Sauce Labs), Consumer Drive Contract Testing|
-|e2e Testing|Nightwatch, Form Filler Utility (Puppeteer), Mock API|
+|e2e Testing|Cypress, Nightwatch, Form Filler Utility (Puppeteer and Cypress), Mock API|
 |Front End Security |CORS, CSP, GH Security Alerts| 
-|Form System | |  
-|Documentation Website | Gatsby |
+|Form Library | |  
+|Documentation Website |Gatsby |
 |Pre-Production Tools|Heroku, EC2 - Review Instances, Feature Toggles|
 |Onboarding & Documentation|Gatsby Documentation Site, Yeoman app generator|
 |FE Operations|Build Process |
-|Adherence and promotion of Design System to VSA teams|| 
+|Adherence and promotion of Design System to teams|| 
 |Performance Monitoring Tools|Speedcurve|
 |Quality Tools|Linting Rules (eslint), Workflow Automation (CircleCI)|
 
@@ -43,6 +43,7 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 - Team Product Manager: Brandon Rapp
 
 - FE Dev Lead: Rian Fowler
+- FE Dev Engineer: Bill Fienberg
 - FE Dev Engineer: Eugene Doan
 - FE Dev Enginner: Brooks Johnson
 - FE Dev Engineer: Jhonny Gonzalez
@@ -109,7 +110,7 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 #### Grooming
 - What: Assess and update workload for remainder of sprint and discuss objectives for next sprint
 - Who: PM and Dev Lead
-- When: 2nd Thursday of every sprint
+- When: Every Thursday
 - Duration: 1 hour
 
 
