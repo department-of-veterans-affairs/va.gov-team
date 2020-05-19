@@ -1,8 +1,8 @@
 # Intro screen
 
-**COVID-19 screener**
+**COVID-19 screening tool**
 
-As part of our coronavirus screening, you'll need to answer 6 questions before entering a VA facility.
+Please answer the 6 questions listed below. Share your results with the staff member at the facility entrance.
 
 We won't store or share your data.
 
@@ -71,23 +71,14 @@ Do you currently have a sore throat, runny nose, or nasal congestion?
 [button] No
 
 
-# Question 6.A - for patient or support person
+# Question 6
 
-**Question 6 of 6**
-
-In the past 14 days, have you had contact with someone diagnosed with COVID-19?
-
-
-# Question 6.B - for employee or contractor
-
-**Question 6 of 6**
-
-In the past 14 days, have you had contact with someone diagnosed with COVID-19 without wearing personal protective equipment (PPE)?
+In the past 14 days, have you had close contact with someone diagnosed with COVID-19?
 
 
 # Pass
 
-## PASS
+## OK to proceed
 
 **Valid for:**
 Tuesday, May 12, 1:23 p.m.
@@ -96,7 +87,6 @@ Please show this screen to the staff member at the facility entrance.
 
 Thank you for helping us protect you and others during this time.
 
-[link] Start new screening
 
 # Fail
 
@@ -108,6 +98,4 @@ Tuesday, May 12, 1:23 p.m.
 Please show this screen to the staff member at the facility entrance.
 
 Thank you for helping us protect you and others during this time.
-
-[link] Start new screening
 
