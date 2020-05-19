@@ -37,7 +37,7 @@ VSP provides content feedback and guidance during the following Collaboration Cy
 
 - **Project Kickoff:** During the kickoff, we'll get a better understanding of the problem your team is trying to solve. Engaging content  as early as possible in your work will provide us with background information, and well as help us understand scope, audience, and timing. We'll also be able to identity if there are any areas of your project that might need additional support or collaboration. 
 
-- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the produc/tool, and if there are areas where content can improve their experience. 
+- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the product/tool, and if there are areas where content can improve their experience. 
 
 - **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
