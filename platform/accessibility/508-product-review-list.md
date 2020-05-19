@@ -266,7 +266,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[CI/CD]: Continue exploration of description list refactoring for all-claims accessibility checks - #8595](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8595)<br/>**Production** | **Opened:** April 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests - #7319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
@@ -606,7 +605,6 @@ Back to [Table of Contents](#table-of-contents)
 - [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [[COGNITION]: Content SHOULD not be cut off; IE11 accordion content is not flowing into columns](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6672)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6507)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6339)<br/>**Production** | **Opened:** February 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
@@ -653,8 +651,6 @@ Back to [Table of Contents](#table-of-contents)
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-- [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -729,9 +725,7 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** November 28, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[COGNITION]: GIBCT Section 116 - Estimated benefits should be calculated on button press, not form control change - #3536](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3536)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[DOCUMENT]: GIBCT Section 116 - Excel document has color contrast issues that could be improved - #3758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3758)<br/>
-**Opened:** November 26, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
+- [[DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
 **Opened:** May 1, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT Section 116 - VoiceOver is spelling out some all caps text instead of reading it - #3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
@@ -845,7 +839,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8254 design system, components [KEYBOARD]: Focus outline MUST be visible around focused content, pagination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8254)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-- [[#8257 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8257)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
