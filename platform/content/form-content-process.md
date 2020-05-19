@@ -3,7 +3,7 @@
 
 Form stakeholders are: VA form owners and subject matter experts, VA employees processing form, VA employees that help Veterans to complete the form <br>
 
-Form users are:  Veterans, Veteran family members, Veteran caregivers, VA employees who help Veterans to complete the form
+Form users are: Veterans, Veteran family members, Veteran caregivers, VA employees who help Veterans to complete the form
 
 ## Project kickoff and discovery
 
@@ -39,7 +39,7 @@ Identify if new functionalities are required for this form. If so, discuss with 
 	
 
 **CONTENT and DESIGN**: 
-Begin to create an outline for each form’s required chapter and create a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
+Content editor begins to create an outline for the form and a list of copy needs and interaction notes. See example, [Design and content specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/spec-template-mainpage.md).
 
 - Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
 - Identify questions that are dependent on other questions 
@@ -47,15 +47,15 @@ Begin to create an outline for each form’s required chapter and create a list 
 - What form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. <br>
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
-- Discuss what content to include on the form Introduction page
-- Discuss what content to include on the form Confirmation page
+- Discuss what content you need to write for the form Introduction page
+- Discuss what content you need to write for the the form Confirmation page
 
 **CONTENT and DESIGN**: 
-Discuss the entry and exit points for the form. How will users get to the form?
+Discuss the entry and exit points for the form. How will users get to the form? Please loop in I/A for this discussion. 
 
 - Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
 - What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the form's launch? (**If so, please coordinate static page updates with the vsa-public-websites team.**)
+- Does a new static landing page need to be created or updated for the form or tool launch? (**If so, please coordinate with the VSA-public-website team. That team is reponsible for writing static page content and updates**)
 	
 	
 **CONTENT/DESIGN/DEVELOPER**: 
@@ -93,11 +93,11 @@ Content writer should update the form Github outline with any content iterations
 Finalize form URL and the URL for any new static pages that need to be created. Collaborate with VSP Information Architecture to begin to finalize URLs and other key details. 
 
 
-## Build Github files
+## Build files
 
 -----
 
-Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build the form in Github.  
+Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build the form in code.  
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
