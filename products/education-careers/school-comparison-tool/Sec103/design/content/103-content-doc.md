@@ -33,7 +33,7 @@ Schools may require students to provide proof of their GI Bill eligibility in th
 
 **In addition, schools can't charge late fees or otherwise penalize GI Bill students if VA is late making a tuition and/or fees payment.** This restriction on penalties doesn't apply if the student owes additional fees to the school beyond the tuition and fees that VA pays. Students are protected from these penalties for up to 90 days from the beginning of the term. 
 
-Contact the School Certifying Official (SCO) to learn more about the school’s policy. Read [our policy on protecting students from late VA payments](https://benefits.va.gov/gibill/fgib/transition_act.asp).
+Contact the School Certifying Official (SCO) to learn more about the school’s policy. [Read our policy on protecting students from late VA payments](https://benefits.va.gov/gibill/fgib/transition_act.asp).
 
 
 { *End 103 Modal* } 
