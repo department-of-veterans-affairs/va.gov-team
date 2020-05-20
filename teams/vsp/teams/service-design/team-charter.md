@@ -14,21 +14,21 @@ Provide holistic, research-based guidance on VSP design and product decisions to
 
 ### Responsibilities:
 
-Own + maintain VSP Service Blueprint overall
+Own + maintain VSP Service Blueprint overall.
 
-Prioritize areas of the blueprint tthat require iteration based on value and pain point analysis
+Prioritize areas of the blueprint that require iteration based on value and pain point analysis.
 
-Iterate on those pioritized areas, or collaborate to work into another team's sprint
+Collaborate with other teams to iterate on those pioritized areas.
 
-Perform overarching VSP user research and work findings into implementation recommendations
+Perform overarching VSP user research and work findings into implementation recommendations.
 
-Use other "listeners" (Slack, ZenHub, etc) to derive overall VSP insights and work findings into implementation recommendations
+Use other "listeners" (Slack, ZenHub, etc) to derive overall VSP insights and work findings into implementation recommendations.
 
-Iterate on VSP features/services based on research findings, or collaborate to work into another team's sprint
+Collaborate with other teams to iterate on VSP features/services based on research findings.
 
-Establish and track overall VSP OKRs and KPIs, and report up to VSP Leadership
+Establish and track overall VSP OKRs and KPIs, and report up to VSP Leadership.
 
-Given cross-VSP team view, identify opportunities for standardization 
+Given cross-VSP team view, identify opportunities for standardization. 
 
 ### Roadmap:
 
