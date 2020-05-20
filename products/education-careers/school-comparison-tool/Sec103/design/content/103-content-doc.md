@@ -18,22 +18,22 @@
 
 **[Rogers STEM Scholarship:]()** {dynamic content} 
 
-**[Single point of contact for veterans:]()** {dynamic content} 
+**[Single point of contact for Veterans:]()** {dynamic content} 
 
 { *103 Modal* } 
 
 ### Protection against late VA payments
 
+If VA is late making a tuition payment to a GI Bill school, the school can’t prevent a GI Bill student from attending classes or accessing school facilities. 
 
-If VA payments to institutions are delayed, schools receiving GI Bill benefits must allow beneficiaries to continue attending their classes if they have sufficient proof of eligibility on file.
+Schools may require students to provide proof of their GI Bill eligibility in the form of:
 
-Schools may require proof of GI Bill eligibility in the form of:
 *	Certificate of Eligibility (COE) **or**
-*	Certificate of Eligibility (COE) and additional criteria such as an award letter or other documents the school specifies
+*	Certificate of Eligibility (COE) and additional criteria like an award letter or other documents the school specifies
 
-**Schools can't impose late fees, deny access to facilities or classes, or otherwise penalize beneficiaries if VA is late with tuition and/or fees payments.** The restriction on penalties doesn't apply if the beneficiary owes additional fees to the school beyond the tuition and fees that VA pays. Students are protected from these penalties up to 90 days from the beginning of the term. 
+**In addition, schools can't charge late fees or otherwise penalize GI Bill students if VA is late making a tuition and/or fees payment.** This restriction on penalties doesn't apply if the student owes additional fees to the school beyond the tuition and fees that VA pays. Students are protected from these penalties for up to 90 days from the beginning of the term. 
 
-Contact the School Certifying Official (SCO) to learn more about the school’s policy. [Read our FAQs on the Veterans Benefits and Transition Act](https://benefits.va.gov/gibill/fgib/transition_act.asp) to learn more about protections against late VA payments.
+Contact the School Certifying Official (SCO) to learn more about the school’s policy. Read [our policy on protecting students from late VA payments](https://benefits.va.gov/gibill/fgib/transition_act.asp).
 
 
 { *End 103 Modal* } 
