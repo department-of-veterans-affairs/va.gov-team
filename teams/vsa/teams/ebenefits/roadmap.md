@@ -19,7 +19,7 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Likely Lighthouse integration (BGS), launch with Modify
 | Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Likely Lighthouse integration (OGC System), launch with Modify
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Likely Lighthouse integration (BGS)
-| View My Documents (eFolder)                         | TBD           | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
+| View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required (pushed due to COVID)
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required (pushed due to COVID)
 | Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
