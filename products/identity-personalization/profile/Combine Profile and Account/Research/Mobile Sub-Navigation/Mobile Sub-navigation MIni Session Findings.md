@@ -24,7 +24,7 @@ We ran these sessions using co-workers and the mobile zoom app.
 
 1. All participants easily found the 'Your profile menu' on the page. Only one participant expected it to be above the 'nametag' area of the screen, but still was able to navigate easily through the pages.
 
-2.All participants were still confused about if the email address in Personal and contact information would change the email address used to log-in.  None of the participants read any of the content in the blue box.
+2. All participants were still confused about if the email address in Personal and contact information would change the email address used to log-in.  None of the participants read any of the content in the blue box.
 
 3. All participants noted that the DD header was much too long.
 
