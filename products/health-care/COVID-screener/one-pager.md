@@ -40,6 +40,6 @@ VA leaders and employees are passionate innovators. That's why individual medica
 
 [quotes]
 
-## WHAT'S NEXT FOR THE VA COVID-19 SCREENER
+## WHAT'S NEXT FOR THE VA COVID-19 SCREENING TOOL
 
-We'll offer this tool to VA health facilities in phases. This will help us closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. 
+We'll continue to offer this tool to more VA health facilities. This will help us closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. To begin using the tool at your facility, please contact OIT at [email address].
