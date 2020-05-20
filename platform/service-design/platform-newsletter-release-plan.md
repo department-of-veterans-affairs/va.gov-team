@@ -8,9 +8,11 @@
 
 - Desired date range: 5/20 - 5/22
 - Desired number of unique users: ~20
+- Announce if you'd like to volunteer go to landing page
 - How you'll make the product available in production while limiting the # of users who can find/access it: create a landing page to subscribe to the beta newsletter and share the URL with participants.
 - Send link to landing page by Slack DM to subscribe to email
 - Use our personal email as the from email address for the newsletter.
+- UAT - 3-5 users w/ instructions
 - Planning "success" criteria (by the numbers): 
   - \>15 subscribers 
   - 100% of emails opened
