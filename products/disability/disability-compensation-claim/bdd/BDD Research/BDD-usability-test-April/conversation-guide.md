@@ -98,11 +98,6 @@ If no, what is missing? What would make you confident that you could file such a
 Is anything confusing on this page?
 Imagine you want to figure out what claims you are allowed to apply for and not. Where would you go from here?
 
-OK, now I’m going to show you another version of this page, what do you think of this and how it compares to the page you just saw?
-
-Task 2:
-Take a look at this page (Eligibility for VA disability benefits) and let me know what your first impressions are, and what you would do here. Is anything on this page confusing? 
-Take a look at this page (Types of VA disability claims and when to file) and let me know what your first impressions are, and what you would do here. Is anything on this page confusing? 
 
 <h2 id="toc_7">Task 2</h2>
 
