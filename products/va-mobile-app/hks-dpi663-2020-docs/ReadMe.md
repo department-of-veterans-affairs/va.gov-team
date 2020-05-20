@@ -24,6 +24,9 @@ The test plans that we used to run online user testing on usertesting.com
 ### Harvard-VA Executive Presentation.pptx
 The slide deck we used for the deep dive presentation
 
+### Research Hand-off_ User Testings with Prototypes.docx
+Aggregation of user insights that informed us to make changes to prototypes and other insights that might be helpful for future work
+
 ## Balsamiq files
 A collection of prototypes from version 1.0 to verstion 5.0
 
