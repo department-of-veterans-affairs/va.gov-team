@@ -179,5 +179,6 @@ GitHub is the single source of truth. Every body of work should be documented fo
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 - Product Success Tool
 
-#### Team Questions for DEPO/leadership
+---
+#### Grey Areas & Questions
 - (May 2020) What does VSP Analytics & Insights own in relation to the analytics that is currently owned by the other VSP teams? Our current assumption is that VSP Analytics & Insights displays data, handles most customer (VFS, storytellers, etc.) interations with data, analyzes data, and provides tracking for the products listed in this charter. However, the collection and instrumentation of the other sources of data, such as Prometheus, Speedcurve, etc., will live with and be owned by their current VSP owners. So if someone has a Speedcurve question, VSP Analytics & Insights would answer basic questions such as "is my performance too low?" but would triage further questions, particularly engineering and debuggin related questions, to the Front End Tools Team. Is this assumption correct?
