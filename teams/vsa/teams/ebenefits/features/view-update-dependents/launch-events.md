@@ -55,7 +55,7 @@ _April 22 - May 5_
 ### Sprint 21
 _May 6 - May 19_
 - ⏳ BE: PDF Fill (1 Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) 👈
-- BE: Required BGS Field Mapping for 686 Submission ([#8349](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8349))  👈
+- BE: Required BGS Field Mapping for 686 Submission ([#8349](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8349))  ✔
 - Implement Critical Content Changes for the 686 [#8016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8016) ✔
 - FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201)) ✔
 - DE: 686 usability Sessions  ([#8569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8569)) 👈
