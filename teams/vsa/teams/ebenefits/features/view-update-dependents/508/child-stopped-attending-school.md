@@ -1,5 +1,18 @@
+# Accessibility: Manage Dependents - Information needed to report a child 18-23 years old stopped attending school
+`eBenefits | April-May 2020`
+
+## Resources
+1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
+2. [508 Compliance Tracker](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=0)
+3. [Accessibility Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
+
+🙈 - Out of scope, note team(s) responsible
+
+## Credentials Used
+User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
+
 ----
-**Staging url:** ht
+**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/report-child-stopped-attending-school
 1. Scan with axe browser plugin  
 - 🙈 Heading order invalid in the footer; CMS or Public Websites?  
 Element location
