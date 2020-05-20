@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### North Star:
-Number of Va.gov teams using KPIs every quarter to re-articulate strategies and re-develop hypotheses.
+Number of Va.gov teams reporting metrics every quarter for product decisions.
 
 ### Product Suite (if applicable): 
 
