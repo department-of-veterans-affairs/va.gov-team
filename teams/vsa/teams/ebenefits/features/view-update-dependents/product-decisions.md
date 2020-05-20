@@ -81,6 +81,6 @@ _Note/ Guiding principle_
 | VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Add Child | Child status checkboxes | 18G. CHILD STATUS (iterates) | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
-| Add Spouse | Reason marrige ended radio buttons | 14A.3 REASON FOR TERMINATION and 15A.3 REASON FOR TERMINATION (iterates) | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce," "Death" and "Annulment or other"  | 5/18/20 |
+| Add Spouse (Former Marriages) | Reason marrige ended radio buttons | 14A.3 REASON FOR TERMINATION and 15A.3 REASON FOR TERMINATION (iterates) | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce," "Death" and "Annulment or other"  | 5/18/20 |
 | Report Divorce | Reason marrige ended radio buttons | SECTION IV Note: If marriage ended as an annulment or declared void, use Section IX, Item 25 | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce" and "Annulment or other" (no Death)  | 5/18/20 |
 | Report Death | Dependent relationship radio buttons | 22A. DEPENDENT TYPE | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
