@@ -1,4 +1,10 @@
-# High Level Product Decisions: 686c application
+# High Level Product Decisions: 21-686c Application
+**VSA eBenefits Team | May 2020**
+
+`Jason Wolf, product manager`
+
+---
+
 This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
 ## VA File Number  
 `May 8, 2020`  
@@ -67,4 +73,13 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+
 ------------
+
+## Differences and issues with online and paper forms
+
+| VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution |
+| :--- | :--- | :--- | :--- | :--- |
+| Add Child | Child status checkboxes | 18G. CHILD STATUS (iterates) | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved |
+| Report Divorce | Reason marrige ended radio buttons | SECTION IV Note: If marriage ended as an annulment or declared void, use Section IX, Item 25 | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce" and "Annulment or other" (no Death)  |
+| Report Death | Dependent relationship radio buttons | 22A. DEPENDENT TYPE | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved |
