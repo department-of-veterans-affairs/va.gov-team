@@ -60,7 +60,7 @@ _Instrumentation:_
 The code snippets takes on a format like `window.dataLayer.push({ event: 'vets-custom-event'})`. Here is the process we take to implement this tracking. 
 
 1. Analytics-Insights will guide you in the naming convention. 
-1. FE teams will implement this into code.
+1. FE teams will implement this into code.  There is a [helper function that can be used](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/monitoring/record-event.js).
 1. In parallel, we update Google Tag Manager to pick up these events. We define an Event Category, Event Action, and Event Label that translates the dataLayer event into a more readable format for Google Analytics users. 
 1. Once the code is on staging, we will QA that it is working correctly. 
 
