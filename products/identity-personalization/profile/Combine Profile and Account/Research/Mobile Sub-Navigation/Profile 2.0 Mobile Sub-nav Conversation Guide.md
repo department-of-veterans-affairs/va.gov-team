@@ -41,7 +41,9 @@ Try to move a bit slower than you normally would on a website and talk me throug
 
 3. Overall, did you find it easy or hard to navigate through the profile? Why?
 
-4. Do you have any additional thoughts or questions for me?
+4. What are your thoughts on the profile menu itself? Did you find it easy or hard to use? Why?
+
+5. Do you have any additional thoughts or questions for me?
 
 ### Things to watch for:
 
