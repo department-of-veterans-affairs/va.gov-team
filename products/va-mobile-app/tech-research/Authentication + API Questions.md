@@ -2,7 +2,7 @@
 
 ## Authentication: Why not use SSOe or cookie-auth?
 In March, we presented three different options for login and ultimately recommended an OAuth implementation. This is because:
-- SSOe does not allow for biometric authentication. It requires a 15-30 min session before users are required to re-enter their username/PW and complete 2FA again
+- SSOe does not allow for biometric authentication. It allows a 15-30 min session before users are required to re-enter their username/PW and complete 2FA again
 - Cookie authentication is only possible with hybrid applications, rather than native apps
 
 ## API Integrations: Why not go to vets-api directly? 
