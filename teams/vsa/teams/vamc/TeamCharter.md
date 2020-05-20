@@ -18,10 +18,21 @@ Systems published to "pre-prod" per quarter. (Q2 Goal - 8 from VISN 4)
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for 1 system to less than 1 month
   
-#### Q2 2020 - Tentative 
+#### Q2 2020 -  
 - Objective: "Push-button System creation"
   - Key Result: Reduce time to finalize and incorporate content for *n* systems to less than 1 month
+- Objective: "Automated System & Facility Health Service Load"
+  - Key Result: Reduce time to input System and Health Services into each System build per Sprint
+- Objective: "Standardize Data Collection and presentation"
+  - Key Result: Reduce time to have data validated and returned from PAO/stakeholder
+  - Key Result: Data will transform into .csv for automation into Systems
   
+#### Q3 2020 - Tentative 
+- Objective: "Automate Staff Profile data load"
+  - Key Result: Load entire database with all known Staf profiles to reduce time to update related nodes (Caregiver, Leadership).
+- Objective: "Create and standardize Content creation road map" 
+  - Key Resutl: 
+ 
 #### KPIs
 - page scaffolds created in a sprint
 - time to receive data/complete validated kick-off package back from PAO
@@ -34,6 +45,8 @@ Systems published to "pre-prod" per quarter. (Q2 Goal - 8 from VISN 4)
 - dropping content into a content block (create block + drop content in for that block e.g. accordion for parking info)
 - created components + content via a "business-focused" CSV  
 - Stub out 2 future VISNs at a time with their scaffold
+- Load as much data in playbooks and data gathering as possible to reduce validation time
+- Hardening pages will reduce content changes from system to system
 
 
 ## What we work on
