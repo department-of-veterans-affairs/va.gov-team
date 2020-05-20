@@ -95,6 +95,10 @@ Element source
 ``` HTML
 <a aria-label="800. 8 2 7. 1000" href="tel:800 827 1000">800-827-1000</a>
 ```
+> Note the new aria-label telephone pattern will throw an error in axe-coconut, even when it is implemented properly. 
+> The correct pattern should be `aria-label="8 0 0. 8 2 7. 1 0 0 0."`.
+
+
 - 🙈 Heading order invalid in the footer; CMS or Public Websites?
 Element location
 ``` HTML
