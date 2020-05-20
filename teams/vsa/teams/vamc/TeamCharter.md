@@ -13,18 +13,18 @@ Systems published to "pre-prod" per quarter. (Q2 Goal - 8 from VISN 4)
 ### OKRs 
 
 #### Q1 2020
-- Objective: "Push-button VISN creation"
+- Objective: "Push-button System creation"
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for 1 system to less than 1 month
   
 #### Q2 2020 - Tentative 
-- Objective: "Push-button VISN creation"
+- Objective: "Push-button System creation"
   - Key Result: Reduce time to finalize and incorporate content for *n* systems to less than 1 month
   
 #### KPIs
 - page scaffolds created in a sprint
-- time to receive complete kick-off package back from PAO
+- time to receive data/complete validated kick-off package back from PAO
 - pages loaded with data in a sprint 
 - pages loaded with content in a sprint
 
