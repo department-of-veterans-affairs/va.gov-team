@@ -24,20 +24,20 @@ Check "Prepare" and "When you apply,..." as they may be H5/6
 ```HTML
 <h4>Follow the steps below to apply for declare or remove a dependent.</h4>
 ```
-Check "Prepare" and "When you apply,..." as they may be <H5/6>
-3. Lighthouse Scan (Chrome)
-- 100%
-4. NVDA Scan (Firefox)
-- Links and buttons showed up in the elements list.  Reading sounded fine.
-5. VoiceOver (Safari)
-- Worked great
-6. Keyboard Navigation
-- Worked great
-7. Color contrast & blindness
-- Links were easily viewable. 
-- No contrast errors were detected in the page.
-8. Zoom to 400% at 1280px
-- Zoom in to 400% was uneventful.  Looked like a huge mobile screen.
+Check "Prepare" and "When you apply,..." as they may be <H5/6> 
+3. Lighthouse Scan (Chrome)  
+- 100%  
+4. NVDA Scan (Firefox)  
+- Links and buttons showed up in the elements list.  Reading sounded fine.  
+5. VoiceOver (Safari)  
+- Worked great  
+6. Keyboard Navigation  
+- Worked great  
+7. Color contrast & blindness  
+- Links were easily viewable.   
+- No contrast errors were detected in the page.  
+8. Zoom to 400% at 1280px  
+- Zoom in to 400% was uneventful.  Looked like a huge mobile screen.  
 ----
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/686-options-selection
 1. Scan with axe browser plugin
