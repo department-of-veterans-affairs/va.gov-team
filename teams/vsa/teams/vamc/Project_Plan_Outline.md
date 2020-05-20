@@ -119,16 +119,22 @@ Sprint 16
 Sprint 17
 - done, no more page scaffolds to create
 - n/a time to receive complete kick-off package back from PAO
-- __ pages loaded with data in a sprint 
-- __ pages loaded with content in a sprint
+- 83 pages loaded with data in a sprint 
+- 08 pages loaded with content in a sprint
 
 Sprint 18
 - done, no more page scaffolds to create
 - n/a time to receive complete kick-off package back from PAO
-- __ pages loaded with data in a sprint 
-- __ pages loaded with content in a sprint
+- 51 pages loaded with data in a sprint 
+- 59 pages loaded with content in a sprint
 
 Sprint 19
+- done, no more page scaffolds to create
+- n/a time to receive complete kick-off package back from PAO
+- 16 pages loaded with data in a sprint 
+- 162 pages loaded with content in a sprint
+
+Sprint 20
 - done, no more page scaffolds to create
 - n/a time to receive complete kick-off package back from PAO
 - __ pages loaded with data in a sprint 
