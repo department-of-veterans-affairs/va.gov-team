@@ -33,7 +33,7 @@ We ran these sessions using co-workers and the mobile zoom app.
 - Add clarifiers to the email address section in Personal and contact information.
 - Work with copy to shorten the DD header.
 
-## Design change screenshots
+## Design screenshots
 
 **Mobile Sub-nav Changes**
 
