@@ -14,16 +14,16 @@ Providing simple, easy-to-use digital tools like this one help to reduce wait ti
 
 ## SCREENER FEATURES
 
-In partnership with Veterans and VA medical centers, we researched, designed, and built a digital tool that allows users to quickly and easily answer COVID-19 screening questions from home, their car, or outside a facility.
+In partnership with Veterans and VA medical centers, we researched, designed, and built a digital tool that allows users to quickly and easily answer pre-entry screening questions from home, their car, or outside a facility.
 
-**Simple questions and interaction**
+**Simple experience**
 The tool presents a simple flow of 6 questions. Large text and buttons, plain language, and a simple interaction design make the experience easy to navigate from a mobile phone.
 
 **Clear results**
-The user receives a results screen with a timestamp and directions on next steps. The clear messaging and color-coded screens help employees easily triage those who need more screening.
+The user receives a results screen with 1 of 2 messages ("OK to proceed" or "More screening needed"), along with a timestamp and directions on next steps. The clear messaging and color-coded screens help employees easily triage those who need more screening.
 
-**Access to the Veterans Crisis Line**
-For Veterans in need of immediate mental health support, the tool prominently displays a clickable link to the Veterans Crisis Line. The text that users receive to access the screening tool also includes easy access to the crisis line.
+**Quick access to crisis support**
+For Veterans in need of immediate mental health support, the welcome text message and screening tool itself provide quick access to the Veterans Crisis Line.
 
 **Easy-to-update screening protocols**
 The tool's features allow us to update questions within 24 hours to meet the evolving needs for screening.
@@ -34,7 +34,7 @@ Explore the new VA COVID-19 screener at va.gov/covid19screener
 # VHA local and national offices + VA OIT Digital Experience Product Office
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
-True to the innovative nature of our VA leaders and employees, individual medical centers across the country responded to the need to digitize screening by quickly building facility-specific tools. Our OIT DEPO team worked closely with the Durham VA Health Care System to learn and build from the tool they'd built for their facility and create a scalable tool that all VA facilities can easily implement. We also worked with other VA medical centers, digital leaders, and Veterans in building the tool.  
+VA leaders and employees are passionate innovators. That's why individual medical centers across the country responded to the need to digitize screening by quickly building facility specific tools. Our OIT DEPO team worked closely with the Durham VA Health Care System to learn and build from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA medical centers, digital leadership, and Veterans.  
 
 ## WHAT VETERANS ARE SAYING
 
@@ -42,4 +42,4 @@ True to the innovative nature of our VA leaders and employees, individual medica
 
 ## WHAT'S NEXT FOR THE VA COVID-19 SCREENER
 
-We'll offer this tool to VA health facilities in phases so we can closely monitor usage, performance, and feedback, and update content and features to meet evolving needs.
+We'll offer this tool to VA health facilities in phases. This will help us closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. 
