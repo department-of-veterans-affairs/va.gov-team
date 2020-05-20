@@ -12,7 +12,7 @@ A digital pre-entry screening tool allows people to answer questions about sympt
 
 Providing simple, easy-to-use digital tools like this one help to reduce wait times, ease stress, and lower exposure risk for all. It also helps Veterans and their families feel more confident in the new reality of increased digital interactions as part of their VA health care experience.
 
-## SCREENER FEATURES
+## TOOL FEATURES
 
 In partnership with Veterans and VA medical centers, we researched, designed, and built a digital tool that allows users to quickly and easily answer pre-entry screening questions from home, their car, or outside a facility.
 
