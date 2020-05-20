@@ -1,26 +1,26 @@
 
-# VA COVID-19 screener
-**A mobile pre-entry screening tool to help protect patients and employees at VA health facilities**
+# VA COVID-19 screening tool
+**A digital tool to help protect patients and employees at VA health facilities**
 
 ## THE PROBLEM
 
-As the country begins to reopen during the coronavirus pandemic, VA faces a new reality of needing to individually screen an increasing number of patients, employees, and others for COVID-19 symptoms and exposure risk each time they enter a health facility. Having employees or volunteers conduct the full screening in person delays care and increases frustration and exposure risk for patients and staff.
+As the country begins to reopen during the coronavirus pandemic, VA must screen an increasing number of patients, employees, and others for symptoms and exposure risk each time they enter a health facility. Conducting the full screening process in person delays care and increases exposure risk for patients and staff. In-person screening can also be a stressful experience for some.
 
 ## THE SOLUTION
 
-A mobile-friendly pre-entry screening tool allows patients, employees, and others to answer questions about symptoms and exposure before coming to a VA health facility, and show their results at the facility's entrance. Depending on the user's results, they're directed to either proceed into the building or go to a designated area for more screening.
+A digital pre-entry screening tool allows patients, employees, and others to answer questions about symptoms and exposure before coming to a VA health facility, and share their results when they arrive. Staff members at the facility entrance can then easily triage people to either proceed into the building or go to a designated area for more screening.
 
-In this time of needing to limit face-to-face interactions as much as possible, providing simple, easy-to-use digital tools like this one helps to reduce wait times, ease frustrations, and lower exposure risk for all. It also helps Veterans and their families become more comfortable with increased digital interactions as part of their VA health care experience.
+Providing simple, easy-to-use digital tools like this one help to reduce wait times, ease stress, and lower exposure risk for all. It also helps Veterans and their families feel more confident in the new reality of increased digital interactions as part of their VA health care experience.
 
 ## SCREENER FEATURES
 
-In partnership with Veterans and VA medical centers, we rapidly researched, designed, and built a digital tool that allows users to quickly and easily answer COVID-19 pre-screening questions from home, their car, or outside the VA facility.
+In partnership with Veterans and VA medical centers, we researched, designed, and built a digital tool that allows users to quickly and easily answer COVID-19 screening questions from home, their car, or outside a facility.
 
 **Simple questions and interaction**
-The tool presents a simple flow of 6 questions about COVID-19 symptoms and exposure. Large text and buttons, along with a simple interaction design, make the experience easy to navigate from a mobile phone.
+The tool presents a simple flow of 6 questions. Large text and buttons, plain language, and a simple interaction design make the experience easy to navigate from a mobile phone.
 
 **Clear results**
-The user receives either a blue **PASS** screen or a gray **More screening needed** results screen with a timestamp and directions on next steps. The clear messaging and color-coded screens help employees easily triage those who need more screening.
+The user receives a results screen with a timestamp and directions on next steps. The clear messaging and color-coded screens help employees easily triage those who need more screening.
 
 **Access to the Veterans Crisis Line**
 For Veterans in need of immediate mental health support, the tool prominently displays a clickable link to the Veterans Crisis Line. The text that users receive to access the screening tool also includes easy access to the crisis line.
