@@ -1,3 +1,10 @@
+# 20200520
+
+## Agenda
+- tech debt and documentation 
+
+## Notes
+
 # 20200506
 
 ## Agenda
