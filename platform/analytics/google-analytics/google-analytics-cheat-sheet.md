@@ -1,6 +1,6 @@
 ## Google Analytics Cheat Sheet
 
-Overview: This document's purpose is to serve as a quick reference for commonly used Google Analytics and their definitions. 
+Overview: This document's purpose is to serve as a quick reference for commonly used Google Analytics metrics/dimensions and their definitions. 
 
 
 | Metric | Definition | Example(s) 
