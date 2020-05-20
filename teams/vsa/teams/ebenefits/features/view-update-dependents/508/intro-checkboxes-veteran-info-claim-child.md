@@ -1,5 +1,5 @@
-# Accessibility Test Cases: Add or change your dependents
-`eBenefits | April 2020`
+# Accessibility: Manage Dependents - Introduction, Checkboxes, Veteran Info, and "Claim additional benefits for a child"
+`eBenefits | April-May 2020`
 
 ## Resources
 1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
@@ -10,8 +10,6 @@
 
 ## Credentials Used
 User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
-
-## Workflows: Introduction, Checkboxes, Veteran Info, and "Claim additional benefits for a child"
 
 **Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction
 1. Scan with axe browser plugin  
