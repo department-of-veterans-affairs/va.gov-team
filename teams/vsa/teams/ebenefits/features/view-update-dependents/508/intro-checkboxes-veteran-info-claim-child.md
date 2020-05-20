@@ -17,7 +17,8 @@ User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
 ```HTML
 <h4>Follow the steps below to apply for declare or remove a dependent.</h4>
 ```
-Check "Prepare" and "When you apply,..." as they may be H5/6
+Check "Prepare" and "When you apply,..." as they may be H5/6  
+
 2. Scan with axe-coconut   
 - Heading levels should only increase by one, this can be H2 and made to look like H4.  Even thought its in the right order, it needs to be sequential.  
 ```HTML
