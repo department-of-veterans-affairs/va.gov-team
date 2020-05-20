@@ -78,6 +78,17 @@ Of course none of your actions will affect your actual VA information or benefit
 <li><p>You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. The advantage of doing this is that you would receive payments sooner after separating from service. Someone told you that you could apply to this program on VA.gov.</p></li>
 <li><p>Please go to VA.gov, and show me what you would do to find this program and apply for it.
 [they do the task]</p></li>
+  
+  
+how to file a disability claim: Take a look at this page. 
+What are your first impressions and thoughts about this page?
+What would you do on this page?
+
+Do you have all the info you need to file a pre-discharge claim on this page?
+If no, what is missing? What would make you confident that you could file such a claim on this page?
+Is anything confusing on this page?
+Imagine you want to figure out what claims you are allowed to apply for and not. Where would you go from here?
+
 </ul>
 Tasks for BDD usability test 2:
 
@@ -85,18 +96,9 @@ What are your thoughts on this page you’ve landed on? (first impressions / qui
 
 OK, now I’m going to show you another version of this page, what do you think of this and how it compares to the page you just saw? How would you figure out what kind of claim to use? How would this compare with the other version you looked at?
 
-Depending on where the user ends up - guide them to the other page:
-pre-discharge claim: Take a look at this page. 
 What are your first impressions and thoughts about this page? 
 What would you do on this page? 
 Is anything confusing on this page?
-how to file a disability claim: Take a look at this page. 
-What are your first impressions and thoughts about this page?
-What would you do on this page?
-Do you have all the info you need to file a pre-discharge claim on this page?
-If no, what is missing? What would make you confident that you could file such a claim on this page?
-Is anything confusing on this page?
-Imagine you want to figure out what claims you are allowed to apply for and not. Where would you go from here?
 
 
 <h2 id="toc_7">Task 2</h2>
