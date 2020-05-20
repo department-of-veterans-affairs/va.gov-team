@@ -77,7 +77,7 @@ _Note/ Guiding principle_
 ------------
 
 ## Differences and issues with online and paper forms
-
+[Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
 | VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Add Child | Child status checkboxes | 18G. CHILD STATUS (iterates) | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
