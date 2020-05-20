@@ -9,16 +9,16 @@ View the [conversation guide](https://github.com/department-of-veterans-affairs/
 
 ## Overview
 
-The goal of this research is to understand if the design changes made to the Profile 2.0 based off previous research findings was successful. The main issue with the current design was in mobile, participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. 
+The goal of this research is to understand if the design changes made to Profile 2.0 based off previous research findings were successful. The main issue with the current design was in mobile view. Participants had a difficult time finding the 'profile menu', and in general were confused about the mobile navigation. Most commonly people looked for their name for navigation, stating that it was something they were familiar with and had used in other apps. 
 
 A secondary issue is that users were unsure what email address was represented in the Personal and Contact Information section (contact vs log-in). Participants didn't notice the 'more information' drop down, and even after reading the 'More Information' content, there was confusion about updating the contact email vs the log-in email. 
 
-Based off these issues we made the following recommendations:
+Based off these issues we made the following recommendations for design changes:
 
 - Make mobile subnavigation clearer for the logged in experience - this is possibly a two-tier solution. First, there should be a short term fix specific to the profile, followed by a more involved long term solution based on previous research and more comprehensive mobile navigation needs.
 - Add clarification around email address in Personal and Contact information and add email address to Account Security.
 
-We ran these sessions using co-workers and the mobile zoom app.
+We ran these sessions with 5 co-workers using the mobile zoom app.
 
 ## Findings
 
