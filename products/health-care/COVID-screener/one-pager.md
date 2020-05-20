@@ -4,11 +4,11 @@
 
 ## THE PROBLEM
 
-As the country begins to reopen during the coronavirus pandemic, VA must screen an increasing number of patients, employees, and others for symptoms and exposure risk each time they enter a health facility. Conducting the full screening process in person delays care and increases exposure risk for patients and staff. In-person screening can also be a stressful experience for some.
+During the coronavirus pandemic, VA must screen patients, employees, and others for symptoms and exposure risk each time they enter a health facility. Conducting the full screening process in person delays care and increases exposure risk for patients and staff. In-person screening can also be a stressful experience for some.
 
 ## THE SOLUTION
 
-A digital pre-entry screening tool allows patients, employees, and others to answer questions about symptoms and exposure before coming to a VA health facility, and share their results when they arrive. Staff members at the facility entrance can then easily triage people to either proceed into the building or go to a designated area for more screening.
+A digital pre-entry screening tool allows people to answer questions about symptoms and exposure before coming to a VA health facility, and share their results when they arrive. Staff members at the facility entrance can then quickly triage people to either proceed into the building or go to a designated area for more screening.
 
 Providing simple, easy-to-use digital tools like this one help to reduce wait times, ease stress, and lower exposure risk for all. It also helps Veterans and their families feel more confident in the new reality of increased digital interactions as part of their VA health care experience.
 
