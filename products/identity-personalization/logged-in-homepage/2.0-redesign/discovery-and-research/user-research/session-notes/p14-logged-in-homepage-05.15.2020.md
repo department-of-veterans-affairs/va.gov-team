@@ -56,16 +56,19 @@ _Shares screen and explains the exercise_
 
 I think direct deposit would be hand in hand with personal information because you don't change it that often. I am planning to switch banks so I'd go in and do that.
 
-Also - dependents, I think that should be under my profile. You know, you say you're married and it would drop down and ask you who your spouse is.  It would tell you all of the things you need to do. I'm disabled, so it's different for me than another veteran. That would have been very helpful for me.
+Also - dependents, I think that should be under my profile. You know, you say you're married and it would drop down and ask you who your spouse is.  It would tell you information, which would've been helpful for me. That there is all this information you need to send off to make sure that they had in order for him to be added on.  I'm fully disabled so it's different for me than a regular Veteran. It would say in there your spouse is eligible for this plethora of benefits, click here to go to the stuff that that person needs. That would've been very helpful for me.
 
-Disability would be under my personal information.. yknow your personal disability rating or award ... it would say 100% or whatever. And there are different things that go along with that. 
+Disability would be under my personal information. Like my main thing usually on ebenefits, under your personal information your personal disability rating or award ... it would say 100% or 20% or 30% or whatever. And there are different things that go along with each of those. For me it's completely different.
 
 **M:** Is that different from spouse information?
-Yeah, because once you put their name and stuff, it would just kind of pop up and say 'due to your new marriage, and it knows that I'm (CHECK THE RECORDING)
+Yeah, because once you put I'm married, this is my spouse, here's their name and stuff, that would be something that popped up because I entered their information it wouldn't just automatically be there. It would just kind of pop up and say 'due to your new marriage', and it knows that I'm 100%, okay you're 100%, your spouse is eligible for medical benefits and education benefits. It wouldn't be there for everyone, it pops up because it knows that he's eligible because of my rating.
 
-Change your password... I think those would be under profile, basic components of your profile.
+Change your password... I think those would be under profile, those are your basic components of your profile.
 
 2FA would also be a part of that.
+
+Let's see, *participant reading stickies aloud*, those are all good ones.  That one, `Share your VA medical records..` is a good one for me, I just had a medical procedure done and there was a big back and forth on "is the doctor supposed to request these records?", "am I supposed to bring them?", it was this big thing, and they were like, they can send them or you can request them through this form but then you have to wait, it was a hassel. There was a big lack of communication and something like that would be very helpful to do that.
+
 
 [RECORDING CHECK]
 
