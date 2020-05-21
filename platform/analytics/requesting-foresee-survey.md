@@ -1,11 +1,17 @@
 # Requesting the ForeSee Comment Card
 
+*Audience:* VFS teams
+
+*Overview*: How to request the ForeSee Comment Card for your new launch.
+
+---
+
 ## Background
 ForeSee is the current survey tool that tracks user sentiment on VA.gov. Currently, the survey tracks sentiment for the entirety of VA.gov. To track product specific sentiment, a pilot 5 star comment card is in place that can track 1-5 star sentiment using a floating site badge. 
 
 Medallia, the Veteran Experience Office CX tool, ([see here for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-implementation-rollout.md)) will replace ForeSee in 2020 and will provide more product specific feedback.
 
-## Process for VFS Teams
+## Request Process for VFS Teams
 You can request a 5 star comment card to be added to your application before launch of new applications or features, or request the comment card to be added to your current application. To do so, please fill out an issue on Github with the following:
 
 Title: `Request ForeSee Comment Card for [your application]`
