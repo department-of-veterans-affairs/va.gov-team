@@ -25,5 +25,7 @@ assignees: andreahewitt-odd, meganhkelley
 - DEPO Product Lead (required): **name**
 - Entire VFS team (recommended): **names**
 
+**Do you anticipate this initiative requiring updates to and/or creation of unauthenticated static content pages?**
+
 ## Scheduling
-Preferred dates or times: 
+Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET) select an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot, and note your preferred time(s) here.
