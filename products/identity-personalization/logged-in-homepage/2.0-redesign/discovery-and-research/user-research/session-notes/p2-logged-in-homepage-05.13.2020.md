@@ -87,12 +87,12 @@ First, we'll use the stickies to create items to put on the page.  Then, we'll o
 - What else on MHV?
   - Veteran: Well for MHV, I'm just thinking secure messaging because depending on what they need, people might want to reach out to their PCP. If it's medication or paperwork, that might be done by their VA PCP. That's usually the big thing people are looking for, trying to figure out if they are new to VA, how do you get this?
 - For you, someone who is established and logs in, what is important to you?
-  - Veteran: I know MHV, but for me - it would be nice to defnitely have secure messaging because I use that a lot. Also comp benefits, especially the state-specific ones. I don't know if that's something to have on there like the state of Wisconsin, you get different benefits if you are from a state that has certain benefits.
-  - Veteran: Or like Voc Rehab information. I'm lucky and had to deal with the VA for years but for some other people they don't know as much.
-- We'll keep this focused just on you, all about you! For comp ben, what would you want to see?
-  - Veteran: If you have claims pending, it would be great to have a status of that especially with the covid headache it has been hard to know what is going on. Or I mean, status of claims I currently have. Or status of disabilities I've already been approved for.
+  - Veteran: I know MHV, but for me - it would be nice to defnitely have secure messaging because I use that a lot. Also comp benefits, especially the state-specific ones. I don't know if that's something to have on there, So, like the state of Wisconsin, you get different benefits if you are from a state that has certain benefits.
+  - Veteran: Or like Voc Rehab information. I'm lucky and had to deal with the VA for years but for some other people they're not going to get any of this. Some of this stuff is really hard to find.
+- We'll keep this focused just on you, all about you! For the state specific comp ben, what would you want to see?
+  - Veteran: It would be nice if it was right on the page, if you have claims pending, it would be great to have a status of them, especially with the covid headache it has been interesting to know what is going on. And even if there's a quick thing for status of claims I currently have. Or, I mean, status of disabilities I've already been approved for.
 - Can you elaborate on Voc Rehab?
-  - Veteran: Stuff you have to do to go through it. Because Voc Rehab stuff - in some cases you have to have applied for GI Bill. Other cases, you can do work compenstaion therapy and that would be nice to know about.
+  - Veteran: Stuff you have to do to go through it. Because Voc Rehab stuff - in some cases you have to have applied for GI Bill. Other cases, you can do work compenstaion therapy and that would be nice to know about. 
   - Veteran: If I knew what I had to fill out - in some cases, you don't have to go to college but they can place you somewhere. I've had a lot of surgeries and am not as mobile and they look into it. That is specific to voc rehab.
 - Can you elaborate on MHV paperwork?
     - Veteran: When I was going to have a surgery, like I did in [recently], I had to go through my PCP to get disabled parking but also through VBA to get my 100% temporary rating at the time, it was a lot of back and forth stuff. If some of those links were available that would've been even awesomer. Just to those documents that will end up coming up.
