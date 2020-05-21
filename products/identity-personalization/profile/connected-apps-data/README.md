@@ -1,6 +1,6 @@
 ## App Directory
 
-**VA Product Owner:** Dave Mazik, VA Lighthouse (@davem-va) | **Maintained by:** Ryan Link (@ryanlink)
+**VA Product Owners:** Dave Mazik, VA Lighthouse (@davem-va), Andrew Fichter (@afichter-va) | **Maintained by:** Ryan Link (@ryanlink)
 
 **Overview:** A complete list of third-party applications consuming VA Lighthouse OAuth APIs, that a Veteran can connect their VA data to. On VA.gov, this is referenced on Connected Apps (Auth. Exp. page) and App Directory (Public Websites page).
 
