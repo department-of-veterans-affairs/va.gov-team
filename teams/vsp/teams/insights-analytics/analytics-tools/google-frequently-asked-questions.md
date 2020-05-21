@@ -7,6 +7,7 @@
  ## All Questions
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
+  - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
   - [What are the big amount of '(other)' pageviews in the All Website data view?](#what-are-the-big-amount-of-other-pageviews-in-the-all-website-data-view)
   - [What’s wrong with my goal funnel visualization report? Why is my conversion rate so low?](#whats-wrong-with-my-goal-funnel-visualization-report-why-is-my-conversion-rate-so-low)
   - [Why do total submission events not match the backend?](#why-do-total-submission-events-not-match-the-backend)
@@ -33,8 +34,14 @@ The top number isn't a summation of the report rows. It is a count of unique Use
 
 More information:  https://help.analyticsedge.com/article/misunderstood-metrics-users/
 
-## When should I use pageviews, vs sessions vs users? 
-lorem impsum.....what is the real purpose ...a couple examples of when to use each, what to think about when using each...
+## When should I use pageviews vs sessions vs users? 
+Pageviews, sessions, and users each play an important role in analysis and all have sligthly different meanings. The decision of whether to leverage pageviews, sessions, and/or users is one to give considerable thought with each Google Analytics report generation/analysis.  Please see our [Google Analytics cheat sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md) for a quick definition of each. Also, please keep in mind each reporting scenario is slightly different and therefore may require only 1 or multiple of these metrics used together for analysis purposes. 
+
+**Pageviews** should be used when we are mostly concerned with traffic _volume_. In other words, pageviews are most useful when we don't  care about who the user is, whether theyve been to the site before, etc. The question to ask yourself when deciding to use pageviews is "do we care about repeat users" and/or "do we care about repeat (duplicate) visits to the same page". If the answer to both of those questions is no, pageviews is the metric to use. Unique Pageviews (sister to pageviews) are a great metric to use when our answer to "do we need to consider repeat (duplicate) visits within a session?" is no. 
+
+**Sessions** should be used when the scope of analysis is interpreted with the context of the life of a specific visit. Sessions are most useful when assessing traffic attribution. When used with source, medium, and/or campaign, sessions are a great way to accurately reflect how traffic is originating on the site. 
+
+**Users** should be used when the scope of analysis is needing to be understood in the context of unique visitors. In other words, when we are solely concerned with understanding how _individual vistors_ are behaving. It is important to note a "user" can span multiple sessions -- therefore users are best when we are not concerned directly with "did the user leave the site before completing the action". Users is best when there is a need to understand how many specific people performed an action. 
 
 
 ## What are the big amount of ‘(other)’ pageviews in the All Website data view?
