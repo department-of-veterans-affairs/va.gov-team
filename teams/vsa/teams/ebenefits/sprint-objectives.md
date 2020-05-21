@@ -8,6 +8,26 @@
 - Measure outcomes where possible
 - Remember the Contact Center
 ----
+## Sprint 22 (5/20 - 6/2)
+```diff
+- 51 points over 18 issues
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE: Being moving through end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
+- BE: Complete PDF creation, establish procedures for VBMS connection
+- Design and Research: Schedule and conduct usability sessions, if possible
+- Product: Finalize Contact Center documentation, record video walk-through
+
+## 2. POA: Design Iteration
+- Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+
+## 3. VRE (CH31) and PCPG (CH36): Design Iteration
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+
+## 4. View My Payments: Initial Dev Activities
+- FE: Set up routes, mock data, scaffold app page, other setup activities
+- BE: Review View Payments API and give design/ FE feedback (e.g. are all fields in design present in BGS service?)(1 hour)
+
 ## Sprint 21 (5/6 - 5/19)
 ```diff
 - 57 points over 20 issues
