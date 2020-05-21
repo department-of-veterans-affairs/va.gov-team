@@ -16,17 +16,17 @@ Providing simple, easy-to-use digital tools like this one helps reduce wait time
 
 In partnership with Veterans and VA medical centers, we designed a digital tool that allows users to quickly and easily answer pre-entry screening questions on their mobile phone. We built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
 
-**Simple experience**
+**Simple experience** <br>
 The tool presents a flow of 5 quick questions. Large text and buttons, plain language, and a simple interaction design allowed Veterans we tested it with to complete screening in an average of [X] minutes.
 
-**Clear results**
-The results screen shows 1 of 2 messages ("OK to proceed" or "More screening needed") plus with a timestamp and next steps. The large, clear text and color-coded screens help staff easily triage.
+**Clear results** <br>
+The results screen shows 1 of 2 messages ("OK to proceed" or "More screening needed") plus a timestamp and next steps. The large, clear text and color-coded screens help staff easily triage.
 
-**Quick access to crisis support**
+**Quick access to crisis support** <br>
 For Veterans in need of immediate support, the welcome text message and screening tool provide quick access to the Veterans Crisis Line.
 
-**Easy-to-update screening protocols**
-We can update questions within 24 hours to meet the evolving needs for screening.
+**Easy-to-update screening protocols** <br>
+We can update questions within 24 hours to meet evolving needs.
 
 [CTA]
 Explore the new VA COVID-19 screener at va.gov/covid19screen
@@ -34,7 +34,7 @@ Explore the new VA COVID-19 screener at va.gov/covid19screen
 # VHA local and national offices + VA OIT Digital Experience Product Office
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
-VA leaders and employees are passionate innovators. That's why medical centers across the country responded to the need to digitize screening by quickly building tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
+VA leaders and employees are passionate innovators. Medical centers across the country responded to the need to digitize screening by quickly building tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
 
 ## WHAT VETERANS ARE SAYING
 
@@ -42,4 +42,4 @@ VA leaders and employees are passionate innovators. That's why medical centers a
 
 ## HOW TO USE THIS TOOL AT YOUR VA FACILITY
 
-To begin using the COVID-19 screening tool at your facility, simply start directing patients and staff to text **screen** to 919-355-0995. We'll continue to closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
+To start using the COVID-19 screening tool at your facility, simply direct patients and staff to text **screen** to 919-355-0995. We'll continue to closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
