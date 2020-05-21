@@ -8,13 +8,13 @@ To protect patients and staff, VA must now screen everyone for coronavirus sympt
 
 ## THE SOLUTION
 
-A digital pre-entry screening tool allows people to answer questions before coming to VA, and share their results when they arrive. Staff members can then quickly triage people to either enter the building or get more screening.
+A digital pre-entry screening tool allows people to answer questions on their mobile phone before coming to VA, and share their results when they arrive. Staff members can then quickly triage people to either enter the building or get more screening.
 
 Providing simple, easy-to-use digital tools like this one helps reduce wait times, ease stress, and lower exposure risk. It also helps Veterans gain confidence in the new reality of increased digital interactions as part of their VA health care experience.
 
 ## TOOL FEATURES
 
-In partnership with Veterans and VA medical centers, we designed a digital tool that allows users to quickly and easily answer pre-entry screening questions on their mobile phone. We built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
+In partnership with Veterans and VA medical centers, we built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
 
 **Simple experience** <br>
 Users can access the tool quickly via text message. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
