@@ -1,5 +1,9 @@
 # KPI Pre-Workshop Planning
 
+*Audience* VFS teams
+
+*Overview* Copy this template to your team's Github folder and fill out with your team prior to the KPI Setting Workshop. 
+
 ### Product Line
 _For example, Platform, Global UX, etc._
 
@@ -15,7 +19,7 @@ _For example, Health Care Application (10-10EZ), Disablitiy Compensation Applica
 
 - [Fill out here]
 
-### Objectives (& OKRs)
+### Objectives & Key Results (OKRs)
 _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
