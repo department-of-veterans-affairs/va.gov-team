@@ -33,6 +33,10 @@ The top number isn't a summation of the report rows. It is a count of unique Use
 
 More information:  https://help.analyticsedge.com/article/misunderstood-metrics-users/
 
+## When should I use pageviews, vs sessions vs users? 
+lorem impsum.....what is the real purpose ...a couple examples of when to use each, what to think about when using each...
+
+
 ## What are the big amount of ‘(other)’ pageviews in the All Website data view?
 
 **From Google's documentation:**
