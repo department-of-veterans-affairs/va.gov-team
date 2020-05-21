@@ -172,7 +172,8 @@ Increase customer satisfaction
 - *What is your target launch date of your MVP/iteration?*
 - *What is your date for when you'll evaluate impact after launch?*
 
-- *May 15
+- ~May 15~
+- Begin soft roll-out June 15
 - *One month post launch and then QoQ
 
 ## Status
