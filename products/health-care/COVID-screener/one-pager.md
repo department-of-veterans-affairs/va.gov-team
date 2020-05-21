@@ -17,7 +17,7 @@ Providing simple, easy-to-use digital tools like this one helps reduce wait time
 In partnership with Veterans and VA medical centers, we designed a digital tool that allows users to quickly and easily answer pre-entry screening questions on their mobile phone. We built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
 
 **Simple experience** <br>
-Users can access the tool quickly via text. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
+Users can access the tool quickly via text message. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
 
 **Clear results** <br>
 The results screen shows 1 of 2 messages ("OK to proceed" or "More screening needed") plus a timestamp and next steps. The large, clear text and color-coded screens help staff easily triage.
