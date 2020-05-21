@@ -180,7 +180,7 @@ File uploads can be done using the [cypress file upload](https://github.com/abra
 ### Accessibility <a name="accessibility"></a>
 Just like most e2e tools, cypress has its own [axe-core plugin](https://github.com/avanslaars/cypress-axe) to test accessibility.
 
-To add axe checks to your tests use the [`checkA11y` command](https://github.com/avanslaars/cypress-axe#cychecka11y).
+To add axe checks to your tests use the custom `axeCheck()` command based off the `checkA11y` [command](https://github.com/avanslaars/cypress-axe#cychecka11y).
 
 #### Nightwatch:
 ```javascript
@@ -189,10 +189,8 @@ client.axeCheck('.main')
 
 #### Cypress:
 ```javascript
-cy.checkA11y('.main', null, terminalLog);
+cy.axeCheck();
 ```
-
-Notice that the last argument in the `checkA11y` command is a [custom function](https://github.com/avanslaars/cypress-axe#in-your-spec-file) that outputs the accessibility errors to the console in a table. You can `import` this function from `platform/testing/e2e-cypress/helpers.js`.
 
 ### Assertions <a name="assertions"></a>
 
