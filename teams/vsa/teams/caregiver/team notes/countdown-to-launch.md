@@ -18,6 +18,7 @@ May 29, 2020
 ### Back end
 - [x] Schema changes
 - [ ] Finalize all work relating to "veteran verification" (includes confirmation with CARMA)
+  - [x] Don't send isVeteran as null
   - [x] Don't send icn is isVeteran is false
   - [ ] Fix emis lookup issue - passing in ICN but it rases INVALID_INPUT.
 - [ ] Send CARMA requests through VA Proxy
