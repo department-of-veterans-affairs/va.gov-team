@@ -195,6 +195,16 @@ Other metrics are qualitative:
 - [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md#okrs--kpis)
 - [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
 
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
 ---
 
 # Implementation Info
