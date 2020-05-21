@@ -28,4 +28,7 @@ assignees: andreahewitt-odd, meganhkelley
 **Do you anticipate this initiative requiring updates to and/or creation of unauthenticated static content pages?** YES/NO
 
 ## Scheduling
-Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET), select an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot, and note your preferred time(s) here.
+- Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)
+- Note an avaialble time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 2 business days from now
+- Write that preferred time slot here, and VSP will send you a meeting invite
+- _If no available time slots work for your team, write your availability and requirements here and Megan/Andrea will reach out as needed_
