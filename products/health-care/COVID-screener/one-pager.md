@@ -14,7 +14,7 @@ Providing simple, easy-to-use digital tools like this one helps reduce wait time
 
 ## TOOL FEATURES
 
-In partnership with Veterans and VA medical centers, we built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
+In partnership with Veterans and VA medical centers, we designed, built, tested, and refined this tool based on Veteran feedback in less than 10 days.
 
 **Simple experience** <br>
 Users can access the tool quickly via text message. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
