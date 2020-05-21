@@ -40,7 +40,7 @@ Before we start, a few things I want to mention:
 Before we start the activities I mentioned, I'd like to ask a few questions about how you use VA.gov and the benefits you receive.
 
 -   Do you remember the last time you visited VA.gov. What were you doing?
-    -   Veteran: Yesterday.
+    -   Veteran: Yesterday. I was getting my benefit letters, printed out, or should I say downloaded, for applying for jobs at the VA.
 -   Do you remember if you logged in?
     -   Veteran: Yes, I logged in.
 -   Can you explain whether or not that was a typical experience for you?
