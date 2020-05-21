@@ -6,7 +6,7 @@ The Admins for the VSP Analytics & Insights Team are Joanne Esteban, Jon Wehause
 
 ### Resources for Google Analytics
 
-We want to help you measure the success of the products you are building for veterans and their families. We highly encourage engagement with the VSP Analytics-Insights team throughout the lifecycle of your product. 
+We want to help you measure the success of the products you are building for veterans and their families. We highly encourage engagement with the VSP Analytics & Insights team throughout the lifecycle of your product. 
 
 #### Getting Started
 
@@ -36,6 +36,6 @@ After your VSP orientation, please check out these resources:
 
 1. [Understanding Goal Conversions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-success-in-analytics.md)
 
-2. [Importance of UTM Parameters - Video](https://drive.google.com/drive/folders/1PCFIkdvz6ptFENxrcw59x23OQ1VdWEH_)
+2. [Importance of UTM Parameters - Video](https://drive.google.com/file/d/1jxoLHX91LW4kADVZCSOeH2c_5w6p46cn/view?usp=sharing)
 
 
