@@ -1,8 +1,8 @@
-# How to Communicate with and Request Support from VSP Analytics & Insights
+# How to Request Google Analytics Support
 
 ### [1. Requesting Access to Google Analytics](#requesting-access-to-google-analytics)
 ### [2. Requesting Metrics Reports](#requesting-metrics-reporting)
-### [3. Requesting Google Analytics Implementation](#requesting-google-analytics-implementation-or-qa)
+### [3. Requesting Google Analytics Implementation](#requesting-google-analytics-implementation-and-qa)
 
 ---
 
@@ -28,9 +28,9 @@ Fill out the [Metrics Reporting Request Template](https://github.com/department-
 
 Insights will usually provide data reports within the current sprint.
 
-## Requesting Google Analytics Implementation or QA
+## Requesting Google Analytics Implementation and QA
 
-Fill out the [Analytics Implementation or QA Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) on the va.gov-team repo to request Google Tag Manager and Google Analytics implementation or QA for your product.
+Fill out the [Analytics Implementation and QA Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request%2C+collaboration-cycle&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) on the va.gov-team repo to request Google Tag Manager and Google Analytics implementation or QA for your product.
 
 The following is a general guideline for implementation timeline:
 New Teams: Implementation will usually be completed in 4 sprints:
