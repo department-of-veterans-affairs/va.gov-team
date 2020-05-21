@@ -18,6 +18,17 @@ VA.gov aims to provide a unified digital portal with access to all VA services. 
 
 The 4 flows below chart out how users could test both outbound and inbound SSOe with one type of credential. Ideally, each flow should have two testers go through it, one in Chrome and one in Safari. This would make for a total of 8 moderated UAT sessions run by the SSOe team. 
 
+### Set Up
+1. Open browser
+2. Go to View > Developer tools (Chrome)
+3. Go to Storage > Cookies
+4. Copy "FLIPPER_idname" value and paste in chat window in Zoom to person conducting UAT session
+5. UAT lead uses this value to "turn on" SSOe for UAT paricipant
+6. Close developer toolbar
+7. Refresh page
+8. Begin UAT flow
+
+
 ### Flow 1: ID.me
 
 #### Complete the following test cases: 
