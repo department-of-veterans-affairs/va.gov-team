@@ -4,7 +4,7 @@
 
 ## THE PROBLEM
 
-During the coronavirus pandemic, VA must screen patients, employees, and others for symptoms and exposure risk each time they enter a health facility. Conducting the full screening process in person delays care and increases exposure risk for patients and staff. In-person screening can also be a stressful experience for some.
+To protect patients and staff, VA must now screen everyone for coronavirus symptoms and exposure each time they enter a health facility. In-person screening can delay care and increase exposure risk for patients and staff. It can also be stressful for some people.
 
 ## THE SOLUTION
 
