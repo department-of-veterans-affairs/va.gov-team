@@ -6,6 +6,38 @@ So: **how might we craft a release plan to test our product "in the wild" at a s
 
 That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.
 
+## Do I need unmoderated production testing?
+
+**Yes**, staged rollout is required unless you can confidently answer "yes" to all of the following:
+
+* This change does not add substantial new functionality to VA.gov
+* This change does not impact user flows through tasks
+* This change does not affect traffic to backend services
+
+*Example*: a change to a page's text content **could skip** staged rollout
+
+*Example*: a visual redesign to a page that doesn't affect user flows **could skip** staged rollout
+
+*Example*: adding a new field to an existing form, that doesn't **could skip** staged rollout
+
+*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
+
+*Example*: a significant change to how users navigate an existing form **needs staged rollout**
+
+*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **neds staged rollout**
+
+### Exceptions
+
+If [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) don't work for your use case, you can request an exception in Staging Review.
+
+| Feature type | Possible with feature toggles? |
+| --- | --- |
+| New feature in existing application | Yes |
+| New application | Yes |
+| Static content changes | Doable but tricky |
+| URL redirects | No |
+
+Other exceptions to this requirement can be approved by DEPO VSP leads.
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
@@ -25,23 +57,49 @@ That's what this Release Plan Template is for! And note - there are feature togg
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing
+## Phase II: unmoderated production testing (also known as Staged Rollout)
 
 ### Planning:
 - Desired date range: mm/dd/yy - mm/dd/yy
-- Desired number of unique users: x
 - How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
 - "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
+- Link to dashboard or metrics for success criteria:
 
-### Results:
+_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
+
+### Stage A: Canary
+
+_Test a small population of users to make sure any obvious bugs / edge cases are caught._
+
+#### Planning
+
+- Length of time: x (_minimum 2 hours_)
+- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
+
+#### Results:
 - Number of unique users: x
 - Actual results (per your "success criteria")
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
+### Stage B: moderate
+
+_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
+
+#### Planning
+
+- Length of time: x (_minimum 1 day_)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
+
+#### Results:
+- Number of unique users: x
+- Actual results (per your "success criteria")
+- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
+- Types of errors logged: lorem ipsum
+- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
+_More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
 
