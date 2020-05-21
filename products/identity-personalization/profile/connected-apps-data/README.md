@@ -20,4 +20,8 @@
 
 **Current as of:** May 20, 2020
 
-... PLACEHOLDER ....
+[App Directory List (CSV)](App%20Directory%20-%20Production%20List.csv)
+
+[Logo image files](../connected-apps-data/)
+
+_NOTE:_ As of May 20, 2020: GirlsComputingLeague is not ready to list their ClinicalTrialSelector app in the Directory._
