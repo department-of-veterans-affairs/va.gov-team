@@ -34,7 +34,7 @@ Explore the new VA COVID-19 screener at va.gov/covid19screen
 # VHA local and national offices + VA OIT Digital Experience Product Office
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
-VA leaders and employees are passionate innovators. Medical centers across the country responded to the need to digitize screening by quickly building tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
+VA medical centers across the country responded to the need to digitize screening by quickly building facility-specific tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
 
 ## WHAT VETERANS ARE SAYING
 
