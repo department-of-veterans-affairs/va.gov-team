@@ -17,13 +17,13 @@ Providing simple, easy-to-use digital tools like this one helps reduce wait time
 In partnership with Veterans and VA medical centers, we designed a digital tool that allows users to quickly and easily answer pre-entry screening questions on their mobile phone. We built, tested, launched, and refined this tool based on Veteran feedback in less than 10 days.
 
 **Simple experience** <br>
-The tool presents a flow of 5 quick questions. Large text and buttons, plain language, and a simple interaction design allowed Veterans we tested it with to complete screening in an average of [X] minutes.
+Users can access the tool quickly via text. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
 
 **Clear results** <br>
 The results screen shows 1 of 2 messages ("OK to proceed" or "More screening needed") plus a timestamp and next steps. The large, clear text and color-coded screens help staff easily triage.
 
 **Quick access to crisis support** <br>
-For Veterans in need of immediate support, the welcome text and screening tool provide quick access to the Veterans Crisis Line.
+For Veterans in need of immediate support, the tool provides quick access to the Veterans Crisis Line.
 
 **Easy-to-update screening protocols** <br>
 The tool's features allow us to update questions within 24 hours to meet evolving needs.
@@ -34,7 +34,7 @@ Explore the new VA COVID-19 screener at va.gov/covid19screen
 # VHA local and national offices + VA OIT Digital Experience Product Office
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
-VA medical centers across the country responded to the need to digitize screening by quickly building facility-specific tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
+True to VA's innovative nature, medical centers across the country responded to the need to digitize screening by quickly building facility-specific tools. Our DEPO team worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We also worked with other VA leaders and Veterans.  
 
 ## WHAT VETERANS ARE SAYING
 
