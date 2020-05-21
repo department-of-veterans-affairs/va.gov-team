@@ -1,4 +1,6 @@
-notes for p8 completed in Mural
+notes for p8 completed in Mural by notetaker.
+
+Notes taken from recording:
 visited 3 days ago, checkin gon a claim, refilled a few presriotions. I did log in.
 
 typical experience? yes, I use it a lot actually.
@@ -26,5 +28,5 @@ If the government could get their act together and everyone could communicate, t
 
 Basically, all the information in one place would be awesome - because, it always seems like there's gaps between things when you don't have communication between those departments.  Say between claim status and medical history. It'd be nice if you have a claim going on to say, well, right here in medical history -  and send it over to claim status. That's not going to happen because there's hippa laws.
 
-
-
+**Reaction to blue sky prototype:**
+It's okay. I'm not crazy about it.  Who wants to see bills? Bills go at the bottom. To me, appointments and prescriptions should be at the top.  
