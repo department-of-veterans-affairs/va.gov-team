@@ -158,13 +158,13 @@ It's not high priority beacuse they already have that information.
 
 You can also put this one about your personal info, that can go down in there too. That's part of the contact info.  Track your disability claim or status is also important. 
 
-There's another one in here that' ssimilar. Track your disability claim or status or Update your disability claim or status.
+There's another one in here that'ssimilar. Track your disability claim or status or Update your disability claim or status.
 
-They can go together because that's about the same thing.  
+Participant: They can go together because that's about the same thing.  They actually will, when I track and go into the updates to look anyway, I can't make updates to it, but the VA can.
 
-Do you think we need both of them?
+M: Do you think we need both of them?
 
-No, I don't. I like udpates on your claim or appeal status better. BEcause tracking just looking tos ee wehre they are. But if you're looking for the update that has chagned for your appeal, yo umight have to send them more information. That's ab it more in depth and better.
+No, I don't. I like `udpates on your claim or appeal status` better. Because tracking just looking to see where they are. But if you're looking for the update, of something that may have chagned for your appeal, you might have to send them more information, the doctor might have to do something else. That's more in depth, and better.
 
 Cool. That makes sense.
 
