@@ -1,159 +1,43 @@
-# External Service Monitoring 
+# VSP Toolkit | SLO Tools
 
-## Implementation Notes
+## External Service Monitoring
 
-#### Manually generating SLO reports
+This folder contains tools used for managing external service monitoring reports.
 
-These instructions and script assume Mozilla Firefox as your browser. 
+### Generate External Service Performance report
 
-This can be done with `chrome`/`chromium` and `chromedriver` but will require significant alterations.
+These instructions explain how to use the `Selenium::WebDriver` based script to capture snapshots of each External Service dashboard.
 
-##### Prerequisites:
+#### Prerequisites:
+
+These instructions and corresponding script assume the following:
 
 - `ruby --version` should be `2.3.x` or greater
-- `convert --version` should be `Version ImageMagick 6.9.x` or greater [download instructions](https://imagemagick.org/script/download.ph://imagemagick.org/script/download.php)
-- `firefox --version` should be `Mozilla Firefox 72.x` or greater
+- `convert --version` should be `Version ImageMagick 6.9.x` or greater [install instructions](https://imagemagick.org/script/download.ph://imagemagick.org/script/download.php)
+- Firefox version should be `Mozilla Firefox 72.x` or greater
 - `geckodriver` [install instructions](https://github.com/mozilla/geckodriver/releases)
-- Ensure your browser profile is configured with the [SOCKS5 proxy
-config](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks/README.md)
- for your machine.
-- Login to GitHub and use OAuth to login to [Grafana](http://grafana.vfs.va.gov)
 
-Now you should be prepared to execute the script.
+1. Ensure your browser profile is configured to use [SOCKS proxy config](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/socks/README.md)
+1. Login to GitHub and use OAuth to login to [Grafana](http://grafana.vfs.va.gov)
+1. Find your profile name by navigating to `about:profiles` in the Firefox address bar - the active profile name is what you're looking for
+1. Close any open instances of your browser - in order to avoid errors with Selenium
+1. Substitute the profile name above for `$PROFILE` and run the following command:
 
-Either download script [here](./report-crawler.rb) or copy & paste the following:
+`PROFILE_NAME=$PROFILE bin/build-reports`
 
-Find your profile name by opening `about:profiles` in Firefox - the active profile name is what you're looking for.
+This should output some status information as the browser runs in the background, and will generate a collection of screenshots in `./screenshots`.
 
-Then, substitute your profile name for `$PROFILE` in the following, and run the reporting command:
+**Do not open additional Firefox windows while the script is running.**
 
-`PROFILE_NAME=$PROFILE ./report-crawler.rb`
+#### Known Issues
 
-This should output some status information and will generate a collection of screenshots in `./screenshots`
+- Mac OSX requires you find the extension path and manually load it into the profile
+- Must have browser windows closed or Selenium will throw exception(s)
+- Doesn't capture the overall panel view yet, that's gotta be done manually
+- Very brittle and hard-coded backend tags will drift out of sync with reality
 
-Contact @kfrz if you experience issues with this script.
-
----
-
-The dashboard screenshots in [`service-documents/`](products/platform/external-service-monitoring/service-documents/) are generated with the following script:
-
-```ruby
-#!/usr/bin/env ruby
-
-# frozen_string_literal: true
-
-SCRIPT_VERSION = '0.0.1'
-PROFILE_NAME   = ENV['PROFILE_NAME'] || 'default'
-
-# This script will eventually be updated to pull the data directly from the source(s) instead of hacking a 
-# PDF output of screengrabs - the first approach is naive and meant to get across the first goal line. 
-# Perhaps storing a .json or .yaml config file for each service comprised of endpoints and SLO baselines
-#
-# Probably want to build the output with Chartkick (https://chartkick.com/) and chart.js in HTML (tool) 
-# And provide a CLI/API for the report PDF or summary?
-# Maybe just provide an extended endpoint for vets-api?
-
-require 'bundler/inline'
-gemfile do
-  source 'https://rubygems.org'
-
-  ruby RUBY_VERSION || '2.6.6' 
-
-  gem 'json'
-  gem 'pastel'
-  gem 'pry'
-  gem 'tty-spinner'
-  gem 'watir'
-  gem 'webdrivers', '4.0.0'
-end
-
-# SLOReporter
-class SLOReporter
-  attr_accessor :browser, :backend, :board_url
-  def initialize(browser, backend)
-    @browser  = browser
-    @backend  = backend
-    @board_url = GRAFANA_BASE_URL + query_params
-  end
-
-  def query_params
-    "?orgId=1&var-backend=#{backend}"
-  end
-
-  def capture_screenshot
-    browser.goto board_url
-    
-    # Dumb hack for waiting until the last board is loaded
-    browser.div(aria_label: /50th Percentile Latency over Time/).wait_until(&:present?)
-    sleep 5
-
-    # TODO Cleanup the file handling 
-    tmpfile = backend + 'tmp.png'
-    browser.screenshot.save tmpfile
-
-    shot_filename = backend + '_slo_screenshot.png'
- 
-    # TODO do the compression afterwords
-    system "convert #{tmpfile} -chop 5%x8% -gravity south -chop 0x23.5% #{tmpfile} && \
-            pngcrush -reduce -brute #{tmpfile} #{shot_filename} && \
-            rm #{tmpfile}"
-    shot_filename
-  end
-end
-spinner = TTY::Spinner.new("[:spinner] Rustlin' up a phantom 'fox ...", format: :burger)
-spinner.auto_spin
-Selenium::WebDriver::Firefox::Binary.path='/opt/firefox/firefox'
-b = Watir::Browser.new :firefox, options: { profile: PROFILE_NAME, log: { level: 'DEBUG' } }, headless: true
-
-GRAFANA_BASE_URL = 'http://grafana.vfs.va.gov/d/pEgVdRlZk/external-service-performance-indicators'
-
-b.goto GRAFANA_BASE_URL
-b.window.resize_to(1200, 1600)
-spinner.stop('Ready for capture!')
-
-backends = %w(api_vet360_back
-              appeals_back
-              arcgis_back
-              central-mail_back
-              emis_back
-              eoas_back
-              es_back
-              evss_back
-              gids_back
-              govdelivery_back
-              hca_ee_back
-              health_apis_back
-              idme_back
-              lighthouse_apis_back
-              loan_guaranty_back
-              mhv_back
-              mvi_back
-              okta_back
-              pagerduty_back
-              ppms_back
-              salesforce-gibft_back
-              search-gov_back
-              tims_back
-              va_mobile_back
-              vha-access_back)
-
-backends.each do |backend|
-  spinner = TTY::Spinner.new("[:spinner] Capturing dashboard for #{backend}...", format: :pulse_3)
-  spinner.auto_spin
-  filename = SLOReporter.new(b, backend).capture_screenshot
-  spinner.success('success')
-end
-
-```
-
-The tricky part is having a profile for Firefox (or Chrome) that's already configured by having logged into Github and
-Grafana, and has the proxy switching configuration included.
-
-Then running the script only takes a few minutes, though you must not have an existing instance of that browser window
-open.
-
+> Contact Keifer Furzland <keifer@oddball.io> (@kfrz) if you experience issues
 
 ## Roadmap
 
-This approach is likely to be used once or twice as a stop gap while the tools team(s) work on a better approach,
-whether that be using Grafana API directly or building custom dashboards from scratch with Chartkick/Chart.js.
+This tool is planned to be used as a stop gap while the tools team(s) work on a more sustainable approach.
