@@ -4,40 +4,8 @@ So! You're thinking about how you want to launch your product. You know you'll p
 
 So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
 
-That's what this Release Plan Template is for! And note - there are feature toggles and beta banners at your disposal that you can use as a part of your plan.
+That's what this Release Plan Template is for! And note - there are feature toggles at your disposal that you can use as a part of your plan.
 
-## Do I need unmoderated production testing?
-
-**Yes**, staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form, that doesn't **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **neds staged rollout**
-
-### Exceptions
-
-If [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) don't work for your use case, you can request an exception in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-Other exceptions to this requirement can be approved by DEPO VSP leads.
 ---
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
@@ -57,13 +25,47 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing (also known as Staged Rollout)
+## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
-- How you'll make the product available in production while limiting the # of users who can find/access it: lorem ipsum
-- "Success" criteria (by the numbers): [use your KPIs to help guide this. It could be things like abondomnent rate < 20%, reported contact center calls < 2 calls, error rate < 5%, etc.]
-- Link to dashboard or metrics for success criteria:
+### Do I need a staged rollout?
+
+**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+
+* This change does not add substantial new functionality to VA.gov
+* This change does not impact user flows through tasks
+* This change does not affect traffic to backend services
+
+*Example*: a change to a page's text content **could skip** staged rollout
+
+*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
+
+*Example*: adding a new field to an existing form **could skip** staged rollout
+
+*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
+
+*Example*: a significant change to how users navigate an existing form **needs staged rollout**
+
+*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
+
+#### Exceptions
+
+If [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) don't work for your use case, you can request an exception from staged rollout in Staging Review.
+
+| Feature type | Possible with feature toggles? |
+| --- | --- |
+| New feature in existing application | Yes |
+| New application | Yes |
+| Static content changes | Doable but tricky |
+| URL redirects | No |
+
+Other exceptions to this requirement can be approved by DEPO VSP leads.
+
+### Planning
+
+- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
+- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
+- What metrics will you be confirming before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
@@ -78,7 +80,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Results:
 - Number of unique users: x
-- Actual results (per your "success criteria")
+- Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
@@ -94,12 +96,12 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 #### Results:
 - Number of unique users: x
-- Actual results (per your "success criteria")
+- Metrics at this stage (per your "success criteria"): x
 - Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-_More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above._
+_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
 
