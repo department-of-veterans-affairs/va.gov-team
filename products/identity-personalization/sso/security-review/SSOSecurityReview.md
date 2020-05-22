@@ -31,7 +31,7 @@ After:
 
 ### Sequence Diagrams:
 
-The sequence diagrams show in more detail the set of requests/responses that are made for a typica authentication event. Note that the additional proxying of requests from ID.me to other credential providers (MHV,DSLogon) is omitted for clarity.
+The sequence diagrams show in more detail the set of requests/responses that are made for a typical authentication event. Note that the additional proxying of requests from ID.me to other credential providers (MHV,DSLogon) is omitted for clarity.
 
 Before:
 
