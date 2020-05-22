@@ -4,7 +4,7 @@ So! You're thinking about how you want to launch your product. You know you'll p
 
 So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
 
-That's what this Release Plan Template is for! And note - there are feature toggles at your disposal that you can use as a part of your plan.
+That's what this Release Plan Template is for!
 
 ---
 
@@ -49,7 +49,7 @@ That's what this Release Plan Template is for! And note - there are feature togg
 
 #### Exceptions
 
-If [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) don't work for your use case, you can request an exception from staged rollout in Staging Review.
+Right now, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
 
 | Feature type | Possible with feature toggles? |
 | --- | --- |
@@ -64,7 +64,7 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
 - How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics will you be confirming before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
