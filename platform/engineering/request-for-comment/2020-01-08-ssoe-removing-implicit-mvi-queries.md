@@ -54,9 +54,9 @@ The following attributes are currently looked up from MVI but do not appear to b
 
 | MVI Profile Attribute | SSOe SAML Attribute | Notes |
 | --- | --- | --- |
-| historical_icns | (Not Present) | Prior/replaced ICNs are available elsewhere in the payload of an MVI find person result. This attribute is used in two places: lib/vic/service.rb (for the VIC v2 application that was never launched) and app/models/gi_bill_feedback.rb, for the GI Bill Feedback tool. |
+| historical_icns | (Not Present) | Prior/replaced ICNs are available elsewhere in the payload of an MVI find person result. This attribute is used in `app/models/gi_bill_feedback.rb`, for the GI Bill Feedback tool. |
 
-Both of the above services submit data to Salesforce. Probably Salesforce is indexing something on ICNs and needs to be robust to ICNs changing over time.  Proposed solution for this attribute is to look it up with an explicit query to  MVI when it is needed.
+The GI Bill Feedback Tool submits data to Salesforce. Probably Salesforce is indexing something on ICNs and needs to be robust to ICNs changing over time.  Proposed solution for this attribute is to look it up with an explicit query to  MVI when it is needed.
 
 ### Other MVI Interactions
 There are some additional MVI interactions that break the usual pattern of a query during sign-in and subsequent read-only use of attributes:
