@@ -62,7 +62,7 @@ The GI Bill Feedback Tool submits data to Salesforce. Probably Salesforce is ind
 There are some additional MVI interactions that break the usual pattern of a query during sign-in and subsequent read-only use of attributes:
 
 1. **VA Profile MVI Cache Busting**
-The  `V0::Profile::PersonsController` class has an after_action decorator that invalidates the current cached MVI data. This is done because there are certain interactions with the VA Profile upstream service that modify data in MVI. By busting the cached data for a user, any subsequent read of an MVI attribute will result in a new MVI query that will reflect the modified data.<br/>
+The  `V0::Profile::PersonsController` class has an `after_action` decorator that invalidates the current cached MVI data. This is done because there are certain interactions with the VA Profile upstream service that modify data in MVI. By busting the cached data for a user, any subsequent read of an MVI attribute will result in a new MVI query that will reflect the modified data.<br/>
 The proposed resolution for this use case is to perform an explicit MVI lookup and use the results to update the MVI fields that are cached with the session in `user_identity`. The explicit MVI lookup mechanism should be divorced from the current Redis cache_aside system so that we don't cache the MVI response as a whole. We should limit the updating of `user_identity` to the fields that are known to be updated as a result of any VA Profile interactions. 
 
 2. **526 Add Person Requests**
@@ -74,7 +74,7 @@ The healthcare application implements a totally parallel MVI service with a sepa
 
 4. **(Future) Delegation Lookups**
 VA.gov is likely to introduce delegation features powered by MVI in the future. These let user A delegate access to their information to user B. Record of that delegation is recorded in MVI, and a flag on a user record indicates whether someone is a delegate.<br/>
-The isDelegate flag is present in SSOe SAML assertions, so the login flow an account for delegation. The next step of selecting a delegatee on behalf of whom to act, will likely require one or more additional explicit MVI requests which likewise should be separated  from the Redis cache_aside mechanism.
+The `isDelegate` flag is present in SSOe SAML assertions, so the login flow can account for delegation. The next step of selecting a delegatee on behalf of whom to act, will likely require one or more additional explicit MVI requests which likewise should be separated  from the Redis cache_aside mechanism.
 
 5. **OAuth Flow - Lighthouse**
 SAML authentication and MVI resolution is also performed in the context of the Lighthouse OAuth flow. MVI is queried by an API endpoint triggered by the SAML proxy, and cached MVI data is used when serving OAuth-protected API requests.<br/>
@@ -94,13 +94,13 @@ There are several user traits that are currently available in both the incoming 
 With an SSOe-based SAML payload we don't have this conflict; we'll only get one value for each of these traits. Presumably this will be the MVI value. On paper this is more "correct" as MVI is the canonical source for VA identity. But we know there are cases where this data is less accurate. VA.gov loses the ability to make this trade-off and prefer one source of another; it devolves to the IAM team to address (and ideally resolve) data mismatches and fidelity issues. 
 
 ## Risks
-* *Data may appear differently than before*
+* *Data may appear differently than before*  
 Where we will now be preferring attributes from MVI instead of ID.me, users may see different values for some of their data.  Typographic errors in e.g. name or other fields will be apparent. One minor but concrete example is that MVI name fields are returned in ALL CAPS and should ideally be title-cased for display to the user. IAM does currently track and store cases where data from credential providers does not match MVI, and is working with their business owners to determine what to do with this data.
 
-* *Mismatched correlated IDs*
+* *Mismatched correlated IDs*  
 For cases like the MHV correlation IDs where we pick one of multiple values, it's possible that we see a different sort order for those fields via SAML than we do via an MVI query, and hence would use a different MHV identifier for the user. We should mitigate this by asking what MHV itself does for SSOe logins.
 
-* *Additional runtime dependencies*
+* *Additional runtime dependencies*  
 We are introducing a dependency on SSOe to the VA.gov sign-in process. SSOe has a transitive dependency on MVI, but is capable of still returning a "CSP-only" payload if MVI is unavailable (equivalent to the payload we'd get if MVI was down but queried directly by VA.gov).<br/>
 The MVI query also has a transitive dependency (for "not found" users) on DEERS/DMDC, and instability there can have a knock-on effect on downstream systems. IAM has isolated the systems that communicate with DMDC to minimize impact; we should work with them to improve monitoring and improve their ability to dynamically enact something like a circuit breaker on this integration. 
 
