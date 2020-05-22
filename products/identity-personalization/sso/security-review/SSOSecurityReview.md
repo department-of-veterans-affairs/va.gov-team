@@ -70,7 +70,7 @@ The keep alive endpoint returns a status code indicating whether an SSOe session
 
 ### Data changes
 From a security and privacy perspective the other change to be aware of is that while the substitution of SSOe for ID.me as the immediate protocol-level IDP is pretty straightforward,  we do receive a  different SAML payload from SSOe. The primary difference is that the SSOe SAML payload includes information that we would otherwise need to perform a separate MVI query for.
-* During rollout, we are not dispensing with the separate MVI query that occurs  during sign-in.  That work can be done as a follow-on as described in [this RFC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/pv-ssoe-sec-review/platform/engineering/request-for-comment/2020-01-08-ssoe-removing-implicit-mvi-queries.md) and [this epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5760).
+* During rollout, we are not dispensing with the separate MVI query that occurs  during sign-in.  That work can be done as a follow-on as described in [this RFC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/2020-01-08-ssoe-removing-implicit-mvi-queries.md) and [this epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5760).
 * The SSOe SAML payload only contains MVI attributes for authenticated users with a sufficient LOA - just as vets-api only queries MVI for high-assurance users.
 * SSOe is capable of issuing a successful SAML response when MVI (which is a separate system operated by the same team) is down. In this scenario vets-api will receive a “CSP-only” SAML assertion equivalent to what we get from ID.me/MHV/DSLogon today.
 
