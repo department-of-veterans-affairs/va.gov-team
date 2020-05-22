@@ -24,7 +24,7 @@ This `platform` directory contains everything you need to know about Platform as
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 - [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/information-architecture)
-- [Operations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/operations)
+- [Operations](https://github.com/department-of-veterans-affairs/devops)
 - [Product Management](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 - [Quality Assurance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance)
 - [Triage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/triage)
