@@ -13,14 +13,15 @@
 
     If the user already has a Google account that is not yet linked to their VA.gov email, they can link it using [these instructions](https://support.google.com/accounts/answer/176347?co=GENIE.Platform%3DDesktop&hl=en).
     
-2. Product managers will provide Google account linked emails to the analytics team on a slack message to `#vsp-analytics`. VSP Analytics and Insights will provide Google Analytics access to corresponding accounts within 4 business days.
+2. Product managers will fill out and submit the [Request GA issue template on Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics). For privacy purposes, please send a Slack message to `#vfs-platform-support` with the requested user(s) email address.
+
 
 ### Post Orientation: ad hoc Google Analytics access requests
 1. Make sure the requested user(s) has a Google account tied to their corporate or va.gov email. **Email addresses ending in `gmail.com` _**may not**_ be used. If the user has a VA.gov or work email address that is not linked to a Google account, they will need to create one by visiting [this link](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp). VA.gov users and external users with email accounts that are not Google based should select the option "Use my current email address instead".
 
     If the user already has a Google account that is not yet linked to their VA.gov email, they can link it using [these instructions](https://support.google.com/accounts/answer/176347?co=GENIE.Platform%3DDesktop&hl=en).
     
-2. Fill out and submit the [Request GA issue template on Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics). For privacy purposes, please send a Slack message to `#vsp-analytics` with the requested user(s) email address.
+2. Fill out and submit the [Request GA issue template on Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen&labels=analytics-insights%2C+analytics-request&template=analytics-request-google-analytics-access.md&title=Request+access+to+Google+Analytics). For privacy purposes, please send a Slack message to `#vfs-platform-support` with the requested user(s) email address.
 
 ## Requesting Metrics Reporting
 
