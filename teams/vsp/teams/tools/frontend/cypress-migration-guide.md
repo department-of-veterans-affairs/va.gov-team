@@ -9,7 +9,7 @@ The purpose of this guide is to help with converting Nightwatch tests to Cypress
     2. [Visiting a page](#visiting-a-page)
     3. [Interacting With Page Elements](#interacting-with-page-elements)
     4. [Custom Commands](#custom-commands)
-    5. [Test Data](#test-data)
+    5. [Test Data (Fixtures)](#test-data)
     6. [Mocking Data](#mocking-data)
     7. [File Uploads](#file-uploads)
     8. [Accessibility](#accessibility)
@@ -110,19 +110,21 @@ Some custom nightwatch commands located in `src/platform/testing/e2e/nightwatch-
 cy.fillDate('root_dob', testData.veteranDateOfBirth);
 ```
 
-### Test Data <a name="test-data"></a>
+### Test Data (Fixtures) <a name="test-data"></a>
 
 In Cypress, because everything in a test is executed inside of the browser, [fixtures](https://docs.cypress.io/api/commands/fixture.html#Syntax) are used to get access to data in tests.
 
-Fixtures should be stored in the app specific folder inside of `src/platform/testing/e2e-cypress/fixtures`. If the app specific folder does not exist feel free to create it.
+By default Cypress doesn't support fixtures in seperate directories, so we have a custom command used for accessing fixtures stored in your app's directory. 
 
-For example: `src/platform/testing/e2e-cypress/fixtures/hca` contains all the fixtures for the `hca` application. You can copy all the schema files used in current tests to the proper fixtures folder.
+For example, `src/applications/hca/tests/schema` contains test data for the `hca` application. You can grab the files like so:
 
-You can inject the fixture into your test by doing:
 ```javascript
-cy.fixture('hca/maximal-test.json').as('testData');
+cy.syncFixtures({
+  'maximal-test.json': 'src/applications/hca/tests/schema/maximal-test.json', 
+});
+
+cy.fixture('maximal-test.json').as('testData');
 ```
-Cypress already knows to look in the `fixtures` folder, so you can use the application specific directory for the path to the fixture.
 
 To get access to the fixture, you can use `.get()`:
 
