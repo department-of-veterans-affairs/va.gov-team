@@ -47,7 +47,7 @@ Please list the people who will be serving in each role.
 - Participant(s) for pilot test:	
 - Note-takers:	
 - Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+**List names of people who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 
 ## Resources	
 - Project Brief: 	
