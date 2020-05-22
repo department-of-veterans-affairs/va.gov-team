@@ -264,7 +264,7 @@ When designing their own page, participants expected a variety of ways to comple
 
 > "Disabilities you're approved for, once you click on there, there could be a link there that goes to track your disabilities and it breaks down your ratings, and has claims and appeals information."
 
-Participants referenced design patterns from the private sector as things that would be helpful to them, such as a Google calendar to manage important dates (refill available or appointment coming up), or a drop down menu "like I see on my bank". 
+Participants referenced design patterns from the private sector as things that would be helpful to them, such as a Google calendar to manage important dates (refill available or appointment coming up), or an "`I want to` drop down menu like I see on my bank". 
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p9.png)
 
