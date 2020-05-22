@@ -33,7 +33,7 @@ We spoke to 10 Veterans:
 
 -   6 women, 4 men
 
--   5 participants 35-44, 2 participants 45-54, 2 participants 65-74, and 1 did not disclose their age
+-   5 participants age 35-44, 2 participants age 45-54, 2 participants age 65-74, and 1 did not disclose their age
 
 -   6 Caucasian, 2 African-American, 1 Hispanic, and 1 American Indian or Alaska Native
 
