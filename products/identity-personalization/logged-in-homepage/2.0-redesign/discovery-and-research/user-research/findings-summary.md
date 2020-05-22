@@ -308,7 +308,7 @@ Participants put those items under labels like "My Info", "Personal Information"
 
 Notifications didn't organically come up in most sessions, and when they did, oftentimes the participant referenced a phone call or email. They didn't demonstrate a mental model of expecting notifications to appear on their logged-in homepage.
 
-> "The notification thing? Send me an email, send me a message I may or may not check it. The email, definitely - that's where I get anything important."
+> "The notification thing? Send me an email. Send me a message, I may or may not check it. The email, definitely - that's where I get anything important."
 
 Once prompted, participants said notifications about important updates and action items would be useful to them. These specific notifications were added to participants pages:
 
