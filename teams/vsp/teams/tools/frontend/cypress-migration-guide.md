@@ -29,21 +29,17 @@ The overall folder structure for cypress in the `vets-website` repo is as follow
 ```
 vets-website
 |
-└───src/platform/testing/e2e-cypress
-|   |
-│   └───fixtures
-│   |   │   hca/maximal-test.json
+└───src/platform/testing/e2e/cypress
 │   |   │   
 │   └───plugins
 │   |   │   index.js
 │   |   │   
 │   └───support
-│       │   commands.js
+│       │   commands
 │       │   index.js
 ```
 
 - `cypress.json` holds the [configuration](https://docs.cypress.io/guides/references/configuration.html) for cypress tests. You can set things like the `baseUrl`, `defaultCommandTimeout`, etc.
-- `fixtures` holds the [test data](https://docs.cypress.io/api/commands/fixture.html) that can be accessed inside of cypress tests.
 - `plugins` contains custom tasks, which allow you to [tap into the node environment](https://docs.cypress.io/guides/tooling/plugins-guide.html). This is valuable because all cypress test code is executed in the browser, so plugins allow us to execute code in the node process running outside of the browser.
 - `support` holds [custom cypress commands](https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax), specifically in the `commands.js` file. These commands can be run in cypress tests, similar to the built in commands. This is similar to [Nightwatch's custom commands](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/#custom-nightwatch-commands). This is also where cypress plugins are imported, as shown in `index.js`.
 
