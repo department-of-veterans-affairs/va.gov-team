@@ -454,7 +454,7 @@ Please review the information below to ensure that it’s correct before you sub
 
 I have read and accept the privacy policy (*Required) { checkbox }
 
-[ Back | Submit application ] { buttons } 
+[ Back | Submit application ] { buttons }  
 [Finish this application later]()
 
 ________________________________________
