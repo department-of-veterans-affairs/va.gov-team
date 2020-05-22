@@ -21,8 +21,6 @@ We began each session with an initial short qualitative interview to gain insigh
 
 The interviews were followed by a moderated co-design exercise. We used Mural to help the Veteran "create" their own personalized homepage by sharing our screen and conducting an interview in which we built a personalized homepage with their input. We created "sticky notes" (referred to as "items" in this document) reflecting what the participant would most want to see upon logging in, and then reviewed pre-populated items they may want to add to their page. Once the participant felt the items covered their needs, we organized them by priority on a page template.
 
-(insert screenshot of blank mural board?)
-
 The interviewer (Liz Lantz) managed all of the interactions in Mural so Veterans could focus on the conversation. 
 
 Given that we have not previously run a co-design exercise, we had a card sort ready as a back-up method, but did not need to use it in any session. 
