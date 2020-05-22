@@ -1,6 +1,6 @@
 # Tracking Success using Google Analytics Goals
 
-*Objective*: Product teams should be able to identify the key performance indicators they would like to measure using the KPIs defined in the KPI workshop. These goals can be tracked within Google Analytics>Conversions within the view for your Product Area. 
+*Objective*: Product teams should be able to identify the key performance indicators they would like to measure using the KPIs defined in the KPI workshop. Some of these goals can be tracked within Google Analytics>Conversions within the view for your Product Area. 
 
 *Audience for this Resource*: Product Owners
 
