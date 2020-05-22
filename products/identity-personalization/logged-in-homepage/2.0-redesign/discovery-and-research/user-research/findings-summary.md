@@ -19,7 +19,7 @@ Research Methodology
 
 We began each session with an initial short qualitative interview to gain insight into the "why" questions we have.
 
-The interviews were followed by a moderated co-design exercise. We used Mural to help the Veteran "create" their own personalized homepage by sharing our screen and conducting an interview in which we built a personalized homepage with their input. We created "sticky notes" (referred to as "items" in this document) reflecting what the participant would most want to see upon logging in, and then reviewed pre-populated items they may want to add to their page. Once the participant felt the items covered their needs, we organized them by priority on a page template.
+The interviews were followed by a moderated co-design exercise. We used Mural to help the Veteran "create" their own personalized homepage by sharing our screen and conducting an interview in which we built a personalized homepage with their input. We first created "sticky notes" (referred to as "items" in this document) reflecting what the participant would most want to see upon logging in. Then, we reviewed pre-populated items our team created that the participant may want to add to their page. Once the participant felt the items covered their needs, we organized them by priority on a page template.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/blank-participant-mural-board.png)
 
