@@ -289,7 +289,7 @@ Other program not listed…
 Enter the name of your STEM degree (*Required) { text field }
 
 
-#### # Credit hours for your STEM degree { Sub-head }  
+#### Credit hours for your STEM degree { Sub-head }  
 
 Is your STEM program of study by semester or quarter? (*Required) { radio buttons }  
 
