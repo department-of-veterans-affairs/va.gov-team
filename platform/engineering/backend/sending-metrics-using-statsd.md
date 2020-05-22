@@ -89,17 +89,17 @@ This tells us that the StatsD Exporter process on EC2 instance "i-032b0bebe4e420
 
 If you click on the Graph tab, you can see it in graph form:
 
-![](images/prometheus-example-counter.png)
+![](../images/prometheus-example-counter.png)
 
 From here we can calculate a couple of values. We can determine the number of increments in a given time period and the rate in increments per second.
 
 We can use the `increase()` function to show how much this metric has increased over a given period of time. For this example, we'll use 1 minute. Our query would be: `increase(my_counter[1m])`:
 
-![](images/prometheus-example-counter-increase.png)
+![](../images/prometheus-example-counter-increase.png)
 
 As you can see, we still have two separate metrics, one for each of the EC2 instances. That's not great since we don't care so much about this metric on a per-server basis, we care about it site-wide. Let's combine them by `sum`ing the two values: `sum(increase(my_counter[1m]))`:
 
-![](images/prometheus-example-counter-increase-sum.png)
+![](../images/prometheus-example-counter-increase-sum.png)
 
 Similarly, we can use the `rate()` function to determine the per-second value of increments to this metric with `rate(my_counter[1m])`. This has same split on EC2 instance, so we can combine them the same with with `sum(increase(my_counter[1m]))`.
 
