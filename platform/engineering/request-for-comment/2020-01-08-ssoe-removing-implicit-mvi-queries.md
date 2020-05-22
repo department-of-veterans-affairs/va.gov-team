@@ -19,7 +19,7 @@ In general, MVI attributes are accessed via the `User` model, either as direct d
 
 We can instead instantiate a MviProfile object by parsing the incoming SAML attributes and delegate to that directly from `User.va_profile`. Initially we'll want to do so selectively for SSOe authentication so we can support old and new authentication mechanisms during roll-out. 
 
-There are also a couple of examples where either `User.mvi` is dereferenced, or a separate `Mvi.for_user` is invoked. These should be cleaned up to use the same call path as the bulk of cases that call via User.va_profile. 
+There are also a couple of examples where either `User.mvi` is dereferenced, or a separate `Mvi.for_user` is invoked. These should be cleaned up to use the same call path as the bulk of cases that call via `User.va_profile`. 
 
 Today, MVI responses are cached separately from incoming SAML attributes, with a longer cache TTL. This is done in order to reduce load on MVI. With this change, the MVI-equivalent attributes that arrive in the SAML payload will be cached in the user_identity cache with the same TTL as a user's authenticated session. 
 
