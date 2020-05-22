@@ -175,9 +175,12 @@ Based on the above stubs, whenever the browser makes a `GET` request to `/v0/hea
 All of your mock api calls using `mockData()` can be replaced with `cy.route()`. Note, be sure to always start the server with `cy.server()` before stubbing requests.
 
 ### File Uploads <a name="file-uploads"></a>
-File uploads can be done using the [cypress file upload](https://github.com/abramenal/cypress-file-upload/tree/v3.5.3) plugin. For instructions on usage please visit [here](https://github.com/abramenal/cypress-file-upload/tree/v3.5.3#usage).
+File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off [this](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213) workaround.
 
-**Note:** Version 4 is unstable to please follow instructions for v3.5.3.
+```javascript
+cy.get('[name="root_attachments_0_attachmentName"]')
+  .upload('src/platform/testing/example-upload.png', 'image/jpg')
+```
 
 ### Accessibility <a name="accessibility"></a>
 Just like most e2e tools, cypress has its own [axe-core plugin](https://github.com/avanslaars/cypress-axe) to test accessibility.
