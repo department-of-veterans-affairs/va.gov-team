@@ -59,11 +59,11 @@ We spoke to 10 Veterans:
 
 -   How do we balance
 
--   notification info (status update/action items),
+    -   notification info (status update/action items),
 
--   widgets (showing upcoming appointments, their local VAMC, maybe delivery updates for prescriptions, etc), and
+    -   widgets (showing upcoming appointments, their local VAMC, maybe delivery updates for prescriptions, etc), and
 
--   links into tools (eg. top tasks)?
+    -   links into tools (eg. top tasks)?
 
 Key Findings
 ------------
