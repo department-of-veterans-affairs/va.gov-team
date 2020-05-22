@@ -15,7 +15,7 @@ Given that we will receive a SAML payload with most of the needed information fr
 
 
 ## Design
-In general, MVI attributes are accessed via the `User` model, either as direct delegated methods on `User` (e.g. `user.icn`), or as nested delegated methods on `User.va_profile` (e.g. `user.profile.address). Both of these eventually delegate to the `mvi.profile` attribute on `user`, which is an instance of `MviProfile`.  
+In general, MVI attributes are accessed via the `User` model, either as direct delegated methods on `User` (e.g. `user.icn`), or as nested delegated methods on `User.va_profile` (e.g. `user.profile.address`). Both of these eventually delegate to the `mvi.profile` attribute on `user`, which is an instance of `MviProfile`.  
 
 We can instead instantiate a MviProfile object by parsing the incoming SAML attributes and delegate to that directly from `User.va_profile`. Initially we'll want to do so selectively for SSOe authentication so we can support old and new authentication mechanisms during roll-out. 
 
