@@ -1,1 +1,0 @@
-Tools Practice Area Readme
