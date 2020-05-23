@@ -252,7 +252,7 @@ You can add any of the [run options](https://docs.cypress.io/guides/guides/comma
 ## Things to Note <a name="things-to-note"></a>
 
 ### Automatic Waiting
-Cypress automatically waits for commands to execute before moving on to the next. This eliminates needing to use the timeout consts in `platform/testing/e2e/timeouts.js`
+Cypress automatically waits for commands to execute before moving on to the next. This eliminates needing to use the timeout consts in `platform/testing/e2e/timeouts.js`. Cypress queues it's commands instead of running them synchronously, so doing something like [this](https://docs.cypress.io/guides/references/best-practices.html#Assigning-Return-Values) will not work.
 
 ### Third Party Plugins
 Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
