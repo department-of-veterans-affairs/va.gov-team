@@ -5,6 +5,7 @@
  - This list will continue to be updated / refined moving forward to include new questions and/or replace with newer answers
 
  ## All Questions
+  - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
@@ -16,6 +17,10 @@
   - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
   
+
+## What is a "dimension" in Google Analytics? 
+A dimension is the attribute of visitation to VA.gov. The dimension chosen is what ultimately gives proper context to the metric chosen. Each row of a Google Analytics report will more often than not include at least 1 dimension. 
+
 ## Why are my pageviews different in the overview? 
 You may notice a difference in total pageviews between overview and full reports. Google Analytics has a [1 million row limit](https://support.google.com/analytics/answer/1009671?hl=en&ref_topic=2601030) on reports. A high cardinality dimension like Page URL on a comprehensive view like "All VA.gov Website Data" can reach this limit within a timeframe of only a few months. The total pageviews in the Overview is a more accurate number than the total pageviews in a row-limited report.
 
