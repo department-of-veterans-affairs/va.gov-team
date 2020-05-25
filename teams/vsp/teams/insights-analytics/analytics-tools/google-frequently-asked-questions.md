@@ -6,6 +6,9 @@
 
  ## All Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
+  - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
+  - [What is a "custom dimension" in Google Analytics?](#what-is-a-custom-dimension-in-google-analytics)
+  - [What is a "custom metric" in Google Analytics](#what-is-a-custom-metric-in-google-analytics)
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
@@ -20,6 +23,15 @@
 
 ## What is a "dimension" in Google Analytics? 
 A dimension is the attribute of visitation to VA.gov. The dimension chosen is what ultimately gives proper context to the metric chosen. Each row of a Google Analytics report will more often than not include at least 1 dimension. 
+
+## What is a "metric" in Google Analytics? 
+A metric is a number used to measure one or more of the characteristics of a dimension. A dimension can have one or more characteristics. 
+
+## What are "custom dimensions" in Google Analytics? 
+A custom dimension is a dimension that Google Analytics does not capture by default (out-of-box). Custom dimensions require "custom" work to be collected and measured. Custom Dimensions are often configured by the Analytics & Insights team as part of our build process to contextual data and improve decision-making/insights. LOA Level is an example custom dimension within the VA.gov production property. 
+
+## What are "custom metrics" in Google Analytics? 
+A custom metric is a metric that Google Analytics does not capture by default (out-of-box). Custom metrics require "custom" work to collect and measure relevant quantitative values. Custom metrics are often configured by the Analytics & Insights team as part of our build process to give additional context numerically. Address Validation Needed is an example custom metric within the VA.gov production property. 
 
 ## Why are my pageviews different in the overview? 
 You may notice a difference in total pageviews between overview and full reports. Google Analytics has a [1 million row limit](https://support.google.com/analytics/answer/1009671?hl=en&ref_topic=2601030) on reports. A high cardinality dimension like Page URL on a comprehensive view like "All VA.gov Website Data" can reach this limit within a timeframe of only a few months. The total pageviews in the Overview is a more accurate number than the total pageviews in a row-limited report.
