@@ -7,7 +7,7 @@
  ## All Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
   - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
-  - [What is a "custom dimension" in Google Analytics?](#what-is-a-custom-dimension-in-google-analytics)
+  - [What is a "custom dimension" in Google Analytics?](#what-are-custom-dimensions-in-google-analytics)
   - [What is a "custom metric" in Google Analytics?](#what-are-custom-metrics-in-google-analytics)
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
