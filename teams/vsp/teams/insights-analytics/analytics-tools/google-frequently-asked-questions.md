@@ -9,6 +9,7 @@
   - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
   - [What is a "custom dimension" in Google Analytics?](#what-are-custom-dimensions-in-google-analytics)
   - [What is a "custom metric" in Google Analytics?](#what-are-custom-metrics-in-google-analytics)
+  - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
@@ -25,6 +26,7 @@
   - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
   - [What is a "custom dimension" in Google Analytics?](#what-are-custom-dimensions-in-google-analytics)
   - [What is a "custom metric" in Google Analytics?](#what-are-custom-metrics-in-google-analytics)
+  - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
 
@@ -49,6 +51,9 @@ A custom dimension is a dimension that Google Analytics does not capture by defa
 
 ### What are "custom metrics" in Google Analytics? 
 A custom metric is a metric that Google Analytics does not capture by default (out-of-box). Custom metrics require "custom" work to collect and measure relevant quantitative values. Custom metrics are often configured by the Analytics & Insights team as part of our build process to give additional context numerically. Address Validation Needed is an example custom metric within the VA.gov production property. 
+
+### What is a "custom report" in Google Analytics? 
+A custom report is a report not pre-built within Google Analytics. Custom reports require manual configuration of dimensions & metrics to produce report. Custom reports are extremely valuable because they allow for tailoring reports to the specific dimensions & metrics necessary to answer more specific analytics questions. The Analytics & Insights team can assist in developing custom report to answer your necessary questions. 
 
 ### Why are my pageviews different in the overview? 
 You may notice a difference in total pageviews between overview and full reports. Google Analytics has a [1 million row limit](https://support.google.com/analytics/answer/1009671?hl=en&ref_topic=2601030) on reports. A high cardinality dimension like Page URL on a comprehensive view like "All VA.gov Website Data" can reach this limit within a timeframe of only a few months. The total pageviews in the Overview is a more accurate number than the total pageviews in a row-limited report.
