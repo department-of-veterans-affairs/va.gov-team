@@ -22,7 +22,7 @@
   - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
   - [What is DOMO?](#what-is-domo)
-  - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team
+  - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team) 
  
 ## General Google Analytics Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
