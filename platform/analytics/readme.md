@@ -38,7 +38,13 @@ Please use this guide for more information.
             <li>
                 <a
                     href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md">
-                    What do all of these metrics mean? A cheat sheet for Google Analytics definitions</a></li>
+                    What do all of these metrics mean? A cheat sheet for Google Analytics definitions</a>
+            </li>
+            <li>
+                <a
+                    href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-frequently-asked-questions.md">
+                    I have a Google Analytics question I have a feeling has been asked before, where should I go? Check out our new Frequently Asked Questions! </a>
+			</li>
         </ul><p><strong>Google Tag Manager implementation:</strong></p>
         <ul>
             <li>
