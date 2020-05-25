@@ -7,8 +7,9 @@
  ## All Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
   - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
-  - [What is a "custom dimension" in Google Analytics?](#what-are-custom-dimensions-in-google-analytics)
-  - [What is a "custom metric" in Google Analytics?](#what-are-custom-metrics-in-google-analytics)
+  - [What is a "custom dimension" in Google Analytics?](#what-is-a-custom-dimension-in-google-analytics)
+  - [What is a "custom metric" in Google Analytics?](#what-is-custom-metrics-in-google-analytics)
+  - [What is a "view" in Google Analytics?](#what-is-a-view-in-google-analytics)
   - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why are my pageviews different in the overview?](#why-are-my-pageviews-different-in-the-overview)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
@@ -26,6 +27,7 @@
   - [What is a "metric" in Google Analytics?](#what-is-a-metric-in-google-analytics)
   - [What is a "custom dimension" in Google Analytics?](#what-are-custom-dimensions-in-google-analytics)
   - [What is a "custom metric" in Google Analytics?](#what-are-custom-metrics-in-google-analytics)
+  - [What is a "view" in Google Analytics?](#what-is-a-view-in-google-analytics)
   - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
@@ -39,6 +41,8 @@
   - [Does being on a VPN affect opt-out functionality?](#does-being-on-a-vpn-affect-opt-out-functionality)
   - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
+  - [What is DOMO?](#what-is-domo)
+  - [How do we get a product success tool built for our team?(#how-do-we-get-a-product-success-tool-built-for-our-team) 
 
 ### What is a "dimension" in Google Analytics? 
 A dimension is the attribute of visitation to VA.gov. The dimension chosen is what ultimately gives proper context to the metric chosen. Each row of a Google Analytics report will more often than not include at least 1 dimension. 
@@ -46,14 +50,19 @@ A dimension is the attribute of visitation to VA.gov. The dimension chosen is wh
 ### What is a "metric" in Google Analytics? 
 A metric is a number used to measure one or more of the characteristics of a dimension. A dimension can have one or more characteristics. 
 
-### What are "custom dimensions" in Google Analytics? 
+### What is a "custom dimension" in Google Analytics? 
 A custom dimension is a dimension that Google Analytics does not capture by default (out-of-box). Custom dimensions require "custom" work to be collected and measured. Custom Dimensions are often configured by the Analytics & Insights team as part of our build process to contextual data and improve decision-making/insights. LOA Level is an example custom dimension within the VA.gov production property. 
 
-### What are "custom metrics" in Google Analytics? 
+### What is a "custom metric" in Google Analytics? 
 A custom metric is a metric that Google Analytics does not capture by default (out-of-box). Custom metrics require "custom" work to collect and measure relevant quantitative values. Custom metrics are often configured by the Analytics & Insights team as part of our build process to give additional context numerically. Address Validation Needed is an example custom metric within the VA.gov production property. 
+
+## What is a "view" in Google Analytics? 
+A "view" is a subset of a Google Analytics property that can have its own unique configuration settings. Each view will contain specific filters + configurations that clean and transform to organize collection. 
 
 ### What is a "custom report" in Google Analytics? 
 A custom report is a report not pre-built within Google Analytics. Custom reports require manual configuration of dimensions & metrics to produce report. Custom reports are extremely valuable because they allow for tailoring reports to the specific dimensions & metrics necessary to answer more specific analytics questions. The Analytics & Insights team can assist in developing custom report to answer your necessary questions. 
+
+When creating a custom report, the Analytics & Insights team will often share a "template" custom report link. This template link will contain the dimensions, metrics, and filters to generate the report. However, "template" links will require you as the recipient of the custom report to tell Google Analytics which "view" (see above question) to generate the report. Once created, the custom report will live in your "Custom Reports" section for that specific view until manually deleted. The Insights team will direct you to which view should be used to construct your report -- that said, most often we will direct you to the "modernized" view that represents your product. 
 
 ### Why are my pageviews different in the overview? 
 You may notice a difference in total pageviews between overview and full reports. Google Analytics has a [1 million row limit](https://support.google.com/analytics/answer/1009671?hl=en&ref_topic=2601030) on reports. A high cardinality dimension like Page URL on a comprehensive view like "All VA.gov Website Data" can reach this limit within a timeframe of only a few months. The total pageviews in the Overview is a more accurate number than the total pageviews in a row-limited report.
@@ -128,3 +137,9 @@ Please note that some VPN software includes additional browser extensions that m
 ### Why do I not have the same tracking on eBenefits or MHV?
 
 Analytics-Insights did not configure tracking to capture logins for users authenticating on MHV or eBenefits; we could review the unique pageviews to the authenticated dashboard to approximate logins.
+
+### What is DOMO?
+DOMO is a business intelligence tool purchased by the Analytics & Insights team early 2020. DOMO is where we produce our Product Success Tool and several other routine monthly reports. 
+
+### How do we get a Product Success Tool built for our team? 
+Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is willing to assist with any questions you may have around KPI setting. 
