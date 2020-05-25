@@ -62,3 +62,9 @@ View ID|View Name
 View ID|View Name
 ---|:---
 212889364|All Web Site Data
+
+## VSP - <span></span>Grafana<span></span> (UA-UA-50123418-20)
+View ID|View Name
+---|:---
+218626196|All Web Site Data
+218639483|Unfiltered
