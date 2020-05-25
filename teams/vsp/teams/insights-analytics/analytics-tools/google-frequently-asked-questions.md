@@ -21,6 +21,8 @@
   - [Does being on a VPN affect opt-out functionality?](#does-being-on-a-vpn-affect-opt-out-functionality)
   - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
+  - [What is DOMO?](#what-is-domo)
+  - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team
  
 ## General Google Analytics Questions
   - [What is a "dimension" in Google Analytics?](#what-is-a-dimension-in-google-analytics)
@@ -42,7 +44,7 @@
   - [Does being on a VPN affect my data in Google Analytics?](#does-being-on-a-vpn-affect-my-data-in-google-analytics)
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
   - [What is DOMO?](#what-is-domo)
-  - [How do we get a product success tool built for our team?(#how-do-we-get-a-product-success-tool-built-for-our-team) 
+  - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team) 
 
 ### What is a "dimension" in Google Analytics? 
 A dimension is the attribute of visitation to VA.gov. The dimension chosen is what ultimately gives proper context to the metric chosen. Each row of a Google Analytics report will more often than not include at least 1 dimension. 
