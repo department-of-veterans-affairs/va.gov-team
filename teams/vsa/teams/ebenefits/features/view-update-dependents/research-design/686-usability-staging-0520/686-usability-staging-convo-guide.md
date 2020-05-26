@@ -10,7 +10,6 @@
 - Attendee/Observer instructions, including instructions for #feedback-backchannel, will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md)
-- [Note-taking template]()
 
 ### Priorities
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback.
@@ -46,27 +45,37 @@ I have a few things I need to mention before we start:
 We'll be exploring made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
 
 ## Workflow set 1 scenarios
-- **Add spouse/Report divorce** | You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse.
-- **Add student** | You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent.
 
-It's been an eventful year for you. Two major events have occurred close together:
+1. You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse. 
 
-- **Report death** | Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA.
-- **Report student left school** | Your now 23-year-old step child just graduated college, and is no longer considered a dependent by VA.
+(This scenario will involve add-spouse and report-divorce workflows either separately or in combination.)
+
+2. You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent.
+
+(This scenario will require add-child and add-student (674) in combination.)
+
+3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your now 21-year-old stepchild just graduated college, and is no longer considered a dependent by VA.
+
+(This scenario will involve report-death and report-student-left-school workflows either separately or in combination.)
 
 ## Workflow set 2 scenarios
-- **Add spouse/Add child** | You recently married and your spouse has two children. You want to claim all them as dependents.
-- **Report divorce/Remove stepchild** | Fast-forward to years later, you've had a recent divorce, and your ex-spouse and stepchildren have moved on.
+1. You recently married and your spouse has two children. You want to claim all them as dependents.
+
+(This scenario will involve add-spouse and add-child workflows either separately or in combination.)
+
+2. Move forward years later, and you've had a recent divorce. Your ex-spouse and stepchildren have moved on.
+
+(This scenario will involve report-divorce and remove-stepchild workflows either separately or in combination.)
 
 It's been an eventful year for you. Two major events have occurred close together:
 
-- **Report death** | Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA.
-- **Report marriage of child** | Your child is 17, but, with your consent, has recently married. You need to let VA know.
+3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your child is 17, but, with your consent, has recently married. You need to let VA know.
 
+(This scenario will involve report-death and report-child-marriage workflows either separately or in combination.)
 
 ## Usability tasks
 
-### First task: introduction and checkbox selection | 5 minutes
+### Introduction and checkbox selection | 5 minutes
 - Find out what you'll need to complete and submit the form for the particular scenario (above).
 - Select the options for your particular scenario (above).
 
@@ -75,7 +84,7 @@ It's been an eventful year for you. Two major events have occurred close togethe
 - Are users selecting the correct workflow(s)
 - Are there any emotional reactions to the verbiage in the 'remove' workflows (divorce, death)
 
-### Second task: complete the selected workflow(s) | 10 to 20 minutes
+### Complete the selected workflow(s) | 10 to 20 minutes
 - Complete the form using made-up information
 
 #### Things to look for:
@@ -85,7 +94,7 @@ It's been an eventful year for you. Two major events have occurred close togethe
 - Will users recall instructions from the intro screen
 - When and where does "form-fatigue" set in
 
-### Third task: upload additional documentation | 5 minutes
+### Upload additional documentation | 5 minutes
 - If the scenario requires it, find and upload a test document
 
 #### Things to look for:
@@ -93,7 +102,7 @@ It's been an eventful year for you. Two major events have occurred close togethe
 - Will users recall info or prompts regarding documentation from the intro or tell-me-mores
 - How do users interact with the upload feature
 
-### Fourth task: review and return to start | 5 minutes
+### Review and return to start | 5 minutes
 - (at the review screen) Be sure you entered the form info correctly
 - What could your do if there was an error you wanted to fix
 - Submit the form
@@ -113,4 +122,4 @@ Looks like we covered everything on my list. (ALT) Looks like we're at (time), s
 - Would you consider being involved in future follow-up sessions?
 
 ## Closing
-Thank you so much for taking the time to talk with us! Your feedback is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+Thank you so much for taking the time to talk with us! Your feedback is critical to our team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
