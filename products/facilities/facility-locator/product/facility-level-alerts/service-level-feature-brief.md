@@ -27,6 +27,7 @@ _What's in and what's out?_
 This feature is an expansion of functionality existing within the Facility Locator and VAMC websites. This functionality was initiated in support of COVID-19 but can be applied during other situations, such as natural disasters (hurricane, earthquake, flood) or other emergencies, such as active shooter. 
 
 **Operating status and operating notes**
+
 These two existing concepts are available at the VA facility level within Drupal and pulled in by the Facilities API. 
 
 This status is displayed:
@@ -38,6 +39,7 @@ Facility Locator detail pages and VAMC pages feature information about the healt
 
 **MVP**
 - MVP will expand the concept of facility-level operating status to the health service level within an individual VHA facility by displaying a visual indicator and text details on VHA facility detail pages within Facility Locator
+- MVP will also include initial content modeling for facility health services
 
 **Focused on solving the following problem(s):**
 - A given facility may be available to serve Veterans but one or more health services may have altered hours, policies or in-person availability. 
