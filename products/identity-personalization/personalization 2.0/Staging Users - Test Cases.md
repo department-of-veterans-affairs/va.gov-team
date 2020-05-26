@@ -2,7 +2,7 @@
 (last updated May, 25th, 2020)
 Notes:
 Right now, you can either use the local hack or user 36 to view profile 2.0.
-When the feature is fully done, we will flip the switch so all staging users see profile 2.0 and we can use the local hack to see profile 1.0 if it's ever needed (Ex:a bug fix or something along those lines).
+When the feature is fully done, we will flip the switch so all staging users see profile 2.0 and we can use the local hack to see profile 1.0 if it's ever needed.
  
   
  
