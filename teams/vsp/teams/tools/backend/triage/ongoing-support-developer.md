@@ -2,7 +2,7 @@
 
 [VSP Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/product-dev-support) recieves support requests from VFS teams, VSP leadership, and VA stakeholders. These requests often require direct support from the Backend Tools team. The specific support requirements vary, and can lead to unscheduled context switching for the engineers who are involved.
 
-In an effort to reduce interruptions for the team at large and clarify triage responsibilities, the Backend Tools team will designate a single member of the team each sprint to act as the **Utility Developer**. 
+In an effort to reduce interruptions for the team at large and clarify triage responsibilities, the Backend Tools team will designate a single member of the team each sprint to act as the **Utility Developer**.
 
 The assignment schedule is available on [PagerDuty](https://dsva.pagerduty.com/schedules#PPGUD8L). :link:
 
@@ -32,7 +32,7 @@ Some specific examples of the kind of requests handled by this developer are:
 
 ## Responsibilities
 
-As issues come in, the main job is to: 
+As issues come in, the main job is to:
 
 1. acknowledge the incoming request
 1. decide on the best person to handle the request
@@ -82,16 +82,16 @@ It is *100%* acceptable to delegate the request, whatever it is, to someone more
 
 ### Reviewing Pull Requests
 
-VFS teams rely on the VSP Backend Tools team to review and approve pull requests to `vets-api` and `gibct-data-service`. The [#vsp-backend-utility-dev] channel can be used to track new and resubmitted Pull Requests. 
+VFS teams rely on the VSP Backend Tools team to review and approve pull requests to `vets-api` and `gibct-data-service`. The [#vsp-backend-utility-dev] channel can be used to track new and resubmitted Pull Requests.
 
-Several GitHub filters exist to quickly identify pull requests needing review. 
+Several GitHub filters exist to quickly identify pull requests needing review.
 
 - [first reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+draft%3Afalse+-label%3AVSP+-label%3ALighthouse+review%3Arequired)
 - [first reviews for `GIDS`](https://github.com/department-of-veterans-affairs/gibct-data-service/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+draft%3Afalse+review%3Anone+sort%3Aupdated-desc+)
 - [subsequent reviews for `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3A%22Please+Review%22+-label%3Adependencies+-label%3ALighthouse+-label%3AVSP)
 - [VSP team reviews](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+draft%3Afalse+-label%3AVSP+-label%3ALighthouse+review%3Arequired)
 
-For quick reference these are also pinned in the [#vsp-backend-utility-dev] channel. 
+For quick reference these are also pinned in the [#vsp-backend-utility-dev] channel.
 
 - add pull request to the [Code Review Epic][Super Epics] for the current sprint
 
@@ -117,13 +117,15 @@ The [#vfs-sentry-alerts] channel is configured to receive alerts when one of the
 
 ### Everything else
 
-The on-call developer typically handles on-call tasks but occasinally they may need some backend support. 
+The on-call developer typically handles on-call tasks but occasinally they may need some backend support.
 
 Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
 
 If there’s *literally* nothing else to do, here are a few more ideas:
 
+* Upgrade one of the gems from our Gemfile (`bundle outdated --only-explicit`)
 * Refactor a spec
+* Increase code coverage in a file that is only partially covered
 * Pair with another developer to help move their issue forward
 * Dig into an area of the code you are unfamiliar with
 
