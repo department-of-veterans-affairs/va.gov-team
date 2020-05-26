@@ -1,6 +1,9 @@
-# Profile 2.0 Staging Users - Test Cases (last updated May, 25th, 2020)
+# Profile 2.0 Staging Users - Test Cases 
+(last updated May, 25th, 2020)
 
-### Test cases for viewing payment information
+
+
+## Test cases for viewing payment information
 
 |Test user|Test case|Staging user|
 |----|----|----|
