@@ -3,6 +3,18 @@
 This document will focus on the service level operating status feature within VA.gov's Facility Locator.
 
 ## Table of Contents
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#user-journey)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#user-stories--use-cases)
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#project-rationale)
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#project-scope-and-scale)
+[Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#not-currently-in-scope)
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#measuring-success)
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#dependencies)
+[Risk Factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#risk-factors)
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#rejected-solutions)
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#definition-of-done)
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/service-level-feature-brief.md#key-links)
+
 
 ### User Journey
 - Access to VA facility services may have been impacted by COVID-19 (or other emergent situation) and Veterans need up to date information as part of Facility Locator's search results.
