@@ -133,7 +133,7 @@ cy.syncFixtures({
   'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
 });
 
-cy.fixture('maximal-test.json').as('testData');
+cy.fixture('maximal-test').as('testData');
 ```
 
 To access the contents of the file, you can use a combination of `cy.get()` and `cy.then()`:
@@ -174,11 +174,6 @@ cy.route('POST', '/v0/health_care_applications', {
   formSubmissionId: '123fake-submission-id-567',
   timestamp: '2016-05-16',
 }).as('submitApplication');
-
-// Workaround to intercept requests made with fetch API.
-cy.on('window:before:load', window => {
-  delete window.fetch;
-});
 ```
 Based on the above stubs, whenever the browser makes a `GET /v0/health_care_applications/enrollment_status*` or a `POST /v0/health_care_applications` request, Cypress will automatically handle the request with the stubbed response.
 
@@ -252,7 +247,9 @@ You can add any of the [run options](https://docs.cypress.io/guides/guides/comma
 ## Things to Note <a name="things-to-note"></a>
 
 ### Automatic Waiting
-Cypress automatically waits for commands to execute before moving on to the next. This eliminates needing to use the timeout consts in `platform/testing/e2e/timeouts.js`. Cypress queues it's commands instead of running them synchronously, so doing something like [this](https://docs.cypress.io/guides/references/best-practices.html#Assigning-Return-Values) will not work.
+Cypress automatically waits for commands to execute before moving on to the next one. This eliminates the need to use the timeout constants in `platform/testing/e2e/timeouts.js`.
+
+Cypress queues its commands instead of running them synchronously, so doing something like [this](https://docs.cypress.io/guides/references/best-practices.html#Assigning-Return-Values) will not work.
 
 ### Third Party Plugins
 Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
