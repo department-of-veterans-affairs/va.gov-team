@@ -4,7 +4,7 @@ been requested in the past, however, there has been little to no progress.
 Information is received from NCC (National Call Center) only after a POC (Chante or Kimberley) reaches out to the appropriate contact to obtain
 the reporting for that particular month.
 
-The goal is to have all contact centers provide data to us that may be affected by a tool that we help support.
+The goal is to have all contact centers provide data to us that may be affected by a tool that we help support.  Retrieving reports in either CSVs, Excel, or through an API.
 
 It has been established that the following contact centers will be contacted initially in an attempt to establish a relationship and obtain
 reporting on a monthly basis.  Depending on the responses, the process may be different for each center, but the goal is to have one streamlined 
