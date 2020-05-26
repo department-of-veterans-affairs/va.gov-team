@@ -13,8 +13,12 @@
 
 1. CMS, components, design system [KEYBOARD] Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict
 
-    - #vsa-facilities - [#4215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4215) in Production, Opened: December 12, 2019, main & secondary nav issue
-    - #vsa-public-websites - 
+    - #vsa-facilities 
+        - [#4215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4215) in Production, Opened: December 12, 2019, main & secondary nav issue
+    - #vsa-public-websites 
+        - [#7723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7723) in Production, Opened: April 7, 2020, 10 pages impacted
+        - [#6368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368) in Production, Opened: March 2, 2020, 2 pages impacted
+        - [#8250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8250) in Production, Opened: April 21, 2020, 1 dynamic pg impacted
     
 
 ## 508-defect-3
