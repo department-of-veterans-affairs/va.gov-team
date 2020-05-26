@@ -7,6 +7,8 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
 
 ## 508-defect-0 Critical
 
+None
+
 ## 508-defect-1 Serious
 
 1. design system, forms, components [SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from the previous "Edit mailing address" is read by screen reader
@@ -106,6 +108,7 @@ pagination **Fixed May 20, 2020 by @kelsonic**
 
 ## 508-defect-3
 
+None
 
 ## 508-defect-4
 
