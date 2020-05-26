@@ -75,7 +75,7 @@ Key Findings
 5.  Participants were interested in benefit recommendations and eligibility information.
 6.  Participants were interested in information that helps them be more involved with the VA as a whole, and take better care of themselves. 
 7.  Participants expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
-8.  Benefit information and personal information should be separated on the logged-in homepage, with benefit information taking a higher priority.
+8.  Most participants didn't see "profile" items as totally separate from benefit items. Some wanted to see or have access to "profile" information right on their logged-in homepage.
 9.  Participants typically look for notifications in the top portion of a page, but expect notifications from the VA outside of their logged-in experience.
 10.  A design like the blue sky prototype will be useful to Veterans. 
 
@@ -310,7 +310,8 @@ Once prompted, participants said notifications about important updates and actio
 
 There wasn't a clear consensus on one place for notifications to appear within the page itself. About half of the participants talked about general, VA-wide notifications appearing at the top of the page, with notifications about a specific item on their page would be in-line with the item. Other participants talked about all notifications appearing in the navigation or upper right corner of the page. Participants easily understood, and reacted positively to the in-line notifications associated with each section on the blue-sky prototype. 
 
-"The way you had it laid out on the demo page was perfect."
+> "The way you had it laid out on the demo page was perfect."
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
 
 **Implications:** 
@@ -329,13 +330,13 @@ The blue sky prototype was extremely well received by 6 of the 8 of participants
 
 -   The information summary and clear call to action in each card provided an at-a-glance understanding of the status of each item. People felt the information in each card related to their benefit was useful - some even stated it was exactly what they wanted to see.
 
--   Participants understood links in each card would take them to another page with further detail, and felt that made sense and would be easy to use.
+-   Participants understood the `View All` links in each card would take them to another page with further detail, and felt that made sense and would be easy to use.
 
 -   The sidebar navigation let participants know all the content available to them.
 
 -   Participants found the content in the right hand sidebar was useful and interesting. They usually commented on after the other two, signifying that this layout is successful in helping users focus on the highest priority items. 
 
--   The use of color in the prototype was also helpful for participants to understand various states of information in each card - the blue dot to indicate an unread message, yellow warning alert, and red text were all individually mentioned. (Note that it is not recommended to rely solely on color to communicate important information for colorblind users).
+-   The use of color in the prototype was also helpful for participants to understand various states of information in each card - participants called out the blue dot to indicate an unread message, yellow warning alert (see previous finding for example), and red text signifying a payment due. (Note that it is not recommended to rely solely on color to communicate important information for colorblind users).
 
 > "Do mine like this...somebody got in my head, this is perfect."
 
