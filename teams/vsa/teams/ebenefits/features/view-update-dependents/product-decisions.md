@@ -77,12 +77,15 @@ _Note/ Guiding principle_
 ------------
 
 ## Differences and issues with online and paper forms
-[Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
+[Link to VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
 | VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Add Child | Child status checkboxes | 18G. CHILD STATUS (iterates) | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
+| Add Child | Marriage end date selector | 16E. IF THE CHILD DOES NOT LIVE WITH THE CLAIMANT PROVIDE NAME OF PERSON THE CHILD RESIDES WITH (iterates) | Should we create a person and a relationship with the child and this person? | Unresolved | - |
 | Add Spouse | Marriage type radio buttons | 11F. HOW WERE YOU MARRIED? | Where do we put ‘type’ and then type other? | Unresolved | - |
 | Add Spouse (Former Marriages) | Reason marrige ended radio buttons | 14A.3 REASON FOR TERMINATION and 15A.3 REASON FOR TERMINATION (iterates) | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce," "Death" and "Annulment or other"  | 5/18/20 |
 | Add Spouse | Reason for separation textbox | 13B. REASON FOR SEPARATION  | FE sends reason for separation. We don’t know where to put this. Would it be ‘Other’ in `marage_trmntn_type_cd` ? | Unresolved  | - |
 | Report Divorce | Reason marrige ended radio buttons | SECTION IV Note: If marriage ended as an annulment or declared void, use Section IX, Item 25 | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce" and "Annulment or other" (no Death)  | 5/18/20 |
 | Report Death | Dependent relationship radio buttons | 22A. DEPENDENT TYPE | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
+| Report Child Marriage | Marriage end date selector | 23B. DATE OF MARRIAGE  | No place for: `date_marriage_ended` Should we use `end_dt` in `vnp_ptcpnt_rlnshp_create`? | Unresolved | - |
+| 674 | Course of study or educational program text field | 8B. NAME OR TYPE OF COURSE OF EDUCATION OR TRAINING | In the `school_information` what do we do with `training_program`? There’s `course_of_study` but that is taken in the `program_information` | Unresolved | - |
