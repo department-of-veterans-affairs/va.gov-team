@@ -82,4 +82,4 @@ _Are other features dependent on this one? What do we need from partners? What d
 - Implementation is without Priorty-1 508 defects. 
 
 ### Key Links
-_Links to requirements documentation, wireframes/mock-ups, research, etc._
+[Draft design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/draft%20service%20status%20on%20facility%20detail%20page.png)
