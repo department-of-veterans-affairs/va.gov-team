@@ -58,7 +58,7 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
 
 1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer 
 
-    - all VSA efforts
+    - all VSA work
         - [#7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755) in Production, Opened: April 7, 2020, 8 pages impacted
         - [#6097](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6097) in Production, Opened: February 21, 2020
 
