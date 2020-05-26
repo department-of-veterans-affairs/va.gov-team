@@ -8,11 +8,8 @@
 |Test user|Test case|Staging user|
 |----|----|----|
 |LOA1 user| User cannot see rest of profile, directed to verify identity first.|any LOA1 user|
-|LOA1| does have 2FA (should be directed to verify identity)|user 350|
-|LOA3 user who is eligible for comp & pen direct deposit and has 2FA enabled but has not set up direct deposit (empty data) | This user should see a prompt for [setting up direct deposit](https://user-images.githubusercontent.com/1915775/58051673-d4bf7d80-7b20-11e9-8e2a-a990c93eea32.png) for the first time. **We should also confirm under what conditions this is true.** As in, are these users receiving funds via paper check? Or what does it mean to have empty data for direct deposit?|User 200|
-|LOA3 user who receives comp & pen direct deposit who does **not** have 2FA enabled| This user should see the direct deposit functionality *but* they should see a [gate to add 2FA](https://user-images.githubusercontent.com/1915775/58044275-5efde680-7b0d-11e9-9fb1-71e0056ac5d2.png) first|[jamie.wood](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/accessing-ebenefits.md)|
-|LOA3 user is not eligible for comp & pen direct deposit (although may receive direct deposit via GI Bill)| This user should **not** see the direct deposit feature|Can use any "+100" users|
-|An error occurred while retrieving the data| The user should see an [error message](https://user-images.githubusercontent.com/1915775/58048893-9a9ead80-7b19-11e9-980c-d9fdf5dd65f9.png)|Test locally|
+|LOA1 user| does have 2FA (should be directed to verify identity)|user 350|
+
 
 
 
