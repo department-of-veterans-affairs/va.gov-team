@@ -1,6 +1,6 @@
 # Monthly Reporting Request Process
 
-This document includes the history, current state, and future goals of how the Contact Center VSP POCs interact with and retrieve information from contact centers.  
+This document includes the history, current state, and future goals of how VSP Contact Center POCs interact with and retrieve information from external contact centers.  
 
 This process will be clearly outlined and updated once confirmation is received from each of the contact centers that we are reaching out to.
 
