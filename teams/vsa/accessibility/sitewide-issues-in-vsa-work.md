@@ -37,19 +37,31 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
     - #vsa-public-websites 
         - [#7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708) in Production, Opened: April 7, 2020, 8 pages impacted
         - [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) in Production, Opened: March 2, 2020, 6 pages impacted
-    - #vsa-bam2
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
-    - #vsa-caregiver
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
-
-1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer — impacts all pages across VSA work
-
-    - #vsa-public-websites
-        - [#7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755) in Production, Opened: April 7, 2020, 8 pages impacted
-    - #vsa-ebenefits
-    - #vsa-bam2
-    - #vsa-caregiver
     - #vsa-facilities
+        - [#7244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244) in Production, Opened: March 26, 2020
+    - #vsa-bam2
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+    - #vsa-caregiver
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+    - #vsa-ebenefits
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+
+1. sitewide, forms, design system, components [AXE-CORE]: Heading levels SHOULD increase by one
+
+    - #vsa-bam2
+        - [#9115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9115) in Staging, Opened May 14, 2020
+    - #vsa-caregiver
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+    - #vsa-ebenefits
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+
+
+1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer 
+
+    - all VSA efforts
+        - [#7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755) in Production, Opened: April 7, 2020, 8 pages impacted
+        - [#6097](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6097) in Production, Opened: February 21, 2020
+
         
 1. CMS, components, design system [SCREENREADER] Aside MUST not be contained in another landmark 
 
