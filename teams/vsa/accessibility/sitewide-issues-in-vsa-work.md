@@ -23,7 +23,7 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
 
 ## 508-defect-2
 
-1. CMS, components, design system [KEYBOARD] Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict
+1. CMS, components, design system [KEYBOARD] Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav, breadcrumbs, and sidebar nav conflict
 
     - #vsa-facilities 
         - [#4215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4215) in Production, Opened: December 12, 2019, main & secondary nav issue
