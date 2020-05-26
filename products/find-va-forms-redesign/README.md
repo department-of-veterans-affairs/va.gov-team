@@ -65,6 +65,18 @@ __VA forms stakeholder working group includes:__
 
 # Status and decisions:
 
+## 05/26/2020
+
+Ungating of search currently blocked by various API and form bugs. 
+
+Important discovery: API is treating form numbers like they are unique 'form IDs,' but in actuality, form numbers are not unique to 1 form in the source VA forms database. EX: The English 10-10EZ form has the same form number as the Spanish 10-10EZ. Without a unique form ID per form PDF or form PDF URL, we have asked the forms managers to update certain duplicate form numbers to make them distinct. 
+
+Other issues - legacy practices that were not cleaned up (e.g., www1. URLs, http:// URLs, etc.) 
+
+Next step: Regroup needed on ungating plan. 
+
+
+
 ## 03/11/2020
 
 Recap of redirect update w/ @mnorthuis from our Monday call:
