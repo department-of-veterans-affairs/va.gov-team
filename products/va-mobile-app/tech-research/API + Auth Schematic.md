@@ -2,9 +2,9 @@ May 21, 2020
 
 This document contains a discussion on the following topics pertinent to a VA mobile app:
 
-- [Lighthouse vs VFS APIs](##lighthouse-vs.-vfs)
-- [Versioning](##Versioning)
-- [OAuth](##Auth)
+- [Lighthouse vs VFS APIs](#lighthouse-vs.-vfs)
+- [Versioning](#Versioning)
+- [OAuth](#Auth)
 
 ## Five classes of APIs:
 
