@@ -3,8 +3,8 @@
 DLC will have a banner inviting Veterans to try out the new ordeding system and announcing transition to new system with date
 TBD            
 
--The links on VA.gov will be hidden behind a feaure flag durng this soft launch period
--Depending on traffic, issues captured, the soft launch will last 5-7 days 
+-The links on VA.gov will be hidden behind a feature flag durng this soft launch period
+-Depending on traffic, issues captured, the soft launch will last 5-7 days while we gather KPIs, work bugs.  
 
 ## Phase 2: 20% of Traffic 
 
@@ -18,7 +18,7 @@ TBD
 
 ## Phase 4: 100% of Traffic 
 
-ALl feature flags turned off - all links visible to 100% of traffic 
+All feature flags turned off - all links visible to 100% of traffic 
 
 -Dates: TBD
 
