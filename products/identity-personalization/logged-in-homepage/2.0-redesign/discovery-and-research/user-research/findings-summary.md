@@ -118,7 +118,7 @@ Health care beneficiaries prioritized the following items:
 
 -   Beneficiary travel
 
--   VA Medical Center 
+-   Their VA Medical Center (where they primarily receive care)
 
 -   Community Care locations
 
@@ -127,7 +127,7 @@ Health care beneficiaries prioritized the following items:
 Those with disability benefits were most interested in tasks related to claims, confirming accuracy of payments, and occasionally, to download benefit letters and other documents.  The following disability items were prioritized on pages:
 
 -   Rated disabilities
--   Claim status (this mattered less to participants with a very low or very high disability rating; they felt their rating "is what it is" and would not change)
+-   Claim status (this mattered slightly less to participants with a very low or very high disability rating; they felt their rating "is what it is" and would not change)
 -   Benefit letters
 -   File a secondary claim or to increase rating
 -   Upload requested documents
@@ -149,7 +149,7 @@ Many log in at least 2-3 times per month to VA.gov to go to My HealtheVet (MHV) 
 
 3.  We can help Veterans feel grounded and create a more efficient, seamless experience for them if we bring in tasks from MHV, eBenefits and VA.gov to one centralized place.
 
-### For those interested in education benefits, GI Bill balance and payment information was important.
+### For those interested in education benefits, GI Bill balance and payment information was most important. 
 
 About a third of the participants added education benefit related items to their page, typically as a mid-priority item. They were specifically interested in:
 
@@ -158,9 +158,13 @@ About a third of the participants added education benefit related items to their
 
 > "If I would've known [GI Bill benefits balance], I would have gotten  $1200 a month instead of 600 a month if I took an extra class."
 
-There were less common benefits that participants brought up in sessions such as VA home loans and life insurance.  Participants that had these didn't prioritize them on their homepage, but the fact that they discussed them in relation to a recent visit to VA.gov suggests they are still important to them.
+A few participants mentioned saving their entire GI Bill benefit for their children.
 
-**Implications:** Benefits outside of the high-priority health and disability categories are important to users, and should be accounted for on the logged-in homepage.  
+**Implications:** 
+
+1. Benefits outside of the high-priority health and disability categories are important to users, and should be accounted for on the logged-in homepage.  
+2. Information about how education benefits can be passed on to dependents would be useful to Veterans.
+3. The participants we recruited in the under 34 age group weren't able to make their session.  We should ensure future studies include younger Veterans and validate the priority of education benefit information, and exactly what information is needed, with this group in future studies.
 
 ### Easy access to documents from the homepage was important for participants.
 
@@ -406,6 +410,12 @@ As participants added items related to those categories to their personalized pa
 > "Claim status - it would be nice if there was better accountability of where it was and what's happening. It's always very vague. It'd be nice to know if someone actually has this on their desk or not."
 
  **Implication:** We can increase Veterans confidence in the VA and build trust if we provide more information in status updates or when someone on the VA side makes a change like cancelling an appointment.
+
+### Participants talked about recently having visited VA.gov to look at information pertaining to less common benefits such as VA home loans and life insurance.
+
+There were less common benefits that participants brought up in sessions such as VA home loans and life insurance.  Participants that had these didn't prioritize them on their homepage, but the fact that they discussed them in relation to a recent visit to VA.gov suggests they are still important to them.
+
+**Implication:** Veterans look for information on less popular benefits and we should take that content into consideration when planning for the content and IA of our logged-in homepage.
 
 Next Steps
 ----------
