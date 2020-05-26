@@ -45,7 +45,7 @@
 |Test user|Test case|Staging user|
 |----|----|----|
 |LOA3 user| User is eligible for comp & pen direct deposit and has 2FA enabled but account is flagged for fraud	The user should be able to see the direct deposit functionality as normal but submitting the form should fail with a special error message	|User 27 (William Daniels)|
-|LOA3 user| User has inputted an invalid routing number- Submitting the form should fail with a special error message, Invalid routing number: We couldn’t find a bank linked to this routing number. Please check your bank’s 9-digit routing number and enter it again.. This message should be visible as a banner above the form.|Any user|
+|LOA3 user| User has inputted an invalid routing number- Submitting the form should fail with a special error message, Invalid routing number: We couldn’t find a bank linked to this routing number. Please check your bank’s 9-digit routing number and enter it again.. This message should be visible as a banner above the form.|user 36|
 |User has a fiduciary	TBD| User will most likely just prevent ability to edit info, OR just hide from side-nav	Incompetent w/p fiduciary| User +61, Incompetent w fiduciary User +65, Deceased User +33|
 
 
