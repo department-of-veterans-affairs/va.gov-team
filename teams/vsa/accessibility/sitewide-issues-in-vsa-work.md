@@ -2,7 +2,7 @@
 
 > I'm adding items to this document, and will delete this message and the work-in-progress slug when complete.
 
-The following issues are sitewide and vendor issues in VSA work.
+The following issues are sitewide and vendor issues in launched VSA work. These issues are in-process of being addressed by VSP or the vendor.
 
 
 ## 508-defect-0 Critical
@@ -36,11 +36,11 @@ The following issues are sitewide and vendor issues in VSA work.
         - [#7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708) in Production, Opened: April 7, 2020, 8 pages impacted
         - [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) in Production, Opened: March 2, 2020, 6 pages impacted
     - #vsa-bam2
-        - I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
     - #vsa-caregiver
-        - I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
 
-1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer
+1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer — impacts all pages across VSA work
 
     - #vsa-public-websites
         - [#7755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7755) in Production, Opened: April 7, 2020, 8 pages impacted
