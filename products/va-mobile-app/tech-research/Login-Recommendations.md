@@ -1,5 +1,14 @@
 March 20, 2020
 
+- [TLDR](#tldr)
+- [Current State](#how-does-login-currently-work)
+- [API Surface Areas](#api-surface-areas)
+- [Login on Mobile](#How-could-these-login-methods-work-on-mobile)
+- [Token Duration and Mobile-centric Auth](#Token Duration and Mobile-Centric Authentication)
+- [Program vs. APIs vs. Auth Mechanisms](#Programs-vs-APIs-vs-Auth-Mechanisms)
+- [Prototype Blockers](#prototype-blockers)
+- [Implementation Blockers](#implementation-blockers)
+
 ## TL;DR
 With some development work, it would be technically feasible to use either VA.gov/SAML or Lighthouse/OAuth for login on a mobile app.
 However — based on the technical, Veteran experience, and logistical constraints and opportunities outlined in this document — our recommendation is to enable the VA.gov-centric part of vets-api to accept OAuth.
