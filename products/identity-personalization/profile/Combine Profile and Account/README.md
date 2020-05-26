@@ -202,8 +202,8 @@ Other metrics are qualitative:
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+- Target launch date is July 15th, 2020
+- We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     evaluate within 1 week of launch.
 
 ---
 
