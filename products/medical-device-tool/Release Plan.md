@@ -1,26 +1,25 @@
 ## Phase 1: Soft Launch
 
-DLC will have a banner inviting Veterans to try out the new ordeding system and announcing transition to new system with date
-TBD            
+DLC will have a banner inviting Veterans to try out the new ordering system and announcing transition to new system with date TBD            
 
--The links on VA.gov will be hidden behind a feature flag durng this soft launch period
--Depending on traffic, issues captured, the soft launch will last 5-7 days while we gather KPIs, work bugs.  
+- The links on VA.gov will be hidden behind a feature flag during this soft launch period
+- Depending on traffic, issues captured, the soft launch will last 5-7 days while we gather KPIs, work bugs.  
 
 ## Phase 2: 20% of Traffic 
 
--Duration - 2 days 
--Dates: TBD 
+- Duration - 2 days 
+- Dates: TBD 
 
 ## Phase 3: 50% of Traffic 
 
--Duration - 2 days 
--Dates: TBD 
+- Duration - 2 days 
+- Dates: TBD 
 
 ## Phase 4: 100% of Traffic 
 
 All feature flags turned off - all links visible to 100% of traffic 
 
--Dates: TBD
+- Dates: TBD
 
 ## Go Live!
 
