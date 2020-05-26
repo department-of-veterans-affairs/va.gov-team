@@ -4,7 +4,7 @@ March 20, 2020
 - [Current State](#how-does-login-currently-work)
 - [API Surface Areas](#api-surface-areas)
 - [Login on Mobile](#How-could-these-login-methods-work-on-mobile)
-- [Token Duration and Mobile-centric Auth](#Token Duration and Mobile-Centric-Authentication)
+- [Token Duration and Mobile-centric Auth](#Token-Duration-and-Mobile-Centric-Authentication)
 - [Program vs. APIs vs. Auth Mechanisms](#Programs-vs-APIs-vs-Auth-Mechanisms)
 - [Prototype Blockers](#prototype-blockers)
 - [Implementation Blockers](#implementation-blockers)
