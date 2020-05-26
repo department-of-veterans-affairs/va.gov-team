@@ -40,20 +40,20 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
     - #vsa-facilities
         - [#7244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244) in Production, Opened: March 26, 2020
     - #vsa-bam2
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, there will be a number of these, when their staging review comes in.
     - #vsa-caregiver
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, there will be a number of these, when their staging review comes in.
     - #vsa-ebenefits
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, there will be a number of these, when their staging review comes in.
 
 1. sitewide, forms, design system, components [AXE-CORE]: Heading levels SHOULD increase by one
 
     - #vsa-bam2
         - [#9115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9115) in Staging, Opened May 14, 2020
     - #vsa-caregiver
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, there will be a number of these, when their staging review comes in.
     - #vsa-ebenefits
-        - From a recent spot check, I know that I will have a number of these, when their staging review comes in.
+        - From a recent spot check, there will be a number of these, when their staging review comes in.
 
 
 1. sitewide, design system, CMS [AXE-CORE] Heading levels should increase by one - footer 
