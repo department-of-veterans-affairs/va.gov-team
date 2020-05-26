@@ -1,5 +1,7 @@
 # VA Mobile App Authentication + API Questions
 
+May 14, 2020
+
 ## Authentication: Why not use SSOe or cookie-auth?
 In March, we presented three different options for login and ultimately recommended an OAuth implementation. This is because:
 - SSOe does not allow for biometric authentication. It allows a 15-30 min session before users are required to re-enter their username/PW and complete 2FA again
