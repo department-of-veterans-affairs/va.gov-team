@@ -44,9 +44,9 @@
 
 |Test user|Test case|Staging user|
 |----|----|----|
-LOA3 user is eligible for comp & pen direct deposit and has 2FA enabled but account is flagged for fraud	The user should be able to see the direct deposit functionality as normal but submitting the form should fail with a special error message	User 27 (William Daniels)
-User has inputted an invalid routing number	Submitting the form should fail with a special error message, Invalid routing number: We couldn’t find a bank linked to this routing number. Please check your bank’s 9-digit routing number and enter it again.. This message should be visible as a banner above the form.	Any user
-User has a fiduciary	TBD - most likely just prevent ability to edit info, OR just hide from side-nav	Incompetent w/p fiduciary User +61, Incompetent w fiduciary User +65, Deceased User +33
+|LOA3 user| User is eligible for comp & pen direct deposit and has 2FA enabled but account is flagged for fraud	The user should be able to see the direct deposit functionality as normal but submitting the form should fail with a special error message	|User 27 (William Daniels)|
+|LOA3 user| User has inputted an invalid routing number- Submitting the form should fail with a special error message, Invalid routing number: We couldn’t find a bank linked to this routing number. Please check your bank’s 9-digit routing number and enter it again.. This message should be visible as a banner above the form.|Any user|
+|User has a fiduciary	TBD| User will most likely just prevent ability to edit info, OR just hide from side-nav	Incompetent w/p fiduciary| User +61, Incompetent w fiduciary User +65, Deceased User +33|
 
 
 
@@ -54,5 +54,6 @@ User has a fiduciary	TBD - most likely just prevent ability to edit info, OR jus
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA3 user is eligible for comp & pen direct deposit and has 2FA enabled but account is flagged for fraud| The user should be able to see the direct deposit functionality as normal but submitting the form should fail with a [special error message](https://user-images.githubusercontent.com/34068740/57635120-905a3d80-7574-11e9-9c80-47f39045669b.png)|`WILLIAM DANIELS` - need to ask EVSS what this person's user number is|
-|User has inputted an invalid routing number|Submitting the form should fail with a special error message, `Invalid routing number: We couldn’t find a bank linked to this routing number. Please check your bank’s 9-digit routing number and enter it again.`. This message should be visible as a banner above the form.|Any user|
+|LOA1 user|can't see personal information|user 350	
+|LOA3 user| (ID verified + 2FA)	can see personal information|user 36	
+|LOA3 user who cant pull up record in MPI|User	Cant see it, also cant see any other information|	test locally (Sandra)	Treat the same as LOA1 user, send to account security page and show MPI alert|
