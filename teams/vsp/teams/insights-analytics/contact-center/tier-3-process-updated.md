@@ -38,14 +38,14 @@ Once a Tier 3 issue has been assigned to a VFS team, the VSP Contact Center Team
 
 Based on the complexity of the ticket and workload of the team, the VSP Contact Center Team will also expect a final resolution or a comprehensive update on the following timeline: 
 
-  * **7 days open:** VSP Contact Center Team will reach out to inquire if there is any additional information needed from our team.  The template can be found HERE.
-  * **15 days open:** VSP Contact Center Team will reach out to inquire on status of ticket and advise that in another 15 days, we will provide the user with the team lead contact information.  The template can be found HERE.
-  * **30 days open:** VSP Contact Center team will provide the user with the contact information of the appropriate team lead.
+  * **7 days open:** VSP Contact Center Team will reach out to inquire if there is any additional information needed from our team.  The template can be found [HERE] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
+  * **15 days open:** VSP Contact Center Team will reach out to inquire on status of ticket and advise that in another 15 days, we will provide the user with the team lead contact information.  The template can be found [HERE] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
+  * **30 days open:** VSP Contact Center team will provide the user with the contact information of the appropriate team lead.  The template can be found [HERE] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
 
 *Note:* The VSP Contact Center Team realizes VFS teams have dependencies for investigating issues, including VA systems and teams. If an investigation or resolution is blocked because of a dependency on the part of another VA team, please notify the VSP Contact Center Team so they can escalate the issue through the necessary customer experience channels. 
   
 #### Status Requests
-If a VSP Contact Center team member has not received an initial response from the VFS team within the first 48 business hours or a final resolution or update by the designated time based on priority, the VSP Contact Center team member will escalate the issue to the PM of the team that has been assigned the issue. 
+If a VSP Contact Center team member has not received an initial response from the VFS team within the first 48 business hours or a final resolution or update by the designated time based on the timeline above, the VSP Contact Center team member will escalate the issue to the PM of the team that has been assigned the issue. 
 
 ## Issue Resolution
 The VSP Contact Center Team will NOT be responsible for closing the github issue.  The VFS team that is researching and working the issue will be responsible for closing the ticket. The following criteria must be met for an issue to be closed:
