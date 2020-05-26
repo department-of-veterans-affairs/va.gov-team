@@ -2,7 +2,7 @@
 
 ### What is it?
 
-An automated process that looks for code additions and modifications that don't meet platform code quality standards. If no issues are found, the pull request (PR) can be completed without review by a platform engineer.
+Automated code quality checks allowing you to move faster and bypass reviews from platform engineers when they're not necessary. These checks use an automated process that looks for code additions and modifications that don't meet baseline code quality criteria, and will alert a platform engineer to help out and do a review only if certain more complex issues are found.
 
 ### How does it work?
 
@@ -14,11 +14,11 @@ An automated process that looks for code additions and modifications that don't 
 
 ### Product documentation
 
-[User guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/manual-reviews) | [Current linting rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) | [Adding new linting rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/adding-new-rules.md)
+[Technical Docs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/front-end-standards/manual-reviews) | [Current linting rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/eslint/new-rule-release-notes.md) 
 
 ------
 
 ### Point of contact 
 
-Post a message in the [#vfs-product-support](https://slack.com/app_redirect?channel=CKENX6FHV) Slack channel and tag @frontend-review-group to send us feedback.
+Post a message in the [#vfs-product-support](https://slack.com/app_redirect?channel=CKENX6FHV) Slack channel and tag the current frontend point of contact to send us feedback or propose your own linting rule.
 
