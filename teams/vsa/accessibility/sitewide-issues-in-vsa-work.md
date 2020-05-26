@@ -11,6 +11,8 @@ The following issues are sitewide and vendor issues in launched VSA work. These 
 
 1. design system, forms, components [SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from the previous "Edit mailing address" is read by screen reader
 
+    Complex issue discovered in the Authenticated Experience Address Validation work. While investigating, we discovered this issue also affects the Find VA benefits functionality. The progress indicator button is suspected of being the issue source.
+
     - #vsa-authd-exp 
         - [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) in Production, Opened: Feb 13, 2020, multiple pages impacted
 
