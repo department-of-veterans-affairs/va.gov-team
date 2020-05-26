@@ -1,7 +1,7 @@
 # Heuristic Analysis Overview
 
-## Heuristic Synthesis
-- [See PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf)
+## Synthesis
+- [See PDF of Mural here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf)
 
 ## Individual web and mobile app heuristics: 
 - [Annie App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Annie-app.md)
