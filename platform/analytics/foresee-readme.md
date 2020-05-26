@@ -92,7 +92,7 @@ VSP is in charge of the ForeSee content through the admin portal. Additional mod
 
 #### The nature of my VA.gov page is sensitive to use, and the Intercept survey shouldn't trigger on it. How do I remove it?
 
-We are currently working on this issue (May 2020), and will update with more information as we learn more!
+Please provide tag @joanne on #vfs-platform-support on Slack, and provide the URLs with pages that should not be triggered.
 
 #### I keep hearing about Medallia. What is Medallia?
 
