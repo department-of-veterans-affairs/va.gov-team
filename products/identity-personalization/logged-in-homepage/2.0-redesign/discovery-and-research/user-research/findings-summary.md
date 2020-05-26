@@ -77,7 +77,7 @@ Key Findings
 7.  Participants expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
 8.  Most participants didn't see "profile" items as totally separate from benefit items. Some wanted to see or have access to "profile" information right on their logged-in homepage.
 9.  Participants typically look for notifications in the top portion of a page, but expect notifications from the VA outside of their logged-in experience.
-10.  A design like the blue sky prototype will be useful to Veterans. 
+10.  A design like the blue sky prototype ([see screenshot in Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#appendix)) will be useful to Veterans. 
 
 Details of Findings
 -------------------
