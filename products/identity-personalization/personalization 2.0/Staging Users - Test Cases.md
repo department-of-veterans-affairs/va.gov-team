@@ -7,8 +7,8 @@
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user| User cannot see rest of profile, directed to verify identity first.|any LOA1 user|
-|LOA1 user| does have 2FA (should be directed to verify identity)|user 350|
+|LOA1 user| User cannot see the rest of the profile and they are directed to verify their identity first.|Any LOA1 user|
+|LOA1 user| Does have 2FA (should be directed to verify identity)|user 350|
 
 
 
