@@ -1,4 +1,4 @@
-* # Milestone Templates
+# Milestone Templates
 
 The following three templates are associated with the [tier 3 escalation process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/tier-3-process-updated.md)
 These templates are to be used by VSP Contact Center Leads to inquire and advise VFS teams of the issues that have been presented to them in ZH.
