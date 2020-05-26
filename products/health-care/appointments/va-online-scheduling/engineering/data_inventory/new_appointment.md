@@ -3,52 +3,86 @@
 FHIR equivalent in parentheses, bold items are uncertain/unknown
 
 - Type of care list
-   - Data for each item:
-      - Identifier/stop code (**HealthcareService.identifier**)
-- Community care supported sites (**Location**)
-   - Filtered by: site ids
-   - Data for each time:
-      - Site
-      - Is supported flag
-- Community Care eligibility (**Unknown**)
-   - Filtered by: ICN, type of care
-   - Data:
-      - Is eligible flag
-- VA parent facilities (Organization)
-   - Filtered by: ICN, type of care id
-   - Data for each parent facility:
-      - Id (Organization.identifier)
-      - Friendly name (Organization.name)
-      - City (Organization.address[].city)
-      - State (Organization.address[].state)
-      - Root site id (**Organization.identifier**)
-- VA child facilities (Location)
-   - Filtered by: ICN, type of care id, parent facility id, site id
+   - VAR: `/clinical-services/type-of-care`
+      - Not called live, data pulledf from this service and stored in FE code
+   - FHIR data: HealthcareService.serviceType
+   - Input: None
+   - Output used:
+      - Type of care id values
+- Community Care supported sites
+   - VAR: `/facility-service/supported-facilities`
+   - FHIR: Unknown
+   - Input:
+      - Site id for sites user is registered at
+   - Output used:
+      - List of site ids
+         - If we request a site id and a record doesn't come back, it's not supported
+- Community Care eligibility
+   - CCE: `/cce/v1/patients/{icn}/eligibility/{service_type}`
+   - Input: 
+      - ICN
+      - Lighthouse Community Care service type
+   - Output used:
+      - Boolean isEligible flag
+- VA parent sites
+   - VAR: `/direct-scheduling/parent-sites`
+   - FHIR data: Organization and Location
+   - Input: 
+      - ICN
+      - Type of care id
+   - Output used:
+      - List of parent sites
+         - Facility id
+         - Friendly name
+         - City
+         - State
+         - Root site id
+- VA facilities
+   - VAR: `/direct-scheduling/institutions`
+   - FHIR data: Location
+   - Input: 
+      - ICN
+      - Type of care id
+      - Parent facility id
+      - VistA site id
    - Data for each facility:
-      - Id (Location.identifier)
-      - Friendly name (Location.name)
-      - Supports direct scheduling flag (**Unknown**)
-      - Supports requests flag (**Unknown**)
-- Request eligibility data (**Unknown**)
-   - Request limit
-      - Filtered by: ICN, facility id, type of care id
-      - Data:
-         - Request limit
-         - Oustanding request count
-   - Past visits
-      - Filtered by: ICN, facility id, type of care id, direct or request type
-      - Data:
-         - Time frame for required visit (typically 12 or 24 months)
-         - Has past visit in time frame flag
-   - PACT members
-      - Filtered by: ICN, site id
-      - Data:
-         - Member count
-   - Appointment history (Appointment)
-      - Filtered by: ICN, start date, end date
-      - Data for each item:
-         - Clinic id (Appointment.participant[HealthcareService].identifier)
-         - Site id (Appointment.participant[Location].identifier)
+      - List of facilities
+         - Id
+         - Friendly name
+         - Supports direct scheduling flag
+         - Supports requests flag
+- Request limit
+   - VAR: `/direct-scheduling/patient/ICN/{icn}/request-limit`
+   - FHIR: Unknown
+   - Input: 
+      - ICN
+      - Facility id
+      - Type of care id
+   - Output:
+      - Request limit
+         - 0 means disabled
+      - Oustanding request count
+- Past visits
+   - VAR: `/direct-scheduling/site/{site_id}/patient/ICN/{icn}/{schedule_type}-eligibility/visited-in-past-months`
+   - Input: 
+      - ICN
+      - Facility id
+      - Type of care id
+      - Schedule type (direct or request)
+   - Output used:
+      - Time frame for required visit (typically 12 or 24 months)
+         - 0 is disabled
+      - Has past visit in time frame flag
+- Appointment history
+   - MAS: `/appointments/v1/patients/{icn}/appointments`
+   - FHIR: Appointment
+   - Input:
+      - ICN
+      - Start date
+      - End date
+   - Output used:
+      - Clinic id
+      - Site id
 - Clinics (HealthcareService)
    - Filtered by: ICN, facility id, site id, type of care id
    - Data for each item:
