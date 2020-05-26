@@ -49,7 +49,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 ### Product Goals
 - Modernize the on-site search experience on VA.gov with features and functions which enable more directed search (e.g. type-ahead, faceted search, etc.)
 - Make VA.gov on-site search results more relevant and reliable
-- Measureably improve customer satifisfaction with VA.gov on-site search
+- Measurably improve customer satisfaction with VA.gov on-site search
 - Create a cohesive brand across the VA through direct control of the search page layout and look (To be better defined and verified as a goal)
 - Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be better defined and verified as a goal)
 
