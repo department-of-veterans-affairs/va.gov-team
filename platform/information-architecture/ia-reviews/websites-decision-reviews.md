@@ -2,6 +2,7 @@
 
 **STATUS:** COMPLETE
 - 4/21/2020 - Modified to accomodate stakeholder request for entry points to DR content in every benefit hub as well as moving the legacy appeal board appeal page into the DR hub. 
+- 5/26/2020 - Modified for new proposed entry points 
 
 **Team:** Public Websites
 
@@ -92,13 +93,18 @@ Page | New URL | New Breadcrumb | Notes
 
 Priority | Location | Link to | Description
 --- | --- | --- | ---
-Must | Disability top nav flyout | https://www.va.gov/decision-reviews/ | Placed as bottom option in the "manage" column
-Must | Disability hub page  | https://www.va.gov/decision-reviews/ | Replace the existing "Manage a legacy VA appeal" link and teaser text
-Must | Disability left nav  | https://www.va.gov/decision-reviews/ | Replace the existing "Manage a legacy VA appeal" link 
-Should | Home page top tasks > Disability group | https://www.va.gov/decision-reviews/ |  
-Must | Health care | https://www.va.gov/decision-reviews/ | TBD
-Must | Education and training | https://www.va.gov/decision-reviews/ | TBD
-Must | Careers and employment | https://www.va.gov/decision-reviews/ | TBD
+Consider | [Health care hub page](https://www.va.gov/health-care/) | https://www.va.gov/decision-reviews/ | - The "Manage" spoke already contains a max of 10 links.  Adding this would require removing another option. <br> - Suggested label: Request a decision review or manage your legacy appeal <br> - Teaser text to be provided by PW team
+Must | Health care left nav | https://www.va.gov/decision-reviews/ | - Within "Manage" spoke, place above "Check appeal status" <br> - Suggested label:  Request a decision review
+Should | [Health care > After you apply page](https://www.va.gov/health-care/after-you-apply/) | https://www.va.gov/decision-reviews/ | - Within the "Other questions..." section, there are **two** accordions - what to do if application isn't approved and what if I will be removed - this content should be updated to reflect the new Decision review labeling and language and provide a link to the Decision review pages. 
+Must | Disability top nav flyout | https://www.va.gov/decision-reviews/ | - Replace bottom "File an appeal" option in the "manage" column <br> - Suggested label: Request a decision review
+Must | [Disability hub page](https://www.va.gov/disability/) | https://www.va.gov/decision-reviews/ | - Replace the existing "Manage a legacy VA appeal" link and teaser text <br> - Suggested link label: Request a decision review or manage your legacy appeal <br> - Teaser text to be provided by PW team
+Must | Disability left nav  | https://www.va.gov/decision-reviews/ | - Replace the existing "Manage a legacy VA appeal" link, should appear after "File for increased disability" <br> - Suggested link label: Request a decision review 
+Consider | [Education and training hub page](https://www.va.gov/education/) | https://www.va.gov/decision-reviews/ | - Within the "Manage" spoke, place as 6th item (after the direct deposit option) <br> - Suggested link label: Request a decision review or manage your legacy appeal <br> - Teaser text to be provided by PW team
+Must | Education and training left nav | https://www.va.gov/decision-reviews/ | - Within the "Manage" spoke, place as 6th item (after the direct deposit option) <br> - Suggested link label: Request a decision review 
+Should | [Education > After you apply page](https://www.va.gov/education/after-you-apply/) | https://www.va.gov/decision-reviews/ | - Add link and text under "What happens after I apply" section.
+Should | [Careers > How to apply page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | https://www.va.gov/decision-reviews/ | - Add text and a link to decision reviews under the "What happens after I apply" section. 
+Must | [Careers hub page](https://www.va.gov/careers-employment/) | https://www.va.gov/decision-reviews/ | - Revise "Manage" section heading to "Manage your career and benefits" and place a link and teaser text as last option in group <br> - Suggested link label: Request a decision review or manage your legacy appeal <br> - Teaser text to be provided by PW team
+Must | Careers left nav | 
 Must | Pension | https://www.va.gov/decision-reviews/ | TBD
 Must | Housing assistance | https://www.va.gov/decision-reviews/ | TBD
 Must | Burials and memorials | https://www.va.gov/decision-reviews/ | TBD
