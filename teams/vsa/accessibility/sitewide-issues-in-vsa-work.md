@@ -2,7 +2,7 @@
 
 > I'm adding items to this document, and will delete this message and the work-in-progress slug when complete.
 
-The following issues are sitewide and vendor issues in launched VSA work. These issues are in-process of being addressed by VSP or the vendor.
+The following issues are sitewide and vendor issues in launched VSA work. These issues are in-process of being addressed by VSP or the vendor. There is also a [list of all VFS open issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
 
 
 ## 508-defect-0 Critical
