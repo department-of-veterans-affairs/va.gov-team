@@ -59,7 +59,6 @@ class SLOReporter
 end
 
 spinner = TTY::Spinner.new("[:spinner] Rustlin' up a phantom 'fox ...", format: :burger)
-spinner.auto_spin
 
 #### Configure the driver based on OS
 host_os = RbConfig::CONFIG['host_os']
@@ -88,12 +87,13 @@ begin
     default_profile.add_extension default_profile.instance_variable_get('@model') + EXTENSION_NAME
   end
   options.profile = default_profile
+  options.headless!
 
   # TODO: Add capability for direct proxy in lieu of extension
   # https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#test-and-use-the-socks-proxy
   driver = Selenium::WebDriver.for :firefox, options: options
 
-  b = Watir::Browser.new driver, headless: false
+  b = Watir::Browser.new driver
   b.goto GRAFANA_BASE_URL
   b.window.resize_to(1200, 1600)
 rescue Errno::ENOENT => e
