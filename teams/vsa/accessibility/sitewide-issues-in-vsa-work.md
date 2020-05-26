@@ -11,7 +11,8 @@ The following issues are sitewide and vendor issues in VSA work.
 
 1. design system, forms, components [SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from the previous "Edit mailing address" is read by screen reader
 
-    - #vsa-authd-exp - [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) in Production, Opened: Feb 13, 2020, multiple pages impacted
+    - #vsa-authd-exp 
+        - [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) in Production, Opened: Feb 13, 2020, multiple pages impacted
 
 1. Leaflet-Mapbox [SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard
 
