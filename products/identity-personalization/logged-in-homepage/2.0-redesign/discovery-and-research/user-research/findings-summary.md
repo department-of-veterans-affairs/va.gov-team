@@ -3,7 +3,7 @@ Logged-in Homepage User Research Findings
 
 Digital Services Veterans Affairs (DSVA), VSA, Authenticated Research
 
-Liz Lantz (liz.lantz@adhocteam.us), 05/22/2020
+Liz Lantz (liz.lantz@adhocteam.us), 05/26/2020
 
 View the[  Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/research-plan.md)
 
@@ -68,38 +68,19 @@ We spoke to 10 Veterans:
 Key Findings
 ------------
 
-1.  Our logged-in homepage will meet Veterans needs if we give them one place for their benefit information, next steps, and relevant notifications.
-
-2.  Participants want a page that is focused on current information specific to them, rather than generalized information for all Veterans.
-
-3.  Participants primarily log in to complete healthcare and disability related tasks such as messaging, ordering medication, and checking claim status.
-
-4.  Participants wanted to see information on education benefits on their personalized homepage.
-
-5.  Easy access to documents from the homepage was important to participants.
-
-6.  Participants were interested in information that helps them maximize their VA benefits, be more involved with the VA as a whole, and take better care of themselves. 
-
+1.  Participants want a page that is focused on current information specific to them, rather than generalized information for all Veterans.
+2.  Participants are primarily interested in completing healthcare and disability related tasks such as messaging, ordering medication, and checking claim status.
+3.  For those interested in education benefits, GI Bill balance and payment information was important.
+4.  Easy access to documents from the homepage was important to participants.
+5.  Participants were interested in benefit recommendations and eligibility information.
+6.  Participants were interested in information that helps them be more involved with the VA as a whole, and take better care of themselves. 
 7.  Participants expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
-
 8.  Benefit information and personal information should be separated on the logged-in homepage, with benefit information taking a higher priority.
-
 9.  Participants typically look for notifications in the top portion of a page, but expect notifications from the VA outside of their logged-in experience.
-
 10.  A design like the blue sky prototype will be useful to Veterans. 
 
 Details of Findings
 -------------------
-
-### Our logged-in homepage will meet Veterans needs  if we give them one place for their benefit information, next steps, and relevant notifications.
-
-The pages participants created demonstrate that what they want is a centralized place for all their information. Participants prioritized current and personalized benefit information and actions (such as sending a message to their doctor) on their own page, very much like the blue sky prototype we showed at the end of the sessions.
-
-Reactions to the current logged-in homepage also supported that they need a personalized landing pad. Participants typically shared sentiments that it is cluttered, contains items that don't matter to them, and it's hard to find what they were looking for.  They've gotten used to notifications via email or physical mail, but expressed that it isn't the ideal way for them to receive them. At the end of each session, all participants felt the personalized page they created during the session was useful to them.
-
-> "I think that [the page they created] would be 100%. I wouldn't have to do so much thinking on my part if I had something like this done where I can go in, and I can see it."
-
-**Implications:** This validates the work we're doing to redesign the logged-in homepage and supports what we've learned in the other discovery activities for this effort. We are on the right track.
 
 ### Participants want a page that is focused on current information specific to them, rather than generalized information for all Veterans.
 
@@ -109,15 +90,19 @@ Participants prioritized information that applies directly to them on their pers
 
 > "I don't need that [education block on current logged-in homepage] for me. It has nothing to do with healthcare. Nothing. Disability thing...having it on my health page does me absolutely no good."
 
+> "I think that [the page they created] would be 100%. I wouldn't have to do so much thinking on my part if I had something like this done where I can go in, and I can see it."
+
 **Implications:** 
 
 1.  We should minimize content on the logged-in homepage that is not specific to the user. 
 
 2.  Our design needs to scale so that users with many benefits can find exactly what they've logged in to do just as easily as users who may have only one or two items on their logged-in homepage.
 
-### All participants primarily log in to complete healthcare and disability related tasks such as messaging, ordering medication, and checking claim status.
+### Participants are primarily interested in completing healthcare and disability related tasks such as messaging, ordering medication, and checking claim status.
 
-The majority of participants had health benefits and log in regularly for healthcare related tasks.  When they created their personalized page, they prioritized the following items:
+During the interview portion of the sessions, all participants stated they log in regularly to complete tasks related to their health and/or disability benefits.  The personalized page they created supported this, as all participants created a task-focused page.  
+
+Health care beneficiaries prioritized the following items:
 
 -   Secure messaging
 
@@ -139,27 +124,20 @@ The majority of participants had health benefits and log in regularly for health
 
 > "That [Rx and appointments] would be a great thing to see first thing on the page where I log in. That way I don't have to go hunting for where my appts are."
 
-Those with disability benefits are logging in to complete tasks related to claims, confirm accuracy of payments, and occasionally, to download benefit letters and other documents.  The following disability items were prioritized on pages:
-
--   Benefit letters
+Those with disability benefits were most interested in tasks related to claims, confirming accuracy of payments, and occasionally, to download benefit letters and other documents.  The following disability items were prioritized on pages:
 
 -   Rated disabilities
-
--   Claim status
-
+-   Claim status (this mattered less to participants with a very low or very high disability rating; they felt their rating "is what it is" and would not change)
+-   Benefit letters
 -   File a secondary claim or to increase rating
-
 -   Upload requested documents
-
 -   Payment history
 
+Participants with lower disability ratings generally placed disability information near the bottom of their page (low priority).  Some participants with disability benefits also added secondary priority items:
+
 -   Vocational Rehabilitation information (how-to, and what to fill out)
-
 -   Housing grant balance
-
--   Additional benefits available based on rating
-
-Participants with lower disability ratings placed disability information near the bottom of their page (low priority). 
+-   Additional benefits available to them and their dependents, based on their disability rating
 
 Many log in at least 2-3 times per month to VA.gov to go to My HealtheVet (MHV) or eBenefits, and move around between the sites. Participants were not always clear about exactly where they were logging in and expressed a feeling of being bounced around and going back and forth trying to complete their tasks. 
 
@@ -171,7 +149,7 @@ Many log in at least 2-3 times per month to VA.gov to go to My HealtheVet (MHV) 
 
 3.  We can help Veterans feel grounded and create a more efficient, seamless experience for them if we bring in tasks from MHV, eBenefits and VA.gov to one centralized place.
 
-### Participants wanted to see information on education benefits on their personalized homepage.
+### For those interested in education benefits, GI Bill balance and payment information was important.
 
 About a third of the participants added education benefit related items to their page, typically as a mid-priority item. They were specifically interested in:
 
@@ -202,9 +180,9 @@ All participants had something on their homepage related to documents or records
 
 **Implications:**  Veterans would likely find a dedicated space for all documents helpful, and do not need to see all documents listed out on their logged-in homepage.
 
-### Participants were interested in information that helps them maximize their VA benefits, be more involved with the VA as a whole, and take better care of themselves. 
+### Participants were interested in benefit recommendations and eligibility information. 
 
-Although benefit information is their priority, multiple participants created items for their page that would help them maximize their VA benefits. One participant commented that while there are a lot of links on the current logged-in homepage, they serve as a helpful reminder of what's available.  Specific items added by participants:
+Although current benefit information is their priority, multiple participants created items for their page that would help them maximize their VA benefits. One participant commented that while there are a lot of links on the current logged-in homepage, they serve as a helpful reminder of what's available.  Specific items added by participants:
 
 -   Information on Choice program
 
@@ -224,11 +202,18 @@ Another participant referenced an eligibility packet they received that was spec
 
 > "More info on health benefits. I know they're there, but I don't know how to use them"
 
-People were interested in general updates from the VA that could impact them such as new laws or policies, and upcoming webinars from the VA.
+**Implications:** 
+
+1.  We should provide users with information on additional benefits they can receive based on what we know about the benefits already they have. For example, if a Veteran with a 100% disability rating hasn't applied for the housing grant, surface information on that benefit.
+2.  We'll need to leverage the data we have on the logged-in user to determine what we display to ensure we're providing relevant benefit recommendations.
+
+### Participants were interested in information that helps them be more involved with the VA as a whole, and take better care of themselves. 
+
+People were interested in general updates from the VA that could impact them such as new laws or policies, and upcoming webinars from the VA. A couple mentioned that they'd want to be informed about changes on the website (e.g. content has moved or been added) on their personalized page.
 
 > "That would be really good to have on the homepage so I feel little more involved in what is going on. Because right now I kind of feel disconnected."
 
-Participants added items related to self-care and community to their pages.  Wellness related items were especially important for the older Veterans we spoke to.
+Participants also added items related to self-care and community to their pages.  Wellness related items were especially important for the older Veterans we spoke to.
 
 -   Community events at their local VAMC 
 
@@ -246,12 +231,9 @@ Participants added items related to self-care and community to their pages.  Wel
 
 **Implications:** 
 
-1.  We should provide users with information on additional benefits they can receive based on what we know about the benefits already they have. For example, if a Veteran with a 100% disability rating hasn't applied for the housing grant, surface information on that benefit.
-
-2.  Veterans will find it helpful to see information on events and Veteran resources local to them based on their address.
-
+1.  Veterans will find it helpful to see information about VA changes or updates that impact them (policies, laws, content/tools on VA.gov).
+2.  Veterans will find it helpful to see information about events and Veteran resources local to them based on their address.
 3.  Veterans are interested in learning more about self-care and wellness, and trust the VA to provide that information.  If possible, we should elevate that kind of information in meaningful ways based on what we know about the Veterans health, age, and phase of life.
-
 4.  We'll need to leverage the data we have on the logged-in user to determine what we display to ensure relevancy.
 
 ### Participants expect a mix of links and widgets to complete tasks on their homepage, and want clear labels to understand next steps.
@@ -274,7 +256,7 @@ Participants referenced design patterns from the private sector as things that w
 
 2.  Using common practices from the private sector to inform our designs may help users more easily adapt to the new design.
 
-### Benefit information and personal information should be separated on the logged-in homepage, with benefit information taking a higher priority.
+### Most participants didn't see "profile" items as totally separate from benefit items. Some wanted to see or have access to "profile" information right on their logged-in homepage.
 
 Participants didn't verbalize strong feelings about differentiating between a profile and dashboard, and many said they didn't know when asked about the difference at the end of the session.  When going through the exercise, however, they clearly separated what we define as profile information from other items. This suggests that they are familiar with this way of organizing content and there should be a meaningful difference, even if they don't all outwardly use the term "profile". The following items were commonly grouped together: 
 
@@ -290,9 +272,9 @@ Participants didn't verbalize strong feelings about differentiating between a pr
 
 -   Military service history
 
-Participants put those items under labels like "My Info", "Personal Information", "Profile", "History/Settings" and "Demographic Information"
+Participants who wanted to see or have access to this information from their personalized page put those items under labels like "My Info", "Personal Information", "Profile", "History/Settings" and "Demographic Information"
 
-4 participants weren't interested in including profile information on the page at all because they knew the VA had that information already so they had no need to review or access it. 
+4 of the 10 participants weren't interested in including profile information on the page at all because they knew the VA had that information already so they had no need to review or access it. 
 
 > "If my letter is coming in my name and has my address, then I don't care [to see it on my homepage] because it's right. You get killed by duplication of that."
 
@@ -300,9 +282,9 @@ Participants put those items under labels like "My Info", "Personal Information"
 
 1.  The way we're thinking about profile content aligns with how Veterans think about that information. 
 
-2.  Providing access to a separate profile section from the logged-in homepage will be useful to Veterans who do want access to that information, while keeping it out of the way of those who don't.
+2.  We'll need to consider how people access this information when revisiting the authenticated IA and navigation.  This study suggests giving access to a separate profile section from the logged-in homepage will be useful to Veterans who want that information, while keeping it out of the way of those who don't.
 
-3.  A small section on the logged in homepage with a few important profile details, with a link or button out to a profile section, would probably work for Veterans.
+3.  A small section on the logged in homepage with a few important profile details, with a link or button out to a profile section, would probably work for most Veterans.
 
 ### Participants typically look for notifications in the top portion of a page, but expect notifications from the VA outside of their logged-in experience.
 
@@ -329,6 +311,7 @@ Once prompted, participants said notifications about important updates and actio
 There wasn't a clear consensus on one place for notifications to appear within the page itself. About half of the participants talked about general, VA-wide notifications appearing at the top of the page, with notifications about a specific item on their page would be in-line with the item. Other participants talked about all notifications appearing in the navigation or upper right corner of the page. Participants easily understood, and reacted positively to the in-line notifications associated with each section on the blue-sky prototype. 
 
 "The way you had it laid out on the demo page was perfect."
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
 
 **Implications:** 
 
@@ -341,6 +324,8 @@ There wasn't a clear consensus on one place for notifications to appear within t
 ### A design like the blue sky prototype would be useful to Veterans.
 
 The blue sky prototype was extremely well received by 6 of the 8 of participants who saw it (this was added as an additional task after the first 2 sessions). They found many aspects of the blue sky prototype design helpful and easier to understand than the current logged-in homepage.  
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-cropped.png)
 
 -   The information summary and clear call to action in each card provided an at-a-glance understanding of the status of each item. People felt the information in each card related to their benefit was useful - some even stated it was exactly what they wanted to see.
 
@@ -415,7 +400,7 @@ This frequently came up during discussions around uploading documents, supplemen
 
 ### Participants perceive a lack of accountability and want more detailed information on their claim status, status of documents they've submitted, and cancelled appointments.
 
-As participants added items related to those categories to their personalized page, they talked about their items containing more details than they currently receive so they would know what was going on.  At least two participants specifically said they wanted to know more so there would be a sense of accountability and they knew someone at the VA was actually working on their item.
+As participants added items related to those categories to their personalized page, they talked about their items containing more details than they currently receive so they would know what was going on.  At least two participants specifically said they wanted to know more so there would be a sense of accountability and they knew someone at the VA was actually working on their item. They were strictly looking for more information and did not expect to be able to take any action based on the status update.
 
 > "Claim status - it would be nice if there was better accountability of where it was and what's happening. It's always very vague. It'd be nice to know if someone actually has this on their desk or not."
 
