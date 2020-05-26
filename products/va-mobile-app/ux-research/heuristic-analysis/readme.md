@@ -1,6 +1,9 @@
 # Heuristic Analysis Overview
 
-Individual web and mobile app heuristics: 
+## Heuristic Synthesis
+- [See PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf)
+
+## Individual web and mobile app heuristics: 
 - [Annie App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Annie-app.md)
 - [MHV](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/MHV.md)
 - [RX Refill](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/RX-refill.md)
