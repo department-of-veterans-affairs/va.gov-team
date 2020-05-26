@@ -1,7 +1,11 @@
 **Overview of this work**
 
 - A quick intro to this project.
-- Link to all research summaries.
+- [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
+- [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
+- [Past research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md)
+- [User interviews/co-design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+- [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md)
 
 **Findings & recs intro**
 
@@ -24,12 +28,13 @@
   - Comparative analysis: Dashboards aren't only notification info. Even if the info is dynamic, they have general "status"/about info, like account type and account balance.
 
 Base this on user testing:
+
 - What we should put on the dashboard:
   - How much of this is status/"in flight" content (eg. claim status, in progress applications, upcoming appointments)?
   - How much of this is "about me" (eg. disability rating)?
   - Something about how to handle records?
   - Something about how to handle learning about new benefits?
-  
+
 **Process recs**
 
 - Be strategic about involving outside stakeholders.
