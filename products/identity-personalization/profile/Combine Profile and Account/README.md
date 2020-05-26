@@ -203,7 +203,7 @@ Other metrics are qualitative:
 
 ## Target Launch Date
 - Target launch date is July 15th, 2020
-- We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     evaluate within 1 week of launch.
+- We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
 
 ---
 
