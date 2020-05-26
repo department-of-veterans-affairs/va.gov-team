@@ -9,7 +9,14 @@
 |----|----|----|
 |LOA1 user| User cannot see the rest of the profile and they are directed to verify their identity first.|Any LOA1 user|
 |LOA1 user| Does have 2FA (should also be directed to verify identity)|user 350|
-
+|LOA1 user|	Uses does not have 2FA (and should be directed to verify identity)|vets.gov.user.555@gmail.com|
+|LOA1 user|	Should NOT show terms and condtions section at all|user 350|
+|LOA3 user|	Should see entire profile and that they have verified identity |any LOA3 user|
+|LOA3 user|	User is not in MPI - we show MVI error that says "We're having trouble matching your information to our Veteran records.  We're sorry. We're having trouble matching your information to our Veteran records, so we can't give you access to tools for managing your health and benefits. If you'd like to use these tools on VA.gov, please contact your nearest VA medical center. Let them know you need to verify the information in your records, and update it as needed. The operator, or a patient advocate, can connect you with the right person who can help.|test locally (via Sandra Hallie)|
+|LOA3 user| (ID verified + 2FA)	should see that 2FA has been set up|	user 36|
+|LOA3 user| (ID verified w/o 2FA)	user should see prompt to set up 2FA	DS logon| user jamie.wood* (sometimes doesn’t work)|
+|User has accepted T+C| User sees "accepted" Terms and Conditions and is a healthcare user|	user 36|
+|User has not accepted T+C|	User sees message stating "X", and is a healthcare user|test locally (Sandra)|
 
 
 
