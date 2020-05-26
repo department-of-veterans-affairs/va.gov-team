@@ -5,7 +5,7 @@
 Building a mobile application for VA requires a significant amount of research in order to answer key questions that will ensure any product we develop meets Veterans' needs. While the team completed an initial Discovery Sprint, there are still some unanswered questions and additional validation that is required to determine the specifications of our solution.
 This research plan aims to explain the activities that we will use to answer the following guiding questions, validate our hypothesis and underlying bets for what will make for a successful VA Mobile application. Below is a graphic from our April 10, 2020 status update that includes each of these items:
 
-![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/Research%20Diagram.png "Diagram")
+![alt text](https://user-images.githubusercontent.com/7320097/82942015-5aacaa80-9f65-11ea-8699-64083081be7e.png "Diagram")
 
 
 
