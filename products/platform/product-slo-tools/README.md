@@ -1,57 +1,51 @@
-# Product/Service SLO Tools
+# WIP - Product/Service SLO Tools
+
+> This document is in DRAFT status and is subject to change
 
 ## Problem Statement
 
-We currently don't have SLO-culture, in order to data-drive decisions we need SLOs defined
+VFS teams currently don't have a consistent way to drive decisions on the platform based on product performance metrics.
 
-## Risks
+We aim to enforce an SLO culture, and in order to allow teams to drive decisions we need SLOs defined.
 
 ## Proposed Solution
 
-
-## Alternatives
-
-- datadog
-- home-rolled dashboard
+- Clearly delineate and define what makes a product on VSP
+- Work with VFS teams to configure sensible initial SLO on each product
+- Define a configuration template (YAML?) that can be used in monitoring, reporting, scripts, etc.
 
 ## Assumptions
 
-The Googly way
+- We define a service or a product as a discrete block of functionality on VA.gov
+- A `service` is some code that's compiled & released on networked infra that users access via the web
+- A `product` is a collection of `services`?
 
-- service or product? pick one? define a glossary?
-- servie is some code that's compiled & released on networked infra that users access via the web
+Maturity level of a given product could be:
 
-Maturity level could be:
+- greenfield - with no current deploys on the VSP
+- existing system in production, with some form of monitoring, yet no formal objectives exist, thus no error budget and an implicit 100% uptime goal
+- running deployments in production, with SLOs below 100%, yet with no common understanding on how to leverage SLO - "without teeth"
 
-- greenfield with no current deploys
-- system in prod w/ some monitoring (no formal objectives/error budget/100% goal)
-- running deployment w/ SLO below 100% w/o common understanding on how to leverage (SLO w/o teeth)
+In order to reach a productive positive feedback loop, the following state needs to be true for a given product:
 
+- SLOs are present and all stakeholders for the product approve
+- People responsible for product agree it is possible to meet SLOs as defined
+- Organization commits to using error budget for decision making/prioritizing work effort
+- Process is in place for refining the SLO over time
 
-State needs to see true for:
+### Risks
 
-- SLOs are present and all stakeholders approve for the product
-- People are responsible for ensuring service agree its possible to meet SLO
-- Organization commits to using error budget for decision making/priotizing (formalize this)
-- Process in place for refining the SLO
+- We don't know exactly what makes a useful product/service boundary
+- SLO compliance may be simply another KPI or metric that's not used as a decision-making tool
+- Increase confusion around how to configure and define applications
+- VFS teams aren't able to improve/meet SLO because of external factors
 
-Risk: SLO compliance is simply another KPI or metric that's not a decision-making tool
+### Alternatives
 
-> Even if you could achieve 100% reliability within your system, your customers would not experience 100% reliability. The chain of systems between you and your customers is often long and complex, and any of these components can fail.3 This also means that as you go from 99% to 99.9% to 99.99% reliability, each extra nine comes at an increased cost, but the marginal utility to your customers steadily approaches zero.
+- Define products in DataDog
+- Build a dashboard with Grafana for each product
 
->  it needs to be owned by someone in the organization who is empowered to make tradeoffs between feature velocity and reliability.
-
-> While many numbers can function as an SLI, we generally recommend treating the SLI as the ratio of two numbers: the number of good events divided by the total number of events. For example:
-
-    
-Choose one application for which you want to define SLOs. If your product comprises many applications, you can add those later.
-    
-Decide clearly who the “users” are in this situation. These are the people whose happiness you are optimizing.
-    
-Consider the common ways your users interact with your system—common tasks and critical activities.
-    
-Draw a high-level architecture diagram of your system; show the key components, the request flow, the data flow, and the critical dependencies. Group these components into categories listed in the following section (there may be some overlap and ambiguity; use your intuition and don’t let perfect be the enemy of the good).
-
+TODO:
 
 - [ ] templates for SLIs that we suggest using for products that make sense in our realm
   - [ ] numerator, denominator, threshold
