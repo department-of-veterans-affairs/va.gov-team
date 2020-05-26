@@ -16,7 +16,6 @@
 
 
 
-
 ### Test cases for "Connected Apps"
 
 |Test user|Test case|Staging user|
