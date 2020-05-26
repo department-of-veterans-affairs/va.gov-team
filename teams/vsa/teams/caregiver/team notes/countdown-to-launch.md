@@ -21,8 +21,8 @@ May 29, 2020
   - [x] Don't send isVeteran as null
   - [x] Don't send icn is isVeteran is false
   - [ ] Fix emis lookup issue - passing in ICN but it raises INVALID_INPUT.
-- [ ] Send CARMA requests through VA Proxy
-- [ ] Add Prod Credentials to deployment infrastructure
+- [ ] Send CARMA requests through VA Proxy (in PR)
+- [x] Add Prod Credentials to deployment infrastructure
 - [ ] Write and Merge PDF Attachment on CARMA Submissions** (this will be a stretch)
 - [ ] End-to-end testing with CARMA
 - [ ] Privacy & Security Review
