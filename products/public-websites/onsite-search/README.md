@@ -92,7 +92,9 @@ There are four areas of focus for this initiative:
 4. As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 
 ## User Insights
-- 
+- A deep dive review of Search-related data from Google Analytics and Search.gov is underway to determine the effectiveness of on-site search.
+- A qualitative study of the effectiveness of VA.gov's search experience may be necessary to derive the insight needed to formulate/validate product hunches.
+
 ## Analytics
 The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions related to VA.gov on-site search, including:
 
