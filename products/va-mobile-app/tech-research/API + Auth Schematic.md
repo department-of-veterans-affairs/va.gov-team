@@ -47,7 +47,6 @@ So if a mobile app needs an API, the question is not "Lighthouse vs. VA.gov". In
   - In practice, most developers are disciplined, breaking changes have been rare, and I don't think re-setting the mindset of VFS developers would be a big lift.
 
 ## Auth
-![Auth](https://user-images.githubusercontent.com/7320097/82939627-9f364700-9f61-11ea-8412-2980d67d0b64.png)
 
 Two intermingled questions: 
 1. Okta vs. SSOe OAuth
