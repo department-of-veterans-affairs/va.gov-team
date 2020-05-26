@@ -15,11 +15,10 @@
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback.
 
 ## Intro
-Good morning/afternoon and thank you for joining us today. (Add name) With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus today is the Disability Benefits sections.
+Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus today is the Disability Benefits sections.
 
 I have a few things I need to mention before we start:
 - The session should take about 45 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
-- We are not promoting or selling any product or service.
 - We're not testing **you** in any way--there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
 - Don't worry, I will not be offended by any opinions you express. Please be open about what you think.
 - Today we'll be working with a test version of a product we're developing. Most things will work, but there may be a few that don't behave the way you'd expect. Because we are using a test account and a test environment, none of your actions will affect your account or any VA information.
@@ -46,32 +45,18 @@ We'll be exploring made-up scenarios that don't necessarily apply to you. In any
 
 ## Workflow set 1 scenarios
 
-1. You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse. 
+1. You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse. (This scenario will involve add-spouse and report-divorce workflows either separately or in combination.)
 
-(This scenario will involve add-spouse and report-divorce workflows either separately or in combination.)
+2. You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent. (This scenario will require add-child and add-student (674) in combination.)
 
-2. You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent.
-
-(This scenario will require add-child and add-student (674) in combination.)
-
-3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your now 21-year-old stepchild just graduated college, and is no longer considered a dependent by VA.
-
-(This scenario will involve report-death and report-student-left-school workflows either separately or in combination.)
+3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your now 21-year-old stepchild just graduated college, and is no longer considered a dependent by VA. (This scenario will involve report-death and report-student-left-school workflows either separately or in combination.)
 
 ## Workflow set 2 scenarios
-1. You recently married and your spouse has two children. You want to claim all them as dependents.
+1. You recently married and your spouse has two children. You want to claim all them as dependents. (This scenario will involve add-spouse and add-child workflows either separately or in combination.)
 
-(This scenario will involve add-spouse and add-child workflows either separately or in combination.)
+2. Move forward years later, and you've had a recent divorce. Your ex-spouse and stepchildren have moved on. (This scenario will involve report-divorce and remove-stepchild workflows either separately or in combination.)
 
-2. Move forward years later, and you've had a recent divorce. Your ex-spouse and stepchildren have moved on.
-
-(This scenario will involve report-divorce and remove-stepchild workflows either separately or in combination.)
-
-It's been an eventful year for you. Two major events have occurred close together:
-
-3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your child is 17, but, with your consent, has recently married. You need to let VA know.
-
-(This scenario will involve report-death and report-child-marriage workflows either separately or in combination.)
+3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your child is 17, but, with your consent, has recently married. You need to let VA know. (This scenario will involve report-death and report-child-marriage workflows either separately or in combination.)
 
 ## Usability tasks
 
