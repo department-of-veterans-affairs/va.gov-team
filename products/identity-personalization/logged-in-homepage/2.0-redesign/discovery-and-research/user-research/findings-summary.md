@@ -164,7 +164,7 @@ A few participants mentioned saving their entire GI Bill benefit for their child
 
 1. Benefits outside of the high-priority health and disability categories are important to users, and should be accounted for on the logged-in homepage.  
 2. Information about how education benefits can be passed on to dependents would be useful to Veterans.
-3. The participants we recruited in the under 34 age group weren't able to make their session.  We should ensure future studies include younger Veterans and validate the priority of education benefit information, and exactly what information is needed, with this group in future studies.
+3. The participants we recruited in the under 34 age group weren't able to make their session.  We should make sure the next user study for the logged-in homepage includes younger Veterans so that we can validate the priority of education benefit information, and exactly what information is needed.
 
 ### Easy access to documents from the homepage was important for participants.
 
