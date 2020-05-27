@@ -1,8 +1,7 @@
 # Caregivers Product Outline
 - GitHub Label: #caregivers
 - Slack channel: #vsa-caregivers
-- VA.gov link: https://www.caregiver.va.gov/
-- Demo video link: n/a
+- VA.gov link: https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/
 - Product POCs: C.C. Gong, Alayna Abel
 
 ---
@@ -23,10 +22,8 @@
 - [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
 - [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
 - [Resources and Documentation](#resources-and-documentation)
-- [Keywords](#Keywords)
 - [Team](#team)
 - [Screenshots](#screenshots)
 
@@ -36,31 +33,31 @@
 
 ## User Problem Statement
 
-As a caregiver, it's difficult to apply for and manage benefits from the Program of Comprehensive Assistance for Family Caregivers (PCAFC).
+As a caregiver or veteran, it's difficult to apply for the Program of Comprehensive Assistance for Family Caregivers (PCAFC).
 
 ## Solution Goals
 
 ### User Goals
-- Caregivers want to be able to fill out the 1010-CG online.
-- Caregivers want to understand PCAFC eligibility and requirements.
-- Caregivers want to track the status of their application.
-- Caregivers want to be able to manage the benefits for themselves and the Veterans they care for
-- Caregivers want to have a single source of information relevant to being a Caregiver.
-- Caregivers want to be able to contact a support person from the VA.
+- Caregivers and veterans want to be able to fill out the 10-10CG online.
 
 ### Business Goals
 - Feed application data directly to CARMA
 - Accomodate the influx of applications that's expected due to changing program eligibility
+- Make the user journey feel safer and more accomodating 
 
 ## Assumptions
-- Caregivers and Veterans will fill out the 1010-CG online form rather than the paper form
+- Caregivers and Veterans will prefer to fill out the 1010-CG online rather than on paper.
 
 
 ## Requirements and Constraints
-- The paper 1010-CG requires wet signatures from both the Veteran and the Caregiver
+- The paper 10-10CG requires wet signatures from both the Veteran and the Caregiver
 - Many caregivers are used to filling out forms on behalf of their veterans
 - Caregiver/Veteran relationships may change
 - Some Veterans want to give their Caregiver access to all medical and benefits information, while others would not
+- All legal language from the paper form must be online
+- Phone numbers are required, e-mail addresses are not
+- Limit online applications to those with a verified VA profile
+- Send data to CARMA along with a PDF of the paper form will the filled-in information
  
 
 ## Discovery Takeaways
@@ -73,9 +70,8 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 ## Value Propositions
 
 #### User Value
- - Users will be able to submit the 1010-CG application online
- - Caregivers will be able to better understand the program
- - 
+ - Users will be able to apply for the PCAFC online
+
 
 #### Business Value
 - Start processing applications faster
@@ -84,18 +80,26 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 ## KPIs and OKRs
 
 ### KPIs
- - How many applications are submitted
- - How many applications are submitted online
- - How many applications are successful vs. unsuccessful
- - Qualitative metrics on the application process and overall experience
+- How many applications are submitted
+- How many applications are submitted online
+- How many applications are successful vs. unsuccessful
+- Qualitative metrics on the application process and overall experience
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports
 
 #### Baseline KPIs
-tbd
+- 
 
 ### OKRs
-tbd
+- Objective: Improve Caregiver application process
+    - KR: Increase submitted applications
+    - KR: Reduce the time it takes to fill out the 10-10CG
+    - KR: Reduce application processing time
+    - KR: Positive feedback from application process
+- Objective: Improve the Caregiver experience
+    - KR: Increase in the ratio of approved applications
+    - KR: Reduce application processing time
+
 
 --- 
 
@@ -103,16 +107,23 @@ tbd
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
+Note: as of 05/27, the program office has not made specific plans to release the online 10-10CG to the public. When they do, we'll reach out to CSCs and VSOs to broadcast the changes to the Caregiver community. 
+
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
 - *What is your date for when you'll evaluate impact after launch?*
+
+- Dark launch: 05/29/2020
+- Soft release: 07/30/2020
 
 ---
 
 # Implementation Info
 
 ## Status
-- As of January 2020, we're focused on launching the MVP of the form
+- Focused on launching the MVP of the form
+- Dark launch (only in staging): 05/29/2020
+- Soft release (Program approval of all online changes (not just the form): 06/30/2020
 
 ## Solution Narrative
 
@@ -125,9 +136,11 @@ tbd
 - Obtain static list of approved Caregiver facilities from CARMA
 - Create table in vets-api to link CARMA ID to form submission (+ date)
 
-** **May 31st - Launch online, unauthenticated 1010CG application experience to CSCs** **
+**May 29th - Dark launch**
+- Not public facing
+- Allow for testing end-to-end testing in Staging
 
-** **June 30th - Publish/market online, unauthenticated 1010CG application experience** **
+**June 30th - Soft release*
 
 **Post-June 30th**
 - Ability to attach Power of Attorney documentation
@@ -139,23 +152,13 @@ tbd
   - Use application ID number to query for status update
   - Work with MPI to return status there
 
-**Future, Phase 2**: 
-- Webpage MVP, Redesign of online PFCAC pages
-
-**Future, Phase 3**: 
-- Caregiver Portal - benefits after the application
-
-**Future, TBD**:
-- Facilities API as a source of truth
 
 ## How to Access and Test
-- Link: tbd
-- Password protection info: tbd
-- User authentication info: tbd
+- https://staging.va.gov/caregivers/
 
 ## Error Handling
-
-## Service Level Objective
+- If the Veteran cannot be found in MPI, the submission will not go through and the user will be prompted to print and fill out the paper form
+- The same error page will occur if the submission cannot flow through to CARMA for any other reason
 
 ## API Calls and Dependent Systems
  - CARMA backend integration
@@ -164,14 +167,8 @@ tbd
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
-- Technical Documentation: 
-- Product specs
-- Design
 - Roadmap: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png
 - ATO documentation
-
-## Keywords
-
 
 ## Team
 
@@ -193,6 +190,7 @@ tbd
 
 ### Screenshots
 #### Before: 
-https://www.va.gov/health-care/forms/vha-10-10CG.pdf, https://www.caregiver.va.gov/
+https://www.va.gov/health-care/forms/vha-10-10CG.pdf
+
 #### After:
 TBD
