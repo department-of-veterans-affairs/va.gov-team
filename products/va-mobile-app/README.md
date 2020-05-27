@@ -7,7 +7,7 @@ This folder is a conglomeration of documents about a VA mobile app, and our 2020
 ---
 
 ## Background
-Our 2020 reinvestigation started with a four-week [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint) to explore whether Veterans desire an app and if it would be technically feasible for VA to build one. The outcome of the sprint was a hypothesis that we are continuing to validate through [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md) and [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research). 
+Our 2020 reinvestigation started with a four-week [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint) to explore whether Veterans desire an app and if it would be technically feasible for VA to build one. The outcome of the sprint was a hypothesis that we are continuing to validate through [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md), [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research) as well as [quantitative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/quant-analysis).
 
 ## Guiding Questions
 Our research derives from three guiding questions:
