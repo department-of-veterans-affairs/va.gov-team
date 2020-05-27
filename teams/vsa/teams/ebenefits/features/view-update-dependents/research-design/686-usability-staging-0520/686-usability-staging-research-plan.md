@@ -82,7 +82,7 @@ This research effort will be successful if it gives clear indications regarding 
  - Are there any workflow combinations that would be problematic for users due to length and/or information detail required
 
 ### Method
-Usability testing will be conducted remotely using Zoom or GoToMeeting. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
+Usability testing will be conducted remotely using Zoom. Participants will be provided login credentials to a test account that will support their designated scenarios. These users will be given situations and a set tasks to perform. Workflows and tasks may be broken into separate groups, so users may run through the form multiple times. The moderator will guide and prompt users; observers and note-takers will document issues the participant encounter, as well as noting sections that users navigated easily.
 
 This methodology allows for direct observation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
 
@@ -90,7 +90,10 @@ This methodology allows for direct observation of users interactions with a near
 Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
 
 #### All participants
-- 12 Veterans
+- Recruitment through Perigeon
+  - 14 participants will be scheduled by Perigeon
+  - Our expectation is to interview 10 veterans.
+    - We are anticipating 4-6 no-shows based on veterans showing up more during the stay at home order
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
