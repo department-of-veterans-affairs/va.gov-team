@@ -12,7 +12,7 @@
 
    Also, the VSP Front-End Tools team is working on improving the Forms Library itself, and this research will help inform how we document the improvements and additions to it. We have an idea for structuring the documentation that we would like to validate: a "recipe" type of approach where developers are provided the building blocks they can assemble.
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research
+3. Research questions: What question(s) do you hope to be able to answer after completing this research?
   - How effective is the current structure/IA of the Forms System documentation?
     - Can developers find what they are looking for?
     - Does the technical forms documentation need to be separate from other documentation?
