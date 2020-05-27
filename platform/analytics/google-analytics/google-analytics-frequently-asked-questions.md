@@ -144,4 +144,4 @@ Analytics-Insights did not configure tracking to capture logins for users authen
 DOMO is a business intelligence tool purchased by the Analytics & Insights team early 2020. DOMO is where we produce our Product Success Tool and several other routine monthly reports. 
 
 ### How do we get a Product Success Tool built for our team? 
-Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is willing to assist with any questions you may have around KPI setting. 
+Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is here to assist with any questions you may have around KPI setting. 
