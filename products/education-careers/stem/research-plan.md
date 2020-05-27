@@ -21,7 +21,9 @@ During the initial implementation of the STEM Scholarship application as part of
 - What are users' expectations about how the direct deposit info they provide will be used?
 
 4. Hypothesis: What is your hypothesis for this research? 	
- - STEM-eligible users will be able to fill out most of the application with little outside research though some research (i.e. number of credit hours required to complete degree) is expected.  Users who are not eligible will abandon the application before submission when presented with clear alerts that their application will likely be denied.
+ - When presented with requirements, users will understand if they eligible for the STEM scholarship.  
+ - STEM-eligible users will be able to fill out most of the application with little outside research though some research (i.e. number of credit hours required to complete degree) is expected.  
+ - Users who are not eligible will abandon the application before submission when presented with clear alerts that their application will likely be denied.
  
 ## Method	
 1.	What method of research are you planning? 	
