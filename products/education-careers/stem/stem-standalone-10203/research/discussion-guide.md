@@ -9,6 +9,8 @@ Before we get started, a few things I want to mention:
 - During this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I won't be offended by any opinions you express and welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
 
+We will be working in a prototype so some functionality may not work as expected. You may click on something and nothing may happen.  In those cases, I'll let you know that the functionality isn't working and ask what you would expect to happen.
+
 Are you comfortable if I record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
 
   - If yes: Great - thank you.  Once I start recording, I'll ask again so we have your audible confirmation.
@@ -39,42 +41,49 @@ When you think aloud, it helps us understand what works well and where we might 
 
 I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
-## First Task: Apply for STEM - 15 minutes
+## First Task: Determine Eligibility - 15 minutes
 
-You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to schoool. How would you use this form to look into and potentially apply for the Rogers STEM scholarship?
-
-STEM-eligible:
-Program Details page Prompt - for this dropdown list, which option would you pick for the program you are taking?
-
-Non-STEM eligible:
-Upon discovering they are not eligible - what would you do at this point?
+You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. How would you use this form to determine if you were eligible for the Rogers STEM scholarship?
 
 Things to watch for:
 - Does the user look at the subway map?
--	Do any questions cause confusion or require additional research for users to answer?
-- Does the user try to skip any questions?
-- Does the user click the Additional Info component "What if I don't have a bank account?"?
-
-Non-STEM only:
-- How do users react to alerts and warnings about eligibility?
-
-
+- Where does the user look to determine eligibility?
+- Does the user read to determine eligibility or just start the application?
 
 **Upon completion of task:** 
-- How did you think that went? 
-- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+- What do you think the requirements are to be eligible for the STEM scholarship?
+  - STEM program of study / credit hours
+  - 6 months or less of benefit left
+  - Using Post 9/11 benefits
+- What did you think of how the requirements were communicated?
+- (If applicable) How do you keep track of how much of your benefit you have left?
+- Would you expect to be eligible for this scholarship?
+- In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 
+## Second Task: Apply for STEM (Eligible) - 15 minutes
 
-## Second Task: Ivy League school - 10 minutes
-
-You know that the Post 9/11 GI Bill covers Ivy League schools like Brown University, Harvard, Yale, Dartmouth, Princeton.  Let's say you wanted to know what costs would be covered at one of those schools.  Pick an Ivy League school of your choice and see what benefits you would receive at that institution.
+Let's say you are currently getting your undergraduate degree in Chemistry from Florida State University and would like to apply for the Rogers STEM scholarship.  How would you go about filling out this application?
   
   Things to watch for:
-  - How often and after what actions are users viewing “Estimate your benefits” panel to track changes there?
+  -	Do any questions cause confusion or require additional research for users to answer?
+  - Does the user try to skip any questions?
+  - Does the user click the Additional Info component "What if I don't have a bank account?"?
   
   Upon completion of the task:
-  - How do the benefits at this school compare to what you'd get at UNIVERSITY OF CALIFORNIA-BERKELEY?
+  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  
+## Second Task (Alternate?): Apply for STEM (Not Eligible) - 15 minutes
+
+Let's say you are currently getting your degree in Civil Engineering from Florida State University.  You have about 2 years left of education benefits, but would like to start the application and check to see if you're eligible.  How would you go about filling out this application?
+  
+  Things to watch for:
+  - How do users react to alerts and warnings about eligibility?
+  
+  
+  Upon completion of the task:
+  - What did you think of the alert?
+  - What would you do after you saw this message?
 
 
 
