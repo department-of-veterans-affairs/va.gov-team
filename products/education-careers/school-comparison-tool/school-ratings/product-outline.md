@@ -53,7 +53,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-   - 5-star rating system that can be utilized by Veterans and their beneficiaries who can verify their engagement with the institution they are reviewing. 
+   - 5-star rating system that can be utilized by Veterans and their beneficiaries who can verify their engagement with the institution they are reviewing. Include ratings of things like: 
+      - Overall Institution Rating
+      - Quality of Classes / Education
+      - Veteran Friendliness
+      - Employment Preparation 
+      - Recruiting/Marketing Practices
 - *Why this solution / approach over other solutions / approaches?*
    - This solution does not require a large amount of overhead for moderation or require as much legal or policy scrutiny because it does not include narrative reviews.
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
