@@ -9,6 +9,8 @@ This folder is a conglomeration of documents about a VA mobile app, and our 2020
 ## Background
 Our 2020 reinvestigation started with a four-week [discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/discovery-sprint) to explore whether Veterans desire an app and if it would be technically feasible for VA to build one. The outcome of the sprint was a hypothesis that we are continuing to validate through [ux-research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-plan.md), [tech-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/tech-research) as well as [quant-analysis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/quant-analysis).
 
+In addition to our research, students from Harvard Kennedy School (HKS) did their own exploration, which included a landscape survey, interviews, prototyping and final recommendations. Their extensive research materials can be found in the [HKS-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/HKS-research) folder. 
+
 ## Guiding Questions
 Our research derives from three guiding questions:
 1. What features should a VA mobile app include?
