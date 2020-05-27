@@ -28,12 +28,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - (If applicable) Where are you going to school?  What are you getting a degree in?
 2. Are you familiar with the Rogers STEM scholarship?
  - If yes, what have you heard?
-3.	Have you ever used the GI Bill Comparison Tool before?
-- If yes, fantastic! 
-  - When do you think the last time you used it was? 
-  - What were you looking for? 
-  - Do you recall how you first learned about it? 
-  - If no, no worries.  We're checking that out today and always appreciate getting a fresh perspective on it.
 
 
 For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
