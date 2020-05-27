@@ -2,7 +2,7 @@
 
 Overview: This document's purpose is to serve as a quick reference for commonly used Google Analytics metrics/dimensions and their definitions. 
 
-### Pageviews, Users, Sessions & Events
+## Interpreting User Interactions
 | Metric | Definition | Example(s) 
 | -------------- | --------- | --------- |
 Pageviews | Total number of pageviews (includes duplicates) | _Ex1_: Veteran A visits page A 3 times during their visit and page B 2 times during their visit. <br><br> - **Page A = 3 pageviews** <br> - **Page B = 2 pageviews**
