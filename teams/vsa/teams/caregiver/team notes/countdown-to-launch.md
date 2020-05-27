@@ -24,8 +24,8 @@ May 29, 2020
 - [ ] Send CARMA requests through VA Proxy (in PR)
 - [x] Add Prod Credentials to deployment infrastructure
 - [ ] Write and Merge PDF Attachment on CARMA Submissions** (this will be a stretch)
-- [ ] End-to-end testing with CARMA
-- [ ] Privacy & Security Review
+- [x] End-to-end testing with CARMA
+- [x] Privacy & Security Review
 
 
 ### Product
@@ -38,7 +38,7 @@ May 29, 2020
 - [ ] Understand post May 29 plans
 
 ### Design
-- [ ] Organize A11y findings
+- [x] Organize A11y findings
 
 
 
