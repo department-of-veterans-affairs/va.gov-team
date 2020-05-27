@@ -32,7 +32,7 @@ Before we start, a few things I want to mention:
 - **Are you comfortable if I record the screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 *Start recording.*
-- **I have started recording. I'd like to confirm: Are you comfortable if I record the screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record the screen the audio as we talk today?**
 
 ## First Task: Navigate to the forms library documentation
 
@@ -96,7 +96,7 @@ _Share link to recipe format_
 
 [This section will probably need to be updated once the recipe type of format is ready]
 
-## Post-Task Interview - X minutes
+## Post-Task Interview
 
 That covers all of the things we wanted to talk about with you today! 
 
@@ -105,7 +105,7 @@ That covers all of the things we wanted to talk about with you today!
 - Before we wrap up, do you have any questions for me? 
 - Please send any links that you mentioned to #vsp-content-ia
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on our documentation and make sure it works for developers.
 
