@@ -58,7 +58,7 @@ A custom dimension is a dimension that Google Analytics does not capture by defa
 ### What is a "custom metric" in Google Analytics? 
 A custom metric is a metric that Google Analytics does not capture by default (out-of-box). Custom metrics require "custom" work to collect and measure relevant quantitative values. Custom metrics are often configured by the Analytics & Insights team as part of our build process to give additional context numerically. Address Validation Needed is an example custom metric within the VA.gov production property. 
 
-## What is a "view" in Google Analytics? 
+### What is a "view" in Google Analytics? 
 A "view" is a subset of a Google Analytics property that can have its own unique configuration settings. Each view will contain specific filters + configurations that clean and transform to organize collection. 
 
 ### What is a "custom report" in Google Analytics? 
