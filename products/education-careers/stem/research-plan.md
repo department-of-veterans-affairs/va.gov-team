@@ -4,6 +4,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1. What product & team are you doing this research for?	
 - Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+
 Currently, Veterans applying for the Rogers STEM Scholarship to extend their CH33 benefits must use the 22-1995 form (Request for Change of Program or Place of Training). The addition of STEM scholarship questions to this form was a temporary solution while decisions on a stand-alone form were made.
 
 With the inclusion of the STEM scholarship as part of the 22-1995, adjustments were made to the form which allowed users with 2 different goals to use the same form. With the introduction of a new, separate form for the Rogers STEM Scholarship, users will be able to complete the form they need, thus streamlining the application process for all users.
@@ -20,6 +21,8 @@ During the initial implementation of the STEM Scholarship application as part of
 - What are users' expectations about how the direct deposit info they provide will be used?
 
 4. Hypothesis: What is your hypothesis for this research? 	
+ - STEM-eligible users will be able to fill out most of the application with little outside research though some research (i.e. number of credit hours required to complete degree) is expected.  Users who are not eligible will abandon the application before submission when presented with clear alerts that their application will likely be denied.
+ 
 ## Method	
 1.	What method of research are you planning? 	
   - Remote moderated usability testing 	
