@@ -68,7 +68,8 @@ Please use this guide for more information.
                     href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics">Other
                     helpful Google Analytics/Google Tag Manager documents</a></li>
             <li>
-                [FAQ]
+                <a
+		   href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-frequently-asked-questions.md">FAQ</a>
             </li>
         </ul>
     </li>
