@@ -18,7 +18,7 @@ While it will be important to cover as much of this guide as possible during use
 Good morning/afternoon and thank you for joining us today. With me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus today is the Disability Benefits sections.
 
 I have a few things I need to mention before we start:
-- The session should take about 45 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
+- The session should take about 60 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may occasionally break-in to move us to the next item.
 - We're not testing **you** in any way--there are no right or wrong answers. We want to hear your thoughts about what we show you so that we can make improvements to VA.gov.
 - Don't worry, I will not be offended by any opinions you express. Please be open about what you think.
 - Today we'll be working with a test version of a product we're developing. Most things will work, but there may be a few that don't behave the way you'd expect. Because we are using a test account and a test environment, none of your actions will affect your account or any VA information.
