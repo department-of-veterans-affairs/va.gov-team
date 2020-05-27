@@ -13,21 +13,20 @@
    Also, the VSP Front-End Tools team is working on improving the Forms Library itself, and this research will help inform how we document the improvements and additions to it. We have an idea for structuring the documentation that we would like to validate: a "recipe" type of approach where developers are provided the building blocks they can assemble.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research
-
-   1. How effective is the current structure/IA of the Forms System documentation?
-      1. Can developers find what they are looking for?
-      2. Does the technical forms documentation need to be separate from other documentation?
-   2. What are the biggest information gaps in the forms system documentation site?
-      1. What questions does the documentation successfully answer?
-      2. What questions do developers still have after reading the documentation?
-      3. What questions do developers frequently ask teammates or VSP staff during or after reading the documentation?
-      4. What other resources do developers use to supplement the documentation site if they still have questions?
-   3. How effective is the recipe format and structure for helping developers make decisions? 
+  - How effective is the current structure/IA of the Forms System documentation?
+    - Can developers find what they are looking for?
+    - Does the technical forms documentation need to be separate from other documentation?
+  - What are the biggest information gaps in the forms system documentation site?
+    - What questions does the documentation successfully answer?
+    - What questions do developers still have after reading the documentation?
+    - What questions do developers frequently ask teammates or VSP staff during or after reading the documentation?
+    - What other resources do developers use to supplement the documentation site if they still have questions?
+  - How effective is the recipe format and structure for helping developers make decisions? 
 
 1. Hypothesis: What is your hypothesis for this research? 	
-   1. Our hypothesis is that engineers on VFS teams find the documentation site helpful when they are first getting started, but less helpful when they are making important and more advanced decisions about their forms.
-   2. Gaps in the forms system documentation lead to VFS team engineers creating their own reference materials that meet their needs.
-   3. The recipe structure will be an effective way to help developers make decisions about their forms.
+  - Our hypothesis is that engineers on VFS teams find the documentation site helpful when they are first getting started, but less helpful when they are making important and more advanced decisions about their forms.
+  - Gaps in the forms system documentation lead to VFS team engineers creating their own reference materials that meet their needs.
+  - The recipe structure will be an effective way to help developers make decisions about their forms.
 
 
 ## Method	
