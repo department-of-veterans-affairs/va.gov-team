@@ -2,6 +2,7 @@
 
 ## Synthesis
 - [See PDF of Mural here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Heuristic%20Analysis%20Synthesis.pdf)
+- [VA App Ratings Inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/ratings-data.md)
 
 ## Individual web and mobile app heuristics: 
 - [Annie App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/Annie-app.md)
@@ -13,7 +14,6 @@
 - [Vets App 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/vets-app-1.md)
 - [Vets App 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/vets-app-2.md)
 
-[VA App Ratings Inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/heuristic-analysis/ratings-data.md)
 
 ## Heuristic Analysis Template
 
