@@ -1,4 +1,4 @@
-# Product Outline [Template]
+# Product Outline: School Ratings
 ---
 
 ## Overview
