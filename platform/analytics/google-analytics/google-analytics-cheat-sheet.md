@@ -27,7 +27,7 @@ Pages / Session | The average amount of pages a user visits per session. | Veter
 
 
 
-### Traffic Source Dimensions/Metrics
+## Traffic Source Dimensions/Metrics
 | Dimension | Definition | Example(s) 
 | -------------- | --------- | --------- |
 Source | _Where_ the traffic has come from coming from. Commonly grouped with medium, source is designed to be slightly more specific than medium. | _Ex1_: Veteran A clicks on a link within a newsletter that takes him to a specific page of VA.gov. The URL Vet A clicked on in the newsletter is `utm_source=Newsletter`: <br><br> **Source = Newsletter** <br><br>_Ex2_: Veteran A types va.gov directly into their browser URL bar and lands on the site. <br><br> **Source = Direct** 
@@ -36,7 +36,7 @@ Campaign | The marketing campaign being executed to drive users to the site. | _
 Landing Page | Page where the user began their session, where they entered the site. | _Ex1_: Veteran A clicks on a newsletter link that lands them on the COVID 19 FAQ page. <br><br> **Landing Page = /coronavirus-frequently-asked-questions**
 Entrances | Number of times the specific page was the first viewed in the session | _Ex1_: Veteran A, B + C click on a VEText that lands them directly on a Page Z. <br><br> **Page Z Entrances = 3**
 
-### Scroll Depth 
+## Scroll Depth 
 - The Analytics and Insights team currently **does not** track scroll depth of every page of VA.gov. 
 - Our team has been incrementally adding new pages to those tracked by scrolling to help manage the hit volume of Google Analytics for these events
 - When looking at scroll depth, its extremely important to make sure the page is identified where you want to see scroll depth - otherwise the metrics will be aggregates of everywhere we are doing scroll tracking
