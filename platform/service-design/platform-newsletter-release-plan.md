@@ -15,7 +15,7 @@
 - Using personal email send newsletter to participants.
 - Set deadline of 6/5 to complete survey.
 - Planning "success" criteria (by the numbers): 
-  - > 15 subscribers
+  - 15 subscribers
   - 100% of emails opened
   - 50% click-through rate for links
   - Qualitative feedback from newsletter survey
