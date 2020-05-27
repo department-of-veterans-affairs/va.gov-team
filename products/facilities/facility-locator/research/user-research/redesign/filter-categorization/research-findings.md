@@ -2,7 +2,7 @@
 May 2020
 
 ## Methodology
-We launched an unmoderated self-guided card sort exercise and sent it via a URL to 60 Veterans using our Perigean contract.
+We launched an unmoderated self-guided card sort exercise and sent it via link to 60 Veterans using our Perigean contract.
 
 ## Summary
 
