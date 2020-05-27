@@ -10,6 +10,7 @@ Currently, Veterans applying for the Rogers STEM Scholarship to extend their CH3
 With the inclusion of the STEM scholarship as part of the 22-1995, adjustments were made to the form which allowed users with 2 different goals to use the same form. With the introduction of a new, separate form for the Rogers STEM Scholarship, users will be able to complete the form they need, thus streamlining the application process for all users.
 
 During the initial implementation of the STEM Scholarship application as part of the 22-1995, an issue arose where a high number of ineligible people (>80% of applicants) were applying for the scholarship, resulting in significant work for the application processors. Steps were taken to address that as part of the 22-1995, and an integral part of the new form is to continue to drive the number of ineligible submissions down.  
+
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
 - What do users understand about scholarship eligibility? (e.g. their program of study, credit hours, entitlement exhaustion)
