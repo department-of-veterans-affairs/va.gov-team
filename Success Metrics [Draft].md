@@ -3,9 +3,8 @@
 - Average holding times: currently not available. 
   - How are we able to tie this to the chatbot experience? On hold until we see numbers for hold times 
 - Metrics on the frequency of phone number clicks to speak to someone within the chatbot
-  - Google Analytics will be able to track this. Add a request to do this. Current GH ticket: #241
+  - Google Analytics will be able to track this. Current GH ticket: #241
 - Metrics on the frequency a veteran gets routed elsewhere due to calling the wrong number
-  - Analytics team will follow-up on this 
   
 **Metrics on how the chatbot is improving Veteran access to information--**
 - Veteran is routed to an online resource (URL links): Are the veterans clicking on links provided within the chatbot?
@@ -22,4 +21,3 @@
     - Time spent on the FAQ page vs. chatbot 
     - Incoming traffic to FAQ vs. outgoing traffic to chatbot
  - Chatbot rating vs. ratings on other pages on VA.gov 
-  - Analytics team will send the list of other VA pages where 5-star rating is captured today
