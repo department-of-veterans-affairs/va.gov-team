@@ -47,9 +47,9 @@ Agenda Items:
 - QA
   -WHVAH
     - Any additional Vetexts coming out?
-      *_Chante informaed that a Vetext was due to be sent out on 5/22/2020, but that did not occur at the last minute._
+      -_Chante informaed that a Vetext was due to be sent out on 5/22/2020, but that did not occur at the last minute._
     - Call center modernization: Have there been any issues with chatbot and if so, whom do users contact?
-      *_Chante has advised that there have been no reported issues for chatbot and that if there were an issue, then the user would probably call in to the call center and have their question answered.  She will provide them with the demo video for the chatbot, but there should be no need for troubleshooting, but if so, to notify us so that we can assist accordingly._
+      -_Chante has advised that there have been no reported issues for chatbot and that if there were an issue, then the user would probably call in to the call center and have their question answered.  She will provide them with the demo video for the chatbot, but there should be no need for troubleshooting, but if so, to notify us so that we can assist accordingly._
     - Discussion regarding routing to tier 2 and tier 3 in the future.  What does that look like?  What would we (VSP Contact Center Team) want that routing process to look like?
-      *_Chante and I will meet to discuss what we would want that routing to look like. Brainstorm for the phased roll out.
+      -_Chante and I will meet to discuss what we would want that routing to look like. Brainstorm for the phased roll out.
 
