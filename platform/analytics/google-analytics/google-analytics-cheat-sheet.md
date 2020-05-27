@@ -47,7 +47,7 @@ Landing Page | Page where the user began their session, where they entered the s
 When interpreting this data: 
 - You should see the "Event Label" populate with each percentage (25% - 100%). 
 - "Total Events" will tell you how many total times a user scrolled to that percentage - including those times where they scrolled up-and-down multiple times to reach those percentages. 
-- "Unique Events" will tell you how many total times a user scrolled to that percentage - and exclude those times where they scrolled up-and-down multiple times to reach those percentages. 
+- "Unique Events" will tell you how many total times a user scrolled to that percentage - excluding those times where they scrolled up-and-down multiple times to reach those percentages. 
 
 _When these two numbers (total and unique events) are close to one another, that's a positive inference that users are not needing to excessively scroll to find what theyre looking for...When these numbers are not close to one another, that's a concern users are needing to excessively scroll._ 
 
