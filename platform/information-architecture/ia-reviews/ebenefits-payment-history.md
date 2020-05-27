@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: NOT STARTED**
+**STATUS: IN PROGRESS**
 
 **Team:** eBenefits 
 
@@ -7,33 +7,47 @@
 
 **Background/Context:**  Part of the eBenefits migration work.  
 
-**IA Completed Date:** 
-
-**IA Review Issue:** 
+**IA Request:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9050
 
 <hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+#### Approach:
+- The standard approach for authenticated tools is to have a static page available to unauthenticated users that allows stakeholders to manage content and messaging and provides an SEO landing page. This page will prompt users to sign in or create an account and then be directed to the tool. 
+- Unauthenticated users who are linked directly to the tool, will be sent to the static content page first and prompted to sign in. 
+- Authenticated users who are linked directly to the tool, will bypass the static page and go directly to the tool.
+- Authenticated users who are linked to the static content page, will bypass the static page and go directly to the tool.
+- Given this tool is not specific to a single benefit, it will live independent of the benefit hubs within the IA.
 
-- 
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/164e56c0-787d-4bb9-a220-deb4f8f5cc75)
 
 
-Page | URL | Breadcrumb
---- | --- | ---
-
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
+Page | URL | Breadcrumb | Details
+--- | --- | --- |
+VA payment history static content page | https://www.va.gov/va-payment-history/ | Home > View VA payment history | This is an existing static content page.  No changes are needed to the URL or breadcrumb of this page. 
+Payment history tool | https://www.va.gov/va-payment-history/payments  | Home  > View VA payment history | The breadcrumb for the tool does not include a link to the static page since authenticated users bypass the static page. 
 
 <hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+Priority | Placement | Link to | Description
+--- | --- | --- | ---
+Must | [Home page](https://www.va.gov/) | https://www.va.gov/va-payment-history/ | Update link within Disability top task box to new URL
+Must | Top nav | https://www.va.gov/va-payment-history/ | Update link for "View VA payment history" in the each of the following fly-outs: Disability, Education, Pension, Records
+Must | [Disability hub page](https://www.va.gov/disability/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
+Must | Disability hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
+Must | [Education hub page](https://www.va.gov/education/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
+Must | Educaton hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
+Must | [Pension hub page](https://www.va.gov/pension/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
+Must | Pension hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
+Must | [Records hub page](https://www.va.gov/records/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" to new URL
+Must | Records hub left nav | https://www.va.gov/va-payment-history/ | Update link to new URL
+Must | [VA Payment History page](https://www.va.gov/va-payment-history/) | https://www.va.gov/va-payment-history/payments | Replace existing eBenefits content/button with sign in component and link to new tool. 
+Consider | [My VA](https://www.va.gov/my-va/) | https://www.va.gov/va-payment-history/ | Add a link to "View VA Payment History" along with teaser text under the "Manage your health and benefits" section of the page.  
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -42,10 +56,7 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
-
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
-*For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
+- It is assumed that the technical team for eBenefits will handle the redirect of the legacy tool URLs when the tool is sunset. The VA.gov team is unable to implement redirects for ebenefits.va.gov URLs.
 
 
 <hr>
