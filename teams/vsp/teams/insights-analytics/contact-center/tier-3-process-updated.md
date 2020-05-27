@@ -1,3 +1,5 @@
+# Tier 3 Process
+
 This document outlines the process for identifying, triaging and escalating Tier 3 VA.gov issues. This document covers how the VSP Contact Center Team will engage VFS teams to address and resolve Tier 3 issues found in their products. Please note, that this bug reporting pr
 
 ## Tier 3 Issues and Priority Definitions
