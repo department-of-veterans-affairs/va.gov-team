@@ -1,4 +1,4 @@
-# Product Outline: Comparison Tool/College Scorecard Data Integration
+# Product Outline: Comparison Tool + College Scorecard Data Integration
 ---
 
 ## Overview
