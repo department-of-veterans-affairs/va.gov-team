@@ -56,12 +56,25 @@ Things to watch for:
   - 6 months or less of benefit left
   - Using Post 9/11 benefits
 - What did you think of how the requirements were communicated?
+- If you were unsure if your degree qualified for STEM, what would you do?
 - (If applicable) How do you keep track of how much of your benefit you have left?
 - Would you expect to be eligible for this scholarship?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
+## Second Task: Apply for STEM (Eligible participants ONLY) - 15 minutes
 
-## Second Task: Apply for STEM (Eligible) - 15 minutes
+Let's say you wanted to apply for the STEM scholarship. How would you go about filling out this application?
+  
+  Things to watch for:
+  -	Do any questions cause confusion or require additional research for users to answer?
+  - Does the user try to skip any questions?
+  - Does the user click the Additional Info component "What if I don't have a bank account?"?
+  - If ineligible, how does the user react to ineligibility alert?
+  
+  Upon completion of the task:
+  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+
+## Second Task: Apply for STEM (Non-eligible participants ONLY) - 15 minutes
 
 Let's say you are currently getting your undergraduate degree in Chemistry from Florida State University and would like to apply for the Rogers STEM scholarship.  How would you go about filling out this application?
   
@@ -73,9 +86,9 @@ Let's say you are currently getting your undergraduate degree in Chemistry from 
   Upon completion of the task:
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
   
-## Second Task (Alternate?): Apply for STEM (Not Eligible) - 15 minutes
+## Alternate Second Task (Non-eligible participants ONLY): Not Exhausted Benefits - 15 minutes
 
-Let's say you are currently getting your degree in Civil Engineering from Florida State University.  You have about 2 years left of education benefits, but would like to start the application and check to see if you're eligible.  How would you go about filling out this application?
+Let's say you are currently getting your degree in Civil Engineering from Duke University.  You have about 2 years left of education benefits, but would like to start the application and check to see if you're eligible.  How would you go about filling out this application?
   
   Things to watch for:
   - How do users react to alerts and warnings about eligibility?
@@ -91,7 +104,7 @@ Let's say you are currently getting your degree in Civil Engineering from Florid
 
 Those are all the tasks I have for you today. 
 
--	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
+-	Do you have general thoughts or feedback on the application that you’d like to share? 
 -	Any questions for me?
 - I want to give a chanced to the other people on the line to ask a question.
 
