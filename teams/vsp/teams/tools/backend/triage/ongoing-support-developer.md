@@ -74,6 +74,7 @@ It is *100%* acceptable to delegate the request, whatever it is, to someone more
 **The utility developer will...**
 
 * unassign theirself from the [Super Epics]
+* add the utility developer who is rotating on to the [#vsp-backend-utility-dev] Slack channel
 * remove theirself from the [#vsp-backend-utility-dev] Slack channel
 * ensure that all of the PRs reviewed are linked to the [Code Review][Super Epics] ticket for the sprint
 
