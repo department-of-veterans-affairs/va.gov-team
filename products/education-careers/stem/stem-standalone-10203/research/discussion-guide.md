@@ -27,6 +27,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 1.	Are you currently using or have you ever used your GI Bill education benefits?
 - (If applicable) Where are you going to school?  What are you getting a degree in?
 2. Are you familiar with the Rogers STEM scholarship?
+ - If yes, what have you heard?
 3.	Have you ever used the GI Bill Comparison Tool before?
 - If yes, fantastic! 
   - When do you think the last time you used it was? 
