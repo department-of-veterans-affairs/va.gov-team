@@ -98,7 +98,7 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
 - Several Veterans (3+) with Total Rated Disability of 80% or greater and cognitive disabilities
-- Sessions will run approximately 45 minutes
+- Sessions will run approximately 60 minutes
 
 #### Group 1
 - Fits any of the following:
