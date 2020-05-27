@@ -25,4 +25,5 @@
 ### 11 x 17 poster
 
 - [No QR code, No Shortcode](11x17-NoQR-NoShortcode-dark-bg.pdf)
+- [No QR code, Yes Shortcode](11x17-NoQR-YesShortcode-dark-bg.pdf)
 
