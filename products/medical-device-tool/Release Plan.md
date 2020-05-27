@@ -1,9 +1,16 @@
+## Current Traffic on legacy site 
+
+Monthly Orders: 7,000
+Monthly Traffic: Not captured
+Abandon Rate: Not Captured 
+
 ## Phase 1: Soft Launch
 
 DLC will have a banner inviting Veterans to try out the new ordering system and announcing transition to new system with date TBD            
 
 - The links on VA.gov will be hidden behind a feature flag during this soft launch period
 - Depending on traffic, issues captured, the soft launch will last 5-7 days while we gather KPIs, work bugs.  
+- Projecting at least 100 orders and <20% abandon rate to move to Phase 2 
 
 ## Phase 2: 20% of Traffic 
 
