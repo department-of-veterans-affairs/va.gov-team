@@ -135,6 +135,7 @@ The target date for the pilot session is TBD.
 | Date | Time (EST) |
 | :---------- | :---------- |
 | Month XX | Time AM to Time PM |
+- Please leave 30 mins between sessions. 
 
 
 ### Team members
