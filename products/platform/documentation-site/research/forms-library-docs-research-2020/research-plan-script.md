@@ -80,8 +80,7 @@ Please list the people who will be serving in each role.
 
 - Project Brief: 	
   *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-  *Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/forms-library-docs-research-2020/conversation-guide.md)
 - Synthesis	
   *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
