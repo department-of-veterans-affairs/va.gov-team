@@ -14,15 +14,15 @@ During the initial implementation of the STEM Scholarship application as part of
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
 - What do users understand about scholarship eligibility? (e.g. their program of study, credit hours, entitlement exhaustion)
-- Do users expect the system to tell them if they are eligible?  And if so, how?
-- Do users understand the requirements for their program of study to be STEM eligible?
-- Do users understand the requirements for the amount of their remaining entitlement for STEM eligibility?  Do they know how much entitlement they have remaining?
-- What are user expectations for how ineligible applications are handled?
-- How well can users answer the questions asked (e.g. need to do additional research, need helper text, etc.)?
+  - Do users expect the system to tell them if they are eligible?  And if so, how?
+  - Do users understand the requirements for their program of study to be STEM eligible?
+  - Do users understand the requirements for the amount of their remaining entitlement for STEM eligibility?  Do they know how much entitlement they have remaining?
+- What are user expectations for how ineligible applications are handled while they are filling out the application?
+- Do any questions cause confusion or require additional research for users to answer?
 - What are users' expectations about how the direct deposit info they provide will be used?
 
 4. Hypothesis: What is your hypothesis for this research? 	
- - When presented with requirements, users will understand if they eligible for the STEM scholarship.  
+ - When presented with requirements, users will understand if they eligible for the STEM scholarship and be able to successfully complete and submit the application.  
    - STEM-eligible users will be able to fill out most of the application with little outside research though some research (i.e. number of credit hours required to complete degree) is expected.  
    - Users who are not eligible will abandon the application before submission when presented with clear alerts that their application will likely be denied.
  
@@ -54,7 +54,7 @@ During the initial implementation of the STEM Scholarship application as part of
 - Recruitment will be performed by Perigean Technologies	
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-- June 4 - 5, 2010 	
+- June 4 - 5, 2020 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 - By COB June 2, 2020
 3. Length of Sessions: How long do you estimate each session will be? 	
