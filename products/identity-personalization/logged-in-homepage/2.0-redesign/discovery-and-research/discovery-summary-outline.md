@@ -1,4 +1,4 @@
-# Logged-in homepage: Discovery summary
+# Logged-in homepage: Discovery summary outline
 
 1.	Background
 2.	What we did
