@@ -37,5 +37,9 @@ Technically some additional complexity arises because:
 * (C4) If VA.gov attempts auto-login, and receives a SAML response indicating multiple MHV IDs or EDIPIs, VA.gov intends to stop login from occurring. But, right now we show an error page to the user which may be jarring for users who just navigated to VA.gov to browse unauthenticated content (as opposed to users who explicitly clicked sign-in).
 * (C5) If VA.gov attempts auto-login and receives a SAML response indicating that the user doesn't have an ID.me UUID, VA.gov intends to force the user to do one-time re-authentication to establish that identifier. 
 
+There are scenarios here where a user can't ever successfully establish a VA.gov session (e.g. until they contact support to resolve multiple MHV IDs), so we can't keep trying arbitrarily many times. 
+
+But also, we don't want to land in this state because at this point the VA.gov UI will show the user as logged out, but they will in fact have an active SSOe session (and no way to terminate it). This poses a risk of the user walking away from the computer with an active SSOe session. 
+
 ### Details: Box D
 * The lower-right box is generally a "success state" for logged out user. Either no sign-in attempt has happened at all, the user explicitly signed out, or was signed out automatically due to inactivity or because the SSOe session was detected as having ended elsewhere. 
