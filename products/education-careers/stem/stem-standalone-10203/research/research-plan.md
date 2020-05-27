@@ -38,16 +38,18 @@ During the initial implementation of the STEM Scholarship application as part of
 - We will be testing content and flow using high fidelity prototypes
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
   - Zoom 
+  
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
 - 8 participants
-- 5-6 individuals who are STEM eligible
-- 1-3 individuals who are not STEM eligible
+  - 5-6 individuals are currently pursuing an undergraduate degree in Science, Technology, Engineering, or Math (STEM) OR already have a STEM degree and are pursuing a teaching certification
+  - 2-3 individuals who are currenlty pursuing a degree in a field that is not Science, Technology, Engineering, or Math
 - Age Range: 18-65
 - Geography: Geographically dispersed across US
 - VA Benefit requirement: Post-9/11 GI Bill benefits
-- Technology: Access to a computer, preferably running Google Chrome browser; Assistive technologies (for some); Access to a mobile device (for some)
+- Technology: Access to a computer, preferably running Google Chrome browser 
 - Familiarity with technology: Any
+
 2.	What is your recruitment strategy? 	
 - Recruitment will be performed by Perigean Technologies	
 ## When? 	
@@ -58,8 +60,8 @@ During the initial implementation of the STEM Scholarship application as part of
 3. Length of Sessions: How long do you estimate each session will be? 	
 - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-- June 4, 2020 from 8 - 11 AM, 12 PM - 6 PM
-- June 5, 2020 from 8 - 11 AM, 12 PM - 6 PM
+- June 4, 2020 from 8 - 11 AM, 12 PM - 2PM, 3-6 PM
+- June 5, 2020 from 8 - 11 AM, 12 PM - 3 PM
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 - June 3, 2020
@@ -72,7 +74,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Amy Knox
 - Participant(s) for pilot test:
 - Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
-- Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov	
+- Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com	
+
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
