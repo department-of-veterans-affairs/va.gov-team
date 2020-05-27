@@ -95,11 +95,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: BAH
+- GitHub Label: BAH-RVRSS
+- Slack channel: bah-team
+- Product POCs: Darrell Neel
+- Stakeholders: Darla van Nieukerk (OIT), Joe Preisser (EDU), Joe Welton (EDU), Brian Grubb (EDU)
 
 </details>
 
@@ -107,10 +107,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Matt Self
+ - PM: Will McCormack
+ - Product Lead: Darrell Neel
+ - Engineering: Dan Shawkey
+ - Research/Design: Amy Knox, Cindy Cruz, Jen Jones
+ - Scrum Master: Desiree Turner
+ - QA: Michael Delli-Gatti, Adam Sonntag
  
 </details>
 
