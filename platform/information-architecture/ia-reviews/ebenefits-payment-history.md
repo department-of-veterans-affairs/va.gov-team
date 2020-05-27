@@ -25,7 +25,7 @@
 
 
 Page | URL | Breadcrumb | Details
---- | --- | --- |
+--- | --- | --- | ---
 VA payment history static content page | https://www.va.gov/va-payment-history/ | Home > View VA payment history | This is an existing static content page.  No changes are needed to the URL or breadcrumb of this page. 
 Payment history tool | https://www.va.gov/va-payment-history/payments  | Home  > View VA payment history | The breadcrumb for the tool does not include a link to the static page since authenticated users bypass the static page. 
 
