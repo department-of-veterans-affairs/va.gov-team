@@ -39,11 +39,17 @@ Landing Page | Page where the user began their session, where they entered the s
 ### Scroll Depth 
 - The Analytics and Insights team currently **does not** track scroll depth of every page of VA.gov. 
 - Our team has been incrementally adding new pages to those tracked by scrolling to help manage the hit volume of Google Analytics for these events
-- For pages that do have we hope this helps with interpretation of this interaction. Please feel free to [add this custom report](https://analytics.google.com/analytics/web/#/my-reports/-_9QcMXYSbKX2ufrHoBbNQ/a50123418w177519031p184624291/_u.date00=20200521&_u.date01=20200527/) to the correct production view. 
+- When looking at scroll depth, its extremely important to make sure the page is identified where you want to see scroll depth - otherwise the metrics will be aggregates of everywhere we are doing scroll tracking
+- For pages we do have tracked we hope this helps with interpretation of this interaction. Please feel free to [add this custom report](https://analytics.google.com/analytics/web/#/my-reports/-_9QcMXYSbKX2ufrHoBbNQ/a50123418w177519031p184624291/_u.date00=20200521&_u.date01=20200527/) to the correct production view. 
 
 ![Example Scroll Depth Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics/example-scroll-depth-report.PNG)
 
-When interpreting this data -- You should see the "Event Label" populate with each percentage (25% - 100%). Total Events will tell you how many total times a user scrolled to that percentage - including those times where they scrolled up-and-down multiple times to reach those percentages. Unique Events will tell you how many total times a user scrolled to that percentage - and exclude those times where they scrolled up-and-down multiple times to reach those percentages. When these numbers are close to one another, that's a positive understanding that users are not needing to excessively scroll. When these numbers are not close to one another, that's a concern users are needing to excessively scroll. 
+When interpreting this data: 
+- You should see the "Event Label" populate with each percentage (25% - 100%). 
+- "Total Events" will tell you how many total times a user scrolled to that percentage - including those times where they scrolled up-and-down multiple times to reach those percentages. 
+- "Unique Events" will tell you how many total times a user scrolled to that percentage - and exclude those times where they scrolled up-and-down multiple times to reach those percentages. 
+
+_When these two numbers (total and unique events) are close to one another, that's a positive inference that users are not needing to excessively scroll to find what theyre looking for...When these numbers are not close to one another, that's a concern users are needing to excessively scroll._ 
 
 
 
