@@ -17,6 +17,8 @@ Please use this guide for more information.
 
 6. [**Request a metrics report or general analytics support**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-metrics-reporting)
 
+7. [**Request access to Domo**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/domo-request-access.md)
+
 ## Analytics Products
 
 <ol>
