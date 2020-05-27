@@ -34,7 +34,7 @@ Explore the new VA COVID-19 screener at va.gov/covid19screen
 # VHA local and national offices + VA OIT Digital Experience Product Office
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
-VA medical centers responded to the need to digitize screening by quickly building facility-specific tools. The Office of the CTO worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We continue to work with Veterans Integrated Service Networks (VISNs) and Veterans to meet...   
+VA medical centers responded to the need to digitize screening by quickly building facility-specific tools. The Office of the CTO worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We continue to work with Veterans Integrated Service Networks (VISNs) and Veterans to meet evolving needs.   
 
 ## WHAT VETERANS ARE SAYING
 
@@ -44,4 +44,4 @@ To start using the COVID-19 screening tool at your facility, simply direct patie
 
 ## HOW TO USE THIS TOOL AT YOUR VA FACILITY
 
-We'll continue to closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
+We'll continue to closely monitor usage, performance, and feedback, and will update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
