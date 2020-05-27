@@ -1,3 +1,5 @@
+# Tier 3 Process
+
 This document outlines the process for identifying, triaging and escalating Tier 3 VA.gov issues. This document covers how the VSP Contact Center Team will engage VFS teams to address and resolve Tier 3 issues found in their products. Please note, that this bug reporting pr
 
 ## Tier 3 Issues and Priority Definitions
@@ -32,28 +34,27 @@ Once an issue has been triaged and identified as Tier 3, the VSP Contact Center 
 If a VFS team determines it needs to speak and observe the user to investigate the issue, notify the VSP Contact Center Team and they will work with you to find a suitable time and method to speak with the affected user(s).  
 
 ## Response and Resolution Time
-The VSP Contact Center Team works directly with affected users and VA contact center stakeholders to resolve Tier 3 issuse and bugs. This is why the VSP Contact Center Team has set timelines for an initial response to the issue as well as issue resolutions. 
+The VSP Contact Center Team works directly with affected users and VA contact center stakeholders to resolve Tier 3 issuse and bugs. This is why the VSP Contact Center Team has set milestones for an initial response to the issue as well as issue resolutions. 
 
 Once a Tier 3 issue has been assigned to a VFS team, the VSP Contact Center Team will expect a response within **48 business hours** acknowledging the receipt of the issue, concurrence or nonconcurrence on the assignment of the issue, any immediate ideas for troubleshooting and/or work arounds, and an estimated date for a resolution/update. The VSP Contact Center Team needs a status update in order to determine the issue has been assigned to the right team and report back to VA contact center stakeholders and affected user(s).
 
-Based on the priority of the ticket, the VSP Contact Center Team will also expect a final resolution or a comprehensive update on the following timeline: 
+Based on the complexity of the ticket and workload of the team, the VSP Contact Center Team will also expect a final resolution or a comprehensive update on the following timeline: 
 
-  * **Low:** Resolution within 30 days
-  * **Medium:** Resolution within 15 days
-  * **High:** Resolution within 7 days
-  * **Urgent:** Resolution within 48 hours
+  * **7 days open:** VSP Contact Center Team will reach out to inquire if there is any additional information needed from our team.  The template can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
+  * **15 days open:** VSP Contact Center Team will reach out to inquire on status of ticket and advise that in another 15 days, we will provide the user with the team lead contact information.  The template can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
+  * **30 days open:** VSP Contact Center team will provide the user with the contact information of the appropriate team lead.  The template can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/milestone-templates.md).
 
 *Note:* The VSP Contact Center Team realizes VFS teams have dependencies for investigating issues, including VA systems and teams. If an investigation or resolution is blocked because of a dependency on the part of another VA team, please notify the VSP Contact Center Team so they can escalate the issue through the necessary customer experience channels. 
   
 #### Status Requests
-If a VSP Contact Center team member has not received an initial response from the VFS team within the first 48 business hours or a final resolution or update by the designated time based on priority, the VSP Contact Center team member will escalate the issue to the PM of the team that has been assigned the issue. 
+If a VSP Contact Center team member has not received an initial response from the VFS team within the first 48 business hours or a final resolution or update by the designated time based on the timeline above, the VSP Contact Center team member will escalate the issue to the PM of the team that has been assigned the issue. 
 
 ## Issue Resolution
-The VSP Contact Center Team will be responsible for closing the github issue. The following criteria must be met for an issue to be closed:
- * Resolution has been identified and implemented
- * VSP Contact Center Team has communicated resolution to user(s) affected
+The VSP Contact Center Team will NOT be responsible for closing the github issue.  The VFS team that is researching and working the issue will be responsible for closing the ticket. The following criteria must be met for an issue to be closed:
+ * Resolution has been identified, documented in the ZH ticket, and implemented
+ * VSF Team has communicated resolution to user(s) affected
 
-If a resolution cannot be found because of a permanent blocker, the VSP Contact Center Team will communicate this to the user and the issue will be labeled blocked and remain open. 
+If a resolution cannot be found because of a permanent blocker, the VSF Team will communicate this to the user and the issue will be handled according to the VFS team guidelines. 
 
 If a user responds to resolution communication that they are still experiencing the issue, the github issue will be reopened. 
 
