@@ -38,7 +38,8 @@ Entrances | Number of times the specific page was the first viewed in the sessio
 
 ## Scroll Depth 
 - The Analytics and Insights team currently **does not** track scroll depth of every page of VA.gov. 
-- Our team has been incrementally adding new pages to those tracked by scrolling to help manage the hit volume of Google Analytics for these events
+- Our team incrementally adds new pages to those capturing scroll tracking via analytics request
+- The reason we are not tracking every page to-date is to help manage the hit volume of Google Analytics for these events where scroll tracking may be insignificant
 - When looking at scroll depth, its extremely important to make sure the page is identified where you want to see scroll depth - otherwise the metrics will be aggregates of everywhere we are doing scroll tracking
 - For pages we do have tracked we hope this helps with interpretation of this interaction. Please feel free to [add this custom report](https://analytics.google.com/analytics/web/#/my-reports/-_9QcMXYSbKX2ufrHoBbNQ/a50123418w177519031p184624291/_u.date00=20200521&_u.date01=20200527/) to the correct production view. 
 
