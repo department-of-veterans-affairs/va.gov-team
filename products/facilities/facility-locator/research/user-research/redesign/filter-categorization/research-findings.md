@@ -1,4 +1,4 @@
-# Facility Locator Filter Card Sorting
+# Facility Locator Filter Card Sorting WIP
 May 2020
 
 ## Methodology
@@ -16,7 +16,7 @@ Text here
 
 ## Detailed Findings
 
-**1. Findingt**
+**1. Finding**
 
 Explanation
 
