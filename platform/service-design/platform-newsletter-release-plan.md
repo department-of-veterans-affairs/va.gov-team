@@ -16,8 +16,9 @@
 - Set deadline of 6/5 to complete survey.
 - Planning "success" criteria (by the numbers): 
   - 15 subscribers
-  - 100% of emails opened
-  - 50% click-through rate for links
+  - 100% successful delivey rate
+  - 100% open rate
+  - 50% click rate per unique opens
   - Qualitative feedback from newsletter survey
 
 ### **Results:**
