@@ -70,10 +70,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/authoring-experience/research/assignments-editorial-workflow/conversation-guide/README.md)
-* Recruitment Comms
-* Synthesis	
-* Lessons Learned
-* Readout/Results
+* [Readout/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/authoring-experience/research/assignments-editorial-workflow/Readout.pdf)
 
 ------
 _Research plan approved by Jeff Barnes on April 24, 2020._
