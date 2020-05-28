@@ -9,25 +9,30 @@
   - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md)
   - Additionally, there is the HKS research, which we did not do but is a helpful resource
 3.	Key findings
-  - **People want a logged-in homepage tailored to them.** 
+  - **People want a task-based logged-in homepage tailored to them.** 
     - User research
     - Stakeholder interviews
-  - **Health care and disability are king.**
-    - User research
-    - Analytics
-  - **But health care and disability aren’t the only benefits people care about.**
-    - User research
-    - Analytics
+  - **The existing homepage gets the benefit/content focus right, we just need to personalize this information.**
+    - **Health care and disability are king.**
+      - User research
+      - Analytics
+    - **But people care about anything they have in flight, whether that is education or other benefits.**
+      - (This is where we'd talk about edu and other benefits people care about)
+      - User research
+      - Analytics
+    - **Records and documents are a focus for almost everyone.**
+      - User research
+      - Past research??
+      - Analytics??
   - **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
     - User research
     - Past research (Frog research report)
+  - **The existing "blue sky" prototype gets a lot of things right.**
+    - User research
   - **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
     - User research
     - Previous research review
     - Comparative analysis
-  - **(Process section instead?) We’ll need to revisit existing design patterns in order to create a usable homepage.**
-    - User research (positive reaction to blue sky prototype)
-    - Previous research review (findings from personalization 2.0 readout)
   - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
     - User research (blue sky prototype; general discussion about accessing tools)
     - Stakeholder interviews
@@ -51,6 +56,9 @@
       - Can happen side-by-side with logged-in homepage work pending resources.
   - Process
     - Approach project iteratively (as outlined above)
+    - Develop design patterns for authenticated tools
+      - User research (positive reaction to blue sky prototype)
+      - Previous research review (findings from personalization 2.0 readout)
     - Stakeholder management
     - User test, user test, user test
   - Metrics
