@@ -31,7 +31,7 @@ The tool's features allow us to update questions within 24 hours to meet evolvin
 [CTA]
 Explore the new VA COVID-19 screener at va.gov/covid19screen
 
-# VHA local and national offices + VA OIT Digital Experience Product Office
+# VHA + Office of the CTO
 **How we're collaborating across the enterprise to create a better Veteran and employee experience**
 
 VA medical centers responded to the need to digitize screening by quickly building facility-specific tools. The Office of the CTO worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We continue to work with Veterans Integrated Service Networks (VISNs) and Veterans to meet evolving needs.   
