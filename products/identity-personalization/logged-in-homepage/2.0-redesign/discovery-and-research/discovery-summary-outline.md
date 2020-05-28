@@ -37,7 +37,7 @@ The existing homepage gets the benefit/content focus right, we just need to pers
   - User research
   - Previous research review
   - Comparative analysis  
-### Authenticated experience overall
+### Overall authenticated experience
 - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
   - User research (blue sky prototype; general discussion about accessing tools)
   - Stakeholder interviews
