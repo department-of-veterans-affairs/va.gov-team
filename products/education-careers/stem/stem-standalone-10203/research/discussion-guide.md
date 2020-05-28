@@ -80,12 +80,12 @@ Let's say you wanted to apply for the STEM scholarship. How would you go about f
 - What did you think of how the requirements were communicated?
 - Would you expect to be eligible for this scholarship?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  Upon completion of the task:
-  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  
   
   **Upon completion of task:**
   -	What parts of the form would be the easiest for you to complete? 
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
+  - Did any of the questions seem unnecessary?  
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
   
@@ -103,12 +103,13 @@ Let's say you are currently getting your undergraduate degree in Applied Psychol
   **Upon completion of task:**
   -	What parts of the form would be the easiest for you to complete? 
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
+  - Did any of the questions seem unnecessary? 
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
   
 ## Fourth Task: Triggering the Alert - 10 minutes
 
-Let's say you are currently getting your degree in Civil Engineering from Duke University.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the for the STEM scholarship if you can.  How would you go about using this application?
+Let's say you are currently getting your degree in Civil Engineering from Duke University.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
 
 _Prompt at "About how much of your entitlement do you have left?"_:  Say you clicked "Check remaining benefits" and found out that you have 7 months left.  What would you do?  Do you think the application would let you continue?
   
