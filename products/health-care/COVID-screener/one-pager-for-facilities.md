@@ -1,6 +1,6 @@
 
 # VA COVID-19 screening tool
-**A digital tool to help protect patients and employees at VA health facilities**
+**A digital tool to help you protect patients and employees at your VA health facility**
 
 ## THE PROBLEM
 
@@ -8,13 +8,13 @@ To protect patients and staff, VA must now screen everyone for coronavirus sympt
 
 ## THE SOLUTION
 
-A digital pre-entry screening tool allows Veterans, caregivers, and employees to answer questions on their mobile phones and share their results at the VA facility entrance. Staff members can then quickly triage Veterans, caregivers, and employees to either enter the building or go to a designated area for more screening.
+A digital pre-entry screening tool allows Veterans, caregivers, and employees to answer questions on their mobile phones and share their results at the VA facility entrance. Staff members can then quickly triage people to either enter the building or go to a designated area for more screening.
 
 Providing simple, easy-to-use digital tools like this one helps reduce wait times, ease stress, and lower exposure risk. It also helps Veterans gain confidence in the new reality of increased digital interactions as part of their VA health care experience.
 
 ## TOOL FEATURES
 
-In partnership with Veterans, VA designed and built, tested, and refined this tool based on Veteran feedback in less than 10 days.
+VA designed this tool in partnership with Veterans and VA medical centers, incorporating feedback from user testing to ensure the tool meets Veteran and employee needs.
 
 **Simple experience** <br>
 Users can access the tool quickly via text message. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
@@ -28,20 +28,12 @@ For Veterans in need of immediate support, the tool provides quick access to the
 **Easy-to-update screening protocols** <br>
 The tool's features allow us to update questions within 24 hours to meet evolving needs.
 
-[CTA]
-Explore the new VA COVID-19 screener at va.gov/covid19screen
-
-# VHA + Office of the CTO
-**How we're collaborating across the enterprise to create a better Veteran and employee experience**
-
-VA medical centers responded to the need to digitize screening by quickly building facility-specific tools. The Office of the CTO worked closely with the Durham VA Health Care System to learn from their efforts and create a scalable tool that all VA facilities can easily use. We continue to work with Veterans Integrated Service Networks (VISNs) and Veterans to meet evolving needs.   
+We'll continue to closely monitor usage, performance, and feedback, and will update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
 
 ## WHAT VETERANS ARE SAYING
 
 [quotes]
 
-To start using the COVID-19 screening tool at your facility, simply direct patients and staff to text **screen** to 919-355-0995.
-
 ## HOW TO USE THIS TOOL AT YOUR VA FACILITY
 
-We'll continue to closely monitor usage, performance, and feedback, and will update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
+To start using the COVID-19 screening tool at your facility, simply direct patients and staff to text **screen** to 919-355-0995.
