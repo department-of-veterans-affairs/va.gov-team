@@ -856,17 +856,8 @@ Back to [Table of Contents](#table-of-contents)
 --- 
 ### Covid-19 Resources (VSA Public Websites)
 
-**Audit status:** review TBD — content is launching without review due to emergency status
-
-**Open issues**
-
-- [[DOCUMENTS]: Documents MUST be accessible, Covid Links and Resources PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8172)<br/>**Production** | **Opened:** April 20, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
-
-```diff 
-! The above is really a 508-defect-1, but since we need to coordinate with another 
-! team to find out who is responsible for creating the accessible PDF, I am 
-! setting this as a 2.
-```
+**Audit status:** review TBD — content is launching without review due to emergency status<br/>
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
