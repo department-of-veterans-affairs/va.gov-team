@@ -12,34 +12,40 @@
   - **People want a task-based logged-in homepage tailored to them.** 
     - User research
     - Stakeholder interviews
-  - **The existing homepage gets the benefit/content focus right, we just need to personalize this information.**
+  - **Content**
+  - The existing homepage gets the benefit/content focus right, we just need to personalize this information.
     - **Health care and disability are king.**
       - User research
       - Analytics
+      - Past research (2018 homepage work)
     - **But people care about anything they have in flight, whether that is education or other benefits.**
       - (This is where we'd talk about edu and other benefits people care about)
       - User research
       - Analytics
+      - Past research (2018 homepage work)
     - **Records and documents are a focus for almost everyone.**
       - User research
-      - Past research??
+      - Past research (2018 homepage work)
       - Analytics??
-  - **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
-    - User research
-    - Past research (Frog research report)
-  - **The existing "blue sky" prototype gets a lot of things right.**
-    - User research
-  - **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
-    - User research
-    - Previous research review
-    - Comparative analysis
-  - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
-    - User research (blue sky prototype; general discussion about accessing tools)
-    - Stakeholder interviews
-    - Analytics
-  - **Veterans expect notifications outside of VA.gov, but they also want new information to be clear to them when they log in.**
-    - User research
-    - Comparative analysis
+  - **Scalability**
+    - **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
+      - User research
+      - Past research (Frog research report)
+  - **Design**
+    - **The existing "blue sky" prototype gets a lot of things right.**
+      - User research
+    - **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
+      - User research
+      - Previous research review
+      - Comparative analysis
+  - **Authenticated experience overall**
+    - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
+      - User research (blue sky prototype; general discussion about accessing tools)
+      - Stakeholder interviews
+      - Analytics
+    - **Veterans expect notifications outside of VA.gov, but they also want new information to be clear to them when they log in.**
+      - User research
+      - Comparative analysis
 4. Recommendations
   - Projects — Ultimately, this really comes down to 3 projects:
     - Logged-in homepage
