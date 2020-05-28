@@ -14,7 +14,7 @@ Providing simple, easy-to-use digital tools like this one helps reduce wait time
 
 ## TOOL FEATURES
 
-VA designed this tool in partnership with Veterans and VA medical centers, incorporating feedback from user testing to ensure the tool meets Veteran and employee needs.
+VA designed this tool in partnership with Veterans and medical center leadership, incorporating feedback from user testing to ensure the tool meets Veteran and employee needs.
 
 **Simple experience** <br>
 Users can access the tool quickly via text message. Large text and buttons, plain language, and a simple flow of 5 questions allow users to complete screening in under a minute.
@@ -28,7 +28,7 @@ For Veterans in need of immediate support, the tool provides quick access to the
 **Easy-to-update screening protocols** <br>
 The tool's features allow us to update questions within 24 hours to meet evolving needs.
 
-We'll continue to closely monitor usage, performance, and feedback, and will update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
+The Office of the CTO will continue to closely monitor usage, performance, and feedback, and will update content and features as needed. For questions or to offer feedback, contact us at [email].
 
 ## WHAT VETERANS ARE SAYING
 
