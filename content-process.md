@@ -13,10 +13,25 @@
 - The team will push regular content change requests received to Prod twice every week, on Mondays and Thursdays. Additionally, if there are any critical updates that are required, the team will make such changes available on Prod as needed. 
   - If a Holiday falls on a Monday, content change will happen the following business day
   
-## Notes 
+## General Notes
 - Content changes Waiting for JTF approval will be placed in a branch.
-- Approved changes will constantly be pushed to Master and we can release every Monday/Thursday
- 
+- Approved changes will constantly be pushed to `master` and we can release every Monday/Thursday
+
+## Tech Notes
+
+**Add a new question after chatbot content is updated**
+- Add a new key under the question in `chatbot-messages.md`.
+- Copy the new question from the markdown file to `chatbot-options.js` under the appropriate section's `questions` block. Copy the key you created to the `answers` block.
+- Run `rake convert_content` to verify that the files are correctly formatted.
+- Push changes to `master`.
+- Once CI has run successfully, download the [artifacts](http://jenkins.vfs.va.gov/job/chatbot/job/content-ci/job/master/) from the build.
+
+**Upload js to healthbot dev environment**
+- Go to the [scenario management portal](https://us.healthbot.microsoft.com/account/azcctolabhealthbot-djeoexc/scenarios/manage) and open the scenario with id `va_coronavirus_chatbot`.
+- Create snapshot before making any changes.
+- Copy the content from `chatbot-messages.js` into the Messages block.
+- Copy the content from `chatbot-options.js` into the Options block.
+- If the newest content changes were for the CDC flow, open the scenario with id `va_cdc_wrapper` and copy the content from `cdc-wrapper-messages.js` into the Messages block.
 
 # Content process
 The below diagram details the process for content updates:
