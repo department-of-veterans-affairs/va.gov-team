@@ -1,6 +1,6 @@
-# New appointment data
+# New appointment service calls and data
 
-Glossary:
+## Glossary
 
 - Site id
    - VistA sta3n id
@@ -12,6 +12,8 @@ Glossary:
    - Id from /clinical-services/type-of-care
 - Clinic id
    - VistA clinic id, only unique when paired with sta3n
+
+## Service calls
 
 - Type of care list
    - VAR: `/clinical-services/type-of-care`
