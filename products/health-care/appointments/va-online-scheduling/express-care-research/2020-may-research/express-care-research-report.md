@@ -55,7 +55,8 @@ The majority of participants we spoke with said they now have experience with Te
 
 All participants said they are interested in continuing using or starting to use virtual medical appointments as much as possible and see the value in Telehealth beyond the pandemic. All participants said they would turn to a Telehealth resource as a COVID-19 screener, if it became available to them. 
 
-Most participants selected the "Express Care screener" option to initiate a same-day virtual appointment. Nearly all participants, regardless of which method they used to initiate the visit, said they expected a medical professional (most likely a nurse) would follow up with them. 
+Most participants selected the "Express Care screener" option to initiate a same-day virtual appointment. Nearly all participants, regardless of which method they used to initiate the visit, said they expected a medical professional (most likely a nurse) would follow up with them. They also commented on the indicated response time. Opinions varied about the 4-hour response window, falling into the following categories: they didn't believe that it was accurate, that it was only accurate if they initiated the request in the morning, or that it was acceptable. 
+
 
 
 
