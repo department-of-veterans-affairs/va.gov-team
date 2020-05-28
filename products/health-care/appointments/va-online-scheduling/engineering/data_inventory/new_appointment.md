@@ -13,8 +13,24 @@
 - Clinic id
    - VistA clinic id, only unique when paired with sta3n
 
-## Service calls
+## Service data
 
+- Profile
+   - VA.gov: `/v0/user`
+   - FHIR: Patient?
+   - Input:
+      - User session identifier
+   - Output used
+      - Facilities list
+         - Parsed list of site ids where user is registered from MVI correlation ids
+- Facility timezones
+   - VAR: `/public/facility/timezone`
+      - Not called live, stored in FE code
+   - FHIR: Unknown
+   - Input: none
+   - Output: 
+      - Facility list
+         - Timezone description
 - Type of care list
    - VAR: `/clinical-services/type-of-care`
       - Not called live, data pulled from this service and stored in FE code
