@@ -2,25 +2,6 @@
 
 ## Research Process
 
-### Who we talked to
-
-* DEPO conducted eleven 45-minute remote research sessions over five days
-* 8 users used a desktop or laptop computer; 3 users used a mobile or tablet device
-
-| Veteran Status               | Branch          | Age     | Location | Gender |
-| ---------------------------- | --------------- | ------- | -------- | ------ |
-| Veteran, Veteran's caregiver | Army            | 25 - 34 | MD       | Female |
-| Veteran                      | Army            | 45 - 54 | GA       | Female |
-| Veteran                      | Army            | 35 - 44 | CT       | Male   |
-| Veteran                      | Army            | 65 - 74 | OK       | Male   |
-| Veteran                      | Army            | 45 - 54 | MA       | Male   |
-| Veteran                      | Army            | 45 - 54 | CA       | Male   |
-| Veteran                      | --              | 45 - 54 | FL       | Female |
-| Veteran                      | Navy            | 45 - 54 | IN       | Female |
-| Veteran                      | Air Force       | 55 - 64 | PA       | Male   |
-| Veteran                      | Navy            | 45 - 54 | GA       | Female |
-| Veteran                      | Air Force, Navy | 45 - 54 | MI       | Female |
-
 ### Research focus
 
 VA developed Express Care to enable virtual access between Veteran patients and their medical providers ("PACTs"). However, Express Care as a service is not utilized by providers or patients, respectively. This research was conducted to better understand why and how the VA can improve this service, especially during a time when Veterans may need medical attention, but due to current circumstances cannot be seen at a physical locations.
@@ -43,11 +24,39 @@ Veterans were shown and interacted with a clickable prototype to help us learn m
 
 [may remove] This research focused on learning more about Veterans' perspective about same-day, virtual appointments from VA providers, how they would initiate that type of visit, who they would be seen by, and if this type of visit is of use to Veterans. 
 
- 
 
-## Findings Summary
+
+### Who we talked to
+
+* DEPO conducted eleven 45-minute remote research sessions over five days
+* 8 users used a desktop or laptop computer; 3 users used a mobile or tablet device
+
+| Veteran Status               | Branch          | Age     | Location | Gender |
+| ---------------------------- | --------------- | ------- | -------- | ------ |
+| Veteran, Veteran's caregiver | Army            | 25 - 34 | MD       | Female |
+| Veteran                      | Army            | 45 - 54 | GA       | Female |
+| Veteran                      | Army            | 35 - 44 | CT       | Male   |
+| Veteran                      | Army            | 65 - 74 | OK       | Male   |
+| Veteran                      | Army            | 45 - 54 | MA       | Male   |
+| Veteran                      | Army            | 45 - 54 | CA       | Male   |
+| Veteran                      |                 | 45 - 54 | FL       | Female |
+| Veteran                      | Navy            | 45 - 54 | IN       | Female |
+| Veteran                      | Air Force       | 55 - 64 | PA       | Male   |
+| Veteran                      | Navy            | 45 - 54 | GA       | Female |
+| Veteran                      | Air Force, Navy | 45 - 54 | MI       | Female |
+
+
+
+## Findings and Recommendations Summary
+
+### Findings summary
 
 The majority of participants we spoke with said they now have experience with Telehealth from VA providers, largely as a result of the onset of the novel coronavirus. Despite experience with VA Telehealth appointments, none of the participants could accurately describe "Express Care," although two participants saying they heard of it before. Many of the participants differentiated "Express Care" from "same-day Telehealth" by describing the former as an in-person same-day type of care, versus the latter being a virtual visit. 
 
 All participants said they are interested in continuing using or starting to use virtual medical appointments as much as possible and see the value in Telehealth beyond the pandemic. All participants said they would turn to a Telehealth resource as a COVID-19 screener, if it became available to them. 
 
+Most participants selected the "Express Care screener" option to initiate a same-day virtual appointment. Nearly all participants, regardless of which method they used to initiate the visit, said they expected a medical professional (most likely a nurse) would follow up with them. 
+
+
+
+### Recommendations summary
