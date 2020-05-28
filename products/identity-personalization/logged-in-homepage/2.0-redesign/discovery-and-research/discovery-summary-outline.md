@@ -48,28 +48,28 @@ The existing homepage gets the benefit/content focus right, we just need to pers
   - User research
   - Comparative analysis
 ## Recommendations
-- Projects — Ultimately, this really comes down to 3 projects:
-  - Logged-in homepage
-    - Phase 1: Focus on initial widgets in “top tasks” area
-    - Phase 2: Focus on benefits discovery
-    - Note: Some of this will inevitably be part of phase 1 since we can’t launch without a “blank” state.
-    - Additional iterations and improvement over time
-  - Navigation
-    - We need to revisit the logged-in navigation.
-    - This will need to be iterative work that happens over time in concert with the IA team and the PW team.
-    - Can happen side-by-side with logged-in homepage work pending resources.
-  - Notification center
-    - We should have a notification center on VA.gov but we should not rely on that as our only means of notifying veterans.
-    - Can happen side-by-side with logged-in homepage work pending resources.
-- Process
-    - Approach project iteratively (as outlined above)
-    - Develop design patterns for authenticated tools
-      - User research (positive reaction to blue sky prototype)
-      - Previous research review (findings from personalization 2.0 readout)
-    - Stakeholder management
-    - User test, user test, user test
-- Metrics
-    - Measuring success 
+### Projects — Ultimately, this really comes down to 3 projects:
+- Logged-in homepage
+  - Phase 1: Focus on initial widgets in “top tasks” area
+  - Phase 2: Focus on benefits discovery
+  - Note: Some of this will inevitably be part of phase 1 since we can’t launch without a “blank” state.
+  - Additional iterations and improvement over time
+- Navigation
+  - We need to revisit the logged-in navigation.
+  - This will need to be iterative work that happens over time in concert with the IA team and the PW team.
+  - Can happen side-by-side with logged-in homepage work pending resources.
+- Notification center
+  - We should have a notification center on VA.gov but we should not rely on that as our only means of notifying veterans.
+  - Can happen side-by-side with logged-in homepage work pending resources.
+### Process
+- Approach project iteratively (as outlined above)
+- Develop design patterns for authenticated tools
+  - User research (positive reaction to blue sky prototype)
+  - Previous research review (findings from personalization 2.0 readout)
+- Stakeholder management
+- User test, user test, user test
+### Metrics
+- Measuring success 
 ## Next steps
 - Start moving into design planning
 - Start discussing this with stakeholders outside DEPO
