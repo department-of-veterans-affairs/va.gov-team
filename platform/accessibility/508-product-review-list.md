@@ -760,6 +760,8 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
 **Opened:** April 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT Caution Flags - Non-native focus targets SHOULD NOT have the yellow focus halo - #9310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9310)<br/>
+**Opened:** April 14, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
