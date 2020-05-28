@@ -845,8 +845,6 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
 - [[MOBILE] There SHOULD be sufficient space between interactive elements, to avoid errors - #7839](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7839)<br/>
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
-- [[COGNITION] CONSIDER adding a heading before "Longer than 1 year" - #7847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7847)<br/>
-**Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
