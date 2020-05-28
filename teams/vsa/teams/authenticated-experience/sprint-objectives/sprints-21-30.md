@@ -63,6 +63,17 @@ Logged in homepage
 
 Profile 2.0
 
+- Design
+  - Finish up remaining tickets that have come up
+  - IA review
+- Build
+  - Finish build
+  - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+- PM 
+  - Submit IA review ticket
+  - (If build is finished) Submit request for QA review
+  - (If build is finished) Submit request for 508 review
+
 ----
 - QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
 - 508 - Request review of build
