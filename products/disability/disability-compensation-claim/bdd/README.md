@@ -77,6 +77,16 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 1. We will see an increase in traffic to our 526 forms of 10% (based on traffic in eBenefits)
 2. After 6 months, we will see another 5% increase as the program is advertised to more service members.
 
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
 ---
 ## Results and Recommendations
 ### Results

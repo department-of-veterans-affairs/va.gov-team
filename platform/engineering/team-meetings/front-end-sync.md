@@ -1,3 +1,12 @@
+# 20200520
+
+## Agenda
+- tech debt and documentation 
+- ops dashboard 
+
+## Notes
+- should we update documentation? where should we put it?
+
 # 20200506
 
 ## Agenda

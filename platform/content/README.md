@@ -37,7 +37,7 @@ VSP provides content feedback and guidance during the following Collaboration Cy
 
 - **Project Kickoff:** During the kickoff, we'll get a better understanding of the problem your team is trying to solve. Engaging content  as early as possible in your work will provide us with background information, and well as help us understand scope, audience, and timing. We'll also be able to identity if there are any areas of your project that might need additional support or collaboration. 
 
-- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the produc/tool, and if there are areas where content can improve their experience. 
+- **Usability Testing Prep:** We’ll review prototypes or mockups to ensure they’re consistent with existing content style and guidance. We can also attend research sessions to get a better understanding of users experience and behavior when using the product/tool, and if there are areas where content can improve their experience. 
 
 - **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
@@ -47,7 +47,7 @@ The following list is a set of resources to help you do your work and answer con
 
 - Content processes
      - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md) 
-     - [List of current and past VSP content reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-reviews.md)
+     - [List of current and past VSP content reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-reviews/content-review-tracking.md)
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)

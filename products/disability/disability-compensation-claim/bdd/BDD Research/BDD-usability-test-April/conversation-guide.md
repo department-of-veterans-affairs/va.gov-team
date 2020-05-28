@@ -55,12 +55,10 @@ Of course none of your actions will affect your actual VA information or benefit
 
 <ul>
 <li>Have you ever filed a BDD disability claim with the Department of Veteran Affairs?</li>
-<li>How did you file it (alone or with a VSO)? Mail or in an office?</li>
+<li>How did you file it (alone or with a VSO)? </li>
 <li>Tell me about how it was to go through this process.<br></li>
-<li>What were the hardest parts?</li>
 <li>What was most confusing within this process? </li>
 <li>Was there anything in particular that was helpful in this process?</li>
-<li>If you would do it again, would you do anything different?</li>
 <li>Do you have any other comments about this process? </li>
 </ul>
 
@@ -80,7 +78,28 @@ Of course none of your actions will affect your actual VA information or benefit
 <li><p>You have heard of a program that allows members in active duty to apply to get benefits from the VA for a specific disability, prior to separation. The advantage of doing this is that you would receive payments sooner after separating from service. Someone told you that you could apply to this program on VA.gov.</p></li>
 <li><p>Please go to VA.gov, and show me what you would do to find this program and apply for it.
 [they do the task]</p></li>
+  
+  
+how to file a disability claim: Take a look at this page. 
+What are your first impressions and thoughts about this page?
+What would you do on this page?
+
+Do you have all the info you need to file a pre-discharge claim on this page?
+If no, what is missing? What would make you confident that you could file such a claim on this page?
+Is anything confusing on this page?
+Imagine you want to figure out what claims you are allowed to apply for and not. Where would you go from here?
+
 </ul>
+Tasks for BDD usability test 2:
+
+What are your thoughts on this page you’ve landed on? (first impressions / quick thoughts)
+
+OK, now I’m going to show you another version of this page, what do you think of this and how it compares to the page you just saw? How would you figure out what kind of claim to use? How would this compare with the other version you looked at?
+
+What are your first impressions and thoughts about this page? 
+What would you do on this page? 
+Is anything confusing on this page?
+
 
 <h2 id="toc_7">Task 2</h2>
 

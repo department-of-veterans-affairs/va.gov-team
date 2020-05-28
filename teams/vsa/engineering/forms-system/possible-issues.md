@@ -5,7 +5,7 @@ This page is for capturing potential known issues with forms. Some of these may 
 
 ## Review Page Does Not Show Empty Field and Crashes if Sorted (ui:order)
 ### Developer POC: Nick Sprinkle
-### GitHub Issue#: TBD
+### GitHub Issue#: [#9565](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9565)
 ### Problem
 The review page does not show empty fields (appears to be by design, but undocumented). When we have empty fields, it also crashes when sorting (ui:order).
 
@@ -30,7 +30,7 @@ There seems to be two issues: \
 
 ## Unable to Pre-Fill (pre-populate) Form
 ### Developer POC: [WAS Amen Ra] Marhariel Rosario
-### GitHub Issue#: TBD
+### GitHub Issue#: [#9566](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9566)
 ### Problem
 (vague) - was unable to pre-fill (pre-populate) data into a new form
 

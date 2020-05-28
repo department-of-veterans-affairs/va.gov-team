@@ -15,11 +15,11 @@ Given that we will receive a SAML payload with most of the needed information fr
 
 
 ## Design
-In general, MVI attributes are accessed via the `User` model, either as direct delegated methods on `User` (e.g. `user.icn`), or as nested delegated methods on `User.va_profile` (e.g. `user.profile.address). Both of these eventually delegate to the `mvi.profile` attribute on `user`, which is an instance of `MviProfile`.  
+In general, MVI attributes are accessed via the `User` model, either as direct delegated methods on `User` (e.g. `user.icn`), or as nested delegated methods on `User.va_profile` (e.g. `user.profile.address`). Both of these eventually delegate to the `mvi.profile` attribute on `user`, which is an instance of `MviProfile`.  
 
 We can instead instantiate a MviProfile object by parsing the incoming SAML attributes and delegate to that directly from `User.va_profile`. Initially we'll want to do so selectively for SSOe authentication so we can support old and new authentication mechanisms during roll-out. 
 
-There are also a couple of examples where either `User.mvi` is dereferenced, or a separate `Mvi.for_user` is invoked. These should be cleaned up to use the same call path as the bulk of cases that call via User.va_profile. 
+There are also a couple of examples where either `User.mvi` is dereferenced, or a separate `Mvi.for_user` is invoked. These should be cleaned up to use the same call path as the bulk of cases that call via `User.va_profile`. 
 
 Today, MVI responses are cached separately from incoming SAML attributes, with a longer cache TTL. This is done in order to reduce load on MVI. With this change, the MVI-equivalent attributes that arrive in the SAML payload will be cached in the user_identity cache with the same TTL as a user's authenticated session. 
 
@@ -54,15 +54,15 @@ The following attributes are currently looked up from MVI but do not appear to b
 
 | MVI Profile Attribute | SSOe SAML Attribute | Notes |
 | --- | --- | --- |
-| historical_icns | (Not Present) | Prior/replaced ICNs are available elsewhere in the payload of an MVI find person result. This attribute is used in two places: lib/vic/service.rb (for the VIC v2 application that was never launched) and app/models/gi_bill_feedback.rb, for the GI Bill Feedback tool. |
+| historical_icns | (Not Present) | Prior/replaced ICNs are available elsewhere in the payload of an MVI find person result. This attribute is used in `app/models/gi_bill_feedback.rb`, for the GI Bill Feedback tool. |
 
-Both of the above services submit data to Salesforce. Probably Salesforce is indexing something on ICNs and needs to be robust to ICNs changing over time.  Proposed solution for this attribute is to look it up with an explicit query to  MVI when it is needed.
+The GI Bill Feedback Tool submits data to Salesforce. Probably Salesforce is indexing something on ICNs and needs to be robust to ICNs changing over time.  Proposed solution for this attribute is to look it up with an explicit query to  MVI when it is needed.
 
 ### Other MVI Interactions
 There are some additional MVI interactions that break the usual pattern of a query during sign-in and subsequent read-only use of attributes:
 
 1. **VA Profile MVI Cache Busting**
-The  `V0::Profile::PersonsController` class has an after_action decorator that invalidates the current cached MVI data. This is done because there are certain interactions with the VA Profile upstream service that modify data in MVI. By busting the cached data for a user, any subsequent read of an MVI attribute will result in a new MVI query that will reflect the modified data.<br/>
+The  `V0::Profile::PersonsController` class has an `after_action` decorator that invalidates the current cached MVI data. This is done because there are certain interactions with the VA Profile upstream service that modify data in MVI. By busting the cached data for a user, any subsequent read of an MVI attribute will result in a new MVI query that will reflect the modified data.<br/>
 The proposed resolution for this use case is to perform an explicit MVI lookup and use the results to update the MVI fields that are cached with the session in `user_identity`. The explicit MVI lookup mechanism should be divorced from the current Redis cache_aside system so that we don't cache the MVI response as a whole. We should limit the updating of `user_identity` to the fields that are known to be updated as a result of any VA Profile interactions. 
 
 2. **526 Add Person Requests**
@@ -74,7 +74,7 @@ The healthcare application implements a totally parallel MVI service with a sepa
 
 4. **(Future) Delegation Lookups**
 VA.gov is likely to introduce delegation features powered by MVI in the future. These let user A delegate access to their information to user B. Record of that delegation is recorded in MVI, and a flag on a user record indicates whether someone is a delegate.<br/>
-The isDelegate flag is present in SSOe SAML assertions, so the login flow an account for delegation. The next step of selecting a delegatee on behalf of whom to act, will likely require one or more additional explicit MVI requests which likewise should be separated  from the Redis cache_aside mechanism.
+The `isDelegate` flag is present in SSOe SAML assertions, so the login flow can account for delegation. The next step of selecting a delegatee on behalf of whom to act, will likely require one or more additional explicit MVI requests which likewise should be separated  from the Redis cache_aside mechanism.
 
 5. **OAuth Flow - Lighthouse**
 SAML authentication and MVI resolution is also performed in the context of the Lighthouse OAuth flow. MVI is queried by an API endpoint triggered by the SAML proxy, and cached MVI data is used when serving OAuth-protected API requests.<br/>
@@ -94,13 +94,13 @@ There are several user traits that are currently available in both the incoming 
 With an SSOe-based SAML payload we don't have this conflict; we'll only get one value for each of these traits. Presumably this will be the MVI value. On paper this is more "correct" as MVI is the canonical source for VA identity. But we know there are cases where this data is less accurate. VA.gov loses the ability to make this trade-off and prefer one source of another; it devolves to the IAM team to address (and ideally resolve) data mismatches and fidelity issues. 
 
 ## Risks
-* *Data may appear differently than before*
+* *Data may appear differently than before*  
 Where we will now be preferring attributes from MVI instead of ID.me, users may see different values for some of their data.  Typographic errors in e.g. name or other fields will be apparent. One minor but concrete example is that MVI name fields are returned in ALL CAPS and should ideally be title-cased for display to the user. IAM does currently track and store cases where data from credential providers does not match MVI, and is working with their business owners to determine what to do with this data.
 
-* *Mismatched correlated IDs*
+* *Mismatched correlated IDs*  
 For cases like the MHV correlation IDs where we pick one of multiple values, it's possible that we see a different sort order for those fields via SAML than we do via an MVI query, and hence would use a different MHV identifier for the user. We should mitigate this by asking what MHV itself does for SSOe logins.
 
-* *Additional runtime dependencies*
+* *Additional runtime dependencies*  
 We are introducing a dependency on SSOe to the VA.gov sign-in process. SSOe has a transitive dependency on MVI, but is capable of still returning a "CSP-only" payload if MVI is unavailable (equivalent to the payload we'd get if MVI was down but queried directly by VA.gov).<br/>
 The MVI query also has a transitive dependency (for "not found" users) on DEERS/DMDC, and instability there can have a knock-on effect on downstream systems. IAM has isolated the systems that communicate with DMDC to minimize impact; we should work with them to improve monitoring and improve their ability to dynamically enact something like a circuit breaker on this integration. 
 

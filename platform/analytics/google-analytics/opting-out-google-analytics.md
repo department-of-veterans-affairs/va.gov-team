@@ -14,4 +14,9 @@ By clicking on this link, it will set a cookie that allows us to distinguish you
 This cookie will expire in 2 years. If you clear cookies often, you'll have to visit this link again to opt-out of tracking.
 
 #### Tracking on Non-Production Environments
-The cookie is only used on the Production site to filter out Internal Users. All activity on non-production environments _is_ tracked, so we can QA the Google Analytics data before it reaches production. 
+The cookie is only used on the Production site to filter out Internal Users. All activity on non-production environments _is_ tracked, so we can QA the Google Analytics data before it reaches production.
+
+#### Does being on a VPN affect my data in Google Analytics?
+While a VPN itself will probably not affect our analytics opt-out or modify the cookies we use to identify you, a VPN may affect the data we record in Google Analytics. Specifically, location or geo data can be inaccurate and constantly changing.
+
+Please note that some VPN software includes additional browser extensions that may clear or block cookies.

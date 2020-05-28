@@ -167,6 +167,9 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 ### KPIs
 - [Number of people visiting YR pages per month](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/explorer-table.filter=benefits.va.gov~2Fgibill~2Fyellow_ribbon~2F&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=500&explorer-graphOptions.selected=analytics.nthMonth/)
 
+- [Searches on Yellow Ribbon Prod](https://analytics.google.com/analytics/web/template?uid=_dGj-n8oRPebRu1FlLdJQQ)
+  - View: _Production - Education Modernized View_
+
 ### OKRs
 
 - Take technical learnings about Drupal functionality and table data IX to inform future research for MVP 2.0 solution or solutions for database-driven table content.
@@ -174,6 +177,16 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 ### Tracking
 
 - Event tags for interactive components - search fields, comparison functionality, sorting and/or filters (depending on what is added)
+
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
 
 ---
 

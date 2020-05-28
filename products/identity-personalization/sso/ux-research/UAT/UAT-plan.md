@@ -14,6 +14,22 @@ VA.gov aims to provide a unified digital portal with access to all VA services. 
 ### Purpose 
 **Make sure SSOe works in production.**
 
+## Test Set-Up
+NOTE: This set up is to be used for UAT completed before features are launched to 100% of users. In these cases a developer must be present for testing.
+
+Chrome browser instructions below for Step 2 in other browsers [check this how to.](https://balsamiq.com/support/faqs/browserconsole/)
+
+1. Open browser & enter VA.gov
+2. Go to View > Developer > Developer tools 
+3. Go to Application (possibly Storage in other browsers)
+4. Under Storage go to Cookies
+5. Click the va.gov url
+6. Copy "FLIPPER_idname" value and paste in chat window in Zoom to person conducting UAT session
+7. UAT lead uses this value to "turn on" SSOe for UAT paricipant
+8. Close developer toolbar
+9. Refresh page
+10. Begin UAT flow
+
 ## UAT Testing Flows
 
 The 4 flows below chart out how users could test both outbound and inbound SSOe with one type of credential. Ideally, each flow should have two testers go through it, one in Chrome and one in Safari. This would make for a total of 8 moderated UAT sessions run by the SSOe team. 
@@ -26,9 +42,11 @@ The 4 flows below chart out how users could test both outbound and inbound SSOe 
 
 - [C318, ID.me,  LOA3 Sign in to VA.gov](https://dsvavsp.testrail.io/index.php?/cases/view/318&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
-- [C320, ID.me LOA3 View claims/appeals](https://dsvavsp.testrail.io/index.php?/cases/view/320&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C321, ID.me LOA3 Navigate to MHV in new tab](https://dsvavsp.testrail.io/index.php?/cases/view/321&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C322, ID.me LOA3 Navigate to MHV via My Health](https://dsvavsp.testrail.io/index.php?/cases/view/322&group_by=cases:section_id&group_order=asc&group_id=60)
+
+eBenefits Tests:
+- [C320, ID.me LOA3 View claims/appeals](https://dsvavsp.testrail.io/index.php?/cases/view/320&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C323, ID.me LOA3 Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/323&group_by=cases:section_id&group_order=asc&group_id=60)
 
 **Inbound**
@@ -46,6 +64,8 @@ The 4 flows below chart out how users could test both outbound and inbound SSOe 
 - [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C330, MHV Premium VA.gov health dashboard](https://dsvavsp.testrail.io/index.php?/cases/view/330&group_by=cases:section_id&group_order=asc&group_id=83)
 - [C331, MHV Premium Navigate to MHV in new tab](https://dsvavsp.testrail.io/index.php?/cases/view/331&group_by=cases:section_id&group_order=asc&group_id=83)
+
+eBenefits Test:
 - [C333, MHV Premium Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/333)
 
 **Inbound**
@@ -63,6 +83,8 @@ The 4 flows below chart out how users could test both outbound and inbound SSOe 
 - [C351, ID.me LOA3 VA.gov Modal UX](https://dsvavsp.testrail.io/index.php?/cases/view/351&group_by=cases:section_id&group_order=asc&group_id=60)
 - [C342, DSLogon Premium VA.gov account page](https://dsvavsp.testrail.io/index.php?/cases/view/342)
 - [C343, DSLogon Premium Navigate to MHV](https://dsvavsp.testrail.io/index.php?/cases/view/343)
+
+eBenefits Test:
 - [C344, DSLogon Premium Navigate to eBenefits](https://dsvavsp.testrail.io/index.php?/cases/view/344)
 
 **Inbound**

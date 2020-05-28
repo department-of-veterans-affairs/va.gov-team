@@ -1,6 +1,4 @@
-# Study 1 - Screener May 2020
-
---- TEMPLATE ---
+# Screener Prototype Study 1 - May 18, 2020
 
 ## Moderator logistics
 
@@ -18,72 +16,96 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Check on mobile specific issues with getting into Zoom
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about a new prototype that allows patients, guests, and employees to self-screen for COVID-19 symptoms, prior to entering a VA Medical Center.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 mintues.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototypes tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. None of your actions will affect your actual VA information or benefits.
+- **During this session I would like you to try an think-out-loud.** That means, if you are reading something on the screen, please read it to me. If you see something you like or don't like please let me know. I want to hear you describe what you are doing and why during the session so I can follow along.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly. During the session I will ask you to share your phone screen with me.
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the tool, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+Have you visited a VA Medical Center recently?
 
-## First Task: [TASK NAME] - X minutes
+- What was that experience like?
+- How have things changed since the start of COVID-19 precautions?
 
-- Step 1
-- Step 2
+Do you have any upcoming trips planned to a VA Medical Center?
+
+- How do you feel about the idea of going?
+
+## First Task: Complete Screener - 5 minutes
+
+Ok, now I am going to ask you to share your screen with me. Please look at the bottom of your phone screen, in the center you should see a button that says "share content". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
+
+Please tap anywhere to return to the Zoom App.
+
+Great, now I can see your phone screen! Please text the following number 919-355-0995 with the message "Screener". *Send the number in chat if needed. Link to screener for reference http://ec2-52-91-98-47.compute-1.amazonaws.com/covid19screener/*
+
+
+**Prompt 1**
+
+What is your first impression of this message?
+
+What would you do next?
+- What do you expect to happen? 
+- What are the phone numbers and link at the bottom of the message?
+
+**Prompt 2**
+
+Alright, please act as if you have just arrived at the VA Medical Center. A sign in the parking lot directed you to this site. You can work through it just like you would in the real world. Go ahead when you are ready.
+
+**At Complettion**
+
+What do you think this means?
+
+What would you expect to happen next?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Can they navigate forward and backward between questions easily?
+- Are they comprehending the questions? Where do they hesitate?
+- How quickly can they complete the screener?
+- Their reaction/understanding of the PASS/SCREEN page
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Alternate conclusion - 5 minutes
 
-- Step 1
-- Step 2
+Please select scroll up to the final question of the survey. Please change your answer to [YES/NO]. Go ahead when you are ready.
 
-### Things to watch for:
+**At Complettion**
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+What do you think this means?
 
-## Third Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+What would you expect to happen next?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Reaction to alternate conclusion
+- How that changes their impression of the tool
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 5 minutes
+Thank you for working through that with me. I just have a few more questions before we break.
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- What did you like or dislike about the experience of using that tool?
+- Since I cannot see your hands, can you please describe how you you were holding your phone during the session?
+- Is there anything else you would like to share?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -91,8 +113,3 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)

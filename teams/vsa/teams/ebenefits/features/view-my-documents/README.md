@@ -14,4 +14,10 @@
 - Lighthouse team is connecting to eFolder through VBMS service (https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/claims_api/app/workers/claims_api/vbms_uploader.rb#L66) 
 - Ruby gem for VBMS is here: https://github.com/department-of-veterans-affairs/connect_vbms
   - Documentation is internal
-- Once this is done we should be able to move to the debt center notification work
+- Keep up with Debt Letter Notification work; definitely want some toggle t view debt notices specifically
+
+## Screenshots
+
+![screenshot](images/my-docs-1.png)
+---
+![screenshot](images/my-docs-2.png)

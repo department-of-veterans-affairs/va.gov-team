@@ -145,6 +145,18 @@ _Are other features dependent on this one? What do we need from partners? What d
 ### Definition of Done
 TBD
 
+--- 
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
+---
+
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 

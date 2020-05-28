@@ -35,7 +35,10 @@ assignees: andreahewitt-odd, meganhkelley
 - Anyone else from your team who significantly contributed to the artifacts provided (required): **names**
 
 ## Scheduling
-Preferred dates or times: 
+- Please reference the [VSP Collaboration Meetings Calendar](https://calendar.google.com/calendar/embed?src=adhocteam.us_4dn3o77gcm5e3vbiedlha96tc0%40group.calendar.google.com&ctz=America%2FNew_York) (times shown are ET)
+- Note an available time slot within a recurring "[CALENDAR BLOCK] Review Group Office Hours" slot that works for your team and is at least 2 business days from now
+- Write that preferred time slot here (on this ticket), and VSP will send you a meeting invite
+- _If no available time slots work for your team, write your availability and requirements here and Megan/Andrea will reach out as needed_
 
 ## Additional Notes
 During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering, information architecture

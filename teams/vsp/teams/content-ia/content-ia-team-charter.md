@@ -2,6 +2,8 @@
 
 ---
 
+Jump to [Gray Areas & Questions](#gray-areas-and-questions)
+
 ## Why we're here
 
 ### VSP North Star:
@@ -30,10 +32,19 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 - Maintain and improve the findability and usability of resources in the documentation site.
 - More information in [VSP Content & IA's Levels of Support document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/content-ia/content-ia-support-levels-proposal.md).
 
-### Roamdap
+### Roadmap
 - [ZenHub super epics](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=content-ia-team,super-epic&repos=133843125)
 
 ### [OKRs and KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/content-ia/content-ia-team-okr-kpis.md)
+
+### Gray Areas and Questions
+
+_Team notes 5/19/20_
+
+- Our team mission likely needs to be updated to place more of an emphasis on maintenance of VSP's entire documentation ecosystem, as that has become more of a team focus in the time since we wrote this charter
+- To what extent is our team (versus VFS teams) responsible for maintenance and experience of VA.gov product and teams documentation? (We have some initial ideas here and intend to propose an answer within a few months, but calling this out now as something that is undefined as of yet)
+- I (Megan) think we own/are responsible for all VSP documentation at a high level, and other VSP teams are responsible for working with us to populate the content — but it likely would be good to get that relationship documented/formalized
+- Still figuring out how our team and DEPO roles overlap for content & IA (no pain points or tension here but it is evolving) 
 
 ---
 

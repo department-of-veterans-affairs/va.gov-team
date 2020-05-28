@@ -6,13 +6,19 @@
 
 ### **Planning:**
 
-- Desired date range: 5/5/20 - 5/8/2
+- Desired date range: 5/28 - 6/5
 - Desired number of unique users: ~20
-- How you'll make the product available in production while limiting the # of users who can find/access it: create a landing page to subscribe to the beta newsletter and share the URL with participants.
+- Announce beta test in Team of Teams to recruit participants
+- Send link to beta landing page by Slack DM so particpants subscribe to newsletter
+- Participants receive Welcome email with instructions for participating in the beta test.
+- Create beta Test survey
+- Using personal email send newsletter to participants.
+- Set deadline of 6/5 to complete survey.
 - Planning "success" criteria (by the numbers): 
-  - \>15 subscribers 
-  - 100% of emails opened
-  - 100% click-through rate for links
+  - 15 subscribers
+  - 100% successful delivery rate
+  - 100% open rate
+  - 50% click rate per unique opens
   - Qualitative feedback from newsletter survey
 
 ### **Results:**

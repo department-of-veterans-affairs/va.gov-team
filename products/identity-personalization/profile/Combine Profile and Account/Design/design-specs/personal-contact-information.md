@@ -115,12 +115,11 @@ This section will show the following:
 - **FAQ link text**: How do I update the email I use to sign in to VA.gov?
   - **FAQ dropdown text**: To update the email address you use to sign in, go to the account where you manage your settings and identity information.  Any email updates you make there will automatically update on VA.gov.
   - **Link text**: Update email address on ID.me
-  - **Link**:
+  - **Link**: https://api.id.me/en/session/new
   - **Link text**: Update email address on MyHealtheVet
-  - **Link**:
+  - **Link**: https://www.myhealth.va.gov/mhv-portal-web/home
   - **Link text**: Update email address on DS Logon
-  - **Link**:
-
+  - **Link**: https://myaccess.dmdc.osd.mil/identitymanagement/consent?continueToUrl=%2Fidentitymanagement%2Fauthenticate.do%3Fexecution%3De2s1
 ## Addresses
 ### Personal and contact information - Edit Mailing Address 
 

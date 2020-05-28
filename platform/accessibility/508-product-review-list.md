@@ -72,6 +72,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
       - [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
       - [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
       - [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
+      - [GI Bill Estimate Your Benefits](#gi-bill-estimate-your-benefits)
+      - [GI Bill Section 103](#gi-bill-section-103)
     - [VFS Veterans Affairs Online Scheduler (VAOS)](#vfs-veterans-affairs-online-scheduler-vaos)
       - [Open issues](#open-issues-2)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
@@ -90,12 +92,6 @@ Each application or logical section of the site will have a heading and a detail
 ### Automation
 - [[CI/CD]: CONSIDER updating the axe-core library to version 3.x.x for our automated accessibility tests - #8941](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8941)<br/>
 **Production** | **Opened:** May 8, 2020
-- [Create ESLint rules to call axeCheck in E2E tests properly - #8491](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8491)<br/>
-**Production** | **Opened:** April 27, 2020
-- [Create a CircleCI rule that alerts the front-end review team if E2E tests don't include an axeCheck - #8781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8781)<br/>
-**Production** | **Opened:** May 5, 2020
-- [Create a marketing message for ESLint axe check rule(s) - #8669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8669)<br/>
-**Production** | **Opened:** May 5, 2020
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -108,12 +104,30 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open Issues**
 
+- [[FUNCTIONALITY]: Modal - Focus MUST be set correctly on the window for all screen readers - #9231](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9231)<br/>
+**Production** | **Opened:** May 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+- [[COGNITION]: Pagination - HTML SHOULD be updated to improve usability for assistive technology - #9183](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9183)<br/>
+**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[SCREENREADER]: Additional Information - VoiceOver MUST set focus correctly when the component is toggled - #8856](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8856)<br/>
 **Production** | **Opened:** May 6, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[SCREENREADER]: Improve the modal windows to prevent AT users from navigating page behind the window screen - #1449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1449)<br/>
 **Production** | **Opened:** August 29, 2019 | **Severity:** 508-defect-2 — **_Serious_**
+- [[KEYBOARD]: Accept Terms Prompt - SHOULD NOT have a second tab stop in the source order - #9199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9199)<br/>
+**Production** | **Opened:** May 18, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Sortable Table - Buttons MUST look like clickable UI elements - #9193](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9193)<br/>
+**Production** | **Opened:** May 18, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Modals - CONSIDER updating HTML in modal dialogs to increase understanding - #9182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9182)<br/>
+**Production** | **Opened:** May 15, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Buttons - All buttons SHOULD have a darker shade on hover and focus - #9087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9087)<br/>
+**Production** | **Opened:** May 13, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Breadcrumbs - Lists SHOULD announce the number of items in VoiceOver - #9085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9085)<br/>
+**Production** | **Opened:** May 13, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Breadcrumbs - Links SHOULD NOT be announced when component re-renders - #9031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9031)<br/>
+**Production** | **Opened:** May 13, 2019 | **Severity:** 508-defect-3 — **_Minor_**
+- [[COGNITION]: Alert Box - Icons SHOULD NOT be invisible tab stops for screen readers - #9028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9028)<br/>
+**Production** | **Opened:** May 13, 2019 | **Severity:** 508-defect-3 — **_Minor_**
 - [Update the Additional Info component to be used for Learn More expandable sections in forms - #4330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4330)<br/>
 **Production** | **Opened:** December 18, 2019 | **Severity:** 508-defect-3 — **_Minor_**
 - [Create research code samples for better accordion usability with screen readers, assistive technology - #4706](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4706)<br/>
@@ -124,6 +138,10 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** April 23, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 - [[IMPROVEMENT]: Address Block - CONSIDER adding a component and structured data - #8859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8859)<br/>
 **Production** | **Opened:** May 6, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[FUNCTIONALITY] Sortable Table - SHOULD provide a sorting function - #9194](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9194)<br/>
+**Production** | **Opened:** May 18, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+- [[COLORBLINDNESS]: Buttons - CONSIDER adding a non-color element to differentiate primary from default  - #9141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9141)<br/>
+**Production** | **Opened:** May 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -266,7 +284,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
   **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[CI/CD]: Continue exploration of description list refactoring for all-claims accessibility checks - #8595](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8595)<br/>**Production** | **Opened:** April 30, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[CI/CD]: Review coverage of accessibility checks in all-claims end-to-end tests - #7319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7319)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
@@ -606,7 +623,6 @@ Back to [Table of Contents](#table-of-contents)
 - [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [KEYBOARD]: Landmarks MUST have a unique role or role/label/title (i.e. accessible name) combination; main nav and sidebar nav conflict](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6368)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
-- [[COGNITION]: Content SHOULD not be cut off; IE11 accordion content is not flowing into columns](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6672)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6507)<br/>**Production** | **Opened:** March 9, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [CMS [AXE-CORE]: All page content MUST be contained by landmarks - div.veteran-banner](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6339)<br/>**Production** | **Opened:** February 28, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
@@ -653,8 +669,6 @@ Back to [Table of Contents](#table-of-contents)
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-- [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -729,9 +743,7 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** November 28, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[COGNITION]: GIBCT Section 116 - Estimated benefits should be calculated on button press, not form control change - #3536](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3536)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [[DOCUMENT]: GIBCT Section 116 - Excel document has color contrast issues that could be improved - #3758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3758)<br/>
-**Opened:** November 26, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-- [DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
+- [[DOCUMENT]: GIBCT Section 116 - Excel document SHOULD NOT have merged cells - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>
 **Opened:** May 1, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: GIBCT Section 116 - VoiceOver is spelling out some all caps text instead of reading it - #3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
@@ -776,6 +788,44 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[DOCUMENT]: GIBCT SCO - CONSIDER adding headers to the Dear SCO letter - #8765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8765)<br/>
 **Opened:** May 5, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### GI Bill Estimate Your Benefits
+
+**Audit Status:** In user testing<br/>
+
+**Open issues**
+
+- [[ZOOM]: Section 103 - Modal windows MUST be usable at 200% to 400% zoom - #9240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9240)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: EYB - Estimate your benefits SHOULD only read when users press Calculate benefits button in IE11 - #9242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9242)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: EYB - CONSIDER updating link text "this page" to more descriptive labels - #9243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9243)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[COGNITION]: EYB - CONSIDER updating slash yr and slash mo to include screen reader only text - #9244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9244)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[COGNITION]: EYB - CONSIDER hiding the HR divider from screen readers - #9245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9245)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+
+Back to [Table of Contents](#table-of-contents)
+
+---
+
+#### GI Bill Section 103
+
+**Audit Status:** VSP staging review complete<br/>
+
+**Open issues**
+
+- [[ZOOM]: Section 103 - Modal windows MUST be usable at 200% to 400% zoom - #9240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9240)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -845,7 +895,6 @@ Back to [Table of Contents](#table-of-contents)
 - [[#8253 sitewide, CMS [SCREENREADER, KEYBOARD, COGNITION]: Links SHOULD look like links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8253)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8254 design system, components [KEYBOARD]: Focus outline MUST be visible around focused content, pagination](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8254)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-2 - **Serious**_ 
 - [[#8255 sitewide, design system, components [KEYBOARD]: Focused item MUST be contained by focus outline, pagination Next >](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8255)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-- [[#8257 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8257)<br/>**Production** | **Opened:** April 21, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 - [[#8279 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8279)<br/>**Production** | **Opened:** April 22, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
@@ -853,10 +902,12 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### SSOe Single Sign On
 
-**Audit status:** _Ready for VSP staging review_<br/>
+**Audit status:** _VSP staging review completed_<br/>
 
 **Open issues**
 
+- [[SCREENREADER]: Single sign-on modal - Keyboard and screen reader focus MUST be trapped in modal windows - #9229](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9229)<br/>**Staging** | **Opened:** May 18, 2020 | **Severity:** _508-defect-3 - **Minor**_
+- [[KEYBOARD]: Single sign-on modal - Focus SHOULD go to the top of the page when modal is closed - #9227](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9227)<br/>**Staging** | **Opened:** May 18, 2020 | **Severity:** _508-defect-3 - **Minor**_
 - [[COGNITION]: SSO login modal - CONSIDER reviewing language for "other sites" - #8670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8670)<br/>**Staging** | **Opened:** May 1, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 Back to [Table of Contents](#table-of-contents)
@@ -916,7 +967,9 @@ Back to [Table of Contents](#table-of-contents)
 
 * [#8992 [COGNITION]: Left Nav - In this section link SHOULD have an accessible label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8992)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-2 -  - **Serious**_ 
 
-* [#8958 [COGNITION, MOBILE DESIGN]: Sidenav MUST not be cut off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8958)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_ 
+* [#8958 [COGNITION, MOBILE DESIGN]: Sidenav MUST not be cut off](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8958)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
+
+* [#8992 [COGNITION]: Left Nav - In this section link SHOULD have an accessible label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8992)<br/>**Opened:** May 11, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
 
 Back to [Table of Contents](#table-of-contents)

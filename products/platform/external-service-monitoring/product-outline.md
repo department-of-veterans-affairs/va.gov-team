@@ -1,4 +1,4 @@
-# External Service Performance Monitoring 
+# External Service Performance Monitoring
 
 #### Communications
 
@@ -6,7 +6,7 @@
 - GitHub Label(s): `external-service`
 - Slack Channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
 - Product POCs: Alex Pappas
-- Stakeholders: Dror Matalon, Andrew Gunsch 
+- Stakeholders: Dror Matalon, Andrew Gunsch
 
 #### Team Members
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-The external service performance monitoring product includes a collection of resources including Grafana dashboards, process documentation, and reporting for external services. 
+The external service performance monitoring product includes a collection of resources including Grafana dashboards, process documentation, and reporting for external services.
 
 ## Problem Statement
 
@@ -103,9 +103,15 @@ Tool is performing well if:
 
 ### Current Status
 
+#### Version 0.2 - 2020-05-27
+
+- Update Grafana dashboard coloring scheme
+- Prepend overview page to report output
+- Improve cross-platform compatibility of script
+
 #### Version 0.1 - 2020-04-28
 
-- Implement baseline SLI definitions 
+- Implement baseline SLI definitions
 - Document and update Grafana dashboards related to external services
 - Draft initial SLO documents for most external services
 - Reorganize and rename product outline and folder documents
@@ -113,4 +119,3 @@ Tool is performing well if:
 ##### Previous Versions
 
 This product is currently in the ideation & discovery phase.
-

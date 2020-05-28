@@ -1,17 +1,22 @@
 ---
 name: Analytics Implementation and QA Request Template
-about: To request Google Analytics implementation or QA for product launches or iterations
+about: To request Google Analytics implementation for product launches or iterations
 title: Analytics Implementation or QA Support for [Product]
 labels: analytics-insights, analytics-request, collaboration-cycle
 assignees: joanneesteban, bsmartin-ep, jonwehausen
 
 ---
 
-# Analytics Implementation or QA Request
+# Google Analytics Implementation or QA Request
 
 ## What this form is for
-Use this template to request Google Tag Manager and Google Analytics implementation or QA for your product. Please fill out all brackets. 
 
+<details>
+<summary>More Information</summary>
+<div>
+    <br>
+<p>Use this template to request Google Tag Manager and Google Analytics implementation or QA for your product. Please fill out all brackets.</p>
+    
 > _Please see the following information for implementation timeline:_
 > New Teams: Implementation will usually be completed in 4 sprints:
 > 
@@ -24,6 +29,12 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 > 
 > - Sprint 1: Discovery and FE Implementation
 > - Sprint 2: Tagging Implementation and QA
+
+For more information, please check out the [Google Tag Manager resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/readme.md).
+
+An example of a completed request template can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7199). A fully completed issue can help speed up the implementation process.
+</div>
+</details>
 
 ## Description
 - Is this request for Google Analytics implementation or QA?

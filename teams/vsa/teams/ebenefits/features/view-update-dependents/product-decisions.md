@@ -1,4 +1,10 @@
-# High Level Product Decisions: 686c application
+# High Level Product Decisions: 21-686c Application
+**VSA eBenefits Team | May 2020**
+
+`Jason Wolf, product manager`
+
+---
+
 This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
 ## VA File Number  
 `May 8, 2020`  
@@ -24,7 +30,8 @@ When adding dependent, ask an additional (optional) question: "Did this dependen
 Ask a global (optional) question: "Did the household have a total income of less than $XXX in the last tax year?"
   
 _This should be handled with care and context so that financial questions are not off-putting to the Veteran_
-- Design the presetnation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
+- Design the presentation of these questions in a way that conveys their intent and gives confidence to the Veteran about what they are answering and what it is for.
+- These questions are in the current mockups, with callouts, but will not be implemented until after production.
 
 **TL;DR - 2 new pension questions to be added.  Create a mockup for later implementation**
 
@@ -37,8 +44,27 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+------------
+
+## Field Deltas 
+`May 18, 2020`  
+**The form presents a set of questions and possible answers but the backend in BGS may only accept a portion or a different set of them.**  
+
+-E.g., we take suffix online but there is no place to fill it in the actual pdf.
+  
+_As much as possible we want the structured data to be representative of what is being presented._
+- Ensure there is documentation on what these deltas are.
 
 ------------
+
+## Tweaks to Questions  
+`May 18, 2020`  
+
+**Report Divorce - two radio buttons for reason marriage ended: Divorce and Annulment / Other.
+Spouse Marriage History - three radio buttons for reason marriage ended: Divorce, Death, and Other.**  
+  
+------------
+
 ## Issue Title  
 `Date decided`  
 **Description.**  
@@ -47,3 +73,19 @@ _Note/ Guiding principle_
 - Action item
 
 **TL;DR - what does this mean?  what do we do next?**
+
+------------
+
+## Differences and issues with online and paper forms
+[Link to VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
+| VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution | Date |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Add Child | Child status checkboxes | 18G. CHILD STATUS (iterates) | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
+| Add Child | Marriage end date selector | 16E. IF THE CHILD DOES NOT LIVE WITH THE CLAIMANT PROVIDE NAME OF PERSON THE CHILD RESIDES WITH (iterates) | Should we create a person and a relationship with the child and this person? | Unresolved | - |
+| Add Spouse | Marriage type radio buttons | 11F. HOW WERE YOU MARRIED? | Where do we put ‘type’ and then type other? | Unresolved | - |
+| Add Spouse (Former Marriages) | Reason marrige ended radio buttons | 14A.3 REASON FOR TERMINATION and 15A.3 REASON FOR TERMINATION (iterates) | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce," "Death" and "Annulment or other"  | 5/18/20 |
+| Add Spouse | Reason for separation textbox | 13B. REASON FOR SEPARATION  | FE sends reason for separation. We don’t know where to put this. Would it be ‘Other’ in `marage_trmntn_type_cd` ? | Unresolved  | - |
+| Report Divorce | Reason marrige ended radio buttons | SECTION IV Note: If marriage ended as an annulment or declared void, use Section IX, Item 25 | In `vnp_ptcpnt_rlnshp_create` we have these options for marriage type code: Death, Divorce, Other | Set radio button options to: "Divorce" and "Annulment or other" (no Death)  | 5/18/20 |
+| Report Death | Dependent relationship radio buttons | 22A. DEPENDENT TYPE | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
+| Report Child Marriage | Marriage end date selector | 23B. DATE OF MARRIAGE  | No place for: `date_marriage_ended` Should we use `end_dt` in `vnp_ptcpnt_rlnshp_create`? | Unresolved | - |
+| 674 | Course of study or educational program text field | 8B. NAME OR TYPE OF COURSE OF EDUCATION OR TRAINING | In the `school_information` what do we do with `training_program`? There’s `course_of_study` but that is taken in the `program_information` | Unresolved | - |

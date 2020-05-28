@@ -1,14 +1,4 @@
 # Product Outline Template
-
-#### Communications
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-#### Team Members
-
 ---
 
 ## Overview
@@ -33,6 +23,22 @@
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
+
+
+---
+## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
+
+### KPIs
+* _What are the most important metrics that track with this product/initiative's success?_
+* _Include links to Domo or Google Analytics Dashboards/Reports_
+
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+### OKRs
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
@@ -71,3 +77,38 @@
 ### Before
 
 ### After
+
+---
+
+#### Communications
+
+<details>
+
+- Team Name: 
+- GitHub Label: 
+- Slack channel: 
+- Product POCs:
+- Stakeholders: 
+
+</details>
+
+#### Team Members
+
+<details>
+ 
+ - DEPO Lead: 
+ - PM: 
+ - Engineering:
+ - Research/Design: 
+ 
+</details>
+
+
+#### Stakeholders
+
+<details>
+ 
+_What offices/departments are critical to make this initiative successful?_
+ 
+</details>
+

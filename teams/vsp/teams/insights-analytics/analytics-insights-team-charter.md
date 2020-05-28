@@ -5,14 +5,14 @@
 ## Why we're here
 
 ### North Star:
-Number of Va.gov teams using KPIs every quarter to re-articulate strategies and re-develop hypotheses.
+Number of Va.gov teams reporting metrics every quarter for product decisions.
 
 ### Product Suite (if applicable): 
 
 Platform
 
 ### Team Mission Statement:
-Champion a data-driven culture across the VA by providing VFS teams with resources that incentivize user-centered decisions and product improvements to optimize Veterans’ online access to benefits.
+Empower Veteran Facing Services teams to make more data-informed decisions for better Veteran outcomes.
 
 ### Product Portfolio:
 
@@ -25,6 +25,8 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - VFS KPI Setting and Tracking Processes
 - Contact Center relationships
 - Contact Center triaging
+- Domo
+- BigQuery
 
 **Metrics Suite**
 - Google Analytics
@@ -38,6 +40,9 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - Social Studios
 - PA&I
 - Grafana*
+- Speedcurve*
+
+* Grafana is owned by VSP Back End Tools and VSP Operations. Speedcurve is owned by VSP Front End Tools.
 
 ### Responsibilities:
 *Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
@@ -65,7 +70,12 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - Deploy and maintain the Product Success Tool
     - Aggregate relevent data from across different channels
     - Visualize product problems
+    - Analyze data where appropriate
     - Maintain BigQuery
+        - Maintain data models
+        - Pipe data where appropriate
+        - Work with other VSP teams to uphold data integrity
+        - Decrease costs through efficient processes
     - Connect all relevant and available data to Domo
 - Maintain & develop Contact Center relationships
 - Determine appropriate ForeSee tracking questions and strategy
@@ -73,6 +83,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
     - Triage Tier 3 issues to appropriate VFS teams
     - Respond to Tier 3 issues
 - Respond to and publish one-off and recurring data reporting requests
+- Understand available VA.gov related data and answer questions or triage where appropriate
 
 ### Roadmap:
 [Link to Github Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=analytics-insights,super-epic&repos=133843125)
@@ -82,7 +93,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 ## Who we are
 
 ### Team Members:
-- DEPO Product Leads: _Kevin Hoffman & Dror Matalon_
+- DEPO Platform Product Leads: _Kevin Hoffman & Dror Matalon_
 - DEPO Contact Center Product Lead: _Chante Lantos-Swett_
 - Product Manager: _Joanne Esteban_
 - Implementation Specialist: _Jon Wehausen_
@@ -167,3 +178,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
     - Access - ping us on Slack, #vfs-platform-support
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 - Product Success Tool
+
+---
+#### Grey Areas & Questions
+- (May 2020) What does VSP Analytics & Insights own in relation to the analytics that is currently owned by the other VSP teams? Our current assumption is that VSP Analytics & Insights displays data, handles most customer (VFS, storytellers, etc.) interations with data, analyzes data, and provides tracking for the products listed in this charter. However, the collection and instrumentation of the other sources of data, such as Prometheus, Speedcurve, etc., will live with and be owned by their current VSP owners. So if someone has a Speedcurve question, VSP Analytics & Insights would answer basic questions such as "is my performance too low?" but would triage further questions, particularly engineering and debuggin related questions, to the Front End Tools Team. Is this assumption correct?

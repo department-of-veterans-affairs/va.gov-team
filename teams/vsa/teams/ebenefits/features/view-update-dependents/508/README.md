@@ -1,41 +1,9 @@
-# Accessibility Test Cases: Add or change your dependents
-`eBenefits | April 2020`
+# Accessibility Spot Checks
+These are the accessibilty checks done  
+`eBenefits | April-May 2020`  
 
-## Resources
-1. [A11y Test Case Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
-2. [508 Compliance Tracker](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=0)
-3. [Accessibility Staging Review Processes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md)
-
-## Credentials Used
-User (Jerry): vets.gov.user+271@gmail.com (has 2 on award, 4 not)
-
-**Staging url:** https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction
-1. Scan with axe browser plugin  
-```HTML
-Heading levels should only increase by one
-<h4>Follow the steps below to apply for declare or remove a dependent.</h4>
-```
-2. Scan with axe-coconut   
-```HTML
-Heading levels should only increase by one
-<h4>Follow the steps below to apply for declare or remove a dependent.</h4>
-```
-3. Lighthouse Scan (Chrome)
-4. NVDA Scan (Firefox)
-5. VoiceOver (Safari)
-6. Keyboard Navigation
-7. Color contrast & blindness
-8. Zoom to 400% at 1280px
-----
-
-
-**Staging url:** 
-1. Scan with axe browser plugin
-2. Scan with axe-coconut
-3. Lighthouse Scan (Chrome)
-4. NVDA Scan (Firefox)
-5. VoiceOver (Safari)
-6. Keyboard Navigation
-7. Color contrast & blindness
-8. Zoom to 400% at 1280px
-----
+- [Manage Dependents - Introduction, Checkboxes, Veteran Info, and "Claim additional benefits for a child"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/508/intro-checkboxes-veteran-info-claim-child.md)
+- [Manage Dependents - "Claim additional benefits for a spouse"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/508/ADDSPOUSE.md)
+- [Manage Dependents - "Report marriage of a child, report a divorce, report death of a dependent, report child has started attending school"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/508/child-marriage-report-divorce-report-death-report-child-started-attending-school.md)
+- [Manage Dependents - "Report that a child 18 to 23 years old has stopped attending school (674)"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/508/child-stopped-attending-school.md)
+- [Manage Dependents - "Stepchild has left household"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/508/remove-stepchild.md)

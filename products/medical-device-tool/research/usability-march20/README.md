@@ -13,6 +13,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
     - After sharing our original conversation guide, Shawna recommended that we eliminate (or at least reduce) interrupting the participants mid-task to ask questions. We reworked the guide to allow a more natural progression through the tasks and placed "side-quest" tasks at the end once the main flow has been followed.
   - [Usability Test Prep Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6499)
   - Lauren Alexanderson's Feedback
+    - None
 - User Interview Notes
   - Participant 1 (Cancelled)
   - [Participant 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/session-notes/participant-2.md)
@@ -28,5 +29,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - [Participant 12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/session-notes/participant-12.md)
 - [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/usability-topline-summary.pdf)
 - Synthesis Artifacts
-- Research Readout Notes
-- Research Readout Presentation
+  - [Excel document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/MDT%20Usability%20Synthesis.xlsx)
+- [Research Readout Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/research-readout.md)
+- [Research Readout Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/usability-topline-summary.pdf)

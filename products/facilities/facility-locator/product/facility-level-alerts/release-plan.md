@@ -21,6 +21,7 @@
 
 ### Planning:
 - Desired date: 04/20/20
+- Go Live date: 4/22/20
 - Post-launch KPI 1: Click through rate beginning with COVID-19 alert banner through to the facility-level operating status information
 - Post-launch KPI 2: Number of calls to contact center about facility status  
   - March 2020 = 235 calls

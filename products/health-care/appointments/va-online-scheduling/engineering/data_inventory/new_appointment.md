@@ -1,75 +1,201 @@
-# New appointment data
+# New appointment service calls and data
 
-FHIR equivalent in parentheses, bold items are uncertain/unknown
+## Glossary
+
+- Site id
+   - VistA sta3n id
+- Facility id
+   - VistA sta6aid
+- Type of care id
+   - Id from `/clinical-services/type-of-care`
+- CC type of care id
+   - Id from `/clinical-services/type-of-care`
+- Clinic id
+   - VistA clinic id, only unique when paired with sta3n
+
+## Service calls
 
 - Type of care list
-   - Data for each item:
-      - Identifier/stop code (**HealthcareService.identifier**)
-- Community care supported sites (**Location**)
-   - Filtered by: site ids
-   - Data for each time:
-      - Site
-      - Is supported flag
-- Community Care eligibility (**Unknown**)
-   - Filtered by: ICN, type of care
-   - Data:
-      - Is eligible flag
-- VA parent facilities (Organization)
-   - Filtered by: ICN, type of care id
-   - Data for each parent facility:
-      - Id (Organization.identifier)
-      - Friendly name (Organization.name)
-      - City (Organization.address[].city)
-      - State (Organization.address[].state)
-      - Root site id (**Organization.identifier**)
-- VA child facilities (Location)
-   - Filtered by: ICN, type of care id, parent facility id, site id
+   - VAR: `/clinical-services/type-of-care`
+      - Not called live, data pulled from this service and stored in FE code
+   - FHIR data: HealthcareService.serviceType
+   - Input: None
+   - Output used:
+      - Type of care id
+- CC type of care list
+   - VAR: `/community-care-services/type-of-cares`
+      - Not called live, data pulled from this service and stored in FE code
+   - FHIR data: Unknown
+   - Input: None
+   - Output used:
+      - CC type of care id
+- Community Care supported sites
+   - VAR: `/facility-service/supported-facilities`
+   - FHIR: Unknown
+   - Input:
+      - Site ids (sites user is registered at)
+   - Output used:
+      - List of site ids
+         - If we request a site id and a record doesn't come back, it's not supported
+- Community Care eligibility
+   - CCE: `/cce/v1/patients/{icn}/eligibility/{service_type}`
+   - Input: 
+      - ICN
+      - Lighthouse Community Care service type
+   - Output used:
+      - Boolean isEligible flag
+- VA parent sites
+   - VAR: `/direct-scheduling/parent-sites`
+   - FHIR data: Organization and Location
+   - Input: 
+      - ICN
+      - Type of care id
+   - Output used:
+      - List of parent sites
+         - Facility id
+         - Friendly name
+         - City
+         - State
+         - Site id
+- VA facilities
+   - VAR: `/direct-scheduling/institutions`
+   - FHIR data: Location
+   - Input: 
+      - ICN
+      - Type of care id
+      - Parent facility id
+      - Site id
    - Data for each facility:
-      - Id (Location.identifier)
-      - Friendly name (Location.name)
-      - Supports direct scheduling flag (**Unknown**)
-      - Supports requests flag (**Unknown**)
-- Request eligibility data (**Unknown**)
-   - Request limit
-      - Filtered by: ICN, facility id, type of care id
-      - Data:
-         - Request limit
-         - Oustanding request count
-   - Past visits
-      - Filtered by: ICN, facility id, type of care id, direct or request type
-      - Data:
-         - Time frame for required visit (typically 12 or 24 months)
-         - Has past visit in time frame flag
-   - PACT members
-      - Filtered by: ICN, site id
-      - Data:
-         - Member count
-   - Appointment history (Appointment)
-      - Filtered by: ICN, start date, end date
-      - Data for each item:
-         - Clinic id (Appointment.participant[HealthcareService].identifier)
-         - Site id (Appointment.participant[Location].identifier)
-- Clinics (HealthcareService)
-   - Filtered by: ICN, facility id, site id, type of care id
-   - Data for each item:
-      - Friendly name (HealthcareService.serviceName)
-      - Regular name (HealthcareService.serviceName
-      - Id (HealthcareService.identifier)
-- Facility detail (Location)
-   - Filtered by: User chosen facility id
-   - Data:
-      - Name (Location.name)
-      - Address (Location.address)
-      - Phone (Location.telecom)
-- Appointment slots (Slot)
-   - Filtered by: ICN, type of care id, clinic id, start date, end date
-   - Data for each item:
-      - Date and time (Slot.start, Slot.end)
-      - Timezone (**Unknown**)
-      - Duration (Slot.start, Slot.end)
-      - Availability (Slot.freeBusyType)
-- Contact info
-   - Filtered by ICN
-   - Data:
-      - User email
-      - User phone
+      - List of facilities
+         - Id
+         - Friendly name
+         - Supports direct scheduling flag
+         - Supports requests flag
+- Request limit
+   - VAR: `/direct-scheduling/patient/ICN/{icn}/request-limit`
+   - FHIR: Unknown
+   - Input: 
+      - ICN
+      - Facility id
+      - Type of care id
+   - Output:
+      - Request limit
+         - 0 means disabled
+      - Oustanding request count
+- Past visits
+   - VAR: `/direct-scheduling/site/{site_id}/patient/ICN/{icn}/{schedule_type}-eligibility/visited-in-past-months`
+   - Input: 
+      - ICN
+      - Facility id
+      - Type of care id
+      - Schedule type (direct or request)
+   - Output used:
+      - Time frame for required visit (typically 12 or 24 months)
+         - 0 is disabled
+      - Has past visit in time frame flag
+- Appointment history
+   - Used to filter out clinics that haven't been used in the past 2 years
+   - MAS: `/appointments/v1/patients/{icn}/appointments`
+   - FHIR: Appointment
+   - Input:
+      - ICN
+      - Start date (2 years in past)
+      - End date (current date)
+   - Output used:
+      - Clinic id
+      - Site id
+- Clinics
+   - VAR: `/clinical-services/patient/ICN/{icn}/clinics`
+   - FHIR: HealthcareService
+   - Input:
+      - ICN
+      - Facility id
+      - Site id
+      - Type of care id
+   - Output used:
+      - Friendly name or clinic name 
+      - Clinic id
+- Facility detail
+   - VA.gov: `/v0/facilities/va`
+   - FHIR: Location
+   - Input:
+      - Facility id
+   - Output used:
+      - Name
+      - Address
+      - Phone
+      - Hours
+- Appointment slots
+   - VAR: `/direct-scheduling/site/{facility_id}/patient/ICN/{icn}/available-appointment-slots`
+   - FHIR: Slot
+   - Input:
+      - ICN
+      - Type of care id
+      - Clinic id
+      - Start date (today)
+      - End date (60 days in future)
+   - Output used:
+      - Clinic list
+         - Start date
+         - Duration
+- Submit VA request
+   - VAR: `/appointment-service/patient/ICN/{icn}/appointments`
+   - FHIR: Appointment
+   - Input:
+      - ICN
+      - User form data
+         - Facility id
+         - Site id
+         - Type of care name
+         - Type of care id
+         - Requested times
+         - Visit type
+         - Best time to call
+         - Email
+         - Phone
+   - Output used:
+      - Request id
+- Submit request message
+   - VAR: `/appointment-service/patient/ICN/{icn}/appointment-requests/system/var/id/{request_id}/messages`
+   - FHIR: Unclear
+   - Input:
+      - ICN
+      - Request id
+      - User form data
+         - Reason for appointment
+- Submit appointment
+   - VAR: `/direct-scheduling/site/{site_id}/patient/ICN/{icn}/booked-appointments`
+   - FHIR: Appointment
+   - Input:
+      - ICN
+      - Site id
+      - User form data
+         - Site id
+         - Clinic id
+         - Date and time
+         - Reason for appointment       
+- Update preferences
+   - VAR: `/patient/ICN/{icn}/preference`
+   - FHIR: Unknown
+   - Input:
+      - ICN
+      - User form data
+         - Email
+- Submit CC request
+   - VAR: `/appointment-service/patient/ICN/{icn}/community-care-appointments`
+   - FHIR: Appointment
+   - Input:
+      - ICN
+      - User form data
+         - Site id
+         - CC type of care name
+         - CC type of care id
+         - Requested times
+         - Preferred language
+         - Nearby city/state (derived from address or site id)
+         - Provider name and address (optional)
+         - Best time to call
+         - Email
+         - Phone
+   - Output used:
+      - Request id

@@ -65,6 +65,18 @@ __VA forms stakeholder working group includes:__
 
 # Status and decisions:
 
+## 05/26/2020
+
+Ungating of search currently blocked by various API and form bugs. 
+
+Important discovery: API is treating form numbers like they are unique 'form IDs,' but in actuality, form numbers are not unique to 1 form in the source VA forms database. EX: The English 10-10EZ form has the same form number as the Spanish 10-10EZ. Without a unique form ID per form PDF or form PDF URL, we have asked the forms managers to update certain duplicate form numbers to make them distinct. 
+
+Other issues - legacy practices that were not cleaned up (e.g., www1. URLs, http:// URLs, etc.) 
+
+Next step: Regroup needed on ungating plan. 
+
+
+
 ## 03/11/2020
 
 Recap of redirect update w/ @mnorthuis from our Monday call:
@@ -199,4 +211,14 @@ Nick brought up a potential option where everything, including customizable cont
 
 __Next step: follow up conversation to investigate Nick’s suggestion, and to finalize decision on which approach to use.__
 
+--- 
 
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+## Target Launch Date
+- *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
+
+---

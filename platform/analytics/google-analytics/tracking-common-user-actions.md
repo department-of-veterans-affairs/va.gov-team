@@ -10,11 +10,11 @@ Google Analytics defines user interactions as **events**, and uses a hierarchy o
 
 These are the broad Event Categories you will find in Google Analytics:
 
-- Interactions: The user clicks on some UI element to interact with our site but does not result in a call to a back-end system.
-- Transactions: These represent a successful self-service action that is considered a "conversion." These should be the "end goal" actions of each VA.gov product. Using a separate category allows us to take a site-wide picture of transaction volume and trends in a simple manner.
-- Sign-on: The user takes some action related to their profile (logging in, registering, etc.).
-- API Calls: The front-end submits something (a form's content, etc.) on behalf of a user to the VA.gov API but does not represent a successful conversion.
-- Internal: For tracking items of interest of the VA.gov team but not directly about external users.
+- **Interactions:** The user clicks on some UI element to interact with our site but does not result in a call to a back-end system.
+- **Transactions:** These represent a successful self-service action that is considered a "conversion." These should be the "end goal" actions of each VA.gov product. Using a separate category allows us to take a site-wide picture of transaction volume and trends in a simple manner.
+- **Sign-on:** The user takes some action related to their profile (logging in, registering, etc.).
+- **API Calls:** The front-end submits something (a form's content, etc.) on behalf of a user to the VA.gov API but does not represent a successful conversion.
+- **Internal:** For tracking items of interest of the VA.gov team but not directly about external users.
 
 ### Common User Interactions
 Many basic Interactions are tracked within Google Analytics. Common elements that are already configured include: 

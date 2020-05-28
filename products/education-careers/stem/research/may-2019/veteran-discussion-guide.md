@@ -1,4 +1,5 @@
-*Veteran STEM Discussion Script*
+*Veteran STEM Discovery Discussion Script*
+May 2019
 
 *Introduction*
 

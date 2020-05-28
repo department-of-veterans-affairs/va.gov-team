@@ -1,8 +1,8 @@
 # Intro screen
 
-**COVID-19 screener**
+**COVID-19 screening tool**
 
-As part of our coronavirus screening, you'll need to answer 6 questions before entering a VA facility.
+Please answer the 6 questions listed below. Share your results with the staff member at the facility entrance.
 
 We won't store or share your data.
 
@@ -47,18 +47,11 @@ In the past 7 days, have you had a cough or shortness of breath that's new or ge
 
 In the past 3 days, have you had any of these symptoms?
 
-[radio button] Fever or feeling feverish (chills, sweating)
-
-[radio button] Sore throat
-
-[radio button] Muscle pain or body aches
-
-[radio button] Vomiting or diarrhea
-
-[radio button] Change in smell or taste
-
-[button] No symptoms
-
+- Fever or feeling feverish (chills, sweating)
+- Sore throat
+- Muscle pain or body aches
+- Vomiting or diarrhea
+- Change in smell or taste
 
 # Question 5
 
@@ -71,36 +64,24 @@ Do you currently have a sore throat, runny nose, or nasal congestion?
 [button] No
 
 
-# Question 6.A - for patient or support person
+# Question 6
 
-**Question 6 of 6**
-
-In the past 14 days, have you had contact with someone diagnosed with COVID-19?
-
-
-# Question 6.B - for employee or contractor
-
-**Question 6 of 6**
-
-In the past 14 days, have you had contact with someone diagnosed with COVID-19 without wearing personal protective equipment (PPE)?
+In the past 14 days, have you had close contact with someone diagnosed with COVID-19?
 
 
 # Pass
 
-## PASS
-
-_[update notes: tightened copy a bit more]_
+## OK to proceed
 
 **Valid for:**
 Tuesday, May 12, 1:23 p.m.
 
 Please show this screen to the staff member at the facility entrance.
 
-[button] Start new screening
+Thank you for helping us protect you and others during this time.
+
 
 # Fail
-
-_[update notes: tightened copy a bit more]_
 
 ## More screening needed
 
@@ -109,6 +90,5 @@ Tuesday, May 12, 1:23 p.m.
 
 Please show this screen to the staff member at the facility entrance.
 
-[button] Start new screening
+Thank you for helping us protect you and others during this time.
 
-_[opening PR]_

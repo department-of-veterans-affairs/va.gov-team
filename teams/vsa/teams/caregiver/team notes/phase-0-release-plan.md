@@ -14,12 +14,12 @@
 | April 24 | First draft frontend complete | Complete |
 | April 27 | Submit VA.gov _first round_ Platform Staging Review Request | [Complete](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8479) |
 | April 30 | CARMA Staging endpoint delivery | Recieved |
-| May 1 | VA.gov Platform Staging Review complete | On track |
-| May 4 | Staging demo - review VA.gov Platform feedback with Program team |On track |
-| May 4-8 | Program team reviews Staging functionality and provides additional feedback | On track
-| May 11 | Request Accessibility spot check | On track
-| May 15 | Frontend complete | On track
-| May 15 | Backend complete | On track
+| May 1 | _First round_ VA.gov Platform Staging Review complete | Complete |
+| May 4 | Staging demo - review VA.gov Platform feedback with Program team | Complete|
+| May 4-8 | Program team reviews Staging functionality and provides additional feedback | Complete
+| May 11 | Request Accessibility spot check | In progress
+| May 15 | Frontend complete | In progress
+| May 15 | Backend complete | In progress
 | May 18 | VA.gov Platform Privacy and Security Review | On track
 | May 18 | VA.gov Platform Staging Review  | On track|
 | May 18 - May 22 | Dark Release functionality testing with CARMA| On track

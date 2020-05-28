@@ -49,7 +49,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 ### Product Goals
 - Modernize the on-site search experience on VA.gov with features and functions which enable more directed search (e.g. type-ahead, faceted search, etc.)
 - Make VA.gov on-site search results more relevant and reliable
-- Measureably improve customer satifisfaction with VA.gov on-site search
+- Measurably improve customer satisfaction with VA.gov on-site search
 - Create a cohesive brand across the VA through direct control of the search page layout and look (To be better defined and verified as a goal)
 - Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be better defined and verified as a goal)
 
@@ -75,7 +75,7 @@ As a Veteran, I am able to find the information I need to on the VA.gov Website 
 ## Product
 There are four areas of focus for this initiative:
 1. Optimizing site indexing to ensure surfacing of the most relevant results in both on-site and organic search.  Key questions:
-- Is the auto-generated site xml map for VA.gov best structured for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). 
+- Is the auto-generated site xml map for VA.gov best structured for indexing by both Search.gov and external search engines? (e.g., only canonical versions of URLs, etc.). Note: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md
 - Have sitemaps been provided for all or the prioritized VA.gov subdomains (site map indexing is preferred to crawling)
 2. Implement and/or improve the VA.gov utilization of available Search.gov features, including: 
 - Type-ahead - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896 
@@ -89,10 +89,12 @@ There are four areas of focus for this initiative:
 - Tweets - https://search.gov/manual/twitter.html
 - YouTube videos - https://search.gov/manual/youtube.html (if a priority to the business)
 
-As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
+4. As part of the Product discovery process, a fresh assessment will be made of broader on-site and organic search trends and features to ensure the most up-to-date best practices are considered.  For example, search engine result page (SERP) features, such as Featured Snippets, People Also Ask, Knowledge Panels (https://www.nngroup.com/articles/key-serp-features/)
 
 ## User Insights
-- 
+- A deep dive review of Search-related data from Google Analytics and Search.gov is underway to determine the effectiveness of on-site search.
+- A qualitative study of the effectiveness of VA.gov's search experience may be necessary to derive the insight needed to formulate/validate product hunches.
+
 ## Analytics
 The Analytics team is conducting a gap research spike (https://github.com/department-of-veterans-affairs/va.gov-team/issues/8572) to determine what GA data is available and what tagging needs to be done to address key upfront questions related to VA.gov on-site search, including:
 
