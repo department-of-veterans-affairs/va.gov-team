@@ -809,13 +809,7 @@ Back to [Table of Contents](#table-of-contents)
 #### GI Bill Section 103
 
 **Audit Status:** VSP staging review complete<br/>
-
-**Open issues**
-
-- [[ZOOM]: Section 103 - Modal windows MUST be usable at 200% to 400% zoom - #9240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9240)<br/>
-**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
-**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
