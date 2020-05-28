@@ -1,6 +1,17 @@
 # New appointment data
 
-FHIR equivalent in parentheses, bold items are uncertain/unknown
+Glossary:
+
+- Site id
+   - VistA sta3n id
+- Facility id
+   - VistA sta6aid
+- Type of care id
+   - Id from /clinical-services/type-of-care
+- CC type of care id
+   - Id from /clinical-services/type-of-care
+- Clinic id
+   - VistA clinic id, only unique when paired with sta3n
 
 - Type of care list
    - VAR: `/clinical-services/type-of-care`
@@ -9,6 +20,13 @@ FHIR equivalent in parentheses, bold items are uncertain/unknown
    - Input: None
    - Output used:
       - Type of care id
+- CC type of care list
+   - VAR: `/community-care-services/type-of-cares`
+      - Not called live, data pulled from this service and stored in FE code
+   - FHIR data: Unknown
+   - Input: None
+   - Output used:
+      - CC type of care id
 - Community Care supported sites
    - VAR: `/facility-service/supported-facilities`
    - FHIR: Unknown
@@ -36,7 +54,7 @@ FHIR equivalent in parentheses, bold items are uncertain/unknown
          - Friendly name
          - City
          - State
-         - Root site id
+         - Site id
 - VA facilities
    - VAR: `/direct-scheduling/institutions`
    - FHIR data: Location
@@ -44,7 +62,7 @@ FHIR equivalent in parentheses, bold items are uncertain/unknown
       - ICN
       - Type of care id
       - Parent facility id
-      - VistA site id
+      - Site id
    - Data for each facility:
       - List of facilities
          - Id
@@ -168,8 +186,8 @@ FHIR equivalent in parentheses, bold items are uncertain/unknown
       - ICN
       - User form data
          - Site id
-         - Type of care name
-         - Type of care id
+         - CC type of care name
+         - CC type of care id
          - Requested times
          - Preferred language
          - Nearby city/state (derived from address or site id)
