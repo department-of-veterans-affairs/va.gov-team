@@ -23,11 +23,19 @@
 
 ## May 2020 Research: Top takeaways
 
-|                                                              |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-| Number of participants that knew of "Express Care"           |      |      |
-| Number of participants that used VA Telehealth before        |      |      |
-| *From appointments screen:* Number of participants that chose "Request an Express Care screening" button |      |      |
-| *From appointments screen:* Number of participants that chose "New Appointment" button |      |      |
-| *From appointments list:* Number of participants that chose "Express Care" option |      |      |
-| *From appointments list:* Number of participants that chose "Same-day Telehealth screening" option |      |      |
+| Number of participants who...                                |      |
+| ------------------------------------------------------------ | ---- |
+| Said they knew about / heard about "Express Care"*           | 2    |
+| Have used VA Telehealth before                               | 10   |
+| Expect a response from a medical professional                | 10   |
+| Expect / want to be seen by PACT                             | 5    |
+| Thought they would instantly be connected to chat / Telehealth appointment / receive a call | 2    |
+| Consider same-day visits and pre-scheduled appointments the same (for scheduling) | 3    |
+| [from the appointment screen] select:  "Request Express Care Screening" button | 8    |
+| [from the appointment screen] select:  "New appointment" button | 3    |
+| [from the appointment list] select:  "Express Care" option   | 2    |
+| [from the appointment list] select:  "same-day Telehealth" option | 3    |
+| Like / want to continue to use Telehealth                    | 11   |
+| would use "Express Care" / Telehealth for COVID screening    | 11   |
+
+*None of the participants could accurately define "Express Care", even if they said they knew what it was.
