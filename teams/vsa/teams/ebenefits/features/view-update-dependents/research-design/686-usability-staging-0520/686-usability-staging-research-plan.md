@@ -67,10 +67,10 @@ The over-arching business goal of the 686 is the quick automatic processing of t
 
 3. Upload scenarios and requirements will need greater clarification. the actual upload process itself will be quick and easy, but users will be frustrated by having to scan/find documents.
 
-4. Divorce plus stepchild combination may be problematic since it's long and requires detailed (potentially emotionally-charged) information.
+4. Combination workflows will be long but relatively easy for users; the divorce plus stepchild combination may be problematic since it's long and requires detailed (potentially emotionally-charged) information.
 
 #### Success
-This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
+This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows so that final refinement can be made before product launch. Specifically, several things need to be determined:
  - Will users understand and accept the multi-purpose nature of the form
  - What guidance (instructional text, headers, etc.) will users need to support successful completion of the form
  - Will users understand when additional information is required; and how to upload it
@@ -85,14 +85,14 @@ This methodology allows for direct observation of users interactions with a near
 Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
 
 #### All participants
-- Recruitment through Perigeon
-  - 14 participants will be scheduled by Perigeon
-  - Our expectation is to interview 10 veterans.
-    - We are anticipating 4-6 no-shows based on veterans showing up more during the stay at home order
+- Recruitment through Perigean
+  - 14 participants will be scheduled by Perigean
+  - We expect to interview 10 veterans.
+  - We anticipate 4-6 no-shows
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
-- Several Veterans (3+) with Total Rated Disability of 80% or greater and cognitive disabilities
+- Several Veterans (4+) with Total Rated Disability of 80% or greater and cognitive disabilities
 - Sessions will run approximately 60 minutes
 
 #### Group 1
@@ -101,7 +101,7 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
   - Has recently been married/divorced
   - Has experienced dependent status change such as, marriage, death, leaving school
   
-#### Workflow set 1
+#### Workflows for Group 1
 - Add spouse/Report divorce
 - Report death
 - Add student
@@ -113,7 +113,7 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
   - Has child (age 18 to 23) who is about to enroll or has enrolled in college
   - Has recently been divorced
   
-#### Workflow set 2
+#### Workflows for Group 2
 - Add spouse/Add child
 - Report death
 - Report marriage of child
@@ -157,11 +157,9 @@ The target date for the pilot session is TBD.
 
 - [Session notes]() (Available after research sessions.)
 
-- [Topline summary]() (Not yet available.)
+- [Topline summary]() (Available at conclusion of research.)
 
 - [Research synthesis]() (Available at conclusion of research.)
-
-- [Research readout]() (Available at conclusion of research.)
 
 ### References
  - [VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
