@@ -1,80 +1,81 @@
 # Logged-in homepage: Discovery summary outline
 
-1.	Background
-2.	What we did
+## Background
+## What we did
   - [Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
   - [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
   - [Past research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md)
   - [User interviews/co-design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
   - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md)
   - Additionally, there is the HKS research, which we did not do but is a helpful resource
-3.	Key findings
-  - **People want a task-based logged-in homepage tailored to them.** 
-    - User research
-    - Stakeholder interviews
-  - **Content**
-  - The existing homepage gets the benefit/content focus right, we just need to personalize this information.
-    - **Health care and disability are king.**
-      - User research
-      - Analytics
-      - Past research (2018 homepage work)
-    - **But people care about anything they have in flight, whether that is education or other benefits.**
-      - (This is where we'd talk about edu and other benefits people care about)
-      - User research
-      - Analytics
-      - Past research (2018 homepage work)
-    - **Records and documents are a focus for almost everyone.**
-      - User research
-      - Past research (2018 homepage work)
-      - Analytics??
-  - **Scalability**
-    - **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
-      - User research
-      - Past research (Frog research report)
-  - **Design**
-    - **The existing "blue sky" prototype gets a lot of things right.**
-      - User research
-    - **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
-      - User research
-      - Previous research review
-      - Comparative analysis
-  - **Authenticated experience overall**
-    - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
-      - User research (blue sky prototype; general discussion about accessing tools)
-      - Stakeholder interviews
-      - Analytics
-    - **Veterans expect notifications outside of VA.gov, but they also want new information to be clear to them when they log in.**
-      - User research
-      - Comparative analysis
-4. Recommendations
-  - Projects — Ultimately, this really comes down to 3 projects:
-    - Logged-in homepage
-      - Phase 1: Focus on initial widgets in “top tasks” area
-      - Phase 2: Focus on benefits discovery
-      - Note: Some of this will inevitably be part of phase 1 since we can’t launch without a “blank” state.
-      - Additional iterations and improvement over time
-    - Navigation
-      - We need to revisit the logged-in navigation.
-      - This will need to be iterative work that happens over time in concert with the IA team and the PW team.
-      - Can happen side-by-side with logged-in homepage work pending resources.
-    - Notification center
-      - We should have a notification center on VA.gov but we should not rely on that as our only means of notifying veterans.
-      - Can happen side-by-side with logged-in homepage work pending resources.
-  - Process
+## Key findings
+### **People want a task-based logged-in homepage tailored to them.** 
+- User research
+- Stakeholder interviews
+### **Content findings**
+The existing homepage gets the benefit/content focus right, we just need to personalize this information.
+- **Health care and disability are king.**
+  - User research
+  - Analytics
+  - Past research (2018 homepage work)
+- **But people care about anything they have in flight, whether that is education or other benefits.**
+  - (This is where we'd talk about edu and other benefits people care about)
+  - User research
+  - Analytics
+  - Past research (2018 homepage work)
+- **Records and documents are a focus for almost everyone.**
+  - User research
+  - Past research (2018 homepage work)
+  - Analytics??
+- **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
+  - User research
+  - Past research (Frog research report)
+### Design findings
+- **The existing "blue sky" prototype gets a lot of things right.**
+  - User research
+- **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
+  - User research
+  - Previous research review
+  - Comparative analysis
+  
+### Authenticated experience overall
+
+- **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
+  - User research (blue sky prototype; general discussion about accessing tools)
+  - Stakeholder interviews
+  - Analytics
+- **Veterans expect notifications outside of VA.gov, but they also want new information to be clear to them when they log in.**
+  - User research
+  - Comparative analysis
+## Recommendations
+- Projects — Ultimately, this really comes down to 3 projects:
+  - Logged-in homepage
+    - Phase 1: Focus on initial widgets in “top tasks” area
+    - Phase 2: Focus on benefits discovery
+    - Note: Some of this will inevitably be part of phase 1 since we can’t launch without a “blank” state.
+    - Additional iterations and improvement over time
+  - Navigation
+    - We need to revisit the logged-in navigation.
+    - This will need to be iterative work that happens over time in concert with the IA team and the PW team.
+    - Can happen side-by-side with logged-in homepage work pending resources.
+  - Notification center
+    - We should have a notification center on VA.gov but we should not rely on that as our only means of notifying veterans.
+    - Can happen side-by-side with logged-in homepage work pending resources.
+- Process
     - Approach project iteratively (as outlined above)
     - Develop design patterns for authenticated tools
       - User research (positive reaction to blue sky prototype)
       - Previous research review (findings from personalization 2.0 readout)
     - Stakeholder management
     - User test, user test, user test
-  - Metrics
+- Metrics
     - Measuring success 
-5.	Next steps
-  - Start moving into design planning
-  - Start discussing this with stakeholders outside DEPO
-  - Continue work on OKRs & KPIs and getting analytics set up
-  - Technical discovery
-  - Initial V1 comps
+## Next steps
+- Start moving into design planning
+- Start discussing this with stakeholders outside DEPO
+- Continue work on OKRs & KPIs and getting analytics set up
+- Technical discovery
+- Initial V1 comps
 
 
 ______________
