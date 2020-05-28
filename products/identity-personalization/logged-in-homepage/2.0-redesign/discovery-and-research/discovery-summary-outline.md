@@ -48,7 +48,8 @@ The existing homepage gets the benefit/content focus right, we just need to pers
   - User research
   - Comparative analysis
 ## Recommendations
-### Projects — Ultimately, this really comes down to 3 projects:
+### Projects
+Ultimately, this really comes down to 3 projects:
 - Logged-in homepage
   - Phase 1: Focus on initial widgets in “top tasks” area
   - Phase 2: Focus on benefits discovery
