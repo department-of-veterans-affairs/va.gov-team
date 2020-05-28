@@ -72,7 +72,7 @@
    - FHIR data: Organization and Location
    - Input: 
       - ICN
-      - Type of care id
+      - Site ids
    - Output used:
       - List of parent sites
          - Facility id
