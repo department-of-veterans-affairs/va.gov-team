@@ -41,6 +41,10 @@ VSP provides content feedback and guidance during the following Collaboration Cy
 
 - **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
+### <a id="resourcesandguides"></a> Other content support
+Other areas VSP content can provide support:
+
+- Error messages and downtime notifications. Please reach out to us for help writing error and downtime messages. You can see our current list of [error messages](https://design.va.gov/patterns/messaging-dictionary) here. 
 
 ### <a id="resourcesandguides"></a> Resources and guides
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo.
