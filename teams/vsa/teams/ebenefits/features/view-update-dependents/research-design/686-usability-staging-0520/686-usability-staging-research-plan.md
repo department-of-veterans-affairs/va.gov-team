@@ -25,19 +25,17 @@ Usability testing was conducted using prototypes in [February, 2020.](https://gi
 ### Goals
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment. For users, the 686 is a potentially long and convoluted form; it is imperative to minimize potential  confusion and consolidate the form's flow.
 
-#### Determine if users understand and accept the multi-purpose nature of the form
- - Observe users' interactions with workflow not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
- - Determine if users notice/understand the form-within-form nature of the 21-686c and 21-674
+#### Determine if users understand and accept the multi-purpose structure of the form
+ - Observe users' interactions with workflows and combinations not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
  - Observe how users interact with the form review accordions
 
 #### Decide what support users need to navigate and successfully submit the form
  - Determine what instructions, guidance and examples will be helpful within form workflows not tested in the prototype usability sessions (death, child marriage, divorce, etc.)
- - Assess user acceptance of various "remove" workflows; pay particular attention to the emotional nature of the scenarios.
- - Assess users' understanding and acceptance of "tell-me-more" accordions, particularly in workflows requiring uploaded documentation
+  - Note any potential problems with list/loop feature
 
 #### Determine if users identify cases requiring additional documentation
- - Confirm that introductory text informs users about upload requirements
- - Determine if users understand the scenarios/workflows where additional information is needed
+ - Confirm that introductory text informs users about upload requirements and what scenarios call for uploads
+ - Assess users' understanding of "tell-me-more" accordions in workflows requiring uploaded documentation
  - Assess users' understanding of the upload process, and it's placement within workflows
 
 #### Discover any problems that arise from longer/complicated chapter combinations
@@ -46,33 +44,30 @@ The over-arching business goal of the 686 is the quick automatic processing of t
    - Add-spouse/add-child workflow combinations
    - Add-child/add-student workflow combinations
    - Report-divorce/remove-stepchild workflow combinations
- - Note any potential problems with list/loop feature
 
 ### Research questions
-1. In what section of VA.gov would users expect to find the 21-686c? How would they navigate there?
-2. Are the form instructions clear and complete? Will users know what documents and info they will need to complete the form?
-3. Do participants understand how the 21-686c works as a multi-purpose form?
-4. What are the "sticking points" in the various form workflows? What workflow combinations cause users problems (add-spouse/add-child, add-child/add-student, add spouse/report divorce)?
-5. Where do users need examples, more guidance or improved section headers as they interact with the form?
-6. Will users understand when and how to upload additional documentation?
+1. Are the form instructions clear and complete? Will users know what documents and info they will need to complete the form?
+2. Do participants understand how the 21-686c works as a multi-purpose form?
+3. What are the "sticking points" in the various form workflows? What workflow combinations cause users problems (add-spouse/add-child, add-child/add-student, add spouse/report divorce)?
+4. Where do users need examples, more guidance or improved section headers as they interact with the form?
+5. Will users understand when and how to upload additional documentation?
+6. How will users interact with the form review accordions?
 7. Is the information on the confirmation page clear and complete?
-8. How will users interact with the form review accordions?
-9. Can users complete the longer scenarios in 30 minutes or less?
+8. Can users complete the longer scenarios in a timely manner (per OMB timeframe)?
 
 **Additional Questions**
-10. What are users' experiences with dependents on their VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
-11. What workflow combinations (scenarios) do users consider likely? 
+9. What are users' experiences with dependents on their VA benefits, and the current 21-686c (paper, digital, VSO, etc.)?
+10. What workflow combinations (scenarios) do users consider likely?
+11. Where in VA.gov would users expect to find the 21-686c?
 
 ### Hypotheses
-The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
+1. The paper version of the 686 is long and complicated, but the digital version should prove easy to use because it features user-selectable workflows and "step-by-step" chapter-based screens; however the form review accordions will prove challenging to participants because of page depth, and the potentially large number of section in longer workflows
 
- - Users will quickly grasp the checkbox selection feature, and combination workflows will be easily understood.
- - Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions) 
- - User acceptance and understanding of the upload feature will be spotty since it requires reading intro and helper text; the upload feature may create some confusion/frustration with its position at the end of the form.
- - Users will understand and accept the longer workflows
- - The list/loop pattern may create some confusion (odd button sequences)
- - Divorce plus stepchild combination may be problematic as they are long and require detailed (potentially emotionally-charged) information.
- - The form review accordions will prove challenging to participants because of page depth, and the potentially large number of section in longer workflows.
+2. Users will only scan the introduction screen, and will require additional clarification or guidance at various points (e.g. VA file number, dates within 674, financial questions)
+
+3. Upload scenarios and requirements will need greater clarification. the actual upload process itself will be quick and easy, but users will be frustrated by having to scan/find documents.
+
+4. Divorce plus stepchild combination may be problematic since it's long and requires detailed (potentially emotionally-charged) information.
 
 #### Success
 This research effort will be successful if it gives clear indications regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
@@ -156,7 +151,7 @@ The target date for the pilot session is TBD.
 ### Resources
 - [Project brief for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/apply-modify-dependents.md)
 
-- [Conversation guide]() (Not yet available.)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-convo-guide.md)
 
 - [Add/Remove Dependents mockups](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/README.md)
 
