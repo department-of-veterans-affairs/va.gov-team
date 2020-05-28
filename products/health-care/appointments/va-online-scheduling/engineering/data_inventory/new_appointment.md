@@ -7,9 +7,9 @@
 - Facility id
    - VistA sta6aid
 - Type of care id
-   - Id from /clinical-services/type-of-care
+   - Id from `/clinical-services/type-of-care`
 - CC type of care id
-   - Id from /clinical-services/type-of-care
+   - Id from `/clinical-services/type-of-care`
 - Clinic id
    - VistA clinic id, only unique when paired with sta3n
 
