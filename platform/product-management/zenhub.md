@@ -18,7 +18,7 @@ If after following the onboarding instructions above, you see a screen like the 
 
 try to click the button to request a license, then wait 1 business day for access to be granted.
 
-If after 1 day, Zenhub still doesn't work, please create a new thread in [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) and ping @zenhub-admins to request that they grant your license. Please provide your github username so they can process the request.
+If after 1 day, Zenhub still doesn't work, please create a new thread in [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) and ping @admins-zenhub to request that they grant your license. Please provide your github username so they can process the request.
 
 ## Product management with Zenhub
 
