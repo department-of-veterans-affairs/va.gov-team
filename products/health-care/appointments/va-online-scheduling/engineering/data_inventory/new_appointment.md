@@ -38,6 +38,13 @@
    - Input: None
    - Output used:
       - Type of care id
+- Lighthouse CC service type
+   - Lighthouse: `https://developer.va.gov/explore/health/docs/community_care?version=current`
+      - Not called live, data pulled from this service and stored in FE code
+   - FHIR data: Unknown
+   - Input: None
+   - Output used:
+      - Lighthouse service type
 - CC type of care list
    - VAR: `/community-care-services/type-of-cares`
       - Not called live, data pulled from this service and stored in FE code
