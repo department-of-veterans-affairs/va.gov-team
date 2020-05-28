@@ -45,7 +45,7 @@ Things to watch for:
 - Where does the user look to determine eligibility?
 - Does the user read to determine eligibility or just start the application?
 
-**If user makes a decision without starting the application**
+**1A - If user makes a decision without starting the application**
 - What do you think the requirements are to be eligible for the STEM scholarship?
   - STEM program of study / credit hours
   - 6 months or less of benefit left
@@ -56,11 +56,11 @@ Things to watch for:
 - How do you know how much entitlement you have remaining (e.g. something they track, how often do they check, etc.)?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
-**Decision:**
-If user is eligible, proceed to Second Task
-If user is not eligible, proceed to the Third Task.  
+  **Decision:**
+  - If user is eligible, proceed to Second Task
+  - If user is not eligible, proceed to the Third Task.  
 
-**If user starts application, allow user to perform Second Task without prompt**
+**1B - If user starts application, allow user to perform Second Task without prompt**
 
 ## Second Task: Apply for STEM - 15 minutes
 
