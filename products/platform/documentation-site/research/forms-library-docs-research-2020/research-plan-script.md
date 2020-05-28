@@ -26,21 +26,28 @@ A few assumptions we are making that we believe are already validated, or are lo
    - What questions do developers have after reading these recipes?
    - What types of recipes are missing?
    - What other resources do developers use to supplement the recipes if they still have questions?
+- Meta: Does this research method work effectively for testing the usability of documentation?
 
-**Everything below this line needs to be updated**
+### 3. Hypothesis: What is your hypothesis for this research? 	
 
-1. Hypothesis: What is your hypothesis for this research? 	
-  - Our hypothesis is that engineers on VFS teams find the documentation site helpful when they are first getting started, but less helpful when they are making important and more advanced decisions about their forms.
-  - Gaps in the forms system documentation lead to VFS team engineers creating their own reference materials that meet their needs.
-  - The recipe structure will be an effective way to help developers make decisions about their forms.
-
+The recipe structure will be an effective way to help developers make decisions about their forms.
 
 ## Method	
 
 1. What method of research are you planning? 
-   1. We will use a combination of remote, moderated directed interviews and usability testing.
+   - We will use a combination of methods during a scheduled block of time with each participant:
+      - Remote, directed interviews
+      - Unmoderated diary studies
+   - Here is how this semi-synchronous method would play out in a single session's agenda:
+      - 15 minutes: Introduction, brief directed interview, provide instructions
+      - 30 minutes: Participant completes diary study activity independently
+      - 15 minutes: Post-activity directed interview with participant, wrap up
+      
+**Everything below this line needs to be updated with new information**
+---
 2. Why this method? How does this methodology help you answer your research questions? 	
-   1. We will use a combination of interviews and usability testing because some of the information we want to gather can be done by asking questions and getting insight into developers' thought process, while other informatin will be best gathered by presenting tasks and observing how the participant completes them while also talking through their thought process.
+   - We will be using a combination of methods because we would like to speak briefly with the participant to learn about their experience both with the existing documentation site, and with the diary study activity.
+
 3. Where are you planning to do your research?
    1. We will use Zoom to conduct the remote sessions.
 4. What will you be testing? 
