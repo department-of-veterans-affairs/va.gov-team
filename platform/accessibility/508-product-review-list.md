@@ -92,12 +92,6 @@ Each application or logical section of the site will have a heading and a detail
 ### Automation
 - [[CI/CD]: CONSIDER updating the axe-core library to version 3.x.x for our automated accessibility tests - #8941](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8941)<br/>
 **Production** | **Opened:** May 8, 2020
-- [Create ESLint rules to call axeCheck in E2E tests properly - #8491](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8491)<br/>
-**Production** | **Opened:** April 27, 2020
-- [Create a CircleCI rule that alerts the front-end review team if E2E tests don't include an axeCheck - #8781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8781)<br/>
-**Production** | **Opened:** May 5, 2020
-- [Create a marketing message for ESLint axe check rule(s) - #8669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8669)<br/>
-**Production** | **Opened:** May 5, 2020
 
 Back to [Table of Contents](#table-of-contents)
 
