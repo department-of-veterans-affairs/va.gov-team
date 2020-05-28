@@ -2,11 +2,11 @@
 
 ## Goals	
 
-1. What product [tool/service/document/process] & VSP team are you doing this research for? 
+### 1. What product [tool/service/document/process] & VSP team are you doing this research for? 
 
    - This research is for the [forms library documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) on the Content and IA team, in collaboration with members of the Product Support and Front-End Tools teams.
 
-### 1. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
+### 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
 The VA.gov Forms System is a library for developers to create forms on VA.gov using a configuration-based approach. The Forms System has a documentation site ([here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/)) that provides guidance and instructions for how to use it. However, the documentation is incomplete in some places, isn't totally clear in others, which leaves engineers on VFS teams with unanswered questions. VSP has heard feedback that this documentation is the most useful when a team first sets up and gets started on a project, but its usefulness deteriorates as the engineers develop their teams' unique forms. These are things we know, that we will _not_ be validating with this research.
 
@@ -18,7 +18,7 @@ A few assumptions we are making that we believe are already validated, or are lo
 - It is appropriate to separate this technical documentation from other practices' forms-related documentation
 - Engineers are aware of the forms system documentation and are able to find it
 
-### 2. Research questions: What question(s) do you hope to be able to answer after completing this research?
+### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 - How effective is The Cookbook for helping developers make decisions? 
    - Is the concept of The Cookbook transparent and understandable?
    - Is the recipe format clear and actionable?
