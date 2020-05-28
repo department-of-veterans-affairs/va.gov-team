@@ -175,6 +175,22 @@ Back to [Table of Contents](#table-of-contents)
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [sitewide, design system, CMS [AXE-CORE]: Heading levels SHOULD increase by one, On this page component - #7877](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7877)<br/>
 **Production** | **Opened:** April 10, 2020 | **Severity:** _508-defect-2 - **_Serious_**
+- [[SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology - #9113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9113)<br/>
+**Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[SCREENREADER]: Consider updating phone number documentation in design system, to include spacing in the aria-label - #9114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9114)<br/>
+**Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[AXE-CORE]: Heading levels SHOULD increase by one - #9115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9115)<br/>
+**Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [sitewide, forms [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading - #9116](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9116)<br/>
+**Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[SCREENREADER, SEMANTIC MARKUP]: aria-label SHOULD be removed when it is redundant - #9134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9134)<br/>
+**Opened:** May 14, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [sitewide, forms 508-defect-3 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology - #9169](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9169)<br/>
+**Opened:** May 15, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [sitewide 508-defect-3 [SCREENREADER]: Progress indicator SHOULD be consistent on the same page - #9226](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9226)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [sitewide, forms 508-defect-3 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading - #9218](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9218)<br/>
+**Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[EXPLORATION]: Turn on jsx-a11y ESLint rules - #1139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1139)<br/>
 **Opened:** August 20, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 - [[EXPLORATION]: Disable known buggy axe rules individually - #1140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1140)<br/>
@@ -396,7 +412,14 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Form elements MUST be paired with labels - #9173](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9173)<br/>**Opened:** May 15, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #9170](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9170)<br/>**Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Serious_**
+- [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #9305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9305)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
+- [508-defect-2 [SCREENREADER, COGNITION]: Edit buttons SHOULD have context to distinguish their purpose - #9303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9303)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
+- [508-defect-3 [SCREENREADER, COGNITION]: Phone numbers SHOULD use the new aria-label pattern - #9299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #9273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9273)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [508-defect-3 [SEMANTIC MARKUP]: Radio inputs with the same name attribute value MUST be part of a group - #9174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)<br/>**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+- [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests - #7303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -903,6 +926,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
+* [#9374 508-defect-3 [FOCUS MANAGEMENT]: Focus order SHOULD flow in the logical reading order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9374)<br/>**Staging** | **Opened:** May 20, 2020 | **Severity:** _508-defect-3 - **Minor**_
 * [#8791 [COGNITION, SEMANTIC MARKUP]: individual search items SHOULD read semantically](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8791)<br/>**Staging** | **Opened:** May 5, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 Back to [Table of Contents](#table-of-contents)
