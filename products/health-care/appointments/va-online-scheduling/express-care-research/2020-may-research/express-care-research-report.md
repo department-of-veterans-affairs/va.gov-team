@@ -47,17 +47,44 @@ Veterans were shown and interacted with a clickable prototype to help us learn m
 
 
 
-## Findings and Recommendations Summary
+## Findings and Recommendations Overview
 
-### Findings summary
+### Findings overview
 
-The majority of participants we spoke with said they now have experience with Telehealth from VA providers, largely as a result of the onset of the novel coronavirus. Despite experience with VA Telehealth appointments, none of the participants could accurately describe "Express Care," although two participants saying they heard of it before. Many of the participants differentiated "Express Care" from "same-day Telehealth" by describing the former as an in-person same-day type of care, versus the latter being a virtual visit. 
+Overall, all (100%) participants said they would use virtual medical appointments for both routine/pre-scheduled appointments as well as same-day or urgent visits, if they are given this option. However, no (0%) participants were familiar with "Express Care" as a means for connecting with a VA provider for a same-day, Telehealth visit. (Two (18%) participants said they heard of "Express Care", but neither could accurately describe the service.) 
 
-All participants said they are interested in continuing using or starting to use virtual medical appointments as much as possible and see the value in Telehealth beyond the pandemic. All participants said they would turn to a Telehealth resource as a COVID-19 screener, if it became available to them. 
+Several key themes emerged throughout our research:
 
-Most participants selected the "Express Care screener" option to initiate a same-day virtual appointment. Nearly all participants, regardless of which method they used to initiate the visit, said they expected a medical professional (most likely a nurse) would follow up with them. They also commented on the indicated response time. Opinions varied about the 4-hour response window, falling into the following categories: they didn't believe that it was accurate, that it was only accurate if they initiated the request in the morning, or that it was acceptable. 
+- Experience varies per facility 
+- Response quality: responder and timeliness 
+- Perception of Telehealth
+- Brand recognition
+- Appointment types (availability vs. desire)
+- Scheduling methods
+- COVID
+
+| Number of participants who...                                | #    | %    |
+| ------------------------------------------------------------ | ---- | ---- |
+| Said they knew about / heard about "Express Care"*           | 2    | 18%  |
+| Have used VA Telehealth before                               | 10   | 91%  |
+| Expect a response from a medical professional                | 10   | 91%  |
+| Expect / want to be seen by PACT                             | 5    | 45%  |
+| Thought they would instantly be connected to chat / Telehealth appointment / receive a call | 2    | 18%  |
+| Consider same-day visits and pre-scheduled appointments the same (for scheduling) | 3    | 27%  |
+| [from the appointment screen] select:  "Request Express Care Screening" button | 8    | 73%  |
+| [from the appointment screen] select:  "New appointment" button | 3    | 27%  |
+| [from the appointment list] select:  "Express Care" option   | 2    | 18%  |
+| [from the appointment list] select:  "same-day Telehealth" option | 3    | 27%  |
+| Like / want to continue to use Telehealth                    | 11   | 100% |
+| would use "Express Care" / Telehealth for COVID screening    | 11   | 100% |
+
+**None of the participants could accurately define "Express Care", even if they said they knew what it was.*
 
 
+### Recommendations overview
 
-
-### Recommendations summary
+- Create consistency in the experience for "Express Care", Telehealth, and other services offered from location to location, in order to build trust between Veterans and the VA, especially during this unprecedented time. This will enhance brand recognition of "Express Care", a term that is completely unknown to Veterans, based on our research. 
+- "Express Care" requests must be responded to by medical professionals who can provide medical advice and/or deduce next steps for resolving urgent medical needs, not by a scheduler. 
+- Provide, in plain language, clarification around types of care Veterans can receive through "Express Care", who will be responding to their request, when they will get a response and how.
+- Conduct a more comprehensive audit of ways to schedule an appointment, both official and unofficial methods, in an effort to streamline this process. 
+- Incorporate "Express Care" and/or Telehealth resources immediately for Veterans to access. Dealing with coronavirus is an ongoing, uncertain matter and Veterans need tools to manage this situation and their health effectively. 
