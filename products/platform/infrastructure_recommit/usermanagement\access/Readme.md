@@ -1,4 +1,4 @@
-# Insight
+# User Insight
 
 ## shh to hosts
 Team will need to have the ability to access vets-api dev and depending on where review instances are maybe staging. If review  instances replace staging then  there is no need for this, but would be ok for non vsp devs to have the ability to do this.
