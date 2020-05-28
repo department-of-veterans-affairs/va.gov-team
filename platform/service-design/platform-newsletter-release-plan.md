@@ -19,7 +19,9 @@
   - 100% successful delivery rate
   - 100% open rate
   - 50% click rate per unique opens
-  - Qualitative feedback from newsletter survey
+  - Newsletter survey results:
+    - 60% of respondents agree with the following statement: The VA.gov Platform newsletter can help me better understand new features available for me and my team to use.
+    - 60% of respondents agree with the following statement: The information in the newsletter will be easy for me to reference and use going forward
 
 ### **Results:**
 
