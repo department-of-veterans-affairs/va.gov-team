@@ -4,24 +4,30 @@
 
 1. What product [tool/service/document/process] & VSP team are you doing this research for? 
 
-   1. This research is for the [forms library documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) on the Content and IA team, in collaboration with members of the Product Support and Front-End Tools teams.
+   - This research is for the [forms library documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) on the Content and IA team, in collaboration with members of the Product Support and Front-End Tools teams.
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
+### 1. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? Link to the product outline.
 
-   The VA.gov Forms System is a standardized set of form fields, validation functions, and data flows that provide a starting point for teams building Veteran-facing applications and forms on VA.gov. The Forms System has a documentation site ([here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/)) that provides guidance and instructions for how to use it. However, engineers on VFS teams frequently have questions about the forms system because the documentation is incomplete in some places, and isn't totally clear in others. Feedback VSP has heard so far indicates that the documentation is the most useful when a team first sets up and gets started on a project, but its usefulness deteriorates as the engineers develop their teams'  unique forms. 
+The VA.gov Forms System is a library for developers to create forms on VA.gov using a configuration-based approach. The Forms System has a documentation site ([here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/)) that provides guidance and instructions for how to use it. However, the documentation is incomplete in some places, isn't totally clear in others, which leaves engineers on VFS teams with unanswered questions. VSP has heard feedback that this documentation is the most useful when a team first sets up and gets started on a project, but its usefulness deteriorates as the engineers develop their teams' unique forms. These are things we know, that we will _not_ be validating with this research.
 
-   Also, the VSP Front-End Tools team is working on improving the Forms Library itself, and this research will help inform how we document the improvements and additions to it. We have an idea for structuring the documentation that we would like to validate: a "recipe" type of approach where developers are provided the building blocks they can assemble.
+At the same time, the Front-End Tools and Product Support teams are working on improving the Forms Library itself. One of the improvements includes a new type of supplemental documentation affectionately known as The Cookbook, where developers are provided a number of _recipes_ that show how building blocks of code can be assembled in different ways based on what they need to do. This research will validate the effectiveness of this new documentation approach.
 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research?
-  - How effective is the current structure/IA of the Forms System documentation?
-    - Can developers find what they are looking for?
-    - Does the technical forms documentation need to be separate from other documentation?
-  - What are the biggest information gaps in the forms system documentation site?
-    - What questions does the documentation successfully answer?
-    - What questions do developers still have after reading the documentation?
-    - What questions do developers frequently ask teammates or VSP staff during or after reading the documentation?
-    - What other resources do developers use to supplement the documentation site if they still have questions?
-  - How effective is the recipe format and structure for helping developers make decisions? 
+A few assumptions we are making that we believe are already validated, or are low-risk enough to _not_ spend this research validating:
+- In general, there are usability problems with documentation provided by VSP. 
+- It will not be disruptive or confusing to organize all technical documentation related to building forms into a group
+- It is appropriate to separate this technical documentation from other practices' forms-related documentation
+- Engineers are aware of the forms system documentation and are able to find it
+
+### 2. Research questions: What question(s) do you hope to be able to answer after completing this research?
+- How effective is The Cookbook for helping developers make decisions? 
+   - Is the concept of The Cookbook transparent and understandable?
+   - Is the recipe format clear and actionable?
+   - Are the examples relevant to the developers' work?
+   - What questions do developers have after reading these recipes?
+   - What types of recipes are missing?
+   - What other resources do developers use to supplement the recipes if they still have questions?
+
+**Everything below this line needs to be updated**
 
 1. Hypothesis: What is your hypothesis for this research? 	
   - Our hypothesis is that engineers on VFS teams find the documentation site helpful when they are first getting started, but less helpful when they are making important and more advanced decisions about their forms.
