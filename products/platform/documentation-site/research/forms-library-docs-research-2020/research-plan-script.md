@@ -38,20 +38,23 @@ The recipe structure will be an effective way to help developers make decisions 
    - We will use a combination of methods during a scheduled block of time with each participant:
       - Remote, directed interviews
       - Unmoderated diary studies
+   
+      
+**Everything below this line needs to be updated with new information**
+---
+2. Why this method? How does this methodology help you answer your research questions? 
+   - The Cookbook that we would like to test is currently in a Google Doc. Because the nature of reading documentation and using it in one's work is normally an independent activity that people complete at their own pace, we think that replicating that environment will be the best way to evaluate The Cookbook. We plan to create a version of the document that contains an instructional layer (using the Google Docs comments feature) that asks the participant questions about their experience at specific points in the document. We will create a copy of the document for each participant so that they can experience it without influence of others in the study. 
+   - We would like to combine this diary study method with directed interviews so that we have the opportunity to introduce the activity in the context of the current forms system work, answer any questions the participants may have, and debrief with the participant after they've finished the activity. 
    - Here is how this semi-synchronous method would play out in a single session's agenda:
       - 15 minutes: Introduction, brief directed interview, provide instructions
       - 30 minutes: Participant completes diary study activity independently
       - 15 minutes: Post-activity directed interview with participant, wrap up
-      
-**Everything below this line needs to be updated with new information**
----
-2. Why this method? How does this methodology help you answer your research questions? 	
-   - We will be using a combination of methods because we would like to speak briefly with the participant to learn about their experience both with the existing documentation site, and with the diary study activity.
 
 3. Where are you planning to do your research?
-   1. We will use Zoom to conduct the remote sessions.
+   1. We will use Zoom to conduct the synchronous portions of the session, and Google Docs for the diary study portion.
+   
 4. What will you be testing? 
-   1. We will be testing the [forms system documentation site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/) as well as a prototype of the recipe formatting. Link to the recipe formatting tbd.
+   1. We will be testing the [The Cookbook which can be viewed here currently](https://docs.google.com/document/d/1dUwWSk556QXdgORyTnP_42bdLr3Nhjv6Ga3aXZ_NKSc/edit#heading=h.uxamjboglia6). Copies of the document for each participant have not yet been created.
 
 ## Participants and Recruitment	
 
@@ -66,7 +69,7 @@ The recipe structure will be an effective way to help developers make decisions 
 1.	Timeline: What dates do you plan to do research? 	(Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 	
    1.	We will conduct this research during VSP Sprint 27, or between May 28-June 9.
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-   1.	TBD on the recipe formatting.
+   1.	It's ready!
 3.	Length of Sessions: How long do you estimate each session will be? (This helps with scheduling: e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
    1.	We will schedule 1 hour with each participant.
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.) that are hopefully flexible enough to accommodate our participants' busy schedules. Keep in mind that VFS team members are also remote and live in different time zones. Try and keep research sessions during normal working hours.	
@@ -75,19 +78,19 @@ The recipe structure will be an effective way to help developers make decisions 
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 
-   1.	We will pilot the research with a front-end developer from VSP. Date, time, and person TBD and this document will be updated to reflect that once we have confirmation.	
+   1.	We will pilot the research with a front-end developer from a VFS team. Date, time, and person TBD and this document will be updated to reflect that once we have confirmation.	
 
 ## Team Roles	
 
 Please list the people who will be serving in each role. 	
 
 - Moderator: Emily Waggoner
-- Research guide writing and task development (usually but not always same as moderator): Emily Waggoner
+- Research guide writing and task development (usually but not always same as moderator): Emily Waggoner, Dan Shank, Chris Valarida
 - Participant recruiting & screening: Megan Kelley and Emily Waggoner
 - Project point of contact: Megan Kelley
-- Participant(s) for pilot test: VSP Front-End Developer TBD
-- Note-takers: Megan Kelley, Gretchen Maciolek, Kristina Gore
-- Observers: Dan Shank, Brandon Rapp, other VSP team members TBD
+- Participant(s) for pilot test: VFS Front-End Developer TBD
+- Note-takers: Megan Kelley, Gretchen Maciolek, Kristina Gore, Chris Valarida, Dan Shank
+- Observers: Megan Kelley, Gretchen Maciolek, Kristina Gore, Chris Valarida, Dan Shank, Brandon Rapp, other VSP team members TBD
 
 ## Resources	
 
