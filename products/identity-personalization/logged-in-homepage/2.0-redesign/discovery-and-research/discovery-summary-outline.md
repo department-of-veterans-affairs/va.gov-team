@@ -12,7 +12,7 @@
 ### **People want a task-based logged-in homepage tailored to them.** 
 - User research
 - Stakeholder interviews
-### **Content findings**
+### **Content**
 The existing homepage gets the benefit/content focus right, we just need to personalize this information.
 - **Health care and disability are king.**
   - User research
@@ -30,16 +30,14 @@ The existing homepage gets the benefit/content focus right, we just need to pers
 - **This homepage needs to work at every phase of the veteran lifecycle, even when a veteran has no updates and no benefits.**
   - User research
   - Past research (Frog research report)
-### Design findings
+### Design
 - **The existing "blue sky" prototype gets a lot of things right.**
   - User research
 - **Not everything needs to be a “widget” — the best structure highlights the most important information and is easy to scan.**
   - User research
   - Previous research review
-  - Comparative analysis
-  
+  - Comparative analysis  
 ### Authenticated experience overall
-
 - **The homepage does not exist in a vacuum — it needs to be supported by a cohesive logged-in navigation**
   - User research (blue sky prototype; general discussion about accessing tools)
   - Stakeholder interviews
