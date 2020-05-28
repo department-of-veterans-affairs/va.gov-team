@@ -1,5 +1,5 @@
 # VA COVID-19 screening tool
-**A digital tool to help protect Veterans, caregivers,and employees at VA health facilities**
+**A digital tool to help protect Veterans, caregivers, and employees at VA health facilities**
 
 ## THE PROBLEM
 
