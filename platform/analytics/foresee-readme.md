@@ -18,6 +18,7 @@ ForeSee account access: Chis Johnston, Joanne Esteban, Lisa Koenigsberg
 ## Available Surveys
 
 **Intercept Survey on VA.gov main** https://cxsuite.foresee.com/client/measures/8847572/analytics/summary 
+*First survey data from VA.gov dates back to 11/22/2016.*
 - Excludes the va.gov homepage to prevent the survey from appearing on this page
 - Excludes urls from myhealth.va.gov, ebenefits.va.gov, benefits.va.gov, and all VAMC subdomains
 - Current sampling parameters: The current rules for invitation are a loyalty factor of 3 pages and 5% sampling. So once a visitor reaches 3 pages there is a 5% chance of being invited on each page visited
@@ -31,6 +32,7 @@ VA.gov modernization dashboard: https://cxsuite.foresee.com/client/dashboards/27
 - you may need to request permission to view this dashboard
 
 **Feedback Comment Card** - https://cxsuite.foresee.com/client/projects/76647/analytics/summary
+*First survey data dates back to 5/21/2019.*
 - Collects a 5 star rating on targeted pages
 - Current pages can be viewed under Edit Survey --> 2. collection methods --> Site badge --> URL targeting
 
