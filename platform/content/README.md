@@ -5,6 +5,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
 - [How to contact us](#howtocontact)
 - [What we do](#whatwedo)
 - [Working with us](#workingwithus)
+- [Other content support](#othercontentsupport)
 - [Resources and guides](#resourcesandguides)
 
 
@@ -41,10 +42,14 @@ VSP provides content feedback and guidance during the following Collaboration Cy
 
 - **Staging:** We’ll provide content feedback on your completed product on staging before it’s launched. During this check in, we’ll do a full E2E content review and a final proofread to ensure content recommendations provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
 
-### <a id="resourcesandguides"></a> Other content support
+### <a id="othercontentsupport"></a> Other content support
 Other areas VSP content can provide support:
 
-- Error messages and downtime notifications. Please reach out to us for help writing error and downtime messages. You can see our current list of [error messages](https://design.va.gov/patterns/messaging-dictionary) here. 
+- **Error messages and downtime notifications** Please reach out to us for help writing error and downtime messages. You can see our current list of [error messages](https://design.va.gov/patterns/messaging-dictionary) here. 
+
+- **Content office hours** We host weekly content office hours in conjunction with DEPO content lead. This is a meeting for anyone writing or working with content (writers, UX design, accessibility) to get guidance on content principles, discuss content best practice and recommendations, and ask questions/get feedback on WIP content work.
+
+Content office hours are Fridays from 12:30-1:15 p.m. ET. 
 
 ### <a id="resourcesandguides"></a> Resources and guides
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo.
