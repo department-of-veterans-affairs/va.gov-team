@@ -34,10 +34,10 @@ I have a few things I need to mention before we start:
 - And last, before we look at the test pages, if you wanted to add or change a dependent on your VA benefit now, what would you do? This can be online or otherwise: website, phone call, in-person... 
 
 ### User screenshares
-- Click on staging link (home or form intro?)
-- Cut/paste login; cut/paste password
-- Click through sign-in screens
-- Etc.
+- Clicks on staging link to form intro
+- Cut/pastes (staging) user login; cut/pastes password
+- Clicks through sign-in screens
+- Arrives at signed-in version of intro screen
 
 **Now we're ready to start.** Because dependents are family-members, some of the scenarios I have on my list (like divorce, children leaving home and even death) may be hard for you to get through. Please let me know if you'd like to skip a particular task, and we'll move to another.
 
