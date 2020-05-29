@@ -3,6 +3,20 @@ May 27, 2020<br>
 **Rebecca Walsh & Riley Orr**
 
 
+## Executive Summary
+
+- The DMC is going to provide the BaM2 team with the rest of the letter breakdowns, letter codes, statuses, and descriptions for Compensation + Pension, Education, and LGY debts. 
+- Status updates in addition to letters related to debts are being sent through the API
+- Compensation is where you’re injured while on active duty, pension is an income-based program for veterans 
+   - So most people eligible for social security aren’t eligible for pension
+- DMC is going to put together a list of common causes of debt; they told us there's a seemingly infinite amount of debt causes
+- Veterans are not receiving new LGY letters
+- **DMC confirmed that C&P benefits can be withheld for Edu debts, but Edu benefits cannot be withheld for C&P debts**
+- All dept types are referred to CAIVRS
+- CH34 and CH35 are education debt types for spouses and dependents, not veterans themselves.
+- Most of the time when debts are returned from TOP it's because the debt is paid or the DMC writes it off
+- Noah will check into the BaM2 team getting access to the Debtman site's Google Analytics 
+
 ## Notes
 
 ### About the documents sent last week:
