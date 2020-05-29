@@ -19,6 +19,7 @@ Here are the steps to upload contact center data into DOMO on a monthly basis:
 6) In the top right hand corner, click the wrench > Edit Webform
 
 _Tricky but important step_ 
+
 7) Start typing in the next available row. In the DATE_CREATED column, add in a date indicating the new month. 
     - _It is suggested that this is set as the first or last of the month for the report you're generating._
 
