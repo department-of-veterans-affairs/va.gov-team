@@ -123,14 +123,29 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
 The target window for research sessions is TBD, pending completion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
 
 #### Pilot session
-The target date for the pilot session is TBD.
+June 1st at 4EST. 
+Participants:
+- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
+- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
+- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
+- [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
+- [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
+- [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
+- [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
+
 
 #### eBenefits Team Availability
 
-| Date | Time (EST) |
-| :---------- | :---------- |
-| Month XX | Time AM to Time PM |
+| Date   | Time (EST)             |
+|  05/08 | Time 8 CT AM to 5CT PM |
+|  05/09 | Time 8 CT AM to 5CT PM |
+|  05/10 | Time 8 CT AM to 5CT PM |
+|  05/11 | Time 8 CT AM to 5CT PM |
+|  05/12 | Time 8 CT AM to 5CT PM |
+|  05/1 | Time 8 CT AM to 5CT PM |
+
 - Please leave 30 mins between sessions. 
+- Please do not exceed 3 session a day. 
 
 
 ### Team members
