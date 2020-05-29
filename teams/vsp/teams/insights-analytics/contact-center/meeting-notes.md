@@ -60,14 +60,16 @@ Agenda Items:
   - _Monday through Wednesday are the most feasible times for the weekly meeting for the WHVAH team due to possible issues that may arrise._
   - _Kimberley will send over a few meeting times to see which will be the best option._
   - _Inquired if this meeting will/can take the place of the bi weekly meeting that is held on Fridays._
-    -_Todd will check with Rebecca and I will check with Chante.
-    -_Informed that this was a meeting that was held before my onboarding, but instead of cutting from the schedule, maybe it could be montly. 
-    -_TDB_
+    - _Todd will check with Rebecca and I will check with Chante.
+    - _Informed that this was a meeting that was held before my onboarding, but instead of cutting from the schedule, maybe it could be montly. 
+  - _TDB_
 - Can the VA.gov Contact Center team create templates, desk references, or FAQs to provided to the agents in order to obtain additional details while on the phone with the user?
   - _Todd and Eric agreed that we can create KMs that will be entered into SF for the agents to use._
   - _There is no particular format for the KMs._
   - _Requested to add Doian Adeyemi and Mike Scipione to the meetingn since they manage KMs._
-  - I inquired if the agents would be able to obtain email addresses while on the phone with users.  I advised that in revieww of the Sf tickets I notice that many times agents will receive a phone number from the user in order to receive a call back.  I informed them that I do not have a business phone and it is implausible for one person to manage that task.  Also, much of the information that we need to pass back to the appropriate team is easier to retrieve in writing.
+- I inquired if the agents would be able to obtain email addresses while on the phone with users.  I advised that in revieww of the Sf tickets I notice that many times agents will receive a phone number from the user in order to receive a call back.  I informed them that I do not have a business phone and it is implausible for one person to manage that task.  Also, much of the information that we need to pass back to the appropriate team is easier to retrieve in writing.
+  - _They stated that a KM could be creratd to ensure that agents request email addresses from the user._
+      - _Instead of creating on KM for asking for an email address, I am going to add verbiage into each KM that I create to ask for an email address from the user._
     
     - _Call volume has stabalized.  Mission Act calls decreased about 37% from March to April, but as of late, they are beginning to trend upward._
 - Progress on SalesForce Fields for VA.gov issues
