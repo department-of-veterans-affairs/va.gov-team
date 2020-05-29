@@ -17,7 +17,7 @@ What are other ways you find help to troubleshoot?
 
 4. Hypothesis:
 
-By understanding the root cause of the issues around external services, we can start to prioritize work within the VSP teams to reduce the time it takes a VFS/VSA team to integrate with a external service, and reduce the burden on the support roles for those VSP teams assisting.
+By understanding the root cause of the issues around external services, we can start to prioritize work within the VSP teams to reduce the time it takes a VFS team to integrate with a external service, and reduce the burden on the support roles for those VSP teams assisting.
 
 
 ## Method	
