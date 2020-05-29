@@ -27,6 +27,8 @@
 
 
 ## Moved to July
+| Date | Milestone | Notes | 
+| --- | --- | --- | 
 | TBD | VA.gov Platform Privacy and Security Review | On track
 | TBD | VA.gov Platform Staging Review  | On track|
 | July 30 | Soft Release<sup>+</sup> | On track
