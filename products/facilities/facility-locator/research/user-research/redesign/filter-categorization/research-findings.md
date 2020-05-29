@@ -26,26 +26,21 @@ Of the participants, these are the high level numbers:
 
 ## Detailed Findings
 The participants created a total of 277 unique categories. The following categories are what we combined them into **(need to reword this)**
-- Cemetery and burial
-- Counseling and mental health
-
-**1. Cemetery & burial**
-- data
-- data
-- data
-
-**2. Counseling & mental health*
-
-**3. Medical services**
-
-**4. Specialty medical services**
-
 
 | Category      | Cards                     |
 | ------------- |:-------------------------:|
 | Category name | card, card, card, card, card
 | Category name | card, card, card, card, card
 
+**1. Cemetery & burial**
+- Talk about cards listed, frequency of sort, and number of participants who sorted into that category
+- data
+
+**2. Counseling & mental health**
+
+**3. Medical services**
+
+**4. Specialty medical services**
 
 ## Post-Study Questionnaire
 Have you ever used the Facility Locator on VA.gov?
