@@ -10,14 +10,36 @@
   - Additionally, there is the HKS research, which we did not do but is a helpful resource
 ## Key findings
 ### **People want a task-based logged-in homepage tailored to them.** 
-- User research
-- Stakeholder interviews
+In user sessions with Veterans, participants created a homepage that reflected the most important things they wanted to see upon logging in. 10 out of 10 pages created served as a landing pad that gives them access to their most important tasks (and little else) from one place.  When discussing the current logged-in homepage experience, Veterans described links and content that isn't relevant to them as clutter and noise.  
+
+The pages our users created: 
+
+- Gave them access to their most important tasks in one place
+
+- Provided them with important updates
+
+- Guided them to benefit information and recommendations
+
+- Minimized content that wasn't specific to them
+
+  > "Don't toot your horn on my page. Let me take care of my stuff, and I can get out of there."
+
+Stakeholders described this type of task-based, personalized experience as [one of their goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#stakeholder-goals) during our interviews, and this also aligns with [what we saw across sites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples) in our comparative analysis.  
+
+**Implications**
+
+1. We need to focus the logged-in homepage on helping Veterans complete tasks as directly as possible (not linking them through multiple content pages to get to where they want to go).
+2. We should minimize content on the logged-in homepage that is not specific to the user.
+3. We should leverage data to intelligently provide users with benefit recommendations and guide them to information about benefits they don't have.
 ### **Content**
 The existing homepage gets the benefit/content focus right, we just need to personalize this information.
 - **Health care and disability are king.**
-  - User research
-  - Analytics
-  - Past research (2018 homepage work)
+
+The pages created in our user sessions, and [the findings from brand consolidation research conducted in 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md#brand-consolidation) tell us that these benefit areas are the most important to Veterans.  Our analytics support this as well:  the claim status tool is the most popular tool on VA.gov (**~60MM** page views between April 2019 and April 2020), and MyHealtheVet's homepage got **~145MM** page views in the same period. VA.gov's homepage got **~23MM** page views.
+
+Emphasizing these over other tasks makes sense because these benefits require more management and active engagement (e.g. regularly ordering medication, checking for updates on a claim) when compared to other benefits such as education.
+
+**Implications**: The logged-in homepage should prioritize information associated with these benefits and provide users with direct ways to complete the relevant tasks.
 - **But people care about anything they have in flight, whether that is education or other benefits.**
   - (This is where we'd talk about edu and other benefits people care about)
   - User research
