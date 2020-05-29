@@ -5,7 +5,7 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-When GI Bill beneficiaries are looking for schools within the Comparison tool, they want to know about the experiences of other Veterans to form a better understanding of what their personal experience at the school would be like. Ratings enable Veterans to quickly assess the suitability of a school (both pro and con), bolstering their confidence and level of comfort in deciding if a particular school is right for them.
+When Veterans are looking for schools within the Comparison tool, they want to know about the experiences of other Veterans to form a better understanding of what their personal experience at the school would be like. Ratings enable Veterans to quickly assess the suitability of a school (both pro and con), bolstering their confidence and level of comfort in deciding if a particular school is right for them.
 
 *How might we* bolster GI Bill beneficiaries' confidence and level of comfort when picking schools using the Comparison Tool?  Ratings enable them to quickly ascertain the experiences of other Veterans at a particular school and assess the overall suitability of that school for them.
 
