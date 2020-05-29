@@ -33,7 +33,7 @@ The tool's features allow us to update questions within 24 hours to meet evolvin
 
 This project is an example of the innovative and collaborative nature of VA leadership and employees across the organization.
 
-When the need to screen patients and employees for COVID-19 symptoms and exposure arose, VA medical centers like the Durham VA Health Care System responded by quickly building facility-specific digital screening tools. The Office of the CTO then worked closely with system leadership to learn from their efforts and create a scalable tool that all VA facilities can easily use.
+When the need to screen all patients and employees for COVID-19 symptoms and exposure arose, VA medical centers like the Durham VA Health Care System responded by quickly building facility-specific digital screening tools. The Office of the CTO then worked closely with system leadership to learn from their efforts and create a scalable tool that all VA facilities can easily use.
 
 We continue to work with medical centers across the country to closely monitor usage, performance, and feedback, and to update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email].
 
