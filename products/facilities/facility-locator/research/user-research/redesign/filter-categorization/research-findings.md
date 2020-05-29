@@ -22,7 +22,7 @@ Of the participants, these are the high level numbers:
 
 **Cards were often grouped together by similar name or context.**
 
-**Participants had dificulty classifying some services** and created new categories for them or listed them as "other".
+**Participants had dificulty classifying some services** and created new categories for them or listed them as "other". This could be due to the name of the service being ambiguous. For example, Infectious Disease.
 
 ## Detailed Findings
 The participants created a total of 277 unique categories. The following categories are what we combined them into **(need to reword this)**
