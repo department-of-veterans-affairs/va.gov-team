@@ -67,6 +67,7 @@ Ultimately, this really comes down to 3 projects:
   - Previous research review (findings from personalization 2.0 readout)
 - Stakeholder management
 - User test, user test, user test
+  - Ensure future research studies include Veterans under 34. This group was not represented in our initial user study and may reveal additional insights around needs for new Veterans and education benefits.
 ### Metrics
 - Measuring success 
 ## Next steps
