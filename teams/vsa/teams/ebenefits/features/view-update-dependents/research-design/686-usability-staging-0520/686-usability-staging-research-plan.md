@@ -123,7 +123,7 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
 The target window for research sessions is TBD, pending completion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
 
 #### Pilot session
-June 1st at 4EST. 
+June 1st, 2020 Monday, 4EST. 
 Participants:
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
 - [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
