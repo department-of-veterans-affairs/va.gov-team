@@ -17,14 +17,18 @@
 | May 1 | _First round_ VA.gov Platform Staging Review complete | Complete |
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team | Complete|
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | Complete
-| May 11 | Request Accessibility spot check | In progress
+| May 11 | Request Accessibility spot check | Complete
 | May 15 | Frontend complete | In progress
 | May 15 | Backend complete | In progress
-| May 18 | VA.gov Platform Privacy and Security Review | On track
-| May 18 | VA.gov Platform Staging Review  | On track|
-| May 18 - May 22 | Dark Release functionality testing with CARMA| On track
+| May 18 - May 22 | Dark Release functionality testing with CARMA| Complete
 | May 29 | Phase 0 Dark Release<sup>+</sup> | On track
 | June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
+| June 8 | Delivery and testing of PDF attachment |
+
+
+## Moved to July
+| TBD | VA.gov Platform Privacy and Security Review | On track
+| TBD | VA.gov Platform Staging Review  | On track|
 | July 30 | Soft Release<sup>+</sup> | On track
 
 
