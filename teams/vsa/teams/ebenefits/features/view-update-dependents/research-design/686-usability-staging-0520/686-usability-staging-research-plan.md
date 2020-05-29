@@ -82,13 +82,10 @@ Usability testing will be conducted remotely using Zoom. Participants will be pr
 This methodology allows for direct observation of users interactions with a near-final product. This will allow the team to capture real-time feedback on a "live" product.
 
 ### Participants and recruitment
-Participants will be recruited via Perigean. The study will require 12 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
+Participants will be recruited via Perigean. The study will require 14 Veterans from a variety of service backgrounds. These participants will be divided into two groups. Each group will be give a set of scenarios/task to complete using the form. This will allow full coverage of all workflows. Criteria include:
 
 #### All participants
-- Recruitment through Perigean
-  - 14 participants will be scheduled by Perigean
-  - We expect to interview 10 veterans.
-  - We anticipate 4-6 no-shows
+- 14 participants will be scheduled by Perigean
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
@@ -119,9 +116,6 @@ Participants will be recruited via Perigean. The study will require 12 Veterans 
 - Report marriage of child
 - Report divorce/Remove stepchild
 
-### Timeline
-The target window for research sessions is TBD, pending completion of 21-686c in VA.gov staging. Preparation includes participant recruitment, UI/UX review and refinement, conversation guide revision, and a pilot (test) session. 
-
 #### Pilot session
 June 1st, 2020 Monday, 4EST. 
 Participants:
@@ -136,18 +130,16 @@ Participants:
 
 #### eBenefits Team Availability
 
-| Date   | Time (EST)             |
-| ------ | ---------------------- |
-|  05/08 | Time 8 CT AM to 5CT PM |
-|  05/09 | Time 8 CT AM to 5CT PM |
-|  05/10 | Time 8 CT AM to 5CT PM |
-|  05/11 | Time 8 CT AM to 5CT PM |
-|  05/12 | Time 8 CT AM to 5CT PM |
-|  05/1  | Time 8 CT AM to 5CT PM |
+| Date   | Time (EST)    |
+| ------ | --------------|
+|  06/08 |  8 AM to 5 PM |
+|  06/09 |  8 AM to 5 PM |
+|  06/10 |  8 AM to 5 PM |
+|  06/11 |  8 AM to 5 PM |
+|  06/12 |  8 AM to 5 PM |
 
 - Please leave 30 mins between sessions. 
 - Please do not exceed 3 session a day. 
-
 
 ### Team members
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
