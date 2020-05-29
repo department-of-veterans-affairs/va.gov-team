@@ -246,7 +246,7 @@ We asked participants to describe their typical experience on VA.gov, and the  l
 
 > "I would like to be able to click and reorder my prescriptions right there so I don't have to go to five different pages to finally get to it. Right now it's a drill down process that's horrible."
 
-When designing their own page, participants expected a variety of ways to complete their tasks. The majority of participants created links from their personalized page to for more detailed tasks like reviewing records. For straightforward tasks like refilling a prescription or scheduling an appointment, participants described completing the task right on their page.  Many participants weren't always sure if it would be a link or a button, but were confident that the label would clearly set expectations about  what would happen next if they clicked.
+When designing their own page, participants expected a variety of ways to complete their tasks. The majority of participants created links from their personalized page for more detailed tasks like reviewing records. For straightforward tasks like refilling a prescription or scheduling an appointment, participants described completing the task right on their page.  Many participants weren't always sure if it would be a link or a button, but were confident that the label would clearly set expectations about  what would happen next if they clicked.
 
 > "Disabilities you're approved for, once you click on there, there could be a link there that goes to track your disabilities and it breaks down your ratings, and has claims and appeals information."
 
