@@ -1,4 +1,4 @@
-* #DOMO Upload
+# DOMO Upload
 The purpose of this document is to inform Contact Center team members how to upload raw data from the spreadsheet into DOMO.
 
 Here are the steps to get updated for April (and on a monthly basis):
