@@ -15,11 +15,14 @@ Of the participants, these are the high level numbers:
 - Average time to complete was 16 minutes 33 seconds 
 
 ## Themes
-Text here
 
-**- point 1**
+**- Cemetery and burial cards were most often grouped together**
 
-**- point 2**
+**- Vetearns grouped all medical services together and often created a "medical specialty" or similar category.**
+
+**- Cards were often grouped together by similar name or context.**
+
+**- Participants had dificulty classifying some services** and created new categories for them or listed them as "other".
 
 ## Detailed Findings
 
