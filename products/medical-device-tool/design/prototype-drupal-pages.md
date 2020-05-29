@@ -13,8 +13,6 @@ Navigation: <br>
 
 ### Content
 
-This exists as a Word document because it will be updated by the CMS Support team in Drupal. [_Download the Word Doc here._](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/documents/MDT-Hearing-Aid-Content-v1_SC_RO.docx)
-
 
 ## Prosthetic socks 
 [Invision Prototype](https://vsateams.invisionapp.com/share/VBWMFDUHDFX)
