@@ -27,6 +27,12 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 1. Developers, complete the [additional VSP orientation steps](#additional-orientation-steps-for-developers) below to access the code repositories and tools you'll need for development and deployment.
 
+## Zenhub
+
+1. Zenhub is used by the VSP team for issue tracking and management.
+
+2. Additional details and orientation on Zenhub can be found [in this document](./zenhub.md).
+
 ## Additional orientation steps for developers
 
 The internal tools available include Grafana, Sentry, Prometheus, and Jenkins. These tools are hosted internally and
