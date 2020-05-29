@@ -18,7 +18,7 @@ Here are the steps to upload contact center data into DOMO on a monthly basis:
 
 6) In the top right hand corner, click the wrench > Edit Webform
 
-*7) Careful consideration -- Start typing in the next available row. In the DATE_CREATED column, add in a date indicating the new month. 
+7) _# Careful on this step_ -- Start typing in the next available row. In the DATE_CREATED column, add in a date indicating the new month. 
     - _It is suggested that this is set as the first or last of the month for the report you're generating._
 
 8) For general inquiries and technical issues, create as many rows as there are issues based on what was given by NCC -- Highlight the row you just created and drag the small square in the corner down the number of times for the number of issues. For example, if there are 30 general inquiries for ncc, create one row, and then drag it down 29 more times. Repeat 7+8 for technical issues.
