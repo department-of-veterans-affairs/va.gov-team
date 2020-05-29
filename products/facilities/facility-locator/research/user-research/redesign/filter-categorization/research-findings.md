@@ -18,21 +18,34 @@ Of the participants, these are the high level numbers:
 
 **Cemetery and burial cards were most often grouped together**
 
-**Vetearns grouped all medical services together and often created a "medical specialty" or similar category.**
+**Veterans grouped all medical services together and often created a "medical specialty" or similar category.**
 
 **Cards were often grouped together by similar name or context.**
 
 **Participants had dificulty classifying some services** and created new categories for them or listed them as "other".
 
 ## Detailed Findings
+The participants created a total of 277 unique categories. The following categories are what we combined them into **(need to reword this)**
+- Cemetery and burial
+- Counseling and mental health
 
-**1. Finding**
-
-Explanation
-
+**1. Cemetery & burial**
 - data
 - data
 - data
+
+**2. Counseling & mental health*
+
+**3. Medical services**
+
+**4. Specialty medical services**
+
+
+| Category      | Cards                     |
+| ------------- |:-------------------------:|
+| Category name | card, card, card, card, card
+| Category name | card, card, card, card, card
+
 
 ## Post-Study Questionnaire
 Have you ever used the Facility Locator on VA.gov?
