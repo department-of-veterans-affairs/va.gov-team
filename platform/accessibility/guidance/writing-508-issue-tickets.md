@@ -1,4 +1,4 @@
-# [IN PROGRESS] Writing 508 issue tickets
+# Writing 508 issue tickets
 
 Accessibility issues may be particularly challenging to document. Communicating why it matters and the potential remediation techniques needs to be coherent for the audience, which may range from product managers to designers to developers. 
 
