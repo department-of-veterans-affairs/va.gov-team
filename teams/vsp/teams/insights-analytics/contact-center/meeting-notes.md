@@ -73,7 +73,7 @@ Agenda Items:
       -_Instead of creating on KM for asking for an email address, I am going to add verbiage into each KM that I create to ask for an email address from the user._
 - Todd inquired about possible chatbot issues.
   - _Chante advised of the same information that she previously provided to the larger team.  Todd was not on that call.  Information from above notes were stated again._
-- WHVAH/VEO team gave kudos to Chante for the Community Care change that occurred.  They stated that Chante really came through with the inforamtion that they needed.
+- WHVAH/VEO team gave kudos to Chante for the Community Care change that occurred.  They stated that Chante really came through with the information that they needed.
 - Todd and Eric stated that advanced notice for any updates, bugs, launches, fixes, scheduled maintenance, etc. Be given as much notice as possible really makes a difference in their operations.  
 - They inquired if the user guides for Mission Act, locator specifically, have been updated.  The guide contacins links that are no longer valid.
   - _Chante will review and update if needed and resend._
