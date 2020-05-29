@@ -326,6 +326,15 @@ City (*Required) { Text field }
 State (*Required) { dropdown with full state names }  
 
 
+#### Your school ID and contact details  { Sub-head } 
+
+These additional details will help us review your application faster but aren't required. 
+
+Your school student ID number { Text field }  
+
+Your school email address (This email address usually ends with .edu) { Text field with email address validation }  
+
+
 [ Back | Continue ] { buttons }   
 [Finish this application later]()  
 
@@ -377,7 +386,7 @@ Form 22-10203
 Please enter as much contact information as possible so we can get in touch with you, if necessary.
 
 - Email address (*Required)
-- Re-enter email address (* equired)
+- Re-enter email address (*Required)
 - Home phone number
 - Mobile phone number (*Required)
         
