@@ -7,6 +7,7 @@ It may be useful to see Zenhub as a layer of data that sits on top of github iss
 The difference between a github issue and a Zenhub issue is further described in the [Zenhub documentation](https://help.zenhub.com/support/solutions/articles/43000458338-what-is-zenhub-vs-github-in-an-issue).
 
 ## Zenhub onboarding
+
 To start using Zenhub, you can follow the onboarding process described here:
 * [Zenhub onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 
@@ -25,7 +26,7 @@ If after 1 day, Zenhub still doesn't work, please create a new thread in [#vfs-p
 The product management process for Zenhub is described here:
 * [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
  
- ## Zenhub administration
+## Zenhub administration
  
  If you are a Zenhub administrator, you can use the following steps to approve license requests:
  1. Go to https://app.zenhub.com/dashboard/o/department-of-veterans-affairs/manage
