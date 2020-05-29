@@ -91,6 +91,7 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
 - Total Rated Disability of 30% or greater
 - Several Veterans (4+) with Total Rated Disability of 80% or greater and cognitive disabilities
 - Sessions will run approximately 60 minutes
+- We request that Perigeon provide a note taker for all the sessions.
 
 #### Group 1
 - Fits any of the following:
