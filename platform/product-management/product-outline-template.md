@@ -41,7 +41,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
