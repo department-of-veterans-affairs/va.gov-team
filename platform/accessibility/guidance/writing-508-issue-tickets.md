@@ -27,7 +27,7 @@ The title of the issue ticket should communicate a few things about the issue:
     * issue itself
     * location
     
-Since the issue title appears in various places, it is helpful to communicate necessary details in the title so it isn't necessary to open the issue itself. For example, on an epic for an accessibility review, it's helpful for PMs to know the severity level so they may prioritize for launch, and the location of the issue so the team knows where it needs to be fixed.
+Since the issue title appears in various places, it is helpful to communicate necessary details in the title so it isn't necessary to open the issue itself. For example, on an epic for an accessibility review, it's helpful for PMs to know the severity level so they may prioritize for launch, and the location of the issue so the team knows where it needs to be fixed. It isn't necessary to include that the issue is sitewide, design system, CMS, or the defect level, but it can be helpful.
 
 Enter an issue title using the format:
 
@@ -35,7 +35,7 @@ Enter an issue title using the format:
 
 ### Sample issue ticket headings
 
-> sitewide, design system 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one
+> sitewide, design system - 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one
 
 > [SCREENREADER]: Edit buttons need aria-label for context
 
