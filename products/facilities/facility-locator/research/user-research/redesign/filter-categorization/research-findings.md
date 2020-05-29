@@ -8,6 +8,13 @@ We launched an unmoderated self-guided card sort exercise and sent it via link t
 
 Text here
 
+## Themes
+Text here
+
+**- point 1**
+
+**- point 2**
+
 #### 1. Finding
 
 - Support
