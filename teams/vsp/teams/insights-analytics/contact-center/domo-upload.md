@@ -15,7 +15,7 @@ Here are the steps to upload contact center data into DOMO on a monthly basis:
 11) Hover over each chart and click the wrench dropdown on the right hand side and click "Edit in Analyzer"
 12) Within each chart, under "FILTERS" on the left hand side, push "DATE_CREATED" date range forward to reflect the new month you're trying to display.
 
-[DOMO screenshot](https://user-images.githubusercontent.com/48527022/82952513-1924fb00-9f77-11ea-81f1-38e7ec6767d9.png)
+(https://user-images.githubusercontent.com/48527022/82952513-1924fb00-9f77-11ea-81f1-38e7ec6767d9.png)
 
 13) Click Save and Close in the top right and do this for each chart.
 14) At this point, the dashboard should now be updated with only the relevant month's data
