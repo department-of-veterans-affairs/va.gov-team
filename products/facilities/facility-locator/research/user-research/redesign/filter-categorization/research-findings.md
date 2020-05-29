@@ -16,13 +16,13 @@ Of the participants, these are the high level numbers:
 
 ## Themes
 
-**- Cemetery and burial cards were most often grouped together**
+**Cemetery and burial cards were most often grouped together**
 
-**- Vetearns grouped all medical services together and often created a "medical specialty" or similar category.**
+**Vetearns grouped all medical services together and often created a "medical specialty" or similar category.**
 
-**- Cards were often grouped together by similar name or context.**
+**Cards were often grouped together by similar name or context.**
 
-**- Participants had dificulty classifying some services** and created new categories for them or listed them as "other".
+**Participants had dificulty classifying some services** and created new categories for them or listed them as "other".
 
 ## Detailed Findings
 
