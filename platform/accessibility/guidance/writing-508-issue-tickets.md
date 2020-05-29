@@ -29,17 +29,23 @@ The title of the issue ticket should communicate a few things about the issue:
     
 Since the issue title appears in various places, it is helpful to communicate necessary details in the title so it isn't necessary to open the issue itself. For example, on an epic for an accessibility review, it's helpful for PMs to know the severity level so they may prioritize for launch, and the location of the issue so the team knows where it needs to be fixed.
 
-Enter an issue title using the format [ERROR TYPE]: Brief description of the problem
+Enter an issue title using the format:
 
-[SCREENREADER]: Edit buttons need aria-label for context
-[KEYBOARD]: Add another user link will not receive keyboard focus
-[AXE-CORE]: Heading levels should increase by one
-[COGNITION]: Error messages should be more specific
-[COLOR]: Blue button on blue background does not have sufficient contrast ratio
+> [ERROR TYPE]: Brief description of the problem
 
-### Sample issue ticket heading
+### Sample issue ticket headings
 
 > sitewide, design system 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one
+
+> [SCREENREADER]: Edit buttons need aria-label for context
+
+> [KEYBOARD]: Add another user link will not receive keyboard focus
+
+> [AXE-CORE]: Heading levels should increase by one
+
+> [COGNITION]: Error messages should be more specific
+
+> [COLOR]: Blue button on blue background does not have sufficient contrast ratio
 
 ## Severity
 
