@@ -9,7 +9,7 @@ Before we get started, a few things I want to mention:
 - During this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I won't be offended by any opinions you express and welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
 
-We will be working in a prototype so some functionality may not work as expected. You may click on something and nothing may happen.  In those cases, I'll let you know that the functionality isn't working and ask what you would expect to happen.
+We will be working in a prototype so some functionality will not work as expected. For example, when you click on a field, an answer or selection may pre-populate or alternatively, you may click on something and nothing may happen.  In those cases, I'll let you know that the functionality isn't working and ask what you would expect to happen.
 
 Are you comfortable if I record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
 
@@ -38,7 +38,7 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 ## First Task: Determine Eligibility - 10 minutes
 
-You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. How would you use this page to decide if you wanted to apply for the Rogers STEM scholarship?
+You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Let's say you are currently getting your undergraduate degree in **Chemistry** from **Chicago State University**.  How would you use this page to decide if you wanted to apply for the Rogers STEM scholarship?
 
 Things to watch for:
 - Does the user look at the subway map?
@@ -56,15 +56,12 @@ Things to watch for:
 - How do you know how much entitlement you have remaining (e.g. something they track, how often do they check, etc.)?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
-  **Decision:**
-  - If user is eligible, proceed to Second Task
-  - If user is not eligible, proceed to the Third Task.  
 
 **1B - If user starts application, allow user to perform Second Task without prompt**
 
 ## Second Task: Apply for STEM - 15 minutes
 
-Let's say you wanted to apply for the STEM scholarship. How would you go about filling out this application - using the current degree you're pursuing?
+If you are were getting your undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
   
   Things to watch for:
   -	Do any questions cause confusion or require additional research for users to answer?
@@ -88,26 +85,9 @@ Let's say you wanted to apply for the STEM scholarship. How would you go about f
   - Did any of the questions seem unnecessary?  
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  
-  _Proceed to the Fourth Task_
 
-## Third Task: Apply for STEM - 15 minutes
-
-Let's say you are currently getting your undergraduate degree in Applied Psychology from Florida State University and would like to apply for the Rogers STEM scholarship.  How would you go about filling out this application?
   
-  Things to watch for:
-  -	Do any questions cause confusion or require additional research for users to answer?
-  - Does the user try to skip any questions?
-  - Does the user click the Additional Info component "What if I don't have a bank account?"?
-  
-  **Upon completion of task:**
-  -	What parts of the form would be the easiest for you to complete? 
-  -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
-  - Did any of the questions seem unnecessary? 
-  -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
-  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  
-## Fourth Task: Triggering the Alert - 10 minutes
+## Third Task: Triggering the Alert - 10 minutes
 
 Let's say you are currently getting your degree in Civil Engineering from Duke University.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
 
@@ -121,7 +101,6 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
   **Upon completion of the task:**
   - What did you think of the alert?
   - What would you do after you saw this message?
-
 
 
 ## Post-Task Interview - 5 minutes
