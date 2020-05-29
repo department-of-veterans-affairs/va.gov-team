@@ -137,6 +137,7 @@ Participants:
 #### eBenefits Team Availability
 
 | Date   | Time (EST)             |
+| ------ | ---------------------- |
 |  05/08 | Time 8 CT AM to 5CT PM |
 |  05/09 | Time 8 CT AM to 5CT PM |
 |  05/10 | Time 8 CT AM to 5CT PM |
