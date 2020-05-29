@@ -40,11 +40,12 @@ The pages created in our user sessions, and [the findings from brand consolidati
 Emphasizing these over other tasks makes sense because these benefits require more management and active engagement (e.g. regularly ordering medication, checking for updates on a claim) when compared to other benefits such as education.
 
 **Implications**: The logged-in homepage should prioritize information associated with these benefits and provide users with direct ways to complete the relevant tasks.
-- **But people care about anything they have in flight, whether that is education or other benefits.**
-  - (This is where we'd talk about edu and other benefits people care about)
-  - User research
-  - Analytics
-  - Past research (2018 homepage work)
+- **Veterans care about anything they have in flight, whether that is education or other benefits.**
+  Participants in both our research study and the brand consolidation research demonstrate that Veterans want to see information about any of their active benefits.  Education benefits were most common outside of health and disability in both research studies. In our sessions, participants were most interested in seeing GI Bill balance and payment information on their homepage.  
+
+Analytics further underscore the importance of this information, with **3.4MM** page views for the the GI Bill statement of benefits in the last year.
+
+**Implications:** Information outside of the high-priority health and disability categories are important to users, and should be accounted for on the logged-in homepage.
 - **Records and documents are a focus for almost everyone.**
   - User research
   - Past research (2018 homepage work)
