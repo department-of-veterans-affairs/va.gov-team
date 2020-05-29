@@ -51,6 +51,49 @@ We'll be exploring made-up scenarios that don't necessarily apply to you. In any
 
 3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your now 21-year-old stepchild just graduated college, and is no longer considered a dependent by VA. (This scenario will involve report-death and report-student-left-school workflows either separately or in combination.)
 
+# Usability tasks
+
+### Introduction and checkbox selection | 5 minutes
+- Find out what you'll need to complete and submit the form for the particular scenario (above).
+- Select the options for your particular scenario (above).
+
+#### Things to look for:
+- Do users read (or even scan) the introduction text, and can they find the info or documents they'll need
+- Are users selecting the correct workflow(s)
+- Are there any emotional reactions to the verbiage in the 'remove' workflows (divorce, death)
+
+### Complete the selected workflow(s) | 10 to 20 minutes
+- Complete the form using made-up information
+
+#### Things to look for:
+- Where do users stop and look for clarification or guidance
+- Do users open/read tell-me-mores
+- How long do users take to complete the various screens
+- Will users recall instructions from the intro screen
+- When and where does "form-fatigue" set in
+
+### Upload additional documentation | 5 minutes
+- If the scenario requires it, find and upload a test document
+
+#### Things to look for:
+- Do users know when they should upload documentation
+- Will users recall info or prompts regarding documentation from the intro or tell-me-mores
+- How do users interact with the upload feature
+
+### Review and return to start | 5 minutes
+- (at the review screen) Be sure you entered the form info correctly
+- What could your do if there was an error you wanted to fix
+- Submit the form
+- What should you do next
+
+#### Things to look for:
+- How do user manage the Review Screen
+- Do users read and understand the confirmation page text
+- Will users expect any functionality or feature that aren't present
+- How do users navigate back to the start of the form
+
+---
+
 ## Workflow set 2 scenarios
 1. You recently married and your spouse has two children. You want to claim all them as dependents. (This scenario will involve add-spouse and add-child workflows either separately or in combination.)
 
