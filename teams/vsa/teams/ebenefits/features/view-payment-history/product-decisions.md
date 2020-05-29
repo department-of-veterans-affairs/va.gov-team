@@ -1,4 +1,4 @@
-# High Level Product Decisions: 21-686c Application
+# High Level Product Decisions: View payment history
 **VSA eBenefits Team | May 2020**
 
 ---
