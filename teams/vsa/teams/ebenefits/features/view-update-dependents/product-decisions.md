@@ -1,8 +1,6 @@
 # High Level Product Decisions: 21-686c Application
 **VSA eBenefits Team | May 2020**
 
-`Jason Wolf, product manager`
-
 ---
 
 This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
