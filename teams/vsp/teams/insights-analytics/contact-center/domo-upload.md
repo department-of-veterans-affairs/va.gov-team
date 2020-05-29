@@ -1,5 +1,5 @@
 # DOMO Upload
-The purpose of this document is to inform Contact Center team members how to upload raw data from the spreadsheet into DOMO.
+The purpose of this document is to inform Contact Center team members how to upload raw data from the spreadsheet into DOMO.  These dashboards take the place of the Excel version of the Monthly Contact Center Report.
 
 Here are the steps to upload contact center data into DOMO on a monthly basis:
 1) Go to the raw contact center dataset (this should mirror your excel spreadsheet) [Mockup Call Center Monthly Report Raw Data](https://va-gov.domo.com/datasources/5f033e5c-f6d4-46e0-b684-b89f4cbc41b4/details/overview)_
