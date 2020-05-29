@@ -38,7 +38,7 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 ## First Task: Determine Eligibility - 10 minutes
 
-You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Let's say you are currently getting your undergraduate degree in **Chemistry** from **Chicago State University**.  How would you use this page to decide if you wanted to apply for the Rogers STEM scholarship?
+You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Based on your current benefits status and field of study, how would you use this page to decide if you could apply for the Rogers STEM scholarship?
 
 Things to watch for:
 - Does the user look at the subway map?
@@ -59,9 +59,13 @@ Things to watch for:
 
 **1B - If user starts application, allow user to perform Second Task without prompt**
 
-## Second Task: Apply for STEM - 15 minutes
+## TASK 2A: Apply for STEM - 15 minutes
 
-If you are were getting your undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
+Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
+
+*Remember to think aloud as you go through so we can hear what works for you and what doesn't.
+
+> Checking benefits... see what they say / If they don't know and say they'd check, respond < 6 months. 
   
   Things to watch for:
   -	Do any questions cause confusion or require additional research for users to answer?
@@ -87,29 +91,50 @@ If you are were getting your undergraduate degree in **Chemistry** from **Chicag
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
   
-## Third Task: Triggering the Alert - 10 minutes
+## TASK 2B: Triggering the Alert - 15 minutes
 
-Let's say you are currently getting your degree in Civil Engineering from Duke University.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
+Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
 
-_Prompt at "About how much of your entitlement do you have left?"_:  Say you clicked "Check remaining benefits" and found out that you have 7 months left.  What would you do?  Do you think the application would let you continue?
+*Remember to think aloud as you go through so we can hear what works for you and what doesn't.
+
+_Prompt at "About how much of your entitlement do you have left?"_:  Say you clicked "Check remaining benefits" and found out that you have 7 months left.  What would you do?  
   
-  
+
   Things to watch for:
+  - Does the user think the application would let them continue?
   - How do users react to alerts and warnings about eligibility?
+  -	Do any questions cause confusion or require additional research for users to answer?
+  - Does the user try to skip any questions?
+  - Does the user click the Additional Info component "What if I don't have a bank account?"?
+  - If ineligible, how does the user react to ineligibility alert?
   
+  
+  **Upon completion of task:**
+  -	What parts of the form would be the easiest for you to complete? 
+  -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
+  - Did any of the questions seem unnecessary?  
+  -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
+  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
   
   **Upon completion of the task:**
   - What did you think of the alert?
   - What would you do after you saw this message?
 
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 10 minutes
+
+Circle back on
+- Eligbility alert (if relevant)
+- STEM program dropdown
+- School contact details
+- Direct Deposit
 
 Those are all the tasks I have for you today. 
 
 -	Do you have general thoughts or feedback on the application that you’d like to share? 
 -	Any questions for me?
 - I want to give a chanced to the other people on the line to ask a question.
+
 
 ## Thank-You and Closing - 3 minutes
 
