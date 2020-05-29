@@ -1,7 +1,7 @@
 # DOMO Upload
 The purpose of this document is to inform Contact Center team members how to upload raw data from the spreadsheet into DOMO.
 
-Here are the steps to get updated for April (and on a monthly basis):
+Here are the steps to upload contact center data into DOMO on a monthly basis:
 1) Go to the raw contact center dataset (this should mirror your excel spreadsheet)
 2) In the top right hand corner, click the wrench > Edit Webform
 3) Paste in your new data for the month (or if needing to do a full CTRL+A+delete + CTRL+A+PASTE)
@@ -15,7 +15,7 @@ Here are the steps to get updated for April (and on a monthly basis):
 11) Hover over each chart and click the wrench dropdown on the right hand side and click "Edit in Analyzer"
 12) Within each chart, under "FILTERS" on the left hand side, push "DATE_CREATED" date range forward to reflect the new month you're trying to display.
 
-image
+[DOMO screenshot](https://user-images.githubusercontent.com/48527022/82952513-1924fb00-9f77-11ea-81f1-38e7ec6767d9.png)
 
 13) Click Save and Close in the top right and do this for each chart.
 14) At this point, the dashboard should now be updated with only the relevant month's data
