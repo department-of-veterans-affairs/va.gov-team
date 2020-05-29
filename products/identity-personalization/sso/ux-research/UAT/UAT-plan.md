@@ -14,6 +14,18 @@ VA.gov aims to provide a unified digital portal with access to all VA services. 
 ### Purpose 
 **Make sure SSOe works in production.**
 
+## Pre-Tests
+
+SAFARI, IE, Edge or FF (chrome is not needed)
+1. User signs in to VA.gov
+2. User opens "My Health" in new tab. (right click)
+3. User clicks on APPOINTMENTS.
+4. User clicks on “Schedule or Cancel a VA appointment” link.
+ -Are they redirected to old VAOS?
+5. User signs out
+NOTE: If user has different authentication credentials try each one.
+----
+
 ## Test Set-Up
 NOTE: This set up is to be used for UAT completed before features are launched to 100% of users. In these cases a developer must be present for testing.
 
@@ -30,7 +42,26 @@ Chrome browser instructions below for Step 2 in other browsers [check this how t
 9. Refresh page
 10. Begin UAT flow
 
-## UAT Testing Flows
+## UAT Test Flow
+
+1. User signs in to VA.gov
+ - Check for modal
+2. User opens "My Health" in new tab. (right click)
+3. User clicks on APPOINTMENTS.
+4. User clicks on “Schedule or Cancel a VA appointment” link
+ - Are they redirected to old VAOS?
+5. Return to MHV Home
+-------
+1. Click on Labs and Tests
+ - User should be at MHV homepage logged in.
+2. Click on prescriptions
+-------
+1. Open new tab.
+2. Go to to My healtheVet home page: https://www.myhealth.va.gov/mhv-portal-web/home
+
+REPEAT: With different credentials and browsers.
+
+## Reference Test Rails Cases
 
 The 4 flows below chart out how users could test both outbound and inbound SSOe with one type of credential. Ideally, each flow should have two testers go through it, one in Chrome and one in Safari. This would make for a total of 8 moderated UAT sessions run by the SSOe team. 
 
