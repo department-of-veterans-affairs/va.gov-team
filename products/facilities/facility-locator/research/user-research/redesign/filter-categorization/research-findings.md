@@ -33,7 +33,7 @@ The participants created a total of 277 unique categories. The following categor
 | Category name | card, card, card, card, card
 
 **1. Cemetery & burial**
-- Talk about cards listed, frequency of sort, and number of participants who sorted into that category
+- data on cards listed, frequency of sort, and number of participants who sorted into that category
 - data
 
 **2. Counseling & mental health**
@@ -43,17 +43,17 @@ The participants created a total of 277 unique categories. The following categor
 **4. Specialty medical services**
 
 ## Post-Study Questionnaire
-Have you ever used the Facility Locator on VA.gov?
+**Have you ever used the Facility Locator on VA.gov?**
 - 65.9% of participants have used the Facility Locator
 - 34.1% of participants have not used the Facility Locator
 
-Would you classify your current location as Rural or Urban?
+**Would you classify your current location as Rural or Urban?**
 - 31.8% of participants classify their location as rural
 - 56.8% of participants classify their location as urban
 - 11.4% of participants classify their location as other:
   - Examples provided were related to small towns and suburban areas
   
-What is your age group?
+**What is your age group?**
 - 36.4% of participants are age 6-40
 - 9.1% of participants are age 41-60
 - 54.5% of participants are age 61-80
