@@ -142,7 +142,7 @@ Participants:
 |  05/10 | Time 8 CT AM to 5CT PM |
 |  05/11 | Time 8 CT AM to 5CT PM |
 |  05/12 | Time 8 CT AM to 5CT PM |
-|  05/1 | Time 8 CT AM to 5CT PM |
+|  05/1  | Time 8 CT AM to 5CT PM |
 
 - Please leave 30 mins between sessions. 
 - Please do not exceed 3 session a day. 
