@@ -328,7 +328,7 @@ State (*Required) { dropdown with full state names }
 
 #### Your school ID and contact details  { Sub-head } 
 
-These additional details will help us review your application faster but aren't required. 
+These additional details will help us review your application faster, but aren't required. 
 
 Your school student ID number { Text field }  
 
