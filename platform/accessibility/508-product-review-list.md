@@ -100,7 +100,7 @@ Back to [Table of Contents](#table-of-contents)
 ### Formation Design System
 
 **Maintainer:** VSP<br/>
-**Audit Status:** [Audit underway by VSP as of April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)<br/>
+**Audit Status:** _[Audit underway by VSP as of May 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)_<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3A%22design+system%22+label%3A508%2FAccessibility)**<br/>
 
 **Open Issues**
@@ -150,7 +150,7 @@ Back to [Table of Contents](#table-of-contents)
 ### Site-wide
 
 **Maintainer:** VSP & VSA<br/>
-**Audit Status:** Not applicable. Issues should be completed as soon as possible<br/>
+**Audit Status:** _Not applicable. Issues should be completed as soon as possible._<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Asitewide+label%3A508%2FAccessibility)**<br/>
 
 **Open Issues**
@@ -224,7 +224,7 @@ Back to [Table of Contents](#table-of-contents)
 
 ### VA Developer Portal
 
-**Audit Status:** Issues logged by VSP Product Support in Q1 2019 audit<br/>
+**Audit Status:** _Issues logged by VSP Product Support in Q1 2019 audit._<br/>
 **[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion)**
 
 Back to [Table of Contents](#table-of-contents)
@@ -234,7 +234,7 @@ Back to [Table of Contents](#table-of-contents)
 ### Outreach and Events
 
 **Maintainer:** VSA<br/>
-**Audit Status:** Audited January 2019<br/>
+**Audit Status:** _Audited January 2019._<br/>
 **[Test application](https://staging.va.gov/outreach-and-events/)**
 
 #### Open issues
@@ -250,7 +250,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Profile Direct Deposit Feature
 
-**Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
+**Audit Status:** _Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019._<br/>
 **No open issues**<br/>
 
 Back to [Table of Contents](#table-of-contents)
@@ -259,7 +259,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Address Validation
 
-**Audit status:** Pre-launch 508 Review
+**Audit status:** _Pre-launch 508 Review._
 
 **Open issues**
 
@@ -272,7 +272,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Profile Appointment Text Messages
 
-**Audit status:** First audit completed by VSP Product Support Team October 2019<br/>
+**Audit status:** _First audit completed by VSP Product Support Team October 2019._<br/>
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -280,7 +280,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Benefits Recommendations
 
-**Audit status:** Request sent to VA 508 office March 2019.<br/>
+**Audit status:** _Request sent to VA 508 office March 2019._<br/>
 
 **Open issues** identified by VSP Product Support
 
@@ -295,7 +295,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### 526v2 All Claims
 
-**Audit status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.
+**Audit status:** _Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019._
 
 **Open issues** identified by VA 508 office
 
@@ -333,7 +333,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### 526 PTSD
 
-**Audit status:** Audited January 2019<br/>
+**Audit status:** _Audited January 2019._<br/>
 **[781a PTSD form](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes)**
 
 **Open issues**
@@ -347,7 +347,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Claim and Appeal Status
 
-**Audit status:** Audited by VA 508 Office February 2019<br/>
+**Audit status:** _Audited by VA 508 Office February 2019._<br/>
 **Open issues**
 
 - [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
@@ -360,7 +360,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### HCA Dashboard Notifications
 
-**Audit status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.
+**Audit status:** _First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019._
 
 **Open issues**
 
@@ -372,7 +372,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Apply for Pre-need Burial
 
-**Audit status:** Audited by VA 508 Office September 2018<br/>
+**Audit status:** _Audited by VA 508 Office September 2018._<br/>
 
 **Open issues**
 
@@ -429,7 +429,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Rated Disabilities
 
-**Audit Status:** Pre-launch 508 audit completed<br/>
+**Audit Status:** _Pre-launch 508 audit completed._<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
 
 **Open issues**
@@ -470,7 +470,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Education Feedback Tool
 
-**Audit status:** Request sent to VA 508 office November 2018<br/>
+**Audit status:** _Request sent to VA 508 office November 2018._<br/>
 
 **Open issues**
 
@@ -484,7 +484,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Edu 1990
 
-**Audit status:** Completed June 2017<br/>
+**Audit status:** _Completed June 2017._<br/>
 
 **Open issues**
 
@@ -496,7 +496,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Edu 1990e
 
-**Audit status:** Completed June 2017<br/>
+**Audit status:** _Completed June 2017._<br/>
 
 **Open issues**
 
@@ -508,7 +508,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Edu 1990n
 
-**Audit status:** Completed June 2017<br/>
+**Audit status:** _Completed June 2017._<br/>
 
 **Open issues**
 
@@ -590,7 +590,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### General Issues
 
-**Audit status:** Issues logged by auditor in February 2020
+**Audit status:** _Issues logged by auditor in February 2020._
 
 **Open issues**<br/>
 
@@ -600,7 +600,7 @@ Back to [Table of Contents](#table-of-contents)
 - [[CI/CD]: Review coverage of accessibility checks in facility-locator end-to-end tests - #7358](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7358)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
-**Audit status:** Issues logged by auditor in July 2019<br/>
+**Audit status:** _Issues logged by auditor in July 2019._<br/>
 **Open issues**<br/>
 - [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
   **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
@@ -615,7 +615,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Facility Locator Urgent Care MVP
 
-**Audit status:** Staging Review completed by VSA March 26, 2020
+**Audit status:** _Staging Review completed by VSA March 26, 2020._
 
 **Open issues**
 
@@ -639,7 +639,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Appeal Modernization Process (AMA)
 
-**Audit status:** Staging Review complete, March 9, 2020; Sent to VA 508 Office March 11, 2020<br/>
+**Audit status:** _Staging Review complete, March 9, 2020; Sent to VA 508 Office March 11, 2020._<br/>
 
 **Open issues**
 
@@ -656,7 +656,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Disability Calculator
 
-**Audit status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.
+**Audit status:** _Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019._
 
 **Open issues**
 
@@ -670,7 +670,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Local Side Navigation
 
-**Audit status:** Completed June 2017<br/>
+**Audit status:** _Completed June 2017._<br/>
 **No open issues**
 
 Back to [Table of Contents](#table-of-contents)
@@ -679,7 +679,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Pittsburgh Side Navigation (CMS)
 
-**Audit status:** First audit completed by VSA November 2019
+**Audit status:** _First audit completed by VSA November 2019._
 
 **Open issues**
 
@@ -702,7 +702,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### Health Care Application 1010-EZ
 
-**Audit status:** Request sent to VA 508 office November 2018<br/>
+**Audit status:** _Request sent to VA 508 office November 2018._<br/>
 
 **Open issues**
 
@@ -717,7 +717,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool
 
-**Audit status:** Audited by VA 508 Office November 2018<br/>
+**Audit status:** _Audited by VA 508 Office November 2018._<br/>
 
 **Open issues**
 
@@ -736,7 +736,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool VET TEC
 
-**Audit Status:** Audited by VSP Product Support Team August 2019
+**Audit Status:** _Audited by VSP Product Support Team August 2019._
 
 **Open issues**
 
@@ -749,7 +749,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool Colmery 107 Feature
 
-**Audit status:** Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019.<br/>
+**Audit status:** _Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019._<br/>
 **No open issues**<br/>
 **[Test application](https://staging.va.gov/gi-bill-comparison-tool/)**
 
@@ -759,7 +759,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool Forever GI Bill Section 116
 
-**Audit status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.
+**Audit status:** _First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019._
 
 **Open issues**
 
@@ -778,7 +778,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool Caution Flags
 
-**Audit status:** Approved by VA 508 office in May 2020. Final VSP audit underway in May 2020.
+**Audit status:** _Approved by VA 508 office in May 2020. Final VSP audit underway in May 2020._
 
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
@@ -792,7 +792,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Comparison Tool School Certifying Official Documentation
 
-**Audit Status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
+**Audit Status:** _First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019._<br/>
 
 **Open issues**
 
@@ -815,7 +815,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Estimate Your Benefits
 
-**Audit Status:** In user testing<br/>
+**Audit Status:** _In user testing._<br/>
 
 **Open issues**
 
@@ -834,7 +834,7 @@ Back to [Table of Contents](#table-of-contents)
 
 #### GI Bill Section 103
 
-**Audit Status:** VSP staging review complete<br/>
+**Audit Status:** _VSP staging review complete._<br/>
 **No open issues**
 
 Back to [Table of Contents](#table-of-contents)
@@ -843,7 +843,7 @@ Back to [Table of Contents](#table-of-contents)
 
 ### VFS Veterans Affairs Online Scheduler (VAOS)
 
-**Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
+**Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
 
 **Open issues**
 - [[SCREENREADER]: VAOS - Past appointments MUST manage focus when users filter their appointments - #8912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8912)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
@@ -877,7 +877,7 @@ Back to [Table of Contents](#table-of-contents)
 --- 
 ### Covid-19 Resources (VSA Public Websites)
 
-**Audit status:** review TBD — content is launching without review due to emergency status<br/>
+**Audit status:** _Review TBD — content is launching without review due to emergency status._<br/>
 **No open issues**
 
 Back to [Table of Contents](#table-of-contents)
@@ -901,7 +901,7 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### SSOe Single Sign On
 
-**Audit status:** _VSP staging review completed_<br/>
+**Audit status:** _VSP staging review completed._<br/>
 
 **Open issues**
 
