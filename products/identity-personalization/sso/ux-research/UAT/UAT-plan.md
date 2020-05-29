@@ -20,7 +20,7 @@ SAFARI, IE, Edge or FF (chrome is not needed)
 1. User signs in to VA.gov
 2. User opens "My Health" in new tab. (right click)
 3. User clicks on APPOINTMENTS.
-4. User clicks on “Schedule or Cancel a VA appointment” link.
+4. User clicks on “Schedule or Cancel a VA appointment” link (in blue bux not the CTA button)
  -Are they redirected to old VAOS?
 5. User signs out
 NOTE: If user has different authentication credentials try each one.
@@ -48,7 +48,7 @@ Chrome browser instructions below for Step 2 in other browsers [check this how t
  - Check for modal
 2. User opens "My Health" in new tab. (right click)
 3. User clicks on APPOINTMENTS.
-4. User clicks on “Schedule or Cancel a VA appointment” link
+4. User clicks on “Schedule or Cancel a VA appointment” link (in blue bux not the CTA button)
  - Are they redirected to old VAOS?
 5. Return to MHV Home
 -------
