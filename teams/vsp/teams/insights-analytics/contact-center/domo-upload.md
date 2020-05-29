@@ -18,7 +18,7 @@ Here are the steps to upload contact center data into DOMO on a monthly basis:
 
 6) In the top right hand corner, click the wrench > Edit Webform
 
-7) _*Careful on this step_ -- Start typing in the next available row. In the DATE_CREATED column, add in a date indicating the new month. 
+_Tricky but important step_ 7) Start typing in the next available row. In the DATE_CREATED column, add in a date indicating the new month. 
     - _It is suggested that this is set as the first or last of the month for the report you're generating._
 
 8) For general inquiries and technical issues, create as many rows as there are issues based on what was given by NCC -- Highlight the row you just created and drag the small square in the corner down the number of times for the number of issues. For example, if there are 30 general inquiries for ncc, create one row, and then drag it down 29 more times. Repeat 7+8 for technical issues.
@@ -26,7 +26,7 @@ Here are the steps to upload contact center data into DOMO on a monthly basis:
 9) The automation should kick off once these updates are done.
 
 10) Navigate to the dashboard
-  _[Monthly Contact Center Report](https://va-gov.domo.com/page/1744754544)
+  [Monthly Contact Center Report](https://va-gov.domo.com/page/1744754544)
 
 11) Hover over each chart and click the wrench dropdown on the right hand side and click "Edit in Analyzer"
 
