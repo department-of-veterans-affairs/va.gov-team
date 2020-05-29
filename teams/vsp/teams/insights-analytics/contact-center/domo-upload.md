@@ -32,7 +32,7 @@ _Tricky but important step_
 
 12) Within each chart, under "FILTERS" on the left hand side, push "DATE_CREATED" date range forward to reflect the new month you're trying to display.
 
-[DOMO screenshot](https://user-images.githubusercontent.com/48527022/82952513-1924fb00-9f77-11ea-81f1-38e7ec6767d9.png)
+![DOMO screenshot](https://user-images.githubusercontent.com/48527022/82952513-1924fb00-9f77-11ea-81f1-38e7ec6767d9.png)
 
 13) Click Save and Close in the top right and do this for each chart.
 
