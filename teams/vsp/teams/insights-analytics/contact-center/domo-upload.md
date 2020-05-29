@@ -4,7 +4,8 @@ The purpose of this document is to inform Contact Center team members how to upl
 Here are the steps to upload contact center data into DOMO on a monthly basis:
 1) Go to the raw contact center dataset (this should mirror your excel spreadsheet)
   _a. [Mockup Call Center Monthly Report Raw Data](https://va-gov.domo.com/datasources/5f033e5c-f6d4-46e0-b684-b89f4cbc41b4/details/overview)_
-  _b. In order to access the raw data Excel spreadsheet, you have to be able to access the O drive on the VA Network._
+ 
+ _b. In order to access the raw data Excel spreadsheet, you have to be able to access the O drive on the VA Network._
 2) In the top right hand corner, click the wrench > Edit Webform
 3) Paste in your new data for the month (or if needing to do a full CTRL+A+delete + CTRL+A+PASTE)
 4) Click Save & Continue
