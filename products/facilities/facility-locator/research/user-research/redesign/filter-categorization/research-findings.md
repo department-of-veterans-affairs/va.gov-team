@@ -34,12 +34,10 @@ The participants created a total of 277 unique categories. Below is a summarized
 | Clinics | Primary care, women's care, and most speacial medical services were sorted into these categories by 3-5 participants|
 | Community-based | Community urgent care, community outreach and education, and homeless assistance were sorted by 3-4 participants, |
 | Counseling | These categories differ from mental health in that participants sorted these by name. Every card including the term "counseling" was sorted into these categories. |
-| Death | card |
 | Disability | card |
-| Education or Employement | card |
-| Death | card |
-| Emergency/Immediate | card |
-| Family | card |
+| Education or Employement | 3 to 6 Veterans sorted cards containing the terms "education" or "employment" into these categories |
+| Emergency/Immediate | VA urgent care, urgent care, emergency care, and community urgent care were sorted into these categories by 7 participants. 3 participants also included Critical Care specialty cards |
+| Family | These categories contained cards that pertain to family or group counseling. Other forms of counseling were included by 1 to 2 Veterans. |
 | General | card |
 | Geriatric | card |
 | Locations | card |
@@ -55,15 +53,6 @@ The participants created a total of 277 unique categories. Below is a summarized
 | Veteran specific | card |
 | Women | card |
 
-**1. Cemetery & burial**
-- data on cards listed, frequency of sort, and number of participants who sorted into that category
-- data
-
-**2. Counseling & mental health**
-
-**3. Medical services**
-
-**4. Specialty medical services**
 
 ## Post-Study Questionnaire
 **Have you ever used the Facility Locator on VA.gov?**
