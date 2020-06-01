@@ -821,8 +821,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: EYB - Estimate your benefits SHOULD only read when users press Calculate benefits button in IE11 - #9242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9242)<br/>
-**Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: EYB - CONSIDER updating link text "this page" to more descriptive labels - #9243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9243)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 - [[COGNITION]: EYB - CONSIDER hiding the HR divider from screen readers - #9245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9245)<br/>
