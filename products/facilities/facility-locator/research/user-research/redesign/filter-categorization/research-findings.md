@@ -16,7 +16,7 @@ Of the participants, these are the high level numbers:
 
 ## Themes
 
-**Cemetery and burial cards were most often grouped together**
+**Cemetery and burial cards were most often grouped together** and usually had the most category names. The most popular category names contained the terms "after-life" "burial" or "death" 
 
 **Veterans grouped all medical services together and often created a "medical specialty" or similar category.**
 
@@ -25,12 +25,35 @@ Of the participants, these are the high level numbers:
 **Participants had dificulty classifying some services** and created new categories for them or listed them as "other". This could be due to the name of the service being ambiguous. For example, Infectious Disease.
 
 ## Detailed Findings
-The participants created a total of 277 unique categories. The following categories are what we combined them into **(need to reword this)**
+The participants created a total of 277 unique categories. Below is a summarized version, created by grouping like categories together:
 
-| Category      | Cards                     |
-| ------------- |:-------------------------:|
-| Category name | card, card, card, card, card
-| Category name | card, card, card, card, card
+| Category      | Contents                  |
+| ------------- |:------------------------- |
+| Admin and Benefits | Most cards sorted into these categories pertain to benefits assistance, including education and employment help. |
+| Burial, cemetery, end of life | All cemeteries or lots were sorted into these categories. 3 participants also include bereavement counseling |
+| Clinics | Primary care, women's care, and most speacial medical services were sorted into these categories by 3-5 participants|
+| Community-based | Community urgent care, community outreach and education, and homeless assistance were sorted by 3-4 participants, |
+| Counseling | These categories differ from mental health in that participants sorted these by name. Every card including the term "counseling" was sorted into these categories. |
+| Death | card |
+| Disability | card |
+| Education or Employement | card |
+| Death | card |
+| Emergency/Immediate | card |
+| Family | card |
+| General | card |
+| Geriatric | card |
+| Locations | card |
+| Low priority | card |
+| Medical/Physical | card |
+| Mental health | card |
+| Primary care | card |
+| Rehabilitation | card |
+| Research & resources | card |
+| Specialty | card |
+| Surgery | card |
+| VA specified | card |
+| Veteran specific | card |
+| Women | card |
 
 **1. Cemetery & burial**
 - data on cards listed, frequency of sort, and number of participants who sorted into that category
