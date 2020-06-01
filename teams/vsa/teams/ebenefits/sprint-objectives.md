@@ -10,10 +10,10 @@
 ----
 ## Sprint 22 (5/20 - 6/2)
 ```diff
-- 51 points over 18 issues
+- 54 points over 19 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
-- FE: Being moving through end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
+- FE: Move through end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
 - BE: Complete PDF creation, establish procedures for VBMS connection
 - Design and Research: Schedule and conduct usability sessions, if possible
 - Product: Finalize Contact Center documentation, record video walk-through
