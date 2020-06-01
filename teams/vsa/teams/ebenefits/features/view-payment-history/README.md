@@ -6,7 +6,7 @@
   - [My Payment History - http://www.ebenefits.va.gov/ebenefits/payments](http://www.ebenefits.va.gov/ebenefits/payments)  
 - Staging link: https://staging.va.gov/#/payment-history/
 - va.gov link: https://www.va.gov/va-payment-history/
-- Current Prototype:  
+- Current Prototype: https://preview.uxpin.com/546893e0b210374a0734240e0ca9fccc2e02ed11#/pages/129039987 
 
 ### Table of Contents
 
