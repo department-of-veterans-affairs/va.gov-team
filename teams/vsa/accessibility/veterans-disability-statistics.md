@@ -2,17 +2,17 @@
 
 * About **1.52 million (8.5 percent) veterans had a service-connected disability rating of 70 percent or higher**.
 
-* About 41 percent of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones have VA disability ratings, compared to 25 percent of veterans of other eras
+* Of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones, **about 41 percent have VA disability ratings, compared to 25 percent of veterans of other eras**.
 
-* Nearly half (47.7 percent) of all Gulf War II veterans with a disability report a cognitive difficulty. 
+* **Nearly half (47.7 percent) of all Gulf War II veterans with a disability report a cognitive difficulty**. 
 
-* Approximately 300,000 veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression.
+* **Approximately 300,000 veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression**.
 
-* About 320,000 (19.5 percent) report experiencing a traumatic brain injury (TBI) during deployment.
+* **About 320,000 (19.5 percent) report experiencing a traumatic brain injury (TBI) during deployment**.
 
-* An estimated 31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI.
+* An estimated **31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI**.
 
-* As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI), which have been dubbed “signature injuries” of the Iraq War.
+* As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. **An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI)**, which have been dubbed “signature injuries” of the Iraq War.
 
 > Sources
 > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S., totalling 17,950,000 veterans. 
