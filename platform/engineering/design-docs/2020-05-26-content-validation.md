@@ -3,7 +3,7 @@
 **Author(s):** Bill Fienberg
 **Last Updated:** May 26 2020  
 **Status:** **Draft** | In Review | Approved
-**Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler []
+**Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], Steve Wirt []
 
 ## Table of Contents
 
@@ -61,6 +61,8 @@ The `check-broken-link` plugin does the following:
 
 ##### Accessibility Checking
 
+
+
 #### Pain points
 
 ##### Content Writers
@@ -106,7 +108,7 @@ COMING SOON
 ### Caveats
 
 - Our [function to determine if a link is broken](https://github.com/department-of-veterans-affairs/vets-website/blob/e8b68850fc83fdae4386fe4ab392770dde38faee/src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js#L16) doesn't check if external links are broken.
-- Our [accessibility check](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/assets/js/execute-axe-check.js#L8) only renders a banner on the preview server
+- Our [accessibility check](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/assets/js/execute-axe-check.js#L8) only renders a banner on the preview server.
 
 ### Security Concerns
 
@@ -141,5 +143,6 @@ We could stop breaking the `vets-website` build due to invalid content. That wou
 | Date         | Revisions Made | Author        |
 | ------------ | -------------- | ------------- |
 | May 26, 2020 | Initial draft  | Bill Fienberg |
+| June 1, 2020 | Add Steve Wirt as required reviewer  | Bill Fienberg |
 
-**Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler []
+**Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], Steve Wirt []
