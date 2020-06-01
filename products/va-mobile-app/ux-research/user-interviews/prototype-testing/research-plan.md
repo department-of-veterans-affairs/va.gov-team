@@ -17,7 +17,7 @@ In an early May 2020 round of discovery research, we had ten 60-minute interview
 This round of research mainly aims to validate features for an MVP mobile app (~80%) and as a secondary goal (~20%) garner reactions to some more “blue sky” features and prepare for further testing for features past the MVP. 
 
 # Research questions
-- Are Claims Status, Rx Refill, and Secure Messaging the right places to start for the MVP?
+- Is our hypothesis right that Claims Status, Rx Refill, and Secure Messaging are the right places to start for the MVP?
   - Do Claims and Health features seem equally useful? Or do participants respond to one more than the other?
   - Is there one feature, or a couple features, that people are most excited about?
     - If so, what are they? Why are they most useful?
@@ -26,8 +26,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
   - Are the features we're showing enough for users to find the app valuable?
     - If not, what needs to be added for the app to be a "great start"?
 - What is _not_ in our prototype that Veterans would like to see in an app?
-- Is there an area outside of Health and Claims that should be considered either in the MVP or soon after in the product roadmap?
-- What other features within Claims and Health (e.g. Health Records, VSO Chat) should be considered in the product roadmap?
+  - Is there an area outside of Health and Claims that should be considered either in the MVP or soon after in the product roadmap?
 
 
 # Hypothesis 
