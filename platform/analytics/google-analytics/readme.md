@@ -22,7 +22,7 @@ After your VSP orientation, please check out these resources:
 
 4. [Google Analytics Walkthrough Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
 
-#### Measuring Content, User Interactions, and  Key Veteran Transactions
+#### Measuring Content, User Interactions, and  Key Veteran Transactions in Google Tag Manager
 
 1. [Rules of Engagement - Analytics Implementation Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md)
 
