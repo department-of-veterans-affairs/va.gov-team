@@ -59,6 +59,8 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 - Include findability task within research
 - the breadcrumbs and URLs on the existing education forms were never modernized/updated as part of WBC, this new application should be launched with correct IA
 - Legacy page on STEM still exists, should this be moved over?
+- Feedback documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/9699
+
 
 **4/21/20 - kick-off**
 - breaking out the STEM application into its own stand alone application
