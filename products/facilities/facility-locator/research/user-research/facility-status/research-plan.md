@@ -17,4 +17,4 @@ There is no standard way to define the current facility operating statuses provi
 - Veterans want to know what service/access they can receive upon viewing a facility's operating status
 
 ## Method
-- TBD
+TBD
