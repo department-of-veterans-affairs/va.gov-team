@@ -140,25 +140,13 @@ Form 22-10203
 
 ### Chapter Title: 2 of 6: Education Benefit
 
-Which benefit are you currently using or have you recently used? (*Required){ checkboxes } 
+Which benefits have you used or are you currently using? (*Required){ checkboxes } 
 - [ ] Post 9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
 - [ ]	Fry Scholarship (Chapter 33) [Learn more](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/)  
 - [ ] Montgomery GI Bill (MGIB-AD, Chapter 30) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)  
 - [ ] Montgomery GI Bill Selected Reserve (MGIB-SR, Chapter 1606) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)   
 - [ ] Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)  
-- [ ] Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)  
-
-{ If NOT Chapter 33 (Post-9/11 or Fry Scholarship) display warning alert. Don’t display if both CH-33 and non-CH33 benefits are selected at the same time. }  
-
-{ Yellow warning alert }  
-
-### You may not be eligible  
-
-The Rogers STEM Scholarship is only for Post-9/11 GI Bill and Fry Scholarship recipients.  
-
-If you think you may be eligible, you can still choose to apply for the Rogers STEM Scholarship.  
-
-{ end warning alert }  
+- [ ] Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)    
 
 {If NO Chapter 33 selected, will be noted in STEM eligibility summary page }  
 
@@ -206,7 +194,7 @@ About how much of your education benefit do you have left? (*Required) [Check re
 
 {If not STEM undergrad or not pursuing teaching certification – will be noted in  STEM eligibility summary page }  
 
-{ if user is ineligible due not mot meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification, more than 6 months benefits) CONTINUE to STEM eligibility summary page }  
+{ if user is ineligible due to not meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification, more than 6 months benefits) CONTINUE to STEM eligibility summary page }  
 
 [ Back | Continue ] { buttons } [
 
@@ -374,8 +362,8 @@ Form 22-10203
 ### Chapter Title:  5 of 6:  Personal information  
 
 #### Your address { sub-head }  
-  - Country (*Required)
-  - Street (*Required)
+  - Country { dropdown } (*Required)
+  - Street address (*Required)
   - Line 2
   - City (*Required)
   - State (*Required) { dropdown with full state names } 
@@ -390,7 +378,7 @@ Please enter as much contact information as possible so we can get in touch with
 - Home phone number
 - Mobile phone number (*Required)
         
-How should we contact you if we have questions about your application? 
+How should we contact you if we have questions about your application? { radio buttons } 
 - Mail
 - Email
 - Home phone
@@ -452,12 +440,11 @@ Please review the information below to ensure that it’s correct before you sub
 
 { Summary Review / Edit functionality  }
 
-* Applicant Information
-* Education Benefit
-* Program Details
-* Military Details
-* Personal Information
-* Review Application
+* Applicant Information { accordion } 
+* Education Benefit { accordion } 
+* Program Details { accordion } 
+* Military Details { accordion } 
+* Personal Information { accordion } 
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)    
 
