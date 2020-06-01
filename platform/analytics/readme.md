@@ -32,7 +32,7 @@ Please use this guide for more information.
                     are Google Analytics &amp; Google Tag Manager?</a>
             </li>
             <li><a
-                    href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-success-in-analytics.md">How
+                    href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-goals-in-google-analytics.md">How
                     do I track analytics using Google Tag Manager?</a></li>
             <li><a
                     href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/navigating-google-analytics.md">I
