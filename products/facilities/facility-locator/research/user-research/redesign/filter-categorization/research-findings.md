@@ -34,7 +34,6 @@ The participants created a total of 277 unique categories. Below is a summarized
 | Clinics | Primary care, women's care, and most speacial medical services were sorted into these categories by 3-5 participants|
 | Community-based | Community urgent care, community outreach and education, and homeless assistance were sorted by 3-4 participants, |
 | Counseling | These categories differ from mental health in that participants sorted these by name. Every card including the term "counseling" was sorted into these categories. |
-| Disability | card |
 | Education or Employement | 3 to 6 Veterans sorted cards containing the terms "education" or "employment" into these categories |
 | Emergency/Immediate | VA urgent care, urgent care, emergency care, and community urgent care were sorted into these categories by 7 participants. 3 participants also included Critical Care specialty cards |
 | Family | These categories contained cards that pertain to family or group counseling. Other forms of counseling were included by 1 to 2 Veterans. |
