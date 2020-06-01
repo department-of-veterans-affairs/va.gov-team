@@ -70,7 +70,6 @@ Profile 2.0
   - Finish build (is this possible?)
   - (If build is finished) Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
 - PM 
-  - Submit IA review ticket
   - (If build is finished) Submit request for QA review
   - (If build is finished) Submit request for 508 review
 
