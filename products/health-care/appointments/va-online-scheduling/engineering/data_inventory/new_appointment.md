@@ -94,6 +94,8 @@
          - Friendly name
          - Supports direct scheduling flag
          - Supports requests flag
+         - City
+         - State
 - Request limit
    - VAR: `/direct-scheduling/patient/ICN/{icn}/request-limit`
    - FHIR: Unknown
