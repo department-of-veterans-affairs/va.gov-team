@@ -66,11 +66,27 @@ Possible reasons:
 
 ## Personal stories of Veterans with disabilities
 
-| <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/barbiere.png" alt="Jason Barbiere, a U.S. Marine Corps veteran" />                                                        | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/albarran.png" alt="Armando Albarran, a Vietnam veteran" />                                                        | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/mazyck.png" alt="CeCe Mazyck, U.S. Army Veteran" />                                                        |
+| <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/barbiere.png" alt="Jason Barbiere, a U.S. Marine Corps veteran" width="250px;" />                                                        | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/albarran.png" alt="Armando Albarran, a Vietnam veteran" width="250px;" />                                                        | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/mazyck.png" alt="CeCe Mazyck, U.S. Army Veteran" width="250px;" />                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Watch a video interview with Jason Barbiere, a U.S. Marine Corps veteran](https://youtu.be/xtale6SIz3g), suffers from PTSD after returning home from service | [Watch a video profile of Armando Albarran](https://youtu.be/0KMRYQqpn-s), a Vietnam veteran, drafted in 1966 right out of high school, was hit in an explosion and lost both legs. | [Watch CeCe Mazyck share her story ](https://youtu.be/XnCzL4sg5x4)of how she overcame disabling injuries received in a parachute accident while serving in the military |
 
 > Source
 > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
+## More Veteran stories to read, orgs to follow
+
+| <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/Calderon.png" alt="Leslie Calderon, U.S. Army Veteran" width="250px;" /> | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/DeLion.png" alt="Eric DeLion, U.S. Marine Corps Veteran" width="250px;" /> | <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/Rodriguez.png" alt="SFC Michael Rodriguez, Army Special Operations OEF Veteran" width="250px;" /> |
+| ----- | ----- | ----- |
+|       |       |       |
+
+* [Wounded Warrior Project](https://www.woundedwarriorproject.org/), and their [Warrior Stories](https://newsroom.woundedwarriorproject.org/warrior-stories)
+
+* [The Veterans Project](https://www.thevetsproject.com/the-blog)
+
+* [Disabled American Veterans](https://www.dav.org/)
+
+* [Blinded Veterans Association](https://www.bva.org/)
+
+> Source
+> https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
