@@ -17,15 +17,16 @@ In an early May 2020 round of discovery research, we had ten 60-minute interview
 This round of research mainly aims to validate features for an MVP mobile app (~80%) and as a secondary goal (~20%) garner reactions to some more “blue sky” features and prepare for further testing for features past the MVP. 
 
 # Research questions
-- Do Claims and Health features seem equally useful? Do participants respond to one more than the other?
 - Are Claims Status, Rx Refill, and Secure Messaging the right places to start for the MVP?
-- Are Claims features like support chat and locating a VSO desired for a mobile app?
-  - Why or why not?
-- Would Claims Status, Rx Refill, and Secure Messaging in a mobile app add unique value for Veterans? 
+  - Do Claims and Health features seem equally useful? Or do participants respond to one more than the other?
+- Would Claims Status, Rx Refill, and Secure Messaging in a mobile app add value for Veterans? 
   - If yes, why? If no, why not?
 - Would participants download an app with Claims Status, Rx Refill, and Secure Messaging?
   - If yes, why? If no, why not?
 - What is _not_ in our prototype that Veterans would like to see in an app?
+  - Is there an area outside of Health and Claims that should be considered either in the MVP or soon after in the product roadmap?
+  - What other features within Claims and Health (e.g. Health Records, VSO Chat) should be considered in the product roadmap?
+
 
 # Hypothesis 
 
@@ -82,7 +83,7 @@ We will use the Perigean zoom account. We will send a link to a Figma prototype 
     - Disability benefits
     - Health care benefits
   - No assistive device users (low-fi prototype does not support assistive technology)
-  - Must be users of My HealtheVet
+  - 70% should be My HealtheVet users
   
 ## What is your recruitment strategy?
 1. Perigean will recruit
