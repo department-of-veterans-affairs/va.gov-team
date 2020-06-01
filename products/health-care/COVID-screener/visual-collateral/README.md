@@ -1,6 +1,9 @@
 # COVID-19 screening tool - PDFs for downloading and printing
 
-Graphic designers: Download the [original Adobe Illustrator file](covid19screen-collateral.ai) if your don't see what you need below
+#### "1-sheet" (aka "1-pager" or "flyer")
+- [For facilities](2020-05-CovidScreenerForFacilities-1sheet.pdf) (does not mention CTO office and project work)
+- [For "PR" usage](2020-05-CovidScreenerForPR-1sheet.pdf) (includes content about the CTO office and how we did the work)
+
 
 ## Collateral that INCLUDES the QR code:
 
@@ -32,3 +35,6 @@ Graphic designers: Download the [original Adobe Illustrator file](covid19screen-
 - [No QR code, No Shortcode](11x17-NoQR-NoShortcode-dark-bg.pdf)
 - [No QR code, Yes Shortcode](11x17-NoQR-YesShortcode-dark-bg.pdf)
 
+### Original Illustrator file
+
+Graphic designers: Download the [original Adobe Illustrator file](covid19screen-collateral.ai) if your don't see what you need above. You may need to customize the content (shortcode, URL, QR code).
