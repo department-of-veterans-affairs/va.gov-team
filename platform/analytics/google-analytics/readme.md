@@ -36,7 +36,7 @@ After your VSP orientation, please check out these resources:
 
 #### Tracking Success in Google Analytics
 
-1. [Tracking Success using Google Analytics Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-success-in-analytics.md)
+1. [Measuring Goals in Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-goals-in-google-analytics.md)
 
 2. [Importance of UTM Parameters - Video](https://drive.google.com/file/d/1jxoLHX91LW4kADVZCSOeH2c_5w6p46cn/view?usp=sharing)
 
