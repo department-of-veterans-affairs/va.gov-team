@@ -16,7 +16,7 @@ After your VSP orientation, please check out these resources:
 
 2. [Google Analytics Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/opting-out-google-analytics.md)
 
-2. [GA360 Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform.md)
+2. [GA360 Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform-access-levels.md)
 
 3. [Navigating Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/navigating-google-analytics.md)
 
