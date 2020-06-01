@@ -15,16 +15,16 @@
 * As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. **An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI)**, which have been dubbed “signature injuries” of the Iraq War.
 
     > Sources<br/>
-    > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S. 
-    > About 3.51 million veterans were male and between 35 and 54 years of age.
-    > https://www.statista.com/statistics/250316/us-veterans-by-disability-status/ 
-    > https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf 
-    > https://www.rand.org/pubs/monographs/MG720.html 
-    > https://www.rand.org/news/press/2008/04/17.html 
-    > https://www.rand.org/pubs/research_briefs/RB9336.html 
-    > https://ncd.gov/publications/2009/March042009 
-    > https://www.statista.com/statistics/250271/us-veterans-by-gender/ 
-    > https://www.statista.com/statistics/250267/us-veterans-by-age-and-gender/ 
+    > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S. <br/>
+    > About 3.51 million veterans were male and between 35 and 54 years of age.<br/>
+    > https://www.statista.com/statistics/250316/us-veterans-by-disability-status/ <br/>
+    > https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf <br/>
+    > https://www.rand.org/pubs/monographs/MG720.html <br/>
+    > https://www.rand.org/news/press/2008/04/17.html <br/>
+    > https://www.rand.org/pubs/research_briefs/RB9336.html<br/> 
+    > https://ncd.gov/publications/2009/March042009 <br/>
+    > https://www.statista.com/statistics/250271/us-veterans-by-gender/ <br/>
+    > https://www.statista.com/statistics/250267/us-veterans-by-age-and-gender/ <br/>
 
 
 ## Post-9/11 Vets Have Far Higher Disability Ratings Than Prior Generations
@@ -53,8 +53,9 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Read Master Sgt. Jeffrey Mittman’s story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/master-sgt-jeffrey-mittman/), wounded by a roadside bomb in Baghdad, Iraq, in 2005 | [Read Staff Sgt. Brian Pearce, USA-Ret.—SSG's story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/staff-sgt-brian-pearce-usa-ret/), lost his vision and much of his hearing due to a traumatic brain injury | [Read the story of Timothy E. Hornik, LMSW CPT, US Army, Retired](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/timothy-e-hornik-retired-veteran/)— shot by a sniper in 2004, causing his blindness |
 
-    > Source<br/>
-    > https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/visionaware-profiles-of-veterans-and-those-who-serve-them/ 
+   > Source <br/>
+   > https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/visionaware-profiles-of-veterans-and-those-who-serve-them/ 
+
 
 ## Lack of access to mental health services contributing to high suicide rates among veterans
 
@@ -71,8 +72,8 @@ Possible reasons:
 * The total number of suicides differs by age group; **31% of these suicides were by veterans 49 and younger, while 69% were by veterans aged 50 and older**. Suicide of veterans is primarily male, with about 97 percent of the suicides being male in the states that reported gender.
 
     > Sources<br/>
-    > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563010/ 
-    > https://www.mentalhealth.va.gov/docs/2016suicidedatareport.pdf 
+    > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563010/ <br/>
+    > https://www.mentalhealth.va.gov/docs/2016suicidedatareport.pdf <br/>
     > https://en.wikipedia.org/wiki/United_States_military_veteran_suicide 
 
 ## Personal stories of Veterans with disabilities
@@ -81,8 +82,8 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Watch a video interview with Jason Barbiere, a U.S. Marine Corps veteran](https://youtu.be/xtale6SIz3g), suffers from PTSD after returning home from service | [Watch a video profile of Armando Albarran](https://youtu.be/0KMRYQqpn-s), a Vietnam veteran, drafted in 1966 right out of high school, was hit in an explosion and lost both legs. | [Watch CeCe Mazyck share her story ](https://youtu.be/XnCzL4sg5x4)of how she overcame disabling injuries received in a parachute accident while serving in the military |
 
-    > Source<br/>
-    > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
+   > Source<br/>
+   > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
 ## More Veteran stories to read, orgs to follow
 
@@ -98,6 +99,6 @@ Possible reasons:
 
 * [Blinded Veterans Association](https://www.bva.org/)
 
-> Source<br/>
-> https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
+  > Source<br/>
+  > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
