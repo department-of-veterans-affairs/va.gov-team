@@ -14,7 +14,7 @@
 
 * As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. **An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI)**, which have been dubbed “signature injuries” of the Iraq War.
 
-> Sources
+> Sources<br/>
 > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S., totalling 17,950,000 veterans. 
 > About 3.51 million veterans were male and between 35 and 54 years of age.
 > https://www.statista.com/statistics/250316/us-veterans-by-disability-status/ 
@@ -35,7 +35,7 @@ Possible reasons:
 * Advances in battlefield medicine and rapid evacuations to treatment centers have resulted in more veterans surviving wounds that would have killed them in previous wars.
 * There’s a heightened awareness in the military and at the VA of the aftereffects of traumatic brain injury (TBI), along with more screenings for mental health issues resulting from post-traumatic stress. Advances in the ability to diagnose PTSD are another of the many factors in the uptick in disability rates.
 
-> Source
+> Source<br/>
 > https://www.military.com/daily-news/2019/03/25/post-9-11-vets-have-far-higher-disability-ratings-prior-generations-report.html 
 
 ## Veterans and vision loss
@@ -44,7 +44,7 @@ Possible reasons:
 * **Each year, some 7,000 veterans become newly blind or visually impaired** as age-related macular degeneration, retinitis pigmentosa, glaucoma, and diabetic retinopathy affect their lives more profoundly.
 * Some 17 percent of the evacuated wounded service members in Iraq and Afghanistan have suffered a serious eye injury of one type or another.  
 
-> Source
+> Source<br/>
 > https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/123/ 
 
 ## Personal stories of Veterans with vision loss
@@ -53,7 +53,7 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Read Master Sgt. Jeffrey Mittman’s story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/master-sgt-jeffrey-mittman/), wounded by a roadside bomb in Baghdad, Iraq, in 2005 | [Read Staff Sgt. Brian Pearce, USA-Ret.—SSG's story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/staff-sgt-brian-pearce-usa-ret/), lost his vision and much of his hearing due to a traumatic brain injury | [Read the story of Timothy E. Hornik, LMSW CPT, US Army, Retired](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/timothy-e-hornik-retired-veteran/)— shot by a sniper in 2004, causing his blindness |
 
-> Source
+> Source<br/>
 > https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/visionaware-profiles-of-veterans-and-those-who-serve-them/ 
 
 ## Lack of access to mental health services contributing to high suicide rates among veterans
@@ -65,7 +65,7 @@ Possible reasons:
 * Recent data on suicide rates among Army veterans showed an increase of more than 18% from 2011 to 2014. 
 * The total number of suicides differs by age group; 31% of these suicides were by veterans 49 and younger, while 69% were by veterans aged 50 and older. Suicide of veterans is primarily male, with about 97 percent of the suicides being male in the states that reported gender.
 
-> Sources
+> Sources<br/>
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563010/ 
 > https://www.mentalhealth.va.gov/docs/2016suicidedatareport.pdf 
 > https://en.wikipedia.org/wiki/United_States_military_veteran_suicide 
@@ -76,7 +76,7 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Watch a video interview with Jason Barbiere, a U.S. Marine Corps veteran](https://youtu.be/xtale6SIz3g), suffers from PTSD after returning home from service | [Watch a video profile of Armando Albarran](https://youtu.be/0KMRYQqpn-s), a Vietnam veteran, drafted in 1966 right out of high school, was hit in an explosion and lost both legs. | [Watch CeCe Mazyck share her story ](https://youtu.be/XnCzL4sg5x4)of how she overcame disabling injuries received in a parachute accident while serving in the military |
 
-> Source
+> Source<br/>
 > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
 ## More Veteran stories to read, orgs to follow
@@ -93,6 +93,6 @@ Possible reasons:
 
 * [Blinded Veterans Association](https://www.bva.org/)
 
-> Source
+> Source<br/>
 > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
