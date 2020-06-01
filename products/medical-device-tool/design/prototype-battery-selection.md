@@ -45,7 +45,10 @@ Prescribed DD/MM/YYYY
 (If selected)[Primary blue button containing checkmark iconography) Batteries added to order
 
 [Additional info component] What if I don't see my hearing aid?
-(content inside the 'Additional info' component)You'll need to contact your audiologist to update your record with additional devices
+(content inside the 'Additional info' component)You may not see your hearing aid device if you haven’t placed an order for resupply items within the last 2 years. If you need to order batteries, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+
+If you need a new hearing aid device, you’ll need to call your audiologist. 
+
 [Find contact information for your VAMC with the facility locator](https://www.va.gov/find-locations/)
 
 [Secondary button] Back
