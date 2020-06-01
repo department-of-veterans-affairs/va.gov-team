@@ -82,8 +82,8 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Watch a video interview with Jason Barbiere, a U.S. Marine Corps veteran](https://youtu.be/xtale6SIz3g), suffers from PTSD after returning home from service | [Watch a video profile of Armando Albarran](https://youtu.be/0KMRYQqpn-s), a Vietnam veteran, drafted in 1966 right out of high school, was hit in an explosion and lost both legs. | [Watch CeCe Mazyck share her story ](https://youtu.be/XnCzL4sg5x4)of how she overcame disabling injuries received in a parachute accident while serving in the military |
 
-   > Source<br/>
-   > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
+ > Source<br/>
+ > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
 ## More Veteran stories to read, orgs to follow
 
@@ -99,6 +99,6 @@ Possible reasons:
 
 * [Blinded Veterans Association](https://www.bva.org/)
 
-  > Source<br/>
-  > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
+> Source<br/>
+> https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
