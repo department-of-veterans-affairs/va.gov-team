@@ -42,7 +42,7 @@ Possible reasons:
 
 * More than 158,000 blind or visually impaired veterans now live among us, according to the [Blinded Veterans Association](http://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/blinded-veterans-association-bva/). That’s about 1% of all vets.
 * **Each year, some 7,000 veterans become newly blind or visually impaired** as age-related macular degeneration, retinitis pigmentosa, glaucoma, and diabetic retinopathy affect their lives more profoundly.
-* Some 17 percent of the evacuated wounded service members in Iraq and Afghanistan have suffered a serious eye injury of one type or another.  
+* Some **17 percent of the evacuated wounded service members in Iraq and Afghanistan have suffered a serious eye injury** of one type or another.  
 
 > Source<br/>
 > https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/123/ 
@@ -58,12 +58,17 @@ Possible reasons:
 
 ## Lack of access to mental health services contributing to high suicide rates among veterans
 
-* Over 8,000 Veterans will commit suicide each year, that is 22 each day.
+* **Over 8,000 Veterans will commit suicide each year, that is 22 each day**.
+
 * One in 4,000 Veterans without health care benefits commit suicide.
+
 * Veterans’ efforts to gain access to quality psychological health services after multiple deployments are often met with significant obstacles. 
+
 * Lack of access to critical mental health services may lead to suicidal behavior, especially among young military veterans who have completed multiple deployments to Afghanistan and Iraq. 
-* Recent data on suicide rates among Army veterans showed an increase of more than 18% from 2011 to 2014. 
-* The total number of suicides differs by age group; 31% of these suicides were by veterans 49 and younger, while 69% were by veterans aged 50 and older. Suicide of veterans is primarily male, with about 97 percent of the suicides being male in the states that reported gender.
+
+* Recent data showed an **increase of more than 18% from 2011 to 2014 in suicide rates among Army veterans**. 
+
+* The total number of suicides differs by age group; **31% of these suicides were by veterans 49 and younger, while 69% were by veterans aged 50 and older**. Suicide of veterans is primarily male, with about 97 percent of the suicides being male in the states that reported gender.
 
 > Sources<br/>
 > https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563010/ 
