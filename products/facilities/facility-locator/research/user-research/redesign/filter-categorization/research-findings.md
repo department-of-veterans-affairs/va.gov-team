@@ -2,7 +2,7 @@
 May 2020
 
 ## Methodology
-We launched an unmoderated self-guided card sort exercise and sent it via link to Veterans using our Perigean contract.
+We launched an unmoderated self-guided card sort exercise and sent it via link to Veterans using our Perigean contract. 72 Veterans responded.
 
 ## Summary
 Of the participants, these are the high level numbers:
@@ -67,3 +67,19 @@ The participants created a total of 277 unique categories. Below is a summarized
 - 36.4% of participants are age 6-40
 - 9.1% of participants are age 41-60
 - 54.5% of participants are age 61-80
+
+## Comments from Veterans
+
+`How do we switch to a new category after creating the first category and list? It says to add to empty spaces the new category but there doesn't seem to be any. I will keep trying to figure this out.
+
+This was difficult to navigate, I had to go at it on 3 separate occasions in order to complete and I am no stranger to a computer!
+
+I have no idea what some of the items are. For example, I don't know if "soldiers lot" refers to a burial lot, a parking lot, or something else. Ditto for "government lot". Consideration should be given to clarifying some of the terms.
+
+instructions were not very clear. Hope I did what you asked,
+
+As a blind person using a screen reader to access the computer the only part of your site I see is the instructions. I was able to print the screen to an OCR program to read the contents but would find it very difficult to arrange the items as instructed. Also, there are several graphics that are not recognized.
+
+What?
+
+
