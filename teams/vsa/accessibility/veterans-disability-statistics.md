@@ -47,7 +47,30 @@ Possible reasons:
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Read Master Sgt. Jeffrey Mittman’s story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/master-sgt-jeffrey-mittman/), wounded by a roadside bomb in Baghdad, Iraq, in 2005 | [Read Staff Sgt. Brian Pearce, USA-Ret.—SSG's story](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/staff-sgt-brian-pearce-usa-ret/), lost his vision and much of his hearing due to a traumatic brain injury | [Read the story of Timothy E. Hornik, LMSW CPT, US Army, Retired](https://visionaware.org/emotional-support/personal-stories/veterans-personal-stories/timothy-e-hornik-retired-veteran/)— shot by a sniper in 2004, causing his blindness |
 
+> Source
+> https://visionaware.org/everyday-living/essential-skills/information-for-veterans-coping-with-vision-loss/visionaware-profiles-of-veterans-and-those-who-serve-them/ 
 
+## Lack of access to mental health services contributing to high suicide rates among veterans
 
+* Over 8,000 Veterans will commit suicide each year, that is 22 each day.
+* One in 4,000 Veterans without health care benefits commit suicide.
+* Veterans’ efforts to gain access to quality psychological health services after multiple deployments are often met with significant obstacles. 
+* Lack of access to critical mental health services may lead to suicidal behavior, especially among young military veterans who have completed multiple deployments to Afghanistan and Iraq. 
+* Recent data on suicide rates among Army veterans showed an increase of more than 18% from 2011 to 2014. 
+* The total number of suicides differs by age group; 31% of these suicides were by veterans 49 and younger, while 69% were by veterans aged 50 and older. Suicide of veterans is primarily male, with about 97 percent of the suicides being male in the states that reported gender.
+
+> Sources
+> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563010/ 
+> https://www.mentalhealth.va.gov/docs/2016suicidedatareport.pdf 
+> https://en.wikipedia.org/wiki/United_States_military_veteran_suicide 
+
+## Personal stories of Veterans with disabilities
+
+| photo                                                        | photo                                                        | Photo                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Watch a video interview with Jason Barbiere, a U.S. Marine Corps veteran](https://youtu.be/xtale6SIz3g), suffers from PTSD after returning home from service | [Watch a video profile of Armando Albarran](https://youtu.be/0KMRYQqpn-s), a Vietnam veteran, drafted in 1966 right out of high school, was hit in an explosion and lost both legs. | [Watch CeCe Mazyck share her story ](https://youtu.be/XnCzL4sg5x4)of how she overcame disabling injuries received in a parachute accident while serving in the military |
+
+> Source
+> https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
 
