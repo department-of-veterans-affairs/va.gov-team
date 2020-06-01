@@ -1,5 +1,18 @@
 # Debt Letters Wireframes
 
+## Jun 1
+Following design intent checkin:
+- Content page includes left nav (tool location pending feedback from Mikki)
+- H1s are distinct (actual page titles pending feedback from Mikki)
+- Tabs included for current / past debts
+- "Unresolved debts" and "Resolved debts" --> "Current debts" and "Past debts" to be more simpler language and more similar to VAOS.
+- "View all of my debts" link added
+- All phone numbers and emails are links
+
+**Next steps**: Working with Mikki on IA, continuing to work with DMC to further define data and write content, discuss accessibility of PDFs and potential scope increases.
+
+![v1.2 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.2.jpg)
+
 ## May 28
 Wireflow created for the purpose of sharing during Design Intent Checkin after [team ideation](https://app.mural.co/t/vsa8243/m/vsa8243/1590173930514/c0dcc29fddb240204b0e1f93cc0b1caf2c04f421), where we decided the following:
 - [Debtman content page(s)](https://www.va.gov/debtman/) being replaced
