@@ -86,7 +86,11 @@ Accessory item name [h4 utility]
 You cannot reorder this item until MM/DD/YYYY.
 
 [Additional info component] What if I don't see the accessories I need?
-(content inside the 'Additional info' component)If you need a different hearing aid accessory or an adjustment to an available item, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+(content inside the 'Additional info' component)You may not see the accessories you need if you haven’t placed an order for resupply items within the last 2 years. If you need an accessory that hasn’t been ordered within the last 2 years, call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov. 
+
+If you need a smaller dome for your hearing aid, you’ll need to call your audiologist. 
+
+[Find contact information for your local VA medical center.](https://www.va.gov/find-locations/)
 
 [Secondary button] Back
 [Primary blue button] Continue
