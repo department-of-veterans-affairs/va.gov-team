@@ -19,6 +19,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
 # Research questions
 - Are Claims Status, Rx Refill, and Secure Messaging the right places to start for the MVP?
   - Do Claims and Health features seem equally useful? Or do participants respond to one more than the other?
+  - Is there one feature, or a couple features, that people are most excited about?
 - Would Claims Status, Rx Refill, and Secure Messaging in a mobile app add value for Veterans? 
   - If yes, why? If no, why not?
 - Would participants download an app with Claims Status, Rx Refill, and Secure Messaging?
