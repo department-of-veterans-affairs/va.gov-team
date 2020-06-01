@@ -24,7 +24,7 @@ Fill out name of individual and *Description* section below.
   > That file (global/config.yml) has a list of email addresses in groups. The email address in those groups is used to lookup their key. Keys are stored in files named with the user’s email address. So, you need to remove the file and their entry in that list to be finished.
  - [ ] SOCKS Access removed (if applicable) 
  - [ ] AWS Access removed  (if applicable) 
-  > Since there are multible account please ensure all are check ie test access.
+  > Since there are multible accounts please ensure all are check ie test access.
  - [ ] DSVA Slack (if applicable) 
  - [ ] User removed from the VA GitHub Org
  - [ ] Pagerduty access removed (if applicable) 
