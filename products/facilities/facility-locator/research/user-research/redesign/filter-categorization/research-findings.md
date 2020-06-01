@@ -70,16 +70,19 @@ The participants created a total of 277 unique categories. Below is a summarized
 
 ## Comments from Veterans
 
-`How do we switch to a new category after creating the first category and list? It says to add to empty spaces the new category but there doesn't seem to be any. I will keep trying to figure this out.
+> I have no idea what some of the items are. For example, I don't know if "soldiers lot" refers to a burial lot, a parking lot, or something else. Ditto for "government lot". Consideration should be given to clarifying some of the terms.
 
-This was difficult to navigate, I had to go at it on 3 separate occasions in order to complete and I am no stranger to a computer!
+Regarding the instructions from Optimal Sort
 
-I have no idea what some of the items are. For example, I don't know if "soldiers lot" refers to a burial lot, a parking lot, or something else. Ditto for "government lot". Consideration should be given to clarifying some of the terms.
+> instructions were not very clear. Hope I did what you asked,
 
-instructions were not very clear. Hope I did what you asked,
+> How do we switch to a new category after creating the first category and list? It says to add to empty spaces the new category but there doesn't seem to be any. I will keep trying to figure this out.
 
-As a blind person using a screen reader to access the computer the only part of your site I see is the instructions. I was able to print the screen to an OCR program to read the contents but would find it very difficult to arrange the items as instructed. Also, there are several graphics that are not recognized.
+> What?
 
-What?
+Accessibility 
 
+> As a blind person using a screen reader to access the computer the only part of your site I see is the instructions. I was able to print the screen to an OCR program to read the contents but would find it very difficult to arrange the items as instructed. Also, there are several graphics that are not recognized.
+
+> This was difficult to navigate, I had to go at it on 3 separate occasions in order to complete and I am no stranger to a computer!
 
