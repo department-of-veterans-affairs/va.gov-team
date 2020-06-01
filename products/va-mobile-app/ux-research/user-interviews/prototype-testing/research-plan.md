@@ -23,6 +23,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
   - If yes, why? If no, why not?
 - Would participants download an app with Claims Status, Rx Refill, and Secure Messaging?
   - If yes, why? If no, why not?
+  - Are the features we're showing enough for users to find the app valuable?
 - What is _not_ in our prototype that Veterans would like to see in an app?
   - Is there an area outside of Health and Claims that should be considered either in the MVP or soon after in the product roadmap?
   - What other features within Claims and Health (e.g. Health Records, VSO Chat) should be considered in the product roadmap?
