@@ -1,6 +1,6 @@
-# VAOS data inventory
+# VAOS data flow
 
-These files attempt to list all the data used by the VAOS front end.
+These files attempt to inventory and describe all the services and data used to view and create appointments in VAOS.
 
 - [Appointment list](appointment_list.md)
 - [New appointment form](new_appointment.md)
