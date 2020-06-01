@@ -75,7 +75,7 @@ Confluence is designed to enable knowledge sharing and collaboration across larg
 
 ### Software costs
 
-|Users|[Confluence Cloud Premium](https://www.atlassian.com/software/confluence/pricing)|Search integration ([Algolia](https://www.algolia.com/pricing/)|Publishing add-on ([Scroll Viewport - k15t](https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=server&tab=overview))|Total annual cost estimate|
+|Users|[Confluence Cloud Premium](https://www.atlassian.com/software/confluence/pricing)|Search integration ([Algolia](https://www.algolia.com/pricing/))|Publishing add-on ([Scroll Viewport - k15t](https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=server&tab=overview))|Total annual cost estimate|
 |---|---|---|---|---|
 |**50 users**|$500/month|>$499/month|approx. $350/year|**$12,350+/year**|
 |**300 users**|$2,325/month|>$499/month|approx. $1,500/year|**$35,400+/year**|
