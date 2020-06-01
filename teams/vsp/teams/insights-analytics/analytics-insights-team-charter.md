@@ -98,6 +98,7 @@ Empower Veteran Facing Services teams to make more data-informed decisions for b
 - Product Manager: _Joanne Esteban_
 - Implementation Specialist: _Jon Wehausen_
 - Implementation Specialist: _Brian Martin_
+- Reporting Specialist: _Ben McGrady_
 - Designer/UX Researcher: _Amy Cesal_
 - Contact Center Lead: _Kimberley Daniels_
 
