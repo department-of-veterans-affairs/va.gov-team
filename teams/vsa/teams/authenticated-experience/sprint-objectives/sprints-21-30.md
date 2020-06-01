@@ -84,9 +84,7 @@ Logged-in homepage
 
 Profile 2.0
 
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
-- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+- 
 
 Logged-in homepage
 - Begin design phase
@@ -101,6 +99,9 @@ Logged-in homepage
 - Call center - Prep guide
 - Call center - Prep video
 - Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
 - UAT - Plan for UAT
