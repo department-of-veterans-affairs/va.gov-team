@@ -10,8 +10,6 @@
 
 *In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
 
-*Check your [screensharing setup]*
-
 *When the participant is ready, begin the session with the following intro*
 
 ## Intro - 5 minutes
