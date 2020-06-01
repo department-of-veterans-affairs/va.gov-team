@@ -67,25 +67,12 @@ Profile 2.0
   - Finish up remaining tickets that have come up
   - IA review
 - Build
-  - Finish build
-  - Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
+  - Finish build (is this possible?)
+  - (If build is finished) Team verifies in staging that everything is behaving the way it should be BEFORE we do QA
 - PM 
   - Submit IA review ticket
   - (If build is finished) Submit request for QA review
   - (If build is finished) Submit request for 508 review
-
-----
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-- 508 - Request review of build
-- QA - Implement fixes/updates that came out of QA/508 audit
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
-- Testing - Implement/run tests we determine we need
-- Call center - Prep guide
-- Call center - Prep video
-- Call center - Contact Center Review (VSP cycle)
-- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
-- Pre-launch - Put together release plan
-- UAT - Plan for UAT
 
 Logged-in homepage
 
@@ -105,6 +92,19 @@ Profile 2.0
 Logged-in homepage
 - Begin design phase
 - Technical discovery
+
+----
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
+- QA - Implement fixes/updates that came out of QA/508 audit
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
+- Call center - Prep guide
+- Call center - Prep video
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
+- Pre-launch - Put together release plan
+- UAT - Plan for UAT
 
 ## Sprint 25 (7/1 – 7/14)
 
