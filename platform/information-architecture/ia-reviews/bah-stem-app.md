@@ -55,6 +55,11 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**6/1/20 - Usability testing prep**
+- Include findability task within research
+- the breadcrumbs and URLs on the existing education forms were never modernized/updated as part of WBC, this new application should be launched with correct IA
+- Legacy page on STEM still exists, should this be moved over?
+
 **4/21/20 - kick-off**
 - breaking out the STEM application into its own stand alone application
 - currently part of the 1995, will be the 22-10203
