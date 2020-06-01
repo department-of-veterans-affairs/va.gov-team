@@ -74,30 +74,30 @@ Analytics further underscore the importance of this information, with **3.4MM** 
 Ultimately, this really comes down to 3 projects:
 
 #### Logged-in homepage
-  - Phase 1: Focus on initial widgets in “top tasks” area
-    - In scope:
+  - **Phase 1: Focus on initial widgets in “top tasks” area**
+    - **In scope**:
       - Visual redesign of apps, claims, and benefit widgets from My VA
       -	Include links from current homepage
         - If possible, show conditionally based on whether they apply to the user’s personal info.
         - If not, this would be phase 2.
       -	(Maybe) A disability rating widget or GI bill balance widget
         - These might also need to be phase 2
-    - Out of scope:
+    - **Out of scope**:
       - Moving over "Find VA Benefits" functionality or content
       - Integrating any new data not already available on VA.gov
       - Significant functionality updates to existing widgets
- - Phase 2: Expand on phase 1. 
+ - **Phase 2: Expand on phase 1**
    - Many of these may come out of ideas generated during phase 1 that we were not able to build. This might include:
       -	A disability rating widget if it’s not included in phase 1
       -	A GI bill balance widget if it’s not included in phase 1
       -	Allowing some tasks to be completed right from the homepage
       -	Integrating new data, or showing data in a different way if deemed necessary (eg. could we should where a prescription is en route?)
       -	Additional features, if they are deemed necessary (eg. most recent payments, housing grant balance, etc)
- - Phase 3: Focus on benefits discovery
+ - **Phase 3: Focus on benefits discovery**
     - Some of this will inevitably be part of phase 1 since we can’t launch without a “blank” state.
     - However, we need to figure out — how are we guiding people based on where they are in their veteran lifecycle? This is where I think we should focus phase 3 efforts. This might include:
       -	A more fully-developed first-time user experience
-      -	Benefit suggestions or recommendations
+      -	Benefit suggestions or recommendations from the logged-in homepage
 
 #### Navigation
   - We need to revisit the logged-in navigation.
