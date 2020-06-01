@@ -21,9 +21,7 @@ Target launch date is end of May 2020, early June 2020.
 
 ### User Access
 #### Who can access?
-View/Modify Dependents is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.
-
-`[OTHER NON ID.me ACCESS METHODS ARE VALID`
+View/Modify Dependents is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.  Other non-ID.me login methods should be valid valid.
 
 #### How can users access?
  This feature is accessible for testing within the staging environment at this url: https://staging.va.gov/view-change-dependents/view for Viewing, and https://staging.va.gov/view-change-dependents/add-remove-form-686c/ for the actual 686 application and can be accessed in any modern browser.
@@ -42,8 +40,6 @@ https://va.gov/view-change-dependents/add-remove-form-686c/
 ### Navigation
 Currently, browsing within VA.gov from the disability page should bring the user to the unauthenticated landing page mentioned above which should answer some general questions about the tool as well as present the login button to gain access.  This will be incorporated into the Veteran Tools and be accessible from the home page.
 
-`[VERIFY FIRST PAGE]`
-
 After proper authentication, the Veteran is brought either to the View Dependents page or to the 686 application itself.
 
 ### Functionality
@@ -61,10 +57,6 @@ There are wrappers around each component that detect when data is successfully r
 In the event that the page does not see the data, a blue messaging window appears.
 
 In the event that the page cannot load the page (or part of a page) due to a system issue, a red messaging window appears.
-
-Also included is workflow that shows how the Veteran can get in and out of the Rated Disabilities tool
-
-`[ADD MORE ERROR HANDLING DETAILS]`
 
 ### FAQs
 - Coming soon
