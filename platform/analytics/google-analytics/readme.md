@@ -12,7 +12,9 @@ We want to help you measure the success of the products you are building for vet
 
 After your VSP orientation, please check out these resources:
 
-1. [Google Analytics Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/opting-out-google-analytics.md)
+1. [Requesting Access to Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-access-to-google-analytics)
+
+2. [Google Analytics Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/opting-out-google-analytics.md)
 
 2. [GA360 Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform.md)
 
@@ -34,7 +36,7 @@ After your VSP orientation, please check out these resources:
 
 #### Tracking Success in Google Analytics
 
-1. [Understanding Goal Conversions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-success-in-analytics.md)
+1. [Tracking Success using Google Analytics Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-success-in-analytics.md)
 
 2. [Importance of UTM Parameters - Video](https://drive.google.com/file/d/1jxoLHX91LW4kADVZCSOeH2c_5w6p46cn/view?usp=sharing)
 
