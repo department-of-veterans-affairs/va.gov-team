@@ -28,7 +28,7 @@ Please use this guide for more information.
         <ul>
             <li>
                 <a
-                    href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform.md">What
+                    href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform-access-levels.md">What
                     are Google Analytics &amp; Google Tag Manager?</a>
             </li>
             <li><a
