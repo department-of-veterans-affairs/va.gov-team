@@ -913,7 +913,7 @@ Back to [Table of Contents](#table-of-contents)
 ### COVID-19 Chatbot
 
 **Audit status:** _App in production. This application has some dependencies being adjusted, and will be queued for review as soon as possible._<br/>
-**[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**
+**[All issues logged in department-of-veterans-affairs covid19-chatbot repo](https://github.com/department-of-veterans-affairs/covid19-chatbot/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**
 
 Back to [Table of Contents](#table-of-contents)
 
