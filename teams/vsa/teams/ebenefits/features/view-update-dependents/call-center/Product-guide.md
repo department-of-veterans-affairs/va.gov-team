@@ -21,7 +21,7 @@ Target launch date is end of May 2020, early June 2020.
 
 ### User Access
 #### Who can access?
-View/Modify Dependents is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.  Other non-ID.me login methods should be valid valid.
+View/Modify Dependents is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.  Other non-ID.me login methods should be valid.
 
 #### How can users access?
  This feature is accessible for testing within the staging environment at this url: https://staging.va.gov/view-change-dependents/view for Viewing, and https://staging.va.gov/view-change-dependents/add-remove-form-686c/ for the actual 686 application and can be accessed in any modern browser.
