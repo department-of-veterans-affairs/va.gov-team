@@ -37,7 +37,7 @@ When you think aloud, it helps us understand what works well and where we might 
 
 I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
-## First Task: Navigate to STEM form - 5 minutes
+## Task 1: Navigate to STEM form - 5 minutes
 
 You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship. Your initial search took you to VA.gov.  How would you go about finding the application for the Rogers STEM application from this page?
 
@@ -47,7 +47,7 @@ Things to watch for:
 - If searching or talking about the scholarship, what terminology does the participant use?
 
 
-## Second Task: Determine Eligibility - 10 minutes
+##  Task 2: Determine Eligibility - 10 minutes
 
 Now let's say you've reached the application form. Based on your real life field of study and the benefits you have remaining, how would you use this page to decide if applying for the Rogers STEM scholarship is a good choice for you?
 
@@ -71,7 +71,7 @@ Note: User may continue to Task 3 without a prompt
 
 ## TASK 3A: Apply for STEM - 15 minutes
 
-Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
+Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
 
 *Remember to think aloud as you go through so we can hear what works for you and what doesn't.
 
@@ -94,7 +94,7 @@ Let's say you're getting your undergraduate degree in **Chemistry** from **Chica
   
 ## TASK 3B: Triggering the Alert - 15 minutes
 
-Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
+Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
 
 *Remember to think aloud as you go through so we can hear what works for you and what doesn't.
 
