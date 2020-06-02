@@ -6,6 +6,10 @@
 
 <a name="apis-covered"></a>
 ## APIs Covered
+- VAR
+  - `/vaos/v0/facilities`
+- VSP
+  - `/Organization?`
 
 <a name="functions"></a>
 ## Functions
