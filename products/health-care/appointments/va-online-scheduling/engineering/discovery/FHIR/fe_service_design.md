@@ -23,23 +23,14 @@ This organization may change depending on our understanding of the flow.
 
 ## Services
 
-### Organization
+### [Organization](services/organization.md)
 
-#### Functions
-- getOrganizations
-
-#### APIs covered
-- /vaos/facilities
-- /Organization?
-
-#### Feature flag
-
-### Location
+### [Location](services/location.md)
 
 ### HealthcareService
 
 ### Schedule
 
-### Slot
+### [Slot](services/slot.md)
 
-### Appointment
+### [Appointment](services/appointment.md)
