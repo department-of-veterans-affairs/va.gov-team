@@ -9,7 +9,7 @@
 - VAR
   - `/vaos/v0/facilities`
 - VSP
-  - `/Organization?`
+  - `/Organization`
 
 <a name="functions"></a>
 ## Functions
