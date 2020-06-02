@@ -2,12 +2,12 @@
 May 2020
 
 ## Methodology
-We launched an unmoderated self-guided card sort exercise and sent it via link to Veterans using our Perigean contract. 72 Veterans responded.
+We launched an unmoderated self-guided card sort exercise and sent it via link to Veterans using our Perigean contract. 70 Veterans responded.
 
 ## Summary
 Of the participants, these are the high level numbers:
 - 44 participants completed the study
-- 28 participants abandoned
+- 26 participants abandoned
 - 98% located in the United States
 - Median of 5 categories created (277 total categories created)
 - Average time to complete was 16 minutes 33 seconds 
@@ -15,7 +15,7 @@ Of the participants, these are the high level numbers:
 ## Themes
 **Cemetery and burial cards were most often grouped together** and usually had the most category names. The most popular category names contained the terms "after-life" "burial" or "death" 
 
-**Veterans grouped all medical services together and often created a "medical specialty" or similar category.**
+**Veterans grouped all medical services together and often created a "medical specialty" or similar category.** Participants  usually included primary, urgent, emergency, and women's health care together 
 
 **Cards were often grouped together by similar name, terms, or context.**
 - Surgery
@@ -85,3 +85,7 @@ Accessibility
 
 > This was difficult to navigate, I had to go at it on 3 separate occasions in order to complete and I am no stranger to a computer!
 
+## Resourses
+[Raw study data]()
+[Raw participant data]()
+[Standardization grid]()
