@@ -25,9 +25,10 @@ Start recording.
 Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your GI Bill education benefits?
-- (If applicable) Where are you going to school?  What are you getting a degree in?
+ - What school are you attending / did you attend? 
+ - What did you / are you studying?  
 2. Are you familiar with the Rogers STEM scholarship?
- - If yes, what have you heard?
+ - If yes, what have you heard about it?
 
 
 For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
@@ -38,19 +39,20 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 ## First Task: Navigate to STEM form - 5 minutes
 
-You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Your initial search took you to the VA.gov landing page.  How would you go about finding the Rogers STEM application form from this page?
+You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship. Your initial search took you to VA.gov.  How would you go about finding the application for the Rogers STEM application from this page?
 
 Things to watch for:
 - What areas of the page does the participant explore?
 - What does the participant click on?
-- If searching, what terminology does the participant use?
+- If searching or talking about the scholarship, what terminology does the participant use?
+
 
 ## Second Task: Determine Eligibility - 10 minutes
 
-You've found the application form. Based on your current benefits status and field of study, how would you use this page to decide if you could apply for the Rogers STEM scholarship?
+Now let's say you've reached the application form. Based on your real life field of study and the benefits you have remaining, how would you use this page to decide if applying for the Rogers STEM scholarship is a good choice for you?
 
 Things to watch for:
-- Does the user look at the subway map?
+- Does the user look at the subway map or click the link at the top of the page without reading anything else?
 - Where does the user look to determine eligibility?
 - Does the user read to determine eligibility or just start the application?
 
@@ -63,7 +65,6 @@ Things to watch for:
 - Would you expect to be eligible for this scholarship?
 - If you were unsure if your degree qualified for STEM, what would you do?
 - How do you know how much entitlement you have remaining (e.g. something they track, how often do they check, etc.)?
-- If you clicked "Check remaining benefits", what would you expect to happen (e.g. modal, new page, etc.)?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 Note: User may continue to Task 3 without a prompt
@@ -81,12 +82,13 @@ Let's say you're getting your undergraduate degree in **Chemistry** from **Chica
   - Does the user try to skip any questions?
   - Does the user click the Additional Info component "What if I don't have a bank account?"?
   - If ineligible, how does the user react to ineligibility alert?
-  
-  **Upon completion of task:**
+  - If they click "Check remaining benefits", what would you expect to happen (e.g. modal, new page, etc.)? 
+
+**Upon completion of task:**
   -	What parts of the form would be the easiest for you to complete? 
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
   - Did any of the questions seem unnecessary?  
-  -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
+  -	For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
   
@@ -107,13 +109,13 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
   - Does the user click the Additional Info component "What if I don't have a bank account?"?
   - If ineligible, how does the user react to ineligibility alert?
   - How do users exit the application if they are ineligible and don't want to continue applying?
-  
+  - If they click "Check remaining benefits", what do they expect to happen (e.g. modal, new page, etc.)?
   
   **Upon completion of task:**
   -	What parts of the form would be the easiest for you to complete? 
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
   - Did any of the questions seem unnecessary?  
-  -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
+  -	For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
   - What did you think of the alert?
   - What would you do after you saw this message?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
@@ -123,10 +125,11 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
 ## Post-Task Interview - 10 minutes
 
 Circle back on
-- Eligbility alert (if relevant)
-- STEM program dropdown
-- School contact details
-- Direct Deposit
+- Eligbility alert - For the "Check remaining benefits" helper in the form, what do they expect to happen (e.g. modal, new page, etc.)?
+- STEM program dropdown - How would they categorize their "real" degree? 
+- School contact details 
+- Direct Deposit: For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
+
 
 Those are all the tasks I have for you today. 
 
