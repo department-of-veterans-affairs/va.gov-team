@@ -10,3 +10,5 @@ Time: approximately 1 hour
 
 1. Attend the A11yChamps welcome and training (an invitation will be sent). <br/>
     **How this helps:** Provides an opportunity to gain answers to any questions, provide feedback on how your VSA accessibility specialist(s) may best support you.
+
+[Go to Level 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/02-level.md)
