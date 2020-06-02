@@ -65,7 +65,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
 # Method
 
 ## What method of research are you planning?
-Remote, 45-minute user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely. The sessions will be led by targeted questions that go along with an interactive mobile app prototype (~35 minutes) and end with a 'Build your app homescreen' exercise in Mural, driven by the facilitator (~10 minutes). 
+Remote user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely. The sessions will be led by targeted questions that go along with an interactive mobile app prototype (~35 minutes) and end with a 'Build your app homescreen' exercise in Mural, driven by the facilitator (~10 minutes). 
 
 ## Why this method?
 This method will allow members of the Hummingbird team to observe sessions and allow us to speak with a diverse population of Veterans located across the United States. Using a limited interactive prototype as stimuli will help us best understand the usefulness of a limited MVP app, and validate or challenge our hypothesis about what features should be placed as highest priority for the MVP. Doing a 'build your app homescreen' exercise will help us plan for future phases of testing. 
