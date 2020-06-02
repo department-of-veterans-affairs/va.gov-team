@@ -20,6 +20,8 @@ This option is being recommended as it satisfies immediate web editorial needs a
 - Works as a Proof of Concept for future-state content publishing architecture, utilizing an already ATO-approved secure API Gateway to publish content from Drupal
 - Provides an architecture that could potentially replace Forms database at VA
 
+[Diagram](https://whimsical.com/UpSBvigLWBK72p8ajG8v3a)
+
 ## Work Breakdown
 ### CMS Team
 - Development of ingest process of forms data for CMS team (migration)
