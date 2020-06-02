@@ -4,7 +4,7 @@ Last Updated February 26, 2020
 ## Keywords/Labels
 - GitHub Label: Debt Letters MVP 
 - Slack channel: #vsa-bam-2
-- Keywords
+- Keywords:
      - Debt Letters 
      - Debt
      - DMC
@@ -46,7 +46,6 @@ Last Updated February 26, 2020
 - [Go-to-market Strategy](#go-to-market-strategy)
 - [Target Launch Date](#target-launch-date)
  
-
 ---
 
 # Implementation Information
@@ -128,12 +127,13 @@ Technical: There are many different types communications about debt (typically r
 
 
 ## Discovery Takeaways
-- Initial Discovery notes will eventually live [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery)
+- [Discovery, May 2020 Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/research/discovery-may20)
 
 ## Decisions
 
 
 ## The Plan
+
 
 ## Roll-Out Approach
 
@@ -229,8 +229,8 @@ The burder of defining, applying, and maintaing the letter taxonomy will be mana
 
 ## Design 
 
-- The Debt Letters MVP lo-fi mock-ups can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/design)
-- The Debt Letters MVP product designs can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/design)
+- The Debt Letters MVP lo-fi mock-ups can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/design/wireframes.md)
+
 
 ### Screenshots
 
@@ -240,7 +240,6 @@ The burder of defining, applying, and maintaing the letter taxonomy will be mana
 ![DMC Online Payment Portal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/VA%20Current%20Debt%20Payment%20Site.png)
 
 #### After 
-
 VA.gov's MVP debt letters page
 ![DMC debt payment hub](https://)
 
@@ -387,6 +386,7 @@ https://www.congress.gov/bill/115th-congress/senate-bill/2884
 This bill directs the Department of Veterans Affairs (VA) to collaborate with veterans service organizations to write a standard letter to be provided to individuals who owe debts to the VA. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of: (1) why the individual owes such money, and (2) available options.
 
 The VA shall develop a method by which individuals may elect to receive debt notification letters by electronic means and shall ensure that the letter is delivered: (1) by both standard mail and electronic means to individuals who have made such election, and (2) only by standard mail to individuals who have not made such election.
+
 #### Full Text
 To require the Secretary of Veterans Affairs to develop a standard letter format to be provided to individuals who are indebted to the United States by virtue of their participation in benefits programs administered by the Secretary, to provide notice of debt by electronic means to such individuals when so elected, and for other purposes.
 
