@@ -59,17 +59,17 @@ This round of research mainly aims to validate features for an MVP mobile app (~
 # Method
 
 ## What method of research are you planning?
-Remote, 45-minute user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely. The sessions will be led by targeted questions that go along with an interactive mobile app prototype (~35 minutes) and end with a card sort in Optimal Workshop (~10 minutes). 
+Remote, 45-minute user interviews with 6-8 of Veterans over the course of 1 week. Each of these interviews will be moderated and conducted remotely. The sessions will be led by targeted questions that go along with an interactive mobile app prototype (~35 minutes) and end with a 'Build your app homescreen' exercise in Mural, driven by the facilitator (~10 minutes). 
 
 ## Why this method?
-This method will allow members of the Hummingbird team to observe sessions and allow us to speak with a diverse population of Veterans located across the United States. Using an interactive prototype as stimuli will help us best understand what features should be placed as highest priority for the MVP. 
+This method will allow members of the Hummingbird team to observe sessions and allow us to speak with a diverse population of Veterans located across the United States. Using a limited interactive prototype as stimuli will help us best understand the usefulness of a limited MVP app, and validate or challenge our hypothesis about what features should be placed as highest priority for the MVP. Doing a 'build your app homescreen' exercise will help us plan for future phases of testing. 
 
 ## Where are you planning to do your research?
-We will use the Perigean zoom account. We will send a link to a Figma prototype and an Optimal Workshop card sort in the chat and ask participants to share their screen with us. 
+We will use the Perigean zoom account. We will send a link to a Figma prototype and in the chat and ask participants to share their screen with us. We will share our screen when working in the Mural.
 
 ## What will you be testing?
 - [Prototype is work in progress, will update here w/o June 1]
-- [Optimal Workshop card sort is work in progress, will update here w/o June 1]
+- [Exercise is work in progress, will update here w/o June 1]
 
 ## Participants and Recruitment
 - We would like to interview 6-8 Veterans for this generative research project. Participant criteria: 
@@ -78,16 +78,15 @@ We will use the Perigean zoom account. We will send a link to a Figma prototype 
     - Branch of service
     - Gender (30% or more women)
     - Race
-    - Age (ideally two people each from 18-30, 31-50, 50-64, 65+)
+    - Age (ideally two people each from 18-30, 31-50, 50-64, 65+, but can be flexible)
     - Geography
     - Density (rural)
   - Diversity of experience with VA benefits and services, but ideally all participants with experience in the following 2 areas: 
     - Disability benefits
     - Health care benefits
+      - A majority should be My HealtheVet users 
   - No assistive device users (low-fi prototype does not support assistive technology)
-  - All should have experience with VA Healthcare
-    - A majority should be My HealtheVet users 
-  - All should have experience filing a claim with VA
+
   
 ## What is your recruitment strategy?
 1. Perigean will recruit
@@ -95,7 +94,7 @@ We will use the Perigean zoom account. We will send a link to a Figma prototype 
 
 ## When?
 1. Timeline for this study: June 8 - June 12 (depending on recruitment)
-2. Length of Sessions: 1 hour (plan to go for 45 minutes)
+2. Length of Sessions: Schedule for 1 hour (plan to go for 45 minutes)
 3. Availability: Monday-Friday (11 AM EST – 6 PM EST). Please don’t schedule back to back sessions. 
 4. Prepare: We will conduct a pilot interview on June 4 or 5.
 
