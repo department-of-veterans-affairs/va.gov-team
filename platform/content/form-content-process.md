@@ -11,7 +11,7 @@ Form users are: Veterans, Veteran family members, Veteran caregivers, VA employe
 
 At the beginning of form work, the product team holds a kickoff to determine discovery steps and project end goal (for example, goal is to allow Veterans to fill out and submit a disability compensation form online).
 
-1. As part of this discovery work, product teams have meetings with  VA form stakeholders. Content writer/editor should be a part of this meeting to better understand the following: 
+1. As part of this discovery work, product teams have meetings with VA form stakeholders. Content writer/editor should be a part of this meeting to better understand the following: 
 - Is the paper form currently undergoing revisions? 
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
@@ -21,15 +21,15 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
 - Identify related and potentially dependent questions
-- Discuss if there is any specific content that should be included on the online's form Introduction page (addition eligibility information?) 
-- Discuss if there is any specific content that should be included on the online's form Confirmation page (other related benefits a user  might be elibile for?)
+- Discuss if there is any specific content that should be included on the online's form Introduction page (additional eligibility information?) 
+- Discuss if there is any specific content that should be included on the online's form Confirmation page (other related benefits a user  might be eligible for?)
 
 
 ## Determine scope
 
 -----
 
-After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have picture of the larger process. 
+After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have a picture of the larger process. 
 
 **DESIGN**:
 Identify if new functionalities are required for this form. If so, discuss with developer and work on high-fidelity mockups about what the pattern would look like.  
@@ -45,47 +45,47 @@ Content editor begins to create an outline for the form and a list of copy needs
 - Identify questions that are dependent on other questions 
 - What instructions need to appear on the online form? 
 - What form question/labels need a plain language edit?  
-- Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. <br>
-[See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
+- Refer to the VA.gov form label masterlist to see if a label or question has already been standardized or gone through plain language edit. <br>
+[See VA.gov form label masterlist of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
 - Discuss what content you need to write for the form Introduction page
 - Discuss what content you need to write for the form Confirmation page
 
 **CONTENT and DESIGN**: 
-Discuss the entry and exit points for the form. How will users get to the form? Please loop in I/A for this discussion. 
+Discuss the entry and exit points for the form/tool. How will users get to it? Please loop in I/A for this discussion. 
 
-- Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
-- What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the form or tool launch? (**If so, please coordinate with the VSA-public-website team. That team is reponsible for writing static page content and updates**)
+- Does the form or tool require changes to the navigation or if there any part of the form/tool that requires an applicant to step out of the form (a form within the form)? 
+- What related static content needs to be updated to support the form/tool? (for example, do we need to add a CTA button or wizard to Eligiblity and How to Apply pages?)
+- Does a new static landing page need to be created or updated for the form or tool launch? (**If so, please coordinate with the VSA-public-website team for static content. That team is reponsible for writing static page content and updates**)
 	
 	
 **CONTENT/DESIGN/DEVELOPER**: 
-Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
+Discuss if any specific error messaging need to be written for the form/tool or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
 
 ## Plain-language editing and prototype
 
 -----
 
-Content editor does a plain-language edit on the form outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form. 
+Content editor does a plain-language edit on the form/tool outline in Github. Using the edited outline, designer creates a high-fidelty prototype of the form/tool. 
 
 Content editor also begins to write the form’s Introduction and Confirmation pages following guidance here:<br> 
 [Form introduction page template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-introduction-page-template.md) <br>
 [Form confirmation page guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/form-confirmation-page.md)
 
-**Product team PM** schedules a pre-usability check in with Platform team before user testing sessions begin. 
+**Product team PM** schedules a pre-usability check in with the VSP Platform team once the mockup is ready for review and before user testing sessions begin. 
 
 
 ## Usability testing
 
 -----
 
-We usually do several rounds of usability testing. For the first test, we use a prototype. 
+We usually do several rounds of usability testing. For the first test, we use the prototype. 
 
 Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking.
 
 [Guidance on observing research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
 
-Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing and research synthesis reports. This is to ensure we are tracking content revisions and feedback in one single outline (not in the protoype mockup). 
+Content writer should update the form Github outline with any content iterations or feedback that comes out of usability testing and research synthesis reports. This is to ensure we are tracking content revisions and feedback in **one single outline** (not in the protoype mockup). 
 [Research synthesis how to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md)
 
 
@@ -97,7 +97,7 @@ Finalize form URL and the URL for any new static pages that need to be created. 
 
 -----
 
-Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build the form in code.  
+Once usability sessions are complete and usability feedback/iterations have been implemented into the form Github outline, developers will use this outline to build out the online application in code.  
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
@@ -114,6 +114,7 @@ Once developers build the individual form chapters and design and copy have sign
 
 Content editor looks again at the form in staging. It should include the full flow:
 
+- Static landing pages that take a user into the application or tool
 - Form Introduction page
 - Form chapters
 - Form Confirmation page
@@ -124,7 +125,7 @@ Content editor will upload all proofread changes to a e2e proofread ticket for t
 Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input.
 
 
-**Product team PM** schedules a staging review with Platform team before form's launch.
+**Product team PM** schedules a staging review with the VSP Platform team before form's launch.
 
 
 
