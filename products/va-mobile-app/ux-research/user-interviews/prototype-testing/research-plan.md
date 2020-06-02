@@ -48,6 +48,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
     - "Once my request goes to VA, it goes into a black hole and can take awhile" -- P5
     - "There is aniticipation that you don’t want to miss anything...It would have been nice to get a text saying there’s been a status change, check online." -- P8
 - **Claims and Health features together in one app is something that Veterans would desire if navigation of the app is clear. However, Health features may be more valuable than Claims features due to the sustained interaction people have with them over time.**
+- 70% of Veterans receiving Disability Compensation used VA Health Care in FY 2016, up from 59% in FY 2007 (source: VA Utilization Profile FY 2016)
 - **Participants will highly desire and respond positively to features that put them in closer and more immediate touch with people who can help them at VA. Claims Support Chat and One Touch Call to VSO will test well.**
   - "[I think an app could] facilitate better communication." -- P10
   - "I’d like to text my provider or a nurse." -- P8
