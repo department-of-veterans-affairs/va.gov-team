@@ -2,7 +2,7 @@
 
 ## Welcome and thanks for your interest! 
 
-The VSA A11yChamps program was created to make sure VSA teams have the support necessary to meet VSP’s new accessibility requirements for teams to do their own accessibility testing before requesting staging or full accessibility reviews. By ensuring our products are accessible from day 1, we avoid overloading teams later in the development process. 
+The VSA A11yChamps program was created to make sure VSA teams have the support necessary to meet [VSP’s new accessibility requirements for teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) to do their own accessibility testing before requesting staging or full accessibility reviews. By ensuring our products are accessible from day 1, we avoid overloading teams later in the development process. 
 
 It’s also a method for our team members to learn more and ramp up their skills.
 
