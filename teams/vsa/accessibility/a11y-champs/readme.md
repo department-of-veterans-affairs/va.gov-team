@@ -12,6 +12,6 @@ Each VSA team will have one “champion” each quarter who stewards accessibili
 
 1. [Getting Started (for everyone)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/00-getting-started.md) - Time: approximately one hour
 1. [Level 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md) - Time: approximately 1 hour
-1. [Level 2]() - Time: approximately 1–3 hours
+1. [Level 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/02-level.md) - Time: approximately 1–3 hours
 1. [Level 3]() - Time: approximately 1–3 hours
 1. [Level 4]() - Time: approximately 2 hours
