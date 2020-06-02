@@ -96,24 +96,24 @@ Now I’d like to do an exercise in prioritization based on what we’ve talked 
 ## Adding more: build your own app home screen (10 minutes)
 Now I’m going to share my screen with you so you get a break from navigating. What I’m sharing here is the home screen to the app that you saw earlier and what you see to the right of that is more ideas for features that could be included in an app. 
 
-I want to do a quick exercise with you to understand what else you would add if you could add more to a VA mobile app. I can drag any feature you'd like to add into the app. Does that make sense?
+I want to do a quick exercise with you to understand what else you would add if you could add more to a VA mobile app. I can drag any feature you'd like to add into the app (demonstrate dragging). Does that make sense?
 
 ### Claims
-- Starting with Claims, what of the features would you add to a VA mobile app first?
+- Starting with Claims, what of these features would you add to a VA mobile app first?
   - Why?
   - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
   - Why?
 
 ### Health
-- Moving on to Health, what of the features would you add to a VA mobile app first?
+- Moving on to Health, what of these features would you add to a VA mobile app first?
   - Why?
   - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
   - Why?
   
 ### My VA
-- Out of what is shown here, what of the features would you add to a VA mobile app first?
+- Out of what is shown here, what of these features would you add to a VA mobile app first?
   - Why?
   - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
