@@ -17,7 +17,7 @@ In an early May 2020 round of discovery research, we had ten 60-minute interview
 This round of research mainly aims to validate features for an MVP mobile app (~80%) and as a secondary goal (~20%) garner reactions to some more “blue sky” features and prepare for further testing for features past the MVP. 
 
 # Research questions
-- Is our hypothesis right that limited Claims and Health features are the right places to start for the MVP?
+- Is our hypothesis right that limited Claims and Health features plus some standard mobile features (e.g. notifications, notification settings, profile, biometric sign in) are the right places to start for the MVP?
   - Do Claims and Health features seem equally useful? Or do participants respond to one more than the other?
   - Is there one feature, or a couple features, that people are most excited about?
     - If so, what are they? Why are they most useful?
