@@ -77,6 +77,20 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+   a. Applications to institutions and schools with caution flags decreases
+      i. Applications and payments of GI Bill benefits to institutions with caution flags decreses.
+      ii. Fewer people looking at profile pages with the most caution flags
+         i. Would probably want to look at this at the same time of year due to cyclical process of 
+         ii. Need more information from UXers via GA 
+      iii. On the profile page, we are able to track click on "view more details" to view more information (we don't have a baseline for the before) 
+         i. Need more information from UXers via GA 
+         ii. We want fewer people
+      iv. Click the link in the caution flag to external link to learn even more (we don't have a baseline for the before) 
+         i. Need more information from UXers via GA 
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
+   a. Qualitative input from Usability Testing
+   b. Des to double check to see if UAT feedback was qualitative
+1. Which of the assumptions you listed in your product outline were/were not validated?
+   a. We didn't have a product outline due to when we jumped into the VSP process
 1. How might your product evolve now or in the future based on these results?
+   a. Make it easier for EDU to make updates to Caution Flag content so that they can continue to provide more specific warnings and notifications to the users. 
