@@ -22,7 +22,7 @@ After your VSP orientation, please check out these resources:
 
 4. [Google Analytics Walkthrough Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
 
-#### Measuring Content, User Interactions, and  Key Veteran Transactions
+#### Measuring Content, User Interactions, and  Key Veteran Transactions in Google Tag Manager
 
 1. [Rules of Engagement - Analytics Implementation Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md)
 
@@ -32,11 +32,11 @@ After your VSP orientation, please check out these resources:
 
 4. [Build Process - Tracking Common User Interactions for Outbound Links, Downloads, and Login](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-common-user-actions.md)
 
-5. [Build Process - Data Dictionary for Tracking Events in Multi-Step Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/data-dictionary-form-events.md)
+5. [Build Process - Data Dictionary for Tracking Events in Multi-Step Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-form-events.md)
 
 #### Tracking Success in Google Analytics
 
-1. [Tracking Success using Google Analytics Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-success-in-analytics.md)
+1. [Measuring Goals in Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/measuring-goals-in-google-analytics.md)
 
 2. [Importance of UTM Parameters - Video](https://drive.google.com/file/d/1jxoLHX91LW4kADVZCSOeH2c_5w6p46cn/view?usp=sharing)
 
