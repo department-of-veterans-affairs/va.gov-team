@@ -7,7 +7,11 @@ Accessibility issues may be particularly challenging to document. Communicating 
 1. Use the [508 Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=).
 1. **Labels:** Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
 1. If this issue is being opened by a VFS team, please add the `triage-incident` and `product support` labels.
-1. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.
+1. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.<br/><br/>
+We recommend using [ZenHub](https://app.zenhub.com/login) for linking issue tickets with your pull requests.
+    - Install the [ZenHub for GitHub extension](https://help.zenhub.com/support/solutions/articles/43000507578-installing-the-zenhub-extension-for-cloud) in Firefox or Chrome
+    - Sign into ZenHub using your GitHub credentials
+    - [Link your pull request to an issue ticket](https://www.zenhub.com/blog/github-issue-pull-request-linking/) from the GitHub pull request screen
 1. Text inside `<-- comment -->` blocks will not appear in your issue ticket. The comments offer guidance on what information you should provide for each section.
 1. **Severity:** Review the [Accessibility Defect Severity Rubric[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#accessibility-defect-severity-rubric). Create an h1 and with a link to the 508 defect severity level (included in the issue template). 
 
@@ -83,7 +87,7 @@ Include the details for where the issue is located.
 * Operating System: All
 * Browser: Internet Explorer 11
 * Screenreading device: JAWS
-* Server destination: production
+* Server destination: URL (web address or addresses) where you spotted the issue. This could be in staging or production.
 
 
 ## Steps to Recreate
