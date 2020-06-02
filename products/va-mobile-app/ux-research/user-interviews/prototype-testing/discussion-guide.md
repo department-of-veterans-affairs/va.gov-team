@@ -63,14 +63,14 @@ Please navigate to the Profile section of the app. Where would you like to start
 ### Flow 1: View VA Profile
 - Please take a minute to review this screen. What do you think?
 
-### Flow 2: View Documents
+### Flow 2: View documents
 - Please take a minute to review this screen. What do you think?
 
 ### Flow 3: Notifications
 - Please take a minute to review this screen. What do you think?
 - Would you be interested in informational notifications about VA, like COVID-19 response?
 
-## [Optional] Facility Locator (2 minutes)
+## [Optional] Facility locator (2 minutes)
 - Please take a minute to review this screen. What do you think?
 - Would a Facility Locator in a VA mobile app be useful to you? 
   - Why or why not?
@@ -84,33 +84,49 @@ Now I’d like to do an exercise in prioritization based on what we’ve talked 
 - What is the #3 most useful to you feature you saw today?
   - Why? 
 
-## Wrap up
+## Prioritization wrap up
 - Would you download an app that had everything you saw here today?
   - Would you download an app that had just your top 3 features?
 - In 1 sentence, can you describe how you feel about what you’ve seen today?
-  - Pretend you are talking to a friend who is also a Veteran. What would you say about this app? 
+  - Imagine you are talking to a friend who is also a Veteran. What would you say about this app? 
+- How would you expect to learn about a VA app like this? 
+- How does this compare to how you interact with VA online today?
+  - [If user voices it compares positively] Can you describe why this is valuable to you?
 
-## Adding more (8 minutes)
-Now I’m going to share my screen with you so you get a break from navigating. What I’m sharing here is the home screen to the app that you saw earlier and what you see to the left of that is more ideas for features that could be included in an app. I want to do a quick exercise with you to understand what else you would add if you could add more. On the right is the home screen, and on the left are more features I can drag over and add to your homescreen (demonstrate dragging and building). 
+## Adding more: build your own app home screen (10 minutes)
+Now I’m going to share my screen with you so you get a break from navigating. What I’m sharing here is the home screen to the app that you saw earlier and what you see to the right of that is more ideas for features that could be included in an app. 
+
+I want to do a quick exercise with you to understand what else you would add if you could add more to a VA mobile app. I can drag any feature you'd like to add into the app. Does that make sense?
 
 ### Claims
-- Starting with Claims, what would you add first? If nothing here looks interesting to you, that's ok - let me know and we'll move on. 
+- Starting with Claims, what of the features would you add to a VA mobile app first?
   - Why?
+  - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
   - Why?
 
 ### Health
-- Moving on to Health, what would you add first? If nothing here looks interesting to you, that's ok - let me know and we'll move on. 
+- Moving on to Health, what of the features would you add to a VA mobile app first?
   - Why?
+  - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
   - Why?
   
-### Other
-- Out of what is shown here, what would you add first? If nothing here looks interesting to you, that's ok - let me know and we'll move on. 
+### My VA
+- Out of what is shown here, what of the features would you add to a VA mobile app first?
   - Why?
+  - (If they feel stuck) If nothing here looks interesting to you, that's ok too - let me know and we'll move on. Or, is there something else that's not shown here you'd like to add? We can do that too! 
 - What would you add second?
   - Why?
 
+### Exercise Wrap Up 
+Let's look at the whole thing you've built. 
+  - Let's imagine again you are talking to a friend who is also a Veteran about the app you've built. What would you say about it?
+  - How does this compare to how you interact with VA online today?
+  - [If user voices it compares positively] Can you describe why this is valuable to you?
+
+
 ## Wrap Up (3 minutes)
 That’s all the questions I have for you today. Do you have any last questions for me?
+
 We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on VA digital tools and make sure it really works for Veterans like you. Enjoy the rest of your day!
