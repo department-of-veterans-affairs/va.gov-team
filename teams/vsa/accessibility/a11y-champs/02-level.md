@@ -6,7 +6,7 @@ Time: approximately 1 - 3 hours
     **How this helps:** This document walks you through how a typical accessibility audit works.
 
 1. Run an audit against your product with one of the automated tools: axe, axe-coconut, or WAVE.  <br/>
-    **How this helps:** This will introduce you to a step in the testing process, and also the types of issues your product might have.
+    **How this helps:** This will introduce you to a step in the testing process, and the types of issues your product might have.
 
     1. Watch a [video tutorial on running an audit with axe](https://www.youtube.com/watch?v=FW1giWW5M9I). 
     1. Watch a [video tutorial on running an audit with WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0).
