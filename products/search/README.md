@@ -3,7 +3,7 @@
 |Projects| Outline | Folder |
 |----|----|----|
 | Onsite Search | [Onsite Search outline ]()|[On-Site Search folder]()|
-| Offsite Search|[Offsite Search Outline]()|[Off-site Search folder]()|
+| Offsite Search|[Off-site Search Outline]()|[Off-site Search folder]()|
 
 ## The Problem
 
