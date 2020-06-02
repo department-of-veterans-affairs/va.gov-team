@@ -16,3 +16,5 @@ Time: approximately 1 - 3 hours
 
     * If you need help writing a ticket, we have a [issue ticket best practices guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/writing-508-issue-tickets.md). 
     * There’s also a [library of the most common accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues). It’s okay to link to this documentation when creating your own tickets.
+
+[Go to Level 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/03-level.md)
