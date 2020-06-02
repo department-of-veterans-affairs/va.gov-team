@@ -5,14 +5,15 @@
 The BE Tools team has decided to move forward with trialling the use of code owners on the code bases that we are responsible for maintaining in order to reduce the burden on VFS PR reviews and allow VFS teams have more ownership of the code they write.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+BE Tools (and other "Operation" teams working on the platform) spends a significant amount of time reviewing PRs and assisting VFS teams during the development of their apps.  The line between the application team and platform team responsibility has been blurred because of the close support and feedback that has been provided over the past year.  As more and more VFS are onboarded to build on the platform, this model will not be sustainable and need to pivot to allow VFS teams to develop on the platform without the oversight of the platform teams as much as possible.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we empower VFS teams to develop an application with as minimal support from the platform teams, and reduce the burden on the platform teams to inject themselves so that we can scale the number of VFS teams successfully.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- VFS Teams can merge a PR for specific folders/files in vets-api without the need for a review from any platform team member, they would only need a review from other team members on their team.
+- Platform teams are able to segment which files/folders in vets-api do not need a review from the platform team.
+
 
 ## Undesired User Outcomes
 
