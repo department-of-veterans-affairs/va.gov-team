@@ -73,7 +73,15 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 
 ###### Accessibility Checking
 
+The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81), which only happens during the full `vets-website` build. 
 
+Before accessibility checks can be run, the sitemap is generated via the [`create-sitemap` Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/create-sitemaps.js). Nightwatch iterates over all the paths found in the sitemap, and runs the [aXe accessibility checker](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to look for violations. 
+
+When violations are found, the build breaks and violations must be reported manually.
+
+The accessibility checks are skipped during a content-only deploy. 
+
+Additionally, we have the preview server which shows content editors any accessibility violations, but they must deliberately go to the server from a link in Drupal to see this.
 
 #### Pain points
 
