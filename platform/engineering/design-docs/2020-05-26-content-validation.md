@@ -46,20 +46,32 @@ This design document is intended for front end and DevOps engineers on the Veter
 
 ### Background
 
-The `vets-website` repo currently contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and that work is currently in progress.
+The `vets-website` repo currently contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages. 
 
-Right now, content validation consists of broken link checking and accessibility checking.
+1. [Run Webpack](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L55)
+2. [Run the content build](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L61)
 
-##### Broken Link Checking
+Previously, Webpack was entangled in the content build, but no longer. Brooks is currently working on moving the content build into a [`content-build`](https://github.com/department-of-veterans-affairs/content-build/) repo to separate it from `vets-website`.
 
-The `check-broken-link` plugin does the following:
+##### Content Sources
+
+Static content currently comes from two sources:
+
+1. The Drupal CMS
+2. The [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/blob/master/pages/404.md)
+
+This design doc will focus on validating content from the Drupal CMS. 
+
+###### Broken Link Checking
+
+The [`check-broken-link` middleware](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/check-broken-links/index.js) is a Metalsmith plugin that happens near the end of the Metalsmith static content build pipeline. It does the following:
 
 1. Loop through all of the HTML files in the Metalsmith pipeline
 2. Extract all of the broken `href`/`src` values using the `getBrokenLinks` helper
 3. Formats the result into useful console output
 4. Breaks the build on production, and logs the output on lower environments
 
-##### Accessibility Checking
+###### Accessibility Checking
 
 
 
@@ -86,8 +98,6 @@ Both the application and content builds need content validation.
 ## Specifics
 
 ### Detailed Design
-
-COMING SOON
 
 ### Code Location
 
