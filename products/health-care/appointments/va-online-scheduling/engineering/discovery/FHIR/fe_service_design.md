@@ -23,14 +23,14 @@ This organization may change depending on our understanding of the flow.
 
 ## Services
 
-### [Organization](services/organization.md)
+### [Organization](fe_services/organization.md)
 
-### [Location](services/location.md)
+### [Location](fe_services/location.md)
 
 ### HealthcareService
 
 ### Schedule
 
-### [Slot](services/slot.md)
+### [Slot](fe_services/slot.md)
 
-### [Appointment](services/appointment.md)
+### [Appointment](fe_services/appointment.md)
