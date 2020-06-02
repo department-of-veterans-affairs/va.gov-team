@@ -28,7 +28,7 @@ Thank you for sharing that. And thank you again for taking time to talk to me to
 Alright, wonderful. Thank you for sharing that. We can go ahead and get started looking at the prototype. I’m going to ask you to go through some flows so we can talk about them, but please feel free to explore the app freely as we’re talking! Again, it’s a prototype, so not everything “works”, but areas that are clickable will flash blue when you click. Please click Start to begin.
 
 ## Claims (5 minutes)
-### Flow 1: Get a notification about a claim needing documents & upload documents
+### Flow 1: Get a notification about a claim & navigate to claim
 Please take a minute to review the screen for this claim. What do you think?
 - Do you think you would find it useful to…
   - Check the status of a claim?
@@ -41,15 +41,15 @@ Please take a minute to review the screen for this claim. What do you think?
 ## Healthcare (5 minutes)
 Please navigate to the Health section of the app. Great, now please click into either of the features you see here, whichever one you’d like to start with.  
 
-### Flow 1: Refill Rx through the app
-- What do you think about what you see here? 
+### Flow 1: Rx Refill
+- Please take a minute to review, feel free to click around. What do you think about what you see here? 
 - Would Rx Refill in a VA mobile app be useful to you? 
   - Why or why not?
 
 I’d like to take a look at the other Health feature now.
 
-### Flow 2: Go to Secure Messages, and view a message within the app
-- Please take a minute to review this screen. What do you think? 
+### Flow 2: Secure Messages
+- Please take a minute to review, feel free to click around. What do you think? 
 - Would Secure Messaging in a VA mobile app be useful to you? 
   - Why or why not?
 
@@ -64,7 +64,7 @@ Please navigate to the Profile section of the app. Where would you like to start
 ### Flow 1: View VA Profile
 - Please take a minute to review this screen. What do you think?
 
-### Flow 2: View Documents to view saved files
+### Flow 2: View Documents
 - Please take a minute to review this screen. What do you think?
 
 ### Flow 3: Notifications
