@@ -143,6 +143,3 @@ We could stop breaking the `vets-website` build due to invalid content. That wou
 | Date         | Revisions Made | Author        |
 | ------------ | -------------- | ------------- |
 | May 26, 2020 | Initial draft  | Bill Fienberg |
-| June 1, 2020 | Add Steve Wirt as required reviewer  | Bill Fienberg |
-
-**Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], Steve Wirt []
