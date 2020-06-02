@@ -19,3 +19,5 @@ Time: approximately 1 - 3 hours
     - [ ] Ensure your application has a predictable tabbing order. In left-right languages like English, this is assumed to be left to right, top to bottom. In multi-column layouts, use your best judgment. Interfaces that include a left navigation bar would likely allow users to focus each link or button in the left nav, then move focus to the main content area.
     - [ ] Offer ways to skip large groups of links like a [skip to content link](https://webaim.org/techniques/skipnav/).
     - [ ] Review the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard navigation patterns.
+
+[Go to Level 4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/04-level.md)
