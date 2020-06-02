@@ -36,16 +36,25 @@ When you think aloud, it helps us understand what works well and where we might 
 
 I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
-## First Task: Determine Eligibility - 10 minutes
+## First Task: Navigate to STEM form - 5 minutes
 
-You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Based on your current benefits status and field of study, how would you use this page to decide if you could apply for the Rogers STEM scholarship?
+You've heard about a scholarship that the VA offers called the Rogers STEM scholarship and are curious if you could receive this scholarship while going to school. Your initial search took you to the VA.gov landing page.  How would you go about finding the Rogers STEM application form from this page?
+
+Things to watch for:
+- What areas of the page does the participant explore?
+- What does the participant click on?
+- If searching, what terminology does the participant use?
+
+## Second Task: Determine Eligibility - 10 minutes
+
+You've found the application form. Based on your current benefits status and field of study, how would you use this page to decide if you could apply for the Rogers STEM scholarship?
 
 Things to watch for:
 - Does the user look at the subway map?
 - Where does the user look to determine eligibility?
 - Does the user read to determine eligibility or just start the application?
 
-**1A - If user makes a decision without starting the application**
+**2A - If user makes a decision without starting the application**
 - What do you think the requirements are to be eligible for the STEM scholarship?
   - STEM program of study / credit hours
   - 6 months or less of benefit left
@@ -57,9 +66,9 @@ Things to watch for:
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 
-**1B - If user starts application, allow user to perform Second Task without prompt**
+**2B - If user starts application, allow user to perform Third Task without prompt**
 
-## TASK 2A: Apply for STEM - 15 minutes
+## TASK 3A: Apply for STEM - 15 minutes
 
 Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
 
@@ -73,7 +82,7 @@ Let's say you're getting your undergraduate degree in **Chemistry** from **Chica
   - Does the user click the Additional Info component "What if I don't have a bank account?"?
   - If ineligible, how does the user react to ineligibility alert?
   
-  **If user started Second Task without a prompt:**
+  **If user started Third Task without a prompt:**
 - What do you think the requirements are to be eligible for the STEM scholarship?
   - STEM program of study / credit hours
   - 6 months or less of benefit left
@@ -91,7 +100,7 @@ Let's say you're getting your undergraduate degree in **Chemistry** from **Chica
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
   
-## TASK 2B: Triggering the Alert - 15 minutes
+## TASK 3B: Triggering the Alert - 15 minutes
 
 Let's say you're getting your undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
 
