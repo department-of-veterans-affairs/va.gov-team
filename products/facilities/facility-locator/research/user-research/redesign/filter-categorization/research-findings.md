@@ -86,6 +86,8 @@ Accessibility
 > This was difficult to navigate, I had to go at it on 3 separate occasions in order to complete and I am no stranger to a computer!
 
 ## Resourses
+- [Research plan]()
+- [Research recruitment email]()
 - [Raw study data]()
 - [Raw participant data]()
 - [Standardization grid]()
