@@ -136,14 +136,15 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
 5. Create your final research results. This should be a Github page (markdown file). This should be done within 6 business days after your last session. 
    * You also may want to create a presentation deck if you are going to show your results to stakeholders or at a demo.
    * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1). 
-   * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
+   * Preferred format is to have your results and/or presentation list the “Top 10 findings” from the study, then dig into those findings in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
+      * These top findings should stand on their own. So if a stakeholder *only* reads your list of top findings, and no details, they should think "oh, this research was useful!" Not "Oh these are general statements that I could have just guessed myself."
    * Examples can be found here:  
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md
       * Results in a deck [starting on slide 18 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
-   * Keep “insights” separate from recommendations. An insight might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
+   * Keep findings separate from recommendations. A finding might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
 6. Share insights with your team, and brainstorm recommendations. Then add a “recommendations” section/s to your Github page and final presentation deck. Note, if you’d like to add recommendations prior to sharing with your team, that’s fine too but make sure to get their input and ideas as a part of the process.
    * E.g. a recommendation for the above insight might be “Move the button higher on the page” or “Make the button more prominent” or “Remove the button and make it a single page.”
 7. Add your research study to the [history of past research page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
