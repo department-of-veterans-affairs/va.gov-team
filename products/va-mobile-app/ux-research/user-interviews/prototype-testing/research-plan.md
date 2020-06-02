@@ -84,7 +84,9 @@ We will use the Perigean zoom account. We will send a link to a Figma prototype 
     - Disability benefits
     - Health care benefits
   - No assistive device users (low-fi prototype does not support assistive technology)
-  - 70% should be My HealtheVet users
+  - All should have experience with VA Healthcare
+    - A majority should be My HealtheVet users 
+  - All should have experience filing a claim with VA
   
 ## What is your recruitment strategy?
 1. Perigean will recruit
