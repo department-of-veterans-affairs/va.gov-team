@@ -3,8 +3,8 @@
 |Projects| Outline | Folder |
 |----|----|----|
 | Search 2.0 |[Search 2.0 outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)|[Search 2.0 folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)|
-| Onsite Search | [Onsite Search outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)|[Logged-in homepage folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign)|
-| Offsite Search|[Offsite Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/navigation-ia/README.md)|[Logged-in navigation folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/navigation-ia)|
+| Onsite Search | [Onsite Search outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md)|[On-Site Search folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign)|
+| Offsite Search|[Offsite Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/navigation-ia/README.md)|[Off-site Search folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/navigation-ia)|
 
 ## The Problem
 
@@ -20,7 +20,7 @@ Consistently deliver a satisfying, reliable, and secure online experience.
 
 **Key discovery documents**
 
-- [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/summary-strategy.md)
+- [Search 2.0 Discovery: Summary and Strategy]()
 
 ### User Goals
 
