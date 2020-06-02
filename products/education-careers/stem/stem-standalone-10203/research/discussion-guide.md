@@ -54,7 +54,7 @@ Things to watch for:
 - Where does the user look to determine eligibility?
 - Does the user read to determine eligibility or just start the application?
 
-**2A - If user makes a decision without starting the application**
+**Upon completion of task**
 - What do you think the requirements are to be eligible for the STEM scholarship?
   - STEM program of study / credit hours
   - 6 months or less of benefit left
@@ -63,10 +63,10 @@ Things to watch for:
 - Would you expect to be eligible for this scholarship?
 - If you were unsure if your degree qualified for STEM, what would you do?
 - How do you know how much entitlement you have remaining (e.g. something they track, how often do they check, etc.)?
+- If you clicked "Check remaining benefits", what would you expect to happen (e.g. modal, new page, etc.)?
 - In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
-
-**2B - If user starts application, allow user to perform Third Task without prompt**
+Note: User may continue to Task 3 without a prompt
 
 ## TASK 3A: Apply for STEM - 15 minutes
 
@@ -81,16 +81,6 @@ Let's say you're getting your undergraduate degree in **Chemistry** from **Chica
   - Does the user try to skip any questions?
   - Does the user click the Additional Info component "What if I don't have a bank account?"?
   - If ineligible, how does the user react to ineligibility alert?
-  
-  **If user started Third Task without a prompt:**
-- What do you think the requirements are to be eligible for the STEM scholarship?
-  - STEM program of study / credit hours
-  - 6 months or less of benefit left
-  - Using Post 9/11 benefits
-- What did you think of how the requirements were communicated?
-- Would you expect to be eligible for this scholarship?
-- In terms of determining the requirements for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  
   
   **Upon completion of task:**
   -	What parts of the form would be the easiest for you to complete? 
@@ -116,6 +106,7 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
   - Does the user try to skip any questions?
   - Does the user click the Additional Info component "What if I don't have a bank account?"?
   - If ineligible, how does the user react to ineligibility alert?
+  - How do users exit the application if they are ineligible and don't want to continue applying?
   
   
   **Upon completion of task:**
@@ -123,11 +114,10 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
   - Did any of the questions seem unnecessary?  
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on how the info you provide here would or wouldn’t impact other payments you receive from VA?
-  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  
-  **Upon completion of the task:**
   - What did you think of the alert?
   - What would you do after you saw this message?
+  - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+ 
 
 
 ## Post-Task Interview - 10 minutes
