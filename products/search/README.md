@@ -7,7 +7,7 @@
 
 ## The Problem
 
-Since the release of the modernized VA.gov in 2018, there has been no dedicated focus on optimizing VA.gov's search experience -- both off-site (organic) and on-site - to the benefit of our users.  And yet, search is a primary utility/tool for VA.gov's users-- e.g., more than 40% of daily site visitors are referred by search engines and more than 10% of daily visitors use site search.  
+Since the release of the modernized VA.gov in 2018, there has been no dedicated focus to optimize VA.gov's search experience -- both off-site (organic) and on-site - to the benefit of our users.  And yet, search is a primary utility/tool for VA.gov's users-- e.g., more than 40% of daily site visitors are referred by search engines and more than 10% of daily visitors use site search.  
 
 Clearly, providing an authoritative, reliable and modern off-site and on-site experience for Veterans fully aligns with our North Star goals of:
 
