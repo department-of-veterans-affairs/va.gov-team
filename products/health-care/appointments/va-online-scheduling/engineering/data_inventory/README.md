@@ -1,4 +1,4 @@
-# VAOS data flow
+# VAOS data flow and inventory
 
 These files attempt to inventory and describe all the services and data used to view and create appointments in VAOS.
 
