@@ -53,7 +53,8 @@ This checklist is for you to gut check that you've taken all of the steps necess
 - [ ] There's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/34add7c7b3d558158ccf3f599e79c2380076481c/platform/product-management/product-outline-template.md)
 - [ ] It has been incorporated into orientation materials
 
-### ...marketable?
+### ... marketable?
+- [ ] Rollout conversation with DEPO has happened and expectations are set
 - [ ] External comms are ready to go in the Newsletter, Documention homepage, etc (collaborate w/Service Design)
 - [ ] You've done a [Go/No Go meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 - [ ] Training, outreach, or other adoption-oriented activities are planned
