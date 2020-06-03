@@ -1,5 +1,5 @@
 # Dependency Claims (21-686c) Contact Center Walkthrough Video Transcript
-[link to video](#)
+[link to video](#uploading via LFS)   
 `eBenefits | June 2020`
 
 Today we're going to be going through the form 21 686 C or the dependency claims application a common action veterans take is making changes to the dependence that are connected to their benefits and awards using this form the veteran can then inform the VA about additional depends that can take advantage of their benefits and remove dependencies as needed for various reasons. 
