@@ -10,27 +10,31 @@
 
 The VA.gov Forms System is a library for developers to create forms on VA.gov using a configuration-based approach. The Forms System has a documentation site ([here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/)) that provides guidance and instructions for how to use it. However, the documentation is incomplete in some places, isn't totally clear in others, which leaves engineers on VFS teams with unanswered questions. VSP has heard feedback that this documentation is the most useful when a team first sets up and gets started on a project, but its usefulness deteriorates as the engineers develop their teams' unique forms. These are things we know, that we will _not_ be validating with this research.
 
-At the same time, the Front-End Tools and Product Support teams are working on improving the Forms Library itself. One of the improvements includes a new type of supplemental documentation affectionately known as The Cookbook, where developers are provided a number of _recipes_ that show how building blocks of code can be assembled in different ways based on what they need to do. This research will validate the effectiveness of this new documentation approach.
+At the same time, the Front-End Tools and Product Support teams are working on improving the Forms Library itself. One of the improvements includes a new type of supplemental documentation affectionately known as The Cookbook, where developers are provided a number of _recipes_ that show how building blocks of code can be assembled in different ways based on what they need to do. This research will validate the effectiveness of this new documentation approach, as well as the existing and proposed contents of the new documentatiion 
 
 A few assumptions we are making that we believe are already validated, or are low-risk enough to _not_ spend this research validating:
-- In general, there are usability problems with documentation provided by VSP. 
-- It will not be disruptive or confusing to organize all technical documentation related to building forms into a group
+- In general, there are usability problems with forms library documentation provided by VSP. 
+- It aligns with a VFS user's mental model to organize all technical documentation related to building forms into a group
 - It is appropriate to separate this technical documentation from other practices' forms-related documentation
-- Engineers are aware of the forms system documentation and are able to find it
+- Engineers are aware of the forms system documentation and are able to find the general topic
+
+Note that this product is a sub-product of VSP Content & IA's documentation site ([product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md)).
 
 ### 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
+- What parts or characteristics of existing forms documentation are effective and helpful?
 - How effective is The Cookbook for helping developers make decisions? 
    - Is the concept of The Cookbook transparent and understandable?
    - Is the recipe format clear and actionable?
    - Are the examples relevant to the developers' work?
    - What questions do developers have after reading these recipes?
    - What types of recipes are missing?
-   - What other resources do developers use to supplement the recipes if they still have questions?
+   - What other resources do developers use to supplement the recipes if they still have questions? 
+   - What other resources should VSP provide to supplement The Cookbook?
 - Meta: Does this research method work effectively for testing the usability of documentation?
 
 ### 3. Hypothesis: What is your hypothesis for this research? 	
 
-The recipe structure will be an effective way to help developers make decisions about their forms.
+- We hypothesize that The Cookbook structure for forms library documentation will provide a resource to VFS teams that is robust, easy to understand, and efficient to use. 
 
 ## Method	
 
@@ -67,7 +71,7 @@ The recipe structure will be an effective way to help developers make decisions 
 ## When? 	
 
 1.	Timeline: What dates do you plan to do research? 	(Schedule your research at least 1 week in advance if possible to give your participants time to organize their calendars) 	
-   1.	We will conduct this research during VSP Sprint 27, or between May 28-June 9.
+   1.	We will conduct this research during VSP Sprints 27 and 28, between approximately June 4-12, 2020.
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
    1.	It's ready!
 3.	Length of Sessions: How long do you estimate each session will be? (This helps with scheduling: e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
@@ -78,7 +82,7 @@ The recipe structure will be an effective way to help developers make decisions 
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 
-   1.	We will pilot the research with a front-end developer from a VFS team. Date, time, and person TBD and this document will be updated to reflect that once we have confirmation.	
+   1.	We will pilot the research with a front-end developer from a VFS team. The pilot will take place with participant RG on 6/4 at 1 pm.
 
 ## Team Roles	
 
