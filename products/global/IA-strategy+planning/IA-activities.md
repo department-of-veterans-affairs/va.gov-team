@@ -20,7 +20,9 @@ We have not had the resources to focus on how things are organized **across the 
   * What are other considerations? 
 
 
-### We’re setting up space for sharing and conversation about IA.
+### We’re setting up space for discussion and sharing about IA.
 
-* For potential IA projects, see the [IA planning roadmap].(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf)
+* **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf). (Download it for easier reading.)
+* **Slack:** We'll use the **#ia-forum** channel in Slack.
+* **Meetings:** Every 2 weeks we'll share what we're doing and learning, get feedback, and discuss next steps.
 
