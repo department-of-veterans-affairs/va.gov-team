@@ -15,7 +15,7 @@ Last Updated February 26, 2020
 |Matthew Self| DSVA Lead| 
 |Leah Keeler | Product Manager|
 |Cameron Testerman | BE Engineer|
-|Amen Ra | FE Engineer|
+|Brad Conley | FE Engineer|
 |Mahariel Rosario | FE Engineer|
 |Riley Orr | Designer|
 |Becca Walsh | Designer|
