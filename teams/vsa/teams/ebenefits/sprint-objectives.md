@@ -6,8 +6,27 @@
 - Communicate and embrace transparency
 - Stay organized and help your future self and team
 - Measure outcomes where possible
-- Remember the Contact Center
+- Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 23 (6/3 - 6/16)
+```diff
+- TBD
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE: Finalize end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
+- BE: Finalize PDF creation, implement and further test eFolder upload via VBMS, work with BGS SMEs on various issues
+- Design and Research: Conduct usability sessions, if possible
+
+## 2. POA: Design Iteration
+- Design: Iterate on product designs (view, search, appoint) and schedule further Collab Cycle activities as needed
+
+## 3. VRE (CH31) and PCPG (CH36): Design and Dev Iterations
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+- FE: Scaffold out CH31/CH36 features using available prototypes
+
+## 4. View My Payments: Initial Dev Activities
+- FE: Make adjustments to table per Design feedback
+
 ## Sprint 22 (5/20 - 6/2)
 ```diff
 - 54 points over 19 issues
