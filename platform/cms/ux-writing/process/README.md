@@ -2,7 +2,11 @@
 
 ## When to involve UX writing
 
-0. Are there words visible to CMS users in the development of a new feature or enhancement? If yes...
+* Are there words visible to CMS users in the development of a new feature or enhancement? If yes, follow the process below.
+* For comprehensive help text work, [follow the updating help text process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/ux-writing/process/updating-help-text.md)
+
+
+## Steps
 
 1. **Add the UX writing label as early as possible in planning**
 - Team members add the dark red colored UX writing label to GitHub issues as a part of any of the following:
