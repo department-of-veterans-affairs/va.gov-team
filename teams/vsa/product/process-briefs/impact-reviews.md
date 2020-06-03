@@ -34,8 +34,8 @@ Every initiative—a new feature, a product launch, technical improvements—wra
     
  
     
- ## Results
- * Phase 1 - Launch our first Impact Review on 5/1 
+ ## Narrative
+ * Launch our first Impact Review on 5/1 
      * Presenters
        - Facilities (Urgent Care MVP), Authenticated Experience (Direct Deposit, Address Validation), eBenefits (Rated Disabilities) teams
      * What we hope to learn:
@@ -51,4 +51,5 @@ Every initiative—a new feature, a product launch, technical improvements—wra
          - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
          - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
 
- 
+ * June Impact Review
+    * tbupdated
