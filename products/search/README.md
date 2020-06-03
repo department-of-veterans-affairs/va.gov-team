@@ -7,7 +7,7 @@
 
 ## The Problem
 
-Since the release of the modernized VA.gov in 2018, there has been no dedicated focus to optimize VA.gov's search experience -- both off-site (organic) and on-site -- to the benefit of our unique users.  And yet, search is a primary utility/tool for VA.gov's users-- e.g., more than 40% of daily site visitors are referred by search engines and more than 10% of daily visitors use site search.  
+Since the release of the modernized VA.gov in November 2018, there has been no dedicated focus to optimize VA.gov's search experience -- both off-site (organic) and on-site -- to the benefit of our unique users.  And yet, search is a primary utility/tool for the modernized VA.gov's users-- e.g., more than 40% of daily site visitors (*validate) are referred by search engines and more than 10% of daily visitors (*validate) use site search.  
 
 Clearly, providing an authoritative, reliable and modern off-site and on-site experience for Veterans fully aligns with our North Star goals of:
 
@@ -16,13 +16,19 @@ Clearly, providing an authoritative, reliable and modern off-site and on-site ex
 - Consistently deliver a satisfying, reliable, and secure online experience.
 - Be the single source of truth of Veterans-related health and benefits content for service-members.
 
-### Discovery
+### Research & Discovery
 
-To understand how effectively our off-site and on-site search offerings address the needs of our audience, we are compiling data from these primary data sources:
+To understand how effectively our off-site and on-site search offerings address the needs of our audience, we are compiling up-front data from these primary data sources:
 
-- Search.gov: 
-- SEMRush:
-- Google Search Console & Bing Web Developers Tools:
+Onsite:
+- Search.gov (note: VA.gov's original API-based implementation of the Search.gov utility did not include click-tracking; a javascript code snippet is in development by the Search.gov product team with expected delivery by July 2020.)
+- Google Analytics
+
+Offsite:
+- SEMRush
+- Google Search Console & Bing Web Developers Tools
+
+In addition, qualitative research -- such as interviews and usability tests -- will likely be necessary to provide a more in-depth understanding of the individual users’ or user group’s experiences, motivations and intent.  
 
 
 **Key discovery documents**
