@@ -16,6 +16,7 @@
 - [Launch Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/launch-checklist.md)
 - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/design)
+- [IA Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md)
 
 ## Team
 
