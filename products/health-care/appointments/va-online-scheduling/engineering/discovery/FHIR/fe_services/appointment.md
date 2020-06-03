@@ -80,3 +80,4 @@ Returns the lcoation of a video appointment
 
 <a name="feature-flag"></a>
 ## Feature Flag
+If `vaOnlineSchedulingVspAppointmentNew` is true, this service will use the new VSP FHIR endpoints rather than the legacy VAR endpoints.
