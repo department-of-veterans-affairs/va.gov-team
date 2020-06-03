@@ -233,20 +233,7 @@ This also opens us up to answer the question  — how are we recommending next s
 
 ### Other projects: An authenticated navigation and a notification center
 
-One thing was clear from both stakeholder interviews and user research – the logged-in homepage does not exist in a vacuum and it will work most successfully if it is supported by a larger authenticated experience, specifically a task-based navigation and notification center. With the proper resources, some of this could happen alongside the logged-in homepage work. These efforts would include:
-
-#### Logged-in navigation
-
--	Updating the logged-in navigation so it is more task-focused.
--	Consideration for how to handle “explore and apply” flows and the global, unauthenticated navigation.
--	An iterative approach that can happen incrementally over time.
--	Close work with the IA team and the public websites team. 
-
-#### Notification center
-
--	Adding a notification center that can accommodate notifications that don’t appear on the logged-in homepage.
--	Consideration for how this will work as part of a system that includes email and text notifications.
--	An iterative approach that can happen incrementally over time.
+One thing was clear from both stakeholder interviews and user research – the logged-in homepage does not exist in a vacuum and it will work most successfully if it is supported by a larger authenticated experience, specifically a task-based navigation and notification center. With the proper resources, some of this could happen alongside the logged-in homepage work. These efforts would include an iterative approach and close collaboration with other teams that should be involved in this work (public websites, information architecture, platform).
 
 ## Moving forward: Process
 
