@@ -146,7 +146,7 @@ The content validation script and scheduled job config will live in the [new `co
 
 ### Logging
 
-Currently, invalid content is logged during staging deploys.
+Currently, invalid content is logged during staging deploys. And failed builds trigger generic [Slack notifications](https://dsva.slack.com/archives/C37M86Y8G/p1591099447374800).
 
 ### Debugging
 
@@ -167,11 +167,18 @@ There are no new privacy concerns with a separated build process.
 
 ### Open Questions and Risks
 
-COMING SOON
+#### Risks
+
+- Neither the current content validation nor the proposed content validation will **prevent** invalid content from making it to production. But this proposal would prevent unrelated teams from being blocked by invalid content.
+
+#### Questions
 
 ### Work Estimates
 
-COMING SOON
+The following estimates vary greatly depending on who's doing the work.
+
+1. Finish extracting the `content-build` repo out of the `vets-website` repo - ?
+2. Write and test a scheduled job to run the content build - <1 day
 
 ### Alternatives
 
