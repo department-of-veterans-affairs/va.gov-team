@@ -8,7 +8,6 @@ We have not had the resources to focus on how things are organized **across the 
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 
 For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from DEPO (leads, product owners, content strategists, and designers).
-
 <br></br>
 ### First we’re figuring out where to begin IA work.
 
@@ -23,15 +22,13 @@ For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 
-
-<br>
+<br></br>
 ### And we’re setting up space for discussion and sharing about IA.
 
 * **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf). (Download it for easier reading.)
 * **Slack:** Members can post ideas, input, and examples to the **#ia-forum** channel.
 * **Meetings:** Join us every 2 weeks to hear what we're doing and learning, give feedback, and discuss next steps.
-
-<br>
+<br></br>
 ### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
 
 * **IA role and responsibilities:** The IA workshop kicks off July 20. As part of it, we'd like to discuss:
