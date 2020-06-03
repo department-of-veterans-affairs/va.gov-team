@@ -3,21 +3,11 @@
 ### The problem we're trying to solve:
 We have not had the resources to focus on how things are organized **across the whole veteran experience.** Information architecture (IA), content, and design need to work together. Any time a veteran interacts with the VA, it should be seamless.
 
-### Information architects:
-* DEPO: [Meg Peters](@mpeterz)
-* Platform: Mikki Northius, IA - Slack @Mikki
+#### The information architects working on this:
+* DEPO: [Meg Peters](https://github.com/mpeterz)
+* Platform: [Mikki Northius](https://github.com/mnorthuis)
 
-The #ia-forum helps with IA strategy and planning:
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
-  * Xxxx
+We work with the **#ia-forum** on IA strategy and planning.
 
 ### We’re figuring out where to begin IA work.
 
