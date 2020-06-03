@@ -24,6 +24,8 @@ Of the participants, these are the high level numbers:
 
 **Participants had dificulty classifying some services** and created new categories for them or listed them as "other". This could be due to the name of the service being ambiguous. For example, Infectious Disease.
 
+**Participants sorted cards by services that are classified under separate facility types in our current taxonomy.**
+
 ## Detailed Findings
 The participants created a total of 277 unique categories. Below is a summarized version, created by grouping like categories together:
 
