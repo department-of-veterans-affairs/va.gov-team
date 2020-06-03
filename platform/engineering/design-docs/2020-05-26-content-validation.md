@@ -1,4 +1,4 @@
-# Content Validation
+# Validating CMS content
 
 **Author(s):** Bill Fienberg
 **Last Updated:** May 26 2020  
@@ -7,17 +7,20 @@
 
 ## Table of Contents
 
-- [Content Validation](#content-validation)
+- [Validating CMS content](#validating-cms-content)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
     - [Objective](#objective)
     - [Background](#background)
-      - [Broken Link Checking](#broken-link-checking)
-      - [Accessibility Checking](#accessibility-checking)
+      - [Content Sources](#content-sources)
+      - [Amazon S3](#amazon-s3)
+        - [Broken Link Checking](#broken-link-checking)
+        - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
         - [Content Writers](#content-writers)
         - [Users](#users)
         - [FE Tools team](#fe-tools-team)
+        - [Anybody that is trying to ship code for the VA.gov front end](#anybody-that-is-trying-to-ship-code-for-the-vagov-front-end)
     - [High Level Design](#high-level-design)
   - [Specifics](#specifics)
     - [Detailed Design](#detailed-design)
@@ -46,7 +49,7 @@ This design document is intended for front end and DevOps engineers on the Veter
 
 ### Background
 
-The `vets-website` repo currently contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages. 
+The `vets-website` repo currently contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages.
 
 1. [Run Webpack](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L55)
 2. [Run the content build](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L61)
@@ -60,7 +63,11 @@ Static content currently comes from two sources:
 1. The Drupal CMS
 2. The [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/blob/master/pages/404.md)
 
-This design doc will focus on validating content from the Drupal CMS. 
+This design doc will focus on validating content from the Drupal CMS.
+
+##### Amazon S3
+
+The frontend of VA.gov is served as static files via Amazon S3. Since `vets-website` currently handles both application and content building, a failure in one blocks both from being deployed to S3 during a full deploy.
 
 ###### Broken Link Checking
 
@@ -73,13 +80,13 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 
 ###### Accessibility Checking
 
-The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81), which only happens during the full `vets-website` build. 
+The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81), which only happens during the full `vets-website` build.
 
-Before accessibility checks can be run, the sitemap is generated via the [`create-sitemap` Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/create-sitemaps.js). Nightwatch iterates over all the paths found in the sitemap, and runs the [aXe accessibility checker](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to look for violations. 
+Before accessibility checks can be run, the sitemap is generated via the [`create-sitemap` Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/create-sitemaps.js). Nightwatch iterates over all the paths found in the sitemap, and runs the [aXe accessibility checker](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to look for violations.
 
 When violations are found, the build breaks and violations must be reported manually.
 
-The accessibility checks are skipped during a content-only deploy. 
+The accessibility checks are skipped during a content-only deploy.
 
 Additionally, we have the preview server which shows content editors any accessibility violations, but they must deliberately go to the server from a link in Drupal to see this.
 
@@ -93,15 +100,19 @@ Unfortunately, the partial deploys have no content validation. That means that c
 
 ##### Users
 
-Content-only deploys create an opportunity for end users to encounter broken links and/or accessibility errors from CMS content that wasn't validated before being deployed.
+Content-only deploys create an opportunity for end users to encounter broken links and/or accessibility errors. This happens because content can bypass any content validation checks if it's deployed via the content-only deployment.
 
 ##### FE Tools team
 
 Invalid content causes warning logs during staging deploys, and breaks the build during production deploys. These broken builds then need manual intervention, and require coordinating with another team.
 
+##### Anybody that is trying to ship code for the VA.gov front end
+
+If invalid content is breaking the production build, and therefore blocking the production deploy, then no team on any contract is able to ship their frontend code to VA.gov.
+
 ### High Level Design
 
-Both the application and content builds need content validation.
+Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
 
 ## Specifics
 
