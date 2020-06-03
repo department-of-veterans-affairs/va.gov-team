@@ -4,8 +4,9 @@
 We have not had the resources to focus on how things are organized **across the whole veteran experience.** Information architecture (IA), content, and design need to work together. Any time a veteran interacts with the VA, it should be seamless.
 
 ### We’re figuring out where to begin IA work.
+
 * We’ll start by evaluating the **overall health of VA.gov’s IA** using:  
-\  * baseline testing of top tasks;
+  * baseline testing of top tasks;
   * analytics; and
   * an expert review.
 
@@ -18,5 +19,7 @@ We have not had the resources to focus on how things are organized **across the 
   * What projects need IA help the most?
   * What are other considerations? 
 
+### We’re setting up space for sharing and conversation about IA.
 
+* For potential IA projects, see the IA planning roadmap.
 
