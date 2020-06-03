@@ -49,7 +49,7 @@ Things to watch for:
 
 ##  Task 2: Determine Eligibility - 10 minutes
 
-Now let's say you've reached the application form. Based on your real life field of study and the benefits you have remaining, how would you use this page to decide if applying for the Rogers STEM scholarship is a good choice for you?
+Now let's say you've reached the application form. Based on your real life field of study and the benefits you have remaining, how would you use this page to decide if applying for the Rogers STEM scholarship is a good choice for you?  
 
 Things to watch for:
 - Does the user look at the subway map or click the link at the top of the page without reading anything else?
@@ -71,7 +71,7 @@ Note: User may continue to Task 3 without a prompt
 
 ## TASK 3A: Apply for STEM - 15 minutes
 
-Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?
+Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?  For this prototype, you will log in as an authenticated user.
 
 *Remember to think aloud as you go through so we can hear what works for you and what doesn't.
 
@@ -89,12 +89,13 @@ Now we're going to do some role playing.  Let's say you're Sammy Smith and you'r
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
   - Did any of the questions seem unnecessary?  
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
+  - For the school ID and email, would you be likely to provide this information?  What do you think it will be used for?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
   
 ## TASK 3B: Triggering the Alert - 15 minutes
 
-Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?
+Now we're going to do some role playing.  Let's say you're Sammy Smith and you're working on an undergraduate degree in **Chemistry** from **Chicago State University**.  You know you have about one semester left of entitlement remaining, but aren't sure of the exact amount.  You would like to apply for the STEM scholarship if you can.  How would you go about applying for this scholarship?  For this prototype, you will log in as an authenticated user.
 
 *Remember to think aloud as you go through so we can hear what works for you and what doesn't.
 
@@ -116,6 +117,7 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
   -	What parts of the form, if any, might you have to do some research to find?   How would you track down that info? 
   - Did any of the questions seem unnecessary?  
   -	For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
+  - For the school ID and email, would you be likely to provide this information?  What do you think it will be used for?
   - What did you think of the alert?
   - What would you do after you saw this message?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
@@ -127,7 +129,7 @@ _Prompt at "About how much of your entitlement do you have left?"_:  Say you cli
 Circle back on
 - Eligbility alert - For the "Check remaining benefits" helper in the form, what do they expect to happen (e.g. modal, new page, etc.)?
 - STEM program dropdown - How would they categorize their "real" degree? 
-- School contact details 
+- School contact details - Is your school ID the same as your SSN?  If applicable, what would you put down for your school email?
 - Direct Deposit: For the banking information, how do you think the VA will use that information? What are your thoughts on whether the info you provide here might impact other payments you receive from VA?
 
 
