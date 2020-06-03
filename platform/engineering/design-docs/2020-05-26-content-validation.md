@@ -26,6 +26,8 @@
     - [Detailed Design](#detailed-design)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
+      - [Broken links](#broken-links)
+      - [Accessibility errors](#accessibility-errors)
     - [Logging](#logging)
     - [Debugging](#debugging)
     - [Caveats](#caveats)
@@ -124,7 +126,17 @@ The validation of the application content will remain in `vets-website`. The val
 
 ### Testing Plan
 
-COMING SOON
+##### Broken links
+
+1. Confirm that the content build is passing
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html) to have a broken link
+3. Run the build again to confirm that it is failing
+
+##### Accessibility errors
+
+1. Confirm that the content build is passing
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html) to have an accessibility error
+3. Run the build again to confirm that it is failing
 
 ### Logging
 
