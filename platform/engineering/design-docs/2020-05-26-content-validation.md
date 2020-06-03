@@ -34,6 +34,8 @@
     - [Security Concerns](#security-concerns)
     - [Privacy Concerns](#privacy-concerns)
     - [Open Questions and Risks](#open-questions-and-risks)
+      - [Risks](#risks)
+      - [Questions](#questions)
     - [Work Estimates](#work-estimates)
     - [Alternatives](#alternatives)
       - [Highest quality, but lowest speed](#highest-quality-but-lowest-speed)
@@ -45,9 +47,9 @@
 
 ### Objective
 
-The objective here is to define an approach to validate the CMS content. Specifically, this design doc focuses on validating that CMS content has no accessibility errors and/or broken links.
+The objective here is to define an updated approach to validate the CMS content. Specifically, this design doc focuses on validating that CMS content has no accessibility errors and/or broken links.
 
-This design document is intended for front end and DevOps engineers on the Veteran-facing Services Platform (VSP) and Veteran-Facing Services (VFS) teams.
+This design document is intended for front end and DevOps engineers on the Veteran-facing Services Platform (VSP) and CMS teams.
 
 ### Background
 
@@ -98,7 +100,7 @@ Additionally, we have the preview server which shows content editors any accessi
 
 Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day, and `vets-website` deploys to staging take 20+ minutes. To allow content writers to move faster, there is a partial deploy, which only includes static page changes (`vagov-content` and Drupal).
 
-Unfortunately, the partial deploys have no content validation. That means that content writers don't have a proactive reactive way to learn if their content includes broken links or accessibility errors.
+Unfortunately, the partial deploys have no content validation. That means that content writers don't have a proactive way to learn if their content includes broken links or accessibility errors.
 
 ##### Users
 
@@ -122,11 +124,11 @@ The validation of the static content coming from the CMS will occur during the M
 
 ### Detailed Design
 
-Currently, the static CMS is only validated during the full deploy, which only happens once per day. To maintain some form of parity with that that process, the `content-build` repo will run a [daily job](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md#miscellaneous) in CI to validate the static content.
+Currently, the static CMS content is only validated during the full deploy, which only happens once per day. To maintain some form of parity with that that process, the content validation will happen in a daily scheduled job.
 
 ### Code Location
 
-The validation of the application content will remain in `vets-website`. The validation of the static content will live in the [new `content-build` repo](https://github.com/department-of-veterans-affairs/content-build).
+The content validation script and scheduled job config will live in the [new `content-build` repo](https://github.com/department-of-veterans-affairs/content-build).
 
 ### Testing Plan
 
