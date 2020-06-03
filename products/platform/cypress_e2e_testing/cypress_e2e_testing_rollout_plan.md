@@ -40,19 +40,13 @@ We will be doing two sets of testing for this phase of the rollout.
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: 
 
-
-
-
-
-
 ### Planning
 
 - Desired date range: June - July
 - How will you make the product available in production while limiting the number of users who can find/access it: No need for this
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We will be looking to track the following metrics
-  - % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
-  - # of times form tester is utilized in Cypress (data to be pulled from from Circle)
-
+ - % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
+ - Number of times form tester is utilized in Cypress (data to be pulled from from Circle)
 
 ### Stage A: Canary
 
@@ -65,11 +59,11 @@ We will be doing two sets of testing for this phase of the rollout.
 #### Results:
 - Number of unique users: 2-6 Users
 - Metrics at this stage (per your "success criteria"):
-  - # of testing blockers identified by test teams
+  - Number of testing blockers identified by test teams
   - Amount of time it takes to write e2e tests in Cypress vs Nightwatch
   - Amount of time the system takes to run tests in Cypress vs Nightwatch
   - Amount of time it takes to write form tests in Cypress vs Nightwatch
-  - # of documentation gaps identified
+  - Number of documentation gaps identified
 - Was the data submitted (if any) easy for VA to process?:
 - Types of errors logged: 
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
