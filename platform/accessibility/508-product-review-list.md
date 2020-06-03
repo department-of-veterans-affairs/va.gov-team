@@ -823,8 +823,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[COGNITION]: EYB - CONSIDER updating link text "this page" to more descriptive labels - #9243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9243)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[COGNITION]: EYB - CONSIDER hiding the HR divider from screen readers - #9245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9245)<br/>
-**Opened:** May 18, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
