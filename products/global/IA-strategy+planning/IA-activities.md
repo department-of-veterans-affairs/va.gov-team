@@ -5,12 +5,12 @@ We have not had the resources to focus on how things are organized **across the 
 
 ### We’re figuring out where to begin IA work.
 
-* We’ll start by evaluating the **overall health of VA.gov’s IA** using:  
+* Step 1: Evaluate the **overall health of VA.gov’s information architecture** using:  
   * baseline testing of top tasks;
   * analytics; and
   * an expert review.
 
-* Next we’ll recommend:
+* Step 2: Recommend:
   * where to begin IA work based on the evaluation (see above); and
   * how we can help.
 
