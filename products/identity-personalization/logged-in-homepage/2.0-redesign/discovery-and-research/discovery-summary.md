@@ -65,6 +65,8 @@ The pages our users created:
 
   ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p14.png)
 
+  *Example of a page created in our user session. User created a personalized homepage with dedicated section linking off to other pages (education page shown as example)*.
+
 Stakeholders described this type of task-based, personalized experience as[  one of their goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#stakeholder-goals) during our interviews. We also saw this standard set in our[  comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples), in which every private-sector site we looked at anchored their logged-in experiences in a dashboard and navigation that was different from their logged-out marketing sites.  Analytics also confirm that[  logged-in users are very task-oriented compared to logged-out users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#logged-in-vs-logged-out-why-do-people-come-to-the-site-what-do-they-do-here).
 
 **Implications**
@@ -125,8 +127,6 @@ In the Personalization 2.0 research, we learned about the [importance of an onbo
 
 ### The existing "blue sky" prototype gets a lot of things right.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard.png)
-
 [Most participants in our study responded positively to the blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) and were excited by the possibility that their logged-in homepage could look like that.  The design was easy for them to scan and quickly understand their options.
 
 > "Do mine like this...somebody got in my head, this is perfect."
@@ -134,6 +134,10 @@ In the Personalization 2.0 research, we learned about the [importance of an onbo
 The content prioritization and layout aligns the [findings from our comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-do-sites-organize-different-types-of-content-within-a-single-logged-in-homepagedashboard-view) as well; it emphasizes tasks, provides a summary or snapshot of information, clearly communications updates, and links users to more detailed information.
 
 Participants also liked that the blue sky prototype gave them an overview of all content available within the dashboard through the sidebar navigation, and found the recommendations and local information helpful.
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-cropped.png)
+
+*Blue sky prototype shown in our user sessions.*
 
 **Implications**
 
@@ -148,6 +152,8 @@ When designing their personalized page, [participants in our research study expe
 Participants in our study referenced specific design patterns, such as dropdown menus, that would be helpful to them to get to tasks. This demonstrates that [the way the private sector is routing users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#what-appears-as-a-widget-vs-text-link-vs-something-else) from a logged-in dashboard has influenced user expectations.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p9.png)
+
+*Example of page created by participant in our session who created dropdown menus inspired by their banking experience.*
 
 **Implications**
 
@@ -179,16 +185,16 @@ We specifically asked Veterans in our user study where or how they would expect 
 
 Then, we gave the prompt to imagine they could get updates right on their page, and describe how that would look. Veterans placed [updates and notifications near the top of the personalized page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-typically-look-for-notifications-in-the-top-portion-of-a-page-but-expect-notifications-from-the-va-outside-of-their-logged-in-experience) they created, but there wasn't one consistent placement across the sessions.  Despite that lack of consistency, this tells us what is most important is that the information is clear and hard to miss. One participant went so far as to say they wanted it in a big red bulls-eye in the middle of their page so they couldn't miss it.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p8.png)
-
-In our comparative analysis, we saw [new information displayed in the top portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-are-sites-implementing-alerts-and-notifications) of the logged-in homepage, often in a dedicated notification center.  Some examples also included notifications directly in-context with the item in question.  The blue sky prototype we showed Veterans in our study also had these in-context notifications, to which they responded positively.
+In our comparative analysis, we saw [new information displayed in the top portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-are-sites-implementing-alerts-and-notifications) of the logged-in homepage, often in a dedicated notification center.  Some examples also included notifications within the same block of content as the item in question.  The blue sky prototype we showed Veterans in our study also had this type of in-line notifications, to which they responded positively.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
+
+*Detail of in-line notification style shown in blue sky prototype.*
 
 **Implications**
 
 1.  Veterans will find notifications on the logged-in homepage helpful, and will typically look for them somewhere at the top of the page.
-2.  We should test different approaches to notification placement, including a dedicated Notification center, alert-style banners at the top of the page, and notifications in-context with the item in question (as seen on the Claims section in the blue sky prototype).
+2.  We should test different approaches to notification placement, including a dedicated Notification center, alert-style banners at the top of the page, and notifications in-line with the item in question (as seen on the Claims section in the blue sky prototype).
 3.  Since Veterans are used to email, mail, and phone calls from the VA, we need to consider the various channels of communication Veterans receive from the VA as we mature the notifications we provide through an authenticated experience.
 
 ## Recommendations
