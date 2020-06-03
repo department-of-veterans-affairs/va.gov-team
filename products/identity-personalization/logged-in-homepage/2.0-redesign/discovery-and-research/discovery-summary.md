@@ -17,32 +17,20 @@ Based on the [2019 Personalization 2.0 strategy](https://github.com/department-o
 We hoped to be able to answer the following questions after completing our discovery:
 
 -   Why do people come to VA.gov? What do they do on VA.gov?
-
 -   How might their experience be improved with an updated logged-in homepage and status updates/notifications?
-
 -   Which tasks are Veterans completing on other VA websites (e.g. eBenefits)?
-
 -   What are other websites and apps doing for logged in homepages and status updates/notifications?
-
 -   How are teams other than Authenticated Experience affected by an improved logged in homepage experience?
-
 -   What risks do we need to be aware of?
 
 We completed the following research activities to answer our questions:
 
 - [DEPO Stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md)
-
 - [Review of VA.gov analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
-
 - [Review of previous research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md)
-
-  -   [Research conducted by the Harvard Kennedy School](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/HKS-research/Harvard-VA%20Executive%20Presentation%20.pptx) wasn't included in our research review, but is a helpful resource for this effort
-
+ -   [Research conducted by the Harvard Kennedy School](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/HKS-research/Harvard-VA%20Executive%20Presentation%20.pptx) wasn't included in our research review, but is a helpful resource for this effort
 - [User interviews/co-design exercise](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
-
 - [Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md)
-
-  
 
 Key findings
 ------------
