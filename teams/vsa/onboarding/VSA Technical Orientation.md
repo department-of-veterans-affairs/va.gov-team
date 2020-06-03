@@ -321,7 +321,7 @@ Although we do not dictate whether developers should use Windows vs Linux vs Mac
   - The good news is that I was already set up as admin. If you are not admin, let US Resources know immediately, because you need to be.
   - If you upgrade to Catalina (recommended) you may need to acknowledge a few additional security prompts. I believe this came up with video and DisplayLink drivers though (dual monitor support), not the development software itself.
 - Most tools are open source.
-- We don’t have Visio; I had to use the online version (Office 365).
+- While Microsoft doesn't have a desktop version of Visio for macOS, you can use "Visio for the Web" (Office 365) from your Mac in a web browser.
 
 ### Software List
 
@@ -414,8 +414,8 @@ Once you have received your VA login credentials, it is imperative that you log 
 - Bookmark the VA Citrix Remote Access login site: https://citrixaccess.va.gov/
 - VA Remote Access Help: https://www.oit.va.gov/resources/remote-access/
 - VA CAG Remote Access Connectivity Video Walkthrough: https://www.youtube.com/watch?v=073hayTIiwA
-- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Julie Ramirez ([Julie.Ramirez2@va.gov](mailto:Julie.Ramirez2@va.gov))
-- Julie will also issue you a PIV card reader if you ask.
+- Initial setup instructions for VA email and CAG access should come to you via email. If you haven’t gotten yours, check with our onboarding coordinator, Victoria Akitobi ([vakitobi@governmentcio.com](mailto:vakitobi@governmentcio.com))
+- Victoria will also issue you a PIV card reader if you ask.
   - That’s the best route if you don’t have one already.
   - If you want to use your own, it needs to be TAA-compliant (https://www.amtgov.com/what-is-taa-compliance.html). The list changes, but countries that are currently NOT TAA-compliant include China, India, Indonesia, Iran, Malaysia, Pakistan, Russia, and Sri Lanka.
 - On Mac, only Safari is supported for CAG (DO NOT use Chrome).
@@ -452,7 +452,7 @@ The VA National Service Desk (NSD) (aka VA Enterprise Service Desk) number is 85
 
 Answer:
 
-If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to geth the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well
+If you are a front-end developer, clone this [website](https://github.com/department-of-veterans-affairs/vets-website) and follow these [set up directions](https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md). I would try to get the command `yarn build --buildtype=vagovdev` to work. This will run the app locally and use a dev server as the API. As a bonus, you should try to get the [API](https://github.com/department-of-veterans-affairs/vets-api) set up as well
 
 If you are a back-end developer, clone this [API](https://github.com/department-of-veterans-affairs/vets-api) and get things set up without docker. You might also want to try to get the [website](https://github.com/department-of-veterans-affairs/vets-website) set up as well.
 
