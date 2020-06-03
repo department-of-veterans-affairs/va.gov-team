@@ -7,9 +7,9 @@ We have not had the resources to focus on how things are organized **across the 
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 
-We work with the **#ia-forum** on IA strategy and planning.
+For IA strategy and planning, we work with the **#ia-forum,** made up of DEPO leads, product owners, content strategists, and designers.
 
-### We’re figuring out where to begin IA work.
+### First we’re figuring out where to begin IA work.
 
 * Step 1: Evaluate the **overall health of VA.gov’s information architecture** using:  
   * baseline testing of top tasks;
@@ -24,13 +24,13 @@ We work with the **#ia-forum** on IA strategy and planning.
   * What are other considerations? 
 
 
-### We’re setting up space for discussion and sharing about IA.
+### And we’re setting up space for discussion and sharing about IA.
 
 * **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf). (Download it for easier reading.)
 * **Slack:** Post ideas, input, and examples to the **#ia-forum** channel.
 * **Meetings:** Join us every 2 weeks to hear what we're doing and learning, give feedback, and discuss next steps.
 
-### We’ll define the IA role and ways to work across teams.
+### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
 
 * **IA role and responsibilities:** The IA workshop kicks off July 20. As part of it, we'd like to discuss:
   * Who does which IA work? (DEPO v. Platform)
