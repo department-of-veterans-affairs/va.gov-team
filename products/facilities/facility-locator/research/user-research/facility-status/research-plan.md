@@ -9,6 +9,9 @@ There is no standard way to define the current facility operating statuses provi
 - How do Veterans understand the current messaging/categorization of statuses?
 - How do Veterans categorize various events that affect a facility's operating status?
 - How might we create consistent messaging to Veterans across VA (VHA, Vet Centers, etc.)?
+- How do virtual services fit into facility operating statuses?
+- How much do people trust the operating statuses?
+- How do people currently get information on facility operating hours/status?
 
 #### Hypothesis 
 - Veterans will not understand what service/access they can receive through the current status messaging
@@ -17,4 +20,5 @@ There is no standard way to define the current facility operating statuses provi
 - Veterans want to know what service/access they can receive upon viewing a facility's operating status
 
 ## Method
-TBD
+Moderated card sort (10 participants)
+
