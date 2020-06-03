@@ -1,14 +1,13 @@
 ## Situation
 
-The VA is scaling the digital services it provides through VA.gov. New experiences are prioritized and existing experiences are improved. 
-DEPO, the VA’s product office, prioritizes initiatives that support VA.gov’s role as the VA’s digital front door. These initiatives help Veterans and others to find, apply, track, and manage VA benefits. 
-Products are built and improved in part through VSA product teams. These product teams span four product suites: Unauthenticated Experience, Authenticated Experience, Health Products, Benefits & Memorials Products. 
-
+The VA is scaling digital services through VA.gov. New experiences are prioritized and existing experiences are improved. 
+We prioritize initiatives that support VA.gov’s role as the VA’s digital front door. These initiatives help Veterans and others to find, apply, track, and manage VA benefits. 
+Products are built and improved in part through various VA.gov teams, including VSA.
 ## Complication 
 
 We don't share the impact of the things we work on as often as we should. 
 If we do, it's localized to a few people or a given team. 
-That means we may not take advantage of quantitiative results to drive future prioritization. 
+That means we may not take advantage of quantitiative results to drive future decision-making. 
 And we it means we may not celebrate the impact we have on Veterans beyond the launch of particular feature.
 
 ## Questions
@@ -36,10 +35,20 @@ Every initiative—a new feature, a product launch, technical improvements—wra
  
     
  ## Results
- * Phase 1
-   - Launch our first Impact Review on 5/1 
-     * KPI/results - TBD
+ * Phase 1 - Launch our first Impact Review on 5/1 
+     * Presenters
+       - Facilities (Urgent Care MVP), Authenticated Experience (Direct Deposit, Address Validation), eBenefits (Rated Disabilities) teams
      * What we hope to learn:
+       - KPIs - Survey scores
+       - Did we influence future decision-making?
        - whether this should be a combined VSA/DEPO PM/PO exercise or just VSA PM
+     * Results
+       - On a scale of 0-10, how likely are you to recommend Impact Reviews to your teammates/colleagues/others?:
+         - Avg. 8.75
+       - Anecdotes
+         - "...bigger screenshots or switching between the presentation/actual VA.gov next time would be helpful so everyone has better context of the work!"
+         - "We might need to invite more people...but at the same time, I don't want it to be too enormous"
+         - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
+         - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
 
  
