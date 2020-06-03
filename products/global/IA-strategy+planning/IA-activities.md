@@ -22,5 +22,5 @@ We have not had the resources to focus on how things are organized **across the 
 
 ### We’re setting up space for sharing and conversation about IA.
 
-* For potential IA projects, see the [IA planning roadmap.] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf)
+* For potential IA projects, see the [IA planning roadmap.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf)
 
