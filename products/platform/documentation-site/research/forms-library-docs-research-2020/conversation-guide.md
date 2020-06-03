@@ -32,8 +32,17 @@ Before we start, a few things I want to mention:
 *Start recording.*
 - **I have started recording. I'd like to confirm: Are you comfortable if I record the screen the audio as we talk today?**
 
-## Introduce the activity and structure of session
+## Pre-activity interview: Evaluation of current forms documentation
 
+- Before we get started with the activity, I have a few questions about our current forms library documentation. Are you familiar with it?
+- When is the last time you referenced it?
+- Was it useful then? Why or why not?
+- If not:
+    - Can you give an example of a time the documentation was useful?
+    - What made it useful, specifically?
+    - Are there any useful types of documentation or formats that you would like to see in the forms library documentation?
+- What documents, if any, do you reference to supplement the information provided in the forms library documentation?
+- Are there any other thoughts you have about the current forms library documentation?
 
 ## First Task: Navigate to the forms library documentation
 
