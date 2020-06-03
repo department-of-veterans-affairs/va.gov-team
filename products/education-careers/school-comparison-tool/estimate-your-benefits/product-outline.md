@@ -110,7 +110,8 @@ How might we create an improved user experience for GIBCT users, particularly th
 
 -	Compliance with Sec. 508
 - Analytics to evaluate GIBCT overall usage – does not decrease
--	Analytics to track calculator-button clicks - ??
+-	Analytics to track **Update benefits** button clicks - ??
+- Analytics to track accordion open / close for schools & OJT
 -	Call Center calls – potential for decreased calls about how to use the GIBCT profile benefits estimator (need to determine if this is tracked & establish baseline before formalizing) 
 -	Potential for ForeSee integration (not there currently, no baseline to measure satisfaction up or down)
 
