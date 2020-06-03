@@ -367,7 +367,6 @@ _NOTE: These are only front-end focused extensions, need to add backend focused 
 Use the following commands to install the above packages. _Note: this requires that code be part of the [PATH variable](https://code.visualstudio.com/docs/setup/mac)._
 
 ```sh
-code --install-extension To install them all:
 code --install-extension 2gua.rainbow-brackets
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dsznajder.es7-react-js-snippets
