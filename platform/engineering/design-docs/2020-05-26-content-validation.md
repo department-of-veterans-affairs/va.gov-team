@@ -26,10 +26,10 @@
     - [Detailed Design](#detailed-design)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
-      - [Broken links](#broken-links)
-      - [Accessibility errors](#accessibility-errors)
     - [Logging](#logging)
     - [Debugging](#debugging)
+      - [Broken links](#broken-links)
+      - [Accessibility errors](#accessibility-errors)
     - [Caveats](#caveats)
     - [Security Concerns](#security-concerns)
     - [Privacy Concerns](#privacy-concerns)
@@ -132,6 +132,16 @@ The content validation script and scheduled job config will live in the [new `co
 
 ### Testing Plan
 
+1. Configure a scheduled job to run a script once per workday
+2. Write an initial script that logs when the script is run
+3. Once the scheduled job is running at the correct time, replace the initial script with the actual script that runs the content validation
+
+### Logging
+
+Currently, invalid content is logged during staging deploys. And failed builds trigger generic [Slack notifications](https://dsva.slack.com/archives/C37M86Y8G/p1591099447374800).
+
+### Debugging
+
 ##### Broken links
 
 1. Confirm that the content build is passing
@@ -143,14 +153,6 @@ The content validation script and scheduled job config will live in the [new `co
 1. Confirm that the content build is passing
 2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html) to have an accessibility error
 3. Run the build again to confirm that it is failing
-
-### Logging
-
-Currently, invalid content is logged during staging deploys. And failed builds trigger generic [Slack notifications](https://dsva.slack.com/archives/C37M86Y8G/p1591099447374800).
-
-### Debugging
-
-COMING SOON
 
 ### Caveats
 
