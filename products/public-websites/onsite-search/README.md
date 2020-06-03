@@ -114,7 +114,7 @@ The Analytics team is conducting a gap research spike (https://github.com/depart
 ## KPIs
 - TBD
 
-# Implementation Info
+## Implementation Info
 the search.gov account# for this product is 7378
 
 ## Solution Narrative
