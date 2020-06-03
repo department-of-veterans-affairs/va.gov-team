@@ -33,9 +33,12 @@ In addition, qualitative research -- such as interviews and usability tests -- w
 
 **Key discovery documents**
 
-- [Search 2.0 Discovery: Summary and Strategy]()
+- TBD
+- TBD
 
 ### User Goals
+
+**For On-Site Search**
 
 As a user, I want to:
 
@@ -44,10 +47,32 @@ As a user, I want to:
 - Get the most relevant results when I use VA.gov search.
 - Get the most relevant results even if I am not precise about the information I seek or make a mistake in my search terms.
 
+**For Off-site Search**
+
+- As I veteran, I want to easily and quickly find the link to the information I need with few clicks as possible using a search engine.
+
 ### Business Goals
+
+**For On-Site Search**
+
+- Veterans using the VA.gov site should be able to find what they need with few clicks as possible using the search tool/utility.
+
+**For Off-site Search**
+
+- Veterans should be provided with search engine links to the most authoritative and up-to-date information available on the VA.gov Website.
 
 
 ## Assumptions
 
+**On-Site Search**
+
+- Search.gov will continue to be the search engine of choice for VA.gov
+
+**Off-Site Search**
+
+- The organic search authority and ranking of VA.gov is not as strong as could be to ensure the site is the single source of truth for veterans.
+
 
 ## Questions
+
+- Given resource constraints, a determination needs to be made about the scope and prioritization of this initiative.  Clear objectives and outcomes need to be communicated to ensure aligment with key stakeholders -- including VA business line leads and DEPO leadership.
