@@ -20,5 +20,29 @@ There is no standard way to define the current facility operating statuses provi
 - Veterans want to know what service/access they can receive upon viewing a facility's operating status
 
 ## Method
-Moderated card sort (10 participants)
+Moderated card sort
 
+We will use Zoom to conduct remote moderated card sorting sessions to observe how participants categorize different scenarios that affect facility operating statuses. These sessions will include a short interview with the participant.
+
+## Participants and recruitment
+We will utilize the Perigean contract to reach our goal of observing **10** participants
+
+Criteria for recruiting:
+
+- All genders
+- A mix of rural and urban
+- Veterans & Caregivers
+
+## Timeline
+This study will take place June 10 - 12, 2020
+
+### Team availability (EST)
+
+Date | Time
+-----|-------
+June 10 | TBD
+June 11 | TBD
+June 12 | TBD
+
+A pilot session will be held on TBD
+Pilot participant: TBD
