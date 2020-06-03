@@ -20,9 +20,9 @@ There is no standard way to define the current facility operating statuses provi
 - Veterans want to know what service/access they can receive upon viewing a facility's operating status
 
 ## Method
-Moderated card sort
+Moderated card sort, INSERT OPTIMAL SORT LINK HERE
 
-We will use Zoom to conduct remote moderated card sorting sessions to observe how participants categorize different scenarios that affect facility operating statuses. These sessions will include a short interview with the participant.
+We will use Zoom and OptimalSort to conduct remote moderated card sorting sessions to observe how participants categorize different scenarios that affect facility operating statuses. These sessions will include a short interview with the participant.
 
 ## Participants and recruitment
 We will utilize the Perigean contract to reach our goal of observing **10** participants
