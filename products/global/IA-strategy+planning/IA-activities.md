@@ -11,14 +11,14 @@ For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from
 <br></br>
 ### First we’re figuring out where to begin IA work.
 
-* Step 1: Evaluate the **overall health of VA.gov’s information architecture** using:  
+* **Step 1:** Evaluate the **overall health of VA.gov’s information architecture** using:  
   * baseline testing of top tasks;
   * analytics; and
   * an expert review.
 
-* Step 2: Recommend where to begin IA work based on the evaluation (see above), and show how we can help.
+* **Step 2:** Recommend where to begin IA work based on the evaluation (see above), and show how we can help.
 
-* Step 3: Work with the **#ia-forum** to prioritize IA projects:
+* **Step 3:** Work with the **#ia-forum** to prioritize IA projects:
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 
