@@ -197,10 +197,108 @@ In our comparative analysis, we saw [new information displayed in the top portio
 2.  We should test different approaches to notification placement, including a dedicated Notification center, alert-style banners at the top of the page, and notifications in-line with the item in question (as seen on the Claims section in the blue sky prototype).
 3.  Since Veterans are used to email, mail, and phone calls from the VA, we need to consider the various channels of communication Veterans receive from the VA as we mature the notifications we provide through an authenticated experience.
 
-## Recommendations
+## Moving forward: Project approach
 
-## Process
+[In stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#perceived-project-risks), one of the main concerns raised was how a logged-in homepage redesign could easily suffer from endless churn. In order to avoid this, we are proposing the following approach to scope the project in manageable phases.
 
-## Metrics
+### Phase 1: Adding personalized application, claim, and benefit info to the logged-in homepage; Retiring My VA
 
-## Next Steps
+When considering next steps, we had to think about what would both be a manageable first step and what would elevate personalized, task-based information. While the easiest next step — removing links from the top 20 tasks that do not apply to individual users when they log in – would be manageable, we did not feel it would adequately elevate the personal information veterans repeatedly stated they wanted to see.
+
+Instead, we landed on an approach that would port existing application, claim, and benefit information over from My VA to the logged-in homepage.
+
+#### In scope
+
+-	Moving the applications, claims, and benefit content on My VA to the logged-in homepage.
+-	A visual redesign of the My VA elements moving over to the logged-in homepage.
+-	A plan for how to include links to the existing top 20 tasks, which would include how to direct veterans to the records and documents.
+-	A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
+-	Retiring My VA
+-	(Nice to have) Elevating overall disability ratings or GI bill balances.
+
+#### Out of scope
+
+-	Doing anything with the Find VA benefits content that currently exists on My VA.
+-	Incorporating any new data or integrations that do not already exist on VA.gov.
+-	Navigation work.
+-	Notification center work.
+
+### Phase 2: Improvements
+
+Phase 2 will allow us to make updates and modifications to phase 1. Many of these may come out of ideas generated during phase 1 or analytics we observe. This might include:
+
+-	Disability rating info if it’s not included in phase 1.
+-	GI bill balance info if it’s not included in phase 1.
+-	Considering whether some tasks can be completed right from the homepage, and implementing functionality to allow this.
+-	Showing new data, or data in a different way (eg. could we should where a prescription is en route?).
+-	Additional features that are deemed valuable (eg. most recent payments, housing grant balance, etc).
+
+### Phase 3: A better first-time user experience and recommendations
+
+While we will need to consider what we show if someone has no benefits and nothing in progress in phase 1, there will likely be room for growth and improvement for first-time user flows beyond what we implement initially. 
+
+This also opens us up to answer the question  — how are we recommending next steps to all veterans regardless of where they are in their lifecycle? This is where we’ll focus phase 3, which might include:
+
+-	Figuring out how to update the existing Find VA benefits flow.
+-	A more fully-developed first-time user experience.
+-	Additional benefit suggestions or recommendations based on personal circumstances (Eg. elevating voc rehab if we see you have a disability rating).
+
+### Other projects: An authenticated navigation and a notification center
+
+One thing was clear from both stakeholder interviews and user research – the logged-in homepage does not exist in a vacuum and it will work most successfully if it is supported by a larger authenticated experience, specifically a task-based navigation and notification center. With the proper resources, some of this could happen alongside the logged-in homepage work. These efforts would include:
+
+#### Logged-in navigation
+
+-	Updating the logged-in navigation so it is more task-focused.
+-	Consideration for how to handle “explore and apply” flows and the global, unauthenticated navigation.
+-	An iterative approach that can happen incrementally over time.
+-	Close work with the IA team and the public websites team. 
+
+#### Notification center
+
+-	Adding a notification center that can accommodate notifications that don’t appear on the logged-in homepage.
+-	Consideration for how this will work as part of a system that includes email and text notifications.
+-	An iterative approach that can happen incrementally over time.
+
+## Moving forward: Process
+
+Outside of approaching the project iteratively, as we’ve outlined above, we want to make sure we focus on the following as we pursue a logged-in homepage redesign. 
+
+### Developing design patterns for authenticated tools
+
+This project’s success hinges on updating the existing patterns we have in our design system. Currently, patterns cater to unauthenticated content, which has left us with a lengthy and [cluttered mess on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-visual-design). There is a ton of great, personalized information on this page, but it is buried because we don’t currently have patterns that handle this kind of content well. 
+
+Having a scannable dashboard matters — we’ve seen that in the [positive response to the blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) — so we want to work with the VA platform team to figure out the best way to display authenticated content in a scalable, flexible way.
+
+### User testing regularly
+
+The existing homepage, created as part of the 2018 redesign, [went through multiple rounds of user testing before launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md#brand-consolidation). Given the amount of traffic that the new logged-in homepage will get, and that we’ll be changing the [wildly popular top 20 tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#from-the-homepage-people-primarily-navigate-into-the-tools-displayed-in-the-top-20-tasks), we should strive to conduct user testing at more than one point in each phase to make sure we’re getting things right.
+
+### Stakeholder management
+
+While we’re **not** changing anything about the logged-out homepage, we’ll need to review the new logged-in approach with stakeholders both inside and outside of DEPO. In order to not end up in a cycle of endless churn, we plan to:
+
+-	Have a strong strategy based on user research (this document!).
+-	Lead with strong recommendations based on user insights when sharing work.  
+-	Be strategic about when and how we engage stakeholders outside of DEPO.
+
+### Measuring the right metrics
+
+We want the new logged-in homepage to be measured in more than page views (which will already be high because it’s the homepage) and link clicks (which are important, but not the whole story). We’re figuring out our objectives for this work so we can guide this work and get the right analytics in place to tell us how we’re doing.
+
+Preliminarily, we are thinking about monitoring:
+
+-	How the logged-in homepage affects conversions for the different tasks it features.
+-	How well we guide veterans with no benefits or applications.
+-	How/if the new logged-in homepage affects how many people log-in and how often they log-in.
+
+## Next steps
+
+Following this report, we plan to pursue this work as follows:
+
+-	Hand off this work between Liz Lantz (public websites) and the authenticated experience team.
+-	Start moving into design planning.
+-	Figure out specific next steps for discussing this work with stakeholders outside DEPO.
+-	Continue working on OKRs & KPIs and getting analytics set up.
+-	Start technical discovery.
+-	Start initial phase 1 design iterations.
