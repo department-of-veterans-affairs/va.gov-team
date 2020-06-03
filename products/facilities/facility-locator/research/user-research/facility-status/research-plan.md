@@ -46,3 +46,13 @@ June 12 | TBD
 
 A pilot session will be held on TBD
 Pilot participant: TBD
+
+## Team Roles	
+Please list the people who will be serving in each role. 
+- Moderator: Aricka Lewis (aricka@adhocteam.us) and Shawna Hein (shawna@adhocteam.us)
+- Research guide writing and task development: Aricka Lewis, Leyda Hughes (leyda.hughes@adhocteam.us)
+- Participant recruiting & screening: Perigean
+- Project point of contact: Aricka Lewis, Leyda Hughes	
+- Participant(s) for pilot test: 	
+- Note-takers: 	
+- Observers: 
