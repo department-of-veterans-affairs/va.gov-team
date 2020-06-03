@@ -19,6 +19,7 @@ This round of research mainly aims to validate features for an MVP mobile app (~
 # Research questions
 - Is our hypothesis right that limited Claims and Health features plus some standard mobile features (e.g. notifications, notification settings, profile, biometric sign in) are the right places to start for the MVP?
   - Do Claims and Health features seem equally useful? Or do participants respond to one more than the other?
+  - Would either Claims _or_ Health be enough for an MVP? 
   - Is there one feature, or a couple features, that people are most excited about?
     - If so, what are they? Why are they most useful?
 - Would participants download an app with limited Claims and Health features as the core features?
