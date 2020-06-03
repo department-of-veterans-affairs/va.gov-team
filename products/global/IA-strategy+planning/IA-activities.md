@@ -3,6 +3,22 @@
 ### The problem we're trying to solve:
 We have not had the resources to focus on how things are organized **across the whole veteran experience.** Information architecture (IA), content, and design need to work together. Any time a veteran interacts with the VA, it should be seamless.
 
+### Information architects:
+* DEPO: [Meg Peters](
+* Mikki Northius, IA - Slack @Mikki
+
+The #ia-forum helps with IA strategy and planning:
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+  * Xxxx
+
 ### We’re figuring out where to begin IA work.
 
 * Step 1: Evaluate the **overall health of VA.gov’s information architecture** using:  
@@ -22,7 +38,7 @@ We have not had the resources to focus on how things are organized **across the 
 
 * **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_5-29-2020.pdf). (Download it for easier reading.)
 * **Slack:** Post ideas, input, and examples to the **#ia-forum** channel.
-* **Meetings:** Join us every 2 weeks to hear we're doing and learning, give feedback, and discuss next steps.
+* **Meetings:** Join us every 2 weeks to hear what we're doing and learning, give feedback, and discuss next steps.
 
 ### We’ll define the IA role and ways to work across teams.
 
@@ -31,7 +47,7 @@ We have not had the resources to focus on how things are organized **across the 
   * How do we bridge between DEPO and Platform?
   * How do we balance current and future IA needs?
   
-* **Best ways to work together:** Let's the talks already underway and think about:
+* **Best ways to work together:** Let's continue the talks already underway, thinking about:
   * How do we identify projects that need IA early on?
   * What's the workflow between product, content, IA, visual design, and dev (Drupal)? 
 
