@@ -104,3 +104,5 @@ Pulls the VistA id from an Location resource
 
 <a name="feature-flag"></a>
 ## Feature Flag
+If `vaOnlineSchedulingVspAppointmentNew` is true, this service will use the new VSP FHIR endpoints rather than the legacy VAR endpoints.
+
