@@ -7,7 +7,7 @@ We have not had the resources to focus on how things are organized **across the 
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 
-For IA strategy and planning, we work with the **#ia-forum,** made up of DEPO leads, product owners, content strategists, and designers.
+For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from DEPO (leads, product owners, content strategists, and designers).
 
 ### First we’re figuring out where to begin IA work.
 
