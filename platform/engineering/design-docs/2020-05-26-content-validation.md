@@ -116,9 +116,13 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
 
+The validation of the static content coming from the CMS will occur during the Metalsmith build.
+
 ## Specifics
 
 ### Detailed Design
+
+Currently, the static CMS is only validated during the full deploy, which only happens once per day. To maintain some form of parity with that that process, the `content-build` repo will run a [daily job](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md#miscellaneous) in CI to validate the static content.
 
 ### Code Location
 
@@ -140,7 +144,7 @@ The validation of the application content will remain in `vets-website`. The val
 
 ### Logging
 
-COMING SOON
+Currently, invalid content is logged during staging deploys.
 
 ### Debugging
 
