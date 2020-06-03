@@ -1,4 +1,4 @@
-# Updating help text 
+# Help text ops
 
 This process applies to "systemic" help text changes, such as standardizing field labels and help text across multiple content types, or deep dives into help text for a specific content type. For minor changes, or help text changes driven by a new feature, we follow the standard [UX writing process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/ux-writing/process). 
 
