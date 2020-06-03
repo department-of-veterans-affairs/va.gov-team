@@ -9,7 +9,7 @@ We have not had the resources to focus on how things are organized **across the 
 
 For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from DEPO (leads, product owners, content strategists, and designers).
 
-<br>
+<br></br>
 ### First we’re figuring out where to begin IA work.
 
 * Step 1: Evaluate the **overall health of VA.gov’s information architecture** using:  
