@@ -42,7 +42,9 @@ __3. Veteran action needed banner__
 __4. Product for alerts to enable governance within the CMS__
 
  - DEPO and VISNs must have the ability to see what other products are currently displaying a banner alert.
- - @DAVE - this is where we need you to summarize your alert dashboard product idea.
+ - Can we create a dashboard that allows publishers to see how many alerts are on any given product.
+ - Can we prevent a user via the system from adding more than the maximum number of alerts to any given product in a way that is informative to the publisher (e.g. Add Alert to Homepage, Benefits hubs, but Cannot add to Erie Health System due to an add exceeding the maximum number of alerts (3) possible?)
+ - Certain products (e.g. VAMCs and Facility sites) should always have one alert 'reserved' for a facility/health system to provide information to veterans at that specific facility.
 
 
 ## Rubric for prioritization (display hierarchy)
