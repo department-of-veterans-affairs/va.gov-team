@@ -3,6 +3,8 @@
 This document walks you through how a typical accessibility audit works. This helps especially if you haven't been through one in your current program or project.
 
 ## What does an audit do? 
+The goal of an accessibility audit is to create an inventory of accessibility issues, then prioritize the impact of them in order to plan for remediation.
+
 An accessibility audit provides an analysis of whether an interface meets [Section 508](https://www.section508.gov/) and [WCAG 2.0](https://www.w3.org/TR/WCAG20/) (Web Content Accessibility Guidelines). These standards help guide people in making websites and apps that work for as many people as possible.
 
 ## Who does an audit? 
