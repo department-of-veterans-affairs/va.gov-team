@@ -57,7 +57,7 @@ Originally on vets.gov, all content was in `vets-website` in a `content/` direct
 
 At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo. 
 
-Currently, the `vets-website` repo contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages.
+Currently, the `vets-website` repo contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to separate the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages.
 
 1. [Run Webpack](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L55)
 2. [Run the content build](https://github.com/department-of-veterans-affairs/vets-website/blob/43ea0bdccd5e53886e3e38ea27d3f8e8e7bd9038/script/build.sh#L61)
@@ -86,7 +86,7 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
-Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) are tested, and a report is generated for that node.
+Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) are tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
 ![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
 
@@ -106,7 +106,7 @@ Additionally, we have the preview server which shows content editors any accessi
 
 ##### Content Writers
 
-Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a partial deploy, which only includes static page changes (`vagov-content` and Drupal).
+Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a [partial deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only), which only includes static page changes (`vagov-content` and Drupal).
 
 Unfortunately, the content-only deploys have no accessibility checking. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.  
 
