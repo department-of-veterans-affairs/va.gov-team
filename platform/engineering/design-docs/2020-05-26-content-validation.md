@@ -65,7 +65,7 @@ Previously, Webpack was entangled in the content build, but no longer. Brooks is
 Static content currently comes from two sources:
 
 1. The Drupal CMS
-2. The [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/blob/master/pages/404.md)
+2. The [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/)
 
 This design doc will focus on validating content from the Drupal CMS.
 
