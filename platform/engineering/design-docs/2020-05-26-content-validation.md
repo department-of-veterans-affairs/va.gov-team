@@ -80,7 +80,7 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 1. Loop through all of the HTML files in the Metalsmith pipeline
 2. Extract all of the broken `href`/`src` values using the `getBrokenLinks` helper
 3. Formats the result into useful console output
-4. Breaks the build on production, and logs the output on lower environments
+4. Blocks the deployment on production or logs the error output on lower environments
 
 ###### Accessibility Checking
 
