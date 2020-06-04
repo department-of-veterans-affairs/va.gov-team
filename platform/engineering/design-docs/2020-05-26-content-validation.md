@@ -55,7 +55,7 @@ This design document is intended for front end and DevOps engineers on the Veter
 
 Originally on vets.gov, all content was in `vets-website` in a `content/` directory, and you would open a PR to edit content. CI would then run against that PR. Link-checking would run as part of the build the same way it does today. If a broken link or an accessibility error was found, CI would fail, and you wouldn't be able to merge. This meant that broken links and accessibility errors never made their way into the `master` branch.
 
-At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. 
+At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo. 
 
 Currently, the `vets-website` repo contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to disentangle the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages.
 
@@ -86,9 +86,9 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
-Link checking was also added to the CMS. Everytime a node is saved, every link (both internal and external) are tested, and a report is generated for that node.
+Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) are tested, and a report is generated for that node.
 
-![screenshot of link checki](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
+![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
 
 ###### Accessibility Checking
 
@@ -106,13 +106,13 @@ Additionally, we have the preview server which shows content editors any accessi
 
 ##### Content Writers
 
-Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day, and `vets-website` deploys to staging take 20+ minutes. To allow content writers to move faster, there is a partial deploy, which only includes static page changes (`vagov-content` and Drupal).
+Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a partial deploy, which only includes static page changes (`vagov-content` and Drupal).
 
-Unfortunately, the partial deploys have no content validation. That means that content writers don't have a proactive way to learn if their content includes broken links or accessibility errors.
+Unfortunately, the content-only deploys have no accessibility checking. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.  
 
 ##### Users
 
-Content-only deploys create an opportunity for end users to encounter broken links and/or accessibility errors. This happens because content can bypass any content validation checks if it's deployed via the content-only deployment.
+To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. 
 
 ##### FE Tools team
 
@@ -164,7 +164,6 @@ Currently, invalid content is logged during staging deploys. And failed builds t
 
 ### Caveats
 
-- Our [function to determine if a link is broken](https://github.com/department-of-veterans-affairs/vets-website/blob/e8b68850fc83fdae4386fe4ab392770dde38faee/src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js#L16) doesn't check if external links are broken.
 - Our [accessibility check](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/assets/js/execute-axe-check.js#L8) only renders a banner on the preview server.
 
 ### Security Concerns
