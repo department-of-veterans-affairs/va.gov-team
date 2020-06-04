@@ -40,9 +40,9 @@ This study will take place June 10 - 12, 2020
 
 Date | Time
 -----|-------
-June 10 | TBD
-June 11 | TBD
-June 12 | TBD
+June 10 | 11AM - 4PM
+June 11 | 11AM - 4PM
+June 12 | 11AM - 4PM
 
 A pilot session will be held on TBD
 Pilot participant: TBD
