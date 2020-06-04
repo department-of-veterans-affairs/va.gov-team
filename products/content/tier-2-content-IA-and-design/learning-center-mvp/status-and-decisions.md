@@ -28,6 +28,7 @@ Some new functionality that was discussed:
 **Identified Areas for User Testing**
 
 The new tag system - by breaking up tags between "Topics" and "Audience", does this help users? The "Topics", for example, would be clickable and would take the user to articles tagged with that topic.
+
 When viewing a list of articles tagged with a topic, we are curious if the types of templates affects what the user chooses to read (FAQs, Checklist, Media List). Would knowing this kind of content be helpful to the user?
 Should we plan to conduct testing with the two identified user groups - Veterans, and groups who support Veterans?
 
