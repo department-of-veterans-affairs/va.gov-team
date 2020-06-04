@@ -27,7 +27,7 @@ This organization may change depending on our understanding of the flow.
 
 ### [Location](fe_services/location.md)
 
-### HealthcareService
+### [HealthcareService](fe_services/healthcare-service.md)
 
 ### Schedule
 
