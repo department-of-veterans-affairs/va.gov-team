@@ -10,7 +10,7 @@
 ----
 ## Sprint 23 (6/3 - 6/16)
 ```diff
-- TBD
+- 69 over 21 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
 - FE: Finalize end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
