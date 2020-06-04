@@ -42,7 +42,24 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 *Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
 
-## First Task: [TASK NAME] - X minutes
+# Scenario
+You are coming to VA.gov to look up the hours of your nearest VA facility. You notice that the search results have different alerts on them.
+
+## First Task: REVIEW CURRENT STATUSES - X minutes
+*Facilitator shows participant cards with statuses.*
+
+- Given these four statuses, what would these mean to you?
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+## Second Task: [CARD SORT] - X minutes
+*Facilitator shares OptimalSort link*
+Imagine that you could create your own categories
 
 - Step 1
 - Step 2
@@ -53,19 +70,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
+## Third Task: [REVIEW CATEGORIES] - X minutes
+Talk us through your decisions
+- Why did you choose [category name]?
 - Step 1
 - Step 2
 
@@ -77,8 +84,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- What would make you trust that the information on the listing/result is accurate?
+- How are you currently getting information on location hours, closures, etc.?
+- Are you interested in why a facility is closed or if the hours are affected? If so, please explain.
+- What reasons do you visit VA locations? How would these messages affect your visit?
+- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
