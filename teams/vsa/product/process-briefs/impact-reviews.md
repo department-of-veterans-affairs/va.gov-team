@@ -36,20 +36,21 @@ Every initiative—a new feature, a product launch, technical improvements—wra
     
  ## Narrative
  ### Launch our first Impact Review on 5/1 
-     * Presenters
-       - Facilities (Urgent Care MVP), Authenticated Experience (Direct Deposit, Address Validation), eBenefits (Rated Disabilities) teams
-     * What we hope to learn:
-       - KPIs - Survey scores
-       - Did we influence future decision-making?
-       - whether this should be a combined VSA/DEPO PM/PO exercise or just VSA PM
-     * Results
-       - On a scale of 0-10, how likely are you to recommend Impact Reviews to your teammates/colleagues/others?:
-         - Avg. 8.75
-       - Anecdotes
-         - "...bigger screenshots or switching between the presentation/actual VA.gov next time would be helpful so everyone has better context of the work!"
-         - "We might need to invite more people...but at the same time, I don't want it to be too enormous"
-         - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
-         - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
 
- * June Impact Review
-    * tbupdated
+   * Presenters
+     - Facilities (Urgent Care MVP), Authenticated Experience (Direct Deposit, Address Validation), eBenefits (Rated Disabilities) teams
+   * What we hope to learn:
+     - KPIs - Survey scores
+     - Did we influence future decision-making?
+     - whether this should be a combined VSA/DEPO PM/PO exercise or just VSA PM
+   * Results
+     - On a scale of 0-10, how likely are you to recommend Impact Reviews to your teammates/colleagues/others?:
+       - Avg. 8.75
+     - Anecdotes
+       - "...bigger screenshots or switching between the presentation/actual VA.gov next time would be helpful so everyone has better context of the work!"
+       - "We might need to invite more people...but at the same time, I don't want it to be too enormous"
+       - "...would be beneficial to add questions that are asked/commentary to the questions slide..."
+       - "...felt some relief at finally seeing initiatives highlighted and talked about in a way that was more about the "overall veteran experience" and not discrete "features""
+
+### June Impact Review
+  * tbupdated
