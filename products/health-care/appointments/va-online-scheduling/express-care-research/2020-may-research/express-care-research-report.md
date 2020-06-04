@@ -88,3 +88,23 @@ Several key themes emerged throughout our research:
 - Provide, in plain language, clarification around types of care Veterans can receive through "Express Care", who will be responding to their request, when they will get a response and how.
 - Conduct a more comprehensive audit of ways to schedule an appointment, both official and unofficial methods, in an effort to streamline this process. 
 - Incorporate "Express Care" and/or Telehealth resources immediately for Veterans to access. Dealing with coronavirus is an ongoing, uncertain matter and Veterans need tools to manage this situation and their health effectively. 
+
+## Research Findings & Recommendations
+
+### Overall, VA medical facilities operate differently, creating an inconsistent experience and rules across the VA ecosystem for appointment types, that must be standardized for "Express Care's" success.
+
+All Veterans identified areas of inconsistency and confusion with the Telehealth experience at VA, stemming from operational differences based on the types of care they most often receive, their most frequently visited facilities, physical location, and experience with Telehealth through VA. 
+
+### 1. "Express Care" recognition as a Telehealth option
+
+> Quotes go here
+
+Although VA has offered "Express Care" since 2017 and despite experience with VA Telehealth appointment, none of the participants could accurately describe "Express Care," although two participants saying they heard of it before. 
+
+Many of the participants differentiated "Express Care" from "same-day Telehealth" by describing the former as an in-person same-day type of care, versus the latter being a virtual visit. 
+
+While unfamiliar, in our sessions, most participants selected the "Express Care screener" option to initiate a same-day virtual appointment from the appointment screen, based on the content and context of this option from the landing page from the prototype. However, this option still presented confusion about what "Express Care" would accomplish for them.
+
+#### Recommendation: Use consistent, plain language content that accurately describes "Express Care" and utilize it throughout the VA.
+
+- 
