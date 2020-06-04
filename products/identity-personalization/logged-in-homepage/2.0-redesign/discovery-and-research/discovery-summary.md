@@ -254,7 +254,7 @@ The existing homepage, created as part of the 2018 redesign, [went through multi
 While we’re **not** changing anything about the logged-out homepage, we’ll need to review the new logged-in approach with stakeholders both inside and outside of DEPO. In order to not end up in a cycle of endless churn, we plan to:
 
 -	Have a strong strategy based on user research (this document!).
--	Lead with strong recommendations based on user insights when sharing work.  
+-	Lead with strong recommendations based on user insights and analytics when sharing work.  
 -	Be strategic about when and how we engage stakeholders outside of DEPO.
 
 ### Measuring the right metrics
