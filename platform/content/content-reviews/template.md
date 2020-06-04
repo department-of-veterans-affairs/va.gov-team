@@ -1,15 +1,15 @@
 
-# Content review and recommendations
+# Template for VSP content review feedback
 
 **Team:** 
 
-**Product/Tool:** 
+**Product/Tool/Form:** 
 
-**Status:**
+**Review stage:**
 
-**Background/context:**
+**Product description/background/context:**
 
-**Is there a static landing page that supports tool/feature?**
+**Is there a static landing page that supports this product/tool/form?** Y/N
 
 **Zenhub ticket:**
 
@@ -19,7 +19,11 @@
 ### Content feedback <br>
 
 
-***Feedback key** Must = Required; Should = Strongly encouraged/content best practice; Consider = Suggestion or possible enhancement* 
+***Feedback key** 
+
+Must = Required <br>
+Should = Strongly encouraged/content best practice <br>
+Consider = Suggestion or possible enhancement
 
 <hr>
 
