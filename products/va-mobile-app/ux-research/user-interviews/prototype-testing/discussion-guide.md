@@ -18,25 +18,22 @@ Before we start, there are a few things I want to mention:
 
 Those are all the logistics I wanted to share. Do you have any questions for me before we get started?
 
-# Warm Up (5 minutes)
+# Warm Up (3 minutes)
 First I’d love to want to learn more about your experience with VA.
 - Can you tell me about the last time you used VA.gov?
-  - What did you do?
-  - Was that a typical visit for you? 
+  - What did you do? Was that a typical visit for you? 
  
 - Do you use VA healthcare? 
   - Can you tell me about the last time you used MHV? 
-  - What did you do?
-  - Was that a typical visit for you?
+    - What did you do? Was that a typical visit for you?
 
 - Have you filed a claim with VA?
   - Can you tell me about the last time you logged into eBenefits?
-  - What did you do?
-  - Was that a typical visit for you?
+    - What did you do? Was that a typical visit for you?
 
 Thank you for sharing all that.
 
-# Build your own VA mobile app (25 minutes)
+# Co-design (25 minutes)
 
 ## Instructions (2 minutes)
 Let’s jump into the first portion of our conversation. [Share screen]. I want to tell you a bit about what you see here:
@@ -121,20 +118,20 @@ Now I’d like to show you an interactive prototype that I built and see what yo
 
 We started small with an app that can only do a couple things that we thought might be useful and important. Now that you’ve had a chance to share with us what is most critical for you, I’d like to share the work-in-progress prototype of some ideas we are thinking about including, and see what you think. Does that sound good?
 
-What I’d like you to do is navigate as freely as you want, click as much as you want, you can choose where we go here. Please click Start to begin.
+What I’d like you to do is navigate freely -- click as much as you want, you can choose where we go here. Please click **Start** to begin.
 
-## Questions for all features
-- Please take a minute to review this screen. What do you think? 
-- Would this be useful to you? 
-- Why or why not?
-- How would this change/have changed your experience with VA?
-
-## Probe towards a specific section of the app
-- Please navigate to the [title] section of the app. Where would you like to start here?
+## App exploration (5 minutes)
+I'll give you a couple minutes to explore. 
+- What do you think? 
+- Would what you see here in this app be useful to you? 
+  - Why or why not?
+- Is there anything here that definitely _wouldn't_ be useful to you?
+  - Why?
+- How would this change your experience with VA?
+- _Probe towards a specific section of the app: Please navigate to the [title] section of the app._
 
 ## Prototype wrap up (5 minutes)
 - Imagine you are talking to a friend who is also a Veteran and telling them about this app. What would you say?
-- How does this app compare to your app?
 - How does this app compare to how you interact with VA online today?
 - **Would you download this app?**
   - **If not, what would need to add from your app to push it over the line for you?**
