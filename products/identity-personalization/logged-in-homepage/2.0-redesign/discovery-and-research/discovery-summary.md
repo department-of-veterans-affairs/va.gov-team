@@ -201,7 +201,7 @@ Instead, we landed on an approach that would port existing application, claim, a
 -	A visual redesign of the My VA elements moving over to the logged-in homepage.
 -	A plan for how to include links to the existing top 20 tasks, which would include how to direct veterans to the records and documents.
 -	A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
--	Retiring My VA
+-	Retiring My VA.
 -	(Nice to have) Elevating overall disability ratings or GI bill balances.
 
 #### Out of scope
@@ -218,7 +218,7 @@ Phase 2 will allow us to make updates and modifications to phase 1. Many of thes
 -	Disability rating info if it’s not included in phase 1.
 -	GI bill balance info if it’s not included in phase 1.
 -	Considering whether some tasks can be completed right from the homepage, and implementing functionality to allow this.
--	Showing new data, or data in a different way (eg. could we should where a prescription is en route?).
+-	Showing new data, or data in a different way (eg. could we show where a prescription is en route?).
 -	Additional features that are deemed valuable (eg. most recent payments, housing grant balance, etc).
 
 ### Phase 3: A better first-time user experience and recommendations
