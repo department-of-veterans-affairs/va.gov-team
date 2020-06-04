@@ -21,18 +21,19 @@ Unauthenticated Experience for VA.gov
 ### Product Portfolio:
 -	Home Page 
 -	Header / Footer 
--	IA, Menus, Navigation 
--	Content Hubs 
--	Legacy content rewriting 
+-	Benefit Hubs 
 -	On-site Search
 -	Find a VA Form
+- Yellow Ribbon Participating Schools Tool
 -	Contact Us/ Help Utility
 -	Global Alerts
+- Learning Center (coming soon)
+- Campaign Landing Pages (coming soon)
 
 ### Responsibilities:
 We will develop and deliver the content, navigation, and tools that provide our customers the easiest way to find and act upon any VA service.
 
-Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov. 
+We will strategize, write, develop, and collaborate with others in unauthenticated content and products for Veterans on VA.gov. 
 
 ### Roadmap:
 [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/Public-website-2020-priorities-vision-012320.pdf)
@@ -47,6 +48,7 @@ Develop and assist other teams in unauthenticated content and products for Veter
 |DSVA Product Owner     |Jen Lee                             |
 |DSVA Product Owner     |John Hashimoto                      |
 |DVSA Content Lead      |Danielle Thierry                    |
+|DVSA Content Lead      |Beth Potts                         |
 |Product Manager        |Stephanie Orkand                    |
 |Front End Engineer     |Nick Sullivan                       |
 |Front End Engineer     |Kelson Adams                        |
@@ -58,12 +60,16 @@ Develop and assist other teams in unauthenticated content and products for Veter
 
 ### Popular Labels in ZenHub
 
+* vsa
 * vsa-public-websites
 * vsa-public-websites-intake
 * frontend
 * content
 * needs-grooming
 * design
+* Awaiting Feedback
+* research
+* Website redirects
 
 Milestones are set up as:
 * Public Websites Sprint xx
@@ -111,7 +117,6 @@ Assess and update workload for remainder of sprint
 
 For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
 
-- Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
 - Labels: _your team's labels_
