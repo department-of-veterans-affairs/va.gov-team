@@ -7,7 +7,8 @@ Logged-in homepage: Discovery summary
 
 Samara Strauss (samara.strauss@va.gov), Liz Lantz (liz.lantz@adhocteam.us), 06/03/2020
 
-## Background
+Background
+----------
 
 Based on the [2019 Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md), the Authenticated Experience team is pursuing a redesign of the existing logged-in homepage on VA.gov. This will involve retiring the current My VA dashboard and bringing people’s personal information right to their homepage.
 
