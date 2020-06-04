@@ -44,15 +44,11 @@ I have a few things I need to mention before we start:
 We'll be exploring made-up scenarios that don't necessarily apply to you. In any case you are free to use names and dates from your past--or even fake names and numbers. Nothing will be submitted because this is a test system. However, please don't use real social security numbers--1234567890 should work in those cases.
 
 ## Workflow set 1 scenarios
+1. You recently married and your spouse has two children. You want to claim all of them as dependents. One child is 15 and in high school. The other child is an 18-year-old who is going to college in the fall.
 
-1. You recently remarried after getting divorced. You need to add your new spouse as a dependent, and report that you are no longer married to your ex-spouse. (This scenario will involve add-spouse and report-divorce workflows either separately or in combination.)
-
-2. You now have an 18-year-old stepchild who is going to college in the fall. You never claimed this person as a dependent. (This scenario will require add-child and add-student (674) in combination.)
-
-3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your now 21-year-old stepchild just graduated college, and is no longer considered a dependent by VA. (This scenario will involve report-death and report-student-left-school workflows either separately or in combination.)
+2. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. And your now 21-year-old stepchild just graduated college and is no longer considered a dependent by VA. You need both of these items reported to the VA.
 
 # Usability tasks
-
 ### Introduction and checkbox selection | 5 minutes
 - Find out what you'll need to complete and submit the form for the particular scenario (above).
 - Select the options for your particular scenario (above).
@@ -95,11 +91,8 @@ We'll be exploring made-up scenarios that don't necessarily apply to you. In any
 ---
 
 ## Workflow set 2 scenarios
-1. You recently married and your spouse has two children. You want to claim all them as dependents. (This scenario will involve add-spouse and add-child workflows either separately or in combination.)
-
-2. Move forward years later, and you've had a recent divorce. Your ex-spouse and stepchildren have moved on. (This scenario will involve report-divorce and remove-stepchild workflows either separately or in combination.)
-
-3. Moving a few years in the future, two major events have occurred close together. Your spouse's elderly parent, whom you claimed as a dependent, has recently passed. You need to report this to VA. And your child is 17, but, with your consent, has recently married. You need to let VA know. (This scenario will involve report-death and report-child-marriage workflows either separately or in combination.)
+1. Move forward years later, and you've had a recent divorce. Your ex-spouse and stepchildren will need to be removed as dependents.
+2. Your 17-year-old child has recently married. You need to let VA know.
 
 ## Usability tasks
 
