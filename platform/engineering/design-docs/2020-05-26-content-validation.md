@@ -124,7 +124,7 @@ The validation of the static content coming from the CMS will occur during the M
 
 ### Detailed Design
 
-Currently, the static CMS content is only validated during the full deploy, which only happens once per day. To maintain some form of parity with that that process, the content validation will happen in a daily scheduled job.
+The content validation will happen in a daily scheduled job.
 
 ### Code Location
 
