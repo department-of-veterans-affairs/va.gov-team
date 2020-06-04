@@ -82,6 +82,10 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
+Link checking was also added to the CMS. Everytime a node is saved, every link (both internal and external) are tested, and a report is generated for that node.
+
+![screenshot of link checki](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
+
 ###### Accessibility Checking
 
 The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81), which only happens during the full `vets-website` build.
