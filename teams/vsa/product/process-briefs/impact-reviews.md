@@ -3,10 +3,10 @@
 The VA is scaling digital services through VA.gov. New experiences are prioritized and existing experiences are improved. 
 We prioritize initiatives that support VA.gov’s role as the VA’s digital front door. These initiatives help Veterans and others to find, apply, track, and manage VA benefits. 
 Products are built and improved in part through various VA.gov teams, including VSA.
-## Complication 
+## Opportunity 
 
-We don't share the impact of the things we work on as often as we should. 
-If we do, it's localized to a few people or a given team. 
+We have an opportunity to share the impact of the things we work on more often.
+Right now, it might be localized to a few people or a given team. 
 That means we may not take advantage of quantitiative results to drive future decision-making. 
 And we it means we may not celebrate the impact we have on Veterans beyond the launch of particular feature.
 
