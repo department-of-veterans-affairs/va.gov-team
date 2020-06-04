@@ -59,6 +59,7 @@ You are coming to VA.gov to look up the hours of your nearest VA facility. You n
 
 ## Second Task: [CARD SORT] - X minutes
 *Facilitator shares OptimalSort link*
+
 Imagine that you could create your own categories
 
 - Step 1
