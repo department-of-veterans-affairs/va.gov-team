@@ -1,4 +1,4 @@
-# Feature Brief: Hardening of VAMC Joint Editorial Ownership pages (WIP)
+# Feature Brief: VAMC Content modeling: Joint Editorial Ownership pages (WIP)
 
 This document will focus on the hardening of selected VA Medical Center (VAMC) pages. 
 
@@ -45,6 +45,7 @@ As the VAMC page relaunch rolls out to more VISNs, it will be important to ensur
 _What's in and what's out?_
 
 In scope: 
+- Creation of reusable content
 - Governance
 - Expansion of the existing content model 
 - Creation of new content types 
@@ -53,7 +54,8 @@ In scope:
 Out of scope: 
 - Migration and change management (will be handled by the VAMC upgrade team)
 
-This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content and minimal need for localized edits. 
+This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content, minimal need for localized edits and potential for resuability.  
+  - Facility health services
   - "Top-Task" pages (from the Veteran's point-of-view)
     o  Make an appointment
     o  Register for care
