@@ -15,6 +15,8 @@
 | Dror Matalon | DEPO | Product Owner |
 | Alex Pappas | VSP BE Tools | Product Manager |
 | Keifer Furzland | VSP BE Tools | BE Engineer |
+| - | VSP FE Tools | FE Engineer |
+
 
 ---
 
@@ -95,6 +97,17 @@ Maturity level of a given product could be:
 
 
 ## Solution Approach
+
+SLOs are a vital tool in an organization's decision making toolkit. This design includes tools and processes that will
+directly involve engineers, product owners, and stakeholders.
+
+
+1. Understand and document what to measure and why it matters
+1. Define and approve service level indicators, objectives, and error budgets
+1. Configure monitoring and reporting tools so that VFS stakeholders can make the right decisions
+
+These steps are repeated as needed throughout the Collaboration Cycle. VFS teams are responsible for setting and
+maintaining their products to meet defined SLOs.
 
 This product includes collaboration cycle process amendment as well as a collection of documentation and tools for
 working with SLOs.
