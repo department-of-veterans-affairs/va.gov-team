@@ -16,7 +16,9 @@
 
 ### Project-specific setup
 - [ ] Make sure a copy of the guided documentation has been created for the participant
+- [ ] Make sure link sharing is on so the participant can access the Google doc
 - [ ] Open link to this participant's guided documentation.
+- [ ] Set up group DM in Slack with the participant, moderator, observers, and notetakers
 
 ## Intro - 5 minutes
 
@@ -44,81 +46,55 @@ Before we start, a few things I want to mention:
 - What documents, if any, do you reference to supplement the information provided in the forms library documentation?
 - Are there any other thoughts you have about the current forms library documentation?
 
-## First Task: Navigate to the forms library documentation
+Alright! Thank you so much for that input, that is really helpful for us to hear. Now we're going to transition to the activity and I'll start by sharing my screen and going over the instructions.
 
-- To start, let’s talk a bit about the forms library documentation. Are you familiar with the forms library? 
-    - If NO, introduce the site and skip to second task.
-- What role does it play in your day-to-day work?
-- _Ask participant to begin sharing their screen, confirm it's working_
-- Will you show us how you navigate to it?
-- About how frequently do you reference it?
+_Moderator: Navigate to guided documentation for participant, share screen_
 
-### Things to watch for:
-- Do they know about it?
-- Have they bookmarked it?
-- Watch for trouble finding it: Searching in Slack, searching in Github
+## Diary study activity: Guided documentation
 
-## Second Task: Evaluate current structure and IA
+- Can you see my screen okay?
+- So what you are looking at here is a Google doc that has a series common examples of form components and instructions on how to fit all the parts together.
+- In addition, you'll notice that throughout the Google doc, there are comments in the sidebar providing an _additional_ layer of instructions and asking you questions and asking for your feedback about the document.
+- What we're asking you to do for the next 30 minutes is to follow the instructions in the [blue box] and in the comments throughout this document. We'll end the video call and let you do this asynchronously on your own, and then after 30 minutes we'll come back together and wrap up. If you get stuck or run into trouble, that is totally okay! There's nothing you can do wrong here, and anything you experience is helpful for us to improve these documents. However, if you get _really_ stuck and need to "phone a friend," we have set up this DM in Slack with you - please send us a message there and we can come back together. 
+- I'll keep a timer for 30 minutes, and then re-open our Zoom link so that we can ask you a couple more questions and wrap up. I will send the zoom link to our DM after 30 minutes have passed. 
+- If you finish before 30 minutes is up, send a message to that same group DM and we can re-convene a little early. And if you don't finish all of the tasks in this time period, that is also totally okay. We want to be respectful of your time and not keep you longer than our allotted hour. 
+- Do you have any questions so far?
+- Okay, let's look at the first task together to make sure we're all on the same page.
 
-- Does this documentation have all the information you need to reference to do your work?
-- Do these options [side navigation] reflect how you organize and think about your work? 
-    - Why? 
-    - Why not? 
-    - In what way is it different?
-    - Possible follow up: How do you organize and think about your work?
-- What parts of the documentation site have you found useful?
-- What is an example of a question you’ve attempted to answer using the documentation site?
-- Walk us through the process of how you would find the answer to that question. (share screen, click through documents, think aloud)
+_Scroll down to first task_
 
-## Third Task: Identify gaps and areas that need clarity
+_Read task aloud_
 
-- What types of questions has the documentation successfully answered for you?
-- What questions do you still have after referencing this documentation site?
-- What types of decisions does this documentation help you make? 
-    - Why?
-- Is this different from your expectations/desires?
-- What types of decisions is this documentation NOT useful for? 
-    - Why?
-- How do you get those questions answered?
-- What other resources play a role in your day-to-day work building forms? 
-    - If there are links, can you send them to us?
-- At what point in the process has this documentation been the most helpful? 
-    - Least helpful? 
-    - Why?
-- Are there any sections in particular that standout as useful? 
-    - Not useful? 
-    - Why?
+_Demonstrate adding a comment with the response_
 
-## Fourth task: Evaluate effectiveness of recipe format
+_Send participant the link_
 
-Thank you so much for all of your input and feedback. Alright, now I’m going to ask you to take a look at some new documentation we’ve been working on. Remember, we are *not* testing you in any way. There is nothing here that you can get “wrong” - you are helping us determine how to make it better. There are no wrong answers!
+- Can you access the document? _Confirm they can get into the doc_
+- What questions do you have before we let you get to it?
 
-_Share link to recipe format_
+Okay, unless we hear from you in the direct message, we'll see you in 30 minutes.
 
-- What I’ll ask you to do first is read this [Document? Section? Set of instructions?] and tell me what it’s instructing you to do.
-- Imagine you are building a form, and have already set up the basic framework and overall flow for each screen. Based on this [recipe], what is it asking you to do next?
-- What steps would you take?
-- What questions does this spark, if any?
-= Does this format seem relevant to engineering decisions you have to make about how your form is built? 
-    - Why? 
-    - Why not?
-- Does this reflect how you think about your work? Why? How? Why not?
+_End the zoom call_
 
-[This section will probably need to be updated once the recipe type of format is ready]
+_Start 30 minute timer_
 
-## Post-Task Interview
+_Monitor Slack DM to field for questions or messages from the participant_
 
-That covers all of the things we wanted to talk about with you today! 
+_After 30 minutes, send message to group DM with zoom link prompting everyone to re-join the Zoom call._
 
-- Are there any other thoughts you’d like to share about this documentation site?
+## Post-activity interview
+
+- What is your general reaction to this style of guided documentation? 
+    - _Additional clarity if needed: NOT the instructional layer of Google comments, but the contents of the Google doc itself)_
+- What questions do you have after reading this document?
+- Do you have any other thoughts or feedback you'd like to share before we wrap up?
 - Is there anyone else you think we should talk to about this?
-- Before we wrap up, do you have any questions for me? 
-- Please send any links that you mentioned to #vsp-content-ia
+- Please send any links that you mentioned to our group DM in Slack
+- We will take a look at your comments in the document and may follow-up with you if we have additional questions.
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on our documentation and make sure it works for developers.
+Thank you so much for doing this with us. Your input it really valuable and helps shape the type of support that we give to VFS teams, and we really appreciate your time.
 
-Great, well thank you so much again, and enjoy the rest of your day!
-
+Have a great day!
 
