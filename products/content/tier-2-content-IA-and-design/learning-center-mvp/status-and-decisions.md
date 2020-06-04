@@ -14,8 +14,8 @@ The Learning Center aims to house additional help information, knowledge article
 
 **MVP and Requirements**
 
+The content below does not replace or substitute the product outline. 
 We plan to use VA.gov account information for this "MVP."
-We anticipate that most users will enter the Learning Center organically, via a search or link somewhere. 
 Some new functionality that was discussed:
 * New/updated Search box with the ability to search within the learning center or va.gov (this is in the learning center, at the top of the pages)
 * Tag system - 'Topics' and 'Audience'
@@ -26,7 +26,15 @@ Some new functionality that was discussed:
 * Ability to pull Youtube video, content in for Videos. 
 
 **Identified Areas for User Testing**
+
 The new tag system - by breaking up tags between "Topics" and "Audience", does this help users? The "Topics", for example, would be clickable and would take the user to articles tagged with that topic.
 When viewing a list of articles tagged with a topic, we are curious if the types of templates affects what the user chooses to read (FAQs, Checklist, Media List). Would knowing this kind of content be helpful to the user?
 Should we plan to conduct testing with the two identified user groups - Veterans, and groups who support Veterans?
+
+**Next Steps**
+
+A goal of the meeting was to determined what first steps we should take to move this initiative forward. 
+1. User testing is desired, but we would like to have a prototype (clickable) available to test with
+2. Defining questions that we wish to answer through user testing (research planning - meeting(s) to take place soon)
+3. Follow-up on CMS next steps, and prototyping: should we prototype in Drupal, or something else? Stephanie to schedule a discussion for this topic
 
