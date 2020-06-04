@@ -1,3 +1,24 @@
+# 20200603
+
+## Agenda
+- dependency management tools
+- TypeScript 
+
+## Notes
+- TS 
+  - metalsmith 
+  - ops dashboard (react + nextjs) 
+  - more complicated, slower
+  - doesn't solve any specific problems like passing around large objects
+- Ops dashboard - made a ticket 
+
+## Agenda
+- tech debt and documentation 
+- ops dashboard 
+
+## Notes
+- should we update documentation? where should we put it?
+
 # 20200520
 
 ## Agenda
