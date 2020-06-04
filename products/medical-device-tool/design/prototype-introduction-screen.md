@@ -5,6 +5,7 @@ Navigation: <br>
 **Use case - Veteran is deceased:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-1) <br>
 **Use case - No items are eligible for resupply:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-2)<br>
 **Use case - Veteran is not eligible for the benefit:** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-3) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-3)<br>
+**Use case - Internal server error (error 500):** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description-4) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content-4)
 
 ## Default 
 
@@ -138,3 +139,22 @@ Our records show that you aren’t eligible to order hearing aid batteries and a
 If this information is incorrect, contact your audiologist to update your record.
 [Find contact information for your VAMC with the facility locator.](https://www.va.gov/find-locations/)
 ```
+
+## Use case - Internal server error (error 500)
+
+## Description 
+This is a general alert that will be displayed if there is an internal server error. [Reference the InVision mockup](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/420368430_Error_500) for appropriate alert component styling. 
+
+### Content
+**Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
+
+```
+Home > Health care > Order hearing aid batteries and accessories
+
+# Order hearing aid batteries and accessories
+Equal to VA Form 2346 (Request for Batteries and Accessories)
+
+[Error alert] We’re sorry. Something went wrong on our end.
+You can’t place an order for hearing aid batteries and accessories because something went wrong on our end.
+What you can do [h5 (Bitter bold size 15)]
+For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
