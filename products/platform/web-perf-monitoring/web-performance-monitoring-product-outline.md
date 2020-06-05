@@ -1,3 +1,5 @@
+See the v2 of this document - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/web-perf-monitoring/web_perf_monitor_prod_outline_v2.md
+
 # Website Performance Monitoring Product Outline
 
 #### Communications
