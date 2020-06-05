@@ -87,6 +87,9 @@ _After 30 minutes, send message to group DM with zoom link prompting everyone to
 - What is your general reaction to this style of guided documentation? 
     - _Additional clarity if needed: NOT the instructional layer of Google comments, but the contents of the Google doc itself)_
 - What questions do you have after reading this document?
+- Are the code examples complete and accurate?
+- Are these examples clear on when to use each one?
+- Have you run into any tasks that could use an example in this structure?
 - Do you have any other thoughts or feedback you'd like to share before we wrap up?
 - Is there anyone else you think we should talk to about this?
 - Please send any links that you mentioned to our group DM in Slack
