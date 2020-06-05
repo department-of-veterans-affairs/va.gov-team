@@ -64,7 +64,7 @@ Several key themes emerged throughout our research:
 - COVID
 
 | Number of participants who...                                | #    | %    |
-| ------------------------------------------------------------ | ---- | ---- |
+| ------------------------------------------------------------ | ---- | ----: |
 | Said they knew about / heard about "Express Care"*           | 2    | 18%  |
 | Have used VA Telehealth before                               | 10   | 91%  |
 | Expect a response from a medical professional                | 10   | 91%  |
@@ -79,6 +79,19 @@ Several key themes emerged throughout our research:
 | would use "Express Care" / Telehealth for COVID screening    | 11   | 100% |
 
 **None of the participants could accurately define "Express Care", even if they said they knew what it was.*
+
+#### Scheduling methods
+
+Participants use a variety of methods to schedule their VA appointments. Some participants use more than one method. No one mentioned using new VAOS.
+
+| Scheduling method | # | % | 
+|----------------------- | ----: | ----: |
+| Phone | 9 | 81% |
+| Secure Messenger | 5 | 45% |
+| Legacy VAOS (MHV) | 4 | 36% |
+| During in-office visit | 3 |  27% |
+| Reminder from VA (RTC aka return to clinic) | 1 | 9% |
+| New VAOS | 0 | 0 |
 
 
 ### Recommendations overview
