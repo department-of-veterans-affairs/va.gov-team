@@ -33,9 +33,9 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | View appointments  | 0.38%  | 1,375,014 |
 
 
-Also include:
+Coming soon:
 - ALL pages (MHV + EB)
-- entry points.
+- Top entry points
 
 
 
