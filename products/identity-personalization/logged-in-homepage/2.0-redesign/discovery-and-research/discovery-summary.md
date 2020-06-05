@@ -194,16 +194,16 @@ In our comparative analysis, we saw [new information displayed in the top portio
 First, we'll break this work into three projects:
 
 - The logged-in homepage redesign.
-- A logged-in navigation.
-- A notification center.
+- Creation of a logged-in navigation.
+- Creation of a notification center.
 
 We'll work on the logged-in homepage redesign first. As time and resources allow, work on the logged-in navigation (in partnership with the IA and public websites teams) and notification center.
 
 For the logged-in homepage redesign, we'll break the project into at least three phases:
 
-- **Phase 1**: Transfer the personalized info currently on My VA (in progress-application and claims; benefit information) to the logged-in homepage and retire My VA.
+- **Phase 1**: Transfer the personalized information currently on My VA (in progress-application and claims; benefit info) to the logged-in homepage; Retire My VA.
 - **Phase 2**: Improvements to phase 1; Additional features if applicable.
-- **Phase 3**: Improvements to the first-time user experience; Potential benefit recommendations
+- **Phase 3**: Improvements to the first-time user experience; Potential benefit recommendations.
   - Note: We will have a basic first-time user experience in phase 1.
 
 ### Developing design patterns for authenticated tools
