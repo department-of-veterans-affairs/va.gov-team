@@ -7,17 +7,30 @@ Sessions expire after 30 minutes. So users may have visited the site, done nothi
 ### Top 25 pages viewed (modernized VA.gov pages only)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov are doing these tasks: 
 
-| Task  | % of page views | # users |
+| Task  | % of page views | # of users |
 | :--- | ---: | ---: |
 | Go to VA.gov homepage  | 13.52%  | 48,345,852 |
-| Check claim or appeal status  | 7.25%  |
-| Sorry — we can’t find that page  | 6.95%%  |
-| Track claims  | 6.836%  |
-| Sign in  | 3.12%  |
-| Track claims  | 3.03%  |
-| Search  | 1.54%  |
-| Go to myVA  | 1.33%  |
-| Sign in  | 1.2%  |
+| Check claim or appeal status  | 7.25%  | 25,939,463 |
+
+| Sorry — we can’t find that page  | 6.95%%  | 24,837,572 |
+
+| Track claims  | 6.83%  | 24,420,015 |
+| Track claims  | 3.03%  | 10,840,188 |
+
+| Sign in  | 3.12%  | 11,163,904 |
+| Sign in  | 1.20%  | 4,307,582 |
+| Sign in  | 1.02%  | 3,665,213 |
+
+| Search  | 1.54%  | 5,513,945 |
+
+| Go to myVA  | 1.33%  | 4,764,931 |
+
+| Find locations  | 1.00%  | 3,559,735 |
+
+| Post GI Bill Statement of Benefits  | 0.81%  | 2,880,367 |
+
+| Go to myVA  | 1.33%  | 4,764,931 |
+
 
 
 Also include:
