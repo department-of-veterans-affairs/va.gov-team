@@ -16,13 +16,12 @@ How might we empower VFS teams to develop an application with as minimal support
 
 
 ## Undesired User Outcomes
-TBD version 2
+
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+TBD
 
 ## Undesired Business Outcomes
 
@@ -31,38 +30,49 @@ TBD version 2
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+TBD
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+TBD
 
 ### OKRs
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+TBD
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
+- Not all teams will fall into a perfect fit for this solution and there will still be a need for platform reviews as vets-api doesn't have a clear delineation of "products" like vets-website does.
+- All files that are common to all applications will still need Platform approval.
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+### Analyze Historical pull requests
+
+Using the VAOS team as an example, we will look back at the pull requests that have been submitted and identify how many of those pull requests would have matched the proposed rules (listed below).  Look at these pull requests, estimate the percentage of reduction the platform team would have needed to review.
+
+
+### Run Test with new pull requests with one team
+For this experiment we have chosen to work the VAOS team.  The Details of the setup are as follows:
+- Created verified there is a github team that can be assigned that includes only the devs on the VAOS team (This is similar to the backend-review-group but does not include any platform team developers)
+- Assigned the VAOS team to the code that they owned.  This was done by placing the following code in the Code owners file (located in the vets-api repo in the .github folder).
+
+"#" Experiment for isolating VFS teams
+modules/vaos/                        @department-of-veterans-affairs/vfs-vaos
+spec/support/*/vaos/                 @department-of-veterans-affairs/vfs-vao
+
+In the future, each time the VAOS teams submits a PR that changes any of the files listed above, they will be notified to self review (within their team) and the platform team will not be notified.  The hope is this speeds up their development as they won't have to wait for us to review the code changes in those files.
+
+All other files will remain in the current process and need to be reviewed by the platform team (backed-review-group).
 
 ## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+TBD
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+TBD
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+TBD
 
 ---
 
@@ -86,10 +96,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
+- Team Name: BE Tools
+- GitHub Label: tools-be
+- Slack channel: #vsp-tools-be
+- Product POCs: Alex Pappas
+- Lead Eng: JP
 - Stakeholders: 
 
 </details>
@@ -99,9 +110,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Alex Pappas
+ - Engineering: JP
+ - Research/Design: N/A
  
 </details>
 
