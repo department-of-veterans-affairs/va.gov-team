@@ -11,7 +11,7 @@ The goal of our UX research is to validate or invalidate bets that were derived 
 This research report convers conversational interviews conducted May 4-13, 2020.
 
 # Purpose of May 2020 interviews
-The purpose of the May 2020 interviews was to better understand why and how Veterans choose the ways that they interact with VA using mobile technology and what gaps exist in VA's Veteran facing technology that would be best addressed by a flagship VA mobile app. Going into research, our hypothesis was: Veterans are interested in using a mobile app to manage some aspects of their VA benefits, and an authenticated app with personalization may add value to VA.gov.
+The purpose of the May 2020 interviews was to better understand why and how Veterans choose the ways that they interact with VA using mobile technology, and what gaps exist in VA's Veteran facing technology that would be best addressed by a flagship VA mobile app. Going into research, our hypothesis was: **Veterans are interested in using a mobile app to manage some aspects of their VA benefits, and an authenticated app with personalization may add value to VA.gov.** Our research confirmed this hypothesis and led us to define 4 functional groupings of user needs that can be met by an app. 
 
 # Research questions
 - What are all the ways Veterans manage their VA benefits (web sites, mobile apps, phone, in-person visits, VSO, etc.)?
@@ -30,7 +30,7 @@ The purpose of the May 2020 interviews was to better understand why and how Vete
 # Method
 - Sessions were conducted remotely via Zoom and scheduled for 60-minutes. 
 - Sessions were conducted over the course of two weeks beginning May 4 and ending May 13. 
-- We closely followed the discussion guide with some participants, whereas with other participants we allowed the interview to be more flexible to focus on their past interactions with VA. We took this approach because we wanted to give them space and time to share their experience.
+- We closely followed the discussion guide with some participants, whereas with other participants we allowed the interview to be more flexible to focus on their past interactions with VA. We took this approach because we wanted to give participants space and time to share their experience.
 
 ---
 
@@ -62,7 +62,7 @@ The purpose of the May 2020 interviews was to better understand why and how Vete
 
 - **Web, phone, in person**: All participants had called VA via phone and visited the VA in person, and a majority of participants had accessed VA.gov, but we did not explicitly discuss accessing VA.gov on mobile with all participants.
 
-- **About 50% of participants used My HealtheVet**: 2 participants had not been able to verify their identity in order to use MHV, a 2 other participants were not aware of My HealtheVet. Some participants were aware of My HealtheVet, but not aware of some of the features it offered. Overall, MHV was seen as valuable by those who used it because it removed the need to call or go into a VA facility: 
+- **About 50% of participants used My HealtheVet regularly**: 2 participants had not been able to verify their identity in order to use MHV, a 2 other participants were not aware of My HealtheVet. Some participants were aware of My HealtheVet, but not aware of some of the features it offered. Overall, MHV was seen as valuable by those who used it because it removed the need to call or go into a VA facility: 
   - “I use the messaging system, that’s the primary way that I’ve gotten to get my primary care physicians...it’s hard for me to just walk in and see him, so I send him a note.” -- P9
   - “I prefer to do as much as I can online.”-- P6
 
@@ -73,7 +73,7 @@ The purpose of the May 2020 interviews was to better understand why and how Vete
 - **There is a lack of awareness of VA apps.**
   - No participants had used VA apps. 
 
-- **Relationships are important**: 5/10 participants discussed experience with a VSO, and a majority of participants cited a particular person as helpful in their interaction with VA (e.g. VIST-coordinator, Health rep, local non-VA employee aides, counselor, MSA, VSO).
+- **Relationships are important**: 5/10 participants discussed experience with a VSO, and a majority of participants cited a particular person as helpful in their interaction with VA (e.g. VIST-coordinator, health rep, local non-VA employee aides, counselor, MSA, VSO).
   - "The VSO is awesome. I would actually be very upset if she left" -- P1
   - "I initially filed  with [a VSO] because the paperwork was so overwhelming" -- P7
   - "I did my own initial filing and that was a mistake...I didn’t have all the supporting documentation...[my VSO has] been involved in multiple appeals." -- P8
