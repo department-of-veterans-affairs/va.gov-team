@@ -109,9 +109,8 @@ We can test the performance of Va.gov against other government sites as a method
 - Measure the performance of va.gov as an indicator of VSP's success as a best-in-class platform.
 
 ## KPIs
-- % of Customer compliance across pratice areas
-  - FE Engineering: Meet or exceed performance budgets
-- Customer NPS
+- Top 10 landing pages for va.gov meet or exceed performace standards
+- 100% of new applications meet or exceed performance standards prior to launch.
 
 
 ## Current Phase Requirements
