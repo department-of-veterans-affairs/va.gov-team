@@ -11,24 +11,6 @@
 - Engineering POCs:
    - Nick Sullivan, VSA/AdHoc @Nick Sullivan
 
-## Table of Contents
-
-- [North Star](#north-star)
-- [User Problem Statement](#user-problem-statement)
-- [Assumptions](#assumptions)
-- [Requirements](#requirements)
-- [Discovery](#discovery)
-- [User Insights](#user-insights)
-- [Analytics](#analytics)
-- [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
-- [Implementation Info](#implementation-info)
-- [Solution Narrative](#solution-narrative)
-- [Implementation Info](#implementation-info)
-- [Service Level Objectives](#service-level-objectives)
-- [Testing](#testing)
-- [Keywords](#keywords)
-
 ## North Star
 Providing an **authoritative, optimized external presence on leading search engines (e.g. Google, Bing) and other discovery engines (e.g,. Google Maps, Alexa)** for Veterans fully aligns with our North Star goals of:
 - Increase the use of self-service tools, focusing on services most important to Veterans.
