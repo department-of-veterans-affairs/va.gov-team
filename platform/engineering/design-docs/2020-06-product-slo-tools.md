@@ -168,7 +168,7 @@ Here are a set of example SLO configurations for the VA.gov web search product:
     - name: web_search_uptime
       disable: false
       action: 'get'
-      address: 'v0/search'
+      address: '/search'
       objectivePercent: 99.99
       service_level_indicator:
         prometheus:
@@ -222,8 +222,6 @@ Datadog widgets will be built as the tooling is made available. These widgets ar
 _It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
-
-
 
 ### Code Location
 
@@ -306,7 +304,7 @@ Sprint 29
 
 Sprint 30
   - Research & iteration of feedback from :point-up:
-  - Collaboration cycle & documentation is updated with new process, launched to next teams
+  - Collaboration cycle & documentation is updated with new process, launched to all teams over Q3
 
 
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
@@ -347,7 +345,9 @@ We could build a distinct SLO dashboard in Grafana for each product.
 Product SLO Tools improvements we are considering for future iterations:
 
 - Automatic Report/Digest from templates (see External service monitoring)
-- Configuration for SLOs and reporting tools codified in TerraformA
+- Configuration for SLOs and reporting tools codified with Terraform providers
+    - [Datadog](https://www.terraform.io/docs/providers/datadog/index.htm://www.terraform.io/docs/providers/datadog/index.html)
+    - [Grafana](https://www.terraform.io/docs/providers/grafana/index.html)
 - Dedicated SLO reporting engine allows for generating reports on product SLO performance agnostic of metrics tool
 - Datadog widgets designed and configured for each Product and SLO
 - Automatic integration with PagerDuty for alerting teams when error budget is nearing depletion

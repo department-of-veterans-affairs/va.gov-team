@@ -17,12 +17,11 @@
 | Keifer Furzland | VSP BE Tools | BE Engineer |
 | - | VSP FE Tools | FE Engineer |
 
-
 ---
 
 ## Overview
 
-In order to improve the data-driven experience on VSP, we need to have a clear process in place for the entire Service level objective (SLO) lifecycle.
+In order to improve the data-driven experience on VSP, we need to have a clear process in place for the entire service level objective (SLO) lifecycle.
 
 ## Problem Statement
 
