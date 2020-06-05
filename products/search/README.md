@@ -2,8 +2,8 @@
 
 |Projects| Outline | Folder |
 |----|----|----|
-| Onsite Search | [Onsite Search outline ]()|[On-Site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|
-| Offsite Search|[Off-site Search Outline]()|[Off-site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|
+| Onsite Search | [Onsite Search outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|[On-Site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/onsite-search)|
+| Offsite Search|[Off-site Search Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|[Off-site Search project folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/offsite-search)|
 
 ## The Problem
 
