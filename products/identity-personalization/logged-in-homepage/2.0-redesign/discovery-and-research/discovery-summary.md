@@ -202,7 +202,7 @@ We'll work on the logged-in homepage redesign first. As time and resources allow
 For the logged-in homepage redesign, we'll break the project into at least three phases:
 
 - **Phase 1**: Transfer the personalized information currently on My VA (in progress-application and claims; benefit info) to the logged-in homepage; Retire My VA.
-- **Phase 2**: Improvements to phase 1; Additional features if applicable.
+- **Phase 2**: Improvements to phase 1; Addition of features if applicable.
 - **Phase 3**: Improvements to the first-time user experience; Potential benefit recommendations.
   - Note: We will have a basic first-time user experience in phase 1.
 
@@ -210,7 +210,7 @@ For the logged-in homepage redesign, we'll break the project into at least three
 
 This project’s success hinges on updating the existing patterns we have in our design system. Currently, patterns cater to unauthenticated content, which has left us with a lengthy and [cluttered mess on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research#observations-visual-design). There is a ton of great, personalized information on this page, but it is buried because we don’t currently have patterns that handle this kind of content well. 
 
-Having a scannable dashboard matters — we’ve seen that in the [positive response to the blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) — so we want to work with the VA platform team to figure out the best way to display authenticated content in a scalable, flexible way.
+Having a scannable dashboard matters — we’ve seen that in the [positive reaction to the blue sky prototype](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) — so we want to work with the VA platform team to figure out the best way to display authenticated content in a scalable, flexible way.
 
 ### Conducting regular user testing 
 
@@ -226,7 +226,7 @@ While we’re **not** changing anything about the logged-out homepage, we’ll n
 
 ### Measuring the right metrics
 
-We want the new logged-in homepage to be measured in more than page views (which will already be high because it’s the homepage) and link clicks (which are important, but not the whole story). We’re figuring out our objectives for this work so we can guide this work and get the right analytics in place to tell us how we’re doing.
+We want the new logged-in homepage to be measured in more than page views (which will already be high because it’s the homepage) and link clicks (which are important, but not the whole story). We’re currently figuring out our objectives so we can guide this work accordingly and get the right analytics in place to tell us how we’re doing.
 
 Preliminarily, we are thinking about monitoring:
 
