@@ -15,7 +15,7 @@ To start using Zenhub, you can follow the onboarding process described here:
 
 If after following the onboarding instructions above, you see a screen like the below stating "You have not been assigned a license; Contact an admin to request access", 
 
-<img src="zenhub-license-request.png" width="400" alt="zenhub license request"></img>
+![zenhub license request](zenhub-license-request.png)
 
 try to click the button to request a license, then wait 1 business day for access to be granted.
 
