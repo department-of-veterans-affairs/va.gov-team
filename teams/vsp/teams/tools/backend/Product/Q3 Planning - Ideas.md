@@ -20,10 +20,12 @@ This will be covered by our utility dev.  As of now, there will be 5 devs on the
 # Potential Platform Products
 
 ## Documentation 
-There are talks within each team/leadership about how our documentation is scattered through different repos/tools (gatsby).  It would be a worth while effort to go through the documents with a developer mindset and better organize and clean up the documents so VFS teams can more efficiently follow the process that we would like them follow.
+There are talks within each team/leadership about how our documentation is scattered through different repos/tools (Gatsby).  It would be a worth while effort to go through the documents with a developer mindset and better organize and clean up the documents so VFS teams can more efficiently follow the process that we would like them follow.
 
 ## Product Level SLOs
 RFC is being shopped around and after sign off this is a great candidate for Q3
+
+Q3 would be a great window to get existing VFS teams & products into the SLO lifecycle
 
 ## Demo App
 Has been asked for a few times.  We should flush this out a little more and see if it makes sense.
