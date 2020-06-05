@@ -191,16 +191,20 @@ In our comparative analysis, we saw [new information displayed in the top portio
 
 [In stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#perceived-project-risks), one of the main concerns raised was that a logged-in homepage redesign could easily suffer from endless churn. In order to avoid this, we have outlined an initial approach to scope the project into manageable pieces.
 
-- Break this work into three projects:
-  - The logged-in homepage redesign.
-  - A logged-in navigation.
-  - A notification center.
--	Work on the logged-in homepage redesign first. As time and resources allow, work on the logged-in navigation (in partnership with the IA and public websites teams) and notification center.
--	For the logged-in homepage redesign, break the project into at least three phases:
-  - **Phase 1**: Transfer the personalized info currently on My VA (in progress-application and claims; benefit information) to the logged-in homepage and retire My VA.
-  - **Phase 2**: Improvements to phase 1; Additional features if applicable.
-  - **Phase 3**: Improvements to the first-time user experience; Potential benefit recommendations
-    - Note: We will have a basic first-time user experience in phase 1.
+First, we'll break this work into three projects:
+
+- The logged-in homepage redesign.
+- A logged-in navigation.
+- A notification center.
+
+We'll work on the logged-in homepage redesign first. As time and resources allow, work on the logged-in navigation (in partnership with the IA and public websites teams) and notification center.
+
+For the logged-in homepage redesign, we'll break the project into at least three phases:
+
+- **Phase 1**: Transfer the personalized info currently on My VA (in progress-application and claims; benefit information) to the logged-in homepage and retire My VA.
+- **Phase 2**: Improvements to phase 1; Additional features if applicable.
+- **Phase 3**: Improvements to the first-time user experience; Potential benefit recommendations
+  - Note: We will have a basic first-time user experience in phase 1.
 
 ### Developing design patterns for authenticated tools
 
