@@ -15,17 +15,17 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Sorry — we can’t find that page  | 6.95%  | 24,837,572 |
 | Sign in  | 5.34%  | 19,136,699 | 
 | myVA  | 2.37%  | 8,505,980 | 
+| Download VA letters  | 1.59%  | 5,663,144 | 
 | Search  | 1.54%  | 5,513,945 |
+| Post GI Bill Statement of Benefits or benefit status  | 1.54%  | 5,497,137 | 
 | Find locations  | 1.38%  | 4,908,221 | 
-| Download VA letters  | 1.33%  | 4,730,059 | 
-| Post GI Bill Statement of Benefits or benefit status  | 1.26%  | 4,502,147 | 
 | Get veteran ID cards  | 0.89%  | 3,209,853 | 
 | Apply for healthcare benefits  | 0.82%  | 2,933,040 | 
 | How to apply for GI Bill and related benefits  | 0.78%  | 2,786,122 |
+| Profile and account  | 0.78%  | 2,781,478 | 
 | How to file a disability claim  | 0.74%  | 2,651,847 |
 | VA payment history  | 0.67%  | 2,402,817 |
 | Coronavirus FAQs  | 0.62%  | 2,205,680 |
-| Profile  | 0.53%  | 1,902,468 |
 | Log out  | 0.53%  | 1,886,815 |
 | Prescription refill and tracking  | 0.49%  | 1,743,520 |
 | Disability compensation  | 0.46%  | 1,656,304 |
