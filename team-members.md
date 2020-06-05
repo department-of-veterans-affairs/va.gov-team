@@ -33,4 +33,4 @@
 ### Content & Design
 - Martha Wilkes
 - Danielle Thierry
-- Trevor (a11y SME)
+- Trevor Pierce (a11y SME)
