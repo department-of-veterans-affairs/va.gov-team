@@ -1,48 +1,39 @@
-# Website Performance Monitoring
+# Website Performance Monitoring for New Application Launches
 
 ---
 ## Phase I: Moderated Testing
 
-#### Plan: HCA Website Performance Testing 
+#### Plan: VSF Team ready to launch to production
 ### Planning:
-- Desired date range or test duration: Feb 2020 - March 2020
-- Desired number of users: 2 Users
-- How you'll conduct the testing: Create a full team setup of performance metrics for HCA Team including performance budgets and setting up alerts in Slack
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
+- Desired date range or test duration: 
+- Desired number of users: 1 Team
+- How you'll conduct the testing: Provide a team with access to the Speedcurve and our documentation. Have them document performance tests run that demonstrate that their application meets or exceeds performance standards.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Testing  can be performed with an unpublished url or using a staging environment
 
 ### Results:
-- Number of users: 2 Users 
-- Number of bugs identified / fixed: 5/5
-- Was the data submitted (if any) easy for VA to process?: The data is stored in speedcurve right now, but we can export it to VA whenever we have a data storage option. Alerts are being sent to VA Slack and email summaries are going to the admin users.
-- Types of errors logged: Dashboard Setup issues, Team user management setup
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? N/A
-- If yes, what: N/A
+- Number of users:  
+- Number of bugs identified / fixed: 
+- Was the data submitted (if any) easy for VA to process?
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
+- If yes, what: 
 
 ## Phase II: Unmoderated testing
 
-#### Plan: Pilot Testing with Facilities Team
+#### Plan: Future VFS Team Launching to Production
 ### Planning:
-- Desired date range: 03/13/20 - 04/28/20
-- Desired number of unique users: 2
-- How you'll make the product available in production while limiting the # of users who can find/access it: N/A
+- Desired date range: 
+- Desired number of unique users: 
+- How you'll make the product available in production while limiting the # of users who can find/access it: 
 - "Success" criteria (by the numbers):
-  - Full set of checks run weekly for one url
-  - Performance Budgets are set for every metric
-  - Performance Budget alerts are successfully sent to Slack
-  - Number of performance budget alerts sent
-  - Weekly report of all metrics that exceed performance budgets 
 
 ### Results:
 - Number of unique users: 2 Users
 - Actual results
-  - [x] Full set of checks run weekly for one url
-  - [x] Performance Budgets are set for every metric
-  - [x] Performance Budget alerts are successfully sent to Slack
-  - [ ] Number of performance budget alerts sent
-  - [ ] Weekly report of all metrics that exceed performance budgets 
-- Was the data submitted (if any) easy for VA to process?: Alerts are being sent, Weekly email alert is being sent. Data is not being stored anywhere currently.
-- Types of errors logged: Onboarding & Setup, Offboarding
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? N/A
+
+- Was the data submitted (if any) easy for VA to process?:
+- Types of errors logged: 
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?
 - If yes, what: N/A
 
 
@@ -50,10 +41,10 @@
 
 ### Planning:
 - Desired date: ?
-- Post-launch KPI 1: VSP has setup 100% of VFS teams in Speedcurve
-- Post-launch KPI 2: Number of metrics that exceed performance budgets
-- Post-launch KPI 3: Performance gains per team per metric
-- Post-launch KPI 4: Number of optimization opportunities identified and scoped
+- Post-launch KPI 1: 100% of Teams Launching an application pass performance testing
+- Post-launch KPI 2: 
+- Post-launch KPI 3:
+- Post-launch KPI 4: 
 
 #### Create a full list of teams on VSP
 - [ ] Identify team admins (product leads, dev leads, FE devs)
