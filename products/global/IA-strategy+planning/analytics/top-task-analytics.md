@@ -1,18 +1,12 @@
 # Top task analytics 
 
-### The problem we're trying to solve:
-The VA.gov team has not had the resources to focus on how things are organized **across the whole veteran experience.** Information architecture (IA), content, and design need to work together. Any time a veteran interacts with the VA, it should be seamless.
+What do people do on VA.gov? To find out, we're using Google Analytics as a starting point.
 
-For IA strategy and planning, the information architects work with the **#ia-forum,** 8 people from DEPO (leads, product owners, content strategists, and designers). **The information architects are:**
-* DEPO: [Meg Peters](https://github.com/mpeterz)
-* Platform: [Mikki Northius](https://github.com/mnorthuis)
-<br></br>
-### First we’re evaluating and planning.
+### Top 25 pages viewed (modernized VA.gov pages only)
+This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to: 
 
-* **Step 1:** Evaluate the **overall health of VA.gov’s information architecture** using:  
-  * baseline testing of top tasks;
-  * analytics; and
-  * an expert review.
+
+
 
 
 
