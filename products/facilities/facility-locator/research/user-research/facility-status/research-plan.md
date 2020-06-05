@@ -44,8 +44,8 @@ June 10 | 11AM - 4PM
 June 11 | 11AM - 4PM
 June 12 | 11AM - 4PM
 
-A pilot session will be held on TBD
-Pilot participant: TBD
+A pilot session will be held on June 9, 2020 at 12PM EST.
+Pilot participant: Michelle Middaugh
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -53,6 +53,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Aricka Lewis, Leyda Hughes (leyda.hughes@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Aricka Lewis, Leyda Hughes	
-- Participant(s) for pilot test: 	
-- Note-takers: 	
-- Observers: 
+- Participant(s) for pilot test: Michelle Middaugh
+- Note-takers: Tressa Furner, Liz Lantz, Jennifer Strickland
+- Observers: Lance Sanchez, Gibran Rodriguez, Ethan Teague, Michelle Middaugh, Dave Conlon
