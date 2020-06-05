@@ -176,7 +176,9 @@ OKR: Improved/faster navigation to online tools
 
 - **Summer 2019**: Personalization 2.0 initial discovery/strategy completed.
 - **March 2020**: Kicked off logged-in homepage discovery
-- **April 2020**: DEPO takeholder interviews complete
+- **April 2020**: DEPO stakeholder interviews complete
+- **May 2020**: Research review, comparative analysis, analytics review, and user research.
+- **June 2020**: Discovery and final readout complete.
 
 ### Key Decisions
 
