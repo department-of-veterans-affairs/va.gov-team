@@ -62,7 +62,7 @@ Stakeholders described this type of task-based, personalized experience as [one 
 
 3.  We should leverage data to intelligently provide users with benefit recommendations and guide them to information about benefits they don't have.
 
-### Health care and disability are king.
+### Health care and disability benefits are king.
 
 Veterans are primarily using VA.gov to manage their health care and disability claims. In user research, we saw these items prioritized in almost every session, echoing [the findings from brand consolidation research conducted in 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md#brand-consolidation). This makes sense — these benefits require more management and active engagement (e.g. regularly ordering medication, checking for updates on a claim) when compared to other benefits, so veterans want easy access to these tools on their homepage.
 
