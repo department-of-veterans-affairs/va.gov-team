@@ -41,12 +41,13 @@ Example products include:
 
 ### High Level Design
 
-The high-level design of the Product SLO process includes these steps:
+The high-level design of the Product SLO lifecycle includes these steps:
 
 1. VFS Product team works in conjunction with the VSP Tools teams to define SLOs
-1. VSP Tools teams validates and configures the SLOs
-1. SLO configurations are used by the monitoring tool(s) to track and monitor SLO performance over time
+1. VSP Tools teams validates and configures the SLOs in the configuration catalog
+1. SLO configurations are used by the monitoring and reporting tools to track SLO performance over time
 1. Product stakeholders use the monitoring tool(s) to prioritize product work based on SLO performance
+1. SLOs are updated in response to iterated product performance objectives
 
 
 **Workflow Diagram**
@@ -54,7 +55,7 @@ The high-level design of the Product SLO process includes these steps:
 ```
 
     +----------------------------+               +---------------------------------------+    +--------------------------+
-    |                            +-----+---------+    SLO Configurations                 +--->>    Monitoring Tool(s)    |
+    |                            +-----+---------+    SLO Configurations Catalog         +--->>    Monitoring Tool(s)    |
 +-->+     VFS Product Team       |     |         +---------------------------------------+    +--------------------------+
 |   |                            |     |         |                                       |    |                          |
 |   +--------------^-------------+     |         |   type: Availability, Latency, etc.   |    |    Datadog SLO Widget    |
@@ -81,9 +82,9 @@ edit._
 
 ### Detailed Design
 
-Primarily, there are three distinct components to this design:
+Primarily, there are three distinct components to the initial design:
 
-- Collaboaration Cycle updates
+- Collaboration Cycle updates
 - SLO configuration catalog
 - Monitoring & Reporting tools
 
@@ -91,37 +92,36 @@ Primarily, there are three distinct components to this design:
 
 `TODO: Need input from the VSP Experience teams`
 
+The process of interacting with VSP teams to define initial SLOs will be at-home in the VSP Collaboration Cycle.
+
 **Read more about the VSP** [collaboration
     cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md)
+**Writing SLOs**[reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/how-to-write-your-slos.md)
 
+###### Notes:
 
-  - Each product has 1-4 SLOs based on optimal user experience
-  - VSP Tools teams help define SLIs in terms of available metrics
-  - Product team stakeholders approve SLOs as appropriate for the product
+- Each product has 1-4 SLOs based on optimal user experience
+- VSP Tools teams will help define SLIs in terms of available metrics
+- Product team stakeholders approve SLOs as appropriate for the product
 - Work with VFS teams to configure sensible initial SLOs for each product -
-    [reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/how-to-write-your-slos.md)
 - Assign/identify appropriate stakeholders & VFS team for each application, updating `product/` docs as needed here
 
-VFS team perspective:
+Steps from the VFS team perspective:
 
-- meet with VSP to do introduction of SLO requirement(s)
-- define initial SLO based on engineer & stakeholder perspective of the product's optimal user experience
-- get VSP and VFS stakeholder approval and consensus on practicality of proposed SLO definition
+- meet with VSP to do introduction of SLO requirement(s), answer questions
+- define initial SLO based on the product's optimal user experience
+- get stakeholder approval and consensus on practicality of proposed SLO definition
   - This is important for the SLO to be useful and effective
   - managers agree it's good enough for users, and anything below is unacceptable and worth spending engineering time to fix
   - developers agree that if error budget is exhausted, its worth spending time reducing risk to users
-  - operations and vsp engineers agree its defensible and maintainable without significant toil or burnout
-- translate into SLO configuration (being generous with initial thresholds)
-- open PR(s) to "ship" the SLO into production
+  - operations and VSP engineers agree its defensible and maintainable without significant toil or burnout
 - continually monitor based on alerting rules
 - follow protocol in collaboration cycle that engineering & product effort must be driven based on SLO performance
 
 ##### SLO Configuration Catalog
 
 SLOs, once defined, will be appended to a centralized version-controlled source-of-truth. This is written in a
-structured language (YAML) so that we can leverage it in the future building tools like reporting engines.
-
-The YAML schema is as follows:
+structured language so that we can leverage it in the future building tools like reporting engines.
 
 The most flexible way to approach this is in a configuration file format. `YAML` is used for portability, ease of
 use, and templating compatibility.
@@ -130,31 +130,30 @@ Here are a set of example SLO configurations for the VA.gov web search product:
 
 > Note: these are examples and subject to change. The objectives below may not reflect reality.
 
+<!-- TODO: Refer to devops repo configs for alerting -->
+
 `vets-api`
 
 ```yaml
   # $SLO_DIR/products/search/api-slo-config.yml
   ---
-  search:
-    category: api
-    action: 'index'
-    controller: 'v0/search'
-    description: >
-      This product provides site-wide search functionality for VA.gov
-    service_level_objectives:
-      - uptime:
-          type: availability
-          numerator: 'count of all good requests'
-          denominator: 'count of all requests'
-          thresholds: 99.9 # thresholds for reporting/alerting
-      - latency:
-          type: latency
-          numerator: 'promql-goes-here' # number of "good requests"
-          denominator: 'promql-goes-here' # number of "all requests expected to be good"
-          thresholds:
-            p99: 1000
-            p90: 500
-
+  name: Search # Name of the product or product component
+  description: > # Describe the product or product component
+    This product provides site-wide search functionality for VA.gov
+  service_level_objectives:
+    - name: api_search_uptime
+      disable: false
+      action: 'get'
+      address: 'v0/search'
+      objectivePercent: 99.99
+      service_level_indicator:
+        prometheus:
+          numeratorQuery: |
+            sum(
+              increase(api_rack_request_success{code~="5.."}[5m]))'
+          denominatorQuery: |
+            sum(
+              increase(api_rack_request_success[5m]))'
 ```
 
 `vets-website`
@@ -162,25 +161,23 @@ Here are a set of example SLO configurations for the VA.gov web search product:
 ```yaml
   # $SLO_DIR/products/search/web-slo-config.yml
   ---
-  search:
-    category: api
-    action: 'index' # which action?
-    controller: 'v0/search' # which endpoint?
-    description: >
-      This product provides site-wide search functionality for VA.gov
-    service_level_objectives:
-      - uptime:
-          type: availability
-          numerator: 'promql-goes-here' # number of "good requests"
-          denominator: 'promql-goes-here' # number of "all requests expected to be good"
-          thresholds: 99.9 # thresholds for reporting/alerting
-      - latency:
-          type: latency
-          numerator: 'promql-goes-here' # number of "good requests"
-          denominator: 'promql-goes-here' # number of "all requests expected to be good"
-          thresholds:
-            p99: 1000
-            p90: 500
+  name: Search # Name of the product or product component
+  description: > # Describe the product or product component
+    This product provides site-wide search functionality for VA.gov
+  service_level_objectives:
+    - name: web_search_uptime
+      disable: false
+      action: 'get'
+      address: 'v0/search'
+      objectivePercent: 99.99
+      service_level_indicator:
+        prometheus:
+          numeratorQuery: |
+            sum(
+              increase(http_request_success{code~="5.."}[5m]))'
+          denominatorQuery: |
+            sum(
+              increase(http_request_success[5m]))'
 
 ```
 
@@ -203,38 +200,38 @@ TODO: Need to look more into the edge case SLOs
 ```
 -->
 
-For the time being, we will use Prometheus notation for the meterics query language. This is because of existing tooling
-that exists which currently uses PromQL. Future iterations of the implementation may expand to support other metrics
-software - FluentD, DogstatsD, etc.
+For the time being, we will use Prometheus-style notation for the metrics query language. This is because of existing tooling
+that exists which currently uses PromQL. Future iterations of the implementation may expand to support other standards.
 
-TODO: Rewrite :point_up:
-
-- Error budgets generate (calculate with https://tryhexadecimal.com/sla-uptime-calculator) or something?
+Error budgets should be generated -  can calculate with https://tryhexadecimal.com/sla-uptime-calculator or something
+else similar.
 
 ##### Monitoring & Reporting
 
 Once SLOs have been defined, we will set up monitoring and alerting, so engineers are notified before error budgets are
 expended.
 
+Initially, we will configure a Grafana dashboard, accessible by SOCKS proxy, to monitor a rolling 14-day window.
+
+Datadog widgets will be built as the tooling is made available. These widgets are accessible without SOCKS access.
+
 - does the product and its transactions have a source of historical performance that work for the SLI?
 - if not, a low-fidelity health-check could be setup to act as a placeholder
-- time windows can vary, a rolling or calendar-aligned window for different reasons (this is part of the monitoring tool
-    imo)
-- Datadog/Grafana will be used as first step, in the future we'll build into the new tools
-- Datadog has so much cool stuff we'll be able to leverage outside of the SOCKS requirement
-
+- time windows can vary, a rolling or calendar-aligned window for different reasons
+-
 _It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
 
 _Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
 
-Reporting with MD templates (see External service monitoring)
-Generating stakeholder reports
+
 
 ### Code Location
 
 VFS-facing and VSP-facing documentation will live in the existing VSP documentation (currently GitHub VA.gov-team repository)
+
 SLO configuration YAML will exist in a dedicated repository generated by a script collecting all products from
-manifests.json
+manifests.json and validated/prettified w/ yaml-lint on git pre-commmit hook or github action?
+
 This script will live in an existing directory (or create vsp-toolkit repo for tools code)
 
 Reporting tool
@@ -315,6 +312,7 @@ Sprint 30
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
 
 ### Alternatives
+
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
 #### Define products and SLOs directly in [Datadog](https://www.datadoghq.com/blog/slo-monitoring-tracking/)
@@ -348,6 +346,7 @@ We could build a distinct SLO dashboard in Grafana for each product.
 
 Product SLO Tools improvements we are considering for future iterations:
 
+- Automatic Report/Digest from templates (see External service monitoring)
 - Configuration for SLOs and reporting tools codified in TerraformA
 - Dedicated SLO reporting engine allows for generating reports on product SLO performance agnostic of metrics tool
 - Datadog widgets designed and configured for each Product and SLO
