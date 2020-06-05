@@ -74,6 +74,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Top Recommendations (Best Bets) reflect new Forms experience via on-site search
 - "Find a VA form" footer link updated
 - Redirect from `/vaforms` to `/find-forms` implemented
+- Remove 'no-index' so that it becomes searchable
 
 ### Planning:
 - **Desired date:** Week of 5/4
