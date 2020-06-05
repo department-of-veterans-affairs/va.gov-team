@@ -22,7 +22,7 @@
         - [Users](#users)
         - [FE Tools team](#fe-tools-team)
         - [Anybody that is trying to ship code for the VA.gov front end](#anybody-that-is-trying-to-ship-code-for-the-vagov-front-end)
-    - [High Level Design](#high-level-design)
+  - [High Level Design](#high-level-design)
   - [Specifics](#specifics)
     - [Detailed Design](#detailed-design)
     - [Code Location](#code-location)
@@ -129,7 +129,7 @@ Invalid content causes warning logs during staging deploys, and breaks the build
 
 If invalid content is breaking the production build, and therefore blocking the production deploy, then no team on any contract is able to ship their frontend code to VA.gov.
 
-### High Level Design
+## High Level Design
 
 Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
 
