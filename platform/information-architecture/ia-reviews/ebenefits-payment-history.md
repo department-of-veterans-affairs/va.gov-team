@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:** eBenefits 
 
