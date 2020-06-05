@@ -34,25 +34,22 @@ Key findings
 
 ### People want a task-based logged-in homepage tailored to them.
 
-We conducted user research in which we asked participants to create the page they wanted to see when they logged in. One thing was clear in these sessions — [Veterans want a task-based, personalized homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). The pages they created demonstrated they knew exactly what they needed to manage their experience with the VA. When asked about the current logged-in homepage experience, many Veterans expressed that they were confused or frustrated by all the links on the logged-in homepage that aren't relevant to them.
+We conducted user research in which we asked participants to create the page they wanted to see when they logged in. One thing was clear in these sessions — [Veterans want a task-based, personalized homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-want-a-page-that-is-focused-on-current-information-specific-to-them-rather-than-generalized-information-for-all-veterans). The pages they created demonstrated they knew exactly what they needed to manage their experiences with the VA. When asked about the current logged-in homepage experience, many Veterans expressed that they were confused or frustrated by all the links on the logged-in homepage that aren't relevant to them.
 
 >  "Don't toot your horn on my page. Let me take care of my stuff, and I can get out of there."
 
 The pages our users created:
 
-- Gave them access to their most important tasks in one place
-
-- Provided them with important updates
-
-- Guided them to benefit information and recommendations
-
-- Minimized content that wasn't specific to them
+- Gave them access to their most important tasks in one place.
+- Provided them with important updates.
+- Guided them to benefit information and recommendations.
+- Minimized content that wasn't specific to them.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p14.png)
 
 *Example of a page created in our user session. User created a personalized homepage with dedicated section linking off to other pages (education page shown as example)*.
 
-Stakeholders described this type of task-based, personalized experience as [one of their goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#stakeholder-goals) during our interviews. We also saw this standard set in our [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples), in which every private-sector site we looked at had a logged-in experience that was tailored and different from their logged-out marketing sites. Analytics also confirm that [logged-in users are very task-oriented compared to logged-out users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#logged-in-vs-logged-out-why-do-people-come-to-the-site-what-do-they-do-here).
+Stakeholders described this type of task-based, personalized experience as [one of their goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#stakeholder-goals) during our interviews. We also saw this standard set in our [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples), in which every private-sector site we looked at had a tailored logged-in experience. Analytics also confirm that [logged-in users are very task-oriented compared to logged-out users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#logged-in-vs-logged-out-why-do-people-come-to-the-site-what-do-they-do-here).
 
 **Recommendations**
 
