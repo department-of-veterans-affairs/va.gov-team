@@ -7,7 +7,7 @@ For IA strategy and planning, the information architects work with the **#ia-for
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 <br></br>
-### First we’re figuring out where to begin IA work.
+### First we’re planning IA work.
 
 * **Step 1:** Evaluate the **overall health of VA.gov’s information architecture** using:  
   * baseline testing of top tasks;
