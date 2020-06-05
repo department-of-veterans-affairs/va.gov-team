@@ -75,8 +75,8 @@ This method will allow members of the Hummingbird team to observe sessions and a
 We will use the Perigean zoom account. We will send a link to a Figma prototype and in the chat and ask participants to share their screen with us. We will share our screen when working in the Mural.
 
 ## What will you be testing?
-- [Prototype is work in progress, will update here w/o June 1]
-- [Exercise is work in progress, will update here w/o June 1]
+- We will test an interactive Figma prototype of VA mobile app
+- We will conduct a co-design exercise using Mural
 
 ## Participants and Recruitment
 - We would like to interview 6-8 Veterans for this generative research project. Participant criteria: 
