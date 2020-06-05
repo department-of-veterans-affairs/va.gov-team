@@ -2,12 +2,13 @@
 Provide standards and monitoring to help measure, evaluate, and govern website performance. 
 
 ## Performance Standards
-In order to track and monitor performance VSP has researched and documented a list of success metrics along with recommended thresholds that teams should not exceed. Through our monitoring software (Speedcurve) performance budgets for the metrics/thresholds will be established for all VFS teams.
+In order to track and monitor performance VSP has researched and documented a list of success metrics along with recommended thresholds that webpages should meet.
 
 List of [Performance Metrics and Thresholds](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/speedcurve/performance-standards.md#metrics)
 
-## Performance Monitoring  
-By leveraging the software application, [SpeedCurve](https://www.speedcurve.com), VSF teams can easily track, test and optimize UI performance for their application.
+## Performance Monitoring
+By leveraging the software application, [SpeedCurve](https://www.speedcurve.com), VA will monitor and track the top 10 landing pages on va.gov weekly against our performance standards. Alerts will generate if any of the pages dips below the performance metrics. The FE Tools team will then triage and optimize sub-performing webpages.
+All applications launching on the platform will go through performance testing to ensure it meets the VA's performance standards
 
 [Why did we choose Speedcurve?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/web-perf-monitoring/web-perf-monitoring-product-outline.md)
 
@@ -18,7 +19,7 @@ By leveraging the software application, [SpeedCurve](https://www.speedcurve.com)
 - Speedcurve allows teams to easily test the performacne impact of new code through their "Changes" and "Benchmarking" capabilities. 
 
 ### Optimize Performance
-- Speedcurve provides an emmense amount of detail to help teams quickly identify the root of performance issues.
+- Speedcurve provides an emmense amount of detail to help quickly identify the root of performance issues.
   - Slowest and Largest Requests
   - 3rd party blocking Requests and Long Tasks
   - Hero Rendering Times
@@ -45,6 +46,10 @@ By leveraging the software application, [SpeedCurve](https://www.speedcurve.com)
 
 
 ## Version Notes:
+### Release v0.2
+- Create top 10 landing pages for va.gov in speedcurve and activate alerts to be sent to leadership and FE Tools Team
+- Add a step to the collaboration cycle to test performance before launching a new application to production.
+
 ### Release v0.1
 - Establish VSP performance standards
 - Rollout Speedcurve to Facility Locator Team for feedback around setup and usage
