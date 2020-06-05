@@ -31,7 +31,7 @@ For IA strategy and planning, we work with the **#ia-forum,** a group of 10 from
 <br></br>
 ### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
 
-* **IA role and responsibilities:** The IA workshop kicks off July 20 (maybe sooner). As part of it, we'd like to discuss:
+* **IA role and responsibilities:** The IA workshop kicks off June 29. As part of it, we'd like to discuss:
   * Who does which IA work? (DEPO v. Platform)
   * How do we bridge between DEPO and Platform?
   * How do we balance current and future IA needs?
