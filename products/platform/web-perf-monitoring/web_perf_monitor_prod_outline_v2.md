@@ -44,8 +44,7 @@ The VA needs a proper performance monitoring process for the website to ensure w
 - A rolling 3-month average within Google Analytics will be used to identify the top 10 landing pages for VA.gov
   - Landing pages will proivde the best assessment of web performance since they require the downloading of webpage components (header, fonts, etc...) that subsequent pages do not require since they are then stored in the browser cache.
  - Performance Budgets will be checked weekly for the top 10 landing pages with alerts if they exceed performance targets.
- - Performance Alerts for va.gov will be sent to leadership
-  
+ - Performance Alerts for va.gov will be sent to the platform leaders and FE Tools Team.
   
 
 ## Questions
@@ -105,7 +104,8 @@ We can test the performance of Va.gov against other government sites as a method
 ## Value Propositions
 - Drive overall wesbite performance improvements for all veterens.
 - Empower VFS teams with recommendations for improving their applications web performance.
-- Provide an automated method of tracking web performance when new code is checked  in the effort to reduce the scope of work reviewed in a PR by VSP FE developers.
+- Provide a way to monitor the top landing pages for va.gov
+- Optimize any of the top landing pages for va.gov to ensure they meet performance standards.
 - Measure the performance of va.gov as an indicator of VSP's success as a best-in-class platform.
 
 ## KPIs
