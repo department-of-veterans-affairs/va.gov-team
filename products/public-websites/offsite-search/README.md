@@ -59,7 +59,7 @@ Providing an **authoritative, optimized external presence on leading search engi
 **If** _we take cumulative steps to improve our search optimization_ **then** _we expect VA.gov search engine referrals to materially increase_.
 
 ## OKR
-__
+- Higher average CTRs for VA.gov top keywords
+- Increase in organic Search Engine referral traffic
 
-## Definition of done
-### What must be true in order for you to consider this epic complete? 
+
