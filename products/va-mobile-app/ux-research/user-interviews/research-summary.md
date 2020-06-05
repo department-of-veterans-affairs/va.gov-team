@@ -132,7 +132,7 @@ It can be frustrating to not know if something is moving forward or not. Several
 Participants who participanted in this study were at different stages in their lives - some had left the military fairly recently, whereas others had left decades prior. However, partcipants at all stages expressed that it can be a pain point to discover what VA benefits are available to them, and what benefits they are eligible for. 
 - "I am frustrated that I never knew about these types of services once I exited the military." -- P1
 
-**There could be an opportunity for a mobile app to play a role in transition to being a Veteran. This would require more research into the resources currently available to Veterans in their transition.**
+**Insight: There could be an opportunity for a mobile app to play a role in transition to being a Veteran. This would require more research into the resources currently available to Veterans in their transition.**
 
 
 ___
@@ -161,8 +161,14 @@ Many participants mentioned their banking apps as useful because they allowed th
 - “I wouldn’t fill out my car loan but I would pay my car bill through a phone app.” -- P11
 - “If I need to find out info about VA on a particular benefit, I think that would be more of a long-term process or duration for 15-30 min, don't want to look at the phone.” -- P2
 
-## Some participants perceived current VA websites as too dense for mobile
-- “[I don’t use] MHV [on mobile] because my eyes aren't the same as they used to be - it’s hard to see. I’ll wait till I'm on my computer.” -- P12
+**Insight: A distinction between a flagship VA mobile app and VA.gov might be applying for benefits and completed more complex interactions.**
+
+
+## Some participants perceived current VA websites as too dense for mobile, and participants voiced that an easy to use and accessible UI is critical for them
+- “[I don’t use] MHV on mobile because my eyes aren't the same as they used to be - it’s hard to see. I’ll wait till I'm on my computer.” -- P12
+- "[What makes an app good?] When it's designed the site to be visible on a mobile app" -- P11
+
+**Insight: Large hit areas for buttons, comfortable information density, and thoughtful screenreader experience are important for a mobile app and should be considered from the beginning of the design and development process.**
 
 
 ___
@@ -209,10 +215,10 @@ Participants consistently stated that they thought a mobile app could improve th
 ## Next Steps
 1. This research led to the creation of 12 "How might a mobile app..." questions to guide brainstorming of mobile app feature ideas.
 2. Those feature ideas were sorted into 4 areas where a mobile app could benefit Veterans.
-  - Learning about how VA can help solve their problem
-  - Checking in on a status, doing quick transactions
-  - Continued support while working towards a solution for a longer term problem
-  - Standard mobile app features we think an MVP mobile app should have
+    - Learning about how VA can help solve their problem
+    - Checking in on a status, doing quick transactions
+    - Continued support while working towards a solution for a longer term problem
+    - Standard mobile app features we think an MVP mobile app should have
 3. Those areas were prioritized in a working product roadmap. 
 4. A prototype is being testing with Veterans the week of June 8, 2020 to help refine the most valuable features for an MVP mobile app. 
 
