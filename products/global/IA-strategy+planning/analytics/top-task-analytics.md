@@ -5,20 +5,20 @@ What do people do on VA.gov? To find out, we're using Google Analytics as a star
 Sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed, which counts as a new session.
 
 ### Top 25 pages viewed (modernized VA.gov pages only)
-This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to these pages. These numbers reflect the "long tail" (multiple appearances of the same page or task) within the top 50 pages. 
+This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to these pages. **These numbers reflect the "long tail" (multiple appearances of the same page or task) within the top 50 pages.**
 
 | Page / Task  | % of page views | # of users |
 | :--- | ---: | ---: |
 | VA.gov homepage  | 13.52%  | 48,345,852 |
-| Track claims  | 10.24%  | 36,610,952 | 
+| Track claims  | 10.58%  | 37,830,479 | 
 | Claim or appeal status  | 7.25%  | 25,939,463 |
 | Sorry — we can’t find that page  | 6.95%  | 24,837,572 |
 | Sign in  | 5.34%  | 19,136,699 | 
 | myVA  | 2.37%  | 8,505,980 | 
 | Search  | 1.54%  | 5,513,945 |
 | Find locations  | 1.38%  | 4,908,221 | 
+| Download VA letters  | 1.33%  | 4,730,059 | 
 | Post GI Bill Statement of Benefits or benefit status  | 1.26%  | 4,502,147 | 
-| Download VA letters  | 0.98%  | 3,476,907 | 
 | Get veteran ID cards  | 0.89%  | 3,209,853 | 
 | Apply for healthcare benefits  | 0.82%  | 2,933,040 | 
 | How to apply for GI Bill and related benefits  | 0.78%  | 2,786,122 |
