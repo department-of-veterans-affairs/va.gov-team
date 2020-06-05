@@ -19,6 +19,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Find locations  | 1.00%  | 3,559,735 |
 | Download VA letters  | 0.98%  | 3,476,907 | 
 | Get veteran ID cards  | 0.89%  | 3,209,853 | 
+| Apply for healthcare benefits  | 0.82%  | 2,933,040 | 
 | Post GI Bill Statement of Benefits  | 0.81%  | 2,880,367 |
 | How to apply for GI Bill and related benefits  | 0.78%  | 2,786,122 |
 | How to file a disability claim  | 0.74%  | 2,651,847 |
@@ -30,7 +31,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Disability compensation  | 0.46%  | 1,656,304 |
 | Post GI Bill Benefit Status  | 0.45%  | 1,621,780 |
 | Health account validation  | 0.45%  | 1,593,182 |
-| Apply for healthcare benefits  | 0.42%  | 1,510,923 |
+
 
 
 Also include:
