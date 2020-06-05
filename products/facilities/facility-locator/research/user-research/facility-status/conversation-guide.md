@@ -1,89 +1,64 @@
 # Conversation Guide for Moderated Card Sort - Facility Locator, Operating Status
 
-## Moderator logistics
+**June 2020 Discovery**<br>
 
-*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+### Setup
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+- [ ] Notifications off
+- [ ] Links to VA Locator: https://www.va.gov/find-locations/
+- [ ] Links to card sort: 
 
-*In the Attendees section, make sure everyone except the participant is on mute*
+## Intro - 3 minutes
 
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
-
-*Check your [screensharing setup]*
-
-*When the participant is ready, begin the session with the following intro*
-
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
-
-## Intro - 5 minutes
-
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding locations on the VA.gov website and the information you see on those location pages. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be participating in a card sorting exercise.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
-- **If for any reason and at any time you want to stop the session, please let me know.** 
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
-    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+- **This entire session should take about 45 minutes.** 
+- **First, we'll ask you to share your screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
+- **Then, you'll be participating in a sorting activity.** So, we will send you a link to a different website to do that activity. 
+- **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **Are you comfortable if I record this session** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.  
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
-
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Are you familiar with VA.gov's location finder? 
+- Have you had a reason to use it recently? What was that experience like?
 
-# Scenario
-You are coming to VA.gov to look up the hours of your nearest VA facility. You notice that the search results have different alerts on them.
+## First Task: REVIEW LOCATION FINDER - 10 minutes
+*Facilitator shares link and asks participant to share screen*
+https://www.va.gov/find-locations/ 
 
-## First Task: REVIEW CURRENT STATUSES - X minutes
-*Facilitator shows participant cards with statuses.*
+- I'd like you to think of a situation where you would want to look up a VA facility to know their hours and services. Can you try to do that search now?
+- Is this the right information that you would need?
 
-- Given these four statuses, what would these mean to you?
-- Step 2
+You notice that the search results have different alerts on them. There are many different events that can impact the hours and services that impact individual facilities. I'd like you to keep this in mind for our next exercise.
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: [CARD SORT] - X minutes
+## Second: REVIEW CURRENT STATUSES - 5 minutes
 *Facilitator shares OptimalSort link*
+*Facilitator points out the status categories.*
 
-Imagine that you could create your own categories
+- What do these statuses mean to you?
 
-- Step 1
-- Step 2
+## Third Task: [CARD SORT] - 15 minutes
+*Facilitator explains the card sorting activity.*
 
-### Things to watch for:
+On the left, you see a number of scenarios that can impact a VA facilities hours and services. I'd like you to review each on and sort them in under the status that makes the most sense to you. 
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+If you don't find a category that makes sense to you, you can create your own category but wherever possible, try to use the 4 existing categories.
 
-## Third Task: [REVIEW CATEGORIES] - X minutes
-Talk us through your decisions
-- Why did you choose [category name]?
-- Step 1
-- Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand meaning of the status categories]
+- [What language is unclear or confusing?]
 
-## Post-Task Interview - X minutes
+
+## Post-Task Interview - 15 minutes
 
 - What would make you trust that the information on the listing/result is accurate?
 - How are you currently getting information on location hours, closures, etc.?
@@ -92,7 +67,7 @@ Talk us through your decisions
 - Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
