@@ -36,16 +36,6 @@ Payment history tool | https://www.va.gov/va-payment-history/payments  | Home  >
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | [Home page](https://www.va.gov/) | https://www.va.gov/va-payment-history/ | Update link within Disability top task box to new URL
-Must | Top nav | https://www.va.gov/va-payment-history/ | Update link for "View VA payment history" in the each of the following fly-outs: Disability, Education, Pension, Records
-Must | [Disability hub page](https://www.va.gov/disability/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
-Must | Disability hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
-Must | [Education hub page](https://www.va.gov/education/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
-Must | Educaton hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
-Must | [Pension hub page](https://www.va.gov/pension/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" under "Manage" spoke to new URL
-Must | Pension hub left nav | https://www.va.gov/va-payment-history/ | Update link under "Manage" spoke to new URL
-Must | [Records hub page](https://www.va.gov/records/) | https://www.va.gov/va-payment-history/ | Update link to "View VA payment history" to new URL
-Must | Records hub left nav | https://www.va.gov/va-payment-history/ | Update link to new URL
 Must | [VA Payment History page](https://www.va.gov/va-payment-history/) | https://www.va.gov/va-payment-history/payments | Replace existing eBenefits content/button with sign in component and link to new tool. 
 Consider | [My VA](https://www.va.gov/my-va/) | https://www.va.gov/va-payment-history/ | Add a link to "View VA Payment History" along with teaser text under the "Manage your health and benefits" section of the page.  
 
