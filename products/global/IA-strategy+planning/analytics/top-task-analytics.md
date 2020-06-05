@@ -8,10 +8,14 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Task  | Page | % of page views |
 | :--- | :--- | ---: |
 | Go to VA.gov homepage  | /index.html  | 13.52%  |
-| "Other"  | ?  | 9.96%  |
 | Check claim or appeal status  | /claim-or-appeal-status/index.html  | 7.25%  |
-| "Other"  | ?  | 9.96%  |
-| "Other"  | ?  | 9.96%  |
+| Sorry — we can’t find that page  | /facilities/index.html?XXX  | 6.95%%  |
+| Track claims  | /track-claims/your-claims/  | 6.836%  |
+| Sign in  | /auth/login/callback?type=dslogon  | 3.12%  |
+| Track claims  | /track-claims/index.html  | 3.03%  |
+| Search  | /search/index.html  | 1.54%  |
+| Go to myVA  | /my-va/index.html | 1.33%  |
+| Sign in  | /auth/login/callback?type=idme  | 1.2%  |
 
 
 
