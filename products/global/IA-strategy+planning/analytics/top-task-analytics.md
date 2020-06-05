@@ -10,12 +10,9 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Task  | % of page views | # of users |
 | :--- | ---: | ---: |
 | Go to VA.gov homepage  | 13.52%  | 48,345,852 |
+| Track claims  | 9.86%  | 35,260,203 | 
 | Check claim or appeal status  | 7.25%  | 25,939,463 |
-
 | Sorry — we can’t find that page  | 6.95%%  | 24,837,572 |
-
-| Track claims  | 6.83%  | 24,420,015 |
-| Track claims  | 3.03%  | 10,840,188 |
 
 | Sign in  | 3.12%  | 11,163,904 |
 | Sign in  | 1.20%  | 4,307,582 |
