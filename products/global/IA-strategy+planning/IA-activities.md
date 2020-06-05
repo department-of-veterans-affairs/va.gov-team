@@ -23,7 +23,7 @@ For IA strategy and planning, the information architects work with the **#ia-for
 <br></br>
 ### And we’re setting up space for discussion and sharing about IA.
 
-* **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_6-5-2020.pdf). (Download it for easier reading.)
+* **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_6-5-2020.pdf) for projects that involve IA. (Download it for easier reading.)
 * **Slack:** Members can post ideas, input, and examples to the **#ia-forum** channel.
 * **Meetings:** Join us every 2 weeks to hear what we're doing and learning, give feedback, and discuss next steps.
 <br></br>
