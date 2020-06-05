@@ -54,9 +54,7 @@ Stakeholders described this type of task-based, personalized experience as [one 
 **Recommendations**
 
 1.  We should focus the logged-in homepage on helping Veterans complete tasks as directly as possible (not linking them through multiple content pages to get to where they want to go).
-
 2.  We should minimize content on the logged-in homepage that is not specific to the user.
-
 3.  We should leverage data to intelligently provide users with benefit recommendations and guide them to information about benefits they don't have.
 
 ### Health care and disability benefits are king.
@@ -68,7 +66,6 @@ Pageview data also supports this finding: the [claim status tool is the most pop
 **Recommendations** 
 
 1.  The logged-in homepage should prioritize benefit information associated with health care (e.g. secure messaging, appointment management, and prescription management) and disability benefits (e.g. rated disabilities, claim status tool, and benefit letters). A more detailed list of items participants prioritized in our research study is [outlined in the summary of our findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-are-primarily-interested-in-completing-healthcare-and-disability-related-tasks-such-as-messaging-ordering-medication-and-checking-claim-status).
-
 2.  We should explore whether we can provide users a way to complete health and disability tasks from their logged-in homepage.
 
 ### Veterans care about anything they have in flight, whether that is education or other benefits.
@@ -90,18 +87,16 @@ Analytics show us [huge numbers of page views for downloading personal records](
 **Recommendations**
 
 1. Preserve the direct access to records and documents we currently provide on the logged-in homepage.
-
 2. We should consider further elevating these items in our authenticated navigation.
-
 3. We should explore whether or not creating a centralized space for records and documents would be an impactful improvement for Veterans.
 
 ### The logged-in homepage needs to scale to support every phase of the Veteran lifecycle.
 
-[Veteran journey maps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md#journey-maps) help us understand how Veteran's needs change throughout their life, and illustrate how important it is that VA.gov can adapt to meet these changes.  The personalized pages created in our study ([screenshots in GH repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes)) drive this point home; each Veteran tailored their homepage based on their current circumstances with the VA.
+[Veteran journey maps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md#journey-maps) help us understand how Veterans' needs change throughout their lives, and illustrate how important it is that VA.gov can adapt to meet these changes.  The personalized pages created in our study ([screenshots in GH repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes)) drive this point home; each Veteran tailored their homepage based on their current circumstances with the VA.
 
-Multiple participants had recently visited VA.gov to [learn more about benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-were-interested-in-benefit-recommendations-and-eligibility-information) (such as Voc Rehab or how dependents could use benefits) and stated that they are interested in broader [information about the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-were-interested-in-information-that-helps-them-be-more-involved-with-the-va-as-a-whole-and-take-better-care-of-themselves) that could impact them.  A few participants were also interested in general wellness information. This tells us that Veterans want more information on how to engage with the VA beyond their existing benefits.
+Multiple participants had recently visited VA.gov to [learn more about benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-were-interested-in-benefit-recommendations-and-eligibility-information) (such as Voc Rehab or how dependents could use benefits) and stated that they are interested in broader [information about the VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-were-interested-in-information-that-helps-them-be-more-involved-with-the-va-as-a-whole-and-take-better-care-of-themselves) that could impact them.  A few participants were also interested in general wellness information. This tells us that Veterans want to learn more about how to engage with the VA beyond their existing benefits.
 
-In the Personalization 2.0 research, we learned about the [importance of an onboarding experience for separating service members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#we-need-an-onboarding-experience). This emphasizes how critical it is that our homepage is equally useful for the Veteran who has no benefits to the Veteran with many benefits.
+In the Personalization 2.0 research, we learned about the [importance of an onboarding experience for separating service members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#we-need-an-onboarding-experience). This emphasizes how critical it is that our homepage is equally useful for the Veteran who has no benefits as it is for the Veteran who has many.
 
 **Recommendations**
 
@@ -111,7 +106,7 @@ In the Personalization 2.0 research, we learned about the [importance of an onbo
 
 ### The existing "blue sky" prototype gets a lot of things right.
 
-[Most participants in our study responded positively to the authenticated experience blue sky prototype created in 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) and were excited by the possibility that their logged-in homepage could look like that.  Participants found the content, sidebar navigation, recommendations, and local information to be helpful, usable, and scannable.
+[Most participants in our study responded positively to the authenticated experience blue sky prototype created in 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#a-design-like-the-blue-sky-prototype-would-be-useful-to-veterans) and were excited by the possibility that their logged-in homepages could look like that.  Participants found the content, sidebar navigation, recommendations, and local information to be helpful, usable, and scannable.
 
 > "Do mine like this...somebody got in my head, this is perfect."
 
@@ -125,9 +120,9 @@ The prototype's content prioritization and layout aligns with [what we saw on pr
 
 ### Veterans expect a mix of links and widgets to complete tasks from their homepage.
 
-When designing their personalized pages, [participants in our research study expected to complete tasks in different ways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-expect-a-mix-of-links-and-widgets-to-complete-tasks-on-their-homepage-and-want-clear-labels-to-understand-next-steps). Most participants relied on links to get to tasks like reviewing records, but some participants also wanted to complete tasks right on their pages (eg. checking claim status or refilling a prescription).  
+When designing their personalized pages, [participants in our research study expected to complete tasks in different ways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-expect-a-mix-of-links-and-widgets-to-complete-tasks-on-their-homepage-and-want-clear-labels-to-understand-next-steps). Most participants relied on links to get to tasks like reviewing records, but some participants also wanted to complete tasks right on their pages (eg. checking claim statuses or refilling prescriptions).  
 
-In our comparative analysis, we saw that [this mix of links and widgets is common practice on task-based dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples). We also saw that participants were influenced by other patterns, such as [task-based drop down menus]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#what-appears-as-a-widget-vs-text-link-vs-something-else) that we saw on private sector sites.
+In our comparative analysis, we saw that [this mix of links and widgets is common on task-based dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#site-examples). We also saw that participants were influenced by other patterns, such as [task-based drop down menus]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#what-appears-as-a-widget-vs-text-link-vs-something-else) that we saw on private sector sites.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/session-notes/p9.png)
 
@@ -145,7 +140,6 @@ Veterans found the sidebar navigation in the blue sky prototype helpful because 
 Problems with the navigation also came up during [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md#perceived-problems-with-the-current-ux), primarily:
 
 1.  It doesn’t change once you’re logged in, which gives little sense of personalization.
-
 2.  We’re not effectively guiding logged-in Veterans with our navigation; the multitude of options require significant cognitive load for the user to sort through and find the task they need to complete.
 
 Because of this, we can see that [users have to reorient themselves on the homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#most-people-start-directly-on-the-homepage-but-some-people-reorient-themselves-their-throughout-their-session) throughout their sessions. This further emphasizes that a task-focused navigation would benefit users and provide easier access to the items that matter most to them.
@@ -153,16 +147,15 @@ Because of this, we can see that [users have to reorient themselves on the homep
 **Recommendations**
 
 1.  We should provide a logged-in navigation that is task-focused to help users move more efficiently through VA.gov.	
-
 2.  Collaborate and coordinate with IA and Public Websites on a navigation strategy.
 
 ### Veterans want new information to be clear to them when they log in, and expect to receive new information through multiple channels.
 
 We specifically asked Veterans in our user study where or how they would expect to receive notifications and updates about items on the pages they created. Most said they expect that kind of information to come via a phone call, email, or physical mail, either because that's what they're used to, or because it's the easiest way to reach them.  
 
-When we gave the prompt to imagine they could get updates right on their page, Veterans placed [updates and notifications near the top of the personalized page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-typically-look-for-notifications-in-the-top-portion-of-a-page-but-expect-notifications-from-the-va-outside-of-their-logged-in-experience) they created, but there wasn't one consistent placement across the sessions. Despite that lack of consistency, this tells us what is most important is that the updates are clear and hard to miss. One participant went so far as to say they wanted it in a big red bulls-eye in the middle of their page so they couldn't miss it.
+When we gave the prompt to imagine they could get updates right on their pages, Veterans placed [updates and notifications near the top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research/findings-summary.md#participants-typically-look-for-notifications-in-the-top-portion-of-a-page-but-expect-notifications-from-the-va-outside-of-their-logged-in-experience), but there wasn't one consistent placement across the sessions. Despite that lack of consistency, this tells us what is most important is that the updates are clear and hard to miss. One participant went so far as to say they wanted it in a big red bulls-eye in the middle of their page so they couldn't miss it.
 
-In our comparative analysis, we saw [new information displayed in the top portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-are-sites-implementing-alerts-and-notifications) of the logged-in homepage, often in a dedicated notification center. Some examples also included notifications right on the dashboard itself. The blue sky prototype primarily had notifications right on the homepage, which Veterans found helpful.
+In our comparative analysis, we saw [new information displayed in the top portion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md#how-are-sites-implementing-alerts-and-notifications) of logged-in homepages, often in a dedicated notification center. Some examples also included notifications right on the dashboard itself. The blue sky prototype primarily had notifications right on the homepage, which Veterans found helpful.
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/images/personalization-blue-sky-dashboard-notification.png)
 
