@@ -81,10 +81,14 @@ The frontend of VA.gov is served as static files via Amazon S3. Since `vets-webs
 
 The [`check-broken-link` middleware](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/check-broken-links/index.js) is a Metalsmith plugin that happens near the end of the Metalsmith static content build pipeline. It does the following:
 
-1. Loop through all of the HTML files in the Metalsmith pipeline
+1. Loop through all of the HTML files in memory in the Metalsmith pipeline
 2. Extract all of the broken `href`/`src` values using the `getBrokenLinks` helper
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
+
+Broken links are displayed in the build log, and a Slack notification is sent to the #cms-team channel alerting them to the broken links. 
+
+![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
 Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) are tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
@@ -126,13 +130,15 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
 
-The validation of the static content coming from the CMS will occur during the Metalsmith build.
+The validation of static content will take place in a scheduled job that runs every workday. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations. 
 
 ## Specifics
 
 ### Detailed Design
 
-The content validation will happen in a daily scheduled job.
+Using the current content build script as a reference, we will write another build script that only includes the steps necessary for the content validation. We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today. 
+
+Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight. 
 
 ### Code Location
 
@@ -164,7 +170,8 @@ Currently, invalid content is logged during staging deploys. And failed builds t
 
 ### Caveats
 
-- Our [accessibility check](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/assets/js/execute-axe-check.js#L8) only renders a banner on the preview server.
+- The current broken link checking in Drupal can handle redirects, but those redirects are not currently synchronized with `vets-website`. When the front end doesn't have the redirects, a page that is moved in Drupal may pass the Drupal broken link check but fail the `vets-website` broken link check.
+- Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities). 
 
 ### Security Concerns
 
@@ -186,8 +193,13 @@ There are no new privacy concerns with a separated build process.
 
 The following estimates vary greatly depending on who's doing the work.
 
-1. Finish extracting the `content-build` repo out of the `vets-website` repo - ?
-2. Write and test a scheduled job to run the content build - <1 day
+1. Finish extracting the `content-build` repo out of the `vets-website` repo: ?
+2. Write a Jenkins scheduled job to run a script every workday at midnight: <1 day
+3. Write a script that builds only what is necessary for content validation: 1-2 days
+4. Update the script so the accessibility checks don't stop on failure: <1 day
+5. Update the script to generate a report of broken links: <1 day
+6. Update the script to generate a report of accessibility errors: <1 day
+7. Update the scheduled job to call the content validation script: <1
 
 ### Alternatives
 
