@@ -39,10 +39,10 @@ The purpose of the May 2020 interviews was to better understand why and how Vete
 - _What are all the ways they managed their VA benefits?_
 
 ## Healthcare: 10/10 participants had some experience with VA healthcare 
-- 9/10 participants had used VA healthcare for themselves, while 1 participant had helped manage healthcare for another Veteran. 
-- 8/10 participants had some experience with My HealtheVet, ranging from having used it very minimally to using it regularly for tasks like prescription refill. 
-  - 1 participant had tried to sign up for My HealtheVet, but was not able to successfully set up an account, identity proof, and sign in.
-  - 1 participant used only Community Care and did not use My HealtheVet. 
+- **9/10 participants** had used VA healthcare for themselves, while 1 participant had helped manage healthcare for another Veteran. 
+- **8/10 participants** had some experience with My HealtheVet, ranging from having used it very minimally to using it regularly for tasks like prescription refill. 
+  - **1 participant** had tried to sign up for My HealtheVet, but was not able to successfully set up an account, identity proof, and sign in.
+  - **1 participant** used only Community Care for healthcare and did not use My HealtheVet. 
 - Most participants had multiple channels of communication with VA and used combinations of My HealtheVet, in-person visits, and phone conversations to manage their healthcare.
 
 
@@ -60,16 +60,15 @@ The purpose of the May 2020 interviews was to better understand why and how Vete
 
 ## How participants interacted with VA
 
-- **Web, phone, in person**: All participants had called VA via phone and visited the VA in person, and a majority of participants had accessed VA.gov, but we did not explicitly discuss accessing VA.gov on mobile with most participants.
+- **Web, phone, in person**: All participants had called VA via phone and visited the VA in person, and a majority of participants had accessed VA.gov, but we did not explicitly discuss accessing VA.gov on mobile with all participants.
 
 - **About 50% of participants used My HealtheVet**: 2 participants had not been able to verify their identity in order to use MHV, a 2 other participants were not aware of My HealtheVet. Some participants were aware of My HealtheVet, but not aware of some of the features it offered. Overall, MHV was seen as valuable by those who used it because it removed the need to call or go into a VA facility: 
   - “I use the messaging system, that’s the primary way that I’ve gotten to get my primary care physicians...it’s hard for me to just walk in and see him, so I send him a note.” -- P9
   - “I prefer to do as much as I can online.”-- P6
 
-- **People voiced comfort with starting online**: All participants had had some interaction with VA through VA websites and most described that experience as positive and informative.   
+- **People voiced comfort with starting online**: All participants had had some interaction with VA through VA websites and most described that experience as positive, informative, and their preferred place to start: 
   - "I start online, don't see the exact info I need and talk to someone, but always want to close the loop and confirm what they said to me online" -- P2
   - "Step 1 is educate, Step 2 is list questions and then have a place to schedule a live conversation with an expert." -- P11
-
 
 - **There is a lack of awareness of VA apps.**
   - No participants had used VA apps. 
@@ -170,10 +169,10 @@ ___
 
 
 - _Where can a mobile app add unique value to VA’s technology offering?_
-- _What is the “critical mass” of capabilities that Veterans would find compelling enough for an app to feel worthwhile to download?
+- _What is the “critical mass” of capabilities that Veterans would find compelling enough for an app to feel worthwhile to download?_
 - _What will make Veterans say “this is a great start”?_
 
-## General reaction to VA mobile app was positive 
+## General reaction to VA mobile app was positive
 - “If it is a matter of convenience and meets my needs I would be glad to download a VA app on my phone.” -- P2
 - “If [VA] had an app, that would probably be the go-to place to go.” -- P6
 - “I think a mobile app would be eminently useful. It's like the bank, when you build a good one, people are going to come to it.” -- P11
@@ -208,8 +207,12 @@ Participants consistently stated that they thought a mobile app could improve th
 ---
 
 ## Next Steps
-1. This research led to the creation of 12 "How might a mobile app..." questions to brainstorm against. 
-2. Those ideas were sorted into 4 areas where a mobile app could benefit Veterans.
+1. This research led to the creation of 12 "How might a mobile app..." questions to guide brainstorming of mobile app feature ideas.
+2. Those feature ideas were sorted into 4 areas where a mobile app could benefit Veterans.
+  - Learning about how VA can help solve their problem
+  - Checking in on a status, doing quick transactions
+  - Continued support while working towards a solution for a longer term problem
+  - Standard mobile app features we think an MVP mobile app should have
 3. Those areas were prioritized in a working product roadmap. 
 4. A prototype is being testing with Veterans the week of June 8, 2020 to help refine the most valuable features for an MVP mobile app. 
 
