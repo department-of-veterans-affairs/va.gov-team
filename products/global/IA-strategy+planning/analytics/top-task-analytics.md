@@ -13,20 +13,12 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Track claims  | 9.86%  | 35,260,203 | 
 | Check claim or appeal status  | 7.25%  | 25,939,463 |
 | Sorry — we can’t find that page  | 6.95%%  | 24,837,572 |
-
-| Sign in  | 3.12%  | 11,163,904 |
-| Sign in  | 1.20%  | 4,307,582 |
-| Sign in  | 1.02%  | 3,665,213 |
-
+| Sign in  | 5.34%  | 19,136,699 | 
 | Search  | 1.54%  | 5,513,945 |
-
 | Go to myVA  | 1.33%  | 4,764,931 |
-
 | Find locations  | 1.00%  | 3,559,735 |
-
 | Post GI Bill Statement of Benefits  | 0.81%  | 2,880,367 |
-
-| Go to myVA  | 1.33%  | 4,764,931 |
+| Xxxx  | 00%  | 000 |
 
 
 
