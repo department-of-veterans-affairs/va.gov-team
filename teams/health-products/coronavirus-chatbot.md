@@ -1,4 +1,4 @@
-# [Team Name]
+# [Coronavirus Chatbot]
 
 ### Description of Current Work
 
