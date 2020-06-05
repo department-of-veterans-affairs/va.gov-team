@@ -91,6 +91,7 @@ _After 30 minutes, send message to group DM with zoom link prompting everyone to
 - Is there anyone else you think we should talk to about this?
 - Please send any links that you mentioned to our group DM in Slack
 - We will take a look at your comments in the document and may follow-up with you if we have additional questions.
+- Use this documentation over the next week and add comments and thoughts about how it's useful or could be improved. We'll check in with you via our DM to follow up next week.
 
 ## Thank-You and Closing
 
