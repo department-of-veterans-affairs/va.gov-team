@@ -1,4 +1,4 @@
-# Web Performance Monitoring v0.1
+# Web Performance Monitoring v0.2
 Provide standards and monitoring to help measure, evaluate, and govern website performance. 
 
 ## Performance Standards
