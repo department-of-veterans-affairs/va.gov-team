@@ -7,7 +7,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 
 | Task  | Page | % of page views |
 | :--- | :--- | :--- |
-| Content Cell  | Content Cell  | Content Cell  |
+| Go to VA.gov homepage  | /index.html  | 13.52%  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 
