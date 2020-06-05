@@ -1,4 +1,4 @@
-With the goal of understanding and framing the problems to be solved, an upfront discovery process will be conducted, while some approved activities will be pursued as prioritized.   This "state of the state" process will include the following tasks:
+With the goal of understanding and framing the problems to be solved, an upfront discovery process will be conducted, while some approved activities (e.g. type-ahead for onsite search) will be pursued as prioritized.   This "state of the state" process will include the following tasks:
 
 - [x] Set-up Google Search Console and Bing Web Developer Tools to analyze trends, site health, etc.
 - [Underway] Conduct scan of available data sources -- including Search.gov (on-site) and SEMRush, GSC, Bing (off-site) to surface key trends and insights to help with problem framing.
