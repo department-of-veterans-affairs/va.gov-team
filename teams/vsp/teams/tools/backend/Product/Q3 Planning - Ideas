@@ -1,0 +1,33 @@
+# Description
+This document will be used to collect and help organize different ideas that the Back end Tools team could prioritize for Q3 (and even Q4).  This document will forever be a work in processes and the final road map will be organized in ZenHub using the "tools-be" & "super-epic" Labels in the Next/Now/Future swim lanes.
+
+
+# Division of priorities
+
+## (~50%) Platform Products 
+These will be listed below
+
+
+## (~30%) Tech Debt
+List of potential tech debt that we want to clean up in Q3
+- TBD (feel free to add bullet points/links to tickets if you have strong feelings around which tech debt items)
+
+
+## (20%) Support
+This will be covered by our utility dev.  As of now, there will be 5 devs on the team and at all times one of those devs is responsible for Utility Dev role.
+
+
+# Potential Platform Products
+
+## Documentation 
+There are talks within each team/leadership about how our documentation is scattered through different repos/tools (gatsby).  It would be a worth while effort to go through the documents with a developer mindset and better organize and clean up the documents so VFS teams can more efficiently follow the process that we would like them follow.
+
+## Product Level SLOs
+RFC is being shopped around and after sign off this is a great candidate for Q3
+
+## Demo App
+Has been asked for a few times.  We should flush this out a little more and see if it makes sense.
+
+## External Service Integration "Improvements"
+This might go into the demo app.  We are currently working with VFS teams to identity the exact pain points that are happening and why they have brought this up multiple times during the Service Design journey map and pain point mapping.
+*Undetermined of anything will come out of this at this point, but there is a potential for improvements here.
