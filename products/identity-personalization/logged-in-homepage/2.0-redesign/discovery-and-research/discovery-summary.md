@@ -1,11 +1,9 @@
 Logged-in homepage: Discovery summary 
 =============================================
 
------DRAFT------
-
 **Digital Services Veterans Affairs (DSVA), VSA, Authenticated Experience**
 
-Samara Strauss (samara.strauss@va.gov), Liz Lantz (liz.lantz@adhocteam.us), 06/05/2020
+Liz Lantz (liz.lantz@adhocteam.us) and Samara Strauss (samara.strauss@va.gov) | 06/05/2020
 
 Background
 ----------
