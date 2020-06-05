@@ -17,10 +17,10 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | myVA  | 2.37%  | 8,505,980 | 
 | Search  | 1.54%  | 5,513,945 |
 | Find locations  | 1.38%  | 4,908,221 | 
+| Post GI Bill Statement of Benefits or benefit status  | 1.26%  | 4,502,147 | 
 | Download VA letters  | 0.98%  | 3,476,907 | 
 | Get veteran ID cards  | 0.89%  | 3,209,853 | 
 | Apply for healthcare benefits  | 0.82%  | 2,933,040 | 
-| Post GI Bill Statement of Benefits  | 0.81%  | 2,880,367 |
 | How to apply for GI Bill and related benefits  | 0.78%  | 2,786,122 |
 | How to file a disability claim  | 0.74%  | 2,651,847 |
 | VA payment history  | 0.67%  | 2,402,817 |
@@ -29,7 +29,6 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Log out  | 0.53%  | 1,886,815 |
 | Prescription refill and tracking  | 0.49%  | 1,743,520 |
 | Disability compensation  | 0.46%  | 1,656,304 |
-| Post GI Bill Benefit Status  | 0.45%  | 1,621,780 |
 | Health account validation  | 0.45%  | 1,593,182 |
 | View appointments  | 0.38%  | 1,375,014 |
 
