@@ -8,6 +8,8 @@ The BE Tools team has decided to move forward with trialling the use of code own
 BE Tools (and other "Operation" teams working on the platform) spends a significant amount of time reviewing PRs and assisting VFS teams during the development of their apps.  The line between the application team and platform team responsibility has been blurred because of the close support and feedback that has been provided over the past year.  As more and more VFS are onboarded to build on the platform, this model will not be sustainable and need to pivot to allow VFS teams to develop on the platform without the oversight of the platform teams as much as possible.
 
 How might we empower VFS teams to develop an application with as minimal support from the platform teams, and reduce the burden on the platform teams to inject themselves so that we can scale the number of VFS teams successfully.
+
+NOTE: Quality risk: The solution should be allow VFS teams to own their own code, without negatively impacting the quality or impact to users.
  
 ## Desired User Outcomes
 
