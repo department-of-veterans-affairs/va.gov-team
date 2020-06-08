@@ -219,6 +219,7 @@ __Next step: follow up conversation to investigate Nick’s suggestion, and to f
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
+  - April 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
