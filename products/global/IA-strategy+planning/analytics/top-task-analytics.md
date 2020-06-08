@@ -39,7 +39,9 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 ### Top 25 pages viewed (ALL VA.gov pages)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
 
-Since this report did not include page URLs, no rows were combined. Pages with "Veterans Affairs" in the title are on VA.gov.
+Since this report did not include page URLs, no rows that could be the same page were combined. For example, "VA.gov Home - Veterans Affairs" is likely the same page as "VA.gov." 
+
+Pages with "Veterans Affairs" in the title are on VA.gov.
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
