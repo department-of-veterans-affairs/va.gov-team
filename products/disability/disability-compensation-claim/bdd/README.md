@@ -85,6 +85,7 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
+  - June 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
