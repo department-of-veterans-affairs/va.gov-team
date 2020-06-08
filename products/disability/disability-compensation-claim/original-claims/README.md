@@ -79,8 +79,9 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
+## Launch Dates
 - *What is your target launch date of your MVP/iteration?*
+  - May 15, 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
