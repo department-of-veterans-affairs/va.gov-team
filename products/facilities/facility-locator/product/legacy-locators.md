@@ -2,12 +2,12 @@
 
 | Old Locator                                                                                                                                                             | Status |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| [Locations Home Page](www.va.gov/directory/guide/home.asp)                                                                                                              |        |
-| [VHA Locations Page](www.va.gov/directory/guide/division.asp?dnum=1)                                                                                                    |        |
+| [Locations Home Page](www.va.gov/directory/guide/home.asp)                                                                                                              |  Complete      |
+| [VHA Locations Page](www.va.gov/directory/guide/division.asp?dnum=1)                                                                                                    |  Complete      |
 | [VBA Locations Page](www.va.gov/directory/guide/division.asp?dnum=3)                                                                                                    |        |
-| [NCA Facilities Page](www.va.gov/directory/guide/division.asp?dnum=4)                                                                                                   |        |
-| [VA Central Office Locations](www.va.gov/directory/guide/hq.asp)                                                                                                        |        |
-| [Vet Center Locations](www.va.gov/directory/guide/vetcenter.asp)                                                                                                        |        |
+| [NCA Facilities Page](www.va.gov/directory/guide/division.asp?dnum=4)                                                                                                   | Complete       |
+| [VA Central Office Locations](www.va.gov/directory/guide/hq.asp)                                                                                                        |  Not in Lighthouse, Not Veteran-facing      |
+| [Vet Center Locations](www.va.gov/directory/guide/vetcenter.asp)                                                                                                        |  Complete      |
 | [PTSD Program Locator](www.va.gov/directory/guide/PTSD.asp)                                                                                                             |        |
 | [Substance Use Disorder Program](www.va.gov/directory/guide/SUD.asp)                                                                                                    |        |
 | [Facilities by State](www.va.gov/directory/guide/allstate.asp)                                                                                                          |        |
@@ -15,8 +15,8 @@
 | [Facility Listing Filter](www.va.gov/directory/guide/rpt_fac_list.cfm)                                                                                                  |        |
 | [VA Canteen Locations](www.vacanteen.va.gov/CanteenLocations.php)                                                                                                       |        |
 | [Local VA Voluntary Service Offices](www.volunteer.va.gov/directory/index.asp)                                                                                          |        |
-| [Locate a Choice Care Provider](www.va.gov/opa/apps/locator)                                                                                                            |        |
-| [Wait Time for VA Facilities](vapwt.trafficmanager.net )                                                                                                                |        |
+| [Locate a Choice Care Provider](www.va.gov/opa/apps/locator)                                                                                                            | Complete - Replaced by Community Care Provider Locator       |
+| [Wait Time for VA Facilities](vapwt.trafficmanager.net )                                                                                                                | Complete       |
 | [Office of Research & Development - Participating in Research](www.research.va.gov/for_veterans/volunteering-faq.cfm)                                                   |        |
 | [Health Services Research and Directory](www.hsrd.research.va.gov/for_researchers/directory/)                                                                           |        |
 | [Million Veteran Program (MVP) Enrolling Clinics](http://www.research.va.gov/mvp/all-clinics.cfm)                                                                       |        |
@@ -39,9 +39,9 @@
 | [Economic Community Initiative Liaisons - Transition, Employment, and Econ. Impact](http://www.benefits.va.gov/TEEI/economic-liaisons.asp)                              |        |
 | [Pension Management Centers](http://www.benefits.va.gov/PENSION/resources-contact.asp)                                                                                  |        |
 | [Education Regional Processing Offices](http://www.benefits.va.gov/gibill/regional_processing.asp)                                                                      |        |
-| [National Cemetery Listing](http://www.cem.va.gov/cem/cems/listcem.asp)                                                                                                 |        |
-| [State Veteran Cemeteries](http://www.cem.va.gov/cem/grants/veterans_cemeteries.asp)                                                                                    |        |
+| [National Cemetery Listing](http://www.cem.va.gov/cem/cems/listcem.asp)                                                                                                 | Complete      |
+| [State Veteran Cemeteries](http://www.cem.va.gov/cem/grants/veterans_cemeteries.asp)                                                                                    | Complete, needs subcategory      |
 | [Veteran Resources (same as "Make the Connection" )](https://www.veteranscrisisline.net/GetHelp/ResourceLocator.aspx)                                                   |        |
 | [Parkinson's Disease Research, Education & Clinical Center(PADRECC) (Map / directory)](http://www.parkinsons.va.gov/New_Front_Page.asp)                                 |        |
 | [PADRECC and Consortium Centers (Map / Directory)](http://www.parkinsons.va.gov/Care.asp)                                                                               |        |
-| [Multiple Sclerosis Centers of Excellence](http://www.va.gov/MS/veterans/find_a_clinic/index.asp)                                                                       | #NAME? |
+| [Multiple Sclerosis Centers of Excellence](http://www.va.gov/MS/veterans/find_a_clinic/index.asp)                                                                       |  |
