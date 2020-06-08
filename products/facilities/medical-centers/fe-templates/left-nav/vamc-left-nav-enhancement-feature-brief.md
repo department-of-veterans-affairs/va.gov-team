@@ -153,6 +153,7 @@ TBD
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
+  - May 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
