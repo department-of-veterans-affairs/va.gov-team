@@ -67,15 +67,28 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 
 ## OKRs and KPIs
 ## KPIs
-- 526 traffic
+- Number of BDD submissions (input KPI)
+- Time to BDD decision (input KPI)
+- % of BDD claims that are closed as BDD (vs. converted to a regular claim) (input KPI)
+- Number of physical exams completed "in time" (input KPI)
+- % of "rejected / diverged" BDD claims (input KPI)
+
+- Number of BDD claims successfully "adjudicated" within *n* days  (North Star Metric)
+
+**Lifecycle (Conversion funnel)**
+w --> Physical exam && Submit service treatment record --> x --> y --> Submit BDD claim --> BDD claim decision
+
+Notes:
+- have to submit to a physical exam. if they don't and still submit a BDD, the claim turns into a regular claim. 
+  - potential pain point if they don't do this step
+- Service treatment record also needs to be submitted
 
 ### Baseline KPIs
 - TBD
 
 ## Key Results (KRs)
 
-1. We will see an increase in traffic to our 526 forms of 10% (based on traffic in eBenefits)
-2. After 6 months, we will see another 5% increase as the program is advertised to more service members.
+1. TBD
 
 --- 
 
