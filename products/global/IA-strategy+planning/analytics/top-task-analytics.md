@@ -2,7 +2,7 @@
 
 What do people do on VA.gov? To find out, we're using Google Analytics as a starting point.
 
-In the numbers below, sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed, which counts as a new session.
+One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed, which counts as a new session.
 
 ### Top 25 pages viewed (modernized VA.gov pages only)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to these pages. **These numbers reflect the "long tail" (multiple appearances of the same page or task) within the top 50 pages.**
