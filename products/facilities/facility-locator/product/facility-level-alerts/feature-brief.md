@@ -22,7 +22,7 @@ This document will focus on the new facility-level alert feature within VA.gov's
 
 [Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#rejected-solutions)
 
-[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#definition-of-done)
+[Definition of Done/Go-to-market Strategy](#definition-of-done---go-to-market-strategy)
 
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-level-alerts/feature-brief.md#key-links)
 
