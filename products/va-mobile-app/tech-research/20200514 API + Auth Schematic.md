@@ -1,4 +1,4 @@
-May 21, 2020
+Shared via email, May 14, 2020
 
 This document contains a discussion on the following topics pertinent to a VA mobile app:
 
