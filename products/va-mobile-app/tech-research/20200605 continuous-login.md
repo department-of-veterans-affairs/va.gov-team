@@ -1,3 +1,5 @@
+June 5, 2020 (email)
+
 # Continuous Login Questions + Exploration:
 
 ## Q1: With the Oauth approach using Okta, can we send a user who is within the app to a part of VA.gov that required login? (ie, could their login state be transferred?)
