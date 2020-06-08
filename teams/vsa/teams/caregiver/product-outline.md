@@ -1,4 +1,4 @@
-# Caregivers Product Outline
+# Caregivers MVP Product Outline
 - GitHub Label: #caregivers
 - Slack channel: #vsa-caregivers
 - VA.gov link: https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/
@@ -33,7 +33,7 @@
 
 ## User Problem Statement
 
-As a caregiver or veteran, it's difficult to apply for the Program of Comprehensive Assistance for Family Caregivers (PCAFC).
+As a caregiver or veteran, it would be easier to apply for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) using an online form rather than the current paper submission process.
 
 ## Solution Goals
 
@@ -72,7 +72,6 @@ As a caregiver or veteran, it's difficult to apply for the Program of Comprehens
 #### User Value
  - Users will be able to apply for the PCAFC online
 
-
 #### Business Value
 - Start processing applications faster
 - Fewer rejections
@@ -88,17 +87,18 @@ As a caregiver or veteran, it's difficult to apply for the Program of Comprehens
 - Call Center reports
 
 #### Baseline KPIs
-- 
+
+- TBD
 
 ### OKRs
     
 #### Objective 1: Make it easier to Veterans to apply to the PCAFC			
 - Key result 1: Increase the number of successful online applications to the PCAFC (Target: 500)
 - Key result 2 Decrease the number of requests for application assistance from the Contact Center (Target: 50 )
-- Key result 3: Increase the % of PCAFC application submissions that are online rather than offline (Target: 10%)			
+- Key result 3: Increase the % of PCAFC application submissions that are online rather than offline (Target: 10%)
 			
 #### Objective 2: Make it easier for CSCs to process PCAFC applications			
-- Key result 1: Decrease application processing time (Target: )			
+- Key result 1: Decrease application processing time (Target: 2 days less than current time)			
 - Key result 2: Increase CSAT of CSCs with caregiver data			
 			
 #### Objective 3: Improve the experience of being a caregiver			
@@ -116,21 +116,21 @@ Note: as of 05/27, the program office has not made specific plans to release the
 - *What is your target launch date of your MVP/iteration?*
 - *What is your date for when you'll evaluate impact after launch?*
 
-- Dark launch: 05/29/2020
-- Soft release: 07/30/2020
+- Dark launch (not public facing): 05/29/2020
+- Soft release (potential to be public facing): 07/30/2020
 
 ---
 
 # Implementation Info
 
 ## Status
-- Focused on launching the MVP of the form
-- Dark launch (only in staging): 05/29/2020
-- Soft release (Program approval of all online changes (not just the form): 06/30/2020
+- Focused on launching an MVP of the form
+- Dark launch (only in staging): 05/29/2020 (completed)
+- Soft release (Program approval of all online changes (not just the form): 07/30/2020
 
 ## Solution Narrative
 
-**Pre-May 31st**
+**Pre-May 29th**
 - Unauthenticated form
 - Two signatures (printed names onto online form)
 - Form intro page
