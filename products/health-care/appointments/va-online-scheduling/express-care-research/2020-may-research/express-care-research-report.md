@@ -47,7 +47,7 @@ Veterans were shown and interacted with a clickable prototype to help us learn m
 
 
 
-## Findings and Recommendations Overview
+## Findings & Recommendations Overview
 
 ### Findings overview
 
@@ -64,7 +64,7 @@ Several key themes emerged throughout our research:
 - COVID
 
 | Number of participants who...                                | #    | %    |
-| ------------------------------------------------------------ | ---- | ----: |
+| ------------------------------------------------------------ | ----: | ----: |
 | Said they knew about / heard about "Express Care"*           | 2    | 18%  |
 | Have used VA Telehealth before                               | 10   | 91%  |
 | Expect a response from a medical professional                | 10   | 91%  |
@@ -80,7 +80,7 @@ Several key themes emerged throughout our research:
 
 **None of the participants could accurately define "Express Care", even if they said they knew what it was.*
 
-#### Scheduling methods
+### Scheduling methods
 
 Participants use a variety of methods to schedule their VA appointments. Some participants use more than one method. No one mentioned using new VAOS.
 
@@ -93,39 +93,6 @@ Participants use a variety of methods to schedule their VA appointments. Some pa
 | Reminder from VA (RTC aka return to clinic) | 1 | 9% |
 | New VAOS | 0 | 0 |
 
-
-## Findings and Recommendations Overview
-
-### Findings overview
-
-Overall, all (100%) participants said they would use virtual medical appointments for both routine/pre-scheduled appointments as well as same-day or urgent visits, if they are given this option. However, no (0%) participants were familiar with "Express Care" as a means for connecting with a VA provider for a same-day, Telehealth visit. (Two (18%) participants said they heard of "Express Care", but neither could accurately describe the service.) 
-
-Several key themes emerged throughout our research:
-
-- Experience varies per facility 
-- Response quality: responder and timeliness 
-- Perception of Telehealth
-- Brand recognition
-- Appointment types (availability vs. desire)
-- Scheduling methods
-- COVID
-
-| Number of participants who...                                | #    | %    |
-| ------------------------------------------------------------ | ---- | ---- |
-| Said they knew about / heard about "Express Care"*           | 2    | 18%  |
-| Have used VA Telehealth before                               | 10   | 91%  |
-| Expect a response from a medical professional                | 10   | 91%  |
-| Expect / want to be seen by PACT                             | 5    | 45%  |
-| Thought they would instantly be connected to chat / Telehealth appointment / receive a call | 2    | 18%  |
-| Consider same-day visits and pre-scheduled appointments the same (for scheduling) | 3    | 27%  |
-| [from the appointment screen] select:  "Request Express Care Screening" button | 8    | 73%  |
-| [from the appointment screen] select:  "New appointment" button | 3    | 27%  |
-| [from the appointment list] select:  "Express Care" option   | 2    | 18%  |
-| [from the appointment list] select:  "same-day Telehealth" option | 3    | 27%  |
-| Like / want to continue to use Telehealth                    | 11   | 100% |
-| would use "Express Care" / Telehealth for COVID screening    | 11   | 100% |
-
-**None of the participants could accurately define "Express Care", even if they said they knew what it was.*
 
 
 ### Recommendations overview
