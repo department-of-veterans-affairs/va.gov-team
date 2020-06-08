@@ -1,4 +1,4 @@
-March 20, 2020
+Shared via email March 19, 2020
 
 - [TLDR](#tldr)
 - [Current State](#how-does-login-currently-work)
