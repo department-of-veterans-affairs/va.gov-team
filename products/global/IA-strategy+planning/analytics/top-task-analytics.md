@@ -13,7 +13,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | :--- | ---: | ---: | :--- |
 | 1. VA.gov homepage  | 13.52%  | 48.3M |
 | 2. Track claims  | 10.58%  | 37.8M | Sign in |
-| 3. Claim or appeal status (entry page)  | 7.25%  | 25.9M | 
+| 3. Check your VA claim or appeal status (entry page)  | 7.25%  | 25.9M | 
 | 4. Sorry — we can’t find that page  | 6.95%  | 24.8M |
 | 5. Sign in  | 5.34%  | 19.1M | Sign in |
 | 6. myVA  | 2.37%  | 8.5M | Sign in |
@@ -39,7 +39,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 ### Top 25 pages viewed (ALL VA.gov pages)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
 
-Since this report did not include page URLs, no rows were combined.
+Since this report did not include page URLs, no rows were combined. Pages with "Veterans Affairs" in the title are on VA.gov.
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
@@ -51,7 +51,7 @@ Since this report did not include page URLs, no rows were combined.
 | 6. VA DoD eBenefits home  | 3.57%  | 38.4M | 
 | 7. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
 | 8. Find VA Locations - Veterans Affairs  | 2.89%  | 31M |  
-| 9. Check Your VA Claim Or Appeal Status - Veterans Affairs  | 2.41%  | 25.9M | Sign in |
+| 9. Check your VA claim or appeal status (entry page) - Veterans Affairs  | 2.41%  | 25.9M | 
 | 10. Track Claims: VA.gov  | 2.28%  | 24.5M | Sign in | 
 | 11. Labs and Tests - My HealtheVet  | 2.14%  | 23M | Sign in |
 | 12. Auth - Veterans Affairs  | 1.89%  | 20.4M | Sign in | 
@@ -62,7 +62,7 @@ Since this report did not include page URLs, no rows were combined.
 | 17. VA/DoD eBenefits - About This Feature  | 0.84%  | 9M | 
 | 18. Status - Your Compensation Claim  | 0.81%  | 8.8M | Sign in |
 | 19. Download My Data - My HealtheVet  | .75%  | 8M | Sign in | 
-| 20. Apply For Education Benefits - Veterans Affairs  | 0.74%  | 7.9M | ? |
+| 20. Apply For Education Benefits - Veterans Affairs  | 0.74%  | 7.9M | 
 
 
 
