@@ -89,12 +89,15 @@ _Are other features dependent on this one? What do we need from partners? What d
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
 
-### Definition of Done
+### Definition of Done ( / Go-to-market Strategy)
 - The Veteran must be able to view an indicator of operating status at a facility level. 
 - The Veteran must be able to view details related to the facility level operating status. 
 - Operating status indicator is included in search results.
 - Implementation is without Priorty-1 508 defects. 
 
+#### Launch dates
+- Target: April 22
+- Actual: April 22
+
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
-
