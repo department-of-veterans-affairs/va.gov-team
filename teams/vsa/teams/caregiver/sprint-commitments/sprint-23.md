@@ -4,7 +4,7 @@
 - Address QA technical findings
 - Ensure signature names match exactly but are not case sensitive
 - Integrate with Google Analytics
-- https://github.com/department-of-veterans-affairs/va.gov-team/issues/9173
+- [Radio inputs/A11Y feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)
 - IA integration
 
 ## Backend
