@@ -58,7 +58,7 @@ gh_json.each do |issue|
 	begin   
 		file.puts "<tr><td><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td> #{zh_json["estimate"]["value"]} </td> <td>#{issue["title"]}</td> <td>#{issue["state"]}</td></tr>"
 	 	rescue StandardError=>e
-	 		file.puts "<tr><td><a href=#{gh_issue_url}#{issue["number"]}>#{issue["number"]}</a></td><td> NO ESTIMATE </td> <td>#{issue["title"]}</td> <td>#{issue["state"]}</td></tr>"
+	 		file.puts "<tr><td><a href=#{gh_issue_url}#{issue["number"]}>##{issue["number"]}</a></td><td> NO ESTIMATE </td> <td>#{issue["title"]}</td> <td>#{issue["state"]}</td></tr>"
 	end
 	#end
 #end
