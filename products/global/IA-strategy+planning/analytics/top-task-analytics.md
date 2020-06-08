@@ -7,7 +7,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 ### Top 25 pages viewed (modernized VA.gov pages only)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the following pages. 
 
-**Pages that appeared multiple times within the top 50 pages show as one row below.** (Example: track claims.)
+**Pages or user flows that appeared multiple times within the top 50 pages show as one row below.** (Example: track claims.)
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
@@ -38,8 +38,6 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 ### Top 25 pages viewed (ALL VA.gov pages)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
 
-**Pages that appeared multiple times within the top 50 pages show as one row below.** (Example: track claims.)
-
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
 | 1. My HealtheVet homepage  | 13.30%  | 143M |
@@ -50,9 +48,18 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | 6. VA DoD eBenefits home  | 3.57%  | 38.4M | 
 | 7. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
 | 8. Find VA Locations - Veterans Affairs  | 2.89%  | 31M |  
-
-| 6. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
-| 6. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 9. Check Your VA Claim Or Appeal Status - Veterans Affairs  | 2.41%  | 25.9M | Sign in |
+| 10. Track Claims: VA.gov  | 2.28%  | 24.5M | Sign in | 
+| 11. Labs and Tests - My HealtheVet  | 2.14%  | 23M | Sign in |
+| 12. Auth - Veterans Affairs  | 1.89%  | 20.4M | Sign in | 
+| 13. Appointments - My HealtheVet  | 1.78%  | 19.1M | Sign in | 
+| 14. VA.gov  | 1.43%  | 15.4M |
+| 15. Compose Message - My HealtheVet  | 1.24%  | 13.3M | Sign in |
+| 16. VA Blue Button Report - My HealtheVet  | 1.08%  | 11.6M | ? | 
+| 17. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 18. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 19. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 20. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
 
 
 
