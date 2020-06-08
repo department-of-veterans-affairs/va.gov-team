@@ -1,6 +1,6 @@
 **PHASE ONE (May-August, 2020)**
 
-While [Discovery activities continue](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/search/discovery_tasks.md), the following "quick wins" have been identified and prioritized for work and delivery by the Public Websites team:
+While [Discovery activities continue](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/search/discovery_tasks.md), the following "quick wins" have been identified and prioritized and [approved by DEPO](https://github.com/department-of-veterans-affairs/digitalservice/issues/1182) for work and delivery by the Public Websites team:
 
 **Foundational**
 
