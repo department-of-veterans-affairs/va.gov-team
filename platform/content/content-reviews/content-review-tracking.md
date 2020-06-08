@@ -13,6 +13,7 @@ BAH | Yellow Ribbon modal content | in process | https://app.zenhub.com/workspac
 BAH | School Ratings  | NOT STARTED |  Kickoff held 6/2
 BAM 1 | Benefits Delivery at Discharge |  Usability prep | Usability prep feedback given, waiting research results <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6695
 BAM 2 | Medical Device Ordering |  Usability prep   | Usability prep feedback given. Awaiting research and results. <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/7426 
+BAM 2 | Medical Device Ordering |  Staging  |  <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9720 
 BAM 2 | Debt Letters | NOT STARTED | Kick-off held 3/12 <br> 
 Caregivers | 10-10cg Form | Pre-staging review | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8565
 eBenefits | View Dependents tool | Usability prep  | https://xd.adobe.com/view/8cdfe895-c907-4662-7234-305056778b2a-faee/  
