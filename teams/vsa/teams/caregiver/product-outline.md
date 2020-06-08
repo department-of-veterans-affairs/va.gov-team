@@ -91,15 +91,18 @@ As a caregiver or veteran, it's difficult to apply for the Program of Comprehens
 - 
 
 ### OKRs
-- Objective: Improve Caregiver application process
-    - KR: Increase submitted applications
-    - KR: Reduce the time it takes to fill out the 10-10CG
-    - KR: Reduce application processing time
-    - KR: Positive feedback from application process
-- Objective: Improve the Caregiver experience
-    - KR: Increase in the ratio of approved applications
-    - KR: Reduce application processing time
-
+    
+#### Objective 1: Make it easier to Veterans to apply to the PCAFC			
+- Key result 1: Increase the number of successful online applications to the PCAFC (Target: 500)
+- Key result 2 Decrease the number of requests for application assistance from the Contact Center (Target: 50 )
+- Key result 3: Increase the % of PCAFC application submissions that are online rather than offline (Target: 10%)			
+			
+#### Objective 2: Make it easier for CSCs to process PCAFC applications			
+- Key result 1: Decrease application processing time (Target: )			
+- Key result 2: Increase CSAT of CSCs with caregiver data			
+			
+#### Objective 3: Improve the experience of being a caregiver			
+- Key result 1: Improve caregiver and veteran assessments of the PCAFC 	
 
 --- 
 
