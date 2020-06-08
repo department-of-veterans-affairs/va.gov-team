@@ -1,5 +1,7 @@
 # Legacy Locators
 
+This list of locators was taken from https://github.com/department-of-veterans-affairs/vets.gov-team/issues/1528 
+
 | Old Locator                                                                                                                                                                    | Status                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | [Locations Home Page](http://www.va.gov/directory/guide/home.asp)                                                                                                              | Complete                                               |
@@ -8,11 +10,11 @@
 | [NCA Facilities Page](http://www.va.gov/directory/guide/division.asp?dnum=4)                                                                                                   | Complete                                               |
 | [VA Central Office Locations](http://www.va.gov/directory/guide/hq.asp)                                                                                                        | Not in API, Not Veteran-facing?                        |
 | [Vet Center Locations](http://www.va.gov/directory/guide/vetcenter.asp)                                                                                                        | Complete                                               |
-| [PTSD Program Locator](http://www.va.gov/directory/guide/PTSD.asp)                                                                                                             |                                                        |
-| [Substance Use Disorder Program](http://www.va.gov/directory/guide/SUD.asp)                                                                                                    |                                                        |
-| [Facilities by State](http://www.va.gov/directory/guide/allstate.asp)                                                                                                          | Needs Research for Veteran Demand                      |
-| [Interactive Facility Map](http://www.va.gov/directory/guide/map.asp)                                                                                                          | Complete                                               |
-| [Facility Listing Filter](http://www.va.gov/directory/guide/rpt_fac_list.cfm)                                                                                                  | Needs Research for Veteran Demand                      |
+| [PTSD Program Locator](http://www.va.gov/directory/guide/PTSD.asp)                                                                                                             |  Needs additional detail analysis (taxonomy?), linked to [Intranet resource](https://vaww.va.gov/directory/guide/home.asp)                                                      |
+| [Substance Use Disorder Program](http://www.va.gov/directory/guide/SUD.asp)                                                                                                    |  Needs additional detail analysis (taxonomy?), linked to [Intranet resource](https://vaww.va.gov/directory/guide/home.asp)                                                        |
+| [Facilities by State](http://www.va.gov/directory/guide/allstate.asp)                                                                                                          | Is this used? Need research for veteran demand                    |
+| [Interactive Facility Map](http://www.va.gov/directory/guide/map.asp)                                                                                                          | Is this used? check analytics                                             |
+| [Facility Listing Filter](http://www.va.gov/directory/guide/rpt_fac_list.cfm)                                                                                                  | Is this used? check analytics                      |
 | [VA Canteen Locations](http://www.vacanteen.va.gov/CanteenLocations.php)                                                                                                       |                                                        |
 | [Local VA Voluntary Service Offices](http://www.volunteer.va.gov/directory/index.asp)                                                                                          |                                                        |
 | [Locate a Choice Care Provider](http://www.va.gov/opa/apps/locator)                                                                                                            | Complete - Replaced by Community Care Provider Locator |
