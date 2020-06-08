@@ -18,9 +18,9 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Download VA letters  | 1.59%  | 5.7M | Sign in |
 | Search  | 1.54%  | 5.5M |
 | Find locations  | 1.38%  | 4.9M | 
-| Post GI Bill Statement of Benefits (entry page)  | 0.96%  | 3.4M |  
 | Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
 | Apply for healthcare benefits  | 0.82%  | 2.9M | 
+| Post GI Bill Statement of Benefits (entry page)  | 0.81%  | 2.9M |  
 | How to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
 | Profile and account  | 0.78%  | 2.8M | Sign in | 
 | How to file a disability claim  | 0.74%  | 2.6M |
