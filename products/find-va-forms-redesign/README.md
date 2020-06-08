@@ -65,6 +65,20 @@ __VA forms stakeholder working group includes:__
 
 # Status and decisions:
 
+## 06/08/2020
+
+Summary from a few different threads. 
+
+1/ ROW ID (in VA forms db) - this is unique to each form in the VA forms db. Caveat: Due to human error, sometimes a form manager will delete a form and add the same form (updated version), thereby creating a new ROW ID even though it's the same form number. 
+
+2/ Nightly data extract as a CSV enpoint - ISO approved. 
+
+3/ DevOPs bug fixed; http: VBA forms fixed at the source. Parity btn legacy and modern search - will ungate 6/8. 
+
+4/ LOE for manual content entry of rich form detail content fields done. PW content team will add the custom form detail fields for the top forms + 450 other non-top forms. 
+
+
+
 ## 05/26/2020
 
 Ungating of search currently blocked by various API and form bugs. 
