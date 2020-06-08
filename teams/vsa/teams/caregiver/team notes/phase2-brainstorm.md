@@ -19,6 +19,7 @@
 - Product Guide
 - Product Video
 - 508 Office Review
+- End-to-end testing with Public Websites team
 
 ### Stretch:
 - Address validation
