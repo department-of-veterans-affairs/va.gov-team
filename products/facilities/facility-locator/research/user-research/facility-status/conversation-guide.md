@@ -16,7 +16,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
 - **First, we'll ask you to share your screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
-- **Then, you'll be participating in a couple sorting activitie.** So, we will send you a link to a different website to do that activity. 
+- **Then, you'll be participating in a couple sorting activities.** So, we will send you a link to a different website to do that activity. 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record this session** We use the recordings to confirm that we have captured your opinions - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -25,18 +25,19 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions
+I'd like us to look at the website together, so that I can point out the area that we'll be talking about. I'm going to share a link and ask you to share your screen so that I can follow along. 
 
-Before we look at the website, let’s start with a few warm-up questions.
+*Facilitator shares link and asks participant to share screen*
+https://www.va.gov/find-locations/ 
+
+## Warm-up Questions - 5 minutes
 
 - Are you familiar with VA.gov's location finder? 
 - Have you had a reason to use it recently? What was that experience like?
 
-## First Task: REVIEW LOCATION FINDER - 10 minutes
-*Facilitator shares link and asks participant to share screen*
-https://www.va.gov/find-locations/ 
+## First Task: [REVIEW LOCATION FINDER] - 5 minutes
 
-- I'd like you to imagine that you're travelling and you want to find a VA facility in that area and find out their hours and services. I'm going to give you a zip code. [01904] Can you try to do this search now?
+- I'd like you to imagine that you're travelling and you want to find a VA facility in that area to find out their hours and services. I'm going to give you a zip code. [01904] Can you try to do this search now?
 - Tell me about the information you get about the hours and services at the location in this particular zipcode [01904].
 
     ### Things to watch for:
@@ -45,33 +46,35 @@ https://www.va.gov/find-locations/
 
 We're going to move onto the next exercise. I'm going to share a link with you that I'd like for you to click on.
 
-## Second: [CARD SORT 1 - REVIEW CURRENT STATUSES]  - 5 minutes
-*Facilitator shares OptimalSort link*
-*Facilitator points out the status categories.*
+## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
 
-Today, when a location is not operating with normal hours and services, we can display 1 of 3 possible statuses. I want you to take a moment to look at them and tell me briefly how you'd interpret them.
+Now I'm going to share a link to an activity that I'd like us to do together.  
+
+*Facilitator shares OptimalSort link*
+
+Today, when a location is not operating under normal hours and services, we may display 1 of 3 possible statuses. I want you to take a moment to think about how you'd interpret each status. There aren't any right or wrong answers.
 
 *screen grabs of current design including color color and icon*
 
-    - Facility Notice 
-    - Limited Services
-    - Closed
-    
+    - Facility Closed
+    - Facility notice 
+    - Limited services
+
+## Third Task: [MULTIPLE CHOICE - CHOOSE A STATUS]  - 5 minutes
+ 
+*Facilitator explains multiple choice activity.*
+
+Now, i'd like you to read over this blurb and choose which status you think it should have.
+
+## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
+
 *Facilitator explains the card sorting activity.*
 
-On the left, you see a few examples of descriptions that you might see that could accompany the 3 statuses. Take a minute to sort the descriptions under the status that makes the most sense to you.
-
-## Third Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 15 minutes
-
-*Facilitator explains the card sorting activity.*
-
-This time you'll see a number of different scenarios that can impact a VA facilities hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You can create and name the categories in whatever way makes sense to you.
+Now we're going to look at a number of different scenarios that can impact a VA facility's hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You can create and name the categories in whatever way makes the most sense to you.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of the status categories]
 - [What language is unclear or confusing?]
-
 
 ## Post-Task Interview - 15 minutes
 
