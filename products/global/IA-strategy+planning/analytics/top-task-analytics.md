@@ -1,6 +1,6 @@
 # Top task analytics 
 
-What do people do on VA.gov? To find out, we're using Google Analytics as a starting point.
+To find the top tasks people people do on VA.gov, we're using Google Analytics.
 
 One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed, which counts as a new session.
 
