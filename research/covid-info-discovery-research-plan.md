@@ -8,7 +8,7 @@ Previous rounds of research focused on a chatbot as a way of communicating infor
 - Understand awareness and discoverability of the chatbot.
 - Identify usability shortcomings and potential improvements for interacting with the chatbot.
 
-Our hypothesis is that participants will follow many different paths on va.gov to find coronavirus information and that the chatbot is difficult to discover during that process. 
+Our hypothesis is that participants will follow many different paths on va.gov to find coronavirus information and that the chatbot is difficult to discover during that process.
 
 
 ## Method
@@ -30,17 +30,17 @@ Tuesday, May 5, 8AM - 3PM ET
 Wednesday, May 6, 8AM - 1PM ET  
 Thursday, May 7, 8AM - 3PM ET
 
-A pilot session will take place Monday, May 4 at 2PM ET with Jedda Puzon (jeddalyn.puzon@thoughtworks.com).
+A pilot session will take place Monday, May 4 at 2PM ET with Jedda Puzon.
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
-- Moderator: Todd Stanich (todd.stanich@thoughtworks.com)
-- Research guide writing and task development (usually but not always same as moderator): Todd Stanich (todd.stanich@thoughtworks.com)
+- Moderator: Todd Stanich
+- Research guide writing and task development (usually but not always same as moderator): Todd Stanich
 - Participant recruiting & screening: Perigean
-- Project point of contact: Kaeli Yuen (Kaeli.Yuen@va.gov)
-- Participant(s) for pilot test: Jedda Puzon (jeddalyn.puzon@thoughtworks.com)
+- Project point of contact: Kaeli Yuen
+- Participant(s) for pilot test: Jedda Puzon
 - Note-takers: One of the observers below
-- Observers: Martha Wilkes (Martha.A.Wilkes@omb.eop.gov), Trevor Pierce (trevor@adhocteam.us), Danielle Thierry (danielle.thierry.va@gmail.com), Ramya Ramesh (ramyar@thoughtworks.com), Kaeli Yuen (Kaeli.Yuen@va.gov), Jedda Puzon (jeddalyn.puzon@thoughtworks.com)
+- Observers: Martha Wilkes, Trevor Pierce, Danielle Thierry, Ramya Ramesh, Kaeli Yuen, Jedda Puzon
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)

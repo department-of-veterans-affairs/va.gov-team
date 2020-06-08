@@ -29,17 +29,17 @@ Tuesday, April 21, 8AM - 10AM ET, 12PM - 6PM ET
 Wednesday, April 22, 8AM - 1PM ET  
 Thursday, April 23, 12PM - 3:30PM ET
 
-A pilot session will take place Wednesday, April 15 at 3PM ET with Ramya Ramesh (ramyar@thoughtworks.com).
+A pilot session will take place Wednesday, April 15 at 3PM ET with Ramya Ramesh.
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
-- Moderator: Todd Stanich (todd.stanich@thoughtworks.com)
-- Research guide writing and task development (usually but not always same as moderator): Todd Stanich (todd.stanich@thoughtworks.com)
+- Moderator: Todd Stanich
+- Research guide writing and task development (usually but not always same as moderator): Todd Stanich
 - Participant recruiting & screening: Perigean
-- Project point of contact: Kaeli Yuen (Kaeli.Yuen@va.gov)
-- Participant(s) for pilot test: Ramya Ramesh (ramyar@thoughtworks.com)
+- Project point of contact: Kaeli Yuen
+- Participant(s) for pilot test: Ramya Ramesh
 - Note-takers: One of the observers below
-- Observers: Martha Wilkes (Martha.A.Wilkes@omb.eop.gov), Trevor Pierce (trevor@adhocteam.us), Danielle Thierry (danielle.thierry.va@gmail.com), Ramya Ramesh (ramyar@thoughtworks.com), Kaeli Yuen (Kaeli.Yuen@va.gov), Patrick Bateman (patrick.bateman@va.gov)
+- Observers: Martha Wilkes, Trevor Pierce, Danielle Thierry, Ramya Ramesh, Kaeli Yuen, Patrick Bateman
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)

@@ -30,13 +30,13 @@ We are able to begin testing Thursday, April 2. We understand this does not prov
 A pilot session will take place Wednesday, April 1 with either Ramya Ramesh or Katie Ho.
 
 ## Team Roles
-- Moderator: Todd Stanich (todd.stanich@thoughtworks.com 336-251-3301)
+- Moderator: Todd Stanich
 - Research guide writing and task development: Todd Stanich
 - Participant recruiting & screening: Perigean
-- Project point of contact: Kaeli Yuen (Kaeli.Yuen@va.gov)
-- Participant(s) for pilot test: Ramya Ramesh (ramyar@thoughtworks.com) or Katie Ho (kho@thoughtworks.com)
-- Note-takers: Ramya Ramesh (ramyar@thoughtworks.com), Katie Ho (kho@thoughtworks.com)
-- Observers: Ramya Ramesh (ramyar@thoughtworks.com), Katie Ho (kho@thoughtworks.com), Karl Brown (kabrown@thoughtworks.com), Kaeli Yuen (Kaeli.Yuen@va.gov), Shefali Nayak (shefali.nayak@thoughtworks.com), Aaron Barth (aaron.barth@va.gov)
+- Project point of contact: Kaeli Yuen
+- Participant(s) for pilot test: Ramya Ramesh or Katie Ho
+- Note-takers: Ramya Ramesh, Katie Ho
+- Observers: Ramya Ramesh, Katie Ho, Karl Brown, Kaeli Yuen, Shefali Nayak, Aaron Barth
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)
