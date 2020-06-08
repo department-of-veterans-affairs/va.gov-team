@@ -35,10 +35,14 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Health account validation  | 0.45%  | 1.6M | Sign in |
 | Schedule and view appointments (entry page)  | 0.38%  | 1.4M |
 
+### Top 25 pages viewed (ALL VA.gov pages)
+This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
 
-**Coming soon:**
-- ALL pages (MHV + EB)
-- Top entry points
+**Pages that appeared multiple times within the top 50 pages show as one row below.** (Example: track claims.)
+
+| Page / Task  | % of page views | # of users | Requires sign in? |
+| :--- | ---: | ---: | :--- |
+
 
 
 
