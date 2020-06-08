@@ -821,8 +821,13 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[KEYBOARD]: EYB - Focus MUST be returned to the trigger when modals are closed in IE11 - #9241](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9241)<br/>
 **Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: EYB - CONSIDER updating link text "this page" to more descriptive labels - #9243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9243)<br/>
-**Opened:** May 18, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
+**Opened:** June 8, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT EYB - CONSIDER making the Show Next and Show All buttons use full button styles - #9952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9952)<br/>
+**Opened:** June 8, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+- [[DESIGN]: GIBCT EYB - CONSIDER updating the School Locations table to use VA table styles - #9954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9954)<br/>
+**Opened:** June 8, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
+
 
 Back to [Table of Contents](#table-of-contents)
 
