@@ -3,6 +3,7 @@
 - [Express Care project brief](../express-care-project-brief.md)
 - [Research plan](../2020-may-research/express-care-research-plan.md)
 - [Conversation guide](../2020-may-research/express-care-conversation-guide.md)
+- [Express Care research report - WIP](../2020-may-research/express-care-research-report.md)
 
 ## Participant list and notes
 
@@ -23,11 +24,19 @@
 
 ## May 2020 Research: Top takeaways
 
-|                                                              |      |      |
+| Number of participants who...                                | #    | %    |
 | ------------------------------------------------------------ | ---- | ---- |
-| Number of participants that knew of "Express Care"           |      |      |
-| Number of participants that used VA Telehealth before        |      |      |
-| *From appointments screen:* Number of participants that chose "Request an Express Care screening" button |      |      |
-| *From appointments screen:* Number of participants that chose "New Appointment" button |      |      |
-| *From appointments list:* Number of participants that chose "Express Care" option |      |      |
-| *From appointments list:* Number of participants that chose "Same-day Telehealth screening" option |      |      |
+| Said they knew about / heard about "Express Care"*           | 2    | 18%  |
+| Have used VA Telehealth before                               | 10   | 91%  |
+| Expect a response from a medical professional                | 10   | 91%  |
+| Expect / want to be seen by PACT                             | 5    | 45%  |
+| Thought they would instantly be connected to chat / Telehealth appointment / receive a call | 2    | 18%  |
+| Consider same-day visits and pre-scheduled appointments the same (for scheduling) | 3    | 27%  |
+| [from the appointment screen] select:  "Request Express Care Screening" button | 8    | 73%  |
+| [from the appointment screen] select:  "New appointment" button | 3    | 27%  |
+| [from the appointment list] select:  "Express Care" option   | 2    | 18%  |
+| [from the appointment list] select:  "same-day Telehealth" option | 3    | 27%  |
+| Like / want to continue to use Telehealth                    | 11   | 100% |
+| would use "Express Care" / Telehealth for COVID screening    | 11   | 100% |
+
+*None of the participants could accurately define "Express Care", even if they said they knew what it was.

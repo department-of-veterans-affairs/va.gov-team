@@ -1,21 +1,3 @@
-# Express Care 
-## Problem Statement:
-COVID-19 is creating hot spots throughout the country. These hot spots put a strain on VA medical facilities and staff as they try and field calls and screen patients.
-
-As a Veteran who lives in a geographical COVID-19 hot spot, I need to be provided a way get immediate COVID-19 screening and evaluation from my VA doctor/PACT team.
-
-As a VA facility located in a COVID-19 hot spot, I need to be able to screen and evaluate VA patients through a digital medium so that I can limit exposure of VA staff and patients to potential COVID-19 cases and/or alleviate need for in-person evaluation this is creating operational bottlenecks. I want to do this by PACT.
-
-## Goal:
-- Understand how Veterans would seek out immediate COVID-19 evaluation/care
-- Understand how VA can provide immediate, digital evaluation for COVID-19 (Currently believe existing Express Care/VAR resources services can help create user flow needed for immediate COVID-19 redirection)
-- What's possible with existing Express Care and VAR resources to solve for user and VA needs
-- Develop solution that appropriately directs veterans to right care/screening for COVID-19 within VAOS for hot spots
-
-## Timeline:
-- Friday, 4/3 have researched/tested options for rapid implementation within VAOS on directing Veterans to immediate screening and/or care due to COVID-19
-
-*******
 # Express Care project brief
 
 ## Overview: 
