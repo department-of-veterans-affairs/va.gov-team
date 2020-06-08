@@ -10,4 +10,4 @@
 ## Backend
 - Send PDF attachment to CARMA
 - Address eMIS verififation bug
-- Privacy & Security Review
+- [Privacy & Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/117)
