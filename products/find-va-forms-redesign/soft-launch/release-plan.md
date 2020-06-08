@@ -47,7 +47,7 @@ Moderated production testing (also known as User Acceptance Testing, or UAT)
 Unmoderated production testing
 
 ### Planning:
-- **Desired date range:** 4/29-5/1
+- **Desired date range:** 6/08 - 6/12
 - **Desired number of unique users:** 300 (based on number of unique users navigating to /vaforms from a query for "forms" on VA.gov's on-site search
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** 
   - Live in production no longer behind auth
