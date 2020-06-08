@@ -1,6 +1,8 @@
 # Legacy Locators
 
-This list of locators was taken from https://github.com/department-of-veterans-affairs/vets.gov-team/issues/1528 
+This list of locators was taken from https://github.com/department-of-veterans-affairs/vets.gov-team/issues/1528
+
+There is also an [intranet locator](https://vaww.va.gov/directory/guide/home.asp) this is also contains data for both facilities and staff profiles. This is a data source for several Locators such as PTSD, SUD, etc.
 
 | Old Locator                                                                                                                                                                    | Status                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
