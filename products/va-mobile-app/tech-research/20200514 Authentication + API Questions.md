@@ -1,6 +1,6 @@
 # VA Mobile App Authentication + API Questions
 
-May 14, 2020
+May 14, 2020 (email)
 
 ## Authentication: Why not use SSOe or cookie-auth?
 In March, we presented three different options for login and ultimately recommended an OAuth implementation. This is because:
