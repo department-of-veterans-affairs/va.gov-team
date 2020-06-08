@@ -10,27 +10,28 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | Page / Task  | % of page views | # of users | Requires sign in |
 | :--- | ---: | ---: | :--- |
 | VA.gov homepage  | 13.52%  | 48,345,852 |
-| Track claims  | 10.58%  | 37,830,479 | 
-| Claim or appeal status  | 7.25%  | 25,939,463 |
+| Track claims  | 10.58%  | 37,830,479 | Yes |
+| Claim or appeal status (entry page)  | 7.25%  | 25,939,463 | 
 | Sorry — we can’t find that page  | 6.95%  | 24,837,572 |
-| Sign in  | 5.34%  | 19,136,699 | 
-| myVA  | 2.37%  | 8,505,980 | 
-| Download VA letters  | 1.59%  | 5,663,144 | 
+| Sign in  | 5.34%  | 19,136,699 | Yes |
+| myVA  | 2.37%  | 8,505,980 | Yes |
+| Download VA letters  | 1.59%  | 5,663,144 | Yes |
 | Search  | 1.54%  | 5,513,945 |
-| Post GI Bill Statement of Benefits or benefit status  | 1.54%  | 5,497,137 | 
 | Find locations  | 1.38%  | 4,908,221 | 
-| Get veteran ID cards  | 0.89%  | 3,209,853 | 
+| Post GI Bill Statement of Benefits (entry page)  | 0.96%  | 3,369,881 |  
+| Get veteran ID cards  | 0.89%  | 3,209,853 | Yes | 
 | Apply for healthcare benefits  | 0.82%  | 2,933,040 | 
 | How to apply for GI Bill and related benefits  | 0.78%  | 2,786,122 |
-| Profile and account  | 0.78%  | 2,781,478 | 
+| Profile and account  | 0.78%  | 2,781,478 | Yes | 
 | How to file a disability claim  | 0.74%  | 2,651,847 |
-| VA payment history  | 0.67%  | 2,402,817 |
+| VA payment history  | 0.67%  | 2,402,817 | Yes |
 | Coronavirus FAQs  | 0.62%  | 2,205,680 |
-| Log out  | 0.53%  | 1,886,815 |
-| Prescription refill and tracking  | 0.49%  | 1,743,520 |
+| Log out  | 0.53%  | 1,886,815 | Yes |
+| Prescription refill and tracking  | 0.49%  | 1,743,520 | Yes |
+| Post GI Bill Benefit Status  | 0.48%  | 1,704,997 | Yes | 
 | Disability compensation  | 0.46%  | 1,656,304 |
-| Health account validation  | 0.45%  | 1,593,182 |
-| View appointments  | 0.38%  | 1,375,014 |
+| Health account validation  | 0.45%  | 1,593,182 | Yes |
+| Schedule and view appointments (entry page)  | 0.38%  | 1,375,014 |
 
 
 **Coming soon:**
