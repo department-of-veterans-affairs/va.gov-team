@@ -35,5 +35,8 @@ Status: In progress
 - N/A
 ## Outstanding questions
 
+## Answered questions
 - Will we still need to include the VA organization?
+   - This will be unclear for a while, but probably not, given that HSRM appears to require very little information (based on comments from Mike R)
 - We currently allow you to omit the provider and also for users to enter the details on their own. Is that supported?
+   - As far as we know, HSRM does not require a provider
