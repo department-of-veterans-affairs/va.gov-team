@@ -42,6 +42,13 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
+| My HealtheVet homepage  | 13.30%  | 143M |
+| My HealtheVet - Sign in  | 6.14%  | 66M | Sign in |
+| My HealtheVet - Secure messaging  | 5.28%  | 56.8M | Sign in |
+| My HealtheVet - Refill prescriptions  | 4.36%  | 46.9M | Sign in | 
+| VA.gov homepage  | 3.85%  | 41.4M | 
+| VA DoD eBenefits homepage  | 3.57%  | 38.4M | 
+
 
 
 
