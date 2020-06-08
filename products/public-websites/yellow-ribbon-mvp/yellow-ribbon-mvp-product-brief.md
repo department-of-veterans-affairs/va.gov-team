@@ -186,7 +186,9 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
+  - 05/08/2020
 - *What is your date for when you'll evaluate impact after launch?*
+  - 05/15/2020
 
 ---
 
