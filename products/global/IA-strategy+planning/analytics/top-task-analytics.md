@@ -11,29 +11,29 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
-| VA.gov homepage  | 13.52%  | 48.3M |
-| Track claims  | 10.58%  | 37.8M | Sign in |
-| Claim or appeal status (entry page)  | 7.25%  | 25.9M | 
-| Sorry — we can’t find that page  | 6.95%  | 24.8M |
-| Sign in  | 5.34%  | 19.1M | Sign in |
-| myVA  | 2.37%  | 8.5M | Sign in |
-| Download VA letters  | 1.59%  | 5.7M | Sign in |
-| Search  | 1.54%  | 5.5M |
-| Find locations  | 1.38%  | 4.9M | 
-| Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
-| Apply for healthcare benefits  | 0.82%  | 2.9M | 
-| Post GI Bill Statement of Benefits (entry page)  | 0.81%  | 2.9M |  
-| How to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
-| Profile and account  | 0.78%  | 2.8M | Sign in | 
-| How to file a disability claim  | 0.74%  | 2.6M |
-| VA payment history  | 0.67%  | 2.4M | Sign in |
-| Coronavirus FAQs  | 0.62%  | 2.2M |
-| Log out  | 0.53%  | 1.9M | Sign in |
-| Prescription refill and tracking  | 0.49%  | 1.7M | Sign in |
-| Post GI Bill Benefit Status  | 0.48%  | 1.7M | Sign in | 
-| Disability compensation  | 0.46%  | 1.6M |
-| Health account validation  | 0.45%  | 1.6M | Sign in |
-| Schedule and view appointments (entry page)  | 0.38%  | 1.4M |
+| 1. VA.gov homepage  | 13.52%  | 48.3M |
+| 2. Track claims  | 10.58%  | 37.8M | Sign in |
+| 3. Claim or appeal status (entry page)  | 7.25%  | 25.9M | 
+| 4. Sorry — we can’t find that page  | 6.95%  | 24.8M |
+| 5. Sign in  | 5.34%  | 19.1M | Sign in |
+| 6. myVA  | 2.37%  | 8.5M | Sign in |
+| 7. Download VA letters  | 1.59%  | 5.7M | Sign in |
+| 8. Search  | 1.54%  | 5.5M |
+| 9. Find locations  | 1.38%  | 4.9M | 
+| 10. Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
+| 11. Apply for healthcare benefits  | 0.82%  | 2.9M | 
+| 12. Post GI Bill Statement of Benefits (entry page)  | 0.81%  | 2.9M |  
+| 13. How to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
+| 14. Profile and account  | 0.78%  | 2.8M | Sign in | 
+| 15. How to file a disability claim  | 0.74%  | 2.6M |
+| 16. VA payment history  | 0.67%  | 2.4M | Sign in |
+| 17. Coronavirus FAQs  | 0.62%  | 2.2M |
+| 18. Log out  | 0.53%  | 1.9M | Sign in |
+| 19. Prescription refill and tracking  | 0.49%  | 1.7M | Sign in |
+| 20. Post GI Bill Benefit Status  | 0.48%  | 1.7M | Sign in | 
+| 21. Disability compensation  | 0.46%  | 1.6M |
+| 22. Health account validation  | 0.45%  | 1.6M | Sign in |
+| 23. Schedule and view appointments (entry page)  | 0.38%  | 1.4M |
 
 ### Top 25 pages viewed (ALL VA.gov pages)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
@@ -42,12 +42,17 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 
 | Page / Task  | % of page views | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
-| My HealtheVet homepage  | 13.30%  | 143M |
-| My HealtheVet - Sign in  | 6.14%  | 66M | Sign in |
-| My HealtheVet - Secure messaging  | 5.28%  | 56.8M | Sign in |
-| My HealtheVet - Refill prescriptions  | 4.36%  | 46.9M | Sign in | 
-| VA.gov homepage  | 3.85%  | 41.4M | 
-| VA DoD eBenefits homepage  | 3.57%  | 38.4M | 
+| 1. My HealtheVet homepage  | 13.30%  | 143M |
+| 2. My HealtheVet - Sign in  | 6.14%  | 66M | Sign in |
+| 3. My HealtheVet - Secure messaging  | 5.28%  | 56.8M | Sign in |
+| 4. My HealtheVet - Refill prescriptions  | 4.36%  | 46.9M | Sign in | 
+| 5. VA.gov Home - Veterans Affairs  | 3.85%  | 41.4M | 
+| 6. VA DoD eBenefits home  | 3.57%  | 38.4M | 
+| 7. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 8. Find VA Locations - Veterans Affairs  | 2.89%  | 31M |  
+
+| 6. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
+| 6. Track Claims - Veterans Affairs  | 3.14%  | 33.8M | Sign in |
 
 
 
