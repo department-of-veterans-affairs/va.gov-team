@@ -42,28 +42,28 @@ Because of the limitations and quirks of Google Analytics, the "pages" below are
 
 Pages with "Veterans Affairs" in the title are on VA.gov.
 
-| Page / Task  | % of page views | # of users | Requires sign in? |
-| :--- | ---: | ---: | :--- |
-| 1. My HealtheVet homepage  | 13.30%  | 143M |
-| 2. My HealtheVet - Sign in  | 6.14%  | 66M | Sign in |
-| 3. My HealtheVet - Secure messaging  | 5.28%  | 56.8M | Sign in |
-| 4. My HealtheVet - Refill prescriptions  | 4.36%  | 46.9M | Sign in | 
-| 5. Veterans Affairs - VA.gov Home  | 3.85%  | 41.4M | 
-| 6. VA DoD eBenefits home  | 3.57%  | 38.4M | 
-| 7. Veterans Affairs - Track Claims  | 3.14%  | 33.8M | Sign in |
-| 8. Veterans Affairs - Find VA Locations  | 2.89%  | 31M |  
-| 9. Veterans Affairs - -Check your VA claim or appeal status  | 2.41%  | 25.9M | 
-| 10. Track Claims: VA.gov  | 2.28%  | 24.5M | Sign in | 
-| 11. My HealtheVet - Labs and Tests  | 2.14%  | 23M | Sign in |
-| 12. Veterans Affairs - Auth  | 1.89%  | 20.4M | Sign in | 
-| 13. Appointments - My HealtheVet  | 1.78%  | 19.1M | Sign in | 
-| 14. VA.gov  | 1.43%  | 15.4M |
-| 15. My HealtheVet - Compose Message  | 1.24%  | 13.3M | Sign in |
-| 16. My HealtheVet - VA Blue Button Report  | 1.08%  | 11.6M | Sign in | 
+| Page / Task  | Website | % of page views | # of users | Requires sign in? |
+| :--- | :--- | ---: | ---: | :--- |
+| 1. MHV home  | My HealtheVet | 13.30%  | 143M |
+| 2. Sign in  | My HealtheVet | 6.14%  | 66M | Sign in |
+| 3. Secure messaging  | My HealtheVet | 5.28%  | 56.8M | Sign in |
+| 4. Refill prescriptions  | My HealtheVet | 4.36%  | 46.9M | Sign in | 
+| 5. VA.gov home  | VA.gov | 3.85%  | 41.4M | 
+| 6. VA DoD eBenefits home  | eBenefits | 3.57%  | 38.4M | 
+| 7. Track Claims  | VA.gov | 3.14%  | 33.8M | Sign in |
+| 8. Find VA Locations  | VA.gov | 2.89%  | 31M |  
+| 9. Check your VA claim or appeal status  | VA.gov | 2.41%  | 25.9M | 
+| 10. Track Claims  | VA.gov | 2.28%  | 24.5M | Sign in | 
+| 11. Labs and Tests  | My HealtheVet | 2.14%  | 23M | Sign in |
+| 12. Auth  | VA.gov | 1.89%  | 20.4M | Sign in | 
+| 13. Appointments  | My HealtheVet | 1.78%  | 19.1M | Sign in | 
+| 14. VA.gov  | VA.gov | 1.43%  | 15.4M |
+| 15. Compose Message  | My HealtheVet | 1.24%  | 13.3M | Sign in |
+| 16. VA Blue Button Report  | My HealtheVet | 1.08%  | 11.6M | Sign in | 
 | 17. VA/DoD eBenefits - About This Feature  | 0.84%  | 9M | 
-| 18. Status - Your Compensation Claim  | 0.81%  | 8.8M | Sign in |
-| 19. My HealtheVet - Download My Data  | .75%  | 8M | Sign in | 
-| 20. Veterans Affairs - Apply For Education Benefits  | 0.74%  | 7.9M | 
+| 18. Status - Your Compensation Claim  | VA.gov | 0.81%  | 8.8M | Sign in |
+| 19. Download My Data  | My HealtheVet | .75%  | 8M | Sign in | 
+| 20. Apply For Education Benefits  | VA.gov | 0.74%  | 7.9M | 
 
 
 
