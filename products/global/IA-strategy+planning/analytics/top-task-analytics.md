@@ -6,8 +6,8 @@ We plan to baseline test these top tasks with veterans regularly on both desktop
 
 #### On this page
 * [Mobile usage for all VA websites](#mobile-usage-for-all-VA-websites) 
-* [Top 25 pages for modernized pages only](#top-25-pages-for-modernized-pages-only)
-* [Top 25 pages for all VA websites](#top-25-pages-for-all-VA-websites)
+* [Top pages for modernized pages only](#top-pages-for-modernized-pages-only)
+* [Top pages for all VA websites](#top-pages-for-all-VA-websites)
 
 One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed —- and that counts as a new session.
 
@@ -18,7 +18,7 @@ This [mobile usage report for June 3, 2019 to June 3, 2020](https://analytics.go
 * Tablet users: **5.11%** or 4.3M
 
 
-### Top 25 pages for modernized pages only
+### Top pages for modernized pages only
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. 
 
 **Within the top 50 page views, we combined multiple pages for the same task into a single row.** (Examples: track claims, download VA letters)
@@ -49,12 +49,10 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | 22. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
 
 
-### Top 25 pages for all VA websites
+### Top pages for all VA websites
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows usage of VA.gov, MyHealtheVet, and eBenefits. 
 
 Because of the limitations and quirks of Google Analytics, the "pages" below are actually groups of pages represented by pages with the same < title > tag. For this reason, we did not combine items that are part of the same task. (Example: On MyHealtheVet, we would consider secure messaging and compose message parts of the same task.)
-
-Pages with "Veterans Affairs" in the title are on VA.gov.
 
 | Page / Task  | Website | % of page views | # of users | Requires sign in? |
 | :--- | :--- | ---: | ---: | :--- |
