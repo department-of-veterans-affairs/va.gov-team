@@ -18,7 +18,7 @@ indicating how you want your form set up as well as how you want it to look. Thi
   ...lots of code
  }
  ```
-This config object contains many options - 
+This config object contains many name/ value pairs - 
 
 <details>
 <summary>urlPrefix: '/'</summary>
