@@ -73,7 +73,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - No credentials required
 - Top Recommendations (Best Bets) reflect new Forms experience via on-site search
 - "Find a VA form" footer link updated
-- Redirect from `/vaforms` to `/find-forms` implemented [Ticket #5631](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5163)
+- Redirect from `/vaforms` to `/find-forms` implemented [Ticket #5163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5163)
 - Remove 'no-index' so that it becomes searchable
 
 ### Planning:
