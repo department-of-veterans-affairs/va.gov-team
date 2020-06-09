@@ -1,18 +1,20 @@
 # Top task analytics 
 
-Our goal is to find the top tasks people people do on VA.gov. Once we know this, we plan to baseline test these top tasks with veterans regularly. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov on both desktop and mobile devices. 
+**Our goal is to find the top tasks people people do on VA.gov.** 
+
+Once we know this, we plan to baseline test these top tasks with veterans regularly. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov on both desktop and mobile devices. 
 
 #### On this page
-* [Mobile usage for all pages](#mobile-usage-for-all-pages) 
-* [What we do](#what-we-do)
-* [Working with us](#working-with-us)
+* [Mobile usage for all VA websites](#mobile-usage-for-VA-websites) 
+* [Top 25 pages for modernized pages only](#top-25-pages-for-modernized-pages-only)
+* [Top 25 pages for all VA websites](#top-25-pages-for-all-VA-websites)
 
 One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed —- and that counts as a new session.
 
-### Mobile usage for all pages
+### Mobile usage for all VA websites
 This XYZ...
 
-### Top 25 pages viewed (modernized VA.gov pages only)
+### Top 25 pages for modernized pages only
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. 
 
 **Within the top 50 page views, we combined multiple pages for the same task into a single row.** (Examples: track claims, download VA letters)
@@ -43,8 +45,8 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | 22. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
 
 <br></br>
-### Top 25 pages viewed (all VA.gov pages)
-This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of VA.gov going to the following pages. 
+### Top 25 pages for all VA websites
+This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows users of going to VA.gov, MyHealtheVet, and eBenefits. 
 
 Because of the limitations and quirks of Google Analytics, the "pages" below are actually groups of pages represented by pages with the same < title > tag. For this reason, we did not combine items that are part of the same task. (Example: On MyHealtheVet, we would normally consider secure messaging and compose message parts of the same task.)
 
