@@ -20,29 +20,13 @@ indicating how you want your form set up as well as how you want it to look. Thi
  ```
 This config object contains many name/ value pairs - 
 
-<details>
-<summary>urlPrefix: '/'</summary>
-<br>
-This does something but I don't know what it is.
-</details>
+* urlPrefix: '/' - This does something but I don't know what it is.
 
-<details>
-<summary>trackingPrefix: 'complex-form-'</summary>
-<br>
-This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
-</details>
+* trackingPrefix: 'complex-form-' - This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
 
-<details>
-<summary>introduction: IntroductionPage</summary>
-<br>
-This is a React component that is passed in as the introduction page for your form and appears when the user goes to the root URL for your form in your manifest.json file. The introduction page component is a regular React component and thus has access to and behaves just like any other React component you have ever used. 
-</details>
+* introduction: IntroductionPage - This is a React component that is passed in as the introduction page for your form and appears when the user goes to the root URL for your form in your manifest.json file. The introduction page component is a regular React component and thus has access to and behaves just like any other React component you have ever used. 
   
-<details>
-<summary>confirmation: ConfirmationPage</summary>
-<br>
-This is a React component that is passed in as the confirmatio page for your form and appears once your form is submitted. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. You can do things like connecting it to Redux if you need access to our Redux store.
-</details>
+* confirmation: ConfirmationPage - This is a React component that is passed in as the confirmatio page for your form and appears once your form is submitted. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. You can do things like connecting it to Redux if you need access to our Redux store.
 
 </details>
 </details>
