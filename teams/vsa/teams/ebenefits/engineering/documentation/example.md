@@ -28,7 +28,7 @@ This does something but I don't know what it is.
 <details>
 <summary>trackingPrefix: 'complex-form-'</summary>
 <br>
-> This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
+`This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)`
 </details>
   
   This central config file also contains a set of
