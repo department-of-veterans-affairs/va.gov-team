@@ -17,6 +17,13 @@ indicating how you want your form set up as well as how you want it to look. Thi
   ...lots of code
  }
  ```
+This config object contains many options - 
+
+<details>
+<summary>urlPrefix: '/'</summary>
+<br>
+This does something but I don't know what it is.
+</details>
   
   This central config file also contains a set of
 chapters & pages for your form, chapters can be though of as sections of you form and pages are the individual pages of your
