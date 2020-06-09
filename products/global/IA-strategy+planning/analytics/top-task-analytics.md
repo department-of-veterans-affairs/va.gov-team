@@ -45,7 +45,6 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | 20. Disability compensation  | 0.46%  | 1.6M |
 | 21. Health account validation  | 0.45%  | 1.6M | Sign in |
 | 22. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
-
 <br></br>
 ### Top 25 pages for all VA websites
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows usage of VA.gov, MyHealtheVet, and eBenefits. 
