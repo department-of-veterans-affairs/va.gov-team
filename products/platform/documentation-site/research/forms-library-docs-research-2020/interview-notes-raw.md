@@ -1,5 +1,73 @@
 # Forms Library Documentation User Research Notes 
 
+## JC - Interview 6/9/20
+
+Moderator: E 
+Notetaker: K
+
+E: Intro notes … Thank you for joining us. We appreciate your help and feedback.
+
+JC: We’re really excited about the changes you all are working on.
+
+E: This entire session will take about an hour. I might occasionally prompt you for time’ sake. We want to hear your honest opinions and won’t be offended by any opinions and welcome your feedback. There are no right or wrong answers. We just want your input to improve your experience and help ensure we’re making good documentation for people who are working on VA.gov. If for any reason you want to stop the session just let me know. Are you comfortable if we record the screen and audio as we talk today?
+
+E: Are you familiar with forms library documentation?
+
+JC: I am.
+
+E: When did you last reference it?
+
+JC: Earlier today. 
+
+E: What were you looking for?
+
+JC: I was looking at the widgets library. 
+
+E: Did you find what you were looking for?
+
+JC: I did.
+
+E: Have there been times when you couldn’t find what you were looking for?
+
+JC: Finding the answer in the documentation is usually the exception, not the rule. That is mostly because the forms documentation is relatively small, so it doesn’t cover the full breadth of the forms system.
+
+E: Do you reference other docs? 
+
+JC: Yes, the forms system we have was forked from a different/3rd party library that someone else built. We needed more things, so we forked it. That original system has docs as well. 
+
+E: Would you mind posting a link to it? 
+
+JC: Here it is: https://react-jsonschema-form.readthedocs.io/en/latest/ Their docs are pretty decent, but because we copied it and changed it, oftentimes what we’re looking for is specific to ours and not referenced in theirs. They also have a playground/sandbox that you can use so you can see live what happens as you change the configuration. The other main tool I use is VSP product platform support. That has become the first place I have gone since you can usually get a direct response to your question more quickly. Usually they’ll point me to someone else who has done it and usually I can find the answer from there.
+
+E: Do you usually ask the question or use the search function to see if someone else has answered it?
+
+JC: It depends. Most questions are specific to our product, so I’ll just ask the question, but if it’s more general I’ll search first. It’s easy to find similar questions, but the 10% difference is important.
+
+E: Do you have other feedback to share?
+
+JC: I think the forms docs are the kind of thing that started out on the right foot, but as the team has grown it’s almost impossible for the docs to grow at the same rate and the docs can’t keep up with all the people pushing code. One thing that worked well in a previous job was that we started using a documentation generation tool that creates docs from comments in the code, which allows the docs to grow at the same rate. I’m sure all the issues I’ve had you’ve heard from other places and I’m sure you’re trying to push through and fix. I’m sure you’ve heard the docs are great for basics, but fall off as you work on more advanced concepts.
+
+E: We’re going to transition into the activity. I’ll share my screen. This is a google doc that has a series of instructions. It’s a quick reference guide for common tasks developers need to perform. Today we’re trying to get your feedback on this quick reference guide format. Follow the instructions in the blue boxes and leave your feedback in the comments throughout the doc. We’ll let you work for 30 minutes then we’ll come back together to discuss. I’ll send you a link to the doc through Slack and make sure you can see and edit it. I’ll scroll down and you can see 3 tasks, 2 scenarios and one set of follow up questions. Do you have any questions?
+
+JC: It seems straightforward.
+
+E: Feel free to mock up the doc any way you like. We’ll reconvene in 30 minutes and wrap up.
+
+—— BREAK FOR ASYNC ACTIVITY ——
+
+E: We just have a couple of wrapup questions. Can you give us a couple of thoughts about your reaction to this style of documentation?
+ 
+JC: A quick reference like this works well if the types of things you’re looking for are simple things. For example, you’re looking for a couple of permutations of how to write the code, if the options are known. The problem is that with more advanced stuff the number of permutations and combinations becomes exponentially larger and more complicated. Being able to identify them and write about them is probably not possible. Usually when you’re working on simple stuff you usually don’t need the documentation that much. This is probably helpful for beginners, but it will fall off after that. The problem we’re running into is the complicated stuff the forms system isn’t designed to do, so the scenarios wouldn’t have been written about before. In most quick reference guides there are articles about certain tasks, but there aren’t use cases or reasons documented for why you’re doing what you’re doing. In the first scenario I wasn’t able to find a subsection that perfectly described what I would do and ended up putting two together. So, I think documenting how things could be combined would be helpful. 
+ 
+E: From your perspective, do you have an example of a complex interaction that you’d document?
+ 
+JC: If people need to build a custom component that is not included in the design system. For example, we were working on a form where we needed to show the Veteran’s basic contact information, but the Veteran couldn’t edit it in the form. The designers didn’t want to give  them the impression they could change it, so we had to build a static card that listed the Veteran’s information. That component doesn’t exist, so we had to figure out how to build that. We’re working with something that isn’t in the forms system and we also needed to access data that isn’t given to the forms system, so we had to figure out how to connect it. This is an example of more advanced stuff. I don't know if  it’s possible to think through these scenarios in advance. Another example would be the BAM 2 team’s implementation to show information that isn’t readily available in the forms system and using custom components. How can you even think of these advanced scenarios in advance? There were other problems like design issues and multiple designs for the same problem. It’s different from documenting design stuff. With the forms system, you can only do this thing three ways. Being able to write articles is going to be a Herculean task. The playground from the other docs would be helpful, but might not even have been enough for BAM 2’s scenario. 
+ 
+E: Thank you so much for participating and we’re excited to dive into your feedback!
+ 
+JC: Let me know if I can help. I’m really passionate about documentation and would be happy to help in any way.
+
+
 ## RG - Pilot Interview 6/5/20
 
 Moderator: E
