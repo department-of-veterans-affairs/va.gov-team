@@ -35,13 +35,13 @@ This is the analytics tracking prefix your form will use by default ( it is assi
 <details>
 <summary>introduction: IntroductionPage</summary>
 <br>
-This is a React component that is passed in as the introduction page for your form. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. 
+This is a React component that is passed in as the introduction page for your form and appears when the user goes to the root URL for your form in your manifest.json file. The introduction page component is a regular React component and thus has access to and behaves just like any other React component you have ever used. 
 </details>
   
 <details>
 <summary>confirmation: ConfirmationPage</summary>
 <br>
-This is a React component that is passed in as the confirmatio page for your form. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. You can do things like connecting it to Redux if you need access to our Redux store.
+This is a React component that is passed in as the confirmatio page for your form and appears once your form is submitted. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. You can do things like connecting it to Redux if you need access to our Redux store.
 </details>
 
 </details>
