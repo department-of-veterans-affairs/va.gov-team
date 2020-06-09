@@ -108,10 +108,10 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 
 ### Planning:
 - Desired date: 06/18/2020
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Post-launch KPI 1: Compliance with Sec. 508
+- Post-launch KPI 2: Number of CT users & ave. time on profile doesn't decrease compared to previous period
+- Post-launch KPI 3: Users engage with estimate controls at a higher rate than in the previous profile page configuration
+- Post-launch KPI 4: Users engage with accordions 
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
