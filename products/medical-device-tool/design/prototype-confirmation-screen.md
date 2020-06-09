@@ -1,7 +1,10 @@
 # Prototype: Confirmation screen 
 
 Navigation: <br>
-[Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content)
+**Default** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content)<br>
+**Submission error** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md#content)<br>
+
+## Use case - Default
 
 Related links: Invision prototype: [(Desktop)](https://vsateams.invisionapp.com/share/MYVTQ79UGNP) [(Mobile)](https://vsateams.invisionapp.com/share/NCVTQ81RDH7) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6712)
 
@@ -48,4 +51,23 @@ You will receive an email containing an order tracking number within 1-2 busines
 
 What if I have questions about my order? (h3 utility)
 If you have any questions about your order please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+```
+
+## Use case - Submission error
+
+Related links: Invision prototype: [(Desktop)](https://vsateams.invisionapp.com/share/STXMOEPZ3W4) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9783)
+
+### Description 
+If an order is submitted and is unable to be passed through the API to the DLC, we will need to notify the user that their order was not submitted and provide next steps to place an order. 
+
+### Content
+**Note:** Content still needs to be reviewed by content team.
+
+This is the content for the error alert.
+```
+We’re sorry. Your order wasn’t submitted. (Bitter Bold 20pt)
+Your order for hearing aid supplies wasn’t submitted because something went wrong on our end.
+
+What you can do (Bitter Bold 15pt)
+For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
