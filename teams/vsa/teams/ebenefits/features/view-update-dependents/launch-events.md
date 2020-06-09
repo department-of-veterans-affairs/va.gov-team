@@ -75,9 +75,11 @@ _June 3 - June 16_
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
+- BE: Payload PR defragmentation
 
 ## Sprint 24
 _June 17 - June 30_  
+- BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
 - 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)  
 - PD: Stakeholder review/ demo
