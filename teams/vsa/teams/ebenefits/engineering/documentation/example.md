@@ -10,7 +10,11 @@ social security number, then a separate page for the person's address. These two
 a person's information so they make sense to put in a `person-information` chapter ( or something like it ).
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>API Refernce</summary>
 <br>
-This is how you dropdown.
+<details>
+<summary>Another one</summary>
+<br>
+Second one
+</details>
 </details>
