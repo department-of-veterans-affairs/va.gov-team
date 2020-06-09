@@ -6,29 +6,17 @@ Abandon Rate: Not Captured
 
 ## Phase 1: Soft Launch
 
-DLC will have a banner inviting Veterans to try out the new ordering system and announcing transition to new system with date TBD            
+DLC will have a banner inviting Veterans to try out the new ordering system and announcing transition to new system             
 
-- The links on VA.gov will be hidden behind a feature flag during this soft launch period
+- Route 25% of organic traffic on va.gov to 
 - Depending on traffic, issues captured, the soft launch will last 5-7 days while we gather KPIs, work bugs.  
 - Projecting at least 100 orders and <20% abandon rate to move to Phase 2 
 
-## Phase 2: 20% of Traffic 
-
+## Phase 2: 100% of organic va.gov traffic 
 - Duration - 2 days 
-- Dates: TBD 
+- Dates: launch + 5-7 days
 
-## Phase 3: 50% of Traffic 
-
-- Duration - 2 days 
-- Dates: TBD 
-
-## Phase 4: 100% of Traffic 
-
-All feature flags turned off - all links visible to 100% of traffic 
-
-- Dates: TBD
-
-## Go Live!
+## Go Live! Redirent all traffic from eBenefits to va.gov
 
 ### Planning:
 - Desired date: mm/dd/yy
