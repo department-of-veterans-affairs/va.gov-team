@@ -9,7 +9,7 @@ Our goal is to find the top tasks people people do on VA.gov. Once we know this,
 
 One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed —- and that counts as a new session.
 
-### Mobile usage for all VA.gov pages
+###Mobile usage for all VA.gov pages
 This XYZ...
 
 ### Top 25 pages viewed (modernized VA.gov pages only)
