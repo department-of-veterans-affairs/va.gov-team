@@ -58,28 +58,32 @@ _May 6 - May 19_
 - BE: Required BGS Field Mapping for 686 Submission ([#8349](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8349))  ✔
 - Implement Critical Content Changes for the 686 [#8016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8016) ✔
 - FE: pre-QA "smoke test" ([#7201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7201)) ✔
-- DE: 686 usability Sessions  ([#8569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8569)) 👈
-- FE (new): Veteran Info Review Page ([#8838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8838), [#8829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8829)) ✔
 
 ### Sprint 22 
 _May 20 - June 2_
 - ⏳ BE: PDF Send to VBMS (1 Sprint)
 - BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
+- FE (new): Veteran Info Review Page ([#8838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8838), [#8829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8829)) ✔
+- ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) 👈
+
+## Sprint 23
+_June 3 - June 16_  
+- DE: 686 usability Sessions  ([#8569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8569)) ✔
 - ⏳ BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) 👈
 - ⏳ FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) 👈
 - BE/FE: v1 code complete
 - 🌀 [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review)  
-- 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
+
+## Sprint 24
+_June 17 - June 30_  
+- 🌀 [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review)
 - 🌀 [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review)  
-_(Needs architecture diagram, descriptions of any new publicly-exposed endpoints + data flows, interactions with dependent services, other hotspots we are concerned about, if any)_  
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 - FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
-
-## Sprint 23
-_June 3 - June 16_
+- Implement eBenefits user redirect messaging 
 - UAT/ UAT outcome PRs, email whitelist 
 - Launch to n% of users🚀
 - Launch to 100% of users
@@ -88,8 +92,7 @@ _June 3 - June 16_
 - Coordinate page redirects
 - Code hardening/bug fixes
 
-## Sprint 24
-_June 17 - June 30_- Implement eBenefits user redirect messaging 
+## Sprint 25
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - 🌀 [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) (T+28)
