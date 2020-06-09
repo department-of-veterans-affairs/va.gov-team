@@ -53,7 +53,7 @@ _Moderator: Navigate to guided documentation for participant, share screen_
 ## Diary study activity: Guided documentation
 
 - Can you see my screen okay?
-- So what you are looking at here is a Google doc that has a series common examples of form components and instructions on how to fit all the parts together.
+- So what you are looking at here is a Google doc that has a series common examples of form components and instructions on how to fit all the parts together. As the title suggests, we're considering this a "quick reference guide" for common problems developers need to solve when building forms on VA.gov. We expect that this quick reference guide will eventually be paired with other documentation such as an introduction to the forms library, but today we're hoping to get your feedback on the approach we're taking with the quick reference guide. 
 - In addition, you'll notice that throughout the Google doc, there are comments in the sidebar providing an _additional_ layer of instructions and asking you questions and asking for your feedback about the document.
 - What we're asking you to do for the next 30 minutes is to follow the instructions in the [blue box] and in the comments throughout this document. We'll end the video call and let you do this asynchronously on your own, and then after 30 minutes we'll come back together and wrap up. If you get stuck or run into trouble, that is totally okay! There's nothing you can do wrong here, and anything you experience is helpful for us to improve these documents. However, if you get _really_ stuck and need to "phone a friend," we have set up this DM in Slack with you - please send us a message there and we can come back together. 
 - I'll keep a timer for 30 minutes, and then re-open our Zoom link so that we can ask you a couple more questions and wrap up. I will send the zoom link to our DM after 30 minutes have passed. 
@@ -84,12 +84,13 @@ _After 30 minutes, send message to group DM with zoom link prompting everyone to
 
 ## Post-activity interview
 
-- What is your general reaction to this style of guided documentation? 
-    - _Additional clarity if needed: NOT the instructional layer of Google comments, but the contents of the Google doc itself)_
-- What questions do you have after reading this document?
+- What is your general reaction to this style of reference documentation? Not the Google doc activity, but the contents of the documentation itself.
+- What questions do you have after reading the reference documentation?
 - Are the code examples complete and accurate?
 - Are these examples clear on when to use each one?
 - Have you run into any tasks that could use an example in this structure?
+    _May be addressed in 3rd async task_
+- Does this seem different to you than the existing documentation that you reference? Please explain.
 - Do you have any other thoughts or feedback you'd like to share before we wrap up?
 - Is there anyone else you think we should talk to about this?
 - Please send any links that you mentioned to our group DM in Slack
