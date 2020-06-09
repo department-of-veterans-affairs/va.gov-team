@@ -6,24 +6,25 @@
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+- The GI Bill Beneficiaries using the Comparison Tool are lacking additional nuanced data points that are available in the College Scorecard that would help them find schools that are a best fit for their education needs and make better education decisions.  
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
+How might we include additional information within the Comparison Tool regarding unique institution attributes in order to provide more holistic information to GI Bill Beneficiaries that can inform their decisions about how to use their benefits?
+
 ## Desired User Outcomes
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Comparison Tool users are engaging with important College Scorecard student experience features in the tool
+- Comparison Tool users engage with a richer experience in the Comparison Tool
+- Comparison Tool users can more efficiently research the schools they are interested in by utilizing the new College Scorecard data
 
 ## Undesired User Outcomes
-
+- Low engagement on the part of Comparison Tool users with new College Scorecard data points
+- Comparison Tool users are overwhelmed by the volume of information available
+- Criteria that has been added to the Comparison Tool aren't data points that are useful in informing the school selection process
 
 ## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Foresee results and Usability and User Acceptance Testing indicate an improvement in Comparison Tool user experience with the addition of the new data points
 
 ## Undesired Business Outcomes
-
+- New data points aren't being utilized within the Comparison Tool
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
