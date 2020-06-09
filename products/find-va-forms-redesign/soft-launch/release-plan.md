@@ -12,7 +12,7 @@ That's what this Release Plan Template is for! And note - there are feature togg
 - A phased rollout:
   - Phase 1: Basic auth, distributed to Forms Working Group
   - Phase 2: Remove auth, update Top Recommendations (Best Bets) on VA.gov's on-site search
-  - Phase 3: Update footer `Find a VA form` link + implement redirects from `/vaforms`
+  - Phase 3: Update footer `Find a VA form` link + implement redirects from `/vaforms` [See ticket #5163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5163) for list of forms search redirects. 
 ### "Exit velocity" - what will it take to move to the next phase?
 - **Top task conversion rate** One value proposition for the new Find VA Forms experience is we make it easier for Veterans and others to find the things that are most relevant. The existing experience is a basic list of form search results without any preferential treatment for the most often sought after services. The new experience changes that.
 
@@ -73,7 +73,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - No credentials required
 - Top Recommendations (Best Bets) reflect new Forms experience via on-site search
 - "Find a VA form" footer link updated
-- Redirect from `/vaforms` to `/find-forms` implemented
+- Redirect from `/vaforms` to `/find-forms` implemented [Ticket #5631](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5163)
 - Remove 'no-index' so that it becomes searchable
 
 ### Planning:
