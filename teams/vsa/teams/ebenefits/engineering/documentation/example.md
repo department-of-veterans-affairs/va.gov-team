@@ -20,7 +20,7 @@ indicating how you want your form set up as well as how you want it to look. Thi
 This config object contains many options - 
 
 <details>
-<summary>urlPrefix: '/'</summary>
+<summary>`urlPrefix: '/'`</summary>
 <br>
 This does something but I don't know what it is.
 </details>
