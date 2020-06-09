@@ -28,14 +28,22 @@ This does something but I don't know what it is.
 <details>
 <summary>trackingPrefix: 'complex-form-'</summary>
 <br>
-`This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)`
+This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
+</details>
+
+<details>
+<summary>introduction: IntroductionPage</summary>
+<br>
+This is a React component that is passed in as the introduction page for your form. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. 
 </details>
   
+
+</details>
+</details>
+
   This central config file also contains a set of
 chapters & pages for your form, chapters can be though of as sections of you form and pages are the individual pages of your
 form. A chapter can contain multiple pages, for instance if you want to have one section of your form that contains all of a
 person's personal information and then inside that chapter you could have a separate page for name and basic information like
 social security number, then a separate page for the person's address. These two pages of information can conceptually both be
 a person's information so they make sense to put in a `person-information` chapter ( or something like it ).
-</details>
-</details>
