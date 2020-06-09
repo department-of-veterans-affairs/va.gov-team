@@ -5,25 +5,33 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
+If users search for content in the Comparison Tool right now using abbreviations (such as UCLA or USC) or if they accidentally include a mispelling, then the results they are searching for will not be returned. 
+
+How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations or based on mispellings. 
+
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## Desired User Outcomes
 
+- It is easier for users to find what they are looking for if searching for abbreviations or mispelled content
+
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
-
+- 
 
 ## Desired Business Outcomes
+- Improve Comparison Tool user satisfaction by making it easier for people to find what they are looking for in the tool
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-
+- 
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
