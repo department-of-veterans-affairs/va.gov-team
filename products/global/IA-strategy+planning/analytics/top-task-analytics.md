@@ -2,7 +2,7 @@
 
 **We've been researching the top tasks people do on VA.gov to prepare for baseline usability testing.** 
 
-We plan to baseline test these top tasks with veterans regularly on both desktop and mobile devices. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov. 
+We plan to baseline test top tasks with veterans regularly on both desktop and mobile devices. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov. 
 
 #### On this page
 * [Mobile usage for all VA websites](#mobile-usage-for-all-VA-websites) 
@@ -13,13 +13,13 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 
 
 ### Mobile usage for all VA websites
-This [mobile usage report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&_.useg=builtin1,builtin28,builtin26/) shows mobile and tablet usage for all VA websites among all users and new users. Here are highlights:
+[This mobile usage report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&_.useg=builtin1,builtin28,builtin26/) shows mobile and tablet usage for all VA websites among all users and new users. Here are highlights:
 * Mobile users: **39.59%** or 33.8M
 * Tablet users: **5.11%** or 4.3M
 
 
 ### Top pages for modernized pages only
-This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. 
+[This page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. 
 
 **Within the top 50 page views, we combined multiple pages for the same task into a single row.** (Examples: track claims, download VA letters)
 
@@ -50,7 +50,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 
 
 ### Top pages for all VA websites
-This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows usage of VA.gov, MyHealtheVet, and eBenefits. 
+[This page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows usage of VA.gov, MyHealtheVet, and eBenefits. 
 
 Because of the limitations and quirks of Google Analytics, the "pages" below are actually groups of pages represented by pages with the same < title > tag. For this reason, we did not combine items that are part of the same task. (Example: On MyHealtheVet, we would consider secure messaging and compose message parts of the same task.)
 
