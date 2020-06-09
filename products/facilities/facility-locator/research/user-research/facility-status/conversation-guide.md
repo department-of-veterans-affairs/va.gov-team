@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Links to VA Locator: https://www.va.gov/find-locations/
-- [ ] Links to card sort: 
+- [ ] Links to card sort: https://adhoc.optimalworkshop.com/optimalsort/docaar20
 
 ## Intro - 3 minutes
 
@@ -15,46 +15,61 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
-- **First, we'll ask you to share your screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
-- **Then, you'll be participating in a couple sorting activities.** So, we will send you a link to a different website to do that activity. 
+- **First, I'll ask you a few warm up questions to get us started.
+- **Then, I'll ask you to share your screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
+- **You'll be participating in four exercises.** I will send you a link to a different website for that. 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **Are you comfortable if I record this session** We use the recordings to confirm that we have captured your opinions - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording.*
+[Start recording]
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-I'd like us to look at the website together, so that I can point out the area that we'll be talking about. I'm going to share a link and ask you to share your screen so that I can follow along. 
-
-*Facilitator shares link and asks participant to share screen*
-https://www.va.gov/find-locations/ 
 
 ## Warm-up Questions - 5 minutes
 
+- Can you tell me a little about your service history?
+- Have you visited a VA location recently? 
+- What reasons do you visit VA locations?
+
+
+## First Task: [REVIEW LOCATION FINDER] - 15 minutes
+
+[SHARE LINK]
+
+I'd like us to look at the website together, so that I can point out the area that we'll be talking about. I'm going to share a link and ask you to share your screen so that I can follow along. 
+
+[Facilitator shares link and asks participant to share screen]
+https://www.va.gov/find-locations/ 
+
+[QUESTIONS]
+
 - Are you familiar with VA.gov's location finder? 
-- Have you had a reason to use it recently? What was that experience like?
+- Have you had a reason to use it recently? 
+    - If so, what were you doing? What was that experience like?
+- How are you currently getting information on location hours, closures, etc.?
 
-## First Task: [REVIEW LOCATION FINDER] - 5 minutes
+[TASK]
 
-- I'd like you to imagine that you're travelling and you want to find a VA facility in that area to find out their hours and services. I'm going to give you a zip code. [01904] Can you try to do this search now?
-- Tell me about the information you get about the hours and services at the location in this particular zipcode [01904].
+- Now, I'm going to give you zip code to use to look up a facility. [01904] 
+- Tell me about the hours and services at the location in this particular zipcode [01904]
 
     ### Things to watch for:
 
     - [Does the participant think to click into the Clinic for more information?]
 
-We're going to move onto the next exercise. I'm going to share a link with you that I'd like for you to click on.
+- What information do you need to prepare for a visit to a facility?
+- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
+- What would make you trust that the information on the listing/result is accurate?
 
 ## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
 
-Now I'm going to share a link to an activity that I'd like us to do together.  
+We're going to move onto the next exercise. So, I'm going to share a link for you to click on.  
 
-*Facilitator shares OptimalSort link*
+[Shares OptimalSort link]
 
-Today, when a location is not operating under normal hours and services, we may display 1 of 3 possible statuses. I want you to take a moment to think about how you'd interpret each status. There aren't any right or wrong answers.
-
-*screen grabs of current design including color color and icon*
+Today, when a location is not operating with normal hours and services, we display 1 of 3 possible statuses. On the following screens, briefly explain how you interpret each status.
 
     - Facility Closed
     - Facility notice 
@@ -62,13 +77,15 @@ Today, when a location is not operating under normal hours and services, we may 
 
 ## Third Task: [MULTIPLE CHOICE - CHOOSE A STATUS]  - 5 minutes
  
-*Facilitator explains multiple choice activity.*
+[Multiple choice activity]
 
 Now, i'd like you to read over this blurb and choose which status you think it should have.
 
 ## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
 
-*Facilitator explains the card sorting activity.*
+[Card Sort]
+
+Given what's important for you to know when visiting VA locations, how would you sort and categorize these scenarios.
 
 Now we're going to look at a number of different scenarios that can impact a VA facility's hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You can create and name the categories in whatever way makes the most sense to you.
 
@@ -76,13 +93,8 @@ Now we're going to look at a number of different scenarios that can impact a VA 
 
 - [What language is unclear or confusing?]
 
-## Post-Task Interview - 15 minutes
+## Post-Task Interview - 5 minutes
 
-- What would make you trust that the information on the listing/result is accurate?
-- How are you currently getting information on location hours, closures, etc.?
-- Are you interested in why a facility is closed or if the hours are affected? If so, please explain.
-- What reasons do you visit VA locations? How would these messages affect your visit?
-- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
