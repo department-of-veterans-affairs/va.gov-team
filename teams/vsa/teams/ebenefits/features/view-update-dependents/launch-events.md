@@ -46,7 +46,7 @@ _April 8 - April 21_
 _April 22 - May 5_
 - FE & BE: address issues from QA review ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)) ✔
 - FE: set up and test Flipper component on Drupal landing page ([#8057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8057), [#8068](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8068)) ✔
-- ⏳ BE: unit tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967) ✔, [#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968) 👈, [#8537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8537) ✔)
+- ⏳ BE: unit tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967) ✔, [#8537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8537) ✔)
 - BE: submit PR to merge BGS endpoints into `vets-api` ([#8260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8260), [#8259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8259)) ✔
 - DE: Fit/finish review/implementation ([#6760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6760)) ✔
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
