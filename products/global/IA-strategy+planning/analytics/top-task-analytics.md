@@ -60,7 +60,7 @@ Pages with "Veterans Affairs" in the title are on VA.gov.
 | 14. VA.gov  | VA.gov | 1.43%  | 15.4M |
 | 15. Compose Message  | My HealtheVet | 1.24%  | 13.3M | Sign in |
 | 16. VA Blue Button Report  | My HealtheVet | 1.08%  | 11.6M | Sign in | 
-| 17. VA/DoD eBenefits - About This Feature  | 0.84%  | 9M | 
+| 17. VA/DoD eBenefits - About This Feature  | eBenefits | 0.84%  | 9M | 
 | 18. Status - Your Compensation Claim  | VA.gov | 0.81%  | 8.8M | Sign in |
 | 19. Download My Data  | My HealtheVet | .75%  | 8M | Sign in | 
 | 20. Apply For Education Benefits  | VA.gov | 0.74%  | 7.9M | 
