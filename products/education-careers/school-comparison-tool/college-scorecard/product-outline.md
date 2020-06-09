@@ -11,8 +11,7 @@
 How might we include additional information within the Comparison Tool regarding unique institution attributes in order to provide more holistic information to GI Bill Beneficiaries that can inform their decisions about how to use their benefits?
 
 ## Desired User Outcomes
-- Comparison Tool users are engaging with important College Scorecard student experience features in the tool
-- Comparison Tool users engage with a richer experience in the Comparison Tool
+- Comparison Tool users are engaging with College Scorecard student experience data points in the tool
 - Comparison Tool users can more efficiently research the schools they are interested in by utilizing the new College Scorecard data
 
 ## Undesired User Outcomes
