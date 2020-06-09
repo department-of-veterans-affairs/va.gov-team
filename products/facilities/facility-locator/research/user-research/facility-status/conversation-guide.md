@@ -85,9 +85,9 @@ Now, i'd like you to read over this blurb and choose which status you think it s
 
 [Card Sort]
 
-Given what's important for you to know when visiting VA locations, how would you sort and categorize these scenarios.
+Now we're going to look at a number of different scenarios that can impact a VA facility's hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You then will name your categories.
 
-Now we're going to look at a number of different scenarios that can impact a VA facility's hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You can create and name the categories in whatever way makes the most sense to you.
+Given what's important for you to know when visiting VA locations, how would you sort and categorize these scenarios.
 
 ### Things to watch for:
 
