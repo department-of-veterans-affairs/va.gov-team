@@ -25,4 +25,6 @@ It has been established that the following contact centers will be contacted ini
 ## Process
 The process to obtain this information will be to reach out to each of the call center POCs independently and request this information via email.  Depending on the previous relationship that the call center had with VA.gov, this information may not be easy to obtain (if at all). 
 
+The email will include why we are requesting this data, how it will be used, who it will be shared with.  Moving forward, any requests for data from contact centers will have to include this information so that it can accurately be relayed to the appropriate call center.
+
 If the call center agrees to provide the requested data then we will inquire if there is currently a distribution list that receives the reporting.  If not, a request can be submitted via email on a monthly basis by one of the VA.gov Contact Center POCs.  
