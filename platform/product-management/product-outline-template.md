@@ -29,6 +29,7 @@
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
+* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
@@ -50,8 +51,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 --- 
 
 ## Go-to-market Strategy
