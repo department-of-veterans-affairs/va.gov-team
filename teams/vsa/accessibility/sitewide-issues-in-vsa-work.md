@@ -17,6 +17,11 @@ None
 
     - #vsa-authd-exp 
         - [#5865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865) in Production, Opened: Feb 13, 2020, multiple pages impacted
+        
+1. sitewide, forms — 508-defect-1 ❗ Launchblocker [AXE-CORE, SEMANTIC MARKUP]: Email inputs MUST be paired with labels #9860
+
+    - #vsa-bam2
+        - [#9860](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9860) in Staging, Opened: June 8, 2020, one page impacted
 
 1. Leaflet-Mapbox [SCREENREADER, KEYBOARD]: All elements that can be operated by a mouse MUST able to be operable by keyboard
 
