@@ -57,7 +57,7 @@ Pages with "Veterans Affairs" in the title are on VA.gov.
 | 11. Labs and Tests  | My HealtheVet | 2.14%  | 23M | Sign in |
 | 12. Auth  | VA.gov | 1.89%  | 20.4M | Sign in | 
 | 13. Appointments  | My HealtheVet | 1.78%  | 19.1M | Sign in | 
-| 14. VA.gov  | VA.gov | 1.43%  | 15.4M |
+| 14. VA.gov (10,1750 VA.gov pages)  | VA.gov | 1.43%  | 15.4M |
 | 15. Compose Message  | My HealtheVet | 1.24%  | 13.3M | Sign in |
 | 16. VA Blue Button Report  | My HealtheVet | 1.08%  | 11.6M | Sign in | 
 | 17. VA/DoD eBenefits - About This Feature  | eBenefits | 0.84%  | 9M | 
