@@ -84,6 +84,12 @@ _After 30 minutes, send message to group DM with zoom link prompting everyone to
 
 ## Post-activity interview
 
+Okay we are back! I am going to begin the recording again.
+
+_Begin recording again_
+
+We just have a few more questions for you to wrap us up.
+
 - What is your general reaction to this style of reference documentation? Not the Google doc activity, but the contents of the documentation itself.
 - What questions do you have after reading the reference documentation?
 - Are the code examples complete and accurate?
