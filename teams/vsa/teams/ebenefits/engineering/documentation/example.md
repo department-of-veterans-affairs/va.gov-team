@@ -5,11 +5,12 @@
 <details>
 <summary>API Refernce</summary>
 <br>
+
 <details>
 <summary>Form.js</summary>
 <br>
 The Form System is organized around a few key concepts that are helpful to understand if you want to use the public facing API.
-The first concept is a config file - Each form uses a central configuration file that contains JSON that is responsible for
+One of those concepts is a config file - Each form uses a central configuration file that contains JSON that is responsible for
 indicating how you want your form set up as well as how you want it to look. This form.js file contains mostly JSON and the most important portion of the file is form config object that assigned as `const formConfig` and will contain lots of JSON -
   
  ```
