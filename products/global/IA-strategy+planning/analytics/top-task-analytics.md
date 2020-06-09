@@ -13,7 +13,7 @@ This [page views report for June 3, 2019 to June 3, 2020](https://analytics.goog
 | :--- | ---: | ---: | :--- |
 | 1. VA.gov homepage  | 13.52%  | 48.3M |
 | 2. Track claims  | 10.58%  | 37.8M | Sign in |
-| 3. Check your VA claim or appeal status (entry page)  | 7.25%  | 25.9M | 
+| 3. Check your VA claim or appeal status  | 7.25%  | 25.9M | 
 | 4. Sorry — we can’t find that page  | 6.95%  | 24.8M |
 | 5. Sign in  | 5.34%  | 19.1M | Sign in |
 | 6. myVA  | 2.37%  | 8.5M | Sign in |
