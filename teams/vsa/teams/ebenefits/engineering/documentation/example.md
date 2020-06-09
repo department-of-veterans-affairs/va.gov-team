@@ -1,5 +1,13 @@
 ## Overview
 
+
+
+<details>
+<summary>API Refernce</summary>
+<br>
+<details>
+<summary>Form.js</summary>
+<br>
 The Form System is organized around a few key concepts that are helpful to understand if you want to use the public facing API.
 The first concept is a config file - Each form uses a central configuration file that contains JSON that is responsible for
 indicating how you want your form set up as well as how you want it to look. This central config file also contains a set of
@@ -8,13 +16,5 @@ form. A chapter can contain multiple pages, for instance if you want to have one
 person's personal information and then inside that chapter you could have a separate page for name and basic information like
 social security number, then a separate page for the person's address. These two pages of information can conceptually both be
 a person's information so they make sense to put in a `person-information` chapter ( or something like it ).
-
-<details>
-<summary>API Refernce</summary>
-<br>
-<details>
-<summary>Another one</summary>
-<br>
-Second one
 </details>
 </details>
