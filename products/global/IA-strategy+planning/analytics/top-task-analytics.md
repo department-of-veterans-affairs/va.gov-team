@@ -3,7 +3,7 @@
 Our goal is to find the top tasks people people do on VA.gov. Once we know this, we plan to baseline test these top tasks with veterans regularly. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov on both desktop and mobile devices. 
 
 #### On this page
-* [Mobile usage for all VA.gov pages](#mobile-usage-for-all-VA.gov-pages)
+* [Mobile usage for all VA.gov pages](#mobile-usage-for-all-VA.gov-pages) 
 * [What we do](#what-we-do)
 * [Working with us](#working-with-us)
 
