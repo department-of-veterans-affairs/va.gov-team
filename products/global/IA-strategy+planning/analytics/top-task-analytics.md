@@ -52,7 +52,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 ### Top pages for all VA websites
 [This page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-segmentExplorer.segmentId=analytics.pageTitle/) shows usage of VA.gov, MyHealtheVet, and eBenefits. 
 
-Because of the limitations and quirks of Google Analytics, the "pages" below are actually groups of pages represented by pages with the same < title > tag. For this reason, we did not combine items that are part of the same task. (Example: On MyHealtheVet, we would consider secure messaging and compose message parts of the same task.)
+Because of the limitations and quirks of Google Analytics, the "pages" below are actually groups of pages represented by one < title > tag. For this reason, we did not combine rows below that are part of the same task. (Example: On MyHealtheVet, we would consider "secure messaging" and "compose message" parts of the same task.)
 
 | Page / Task  | Website | % of page views | # of users | Requires sign in? |
 | :--- | :--- | ---: | ---: | :--- |
