@@ -25,11 +25,11 @@ For IA strategy and planning, the information architects work with the **#ia-for
 
 * **Potential projects:** See the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning_6-5-2020.pdf) for projects that involve IA. (Download it for easier reading.)
 * **Slack:** Members can post ideas, input, and examples to the **#ia-forum** channel.
-* **Meetings:** Join us every 2 weeks to hear what we're doing and learning, give feedback, and discuss next steps. (We'll do a poll on best times to meet.)
+* **Meetings:** We'll start the conversation about IA strategy in the new DEPO product sync breakout meeting on Wednesday, June 17. There we'll decide on next steps for sharing what we're doing and learning, getting feedback, and setting direction.
 <br></br>
 ### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
 
-* **IA role and responsibilities:** The IA workshop kicks off June 29. As part of it, we'd like to discuss:
+* **IA role and responsibilities:** The IA workshop will kick off June 29. As part of it, we'd like to discuss:
   * Who does which IA work? (DEPO v. Platform)
   * How do we bridge between DEPO and Platform?
   * How do we balance current and future IA needs?
