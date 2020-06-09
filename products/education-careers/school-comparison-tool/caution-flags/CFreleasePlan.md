@@ -77,15 +77,15 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 _To be completed once you have gathered your initial set of data, as outlined above._ 
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-   1. Applications to institutions and schools with caution flags decreases
-      1. Applications and payments of GI Bill benefits to institutions with caution flags decreases.
-      1. Fewer people looking at profile pages with caution flags (Need more information from UXers via GA)
-         1. Would probably want to look at this at the same time of year due to cyclical process of applying for admission to programs
-      1. On the profile page, we are able to track clicks on "view more details" to view more information (we don't have a baseline for the before) (Need more information from UXers via GA)
-      1. Click the link in the caution flag to external link to learn even more (we don't have a baseline for the before) (Need more information from UXers via GA)
-1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-   1. Qualitative input from Usability Testing (UX to update)
-1. Which of the assumptions you listed in your product outline were/were not validated?
-   1. We didn't have a product outline due to when we jumped into the VSP process
-1. How might your product evolve now or in the future based on these results?
-   1. Make it easier for EDU to make updates to Caution Flag content so that they can continue to provide more specific warnings and notifications to the users. 
+ * Applications to institutions and schools with caution flags decreases
+   * Applications and payments of GI Bill benefits to institutions with caution flags decreases.
+   * Fewer people looking at profile pages with caution flags (Need more information from UXers via GA)
+     * Would probably want to look at this at the same time of year due to cyclical process of applying for admission to programs
+   *  On the profile page, we are able to track clicks on "view more details" to view more information (we don't have a baseline for the before) (Need more information from UXers via GA)
+   * Click the link in the caution flag to external link to learn even more (we don't have a baseline for the before) (Need more information from UXers via GA)
+2. What qualitative feedback have you gathered from users or other stakeholders, if any?
+ * Qualitative input from Usability Testing (UX to update)
+3. Which of the assumptions you listed in your product outline were/were not validated?
+ * We didn't have a product outline due to when we jumped into the VSP process
+4. How might your product evolve now or in the future based on these results?
+  * Make it easier for EDU to make updates to Caution Flag content so that they can continue to provide more specific warnings and notifications to the users. 
