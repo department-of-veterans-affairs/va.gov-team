@@ -11,6 +11,7 @@ That's what this Release Plan Template is for!
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
+#### We will not be performing moderated production testing for EYB
 - Desired date range or test duration: [date - date] or [duration]
 - Desired number of users: x
 - How you'll recruit the right production test users: lorem ipsum
@@ -26,9 +27,9 @@ That's what this Release Plan Template is for!
 - If yes, what: lorem ipsum
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
+#### We will not be performing a staged rollout for EYB
 
 ### Do I need a staged rollout?
-
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
 
 * This change does not add substantial new functionality to VA.gov
@@ -106,7 +107,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
+- Desired date: 06/18/2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
