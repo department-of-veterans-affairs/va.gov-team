@@ -2,17 +2,15 @@
 
 Our goal is to find the top tasks people people do on VA.gov. Once we know this, we plan to baseline test these top tasks with veterans regularly. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov on both desktop and mobile devices. 
 
-##### On this page
-* [Mobile usage (all VA.gov pages)](#mobile-usage-for-all-VA.gov-pages)
+#### On this page
+* [Mobile usage for all VA.gov pages](#mobile-usage-for-all-VA.gov-pages)
 * [What we do](#what-we-do)
 * [Working with us](#working-with-us)
-* [Best practices and guides](#best-practices-and-guides)
-* [Resources](#resources)
 
 One caveat to the numbers below is that sessions expire after 30 minutes. So users may have visited the site, done nothing for 30+ minutes, then resumed —- and that counts as a new session.
 
 ### Mobile usage for all VA.gov pages
-This 
+This XYZ...
 
 ### Top 25 pages viewed (modernized VA.gov pages only)
 This [page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. 
