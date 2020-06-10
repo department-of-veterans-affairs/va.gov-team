@@ -1,5 +1,81 @@
 # Forms Library Documentation User Research Notes 
 
+## MR Interview - engineer on a VSA team 6/10/20
+
+E: Thanks for taking the time to participate, etc
+
+M: No problem, I know that there’s been a big initiative so I’m happy to help. 
+
+E: [instructions, start recording, etc.] Our forms library documentation! You are familiar with it, I imagine? When was the last time you referenced it? 
+
+MR: Just yesterday, I was looking at how to arrange certain elements on a page. I forgot how that worked and I looked at that and found it. 
+
+E: Did you find the answer to your question? 
+
+MR: Yes, I did. I had read through it already. I’ve always been referencing it since joining the team, but I had to go through it several times to fill in the gaps and really get it. 
+
+E: So it was useful yesterday. Has there been a time when you couldn’t find the answer you were looking for? 
+
+MR: Yes I was looking for something to do with the review page. I wanted to display a widget on the review page but I didn’t see that listed on the documentation so I had to look in the actual codebase to see how other people were going about that and then trial and error on my side to see if it worked. 
+
+E: had people done that before? 
+
+MR: yeah, I found a few people who had done it so I coped their style. I’m happy that was there in the codebase.
+
+E: Is that your next step, to look at the codebase? 
+
+MR: I tend to look at the codebase first. THere’s more things in the codebase that aren’t in the documentation. 
+
+E: Aside from the codebase, are there any other documents or documentation sources that you reference to supplement what’s provided in the forms library? 
+
+MR: Yeah, I know we’ve taken the forms project out of a different project — the RJFS — to look at what’s going on in the background and see what’s going on behind the scenes. They go into more depth and have more verbiage. 
+
+E: Anything else you want to say about existing documentation? 
+
+MR: I’ve bene making my own notes and am excited to contribute to it. And just talking with other devs that have worked with it longer than I have has been really helpful. RG has been really helpful and helped me get started, he’s a great resource. 
+
+E: Is there anyone else you’ve talked to that you think we should include that has been really helpful for you? 
+
+MR: MC was really helpful for the address portions of the form. I usually post a question in platform support and Chris V has been really helpful. Mainly those guys would be my go to. 
+
+E: We’re going to transition to the activity portion. Google doc … explain scenarios and async activity … 
+
+——— async activity!!! ——— 
+
+E: What is your general reaction to this style of documentation that you just interacted with? The type of code examples and how they were described and things? 
+
+MR: Overall it was good to have a quick reference to all of the options inside the form config object. I never saw the technical description of the form config before like how you had a key for each particular property like that. I kind of like that, but I think it would be better to have that as a code block rather than key — expand under, because it can be a little kind of distracting. But I do like the fact that you have the types. For me I was wondering, can this property accept boolean, function, I think that was really great to have. The code blocks that were there, I think those were good too. Overall it was a good experience. 
+
+E: Were code blocks accurate and complete for the ones you looked at? 
+
+MR: I know for the first scenario that was pretty accurate. I’ve used depends for a test, never had it officially implementing. I didn’t know it could accept an array or an object, I’ve only tried it with a boolean value. For expand under, that was pretty accurate, I didn’t know it could accept class names. Overall it gave some good context and described the problems pretty accurately I think. 
+
+E: Did this type of documentation read as different to you than what’s currently on the forms library? 
+
+MR: I think it dod. On the forms library it’s not as in depth with the links — this property goes here. I like how we had those quick links so if you had a question about any of the properties you could easily jump to that section. On the forms library it’s like “here’s the whole object, you’ll figure it out.” 
+
+E: Have you run into any tasks that could use examples in this type of structure? Are there any tasks or problems or challenges that you’ve run into that could use some documentation like this? 
+
+MR: Yeah I think overall it would be helpful to have the links to each section like you have here. I’ve run into links in the past — how does this work, is it still relevant or is it outdated. If we kept it up to date and listed all the types and all that, it makes the learning process a lot smaller and I can work faster. 
+
+E: Are there any other thoughts or feedback you’d like to share? 
+
+MR: If we had those quick links it would be a great plus. If we can capture every single thing in the codebase that would be amazing because there’s so much. I’m working on something that will provide some new functionality. The key is to have everything centralized and in one spot so that everyone can take a look. 
+
+E: For the new functionality that you’re working on, how would you expect to contribute to the documentation so that other people can use it? What would the process be? 
+
+MR: I would start off in a PR bc that’s where the change happens. Here’s the things I”m adding, here’s an example of how you use it. Then on the forms library documentation, have a section talking about the formconfig option and add in the how it works. I’ve never contributed to the documentation, hopefully it’s simple. 
+
+E: The only other things before we wrap up — can you send a link to the docs site you mentioned? And can you share the notes that you’ve been writing and the documentation you’ve been capturing, we’d love to incorporate anything you’ve learned that has been useful. 
+
+MR: Sure definitely I wouldn’t mind
+
+E: We can wrap up, if you ever have other feedback please reach out, always open 
+
+MR: I hope to see the site implemented soon! This is definitely a step up from what’s already in the forms library. 
+
+--------------
+
 ## JC - Interview 6/9/20
 
 Moderator: E 
