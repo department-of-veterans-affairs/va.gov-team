@@ -1,12 +1,12 @@
 # Veterans disability statistics
 
-* About **1.52 million (8.5 percent) veterans had a service-connected disability rating of 70 percent or higher**.
+* About **1.52 million (8.5 percent) Veterans had a service-connected disability rating of 70 percent or higher**.
 
-* Of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones, **about 41 percent have VA disability ratings, compared to 25 percent of veterans of other eras**.
+* Of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones, **about 41 percent have VA disability ratings, compared to 25 percent of Veterans of other eras**.
 
-* **Nearly half (47.7 percent) of all Gulf War II veterans with a disability report a cognitive difficulty**. 
+* **Nearly half (47.7 percent) of all Gulf War II Veterans with a disability report a cognitive difficulty**. 
 
-* **Approximately 300,000 veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression**.
+* **Approximately 300,000 Veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression**.
 
 * **About 320,000 (19.5 percent) report experiencing a traumatic brain injury (TBI) during deployment**.
 
@@ -15,6 +15,7 @@
 * As of December 2008, over 30,000 troops have returned from a combat zone with visible wounds and a range of permanent disabilities. **An estimated 25-40 percent have less visible wounds—psychological and neurological injuries associated with post traumatic stress disorder (PTSD) or traumatic brain injury (TBI)**, which have been dubbed “signature injuries” of the Iraq War.
 
     > Sources<br/>
+    > There are more than 20 million American Veterans. 40% living in rural areas. Many rely on VA benefits just to get by. More than 9 million of our Veterans rely on VA health care. (_It shouldn't be this hard to serve your country._ by Shulkin)
     > In 2018, there were around 16.3 million male veterans and 1.65 million female veterans in the U.S. <br/>
     > About 3.51 million veterans were male and between 35 and 54 years of age.<br/>
     > https://www.statista.com/statistics/250316/us-veterans-by-disability-status/ <br/>
