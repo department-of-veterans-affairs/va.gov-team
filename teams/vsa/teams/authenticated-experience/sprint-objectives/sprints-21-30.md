@@ -111,6 +111,7 @@ Dev
 Profile 2.0
 
 PM
+- Pre-launch — Analytics review
 - Call center - Call center video
 - Pre-launch - Update relevant parts of the product outline
 - Call center - Request contact center review
@@ -206,6 +207,7 @@ Dev
 - Call center - Prep video
 - Call center- Request contact center review
 - Call center - Contact Center Review (VSP cycle)
+- Pre-launch — Analytics review
 - Pre-launch - Request staging review
 - Pre-launch - Request privacy and security review
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
@@ -226,6 +228,7 @@ PM
 - Call center - Prep video
 - Call center- Request contact center review
 - Call center - Contact Center Review (VSP cycle)
+- Pre-launch — Analytics review
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
 - Pre-launch - Request staging review
