@@ -43,4 +43,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers: Martha Wilkes, Trevor Pierce, Danielle Thierry, Ramya Ramesh, Kaeli Yuen, Jedda Puzon
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/product-brief.md)

@@ -42,4 +42,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers: Martha Wilkes, Trevor Pierce, Danielle Thierry, Ramya Ramesh, Kaeli Yuen, Patrick Bateman
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/product-brief.md)

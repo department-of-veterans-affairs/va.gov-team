@@ -39,5 +39,5 @@ A pilot session will take place Wednesday, April 1 with either Ramya Ramesh or K
 - Observers: Ramya Ramesh, Katie Ho, Karl Brown, Kaeli Yuen, Shefali Nayak, Aaron Barth
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/product-brief.md)
-- [Convo Guide](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/research/covid-19-chatbot-conversation-guide.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/product-brief.md)
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/covid-19-chatbot-conversation-guide.md)

@@ -3,7 +3,7 @@
 Prepared by Todd Stanich on April 21, 2020
 
 ## Summary
-Based on our [first round of research](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/research/covid-19-chatbot-research-report.md), we validated a click-through decision tree chatbot is an appropriate interaction model for delivering COVID-19 information. The goals of this research focused on the usability of the chatbot and content organization.
+Based on our [first round of research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/covid-19-chatbot-research-report.md), we validated a click-through decision tree chatbot is an appropriate interaction model for delivering COVID-19 information. The goals of this research focused on the usability of the chatbot and content organization.
 
 During this round, we continued to see some of the same themes from the first round. In addition, we were able to validate the value of topics covered by the chatbot, understand what motives users to use or not use a chatbot, and better understand Veteran's expectations for interacting with a chatbot.
 

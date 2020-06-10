@@ -3,7 +3,9 @@
 Prepared by Todd Stanich on May 12, 2020
 
 ## Summary
-This research covers a third round of testing with Veterans about the coronavirus chatbot. This round was specifically focused on the discoverability of the chatbot along with continued usability testing of the chatbot itself. Previous research is available here [round 1](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/research/covid-19-chatbot-research-report.md) and [round 2](https://github.com/department-of-veterans-affairs/covid19-chatbot/blob/master/docs/research/chatbot-usability-report.md).
+This research covers a third round of testing with Veterans about the coronavirus chatbot. This round was specifically focused on the discoverability of the chatbot along with continued usability testing of the chatbot itself. Previous research is available here 
+[round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/covid-19-chatbot-research-report.md) and 
+[round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/chatbot-usability-report.md).
 
 Most participants mentioned interacting with VA online through myheathevet or email and text message communication. When starting their search for information from va.gov, most participants referenced the coronavirus banner and interacted with the FAQ link within the banner. Once on the FAQ page some participants were able to easily navigate and locate the desired information. None of the participants viewing a version of the FAQ page with the subtle (link in paragraph style text) CTA for the coronavirus chatbot noticed the link. Some of the participants noticed the chatbot CTA when it was in a blue featured content box with a button. The term "chatbot" continues to evoke a variety of expectations from participants. Prior experiences with other chatbots often influence the likelihood a participant is to click on or interact with the VA coronavirus chatbot.
 
