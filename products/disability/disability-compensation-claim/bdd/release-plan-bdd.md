@@ -2,7 +2,7 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: [June 1 - June 15]
+- Desired date range or test duration: [June 17 - June 19]
 - Desired number of users: 5
 - How you'll recruit the right production test users: Personal contacts, work contacts
 - How you'll conduct the testing: With front end and back end support to ensure the technical aspects of the BDD integration with MVI is working (very similar to Original Claims).
@@ -18,7 +18,7 @@
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: June 15 - June 21
+- Desired date range: June 24 - June 26
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
 - "Success" criteria (by the numbers): All of the BDD claims are successful at establishing a new user in MVI. Work with EVSS to make sure the EP codes are being set correctly.
