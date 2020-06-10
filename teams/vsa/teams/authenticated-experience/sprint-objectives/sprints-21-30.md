@@ -109,9 +109,11 @@ Profile 2.0
 
 PM
 - Call center - Finish writing guide
+- Pre-launch - Put together release plan (work with Tressa on UAT portion)
 
 Design
 - Call center - Finish writing guide
+- UAT - Plan UAT (work with Matt on release plan — we probably don't need to submit the request yet for users)
 
 Dev
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
@@ -119,8 +121,8 @@ Dev
 - QA — Any bug fixes that come out of QA/508
 
 Platform
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-- 508 - Request review of build
+- QA - Conduct QA
+- 508 - Conduct 508 review
 
 Logged-in homepage
 
@@ -128,13 +130,33 @@ Logged-in homepage
 
 ### Order of priorities
 
-Profile 2.0
+**Profile 2.0**
 
-Logged-in homepage
+PM
+- Call center - Prep video
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+
+Design
+- Submit request for UAT
+
+**Logged-in homepage**
 
 ## Sprint 27 (7/29 – 8/11)
 
-Profile 2.0
+**Profile 2.0**
+
+PM
+
+Design
+
+Dev
+
+**Logged-in homepage**
+
 
 ## Sprint 28 (8/12 – 8/25)
 
@@ -160,7 +182,10 @@ Profile 2.0
 - Testing - Implement/run tests we determine we need
 - Call center - Prep guide
 - Call center - Prep video
+- Call center- Request contact center review
 - Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Request staging review
+- Pre-launch - Request privacy and security review
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
 - Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
@@ -169,17 +194,23 @@ Profile 2.0
 - UAT - Plan for UAT
 - UAT - Conduct sessions
 - UAT - Fix bugs (if necessary)
-- Launch - Ramp up phased launch
+- Launch - Phase 1
+- Launch - Phase 2
+- Launch — Phase 3 (100%)
 
 PM
 
 - Call center - Prep guide
 - Call center - Prep video
+- Call center- Request contact center review
 - Call center - Contact Center Review (VSP cycle)
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
+- Pre-launch - Request staging review
+- Pre-launch - Request privacy and security review
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 - Launch - Ramp up phased launch
+- Go/No-go
 
 Design
 
@@ -187,6 +218,7 @@ Design
 - QA — Any design updates that come out of QA/508
 - Call center - Prep guide
 - Call center - Prep video
+- Go/No-go
 
 Dev
 - Build - Mobile nav updates
@@ -195,7 +227,9 @@ Dev
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
 - UAT - Fix bugs (if necessary)
+- Go/No-go
 - Launch - Ramp up phased launch
+
 
 Platform
 - QA - Conduct QA
@@ -204,7 +238,7 @@ Platform
 - Call center - Contact Center Review (VSP cycle)
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
 - Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
-
+- Go/No-go
 
 **Logged-in homepage next steps**
 
