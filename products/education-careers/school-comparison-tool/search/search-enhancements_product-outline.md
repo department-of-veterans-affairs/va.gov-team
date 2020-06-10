@@ -7,17 +7,18 @@
 ## Problem Statement
 The current search in the Comparison Tool poses challenges for users as they search for institutions since it requires that they enter an exact match in order to provide them with results.
 
-If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State) then the results they are searching for will not be returned. 
+The current search feature limits the ability to search on school type to just on the job training (OJT) and schools, which means people are not able to search exclusively for associates programs, VET TEC programs, and more. 
 
-Add statement around
-- Search/filter by location/state/zip
-- Type of institution
+When users search for schools based on on state alone then branches of schools that are not in the same state are returned. 
+
+If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State, state abbreviations) then the results they are searching for will not be returned. 
+
 
 How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations, nicknames, portions of institution names, or partial matches. 
 
 ## Desired User Outcomes
 - It is easier for users to find what they are looking for if searching for an institution that isn't an exact match for their search criteria
-- Users can use different types of content to search for their institutions (partial matches, etc)
+- Users can use different types of content to search for their institutions (partial matches, institution type, location, etc)
 - Users spend less time searching for what they need
 
 - *Why would a user want to use this?*
