@@ -5,24 +5,28 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-If users search for content in the Comparison Tool right now using abbreviations (such as UCLA or USC) or if they accidentally include a mispelling, then the results they are searching for will not be returned. 
+The current search in the Comparison Tool poses challenges for users as they search for institutions since it requires that they enter an exact match in order to provide them with results.
 
-How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations or based on mispellings. 
+If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State) then the results they are searching for will not be returned. 
 
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Add statement around
+- Search/filter by location/state/zip
+- Type of institution
 
+How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations, nicknames, portions of institution names, or partial matches. 
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
- 
 ## Desired User Outcomes
-
-- It is easier for users to find what they are looking for if searching for abbreviations or mispelled content
+- It is easier for users to find what they are looking for if searching for an institution that isn't an exact match for their search criteria
+- Users can use different types of content to search for their institutions (partial matches, etc)
+- Users spend less time searching for what they need
 
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
-- 
+- Users are overwhelmed with the options in the search interface and don't use them. 
+- Users get search results that are not relevant to their search
+- Users are less satisfied with the new search than they were with the previous version of the search. 
 
 ## Desired Business Outcomes
 - Improve Comparison Tool user satisfaction by making it easier for people to find what they are looking for in the tool
@@ -31,12 +35,16 @@ How might we make it easier for people using the Comparison Tool to quickly find
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
-- 
+- Users report a lower satisfaction rate with the new search
+
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
+- User time spent searching 
+  - Maybe by tracking how many times people go back and forth between search results/profile page; time spent on page
+
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 
