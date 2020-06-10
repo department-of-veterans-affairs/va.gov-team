@@ -3,6 +3,7 @@
 This research is for initial discovery for the Health Care Experience, Questionnaires team. 
 
 **Background**
+
 Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
 
 **Research questions**
