@@ -48,6 +48,7 @@ This checklist is for you to gut check that you've taken all of the steps necess
 
 ### ... supportable?
 - [ ] Usability testing with VSP indicates that this doesn't significantly hinder VSP's ability to scale
+- [ ] Documentation on how you'll handle the “unhappy” path is easily available
 - [ ] Dashboards and alerts are set up for finding and investigating issues
 - [ ] Points of contact are documented for service / tool / feature and any new backend dependencies
 - [ ] There's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/34add7c7b3d558158ccf3f599e79c2380076481c/platform/product-management/product-outline-template.md)
