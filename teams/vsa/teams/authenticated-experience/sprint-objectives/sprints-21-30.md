@@ -76,7 +76,7 @@ Profile 2.0
 Logged-in homepage
 
 1. Finish discovery phase synthesis
-2. Share with DEPO team
+2. Hand off this work between Liz Lantz (public websites) and the authenticated experience team
 
 ## Sprint 24 (6/17 – 6/30)
 
@@ -102,17 +102,25 @@ Dev
 
 **Logged-in homepage**
 
-- 
+PM
+- Any updates to the initial plan for phase 1 that come out of handoff meeting
+- Finish OKR and KPI planning
+- Present work to DEPO team
+- Have another convo with Chris J about how to loop in stakeholders
+
+
+Design
+- Handoff between Liz and Tressa
 
 ## Sprint 25 (7/1 – 7/14)
 
 ### Order of priorities
 
-Profile 2.0
+**Profile 2.0**
 
 PM
-- Pre-launch — Analytics review
 - Call center - Call center video
+- Pre-launch — Analytics review
 - Pre-launch - Update relevant parts of the product outline
 - Call center - Request contact center review
 
@@ -128,8 +136,16 @@ Dev
 Platform
 - QA - Conduct QA
 - 508 - Conduct 508 review
+- Pre-launch — Analytics review
 
-Logged-in homepage
+**Logged-in homepage**
+
+PM
+- Figure out if there are any baseline analytics we need to get set up
+
+Design
+- Logged-in tools audit
+- Understanding of how banners work
 
 ## Sprint 26 (7/15 – 7/28)
 
@@ -149,7 +165,14 @@ Design
 Dev
 - QA — Any bug fixes that come out of QA/508
 
+Platform
+- Call center - Contact Center Review (VSP cycle)
+
 **Logged-in homepage**
+
+Design
+- General planning
+- Figure out questions for technical discovery
 
 ## Sprint 27 (7/29 – 8/11)
 
@@ -167,17 +190,34 @@ Design
 Dev
 - Participate in reviews
 
+Platform
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+
 **Logged-in homepage**
+
+Design
+- Initial iterations
+
+Dev
+- Technical discovery (initial tasks still TBD)
 
 ## Sprint 28 (8/12 – 8/25)
 
 **Profile 2.0**
+
+- Launch to UAT users
 
 Design
 - Conduct UAT
 
 Dev
 - Any fixes from UAT
+
+**Logged-in homepage**
+
+PM
+- Start documenting staging users scenarios
 
 ## Sprint 29 (8/26 – 9/8)
 
