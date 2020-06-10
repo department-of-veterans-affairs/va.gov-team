@@ -56,7 +56,7 @@ This design document is intended for front end and DevOps engineers on the Veter
 
 Originally on vets.gov, all content was in `vets-website` in a `content/` directory, and you would open a PR to edit content. CI would then run against that PR. Link-checking would run as part of the build the same way it does today. If a broken link or an accessibility error was found, CI would fail, and you wouldn't be able to merge. This meant that broken links and accessibility errors never made their way into the `master` branch.
 
-At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo. 
+At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo.
 
 Currently, the `vets-website` repo contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to separate the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two two separate stages.
 
@@ -89,7 +89,7 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
-Broken links are displayed in the build log, and a Slack notification is sent to the #cms-team channel alerting them to the broken links. 
+Broken links are displayed in the build log, and a Slack notification is sent to the #cms-team channel alerting them to the broken links.
 
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
@@ -115,11 +115,11 @@ Additionally, we have the preview server which shows content editors any accessi
 
 Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a [partial deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only), which only includes static page changes (`vagov-content` and Drupal).
 
-Unfortunately, the content-only deploys have no accessibility checking. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.  
+Unfortunately, the content-only deploys have no accessibility checking. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.
 
 ##### Users
 
-To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. Additionally, inconsistencies between how the CMS handles redirects and `vets-website` handles redirects, it's possible for users to encounter broken links in production. 
+To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. Additionally, inconsistencies between how the CMS handles redirects and `vets-website` handles redirects, it's possible for users to encounter broken links in production.
 
 ##### FE Tools team
 
@@ -133,15 +133,15 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
 
-The validation of static content will take place in a scheduled job that runs every workday. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations. 
+The validation of static content will take place in a scheduled job that runs every workday. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
 ## Specifics
 
 ### Detailed Design
 
-Using the current content build script as a reference, we will write another build script that only includes the steps necessary for the content validation. We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today. 
+Using the current content build script as a reference, we will write another build script that only includes the steps necessary for the content validation. We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today.
 
-Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight. 
+Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight.
 
 ### Code Location
 
@@ -174,7 +174,7 @@ Currently, invalid content is logged during staging deploys. And failed builds t
 ### Caveats
 
 - The current broken link checking in Drupal can handle redirects, but those redirects are not currently synchronized with `vets-website`. When the front end doesn't have the redirects, a page that is moved in Drupal may pass the Drupal broken link check but fail the `vets-website` broken link check.
-- Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities). 
+- Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities).
 
 ### Security Concerns
 
