@@ -82,14 +82,57 @@ Logged-in homepage
 
 ### Order of priorities
 
+**Profile 2.0**
+
+PM
+- Submit request for QA review
+- Submit request for 508 review
+- Call center - Prep guide
+
+Design
+- Support final build sprint
+- Call center - Prep guide
+
+Dev
+- Build - Mobile nav updates
+- Build - final bug fixes and clean up before QA
+
+**Logged-in homepage**
+
+- 
+
+## Sprint 25 (7/1 – 7/14)
+
+### Order of priorities
+
 Profile 2.0
 
-- 
+Logged-in homepage
+
+## Sprint 26 (7/15 – 7/28)
+
+### Order of priorities
+
+Profile 2.0
 
 Logged-in homepage
-- 
 
-----
+## Sprint 27 (7/29 – 8/11)
+
+Profile 2.0
+
+## Sprint 28 (8/12 – 8/25)
+
+Profile 2.0
+
+## Sprint 29 (8/26 – 9/8)
+
+Profile 2.0
+
+## Sprint 30 (9/9 – 9/22)
+
+
+### Long term planning
 
 **Profile 2.0 outstanding to-dos**
 
@@ -107,7 +150,9 @@ Logged-in homepage
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
 - UAT - Plan for UAT
-- UAT — Conduct UAT
+- UAT - Conduct sessions
+- UAT - Fix bugs (if necessary)
+- Launch - Ramp up phased launch
 
 PM
 
@@ -117,17 +162,23 @@ PM
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+- Launch - Ramp up phased launch
 
 Design
 
+- Support end of build with minor design updates/build validation
 - QA — Any design updates that come out of QA/508
 - Call center - Prep guide
 - Call center - Prep video
 
 Dev
+- Build - Mobile nav updates
+- Build - final bug fixes and clean up before QA
 - QA — Any bug fixes that come out of QA/508
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
+- UAT - Fix bugs (if necessary)
+- Launch - Ramp up phased launch
 
 Platform
 - QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
@@ -159,49 +210,3 @@ Design
 
 Dev
 - Technical discovery (initial tasks still TBD)
-
-## Sprint 25 (7/1 – 7/14)
-
-### Order of priorities
-
-Profile 2.0
-
-- UAT - Recruiting
-- Pre-launch - Go/No-go
-- Launch - Initial launch to UAT users
-
-Logged-in homepage
-- Design
-- Technical discovery
-
-## Sprint 26 (7/15 – 7/28)
-
-### Order of priorities
-
-Profile 2.0
-
-- UAT - Conduct sessions
-- UAT - Fix bugs (if necessary)
-- Launch - Ramp up phased launch
-
-Logged-in homepage
-- Design
-- Technical: Start laying foundation for notifications
-
-## Sprint 27 (7/29 – 8/11)
-
-Profile 2.0
-
-- Post-launch - Full Accessibility and 508 Office Audit (VSP cycle)
-
-## Sprint 28 (8/12 – 8/25)
-
-Profile 2.0
-
-## Sprint 29 (8/26 – 9/8)
-
-Profile 2.0
-
-## Sprint 30 (9/9 – 9/22)
-
-Profile 2.0
