@@ -107,6 +107,21 @@ Dev
 
 Profile 2.0
 
+PM
+- Call center - Finish writing guide
+
+Design
+- Call center - Finish writing guide
+
+Dev
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
+- QA — Any bug fixes that come out of QA/508
+
+Platform
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
+
 Logged-in homepage
 
 ## Sprint 26 (7/15 – 7/28)
@@ -138,6 +153,8 @@ Profile 2.0
 
 - QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
 - 508 - Request review of build
+- QA - Conduct QA
+- 508 - Conduct 508 review
 - QA - Implement fixes/updates that came out of QA/508 audit
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
@@ -181,8 +198,8 @@ Dev
 - Launch - Ramp up phased launch
 
 Platform
-- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
-- 508 - Request review of build
+- QA - Conduct QA
+- 508 - Conduct 508 review
 - QA - Implement fixes/updates that came out of QA/508 audit
 - Call center - Contact Center Review (VSP cycle)
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
