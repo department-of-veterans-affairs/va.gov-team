@@ -1,5 +1,16 @@
 # Debt Letters Wireframes
 
+
+## Jun 10
+Following checkin with DMC:
+- Past debts removed from scope, as individual debts do not have unique identifiers, so new debts in the same category will overwrite previous debts.
+- Included an additional information component to explain why letter content may differ from current record being shown on the debt detail page.
+- Adjusted the language for 'Debt amount'
+
+![v1.3 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.3.jpg)
+
+------
+
 ## Jun 1
 Following design intent checkin:
 - Content page includes left nav (tool location pending feedback from Mikki)
@@ -12,6 +23,8 @@ Following design intent checkin:
 **Next steps**: Working with Mikki on IA, continuing to work with DMC to further define data and write content, discuss accessibility of PDFs and potential scope increases.
 
 ![v1.2 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.2.jpg)
+
+------
 
 ## May 28
 Wireflow created for the purpose of sharing during Design Intent Checkin after [team ideation](https://app.mural.co/t/vsa8243/m/vsa8243/1590173930514/c0dcc29fddb240204b0e1f93cc0b1caf2c04f421), where we decided the following:
