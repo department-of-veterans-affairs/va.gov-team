@@ -24,7 +24,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
   1. The Product Guide must be a Word document or a PDF.
   1. Create a new folder in your team's Product folder called ```Contact Center.``` Store the Product Guide there.
   
-      [Template for creating a product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/contact-center/self-service-product-guide-template.md)
+      [Template for creating a product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md)
 
 *If you're building new features for an existing service*:
 
