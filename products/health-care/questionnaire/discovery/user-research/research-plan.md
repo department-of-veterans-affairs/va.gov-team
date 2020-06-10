@@ -4,6 +4,13 @@ This research is for initial discovery for the Health Care Experience, Questionn
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+  - What are some current problems/pain points Veterans face when filling out information before visits?
+  - Who are Veterans interacting with when they are filling out documents? (clinicians, docs, etc.)
+  - What role do Caregivers have in relation to certain forms?
+  - Which forms are the highest priority for Veterans?
+  - How do these forms fit into the Veteran health journey?
+  - Is the context always pre-visit? If no, what types of forms would exist post-visit?
+  
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
