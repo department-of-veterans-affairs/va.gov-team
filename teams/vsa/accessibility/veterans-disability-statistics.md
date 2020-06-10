@@ -1,5 +1,7 @@
 # Veterans disability statistics
 
+* Approximately 40% of American Veterans have an identified disability, but there are likely many more that are not identified, in part due to the military culture.
+
 * About **1.52 million (8.5 percent) Veterans had a service-connected disability rating of 70 percent or higher**.
 
 * Of those who served after the terror attacks of Sept. 11, 2001, in Afghanistan, Iraq, and other war zones, **about 41 percent have VA disability ratings, compared to 25 percent of Veterans of other eras**.
