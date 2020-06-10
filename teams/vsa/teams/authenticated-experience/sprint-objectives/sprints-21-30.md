@@ -189,7 +189,9 @@ Dev
 
 - Phase 2 launch
 
-### Long term planning
+---------
+
+## Long term planning notes
 
 **Profile 2.0 outstanding to-dos**
 
