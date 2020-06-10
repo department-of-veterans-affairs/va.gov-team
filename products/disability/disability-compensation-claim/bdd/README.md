@@ -96,10 +96,13 @@ Notes:
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
+## Launch Date
+- *Target Launch Date*
   - June 2020
-- *What is your date for when you'll evaluate impact after launch?*
+- *Actual Launch Date*
+  - tbd
+- *What date will you evaluate impact after launch?*
+  - tbd
 
 ---
 ## Results and Recommendations
