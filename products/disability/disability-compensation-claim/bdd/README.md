@@ -4,8 +4,8 @@
 - GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
 - Slack channel: n/a (#vsa-benefits-memorials)
 - Product POCs: Andrea Schneider and Luke Majewski
-- va.gov link: https://www.va.gov/claim-or-appeal-status/
-- Stakeholders: Lots and lots of people... but Paul Shute is likely our main stakeholder/champion
+- va.gov link: https://www.va.gov/disability/how-to-file-claim/
+- Stakeholders: Barry Cooper and Paul Shute
 
 ## The Problem
 Service members who are separating and plan to file for disability can file their claim
