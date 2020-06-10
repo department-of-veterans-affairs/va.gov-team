@@ -132,10 +132,7 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
    
    `cd ~/.ssh`
    
-   If this command returns the following error message, `cd: no such file or directory`, you will need to create a .ssh directory by following these steps:
-    1. Create the directory by running `mkdir ~/.ssh`.
-    2. Run `chmod 700 .ssh`. This sets the permissions on that directory to readable only by you since it has your private keys.
-    3. Once the directory exists, change into that directory by running `cd ~/.ssh`.
+   If this command returns the following error message, `cd: no such file or directory`, skip to step 3.
 
 2. Once you have changed directory to `~/.ssh`, check to see if you already have your SSH keys:
    
