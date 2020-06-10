@@ -96,8 +96,8 @@ Design
 - Pre-launch - Work with Matt on release plan for UAT portion (no need to submit UAT request yet) 
 
 Dev
-- Build - Mobile nav updates
-- Build - final bug fixes and clean up before QA
+- Build - Sub nav updates
+- Build - Final bug fixes and clean up before QA
 - Pre-launch - Work with Matt on UAT plan for launch (how will we show the new profile to UAT participants?)
 
 **Logged-in homepage**
@@ -114,11 +114,8 @@ PM
 - Call center - Call center video
 - Pre-launch - Update relevant parts of the product outline
 - Call center - Request contact center review
-- Pre-launch - Request staging review
-- Pre-launch - Request privacy and security review
 
 Design
-- Call center - Call center video
 - QA - Any design updates out of QA
 - Pre-launch - Update relevant parts of the product outline
 
@@ -141,8 +138,12 @@ Logged-in homepage
 
 PM
 - Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Request staging review
+- Pre-launch - Request privacy and security review
 
 Design
+- UAT - Research plan
+- UAT - Conversation guide
 
 Dev
 - QA — Any bug fixes that come out of QA/508
@@ -159,7 +160,7 @@ PM
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
-- Submit request for UAT
+- UAT - Submit request 
 - Participate in reviews
 
 Dev
@@ -181,6 +182,7 @@ Dev
 
 **Profile 2.0**
 
+- Go/No-go
 - Phase 1 launch
 
 ## Sprint 30 (9/9 – 9/22)
