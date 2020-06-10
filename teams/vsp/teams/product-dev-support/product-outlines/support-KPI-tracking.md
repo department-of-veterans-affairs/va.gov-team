@@ -12,17 +12,22 @@ If we had a standardized way we collected support incident data and all teams in
 ## Desired User Outcomes
 - The process for inputting a support request is easy enough that VSP or VFS folks do it 95% of the time
 - The value in taking the time to log support requests is clear
+- VFS teams can more easily resolve their own issues
 
 ## Undesired User Outcomes
 - The process we create isn't so hard that VSP or VFS folks don't input support requests
 
 ## Desired Business Outcomes
-
-- VSP can use this aggregation of support inicidents to define development projects  
-- VSP can use this aggregation of support inicidents to identify areas where we need more or clearer documentation written. 
+ 
+- VSP can use this aggregation of support inicidents to identify areas where we need more or clearer documentation written.
+- VSP can understand how to more effectively and effectively support VFS requests
+- VSP can use this aggregation of support incidents to define and prioritize development projects
+- VSP can use this aggregation of support incidents to identify areas where we need more automation
 
 ## Undesired Business Outcomes
 - We don't use this to analyze data (like we didn't with the zenhub epic) and folks stop logging support requests.
+- VSP spends more time logging issues than supporting VFS teams
+- VSP is frustrated with logging issues and stops tracking issues
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
