@@ -87,10 +87,12 @@ Profile 2.0
 - 
 
 Logged-in homepage
-- Begin design phase
-- Technical discovery
+- 
 
 ----
+
+**Profile 2.0 outstanding to-dos**
+
 - QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
 - 508 - Request review of build
 - QA - Implement fixes/updates that came out of QA/508 audit
@@ -105,6 +107,58 @@ Logged-in homepage
 - Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
 - Pre-launch - Put together release plan
 - UAT - Plan for UAT
+- UAT — Conduct UAT
+
+PM
+
+- Call center - Prep guide
+- Call center - Prep video
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Product outline – Have team make updates to the product outline to prep for pre-launch activities/reviews
+- Pre-launch - Put together release plan
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+
+Design
+
+- QA — Any design updates that come out of QA/508
+- Call center - Prep guide
+- Call center - Prep video
+
+Dev
+- QA — Any bug fixes that come out of QA/508
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
+
+Platform
+- QA - plan for QA/submit QA request (needs to happen 1 sprint before we want QA to take place)
+- 508 - Request review of build
+- QA - Implement fixes/updates that came out of QA/508 audit
+- Call center - Contact Center Review (VSP cycle)
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+
+
+**Logged-in homepage next steps**
+
+Handoff
+- Hand off this work between Liz Lantz (public websites) and the authenticated experience team
+
+PM
+- Any updates to the initial plan for phase 1 that come out of handoff meeting
+- Finish OKR and KPI planning
+- Figure out if there are analytics we need to get set up
+- Present work to DEPO team
+- Have another convo with Chris J about how to loop in stakeholders
+- Start getting staging users set up
+
+Design
+- Handoff between Liz and Tressa
+- Logged-in tools audit
+- Understanding of how banners work
+- Initial iterations
+
+Dev
+- Technical discovery (initial tasks still TBD)
 
 ## Sprint 25 (7/1 – 7/14)
 
