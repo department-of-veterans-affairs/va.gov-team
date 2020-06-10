@@ -51,9 +51,24 @@ Less frustration for veteran's, Call Center staff, and technical team when encou
 
 # Implementation Info
 
+## Intial Discovery
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/6813
+Essentially this work determined that we have several main areas of solutioneering we need to focus on.
+
+Problem 1: Bug tickets originating from the Help Desk often lack the context we need to investigate and resolve the issue. The logging and monitoring systems do not contain PII or other information that would help us find the exact transaction or exception that the user is experiencing. Oftentimes, the only information we use to search the logs is a general time of day or an error message; search terms that yield thousands of results.
+
+Proposed Solution:
+All errors that are reported to the user with help text directing the user to contact the service desk include an identifier unique to that user session and directs the user to include the report the identified to the help desk. The identifier is logged in Sentry, thereby allowing developers to find the exact error quickly. There are several ids peppering the logs that are possible candidates to be the id used for this: request_id, request_uuid, and transaction_id. We need to investigate which one is most appropriate to this purpose, standardize its use, and communicate its renewed purpose to VSP. This change will need investigation and buy in from design/research, frontend and backend developers, and VSP.
+
+Problem 2: It is tedious and time intensive for developers to review Sentry for errors and determine which are under our team's purview. Sentry is not pro actively reviewed by developers. Bugs are often surfaced and corrected after they negatively affect the users.
+
+Proposed solution:
+Filtering rules are added to Sentry to identify errors related to our team's code. As a second step, it may be prudent for those alerts to be surfaced in a platform developers check regularly, Slack.
+
 ## Status
 1. We have reduced the error rate significantly
-2. More details after looking at Epic.
+2. We have improved reporting (charting) in Grafana.
+3. We have added an "job" or "submission id" to non-retryable errors.
 
 ## Team
 
