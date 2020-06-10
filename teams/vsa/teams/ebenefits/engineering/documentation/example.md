@@ -23,7 +23,7 @@ This config object contains many name/ value pairs -
 * `urlPrefix:` - This does something but I don't know what it is. 
   | Value     | Description |
   | ----------- | ----------- |
-  | true      | Title       |
+  | true      | when set to true the form will attempt a call to the back end to get the prefill data and fill the form based on the nesting of the data returned      |
   | false   | Text        |
 
 * `trackingPrefix: 'complex-form-'` - This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
