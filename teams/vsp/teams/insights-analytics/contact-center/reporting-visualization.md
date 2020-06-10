@@ -1,6 +1,6 @@
 ## Reporting Visualization
 
-Currently the Contact Center Monthly Report lives in DOMO and mirrors an Excel spreadsheet.  The goal is to have the Contact Center Monthly 
+Currently the Contact Center Monthly Report lives in DOMO and mirrors an Excel spreadsheet.  The purpose of this is to have the Contact Center Monthly 
 Report be cohesive with the other IA dashboards that have been created.
 
 One item to consider is we may not be able to get the DOMO tables in exactly the same format/visualization in which have been 
