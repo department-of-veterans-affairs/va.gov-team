@@ -96,7 +96,7 @@ Notes:
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-- Link to Phased Roll-out Plan
+- [Link to Phased Roll-out Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/disability-compensation-claim/bdd/release-plan-bdd.md)
 
 ## Launch Date
 - *Target Launch Date*
