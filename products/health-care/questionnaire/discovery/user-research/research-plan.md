@@ -2,8 +2,10 @@
 ## Goals	
 This research is for initial discovery for the Health Care Experience, Questionnaires team. 
 
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+**Background**
+Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
+
+**Research questions**
   - What are some current problems/pain points Veterans face when filling out information before visits?
   - Who are Veterans interacting with when they are filling out documents? (clinicians, docs, etc.)
   - What role do Caregivers have in relation to certain forms?
@@ -11,7 +13,9 @@ This research is for initial discovery for the Health Care Experience, Questionn
   - How do these forms fit into the Veteran health journey?
   - Is the context always pre-visit? If no, what types of forms would exist post-visit?
   
-4. Hypothesis: What is your hypothesis for this research? 	
+**Hypothesis**
+- TBD
+
 ## Method	
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
