@@ -222,10 +222,14 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 1. Configure the `proxy` profile like this:
 
    ![](images/switchy-omega-config-1.png)
+   - Server: `127.0.0.1`
+   - Port: `2001`
 
 1. Configure the `auto switch` profile like this:
 
    ![](images/switchy-omega-config-2.png)
+   - Condition details: `*.vetsgov-internal`
+   - Condition details: `*.vfs.va.gov`
 
 1. In Chrome's menu bar, click on the proxy app and change the setting to "auto switch":
 
