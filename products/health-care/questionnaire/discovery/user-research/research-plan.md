@@ -1,6 +1,6 @@
-# Research Plan for Health Care Questionnaire Team June 2020 
+# Research Plan for Health Care Questionnaires Team June 2020 
 ## Goals	
-This research is for initial discovery for the Health Care Questionnaire team. 
+This research is for initial discovery for the Health Care Experience, Questionnaires team. 
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
