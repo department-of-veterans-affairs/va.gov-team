@@ -98,7 +98,7 @@ Notes:
 
 ## Launch Date
 - *Target Launch Date*
-  - June 2020
+  - June 24, 2020
 - *Actual Launch Date*
   - tbd
 - *What date will you evaluate impact after launch?*
