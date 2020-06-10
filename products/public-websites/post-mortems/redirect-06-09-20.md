@@ -19,7 +19,7 @@ Because these pages did not include our injection script, we did not have the ab
 ### What went wrong
 However, although we sent an email to the `benefits.va.gov` team to implement the redirects themselves, we did _not_ remove the not-working redirects that included those pages from our injection script. We didn't remove these redirects because the redirects were considered harmless (as in, they have no effect) if the injection script isn't included on the page.
 
-At some point between stakeholder communications and the discovery of this redirect now taking effect unexpectedly, however, our injection script was added into `claimexam.asp`, which could not be redirected previously. Since the redirect was still included in our injection script, this would cause those two pages to immediately begin redirecting to `www.va.gov`.
+At some point between stakeholder communications and the discovery of this redirect now taking effect unexpectedly, however, our injection script was added into `claimexam.asp`, which could not be redirected previously. Since the redirect was still included in our injection script, this would cause that page to immediately begin redirecting to `www.va.gov`.
 
 ## Solution
 We confirmed that the redirect was being performed by our injection script by loading the page on benefits.va.gov locally and using Chrome devtools to block our JS injection script from loading. This confirmed that it is our injection script executing the redirect.
