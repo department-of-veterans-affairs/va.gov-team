@@ -93,3 +93,39 @@ TBD
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team.
 
 No changes to form content
+
+## Use case - Product selection empty state, eligible
+Relevant links: <br>
+**1.** [Invision prototype](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/421066122_C3-_Review_-_Supply_Empty_State-_Eligible)
+**2.** [Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9796)
+
+### Description
+These are the empty states one will see if they are eligible to add products to the order, but haven't. 
+
+## Content
+```
+You haven’t added any batteries to your order.
+[Add batteries to your order] 
+
+You haven't added any accessories to your order.
+[Add accessories to your order]
+```
+
+
+## Use case - Product selection empty state, ineligible
+Relevant links: <br>
+**1.** [Invision prototype](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/screens/421066123)
+**2.** [Github Issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9796)
+
+### Description
+These are the empty states one will see if they are ineligible to order products in each category.
+
+**Note:** A user should never see both of these messages at the same time, as they would be stopped on the introduction screen for being ineligible for all items. They are included in one prototype for illustrative purposes.
+
+## Content
+```
+You can't add batteries to your order at this time due to ineligibility.
+
+You can't add accessories to your order at this time due to ineligibility.
+```
+
