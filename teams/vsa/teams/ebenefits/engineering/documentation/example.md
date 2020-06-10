@@ -27,7 +27,7 @@ This config object contains many name/ value pairs -
   trackingPrefix: 'complex-form-',
   ```
 
-* `trackingPrefix` - This is the analytics tracking prefix your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
+* `trackingPrefix` - This is the analytics tracking prefix that your form will use by default ( it is assigned a value when you run the yeoman generator ). This tracking prefix will be used for the default events that come with the form system out of the box which you can read more about [here](/)
 
   Example
   ```
