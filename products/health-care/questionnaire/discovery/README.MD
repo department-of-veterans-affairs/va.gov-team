@@ -1,0 +1,10 @@
+# Discovery Kickoff - Sprint 23 06/03/20 -06/16/20
+
+## Kickoff
+- [Kickoff slides presented](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/kick-off/questionnaire-discovery-kickoff.pdf)
+ to the team on Healthcare Discovery Kickoff - Thursday, June 4⋅2:00 – 3:00pm
+  - [What the team is interested in learning early in discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/kick-off/what-to-learn.md)
+- [Healthcare - Current State/Market Research Sync](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/kick-off/questionnaire-discovery-outline.pdf) - Tuesday, June 9⋅10:00 – 11:00am
+
+## User Research
+- [Research Plan for Health Care Questionnaires Team June 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-plan.md)
