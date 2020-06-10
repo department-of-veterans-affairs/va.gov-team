@@ -28,6 +28,10 @@ This config object contains many name/ value pairs -
   
 * `confirmation: ConfirmationPage` - This is a React component that is passed in as the confirmatio page for your form and appears once your form is submitted. This component is a regular React component and thus has access to and behaves just like any other React component you have ever used. You can do things like connecting it to Redux if you need access to our Redux store.
 
+* `formId: '29-1900'` - This should be the same form ID that is on the paper form you are basing your form on.
+
+* `prefillEnabled: true` - Our forms can make use of data we already have access to, such as the veteran's name, and can prefill this data in the form when the form loads. In order to take advantage of this prefill you will need to set the `prefillEnabled:` name to a value of `true`. As a side note the back end also needs to be set up to send you the data you will be prefilling so that will need to be set up for prefill to work end to end.
+
 </details>
 </details>
 
