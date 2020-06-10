@@ -35,6 +35,11 @@ This config object contains many name/ value pairs -
   | ----------- | ----------- |
   | true      | when set to true the form will attempt a call to the back end to get the prefill data and fill the form based on the nesting of the data returned      |
   | false   | disables prefill on the front end for this form       |
+  
+  Example -
+  ```
+  prefillEnabled: true
+  ```
 
 </details>
 </details>
