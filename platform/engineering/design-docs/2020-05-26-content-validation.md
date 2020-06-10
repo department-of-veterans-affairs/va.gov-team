@@ -14,7 +14,7 @@
     - [Background](#background)
         - [Content Sources](#content-sources)
         - [Amazon S3](#amazon-s3)
-        - [Current checks](#current-checks)
+        - [Current state](#current-state)
           - [Broken Link Checking](#broken-link-checking)
           - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
@@ -78,7 +78,7 @@ This design doc will focus on validating content from the Drupal CMS.
 
 The frontend of VA.gov is served as static files via Amazon S3. Since `vets-website` currently handles both application and content building, a failure in one blocks both from being deployed to S3 during a full deploy.
 
-##### Current checks
+##### Current state
 
 ###### Broken Link Checking
 
