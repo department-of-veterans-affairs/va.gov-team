@@ -55,7 +55,21 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
-5/26/20 - Kick-off
+6/11/20 - Kick-off Email notifications
+- this will be the initial email, how/will we need to engage with vsp with every email?
+- email sent after 526 successful form submission, this is in addition to the physical letter they get and the online confirmation page
+- this establishes an email template and a messaging template for future confirmation type emails
+- will need to sync between the email content, confirmation page and physical letter - this will require syncing with Andrea S and team for any potential 526 confirmation page changes and PW for any other static content
+- we may have different email addresses, one in profile and one on the application - confirm which one to the email will go to
+- no preferences to be managed since this is more "transactional" in nature, preferences functionality will come later when optional communications are added
+- where will this content be managed?
+  - there's a notifications interface, but not planned to be used right now, used by small subset of users
+  - domain, there will be external providers, but mostly internal, need separate discussion with Mikki and Meg
+  - content not stored in drupal, it may eventually integrate with it though
+
+
+
+5/26/20 - Kick-off on broad notifications work (VA Notify)
 - There's a mess of notifications, no way to ensure they are quality, consistent, and have our voice, and its slow (mail)
 - Idea is to build a "notifications platform" - provide ability for stakeholders to send notifications
 - first phase of work will focus on breadth - a single communication that touches many business lines, i.e. notification of submitted online application
