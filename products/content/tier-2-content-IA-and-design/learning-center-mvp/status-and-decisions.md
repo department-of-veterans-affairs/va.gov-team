@@ -1,6 +1,68 @@
 # Status and decisions for MVP Learning Center
 ## mm/dd/yy
 
+## 06/11/2020
+
+### CMS-focused follow-up meeting
+
+**Agenda**
+* Should we prototype in Drupal, or something else?
+* What questions would we like to gather, to inform the questions we'd like answered by user testing?  (or, where to log these questions so we don't lose them)
+* Next steps
+
+**Action Items from this meeting**
+1. Continue building questions for user research and review the need for prototyping
+2. If prototype is warranted for testing, will pursue a clickable prototype. Public Websites discussion needed.
+3. Jen to review the suggestion for bringing in more content for testing purposes
+4. Stephanie to set up a followup with the CMS team on components. In this follow-up, we will need to review the components. As we review, we will need to discuss which components (if any) would need to go throgh user research first before being built.
+
+**Initial list of questions or areas of interest, for user research**
+1. The findability, navigation of content using this search-focused, tag-based navigation. Is the information easy to find using this new method?
+2. The taxonomy, IA of categories. Is the chunking of the categories and labels the best way to begin this? For Veteran and other audiences, in terms of taxonomy and nomenclature, is this effective?
+3. The labels of the types of templates, and if they affect what the user chooses to read (ex: FAQs, Checklist, Media List). We think it is useful for users. Do we test without the labels to gauge if including is an improvement or not?
+4. Based on the thoughts regarding Tier 1 and Tier 2 content: is there a way we can find out with users how comfortable they are with the distinction between Tier 1 and Tier 2 content - or do they even care, as long as they can find what they need? Does it matter if something is in benefit hubs or learning center? How frequently do they go bak and forth?
+
+### Notes from meeting
+Before we begin a prototype, what questions do we want to get answered by user research? This may impact if we even need a prototype. 
+
+In approaching a prototype, the CMS team recommends focusing on a clickable prototype & not building a prototype in Drupal. The investment in using Drupal for this purpose would be high. Their feedback is captured below under "Learning Center user research / prototyping notes from CMS
+
+The CMS team recommends we include more than one content type (currently planning for Account information) for prototyping to help prove out a better content model. The CMS team provided thoughts and feedback regarding the distinction and access of Tier 1 and Tier 2 content, also captured in their notes below. 
+
+We believe that users care less about where the content lives or how it's structured as long as it's easy to find what they are looking for. Are users thinking in precise terms the way IA, taxonomists are thinking?
+
+The CMS team recommends not building a prototype in Drupal but there items they could start on shortly that would further this initiative. They could start on related Epics around:
+* Reusable Q&AS, FAQs
+* Video (note: this is shared with the Campaign Landing Page, and would be built to serve both)
+* Checklist component
+* Step-by-step component - it's a modification of the subway map for when we want to include screenshots. This would allow content authors who provide step 1, step 2, etc. for things like 'how to do x in a tool', they would be to provide screenshots as visual reference for users
+* Iteration on the Table component
+
+### Learning Center user research / prototyping notes from CMS
+
+**Should we prototype in Drupal, or something else?**
+1. Generally speaking, no. At this stage, we recommend clickable prototypes instead of investing in an approach using Drupal & FE that consumes the content API, because
+   * The amount of resources required. 
+   * The amount of risk / unknowns for many of the templates. 
+
+**What questions would we like to gather, to inform the questions we’d like answered by user testing?**
+1. Do these designs create too much distance between Tier 1 and 2 content?  
+   * We see risk in this design that Tier 1 and Tier 2 are silo’d through two primary IA means: search and tags/taxonomy. 
+   * The only bridges to Tier 1 that we can see are CTA buttons and Related information. Search and Topic/Tags listing do not seem to surface Tier 1. 
+   * The CMS can support the IA needs of users to get to Tier 1 content while maintaining the Tier 1 / Tier 2 governance distinction.. 
+2. Not a question exactly, but relevant to the “real content” question for user testing. The Account info epic 9938 looks like an excellent use case. BUT:
+   * We recommend multiple use cases for each template. 
+   * We’re concerned that a single use case for MVP (Account info) may not yield the level of content diversity required to make content model decisions. 
+   * User research about account info may point us down a content model path specific to that use case, and content models are expensive to refactor.
+  
+**Additionally**
+1. Just because we are not prototyping page templates in Drupal, doesn’t mean we can’t start some related drupal epics, at the component level, eg:
+   * Reusable Q&As, FAQs
+   * Video component
+   * Checklist component
+   * Iterations on Process list (eg screengrabs) 
+   * Iterations on Table components
+
 
 ## 06/04/2020
 
