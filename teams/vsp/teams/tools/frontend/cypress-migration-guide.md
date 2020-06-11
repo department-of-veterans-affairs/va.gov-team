@@ -21,8 +21,7 @@ The purpose of this guide is to help with converting Nightwatch tests to Cypress
 
 ## Initial Setup <a name="initial-setup"></a>
 
-Cypress tests are written in the same location as Nightwatch tests. Cypress tests need to be in the `tests` directory of the application.
-Cypress tests need to have the file extension `.cypress.spec.js`. E.g. `my-test-name.cypress.spec.js`.
+Cypress tests, like Nightwatch tests, should be written in the `tests` directory of the application and should have the file extension `.cypress.spec.js` (e.g. `my-test-name.cypress.spec.js`).
 
 The overall folder structure for Cypress in the `vets-website` repo is as follows:
 
@@ -33,13 +32,11 @@ vets-website
 │   |   │   
 │   └───plugins
 │   |   │   index.js
-│   |   │   
 │   └───support
 │       │   commands
 │       │   index.js
 ```
 
-`cypress.json` is the [configuration file](https://docs.cypress.io/guides/references/configuration.html) for Cypress tests. You can set the `baseUrl`, `defaultCommandTimeout`, etc.
 - `plugins` contains custom tasks, which allow you to [tap into the Node environment](https://docs.cypress.io/guides/tooling/plugins-guide.html). This is valuable because all Cypress test code is executed in the browser, so plugins allow us to execute code in the Node process running outside of the browser.
 - `support` contains [custom Cypress commands](https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax). By default, the custom commands imported in `commands/index.js` are available to all of our Cypress tests. These commands can be invoked similarly to the built in commands. This feature is similar to [Nightwatch's custom commands](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/#custom-nightwatch-commands). This is also where custom commands from Cypress plugins are imported, as can be seen in `index.js`.
 
@@ -229,20 +226,28 @@ cy.get('button').should('be.disabled')
 ```
 
 ## Running Tests <a name="running-tests"></a>
-
 Cypress supports Chrome, Edge, Firefox, and a few [others](https://docs.cypress.io/guides/guides/launching-browsers.html#Browsers). You can run tests in headless mode or via the test runner.
 
 ### Headless mode <a name="headless-mode"></a>
-To run tests headless, run `yarn cypress run --headless`
+To run headless tests, run `yarn cy:run`.
+
+By default, `yarn cy:run` runs Cypress tests headlessly in an Electron browser. You may specify another browser, and if you would like to run headless tests in another browser, you will have to explicitly include the `--headless` flag.
+
+```
+yarn cy:run --headless --browser firefox
+```
+
 
 ### Test Runner <a name="test-runner"></a>
-To run tests using the Cypress [test runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Overview), run `yarn cypress open`.
+To run tests in the Cypress [test runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Overview), run `yarn cy:open`.
+
+There is a dropdown menu in the top right of the test runner that allows you to select a browser in which to run your tests. In our experience, Firefox has yielded the fastest test runs when testing locally, although it is currently a beta feature. The tests in CI will run in the default browser, which is Electron.
 
 With the test runner, you are able to use Cypress's "Open Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. This means there's usually no need to manually inspect an element and copy the selector.
 
 The test runner provides the ability to pause tests, and [time travel](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Time-travel), which allows you to see snapshots of your tests.
 
-You can add any of the [run options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
+You may find it useful to append certain [options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
 
 ## Things to Note <a name="things-to-note"></a>
 
