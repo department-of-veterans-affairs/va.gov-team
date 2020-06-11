@@ -30,7 +30,7 @@ Regression test plans should represent a basic suite of test scenarios that cove
 
 An exploratory test charter is used to define scope of an exploratory test session as well as record the results of that session. The linked template includes all recommended aspects of an exploratory test session.
 
-- Template: [Exploratory Test Charter](exploratory-charter.md)
+- Template: [Exploratory Test Charter](/manual-testing/exploratory-charter.md)
 
 ### Test Plan
 **Collab Cycle:** 
