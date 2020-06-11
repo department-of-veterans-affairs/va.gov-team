@@ -131,7 +131,9 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 ## High Level Design
 
-Once the `content-build` repo is successfully extracted from `vets-website`, the Metalsmith static content build pipeline will be deleted from `vets-website`. Webpack will handle the application build in `vets-website`, and Metalsmith will handle the static content build in the `content-build` repo. This will create two separate pipelines for built code to be deployed to S3, which will prevent failures in one from blocking the other.
+As part of the [build separation wor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719)k, two separate pipelines will be created for for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments. 
+
+The Metalsmith static content build will be extracted to the `content-build` repo and deleted from `vets-website`, and its deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo. 
 
 The validation of static content will take place in a scheduled job that runs every workday. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
