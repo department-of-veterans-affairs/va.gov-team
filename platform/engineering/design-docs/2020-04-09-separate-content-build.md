@@ -466,17 +466,6 @@ to keep it in `vets-website`. The reasons we're not doing this are:
   - It will be harder for an application to use be able to use a dependency that
     wasn't intended to be client-facing
 
-#### Multiple S3 Buckets
-There are a few challenges that multiple buckets present.
-1. ATO
-    - There's a lot of paperwork
-1. Namespacing
-    - To use S3 to serve a static site, the bucket needs to be named after the
-      namespace, e.g. `www.VA.gov`
-    - We could maybe get around this with using a subdomain like
-      `javascript.VA.gov` or something, but again, paperwork and likely more
-      maintenance burden
-
 ### Future Work
 1. Splitting out the platform code from the application code
 1. Splitting up the applications into separate repositories
@@ -485,3 +474,4 @@ There are a few challenges that multiple buckets present.
 Date | Revisions Made | Author
 -----|----------------|--------
 Apr 9, 2020 | Initial draft | Christopher Valarida
+Jun 11, 2020 | Change the plan to use multiple s3 buckets | Brooks Johnson
