@@ -59,7 +59,7 @@ Because of the limitations and quirks of Google Analytics, the "pages" below are
 | 1. MHV home  | My HealtheVet | 13.30%  | 143M |
 | 2. Sign in  | My HealtheVet | 6.14%  | 66M | Sign in |
 | 3. Secure messaging  | My HealtheVet | 5.28%  | 56.8M | Sign in |
-| 4. Refill prescriptions  | My HealtheVet | 4.36%  | 46.9M | Sign in | 
+| 4. Refill prescriptions  | My HealtheVet | 4.36%  | 46.9M | Sign in |  
 | 5. VA.gov home  | VA.gov | 3.85%  | 41.4M | 
 | 6. VA DoD eBenefits home  | eBenefits | 3.57%  | 38.4M | 
 | 7. Track Claims  | VA.gov | 3.14%  | 33.8M | Sign in |
