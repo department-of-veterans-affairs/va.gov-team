@@ -26,7 +26,7 @@ Time: approximately 1 hour
     
     1. [VSP Accessibility Staging Review Requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#before-you-request-a-review)
 
-[Go to Level 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md)
+[Go to Level 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/01-level.md#level-1)
 
 
 ## Additional video resources
