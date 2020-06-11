@@ -164,13 +164,13 @@ The updated content validation approach will continue logging invalid content er
 ##### Broken links
 
 1. Confirm that the content build is passing
-2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html) to have a broken link
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have a broken link
 3. Run the build again to confirm that it is failing
 
 ##### Accessibility errors
 
 1. Confirm that the content build is passing
-2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html) to have an accessibility error
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have an accessibility error
 3. Run the build again to confirm that it is failing
 
 ### Caveats
