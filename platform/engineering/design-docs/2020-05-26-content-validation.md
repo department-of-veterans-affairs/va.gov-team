@@ -56,7 +56,7 @@ This design document is intended for front end and DevOps engineers on the Veter
 
 Originally on vets.gov, all content was in `vets-website` in a `content/` directory, and you would open a PR to edit content. CI would then run against that PR. Link-checking would run as part of the build the same way it does today. If a broken link or an accessibility error was found, CI would fail, and you wouldn't be able to merge. This meant that broken links and accessibility errors never made their way into the `master` branch.
 
-At some point, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo.
+During Web Brand Consolidation, the `content` directory was moved out of `vets-website`, and into the `vagov-content` repo. The `vagov-content` repo served as an intermediary CMS while the Drupal CMS was being built. While most of our content now comes from the CMS, there is still some content that comes from the `vagov-content` repo.
 
 Currently, the `vets-website` repo contains [one script that builds both the content and the applications](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/index.js). Chris V. wrote a [design doc to separate the content build from the application build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/design-docs/2020-04-09-separate-content-build.md), and has since broken the build into two separate stages.
 
