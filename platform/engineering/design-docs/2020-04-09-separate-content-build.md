@@ -168,8 +168,7 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-The output of both these builds will be deployed to a single S3 bucket with
-safeguards in place to ensure they don't override each other.
+The output of the content build will be deployed to one s3 bucket, and the output of the application build will be deployed to a different one. The separate bucket for the content build output will be new.
 
 **Another important note:** The deploy process will not automatically coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
@@ -208,17 +207,9 @@ which corresponds to the URLs on VA.gov. For example, `/education/index.html` is
 the file that's served at www.va.gov/education/.
 
 The output of the application build **currently** live in the `/generated/`
-directory. To support the transition, the **new** application build will put its
-assets in the `/applications/` directory.
+directory. By using different buckets for the application build output and content build output, the `/generated` directory can be removed.
 
 ![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
-
-To ensure that one build won't override files in the other, we'll have to
-1. Update
-   [`vets-website-deploy.sh`](https://github.com/department-of-veterans-affairs/devops/blob/2c63e6d62fa5ad2b6b87478e30d0a7bc2820c252/ansible/deployment/roles/deploy-vets-website/files/vets-website-deploy.sh)
-   to copy only to the `/applications/` directory
-1. Create a new deploy script for the content deployment which copies everything
-   over _except_ the `/applications/` directory
 
 #### Creating temporary static pages for application testing
 - The Webpack configuration will use
@@ -232,8 +223,6 @@ To ensure that one build won't override files in the other, we'll have to
   tests can run a browser and access the applications
 - **Important note:** These HTML files will not be served in production; the
   landing pages for the applications come from the content build
-  - To ensure these pages aren't made in production, the deploy script will copy
-    only the files in `/applications/`
 
 #### Miscellaneous
 - Separating the content and application builds will require a standalone content validation job that runs outside of the CI pipeline- probably once a day on a schedule
