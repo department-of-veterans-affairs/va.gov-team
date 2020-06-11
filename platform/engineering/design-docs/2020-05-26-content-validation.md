@@ -19,7 +19,7 @@
           - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
         - [Content Writers](#content-writers)
-        - [Users](#users)
+        - [VA.gov Users](#vagov-users)
         - [FE Tools team](#fe-tools-team)
         - [Anybody that is trying to ship code for the VA.gov front end](#anybody-that-is-trying-to-ship-code-for-the-vagov-front-end)
   - [High Level Design](#high-level-design)
@@ -27,10 +27,18 @@
     - [Detailed Design](#detailed-design)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
+      - [Local](#local)
+        - [Broken links](#broken-links)
+          - [Positive](#positive)
+          - [Negative](#negative)
+        - [Accessibility errors](#accessibility-errors)
+          - [Positive](#positive-1)
+          - [Negative](#negative-1)
+      - [CI](#ci)
+        - [Positive](#positive-2)
+        - [Negative](#negative-2)
     - [Logging](#logging)
     - [Debugging](#debugging)
-        - [Broken links](#broken-links)
-        - [Accessibility errors](#accessibility-errors)
     - [Caveats](#caveats)
     - [Security Concerns](#security-concerns)
     - [Privacy Concerns](#privacy-concerns)
@@ -131,9 +139,9 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 ## High Level Design
 
-As part of the [build separation wor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719)k, two separate pipelines will be created for for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments. 
+As part of the [build separation wor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719)k, two separate pipelines will be created for for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments.
 
-The Metalsmith static content build will be extracted to the `content-build` repo and deleted from `vets-website`, and its deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo. 
+The Metalsmith static content build will be extracted to the `content-build` repo and deleted from `vets-website`, and its deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
 
 The validation of static content will take place in a scheduled job that runs every workday instead of ???. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
@@ -151,9 +159,58 @@ The content validation script and scheduled job config will live in the [new `co
 
 ### Testing Plan
 
-1. Once the content validation script is written, we can run the script locally.
-2. Once the script is behaving correctly in local environment, we can call the script in a scheduled job.
-3. Once the script is being called in the scheduled job, we can monitor and optimize it.
+#### Local
+
+##### Broken links
+
+###### Positive
+
+1. Confirm that the content build has zero broken links
+2. Run the content validation script
+3. Confirm that the script reports zero broken links
+
+###### Negative
+
+1. Confirm that the content build has zero broken links
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have a broken link
+3. Run the content validation script
+4. Confirm that the script reports the newly introduced broken link
+
+##### Accessibility errors
+
+###### Positive
+
+1. Confirm that the content build has zero accessibility errors
+2. Run the content validation script
+3. Confirm that the script reports zero accessibility errors
+
+###### Negative
+
+1. Confirm that the content build has zero accessibility errors
+2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have an accessibility error
+3. Confirm that the script reports the newly introduced accessibility error
+
+#### CI
+
+##### Positive
+
+1. Confirm that the content build has zero accessibility errors and zero broken links
+2. Run the job that calls the content validation script
+3. Confirm that a report is sent to the #cms-team Slack channel
+4. Confirm that the report includes zero accessibility errors and zero broken links
+
+##### Negative
+
+1. Confirm that the content build has zero accessibility errors and zero broken links
+2. Add a broken link, and an accessibility error
+3. Run the job that calls the content validation script
+4. Confirm that a report is sent to the #cms-team Slack channel
+5. Confirm that the report includes the newly introduced accessibility error
+6. Confirm that the report includes the newly introduced broken link
+7. Fix the newly introduced accessibility error
+8. Fix the newly introduced broken link
+9. Run the job that calls the content validation script
+10. Confirm that the report includes zero accessibility errors and zero broken links
 
 ### Logging
 
@@ -163,17 +220,9 @@ The updated content validation approach will continue logging invalid content er
 
 ### Debugging
 
-##### Broken links
-
-1. Confirm that the content build is passing
-2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have a broken link
-3. Run the build again to confirm that it is failing
-
-##### Accessibility errors
-
-1. Confirm that the content build is passing
-2. Modify an HTML file, like [`header.html`](https://github.com/department-of-veterans-affairs/content-build/blob/master/src/site/includes/header.html), to have an accessibility error
-3. Run the build again to confirm that it is failing
+- Local build logs
+- Jenkins build logs
+- Slack notifications
 
 ### Caveats
 
