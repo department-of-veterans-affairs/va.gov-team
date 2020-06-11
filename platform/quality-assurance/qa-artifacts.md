@@ -6,6 +6,7 @@ A list of expected deliverables and explanation of their contents is listed belo
   - [Table of Contents](#table-of-contents)
   - [Artifacts](#artifacts)
     - [Regression Test Plan](#regression-test-plan)
+    - [Exploratory Test Charter](#exploratory-test-charter)
     - [Test Plan](#test-plan)
     - [Test Cases](#test-cases)
     - [Test Results](#test-results)
@@ -23,6 +24,13 @@ A list of expected deliverables and explanation of their contents is listed belo
 
 Regression test plans should represent a basic suite of test scenarios that cover the baseline functionality of your product prior to changes from your current development effort.
 - Example: [Regression Test Plan](https://dsvavsp.testrail.io/index.php?/suites/view/20&group_by=cases:title&group_order=asc)
+
+### Exploratory Test Charter
+**Not a part of collab cycle -- may be executed at any point in SDLC**
+
+An exploratory test charter is used to define scope of an exploratory test session as well as record the results of that session. The linked template includes all recommended aspects of an exploratory test session.
+
+- Template: [Exploratory Test Charter](exploratory-charter.md)
 
 ### Test Plan
 **Collab Cycle:** 
