@@ -44,7 +44,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 17. Log out  | 0.53%  | 1.9M | Sign in |
 | 18. Prescription refill and tracking  | 0.49%  | 1.7M | Sign in |
 | 19. Disability compensation  | 0.46%  | 1.6M |
-| 20. Health account validation  | 0.45%  | 1.6M | Sign in | (Part of #11, apply?)
+| 20. Health account validation  | 0.45%  | 1.6M | Sign in (Part of #11, apply? Eligibility too.) |
 | 21. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
 
 
