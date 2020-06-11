@@ -155,7 +155,9 @@ The content validation script and scheduled job config will live in the [new `co
 
 ### Logging
 
-Currently, invalid content is logged during staging deploys. And failed builds trigger generic [Slack notifications](https://dsva.slack.com/archives/C37M86Y8G/p1591099447374800).
+Currently, invalid content is logged in the build log during staging deploys. And failed builds trigger generic [Slack notifications](https://dsva.slack.com/archives/C37M86Y8G/p1591099447374800).
+
+The updated content validation approach will continue logging invalid content errors in the build log, and will also post an automated report of the invalid content in the #cms-team Slack channel.
 
 ### Debugging
 
