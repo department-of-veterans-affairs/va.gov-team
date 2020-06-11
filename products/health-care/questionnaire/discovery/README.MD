@@ -1,5 +1,7 @@
 # Discovery Kickoff - Sprint 23 06/03/20 -06/16/20
 
+[Discovery Brief and Planning Template- used to kickoff discovery planning](https://github.com/department-of-veterans-affairs/va.gov-team/commit/e36d2a7df704a73851bbf4ffef0fa2a63a60f36a) June 11, 2020
+
 ## Kickoff
 - [Kickoff slides presented](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/kick-off/questionnaire-discovery-kickoff.pdf)
  at Healthcare Discovery Kickoff - Thursday, June 4⋅2:00 – 3:00pm
