@@ -115,7 +115,7 @@ Additionally, we have the preview server which shows content editors any accessi
 
 Content writers want to quickly draft, publish, and deploy content. However, `vets-website` is only deployed to production once per day. To allow content writers to move faster, there is a [partial deploy](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#partial-deploy--static-page-changes-only), which only includes static page changes (`vagov-content` and Drupal).
 
-Unfortunately, the content-only deploys have no accessibility checking. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.
+No accessibility checking is performed on the content-only deploys. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.
 
 ##### Users
 
