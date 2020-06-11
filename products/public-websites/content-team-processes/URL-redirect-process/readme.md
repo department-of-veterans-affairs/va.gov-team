@@ -1,7 +1,7 @@
 # Client-side and service-side redirect implementation process for Public Websites team
-Last update: 01/27/20
+Last update: 06/10/20
 
-_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
+_A kickoff meeting was held to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
 --- 
 ## About this doc
@@ -21,10 +21,10 @@ If you’re making a request for a page redirect, first contact the Platform tea
 
 _**Public Website contacts:**_
 @ncksllvn (Nick Sullivan, Front End Engineer) 
-@MickinSahni (Mickin Sahni, VSA Product Lead) 
+@stephorkandatx (Stephanie Orkand, Product Manager) 
 
 **Step 1.** Mikki/Platform triages initial request, and assigns _@ncksllvn (Nick Sullivan, Front End Engineer)_ and 
-_@MickinSahni (Mickin Sahni, VSA Product Lead)_ on the Public Websites team. Please clearly list in the redirect request the following: 
+_@stephorkandatx (Stephanie Orkand, Product Manager)_ on the Public Websites team. Please clearly list in the redirect request the following: 
 
  Legacy URL  |  Redirect to
  ---  |  ---
@@ -34,8 +34,8 @@ _@MickinSahni (Mickin Sahni, VSA Product Lead)_ on the Public Websites team. Ple
 * Desired target date: mm/dd
 * Requestor POC: [Example: Jane Doe at BAH]
 
-**Step 2.** Nick and Mickin will size the request, put it in the Public Website team’s backlog, and assign accordingly. 
-If it’s an urgent redirect request, and we can’t meet the requested target date for implementation, Mickin or Nick will let the requestor and Mikki know. 
+**Step 2.** Nick and Stephanie will size the request, put it in the Public Website team’s backlog, and assign accordingly. 
+If it’s an urgent redirect request, and we can’t meet the requested target date for implementation, Stephanie or Nick will let the requestor and Mikki know. 
 
 **Step 3.** Assigned FE engineer will create a PR for the redirect and let the requestor know when it’s ready to merge. 
 
@@ -51,7 +51,7 @@ The below process applies to benefit hub legacy/parity content redirects. These 
 
 _**Platform IA contacts:**_ @mnorthuis (Mikki Northuis, Information Architect) @meganhkelley (Megan Kelley, Product Manager)
 
-_**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @MickinSahni (Mickin Sahni, VSA Product Lead)  @lunascoop (Selina Cooper, Content & comms)
+_**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @stephorkandatx (Stephanie Orkand, Product Manager)  @lunascoop (Selina Cooper, Content & comms)
 
 ### Originates from content member on Public Websites team (from new rewriting parity work)
 _The image below illustrates the redirect implementation process flow for the Public Websites team._
@@ -74,9 +74,9 @@ Legacy URL  |  Redirect to
 insert legacy URL | insert new URL
 * **Steps to Complete:** Checklist of action items to complete from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates. 
 
-**Step 2.** Mikki will vet the URLs, including verifying if the URLs require Drupal changes, and then assign _@MickinSahni (Mickin)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. If there are URLs that require Drupal changes before redirect implementation, Mikki will request that the content writer create a separate ticket for those URLs.
+**Step 2.** Mikki will vet the URLs, including verifying if the URLs require Drupal changes, and then assign _@stephorkandatx (Stephanie)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. If there are URLs that require Drupal changes before redirect implementation, Mikki will request that the content writer create a separate ticket for those URLs.
 
-**Step 3.** Mickin will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
+**Step 3.** Stephanie will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
 **Step 4.** Selina will review ticket information (including confirming if the pages have gone live yet) and determine the stakeholder communication timeframe. She will let Mickin and the FE engineer know when redirect should go live. 
 
@@ -93,11 +93,11 @@ Selina will close the redirect ticket.
 
 ### Originates from Mikki (from older redirect tickets)
 
-These redirect tickets originate with Mikki. After validating the URLs, she will assign the ticket to _@MickinSahni (Mickin)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. 
+These redirect tickets originate with Mikki. After validating the URLs, she will assign the ticket to _@stephorkandatx (Stephanie)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. 
 
 All the steps are the same as above, minus step 1.
 ### Note about the implementation target ETA and communication: 
-Provide at least **7** business days’ advance notice. This is to allow stakeholders enough time to communicate out to their business SMEs, web admins, and managers. This is a courtesy notice, not a request for approval. 
+Provide at least **7** business days’ advanced notice. This is to allow stakeholders enough time to communicate out to their business SMEs, web admins, and managers. This is a courtesy notice, not a request for approval. 
 
 **Note:** If they request more time, we will review the situation and be flexible.  
 
