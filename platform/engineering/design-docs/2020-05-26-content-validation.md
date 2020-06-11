@@ -123,7 +123,7 @@ To enable a faster publishing workflow, all tests (except link checking) are int
 
 ##### FE Tools team
 
-Invalid content causes warning logs during staging deploys, and breaks the build during production deploys. These broken builds then need manual intervention, and require coordinating with another team.
+Invalid content causes warning logs during staging deploys, and breaks the build during production deploys. These broken builds then need manual intervention, and require coordinating with the CMS team.
 
 ##### Anybody that is trying to ship code for the VA.gov front end
 
