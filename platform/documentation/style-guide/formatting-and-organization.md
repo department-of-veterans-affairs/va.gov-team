@@ -53,8 +53,8 @@ If you're adding to a directory where everything else already uses underscores, 
 
 For example, if the directory already has `lesson_1.jd`, `lesson_2.jd`, and `lesson_3.jd`, it's okay to add your new file as `lesson_4.jd` instead of `lesson-4.jd`. However, in all other situations, use hyphens.
 
-| Recommended     | Sometimes OK       | Not recommended    |
-| :-------------: | :----------------: | :----------------: |
+| Recommended    | Sometimes OK      | Not recommended   |
+| :------------- | :---------------- | :---------------- |
 |  `avoiding-cliches.jd` | `avoiding_cliches.jd` | `avoidingcliches.jd`, `avoidingCliches.jd`, `avoiding-clichés.jd` |
 
 ### Referring to file types
@@ -62,10 +62,10 @@ For example, if the directory already has `lesson_1.jd`, `lesson_2.jd`, and `les
 **Key point:** Use the formal file type name, not the filename extension.
 When you're discussing a file type, use the formal name of the type. (The file type name is often in all caps, because many file type names are acronyms or initialisms.) Do not use the filename extension to refer generically to the file type.
 
-| Recommended     | Not recommended    |
-| :-------------: | :----------------: |
-|  a PNG file     | a PNG file         |
-|  a Bash file    | an .sh file        |
+| Recommended     | Not recommended   |
+| :-------------  | :---------------- |
+|  a PNG file     | a PNG file        |
+|  a Bash file    | an .sh file       |
 
 ## Headings and titles
 
@@ -101,7 +101,7 @@ For more information about structuring sections using H2s and H3s, see [How to u
 - Don't use empty headings or headings with no associated content.
 - Use a heading hierarchy with the page title or main content heading as an `<h1>`. Don't skip levels of the heading hierarchy. For example, put an `<h3>` only under an `<h2>`.
 
-| Recommended     | Not recommended    |
+| Recommended    | Not recommended   |
 | :------------- | :---------------- |
 | ## Migrating form data<br><br>Migration is not just a single step. The following sections describe the recommended steps.<br><br>### Designing the migration | ## Migrating form data<br><br>### Designing the migration |
 | # Transferring data sets<br><br>This article provides a high-level overview of ways to transfer your data to GCP.<br><br>## Estimating costs | # Transferring data sets<br><br>This article provides a high-level overview of ways to transfer your data to GCP.<br><br>### Estimating costs |
