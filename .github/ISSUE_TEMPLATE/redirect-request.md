@@ -1,5 +1,5 @@
 ---
-name: Redirect Request
+name: Redirect and URL Change Request
 about: Submit a request to implement a redirect for a URL
 title: Redirect Request
 labels: content-ia-team, ia
