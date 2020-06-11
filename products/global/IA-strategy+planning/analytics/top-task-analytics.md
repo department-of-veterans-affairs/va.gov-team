@@ -32,16 +32,16 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 5. View profile or account (myVA)  | 3.15%  | 11.3M | Sign in |
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
 | 7. Search  | 1.54%  | 5.5M |
-| 8. Check Education Benefits (Post GI Bill)  | 1.44%  | 5M |  
+| 8. Check education benefits (Post GI Bill)  | 1.44%  | 5M |  
 | 9. Find VA locations  | 1.38%  | 4.9M |
 | 10. Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
 | 11. Apply for healthcare benefits  | 0.82%  | 2.9M | 
 | 12. How to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
 | 13. How to file a disability claim  | 0.74%  | 2.6M |
-| 14. VA payment history  | 0.67%  | 2.4M | Sign in |
+| 14. View VA payment history  | 0.67%  | 2.4M | Sign in |
 | 15. Coronavirus FAQs  | 0.62%  | 2.2M |
 | 16. Log out  | 0.53%  | 1.9M | Sign in |
-| 17. Prescription refill and tracking  | 0.49%  | 1.7M | Sign in |
+| 17. Refill and track prescriptions  | 0.49%  | 1.7M | Sign in |
 | 18. Disability compensation  | 0.46%  | 1.6M |
 | 19. Health account validation  | 0.45%  | 1.6M | Sign in (Part of #11, apply? Also #50 eligibility.) |
 | 20. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
