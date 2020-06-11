@@ -1,7 +1,5 @@
 # Discovery Project Brief & Planning
 
-This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
-
 ## PROJECT BRIEF
 
 There is information that could be gathered from veterans more efficiently and safely) but need to learn a lot more about what that generic problem looks like in different contexts (e.g. in-person vs. online; within the peculiarities of different VA facilities and workflows. We also need to learn a lot more about the existing tools that address the problem and adjacent problems.
