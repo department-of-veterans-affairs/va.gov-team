@@ -190,7 +190,7 @@ There are no new privacy concerns with a separated build process.
 
 #### Risks
 
-- Neither the current content validation nor the proposed content validation will **prevent** invalid content from making it to production. But this proposal would prevent unrelated teams from being blocked by invalid content.
+- Neither the current content validation nor the proposed content validation will **prevent** invalid content from making it to the live VA.gov site. But this proposal would prevent unrelated teams from being blocked by invalid content.
 
 #### Questions
 
