@@ -58,10 +58,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](#go-to-market-strategy)
 
-## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
-
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch?*
+  - 
 ---
 
 ## Solution Narrative
