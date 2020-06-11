@@ -8,7 +8,7 @@
 - Code refactor
 
 ## Frontend
-- Better Veteran verification process
+- Better Veteran verification process (risk write up)
 - Second round of usability testing
 - Code refactor
 
