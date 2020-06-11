@@ -33,7 +33,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
 | 7. Search  | 1.54%  | 5.5M |
 | 8. Check Education Benefits (Post GI Bill)  | 1.44%  | 5M |  
-| 9. Find locations  | 1.38%  | 4.9M |
+| 9. Find VA locations  | 1.38%  | 4.9M |
 | 10. Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
 | 11. Apply for healthcare benefits  | 0.82%  | 2.9M | 
 | 12. How to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
