@@ -80,9 +80,7 @@ Logged-in homepage
 
 ## Sprint 24 (6/17 – 6/30)
 
-### Order of priorities
-
-**Profile 2.0**
+### Profile 2.0
 
 PM
 - Submit request for QA review
@@ -100,7 +98,7 @@ Dev
 - Build - Final bug fixes and clean up before QA
 - Pre-launch - Work with Matt on UAT plan for launch (how will we show the new profile to UAT participants?)
 
-**Logged-in homepage**
+### Logged-in homepage
 
 PM
 - Any updates to the initial plan for phase 1 that come out of handoff meeting
@@ -108,15 +106,12 @@ PM
 - Present work to DEPO team
 - Have another convo with Chris J about how to loop in stakeholders
 
-
 Design
 - Handoff between Liz and Tressa
 
 ## Sprint 25 (7/1 – 7/14)
 
-### Order of priorities
-
-**Profile 2.0**
+### Profile 2.0
 
 PM
 - Call center - Call center video
@@ -138,7 +133,7 @@ Platform
 - 508 - Conduct 508 review
 - Pre-launch — Analytics review
 
-**Logged-in homepage**
+### Logged-in homepage
 
 PM
 - Figure out if there are any baseline analytics we need to get set up
@@ -149,9 +144,7 @@ Design
 
 ## Sprint 26 (7/15 – 7/28)
 
-### Order of priorities
-
-**Profile 2.0**
+### Profile 2.0
 
 PM
 - Call center - Contact Center Review (VSP cycle)
@@ -168,7 +161,7 @@ Dev
 Platform
 - Call center - Contact Center Review (VSP cycle)
 
-**Logged-in homepage**
+### Logged-in homepage
 
 Design
 - General planning
@@ -176,7 +169,7 @@ Design
 
 ## Sprint 27 (7/29 – 8/11)
 
-**Profile 2.0**
+### Profile 2.0
 
 PM
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
@@ -194,7 +187,7 @@ Platform
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
 - Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
 
-**Logged-in homepage**
+### Logged-in homepage
 
 Design
 - Initial iterations
@@ -204,7 +197,7 @@ Dev
 
 ## Sprint 28 (8/12 – 8/25)
 
-**Profile 2.0**
+### Profile 2.0
 
 - Launch to UAT users
 
@@ -214,7 +207,7 @@ Design
 Dev
 - Any fixes from UAT
 
-**Logged-in homepage**
+### Logged-in homepage
 
 PM
 - Start documenting staging users scenarios
