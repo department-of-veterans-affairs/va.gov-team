@@ -8,3 +8,4 @@ In this folder, you'll find information specific to how manual testing ideally f
 1. [**Manual Functional Testing**](manual-functional-testing.md)
 1. [**Cross-browser Manual Testing**](cross-browser-manual-testing.md)
 1. [**Request Manual QA Services**](request-manual-qa.md)
+1. [**Exploratory Testing Template**](exploratory-charter.md)
