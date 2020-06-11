@@ -29,7 +29,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 2. VA.gov homepage  | 13.52%  | 48.3M | 
 | 3. Sorry — we can’t find that page  | 6.95%  | 24.8M |
 | 4. Sign in  | 5.34%  | 19.1M | Sign in |
-| 5. myVA  | 2.37%  | 8.5M | Sign in |
+| 5. View profile or account (myVA)  | 2.62%  | 9.4M | Sign in |
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
 | 7. Search  | 1.54%  | 5.5M |
 | 8. Check Education Benefits (Post GI Bill)  | 1.44%  | 5M |  
@@ -44,7 +44,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 17. Log out  | 0.53%  | 1.9M | Sign in |
 | 18. Prescription refill and tracking  | 0.49%  | 1.7M | Sign in |
 | 19. Disability compensation  | 0.46%  | 1.6M |
-| 20. Health account validation  | 0.45%  | 1.6M | Sign in |
+| 20. Health account validation  | 0.45%  | 1.6M | Sign in | (Part of #11, apply?)
 | 21. Schedule and view appointments  | 0.38%  | 1.4M | Sign in |
 
 
