@@ -11,6 +11,12 @@ This does not include research for Appeals projects, which is stored in differen
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
 ------
+### June 2020
+#### June 3-5: VA Form 22-10203 - Apply for Rogers STEM Scholarship  
+*Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
+
+- 7 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
 
 ### April 2020
 #### April 20-30: View my representative (POA)/ View payment history** (H4 Level)
