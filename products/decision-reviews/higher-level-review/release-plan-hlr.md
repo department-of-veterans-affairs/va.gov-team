@@ -8,6 +8,8 @@
 - How you'll conduct the testing: With LightHouse.  The primary integration points are with LightHouse and we will be conducting UAT that tests both our code and their code.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: On production it will be hidden behind a different intro page.
 
+Test User Info: 
+
 ### Results:
 - Number of users: XXX
 - Number of bugs identified / fixed: XXX
