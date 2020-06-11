@@ -80,11 +80,15 @@ _To be completed once you have gathered your initial set of data, as outlined ab
  * Applications to institutions and schools with caution flags decreases
    * Applications and payments of GI Bill benefits to institutions with caution flags decreases.
    * Fewer people looking at profile pages with caution flags (Need more information from UXers via GA)
-     * Would probably want to look at this at the same time of year due to cyclical process of applying for admission to programs
+     * Jury's out based on page views. Overall traffic to GIBCT is down about 22% in May 2020 compared to May 2019. Traffic to MOST flagged pages is down. Decreases for sample schools range from to a 12% increase to 100% decrease in traffic. Most sample schools have 60-95% decrease. However, other schools, that previously had caution flags and don't as of today, have similar decreases so it's really difficult to tell at this time.
    *  On the profile page, we are able to track clicks on "view more details" to view more information (we don't have a baseline for the before) (Need more information from UXers via GA)
    * Click the link in the caution flag to external link to learn even more (we don't have a baseline for the before) (Need more information from UXers via GA)
 2. What qualitative feedback have you gathered from users or other stakeholders, if any?
- * Qualitative input from Usability Testing (UX to update)
+ * Qualitative input from Usability Testing
+   * Caution flags alert Veterans to potential issues with schools and frequently act as a deterrent to further investigating flagged schools.
+   * Users immediately notice schools with Caution Flags on Comparison Tool’s search results page.
+   * The more specific caution flag content is on the search results page, the better deterrent it seems to be against users clicking through to the school’s profile page. Caution flags with less specific language pique curiosity and may cause users to click through to investigate further.
+
 3. Which of the assumptions you listed in your product outline were/were not validated?
  * We didn't have a product outline due to when we jumped into the VSP process
 4. How might your product evolve now or in the future based on these results?
