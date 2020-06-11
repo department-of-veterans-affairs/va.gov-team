@@ -158,9 +158,13 @@ https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHM
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
 - *What is your date for when you'll evaluate impact after launch?*
+  - 
 
 ---
 ## Results and Recommendations
