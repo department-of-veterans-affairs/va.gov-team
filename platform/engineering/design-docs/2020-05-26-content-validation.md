@@ -149,9 +149,9 @@ The content validation script and scheduled job config will live in the [new `co
 
 ### Testing Plan
 
-1. Configure a scheduled job to run a script once per workday
-2. Write an initial script that logs when the script is run
-3. Once the scheduled job is running at the correct time, replace the initial script with the actual script that runs the content validation
+1. Once the content validation script is written, we can run the script locally.
+2. Once the script is behaving correctly in local environment, we can call the script in a scheduled job.
+3. Once the script is being called in the scheduled job, we can monitor and optimize it.
 
 ### Logging
 
