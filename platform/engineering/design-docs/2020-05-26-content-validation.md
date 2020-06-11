@@ -180,11 +180,11 @@ The updated content validation approach will continue logging invalid content er
 
 ### Security Concerns
 
-There are no new security concerns with a separated build process.
+There are no new security concerns with a separated content validation process.
 
 ### Privacy Concerns
 
-There are no new privacy concerns with a separated build process.
+There are no new privacy concerns with a separated content validation process.
 
 ### Open Questions and Risks
 
