@@ -4,6 +4,8 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 <hr>
 
+## Notice: this document is outdated
+
 **Please note:** VSP just rolled out the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) for medium-to-large projects. For small-to-medium projects, it is still necessary to contact them in #vfs-platform-support to determine which steps of the cycle are appropriate. 
 
 <hr>
@@ -150,7 +152,7 @@ Teams are encouraged to reach out for casual check-ins. Feel free to message Jen
 
 - Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) - especially conducting manual and automated tests as part of your dev process.
 
-- Developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)
+- **Optional:** At this time, accessibility specialists is over-allocated, so spot checks are on hold. Developers may [request a spot check accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=vsa_request_dev_review.md&title=Request+a+VSA+dev+intent+or+spot+check+review+for+ENTER_PRODUCT_NAME)
 
 
 ### Development intent review
