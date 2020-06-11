@@ -100,7 +100,7 @@ Dev
 
 ### Logged-in homepage
 
-PM
+PM (Samara)
 - Any updates to the initial plan for phase 1 that come out of handoff meeting
 - Finish OKR and KPI planning
 - Present work to DEPO team
