@@ -10,24 +10,61 @@
 
 **IA Review Issue:** 
 
+<hr>
+
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
+**Approach** <Br>
+- The profile page(s) will live behind authentication and URLs should be short and succinct, but still understandable (i.e. no abbreviations or shortened words)
+- Each page of the profile will be represented as a separate page with a separate URL and breadcrumb. This help us to:
+  - deep link into specific content within profile (i.e. direct link to direct deposit)
+  - provide left navigation for users to navigate between sections of profile
+  - represent the user's location within profile in the breadcrumb so they can easily go back to the initial page
+- The contact information will be the default/initial page of profile
+
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6c747a78-4777-4d0a-a642-0f89582d4018)
 
 
-### Navigation/Entry Points <br>
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Profile - Contact Information (default page) | www.va.gov/profile  | Home > Your profile  | 
+Profile - Military Information | www.va.gov/profile/military-information | Home > Your profile > Military information | 
+Profile - Direct Deposit Info | www.va.gov/profile/direct-deposit | Home > Your profile > Direct deposit information | 
+Profile - Account Security | www.va.gov/profile/account-security | Home > Your profile > Account security | *Need to discuss scenario where breadcrumb and left nav are removed in prototype*
+Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profile > Connected apps |
+
+
+<hr>
+
+### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
+Priority | Placement | Link to | Description
+--- | --- | --- | ---
+Must | Header | REMOVE LINK | --- | Remove the option from the drop list under the user's name. This URL needs to be redirected to the new profile page.  Redirect information is below
+Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, he should be sent directly to the direct deposit page within profile. 
 
 
-### Redirects/Canonical <br>
-*Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
-For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
+<hr>
+
+### Redirects <br>
+*Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+Current URL | Redirect to new URL 
+---| ---
+https://www.va.gov/account/ | www.va.gov/profile
 
 
-### Additional Notes/Recommendations
+Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+*For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
+
+<hr>
+
+### Additional Details/Recommendations
 
 <hr>
 <hr>
