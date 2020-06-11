@@ -214,7 +214,9 @@ If we could proactively validate CMS content before it's published, we could eli
 
 #### Fastest speed, but lowest quality
 
-We could stop breaking the `vets-website` build due to invalid content. That would reduce the burden on the content writers and/or reduce the number of deploys requiring manual intervention. However, that would likely mean end users experience broken links and/or accessibility errors more often.
+Since the partial deploy already provides an avenue for invalid content to land on the live VA.gov site, we could remove all the content validation from the full `vets-website` build. That would reduce the burden on the content writers and/or reduce the number of deploys requiring manual intervention. However, that would likely mean end users experience broken links and/or accessibility errors more often.
+
+That would effectively be downgrading invalid content from an error to a warning.
 
 ### Future Work
 
