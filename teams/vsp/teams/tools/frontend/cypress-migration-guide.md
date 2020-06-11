@@ -21,7 +21,7 @@ The purpose of this guide is to help with converting Nightwatch tests to Cypress
 
 ## Initial Setup <a name="initial-setup"></a>
 
-Cypress tests, like Nightwatch tests, should be written in the `tests` directory of the application and should have the file extension `.cypress.spec.js` (e.g. `my-test-name.cypress.spec.js`).
+Cypress tests, like Nightwatch tests, should be written in the `tests` directory of the application. Cypress tests should also have the file extension `.cypress.spec.js` (e.g. `my-test-name.cypress.spec.js`).
 
 The overall folder structure for Cypress in the `vets-website` repo is as follows:
 
