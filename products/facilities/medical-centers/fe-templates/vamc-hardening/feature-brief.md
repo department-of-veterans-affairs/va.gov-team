@@ -57,15 +57,15 @@ Out of scope:
 This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content, minimal need for localized edits and potential for resuability.  
   - Facility health services
   - "Top-Task" pages (from the Veteran's point-of-view)
-    o  Make an appointment
-    o  Register for care
-    o  Pharmacy and prescription refills
-    o  Request your medical records
-    o  Billing and insurance
+    o  Make an appointment: 80% national content
+    o  Register for care: 95% national content
+    o  Pharmacy and prescription refills: 80% national content
+    o  Request your medical records: ~65% national content
+    o  Billing and insurance: 85% national content
     o  Contact us
   - Other standardized largely nation content pages, such as 
     o  Policies
-    o  Dav Vans
+    o  DAV Vans: Mostly regional content
   - Pages for required VA programmatic services, such as 
     o  Caregiver support
     o  Homeless Veteran care
