@@ -42,6 +42,7 @@ Given cross-VSP team view, identify opportunities for standardization.
 
 - Product Manager: James Chasia, [james.chasia@adhocteam.us](mailto:james.chasia@adhocteam.us), Slack: @james
 - UX Designer: Naomi Marcussen, [naomi.marcussen@oddball.io](mailto:naomi.marcussen@oddball.io), Slack: @Naomi Marcussen
+- UX Designer: Andrea Chappelear,[andrea.chappelear@adhocteam.us] Slack: @Andrea Chappelear
 
 
 
