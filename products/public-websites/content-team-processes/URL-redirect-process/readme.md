@@ -24,7 +24,7 @@ _**Public Website contacts:**_
 @stephorkandatx (Stephanie Orkand, Product Manager) 
 
 **Step 1.** Mikki/Platform triages and vets initial request, and assigns _@ncksllvn (Nick Sullivan, Front End Engineer)_ and 
-_@stephorkandatx (Stephanie Orkand, Product Manager)_ on the Public Websites team. Please use the Redirect and URL Change Request template here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose 
+_@stephorkandatx (Stephanie Orkand, Product Manager)_ on the Public Websites team. Please use the Redirect and URL Change Request template here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose. Be sure to include:
 
  Legacy URL  |  Redirect to
  ---  |  ---
