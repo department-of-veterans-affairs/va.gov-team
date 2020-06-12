@@ -19,6 +19,11 @@
  10. Preferences - are in profile. Consent business line- text appts, preferences how you will contact you.  
  	- examples from Bennefits 
 
+<img src="https://lh6.googleusercontent.com/upHH_bitPIdR9pdf8hvhJz3dUb_Z6bv0js4R3zbcUUjkUhE049OiddlPTfzm2WYEHITtNo5VNDzik_q_6HIvu2-RlvNivAX6noYlM-6TnHxqmC1unHbP3wSjotOvLvWg2Eb9-ZzJ" width="300">
+
+<img src="https://lh5.googleusercontent.com/oUkMEfx-RXu7WeL9wQjp4xx0vC_7Qm9vJ71MqSbdeJLVIuyWoiAGl8sVQvyv_Xqb4_mh_iC-RFW4ynUt4tQNfWlI_o8AoBjT733pR0JSa2VGYTh4x-zpMQ_jxKH6oly6Etdeot7O" width="300">
+
+
 ## Clarice Experience with Online Forms and Notifications 
 **Loma-Linda VA- hospital - shadow hospital - what are the pain points**  
 - Benefits onboarding understanding of registration and enrollment 
