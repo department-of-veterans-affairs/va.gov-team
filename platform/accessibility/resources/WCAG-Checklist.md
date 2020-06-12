@@ -268,17 +268,141 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
   </tbody>
 </table>
 
-| Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
-| **Word** | Word | Numbers |
+
+## Part 3: Interactivity & Dynamic Content
+
+<table>
+  <!-- <caption></caption> -->
+  <thead>
+    <tr>
+      <th valign="top" align="left">Topic</th>
+      <th valign="top" align="left">Accessibility Requirements </th>
+      <th valign="top" align="left">WCAG</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2" valign="top" align="left">Heading</th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Part 4: Understandability
+
+<table>
+  <!-- <caption></caption> -->
+  <thead>
+    <tr>
+      <th valign="top" align="left">Topic</th>
+      <th valign="top" align="left">Accessibility Requirements </th>
+      <th valign="top" align="left">WCAG</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2" valign="top" align="left">Heading</th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <th valign="top" align="left"></th>
+      <td valign="top" align="left"></td>
+      <td valign="top" align="left"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<hr/>
+
+Notes:
+* Items marked with asterisk are required at the WCAG AAA level (not at the A or AA level, but are still best practices at all levels).
+1 Note that the purpose of the image depends on the context, and may not be a literal description of what is in the image. The text
+is usually provided via the alt attribute, but may also be provided via aria-label, aria-labelledby or, in less straightforward scenarios,
+via hidden text clipped by CSS.
+2 The audio descriptions can be on a separate version of the video, with a link provided to that version.
+3 Refers to information published by the W3C task force on low vision https://www.w3.org/TR/2016/WD-low-vision-needs20160317/
+4 Example in the HTML:
+<span class="facebookFontIcon" aria-hidden=”true”></span><span class="visually-hidden">Our Facebook page</span>.
+The CSS clip method:
+.visually-hidden {position:absolute; clip:rect(0 0 0 0); border:0; height:1px; margin:-1px; overflow:hidden; padding:0; width:1px;}
+5 Refers to the WAI-ARIA documentation (https://www.w3.org/TR/wai-aria-practices)
+6 Refers to the information published by the W3C task force on cognitive disabilities https://www.w3.org/TR/coga-user-research/ 
