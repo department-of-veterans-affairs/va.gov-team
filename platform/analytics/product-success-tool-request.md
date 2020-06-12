@@ -8,13 +8,13 @@
 
 Once you have your product's KPIs, fill out the [Github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-product-success-tool.md&title=Analytics+Product+Success+Tool+Request+for+%5BTeam%5D) with your KPIs linked to the template.
 
-In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **linked to OKRs or product/user goals.** 
+In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **clearly mapped back to veteran goals/outcomes.** 
 
-*If you need support with determining your KPIs or linking them to OKRs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165) or feel free to reach out to VSP Analytics & Insights on the #vfs-platform-support channel.
+*If you need support with determining your KPIs, please take a look at the [data journey deck](https://docs.google.com/presentation/d/1OGdCLFYGA4cb5nDUTJOme_7UBdAM49bX5zpYZ-zg6rw/edit#slide=id.g6d866f9dc2_0_165), the [KPI Setting workshop](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1591285060838/5b950dfe08c860feb2b26d049665f8a043ee278d) or feel free to reach out to VSP Analytics & Insights on the #vfs-platform-support channel for "in-person" support.
 
 [VFS example of KPIs and OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md)
 
-(Future State: Reporting Process using the Product Success Tool in Team of Teams)
+(Future State: Adding baselines/targets to your KPIs)
 
 ### Timing
 
