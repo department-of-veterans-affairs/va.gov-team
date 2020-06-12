@@ -18,7 +18,7 @@ How might we improve the in-person and online pre-appointment experiences for ve
 
 ### Discovery Sprint Roles
 
-![](https://lh3.googleusercontent.com/-rEkDs5WtnPqihyX9JvxVJKL-LUJcvRtVIb3c63NZJzCiUWm1cR-dYvol4yNzQo8acGSz9e4ZQVTWKvVv323zjtZaRv96dwfAbe3iLw22C6BDaP1xPsgoPkWAewo7-8T7jMm--uA)
+<img src="https://lh3.googleusercontent.com/-rEkDs5WtnPqihyX9JvxVJKL-LUJcvRtVIb3c63NZJzCiUWm1cR-dYvol4yNzQo8acGSz9e4ZQVTWKvVv323zjtZaRv96dwfAbe3iLw22C6BDaP1xPsgoPkWAewo7-8T7jMm--uA" width="500">
 
 -   Lead VA business owner: Lacy Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov)
     
