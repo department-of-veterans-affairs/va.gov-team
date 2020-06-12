@@ -78,7 +78,7 @@ insert legacy URL | insert new URL
 
 **Step 3.** Stephanie will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
-**Step 4.** Selina will review ticket information (including confirming if the pages have gone live yet) and determine the stakeholder communication timeframe. She will let Mickin and the FE engineer know when redirect should go live. 
+**Step 4.** Selina will review ticket information (including confirming if the pages have gone live yet) and determine the stakeholder communication timeframe. She will let Stephanie and the FE engineer know when redirect should go live. 
 
 **Step 5.** Assigned FE engineer will create a PR for the redirect and _@lunascoop (Selina)_ FYSA. 
 
