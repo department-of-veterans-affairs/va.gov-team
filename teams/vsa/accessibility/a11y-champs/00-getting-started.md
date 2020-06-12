@@ -18,6 +18,9 @@ Time: approximately 1 hour
 1. Review [Veterans disability statistics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/veterans-disability-statistics.md).<br/>
     **How this helps:** Understand why accessibility is especially important in our VA.gov work.
 
+1. Review [Tips for Communicating with People with TBI and PTSD](https://www.brainline.org/article/tips-communicating-people-tbi-and-ptsd)<br/>
+    **How this helps:** Helps understand how content structure, tone, and the words used may have an impact.
+
 1. Join DEPO’s #vetsgov-accessibility Slack channel. <br/>
     **How this helps:** A place to ask questions about accessibility, and learn more.
 
@@ -42,6 +45,3 @@ Time: approximately 1 hour
 
 1. Watch a [video on Operation PTSD: Veterans Healing Themselves Through Meditation](https://youtu.be/yA1O5gmP4eg). (11 minutes)<br/>
     **How this helps:** Hear a Veteran’s perspective on his PTSD, the military, and how meditation helped him. 
-    
-1. Review [Tips for Communicating with People with TBI and PTSD](https://www.brainline.org/article/tips-communicating-people-tbi-and-ptsd)<br/>
-    **How this helps:** Helps understand how content structure, tone, and the words used may have an impact.
