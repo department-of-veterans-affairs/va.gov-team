@@ -82,7 +82,8 @@ On this third exercise, I'd like you to read over the blurb of text and choose w
 
 [MODERATOR HAS PARTICIPANT COMPARE AFTER ANSWERING]
 
-What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services)? Do you feel like they are distinct and make sense? Are any parts confusing? What do you like about them?
+- What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services) - do you feel like they are distinct and make sense? If so, what is distinct about the 3? 
+- Are any parts confusing? If so, what is confusing? 
 
 ## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
 
@@ -90,9 +91,9 @@ What are your thoughts overall about these three statuses for labels on faciliti
 
 This is the 4th and final exercise.
 
-We just went over three possibilities for statuses that you could see on a facility, "Facility closed," "Facility notice," and "Limited services."  
+We just went over three possibilities for statuses that you could see on a facility.
 
-you mentioned those labels were confusing in **x ways** previously so we think you might have a different idea about how you might name them.
+You mentioned those labels were confusing in **x ways** previously (or we suspect that veterans might find some of this categorization confusing), and we think Veterans might be able to come up with better status categories.
 
 The white boxes contain various events that could affect facility hours and services and currently could result in seeing statuses like the ones we saw earlier. I’d like you to consider each event and sort them into categories. I’ll move them for you.
 
