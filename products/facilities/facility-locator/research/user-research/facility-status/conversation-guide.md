@@ -110,6 +110,7 @@ Afterwards you can create "statuses" that make sense to you. You could use the s
 - Can you take a look at these specific cards and double check that the categories you've made are correct for them? If not feel free to make new categories or move things. 
    - "The facility is..."
 - How do you think these categories you made compare to the three statuses we looked at before? (Facility closed, Facility notice, limited services)?
+- You saw that in some of these cards, facilities were closed physcially but still oferring virtual services. What status would best fit that in your estimation?
 
 [MODERATOR PULLS UP LOCATOR BRIEFLY TO REFRESH PARTICIPANT’S MEMORY]
 
