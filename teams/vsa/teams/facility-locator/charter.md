@@ -36,12 +36,18 @@ ________________________________________
 **Team Members**
 - VA Product Owner: David Conlon
 - VA Data API: David Mazik
-- Product Manager: Michelle Middaugh
+- Product Manager: 
+   - Michelle Middaugh (September 2019 - present) 
 - VA UI Design Lead: Ryan Thurlwell
-- UX/Design: Aricka Lewis
-- Back End Engineer: Lance Sanchez
-- Front End Engineer: Gilbran Rodriguez
-- Drupal Engineer: Ethan Teague
+- UX/Design: 
+  - Leyda Hughes (June 2020 - present)
+  - Aricka Lewis (September 2019 - June 2020) 
+- Back End Engineer
+   - Lance Sanchez (October 2019 - shared resource beginning June 2020)
+- Front End Engineer
+  - Gilbran Rodriguez (October 2019 - present)
+- Drupal Engineer
+  - Ethan Teague 
 
 **Workflow + Cadence**
 
