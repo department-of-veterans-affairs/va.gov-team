@@ -60,11 +60,6 @@ Let’s imagine the location is Lamar, CO.
 - What can you tell me about the hours and services at the location?
 - What would be your next step?
 
-[MODERATOR CLICKS INTO LOCATION]
-
-- What about now? What can you tell me about the hours and services at this location?
-- What would make you trust that the information on the listing/result is accurate?
-- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 
 ## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
 
@@ -110,9 +105,19 @@ Afterwards you can create "statuses" that make sense to you. You could use the s
 
 [QUESTION]
 
+- Ok, looking at theses categories, do you feel like they work?
+- Can you take a look at these specific cards and double check that the categories you've made are correct for them? If not feel free to make new categories or move things. 
+   - "The facility is..."
 - Can you talk me through how these categories might work as more useful statuses on the VA locations pages
+- How do you think these categories you made compare to the three statuses we looked at before? (Facility closed, Facility notice, limited services)?
 
 [MODERATOR PULLS UP LOCATOR BRIEFLY TO REFRESH PARTICIPANT’S MEMORY]
+
+[MODERATOR CLICKS INTO LOCATION ON LAMAR, CO]
+
+- What about now? What can you tell me about the hours and services at this location?
+- What would make you trust that the information on the listing/result is accurate?
+- Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 
 ## Post-Task Interview - 5 minutes
 
