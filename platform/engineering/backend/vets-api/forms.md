@@ -9,12 +9,6 @@ Repository](https://github.com/department-of-veterans-affairs/vets-json-schema).
 Schemas should be defined for integrations that will process a form presented
 on Vets-Website.
 
-Further Reading
-
-* [Form Tutorial - Basic](../../form-tutorial-basic.md)
-* [Form Tutorial - Intermediate](../../form-tutorial-intermediate.md)
-* [Form Tutorial - Advanced](../../form-tutorial-advanced.md)
-
 ## Model
 
 ```ruby
