@@ -127,10 +127,16 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 ## OKRs & KPIs
 
 ## KPIs
-- 686 views
-- Successful application submissions
-- Number of auto-approved applications by Rules Based Processing Service (RBPS)
-- Time to complete 686
+- Page views on Manage Dependents [unauthenticated] content (input KPI)
+
+- Time to complete 686 (input KPI)
+- Successful application submissions (input KPI)
+
+- Number of auto-approved applications by Rules Based Processing Service (RBPS) (input KPI)
+- Time to manually process submissions (input KPI)
+- % of Dependency Claims that go thru RBPS / manual processing (input KPI)
+
+- Number of Dependency Claims processed within 90 days of submission regardless of approval method (North Star Metric)
 
 ### Baselines
 - tbd
@@ -153,6 +159,11 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 **Objective:** Convert more through RBPS  
 **Objective:** Enhance communication between form and Veteran  
 **Objective:** Change structure to allow for minimal Veteran overhead/ impact  
+
+Communication
+- there's a discoverability aspect to this; how are we effectively communicating what's needed and when
+- shared understanding
+  - "why are they asking for this?" they ~ the Veteran
 
 ---
 ## Results and Recommendations
