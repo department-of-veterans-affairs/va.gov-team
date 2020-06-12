@@ -963,7 +963,7 @@ Back to [Table of Contents](#table-of-contents)
 
 ### Medical Device Ordering Tool
 
-**Audit status:** _Staging review completed by VSA, June 8, 2020._<br/>
+**Audit status:** _[Staging review completed by VSA, June 8, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9859)._<br/>
 
 **Open issues**
 
