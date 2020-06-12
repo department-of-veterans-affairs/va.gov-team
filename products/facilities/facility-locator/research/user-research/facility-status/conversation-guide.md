@@ -124,7 +124,7 @@ Afterwards you can create "statuses" that make sense to you. You could use the s
 
 ## Post-Task Interview - 5 minutes
 
-- Do you think these statuses we've created would work for visiting a cemetary? What might be different about that situation?
+- Let's say you are vising a ceremony, do you think these statuses we've created would work for alerting you about what's happening at a cemetary? What might be different about that situation?
 - Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
