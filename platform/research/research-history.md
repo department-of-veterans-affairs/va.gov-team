@@ -43,6 +43,11 @@ This does not include research for Appeals projects, which is stored in differen
 - Eight participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design)
 
+#### April 15-20: Medical Device Tool Usability Test
+*BaM2, Rebecca Walsh & Riley Orr*
+- 10 participants 
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/usability-march20)
+
 #### April 2-20: COVID-19 Information & Chatbot
 *ThoughtWorks, Todd Stanich*
 - 13 participants (two rounds)
