@@ -967,40 +967,33 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-* [#9862 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: `<dt>` and `<dd>` elements MUST be contained by a `<dl>` (Step pages)]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
+* [#9862 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: `<dt>` and `<dd>` elements MUST be contained by a `<dl>` (Step pages)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9862)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
 
 
-* [#9865 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Form inputs MUST be paired with labels]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
+* [#9865 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Form inputs MUST be paired with labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9865)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
 
-* [#9867 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: `<dl>` elements MUST only directly contain properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements (Review screen)]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
+* [#9867 508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: `<dl>` elements MUST only directly contain properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements (Review screen)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9867)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
 
-* [#9949 508-defect-1 ❗ Launch-blocker [KEYBOARD]: All functionality MUST be accessible via keyboard]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
-
-
-* [#9115 sitewide, forms — 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
-* [#9936 508-defect-2 [SCREENREADER]: Subway list steps SHOULD announce the step number]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
-* [#9940 508-defect-2 [SCREENREADER]: On 1 of 3 Veteran information, the button to send to Permanent address SHOULD be a radio input]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
-* [#9941 508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Upon choice to Edit permanent address or Add a temporary address, focus MUST be managed and context change communicated]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
-* [#9944 508-defect-2 [FOCUS MANAGEMENT, SCREEN READER]: After editing/adding an address, focus MUST be returned to where user previously was]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
-* [#9860 sitewide, forms — 508-defect-2 [AXE-CORE, SEMANTIC MARKUP]: Email inputs MUST be paired with labels]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
+* [#9949 508-defect-1 ❗ Launch-blocker [KEYBOARD]: All functionality MUST be accessible via keyboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9949)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-1  - **❗ Launchblocker**_
 
 
-* [#9113 sitewide, forms — 508-defect-3 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+* [#9115 sitewide, forms — 508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9115)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
-* [#9114 sitewide, forms — 508-defect-3 [SCREENREADER]: Consider updating phone number documentation in design system, to include spacing in the aria-label]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+* [#9936 508-defect-2 [SCREENREADER]: Subway list steps SHOULD announce the step number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9936)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
+* [#9940 508-defect-2 [SCREENREADER]: On 1 of 3 Veteran information, the button to send to Permanent address SHOULD be a radio input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9940)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
-* [#9116 sitewide, forms — 508-defect-3 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading]()<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
+* [#9941 508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Upon choice to Edit permanent address or Add a temporary address, focus MUST be managed and context change communicated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9941)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
+* [#9944 508-defect-2 [FOCUS MANAGEMENT, SCREEN READER]: After editing/adding an address, focus MUST be returned to where user previously was](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9944)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
+* [#9860 sitewide, forms — 508-defect-2 [AXE-CORE, SEMANTIC MARKUP]: Email inputs MUST be paired with labels](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9860)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2  - **Serious**_
 
+* [#9113 sitewide, forms — 508-defect-3 [SCREENREADER]: Decorative content MUST be implemented in a way it can be ignored by assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9113)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
+* [#9114 sitewide, forms — 508-defect-3 [SCREENREADER]: Consider updating phone number documentation in design system, to include spacing in the aria-label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9114)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
+* [#9116 sitewide, forms — 508-defect-3 [FOCUS MANAGEMENT]: Focus outline SHOULD be removed from non-linked heading](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9116)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 
 Back to [Table of Contents](#table-of-contents)
