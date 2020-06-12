@@ -19,7 +19,7 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
 
 ### May 2020
-#### May 11-15: Logged-in Homepage Redesign, Co-design sessions**
+#### May 11-15: Logged-in Homepage Redesign, Co-design sessions
 *Authenticated Experience, Liz Lantz*
 
 - 10 participants
