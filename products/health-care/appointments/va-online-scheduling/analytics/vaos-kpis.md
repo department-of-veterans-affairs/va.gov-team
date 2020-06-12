@@ -17,7 +17,7 @@
 ## OKRs & KPIs
 
 ### OBJECTIVE 1: Increase number of Veterans who are able to successfully request or schedule an appointment. 
-- **KR** - Increase completion rate to 50% or above (previous baseline was 35% for intial rollout)
+- **KR** - Increase completion rate to 50% or above (previous baseline was 35% for initial rollout)
   - **KPI** - Number of Veterans who log in / access VAOS
   - **KPI** - Number of appointment attempted/started
   - **KPI** - Number of appointments sumbmitted
