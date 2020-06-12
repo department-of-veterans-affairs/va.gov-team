@@ -1,5 +1,16 @@
 # Release Notes
 
+## ESLint deployed rules
+
+June 12, 2020
+
+- The following [SonarJS rules](sonarjs.md) will be enforced from now on:
+  - cognitive-complexity
+  - no-collapsible-if
+  - prefer-immediate-return
+  - va/use-resolved-path
+  - react/prefer-stateless-function
+
 ## ESLint release rules
 
 Sprint 26 & 27 - May 14, 2020
