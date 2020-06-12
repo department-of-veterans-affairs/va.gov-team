@@ -13,3 +13,7 @@
 
 ## Alligned Product Owner Interviews & Stakholders
 - [VA.gov Product Owner Meetings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD) 
+
+## Current State Workflows 
+- [eScreening](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/README.md)
+- [Virtual Care Manager](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/README.md)
