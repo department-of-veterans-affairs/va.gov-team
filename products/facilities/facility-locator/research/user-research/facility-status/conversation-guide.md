@@ -82,7 +82,7 @@ On this third exercise, I'd like you to read over the blurb of text and choose w
 
 [MODERATOR HAS PARTICIPANT COMPARE AFTER ANSWERING]
 
-- What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services) - do you feel like they are distinct and make sense? If so, what is distinct about the 3? 
+- What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services) - do you feel like they are distinct and make sense? If so, what is distinct about the 3, what make them different from each other? If not, why are they not distinct?
 - Are any parts confusing? If so, what is confusing? 
 
 ## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
