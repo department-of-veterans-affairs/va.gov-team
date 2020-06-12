@@ -33,8 +33,6 @@ Before we start, a few things I want to mention:
 
 ## First Task: [REVIEW LOCATION FINDER] - 15 minutes
 
-
-
 I'd like us to look at the website together, so that I can point out the area that we'll be talking about. I'm going to share a link and ask you to share your screen so that I can follow along. 
 
 [Facilitator shares link and asks participant to share screen]
@@ -50,47 +48,84 @@ https://www.va.gov/find-locations/
 
 **Moderator:** How are you currently getting information on location hours, closures, etc.?
 
-- Now, I'm going to give you zip code to use to look up a facility. [01904] 
-- Tell me about the hours and services at the location in this particular zipcode [01904]
+[MODERATOR SHARES SCREEN & PULLS UP LOCATION FINDER]
+https://www.va.gov/find-locations/ 
 
-    ### Things to watch for:
+**Moderator:** I'm going to walk us through a scenario. Imagine you are planning a trip and you’d like to know what the closest VA facility would be from where you’ll be staying.
 
-    - [Does the participant think to click into the Clinic for more information?]
+**Moderator:** If you were in this situation, what information would you need when preparing to visit to a facility?
 
-**Moderator:** hat information do you need to prepare for a visit to a facility?
+[MODERATOR ENTERS A LOCATION]
 
-**Moderator:** Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
-
-**Moderator:** What would make you trust that the information on the listing/result is accurate?
+**Moderator:** What can you tell me about the hours and services at the location?
+**Moderator:** What would be your next step?
 
 ## Second Task: [DEFINE CURRENT STATUSES]  - 5 minutes
 
-**Moderator:** We're going to move onto the next exercise. So, I'm going to share a link for you to click on.  
+We're going to move onto the second exercise.
 
+[PULLS UP OPTIMAL SORT]
 
+**Moderator:** Today, when a location is not operating with normal hours and services, we display 1 of 3 possible statuses. On the following screens, we’re going to look at these statuses and I’d like you to tell me how you interpret each of them.
+
+    - Facility Closed
+    - Facility notice 
+    - Limited services
 
 ## Third Task: [MULTIPLE CHOICE - CHOOSE A STATUS]  - 5 minutes
  
-[Multiple choice activity]
+[MULTIPLE CHOICE ACTIVITY]
 
-**Moderator:** Now, i'd like you to read over this blurb and choose which status you think it should have.
+**Moderator:**  On this third exercise, I'd like you to read over the blurb of text and choose which status you think it should have.
+
+[MODERATOR HAS PARTICIPANT COMPARE AFTER ANSWERING]
+
+**Moderator:** What are your thoughts overall about these three statuses for labels on facilities (Facility closed, Facility notice, Limited services)? Do you feel like they are distinct and make sense? Are any parts confusing? What do you like about them?
 
 ## Fourth Task: [CARD SORT 2 - OPEN SORT OF SCENARIOS] - 10 minutes
 
-[Card Sort]
+[CARD SORT PREP]
 
-**Moderator:** Now we're going to look at a number of different scenarios that can impact a VA facility's hours and services. I'd like you to review them and sort them in categories that makes the most sense to you. You can create and name the categories in whatever way makes the most sense to you.
+**Moderator:**  This is the 4th and final exercise.
 
-Given what's important for you to know when visiting VA locations, how would you sort and categorize these scenarios?
+We just went over three possibilities for statuses that you could see on a facility, "Facility closed," "Facility notice," and "Limited services."  
 
+you mentioned those labels were confusing in **x ways** previously so we think you might have a different idea about how you might name them.
 
-### Things to watch for:
+The white boxes contain various events that could affect facility hours and services and currently could result in seeing statuses like the ones we saw earlier. I’d like you to consider each event and sort them into categories. I’ll move them for you.
 
-- [What language is unclear or confusing?]
+Afterwards you can create "statuses" that make sense to you. You could use the statuses we’ve already seen or create new statuses.
+
+[CARD SORT]
+
+**Feel free to think out loud as you work through the exercise.**
+
+[AFTER CARD SORT]
+
+[QUESTION]
+
+**Moderator:**  Ok, looking at theses categories, do you feel like they work for you?
+
+**Moderator:**  Can you talk me through how these categories might work as more useful statuses on the VA locations pages? You can rename them if you like. 
+
+**Moderator:**  Can you take a look at these specific cards and double check that the categories you've made are correct for them? If not feel free to make new categories or move things. 
+   - "The facility is..."
+   
+**Moderator:**  How do you think these categories you made compare to the three statuses we looked at before? (Facility closed, Facility notice, limited services)?
+
+**Moderator:**  You saw that in some of these cards, facilities were closed physcially but still oferring virtual services. What status would best fit that in your estimation?
+
+[MODERATOR PULLS UP LOCATOR BRIEFLY TO REFRESH PARTICIPANT’S MEMORY]
+
+(optional) [MODERATOR CLICKS INTO LOCATION ON LAMAR, CO]
+
+**Moderator:**  What about now? What can you tell me about the hours and services at this location?
+**Moderator:**  What would make you trust that the information on the listing/result is accurate?
+**Moderator:**  Can you think of a time when the information on a facility was unhelpful or inaccurate and affected your visit?
 
 ## Post-Task Interview - 5 minutes
 
-- Any questions for me? 
+**Moderator:**  Any questions for me? 
 
 ## Thank-You and Closing - 2 minutes
 
