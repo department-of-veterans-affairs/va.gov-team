@@ -23,8 +23,8 @@ _**Public Website contacts:**_
 @ncksllvn (Nick Sullivan, Front End Engineer) 
 @stephorkandatx (Stephanie Orkand, Product Manager) 
 
-**Step 1.** Mikki/Platform triages initial request, and assigns _@ncksllvn (Nick Sullivan, Front End Engineer)_ and 
-_@stephorkandatx (Stephanie Orkand, Product Manager)_ on the Public Websites team. Please clearly list in the redirect request the following: 
+**Step 1.** Mikki/Platform triages and vets initial request, and assigns _@ncksllvn (Nick Sullivan, Front End Engineer)_ and 
+_@stephorkandatx (Stephanie Orkand, Product Manager)_ on the Public Websites team. Please use the Redirect and URL Change Request template here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose 
 
  Legacy URL  |  Redirect to
  ---  |  ---
@@ -74,7 +74,7 @@ Legacy URL  |  Redirect to
 insert legacy URL | insert new URL
 * **Steps to Complete:** Checklist of action items to complete from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates. 
 
-**Step 2.** Mikki will vet the URLs, including verifying if the URLs require Drupal changes, and then assign _@stephorkandatx (Stephanie)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. If there are URLs that require Drupal changes before redirect implementation, Mikki will request that the content writer create a separate ticket for those URLs.
+**Step 2.** Mikki will vet the URLs, including verifying if the URLs require Drupal changes, and then assign _@stephorkandatx (Stephanie)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. If there are URLs that require Drupal changes before redirect implementation, Mikki will request that the content writer create a separate ticket for those URLs. Selina will reach out to @bethpotts (Beth Potts, DEPO Content Lead) for appropriate stakeholder contacts based on URLs listed. 
 
 **Step 3.** Stephanie will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
