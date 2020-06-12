@@ -1,5 +1,7 @@
 - Have you visited multiple clinics where your information was not saved with each one?
 - Recruit for multiple complications/injuries/needs
-- What avenue would you want to receive the forms (text,on profile?)
+- What avenue would you want to receive medical forms (text,on profile?)?
 - What do you normally do to prepare for an appointment/visit?
-- When in that process would you want to fill out forms?
+- Where in that process would you want to fill out forms?
+- Can you tell me about a time you recently checked in for an appointment? What was your experience like?
+- Do you remember filling out forms during that time? Can you describe that that was like?
