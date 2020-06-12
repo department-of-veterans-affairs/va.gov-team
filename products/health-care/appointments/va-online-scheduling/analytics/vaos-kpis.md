@@ -24,7 +24,7 @@
   - **KPI** - Scheduling Completion rate (Total submitted appointments / new appointment starts)
   
 ### OBJECTIVE 2: Increase veteran satisfaction rates of VA Online Scheduling experience.
-- **KR** - Maintain a satisfcation rate of above 4.0 rating in Foresee and above 8 rating in VA Mobile Feedback 
+- **KR** - Maintain a satisfaction rate of above 4.0 rating in Foresee and above 8 rating in VA Mobile Feedback 
   - **KPI** - Foresee app rating data
   - **KPI** -[VA Mobile rating and feedback](https://veteran.apps.va.gov/feedback-web/v1/?appId=85870ADC-CC55-405E-9AC3-976A92BBBBEE)
   - **KPI** - Qualitative feedback collection from VA Mobile feedback source
