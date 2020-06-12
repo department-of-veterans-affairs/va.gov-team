@@ -56,7 +56,7 @@ _**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @st
 ### Originates from content member on Public Websites team (from new rewriting parity work)
 _The image below illustrates the redirect implementation process flow for the Public Websites team._
 
-![Redirects Process - Content team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/content-team-processes/URL-redirect-process/Redirects%20Process%20-%20Content%20team.jpg)
+![Redirects Process - Content team] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/content-team-processes/URL-redirect-process/Redirects%20Process%20-%20Content%20team.jpg)
 
 ---
 
