@@ -19,7 +19,7 @@
   - B&M 2 (Matt Self and Leah Keeler)
 
 
-[Vet Profile - Samara Strauus]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md)
+[Vet Profile - Samara Strauus(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md)
   - Wed Jun 17, 2020 1:30pm – 2:30pm (CDT)
   
   
