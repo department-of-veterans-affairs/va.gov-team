@@ -34,7 +34,8 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 ________________________________________
 
 **Team Members**
-- VA Product Owner: David Conlon
+- VA Product Owner
+  - David Conlon (September 2019 - present) 
 - VA Data API: David Mazik
 - Product Manager: 
    - Michelle Middaugh (September 2019 - present) 
@@ -47,30 +48,29 @@ ________________________________________
 - Front End Engineer
   - Gilbran Rodriguez (October 2019 - present)
 - Drupal Engineer
-  - Ethan Teague 
+  - Ethan Teague (April 2020 - present)
 
 **Workflow + Cadence**
 
 Stand-up: people / product check-ins
-- Daily @ 12 PM (EST)
-- 15 min 
+- 15 min, Daily M, W, Th
+
+Stand-up/ "Team show and tell" time
+- 30 min, Fridays, includes Dave Conlon
+
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 Grooming: assess and update workload for remainder of sprint
-- Every two weeks on Thursday @ 1 PM (EST), beginning 10/3/2019
-- 1-hour
+- 1-hour, Every two weeks 
 
 Sprint Planning: outline team and member focus, goals for sprint
-- Every two weeks on Tuesday @ 1 PM (EST), beginning 10/8/2019
-- 1 hour 
+- 1- hour, Every two weeks 
 
 Sprint Review/Demo
 - Every two weeks on Tuesday @ 3 PM (EST), beginning 10/8/2019
 
 Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
-- TBD, 30 min
-
-
+- 30 min, every two weeks
 
 Issue Etiquette
 - For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
