@@ -18,6 +18,16 @@ This does not include research for Appeals projects, which is stored in differen
 - 7 participants  
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
 
+### May 2020
+#### May 11-15: Logged-in Homepage Redesign, Co-design sessions**
+*Authenticated Experience, Liz Lantz*
+
+- 10 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/user-research) 
+- This study was part of a larger discovery effort including [stakeholder interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/stakeholder-interviews/stakeholder-interview-synthesis.md), a [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/comparative-analysis.md), a [review of analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md), and a [review of past research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/previous-research-review.md).
+
+**Keywords**: personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
+ 
 ### April 2020
 #### April 20-30: View my representative (POA)/ View payment history** (H4 Level)
 *eBenefits, Nick Wygonik*
