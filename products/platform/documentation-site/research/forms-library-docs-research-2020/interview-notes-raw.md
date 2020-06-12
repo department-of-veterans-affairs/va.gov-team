@@ -1,5 +1,64 @@
 # Forms Library Documentation User Research Notes 
 
+## MR2 Interview - engineer on a BAH team 6/12/20
+
+E: Intro. This entire session will take about an hour. I might occasionally prompt you for time’ sake. We want to hear your honest opinions and won’t be offended by any opinions and welcome your feedback. There are no right or wrong answers. We just want your input to improve your experience and help ensure we’re making good documentation for people who are working on VA.gov. If for any reason you want to stop the session just let me know. Are you comfortable if we record this session?
+
+MR: Yes, that’s fine.
+
+E: Part of the session we’ll do includes an activity that we’ll ask you to complete in the middle. Are you familiar with our forms documentation?
+
+MR: Kind of limited. We’ve used some of it - mostly the design system docs. They have the CSS classes and we try to use that as much as possible.
+
+E: When did you last reference it?
+
+MR: Last week. Looking for help with the margins.
+
+E:  Did you find what you were looking for?
+
+MR: Yes, looking up pixel numbers. I don’t have them memorized.
+
+E: Are there other docs you also reference?
+
+MR: We use the feature flags documentation. Also, if we ever ask a question, product support will send us links and we’ll read that documentation. Also, the documentation in GitHub. We’ll read the docs in the sections we’re working on.
+
+E: Any other feedback about forms docs?
+
+MR: Seems pretty good and product support is very responsive about updating docs if we have any feedback.
+
+E: How do you get to the forms documentation?
+
+MR: I google CSS classes and it’ll take me there - design system forms docs are usually one of the first links.
+
+E: We’ll now move into the activity. Let me pull up my screen. We are considering this to be a quick reference guide for developers. We’re hoping this will be paired with other documentation. But today we’re trying to get your perspective on this type of documentation. In addition to what you see here, there are comments in the sidebar asking for your perspective and feedback. Use the instructions in the blue box to complete the activity. If you get stuck or finish early, just send a message to the DM. There are 3 scenarios in this doc. Answer the questions and comments related to the scenarios. Do you have any questions?
+
+MR: Nope, seems pretty self explanatory. Just respond in the doc with questions or feedback?
+
+E: Yes, feel free to mark up this doc. It will only be used for this session.
+
+MR: I’ll start a timer for 30 minutes and will ping the DM when it’s time to come back.
+
+—— BREAK FOR ASYNC ACTIVITY ——
+
+E: What is your reaction to this documentation?
+
+MR: It looks useful. I didn't look far enough down to read the docs until the end. They look very similar to the US Forms System docuementation: https://github.com/usds/us-forms-system/blob/master/docs/README.md I’ve worked on forms so long that I already know how to do this type of thing. In the US Forms implementation they use common definitions. There’s a lot of common stuff in /src/platform: https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform Normally I just copy and paste code from other sources and go from there. They have prebuilt schemas you can pull in and don’t have to link to it. So, looking at the code I know how to make it work. Where there’s a checkbox I know that it’s a boolean and on the pension form it won’t be passed down. Where the uischemas and schemas are. I see you have options and widgets. There is some useful information. There might be a common date definition that already exists. There’s a decent amount of information and I went to places I already knew.
+
+E: I’m not sure how the US forms system is integrated with our forms system. Knowing that documentation is useful is good to know. 
+
+MR: I have links to the repo pulled down locally. We pull it into vets-repo. We are definitely based on it. I just don’t know to what extent. I don’t know if the docs should be specific to what’s in this repo and then point to the US forms system.
+
+E: Did the scenarios you looked at seem clear and useful?
+
+MR: I’m familiar with working with designers, so am familiar with this kind of thing. There backend information that is missing. For a full form, you’d need more information, including permissions. Often there’s someone who can tell you where there are existing bank forms you can go look for and you can get started from there. These scenarios were pretty self explanatory.
+
+E: Do you have other feedback about this type of example?
+
+MR: It looks good to me. Google docs are a good place to have this info.
+
+E: The docs are just in Google docs temporarily. Eventually we’ll be rolling them in with the other forms documentation. We know all the teams are really busy, so thanks for taking the time to help us evaluate documentation. We really appreciate it!
+
+
 ## MR Interview - engineer on a VSA team 6/10/20
 
 E: Thanks for taking the time to participate, etc
@@ -232,12 +291,3 @@ RG: I wasn’t sure when I was done with the first task. It just continues on wi
 Yeah I guess that’s about it. I mean, I don’t know. [chuckles] Conditionally hide groups and pages and components … I don’t know, I think separating it out into tasks and saying “this is task 1-2” would have been helpful. 
 
 E: Thank you so much for helping out and trying out this new style of documentation and this new style of user research! 
-
-
-
-
-
-
-
-
-
