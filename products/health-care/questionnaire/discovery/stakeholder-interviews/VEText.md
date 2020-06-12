@@ -17,6 +17,11 @@
  8. What API do we call to leverage the service?
  9. How does notifications work - Push or Pull from the server - failed ? 
  10. Preferences - are in profile. Consent business line- text appts, preferences how you will contact you.  
+ 	- examples from Bennefits 
+
+![OptIn collapsed section](https://lh6.googleusercontent.com/upHH_bitPIdR9pdf8hvhJz3dUb_Z6bv0js4R3zbcUUjkUhE049OiddlPTfzm2WYEHITtNo5VNDzik_q_6HIvu2-RlvNivAX6noYlM-6TnHxqmC1unHbP3wSjotOvLvWg2Eb9-ZzJ){:height="50%" width="50%"}
+
+![OptIn expanded section](https://lh5.googleusercontent.com/oUkMEfx-RXu7WeL9wQjp4xx0vC_7Qm9vJ71MqSbdeJLVIuyWoiAGl8sVQvyv_Xqb4_mh_iC-RFW4ynUt4tQNfWlI_o8AoBjT733pR0JSa2VGYTh4x-zpMQ_jxKH6oly6Etdeot7O){:height="50%" width="50%"}
 
 
 ## Clarice Experience with Online Forms and Notifications 
