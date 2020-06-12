@@ -125,6 +125,121 @@ www.benefits.va.gov/gibill/post911_transfer.asp | www.va.gov/education/transfer-
 www.benefits.va.gov/gibill/fgib/VetTec.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
 www.benefits.va.gov/GIBILL/fgib/VetTec_Veteran.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 |  
 www.benefits.va.gov/GIBILL/FGIB/VetTecTrainingProviders.asp | www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | Lucas Tickner, Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 04/06/20 | Redirect reverted on 04/10 due to looping error  
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2019.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2018.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2015.asp | https://www.va.gov/disability/compensationrates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2014.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2013.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2012.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2011.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2009.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2008.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2007.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2006.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2005.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2004.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2003.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2002.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2001.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_2000.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/special_Benefit_Allowances_1999.asp | https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp02.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0218.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0214.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0213.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0212.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0211.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0209.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0208.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0207.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0206.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0205.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0204.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0203.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0202.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0201.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0200.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/resources_comp0299.asp | https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/sb2019.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2018.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2014.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2013.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2012.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2011.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2009.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2008.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2007.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2006.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2005.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2004.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2003.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2002.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2001.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb2000.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/COMPENSATION/sb1999.asp | https://www.va.gov/disability/compensation-rates/birth-defect-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 | 
+https://www.benefits.va.gov/compensation/resources_comp0118.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0114.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0113.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0112.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0111.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0109.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/compensation/resources_comp0108.asp | http://www.va.gov/disability/compensation-rates/veteran-rates/ | Paul Shute, Elana Sztulwark, Sandy Tadeo, Adrianne Hooten | 05/26/20 |  
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ak.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/al.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ar.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/az.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ca.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/co.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ct.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/dc.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/de.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/fl.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ga.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/hi.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ia.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/id.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/il.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/in.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ks.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ky.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/la.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ma.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/md.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/me.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/mi.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/mn.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/mo.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ms.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/mt.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nc.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nd.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ne.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nh.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nj.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nm.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/nv.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ny.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/oh.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ok.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/or.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/overseas.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/pa.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/pr.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ri.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/sc.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/sd.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/tn.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/tx.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ut.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/va.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/vt.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/wa.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/wi.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/wv.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/wy.asp | https://www.va.gov/education/yellow-ribbon-participating-schools/ | Tammy Hurley, Sandy Tadeo, Adrianne Hooten | 05/28/20 | 
+
+
+
 
 
 
