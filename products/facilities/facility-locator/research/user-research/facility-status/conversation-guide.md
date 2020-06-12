@@ -5,7 +5,7 @@
 ### Setup
 
 - [ ] Notifications off
-- [ ] Turn off waiting room feature
+- [ ] Turn off waiting room feature in Zoom
 - [ ] Links to VA locator: https://www.va.gov/find-locations/
 - [ ] Links to card sort: https://adhoc.optimalworkshop.com/optimalsort/docaar20
 
