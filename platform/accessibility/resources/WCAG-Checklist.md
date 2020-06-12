@@ -160,49 +160,49 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
     </tr>
     <tr>
       <th rowspan="3" valign="top" align="left">iframes</th>
-      <td valign="top" align="left">**Frame title attribute MUST be specified** (&#60;iframe title="Video about...").</td>
+      <td valign="top" align="left"><strong>Frame title attribute MUST be specified</strong> (&#60;iframe title="Video about...").</td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">4.1.2</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**The page within the iframe MUST have an accurate, meaningful &#60;title&#62;.**</td>
+      <td valign="top" align="left"><strong>The page within the iframe MUST have an accurate, meaningful &#60;title&#62;.</strong></td>
       <td valign="top" align="left"><a href="https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html">2.4.2</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".**</td>
+      <td valign="top" align="left"><strong>iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".</strong></td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">4.1.2</a></td>
     </tr>
     <tr>
       <th rowspan="4" valign="top" align="left">Form Markup<br/> (See also Form Validation and Feedback in Part 3)</th>
-      <td valign="top" align="left">**Inputs, buttons, and controls MUST have labels which are programmatically-associated** (e.g. via &#60;label&#62;, aria-label, or aria-labelledby) **and always visible on the screen** (they don’t disappear when the user starts typing).</td>
+      <td valign="top" align="left"><strong>Inputs, buttons, and controls MUST have labels which are programmatically-associated** (e.g. via &#60;label&#62;, aria-label, or aria-labelledby)</strong> and always visible on the screen** (they don’t disappear when the user starts typing).</td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a>, <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html">3.3.2</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**Required fields SHOULD be marked as such**, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &#60;label&#62; text.</td>
+      <td valign="top" align="left"><strong>Required fields SHOULD be marked as such</strong>, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the &#60;label&#62; text.</td>
       <td valign="top" align="left"><a href="https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html">3.3.2</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**Form field instructions SHOULD be associated with inputs or buttons** using techniques such as: Putting the instructions in the &#60;label&#62;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a &#60;fieldset&#62; with &#60;legend&#62;</td>
+      <td valign="top" align="left"><strong>Form field instructions SHOULD be associated with inputs or buttons</strong> using techniques such as: Putting the instructions in the &#60;label&#62;. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a &#60;fieldset&#62; with &#60;legend&#62;</td>
       <td valign="top" align="left"><a href="https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html">3.3.2</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**Groups of form elements MUST have group labels** (e.g. `<fieldset>` and `<legend>`, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ). </td>
+      <td valign="top" align="left"><strong>Groups of form elements MUST have group labels</strong> (e.g. `<fieldset>` and `<legend>`, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ). </td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a>, <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/minimize-error-cues.html">3.3.2</a></td>
     </tr>
     <tr>
       <th rowspan="4" valign="top" align="left">Parsing and Validity</th>
-      <td valign="top" align="left">**The page MUST NOT contain duplicate IDs** because accessibility features frequently reference IDs.</td>
+      <td valign="top" align="left"><strong>The page MUST NOT contain duplicate IDs</strong> because accessibility features frequently reference IDs.</td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**Attributes (e.g. ARIA) MUST contain only allowable values, in the proper parent-child hierarchy.**</td>
+      <td valign="top" align="left"><strong>Attributes (e.g. ARIA) MUST contain only allowable values, in the proper parent-child hierarchy.</strong></td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**Parent-child relationships of elements & attributes (e.g. ARIA roles) MUST follow the specification.**</td>
+      <td valign="top" align="left"><strong>Parent-child relationships of elements & attributes (e.g. ARIA roles) MUST follow the specification.</strong></td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
     </tr>
     <tr>
-      <td valign="top" align="left">**The page MUST NOT contain syntax errors that affect semantic meaning** (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).</td>
+      <td valign="top" align="left"><strong>The page MUST NOT contain syntax errors that affect semantic meaning</strong> (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).</td>
       <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
 </tbody>
 </table>
