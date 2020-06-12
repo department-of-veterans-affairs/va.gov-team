@@ -19,7 +19,7 @@ Time: approximately 1 hour
     **How this helps:** Understand why accessibility is especially important in our VA.gov work.
 
 1. Review [Tips for Communicating with People with TBI and PTSD](https://www.brainline.org/article/tips-communicating-people-tbi-and-ptsd)<br/>
-    **How this helps:** Helps understand how content structure, tone, and the words used may have an impact.
+    **How this helps:** Helps understand how content structure, tone, and words used may have an impact.
 
 1. Join DEPO’s #vetsgov-accessibility Slack channel. <br/>
     **How this helps:** A place to ask questions about accessibility, and learn more.
