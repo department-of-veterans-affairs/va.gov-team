@@ -1,26 +1,22 @@
 # VA.gov Product Owner Meetings
 
-[Clinician Facing Tools - Dr. Kaeli Yuen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/chatbot.md)
-  - Thursday 6/11 130pm-230pm EST
+[Clinician Facing Tools - Dr. Kaeli Yuen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/chatbot.md)| Thursday 6/11 130pm-230pm EST
   - Kaeli has been leading efforts around the VA COVID chatbot, providing Q&A to veterans without having to call a help line.
   
-[Identity - Melissa Keene](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/identity.md)
-  - Friday 6/12 10am-11am EST 
+[Identity - Melissa Keene](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/identity.md) | Friday 6/12 10am-11am EST
   - Melissa Keene - is leading efforts on: an ID proofing pilot with the Veteran Identification Card (VIC) team, identity verification pilots with DOD DMDC (login.gov as an alternative to DS Logon, milconnect, eBen, MHS genesis) and an overall VA identity strategy. 
   
-[Notifications - Clarice Chan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/VEText.md)
-  - Friday 6/12 11am-noon EST
+[Notifications - Clarice Chan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/VEText.md) | Friday 6/12 11am-noon EST
   - Clarice Chan - Clarice has been leading efforts around the VA notifications engine work as well as VEText. 
   
-[Forms - Matt Self, Steve Kovacs, C.C. Gong](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/forms.md)
-  - Tuesday 6/16 2pm-3pm EST
+[Forms - Matt Self, Steve Kovacs, C.C. Gong](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/forms.md) | Tuesday 6/16 2pm-3pm EST
   - eBenefits (Steve K. and Jason Wolf)
   - Caregiver (CC Gong and Alayna Abel)
   - B&M 2 (Matt Self and Leah Keeler)
 
 
-[Vet Profile - Samara Strauus(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md)
-  - Wed Jun 17, 2020 1:30pm – 2:30pm (CDT)
+[Vet Profile - Samara Strauus](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md) | Wed Jun 17, 2020 1:30pm – 2:30pm (CDT)
+  - Veteran profile- demographics, notifications, preferences, .etc
   
   
 ## To be Scheduled
