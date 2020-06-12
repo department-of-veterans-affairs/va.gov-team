@@ -11,6 +11,9 @@ This does not include research for Appeals projects, which is stored in differen
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
 ------
+
+### June 2020
+
 #### June: Usability testing for Form 21-686c / staging environment**
 *eBenefits: Nicolaus Wygonik, Jim Adams
 
@@ -19,7 +22,6 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords**: Depandents, Depandants (British), 686, Form 21-686, Claims, Usabilty Testing
 
-### June 2020
 #### June 3-5: VA Form 22-10203 - Apply for Rogers STEM Scholarship  
 *Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
 
