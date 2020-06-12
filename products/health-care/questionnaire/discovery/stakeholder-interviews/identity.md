@@ -31,3 +31,17 @@
 	 - 	HIPPA compliant? 	yes with the identifiers to-date 
  5. Where is the identity calling the person profile from?
 	 - Need tech resource to go into provide linkage and fields.  Melissa will send over links to their project folders
+	 
+	 
+## Here are the different VA login pages: 
+
+https://eauth.va.gov/accessva/
+
+https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home
+
+https://staging.va.gov/sign-in/
+
+We’re focusing on the last one for now, although we are working on a VIC pilot that uses the Access VA login page.
+
+Request access to the login.gov sandbox here: 
+https://share.hsforms.com/16DIoo--rTU2xbNW1MShkBg3ak9e
