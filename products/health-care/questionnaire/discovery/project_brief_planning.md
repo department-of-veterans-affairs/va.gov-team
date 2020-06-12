@@ -8,7 +8,12 @@ There is information that could be gathered from veterans more efficiently and s
 Healthcare Experience - Questionnaires (TBD)
 
 ### Problem Statement / How Might We statements
-How might we improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners?
+
+- How might we improve the in-person and online pre-appointment experiences for Veterans?
+- How might we contribute to physical distancing efforts in VA facilities?
+- How might we better integrate Veteran-provided data into VA workflows?
+- How might we provide Veterans with a digital option when only a paper option exist today to complete pre-appointment questionnaires and screeners?
+
 
 
 ### What Sprint Teams Are Associated with this Discovery?
@@ -84,7 +89,9 @@ How might we improve the in-person and online pre-appointment experiences for ve
 
 ### Project Details
 
--   Primary users: Veterans and/or their caregivers; employees in veteran-facing business lines that need to gather information from veterans and/or their caregivers in advance of a in-person or online appointment.
+-   Primary users: 
+	- Veterans and/or their caregivers;
+	- employees in veteran-facing business lines that need to gather information from veterans and/or their caregivers in advance of a in-person or online appointment.
     
 -   Goals of Primary user (assumptions- until research)
     
