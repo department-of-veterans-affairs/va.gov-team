@@ -11,6 +11,18 @@
 
 [November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/capacity-planning.md#november-2019)
 
+## July 2020
+### Holidays
+Fourth of July: Observed July 3 (GCIO, VA, Ad Hoc, CivicActions)
+    
+### Additional out of office
+    - Michelle: July 6-7
+    
+## June 2020
+### Additional out of office
+    - Lance: June 12
+    
+    
 ## March 2020
 ### Holidays
     
