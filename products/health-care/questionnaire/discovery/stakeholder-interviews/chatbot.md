@@ -34,6 +34,9 @@ Thursday, June 11⋅12:30 – 1:30pm
 - write something down - problem, objective, team, to circulate get buy in to turn into a real thing
 - people are helpful - know all the navigation around teams, positive experience. 
 
+https://www.va.gov/coronavirus-chatbot/
+[Chatbot Research/User Testing]9https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/coronavirus-chatbot/research)
+
 *Followups* 
 Dr. Yuen
 - sent Cardio nurse name
