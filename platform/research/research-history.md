@@ -14,8 +14,8 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2020
 
-#### June: Usability testing for Form 21-686c / staging environment**
-*eBenefits: Nicolaus Wygonik, Jim Adams
+#### June: Usability testing for Form 21-686c / staging environment
+*eBenefits: Nicolaus Wygonik, Jim Adams*
 
 - 9 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520) 
