@@ -14,8 +14,15 @@
   
 [Forms - Matt Self, Steve Kovacs, C.C. Gong](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/forms.md)
   - Tuesday 6/16 2pm-3pm EST
+  - eBenefits (Steve K. and Jason Wolf)
+  - Caregiver (CC Gong and Alayna Abel)
+  - B&M 2 (Matt Self and Leah Keeler)
 
 
+[Vet Profile - Samara Strauus]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md)
+  - Wed Jun 17, 2020 1:30pm – 2:30pm (CDT)
+  
+  
 ## To be Scheduled
 
 **Stakeholders who will be involved or interviewed:**
@@ -35,14 +42,5 @@
 - VetLink- Shaun Adams
 
 - Reg/Scheg - Steven B.
-  - engineering- VA mobile- back end services apps.
+  - engineering- VA mobile- back end services apps
 
-- Vet Profile - Samara
-
-**Forms Prodcuct Teams** 
-
-- eBenefits (Steve K. and Jason Wolf)
-
-- Caregiver (CC Gong and Alayna Abel)
-
-- B&M 2 (Matt Self and Leah Keeler)
