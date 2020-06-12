@@ -25,10 +25,17 @@
 
 ### **Results:**
 
-- Number of unique users: x
+- Number of unique users: 23
 - Actual results (per your "success criteria")
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+  - 13 non-VSP subscribers 
+  - 85% successful delivery rate
+  - 100% open rate
+  - 37% click rate per unique opens
+  - Newsletter survey results:
+    - 100% of respondents agree with the VA.gov Platform newsletter can help me better understand new features available for me and my team to use.
+    - 67% of respondents agree with the information in the newsletter will be easy for me to reference and use going forward
+- Was the data submitted (if any) easy for VA to process?: 
+- Types of errors logged: Subscribers with BAH email addresses did not receive the newsletter.
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 - If yes, what: lorem ipsum
 
