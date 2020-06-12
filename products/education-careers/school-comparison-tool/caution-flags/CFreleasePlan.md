@@ -83,6 +83,9 @@ _To be completed once you have gathered your initial set of data, as outlined ab
      * Jury's out based on page views. Overall traffic to GIBCT is down about 22% in May 2020 compared to May 2019. Traffic to MOST flagged pages is down. Decreases for sample schools range from to a 12% increase to 100% decrease in traffic. Most sample schools have 60-95% decrease. However, other schools, that previously had caution flags and don't as of today, have similar decreases so it's really difficult to tell at this time.
    *  On the profile page, we are able to track clicks on "view more details" to view more information (we don't have a baseline for the before) (Need more information from UXers via GA)
    * Click the link in the caution flag to external link to learn even more (we don't have a baseline for the before) (Need more information from UXers via GA)
+     * Use of jump link at the top of the profile page and the Learn more about (relevant CF link to external site) are accessible via [this Google Analytics link](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184334251/_u.date00=20200423&_u.date01=20200611&explorer-segmentExplorer.segmentId=analytics.eventAction&_r.drilldown=analytics.eventLabel:nav-warning-alert-box-content-link-click&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/).  
+. Tracking started April 23, 2020. For more info, add "Page Title" as a secondary dimension to see which pages have the highest number of clicks on the Caution Flag alerts.
+
 2. What qualitative feedback have you gathered from users or other stakeholders, if any?
  * Qualitative input from Usability Testing
    * Caution flags alert Veterans to potential issues with schools and frequently act as a deterrent to further investigating flagged schools.
