@@ -16,8 +16,20 @@
   - description 
 
 ## Proposed additions:
+
+### MVP
 Balance-related info:
 - Amount paid
 - Interest / fees accrued
 - Balance
-- **Future state**: payment history
+
+### Future requests
+- Payment history
+  - Date payment was made
+  - Payment amount
+  - Payment method
+- Payment agreement data
+  - Monthly payment amount
+  - Next due date
+- Compromise data
+  - Compromise $ amount
