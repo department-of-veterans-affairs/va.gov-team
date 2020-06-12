@@ -42,3 +42,6 @@ Time: approximately 1 hour
 
 1. Watch a [video on Operation PTSD: Veterans Healing Themselves Through Meditation](https://youtu.be/yA1O5gmP4eg). (11 minutes)<br/>
     **How this helps:** Hear a Veteran’s perspective on his PTSD, the military, and how meditation helped him. 
+    
+1. Review [Tips for Communicating with People with TBI and PTSD](https://www.brainline.org/article/tips-communicating-people-tbi-and-ptsd)<br/>
+    **How this helps:** Helps understand how content structure, tone, and the words used may have an impact.
