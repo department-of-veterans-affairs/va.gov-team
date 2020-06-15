@@ -93,6 +93,7 @@ PM
 - Pre-launch - Put together release plan (work with Tressa/Erik/Sandra on UAT portion)
 
 Design
+- IA review
 - Support final build sprint
 - Call center - Outline and writing guide
 - Pre-launch - Work with Matt on release plan for UAT portion (no need to submit UAT request yet) 
