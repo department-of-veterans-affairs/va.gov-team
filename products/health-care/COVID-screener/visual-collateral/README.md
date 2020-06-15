@@ -18,7 +18,7 @@
 
 ### 24 x 36 large poster
 
-- [24x26 poster, Yes QR code](24x36-YesQR-dark-bg.pdf)
+- [24x36 poster, Yes QR code](24x36-YesQR-dark-bg.pdf)
 
 
 ## Collateral that DOES NOT INCLUDE the QR code:
@@ -32,9 +32,9 @@
 
 - [11x17 poster, No QR code](11x17-NoQR-dark-bg.pdf)
 
-### 24 x 26 poster
+### 24 x 36 large poster
 
-- [24x26 poster, No QR code](24x36-NoQR-dark-bg.pdf)
+- [24x36 poster, No QR code](24x36-NoQR-dark-bg.pdf)
 
 ### Original Illustrator file
 
