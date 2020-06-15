@@ -9,7 +9,8 @@ For IA strategy and planning, the information architects work with the **#ia-for
 <br></br>
 ### First we’re evaluating and planning.
 
-* **Step 1:** Evaluate the health of VA.gov’s information architecture. **We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not.** 
+* **Step 1:** Evaluate the health of VA.gov’s information architecture. 
+  We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not.
 
 We plan to regularly test the IA health of VA.gov and compare results over time. We'll find out:
   * How well can veterans do important tasks?
