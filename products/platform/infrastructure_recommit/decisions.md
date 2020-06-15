@@ -16,7 +16,7 @@ In this document we will talk through any decisions that where made, why we made
 |3/2020 | Using Go as one of the programming languages for our new Infra. We did this because it allows us to do more and is a more modern language choice | VSP Operations |
 |4/2020 | Using Loki for loggin. Moving to this option, because this will take the need for developers needing AWS access for  cloudwatch logs. This will allow VSP Operations to have less users in AWS allowing us to clean up more. This will also support out goals of user not having  more access then they need and making it easier for developers to access logs.| VSP Operations and BE tools |
 |5/2020 | Using DataDog to replace our current monitoring in the new infra. Doing this because we can  improve our current monitoring, DD offers some more rubust tools, simplier to use. For more information please see this [doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/95c5e1c6dc3df0ee58f27bed67955732cfb17f47/platform/engineering/design-docs/2020-04-30-datadog.md)| VSP Operations, also talked with BE, FE, Insights |
-|6/12/2020 | Due to changes in personal and now lack of expertise in the Hashicorp stack we are moving away from Vault, Consul, and Nomad. We will be debating as a team on which tools we will be moving forward with, but most of the things we created and built up to this point are reusable per the design of the infra. |
+|6/12/2020 | Due to changes in personal and now lack of expertise in the Hashicorp stack we are moving away from Vault, Consul, and Nomad. We will be debating as a team on which tools we will be moving forward with, but most of the things we created and built up to this point are reusable per the design of the infra.| VSP Operations and Leadership|
 
 
 
