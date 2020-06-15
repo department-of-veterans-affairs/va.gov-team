@@ -48,14 +48,14 @@ If needed, additional sessions can be scheduled Friday, June 25 from 11AM – 7P
 ## Team Roles	
 - Moderator: Aricka Lewis
 - Research guide writing and task development: Aricka Lewis
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Amanda Buckley, Aricka Lewis
-- Participant(s) for pilot test:	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Amanda Buckley, Aricka Lewis
+- Participant(s) for pilot test: TBD	
 - Note-takers: TBD
-- Observers:	Amanda Buckley (abuckley@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Mark Dewey (mdewey@governmentcio.com), Lance Sanchez (osanchez@governmentcio.com)
+- Observers: Amanda Buckley (abuckley@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Mark Dewey (mdewey@governmentcio.com), Lance Sanchez (osanchez@governmentcio.com)
 
 ## Resources	
-- [Project Brief] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)	
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)	
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/conversation-guide.md)
 - Synthesis
 - Read-Out/Results	
