@@ -26,7 +26,7 @@ We plan to regularly test the IA health of VA.gov and compare results over time.
   * search metrics; and
   * an expert review of VA.gov.
 
-**Step 2: Recommending specific IA work based on these regular evaluations ^ of VA.gov, and show how we can help.**
+**Step 2: Recommending specific IA work based on these regular evaluations ^ of VA.gov. And showing how we can help.**
 
 **Step 3: Working with the #ia-forum to prioritize IA projects:**
   * Where do they think users struggle?
