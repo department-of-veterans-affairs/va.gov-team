@@ -139,7 +139,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 - False: The uploading process was easy and understood by participants
 
 **6. Users will require greater clarification about what document to upload.**
-- True- More clarification on what to upload is needed
+- True: More clarification on what to upload is needed
 
 **7. The users will easily be able to upload documents.**
 - True
@@ -147,13 +147,13 @@ This topline summary is a result of the synthesis that happens after conducting/
 **8. Users will be frustrated by having to scan/find documents.**
 - N/A: Scan & find was not tested but the 
   - User did remark that is what they will have to do  
-  > One said it is necessary but, better than driving to a VA office
+  - One said it is necessary but, better than driving to a VA office
 
 **9. Combination workflows will be long but relatively easy for users;**
 - True
 
 **10. The divorce plus stepchild combination may be problematic since it's long and requires detailed (potentially emotionally-charged) information.**
-- False: user did not have problem filling out the form
+- False: User did not have problem filling out the form
  
  
  
