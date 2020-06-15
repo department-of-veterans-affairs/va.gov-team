@@ -80,6 +80,10 @@ Logged-in homepage
 
 ## Sprint 24 (6/17 – 6/30)
 
+### Objective
+
+- Get everything ready for QA
+
 ### Profile 2.0
 
 PM
