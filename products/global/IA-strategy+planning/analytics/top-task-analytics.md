@@ -13,7 +13,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 
 
 ### Mobile usage for all VA websites
-[This mobile usage report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&_.useg=builtin1,builtin28,builtin26/) shows mobile and tablet usage for all VA websites with new users broken out. Overall mobile and tablet usage showed:
+[This mobile usage report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20190603&_u.date01=20200603&_.useg=builtin1,builtin28,builtin26/) shows mobile and tablet usage for all VA websites with new users broken out. Almost half of VA.gov visitors used mobile or tablet (**44.7%**):
 * Mobile users: **39.59%** or 33.8M
 * Tablet users: **5.11%** or 4.3M
 
