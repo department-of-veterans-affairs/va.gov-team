@@ -18,12 +18,12 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 * Tablet users: **5.11%** or 4.3M
 
 
-### Top pages for modernized pages only
-[This page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov going to the pages below. "Modernized pages" are pages that have been converted to the standard VA.gov design, written in plain language, and optimized for SEO.
+### Top tasks for modernized pages only
+[This page views report for June 3, 2019 to June 3, 2020](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190603&_u.date01=20200603&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.rowStart=0&_.useg=builtin1/) shows users of VA.gov doing the tasks below. "Modernized pages" are pages that have been converted to the standard VA.gov design, written in plain language, and optimized for SEO.
 
-**Within the top 50 page views, we combined multiple pages for the same task into a single row.** (Examples: track claims, download VA letters)
+**Within the top 50 page views, we combined multiple pages for the same task into a single row.** (Examples: track claims, download VA letters, check education benefits)
 
-| Page / Task  | % of page views | # of users | Requires sign in? |
+| Task  | % | # of users | Requires sign in? |
 | :--- | ---: | ---: | :--- |
 | 1. Check VA claim or appeal status  | 17.83%  | 63.8M | Sign in |
 | 2. VA.gov homepage  | 13.52%  | 48.3M | 
@@ -32,13 +32,13 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 5. View profile or account (myVA)  | 3.15%  | 11.3M | Sign in |
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
 | 7. Search  | 1.54%  | 5.5M |
-| 7. (Tied with ^ ) Check education benefits (Post GI Bill)  | 1.54%  | 5.5M |  
+| 7. (Tied with ^ ) Check education benefits (Post GI Bill)  | 1.54%  | 5.5M | Sign in (for personal info) |  
 | 8. Find VA locations  | 1.38%  | 4.9M |
 | 9. Apply for healthcare benefits (includes check eligibility)  | 1.07%  | 3.8M | 
 | 10. Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
 | 11. Find out how to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
 | 12. Find out how to file a disability claim  | 0.74%  | 2.6M |
-| 13. GI Bill comparison tool  | 0.72%  | 2.5M | Sign in (for 1 of these 2 pages) |
+| 13. GI Bill comparison tool  | 0.72%  | 2.5M | Sign in (for personal info) |
 | 14. View VA payment history  | 0.67%  | 2.4M | Sign in |
 | 15. Coronavirus FAQs  | 0.62%  | 2.2M |
 | 16. Log out  | 0.53%  | 1.9M | Sign in |
