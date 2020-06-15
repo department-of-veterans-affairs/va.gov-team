@@ -34,7 +34,7 @@
   - Newsletter survey results:
     - 100% of respondents agree with the VA.gov Platform newsletter can help me better understand new features available for me and my team to use.
     - 67% of respondents agree with the information in the newsletter will be easy for me to reference and use going forward
-- Was the data submitted (if any) easy for VA to process?: 
+- Was the data submitted (if any) easy for VA to process?: Subscribers with VA.gov email addresses received the newsletter.
 - Types of errors logged: Subscribers with BAH email addresses did not receive the newsletter.
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
 - If yes, what: lorem ipsum
