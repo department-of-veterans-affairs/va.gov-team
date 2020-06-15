@@ -7,12 +7,12 @@
 
 |Name|Role|Slack|
 |----|----|-----|
-|Patrick Bateman | DEPO Lead| @Patrick |
-|Leah Bannon | DEPO lead| @Leah|
+|Kevin Hoffman | DEPO Lead| @Kevin M. Hoffman |
+|Dror Matalon | DEPO lead| @Dror Matalon|
 |Megan Kelley | VSP Content & IA Product Manager| @Megan Kelley|
-|Matt Johnson | VSP Content & IA Information Architect | @Matt Johnson|
+|Gretchen Maciolek | VSP Content & IA UX Writer | @Gretchen Maciolek |
+|Kristina Gore | VSP Content & IA Technical Writer | @Kristina Gore |
 |Mikki Northuis | VSP Content & IA Information Architect |@Mikki|
-|Bill Fienberg | VSP Content & IA Frontend Engineer | @Bill Fienberg|
 
 ### Product Key Words
 - Documentation
