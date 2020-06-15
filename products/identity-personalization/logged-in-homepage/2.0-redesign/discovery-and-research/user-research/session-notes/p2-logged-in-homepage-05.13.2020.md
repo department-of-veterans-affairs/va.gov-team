@@ -260,18 +260,18 @@ Anything that you would want to see on the page?
 
 - Veteran: No, we're good. 
 
-Any actions?
+Any actions you'd like to be able to take from the page that we haven't talked about?
 
-- Veteran: Would like to be able to search easier. Probably a wet dream but if you could search for specific things wihtout getting a whole flood of everything for the VA. It searches the entire VA, VHA, VBA, cemeteries. If you are looking specifically for one thing, a form or something and it comes up with odd ridiculous options and it's like. I'm just being office. I'll call the VSO and wait a day just for them to send me the form.
+- Veteran: Would like to be able to search easier. I know that's probably a wet dream but it would be a lot nicer if you could search for specific things wihtout getting a whole flood of everything for the VA. I know that sounds crazy, but if you type in something, it searches the entire VA, VHA, VBA, maybe even cemeteries, I don't know. It looks at everything.  If you are looking specifically for one thing, a form or something and it comes up with so many odd, ridiculous options and it's like. I'm just being honest. I'll call the VSO and wait a day instead, just for them to send me the form.
 
-Overall search - you click on this, enter a term and it pulls up -?
+You're talking about the overall search - you click on this {search boz}, enter a term and it pulls up -?
 
-- Veteran: Pulls everything VA wide. 
+- Veteran: It'll pulls everything from VA wide. 
 
 Would you like to select a specific area to conduct your search?
 
-- Veteran: Yes being able to narrow it down.
-- Veteran: If you want to see a joke, just type something in there and you'll be like what? It'll have old publications, new publications. It's really kind of funny if youre in the mood for it.
+- Veteran: Yes. Something to limit it down.
+- Veteran: If you want to see a joke, literally, just type something in there and you'll be like what? It'll have old publications, new publications. It's kind of funny if you're in the mood for it but otherwise it's a waste of time.
 
 ### Thank-You and Closing - 1 minute
 
