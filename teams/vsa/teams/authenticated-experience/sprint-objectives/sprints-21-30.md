@@ -94,6 +94,7 @@ Design
 - Pre-launch - Work with Matt on release plan for UAT portion (no need to submit UAT request yet) 
 
 Dev
+- Build - Connected apps updates
 - Build - Sub nav updates
 - Build - Final bug fixes and clean up before QA
 - Pre-launch - Work with Matt on UAT plan for launch (how will we show the new profile to UAT participants?)
