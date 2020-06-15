@@ -52,9 +52,9 @@ We encourage you to browse content in other /products and /teams folders to see 
 - [See guidelines on using public versus private repos](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 
 
-## <a id="naming-guidelines"></a>Guidelines for Creating and Naming Folders and Files
+## <a id="naming-guidelines"></a>Guidelines for creating and naming folders and files
 
-## <a id="naming-conventions"></a>Folder and File Naming Conventions
+## <a id="naming-conventions"></a>Folder and file naming conventions
 When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. <br/>
 
 *While these are specific to GitHub folders and markdown files, these guidelines are good rules to follow with any file uploaded to the repo as well.*
@@ -82,7 +82,7 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 - When using dates in your file name, best practice is to use YYYYMMDD format for chronological sorting. 
   
 
-## <a id="create-folders"></a>When to Create Child Folders
+## <a id="create-folders"></a>When to create child folders
 When you are managing and organizing your files, you may be tempted to create sub-folders for every different type of file you have in order to sort and organize them.  Sometimes this can be a good solution, but it can also create a situation where content is more difficult to find.  
 
 ***If you feel you need a new folder directly below /platform, /products/ or /teams, please reach out for guidance in the #vfs-product-support or #vsp-content-ia channels.***
@@ -97,20 +97,20 @@ When you are managing and organizing your files, you may be tempted to create su
 - If you do create a new folder, follow the file and folder naming conventions provided.  Do not repeat descriptive words in child folders.  For example, if you want a folder for all design files under your `health-care/application` product, it does not need to be named `health-care-application-design`, just `design` is sufficient. 
 
 
-## <a id="large-files"></a>File Storage and Large Files
+## <a id="large-files"></a>File storage and large files
 To improve site performance and conserve storage space, VSP requires that certain file types (which have a tendency to be large files) be uploaded to the va.gov-team repository only via the [Git Large File Storage (LFS) extension](https://git-lfs.github.com/). Git LFS replaces these files with text pointers inside team and product folders, while storing the file contents on a remote server.
 
 The following 6 file types must be uploaded via Git LFS:
 
-- formatted documents, including PowerPoint (.pptx) or PDFs (.pdf)
-- design documents, including Photoshop (.psd), Illustrator (.ai) or Sketch (.sketch) files
-- .m4v video files
+- Formatted documents, including PowerPoint (.pptx) or PDFs (.pdf)
+- Design documents, including Photoshop (.psd), Illustrator (.ai) or Sketch (.sketch) files
+- Video files (.m4v)
 
 Your development resource should be able to upload large files to LFS using the GitHub command line or desktop app on the team’s behalf.
 
 ### Please do not upload the file types listed above via the web interface. 
 
-If you have questions about how to upload files via Git LFS, we recommend consulting this [tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial). The VSP Content & Information Architecture team can connect your team with additional support if needed.
+If you have questions about how to upload files via Git LFS, we recommend consulting this [tutorial for the command line](https://github.com/git-lfs/git-lfs/wiki/Tutorial) or this [tutorial for the GitHub desktop app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/how-to-use-git-lfs-with-github-desktop-app.md). The VSP Content & Information Architecture team can connect your team with additional support if needed.
 
 If your team will be uploading a lot of external files, it can be helpful to create a ‘files’ folder in your team or product area to keep your key folders free of clutter. The files can then be linked to from a Markdown file so they are easily findable.
 
