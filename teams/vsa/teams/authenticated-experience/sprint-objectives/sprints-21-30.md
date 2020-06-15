@@ -337,6 +337,7 @@ Design
 - Plan for LOA1 use case #10164
 
 Dev
-- Investigate what data we can pull in for scheduling an appointment
-- Investigate how we'd pull in overall disability rating
-- Investigate how we'd determine if you already have Edu benefits
+- Tech discovery: Investigate showing upcoming appointments
+- Tech discovery: Investigate level of effort for showing overall disability rating
+- Tech discovery: Investigate level of effort for showing GI Bill benefits balance
+- Tech discovery: How is this going to be built?
