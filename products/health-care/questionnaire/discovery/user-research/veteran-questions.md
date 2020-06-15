@@ -5,3 +5,4 @@
 - Where in that process would you want to fill out forms?
 - Can you tell me about a time you recently checked in for an appointment? What was your experience like?
 - Do you remember filling out forms during that time? Can you describe that that was like?
+- How would you rate your experience with filling out healthcare related forms?
