@@ -474,4 +474,4 @@ to keep it in `vets-website`. The reasons we're not doing this are:
 Date | Revisions Made | Author
 -----|----------------|--------
 Apr 9, 2020 | Initial draft | Christopher Valarida
-Jun 11, 2020 | Change the plan to use multiple s3 buckets | Brooks Johnson
+Jun 11, 2020 | Change the plan to use multiple S3 buckets | Brooks Johnson
