@@ -18,6 +18,8 @@ The problem: Veterans need a way to digitally fill out intake forms when prepari
   - How can we clearly name this team/product?
   
 **Hypothesis**
+- There will be multiple identifiable areas of improvement related to filling out forms in the Veteran health care journey
+- Caregivers will have a unique experience related to assisting filling out forms for Veterans
 - TBD
 
 ## Method	
