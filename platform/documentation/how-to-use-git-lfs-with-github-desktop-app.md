@@ -1,4 +1,6 @@
-# Git LFS Tutorial Non-Technical 
+# How To Use Git LFS With GitHub DeskTop App 
+
+A Git LFS tutorial for non-technical users.
 
 ## Download GitHub Desktop App 
 
