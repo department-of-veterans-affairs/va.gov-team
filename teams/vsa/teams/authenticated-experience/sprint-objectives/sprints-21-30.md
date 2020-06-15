@@ -100,7 +100,7 @@ Dev
 
 ### Logged-in homepage
 
-**Start including these in the main team's sprint epic**
+**Start including these in the team sprint epic**
 
 PM (Samara)
 - Present work to DEPO team #10177
