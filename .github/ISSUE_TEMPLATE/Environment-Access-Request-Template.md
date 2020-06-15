@@ -22,12 +22,15 @@ assignees: ''
    > jane.doe@gmail.com
 - Please provide the name of your team, your role on that team, and the name of the company you work for.
    > this adds context
-- [if requesting SSH key authorization] What is the **public** SSH key? If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions. (Example below)
+
+- Requesting SSH key authorization?
+   > YES / NO 
+   - What is your **public** SSH key? If you don't have a SSH Key or know how to find it [click here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key) for instructions. (Example below)
 
 ```
 ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
 ```
 
-- [Grant AWS Console access?]
+- Grant AWS Console access?
   > YES / NO
-  >  Please give a brief description for why you are requesting AWS access.
+  - Please give a brief description for why you are requesting AWS access.
