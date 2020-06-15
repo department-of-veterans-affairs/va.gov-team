@@ -264,7 +264,7 @@ Any actions you'd like to be able to take from the page that we haven't talked a
 
 - Veteran: Would like to be able to search easier. I know that's probably a wet dream but it would be a lot nicer if you could search for specific things wihtout getting a whole flood of everything for the VA. I know that sounds crazy, but if you type in something, it searches the entire VA, VHA, VBA, maybe even cemeteries, I don't know. It looks at everything.  If you are looking specifically for one thing, a form or something and it comes up with so many odd, ridiculous options and it's like. I'm just being honest. I'll call the VSO and wait a day instead, just for them to send me the form.
 
-You're talking about the overall search - you click on this {search boz}, enter a term and it pulls up -?
+You're talking about the overall search - you click on this {search box}, enter a term and it pulls up -?
 
 - Veteran: It'll pulls everything from VA wide. 
 
