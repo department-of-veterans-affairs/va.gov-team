@@ -101,13 +101,13 @@ Dev
 ### Logged-in homepage
 
 PM (Samara)
-- Any updates to the initial plan for phase 1 that come out of handoff meeting
-- Finish OKR and KPI planning
-- Present work to DEPO team
+- Present work to DEPO team #10177
+- Define scope for phase 1 #10176
+- Finish OKR and KPI planning #9181
 - Have another convo with Chris J about how to loop in stakeholders
 
 Design
-- Handoff between Liz and Tressa
+- Handoff between Liz and Tressa #9381
 
 ## Sprint 25 (7/1 – 7/14)
 
