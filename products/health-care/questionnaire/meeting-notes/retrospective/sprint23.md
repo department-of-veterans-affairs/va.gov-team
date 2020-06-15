@@ -5,8 +5,9 @@
 ## Action Items
 - [ ] Sprint board- creating tasks
   - Everyone create detailed task for todos for sprint 24
-- [ ] Documents - large files upload to github 
+- [X] Documents - large files upload to github 
 	- Lance providing tourorial to upload via LFS
+	- https://dsva.slack.com/archives/C0136TS768M/p1592242531081300
 - [X] Get to know each other- Amanda to schedule happy hour team building to get to know eachother
   	- Healthcare Experience Team - Happy Hour
   	- Thursday, June 25⋅3:00 – 4:00pm - Monthly on the fourth Thursday
