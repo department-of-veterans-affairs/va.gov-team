@@ -104,7 +104,7 @@ PM (Samara)
 - Present work to DEPO team #10177
 - Define scope for phase 1 #10176
 - Finish OKR and KPI planning #9181
-- Have another convo with Chris J about how to loop in stakeholders
+- Plan for how to incorporate stakeholders #10230
 
 Design
 - Handoff between Liz and Tressa #9381
