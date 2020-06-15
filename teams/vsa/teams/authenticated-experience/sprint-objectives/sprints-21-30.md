@@ -116,17 +116,17 @@ Design
 PM
 - Call center - Call center video
 - Pre-launch — Analytics review
-- Pre-launch - Update relevant parts of the product outline
+- Pre-launch - Update relevant parts of the product outline/project folder
 - Call center - Request contact center review
 
 Design
 - QA - Any design updates out of QA
-- Pre-launch - Update relevant parts of the product outline
+- Pre-launch - Update relevant parts of the product outline/project folder
 
 Dev
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
 - Testing - Implement/run tests we determine we need
-- Pre-launch - Update relevant parts of the product outline
+- Pre-launch - Update relevant parts of the product outline/project folder
 
 Platform
 - QA - Conduct QA
@@ -139,8 +139,10 @@ PM
 - Figure out if there are any baseline analytics we need to get set up
 
 Design
-- Logged-in tools audit
-- Understanding of how banners work
+- Review journey maps #10120
+- Review discovery findings #10121
+- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
+- My VA tools audit #10123
 
 ## Sprint 26 (7/15 – 7/28)
 
@@ -164,8 +166,14 @@ Platform
 ### Logged-in homepage
 
 Design
-- General planning
-- Figure out questions for technical discovery
+- Figure out additional questions for technical discovery
+- Plan for LOA3 use cases #10162
+- Plan for LOA1 use case #10164
+
+Dev
+- Investigate what data we can pull in for scheduling an appointment
+- Investigate how we'd pull in overall disability rating
+- Investigate how we'd determine if you already have Edu benefits
 
 ## Sprint 27 (7/29 – 8/11)
 
@@ -193,7 +201,7 @@ Design
 - Initial iterations
 
 Dev
-- Technical discovery (initial tasks still TBD)
+- Additional technical discovery?
 
 ## Sprint 28 (8/12 – 8/25)
 
@@ -312,10 +320,15 @@ PM
 - Start getting staging users set up
 
 Design
-- Handoff between Liz and Tressa
-- Logged-in tools audit
-- Understanding of how banners work
-- Initial iterations
+- Liz <> Tressa handoff #9381
+- Review journey maps #10120
+- Review discovery findings #10121
+- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
+- My VA tools audit #10123
+- Plan for LOA3 use cases #10162
+- Plan for LOA1 use case #10164
 
 Dev
-- Technical discovery (initial tasks still TBD)
+- Investigate what data we can pull in for scheduling an appointment
+- Investigate how we'd pull in overall disability rating
+- Investigate how we'd determine if you already have Edu benefits
