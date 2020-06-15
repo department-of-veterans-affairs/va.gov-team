@@ -2,7 +2,7 @@
 
 **We've been researching the top tasks people do on VA.gov to prepare for baseline usability testing.** 
 
-We plan to baseline test top tasks with veterans regularly on both desktop and mobile devices. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov. 
+We plan to test top tasks with veterans regularly on both desktop and mobile devices. Over time, this will show us whether updates to IA, design, and content are making it easier for veterans to use VA.gov. 
 
 #### On this page
 * [Mobile usage for all VA websites](#mobile-usage-for-all-VA-websites) 
