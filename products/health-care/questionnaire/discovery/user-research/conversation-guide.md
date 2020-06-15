@@ -28,7 +28,7 @@ Before we begin, let’s start with a few warm-up questions.
 - Could you tell me about your service history?
 - Can you tell me about a time you recently checked in for an appointment? What was your experience like?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Personal experience - X minutes
 
 - Step 1
 - Step 2
@@ -39,7 +39,7 @@ Before we begin, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Review current intake form - X minutes
 
 - Step 1
 - Step 2
