@@ -27,7 +27,7 @@ We will conduct remote interviews via Zoom using the Perigean contract.This meth
 
 ## Participants and Recruitment	
 We would like to talk with 10 participants:
-- Veterans and Caregivers
+- At least one Caregiver
 - At least 3 women
 - Had an appointment at a VAMC in the last six months
 - Has received primary or specialty care in the last year
