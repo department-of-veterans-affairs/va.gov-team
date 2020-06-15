@@ -11,3 +11,6 @@
 - [Send PDF attachment to CARMA](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8871)
 - [Address eMIS verififation bug](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9832)
 - [Privacy & Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/117)
+
+## Content
+- [Write product guide](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10220)
