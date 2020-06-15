@@ -6,6 +6,8 @@ This research is for initial discovery for the Health Care Experience, Questionn
 
 Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
 
+The problem: Veterans need a way to digitally fill out intake forms when preparing for appointments/visits so that they can save time before seeing a doctor.
+
 **Research questions**
   - What are some current problems/pain points Veterans face when filling out information before visits?
   - Who are Veterans interacting with when they are filling out documents? (clinicians, docs, etc.)
@@ -19,45 +21,39 @@ Our goal is to improve the in-person and online pre-appointment experiences for 
 - TBD
 
 ## Method	
-1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
-  	
-2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+We will conduct remote interviews via Zoom using the Perigean contract.This method will allow us to understand various problems and bright spots Veterans and Caregivers currently face when preparing for doctor's visits. It will also help us understand which forms to prioritize as we determine the scope for our tool.
+
 ## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
-2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
-## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+We would like to talk with 10 participants:
+- Veterans and Caregivers
+- At least 3 women
+- Had an appointment at a VAMC in the last six months
+- Has received primary or specialty care in the last year
+- At least 3 participants between ages 24-40
+
+## Timeline 	
+#### Desired Timeline: June 22-24, 2020
+45 minute sessions
+
+Team Availability | Time (EST)
+------------------|--------------
+June 22, 2020 | 11AM – 7PM
+June 23, 2020 | 11AM – 7PM
+June 24, 2020 | 10AM – 4PM
+
+If needed, additional sessions can be scheduled Friday, June 25 from 11AM – 7PM EST.
+	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator: Aricka Lewis
+- Research guide writing and task development: Aricka Lewis
+- Participant recruiting & screening:	Perigean
+- Project point of contact:	Amanda Buckley, Aricka Lewis
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Note-takers: TBD
+- Observers:	Amanda Buckley (abuckley@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Mark Dewey (mdewey@governmentcio.com), Lance Sanchez (osanchez@governmentcio.com)
+
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
+- [Project Brief] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)	
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/conversation-guide.md)
+- Synthesis
 - Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
