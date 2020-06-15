@@ -51,7 +51,7 @@ Unmoderated production testing
 - **Desired number of unique users:** 300 (based on number of unique users navigating to /vaforms from a query for "forms" on VA.gov's on-site search
 - **How you'll make the product available in production while limiting the # of users who can find/access it:** 
   - Live in production no longer behind auth
-  - Top Recommendations (Best Bets) updated on VA.gov on-site search to reflect new form experience
+  - Top Recommendations (Best Bets) updated on VA.gov on-site search to reflect new form experience (live on 6/11)
   - **Not** included: redirects, footer updates
 - **"Success" criteria (by the numbers):** 
   - Conversions present to "Frequently used VA forms"
