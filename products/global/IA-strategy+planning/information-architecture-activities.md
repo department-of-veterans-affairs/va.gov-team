@@ -12,7 +12,7 @@ For IA strategy and planning, the information architects work with the **#ia-for
 <br></br>
 ### Steps we're taking.
 
-**Step 1: 
+**STEP 1: 
 Evaluating the health of VA.gov’s information architecture.** 
 
 We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
@@ -27,11 +27,11 @@ We'll focus on wayfinding and how users navigate the site on both mobile and des
   * search metrics; and
   * an expert review of VA.gov.
 
-**Step 2: 
+**STEP 2: 
 Recommending specific IA work based on these regular evaluations ^ of VA.gov.**
 And showing how we can help.
 
-**Step 3: 
+**STEP 3: 
 Working with the #ia-forum to prioritize IA projects:**
   * Where do they think users struggle?
   * What projects need IA help the most?
