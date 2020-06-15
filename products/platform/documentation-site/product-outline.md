@@ -81,6 +81,9 @@ We believe that **creating a single, searchable, public documentation site that 
 ---
 
 ## Implementation Info
+### Features 
+- [Documentation style guide](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10006)
+
 ### The Plan
 - Migrate/copy all crucial, non-sensitive documentation to the VA.gov-team GitHub repository
 - Discovery sprint (in progress)
