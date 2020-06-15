@@ -100,6 +100,8 @@ Dev
 
 ### Logged-in homepage
 
+**Start including these in the main team's sprint epic**
+
 PM (Samara)
 - Present work to DEPO team #10177
 - Define scope for phase 1 #10176
