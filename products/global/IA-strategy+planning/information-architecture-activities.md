@@ -12,7 +12,8 @@ For IA strategy and planning, the information architects work with the **#ia-for
 <br></br>
 ### Steps we're taking.
 
-**Step 1: Evaluating the health of VA.gov’s information architecture.** 
+**Step 1: 
+Evaluating the health of VA.gov’s information architecture.** 
 
 We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
   * How well can veterans do important tasks?
@@ -20,15 +21,17 @@ We'll focus on wayfinding and how users navigate the site on both mobile and des
   * How can we make improvements? 
   * By doing certain things, have we improved the site or not? 
 
-We plan to regularly test the IA health of VA.gov and compare results over time. To do this, we'll set up a repeatable framework of quantitative and qualitative measures, including: 
+**We plan to regularly test the IA health of VA.gov and compare results over time.** To do this, we'll set up a repeatable framework of quantitative and qualitative measures, including: 
   * baseline testing of top tasks;
   * [Google Analytics for top tasks and mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/analytics/top-task-analytics.md); 
   * search metrics; and
   * an expert review of VA.gov.
 
-**Step 2: Recommending specific IA work based on these regular evaluations ^ of VA.gov. And showing how we can help.**
+**Step 2: 
+Recommending specific IA work based on these regular evaluations ^ of VA.gov. And showing how we can help.**
 
-**Step 3: Working with the #ia-forum to prioritize IA projects:**
+**Step 3: 
+Working with the #ia-forum to prioritize IA projects:**
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 
