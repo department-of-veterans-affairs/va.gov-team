@@ -6,7 +6,7 @@
 - [ ] Sprint board- creating tasks
   - Everyone create detailed task for todos for sprint 24
 - [ ] Documents - large files upload to github 
-  - Lacne proving tourorial to upload via LFS
+  - Lance providing tourorial to upload via LFS
 - [ ] Get to know each other
   - Amanda to schedule happy hour team building to get to know eachother
 - [ ] Workshop prep
