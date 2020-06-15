@@ -168,7 +168,7 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-The output of the content build will be deployed to one s3 bucket, and the output of the application build will be deployed to a different one. The separate bucket for the content build output will be new.
+The output of the content build will be deployed to one S3 bucket, and the output of the application build will be deployed to a different one. The separate bucket for the content build output will be new.
 
 **Another important note:** The deploy process will not automatically coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
