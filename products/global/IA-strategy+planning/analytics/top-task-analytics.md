@@ -29,7 +29,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 2. VA.gov homepage  | 13.52%  | 48.3M | 
 | 3. Sorry — we can’t find that page  | 6.95%  | 24.8M |
 | 4. Sign in  | 5.34%  | 19.1M | Sign in |
-| 5. View profile or account (myVA)  | 3.15%  | 11.3M | Sign in |
+| 5. Go to myVA  | 2.37%  | 8.5M | Sign in | 
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
 | 7. Search  | 1.54%  | 5.5M |
 | 7. (Tied with ^ ) Check education benefits (Post GI Bill)  | 1.54%  | 5.5M | Sign in (for personal info) |  
@@ -37,6 +37,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | 9. Apply for healthcare benefits (includes check eligibility)  | 1.07%  | 3.8M | 
 | 10. Get veteran ID cards  | 0.89%  | 3.2M | Sign in | 
 | 11. Find out how to apply for GI Bill and related benefits  | 0.78%  | 2.8M |
+| 11. (Tied with ^ ) View profile or account  | .78%  | 2.8M | Sign in |
 | 12. Find out how to file a disability claim  | 0.74%  | 2.6M |
 | 13. GI Bill comparison tool  | 0.72%  | 2.5M | Sign in (for personal info) |
 | 14. View VA payment history  | 0.67%  | 2.4M | Sign in |
