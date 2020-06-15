@@ -13,11 +13,10 @@ Numbers based on usage analytics for 4/29/20.
 
 ### Planning - Outbound (SSOe is live for users logging in on VA.gov and then navigating elsewhere):
 - Desired date range: 6/3/20 - 6/9/20
-- Desired number of unique users: We plan to start with 500 users and gradually increase in increments of 500 until we have reached 50 authentications. Based on current usage trends, approximately 25% of VA.gov users authenticate. However if we have not reached 50 authenticated users in 1 hour we plan to release this feature in incrememnts of 500 users until the desired sample size is available for analysis. Based on back-end analytics and positive findings during UAT we would increase to 1% (2,000) of users over the hour followed by increments of 10% (20,000) of users every work day hour.
+- Desired number of unique users: We released outbound to 0.5% of users on 6/3 and increased to 1% on 6/4. Based on back-end analytics and positive findings during UAT we would increase in 5% increments until we are at 100% of users
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
 - "Success" criteria (by the numbers):  Login success rates per method (id.me, MHV and DS logon) should remain stable. This will be monitored via the back-end using grafana to start after released to 100% of users we can monitor via Google Analytics.
-- Notes: 
-500 users = .00228% of VA.gov users
+
 Authentication Success Rates to track:
 ID.Me = 85.86%
 MHV = 77.03%
@@ -25,7 +24,7 @@ DS Logon = 83.82%
 
 ### Planning - Inbound (SSOe is live for users logging in on [eauth](https://eauth.va.gov/accessva/) properties and then navigating to VA.gov):
 - Desired date range: tbd
-- Desired number of unique users: We plan to start with 500 users and gradually increase in increments of 500 until we have reached 50 authentications. Based on current usage trends, approximately 25% of VA.gov users authenticate. However if we have not reached 50 authenticated users in 1 hour we plan to release this feature in incrememnts of 500 users until the desired sample size is available for analysis. Based on back-end analytics and positive findings during UAT we would increase to 1% (2000) of users over the next hour followed by increments of 10% (20,000) of users every work day hour.
+- Desired number of unique users: We will release outbound to 0.5% of users on 6/3 and increased to 1% on 6/4. Based on back-end analytics and positive findings during UAT we would increase in 5% increments until we are at 100% of users
 - How you'll make the product available in production while limiting the # of users who can find/access it: Sticky feature flagging
 - "Success" criteria (by the numbers): Currently GA tracking is not availalbe on un-modernized sites. We'll be be monitoring via the back-end using grafana.
 
