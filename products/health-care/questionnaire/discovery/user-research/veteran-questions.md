@@ -1,5 +1,4 @@
-- Have you visited multiple clinics where your information was not saved with each one?
-- Recruit for multiple complications/injuries/needs
+- What do you think happens to your data/information when you visit multiple doctors/clinics?
 - What avenue would you want to receive medical forms (text,on profile?)?
 - What do you normally do to prepare for an appointment/visit?
 - Where in that process would you want to fill out forms?
