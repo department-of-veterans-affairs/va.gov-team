@@ -6,3 +6,6 @@
 - Can you tell me about a time you recently checked in for an appointment? What was your experience like?
 - Do you remember filling out forms during that time? Can you describe that that was like?
 - How would you rate your experience with filling out healthcare related forms?
+- If your medical intake forms were done online, what do you think would happen to your information/data?
+- In your ideal world, how would your information get to the right place/person for your visit?
+- How many forms/clipboards/etc do you fill out on average before a visit? during? after?
