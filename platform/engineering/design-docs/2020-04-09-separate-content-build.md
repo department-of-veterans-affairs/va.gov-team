@@ -233,6 +233,8 @@ and requests for everything else (js, css files_) will be proxied to the bucket 
   tests can run a browser and access the applications
 - **Important note:** These HTML files will not be served in production; the
   landing pages for the applications come from the content build
+  - To ensure these pages aren't made in production, the deploy script will copy
+    only the files in `/applications/`
 
 #### Miscellaneous
 - Separating the content and application builds will require a standalone content validation job that runs outside of the CI pipeline- probably once a day on a schedule
