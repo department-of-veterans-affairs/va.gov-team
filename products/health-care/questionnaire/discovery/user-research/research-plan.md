@@ -17,7 +17,7 @@ The problem: As a Veteran, I’m unable to easily and quickly provide pre and po
   - Is the context always pre-visit? If no, what types of forms would exist post-visit?
   - How can we clearly name this team/product?
   
-**Hypothesis**
+**Hypothesis & assumptions**
 - Caregivers will have a unique experience related to assisting filling out forms for Veterans
 - Veterans may struggle to write legibly on a printed form so the care team can read during the visit
 - Veterans may not understand that all their paper documentation is not transcribed into their chart and reviewed by their care team at subsequent visits.
