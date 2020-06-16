@@ -1,6 +1,8 @@
 - What do you think happens to your data/information when you visit multiple doctors/clinics?
 - What avenue would you want to receive medical forms (text,on profile?)?
 - What do you normally do to prepare for an appointment/visit?
+- How many times do you think you fill out forms in order to prepate for your visit?
+- What are the most challenging parts of filling out these forms?
 - Where in that process would you want to fill out forms?
 - Can you tell me about a time you recently checked in for an appointment? What was your experience like?
 - Do you remember filling out forms during that time? Can you describe that that was like?
