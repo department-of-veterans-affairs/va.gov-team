@@ -20,9 +20,9 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 ## Repo Menu 
 
 ### [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery) 
-- Research Plan
-- Stakeholders and Aligned Product Teams
-- Current State Workflows
+- [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research)
+- [Stakeholders and Aligned Product Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
+- [Current State Workflows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/README.md)
 
 ### [Product Documents and Features](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/README.md)
 - Product Outline
