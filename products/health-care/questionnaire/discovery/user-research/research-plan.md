@@ -19,40 +19,16 @@ The problem: As a Veteran, I’m unable to easily and quickly provide pre and po
   
 **Hypothesis**
 - Caregivers will have a unique experience related to assisting filling out forms for Veterans
-#### Time
-- If we implement the use of digital pre-visit intake forms, we will **decrease the time it takes before a visit to fill out the questions**
-- If we implement the use of digital pre-visit intake forms we will **decrease the time it takes during a visit.**
-	- The Care Team - nurse and physicians will not have to ask and document the same questions the Veteran just filled out on the form.
-- If we implement the use of digital check in and intake forms workflows we will **save time by providing accurate ready to be seen indicators to the the care team.**
-- If we implement the use of digital intake forms and **discretely populate the EHR, we will decrease the length of time for a visit.**
-	- As handwriting on paper forms can be very hard to read for the clinical team requiring them to confirm and asks same questions so they can document.  
-- If we implement the use of digital intake forms we will **reduce the time spent by the front reception staff gathering and ensuring all fields are fill out by veteran slowing down access to providers.**
-- If we implement the use of digital pre-visit intake forms we will **save wait times by the care team as the Veteran will not ignore the mailed paper intake forms** and need to fill out in the clinic before the visit. 	
-- large amout of mailed forms are never filled out ahead of a visit. 	
-#### Safety
-- If we implement the use of digital intake forms we will **reduce the saftey risk of transmitting infections diseses from pen and paper to patients and staff.**
-- If we implement the use of digital check in we will **reduce the saftey risk of transmitting infections diseses from the veteran entering the facility too early.**
+- Veterans may struggle to write legibly on a printed form so the care team can read during the visit
+- Veterans may not understand that all their paper documentation is not transcribed into their chart and reviewed by their care team at subsequent visits.
+- Veterans may have concerns about using pen, paper, clipboard that may have not been cleaned before their use 
+- Veterans may want to print out the intake form and bring with them to their visit to discuss with their care team
+- Veterans may miss completing the mailed version of the printed intake form and completing before their visit
+- Veterans may not understand that their health records may have different results/updates as they use multiple VA and community care centers.
+- Veterans may not understand that they can use their personal devices to complete pre-visit documentation on their own time
+- Veterans may not know how long it will take them before a visit to fill out the forms and not arrive in enough time
+- Veterans may not know they can update their medical history to inform their care team of current status. ie. Medications and Allergies.
 
-#### Healthcare data Accuracy
-- If we implement the use of digital pre-visit intake forms we will **increase the health data accuracy into the medical record by consolidating the questions being asked at each facility.**
-
-#### Data Redundancy
-- If we implement the use of digital pre-visit intake forms **that populate from the EHR and each subsequent form we will reduce duplication and errors.**
-
-#### Money 
-- If we implement the use of digital pre-visit intake forms we will **save costs in paper production, stamps, and administrative staff time to mail intake documentaion.**
-- If we implement the use of digital pre-visit intake forms will **collect more payments as the prompts for CoPay and/or Past Due Balance** can be built into the same Questionnaires Veterans are already answering. 
-
-#### Personal Experience
-- If we implement the use of digital pre-visit intake forms we will **improve the Veteran-Care Team experience.**
-- If we implement the use of unauthenticated (Eliminate usernames and passwords) digital pre-visit intake forms we will **increase the number of forms completed before a visit.** 
-- If we implement the use of digital pre-visit intake forms **on the veterans own device we can reduce the feeling of the impersonal ipads and clunky kiosks** in order to provide information.
-	
-#### Adoption of other platform experiences
-- If we implement the use of digital pre-visit intake forms we will **increase portal/va.gov adoption by navigating the veteran to other workflows/areas they can use to improve their health.** ie education/health records  
-	
-#### Reduce Risk & Increase Compliance
-- If we implement the use of digital pre-visit intake forms we will **increase compliance as we will more accuratelty know when to prompt for documents that may be outstanding for signature, consent or acknowledgement forms.** 
 
 ## Method	
 We will conduct remote interviews via Zoom using the Perigean contract.This method will allow us to understand various problems and bright spots Veterans and Caregivers currently face when preparing for doctor's visits. It will also help us understand which forms to prioritize as we determine the scope for our tool.
