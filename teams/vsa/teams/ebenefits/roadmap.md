@@ -10,10 +10,10 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | --------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | -----
 | Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q3        | 
 | Submit BDD Claim (526ez)                            | vsa-bam-1     | Q1        | Q3        | Q3        | Q3        | 
-| View Rated Disabilities **(COMPELETE 05022020)**    | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | Launch on EVSS; redev to BGS Q4
+| View Rated Disabilities                             | vsa-ebenefits | Q1        | Q1        | Q1        | Q2        | **(COMPELETE 05022020)**; redev to BGS Q4
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q3        | Launch with Modify
-| Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
-| View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q3        | BGS integration
+| Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q4        | New dev on full 2018 686c (EBN using 2014 686c)
+| View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q4        | BGS integration
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Submit to Central Mail; Oct 2020 launch for alignment
 | Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | New VRE (CMS) integration required
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Likely Lighthouse integration (BGS), launch with Modify
@@ -22,10 +22,10 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required (pushed due to COVID)
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required (pushed due to COVID)
-| Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
-| Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
-| View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
-| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q4        | Q4        | Q4        | Requires Discovery, possible new LGY integration required
+| Calculate Home Loan Benefit                         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
+| Apply for Certificate of Eligibility (1880)         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
+| View Specially Adapted Housing Grant Status         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
+| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | --        | --        | --        | --        | BGS Integration
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
