@@ -7,8 +7,6 @@ In this folder, you will find documentation about design efforts related to the 
 _Sprint 12-14_ 
 
 ### Current Version Wireflow:
-![Current Version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v4-2.jpg "Iteration One")
-
 [Link to documentation of the wireflow process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/design/thumbnail-mapping)
 
 ## Prototyping
@@ -27,8 +25,9 @@ Documentation containing descriptions, feedback, and content for each chapter's 
    - Page 1: [Personal details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md)
    - Page 2: [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-contact-information.md)
 - **Chapter 2: Select Supplies** 
-   - Page 1: [Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md)
-   - Page 2: [Accessories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md)
+   - Page 1: [Supply selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-supply-seletion.md)
+   - ~~Page 1: [Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md)~~ (Archived)
+   - ~~Page 2: [Accessories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-accessory-selection.md)~~ (Archived)
 - **Chapter 3: Review order** 
    - [Review order](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-review.md)
 - **Confirmation screen** 
