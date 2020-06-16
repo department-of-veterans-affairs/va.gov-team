@@ -10,3 +10,6 @@
 - If your medical intake forms were done online, what do you think would happen to your information/data?
 - In your ideal world, how would your information get to the right place/person for your visit?
 - How many forms/clipboards/etc do you fill out on average before a visit? during? after?
+- Will you tell me about the last time you received specialty care? What was that experience like?
+- What sorts of forms did you have to fill out in order to receive that specialty care? 
+- How would you prefer to inform your care provider of your prescriptions/allergies/etc?
