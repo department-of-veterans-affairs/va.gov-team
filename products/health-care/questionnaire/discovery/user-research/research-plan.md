@@ -52,7 +52,7 @@ June 22, 2020 | 11AM – 7PM
 June 23, 2020 | 11AM – 7PM
 June 24, 2020 | 10AM – 4PM
 
-If needed, additional sessions can be scheduled Friday, June 25 from 11AM – 7PM EST.
+If needed, additional sessions can be scheduled Friday, June 26 from 11AM – 7PM EST.
 	
 ## Team Roles	
 - Moderator: Aricka Lewis
