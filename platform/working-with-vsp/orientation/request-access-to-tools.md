@@ -19,7 +19,7 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 1. If you haven't already, check your email for an invitation to the Department of Veterans Affairs GitHub Organization, and join! If you have not received an invitation please follow the steps in [Github User Requests](https://github.com/department-of-veterans-affairs/github-user-requests).
  
-1. Make sure you have "Write" access (not just "Read" access) to the [va.gov-team GitHub repository](https://github.com/department-of-veterans-affairs/va.gov-team). If you don't have the appropriate access, or if you're unsure, let VSP know in the #vfs-platform-support Slack channel.
+1. Make sure you have "Write" access (not just "Read" access) to the [va.gov-team GitHub repository](https://github.com/department-of-veterans-affairs/va.gov-team). If you don't have the appropriate access, or if you're unsure, let VSP know in the [#vfs-platform-support](https://app.slack.com/client/T03FECE8V/CBU0KDSB1) Slack channel.
 
 1. Add information to your Github profile:
     * Organization: ```Your company name```
