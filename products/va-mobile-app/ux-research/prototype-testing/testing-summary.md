@@ -276,8 +276,10 @@ Lastly, one participant voiced security concerns around storing sensitive docume
 ### Next Steps
 - **Refine living roadmap to prioritize the most useful features for MVP:**
     - **Heighten the priority of delivering more robust notifications**
+      - **Explore tech feasibility of notifications on multiple platforms (text, email, push, in app)**
     - **Maintain the priority of an editable profile**
     - **Maintain the priority of facility locator**
+      - **Explore the tech feasibility of 'saving' a VA location from facility locator to app**
 - **Because all ways the document feature could be interpreted were useful, prioritize one for MVP. Pending tech discovery, documents pulled from VA profile and displayed to a user by the app seems like the most feasible route to pursue.**
 - **Start tech discovery of customizable home screen for MVP**
 
