@@ -35,7 +35,7 @@ _Is our hypothesis right that limited Claims and Health features plus some stand
 
 ### Yes, claims and health seem like the right places to start
 
-During co-design, claims and health features were added by all participants. The co-design exercise began with participants being asked to communicate their own feature ideas from scratch, and then allowed them to add features from a pre-defined set. During both portions, claims and/or health were cited by all participants. In prototype testing, participants responded well to health and claim feature as represented in the low-fi prototype. Below is a summary of how specific health and claims features ranked in co-design: 
+During co-design, claims and health features were added by all participants. The co-design exercise began with participants being asked to communicate their own feature ideas from scratch, and then allowed them to add features from a pre-defined set. During both portions, claims and/or health were cited by all participants. In prototype testing, participants responded well to health and claim features as represented in the low-fi prototype. Below is a summary of how specific health and claims features ranked in co-design: 
 
 ### Health features are highly useful. Appointments, Secure Messaging, and Rx refill are the most useful health features.
 
@@ -150,6 +150,7 @@ There may be some risks with taking a claims-only or health-only approach for an
 ### Next Steps
 - **Refine living roadmap to prioritize the most useful features within claims and health**
   - **Heighten priority of appointments and Secure Messaging**
+      - **Further investigate how Veterans use Secure Messaging (e.g. how often do Vets edit their recipient list? Manage folders? Are these things important to replicate from MHV into a mobile app?)
   - **Maintain priority of Rx refill**
   - **Maintain the high priority of checking a claim's status**
   - **Maintain or lower priority of uploading a document to a claim**
@@ -282,6 +283,7 @@ Lastly, one participant voiced security concerns around storing sensitive docume
       - **Explore the tech feasibility of 'saving' a VA location from facility locator to app**
 - **Because all ways the document feature could be interpreted were useful, prioritize one for MVP. Pending tech discovery, documents pulled from VA profile and displayed to a user by the app seems like the most feasible route to pursue.**
 - **Start tech discovery of customizable home screen for MVP**
+- **Consider testing customizable home screen as part of more minimal prototype to see if it's still important when the app is  smaller**
 
 
 
@@ -343,6 +345,19 @@ Some form of learning about VA benefits was added by 4 participants in co-design
 ### Next Steps
 
 - **Add all features Veterans voiced desire for in co-design to living roadmap for future consideration, testing, and prioritization**
+   - **Direct contact with people at VA**
+      - **Request a call from VA**
+      - **Chat with claims support**
+      - **Other chat**
+   - **Learning about VA benefits and updates**
+      - **'Benefits triage' tool**
+      - **Personalized suggestions**
+      - **Updates to your benefits**
+   - **VSOs**
+      - **Find a VSO**
+      - **Chat with your VSO**
+      - **Integration of VSO into claim status page**
+      
 
   
 
