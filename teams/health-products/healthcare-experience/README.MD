@@ -24,5 +24,5 @@ What is a brief description or list of current work efforts?
 
 Key Documents
 
-- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/teams/health-products/healthcare-experience/team-charter.md)
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md)
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap.md)
