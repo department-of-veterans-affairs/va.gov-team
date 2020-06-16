@@ -795,8 +795,6 @@ Back to [Table of Contents](#table-of-contents)
 **Open Issues:**
 - [[DOCUMENTS]: GIBCT - Section 702 PDF MUST be reviewed for accessibility - #7985](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7985)<br/>
 **Opened:** April 14, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT Caution Flags - Non-native focus targets SHOULD NOT have the yellow focus halo - #9310](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9310)<br/>
-**Opened:** April 14, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -831,8 +829,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[COGNITION]: GIBCT EYB - Firefox MUST show fields in error correctly - #10168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10167)<br/>
-**Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - iOS VoiceOver MUST read out the aria-label of the learn more buttons - #10201](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10201)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - JAWS and IE11 SHOULD NOT announce extra information when I toggle accordions - #10200](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10200)<br/>
