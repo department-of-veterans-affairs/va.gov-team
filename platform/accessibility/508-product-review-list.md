@@ -680,8 +680,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [[KEYBOARD]: Ensure content structure may be navigated by tab order - #3552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3552)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
-- [[COLOR]: Pittsburgh Facility - side navigation hover style contrast is too low - #3413](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3413)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: Pittsburgh Sidenav - Sidenav headings lack semantic structure - #3441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3441)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
@@ -818,10 +816,6 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** May 18, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 8, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[COGNITION]: GIBCT EYB - CONSIDER making the Show Next and Show All buttons use full button styles - #9952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9952)<br/>
-**Opened:** June 8, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-- [[DESIGN]: GIBCT EYB - CONSIDER updating the School Locations table to use VA table styles - #9954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9954)<br/>
-**Opened:** June 8, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
 
 Back to [Table of Contents](#table-of-contents)
@@ -842,7 +836,6 @@ Back to [Table of Contents](#table-of-contents)
 **Audit status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020._<br/>
 
 **Open issues**
-- [[SCREENREADER]: VAOS - Past appointments MUST manage focus when users filter their appointments - #8912](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8912)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [[COGNITION]: VAOS - CONSIDER making the Past Appointments update button enabled at all times - #8940](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8940)<br/>**Production** | **Opened:** May 8, 2020 | **Severity:** _508-defect-4 - **Trivial**_
 
 Back to [Table of Contents](#table-of-contents)
@@ -859,8 +852,6 @@ A number of issues were sitewide, design system, CMS, and are listed in the [sit
 
 - [[SCREENREADER, COGNITION]: Bold text SHOULD be made headings, in this instance - #7770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7770)<br/>
 **Production** | **Opened:** April 8, 2020 | **Severity:** _508-defect-2 - **_Serious_**
-- [[COGNITION]: SHOULD use a list for a list of options - #7803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7803)<br/>
-**Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-2 - **_Serious_**
 - [[SCREENREADER, COGNITION]: State abbreviations SHOULD be coded as such - #7808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7808)<br/>
 **Production** | **Opened:** April 9, 2020 | **Severity:** _508-defect-3 - **_Minor_**
 - [[SCREENREADER, COGNITION]: CONSIDER using semantic markup for screen reader users - #7834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7834)<br/>
