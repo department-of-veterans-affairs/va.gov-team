@@ -10,11 +10,13 @@ June 12, 2020
 
 Two discovery sprints were done from March to May 2020 to understand Veteran desirability for a VA mobile app. 
 
-In the March 2020 discovery sprint ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)) two bets were made by the team. First, that authenticated features are more valuable to Veterans than unauthenticated features. Second, that a mobile application provides more value to Veterans than a mobile VA.gov experience. In the May 2020 discovery effort ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/user-interviews/research-summary.md)),  the team focused on learning about Veteran interactions with VA, pain points, mobile behaviors, and desire for a VA mobile app. Using insights from these prior studies, the June 8-10, 2020 research sessions focused on:  
+In the March 2020 discovery sprint ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/discovery-sprint/veteran-desirability/usability-testing/VA%20Mobile%20App%20Discovery_%20Usability%20test%20report.pdf)) two bets were made by the team. First, that authenticated features are more valuable to Veterans than unauthenticated features. Second, that a mobile application provides more value to Veterans than a mobile VA.gov experience. In the May 2020 discovery effort ([view research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/user-interviews/research-summary.md)),  the team focused on learning about Veteran interactions with VA, pain points, mobile behaviors, and desire for a VA mobile app. 
 
-1. A co-design 'Build Your VA Mobile App' exercise to understand, in a Veteran's own words, what they would like in a mobile app. The goal of this was to help refine the living roadmap, MVP features, and plan for future testing. 
+Using insights from these prior studies, the June 8-10, 2020 research sessions focused on:  
+
+1. **A co-design 'Build Your VA Mobile App' exercise** to understand, in a Veteran's own words, what they would like in a mobile app. The goal of this was to help refine the living roadmap, MVP features, and plan for future testing. 
    - [View co-design exercise template](https://app.mural.co/t/adhocvasu2804/m/adhocvasu2804/1591805434380/a72ac309592d08842f0526b531e17c0175763f82)
-2. A limited interactive prototype to test the usefulness of a limited app, validate or challenge our hypothesis about what features should be in the MVP, and understand if Veterans would download a limited app. 
+2. **A limited interactive prototype** to test the usefulness of a limited app, validate or challenge our hypothesis about what features should be in the MVP, and understand if Veterans would download a limited app. 
    - [View interactive prototype](https://www.figma.com/proto/gUvALOW6hmAcWRwpJKCumq/VA-Mobile-Concept-%E2%80%93-VASU-v2?node-id=471%3A0&scaling=scale-down)
 
 
