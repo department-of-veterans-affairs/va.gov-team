@@ -8,7 +8,7 @@
 - Stakeholders: N/A
 
 ## The Problem
-We have identified some improvements to the error logging and reporting in sentry and other tools. In order to more effectively trace errors coming through for veterans. Right now, the primary workaround is to find the exact time a veteran made a submission and try and read the logs. We did some discovery around this in #6813 and realized there are a number of possible fixes and directions to go with this.  Therefore, we have decided to create an Epic and a product to continue tracking the work and improvement to how we do error logging and notifications to the veteran.
+We have identified some improvements to the error logging and reporting in sentry and other tools to more effectively trace errors coming through for veterans. Right now, the primary workaround is to find the exact time a veteran made a submission and try and read the logs. We did some discovery around this in #6813 and realized there are a number of possible fixes and directions to go with this.  Therefore, we have decided to create an Epic and a product to continue tracking the work and improvement to how we do error logging and notifications to the veteran.
 
 Primary Issues:
 1. No way to correlate veteran-facing errors to Call Center calls.
