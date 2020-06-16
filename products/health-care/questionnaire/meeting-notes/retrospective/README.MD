@@ -1,0 +1,1 @@
+- [Sprint 23 06/03/20 - 06/16/20](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint23.md)
