@@ -124,7 +124,7 @@ In a series of three or more items, use a comma before the final and or or.
 
 | Recommended | Not recommended |
 | :---------- | :----------- |
-| I love kittens, puppies,and bunnies. | I love kittens, puppies and bunnies. |
+| I love kittens, puppies, and bunnies. | I love kittens, puppies and bunnies. |
 
 #### Commas after introductory words and phrases
 
