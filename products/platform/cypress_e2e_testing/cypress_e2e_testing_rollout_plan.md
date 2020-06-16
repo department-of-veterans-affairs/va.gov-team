@@ -48,25 +48,25 @@ We will be doing two sets of testing for this phase of the rollout.
  - % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
  - Number of times form tester is utilized in Cypress (data to be pulled from from Circle)
 
-### Stage A: Canary
+~~### Stage A: Canary~~
 
 
-#### Planning
+~~#### Planning~~
 
-- Length of time: 2 weeks
-- Percentage of Users (and roughly how many users do you expect this to be): 1-3 VFS Teams
+- ~~Length of time: 2 weeks~~
+- ~~Percentage of Users (and roughly how many users do you expect this to be): 1-3 VFS Teams~~
 
-#### Results:
-- Number of unique users: 2-6 Users
-- Metrics at this stage (per your "success criteria"):
-  - Number of testing blockers identified by test teams
-  - Amount of time it takes to write e2e tests in Cypress vs Nightwatch
-  - Amount of time the system takes to run tests in Cypress vs Nightwatch
-  - Amount of time it takes to write form tests in Cypress vs Nightwatch
-  - Number of documentation gaps identified
-- Was the data submitted (if any) easy for VA to process?:
-- Types of errors logged: 
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+~~#### Results:~~
+- ~~Number of unique users: 2-6 Users~~
+- ~~Metrics at this stage (per your "success criteria"):~~
+  - ~~Number of testing blockers identified by test teams~~
+  - ~~Amount of time it takes to write e2e tests in Cypress vs Nightwatch~~
+  - ~~Amount of time the system takes to run tests in Cypress vs Nightwatch~~
+  - ~~Amount of time it takes to write form tests in Cypress vs Nightwatch~~
+  - ~~Number of documentation gaps identified~~
+- ~~Was the data submitted (if any) easy for VA to process?:~~
+- ~~Types of errors logged:~~
+- ~~What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?~~
 
 ## Go Live!
 
