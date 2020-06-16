@@ -6,36 +6,53 @@
 ## Phase I: moderated production testing
 
 ### Planning:
-- Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+
+As Phase 1 of our release, we are sending the drafted style guide to VSP leadership for feedback. We're taking this approach because we assume that VSP (in fact, our team) will be the heaviest users of the style guide.
+
+- Date range: VSP Sprints 27 & 28 (June 2020)
+- Number of users: ~5
+- How you'll recruit: VSP leadership/Slack message
+- How you'll test and give access: Drafted style guide is in a google doc
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
 
-## Phase II: 
+- Number of users: 
+- Number of issues identified/fixed: 
+- Types of errors: 
+- Any UX changes necessary? 
+- If yes, what: 
+
+## Phase II: unmoderated production testing
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Date range: until June 30, 2020
+- How you'll test and give access: Publish style guide in `va.gov-team` GitHub repo, socialize (via Slack) with VSP only
+- Success criteria: 
+  - VSP references the style guide & finds it useful (qualitative data - Slack)
+  - If terms are added to word list, 85% of additions follow documented process and no words are introduced that conflict with other words or definitions on the list
 
+### Results: 
+
+- Number of users: 
+- Number of issues identified/fixed: 
+- Types of errors: 
+- Any UX changes necessary?
+- If yes, what: 
+- Success criteria: 
+  - Did VSP members reference and find it useful? 
+  - Were any terms added to word list? 
+  
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
+
+Add link to docs style guide to MVP homepage and socialize word list on 6/30 Team of Teams meeting.
+
+- Desired date: June 30, 2020
+- Post-launch KPI 1: Number of additions to word list
+- Post-launch KPI 2: % of additions to word list that follow proposed addition process
+- Post-launch KPI 3: Number of VSP support responses per month that include a link to the documentation style guide _(it is unlikely that we'll be able to get an accurate total here)
 
 ### 1-month results:
 - Number of unique users: x
