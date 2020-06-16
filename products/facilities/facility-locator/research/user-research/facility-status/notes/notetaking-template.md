@@ -11,7 +11,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
 - **First, I'll ask you a few warm up questions to get us started.
-- **Then, I'll ask you to share your screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
+- **Then, I'll be sharing my screen.** This will allow us to follow along with you. I'll send you a link and we'll look at the location finder together and I'll ask you a few questions about it.
 - **You'll be participating in four exercises.** I will send you a link to a different website for that. 
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
