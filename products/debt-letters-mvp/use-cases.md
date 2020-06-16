@@ -10,31 +10,35 @@ Link to product outline: [Debt Letters MVP](https://github.com/department-of-vet
 <details>
 <summary></summary>
   
-- [Veteran wants to view a debt's history](#veteran-wants-to-view-a-debts-history) 
-- [Use Case B](#use-case-b)
+- [Use Case A](#use-case-a) 
+- [Veteran wants to view a debt's history](#veteran-wants-to-view-a-debts-history)
 - [Use Case C](#use-case-c) 
 
 </details>
+
+## Use Case A
+
+* Description
+
+* Link to designs
+
+* Instructions to access in Staging
+_Note: credentials should be stored in sensitive repos only_
 
 ## Veteran wants to view a debt's history
 
 * Description
 
-* Link to designs
-
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
-
-## Use Case B
-
-* Description
 This use case applies if a Veteran wants to view a debt's history, download demand letters, and see the statuses associated with a debt.
 
 * Link to designs
+
 Please reference [the design on UXPin](https://preview.uxpin.com/4081962ed045b5b2584e1a818b6b6f6b47071c0d#/pages/129818682/simulate/no-panels?mode=i)
 
 * Instructions to access in Staging
+
 _Note: credentials should be stored in sensitive repos only_
+
 TBD
 
 ## Use Case C
