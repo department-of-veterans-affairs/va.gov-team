@@ -10,7 +10,7 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
 
 **Points of Contact**
-- Slack Channel - #vsa-clipboard
+- Slack Channel - [#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
 - DSVA Product Lead: [Lacy Higley](https://dsva.slack.com/team/U5HMZDQSK)
 - Team Product Manager: [Amanda Buckley](https://dsva.slack.com/archives/D01489U4HGU)
 - Research & Design: [Aricka Lewis](https://dsva.slack.com/archives/D014XE4KRH9)
