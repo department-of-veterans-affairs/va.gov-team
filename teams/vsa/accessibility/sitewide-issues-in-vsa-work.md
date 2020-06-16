@@ -41,9 +41,6 @@ None
         
 1. sitewide, design system, CMS [AXE-CORE] Heading levels SHOULD increase by one  - alert headings
 
-    - #vsa-public-websites 
-        - [#7708](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7708) in Production, Opened: April 7, 2020, 8 pages impacted
-        - [#6375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375) in Production, Opened: March 2, 2020, 6 pages impacted
     - #vsa-facilities
         - [#7244](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7244) in Production, Opened: March 26, 2020
     - #vsa-bam2
