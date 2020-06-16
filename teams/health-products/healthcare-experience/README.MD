@@ -6,7 +6,7 @@ Our goal is to improve the in-person and online pre-appointment experiences for 
 
 **Slack Channels**
 
-- #vsa-clipboard
+- [#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
 
 **Github Product Folder**
 
@@ -14,7 +14,7 @@ Our goal is to improve the in-person and online pre-appointment experiences for 
 
 **Github Labels**
 
-- vsa-healthcare-exp
+- [vsa-healthcare-exp](https://app.zenhub.com/workspaces/vsa-5dcabe208aade000013aafba/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
 
 
 **Points of Contact**
