@@ -412,10 +412,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [508-defect-1 ❗ Launchblocker [SEMANTIC MARKUP]: Form elements MUST be paired with labels - #9173](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9173)<br/>**Opened:** May 15, 2020 | **Severity:** 508-defect-1 — **_Critical_**
-- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #9170](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9170)<br/>**Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Serious_**
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #9305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9305)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
-- [508-defect-2 [SCREENREADER, COGNITION]: Edit buttons SHOULD have context to distinguish their purpose - #9303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9303)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
 - [508-defect-3 [SCREENREADER, COGNITION]: Phone numbers SHOULD use the new aria-label pattern - #9299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #9273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9273)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [508-defect-3 [SEMANTIC MARKUP]: Radio inputs with the same name attribute value MUST be part of a group - #9174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)<br/>**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Minor_**
