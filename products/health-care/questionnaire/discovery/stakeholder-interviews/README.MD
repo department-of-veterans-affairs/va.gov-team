@@ -23,7 +23,7 @@
 
 **Stakeholders who will be involved or interviewed:**
 - Business Stakeholder: VEO - Vet Experience Office - Denise Kitts
-- Former Dep Dir Loma - Linda former- Rob D. Shane ?
+- Former Loma Linda team: Shane Elliott, Rob Durkin
 
 **Potential directly or indirectly aligned product owners:**
 
@@ -31,7 +31,7 @@
   - This stakeholder can assist in updated patient intake forms documentation being done with both Vista and Cerner to ensure we are leveraging the modernization of the EHR project for consolidated and consistant documentation across facilities and specialites. 
 - API Owners- Lighthouse (Kendra Skeene)
 
-- MyHealtheVet- *[insert stakeholder]*
+- MyHealtheVet- Kathy Frisbee 
 
 - Connected Care- clinical tool VCM *[insert stakeholder]*
 
@@ -39,6 +39,16 @@
 
 - https://developer.va.gov/ - Dave Mazik
 
-- Reg/Scheg - Steven B.
+- Reg/Scheg - Steven Barrs
   - engineering- VA mobile- back end services apps
+  
+- COVID Screener: Patrick Bateman & Martha Wilkes
+
+- eScreening Team: Angela Gant Curtis + others
+
+- From Shane: John Byrne, James Pitman, Kelly Hajerich, Terry Newton
+
+- Dr. Evans
+
+- Kellie Condon
 
