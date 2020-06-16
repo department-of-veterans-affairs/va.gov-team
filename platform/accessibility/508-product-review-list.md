@@ -877,7 +877,13 @@ Back to [Table of Contents](#table-of-contents)
 
 ### Appeal Modernization Process (AMA) Phase 2
 
-**Audit status:** _Staging review completed by VSA, April 10, 2020._<br/>
+**Audit status:** 
+
+- _[Staging review completed by VSA, April 10, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7647)._
+
+- _[Full accessibility audit completed by VSA, June 16, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8697)._
+
+- _Sent to VA 508 Office for review, June 16, 2020._
 
 **Open issues**
 
