@@ -28,7 +28,7 @@ For Veterans in need of immediate support, the tool provides quick access to the
 **Easy-to-update screening protocols** <br>
 The tool's features allow us to update questions within 24 hours to meet evolving needs.
 
-The Office of the CTO will continue to closely monitor usage, performance, and feedback, and will update content and features as needed. For questions or to offer feedback, contact us at [email].
+The Office of the Chief Technology Officer (CTO) will continue to closely monitor usage, performance, and feedback, and will update content and features as needed. For questions or to offer feedback, contact us at [email].
 
 ## WHAT VETERANS ARE SAYING
 
