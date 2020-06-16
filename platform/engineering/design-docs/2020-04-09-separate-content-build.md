@@ -168,7 +168,8 @@ The current front end build will be split up into two distinct builds:
     - Output: JavaScript and CSS bundles
     - This essentially maps to the current full deploy minus the content
 
-The output of the content build will be deployed to one S3 bucket, and the output of the application build will be deployed to a different one. The separate bucket for the content build output will be new.
+There will be two S3 buckets. One will hold the output of the application build, and the other will hold the output of the content build.
+Previously there would just be one bucket to hold the output of both builds.
 
 **Another important note:** The deploy process will not automatically coordinate these two deploys to
 make an application live for the first time. The process will be to manually:
@@ -207,7 +208,16 @@ which corresponds to the URLs on VA.gov. For example, `/education/index.html` is
 the file that's served at www.va.gov/education/.
 
 The output of the application build **currently** live in the `/generated/`
-directory. By using different buckets for the application build output and content build output, the `/generated` directory can be removed.
+directory. To support the transition, the **new** application build will put its
+assets in the `/applications/` directory.
+
+#### Nginx Reverse Proxy
+
+Our reverse proxy currently routes all va.gov requests to the same S3 bucket.
+When we split things up to have the application build in one bucket and the content in another we will need to update the routing.
+
+All static content (html, pdf files) will be proxied to the bucket containing the content build,
+and requests for everything else (js, css files_) will be proxied to the bucket containing the application build.
 
 ![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
 
