@@ -23,9 +23,9 @@ Set a date and walk back the various steps.  This achieves a few things:
 Most of View Dependents is finished, but with this timeline, the remaining steps (Including Collab Cycle) will need to be merged together.
 
 Collaboration Cycle = 🌀  
-May be more time intensive than anticipated = ⏳  
-Clarification needed = 🤷‍♂️
-In progress, or about to be = 👈
+May be more time intensive than anticipated = ⏳   
+Clarification needed = 🤷‍♂️  
+In progress, or about to be = 👈  
 
 ## Events  
 ### Sprint 19 (T-28)  
