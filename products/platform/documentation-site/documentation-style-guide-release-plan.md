@@ -1,7 +1,7 @@
 # Documentation Style Guide Release Plan 
 
-## Product: Documentation Site ([product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md))
-## Feature: Documentation Style Guide ([super epic](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10006))
+- Product: Documentation Site ([product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md))
+- Feature: Documentation Style Guide ([super epic](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10006))
 
 ## Phase I: moderated production testing
 
