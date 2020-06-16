@@ -20,7 +20,7 @@ All teams working on VA.gov need to have a *Verified GitHub Team*, which is for 
 * Teams are responsible for [adding and removing members](https://help.github.com/en/enterprise/2.19/admin/user-management/adding-people-to-teams) from a *Verified GitHub Team*. 
     * Once approved, new team members, should be added by the *Verified GitHub Team’s* [maintainers](https://help.github.com/en/enterprise/2.19/user/github/setting-up-and-managing-organizations-and-teams/giving-team-maintainer-permissions-to-an-organization-member). 
     * If a team member leaves a *Verified GitHub Team* they need to be removed within three days of departing the team by one of the team’s maintainers and then: 
-        * Use the GitHub issue template “Offboarding Request” in the [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team) to remove any access from the user.
+        * Use the GitHub issue template [Offboarding Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=product+support%2C+operations%2C+Offboarding%2C+analytics-insights&template=offboarding-request.md&title=Offboarding+of+%5Bindividual%5D) in the va.gov-team repo to remove any access from the user.
 
 ### Making Naming and Maintainer Changes to a Verified GitHub Team
 
