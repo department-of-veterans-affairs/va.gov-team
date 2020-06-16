@@ -18,17 +18,17 @@
 | May 4 | Staging demo - review VA.gov Platform feedback with Program team | Complete|
 | May 4-8 | Program team reviews Staging functionality and provides additional feedback | Complete
 | May 11 | Request Accessibility spot check | Complete
-| May 15 | Frontend complete | In progress
-| May 15 | Backend complete | In progress
+| May 15 | Frontend complete | Complete
+| May 15 | Backend complete | Complete
 | May 18 - May 22 | Dark Release functionality testing with CARMA| Complete
-| May 29 | Phase 0 Dark Release<sup>+</sup> | On track
-| June 1 | VA.gov Platform Full Accessibility and 508 Office Audit |On track |
-| June 8 | Delivery and testing of PDF attachment |
+| May 29 | Phase 0 Dark Release<sup>+</sup> | Complete
+
 
 
 ## Moved to July
 | Date | Milestone | Notes | 
 | --- | --- | --- | 
+|  | Delivery and testing of PDF attachment |
 | TBD | VA.gov Platform Privacy and Security Review | On track
 | TBD | VA.gov Platform Staging Review  | On track|
 | July 30 | Soft Release<sup>+</sup> | On track
@@ -59,21 +59,21 @@ For more information on the VSP (VA.gov Platform) Collaboration touchpoints, ple
 | Requirement | Ticket # | Status |
 | --- | --- | --- |
 | User will be able to: | 
-| Navigate to the 10-10CG online application| n/a| :zap:
-| View instructions if the online form is unavailable | n/a | :zap: |
+| Navigate to the 10-10CG online application| n/a| :white_check_mark:|
+| View instructions if the online form is unavailable | n/a | :white_check_mark: |
 | Start 10-10CG application online without logging in| 155 | :white_check_mark:|
 | Fill in all fields from the paper 10-10CG form | n/a | :white_check_mark:|
-| Ensure that all fields have been completed appropriately (data validation) | n/a | :white_check_mark:|
+| Ensure that all fields have been completed appropriately| n/a | :white_check_mark:|
 | Select a medical facility from a program-approved list | n/a | :white_check_mark:|
 | Review entered data prior to submission | 176 | :white_check_mark:|
 | Provide a signature for Veteran and Caregiver(s) | 164 | :white_check_mark:|
-| Recieve and print a confirmation message after submission | n/a | :zap: |
+| Recieve and print a confirmation message after submission | n/a | :white_check_mark: |
 | Receive instruction to print and mail the form if online submission is not available| n/a | :zap: |
 | Not able to edit form after submission| 165 | :white_check_mark:|
 | --- | --- | 
 | Business will be able to: | 
-| Verify veteran identity through MPI and ICN number | n/a| :zap: |
-| Recieve application in CARMA immediately | n/a | :no_entry_sign:|
-| Recieve a paper version of the 10-10CG with filled in information | n/a | :zap: |
+| Verify veteran identity through MPI and ICN number | n/a| :white_check_mark: |
+| Recieve application in CARMA immediately | n/a | :white_check_mark:|
+| Recieve a paper version of the 10-10CG with filled in information | n/a | Moved to Phase 2 |
 
 
