@@ -2,7 +2,7 @@
 
 **Description of Current Work**
 
-What is a brief description or list of current work efforts?
+Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
 
 **Slack Channels**
 
