@@ -95,6 +95,7 @@ When you push your code to a feature branch or merge to master, the automated bu
     - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
     - [Tanaguru Contrast Finder](https://contrast-finder.tanaguru.com/)
     - [Stark - Color Contrast and Color Blindness Plugin](http://www.getstark.co/)
+    - [Colour Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en) - helpful Chrome extension for checking work in progress
 #### Colorblindness
 - [Color blindness: how to design an accessible user interface](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)
 - Check for colorblindness issues in live sites using the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en)
