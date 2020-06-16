@@ -4,30 +4,25 @@ This research is for initial discovery for the Health Care Experience, Questionn
 
 **Background**
 
-Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
-The problem: As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team, so that they can save time before seeing a doctor.
+The problem: As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
 
 **Research questions**
-  - What are some current problems/pain points Veterans face when filling out information before visits?
-  - Who are Veterans interacting with when they are filling out documents? (clinicians, docs, etc.)
+  - Do Veterans see forms/questionnaires as an acute problem or pain point?
+  	- If yes, what are some current problems/pain points Veterans face when filling out information before visits?
+  - Who do Veterans believe they are interacting with when they are filling out documents? (clinicians, docs, etc.)
   - What role do Caregivers have in relation to certain forms?
-  - Which forms are the highest priority for Veterans?
-  - How do these forms fit into the Veteran health journey?
-  - Is the context always pre-visit? If no, what types of forms would exist post-visit?
-  - How can we clearly name this team/product?
+  - Which forms (if any) do Veterans see value in? What is that value? 
+  - How do these forms fit into the Veteran health journey? How are they notified about the forms? When do they fill them out? (pre-visit, post-visit)
+  - What do Veterans call these forms, questionnaires, etc.? 
   
 **Hypothesis & assumptions**
-- Caregivers will have a unique experience related to assisting filling out forms for Veterans
-- Veterans may struggle to write legibly on a printed form so the care team can read during the visit
-- Veterans may not understand that all their paper documentation is not transcribed into their chart and reviewed by their care team at subsequent visits.
-- Veterans may have concerns about using pen, paper, clipboard that may have not been cleaned before their use 
-- Veterans may want to print out the intake form and bring with them to their visit to discuss with their care team
-- Veterans may miss completing the mailed version of the printed intake form and completing before their visit
-- Veterans may not understand that their health records may have different results/updates as they use multiple VA and community care centers.
-- Veterans may not understand that they can use their personal devices to complete pre-visit documentation on their own time
-- Veterans may not know how long it will take them before a visit to fill out the forms and not arrive in enough time
-- Veterans may not know they can update their medical history to inform their care team of current status. ie. Medications and Allergies.
+- Hypothesis: Veterans may have assumptions about how their data is used and shared that may differ from reality (i.e. what happens to their data when they submit the clipboard, what they WANT to happen to their data.
+- Hypothesis: Filling out forms is a pain point/redundant task. 
+- Hypothesis: Veterans are asked to complete many different types of forms in different formats/delivery methods. 
+	- Assumption: Veterans want an option to complete these forms digitally. 
+- Caregivers will have a unique experience related to assisting filling out forms for Veterans.
 
 
 ## Method	
@@ -37,8 +32,8 @@ We will conduct remote interviews via Zoom using the Perigean contract.This meth
 We would like to talk with 10 participants:
 - At least one Caregiver
 - At least 3 women
-- Had an appointment at a VAMC in the last six months
-- Has received primary or specialty care in the last year
+- Had an appointment at a VAMC in the last six months (Veterans who have had both in person and telehealth appointments encouraged)
+- Has received primary or specialty care at a VA in the last year
 - At least 3 participants between ages 24-40
 - At least 1 with a Section 508 disability _(Review with Jennifer Strickland)_
 
@@ -61,7 +56,7 @@ If needed, additional sessions can be scheduled Friday, June 26 from 11AM – 7P
 - Project point of contact: Amanda Buckley, Aricka Lewis
 - Participant(s) for pilot test: TBD	
 - Note-takers: TBD
-- Observers: Amanda Buckley (abuckley@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Mark Dewey (mdewey@governmentcio.com), Lance Sanchez (osanchez@governmentcio.com)
+- Observers: Amanda Buckley (abuckley@governmentcio.com), Lacey Higley (lacey.higley@va.gov), Mark Dewey (mdewey@governmentcio.com), Lance Sanchez (osanchez@governmentcio.com), Lauren alexanderson (lauren.alexanderson@va.gov), Patrick Bateman (patrick.bateman@va.gov), Stephen Barrs (stephen.barrs@va.gov), Mike Chelen (michael.chelen@va.gov), Robert Durkin (robert.durkin@va.gov) 
 
 ## Resources	
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)	
