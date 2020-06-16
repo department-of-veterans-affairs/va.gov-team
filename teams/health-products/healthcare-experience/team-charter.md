@@ -21,9 +21,10 @@ Healthecare - Questionnaires/Intake forms
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Responsibilities:
-Our goal is to improve the in-person and online pre-appointment experiences for veterans, contribute to physical distancing efforts in VA facilities, and better integrate veteran-provided data in VA workflows by providing veterans with a digital option to complete pre-appointment questionnaires and screeners.
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
-The problem: As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team, so that they can save time before seeing a doctor.
+The problem: As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
+
 
 ### Roadmap:
 [Questionnaires 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
