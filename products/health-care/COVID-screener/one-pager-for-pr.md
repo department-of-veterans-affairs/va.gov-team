@@ -28,8 +28,8 @@ For Veterans in need of immediate support, the tool provides quick access to the
 The tool's features allow us to update questions within 24 hours to meet evolving needs.
 
 
-# VHA national and local leadership + Office of the CTO
-**How we're collaborating across the enterprise to create a better Veteran and employee experience**
+# Veterans Health Administration (VHA) national and local leadership + Office of the Chief Technology Officer (CTO)
+**How we're collaborating across the organization to create a better Veteran and employee experience**
 
 This project is an example of the innovative and collaborative nature of VA leadership and employees across the organization.
 
