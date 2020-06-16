@@ -217,7 +217,7 @@ Our reverse proxy currently routes all va.gov requests to the same S3 bucket.
 When we split things up to have the application build in one bucket and the content in another we will need to update the routing.
 
 All static content (html, pdf files) will be proxied to the bucket containing the content build,
-and requests for everything else (js, css files_) will be proxied to the bucket containing the application build.
+and requests for everything else (js, css files) will be proxied to the bucket containing the application build.
 
 ![Coordinating deployments to S3](images/separated-content-build/coordinating-deployments-to-s3.png)
 
