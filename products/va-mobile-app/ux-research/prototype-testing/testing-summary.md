@@ -150,7 +150,7 @@ There may be some risks with taking a claims-only or health-only approach for an
 ### Next Steps
 - **Refine living roadmap to prioritize the most useful features within claims and health**
   - **Heighten priority of appointments and Secure Messaging**
-      - **Further investigate how Veterans use Secure Messaging (e.g. how often do Vets edit their recipient list? Manage folders? Are these things important to replicate from MHV into a mobile app?)
+      - **Further investigate how Veterans use Secure Messaging (e.g. how often do Vets edit their recipient list? Manage folders? Are these things important to replicate from MHV into a mobile app?)**
   - **Maintain priority of Rx refill**
   - **Maintain the high priority of checking a claim's status**
   - **Maintain or lower priority of uploading a document to a claim**
