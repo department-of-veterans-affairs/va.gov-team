@@ -1,17 +1,13 @@
 # Conversation Guide Template for Moderated Research
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how we might improve the pre-appointment process of filling out intake forms and questionnaires. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 mintues.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -21,53 +17,59 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions - 5 minutes
 
 Before we begin, let’s start with a few warm-up questions.
 
 - Could you tell me about your service history?
-- Can you tell me about a time you recently checked in for an appointment? What was your experience like?
+- Tell me about a time you recently checked in for an appointment? What was your experience like?
+- Did you have to fill out any information before that visit? If so, what was that experience like?
 
-## First Task: Personal experience - X minutes
+## Topic: Current experience - 10 minutes
 
-- Step 1
-- Step 2
+- What do you normally do to prepare for an appointment/visit?
+- What are the most challenging parts of filling out information before a visit?
+- How many forms/clipboards/etc do you fill out on average before a visit? during? after?
+- Will you tell me about the last time you received specialty care? What was that experience like?
+- What sorts of forms did you have to fill out in order to receive that specialty care?
 
-### Things to watch for:
+### Things to listen for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- _Do Veterans see forms/questionnaires as an acute problem or pain point?_
+- _Where might our product fit into their curent process?_
+- _What do they call the forms?_
 
-## Second Task: Review current intake form - X minutes
+## Topic: Veteran assumptions - 10 minutes
 
-- Step 1
-- Step 2
+- What do you think happens to your data/information when you visit multiple doctors/clinics?
+- How would you want to fill out medical forms (digital, paper, desktop, mobile, etc)?
+- How can we make it easier for you to get your information to your doctor before a visit?
+- If your medical intake forms were done online, what do you think would happen to your information/data?
+- In your ideal world, how would your information get to the right place/person for your visit?
+- How do you think specialty care forms would be different from your initial intake forms?
 
-### Things to watch for:
+### Things to listen for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- _What methods might we explore for delivering forms?_
+- _Their assumptions on what happens to their data_
 
-## Third Task: [TASK NAME] - X minutes
+## Topic: Team/product assumptions - 10 minutes
 
-- Step 1
-- Step 2
+- What sort of information would you want to fill out online first? What would save you the most time?
+- How do you get notified about forms you need to fill out for a visit?
+- 
 
-### Things to watch for:
+### Things to listen for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- _What areas we should focus on first_
+- _
 
-## Post-Task Interview - X minutes
+## Follow-up questions:
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- How would you rate your experience with filling out healthcare related forms?
+- Question
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
