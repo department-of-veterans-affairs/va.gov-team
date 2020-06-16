@@ -77,7 +77,7 @@ We will be doing two sets of testing for this phase of the rollout.
 - Post-launch KPI 3: # of product support requests related to Cypress documentation not meeting the needs of users
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
-### 1-week results:
+### 2-weeks results:
 - Number of unique users: x
 - Post-launch KPI 1: % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
 - Post-launch KPI 2:  # of times form tester is utilized in Cypress (data to be pulled from from Circle)
@@ -87,7 +87,7 @@ We will be doing two sets of testing for this phase of the rollout.
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? 
 - If yes, what: 
 
-### 1-month results:
+### 6-weeks results:
  Post-launch KPI 2:  # of times form tester is utilized in Cypress (data to be pulled from from Circle)
 - Post-launch KPI 3: # of product support requests related to Cypress documentation not meeting the needs of users
 - Any issues with VA handling/processing?: 
