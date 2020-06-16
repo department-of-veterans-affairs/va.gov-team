@@ -35,8 +35,8 @@
 
 
 `+` As defined by the Program team
-- [Dark Release Definition](#dark-release-definition)|
-- [Soft Release Definition](#soft-release-definition) |
+- [Dark Release Definition](#dark-release-definition)
+- [Soft Release Definition](#soft-release-definition) 
 
 For more information on the VSP (VA.gov Platform) Collaboration touchpoints, please see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md).
 
