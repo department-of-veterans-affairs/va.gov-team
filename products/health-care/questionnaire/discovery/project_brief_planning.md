@@ -9,6 +9,8 @@ Healthcare Experience - Questionnaires (TBD)
 
 ### Problem Statement / How Might We statements
 
+As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
+
 - How might we improve the in-person and online pre-appointment experiences for Veterans?
 - How might we contribute to physical distancing efforts in VA facilities?
 - How might we better integrate Veteran-provided data into VA workflows?
