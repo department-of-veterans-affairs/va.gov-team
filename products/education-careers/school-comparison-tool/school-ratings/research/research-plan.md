@@ -4,6 +4,7 @@ As a designer I need to create a research plan to share with my team.
 1. What product & team are you doing this research for?	
   - Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+
 When Veterans are looking for schools within the Comparison tool, they want to know about the experiences of other Veterans to form a better understanding of what their personal experience at the school would be like. Ratings enable Veterans to quickly assess the suitability of a school (both pro and con), bolstering their confidence and level of comfort in deciding if a particular school is right for them.
  
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
@@ -36,9 +37,8 @@ When Veterans are looking for schools within the Comparison tool, they want to k
  - 9 participants
  - GI Bill beneficiaries using a variety of education benefits
     - No more than 4 participants using any particular type of benefit (e.g. Post 9/11, Montgomery, Voc Rehab, etc.)
-A mix of the following:
-   - 4 - 5 GI Bill beneficiaries who will start using their GI Bill benefits in the next 3 months 
-   - 4 - 5 GI Bill beneficiaries who have started using their GI Bill benefits in the past 6 months
+    - 4 - 5 GI Bill beneficiaries who will start using their GI Bill benefits in the next 3 months 
+    - 4 - 5 GI Bill beneficiaries who have started using their GI Bill benefits in the past 6 months
 
 Age Range: 24-54
 
