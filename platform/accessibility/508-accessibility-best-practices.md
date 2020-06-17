@@ -15,6 +15,7 @@
       - [Colorblindness](#colorblindness)
     - [Zoom to 400%](#zoom-to-400)
     - [Keyboard Navigation](#keyboard-navigation)
+    - [Headings](#headings)
     - [Screen Readers](#screen-readers)
       - [Possible Screen Reader Errors](#possible-screen-reader-errors)
       - [Test Pairings](#test-pairings)
