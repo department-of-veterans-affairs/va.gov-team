@@ -65,6 +65,15 @@ __VA forms stakeholder working group includes:__
 
 # Status and decisions:
 
+## 6/18/20 
+
+Historical - referencing for easy findability: 
+
+Modern forms search IA and URL documentation: 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md
+
+
+
 ## 06/08/2020
 
 Summary from a few different threads. 
