@@ -22,16 +22,37 @@ Before we start, a few things I want to mention:
 Before we begin, let’s start with a few warm-up questions.
 
 - Could you tell me about your service history?
+- How often do you have appointments at the VA? 
 - Tell me about a time you recently checked in for an appointment? What was your experience like?
-- Did you have to fill out any information before that visit? If so, what was that experience like?
+    - Was that pre or post COVID-19? 
+    - Have you had any online appointments post COVID-19? How has the process changed for checking into an appt? 
+- Have you ever had to answer questions about your health before or after a VA appointment? (For example, on a form, screening tool, ipad, etc.) 
+    - If so, what was that experience like? 
+  
 
 ## Topic: Current experience - 10 minutes
 
-- What do you normally do to prepare for an appointment/visit?
-- What are the most challenging parts of filling out information before a visit?
-- How many forms/clipboards/etc do you fill out on average before a visit? during? after?
-- Will you tell me about the last time you received specialty care? What was that experience like?
-- What sorts of forms did you have to fill out in order to receive that specialty care?
+- What do you normally do to prepare for an VA appointment/visit?
+- Think back to the last time you had a VA appointment in person at a facility. Talk me through from end-to-end anything you remember about arriving at the facility, checking in for that appointment, etc. If you could, highlight any parts of that experience that were positive and any parts you find frustrating or annoying.
+    - *If needed*: Did you have to answer any other questions about your health on paper or on an iPad prior to or after that appointment? 
+    - *If yes*: What kinds of questions did you have to answer? (Further prompt: Health history, updates on the prescriptions you're taking, etc.)
+    - *If yes*: How did you provide those answers? 
+- For a typical visit, how many different questions about your health do you have to answer? 
+    - What kinds of questions are you asked?
+    - How do you answer these questions?     
+- Do you find it pleasant, frustrating, or neutral (don't care) - to complete health forms or screeners at the VA?      
+    - If frustrating: What are the most challenging parts of filling out information before a visit?
+    - If pleasant: Why pleasant? 
+- Do you ever have to share the same information more than once, such as with a different provider? 
+    - Why do you think you sometimes are asked to provide information more than once? 
+    - Is there any type of health information you expect to have to provide every time? 
+- What kinds of appointments have you had at the VA? 
+    - If they mention specialty care: Will you tell me about the last time you had an appointment with a doctor other than your primary or mental health provider, if you see one? What was that experience like?
+    - Did you have to complete different forms or screeners prior to or after that appointment? 
+
+- Do you see any non VA providers? 
+    - Do you have to complete forms, screeners, or answer questions about your health for them?
+    - Do you ever have to repeat information? 
 
 ### Things to listen for:
 
@@ -41,33 +62,36 @@ Before we begin, let’s start with a few warm-up questions.
 
 ## Topic: Veteran assumptions - 10 minutes
 
-- What do you think happens to your data/information when you visit multiple doctors/clinics?
-- How would you want to fill out medical forms (digital, paper, desktop, mobile, etc)?
-- How can we make it easier for you to get your information to your doctor before a visit?
-- If your medical intake forms were done online, what do you think would happen to your information/data?
-- In your ideal world, how would your information get to the right place/person for your visit?
-- How do you think specialty care forms would be different from your initial intake forms?
+- What do you think happens to the answers you provide when you answer questions about your health at the doctor's office? 
+    - Orally?
+    - In writing?
+    - on an ipad? 
+    - On your own before or after the appointment?
+    - Is there any difference in what happens to your information depending on how you provide it? 
+    
+    - if needed (prompt): Do you expect that information to be automatically shared with your other VA providers? 
+    
+- What format would be easiest for you to fill out medical forms (digital, paper, desktop, mobile, etc)?
+- Think back to earlier when we were discussing the high points and pain points of your last appointment at VA. When in your preparation process for an appointment would you want to 
+
+How can we make it easier for you to share your information with your doctor before a visit? After a visit? 
+
+- If you could complete your forms online or on a mobile application, what do you think would happen to your information/data?
+
+- Do you think specialty care forms would be different from your routine primary care forms?
 
 ### Things to listen for:
 
 - _What methods might we explore for delivering forms?_
 - _Their assumptions on what happens to their data_
+- _Where to start?_
 
 ## Topic: Team/product assumptions - 10 minutes
 
-- What sort of information would you want to fill out online first? What would save you the most time?
-- How do you get notified about forms you need to fill out for a visit?
-- 
-
-### Things to listen for:
-
-- _What areas we should focus on first_
-- _
-
 ## Follow-up questions:
 
-- How would you rate your experience with filling out healthcare related forms?
-- Question
+- This might sound like a strange question, but if you were to describe to a fellow Veteran what they should expect about sharing health information with their providers at VA, what would you want them to know? 
+- In your experience, what's the difference between a screener, a form, a quesionnaire -- or is there a difference? 
 
 ## Thank-You and Closing - 5 minutes
 
