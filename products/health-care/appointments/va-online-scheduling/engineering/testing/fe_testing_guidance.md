@@ -1,5 +1,7 @@
 # Front end VAOS testing guidance
 
+This is a work in progress, don't take it for "official" guidance yet.
+
 ## Browser tests
 
 - Cypress/Nightwatch tests should cover the major paths through the application and fail if a user gets stuck.
