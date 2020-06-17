@@ -1,6 +1,16 @@
 # 20200603
 
 ## Agenda
+- deployment / operations
+- policy making 
+- strengthening core skills (css, operations)
+
+## Notes 
+-
+
+# 20200603
+
+## Agenda
 - dependency management tools
 - TypeScript 
 
