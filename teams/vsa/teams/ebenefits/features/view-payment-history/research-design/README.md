@@ -7,10 +7,10 @@
 
 ### Design
 
-| Screens | Links | Text Sources |
-| :--- | :--- | :--- |
-| Mockups | https://xd.adobe.com/view/5f609803-b045-428a-510e-1754e404af3e-2951/ | Get text from mock |
-| Prototype | https://preview.uxpin.com/546893e0b210374a0734240e0ca9fccc2e02ed11#/pages/129039987 | Get text from mock |
+| Screens | Links | Text Sources | Last Rev |
+| :--- | :--- | :--- | :--- |
+| Mockups | [Adobe XD](https://xd.adobe.com/view/5f609803-b045-428a-510e-1754e404af3e-2951/) | Get text from mock |
+| Prototype | [UXPin](https://preview.uxpin.com/546893e0b210374a0734240e0ca9fccc2e02ed11#/pages/129039987) | Get text from mock | zzz | zzz |
 
 #### Information architecture & naming
 
