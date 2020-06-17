@@ -27,7 +27,7 @@ One caveat to the numbers below is that sessions expire after 30 minutes. So use
 | :--- | ---: | ---: | :--- |
 | 1. Check VA claim or appeal status  | 17.83%  | 63.8M | Sign in |
 | 2. VA.gov homepage  | 13.52%  | 48.3M | 
-| 3. Sorry — we can’t find that page  | 6.95%  | 24.8M |
+| 3. Sorry — we can’t find that page (facilities)  | 6.95%  | 24.8M |
 | 4. Sign in  | 5.34%  | 19.1M | Sign in |
 | 5. Go to myVA  | 2.37%  | 8.5M | Sign in | 
 | 6. Download VA letters  | 1.59%  | 5.7M | Sign in |
