@@ -171,7 +171,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 <details>
   <summary>Our Aligned Product Owners</summary>
     
-[Stakholders and Aligned Product Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
+[Stakeholders and Aligned Product Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
 </details>
 	
 	
