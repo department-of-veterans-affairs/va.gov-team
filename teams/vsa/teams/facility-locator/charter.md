@@ -46,6 +46,7 @@ ________________________________________
 - Back End Engineer
    - Lance Sanchez (October 2019 - shared resource beginning June 2020)
 - Front End Engineer
+  - Michael Pelz-Sherman (June 2020- present)
   - Gilbran Rodriguez (October 2019 - present)
 - Drupal Engineer
   - Ethan Teague (April 2020 - present)
