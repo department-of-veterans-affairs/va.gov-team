@@ -1,4 +1,4 @@
-# Research Plan for Health Care Questionnaires Team June 2020 
+# Research Plan for Healthcare Experience Team June 2020 
 ## Goals	
 This research is for initial discovery for the Health Care Experience, Questionnaires team. 
 
