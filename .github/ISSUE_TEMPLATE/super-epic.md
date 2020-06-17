@@ -2,7 +2,7 @@
 name: Super Epic
 about: For filing super epics.
 title: ''
-labels: ''
+labels: super-epic
 assignees: ''
 
 ---
