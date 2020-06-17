@@ -270,10 +270,9 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
     
 	-   Complete & Readout: 06/30 or 7/01
     
-
-![](https://lh4.googleusercontent.com/J2YPA__olky1Xf9doXek-sWCkPKZSHoOwp4rUIQOR7GB9pGAT9z85EpIrVGITO1dEW1dMc6Tc9DH1690XM01MDqdw_xaDiL6Ex3r93RDyS-LHjEJ3utLMGzG4_o__V6CCvWrlW2z)
-
-![](https://lh3.googleusercontent.com/AAA_SuPg3H0EdIYjcnu4F5BEHDsLVR_-EH3k0hIS5T-OmngdmdjfuF1fbx7_8VLMBf3Yqu-I10T5E7wczmuh9qX2fZt473W_0-9J3g7tFFvmEJ_usvO5xZuvy9AaPs9K5r8BWVr1)
+Discovery Week 1 | Discovery Week 2 
+-------- | ----- |
+<img src="https://lh4.googleusercontent.com/J2YPA__olky1Xf9doXek-sWCkPKZSHoOwp4rUIQOR7GB9pGAT9z85EpIrVGITO1dEW1dMc6Tc9DH1690XM01MDqdw_xaDiL6Ex3r93RDyS-LHjEJ3utLMGzG4_o__V6CCvWrlW2z" width="400"> | <img src="https://lh3.googleusercontent.com/AAA_SuPg3H0EdIYjcnu4F5BEHDsLVR_-EH3k0hIS5T-OmngdmdjfuF1fbx7_8VLMBf3Yqu-I10T5E7wczmuh9qX2fZt473W_0-9J3g7tFFvmEJ_usvO5xZuvy9AaPs9K5r8BWVr1" width="400">
 
 ## Upon Completion
 
