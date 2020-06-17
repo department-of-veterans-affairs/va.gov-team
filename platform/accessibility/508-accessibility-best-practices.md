@@ -131,6 +131,11 @@ Keyboard testing is a manual process. All pages should be verified by a human te
 - Offer ways to skip large groups of links like a [skip to content link](https://webaim.org/techniques/skipnav/)
 - Review the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard navigation patterns.
 
+### Headings
+
+- [Accessibility Insights headings extension](https://accessibilityinsights.io/) - Browser extension for Chrome and the new Microsoft Edge to test accessibility of webpages and web applications
+
+
 ### Screen Readers
 
 Screen reader testing is mostly a manual process. Consider spot testing with at least two, and ideally all three screen readers listed here. At a minimum, NVDA should be tested as it is cross-browser and open-source. Mac users should also be testing VoiceOver on Safari. **Do not use Chrome** for VoiceOver testing, as it can cause false positives and has some ARIA bugs.
