@@ -26,7 +26,6 @@ Information that was more temporary in nature would expire and be noted with tim
 More findings will follow this topline summary upon deeper synthesis  of the research.
 
 ## Research Questions & Answers
---------------------------------
 
 **How do people currently get information on facility operating hours/status?**
 
@@ -57,7 +56,6 @@ More findings will follow this topline summary upon deeper synthesis  of the re
  - All participants were influenced by how COVID has changed the nature of their healthcare and understood that most facilities would be operating under somewhat limited conditions, therefore "Facility Closed" should be used sparingly, as many participants assume that they will not be able to conduct any degree of healthcare at that facility and will 'move on to the next facility' in their search.
 
 ## Hypotheses & Answers
-------------------------
 
 **Veterans will not understand what service/access they can receive through the current status messaging**
 
@@ -84,7 +82,6 @@ True.
  - Participants expressed trusting the information on the website and expect to see an accurate account of the services that would be available to them. This is very important for them to be able to plan their visit or choose a VA location. 
 
 ## Other Findings
-------------------
 
 **Colors, symbols and location impact the participants ability to correctly interpret a status.** 
 
