@@ -16,11 +16,14 @@ As Phase 1 of our release, we are sending the drafted style guide to VSP leaders
 
 ### Results:
 
-- Number of users: 
-- Number of issues identified/fixed: 
-- Types of errors: 
-- Any UX changes necessary? 
+- Number of users: 6 (VSP leadership & content experts) 
+- Number of issues identified/fixed: N/A
+- Types of errors: N/A
+- Any UX changes necessary? Yes
 - If yes, what: 
+  - Changes to developer content
+  - Grammar updates
+  - Minor edits for clarity
 
 ## Phase II: unmoderated production testing
 
@@ -29,8 +32,7 @@ As Phase 1 of our release, we are sending the drafted style guide to VSP leaders
 - Date range: until June 30, 2020
 - How you'll test and give access: Publish style guide in `va.gov-team` GitHub repo, socialize (via Slack) with VSP only
 - Success criteria: 
-  - VSP references the style guide & finds it useful (qualitative data - Slack)
-  - If terms are added to word list, 85% of additions follow documented process and no words are introduced that conflict with other words or definitions on the list
+  - VSP references the style guide & finds it useful (qualitative data - Slack — "was this useful?" and number of VSP team members who engage with announcement)
 
 ### Results: 
 
