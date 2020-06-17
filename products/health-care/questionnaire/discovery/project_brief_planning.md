@@ -2,10 +2,10 @@
 
 ## PROJECT BRIEF
 
-There is information that could be gathered from veterans more efficiently and safely) but need to learn a lot more about what that generic problem looks like in different contexts (e.g. in-person vs. online; within the peculiarities of different VA facilities and workflows. We also need to learn a lot more about the existing tools that address the problem and adjacent problems.
+We are currently collecting information from Veterans in a way that could be done more efficiently and more securely, but we need to learn a lot more about what the problem looks like in different contexts (e.g. in-person vs. online; within the peculiarities of different VA facilities and workflows). We also need to learn more about the current state & existing tools that address the problem and adjacent problems.
 
 ### Project Name
-Healthcare Experience - Questionnaires (TBD)
+Healthcare Experience Team - Questionnaires (TBD)
 
 ### Problem Statement / How Might We statements
 
@@ -20,14 +20,14 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ### What Sprint Teams Are Associated with this Discovery?
 
--   Healthcare Experience - questionnaires
+-   Healthcare Experience - Questionnaires
     
 
 ### Discovery Sprint Roles
 
 <img src="https://lh3.googleusercontent.com/-rEkDs5WtnPqihyX9JvxVJKL-LUJcvRtVIb3c63NZJzCiUWm1cR-dYvol4yNzQo8acGSz9e4ZQVTWKvVv323zjtZaRv96dwfAbe3iLw22C6BDaP1xPsgoPkWAewo7-8T7jMm--uA" width="500">
 
--   Lead VA business owner: Lacy Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov)
+-   Lead VA business owner: Lacey Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov)
     
 -   VA business owner: Lauren Alexander [lauren.alexander@va.gov](mailto:lauren.alexander@va.gov)
     
@@ -50,40 +50,38 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ### Stakeholders
 
- -   Business Stakeholder: VEO - Vet Experience Office - Denise Kitts
-    
- -   Stakeholders who will be involved or interviewed:
-	 -   Former Dep Dir Loma - Linda former- Rob D. Shane ?
-	 -   Kaeli Yuen (clinician)?
-
-
+- **VEO**- Denise Kitts
+- **Former Loma Linda team**- Shane Elliott, Rob Durkin
+- **Loma Linda Staff**- Dr. John Byrne, Dr. Kelly Hajerich, Dr. Terry Newton
+- **VHA**- Dr. Neil Evans
+- Kellie Condon    
+  
   Potential directly or indirectly aligned product owners:
+-   **API Owners**- Lighthouse: Dave Mazik, Kendra Skeene
+- **eScreening Team**- Angela Gant Curtis + Dr. James Pittman & Team 
+-   **MyHealtheVet**- Kathy Frisbee
 
- -   **API Owners**- Lighthouse (Kendra Skeene)
+-   **Connected Care**- clinical tool VCM [insert stakeholder]
 
- -   **MyHealtheVet**- [insert stakeholder]
+-   **VetLink**- Shaun Adams
 
- -   **Connected Care**- clinical tool VCM [insert stakeholder]
+-   **Identity**- Melissa Keene
 
- -   **VetLink**- Shaun Adams
-
- -   **Identity**-Melissa Keene
-
- -   **Reg/Scheg** - Steven B.
+-   **Scheduling** - Stephen Barrs
   
-	 -   engineering- VA mobile- back end services apps.
+	 -   engineering- VA mobile- back end services apps
    
- -   **Vet Profile** - Samara
+-   **VA.gov Profile** - Samara Strauss
   
     
- -   **Notifications** - Clarice Chan
+-   **Notifications Engine** - Clarice Chan
     
- -   People that have built stuff with the **Form system** before:
-		- **eBenefits** (Steve K. and Jason Wolf)
+-   People that have built stuff with the **Form system** before:
+	- **eBenefits** (Steve K. and Jason Wolf)
       
-	  -   **Caregiver** (CC Gong and Alayna Abel)
+	-   **Caregiver** (CC Gong and Alayna Abel)
       
-      -   **B&M 2** (Matt Self and Leah Keeler)
+        -   **B&M 2** (Matt Self and Leah Keeler)
 
     
 
@@ -93,12 +91,12 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 -   Primary users: 
 	- Veterans and/or their caregivers;
-	- employees in veteran-facing business lines that need to gather information from veterans and/or their caregivers in advance of a in-person or online appointment.
+	- employees in Veteran-facing business lines that need to gather information from Veterans and/or their caregivers in advance of a in-person or telehealth appointment
     
 -   Goals of Primary user (assumptions- until research)
     
 
-	-   A veteran has the opportunity to complete screening questions prior to their in-person or online appointment;
+	-   A Veteran has the opportunity to complete screening questions prior to their in-person or telehealth appointment;
     
 	-   Veterans are able to limit the amount of time they need to spend in the lobby/waiting area in the physical proximity of others;
     
@@ -120,11 +118,11 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 	-   Support physical distancing efforts in VA facilities
     
-	-   Reduce concurrent visitor loads in VA facilities by reducing the number of tasks a veteran must to complete within the facility
+	-   Reduce concurrent visitor loads in VA facilities by reducing the number of tasks a Veteran must to complete within the facility
     
-	-   Reduce concurrent online appointment loads by reducing the number of tasks a veteran must complete during an online appointment
+	-   Reduce concurrent telehealth appointment loads by reducing the number of tasks a Veteran must complete during an online appointment
     
-	-   Improve employee productivity by reducing the effort needed to integrate veteran-provided data into canonical sources
+	-   Improve employee productivity by reducing the effort needed to integrate Veteran-provided data into canonical sources
     
 -   Align to Business North Star
     
@@ -132,7 +130,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 	- Increase availability of self-service tools
     
 
-		- At a minimum, we will make the existing tool more widely available in a self-service manner as the current on-premise eScreening applications are completed by Veterans on a VA iPad in the facility and on the VA network.
+		- At a minimum, we will make existing tools more widely available in a self-service manner as the current on-premise eScreening applications are completed by Veterans on a VA iPad in the facility and on the VA network.
     
 
 	-   Decrease time to outcomes
