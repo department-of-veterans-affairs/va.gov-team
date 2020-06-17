@@ -4,3 +4,5 @@
 - [EWA - workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-ops/editorial-workflow/assignments/EWA%20-%20workflow.png)
 - [EWA - permissions and transitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-ops/editorial-workflow/assignments/EWA%20-%20permissions%20and%20transitions.png)
 - EWA - prototype and requirements
+- [EWA: labels and shared vocabulary (Mural)](https://app.mural.co/t/vagov6717/m/vagov6717/1591809342617/3e4e84aa3a1bf7e67e1651d699de781c8f94187f)
+- [EWA: labels and shared vocabulary in the back end style guide word list](https://airtable.com/tblBN7rDqhagQCAJR/viwojsfCvWPTKErTL?blocks=hide)
