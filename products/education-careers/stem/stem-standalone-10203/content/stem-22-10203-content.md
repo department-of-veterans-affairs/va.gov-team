@@ -1,13 +1,12 @@
 # VA Form 22-10203: Edith Nourse Rogers STEM Scholarship Application 
 
-
 Mobile:  
 Breadcrumb: [Home]() > [Education]()  
 
 Tablet/desktop:  
 Breadcrumb: [Home]() > [Education]() > [How to apply]() > **Apply for education benefits**  
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)  
 
@@ -37,7 +36,7 @@ Start the education application >> { button }
 { end if logged in }  
 
 
-### Follow the steps below to apply for education benefits.  
+### Follow the steps below to apply for this scholarship  
 
 { subway map }  
 
@@ -48,7 +47,7 @@ Start the education application >> { button }
 * Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
 * Have used all your education benefits or are within 6 months of doing so.  
 [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)  
-* Are enrolled in an undergraduate degree program for science, technology, engineering or math (STEM), **or** have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* Are enrolled in an undergraduate degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 
 
 #### 2. Prepare  
@@ -70,7 +69,7 @@ See what benefits you’ll get at the school you want to attend. [Use the GI Bil
 #### 3. Apply
 Complete this education benefits form.
 
-After submitting the form, you’ll get a confirmation message. You can print this for your records.
+After submitting the form, you’ll get a confirmation message. You can print this page for your records.
 
 #### 4. VA review 
 We usually process claims within **30 days**. We’ll let you know by mail if we need more information.
@@ -104,11 +103,11 @@ ________________________________________
 
 #### 10203 Screen No. { to come } 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship  
 
 Form 22-10203  
 
-### Chapter Title: 1 of 6 Applicant Information { check capitalization } 
+### Chapter Title: 1 of 6 Applicant information { check capitalization } 
 
 #### Page Title: { none }
 
@@ -134,11 +133,11 @@ ________________________________________
 
 #### 10203 Screen No. { to come } 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Form 22-10203  
 
-### Chapter Title: 2 of 6: Education Benefit
+### Chapter Title: 2 of 6: Education benefit
 
 Which benefits have you used or are you currently using? (*Required){ checkboxes } 
 - [ ] Post 9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
@@ -155,13 +154,13 @@ Which benefits have you used or are you currently using? (*Required){ checkboxes
 ________________________________________
 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come } 
 
-### Chapter Title: 3 of 6: Program Details
+### Chapter Title: 3 of 6: Program details
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
@@ -182,11 +181,11 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
-About how much of your education benefit do you have left? (*Required) [Check remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
+About how much of your education benefit do you have left? (*Required) [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
 
 - More than 6 months
-- 6 months or less
-- None, I've used it all
+- Less than 6 months
+- None. I've used all of my education benefit
 
 { if "6 months or less" or "None, I've used it all", display a checkmark for the "Less than 6 months..." question on the next page}  
 
@@ -202,19 +201,19 @@ Finish this application later]()
 ________________________________________
 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come }  
 
-### Chapter Title:  3 of 6: Program Details
+### Chapter Title:  3 of 6: Program details
 
 { STEM eligibility summary page } 
 
 { gray box } 
 
-#### It appears you’re not eligible for the Rogers STEM Scholarship. 
+#### Based on your responses, it appears you’re not eligible for the Rogers STEM Scholarship. 
  
 { display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
 
@@ -247,13 +246,13 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 ________________________________________
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come }  
 
-### Chapter Title:  3 of 6: Program Details  
+### Chapter Title:  3 of 6: Program details  
 
 #### Your STEM degree { Sub-head } 
 
@@ -297,13 +296,13 @@ How many credit hours of your STEM degree have you completed? (*Required) { text
 
 ________________________________________
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship  
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come } 
 
-### Chapter Title:  3 of 6: Program Details
+### Chapter Title:  3 of 6: Program details
 
 #### Your school details { Sub-head } 
 
@@ -328,13 +327,13 @@ Your school email address (This email address usually ends with .edu) { Text fie
 
 ________________________________________
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come } 
 
-### Chapter Title:  4 of 6: Military Details  
+### Chapter Title:  4 of 6: Military details  
 
 Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship? (*Required) 
 
@@ -343,7 +342,7 @@ Are you currently on active duty or will you be going on active duty while recei
 
 { if yes, display conditional blue background alert }
 
-You can receive the Rogers STEM Scholarship while you’re on active duty, but you won’t be eligible for a housing allowance from us with the scholarship while on active duty.
+You can receive the Rogers STEM Scholarship while you’re on active duty, but you won’t be eligible for the scholarship's housing allowance.
 
 { end blue background alert } 
 
@@ -353,7 +352,7 @@ You can receive the Rogers STEM Scholarship while you’re on active duty, but y
 ________________________________________
 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship 
 
 Form 22-10203  
 
@@ -371,14 +370,14 @@ Form 22-10203
         
 ##### Other contact information { sub-head }  
 
-Please enter as much contact information as possible so we can get in touch with you, if necessary.
+Please enter your contact details below so we can get in touch with you, if necessary.
 
 - Email address (*Required)
 - Re-enter email address (*Required)
 - Home phone number
 - Mobile phone number (*Required)
         
-How should we contact you if we have questions about your application? { radio buttons } 
+What is the best way for us to contact you? (Check all that apply) { radio buttons } 
 - Mail
 - Email
 - Home phone
@@ -389,13 +388,13 @@ How should we contact you if we have questions about your application? { radio b
 
 ________________________________________
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship  
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come }  
 
-### Chapter Title:  5 of 6:  Personal Information 
+### Chapter Title:  5 of 6:  Personal information 
 
 #### Direct deposit { sub-head }
 
@@ -428,23 +427,23 @@ If you choose not to enroll, you’ll need to call the Department of Treasury at
     
 ________________________________________
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship
 
 Form 22-10203  
 
 #### 10203 Screen No. { to come }  
 
-### Chapter Title:  6 of 6: Review Application  
+### Chapter Title:  6 of 6: Review application  
 
 Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days. 
 
 { Summary Review / Edit functionality  }
 
-* Applicant Information { accordion } 
-* Education Benefit { accordion } 
-* Program Details { accordion } 
-* Military Details { accordion } 
-* Personal Information { accordion } 
+* Applicant information { accordion } 
+* Education benefit { accordion } 
+* Program details { accordion } 
+* Military details { accordion } 
+* Personal information { accordion } 
 
 **Note:** According to federal law, there are criminal penalties including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)    
 
@@ -457,7 +456,7 @@ ________________________________________
 
 
 
-## Form Title: Application for Rogers STEM Scholarship  
+## Form Title: Apply for the Rogers STEM Scholarship  
 
 Form 22-10203  
 
@@ -476,7 +475,7 @@ Print this page { button }
 
 { blue box }
 
-**Education Benefit Claim** 								
+**Rogers STEM Scholarship** 								
 **(Form 22-10203)**
 
 for { Fname Lname }
