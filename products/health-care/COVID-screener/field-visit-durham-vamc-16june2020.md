@@ -40,10 +40,51 @@ Patients are generally not using the app yet
 
 ## Observations from the front entrance from 10-11:30 am
 
-### Stressful situation
+### Stressful situation for screeners, patients, and caregivers
 
 - It's stressful being a screener since there are new rules in NC: no spouses/visitors allowed to accompany Vets on their appointments
-- Have to tell them to go wait in the car
-- They are used to being able to hang out and wait or accomapany their Vet
-- This stresses the patient out too - tempers were flaring 
+- Screeners have to tell them to go wait in the car
+- Folks are used to being able to hang out and wait or accomapany their Vet
+- This stresses the patient out too--tempers were flaring 
 
+### Timing data for screener interactions
+
+| Time | Patient or Employee | Duration (seconds) | Notes |
+|------|----- | --------:|------ | 
+| 09:38 | Patient | 20 |  | 
+| 09:40 | Patient | 35 |  | 
+| 09:52 | Patient | 20 | |
+| 09:54 | Employee | 11 | |
+| 09:55 | Employee | 14 | |
+| 09:57 | Employee | 13 | |
+| 09:58 | Patient | 18 | |
+| 09:59 | Patient | 13 | |
+| 10:00 | Patient | 17 | |
+| 10:01 | Patient | 45 | Discharge discussion |
+| 10:02 | Patient | 24 | |
+| 10:08 | Patient | 13 | |
+| 10:09 | Patient | 33 | |
+| 10:25 | Patient | 18 | |
+| 10:29 | Patient | 28 | |
+| 10:29 | Patient | 49 | No visitor allowed discussion |
+| 10:30 | Patient | 19 | | 
+| 10:31 | Patient | 20 | |
+| 10:32 | Employee | 35 | Screener explaining app to employee |
+| 10:33 | Employee | 29 | Screener selling the app, emp says no thanks |
+| 10:35 | Employee | 33 | Emp in a rush, doesn't want the app |
+| 10:36 | Employee | 34 | Screener explains app to employee |
+| 10:37 | Employee | 44 | |
+| 10:38 | Patient | 27 | |
+| 10:40 | Patient | 21 | |
+| 10:40 | Patient | 33 | "I'm negative" |
+| 10:45 | Patient | 17 | |
+| 10:51 | Employee | 2 | Already had the approval screen, just got their dot |
+| 10:51 | Patient | 13 | |
+| 10:51 | Patient | 14 | |
+
+| Summary data | |  | 
+| ----------|  ----------| ------:|
+| Employee | Total number interactions observed |  9 |
+| Employee | Average duration of interaction (seconds) | **24** |
+| Patient | Total number of interactions observed | 21 | 
+| Patient | Average duration of interaction (seconds) | **24** |
