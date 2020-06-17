@@ -100,7 +100,6 @@ Design
 
 Dev
 - Build - Connected apps updates
-- Build - Sub nav updates
 - Build - Final bug fixes and clean up before QA
 - Pre-launch - Work with Matt on UAT plan for launch (how will we show the new profile to UAT participants?)
 
@@ -128,17 +127,13 @@ PM
 - Call center - Request contact center review
 
 Design
-- QA - Any design updates out of QA
 - Pre-launch - Update relevant parts of the product outline/project folder
 
-Dev
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
-- Testing - Implement/run tests we determine we need
+Dev (Does testing need to happen after QA?)
+- Build - Sub nav updates
 - Pre-launch - Update relevant parts of the product outline/project folder
 
 Platform
-- QA - Conduct QA
-- 508 - Conduct 508 review
 - Pre-launch — Analytics review
 
 ### Logged-in homepage
@@ -158,17 +153,14 @@ Design
 
 PM
 - Call center - Contact Center Review (VSP cycle)
-- Pre-launch - Request staging review
-- Pre-launch - Request privacy and security review
-
-Design
-- UAT - Research plan
-- UAT - Conversation guide
 
 Dev
-- QA — Any bug fixes that come out of QA/508
+- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Implement/run tests we determine we need
 
 Platform
+- QA - Conduct QA
+- 508 - Conduct 508 review
 - Call center - Contact Center Review (VSP cycle)
 
 ### Logged-in homepage
@@ -188,16 +180,17 @@ Dev
 ### Profile 2.0
 
 PM
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Pre-launch - Request staging review
+- Pre-launch - Request privacy and security review
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
-- UAT - Submit request 
-- Participate in reviews
+- QA - Any design updates out of QA
+- UAT - Research plan
+- UAT - Conversation guide
 
 Dev
-- Participate in reviews
+- QA — Any bug fixes that come out of QA/508
 
 Platform
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
@@ -215,13 +208,16 @@ Dev
 
 ### Profile 2.0
 
-- Launch to UAT users
+PM
+- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
 
 Design
-- Conduct UAT
+- UAT - Submit request 
+- Participate in reviews
 
 Dev
-- Any fixes from UAT
+- Participate in reviews
 
 ### Logged-in homepage
 
@@ -232,12 +228,18 @@ PM
 
 **Profile 2.0**
 
-- Go/No-go
-- Phase 1 launch
+- Launch to UAT users
+
+Design
+- Conduct UAT
+
+Dev
+- Any fixes from UAT
 
 ## Sprint 30 (9/9 – 9/22)
 
-- Phase 2 launch
+- Go/No-go
+- Phase 1 launch
 
 ---------
 
