@@ -145,23 +145,38 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ---
 
-#### Communications
 
+#### Communications
+<details>
+  <summary>Find us @:</summary>
+    
 - Team Name: Healthcare Experience - Questionnaires
 - GitHub Label: vsa-healthcare-exp
 - Slack channel: #vsa-clipboard
 - Product POCs: _See Team Members_
 - Stakeholders: _See Stakeholders_
+</details>
 
 	
 #### Team Members
-
-	
+<details>
+  <summary>Meet the Team</summary>
+    
 [HealthCare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/README.MD)
-
+</details>
 	
+
 	
 #### Stakeholders
-	
+<details>
+  <summary>Our Aligned Product Owners</summary>
+    
 [Stakholders and Aligned Product Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
+</details>
+	
+	
+	
+
+	
+
 
