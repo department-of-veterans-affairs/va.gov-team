@@ -3,6 +3,16 @@
 ## mm/dd/yy
 
 
+## 06/18/20
+
+Historical - referencing for ease of findability. 
+
+Form detail landing page IA/URL approach - documented here: 
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-detail-pages.md
+
+
+
 ## 05/12/20
 
 Status of ETA per call with Beth Jacobson, Andrew Fichter, Jen Lee, and Stephanie Orkand. Beth shared her diagram WIP for final state of API flows. 
