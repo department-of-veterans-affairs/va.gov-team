@@ -20,7 +20,7 @@ Using insights from these prior studies, the June 8-10, 2020 research sessions f
 2. **A limited interactive prototype** to test the usefulness of a limited app, validate or challenge our hypothesis about what features should be in the MVP, and understand if Veterans would download a limited app. 
    - [View interactive prototype](https://www.figma.com/proto/gUvALOW6hmAcWRwpJKCumq/VA-Mobile-Concept-%E2%80%93-VASU-v2?node-id=471%3A0&scaling=scale-down)
 
-(L) Co-design exercise template, (R) interactive prototype home screen
+**(L) Co-design exercise template, (R) interactive prototype home screen**
 ![Image of testing stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-stimuli.png)
 
 
