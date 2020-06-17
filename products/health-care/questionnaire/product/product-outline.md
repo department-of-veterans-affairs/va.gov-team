@@ -2,17 +2,17 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+- How might we improve the in-person and online pre-appointment experiences for Veterans?
+- How might we contribute to physical distancing efforts in VA facilities?
+- How might we better integrate Veteran-provided data into VA workflows?
+- How might we provide Veterans with a digital option when only a paper option exist today to complete pre-appointment questionnaires and screeners?
  
-## Desired User Outcomes/Hypothesis 
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+## Desired User Outcomes - Value Propositions
 
 ### If we implement the use of digital pre-visit intake forms, we will 
 
@@ -52,11 +52,9 @@
 - **increase portal/va.gov adoption by navigating the veteran to other workflows/areas they can use to improve their health.** 
 	- _Assumption_ - Once the veteran has completed a digital intake form we can auto direct them to other ares on the portal or va.gov site they might not know are available to them. ie education/health records/events. 
   - _Assumption_ - This should increase the Patient Expereince "ratings" with veterans facing solutions. 
-	
-## Undesired User Outcomes
 
 
-## Desired Business Outcomes
+## Desired Business Outcomes - Value Propositions
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
@@ -90,61 +88,60 @@
 - **save costs in staff resourcing as they will be able to see more patients or complete other activities related to the patient clinical experience.** 
 	- _Also applies to all of the Time hypotheses statements above_
 
-## Undesired Business Outcomes
 
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+	* _What are the most important metrics that track with this product/initiative's success?_
+	* _Include links to Domo or Google Analytics Dashboards/Reports_
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+	 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### OKRs
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+	 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+	- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+	- *What are you going to build now, and why have you decided to start there?*
+	- *Why this solution / approach over other solutions / approaches?*
+	- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+	- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ## KPIs
-- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+	- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+	- *How are Veterans and others using this product going to know it exists?*
+	- *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-- *What is your date for when you'll evaluate impact after launch?*
+	- *What is your target launch date of your MVP/iteration?*
+	- *What is your date for when you'll evaluate impact after launch?*
 
 ---
 
-## Solution Narrative
+	## Solution Narrative
 
-### Current Status
+	### Current Status
 
-### Key Decisions
+	### Key Decisions
 
 ---
    
 ## Screenshots
 
-### Before
+	### Before
 
-### After
+	### After
 
 ---
 
@@ -152,30 +149,26 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: Healthcare Experience - Questionairres 
-- GitHub Label: 
+- Team Name: Healthcare Experience - Questionnaires
+- GitHub Label: vsa-healthcare-exp
 - Slack channel: #vsa-clipboard
-- Product POCs:
-- Stakeholders: 
+- Product POCs: _See Team Members_
+- Stakeholders: _See Stakeholders_
 
 </details>
 
 #### Team Members
 
 <details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
+	
+[HealthCare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/README.MD)
 
+<details>
 
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
+	
+[Stakholders and Aligned Product Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
+
+<details>
