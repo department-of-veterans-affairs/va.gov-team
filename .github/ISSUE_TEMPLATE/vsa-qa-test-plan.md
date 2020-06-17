@@ -28,7 +28,7 @@ QA: Tze-chiu Lei
 
 ## Proposed user-scenarios and Staging test-accounts
 
-\[Provide specific user-senarios (all the different interactive usage-flows and/or data-specific states) to be tested.  Or, link to existing issues/docs.  IMPORTANT: Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
+\[Provide specific user-senarios (all the different interactive usage-flows and/or data-specific states) to be tested.  Or, link to existing issues/docs (ideally, use [this Product Use Cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md) from VSA Design Lead).  IMPORTANT: Staging test-accounts must be provided for all authenticated scenarios, and Staging-API test-data created to match the account-specific scenarios.]
 
 1. <scenario-1> - <test-account-1>
 2. <scenario-2> - <test-account-2> ...
