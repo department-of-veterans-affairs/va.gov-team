@@ -31,7 +31,7 @@ In progress, or about to be = 👈
 ### Sprint 19 (T-28)  
 _April 8 - April 21_  
 - DE: Refine form content (labels, titles, buttons, etc) ([#6965](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6965))
-- FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, (see Sprint 21: 2 of 6))  ⏳  
+- FE: e2e tests ([#6049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6049) ✔, (see Sprint 21: 2 of 6))  ✔  
 - FE: refactor workflows ([#7736](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7736))
 - BE/FE: connections made ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)✔, [#7724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7724)) ✔
 - FE: get a `200` response from BE ✔
@@ -46,7 +46,7 @@ _April 8 - April 21_
 _April 22 - May 5_
 - FE & BE: address issues from QA review ([#7771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7771)) ✔
 - FE: set up and test Flipper component on Drupal landing page ([#8057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8057), [#8068](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8068)) ✔
-- BE: unit tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967) ✔, [#8537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8537) ✔) ⏳
+- BE: unit tests, error handling ([#6967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6967) ✔, [#8537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8537) ✔) 
 - BE: submit PR to merge BGS endpoints into `vets-api` ([#8260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8260), [#8259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8259)) ✔
 - DE: Fit/finish review/implementation ([#6760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6760)) ✔
 - DE: Research Plan and Conversation Guide for usability Sessions ([#8015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8015). [#8014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8014)) ✔
@@ -62,14 +62,12 @@ _May 6 - May 19_
 _May 20 - June 2_
 -  BE: PDF Send to VBMS (1 Sprint) ⏳  
 - FE (new): Veteran Info Review Page ([#8838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8838), [#8829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8829)) ✔
-- FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ⏳ 👈  
+- FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ✔  
 
 ## Sprint 23
 _June 3 - June 16_  
 - DE: 686 usability Sessions  ([#8569](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8569)) ✔
-- FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ⏳ 👈
-- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
-- BE/FE: v1 code complete
+- FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ✔
 - [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review) 🌀  
 - BE/FE: e2e and load testing with partner systems
 - FE: Confirm Sentry access, enter utility code
@@ -80,13 +78,15 @@ _June 17 - June 30_
 - FE/BE: Test and implement file upload from the form
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀  
 - [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀  
+- BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) ⏳ 👈  
 - BE: PDF Fill (multi Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) ⏳ 👈
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
+- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
+- BE/FE: v1 code complete
 
 ## Sprint 25
 _June 17 - June 30_ 
 - BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
-- BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) ⏳ 👈  
 
 
 ## Sprint 26
