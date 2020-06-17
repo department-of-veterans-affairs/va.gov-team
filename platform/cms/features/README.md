@@ -9,7 +9,7 @@ This folder will contain high level description of various products managed in t
 * Documentation
 * A CMS “feature list” (for product owners and VFS teams curious about what the CMS can do)
 
-The goal is to start start writing these before we start work on new features / products, including during CMS scoping exercises, and within epic and enhancement issue templates.
+The goal is to start writing these before we start work on new features / products, including during CMS scoping exercises, and within epic and enhancement issue templates.
 
 ## Template
 
