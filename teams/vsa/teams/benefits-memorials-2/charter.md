@@ -10,18 +10,16 @@
 Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
 
 ### **VSA North Star**
-Ship more valuable things. 
+Impact Rate
 
 ### Team Mission Statement:
 To provide the ability for Veteran to complete their whole DLC orders online on line at VA.gov (previously Forms: 2345 & 2346).
-Education: TBD (tentative meeting set for Jan 6th)
 
 ### Team Vision:
-Build an online experience that allows veterans to easily apply for, track, and manage the enrollment process for school. 
+Increase Veteran's over-all customer satifaction when ordering items from the Denver Logistic Center. 
 
 ### Team North Star:
-Increase Veteran's awareness of GI Bill education, reduce application processing time, increase veteran's awarness of what is required for each step. 
-Increase Veteran's over-all customer satifaction when ordering items from the Denver Logistic Center. 
+Number of online DLC orders
 
 ## What we work on
 
