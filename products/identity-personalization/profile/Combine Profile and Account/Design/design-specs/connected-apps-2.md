@@ -62,13 +62,13 @@ Logo, app name, and bullet points are pulled in from Okta (our OAuth solution ma
   - **FAQ link text**: MyLinks
   - **FAQ link**: https://www.mylinks.com/
 
-- **FAQ link text**: How do I connect a third-party app to my profile?
-  - **FAQ dropdown text**: (Bold) Take these steps to connect the app:
-  1.When the app (or website) prompts you to connect your VA account, it will ask you to sign in.
-  2.Sign in with your preferred VA.gov account: DS Logon, My HealtheVet, or ID.me.
-  3.Review the information the app is asking to access. 
+ - **FAQ link text**: How do I connect a third-party app to my profile?
+  - **FAQ dropdown text**: Take these steps to connect the app:
+   - **1**: When the app (or website) prompts you to connect your VA account, it will ask you to sign in.
+   - **2**: Sign in with your preferred VA.gov account: DS Logon, My HealtheVet, or ID.me.
+   - **3**:Review the information the app is asking to access. 
   
-  If you’re comfortable sharing that information, allow access. If you have trouble connecting the app, contact the app’s support for help.
+ - **text**: If you’re comfortable sharing that information, allow access. If you have trouble connecting the app, contact the app’s support for help.
     
 - **FAQ link text**: What should I do if my records are wrong or out of date in a connected app?
   - **FAQ dropdown text**: This depends on the issue:
@@ -162,12 +162,12 @@ Logo, app name, and bullet points are pulled in from Okta (our OAuth solution ma
   - **FAQ link**: https://www.mylinks.com/
   
  - **FAQ link text**: How do I connect a third-party app to my profile?
-  - **FAQ dropdown text**: (Bold) Take these steps to connect the app:
-  1.When the app (or website) prompts you to connect your VA account, it will ask you to sign in.
-  2.Sign in with your preferred VA.gov account: DS Logon, My HealtheVet, or ID.me.
-  3.Review the information the app is asking to access. 
+  - **FAQ dropdown text**: Take these steps to connect the app:
+   - **1**: When the app (or website) prompts you to connect your VA account, it will ask you to sign in.
+   - **2**: Sign in with your preferred VA.gov account: DS Logon, My HealtheVet, or ID.me.
+   - **3**:Review the information the app is asking to access. 
   
-  If you’re comfortable sharing that information, allow access. If you have trouble connecting the app, contact the app’s support for help.
+ - **text**: If you’re comfortable sharing that information, allow access. If you have trouble connecting the app, contact the app’s support for help.
   
 **Blue Box**
 
