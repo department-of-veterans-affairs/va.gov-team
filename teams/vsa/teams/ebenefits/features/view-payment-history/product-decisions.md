@@ -3,7 +3,7 @@
 
 ---
 
-This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
+This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.
 ## Soap Service is not returning 'returned payments'
 `Date decided`  
 **Description.**  
