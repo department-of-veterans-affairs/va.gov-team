@@ -1,4 +1,3 @@
-/***
 | _Code_ | _Meaning_ |
 |----------------|-------------|
 | VET360_ADDR200 | Address ID must be null (I think this is for Post)
@@ -18,4 +17,4 @@
 | VET360_CORE500 | Source Date must not be null
 | VET360_CORE501 | Source System size violaiton - must be between 0 and 255
 | VET360_CORE502 | Source System user size violaiton - must be between 0 and 255
-***/
+
