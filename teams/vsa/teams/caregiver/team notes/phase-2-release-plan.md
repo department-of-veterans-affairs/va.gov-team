@@ -1,7 +1,7 @@
 # 10-10CG Phase 2 Release Plan
 
 ## Hypotheses/Bets
-- **Meet best practices with regard to privacy, security, accessibility, usablity, and other VA.gov standards so that we can be confident in our launch**
+- **Meet best practices with regard to privacy, security, accessibility, usablity, and other VA.gov standards so that we can be confident in our users' success during launch**
   - Bet: Ensure the online form meets all best-practices for accessibility and usability
   - Bet: Conduct a review with the VA.gov 508 Office
   - Bet: Implement the [information architecture plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/caregiver-10-10cg.md)
