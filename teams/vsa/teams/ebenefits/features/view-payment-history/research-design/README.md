@@ -7,10 +7,10 @@
 
 ### Design
 
-| Screens | Links | Text Sources | Last Rev |
-| :--- | :--- | :--- | :--- |
-| Mockups | [Adobe XD](https://xd.adobe.com/view/5f609803-b045-428a-510e-1754e404af3e-2951/) | Get text from mock | TBD |
-| Prototype | [UXPin](https://preview.uxpin.com/546893e0b210374a0734240e0ca9fccc2e02ed11#/pages/129039987) | Get text from mock | TBD |
+| Screens | Links | Text Sources | Last Rev | |
+| :--- | :--- | :--- | :--- | :--- |
+| Mockups | [Adobe XD](https://xd.adobe.com/view/5f609803-b045-428a-510e-1754e404af3e-2951/) | Get text from mock | June 18, 2020 | [Changelog](#mockups-changelog) |
+| Prototype | [UXPin](https://preview.uxpin.com/546893e0b210374a0734240e0ca9fccc2e02ed11#/pages/129039987) | Get text from mock | June 18, 2020 | [Changelog](#prototype-changelog) |
 
 #### Information architecture & naming
 
@@ -25,11 +25,26 @@
 
 ---
 
-### Research
+ [Changelog]() |
 [POA/View Payments research topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/topline-summary-power-of-attorney-andpayment-history.md)
 
 [POA/View Payments research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
 ---
 
+### Mockups Changelog
+**June 18, 2020**
+- Desktop view of table styled to match "Borderless table" in VA Sketch Library file
+- Mobile view of tables styled to match "Responsive table" in VA Sketch Library file
+- Sorting dropdown removed from mobile table
+- Column headers in Returned payments table changed to match prototype
+- Dummy data in Returned payments table changed to match prototype
+
+### Prototype Changelog
+**June 18, 2020**
+- Desktop view of table styled to match "Borderless table" in VA Sketch Library file
+- Mobile view of tables styled to match "Responsive table" in VA Sketch Library file
+- Prtotype pagination and sorting updated to match new styling
+
+---
 
