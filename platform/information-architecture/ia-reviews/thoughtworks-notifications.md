@@ -55,6 +55,16 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+6/17/20 - Design Intent meeting
+- Sender email address 
+  - may be helpful to do some early thinking around whether you want to classify different types of emails with different "from" email addresses (i.e. confirmation@va.gov, benefit-application@va.gov, notification@va.gov, submission-status@va.gov, etc)
+  - Agree that allowing users to reply to the email with questions is best, but if that is not possible, ensure there is content that indicates that and a bounce back email if they do try
+- Would love to see mobile and plain text versions of the mock to show how content hierarchy lays out
+- Ensure that subject line is clear and concise for what it is and provides trust
+- Consider what content may need to be added to the confirmation page in regards to "You will receive an email confirmation..."
+- Consider adding text to check status CTA that indicates they will need to log in
+- Feedback documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/10175
+
 6/11/20 - Kick-off Email notifications
 - this will be the initial email, how/will we need to engage with vsp with every email?
 - email sent after 526 successful form submission, this is in addition to the physical letter they get and the online confirmation page
