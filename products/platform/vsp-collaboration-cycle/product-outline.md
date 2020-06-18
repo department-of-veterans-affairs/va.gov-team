@@ -65,6 +65,7 @@ Top pain points include:
 - [Most risky] We **assume** that VFS teams and their DEPO team members will follow a VSP review process if they can easily understand its requirements.
 - We **assume** that consolidated review points will be more valuable and easier for VFS teams to adhere to.
 - We **assume** that if we standardize the review process and make it easier to understand, VFS teams will see VSP reviews as net positive (net valuable). 
+- We **assume** that VSP reviews will always be manual for some practice areas.
 
 ## Solution Approach
 
