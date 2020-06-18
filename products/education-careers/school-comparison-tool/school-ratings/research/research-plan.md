@@ -8,15 +8,16 @@ As a designer I need to create a research plan to share with my team.
 When Veterans are looking for schools within the Comparison tool, they want to know about the experiences of other Veterans to form a better understanding of what their personal experience at the school would be like. Ratings enable Veterans to quickly assess the suitability of a school (both pro and con), bolstering their confidence and level of comfort in deciding if a particular school is right for them.
  
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-  - What are Veterans' thoughts on ratings generally?  Are they helpful or not?
+  - What are Veterans' thoughts on consumer ratings generally? How do they factor into their decision-making process?
   - What would users think of the trustworthiness of ratings displayed on the Comparison Tool?
-  - Whose ratings would Veterans most like to see (e.g. authenticated users versus unauthenticated, Veterans versus beneficiaries, rater's experience with school - only applied, attended, graduated)?
-  - What information would Veterans like to know from raters about the school?  What is important to them in choosing a school?  What type of information would sway their opinion of the school (for good or bad)?
+  - Whose ratings would be most valuable to Veterans (e.g. authenticated users versus unauthenticated, Veterans versus other beneficiaries, rater's experience with school - only applied, attended, graduated)?
+  - What information would Veterans like to know from military-connected students about the school? What’s important to them in choosing a school? What type of information would sway their opinion of the school (for good or bad)?
+  - What level of trust would users have of ratings displayed on the Comparison Tool?
   - What do Veterans expect ratings to look like?
   - What value do Veterans see in quantitative ratings?
-  - Where do Veterans expect to see these ratings on the school profile pages?  Would they expect to see that information anywhere else on the Comparison Tool?
+  - Where would the display of ratings be most valuable to users within the Comparison Tool (on profiles, on search results cards)?
 4. Hypothesis: What is your hypothesis for this research? 
- - We believe that ratings will matter to Veterans and will influence their decision on where they use their GI Bill benefits.  We believe that Veterans will want to know about the experience of other Veterans at a particular school to assess if that school will be a good fit for them.
+ - We believe that ratings will matter to GI Bill education beneficiaries and will influence their decision on where they use their GI Bill benefits. We believe that Veterans will want to know about the experience of other beneficiaries at a particular school to assess if that school will be a good fit for them..
 ## Method	
 1.	What method of research are you planning? 	
   - Remote directed interviews	
@@ -60,7 +61,7 @@ Login requirements: None
 2.	Prepare: When will the thing you are testing be ready? 
  - By COB June 19, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
- - 1 hour
+ - 45 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
  - Tuesday, June 23:  8:30 - 9:30 AM; 11 AM - 12 PM;12:30 - 1:30 PM; 3 - 4 PM;
  - Wednesday, June 24: 8:30 - 9:30 AM; 10 - 11 AM; 12:30 - 1:30 PM; 3 - 4 PM;
