@@ -119,7 +119,7 @@ When?
 
 -   Length of Sessions: 60 minutes. With a 15 min break between each session.
 
--   Availability: 11 am to 8 pm (ET) (with 15 minutes break between each session).
+-   Availability: 11 am to 6 pm (ET) (with 15 minutes break between each session).
 
 -   Pilot: June 24th, 2020
 
