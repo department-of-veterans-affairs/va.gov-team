@@ -8,7 +8,7 @@
 Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we would like to talk about ratings and what information is helpful to Veterans when determining if a particular school would be a good fit for them.  Specifically, if the VA asked Veterans who had attended a particular school to give feedback on a school, what value would that offer Veterans and what information would they want to know?
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 50 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -27,6 +27,8 @@ Let’s start with a few warm-up questions.
    
  - Have you ever used the GI Bill Comparison Tool before? 
   - If yes, what did you use it for?
+  
+  
 
 ## Ratings Experience and Overall Value - 15 min
 
@@ -51,7 +53,12 @@ The VA would like to give prospective students better visibility into the educat
 
 - How valuable would that information be in making a decision to attend the school or not?
 
-- (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  I'd like to know what you think the factor means and if it would be helpful in your decision making process?
+**Pull up categories visual provided by EDU**
+
+- (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  
+    - What do you think this factor means?  
+    - Would it would be helpful in your decision making process?
+    
 Star Ratings:
   - Institution Overall
   - Quality of Classes
@@ -67,15 +74,14 @@ Star Ratings:
    - Someone who attended classes, but didn't complete their degree
    - Someone who finished their degree
    
- - Since VA hosts the site where these ratings would live, would that impact whether you felt the ratings were trustworthy or not?  
+ - What are your thoughts on the trustworthiness of ratings that would appear in this Comparison Tool? Why?  
 
 
 ## Ratings Location - 10 minutes
 
-This is a school profile page on the Comparison Tool.  If school ratings were incorporated into this page, where would you expect the ratings to be?
+**Pull up the CT Profile page**
 
- - Would adding ratings make this page more valuable or just more cluttered?
- - If school ratings were added, what do you think would happen to the student complaints section? 
+Let's take another look at the Comparison Tool.  We're curious to know your thoughts on where in the tool it would make the most sense for the school ratings to display.
 
 
 ## Post-Task Interview - X minutes
