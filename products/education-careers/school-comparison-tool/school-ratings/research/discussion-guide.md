@@ -30,7 +30,7 @@ Let’s start with a few warm-up questions.
 
 ## Ratings Experience and Overall Value - 15 min
 
-I'm curious about how you use ratings when you're looking at a particular product or service.  For example, if you're purchasing a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  If a product or service has ratings, do those ratings influence your decision?
+I'm curious about how you use ratings when you're looking at a particular product or service.  For example, if you're purchasing a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  
 
   - When you're looking at ratings, what aspects do you pay close attention to (e.g. number of stars, number of people who rated it)?  
   - Are there any aspects that aren't important to you?  
@@ -45,20 +45,21 @@ I'm curious about how you use ratings when you're looking at a particular produc
 ## Categories - 15 minutes
 The VA would like to give prospective students better visibility into the educational experience other Veterans have had at a particular school.  Some sites like Amazon allow users to rate a product or service on a variety of factors such as product quality, timeliness of delivery, etc.  
 
-- If prior student Veterans provided ratings for schools (particularly one you were interested in attending), what factors would be most valuable to you?
+- If prior student Veterans provided ratings for schools (particularly ones you were interested in attending), what factors would be most valuable to you?
 
 - Is there any other information that you would like to know from Veterans who had attended a school you were interested in?
 
-- (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  What do you think the factor means and would it be helpful in your decision making process?
+- (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  I'd like to know what you think the factor means and if it would be helpful in your decision making process?
 Star Ratings:
   - Institution Overall
   - Quality of Classes
   - Veteran Friendliness
   - Employment Preparation
   - Recruiting/Marketing Practices
-Yes / No:
- - Would you recommend this school to another Veteran?
- - If you had to use your education benefits again, would you still attend this institution?
+
+- Would you be interested in seeing any Yes/No ratings from Veterans (such as how many Veterans would recommend a particular school)?
+
+- Are there any other types of ratings that you would like to see?
 
 - Who do you think should be able to submit ratings for a school?
    - Someone who applied and was accepted 
