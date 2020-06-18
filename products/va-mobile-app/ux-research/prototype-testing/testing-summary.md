@@ -50,9 +50,8 @@ During co-design, claims and health features were added by all participants. The
    - "Appointments - check to see when your appointments are and if you need to reschedule...if you can't make it, let someone else be able to" -- P1
    - "'VA appointments' and giving you reminders - giving you reminders about appointments would be huge." -- P5
    - "[Speaking about the value of appointment reminders] - I barely remember I had this meeting. I get out of work and I go braindead. I don't use the computer a lot at home if I can help it. Phone or tablet is main way I access internet at home." -- P3
-   
-Two participants voiced that they would like to see their VA appointments integrate into their existing calendar:
-- "If you had a little button, transfer this info to google calendar that would be awesome. I use google calendar 20, 30, 40x a day." -- P6
+   - Two participants voiced that they would like to see their VA appointments integrate into their existing calendar:
+      - "If you had a little button, transfer this info to google calendar that would be awesome. I use google calendar 20, 30, 40x a day." -- P6
 
 2. **Secure Messaging** was added by 5 participants and cited as a top priority by 1 participant. Participants said Secure Messaging was useful in an app because they use it a lot today, and would value being able to more quickly have a direct line to their provider for when they need to ask a question, request more Rx refills, etc. 
 
@@ -86,10 +85,8 @@ Two participants voiced that they would like to see their VA appointments integr
 
    - "Claims - like to see who has it, like to see if there was any progress of it was just collecting dust. There's no accountability period when it comes to a claim." -- P6
    - "I'd add 'check the status of your VA claim or appeal', because [a claims decision] opens up a lot of avenues depending on the decision that deciders give to you." -- P4
-   
-In prototype testing, the additional evidence tag on the claims detail page tested well, indicating that the claims detail view is most valuable when it shows a comprehensive view of all actions that need to be taken if there is anything a Veteran needs to do in order for their claim status to move forward.
-
-   - "[Status of a claim] is a big stressor - you dont know where you are in the process, hard to know what step you are on - I just want to see where I am and what else I have to do." -- P3
+   - In prototype testing, the additional evidence tag on the claims detail page tested well, indicating that the claims detail view is most valuable when it shows a comprehensive view of all actions that need to be taken if there is anything a       Veteran needs to do in order for their claim status to move forward.
+      - "[Status of a claim] is a big stressor - you dont know where you are in the process, hard to know what step you are on. I just want to see where I am and what else I have to do." -- P3
 
 
 2. **Chatting with a VA representative in claims** was added by 3 participants and cited as a top priority by 1 participant. Direct contact with VA was a common theme throughout sessions (see research question 4), and mentioned specifically in relation to claims by about half of participants. Participants said claims support chat in an app is useful because it would saving time from having to track information from VA via phone and bring more transparency to a frustrating process.
@@ -110,19 +107,19 @@ In prototype testing, the additional evidence tag on the claims detail page test
 
 ### Aside from these findings, there are two more points worth mentioning about claims:
 - First, P2 described getting letters from VA in the mail that did not match with the claims status she was seeing online: 
-   - "[The first thing I'd add is] being able to see the accurate status of a claim. Status + other information isn't always updated on [VA.gov] - status is only helpful if it's right." -- P2     
+   - "[The first thing I'd add is] being able to see the accurate status of a claim. Status + other information isn't always updated on [VA.gov] - status is only helpful if it's right."      
 - Second, P5 voiced a desire to see as much transparency as possible with every aspect of the claims features in our prototype:
    - "After you upload a document to a claim, have it show up in details where it says 'View Evidence' - like 'DD214 uploaded via mobile'. Having a notification feature would be really useful...getting a notification saying you succesfully uploaded your DD214, notification saying you need to schedule a C+P exam, etc."
 
-Both of these points indicate the app may want to lean into transparency as much as possible with claims, with things like:
-- Time stamp of the last time a claim status was updated
-- Time stamp for when a claim detail screen was last refreshed
-- Encouraging messge (e.g. 'You are all caught up, we will notify you as soon as something changes') if the user refreshes the page multiple times in one visit
-- Pending state for any documents uploaded through the app to clarify that an uploaded file has been received and is being processed
-- As many notifications about changes to a claim that we can provide
+**Both of these points indicate the app may want to lean into transparency as much as possible with claims, with things like:**
+   - Time stamp of the last time a claim status was updated
+   - Time stamp for when a claim detail screen was last refreshed
+   - Encouraging messge (e.g. 'You are all caught up, we will notify you as soon as something changes') if the user refreshes the page multiple times in one visit
+   - Pending state for any documents uploaded through the app to clarify that an uploaded file has been received and is being processed
+   - As many notifications about changes to a claim that we can provide
 
-Lastly, 1 participant voiced concerns over taking photos of and sharing documents such as DD-214: 
-- "[Docs I need to upload] usually have SSN, address, they're not something I am going to take a picture of to send off." -- P6
+**Lastly, 1 participant voiced concerns over taking photos of and sharing documents such as DD-214:**
+   - "[Docs I need to upload] usually have SSN, address, they're not something I am going to take a picture of to send off." -- P6
 
 
 
