@@ -13,10 +13,10 @@ We have identified some improvements to the error logging and reporting in sentr
 Primary Issues:
 1. No way to correlate veteran-facing errors to Call Center calls.
 2. No way to help the veteran without getting on the phone with them.
-3. No recource for the veterans that do not have the time or the patience to call the Call Center.
+3. No recourse for the veterans that do not have the time or the patience to call the Call Center.
 
 ### History
-Since we have had the Call Center turn on the flow of veteran issues, we have realized that the Call Center does not have enough data in order for us to find the detailed information about the veteran's issues.  Therefore, we knew we needed to not only fix some of the causes of the errors (common issues for all veterans) by digging into the error reports but we also needed to create a better infrastructure for logging messages.  Essentially, we need to be able to provide information in the veteran-facing error that allows us to correlate their error to somethung in the Sentry logs.
+Since we have had the Call Center turn on the flow of veteran issues, we have realized that the Call Center does not have enough data in order for us to find detailed information about a veteran's issues.  Therefore, we knew we needed to not only fix some of the causes of the errors (common issues for all veterans) by digging into the error reports but we also needed to create a better infrastructure for logging messages.  Essentially, we need to be able to provide information in the veteran-facing error that allows us to correlate their error to something in the Sentry logs.
 
 ### User Goals
 Reduce the time it takes to solve their disability claim or other form submission errors.  At a higher level, reduce this for all BAM1 and VSA forms/submissions.  Currently focused on just BAM1.
@@ -51,7 +51,7 @@ Less frustration for veteran's, Call Center staff, and technical team when encou
 
 # Implementation Info
 
-## Intial Discovery
+## Initial Discovery
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/6813
 Essentially this work determined that we have several main areas of solutioneering we need to focus on.
 
@@ -60,7 +60,7 @@ Problem 1: Bug tickets originating from the Help Desk often lack the context we 
 Proposed Solution:
 All errors that are reported to the user with help text directing the user to contact the service desk include an identifier unique to that user session and directs the user to include the report the identified to the help desk. The identifier is logged in Sentry, thereby allowing developers to find the exact error quickly. There are several ids peppering the logs that are possible candidates to be the id used for this: request_id, request_uuid, and transaction_id. We need to investigate which one is most appropriate to this purpose, standardize its use, and communicate its renewed purpose to VSP. This change will need investigation and buy in from design/research, frontend and backend developers, and VSP.
 
-Problem 2: It is tedious and time intensive for developers to review Sentry for errors and determine which are under our team's purview. Sentry is not pro actively reviewed by developers. Bugs are often surfaced and corrected after they negatively affect the users.
+Problem 2: It is tedious and time intensive for developers to review Sentry for errors and determine which are under our team's purview. Sentry is not proactively reviewed by developers. Bugs are often surfaced and corrected after they negatively affect the users.
 
 Proposed solution:
 Filtering rules are added to Sentry to identify errors related to our team's code. As a second step, it may be prudent for those alerts to be surfaced in a platform developers check regularly, Slack.
@@ -68,7 +68,7 @@ Filtering rules are added to Sentry to identify errors related to our team's cod
 ## Status
 1. We have reduced the error rate significantly
 2. We have improved reporting (charting) in Grafana.
-3. We have added an "job" or "submission id" to non-retryable errors.
+3. We have added an "job" or "submission id" to non-retriable errors.
 
 ## Team
 
