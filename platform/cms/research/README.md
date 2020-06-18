@@ -1,4 +1,6 @@
-#### [WIP] April - May, 2020: Assignments and editorial workflow study 
+This lists all formal research with CMS users. Feature-specific research should reside in the cross-disciplinary directory (such as [Editorial Workflow and Assignements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/content-ops/editorial-workflow/assignments/)), but should be linked to from here. 
+
+#### [WIP] April - May, 2020: Editorial workflow and assignments study 
 
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
