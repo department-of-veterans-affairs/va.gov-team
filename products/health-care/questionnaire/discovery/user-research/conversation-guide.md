@@ -72,7 +72,7 @@ Before we begin, let’s start with a few warm-up questions.
     - if needed (prompt): Do you expect that information to be automatically shared with your other VA providers? 
     
 - What format would be easiest for you to fill out medical forms (digital, paper, desktop, mobile, etc)?
-- Think back to earlier when we were discussing the high points and pain points of your last appointment at VA. When in your preparation process for an appointment would you want to 
+- Think back to earlier when we were discussing the high points and pain points of your last appointment at VA. When in your preparation process for an appointment would you want to fill out these forms?
 
 How can we make it easier for you to share your information with your doctor before a visit? After a visit? 
 
