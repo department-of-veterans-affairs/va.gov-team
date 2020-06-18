@@ -20,5 +20,11 @@ __IRIS and VEO Tier 1 Contact Center Reports__
 
 [All VA.gov Contact Center Reports - December - March](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/contact-center/monthly-reports]) The April and May report are found on DOMO. All future reports will be on DOMO: https://domo.buzz/r/wAVKokP
 
+__Help Articles and KMs__
+
+[Sign In FAQ page](https://www.va.gov/sign-in-faq/)
+
+See file for VEO Tier 1 Contact Center KM Document.
+
 
 
