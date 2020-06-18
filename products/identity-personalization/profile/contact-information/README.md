@@ -82,12 +82,24 @@ As a user, I want to be able to:
 
 ## Hypothesis
 
+Unfortunately, we don't have any documentation on this from the original 2018 work.
 
 ## Requirements 
 
+As of June 2020:
+
+- Only show the profile to users who have verified their identity (this includes contact information).
+- Allow users to view address, phone, and email information.
+- Allow users to update this information from the profile.
+- Allow users to delete all elements of contact information **except** the mailing address.
+
 ## Constraints
 
+Right now, VA Profile only integrates with some systems at the VA. Veterans still will have to update their contact info in multiple places if they have certain benefits. We outline this in the profile.
+
 ## Discovery Takeaways
+
+
 
 ## OKRs & KPIs
 
