@@ -146,7 +146,7 @@ Resources
 The project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here
 
 -   Convo Guide\
-    Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here  
+    Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June
 
 -   Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 
