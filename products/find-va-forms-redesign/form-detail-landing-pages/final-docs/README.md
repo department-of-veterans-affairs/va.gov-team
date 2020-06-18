@@ -1,8 +1,7 @@
 
-## Content docs for top form detail landing pages (custom content)
+## Content for top MVP forms
 
-
-__6/2 consolidated Randi, Danielle, Jen's updates:__
+__/ 6/2 consolidated Randi, Danielle, Jen's updates:__
 
 This copydeck contains the custom content for "When to use this form," "Related forms and instructions," and the custom helpful links ("Helpful links related to VA Form XXXXXXX") content fields. 
 
@@ -16,7 +15,7 @@ This spreadsheet contains the "Related to" and "Online tool" URL data for the to
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-content-docs/top-va-forms-custom-fields-051220.xlsx
 
 
-## Spreadsheet for the other basic form detail landing pages 
+## Content for the other 400+ forms
 
 __Version 4 spreadsheet with custom content fields for the 400+ not top forms:__ 
 
