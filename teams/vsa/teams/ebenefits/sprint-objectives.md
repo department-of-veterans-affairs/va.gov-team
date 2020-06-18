@@ -8,9 +8,27 @@
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 24 (6/17 - 6/30)
+```diff
+- 51 points over 19 issues
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE and BE final launch activities, target Staging Review
+- Product: Iterate on call center documentation (sync text changes into existing documentation)
+- Team: Prepare UAT plan
+## 2. POA: Design Iteration
+- Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+## 3. VRE (CH31) and PCPG (CH36): Design Iteration
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+- Design: Design and prototype "eligibility wizard" widgets
+- FE: Scaffold eligibility wizards and forms based on current designs/ understanding
+## 4. View My Payments: Initial Dev Activities
+- FE: Set up routes, mock data, scaffold app page, other setup activities
+- BE: (Stretch Goal) Rough in View Payments service, return staging data to FE
+
 ## Sprint 23 (6/3 - 6/16)
 ```diff
-- 69 over 21 issues
+- 69 over 23 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
 - FE: Finalize end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
