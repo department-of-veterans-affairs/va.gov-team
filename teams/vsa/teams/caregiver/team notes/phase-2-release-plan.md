@@ -11,7 +11,7 @@
 | Description| Status |
 | --- | --- |
 | **Veterans and caregivers will be able to:** | 
-| Provide feedback to the Caregiver Program team on the current online form implementation | :zap: |
+| Provide feedback to the Caregiver Program team on the current online form implementation through user research | :zap: |
 | Call the Contact Center with any questions about filling out the form | :zap: |
 | Know earlier on in the form whether they'll be able to to submit online (stretch) | :zap: |
 | Access and submit the form in Production when approved by the Program team| :zap: |
