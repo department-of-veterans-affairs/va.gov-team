@@ -135,7 +135,7 @@ When?
 
 -   Participant(s) for pilot test: TBD
 
--   Note-takers: Kevin S.
+-   Note-takers: Perigean (verbatim, detailed notes)
 
 -   Observers: Nick S., Robin G., Andrea S., Shawna H., Luke M.
 
