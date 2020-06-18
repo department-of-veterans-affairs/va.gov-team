@@ -17,6 +17,15 @@ This research should focus on areas in the experience that we know (through anal
 4. Appointments list - appointments listed first in ascending order with date furthest away at bottom of list. Then we show the 'requests' in alphabetical order. Received some feedback on this sorting/statuses. 
 5. Past Appointments - this is a new feature - we want to see if it's meeting Veterans' needs. 
 6. Cancellation - are Veterans having issues when trying to make cancellations? Are they expecting something additional when they try and cancel?
+
+10. General feedback on new experience 
+     - Do Veterans hit certain roadblocks in their scheduling experience in new VAOSR? What are those roadblocks?
+11. Feedback on Express Care prototype
+
+## Areas we know need attention:
+- expanding 'reason for appointment' text box from 150 characters (already have user story for this)
+
+## Questions / outside scope of this specific research:
 7. Are Veterans expecting additional methods for communication in VAOS?
      - Example is in-app messaging to Schedulers and/or providers. Previous version of VAOS had a very limited 2-way messaging feature limited to 2 messages to scheduler. 
      - Specifically, if they have questions about specific appointment
@@ -24,10 +33,4 @@ This research should focus on areas in the experience that we know (through anal
 8. Telehealth / video appointments - issues/expectations for these appointments through VAOS?
 
 9. Login and tool instructions - a few Veterans have expressed that the login experience and the VAOSR tool instructions are confusing/hard to understand. 
-10. General feedback on new experience 
-     - Do Veterans hit certain roadblocks in their scheduling experience in new VAOSR? What are those roadblocks?
-11. Feedback on Express Care prototype
-
-## Areas we know need attention:
-- expanding 'reason for appointment' text box from 150 characters (already have user story for this)
 
