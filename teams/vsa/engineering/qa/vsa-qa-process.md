@@ -25,13 +25,13 @@ The required steps of the VSA-QA Process are as follows:
     - A single user story may require several test cases in order to provide full coverage.
     
 1. **Product Team reviews & approves Test Plan & Test Cases**.
-    - Review plan & cases in TestRail
+    - Review plan & cases in [TestRail](https://dsvavsp.testrail.io/)
     - Request changes in Test Plan ticket, or just make edits directly in TestRail if desired.
     - After requested changes are made and accepted, signify approval in Test Plan ticket -- check off appropriate items under ticket's **Definition of Done**.
 
 1. **QA \[and Product-Team members if necessary] executes QA test-runs**:
-    1. QA creates Test Runs in TestRail for the approved Test Cases. 
+    1. QA creates Test Runs in [TestRail](https://dsvavsp.testrail.io/) for the approved Test Cases. 
     2. QA (and Product-Team members if necessary) execute Test Runs, and logs any defects discovered.
 
 1. **QA reports test-results**:
-    - Once test runs are completed, QA generates test reports and add links to Test Plan ticket.
+    - Once test runs are completed, QA generates TestRail reports and adds report links to Test Plan ticket.
