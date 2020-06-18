@@ -39,12 +39,15 @@
 - Sorting dropdown removed from mobile table
 - Column headers in Returned payments table changed to match prototype
 - Dummy data in Returned payments table changed to match prototype
+- Reverted to standard pagination controls for mobile table view
+- Columns with numerical data set to right-align in desktop view
 
 ### Prototype Changelog
 **June 18, 2020**
 - Desktop view of table styled to match "Borderless table" in VA Sketch Library file
 - Mobile view of tables styled to match "Responsive table" in VA Sketch Library file
-- Prtotype pagination and sorting updated to match new styling
+- Columns with numerical data set to right-align in desktop view
+- Prototype pagination and sorting updated to match new styling
 
 ---
 
