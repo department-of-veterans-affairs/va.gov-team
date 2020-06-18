@@ -13,8 +13,7 @@ When Veterans are looking for schools within the Comparison tool, they want to k
   - Whose ratings would Veterans most like to see (e.g. authenticated users versus unauthenticated, Veterans versus beneficiaries, rater's experience with school - only applied, attended, graduated)?
   - What information would Veterans like to know from raters about the school?  What is important to them in choosing a school?  What type of information would sway their opinion of the school (for good or bad)?
   - What do Veterans expect ratings to look like?
-       - Is a date shown for when the rating was submitted?
-       - What information do they expect to see on the rater?
+  - What information do they expect to see on the rater?
   - What value do Veterans see in quantitative ratings?
   - Where do Veterans expect to see these ratings on the school profile pages?  Would they expect to see that information anywhere else on the Comparison Tool?
 4. Hypothesis: What is your hypothesis for this research? 
