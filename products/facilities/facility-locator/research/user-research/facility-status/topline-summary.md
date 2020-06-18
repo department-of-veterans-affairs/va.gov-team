@@ -19,9 +19,9 @@ This topline summary is a result of the synthesis that happens after conducting/
 
 ## Introduction
 
-In general, participants categorized events and information that affect the status of a facility into two main categories; information that lets them prepare for their visit in advance and information that needs to be communicated more expeditiously. The delivery mechanism was also implied in the way users categorized, expecting to be informed about the more urgent information. 
+In general, participants categorized events and information that affect the status of a facility into two main categories; information that lets them prepare for their visit in advance and information that needs to be communicated more expeditiously. 
 
-Information that was more temporary in nature would expire and be noted with timeframes.
+The delivery mechanism was also implied in the way users categorized, expecting to be informed about the more urgent information. Information that was more temporary in nature would expire and be noted with timeframes.
 
 More findings will follow this topline summary upon deeper synthesis  of the research.
 
