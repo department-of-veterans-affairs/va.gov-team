@@ -72,11 +72,11 @@ Logo, app name, and bullet points are pulled in from Okta (our OAuth solution ma
     
 - **FAQ link text**: What should I do if my records are wrong or out of date in a connected app?
   - **FAQ dropdown text**: This depends on the issue:
-  ●If your health records are missing:  It can take up to 3 days for new health records to show in a connected app. If it’s been more than 3 days since your last appointment, or if you need your information sooner, [sign in to My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or contact your VA health care team.
+  - **Bullet**: If your health records are missing:  It can take up to 3 days for new health records to show in a connected app. If it’s been more than 3 days since your last appointment, or if you need your information sooner, [sign in to My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home) or contact your VA health care team.
   - **Sign in to My HealtheVet link**: https://www.myhealth.va.gov/mhv-portal-web/user-login?redirect=/mhv-portal-web/home
-  ●If your information isn’t accurate: Call VA311 at 844-698-2311. If you have hearing loss, call TTY: 711. Or visit a VA health facility near you and ask a staff member for help. [Find a VA health facility near you](https://www.va.gov/find-locations)
+  - **Bullet**: If your information isn’t accurate: Call VA311 at 844-698-2311. If you have hearing loss, call TTY: 711. Or visit a VA health facility near you and ask a staff member for help. [Find a VA health facility near you](https://www.va.gov/find-locations)
   - **Find a VA health facility near you link**: https://www.va.gov/find-locations
-  ●If you’re getting an “unreadable data” message: This means the connected app has access to your information, but isn’t using it in its interface. It’s nothing to worry about. If you have questions about this, send feedback directly to the app.
+  - **Bullet**: If you’re getting an “unreadable data” message: This means the connected app has access to your information, but isn’t using it in its interface. It’s nothing to worry about. If you have questions about this, send feedback directly to the app.
   
   - **FAQ link text**: What should I do if I no longer trust a connected app?
   - **FAQ dropdown text**: Take these 3 steps to protect your information:
