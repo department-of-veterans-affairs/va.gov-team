@@ -115,13 +115,13 @@ Research questions
 When?
 -----
 
--   Timeline for this study: June TBD (pilot test)............, 2020
+-   Timeline for this study: 25, 26, 29 June 2020.
 
--   Length of Sessions: 60 minutes
+-   Length of Sessions: 60 minutes. With a 15 min break between each session.
 
--   Availability: 11 am to 8 pm (ET) with 15 minutes BREAK between each session.
+-   Availability: 11 am to 8 pm (ET) (with 15 minutes break between each session).
 
--   Pilot: June TBD, 2020
+-   Pilot: June 24th, 2020
 
 #### Team Roles
 
