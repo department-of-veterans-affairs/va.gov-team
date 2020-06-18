@@ -9,6 +9,7 @@
 
 ## Frontend
 - Better Veteran verification process (risk write up)
+- Implement IA
 - Second round of usability testing
 - Code refactor
 
