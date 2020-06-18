@@ -23,11 +23,10 @@ Before we start, a few things I want to mention:
 Let’s start with a few warm-up questions.
  - Are you currently using or have you ever used your education benefits?
    - If yes, which benefit are you using?  When did you start school?
-   - If no, do you plan on using your benefits in the near future?  Which benefit?
+   - If no, do you plan on using your benefits in the near future?  Which benefit?  Where are you in the school selection process?
    
  - Have you ever used the GI Bill Comparison Tool before? 
   - If yes, what did you use it for?
-  
   
 
 ## Ratings Experience and Overall Value - 15 min
@@ -45,9 +44,10 @@ I'm curious about how you use ratings when you're looking at a particular produc
    - If yes, which ones?  What did you like about those sites?
 
 ## Categories - 15 minutes
-The VA would like to give prospective students better visibility into the educational experience other Veterans have had at a particular school.  Some sites like Amazon allow users to rate a product or service on a variety of factors such as product quality, timeliness of delivery, etc.  
 
-- If prior student Veterans provided ratings for schools (particularly ones you were interested in attending), what factors would be most valuable to you?
+The VA would like to give prospective students better visibility into the educational experience other Veterans have had at a particular school.  Some sites like Amazon allow users to rate a product or service on a variety of factors such as product quality, timeliness of delivery, etc. 
+
+- If someone who had previously received VA education benefits provided ratings for schools (particularly ones you were interested in attending), what factors would be most valuable to you?
 
 - Is there any other information that you would like to know from Veterans who had attended a school you were interested in?
 
@@ -73,15 +73,13 @@ Star Ratings:
    - Someone who applied and was rejected
    - Someone who attended classes, but didn't complete their degree
    - Someone who finished their degree
-   
- - What are your thoughts on the trustworthiness of ratings that would appear in this Comparison Tool? Why?  
 
+**Pull up a school profile page on the CT**
+The VA is considering incorporating ratings into the GI Bill Comparison Tool so beneficiaries of education benefits can provide feedback on the schools they have attended. The page in front of you is a school profile page on the GI Bill Comparison Tool.
 
-## Ratings Location - 10 minutes
+ - If ratings were incorporated into the Comparison Tool, where do you think it would make the most sense for the ratings to appear?
+ - What are your thoughts on the trustworthiness of ratings that would appear in the Comparison Tool? Why?
 
-**Pull up the CT Profile page**
-
-Let's take another look at the Comparison Tool.  We're curious to know your thoughts on where in the tool it would make the most sense for the school ratings to display.
 
 
 ## Post-Task Interview - X minutes
