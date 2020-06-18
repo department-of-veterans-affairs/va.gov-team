@@ -36,12 +36,12 @@ When Veterans are looking for schools within the Comparison tool, they want to k
  - 9 participants
  - GI Bill beneficiaries using a variety of education benefits
     - No more than 4 participants using any particular type of benefit (e.g. Post 9/11, Montgomery, Voc Rehab, etc.)
-    - 4 - 5 GI Bill beneficiaries who will start using their GI Bill benefits in the next 3 months 
-    - 4 - 5 GI Bill beneficiaries who have started using their GI Bill benefits in the past 6 months
+    - 4 - 5 GI Bill beneficiaries who will start using their GI Bill education benefits in the next 3 months 
+    - 4 - 5 GI Bill beneficiaries who started using their GI Bill education benefits in the past 6 months
 
 Age Range: 24-54
 
-Gender: Varied
+Gender: Mix
 
 Geography: Geographically dispersed across US
 
