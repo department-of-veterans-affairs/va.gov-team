@@ -1,15 +1,15 @@
 # IA Review and Recommendations
-**STATUS: NOT STARTED**
+**STATUS: DRAFT**
 
 **Team:** BAM 1
 
-**Product/Featue:** Benefits Delivery at Discarge
+**Product/Featue:** Benefits Delivery at Discarge - this will be an additional flow within the existing 526 claim form. 
 
 **Background/Context:** The BDD program allows Service members to apply for their disability benefits before separation.
 
 **IA Completed Date:** 
 
-**IA Review Issue:** 
+**IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/10184
 
 <hr>
 
@@ -18,11 +18,10 @@
 
 **Approach:**
 
-- 
-
 
 Page | URL | Breadcrumb
 --- | --- | ---
+
 
 **General Details**
 - Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
@@ -32,6 +31,8 @@ Page | URL | Breadcrumb
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
+
+Entry points to pre-discharge
 Priority | Placement | Description
 --- | --- | ---
 
@@ -56,6 +57,11 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 <hr>
 
 ### Meetings Notes and Background Info
+
+6/18/20 - User research and SEO findings
+- Research did show that users struggled to find the pre-discharge page - they utilized search, disability menus and service member hub
+- SEO data shows more activity for "BDD" and "benefits delivery at discharge", less for "pre-discharge claim"
+
 
 **Usability testing prep - 3/9/2020**
 - IA feedback issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/6692
