@@ -49,6 +49,8 @@ The VA would like to give prospective students better visibility into the educat
 
 - Is there any other information that you would like to know from Veterans who had attended a school you were interested in?
 
+- How valuable would that information be in making a decision to attend the school or not?
+
 - (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  I'd like to know what you think the factor means and if it would be helpful in your decision making process?
 Star Ratings:
   - Institution Overall
@@ -57,9 +59,7 @@ Star Ratings:
   - Employment Preparation
   - Recruiting/Marketing Practices
 
-- Would you be interested in seeing any Yes/No ratings from Veterans (such as how many Veterans would recommend a particular school)?
-
-- Are there any other types of ratings that you would like to see?
+- Are there any other types of ratings that you would like to see? (For example, the percentage of Veterans who would recommend a particular school)
 
 - Who do you think should be able to submit ratings for a school?
    - Someone who applied and was accepted 
