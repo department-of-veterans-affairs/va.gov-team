@@ -148,6 +148,9 @@ The project brief should live in the appropriate va.gov-team product folder, sim
 -   Convo Guide\
     Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here  https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June
 
+-   Mural board for Co-design session:
+https://app.mural.co/t/vsa8243/m/vsa8243/1592413310361/5511f8f16a1ff44ef14923ff0728519c55142b7a
+
 -   Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
 
 -   Lessons Learned\
