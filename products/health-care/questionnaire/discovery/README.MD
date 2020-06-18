@@ -1,4 +1,5 @@
 # Discovery Kickoff - Sprint 23 06/03/20 -06/16/20
+[Kickoff Video Recording](https://drive.google.com/file/d/1ktbpytWOFmHp8bwN5bJ4kAB4kou5QHHm/view?usp=sharing) June 4, 2020
 
 [Discovery Brief and Planning Template- used to kickoff discovery planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/project_brief_planning.md) June 11, 2020
 
