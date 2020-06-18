@@ -26,7 +26,7 @@ Let’s start with a few warm-up questions.
    - If no, do you plan on using your benefits in the near future?  Which benefit?  Where are you in the school selection process?
    
  - Have you ever used the GI Bill Comparison Tool before? 
-  - If yes, what did you use it for?
+    - If yes, what did you use it for?
   
 
 ## Ratings Experience and Overall Value - 15 min
