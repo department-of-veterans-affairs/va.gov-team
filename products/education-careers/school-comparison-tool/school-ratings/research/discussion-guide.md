@@ -30,7 +30,7 @@ Let’s start with a few warm-up questions.
 
 ## Ratings Experience and Overall Value - 15 min
 
-I'm curious about if you use ratings when you're interested in buying a particular product or service.  For example, if you're  buying a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  If a product or service has ratings, do those ratings influence your decision?
+I'm curious about how you use ratings when you're looking to buy a particular product or service.  For example, if you're purchasing a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  If a product or service has ratings, do those ratings influence your decision?
 
   - When you're looking at ratings, what aspects do you pay close attention to (e.g. number of stars, number of people who rated it)?  
   - Are there any aspects that aren't important to you?  
