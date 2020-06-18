@@ -41,6 +41,11 @@
 - Dummy data in Returned payments table changed to match prototype
 - Reverted to standard pagination controls for mobile table view
 - Columns with numerical data set to right-align in desktop view
+- Note regarding returned payments table added
+
+**June 8, 2020**
+- Breadcrumbs revised to align with IA recommendations
+- Paymets table header changed to align with Content/IA recommendations
 
 ### Prototype Changelog
 **June 18, 2020**
@@ -48,6 +53,11 @@
 - Mobile view of tables styled to match "Responsive table" in VA Sketch Library file
 - Columns with numerical data set to right-align in desktop view
 - Prototype pagination and sorting updated to match new styling
+- Note regarding returned payments table added
+
+**June 8, 2020**
+- Breadcrumbs revised to align with IA recommendations
+- Paymets table header changed to align with Content/IA recommendations
 
 ---
 
