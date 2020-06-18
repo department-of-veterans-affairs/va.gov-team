@@ -5,7 +5,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we would like to talk about ratings and what information is helpful to Veterans when determining if a particular school would be a good fit for them.  Specifically, if the VA asked Veterans who had attended a particular school to give feedback on a school, what value would that offer Veterans and what information would they want to know?
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we would like to talk about ratings and what types of information help Veterans determine if a particular school is a good fit for them.  
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -22,8 +22,11 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
  - Are you currently using or have you ever used your education benefits?
-   - If yes, which benefit are you using?  When did you start school?
-   - If no, do you plan on using your benefits in the near future?  Which benefit?  Where are you in the school selection process?
+   - If yes, which benefit are you using?  
+       - When did you start school?
+   - If no, do you plan on using your benefits in the near future?  
+       - Which benefit?  
+       - Where are you in the school selection process?
    
  - Have you ever used the GI Bill Comparison Tool before? 
     - If yes, what did you use it for?
@@ -60,7 +63,7 @@ The VA would like to give prospective students better visibility into the educat
     - What do you think this factor means?  
     - Would it would be helpful in your decision making process?
     
-Star Ratings:
+Five Star Ratings:
   - Institution Overall
   - Quality of Classes
   - Veteran Friendliness
