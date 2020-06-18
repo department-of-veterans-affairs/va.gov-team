@@ -79,6 +79,8 @@ Five Star Ratings:
    - Someone who finished their degree
 
 **Pull up a school profile page on the CT**
+
+
 The VA is considering incorporating ratings into the GI Bill Comparison Tool so beneficiaries of education benefits can provide feedback on the schools they have attended. The page in front of you is a school profile page on the GI Bill Comparison Tool.
 
  - If ratings were incorporated into the Comparison Tool, where do you think it would make the most sense for the ratings to appear?
