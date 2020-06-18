@@ -10,12 +10,12 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
   - What are Veterans' thoughts on ratings generally?  Are they helpful or not?
   - What would users think of the trustworthiness of ratings displayed on the Comparison Tool?
-  - What, if any, boundaries or restrictions would Veterans like to see on who can provide ratings (e.g. authenticated users versus unauthenticated, Veterans versus beneficiaries, rater's experience with school - only applied, attended, graduated)?
+  - Whose ratings would Veterans most like to see (e.g. authenticated users versus unauthenticated, Veterans versus beneficiaries, rater's experience with school - only applied, attended, graduated)?
   - What information would Veterans like to know from raters about the school?  What is important to them in choosing a school?  What type of information would sway their opinion of the school (for good or bad)?
   - What do Veterans expect ratings to look like?
-       - Narrative or quantitative (e.g. star) ratings only?
        - Is a date shown for when the rating was submitted?
        - What information do they expect to see on the rater?
+  - What value do Veterans see in quantitative ratings?
   - Where do Veterans expect to see these ratings on the school profile pages?  Would they expect to see that information anywhere else on the Comparison Tool?
 4. Hypothesis: What is your hypothesis for this research? 
  - We believe that ratings will matter to Veterans and will influence their decision on where they use their GI Bill benefits.  We believe that Veterans will want to know about the experience of other Veterans at a particular school to assess if that school will be a good fit for them.
@@ -42,9 +42,11 @@ When Veterans are looking for schools within the Comparison tool, they want to k
 
 Age Range: 24-54
 
+Gender: Varied
+
 Geography: Geographically dispersed across US
 
-VA Benefit requirement: Any GI Bill benefits
+VA Benefit requirement: Any education benefits
 
 Technology: Access to a computer, preferably running Google Chrome browser
 
