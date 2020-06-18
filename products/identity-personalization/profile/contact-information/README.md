@@ -1,4 +1,4 @@
-# Candidate Address Validation Product Outline
+# Contact Information Product Outline
 
 ## POCs
 - GitHub Label: Profile
@@ -50,12 +50,35 @@
  
 # Executive Summary
 
+The contact information section of the VA.gov profile allows users to view and update their:
+
+- Mailing address
+- Home address
+- Home phone
+- Mobile phone
+- Work phone
+- Fax number
+- Email address (for contact, not sign in)
+
+The backend for this is powered by VA Profile (formerly Vet360), which is integrated with a handful of systems at the VA. This means that when a user updates their information in the VA.gov profile, it updates it multiple places at the VA so that veterans don't have many disparate addresses on file. Our integration with VA Profile launched in summer 2018.
+
 ## User Problem Statement
+
+As a veteran at the VA, I want to make sure the VA has the right contact information for me so I can receive my benefits that come via mail, things like prescriptions and medical supplies. I also want to make sure the VA has the right contact information for me so I can receive important correspondence related to my benefits.
 
 ## Solution Goals
 
+As the VA, we want to:
+
+- Have the most up-to-date contact information for veterans, so we can make sure important benefit information gets to the right place.
+
 ### User Goals
 
+As a user, I want to be able to:
+
+- View what contact information the VA has on file for me.
+- Update my contact information as it changes.
+- Update my contact information in one place and have it update everywhere at the VA.
 
 ## Hypothesis
 
@@ -63,7 +86,6 @@
 ## Requirements 
 
 ## Constraints
-
 
 ## Discovery Takeaways
 
