@@ -29,9 +29,7 @@ Sign in to start your application { button }
 
 { if logged in, informational alert }  
 
-**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.  
-
-Start the education application >> { button }  
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
 
 { end if logged in }  
 
@@ -45,9 +43,9 @@ Start the education application >> { button }
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
 
 * Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-* Have used all your education benefits or are within 6 months of doing so.  
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)  
-* Are enrolled in an undergraduate degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* Have used all of your education benefits or are within 6 months of doing so when you submit your application.  
+[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -55,16 +53,12 @@ Start the education application >> { button }
 To fill out this application, you’ll need your:  
 
 * Social Security number  
-* Education history  
-* Information about your school and STEM degree  
-* Military details  
+* Information about your school and STEM degree   
 * Bank account direct deposit information  
 
 
 **What if I need help filling out my application?** A School Certifying Official (SCO) at your school or an accredited representative, like a Veterans Service Officer (VSO), can help you fill out your claim. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
 
-**Learn about educational programs**  
-See what benefits you’ll get at the school you want to attend. [Use the GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool/)
 
 #### 3. Apply
 Complete this education benefits form.
@@ -219,12 +213,12 @@ Form 22-10203
 
 __Your responses:__  
 :heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-:heavy_check_mark:  Have used all your education benefits or are within 6 months of doing so  
-:heavy_check_mark:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+:heavy_check_mark:  Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification   
+:heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-:heavy_multiplication_x:  Have used all your education benefits or are within 6 months of doing so  
-:heavy_multiplication_x:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+:heavy_multiplication_x:  Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification   
+:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
   
 Would you still like apply and let us determine your eligibility? (*Required) 
 
@@ -411,13 +405,17 @@ Bank routing number (*Required) {text field}
 
 Bank account number (*Required) {text field}  
 
-I don’t want to use direct deposit { checkbox }  
+I don’t want to use direct deposit { checkbox }   
+
+**Note:** Any bank account information you enter here will only affect your Rogers STEM Scholarship payments. Updates here will not change accounts on file for your existing VA compensation, pension, education, and health benefits.  
 
 What if I don’t have a bank account? { additional info component }
 
-The Department of Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
+The Department of the Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
 
-If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard, apply at [www.usdirectexpress.com](www.usdirectexpress.com) or call [1-800-333-1795]().  
+If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:   
+* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or* 
+* Call [1-800-333-1795]()  
 
 If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
 
