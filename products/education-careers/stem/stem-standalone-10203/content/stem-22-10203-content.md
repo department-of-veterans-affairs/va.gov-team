@@ -181,13 +181,13 @@ About how much of your education benefit do you have left? (*Required) [Check yo
 - Less than 6 months
 - None. I've used all of my education benefit
 
-{ if "6 months or less" or "None, I've used it all", display a checkmark for the "Less than 6 months..." question on the next page}  
+{ if "Less than 6 months" or "None. I've used all of my education benefit", display a checkmark for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
 
-{ if "More than 6 months", display an "x" for the "Less than 6 months" question on the next page }  
+{ if "More than 6 months", display an "x" for the "Have used all of your education benefits..." bullet on STEM eligibility summary page }  
 
-{If not STEM undergrad or not pursuing teaching certification – will be noted in  STEM eligibility summary page }  
+{If not STEM undergrad or not pursuing teaching certification – will be noted in STEM eligibility summary page }  
 
-{ if user is ineligible due to not meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification, more than 6 months benefits) CONTINUE to STEM eligibility summary page }  
+{ if user is ineligible due to not meeting one of the 3 STEM requirements (No CH33, no STEM undergrad or not pursuing teaching certification, more than 6 months benefits) CONTINUE to STEM eligibility summary page; if eligible, continue to "STEM degree and school details" page. }  
 
 [ Back | Continue ] { buttons } [
 
@@ -218,73 +218,23 @@ __Your responses:__
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
 :heavy_multiplication_x:  Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification   
-:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
-  
-Would you still like apply and let us determine your eligibility? (*Required) 
+:heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application  
+
+If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
+
+[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
+
+Would you still like apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
 
-If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
-
-[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button } . 
-
 { end gray box }
 
-{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form }
+{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/eligibility/ }
 
 [ Back | Continue ] { buttons } 
 
-[Finish this application later]()
-
-
-________________________________________
-
-## Form Title: Apply for the Rogers STEM Scholarship 
-
-Form 22-10203  
-
-#### 10203 Screen No. { to come }  
-
-### Chapter Title:  3 of 6: Program details  
-
-#### Your STEM degree { Sub-head } 
-
-Select the type of STEM degree you’re pursuing (*Required) { Dropdown with 10 options }
-
-{ dropdown options:  
-Biological or Biomedical Science   
-Physical Science   
-Science Technologies or Technicians  
-Computer and information science and support services  
-Mathematics or Statistics  
-Engineering  
-Engineering Technologies or an Engineering-related field  
-A health profession or related program  
-An agriculture science program or a natural resources science program  
-Other program not listed…   
-}
-
-{ Selecting “Other program not listed…” populates conditional field: }
-
-Enter the name of your STEM degree (*Required) { text field }
-
-
-#### Credit hours for your STEM degree { Sub-head }  
-
-Is your STEM program of study by semester or quarter? (*Required) { radio buttons }  
-
-* Semester
-* Quarter
-
-How many credit hours does your STEM degree require for graduation? (*Required) { text field }   
-
-How many credit hours of your STEM degree have you completed? (*Required) { text field }   
-
-**Note:** If you need help completing this form, your school’s School Certifying Official (SCO) can help you.
-
-
-[ Back | Continue ] { buttons }  
 [Finish this application later]()
 
 
@@ -298,7 +248,9 @@ Form 22-10203
 
 ### Chapter Title:  3 of 6: Program details
 
-#### Your school details { Sub-head } 
+#### STEM degree and school details { Sub-head }  
+
+What's the name of your STEM degree? (*Required) { text field }  
 
 What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field }  
 
@@ -371,7 +323,8 @@ Please enter your contact details below so we can get in touch with you, if nece
 - Home phone number
 - Mobile phone number (*Required)
         
-What is the best way for us to contact you? (Check all that apply) { radio buttons } 
+What is the best way for us to contact you? (Check all that apply) { radio buttons }  
+
 - Mail
 - Email
 - Home phone
@@ -397,7 +350,8 @@ Please provide your bank account type as well as your current routing number and
 
 { visual aid of check }  
 
-Account type (*Required) { radio button }
+Account type (*Required) { radio button }  
+
 * Checking  
 * Savings  
 
@@ -413,8 +367,9 @@ What if I don’t have a bank account? { additional info component }
 
 The Department of the Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
 
-If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:   
-* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or* 
+If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:  
+
+* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or*  
 * Call [1-800-333-1795]()  
 
 If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
