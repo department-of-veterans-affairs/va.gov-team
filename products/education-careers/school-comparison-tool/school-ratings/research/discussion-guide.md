@@ -22,53 +22,63 @@ Before we start, a few things I want to mention:
 
 Let’s start with a few warm-up questions.
  - Are you currently using or have you ever used your education benefits?
-   - If yes, when did you start school?
-   - If no, do you plan on using your benefits in the near future?
+   - If yes, which benefit are you using?  When did you start school?
+   - If no, do you plan on using your benefits in the near future?  Which benefit?
+   
  - Have you ever used the GI Bill Comparison Tool before? 
   - If yes, what did you use it for?
 
 ## Ratings Experience and Overall Value - 15 min
 
-I'm curious about how you use ratings in your daily life.  When you're interested in buying a particular product or service (e.g. buying a new vacuum cleaner or trying a new restaurant), how do you decide if you want to try that product or service?  If a product or service has ratings, do those influence your decision?
+I'm curious about if you use ratings when you're interested in buying a particular product or service.  For example, if you're  buying a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  If a product or service has ratings, do those ratings influence your decision?
 
   - When you're looking at ratings, what aspects do you pay close attention to (e.g. number of stars, number of people who rated it)?  
   - Are there any aspects that aren't important to you?  
   - Why are these aspects important or not important to you?
-  - How heavily do ratings influence your ultimate decision?
   - What helps you decide if a rating or review is trustworthy?
+  - Do ratings influence your ultimate decision?  If so, how much?
   
 - Are there any particular sites that you frequently visit that use ratings?  What do you like about these sites?
 - Have you ever looked at sites to compare schools?  
    - If yes, which ones?  What did you like about those sites?
 
-## Categories - 10 minutes
-- Some sites like Amazon allow users to rate a product or service on a variety of factors such as product quality, timeliness of delivery, etc.  If there were similar ratings for schools you were interested in attending, what categories would be of interest to you?
+## Categories - 15 minutes
+The VA would like to give prospective students better visibility into the educational experience other Veterans have had at a particular school.  Some sites like Amazon allow users to rate a product or service on a variety of factors such as product quality, timeliness of delivery, etc.  
+
+- If prior student Veterans provided ratings for schools (particularly one you were interested in attending), what factors would be most valuable to you?
 
 - Is there any other information that you would like to know from Veterans who had attended a school you were interested in?
 
-- Who do you think should be able to submit ratings for a school?
- - Someone who applied and was accepted 
- - Someone who applied and was rejected
- - Someone who attended classes, but didn't complete their degree
- - Someone who finished their degree
-
-- (As applicable) In terms of school ratings, there are a few categories I would like to get your feedback on.  What do you think the category is talking about and would it be helpful in your decision making process?
+- (As applicable) In terms of school ratings, there are a few factors I would like to get your feedback on.  What do you think the factor means and would it be helpful in your decision making process?
+Star Ratings:
   - Institution Overall
   - Quality of Classes
   - Veteran Friendliness
   - Employment Preparation
   - Recruiting/Marketing Practices
+Yes / No:
+ - Would you recommend this school to another Veteran?
+ - If you had to use your education benefits again, would you still attend this institution?
+
+- Who do you think should be able to submit ratings for a school?
+   - Someone who applied and was accepted 
+   - Someone who applied and was rejected
+   - Someone who attended classes, but didn't complete their degree
+   - Someone who finished their degree
+   
+ - Since VA hosts the site where these ratings would live, would that impact whether you felt the ratings were trustworthy or not?  
 
 
-## Ratings Location - X minutes
+## Ratings Location - 10 minutes
 
 This is a school profile page on the Comparison Tool.  If school ratings were incorporated into this page, where would you expect the ratings to be?
+
+ - Would adding ratings make this page more valuable or just more cluttered?
+ - If school ratings were added, what do you think would happen to the student complaints section? 
 
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
