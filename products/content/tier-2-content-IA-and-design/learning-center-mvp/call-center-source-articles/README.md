@@ -24,6 +24,26 @@ __Help Articles and KMs__
 
 [Sign In FAQ page](https://www.va.gov/sign-in-faq/)
 
+[Change Address KM](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000107528/HD-Change-Address-in-VAgov-profile?query=va.gov)
+
+[Filing a Claim](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000047628/HD-Filing-a-Claim?query=va.gov)
+
+[Download VA Letters and Documents](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000073500/HD-Download-VA-Letters-and-Documents?query=va.gov)
+
+[Careers and Employment](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000049602/HD-Careers-and-Employment?query=va.gov) 
+
+[Prescription Refill](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000049559/HD-Prescription-Refill?query=va.gov)
+
+[Burial Need Pre-Application](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000088067/HD-Burial-Pre-need-Eligibility-Application?query=va.gov)
+
+[VA.gov Application Overview and Guidance](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000049252/HD-Application-Forms?query=va.gov)
+
+[Post 911 GI Bill Enrollment Status](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000047626/HD-Post-911-GI-Bill-Enrollment-Status?query=va.gov)
+
+[Appeal Status](https://vaww.vrm.km.va.gov/system/templates/selfservice/va_kanew/help/agent/locale/en-US/portal/554400000001046/content/554400000062386/HD-Appeal-Status?query=va.gov)
+
+
+
 See file for VEO Tier 1 Contact Center KM Document.
 
 
