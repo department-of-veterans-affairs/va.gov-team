@@ -3,6 +3,7 @@
 Navigation: <br>
 **Default** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content)<br>
 **Submission error** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content-1)<br>
+**Empty order submission** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content-2)<br>
 
 ## Use case - Default
 
@@ -70,4 +71,22 @@ Your order for hearing aid supplies wasn’t submitted because something went wr
 
 What you can do (Bitter Bold 15pt)
 For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+```
+
+## Use Case - Empty order submission
+
+Related links: Invisionn prototype: [Desktop](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/422126004_Empty_Order_Submission) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10373)
+
+### Description
+Due to the form system's limitations, we are unable to catch empty orders prior to submission. We need to notify the user that their order didn't submit because no items were selected and provide next steps to place an order. 
+
+### Content
+
+This is the content for the error alert. 
+```
+We're sorry. Your order wasn't submitted (Bitter Bold 20pt)
+Your order for hearing aid supplies wasn’t submitted because you didn’t select any items.
+
+What you can do (Bitter Bold 15pt)
+If you want to (place an order online)[https://va.gov/hearing-aid-batteries-and-accessories/introduction], please select at least one item before submitting your order. For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
