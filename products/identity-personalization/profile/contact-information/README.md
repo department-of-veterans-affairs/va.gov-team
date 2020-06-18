@@ -50,7 +50,7 @@
  
 # Executive Summary
 
-The contact information section of the VA.gov profile allows users to view and update their:
+The contact information section of the VA.gov profile (https://www.va.gov/profile) allows users to view and update their:
 
 - Mailing address
 - Home address
@@ -99,11 +99,15 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## Discovery Takeaways
 
-
+2018 discovery wasn't documented. For profile 2.0 discovery, [go to the 2019 Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-profileaccount).
 
 ## OKRs & KPIs
 
-### [GA dashboard for ]()
+Original OKRs & KPIs for 2018 redesign were not documented. For the latest OKRs & KPIs for profile 2.0, [go here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#okrs--kpis).
+
+### [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
+### [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
+### [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
 ---
 
@@ -111,19 +115,32 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## Status
 
+- Details of the 2018 work can be found in the [old profile product outline in the vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md).
+- Details of the 2019 address validation (candidate address) work can be found in the [address validation product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md).
+- Details of the 2020 profile 2.0 redesign can be found in the [current profile product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md).
+
 ## Solution Narrative
+
+- 2016/17 — Prototypical "account" page on Vets.gov.
+- Spring 2018 - Original EMIS profile launched to Vets.gov.
+- Summer 2018 — Profile backend transitioned to VA Profile (then- Vet360).
+- 2019/2020 – Address validation added to the Mailing and Home address fields.
+- Fall 2020 - Contact information visually redesigned as part of the profile 2.0 overhaul.
 
 ## How to Access and Test
 
-- Login with [vets.gov.user+130@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L132) on https://staging.va.gov
+- Login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
-- Edit the "Mailing Address" or "Home address" under "Contact information"
 
 ## Error Handling
+
+- [List of VA Profile (Vet360) error codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/Profile%20Error%20Codes.md)
 
 ## Service Level Objective
 
 ## API Calls and Dependent Systems
+
+- Contact information is suppported by VA Profile on the backend.
 
 ## On Call Support
 
@@ -131,4 +148,5 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## Design 
 
-### Screenshots
+- [2018 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/profile-V1/design)
+- [2020 Profile 2.0 designs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design)
