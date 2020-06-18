@@ -30,7 +30,7 @@ Before we begin, let’s start with a few warm-up questions.
     - If so, what was that experience like? 
   
 
-## Topic: Current experience - 10 minutes
+## Topic: Current experience - 15 minutes
 
 - What do you normally do to prepare for an VA appointment/visit?
 - Think back to the last time you had a VA appointment in person at a facility. Talk me through from end-to-end anything you remember about arriving at the facility, checking in for that appointment, etc. If you could, highlight any parts of that experience that were positive and any parts you find frustrating or annoying.
@@ -60,7 +60,7 @@ Before we begin, let’s start with a few warm-up questions.
 - _Where might our product fit into their curent process?_
 - _What do they call the forms?_
 
-## Topic: Veteran assumptions - 10 minutes
+## Topic: Veteran assumptions - 15 minutes
 
 - What do you think happens to the answers you provide when you answer questions about your health at the doctor's office? 
     - Orally?
@@ -86,9 +86,7 @@ How can we make it easier for you to share your information with your doctor bef
 - _Their assumptions on what happens to their data_
 - _Where to start?_
 
-## Topic: Team/product assumptions - 10 minutes
-
-## Follow-up questions:
+## Follow-up questions - 5 minutes
 
 - This might sound like a strange question, but if you were to describe to a fellow Veteran what they should expect about sharing health information with their providers at VA, what would you want them to know? 
 - In your experience, what's the difference between a screener, a form, a quesionnaire -- or is there a difference? 
