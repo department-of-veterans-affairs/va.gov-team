@@ -45,22 +45,26 @@ During co-design, claims and health features were added by all participants. The
 
 ### Health features are highly useful. Appointments, Secure Messaging, and Rx refill are the most useful health features.
 
-1. **Appointments** was added by 7 (all) participants and cited as a top priority by 4 participants. While participants talked about wanting to schedule and manage appointments, getting reminders about VA appointments was also specifically requested and mentioned by multiple participants.
+1. **Appointments** was added by 7 (all) participants and cited as a top priority by 4 participants. While participants talked about wanting to schedule and manage appointments, getting reminders about VA appointments was also specifically requested and mentioned by multiple participants. Participants said appointments are useful in an app so it's easier to keep track of when they're supposed to go into VA and more easily manage the appointments they have.
 
-   - "Appointments - check to see when your appointments are and if you need to reschedule." -- P1
+   - "Appointments - check to see when your appointments are and if you need to reschedule...if you can't make it, let someone else be able to" -- P1
    - "'VA appointments' and giving you reminders - giving you reminders about appointments would be huge." -- P5
-   - "[Speaking about the value of appointment reminders] - I barely remember I had this meeting. I get out of work and I go braindead. I don't use the computer a lot at home if I can help it. Phone or tablet is main way I access internet at home." -- P3 
+   - "[Speaking about the value of appointment reminders] - I barely remember I had this meeting. I get out of work and I go braindead. I don't use the computer a lot at home if I can help it. Phone or tablet is main way I access internet at home." -- P3
+   
+Two participants voiced that they would like to see their VA appointments integrate into their existing calendar:
+- "If you had a little button, transfer this info to google calendar that would be awesome. I use google calendar 20, 30, 40x a day." -- P6
 
-2. **Secure Messaging** was added by 5 participants and cited as a top priority by 1 participant
+2. **Secure Messaging** was added by 5 participants and cited as a top priority by 1 participant. Participants said Secure Messaging was useful in an app because they use it a lot today, and would value being able to more quickly have a direct line to their provider for when they need to ask a question, request more Rx refills, etc. 
 
    - "[The first thing I would add is] Secure Messaging - it's hard to quantify [why this is valuable] because it can be used on phone today [using MHV] - but if you didn't have to log in every time that would be helpful." -- P4
    - "Secure Messaging. If I'm out of refills I have to send a message to doc to reup refills - if I could do it in an app, it would be something I wouldn't have to remember to do when I got back home to my computer." -- P6
 
 
-3. **Rx Refills** was added by 3 participants and cited as a top priority by 3 participants
+3. **Rx Refills** was added by 3 participants and cited as a top priority by 3 participants. Participants said Rx Refill would be useful in an app because it's a task that regularly needs to be done, and being able to do it faster via an app rather than a computer. 
 
    - "[The first thing I would add is] being able to refill medications - I have 7-8 different bottles coming at 7-8 different times a month." -- P6
    - "I would like my meds to be automatically refilled for me but if not, just click a button. If [the app] needs to ask a doc, ask a doc. I just want to click a button." -- Pilot participant
+   - "[The value is] going on your phone and see what you're supposed to order rather than get out your laptop and log in. I have my phone with me all the time." -- P4
 
      
 
@@ -78,27 +82,49 @@ During co-design, claims and health features were added by all participants. The
 
 ### Claims features are highly useful. Checking a claim's status and direct access to claims support through an app are highly useful.
 
-1. **Checking the status of a claim** was added by 4 participants and cited as a top priority by 2 participants
+1. **Checking the status of a claim** was added by 4 participants and cited as a top priority by 2 participants. Seeing if/how a claim is progressing was cited as a pain point by the participants who were in process of a claim and the decision is important because it determines benefits a Veteran can access. Participants said keeping tabs on a claim's status in an app is useful because they frequently check and would value being able to do it faster and more easily.  
 
-   - "[The first thing I'd add is] being able to see the accurate status of a claim." -- P2
    - "Claims - like to see who has it, like to see if there was any progress of it was just collecting dust. There's no accountability period when it comes to a claim." -- P6
    - "I'd add 'check the status of your VA claim or appeal', because [a claims decision] opens up a lot of avenues depending on the decision that deciders give to you." -- P4
+   
+In prototype testing, the additional evidence tag on the claims detail page tested well, indicating that the claims detail view is most valuable when it shows a comprehensive view of all actions that need to be taken if there is anything a Veteran needs to do in order for their claim status to move forward.
 
-2. **Chatting with a VA representative in claims** was added by 3 participants and cited as a top priority by 1 participant
+   - "[Status of a claim] is a big stressor - you dont know where you are in the process, hard to know what step you are on - I just want to see where I am and what else I have to do." -- P3
+
+
+2. **Chatting with a VA representative in claims** was added by 3 participants and cited as a top priority by 1 participant. Direct contact with VA was a common theme throughout sessions (see research question 4), and mentioned specifically in relation to claims by about half of participants. Participants said claims support chat in an app is useful because it would saving time from having to track information from VA via phone and bring more transparency to a frustrating process.
 
    -  "Chat with VA Claims Support - I'd want to chat with whoever is taking in the forms, it seems like such a blackhole..I just don't get a lot of feedback." -- P3
+   - "Chatting [with VA Claims] is #1 - it's easier to ask a quick question on an app then call and sit on the line and wait." -- P2
 
      
 
 ### Uploading a file to a claim is somewhat useful and it's most useful to send in a few files only, not a lot of files
 
-1. **Uploading a file to a claim** was added by 2 participants and not cited as a top priority by any participants in co-design. Although this feature did not rise to the top in co-design, it tested well in prototype testing and was seen as a time saver. 
+1. **Uploading a file to a claim** was added by 2 participants and not cited as a top priority by any participants in co-design. Although this feature did not rise to the top in co-design, it tested well in prototype testing and was seen as a time saver, especially a time saver that might save additional trips to a VA facility for documents.
 
    - "I like the ability to easily send in a doc - it was a pretty decent drive [to VA to sort out claims documents]." -- P3
    - "This would allow you to take a picture of the document if you’ve got it. That’s good. Today you have to go to your VSO and ask them to take a picture and send it in, that way it’s right there so you can do it yourself." -- P1
    - "This is great. I wouldn't want to do my medical record, that is for sure. But DD-214 or one doc appointment, that wouldn't be too bad." -- P3
 
-     
+
+### Aside from these findings, there are two more points worth mentioning about claims:
+- First, P2 described getting letters from VA in the mail that did not match with the claims status she was seeing online: 
+   - "[The first thing I'd add is] being able to see the accurate status of a claim. Status + other information isn't always updated on [VA.gov] - status is only helpful if it's right." -- P2     
+- Second, P5 voiced a desire to see as much transparency as possible with every aspect of the claims features in our prototype:
+   - "After you upload a document to a claim, have it show up in details where it says 'View Evidence' - like 'DD214 uploaded via mobile'. Having a notification feature would be really useful...getting a notification saying you succesfully uploaded your DD214, notification saying you need to schedule a C+P exam, etc."
+
+Both of these points indicate the app may want to lean into transparency as much as possible with claims, with things like:
+- Time stamp of the last time a claim status was updated
+- Time stamp for when a claim detail screen was last refreshed
+- Encouraging messge (e.g. 'You are all caught up, we will notify you as soon as something changes') if the user refreshes the page multiple times in one visit
+- Pending state for any documents uploaded through the app to clarify that an uploaded file has been received and is being processed
+- As many notifications about changes to a claim that we can provide
+
+Lastly, 1 participant voiced concerns over taking photos of and sharing documents such as DD-214: 
+- "[Docs I need to upload] usually have SSN, address, they're not something I am going to take a picture of to send off." -- P6
+
+
 
 ---
 
@@ -159,6 +185,7 @@ There may be some risks with taking a claims-only or health-only approach for an
       - **Further investigate how Veterans use Secure Messaging (e.g. how often do Vets edit their recipient list? Manage folders? Are these things important to replicate from MHV into a mobile app?)**
   - **Maintain priority of Rx refill**
   - **Maintain the high priority of checking a claim's status**
+      - **Add more features that relate to transparency and updates into the next prototype**
   - **Maintain or lower priority of uploading a document to a claim**
 - **Develop quant study to validate or challenge these feature priorities**
 - **Further investigate the process of additional evidence upload in claims (e.g. how much additional evidence is typically needed? What additional documents are most commonly needed? Do Vets typically have to track down additional documentation, or do they already have it?)**
