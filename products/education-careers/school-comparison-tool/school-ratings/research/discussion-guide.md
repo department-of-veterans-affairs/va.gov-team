@@ -33,6 +33,7 @@ Let’s start with a few warm-up questions.
 
 I'm curious about how you use ratings when you're looking at a particular product or service.  For example, if you're purchasing a new vacuum cleaner or trying a new restaurant, how do you decide if you want to try that product or service?  
 
+  - Do you typically look at ratings when making your decision?
   - When you're looking at ratings, what aspects do you pay close attention to (e.g. number of stars, number of people who rated it)?  
   - Are there any aspects that aren't important to you?  
   - Why are these aspects important or not important to you?
