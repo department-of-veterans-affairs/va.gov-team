@@ -37,7 +37,7 @@ More findings will follow this topline summary upon deeper synthesis  of the re
 
 **How do Veterans understand the current messaging/categorization of statuses?**
 
- - When shown in isolation of other statuses or messaging, all participants understood "Facility Closed" to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean the facility is permanently closed.
+ - When shown in isolation of other statuses or messaging, all participants understood "Facility Closed" to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed.
 
  - When shown in isolation of other statuses or messaging, "Facility Notice" had the broadest interpretation, covering any information useful to a participant regarding a visit, like wearing a mask or a change in regular hours and services.
 
@@ -95,13 +95,13 @@ True.
 
  - Most of the participants mentioned getting notifications via text, a call or email to communicate time sensitive information that would impact their visit.
 
-> "Maybe if you have an appointment that day, a text is sent to your phone? To give you the status of the facility. For example, say, you have an appointment and mask are required, they can send a quick text, maybe the day before your appointment, so you know to take your mask with you."
+> "Maybe if you have an appointment that day, a text is sent to your phone? To give you the status of the facility. For example, say, you have an appointment and masks are required, they can send a quick text, maybe the day before your appointment, so you know to take your mask with you."
 
 > "I enjoy now getting text notifications from different companies and service sites that I utilize. To me, it lessens the amounts of notifications..."
 
 **Users understand 'virtual services' and 'telehealth' can be used interchangeably.**
 
- - With the recent changes in healthcare delivery, due to Covid 19, users understand services may be delivered in new ways, but they expect to find clear details about what services will be available and in which manner.
+ - With the recent changes in healthcare delivery, due to Covid 19, users understand that services may be delivered in new ways, but they expect to find clear details about what services will be available and in which manner.
 
 > "My doctor was offering Telehealth, but how do you do labs? Why would I want to just talk to you if I still have to come in to do labs?"
 
