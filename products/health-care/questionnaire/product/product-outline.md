@@ -193,9 +193,9 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
    
 ## Screenshots
 
-### [Before](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
+### [Current State Paper/Digital Forms](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 
-### [After](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
+### [Design and Prototype Itterations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
 
 ---
 
