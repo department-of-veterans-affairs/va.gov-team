@@ -70,7 +70,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 </details>
 
 
-## Desired Business Outcomes - Value Propositions
+## Desired Business Outcomes
 
 **Key areas of value proposition:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
 
