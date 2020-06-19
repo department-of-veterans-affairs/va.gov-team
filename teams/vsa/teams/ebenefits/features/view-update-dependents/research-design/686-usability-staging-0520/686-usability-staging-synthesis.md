@@ -137,10 +137,12 @@ The study shows a contrasting approach between how participants wanted to add/up
   
   > I want to circle back about the fine detail about each individual once they are in the system. Get everyone in and edit a special case. 
   
+  > Sees it similar to older veteran- filling out form add or remove list of names and check mark the people and list of option why you want to remove them. 
+  
 The different approaches disconnect did cause confusion between the participants and the form but, clearer instructions and verbiage could bridge the gap. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
 
 **Unclear verbiage:** 
-- The lack of clarity in the instructions and tasks was the most substantiated finding. 
+The lack of clarity in the instructions and tasks was the most substantiated finding. 
 - The lack of understanding resulted in:
   - Incomplete steps
       > Personally I would ignore it and go to the next one. 
@@ -171,7 +173,7 @@ The step titled "What do you want to do?" was another example of an area in whic
   
    > Two differnet types of persons and appreatly they do not get the same benefits and claim the same way.
  
-  
+Another example confusing workding.  
 If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below. (image)
 
 
@@ -192,7 +194,7 @@ For step "Information needed to add a student 18 to 23 years old" the instructio
 Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form. image
 
 The Review page's accordion labels confused some participants. Overall most participants understood the purpose of the Review page. However, the participants were not sure about the fist accordion content because of its label "What do you want to do?".
-   > Statement
+   > What does What do you want to do? mean I did what I want to do.
   
 The Uploading Document's instructions did not define the required documents for a step-child living in the US.
   > The birth certificate is needed no matter what because they need to ensure that your spouse is the parent of the child.
@@ -237,22 +239,26 @@ Every participant liked that:
   
 **The introduction page's usefulness had mixed reviews.** 
 - Instruction often was ‘below the fold’ for users
-  > 
+  > I just saw the Add dependent button.
+  
 - Users bypass instructions and immediately click CTA button (See image below)
   > Like a quick check list. I dont know this was on the first page.  
  
 - Few users read the form instructions even when prompted 
   > It looked liked canned VA statements you know boilerplate text
+    > There are a lot of choices, someone that is older at this point theyu will get a little confused.
   
 - When the moderator redirected the participants to read the page: 
   - Found information easy to locate
   - Found the information helpful
-  > Statement
+  > Reading through the directions- bold is nice- if don’t read bold pulls the eyes (scanning)
+
 
 **Lenght of the form:**
 The participants remarked about the process being lengthy and redundant: 
 - Reentering previously provided information
    > All this inofmation should be in the syste. Is the child in the system yes
+   > Deer would have already auto-poulated the information for me. 
    
 - Entering a large amount of detail regarding education
    > But major is kinda crazy!
