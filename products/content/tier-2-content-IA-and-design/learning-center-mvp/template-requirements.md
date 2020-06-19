@@ -130,7 +130,9 @@ Specs- not including the basic requirements on all LC pages:
 
 - No images, videos, tables, subway maps, number callouts, etc.
 
-  
+
+See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708  
+
 
 ### Multiple FAQs
 
@@ -145,6 +147,7 @@ Specs- not including the basic requirements on all LC pages:
 - TBD - Does the author create in the COPE FAQs interface, then pull into a 'page template' or create as a 'page'?
 - No images, videos, tables, subway maps, number callouts, etc.
 
+See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708
 
 
 ### About 
