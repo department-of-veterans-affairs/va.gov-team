@@ -131,7 +131,9 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
 ## Detailed Findings
 **A difference in mental models:**<br/>
 The study shows a contrasting approach between how participants wanted to add/update dependents, and the form wants participants to enter dependents information. Participants wanted to add a person first instead of defining how the VA will categorize the dependent.
-  > Statement
+  > Where would you like the add on part: after all information is competed on the first person, it would say do you have any changes to make to currently dependents or add dependents. 
+  > Filling out your dependents then Add or change other dependents, if not hit continue
+  > I want to circle back about the fine detail about each individual once they are in the system. Get everyone in and edit a special case. 
   
 The different approaches disconnect did cause confusion between the participants and the form but, clearer instructions and verbiage could bridge the gap. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
 
@@ -148,49 +150,96 @@ Participants' list of additional comments included:
   - Confusing language for the checkboxes
   - A lack of comprehensive instructions
 
-"Add" and "Claim" are examples of the inconsistent verbiage.  Using one term consistently would reduce the user's confusion.
-  > Statement
+- Incomplete steps
+ > Personally I would ignore it and go to the next one. 
+ 
+- Unreported dependents
+   > I would not bother to put kids on. 
+   > Honestly I do not have my son as a dependent because I am afraid it will screw up my payment.
+   
+- Submission of incomplete form
+ > No idea on the VA file # for spouce. 
+ 
+- Soliciting clarification from a VA representatie
+   > If not online, may go in an ask person directily.
   
+"Add" and "Claim" are examples of the inconsistent verbiage.  Using one term consistently would reduce the user's confusion.
+  > It is confusing when you change terms. 
+  > What would you prefer it to say, keep the same language
+ 
 The step titled "What do you want to do?" was another example of an area in which instructions confused the participants.   Participants were unclear on how to update a child because the instructions did not distinguish between step-child or biological child.
-  > Statement
+  > Child? Not a step child? Not clear!  
+  
+  > Two differnet types of persons and appreatly they do not get the same benefits and claim the same way.
+ 
   
 If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below. (image)
 
+
 The checkbox verbiage limited the types of dependent benefits offered by the VA.  Some checkboxes specify "step-child" while others specify "child".   By default, this inadvertently limits the options veterans have to select.  There are no options to choose for a biological 19-year-old going college.  The only 19-year-old college student option is for a 'step-child'.
-  > Statement
+  > I look at that and say it.. it would not be an option.
+  
+  > Confused not sure reading all the options. I guess (clicked first bock). 
   
 Participants were unclear on what to select when adding multiple children.
-  > Statement
+  > It would be nice to tell you that you can pick more than one. I did not know if it would let me load both but it loaded them so I wanted to see if I could do them all at once.
   
-For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.   To rectify the problem, the applicant will have traverse the form.  Two participant was not sure if they needed to restart the form. 
+  > Should reflect any child on the house hold. 
+  
+For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.  To rectify the problem, the applicant will have traverse the form.  Two participant was not sure if they needed to restart the form. 
+ > Confusing! Kind of redundant they are over 18 but they are saying to collect under 18.	If they are over 18 they have to click under 18 also? You should not have to click to separate thing. They should just have one. Dept 18-21 going to school. 
 
-Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form.
-  > Statement
+
+Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form. image
 
 The Review page's accordion labels confused some participants. Overall most participants understood the purpose of the Review page. However, the participants were not sure about the fist accordion content because of its label "What do you want to do?".
   > Statement
   
-The Uploading Document's instructions did define the required documents for a step-child living in the US.
-  > Statement
+The Uploading Document's instructions did not define the required documents for a step-child living in the US.
+ > The birth certificate is needed no matter what because they need to ensure that your spouse is the parent of the child.
+ 
+ > Does not make scene, wording is confusing. You will have to have the birth certificate  “if you live in US”  birth place is not a option. 
+ 
+  > I would send birth and marriage certify showing proof. 
+
   
 The step-child section did not display the same format as other children types. As a result, participants found it more challenging to determine what type of documents are required. IMage
-  > Statement
+  > A way to brake out, open
+  
+  > Not seeing the step child listed. Every other thing is in bold except for stepchild.
 
 Marriage types: Participants were not sure how the VA defined "ceremony" as a marriage type. They were looking for  "church" and  "courthouse." Other participants remarked that all the marriage types are some type of ceremony.  
 marriage image
+ > Cereminal? Mean church, not legal?
+ 
+ > I don’t know what it means I can guess but I do not know. 
+ 
+ > What is court house- hover over add more items. Personaly we got married in court house that is what I am looking for
 
-** Positive Feedback:**
+**Positive Feedback:**
 Every participant liked that:
 - The form was easy to complete 
+ > It was clear and straight to the point.
+ 
+ > One participant completed the form in udner 2 minutes with a new device and no mouse. 
+ 
 - Multiple applications could be completed at once 
+ > More than one, just clicked on it- doesn’t say more that one, figured the system would do more than one, nice to say multiple scenarios can be completed on the screen.  
+ 
 - The input titles were clear and easy to understand.
-- Error prevention messages were clear and helpful. 
+ > I think it was nice that it was all into one and told you what information was needed to move into the next screen.
+ 
+- Error prevention messages were clear and helpful.
+ > 
+ 
 - Required fields were clearly labeled.
-  > Statement
+  > Marking the one required was really helpful. Some veterans dont know what the asterisk is.
   
 **The introduction page's usefulness had mixed reviews.** 
 - Instruction often was ‘below the fold’ for users
 - Users bypass instructions and immediately click CTA button (See image below)
+ > Like a quick check list. I dont know this was on the first page.  
+ 
 - Few users read the form instructions even when prompted 
 - The page was viewed as canned VA statements or boilerplate text
 - When the moderator redirected the participants to read the page: 
@@ -203,14 +252,30 @@ The participants remarked about the process being lengthy and redundant:
 - Reentering previously provided information
 - Entering a large amount of detail regarding education
 - Providing current spouse's previous marriage details
-  > Statement
-  
+ > Lot so information good grief.  
+
+- Reentering previously provided information
+ > All this inofmation should be in the syste. Is the child in the system yes
+
+ 
+- Entering a large amount of detail regarding education
+ > But major is kinda crazy!
+ 
+ > Does it really matter the exact start date of the child really going to school. 
+ 
+- Providing current spouse's previous marriage details
+ >  When were they marred this is confusing, this the part of the oh my god. I would be discouraged by all this paper work.
+ 
 One participant felt the less information entered and reviewed by a "VA Human," would reduce the chance; the form will be flagged. Statement
 
 ## Additonal Findings
 **Fear of repercussion drives inactions:**
 Many participants voiced their opinion that they were hesitant to take any actions that could negatively affect their monthly VA stipend, which they rely on.
-  > Statement
+  > I would not claim any child. I don’t want them to come back later saying you owe 3,000.00 dolloars for money I don’t have. Stop with benefits.
+  
+   > If they’re making 12,000th a year they cannot be an depended. Then the kid will work less than that.  May be off setting their collage bills or what to eat. Offset their wanting to take a specific jobs
+   
+   > Fear is compounded by not knowing where to turn to get it fixed, get someone on the phone to help you and not sure how to fix it. 
 
 **Complete as much of the form in the first pass:**
 Participants prefer access to the entire form.  The Form System is structured so each step must be completed in its entirety before continuing to the next step. Once in the form, the system limits the user's ability to know the necessary resources to complete because you can only see one step at a time.  The Form System's piecemeal design negatively affects the application's ability to gather all needed information at once. To submit, the form the user must keep reentering the form until completing each step. Opening up the entire form allows veterans to gather what information they need to complete the form in the least number of attempts.
@@ -221,8 +286,10 @@ Participants prefer access to the entire form.  The Form System is structured so
   - Not have transportation to a public computer. 
   
 These socioeconomic veterans may also heavily rely on VA services.
-  > Statement
+ > People fill out forms and don’t have half the information. If it at home they have it next to them. Or if it’s a library a or hospital computer the information is not available it’s a second trip and a more barriers.  
 
+**the checkbox did allow peopel to see all the VA dependent options**
+**updating a a femail vertareinas last name becuase of a marriage**
 
 ## Next Steps
 - Meet with team to review findings and discuss design recommendations
