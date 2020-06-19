@@ -151,6 +151,7 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 ### KPIs
 	* _What are the most important metrics that track with this product/initiative's success?_
 	* _Include links to Domo or Google Analytics Dashboards/Reports_
+	* _What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?_
 
 #### Baseline KPI Values
 	 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -170,33 +171,31 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 	- *What have you explicitly decided to not include in this initial set of functionality, and why?*
 	- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
-## KPIs
-	- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 --- 
 
 ## Go-to-market Strategy
 	- *How are Veterans and others using this product going to know it exists?*
 	- *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
+## [Target Launch Date](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan/README.md)
 	- *What is your target launch date of your MVP/iteration?*
 	- *What is your date for when you'll evaluate impact after launch?*
 
 ---
 
-	## Solution Narrative
+## [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
 
-	### Current Status
+### [Current Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/status-updates/status.md)
 
-	### Key Decisions
+### [Key Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/key-decisons.md)
 
 ---
    
 ## Screenshots
 
-	### Before
+### [Before](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 
-	### After
+### [After](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
 
 ---
 
