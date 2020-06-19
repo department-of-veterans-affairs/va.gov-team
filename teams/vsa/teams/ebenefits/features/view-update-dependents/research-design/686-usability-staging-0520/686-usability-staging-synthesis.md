@@ -132,7 +132,9 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
 **A difference in mental models:**<br/>
 The study shows a contrasting approach between how participants wanted to add/update dependents, and the form wants participants to enter dependents information. Participants wanted to add a person first instead of defining how the VA will categorize the dependent.
   > Where would you like the add on part: after all information is competed on the first person, it would say do you have any changes to make to currently dependents or add dependents. 
+  
   > Filling out your dependents then Add or change other dependents, if not hit continue
+  
   > I want to circle back about the fine detail about each individual once they are in the system. Get everyone in and edit a special case. 
   
 The different approaches disconnect did cause confusion between the participants and the form but, clearer instructions and verbiage could bridge the gap. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
@@ -141,66 +143,63 @@ The different approaches disconnect did cause confusion between the participants
 - The lack of clarity in the instructions and tasks was the most substantiated finding. 
 - The lack of understanding resulted in:
   - Incomplete steps
+      > Personally I would ignore it and go to the next one. 
+      
   - Unreported dependents
+      > I would not bother to put kids on. 
+      
+      > Honestly I do not have my son as a dependent because I am afraid it will screw up my payment.
+      
   - Submission of incomplete form
-  - Soliciting clarification from a VA representative
+      > No idea on the VA file # for spouce. 
+      
+  - Soliciting clarification from a VA representatie
+      > If not online, may go in an ask person directily.
 
 Participants' list of additional comments included: 
   - Inconsistency in language, 
   - Confusing language for the checkboxes
   - A lack of comprehensive instructions
-
-- Incomplete steps
- > Personally I would ignore it and go to the next one. 
  
-- Unreported dependents
-   > I would not bother to put kids on. 
-   > Honestly I do not have my son as a dependent because I am afraid it will screw up my payment.
-   
-- Submission of incomplete form
- > No idea on the VA file # for spouce. 
- 
-- Soliciting clarification from a VA representatie
-   > If not online, may go in an ask person directily.
-  
 "Add" and "Claim" are examples of the inconsistent verbiage.  Using one term consistently would reduce the user's confusion.
-  > It is confusing when you change terms. 
-  > What would you prefer it to say, keep the same language
+   > It is confusing when you change terms. 
+   
+   > What would you prefer it to say, keep the same language
  
 The step titled "What do you want to do?" was another example of an area in which instructions confused the participants.   Participants were unclear on how to update a child because the instructions did not distinguish between step-child or biological child.
-  > Child? Not a step child? Not clear!  
+   > Child? Not a step child? Not clear!  
   
-  > Two differnet types of persons and appreatly they do not get the same benefits and claim the same way.
+   > Two differnet types of persons and appreatly they do not get the same benefits and claim the same way.
  
   
 If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below. (image)
 
 
 The checkbox verbiage limited the types of dependent benefits offered by the VA.  Some checkboxes specify "step-child" while others specify "child".   By default, this inadvertently limits the options veterans have to select.  There are no options to choose for a biological 19-year-old going college.  The only 19-year-old college student option is for a 'step-child'.
-  > I look at that and say it.. it would not be an option.
+    > I look at that and say it.. it would not be an option.
   
-  > Confused not sure reading all the options. I guess (clicked first bock). 
+    > Confused not sure reading all the options. I guess (clicked first bock). 
   
 Participants were unclear on what to select when adding multiple children.
-  > It would be nice to tell you that you can pick more than one. I did not know if it would let me load both but it loaded them so I wanted to see if I could do them all at once.
+   > It would be nice to tell you that you can pick more than one. I did not know if it would let me load both but it loaded them so I wanted to see if I could do them all at once.
   
-  > Should reflect any child on the house hold. 
+   > Should reflect any child on the house hold. 
   
 For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.  To rectify the problem, the applicant will have traverse the form.  Two participant was not sure if they needed to restart the form. 
- > Confusing! Kind of redundant they are over 18 but they are saying to collect under 18.	If they are over 18 they have to click under 18 also? You should not have to click to separate thing. They should just have one. Dept 18-21 going to school. 
+  > Confusing! Kind of redundant they are over 18 but they are saying to collect under 18.	If they are over 18 they have to click under 18 also? You should not have to click to separate thing. They should just have one. Dept 18-21 going to school. 
 
 
 Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form. image
 
 The Review page's accordion labels confused some participants. Overall most participants understood the purpose of the Review page. However, the participants were not sure about the fist accordion content because of its label "What do you want to do?".
-  > Statement
+   > Statement
   
 The Uploading Document's instructions did not define the required documents for a step-child living in the US.
- > The birth certificate is needed no matter what because they need to ensure that your spouse is the parent of the child.
+  > The birth certificate is needed no matter what because they need to ensure that your spouse is the parent of the child.
  
- > Does not make scene, wording is confusing. You will have to have the birth certificate  “if you live in US”  birth place is not a option. 
+  > Does not make scene, wording is confusing. You will have to have the birth certificate  “if you live in US”  birth place is not a option. 
  
-  > I would send birth and marriage certify showing proof. 
+   > I would send birth and marriage certify showing proof. 
 
   
 The step-child section did not display the same format as other children types. As a result, participants found it more challenging to determine what type of documents are required. IMage
@@ -219,29 +218,32 @@ marriage image
 **Positive Feedback:**
 Every participant liked that:
 - The form was easy to complete 
- > It was clear and straight to the point.
+  > It was clear and straight to the point.
  
- > One participant completed the form in udner 2 minutes with a new device and no mouse. 
+  > One participant completed the form in udner 2 minutes with a new device and no mouse. 
  
 - Multiple applications could be completed at once 
- > More than one, just clicked on it- doesn’t say more that one, figured the system would do more than one, nice to say multiple scenarios can be completed on the screen.  
+  > More than one, just clicked on it- doesn’t say more that one, figured the system would do more than one, nice to say multiple scenarios can be completed on the screen.  
  
 - The input titles were clear and easy to understand.
- > I think it was nice that it was all into one and told you what information was needed to move into the next screen.
+  > I think it was nice that it was all into one and told you what information was needed to move into the next screen.
  
 - Error prevention messages were clear and helpful.
- > 
+  > Oh I need 10 digits
+  > Yeah it easy it says it right there
  
 - Required fields were clearly labeled.
   > Marking the one required was really helpful. Some veterans dont know what the asterisk is.
   
 **The introduction page's usefulness had mixed reviews.** 
 - Instruction often was ‘below the fold’ for users
+  > 
 - Users bypass instructions and immediately click CTA button (See image below)
- > Like a quick check list. I dont know this was on the first page.  
+  > Like a quick check list. I dont know this was on the first page.  
  
 - Few users read the form instructions even when prompted 
-- The page was viewed as canned VA statements or boilerplate text
+  > It looked liked canned VA statements you know boilerplate text
+  
 - When the moderator redirected the participants to read the page: 
   - Found information easy to locate
   - Found the information helpful
@@ -250,23 +252,18 @@ Every participant liked that:
 **Lenght of the form:**
 The participants remarked about the process being lengthy and redundant: 
 - Reentering previously provided information
+   > All this inofmation should be in the syste. Is the child in the system yes
+   
 - Entering a large amount of detail regarding education
+   > But major is kinda crazy!
+   > Does it really matter the exact start date of the child really going to school.
+   
 - Providing current spouse's previous marriage details
- > Lot so information good grief.  
-
-- Reentering previously provided information
- > All this inofmation should be in the syste. Is the child in the system yes
-
+   > Lot so information good grief.
+   >  When were they marred this is confusing, this the part of the oh my god. I would be discouraged by all this paper work
  
-- Entering a large amount of detail regarding education
- > But major is kinda crazy!
- 
- > Does it really matter the exact start date of the child really going to school. 
- 
-- Providing current spouse's previous marriage details
- >  When were they marred this is confusing, this the part of the oh my god. I would be discouraged by all this paper work.
- 
-One participant felt the less information entered and reviewed by a "VA Human," would reduce the chance; the form will be flagged. Statement
+One participant felt the less information entered and reviewed by a "VA Human," would reduce the chance; the form will be flagged. 
+  > Screw up something.. this is going to screw something up because human is involved.  There is now room for human interstation..be honest.. human messing with anything with my benefits I try to avoided it.
 
 ## Additonal Findings
 **Fear of repercussion drives inactions:**
