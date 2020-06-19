@@ -156,7 +156,9 @@ Which benefits have you used or are you currently using? (*Required){ checkboxes
 - [ ] Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)  
 - [ ] Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)    
 
-{If NO Chapter 33 selected, route to "benefit eligibility summary" page; will be indicated with a gray X }  
+{ If non-Chapter 33 selected, route to "benefit eligibility summary" page; will be indicated with a gray X }  
+
+{ If Chapter 33 and non-Chapter 33 benefits selected at the same time, route as Chapter 33 user }
 
 [ Back | Continue ] { buttons }  
 [Finish this application later]()
