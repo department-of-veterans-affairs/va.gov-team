@@ -25,7 +25,7 @@
 
 # Executive Summary 
 - [Overview](#overview)
-- [Products/Projects](#products--projects)
+- [Products/Projects](#productsprojects)
 
 # Implementation Information
 - [Status](#status)
@@ -58,7 +58,7 @@ With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-a
 
 The profile is a section of VA.gov that houses multiple products/features. We've worked on many of these features separately as part of different projects; the original 2018 creation of the profile and the 2020 profile 2.0 redesign efforts are the only "whole" profile efforts. Here's a list of different products that live within the profile and projects we've worked on:
 
-|Project| Outline|
+|Product/Project| Outline|
 |----|----|
 |2018 MVP| [2018 MVP outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Readme.md)|
 |Contact information| [Contact information outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)|
