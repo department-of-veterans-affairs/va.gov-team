@@ -8,7 +8,8 @@ This is the folder for all background, historical, discovery, and status documen
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Status and decisions](#status-and-decisions)
-- [Product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
+- [High-level requirements](#High-level-requirements-for-MVP)
+- [Detailed product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
 - [Implementation info](#implementation-info)
 
 
