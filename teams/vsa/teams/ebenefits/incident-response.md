@@ -30,6 +30,14 @@ Derek Dyer, Backend Engineer  |   |
   - Static landing page: TBD
 
 ## Resources
+### Sentry
 - [Sentry Configuration Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-configuration.md)
-- Grafana
+- For VA File number check: 
+  - First check is for auth, can they even get into BGS (icn, ssn, participant id)
+  - if not, BGS is not invoked
+  - if yes, call BGS up
+  - if no VA file number, Sentry sends a notification
+
+
+### Grafana
 - CloudWatch
