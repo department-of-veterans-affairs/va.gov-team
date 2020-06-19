@@ -21,15 +21,26 @@ When you’re signed in to your VA.gov account:
 
 **Note:** If you sign in after you’ve started your application, you won’t be able to save the information you’ve already filled in.  
 
-Sign in to start your application { button }  
-
-[Start your application without signing in]()  
+Sign in or create an account { button }   
 
 { end if logged out }  
 
-{ if logged in, informational alert }  
+{ if logged in }  
 
+{ Entitlement check for CH33 users. Display yellow warning alert if user has more than 6 months of benefits remaining }  
+
+{ yellow warning alert }  
+**You may not be eligible**  
+Our entitlement system shows that you have more than 6 months of education benefits remaining.  
+
+To be eligible for the Rogers STEM Scholarship, you must have less than 6 months of Post-9/11 GI Bill benefits left when you submit your application.  
+
+Months you have left to use: **7 months, 0 days**  
+{ end warning alert }
+
+{ blue informational alert }  
 **Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
+{ end informational alert }  
 
 { end if logged in }  
 
@@ -43,7 +54,7 @@ Sign in to start your application { button }
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
 
 * Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-* Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 * Have used all of your education benefits or are within 6 months of doing so when you submit your application.  
 [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
@@ -75,9 +86,13 @@ If we've approved your application, you’ll get a Certificate of Eligibility (C
 
 If your application wasn’t approved, you’ll get a denial letter in the mail.
 
+{ end subway map }  
+
 { if logged out }  
 
 Sign in to start your application { button }  
+
+[Start your application without signing in]() 
 
 { end if logged out }  
 
@@ -141,7 +156,7 @@ Which benefits have you used or are you currently using? (*Required){ checkboxes
 - [ ] Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)  
 - [ ] Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)    
 
-{If NO Chapter 33 selected, will be noted in STEM eligibility summary page }  
+{If NO Chapter 33 selected, route to STEM eligibility summary page; will be indicated with a gray X }  
 
 [ Back | Continue ] { buttons }  
 [Finish this application later]()
@@ -213,12 +228,22 @@ Form 22-10203
 
 __Your responses:__  
 :heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-:heavy_check_mark:  Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification   
+:heavy_check_mark:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
 :heavy_check_mark:  Have used all of your education benefits or are within 6 months of doing so when you submit your application   
   
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-:heavy_multiplication_x:  Are enrolled in an undergraduate degree for science, technology, engineering, or math (STEM) requiring at least 120 semester (or 180 quarter) credit hours for completion, **or** have already earned an undergraduate STEM degree and are pursuing a teaching certification   
+:heavy_multiplication_x:  Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification   
 :heavy_multiplication_x:  Have used all of your education benefits or are within 6 months of doing so when you submit your application  
+
+{ Entitlement check for Ch33 users. If user has more than 6 months of benefits remaining, display yellow warning alert: }
+
+**Your remaining education benefits**  
+
+Our entitlement system shows that you have more than 6 months of education benefits remaining. You can apply when you have less than 6 months of entitlement left.  
+
+Months you have left to use: **NN months, NN days**   
+
+{ end yellow warning alert }  
 
 If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
 
@@ -249,6 +274,12 @@ Form 22-10203
 ### Chapter Title:  3 of 6: Program details
 
 #### STEM degree and school details { Sub-head }  
+
+{ If applicant's school information can be pulled via EVSS, display blue background alert }   
+
+We’ve prefilled some of the school information we have on file for you based on your most recent enrollment. If you need to correct anything, you can edit the form fields below.  
+
+{ end blue alert }  
 
 What's the name of your STEM degree? (*Required) { text field }  
 
