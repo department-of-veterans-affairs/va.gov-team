@@ -116,7 +116,7 @@ As part of story validation, the Analytics & Insights team performs thorough QA 
 
 Description of Interaction | Screenshot | Test Status
 ------------ | ------------- | -------------
-Full "More Screening Needed" path | http://c2n.me/484oeoZ | ✔️ **PASS**
+Full "More Screening Needed" path | http://c2n.me/484ozO8 | ✔️ **PASS**
 Full "Pass" path | http://c2n.me/484oqZK | ✔️ **PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
