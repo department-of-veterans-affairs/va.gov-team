@@ -116,7 +116,7 @@ As part of story validation, the Analytics & Insights team performs thorough QA 
 
 Description of Interaction | Screenshot | Test Status
 ------------ | ------------- | -------------
-_i.e Clicked primary CTA button on X page_ | Screenshot 1 here | ✔️ **PASS**
+Full "More Screening Needed" path | http://c2n.me/484oeoZ | ✔️ **PASS**
 _i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
