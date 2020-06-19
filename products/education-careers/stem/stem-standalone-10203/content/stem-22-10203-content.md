@@ -179,10 +179,10 @@ Form 22-10203
 
 #### Based on your response, it appears you’re not eligible for the Rogers STEM Scholarship. 
  
-{ display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
+{ display :heavy_multiplication_x: if user indicated "No" }   
 
 __Your responses:__  
-:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
+:heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
 
 If your situation changes in the future and you meet this criteria, you may return to apply for the Rogers STEM Scholarship.  
 
