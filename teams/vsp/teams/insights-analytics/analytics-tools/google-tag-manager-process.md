@@ -117,7 +117,7 @@ As part of story validation, the Analytics & Insights team performs thorough QA 
 Description of Interaction | Screenshot | Test Status
 ------------ | ------------- | -------------
 Full "More Screening Needed" path | http://c2n.me/484oeoZ | ✔️ **PASS**
-_i.e Scrolled down X page_ | Screenshot 2 here | ❌ **DID NOT PASS**
+Full "Pass" path | http://c2n.me/484oqZK | ✔️ **PASS**
 
 #### Implementation on MyHealthEVet, eBenefits, and other Legacy Content
 VSP Analytics & Insights also receives infrequent requests to implement new tracking on MHV, eBenefits, and other legacy content. This activity should be configured within the "Brand Consolidation Legacy" (GTM-WZ6MXMD) container. Because the legacy content is not typically supported by VFS teams and does not have a structured dataLayer event configuration in place, VSP Analytics & Insights has usually relied on DOM scraping. If more complex implementation is required, additional discovery is required to connect with developers on those teams. 
