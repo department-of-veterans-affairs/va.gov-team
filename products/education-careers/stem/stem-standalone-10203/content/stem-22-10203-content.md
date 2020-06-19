@@ -169,7 +169,7 @@ Form 22-10203
 
 #### 10203 Screen No. { to come }  
 
-### Chapter Title:  2 of 6: Education
+### Chapter Title:  2 of 6: Education benefit
 
 { Benefit eligibility summary page } 
 
@@ -182,7 +182,7 @@ Form 22-10203
 __Your responses:__  
 :heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
 
-If your situation changes in the future and you meet the criteria, you may return to apply for the Rogers STEM Scholarship.  
+If your situation changes in the future and you meet this criteria, you may return to apply for the Rogers STEM Scholarship.  
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
