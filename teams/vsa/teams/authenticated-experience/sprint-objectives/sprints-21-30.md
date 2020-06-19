@@ -147,6 +147,9 @@ Design
 - Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
 - My VA tools audit #10123
 
+Dev
+- Beta/Opt-in discovery (if time)
+
 ## Sprint 26 (7/15 – 7/28)
 
 ### Profile 2.0
