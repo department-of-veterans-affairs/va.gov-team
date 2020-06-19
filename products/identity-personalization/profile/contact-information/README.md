@@ -32,8 +32,6 @@
 - [Requirements](#requirements)
 - [Constraints](#constraints)
 - [Discovery Takeaways](#discovery-takeaways)
-- [Decisions](#decisions)
-- [The Plan](#the-plan)
 - [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
