@@ -111,7 +111,7 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
   - Report divorce/Remove stepchild
 
 ## Key Findings
-- The participants would **prefer first to add a dependent** and seconldy then add the dependent’s details.
+- The participants would **prefer to first add a dependent** and secondly add the dependent’s details.
 - The form's **verbiage was unclear** to participants resulting in:
   - Incomplete steps
   - Dependent(s) not being reported
@@ -122,18 +122,18 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
 - Participants **disliked the length** of the forms because:
   - They felt there were numerous and irrelevant marriage questions. 
   - They felt there were numerous and irrelevant questions about the dependent's schooling.  
-  - The VA should provide their stored contact information.
+  - The VA should already have their contact information.
         
 ### Additional findings:
 - **Veterans are apprehensive** that an incorrect step will result in **punitive finical action** from the VA
-- Participants **prefer accessibility to the entire form.**  It is necessary to complete all required fields in a step before proceeding to the next step. 
+- Participants would **prefer accessibility to the entire for** becuase before proceeding to the next step all required field in the step need to me completed.   
 
 ## Detailed Findings
 **A difference in mental models:**<br/>
 The study shows a contrasting approach between how participants wanted to add/update dependents, and the form wants participants to enter dependents information. Participants wanted to add a person first instead of defining how the VA will categorize the dependent.
   > Statement
   
-The different approaches may be a disconnect between the user and the form but, clearer instructions and verbiage could bridge the gap. The disconnect did confuse users.  The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
+The different approaches disconnect did cause confusion between the participants and the form but, clearer instructions and verbiage could bridge the gap. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
 
 **Unclear verbiage:** 
 - The lack of clarity in the instructions and tasks was the most substantiated finding. 
@@ -154,7 +154,7 @@ Participants' list of additional comments included:
 The step titled "What do you want to do?" was another example of an area in which instructions confused the participants.   Participants were unclear on how to update a child because the instructions did not distinguish between step-child or biological child.
   > Statement
   
-If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below.
+If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below. (image)
 
 The checkbox verbiage limited the types of dependent benefits offered by the VA.  Some checkboxes specify "step-child" while others specify "child".   By default, this inadvertently limits the options veterans have to select.  There are no options to choose for a biological 19-year-old going college.  The only 19-year-old college student option is for a 'step-child'.
   > Statement
@@ -162,7 +162,7 @@ The checkbox verbiage limited the types of dependent benefits offered by the VA.
 Participants were unclear on what to select when adding multiple children.
   > Statement
   
-For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.   To rectify the problem, the applicant will have traverse the form.  The participant was not sure if they needed to restart the form. 
+For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.   To rectify the problem, the applicant will have traverse the form.  Two participant was not sure if they needed to restart the form. 
 
 Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form.
   > Statement
@@ -173,28 +173,29 @@ The Review page's accordion labels confused some participants. Overall most part
 The Uploading Document's instructions did define the required documents for a step-child living in the US.
   > Statement
   
-The step-child section did not display the same format as other children types. As a result, participants found it more challenging to determine what type of documents are required.
+The step-child section did not display the same format as other children types. As a result, participants found it more challenging to determine what type of documents are required. IMage
   > Statement
-  
-Additional evidence needed IMage
 
 Marriage types: Participants were not sure how the VA defined "ceremony" as a marriage type. They were looking for  "church" and  "courthouse." Other participants remarked that all the marriage types are some type of ceremony.  
-marrage image
+marriage image
 
 ** Positive Feedback:**
-- Every participant liked that:
+Every participant liked that:
 - The form was easy to complete 
 - Multiple applications could be completed at once 
 - The input titles were clear and easy to understand.
 - Error prevention messages were clear and helpful. 
 - Required fields were clearly labeled.
   > Statement
+  
 **The introduction page's usefulness had mixed reviews.** 
 - Instruction often was ‘below the fold’ for users
-- Users bypass instructions and immediately click CTA button
-- Few users read form instructions even when prompted 
-- The page was viewed as canned VA statements or boilerplate text.
-- When the moderator redirected the participants to read the page, they found it easy to locate the information they need to complete the form.
+- Users bypass instructions and immediately click CTA button (See image below)
+- Few users read the form instructions even when prompted 
+- The page was viewed as canned VA statements or boilerplate text
+- When the moderator redirected the participants to read the page: 
+  - Found information easy to locate
+  - Found the information helpful
   > Statement
 
 **Lenght of the form:**
@@ -204,7 +205,7 @@ The participants remarked about the process being lengthy and redundant:
 - Providing current spouse's previous marriage details
   > Statement
   
-One participant felt the less information entered and reviewed by a "VA Human," would reduce the chance; the form will be flagged. The auto-populated put some of his fear at bay. He currently does not want to add his second child as a dependent because if there are any issues, he can not change a freeze of his VA stipend.   He is 100% disabled, so he can not go out and find work to supplement the lack of income.
+One participant felt the less information entered and reviewed by a "VA Human," would reduce the chance; the form will be flagged. Statement
 
 ## Additonal Findings
 **Fear of repercussion drives inactions:**
