@@ -8,7 +8,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Status and decisions](#status-and-decisions)
-- [Product requirements](#product-requirements)
+- [Product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
 - [Implementation info](#implementation-info)
 
 
@@ -74,9 +74,9 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 
 ---
 
-## Product requirements
+## High-level requirements for MVP
 
-### High-level requirements
+See learning center template requirements for detailed information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md
 
 __MVP learning center templates:__
 
@@ -89,8 +89,6 @@ __MVP learning center templates:__
 7. Table-based content like rates, contact info – new
 
 All of these will be ‘new’ but making use of existing components to form more rigid, page-level templates. A few things will be net new, such as the image/video list template. 
-
-* See FAQs COPE ticket: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/6708
 
 
 __Default template content requirements__
