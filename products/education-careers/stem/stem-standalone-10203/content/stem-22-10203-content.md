@@ -158,7 +158,7 @@ Which benefits have you used or are you currently using? (*Required){ checkboxes
 
 { If non-Chapter 33 selected, route to "benefit eligibility summary" page; will be indicated with a gray X }  
 
-{ If Chapter 33 and non-Chapter 33 benefits selected at the same time, route as Chapter 33 user }
+{ If Chapter 33 and non-Chapter 33 benefits selected at the same time, route as Chapter 33 user }  
 
 [ Back | Continue ] { buttons }  
 [Finish this application later]()
