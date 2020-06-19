@@ -1,0 +1,214 @@
+# Learning center template requirements
+
+This is WIP and may evolve based on user research and technical findings.
+
+
+## Content fields on all learning center pages
+
+- **Required: Breadcrumb** –  pulled from H1, cannot manually customize
+- **Required: Search bar** - learning center search or  VA.gov (If user selects VA.gov search, user is taken to the normal site search results where results from all of VA.gov are pulled.)
+- **TBD: Content type label:** (- tbd -) Article vs. Video (or Media?) or more detailed label like “About,”     “FAQ,” “Step-by-step,” etc. ***first test with no label on pages(but include on the results listing)
+- **Required: H1** – new H1 limit for LC pages – 70 max characters including spaces, rigid in AX
+- **Required: [Topic tags](#topic-tags)** 
+- **Required: [Audience tags](#audience-tags)** 
+- **Required: Intro text** – rich text formattable wysiwig – 1,000 characters max including spaces.
+- **Required: CTA buttons** – at least 1 required; up to 2; must restrict button text length (to prevent wrapping button labels in mobile)
+- **Optional: H2 section header**
+- **Optional: On this page TOC links** – When enabled, at least 3 H2 sections are required
+- [**Required: Body - content type template**](#specific-lc-content-template-types) (FAQ single, FAQs multiple, Checklist, Step-by-step, About, Image/Video, etc.)
+- **Optional: Repeat same CTA button(s)** – Example: User can omit repeat if page is short as in a single FAQ page
+- **Required: Need more help** - Email (optional, customizable) + Phone (default pulled from the benefit hub “Ask questions” right rail) + Chatbot link(TBD)
+- **Required: Was this helpful**
+- **Required: Related information**  (minimum 1 benefit cross-link required which  is dynamically generated based on the benefit topic tag; pulled from the hub teaser text component used on the homepage. An additional 4 links can be custom added, for a max of 5 total.)
+- **Back to top links - required if TOC links are enabled:** displays at the end of each H2 section
+
+
+
+## Purpose of tags in the learning center
+
+Tags are not meant to be a substitute search in the learning center, but a way of filtering the ocean into a lake. Content relevance based on keyword-driven search will be the primary way users can quickly find content in the learning center. 
+
+For MVP, we will implement tag filtering by one tag at a time (not combinations of tags or layered search+tag). Future iterations should consider making tags work in a more sophisticated way, based on user data including what terms users search for most frequently inside the learning center.
+
+
+
+## Topic tags 
+
+Topic tags are based on VA.gov benefit hub categories, plus a new category called "VA account and profile." Topic tags don't include "service members" and "family members," because they're covered by the `Audience ` tags.
+
+1. Burials and memorials
+2. Careers and employment
+3. Disability
+4. Education and training
+5. Health care
+6. Housing assistance
+7. Life insurance
+8. Pension
+9. Records
+10. VA account and profile
+
+
+
+## Audience tags 
+
+Up to 3 total from either the beneficiary **or** non-beneficiary category. Cannot mix beneficiary and non-beneficiary tags.
+
+
+
+**Beneficiaries ("you're a Veteran or receive VA benefits"):** 
+
+Up to 3 can be selected, but only 1 from the Veterans list.
+
+- Veterans - Content author can select the broad category "Veterans" or one of the sub-Veteran tags:
+  - Elderly Veterans
+  - Former prisoners of war
+  - Gulf War Veterans
+  - Incarcerated Veterans
+  - Korean War Veterans
+  - LGBTQ Veterans
+  - Minority Veterans
+  - Native American Veterans
+  - Vietnam War Veterans
+  - Women Veterans
+- Family member and caregivers
+- Service members
+
+
+
+**Non-beneficiaries ("you work with Veterans or with VA"):** 
+
+Up to 3 tags can be selected. 
+
+- Schools, administrators, and other education professionals
+- Career counselors and other employment specialists
+- Fiduciaries
+- Funeral directors and cemeteries
+- Lenders, appraisers, and other real estate professionals
+- Veteran service organizations and accredited representatives
+- Clinicians, researchers, and health care workers
+- Veterans Benefits Administration
+- Veterans Health Administration
+- National Cemetery Administration
+
+
+
+## Specific LC content template types
+
+None of these page templates allow featured content (div.feature) components. 
+
+1. Single FAQ
+
+2. Multiple FAQs
+
+3. About
+
+   - Table-based content like rates, contact info, and other multi-dimensional lists. This content type isn't a standalone template, but uses the About template. For the purposes of LC, we will need to improve the existing table component and de-bug for mobile.
+
+4. Step-by-step - modified 'subway map'
+
+5. Media (image/video) – new 
+
+6. Checklist - new
+
+   
+
+
+
+### Single FAQ
+
+This template is for 1 question and answer. 
+
+Specs- not including the basic requirements on all LC pages:
+
+- This template is simply the H1(in the form of a question) + the wysiwig intro rich text field (as the answer).
+
+- Alert (can be enabled below intro text; only 1 max allowed on this template)
+
+- Q/A should be trackable in the reusable, COPE FAQs space
+
+- TBD - Does the author create a new single FAQ in the COPE FAQs interface or as a 'page'?
+
+- No images, videos, tables, subway maps, number callouts, etc.
+
+  
+
+### Multiple FAQs
+
+This template is for multiple question-and-answers. 
+
+Specs- not including the basic requirements on all LC pages:
+
+- Section headers (H2s, H3s, etc.)
+- Wysiwyg answer block 
+- Alert (can be enabled below intro text; and on body content)
+- React widget
+- TBD - Does the author create in the COPE FAQs interface, then pull into a 'page template' or create as a 'page'?
+- No images, videos, tables, subway maps, number callouts, etc.
+
+
+
+### About 
+
+This template is for text-rich, encyclopedia-like information (e.g., a text only Wikipedia entry). This template can also be used for multidimensional tabular content. 
+
+Specs - not including the basic requirements on all LC pages:
+
+- Wysiwig 
+- Section headers (H2s, H3s, etc.)
+- Accordion group (not as Q/As)
+- Additional information
+- Alert (can be enabled below intro text or within body content; not stackable)
+- Table
+- No images, videos, subway maps, number callouts, etc.
+
+
+
+### Step-by-step
+
+This template modifies the existing 'subway map' component to allow screenshots with each step.
+
+Specs - not including the basic requirements on all LC pages:
+
+- Everything that current subway maps allow, plus screenshots 
+- Section headers (H2s, H3s, etc.)
+- Alert (can be enabled below intro text)
+- Can include multiple 'subway maps' with section headers. 
+- No videos, no tables, no callouts, etc.
+
+
+
+### Media (image/video) 
+
+This template is for visually-rich information such as images or videos.
+
+
+
+**A.** Video template specs - not including the basic requirements on all LC pages:
+
+- There's no customizable text on this page except the intro text and section headers. 
+- Section headers (H2s, H3s, etc.)
+- Video title, description, video length, date/time publication stamp should all get pulled from the YouTube source. 
+- Max up to 5 videos. 
+
+
+
+**B.** Image template specs - not including the basic requirements on all LC pages:
+
+- Section headers (H2s, H3s, etc.)
+- Image file (min requirements/size limit - use same as those in VAMC and Outreach products)
+- Image filename
+- Image description field
+- Show up to 10 images per page; standard pagination if multiple pages; max up to [TBD] images.
+- Current wireframe shows an image search by file/image name. For MVP, we will not include this feature. 
+
+
+
+### Checklist
+
+This template is for list content that Veterans (or non-beneficiaries) can use to prepare to do something for VA. For example: a checklist of all the types of information, documents, records that you need to complete a disability claim online, and any  paper forms that are needed outside of the online application. 
+
+Specs - not including the basic requirements on all LC pages:
+
+- Section headers (H2s, H3s, etc.)
+- Alert (can be enabled below intro text or within body content; not stackable)
+- Checkbox text field, max 300 characters including spaces
