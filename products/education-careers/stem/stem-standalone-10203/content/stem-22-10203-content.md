@@ -156,11 +156,52 @@ Which benefits have you used or are you currently using? (*Required){ checkboxes
 - [ ] Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)  
 - [ ] Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)    
 
-{If NO Chapter 33 selected, route to STEM eligibility summary page; will be indicated with a gray X }  
+{If NO Chapter 33 selected, route to "benefit eligibility summary" page; will be indicated with a gray X }  
 
 [ Back | Continue ] { buttons }  
 [Finish this application later]()
 ________________________________________
+
+
+## Form Title: Apply for the Rogers STEM Scholarship 
+
+Form 22-10203  
+
+#### 10203 Screen No. { to come }  
+
+### Chapter Title:  2 of 6: Education
+
+{ Benefit eligibility summary page } 
+
+{ gray box } 
+
+#### Based on your response, it appears you’re not eligible for the Rogers STEM Scholarship. 
+ 
+{ display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
+
+__Your responses:__  
+:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
+
+If your situation changes in the future and you meet the criteria, you may return to apply for the Rogers STEM Scholarship.  
+
+[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
+
+Would you still like apply and let us determine your eligibility? (*Required)  
+
+* No  
+* Yes
+
+{ end gray box }
+
+{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/eligibility/ }
+
+{ if user select YES, route to "Rogers STEM Scholarship eligibility" page }
+
+[ Back | Continue ] { buttons } 
+
+[Finish this application later]()
+
+________________________________________  
 
 
 ## Form Title: Apply for the Rogers STEM Scholarship
