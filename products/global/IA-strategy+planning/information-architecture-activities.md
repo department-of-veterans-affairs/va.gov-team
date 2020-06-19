@@ -47,7 +47,7 @@ Working with the #ia-forum to prioritize IA projects:**
 <br></br>
 ### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
 
-* **IA role and responsibilities:** The IA workshop will kick off June 29. There we'd like to discuss:
+* **IA role and responsibilities:** In the IA workshop June 29, we'd like to discuss:
   * Who does which IA work? (DEPO v. Platform)
   * How do we bridge between DEPO and Platform?
   * How do we balance current and future IA needs?
