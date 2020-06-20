@@ -73,6 +73,7 @@ Up to 3 can be selected, but only 1 from the Veterans list.
   - Native American Veterans
   - Vietnam War Veterans
   - Women Veterans
+  - World War II Veterans
 - Family member and caregivers
 - Service members
 
