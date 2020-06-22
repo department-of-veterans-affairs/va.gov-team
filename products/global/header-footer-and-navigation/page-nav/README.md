@@ -34,3 +34,4 @@ Here is something to start with. The below content should get moved into an epic
 * We will initially desing and build the new navigation for va.gov/pitssburgh-health-care
 * we will then figure out how to apply the new navigation to the 9 benefit hubs
   * When this work happens, we will need to make an enhancement in Drupal that limits menus from being built deeper than 4 levels
+  * See related L4 benefit hub epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5236
