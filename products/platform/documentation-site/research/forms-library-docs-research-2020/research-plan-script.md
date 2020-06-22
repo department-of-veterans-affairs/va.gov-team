@@ -43,9 +43,6 @@ Note that this product is a sub-product of VSP Content & IA's documentation site
       - Remote, directed interviews
       - Unmoderated diary studies
    
-      
-**Everything below this line needs to be updated with new information**
----
 2. Why this method? How does this methodology help you answer your research questions? 
    - The Cookbook that we would like to test is currently in a Google Doc. Because the nature of reading documentation and using it in one's work is normally an independent activity that people complete at their own pace, we think that replicating that environment will be the best way to evaluate The Cookbook. We plan to create a version of the document that contains an instructional layer (using the Google Docs comments feature) that asks the participant questions about their experience at specific points in the document. We will create a copy of the document for each participant so that they can experience it without influence of others in the study. 
    - We would like to combine this diary study method with directed interviews so that we have the opportunity to introduce the activity in the context of the current forms system work, answer any questions the participants may have, and debrief with the participant after they've finished the activity. 
