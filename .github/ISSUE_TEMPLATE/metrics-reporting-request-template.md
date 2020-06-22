@@ -3,7 +3,7 @@ name: Metrics Reporting Request Template
 about: To request ad hoc data or metrics
 title: Analytics Reporting Request for [person or team]
 labels: analytics-insights, analytics-request
-assignees: joanneesteban, bsmartin-ep, jonwehausen
+assignees: joanneesteban, bsmartin-ep, jonwehausen, bmcgrady-ep
 
 ---
 
