@@ -10,7 +10,7 @@ Status: Resolved
 
 ## What happened?
 _Brief description/summary of failure_
-- The Facility Locator experienced a outage to the Community Provider Locator feature where searches for facility type of Community providers (in-VA's network) resulted in the application "spinnning" and failing to return any results. 
+- The Facility Locator experienced an outage to the Community Provider Locator feature where searches for facility type of Community providers (in-VA's network) resulted in the application "spinning" and failing to return any results. 
 - Duration of outage: From  June 15, 2020 4:16 p.m. ET to June 16, 2020 3:45 p.m. ET 
 - Remaining search features VA Health, VA Benefits, Urgent care provider, Cemetery, and Vet Center (and all associated service-sub-search) remained fully functional.
 
@@ -36,7 +36,7 @@ _What caused this situation?_
 - During the migration to Facilities v1 for VA facilities, the CCP controller used to connect to PPMS for Community providers (in-VA's network) was also moved to v1 rather than staying with the existing v0 endpoint. (Incorrect code accident)
 - The issue did not contain regression smoke tests (Oversight)
 - The application does not have full end-to-end regression tests that include PPMS testing. (Technical Debt)
-- This feature released to Production at 4:16 p.m. ET on June 15, 2020, resulting in the outage.
+- This feature was released to Production at 4:16 p.m. ET on June 15, 2020, resulting in the outage.
 
 ## Resolution
 _What steps were taken to resolve the issue?_
@@ -96,4 +96,4 @@ _date, time, step/event_
 - VA.gov Facility team notified OCC of the outage at 12:16 p.m  ET on June 16, 2020.
 - VA.gov Facility team identified root cause and began implementing remedy ~12:30 p.m. ET on June 16, 2020
 - Nursing staff notified OCC leadership of the outage at approximately 1:00 PM ET. 
-- VA.gov Community Provider Locator function issue resolved at June 16, 2020 3:45 p.m. ET
+- VA.gov Community Provider Locator function issue resolved on June 16, 2020 at 3:45 p.m. ET
