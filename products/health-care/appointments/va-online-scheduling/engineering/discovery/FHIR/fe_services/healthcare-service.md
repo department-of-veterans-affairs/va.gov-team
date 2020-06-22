@@ -29,6 +29,9 @@ to
 to
 /HealthcareService</p>
 </dd>
+<dt><a href="#findCharacteristic">findCharacteristic(clinic, characteristic)</a> ⇒ <code>String</code></dt>
+<dd><p>Method to find a particular characteristic of a clinic.</p>
+</dd>
 </dl>
 
 <a name="transformAvailableClinic"></a>
@@ -62,4 +65,17 @@ to
 | --- | --- | --- |
 | facilityId | <code>String</code> |  |
 | clinics | <code>Array</code> | Array of clinic objects to transform to HealthcareService objects |
+
+<a name="findCharacteristic"></a>
+
+## findCharacteristic(clinic, characteristic) ⇒ <code>String</code>
+Method to find a particular characteristic of a clinic.
+
+**Kind**: global function  
+**Returns**: <code>String</code> - The display name of the characteristic search for or an empty string.  
+
+| Param | Type | Description |
+| --- | --- | --- |
+| clinic | <code>Object</code> |  |
+| characteristic | <code>String</code> | The characteristic to search for. |
 
