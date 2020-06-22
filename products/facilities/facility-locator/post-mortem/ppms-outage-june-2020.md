@@ -10,23 +10,25 @@ Status: Resolved
 
 ## What happened?
 _Brief description/summary of failure_
-- On June 16, 2020, the Facility Locator experienced a outage to the Community Provider Locator feature where searches for Community care providers resulted in the application "spinnning" and then failing to return any results. 
+- On June 16, 2020, the Facility Locator experienced a outage to the Community Provider Locator feature where searches for facility type of Community providers (in-VA's network) resulted in the application "spinnning" and then failing to return any results. 
 - Remaining search features VA Health (all subtypes), VA Benefits, Urgent care provider, Cemetery, and Vet Center remained fully functional.
 
 ## Background
 _What context is needed to understand this situation?_
-
+The VA.gov Facility Locator provides a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services.
+The VA.gov Facility Locator displays data from multiple up-stream data systems determined as the "single source of truth" for various facility data: CDW, GeoBISL, Access to Care, PPMS, etc.
 
 ## Detection
 _How was the issue found?_
 - This issue was discovered by the VA.gov Facility team during a sprint planning meeting (~11:50 a.m ET) on June 16, 2020.
 - DEPO had just begun enabling a feature for VA-owned facility types (VA Health (all subtypes), VA Benefits, Cemetery, and Vet Center)
-- DEPO observed the inabaility to populate the Service type field for Community care providers.
+- DEPO observed the inability to populate the Service type field for Community care providers.
 - DEPO notified the key stakeholder team, Office of Community Care, of the outage at ~12:16 p.m. ET
 
 ## Impact
 _What was the impact on Veterans, business and team?_
-- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers. 
+- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers.
+- Average number of weekday visitors searching for facility type of Community providers (in-VA's network) = 
 
 ## Root Causes
 _What caused this situation?_
