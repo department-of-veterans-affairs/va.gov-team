@@ -10,12 +10,12 @@
 - [Add documentation for error override enhancement](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10528)
 
 ## Backend
-- Persist forms on the backend (because we're sending the PDF as a part of separate process - allows us to track what was submittted and when for auditing - also records CARMA case ID - prework for status lookup)
-- Send PDF of paper form to CARMA
-- Privacy and Security Review
-- eMIS Validation Error (?)
-- Stretch: StatsD tracking
+- [Persist forms on the backend](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10280) (because we're sending the PDF as a part of separate process - allows us to track what was submittted and when for auditing - also records CARMA case ID - prework for status lookup)
+- [Send PDF of paper form to CARMA](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8871)
+- [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/117)
+- [eMIS Validation Error](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9832) (?)
+- [Stretch: StatsD tracking](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5672)
 
 ## Content and Design
-- Product Guide !!
+- [Product Guide](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10220) !!
 - Continue preparing for user research study
