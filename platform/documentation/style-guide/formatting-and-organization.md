@@ -121,7 +121,7 @@ Don't use a list to show only one item; a single item isn't really a list. If yo
 
 Use a bulleted list for things that have something in common but don’t need to appear in a particular order.
 
-**Recommended:**
+**Example:**
 
 The database owner can complete the following tasks:
 - Create and delete a database
@@ -132,7 +132,7 @@ The database owner can complete the following tasks:
 
 Use a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list).
 
-**Recommended:**
+**Example:**
 
 To sign on to a database, do the following:
 1. On the **File** menu, select **Open database**.
@@ -155,39 +155,19 @@ In most cases, you should precede a list with an introductory sentence. The sent
 
 If you introduce a list with a heading, don’t use explanatory text after the heading. Also, don’t use a colon or period after the heading.
 
-**Recommended:**
-
-Use the **Submit** button for any of the following purposes:
-- To submit the form
-- To indicate that you're done
-- To allow the next person to enter their data
-
-**Not recommended:**
-Use the **Submit** button to:
-- Submit the form.
-- Indicate that you're done.
-- Allow the next person to enter their data.
+| Recommended    | Not recommended   |
+| :------------- | :---------------- |
+| Use the **Submit** button for any of the following purposes:<br>- To submit the form<br>- To indicate that you're done<br>- To allow the next person to enter their data | Use the **Submit** button to:<br>- Submit the form.<br>- Indicate that you're done.<br>- Allow the next person to enter their data. |
 
 **Exception:** Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, or strings.
 
 Don’t use semicolons, commas, or conjunctions (like and or or) at the end of list items.
 
-**Recommended:**
+| Recommended    | Also recommended   |
+| :------------- | :---------------- |
+| The form supports the following UI elements:<br>- Text box<br>- Bulleted list<br>- Button | You can do any of the following by using the API:<br>- Create an item.<br>- Replace one item with another.<br>- Update an item.<br>- Delete an item. |
 
-The form supports the following UI elements:
-- Text box
-- Bulleted list
-- Button
-
-**Recommended:**
-
-You can do any of the following by using the API:
-- Create an item.
-- Replace one item with another.
-- Update an item.
-- Delete an item.
-
-## Notes, cautions, warnings, and other notices
+## Notes, cautions, and warnings
 
 To give the reader important or useful information that isn't part of the flow of the text, use one of the following notice types:
 
@@ -256,7 +236,7 @@ In a numbered procedure, sub-steps are labeled with lowercase Roman numerals, an
 
 When a step has sub-steps, put a colon or a period at the end of the step, as appropriate.
 
-**Recommended:**
+**Example:**
 
 1. First, do foo, as follows:
     1. Do the first part of foo.
@@ -269,7 +249,7 @@ When a step has sub-steps, put a colon or a period at the end of the step, as ap
 
 In general, use one step per action. However, you can combine small actions into one step, using arrow notation (>) for sequential menu selections.
 
-**Recommended:**
+**Example:**
 
 1. Select **Next > Finish**.
 
@@ -290,14 +270,9 @@ The following guidelines can help you choose which procedure to document:
 
 Use concise procedures to avoid repetitiveness and overwhelming the user with too much bolding of UI elements.
 
-**Recommended:**
-
-1. Select **Enter**.
-2. In the **New File** dialog that appears, select **Next**.
-
-**Not recommended:**
-1. Select **Enter**. The **New File** dialog appears.
-2. In the **New File** dialog, select **Next**.
+| Recommended    | Not recommended |
+| :------------- | :------------- |
+| 1. Select **Enter**.<br>2. In the **New File** dialog that appears, select **Next**. | 1. Select **Enter**. The **New File** dialog appears.<br>2. In the **New File** dialog, select **Next**. |
 
 Avoid repeating procedures. Instead, reference those procedures and link to them.
 
