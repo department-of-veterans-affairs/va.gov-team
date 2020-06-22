@@ -29,7 +29,7 @@ _How was the issue found?_
 ## Impact
 _What was the impact on Veterans, business and team?_
 - Veterans visiting Facility Locator during the outage were not able to complete a search for Community providers (in-VA's network).
-- Average number of weekday visitors searching for facility type of Community providers (in-VA's network) = 
+- Average number of weekday visitors searching for facility type of Community providers (in-VA's network) = ~ 476-500 unique visitors/weekday
 
 ## Root Causes
 _What caused this situation?_
@@ -48,6 +48,7 @@ _What steps were taken to resolve the issue?_
 - Tested fix and smoke tested regression of other features
 - Approved and released to Production
 - Validated fix on Production
+
 _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 
 ## Documentation links
@@ -57,9 +58,13 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 
 ## Action Items
 
-| Description                    | Type    | Owner        | Issue # |
-| ------------------------------ | ------- | ------------ | ------- |
-| | | | |
+| Description                    | Owner        | Issue # |
+| ------------------------------ | ------------ | ------- |
+| Include smoke test procedures as standard acceptance criteria | VA.gov Facility team | |
+| Prioritize development of automated end-to-end testing for PPMS-related features | VA.gov Facility team | [#10448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10448) |
+| Investigate options for upstream monitoring and notifications | VA.gov Facility and Platform teams  | |
+| Consider prioritization of alert messaging | VA.gov Facility and Public Websites teams  | [#10318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10318)  |
+| Consider use of flipper to enable/disable features | VA.gov Facility team | |
 
 ## Lessons Learned
 
@@ -78,7 +83,7 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 - Able to remedy before daily deploy on Weds resulting in 24-hour outage and no need for off-cycle hotfix.
 
 ### Takeaways
-- Need to ensure smoke test procedures are included in all acceptace criteria
+- Need to ensure smoke test procedures are included in all acceptance criteria
 - Prioritize technical debt of automated end-to-end testing development that includes PPMS-related features
 - Further investigation of upstream monitoring and notifications
 - Consider prioritization of alert messaging
@@ -87,7 +92,7 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 ## Timeline (all times ETC, asc order)
 _date, time, step/event_
 - Daily deployment completed at 4:16 p.m. ET on June 15, 2020
-- VA.gov Facility team identified possible outage at ~11:50 a.m. ET on June 16, 2020 and begain investigation
+- VA.gov Facility team identified possible outage at ~11:50 a.m. ET on June 16, 2020 and began investigation
 - VA.gov Facility team notified OCC of the outage at 12:16 p.m  ET on June 16, 2020.
 - VA.gov Facility team identified root cause and began implementing remedy ~12:30 p.m. ET on June 16, 2020
 - Nursing staff notified OCC leadership of the outage at approximately 1:00 PM ET. 
