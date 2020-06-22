@@ -82,7 +82,7 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 - Time to view My Payment History
 
 #### Baseline KPIs
-- Time to view My Payment History: 1 minute
+- Time to view My Payment History: tbd
 
 ### OKRs
 
