@@ -3,9 +3,9 @@
 ### Monday, June 22
 - [P1 - Chris ⋅9:00 – 10:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p1.md)
 
-- [P2 - ABC⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p2.md)
+- [P2 - Rosie⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p2.md)
 
-- [P3 - ABC⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p3.md)
+- [P3 - ABC⋅1:45 – 2:45pm] NO SHOW
 
 - [P4 - ABC⋅3:45 – 4:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p4.md)
 
