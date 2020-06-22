@@ -1,6 +1,6 @@
 # Postmortem for PPMS Outage June 2020
 
-Date: June 18, 2020
+Date: June 22, 2020
 
 Authors:
 - Dave Conlon, DEPO
@@ -10,8 +10,8 @@ Status: Resolved
 
 ## What happened?
 _Brief description/summary of failure_
-- On June 16, 2020, the Facility Locator experienced a brief Community Provider Locator outage, causing searches for Community care providers to be  unavailable. 
-- Remaining features including Urgent Care locator remained functional.
+- On June 16, 2020, the Facility Locator experienced a outage to the Community Provider Locator feature where searches for Community care providers resulted in the application "spinnning" and then failing to return any results. 
+- Remaining search features VA Health (all subtypes), VA Benefits, Urgent care provider, Cemetery, and Vet Center remained fully functional.
 
 ## Background
 _What context is needed to understand this situation?_
@@ -19,26 +19,33 @@ _What context is needed to understand this situation?_
 
 ## Detection
 _How was the issue found?_
-_Date/time of discovery_
-- When the team activated the flag during a discussion about the feature during a sprint planning meeting on June 16, 2020, they observed the inabaility to populate the Service type field for Community care providers. 
-
+- This issue was discovered by the VA.gov Facility team during a sprint planning meeting (~11:50 a.m ET) on June 16, 2020.
+- DEPO had just begun enabling a feature for VA-owned facility types (VA Health (all subtypes), VA Benefits, Cemetery, and Vet Center)
+- DEPO observed the inabaility to populate the Service type field for Community care providers.
+- DEPO notified the key stakeholder team, Office of Community Care, of the outage at ~12:16 p.m. ET
 
 ## Impact
 _What was the impact on Veterans, business and team?_
-- PPMS Locator remained functional during that time – the patient referral process was uninterrupted. 
-- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers. 
+- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers.
+- Other systems that used the PPMS Locator remained functional during that time – the patient referral process was uninterrupted. 
 
 ## Root Causes
 _What caused this situation?_
-- During the migration to Facilities V1 for VA facilities, the CCP controller was also moved to V1, rather than staying with the existing endpoint. 
+- During the migration to Facilities V1 for VA facilities, the CCP controller was also moved to V1, rather than staying with the existing endpoint.
+- This feature released to Production at 4:16 p.m. ET on June 15, 2020, resulting in the outage.
 
 ## Resolution
+- 
 _What steps were taken to resolve the issue?_
-_Date/time of resolution_
+- Upon discovery, DEPO:
+  - Disabled the new feature and waited for a refresh to determine if that caused the outage
+  - DEPO also tested the upstream PPMS end point to determine if the problem was up-stream
+  - Analyzed code released the day before (~4 p.m. ET)
+- 
+_Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 
 ## Documentation links
-- [Slack Thread]
-- [Support issue] 
+- Slack Thread[https://dsva.slack.com/archives/C0FQSS30V/p1592324871429600]
 - [Github issue(s)]
 
 
@@ -51,15 +58,25 @@ _Date/time of resolution_
 ## Lessons Learned
 
 ### What went well
+- Fast identification of root cause
+- Rapid implementation and deployment of fix
+- Fast notification of the stakeholder team
 
 ### What went wrong
+- Lack of smoke test for unintentional impact of code changes
 
 ### Where we got lucky
 
 ### Takeaways
+- Need to ensure smoke test procedures are included in all acceptace criteria
+- Prioritize autoamted end-to-end testing development
+- Consider prioritization of alert messaging
+- Consider further split of controllers on flipper
 
 ## Timeline (all times ETC, asc order)
 _date, time, step/event_
-- DEPO notified OCC of the outage at 12:16 ET on June 16, 2020. 
+- Daily deployment completed at 4:16 p.m. ET on June 15, 2020
+- DEPO identified possible outage at ~11:50 a.m. ET on June 16, 2020 and begain investigation
+- DEPO notified OCC of the outage at 12:16 p.m  ET on June 16, 2020. 
 - Nursing staff notified OCC leadership of the outage at approximately 1:00 PM ET. 
 - VA.gov Community Provider Locator function issue resolved at approximately 4:00 ET, June 16.
