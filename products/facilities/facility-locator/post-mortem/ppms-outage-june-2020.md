@@ -26,16 +26,16 @@ _How was the issue found?_
 
 ## Impact
 _What was the impact on Veterans, business and team?_
-- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers.
-- Other systems that used the PPMS Locator remained functional during that time – the patient referral process was uninterrupted. 
+- Veterans visiting Facility Locator during the outage would not have been able to complete a search for Community care providers. 
 
 ## Root Causes
 _What caused this situation?_
-- During the migration to Facilities V1 for VA facilities, the CCP controller was also moved to V1, rather than staying with the existing endpoint.
+- During the migration to Facilities v1 for VA facilities, the CCP controller was also moved to v1, rather than staying with the existing endpoint.
+- The issue did not contain regression smoke tests
+- The application does not have full end-to-end regression tests
 - This feature released to Production at 4:16 p.m. ET on June 15, 2020, resulting in the outage.
 
 ## Resolution
-- 
 _What steps were taken to resolve the issue?_
 - Upon discovery, DEPO:
   - Disabled the new feature and waited for a refresh to determine if that caused the outage
@@ -46,7 +46,7 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 
 ## Documentation links
 - Slack Thread[https://dsva.slack.com/archives/C0FQSS30V/p1592324871429600]
-- [Github issue(s)]
+- [Github issue(s)] [https://github.com/department-of-veterans-affairs/va.gov-team/issues/10286]
 
 
 ## Action Items
@@ -64,8 +64,11 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 
 ### What went wrong
 - Lack of smoke test for unintentional impact of code changes
+- No end-to-end testing capability
+- Post-release validation
 
 ### Where we got lucky
+- Able to remedy before daily deploy
 
 ### Takeaways
 - Need to ensure smoke test procedures are included in all acceptace criteria
