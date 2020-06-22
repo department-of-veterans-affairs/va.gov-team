@@ -146,11 +146,11 @@ _Is there one feature, or a couple features, that people are most excited about?
 
 | Feature or feature area                                      | No. of participants who added in co-design | No. of participants who cited as a top 3 priority |
 | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------- |
-| 1. Appointments                                              | **7 (all)**, 3 added freeform, 4 added predefined                                   | 4                                           |
-| 2. Secure Messaging                                          | **5**, 2 added freeform, 3 added predefined                                          | 1                                           |
-| 3. Some form of more direct and immediate contact with people at VA | **5**, multiple features in this area added across freeform and predefined                                          | 1                                           |
-| 4. Checking the status of a claim                            | **4**, 2 added freeform, 2 added predefined                                         | 2                                           |
-| 5. Discovering VA benefits or learning about updates to VA benefits | **4**, 3 added freeform, 2 added predefined                                         | 1                                           |
+| 1. Appointments                                              | **7 (all)**, (3 added freeform, 4 added predefined)                                   | 4                                           |
+| 2. Secure Messaging                                          | **5**, (2 added freeform, 3 added predefined)                                          | 1                                           |
+| 3. Some form of more direct and immediate contact with people at VA | **5**, (multiple features in this area added across freeform and predefined)                                          | 1                                           |
+| 4. Checking the status of a claim                            | **4**, (2 added freeform, 2 added predefined)                                        | 2                                           |
+| 5. Discovering VA benefits or learning about updates to VA benefits | **4**, (3 added freeform, 2 added predefined)                                         | 1                                           |
 
 Outside of these top 5 features, it is notable that all the participants who added Rx refill in co-design rated that feature as a top 3 priority. This could indicate that Rx refill is higher value than it tested in this study and this should be explored in further research.
 
