@@ -1,6 +1,27 @@
 # Status and decisions for MVP Learning Center
 ## mm/dd/yy
 
+## 06/22/2020
+
+Summary of decisions from 6/17 LC+CMS meeting w/ Kevin Walsh, Steve Wirt, Oksana Cwyrus, Stephanie Orkand, and Jen Lee. 
+
+We are not prototyping page templates in Drupal, but the CMS team can start some related drupal epics. These are the templates the team discussed can be started in parallel with non-CMS workstreams (prototyping and user research). 
+
+**Learning center templates we can build in the CMS in parallel**
+
+These templates were selected to start with because they are 1/content template types that we know will have the most use by content autors and will fit the majority of content use cases, or 2/ they have component elements that can/will be used in other products (e.g., video component will be used in campaign landing pages). 
+
+   * [Reusable single Q&A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#single-faq) (COPE epic)
+   * Reusuable multiple FAQs (COPE epic)
+   * [About template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#about)
+   * [Video component](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#media-imagevideo)
+   * [Step-by-step template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#step-by-step) (Iterations on 'subway map' process list to enable screengrabs) 
+   
+   
+**Question: Are tags something we can start in parallel, since this will used across all learning center templates?**
+- We need to flesh out the MVP taxonomy and other requirements. This needs to be a follow up call as a topic. 
+
+
 ## 06/11/2020
 
 ### CMS-focused follow-up meeting
