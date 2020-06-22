@@ -62,7 +62,7 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 | ------------------------------ | ------------ | ------- |
 | Include smoke test procedures as standard acceptance criteria | VA.gov Facility team | |
 | Prioritize development of automated end-to-end testing for PPMS-related features | VA.gov Facility team | [#10448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10448) |
-| Investigate options for upstream monitoring and notifications | VA.gov Facility and Platform teams  | |
+| Investigate options for upstream monitoring and notifications | VA.gov Facility and Platform teams  | [Sentry #8514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8514) |
 | Consider prioritization of alert messaging | VA.gov Facility and Public Websites teams  | [#10318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10318)  |
 | Consider use of flipper to enable/disable features | VA.gov Facility team | |
 
