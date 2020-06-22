@@ -7,7 +7,7 @@
   - [Update Dependents](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
 - Staging links: 
   - [View dependents](https://staging.va.gov/disability/view-dependents/)
-  - [Add or change dependents](https://staging.va.gov/disability-benefits/new-686/) _WIP link, to be updated_  
+  - [Add or change dependents](https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction)
 - VA.gov link: 
   - [Static landing page for dependents](https://www.va.gov/view-change-dependents)
   - [View dependents](https://www.va.gov/view-change-dependents/view)
