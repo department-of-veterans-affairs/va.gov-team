@@ -3,7 +3,7 @@
 
 ## 06/22/2020
 
-Summary of decisions from 6/17 LC+CMS meeting w/ Kevin Walsh, Steve Wirt, Oksana Cwyrus, Stephanie Orkand, and Jen Lee. 
+Summary of decisions from 6/17 LC+CMS meeting w/ Kevin Walsh, Steve Wirt, Oksana Cyrwus, Stephanie Orkand, and Jen Lee. 
 
 We are not prototyping page templates in Drupal, but the CMS team can start some related drupal epics. These are the templates the team discussed can be started in parallel with non-CMS workstreams (prototyping and user research). 
 
