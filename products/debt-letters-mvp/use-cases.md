@@ -11,8 +11,9 @@ Link to product outline: [Debt Letters MVP](https://github.com/department-of-vet
 <summary></summary>
   
 - [Veteran with debts wants to view them online](#veteran-with-debts-wants-to-view-them-online) 
+- [Veteran with no current debts navigates to the tool](#veteran-with-no-current-debts-navigates-to-the-tool)
 - [Veteran wants to view a debt's history](#veteran-wants-to-view-a-debts-history)
-- [Use Case C](#use-case-c) 
+- [Use Case Template](#use-case-template) 
 
 </details>
 
@@ -30,6 +31,22 @@ Please references [the design on UXPin](https://preview.uxpin.com/305eb36ed6ec2e
 
 _Note: credentials should be stored in sensitive repos only_
 
+---
+
+## Veteran with no current debts navigates to the tool
+
+#### Description
+
+This use case applies if a Veteran makes their way to the debt tool and has no current Edu, Comp & Pen, or Loan Guaranty debts.
+
+#### Link to designs
+Please reference [the design on UXPin](https://preview.uxpin.com/305eb36ed6ec2e5f2bc1dd91659b70ef961ab269#/pages/129917808/simulate/no-panels?mode=i)
+
+#### Instructions to access in Staging
+_Note: credentials should be stored in sensitive repos only_
+
+---
+
 ## Veteran wants to view a debt's history
 
 #### Description
@@ -46,7 +63,9 @@ _Note: credentials should be stored in sensitive repos only_
 
 TBD
 
-## Use Case C
+---
+
+## Use Case Template
 
 #### Description
 
