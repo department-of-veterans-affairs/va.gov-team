@@ -14,8 +14,8 @@
 - [Participants and Recruitment](#participants-and-recruitment) 
 - [Key Findings](#key-findings) 
 - [Detailed Findings](#detailed-findings) 
-- [Resources](#resources) 
-- [References](#references)
+- [Resources](#appendix) 
+- [Applications Used](#applications used)
 
 ## Goals
 The goal of this research is to understand user comprehension of the existing Power of Attorney Feature and user Payment History practices in eBenefits, as part of the digital eBenefits migration to the VA.gov website. This includes:
@@ -176,11 +176,10 @@ The step titled "What do you want to do?" was another example of an area in whic
 Another example confusing workding.  
 If you’re claiming a dependent child 18 to 23 years old who’ll be attending school, and if you never received benefits for this child, you must also select the “Claim benefits for your child under 18” checkbox below. (image)
 
-
 The checkbox verbiage limited the types of dependent benefits offered by the VA.  Some checkboxes specify "step-child" while others specify "child".   By default, this inadvertently limits the options veterans have to select.  There are no options to choose for a biological 19-year-old going college.  The only 19-year-old college student option is for a 'step-child'.
-    > I look at that and say it.. it would not be an option.
-  
-    > Confused not sure reading all the options. I guess (clicked first bock). 
+  > I look at that and say it.. it would not be an option.
+
+  > Confused not sure reading all the options. I guess (clicked first bock). 
   
 Participants were unclear on what to select when adding multiple children.
    > It would be nice to tell you that you can pick more than one. I did not know if it would let me load both but it loaded them so I wanted to see if I could do them all at once.
@@ -291,8 +290,6 @@ Participants prefer access to the entire form.  The Form System is structured so
 These socioeconomic veterans may also heavily rely on VA services.
  > People fill out forms and don’t have half the information. If it at home they have it next to them. Or if it’s a library a or hospital computer the information is not available it’s a second trip and a more barriers.  
 
-**the checkbox did allow peopel to see all the VA dependent options**
-**updating a a femail vertareinas last name becuase of a marriage**
 
 ## Next Steps
 - Meet with team to review findings and discuss design recommendations
