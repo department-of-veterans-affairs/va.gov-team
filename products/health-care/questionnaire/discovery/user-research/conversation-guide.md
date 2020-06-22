@@ -90,6 +90,7 @@ How can we make it easier for you to share your information with your doctor bef
 
 - This might sound like a strange question, but if you were to describe to a fellow Veteran what they should expect about sharing health information with their providers at VA, what would you want them to know? 
 - In your experience, what's the difference between a screener, a form, a quesionnaire -- or is there a difference? 
+- How would you rate your experience with filling out healthcare related forms? (1 to 5)
 
 ## Thank-You and Closing - 5 minutes
 
