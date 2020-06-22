@@ -36,11 +36,7 @@ Our entitlement system shows that you have more than 6 months of education benef
 To be eligible for the Rogers STEM Scholarship, you must have less than 6 months of Post-9/11 GI Bill benefits left when you submit your application.  
 
 Months you have left to use: **7 months, 0 days**  
-{ end warning alert }
-
-{ blue informational alert }  
-**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
-{ end informational alert }  
+{ end warning alert }    
 
 { end if logged in }  
 
@@ -97,6 +93,10 @@ Sign in to start your application { button }
 { end if logged out }  
 
 { if logged in }  
+
+{ blue informational alert }  
+**Note:** Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your form in progress and come back later to finish filling it out.   
+{ end informational alert }  
 
 Start the education application >> { button }  
 
@@ -184,11 +184,11 @@ Form 22-10203
 __Your responses:__  
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
 
-If your situation changes in the future and you meet this criteria, you may return to apply for the Rogers STEM Scholarship.  
+If your situation changes in the future and you meet this requirement, you may return to apply for the Rogers STEM Scholarship.  
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply and let us determine your eligibility? (*Required)  
+Would you still like apply? (*Required)  
 
 * No  
 * Yes
@@ -292,7 +292,7 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply and let us determine your eligibility? (*Required)  
+Would you still like apply? (*Required)  
 
 * No  
 * Yes
@@ -417,10 +417,9 @@ Form 22-10203
 
 ### Chapter Title:  5 of 6:  Personal information 
 
-#### Direct deposit { sub-head }
+#### Direct deposit { sub-head }  
 
-VA makes payments only through direct deposit, also called electronic funds transfer (EFT). We will need to know where to deposit your Rogers STEM Scholarship payments if you are approved for it.
-Please provide your bank account type as well as your current routing number and your account number.  
+VA makes payments only through direct deposit, also called electronic funds transfer (EFT). If you’re approved for the Rogers STEM Scholarship, we’ll need to know where to deposit the funds.  
 
 { visual aid of check }  
 
