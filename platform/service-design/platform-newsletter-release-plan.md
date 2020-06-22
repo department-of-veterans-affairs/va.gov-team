@@ -45,7 +45,7 @@
 
 ### **Planning:**
 
-- Desired date: ?
+- Desired date: 6/30
 - Post-launch KPI 1: Number of subscribers 
 - Post-launch KPI 2: Percent of emails opened
 - Post-launch KPI 3: Click-through rates from email
