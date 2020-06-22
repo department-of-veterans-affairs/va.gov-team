@@ -60,7 +60,7 @@
 
 #### **Slack**
 
-- [ ] Setup new channel: #vsp-newsletters. 
+- [ ] Setup new channel: #platform-newsletter. 
 
 #### **Documentation Homepage**
 
