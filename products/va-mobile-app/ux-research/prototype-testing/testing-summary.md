@@ -23,6 +23,9 @@ Using insights from these prior studies, the June 8-10, 2020 research sessions f
 **(L) Co-design exercise template, (R) interactive prototype home screen**
 ![Image of testing stimuli](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/testing-stimuli.png)
 
+**Example of completed co-design exercise**
+![Image of completed codesign](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/prototype-testing/example-completed-codesign.png)
+
 
 
 ## Participant VA benefit usage
@@ -30,6 +33,13 @@ Using insights from these prior studies, the June 8-10, 2020 research sessions f
 - 6 of 7 participants used VA health care, 5 participants had used My HealtheVet
 - 6 of 7 participants had filed a claim with VA, 4 participants had used eBenefits
 - All participants had used VA.gov
+
+
+## Participant summary
+
+- (2) participants aged 25 - 34, (1) participant aged 35 - 44, (1) participant aged 45 - 54, (1) participant aged 65-74
+- (3) women, (4) men
+- Diverse in location - located in (5) different states across the midwest, south, and northeast
 
   
 
