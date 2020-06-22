@@ -1,0 +1,40 @@
+# Conversation Guide for Back-End Tools Team, External Services Integration, June 2020: P1
+
+## Introduction
+
+- To start, let’s talk a bit about what application(s) you're working on. Can you tell me about it/them?
+ 	 - P2: I’m on the Caregivers team, we are bringing the 1010CG form online. It used to be via paper and now it interfaces with a Salesforce application. Our goal was to get that form on va.gov 
+
+## External services integration
+
+- Do you know if this the first time teams have worked with Salesforce?
+	 - P2: No, there’s GI Feedback benefit tools, 2 integrations in same instance. I’ve worked with CARMA on the Salesforce integration
+- What has that collaboration been like?
+	 - P2: We started from our end on what fields and what submission looks like. And then went from there - what do we need between capturing that submission and sending to CARMA. There’s some intermediate steps, like verifying the veterans status, collecting ICN numbers 
+- Is this the first time you’ve worked with Salesforce? What has gone well?
+	 - P2: Yes. Getting instructions from the CARMA team was good, well documented. Salesforce documentation was good. Some code was reusable. 
+- Who initially facilitated between the teams?
+	 - P2: It took awhile. I didn’t know it was Salesforce for awhile, and was working of assumptions, didn’t know if was a database or custom web service. We went through a series of meetings and email threads to get in touch with the right people who where developing the integration. Everything form there went smooth.
+- Where there other parts of the integration process that where difficult? 
+	 - P2:  Manual testing was difficult. Would normally work locally, so I could do automated testing. A number of requirements on their end, including certificates, whitelisting, a series of processes. Got even more difficult on the VA services, review instances, staging environments. Going back and forth was time consuming. It was hard to track errors, a lot of troubleshooting and time consuming. If I had known that coming in, I’d set up environments differently to make it easier. Probably not require so many certificates and set up testing where I had more control vs working with so many others.
+- Did you have to get any additional support from other teams fro testing or environments?
+	 - P2:  OPs on VSP; I don’t know what infrastructure exists until I run into the need for it. Context over time, VSP helped with that - pointing me in the right direction.
+- Was there a point where you sought help for something but where not able to find the answer?
+	 - P2:  I was confused by how the proxies worked, and I still have questions about it. I didn’t know if I needed it or what the purpose was.
+- Is there advice you’d give developers doing this type of integration?
+	 - P2:  Laying out exactly how deployments work, application settings, but that’s also part of on boarding. 
+- Are there notes or documents that you’ve written or found useful?
+	 - P2:  I got 2 docs from CARMA that helped, that outlined payloads and flows. There where a lot of service libraries that existed and I had no idea what they where, I couldn’t find documentation on it. I created a CARMA library, that is ideally portable as read.me. A lot was duplicated to the DevOps repo. I’m working on a diagram of the whole connection flow. Going through the existing codebase was helpful. There needs to be a core Salesforce testing library that everyone is inheriting.
+
+## Post-Task Interview
+
+- Where there any other end-points other than Salesforce?
+	 - P2:  Central Mail had no documentation. MVI was hard to get information on, making business decisions on what properties to use. Could find end-points but a little bit of work to determine what was needed and what they ment. EMIS had good documentation on this field means “this”.
+- Where did you go to find that information?
+	 - P2:  Codebase and referred to libraries. DevOps, look there. Most info comes from code.
+- What was the timeframe from having access to feeling like you have gone full circle.
+	 - P2:  Requirements change over time; but took a few months. Spent a lot time verifying veteran status and what system was what and why. 
+
+
+
+  
