@@ -42,8 +42,8 @@ As Phase 1 of our release, we are sending the drafted style guide to VSP leaders
 - Any UX changes necessary?
 - If yes, what: 
 - Success criteria: 
-  - Did VSP members reference and find it useful? 
-  - Were any terms added to word list? 
+  - Number of VSP team members who engage with announcement
+  - Did VSP team members find it useful?
   
 ## Go Live!
 
