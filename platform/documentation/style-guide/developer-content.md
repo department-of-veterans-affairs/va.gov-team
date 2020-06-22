@@ -64,7 +64,7 @@ In procedures, use the following order:
 1. List any output if necessary.
 1. Explain any output if necessary.
 
-Example:
+**Example:**
 1. Mock an API response.
 ```
 yarn mock-api --responses PATH_TO_RESPONSES_FILE
@@ -96,7 +96,7 @@ In most cases, precede a code sample with an introductory sentence or paragraph.
 
 Identify placeholder variables by using uppercase characters with underscore delimiters.
 
-Example: 
+**Example:** 
 ```
 yarn test:unit src/applications/PATH_TO_TEST_FILE/TEST_FILE.unit.spec.js
 ```
@@ -111,7 +111,7 @@ If your command-line instructions show multiple lines of input, then start each 
 
 Don't show the current directory path before the prompt, even if part of the instruction includes changing directories. However, if the overall context of the command interface changes — such as from the local machine to a remote machine — then add an additional prompt indicator, as appropriate, for the new context.
 
-Example:
+**Example:**
 1. Enter the following code into the terminal:
 ```
 $ curl -v --proxy socks5h://127.0.0.1:2001 sentry.vfs.va.gov
@@ -148,7 +148,7 @@ The following output appears:
 
 If your command-line instructions include a combination of input and output lines, we recommend using separate code blocks for input and output.
 
-Example:
+**Example:**
 ```
 $ cat ~/.ssh/my-ssh-key.pub
 ```
@@ -161,7 +161,7 @@ ssh-rsa [KEY_VALUE] [USERNAME]
 #### Required items (commands, arguments, etc.)
 Use text without brackets or braces. Depending on the circumstances, this is likely to be in code font.
 
-Example: 
+**Example:** 
 ```
 ssh-add -K ~/.ssh/id_rsa_vetsgov
 ```
@@ -174,7 +174,7 @@ Use square brackets around an optional argument.
 
 If there's more than one optional argument, enclose each item in its own set of square brackets.
 
-Example:
+**Example:**
 ```
 git log [OPTIONS] [REVISION_RANGE]
 ```
@@ -185,7 +185,7 @@ In this example, `OPTIONS` and `REVISION_RANGE` are optional.
 
 Use braces (also known as curly braces) to indicate that the user must choose one—and only one—of the items inside the braces. Use vertical bars (also known as pipes) to separate the items. There can be more than two mutually exclusive choices, separated from each other by pipes.
 
-Example: 
+**Example:** 
 ```
 {FILE1|FILE2}
 ```
@@ -195,7 +195,7 @@ In this example, choose either `FILE1` or `FILE2`.
 #### Arguments that can repeat
 
 Use an ellipsis (`...`) to indicate that the user can specify multiple values for the argument.
-Example: 
+**Example:** 
 ```
 git log [OPTIONS] [REVISION_RANGE] [[--] PATH…​]
 ```
@@ -208,6 +208,6 @@ You don't have to show output for every command. Only add output if it adds valu
 
 If you are showing output, use an introductory phrase to separate the command from the output.
 
-Examples: 
+**Examples:** 
 - The output is similar to the following:
 - The output is the following:
