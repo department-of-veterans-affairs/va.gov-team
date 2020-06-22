@@ -12,7 +12,7 @@ Liz Lantz, Public Websites, June 2020
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-   
+    
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
@@ -78,19 +78,33 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers:	
 
   - Jen Lee (jennifer.lee27@va.gov)
+
   - Ryan Thurlwell (Ryan.Thurlwell@va.gov)
-  - Danielle Thierry. (danielle.thierry@va.gov)
+
+  - Danielle Thierry (danielle.thierry@va.gov)
+
   - Beth Potts (beth.potts@va.gov)
+
   - John Hashimoto ()
+
   - Kelson Adams ()
+
   - Oksana Cyrwus
+
   - Kevin Walsh
+
   - Laura Walsh
+
   - Nick Sullivan (nick.sullivan@adhoc.team)
+
   - Randi Hecht
+
   - Mikki Northuis
+
   - Selina Cooper
+
   - Anne Hurley
+
   - Steve Wirt
 
     
