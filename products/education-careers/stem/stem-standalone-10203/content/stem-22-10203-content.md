@@ -181,7 +181,7 @@ Form 22-10203
  
 { display :heavy_multiplication_x: if user indicated "No" }   
 
-__Your responses:__  
+__Your response:__  
 :heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
 
 If your situation changes in the future and you meet this requirement, you may return to apply for the Rogers STEM Scholarship.  
