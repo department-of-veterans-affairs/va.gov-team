@@ -12,9 +12,13 @@ Liz Lantz, Public Websites, June 2020
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-   When the new VA.gov was launched, a tiered content framework was created to prioritize content transition.  Tier 1 content (benefit content and tools) was brought into the VA.gov site experience first. The migration is nearly complete, and we are beginning to address migrating the tremendous amount of Tier 2, benefit-adjacent content (for beneficiaries, and people who work with beneficiaries).
+   When the new VA.gov was launched, a tiered content framework was created to prioritize content transition.  Tier 1 content (benefit content and tools) was brought into the VA.gov site experience first. The Tier 1 migration is nearly complete, and we are beginning to address migrating the tremendous amount of Tier 2, benefit-adjacent content (for beneficiaries, and people who work with beneficiaries).
 
-   The Learning Center MVP is designed to help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  d
+   The Learning Center MVP is designed to support the following goals:
+
+   1. Help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  
+   2. Increase self-service for Veterans, and those who support them, when they have questions about benefits or need to troubleshoot VA account problems.
+   3. Reduce calls to the call center and the need for in-person visits to VA locations to answer questions about benefits or to troubleshoot VA account problems.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
@@ -155,6 +159,8 @@ Please list the people who will be serving in each role. **Include the primary p
   - Anne Hurley
 
   - Steve Wirt
+
+    
 
 ## Resources	
 
