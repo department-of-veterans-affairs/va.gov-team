@@ -1,5 +1,12 @@
 ## 2020-06 Clipboard Questionnaire Discovery Pilot Session
 
+### Participant Summary
+- 2 Male, 1 Female
+- 2 Veterans, 1 Caregiver
+- Appt. Types
+  - 3 Primary Care (Annual Visit), 3 Speciality, Followups (labs)
+
+
 ### Monday, June 22
 - [P1 - Chris⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p1.md)
 
@@ -10,11 +17,11 @@
 - [P4 - ABC⋅5:00 – 6:00pm] NO SHOW
 
 ### Tuesday, June 23
-- [P5 - ABC⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p6.md)
+- [P5 - Matt⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p5.md)
 
-- [P6 - ABC⋅11:15am – 12:15pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p7.md)
+- [P6 - ABC⋅11:15am – 12:15pm] NO SHOW
 
-- [P7 - ABC⋅12:30 – 1:30pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p8.md)
+- [P7 - ABC⋅12:30 – 1:30pm] NO SHOW
 
 - [P8 - ABC⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p9.md)
 
