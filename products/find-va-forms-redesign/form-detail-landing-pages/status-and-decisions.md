@@ -2,6 +2,35 @@
 
 ## mm/dd/yy
 
+## 06/23/20
+
+**Form detail landing page CMS AX validation**
+
+A few minor updates needed before AX validation can be marked complete. 
+
+1/ Form administration dropdown choices: Add "Veterans Affairs"; remove "DEPO"
+
+2/ Add ability to add an in-body alert component (unique or reusable). This component should be allowed above the When to use this form custom field and PDF link.
+
+3/ Meta title tag logic: "Va" should be "VA"
+
+4/ Meta description field logic: Point to pull from the When to use this form field, when available. If none, should show empty. Is also over ridable with manual entry.
+
+[See ticket 5653 for reference](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5653#issuecomment-648333556)
+
+
+**Documenting some additional AX capabilities that Steve built into the forms AX:**
+
+**Temporary emergency admin fix of db data**
+
+If a form was added to the source VA forms db with errors (e.g., typo in the form title, etc.) - CMS admin (Kevin Walsh/Steve Wirt) can temporarily edit the source db data. This doesn't change the data in the source VA forms db, but does provide a temporary emergency fix for the published form page. This is only good for the day however -- the next nightly forms db migration will wipe out the temporary CMS fix. 
+
+**Default "Draft" state of form detail page**
+
+- Today the CMS nightly migration will bring in forms db data and generate a basic form detail page in the "Draft" state. A PW content editor will need to manually change the newly added page to "Publish" (and customize any fields if applicable). 
+- To consider: This isn't the default behavior that Beth and I discussed (default: publish state) but should reconsider due to unreliable state of forms governance upstream inside the source forms db. 
+- Either way, this won't affect the form from appearing in the forms search. Regardless of whether a form has a form detail page published, once the form data has been migrated into Drupal, it will appear in the forms search. 
+
 
 ## 06/18/20
 
