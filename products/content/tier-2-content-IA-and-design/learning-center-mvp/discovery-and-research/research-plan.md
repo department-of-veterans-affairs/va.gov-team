@@ -38,15 +38,19 @@ Liz Lantz, Public Websites, June 2020
 
 1. What method of research are you planning? 	
 
-   We're planning on doing a remote, moderated usability study to answer our first 5 questions (everything but taxonomy and labeling).  We'll ask participants to go through a clickable prototype
+   We're planning on doing a remote, moderated usability study to answer our first 5 questions (everything but taxonomy and labeling).  We'll ask participants to go through a clickable prototype.
 
    To evaluate the proposed IA  (taxonomy, categorization, labels, nomenclature), we'll send out a link to a remote, unmoderated card sort.
 
 2. Why this method? How does this methodology help you answer your research questions? 	
 
+   Having participants complete tasks in a clickable prototype will help us understand how easily they're able to find the information they're looking for, and gain insight into how they would go about looking for information they can't find.  The presence of a moderator will allow us to ask follow-up questions and guide the participant through the tasks.
+
+   We've decided to do a card sort to validate our proposed IA because this is a method proven to be successful in determining an organization scheme that best matches users' mental models. These sessions will be unmoderated since we can provide clear instructions through Optimal Sort, and we hope to get responses from a larger participant pool than would be possible with a moderator.
+
 3. Where are you planning to do your research?
 
-   Remotely, using Zoom	
+   We'll do our research remotely, using Zoom and Optimal Sort.	
 
 4. What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 
@@ -54,19 +58,55 @@ Liz Lantz, Public Websites, June 2020
 
 ## Participants and Recruitment	
 
-1.	Participant criteria: What are you looking for in a participant?	
-   (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
-2.	What is your recruitment strategy? 	
-   Recruit 50% more participants then needed, and leverage Perigean for recruiting.
+1.	We'd like to interview 8 Veterans
+   - Participants must be able to participate via a desktop device.
+   - **Do we need criteria related to the content we'll be showing? E.g. having an account, familiar with burial benefits, or disability benefits?**
+   - We request the participant pool be diverse in:
+     - Gender (ideally 4 women, 4 men)
+     - Ethnicity/Race (at least 4 non-Caucasian)
+     - Age. Ideally, we will have 
+       - 2 people from 18-24
+       - 2 people from 25-34
+       - 2 people from 35-54
+       - 2 people who are 55 or older.
+     - Education level (at least 2 falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
+     - Geography
+   - To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+
+**2. What is your recruitment strategy?**
+
+- For usability study:
+  - We will leverage Perigan's recruitment capabilities
+  - In order to get 8 participants, we'd like Perigean to recruit 12, with the expectation that there be a max of 4 no shows.
+  - We'll ask to cancel any remaining sessions once we hit 8. 
+- For our card sort, we'll send the link out **NEED TO REFINE THIS**
 
 ## When? 	
 
-1.	Timeline: What dates do you plan to do research? 	
-   (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3.	Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+1. Timeline: What dates do you plan to do research? 	
+   July 7-9, 2020
+
+2. Prepare: When will the thing you are testing be ready? 
+
+   July 2, 2020
+
+3. Length of Sessions: How long do you estimate each session will be? 
+
+   30 minutes
+
+4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. 
+
+   Please allow 30 minutes between sessions
+
+   - July 7:
+
+   - July 8: 
+
+   - July 9:  	
+
+5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+
+   July 6, Nick Sullivan or Kelson Adams
 
 ## Team Roles	
 
@@ -115,8 +155,6 @@ Please list the people who will be serving in each role. **Include the primary p
   - Anne Hurley
 
   - Steve Wirt
-
-    
 
 ## Resources	
 
