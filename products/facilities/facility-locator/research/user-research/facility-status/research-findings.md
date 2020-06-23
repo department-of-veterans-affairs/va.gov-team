@@ -125,6 +125,7 @@ Long Term / Heavier Lift
 ### Synthesis Spreadsheet
 PDF Format 
 (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/facility-status/FacilityLocator-OperatingStatusStudy-SynthesisSpreadsheet.pdf)
+
 Google Doc Format
 (https://docs.google.com/spreadsheets/d/1Y91ZNJ_6RN4o9BvGUc0DBqpxnrxg7638-hyVbLrJfAs/edit?usp=sharing)
 
