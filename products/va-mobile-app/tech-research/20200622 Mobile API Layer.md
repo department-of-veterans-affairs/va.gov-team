@@ -15,3 +15,5 @@
 - A separate namespace and Rails engine will be additional software to maintain
 - Duplicating the existing APIs initially may seem duplicative, but we expect the mobile API's footprints to drift over time
 - Governance could get tricky because there is more to maintain - though arguably less tricky than keeping the APIs in place while also modifying them for mobile
+
+<img width="525" alt="Screen Shot 2020-06-23 at 4 08 18 PM" src="https://user-images.githubusercontent.com/58053619/85463114-e2d59e00-b56b-11ea-97f1-063b9b9c6af9.png">
