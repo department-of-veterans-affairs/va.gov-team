@@ -12,7 +12,9 @@ Liz Lantz, Public Websites, June 2020
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-    
+   When the new VA.gov was launched, a tiered content framework was created to prioritize content transition.  Tier 1 content (benefit content and tools) was brought into the VA.gov site experience first. The migration is nearly complete, and we are beginning to address migrating the tremendous amount of Tier 2, benefit-adjacent content (for beneficiaries, and people who work with beneficiaries).
+
+   The Learning Center MVP is designed to help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  d
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
@@ -21,9 +23,16 @@ Liz Lantz, Public Websites, June 2020
    - What do users see as the difference between the learning center and overall site search?
    - Do users get confused if they don't find something in the benefit hub and they have to go to the learning center?
    - Do users understand that information they don't find in the learning center might be in the benefit hub?
-   - Is the proposed IA (taxonomy, categorization, labels, nomenclature) effective for Veteran and other audiences?
+   - Where would the most useful place be to provide links to the Learning Center?
+   - Is the proposed IA (taxonomy, categorization, labels, nomenclature) effective for Veterans and those who support Veterans?
 
 4. Hypothesis: What is your hypothesis for this research? 	
+
+   - Users will easily understand how to use the search functionality.
+   - Template labels will help users determine which search result is most relevant to their search.
+   - Users will be unclear about when to use the Learning Center over global site search.
+   -  Users won't explicitly differentiate between the benefit hub and the Learning Center; they'll default to using overall site search if they can't find what they're looking for in either place.
+   - Our proposed IA will be effective for Veterans and those who support Veterans.
 
 ## Method	
 
