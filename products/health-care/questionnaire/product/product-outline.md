@@ -16,13 +16,13 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 **Key areas of value proposition:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
 
-<details> <summary>Increase faster access to care and more timely delivery of services by Veterans spending less time filling out forms</summary> 
+<details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
 
 - Veterans forms can be pre-populated with known profile and health history sections, leaving only updates and current visit symptoms/screener to be completed by the veteran.
 
 </details>
 
-<details> <summary>By having an easy to use form entry tool, Veterans can ensure higher accuracy in health information is viewable by their care team</summary> 
+<details> <summary>Increase in accuracy of health information that viewable by the Veteran care team, by having an easy to use form entry tool. </summary> 
 
 - Reduce data entry duplication and user errors by populating the forms with the Veterans past medical history. 
 - Reduce data entry by providing the Veteran ability to review and update changes in their health history to be integrated into the care team system.
@@ -32,10 +32,10 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 </details>
 
 
-<details> <summary>Ability to provide forms questions pre-visit (ie. days before their visit), Veterans can take their time to gather and answer the form when convenient for them</summary> 
+<details> <summary>Ability to provide forms questions before checkin for the visit (ie. days before their visit), Veterans can take their time to gather and answer the form when convenient for them</summary> 
 
 - Veterans may not know how long it will take them before a visit to fill out the forms and not arrive in enough time
-
+- Once scheduling is integrated, the Veteran will be prompted for the forms that apply to their selected appointment within the same workflow
 </details>
 
 
@@ -44,14 +44,6 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 - Veterans may have concerns about using the waiting room, pen, paper, clipboard that may have not been cleaned before their use
 
 </details>
-
-
-<details> <summary>Once scheduling is integrated, the Veteran will be  prompted for the forms that apply to their selected appointment within the same workflow</summary> 
-
-- _fill in description here_
-
-</details>
-
 
 <details> <summary>Improve the Veteran/Caregiver experience with the VA as they will have more time to discuss the health plan and goals with thier care team vs. data entry</summary> 
 
