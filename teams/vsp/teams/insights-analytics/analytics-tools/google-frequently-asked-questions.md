@@ -33,6 +33,7 @@
   - [What is a "custom report" in Google Analytics?](#what-is-a-custom-report-in-google-analytics)
   - [Why aren't my user totals adding up?](#why-arent-my-user-totals-adding-up)
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
+  - [Why doesn't Search Console data match Google Analytics data?](#why-doesnt-search-console-data-match-google-analytics-data)
 
 ## VA.gov-Specific Questions
   - [When should I use pageviews vs sessions vs users?](#when-should-i-use-pageviews-vs-sessions-vs-users)
@@ -145,3 +146,15 @@ DOMO is a business intelligence tool purchased by the Analytics & Insights team 
 
 ### How do we get a Product Success Tool built for our team? 
 Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is willing to assist with any questions you may have around KPI setting. 
+
+### Why doesn't Search Console data match Google Analytics data?
+Search Console data may differ from the data displayed in other tools, such as Google Analytics. Possible reasons for this include:
+
+Search Console does some additional data processing—for example, to handle duplicate content and visits from robots—that may cause your stats to differ from stats listed in other sources.
+Some tools, such as Google Analytics, track traffic only from users who have enabled JavaScript in their browser.
+Google Analytics tracks visits only to pages which include the correctly configured Analytics Javascript code. If pages on the site don't have the code, Analytics will not track visits to those pages. Visits to pages without the Analytics tracking code will, however, be tracked in Search Console if users reach them via search results or if Google crawls or otherwise discovers them.
+Some tools define "keywords" differently. For example:
+  - The Keywords page in Search Console displays the most significant words Google found on your site.
+  - The Keywords tool in Google Ads displays the total number of user queries for that keyword across the web.
+  - Analytics uses the term "keywords" to describe both search engine queries and Google Ads paid keywords.
+  - The Search Console Search Analytics page lists shows the total number of keyword search queries in which your page's listing was seen in search results, and this is a smaller number. Also, Search Console rounds search query data to one or two significant digits.
