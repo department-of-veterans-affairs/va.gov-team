@@ -112,7 +112,7 @@ Long Term / Heavier Lift
 ## Next Steps
 
 **Present findings to the Facilities team**
-Share out insights with team. Get input and insights on recommendations.
+- Share out insights with team. Get input and insights on recommendations.
 
 **Update statuses in search results**
 - Implement design recommendations
