@@ -1,14 +1,16 @@
 # IA Review and Recommendations
 
-**Team:** 
+**STATUS: NOT STARTED**
 
-**Product/Featue:** 
+**Team:** Benefits & Memorials 2
 
-**Background/Context:**
+**Product/Featue:** Debt Letters Tool
 
-**Review Date:** 
+**Background/Context:**  New tool will provide users with the ability to view letters received regarding debt from different benefits. 
 
-**IA Review Issue:** 
+**IA Request:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9686
+
+Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10315
 
 <hr>
 
@@ -53,6 +55,13 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 - Are there entry points needed from existing content to tool, or does the tool lead to the other content for how to pay?
 - Danielle to convert intake ticket to an epic, next step will be content strategy work to define how much content do we need to work with, then we can refine IA/flow as necessary
 - team is hoping to do usability testing in early July
+
+**CMS/PW Conversations - 6/8/2020**
+- A kick-off with the CMS team was held to discuss the migration of the content on the "debtman" site
+- It was determined in the meeting that the CMS team would not need to be involved, as there is no new content types being request, the work is really on the PW and IA team to determine the strategy for migrating content.
+- After the PW and IA teams reviewed the "debtman" site it was determined that this majority of the content is related to the Debt Management office and the content should not be migrated over. 
+- The team was notified that the goal will be to follow the standard user flow for authenticated tools, which includes a static page for unauthenticated users with a sign in module that is bypassed for authenticated users. 
+- Another discussion will be held to determine how to approach the content
 
 **Kick-off - 3/17/2020**
 - This is an MVP effort based on the Veterans Fair Debt Notice Act passed in 2018
