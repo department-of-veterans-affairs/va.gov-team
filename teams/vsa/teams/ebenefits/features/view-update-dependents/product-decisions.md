@@ -1,5 +1,6 @@
 # High Level Product Decisions: 21-686c Application
-**VSA eBenefits Team | May 2020**
+**VSA eBenefits Team | May 2020**  
+This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.  
 
 ---
 ## File Uploads  
@@ -18,7 +19,6 @@ _Action Items_
 
 ------------
 
-This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
 ## VA File Number  
 `May 8, 2020`  
 **A decision was made about how to handle the VA File Number and it's impact on the Veterans' ability to proceed into the Form 21-686c Dependent Claims application.**  
