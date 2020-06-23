@@ -28,7 +28,6 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | --        | --        | --        | --        | BGS Integration
 | View Dependent Benefits Letter                      | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
-| Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 | _SEP Features Placeholder_                          | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
 
@@ -36,7 +35,8 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 
 | Feature
 | ------
-| View Rated Disabilities
+| View Rated Disabilities 05022020
+| Discover State Benefit info 23062020
 | View Claim Status
 | View DIC Claim Status 
 | View Appeal Status                         
