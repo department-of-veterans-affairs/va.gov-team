@@ -1,7 +1,7 @@
 
 # VSP documentation style guide
 
-This is the house style guide for the Veteran-facing Services Platform (VSP). It’s shared across VSP so we can write consistent and effective documentation and user guides for teams building on VA.gov.
+This is the house style guide for the Veteran-facing Services Platform (VSP). It’s shared across VSP so we can write consistent and effective documentation for teams building on VA.gov.
 
 
 ## Style guide goals
