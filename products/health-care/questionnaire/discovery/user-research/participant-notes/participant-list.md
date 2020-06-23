@@ -12,18 +12,18 @@
 
 - [P2 - Rosie⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p2.md)
 
-- [P3 - ABC⋅3:45 – 4:45pm] NO SHOW
+- [P3 - 3:45 – 4:45pm] NO SHOW
 
-- [P4 - ABC⋅5:00 – 6:00pm] NO SHOW
+- [P4 - 5:00 – 6:00pm] NO SHOW
 
 ### Tuesday, June 23
 - [P5 - Matt⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p5.md)
 
-- [P6 - ABC⋅11:15am – 12:15pm] NO SHOW
+- [P6 - 11:15am – 12:15pm] NO SHOW
 
-- [P7 - ABC⋅12:30 – 1:30pm] NO SHOW
+- [P7 - 12:30 – 1:30pm] NO SHOW
 
-- [P8 - ABC⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p9.md)
+- [P8 - Charles⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p8.md)
 
 ### Wednesday, June 24
 
