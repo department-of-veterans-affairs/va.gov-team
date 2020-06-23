@@ -111,22 +111,22 @@ Participants will be recruited via Perigean. The study will require 14 Veterans 
   - Report divorce/Remove stepchild
 
 ## Key Findings
-- The participants would **prefer to first add a dependent** and secondly add the dependent’s details.
+- The participants  **prefer to add a dependent** first and then add the dependent’s details.
 - The form's **verbiage was unclear** to participants resulting in:
-  - Incomplete steps
-  - Dependent(s) not being reported
+  - Steps left incomplete 
+  - Unreported dependent(s) 
   - Hesitating to complete the form
-  - Soliciting clarification from a VA representative
-- The majority of participants thought the forms were **really easy to complete.**
+  - Seeking help from the VA
+- The majority of participants thought the forms were **easy to complete.**
 - Participants bypassed the introduction page and had mixed reviews about its usefulness.
 - Participants **disliked the length** of the forms because:
-  - They felt there were numerous and irrelevant marriage questions. 
-  - They felt there were numerous and irrelevant questions about the dependent's schooling.  
+  - Questions about marriage were considered numerous and irrelevant. 
+  - Questions about dependent's education were considered numerous and irrelevant.  
   - The VA should already have their contact information.
         
 ### Additional Findings:
-- **Veterans are apprehensive** that an incorrect step will result in **punitive financial action** from the VA
-- Participants would **prefer accessibility to the entire form.** Instead of complete all required fields in a step before proceeding to the next step.    
+- **Veterans are worried** they will be financially penalized by the VA if they make a mistake.
+- Participants would **prefer accessibility to the entire form,** instead of completing all required fields before proceeding to the next step.    
 
 ## Top Findings
 **The participants would prefer to first add a dependent and secondly add the dependent’s details.":**<br/>
@@ -139,7 +139,7 @@ The study shows a contrasting approach between how participants wanted to add/up
  
  > Sees it similar to older veteran- filling out form add or remove the list of names and checkmark the people and list of options why you want to remove them
    
-The different approaches disconnect did cause confusion between the participants and the form but, clearer instructions and verbiage could bridge the gap. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, the participants did like that they could enter multiple applications at once because it saved them time and effort.
+The different approaches cause confusion, but clearer instructions and verbiage could help. The participants chose to omit information because they worried inaccurate information might affect them negatively.  However, they likes that ability to enter multiple applications at once because it saved them time and effort.
 
 **Unclear verbiage:** 
 The lack of clarity in the instructions and tasks was the most substantiated finding. 
@@ -317,7 +317,7 @@ These socioeconomic veterans may also heavily rely on VA services.
 
 - [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1586894114068/61c321a566e2ed2b80f46becc7b8aa5a31c02ec8)
 
-### Pages and applications used
+### Applications Used
 - [686 staging](https://staging.va.gov/view-change-dependents/add-remove-form-686c/introduction)
 - [Form feild examples](https://docs.google.com/document/d/1fAZMQryu05rDhsFCPcig7cDMlOYznSldMfir3dG_bGI/edit)
 - [Test users](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv)
