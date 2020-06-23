@@ -57,14 +57,14 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 
 ## Key Findings
 
-1. When presented with ‘Facility Closed’ participants believed that no services would be available to them.
-2. Zero participants classified a facility as ‘Facility Closed’ if virtual/telehealth services were available.
-3. 5 out of 8 participants classified a facility as ‘Limited Services’ if virtual/telehealth services were available.
-4. ‘Facility Notice’ was generally understood as information that a user might need to know about a facility but interpretations varied widely from mask-wearing requirements to permanent closure.
-5. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.
-6. Veterans want to know from the website what services will be available to them.
-7. Participants expected getting contacted by phone, text or email if something about their appointment changed. Unprompted, they would not think to go to the website to assume something might have changed. 
-8. Participants trust information on the website more when they see a recent date associated with the update.
+1.  When presented with ‘Facility Closed’ participants believed that no services would be available to them.
+2.  Zero participants classified a facility as ‘Facility Closed’ if virtual/telehealth services were available.
+3.  5 out of 8 participants classified a facility as ‘Limited Services’ if virtual/telehealth services were available.
+4.  ‘Facility Notice’ was generally understood as information that a user might need to know about a facility but interpretations varied widely from mask-wearing requirements to permanent closure.
+5.  Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.
+6.  Veterans want to know from the website what services will be available to them.
+7.  Participants expected getting contacted by phone, text or email if something about their appointment changed. Unprompted, they would not think to go to the website to assume something might have changed. 
+8.  Participants trust information on the website more when they see a recent date associated with the update.
 
 
 ## Details of Findings
