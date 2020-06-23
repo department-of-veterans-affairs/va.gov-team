@@ -18,4 +18,4 @@
 
 ## Content and Design
 - [Product Guide](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10220) !!
-- Continue preparing for user research study
+- Continue preparing for user research study (needs ticket)
