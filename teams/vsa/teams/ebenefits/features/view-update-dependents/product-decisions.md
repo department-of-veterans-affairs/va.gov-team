@@ -5,7 +5,7 @@ This is to help guide and memorialize decisions made about different funcitonali
 ---
 ## File Uploads  
 `Meeting on 6/23/2020`  
-**Description: need to establish to sides of the issue - FR and BE.  FE is looking for an endpoint to submit to in order to include the file in the payload submission as well as another to pick it up and send to eFolder via VBMS.  **  
+**Description: need to establish to sides of the issue - FR and BE.  FE is looking for an endpoint to submit to in order to include the file in the payload submission as well as another to pick it up and send to eFolder via VBMS.**  
   
 _Action Items_
 - Ask in platform: 
