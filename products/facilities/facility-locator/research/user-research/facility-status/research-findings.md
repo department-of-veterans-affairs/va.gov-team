@@ -111,7 +111,10 @@ Long Term / Heavier Lift
 
 ## Next Steps
 
-# Update statuses in search results
+**Present findings to the Facilities team**
+Share out insights with team. Get input and insights on recommendations.
+
+**Update statuses in search results**
 - Implement design recommendations
 
 
