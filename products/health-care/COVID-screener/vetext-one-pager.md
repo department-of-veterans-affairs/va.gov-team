@@ -23,7 +23,7 @@ Facility staff use the VEText portal to track patient appointment status. Clear,
 **Pre-registration by phone**
 Facility staff may opt to call the Veteran to get their updated demographic and insurance information while they wait outside.
 
-[pg. 2]
+[optional PR blurb for PR version]
 
 # Veterans Health Administration (VHA) + VA Office of the Chief Technology Officer (CTO)
 
