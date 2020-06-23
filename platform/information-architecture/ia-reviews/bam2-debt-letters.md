@@ -48,6 +48,12 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 
 ### Background & Meeting Notes
 
+**Content/IA synch - 6/23/2020**
+- need to go through FAQs to determine what should be part of static content page and what should be part of tool. Do we move FAQs over at all or do we continue to link to legacy page?
+- Are there entry points needed from existing content to tool, or does the tool lead to the other content for how to pay?
+- Danielle to convert intake ticket to an epic, next step will be content strategy work to define how much content do we need to work with, then we can refine IA/flow as necessary
+- team is hoping to do usability testing in early July
+
 **Kick-off - 3/17/2020**
 - This is an MVP effort based on the Veterans Fair Debt Notice Act passed in 2018
 - VEO engaged DEPO
