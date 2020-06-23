@@ -16,9 +16,11 @@ Liz Lantz, Public Websites, June 2020
 
    The Learning Center MVP is designed to support the following goals:
 
-   1. Help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  
-   2. Increase self-service for Veterans, and those who support them, when they have questions about benefits or need to troubleshoot VA account problems.
-   3. Reduce calls to the call center and the need for in-person visits to VA locations to answer questions about benefits or to troubleshoot VA account problems.
+   - Help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  
+
+   - Increase self-service for Veterans, and those who support them, when they have questions about benefits or need to troubleshoot VA account problems.
+
+   - Reduce calls to the call center and the need for in-person visits to VA locations to answer questions about benefits or to troubleshoot VA account problems.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
