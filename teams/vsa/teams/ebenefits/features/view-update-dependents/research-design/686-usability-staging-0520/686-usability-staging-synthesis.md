@@ -149,7 +149,7 @@ The lack of clarity in the instructions and tasks was the most substantiated fin
   - Submission of incomplete form
   - Soliciting clarification from a VA representatie
 
-Participants' list of additional comments included: 
+- Participants' list of additional comments included: 
   - Inconsistency in language, 
   - Confuisng: 
      - Titles to steps
@@ -161,7 +161,7 @@ Participants' list of additional comments included:
   - Uploading Document's instructions for stepchild were not clear
   - Defining marriage courthouse and church marraiges as ceremonial
  
-  - The lack of understanding resulted in:
+**Exmples of Unclear Verbiage**
   - Incomplete steps
       > Personally I would ignore it and go to the next one. 
       
