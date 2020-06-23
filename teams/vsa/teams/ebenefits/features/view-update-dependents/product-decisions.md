@@ -8,9 +8,9 @@
   
 _Action Items_
 - Ask in platform: 
-  - It looks like there is an endpoint that is general, but perhaps it should be form specific?
+  - It looks like there is a general endpoint (ClaimDocuments?), but perhaps it should be form specific?
   - There are two process here, attachements are sent to the eFolder via VBMS, and sent to a vnpTable for submission
-- How can we test locally?
+  - How can we test locally?
 - Ask Lihan perhaps?
 - Do we need to make a form specific integration to get the attachment moving?
 
