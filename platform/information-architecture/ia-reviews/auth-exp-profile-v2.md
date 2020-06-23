@@ -1,14 +1,14 @@
 # IA Review and Recommendations
 
+**STATUS: IN PROGRESS**
+
 **Team:** VSA - Authenticated Experience
 
 **Product/Featue:** Profile 2.0
 
-**Background/Context:**
+**Background/Context:** Consolidation of the existing Account and Profile pages into 1 profile page and corresponding redesign. 
 
-**Review Date:** 
-
-**IA Review Issue:** 
+**IA Request:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9670
 
 <hr>
 
@@ -42,8 +42,8 @@ Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profi
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | Header | REMOVE LINK | --- | Remove the option from the drop list under the user's name. This URL needs to be redirected to the new profile page.  Redirect information is below
-Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, he should be sent directly to the direct deposit page within profile. 
+Must | Header | REMOVE LINK | Remove the "Account" option from the drop list under the user's name.
+Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, they should be sent directly to the direct deposit page within profile. 
 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
@@ -53,12 +53,10 @@ Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) |
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-Current URL | Redirect to new URL 
----| ---
-https://www.va.gov/account/ | www.va.gov/profile
+**Will redirects be needed?**  YES 
+- The existing Account URL should be redirected to the new Profile URL to ensure no users receive a 404 if they attempt to directly access the old Account page. 
+- Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 
-
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 
