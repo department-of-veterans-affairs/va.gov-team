@@ -144,6 +144,24 @@ The different approaches disconnect did cause confusion between the participants
 **Unclear verbiage:** 
 The lack of clarity in the instructions and tasks was the most substantiated finding. 
 - The lack of understanding resulted in:
+  - Incomplete steps  
+  - Unreported dependents
+  - Submission of incomplete form
+  - Soliciting clarification from a VA representatie
+
+Participants' list of additional comments included: 
+  - Inconsistency in language, 
+  - Confuisng: 
+     - Titles to steps
+     - Language for the checkboxes
+     - Instructions
+  - A lack of comprehensive instructions
+  - How to select multiple children
+  - The Review page's accordions labels were confusing
+  - Uploading Document's instructions for stepchild were not clear
+  - Defining marriage courthouse and church marraiges as ceremonial
+ 
+  - The lack of understanding resulted in:
   - Incomplete steps
       > Personally I would ignore it and go to the next one. 
       
@@ -157,11 +175,6 @@ The lack of clarity in the instructions and tasks was the most substantiated fin
       
   - Soliciting clarification from a VA representatie
       > If not online, I may go in and asking a person directly.
-
-Participants' list of additional comments included: 
-  - Inconsistency in language, 
-  - Confusing language for the checkboxes
-  - A lack of comprehensive instructions
  
 "Add" and "Claim" are examples of the inconsistent verbiage.  Using one term consistently would reduce the user's confusion.
    > It is confusing when you change terms. 
@@ -187,8 +200,8 @@ Participants were unclear on what to select when adding multiple children.
    > Should reflect any child on the household. 
   
 For step "Information needed to add a student 18 to 23 years old" the instructions did not resonate with participants, unsuccessfully alerted the applicants, and may result in issues when submitting the form.  To rectify the problem, the applicant will have traverse the form.  Two participant was not sure if they needed to restart the form. 
-  > Confusing! Kind of redundant they are over 18, but they are saying to collect under 18.    If they are over 18, they have to click under 18 also? You should not have to click to separate things. They should just have one. Dept 18-21 going to school.
 
+  > Confusing! Kind of redundant they are over 18, but they are saying to collect under 18.    If they are over 18, they have to click under 18 also? You should not have to click to separate things. They should just have one. Dept 18-21 going to school.
 
 Note: ...... If you never received benefits for this child, be sure you selected the "Claim benefits for your child" checkbox at the beginning of this form. image
 
