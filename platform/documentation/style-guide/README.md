@@ -31,7 +31,7 @@ The style guide is not a complete content governance model. It’s just one comp
 
 ## Supplementary resources
 
-The VA.gov content style guide is our foundation for general guidance on plain language and writing for the web best practices for Veteran-facing content. We follow the VA.gov content recommendations wherever our audience needs overlaps with the needs of Veterans.
+The [VA.gov content style guide](https://design.va.gov/content-style-guide/) is our foundation for general guidance on plain language and writing for the web best practices for Veteran-facing content. We follow the VA.gov content recommendations wherever our audience needs overlaps with the needs of Veterans.
 
 For topics not covered in this style guide, refer to:
 
@@ -54,3 +54,4 @@ Let us know in the #vsp-content-ia Slack channel.
 
 
 Note: We relied heavily on the Google Developer Documentation Style Guide when creating our style guide according to the terms described in the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
+
