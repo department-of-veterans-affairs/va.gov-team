@@ -65,6 +65,14 @@ __VA forms stakeholder working group includes:__
 
 # Status and decisions:
 
+## 06/22/20
+
+Redirect of the forms search pages set for Thursday 6/25 implementation. Stakeholders notified. Per Kevin Reid, the Viewer page is not "owned" by the forms managers, so we will exclude that page from the redirects. 
+
+[See ticket 5163 for reference](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/5163)
+
+
+
 ## 6/18/20 
 
 Historical - referencing for easy findability: 
