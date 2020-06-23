@@ -2,6 +2,21 @@
 **VSA eBenefits Team | May 2020**
 
 ---
+## File Uploads  
+`Meeting on 6/23/2020`  
+**Description: need to establish to sides of the issue - FR and BE.  FE is looking for an endpoint to submit to in order to include the file in the payload submission as well as another to pick it up and send to eFolder via VBMS.  **  
+  
+_Action Items_
+- Ask in platform: 
+  - It looks like there is an endpoint that is general, but perhaps it should be form specific?
+  - There are two process here, attachements are sent to the eFolder via VBMS, and sent to a vnpTable for submission
+- How can we test locally?
+- Ask Lihan perhaps?
+- Do we need to make a form specific integration to get the attachment moving?
+
+**TL;DR - At this point we need to find more information about how files are handled.**
+
+------------
 
 This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.
 ## VA File Number  
@@ -63,17 +78,6 @@ Spouse Marriage History - three radio buttons for reason marriage ended: Divorce
   
 ------------
 
-## Issue Title  
-`Date decided`  
-**Description.**  
-  
-_Note/ Guiding principle_
-- Action item
-
-**TL;DR - what does this mean?  what do we do next?**
-
-------------
-
 ## Differences and issues with online and paper forms
 [Link to VA Form 21-686c](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
 | VA.gov Workflow | Digital Form | Paper Form | Issue | Resolution | Date |
@@ -87,3 +91,15 @@ _Note/ Guiding principle_
 | Report Death | Dependent relationship radio buttons | 22A. DEPENDENT TYPE | No option in BGS ( we get errors for using anything other than (spouse, child, guardian) | Unresolved | - |
 | Report Child Marriage | Marriage end date selector | 23B. DATE OF MARRIAGE  | No place for: `date_marriage_ended` Should we use `end_dt` in `vnp_ptcpnt_rlnshp_create`? | Unresolved | - |
 | 674 | Course of study or educational program text field | 8B. NAME OR TYPE OF COURSE OF EDUCATION OR TRAINING | In the `school_information` what do we do with `training_program`? There’s `course_of_study` but that is taken in the `program_information` | Unresolved | - |
+
+
+## Issue Title  
+`Date decided`  
+**Description.**  
+  
+_Note/ Guiding principle_
+- Action item
+
+**TL;DR - what does this mean?  what do we do next?**
+
+------------
