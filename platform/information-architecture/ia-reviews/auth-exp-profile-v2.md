@@ -42,7 +42,8 @@ Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profi
 
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
-Must | Header | REMOVE LINK | Remove the "Account" option from the drop list under the user's name.
+Must | Header | www.va.gov/profile  | Keep existing link
+Must | Header | Account - REMOVE LINK | Remove the "Account" option from the drop list under the user's name.
 Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, they should be sent directly to the direct deposit page within profile. 
 
 
