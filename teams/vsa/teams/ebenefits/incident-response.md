@@ -6,12 +6,12 @@ In the event of an incident, this document should serve as a useful guide for wh
 - Note that the members to contact may rotate over time.
 ```
 ## Roles and Responsibilities
-| [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  | [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  |
+| [#vsa-ebenefits](https://dsva.slack.com/archives/CLY6Q69RV)  | [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  |
 |---|---|
-| Steve Kovacs, DEPO Lead
-Jason Wolf, Product Manager
-Kathleen Crawford, Backend Engineer
-Derek Dyer, Backend Engineer  |   |
+| Steve Kovacs, DEPO Lead (@ stevek)  |  |
+Jason Wolf, Product Manager (@ jason)  |  |
+Kathleen Crawford, Backend Engineer (@ Kathleen Crawford)  |  |
+Derek Dyer, Backend Engineer (@ Derek Dyer) |   |
 
 ## Services by Feature
 ### BGS
