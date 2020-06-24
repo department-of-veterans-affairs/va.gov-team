@@ -26,6 +26,11 @@
   - Bet: Create an easier way to refresh the token that connects VA.gov and CARMA to ensure reliable connectivity
   - Bet: Frontend code refactor
   - Bet: Backend code refactor
+  
+  ## Stretch Goals
+  - Update application processing flow to limit the amount of time the user spends waiting for a confirmation
+  - Allow user to print a copy of the submitted information
+  - Allow user to print a pre-filled PDF if the submission did not go through
 
 
 
