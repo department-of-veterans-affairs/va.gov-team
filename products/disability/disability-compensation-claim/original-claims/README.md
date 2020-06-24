@@ -64,14 +64,23 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 
 ## OKRs and KPIs
 ### KPIs
-- Traffic to VA.gov 526 experience
+- Traffic to VA.gov 526 experience (vanity metric until/unless you're able to convert it to a ratio that's useful)
+
+- Time to submission (input KPI)
+  - Using save-in-progress timestamps to calculate delta
+- Number of Original Claim submissions in past 30 days(input KPI)
+
+- Number of Original Claims submitted last month that took less than a day to submit (North Star?)
+
 
 #### Baseline KPIs
-- TBD
+- TBD based on what's available from eBenefits
 
 ### Key Results (KRs) 
 1. We will see an increase in traffic to our 526 forms of 10% (based on traffic in eBenefits)
 2. After 6 months, we will see another 5% increase as the ease of use for VA.gov will get more veterans to use VA.gov.
+
+**KRs need to be revised based on new KPIs ^**
 
 --- 
 
@@ -82,6 +91,8 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 ## Launch Dates
 - *What is your target launch date of your MVP/iteration?*
   - May 15, 2020
+- *What is your actual launch date?*
+  - June 22, 2020
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
