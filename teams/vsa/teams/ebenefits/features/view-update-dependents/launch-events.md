@@ -85,12 +85,12 @@ _June 17 - June 30_
 - BE/FE: v1 code complete
 
 ## Sprint 25
-_June 17 - June 30_ 
+_July 1 - July 14_ 
 - BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
 
 
 ## Sprint 26
-_July 1 - July 14_ 
+_July 15 - July 28_ 
 - BE: Implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
@@ -105,7 +105,7 @@ _July 1 - July 14_
 - Code hardening/bug fixes
 
 ## Sprint 27
-_July 15 - July 28_ 
+_July 29 - Aug_ 
 - Deprecate feature
 - Optimization/ongoing bug fixes
 - [Post Launch Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#post-launch-check-in) 🌀  
