@@ -27,11 +27,11 @@
 
 ### Wednesday, June 24
 
-- [P9 - ABC⋅10:00 – 11:00am](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p10.md)
+- [P9 - ABC⋅10:00 – 11:00am] NO SHOW
 
-- [P10 - ABC⋅11:15am – 12:15pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p11.md)
+- [P10 - ABC⋅11:15am – 12:15pm] CANCELED
 
-- [P11 - ABC⋅12:30 – 1:30pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p12.md)
+- [P11 - ABC⋅12:30 – 1:30pm] CANCELED
 
 - [P12 - ABC⋅1:45 – 2:45pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p13.md)
 
