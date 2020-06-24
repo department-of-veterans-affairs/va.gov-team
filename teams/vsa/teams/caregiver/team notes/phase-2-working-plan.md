@@ -1,4 +1,5 @@
-# 10-10CG Phase 2 Release Plan
+# 10-10CG Phase 2 Working Plan - in progress
+
 
 ## Hypotheses/Bets
 - **Meet best practices with regard to privacy, security, accessibility, usablity, and other VA.gov standards so that we can be confident in our users' success during launch**
