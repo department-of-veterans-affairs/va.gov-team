@@ -9,12 +9,12 @@ This is a work in progress, don't take it for "official" guidance yet.
 
 ## Integration tests
 - Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
-- Integration tests should strive to mock as little as possible
-   - Mocking fetch calls should be the primary mocking
-   - Mock fetch calls in a way that catches poorly constructed urls, i.e. by setting data based on the url
-   - Mocking browser globals is ok
-   - Mocking some global Redux state is ok, but mostly avoid it if possible
-- Tests should rely as little as possible on React/DOM details, and instead check for text content, roles, or test ids
+- Good integration tests should
+   - Render a high-level a component (like a component covering a whole page or tab)
+   - Verify that the component is working by checking for things a user would see, like text or DOM elements with specific roles, rather than class names
+   - Mock fetch calls, global user/site Redux state, and previous user input
+   - Mock fetch calls in a way that ties the mock data to specific urls, so that tests fail if the urls are constructed incorrectly
+   - Avoid mocking VAOS specific Redux state or props; let as much of our code run in the test as possible
 - Integration tests should be our primary source of tests
 - We should still leave tests that incorporate React Router to the browser tests, but we should verify in these tests that we are pushing the correct urls to the router when necessary
 - React Testing Library is the easiest way to write tests that meet the guidelines above, but Enzyme is still usable.
