@@ -95,7 +95,9 @@ and
 > “I would attempt to click on it and see what services they mean, by what’s limited and hours as well.”
 
 **7. Participants expected getting contacted by phone, text or email if something about their appointment changed,** especially when the change was within a day or two of their appointment, 
-> “because if you drive two hours to a VA and there is a chemical spill and they are only taking emergencies, but you have an appointment, that’s a long distance to drive only to find out that your appointment has been canceled.” **Unprompted, users would not think to go to the website to assume something might have changed.** One participant said, 
+> “because if you drive two hours to a VA and there is a chemical spill and they are only taking emergencies, but you have an appointment, that’s a long distance to drive only to find out that your appointment has been canceled.” 
+
+**Unprompted, users would not think to go to the website to assume something might have changed.** One participant said, 
 
 > “I don't like the fact that when it's something that impacts the facility, it's on the Veteran to reschedule.”
 
