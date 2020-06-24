@@ -157,7 +157,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 - Specify which services are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Use red instead of pink to communicate the severity of ‘Facility Closed’
-- Communicate changes in appointments and visiting requirements via phone, text or email.
+- Communicate changes in appointments and visiting requirements to Veterans via phone, text or email.
 
 
 ## Next Steps
