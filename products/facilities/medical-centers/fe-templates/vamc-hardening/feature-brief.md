@@ -73,15 +73,24 @@ This initial phase will focus on pages characterized by "Joint Editorial Ownersh
   - Other standardized largely nation content pages, such as 
     o  Policies
     o  DAV Vans: Mostly regional content
+    
   - Pages for required VA programmatic services, such as 
     o  Caregiver support
+    
     o  Homeless Veteran care
+    
     o  LGBT Veteran care
+    
     o  Mental health care
+    
     o  Minority Veteran care
+    
     o  Patient advocates
+    
     o  Returning service member care
+    
     o  Suicide prevention
+    
     o  Women Veteran care
 
 ## Measuring Success
