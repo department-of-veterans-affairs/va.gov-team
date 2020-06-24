@@ -123,7 +123,6 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 - Some participants expressed bypassing the facility locator altogether, using Google to get to the facility's website directly. 
 - Most participants had used the facility locator tool but only on a couple of occasions explaining that they only used it initially to find their VA location or when travelling or moving. 
-- Some participants thought that weather related information should have its own category.
 - Some participants felt strongly that the pink status design and placement of 'Facility Closed' was too subtle to communicate its intended severity.
 
 ## Recommendations
