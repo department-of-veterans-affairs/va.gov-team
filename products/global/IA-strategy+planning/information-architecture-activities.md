@@ -42,7 +42,7 @@ Working with the #ia-forum to prioritize IA projects:**
 * **Potential projects:** See the [latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) for projects that involve IA. (Download it for easier reading.)
 * **Slack:** Members, please post ideas, input, and examples to the **#ia-forum** channel!
 * **Meetings:** 
-  * June 17 we gave a [presentation on IA planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-at-VA-v2.pptx) in the biweekly VA.gov platform review for DEPO/CTO staff. 
+  * June 17 we gave a [presentation on IA planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-at-VA-6-17-2020.pptx) in the biweekly VA.gov platform review for DEPO/CTO staff. 
   * June 24 at 12:30pm we'll discuss our plan for IA work and get your feedback. If there's time, we'll walk through the [IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf). 
 <br></br>
 ### Soon we’ll define the IA role, responsibilities, and the best ways to work across teams.
