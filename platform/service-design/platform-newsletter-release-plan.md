@@ -55,12 +55,13 @@
 
 #### **Email**
 
-- [ ] Create a landing page to sign up for the newsletter and share URL in Slack channels and TOTs.
 - [ ] Import email addresses from VFS team roster Google sheet into Mailchimp.
+- [ ] Set “From” email address and subject line
 
 #### **Slack**
 
 - [ ] Setup new channel: #platform-newsletter. 
+- [ ] Draft and review Slack communication to announce release of newsletter.
 
 #### **Documentation Homepage**
 
@@ -69,7 +70,6 @@
 
 #### Analytics
 
-- [ ] Implement Google Tag Manager
 - [ ] Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### **1-week results:**
