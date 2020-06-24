@@ -91,20 +91,26 @@ and
 
 **6. Veterans want to know from the website what services will be available to them and they expect it to be accurate.** Participants were given a scenario of planning a visit to a facility in the area where they would be travelling. When asked what information they would need, participants mentioned proximity, hours and services. 
 > “Proximity to me and hours open. And I guess also the service I was looking for was important. One of the facilities that I reached out to didn’t have the services that the website was saying. At least, what I was interpreting the services the website to be saying. They said, that they didn’t have the service the website was saying that they had.” Upon seeing a listing with “Limited Hours and Services” another participant mentioned, 
+
 > “I would attempt to click on it and see what services they mean, by what’s limited and hours as well.”
 
 **7. Participants expected getting contacted by phone, text or email if something about their appointment changed,** especially when the change was within a day or two of their appointment, 
 > “because if you drive two hours to a VA and there is a chemical spill and they are only taking emergencies, but you have an appointment, that’s a long distance to drive only to find out that your appointment has been canceled.” **Unprompted, users would not think to go to the website to assume something might have changed.** One participant said, 
+
 > “I don't like the fact that when it's something that impacts the facility, it's on the Veteran to reschedule.”
 
 **8. Participants trust information on the website more when they see a recent date associated with the update.** When information is of a temporary nature, specifying a time range for which the change would be in effect, was suggested. When there are changes to normal operating conditions, users like seeing an explicit date of when the website was last updated/reviewed. 
 > "Oh, it hasn't been updated in a year so it might not be as accurate vs. being updated yesterday so it should be accurate." 
+
 Even when a date was present but was missing the year, it was still mistrusted, 
+
 > "Missing the year would make me wonder if this is an old notice. If you see it in that manner I do not know if this is new or old, not having the year associated would make me question it."
 
 **9. Participants don't want to 'dig' or 'click too many times' for important information.** While most participants expected to be able to click into each listing to get more information about each status, users did not want information "buried" in many clicks and expected accurate hours and services information surfaced at the search results screen. Participants made suggestions like, 'hover over icon for more information', 'add a bullet', and 'add a drop down' to get specific explanations about each status.
 > I would think I would have to click on the blue hyperlink to find it due to it not being noted or call the contact number to find that out. 
+
 > "See it still says here to visit the website to learn more. Why should I have to go anywhere else? Why should I have to click on something else?"
+
 > "bullet with extra information without the person having to go in"
 
 
