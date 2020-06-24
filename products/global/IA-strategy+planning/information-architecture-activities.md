@@ -1,9 +1,7 @@
 # Information architecture activities 
 
 ### The problem we're trying to solve:
-The VA.gov team has not had the resources to focus on how things are organized **across the whole veteran experience.** Information architecture (IA), content, and design need to work together on **everything.** 
-
-Any interaction a veteran has with the VA should be seamless.
+The VA.gov team has not had the resources to focus on how things are organized **across the whole veteran experience.** Any interaction a veteran has with the VA should be seamless. To get there, information architecture (IA), content, and design need to work together on **everything.**
 <br></br>
 ### Who's involved?
 For IA strategy and planning, the information architects work with DEPO leads, product owners, content strategists, and designers. **The information architects are:**
