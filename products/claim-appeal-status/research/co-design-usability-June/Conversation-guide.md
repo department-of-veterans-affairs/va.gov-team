@@ -87,19 +87,19 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
 
 -   Did you use this tool on VA.gov to check the claim?
 
--   Moderator share screen and shows the first page of the claims status tool
+Moderator share screen and shows the first page of the claims status tool
 
--   If Yes,  
+If Yes,  
 
 -   What were you doing the last time you came to this tool?
 
 -   Did you accomplish what you came to do? 
 
--   If not - why?
+If not - why?
 
 -   Overall, how was the experience using this tool?
 
--   If No,
+If No,
 
 -   The intent of this tool is to provide a place for Veterans to check what's going on with a claim they have currently in process. I'm going to stop sharing my screen now and move on to an activity where we will have you design your ideal tool for this purpose.
 
