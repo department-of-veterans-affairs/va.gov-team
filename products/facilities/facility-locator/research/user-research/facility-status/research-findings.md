@@ -68,7 +68,7 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 
 ## Details of Findings
 
-**1. When presented with ‘Facility Closed’ all participants believed that services would be completely unavailable to them.** When seeing a status of a 'Facility Closed' on search results locations, participants interpretted the status to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed. When asked about their next step in their search, some users expressed bypassing the 'closed' facility altogether to seek out an open facility as they assumed all services would be completely unavailable.
+**1. When presented with ‘Facility Closed’ all participants believed that services would be completely unavailable to them.** When seeing a status of a 'Facility Closed' on search results locations, participants interpreted the status to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed. When asked about their next step in their search, some users expressed bypassing the 'closed' facility altogether to seek out an open facility as they assumed all services would be completely unavailable.
 
 > "Because the first facility was closed, I would call the next one to see if it was open."
 
