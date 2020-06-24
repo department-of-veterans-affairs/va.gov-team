@@ -85,9 +85,11 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
 
 -   Do you have someone assisting you in the claim process?
 
--   Did you use this tool on VA.gov to check the claim?
+Kevin will now share his screen with you, and show you a tool to check the status of a claim, that we call the Claim status tool.
 
-Moderator share screen and shows the first page of the claims status tool
+KEVIN SHARE SCREEN
+
+-   Did you use this tool on VA.gov to check the claim?
 
 If Yes,  
 
@@ -101,11 +103,14 @@ If not - why?
 
 If No,
 
--   The intent of this tool is to provide a place for Veterans to check what's going on with a claim they have currently in process. I'm going to stop sharing my screen now and move on to an activity where we will have you design your ideal tool for this purpose.
+-   The intent of this tool is to provide a place for Veterans to check what's going on with a claim they have currently in process. 
+
+We will now move on to an activity where we will have you design your ideal tool for this purpose.
 
 (Note to the moderator, this should move on after participant glances at the tool for 1 minute or so, we don't want to bias them by having them explore it in detail.)
 
--   Great! Thanks for sharing that with me. Now, let's get started with the collaborative activity. I'm going to share my screen now.
+-   Great! Thanks for sharing that with me. Now, let's get started with the collaborative activity. 
+
 
 Collaborative design activity: 
 -------------------------------
@@ -115,19 +120,20 @@ Task 1: Create and Review Items - 15 minutes
 
 Begin screen sharing
 
--   Can you see my screen? Good. This is a tool called Mural, and we'll use this to sketch a new claim status tool based on your comments. Imagine that you will log into this tool, so it can be fully personalized to your needs and wants. For this exercise, let's imagine that anything is possible, allow yourself to think about anything and everything that would be helpful for you in a claim status tool. Feel free to suggest any designs, features, and possibilities here.
+-   Can you see my screen? Good. This is a tool called Mural, and we'll use this to sketch a new claim status tool based on your comments. 
+For this exercise, let's imagine that anything is possible, allow yourself to think about anything and everything that would be helpful for you to have in a claim status tool. Feel free to suggest any designs, features, and possibilities here. 
 
--   I've created sticky notes for us to get started, and a few outlines that represent pages in the tool. Feel free to ask us to create as many sticky notes and pages as you want. 
+-   I've created sticky notes for us to get started, and a few outlines that represent pages in the tool. Feel free to ask us to create as many sticky notes and as many pages as you want. 
 
--   First, we'll use the stickies to create items to put on the page. Then, we'll organize them on a page, in a way that would be the most useful to you. 
+-   First, we'll use the stickies to create items to include in the tool. Then, we'll organize them on a page, in a way that would be the most useful to you. 
 
 -   Let's create stickies now for the items that are most important for you to see when you log in to your personalized claim status tool. (It'll be helpful if you can also talk about why each item is important to you.)
 
--   What would you want to see when you first log in to your claim status tool?
+-   What information (and features and functionalities) would you want to see when you first log in to your claim status tool? 
 
-(If participant hesitates:  Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?  Would stickies around those actions be a good place to start?)
+(If participant hesitates: Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?  Would stickies around those actions be a good place to start?)
 
--   Create sticky notes with each item.
+Create sticky notes with each item.
 
 -   Can you share details on why that's important to you?
 
@@ -135,13 +141,27 @@ Begin screen sharing
 
 Help participants make any items that are too broad more specific.
 
+-   What do you want to see in a claim status tool?
+
+-   What do you want to be able to do in a claim status tool?
+
+-   What info, features, functionalities would be most useful to you?
+
+-   How would you use these features? 
+
+-   What specific details are you looking for in a claim status tool.
+
 -   Why are those things the most helpful for you? Please elaborate.
 
-Remind participants to think about the tool as a personalized tool.
+-   more
 
--   Okay, I'd like to show you some other stickies I made ahead of time that I thought might spark some interest for you. It's completely fine if none of these are things you'd care to see when you log in. Just let me know and we can set them aside.
+-   more?
 
--   Take a moment to review them, and think out loud as you do - I would like to know how these resonate with you.
+How would it be different if this tool was personalized for you? 
+
+-   Okay, I'd like to show you some other stickies we made ahead of time. Are any of these interesting to you, and why?
+
+-   Take a moment to review them, and think out loud as you do - how do these resonate with you?
 
 Allow participants to review stickies and encourage them to verbalize their thoughts as they do so.
 
@@ -155,7 +175,7 @@ Allow participants to review stickies and encourage them to verbalize their thou
 
 -   How does the participant respond to "why" each item is important?
 
--   What elaboration did the participant give (if any) on what information they expect to see in a particular item?
+-   What details did the participant give about info they expect to see in an item?
 
 -   How did the pre-populated stickies resonate with the participant?
 
@@ -168,9 +188,11 @@ Task 2: Organize the Items - 15 minutes
 
 Great! Now, we'll move on to our pages.
 
--   Imagine that you have logged into your personalized claim status tool and this is the first page you see. Let's organize the stickies according to how important they are to you.
+-   Imagine that you have logged into your claim status tool and this is the first page you see. 
+    Let's organize the stickies according to how important they are to you.
 
--   Tell me where to put each one, and tell me why you would place it there. If there are stickies that are important to you, but you don't feel like the page is the right place, we can work with them later.
+-   Tell me where to put each one, and tell me why you would place it there. 
+    If there are stickies that are important to you, but you don't feel like this page is right for them, we can work with them later.
 
 Organize stickies with the participant, encouraging them to continue thinking out loud and asking for clarification.
 
