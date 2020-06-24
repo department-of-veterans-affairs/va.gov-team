@@ -147,7 +147,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 **Short Term / Lower Lift**
 
-- Eliminate ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively. [Discuss with team]
+- Eliminate ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively. **[Discuss with team]**
 - Use ‘Limited Hours and Services’ as the status for COVID related operating changes if virtual and telehealth services are available.
 - Reserve ’Facility Closed’ for temporary or permanent facility closures where no services are available to Veterans.
 
