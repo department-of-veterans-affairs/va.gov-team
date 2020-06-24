@@ -70,13 +70,16 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 ## Details of Findings
 
 **1. When presented with ‘Facility Closed’ participants believed that no services would be available to them.** Seeing a status of a 'Facility Closed' on facilities returned within the search results, would cause users to bypass the facility altogether and seek out an open facility as they would assume their service is completely unavailable. 
+> "Because the first facility was closed, I would call the next one to see if it was open."
+
 > "not expecting veterans for any type of treatment, does not have emergency facility, red means stop, not offering anything. Not in operation."
+
 > "assume that they are closed due to covid. Temporarily closed. expect that facility is closed to patients. Some have a call center, would expect if I called the phone number it might get to the call center not the actual facility."
 
 **2. Zero participants classified a facility as ‘Facility Closed’ if any level of services were still available to them..** All participants understood "Facility Closed" to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed. At the end of the study, following the card sort and definition exercises, participants were shown a live location that used ‘Facility Closed’ as a status but were still offering virtual services. This 'mismatch' elicited strong reactions in some participants, 
 > “Facility closed is garbage, that is like nope we're closed, but they are not!” 
 and 
->“See, I don't like that. To me that's a limited service.”
+> “See, I don't like that. To me that's a limited service.”
 
 **3. 5 out of 8 participants classified a facility as ‘Limited Services’ if virtual/telehealth services were available.** When given the following COVID 19 scenario, _"The Evanston clinic has temporarily suspended face-to-face visits. Enrolled Veterans are still able to receive care during this temporary period with telehealth services available for appointments. Visit the website to learn more about hours and services."_ and the option to assign from the three current statuses, 62.5% chose "Limited Services", 37.5% chose "Facility Notice", and 0% chose "Facility Closed".
 
