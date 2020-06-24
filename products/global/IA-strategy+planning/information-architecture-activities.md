@@ -6,7 +6,7 @@ The VA.gov team has not had the resources to focus on how things are organized *
 ### Who's involved?
 For IA strategy and planning, the information architects work with DEPO leads, product owners, content strategists, and designers. **The information architects are:**
 * DEPO: [Meg Peters](https://github.com/mpeterz)
-* Platform: [Mikki Northius](https://github.com/mnorthuis)
+* Platform: [Mikki Northius](https://github.com/mnorthuis), who supports VSP teams with [guidance, best practices, and standards for information architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/information-architecture).  
 <br></br>
 ### What we're doing and planning.
 
