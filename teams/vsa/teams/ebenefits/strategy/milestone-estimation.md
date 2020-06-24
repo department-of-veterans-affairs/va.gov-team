@@ -6,11 +6,11 @@
 | ---- | ------- | ------------------ | ------------------ | ------- |
 | :heavy_check_mark: Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
 | View Dependents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - Feb |
-| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - May |
-| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Apr |
-| View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
-| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jul |
-| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Jun |
+| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Feb - July |
+| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - July |
+| View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
+| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
+| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Jul - Sep |
 | Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
