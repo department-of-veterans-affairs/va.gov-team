@@ -32,7 +32,7 @@ And showing how we can help.
   * What projects need IA help the most?
   * What are other considerations? 
 <br></br>
-### We've also set up space for discussion and sharing about IA.
+### We've kicked off discussion and sharing about IA.
 
 * **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows the (hopefully) full landscape of projects that involve IA. **(Download the roadmap for easier reading.)**
 * **Slack:** Members, please post ideas, input, and examples to **#ia-forum** or **#va-cto-team**!
