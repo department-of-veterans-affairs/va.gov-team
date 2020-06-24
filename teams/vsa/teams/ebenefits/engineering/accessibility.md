@@ -1,4 +1,4 @@
-# The path to scalable accessibility for VA.gov
+# Scalable Accessibility  
 
 The first step to making accessibility scalable across our organization is that we need to get everyone synchronized on accessibility guidelines and best practices. This means going farther than simply creating checklists, we need a comprehensive strategy on how each member of the organization can become accessibility experts, in a matter of speaking. This can all be done asynchronously but a good starting point is:
 
