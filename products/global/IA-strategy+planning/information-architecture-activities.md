@@ -8,7 +8,7 @@ For IA strategy and planning, the information architects work with DEPO leads, p
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 <br></br>
-### What we're doing.
+### What we're doing, planning-wise.
 
 **1) Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
 
