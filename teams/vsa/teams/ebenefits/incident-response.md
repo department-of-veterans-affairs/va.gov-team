@@ -2,8 +2,8 @@
 In the event of an incident, this document should serve as a useful guide for what to do and when. 
 ```diff
 - It should be noted that members of #vsp-platform-support should be contact and consulted 
-in the event of an issue, even if the issue is application specific, for awareness.
-Note that the members to contact may rotate over time.
+- in the event of an issue, even if the issue is application specific, for awareness.
+- Note that the members to contact may rotate over time.
 ```
 ## Roles and Responsibilities
 | [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  | [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  |
