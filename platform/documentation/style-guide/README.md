@@ -21,21 +21,15 @@ Creating and maintaining the style guide is a collaborative effort. It is a reco
 
 The style guide is a living document. As we update it, we won't necessarily update previously published documentation to match. We strive for consistency, but published docs may not always match the style guide. Always refer to the style guide when writing rather than imitating existing docs that may have outdated style elements.
 
-
 ## Style guide non-goals
 
 This is our VSP house style guide, not a comprehensive writing guide. We assume you know the basics of writing and we focus on topics specific to the unique needs of our content. We aren’t trying to compete with or replace other well-known style guides. 
-
-The style guide is not a complete content governance model. It’s just one component of a broader content governance strategy. If you have questions about content ownership and roles, content maintenance, publishing workflows, or content management, reach out to the Content and IA team in the #vsp-content-ia Slack channel.
-
 
 ## Supplementary resources
 
 The [VA.gov content style guide](https://design.va.gov/content-style-guide/) is our foundation for general guidance on plain language and writing for the web best practices for Veteran-facing content. We follow the VA.gov content recommendations wherever our audience needs overlaps with the needs of Veterans.
 
 For topics not covered in this style guide, refer to:
-
-
 
 *   [The Merriam-Webster.com Dictionary](https://www.merriam-webster.com/)
 *   [Google Developer Documentation Style Guide](https://developers.google.com/style)
@@ -46,7 +40,7 @@ For topics not covered in this style guide, refer to:
 
 ## Suggestions or questions about the style guide?
 
-Let us know in the #vsp-content-ia Slack channel.
+Let us know in the [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
 
 
 
