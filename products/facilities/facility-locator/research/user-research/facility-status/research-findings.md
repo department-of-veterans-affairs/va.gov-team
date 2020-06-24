@@ -90,7 +90,9 @@ and
 > “Telehealth lets me know I will talk to someone, and virtual. I guess they are the same. When I see virtual I think being able to use video. I can see them and they can see me. I would think virtual services would be like getting a doctor to see an injury so I do not need to show up to the site. Have a nurse or doctor check out the injury to see if I need an appointment.”
 
 **6. Veterans want to know from the website what services will be available to them and they expect it to be accurate.** Participants were given a scenario of planning a visit to a facility in the area where they would be travelling. When asked what information they would need, participants mentioned proximity, hours and services. 
-> “Proximity to me and hours open. And I guess also the service I was looking for was important. One of the facilities that I reached out to didn’t have the services that the website was saying. At least, what I was interpreting the services the website to be saying. They said, that they didn’t have the service the website was saying that they had.” Upon seeing a listing with “Limited Hours and Services” another participant mentioned, 
+> “Proximity to me and hours open. And I guess also the service I was looking for was important. One of the facilities that I reached out to didn’t have the services that the website was saying. At least, what I was interpreting the services the website to be saying. They said, that they didn’t have the service the website was saying that they had.” 
+
+Upon seeing a listing with “Limited Hours and Services” another participant mentioned, 
 
 > “I would attempt to click on it and see what services they mean, by what’s limited and hours as well.”
 
