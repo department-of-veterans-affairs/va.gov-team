@@ -375,8 +375,4 @@ Use only one type of highlighting at a time (color, bold, indentation). For exam
 
 **Key point:** Minimize the use of italics. Italics can be difficult to read in digital experiences.
 
-You can use italics to highlight text in the following ways:
-- Simple emphasis. Use italics for simple emphasis. For example, "Do not turn off the computer before shutting it down." 
-- Variables. One of the most common uses of italics is for placeholder variables. Users know to substitute the variable with the appropriate item. For example:
-
-`copy OLD_FILE NEW_FILE`
+You can use italics for simple emphasis. For example, "Do *not* turn off the computer before shutting it down." 
