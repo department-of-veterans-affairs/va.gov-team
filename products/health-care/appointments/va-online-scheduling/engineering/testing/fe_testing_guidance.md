@@ -4,8 +4,8 @@ This is a work in progress, don't take it for "official" guidance yet.
 
 ## Browser tests
 
-- Cypress/Nightwatch tests should cover the major paths through the application and fail if a user gets stuck.
-- Avoid hardcoded timeouts when possible
+- Cypress tests should cover the major paths through the application and fail if a user gets stuck.
+- Any routing related logic should be covered in browser tests (i.e. redirects, path logic, etc)
 
 ## Integration tests
 - Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
