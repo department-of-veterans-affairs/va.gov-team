@@ -69,9 +69,7 @@ When you're discussing a file type, use the formal name of the type. (The file t
 
 ## Page titles and headings
 
-**Key point:** Page titles and headings should make the content easy to scan.
-
-When writing documentation, page titles and headings should give a scannable overview of the page content. If you can remove all the content from your page except for the title and headings and the purpose and intent of the document is still clear, that’s a good sign that your content is organized well.
+**Key point:** Page titles should clearly communicate the purpose of the document. Headings should make the content easy to scan.
 
 ### Page titles
 
@@ -83,7 +81,7 @@ Try to keep page titles to 52 characters maximum, with spaces. Use the primary S
 
 ### Headings and subheadings
 
-Headings and subheadings within a document help organize the page into scannable, user-friendly chunks. They should provide clear guideposts and bring people deeper into the content.
+Headings and subheadings within a document should give a scannable overview of the page content. They should provide clear guideposts and bring people deeper into the content. If you can remove all the content from your page except for the title and headings and the purpose and intent of the document is still clear, that’s a good sign that your content is organized well.
 
 - Use headings and subheadings (`<h2>`,`<h2>`, etc.) to provide a natural hierarchy for your content and help SEO.
 - Use words in headings that communicate the main point of the content it describes.
