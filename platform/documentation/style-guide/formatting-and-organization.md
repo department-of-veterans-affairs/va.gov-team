@@ -3,7 +3,7 @@
 - [Dates and times](#dates-and-times)
 - [Figures and other images](#figures-and-other-images)
 - [File names and file types](#file-names-and-file-types)
-- [Headings and titles](#headings-and-titles)
+- [Page titles and headings](#page-titles-and-headings)
 - [Lists](#lists)
 - [Notes, cautions, and warnings](#notes-cautions-and-warnings)
 - [Numbers](#numbers)
@@ -67,13 +67,11 @@ When you're discussing a file type, use the formal name of the type. (The file t
 |  a PNG file     | a PNG file        |
 |  a Bash file    | an .sh file       |
 
-## Headings and titles
+## Page titles and headings
 
-**Key point:** Use sentence case for headings and titles.
+**Key point:** Page titles and headings should make the content easy to scan.
 
-Page and section titles do a lot of heavy lifting. A good rule of thumb is to hide all the text on a page, except the page title, section titles, and subsection titles.
-
-If someone can still figure out what they need to do on that page or what that page is about, it’s a good sign that the page and section titles are working well.
+When writing documentation, page titles and headings should give a scannable overview of the page content. If you can remove all the content from your page except for the title and headings and the purpose and intent of the document is still clear, that’s a good sign that your content is organized well.
 
 ### Page titles
 
@@ -83,23 +81,24 @@ Page titles have a few important functions:
 
 Try to keep page titles to 52 characters maximum, with spaces. Use the primary SEO keyword in the page title. 
 
-### Section titles
+### Headings and subheadings
 
-Section and subsection titles (also sometimes called headers and subheads) help organize the page into scannable, user-friendly chunks. They should provide clear guideposts and bring people deeper into the content.
+Headings and subheadings within a document help organize the page into scannable, user-friendly chunks. They should provide clear guideposts and bring people deeper into the content.
 
-- Structure section titles with H2s and subsections with H3s, and so on. This provides a natural hierarchy for your content, and helps SEO.
-- Try to keep section and subsection titles to 70 characters maximum, with spaces. We allow a little more character count for sections and subsections than page titles. But in general, sections become hard to scan when they’re too long. Eliminate unnecessary details or nuance in section and subsection titles, and address them with more depth in the paragraph copy.
+- Use headings and subheadings (`<h2>`,`<h2>`, etc.) to provide a natural hierarchy for your content and help SEO.
+- Use words in headings that communicate the main point of the content it describes.
+- Keep headings to 70 characters maximum, with spaces. Sections become hard to scan when they’re too long. Eliminate unnecessary details or nuance in headings and address them with more depth in the paragraph copy.
 
 For more information about structuring sections using H2s and H3s, see [How to use headings on your site](https://yoast.com/how-to-use-headings-on-your-site/) on Yoast.com.
 
-### Formatting a heading or title
+### Formatting page titles and headings
 
-- Use sentence case for headings and titles.
+- Use sentence case for titles and headings.
 - Tag headings using heading elements.
 - When using an abbreviation in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
 - Don't use code font even for elements that use code font in paragraph text.
 - Don't use empty headings or headings with no associated content.
-- Use a heading hierarchy with the page title or main content heading as an `<h1>`. Don't skip levels of the heading hierarchy. For example, put an `<h3>` only under an `<h2>`.
+- Use a heading hierarchy with the page title or main content heading as an `<h1>`. Don't skip levels of the heading hierarchy. For example, put an `<h2>` only under an `<h2>`.
 
 | Recommended    | Not recommended   |
 | :------------- | :---------------- |
