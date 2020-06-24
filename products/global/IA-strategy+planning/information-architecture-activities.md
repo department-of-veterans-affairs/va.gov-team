@@ -8,7 +8,7 @@ For IA strategy and planning, the information architects work with DEPO leads, p
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 <br></br>
-### What we're doing, planning-wise.
+### What we're doing and planning.
 
 **1) Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
 
@@ -32,9 +32,9 @@ And showing how we can help.
   * What projects need IA help the most?
   * What are other considerations? 
 <br></br>
-### We're also setting up space for discussion and sharing about IA.
+### We've also set up space for discussion and sharing about IA.
 
-* **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows projects that involve IA. (Download the roadmap for easier reading.)
+* **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows the (hopefully) full landscape of projects that involve IA. (Download the roadmap for easier reading.)
 * **Slack:** Members, please post ideas, input, and examples to **#ia-forum** or **#va-cto-team**!
 * **Meetings and discussions:**  
   * **June 24** we discussed and got feedback on:
