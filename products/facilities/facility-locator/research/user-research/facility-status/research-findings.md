@@ -124,7 +124,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 **Long Term / Heavier Lift**
 
-- Replace ‘Facility Notice’ with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
+- Replace ‘Facility Notice’ with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Holiday Schedule', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
 - Specify which services are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Use red instead of pink to communicate the severity of ‘Facility Closed’
