@@ -105,10 +105,6 @@ Exceptions:
 *   Always capitalize the word “Veterans”
 *   In global navigation, top menu labels, use title case 
 
-| Recommended | Not recommended |
-| :---------- | :----------- |
-| I love kittens, puppies, and bunnies. | I love kittens, puppies and bunnies. |
-
 ## Clause order
 
 **Key point:** Put conditional clauses before instructions, not after.
