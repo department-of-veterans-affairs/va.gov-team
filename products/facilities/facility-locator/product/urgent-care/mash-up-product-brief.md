@@ -4,15 +4,25 @@ This document will focus on the urgent care mash-up iteration for the Facility L
 ## Table of Contents
 
 [User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#user-journey)
+
 [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#user-stories--use-cases)
+
 [Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#project-rationale)
+
 [Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#project-scope-and-scale)
+
 [Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#not-in-scope)
+
 [Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#measuring-success)
+
 [Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#dependencies)
+
 [Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#risk-factors)
+
 [Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#rejected-solutions)
+
 [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#definition-of-done)
+
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#key-links)
 
 ### User Journey
