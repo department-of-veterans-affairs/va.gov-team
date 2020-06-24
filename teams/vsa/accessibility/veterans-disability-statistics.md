@@ -105,3 +105,10 @@ Possible reasons:
 > Source<br/>
 > https://www.youtube.com/playlist?list=PLUHbfbDZQkcy-09p8YH7smazAUu1kWV78 
 
+========================================
+
+In the 1992 movie "Scent of a Woman," Lieutenant Colonel Frank Slade, played by Al Pacino, gives an Academy Award-winning impassioned speech that references his military service and the wounds of war:
+
+> “I have seen boys like these, younger than these, their arms torn out, their legs ripped off. But there isn’t nothin’ like the sight of an amputated spirit; there is no prosthetic for that,” he tells the disciplinary board of an elite New England prep school.
+
+For many service members and veterans, the source of their “amputated spirit” is most often an invisible injury, such as a traumatic brain injury (TBI). [Source](https://thehill.com/opinion/healthcare/480020-president-is-misinformed-about-traumatic-brain-injuries)
