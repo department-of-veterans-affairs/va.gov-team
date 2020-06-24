@@ -90,9 +90,13 @@ If you’re not sure whether to use active voice or passive voice, ask yourself 
 
 **Key point:** Use sentence case for headings.
 
-We use sentence case capitalization for most content, including page titles, headings, subheadings, buttons, and text links, unless a word is a proper noun. Don’t capitalize common words for emphasis or importance.
+We use sentence case capitalization for most content, including page titles, headings, subheadings, buttons, and text links, unless a word is a proper noun. Don’t capitalize common words for emphasis or importance. 
 
-Sentence case capitalizes the first letter of the first word. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions.
+Sentence case capitalizes the first letter of the first word. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case is easer to read and projects a casual, friendly tone.
+
+| Recommended | Not recommended |
+| :---------- | :----------- |
+| Capitalize the first word. This is sentence case. | Capitalize every word. This Is Title Case.|
 
 Exceptions:
 
@@ -101,8 +105,9 @@ Exceptions:
 *   Always capitalize the word “Veterans”
 *   In global navigation, top menu labels, use title case 
 
-Check the word list if you’re not sure whether a term should be capitalized. If still unsure, err on the side of sentence case capitalization.
-
+| Recommended | Not recommended |
+| :---------- | :----------- |
+| I love kittens, puppies, and bunnies. | I love kittens, puppies and bunnies. |
 
 ## Clause order
 
