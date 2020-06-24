@@ -13,7 +13,7 @@ For IA strategy and planning, the information architects work with DEPO leads, p
 **STEP 1: 
 Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
 
-We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
+We'll focus on how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
   * How well can veterans do important tasks?
   * Where do they struggle? 
   * How can we make improvements? 
