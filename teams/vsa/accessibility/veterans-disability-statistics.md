@@ -107,8 +107,18 @@ Possible reasons:
 
 ========================================
 
+## Reasons to believe the statistics are in fact higher than listed above
+
 In the 1992 movie "Scent of a Woman," Lieutenant Colonel Frank Slade, played by Al Pacino, gives an Academy Award-winning impassioned speech that references his military service and the wounds of war:
 
 > “I have seen boys like these, younger than these, their arms torn out, their legs ripped off. But there isn’t nothin’ like the sight of an amputated spirit; there is no prosthetic for that,” he tells the disciplinary board of an elite New England prep school.
 
 For many service members and veterans, the source of their “amputated spirit” is most often an invisible injury, such as a traumatic brain injury (TBI). [Source](https://thehill.com/opinion/healthcare/480020-president-is-misinformed-about-traumatic-brain-injuries)
+
+TBIs are generally considered the signature wound of war. Moreover, in the recent conflicts in Iraq and Afghanistan, improvised explosive devices (IEDs) were often the weapon of choice for the insurgent army, thus causing an increase in the number of TBIs diagnosed from previous wars.
+
+Although moderate and severe traumatic head injuries can be readily identified and treated, mild TBIs and related blast injuries are often initially viewed as inconsequential and therefore overlooked in terms of treatment. 
+
+Although a veteran with a mild TBI may not present with obvious symptoms, a missed diagnosis can lead to severe problems. Even mild TBI is associated with psychological distress, suicidal ideation, suicide attempts, completed suicide, substance abuse, and depression. 
+
+At a time when the rate of suicide among veterans and service members remains alarmingly high despite years of reform, suicide prevention efforts often overlook the role of TBI. As the VA, veterans, and stakeholders continue to prioritize suicide prevention efforts, a more direct emphasis on the diagnosis and treatment of TBI is required.
