@@ -40,7 +40,7 @@ For topics not covered in this style guide, refer to:
 
 ## Suggestions or questions about the style guide?
 
-Let us know in the [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
+Let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
 
 
 
