@@ -1,0 +1,49 @@
+## API's to research for Clinical Information Review
+
+-  **Medications**
+	-   Dose
+	-   Frequency
+	-   Prescribing Physician
+	-   Status:
+		    -   Taking As Prescribed
+		    -   Not Taking
+			-   Taking Not As Prescribed
+	- Comments
+-  **Allergies**
+	-   Reactions- A predefined list of allergies 
+	-   Comments
+- **Health issues/Conditions/Chronic Problems** 
+	-   Onset Date
+	-   Managing Provider
+	-   Comments
+- **Procedures or surgeries**
+	-   Procedure or Surgery
+	-   Approximate Date
+	-   Comments
+- **Family history**
+	- Immediate Family Member With Health Issues
+	-   Health Issues
+	-   Comments
+	-   Deceased Status
+	-   Cause of Death and Age at Time of Death:
+	-   General health questions
+- **Immunizations**
+	-   Immunization Name
+	-   Approximate Date
+	-   Comments
+- **Social History**
+addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.
+	- Substance Use
+		- alcohol
+		- tobacco
+		- illicit drugs
+	- Education
+	- Employment/Occupation
+	- Family and Living Environment
+	- Nutrition/Diet
+	- Exercis
+	- Daily Living 
+		- ie. Firearms in household, save place to stay, transportation, .etc
+	- Sexual behavior
+	- Travel 
+	- Hobbies/Interests
