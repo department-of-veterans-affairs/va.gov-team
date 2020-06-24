@@ -10,10 +10,10 @@ For IA strategy and planning, the information architects work with the **#ia-for
 * DEPO: [Meg Peters](https://github.com/mpeterz)
 * Platform: [Mikki Northius](https://github.com/mnorthuis)
 <br></br>
-### Steps we're taking.
+### What we're doing.
 
 **STEP 1: 
-Evaluating the health of VA.gov’s information architecture.** 
+Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
 
 We'll focus on wayfinding and how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
   * How well can veterans do important tasks?
@@ -28,7 +28,7 @@ We'll focus on wayfinding and how users navigate the site on both mobile and des
   * an expert review of VA.gov.
 
 **STEP 2: 
-Recommending specific IA work based on these regular evaluations ^ of VA.gov.**
+Recommending current and future IA work based on these regular evaluations ^ of VA.gov.**
 And showing how we can help.
 
 **STEP 3: 
