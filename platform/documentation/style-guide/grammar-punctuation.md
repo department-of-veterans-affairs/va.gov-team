@@ -1,6 +1,7 @@
 # Grammar and punctuation
 
 - [Abbreviations and acronyms](#abbreviations-and-acronyms)
+- [Active voice](#active-voice)
 - [Capitalization](#capitalization)
 - [Clause order](#clause-order)
 - [Commas](#commas)
