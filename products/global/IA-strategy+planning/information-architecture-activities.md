@@ -34,7 +34,7 @@ And showing how we can help.
 <br></br>
 ### We've also set up space for discussion and sharing about IA.
 
-* **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows the (hopefully) full landscape of projects that involve IA. (Download the roadmap for easier reading.)
+* **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows the (hopefully) full landscape of projects that involve IA. **(Download the roadmap for easier reading.)**
 * **Slack:** Members, please post ideas, input, and examples to **#ia-forum** or **#va-cto-team**!
 * **Meetings and discussions:**  
   * **June 24** we discussed and got feedback on:
