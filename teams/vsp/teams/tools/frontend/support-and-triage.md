@@ -68,4 +68,4 @@ At the end of the rotation, there will be a short handoff meeting between PM, FE
 
 ### Dependabot upgrades 
 
-As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
+As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot)
