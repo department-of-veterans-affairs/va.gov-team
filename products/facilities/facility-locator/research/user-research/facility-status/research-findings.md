@@ -76,7 +76,7 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 
 > "assume that they are closed due to covid. Temporarily closed. expect that facility is closed to patients. Some have a call center, would expect if I called the phone number it might get to the call center not the actual facility."
 
-**2. Zero participants classified a facility as ‘Facility Closed’ if any level of services were still available to them..** All participants understood "Facility Closed" to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed. At the end of the study, following the card sort and definition exercises, participants were shown a live location that used ‘Facility Closed’ as a status but were still offering virtual services. This 'mismatch' elicited strong reactions in some participants, 
+**2. Zero participants classified a facility as ‘Facility Closed’ if any level of services were still available to them.** All participants understood 'Facility Closed' to mean that the physical building was closed and no services, neither in person nor virtual, would be available to them. Some participants interpreted the status to mean that the facility had been permanently closed. At the end of the study, following the card sort and definition exercises, participants were shown a live location that used ‘Facility Closed’ as a status but were still offering virtual services. This 'mismatch' elicited strong reactions in some participants, 
 > “Facility closed is garbage, that is like nope we're closed, but they are not!” 
 and 
 > “See, I don't like that. To me that's a limited service.”
