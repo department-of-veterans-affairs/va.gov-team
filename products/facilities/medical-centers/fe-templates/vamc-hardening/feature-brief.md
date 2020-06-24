@@ -56,6 +56,7 @@ Out of scope:
 
 This initial phase will focus on pages characterized by "Joint Editorial Ownership". Pages for consideration have significant national content, minimal need for localized edits and potential for resuability.  
   - Facility health services
+  
   - "Top-Task" pages (from the Veteran's point-of-view)
   
     o  Make an appointment: 80% national content
@@ -70,11 +71,14 @@ This initial phase will focus on pages characterized by "Joint Editorial Ownersh
     
     o  Contact us
     
-  - Other standardized largely nation content pages, such as 
+  - Other standardized largely nation content pages, such as
+  
     o  Policies
+    
     o  DAV Vans: Mostly regional content
     
   - Pages for required VA programmatic services, such as 
+  
     o  Caregiver support
     
     o  Homeless Veteran care
