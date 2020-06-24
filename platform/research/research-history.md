@@ -14,6 +14,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2020
 
+#### June 10-15: Facility Locator - Operating Status Study
+*Ad Hoc: VSA Facilities, Leyda Hughes, Aricka Lewis*
+
+- 8 participants
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/facility-status)
+
+
 #### June: Usability testing for Form 21-686c / staging environment
 *eBenefits: Nicolaus Wygonik, Jim Adams*
 
