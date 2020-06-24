@@ -10,8 +10,7 @@ For IA strategy and planning, the information architects work with DEPO leads, p
 <br></br>
 ### What we're doing.
 
-**STEP 1: 
-Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
+**1) Working on a framework to regularly evaluate the health of VA.gov’s information architecture.** 
 
 We'll focus on how users navigate the site on both mobile and desktop, whether they are signed in or not. We'll find out things like:
   * How well can veterans do important tasks?
@@ -25,12 +24,10 @@ We'll focus on how users navigate the site on both mobile and desktop, whether t
   * search metrics; and
   * an expert review of VA.gov.
 
-**STEP 2: 
-Recommending current and future IA work based on these regular evaluations ^ of VA.gov.**
+**2) Recommending current and future IA work based on these regular evaluations ^ of VA.gov.**
 And showing how we can help.
 
-**STEP 3: 
-Working with the #ia-forum to prioritize IA projects:**
+**3) Working with the #ia-forum to prioritize IA projects:**
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 
