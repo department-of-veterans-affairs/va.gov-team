@@ -65,7 +65,7 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 6.  Veterans want to know from the website what services will be available to them.
 7.  Participants expected getting contacted by phone, text or email if something about their appointment changed. Unprompted, they would not think to go to the website to assume something might have changed. 
 8.  Participants trust information on the website more when they see a recent date associated with the update.
-
+9. Participants don't want to 'dig' or 'click too many times' for important information.
 
 ## Details of Findings
 
@@ -102,10 +102,15 @@ and
 Even when a date was present but was missing the year, it was still mistrusted, 
 > "Missing the year would make me wonder if this is an old notice. If you see it in that manner I do not know if this is new or old, not having the year associated would make me question it."
 
+**9. Participants don't want to 'dig' or 'click too many times' for important information.** While most participants expected to be able to click into each listing to get more information about each status, users did not want information "buried" in many clicks and expected accurate hours and services information surfaced at the search results screen. Participants made suggestions like, 'hover over icon for more information', 'add a bullet', and 'add a drop down' to get specific explanations about each status.
+> I would think I would have to click on the blue hyperlink to find it due to it not being noted or call the contact number to find that out. 
+> "See it still says here to visit the website to learn more. Why should I have to go anywhere else? Why should I have to click on something else?"
+> "bullet with extra information without the person having to go in"
+
+
 ## Additional Insights
 
 - Some participants expressed bypassing the facility locator altogether, using Google to get to the facility's website directly. 
-- Most participants wanted to click into the results listing to get more information
 - Most participants had used the facility locator tool but only on a couple of occasions explaining that they only used it initially to find their VA location or when travelling or moving. 
 - Some participants thought that weather related information should have its own category.
 
@@ -113,14 +118,13 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 Short Term / Lower Lift 
 
-- Eliminate ‘Facility Notice’ as a status for use in search results. 
+- Eliminate ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively.
 - Use ‘Limited Hours and Services’ as the status for COVID related operating changes if virtual and telehealth services are available.
-- Reserve ’Facility Closed’ for temporary or permanent facility closures where no services are available.
+- Reserve ’Facility Closed’ for temporary or permanent facility closures where no services are available to Veterans.
 
 Long Term / Heavier Lift
 
-- Use ‘Facility Notice’ on the detail page as a section header that contains information that patients need to know when planning a visit. 
-- Rename ‘Facility Notice’ to something more obvious, less vague or broad.
+- Replace ‘Facility Notice’ with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
 - Specify which services are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Use red instead of pink to communicate the severity of ‘Facility Closed’
