@@ -116,13 +116,13 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 ## Recommendations
 
-Short Term / Lower Lift 
+**Short Term / Lower Lift**
 
 - Eliminate ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively.
 - Use ‘Limited Hours and Services’ as the status for COVID related operating changes if virtual and telehealth services are available.
 - Reserve ’Facility Closed’ for temporary or permanent facility closures where no services are available to Veterans.
 
-Long Term / Heavier Lift
+**Long Term / Heavier Lift**
 
 - Replace ‘Facility Notice’ with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
 - Specify which services are available on detail pages, where available.
