@@ -14,7 +14,7 @@ Screens proofed in staging.VA.gov the week of April 13, 2020. Reference mockups 
 
 ### Throughout
 
-- [ ] Add breadcrumbs
+- [x] Add breadcrumbs
 - [x] Change title to: "Add or remove dependents from your VA benefits"
 - [x] Change subtext to: "Equal to VA Form 21-686c (Application Request to Add And/Or Remove Dependents) and/or
 Equal to VA Form 21-674 (Request for Approval of School Attendance)"
