@@ -27,6 +27,7 @@
   - Bet: Frontend code refactor
   - Bet: Backend code refactor
   
+  
   ## Stretch Goals
   - Update application processing flow to limit the amount of time the user spends waiting for a confirmation
   - Allow user to print a copy of the submitted information (needs grooming)
