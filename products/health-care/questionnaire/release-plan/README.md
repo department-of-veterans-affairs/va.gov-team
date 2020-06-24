@@ -1,2 +1,2 @@
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap.md)
-- [2020 Healthcare Experience Milestones Calender View Mural](https://app.mural.co/invitation/mural/vsa8243/1592937290316?sender=abuckley3102&key=9557c1b0-1c91-472f-94bb-55683b7d7d36)
+- [2020 Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
