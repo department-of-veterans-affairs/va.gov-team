@@ -14,11 +14,11 @@
  the information is already there and I fill it out a day or two ahead,
  then the dr. would have it right there and maybe they wouldn't run
  behind all the time..."
+
 - Workflow consistency and seamless next steps
 	- > “The way I do everything in MyHealtheVet” “much easier that way”
  “That makes it so much easier. Not having to handover IDs ...its contactless which is a blessing at this time” _Kiosk use_
 
-- Appt reminders to not miss an appt.
 - Understand complicated medical terms 
 	- > “allot of big words and phrases that some people might not understand"
 
@@ -39,3 +39,11 @@
 	- > “... the dr. would have it right there….they could see the information and know what to focus on.”
 - **Transitions of Care** - Dr. to Dr. seamless transition of care
 	-  > “So I don’t have to go through it over and over and over again”
+	
+	
+### Incorrect Assumptions
+- Veterans are not being asked to fill out pre-visit or post-visit information.
+	- All is verbial with nurse and repeated to physician.
+	- Typically - only asked Social History ~10 quesiotns.   ie. Pain, Depression, Falls, Substansce Use.
+	- Typically - Nurse/Dr. are not reviewing and confirming past medical hisotory is up to date.
+
