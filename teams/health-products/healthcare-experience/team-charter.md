@@ -7,33 +7,33 @@
 ## Why we're here
 
 ### Executive Summary:
-Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows. 
 
 ### North Star: _Placeholder - still drafting during Discovery Sprint_
 
 - Increase availability of self-service tools
-	- At a minimum, we will make existing tools more widely available in a self-service manner as the current on-premise eScreening applications are completed by Veterans on a VA iPad in the facility and on the VA network.
+	- At a minimum, we will 
     
 - Decrease time to outcomes
     	
-	- Make a pre-appointment tool available for online appointments means less appointment time is taken up by answering standardized questions, potentially reducing appointment times and/or increasing the efficacy of those appointments.
+	- At a minimum, we will 
 
 -   Maximize satisfaction, reliability, availability, & security
     	
-	-   At a minimum, bringing the existing tools into the VA.gov family will make them much more widely available across multiple channels (online via internet; kiosks in facilities).
+	-   At a minimum, we will 
 
 
 ### Product Suite (if applicable): 
-Health Care - Veteran (person/consumer of health) Experience 
+Healthcare Experience - Veteran (person/consumer of health) 
 
 ### Team Mission Statement:
 _Still drafting during Discovery Sprint_
 
 ### Product Portfolio:
-Healthecare - Questionnaires/Intake forms
-
-### Roadmap:
-[Questionnaires 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
+ 1. Healthecare - Questionnaires/Intake forms
+ 	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
+ 2. _coming soon_ 
+ 3. _coming soon_ 
 
 ---
 
@@ -68,22 +68,29 @@ Outline work to be done this sprint in order to accomplish the team's goals
 - Monday before the start of each sprint @10AM cst
 - 1 hour
 
-
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
-
-
-- Following Sprint Planning each sprint 
-- 30 min
-- [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
-- [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
-
 #### Grooming
 Assess and update workload for remainder of sprint
 
 - 2nd Wednesday of every sprint
 - 1 hour
+- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
+
+###### Issue Estimates
+
+1 - Easy task, work is known, can be executed quickly (~1-2 days)
+2 - Small task, work is known and can be completed in half a sprint (~3-5 days)
+3 - Medium task, work is known and can be completed in less than one sprint (~6-8 days)
+5 - Work is discussed and planned for, and can be completed in one sprint sprint (~10 days)
+8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
+13 - Very complex, needs discovery or prototype before it can be pointed
+
+#### Retro
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
+
+- Following Sprint Planning each sprint 
+- 30 min
+- [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
+- [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
 - [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
 
@@ -97,3 +104,4 @@ Assess and update workload for remainder of sprint
 
 #### GitHub
 [products/healthcare/questionnaires/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)
+[Zenhub label - vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
