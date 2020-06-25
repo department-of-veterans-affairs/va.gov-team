@@ -154,4 +154,5 @@ To be filled out by the sprint team.
 -   Links to key documents 
 	- [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
 	- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
+	- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-plan.md)
 	- [Discovery Readout] 
