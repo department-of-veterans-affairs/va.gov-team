@@ -121,20 +121,22 @@ Design
 ### Profile 2.0
 
 PM
-- Call center - Call center video
-- Pre-launch — Analytics review
+- Call center - Finish call center guide
+- Pre-launch — Analytics check-in: do we need a formal review? How are they doing?
 - Pre-launch - Update relevant parts of the product outline/project folder
-- Call center - Request contact center review
 
 Design
+- Build - Review build pre-QA
+- Call center - Finish call center guide
 - Pre-launch - Update relevant parts of the product outline/project folder
 
-Dev (Does testing need to happen after QA?)
+Dev
 - Build - Sub nav updates
+- Build - Review build pre-QA
 - Pre-launch - Update relevant parts of the product outline/project folder
 
 Platform
-- Pre-launch — Analytics review
+- Pre-launch — Analytics review (if necessary)
 
 ### Logged-in homepage
 
@@ -149,13 +151,15 @@ Design
 
 Dev
 - Beta/Opt-in discovery (if time)
+- Other discovery?
 
 ## Sprint 26 (7/15 – 7/28)
 
 ### Profile 2.0
 
 PM
-- Call center - Contact Center Review (VSP cycle)
+- Call center - Call center video
+- Call center - Request contact center review
 
 Dev
 - Testing - Determine what we need re: E2E testing, load testing, unit testing
@@ -183,6 +187,7 @@ Dev
 ### Profile 2.0
 
 PM
+- Call center - Contact Center Review (VSP cycle)
 - Pre-launch - Request staging review
 - Pre-launch - Request privacy and security review
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
