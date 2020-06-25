@@ -3,7 +3,7 @@
 - [Engineering best practices](engineering-best-practices.md)
 - [Eslint](eslint/new-rule-release-notes.md)
 - [Github Security Alerts Log](github-alerts-log.md)
-- [SpeedCurve](speedcurve/user-guide.md)
+- [SpeedCurve](speedcurve/performance-standards.md)
 
 # Request DSVA to review your team's work
 
