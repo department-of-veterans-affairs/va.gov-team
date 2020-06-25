@@ -12,16 +12,25 @@ A new VEText feature allows VA facilities to check patients in remotely while en
 VA designed this tool in partnership with Veterans and medical center leadership, incorporating feedback from user testing to ensure the tool meets Veteran and employee needs.
 
 **Text appointment confirmation and reminder**
-The Veteran receives a text confirmation as soon as they make their appointment. They receive another text reminder 24 hours before their appointment. This text provides instructions on where to park and how to check in.
+The Veteran receives a text confirmation upon making their appointment, plus a reminder 24 hours before their appointment with instructions for parking and checking in.
 
 **Remote check-in**
-The Veteran sends a text when they arrive at the facility. They receive an automated response confirming their appointment time, with a phone number to call if they have questions or need assistance.
+The Veteran sends a text when they arrive at the facility. They receive an automated confirmation with a phone number to call for questions or assistance. 
+
+**Digital pre-entry COVID-19 screening**
+The Veteran receives a link to the VA COVID-19 screening tool. Having Veterans answer screening questions on their phone and share their results at the facility entrance speeds up the required screening process and lowers exposure risk from in-person screening. 
 
 **Remote patient tracking**
-Facility staff use the VEText portal to track patient appointment status. Clear, color-coded statuses make tracking easy. Staff then text the Veteran when it’s time to come in for their appointment.
+Staff use the VEText portal to track patient appointment status. Clear, color-coded statuses make tracking easy. Staff then text the Veteran when it’s time to come in for their appointment.
 
 **Pre-registration by phone**
-Facility staff may opt to call the Veteran to get their updated demographic and insurance information while they wait outside.
+Staff may opt to call the Veteran to get their updated demographic and insurance information while they wait outside.
+
+**Support for Spanish-language messaging**
+The tool offers Spanish-language versions of the texts.
+
+**Support for non-scheduled appointments**
+Staff can use the patient tracking feature for emergencies and walk-ins as well as lab and pharmacy needs.
 
 [optional PR blurb for PR version]
 
@@ -29,7 +38,7 @@ Facility staff may opt to call the Veteran to get their updated demographic and 
 
 ## How we're collaborating across the organization to respond quickly to Veteran and employee needs
 
-This text-based appointment reminder and patient tracking tool is just one example of the value of VA's investment in digital modernization and culture of innovation and collaboration. With this tool as well as our coronavirus chatbot and digital COVID-19 screening tool, we're responding quickly to urgent needs to  protect and support Veterans and VA employees during the coronavirus pandemic.
+This text-based appointment reminder and patient tracking tool is just one example of the value of VA's investment in digital modernization and culture of innovation and collaboration. With this tool as well as our coronavirus chatbot and digital COVID-19 screening tool, we're responding quickly to urgent needs to protect and support Veterans and VA employees during the coronavirus pandemic.
 
 [step-by-step graphic]
 
@@ -45,11 +54,9 @@ Veteran receives a reminder 24 hours before their appointment.
 
 Veteran texts when they arrive and receives remote check-in instructions.
 
-[added text]
 
 We'll continue to closely monitor usage, performance, and feedback, and update content and features to meet evolving needs. For questions or to offer feedback, contact us at [email address].
   
-[how to use]
 
 HOW TO USE THIS TOOL AT YOUR FACILITY
 
