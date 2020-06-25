@@ -6,7 +6,7 @@
 
 ---
 
-Once you have your product's KPIs, fill out the [Github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-product-success-tool.md&title=Analytics+Product+Success+Tool+Request+for+%5BTeam%5D) with your KPIs linked to the template.
+Once you have your product's KPIs, fill out the [Github request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+bsmartin-ep%2C+jonwehausen%2C+amycesal&labels=analytics-insights%2C+analytics-request&template=analytics-request-product-success-tool.md&title=Analytics+Product+Success+Tool+Request+for+%5BTeam%5D) with your KPIs on your Product Outline linked to the template.
 
 In order to ensure that KPIs will be tracked for product decisions, please ensure that your KPIs are **clearly mapped back to veteran goals/outcomes.** 
 
