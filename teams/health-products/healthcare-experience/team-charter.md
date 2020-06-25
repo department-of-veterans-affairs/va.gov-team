@@ -18,8 +18,6 @@ _Placeholder - still drafting team North Star after Discovery Sprint completes_
 ### Product Portfolio:
 Healthecare - Questionnaires/Intake forms
 
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
-
 ### Responsibilities:
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
@@ -34,11 +32,30 @@ The problem: As a Veteran, I’m unable to easily and quickly provide pre and po
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: [Lacy Higley](https://dsva.slack.com/team/U5HMZDQSK)
-- Team Product Manager: [Amanda Buckley](https://dsva.slack.com/archives/D01489U4HGU)
-- Research & Design: [Aricka Lewis](https://dsva.slack.com/archives/D014XE4KRH9)
-- FE Engineer: [Mark Dewey](https://dsva.slack.com/team/U013MC4ULCX)
-- BE Engineer: [Lance Sanchez](https://dsva.slack.com/archives/D0159QWL0UC)
+<img src="https://lh4.googleusercontent.com/a32LE958gVGw7xjR6NwfqVrsgNmyDmqzGMUOxnns58o4gwA46es2sieokxPPzjNXHD8dUa2yCNqnttxsmW_iYnctDWHTCXEt1K3EDUY7ajUUTr9Nuwln1fAToycBCq85w9xH5gMl" width="500">
+
+
+-   Lead DEPO, Product Owner: Lacey Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U5HMZDQSK)
+    
+-   DEPO, Healthcare product design & research (and recruiting): Lauren Alexander [lauren.alexander@va.gov](mailto:lauren.alexander@va.gov) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U772MC9BQ)
+    
+-   DEPO, Healthcare product: Patrick Bateman [patrick.batmean@va.gov](mailto:patrick.batmean@va.gov) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UFN410MGF)
+    
+-   DEPO, Engineering owner: Stephen Barrs [stephen.barrs@va.gov](mailto:stephen.barrs@va.gov) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/ULY2TEZUK)
+    
+-   VSA, Product Lead: Mickin Sahni [mickin@adhocteam.us](mailto:mickin@adhocteam.us) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UM3N189N1)
+    
+-   VSA, Sr. Product Manager: [Amanda Buckley](abuckley@governmentcio.com) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U014RV5S6KS)
+    
+-   VSA, Front End Engineer: [Mark Dewey](mdewey@governmentcio.com) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U013MC4ULCX)
+    
+-   VSA, Back End Engineer: [Lance Sanchez](osanchez@governmentcio.com) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UQ2PHQRPU)
+    
+-   VSA, BE Engineer (Temp) – Still hiring the full-time BE engineer
+    
+-   VSA, Designer/Researcher: Aricka Lewis [aricka@adhocteam.us](mailto:aricka@adhocteam.us) | [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UMECKSJ8K)
+
+
 
 ---
 
@@ -57,7 +74,7 @@ The problem: As a Veteran, I’m unable to easily and quickly provide pre and po
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- Monday before the start of each sprint @ 10AM cst
+- Monday before the start of each sprint @10AM cst
 - 1 hour
 
 
@@ -69,33 +86,18 @@ Review accomplishments from prior sprint, what went well, what can be improved, 
 - 30 min
 - [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
 - [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vsa-5dcabe208aade000013aafba/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
 - 2nd Wednesday of every sprint
 - 1 hour
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vsa-5dcabe208aade000013aafba/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=133843125&showPipelineDescriptions=false)
+- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
-#### Issue Etiquette
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-
-- Estimate
-- Title that explains task
-- Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
-- User Story (if applicable), Goal, and Acceptance Criteria
-- User Testing unless PO/PM/UX agree to post sprint user feedback
-- Design review including mockup/prototype with engineering if the interface is changed to ensure workflow and mockups/prototype are clearly understood.
-- Nested in an Epic
-
-All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
-
-If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Team Norms
-- Team Zoom Happy Hour - Monthly, Thursdays @3-4PM cst.
+- Team Zoom Happy Hour - Monthly, Wednesdays @3:30-4:30PM cst.
 - Team crosses Central and Eastern Time zones so typical business/meeting hours are 9AM-4PM cst.
 
 
