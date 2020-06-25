@@ -2,24 +2,23 @@
 
 Code goes through several steps to get to production. This document describes this process. It should also be noted that this is the same flow for both content and code changes.
 
-
 <hr>
 
-* [Automated Deployment Schedule](#automated-deployment-schedule)
-* [Summary](#summary)
-* [Process Details](#process-details)
-* [Other Notes](#other-notes)
-* [Deployment Rollbacks](#deployment-rollbacks)
-* [Problems/Concerns](#problems--concerns)
+- [Automated Deployment Schedule](#automated-deployment-schedule)
+- [Summary](#summary)
+- [Process Details](#process-details)
+- [Other Notes](#other-notes)
+- [Deployment Rollbacks](#deployment-rollbacks)
+- [Problems/Concerns](#problems--concerns)
 
 <hr>
 
 ## Automated Deployment Schedule
 
-| Application | Branch | Changes in by | Deployment Start | Release History |
-| --- | --- | --- | --- | --- |
-| vets-website | master | 2:00pm ET M-F | 3:00pm ET M-F| https://github.com/department-of-veterans-affairs/vets-website/releases |
-| vets-api | master | 2:00pm ET M-F | 3:00pm ET M-F | https://github.com/department-of-veterans-affairs/vets-api/releases |
+| Application  | Branch | Changes in by | Deployment Start | Release History                                                         |
+| ------------ | ------ | ------------- | ---------------- | ----------------------------------------------------------------------- |
+| vets-website | master | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-website/releases |
+| vets-api     | master | 2:00pm ET M-F | 3:00pm ET M-F    | https://github.com/department-of-veterans-affairs/vets-api/releases     |
 
 ## Summary
 
@@ -51,7 +50,7 @@ During the pull request phase (step 3), the following things happen:
 
 - Code is reviewed
 - GitHub triggers Jenkins to run unit tests, linting, and security scans.
-  * TODO - List here the tests that run, e.g., Accessibility/508 Compliance, etc
+  - TODO - List here the tests that run, e.g., Accessibility/508 Compliance, etc
 - Committing and code reviewing developers are responsible for running automated **_and_** manual integration tests locally before closing the pull request
 
 All Vets.gov GitHub repos are setup to do squash merges (via the GitHub PR interface), leaving behind a clean revision history that is feature based.
@@ -108,14 +107,13 @@ While it's not ideal to create our own strategy, none of the strategies seemed t
 
 During a quick unscientific survey of the team, most had experience with GitHub Flow, while only a few folks had worked with Git Flow or GitLab Flow in practice (esp. GitLab Flow). Most folks had heard of Git Flow, but only a small subset had used it explicitly. By keeping the chosen flow close to GitHub Flow (and close what the team has been doing), meant this likely has the least cognitive overhead.
 
-
 ### Confusion about what has to happen during code reviews / pull requests
 
 Unfortunately, it's hard to codify this outside of running some things automatically such as the tests and scanners. However, it's really important that teams give each other clear feedback and code reviews are the single most important quality gate for the code.
 
 ### Lack of clear process for getting code changes from development to production
 
-Before, we didn't have anything written down that described how things went to production. This process is different from the other Git* Flows in that it says _who_ performs each step. This means that teams know exactly who to involve and who to delegate responsibility to for each part of getting things to go live.
+Before, we didn't have anything written down that described how things went to production. This process is different from the other Git\* Flows in that it says _who_ performs each step. This means that teams know exactly who to involve and who to delegate responsibility to for each part of getting things to go live.
 
 ### Different flows between features and hotfixes
 
