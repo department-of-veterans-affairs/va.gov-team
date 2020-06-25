@@ -6,21 +6,31 @@
 
 ## Why we're here
 
-### North Star:
-_Placeholder -  still drafting team North Star after Discovery Sprint completes_
+### Executive Summary:
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
+
+### North Star: _Placeholder - still drafting during Discovery Sprint_
+
+- Increase availability of self-service tools
+	- At a minimum, we will make existing tools more widely available in a self-service manner as the current on-premise eScreening applications are completed by Veterans on a VA iPad in the facility and on the VA network.
+    
+- Decrease time to outcomes
+    	
+	- Make a pre-appointment tool available for online appointments means less appointment time is taken up by answering standardized questions, potentially reducing appointment times and/or increasing the efficacy of those appointments.
+
+-   Maximize satisfaction, reliability, availability, & security
+    	
+	-   At a minimum, bringing the existing tools into the VA.gov family will make them much more widely available across multiple channels (online via internet; kiosks in facilities).
+
 
 ### Product Suite (if applicable): 
 Health Care - Veteran (person/consumer of health) Experience 
 
 ### Team Mission Statement:
-_Placeholder - still drafting team North Star after Discovery Sprint completes_
+_Still drafting during Discovery Sprint_
 
 ### Product Portfolio:
 Healthecare - Questionnaires/Intake forms
-
-### Responsibilities:
-Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
-
 
 ### Roadmap:
 [Questionnaires 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
