@@ -4,12 +4,18 @@ Code goes through several steps to get to production. This document describes th
 
 <hr>
 
-- [Automated Deployment Schedule](#automated-deployment-schedule)
-- [Summary](#summary)
-- [Process Details](#process-details)
-- [Other Notes](#other-notes)
-- [Deployment Rollbacks](#deployment-rollbacks)
-- [Problems/Concerns](#problems--concerns)
+- [Deployment Process](#deployment-process)
+  - [Automated Deployment Schedule](#automated-deployment-schedule)
+  - [Summary](#summary)
+  - [Process Details](#process-details)
+  - [Other Notes](#other-notes)
+  - [Deployment Rollbacks](#deployment-rollbacks)
+  - [Problems / Concerns](#problems--concerns)
+    - [Complexity of branching strategy](#complexity-of-branching-strategy)
+    - [Confusion about what has to happen during code reviews / pull requests](#confusion-about-what-has-to-happen-during-code-reviews--pull-requests)
+    - [Lack of clear process for getting code changes from development to production](#lack-of-clear-process-for-getting-code-changes-from-development-to-production)
+    - [Different flows between features and hotfixes](#different-flows-between-features-and-hotfixes)
+  - [Off-schedule Deployments](#off-schedule-deployments)
 
 <hr>
 
@@ -122,3 +128,7 @@ This is one of the weaknesses with Git Flow, which requires additional managemen
 <hr>
 
 Next: [Vets Website Introduction](frontend/vets-website/README.md)
+
+## Off-schedule Deployments
+
+Consult the [Full deploy of VA.gov client app docs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app)
