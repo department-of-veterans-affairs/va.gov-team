@@ -25,7 +25,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ### Discovery Sprint Roles
 
-<img src="https://lh3.googleusercontent.com/-rEkDs5WtnPqihyX9JvxVJKL-LUJcvRtVIb3c63NZJzCiUWm1cR-dYvol4yNzQo8acGSz9e4ZQVTWKvVv323zjtZaRv96dwfAbe3iLw22C6BDaP1xPsgoPkWAewo7-8T7jMm--uA" width="500">
+<img src="https://lh4.googleusercontent.com/a32LE958gVGw7xjR6NwfqVrsgNmyDmqzGMUOxnns58o4gwA46es2sieokxPPzjNXHD8dUa2yCNqnttxsmW_iYnctDWHTCXEt1K3EDUY7ajUUTr9Nuwln1fAToycBCq85w9xH5gMl" width="500">
 
 -   Lead VA business owner: Lacey Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov)
     
@@ -33,7 +33,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
     
 -   VA business owner: Patrick Bateman [patrick.batmean@va.gov](mailto:patrick.batmean@va.gov)
     
--   VA engineering owner: Michael Chelen [michael.chelen@va.gov](mailto:michael.chelen@va.gov)
+-   VA engineering owner: Stephen Barrs [stephen.barrs@va.gov](mailto:stephen.barrs@va.gov)
     
 -   Product Lead: Mickin Sahni [mickin@adhocteam.us](mailto:mickin@adhocteam.us)
     
@@ -48,7 +48,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 -   Designer/Researcher: Aricka Lewis [aricka@adhocteam.us](mailto:aricka@adhocteam.us)
     
 
-### Stakeholders
+### Stakeholders TBD
 
 - **VEO**- Denise Kitts
 - **Former Loma Linda team**- Shane Elliott, Rob Durkin
@@ -56,9 +56,10 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 - **VHA**- Dr. Neil Evans
 - Kellie Condon    
   
-  Potential directly or indirectly aligned product owners:
+### Potential directly or indirectly aligned product owners:
+
 -   **API Owners**- Lighthouse: Dave Mazik, Kendra Skeene
-- **eScreening Team**- Angela Gant Curtis + Dr. James Pittman & Team 
+-   **eScreening Team**- Angela Gant Curtis + Dr. James Pittman & Team 
 -   **MyHealtheVet**- Kathy Frisbee
 
 -   **Connected Care**- clinical tool VCM [insert stakeholder]
