@@ -46,7 +46,7 @@ Production website Sentry errors should be reviewed at least once a rotation and
 
 Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the #vfs-sentry-alerts channel.
 The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
-* First occurence of an issue
+* First occurrence of an issue
 * High volume of an error occurring
 
 If there’s a new error, investigate. If there’s an error that you feel you might be able to fix, start a PR and try. If you need some help, ask for it. The goal is to reduce the number of repeated errors over time so the sentry log is only new, “real” issues.
