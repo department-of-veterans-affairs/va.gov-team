@@ -77,12 +77,12 @@ Assess and update workload for remainder of sprint
 
 ##### Issue Estimates
 
-- 1 - Easy task, work is known, can be executed quickly (~1-2 days)
-- 2 - Small task, work is known and can be completed in half a sprint (~3-5 days)
-- 3 - Medium task, work is known and can be completed in less than one sprint (~6-8 days)
-- 5 - Work is discussed and planned for, and can be completed in one sprint sprint (~10 days)
-- 8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
-- 13 - Very complex, needs discovery or prototype before it can be pointed
+- 1 - Easy task(~1-2 days) work is known, can be executed quickly 
+- 2 - Small task (~3-5 days) work is known and can be completed in half a sprint 
+- 3 - Medium task (~6-8 days) work is known and can be completed in less than one sprint 
+- 5 - Large task (~10 days) work is known and can be completed in one sprint sprint 
+- 8 - XLarge task, work is complex and/or there are unknown factors that need to be discussed prior to planning. Once further information is known, the work should be broken down into smaller tasks that can be completed in a sprint.  
+- 13 - XXLarge task, Very complex, needs discovery or prototype before it can be planned for a sprint.
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
