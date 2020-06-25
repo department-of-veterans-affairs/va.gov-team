@@ -58,7 +58,7 @@ updates:
 
 Any minor or patch upgrades should be prioritized since they won't have major impact. However, even minor library version upgrades can break or insert inconsistencies in apps.
 
-Minor or patches 
+In Minor or patches PRs, you need to still verify that there aren't any breaking changes.
 
 # Major
 
