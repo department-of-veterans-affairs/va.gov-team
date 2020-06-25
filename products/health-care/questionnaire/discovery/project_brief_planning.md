@@ -25,66 +25,12 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ### Discovery Sprint Roles
 
-<img src="https://lh4.googleusercontent.com/a32LE958gVGw7xjR6NwfqVrsgNmyDmqzGMUOxnns58o4gwA46es2sieokxPPzjNXHD8dUa2yCNqnttxsmW_iYnctDWHTCXEt1K3EDUY7ajUUTr9Nuwln1fAToycBCq85w9xH5gMl" width="500">
-
--   Lead VA business owner: Lacey Higley [lacey.higley@va.gov](mailto:lacey.higley@va.gov)
-    
--   VA business owner: Lauren Alexander [lauren.alexander@va.gov](mailto:lauren.alexander@va.gov)
-    
--   VA business owner: Patrick Bateman [patrick.batmean@va.gov](mailto:patrick.batmean@va.gov)
-    
--   VA engineering owner: Stephen Barrs [stephen.barrs@va.gov](mailto:stephen.barrs@va.gov)
-    
--   Product Lead: Mickin Sahni [mickin@adhocteam.us](mailto:mickin@adhocteam.us)
-    
--   Discovery Sprint Lead: Amanda Buckley abuckley@governmentcio.com
-    
--   Front End Engineer: Mark Dewey mdewey@governmentcio.com
-    
--   Back End Engineer: Lance Sanchez osanchez@governmentcio.com
-    
--   BE Engineer (Temp) – Still hiring the full-time BE engineer
-    
--   Designer/Researcher: Aricka Lewis [aricka@adhocteam.us](mailto:aricka@adhocteam.us)
-    
+[Meet the HealthcareExperience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/README.MD)
 
 ### Stakeholders TBD
 
-- **VEO**- Denise Kitts
-- **Former Loma Linda team**- Shane Elliott, Rob Durkin
-- **Loma Linda Staff**- Dr. John Byrne, Dr. Kelly Hajerich, Dr. Terry Newton
-- **VHA**- Dr. Neil Evans
-- Kellie Condon    
-  
-### Potential directly or indirectly aligned product owners:
+[Meet our Stakeholders and Aligned Product Owners](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/README.MD)
 
--   **API Owners**- Lighthouse: Dave Mazik, Kendra Skeene
--   **eScreening Team**- Angela Gant Curtis + Dr. James Pittman & Team 
--   **MyHealtheVet**- Kathy Frisbee
-
--   **Connected Care**- clinical tool VCM [insert stakeholder]
-
--   **VetLink**- Shaun Adams
-
--   **Identity**- Melissa Keene
-
--   **Scheduling** - Stephen Barrs
-  
-	 -   engineering- VA mobile- back end services apps
-   
--   **VA.gov Profile** - Samara Strauss
-  
-    
--   **Notifications Engine** - Clarice Chan
-    
--   People that have built stuff with the **Form system** before:
-	- **eBenefits** (Steve K. and Jason Wolf)
-      
-	-   **Caregiver** (CC Gong and Alayna Abel)
-      
-        -   **B&M 2** (Matt Self and Leah Keeler)
-
-    
 
 ## DISCOVERY PLANNING
 
@@ -126,24 +72,14 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 	-   Improve employee productivity by reducing the effort needed to integrate Veteran-provided data into canonical sources
     
 -   Align to Business North Star
-    
-
-	- Increase availability of self-service tools
-    
-
+    - Increase availability of self-service tools
 		- At a minimum, we will make existing tools more widely available in a self-service manner as the current on-premise eScreening applications are completed by Veterans on a VA iPad in the facility and on the VA network.
     
-
-	-   Decrease time to outcomes
+    - Decrease time to outcomes
+    	- Make a pre-appointment tool available for online appointments means less appointment time is taken up by answering standardized questions, potentially reducing appointment times and/or increasing the efficacy of those appointments.
     
-
-		-   Make a pre-appointment tool available for online appointments means less appointment time is taken up by answering standardized questions, potentially reducing appointment times and/or increasing the efficacy of those appointments.
-    
-
-	-   Maximize satisfaction, reliability, availability, & security
-    
-
-		-   At a minimum, bringing the existing tools into the VA.gov family will make them much more widely available across multiple channels (online via internet; kiosks in facilities).
+    -   Maximize satisfaction, reliability, availability, & security
+    	-   At a minimum, bringing the existing tools into the VA.gov family will make them much more widely available across multiple channels (online via internet; kiosks in facilities).
     
 
 -   Are any of the above assumptions that need to be verified?
@@ -168,18 +104,15 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 	-   Stakeholders and Aligned Products Discovery Sessions to see if/when forms interact with their workflows.
     
 
--   What secondary research should we do (google, facebook, internal documents)?
+-   What secondary industry research should we do (google, facebook, internal documents)?
     
 
 	-   The team will be provided Market Research “suggestion” during Discovery kickoff and ask to review and find others from their own research.
     
-	-   Who is awesome in this space and why?
-    
-
 		-   All the VA apps in progress
     
 
-			-   ie. VetLink, Connect Care Rx App, MyHealtheVet pt. Generated database, Connect Care - Family Health History Survey...etc.
+			-   ie. VetLink, Kiosk, Connect Care Rx App, MyHealtheVet pt. Generated database, Connect Care - Family Health History Survey...etc.
     
 
 		-   [Cerner eClipboard & Questionnaires (integrated in the EHR and patient portal)](https://connect.cerner.com/)
