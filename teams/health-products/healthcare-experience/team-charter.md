@@ -29,8 +29,6 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 
 ## Who we are
 
-### Team Members:
-
 Healthcare Experience Team | name ⋅  email ⋅ slack ⋅  role  
 ----- | --------- |
 <img src="https://lh3.googleusercontent.com/yEYpEU6gRMAEs8J7G4S5aJDM6c47XZnSKV4kH9tBub6QeoZrKOK3b7ea6vfbEsX56RFJSlXbgDuTt4ACjypYRc-IYt3DLLFEv165M9EqCBk4uCzARnz8z3z7CIzXUtLGc-8NLC-n" width="75" align="center"> [Lacey Higley](mailto:lacey.higley@va.gov) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U5HMZDQSK)  ⋅ Lead DEPO, Product Owner   |   <img src="https://lh5.googleusercontent.com/RZ-MWIluSDZ8Tf4bzXoCRFUDVW3MDipEmae_ZZ5STSl17kTexnHbAKsrNJf00gzgBPOqDhsq7DDX2-sCRZJ7TA6gsHhSwwUGGw5U2rkILMMLwddX4nxaNwdzGLXJYSrU9RTvZ43v" width="75" align="center">  [Patrick Bateman](mailto:patrick.batmean@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UFN410MGF)  ⋅ DEPO, Product Owner
