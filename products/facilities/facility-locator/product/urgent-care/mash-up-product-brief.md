@@ -36,6 +36,9 @@ This document will focus on the urgent care mash-up iteration for the Facility L
 _Why should this project be a priority?_ 
 - [User research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-findings.md) indicates Veterans want to see all urgent care facilities in a single list, rather than searching for VA locations or Community urgent care locations separately. 
 - Analytics show search refinements have unexpectedly increased as a result of UX changes released as part of MVP. This may indicate that results are not as expected causing Veterans to search both service types. 
+  - Between Oct 16, 2019-Nov 14, 2019, the rate of search refinements = 3.71% CCare vs 2.20%  health 
+  - Between Feb 1, 2020-March 10, 2020 the rate of search refinements = 4.95% CCare provider, 9.75% urgent care, 15.22% pharmacy vs 2.4% health 
+
 
 **Business drivers**
 - The roadmap for Facility Locator moves toward a service-centered search experience, agnostic of the facility type. This mash-up is the first step down that path. 
@@ -64,8 +67,23 @@ This mash-up iteration will return all urgent care locations, regardess of servi
 ### Measuring Success
 _How will we know if we are successful?_
 
-- Key Result #1: Reduce urgent care search refinements to parity with community care refinements or better by July 1, 2020. 
-- Key Result #2: User satisfaction will improve. 
+**Key Result #1: Reduce urgent care search refinements to parity with community care refinements or better by July 1, 2020.**
+Baseline search refinement rates
+| Time period | CCare | Urgent care | Health |
+| --- | --- | --- | --- |
+| Oct 16, 2019 - Nov 14, 2019 |  3.71%  | | 2.2% | 
+| Feb 1, 2020 - March 10, 2020 |  4.95%  | 9.75%  | 2.4% | 
+| April 2020 |  5.97%  | 5.91%  | 2.61% | 
+| May 2020 |  6.39%  | 5.55%  | 2.74% | 
+
+
+**Key Result #2: User satisfaction will improve**
+Average 5 star user satisfaction rating
+| Time period | Average FL rating | Average VA.gov rating |  
+| --- | --- | --- |
+| March 2020 | 2.875 | 3.15 |
+| April 2020 | 3.07 | 2.84 |
+| May 2020 | 3.09 | 3.37 |
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
