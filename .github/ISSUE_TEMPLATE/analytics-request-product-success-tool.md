@@ -15,7 +15,7 @@ Use this template to request the Product Success Tool (KPI dashboard on Domo) fo
 ## Instructions for the VFS team
 - [ ] For additional info, read through the [How to Request the PST Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md)
 - [ ] Your KPIs are clearly linked back to Veteran outcomes
-- [ ] Link your KPIs below
+- [ ] Link your KPIs below (KPIs should be in your Product Outline)
 - [ ] Submit this ticket as an epic
 - [ ] Add your team label to follow progress
 
