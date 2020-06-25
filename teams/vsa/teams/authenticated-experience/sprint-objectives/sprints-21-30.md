@@ -143,7 +143,7 @@ Dev
 - Build - Sub nav updates
 - Build - Review build pre-QA
 - Pre-launch - Update relevant parts of the product outline/project folder
-  - Make sure error documentation is up to date
+  - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
   - Make sure it's documented which backend systems support the profile
 
 Platform
