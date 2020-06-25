@@ -21,7 +21,7 @@ During the sprint, you should monitor the following Slack groups for issues:
 * #oncall (general oncall issues and problems)
 
 - **For small issues in the platform**: Fix it yourself
-- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Brandon Rapp, Rian Fowler) to determine if we need to delegate or defer the work
+- **For longer platform related solutions**: If the fix requires more than a couple of hours of work, coordinate with the FE Tools Leads (Megan Kelley, Rian Fowler) to determine if we need to delegate or defer the work
 - **For tasks in applications owned by another team**: Create a ticket and delegate it to someone on that team- preferably an engineering lead or a product manager
 
 _Your primary responsibility is to remain available to quickly acknowledge and triage issues in these channels. You can enlist help from the FE tools team if needed to maintain this availability._
@@ -34,7 +34,7 @@ Ensure that no pull requests have been waiting on the @department-of-veterans-af
 
 Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
 
-- Create an issue describing the request in GitHub and link it to the Global Customer Support epic (ask Brandon if you need a link to this epic). 
+- Create an issue describing the request in GitHub and link it to the Global Customer Support epic (ask Megan if you need a link to this epic). 
 - Tag the issues with fe-tools, assign it to yourself, and prepend the title of the Ticket with *[Support] -*. 
 - Track any work done with comments. 
 - Summarize any solutions and failed attempts so the issue can be referred to again in the future if necessary. 
