@@ -25,7 +25,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 ### Discovery Sprint Roles
 
-[Meet the HealthcareExperience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/README.MD)
+[Meet the HealthcareExperience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
 
 ### Stakeholders TBD
 
