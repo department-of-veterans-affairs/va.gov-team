@@ -6,25 +6,7 @@
 
 ## Overview
 
-This is a decision making process to choose the most efficient automated dependency upgrade product.
-
-Based on this [evaluation of automated dependency upgrade products](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9537). The final decision is to go with `Dependabot`
-
-## Objective
-
-To be able to rely on a automated dependency upgrade manager
-
-## Background
-
-`Dependabot` was initially installed in `vets-website` but it wasn't doing anything. There was no action by `Dependabot`, therefore, we started looking at alternatives.
-
-[This ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9537) has an evaluation of Depfu, Renovate and Dependabot.
-
-`dependabot` has good settings and also [it's been integrated into GitHub](https://dependabot.com/blog/hello-github/).
-
-## Specifics
-
-`dependabot` uses a configuration file, `dependabot.yml`, that lives at the root of each repository to handle the dependencies for that repo.
+Dependabot is an automated dependency management tool. It uses a configuration file, `dependabot.yml`, that lives at the root of each repository to handle the dependencies for that repo.
 
 ### `dependabot.yml` file located inside the `.github` folder
 
