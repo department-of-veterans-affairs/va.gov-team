@@ -118,22 +118,33 @@ Design
 
 ## Sprint 25 (7/1 – 7/14)
 
+Main objective: Be ready for Profile 2.0 QA next sprint
+
 ### Profile 2.0
 
 PM
 - Call center - Finish call center guide
-- Pre-launch — Analytics check-in: do we need a formal review? How are they doing?
+- Pre-launch — Analytics review: does this need to happen? 
 - Pre-launch - Update relevant parts of the product outline/project folder
+  - Make sure product outline is up to date
+  - Make sure other team members update the project outline and any other documentation in the folder that's needed
+  - If you were a new PM onboarding to this product, what documentation would you want?
 
 Design
 - Build - Review build pre-QA
 - Call center - Finish call center guide
 - Pre-launch - Update relevant parts of the product outline/project folder
+  - Update design sections of the product outline
+  - Add most up-to-date sketch file to Github
+  - In design README, add links to the InVision prototypes
+  - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
 - Build - Sub nav updates
 - Build - Review build pre-QA
 - Pre-launch - Update relevant parts of the product outline/project folder
+  - Make sure error documentation is up to date
+  - Make sure it's documented which backend systems support the profile
 
 Platform
 - Pre-launch — Analytics review (if necessary)
