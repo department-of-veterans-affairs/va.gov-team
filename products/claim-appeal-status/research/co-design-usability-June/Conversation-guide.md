@@ -133,7 +133,9 @@ Feel free to suggest anything you would want to be able to do and see in such a 
 
 -   What information would you want to see in your claim status tool? 
 
--   What features and functionalities would you like to add to such a tool, if anything was possible?  
+-   What info, features, functionalities would be most useful to you?
+
+-   What features and functionalities would you like to add, if anything was possible?  
 
 (If participant hesitates: Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?)
 
@@ -145,27 +147,19 @@ Create sticky notes with each item.
 
 Help participants make any items that are too broad more specific.
 
--   What do you want to see in a claim status tool?
-
--   What do you want to be able to do in a claim status tool?
-
--   What info, features, functionalities would be most useful to you?
-
 -   How would you use these features? 
 
 -   What specific details are you looking for in a claim status tool.
 
 -   Why are those things the most helpful for you? Please elaborate.
 
--   more
-
--   more?
-
 How would it be different if this tool was personalized for you? 
 
--   Okay, I'd like to show you some other stickies we made ahead of time. Are any of these interesting to you, and why?
+
+Okay, I'd like to show you some other stickies we made ahead of time. Are any of these interesting to you, and why?
 
 -   Take a moment to review them, and think out loud as you do - how do these resonate with you?
+
 
 Allow participants to review stickies and encourage them to verbalize their thoughts as they do so.
 
