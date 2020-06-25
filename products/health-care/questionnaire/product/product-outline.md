@@ -177,24 +177,24 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 
 ## [Solution Narrative (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
 
-### [Current Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
+- [Current Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
 
-### [Key Decision (none at this time)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/key-decisons.md)
+- [Key Decision (none at this time)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/key-decisons.md)
 
 ---
    
 ## Screenshots
 
-### [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
+- [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 
-### [Design and Prototype Itterations (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
+- [Design and Prototype Itterations (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
 
 ---
 
 
-#### Meet the Team and Get in Touch 
+## Meet the Team and Get in Touch 
     
-- Team Name: Healthcare Experience - Questionnaires
+- Team Name: [Healthcare Experience - Questionnaires](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md)
 - GitHub Label: vsa-healthcare-exp
 - Slack channel: [#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
 - [HealthCare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
