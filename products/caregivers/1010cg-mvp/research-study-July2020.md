@@ -6,6 +6,7 @@ This study is being conducted by the VSA Caregiver team.
 The VA’s Caregiver program enables caregivers and Veterans to receive benefit payments from VA. To date, the Caregiver program has focused on post-911 Veterans. The Mission Act calls for the expansion of this program to all eras of Veterans and an IT system to be built in order to support the expansion of the program.
 The internal system (CARMA) requires the manual input of paper applications (form 1010-CG). When the Caregiver program expands, the paper process will not scale.
 The Caregiver team has developed an MVP to move the 1010-CG online. The form has been coded (in staging), and we plan on testing the form with users before the form goes live on VA.gov. 
+
 **The goals of this usability study are to:**
 
 - Document and prioritize any outstanding usability issues that might come up when caregivers and Veterans fill out the online 1010-CG
@@ -42,7 +43,7 @@ Users will be able to navigate through the form relatively easily, but may have 
 
 ## Method	
 
-**Directed interviews
+**Directed interviews**
 
 **A task-based usability study** will be conducted remotely with Zoom. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.  
 
