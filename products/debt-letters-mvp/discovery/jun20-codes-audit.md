@@ -60,3 +60,4 @@ Debt details should include:
 - Next steps
 - Hold information
 - Debt repayment information
+- Past debts
