@@ -8,6 +8,8 @@
 
 This is a decision making process to choose the most efficient automated dependency upgrade product.
 
+Based on this [evaluation of automated dependency upgrade products](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9537). The final decision is to go with `Dependabot`
+
 ## Objective
 
 To be able to rely on a automated dependency upgrade manager
