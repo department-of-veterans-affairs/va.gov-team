@@ -75,14 +75,14 @@ Assess and update workload for remainder of sprint
 - 1 hour
 - [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
-###### Issue Estimates
+##### Issue Estimates
 
-1 - Easy task, work is known, can be executed quickly (~1-2 days)
-2 - Small task, work is known and can be completed in half a sprint (~3-5 days)
-3 - Medium task, work is known and can be completed in less than one sprint (~6-8 days)
-5 - Work is discussed and planned for, and can be completed in one sprint sprint (~10 days)
-8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
-13 - Very complex, needs discovery or prototype before it can be pointed
+- 1 - Easy task, work is known, can be executed quickly (~1-2 days)
+- 2 - Small task, work is known and can be completed in half a sprint (~3-5 days)
+- 3 - Medium task, work is known and can be completed in less than one sprint (~6-8 days)
+- 5 - Work is discussed and planned for, and can be completed in one sprint sprint (~10 days)
+- 8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
+- 13 - Very complex, needs discovery or prototype before it can be pointed
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
