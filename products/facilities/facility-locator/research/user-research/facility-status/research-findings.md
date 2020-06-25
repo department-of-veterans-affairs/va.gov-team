@@ -157,7 +157,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 - Replace or extend the ‘Facility Notice’ category with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Holiday Schedule', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
 - Specify which services at facilities are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
-- Use red instead of pink to communicate the severity of ‘Facility Closed’
+- Consider the red styling from detaail page instead of pink styling to communicate the severity of ‘Facility Closed’. Some users missed the alert entirely and pointed out that the red styling matched their expectations. 
 - Communicate changes in appointments and visiting requirements to Veterans via phone, text or email.
 
 
