@@ -147,14 +147,15 @@ Even when a date was present but was missing the year, it was still mistrusted,
 
 **Short Term / Lower Lift**
 
-- Eliminate ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively. **[Discuss with team]**
-- Use ‘Limited Hours and Services’ as the status for COVID related operating changes if virtual and telehealth services are available.
 - Reserve ’Facility Closed’ for temporary or permanent facility closures where no services are available to Veterans.
+- Use ‘Limited Hours and Services’ as the status for COVID related operating changes if virtual and telehealth services are available.
+- Do not use ‘Facility Notice’ as a status for use in search results. It is too broad to communicate anything effectively. See 'Long Term / Heavier Lift' recommendations.
+
 
 **Long Term / Heavier Lift**
 
 - Replace or extend the ‘Facility Notice’ category with more specific categories. Participants used words like 'Health Notice', 'Weather Notice', 'Emergency Notice', 'Holiday Schedule', 'Emergency and construction operations', 'Rules', 'Patient Information' to categorize the types of scenarios that affect a facilities operating status. 
-- Specify which services are available on detail pages, where available.
+- Specify which services at facilities are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Use red instead of pink to communicate the severity of ‘Facility Closed’
 - Communicate changes in appointments and visiting requirements to Veterans via phone, text or email.
