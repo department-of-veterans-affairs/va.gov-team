@@ -34,7 +34,7 @@ Ensure that no pull requests have been waiting on the @department-of-veterans-af
 
 Support requests include every interaction you have with a VSF team member. Even trivial interactions should be tracked for oversight and process improvement. 
 
-- Create an issue describing the request in GitHub and link it to the Global Customer Support epic (ask Megan if you need a link to this epic). 
+- Create an issue describing the request in GitHub and link it to the [Global Customer Support epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3675). 
 - Tag the issues with fe-tools, assign it to yourself, and prepend the title of the Ticket with *[Support] -*. 
 - Track any work done with comments. 
 - Summarize any solutions and failed attempts so the issue can be referred to again in the future if necessary. 
