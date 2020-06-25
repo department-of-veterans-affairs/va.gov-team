@@ -173,7 +173,8 @@ PM
 - Call center - Request contact center review
 
 Dev
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Integration testing
+- Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing)
 - Testing - Implement/run tests we determine we need
 
 Platform
