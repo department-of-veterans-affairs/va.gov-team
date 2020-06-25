@@ -117,8 +117,36 @@ Additionally:
 
 ## Solution Approach
 
+### April 2020
+
 - We are starting this project with a comprehensive round of discovery to help us answer questions around veteran needs and expectations, DEPO stakeholder needs and expectations, how we should involve stakeholders outside of DEPO, relevant past research and context setting, and existing models for usable and useful logged-in experiences.
 - Right now, I imagine that we will only be leveraging data and tools we have access to right now on VA.gov and not integrating entirely new data/backend systems that don't already exist or aren't already in the works. While the new logged-in homepage will grow and change over time, I think this will be a helpful line for us to draw for what is included in an initial build and what we may want to build and include in future phases.
+
+### June 2020
+
+#### Phase 1 plan (flexible pending technical discovery):
+
+**In scope**
+
+- Move the following My VA tools over to the homepage:
+  - Your applications
+  - Your claims
+  - Health enrollment status (eg. enrolled; application pending, etc)
+  - Prescriptions
+  - Secure messages
+  - Schedule appointments
+- A plan for how to incorporate top 20 tasks links, including directing veterans to the records and documents.
+- A visual redesign of the My VA elements moving over to the logged-in homepage.
+- A very basic first-time user experience that will account for users who have no benefits and no applications in flight.
+- Retiring My VA.
+- (Nice to have) Elevating overall disability ratings, GI bill balances, and upcoming appointments.
+
+**Out of scope**
+
+- Doing anything with the Find VA benefits content that currently exists on My VA.
+- Incorporating any new data or integrations that do not already exist on VA.gov.
+- Navigation work.
+- Notification center work.
 
 ## OKRs
 
@@ -158,14 +186,6 @@ OKR: Improved/faster navigation to online tools
 - *What is your target launch date of your MVP/iteration?*
 - *What is your date for when you'll evaluate impact after launch?*
 
----
-
-## Results and Recommendations
-### Results
-- TBD after launch
-
-### Recommendations
-- TBD after launch
 --- 
 
 # Implementation Info
