@@ -113,8 +113,8 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 -   Dependencies -can we align our roadmap to other aligned products to integrate in their workflow (ie. they will need to make enhancements to their solution)
 	-   Notifications to let the veteran know they have a clipboard
 	-   Scheduling a visit will trigger a clipboard to be sent
-    	-   Authenticated and unauthenticated va.go home pages. To advertise or let the veteran know they have completed or to do forms.
-    	-   Many more to be identified during discovery...
+	-   Authenticated and unauthenticated va.go home pages. To advertise or let the veteran know they have completed or to do forms.
+	-   Many more to be identified during discovery...
     
 
 #### What don't we know?
@@ -148,5 +148,10 @@ Discovery Week 1 | Discovery Week 2
 To be filled out by the sprint team.
 
 -   Lessons learned (about the discovery process)
+	- Preliminary scope and Stakeholders (SME) identified before discovery sprint kickoff (ideealy during pre-discovery)
+	- Current State workflows, diagrams, documents ready for product team in pre-discovery 
     
--   Links to key documents (discovery readout, charter, etc.)
+-   Links to key documents 
+	- [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
+	- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
+	- [Discovery Readout] 
