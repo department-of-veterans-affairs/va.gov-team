@@ -18,7 +18,8 @@ Our goal is to improve the in-person and online pre-appointment experiences for 
 
 
 **Points of Contact**
-[Meet the HealthcareExperience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
+
+- [Meet the HealthcareExperience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
 
 
 Key Documents
