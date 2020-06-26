@@ -22,7 +22,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
    10. What, if any, messaging options do veterans expect to have available to them while scheduling an appointment online? Who do veterans expect to be able to message with in this scenario?
 4. Hypothesis: What is your hypothesis for this research? 	
    - *DEPO has repeatedly heard from Veteran participants that it is difficult to complete forms online due to certain conditions, which contributes to frustration when trying to complete tasks such as online scheduling*
-   - Users have information overload when reading information on [Schedule and View VA Apppointments](https://www.va.gov/health-care/schedule-view-va-appointments/) landing page  
+   - Users have information overload when reading information on [Schedule and View VA Apppointments](https://www.va.gov/health-care/schedule-view-va-appointments/) and the scheduling tool landing page
    - Users have information overload when viewing their VA appointments list page
    - Users have information overload on VA schedule an appointment page
    - Users have information overload/confusion as they are going through the flow to schedule an appointment
@@ -45,19 +45,26 @@ As a designer I need to create a research plan to share with my team.	(This shou
 
 ## Participants and Recruitment	
 1. Participant criteria: What are you looking for in a participant?	
-   - 20	
-   - Ideal, but not required: individuals who need to or who have recently scheduled an appointment
-
+   - 15-20 participants	
+   - Must meet all of the following criteria:
+      - Have an MHV Premium, DS Logon, or ID.me identity-proofed account
+      - Be enrolled in VA healthcare
+      - Be registered at one or more VA healthcare system that is still using VistA to manage schedules
 2. What is your recruitment strategy? 	
    Perigean	
 
 ## When? 	
-1.	Timeline: What dates do you plan to do research? 	
+1.	Timeline: What dates do you plan to do research?
+   
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
+   
+3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
+   60 minutes (1 hour)
+4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
+   
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+   
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
