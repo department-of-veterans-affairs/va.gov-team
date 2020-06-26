@@ -32,14 +32,15 @@ _List of products within your team's perview - make sure the list of products he
 ## Who we are
 
 ### Team Members:
-- Team Product Manager: Alex Pappas
 
+- Team Product Manager: Alex Pappas
 - BE Dev Lead: John Paul Ashenfelter
 - BE Dev Engineer: Bill Ryan (Ops Eng)
-- BE Dev Engineer: Johnny Holton
+- BE Dev Engineer: Michael Fleet
 - BE Dev Engineer: Keifer Furzland
 - BE Dev Engineer: Lindsey Hattamer
 - BE Dev Engineer: Philip Becker
+- BE Dev Engineer: Travis Hilton
 
 ---
 

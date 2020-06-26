@@ -4,6 +4,7 @@ Navigation: <br>
 **Default** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content)<br>
 **Submission error** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description-1) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content-1)<br>
 **Empty order submission** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description-2) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content-2)<br>
+**Full order could not be submitted** [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#description-3) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md#content-3)
 
 ## Use case - Default
 
@@ -90,3 +91,22 @@ Your order for hearing aid supplies wasn’t submitted because you didn’t sele
 What you can do (Bitter Bold 15pt)
 If you want to (place an order online)[https://va.gov/hearing-aid-batteries-and-accessories/introduction], please select at least one item before submitting your order. For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
 ```
+
+## Use Case - Full order could not be submitted ('Partial submission') 
+
+Related links: Invision prototype: [Desktop](https://vsateams.invisionapp.com/share/6MVTG94WNH5#/423013061_At_least_one_item_couldn-t_be_ordered) | [GitHub Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10380)
+
+### Description
+There is an edge case where an item could not be submitted due to an error in the DLC's database. For this rare case, we will need to return the items that the user attempted to order and provide next steps so they can place their order. 
+
+### Content 
+
+This is content for the error alert. 
+ ```
+ We’re sorry. Part of your order wasn’t submitted. (Bitter Bold 20pt)
+ At least one of the following items couldn’t be ordered: 
+ - ZA1239 Batteries (Quantity: 60)
+ - Oticon wax guards (Quantity: 10)
+ What you can do (Bitter Bold 15pt)
+ For help ordering hearing aid batteries and accessories, please call the DLC Customer Service Section at 303-273-6200 or email dalc.css@va.gov.
+ ```

@@ -49,7 +49,7 @@ Months you have left to use: **7 months, 0 days**
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
 
-* Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+* Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 * Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 * Have used all of your education benefits or are within 6 months of doing so when you submit your application.  
 [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
@@ -78,9 +78,9 @@ We usually process claims within **30 days**. We’ll let you know by mail if we
 We offer tools and counseling programs to help you make the most of your educational options. [Learn about career counseling options](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/)
 
 #### 5. Decision
-If we've approved your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
+If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
 
-If your application wasn’t approved, you’ll get a denial letter in the mail.
+If your application isn't approved, you’ll get a denial letter in the mail.
 
 { end subway map }  
 
@@ -102,9 +102,9 @@ Start the education application >> { button }
 
 { end if logged in }  
 
-Respondent burden: **NN minutes**  
-OMB Control #: **NNNN-NNNN**  
-Expiration date: **MM/DD/YYYY**  
+Respondent burden: **5 minutes**  
+OMB Control #: **2900-0878**  
+Expiration date: **06/30/2023**  
 [Privacy Act Statement]()  
 
 ________________________________________
@@ -216,7 +216,7 @@ Form 22-10203
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
-Are you enrolled in a science, technology, engineering, or math (STEM) undergraduate degree? (*Required) { radio buttons }    
+Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) { radio buttons }    
 - Yes  
 - No  
 
@@ -432,17 +432,17 @@ Bank routing number (*Required) {text field}
 
 Bank account number (*Required) {text field}  
 
-I don’t want to use direct deposit { checkbox }   
+I don’t want to use direct deposit { checkbox } { If checked, Account type, Bank routing number, and Bank account number fields will not be required and will be collapsed. }  
 
 **Note:** Any bank account information you enter here will only affect your Rogers STEM Scholarship payments. Updates here will not change accounts on file for your existing VA compensation, pension, education, and health benefits.  
 
-What if I don’t have a bank account? { additional info component }
+What if I don't have a bank account or don't want to use direct deposit? { additional info component }
 
 The Department of the Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
 
 If you don’t have a bank account, or don’t wish to provide your bank account information, you must receive your payment through Direct Express Debit MasterCard. To request a Direct Express Debit MasterCard:  
 
-* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or*  
+* Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or**  
 * Call [1-800-333-1795]()  
 
 If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
@@ -512,19 +512,18 @@ for { Fname Lname }
 **Date received**
 { Mon. NN, YYYY }
 
-**Your claim was sent to**
+**Your claim was sent to**  
 Eastern Region   
 VA Regional Office   
-PO box 4616   
-Buffalo, NY 14240-4616. 
+P.O. Box 4616   
+Buffalo, NY 14240-4616  
 
 { end blue box }
 
-**What happens after I apply?**
+**What happens after I apply?**  
 
-[Find out what happens after you apply]()
+[Find out what happens after you apply]()  
 
-
-[Go Back to VA.gov]() { button }
+[Go back to VA.gov]() { button }  
 
 

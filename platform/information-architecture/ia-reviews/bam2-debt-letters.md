@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: NOT STARTED**
+**STATUS: IN PROGRESS**  IA WORK IN PROGRESS HERE: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
 
 **Team:** Benefits & Memorials 2
 
@@ -18,6 +18,7 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
+
 
 Page | URL | Breadcrumb
 --- | --- | ---
@@ -49,6 +50,17 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 <hr>
 
 ### Background & Meeting Notes
+
+**IA sync with BAM2 team - 6/26/2020**
+- Discussed the proposed content approach for the debtman site - talked through the focus of the modernized va.gov experience being veteran benefit content only, and that office content was quite a ways down the roadmap.  I encouraged team to look through the debtman content to identify anything they feel is critical, and to reach out to Jen Lee if there are concerns with not moving content over. 
+- Discussed that since we are not likely to be moving much content over, that linking to the content where it is, is an option to be explored.  It does sound like there's quite a bit of supporting content within the debtman site that is about how to resolve debt, so we may need additional conversations on this.
+- Walked through user flows
+  - Flows bypassing the static page for authenticated users was reviewed
+  - Deep linking to debt letter detail was discussed - because the debt letters don't necessarily have unique IDs can go away, deep linking to a letter may result in not finding a letter or pulling up the wrong one.  The consensus was to always send users to the summary level of the tool first. - 
+- Discussions around health debt/copay debt should continue - they think they may be getting copay debt data, but not necessarily the letters
+TIMING: Research is coming up soon and they want to represent the content model, but that means that a draft static tool page is needed relatively soon (research next month).  Full launch of this tool won't be until August at the earliest.
+
+
 
 **Content/IA synch - 6/23/2020**
 - need to go through FAQs to determine what should be part of static content page and what should be part of tool. Do we move FAQs over at all or do we continue to link to legacy page?

@@ -32,10 +32,11 @@
 - Sprint 25 Backlog Grooming 
 - Facilitate and summarize feedback from [Veteran Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/participant-notes/participant-list.md)
 	- _Plan for another Discovery Sprint based on Veteran feedback todate being they do not fill out paper or digital questions in preparation for a visit_
-- Continued Exploratory tech investigation into API- Medications and forms prototype with pre-populating Veteran information. 
+		- See blocker #10219 - current state workflow as we need clinical insites on current and ideal workflow to move forward based on learnings from research.
+- Continued Exploratory tech investigation into Identity, Profile and FHIR API (ie. Medications) and forms prototype with pre-populating Veteran information. 
 
 - Next Step/Followup:
-	- Determine if more Veteran interviews are needed due to No Shows/Cancelations
+	- Determine if more Veteran interviews are needed due to No Shows/Cancelations - recived 3 more for Friday.
 	- Research findings report/insights - _Aricka & Amanda_
 
 **Decisions:**
@@ -46,8 +47,10 @@
 
 -   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey has identified sme's and has reached out, we are waiting for response 
 - [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222)
 	-  Unknown Stakeholders to interview until we get feedback from Veterans on what they need the product scope to be.
+	-  Lacey will schedule once we land scope
 
 ## June 19th, 2020
 
@@ -75,6 +78,7 @@
 
 -   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey has identified sme's and has reached out, we are waiting for response 
 - [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222)
 	-  Unknown Stakeholders to interview until we get feedback from Veterans on what they need the product scope to be.
 
@@ -111,6 +115,7 @@
 
 -   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey has identified sme's and has reached out, we are waiting for response 
 
 
 ## June 5th, 2020
@@ -124,7 +129,7 @@
 	- Schedule Stakeholder/Aligned Product Teams interviews- _Lacey_
 	- Current State Workflow Documentation - _Lacey_
 	- Schedule Team Platform Onboarding - _Lacey_
-	- Schedule Team working sessions and to review Current State/Market Research Sync
+	- Schedule Team working sessions and to review Current State/Market Research Sync - _Amanda_
 
 **Decisions:**
 

@@ -1,7 +1,7 @@
 Conversation Guide for Claim Status Tool research, June 2020. 
 ==============================================================
 
-Collaborative design sessions + usability test
+Collaborative design sessions (+ usability test)
 ==============================================
 
 Moderator logistics
@@ -23,13 +23,11 @@ Before the session, send out the [observer instructions](https://github.com/depa
 
 -   Have one person controlling the Mural board and one person doing the moderating.
 
--   Have staging.va.gov open in a tab. 
+-   Have mock-ups of the claim status tool available.
 
 -   Show current Claim status to participants. 
 
--   Have mock-ups of the claim status tool available.
-
--   Be ready to screen share
+-   Be ready to screen share.
 
 -   Do a small usability test of the current claim status tool if time/energy.
 
@@ -38,27 +36,26 @@ When the participant is ready, begin the session with the following intro:
 Intro - 3 minutes
 -----------------
 
-Thanks for joining us today! My name is Cristian Valla, and I have some colleagues on the line observing and taking notes. Our team is working on re-designing the tool on VA.gov where you can check the status of your claims and appeals. Today, I'd like to talk through your current experiences checking the status of your claims, then we'll go through an activity that will help us understand what would make a new claim status tool most useful and efficient to you.
+Thanks for joining us today! My name is Cristian Valla, and I have some colleagues on the line observing and taking notes. Kevin will help you to navigate the websites and the tools we need. Our team is working on re-designing the tool on VA.gov where you can check the status of your claims and appeals. Today, I'd like to talk through your current experiences checking the status of your claims, then we'll go through an activity that will help us understand what would make a new claim status tool most useful and efficient to you.
 
 Before we start, I want to mention a few practical things:
 
 -   This session should take about 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
 
--   In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve the claim status tool, to better meet Veterans' needs. We welcome all types of feedback.
+-   In this session, we want to hear your honest opinions. Feel free to provide both positive and negative critique. There are no right or wrong answers here.
+    Remember, we are not testing you or your ability. We want to improve the claim status tool, to better meet Veterans' needs. 
 
--   You and I will go through a collaborative activity to help our team understand how we can design a claim status tool that best meets yours and other veterans' needs, wants and expectations.
+-   You and I will go through a collaborative activity to help our team understand how we can design a claim status tool that best meets yours and other veterans'       needs, wants and expectations. 
 
--   We'll use a digital board to create a sketch of a new claim status tool: a colleague will draw or write your comments on the board. 
+-   We'll use a digital board to create a sketch of a new claim status tool: Kevin will draw or write your comments on the board. 
 
--   Again, please note that we're not testing you in any way and that there are no right or wrong answers here.
-
--   If for any reason you want to stop the session, please let me know.
+-   If you have any questions, or if for any reason you want to stop the session, please let me know.
 
 -   Do you have any questions so far?
 
--   Are you comfortable if I record my screen and audio as we talk today? (We use the recordings only for our research, and none of your comments will be attributed to you directly.)
+-   Are you comfortable if I record my screen and audio as we talk today? (We use the recordings only for our research, and none of your comments will be attributed     to you directly.)
 
--   If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 Start recording.
 
@@ -67,17 +64,19 @@ Start recording.
 Warm-up Questions - 5 to 10 minutes
 -----------------------------------
 
-Before we start the activities I mentioned, I'd like to ask a few questions about how you use VA.gov and the pages where you can check the status of your claims and appeals.
+I'd like to begin with asking a few questions about how you use VA.gov and the pages where you can check the status of your claims and appeals.
 
--   Do you remember the last time you visited VA.gov? 
+-   When was the last time that you visited VA.gov? 
 
 -   Do you remember what you were doing on the site?
 
--   How was that experience?
+-   Did you accomplish what you came to the site to do? 
+
+If not - why? 
 
 -   Have you filed for a claim on VA.gov? 
 
--   If yes, how was that process? 
+If yes, how was that process? 
 
 -   How long did you wait for a claim decision to be made? 
 
@@ -85,19 +84,17 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
 
 -   Do you have someone assisting you in the claim process?
 
-Kevin will now share his screen with you, and show you a tool to check the status of a claim, that we call the Claim status tool.
+Kevin will now share his screen with you, and show you the current Claim status tool on VA.gov.
 
-KEVIN SHARE SCREEN
+KEVIN SHARES SCREEN
 
--   Did you use this tool on VA.gov to check the claim?
+-   Did you use this tool on VA.gov to check your claims or appeals?
 
 If Yes,  
 
--   What were you doing the last time you came to this tool?
+-   What exactly were you doing the last time you used this tool?
 
--   Did you accomplish what you came to do? 
-
-If not - why?
+-   Did you accomplish what you came to do? If not - why? 
 
 -   Overall, how was the experience using this tool?
 
@@ -105,11 +102,13 @@ If No,
 
 -   The intent of this tool is to provide a place for Veterans to check what's going on with a claim they have currently in process. 
 
-We will now move on to an activity where we will have you design your ideal tool for this purpose.
+Show claim status tool.
 
 (Note to the moderator, this should move on after participant glances at the tool for 1 minute or so, we don't want to bias them by having them explore it in detail.)
 
 -   Great! Thanks for sharing that with me. Now, let's get started with the collaborative activity. 
+
+We will now move on to an activity where we will have you design your ideal claim status tool.
 
 
 Collaborative design activity: 
@@ -120,50 +119,45 @@ Task 1: Create and Review Items - 15 minutes
 
 Begin screen sharing
 
--   Can you see my screen? Good. This is a tool called Mural, and we'll use this to sketch a new claim status tool based on your comments. 
-For this exercise, let's imagine that anything is possible, allow yourself to think about anything and everything that would be helpful for you to have in a claim status tool. Feel free to suggest any designs, features, and possibilities here. 
+-   (Can you see my screen? Good.) This is a tool called Mural, and we'll use this to sketch a new claim status tool based on your comments. 
+For this exercise, let's imagine that anything is possible, allow yourself to think about anything that would be helpful for you in such a tool. 
+Lets put all limitations to the side for this exercise. Feel free to suggest anything you would want to be able to do and see in such a tool. 
 
--   I've created sticky notes for us to get started, and a few outlines that represent pages in the tool. Feel free to ask us to create as many sticky notes and as many pages as you want. 
+-   We've created sticky notes for us to get started, and a few outlines that represent pages in the tool. Feel free to ask us to create as many sticky notes and as many outlines of pages as you want. 
 
 -   First, we'll use the stickies to create items to include in the tool. Then, we'll organize them on a page, in a way that would be the most useful to you. 
 
--   Let's create stickies now for the items that are most important for you to see when you log in to your personalized claim status tool. (It'll be helpful if you can also talk about why each item is important to you.)
+-   Let's create stickies now of items that are most important for you to see when you log in to your claim status tool.
 
--   What information (and features and functionalities) would you want to see when you first log in to your claim status tool? 
+(It'll be helpful if you can also talk about why each item is important to you.)
 
-(If participant hesitates: Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?  Would stickies around those actions be a good place to start?)
+-   What would you like to be able to do within such a tool? 
+-   What information would you want to see in your claim status tool? 
+-   What info, features, functionalities would be most useful to you?
+-   What features and functionalities would you like to add, if anything was possible?  
 
-Create sticky notes with each item.
+(If participant hesitates: Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?)
+
+Create sticky notes with each item. 
 
 -   Can you share details on why that's important to you?
-
 -   What actions did you take when you looked at that in the past?
 
 Help participants make any items that are too broad more specific.
 
--   What do you want to see in a claim status tool?
-
--   What do you want to be able to do in a claim status tool?
-
--   What info, features, functionalities would be most useful to you?
-
 -   How would you use these features? 
-
 -   What specific details are you looking for in a claim status tool.
-
 -   Why are those things the most helpful for you? Please elaborate.
-
--   more
-
--   more?
 
 How would it be different if this tool was personalized for you? 
 
--   Okay, I'd like to show you some other stickies we made ahead of time. Are any of these interesting to you, and why?
+
+Okay, I'd like to show you some other stickies we made ahead of time. Are any of these interesting to you, and why?
 
 -   Take a moment to review them, and think out loud as you do - how do these resonate with you?
 
-Allow participants to review stickies and encourage them to verbalize their thoughts as they do so.
+
+Allow participants to review 6-8 stickies and encourage them to verbalize their thoughts as they do so.
 
 -   Are there any items missing that would be valuable to you? We can go ahead and add them.
 
@@ -172,15 +166,10 @@ Allow participants to review stickies and encourage them to verbalize their thou
 ### Things to watch for:
 
 -   How confident is the participant when listing the items they'd want to see?
-
 -   How does the participant respond to "why" each item is important?
-
 -   What details did the participant give about info they expect to see in an item?
-
 -   How did the pre-populated stickies resonate with the participant?
-
 -   Which items are the participant most confident they'd be interested in?
-
 -   Any mention of notifications or updates?
 
 Task 2: Organize the Items - 15 minutes

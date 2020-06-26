@@ -140,7 +140,7 @@ Design
   - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
-- Build - Sub nav updates
+- Build - Mobile nav updates
 - Build - Review build pre-QA
 - Pre-launch - Update relevant parts of the product outline/project folder
   - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
@@ -173,7 +173,8 @@ PM
 - Call center - Request contact center review
 
 Dev
-- Testing - Determine what we need re: E2E testing, load testing, unit testing
+- Testing - Integration testing
+- Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing)
 - Testing - Implement/run tests we determine we need
 
 Platform

@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: IN PROGRESS**
+**STATUS: COMPLETE**
 
 **Team:** VSA - Authenticated Experience
 
@@ -16,7 +16,8 @@
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach** <Br>
-- The profile page(s) will live behind authentication and URLs should be short and succinct, but still understandable (i.e. no abbreviations or shortened words)
+- The profile page(s) will live behind authentication
+- URLs do not need to be SEO optimized, and can be a bit shorter and less descriptive but should still be readable and understandable - no abbreviations or shortened words
 - Each page of the profile will be represented as a separate page with a separate URL and breadcrumb. This help us to:
   - deep link into specific content within profile (i.e. direct link to direct deposit)
   - provide left navigation for users to navigate between sections of profile
@@ -25,13 +26,22 @@
 
 ![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6c747a78-4777-4d0a-a642-0f89582d4018)
 
+**User Flows** <br>
+- If an unauthenticated users attempts to directly access any page within the /profile tree, they will initially be sent through the sign in process
+- Once a user is authenticated, if they have not verified their account, they will be taken to the /profile/account-security page, they will not be able to access any other profile features/pages until they verify their account
+- Once a user is authenticated and their account is verified, they will be taken to the originally requested page
 
-Page | URL | Breadcrumb | Notes
+![image](https://user-images.githubusercontent.com/20994159/85774448-79c56600-b6e4-11ea-950c-fcf81eabf08f.png)
+
+
+**Page Structure** <br>
+
+Page | URL | Breadcrumb | Page Requirements/Notes
 --- | --- | --- | ---
-Profile - Contact Information (default page) | www.va.gov/profile  | Home > Your profile  | 
+Profile - Contact Information (default page) | www.va.gov/profile  | Home > Your profile  | This is the default page of Profile. 
 Profile - Military Information | www.va.gov/profile/military-information | Home > Your profile > Military information | 
 Profile - Direct Deposit Info | www.va.gov/profile/direct-deposit | Home > Your profile > Direct deposit information | 
-Profile - Account Security | www.va.gov/profile/account-security | Home > Your profile > Account security | *Need to discuss scenario where breadcrumb and left nav are removed in prototype*
+Profile - Account Security | www.va.gov/profile/account-security | Verified acct: Home > Your profile > Account security <br> Non-verified acct: Home > Your profile - Account security| Note that there are 2 variations of the breadcrumb for this page.  For users who have not verified their account, this is the only page in Profile they can access and the breadcrumb should remove their ability to click on the main "profile" option.  In this scenario, all other options should be hidden on the left nav as well. 
 Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profile > Connected apps |
 
 
@@ -43,8 +53,8 @@ Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profi
 Priority | Placement | Link to | Description
 --- | --- | --- | ---
 Must | Header | www.va.gov/profile  | Keep existing link
-Must | Header | Account - REMOVE LINK | Remove the "Account" option from the drop list under the user's name.
-Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, they should be sent directly to the direct deposit page within profile. 
+Must | Header | Account - REMOVE LINK | Remove the "Account" option from the drop list under the user's name. This URL will need to be redirected, see section below. 
+Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, and verified their account (if applicable), they should be sent directly to the direct deposit page within profile. 
 
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 

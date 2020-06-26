@@ -6,42 +6,46 @@
 
 ## Why we're here
 
-### North Star:
-_Placeholder -  still drafting team North Star after Discovery Sprint completes_
+### Executive Summary:
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows. 
+
+### North Star: _Placeholder - still drafting during Discovery Sprint_
+
+- Increase availability of self-service tools
+	- At a minimum, we will 
+    
+- Decrease time to outcomes
+    	
+	- At a minimum, we will 
+
+-   Maximize satisfaction, reliability, availability, & security
+    	
+	-   At a minimum, we will 
+
 
 ### Product Suite (if applicable): 
-Health Care - Veteran (person/consumer of health) Experience 
+Healthcare Experience - Veteran (person/consumer of health) 
 
 ### Team Mission Statement:
-_Placeholder - still drafting team North Star after Discovery Sprint completes_
+_Still drafting during Discovery Sprint_
 
 ### Product Portfolio:
-Healthecare - Questionnaires/Intake forms
-
-### Responsibilities:
-Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
-
-
-### Roadmap:
-[Questionnaires 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
+ 1. Healthecare - Questionnaires/Intake forms
+ 	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
+ 2. _coming soon_ 
+ 3. _coming soon_ 
 
 ---
 
 ## Who we are
 
-### Team Members:
-<img src="https://lh3.googleusercontent.com/yEYpEU6gRMAEs8J7G4S5aJDM6c47XZnSKV4kH9tBub6QeoZrKOK3b7ea6vfbEsX56RFJSlXbgDuTt4ACjypYRc-IYt3DLLFEv165M9EqCBk4uCzARnz8z3z7CIzXUtLGc-8NLC-n" width="75" align="center"> [Lacey Higley](mailto:lacey.higley@va.gov) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U5HMZDQSK)  ⋅ Lead DEPO, Product Owner   
-<img src="https://lh4.googleusercontent.com/YkTnWk5XfEqpc813iqNt1zF0MfY6bWRzKVy5OJ91mM8XkDyCY0VuaCRArqH1i015KIOIzWQXCxUvkjymvRjN6Kd4N7EWGl1e2FfwJWkIvXEEFsE1b5Ijk2Z-pLd62d8vD02Gp_cQ" width="75" align="center">  [Lauren Alexander](mailto:lauren.alexander@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U772MC9BQ)  ⋅  DEPO, Healthcare product design & research (and recruiting)  
-<img src="https://lh5.googleusercontent.com/RZ-MWIluSDZ8Tf4bzXoCRFUDVW3MDipEmae_ZZ5STSl17kTexnHbAKsrNJf00gzgBPOqDhsq7DDX2-sCRZJ7TA6gsHhSwwUGGw5U2rkILMMLwddX4nxaNwdzGLXJYSrU9RTvZ43v" width="75" align="center">  [Patrick Bateman](mailto:patrick.batmean@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UFN410MGF)  ⋅ DEPO, Healthcare product    
-<img src="https://lh3.googleusercontent.com/st-rQsCQ5LXhoL_JmdoVzPq1QXJhcaELNIg2dp5DoCrrDuNFJ-q76nbzLDqlg7vcEN-N08jCCOrj9ogVdKz-5pZPc6Vb3vHRLqLKPEZIgCxJZ6M9G_226hkiMDNEM0OgBctmHWU0" width="75" align="center"> [Stephen Barrs](mailto:stephen.barrs@va.gov) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/ULY2TEZUK)  ⋅ DEPO, Engineering owner
-
-<img src="https://lh4.googleusercontent.com/1HBMc99-fsL-KpHdwWYAnFhJG4Z80lsOlqEiiqN6dFEDKBqNax34Z3ZaP_V_bK3b1ZXzsEXDDj6QVz2grsAfUFxgIT3wS7-7eZ-ojrxEXoRgjvxxsalbhWanQ0JBVGklgp77kduO" width="75" align="center">  [Mickin Sahni](mailto:mickin@adhocteam.us)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UM3N189N1)  ⋅ VSA, Product Lead     
-<img src="https://lh3.googleusercontent.com/TjXXaMnd3Gpjp7AShuit4-wyhZpUGGRaAzp_qnAikGujhghf4-hYLEQiSMsGYPsq91E-ktzwb-km5t6eKB2iDCGqN4IFQToWbjiZr5H5f973xAmi_LViPV12g2z03wAO5NkZha6y" width="75" align="center">  [Amanda Buckley](mailto:abuckley@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U014RV5S6KS) ⋅ VSA, Sr. Product Manager   
-<img src="https://lh3.googleusercontent.com/8nQglVLUIv9kdIKlmEpfQv93Wd0Z_-iVeN7-UxbmhLUkk-bHp9CP12WdGQ1tnQcehuSImu1gnMmUFq-gVuJb3I7AhYLaXNA4Y34-Ki1DeXv7JW7d3f-C_uVLuR3OQiYXGx2I6jo2" width="75" align="center">  [Mark Dewey](mailto:mdewey@governmentcio.com)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U013MC4ULCX)⋅  VSA, Front End Engineer   
-<img src="https://lh4.googleusercontent.com/4S1EMc9Z3d0iuPHeazuS-3Y4WzOww35qSrqHyuzbkmiv3cny1aLbh7EkSa25LPWLgnRbbm1t77XgdDstDHzEmSDLoLcmxJISHduCtrfUBaEytr9h2rrE3A6EJn57iYgkN66JrK7e" width="75" align="center">  [Lance Sanchez](mailto:osanchez@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UQ2PHQRPU) ⋅ VSA, Back End Engineer    
-<img src="https://lh6.googleusercontent.com/4i49We4E-9pjbnh75awXGfKVddcI-bmvNhkrswTLDf_m3iTIhAC2F5hjlYpiME9HTpWWywEMkTfWnVGbqplTrPtEKt9EkowNVqDGlh1D40_mCzNvFEzOWXArOZuc7kjblwfGe1_D" width="75" align="center">  [Aricka Lewis](mailto:aricka@adhocteam.us) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UMECKSJ8K) ⋅ VSA, Designer/Researcher
-
-VSA, BE Engineer (Temp) – Still hiring the full-time BE engineer
+Healthcare Experience Team | name ⋅  email ⋅ slack ⋅  role  
+----- | --------- |
+<img src="https://lh3.googleusercontent.com/yEYpEU6gRMAEs8J7G4S5aJDM6c47XZnSKV4kH9tBub6QeoZrKOK3b7ea6vfbEsX56RFJSlXbgDuTt4ACjypYRc-IYt3DLLFEv165M9EqCBk4uCzARnz8z3z7CIzXUtLGc-8NLC-n" width="75" align="center"> [Lacey Higley](mailto:lacey.higley@va.gov) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U5HMZDQSK)  ⋅ Lead DEPO, Product Owner   |   <img src="https://lh5.googleusercontent.com/RZ-MWIluSDZ8Tf4bzXoCRFUDVW3MDipEmae_ZZ5STSl17kTexnHbAKsrNJf00gzgBPOqDhsq7DDX2-sCRZJ7TA6gsHhSwwUGGw5U2rkILMMLwddX4nxaNwdzGLXJYSrU9RTvZ43v" width="75" align="center">  [Patrick Bateman](mailto:patrick.batmean@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UFN410MGF)  ⋅ DEPO, Product Owner
+<img src="https://lh4.googleusercontent.com/YkTnWk5XfEqpc813iqNt1zF0MfY6bWRzKVy5OJ91mM8XkDyCY0VuaCRArqH1i015KIOIzWQXCxUvkjymvRjN6Kd4N7EWGl1e2FfwJWkIvXEEFsE1b5Ijk2Z-pLd62d8vD02Gp_cQ" width="75" align="center">  [Lauren Alexander](mailto:lauren.alexander@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U772MC9BQ)  ⋅  DEPO, Product Owner | <img src="https://lh3.googleusercontent.com/st-rQsCQ5LXhoL_JmdoVzPq1QXJhcaELNIg2dp5DoCrrDuNFJ-q76nbzLDqlg7vcEN-N08jCCOrj9ogVdKz-5pZPc6Vb3vHRLqLKPEZIgCxJZ6M9G_226hkiMDNEM0OgBctmHWU0" width="75" align="center"> [Stephen Barrs](mailto:stephen.barrs@va.gov) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/ULY2TEZUK)  ⋅ DEPO, Engineering owner
+<img src="https://lh4.googleusercontent.com/1HBMc99-fsL-KpHdwWYAnFhJG4Z80lsOlqEiiqN6dFEDKBqNax34Z3ZaP_V_bK3b1ZXzsEXDDj6QVz2grsAfUFxgIT3wS7-7eZ-ojrxEXoRgjvxxsalbhWanQ0JBVGklgp77kduO" width="75" align="center">  [Mickin Sahni](mailto:mickin@adhocteam.us)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UM3N189N1)  ⋅ VSA, Product Lead     | <img src="https://lh3.googleusercontent.com/TjXXaMnd3Gpjp7AShuit4-wyhZpUGGRaAzp_qnAikGujhghf4-hYLEQiSMsGYPsq91E-ktzwb-km5t6eKB2iDCGqN4IFQToWbjiZr5H5f973xAmi_LViPV12g2z03wAO5NkZha6y" width="75" align="center">  [Amanda Buckley](mailto:abuckley@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U014RV5S6KS) ⋅ VSA, Sr. Product Manager   
+<img src="https://lh3.googleusercontent.com/8nQglVLUIv9kdIKlmEpfQv93Wd0Z_-iVeN7-UxbmhLUkk-bHp9CP12WdGQ1tnQcehuSImu1gnMmUFq-gVuJb3I7AhYLaXNA4Y34-Ki1DeXv7JW7d3f-C_uVLuR3OQiYXGx2I6jo2" width="75" align="center">  [Mark Dewey](mailto:mdewey@governmentcio.com)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U013MC4ULCX)⋅  VSA, Front End Engineer   | <img src="https://lh4.googleusercontent.com/4S1EMc9Z3d0iuPHeazuS-3Y4WzOww35qSrqHyuzbkmiv3cny1aLbh7EkSa25LPWLgnRbbm1t77XgdDstDHzEmSDLoLcmxJISHduCtrfUBaEytr9h2rrE3A6EJn57iYgkN66JrK7e" width="75" align="center">  [Lance Sanchez](mailto:osanchez@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UQ2PHQRPU) ⋅ VSA, Back End Engineer    
+<img src="https://lh6.googleusercontent.com/4i49We4E-9pjbnh75awXGfKVddcI-bmvNhkrswTLDf_m3iTIhAC2F5hjlYpiME9HTpWWywEMkTfWnVGbqplTrPtEKt9EkowNVqDGlh1D40_mCzNvFEzOWXArOZuc7kjblwfGe1_D" width="75" align="center">  [Aricka Lewis](mailto:aricka@adhocteam.us) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UMECKSJ8K) ⋅ VSA, Designer/Researcher| VSA, BE Engineer (Temp) – Still hiring the full-time BE engineer
 
 
 ---
@@ -64,22 +68,31 @@ Outline work to be done this sprint in order to accomplish the team's goals
 - Monday before the start of each sprint @10AM cst
 - 1 hour
 
-
-#### Retro
-Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
-
-
-- Following Sprint Planning each sprint 
-- 30 min
-- [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
-- [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
-- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
-
 #### Grooming
 Assess and update workload for remainder of sprint
 
 - 2nd Wednesday of every sprint
 - 1 hour
+- [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
+
+##### Issue Estimates
+
+| Point | Task Size | Approx Days | Description |
+|-|-|-|-|
+| 1 | Easy  | ~1-2 | Work is known, can be executed quickly |
+| 2 | Small  | ~3-5  | Work is known and can be completed in half a sprint |
+| 3 | Large | ~6-8  | Work is known and can be completed in less than one sprint |
+| 5 | XLarge  | ~10 | Work is known and can be completed in one sprint sprint |
+| 8 | XLarge  |  | Work is complex and/or there are unknown factors that need to be discussed prior to planning. Once further information is known, the work should be broken down into smaller tasks that can be completed in a sprint. |
+| 13 | XXLarge |  | Very complex, needs discovery or prototype before it can be planned for a sprint. |
+
+#### Retro
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
+
+- Following Sprint Planning each sprint 
+- 30 min
+- [Retro meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/README.MD)
+- [FunRetro board](https://funretro.io/publicboard/4jDNHWIHteeHmFUUN8G6lt30KuJ3/8f06df19-f2a4-491f-bc56-7b678c4f53f7)
 - [Zenhub: vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
 
@@ -92,4 +105,5 @@ Assess and update workload for remainder of sprint
 [#vsa-clipboard](https://dsva.slack.com/archives/C0136TS768M)
 
 #### GitHub
-[products/healthcare/questionnaires/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)
+- [products/healthcare/questionnaires/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire)
+- [Zenhub label - vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)

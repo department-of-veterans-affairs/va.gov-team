@@ -2,6 +2,15 @@
 
 ## mm/dd/yy
 
+
+## 06/25/20
+
+__Decision: FE approach__
+
+Per decision in [ticket 10414](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10414#issuecomment-649746714), we will use the standard CMS static approach for the form detail frontend. 
+
+
+
 ## 06/23/20
 
 **Form detail landing page CMS AX validation**
