@@ -1,0 +1,24 @@
+# **VSP Product User Guide Template**
+
+### What is it?
+
+*Explain how this product will benefit VFS teams*
+
+### How does it work?
+
+*Describe how the product will impact VFS teams workflow*
+
+------
+
+### Product documentation
+
+*Add links to supporting documentation*
+
+------
+
+### Point of contact
+
+*Explain where VFS teams should go to ask questions about this product.*
+
+
+
