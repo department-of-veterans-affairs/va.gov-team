@@ -66,11 +66,13 @@ Warm-up Questions - 5 to 10 minutes
 
 I'd like to begin with asking a few questions about how you use VA.gov and the pages where you can check the status of your claims and appeals.
 
--   Do you remember the last time you visited VA.gov? 
+-   When was the last time that you visited VA.gov? 
 
 -   Do you remember what you were doing on the site?
 
--   How was that experience?
+-   Did you accomplish what you came to the site to do? 
+
+If not - why? 
 
 -   Have you filed for a claim on VA.gov? 
 
@@ -104,10 +106,9 @@ Show claim status tool.
 
 (Note to the moderator, this should move on after participant glances at the tool for 1 minute or so, we don't want to bias them by having them explore it in detail.)
 
-We will now move on to an activity where we will have you design your ideal claim status tool.
-
 -   Great! Thanks for sharing that with me. Now, let's get started with the collaborative activity. 
 
+We will now move on to an activity where we will have you design your ideal claim status tool.
 
 
 Collaborative design activity: 
@@ -120,21 +121,19 @@ Begin screen sharing
 
 -   (Can you see my screen? Good.) This is a tool called Mural, and we'll use this to sketch a new claim status tool based on your comments. 
 For this exercise, let's imagine that anything is possible, allow yourself to think about anything that would be helpful for you in such a tool. 
-Feel free to suggest anything you would want to be able to do and see in such a tool. Lets put all limitations to the side for this exercise. 
+Lets put all limitations to the side for this exercise. Feel free to suggest anything you would want to be able to do and see in such a tool. 
 
 -   We've created sticky notes for us to get started, and a few outlines that represent pages in the tool. Feel free to ask us to create as many sticky notes and as many outlines of pages as you want. 
 
 -   First, we'll use the stickies to create items to include in the tool. Then, we'll organize them on a page, in a way that would be the most useful to you. 
 
--   Let's create stickies now of items that are most important for you to see when you log in to your claim status tool. 
+-   Let's create stickies now of items that are most important for you to see when you log in to your claim status tool.
+
 (It'll be helpful if you can also talk about why each item is important to you.)
 
 -   What would you like to be able to do within such a tool? 
-
 -   What information would you want to see in your claim status tool? 
-
 -   What info, features, functionalities would be most useful to you?
-
 -   What features and functionalities would you like to add, if anything was possible?  
 
 (If participant hesitates: Think about the last time you were wondering about the status of your claims. What were you hoping to get information on?)
@@ -142,15 +141,12 @@ Feel free to suggest anything you would want to be able to do and see in such a 
 Create sticky notes with each item. 
 
 -   Can you share details on why that's important to you?
-
 -   What actions did you take when you looked at that in the past?
 
 Help participants make any items that are too broad more specific.
 
 -   How would you use these features? 
-
 -   What specific details are you looking for in a claim status tool.
-
 -   Why are those things the most helpful for you? Please elaborate.
 
 How would it be different if this tool was personalized for you? 
@@ -161,7 +157,7 @@ Okay, I'd like to show you some other stickies we made ahead of time. Are any of
 -   Take a moment to review them, and think out loud as you do - how do these resonate with you?
 
 
-Allow participants to review stickies and encourage them to verbalize their thoughts as they do so.
+Allow participants to review 6-8 stickies and encourage them to verbalize their thoughts as they do so.
 
 -   Are there any items missing that would be valuable to you? We can go ahead and add them.
 
@@ -170,15 +166,10 @@ Allow participants to review stickies and encourage them to verbalize their thou
 ### Things to watch for:
 
 -   How confident is the participant when listing the items they'd want to see?
-
 -   How does the participant respond to "why" each item is important?
-
 -   What details did the participant give about info they expect to see in an item?
-
 -   How did the pre-populated stickies resonate with the participant?
-
 -   Which items are the participant most confident they'd be interested in?
-
 -   Any mention of notifications or updates?
 
 Task 2: Organize the Items - 15 minutes
