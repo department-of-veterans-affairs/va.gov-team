@@ -12,11 +12,11 @@ Liz Lantz, Public Websites, June 2020
 
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-   When the new VA.gov was launched, a tiered content framework was created to prioritize content transition.  Tier 1 content (benefit content and tools) was brought into the VA.gov site experience first. The Tier 1 migration is nearly complete, and we are beginning to address migrating the tremendous amount of Tier 2, benefit-adjacent content (for beneficiaries, and people who work with beneficiaries).
+   When the new VA.gov was launched, Veteran-facing benefit information was brought into the VA.gov site experience first; there wasn't a clear delineation of what was directly 'getting/managing a benefit' content vs. 'benefit-adjacent' content. Anything that was Veteran-facing was brought over. As more and more Veteran-facing content got added to the hubs, we needed a tiered content framework to ensure that the benefit hubs don't become 'an everything' hub, making it harder to find top task Veteran-facing benefit content in the benefit hubs. Tier 1 content (content and tools for getting/managing a benefit) is nearly complete, and we are beginning to address migrating the tremendous amount of tier 2 benefit-adjacent content for beneficiaries, and people who work with beneficiaries. 
 
    The Learning Center MVP is designed to support the following goals:
 
-   - Help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX.  
+   - Help Veterans find Tier 2 content in a way that doesn't dilute, distract, and clutter Veterans' benefit top task content and UX. 
 
    - Increase self-service for Veterans, and those who support them, when they have questions about benefits or need to troubleshoot VA account problems.
 
@@ -25,9 +25,10 @@ Liz Lantz, Public Websites, June 2020
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
    - Is the information easy to find using this search-focused, tag-based navigation?
-   - Are the template labels (ex: FAQs, Checklist, Media List) useful to users?
-   - What do users see as the difference between the learning center and overall site search?
+   - Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful to users?
+   - What do users see as the difference between the learning center search and overall site search?
    - Do users get confused if they don't find something in the benefit hub and they have to go to the learning center?
+   - Do users get confused if they click on a content link or CTA button in the learning center and it takes them to a benefit hub page? And vice versa? 
    - Do users understand that information they don't find in the learning center might be in the benefit hub?
    - Where would the most useful place be to provide links to the Learning Center?
    - Is the proposed IA (taxonomy, categorization, labels, nomenclature) effective for Veterans and those who support Veterans?
@@ -36,8 +37,8 @@ Liz Lantz, Public Websites, June 2020
 
    - Users will easily understand how to use the search functionality.
    - Template labels will help users determine which search result is most relevant to their search.
-   - Users will be unclear about when to use the Learning Center over global site search.
-   -  Users won't explicitly differentiate between the benefit hub and the Learning Center; they'll default to using overall site search if they can't find what they're looking for in either place.
+   - Users will understand the difference between the Learning Center search and global site search.
+   - Users won't explicitly differentiate between the benefit hub and the Learning Center; they'll default to using overall site search if they can't find what they're looking for in either place.
    - Our proposed IA will be effective for Veterans and those who support Veterans.
 
 ## Method	
@@ -112,7 +113,7 @@ Liz Lantz, Public Websites, June 2020
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   July 6, Nick Sullivan or Kelson Adams
+   July 6, Nick Sullivan, Kelson Adams, or Jen Lee
 
 ## Team Roles	
 
@@ -140,7 +141,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
   - Beth Potts (beth.potts@va.gov)
 
-  - John Hashimoto ()
+  - John Hashimoto (John.Hashimoto@va.gov)
 
   - Kelson Adams ()
 
@@ -161,6 +162,18 @@ Please list the people who will be serving in each role. **Include the primary p
   - Anne Hurley
 
   - Steve Wirt
+  
+  - Jeff Barnes (Jeffrey.Barnes4@va.gov)
+  
+  - Chris Johnston Christopher.Johnston2@va.gov)
+  
+  - Lauren Alexanderson (Lauren.Alexanderson@va.gov)
+  
+  - Meg Peters (Meg.Peters@va.gov)
+  
+  - Martha Wilkes (Martha.Wilkes@va.gov)
+  
+  - Dave Conlon (David.Conlon@va.gov)
 
     
 
