@@ -22,7 +22,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 </details>
 
-<details> <summary>Increase in accuracy of health information that viewable by the Veteran care team, by having an easy to use form entry tool. </summary> 
+<details> <summary>Increase in accuracy of health information that is viewable by the Veteran care team, by having an easy to use form entry tool. </summary> 
 
 - Reduce data entry duplication and user errors by populating the forms with the Veterans past medical history. 
 - Reduce data entry by providing the Veteran ability to review and update changes in their health history to be integrated into the care team system.
@@ -45,7 +45,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 </details>
 
-<details> <summary>Improve the Veteran/Caregiver experience with the VA as they will have more time to discuss the health plan and goals with thier care team vs. data entry</summary> 
+<details> <summary>Improve the Veteran/Caregiver experience with the VA as they will have more time to discuss the health plan and goals with their care team vs. data entry</summary> 
 
 - reduce the feeling of the impersonal clipboards, ipads, and clunky kiosks  by providing the veterans the option of using their personal device of choice on their own time
 - increase the number of forms completed before a visit  by providing an unauthenticated experience (Eliminate usernames and passwords)
@@ -55,7 +55,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 </details>
 
-<details> <summary>Increase the employee care team productivity and satisfaction by spending less time transferring veteran-provided data from one medium (paper, iPads) to the electronic health record systeam</summary> 
+<details> <summary>Increase the employee care team productivity and satisfaction by spending less time transferring veteran-provided data from one medium (paper, iPads) to the electronic health record system</summary> 
 
 - _fill in description here_
 
@@ -69,14 +69,14 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
        
 <details> <summary>Increase the adoption of other VA services offered on va.gov to improve the Veterans health and wellness</summary> 
 
-- Once the Veteran has completed a digital intake form the workflow can auto direct them to other ares on the portal or va.gov site they might not know is available. ie education/health records/events.
+- Once the Veteran has completed a digital intake form the workflow can auto direct them to other areas on the portal or va.gov site they might not know is available. ie education/health records/events.
 - Increase the Patient Experience "satisfaction ratings" with Veteran facing solutions.
 
 </details>
 
 <details> <summary>Increase in employee productivity by reducing data entry of Veteran provided information into the system</summary>
  
-- Save employeee resourcing costs as they will be able to see more patients or complete other activities related to the patient care.
+- Save employee resourcing costs as they will be able to see more patients or complete other activities related to the patient care.
 	- Increasing the patient and care team experience 
 - Decrease the time it takes during a visit as care team employees will not have to ask and document the same questions the Veteran just filled out on the form
 	- Increasing the time they can focus on the Veterans plan of care
@@ -89,18 +89,18 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 <details> <summary>Increase in the accuracy of Veteran reported health information, by consolidating the number of [XXX] forms and questions across facilities and encounter type ensuring consistency in care and outcomes</summary>
 
 - Reduction in the many types of forms in different formats/delivery methods that Veterans are asked to complete. 
-- Veterans will consistently be asked the same question in a discrete ways across VA facilities so the information can be shared across encounters/visits and used in analytics/intelligence engines.
+- Veterans will consistently be asked the same question in a discrete way across VA facilities so the information can be shared across encounters/visits and used in analytics/intelligence engines.
 
 </details>
 
 
 <details> <summary>Increase safety of employees and veterans by encouraging physical distancing, allowing use of personal digital devices to complete forms</summary>
  
-- Reduce the safety risk of transmitting infections diseases from pen and paper to patients and employees.
+- Reduce the safety risk of transmitting infectious diseases from pen and paper to patients and employees.
     - Veterans will not have to touch any facility devices or clipboards that are shared by other patients and employees. 
     - Reduce expenses (employee time and materials) as the need to disinfect after each use will be eliminated. 
 - Reduce the safety risk of transmitting infections diseases from the veteran entering the facility too early and sitting in the waiting room.
-    - Veterans will not be in close proximity to to other patients and employees waiting for their appt. and can comfortably wait in their car to be notified to enter at the appropriate time.
+    - Veterans will not be in close proximity to other patients and employees waiting for their appt. and can comfortably wait in their car to be notified to enter at the appropriate time.
 
 </details>
 
@@ -117,7 +117,7 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 <details> <summary>Reduce facility wait times and length of visit time by reducing the number of tasks a veteran must complete within a facility</summary>
 
 - Decrease the length of time for a visit by avoiding handwriting and integrating Veteran health information discretely into the EHR
-- Veterans may struggle to write legibly on paper forms can be hard to read for the employeee clinical team requiring them to confirm and ask the same questions so they can document in to the system.
+- Veterans may struggle to write legibly on paper forms can be hard to read for the employee clinical team requiring them to confirm and ask the same questions so they can document into the system.
 - Implementing the use of digital check in, will save time by providing accurate ready to be seen indicators to the the care team
 	- The employee care team can avoid waiting on Veterans that haven't finished their intake forms and check-in ahead of the appointment time. (need acceptable window from facility to allow "virtual" checkin)
 
