@@ -5,10 +5,10 @@
 
 ### Planning:
 - Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: x
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- Desired number of users: 10 users
+- How you'll recruit the right production test users: We will recruit users via Perigean
+- How you'll conduct the testing: We will share screen with users and ensure the different features work correctly
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will have a feature flag turn it on for certain users based on their log-in email address.
 
 ### Results:
 - Number of users: x
@@ -20,25 +20,7 @@
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
-### Do I need a staged rollout?
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-* This change does not add substantial new functionality to VA.gov
-* This change does not impact user flows through tasks
-* This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
 
 #### Exceptions
 
