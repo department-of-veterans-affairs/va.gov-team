@@ -29,15 +29,15 @@
 ## June 26th, 2020
 
 **Status**
-- Sprint 25 Backlog Grooming 
 - Facilitate and summarize feedback from [Veteran Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/participant-notes/participant-list.md)
-	- _Plan for another Discovery Sprint based on Veteran feedback todate being they do not fill out paper or digital questions in preparation for a visit_
+	- _Consider Planning for another Discovery Sprint based on Veteran feedback todate being they do not fill out paper or digital questions in preparation for a visit_
 		- See blocker #10219 - current state workflow as we need clinical insites on current and ideal workflow to move forward based on learnings from research.
 - Continued Exploratory tech investigation into Identity, Profile and FHIR API (ie. Medications) and forms prototype with pre-populating Veteran information. 
 
 - Next Step/Followup:
 	- Determine if more Veteran interviews are needed due to No Shows/Cancelations - recived 3 more for Friday.
 	- Research findings report/insights - _Aricka & Amanda_
+	- Sprint 25 Backlog Grooming moved to next week due to full schedule on Friday with Veterna sessions. 
 
 **Decisions:**
 
