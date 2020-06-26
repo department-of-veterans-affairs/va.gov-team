@@ -7,14 +7,14 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1. What product & team are you doing this research for?	
    VAOSR on VA.gov
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-   With VAOSR MVP in prod and live since March 2020, it's time to perform another user research and testing with Veterans.
+   With VAOSR MVP in prod and live since March 2020, it's time to perform another round of user research and testing with Veterans.
    This research should focus on areas in the experience that we know (through analytics and user feedback) are confusing or need iteration. Additionally, we want to collect general feedback and requests from Veterans for new VAOSR considerations in the future.
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
    1. Do Veterans understand the login and tool instructions?
    2. Do Veterans understand what they see on the appointments list? Is the appointments list useful to veterans? 
    3. Does the "past appointments" list (new feature) meet veterans' needs?
    4. Are veterans able to cancel appointments? Are veterans having issues when trying to make cancellations? Is the experience of cancelling an appointment what they expect?
-   5. What's impacting "type of care" dropoff?  Does "type of care" offerings meet veterans expectation for online scheduling?
+   5. What's impacting "type of care" dropoff?  Does "type of care" offerings meet veterans' expectation for online scheduling?
    6. What's impacting the high dropoff rate of veterans on the "Facilities" page?
    7. Why are we seeing 10% dropoff rate on 'Select a time/date' calendar page? Is there UX/interaction issues or confusion?
    8. What are veterans expectations for telehealth/video appointments through VAOSR? What are veterans issues for telehealth/video appointments through VAOSR?
@@ -22,7 +22,8 @@ As a designer I need to create a research plan to share with my team.	(This shou
    10. What, if any, messaging options do veterans expect to have available to them while scheduling an appointment online? Who do veterans expect to be able to message with in this scenario?
 4. Hypothesis: What is your hypothesis for this research? 	
    - *DEPO has repeatedly heard from Veteran participants that it is difficult to complete forms online due to certain conditions, which contributes to frustration when trying to complete tasks such as online scheduling*
-   - Users have information overload on VA appointments page
+   - Users have information overload when reading information on [Schedule and View VA Apppointments](https://www.va.gov/health-care/schedule-view-va-appointments/) landing page  
+   - Users have information overload when viewing their VA appointments list page
    - Users have information overload on VA schedule an appointment page
    - Users have information overload/confusion as they are going through the flow to schedule an appointment
      - Users are looking for, but can't find a specific appointment type, either because it is not listed/supported by online scheduling, at that location, or the user has a different name for the appointment type than what is listed
