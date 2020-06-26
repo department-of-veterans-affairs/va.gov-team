@@ -377,15 +377,13 @@ VSP is the core contracting mechanism and team associated with building and runn
 Write as shown. Don’t use WCAG if you’re introducing the term for the first time.
 
 
-##  
-X
+##  X
 
 
 ## Y
 
 
-##  
-Z
+##  Z
 
 
 ### ZenHub
