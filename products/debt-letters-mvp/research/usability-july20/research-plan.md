@@ -1,9 +1,21 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for BAM2, Debt Letters MVP, July 2020
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+
 ## Goals	
 1. What product & team are you doing this research for?	
+    - Debt Letters MVP, BAM2
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+    - The Debt Letters MVP is a congressionally-mandated initiative to provide VA debt letters online. Today, debt letters are delivered by mail and often don't make it into the hands of the Veterans they address. As an initial MVP, the DMC is looking to demonstrate forward progress on this initiative by implementing a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them.
+  
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+  - Generative questions:
+    - What are Veterans' experiences with VA debts?
+    - How would Veterans expect or prefer to be notified of their debts with the VA?
+    - What do Veterans need to know about their debts at any given time?
+    - 
+  - Evaluative questions:
+    - Are Veterans able to locate the VBA Debt Letters MVP through VA.gov's navigation?
+    - Do Veterans understand
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
