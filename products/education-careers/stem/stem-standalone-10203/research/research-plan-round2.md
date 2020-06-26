@@ -16,14 +16,14 @@ To address the above, the STEM Scholarship application was re-designed and teste
   - Do unauthenticated participants know to scroll to the bottom of the intro screen to start the application?
   - Do authenticated participants know to scroll down to the bottom of the intro page to start application?
   - How do non-chapter 33 participants react to the additional (new, benefit-specific) summary page?
-  - How do participants who aren't eligible based on non-STEM program react to eligibility alerts? Would they still want to apply?
+  - How do participants who aren't eligible based on being enrolled in a non-STEM program react to eligibility alerts?
   - Do users have questions surrounding the prefill of school data? (School name, city, state)
   - For ineligible participants, how many say they would still apply? Why?
-  - For ineligible participants, where do they think they should land when they' leave the form on eligibility summaries
+  - For ineligible participants, where do they think they should land when they leave the form on non-eligibility summaries?
   
   Entitlement:
   - Is the entitlement warning alert on the intro page effective at deterring ineligible applicants from beginning the application?
-  - Are entitlement warning alerts effective at deterring ineligible applicants from submitting application [eg. alert on STEM summary page]?
+  - Are entitlement warning alerts effective at deterring ineligible applicants from submitting an application [eg. alert on STEM summary page]?
   - Do applicants expect a grace period (beyond the 6 months)?
   - What, if any, modifications are needed for entitlement check functionality to ensure it is effective?
   
