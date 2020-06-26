@@ -13,23 +13,32 @@ To address the above, the STEM Scholarship application was re-designed and teste
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
+Intro page
   - Do unauthenticated participants know to scroll to the bottom of the intro screen to start the application?
   - Do authenticated participants know to scroll down to the bottom of the intro page to start application?
-  - How do non-chapter 33 participants react to the additional (new, benefit-specific) summary page?
-  - How do participants who aren't eligible based on being enrolled in a non-STEM program react to eligibility alerts?
-  - Do users have questions surrounding the prefill of school data? (School name, city, state)
-  - For ineligible participants, how many say they would still apply? Why?
-  - For ineligible participants, where do they think they should land when they leave the form on non-eligibility summaries?
-  
-  Entitlement:
+
+New entitlement alerts
   - Is the entitlement warning alert on the intro page effective at deterring ineligible applicants from beginning the application?
   - Are entitlement warning alerts effective at deterring ineligible applicants from submitting an application [eg. alert on STEM summary page]?
   - Do applicants expect a grace period (beyond the 6 months)?
-  - What, if any, modifications are needed for entitlement check functionality to ensure it is effective?
+  - What, if any, modifications are needed for entitlement check functionality to ensure it is effective?  
+
+Ineligibility alerts
+  - How do non-chapter 33 participants react to the additional (new, benefit-specific) summary page?
+  - How do participants who aren't eligible based on being enrolled in a non-STEM program react to eligibility alerts?
+  
+Ineligibile applicants
+  - For "ineligible" participants, how many say they would still apply? Why?
+  - For "ineligible" participants, where do they think they should land when they leave the form on non-eligibility summaries?
+
+ Prefilled school data
+ - Do users have questions surrounding the prefill of school data? (School name, city, state)
+
+
   
 
 4. Hypothesis: What is your hypothesis for this research? 	
- - When a user is ineligible, the user will realize or be informed of their ineligibility early in the process and will not want to apply.
+ - When a user is ineligible, the user will realize or be informed of their ineligibility early in the process and will not want to continue the application.
  
 ## Method	
 1.	What method of research are you planning? 	
@@ -39,8 +48,10 @@ To address the above, the STEM Scholarship application was re-designed and teste
   - Researchers need to watch users interact with the form and see their reaction to alerts and content changes to ensure that changes made to the original design are effective.  
 3.	Where are you planning to do your research? 
 - Online using Zoom
+
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 - We will be testing content and flow using high fidelity prototypes
+
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
   - Zoom 
   
@@ -51,23 +62,27 @@ To address the above, the STEM Scholarship application was re-designed and teste
       - 4-5 are currently pursuing an undergraduate degree in Science, Technology, Engineering, or Math (STEM)
       - 2-3 are currently pursuing an undergraduate degree in a non-STEM program
   - 2-3 individuals who are currently using Montgomery GI Bill, Transfer of Entitlement (TOE) or Post-Vietnam Era Veterans' Educational Assistance Program (VEAP)
-      - Individuals are enrolled in a bachelor's program
+      - Individuals are enrolled in an undergraduate degree program
 - Age Range: 18-65
 - Geography: Geographically dispersed across US
-- Gender: Any
-- VA Benefit requirement: None
+- Gender: All
+- VA Benefit requirement: See note above
 - Technology: Access to a computer, preferably running Google Chrome browser 
 - Familiarity with technology: Any
 
 2.	What is your recruitment strategy? 	
 - Recruitment will be performed by Perigean Technologies	
+
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 - July 7 - 9, 2020 	
+
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
 - By COB July 2, 2020
+
 3. Length of Sessions: How long do you estimate each session will be? 	
-- 30 minutes
+- 45 minutes
+
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
 - July 7, 2020 from 8 - 9:30 AM, 10 - 11:30 AM, 12 PM - 1:30PM, 3-4:30 PM
 - July 8, 2020 from 8 - 9:30 AM, 10 - 11:30 AM, 12 PM - 1:30PM, 3-4:30 PM
@@ -85,10 +100,10 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Amy Knox
 - Participant(s) for pilot test:
 - Note-takers: Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
-- Observers: Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com	
+- Observers: Luke Tickner, lucas.tickner@va.gov; Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com	
 
 ## Resources	
-- Project Outline: 	
+- Project Outline: 	https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem
  
 - Convo Guide:
 
