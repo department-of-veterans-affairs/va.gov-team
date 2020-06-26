@@ -102,9 +102,9 @@ Start the education application >> { button }
 
 { end if logged in }  
 
-Respondent burden: **NN minutes**  
-OMB Control #: **NNNN-NNNN**  
-Expiration date: **MM/DD/YYYY**  
+Respondent burden: **5 minutes**  
+OMB Control #: **2900-0878**  
+Expiration date: **06/30/2023**  
 [Privacy Act Statement]()  
 
 ________________________________________
@@ -432,7 +432,7 @@ Bank routing number (*Required) {text field}
 
 Bank account number (*Required) {text field}  
 
-I don’t want to use direct deposit { checkbox }   
+I don’t want to use direct deposit { checkbox } { If checked, Account type, Bank routing number, and Bank account number fields will not be required. }  
 
 **Note:** Any bank account information you enter here will only affect your Rogers STEM Scholarship payments. Updates here will not change accounts on file for your existing VA compensation, pension, education, and health benefits.  
 
