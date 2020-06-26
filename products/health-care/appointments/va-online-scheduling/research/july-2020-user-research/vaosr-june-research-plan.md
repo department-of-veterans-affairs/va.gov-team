@@ -64,13 +64,33 @@ As a designer I need to create a research plan to share with my team.	(This shou
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
    60 minutes (1 hour)
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
-   
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-   Wednesday, 7/1/2020
-      9:00 AM - 12:30 PM EST
-      2:00 PM - 5:00 PM EST
-   Thursday, 7/2
-      1:00 PM - 6:00 PM EST
+</br>
+   Thursday, 7/2</br>
+      1:00 PM - 6:00 PM EST</br>
+   Monday, 7/6</br> 
+      1:00 PM - 4:00 PM</br> 
+   Tuesday, 7/7</br> 
+      1:00 PM - 3:00 PM</br> 
+   Wednesday, 7/8</br>
+      9:00 AM - 5:00 PM EST</br>
+   Thursday, 7/9</br>
+      1:00 PM - 5:00 PM EST</br>
+   Friday, 7/10</br>
+      11:00 AM - 6:00 PM EST</br>
+   Monday, 7/13</br> 
+      1:00 PM - 4:00 PM</br> 
+   Wednesday, 7/15</br>
+      9:00 AM - 5:00 PM EST</br>
+   Thursday, 7/16</br>
+      9:00 AM - 5:00 PM EST</br>
+   Friday, 7/17</br>
+      11:00 AM - 6:00 PM EST</br>
+5.Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?</br>
+Wednesday, 7/1/2020</br>
+	9:00 AM - 12:30 PM EST</br>
+	2:00 PM - 5:00 PM EST</br>
+Thursday, 7/2</br>
+	1:00 PM - 6:00 PM EST
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
