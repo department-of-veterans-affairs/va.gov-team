@@ -98,4 +98,4 @@ _date, time, step/event_
 - VA.gov Facility team identified root cause and began implementing remedy ~12:30 p.m. ET on June 16, 2020
 - Nursing staff notified OCC leadership of the outage at approximately 1:00 PM ET. 
 - VA.gov Community Provider Locator function issue resolved on June 16, 2020 at 3:45 p.m. ET
-- Post-mortem meeting 11:00 a.m. ET on June 26, 2020 (rescheduled from 9:30 a.m. ET June 23, 2020)
+- Post-mortem meeting with OCC Stakeholder team June 26, 2020 at 11:00 a.m. ET (rescheduled from June 23, 2020 9:30 a.m. ET)
