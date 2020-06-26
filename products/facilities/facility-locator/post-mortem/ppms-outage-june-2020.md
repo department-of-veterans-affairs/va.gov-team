@@ -65,6 +65,7 @@ _Date/time of resolution_ : June 16, 2020 3:45 p.m. ET
 | Investigate options for upstream monitoring and notifications | VA.gov Facility and Platform teams  | [Sentry #8514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8514) |
 | Consider prioritization of alert messaging | VA.gov Facility and Public Websites teams  | [#10318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10318)  |
 | Consider use of flipper to enable/disable features | VA.gov Facility team | |
+| Collaborate with OCC on creating prepared outage messages that include buisiness-process fail-over information (e.g. Call Center) for the veteran | OCC with support from VA.gov Facility team | |
 
 ## Lessons Learned
 
