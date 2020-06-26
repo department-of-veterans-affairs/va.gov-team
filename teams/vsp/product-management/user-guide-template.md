@@ -6,7 +6,7 @@
 
 ### How does it work?
 
-*Describe how the product will impact VFS teams workflow.*
+*Describe at a high level how the product will impact VFS teams' workflow.*
 
 ------
 
