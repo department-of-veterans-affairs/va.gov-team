@@ -1,61 +1,296 @@
-# Accessibility Staging Review Processes
-Accessibility staging reviews are part of the wider [VSP staging review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) process. The accessibility review is a bit unique because it involves a number of automated and manual tests, and may include a simple code review.
 
-All staging reviews will test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). Staging reviews **may not catch all accessibility issues**, but will ensure basic functionality is accessible. Accessibility specialists will conduct a more thorough audit when your application is relatively code-stable in production.
+# Accessibility staging review preparation
 
-## Table of Contents
-* [Before you request a review](#before-you-request-a-review)
-* [Staging review for applications](#staging-review-for-applications)
-* [Staging review for static content](#staging-review-for-static-content)
-* [Review new interfaces and patterns](#review-new-interfaces-and-patterns)
-* [Issue gathering and triage](#issue-gathering-and-triage)
+Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
 
-## Before You Request a Review
-Staging accessibility reviews will be turned around in two days, provided the following items are done ahead of time:
+Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough pre-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md) when an application is relatively code-stable in production.)
 
-* Read the [accessibility testing by practice area](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/testing-by-practice-area.md) document. This will help your team ensure testing is done ahead of the VSP staging review.
-* 2-4 weeks before the review needs to be completed, provide a "heads up" in Slack to the accessibility specialists that the staging review request will be coming soon.
-* [Provide test user credentials](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md#accessibility-test-credentials-template)
-* Conduct low-level accessibility tests ahead of the staging review:
-  * [Run axe checks using the Chrome or Firefox browser plugin(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#getting-started-with-automation)
-  * [Write end-to-end (e2e) tests with good axe checks, including hidden content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#build-pipeline-requirements)
-  * [Test for color contrast and color blindness issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#color-tests)
-  * [Zoom layouts to 400% at 1280px width](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#zoom-to-400)
-  * [Navigate using the keyboard only](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation)
-  * [Test with 1 or 2 screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#screen-readers) _(VoiceOver or NVDA)_
-* Provide documentation for your test cases using one of the templates:
-  * [TestRail accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR** 
-  * [Github accessibility test cases template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
-* Log any known issues using the [508 issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
 
-## Staging Review for Applications
-Accessibility specialist(s) will run through the the following automated and manual tests for rich applications. These include  React applications, forms, and anything else that isn't static HTML.
+## Accessibility checklist for staging review
 
-* Axe browser plugin checks on a subset of pages or app states to ensure coverage
-* Zooming layouts to 400% on a subset of pages
-* Once-through keyboard navigation
-* 3 preferred screen reader and browser pairings. Pairings will be determined by analytics data and WebAIM’s [most recent screen reader survey](https://webaim.org/projects/screenreadersurvey8/#primary). The favored browser and screen reader pairings may evolve as Edge Chromium and Chrome assume more market share, but the current pairings include:
-  * JAWS on Windows7/10 using IE11 _(This is the VA 508 office's preferred test pairing)_
-  * NVDA on Windows 7/10 using Firefox
-  * VoiceOver on MacOS
-* End-to-end tests will be reviewed to ensure axe checks are run for primary and secondary (hidden) content
+- [ ] [Axe scans in daily development](#axe-scans-in-daily-development)
+- [ ] [Axe scans in end-to-end tests](#axe-scans-in-end-to-end-tests)
+- [ ] [Color tests](#color-tests)
+- [ ] [Content resize check](#content-resize-check)
+- [ ] [Keyboard navigation check](#keyboard-navigation-check)
+- [ ] [Screen reader tests](#screen-reader-tests)
 
-## Staging Review for Static Content
-Accessibility specialist(s) will run through the the following automated and manual tests for static content. Static content includes pages generated from the content management system (CMS) or Markdown files.
 
-* Axe browser plugin checks on a subset of pages to ensure coverage
-* Zooming layouts to 400% on a subset of pages
-* Once-through keyboard navigation
-* 3 preferred screen reader and browser pairings. Pairings will be determined by analytics data and WebAIM’s [most recent screen reader survey](https://webaim.org/projects/screenreadersurvey8/#primary). The favored browser and screen reader pairings may evolve as Edge Chromium and Chrome assume more market share, but the current pairings include:
-  * JAWS on Windows7/10 using IE11 _(This is the VA 508 office's preferred test pairing)_
-  * NVDA on Windows 7/10 using Firefox
-  * VoiceOver on MacOS
+## How to document that your team has completed the checklist
 
-## Review New Interfaces and Patterns
-* Validate code early and often to help identify issues. This includes running axe checks and HTML validations, as well as basic keyboard and screen reader tests.
-* Request spot checks as needed before your staging review. Spot checks are meant to be collaborative sessions where interfaces or code can be discussed, reviewed, and tested. Spot checks can be a Slack conversation or informal video call.
+1. Choose one of these 2 options: 
 
-## Issue Gathering and Triage
-* Issues will be collected as issues in a new ZenHub epic. The accessibility specialist will assign this epic to the person who requested the staging review.
-* Issues will be triaged according to their severity. Some issues will be launch blockers. Others can be fixed post-launch. Teams should review the [accessibility defect severity rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md) if they have questions about issue severity or impact.
-* Accessibility specialists will work with stakeholders as issues are ready to be re-tested. When an issue has been resolved, the specialist or project manager should close it with a brief comment like _"Issue has been tested, and success criteria met. Moving to close."_
+    * **(preferred)** Use the [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
+OR
+    *   Copy the checklist from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
+
+2. Link to any unresolved accessibility ZenHub issues in your staging review request ticket.
+
+## How to request help
+
+*   For specific questions related to your project on issues identified during accessibility checks: 
+    *   Use the [508 Accessibility Issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=) to create a ZenHub ticket. 
+    *   If an issue is not resolved before the staging review, include a link to it in the staging review ticket. 
+*   For general accessibility questions: [#vetsgov-accessibility](https://dsva.slack.com/archives/C8E985R32)
+*   For general questions about the collaboration cycle: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
+
+
+## What to expect from accessibility specialists during staging review
+
+After you request a staging review, the accessibility specialist reviews your work and documents any defects in ZenHub tickets. Issues with a 508 defect rating of “0” or “1” are launch blockers. Others can be fixed post-launch.  
+
+The accessibility specialist attaches the tickets to a single ZenHub epic and assigns the epic to the person who requested the staging review. During the staging review meeting, you and your team can ask questions about any of the issues identified. 
+
+
+## Tips to avoid accessibility-related project delays in staging review
+
+
+### Consider accessibility early and often
+
+If you built a house and waited until it was completely built to see if the house’s design violated any housing code regulations, you might have to tear down parts of the house and rebuild to get everything up to code. Waiting until your user flow is designed and built to consider accessibility often requires similar “tear down and rebuild” that can be avoided if you start thinking about how to make sure your design is inclusive of all users from the beginning.
+
+
+### Keep track of your accessibility checks as you work
+
+We require that you verify all required checks were completed using TestRail or the GitHub template before requesting a staging review. However, we suggest that you coordinate with your team throughout your project to determine how you want to keep track of your progress.
+
+
+## Axe scans in daily development
+
+**When:** As part of daily development
+
+**Who:** Frontend engineer
+
+
+### Steps to test
+
+1. Install the [browser plugin for Chrome, Firefox or Edge Chromium](https://deque.com/axe).
+2. Right click on the page you want to test and select **Inspect.**
+3. Select the **Axe** tab. (see screenshot)
+4. Select **Analyze** to run the scan, one page at a time.
+5. Verify the issues (if any).
+
+
+### Expected result
+
+Stable code with no violations reported in axe checks.
+
+
+### Definition of done
+
+No violations indicated in axe scan results.
+
+OR
+
+Axe scan results in violations, but those violations are documented in issue ticket(s). Issue tickets are listed as known issues in your staging review request ticket.
+
+
+## Axe scans in end-to-end tests
+
+**When:** Before requesting a staging review. 
+
+**Who:** Frontend engineers
+
+Note: Having automated accessibility checks in place is a launch requirement for section 508 compliance. [Learn more about automated and integrated 508 compliance](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/memos/508-ds-process.md#automated-and-integrated-508-compliance-tests-and-digital-service-reviews). 
+
+All pages and applications **must** have axe checks that run on every continuous integration/continuous deployment (CI/CD) build. React applications require these tests to be added as part of the end-to-end test suite. Tests should open modal windows, accordions, hidden content, and re-run the axe check for high test coverage.
+
+
+### Steps to test
+
+
+
+1. Read the [basic end-to-end test setup](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/e2e-testing) document
+2. Add [axe checks](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to all of your end-to-end tests
+3. Run tests on `localhost` to confirm proper functionality
+
+
+### Expected result
+
+Stable code with no violations reported in end-to-end tests.
+
+Note: Axe checks that result in 1 or more violations will break branch builds and prevent merging into the `master` branch until they are resolved.
+
+
+### Definition of done
+
+No violations indicated in end-to-end tests.
+
+OR
+
+End-to-end tests result in violations, but those violations are documented in issue ticket(s). Issue tickets are listed as known issues in your staging review request ticket. 
+
+
+
+## Color tests
+
+**Who:** Design, any team member with time to review
+
+**When:** At a minimum, before staging review. We recommend that you consider color accessibility best practices throughout design and development, particularly if you introduce new colors into the design.
+
+
+### Color contrast
+
+Use [Who Can Use](https://whocanuse.com/) to preview your text for contrast and readability.
+
+
+
+*   Check color pairings for proper color contrast. 
+    *   Text of 20px or smaller must have a 4.5:1 contrast ratio to its background. 
+    *   Text 20px or larger must have a 3:1 contrast ratio to its background. 
+*   Pay particular attention to
+*   White text on yellow, orange, or red
+*   Black text on darker blues or purples
+*   Gray text on white or textured backgrounds
+
+
+### Colorblindness
+
+We recommend that you use the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en) to check for colorblindness issues.
+
+
+
+*   Ensure [color is not the only means to distinguish links](https://www.w3.org/TR/WCAG20-TECHS/F73.html) from standard text.
+    *   Consider underlining links, especially in paragraph blocks.
+    *   Check that links maintain a [3:1 color contrast ratio](https://www.w3.org/TR/WCAG20-TECHS/G183.html) if not underlined
+    *   Consider typefaces, font weight, and iconography as third options. Icons will need semantic guides for screen reader users. Example: a download icon is added to links for downloading documents. The accessible title will need to announce this information.
+*   Charts, maps, and tables should convey information without relying on color
+*   Do not use descriptions such as "Click the green button" for calls to action
+
+
+### Definition of done
+
+
+
+*   Text meets color contrast ratio requirements relative to its background.
+*   All links, buttons, icons, and other elements retain their meaning when color blindness filters are enabled.
+
+OR 
+
+Unresolved color test issues are documented in issue tickets and listed as known issues in your staging review request ticket.
+
+
+### Related resources
+
+*   [VA.gov design system color palette](https://design.va.gov/design/color-palette)
+*   [Color blindness: how to design an accessible user interface](https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858)
+
+
+## Content resize check
+
+**Who:** Design or any team member with time to review
+
+**When:** At a minimum, before staging review. We recommend that you consider content resizing best practices throughout design and development.
+
+
+### Steps to test
+
+*   Set browser width to 1280px
+    *   In Chrome you can right click on any webpage, and select Inspect from the menu. This will open the Developer Tools console. Drag your browser window narrower or wider until the number in the top right corner of your browser window reads "1280"
+    *   In Firefox you must [turn on rulers](https://developer.mozilla.org/en-US/docs/Tools/Rulers) before you can accurately resize your browser window. When rulers are enabled, right click on a page and select Inspect Element from the menu. When the Firefox Developer tools are open, click the ruler icon. The ruler is the third icon from the top right of the Developer tools panel.
+*   Zoom your browser to 400%, 300% and then 200% 
+    *   Windows: hold down **Ctrl** and select **+** until you reach your desired zoom level  
+    *   Mac: hold down **Cmd** and  select **+** until you reach your desired zoom level
+
+
+### Definition of done
+
+Layouts do not scroll sideways or have content to the edges. (Horizontal scrolling is permitted for content like images, maps, diagrams, presentations, and data tables.)
+
+OR
+
+Unresolved content resize issues are documented in issue tickets and listed as known issues in your staging review request ticket. 
+
+
+
+### Related resources
+
+*   [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
+*   [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
+*   [F69: Failure of Success Criterion 1.4.4 when resizing visually rendered text up to 200 percent causes the text, image or controls to be clipped, truncated or obscured](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F69)
+*   [F80: Failure of Success Criterion 1.4.4 when text-based form controls do not resize when visually rendered text is resized up to 200%](http://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/F80)
+
+
+## Keyboard navigation check
+
+**Who:** Any team member with time to review
+
+**When:** At a minimum, prior to your staging review. However, there are a lot of factors to consider when optimizing designs and code for keyboard navigation. We recommend that you learn about developing for keyboard navigation best practices early on to prevent issues.
+
+### Keyboard testing instructions
+All pages and user flows (forms, data entry, navigation, user interface, etc.) must be navigable using a keyboard.
+
+To test keyboard navigation, **TAB** to move focus to the next element that can receive keyboard focus. **SHIFT+TAB** to move focus to the previous element.
+
+*   Confirm that each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus
+*   Confirm that that checkboxes can be checked and unchecked by pressing SPACE when under keyboard focus
+*   Confirm that radio buttons can be selected by pressing ARROW_DIRECTION when a radio group is under keyboard focus
+*   Confirm that select menus can be opened by pressing SPACE, and an option selected with arrow keys. Select menus should close when user presses ENTER.
+*   Confirm that users shouldn't have to press TAB a large number of times to reach elements, or get back to their previous focus. This usually happens when UI is changed like a text block switched to an edit form and back again.
+*   Evaluate that the element under focus has a yellow halo around it
+
+
+### Definition of done
+
+There are no keyboard navigation issues navigating pages and user flows.
+
+OR
+
+Unresolved keyboard navigation issues are documented in issue tickets and listed as known issues in your staging review request ticket.
+
+
+### Related resources
+
+*   [Keyboard best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#keyboard-navigation)
+*   [WebAIM keyboard navigation guide](https://webaim.org/techniques/keyboard/)
+
+
+## Screen reader tests
+
+**Who:** Any team member with time to review
+
+**When:** At a minimum, before your staging review. There is a bit of a learning curve to screen reader testing that comes with experience. If you are new to screen reader testing, don’t hesitate to [ask for help](#what-to-do-if-you-have-questions-or-need-help) early and often.
+
+All [happy path user flows or pages](https://en.wikipedia.org/wiki/Happy_path) must be possible to complete on [VA.gov supported browsers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-comment/browser-support.md) with at least 1 screen reader tool to catch difficult or incomplete user actions. This is meant to be a quick pass to catch difficult or incomplete user interactions.
+
+
+### Screen reader testing tool options
+
+*   [VoiceOver for macOS using Safari](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
+*   [NVDA (open source) for Windows](https://webaim.org/articles/nvda/)
+
+
+### Common screen reader errors
+
+*   Buttons or links that do not provide clear understanding of their function.  \
+Example: An **Edit** button that doesn’t make it clear to a non-sighted user what will be edited
+*   Dynamic content added or removed from a page without announcing a change. Example: Alert boxes, forms with hidden questions, and continue links
+*   Overly long explanations
+*   Content that is too far removed from an explanation, or with no explanation at all.
+*   Heading mistakes:
+    *   at top of page, then next heading is an `&lt;h4>`
+    *   Headings that are nested improperly (Example: `&lt;h3>` inside an `&lt;h4>`, for instance)
+    *   Content that looks like a heading, but is marked up as a `&lt;div>` or `&lt;p>`
+*   Missing [landmark HTML](https://www.w3.org/TR/wai-aria-practices/examples/landmarks/HTML5.html or some similar resource? If we are saying that any resource with time to test can do screen reader testing, non-engineer people might not be familiar with this.). This includes banner, navigation, main, aside, footer elements, or divs with role attributes. These help screen reader users navigate through pages.
+
+
+### Definition of done
+
+No issues navigating pages and user flows. 
+
+OR
+
+Unresolved screen reader testing issues are documented in issue tickets and listed as known issues in your staging review request ticket.
+
+
+### Related resources
+
+
+
+*   [Screen reader best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#screen-readers)
+*   [WebAIM: Commonly used screenreaders](https://webaim.org/projects/screenreadersurvey7/#used)
+*   [MacOS VoiceOver Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/mac-voiceover-guide.md)
+*   [Cross-platform Screen Reader Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/screenreader-testing-cross-platform.md)
+*   [WebAIM: Using NVDA to Evaluate Web Accessibility](https://webaim.org/articles/nvda/)
+*   [NVDA download](https://www.nvaccess.org/download/)
+*   [NVDA Focus Plugin](https://addons.nvda-project.org/addons/focusHighlight.en.html) 
