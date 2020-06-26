@@ -2,17 +2,17 @@
 
 ### What is it?
 
-*Explain how this product will benefit VFS teams*
+*Explain how this product will benefit VFS teams.*
 
 ### How does it work?
 
-*Describe how the product will impact VFS teams workflow*
+*Describe how the product will impact VFS teams workflow.*
 
 ------
 
 ### Product documentation
 
-*Add links to supporting documentation*
+*Add links to supporting documentation.*
 
 ------
 
