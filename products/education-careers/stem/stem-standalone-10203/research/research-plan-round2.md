@@ -9,7 +9,7 @@ Currently, Veterans applying for the Rogers STEM Scholarship to extend their CH3
 
 During the initial implementation of the STEM Scholarship application as part of the 22-1995, an issue arose where a high number of ineligible people (>80% of applicants) were applying for the scholarship, resulting in significant work for the application processors. Steps were taken to address that as part of the 22-1995, and an integral part of the new form is to continue to drive the number of ineligible submissions down.
 
-To address the above, the STEM Scholarship application was re-designed and tested with users.  Testing showed that the application was easy for applicants to fill out, but a few recommendations were made to improve the design.  Major changes included providing an applicant's remaining entitlement to them earlier in the process and revising some content to make the application requirements clearer.  These recommendations have been incorporated into the design and researchers need to test the effectiveness of the revisions.
+To address the above, the STEM Scholarship application was re-designed and tested with users.  Testing showed that the application was easy for applicants to fill out, but a few recommendations were made to further improve the design.  Changes included providing an applicant's remaining entitlement to them earlier in the process and revising some content to make the application requirements clearer.  These recommendations have been incorporated into the design and researchers need to test the effectiveness of the revisions.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
