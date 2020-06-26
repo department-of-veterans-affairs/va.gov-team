@@ -5,7 +5,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 ## Goals	
 
 1. What product & team are you doing this research for?	
-   VAOSR on VA.gov
+   - VAOSR on VA.gov
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
    With VAOSR MVP in prod and live since March 2020, it's time to perform another round of user research and testing with Veterans.
    This research should focus on areas in the experience that we know (through analytics and user feedback) are confusing or need iteration. Additionally, we want to collect general feedback and requests from Veterans for new VAOSR considerations in the future.
@@ -35,11 +35,13 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1.	What method of research are you planning? 	
    - Remote moderated usability research and usability testing mid-fidelity prototypes
 2.	Why this method? How does this methodology help you answer your research questions? 
-   -  
+   - We need to learn from Veterans their mental model about scheduling online appointments
+   - We need to directly observe how Veterans are interacting with the VAOSR MVP
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
    - Zoom
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
-   - https://www.va.gov/health-care/schedule-view-va-appointments/
+   - VAOSR MVP: https://www.va.gov/health-care/schedule-view-va-appointments/
+   - Express Care Prototype: https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens
 5.	If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
    - Zoom
 
@@ -47,24 +49,28 @@ As a designer I need to create a research plan to share with my team.	(This shou
 1. Participant criteria: What are you looking for in a participant?	
    - 15-20 participants	
    - Must meet all of the following criteria:
-      - Have an MHV Premium, DS Logon, or ID.me identity-proofed account
-      - Be enrolled in VA healthcare
+      - Have an MHV Premium, DS Logon, or ID.me identity-proofed account; and
+      - Be enrolled in VA healthcare; and
       - Be registered at one or more VA healthcare system that is still using VistA to manage schedules
 2. What is your recruitment strategy? 	
    Perigean	
 
 ## When? 	
 1.	Timeline: What dates do you plan to do research?
-   
+   ASAP: would like to begin as early as 7/1 or 7/2 for test session
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-   
+   Tuesday, 6/30/2020
 3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
    60 minutes (1 hour)
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
    
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-   
+   Wednesday, 7/1/2020
+      9:00 AM - 12:30 PM EST
+      2:00 PM - 5:00 PM EST
+   Thursday, 7/2
+      1:00 PM - 6:00 PM EST
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
