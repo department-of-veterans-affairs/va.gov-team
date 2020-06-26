@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: IN PROGRESS**
+**STATUS: IN PROGRESS**  IA WORK IN PROGRESS HERE: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
 
 **Team:** Benefits & Memorials 2
 
@@ -18,8 +18,6 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
-
-IA WORK IN PROGRESS HERE: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
 
 
 Page | URL | Breadcrumb
