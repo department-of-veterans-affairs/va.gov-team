@@ -84,9 +84,9 @@ Ineligibile applicants
 - 45 minutes
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-- July 7, 2020 from 8 - 9:30 AM, 10 - 11:30 AM, 12 PM - 1:30PM, 3-4:30 PM
-- July 8, 2020 from 8 - 9:30 AM, 10 - 11:30 AM, 12 PM - 1:30PM, 3-4:30 PM
-- July 9, 2020 from 8 - 9:30 AM, 10 - 11:30 AM, 12 PM - 1:30PM, 3-4:30 PM
+  - Tuesday, July 7: 8:30 - 9:30 AM; 11 AM - 12 PM;12:30 - 1:30 PM; 3 - 4 PM;
+  - Wednesday, July 8: 8:30 - 9:30 AM; 10 - 11 AM; 12:30 - 1:30 PM; 3 - 4 PM;
+  - Thursday, July 9: 9:30 - 10:30 AM; 11 AM - 12 PM; 12:30 - 1:30 PM;
 
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
