@@ -40,4 +40,4 @@
 
 - [P17⋅ 3:00 – 4:00pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p17.md)
 
-- [P18 ⋅5:00 – 6:00pm](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research/participant-notes/p18.md)
+- P18 ⋅5:00 – 6:00pm, NO SHOW
