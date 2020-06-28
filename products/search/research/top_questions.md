@@ -25,7 +25,15 @@ For the analysis, the following tools were used:
 *1. How integral a tool is site search to VA.gov users?*
 - 10.5% of site visitors used site search (Date Range: June 2109-2020 Source: Google Analytics)
 - Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
--
+
+*2. What are user searching for on VA.gov?*
+
+Users are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
+
+- "Benefits" (~150K) and "health" (~59K) are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
+- "Forms" (~24K) is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list, which suggests that we may need to elevate these tools more.
+- "DD214" (~9K) is high on the list, further reflecting people's desire to get their military records.
 
 
 ## Off-Site Search*
