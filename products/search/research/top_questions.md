@@ -28,13 +28,17 @@ For the analysis, the following tools were used:
 
 *2. What are user searching for on VA.gov?*
 
-Users are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating.
+Users are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating. (Source: Google Analytics [Logged-in homepage discovery: Analytics review April 2019-April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
 
 - "Benefits" (~150K) and "health" (~59K) are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
 - "Forms" (~24K) is also high on the list, which suggests people want a full list of VA forms.
-- Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list, which suggests that we may need to elevate these tools more.
-- "DD214" (~9K) is high on the list, further reflecting people's desire to get their military records.
+- Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list
+- "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
 
+3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?
+
+- While click-through tracking has not been available as part of VA.gov's implementation of the Search.gov utility, there are indicators that site search is not as effective as it needs to be.  Cases in points:
+  - The percentage of Search exits is nearly 50%
 
 ## Off-Site Search*
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
