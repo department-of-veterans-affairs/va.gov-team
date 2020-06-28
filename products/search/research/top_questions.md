@@ -22,9 +22,10 @@ For the analysis, the following tools were used:
 ## On-Search
 ### Top Questions/Answers
 
-1. How integral a tool is site search to VA.gov users?
+*1. How integral a tool is site search to VA.gov users?*
 - 10.5% of site visitors used site search (Date Range: June 2109-2020 Source: Google Analytics)
-- Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
+- Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
+-
 
 
 ## Off-Site Search*
