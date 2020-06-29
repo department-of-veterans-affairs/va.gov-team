@@ -26,7 +26,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1.	Are you currently using or have you ever used your VA education benefits?
     - Which benefit?
-2.  Do you know roughly how much of your GI Bill entitlement you have left?  
+2.  Do you know roughly how much of your education entitlement you have left?  
 3. Are you familiar with the Rogers STEM scholarship?
  - If yes, what have you heard about it?
 
@@ -74,10 +74,12 @@ Things to watch for:
 
 ## TASK 3: Authenticated User in non-STEM program - 15 minutes
 
-Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Philosophy** from **Chicago State University**. How would you go about filling out this application?  For this prototype, you will log in as an authenticated user.
+We're going to do some role playing. Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Philosophy** from **Chicago State University**. How would you go about filling out this application?  For this prototype, you will log in as an authenticated user.
 
   
   Things to watch for:
+  - Does the user read the subway map?
+  - Does the user experience any confusion in determining how to start the application? (Need to scroll to bottom of page)
   - Does the user check the Approved STEM programs document?
   - How does the user react to ineligibility alert?
   - If they click "Check remaining benefits", what would you expect to happen (e.g. modal, new page, etc.)? 
@@ -91,7 +93,6 @@ Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtai
 ## Post-Task Interview - 10 minutes
 
 Circle back on
-- STEM program dropdown - How would they categorize their "real" degree? 
 - School contact details - Is your school ID the same as your SSN?  If applicable, what would you put down for your school email?
 
 
