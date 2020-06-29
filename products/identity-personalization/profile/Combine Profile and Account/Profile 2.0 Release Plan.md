@@ -6,21 +6,20 @@
 ### Planning:
 - **Desired date range or test duration** Estimated: 8/26 - 9/8 
 - **Desired number of users:** 10 users
-- **How you'll recruit the right production test users:** We will recruit users via Perigean
-- **How you'll conduct the testing:** We will share screen with users and ensure the different features work correctly
-- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have a feature flag turn it on for certain users based on their log-in email address.
-
+- **How you'll recruit the right production test users:** We will recruit users via Perigean.
+- **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
 
 #### Design UAT plan
-- TBD
+- Tressa will put together the formal research plan and script for UAT.
+- Tressa will also conduct these session.
 
 #### Frontend UAT plan
-- TBD
+- Erik and Sandra will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature. **Is there documentation for this??**
+- They will also attend UAT and be responsible for any frontend bugs/fixes.
 
 #### Backend UAT plan
-- TBD
-
-
+- The new profile did not require any backend work, as it was primarily a frontend redesign. However, should any backend issues come up, Lihan will be available to fix them before we move into a phased launch.
 
 ### Results:
 - **Number of users:**
@@ -36,30 +35,30 @@
 
 **Desired date range:** 9/9/20 - 9/23/20 
 
-**How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
+**How will you make the product available in production while limiting the number of users who can access it?** 
+
+We will launch the new profile behind a feature flag and and control what % of users see it using Flipper. 
 
 - Launch behind a feature flag. Test with team. (1 day)
 - If things go well, we'll launch to 25% of traffic. (1 week)
-- If things go well, we'll launch to 50% of users. (48 hours)
+- If things go well, we'll launch to 50% of users. (1 week)
 - If everything looks good, we'll then launch to 100% of users.
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
+
 We will monitor the following metrics to ensure there are no issues:
 
-Profile visits
+- Profile visits
 
 For each section:
-- Successful Retrievals
-- Failed Retrievals
+- Successful retrievals 
+- Failed retrievals
 - Successful submissions
 - Failed form submissions
 - Error counts
 - Form Submits
-- Successful updates
-- Save failures
 
 Links to dashboards showing "success criteria" metrics: [insert link to dashboard] TBD
-
 
 ## Go Live!
 
