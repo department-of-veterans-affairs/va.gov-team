@@ -7,6 +7,11 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 ## Problem Statement
 As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
 
+### Post Discovery updated Problem statement in draft:
+As a Veteran, I’m unable to contribute updates of my current health status and medical history that is leveraged in my care across the VA and community providers
+- Words to consider adding: easily, quickly, share, repeat
+
+---
 - How might we improve the in-person and online pre-appointment experiences for Veterans?
 - How might we contribute to physical distancing efforts in VA facilities?
 - How might we better integrate Veteran-provided data into VA workflows?
