@@ -12,7 +12,7 @@ Number of Va.gov teams reporting metrics every quarter for product decisions.
 Platform
 
 ### Team Mission Statement:
-Empower Veteran Facing Services teams to make more data-informed decisions for better Veteran outcomes.
+Empower Veteran Facing Services teams to make holistic data-informed decisions for better Veteran outcomes.
 
 ### Product Portfolio:
 
