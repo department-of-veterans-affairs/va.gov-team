@@ -13,10 +13,10 @@
 ### Results:
 - **Number of users:**
 - **Number of bugs identified / fixed:**
-**- Was the data submitted (if any) easy for VA to process?:**
-**- Types of errors logged:**
-**- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
-**- If yes, what: lorem ipsum** 
+- **Was the data submitted (if any) easy for VA to process?:**
+- **Types of errors logged:**
+- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+- **If yes, what: lorem ipsum** 
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -25,23 +25,23 @@
 - If things go well, we'll launch to 25% of traffic. (1 week)
 - If things go well, we'll launch to 50% of users. (48 hours)
 - If everything looks good, we'll then launch to 100% of users.
-**Desired date range:** 9/9/20 - 9/23/20 
-**How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
+- **Desired date range:** 9/9/20 - 9/23/20 
+- **How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
 
-**What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
 We will monitor the following metrics to ensure there are no issues:
 
 For each section:
-Successful Retrievals
-Failed Retrievals
-Successful submissions
-Failed form submissions
-Error counts
-Form Submits
-Successful updates
-Save failures
+- Successful Retrievals
+- Failed Retrievals
+- Successful submissions
+- Failed form submissions
+- Error counts
+- Form Submits
+- Successful updates
+- Save failures
 
-Profile visits
+- Profile visits
 
 - Links to dashboards showing "success criteria" metrics: [insert link to dashboard] TBD
 
