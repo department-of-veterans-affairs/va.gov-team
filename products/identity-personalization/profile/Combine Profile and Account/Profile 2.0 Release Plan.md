@@ -20,16 +20,16 @@
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
+### The Plan
+Launch behind a feature flag. Test with team. (2 days)
+If things go well, we'll launch to 25% of traffic. (1 week)
+If things go well, we'll launch to 50% of users. (48 hours)
+If everything looks good, we'll then launch to 100% of users.
+**Desired date range:** 9/9/20 - 9/23/20 
+**How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
 
-
-#### Exceptions
-
-
-### Planning
-
-- Desired date range: 9/9/20 - 9/29/20
-- How will you make the product available in production while limiting the number of users who can find/access it: We will utilize Flipper to control what % of traffic sees Profile 2.0 vs the old profile.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+**- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+We will monitor the following metrics to ensure they are within normal ranges and there are no issues:
 Successful form submissions for each section
 Failed form submissions for each section
 Direct Deposit Error count
@@ -37,53 +37,16 @@ Direct Deposit Retrievals
 Direct Deposit Form Submits
 Address Validation Successful updates
 Address Validation Save failures
+Connected Apps error counts
+Military Info error counts
 
-- Links to dashboard(s) showing "success criteria" metrics: [insert link to dashboard] TBD
+- Links to dashboards showing "success criteria" metrics: [insert link to dashboard] TBD
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
-
-### Stage A: Canary
-
-_Test a small population of users to make sure any obvious bugs / edge cases are caught._
-
-#### Planning
-
-- Length of time: x (_minimum 2 hours_)
-- Percentage of Users (and roughly how many users do you expect this to be): x% (500 users) (_Recommendation: select a percentage that targets ~500 users, or at most 10%_)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-### Stage B: moderate
-
-_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
-
-#### Planning
-
-- Length of time: x (_minimum 1 day_)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (x users)
-
-#### Results:
-- Number of unique users: x
-- Metrics at this stage (per your "success criteria"): x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
-
-_More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
 ## Go Live!
 
 ### Planning:
-- Desired date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- etc
+- Desired date: No later than Sept 23rd, 2020.
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
