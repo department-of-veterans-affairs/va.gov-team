@@ -1,7 +1,7 @@
 # Profile 2.0 Release Plan 
 ---
 
-## Phase I: moderated production testing (UAT)
+## Phase I: UAT
 
 ### Planning:
 - **Desired date range or test duration** Estimated: 8/26 - 9/8 
@@ -18,7 +18,7 @@
 - **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
 - **If yes, what: lorem ipsum** 
 
-## Phase II: Staged Rollout (also known as unmoderated production testing)
+## Phase II: Staged Rollout
 
 ### The Plan
 
