@@ -6,16 +6,21 @@
 ### Planning:
 - **Desired date range or test duration** Estimated: 8/26 - 9/8 
 - **Desired number of users:** 10 users
-- **How you'll recruit the right production test users:** We will recruit users via Perigean. (We need to make sure that we have their login email..not just an email)
+- **How you'll recruit the right production test users:** We will recruit users via Perigean. (We need to make sure that we have the email the user uses to log into Va.gov ahead of time)
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
+- **We need to make sure users have Direct Deposit/are eligible for Direct Deposit**
+
+**Erik to teach Matt/Tressa/Sandra how to use the feature flag/flipper**
+- Need to be added to list of people with flipper access
+- Erik to enter instructions
 
 #### Design UAT plan
 - Tressa will put together the formal research plan and script for UAT.
 - Tressa will also conduct these session.
 
 #### Frontend UAT plan
-- Erik and Sandra will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature. **Is there documentation for this??**
+- Erik and Sandra will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
 - They will also attend UAT and be responsible for any frontend bugs/fixes.
 
 #### Backend UAT plan
