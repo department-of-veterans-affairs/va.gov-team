@@ -21,16 +21,16 @@
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
 ### The Plan
-- **Desired date range:** 9/9/20 - 9/23/20 
-- **How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
+**Desired date range:** 9/9/20 - 9/23/20 
+**How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
 - Launch behind a feature flag. Test with team. (1 day)
 - If things go well, we'll launch to 25% of traffic. (1 week)
 - If things go well, we'll launch to 50% of users. (48 hours)
 - If everything looks good, we'll then launch to 100% of users.
-- **What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
+**What metrics-based criteria will you look at before advancing rollout to the next stage?:** 
 We will monitor the following metrics to ensure there are no issues:
 
-- Profile visits
+Profile visits
 
 For each section:
 - Successful Retrievals
