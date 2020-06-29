@@ -58,7 +58,7 @@ Up to 3 total from either the beneficiary **or** non-beneficiary category. Canno
 
 For example: 
 
-- You can tag a page with “Veterans,” (or one of the veteran sub-group tags), and“Family members,” and “Service members.”  
+- You can tag a page with “Veterans,” (or one of the veteran sub-group tags), and“Family members and caregivers,” and “Service members.”  
 - But not “Women Veterans” and “Lenders, appraisers, and other real estate professionals.”
 
 
@@ -80,7 +80,7 @@ Up to 3 can be selected, but only 1 from the Veterans list.
   - Vietnam War Veterans
   - Women Veterans
   - World War II Veterans
-- Family member and caregivers
+- Family members and caregivers
 - Service members
 
 
