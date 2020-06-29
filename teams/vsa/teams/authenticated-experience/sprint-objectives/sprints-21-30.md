@@ -112,7 +112,7 @@ PM (Samara)
 - Define scope for phase 1 #10176
 - Finish OKR and KPI planning #9181
 - Plan for how to incorporate stakeholders #10230
-- Conversation with health care team (Lenae/Lauren)
+- Metrics conversation with VAOS team #10740
 
 Design
 - Handoff between Liz and Tressa #9381
@@ -154,8 +154,8 @@ Platform
 ### Logged-in homepage
 
 PM
-- Conversation with claim status team (Luke)
-- Conversation with disability rating team (Steve/Jason)
+ - Metrics conversation with disability ratings team #10745
+ - Metrics conversation with claim status team #10746
 
 Design
 - Handoff between Liz and Tressa #9381
