@@ -1,4 +1,4 @@
-# **VSP Product User Guide Template**
+# **VSP Product Brief Template**
 
 ### What is it?
 
