@@ -112,6 +112,7 @@ PM (Samara)
 - Define scope for phase 1 #10176
 - Finish OKR and KPI planning #9181
 - Plan for how to incorporate stakeholders #10230
+- Conversation with health care team (Lenae/Lauren)
 
 Design
 - Handoff between Liz and Tressa #9381
@@ -153,7 +154,6 @@ Platform
 ### Logged-in homepage
 
 PM
-- Conversation with health care team (Lenae/Lauren)
 - Conversation with claim status team (Luke)
 - Conversation with disability rating team (Steve/Jason)
 
@@ -161,8 +161,6 @@ Design
 - Handoff between Liz and Tressa #9381
 - Review journey maps #10120
 - Review discovery findings #10121
-- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
-- My VA tools audit #10123
 
 Dev
 - Beta/Opt-in discovery (if time)
@@ -188,9 +186,8 @@ Platform
 ### Logged-in homepage
 
 Design
-- Figure out additional questions for technical discovery
-- Plan for LOA3 use cases #10162
-- Plan for LOA1 use case #10164
+- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
+- My VA tools audit #10123
 
 Dev
 - Investigate what data we can pull in for scheduling an appointment
@@ -222,7 +219,9 @@ Platform
 ### Logged-in homepage
 
 Design
-- Initial iterations
+- Figure out additional questions for technical discovery
+- Plan for LOA3 use cases #10162
+- Plan for LOA1 use case #10164
 
 Dev
 - Additional technical discovery?
@@ -246,6 +245,9 @@ Dev
 
 PM
 - Start documenting staging users scenarios
+
+Design
+- Initial iterations
 
 ## Sprint 29 (8/26 – 9/8)
 
