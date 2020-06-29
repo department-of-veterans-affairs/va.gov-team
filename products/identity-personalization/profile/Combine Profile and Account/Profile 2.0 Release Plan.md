@@ -15,15 +15,15 @@
 - Need to be added to list of people with flipper access
 - Erik to enter instructions
 
-#### Design UAT plan
+#### Design UAT notes
 - Tressa will put together the formal research plan and script for UAT.
 - Tressa will also conduct these session.
 
-#### Frontend UAT plan
+#### Frontend UAT notes
 - Erik and Sandra will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
 - They will also attend UAT and be responsible for any frontend bugs/fixes.
 
-#### Backend UAT plan
+#### Backend UAT notes
 - The new profile did not require any backend work, as it was primarily a frontend redesign. However, should any backend issues come up, Lihan will be available to fix them before we move into a phased launch.
 
 ### Results:
