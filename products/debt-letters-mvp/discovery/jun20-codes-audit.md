@@ -11,6 +11,7 @@ This work happened in June 2020 in order to understand what sort of statuses deb
   -   Treasury Offset Program (TOP) referral notice [123]
 
 - **Debt collection is on hold** (Holding status)
+  -   **NOTE:** Potentially split this up into 'Debt collection is on hold pending VA action' vs. 'Debt collection is on hold pending Veteran action' - the later would be used to present Veterans with a Next Step. 
   -   School dispute
   -   Bad address
   -   Deployed Vet
@@ -32,7 +33,7 @@ This work happened in June 2020 in order to understand what sort of statuses deb
   -   Late or missed payment per agreement
   -   Debt returned from CS / TOP
   -   Debtor death
-  -   Misc (Potential unlabelled hold status for complex or sensitive statuses)
+  -   Misc (Potential unlabelled hold status for complex or sensitive statuses) - would read as, "This debt is on hold. For more information, contact the DMC..." or similar.
 
 - **Debt is being repaid to the VA** (Payment status)
   -   Payment plan agreement (periodic or scheduled)
