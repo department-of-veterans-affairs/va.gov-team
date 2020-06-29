@@ -57,7 +57,7 @@ Ineligibile applicants
   
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- Target of 8 participants, but recruiting 11 participants to account for any missed / no-show sessions
+- Target of 9 participants, but recruiting 11 participants to account for any missed / no-show sessions
 - Participants with 7-18 months of entitlement remaining for their education benefits
   - 6-8 individuals using Chapter 33 benefits
       - 4-5 are currently pursuing an undergraduate degree in Science, Technology, Engineering, or Math (STEM)
@@ -82,7 +82,7 @@ Ineligibile applicants
 - By COB July 2, 2020
 
 3. Length of Sessions: How long do you estimate each session will be? 	
-- 45 minutes
+- 30 minutes
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
   - Tuesday, July 7: 8:30 - 9:30 AM; 11 AM - 12 PM;12:30 - 1:30 PM; 3 - 4 PM;
