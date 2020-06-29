@@ -11,8 +11,8 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have a feature flag turn it on for certain users based on their log-in email address.
 
 ### Results:
-**- Number of users:**
-**- Number of bugs identified / fixed:**
+- **Number of users:**
+- **Number of bugs identified / fixed:**
 **- Was the data submitted (if any) easy for VA to process?:**
 **- Types of errors logged:**
 **- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
