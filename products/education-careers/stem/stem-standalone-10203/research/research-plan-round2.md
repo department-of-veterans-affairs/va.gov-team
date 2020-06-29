@@ -18,13 +18,13 @@ Intro page
   - Do authenticated participants know to scroll down to the bottom of the intro page to start application?
 
 New entitlement alerts
-  - Is the entitlement warning alert on the intro page effective at deterring ineligible applicants from beginning the application?
-  - Are entitlement warning alerts effective at deterring ineligible applicants from submitting an application [eg. alert on STEM summary page]?
+  - Is the entitlement warning alert on the intro page effective at deterring ineligible, authenticated applicants from beginning the application?
+  - Are entitlement warning alerts effective at deterring ineligible, authenticated applicants from submitting an application [eg. alert on STEM summary page]?
   - Do applicants expect a grace period (beyond the 6 months)?
   - What, if any, modifications are needed for entitlement check functionality to ensure it is effective?  
 
 Ineligibility alerts
-  - How do non-chapter 33 participants react to the additional (new, benefit-specific) summary page?
+  - How do non-Chapter 33 participants react to the new, benefit-specific summary page?
   - How do participants who aren't eligible based on being enrolled in a non-STEM program react to eligibility alerts?
   
 Ineligibile applicants
