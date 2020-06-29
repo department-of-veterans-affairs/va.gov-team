@@ -145,6 +145,7 @@ Dev
 - Pre-launch - Update relevant parts of the product outline/project folder
   - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
   - Make sure it's documented which backend systems support the profile
+  - If you were a developer onboarding to this product, what documentation would you want?
 
 Platform
 - Pre-launch — Analytics review (if necessary)
@@ -152,9 +153,12 @@ Platform
 ### Logged-in homepage
 
 PM
-- Figure out if there are any baseline analytics we need to get set up
+- Conversation with health care team (Lenae/Lauren)
+- Conversation with claim status team (Luke)
+- Conversation with disability rating team (Steve/Jason)
 
 Design
+- Handoff between Liz and Tressa #9381
 - Review journey maps #10120
 - Review discovery findings #10121
 - Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
@@ -162,7 +166,6 @@ Design
 
 Dev
 - Beta/Opt-in discovery (if time)
-- Other discovery?
 
 ## Sprint 26 (7/15 – 7/28)
 
