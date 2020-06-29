@@ -19,6 +19,7 @@
     1. What is the `<aside>`, if there is one? This might be referred to as a sidebar, subnav, sidenav, or a right or left version of those.
     1. What is the `<header>` and `<footer>`?
     1. Mark up the heading levels, respecting heading order, `<h1>`, `<h2>`, `<h3>`, `<h4>`. It isn’t necessary to have all of those on the page, but an `<h1>` must be followed by an `<h2>`, and there must not be an `<h3>` if there isn’t a preceding `<h2>`.
+    1. Additionally, be sure to document the reading order.
 
 ## For Developers
 
