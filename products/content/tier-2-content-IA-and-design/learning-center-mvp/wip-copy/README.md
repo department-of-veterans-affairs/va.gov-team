@@ -34,7 +34,7 @@ __Move these ‘hazardous materials’ child pages in the left nav to the learni
 - /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
 - /disability/eligibility/hazardous-materials-exposure/agent-orange/testing-storage-areas/
 
-@Beth will refactor these pages as LC format:
+~@Beth~ TBD will refactor these pages as LC format:
 
 - /disability/eligibility/hazardous-materials-exposure/asbestos/
 -	/disability/eligibility/hazardous-materials-exposure/mustard-gas-lewisite/
@@ -46,9 +46,11 @@ __Move these ‘hazardous materials’ child pages in the left nav to the learni
 
 __On this page https://www.va.gov/disability/compensation-rates/__
 
-To test rates living in the LC. Refactor and move the following child pages to LC. Remove these child pages from left nav:
+To test rates living in the LC. Refactor and move the following child pages to LC. Remove these child pages from left nav. 
 
-@Jen will refactor these as LC format:
+Note: we likely won't need to make all the rate accordions actually functional, just one as an example on each page.
+
+~@Jen~ TBD will refactor these as LC format:
 
 - /disability/compensation-rates/veteran-rates/
 - /disability/compensation-rates/veteran-rates/historical-rates-2019/
@@ -72,7 +74,7 @@ The following burials LC articles are already mocked up in Ryan's wireframe:
 
 Not mocked up:
 
-- NCA video list template @Jen will provide
+- NCA video list template ~@JenS~ will provide
 
 
 
