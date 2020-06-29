@@ -5,7 +5,7 @@ This work happened in June 2020 in order to understand what sort of statuses deb
 ## High-level debt "statuses"
 **NOTE**: This may not be an exhaustive list and must be confirmed with the DMC. Points under each of the statuses often have multiple diary codes related to them.
 
-- **Debt is being communicated** (Due process letters)
+- **Debt is in due process** (Due process letters)
   -   Demand letters [100, 101, 102, 117]
   -   CRA referral notification [122]
   -   Treasury Offset Program (TOP) referral notice [123]
