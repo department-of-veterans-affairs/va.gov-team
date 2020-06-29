@@ -1,6 +1,6 @@
 ---
 name: Front End Issue
-about: For filing standard issues.
+about: For standard front end issues.
 title: ''
 labels: 'vsa'
 assignees: ''
@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ## Issue Description
+_Insert issue details here_
 
 ## Front end tasks
 - Ensure the page is styled according to design spec. 
