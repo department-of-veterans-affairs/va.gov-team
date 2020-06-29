@@ -57,7 +57,8 @@ Ineligibile applicants
   
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- 8-11  participants with 7-18 months of entitlement remaining for their education benefits
+- Target of 8 participants, but recruiting 11 participants to account for any missed / no-show sessions
+- Participants with 7-18 months of entitlement remaining for their education benefits
   - 6-8 individuals using Chapter 33 benefits
       - 4-5 are currently pursuing an undergraduate degree in Science, Technology, Engineering, or Math (STEM)
       - 2-3 are currently pursuing an undergraduate degree in a non-STEM program
