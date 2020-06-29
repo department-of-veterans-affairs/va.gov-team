@@ -67,7 +67,7 @@ Liz Lantz, Public Websites, June 2020
 
 1.	We'd like to interview 8 Veterans
    - Participants must be able to participate via a desktop device.
-   - **Do we need criteria related to the content we'll be showing? E.g. having an account, familiar with burial benefits, or disability benefits?**
+   - Participants should have a VA.gov online account, or a My HealtheVet, or eBenefits account. Having multiple accounts is fine.
    - We request the participant pool be diverse in:
      - Gender (ideally 4 women, 4 men)
      - Ethnicity/Race (at least 4 non-Caucasian)
@@ -91,11 +91,11 @@ Liz Lantz, Public Websites, June 2020
 ## When? 	
 
 1. Timeline: What dates do you plan to do research? 	
-   July 7-9, 2020
+   July 22-24, 2020
 
 2. Prepare: When will the thing you are testing be ready? 
 
-   July 2, 2020
+   July 20, 2020
 
 3. Length of Sessions: How long do you estimate each session will be? 
 
@@ -105,15 +105,15 @@ Liz Lantz, Public Websites, June 2020
 
    Please allow 30 minutes between sessions
 
-   - July 7:
+   - July 22:
 
-   - July 8: 
+   - July 23: 
 
-   - July 9:  	
+   - July 24:  	
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   July 6, Nick Sullivan, Kelson Adams, or Jen Lee
+   July 20, Nick Sullivan, Kelson Adams, or Jen Lee
 
 ## Team Roles	
 
@@ -143,36 +143,36 @@ Please list the people who will be serving in each role. **Include the primary p
 
   - John Hashimoto (John.Hashimoto@va.gov)
 
-  - Kelson Adams ()
+  - Kelson Adams (kadams@governmentcio.com)
 
-  - Oksana Cyrwus
+  - Oksana Cyrwus (oksana.cyrwus@agile6.com)
 
-  - Kevin Walsh
+  - Kevin Walsh ([kevin.walsh@civicactions.com](mailto:kevin.walsh@civicactions.com))
 
-  - Laura Walsh
+  - Laura Walsh ([lwalsh@madpow.net](mailto:lwalsh@madpow.net))
 
   - Nick Sullivan (nick.sullivan@adhoc.team)
 
-  - Randi Hecht
+  - Randi Hecht ([rhecht@governmentcio.com](mailto:rhecht@governmentcio.com))
 
-  - Mikki Northuis
+  - Mikki Northuis ([mikki@adhocteam.us](mailto:mikki@adhocteam.us))
 
-  - Selina Cooper
+  - Selina Cooper ([scooper@governmentcio.com](mailto:scooper@governmentcio.com))
 
-  - Anne Hurley
+  - Anne Hurley ([ahurley@governmentcio.com](mailto:ahurley@governmentcio.com))
 
-  - Steve Wirt
-  
+  - Steve Wirt ([steve.wirt@civicactions.com](mailto:steve.wirt@civicactions.com))
+
   - Jeff Barnes (Jeffrey.Barnes4@va.gov)
-  
+
   - Chris Johnston Christopher.Johnston2@va.gov)
-  
+
   - Lauren Alexanderson (Lauren.Alexanderson@va.gov)
-  
+
   - Meg Peters (Meg.Peters@va.gov)
-  
+
   - Martha Wilkes (Martha.Wilkes@va.gov)
-  
+
   - Dave Conlon (David.Conlon@va.gov)
 
     
