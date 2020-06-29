@@ -54,7 +54,13 @@ At minimum - 1 topic tag will be required. This will also drive the minumum requ
 
 ## Audience tags 
 
-Up to 3 total from either the beneficiary **or** non-beneficiary category. Cannot mix beneficiary and non-beneficiary tags.
+Up to 3 total from either the beneficiary **or** non-beneficiary category. Cannot mix beneficiary and non-beneficiary tags. 
+
+For example: 
+
+- You can tag a page with “Veterans,” (or one of the veteran sub-group tags), and“Family members,” and “Service members.”  
+- But not “Women Veterans” and “Lenders, appraisers, and other real estate professionals.”
+
 
 
 
