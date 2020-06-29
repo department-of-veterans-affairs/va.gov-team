@@ -86,7 +86,7 @@ If your application isn't approved, you’ll get a denial letter in the mail.
 
 { if logged out }  
 
-Sign in to start your application { button }  
+Sign in or create an account { button } 
 
 [Start your application without signing in]() 
 
