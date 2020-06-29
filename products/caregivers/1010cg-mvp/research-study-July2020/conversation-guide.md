@@ -16,9 +16,8 @@
 
 ### Project-specific setup
 
-- Open VA.gov in a tab
-- Open prototype in another tab (https://vsateams.invisionapp.com/share/MWVG8WYHAR8#/screens)
-- Open paper form (https://www.va.gov/health-care/forms/vha-10-10CG.pdf) to show at the end
+- Open [10-10CG form](https://staging.va.gov/caregivers/introduction) in staging environemnt 
+- 
 
 ## Intro - 5 minutes
 
