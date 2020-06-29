@@ -11,24 +11,24 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have a feature flag turn it on for certain users based on their log-in email address.
 
 ### Results:
-- Number of users: x
-- Number of bugs identified / fixed: x/x
-- Was the data submitted (if any) easy for VA to process?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+**- Number of users:**
+**- Number of bugs identified / fixed:**
+**- Was the data submitted (if any) easy for VA to process?:**
+**- Types of errors logged:**
+**- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?** 
+**- If yes, what: lorem ipsum** 
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
 ### The Plan
-Launch behind a feature flag. Test with team. (1 day)
-If things go well, we'll launch to 25% of traffic. (1 week)
-If things go well, we'll launch to 50% of users. (48 hours)
-If everything looks good, we'll then launch to 100% of users.
+- Launch behind a feature flag. Test with team. (1 day)
+- If things go well, we'll launch to 25% of traffic. (1 week)
+- If things go well, we'll launch to 50% of users. (48 hours)
+- If everything looks good, we'll then launch to 100% of users.
 **Desired date range:** 9/9/20 - 9/23/20 
 **How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
 
-**- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+**What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
 We will monitor the following metrics to ensure there are no issues:
 
 For each section:
