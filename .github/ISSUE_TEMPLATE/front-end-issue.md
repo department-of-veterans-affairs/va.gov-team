@@ -14,6 +14,19 @@ assignees: ''
 - Ensure the back end data from API is displayed in local and review instance
 - Ensure unit tests are available. 
 
+## Acceptance Criteria
+- [ ] Designer comments on this issue to approve page styling 
+- [ ] Unit tests pass
+- [ ] E2E tests cover current code and regression
+- [ ] End-to-end tests show 0 violations.
+- [ ] The data returned matches API response (for given user or scenario)
+- [ ] All axe checks pass
+- [ ] All color contrast checks pass
+- [ ] All zoom testing passes
+- [ ] All keyboard checks pass 
+- [ ] All screenreader checks pass
+
+## Appendix
 <details> 
 
  <summary>Ensure your code changes are covered by E2E tests (expand)</summary>
@@ -96,17 +109,7 @@ assignees: ''
 
 </details>
 
-## Acceptance Criteria
-- [ ] Designer comments on this issue to approve page styling 
-- [ ] Unit tests pass
-- [ ] E2E tests cover current code and regression
-- [ ] End-to-end tests show 0 violations.
-- [ ] The data returned matches API response (for given user or scenario)
-- [ ] All axe checks pass
-- [ ] All color contrast checks pass
-- [ ] All zoom testing passes
-- [ ] All keyboard checks pass 
-- [ ] All screenreader checks pass
+
 
 ---
 ## How to configure this issue
