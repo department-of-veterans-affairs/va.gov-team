@@ -4,11 +4,11 @@
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range or test duration: Estimated: 8/26 - 9/8 
-- Desired number of users: 10 users
-- How you'll recruit the right production test users: We will recruit users via Perigean
-- How you'll conduct the testing: We will share screen with users and ensure the different features work correctly
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will have a feature flag turn it on for certain users based on their log-in email address.
+- **Desired date range or test duration** Estimated: 8/26 - 9/8 
+- **Desired number of users:** 10 users
+- **How you'll recruit the right production test users:** We will recruit users via Perigean
+- **How you'll conduct the testing:** We will share screen with users and ensure the different features work correctly
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have a feature flag turn it on for certain users based on their log-in email address.
 
 ### Results:
 - Number of users: x
@@ -27,10 +27,18 @@
 
 ### Planning
 
-- Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- Desired date range: 9/9/20 - 9/29/20
+- How will you make the product available in production while limiting the number of users who can find/access it: We will utilize Flipper to control what % of traffic sees Profile 2.0 vs the old profile.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
+Successful form submissions for each section
+Failed form submissions for each section
+Direct Deposit Error count
+Direct Deposit Retrievals
+Direct Deposit Form Submits
+Address Validation Successful updates
+Address Validation Save failures
+
+- Links to dashboard(s) showing "success criteria" metrics: [insert link to dashboard] TBD
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
