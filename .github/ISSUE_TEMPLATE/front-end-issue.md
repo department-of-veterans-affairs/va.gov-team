@@ -14,6 +14,12 @@ _Insert issue details here_
 - Ensure the page is styled according to design spec. 
 - Ensure the back end data from API is displayed in local and review instance
 - Ensure unit tests are available. 
+- Ensure your code changes are covered by E2E tests
+- Run axe checks using the Chrome or Firefox browser plugin
+- Test for color contrast and color blindness issues
+- Zoom layouts to 400% at 1280px width
+- Test with 1 or 2 screen readers
+- Navigate using the keyboard only
 
 ## Acceptance Criteria
 - [ ] Designer comments on this issue to approve page styling 
