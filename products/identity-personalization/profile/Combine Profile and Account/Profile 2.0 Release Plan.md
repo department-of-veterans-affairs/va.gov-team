@@ -1,7 +1,7 @@
 # Profile 2.0 Release Plan 
 ---
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: moderated production testing (UAT)
 
 ### Planning:
 - **Desired date range or test duration** Estimated: 8/26 - 9/8 
@@ -21,7 +21,7 @@
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
 
 ### The Plan
-Launch behind a feature flag. Test with team. (2 days)
+Launch behind a feature flag. Test with team. (1 day)
 If things go well, we'll launch to 25% of traffic. (1 week)
 If things go well, we'll launch to 50% of users. (48 hours)
 If everything looks good, we'll then launch to 100% of users.
@@ -29,16 +29,19 @@ If everything looks good, we'll then launch to 100% of users.
 **How will you make the product available in production while limiting the number of users who can access it?** We will launch behind a feature flag and and control what % of users see Profile 2.0 using Flipper. 
 
 **- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
-We will monitor the following metrics to ensure they are within normal ranges and there are no issues:
-Successful form submissions for each section
-Failed form submissions for each section
-Direct Deposit Error count
-Direct Deposit Retrievals
-Direct Deposit Form Submits
-Address Validation Successful updates
-Address Validation Save failures
-Connected Apps error counts
-Military Info error counts
+We will monitor the following metrics to ensure there are no issues:
+
+For each section:
+Successful Retrievals
+Failed Retrievals
+Successful submissions
+Failed form submissions
+Error counts
+Form Submits
+Successful updates
+Save failures
+
+Profile visits
 
 - Links to dashboards showing "success criteria" metrics: [insert link to dashboard] TBD
 
@@ -46,28 +49,28 @@ Military Info error counts
 ## Go Live!
 
 ### Planning:
-- Desired date: No later than Sept 23rd, 2020.
+- Desired date: Sept 23rd, 2020.
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Number of unique users: 
+- Post-launch KPI 1 actual:
+- Post-launch KPI 2 actual: 
+- Post-launch KPI 3 actual: 
+- Any issues with VA handling/processing?: 
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what: 
 
 ### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Post-launch KPI 2 actual: 
+- Post-launch KPI 3 actual: 
+- Any issues with VA handling/processing?:
+- Types of errors logged: 
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- If yes, what:
 
 ## Post-launch Questions 
 
