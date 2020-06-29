@@ -32,6 +32,7 @@ This work happened in June 2020 in order to understand what sort of statuses deb
   -   Late or missed payment per agreement
   -   Debt returned from CS / TOP
   -   Debtor death
+  -   Misc (Potential unlabelled hold status for complex or sensitive statuses)
 
 - **Debt is being repaid to the VA** (Payment status)
   -   Payment plan agreement (periodic or scheduled)
