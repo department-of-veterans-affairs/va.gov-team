@@ -5,7 +5,8 @@
 
 ### Planning:
 - Desired date range or test duration: [date - date] or [duration]
-- Desired number of users: 10 users
+Desired number of users: 
+- 10 users
 - How you'll recruit the right production test users: We will recruit users via Perigean
 - How you'll conduct the testing: We will share screen with users and ensure the different features work correctly
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We will have a feature flag turn it on for certain users based on their log-in email address.
