@@ -30,7 +30,7 @@ Do you have something to add to the word list? Let us know in [#vsp-content-ia](
 
 ### 508 Office
 
-OK to use if context makes it clear that you are referring to the [VA Section 508 Office](#heading=va-section-508-office).
+OK to use if context makes it clear that you are referring to the [VA Section 508 Office](#va-section-508-office).
 
 
 ## A
