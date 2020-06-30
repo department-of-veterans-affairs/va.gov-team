@@ -1,3 +1,7 @@
+### Jobs Statement
+When going to a healthcare visit, I want to provide my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care. 
+
+	- When < situation> I want to < Motivation > so that < Expected outcome
 
 ### Unmet Needs
 1. **Provide updates when convenient and relevant with the device and location of choice**
@@ -56,6 +60,12 @@
 	  	
 		> “He tries to let both systems know what Im doing so they have the information.”
 	
+### Barriers
+
+- Access (authorization) to MyHealtheVet due to requirement to verifying identity in a clinic before a Veteran can access their patient portal and can review the most up to date medical records information. 
+- Going to a VA clinic annually is a checkbox for VA Benefits and Free Rx, therefore, the Veteran is not as engaged and motivated to prepare for the visit and discussion. 
+
+---
 
 ### Validated Assumptions
 
@@ -81,9 +91,17 @@
 		> “Some time ago..years ago...I had to fill out forms telling about my family hx, any of my medical things done. I’ve been in the system with the VA since 89...I don’t know the date I filled out information because they have it in the system”
 	
 		>  _Kiosk - Check in_ “was easy you put your card into the device you check in and wait a few minutes and they call you”
+		
 
-### Barriers
+---
 
-- Access (authorization) to MyHealtheVet due to requirement to verifying identity in a clinic before a Veteran can access their patient portal and can review the most up to date medical records information. 
-- Going to a VA clinic annually is a checkbox for VA Benefits and Free Rx, therefore, the Veteran is not as engaged and motivated to prepare for the visit and discussion. 
+### Adjusted Problem Statement
+**Pre-Discovery**
 
+As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
+
+**Post Discovery _draft_**
+
+As a Veteran, I’m unable to contribute updates of my current health status and medical history that is leveraged in my care across the VA and community providers
+	
+	- _Words to consider adding: easily, quickly, share, repeat_
