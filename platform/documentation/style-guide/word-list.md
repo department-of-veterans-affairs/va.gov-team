@@ -14,7 +14,7 @@ This word list is not a glossary or comprehensive list of VA-related acronyms an
 For terms that are not on this list, refer to:
 
 *   [VA.gov Style Guide Word List](https://design.va.gov/content-style-guide/word-list)
-*   DSVA acronym list - This [acronym list](https://github.com/department-of-veterans-affairs/acronyms) powers a Slack bot that you can use in the DSVA Slack to unpack any VA-related acronym. To use the Slack bot, message yourself by typing `/wtf [some VA acronym]` Example: `/wtf DSVA` Note that the list includes over 5,000 acronyms and the same acronym is often used to mean different things in different contexts.
+*   DSVA acronym list - This [acronym list](https://github.com/department-of-veterans-affairs/acronyms) powers a Slackbot that you can use in the DSVA Slack to unpack any VA-related acronym. To use the Slack bot, message yourself by typing `/wtf [some VA acronym]` Example: `/wtf DSVA` Note that the list includes over 5,000 acronyms and the same acronym is often used to mean different things in different contexts.
 *   [Merriam-Webster](https://design.va.gov/content-style-guide/www.merriam-webster.com)
 
 Do you have something to add to the word list? Let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
@@ -206,7 +206,7 @@ Don’t use. Use [staged rollout](#staged-rollout) instead.
 
 Use with caution. It’s OK to generically reference “the platform” if the context and audience for your document make it clear whether you are referring to the [DEPO Platform](#depo-platform) or the [Veteran-facing Services Platform (VSP)](#vsp). 
 
-The relationship between the DEPO and VSP is often confusing for readers, particularly new team members. Err on the side of being specific if you’re not sure whether the context makes it clear what you’re referring to.
+The relationship between the DEPO and VSP is often confusing for readers, particularly new team members. If you're uncertain whether the context makes it clear what you’re referring to, choose the more specific term.
 
 
 ### p.m.
@@ -296,6 +296,8 @@ Write as shown. Don’t use TIC if you’re introducing the term for the first t
 
 ## U
 
+### use vs. utilize
+Don’t write utilize. Write “use” instead.
 
 ## V
 
@@ -334,6 +336,9 @@ The frontend framework is also referred to as the Formation design system. We ar
 
 <a name="vsa"></a>
 ### Veteran-facing Services Applications (VSA)
+OK to just use VSA.
+
+VSA is a VFS team
 
 
 ### Veterans Benefits Administration (VBA)
