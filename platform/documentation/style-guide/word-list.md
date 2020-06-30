@@ -30,7 +30,7 @@ Do you have something to add to the word list? Let us know in [#vsp-content-ia](
 
 ### 508 Office
 
-Do not use. See [VA Section 508 Office](#heading=va-section-508-office).
+OK to use if context makes it clear that you are referring to the [VA Section 508 Office](#heading=va-section-508-office).
 
 
 ## A
@@ -302,7 +302,7 @@ Write as shown. Don’t use TIC if you’re introducing the term for the first t
 
 ### VA Section 508 Office
 
-Write full official name. Don't shorten to 508 Office.
+Write as shown in docs introducing the concept of accessibility standards and compliance. Generally OK to shorten to 508 Office if context makes it clear that you are referencing the VA Section 508 Office.
 
 The [VA Section 508 Office](https://www.section508.va.gov/) requires each project team, or product acquirer to submit appropriate Section 508 documents to validate conformance to Section 508 standards.
 
