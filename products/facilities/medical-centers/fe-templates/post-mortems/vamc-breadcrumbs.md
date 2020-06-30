@@ -57,7 +57,7 @@ The code was reverted at 8:59 AM MT on June 24, 2020. A fix was deployed to Stag
 - The impact on pages outside the VAMC system was not identified during code review. 
 
 ### Where we got lucky
-- The team has Ethan (embeeded Drupal engineer) with strong template knowledge who immediately jumped in to assist with troublehsooting. 
+- The team has Ethan (embedded Drupal engineer) with strong template knowledge who immediately jumped in to assist with troublehsooting. 
 
 ### Takeaways
 - Even if they will not be working directly in Drupal, our team needs familiarity with the system and hierachy. 
