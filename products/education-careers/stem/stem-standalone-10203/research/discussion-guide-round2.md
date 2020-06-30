@@ -41,9 +41,16 @@ Note:  Each participant will go through ONE of the tasks below.
 
 ## Task 1: Authenticated User with Too Much Entitlement - 15 minutes
 
-We're going to do some role playing.  Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?  For this prototype, you will log in as an authenticated user.
+We're going to do some role playing.  Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?  You will log in as an authenticated user.
 
-*Remember to think aloud as you go through so we can hear what works for you and what doesn't.
+*When eligibility alert appears*
+
+- What did you think of the eligibility alert message you saw?  Would you still apply?
+
+You (Sammy) contacted the VA about his entitlement and discovered that they are currently experiencing a glitch in their system.  You actually have 3 months of entitlement left and the VA told you to continue filling out the application and disregard the eligibility alert while they fix the system. 
+
+*When school information appears*
+- What did you think of the pre-population of school information?  What would you do if the information wasn't right?
 
 Things to watch for:
 - Does the user read the subway map?
@@ -51,15 +58,15 @@ Things to watch for:
 - How does the user react to the eligibility alert message (entitlement)?
 
 **Upon completion of task**
-- What did you think of the eligibility alert message you saw?  Would you still apply?
-- What did you think of the pre-population of school information?  What would you do if the information wasn't right?
 - In your personal field of study, would you expect to be eligible for this scholarship?
 - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 
 ##  Task 2: Unauthenticated User that is Not Chapter 33 - 15 minutes
 
-We're going to do some role playing.  Let's say you're Sammy Smith and you're using the **Montgomery GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. You don't currently have an account and aren't interested in creating one.  How would you go about filling out this application?  
+We're going to do some role playing.  Let's say you're Cameron Caldwell and you're using the **Montgomery GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. You don't currently have an account and aren't interested in creating one.  How would you go about filling out this application?  
+*When eligibility alert appears*
+- What did you think of the eligibility alert message you saw?  Would you still apply?
 
 Things to watch for:
 - Does the user read the subway map?
@@ -68,14 +75,16 @@ Things to watch for:
 
 
 **Upon completion of task**
-- What did you think of the eligibility alert message you saw?  Would you still apply?
 - In your personal field of study, would you expect to be eligible for this scholarship?
 - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
 ## TASK 3: Authenticated User in non-STEM program - 15 minutes
 
-We're going to do some role playing. Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Philosophy** from **Chicago State University**. How would you go about filling out this application?  For this prototype, you will log in as an authenticated user.
+We're going to do some role playing. Let's say you're Jordan Johnson and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Philosophy** from **Chicago State University**. How would you go about filling out this application?  You will log in as an authenticated user.
 
+*When eligibility alert appears*
+
+- What did you think of the eligibility alert message you saw?  Would you still apply?
   
   Things to watch for:
   - Does the user read the subway map?
@@ -85,7 +94,6 @@ We're going to do some role playing. Let's say you're Sammy Smith and you're usi
   - If they click "Check remaining benefits", what would you expect to happen (e.g. modal, new page, etc.)? 
 
 **Upon completion of task:**
-  - What did you think of the eligibility alert message you saw?  Would you still apply?
   - In your personal field of study, would you expect to be eligible for this scholarship?
   - In terms of applying for this scholarship, on a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
