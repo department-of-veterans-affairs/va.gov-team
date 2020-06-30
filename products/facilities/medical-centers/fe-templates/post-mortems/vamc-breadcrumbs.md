@@ -5,7 +5,7 @@ Date: June 26, 2020
 Authors: 
 - Michelle Middaugh, Ad Hoc
 
-Status: Resolved
+Status: Resolving
 
 ## What happened?
 When the "Home" breadcrumb was suppressed for the work in [#10038](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10038), it was also inadvertently removed from VA.gov pages outside the VAMC system.  
