@@ -19,6 +19,12 @@
   - Veteran profile- demographics, notifications, preferences, .etc
   
   
+[AVS PreVist Summary - Dr. Byrne ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/loma_linda.md) | Thursday, July 2⋅11:30am – 12:30pm (CST)
+  - is Internal Medicine and Informatics physician form Loma Linda
+
+[VA Pacific Islands Health Care System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/pacific_islands.md) | Thursday, July 2⋅3:30 – 4:30pm (CST)
+
+
 ## To be Scheduled
 
 **Stakeholders who will be involved or interviewed:**
