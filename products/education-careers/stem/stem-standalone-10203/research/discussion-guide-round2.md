@@ -44,6 +44,7 @@ Note:  Each participant will go through ONE of the tasks below.
 
 We're going to do some role playing.  Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?  You will log in as an authenticated user.
 
+
 *When eligibility alert appears*
 
 - What did you think of the eligibility alert message you saw?  Would you still apply?
@@ -66,6 +67,7 @@ Things to watch for:
 ##  Task 2: Unauthenticated User that is Not Chapter 33 - 15 minutes
 
 We're going to do some role playing.  Let's say you're Cameron Caldwell and you're using the **Montgomery GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. You don't currently have an account and aren't interested in creating one.  How would you go about filling out this application?  
+
 *When eligibility alert appears*
 - What did you think of the eligibility alert message you saw?  Would you still apply?
 
