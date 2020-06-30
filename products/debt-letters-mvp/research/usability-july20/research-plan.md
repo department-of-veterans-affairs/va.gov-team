@@ -1,58 +1,128 @@
 # Research Plan for BAM2, Debt Letters MVP, July 2020
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 
 ## Goals	
 1. What product & team are you doing this research for?	
-    - Debt Letters MVP, BAM2
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-    - The Debt Letters MVP is a congressionally-mandated initiative to provide VA debt letters online. Today, debt letters are delivered by mail and often don't make it into the hands of the Veterans they address. As an initial MVP, the DMC is looking to demonstrate forward progress on this initiative by implementing a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them.
+    - Debt Letters MVP, BaM2
+
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
+
+- The Debt Letters MVP is a congressionally-mandated initiative to provide VA debt letters online. Today, debt letters are delivered by mail and often don't make it into the hands of the Veterans they address. As an initial MVP, the DMC is looking to demonstrate forward progress on this initiative by implementing a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them.
   
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-  - Generative questions:
-    - What are Veterans' experiences with VA debts?
-    - How would Veterans expect or prefer to be notified of their debts with the VA?
-    - What do Veterans need to know about their debts at any given time?
-    - 
-  - Evaluative questions:
-    - Are Veterans able to locate the VBA Debt Letters MVP through VA.gov's navigation?
-    - Do Veterans understand
-4. Hypothesis: What is your hypothesis for this research? 	
+
+- Interview research questions:
+   - What are Veterans' experiences with VA debts?
+   - What problems do Veterans experience with the debt letters themselves?
+   - Have Veterans interacted with the Debt Management Center? How was that experience?
+   - How do Veterans keep track of their debts with the VA now?
+   - What is important for Veterans to know about their debts? 
+   - How do Veterans prefer to pay VA debts and why?
+   - How would Veterans expect to be notified of their debts with the VA? Is that what they prefer?
+   - What do Veterans expect to happen after a debt is paid or resolved?
+   - What sort of online tools/capabilities would Veterans want available to them when they get a VA debt?
+- Usability research questions:
+   - Where would Veterans expect to find the VBA Debt Letters on VA.gov?
+   - Debt List:
+     - Do the debt summary cards consist of the right information?
+     - Do Veterans understand each of the status types?
+     - Is it clear to Veterans which debts they should investigate further from the debt list?
+     - What next steps would Veterans take after viewing the debt list?
+     - What do Veterans expect to happen once they click the ‘View debt details’ button?
+     - What do they expect to see when they click the ‘View debt details’ button? 
+     - What would Veterans think if a debt disappears from this page?
+     - Will Veterans expect to see their medical debts as well?
+   - Debt Details:
+     - Is it clear what’s currently happening with their debt(s) (i.e. holding, referred to ToP, etc.)? 
+     - Do Veterans understand why there is sometimes a ‘Next steps’ section and other times Holding or Repayment alerts?
+     - What do Veterans expect to happen once a debt is no longer being held?
+     - Are Veterans able to successfully download their letters?
+     - Are Veterans still interested in downloading their letters after viewing what’s currently happening with their debts?
+        - If so, for what purpose(s)?
+     - What information are they looking for within those letters that would be helpful as they navigate their debt?
+     - What are their next steps after downloading the letters?
+     - Are Veterans able to easily navigate back from debt details to debt list?
+     - What do Veterans expect to happen when downloading a debt letter?
+     - Are the options available to resolve debts clear? 
+     - How do Veterans feel about certain links redirecting them from the tool into Debtman?
+     - What do Veterans expect to happen after a debt is resolved?
+
+4. Hypothesis: What is your hypothesis for this research?
+- Veterans will have negative feedback about the debt letters.
+- Veterans will express difficulty in keeping track of their debts.
+- Veterans will expect to see ALL of their debts here, including medical
+- Veterans will want to know more specifically why they have debts.
+- Veterans will be able to find the debt letter downloads.
+- Veterans will not be interested in downloading the debt letters to understand their debt, but may do so for record keeping.
+- Veterans will expect to be able to access past debts, and will be shocked if their debt disappears.
+- Veterans may not understand ‘Next steps’ being replaced by a holding or repayment status.
+- Veterans will be confused by new tabs being opened to Debtman.
+
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+- Remote moderated directed interviews and usability testing on high fidelity prototypes
   	
-2.	Why this method? How does this methodology help you answer your research questions? 	
+2.	Why this method? How does this methodology help you answer your research questions? 
+- We chose these methods because we were unable to do full discovery research prior to development work being started, so we have a lot of lingering generative questions and a prototype to be evaluated.
+
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
+- Online, via Zoom
+
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+- High fidelity prototypes in UXPin (link forthcoming)
+
+5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+- Zoom
+
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past.
+- In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
+- We would like to speak with a mix of participants, including:
+   - A mix of pre- and post-9/11 Veterans
+   - A mix of familiarity with technology
+   - Include a mix of male and female Veterans
+   - At least 7 participants who have had Education debts
+   - At least 8 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
+    At least 3 Veterans with a disability rating of 80% or higher
+
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+- Perigean recruitment
+
 ## When? 	
-1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
+1.	Timeline: 
+July 16th - July 21st
+
+2.	Prepare: When will the thing you are testing be ready?
+- Prototype (App): July 6th 
+
+3. Length of Sessions:
+- Approximately 1 hour
+
+4.	Availability: If applicable, when would you like sessions scheduled?
+- July 16, 9:30 - 5:00 EST
+- July 17, 9:30 - 5:00 EST
+- July 20, 9:30 - 12:00, 2:00 - 5:00 EST
+- July 21, 9:30 - 5:00 EST
+- **Please schedule at least 30 minutes between sessions**
+
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
+- July 14, 10:00am (EST) with Mahariel Rosario
+
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Moderator: Rebecca Walsh (rebecca.walsh@adhocteam.us) & Riley Orr (riley@amida.com)	
+- Research guide writing and task development (usually but not always same as moderator): Rebecca Walsh & Riley Orr	
+- Participant recruiting & screening: Perigean
+- Project point of contact:	Matt Self (matthew.self2@va.gov), Leah Keeler (lkeeler@governmentcio.com)
+- Participant(s) for pilot test: Mahariel Rosario (mrosario@governmentcio.com), Riley Orr, Rebecca Walsh
+- Note-takers: Rebecca Walsh & Riley Orr 	
+- Observers: Leah Keeler, Matthew Self, Mahariel Rosario, Brad Conley (bconley@governmentcio.com), Cameron Testerman (cameron@oddball.io), and DMC teammembers (TBD)	
+
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+- Product Outline: 	
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+TBD
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
