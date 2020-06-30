@@ -14,7 +14,7 @@ The goals of this study were to:
 
 - Validate or invalidate the usefulness and understandability of operating statuses
 - Identify gaps between an operating statuses’ application and how they are interpreted
-- Determine how Veterans categorize events that affect a facilities operating status
+- Determine how Veterans categorize events that affect a facility's operating status
 
 The research questions we wanted to address were:
 
