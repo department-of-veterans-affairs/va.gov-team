@@ -1,8 +1,8 @@
 # Healthcare Experience Discovery Topline Summary
 
 **Prepared by**: Aricka Lewis, Ad Hoc, VSA
-- [Research Folder]()
-- [Mural Board]()
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research)
+- [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1592833466678/a81703fb66d5e0f75bc0f02597cbabb0bbddeede)
 
 This topline summary is a result of the synthesis that happens after conducting/observing research sessions. This is a high level summary of trends and analysis, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered.
 
