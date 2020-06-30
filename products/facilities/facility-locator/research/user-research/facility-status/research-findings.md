@@ -95,8 +95,12 @@ and
 > "I would make assumption it would give me special instruction at the facility or something out of the ordinary going on at the facility."
 
 
-**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** In one participant’s own words, 
+**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** However, participants expect to find clear details about what services will be available.
 > “Telehealth lets me know I will talk to someone, and virtual. I guess they are the same. When I see virtual I think being able to use video. I can see them and they can see me. I would think virtual services would be like getting a doctor to see an injury so I do not need to show up to the site. Have a nurse or doctor check out the injury to see if I need an appointment.”
+
+> "My doctor was offering Telehealth, but how do you do labs? Why would I want to just talk to you if I still have to come in to do labs?"
+
+> "If there is a list of services, it would say, these are the services and we can do through Telehealth. I guess it could just be a dropdown from limited services with a list."
 
 
 **5. Veterans want to know from the website what services will be available to them and they expect it to be accurate.** Participants were given a scenario of planning a visit to a facility in the area where they would be travelling. When asked what information they would need, participants mentioned proximity, hours and services. 
