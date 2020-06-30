@@ -76,7 +76,7 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 
 Towards the end of the study, following the card sort and definition exercises, participants were shown a live location that used ‘Facility Closed’ as a status but offered virtual services. This 'mismatch' elicited strong reactions in some participants, 
 
-> “Facility closed is garbage, that is like nope we're closed, but they are not!” 
+> “Facility Closed is garbage! That is like, nope, we're closed. But they are not!” 
 
 and 
 
