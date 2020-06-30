@@ -1,5 +1,5 @@
 ### Jobs Statement
-When going to a healthcare visit, I want to provide my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care. 
+When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care. 
 
 	- When < situation> I want to < Motivation > so that < Expected outcome
 
