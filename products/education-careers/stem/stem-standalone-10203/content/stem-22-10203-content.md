@@ -188,7 +188,9 @@ If your situation changes in the future and you meet this requirement, you may r
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply? (*Required)  
+You must be a Chapter 33 beneficiary to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+
+Would you still like to apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
@@ -292,7 +294,9 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply? (*Required)  
+You must be a Chapter 33 beneficiary to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+
+Would you still like to apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
