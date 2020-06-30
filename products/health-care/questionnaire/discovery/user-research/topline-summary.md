@@ -54,4 +54,6 @@ This topline summary is a result of the synthesis that happens after conducting/
 - We should update our problem statement to reflect the findings of this study
   - E.g. Veterans need a way to provide routine information to their provider before a visit so that they can optimize their time at the VA.
 - Multiple participants mentioned that digital forms would help them keep a log of how they were feeling before visits and track that information over time
+- Veterans had a big focus on mental health
+- Lots of feedback around not trusting VA system but loving the providers at their local clinics
 
