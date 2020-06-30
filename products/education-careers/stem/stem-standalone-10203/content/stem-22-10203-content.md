@@ -294,7 +294,7 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-You must meet all the listed requirements to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+You must meet the above requirements to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
 
 Would you still like to apply and let us determine your eligibility? (*Required)  
 
