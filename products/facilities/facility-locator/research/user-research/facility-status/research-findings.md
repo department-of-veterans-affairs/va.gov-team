@@ -95,7 +95,7 @@ and
 > "I would make assumption it would give me special instruction at the facility or something out of the ordinary going on at the facility."
 
 
-**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** Additionally, participants want clear details about what services will be available.
+**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** Additionally, participants want clear details about what services will be available to them and how.
 > “Telehealth lets me know I will talk to someone, and virtual. I guess they are the same. When I see virtual I think being able to use video. I can see them and they can see me. I would think virtual services would be like getting a doctor to see an injury so I do not need to show up to the site. Have a nurse or doctor check out the injury to see if I need an appointment.”
 
 > "My doctor was offering Telehealth, but how do you do labs? Why would I want to just talk to you if I still have to come in to do labs?"
