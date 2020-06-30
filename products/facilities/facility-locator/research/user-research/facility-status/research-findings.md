@@ -115,7 +115,7 @@ Upon seeing a listing with “Limited Hours and Services” another participant 
 
 > "Are these messages that I’m going to get on my phone?"
 
-This was especially important for Veterans that may eed to travel long distances, 
+This was especially important for Veterans that may need to travel long distances, 
 
 > “because if you drive two hours to a VA and there is a chemical spill and they are only taking emergencies, but you have an appointment, that’s a long distance to drive only to find out that your appointment has been canceled.” 
 
