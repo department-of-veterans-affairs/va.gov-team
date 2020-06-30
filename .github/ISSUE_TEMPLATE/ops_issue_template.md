@@ -14,7 +14,7 @@ _What details are necessary for understanding the specific work or request track
 _Any additional context for the reader to know, if applicable_ 
 
 ## Technical notes
-_Notes around work that is happen, if applicable_
+_Notes around work that is happening, if applicable_
 
 ---
 ## Tasks
