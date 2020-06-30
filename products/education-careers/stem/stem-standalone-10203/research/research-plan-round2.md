@@ -9,7 +9,7 @@ Currently, Veterans applying for the Rogers STEM Scholarship to extend their CH3
 
 During the initial implementation of the STEM Scholarship application as part of the 22-1995, an issue arose where a high number of ineligible people (>80% of applicants) were applying for the scholarship, resulting in significant work for the application processors. Steps were taken to address that as part of the 22-1995, and an integral part of the new form is to continue to drive the number of ineligible submissions down.
 
-To address the above, the STEM Scholarship application was re-designed and tested with users.  Testing showed that the application was easy for applicants to fill out, but a few recommendations were made to further improve the design.  Changes included providing an applicant's remaining entitlement to them earlier in the process and revising some content to make the application requirements clearer.  These recommendations have been incorporated into the design and researchers need to test the effectiveness of the revisions.
+To address the above, the STEM Scholarship application was re-designed and tested with users.  Testing showed that the application was easy for applicants to fill out, but a few recommendations were made to further improve the design and reduce the number of ineligible applicants.  Changes included providing an applicant's remaining entitlement to them earlier in the process and revising some content to make the application requirements clearer.  These recommendations have been incorporated into the design and researchers need to test the effectiveness of the revisions.
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
@@ -20,19 +20,19 @@ Intro page
 New entitlement alerts
   - Is the entitlement warning alert on the intro page effective at deterring ineligible, authenticated applicants from beginning the application?
   - Are entitlement warning alerts effective at deterring ineligible, authenticated applicants from submitting an application [eg. alert on STEM summary page]?
-  - Do applicants expect a grace period (beyond the 6 months)?
+  - Do applicants expect an application grace period (beyond the 6 months) when they may be close to exhausting their GI Bill benefit?
   - What, if any, modifications are needed for entitlement check functionality to ensure it is effective?  
 
 Ineligibility alerts
   - How do non-Chapter 33 participants react to the new, benefit-specific summary page?
-  - How do participants who aren't eligible based on being enrolled in a non-STEM program react to eligibility alerts?
+  - How do participants who aren't eligible due to being enrolled in a non-STEM program react to eligibility alerts?
   
 Ineligibile applicants
   - For "ineligible" participants, how many say they would still apply? Why?
-  - For "ineligible" participants, where do they think they should land when they leave the form on non-eligibility summaries?
+  - For "ineligible" participants, where do they think they should land when they leave the form on non-eligibility summary pages?
 
  Prefilled school data
- - Do users have questions surrounding the prefill of school data? (School name, city, state)
+ - Do users have questions surrounding the prefilling of school data? (School name, city, state)
 
 
   
@@ -106,7 +106,7 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources	
 - Project Outline: 	https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem
  
-- Convo Guide:
+- Convo Guide:  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/stem-standalone-10203/research/discussion-guide-round2.md
 
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
