@@ -162,7 +162,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 - Specify which services at facilities are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Consider the red styling from detail page instead of pink styling to communicate the severity of ‘Facility Closed’. Some users missed the alert entirely and pointed out that the red styling matched their expectations. 
-- Communicate changes in appointments and visiting requirements to Veterans via phone, text or email.
+- Communicate changes in appointments and visiting requirements to Veterans via phone, text or email. Let them choose how they get notified.
 
 
 ## Next Steps
