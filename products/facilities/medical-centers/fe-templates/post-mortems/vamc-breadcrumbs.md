@@ -42,8 +42,9 @@ The code was reverted at 8:59 AM MT on June 24, 2020. A fix was deployed to Stag
 
 | Description                    | Type    | Owner        | Issue # |
 | ------------------------------ | ------- | ------------ | ------- |
-| Build front-end engineer foundational knowledge of Drupal |  Training | Facilities | 
-| Improve end to end testing |  Process | Facilities | 
+| Build front-end engineer foundational knowledge of Drupal |  Training | Facilities | N/A |
+| Improve end to end testing |  Process | Facilities | N/A |
+| Strengthen front end acceptance criteria |  Process | Michelle | [New front end issue template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/front-end-issue.md) |
 
 ## Lessons Learned
 
