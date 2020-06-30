@@ -76,22 +76,21 @@ _June 3 - June 16_
 ## Sprint 24
 _June 17 - June 30_  
 - FE/BE: Test and implement file upload from the form
-- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀  
-- [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀  
 - BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) ⏳ 👈  
 - BE: PDF Fill (multi Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) ⏳ 👈
-- BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
-- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
-- BE/FE: v1 code complete
+
 
 ## Sprint 25
 _July 1 - July 14_ 
 - BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
-
+- BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
+- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
+- BE/FE: v1 code complete
+- [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀  
+- [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀  
 
 ## Sprint 26
 _July 15 - July 28_ 
-- BE: Implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
 - PD: Stakeholder review/ demo
 - PD: Coordinate with VA comms
 - FE: Adjust the robots.txt file to include the direct link to the 686 for no_follow
