@@ -45,11 +45,12 @@ Note:  Each participant will go through ONE of the tasks below.
 We're going to do some role playing.  Let's say you're Sammy Smith and you're using the **Post 9/11 GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. How would you go about filling out this application?  You will log in as an authenticated user.
 
 
-*When eligibility alert appears*
+*When eligibility warning alert on intro page appears*
 
-- What did you think of the eligibility alert message you saw?  Would you still apply?
-
-You (Sammy) contacted the VA about his entitlement and discovered that they are currently experiencing a glitch in their system.  You actually have 3 months of entitlement left and the VA told you to continue filling out the application and disregard the eligibility alert while they fix the system. 
+- What did you think of the eligibility alert message you saw?  
+    - Where do you think the information is coming from?
+    - Do you think this information is accurate?
+    - Would you still apply?
 
 *When school information appears*
 - What did you think of the pre-population of school information?  What would you do if the information wasn't right?
@@ -66,15 +67,21 @@ Things to watch for:
 
 ##  Task 2: Unauthenticated User that is Not Chapter 33 - 15 minutes
 
-We're going to do some role playing.  Let's say you're Cameron Caldwell and you're using the **Montgomery GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. You don't currently have an account and aren't interested in creating one.  How would you go about filling out this application?  
+We're going to do some role playing.  Let's say you're Jamie Lee and you're using the **Montgomery GI Bill** to obtain an undergraduate degree in **Chemistry** from **Chicago State University**. You don't currently have an account and aren't interested in creating one.  How would you go about filling out this application?  
 
 *When eligibility alert appears*
 - What did you think of the eligibility alert message you saw?  Would you still apply?
+
+*When 2nd (STEM) eligibility summary page appears*
+ - What are your thoughts on seeing this information again?
+ - What would you do at this point?
+
 
 Things to watch for:
 - Does the user read the subway map?
 - Does the user experience any confusion in determining how to start the application? (Need to scroll to bottom of page)
 - How does the user react to the eligibility alert message (wrong benefit)?
+- How does the user react to the 2nd ineligibility alert message?
 
 
 **Upon completion of task**
