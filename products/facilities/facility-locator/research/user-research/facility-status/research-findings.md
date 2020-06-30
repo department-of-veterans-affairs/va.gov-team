@@ -1,5 +1,5 @@
 
-# Facility Locator - Operating Status Study - Research Findings
+# Facility Operating Status Study - Research Findings
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
 Leyda Hughes (leyda.hughes@adhocteam.us), 06/23/2020
