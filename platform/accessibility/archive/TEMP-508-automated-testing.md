@@ -21,7 +21,6 @@ module.exports = {
     client
       .url('http://localhost:8080')
       .waitForElementVisible('[data-nwId="body-index"]')
-      .assert.isActiveElement('[data-nwId="body-index"]')
       .keys(TAB)
       .assert.isActiveElement('[data-nwId="link-content-1"]')
       .keys(ENTER);
