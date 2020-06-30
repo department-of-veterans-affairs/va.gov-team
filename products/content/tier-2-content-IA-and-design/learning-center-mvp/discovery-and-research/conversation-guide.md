@@ -45,16 +45,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## First Task: Find article on a specific topic - X minutes
 
 - Imagine you are looking for information on [VA account topic].  Talk me through how you'd find the answer.
-  - *Allow user to respond. Would they start w/ google? Go to VA.gov? Call someone?*
-  - *Post link in chat*
-- Okay, great. I'm going to send you a link to our prototype. Imagine you're starting on the home page of this learning center. Don't click on anything yet, but you can scroll, and talk me through how you'd find that information from here.
-- 
+- Start on the home page of learning center. Scroll and talk me through how you'd find that information from here.
+- Enter search term
 
 ### Things to watch for:
 
 - Does the initial response line up with behavior described in the warm up?
 
-- Did the participant notice  the search bar?
+- Did the participant notice the search bar?
+
+- Participant reaction to audience and topic tags and content?
 
 - Did the participant comment on the `Search` radio buttons above the search bar?
 
@@ -67,11 +67,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### Things to watch for:
 
+- Is it easy for them to navigate this search-focused, tag-based structure?
 - Do the template labels help the user choose the most relevant article to their search?
 - Is the format of each search result helpful, or is a link farm more appropriate?
-- [Etc]
+- How did they react to the tag navigation?
 
-## Third Task: Benefit hub vs Learning center - X minutes
+## Third Task: Navigating back and forth from Benefit hub and Learning center - X minutes
 
 - Start on a hub page, look for information that isn't there, get reaction on having to find it in the learning center.  
 - Take user to an article in the learning center with a CTA that goes back to the hub.
@@ -98,7 +99,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Post-Task Interview - X minutes
 
 - Our session today was focused on the learning center we're developing. Where would you expect to have access to something like that on the website?
-- Tell me how you see the learning center different from overall site search?
+- Tell me how you see the learning center different from overall site search.
+- If they didn't address the radio buttons above the search bar, get their perspective on that
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
