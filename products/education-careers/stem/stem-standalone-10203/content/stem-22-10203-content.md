@@ -149,7 +149,7 @@ Form 22-10203
 ### Chapter Title: 2 of 6: Education benefit
 
 Which benefits have you used or are you currently using? (*Required){ checkboxes } 
-- [ ] Post 9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
+- [ ] Post-9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
 - [ ]	Fry Scholarship (Chapter 33) [Learn more](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/)  
 - [ ] Montgomery GI Bill (MGIB-AD, Chapter 30) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)  
 - [ ] Montgomery GI Bill Selected Reserve (MGIB-SR, Chapter 1606) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)   
