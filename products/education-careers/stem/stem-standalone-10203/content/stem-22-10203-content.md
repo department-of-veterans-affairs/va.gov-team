@@ -504,7 +504,7 @@ Print this page { button }
 
 { blue box }
 
-**Rogers STEM Scholarship**    								
+**Rogers STEM Scholarship**      								
 **(Form 22-10203)**  
 
 for { Fname Lname }  
