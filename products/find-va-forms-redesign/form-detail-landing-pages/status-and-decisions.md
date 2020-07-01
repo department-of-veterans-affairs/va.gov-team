@@ -7,9 +7,15 @@
 
 __Decisions/status from biweekly sync with Steve Wirt (CMS), Andrew Fichter (Lighthouse), Nick Sullivan (PW), Mickin Sahni (PM of PMs), and Jen Lee (PO)__
 
+Decision: 
+We will complete forms search before form detail pages. This is mainly dependent on Lighthouse API work (replacing web scrape with data call to Drupal). 
+
 __Next phase of work - in order:__
+
 1/ PW: Enable CMS preview functionality - this is needed for content team to validate their work.
+
 2/ Lighthouse: Lighthouse API pulling from Drupal data - Andrew believes they can start this work this sprint, but will confirm with Lighthouse team and let us know EOD 7/2.
+
 3/ PW: FE static page approach for form detail pages, per [ticket 10819](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10819). 
 
 
