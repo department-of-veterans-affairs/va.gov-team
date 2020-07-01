@@ -56,7 +56,14 @@ Before we start, a few things I want to mention:
 Feels like there are two different questions here (not sure which one we want to answer)
 
 - Are we missing any features? 
-- How does a user priortize future features? (If so, where does this list of features live) 
+- How does a user priortize future features? (If so, what are these features? login, address validation(?), attaching PoA, a portal to check status) 
+
+
+
+
+
+5:56
+A portal to check status 
 
 ### Things to watch for:
 
