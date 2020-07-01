@@ -143,10 +143,6 @@ Design
 Dev
 - Build - Mobile nav updates
 - Build - Review build pre-QA
-- Pre-launch - Update relevant parts of the product outline/project folder
-  - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
-  - Make sure it's documented which backend systems support the profile
-  - If you were a developer onboarding to this product, what documentation would you want?
 
 Platform
 - Pre-launch — Analytics review (if necessary)
@@ -174,9 +170,14 @@ PM
 - Call center - Request contact center review
 
 Dev
+
 - Testing - Integration testing
 - Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing)
 - Testing - Implement/run tests we determine we need
+- Pre-launch - Update relevant parts of the product outline/project folder
+  - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
+  - Make sure it's documented which backend systems support the profile
+  - If you were a developer onboarding to this product, what documentation would you want?
 
 Platform
 - QA - Conduct QA
