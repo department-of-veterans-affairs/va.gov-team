@@ -15,21 +15,12 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 ### Who we talked to
 
-- 
-
-
-### Research Questions
-
-- Are Veterans familiar with the Facility Locator tool?
-- How and when do they use it?
-- When performing a search, what information is important for them to know at the different stages of a search? 
-- When shown in isolation of other statuses or messaging, how would a Veteran define and interpret each of the three statuses?
-- How would a Veteran categorize and name the different types of events that affect a facility’s operating status?
+-
 
 
 ## Key Findings
 
-1.
+1. Veterans will fill out digital forms if they believe the information will benefit the care they receive
 2.
 3.
 4.
