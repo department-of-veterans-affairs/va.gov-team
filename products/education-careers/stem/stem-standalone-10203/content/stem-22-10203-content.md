@@ -283,7 +283,7 @@ __Your responses:__
 
 **Your remaining education benefits**  
 
-Our entitlement system shows that you have more than 6 months of education benefits remaining. You can apply when you have less than 6 months of entitlement left.  
+Our entitlement system shows that you have more than 6 months of education benefits remaining. You should apply when you have less than 6 months of entitlement left.  
 
 Months you have left to use: **NN months, NN days**   
 
