@@ -1,4 +1,12 @@
-# 20200603
+# 20200701
+
+## Agenda
+- dependency upgrades
+
+## Notes
+- 
+
+# 20200617
 
 ## Agenda
 - deployment / operations
