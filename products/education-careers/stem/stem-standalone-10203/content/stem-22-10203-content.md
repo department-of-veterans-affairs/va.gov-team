@@ -498,13 +498,13 @@ Form 22-10203
 
 We usually process applications within **30 days**.
 
-We may contact you if we need more information or documents.
+We may contact you if we need more information or documents.    
 
-Print this page { button }
+Print this page { button }  
 
-{ blue box }
+{ blue box }   
 
-**Rogers STEM Scholarship**      								
+**Rogers STEM Scholarship**   								
 **(Form 22-10203)**  
 
 for { Fname Lname }  
