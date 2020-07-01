@@ -27,6 +27,7 @@ Build new API endpoints inside of vets-api.
 
 Build an entirely new API that proxies requests to vets-api.
 
+<img width="525" alt="Diagram of mobile API in front of vets-api" src="https://user-images.githubusercontent.com/7627/86256777-b979cb00-bb86-11ea-98d8-8fc72789281f.png">
 
 ### Pros
 - mobile-only optimized endpoints live in their own project/repo
