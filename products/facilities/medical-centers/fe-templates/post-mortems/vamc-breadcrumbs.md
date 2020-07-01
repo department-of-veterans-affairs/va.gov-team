@@ -57,6 +57,7 @@ The code was reverted at 8:59 AM MT on June 24, 2020. A fix was deployed to Stag
 - Front-end engineers did not have foundational knowledge about liquid templates, including mapping to pages. 
 - Front-end engineers are not familiar with Drupal, causing blind spots in testing and troubleshooting. 
 - The impact on pages outside the VAMC system was not identified during code review. 
+- It is hard to tell which pages are affected by the templates given the current structure in which all layouts are in the same directory. Based on feedback from other teams, this will be difficult to change. 
 
 ### Where we got lucky
 - The team has Ethan (embedded Drupal engineer) with strong template knowledge who immediately jumped in to assist with troublehsooting. 
