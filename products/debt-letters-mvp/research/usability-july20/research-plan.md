@@ -110,13 +110,13 @@ July 16th - July 21st
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Rebecca Walsh (rebecca.walsh@adhocteam.us) & Riley Orr (riley@amida.com)	
+- Moderator: Rebecca Walsh & Riley Orr	
 - Research guide writing and task development (usually but not always same as moderator): Rebecca Walsh & Riley Orr	
 - Participant recruiting & screening: Perigean
-- Project point of contact:	Matt Self (matthew.self2@va.gov), Leah Keeler (lkeeler@governmentcio.com)
-- Participant(s) for pilot test: Mahariel Rosario (mrosario@governmentcio.com), Riley Orr, Rebecca Walsh
+- Project point of contact:	Matt Self, Leah Keeler
+- Participant(s) for pilot test: Mahariel Rosario, Riley Orr, Rebecca Walsh
 - Note-takers: Rebecca Walsh & Riley Orr 	
-- Observers: Leah Keeler, Matthew Self, Mahariel Rosario, Brad Conley (bconley@governmentcio.com), Cameron Testerman (cameron@oddball.io), and DMC teammembers (TBD)	
+- Observers: Leah Keeler, Matthew Self, Mahariel Rosario, Brad Conley, Cameron Testerman, and DMC teammembers (TBD)	
 
 ## Resources	
 - Product Outline: 	
