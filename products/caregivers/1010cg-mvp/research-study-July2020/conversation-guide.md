@@ -21,12 +21,12 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Shawna/Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of disabled veterans. 
+Thanks for joining us today! My name is Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of disabled veterans. 
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Please talk aloud as you're looking through things.** . For example say "now I'd click on this.. what's this?" this helps me understand what's going through your head while using the tool. 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
    - Do you currently live with any of your caregivers?
    - Does your caregiver recieve benefits from the VA?
 
-## First Task: [Determining preferred location for Caregiver application] - 5 minutes
+## First Task: [Determining preferred features] - 10 minutes
 
 - Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
 - "Let's say you heard about a way you/your caregiver could recieve benefits from the VA, and that you could apply online at VA.gov.  You have navigated to VA.gov and now want to find the application. Show us where you would go to find it."
