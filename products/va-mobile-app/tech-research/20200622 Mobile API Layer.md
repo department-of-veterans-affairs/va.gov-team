@@ -44,4 +44,5 @@ Build an entirely new API that proxies requests to vets-api.
 - this is additional software to maintain (but not by the VSP team)
 - vets-api endpoint changes to support VA.gov (rare) will require update work
 - perceived duplication: are the use cases for VA.gov and VA Mobile that different?
-- needs a string test suite to quickly indentify regressions and changes to vets-api
+- needs a strong test suite to quickly indentify regressions and changes to vets-api
+- additional network latency for requests, mitigated by deploying to the vets-api container-based runtime
