@@ -53,17 +53,11 @@ Before we start, a few things I want to mention:
 
 ## First Task: [Determining preferred features] - 10 minutes
 
-Feels like there are two different questions here (not sure which one we want to answer)
+Feels like there are two different questions here (not sure which one we want to answer - I am thinking the second bullet)
 
 - Are we missing any features? 
 - How does a user priortize future features? (If so, what are these features? login, address validation(?), attaching PoA, a portal to check status) 
 
-
-
-
-
-5:56
-A portal to check status 
 
 ### Things to watch for:
 
