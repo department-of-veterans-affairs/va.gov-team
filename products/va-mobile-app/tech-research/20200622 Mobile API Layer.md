@@ -1,5 +1,5 @@
 # Mobile-only API Strategy
-[working thinking as of 6/24/2020]
+[working thinking as of 7/1/2020]
 
 
 ## Option 1: mobile-only API (presentation layer) within the vets-api
@@ -8,7 +8,7 @@ Build new API endpoints inside of vets-api.
 
 <img width="525" alt="Diagram of mobile API within vets-api" src="https://user-images.githubusercontent.com/58053619/85463114-e2d59e00-b56b-11ea-97f1-063b9b9c6af9.png">
 
-## Pros
+### Pros
 - We foresee having to make modifications to a number of endpoints to optimize them for mobile; by creating a mobile-only API layer, these optimized endpoints can live in their own namespace
 - A separate namespace will de-risk the possibility of the API changing (ie, we will be decoupled from VA.gov).
 - By doing this in the vets-api presentation layer, we can still use the same integrations from the vets-api integration layer without duplication
@@ -17,7 +17,7 @@ Build new API endpoints inside of vets-api.
 - Authorization for mobile app consumers will be isolated to this area of vets-api - rather than having to add mobile authorization to shared endpoints (this would be great if we choose SSOe for OAuth because token verification would be centralized rather than spread throughout vets-api)
 
 
-## Cons
+### Cons
 - this is additional software to maintain by the VSP team
 - A separate namespace and Rails engine will be additional software to maintain
 - Duplicating the existing APIs initially may seem duplicative, but we expect the mobile API's footprints to drift over time
@@ -27,7 +27,8 @@ Build new API endpoints inside of vets-api.
 
 Build an entirely new API that proxies requests to vets-api.
 
-## Pros
+
+### Pros
 - mobile-only optimized endpoints live in their own project/repo
 - integrations from the vets-api integration layer are reused without duplication
 - can be versioned from the start, ensuring older versions of the app don’t break later on
@@ -38,7 +39,7 @@ Build an entirely new API that proxies requests to vets-api.
 - Does not add any extra weight to vets-api and VSP team
 
 
-## Cons
+### Cons
 - this is additional software to maintain (but not by the VSP team)
 - vets-api endpoint changes to support VA.gov (rare) will require update work
 - perceived duplication: are the use cases for VA.gov and VA Mobile that different?
