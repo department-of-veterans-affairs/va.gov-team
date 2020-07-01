@@ -13,4 +13,4 @@ assignees: gmaciolek, kristinagore
 - Why does the term belongs in the word list — what is the point of confusion or what do people need to know about the term?
 
 ### _What happens now?_ 
-_The VSP Content & Information Architecture team review your request and reach out for more info as needed. If your issue is urgent or you don't hear from us in a timely manner, please reach out to @Gretchen Maciolek, @Kristina Gore in #vfs-platform-support._
+_The VSP Content & Information Architecture team review your request and reach out for more info as needed._
