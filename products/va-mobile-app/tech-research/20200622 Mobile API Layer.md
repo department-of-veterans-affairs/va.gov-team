@@ -1,6 +1,10 @@
-# Mobile-only API Layer
+# Mobile-only API Strategy
 [working thinking as of 6/24/2020]
-## TL;DR: A mobile-only API (presentation layer) within the vets-api may be the most effective API architecutre. 
+
+
+## Option 1: mobile-only API (presentation layer) within the vets-api
+
+Build new API endpoints inside of vets-api.
 
 <img width="525" alt="Diagram of mobile API within vets-api" src="https://user-images.githubusercontent.com/58053619/85463114-e2d59e00-b56b-11ea-97f1-063b9b9c6af9.png">
 
@@ -14,6 +18,28 @@
 
 
 ## Cons
+- this is additional software to maintain by the VSP team
 - A separate namespace and Rails engine will be additional software to maintain
 - Duplicating the existing APIs initially may seem duplicative, but we expect the mobile API's footprints to drift over time
 - Governance could get tricky because there is more to maintain - though arguably less tricky than keeping the APIs in place while also modifying them for mobile
+
+## Option 2: mobile-only API running in front of vets-api
+
+Build an entirely new API that proxies requests to vets-api.
+
+## Pros
+- mobile-only optimized endpoints live in their own project/repo
+- integrations from the vets-api integration layer are reused without duplication
+- can be versioned from the start, ensuring older versions of the app don’t break later on
+- This approach gives the mobile team full control over its endpoints and the shape of responses
+- Authorization for mobile app consumers will be isolated to this project - rather than having to add mobile authorization to shared endpoints (this would be great if we choose SSOe for OAuth because token verification would be centralized rather than spread throughout vets-api)
+- VSP plans on supporting a container-based runtine, which would allow for this project to be deployed alongside vets-api, decreasing latency and avoiding separate VPCs and ATOs (future, 3-6mo)
+- Mobile team can choose its own stack (does not need to be Ruby on Rails)
+- Does not add any extra weight to vets-api and VSP team
+
+
+## Cons
+- this is additional software to maintain (but not by the VSP team)
+- vets-api endpoint changes to support VA.gov (rare) will require update work
+- perceived duplication: are the use cases for VA.gov and VA Mobile that different?
+- needs a string test suite to quickly indentify regressions and changes to vets-api
