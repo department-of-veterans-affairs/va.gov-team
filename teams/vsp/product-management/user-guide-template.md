@@ -22,7 +22,7 @@
 
 ------
 
-### Examples or References of usage
+### Examples or references of usage
 
 ------
 
