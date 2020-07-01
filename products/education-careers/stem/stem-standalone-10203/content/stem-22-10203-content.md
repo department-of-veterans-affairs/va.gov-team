@@ -8,7 +8,7 @@ Breadcrumb: [Home]() > [Education]() > [How to apply]() > **Apply for education 
 
 ## Form Title: Apply for the Rogers STEM Scholarship 
 
-Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)  
+Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship).  
 
 { if logged out, informational alert }  
 
@@ -51,8 +51,7 @@ Months you have left to use: **7 months, 0 days**
 
 * Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 * Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
-* Have used all of your education benefits or are within 6 months of doing so when you submit your application.  
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* Have used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -505,16 +504,16 @@ Print this page { button }
 
 { blue box }
 
-**Rogers STEM Scholarship** 								
-**(Form 22-10203)**
+**Rogers STEM Scholarship**   								
+**(Form 22-10203)**  
 
-for { Fname Lname }
+for { Fname Lname }  
 
-**Confirmation number**
-{ confirmation number } 
+**Confirmation number**  
+{ confirmation number }  
 
-**Date received**
-{ Mon. NN, YYYY }
+**Date received**  
+{ Mon. NN, YYYY }  
 
 **Your claim was sent to**  
 Eastern Region   
