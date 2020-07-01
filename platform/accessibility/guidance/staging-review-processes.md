@@ -6,7 +6,7 @@ Teams must conduct their own accessibility testing **before** scheduling a VSP C
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough pre-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md) when an application is relatively code-stable in production.)
 
 
-## Accessibility checklist for staging review
+## Required accessibility checklist for staging review
 
 - [ ] [Axe scans in daily development](#axe-scans-in-daily-development)
 - [ ] [Axe scans in end-to-end tests](#axe-scans-in-end-to-end-tests)
