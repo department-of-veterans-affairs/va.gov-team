@@ -16,8 +16,10 @@
 
 ### Project-specific setup
 
-- Open [10-10CG form](https://staging.va.gov/caregivers/introduction) in staging environemnt 
 - 
+- Open Drupal Caregiver page in a new tab (is this something we even want to touch?) 
+- Open [10-10CG form](https://staging.va.gov/caregivers/introduction) in a new tab 
+
 
 ## Intro - 5 minutes
 
@@ -61,8 +63,11 @@ Feels like there are two different questions here (not sure which one we want to
 
 ### Things to watch for:
 
-- Where does the participant try first? Next?
-- Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
+- How confident is the participant when listing the items they'd want to see?
+- How does participant respond to "why" each item is important?
+- What elaboration did the participant give (if any) on what information they expect to see in a particular item?
+- Which feature is the participant most confident they'd be interested in?
+- Do any items cause the participant to hesitate?
 
 ## Second Task: [First impressions / thoughts] - 5 minutes
  
