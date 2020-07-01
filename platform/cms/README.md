@@ -1,6 +1,16 @@
 # Content Management System
 
-VA.gov's content management system provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
+**Editor-centered management for Veteran-centered content**
+
+The CMS team's mission is to empower VA content editors with the tools they need to create Veteran-centered content. We work to build a content management system that is easy to use, scalable, and facilitates Veteran-centered experiences on VA.gov and beyond.
+
+Our work includes
+* Content modeling
+* Structured content templates
+* Editorial workflows
+* Governance
+
+
 
 ## A guide to CMS Documentation 
 
