@@ -40,7 +40,7 @@ For topics not covered in this style guide, refer to:
 
 ## Suggestions or questions about the style guide?
 
-You can [create a style guide request in ZenHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gmaciolek%2C+kristinagore&labels=content-ia-team%2C+documentation-support%2C+documentation-style-guide&template=documentation-style-guide-request.md&title=Documentation+Style+Guide+Request) or let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
+You can [create a style guide request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gmaciolek%2C+kristinagore&labels=content-ia-team%2C+documentation-support%2C+documentation-style-guide&template=documentation-style-guide-request.md&title=Documentation+Style+Guide+Request) or let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
 
 
 
