@@ -51,6 +51,7 @@ The code was reverted at 8:59 AM MT on June 24, 2020. A fix was deployed to Stag
 ### What went well
 - Team was immediately responsive and worked together to determine the root cause. 
 - Ethan was able to succinctly identify the templates with impact outside VAMC systems, which helped to scope the fix and focus testing. 
+- As a result of this work, the team learned how to map backwards from a given page to its template. 
 
 ### What went wrong
 - Front-end engineers did not have foundational knowledge about liquid templates, including mapping to pages. 
