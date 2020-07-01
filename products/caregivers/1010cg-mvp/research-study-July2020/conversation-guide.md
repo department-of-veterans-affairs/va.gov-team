@@ -53,8 +53,10 @@ Before we start, a few things I want to mention:
 
 ## First Task: [Determining preferred features] - 10 minutes
 
-- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
-- "Let's say you heard about a way you/your caregiver could recieve benefits from the VA, and that you could apply online at VA.gov.  You have navigated to VA.gov and now want to find the application. Show us where you would go to find it."
+Feels like there are two different questions here (not sure which one we want to answer)
+
+- Are we missing any features? 
+- How does a user priortize future features? (If so, where does this list of features live) 
 
 ### Things to watch for:
 
