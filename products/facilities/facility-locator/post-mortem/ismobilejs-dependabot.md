@@ -1,21 +1,20 @@
 # Postmortem for Upgrade ismobilejs dependecy by depandabot 
 
-Date: 
+Date: 06/29/2020
 
-Authors: 
+Authors: Gibran Rodriguez, GCIO
 
-Status: 
+Status: Resolving
 
 ## What happened?
-_Brief description/summary of failure_
+VSP dependabot upgraded a dependecy called ismobilejs used by the facility locator that broke the logic on mobile layouts. The dependecy was upgraded from 4.1 to 1.1.1 without the facilty locator team being notified. 
 
 ## Background
-_What context is needed to understand this situation?_
+ismobilejs (https://www.npmjs.com/package/ismobilejs) was being used by the facility locator to detect mobile devices rendering the Map/Search controls page.
 
 
 ## Detection
-_How was the issue found?_
-_Date/time of discovery_
+The issue was detected when working on a related issue: 
 
 ## Impact
 _What was the impact on Veterans, business and team?_
