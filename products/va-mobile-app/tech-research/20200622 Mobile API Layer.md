@@ -38,6 +38,8 @@ Build an entirely new API that proxies requests to vets-api.
 - VSP plans on supporting a container-based runtine, which would allow for this project to be deployed alongside vets-api, decreasing latency and avoiding separate VPCs and ATOs (future, 3-6mo)
 - Mobile team can choose its own stack (does not need to be Ruby on Rails)
 - Does not add any extra weight to vets-api and VSP team
+- Positions the mobile app to break off from vets-api more easily in the future, if needed (like Lighthouse is doing)
+- The mobile app would also be in front of Lighthouse and therefore could pick and choose APIs from vets-api and Lighthouse as needed
 
 
 ### Cons
