@@ -28,27 +28,35 @@ This topline summary is a result of the synthesis that happens after conducting/
   - Veterans do not mind filling out information that they perceive to be beneficial to the care they receive
   - Participants generally found value in the questions asked before they see a clinician. 
   - Multiple participants mentioned wanting to know their answers over time to those questions
+  - These forms would decrease wait times and their visit would be more valuable (use all time allotted) 
 - How do these forms fit into the Veteran health journey? How are they notified about the forms? When do they fill them out? (pre-visit, post-visit)
   - Veterans are not notified of the forms they need to fill out until they arrive at the facility
+  - One participant was given a form to fill out and bring back to next visit (these can far in advance, 6 months)
+  - Most participants use MyHealtheVet to prepare for appointments, talk with providers, fill prescriptions
+  - They mentioned that this forms process could fit into that tool
 - What do Veterans call these forms, questionnaires, etc.?
   - Terms like “new patient” “intake” and “clipboard” came up multiple times in these sessions
   - Participants all called these forms/questionnaires different names
+  - Participants had no preference as to what to call this process
 
 ## Hypotheses & Answers
 - Hypothesis: Veterans may have assumptions about how their data is used and shared that may differ from reality (i.e. what happens to their data when they submit the clipboard, what they WANT to happen to their data.
   - Most participants assumed their information was entered into a system that the doctor has access to so that they can review it before seeing a Veteran
+  - Some participants felt that providers may not have seen their information before the visit
+  - Mixed responses: VA specialists are able to see the data but community providers did not have the same information
 - Hypothesis: Filling out forms is a pain point/redundant task.
   - Overall, Veterans do not view filling out forms as a pain point, but the transition from VA to non-VA providers is a pain point due to the redundancy of filling out health related information
+  - Veterans are not currently equired to fill out pre-appointment forms (for each visit) -- could be a potential pain point to add to workflow
 - Hypothesis: Veterans are asked to complete many different types of forms in different formats/delivery methods.
   - No: it is rare for a Veteran to complete multiple forms and when they do fill them out it is either a clipboard (paper) or a computer/tablet provided by the clinician
 - Assumption: Veterans want an option to complete these forms digitally.
-  - Veterans did not state that they wanted a digital way to complete forms.
-  - When asked, most Veterans did say they would use them 
+  - Participants had low expectations for VA forms being digital but when asked, most Veterans did say they would use digital forms 
   - A few Veterans over the age of 65 or those who have seen the same doctors for many years prefer filling out physical forms, but did see the value in digital forms.
   - Most Veterans mentioned that do-ahead digital forms would save time for the clinic
+  - Most participants said they would fill out forms 2-3 days before their appointments
 
 ## Notes
-- The biggest pain point we observed was the handoff between VA providers and non-VA providers
+- The biggest pain point we observed was the handoff between VA nurse to VA provider and VA providers and non-VA providers
   - Participants mentioned that the information they are asked to fill out is redundant to the information they provided the VA
 - Overall, our initial assumption that Veterans fill out multiple forms before, during, or after a visit was incorrect
   - Veterans are asked questions by a nurse at the start of every visit, after check in (this is a potential area for us to improve, how might we allow Veterans to answer these questions at home before their visit?)
@@ -58,4 +66,6 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Multiple participants mentioned that digital forms would help them keep a log of how they were feeling before visits and track that information over time
 - Veterans had a big focus on mental health
 - Lots of feedback around not trusting VA system but loving the providers at their local clinics
+- All participants use MyHealtheVet to talk with providers, fill prescriptions
+  - This solution could fit into that process
 
