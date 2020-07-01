@@ -14,11 +14,13 @@ This topline summary is a result of the synthesis that happens after conducting/
 - Do Veterans see forms/questionnaires as an acute problem or pain point?
   - Veterans did not see forms/questionnaires as a huge pain point but did acknowledge some pain points in the process of filling out forms
   - There is no record or log of how a Veteran answers physical and mental health related questions before a visit. These questions are asked before each appointment
+  - "I'm not going to fill it out if it isn't going to inform my visit"
   - Veterans do not fill out many forms with the VA beyond their initial visits
   - Veterans generally have to fill out forms when they are seeing a new specialist or visiting a civilian (non-VA) provider
 - Who do Veterans believe they are interacting with when they are filling out documents? (clinicians, docs, etc.)	
   - Most participants mentioned that they answer questions from a nurse before seeing their doctor
   - The doctor/provider will ask questions more specific to their visit than the questions the nurses ask
+  - Questions that nurse asks may not be easily accessible by clinician
 - What role do Caregivers have in relation to certain forms?	
   - Caregivers help Veterans fill out information if they are not physically able to do so
   - Caregivers usually keep track of relevant information that may be helpful to include on a form (i.e. current medications)
