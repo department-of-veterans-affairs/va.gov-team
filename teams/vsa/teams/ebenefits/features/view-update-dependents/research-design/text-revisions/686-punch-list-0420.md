@@ -139,7 +139,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [x] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
 ### Submission Failure
-- [ ] Blue "Go Back to VA.gov" button should be "Go back to VA.gov"
+- ~~Blue "Go Back to VA.gov" button should be "Go back to VA.gov"~~ edit: This is a platform level button and would update all forms on the platform. (Not necessarily a bad thing?)
 
 ### Confirmation page
 
