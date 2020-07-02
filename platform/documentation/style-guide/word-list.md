@@ -91,13 +91,21 @@ Use when referencing the VFS Contact Center instead of Call Center.
 
 
 ### Digital Experience Product Office (DEPO)
-
 OK to just write DEPO.
+
+DEPO is an office within the VA's Office of the CTO that manages veteran-facing digital products like VA.gov and others. 
 
 
 ### DEPO Platform
-
 Write as shown.
+
+The DEPO platform includes all services, technology, and applications that are used by multiple teams building Veteran-facing Services (VFS). The DEPO platform is inclusive of, but not limited to, the Veteran-facing Services Platform (VSP) as well as the VA.gov Content Management System (VACMS). 
+
+### Digital Service at VA (DSVA)
+OK to write as DSVA.
+
+The Digital Service at VA is an agency team of the [USDS](https://www.usds.gov/).
+
 
 
 
@@ -127,6 +135,9 @@ Feature toggles are used to manage unreleased features in a continuous integrati
 ### flipper
 
 Use feature toggle instead of flipper. See [feature toggle](#feature-toggle).
+
+### Formation Design System
+Do not use. We are moving away from the name “Formation.” You may still see it in documents and code, but use VA.gov Design System when updating and creating new docs.
 
 
 ### frontend
@@ -211,11 +222,6 @@ Use with caution. It’s OK to generically reference “the platform” if the c
 The relationship between the DEPO and VSP is often confusing for readers, particularly new team members. If you're uncertain whether the context makes it clear what you’re referring to, choose the more specific term.
 
 
-### p.m.
-
-Use this when writing out times, not PM. (Example 8:30 p.m.) See more [guidelines for dates and times](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/formatting-and-organization.md#dates-and-times).
-
-
 ### Personally Identifiable Information (PII)
 
 OK to just use PII without introducing full term first.
@@ -227,6 +233,9 @@ PII is any data that could be used to identify a particular person such as name,
 
 Abbreviation for point of contact. Don’t use. 
 
+### p.m.
+
+Use this when writing out times, not PM. (Example 8:30 p.m.) See more [guidelines for dates and times](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/style-guide/formatting-and-organization.md#dates-and-times).
 
 ### product
 
@@ -235,6 +244,15 @@ Don’t capitalize unless it’s part of an official product name.
 *   Like this: Put the file in the product folder.
 *   Not this: Put the file in the Product folder.
 
+### Product Guide
+Write as shown. 
+
+Within the VSP Collaboration Cycle, a Product Guide is a specific document required for the [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) collaboration point. 
+
+### Product Outline
+Write as shown.
+
+Within the VSP Collaboration Cycle, a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) is a specific document required for defining your product plan.
 
 ### pull request, PR
 
@@ -298,6 +316,13 @@ Write as shown. Don’t use TIC if you’re introducing the term for the first t
 
 ## U
 
+### U.S Digital Service (USDS)
+Write as shown when first introducing the term. OK to shorten to USDS after first introducing the term. 
+
+[USDS](https://www.usds.gov/) is a technology unit within the Executive Office of the President of the United States. USDS employees are hired for 'tours of service' that range between a few months to a few years. They are embedded in the digital technology departments of federal agencies to bring best practices and new approaches to Federal Government projects.
+
+This term is unlikely to be used in VSP documentation, but it's helpful for context to know that people who work on behalf of the VA that we often refer to as "DEPO Leads" are often actually employed by USDS.
+
 ### use vs. utilize
 Don’t write utilize. Write “use” instead.
 
@@ -325,15 +350,31 @@ Don’t use. Use [Veteran-facing Services Platform (VSP)](#vsp) or [DEPO Platfor
 
 
 ### VA.gov Content Management System (CMS)
-Write as shown when first introducing the term. OK to shorten to VA.gov CMS after first introducing the term. OK to use just CMS if the context makes it clear that you are writing about VA.gov. Don’t write VACMS.
+Write as shown when first introducing the term. OK to shorten to VA.gov CMS after first introducing the term. OK to use just CMS if the context makes it clear that you are writing about the CMS for VA.gov. Don’t write VACMS.
+
+## VA.gov Content Style Guide
+Write as shown. OK to shorten to Content Style Guide when context makes it clear that you are referring to content written for VA.gov.
+
+The [VA.gov content style guide](https://design.va.gov/content-style-guide/) is the house style guide for the VA.gov website.
+
+
+### VA.gov Design Sketch Library
+Write as shown. OK to shorten to Sketch Library when context makes it clear that you are writing about designing for VA.gov.
+
+This is a Sketch pattern library that includes design system elements to help create designs for static mockups and prototypes.
 
 ### VA.gov Design System
+Write as shown. OK to shorten to design system when context makes it clear that you are writing about designing for VA.gov.
 
-Write full name as shown. Do not shorten to “design system.”
+The [VA.gov Design System](https://design.va.gov/) is the content style guide and frontend framework, guidance, standards, and tools to help teams build a consistent, intuitive, and Veteran-centered experience across VA.gov. The frontend framework was previously the Formation design system.
 
-The [VA.gov Design System](https://design.va.gov/) is the content style guide and frontend framework, guidance, standards, and tools to help teams build a consistent, intuitive, and Veteran-centered experience across VA.gov.
+### VA.gov Forms Library
+Write as shown. OK to shorten to Forms Library when context makes it clear that you are writing about developing on VA.gov.
 
-The frontend framework is also referred to as the Formation design system. We are moving away from using the term Formation in customer-facing documentation. Use VA.gov Design System instead.
+The Forms Library provides an efficient way for engineers to create a consistent experience for Veterans on VA.gov. The Forms Library used to be called the VA.gov Forms System (VAFS), but we are replacing that term with Forms Library.
+
+### VA.gov Forms System (VAFS)
+Do not use. See [VA.gov Forms Library](#va.gov-forms-library).
 
 
 <a name="vsa"></a>
@@ -360,6 +401,7 @@ When describing the applications, products and services created by VFS teams, ca
 *   Not this: VSP is unable to manage and track all VFS product SLOs in a robust manner.
 
 <a name="vsp"></a>
+
 ### Veteran-facing Services Platform (VSP)
 
 Write as shown the first time you use it. OK to use just VSP in subsequent referencecs. Don’t write “the platform” when you mean “VSP.”
@@ -368,12 +410,10 @@ VSP is the core contracting mechanism and team associated with building and runn
 
 
 ### Veteran-facing Services Applications (VSA)
+OK to just write as VSA. 
 
+[VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa) is a specific Veteran-facing Services (VFS) contract that includes many teams.
 
-### VA Online Scheduling (VAOS)
-
-
-### VA Network
 
 
 ## W
@@ -381,7 +421,7 @@ VSP is the core contracting mechanism and team associated with building and runn
 
 ### Web Content Accessibility Guidelines (WCAG)
 
-Write as shown. Don’t use WCAG if you’re introducing the term for the first time.
+Write as shown. OK to shorten to WCAG after first introducing the term.
 
 
 ##  X
