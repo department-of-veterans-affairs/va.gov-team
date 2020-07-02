@@ -32,7 +32,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 ## Details of Findings
 
-**Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.** Veterans did not see forms/questionnaires as a major pain point, but did acknowledge the frustrations around providing information that their providers do not read before a visit. Additionally, Veterans found value in the social history questions (oral, not currently written or digital) a nurse asks before they see a provider.
+**Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.** <br> Veterans did not see forms/questionnaires as a major pain point, but did acknowledge the frustrations around providing information that their providers do not read before a visit. Additionally, Veterans found value in the social history questions (oral, not currently written or digital) a nurse asks before they see a provider.
 
  - Assumption: Nurses ask these questions orally and input or edit information themselves because it is quicker than having the Veteran fill out a form during their visit.
  
@@ -40,6 +40,13 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 > "If patients are being asked to provide the information then it should be used… and becomes the basis for the discussion with the provider."
 
+> "I had to fill out forms telling about my family history, any of my medical things done. I’ve been in the system with the VA since 89... I don’t know the date I filled out information because they have it in the system."
+
+**Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.** <br> Most participants mentioned that filling out a form ahead of their visit would save time because they wouldn't have to sit in a waiting room and/or fill out a clipboard. They also mentioned that it would save time for the clinicians if most patients filled out forms ahead of time.
+
+> "I'll do anything to speed up the process so I won't be at the VA all day."
+
+**The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA provider to Non-VA provider. 
 
 ## Additional Insights
 
