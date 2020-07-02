@@ -71,7 +71,7 @@ For our first exercise, I’d like you to think about what's important and helpf
 
 - How does a user prioritize future features? 
 
-- Login, 
+- Login
 - Address validation
 - Attaching Power of Attorney
 - Portal to check status, etc 
