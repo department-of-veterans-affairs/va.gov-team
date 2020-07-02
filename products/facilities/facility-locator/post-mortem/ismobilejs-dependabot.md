@@ -1,4 +1,4 @@
-# Postmortem for Upgrade ismobilejs dependecy by depandabot 
+# Postmortem for Upgrade ismobilejs dependency by depandabot 
 
 Date: 06/29/2020
 
