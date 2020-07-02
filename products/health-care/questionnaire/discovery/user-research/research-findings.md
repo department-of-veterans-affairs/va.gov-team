@@ -27,8 +27,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 4. Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.
 5. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
 6. Participants want a way to connect digital forms with their information in MyhealtheVet.
-7. Veterans must scheduled one primary care appointment per year in order to retain VA Healthcare eligibility.
-8. Veterans want a way to track their routine responses over time.
+7. Veterans want a way to track their routine responses over time.
 
 ## Details of Findings
 
@@ -48,14 +47,18 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 > “Frankly it would speed things up as it won't take provider time to do all of that.”
 
-
 **The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA provider to Non-VA provider. <br> Participants said that the questions their nurses ask before appointments are beneficial to their care, but do not feel that the information is relayed to their providers. Veterans feel that most of their heath information is shared when seeing VA specialists, but they are asked to complete forms and answer questions that the VA already has. 
 
 > “Repeating things to them is standard. They have to repeat and ask the same questions time and time again... Do you not have anything you're looking at about me... we are just used to it”
 
 > "...And then you go in there you can tell by the doctor's questions and reactions that he never saw the information. So we wonder why we are going to the trouble of filling this out."
 
-**Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> 
+**Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> New patients and those who have just enrolled in VA Healthcare are required to fill out clipboards during their first few visits. After that, Veterans must attend one primary care appointment per year in order to retain VA Healthcare eligibility. There are minimal questions that a Veteran has to answer about their health unless they see a specialist for the first time, where they are asked (orally or clipboard/tablet) specific questions related to that visit. 
+
+**Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. <br> Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.  
+
+> “Its unusual that VA doesn’t hand me a clipboard or virtual clipboard to go into my doctor with.”
+
 
 ## Additional Insights
 
