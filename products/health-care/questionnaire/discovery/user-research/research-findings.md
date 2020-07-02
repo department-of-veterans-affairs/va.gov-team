@@ -55,7 +55,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 **Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> New patients and those who have just enrolled in VA Healthcare are required to fill out clipboards during their first few visits. After that, Veterans must attend one primary care appointment per year in order to retain VA Healthcare eligibility. There are minimal questions that a Veteran has to answer about their health unless they see a specialist for the first time, where they are asked (orally or clipboard/tablet) specific questions related to that visit. 
 
-**Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. <br> Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.  
+**Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.  
 
 > “Its unusual that VA doesn’t hand me a clipboard or virtual clipboard to go into my doctor with.”
 
