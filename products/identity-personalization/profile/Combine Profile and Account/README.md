@@ -128,73 +128,9 @@ As the authenticated experience team, we want to be able to do the following:
 
 ### Profile overall
 
-**Objective**: Make it easier for people to find profile-related tools and complete profile-related tasks
+WIP
 
-**Key result**: Decreased time to find and update contact information
-- Bet 1: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 2: Improve the information architecture
-- Potential KPIs
-  - Less time on the profile, *plus* same amount or more of successful contact information submissions
-
-**Key result**: Decreased time to find and update direct deposit information
-- Bet 1: Create side-nav menu
-- Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 3: Improve the information architecture
-- Potential KPIs
-  - Clicks on the "Direct deposit" link in the navigation *plus* the same amount or more of direct deposit submissions
-  - Less time on the profile, *plus* same amount or more of successful direct deposit submissions 
-
-**Key result**: Decreased time to find and interact with account settings
-- Bet 1: Create side-nav menu
-- Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 3: Improve the information architecture
-- Potential KPIs
-  - Less time on the profile, *plus* same amount or more of clicks on links to verify identity/set up 2FA/reset password 
-  - Clicks on the "Account settings" link in the navigation *plus* the same amount or more of clicks to verify identity/set up 2FA/reset password
-
-**Key result**: Increase overall satisfaction with the profile experience
-- Bet 1: Combine Profile and Account pages
-- Bet 2: Update IA and visual design of the profile
-- KPI: Foresee data (need link)
-
-**Key result**: Increase scalability of Profile
-- Bet 1: Add side-nav menu
-- Bet 2: Updated design system
-  - KPI: Increase in number of features included in profile
-
-**Key result**: Reducing the number of places a user has to go to update their information
-  - Bet 1: Combining profile and account pages
-  - Bet 2: Improved IA
-    - KPI: Decreased count of places a user has to go to update information
-
-We need to figure out how to measure the following:
-
-1. Reduced time finding a task (eg. reduced time finding the direct deposit tool or updating contact information).
-2. Reduced abandoment of the profile/account (which we can maybe assume meant people didn't find what they were looking for).
-3. Insuring all tasks have path reports that include start to finish flows
-4. Insuring all tasks have detailed error reports (what errors are users receiving and what do they do next)
-
-Other metrics are qualitative:
-
-1. How do these new designs compare and perform in user testing? Can people find information quickly and do they report pages are easy to scan and information is easy to update.
-
-### Tool-specific OKRs & KPIs
-
-#### Contact Information
-
-- [Contact information product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
-- [GA metrics for successful contact information submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
-- [GA metrics for failed contact information submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20200305&_u.date01=20200311&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
-
-#### Address validation
-
-- [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md#okrs--kpis)
-- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
-
-#### Direct deposit
-
-- [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md#okrs--kpis)
-- [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
 
 --- 
 
@@ -203,7 +139,7 @@ Other metrics are qualitative:
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
-- Target launch date is July 15th, 2020
+- Target launch date is September 1, 2020
 - We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
 
 ---
