@@ -41,17 +41,24 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
+Before we start the activities I mentioned, I'd like to ask a few questions about yourself. 
+
 - Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
 
 - For Caregivers:
+
+   - Are you currently receiving benefits from the VA’s Program for Family Caregivers? 
    - Are there any other family members / caregivers of the veteran?
    - Do you currently live with your veteran?
-   - Do you recieve benefits from the VA?
+   - Do you receive any other benefits from the VA?
 
 - For Veterans:
-   - how many caregivers do you have?
-   - Do you currently live with any of your caregivers?
-   - Does your caregiver recieve benefits from the VA?
+
+  - Do you currently have caregivers? Are they currently receiving benefits from the VA’s Program for Family Caregivers? 
+  - How many caregivers do you have?
+  - Do you currently live with any of your caregivers?
+  - Does your caregiver receive benefits from the VA?
+
 
 ## First Task: [Determining preferred features] - 10 minutes
 
