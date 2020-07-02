@@ -18,9 +18,21 @@
 		 - Examples- medications, tests, diagnoses, referral, other
 	 - Health Reminders (Health Maintenance) 
 		 - list of reminders for the patient- this is pre-populating based in the patients chart
-	- Did it include health history?
+	- Primary Care Provider
+		- Do they want non VA providers in this space?
+	- Allergies - Allergy (reaction) source location
+	- Mediations - is this coming from SureScripts or is this from EMR? 
+		- patient response for a best possible medication history update (BPMH)
+	- Additional Information - glossary of terms
+	---
 	- Were there fields that you were unable to pull in to the form to pre-populate?
+		- Immunizations
+		- Procedures
+		- Diagnosis/Problems
+		- Social History- behavioral and family
+			- Substance Use?
 	- Where there other fields the admin/nurse/dr wanted pulled in the form?
+	- Preferred Pharmacy?
 	-  Others?? 
 5. Was the form scanned in and saved to the patient chart?  
 	- if so did that happen before seeing the dr./nurse or after the visit?
