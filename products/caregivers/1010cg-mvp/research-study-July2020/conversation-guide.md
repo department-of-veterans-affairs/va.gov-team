@@ -99,28 +99,6 @@ Are we missing any features? Anything else you would like to add?
 
 ### Things to watch for:
 
--   How confident is the participant when listing the items they'd want to see?
--   How does participant respond to "why" each item is important?
--   What elaboration did the participant give (if any) on what information they expect to see in a particular item?
--   How did the pre-populated cards resonate with the participant?
--   Which items is the participant most confident they'd be interested in?
--   Do any items cause the participant to hesitate?
-
-
- Future features discussion around their desirability and help prioritize moving forward.
-
-How does a user prioritize future features? 
-
-- Login
-- Address validation
-- Attaching Power of Attorney
-- Portal to check status, etc 
-
-Are we missing any features? Anything else? 
-
-
-### Things to watch for:
-
 - How confident is the participant when listing the items they'd want to see?
 - How does participant respond to "why" each item is important?
 - What elaboration did the participant give (if any) on what information they expect to see in a particular item?
