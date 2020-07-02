@@ -67,10 +67,16 @@ Can you see my screen?  Good.
 
 For our first exercise, I’d like you to think about what's important and helpful to you regarding VA.gov and the caregiver program.  
 
- 
-- How does a user priortize future features? (If so, what are these features? login, address validation(?), attaching PoA, a portal to check status) 
+ Future features discussion around their desirability and help prioritize moving forward.
 
-- Are we missing any features?
+- How does a user prioritize future features? 
+
+- Login, 
+- Address validation
+- Attaching Power of Attorney
+- Portal to check status, etc 
+
+- Are we missing any features? Anything else? 
 
 
 ### Things to watch for:
