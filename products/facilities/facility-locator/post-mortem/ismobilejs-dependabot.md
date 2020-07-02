@@ -24,7 +24,7 @@ The new dependecy 1.1.1 has a change on isMobile.any. It needs a parameter passe
 
 ## Resolution
 - VSP has already reverted the dependecy number with https://github.com/department-of-veterans-affairs/vets-website/pull/13334
-- There another PR that will remove the dependency https://github.com/department-of-veterans-affairs/vets-website/pull/13319
+- There another PR that will remove the dependency https://github.com/department-of-veterans-affairs/vets-website/pull/13319 and use another approach to detect mobile layouts 
 
 
 ## Documentation links
