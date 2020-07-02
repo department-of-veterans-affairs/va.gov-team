@@ -48,16 +48,17 @@ you are still responsible for taking whatever means necessary to escalate the is
   - How many unique IP addresses were affected by this incident?
   
 3. Login to CAG and attempt to find the root cause of the incident in Kibana
-  i. First change the time range for the query from "last 15 minutes" to "last 24 hours" or whatever is appropriate.
-  ii. Next copy and paste one of the error ids you found in Sentry in the search query.
-  iii. The results returned will most likely not provide a stack trace, but they will provide a pod-name for the next query.
-  iv. First adjust the time range to be within 1 minute of the last incident you identified in the previous query.
-  v. Next search for "pod.name=<whatever the pod name was>"
-  vi. This should hopefully either point you to a new pod name, in which case you repeat steps 4-5, or you should see a stack trace.
-  vii. Open a VAOS-R JIRA ticket documenting everything you found from Sentry and Kibana. 
-  viii. Identify the criticality of the issue. 
-  ix. Assign the issue to Larry Norcross in Production Support.
-  x. Open a corresponding Github in va.gov-team and link to the issue you opened in JIRA.
-  xii. Tag any appropriate people who should be aware in #vaos-eng channel.
+
+  a. First change the time range for the query from "last 15 minutes" to "last 24 hours" or whatever is appropriate.
+  a. Next copy and paste one of the error ids you found in Sentry in the search query.
+  a. The results returned will most likely not provide a stack trace, but they will provide a pod-name for the next query.
+  a. First adjust the time range to be within 1 minute of the last incident you identified in the previous query.
+  a. Next search for "pod.name=<whatever the pod name was>"
+  a. This should hopefully either point you to a new pod name, in which case you repeat steps 4-5, or you should see a stack trace.
+  a. Open a VAOS-R JIRA ticket documenting everything you found from Sentry and Kibana. 
+  a. Identify the criticality of the issue. 
+  a. Assign the issue to Larry Norcross in Production Support.
+  a. Open a corresponding Github in va.gov-team and link to the issue you opened in JIRA.
+  a. Tag any appropriate people who should be aware in #vaos-eng channel.
 
 
