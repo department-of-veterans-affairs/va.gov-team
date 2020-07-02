@@ -4,7 +4,7 @@ If the product we are building does not include a form and only displays informa
 
 ### Table of Contents
 
-1. [initial project scaffolding]()
+1. [initial project scaffolding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/initial-project-scaffolding.md)
 2. [First pass at custom view components]()
 3. [Initial Redux code for API calls]()
 4. [Refine custom view components to better match mockup]()
