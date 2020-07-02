@@ -58,6 +58,8 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
   - How many caregivers do you have?
   - Do you currently live with any of your caregivers?
   - Does your caregiver receive benefits from the VA?
+  
+ Great! Thanks for sharing all of that with me. I'm going to share my screen.
 
 
 ## First Task: [Determining preferred features] - 10 minutes
