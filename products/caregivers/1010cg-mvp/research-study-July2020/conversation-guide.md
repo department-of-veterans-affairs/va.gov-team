@@ -69,14 +69,14 @@ For our first exercise, I’d like you to think about what's important and helpf
 
  Future features discussion around their desirability and help prioritize moving forward.
 
-- How does a user prioritize future features? 
+How does a user prioritize future features? 
 
 - Login
 - Address validation
 - Attaching Power of Attorney
 - Portal to check status, etc 
 
-- Are we missing any features? Anything else? 
+Are we missing any features? Anything else? 
 
 
 ### Things to watch for:
