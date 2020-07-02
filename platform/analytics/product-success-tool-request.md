@@ -1,6 +1,6 @@
 ## How to Request the Product Success Tool for your application
 
-*Overview*: The process for how to request the Product Success Tool.
+*Overview*: The process for how to request the Product Success Tool/KPI dashboard.
 
 *Audience*: VFS teams requesting a KPI dashboard for their applications.
 
