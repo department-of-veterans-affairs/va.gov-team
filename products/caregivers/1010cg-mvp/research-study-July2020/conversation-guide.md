@@ -16,10 +16,10 @@
 
 ### Project-specific setup
 
-- 
-- Open Drupal Caregiver page in a new tab (is this something we even want to touch?) 
+- Set-up participant specific Mural board (or ranking tool)
 - Open [10-10CG form](https://staging.va.gov/caregivers/introduction) in a new tab 
-
+- Have [10-10CG prototype](https://staging.va.gov/caregivers/introduction) available in another tab
+- Be prepared to screen share in case of technical difficulties 
 
 ## Intro - 5 minutes
 
@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
 ## Warm-up Questions - 5 minutes
 
