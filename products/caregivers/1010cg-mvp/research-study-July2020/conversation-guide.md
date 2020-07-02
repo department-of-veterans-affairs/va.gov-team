@@ -107,11 +107,11 @@ Are we missing any features? Anything else you would like to add?
 
 ## Second Task: [First impressions / thoughts] - 5 minutes
  
-- Now you've found the location and landed on this page. (moderator chats link to participant, makes sure still is sharing screen) What are your first impressions?   How do you know?  Which parts were most useful on this page?
+- Now we are going to look at the form for the caregiver application. You've found the location of the form and landed on this page. (moderator chats link of form to participant, makes sure still is sharing screen) What are your first impressions? What information would it take to complete this form? How do you know?  Which parts were most useful on this page?
 
-## Third Task: [Filling out the form] - 10 minutes
+## Third Task: [Filling out the form] - 15 minutes
 
-- Now let's say you/your caregiver is eligible and you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply 
+- Now let's say you've decided you'd like to apply for these benefits. Go ahead and show us what you would do to apply 
 
 ### Things to watch for:
 
@@ -121,7 +121,7 @@ Are we missing any features? Anything else you would like to add?
 - Make sure to dig in when there's any hesitation into what they are thinking
 - If anyone has / is a secondary caregiver, make sure they notice and complete that section
 
-## Third Task: [understanding next steps] - 5 minutes
+## Forth Task: [understanding next steps] - 5 minutes
 
 - Now that you submitted the form, what do you think are the next steps in this process? 
 
@@ -130,17 +130,14 @@ Are we missing any features? Anything else you would like to add?
 Great. A few last questions:
 - What do you think was the hardest part of that process?
 - What worked well?
-- I'm going to quickly show you the paper form (moderator shares screen with paper form).  
-   - (if they have benefits) Do you remember if you filled out this form? If so, how did you do it? Together with the caregiver/veteran?  
-- Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why? How would this be different than filling out the paper form?
-   - Would you fill out the paper form with your veteran/caregiver? what about the online form?
+- Would you fill out the paper form with your veteran/caregiver? what about the online form?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+Thanks! 
 
 Great, well thank you so much again, and enjoy the rest of your day!
+
