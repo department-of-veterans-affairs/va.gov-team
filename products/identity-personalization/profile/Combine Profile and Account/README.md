@@ -126,8 +126,6 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## OKRs & KPIs
 
-### Profile overall
-
 WIP
 
 https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
