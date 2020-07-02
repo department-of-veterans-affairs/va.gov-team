@@ -33,6 +33,9 @@
 ---
 
 ### Mockups Changelog
+**July 2, 2020**
+- Mobile view of tables revised to "un-bold" data 
+
 **June 18, 2020**
 - Desktop view of table styled to match "Borderless table" in VA Sketch Library file
 - Mobile view of tables styled to match "Responsive table" in VA Sketch Library file
