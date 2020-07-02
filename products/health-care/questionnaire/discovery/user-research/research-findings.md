@@ -34,7 +34,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 **Veterans will fill out digital forms if they believe the information will benefit the care they receive.** 
 
-> "Quote" 
+> "If patients are being asked to provide the information then it should be used…and becomes the basis for the discussion with the provider.”
 
 **Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.**
 
