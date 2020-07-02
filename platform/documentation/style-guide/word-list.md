@@ -17,7 +17,10 @@ For terms that are not on this list, refer to:
 *   DSVA acronym list - This [acronym list](https://github.com/department-of-veterans-affairs/acronyms) powers a Slackbot that you can use in the DSVA Slack to unpack any VA-related acronym. To use the Slack bot, message yourself by typing `/wtf [some VA acronym]` Example: `/wtf DSVA` Note that the list includes over 5,000 acronyms and the same acronym is often used to mean different things in different contexts.
 *   [Merriam-Webster](https://design.va.gov/content-style-guide/www.merriam-webster.com)
 
-Do you have something to add to the word list? Let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
+**Suggestions or questions about the word list?**
+
+You can [create a style guide request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gmaciolek%2C+kristinagore&labels=content-ia-team%2C+documentation-support%2C+documentation-style-guide&template=documentation-style-guide-request.md&title=Documentation+Style+Guide+Request) or let us know in [#vsp-content-ia](https://dsva.slack.com/archives/CL181NRJQ).
+
 
 ---
 
