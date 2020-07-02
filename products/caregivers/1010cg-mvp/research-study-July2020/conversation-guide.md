@@ -16,7 +16,7 @@
 
 ### Project-specific setup
 
-- Set-up participant specific Mural board (or ranking tool)
+- Set-up participant specific Mural board (or other ranking tool)
 - Open [10-10CG form](https://staging.va.gov/caregivers/introduction) in a new tab 
 - Have [10-10CG prototype](https://staging.va.gov/caregivers/introduction) available in another tab
 - Be prepared to screen share in case of technical difficulties 
@@ -69,13 +69,42 @@ For our first exercise, I’d like you to think about what's important and helpf
 
 You can see here that I've set up some blank sticky notes for us to get started. 
 
-First, we'll use the stickies to create potential features that you might want or find helpful on VA’s Program for Family Caregiver website
+First, we'll use the stickies to create potential features that you might want or find helpful on VA’s Program for Family Caregivers website
 
 Then, we'll organize them in the way that would be the most useful to you. 
 
 So, let's create some stickies for the items that are important for you. 
 
-Again, just a reminder that we're talking about potential features that are specific to you, not a generic page for all Veterans.  It'll be helpful if you can also talk about why each item is important to you.
+Again, just a reminder that we're talking about potential features that are specific to you, not a generic page for all Veterans/caregivers.  It'll be helpful if you can also talk about why each item is important to you.
+
+What features would you want around the VA’s Program for Family Caregivers site? 
+
+*If participant hesitates*: You mentioned your expereince with VA.gov/Caregiver program was [state action].  Would stickies around those actions be a good place to start?
+
+  -   *Create sticky notes with each item.*
+  -   ***Can you share details on why that's important to you?***
+  -   *Help participant make any items that are too broad more specific*
+
+Are we missing any features? Anything else you would like to add? 
+
+- Why are those things the most helpful for you?
+
+- Okay, I'd like to show you some other stickies with features I made ahead of time that I thought might spark some interest for you. It's completely fine if none of these are things you'd care to see. Just let me know and we can set them aside.
+
+- Take a moment to review them, and think out loud as you do - I'd love to know how these resonate with you.  
+
+  *Allow participant to review cards and encourage them to verbalize their thoughts as they do so.*
+
+- Are there any items missing that would be valuable to you? We can go ahead and add them.
+
+### Things to watch for:
+
+-   How confident is the participant when listing the items they'd want to see?
+-   How does participant respond to "why" each item is important?
+-   What elaboration did the participant give (if any) on what information they expect to see in a particular item?
+-   How did the pre-populated cards resonate with the participant?
+-   Which items is the participant most confident they'd be interested in?
+-   Do any items cause the participant to hesitate?
 
 
  Future features discussion around their desirability and help prioritize moving forward.
