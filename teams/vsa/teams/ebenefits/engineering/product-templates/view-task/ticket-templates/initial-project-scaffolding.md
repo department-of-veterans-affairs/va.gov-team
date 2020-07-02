@@ -1,3 +1,5 @@
+# { View Task Name } Initial Project Scaffolding
+
 ## Description
 
 In order to get the initial folder and file structure set up for { View Task Name } we need to scaffold out the project in `vets-website`. This scaffolding will not include any of the custom functionality of the { View Task Name } and all of the content in this scaffolding is heavily subject to change.
