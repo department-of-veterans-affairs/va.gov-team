@@ -67,6 +67,17 @@ Can you see my screen?  Good.
 
 For our first exercise, I’d like you to think about what's important and helpful to you regarding VA.gov and the caregiver program.  
 
+You can see here that I've set up some blank sticky notes for us to get started. 
+
+First, we'll use the stickies to create potential features that you might want or find helpful on VA’s Program for Family Caregiver website
+
+Then, we'll organize them in the way that would be the most useful to you. 
+
+So, let's create some stickies for the items that are important for you. 
+
+Again, just a reminder that we're talking about potential features that are specific to you, not a generic page for all Veterans.  It'll be helpful if you can also talk about why each item is important to you.
+
+
  Future features discussion around their desirability and help prioritize moving forward.
 
 How does a user prioritize future features? 
