@@ -1,8 +1,8 @@
 # VSA-QA Process
 
-\[Based on [template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md) by VSP Product Support team Sr. QA Specialist Peter Hill]
+VSA QA Engineer: Tze-chiu Lei \[call me "Zay"] (GitHub @tlei123)(Slack @Tze-chiu Lei)
 
-This VSA-QA Process is currently a subset of the above template, and will expand as QA staffing increases.
+This VSA-QA Process is currently a **subset** of [VSP's template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md), and should expand as QA staffing increases.
 
 ## Process Flow
 
