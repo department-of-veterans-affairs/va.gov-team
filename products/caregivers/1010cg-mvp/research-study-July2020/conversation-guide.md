@@ -65,15 +65,15 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
 
 Can you see my screen?  Good. 
 
-For our first exercise, I’d like you to think about what's important and helpful to you regarding VA.gov and the caregiver program.  
+For our first exercise, I’d like you to think about what's important and helpful to you regarding the Caregiver form 
 
 You can see here that I've set up some blank sticky notes for us to get started. 
 
-First, we'll use the stickies to create potential features that you might want or find helpful on VA’s Program for Family Caregivers website
+First, we'll use the stickies to create potential features that you might want or find helpful on VA’s Program for Family Caregivers form.
 
 Then, we'll organize them in the way that would be the most useful to you. 
 
-So, let's create some stickies for the items that are important for you. 
+So, let's create some stickies for the features that are important for you. 
 
 Again, just a reminder that we're talking about potential features that are specific to you, not a generic page for all Veterans/caregivers.  It'll be helpful if you can also talk about why each item is important to you.
 
@@ -107,7 +107,7 @@ Are we missing any features? Anything else you would like to add?
 
 ## Second Task: [First impressions / thoughts] - 5 minutes
  
-- Now you've found the location and landed on this page. (moderator chats link to participant, makes sure still is sharing screen) What are your first impressions? Are you / your caregiver eligible to recieve these benefits?  How do you know?  Which parts were most useful on this page?
+- Now you've found the location and landed on this page. (moderator chats link to participant, makes sure still is sharing screen) What are your first impressions?   How do you know?  Which parts were most useful on this page?
 
 ## Third Task: [Filling out the form] - 10 minutes
 
