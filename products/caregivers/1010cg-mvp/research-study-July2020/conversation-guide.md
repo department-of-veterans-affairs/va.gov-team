@@ -61,13 +61,16 @@ Before we start the activities I mentioned, I'd like to ask a few questions abou
   
  Great! Thanks for sharing all of that with me. I'm going to share my screen.
 
+## First Task: [Review preferred features] - 10 minutes
 
-## First Task: [Determining preferred features] - 10 minutes
+Can you see my screen?  Good. 
 
-Feels like there are two different questions here (not sure which one we want to answer - I am thinking the second bullet)
+For our first exercise, I’d like you to think about what's important and helpful to you regarding VA.gov and the caregiver program.  
 
-- Are we missing any features? 
+ 
 - How does a user priortize future features? (If so, what are these features? login, address validation(?), attaching PoA, a portal to check status) 
+
+- Are we missing any features?
 
 
 ### Things to watch for:
