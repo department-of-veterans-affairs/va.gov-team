@@ -40,13 +40,6 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 > "If patients are being asked to provide the information then it should be used… and becomes the basis for the discussion with the provider."
 
-**Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.**
-
-> "Quote" 
-
-**The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA Provider to Non-VA Provider.
-
-> "Quote" 
 
 ## Additional Insights
 
@@ -63,8 +56,10 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 ## Appendix
 
-### Conversation guide 
-
-### Interview transcripts
-
-### Synthesis 
+- Research plan
+- Conversation guide
+- Transcripts
+- Participant summary created by Amanda Buckley
+- Topline summary
+- Personas
+- Journey map
