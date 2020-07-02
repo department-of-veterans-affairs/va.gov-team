@@ -38,14 +38,14 @@ you are still responsible for taking whatever means necessary to escalate the is
 #### VA Mobile Framework Issue Escalation Playbook
 
 1. Identify 3 or more issues from Sentry or other logs and document the following:
-  - Timestamp of the error or issue
-  - VAMF specific URL that was invoked resulting in an error
-  - The error payload
-  - If the error payload includes a VAMF error ID, document this error id.
+    - Timestamp of the error or issue
+    - VAMF specific URL that was invoked resulting in an error
+    - The error payload
+    - If the error payload includes a VAMF error ID, document this error id.
   
 2. More holistically identify an overall trend and document the following:
-  - How many total events occurred during a given a time frame?
-  - How many unique IP addresses were affected by this incident?
+    - How many total events occurred during a given a time frame?
+    - How many unique IP addresses were affected by this incident?
   
 3. Login to CAG and attempt to find the root cause of the incident in Kibana
 
@@ -61,4 +61,8 @@ you are still responsible for taking whatever means necessary to escalate the is
     10. Open a corresponding Github in va.gov-team and link to the issue you opened in JIRA.
     11. Tag any appropriate people who should be aware in #vaos-eng channel.
 
+#### VA Platform Issue Escalation Playbook
 
+You should also familiarize youself with the following set of responsibilities which you may be called on to perform as part of building on the VA.gov platform.
+
+https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md
