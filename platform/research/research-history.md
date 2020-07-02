@@ -14,6 +14,15 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2020
 
+#### March 18-20: Claim status tool. Usability test / Collaborative design exersise 
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants
+
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June
+- [Research folder]()
+
+
 #### June 10-15: Facility Locator - Operating Status Study
 *Ad Hoc: VSA Facilities, Leyda Hughes, Aricka Lewis*
 
