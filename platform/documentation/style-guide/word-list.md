@@ -322,8 +322,8 @@ Treat it as a brand name and always capitalize “VA.” Don’t use “www.va.g
 Don’t use. Use [Veteran-facing Services Platform (VSP)](#vsp) or [DEPO Platform](#depo-platform).
 
 
-### VA.gov Content Management System (VACMS)
-
+### VA.gov Content Management System (CMS)
+Write as shown when first introducing the term. OK to shorten to VA.gov CMS after first introducing the term. OK to use just CMS if the context makes it clear that you are writing about VA.gov. Don’t write VACMS.
 
 ### VA.gov Design System
 
@@ -338,7 +338,7 @@ The frontend framework is also referred to as the Formation design system. We ar
 ### Veteran-facing Services Applications (VSA)
 OK to just use VSA.
 
-VSA is a VFS team
+VSA is a specific VFS contract comprised of many teams building Veteran-facing applications.
 
 
 ### Veterans Benefits Administration (VBA)
