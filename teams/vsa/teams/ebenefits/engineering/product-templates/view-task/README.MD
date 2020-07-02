@@ -4,19 +4,22 @@ If the product we are building does not include a form and only displays informa
 
 ### Table of Contents
 
-- [initial scaffolding]()
-- [First pass at custom view components]()
-- [Initial Redux code for API calls]()
-- [Refine custom view components to better match mockup]()
-- [Build one custom view component action]()
-- []
-- [Unit tests for Redux implimentation]()
-- [Unit tests for custom view component]()
-- []
+1. [initial projecct scaffolding]()
+2. [First pass at custom view components]()
+3. [Initial Redux code for API calls]()
+4. [Refine custom view components to better match mockup]()
+5. [Build one custom view component action]()
+6. [Unit tests for Redux implimentation]()
+7. [Unit tests for custom view component]()
+8. [Swap dummy API call in Redux for correct URL and adjust data structure]()
+9. [Meet with Analytics team and get Google Analytics event names]()
+10. [Add Google events to View Task]()
+11. [Internal accessibility audit]()
+12. [508 testing]()
 
 
 ### Optional tasks - use as needed
 
-1. [Sync page content blocks with latest mockup]()
-2. [Build second custom view component action]()
-3. [Build third custom view component action]()
+- [Sync page content blocks with latest mockup]()
+- [Build second custom view component action]()
+- [Build third custom view component action]()
