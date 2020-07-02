@@ -53,6 +53,8 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 **Rewrite problem statement**
 - detail
 
+**Create personas and journey map*
+
 
 ## Appendix
 
