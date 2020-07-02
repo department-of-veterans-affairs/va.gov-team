@@ -12,6 +12,8 @@ Heroku instances are spun up for each PR. You can access the URL from the PR, wh
 
 Heroku instances are public, but they only build the website part of VA.gov, not any of the React apps. They are also not connected to an API backend.
 
+For administration help on how to set this up or change settings go [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/heroku.md).
+
 ## Reviewing full applications
 
 If you need to test a service or application on VA.gov, or a backend change, review instances are the best option. Review instances are a deployment of a combination of vets-api and vets-website at specified versions.
