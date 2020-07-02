@@ -352,7 +352,7 @@ Don’t use. Use [Veteran-facing Services Platform (VSP)](#vsp) or [DEPO Platfor
 ### VA.gov Content Management System (CMS)
 Write as shown when first introducing the term. OK to shorten to VA.gov CMS after first introducing the term. OK to use just CMS if the context makes it clear that you are writing about the CMS for VA.gov. Don’t write VACMS.
 
-## VA.gov Content Style Guide
+### VA.gov Content Style Guide
 Write as shown. OK to shorten to Content Style Guide when context makes it clear that you are referring to content written for VA.gov.
 
 The [VA.gov content style guide](https://design.va.gov/content-style-guide/) is the house style guide for the VA.gov website.
