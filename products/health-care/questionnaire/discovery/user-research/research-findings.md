@@ -46,7 +46,16 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 > "I'll do anything to speed up the process so I won't be at the VA all day."
 
-**The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA provider to Non-VA provider. 
+> “Frankly it would speed things up as it won't take provider time to do all of that.”
+
+
+**The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA provider to Non-VA provider. <br> Participants said that the questions their nurses ask before appointments are beneficial to their care, but do not feel that the information is relayed to their providers. Veterans feel that most of their heath information is shared when seeing VA specialists, but they are asked to complete forms and answer questions that the VA already has. 
+
+> “Repeating things to them is standard. They have to repeat and ask the same questions time and time again... Do you not have anything you're looking at about me... we are just used to it”
+
+> "...And then you go in there you can tell by the doctor's questions and reactions that he never saw the information. So we wonder why we are going to the trouble of filling this out."
+
+**Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> 
 
 ## Additional Insights
 
