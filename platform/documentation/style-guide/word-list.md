@@ -56,6 +56,8 @@ One word, no space.
 
 ## C
 
+### Call Center
+Don't use. Use [Contact Center](#contact-center) instead.
 
 ### click
 
