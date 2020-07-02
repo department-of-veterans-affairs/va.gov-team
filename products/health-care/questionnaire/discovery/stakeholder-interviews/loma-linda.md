@@ -31,3 +31,5 @@
 
 ## Screen Shots
 <img src="https://lh6.googleusercontent.com/KF-9c2pzHxHbT9AC1_q8OfbXff9xTUMbC4cj_OpEtk_uiFxGfL5MIIItaUiXPolwnwUHVvCkWwjCllecAQ-_KozrmXcwic7iJC6aQmvuuQ-8v0DG6chjAaq8NGavDVmxAiLH1JQi" width="500">
+
+[Full PDF Pre-Intake Form](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf)
