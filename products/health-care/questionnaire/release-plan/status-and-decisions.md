@@ -11,16 +11,39 @@
 ## July 3rd, 2020
 
 **Status**
-- _enter updates_
+
+- Sprint 25 Backlog Grooming and Sprint Planning
+- [Top Line Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/topline-summary.md) prepared and presented to the team by Aricka with group discussion on everyones feedback from Veteran research sessions. 
+- Draft [Jobs To Be Done statements and unmet needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md) derived from Veteran research sessions 
+- Completed Exploratory tech investigation into [Create developer.vet.gov API Prototype #10715](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10715)
+- e-Screening demo by the product team to learn the workflow and features that could potentially align to our work.
+	- Removed previous weeks blocker by completing list of [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222) and creating a separate issue (#13340) for Stakeholder interviews. 
+- Participated in two interviews with clinical subject matter experts to gain insights into the primary care workflow and features that would be highly useful. 
+	- [AVS PreVist Summary - Dr. Byrne](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/loma-linda.md) | Thursday, July 2⋅11:30am – 12:30pm (CST)
+		-  Internal Medicine and Informatics physician form Loma Linda
+
+	- [VA Pacific Islands Health Care System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/pacific_islands.md)  | Thursday, July 2⋅3:30 – 4:30pm (CST)
+- Held our first Team Happy Hour and leaned lots of fun facts about each-other!
+	-	ie. On line vs. In line, D&D characters, met our pets & babies, Ren fest
 
 - Next Step/Followup:
-	- _enter updates_
+	- Discovery Research Readout completed and presented by Aricka 
+	- Forms Library and Authenticated Tech Feasibility/Prototype
+	- Completed Team Mission and North Star Statements
+	- Anticipate forms documents from interview sessions and clinical teams Lacey has reached out to. 
 
 **Decisions:**
--   _N/A_
+- June, 30th during Sprint 25 planning the team recommended approval for additional discovery sprints to give time to define the scope and strategy for the product due to veteran feedback that they don't fill out forms today and the need to remove the below two blockers to gain more insights into the clinical process. 
+	- Approved by by Lacey and Lauren 
 
 **Blockers:**
--   _N/A_
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey and Lauren are working on approach for collaboration with the MHV and clinical VHA teams
+	- Requested from our two interviews this week to provide any forms documents they use in the clinic.
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- identified an initial list of stakeholder interviewees and the sessions need to be scheduled.
+
 
 </details>
 
