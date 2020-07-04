@@ -1,4 +1,7 @@
-Research Summary for Claim status tool research, part 2 (June 25-29, 2020)  Prepared by UX Research lead: Christian Valla, BAM 1 team                          This is a high-level summary of 12 research sessions.
+##Research Summary for Claim status tool research, part 2 (June 25-29, 2020)  
+
+Prepared by UX Research lead: Christian Valla, BAM 1 team                          
+This is a high-level summary of 12 research sessions.
 
 #### Findings from the usability tests and the co-design sessions
 
