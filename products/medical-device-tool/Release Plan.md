@@ -4,6 +4,40 @@ Monthly Orders: 7,000
 Monthly Traffic: Not captured
 Abandon Rate: Not Captured 
 
+## Decision: `Continue launch / Pause / Pivot`
+
+---
+Is DLC API stable and ready for production?
+- Pending
+
+Is banner ready to be eBenefits Landing Page 
+-Pending 
+
+Platform: is monitoring and alerting configured and working as expected?
+- `yes/no - any notes`
+
+Platform: is the Product Health Tool updated to track this product data and working as expected?
+- `yes/no - any notes`
+
+`Name of responsible team member`: are you ready to monitor analytics data for trends and problems?
+- `yes - Google analytics set up Mahariel to monitor `
+
+`Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
+- `yes/no - check wiht Team at DLC `
+
+`: are you confident we can handle the traffic?
+- `yes, traffic is very low and will ramp up slowly 
+
+`Leah : is the release plan complete and ready to execute against?
+- `yes- redirect links are ready `
+
+
+`are there any Sev1 bugs or accessibility issues outstanding?
+- `no - all sev1 bugs have been remediated`
+
+is call center ready to handle potential calls that may come in about preview.va.gov?
+- `yes, training video and guide completed and approved 
+
 ## Phase 1: Soft Launch
 
 DLC will have a banner inviting Veterans to try out the new ordering system and announcing transition to new system             
