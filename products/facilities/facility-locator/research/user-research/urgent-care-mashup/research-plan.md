@@ -57,4 +57,4 @@ Please list the people who will be serving in each role.
 - Project point of contact: Leyda Hughes	
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Ethan Teague, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon
+- Observers: Gibran Rodriguez, Ethan Teague, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us) 
