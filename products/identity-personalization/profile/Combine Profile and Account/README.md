@@ -132,6 +132,71 @@ WIP
 
 https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
 
+### Objective 
+
+**People can more easily find and update their personal and security information.**
+- "An easy way to keep my info at the VA current"  
+
+### Key results - Findability
+
+#### Reduce the amount of searches for direct deposit by 20%.
+
+In 6 months, of ~13K searches for "direct deposit", ~2K are initiated from the account page, and ~1400 are initiated from the profile itself, even though the feature lives on this page. We can expect those search numbers to go down now that we are consolidating Profile and Account and have "Direct deposit" in the profile side nav.
+
+**Reports**
+
+- [Search terms initiated from the profile 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2F/)
+- [Search terms initiated from the account page 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Faccount~2F/)
+
+**KPI**
+- Search terms initiated from the profile
+
+**Bets**
+- Combining profile and account
+- Profile side nav
+- Redesigned visual styles for easier scanning
+
+#### (WIP) Page path for users who update direct deposit should be more direct.
+
+My hypothesis is that users who update direct deposit take an indirect path to get there because some of them end up on the account page before going to the profile (or searching). By combining the profile and account, we should see more direct paths to direct deposit. (Note: need to work with the analytics team to validate this hypothesis and establish this baseline metric).
+
+### Key results — Engagement
+
+#### Reduce time on the profile by 10% (about 20 seconds based on first six months of 2020).
+
+Note: This will need to consider the new URL structure.
+
+With improvements like the new side nav and tightened up visual design (which should both result in less scrolling), we think that users will need to spend less time in the profile overall to do the tasks they came to do. However, should we see a reduction in time spent on the profile, we should make sure we do not see markedly fewer interactions with sections like Contact information and Direct deposit. 
+
+**Report**
+
+- [Profile usage report 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-drilldown/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1,useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:www.va.gov~2F,analytics.pagePathLevel2:~2Fprofile~2F)
+
+**KPI**
+- Time on profile
+
+**Bets**
+- Profile side nav
+- Redesigned visual styles for easier scanning
+
+#### Increase average user satisfaction (ForeSee score) from ~2.4 to 3.4
+
+Currently, the profile satisfaction score is pretty low. My hypothesis is that people give it a bad rating if they get there and can't find what they are looking for. With the combination of combining profile and account, updating the design, and adding a side nav, we are hopeful we can raise the average Foresee rating by about a point. We think we could raise this score even higher with the addition of features users may expect to see in the profile (eg. DD214).
+
+**Report**
+
+- [Foresee data from 3.17.20 (when ForeSee was added to the profile) to 6.30.20](https://dsva.slack.com/archives/C909ZG2BB/p1593694606363000?thread_ts=1593637959.362000&cid=C909ZG2BB)
+
+**KPIs**
+- Foresee data
+
+**Bets**
+- Combining profile and account
+- Profile side nav
+- Redesigned visual styles for easier scanning
+
+#### (Maybe)(Establish baseline metrics for people who interact with the side nav and then update contact info or direct deposit?)
+
 --- 
 
 ## Go-to-market Strategy
