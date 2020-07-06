@@ -1,5 +1,7 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
+Last Updated July 6, 2020
+
 ## Communications
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0
