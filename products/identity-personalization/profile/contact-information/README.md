@@ -147,8 +147,8 @@ Also documented on the [address validation outline](https://github.com/departmen
 - For address suggestions, rate of users choosing the suggested address should be 95% or above. **Goal met**
 
 *KPI*
-- Number of successful address/phone/email submissions.
-- Number of errors for updating addresses/phone/email.
+- Number of successful mailing/homeaddress submissions.
+- Number of errors for updating mailing/home addresses.
 - Number of times address validation is needed.
 - Number of times address is suggested.
 - Number of times suggested address is used.
