@@ -18,13 +18,14 @@ The goal of this study is to validate the usability and design
 - Veterans don't know that they should present an Urgent Care Assistance Card when visiting a community urgent care provider. 
 
 ## Method
-Moderated Usability Test
 
-We will use Zoom and UXPin to conduct remote moderated card usability sessions to understand participants' understanding of urgent care facility options and how they would go about claiming community urgent care benefits.
-These sessions will include a short interview with the participant.
+Remote, moderated usability testing will be used to gain feedback on facility locator results designs. The tests will guage participants' understanding of all urgent care facility options available to them and how they would go about claiming community urgent care benefits.
+
+We will be testing a [UXPin prototype] via Zoom. These sessions will include a short interview with the participant.
 
 ## Participants and recruitment
-We will utilize the Perigean contract to reach our goal of observing **10** participants for 45 minute sessions.
+
+We will utilize the Perigean contract to reach our goal of observing **10** participants.
 
 Participant Criteria:
 
@@ -34,9 +35,9 @@ Participant Criteria:
 - Laptop or desktop computer
 
 ## Timeline
-This study will take place July 13 - 16, 2020
 
-### Team availability (EST)
+Study dates: July 13 - 16, 2020
+Session length: 45 minute
 
 Date | Time
 -----|-------
