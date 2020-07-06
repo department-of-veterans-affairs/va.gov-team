@@ -26,7 +26,7 @@ For the analysis, the following tools were used:
 - 10.5% of site visitors used site search (Date Range: June 2109-2020 Source: Google Analytics)
 - Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
 
-*2. What are user searching for on VA.gov?*
+*2. What are users searching for on VA.gov?*
 
 Users are searching for general health and benefit information, forms, and some specific tasks we may want to do a better job of elevating. (Source: Google Analytics [Logged-in homepage discovery: Analytics review April 2019-April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md)
 
