@@ -1,5 +1,5 @@
 # Direct Deposit Product Outline
-Last Updated December 10, 2019
+Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Direct Deposit  
