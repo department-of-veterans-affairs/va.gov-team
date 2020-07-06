@@ -141,7 +141,9 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 ### Key results- Engagement
 
-**Number of users who update their direct deposit should be about 2,000 per week.** (This is a baseline metrics.)
+This is an average metric since we did not have a baseline off of which to base a goal.
+
+**Number of users who update their direct deposit should be about 2,000 per week.** 
 
 *KPI*
 - Number of users who update their direct deposit.
