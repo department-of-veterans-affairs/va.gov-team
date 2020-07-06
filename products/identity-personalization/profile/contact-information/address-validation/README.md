@@ -111,11 +111,7 @@ We expect to see the following:
 
 ### Objectives
 
-**People can easily determine if they'll have any issues receiving mail from the VA.** 
-
-- "Does the VA think USPS recognizes my address or not?"
-
-**People can easily fix any issues with their address if it is flagged as problematic by the VA.**
+**People can easily determine if they'll have any issues receiving mail from the VA, and fix any issues with their address if it is flagged as problematic.** 
 
 - "I am confident the VA does recognize my address and that I'll receive my mail."
 
