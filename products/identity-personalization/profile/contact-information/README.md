@@ -101,6 +101,12 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## OKRs & KPIs
 
+### GA dashboards
+
+- [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
+- [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
+- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+
 ### Objective
 
 **People can easily verify what  contact information the VA has on file for them and update it as necessary so that they receive all correspondence with the VA.**
@@ -147,7 +153,7 @@ Also documented on the [address validation outline](https://github.com/departmen
 - For address suggestions, rate of users choosing the suggested address should be 95% or above. **Goal met**
 
 *KPI*
-- Number of successful mailing/homeaddress submissions.
+- Number of successful mailing/home address submissions.
 - Number of errors for updating mailing/home addresses.
 - Number of times address validation is needed.
 - Number of times address is suggested.
@@ -155,12 +161,6 @@ Also documented on the [address validation outline](https://github.com/departmen
 
 *Bet*
 - Add address validation to the mailing address and home address fields.
-
-### GA dashboards
-
-- [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
-- [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
-- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
 ---
 
