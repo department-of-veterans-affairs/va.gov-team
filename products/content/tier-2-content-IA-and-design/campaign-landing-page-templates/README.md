@@ -25,7 +25,7 @@ The purpose of this template is to enable an easy way for PW content team and VA
 
 ## Desired Business Outcomes
 
-- There is strong demand for campaign landing pages from key business stakeholders involved in originating Veteran facing content.   An plug-and-play Drupal CMS template will allow us to meet this demand with a "scaled" solution.   Additionally a template, put in the hands of trained business stakeholders, will reduce "one-off" demand of the resource-constrained PW content and front-end development team.
+- There is strong demand for campaign landing pages from key business stakeholders involved in originating veteran facing content.   A plug-and-play Drupal CMS template will allow us to meet this demand with a "scaled" solution.   Additionally a template, put in the hands of trained business stakeholders, will reduce "one-off" demand of the resource-constrained PW content and front-end development team.
 
 - With this problem solved, the business would be able to produce more expertly crafted campaign landing pages (with built-in SEO optimization) at less cost and impact to the product-technology team.
 
