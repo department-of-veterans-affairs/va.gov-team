@@ -81,7 +81,7 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 
 **Veterans would want to fill out digital forms 2-3 days ahead of their visit.** <br> Most participants stated that they would want to receive a text or email notification 2-3 days ahead of their appointment. They also stated that a laptop/desktop would be their preferred method of filling out a digital form.
 
-Assumption: Though they may receive the notification 2-3 days ahead, they may still fill out a digital form the day of or the day before their visit
+- Assumption: Though they may receive the notification 2-3 days ahead, they may still fill out a digital form the day of or the day before their visit
 
 ## Additional Insights
 - Veterans had a big focus on mental health and being honest with providers instead of being fearful of mental health stigmas
