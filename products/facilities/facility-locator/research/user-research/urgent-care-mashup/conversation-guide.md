@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] Links to Prototype: https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm
+- [ ] Links to Prototype: **WIP** https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm
 
 ## Intro - 3 minutes
 
@@ -48,25 +48,34 @@ https://www.va.gov/find-locations/
 
 ## Usability Test - 15 minutes
 
-I'm going to share a link to a prototype. {add prep language}
+I'm going to share a link to a prototype. **{add prep language}**
 
 [MODERATOR SHARES LINK TO PROTOTYPE]
 [UXPin]
 
+## Scenario
+
 I'm going to walk us through a scenario:
 
-You are coming to the site because you need to visit an Urgent Care location in Denver, CO. You enter the location and click the search button and you come to this page.
+You are coming to the site because you need to visit an Urgent Care location in Denver, CO. You have a sore throat and you'd like to rule out strep throat. You enter the location and click the search button and you come to this page.
 
 - What can you tell me about the location options?
 - How would you go about choosing a location on this screen?
-- What information do you need to make a selection?
+- Are the types of location options available all the same or are they different?
+- What does the [status] mean to you?  
+- What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
 - What would be your next step?
-- What does "link verbiage" mean to you? What do you think you will find when you click it?
 
-[REVIEW COMMUNITY CARE PAGE]
-
+[MODERATOR LEADS USER TO REVIEW COMMUNITY CARE PAGE]
 https://www.va.gov/COMMUNITYCARE/programs/veterans/Urgent_Care.asp
-- What can you tell me about 
+Take couple minutes to review this page.
+- What is this page trying to communicate to you?
+- What would your next step be?
+
+[BACK TO PROTOTYPE]
+
+Let's imagine now that you called and confirmed that all of the locations are open and can treat your sore throat. 
+- How would you go about choosing a location on this screen?
 
 ## Post-Task Interview - 5 minutes
 
