@@ -31,11 +31,11 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 4. Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.
 5. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
 6. Participants want a way to connect digital forms with their information in MyhealtheVet.
-7. Veterans want a way to track their routine responses over time.
+7. Veterans want a way to review previous answers and update when needed
 
 ## Details of Findings
 
-**Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.** <br> Veterans did not see forms/questionnaires as a major pain point, but did acknowledge the frustrations around providing information that their providers do not read before a visit. Additionally, Veterans found value in the social history questions (oral, not currently written or digital) a nurse asks before they see a provider.
+**Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.** <br> Veterans did not see forms/questionnaires as a major pain point, but did acknowledge the frustrations around providing information that their providers do not read before a visit. Additionally, Veterans found value in the social history and medication reconciliation questions (oral, not currently written or digital) a nurse asks before they see a provider.
 
  - Assumption: Nurses ask these questions orally and input or edit information themselves because it is quicker than having the Veteran fill out a form during their visit.
  
@@ -74,7 +74,7 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 
 > "Digital would be convenient to fill out so you don’t have to write out. I can't spell the name of my medications so I could do it at home and I don't have to scramble."
 
-**Veterans want a way to track their routine responses over time.** <br> Most participants do not mind answering the social history questions before they see their provider. They mentioned that they would like a way to keep track how they answered those questions over time. Additionally, when asked if they would prefer to fill out a form or edit existing answers, they preferred the ability to edit answers they've provided previously.
+**Veterans want a way to review previous answers and update when needed** <br> Most participants do not mind answering the social history questions before they see their provider. They mentioned that they would like a digital form to pre-populate with answers from previous visits, but would want to be able to edit if anything changed.
 
 > "I would use a digital option that said 'Since your last visit is there anything new?'"
 
@@ -82,12 +82,24 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 - Veterans had a big focus on mental health and being honest with providers instead of being fearful of mental health stigmas
 - Lots of feedback around not trusting VA system but loving the providers at their local clinics
 - Overall, our initial assumption that Veterans fill out multiple forms before, during, or after a visit was incorrect
+- Veterans want to be notified via text or email for these forms
+- Veterans stated that they would want to receive these forms 2 to 3 days before their visits
+- Veterans also stated that they would use a laptop/desktop to fill out digital forms with a phone being the second option
 
 ## Actionable Recommendations
-- Research the experience of filling out forms digitally for civilian providers 
- - Understand the bright spots and pain points of these experiences and how we may mirror a good experience on VA.gov
 
-## Next Steps
+**Identify new patient forms for primary care**
+
+**Talk with nurses and providers to walk through social history questions**
+- What is the provider "note" that is created for a primary care visit?
+- Get a view of the actual form that nurses are filling out or asking questions from
+
+**Investigate other avenues of care**
+- Is primary care the right focus area?
+- What other VA specialy forms exist?
+- What is the inpatient or ED experience like?
+
+**Research digital forms from civilian providers** 
 
 **Rewrite problem statement**
 - We should write a new problem statement that is reflective of these research findings
