@@ -93,7 +93,6 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 - We should write a new problem statement that is reflective of these research findings
 
 **Create personas**
-- Create personas for:
  - Veteran new to using VA healthcare
  - Veteran who uses VA healthcare and civilian care
  - Veteran who has visited the same providers for 10+ years
