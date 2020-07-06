@@ -47,6 +47,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Leyda Hughes (leyda.hughes@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Leyda Hughes	
-- Participant(s) for pilot test: Michelle Middaugh
+- Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Lance Sanchez, Gibran Rodriguez, Ethan Teague, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon
+- Observers: Gibran Rodriguez, Ethan Teague, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon
