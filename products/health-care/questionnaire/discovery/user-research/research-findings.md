@@ -85,10 +85,13 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 - Veterans want to be notified via text or email for these forms
 - Veterans stated that they would want to receive these forms 2 to 3 days before their visits
 - Veterans also stated that they would use a laptop/desktop to fill out digital forms with a phone being the second option
+- Veterans used multiple terms when addressing this process, they did not have strong reactions to any proposed names
 
 ## Actionable Recommendations
 
 **Identify new patient forms for primary care**
+- As a new patient, you fill out your full health history
+- How can we get physical copies of these forms?
 
 **Talk with nurses and providers to walk through social history questions**
 - What is the provider "note" that is created for a primary care visit?
@@ -100,9 +103,12 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 - What is the inpatient or ED experience like?
 
 **Research digital forms from civilian providers** 
+- Participants had good experiences with these forms for digital providers
+- How can we create something similar that might improve the hand-off process?
 
-**Rewrite problem statement**
-- We should write a new problem statement that is reflective of these research findings
+**Draft a proposed problem statement**
+- We drafted a proposed problem statement based on these research findings
+- Proposed problem statement: There is not currently an avenue for Veterans to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
 **Create personas**
  - Veteran new to using VA healthcare
@@ -110,7 +116,7 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
  - Veteran who has visited the same providers for 10+ years
 
 **Create journey map**
-- Create a assumption-research based journey map using these findings to understand where our solution may fit into the overall Veteran health journey
+- Create a hybrid assumption/research-based journey map using these findings to understand where our solution may fit into the overall Veteran health journey
 
 ## Appendix
 
