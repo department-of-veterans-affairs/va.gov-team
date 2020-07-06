@@ -1,5 +1,7 @@
 # Contact Information Product Outline
 
+Last Updated July 6, 2020
+
 ## POCs
 - GitHub Label: Profile
 - Slack channel: #vsa-authd-exp; #va-profile
