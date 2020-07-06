@@ -117,7 +117,7 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ### Key results – Engagement
 
-These are mostly baseline metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
+These are just average metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
 
 - Number of mailing addresses updates should be about 5K per week.
 - Number of home addresses updates should be about 5K per week.
@@ -134,6 +134,8 @@ These are mostly baseline metrics since we did not have KRs documented for the o
 
 ### Key results - System performance
 
+These are just average metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
+
 - Rate of successful address submissions should be 97% or above.
 - Rate of successful phone number submissions should be 97% or above.
 - Rate of successful email address submissions should be 97% or above.
@@ -148,7 +150,7 @@ These are mostly baseline metrics since we did not have KRs documented for the o
 
 ### Key results - Address validation
 
-Also documented on the [address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation#okrs--kpis).
+These are the KRs from the address validation project, which are also documented on the [address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation#okrs--kpis).
 
 - Rate of mailing address failures should drop from ~17% to ~10%. **Goal met**
 - Rate of home address failures should drop from 10% to 5%. **Goal met**
