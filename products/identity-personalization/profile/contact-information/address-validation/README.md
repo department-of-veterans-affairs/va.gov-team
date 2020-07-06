@@ -103,33 +103,64 @@ We expect to see the following:
 
 ## OKRs & KPIs
 
-### [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+### GA dashboard
 
-**Objective**: Reduce mailing issues and improve data quality
+- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
+### Objectives
 
-**Key result**: Decreased returned mail and calls to the VA contact center (data not readily available)
-- Bet 1: Implement address validation
-- Bet 2: Implement address suggestions as part of validation
-  - KPI: Need to see if we can track down returned mail metrics*
-  - KPI: Reduction in call center complaints (#6012)
+**People can easily determine if they'll have any issues receiving mail from the VA.** 
 
-**Key result**: Decrease in save errors/Increase in successful saves
-- Bet 1: Implement address validation
-- Bet 2: Implement address suggestions as part of validation
-  - KPI: Mailing address save errors on GA dashboard
-  - KPI: Home address save errors on GA dashboard
-  - KPI: Mailing address successful saves on GA dashboard
-  - KPI: Home address successful saves on GA dashboard
+- "Does the VA think USPS recognizes my address or not?"
 
-**Key result**: Improved address data quality/reduction in bad addresses
-- Bet 1: Implement address validation
-- Bet 2: Implement suggested addresses
-  - KPI: Address suggestions provided on GA dashboard
-  - KPI: Address suggestions used on GA dashboard
-  - KPI: Mailing address successful saves on GA dashboard
-  - KPI: Home address successful saves on GA dashboard
+**People can easily fix any issues with their address if it is flagged as problematic by the VA.**
 
+- "I am confident the VA does recognize my address and that I'll receive my mail."
+
+### Key results - System performance
+
+**Rate of mailing address failures should drop from ~17% to ~10%.** 
+
+- Goal met!
+
+*KPI*
+- Number of successful mailing address submissions.
+- Number of errors for mailing address submissions.
+
+*Bet*
+- Add address validation to the mailing address and home address fields.
+
+**Rate of home address failures should drop from 10% to 5%.** 
+
+- Goal met!
+
+*KPI*
+- Number of successful home address submissions.
+- Number of errors for home address submissions.
+
+*Bet*
+- Add address validation to the mailing address and home address fields.
+
+### Key results - Engagement
+
+**For address suggestions, rate of users choosing the suggested address should be 95% or above.**
+
+- Goal met!
+
+*KPI*
+- Number of times address validation is needed.
+- Number of times address is suggested.
+- Number of times suggested address is used.
+
+*Bet*
+- Add address validation to the mailing address and home address fields.
+
+### Nice to haves
+
+We would love to measure the following but do not currently have a way to do so:
+
+- Whether address validation had any effect on the returned mail rate or calls to the VA contact center.
+- Whether address validation reduced the number of addresses we consider to be "bad addresses".
 ---
 
 # Implementation Info
