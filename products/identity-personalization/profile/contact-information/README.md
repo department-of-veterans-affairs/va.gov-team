@@ -101,11 +101,66 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## OKRs & KPIs
 
-Original OKRs & KPIs for 2018 redesign were not documented. For the latest OKRs & KPIs for profile 2.0, [go here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#okrs--kpis).
+### Objective
 
-### [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
-### [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
-### [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+**People can easily verify what  contact information the VA has on file for them and update it as necessary so that they receive all correspondence with the VA.**
+
+"An easy way to keep my info current at the VA" 
+
+### Key results – Engagement
+
+These are mostly baseline metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
+
+- # of mailing addresses updates should be about 5K per week.
+- # of home addresses updates should be about 5K per week.
+- # of mobile phone numbers updates should be about 2K per week.
+- # of email addresses updates should be about 2K per week.
+
+*KPI*
+- # of users who update their addresses/phone numbers/email addresses.
+
+*Bets*
+- Feature contact information on the first page of the profile.
+- Allow easy editing and updating of information.
+- Integrate with VA Profile so that contact info updates sync with multiple backends at the VA.
+
+### Key results - System performance
+
+- Rate of successful address submissions should be 97% or above.
+- Rate of successful phone number submissions should be 97% or above.
+- Rate of successful email address submissions should be 97% or above.
+
+*KPIs*
+- # of successful address/phone/email submissions.
+- # of errors for updating addresses/phone/email.
+
+*Bets*
+- Integrate with VA Profile so that contact info updates sync with multiple backends at the VA.
+- Add address validation to the mailing address and home address fields.
+
+### Key results - Address validation
+
+Also documented on the [address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation#okrs--kpis).
+
+- Rate of mailing address failures should drop from ~17% to ~10%. **Goal met**
+- Rate of home address failures should drop from 10% to 5%. **Goal met**
+- For address suggestions, rate of users choosing the suggested address should be 95% or above. **Goal met**
+
+*KPI*
+- # of successful address/phone/email submissions.
+- # of errors for updating addresses/phone/email.
+- # of times address validation is needed.
+- # of times address is suggested.
+- # of times suggested address is used.
+
+*Bet*
+- Add address validation to the mailing address and home address fields.
+
+### GA dashboards
+
+- [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
+- [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
+- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
 
 ---
 
