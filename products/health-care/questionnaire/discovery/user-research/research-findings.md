@@ -3,11 +3,15 @@
 
 Aricka Lewis (aricka@adhocteam.us), 07/01/2020
 
-View the [Research Plan]
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-plan.md)
 
 ## Research Goals 
 
-The goals of this study were to: 
+The goals of this study were to:
+- Understand the current pre-appointment process for Veterans
+- Identify areas to improve the current pre-appointment process
+- Identify what forms Veterans are used to filling out before, during, and after an appointment
+- Learn what data Veterans are curerntly providing to providers
 
 ## Research Methodology 
 
