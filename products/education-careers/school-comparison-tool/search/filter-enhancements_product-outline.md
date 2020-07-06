@@ -1,4 +1,4 @@
-# Product Outline: Comparison Tool Search Enhancements 
+# Product Outline: Comparison Tool Filter Enhancements 
 ---
 
 ## Overview
