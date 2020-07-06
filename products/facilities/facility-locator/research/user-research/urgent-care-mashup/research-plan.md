@@ -2,24 +2,31 @@
 # Research Plan for Urgent Care Mashup - July 2020
 
 ## Goals
-The
+The goal of this study is to validate the usability and design
 
 #### Research questions
-- What 
+- What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
+– What information do Veterans need/want for community urgent care (in VA network) locations?
+- Do Veterans need to distinguish between these location types in a single list?
+- Do Veterans know about the community care urgent care benefit?
+- How should the community care urgent care benefit be presented? 
+- Are labels necessary? 
 
 #### Hypothesis 
-- Veterans will 
+- Veterans don't know that they can get urgent care in their community outside of a VA urgent care facility.
+- Veterans don't need to know what kind of facility they are choosing (VA vs community urgent care).
+- Veterans don't know that they should present an Urgent Care Assistance Card when visiting a community urgent care provider. 
 
 ## Method
 Moderated Usability Test
 
-We will use Zoom and UXPin to conduct remote moderated card usability sessions to observe how participants..
+We will use Zoom and UXPin to conduct remote moderated card usability sessions to understand participants' understanding of urgent care facility options and how they would go about claiming community urgent care benefits.
 These sessions will include a short interview with the participant.
 
 ## Participants and recruitment
 We will utilize the Perigean contract to reach our goal of observing **10** participants for 45 minute sessions.
 
-Criteria for recruiting:
+Participant Criteria:
 
 - All genders
 - A mix of rural and urban
@@ -27,7 +34,7 @@ Criteria for recruiting:
 - Laptop or desktop computer
 
 ## Timeline
-This study will take place July 10 - 16, 2020
+This study will take place July 13 - 16, 2020
 
 ### Team availability (EST)
 
