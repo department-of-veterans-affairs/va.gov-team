@@ -13,9 +13,9 @@
    - Legacy Claims (Prior to AMA)
     
 - What’s the breakdown of appeals by appeal type?
-- 2019 Fiscal Year Number for Board Decision Reviews
-- 23,607 Total AMA Decision Reviews(Includes Direct Review, Evidence Submission, and Hearings)
-- 54,737 Total Legacy Appeals
+  - 2019 Fiscal Year Number for Board Decision Reviews
+  - 23,607 Total AMA Decision Reviews(Includes Direct Review, Evidence Submission, and Hearings)
+  - 54,737 Total Legacy Appeals
 - How do appeal types differ in terms of evidence and actions required of Vets by VA and decision timeline?
 
 ## Additional Evidence 
