@@ -38,30 +38,24 @@ The purpose of this template is to enable an easy way for PW content team and VA
 
 ### KPIs
 - We will know the initial set of functionality is meeting the desired user and business outcomes when the CLP template is used by (or via the PW content team on behalf of) at least three business stakeholders -- and there are no requests for major changes.  This would validate the following:
- - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders  
- - the CMS functionality of the template builder is bug-free and user/author-friendly
- - the user permissions allow for guard-railing/governance by DEPO (the Public Websites Product leads)
- - the Campaign Landing Page supports the success metrics for traffic/reach as outlined by the business stakeholders
+  - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders  
+  - the CMS functionality of the template builder is bug-free and user/author-friendly
+  - the user permissions allow for guard-railing/governance by DEPO (the Public Websites Product leads)
+  - the Campaign Landing Page supports the success metrics for traffic/reach as outlined by the business stakeholders
 
 #### Baseline KPI Values
 - Increase in the number of campaigns produced year over year (e.g. meeting demand)
-- 
-
+- TBD
+- TBD
 
 ### OKRs
-- What are the measurable targets you're aiming for that delivers value for Veterans?
-
+- TBD
+- TBD
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
-
-
-
-
-
-
-
+- There is a minimum number of content components (perhaps 5 our of 8) needed to validate our hypothesis that a Campaign Landing Page template will adequately address the need of most business stakeholders 
+- The new content components/capabilities created for the CLP will be re-usable for other content needs -- e.g. the new [Learning Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md), etc.
 
 ### The template requirements are:
 - It must allow 2 versions - image/visually rich vs. no images
