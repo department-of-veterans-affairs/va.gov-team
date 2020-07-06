@@ -88,12 +88,14 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 **Rewrite problem statement**
 - We should write a new problem statement that is reflective of these research findings
 
-**Create personas and journey map**
+**Create personas**
 - Create personas for:
  - Veteran new to using VA healthcare
  - Veteran who uses VA healthcare and civilian care
  - Veteran who has visited the same providers for 10+ years
-- Create an assumption based journey map using these research findings to understand where our solution may fit into the overall Veteran health journey
+
+**Create journey map**
+- Create a assumption-research based journey map using these findings to understand where our solution may fit into the overall Veteran health journey
 
 ## Appendix
 
