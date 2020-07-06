@@ -32,9 +32,12 @@ __New list based on what we need for the prototype user tasks:__
   - Agent Orange LC pg w/CTAs that would direct them to the second hub page (CTAs: File for a disability compensation + How to file a claim)
 - For navigating between related LC articles: 
   - Change your address (va.gov account and profile LC article)
+  - How to change your address online step by step
   - Sign in FAQs LC article
 
 - For navigating from topic X to topic Y inside the LC: example from a disability topic to a VA.gov profile or Burials topic
+
+
 
 
 
