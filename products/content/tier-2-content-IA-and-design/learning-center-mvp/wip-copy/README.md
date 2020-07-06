@@ -1,80 +1,42 @@
 
 ## List of content articles for the first mvp prototype user research session
 
-### I. VA.gov account and profile
+__New list based on what we need for the prototype user tasks:__
 
-_This is just to get something in front of users for research. We can and will of course add more VA.gov account issues for launch._
+1/ Learning center homepage (1)
 
-- Sign in FAQs [already exists - just putting it into LC template]
-- VA.gov profile FAQs [already exists - just putting it into LC template]
-- How to create your VA.gov online account -- as a step by step w/screenshots
-- How to sign in to VA.gov -- as a step by step w/screenshots
-- Connected apps FAQs [already exists - just putting it into LC template]
-- Troubleshooting DSLogon
-- Mismatched account error [ high incidence – single faq template? about?]
-- Phone number list? - this could be an About template, with just text, or also accordions, and tables. [(Source from IRIS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/call-center-source-articles/IRIS%20Toll%20Free%20Numbers%20for%20Contacting%20VA.pdf)
+2/ Search results pages (2 versions:)
+
+- One w/ VA account specific results
+
+- One with tagged results from a topic tag, that also has similarly titled articles 
 
 
-### II. Disability learning center
+
+3/ Benefit hub detail pages (3 versions:)
+
+- One for participants to start on when we want to see if they get confused going to the learning center from the hub 
+  - Hazardous materials exposure page `/disability/eligibility/hazardous-materials-exposure/`  in the disability hub > Agent Orange link to LC 
+    
+    
+
+- One for participants to land on from the Agent Orange learning center after clicking a CTA, to see if they get confused going to the hub from the learning center 
+
+  - File for a disability compensation + How to file a claim hub pages (make both CTAs clickable to respective pages)
+
+    
+
+4/ Learning center article page (3)
+
+- Participant will land on here from first hub page: 
+  - Agent Orange LC pg w/CTAs that would direct them to the second hub page (CTAs: File for a disability compensation + How to file a claim)
+- For navigating between related LC articles: 
+  - Change your address (va.gov account and profile LC article)
+  - Sign in FAQs LC article
+
+- For navigating from topic X to topic Y inside the LC: example from a disability topic to a VA.gov profile or Burials topic
 
 
-Exposure to hazardous chemicals and materials `/disability/eligibility/hazardous-materials-exposure/`  - make into an index page inside the benefit hub with links to learning center. 
-
-__Move these ‘hazardous materials’ child pages in the left nav to the learning center as LC pages.__
-
-@Danielle is already working on consolidating/simplifying these pages per L4 work:
-
-- /disability/eligibility/hazardous-materials-exposure/specific-environmental-hazards/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/registry-health-exam/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/related-diseases/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/service-in-vietnam-korea/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/navy-coast-guard-ships-vietnam/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/thailand-military-bases/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/c-123-aircraft/
-- /disability/eligibility/hazardous-materials-exposure/agent-orange/testing-storage-areas/
-
-~@Beth~ TBD will refactor these pages as LC format:
-
-- /disability/eligibility/hazardous-materials-exposure/asbestos/
--	/disability/eligibility/hazardous-materials-exposure/mustard-gas-lewisite/
-- /disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
-- /disability/eligibility/hazardous-materials-exposure/ionizing-radiation/
-- /disability/eligibility/hazardous-materials-exposure/project-112-shad/
-- /disability/eligibility/hazardous-materials-exposure/gulf-war-illness-southwest-asia/
-- /disability/eligibility/hazardous-materials-exposure/gulf-war-illness-afghanistan/
-
-__On this page https://www.va.gov/disability/compensation-rates/__
-
-To test rates living in the LC. Refactor and move the following child pages to LC. Remove these child pages from left nav. 
-
-Note: we likely won't need to make all the rate accordions actually functional, just one as an example on each page.
-
-~@Jen~ TBD will refactor these as LC format:
-
-- /disability/compensation-rates/veteran-rates/
-- /disability/compensation-rates/veteran-rates/historical-rates-2019/
-- /disability/compensation-rates/special-monthly-compensation-rates/  [This one is already mocked up in Ryan's wireframes.] 
-- /disability/compensation-rates/special-monthly-compensation-rates/historic-rates-2019/
-
-[We won't make the other rate pages clickable for prototype task, just using the ^ as examples of user flow from hub to LC for rate info.] 
-
-
-### III. Burials and memorials learning center content
-
-The following burials LC articles are already mocked up in Ryan's wireframe:
-
-- Veterans Legacy Program 
-- How much does VA pay for funderal expenses?
-- How we assign SMC levels
-- Emblems of belief 
-- Burials benefit FAQs
-- What do I do if the headstone inscription is incorrect?
-- Checklist for scheduling a burial at a national cemetery
-
-Not mocked up:
-
-- NCA video list template ~@JenS~ will provide
 
 
 
