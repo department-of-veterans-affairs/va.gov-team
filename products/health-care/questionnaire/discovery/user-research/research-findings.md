@@ -32,6 +32,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 5. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
 6. Participants want a way to connect digital forms with their information in MyhealtheVet.
 7. Veterans want a way to review previous answers and update when needed
+8. Veterans would want to fill out digital forms 2-3 days ahead of their visit.
 
 ## Details of Findings
 
@@ -78,13 +79,14 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 
 > "I would use a digital option that said 'Since your last visit is there anything new?'"
 
+**Veterans would want to fill out digital forms 2-3 days ahead of their visit.** <br> Most participants stated that they would want to receive a text or email notification 2-3 days ahead of their appointment. They also stated that a laptop/desktop would be their preferred method of filling out a digital form.
+
+Assumption: Though they may receive the notification 2-3 days ahead, they may still fill out a digital form the day of or the day before their visit
+
 ## Additional Insights
 - Veterans had a big focus on mental health and being honest with providers instead of being fearful of mental health stigmas
 - Lots of feedback around not trusting VA system but loving the providers at their local clinics
 - Overall, our initial assumption that Veterans fill out multiple forms before, during, or after a visit was incorrect
-- Veterans want to be notified via text or email for these forms
-- Veterans stated that they would want to receive these forms 2 to 3 days before their visits
-- Veterans also stated that they would use a laptop/desktop to fill out digital forms with a phone being the second option
 - Veterans used multiple terms when addressing this process, they did not have strong reactions to any proposed names
 
 ## Actionable Recommendations
