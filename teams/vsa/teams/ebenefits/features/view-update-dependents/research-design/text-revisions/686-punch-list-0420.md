@@ -101,7 +101,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Remove stepchild section
 
-- [ ] Deselect radio-button for stepchild expenses question; add "Required"
+- [x] Deselect radio-button for stepchild expenses question; add "Required"
 - [x] Use base-checkbox address block for "Who does this stepchild live with?" address
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
@@ -135,7 +135,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Form review page
 
-- [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
+- [x] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
 - [x] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
 ### Submission Failure
