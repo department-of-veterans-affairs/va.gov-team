@@ -13,23 +13,23 @@
 - 53 points over 14 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
-FE: Wrap up smaller edits on punch list, target Staging Review
-BE: Finalize submission, target Staging Review
-Product: Iterate on call center documentation
-Team: Prepare UAT plan
+- FE: Wrap up smaller edits on punch list, target Staging Review  
+- BE: Finalize submission, target Staging Review  
+- Product: Iterate on call center documentation  
+- Team: Prepare UAT plan  
 
 ## 2. (STRETCH) POA: Design Iteration
-Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+- Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed  
 
-## 3. View My Payments: Initial Dev Activities and Ongoing Design Activities
-Design: Iterate on product designs and schedule further Collab Cycle activities as needed
-FE: (Stretch) Set up routes, mock data, scaffold app page, other setup activities
-BE: (Stretch) Rough in View Payments service, return staging data to FE
+## 3. View My Payments: Initial Dev Activities and Ongoing Design Activities  
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed  
+- FE: (Stretch) Set up routes, mock data, scaffold app page, other setup activities  
+- BE: (Stretch) Rough in View Payments service, return staging data to FE  
 
 ## 4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
-Design: Iterate on product designs and schedule further Collab Cycle activities as needed
-Design: Design and prototype "eligibility wizard" widgets
-FE: (Stretch) Scaffold eligibility wizards and forms based on current designs/ understanding
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed  
+- Design: Design and prototype "eligibility wizard" widgets  
+- FE: (Stretch) Scaffold eligibility wizards and forms based on current designs/ understanding  
 
 ## Sprint 24 (6/17 - 6/30)
 ```diff
