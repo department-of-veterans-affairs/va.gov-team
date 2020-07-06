@@ -6,11 +6,16 @@
 | ---- | ------- | ------------------ | ------------------ | ------- |
 | :heavy_check_mark: Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
 | View Dependents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - Feb |
-| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Feb - July |
-| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - July |
-| View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
-| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
+| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Jun - July |
+| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug |
+| View Representative (LH's API done) | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Sept |
+| CH36 | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug |
+| CH36 | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Sept |
+| Search Representative (LH's API done) | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Sept - Nov|
+| Modify Representative (LH's API done) | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Nov - Dec |
 | ~~View My Documents~~ | View  | 11 (2 months, 3 weeks) | 20 (5 months)  |    |
+| Loan Gty | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
+| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Q1 2021 - Nov |
 | Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
