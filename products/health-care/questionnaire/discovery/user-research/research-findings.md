@@ -47,6 +47,8 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 > “Frankly it would speed things up as it won't take provider time to do all of that.”
 
+> “I would do them ahead of time so the appointments can be on time. I think if the information is already there and I fill it out a day or two ahead, then the doctor would have it right there and maybe they wouldn't run behind all the time. They could see the information and know what to focus on.”
+
 **The biggest pain point for Veterans is the handoff of information** from VA nurse to VA provider and from VA provider to Non-VA provider. <br> Participants said that the questions their nurses ask before appointments are beneficial to their care, but do not feel that the information is relayed to their providers. Veterans feel that most of their heath information is shared when seeing VA specialists, but they are asked to complete forms and answer questions that the VA already has. 
 
 > “Repeating things to them is standard. They have to repeat and ask the same questions time and time again... Do you not have anything you're looking at about me... we are just used to it”
@@ -55,32 +57,47 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 **Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> New patients and those who have just enrolled in VA Healthcare are required to fill out clipboards during their first few visits. After that, Veterans must attend one primary care appointment per year in order to retain VA Healthcare eligibility. There are minimal questions that a Veteran has to answer about their health unless they see a specialist for the first time, where they are asked (orally or clipboard/tablet) specific questions related to that visit. 
 
-**Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.  
+Assumption: Because it is required to visit the VA once a year for primary care in order to maintain eligibility, some Veterans may not be motivated to fill out forms that they do not fill out in their current process.
+
+**Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.
 
 > “Its unusual that VA doesn’t hand me a clipboard or virtual clipboard to go into my doctor with.”
 
+**Participants want a way to connect digital forms with their information in MyhealtheVet.** <br> All participants mentioned that they are familiar with and/or use MyHealtheVet. The most common feedback we received was that MyHealtheVet is helpful for chatting with providers and ordering and maintaining current medications. Multiple participants mentioned that they would find the tool helpful to them and that they could imagine pre-visit forms existing there, but it is difficult to authenticate their account so they do not use it.
+
+Assumption: we can utilize the prescription list in MyHealtheVet to pre-populate pre-visit documentation
+Barrier: the authentication and login process henders Veterans from using MyHealtheVet 
+
+> "Digital would be convenient to fill out so you don’t have to write out. I can't spell the name of my medications so I could do it at home and I don't have to scramble."
+
+**Veterans want a way to track their routine responses over time.** <br> Most participants do not mind answering the social history questions before they see their provider. They mentioned that they would like a way to keep track how they answered those questions over time. Additionally, when asked if they would prefer to fill out a form or edit existing answers, they preferred the ability to edit answers they've provided previously.
+
+> "I would use a digital option that said 'Since your last visit is there anything new?'"
 
 ## Additional Insights
-
-- 
+- Veterans had a big focus on mental health and being honest with providers instead of being fearful of mental health stigmas
+- Lots of feedback around not trusting VA system but loving the providers at their local clinics
+- Overall, our initial assumption that Veterans fill out multiple forms before, during, or after a visit was incorrect
 
 ## Actionable Recommendations
-
+- Research the experience of filling out forms digitally for civilian providers 
+ - Understand the bright spots and pain points of these experiences and how we may mirror a good experience on VA.gov
 
 ## Next Steps
 
 **Rewrite problem statement**
-- detail
+- We should write a new problem statement that is reflective of these research findings
 
 **Create personas and journey map**
-- detail
+- Create personas for:
+ - Veteran new to using VA healthcare
+ - Veteran who uses VA healthcare and civilian care
+ - Veteran who has visited the same providers for 10+ years
+- Create an assumption based journey map using these research findings to understand where our solution may fit into the overall Veteran health journey
 
 ## Appendix
 
-- Research plan
-- Conversation guide
-- Transcripts
-- Participant summary created by Amanda Buckley
-- Topline summary
-- Personas
-- Journey map
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/conversation-guide.md)
+- [Transcripts]
+- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/topline-summary.md)
