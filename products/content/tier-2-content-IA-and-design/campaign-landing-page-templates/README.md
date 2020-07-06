@@ -37,15 +37,19 @@ The purpose of this template is to enable an easy way for PW content team and VA
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+- We will know the initial set of functionality is meeting the desired user and business outcomes when the CLP template is used by (or via the PW content team on behalf of) at least three business stakeholders -- and there are no requests for major changes.  This would validate the following:
+ - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders  
+ - the CMS functionality of the template builder is bug-free and user/author-friendly
+ - the user permissions allow for guard-railing/governance by DEPO (the Public Websites Product leads)
+ - the Campaign Landing Page supports the success metrics for traffic/reach as outlined by the business stakeholders
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- Increase in the number of campaigns produced year over year (e.g. meeting demand)
+- 
+
 
 ### OKRs
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+- What are the measurable targets you're aiming for that delivers value for Veterans?
 
 ---
 
