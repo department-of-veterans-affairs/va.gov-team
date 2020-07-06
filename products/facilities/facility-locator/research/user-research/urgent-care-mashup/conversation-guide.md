@@ -70,12 +70,14 @@ You are coming to the site because you need to visit an Urgent Care location in 
 https://www.va.gov/COMMUNITYCARE/programs/veterans/Urgent_Care.asp
 Take couple minutes to review this page.
 - What is this page trying to communicate to you?
+- What can you tell me about urgent care benefits?
 - What would your next step be?
 
 [BACK TO PROTOTYPE]
 
 Let's imagine now that you called and confirmed that all of the locations are open and can treat your sore throat. 
 - How would you go about choosing a location on this screen?
+- What can you tell me about urgent care benefits as they relate to the urgent care location options available to you?
 
 ## Post-Task Interview - 5 minutes
 
