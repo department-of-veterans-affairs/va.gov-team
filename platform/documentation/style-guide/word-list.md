@@ -161,6 +161,11 @@ GitHub is a proper noun, so we capitalize it. Don’t write Github.
 
 ## I
 
+### in order to
+Just write "to."
+
+### internet
+Lowercase, per AP Style.
 
 ## J
 
