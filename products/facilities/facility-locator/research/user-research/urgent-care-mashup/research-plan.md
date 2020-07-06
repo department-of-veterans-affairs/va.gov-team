@@ -1,5 +1,5 @@
 
-# Research Plan for Facility Operating Status - June 2020
+# Research Plan for Urgent Care Mashup - July 2020
 
 ## Goals
 The
