@@ -10,8 +10,8 @@
 - How do appeal types differ in terms of evidence and actions required of Vets by VA and decision timeline?
 
 ## Additional Evidence 
-- Do Vets usually upload additional evidence for their appeals? Or do VSOs usually upload evidence? We are looking to understand how useful a direct upload feature for Vets would be.
-- What type of additional evidence is typically requested? We are looking to understand if there are some documents that are most commonly needed.
+- Do Vets usually upload additional evidence for their appeals? Or do VSOs usually upload evidence? We are looking to understand how useful a direct upload feature for Vets appealing a claims decision would be. 
+- What type of additional evidence is typically requested? We are looking to understand if there are certain documents that are most commonly needed.
 
 ## Flow to take photo, flatten, fix perspective
 - On average, how much additional evidence is needed?(eg, 1-page long or 50-pages long)
