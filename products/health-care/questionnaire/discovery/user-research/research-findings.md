@@ -61,7 +61,7 @@ We conducted 30-45 minute remote interviews with Veterans and Caregivers via Zoo
 
 **Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.** <br> New patients and those who have just enrolled in VA Healthcare are required to fill out clipboards during their first few visits. After that, Veterans must attend one primary care appointment per year in order to retain VA Healthcare eligibility. There are minimal questions that a Veteran has to answer about their health unless they see a specialist for the first time, where they are asked (orally or clipboard/tablet) specific questions related to that visit. 
 
-Assumption: Because it is required to visit the VA once a year for primary care in order to maintain eligibility, some Veterans may not be motivated to fill out forms that they do not fill out in their current process.
+- Assumption: Because it is required to visit the VA once a year for primary care in order to maintain eligibility, some Veterans may not be motivated to fill out forms that they do not fill out in their current process.
 
 **Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms** though they do not hold this expectation for the VA. Those who receive care from civilian providers (not referred by VA) feel that the information they provide is beneficial to their care.
 
@@ -69,7 +69,7 @@ Assumption: Because it is required to visit the VA once a year for primary care 
 
 **Participants want a way to connect digital forms with their information in MyhealtheVet.** <br> All participants mentioned that they are familiar with and/or use MyHealtheVet. The most common feedback we received was that MyHealtheVet is helpful for chatting with providers and ordering and maintaining current medications. Multiple participants mentioned that they would find the tool helpful to them and that they could imagine pre-visit forms existing there, but it is difficult to authenticate their account so they do not use it.
 
-Assumption: we can utilize the prescription list in MyHealtheVet to pre-populate pre-visit documentation
+- Assumption: we can utilize the prescription list in MyHealtheVet to pre-populate pre-visit documentation
 Barrier: the authentication and login process henders Veterans from using MyHealtheVet 
 
 > "Digital would be convenient to fill out so you don’t have to write out. I can't spell the name of my medications so I could do it at home and I don't have to scramble."
