@@ -1,4 +1,4 @@
-# VAOSR MVP Conversation Guide: June/July 2020
+# VAOSR MVP Conversation Guide: July 2020
 
 ## Moderator logistics
 
