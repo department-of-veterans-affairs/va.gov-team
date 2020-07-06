@@ -92,6 +92,8 @@ Use when referencing the VFS Contact Center instead of Call Center.
 
 ## D
 
+### design docs
+OK to use when refering to a software [design doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/design-docs) if you're certain that your audience is familiar with the term. Folks outside engineering practice areas may confuse this with some sort of UX design-related document.
 
 ### Digital Experience Product Office (DEPO)
 OK to just write DEPO.
