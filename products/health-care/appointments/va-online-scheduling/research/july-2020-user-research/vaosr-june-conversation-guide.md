@@ -43,16 +43,12 @@ Before we look at the website, let’s start with a few warm-up questions.
   - If NO:
     - Have you ever considered scheduling a VA appointment online?
     - What would convince you to try it?
-- Are you familiar with Telehealth appointments for a same-day appointments from VA?
-  - If YES:
-    - Have you received this type of care before?
-    - Can you tell me a bit more about your experience?
-  - If NO:
-    - What would convince you to try it?
 
 ## Section 1: Schedule and View VA Appointments
 
-Next, we're going to take a look at a webpage on VA.gov. We're going to look at a specific page that you may or may not be familiar with because we'd like to get your feedback on this page. 
+Next, we're going to take a look at a webpage on VA.gov, it's ok if you haven't seen it before, we'd like to get your feedback on it.
+
+**ASK VETERAN TO START SHARING SCREEN**
 
 Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedule-view-va-appointments/)
 
@@ -62,6 +58,7 @@ Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedu
     - What do you think about this page?
 - Can you log in to your account from here?
   - *Assist if cannot find log in button*
+  - *Click button once logged in*
   - Follow up questions, once logged in:
     - Have you you seen or used this tool before?
       - Can you tell me what happened?
@@ -80,9 +77,10 @@ We're going to take a look at your Appointments list. Don't worry if you haven't
     - What don't you like about it? Is there anything that you find confusing?
     - Is there anything that you think may be missing?
 - Appointment list: Talk to me about how appointments displayed. 
-  - What do you think about the order of your appointments?
-  - Can you find past appointments on this page?
-  - Are you able to change how your appointments are sorted?
+  - Prompts:
+    - What do you think about the order of your appointments?
+    - Can you find past appointments on this page?
+    - Are you able to change how your appointments are sorted?
 - Is there anything else you'd like to share about this page?
 
 ## Section 3: Scheduling an appointment using VAOSR MVP
@@ -108,63 +106,41 @@ Next, we're going to use the tool to schedule an appointment. Don't worry if you
     - If a user is registered at 2+ VAMCs, ask: do you recognize these locations in the list? Do you know what it means?
     - If a user is registered at 1 VAMC, ask: does this option make sense to you? Do you know what it means?
   - *If user ends process, indicate where and why*
-  - Why weren't you able to complete your task?
-  - What would have made you able to schedule your appointment today?
+    - Why weren't you able to complete your task?
+    - What would have made you able to schedule your appointment today?
 - Is there anything else you'd like to share about this page?
 
 ## Section 4: Cancelling an appointment using VAOSR MVP
 
 Next, we're going to try to cancel an appointment using this tool.
-
 - Before we start this task, is there an appointment you wish to try to cancel today?
-
   - If YES: 
     - Great, let's try to cancel it.
   - If NO:
-    - No problem! Let's pretend that you do and we will talk through how you would do it, without cancelling anything. 
-
+    - No problem! Let's pretend that you want to cancel and walk through the process OR cancel the appointment request you made, if you don't need it.
 - From this page [online scheduling tool], do you see anywhere to cancel an appointment? 
-
-  - Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
-
-    - What do you think of this page?
-      - Prompts:
-        - What information can you find here?
-        - What do you like about it?
-        - What don't you like about it? Is there anything that you find confusing?
-        - Is there anything that you think may be missing?
-    - Have you seen this page before?
-
-    - What do you think of this page?
-      - Prompts:
-        - What information can you find here?
-        - What do you like about it?
-        - What don't you like about it? Is there anything that you find confusing?
-        - Is there anything that you think may be missing?
-    - Have you seen this page before?
-
-  - [go through each page of the flow]
-
-    - *If user ends process, indicate where and why*
-    - Why weren't you able to complete your task?
-    - What would have made you able to cancel your appointment today?
-
+  - Walk me through how you'd cancel this appointment
+  - Click cancel, what happens?
+  - If cannot cancel online:
+    - What do you think of this?
+    - What would you do next?
+  - If can cancel online:
+    - What do you think of this?
+    - Were you able to complete cancellation?
   - Is there anything else you'd like to share about this page?
 
 ## Section 5: Express Care Prototype
 
 Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. 
 
-
-
 Before we look at the prototype, let's start with a few questions:
-
 - Have you heard of "Express Care"?
   - If YES: 
     - What is it? 
     - Have you used it?
-  - If NO: What do you think it might be?
-  - Prompt, if needed: do you think it is for an in-person or virtual appointment?
+  - If NO: 
+    - What do you think it might be?
+    - Prompt, if needed: do you think it is for an in-person or virtual appointment?
 - Have you done any Telehealth appointments with VA?
   - If YES:
     - How did you schedule your appointment?
@@ -173,8 +149,6 @@ Before we look at the prototype, let's start with a few questions:
   - If NO:
     - Have you considered it before?
     - What would convince you to try it?
-
-
 
 Now we're going to look at a prototype: [Express Care Prototype](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens)
 
@@ -191,7 +165,7 @@ Now we're going to look at a prototype: [Express Care Prototype](https://vsateam
   - Probe: What does / doesn't make sense?
   - What do you think will happen once you submit this form?
   - Prompt if necessary: Does "request a phone screening" meet your expectations for making a same-day urgent Telehealth appointment?
-- Do you think you will get a call back *today*?
+- [EC confirmation screen] Do you think you will get a call back *today*?
   - What if you specify a "best times for VA to call" window?
 - Is there anything else you'd like to share about this?
 
