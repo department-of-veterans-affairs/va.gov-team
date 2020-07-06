@@ -329,7 +329,7 @@ Write as shown when first introducing the term. OK to shorten to USDS after firs
 
 [USDS](https://www.usds.gov/) is a technology unit within the Executive Office of the President of the United States. USDS employees are hired for 'tours of service' that range between a few months to a few years. They are embedded in the digital technology departments of federal agencies to bring best practices and new approaches to Federal Government projects.
 
-This term is unlikely to be used in VSP documentation, but it's helpful for context to know that people who work on behalf of the VA that we often refer to as "DEPO Leads" are often actually employed by USDS.
+This term is unlikely to be used in VSP documentation, but it's helpful for context to know that people who work on behalf of the VA that we often refer to as "DEPO Leads" are often working on behalf of VA while doing a tour of service with USDS.
 
 ### use vs. utilize
 Don’t write utilize. Write “use” instead.
