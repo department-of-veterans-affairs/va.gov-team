@@ -111,13 +111,13 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 These are mostly baseline metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
 
-- # of mailing addresses updates should be about 5K per week.
-- # of home addresses updates should be about 5K per week.
-- # of mobile phone numbers updates should be about 2K per week.
-- # of email addresses updates should be about 2K per week.
+- Number of mailing addresses updates should be about 5K per week.
+- Number of home addresses updates should be about 5K per week.
+- Number of mobile phone numbers updates should be about 2K per week.
+- Number of email addresses updates should be about 2K per week.
 
 *KPI*
-- # of users who update their addresses/phone numbers/email addresses.
+- Number of users who update their addresses/phone numbers/email addresses.
 
 *Bets*
 - Feature contact information on the first page of the profile.
@@ -131,8 +131,8 @@ These are mostly baseline metrics since we did not have KRs documented for the o
 - Rate of successful email address submissions should be 97% or above.
 
 *KPIs*
-- # of successful address/phone/email submissions.
-- # of errors for updating addresses/phone/email.
+- Number of successful address/phone/email submissions.
+- Number of errors for updating addresses/phone/email.
 
 *Bets*
 - Integrate with VA Profile so that contact info updates sync with multiple backends at the VA.
@@ -147,11 +147,11 @@ Also documented on the [address validation outline](https://github.com/departmen
 - For address suggestions, rate of users choosing the suggested address should be 95% or above. **Goal met**
 
 *KPI*
-- # of successful address/phone/email submissions.
-- # of errors for updating addresses/phone/email.
-- # of times address validation is needed.
-- # of times address is suggested.
-- # of times suggested address is used.
+- Number of successful address/phone/email submissions.
+- Number of errors for updating addresses/phone/email.
+- Number of times address validation is needed.
+- Number of times address is suggested.
+- Number of times suggested address is used.
 
 *Bet*
 - Add address validation to the mailing address and home address fields.
