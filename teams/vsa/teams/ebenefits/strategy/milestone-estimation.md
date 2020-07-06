@@ -10,12 +10,12 @@
 | View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug |
 | View Representative (LH's API done) | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Sept |
 | CH36 | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug |
-| CH36 | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Sept |
+| CH31 | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Sept |
 | Search Representative (LH's API done) | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Sept - Nov|
 | Modify Representative (LH's API done) | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Nov - Dec |
 | ~~View My Documents~~ | View  | 11 (2 months, 3 weeks) | 20 (5 months)  |    |
 | Loan Gty | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
-| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Q1 2021 - Nov |
+| Add or Update Representative | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Q1 2021 - Nov |
 | Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
