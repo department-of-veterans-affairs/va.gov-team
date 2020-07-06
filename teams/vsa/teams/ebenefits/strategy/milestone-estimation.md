@@ -10,7 +10,7 @@
 | View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - July |
 | View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
 | Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
-| ~~View My Documents~~ | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Jul - Sep |
+| ~~View My Documents~~ | View  | 11 (2 months, 3 weeks) | 20 (5 months)  |    |
 | Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
