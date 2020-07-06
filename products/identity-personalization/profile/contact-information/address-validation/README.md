@@ -1,5 +1,7 @@
 # Candidate Address Validation Product Outline
 
+Last Updated July 6, 2020
+
 ## POCs
 - GitHub Label: Address Validation
 - Slack channel: #vsa-authd-exp
