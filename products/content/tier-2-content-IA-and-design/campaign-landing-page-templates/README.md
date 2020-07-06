@@ -17,7 +17,7 @@ The purpose of this template is to enable an easy way for PW content team and VA
 ## Desired User Outcomes
 
 - The primary user(s) of this template -- and CMS functionality -- are the Public Website content team and VA businesses (e.g. VBA Digital Strategy Team) 
-- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination for thematic marketing andpublic-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
+- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination for thematic marketing and public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
 
 ## Undesired User Outcomes
 
