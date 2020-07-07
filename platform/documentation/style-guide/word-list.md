@@ -1,6 +1,4 @@
 
-*DRAFT IN PROGRESS*
-
 # Word List
 
 The words on this list are relevant to the Veteran-facing Services Platform (VSP) team and require clarification so we are consistent in our documentation. Some possible reasons for a word being on this list include:
