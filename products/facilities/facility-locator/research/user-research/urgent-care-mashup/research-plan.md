@@ -11,16 +11,18 @@ The goal of this study is to validate the usability and design of new facility l
 - Do Veterans need to distinguish between these location types in a single list?
 - Do Veterans know about the community care urgent care benefit?
 - How should the community care urgent care benefit be presented? 
-- Are labels necessary? 
+- Are labels indicating urgent care service/facility type necessary when a Veteran chooses an urgent care location? 
 
 #### Hypothesis 
-- Veterans don't know that they can get urgent care in their community outside of a VA urgent care facility.
-- Veterans don't need to know what kind of facility they are choosing (VA vs community urgent care).
-- Veterans don't know that they should present an Urgent Care Assistance Card when visiting a community urgent care provider. 
+- Veterans will understand that they can get urgent care in their community outside of a VA urgent care facility.
+- Veterans don't need or want to know what kind of facility they are choosing (VA vs community urgent care).
+- Veterans will understand that they should present an Urgent Care Assistance Card when visiting a community urgent care provider. 
 
 ## Method
 
-Remote, moderated usability testing will be used to gain feedback on facility locator results designs. The tests will guage participants' understanding of all urgent care facility options available to them and how they would go about claiming community urgent care benefits.
+Remote, moderated usability testing will be used to gain feedback on the design of facility locator search result that will combine cards for VA urgent care and community urgent care. The study will validate that the new designs will allow:
+ - participants to understand all of the urgent care facility options available to them.
+ - validate that the new design would suggiciently inform them about community urgent care benefits.
 
 We will be testing a [UXPin prototype] via Zoom. These sessions will include a short interview with the participant.
 
@@ -58,4 +60,4 @@ Please list the people who will be serving in each role.
 - Project point of contact: Leyda Hughes	
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Ethan Teague, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us) 
+- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us) 
