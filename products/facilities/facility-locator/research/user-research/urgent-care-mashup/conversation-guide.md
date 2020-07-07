@@ -80,8 +80,10 @@ Now, I'd like you to compare the two closest locations.
 #### Questions:
 - How would you prepare to visit the first location?
     - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
-        - user clicks
+        - [user clicks]
     - What is this page trying to communicate to you?
+    
+Let's go back to the search results page
 - How would you prepare to visit the second location?
     - What does the [status] mean to you?  
 - What would be your next step?
