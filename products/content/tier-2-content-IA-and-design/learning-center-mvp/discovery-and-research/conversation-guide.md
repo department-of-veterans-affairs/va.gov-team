@@ -15,7 +15,7 @@ Thanks for joining us today! My name is Liz Lantz and I also have some colleague
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 MINUTES.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30-45 MINUTES.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototype.** It may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. None of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -52,9 +52,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
   
 
-## First Task: Find article on a specific topic - X minutes
+## First Task: Find article on a specific topic - 5 minutes
 
-- Imagine you are looking for information on [VA account topic].  Talk me through how you'd find the answer.  
+- Imagine you recently moved and you need to change the address the VA has on file.  Talk me through how you'd find the answer.  
+
+  ***Note: will have them talk through it rather than start on VA.gov and show us, so we don't prime them if using VA.gov is not the way they'd typically change their address***
 
 - Okay, thank you for explaining that to me.  Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together. It'll be really helpful if you can think out loud as much as possible moving forward.  Since this is a prototype, not everything will work as you might expect, but it'll be very helpful to hear and see how you'd interact with it if it were a live website.
 
@@ -66,124 +68,153 @@ Before we look at the website, let’s start with a few warm-up questions.
 
   *Allow participant to go through entire page before prompting them to click.*
 
-- Ok, great.  Now go ahead and try to find that [VA account topic] information the way you normally would, click around.
+  *`View all VA account and profile articles` link is a clickable hotspot*
 
-  *Search bar and `View all VA account and profile articles` links are hotspots*
+- Ok, great.  Now go ahead and click that link.
 
-- Enter search term or click on link
-
-### Things to watch for:
+#### Things to watch for
 
 - Does the initial response line up with behavior described in the warm up?
 - Did the participant notice the search bar?
+- What were the participant's comments on the `Search` radio buttons above the search bar?
 - Participant reaction to audience and topic tags and content?
-- Did the participant comment on the `Search` radio buttons above the search bar?
 - How did participant decide to look up information on the topic?
 
-## Second Task: Review results - X minutes
+#### Notes for planning
 
-*Participant will either be looking at a search results screen, or a `View all [topic] articles` result screen.*
+- Confirm task scenario: "change your address the VA has on file"
+- Screen needs
+  - Learning center homepage
 
-*By end of this task, participant should review 3 search results screens: keyword, all topic articles, and tag results*
+## Second Task: Review topic results - 3 minutes
 
-- Ok great! Now again, scroll around, but don't click yet. Go ahead and talk me through what you see on this page and what you can do here. 
-
-  - How does this line up with what you expected?
-  - What would you click on from here? Why?
-
-- That's helpful, thanks for sharing that.  Now let's go back to the last screen you were on and try finding the  [VA account topic] info a different way. Do you see another way you can do that?
-
-  *Allow participant to explore. If they don't find the 2nd method (whatever they didn't choose the first time) on their own, guide them to search or click `View all [topic] articles` link*
+*Participant will be looking at the `View all VA account and profile articles` result screen.*
 
 - Ok great! Now again, scroll around, but don't click yet. Go ahead and talk me through what you see on this page and what you can do here. 
 
-  - How does this line up with what you expected?
-  - What would you click on from here? Why?
+- How does this line up with what you expected?
 
-- Excellent, thank you. Now let's say you from here, you decided to switch gears and wanted to see everything about **XYZ**. Talk me through how you would do that.
+- What would you click on from here? 
 
-  *Guide participant to click on tag if they don't mention it on their own*
+  *Two clickable results: `Change your address on file w/ the VA`, or `How to change your address online`*
 
-  **^^^** **NEED TO WRITE THIS PROMPT BASED ON WHAT WE WANT TO TEST WITH TOPIC OR AUDIENCE TAGS**. 
+- Great, go ahead and click.
 
-- Ok great! Now again, scroll around, but don't click yet. Go ahead and talk me through what you see on this page and what you can do here. 
+#### Things to watch for
 
-  - How does this line up with what you expected?
-
-### Things to watch for:
-
-- Is it easy for them to navigate this search-focused, tag-based structure?
 - Is the format of each search result helpful, or is a link farm more appropriate?
-- Does the participant find any of the results pages more helpful than the other?
 - Is the format of the topic articles results page sufficient and helpful to the participant?
-- What were the participants comments on the topic and audience tags for each result?
-- How did they react to the tag navigation?
-
-## Third Task: Navigating between Benefit hub and Learning Center - X minutes
-
-*Participant should be on a tag results page*
-
-- Now imagine you want to **TASK THAT WILL TAKE THEM BACK AND FORTH**. Show me how you would do that from here.
-
-  *Participant will ultimately go to hub page*
-
--  Now again, scroll around, but don't click yet. How does this line up with what you expected?
-
-- Go ahead and click **REPHRASE TO FOCUS ON TASK COMPLETION PATH WITHOUT LEADING**
-
-  *This should take participant to LC page*
-
--  Now on this page, scroll around, but don't click yet. How does this line up with what you expected?
-
-- Do you see a way you can **COMPLETE TASK**? Go ahead and do so
-
-  *This should take participant to back to another hub page*
-
-- Click on CTA, go back to relevant hub page (not the same one we started on).  Does that confuse people?
-
-  **ARE WE UNNECESSARILY BOUNCING PEOPLE AROUND IN THIS TASK?**
-
-### Things to watch for:
-
+- What were the participant's comments, if any, on the topic and audience tags for each result?
 - Do the template labels help the user choose the most relevant article to their search?
 
-- Did the participant get confused when they landed in the benefit hub from the learning center?
+#### Notes for planning
 
-- Did the participant get confused when they landed in the learning center from the benefit hub?
+- Screen needs
+  - `View all VA account and profile articles` page with 10 search results
+  - Page should include some results that have similar titles so we can see if the template labels are effective in helping users choose a relevant search result
 
-- Do users get confused if they don't find something in the benefit hub and they have to go to the learning center?
+## Third Task: Navigate between learning center articles and topics - 5 minutes
 
-  
+*Participant should be on `Change your address on file w/ the VA`, or `How to change your address online` article*
 
-## Fourth Task: Navigate between learning center articles - X minutes
+*Article should have CTAs leading to other related articles*
 
-*Participant should be on an article page*
+- Go ahead and talk me through what you see on this page and what you can do here. 
 
-- You've been so helpful with all this feedback, thank you. I just have a few more things I want to ask you about.
-- Talk me through how you would find additional information on this particular topic from here.
-- And then, let's imagine you want to shift gears again, and look up some information on **UNRELATED TOPIC**. How would you do that?
+- How useful is this page in answering your question?
 
-### Things to watch for:
+- Show me how you would find additional information on this particular topic from here. It's okay to click now if you want.
 
-- How does user expect to be able to get to related topic information?
+  ***Note: need to refine how to prompt user to click to go to the another related article***
+
+  *Encourage participant to click on hotspot if they have not done so already*
+
+- How does this line up with what you expected?
+
+- Excellent, you're being really helpful. Thank you. Just a few more things to go over.
+
+- Let's shift gears and think about some non-account things. Imagine you need to find out what benefits someone qualifies for if they've been exposed to Agent Orange. How would you do that from here?
+
+  *May need to remind user that things might not work as expected since this is a prototype*
+
+#### Things to watch for
+
+- Did the participant get confused navigating between articles?
+- How did the experience align with participant's expectations?
 - How does user expect to be able to get to unrelated topic information?
 
-## Fifth Task: Search for hub content in learning center - X minutes
+#### Notes for planning
 
-- Now, let's go back to the screen where we started.  Imagine you want to find information about **SOMETHING THAT DOESN'T EXIST IN LEARNING CENTER**. Talk me through how you would find that from here.
+- Need to refine how to prompt user to go between related articles. Do we frame the task so that it's broad, then the first clickable item still doesn't answer the question, so they have to click on one of the other links?
+- Need to refine prompt shifting user to Agent Orange content. Does it need to be more specific?
+- Last prompt can elicit how a user would navigate from one learning center topic to another topic
+- Screen needs:
+  - Change your address on file with VA
+  - How to change your address online
+  - Sign in FAQs 
 
-### Things to watch for:
+## Fourth Task: Navigating between Hub and Learning Center - 5 minutes
 
-- Does the participant understand that information they don't find in the learning center might be in the benefit hub?
+- Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to take you directly to a page we think would be helpful in finding that information. 
 
-## Post-Task Interview - X minutes
+  *Send participant link to Agent Orange page in prototype*
 
-- Our session today was focused on the learning center we're developing. Where would you expect to have access to something like that on the website?
+- Now again, scroll around, but don't click yet. How does this line up with what you expected?
+
+- Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
+
+  *This should take participant to LC Agent Orange page*
+
+- Now, how does this line up with what you expected?
+
+- Show me what you would do to take this a step further and start the process of getting these benefits.
+
+  *This should hopefully get participant to click CTA, and land on another hub page*
+
+#### Things to watch for
+
+- Did the participant get confused when they landed in the learning center from the benefit hub?
+- Did the participant get confused when they landed in the benefit hub from the learning center?
+- What changes did the participant notice between LC and hub?
+
+#### Notes for planning
+
+- Screen needs:
+  - Exposure to hazardous materials page from benefit hub
+  - Agent Orange LC page w/ CTAs leading back to hub, with Vietnam War Veterans (to tee up next task)
+  - How to file or apply page from benefit hub
+
+## Fifth Task: Review tag results -  2 minutes
+
+- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. Can you please go back to the Agent Orange page we were just looking at? You can use your back button.
+
+- From here, show me how would you find more information for Vietnam War Veterans.
+
+  *Encourage participant to click on audience tag if they don't on their own*
+
+- How does this align with what you'd expect? 
+
+- How useful would this be to you?
+
+#### Things to watch for
+
+- Are the tag results useful?
+- Is the format helpful to the participant?
+
+#### Notes for planning
+
+- Screen needs:
+  - Vietnam War Veterans search results page
+
+## Post-Task Interview - 5 minutes
+
+- Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would an application for a benefit you don't already have - education, home loan, something like that.
+- Our session today was focused on the learning center we are developing. Where would you expect to have access to something like that on the website?
 - Tell me how you see the learning center different from overall site search.
 - If they didn't address the radio buttons above the search bar, get their perspective on that
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
