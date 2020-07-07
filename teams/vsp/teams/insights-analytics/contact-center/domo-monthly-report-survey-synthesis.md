@@ -1,8 +1,8 @@
 # DOMO Monthly Report Survey Synthesis
 
-From the small batch of results that were submitted, the report is not often utilized.  Those that have reviewed the Monthly Contact Center Report appreciate the options in Excel, however, this could be the lack of familiarity with DOMO, which could be remedied by a walkthrough of the system or changing access levels for the particular card (dashboard).
+From the small batch of results that were submitted, the report is not often utilized.  In reviewing the data, two of the three participants have not actually used the contact center report and merely glanced at it.  One individual who seems to use the contact center report stated that there are pros/cons either way, however, Excel is easier to filter.  This could be the lack of familiarity with DOMO, which could be remedied by a walkthrough of the system or changing access levels for the particular card (dashboard).
 
-Next steps would be to have more survey particiapnts that actually utilize the data in the Contact Center Monthly Report.  This would allow the Contact Center team to obtain details of data that teams are wanting reviewing and use in order to make better products to service veterans.  In order to make better products teams need to be aware of the issues that users are experiencing with the current tools and integrate fixes and/or workarounds.  
+Next steps would be to have more survey participants that actually utilize the data in the Contact Center Monthly Report.  This would allow the Contact Center team to obtain details of data that teams are wanting reviewing and use in order to make better products to service veterans.  In order to make better products teams need to be aware of the issues that users are experiencing with the current tools and integrate fixes and/or workarounds.  
 
 ## Participants:
 14 individuals were selected to take this survey based on their viewing of the Monthly Contact Center Report in DOMO.  They were asked via Slack and provided the link and password, and informed that it was anonymous.
