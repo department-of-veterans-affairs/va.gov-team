@@ -1,5 +1,6 @@
+# Research Plan for Urgent Care Mashup Study 
 
-# Research Plan for Urgent Care Mashup - July 2020
+**July 2020 Discovery**<br>
 
 ## Goals
 The goal of this study is to validate the usability and design of new facility locator search result cards which combine VA urgent care and community urgent care service types.
