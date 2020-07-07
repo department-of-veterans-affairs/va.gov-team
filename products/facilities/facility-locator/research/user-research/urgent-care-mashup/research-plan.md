@@ -30,7 +30,7 @@ We will be testing a [UXPin prototype] via Zoom. These sessions will include a s
 
 ## Participants and recruitment
 
-We will utilize the Perigean contract to reach our goal of observing **10** participants.
+We will utilize the Perigean contract recruiting. We'd like to schedule 15 participants to reach our goal of observing **10** participants.
 
 Participant Criteria:
 
@@ -38,6 +38,8 @@ Participant Criteria:
 - A mix of rural and urban
 - Veterans & Caregivers
 - Laptop or desktop computer
+- Enrolled in VA health care.
+- Has visited an urgent care clinic in the last two years.
 
 ## Timeline
 
