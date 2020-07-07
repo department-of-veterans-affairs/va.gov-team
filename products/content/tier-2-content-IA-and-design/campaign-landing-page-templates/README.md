@@ -48,9 +48,10 @@ The purpose of this template is to enable an easy way for PW content team and VA
 - Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked - as in, the business shouldn't even have to ask for it.  Instrumenting that auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a governance lever for businesses.
 
 #### Baseline KPI Values
-- Increase in the number of campaigns produced year over year (e.g. meeting demand)
-- TBD
-- TBD
+- ensure that all campaigns that VA creates have these minimum values for DEPO:
+  - they're sending users to benefit pages or tools
+  - they're forcing a primary CTA (= campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure)
+  - they're forcing every interaction on the page to be tracked whether it's the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content.
 
 ### OKRs
 - TBD
