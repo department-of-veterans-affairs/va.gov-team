@@ -1,16 +1,16 @@
-##DOMO Monthly Report Survey Synethsis
+## DOMO Monthly Report Survey Synethsis
 
-#Participants:
+# Participants:
 14 individuals were selected to take this survey based on their viewing of the Monthly Contact Center Report in DOMO.  They were aksed via Slack and provided the link and password 
 and informed that it was anonymous.
 
-#Completion:
+# Completion:
 Six individuals logged into the survey, three completed the survey, and three abandoned the survey.
 
-#Time Taken:
+# Time Taken:
 It took your participants a median time of 02:30 to complete the study.  The longest time was 07:51 and the shortest was 01:55.
 
-#Results:
+# Results:
 - Question 1: 
   - 2 out of 3 say that Excel is better.
   - 1 states that there aree pros and cons to both.
