@@ -15,33 +15,16 @@ This proposal explores the available options and presents a case for an "optimal
 
 ### Form data
 
-#### Biographical data form fields can include:
-- First Name
-- Middle Name (Initial)
-- Last Name
-- Suffix
-- Social Security Number
-- VA File Number
-- Service Number
-- Date of Birth
-
-#### Common data form fields can include:
-Address (Primary, secondary, mailing, physical, etc.)
-- Country
-- APO/FPO/DPO
-- Street Address 1
-- Street Address 2
-- Street Address 3
-- City
-- ZIP (Postal) Code
-
-Phone Number(s)
-- Home
-- Mobile
-
-Email Address
-- Primary 
-- Secondary
+| **Biographical data form fields can include:** | **Common data form fields can include:** |
+| --- | --- |
+| - First Name | - Country |
+| - Middle Name (Initial) | - APO/FPO/DPO |
+| - Last Name | - Street Address 1 |
+| - Suffix | - City |
+| - Social Security Number | - State |
+| - VA File Number | - ZIP (Postal) Code |
+| - Service Number | - Phone Number(s) |
+| - Date of Birth | - Email Address(es) |
 
 ### Use cases
 
