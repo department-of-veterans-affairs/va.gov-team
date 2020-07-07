@@ -1,4 +1,4 @@
-
+<br />
 # Accessibility staging review preparation
 
 Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
