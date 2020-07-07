@@ -37,16 +37,16 @@ Before we start, a few things I want to mention:
 
 I'm going to share a link to a prototype and ask that you to share your screen.
 
-[MODERATOR SHARES LINK TO PROTOTYPE]
+###### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link]
 
  Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
 
-[Prototype: VA.gov main]
+###### Prototype: VA.gov main
 #### Question:
 - Are you familiar with VA.gov's location finder? 
 
-[Prototype: User clicks on 'Find a VA Location']
+###### Prototype: User clicks on 'Find a VA Location'
 #### Questions:
 - Have you had a reason to use it recently? 
     - If yes, what were you doing? What was that experience like?
@@ -62,24 +62,24 @@ I'm going to walk us through a scenario: You are coming to the site because you 
 - Talk me through how would you go about finding Urgent care on this page?
 - Can you try to do that? Again, this is only a prototype so some things might not work as expected.
 
-[Prototype Page: User performs search]
+###### Prototype Page: User performs search
 - Talk me through what you see on this page?
 - What can you tell me about the location options?
 - How would you go about choosing a location on this screen?
 - Are the types of location options available all the same or are they different?
 
-[Prototype Page: User points out status and info link]
+###### (Prototype Page: User points out status and info link)
 - What does the [status] mean to you?  
 - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
 - What would be your next step?
 
-[Prototype Page: User clicks on info link (community care/ urgent care)]
+###### Prototype Page: User clicks on info link (community care/ urgent care)
 - Talk me through what you see on this page?
 - What is this page trying to communicate to you?
 - What can you tell me about urgent care benefits?
 - What would be your next step?
 
-[Prototype Page: User goes back to search results page]
+###### Prototype Page: User goes back to search results page
 
 Let's imagine now that you called and confirmed that all of the locations are open and can treat your sore throat. 
 - How would you go about choosing a location on this screen?
