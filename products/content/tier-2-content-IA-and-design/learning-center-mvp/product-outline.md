@@ -101,7 +101,7 @@ __MVP learning center templates:__
 4. Step-by-step
 5. Checklist - new
 6. Image/video-rich list – new
-7. Table-based content like rates, contact info – new
+~7. Table-based content like rates, contact info – new~ _This will just be a variation of the "About" template which will allow tables._
 
 All of these will be ‘new’ but making use of existing components to form more rigid, page-level templates. A few things will be net new, such as the image/video list template. 
 
