@@ -55,39 +55,35 @@ I'm going to share a link to a prototype and ask that you to share your screen.
 
 ### Scenario
 
-I'm going to walk us through a scenario: You are coming to the site because you need to visit an Urgent Care location. You have a sore throat and you'd like to rule out strep throat. You live in Denver, CO.
+I'm going to walk us through a scenario and have you perform a task. Again, this is only a prototype so some things might not work as expected. 
 
-### Task
+I'd like you to imagine that you are coming to the site because you need to visit an Urgent Care location. You have a sore throat and you'd like to rule out strep throat. You live in Denver, CO.
+
+### Task 1
 #### Questions:
-- Talk me through how would you go about finding Urgent care on this page?
-- Can you try to do that? Again, this is only a prototype so some things might not work as expected.
+
+- Talk me through how would you go about finding urgent care on this page.
+- Can you try to do that? 
+- What can you tell me about the 'service type' options?
+    - What does 'Community urgent care providers (in VA's network)' mean to you?
+    - What does 'VA urgent care' mean to you?
 
 ###### PROTOTYPE: User performs search
 - Talk me through what you see on this page?
-- What can you tell me about the location options?
-- How would you go about choosing a location on this screen?
-- Are the types of location options available all the same or are they different?
+- What is your thought process for choosing an urgent care location in this scenario? 
+- What is important to you when choosing from this list?
 
-###### PROTOTYPE: User points out status and info link
-- What does the [status] mean to you?  
-- What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
+### Task 2
+Now, I'd like you to compare the two closest locations. 
+#### Questions:
+- How would you prepare to visit the first location?
+    - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
+    - What is this page trying to communicate to you?
+- How would you prepare to visit the second location?
+    - What does the [status] mean to you?  
 - What would be your next step?
-
-###### PROTOTYPE:  User clicks on info link (community care/ urgent care)
-- Talk me through what you see on this page?
-- What is this page trying to communicate to you?
-- What can you tell me about urgent care benefits?
-- What would be your next step?
-
-###### PROTOTYPE: User goes back to search results page
-
-Let's imagine now that you called and confirmed that all of the locations are open and can treat your sore throat. 
-- How would you go about choosing a location on this screen?
-- What can you tell me about urgent care benefits as they relate to the urgent care location options available to you?
 
 ## Post-Task Interview - 5 minutes
-
-- Are there any urgent care websites that you have used in the past? what was that experience like?
 - Is there anything that I haven't asked you that you think that I should know?
 - Any questions for me? 
 
