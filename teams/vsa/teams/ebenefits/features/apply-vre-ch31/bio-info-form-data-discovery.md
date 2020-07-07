@@ -5,9 +5,17 @@
 
 ---
 
+### Situation
+
+Forms are employed across VA.gov to provide an electronic alternative to paper applications. These forms are designed and engineers using standardized practices to deliever a consistent look, feel and function across the site. However, the collection of biographical data (name, DOB, SSN, etc.) from authenticated (logged-in) users falls into two categories: static and editable. There is no consistent indication to the user as to why methods differ.
+
+Users regularly report their frustration with having to enter their "VA-known" information over and over with each new form, so presenting static infomation for review seems to be the correct presentation of known biographical user data. The case for known common data (address, phone, email, etc.) is less clear.
+
+This proposal explores the available options and presents a case for an "optimal" presentation of known data within the VA.gov form system.
+
 ### Form data
 
-#### Biographical info can include:
+#### Biographical data form fields can include:
 - First Name
 - Middle Name (Initial)
 - Last Name
@@ -17,7 +25,7 @@
 - Service Number
 - Date of Birth
 
-#### “Common” form info can include:
+#### Common data form fields can include:
 Address (Primary, secondary, mailing, physical, etc.)
 - Country
 - APO/FPO/DPO
@@ -28,10 +36,12 @@ Address (Primary, secondary, mailing, physical, etc.)
 - ZIP (Postal) Code
 
 Phone Number(s)
+- Home
+- Mobile
 
 Email Address
-
-Other (?)
+- Primary 
+- Secondary
 
 #### Use cases for form data:
 User logs in and is authenticated
