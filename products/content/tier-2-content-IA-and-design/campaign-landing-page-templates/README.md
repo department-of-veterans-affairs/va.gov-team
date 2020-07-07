@@ -42,6 +42,10 @@ The purpose of this template is to enable an easy way for PW content team and VA
   - the CMS functionality of the template builder is bug-free and user/author-friendly
   - the user permissions allow for guard-railing/governance by DEPO (the Public Websites Product leads)
   - the Campaign Landing Page supports the success metrics for traffic/reach as outlined by the business stakeholders
+  
+- To measure the effectiveness of the CLP for campaign purposes, we will require the use of CTAs that would be prominently required and automatically tracked as a primary metric (e.g. whatever campaign X's success measure is, at least one required CTA button would be required that would automatically be tracked by analytics).
+
+- Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked - as in, the business shouldn't even have to ask for it.  Instrumenting that auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a governance lever for businesses.
 
 #### Baseline KPI Values
 - Increase in the number of campaigns produced year over year (e.g. meeting demand)
