@@ -5,7 +5,7 @@ From the small batch of results that were submitted, the report is not often uti
 Next steps would be to have more survey participants that actually utilize the data in the Contact Center Monthly Report.  This would allow the Contact Center team to obtain details of data that teams are wanting reviewing and use in order to make better products to service veterans.  In order to make better products teams need to be aware of the issues that users are experiencing with the current tools and integrate fixes and/or workarounds.  
 
 ## Participants:
-14 individuals were selected to take this survey based on their viewing of the Monthly Contact Center Report in DOMO.  They were asked via Slack and provided the link and password, and informed that it was anonymous.
+Fourteen individuals were selected to take this survey based on their viewing of the Monthly Contact Center Report in DOMO.  There participation was requested via Slack and provided the survey link, password, and informed that it was anonymous.
 
 ## Completion:
 Six individuals logged into the survey, three completed the survey, and three abandoned the survey.
