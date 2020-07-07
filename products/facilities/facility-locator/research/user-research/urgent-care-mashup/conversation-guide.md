@@ -57,8 +57,8 @@ I'm going to share a link to a prototype and ask that you to share your screen.
 
 I'm going to walk us through a scenario: You are coming to the site because you need to visit an Urgent Care location. You have a sore throat and you'd like to rule out strep throat. You live in Denver, CO.
 
-## Task
-**Questions:**
+### Task
+#### Questions:
 - Talk me through how would you go about finding Urgent care on this page?
 - Can you try to do that? Again, this is only a prototype so some things might not work as expected.
 
