@@ -36,10 +36,10 @@ As Phase 1 of our release, we are sending the drafted style guide to VSP leaders
 
 ### Results: 
 
-- Number of users: 
-- Number of issues identified/fixed: 
-- Types of errors: 
-- Any UX changes necessary?
+- Number of users: https://dsva.slack.com/archives/CJRQ85PQB/p1593012228005900
+- Number of issues identified/fixed: Identified inconsistency within code example style
+- Types of errors: N/A
+- Any UX changes necessary? 
 - If yes, what: 
 - Success criteria: 
   - Number of VSP team members who engage with announcement
