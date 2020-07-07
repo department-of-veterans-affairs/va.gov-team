@@ -67,4 +67,5 @@ Please list the people who will be serving in each role.
 - Project point of contact: Leyda Hughes	
 - Participant(s) for pilot test: Michelle Middaugh, Michael Pelz-Sherman
 - Note-takers: Perigean 
-- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us) 
+- Observers: Gibran Rodriguez, Michael Pelz-Sherman, Michelle Middaugh, Dave Conlon, Shawna Hein (shawna@adhocteam.us), 
+- OCC Observers: Holly Shryock (Holly.Shryock@va.gov), Paul Abamonte (Paul.Abamonte@VA.Gov), Mark Upton (Mark.Upton@va.gov). Michael Johnson (Michael.Johnsonc12c7@va.gov), Kerry Paperman (Kerry.Paperman@va.gov), Karen Blythe (Karen.Blythe@va.gov), Morgan Byrd (Morgan.Byrd@va.gov), Lisa Jones(Lisa.Jones99@va.gov)
