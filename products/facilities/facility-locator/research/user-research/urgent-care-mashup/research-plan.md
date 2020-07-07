@@ -9,14 +9,15 @@ The goal of this study is to validate the usability and design of new facility l
 - What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
 – What information do Veterans need/want for community urgent care (in VA network) locations?
 - Do Veterans need to distinguish between these location types in a single list?
-- Do Veterans know about the community care urgent care benefit?
-- How should the community care urgent care benefit be presented? 
-- Are labels indicating urgent care service/facility type necessary when a Veteran chooses an urgent care location? 
+- Do veterans want to filter by facility type, va/non-va?
+- Would veterans click to learn more about community urgent care benefits? 
+- Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
+- What information does a veteran find helpful in preparing to go to a urgent care facility?
 
 #### Hypothesis 
-- Veterans will understand that they can get urgent care in their community outside of a VA urgent care facility.
-- Veterans don't need or want to know what kind of facility they are choosing (VA vs community urgent care).
-- Veterans will understand that they should present an Urgent Care Assistance Card when visiting a community urgent care provider. 
+- Veterans will understand how to find a urgent care location.
+- Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
+- Veterans will understand how to prepare for a visit to a urgent care facility.
 
 ## Method
 
