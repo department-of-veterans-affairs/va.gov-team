@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 - Can you tell me a little about your service history?
-- Have you ever needed or looked for Urgent care (VA or non-VA)?
+- Have you ever visited an urgent care clinic in the past (VA or non-VA)?
     - If yes, can you tell me about that?
 
 
@@ -40,11 +40,12 @@ I'm going to share a link to a prototype and ask that you to share your screen.
 ###### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link]
 
- Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
+Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
 
 ###### PROTOTYPE: VA.gov main
 #### Question:
 - Are you familiar with VA.gov's location finder? 
+Go ahead and click 'Find a VA location' for me.
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
 #### Questions:
@@ -62,13 +63,14 @@ I'd like you to imagine that you are coming to the site because you need to visi
 ### Task 1
 #### Questions:
 
+###### PROTOTYPE: User performs search
 - Talk me through how would you go about finding urgent care on this page.
-- Can you try to do that? 
+    - Go ahead and try to do that now? 
 - What can you tell me about the 'service type' options?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
     - What does 'VA urgent care' mean to you?
 
-###### PROTOTYPE: User performs search
+###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
 - What is your thought process for choosing an urgent care location in this scenario? 
 - What is important to you when choosing from this list?
@@ -78,6 +80,7 @@ Now, I'd like you to compare the two closest locations.
 #### Questions:
 - How would you prepare to visit the first location?
     - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
+        - user clicks
     - What is this page trying to communicate to you?
 - How would you prepare to visit the second location?
     - What does the [status] mean to you?  
