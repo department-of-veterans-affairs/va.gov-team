@@ -43,11 +43,11 @@ I'm going to share a link to a prototype and ask that you to share your screen.
  Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
 
 [Prototype: VA.gov main]
-**Question:**
+#### Question:
 - Are you familiar with VA.gov's location finder? 
 
 [Prototype: User clicks on 'Find a VA Location']
-**Questions:**
+#### Questions:
 - Have you had a reason to use it recently? 
     - If yes, what were you doing? What was that experience like?
     - If no, how do you go about finding information about VA locations?
