@@ -28,26 +28,28 @@ This proposal explores the available options and presents a case for an "optimal
 
 ### Use cases
 
+#### User enters form unauthenticated:
+- User completes required fields and submits form
+
 #### User logs in and is authenticated:
 - User has no data on-record (Error, missing info, etc.)
 - User has partial data on record
 - User has erroneous data on record
 - User has correct data on-record
 
-#### User enters form unauthenticated:
-- User completes required fields and submits form
-
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
-
 ### Approaches
+
+#### User enters form unauthenticated:
+- Collect all required data
 
 #### User logs in and is authenticated:
 - Present static data for review
 - Present editable data for review/revision
 - Present combination of static/editable data for review/revision/completion
 
-#### User enters form unauthenticated:
-- Collect all required data
+#### Diagram showing various approaches:
+
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
 
 ### Recommendations
 
