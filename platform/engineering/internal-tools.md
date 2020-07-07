@@ -161,10 +161,10 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 
 These steps assume your SSH keys have been authorized and that you're running on Linux or OSX. There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `vetsgov-internal` domain.
 
-1. Copy down the SSH configuration that you'll need locally to access the remote SSH servers.
-    * Visit https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config.
-    * Click the "Raw" button, and copy the URL that's in your browser.
-1. Run `curl URL > ~/.ssh/config`, where `URL` is the URL that you copied in the previous step. This will overwrite any existing SSH config without warning. Make sure you back up any existing files.
+1. Download the SSH configuration that you'll need locally to access the remote SSH servers.
+    * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a> and then copy the URL from your browser.
+    * Backup your existing `~/.ssh/config` if you have one.
+    * Run `curl URL > ~/.ssh/config`, where `URL` is the URL that you copied in the previous step. *This will overwrite any existing SSH config without warning.*
 
 1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov` (for Windows, the command will not require the `-K` flag).
 
