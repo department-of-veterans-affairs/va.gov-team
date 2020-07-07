@@ -2,7 +2,7 @@
 
 -----DRAFT--------
 
-Liz Lantz, Public Websites, June 2020
+Liz Lantz, Public Websites, July 2020
 
 ## Goals	
 
@@ -25,13 +25,12 @@ Liz Lantz, Public Websites, June 2020
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
    - Is the information easy to find using this search-focused, tag-based navigation?
+   - How easily are users able to navigate between learning center articles, and topics?
    - Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful to users?
    - What do users see as the difference between the learning center search and overall site search?
-   - Do users get confused if they don't find something in the benefit hub and they have to go to the learning center?
    - Do users get confused if they click on a content link or CTA button in the learning center and it takes them to a benefit hub page? And vice versa? 
    - Do users understand that information they don't find in the learning center might be in the benefit hub?
    - Where would the most useful place be to provide links to the Learning Center?
-   - Is the proposed IA (taxonomy, categorization, labels, nomenclature) effective for Veterans and those who support Veterans?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
@@ -45,23 +44,19 @@ Liz Lantz, Public Websites, June 2020
 
 1. What method of research are you planning? 	
 
-   We're planning on doing a remote, moderated usability study to answer our first 5 questions (everything but taxonomy and labeling).  We'll ask participants to go through a clickable prototype.
-
-   To evaluate the proposed IA  (taxonomy, categorization, labels, nomenclature), we'll send out a link to a remote, unmoderated card sort.
+   We're planning on doing a remote, moderated usability study.  We'll ask participants to go through a clickable prototype.
 
 2. Why this method? How does this methodology help you answer your research questions? 	
 
    Having participants complete tasks in a clickable prototype will help us understand how easily they're able to find the information they're looking for, and gain insight into how they would go about looking for information they can't find.  The presence of a moderator will allow us to ask follow-up questions and guide the participant through the tasks.
 
-   We've decided to do a card sort to validate our proposed IA because this is a method proven to be successful in determining an organization scheme that best matches users' mental models. These sessions will be unmoderated since we can provide clear instructions through Optimal Sort, and we hope to get responses from a larger participant pool than would be possible with a moderator.
-
 3. Where are you planning to do your research?
 
-   We'll do our research remotely, using Zoom and Optimal Sort.	
+   We'll do our research remotely, using Zoom.	
 
 4. What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 
-   We'll be testing a clickable prototype, and using a card sort through Optimal Sort.
+   We'll be testing a clickable prototype.
 
 ## Participants and Recruitment	
 
@@ -86,7 +81,6 @@ Liz Lantz, Public Websites, June 2020
   - We will leverage Perigan's recruitment capabilities
   - In order to get 8 participants, we'd like Perigean to recruit 12, with the expectation that there be a max of 4 no shows.
   - We'll ask to cancel any remaining sessions once we hit 8. 
-- For our card sort, we'll send the link out **NEED TO REFINE THIS**
 
 ## When? 	
 
@@ -99,7 +93,7 @@ Liz Lantz, Public Websites, June 2020
 
 3. Length of Sessions: How long do you estimate each session will be? 
 
-   30 minutes
+   30-45 minutes
 
 4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. 
 
@@ -180,9 +174,8 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources	
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md) 
-- Convo Guide - coming soon
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/conversation-guide.md)
 - Prototype to be tested - coming soon
-- Card sort - coming soon
 - Synthesis - coming soon
 - Lessons Learned - coming soon	
 - Read-Out/Results  - coming soon
