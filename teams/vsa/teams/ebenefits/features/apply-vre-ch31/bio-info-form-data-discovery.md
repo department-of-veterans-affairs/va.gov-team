@@ -9,7 +9,7 @@
 
 Forms are employed across VA.gov to provide an electronic alternative to paper applications. These forms are designed and engineers using standardized practices to deliever a consistent look, feel and function across the site. However, the collection of biographical data (name, DOB, SSN, etc.) from authenticated (logged-in) users falls into two categories: static and editable. There is no consistent indication to the user as to why methods differ.
 
-Users regularly report their frustration with having to enter their "VA-known" information over and over with each new form, so presenting static infomation for review seems to be the correct presentation of known biographical user data. The case for known common data (address, phone, email, etc.) is less clear.
+Users regularly report their frustration with having to enter their "VA-known" information over and over with each new form, so presenting static infomation for review seems to be the correct presentation of known biographical user data. The case for known common data (address, phone, email, etc.) is less clear. Complicating the issue of presenting know data is the variety of Lines of Business (LOB), each with their own needs and constraints, and the large number of backend systems/data sources serving VA.gov.
 
 This proposal explores the available options and presents a case for an "optimal" presentation of known data within the VA.gov form system.
 
@@ -43,24 +43,28 @@ Email Address
 - Primary 
 - Secondary
 
-#### Use cases for form data:
-User logs in and is authenticated
+### Use cases
+
+#### User logs in and is authenticated:
 - User has no data on-record (Error, missing info, etc.)
 - User has partial data on record
 - User has erroneous data on record
 - User has correct data on-record
 
-User enters form unauthenticated
+#### User enters form unauthenticated:
 - User completes required fields and submits form
 
-#### Approaches for presenting form data:
-User logs in and is authenticated
+### Approaches
+
+#### User logs in and is authenticated:
 - Present static data for review
 - Present editable data for review/revision
 - Present combination of static/editable data for review/revision/completion
 
-User enters form unauthenticated
+#### User enters form unauthenticated:
 - Collect all required data
+
+### Recommendations
 
 ---
 
