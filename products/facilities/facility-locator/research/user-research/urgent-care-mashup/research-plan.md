@@ -16,7 +16,7 @@ The goal of this study is to validate the usability and design of new facility l
 - What information does a veteran find helpful in preparing to go to a urgent care facility?
 
 #### Hypothesis 
-- Veterans will understand how to find a urgent care location.
+- Veterans will understand how to find an urgent care location.
 - Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
 - Veterans will understand how to prepare for a visit to a urgent care facility.
 
