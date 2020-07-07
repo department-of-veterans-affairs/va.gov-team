@@ -37,6 +37,8 @@ This proposal explores the available options and presents a case for an "optimal
 #### User enters form unauthenticated:
 - User completes required fields and submits form
 
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
+
 ### Approaches
 
 #### User logs in and is authenticated:
