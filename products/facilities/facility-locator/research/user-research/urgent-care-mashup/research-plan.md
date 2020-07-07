@@ -38,8 +38,8 @@ Participant Criteria:
 - A mix of rural and urban
 - Veterans & Caregivers
 - Laptop or desktop computer
-- Enrolled in VA health care.
-- Has visited an urgent care clinic in the last two years.
+- Enrolled in VA health care
+- Has visited an urgent care clinic in the last two years
 
 ## Timeline
 
