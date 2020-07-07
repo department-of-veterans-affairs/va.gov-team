@@ -15,7 +15,7 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
-- **First, I'll ask you a few warm up questions to get us started.
+- **First, I'll ask you a few warm up questions to get us started.**
 - **Then, I'll be share a link to a prototype and ask you to share your screen.** We'll look at a protoype together and I will ask you questions about it.
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -53,7 +53,7 @@ I'm going to share a link to a prototype and ask that you to share your screen.
     - If no, how do you go about finding information about VA locations?
 - Have you ever needed or looked for Urgent care on this website?
 
-## Scenario
+### Scenario
 
 I'm going to walk us through a scenario: You are coming to the site because you need to visit an Urgent Care location. You have a sore throat and you'd like to rule out strep throat. You live in Denver, CO.
 
