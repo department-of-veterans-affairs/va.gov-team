@@ -37,9 +37,12 @@ Participant Criteria:
 - All genders
 - A mix of rural and urban
 - Veterans & Caregivers
-- Laptop or desktop computer
 - Enrolled in VA health care
 - Has visited an urgent care clinic in the last two years
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person with cognitive disabilities
+- Laptop or desktop computer
+- Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare.
 
 ## Timeline
 
