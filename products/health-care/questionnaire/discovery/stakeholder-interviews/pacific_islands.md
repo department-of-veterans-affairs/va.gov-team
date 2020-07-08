@@ -18,7 +18,7 @@ Thursday, July 2⋅3:30 – 4:30pm
 4.  Are there any folks that work directly on the intake/admin side who we can talk to to learn a bit more about this process?
 
 5.  Are there any paper forms you provide to Veterans to fill out? If so can you share the pdf?
-	- [SHEP- survey of healthcare experience](https://dvagov.sharepoint.com/sites/vha-patient-experience/PX_Toolkits/Pre-visit_Checklist/Shared%20Documents/B%20-%20Pre-Visit%20Checklist%20-%20Checklist%20Tool.docx?d=w2b95512ebc914cee866a6c715fe28d2d)
+	- [Consumer Assessment of Health Providers and Systems (CAHPS) Survey - survey of healthcare experience](https://dvagov.sharepoint.com/sites/vha-patient-experience/PX_Toolkits/Pre-visit_Checklist/Shared%20Documents/B%20-%20Pre-Visit%20Checklist%20-%20Checklist%20Tool.docx?d=w2b95512ebc914cee866a6c715fe28d2d)
 	- survey in the mail a month later - it has the questions. 
 	- @lacey is locating the SHEP form
 	- what do you do with the After visit survey- Reporting- collect data in theory it is used this is where you are with X 
