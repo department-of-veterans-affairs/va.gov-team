@@ -12,38 +12,34 @@ How might we bolster GI Bill beneficiaries' confidence and level of comfort when
 
 ## Desired User Outcomes
 *Why would a user want to use this?*
-- Individuals who use the Comparison Tool want to know about the experience other Veterans and their beneficiaries regarding Veteran support when they are making a decision about what institution to attend to utilize their GI Bill Benefits. To quickly and easily see and hear the voice of their peers, which is highly valued within the community. 
-- An increase in the confidence level of beneficiaries when making a decision to attend an institution
-- Ability to provide and review both positive and negative feedback
-- Reduction in utilization of poorly rated institutions
-
-
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 - Incorporating a Rating System into the Comparison Tool would potentially provide information to prospective Veteran students that doesn't exist anywhere else - a rating of the experience from this specific consumer group of Veterans and their beneficiaries utilizing their GI Bill Benefits to attend institutions for higher education. There is a high level of importance to Veterans in gaining and understanding of the prescense of the Veteran community at the institutions they are considering attending. 
-
+- Individuals who use the Comparison Tool want to know about the experience other Veterans and their beneficiaries regarding Veteran support when they are making a decision about what institution to attend to utilize their GI Bill Benefits. To quickly and easily see and hear the voice of their peers, which is highly valued within the community. 
+- This has potential to increase in the confidence level of GI Bill beneficiaries when making a decision to attend an institution
+- This would give GI Bill beneficiaries the ability to provide and review both positive and negative feedback
 
 ## Undesired User Outcomes
-- Questions that are asked of Veterans to rate the institution does not reflect highest areas of interest to Veterans
+- Questions that are asked of Veterans to rate the institution do not reflect highest areas of interest to Veterans
 - Individuals who do not have verified experience with institutions providing ratings of the institutions
-- Ratings that do not assess the institution at large, and instead reflect a personal conflict
+- Individuals who do not have verified experience as a GI Bill Beneficiary providing ratings of the institution
+- Ratings do not assess the institution at large, and instead reflect a personal conflict,subjective/inaccurate information
 - Unbalanced ratings, for example too few ratings to be of value. 
-- How do I know the ratings are from actual Gi Bill beneficiaries?
-- Subjective/inaccurate information and opinions driving decisions
-- What if there is a major disconnect in the rating b/w CT and other sites
+- Discrepancies between the ratings in the Comparison Tool and other comparable sites
 
 ## Desired Business Outcomes
+*Why would your business want this to exist?* 
+- Features within the Comparison Tool align to those that are most valuable to the users
+- Consolidating the resources that Veterans need to utilize to make a decision about how to utilize their GI Bill benefits
+- Veteran impression that they are able to make better use of GI Bill Education benefits
+- Increased usage of the Comparison Tool because it is more useful to Veterans
+- Positive feedback from Comparison Tool users
+- A decrease in complaints from schools
+- Ability to utilize reviews to identify issues beneficiaries experience at GI Bill approved schools in order to launch investigations or compliance reviews
+- Fewer payment errors (assuming poorly rated schools are schools that tend to have payment errors and therefore have fewer GI bill participants)
+- Improved school performance in servicing Veterans/beneficiaries
+- Reduction in utilization of poorly rated institutions
+- A reduction in benefit utilization at poorly rated institutions
 
-- *Why would your business want this to exist?* 
-   - Aligning features within the Comparison Tool to those that are most valuable to the users
-   - Consolidating the resources that Veterans need to utilize to make a decision about how to utilize their GI Bill benefits
-   - Veteran impression that they are able to make better use of GI Bill Education benefits
-   - increased use of CT
-   - positive feedback from CT users
-   - a decrease in school complaints
-   - Identify issues beneficiaries experience at GI Bill approved schools to launch investigation or compliance review 
-   - fewer payment errors (bad schools have fewer GI bill participants)
-   - Improved school performance in servicing Veterans/beneficiaries
-   
+
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
    - Enhance the Comparison Tool by providing insight into the Veteran-specific experience
 
@@ -51,9 +47,33 @@ How might we bolster GI Bill beneficiaries' confidence and level of comfort when
 - High level of effort related to maintaining and moderating ratings
 - Managing comment resolution and follow-up
 - Increased complaints on the part of institutions based on rating content
-- A reduction in benefit utilization at poorly rated institutions
-- Leverage the feedback system as part of this or not creating a separate experience
+- Leverage the feedback system as part of this or not creating a separate experience; Important to differentiate the rating and feedback systems; we don’t want user confusion between the feedback tool and the rating system, (i.e., users don’t know where to put their feedback or comments.)
 
+---
+## MVP
+### MVP
+- Display rating within the comparison tool
+- 5 star rating 
+- Policy around how to handle content
+- Ratings by Authenticated/Verified user only
+
+### Nice to have/Enhancements
+- Short Rater Narrative
+- Moderate Short Rater Narrative Content
+   - Need a policy, process, and people to manage this.
+   - Issue resolution and negative review custom notifications.
+   
+### TBD
+- Reporting
+- Ratings by authenticated/verified users only
+   - Can an authenticated user rate a school they are NOT attending?
+- Possible ratings:
+   - Overall institution rating
+   - Quality of classes/education
+   - Veteran friendliness
+   - Employment preparation
+   - Recruiting/marketing practices
+   
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
