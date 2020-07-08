@@ -210,10 +210,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Post-Task Interview - 5 minutes
 
 - Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would an application for a benefit you don't already have - education, home loan, something like that.
-- Our session today was focused on the learning center we are developing. Now that you have a better idea of the kinds of content within, what you think of the name ` Learning Center`?
-- Where would you expect to have access to something like that on the website?
 - Tell me how you see the learning center different from overall site search.
 - If they didn't address the radio buttons above the search bar, get their perspective on that
+- Our session today was focused on the learning center we are developing. Now that you have a better idea of the kinds of content within, what you think of the name ` Learning Center`?
+- Where would you expect to have access to something like that on the website?
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
