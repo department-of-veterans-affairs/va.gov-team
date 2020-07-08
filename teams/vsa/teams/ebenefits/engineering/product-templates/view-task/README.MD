@@ -4,12 +4,12 @@ If the product we are building does not include a form and only displays informa
 
 ### Table of Contents
 
-1. [initial project scaffolding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/1-initial-project-scaffolding.md)
+1. [Initial project scaffolding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/1-initial-project-scaffolding.md)
 2. [First pass at custom view components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/2-first-pass-at-custom-view-components.md)
 3. [Initial Redux code for API calls]()
 4. [Refine custom view components to better match mockup]()
 5. [Build one custom view component action]()
-6. [Unit tests for Redux implimentation]()
+6. [Unit tests for Redux implementation]()
 7. [Unit tests for custom view component]()
 8. [Swap dummy API call in Redux for correct URL and adjust data structure]()
 9. [Meet with Analytics team and get Google Analytics event names]()
