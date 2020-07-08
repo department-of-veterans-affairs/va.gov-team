@@ -7,11 +7,11 @@
   - Jen Strickland has been talking to Ryan Thurwell about accessibility questions we will want to address prior to development -- e.g. possibility of leveraging progressive enhancement to manage page load to avoid consuming too much data, etc.   Next step: Jen has asked that we create an Accessibility sub-epic to make sure we capture recommendations.
  
  - IA/Content sync held with Meg Peters and Mikki to share updates on status of project and to surface key questions that would ideally be addressed to inform product requirements and development. John to schedule working sessions in the next two weeks to think through.  A sampling of questions to be addressed:
-  - Will new content be created to support CLPs and where will that content sit (directory/URL)?
-  - Will a CLP expire or live on?
-  - How will we govern when a CLP gets used?
-  - Will CLPs sit in a new sub-directory?
-  - How will CLPs be found?
+    - Will new content be created to support CLPs and where will that content sit (directory/URL)?
+    - Will a CLP expire or live on?
+    - How will we govern when a CLP gets used?
+    - Will CLPs sit in a new sub-directory?
+    - How will CLPs be found?
  
 
 ### 6/25/2020
