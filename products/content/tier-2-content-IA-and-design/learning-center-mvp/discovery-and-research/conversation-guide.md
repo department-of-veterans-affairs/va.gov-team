@@ -6,7 +6,6 @@
 - [ ] Have prototype link available **ADD LINK**
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
-- [ ] Check your screensharing setup **NECESSARY?**
 - [ ] When the participant is ready, begin the session with the following intro:
 
 ## Intro - 3 minutes
@@ -26,21 +25,16 @@ Before we start, a few things I want to mention:
 
 - **I've started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
-## Warm-up Questions (Optional) - 3 minutes
+## Warm-up Questions - 3 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 - I understand you have benefits with the VA or an online account with the VA. When you have questions about your benefits or your VA account, what's the first step you take in trying to get that answered?
-
 - If you don't get the information you need, what do you do next?
-
 - What has your experience been like trying to answer those questions on VA.gov?
-
 - Tell me about the last time you visited a VA website. What were you doing?
-
 - Was that a typical experience for you?
-
-  
+- Okay, thanks for sharing that. One more thing before we start getting into the prototype - if you saw a section of VA.gov called "Learning Center", what kinds of things would you expect to see in there?
 
 ### Things to watch for
 
@@ -49,6 +43,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Might they have familiarity with the benefit hubs already?
 
 - Do they default to google? Or site search?  Calling someone?  
+
+- What do veterans think is in a “learning center”?
 
   
 
@@ -72,11 +68,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Ok, great.  Now go ahead and click that link.
 
-#### Things to watch for
+### Things to watch for
 
 - Does the initial response line up with behavior described in the warm up?
 - Did the participant notice the search bar?
 - What were the participant's comments on the `Search` radio buttons above the search bar?
+- Do users get confused between the search link in the top nav (which opens to a search box) and the in-page search with the radio buttons?
 - Participant reaction to audience and topic tags and content?
 - How did participant decide to look up information on the topic?
 
@@ -94,13 +91,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - How does this line up with what you expected?
 
-- What would you click on from here? 
+- Tell me which of these items would be the most helpful for you.
 
   *Two clickable results: `Change your address on file w/ the VA`, or `How to change your address online`*
 
-- Great, go ahead and click.
+- *If the participant hasn't commented*: What are your thoughts on the visual format of the search results?
 
-#### Things to watch for
+- Great, you can click now and see if you can find the information you need.
+
+### Things to watch for
 
 - Is the format of each search result helpful, or is a link farm more appropriate?
 - Is the format of the topic articles results page sufficient and helpful to the participant?
@@ -123,7 +122,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - How useful is this page in answering your question?
 
-- Show me how you would find additional information on this particular topic from here. It's okay to click now if you want.
+- Talk me through me how you would find additional information on this particular topic from here. It's okay to click now if you want.
 
   ***Note: need to refine how to prompt user to click to go to the another related article***
 
@@ -137,7 +136,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
   *May need to remind user that things might not work as expected since this is a prototype*
 
-#### Things to watch for
+### Things to watch for
 
 - Did the participant get confused navigating between articles?
 - How did the experience align with participant's expectations?
@@ -171,10 +170,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
   *This should hopefully get participant to click CTA, and land on another hub page*
 
-#### Things to watch for
+### Things to watch for
 
-- Did the participant get confused when they landed in the learning center from the benefit hub?
-- Did the participant get confused when they landed in the benefit hub from the learning center?
+- Did the participant navigate easily between the benefit hub and learning center?
+- Did the participant get confused at any point going back and forth?
 - What changes did the participant notice between LC and hub?
 
 #### Notes for planning
@@ -190,14 +189,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - From here, show me how would you find more information for Vietnam War Veterans.
 
-  *Encourage participant to click on audience tag if they don't on their own*
+  *Encourage participant to click on audience tag if they don't on their own*. *Ask if they noticed the audience and topic tags, and if they knew they were clickable.*
 
 - How does this align with what you'd expect? 
 
 - How useful would this be to you?
 
-#### Things to watch for
+### Things to watch for
 
+- Did the participant realize the topic and audience tags were clickable?
+- If not, why not?
 - Are the tag results useful?
 - Is the format helpful to the participant?
 
@@ -209,7 +210,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Post-Task Interview - 5 minutes
 
 - Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would an application for a benefit you don't already have - education, home loan, something like that.
-- Our session today was focused on the learning center we are developing. Where would you expect to have access to something like that on the website?
+- Our session today was focused on the learning center we are developing. Now that you have a better idea of the kinds of content within, what you think of the name ` Learning Center`?
+- Where would you expect to have access to something like that on the website?
 - Tell me how you see the learning center different from overall site search.
 - If they didn't address the radio buttons above the search bar, get their perspective on that
 - Any questions for me? 
