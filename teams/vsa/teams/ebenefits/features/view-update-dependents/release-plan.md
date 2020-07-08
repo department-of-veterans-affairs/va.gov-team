@@ -1,6 +1,6 @@
-# Release Plan: View, Add or Modify Dependents (21-686c/674)
+# UAT Release Plan: View, Add or Modify Dependents (21-686c/674)
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: Moderated Production Testing
 ### Planning:
 - Desired date range or test duration: **July 2020**  
 - Desired number of users: **Between 4 and 7, but no more than 10**  
@@ -19,8 +19,7 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing
-
+## Phase II: Unmoderated Production Testing
 ### Planning:
 - Desired date range: **Week of August 3, 2020**
 - Desired number of unique users: **100 or 1%, whichever occurs first**
