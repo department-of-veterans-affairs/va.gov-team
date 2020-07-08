@@ -41,7 +41,7 @@ FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 - BDD application is integrated with the overall 526ez online form, so many entry points already exist, but content may been to be updated to reference that this capaility is now available on va.gov rather than eBenefits. 
-- Existing entry points from Disability How to File page, Pre-discharge page, and service member hub should all remain as is. 
+- No new entry points to be added, and all existing entry points remain in place. The only change is that users will be directed to va.gov rather than eBenefits.  
 
 Entry points to pre-discharge
 Priority | Placement | Description
