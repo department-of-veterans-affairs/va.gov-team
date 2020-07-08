@@ -4,12 +4,13 @@
 ### Planning:
 - Desired date range or test duration: **July 2020**  
 - Desired number of users: **Between 4 and 7, but no more than 10**  
-- How you'll recruit the right production test users: white list a number of known veterans 
+- How you'll recruit the right production test users:  **Whitelist a number of known veterans within Flipper** 
 - How you'll conduct the testing: **Moderated**
   - **Invite them to fill out the page**
+  - **Monitor available services**
   - **Gather feedback and address feedback**
   - **Move to unmoderated or % based release** 
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: **Flipper will manage as the users login**
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: **Flipper will manage access as the users login**
 
 ### Results:
 - Number of users: x
