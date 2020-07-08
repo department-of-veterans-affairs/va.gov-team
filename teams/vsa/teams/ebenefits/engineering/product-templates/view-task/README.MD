@@ -1,4 +1,4 @@
-# View Task Product Template
+# "View Task" Product Template
 
 If the product we are building does not include a form and only displays information retrieved from an API call then we categorize it as a "View Task". These types of projects have some specific requirements, a specific process required to build, and thus a specific set of tickets that all View Tasks will require. Not all of the tickets required for a View Task are included here but all of the tickets here are required. There are also a few optional tickets provided at the end that may be needed.
 
