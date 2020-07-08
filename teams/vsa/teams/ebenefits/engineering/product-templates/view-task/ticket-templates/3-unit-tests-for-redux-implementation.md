@@ -10,3 +10,4 @@ The Redux implementation we have added to View Payments needs to be unit tested 
 - [ ] The unit tests for ascending sorting are complete
 - [ ] The unit tests for descending sorting are complete 
 - [ ] The unit tests for Redux reducers are complete
+- [ ] A PR has been requested for merging
