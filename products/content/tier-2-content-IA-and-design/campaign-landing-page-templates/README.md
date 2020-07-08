@@ -84,11 +84,3 @@ Latest Sketch files: https://github.com/department-of-veterans-affairs/va.gov-te
 
 Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25QV9J#/screens
 
-## Status/decisions
-
-### 6/25/2020
-The CMS team -- led by Kevin Walsh -- has conducted a preliminary scope assessment of the CLP requirements and provided estimates for resource and time commitment (e.g. 4.5 months for one fully-dedicated CMS developer).  That team is recommending the build of a CMS-based feasibility prototype to demonstrate the 80%/20% principle.
-
-### 3/10/2020
-
-Post-initial conversation with Chris Johnston and Dr. Karras-Pilato, meeting set up for 03/23 with Dr. Miller in the OMHSP (Office of Mental Health and Suicide Prevention) to potentially pilot the CLP template. 
