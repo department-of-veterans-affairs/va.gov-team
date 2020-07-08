@@ -58,13 +58,13 @@ Go ahead and click 'Find a VA location' for me.
 
 I'm going to walk us through a scenario and have you perform a task. Again, this is only a prototype so some things might not work as expected. 
 
-I'd like you to imagine that you are coming to the site because you need to visit an Urgent Care location. You have a sore throat and you'd like to rule out strep throat. You live in Denver, CO.
+I'd like you to imagine that you are coming to the site because you have a sore throat and you'd like to get checked out to rule out strep throat. You live in Denver, CO.
 
 ### Task 1
 #### Questions:
 
 ###### PROTOTYPE: User performs search
-- Talk me through how would you go about finding urgent care on this page.
+- Talk me through how would you go about finding care on this page.
     - Go ahead and try to do that now? 
 - What can you tell me about the 'service type' options?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
