@@ -1,7 +1,7 @@
 ---
 name: Analytics Product KPI Dashboard - Request Template
-about: To request the Product Success Tool (KPI dashboard on Domo) for your product
-title: Analytics Product Success Tool Request for [Team]
+about: To request a KPI dashboard on Domo for your product
+title: Analytics KPI dashboard request for [Team]
 labels: analytics-insights, analytics-request
 assignees: joanneesteban, bsmartin-ep, jonwehausen, amycesal
 
