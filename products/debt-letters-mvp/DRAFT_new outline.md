@@ -74,11 +74,17 @@ We've decided to start with these two features because through some early diggin
 
 Because both of these features have more complicated external dependancies (DMC, GovDelivery, VBMS) we plan to implement them after delivering more immediate user value in Phase 1.
 
+
+-Debt Status: The DMC is able to provide various debt status via an API the created. Due to the large number of potential statuses, the initial early design prototype is to summarize the codes into categories that will make it easier to provide helpful content on next steps based on the type of debt. 
+
+-Debt Detail and History: In order to provide the Veteran a better understanding of their debts, a debt detail page will have debt history that will relay statuses such as paid off, written off to collections or on hold. This will give hte Veteran a historical view of the debts and helpful content around what the next steps are to resolve, settle the debt. 
+
 #### Out-of-Scope
 The following we've decided specifically not to do for this project but could be good candidates for additional enhancements down the line:
 - Support for non-Veteran user types; non-Veterans are as likely to incur debts as Veterans and have a similar series of interactions with the VA when they do
 - Payments; we aren't modifying/unifying any of the payment portals
 - Forms; there are a couple of forms (i.e., Financial Status Report) which don't appear to have digital versions yet; we aren't planning to change that here
+- The .pdf's of the debt letters that will be downloaded from vbms eFolders may not be 508 compliant. Since we do not have control of the generation of those letters, this is out of scope for this project. If we area able to find out who is responsible for the generation of the letters, we will do due diligence to make them aware of the 508 requirements. 
 
 ## KPIs
 - Landing page traffic?
