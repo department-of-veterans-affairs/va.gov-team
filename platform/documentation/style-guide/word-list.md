@@ -139,6 +139,10 @@ Feature toggles are used to manage unreleased features in a continuous integrati
 
 Use feature toggle instead of flipper. See [feature toggle](#feature-toggle).
 
+### Forms Library
+OK to use as shorthand version of [VA.gov Forms Library](#VA.gov Forms Library) when context makes it clear that you are writing about developing for VA.gov.
+
+
 ### Formation Design System
 Do not use. We are moving away from the name “Formation.” You may still see it in documents and code, but use VA.gov Design System when updating and creating new docs.
 
