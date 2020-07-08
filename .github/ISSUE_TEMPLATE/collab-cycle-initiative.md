@@ -9,7 +9,7 @@ assignees: ''
 
 
 ## Product Outline
-[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+[Link to be added](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
 ## Plan
 - [ ] **[Define] Kickoff-Intent** 
