@@ -2,6 +2,14 @@
 
 ## mm/dd/yy
 
+## 07/08/20 
+
+Closing the loop on [6/23 item re: Default "Draft" state of form detail page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/status-and-decisions.md#062320)
+
+**We will keep newly added and migrated forms as "draft" form detail pages in the CMS.** 
+
+This won't affect the PDF form from appearing in the forms search itself. Per this [Slack thread](https://dsva.slack.com/archives/CUB5X5MGF/p1594215565383900), when forms are added or removed, we want the CMS to create an auto-notification to the PW team. Notifications is currently dependend on global CMS notifications work. Form notification is a requirement for the forms product. 
+
 
 ## 07/01/20
 
