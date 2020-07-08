@@ -1,5 +1,5 @@
 ---
-name: Analytics Product Success Tool - Request Template
+name: Analytics Product KPI Dashboard - Request Template
 about: To request the Product Success Tool (KPI dashboard on Domo) for your product
 title: Analytics Product Success Tool Request for [Team]
 labels: analytics-insights, analytics-request
@@ -7,13 +7,13 @@ assignees: joanneesteban, bsmartin-ep, jonwehausen, amycesal
 
 ---
 
-# Request the Product Success Tool
+# Request a KPI Dashboard
 
 ## What this form is for
-Use this template to request the Product Success Tool (KPI dashboard on Domo) for your product.
+Use this template to request a KPI dashboard on Domo for your product.
 
 ## Instructions for the VFS team
-- [ ] For additional info, read through the [How to Request the PST Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md)
+- [ ] For additional info, read through the [How to Request a KPI Dashboard Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-dashboard-request.md)
 - [ ] Your KPIs are clearly linked back to Veteran outcomes
 - [ ] Link your KPIs below (KPIs should be in your Product Outline)
 - [ ] Submit this ticket as an epic
