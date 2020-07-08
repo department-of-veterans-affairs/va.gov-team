@@ -11,7 +11,7 @@ assignees: joanneesteban, bsmartin-ep, jonwehausen, bmcgrady-ep
 
 ## What this form is for
 
-Use this template to request performance, usability, or outcomes va.gov metrics that is difficult to access or that needs analytics interpretation.
+Use this template to request one-off performance, usability, or outcomes va.gov metrics that is difficult to access or that needs analytics interpretation.
 
 Insights will usually provide data reports within the current sprint, but if there is time-sensitivity, please note them in "additional comments."
 
