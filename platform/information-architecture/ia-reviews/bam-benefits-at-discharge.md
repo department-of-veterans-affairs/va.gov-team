@@ -10,19 +10,29 @@
 **IA Completed Date:** 
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/10184
-
+**IA/Content Strategy Issue:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10896
 <hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
+- With the launch of BDD, all disability claims will be handled on va.gov and we will no longer need to link to eBenefits for any claim scenarios.
+- The static content for this application already exists on va.gov, IA and Public Websites team has reviewed existing content for changes/restructuring needed to best support the new claim scenario. This content currently exists as part of the "How to file a claim" page and child pages. 
+- The site map below shows the before and after of existing content pages and changes to the IA - some pages have been merged and some removed/retired
 
-- STATIC CONTENT FOR THIS APPLICATION ALREADY EXISTS, NEED TO WORK THROUGH CONTENT STRATEGY AND IA TO DETERMINE IF ANY CHANGES TO EXISTING CONTENT ARE NEEDED. LIKELY WE WILL NEED TO SIMPLIFY EXISTING CONTENT AND LOOK AT LABELING AND TERMINOLOGY USED. 
-- THE CLAIM FORM WILL BE PART OF THE EXISTING 526
+![image](https://user-images.githubusercontent.com/20994159/86930285-77a7d200-c0fc-11ea-8eee-8397525be67c.png)
 
-Page | URL | Breadcrumb
---- | --- | ---
+**Impacted Pages**
+
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+How to file a claim | /disability/how-to-file-claim | Home > Disability benefits > How to file a claim | Content changes only
+When to file | /disability/how-to-file-claim/when-to-file | n/a | Retire and redirect page
+Pre-discharge claim | CURRENT: /disability/how-to-file-claim/when-to-file/pre-discharge-claim <br> NEW: /disability/how-to-file-claim/pre-discharge-claim | CURRENT: Home > Disability benefits > How to file a claim > When to file > Pre-discharge claim NEW: Home > Disability benefits > How to file a claim > Pre-discharge claim | Content changes, URL change, breadcrumb change
+File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas  | n/a | Retire and redirect page
+FDC Walkthrough | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page
+FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and redirect page
 
 
 **General Details**
