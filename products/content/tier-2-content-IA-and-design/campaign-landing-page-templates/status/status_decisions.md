@@ -1,0 +1,16 @@
+## Status/decisions
+
+### 7/8/2020
+- Check-in meeting held with key players from the Platform/Collaboration Cycle, CMS and Public Websites (including Megan Kelly, Kevin Hoffman, Kevin Walsh, Jen Strickland/Trevor Pierce, Mickin Sahni, Mikki Northuis, Ryan Thurwell).   Highlights:
+  - Mickin will create a Super Epic that will guide overall work effort.
+  - Kevin Walsh and team will soon begin content model work on what he describes as a "rough prototype" for review in about 3-4 weeks; that can be used to test initial hypotheses about CLP. This could be used as the next check-point in the Collab Cycle.  
+  - Jen Strickland has been talking to Ryan Thurwell about accessibility questions we will want to address prior to development -- e.g. possibility of leveraging progressive enhancement to manage page load to avoid consuming too much data, etc.   Next step: Jen has asked that we create an Accessibility sub-epic to make sure we capture recommendations.
+ 
+ - IA/Content sync held with Meg Peters and Mikki to 
+
+### 6/25/2020
+The CMS team -- led by Kevin Walsh -- has conducted a preliminary scope assessment of the CLP requirements and provided estimates for resource and time commitment (e.g. 4.5 months for one fully-dedicated CMS developer).  That team is recommending the build of a CMS-based feasibility prototype to demonstrate the 80%/20% principle.
+
+### 3/10/2020
+
+Post-initial conversation with Chris Johnston and Dr. Karras-Pilato, meeting set up for 03/23 with Dr. Miller in the OMHSP (Office of Mental Health and Suicide Prevention) to potentially pilot the CLP template. 
