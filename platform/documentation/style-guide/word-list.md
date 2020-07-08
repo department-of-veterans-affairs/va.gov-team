@@ -140,7 +140,7 @@ Feature toggles are used to manage unreleased features in a continuous integrati
 Use feature toggle instead of flipper. See [feature toggle](#feature-toggle).
 
 ### Forms Library
-OK to use as shorthand version of [VA.gov Forms Library](#VA.gov Forms Library) when context makes it clear that you are writing about developing for VA.gov.
+OK to use as shorthand version of VA.gov Forms Library when context makes it clear that you are writing about developing for VA.gov.
 
 
 ### Formation Design System
