@@ -40,7 +40,8 @@ If we had a standardized way we collected support incident data and all teams in
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### OKRs
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+VSP Q3 2020 O5: All Key Performance Indicators (KPIs) for VSP teams are measured and shared openly across VSP teams and with VA/DEPO.
+100% VSP KPIs are published on a public dashboard				
 
 ---
 
