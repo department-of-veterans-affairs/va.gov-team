@@ -169,7 +169,7 @@ Now we're going to look at a prototype: [Express Care Prototype](https://vsateam
   - What if you specify a "best times for VA to call" window?
 - Is there anything else you'd like to share about this?
 
-## Section 4: Closing Interview - 5 minutes
+## Section 6: Closing Interview - 5 minutes
 
 - In the future, will you continue using or try to schedule a VA medical appointment using VA.gov?
   - Why / why not?
