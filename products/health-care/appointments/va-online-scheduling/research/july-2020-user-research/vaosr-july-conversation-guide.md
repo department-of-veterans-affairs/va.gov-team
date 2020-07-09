@@ -105,8 +105,8 @@ Next, we're going to use the tool to schedule an appointment. Don't worry if you
   - *Select a location page*
     - If a user is registered at 2+ VAMCs, ask: do you recognize these locations in the list? Do you know what it means?
     - If a user is registered at 1 VAMC, ask: does this option make sense to you? Do you know what it means?
-  - *If user ends process, indicate where and why*
-    - Why weren't you able to complete your task?
+- Were you able to complete the task?
+  - Why / Why not?
     - What would have made you able to schedule your appointment today?
 - Is there anything else you'd like to share about this page?
 
