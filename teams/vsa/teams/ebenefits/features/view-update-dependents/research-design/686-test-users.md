@@ -5,15 +5,15 @@
 
 ---
 
-### Use cases
+### Test cases
 
-1. User has disability rating below 30%
-2. User has disability rating that is exactly 30%
-3. User has disability rating higher than 30%
-4. User has VA file number
-5. User does not have VA file number
-6. User served before 1969 and has Service Number
-7. User served after 1974 and has Social Security Number
+1. User has disability rating below 30% (Result: user denied access to form)
+2. User has disability rating that is exactly 30% (Result: user allowed access to form)
+3. User has disability rating higher than 30% (Result: user allowed access to form)
+4. User has VA file number (Result: user allowed access to form)
+5. User does not have VA file number (Result: user denied access to form !?!)
+6. User served before 1969 and has Service Number (Result: SN used rather than SSN)
+7. User served after 1974 and has Social Security Number (Result: SSN used)
 
 ---
 
