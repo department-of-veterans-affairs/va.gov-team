@@ -150,15 +150,15 @@ Additionally:
 
 ## OKRs
 
-Objective 1: Adoption and Satisfaction - More people use the logged-in homepage because they feel like it is more personally relevant to them. 
+**Objective: Adoption and Satisfaction** - More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
-OKR: Increased the percent of users who visit the logged-in homepage by 10%
-- KPI: % of authenticated users who visit the LIH 
+**OKR**: Increased the percent of users who visit the logged-in homepage by 10%
+- **KPI**: % of authenticated users who visit the LIH 
 - KPI: LIH bounce rate
 
-- - Bet 1: Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
-- -  Bet 2: Improved visual design for authenticated tools.
-- -  Bet 3: Retiring My VA (My VA traffic will now use homepage)
+ -  **Bet 1**: Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
+ -  Bet 2: Improved visual design for authenticated tools.
+ -  Bet 3: Retiring My VA (My VA traffic will now use homepage)
 
 Objective 1: Adoption and Satisfaction - Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
 
