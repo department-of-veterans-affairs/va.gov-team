@@ -27,7 +27,7 @@
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
-- [Objectives, OKR's, KPI's](#Objectives, OKR's, KPI's)
+- [Objectives, OKR's, KPI's] (#Objectives, OKR's, KPI's)
 
 # Implementation Information
 - [Solution Narrative](#solution-narrative)
