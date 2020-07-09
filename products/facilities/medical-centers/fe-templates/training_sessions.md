@@ -8,3 +8,11 @@
   - Dave Conlon, Product Owner (DEPO)
   - Gibran Rodriguez, FE Engineer (GCIO)
   - Michelle Middaugh, Product Manager (Ad Hoc)
+  
+  [Setting up local Drupal instance](https://zoom.us/rec/share/3ZJHBI7d725IbpXv72aGS5YxM629aaa82yBNr_RczEwwpKV9P2ncD52Yf-r_cwI5) 
+  - Password: 1H.ZW71b
+  In attendance:
+  - Ethan Teague, Drupal Engineer (Civic Actions)
+  - Michael Pelz-Sherman, FE Engineer (GCIO)
+  - Gibran Rodriguez, FE Engineer (GCIO)
+  - Michelle Middaugh, Product Manager (Ad Hoc)
