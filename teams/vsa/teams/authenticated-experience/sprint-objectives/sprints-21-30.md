@@ -162,12 +162,15 @@ Call center
 PM
 - Call center - Call center video
 - Call center - Request contact center review
+- Pre-launch - Request privacy and security review (work with devs to put this together)
 - Pre-launch - Update relevant parts of the product outline/project folder
   - Make sure product outline is up to date
   - Make sure other team members update the project outline and any other documentation in the folder that's needed
   - If you were a new PM onboarding to this product, what documentation would you want?
 
 Design
+- UAT - Research plan
+- UAT - Conversation guide
  - Pre-launch - Update relevant parts of the product outline/project folder
   - Update design sections of the product outline
   - Add most up-to-date sketch file to Github
@@ -175,8 +178,8 @@ Design
   - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
-- Testing - Integration testing
-- Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing) and implement/run tests
+- Pre-launch - Work with Matt to put together the privacy and security review request
+- Testing - Determine what tests we need (re: integration, E2E testing, load testing, unit testing) and implement/run tests
 - Pre-launch - Update relevant parts of the product outline/project folder
   - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
   - Make sure it's documented which backend systems support the profile
@@ -188,64 +191,58 @@ Platform
 
 ### Logged-in homepage
 
-Design
-- Review journey maps #10120
-- Review discovery findings #10121
-
-Dev
-- Beta/Opt-in discovery 
-
 ## Sprint 27 (7/29 – 8/11)
 
 ### Profile 2.0
 
 PM
-- Call center - Contact Center Review (VSP cycle)
+- Call center - Contact Center Review 
 - Pre-launch - Staging review 8/3
-- Pre-launch - Request privacy and security review
-- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
+- Pre-launch - Privacy and Security Review 
 
 Design
 - QA - Any design updates out of QA
-- UAT - Research plan
-- UAT - Conversation guide
+- UAT - Submit request 
+- Participate in reviews
 
 Dev
+- Participate in reviews
 - QA — Any bug fixes that come out of QA/508
 
 Platform
 - Call center - Call center review
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
+- Pre-launch - Staging Review 8/3
+- Pre-launch - Privacy and Security Review 
 
 ### Logged-in homepage
 
+(Review this against to-dos that have been created in epic)
+
 Design
+- Review journey maps #10120
+- Review discovery findings #10121
 - Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
 - My VA tools audit #10123
 
 Dev
+- Beta/Opt-in discovery 
 - Investigate what data we can pull in for scheduling an appointment
 - Investigate how we'd pull in overall disability rating
 - Investigate how we'd determine if you already have Edu benefits
-
 
 ## Sprint 28 (8/12 – 8/25)
 
 ### Profile 2.0
 
 PM
-- Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- **Launch to UAT users**
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
-- UAT - Submit request 
-- Participate in reviews
+- Conduct UAT
 
 Dev
-- Participate in reviews
-
-Platform
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+- Any fixes from UAT
 
 ### Logged-in homepage
 
@@ -257,18 +254,12 @@ Design
 Dev
 - Additional technical discovery?
 
-
 ## Sprint 29 (8/26 – 9/8)
 
 **Profile 2.0**
 
-- Launch to UAT users
-
-Design
-- Conduct UAT
-
-Dev
-- Any fixes from UAT
+- Go/No-go
+- Phase 1 launch
 
 **Logged-in homepage**
 
@@ -280,8 +271,6 @@ Design
 
 ## Sprint 30 (9/9 – 9/22)
 
-- Go/No-go
-- Phase 1 launch
 
 ---------
 
