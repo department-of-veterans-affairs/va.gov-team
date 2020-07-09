@@ -100,5 +100,5 @@ Google Maps API is a widely used competitor of MapBox, but has been deemed too e
 *   Test number of characters needed as input to generate solid result list
     *   Using the [MapBox Geocoding Playground](https://docs.mapbox.com/search-playground), probably 4 chars. The recommendation from accessibility is that suggestions do not begin until 3 characters are entered.
 *   Test match on full words and substrings
-    *   “Carolina” matches Carolina, Puerto Rico.
+    *   “Carolina” matches Carolina, Puerto Rico. (Proximity bias could help address this if the expectation is to see results in North or South Carolina.)
     *   “nort carolina” => North Carolina
