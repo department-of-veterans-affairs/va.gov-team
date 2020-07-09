@@ -39,7 +39,6 @@ How might we bolster GI Bill beneficiaries' confidence and level of comfort when
 - Reduction in utilization of poorly rated institutions
 - A reduction in benefit utilization at poorly rated institutions
 
-
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
    - Enhance the Comparison Tool by providing insight into the Veteran-specific experience
 
@@ -56,14 +55,21 @@ How might we bolster GI Bill beneficiaries' confidence and level of comfort when
 - 5 star rating 
 - Policy around how to handle content
 - Ratings by Authenticated/Verified user only
+- Specifically asking Veterans for data through the email blasts, collect that data; leverage GIDS or API to populate the data on the Comparison Tool
+   - EDU: Want BAH to provide a recommendation regarding how best to get this information and share it.
+- No specific time period for which we are allowing people to submit reviews (no limit on when benefits were exhausted)
+
 
 ### Nice to have/Enhancements
 - Short Rater Narrative
 - Moderate Short Rater Narrative Content
    - Need a policy, process, and people to manage this.
    - Issue resolution and negative review custom notifications.
+- Medallia integration
+- Is there a way to incorporate feedback tool findings in the Comparison Tool?
+    - This comes up whenever the complaint breakdown portion of the page is tested in usability testing sessions
    
-### TBD
+### TBD - Need to determine if these are MVP or nice to have
 - Reporting
 - Ratings by authenticated/verified users only
    - Can an authenticated user rate a school they are NOT attending?
