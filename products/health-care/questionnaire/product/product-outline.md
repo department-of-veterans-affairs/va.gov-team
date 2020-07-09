@@ -5,11 +5,10 @@
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
 ## Problem Statement
-As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team.
+_As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team._
 
 ### Post Discovery updated Problem statement in draft:
-As a Veteran, I’m unable to contribute updates of my current health status and medical history that is leveraged in my care across the VA and community providers
-- Words to consider adding: easily, quickly, share, repeat
+There is not currently an avenue for Veterans to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
 ---
 - How might we improve the in-person and online pre-appointment experiences for Veterans?
