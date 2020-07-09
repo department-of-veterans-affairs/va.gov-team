@@ -146,7 +146,7 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## Objectives, OKR's, KPI's
+## Objectives-OKRs-KPIs
 
 ### **Objective**: (Adoption and Satisfaction) More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
