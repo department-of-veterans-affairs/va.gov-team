@@ -148,24 +148,21 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## OKRs
+## Objectives, OKR's, KPI's
 
-**Objective: Adoption and Satisfaction** - More people use the logged-in homepage because they feel like it is more personally relevant to them. 
+**Objective**: Adoption and Satisfaction: More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
 **OKR**: Increased the percent of users who visit the logged-in homepage by 10%
 - **KPI**: % of authenticated users who visit the LIH 
-- KPI: LIH bounce rate
+- **KPI**: LIH bounce rate
 
- -  **Bet 1**: Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
- -  Bet 2: Improved visual design for authenticated tools.
- -  Bet 3: Retiring My VA (My VA traffic will now use homepage)
+**OKR**: Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
+- **KPI**: % of authenticated users who visit the LIH 
+- **KPI**: LIH bounce rate
 
-Objective 1: Adoption and Satisfaction - Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
-
-OKR: Increased satisfaction with logged-in homepage (Forsee data)
-- Bet 1: Elevate contextually relevant information
-- Bet 2: Alert Veterans to benefits they qualify for
-- Bet 3: Updating design patterns to better suite authenticated tools
+**Bet**: "Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
+**Bet**: Improved visual design for authenticated tools.
+**Bet**: Retiring My VA (My VA traffic will now use homepage)."
  
 
 
