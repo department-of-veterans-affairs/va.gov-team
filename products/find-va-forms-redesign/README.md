@@ -43,10 +43,10 @@ tbd
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
-  - Will rely on redirects from legacy /vaforms/ experience to the new /find-forms capturing SEO value. A link to the forms experience exists in the footer of VA.gov. Redirects from the legacy to the new will help capture the SEO value accrued on the legacy experience. 
-  - VA.gov footer updated to reflect the new url 
+  - Will rely on redirects from legacy /vaforms/ experience to the new /find-forms capturing accured SEO value. 
+  - There's a link to the forms experience in the footer of VA.gov. That will be updated to reflect the new url 
   - Update VA.gov on-site search Top Recommendations to reflect /find-forms
-  - Remove `no-index` on /find-forms to allow the new experience to searchable
+  - Remove `no-index` on /find-forms to allow the new experience to searchable via Google (e.g. "va forms")
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
   - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
