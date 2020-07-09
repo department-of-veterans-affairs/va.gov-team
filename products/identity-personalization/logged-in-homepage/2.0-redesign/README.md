@@ -150,7 +150,7 @@ Additionally:
 
 ## Objectives, OKR's, KPI's
 
-### **Objective**: Adoption and Satisfaction: More people use the logged-in homepage because they feel like it is more personally relevant to them. 
+### **Objective**: (Adoption and Satisfaction) More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
 **OKR**: Increased the percent of users who visit the logged-in homepage by 10%
 - **KPI**: % of authenticated users who visit the LIH 
@@ -165,7 +165,7 @@ Additionally:
 - **Bet**: Improved visual design for authenticated tools.
 - **Bet**: Retiring My VA (My VA traffic will now use homepage)."
  
-### **Objective**: Engagement: People can quickly complete personally-relevant tasks from the VA.gov homepage — including people who have never interacted with the VA before. 
+### **Objective**: (Engagement) People can quickly complete personally-relevant tasks from the VA.gov homepage — including people who have never interacted with the VA before. 
 
 **OKR**: Increase % of applications completed from X to Y. (have to confirm we can calculate this)
 - **KPI**: % of authenticated users who visit the LIH 
