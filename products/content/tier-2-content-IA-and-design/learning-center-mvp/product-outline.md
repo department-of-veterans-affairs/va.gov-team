@@ -7,7 +7,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [User Goals](#user-goals)
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
-- [Examples of LC legacy content](#examples-of-lc-legacy-content]
+- [Examples of LC legacy content](#examples-of-lc-legacy-content)
 - [Status and decisions](#status-and-decisions)
 - [High-level requirements](#High-level-requirements-for-MVP)
 - [Detailed product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
