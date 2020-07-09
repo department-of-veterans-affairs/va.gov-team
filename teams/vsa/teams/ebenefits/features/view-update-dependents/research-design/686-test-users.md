@@ -19,7 +19,7 @@
 
 ### Users table
 
-ID.me identifying information
+#### ID.me identifying information
 
 | first_name | middle_name | last_name | gender | birth_date | ssn | phone | email | password | who_is_using |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -30,7 +30,7 @@ ID.me identifying information
 | CAMERON | A | TESTWOOD | F | 1995-05-15 | 125480995 | 917-827-0995 | vets.gov.user+EBN5@gmail.com | ********dHdv | EBN |
 | DARDAN | T | TESTY | M | 1934-04-14 | 125480994 | 202-827-0994 | vets.gov.user+EBN6@gmail.com | ********dHdv | EBN |
 
-ID.me common information
+#### ID.me common information
 
 | last_name | street | city | state | postal_code |
 | ----- | ----- | ----- | ----- | ----- |
@@ -41,7 +41,7 @@ ID.me common information
 | TESTWOOD | 3995 Brooklyn Drive | Brooklyn | NY | 10005 |
 | TESTY | 3994 Washington Place | Washington | DC | 20004 |
 
-Additional information
+#### Additional information
 
 | last_name | disability_rating | va_file_number | service_number |
 | ----- | ----- | ----- | ----- |
