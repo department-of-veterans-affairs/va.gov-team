@@ -5,9 +5,10 @@
 Currently, we don't have a good way to categorize or gather data about support requests. We've started using a [google sheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit?pli=1#gid=1793382735) to capture this data to help inform future decisions around team's capacity and roadmaps. 
 
 ## Problem Statement
-Without knowing where VSP teams' time is spent on support work, we don't know areas we could focus on to make improvements such as writing documentation that allows VFS teams to figure out their own answers or get unblocked without needing assistance from VSP. The less support work we do, the more time we have to work on enhancements to platform. 
+Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
-If we had a standardized way to log customer support requests and all customer-facing VSP teams log every support request using that process, we could use that data to identify roadmap items and documentation needs that would give VFS teams the tools and resources to successfully do their work without engaging VSP. 
+If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
+
 
 ## Desired User Outcomes
 - The process for inputting a support request is easy enough that VSP or VFS folks do it 95% of the time
