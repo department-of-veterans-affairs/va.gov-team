@@ -5,9 +5,7 @@ This is the folder for all background, historical, discovery, and status documen
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
-- [Team](#team)
 - [Status and decisions](#status-and-decisions)
-
 
 
 ## Problem Statement 
@@ -31,38 +29,38 @@ Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
-# Team
- - Team Name: Public Websites
- - GitHub Label: #vsa-public-websites
- - Slack channel: #va-forms
- 
+## KPIs
+**Find VA Forms - Search
 
-## Team Members
-|Name|Role|
-|----|----|
-|Jennifer Lee	| Public Websites Product Owner|
-|Stephanie Orkand | Product Manager|
-|Nick Sullivan	|FE Engineer|
-|Kelson Adams|	FE Engineer|
-|Randi Hecht	| Content|
+Engagement
+- Conversions to "Frequently used VA forms"
+- Conversions to "Manage your VA and other information online"
+- Conversions to "More information"
 
 
+**Find VA Forms - Detail Landing Pages
+tbd
 
-__VA forms stakeholder working group includes:__
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+  - Will rely on redirects from legacy /vaforms/ experience to the new /find-forms capturing SEO value. A link to the forms experience exists in the footer of VA.gov. Redirects from the legacy to the new will help capture the SEO value accrued on the legacy experience. 
+  - VA.gov footer updated to reflect the new url 
+  - Update VA.gov on-site search Top Recommendations to reflect /find-forms
+  - Remove `no-index` on /find-forms to allow the new experience to searchable
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+  - Comms with form working group necessary to ensure they're comfortable with parity of /vaforms vs. /find-forms searches
 
-- Huber, Diane <Diane.Huber@va.gov>; 
-- Walker, Stephen <Stephen.Walker4@va.gov>; 
-- Ranes, Michelle M. <michelle.ranes@va.gov>
-- Reid, Kevin <Kevin.Reid@va.gov>
-- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
-- Smith, Jeremy <Jeremy.Smith@va.gov>; 
-- Tuscher, Joshua (joshua.tuscher@va.gov); 
-- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
-- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
-- Smith, Gail T. (VACO) <gail.smith@va.gov>
+## Launch Dates
+- *What is your target launch date of your MVP/iteration?*
+  - April 2020
+- *What is your actual launch date of your MVP/iteration?*
+  - June 8, 2020 (Find VA Forms Search)
+- *What is your date for when you'll evaluate impact after launch?*
+
+---
 
 
-
+---
 # Status and decisions:
 
 ## 06/22/20
@@ -244,13 +242,33 @@ __Next step: follow up conversation to investigate Nick’s suggestion, and to f
 
 --- 
 
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## Target Launch Date
-- *What is your target launch date of your MVP/iteration?*
-  - April 2020
-- *What is your date for when you'll evaluate impact after launch?*
+# Team
+ - Team Name: Public Websites
+ - GitHub Label: #vsa-public-websites
+ - Slack channel: #va-forms
+ 
 
----
+## Team Members
+|Name|Role|
+|----|----|
+|Jennifer Lee	| Public Websites Product Owner|
+|Nick Sullivan	|FE Engineer|
+|Kelson Adams|	FE Engineer|
+|Randi Hecht	| Content|
+
+
+
+__VA forms stakeholder working group includes:__
+
+- Huber, Diane <Diane.Huber@va.gov>; 
+- Walker, Stephen <Stephen.Walker4@va.gov>; 
+- Ranes, Michelle M. <michelle.ranes@va.gov>
+- Reid, Kevin <Kevin.Reid@va.gov>
+- McCarthy, Brian <Brian.McCarthy4@va.gov>; 
+- Smith, Jeremy <Jeremy.Smith@va.gov>; 
+- Tuscher, Joshua (joshua.tuscher@va.gov); 
+- VAVBAWAS/CO/PCO <PCO.VBACO@va.gov>; 
+- Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
+- Smith, Gail T. (VACO) <gail.smith@va.gov>
+
