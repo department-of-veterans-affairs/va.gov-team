@@ -171,7 +171,7 @@ PM
 Design
 - UAT - Research plan
 - UAT - Conversation guide
- - Pre-launch - Update relevant parts of the product outline/project folder
+- Pre-launch - Update relevant parts of the product outline/project folder
   - Update design sections of the product outline
   - Add most up-to-date sketch file to Github
   - In design README, add links to the InVision prototypes
