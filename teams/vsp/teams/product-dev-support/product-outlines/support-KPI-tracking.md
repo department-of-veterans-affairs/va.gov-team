@@ -33,8 +33,8 @@ If we had a standardized way we collected support incident data and all teams in
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-% of customer support requests that are logged with standardized labels and fields
-% of responses to customer support requests that are automated
+- % of customer support requests that are logged with standardized labels and fields
+- % of responses to customer support requests that are automated
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
