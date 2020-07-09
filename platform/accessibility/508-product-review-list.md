@@ -11,7 +11,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   - [Helpful links](#helpful-links)
   - [Issues by Application](#issues-by-application)
     - [Automation](#automation)
-    - [Formation Design System](#formation-design-system)
+    - [Design System](#design-system)
     - [Forms Library](#forms-library)
     - [Site-wide](#site-wide)
     - [VA Developer Portal](#va-developer-portal)
@@ -99,11 +99,11 @@ Each application or logical section of the site will have a heading and a detail
 Back to [Table of Contents](#table-of-contents)
 
 ---
-### Formation Design System
+### Design System
 
 **Maintainer:** VSP<br/>
 **Audit Status:** _[Audit completed by VSP as of June 2020.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8351)_<br/>
-**[Filtered list of issues](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**<br/>
+**[Filtered list of issues on vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility)**<br/>
 
 **Open Issues**
 
