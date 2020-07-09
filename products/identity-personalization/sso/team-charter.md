@@ -44,7 +44,7 @@ _Check in on people and product progress:_
 #### 2. Sprint Planning
 _Outline work to be done this sprint in order to accomplish the team's goals_
 
-- 2nd Monday of every sprint (eg, Monday before new sprint begins) @ 2 pm ET
+- 2nd Monday of every sprint (eg, 2 days before new sprint begins) @ 2 pm ET
 - 1 hour
 - Review stories in the Ready pipeline and assign them to team members (Assignees)
 - Assign points or ensure the point estimate still is accurate (Estimates)
@@ -66,7 +66,7 @@ _Review accomplishments from prior sprint, what went well, what can be improveme
 #### 5. Grooming
 _Assess and update workload for remainder of sprint_
 
-- 1st Monday of every sprint @2 pm ET
+- 1st Monday of every sprint (ie business day 4 of a 10 business day/2 week sprint) @2 pm ET
 - 1 hour
 - Review new stories in the Backlog pipeline
 - Add acceptance criteria or missing descriptions to new stories
