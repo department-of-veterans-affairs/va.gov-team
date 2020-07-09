@@ -51,7 +51,15 @@ This proposal explores the available options and presents a case for an "optimal
 
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
 
+---
+
 ### Recommendations
+
+Forms on VA.gov are processed by various Lines of Business. These LOBs often have different backend systems and data sources that help process applications, and they will uses differning balance of automated and 'manual' procedures to move submissions through their respective workflows. 
+
+These processing differences drive how form present known biographical and common data is presented to users.
+
+[ WIP -- More to come. ]
 
 ---
 
