@@ -420,14 +420,6 @@ Write as shown the first time you use it. OK to use just VSP in subsequent refer
 
 VSP is the core contracting mechanism and team associated with building and running [DEPO platform](#depo-platform) services, technology, and applications.
 
-
-### Veteran-facing Services Applications (VSA)
-OK to just write as VSA. 
-
-[VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa) is a specific Veteran-facing Services (VFS) contract that includes many teams.
-
-
-
 ## W
 
 
