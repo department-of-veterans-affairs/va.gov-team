@@ -5,6 +5,7 @@ This document serves to house the first draft personas created from the Healthca
 Scarlett is a post-9/11 Veteran who was recently released from her parents' insurance. She just enrolled in VA Healthcare and has visited her local facility three times to complete new patient paperwork and to see a mental health specialist.
 
 ### Likes 
+- The focus on mental health when being asked questions about medical history
 
 ### Frustrations<br>
 - Would like to use MyHealtheVet but can't get account authenticated
@@ -18,15 +19,18 @@ Scarlett is a post-9/11 Veteran who was recently released from her parents' insu
 3. Scenario
 
 ## Jim<br>
-Jim is a Gulf War era Veteran  
+Jim is a Gulf War era Veteran who utilizes VA Healthcare for primary care and specialy care. He has mental health appointments every month and sees a dentist and optometrist twice a year. 
 
 ### Likes 
+- Notifications and text reminders for appointments
 
 ### Frustrations<br>
-- Example
+- Civilian providers outside of VA are too far and too expensive
+- Filling out repeat answers on civilian provider forms
 
 ### Goals<br>
-- Example
+- To limit visits to civilian clinics and utilize VA as much as possible
+- 
 
 ### Scenarios<br>
 1. Scenario
@@ -34,12 +38,14 @@ Jim is a Gulf War era Veteran
 3. Scenario
 
 ## Wayne<br>
-Wayne is a Vietnam era Veteran who visits the VA once yearly to maintain his eligibility for VA Healthcare benefits. but also sees civilian primary care providers. 
+Wayne is a Vietnam era Veteran who visits the VA once yearly for primary care to maintain his eligibility for VA Healthcare benefits. He also sees civilian primary care providers. 
 
 ### Likes 
+- Friendly providers and staff
 
 ### Frustrations<br>
-- Example
+- Appointment scheduling is confusing and difficult
+- Long wait times before seeing doctor
 
 ### Goals<br>
 - Example
