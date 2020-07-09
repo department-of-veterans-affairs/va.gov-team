@@ -84,3 +84,5 @@ Latest Sketch files: https://github.com/department-of-veterans-affairs/va.gov-te
 
 Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25QV9J#/screens
 
+### Status & Decisions
+- A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)
