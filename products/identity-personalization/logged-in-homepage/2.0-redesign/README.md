@@ -150,20 +150,24 @@ Additionally:
 
 ## OKRs
 
-Objective: Create a usable/scalable landing pad for users (ie. logged-in homepage) where they can manage their tools/tasks in once place
+Objective 1: Adoption and Satisfaction - More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
-OKR: Increased use of online tools
-- Bet 1: Retire existing My VA dashboard
-- Bet 2: Create adaptable Logged-In homepage to accompany other user roles and permissions once VA.gov is able to support   them.
-- Bet 3: Create personalized experience where tools/tasks most important and relevant to users are on the dashboard.
+OKR: Increased the percent of users who visit the logged-in homepage by 10%
+- KPI: % of authenticated users who visit the LIH 
+- KPI: LIH bounce rate
+
+- - Bet 1: Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
+- -  Bet 2: Improved visual design for authenticated tools.
+- -  Bet 3: Retiring My VA (My VA traffic will now use homepage)
+
+Objective 1: Adoption and Satisfaction - Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
 
 OKR: Increased satisfaction with logged-in homepage (Forsee data)
 - Bet 1: Elevate contextually relevant information
 - Bet 2: Alert Veterans to benefits they qualify for
 - Bet 3: Updating design patterns to better suite authenticated tools
  
-OKR: Improved/faster navigation to online tools
-- Bet 1: Provide personalized tasks/tools 
+
 
 ## KPIs
 “% (or #?) of authenticated users who completed at least 3 transactions/conversions against a self-service tool in a month”
