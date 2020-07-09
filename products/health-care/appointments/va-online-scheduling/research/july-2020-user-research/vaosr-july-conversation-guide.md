@@ -76,7 +76,7 @@ We're going to take a look at your Appointments list. Don't worry if you haven't
     - What do you like about it?
     - What don't you like about it? Is there anything that you find confusing?
     - Is there anything that you think may be missing?
-- Appointment list: Talk to me about how appointments displayed. 
+- [Appointment list] Let's take a look at the appointment list. 
   - Prompts:
     - What do you think about the order of your appointments?
     - Can you find past appointments on this page?
