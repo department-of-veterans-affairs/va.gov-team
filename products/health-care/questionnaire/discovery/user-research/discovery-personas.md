@@ -2,7 +2,7 @@
 This document serves to house the first draft personas created from the Healthcare Experience Discovery reasearch synthesis.
 
 ## Scarlett<br>
-Scarlett was recently released from her parents' insurance and just enrolled in VA Healthcare. 
+Scarlett is a post-9/11 Veteran who was recently released from her parents' insurance. She just enrolled in VA Healthcare and has visited her local facility three times to complete new patient paperwork and to see a mental health specialist.
 
 ### Frustrations<br>
 - Would like to use MyHealtheVet but can't get account authenticated
@@ -16,7 +16,7 @@ Scarlett was recently released from her parents' insurance and just enrolled in 
 3. Scenario
 
 ## Jim<br>
-About Jim
+Jim is a Gulf War era Veteran  
 
 ### Frustrations<br>
 - Example
@@ -30,7 +30,7 @@ About Jim
 3. Scenario
 
 ## Wayne<br>
-About Wayne
+Wayne is a Vietnam era Veteran who visits the VA once yearly to maintain his eligibility for VA Healthcare benefits. but also sees civilian primary care providers. 
 
 ### Frustrations<br>
 - Example
