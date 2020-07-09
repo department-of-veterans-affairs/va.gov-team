@@ -30,7 +30,11 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
 ## KPIs
-**Find VA Forms - Search
+**Find VA Forms - Search**
+
+Relevancy
+- Conversions to PDF downloads
+- Conversions to online benefit application experiences (future)
 
 Engagement
 - Conversions to "Frequently used VA forms"
@@ -38,8 +42,11 @@ Engagement
 - Conversions to "More information"
 
 
-**Find VA Forms - Detail Landing Pages
-tbd
+**Find VA Forms - Detail Landing Pages**
+
+Engagement
+- Conversions to PDF downloads
+- Conversions to online benefit application experiences (future)
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
