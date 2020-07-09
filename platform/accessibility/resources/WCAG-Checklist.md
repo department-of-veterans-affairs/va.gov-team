@@ -191,19 +191,19 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
     <tr>
       <th rowspan="4" valign="top" align="left">Parsing and Validity</th>
       <td valign="top" align="left"><strong>The page MUST NOT contain duplicate IDs</strong> because accessibility features frequently reference IDs.</td>
-      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
+      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing.">4.1.1</a></td>
     </tr>
     <tr>
       <td valign="top" align="left"><strong>Attributes (e.g. ARIA) MUST contain only allowable values, in the proper parent-child hierarchy.</strong></td>
-      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
+      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing.">4.1.1</a></td>
     </tr>
     <tr>
       <td valign="top" align="left"><strong>Parent-child relationships of elements & attributes (e.g. ARIA roles) MUST follow the specification.</strong></td>
-      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
+      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing.">4.1.1</a></td>
     </tr>
     <tr>
       <td valign="top" align="left"><strong>The page MUST NOT contain syntax errors that affect semantic meaning</strong> (e.g. elements or attributes that don’t close properly, either explicitly or implicitly).</td>
-      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing."4.1.1</a></td>
+      <td valign="top" align="left"><a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-parses.html#:~:text=Specific%20Benefits%20of%20Success%20Criterion,content%20accurately%20and%20without%20crashing.">4.1.1</a></td>
 </tbody>
 </table>
 
