@@ -4,6 +4,8 @@ This document serves to house the first draft personas created from the Healthca
 ## Scarlett<br>
 Scarlett is a post-9/11 Veteran who was recently released from her parents' insurance. She just enrolled in VA Healthcare and has visited her local facility three times to complete new patient paperwork and to see a mental health specialist.
 
+### Likes 
+
 ### Frustrations<br>
 - Would like to use MyHealtheVet but can't get account authenticated
 
@@ -18,6 +20,8 @@ Scarlett is a post-9/11 Veteran who was recently released from her parents' insu
 ## Jim<br>
 Jim is a Gulf War era Veteran  
 
+### Likes 
+
 ### Frustrations<br>
 - Example
 
@@ -31,6 +35,8 @@ Jim is a Gulf War era Veteran
 
 ## Wayne<br>
 Wayne is a Vietnam era Veteran who visits the VA once yearly to maintain his eligibility for VA Healthcare benefits. but also sees civilian primary care providers. 
+
+### Likes 
 
 ### Frustrations<br>
 - Example
