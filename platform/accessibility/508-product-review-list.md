@@ -341,9 +341,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Audit status:** _First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019._
 
-**Open issues**
-
-- [[CI/CD]: Review coverage of accessibility checks in hca end-to-end tests - #7384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7384)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+**No open issues**
 
 Back to [Table of Contents](#table-of-contents)
 
