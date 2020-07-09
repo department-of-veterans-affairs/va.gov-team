@@ -160,6 +160,7 @@ Additionally:
 - **KPI**: % of authenticated users who visit the LIH 
 - **KPI**: LIH bounce rate
 
+**Bets**
 - **Bet**: "Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
 - **Bet**: Improved visual design for authenticated tools.
 - **Bet**: Retiring My VA (My VA traffic will now use homepage)."
