@@ -18,7 +18,7 @@ Thursday, July 2⋅3:30 – 4:30pm
 4.  Are there any folks that work directly on the intake/admin side who we can talk to to learn a bit more about this process?
 
 5.  Are there any paper forms you provide to Veterans to fill out? If so can you share the pdf?
-	- [Consumer Assessment of Health Providers and Systems (CAHPS) Survey - survey of healthcare experience](https://dvagov.sharepoint.com/sites/vha-patient-experience/PX_Toolkits/Pre-visit_Checklist/Shared%20Documents/B%20-%20Pre-Visit%20Checklist%20-%20Checklist%20Tool.docx?d=w2b95512ebc914cee866a6c715fe28d2d)
+	- [VEO created questionaire based off - Consumer Assessment of Health Providers and Systems (CAHPS) Survey - survey of healthcare experience](https://dvagov.sharepoint.com/sites/vha-patient-experience/PX_Toolkits/Pre-visit_Checklist/Shared%20Documents/B%20-%20Pre-Visit%20Checklist%20-%20Checklist%20Tool.docx?d=w2b95512ebc914cee866a6c715fe28d2d)
 	- survey in the mail a month later - it has the questions. 
 	- @lacey is locating the SHEP form
 	- what do you do with the After visit survey- Reporting- collect data in theory it is used this is where you are with X 
@@ -26,6 +26,10 @@ Thursday, July 2⋅3:30 – 4:30pm
 	- Quality department - metrics- 
 	- stress worry discussed questions. worry me or cause me the most stress.
 	- they are going to use the paper form for feedback in pilot mode and we can gain feedback to what is working
+	- [CMS Patient Experience Surveys](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research/CAHPS) - Consumer Assessment of Healthcare Providers & Systems (CAHPS)
+		- [CAHPS® Clinician & Group Survey and Instructions](https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/about/cg_3-0_overview.pdf)
+		- [Example - Outpt. and Amb. Surgery CAHPS  - I selected the Mail Questionnaire](https://oascahps.org/Survey-Materials)
+		- Pretty cool [Map view of Satisfaction Scores by location](https://www.accesstocare.va.gov/Shep/Statemap) - could be useful in targeting certain locations for pilots.
 
 6.  What are the questions the Nurse/Provider are asking the Veteran that would be helpful to be filled out by the Veteran in advance?
 	- Nurse question - clinical reminders will apply depending on patient risk factors
