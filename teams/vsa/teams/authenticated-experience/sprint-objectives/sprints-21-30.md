@@ -126,19 +126,10 @@ Main objective: Be ready for Profile 2.0 QA next sprint
 PM
 - Call center - Finish call center guide
 - Pre-launch — Analytics review: does this need to happen? 
-- Pre-launch - Update relevant parts of the product outline/project folder
-  - Make sure product outline is up to date
-  - Make sure other team members update the project outline and any other documentation in the folder that's needed
-  - If you were a new PM onboarding to this product, what documentation would you want?
 
 Design
 - Build - Review build pre-QA
 - Call center - Finish call center guide
-- Pre-launch - Update relevant parts of the product outline/project folder
-  - Update design sections of the product outline
-  - Add most up-to-date sketch file to Github
-  - In design README, add links to the InVision prototypes
-  - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
 - Build - Mobile nav updates
@@ -165,15 +156,27 @@ Dev
 
 ### Profile 2.0
 
+Call center
+- Call center - Finish call center guide
+
 PM
 - Call center - Call center video
 - Call center - Request contact center review
+- Pre-launch - Update relevant parts of the product outline/project folder
+  - Make sure product outline is up to date
+  - Make sure other team members update the project outline and any other documentation in the folder that's needed
+  - If you were a new PM onboarding to this product, what documentation would you want?
+
+Design
+ - Pre-launch - Update relevant parts of the product outline/project folder
+  - Update design sections of the product outline
+  - Add most up-to-date sketch file to Github
+  - In design README, add links to the InVision prototypes
+  - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
-
 - Testing - Integration testing
-- Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing)
-- Testing - Implement/run tests we determine we need
+- Testing - Determine what other tests we need (re: E2E testing, load testing, unit testing) and implement/run tests
 - Pre-launch - Update relevant parts of the product outline/project folder
   - Make sure error documentation is up to date (For the overall profile and all sections of the profile)
   - Make sure it's documented which backend systems support the profile
@@ -182,18 +185,15 @@ Dev
 Platform
 - QA - Conduct QA
 - 508 - Conduct 508 review
-- Call center - Contact Center Review (VSP cycle)
 
 ### Logged-in homepage
 
 Design
-- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
-- My VA tools audit #10123
+- Review journey maps #10120
+- Review discovery findings #10121
 
 Dev
-- Investigate what data we can pull in for scheduling an appointment
-- Investigate how we'd pull in overall disability rating
-- Investigate how we'd determine if you already have Edu benefits
+- Beta/Opt-in discovery 
 
 ## Sprint 27 (7/29 – 8/11)
 
@@ -201,7 +201,7 @@ Dev
 
 PM
 - Call center - Contact Center Review (VSP cycle)
-- Pre-launch - Request staging review
+- Pre-launch - Staging review 8/3
 - Pre-launch - Request privacy and security review
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
@@ -214,18 +214,20 @@ Dev
 - QA — Any bug fixes that come out of QA/508
 
 Platform
+- Call center - Call center review
 - Pre-launch - Staging Review (VSP cycle) — Happens after QA
-- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
 
 ### Logged-in homepage
 
 Design
-- Figure out additional questions for technical discovery
-- Plan for LOA3 use cases #10162
-- Plan for LOA1 use case #10164
+- Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
+- My VA tools audit #10123
 
 Dev
-- Additional technical discovery?
+- Investigate what data we can pull in for scheduling an appointment
+- Investigate how we'd pull in overall disability rating
+- Investigate how we'd determine if you already have Edu benefits
+
 
 ## Sprint 28 (8/12 – 8/25)
 
@@ -242,13 +244,19 @@ Design
 Dev
 - Participate in reviews
 
+Platform
+- Pre-launch - Privacy and Security Review (VSP cycle) — Happens closer to launch
+
 ### Logged-in homepage
 
-PM
-- Start documenting staging users scenarios
-
 Design
-- Initial iterations
+- Figure out additional questions for technical discovery
+- Plan for LOA3 use cases #10162
+- Plan for LOA1 use case #10164
+
+Dev
+- Additional technical discovery?
+
 
 ## Sprint 29 (8/26 – 9/8)
 
@@ -261,6 +269,14 @@ Design
 
 Dev
 - Any fixes from UAT
+
+**Logged-in homepage**
+
+PM
+- Start documenting staging users scenarios
+
+Design
+- Initial iterations
 
 ## Sprint 30 (9/9 – 9/22)
 
