@@ -120,7 +120,7 @@ Next, we're going to try to cancel an appointment using this tool.
     - No problem! Let's pretend that you want to cancel and walk through the process OR cancel the appointment request you made, if you don't need it.
 - From this page [online scheduling tool], do you see anywhere to cancel an appointment? 
   - Walk me through how you'd cancel this appointment
-  - Click cancel, what happens?
+    - Click cancel, what happens?
   - If cannot cancel online:
     - What do you think of this?
     - What would you do next?
