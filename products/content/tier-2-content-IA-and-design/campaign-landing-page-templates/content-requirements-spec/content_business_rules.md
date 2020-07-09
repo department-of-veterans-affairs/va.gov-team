@@ -5,6 +5,18 @@
 
 2. How many CLPs a year is anticipated?  
 - 5-10 a year, if we roll it out in phased approach.  If available to all businesses at VA, it could be a lot more than 10 a year.
+- Examples of VA campaigns:
+
+ - https://missionact.va.gov/
+ - https://www.benefits.va.gov/transition/solid-start.asp
+ - https://www.benefits.va.gov/BENEFITS/blue-water-navy.asp
+ - https://www.benefits.va.gov/BENEFITS/financial-literacy.asp
+ - https://www.benefits.va.gov/BENEFITS/banking.asp
+ - https://www.va.gov/QUALITYOFCARE/education/Mental_Health_Awareness_Month2020.asp
+ - https://www.wearewithinreach.net/
+   - Can't tell who the audience is
+   - Barely actionable
+   - Can't tell what the call to action is
 
 3. Is new content created for CLP -- or does it just link to existing content in many places?  
 
