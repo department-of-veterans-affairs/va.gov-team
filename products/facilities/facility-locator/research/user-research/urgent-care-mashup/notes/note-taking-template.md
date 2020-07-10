@@ -61,7 +61,8 @@ Before we start, a few things I want to mention:
 **Participant:** <br>
 **Moderator:** Go ahead and try to do that now? <br>
 **Participant:** <br>
-    
+**Moderator:** I see you've selected []
+**Moderator:** Can talk me through why you chose those particular options?
 **Moderator:** What can you tell me about the 'service type' options?<br>
 **Participant:** <br>
 **Moderator:** What does 'Community urgent care providers (in VA's network)' mean to you?<br>
