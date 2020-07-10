@@ -78,7 +78,8 @@ It is the responsibility of the product manager to facilitate these
 
 ### Defect triage
 
-Critical bugs will often be triaged immediately, but non-critical bugs will be triaged 
+Critical defects are defined as something that prevents users from accomplishing their work in the CMS, without a known workaround. These will be labeled as "critical defect" and prioritized immediately with the goal of resolving within 2 business days.
+
+Non-critical defects will be triaged and prioritized against the current backlog of issues with the collbaoration of the stakeholder(s) affected and the VFS-CMS DEPO PO.
 
 On a weekly basis 
-
