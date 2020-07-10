@@ -49,7 +49,7 @@ Go ahead and click 'Find a VA location' for me.
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
 #### Questions:
-- Have you used ever used this page? 
+- Have you ever used this page? 
     - If yes, how long ago, what were you doing? What was that experience like?
     - If no, how do you go about finding information about VA locations?
 
