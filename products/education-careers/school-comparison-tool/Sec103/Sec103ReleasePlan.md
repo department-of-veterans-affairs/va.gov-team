@@ -82,12 +82,13 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Post-launch Questions 
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-**Users are actually seeing the content, which is fantastic! 
+**Users are actually seeing the content, which is fantastic!** 
 
 2. What qualitative feedback have you gathered from users or other stakeholders, if any?
-**We should ask EDU if they've had any feedback on this.  
+**We should ask EDU if they've had any feedback on this.**  
 
 3. Which of the assumptions you listed in your product outline were/were not validated? 
+
 Validated: 
 * The team will have access to all the information we need to effectively design & build the indicator
 * Users will notice the 103 indicator (and know how it’s relevant?)
