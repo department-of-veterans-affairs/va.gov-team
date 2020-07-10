@@ -30,9 +30,14 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 
 ## KPIs
-**Find VA Forms - Search**
 
-Relevancy
+**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
+**Signal**: are people downloading form applications or starting a new benefit application\
+**Metrics**:
+
+*Find VA Forms - Search*
+
+Search Relevancy
 - Conversions to PDF downloads
 - Conversions to online benefit application experiences (future)
 
@@ -41,8 +46,10 @@ Engagement
 - Conversions to "Manage your VA and other information online"
 - Conversions to "More information"
 
+*Find VA Forms - Detail Landing Pages*
 
-**Find VA Forms - Detail Landing Pages**
+Acquisition
+- Are people using Form Detail pages? - Ratio of traffic to Detail pages / Search query volume
 
 Engagement
 - Conversions to PDF downloads
