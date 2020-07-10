@@ -72,7 +72,7 @@ For your first task I'd like you to:
     
 I see you've selected [] 
 - Can talk me through why you chose those particular options?
-
+- What would be your next step?
 
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
@@ -83,25 +83,27 @@ I see you've selected []
 
 [Have participant select Urgent Care/All urgent care]
 
-I'm going to have you do a second task. For this task, I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Shoose a service type' All urgent care.
+I'm going to have you do a second task. For this task, I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Choose a service type' All urgent care.
 
-- What can you tell me about the 'service type' options?
+#### Questions:
+
+- Under the 'service type' dropdown menu, talk me through what the different options mean to you?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
     - What does 'VA urgent care' mean to you?
     - Does this distinction matter to you? 
         - What matters about the distinction?
         
-- I'd like you to imagine that you are consider the two closest locations. I'd like you to compare them.
+I'd like you to imagine that you are considering the two closest locations. 
+- What would be important to you in comparing these two options.
 
-#### Questions:
-- How would you prepare to visit the first location?
+- If you chose A, how would you prepare to visit this location?
     - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
-        - [user clicks]
-    - What is this page trying to communicate to you?
+        - [user clicks community care page]
+    - Briefly, what is this page trying to communicate?
     
-Let's go back to the search results page
+Let's go back to the search results page. As you're comparing,
 
-- How would you prepare to visit the second location?
+- If you chose B, how would you prepare to visit this location?
     - What does the [status] mean to you?  
 - What would be your next step?
 
