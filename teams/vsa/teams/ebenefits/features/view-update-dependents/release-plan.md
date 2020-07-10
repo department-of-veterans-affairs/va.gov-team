@@ -20,16 +20,20 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: Unmoderated Production Testing
+## Phase II: Move to Wider Release (Production)
 ### Planning:
 - Desired date range: **Week of August 3, 2020**
-- Desired number of unique users: **100 or 1%, whichever occurs first**
+- Desired number of unique users: **100 or 10%, whichever occurs first**
 - How you'll make the product available in production while limiting the # of users who can find/access it: **Use Flipper with monitoring**
 - "Success" criteria (by the numbers): 
-  - **Succesfful submissions,**
-  - **400 and 500 errors less than 1%,**
-  - **Contact center calls less than 5% for errors,**
-  - **Collaborating with business/stakeholders**
+Objective 1: Empower Veterans to update dependents immediately
+Objective 2: Get Veterans the benefits they deserve in hours not months
+  - **Succesful submissions = 10,**
+  - **400 and 500 errors less than 5%, may be subject to change**
+  - **Contact center calls less than 10% for errors,**
+  - **Automatic award adjustment (RBPS) = 1**
+  
+  Notes: What is the baseline for manual approval times and how can we make that better?
 
 ### Results:
 - Number of unique users: x
