@@ -61,12 +61,12 @@ I'm going to walk us through a scenario and have you perform a couple tasks. Aga
 I'd like you to imagine that you are coming to this site because you think you might have sprained your ankle. You don't want to go to an emergency room because you don't think it's quite that serious. You live in Denver, CO.
 
 ### Task 1
-#### Questions:
 
 ###### PROTOTYPE: User performs search
 
 For your first task I'd like you to:
 
+#### Questions:
 - Talk me through how you would go about finding care on this page.
     - Go ahead and try that now? 
     
