@@ -74,6 +74,8 @@ I see you've selected []
 - Can talk me through why you chose those particular options?
 - What would be your next step?
 
+[click 'search button']
+
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
 - What is your thought process for choosing an urgent care location in this scenario? 
@@ -81,21 +83,22 @@ I see you've selected []
 
 ### Task 2
 
-[Have participant select Urgent Care/All urgent care]
-
-I'm going to have you do a second task. For this task, I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Choose a service type' All urgent care.
+I'm going to have you do a second task. For this task, under the 'Choose a VA facility type' menu, I'd like you to choose 'Urgent care'.
 
 #### Questions:
 
-- Under the 'service type' dropdown menu, talk me through what the different options mean to you?
-    - What does 'Community urgent care providers (in VA's network)' mean to you?
-    - What does 'VA urgent care' mean to you?
-    - Does this distinction matter to you? 
-        - What matters about the distinction?
-        
-I'd like you to imagine that you are considering the two closest locations. 
-- What would be important to you in comparing these two options.
+- Talk me through what the different options mean to you in the 'Choose a service type' menu?
+   - What does 'Community urgent care providers (in VA's network)' mean to you?
+   - What does 'VA urgent care' mean to you? 
+- Does this distinction matter to you? 
+   - What matters about the distinction?
 
+### Scenario
+In this next scenario, I'd like you to imagine that you are considering the two closest locations. 
+Go ahead and click the blue 'Search' button for me.
+
+#### Questions:
+- What would be important to you in comparing these two options.
 - If you chose A, how would you prepare to visit this location?
     - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
         - [user clicks community care page]
