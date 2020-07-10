@@ -10,7 +10,7 @@
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding urgent care.
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about finding healthcare on the VA.gov website.
 
 Before we start, a few things I want to mention:
 
@@ -68,7 +68,9 @@ I'd like you to imagine that you are coming to this site because you think you m
 For your first task I'd like you to:
 
 - Talk me through how you would go about finding care on this page.
-    - Go ahead and try to do that now? 
+    - Go ahead and try that now? 
+    
+You've selected [] what do the options mean to you?
     
 - What can you tell me about the 'service type' options?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
