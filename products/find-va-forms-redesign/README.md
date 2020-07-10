@@ -38,13 +38,15 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 *Find VA Forms - Search*
 
 Search Relevancy
-- Conversions to PDF downloads
-- Conversions to online benefit application experiences (future)
+- % queries with no results
+- % PDF downloads / successful queries
+- % conversions to online benefit application experiences (future) / successful queries
+- % converions to logging-in following Find VA Form Search query (future, preferred)
 
 Engagement
-- Conversions to "Frequently used VA forms"
-- Conversions to "Manage your VA and other information online"
-- Conversions to "More information"
+- % conversions to "Frequently used VA forms" / session
+- % conversions to "Manage your VA and other information online" / session
+- % conversions to "More information" / session
 
 *Find VA Forms - Detail Landing Pages*
 
@@ -52,8 +54,9 @@ Acquisition
 - Are people using Form Detail pages? - Ratio of traffic to Detail pages / Search query volume
 
 Engagement
-- Conversions to PDF downloads
-- Conversions to online benefit application experiences (future)
+- % PDF downloads / queries
+- % conversions to online benefit application experiences (future)
+- % converions to logging-in following Find VA Form Search query (future, preferred)
 
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
