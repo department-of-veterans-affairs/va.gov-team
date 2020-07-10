@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype **WIP**](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
+- [ ] [Link to Prototype](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
 
 ## Intro - 3 minutes
 
