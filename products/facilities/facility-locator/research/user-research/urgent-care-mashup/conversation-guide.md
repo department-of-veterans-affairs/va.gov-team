@@ -82,6 +82,8 @@ For your first task I'd like you to:
 - What is important to you when choosing from this list?
 
 ### Task 2
+[Have participant select Urgent Care/All urgent care]
+
 For your second task I'd like you to:
 
 - Compare the two closest locations. 
