@@ -29,7 +29,7 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 - Can you tell me a little about your service history?
-- Have you ever visited an urgent care clinic in the past (VA or non-VA)?
+- Have you visited the VA for healthcare in the past year?
     - If yes, can you tell me about that?
 
 
@@ -49,26 +49,32 @@ Go ahead and click 'Find a VA location' for me.
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
 #### Questions:
-- Have you had a reason to use it recently? 
-    - If yes, what were you doing? What was that experience like?
+- Have you used ever used this page? 
+    - If yes, how long ago, what were you doing? What was that experience like?
     - If no, how do you go about finding information about VA locations?
-- Have you ever needed or looked for Urgent care on this website?
 
 ### Scenario
+#### Directions:
+I'm going to walk us through a scenario and have you perform a couple tasks. Again, this is only a prototype so some things might not work as expected. As you work through the tasks I'd like you to think out loud and narrate what you see and what goes through your mind.
 
-I'm going to walk us through a scenario and have you perform a task. Again, this is only a prototype so some things might not work as expected. 
 
-I'd like you to imagine that you are coming to the site because you have a sore throat and you'd like to get checked out to rule out strep throat. You live in Denver, CO.
+I'd like you to imagine that you are coming to this site because you think you might have sprained your ankle. You don't want to go to an emergency room because you don't think it's quite that serious. You live in Denver, CO.
 
 ### Task 1
 #### Questions:
 
 ###### PROTOTYPE: User performs search
-- Talk me through how would you go about finding care on this page.
+
+For your first task I'd like you to:
+
+- Talk me through how you would go about finding care on this page.
     - Go ahead and try to do that now? 
+    
 - What can you tell me about the 'service type' options?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
     - What does 'VA urgent care' mean to you?
+    - Does this distinction matter to you? 
+        - What matters about the distinction?
 
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
@@ -76,7 +82,10 @@ I'd like you to imagine that you are coming to the site because you have a sore 
 - What is important to you when choosing from this list?
 
 ### Task 2
-Now, I'd like you to compare the two closest locations. 
+For your second task I'd like you to:
+
+- Compare the two closest locations. 
+
 #### Questions:
 - How would you prepare to visit the first location?
     - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
@@ -84,11 +93,18 @@ Now, I'd like you to compare the two closest locations.
     - What is this page trying to communicate to you?
     
 Let's go back to the search results page
+
 - How would you prepare to visit the second location?
     - What does the [status] mean to you?  
 - What would be your next step?
 
 ## Post-Task Interview - 5 minutes
+
+I have just a couple more questions before we finish up:
+
+- Have you ever visited an urgent care clinic in the past (VA or non-VA)?
+    - If yes, can you tell me about that?
+- Can you think of anything that would make this website easier for you to use next time?
 - Is there anything that I haven't asked you that you think that I should know?
 - Any questions for me? 
 
