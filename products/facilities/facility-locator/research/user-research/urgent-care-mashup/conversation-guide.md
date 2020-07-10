@@ -16,7 +16,7 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** 
 - **First, I'll ask you a few warm up questions to get us started.**
-- **Then, I'll be share a link to a prototype and ask you to share your screen.** We'll look at a protoype together and I will ask you questions about it.
+- **Then, I'll be sharing a link to a prototype and ask you to share your screen.** We'll look at a protoype together and I will ask you questions about it.
 - **In this session, we want to hear your honest opinions.** We are not testing you, instead we are testing the website to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
