@@ -27,8 +27,8 @@
 - How you'll make the product available in production while limiting the # of users who can find/access it: **Use Flipper with monitoring**
 - "Success" criteria (by the numbers): 
   - **Succesfful submissions,**
-  - **400 and 500 errors less than 20%,**
-  - **Contact center calls less than 5,**
+  - **400 and 500 errors less than 1%,**
+  - **Contact center calls less than 5% for errors,**
   - **Collaborating with business/stakeholders**
 
 ### Results:
