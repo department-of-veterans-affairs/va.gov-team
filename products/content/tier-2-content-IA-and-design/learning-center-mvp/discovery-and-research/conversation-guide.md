@@ -29,12 +29,14 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-- I understand you have benefits with the VA or an online account with the VA. When you have questions about your benefits or your VA account, what's the first step you take in trying to get that answered?
-- If you don't get the information you need, what do you do next?
+- I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about you benefits or VA account? 
+- What was that question about? 
+- What was the first step you took to get that answered? 
+- Did you have to take additional steps beyond that to get the answers you needed?
 - What has your experience been like trying to answer those questions on VA.gov?
 - Tell me about the last time you visited a VA website. What were you doing?
 - Was that a typical experience for you?
-- Okay, thanks for sharing that. One more thing before we start getting into the prototype - if you saw a section of VA.gov called "Learning Center", what kinds of things would you expect to see in there?
+- Okay, thanks for sharing that. One more thing before we start getting into the prototype - if you saw a section of VA.gov called "Learning Center", what kinds of things would you expect to see there?
 
 ### Things to watch for
 
@@ -50,21 +52,28 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Find article on a specific topic - 5 minutes
 
-- Imagine you recently moved and you need to change the address the VA has on file.  Talk me through how you'd find the answer.  
+- Imagine you recently moved and you need to change the address the VA has on file.  Talk me through how you'd find information on how to do that.  
 
-  ***Note: will have them talk through it rather than start on VA.gov and show us, so we don't prime them if using VA.gov is not the way they'd typically change their address***
+- Okay, thank you for explaining that to me.  Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together. I'd like to see how you'd find information on how to change your address with this prototype.
 
-- Okay, thank you for explaining that to me.  Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together. It'll be really helpful if you can think out loud as much as possible moving forward.  Since this is a prototype, not everything will work as you might expect, but it'll be very helpful to hear and see how you'd interact with it if it were a live website.
+- It'll be really helpful if you can think out loud as much as possible moving forward.  Since this is a prototype, not everything will work as you might expect, but it'll be very helpful to hear and see how you'd interact with it if it were a live website.
 
   *Talk user through screen sharing so they can share their screen.*
 
   *Use chat to send user link to prototype, starting on home page of learning center.*
 
-- Take a look at this page, and tell me how you'd find that information here. Think out loud. You can scroll and but don't click on anything just yet.
+- Take a look at this page, and tell me how you'd find that information here. Think out loud. You can scroll  but don't click on anything just yet.
+
+  `View all VA account and profile articles` link is a clickable hotspot*
 
   *Allow participant to go through entire page before prompting them to click.*
 
-  *`View all VA account and profile articles` link is a clickable hotspot*
+- *If participant doesn't comment, ask:*
+
+  - Did you notice the radio buttons above the search bar? Explain what you think would happen if you searched with one over the other.
+  - How do you think this is different from the site search in the navigation?
+  - What are your impressions of the different categories of audience and topics? 
+  - Would that be useful to you?
 
 - Ok, great.  Now go ahead and click that link.
 
@@ -75,7 +84,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What were the participant's comments on the `Search` radio buttons above the search bar?
 - Do users get confused between the search link in the top nav (which opens to a search box) and the in-page search with the radio buttons?
 - Participant reaction to audience and topic tags and content?
-- How did participant decide to look up information on the topic?
+- How did the participant decide to look up information on the topic?
 
 #### Notes for planning
 
@@ -132,7 +141,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Excellent, you're being really helpful. Thank you. Just a few more things to go over.
 
-- Let's shift gears and think about some non-account things. Imagine you need to find out what benefits someone qualifies for if they've been exposed to Agent Orange. How would you do that from here?
+- Let's shift gears. Imagine you need to find out what benefits someone qualifies for if they've been exposed to Agent Orange. How would you do that from here?
 
   *May need to remind user that things might not work as expected since this is a prototype*
 
@@ -209,11 +218,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Post-Task Interview - 5 minutes
 
-- Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would an application for a benefit you don't already have - education, home loan, something like that.
-- Tell me how you see the learning center different from overall site search.
+- Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would find an application for a benefit you don't already have - education, home loan, something like that.
+- From your perspective, is the learning center different from overall site search?
 - If they didn't address the radio buttons above the search bar, get their perspective on that
 - Our session today was focused on the learning center we are developing. Now that you have a better idea of the kinds of content within, what you think of the name ` Learning Center`?
 - Where would you expect to have access to something like that on the website?
+- Overall, what do you find valuable about this learning center concept as a whole?
+- What do you think could be improved about the concept we've reviewed today?
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
