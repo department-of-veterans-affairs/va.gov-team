@@ -7,13 +7,13 @@
 
 ### Test cases
 
-1. User has disability rating below 30% (Result: user denied access to form)
-2. User has disability rating that is exactly 30% (Result: user allowed access to form)
-3. User has disability rating higher than 30% (Result: user allowed access to form)
-4. User has VA file number (Result: user allowed access to form)
-5. User does not have VA file number (Result: user denied access to form !?!)
-6. User served before 1969 and has Service Number (Result: SN used rather than SSN)
-7. User served after 1974 and has Social Security Number (Result: SSN used)
+1. User has disability rating below 30% (Expected Result: user denied access to form)
+2. User has disability rating that is exactly 30% (Expected Result: user allowed access to form)
+3. User has disability rating higher than 30% (Expected Result: user allowed access to form)
+4. User has VA file number (Expected Result: user allowed access to form)
+5. User does not have VA file number (Expected Result: user denied access to form !?!)
+6. User served before 1969 and has Service Number (Expected Result: SN used rather than SSN)
+7. User served after 1974 and has Social Security Number (Expected Result: SSN used)
 
 ---
 
@@ -23,7 +23,7 @@
 
 | first_name | middle_name | last_name | gender | birth_date | ssn | phone | email | password | who_is_using |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ORVILLE | J | TESTEM | M | 1999-09-19 | 125480999 | 212-827-0999 | vets.gov.user+EBN1@gmail.com | ********dHdv | EBN |
+| ORVILLE | J | TESTEM | M | 1999-09-19 | 125480999 | 212-827-0999 | vets.gov.user+EBN1@gmail.com | ********dHdv | EBN |  
 | PAVLI | Q | TESTERMAN | F | 1998-08-18 | 125480998 | 872-827-0998 | vets.gov.user+EBN2@gmail.com | ********dHdv | EBN |
 | GERARDO | M | TESTON | M | 1937-07-17 | 125480997 | 310-827-0997 | vets.gov.user+EBN3@gmail.com | ********dHdv | EBN |
 | MANUELA | X | TESTUDO | F | 1996-06-16 | 125480996 | 773-827-0996 | vets.gov.user+EBN4@gmail.com | ********dHdv | EBN |
