@@ -77,7 +77,7 @@ I see you've selected []
 
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
-- Tell me what your thougth process would be for making a choice from this list? 
+- What would be your thought process for making a choice from this list? 
 - What is important to you when choosing from this list?
 
 ### Task 2
