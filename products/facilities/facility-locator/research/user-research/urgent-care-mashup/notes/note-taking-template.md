@@ -20,12 +20,12 @@
 #### Directions: Moderator shares link to a prototype asks to share screen.
 
 ###### PROTOTYPE: VA.gov main
-#### Question:
+
 **Moderator:** - Are you familiar with VA.gov's location finder? <br>
 **Participant:** <br>
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
-#### Questions:
+
 **Moderator:** Have you used ever used this page? <br>
 **Participant:** <br>
     - **Moderator:** If yes, how long ago, what were you doing? What was that experience like?<br>
@@ -39,7 +39,7 @@
 ### Task 1
 
 #### Directions: Moderator has user performs search
-#### Questions:
+
 
 - **Moderator:** Talk me through how you would go about finding care on this page.<br>
 **Participant:** <br>
@@ -68,7 +68,7 @@
 ### Task 2
 
 #### Directions: Moderator has user compare the two closest locations. 
-#### Questions:
+
 - **Moderator:** How would you prepare to visit the first location?<br>
 **Participant:** <br>
     - **Moderator:** What does "[link on card verbiage]" mean to you?<br>
@@ -80,7 +80,7 @@
 **Participant:** <br>
     
 #### Directions: Moderator has user go back to the search results page
-#### Questions:
+
 - **Moderator:** How would you prepare to visit the second location?<br>
     - - **Moderator:** What does the [status] mean to you?<br>
 **Participant:** <br>
