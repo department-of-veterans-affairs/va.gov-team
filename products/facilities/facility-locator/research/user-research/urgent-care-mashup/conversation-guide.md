@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 I'm going to share a link to a prototype and ask that you to share your screen.
 
 ###### MODERATOR SHARES LINK TO PROTOTYPE
-[UXPin Link]
+[UXPin Link](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
 
 Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
 
