@@ -63,10 +63,9 @@ I'd like you to imagine that you are coming to this site because you think you m
 ### Task 1
 
 ###### PROTOTYPE: User performs search
+#### Questions:
 
 For your first task I'd like you to:
-
-#### Questions:
 - Talk me through how you would go about finding care on this page.
     - Go ahead and try that now? 
     
