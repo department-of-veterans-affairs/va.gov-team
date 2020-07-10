@@ -21,7 +21,7 @@ Before we start, a few things I want to mention:
 
 ###### Start recording to the Cloud
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+**I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 ## Warm-up Question
 
 **Moderator:** Can you tell me a little about your service history?<br>
@@ -37,7 +37,7 @@ Before we start, a few things I want to mention:
 #### Directions: Moderator shares link to a prototype asks to share screen.
 ###### PROTOTYPE: VA.gov main
 
-**Moderator:**Are you familiar with VA.gov's location finder? <br>
+**Moderator:** Are you familiar with VA.gov's location finder? <br>
 **Participant:** <br>
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
@@ -92,7 +92,7 @@ Before we start, a few things I want to mention:
 **Moderator:** What do you think you will find when you click it?<br>
 [user clicks]<br>
 **Participant:** <br>
-**Moderator:** What is this page trying to communicate to you?<br>
+**Moderator:** [community care page] What is this page trying to communicate to you?<br>
 **Participant:** <br>
     
 #### Directions: Moderator has user go back to the search results page
