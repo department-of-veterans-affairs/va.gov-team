@@ -65,9 +65,9 @@ I'd like you to imagine that you are coming to this site because you think you m
 ###### PROTOTYPE: User performs search
 #### Questions:
 
-For your first task I'd like you to:
-- Talk me through how you would go about finding care on this page.
-    - Go ahead and try that now? 
+For the first task, given the scenario:
+Can you talk me through how you would go about finding care on this page?
+- Go ahead and try that now.
     
 I see you've selected [] 
 - Can talk me through why you chose those particular options?
@@ -77,7 +77,7 @@ I see you've selected []
 
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
-- What is your thought process for choosing an urgent care location in this scenario? 
+- Tell me what your thougth process would be for making a choice from this list? 
 - What is important to you when choosing from this list?
 
 ### Task 2
@@ -86,7 +86,7 @@ I'm going to have you do a second task. For this task, under the 'Choose a VA fa
 
 #### Questions:
 
-- Talk me through what the different options mean to you in the 'Choose a service type' menu?
+Under the 'Choose a service type' menu, talk me through what the different options mean to you.
    - What does 'Community urgent care providers (in VA's network)' mean to you?
    - What does 'VA urgent care' mean to you? 
 - Does this distinction matter to you? 
@@ -97,16 +97,18 @@ In this next scenario, I'd like you to imagine that you are considering the two 
 Go ahead and click the blue 'Search' button for me.
 
 #### Questions:
-- What would be important to you in comparing these two options.
+- Talk me thought what would be important to you in comparing these two options.
 - If you chose A, how would you prepare to visit this location?
-    - What does "[link on card verbiage]" mean to you? What do you think you will find when you click it?
-        - [user clicks community care page]
-    - Briefly, what is this page trying to communicate?
+    - What does "[Urgent care benefit information]" mean to you? 
+    - What do you think you will find when you click it?
+Go ahead and click that link for me.
+    - Just briefly, what do you think this page trying to communicate?
     
-Let's go back to the search results page. As you're comparing,
+Let's go back to the search results page. 
+Let's look at B.
 
 - If you chose B, how would you prepare to visit this location?
-    - What does the [status] mean to you?  
+    - What does the [Limited services and hours] mean to you?  
 - What would be your next step?
 
 ## Post-Task Interview - 5 minutes
