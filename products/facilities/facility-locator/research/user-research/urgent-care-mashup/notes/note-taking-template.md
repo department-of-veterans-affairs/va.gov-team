@@ -21,7 +21,7 @@
 
 ###### PROTOTYPE: VA.gov main
 #### Question:
-**Moderator:** - Are you familiar with VA.gov's location finder? 
+**Moderator:** - Are you familiar with VA.gov's location finder? <br>
 **Participant:** 
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
