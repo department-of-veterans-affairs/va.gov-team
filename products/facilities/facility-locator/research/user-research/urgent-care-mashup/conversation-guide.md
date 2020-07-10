@@ -35,7 +35,7 @@ Before we start, a few things I want to mention:
 
 ## Usability Test - 25 minutes
 
-I'm going to share a link to a prototype and ask that you to share your screen.
+I'm going to share a link to a prototype here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
 
 ###### MODERATOR SHARES LINK TO PROTOTYPE
 [UXPin Link](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
