@@ -97,7 +97,7 @@ In this next scenario, I'd like you to imagine that you are considering the two 
 Go ahead and click the blue 'Search' button for me.
 
 #### Questions:
-- Talk me thought what would be important to you in comparing these two options.
+- Talk me through what would be important to you in comparing these two options.
 - If you chose A, how would you prepare to visit this location?
     - What does "[Urgent care benefit information]" mean to you? 
     - What do you think you will find when you click it?
