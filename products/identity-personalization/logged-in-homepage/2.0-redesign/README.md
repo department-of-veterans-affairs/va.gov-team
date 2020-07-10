@@ -146,17 +146,21 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## Objectives-OKRs-KPIs
+## KPIs
+- **KPI**: % of authenticated users who visit the LIH 
+- **KPI**: LIH bounce rate
+- **KPI**: # of appointments scheduled
+- **KPI**: # of docs uploaded to support claims
+- **KPI**: # of searches for Direct Deposit
+- **KPI**: # of Disability rating pageviews that resulted in another action taken (conversion)
+
+## Objectives and OKRs
 
 ### **Objective**: (Adoption and Satisfaction) More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
 **OKR**: Increased the percent of users who visit the logged-in homepage by 10%
-- **KPI**: % of authenticated users who visit the LIH 
-- **KPI**: LIH bounce rate
 
 **OKR**: Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
-- **KPI**: % of authenticated users who visit the LIH 
-- **KPI**: LIH bounce rate
 
 **Bets**
 - **Bet**: "Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
@@ -166,23 +170,14 @@ Additionally:
 ### **Objective**: (Engagement) People can quickly complete personally-relevant tasks from the VA.gov homepage — including people who have never interacted with the VA before. 
 
 **OKR**: Increase % of applications completed from X to Y. (have to confirm we can calculate this)
-- **KPI**: % of authenticated users who visit the LIH 
-- **KPI**: LIH bounce rate
 
 **OKR**: Increase # of appointments scheduled on VA.gov by X%.
-- **KPI**: # of appointments scheduled
- 
 
-**OKR**: [Need claim status metric for success — maybe reduced calls to the call center since people come to VA.gov to check status regardless of action? Loop back with Luke on this in a couple of months]
-- **KPI**: # of docs uploaded to support claims
+ **OKR**: [Need claim status metric for success — maybe reduced calls to the call center since people come to VA.gov to check status regardless of action? Loop back with Luke on this in a couple of months] 
 
 **OKR**: [Need disability rating metric — team doesn't care about page views. This may be rolled into claim status metric since viewing disability rating is often part of that flow.]
-- **KPI**: # of Disability rating pageviews
-
 
 **OKR**: (if we include direct deposit, we might see fewer people searching for this feature)
-- **KPI**: # of searches for Direct Deposit
-
 
 **Bets**
 - **Bet**: Redesigning "getting started" experience for new users (will affect how we show "Apply" prompts for people to  
