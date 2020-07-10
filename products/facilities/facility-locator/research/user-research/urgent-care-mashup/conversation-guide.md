@@ -70,7 +70,8 @@ For your first task I'd like you to:
 - Talk me through how you would go about finding care on this page.
     - Go ahead and try that now? 
     
-You've selected [] what do the options mean to you?
+I see you've selected [] 
+- Can talk me through why you chose those particular options?
     
 - What can you tell me about the 'service type' options?
     - What does 'Community urgent care providers (in VA's network)' mean to you?
