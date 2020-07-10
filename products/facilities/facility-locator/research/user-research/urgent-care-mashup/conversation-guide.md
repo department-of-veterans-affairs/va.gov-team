@@ -82,11 +82,12 @@ For your first task I'd like you to:
 - What is important to you when choosing from this list?
 
 ### Task 2
+
 [Have participant select Urgent Care/All urgent care]
 
-For your second task I'd like you to:
+I'm going to have you do a second task. For this task I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Shoose a service type' All urgent care.
 
-- Compare the two closest locations. 
+- I'd like you to imagine that you are consider the two closest locations. I'd like you to compare them.
 
 #### Questions:
 - How would you prepare to visit the first location?
