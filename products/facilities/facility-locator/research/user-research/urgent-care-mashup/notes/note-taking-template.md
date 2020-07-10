@@ -8,11 +8,11 @@
 ## Intro 
 ## Warm-up Question
 
-**Moderator:** Can you tell me a little about your service history?
+**Moderator:** Can you tell me a little about your service history?<br>
 **Participant:** 
-**Moderator:** Have you visited the VA for healthcare in the past year?
+**Moderator:** Have you visited the VA for healthcare in the past year?<br>
 **Participant:** 
-    **Moderator:** - If yes, can you tell me about that?
+    **Moderator:** - If yes, can you tell me about that?<br>
 **Participant:** 
 
 
@@ -22,15 +22,15 @@
 ###### PROTOTYPE: VA.gov main
 #### Question:
 **Moderator:** - Are you familiar with VA.gov's location finder? <br>
-**Participant:** 
+**Participant:** <br>
 
 ###### PROTOTYPE: User clicks on 'Find a VA Location'
 #### Questions:
-**Moderator:** Have you used ever used this page? 
+**Moderator:** Have you used ever used this page? <br>
 **Participant:** 
-    - **Moderator:** If yes, how long ago, what were you doing? What was that experience like?
+    - **Moderator:** If yes, how long ago, what were you doing? What was that experience like?<br>
 **Participant:** 
-    - **Moderator:** If no, how do you go about finding information about VA locations?
+    - **Moderator:** If no, how do you go about finding information about VA locations?<br>
 **Participant:** 
 
 ### Scenario
@@ -41,16 +41,16 @@
 #### Directions: Moderator has user performs search
 #### Questions:
 
-- **Moderator:** Talk me through how you would go about finding care on this page.
+- **Moderator:** Talk me through how you would go about finding care on this page.<br>
 **Participant:** 
-    - **Moderator:** Go ahead and try to do that now? 
+    - **Moderator:** Go ahead and try to do that now? <br>
 **Participant:** 
     
-- **Moderator:** What can you tell me about the 'service type' options?
+- **Moderator:** What can you tell me about the 'service type' options?<br>
+**Participant:** <br>
+    - **Moderator:** What does 'Community urgent care providers (in VA's network)' mean to you?<br>
 **Participant:** 
-    - **Moderator:** What does 'Community urgent care providers (in VA's network)' mean to you?
-**Participant:** 
-    - **Moderator:** What does 'VA urgent care' mean to you?
+    - **Moderator:** What does 'VA urgent care' mean to you?<br>
 **Participant:** 
     - **Moderator:** Does this distinction matter to you?
 **Participant:** 
