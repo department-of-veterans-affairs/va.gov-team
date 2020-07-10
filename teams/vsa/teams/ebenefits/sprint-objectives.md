@@ -8,20 +8,46 @@
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 25 (7/1 - 7/14)
+```diff
+- 53 points over 14 issues
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE: Wrap up smaller edits on punch list, target Staging Review  
+- BE: Finalize submission, target Staging Review  
+- Product: Iterate on call center documentation  
+- Team: Prepare UAT plan  
+
+## 2. (STRETCH) POA: Design Iteration
+- Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed  
+
+## 3. View My Payments: Initial Dev Activities and Ongoing Design Activities  
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed  
+- FE: (Stretch) Set up routes, mock data, scaffold app page, other setup activities  
+- BE: (Stretch) Rough in View Payments service, return staging data to FE  
+
+## 4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed  
+- Design: Design and prototype "eligibility wizard" widgets  
+- FE: (Stretch) Scaffold eligibility wizards and forms based on current designs/ understanding  
+
 ## Sprint 24 (6/17 - 6/30)
 ```diff
-- 51 points over 19 issues
+- 54 points over 19 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
 - FE and BE final launch activities, target Staging Review
 - Product: Iterate on call center documentation (sync text changes into existing documentation)
 - Team: Prepare UAT plan
+
 ## 2. POA: Design Iteration
 - Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+
 ## 3. VRE (CH31) and PCPG (CH36): Design Iteration
 - Design: Iterate on product designs and schedule further Collab Cycle activities as needed
 - Design: Design and prototype "eligibility wizard" widgets
 - FE: Scaffold eligibility wizards and forms based on current designs/ understanding
+
 ## 4. View My Payments: Initial Dev Activities
 - FE: Set up routes, mock data, scaffold app page, other setup activities
 - BE: (Stretch Goal) Rough in View Payments service, return staging data to FE

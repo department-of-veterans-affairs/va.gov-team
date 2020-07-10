@@ -1,5 +1,7 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
+Last Updated July 6, 2020
+
 ## Communications
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0
@@ -48,9 +50,11 @@ There are four main problems with the Profile/Account 1.0 approach:
 
 1. **Confusion about the difference between Profile/Account** — We have observed that the difference between Profile and Account is either not as important or not as clear to VA.gov users as we thought it was. 
   - During [user testing for the direct deposit feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-summary.md), participants were split as to whether this functionality belonged in the Profile or made more sense on the Account page. 
-  - Through a card sort, we observed that participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section.
+  - [Through a card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/card-sort/research-summary.md#takeaways), we observed that participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section.
+  - We can see in analytics that people are not finding what they expect to find on the account page. [The second most common action for people on the account page is to go to the profile](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200705&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Faccount~2F,analytics.eventCategory:Interactions/).
 2. **Scaling** — Having separate Profile/Account pages has made it difficult to figure out where new features should live since there are often arguments for them to live in both sections.
-3. **Wayfinding** — We could do a better job of guiding users to the Profile/Account from outside those pages. 
+3. **Wayfinding/guidance** — People aren't sure of where to find the direct deposit feature. We see people split between looking for it in the profile page and on the account page.
+  - "Direct deposit" is [third-most searched term on VA.gov so far this year](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200705/). It is even searched for [from the profile](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200705&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2F/), where it lives, and [from the account page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200705&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Faccount~2F/), which further supports our user testing observations that some people expect to find it there.
 4. **Visual design** — We have not effectively employed [the design system](https://design.va.gov/). The Profile and Account pages are designed like content pages, so adding new content has made these pages extremely lenghty and hard to scan.
 
 
@@ -126,75 +130,74 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## OKRs & KPIs
 
-### Profile overall
+WIP
 
-**Objective**: Make it easier for people to find profile-related tools and complete profile-related tasks
+https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
 
-**Key result**: Decreased time to find and update contact information
-- Bet 1: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 2: Improve the information architecture
-- Potential KPIs
-  - Less time on the profile, *plus* same amount or more of successful contact information submissions
+### Objective 
 
-**Key result**: Decreased time to find and update direct deposit information
-- Bet 1: Create side-nav menu
-- Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 3: Improve the information architecture
-- Potential KPIs
-  - Clicks on the "Direct deposit" link in the navigation *plus* the same amount or more of direct deposit submissions
-  - Less time on the profile, *plus* same amount or more of successful direct deposit submissions 
+**People can more easily find and update their personal and security information.**
+- "An easy way to keep my info at the VA current"  
 
-**Key result**: Decreased time to find and interact with account settings
-- Bet 1: Create side-nav menu
-- Bet 2: Update the design patterns as needed to better fit design needs for authenticated tools
-- Bet 3: Improve the information architecture
-- Potential KPIs
-  - Less time on the profile, *plus* same amount or more of clicks on links to verify identity/set up 2FA/reset password 
-  - Clicks on the "Account settings" link in the navigation *plus* the same amount or more of clicks to verify identity/set up 2FA/reset password
+### Key results - Findability
 
-**Key result**: Increase overall satisfaction with the profile experience
-- Bet 1: Combine Profile and Account pages
-- Bet 2: Update IA and visual design of the profile
-- KPI: Foresee data (need link)
+#### Reduce the amount of searches for direct deposit by 20%.
 
-**Key result**: Increase scalability of Profile
-- Bet 1: Add side-nav menu
-- Bet 2: Updated design system
-  - KPI: Increase in number of features included in profile
+In 6 months, of ~13K searches for "direct deposit", ~2K are initiated from the account page, and ~1400 are initiated from the profile itself, even though the feature lives on this page. We can expect those search numbers to go down now that we are consolidating Profile and Account and have "Direct deposit" in the profile side nav.
 
-**Key result**: Reducing the number of places a user has to go to update their information
-  - Bet 1: Combining profile and account pages
-  - Bet 2: Improved IA
-    - KPI: Decreased count of places a user has to go to update information
+*Reports*
 
-We need to figure out how to measure the following:
+- [Search terms initiated from the profile 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Fprofile~2F/)
+- [Search terms initiated from the account page 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2Faccount~2F/)
 
-1. Reduced time finding a task (eg. reduced time finding the direct deposit tool or updating contact information).
-2. Reduced abandoment of the profile/account (which we can maybe assume meant people didn't find what they were looking for).
-3. Insuring all tasks have path reports that include start to finish flows
-4. Insuring all tasks have detailed error reports (what errors are users receiving and what do they do next)
+*KPI*
+- Search terms initiated from the profile
 
-Other metrics are qualitative:
+*Bets*
+- Combining profile and account
+- Profile side nav
+- Redesigned visual styles for easier scanning
 
-1. How do these new designs compare and perform in user testing? Can people find information quickly and do they report pages are easy to scan and information is easy to update.
+#### (WIP) Page path for users who update direct deposit should be more direct.
 
-### Tool-specific OKRs & KPIs
+My hypothesis is that users who update direct deposit take an indirect path to get there because some of them end up on the account page before going to the profile (or searching). By combining the profile and account, we should see more direct paths to direct deposit. (Note: need to work with the analytics team to validate this hypothesis and establish this baseline metric).
 
-#### Contact Information
+### Key results — Engagement
 
-- [Contact information product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/README.md)
-- [GA metrics for successful contact information submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
-- [GA metrics for failed contact information submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20200305&_u.date01=20200311&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
+#### Reduce time on the profile by 10% (about 20 seconds based on first six months of 2020).
 
-#### Address validation
+Note: This will need to consider the new URL structure.
 
-- [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md#okrs--kpis)
-- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+With improvements like the new side nav and tightened up visual design (which should both result in less scrolling), we think that users will need to spend less time in the profile overall to do the tasks they came to do. However, should we see a reduction in time spent on the profile, we should make sure we do not see markedly fewer interactions with sections like Contact information and Direct deposit. 
 
-#### Direct deposit
+*Report*
 
-- [OKRs & KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md#okrs--kpis)
-- [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+- [Profile usage report 1.1.20 - 6.30.20](https://analytics.google.com/analytics/web/?authuser=0#/report/content-drilldown/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200630&_.useg=builtin1,useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:www.va.gov~2F,analytics.pagePathLevel2:~2Fprofile~2F)
+
+*KPI*
+- Time on profile
+
+*Bets*
+- Profile side nav
+- Redesigned visual styles for easier scanning
+
+#### Increase average user satisfaction (ForeSee score) from ~2.4 to 3.4
+
+Currently, the profile satisfaction score is pretty low. My hypothesis is that people give it a bad rating if they get there and can't find what they are looking for. With the combination of combining profile and account, updating the design, and adding a side nav, we are hopeful we can raise the average Foresee rating by about a point. We think we could raise this score even higher with the addition of features users may expect to see in the profile (eg. DD214).
+
+*Report*
+
+- [Foresee data from 3.17.20 (when ForeSee was added to the profile) to 6.30.20](https://dsva.slack.com/archives/C909ZG2BB/p1593694606363000?thread_ts=1593637959.362000&cid=C909ZG2BB)
+
+*KPIs*
+- Foresee data
+
+*Bets*
+- Combining profile and account
+- Profile side nav
+- Redesigned visual styles for easier scanning
+
+#### (Maybe)(Establish baseline metrics for people who interact with the side nav and then update contact info or direct deposit?)
 
 --- 
 
@@ -203,7 +206,7 @@ Other metrics are qualitative:
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
-- Target launch date is July 15th, 2020
+- Target launch date is September 1, 2020
 - We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
 
 ---

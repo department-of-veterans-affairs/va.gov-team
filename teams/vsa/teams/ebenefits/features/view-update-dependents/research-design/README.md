@@ -9,6 +9,8 @@
 
 [UI Review Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0420.md)
 
+[Pre-launch Add Dependents/686 Punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/text-revisions/686-punch-list-0720.md)
+
 ---
 
 #### View Dependents

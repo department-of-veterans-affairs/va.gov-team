@@ -1,5 +1,7 @@
 # Contact Information Product Outline
 
+Last Updated July 6, 2020
+
 ## POCs
 - GitHub Label: Profile
 - Slack channel: #vsa-authd-exp; #va-profile
@@ -101,11 +103,68 @@ Right now, VA Profile only integrates with some systems at the VA. Veterans stil
 
 ## OKRs & KPIs
 
-Original OKRs & KPIs for 2018 redesign were not documented. For the latest OKRs & KPIs for profile 2.0, [go here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account#okrs--kpis).
+### GA dashboards
 
-### [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
-### [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
-### [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+- [GA for contact submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-transaction/)
+- [GA for contact submission failures](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_r.drilldown=analytics.eventLabel:profile-edit-failure&explorer-graphOptions.selected=analytics.nthDay/)
+- [GA dashboard for address validation](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/arWBC7_-SkK3WHQuJQHQoQ/a50123418w177519031p176188361/)
+
+### Objective
+
+**People can easily verify what  contact information the VA has on file for them and update it as necessary so that they receive all correspondence with the VA.**
+
+"An easy way to keep my info current at the VA" 
+
+### Key results – Engagement
+
+These are just average metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
+
+- Number of mailing addresses updates should be about 5K per week.
+- Number of home addresses updates should be about 5K per week.
+- Number of mobile phone numbers updates should be about 2K per week.
+- Number of email addresses updates should be about 2K per week.
+
+*KPI*
+- Number of users who update their addresses/phone numbers/email addresses.
+
+*Bets*
+- Feature contact information on the first page of the profile.
+- Allow easy editing and updating of information.
+- Integrate with VA Profile so that contact info updates sync with multiple backends at the VA.
+
+### Key results - System performance
+
+These are just average metrics since we did not have KRs documented for the original 2018 launch or the VA Profile (formerly Vet 360) integration.
+
+- Rate of successful address submissions should be 97% or above.
+- Rate of successful phone number submissions should be 97% or above.
+- Rate of successful email address submissions should be 97% or above.
+
+*KPIs*
+- Number of successful address/phone/email submissions.
+- Number of errors for updating addresses/phone/email.
+
+*Bets*
+- Integrate with VA Profile so that contact info updates sync with multiple backends at the VA.
+- Add address validation to the mailing address and home address fields.
+
+### Key results - Address validation
+
+These are the KRs from the address validation project, which are also documented on the [address validation outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation#okrs--kpis).
+
+- Rate of mailing address failures should drop from ~17% to ~10%. **Goal met**
+- Rate of home address failures should drop from 10% to 5%. **Goal met**
+- For address suggestions, rate of users choosing the suggested address should be 95% or above. **Goal met**
+
+*KPI*
+- Number of successful mailing/home address submissions.
+- Number of errors for updating mailing/home addresses.
+- Number of times address validation is needed.
+- Number of times address is suggested.
+- Number of times suggested address is used.
+
+*Bet*
+- Add address validation to the mailing address and home address fields.
 
 ---
 

@@ -5,12 +5,13 @@ This work happened in June 2020 in order to understand what sort of statuses deb
 ## High-level debt "statuses"
 **NOTE**: This may not be an exhaustive list and must be confirmed with the DMC. Points under each of the statuses often have multiple diary codes related to them.
 
-- **Debt is being communicated** (Due process letters)
+- **Debt is in due process** (Due process letters)
   -   Demand letters [100, 101, 102, 117]
   -   CRA referral notification [122]
   -   Treasury Offset Program (TOP) referral notice [123]
 
 - **Debt collection is on hold** (Holding status)
+  -   **NOTE:** Potentially split this up into 'Debt collection is on hold pending VA action' vs. 'Debt collection is on hold pending Veteran action' - the later would be used to present Veterans with a Next Step. 
   -   School dispute
   -   Bad address
   -   Deployed Vet
@@ -32,6 +33,7 @@ This work happened in June 2020 in order to understand what sort of statuses deb
   -   Late or missed payment per agreement
   -   Debt returned from CS / TOP
   -   Debtor death
+  -   Misc (Potential unlabelled hold status for complex or sensitive statuses) - would read as, "This debt is on hold. For more information, contact the DMC..." or similar.
 
 - **Debt is being repaid to the VA** (Payment status)
   -   Payment plan agreement (periodic or scheduled)

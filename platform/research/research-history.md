@@ -14,6 +14,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### June 2020
 
+#### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
+*GovernmentCIO, BAM 1. Lead researcher: Christian Valla
+
+-12 participants
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
+
+
 #### June 10-15: Facility Locator - Operating Status Study
 *Ad Hoc: VSA Facilities, Leyda Hughes, Aricka Lewis*
 
@@ -45,7 +53,18 @@ This does not include research for Appeals projects, which is stored in differen
 
 **Keywords**: personalization, dashboard, notifications, alerts, co-design, collaborative design, participatory design, generative research
  
+#### May 06: Comparative analysis. Status tracking
+*BaM 1, Lead Researcher: Christian Valla*
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability)
+
 ### April 2020
+
+#### April 27: Previous Research Review: Claim Status Tool.
+*BaM 1, Lead Researcher: Christian Valla*
+
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/April-2020-dicovery-concept-usability)
+
 #### April 20-30: View my representative (POA)/ View payment history** (H4 Level)
 *eBenefits, Nick Wygonik*
 

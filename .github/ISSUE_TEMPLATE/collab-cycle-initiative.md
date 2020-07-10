@@ -9,20 +9,20 @@ assignees: ''
 
 
 ## Product Outline
-[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+[Link to be added](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
 ## Plan
-- [ ] Define/Planning Kickoff-Intent 
-- [ ] Define Design intent 
-- [ ] Discover Usability Testing Prep 
-- [ ] Discover Research Plan Review 
-- [ ]  Discover IA Request  
-- [ ] Discover Analytics Request 
-- [ ] Build Contact Center Review  
-- [ ] Build Privacy/Security Review 
-- [ ] Build Staging Review  
-- [ ] Validate Post-launch checkin 
-- [ ] Validate/Launch Full A11y Review
+- [ ] **[Define] Kickoff-Intent** 
+- [ ] **[Define] Design intent** 
+- [ ] **[Discover] Usability Testing Prep**
+- [ ] **[Discover] Research Plan Review** 
+- [ ]  **[Discover] IA Request**  
+- [ ] **[Discover] Analytics Request** 
+- [ ] **[Build] Contact Center Review**  
+- [ ] **[Build] Privacy/Security Review** 
+- [ ] **[Build] Staging Review**  
+- [ ] **[Validate] Post-launch checkin** 
+- [ ] **[Validate] Launch Full A11y Review**
 
 ## Acceptance Criteria
 - Determine what's necessary/what's not and the associated timeline

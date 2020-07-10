@@ -36,54 +36,53 @@ Veterans use the Facility Locator as the single source of truth on VA.gov to fin
 - As a Veteran using the Facility Locator, I need a list of results to guide my selection so that I can visit the most appropriate location. 
 - As a Veteran using the Facility Locator, I want to view results relevant to my location so that I can visit a convenient location. 
 
- 
-### Project Rationale
+ ### Project Rationale
 _Why should this project be a priority?_ 
-- The current implementation has significant latency, particularly for community care searches
+- The current implementation has significant latency, particularly for community care searches. 
 - Search performance is impacted by the number of results returned and the search parameters/bounding box. These factors currently have default settings which have no clear business rationale and may not be aligned with user expectations. 
 - User expectations may depend on location (urban vs rural) and/or type of facility searched. 
 - Current functionality for FL is to query until results are found. This can lead to extended time to return results, an incorrect null search result and a frustrating user experience.
+- It is difficult to optimize performance because the Facilities team does not have a clear line of sight end to end for troubleshooting and monitoring. 
+- Parameters sent to Mapbox can be misunderstood, causing a return of results which are technically accurate but not aligned with user input. 
 
 **Stakeholder/Business drivers**
 - Time to search results is significantly longer than the standard in the private sector, particularly for community care searches. 
-The Office of Community Care has been dissatisfied with the usability and performance of the community care implementation. 
+- The Office of Community Care has been dissatisfied with the usability and performance of the community care implementation. 
 - Other business owners (NCA, VHA) have expressed their concern over latency and usability. 
 
-**Findings from research conducted March 2019**
-TBD 
+**Findings from research conducted March 2020**
+[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
+- The expected number of search results varies based on geographic location.
+- The most likely use-case for the Facility Locator is when a person is traveling or researching an unfamiliar area.
+- Participants did not refer to the Facility Locator when seeking help for a specific issue.
+- The map is a secondary source for users to find a location.
+- Participants are more likely to look for VA Medical Centers than non-VA locations.
 
 ### Project Scope and Scale
 _What's in and what's out?_
-- Setting default for number of search results
-- Setting default for map parameters
-- Search parameters determined through user interaction with map
-- Enable "no results found" for search
+
+**Q32020 Iniatives related to this work**
+- Map improvements, such as implementation of geographic search suggestions 
+- Forward Proxy monitoring
 
 ### Not currently in scope
 - Major changes to search UX
 
 ### Measuring Success
-_How will we know if we are successful?_
-
-### KPIs
-- Time to return results
-- User satisfaction (Foresee)
+**Q32020 OKRs related to this work**
+- Increase in Veteran 5 star user ratings by x%
+- Reduction in the time to render results from PPMS by x%. 
 
 #### Baseline KPIs
-- GA / Domo Link - ?
-
-### OKRs
-
-**Objective 2: Enhance the search process**
-KEY RESULT: Time for delivery of search results will improve by (TBD) by (date)
-KEY RESULT: User satisfaction ratings for the Facility Locator search page will increase to (TBD) by (date).  
+- Increase in Veteran 5 star user ratings by x%
+- Reduction in the time to render results from PPMS by x%
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
 
 **Team/Internal dependencies**
 
-- Competing priorities and front end resource constraints 
+- Competing priorities and engineer resource constraints 
 
 **Partner dependencies**
 
@@ -114,11 +113,14 @@ _Are other features dependent on this one? What do we need from partners? What d
 
 #### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
+Alternative technology for the map feature
+- Google maps is an option but cost-prohibitive
+
 
 
 ### Definition of Done
 [ ] Changes to search results and map interaction are aligned with user expectations
-[ ] Search performance is improved through new default settings for bounding box and number of search results
+[ ] Search performance is improved 
 [ ] Search results are relevant to urban and rural Veterans, regardless of facility or service type
 
 ### Key Links

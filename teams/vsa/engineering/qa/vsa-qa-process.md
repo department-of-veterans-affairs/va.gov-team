@@ -1,8 +1,8 @@
 # VSA-QA Process
 
-\[Based on [template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md) by VSP Product Support team Sr. QA Specialist Peter Hill]
+VSA QA Engineer: Tze-chiu Lei \[call me "Zay"] (GitHub @tlei123)(Slack @Tze-chiu Lei)
 
-This VSA-QA Process is currently a subset of the above template, and will expand as QA staffing increases.
+This VSA-QA Process is currently a **subset** of [VSP's template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md), and should expand as QA staffing increases.
 
 ## Process Flow
 
@@ -18,7 +18,7 @@ The required steps of the VSA-QA Process are as follows:
             - Link ticket to separate Use Cases doc \[[use this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)].
 
 1. **Product Team & QA collaborate to create a test plan** that ensures coverage of the targeted changes.
-    - QA creates a Test Plan and Test Cases in [TestRail online test-case management system](https://dsvavsp.testrail.io/) (TCMS), based on info provided in Test Plan ticket.  \[Product-Managers should have a Product-Team TestRail account -- request one from Peter Hill if necessary.]
+    - QA \[or Product Team if/when QA Engineer is not available for for urgent reviews] creates a Test Plan and Test Cases in [TestRail online test-case management system](https://dsvavsp.testrail.io/) (TCMS), based on info provided in Test Plan ticket.  \[Product-Managers should have a Product-Team TestRail account -- request one from Peter Hill if necessary.]. See [VSP's TestRail docs/guideliness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/testrail/getting-started.md) as needed.
 
 1. **QA creates test cases**.  Product-Team Designers/Developers & QA should start collaboration early, so as to ensure all testable scenarios have matching test cases. 
     - We recommend that you create and execute manual test cases for core user journeys in your product.

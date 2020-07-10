@@ -1,5 +1,7 @@
 # Profile Overview
 
+Last Updated July 6, 2020
+
 ## POCs
 - GitHub Label: Profile
 - Slack channel: #vsa-authd-exp; #va-profile
@@ -56,7 +58,7 @@ With the [2020 Profile 2.0 redesign](https://github.com/department-of-veterans-a
 
 ## Products/Projects
 
-The profile is a section of VA.gov that houses multiple products/features. We've worked on many of these features separately as part of different projects; the original 2018 creation of the profile and the 2020 profile 2.0 redesign efforts are the only "whole" profile efforts. Here's a list of different products that live within the profile and projects we've worked on:
+The profile is a section of VA.gov that houses multiple products/features. Below is a list of different profile-related projects/products that we've worked on. Please use these outlines to get a sense for the individual details for each effort, including OKRs & KPIs:
 
 |Product/Project| Outline|
 |----|----|

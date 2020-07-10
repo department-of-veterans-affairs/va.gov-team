@@ -43,7 +43,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [x] Change chapter title to: "What do you want to do?
 - [x] Add instructional text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
 - [x] Change checkbox text per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
-- [ ] Change checkbox order per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
+- [x] Change checkbox order per [mocks](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/)
 
 ### Veteran's info section
 
@@ -58,24 +58,24 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [X] Change "Your spouse’s first name" to "Spouse's first name"
 - [x] Change "Your spouse’s middle name" to "Spouse's middle name"
 - [x] Change "Your spouse’s last name" to "Spouse's last name"
-- [ ] Bold "or" in labels under the "Where were you married?" section
+- [x] Bold "or" in labels under the "Where were you married?" section
 - [x] In the "What are some examples of additional evidence?" accordion, remove periods at ends of bullet points
 - [x] Use base-checkbox address block for separated spouse's address
 - [x] Checkbox to say "They live on a United States military base outside of the U.S."
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
-- [ ] Bold "your spouse" in the label, "Was your spouse married before?"
+- [x] Bold "your spouse" in the label, "Was your spouse married before?"
 - [x] Change header in list loop to "Next former spouse"
 - [x] Change button text to: "Add another former spouse"
 - [x] Change "Where did this marriage take place?" to "Place of marriage to former spouse"
-- [ ] Bold "or" in labels under the "Place of marriage to former spouse" section
+- [x] Bold "or" in labels under the "Place of marriage to former spouse" section
 - [x] Change "Where did this marriage end?" to "Place marriage with former spouse ended"
-- [ ] Bold "or" in labels under the "Place marriage with former spouse ended"
-- [ ] Bold "you" in "Were you married before?"
+- [x] Bold "or" in labels under the "Place marriage with former spouse ended"
+- [x] Bold "you" in "Were you married before?"
 
 ### Veteran marriage section
 
-- [ ] All of the same list/loop revisions above
+- [x] All of the same list/loop revisions above, if applicable
 
 
 ### Add child section
@@ -85,7 +85,7 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
   - [x] Field also took more than 9 digits
 - [x] Change header in list loop to "Next child" EDIT: No Longer doing this per conversation with Jim.
 - [x] Child's name header seems to be missing after child info screen
-- [ ] Bold "or" in labels under the "Child's place of birth" section
+- [x] Bold "or" in labels under the "Child's place of birth" section
 - [x] Use base-checkbox address block for "Person your child lives with" address
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
@@ -97,11 +97,11 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 - [ ] Confirm size of section headers (look small)
 - [x] Change "Street address" to just "Street" throughout
 - [x] Change "Zip code" to "Postal code" throughout
-- [ ] Bold "or" in "Kind of training or educational program"
+- [x] Bold "or" in "Kind of training or educational program"
 
 ### Remove stepchild section
 
-- [ ] Deselect radio-button for stepchild expenses question; add "Required"
+- [x] Deselect radio-button for stepchild expenses question; add "Required"
 - [x] Use base-checkbox address block for "Who does this stepchild live with?" address
 - [x] Change "Street address" to just "Street"
 - [x] Change "Zip code" to "Postal code"
@@ -110,13 +110,13 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 - [x] Change add button to: "Report another deceased dependent EDIT: No longer doing this per conversation with Jim.
 - [x] Add header to list/loop gray box: "Next dependent" EDIT: No longer doing this per conversation with Jim.
-- [ ] Bold "or" in labels under the "Place of death" section
+- [x] Bold "or" in labels under the "Place of death" section
 - [x] Change City (or APO/FPO/DPO) to: "City **or** county"
 
 ### Report divorce section
 
 - [x] Remove Dependent death section
-- [ ] Bold "or" in labels under the "Where did this marriage end?" section
+- [x] Bold "or" in labels under the "Where did this marriage end?" section
 
 ### Child marriage section
 
@@ -135,11 +135,11 @@ Equal to VA Form 21-674 (Request for Approval of School Attendance)"
 
 ### Form review page
 
-- [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
+- [x] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
 - [x] When 686c Options gets expanded, should the indicator say something else other than True?  Like "Selected" or something?
 
 ### Submission Failure
-- [ ] Blue "Go Back to VA.gov" button should be "Go back to VA.gov"
+- ~~Blue "Go Back to VA.gov" button should be "Go back to VA.gov"~~ edit: This is a platform level button and would update all forms on the platform. (Not necessarily a bad thing?)
 
 ### Confirmation page
 

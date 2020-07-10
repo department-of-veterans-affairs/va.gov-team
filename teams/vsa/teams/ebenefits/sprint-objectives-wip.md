@@ -1,6 +1,26 @@
 # Sprint Objectives - WIP  
 
 ## 1. Prepare "Dependency Claims" for launch
+FE: Wrap up smaller edits on punch list, target Staging Review
+BE: Finalize submission, target Staging Review
+Product: Iterate on call center documentation
+Team: Prepare UAT plan
+## 2. (STRETCH) POA: Design Iteration
+Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+## 3. View My Payments: Initial Dev Activities and Ongoing Design Activities
+Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+FE: (Stretch) Set up routes, mock data, scaffold app page, other setup activities
+BE: (Stretch) Rough in View Payments service, return staging data to FE
+## 4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
+Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+Design: Design and prototype "eligibility wizard" widgets
+FE: (Stretch) Scaffold eligibility wizards and forms based on current designs/ understanding
+
+=======================
+
+old
+
+## 1. Prepare "Dependency Claims" for launch
 - FE: Being moving through end-to-end tests, wrap up any final critical changes, schedule further Collab Cycle activities as needed
 - BE: Complete PDF creation, establish procedures for VBMS connection
 - Design and Research: Schedule and conduct usability sessions, if possible
@@ -12,11 +32,6 @@
 ## 4. View My Payments: Initial Dev Activities
 - FE: Set up routes, mock data, scaffold app page, other setup activities
 - BE: Review View Payments API and give design/ FE feedback (e.g. are all fields in design present in BGS service?)(1 hour)
-
-=======================
-
-old
-
 
 
 

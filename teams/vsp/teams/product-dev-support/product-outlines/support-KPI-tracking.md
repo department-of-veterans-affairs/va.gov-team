@@ -5,9 +5,10 @@
 Currently, we don't have a good way to categorize or gather data about support requests. We've started using a [google sheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit?pli=1#gid=1793382735) to capture this data to help inform future decisions around team's capacity and roadmaps. 
 
 ## Problem Statement
-Without knowing where VSP team's time is spent on support work, we don't know areas we could focus on to make improvements or write documentation that allow VFS teams to figure out their own answers or get through work without needing assistance from VSP. The less support work we do, the more time we have to work on enhancements to platform. 
+Without better understanding how VSP teams' time is spent on customer support work, we don't know what areas we could focus on to make improvements - such as writing documentation - that allow VFS teams to figure out their own answers or get unblocked without needing assistance from VSP.
 
-If we had a standardized way we collected support incident data and all teams input every support request through that process, we could use that to identify roadmap items and documentation needs that would give VFS teams the tools to complete work without engaging VSP. 
+If we had a standardized way to log customer support requests and all customer-facing VSP teams logged every support request using that process, we could use that data to identify roadmap initiatives that would give VFS teams the documentation and tools they need to successfully do their work without engaging with VSP.
+
 
 ## Desired User Outcomes
 - The process for inputting a support request is easy enough that VSP or VFS folks do it 95% of the time
@@ -33,14 +34,16 @@ If we had a standardized way we collected support incident data and all teams in
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
 ### KPIs
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
+- % of customer support requests that are logged with standardized labels and fields
+- % of responses to customer support requests that are automated
+- time it takes to compile customer support reports
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### OKRs
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+- VSP Q3 2020 Objective: All Key Performance Indicators (KPIs) for VSP teams are measured and shared openly across VSP teams and with VA/DEPO.
+- KR: 100% VSP KPIs are published on a public dashboard				
 
 ---
 

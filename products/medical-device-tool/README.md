@@ -17,6 +17,7 @@
 - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/design)
 - [IA Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md)
+- [HMW Exercise](https://app.mural.co/t/vsa8243/m/vsa8243/1575303819084/05a27770ef566dc93f36782ff9a2f5f517e9f2d6)
 
 ## Team
 

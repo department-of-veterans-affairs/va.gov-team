@@ -9,25 +9,17 @@
 ### Executive Summary:
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows. 
 
-### North Star: _Placeholder - still drafting during Discovery Sprint_
 
-- Increase availability of self-service tools
-	- At a minimum, we will 
-    
-- Decrease time to outcomes
-    	
-	- At a minimum, we will 
+### Team Mission Statement:
 
--   Maximize satisfaction, reliability, availability, & security
-    	
-	-   At a minimum, we will 
+### North Star: _Placeholder - still drafting during Discovery Sprint
+[Still drafting during Discovery Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
 
 
 ### Product Suite (if applicable): 
 Healthcare Experience - Veteran (person/consumer of health) 
 
-### Team Mission Statement:
-_Still drafting during Discovery Sprint_
+
 
 ### Product Portfolio:
  1. Healthecare - Questionnaires/Intake forms
@@ -45,7 +37,7 @@ Healthcare Experience Team | name ⋅  email ⋅ slack ⋅  role
 <img src="https://lh4.googleusercontent.com/YkTnWk5XfEqpc813iqNt1zF0MfY6bWRzKVy5OJ91mM8XkDyCY0VuaCRArqH1i015KIOIzWQXCxUvkjymvRjN6Kd4N7EWGl1e2FfwJWkIvXEEFsE1b5Ijk2Z-pLd62d8vD02Gp_cQ" width="75" align="center">  [Lauren Alexander](mailto:lauren.alexander@va.gov)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U772MC9BQ)  ⋅  DEPO, Product Owner | <img src="https://lh3.googleusercontent.com/st-rQsCQ5LXhoL_JmdoVzPq1QXJhcaELNIg2dp5DoCrrDuNFJ-q76nbzLDqlg7vcEN-N08jCCOrj9ogVdKz-5pZPc6Vb3vHRLqLKPEZIgCxJZ6M9G_226hkiMDNEM0OgBctmHWU0" width="75" align="center"> [Stephen Barrs](mailto:stephen.barrs@va.gov) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/ULY2TEZUK)  ⋅ DEPO, Engineering owner
 <img src="https://lh4.googleusercontent.com/1HBMc99-fsL-KpHdwWYAnFhJG4Z80lsOlqEiiqN6dFEDKBqNax34Z3ZaP_V_bK3b1ZXzsEXDDj6QVz2grsAfUFxgIT3wS7-7eZ-ojrxEXoRgjvxxsalbhWanQ0JBVGklgp77kduO" width="75" align="center">  [Mickin Sahni](mailto:mickin@adhocteam.us)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UM3N189N1)  ⋅ VSA, Product Lead     | <img src="https://lh3.googleusercontent.com/TjXXaMnd3Gpjp7AShuit4-wyhZpUGGRaAzp_qnAikGujhghf4-hYLEQiSMsGYPsq91E-ktzwb-km5t6eKB2iDCGqN4IFQToWbjiZr5H5f973xAmi_LViPV12g2z03wAO5NkZha6y" width="75" align="center">  [Amanda Buckley](mailto:abuckley@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U014RV5S6KS) ⋅ VSA, Sr. Product Manager   
 <img src="https://lh3.googleusercontent.com/8nQglVLUIv9kdIKlmEpfQv93Wd0Z_-iVeN7-UxbmhLUkk-bHp9CP12WdGQ1tnQcehuSImu1gnMmUFq-gVuJb3I7AhYLaXNA4Y34-Ki1DeXv7JW7d3f-C_uVLuR3OQiYXGx2I6jo2" width="75" align="center">  [Mark Dewey](mailto:mdewey@governmentcio.com)  ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/U013MC4ULCX)⋅  VSA, Front End Engineer   | <img src="https://lh4.googleusercontent.com/4S1EMc9Z3d0iuPHeazuS-3Y4WzOww35qSrqHyuzbkmiv3cny1aLbh7EkSa25LPWLgnRbbm1t77XgdDstDHzEmSDLoLcmxJISHduCtrfUBaEytr9h2rrE3A6EJn57iYgkN66JrK7e" width="75" align="center">  [Lance Sanchez](mailto:osanchez@governmentcio.com) ⋅ [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UQ2PHQRPU) ⋅ VSA, Back End Engineer    
-<img src="https://lh6.googleusercontent.com/4i49We4E-9pjbnh75awXGfKVddcI-bmvNhkrswTLDf_m3iTIhAC2F5hjlYpiME9HTpWWywEMkTfWnVGbqplTrPtEKt9EkowNVqDGlh1D40_mCzNvFEzOWXArOZuc7kjblwfGe1_D" width="75" align="center">  [Aricka Lewis](mailto:aricka@adhocteam.us) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UMECKSJ8K) ⋅ VSA, Designer/Researcher| VSA, BE Engineer (Temp) – Still hiring the full-time BE engineer
+<img src="https://lh6.googleusercontent.com/4i49We4E-9pjbnh75awXGfKVddcI-bmvNhkrswTLDf_m3iTIhAC2F5hjlYpiME9HTpWWywEMkTfWnVGbqplTrPtEKt9EkowNVqDGlh1D40_mCzNvFEzOWXArOZuc7kjblwfGe1_D" width="75" align="center">  [Aricka Lewis](mailto:aricka@adhocteam.us) ⋅  [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://dsva.slack.com/team/UMECKSJ8K) ⋅ VSA, Designer/Researcher| <img src="https://lh6.googleusercontent.com/UROXLPjzMJGBc7AbT95AQ3SfCCTR9LxWfyJNCs86rZBzXHDZ8CtIyM7ePds9sOI8WAcwdXZVReiy_RllwJdv6y-9uTjFZ25To7_5nqmvY0jVQ64W2YEgijNWyHuTCaEP4utH2Gdb" width="75" align="center"> [Laurence Guild](mailto:lguild@governmentcio.com)⋅   [<img src="https://lh5.googleusercontent.com/Lfc7aYAcpL3b_hWq-htwlAl41oVK5sWDC-anIj_j-jNQM-gasn6fNgjJAUszntj-EyZqsshMn70x3sr4h4_1H5A-UxDbroTFMAbHbJQ_NoqITHvgdlOCSNwgkEeIU8fJoo9A5cd_" width="25" align="center">](https://governmentcio-fed.slack.com/team/U017EPFUA5N) ⋅ VSA, BE Engineer 
 
 
 ---

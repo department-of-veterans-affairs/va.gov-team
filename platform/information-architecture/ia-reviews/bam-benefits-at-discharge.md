@@ -10,34 +10,54 @@
 **IA Completed Date:** 
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/10184
-
+**IA/Content Strategy Issue:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10896
 <hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
 **Approach:**
+- With the launch of BDD, all disability claims will be handled on va.gov and we will no longer need to link to eBenefits for any claim scenarios.
+- The static content for this application already exists on va.gov, IA and Public Websites team has reviewed existing content for changes/restructuring needed to best support the new claim scenario. This content currently exists as part of the "How to file a claim" page and child pages. 
+- The site map below shows the before and after of existing content pages and changes to the IA - some pages have been merged and some removed/retired
 
-- STATIC CONTENT FOR THIS APPLICATION ALREADY EXISTS, NEED TO WORK THROUGH CONTENT STRATEGY AND IA TO DETERMINE IF ANY CHANGES TO EXISTING CONTENT ARE NEEDED. LIKELY WE WILL NEED TO SIMPLIFY EXISTING CONTENT AND LOOK AT LABELING AND TERMINOLOGY USED. 
-- THE CLAIM FORM WILL BE PART OF THE EXISTING 526
+![image](https://user-images.githubusercontent.com/20994159/86930285-77a7d200-c0fc-11ea-8eee-8397525be67c.png)
 
-Page | URL | Breadcrumb
---- | --- | ---
+**Impacted Pages**
 
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+How to file a claim | /disability/how-to-file-claim | Home > Disability benefits > How to file a claim | Content changes only
+When to file | /disability/how-to-file-claim/when-to-file/ | n/a | Retire and redirect page
+Pre-discharge claim | CURRENT:<br> /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ <br> NEW:<br> /disability/how-to-file-claim/pre-discharge-claim/ | CURRENT:<br> Home > Disability benefits > How to file a claim > When to file > Pre-discharge claim <br> NEW:<br> Home > Disability benefits > How to file a claim > Pre-discharge claim | Content changes, URL change, breadcrumb change
+File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/  | n/a | Retire and redirect page
+FDC Walkthrough | https://www.benefits.va.gov/FDC/walkthrough.asp | n/a | Retire and redirect page
+FDC Checklist | https://www.benefits.va.gov/FDC/checklist.asp | n/a | Retire and redirect page
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
 
 <hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-- ENTRY POINTS ALREADY EXIST WITHIN THE DISABILITY HUB, SERVICE MEMBER HUB AND BEST BETS WITHIN SEARCH.  NEED TO REVIEW SEO DATA AND RESEARCH TO DETERMINE BEST LABELING AND KEYWORDS, AND ANY OTHER PLACEMENT OPTIONS.  OUR STANDARD IS TO AVOID USING "BRANDED" NAMES (I.E. BENEFITS DELIVERY AT DISCHARGE), BUT THIS WILL NEED TO BE REVIEWED. 
+- BDD application is integrated with the overall 526ez online form, so many entry points already exist, but content may been to be updated to reference that this capaility is now available on va.gov rather than eBenefits. 
+- No new entry points to be added, and all existing entry points remain in place. The only change is that users will be directed to va.gov rather than eBenefits.  
 
-Entry points to pre-discharge
+**Left-navigation changes**
+- The following pages will be retired and need to be removed from the Disability left nav
+  - When to file a claim
+  - File while overseas
+  - FDC Walkthrough (legacy page)
+  - FDC Checklist (legacy page)
+- The Pre-discharge page should be moved in the Disability left nav
+  - It currently lives as a child of the When to file page (Disability > How to file > When to file) 
+  - It should be moved up 1 level to a child of How to file page, and list as the first option above "Evidence needed"
+
+**Entry points to pre-discharge**
 Priority | Placement | Description
 --- | --- | ---
+Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) | How to file wizard will now link to va.gov application rather than eBenefits | This is an existing link to be updated, along with content updates as appropriate
+
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -46,9 +66,19 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- REDIRECTS WILL BE NEEDED FOR ANY URL CHANGES TO ENSURE OLD URLS ARE REDIRECTED TO THE NEW URLS.  
+- Redirects will be needed for all URL changes to ensure old URLs are redirected to the new URLs, as well as pages that are being retired.  This includes the following pages:
 
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+Current page | Current URL | New URL/Redirect to
+--- | ---
+When to file a claim | /disability/how-to-file-claim/when-to-file/ | /disability/how-to-file-claim/
+Pre-discharge claim | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ | /disability/how-to-file-claim/pre-discharge-claim/
+File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/ | /disability/how-to-file-claim/pre-discharge-claim/
+FDC Walkthrough (legacy page) |  https://www.benefits.va.gov/FDC/walkthrough.asp  | /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
+FDC Checklist (legacy page) | https://www.benefits.va.gov/FDC/checklist.asp | /disability/how-to-file-claim/evidence-needed/fully-developed-claims/
+
+- Please submit a request for the redirects using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+
+
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 

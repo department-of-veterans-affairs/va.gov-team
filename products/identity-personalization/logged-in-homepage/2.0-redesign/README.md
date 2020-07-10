@@ -27,9 +27,7 @@
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
-- [Solution Approach](#solution-approach)
-- [OKRs](#okrs)
-- [KPIs](#kpis)
+- [Objectives-OKRs-KPIs](#objectives-okrs-kpis)
 
 # Implementation Information
 - [Solution Narrative](#solution-narrative)
@@ -148,27 +146,54 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## OKRs
+## Objectives-OKRs-KPIs
 
-Objective: Create a usable/scalable landing pad for users (ie. logged-in homepage) where they can manage their tools/tasks in once place
+### **Objective**: (Adoption and Satisfaction) More people use the logged-in homepage because they feel like it is more personally relevant to them. 
 
-OKR: Increased use of online tools
-- Bet 1: Retire existing My VA dashboard
-- Bet 2: Create adaptable Logged-In homepage to accompany other user roles and permissions once VA.gov is able to support   them.
-- Bet 3: Create personalized experience where tools/tasks most important and relevant to users are on the dashboard.
+**OKR**: Increased the percent of users who visit the logged-in homepage by 10%
+- **KPI**: % of authenticated users who visit the LIH 
+- **KPI**: LIH bounce rate
 
-OKR: Increased satisfaction with logged-in homepage (Forsee data)
-- Bet 1: Elevate contextually relevant information
-- Bet 2: Alert Veterans to benefits they qualify for
-- Bet 3: Updating design patterns to better suite authenticated tools
+**OKR**: Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
+- **KPI**: % of authenticated users who visit the LIH 
+- **KPI**: LIH bounce rate
+
+**Bets**
+- **Bet**: "Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
+- **Bet**: Improved visual design for authenticated tools.
+- **Bet**: Retiring My VA (My VA traffic will now use homepage)."
  
-OKR: Improved/faster navigation to online tools
-- Bet 1: Provide personalized tasks/tools 
+### **Objective**: (Engagement) People can quickly complete personally-relevant tasks from the VA.gov homepage — including people who have never interacted with the VA before. 
 
-## KPIs
-“% (or #?) of authenticated users who completed at least 3 transactions/conversions against a self-service tool in a month”
+**OKR**: Increase % of applications completed from X to Y. (have to confirm we can calculate this)
+- **KPI**: % of authenticated users who visit the LIH 
+- **KPI**: LIH bounce rate
 
-### Metrics
+**OKR**: Increase # of appointments scheduled on VA.gov by X%.
+- **KPI**: # of appointments scheduled
+ 
+
+**OKR**: [Need claim status metric for success — maybe reduced calls to the call center since people come to VA.gov to check status regardless of action? Loop back with Luke on this in a couple of months]
+- **KPI**: # of docs uploaded to support claims
+
+**OKR**: [Need disability rating metric — team doesn't care about page views. This may be rolled into claim status metric since viewing disability rating is often part of that flow.]
+- **KPI**: # of Disability rating pageviews
+
+
+**OKR**: (if we include direct deposit, we might see fewer people searching for this feature)
+- **KPI**: # of searches for Direct Deposit
+
+
+**Bets**
+- **Bet**: Redesigning "getting started" experience for new users (will affect how we show "Apply" prompts for people to  
+start benefit applications).
+- **Bet**: Showing in-progress applications on the homepage.
+- **Bet**: Feature upcoming appointments (if possible).
+- **Bet**: Add overall disability rating to logged-in homepage.
+
+
+
+### Other Metrics
 - Do more people log in because we've made it easier to navigate VA.gov and their tools?
 - Do we see an increase in accounts created?
 - Do we see an increase in people who verify their identities (LOA3)?

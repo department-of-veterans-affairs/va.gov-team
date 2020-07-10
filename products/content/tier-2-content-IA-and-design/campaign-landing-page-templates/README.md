@@ -14,6 +14,54 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 
 The purpose of this template is to enable an easy way for PW content team and VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal. 
 
+## Desired User Outcomes
+
+- The primary user(s) of this template -- and CMS functionality -- are the Public Website content team and VA businesses (e.g. VBA Digital Strategy Team) 
+- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination for thematic marketing and public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
+
+## Undesired User Outcomes
+
+- Guardrails (user permission settings) need to be instrumented as part of the solution to ensure "rigidity" in both the use of the template as well as the UI layout.   Too much flexibilty will potentially result in (a) over/mis-use of the template and/or (b) layout or content issues that could make the experience sub-optimal for our veteran audience.
+
+## Desired Business Outcomes
+
+- There is strong demand for campaign landing pages from key business stakeholders involved in originating veteran facing content.   A plug-and-play Drupal CMS template will allow us to meet this demand with a "scaled" solution.   Additionally a template, put in the hands of trained business stakeholders, will reduce "one-off" demand of the resource-constrained PW content and front-end development team.
+
+- With this problem solved, the business would be able to produce more expertly crafted campaign landing pages (with built-in SEO optimization) at less cost and impact to the product-technology team.
+
+## Undesired Business Outcomes
+
+- We want to avoid scope/feature creep.  Our goal is to build the Campaign Landing page in smart stages, with the minimum viable number of components necessary to "launch and learn" and from there iterate.
+
+---
+## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
+
+### KPIs
+- We will know the initial set of functionality is meeting the desired user and business outcomes when the CLP template is used by (or via the PW content team on behalf of) at least three business stakeholders -- and there are no requests for major changes.  This would validate the following:
+  - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders  
+  - the CMS functionality of the template builder is bug-free and user/author-friendly
+  - the user permissions allow for guard-railing/governance by DEPO (the Public Websites Product leads)
+  - the Campaign Landing Page supports the success metrics for traffic/reach as outlined by the business stakeholders
+  
+- To measure the effectiveness of the CLP for campaign purposes, we will require the use of CTAs that would be prominently required and automatically tracked as a primary metric (e.g. whatever campaign X's success measure is, at least one required CTA button would be required that would automatically be tracked by analytics).
+
+- Every content component/panel in the template - whether it is the video panel or the downloadable resources panel - should be automatically tracked.  Instrumenting this auto-tracking capability into the CMS front-end template will not only ensure the ability to track CLP performance but also will be used as a lever to govern the business users of the template.
+
+#### Baseline KPI Values
+- ensure that all campaigns that VA creates have these minimum values for DEPO:
+  - the CLP is driving users to benefit pages or tools
+  - the CLP is forcing a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure)
+  - the CLP is instrumented so that every interaction on the page is tracked whether it is the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content.
+
+### OKRs
+- TBD
+- TBD
+---
+
+## Assumptions
+- There is a minimum number of content components (perhaps 5 our of 8) needed to validate our hypothesis that a Campaign Landing Page template will adequately address the need of most business stakeholders 
+- The new content components/capabilities created for the CLP will be re-usable for other content needs -- e.g. the new [Learning Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md), etc.
+
 ### The template requirements are:
 - It must allow 2 versions - image/visually rich vs. no images
 - It must contain rigid locations for primary and secondary CTAs
@@ -36,8 +84,5 @@ Latest Sketch files: https://github.com/department-of-veterans-affairs/va.gov-te
 
 Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25QV9J#/screens
 
-## Status/decisions
-
-### 3/10/2020
-
-Post-initial conversation with Chris Johnston and Dr. Karras-Pilato, meeting set up for 03/23 with Dr. Miller in the OMHSP (Office of Mental Health and Suicide Prevention) to potentially pilot the CLP template. 
+### Status & Decisions
+- A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)

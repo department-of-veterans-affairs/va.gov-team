@@ -1,5 +1,5 @@
 
-# Facility Locator - Operating Status Study - Research Findings
+# Facility Operating Status Study - Research Findings
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
 Leyda Hughes (leyda.hughes@adhocteam.us), 06/23/2020
@@ -14,7 +14,7 @@ The goals of this study were to:
 
 - Validate or invalidate the usefulness and understandability of operating statuses
 - Identify gaps between an operating statuses’ application and how they are interpreted
-- Determine how Veterans categorize events that affect a facilities operating status
+- Determine how Veterans categorize events that affect a facility's operating status
 
 The research questions we wanted to address were:
 
@@ -76,7 +76,7 @@ Remote, moderated research sessions were conducted via Zoom that consisted of a 
 
 Towards the end of the study, following the card sort and definition exercises, participants were shown a live location that used ‘Facility Closed’ as a status but offered virtual services. This 'mismatch' elicited strong reactions in some participants, 
 
-> “Facility closed is garbage, that is like nope we're closed, but they are not!” 
+> “Facility Closed is garbage! That is like, nope, we're closed. But they are not!” 
 
 and 
 
@@ -95,8 +95,12 @@ and
 > "I would make assumption it would give me special instruction at the facility or something out of the ordinary going on at the facility."
 
 
-**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** In one participant’s own words, 
+**4. Users understood that the terms 'virtual services' and 'telehealth' are sometimes used interchangeably and that they mean that some level of service might still be available to them.** Additionally, participants want clear details about what services will be available to them and how.
 > “Telehealth lets me know I will talk to someone, and virtual. I guess they are the same. When I see virtual I think being able to use video. I can see them and they can see me. I would think virtual services would be like getting a doctor to see an injury so I do not need to show up to the site. Have a nurse or doctor check out the injury to see if I need an appointment.”
+
+> "My doctor was offering Telehealth, but how do you do labs? Why would I want to just talk to you if I still have to come in to do labs?"
+
+> "If there is a list of services, it would say, these are the services and we can do through Telehealth. I guess it could just be a dropdown from limited services with a list."
 
 
 **5. Veterans want to know from the website what services will be available to them and they expect it to be accurate.** Participants were given a scenario of planning a visit to a facility in the area where they would be travelling. When asked what information they would need, participants mentioned proximity, hours and services. 
@@ -111,7 +115,7 @@ Upon seeing a listing with “Limited Hours and Services” another participant 
 
 > "Are these messages that I’m going to get on my phone?"
 
-This was especially important for Veterans that may eed to travel long distances, 
+This was especially important for Veterans that may need to travel long distances, 
 
 > “because if you drive two hours to a VA and there is a chemical spill and they are only taking emergencies, but you have an appointment, that’s a long distance to drive only to find out that your appointment has been canceled.” 
 
@@ -158,7 +162,7 @@ Even when a date was present but was missing the year, it was still mistrusted,
 - Specify which services at facilities are available on detail pages, where available.
 - Add timestamps or timeranges wherever temporary changes affect a facility.
 - Consider the red styling from detail page instead of pink styling to communicate the severity of ‘Facility Closed’. Some users missed the alert entirely and pointed out that the red styling matched their expectations. 
-- Communicate changes in appointments and visiting requirements to Veterans via phone, text or email.
+- Communicate changes in appointments and visiting requirements to Veterans via phone, text or email. Let them choose how they get notified.
 
 
 ## Next Steps

@@ -1,5 +1,5 @@
 # Direct Deposit Product Outline
-Last Updated December 10, 2019
+Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Direct Deposit  
@@ -125,19 +125,64 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 ## OKRs & KPIs
 
-### [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+### GA dashboard
 
-**Objective: Improve security of Direct Deposit**
+- [Direct deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
 
-**Key result**: Reduced cases of fraudulent activity
-- Bet 1: Add 2FA to Direct Deposit
-- KPI: [Reduced cases of fraud reported by fraud team](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit/analytics)
-- KPI: Low numbers for both "account-flagged-for-fraud-error-update" and "account-flagged-for-fraud-error-enroll" metric on GA dashboard
+### Objectives
 
-**Key result**: Increased utilization of direct deposit
-- Bet 1: Move Direct Deposit to the Profile
-- KPI: High numbers "Form Submits for Direct Deposit Information" metric on GA dashboard
-- KPI: Low numbers for "Failures in Saving Direct Deposit Information" metric on GA dashboard
+**People can easily verify what direct desposit information the VA has on file for them and update it as necessary so their payments go to the right place.**
+
+- "An easy way to keep my info current at the VA."
+
+**Increase security and reduce incidents of fraud.**
+
+- This is a busness objective.
+
+### Key results- Engagement
+
+This is an average metric since we did not have a baseline off of which to base a goal.
+
+**Number of users who update their direct deposit should be about 2,000 per week.** 
+
+*KPI*
+- Number of users who update their direct deposit.
+
+*Bets*
+- Feature direct deposit information in the profile.
+- Allow easy editing and updating of information. 
+
+### Key results – System performance
+
+**Rate of successful direct deposit submissions should be 90% or above.** 
+  - Goal not met for reasons outside of our hands. Current success rate is about 80%.
+
+**Rate of successful retrievals for direct deposit information should be 95% or above.**
+  - Goal met!
+
+*KPIs*
+- Number of successful direct deposit submissions.
+- Number of errors for updating direct deposit.
+
+*Bets*
+- Feature direct deposit information in the profile.
+- Allow easy editing and updating of information.
+
+### Key results - Security
+
+**Reduce fraud from eBenefits by 90%.** 
+
+ - Goal met! [Reports are in the sensitive folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/direct-deposit/analytics).
+
+*KPI*
+- Number of fraud incidents per quarter from fraud team's quarterly reports.
+
+*Bets*
+- Move feature from eBenefits to VA.gov.
+- Require 2FA to access direct deposit.
+- Show open form as blank.
+- Show bank name instead of routing number.
+- Partially obscure account number in read-only view.
 
 ---
 

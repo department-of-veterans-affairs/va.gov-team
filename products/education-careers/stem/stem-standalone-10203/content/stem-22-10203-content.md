@@ -8,7 +8,7 @@ Breadcrumb: [Home]() > [Education]() > [How to apply]() > **Apply for education 
 
 ## Form Title: Apply for the Rogers STEM Scholarship 
 
-Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship)  
+Equal to VA Form 22-10203 (Application for Edith Nourse Rogers STEM Scholarship).  
 
 { if logged out, informational alert }  
 
@@ -51,8 +51,7 @@ Months you have left to use: **7 months, 0 days**
 
 * Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 * Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
-* Have used all of your education benefits or are within 6 months of doing so when you submit your application.  
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* Have used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -86,7 +85,7 @@ If your application isn't approved, you’ll get a denial letter in the mail.
 
 { if logged out }  
 
-Sign in to start your application { button }  
+Sign in or create an account { button } 
 
 [Start your application without signing in]() 
 
@@ -149,7 +148,7 @@ Form 22-10203
 ### Chapter Title: 2 of 6: Education benefit
 
 Which benefits have you used or are you currently using? (*Required){ checkboxes } 
-- [ ] Post 9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
+- [ ] Post-9/11 GI Bill (Chapter 33) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
 - [ ]	Fry Scholarship (Chapter 33) [Learn more](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/)  
 - [ ] Montgomery GI Bill (MGIB-AD, Chapter 30) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)  
 - [ ] Montgomery GI Bill Selected Reserve (MGIB-SR, Chapter 1606) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)   
@@ -188,7 +187,9 @@ If your situation changes in the future and you meet this requirement, you may r
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply? (*Required)  
+You must be a Chapter 33 beneficiary to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+
+Would you still like to apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
@@ -282,7 +283,7 @@ __Your responses:__
 
 **Your remaining education benefits**  
 
-Our entitlement system shows that you have more than 6 months of education benefits remaining. You can apply when you have less than 6 months of entitlement left.  
+Our entitlement system shows that you have more than 6 months of education benefits remaining. You should apply when you have less than 6 months of entitlement left.  
 
 Months you have left to use: **NN months, NN days**   
 
@@ -292,7 +293,9 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 [Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
 
-Would you still like apply? (*Required)  
+You must meet the above requirements to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+
+Would you still like to apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
@@ -495,22 +498,22 @@ Form 22-10203
 
 We usually process applications within **30 days**.
 
-We may contact you if we need more information or documents.
+We may contact you if we need more information or documents.    
 
-Print this page { button }
+Print this page { button }  
 
-{ blue box }
+{ blue box }   
 
-**Rogers STEM Scholarship** 								
-**(Form 22-10203)**
+**Rogers STEM Scholarship**   								
+**(Form 22-10203)**  
 
-for { Fname Lname }
+for { Fname Lname }  
 
-**Confirmation number**
-{ confirmation number } 
+**Confirmation number**  
+{ confirmation number }  
 
-**Date received**
-{ Mon. NN, YYYY }
+**Date received**  
+{ Mon. NN, YYYY }  
 
 **Your claim was sent to**  
 Eastern Region   

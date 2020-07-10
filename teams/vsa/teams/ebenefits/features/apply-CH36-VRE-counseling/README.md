@@ -6,7 +6,7 @@
 - Form: https://www.vba.va.gov/pubs/forms/VBA-28-8832-ARE.pdf
 - VA.gov link (unauth landing page): https://www.va.gov/careers-employment/education-and-career-counseling/
 - VA.gov link (tool page): TBD
-- Current prototype: https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/128093537/simulate/no-panels
+- Current prototype: https://preview.uxpin.com/2dbde8d15bf667f5c584fe4a8a6d011cf9f0a14d#/pages/130194084
 
 ## WIP
 
@@ -60,7 +60,7 @@ eBenefits, in its current legacy state, is no longer the best version of what ca
 ## Requirements and Constraints
 
 - Application should be available for all users: UNAUTH, LOA1, and LOA3
-- Excerpr from systems requirement doc: In response to the receipt of a 28-1900 - The system will display and check the following: Veteran or IDES (yes/no), service connected disability rating percentages and conditions (if 10% or more continue eligibility check); discharge other than dishonorable (continue eligibility check); served on or after September 16th 1940 (if yes to all four, Veteran is eligible to participate in an evaluation for chapter 31).
+- Excerpt from systems requirement doc: In response to the receipt of a 28-1900 - The system will display and check the following: Veteran or IDES (yes/no), service connected disability rating percentages and conditions (if 10% or more continue eligibility check); discharge other than dishonorable (continue eligibility check); served on or after September 16th 1940 (if yes to all four, Veteran is eligible to participate in an evaluation for chapter 31).
 
 ## Solution Approach
 

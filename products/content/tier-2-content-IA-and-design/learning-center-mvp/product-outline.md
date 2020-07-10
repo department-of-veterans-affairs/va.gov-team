@@ -7,6 +7,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [User Goals](#user-goals)
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
+- [Examples of LC legacy content](#examples-of-lc-legacy-content)
 - [Status and decisions](#status-and-decisions)
 - [High-level requirements](#High-level-requirements-for-MVP)
 - [Detailed product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
@@ -75,6 +76,19 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 
 ---
 
+## Examples of LC legacy content
+
+- Directory of VSOs - source: https://benefits.va.gov/vso/varo.asp
+- VA phone directory of toll free customer service numbers - source: https://iris.custhelp.va.gov/app/answers/detail/a_id/1703/session/L3RpbWUvMTU5MzUyNDQ0Mi9nZW4vMTU5MzUyNDQ0Mi9zaWQvZlVSYkRsdVhMV2tnVERPQ3h2ZGtHam5SS1g2MGFmdjZwNkNwcCU3RVBkUTA1MjAyOWJlQmRyeVUyWFQzWGlUeU1FYm1XUGFIRHh3cnR2bThmWmRKbjlzejhCQjlsTkwwaTEzWSU3RTNIVzJvY1FxQ3R3aEMzcjl4cDNKZyUyMSUyMQ%3D%3D
+- How to challenge a claims agent fee - source: https://www.va.gov/OGC/docs/Accred/HowtoChallengeaFee.pdf
+- WWII Filipino Veterans Equity Compensation (FVEC) Fund - source https://www.va.gov/centerforminorityveterans/fvec.asp
+- What VA benefits can Filippino Veterans who are U.S. nationals get? - source: https://ph.usembassy.gov/u-s-citizen-services/veterans-affairs/#:~:text=VA%20Manila%20Regional%20Office&text=Benefits%20for%20Veterans%20of%20the,affect%20their%20entitlement%20to%20benefits.
+- Directory of VSOC counselors - source: https://www.benefits.va.gov/vocrehab/vsoc.asp
+- List of emblems of belief - source: https://www.cem.va.gov/cem/hmm/emblems.asp , https://www.cem.va.gov/cem/docs/factsheets/Emblems.pdf
+- What is adult day care? - source: https://www.va.gov/GERIATRICS/pages/Adult_Day_Health_Care.asp
+- How to apply for an NCA grant to states, federally recognized tribal government, or U.S. territories to establish, improve or expand a Veterans cemetery - source: https://www.cem.va.gov/grants/index.asp  
+
+
 ## High-level requirements for MVP
 
 See learning center template requirements for detailed information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md
@@ -87,7 +101,7 @@ __MVP learning center templates:__
 4. Step-by-step
 5. Checklist - new
 6. Image/video-rich list – new
-7. Table-based content like rates, contact info – new
+~7. Table-based content like rates, contact info – new~ _This will just be a variation of the "About" template which will allow tables._
 
 All of these will be ‘new’ but making use of existing components to form more rigid, page-level templates. A few things will be net new, such as the image/video list template. 
 
@@ -119,6 +133,7 @@ __Governance (WIP)__
 - Quality control and processes, mix of VACO, DEPO, and business lines
 - Some content support for some Veteran-facing tier 2 content
 
+---------
 
 ## Status and decisions
 

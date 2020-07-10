@@ -5,7 +5,7 @@
   - [VA PPG Team Slack - #vaos-sm-toolset](https://app.slack.com/client/T6J0KKXPW/CFCQT5XJL), [#vaos-engineers](https://app.slack.com/client/T6J0KKXPW/CM5ENJZ6C)
 - [Zenhub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125)
 - VA.gov link: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
-- Demo video link: [Need to update] Current link -- https://drive.google.com/drive/u/0/search?q=vaos%20demo
+- Demo video link: [Need to update] Current link -- https://drive.google.com/file/d/1LucLBX2AApkvPTK7nyo72SrFa7QZqmQQ/view
 - Product POCs:
   - VAOS Suite Business Owners:
     - Dr. Kathleen Frisbee (Kathleen.Frisbee@va.gov)
