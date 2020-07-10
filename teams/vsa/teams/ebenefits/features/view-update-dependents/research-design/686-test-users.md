@@ -5,7 +5,7 @@
 
 ---
 
-### Test cases
+### Attributes
 
 1. User has disability rating below 30% (Expected Result: user denied access to form)
 2. User has disability rating that is exactly 30% (Expected Result: user allowed access to form)
