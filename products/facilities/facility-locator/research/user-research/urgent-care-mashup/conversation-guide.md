@@ -72,12 +72,7 @@ For your first task I'd like you to:
     
 I see you've selected [] 
 - Can talk me through why you chose those particular options?
-    
-- What can you tell me about the 'service type' options?
-    - What does 'Community urgent care providers (in VA's network)' mean to you?
-    - What does 'VA urgent care' mean to you?
-    - Does this distinction matter to you? 
-        - What matters about the distinction?
+
 
 ###### PROTOTYPE: Search results
 - Talk me through what you see on this page?
@@ -88,8 +83,14 @@ I see you've selected []
 
 [Have participant select Urgent Care/All urgent care]
 
-I'm going to have you do a second task. For this task I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Shoose a service type' All urgent care.
+I'm going to have you do a second task. For this task, I'd like you to choose under 'Choose a VA facility type' Urgent care and then under 'Shoose a service type' All urgent care.
 
+- What can you tell me about the 'service type' options?
+    - What does 'Community urgent care providers (in VA's network)' mean to you?
+    - What does 'VA urgent care' mean to you?
+    - Does this distinction matter to you? 
+        - What matters about the distinction?
+        
 - I'd like you to imagine that you are consider the two closest locations. I'd like you to compare them.
 
 #### Questions:
