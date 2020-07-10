@@ -33,5 +33,9 @@ provider. VA must authorize care that is needed beyond the scope of the first au
   - their specialty (what)
   - care site (where) to be available to the Facility Locator
 
+[Link to summary of changes and decisions](https://github.com/department-of-veterans-affairs/vets-website/pull/8651)
+
 ![Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%203Ws.pdf)
+
+
 
