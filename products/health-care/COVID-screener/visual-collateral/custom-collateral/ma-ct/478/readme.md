@@ -1,1 +1,1 @@
-# Massachusetts - Connecticuit 478 files
+# Massachusetts-Connecticuit 478 files
