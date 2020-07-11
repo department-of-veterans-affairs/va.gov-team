@@ -1,1 +1,1 @@
-# Massachusetts - Connecticuit 405 files
+# Massachusetts-Connecticuit 405 files
