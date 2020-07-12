@@ -6,6 +6,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [Problem Statement](#problem-statement)
 - [User Goals](#user-goals)
 - [Business Goals](#business-goals)
+- [Measuring Success](#measuring-success)
 - [Assumptions](#assumptions)
 - [Examples of LC legacy content](#examples-of-lc-legacy-content)
 - [Status and decisions](#status-and-decisions)
