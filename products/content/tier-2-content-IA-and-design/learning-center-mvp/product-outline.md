@@ -3,7 +3,7 @@
 This is the folder for all background, historical, discovery, and status documentation for this product.
 
 ## Table of Contents
-- [Problem Statement](#user-problem-statement)
+- [Problem Statement](#problem-statement)
 - [User Goals](#user-goals)
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
@@ -12,9 +12,7 @@ This is the folder for all background, historical, discovery, and status documen
 - [High-level requirements](#High-level-requirements-for-MVP)
 - [Detailed product requirements - wip](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md)
 - [Implementation info](#implementation-info)
-
-
-
+---
 
 ## Problem Statement
 
@@ -58,14 +56,27 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 - Non-beneficiaries (like VSOs, school counselors, etc.): Easily find and get to relevant, related information that helps me better do my job to support/help VA beneficiaries, whether Veteran students in college or caregivers of older Veterans, etc. 
 
 
-
-
-
 ## Business Goals
 - Provide a way of incorporating the many benefit-adjacent tier 2 content (from the legacy TeamSite VA.gov) into the new VA.gov 
 - Maintain prioritization of Veteran-focused tier 1 benefit content, so benefit hubs continue to provide essential benefit info and access to digital tools
 
+---
+## Measuring Success
 
+### Key Performance Indicators (KPIs)
+* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+* _What are the most important metrics that track with this product/initiative's success?_
+* _Include links to Domo or Google Analytics Dashboards/Reports_
+
+#### Baseline KPI Values
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective:
+  - Key result: 
+  - Key result: 
 
 
 ## Assumptions
@@ -73,6 +84,8 @@ Non-beneficiary audiences who support Veterans, family members and other benefic
 - That some of the content that VA business lines call or think of as "benefit" is actually this tier 2 benefit-adjacent "resources"/"learning" content
 - EX: Free or subsidized rides for Veterans to their VA medical center. VHA's Veteran Transportation Program business may think of this as a benefit, it's in fact an add-on service or resource that varies from city to city, medical center to medical center, and from year-to-year depending on funding and participation of local nonprofits that each medical center might have relationships with. 
 - That there are different audiences for tier 2 benefit-adjacent content. Ex: for Veterans and other beneficiaries; and for people who work with Veterans and other beneficiaries (like VSOs or school administrators)
+
+---
 
 ---
 
