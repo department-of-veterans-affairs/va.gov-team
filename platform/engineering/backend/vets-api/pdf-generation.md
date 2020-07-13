@@ -96,6 +96,10 @@ You can call `PdfForms#get_fields` to get a list of the available fields in your
 
   In production, PDFs will be flattened. This may cut off the text in a field if the contents of the field overflows the text area. This spec will move overflowing content to an attached page.
 
+ - What if I have a field on the PDF that doesn't show up in `PdfForms#get_fields`.
+ 
+  You may need to edit the source PDF. PDFescape (pdfescape.com) has a feature where you can view and edit the form fields. It also has an "insert pdf field" function.
+
 <hr>
 
 Back: [Vets API Forms](forms.md)
