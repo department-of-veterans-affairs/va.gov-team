@@ -96,6 +96,6 @@ How do we limit/govern User access in Drupal with CLP keys?
   * Burden on team is measurably reduced (e.g. self-service)
   
   Veteran oriented success metrics:
-   * Vet usage of CLP
-   * 
+   * Veteran usage of CLP (note: in some cases, the primary audience is not veterans, could be clinician researchers or state health agencies)
+   * One topic, one audience is the focus.
   
