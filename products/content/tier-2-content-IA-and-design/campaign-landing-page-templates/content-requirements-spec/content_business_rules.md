@@ -1,6 +1,7 @@
 ### Content and Business Requirements Q-and-A
 
 X. How will users know to use CLP, vs page in benefit hubs, vs learning center vs Vantage Point?
+> Once we have definition and business rules for CLP, we should road test them by setting up several very different CLPs so we can see how CLP would work content-wise. This will show us any "holes" in our strategy and help us hone it.
 
 1. What does the sunset process look like? Should there be an expiration date associated with the CLP (at which point we would set a redirect) or do they live on (to be possibly re-used annually in some cases)?
 - When Campaigns are entered by author, there should have expiration date -- Drupal sends the content author and PW team a notification to review the CLP to determine if its should remain live. We would want to remove pages from Server if page is not attracting meaningful traffic.  Would not even re-direct unless there is traffic value.  Possible: The notion of "annual clean-up" (Note: there is no central digital/marketing office/owner for campaigns).   Joint-ownership of this page is likely/intrinsic.  So we can decide whether we optimize or retire, for example.
