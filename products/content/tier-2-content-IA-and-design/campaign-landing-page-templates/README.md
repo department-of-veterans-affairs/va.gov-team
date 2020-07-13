@@ -89,7 +89,8 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 ### What's included
 - CLP governance
   - IA, urls
-  - 
+  - Primary CTA
+- Default analytics  
 
 ### What's not included
 - CLP governance
