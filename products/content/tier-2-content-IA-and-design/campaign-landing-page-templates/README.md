@@ -109,8 +109,9 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
   - tbd
 - *Actual Launch Date* 
   - tbd
-- *What date will you evaluate impact after launch?*
+- *What date will you reflect on success/lessons learned after launch?*
   - 
+  
 ---
 
 ### Status & Decisions
