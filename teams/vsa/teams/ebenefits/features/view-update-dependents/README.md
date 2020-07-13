@@ -144,16 +144,16 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 ## OKRs
 
 **Objective 1:** Greater number of Veterans applying to get benefits associated with their dependents.
-- Key Results 1: Data shows the number of views of the 686 application has increased since migration; statistically significant increase in traffic
-- Key Results 2: Data shows more applications are being successfully submitted; statistaclly significant increase in number of approved submissions 
+- Key Results 1: Data shows the **number of views of the 686 application has increased since migration**; statistically significant increase in traffic
+- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
 
 **Objective 2:** Faster delivery of benefits obtained for the Veteran.
-- KR1: Data shows that more 686 applications are being automatically approved within the Rules Based Processing Service; RBPS is automatically processing statistically significantly more 686 applications 
-- KR2: Data shows that the new 686 user experience within VA.gov results in a faster fill out time compared to the eBenefits portal
+- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications 
+- KR2: Data shows that the **new 686 user experience within VA.gov results in a faster fill out time** compared to the eBenefits portal
+- KR3: Data shows a **decrease in time to manually approval of 686 forms** upon submission compared to previous instance
 
-**Objective 3:** Increased conversion rate of successful, automatically approved forms.
-- KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
-- KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
+~**Objective 3:** Increased conversion rate of successful, automatically approved forms. (Fidelity of the submission)~
+- ~KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)~
 
 ### Notes - WIP  
 **Objective:** Convert more through RBPS  
