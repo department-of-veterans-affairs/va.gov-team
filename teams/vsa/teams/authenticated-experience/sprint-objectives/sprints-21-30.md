@@ -159,6 +159,9 @@ Dev
 Call center
 - Call center - Finish call center guide
 
+508
+- Have whole team go through accessbility test cases (pre-staging review)
+
 PM
 - Call center - Call center video
 - Call center - Request contact center review
