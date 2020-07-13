@@ -2,20 +2,30 @@
 
 VSA QA Engineer: Tze-chiu Lei \[call me "Zay"] (GitHub @tlei123)(Slack @Tze-chiu Lei)
 
-This VSA-QA Process is currently a **subset** of [VSP's template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md), and should expand as QA staffing increases.
+This VSA-QA Process is currently a **subset** of [Platform's template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md), and should expand as QA staffing increases.
+
+VSA-QA's **current capacity** can only accommodate **manual-UI testing on Staging environment** to satisfy Platform's [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) requirements.
 
 ## Process Flow
 
+### Regression testing
+
+\[TBD] Once VSA-QA capacity increases, documentation will be developed.
+
+For now, we're relying on existing, automated unit- and e2e-tests developed & maintained by Product-Team Engineers.
+
+### Manual-UI testing on Staging
+
 The required steps of the VSA-QA Process are as follows:
 
-1. Indeally, 2 sprints before a product/feature's expected Platform's [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review), **VSA Product-Team opens a [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)**:
+1. Indeally, 2 sprints before a product/feature's expected [PlatformStaging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review), **VSA Product-Team opens a [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)**:
     - Add link to Epic ticket
     - Add link to Pre-Launch Checklist \(or ensure Epic ticket has this link) \[See [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md) for checklist guidelines]
     - Ensure that Test Plan includes documentation of (or links to):
         - UX Design comps
         - User scenarios/stories.  Either:
             - Create list directly in the Test Plan ticket; or
-            - Link ticket to separate Use Cases doc \[[use this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)].
+            - Link to separate Use-Cases doc \[[use this template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/product-use-cases-template.md)].
 
 1. **Product Team & QA collaborate to create a test plan** that ensures coverage of the targeted changes.
     - QA \[or Product Team if/when QA Engineer is not available for for urgent reviews] creates a Test Plan and Test Cases in [TestRail online test-case management system](https://dsvavsp.testrail.io/) (TCMS), based on info provided in Test Plan ticket.  \[Product-Managers should have a Product-Team TestRail account -- request one from Peter Hill if necessary.]. See [VSP's TestRail docs/guideliness](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/testrail/getting-started.md) as needed.
