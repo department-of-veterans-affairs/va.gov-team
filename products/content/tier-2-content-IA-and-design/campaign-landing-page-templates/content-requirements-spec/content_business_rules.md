@@ -99,7 +99,9 @@ How do we limit/govern User access in Drupal with CLP keys?
    * Veteran usage of CLP (note: in some cases, the primary audience is not veterans, could be clinician researchers or state health agencies)
    * One topic, one audience is the focus.
    * We should encourage people to retire and redirect on a regular cadence. 
-   * Maybe a hard requirement: the page goes away/retires every year, so you need to create a new one (if an annual campaign).
+   * Maybe a hard requirement: the page goes away/retires every year, so you need to create a new one (if an annual campaign). Or, in order to keep it alive the page needs to meet certain thresholds:
+   + Continues to be marketed.
+   + Continues to generate traffic.
  
 Question: With our on-site search metrics, we look at campaign pages to see if they are underperforming and the new CLP will  perform better.  
   
