@@ -207,8 +207,6 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - Profile side nav
 - Redesigned visual styles for easier scanning
 
-#### (Maybe)(Establish baseline metrics for people who interact with the side nav and then update contact info or direct deposit?)
-
 --- 
 
 ## Go-to-market Strategy
