@@ -8,7 +8,7 @@ This VSA-QA Process is currently a **subset** of [VSP's template process](https:
 
 The required steps of the VSA-QA Process are as follows:
 
-1. As a Product/Feature design reaches maturity \[i.e., before Build phase starts], **VSA Product-Team creates [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)**:
+1. Indeally, 2 sprints before a product/feature's expected Platform's [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review), **VSA Product-Team opens a [VSA-QA Test Plan ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=tlei123&labels=vsa-qa&template=vsa-qa-test-plan.md&title=%5BProduct%2FFeature%5D+VSA-QA+Test+Plan)**:
     - Add link to Epic ticket
     - Add link to Pre-Launch Checklist \(or ensure Epic ticket has this link) \[See [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md) for checklist guidelines]
     - Ensure that Test Plan includes documentation of (or links to):
