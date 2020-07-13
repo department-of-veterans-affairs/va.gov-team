@@ -1,5 +1,13 @@
 ## Status/decisions
 
+### 7/13/2020
+
+Content/IA & Business Requirements session to work-through questions about use, authorship, governance, KPIs. Participants included: Jen Lee, Meg Peters, Mikki Northuis, Ryan Thurwell, Mickin Sahni, Kevin Walsh. At the meeting, we fleshed out answers for key questions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md).  John will convert this into a table-formatted requirements document and update the Product Outline to reflect latest thinking.   
+  
+Next step: 
+- John to update [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates) to round-out details about MVP requirements, go-to-market strategy, etc.
+- John to shorter follow-up session with the group to walk-through the product plan/details.
+
 ### 7/8/2020
 - Check-in meeting held with key players from the Platform/Collaboration Cycle, CMS and Public Websites (including Megan Kelly, Kevin Hoffman, Kevin Walsh, Jen Strickland/Trevor Pierce, Mickin Sahni, Mikki Northuis, Ryan Thurwell).   Highlights:
   - Mickin will create a Super Epic that will guide overall work effort.
