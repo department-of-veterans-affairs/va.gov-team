@@ -12,14 +12,20 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 
 ## Purpose
 
-The purpose of this template is to enable an easy way for PW content team and VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   The CLP is:
-- 1-page that links to deeper content which the already exists in the benefit hubs, in videos on YouTube, at separate VA domains (such as publichealth.va.gov), at other VA online destinations (e.g. blogs, PDF factsheets, outreach library).
+The purpose of this template is to enable an easy way for VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   
 
+The CLP is:
+- 1-page that links to deeper content which the already exists in the benefit hubs, in videos on YouTube, at separate VA domains (such as publichealth.va.gov), at other VA online destinations (e.g. blogs, PDF factsheets, outreach library).
+- It is created and maintained by VA business stakeholders at VHA, VBA and other groups, with the hands on production expected to be done by their Web leads (e.g. Webmaster or Web Communications person).
+
+The CLP isn't:
+- A self-contained micro-site with original content, sub-pages, its own navigation
+- A sub-domain
 
 ## Desired User Outcomes
 
-- The primary user(s) of this template -- and CMS functionality -- are the Public Website content team and VA businesses (e.g. VBA Digital Strategy Team) 
-- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination for thematic marketing and public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
+- The primary user(s) of this template -- and CMS functionality -- are the VA businesses (e.g. VBA Digital Strategy Team) 
+- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination that supports thematic marketing, public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
 
 ## Undesired User Outcomes
 
@@ -89,7 +95,7 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 
 ## MVP features
 
-### TBD
+### Scope
 - adhering to sunset criteria
 
 ### What's included
