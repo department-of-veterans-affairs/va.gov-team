@@ -137,10 +137,11 @@ Current
 - % of Dependency Claims that go thru RBPS / manual processing (input KPI)
 
 Future
-- Time to complete 686 (input KPI) (Future)
+- Time to complete 686 (input KPI)  
+- % of submitted vs. draft RBPS submissions 
 
 North Star Metric
-- Number of Dependency Claims processed within 90 days of submission regardless of approval method
+- Number of Dependency Claims processed within _n_ days of submission regardless of approval method
 
 ### Baselines
 - tbd
