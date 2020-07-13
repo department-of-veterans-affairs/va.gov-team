@@ -86,6 +86,10 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 
 
 ## MVP features
+### What's included
+- tbd
+
+### What's not included
 - tbd
 
 ### Status & Decisions
