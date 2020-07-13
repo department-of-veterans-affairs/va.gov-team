@@ -5,12 +5,11 @@
 
 ---
 
-## WIP -- DO NOT REFERENCE!
-
 Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
 ### Throughout
 
+- [ ] Revised chapter titles
 - [ ] Default selection in country dropdown to 'United States'
 
 ### Checkboxes
@@ -26,13 +25,9 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 - [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add spouse"
 - [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
 
-### Upload section
+### Spouse upload section
 
 - [ ] Add comma after "Ceremonial" in paragraph above "examples of additional evidence" accordion
-
-### Veteran marriage section
-
-- [ ] Zzz...
 
 ### Add child section
 
@@ -43,14 +38,17 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 - [ ] Change "Person your child lives with" to: "Person child lives with"
 - [ ] Bold "or" in labels under the "Child's place of birth" section
 
-### Upload section
+### Child upload section
 
 - [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
 - [ ] Revise text under "examples of additional evidence" accordion to match mockups
 
 ### Add student section (674)
 
-- [ ] Zzz...
+- [ ] Add instructional paragraph to "Is the student enrolled full-time in high school or college?" section
+- [ ] Move Required label to the end of: "Did student attend school last term? Note: This includes any kind of school or training, including high school."
+- [ ] Change label for "Course of study or educational program" to: "Subject or educational/training program"
+- [ ] Change label for "Number of classes a week" to: "Number of session a week"
 
 ### Remove stepchild section
 
@@ -58,7 +56,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 
 ### Dependent death section
 
-- [ ] Change chapter title to "Information needed to report a deceased dependent"
+- [ ] Change chapter title to "Information needed to remove a dependent who has died"
 - [ ] Address large gap above header, "Dependent who is deceased"
 
 ### Report divorce section
@@ -78,6 +76,5 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 
 - [ ] Add paragraph text per [mocks](https://xd.adobe.com/view/88794e80-ae26-4f3e-509e-94d09eb571f7-fe48/)
 
-### Confirmation page
+---
 
-- [ ] Zzz...
