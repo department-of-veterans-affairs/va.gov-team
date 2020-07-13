@@ -8,13 +8,13 @@ Abandon Rate: Not Captured
 
 ---
 Is DLC API stable and ready for production?
-- Pending
+- Yes
 
 Is banner ready to be eBenefits Landing Page 
 -Pending 
 
 Platform: is monitoring and alerting configured and working as expected?
-- `yes/no - any notes`
+- `yes, per Cameron 
 
 Platform: is the Product Health Tool updated to track this product data and working as expected?
 - `yes/no - any notes`
@@ -23,7 +23,7 @@ Platform: is the Product Health Tool updated to track this product data and work
 - `yes - Google analytics set up Mahariel to monitor `
 
 `Name of responsible team member`: are you ready to monitor performance data for latency, errors, etc?
-- `yes/no - check wiht Team at DLC `
+- Who will alert us?
 
 `: are you confident we can handle the traffic?
 - `yes, traffic is very low and will ramp up slowly 
@@ -58,7 +58,7 @@ DLC will have a banner inviting Veterans to try out the new ordering system and 
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
 - etc
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+
 
 ### 1-week results:
 - Number of unique users: x
