@@ -12,7 +12,9 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 
 ## Purpose
 
-The purpose of this template is to enable an easy way for PW content team and VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal. 
+The purpose of this template is to enable an easy way for PW content team and VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   The CLP is:
+- 1-page that links to deeper content which the already exists in the benefit hubs, in videos on YouTube, at separate VA domains (such as publichealth.va.gov), at other VA online destinations (e.g. blogs, PDF factsheets, outreach library).
+
 
 ## Desired User Outcomes
 
