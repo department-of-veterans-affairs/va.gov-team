@@ -8,6 +8,49 @@
 
 <details> <summary> July 2020</summary>
 
+## July 10th, 2020
+
+**Status**
+- Monday 6th, Aricka published the [Discovery Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-findings.md) including key findings and recommendations with actionable next steps.
+
+-  [Mural collaboration exercise](https://app.mural.co/t/vsa8243/m/vsa8243/1594143386954/c8c3a641465deb6789687bbfd52d70ac8d642399) to get input into the [Team Mission and North Star Statements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
+-  Received Surveys Documentation 
+	-  [SHEP Survey home page](http://vaww.car.rtp.med.va.gov/programs/shep/shep.aspx) | [SHEP Questionnaires](http://vaww.car.rtp.med.va.gov/programs/shep/shepReportsSHEPQuestionnaires.aspx) - must be on VA network
+	- [CMS Patient Experience Surveys](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research/CAHPS)
+		- Consumer Assessment of Healthcare Providers & Systems (CAHPS)  
+			- [CAHPS® Clinician & Group Survey and Instructions](https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/about/cg_3-0_overview.pdf)
+			- Example -  [Outpt. and Amb. Surgery CAHPS](https://oascahps.org/Survey-Materials) - I selected the Mail Questionnaire
+- Thurs 9th, met with DEPO leads (Patrick and Lacey) to request assistance to remove the two blockers below regarding contacts with potential stakeholders/ clinical staff we can interview and current state workflows from OEHRM (for example) for standardization of clinical documentation that may be done to-date.
+-  [Forms Library](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10908) and Authenticated Tech Feasibility/Prototype
+- [Discovery Tech Feasibility doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/technical-feasibility.md) drafted start to fill out based on what is included in your tickets description and acceptance.
+- Started MWF Engineering Sync to go into detail on investigations
+
+- Next Step/Followup:
+	-  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and will be presented by Aricka Tues 14th.
+	- Anticipate receiving forms documents from interview sessions and clinical teams Lacey has reached out to.
+
+**Decisions:**
+-   [Current list of Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/stakeholder-interviews) are VA team members that we will want to interview and review our strategy and product roadmap **but are not decision makers.**
+- UPDATED Decision Maker Stakeholders/SME's
+	- Pacific Region 
+		- Dr. Bryne @LomaLinda
+		- Jemorie & Thandiwe @Pacific Islands Health Systems
+	- Central Region TBD - Patrick identifying opportunities
+	- East Coast Region TBD - Patrick identifying opportunities
+
+**Blockers:**
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey/ Lauren/Patrick are working on approach for collaboration with the MHV and clinical VHA teams and getting contacts we can reach out to.
+	- Anticipate receiving forms documents from interview sessions and clinical teams Lacey has reached out to. ie. engineering with MHV
+	- Patrick is following up per meeting on the 14th to get documentation or contact we can reach out to 
+
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- _See Decisions section above_ Identified an initial and updated list of stakeholder interviewees and the sessions need to be scheduled.
+	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate an provide us time for interviews and engagement going forward.
+		- Lacey is creating a 1 pager on our product for Patrick to use with these clinical teams.
+
+
 ## July 3rd, 2020
 
 **Status**
