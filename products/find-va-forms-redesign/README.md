@@ -31,6 +31,8 @@ https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
 ## KPIs
 
+**[Google Analytics Dashboard](https://analytics.google.com/analytics/web/?authuser=1#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)
+
 **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
 **Signal**: are people downloading form applications or starting a new benefit application\
 **Metrics**:
