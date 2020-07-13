@@ -86,6 +86,10 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 
 
 ## MVP features
+
+### TBD
+- adhering to sunset criteria
+
 ### What's included
 - CLP governance
   - IA, urls
