@@ -51,6 +51,7 @@ _Why should this project be a priority?_
 - Other business owners (NCA, VHA) have expressed their concern over latency and usability. 
 
 **Findings from research conducted March 2020**
+
 [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
 - The expected number of search results varies based on geographic location.
 - The most likely use-case for the Facility Locator is when a person is traveling or researching an unfamiliar area.
@@ -61,7 +62,7 @@ _Why should this project be a priority?_
 ### Project Scope and Scale
 _What's in and what's out?_
 
-**Q32020 Iniatives related to this work**
+**Q32020 Initiatives related to this work**
 - Map improvements, such as implementation of geographic search suggestions 
 - Forward Proxy monitoring
 
