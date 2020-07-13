@@ -11,7 +11,7 @@ Last Updated July 13, 2020
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
