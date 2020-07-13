@@ -94,6 +94,24 @@ Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25
 ### What's not included
 - CLP governance
   - tbd
+  
+
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](#go-to-market-strategy)
+
+Strategy to be drafted here based on https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md
+
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch?*
+  - 
+---
 
 ### Status & Decisions
 - A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)
