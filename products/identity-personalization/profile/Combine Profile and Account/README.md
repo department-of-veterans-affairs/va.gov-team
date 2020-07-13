@@ -130,8 +130,6 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## OKRs & KPIs
 
-WIP
-
 https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
 
 ### Objective 
@@ -158,9 +156,21 @@ In 6 months, of ~13K searches for "direct deposit", ~2K are initiated from the a
 - Profile side nav
 - Redesigned visual styles for easier scanning
 
-#### (WIP) Page path for users who update direct deposit should be more direct.
+#### Reduce % of users who visit /account before updating direct deposit from about 33% to 0.
 
-My hypothesis is that users who update direct deposit take an indirect path to get there because some of them end up on the account page before going to the profile (or searching). By combining the profile and account, we should see more direct paths to direct deposit. (Note: need to work with the analytics team to validate this hypothesis and establish this baseline metric).
+Right now, we can see that about 1/3 of users who update their direct deposit information go to the account page before doing so. By combining the profile and account pages, and therefore removing "Account" from the navigation, we can simplify the path to this feature and reduce the number of users who make an extra step before going to the profile from 1/3 of users to 0.
+
+*Report*
+
+- https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=users8eLcGNEThaF2u2Zmp52Kg,userlR1DzVh0Q_CcZk-CuOS0yA/
+
+*KPI*
+
+- Number of users who visit /account before updating direct deposit
+
+*Bets*
+
+- Combining profile and account
 
 ### Key results — Engagement
 
