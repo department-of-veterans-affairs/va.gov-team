@@ -160,9 +160,10 @@ In 6 months, of ~13K searches for "direct deposit", ~2K are initiated from the a
 
 Right now, we can see that about 1/3 of users who update their direct deposit information go to the account page before doing so. By combining the profile and account pages, and therefore removing "Account" from the navigation, we can simplify the path to this feature and reduce the number of users who make an extra step before going to the profile from 1/3 of users to 0.
 
-*Report*
+*Reports*
 
 - https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=users8eLcGNEThaF2u2Zmp52Kg,userlR1DzVh0Q_CcZk-CuOS0yA/
+- https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fprofile~2Findex.html&_.useg=users8eLcGNEThaF2u2Zmp52Kg&navigationsummary-keySelector.searchTerm=~2Fprofile/
 
 *KPI*
 
