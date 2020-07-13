@@ -8,6 +8,14 @@
 
 <details> <summary> July 2020</summary>
 
+## July 24th, 2020
+
+--
+
+## July 17th, 2020
+
+--
+
 ## July 10th, 2020
 
 **Status**
