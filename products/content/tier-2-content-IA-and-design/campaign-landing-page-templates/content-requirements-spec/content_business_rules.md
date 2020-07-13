@@ -13,12 +13,21 @@ X. How will users know to use CLP, vs page in benefit hubs, vs learning center v
 
 **NOT FOR: 
 - New, evergreen content
-- Not meant to replace permanent content
+- Not meant to replace permanent content or become everlasting "hubs"
+
+We don't anticipate VA stakeholders to be confused about what the CLP is ideal for -- e.g. micro-sites.
+
+Follow-up: get a finer definition around: When to use CLP (vs. Learning Center, vs. Benefits Hubs): 
+
 
 1. What does the sunset process look like? Should there be an expiration date associated with the CLP (at which point we would set a redirect) or do they live on (to be possibly re-used annually in some cases)?
+
 - When Campaigns are entered by author, there should have expiration date -- Drupal sends the content author and PW team a notification to review the CLP to determine if its should remain live. We would want to remove pages from Server if page is not attracting meaningful traffic.  Would not even re-direct unless there is traffic value.  Possible: The notion of "annual clean-up" (Note: there is no central digital/marketing office/owner for campaigns).   Joint-ownership of this page is likely/intrinsic.  So we can decide whether we optimize or retire, for example.
 
+- VA does make content that is time-limited, but they don't set "expirations" -- so it sticks around.   This is an opportunity to introduce automated governance -- e.g. after a year, you have to review it, look at usage/analytics -- and decide whether to optimize or in fact retire it.
+
 2. How many CLPs a year is anticipated?  
+
 - 5-10 a year, if we roll it out in phased approach.  If available to all businesses at VA, it could be a lot more than 10 a year.
 - Examples of VA campaigns:
 
@@ -32,18 +41,29 @@ X. How will users know to use CLP, vs page in benefit hubs, vs learning center v
     - Can't tell who the audience is
     - Barely actionable
     - Can't tell what the call to action is
+    
 
-3. Is new content created for CLP -- or does it just link to existing content in many places?  
+(NOTE: need some start-up documentation for the first 1-2 user groups, possibly a landing page for the product)
+
+3. Is new content created for CLP -- or does it just link to existing content in many places? 
+
+- No! It is one page that links to deeper content that the stakeholders/VA already have -- benefit hubs, videos on YouTube, publichealth.va.gov domain, online publications (outreach library, blogs, PDF factsheets), etc.
 
 4. Who updates/maintains CLP content? 
 
+- VA business stakeholders maintain the landing page, adding new pointer links.
+
+
 5. Who gets to use CLP -- and how will they get the "keys"?
-- We will govern via Drupal access. (We don't want a sub--sub-sub VA office using these).  We will limit Drupal access.   Governance will come through PubWeb and the VHA, VBA office heads (e.g. Jenny, Sandy, etc) -- Dual key permission. In rolling out to businesses, we would want to restrict authoring rights to a centralized Webmaster/person per business -- not every person (we don't want 7000 users).
+
+- We will govern via Drupal access. (We don't want a sub--sub-sub VA office using these).  We will limit Drupal access.   Governance will come through PubWeb and the VHA, VBA office heads (e.g. Jenny, Sandy, James etc.) -- Dual key permission. In rolling out to businesses, we would want to restrict authoring rights to a centralized Webmaster/person per business -- not every person (we don't want 7000 users).
 
 6. Will new content be created to support CLPs and where will that content sit (directory/URL)?
 
+- 
 
 7. Will PW review a CLP before it is launched?
+
 - No, these will not undergo any review.
 
 
