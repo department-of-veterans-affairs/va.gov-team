@@ -58,36 +58,44 @@ Follow-up: get a finer definition around: When to use CLP (vs. Learning Center, 
 
 - We will govern via Drupal access. (We don't want a sub--sub-sub VA office using these).  We will limit Drupal access.   Governance will come through PubWeb and the VHA, VBA office heads (e.g. Jenny, Sandy, James etc.) -- Dual key permission. In rolling out to businesses, we would want to restrict authoring rights to a centralized Webmaster/person per business -- not every person (we don't want 7000 users).
 
-6. Will new content be created to support CLPs and where will that content sit (directory/URL)?
+How do we limit/govern User access in Drupal with CLP keys?
 
-- 
+- key VA stakeholders already have limited access to higher level pages; CLP will require some new permissions limiting access to specific sections. For example, benefits pages are locked-off.    
 
-7. Will PW review a CLP before it is launched?
+6. Where will CLP's sit in the site IA (directory)? Who can create what URLs?
 
-- No, these will not undergo any review.
+- Requires more follow-up thinking with Mikki/Meg and Kevin.  Original thinking -- CLPs would be root-level pages, not part of the IA.  (Mikki: Are they in a directory of their own?). Jen believes the URL should be baked in to the CLP template creation -- perhaps driven by the H1 (va.gov/<name of campaign-H1>).   Keep in mind: H1s can be changed which would effect the URL.
 
+7. Will PW and VSP Collab Cycle review a CLP before it is launched?
 
-8. Will CLPs sit in a new sub-directory?
--
+- That isn't our stance at this point.  This will likely have an impact on our plain language and accessibility standards -- but Jen points out, this is the way it is now.  Many of these pages are created w/o our oversight.   We will have design/content guardrails for CLP -- but not the Collab Cycle level review. (OR, Do we want the VA stakeholders to go through VSP collab cycle?)
+
 
 9. How will CLPs be found?
-- On-site, via CTA's.  Off-site, via marketing and search.
+
+- On-site, via CTA's.  Off-site, via marketing, email/social media.
 
 10. Do we have examples of stakeholders using self-service tools we’ve created?
--
+
+- For benefit hubs pages, VA stakeholders do have access with limited rights -- but we've asked them not to use Drupal.  Many of the VA stakeholders don't want to learn how to use Drupal.  Most of the VA stakeholders have a web-mastery/web communications person who does the actual authoring of content (e.g. Eric for NCA).   
 
 11. Do we have any other editorial product (at VA or competitor) to compare CLP usage to measure success?
--
+
+- We do expect to track performance better -- but we can't say page view performance will necessarily go up.  Traffic performance is not a KPI of CLP.   We do think forcing use of a CTA and identifying the audience (Who is this for) -- this will force the business to ensure these marketing efforts are more focused, targeted -- and actually measured.
 
 12. Are we seeing data for poor behavior related to the problem we’re trying to solve with CLP? In other words, is the way the business is executing on campaigns not effective and the CLP will address many issues?
--
+- The page should be built with default page tracking (like COVID-19 page).  One idea: When you create a CLP, you have to sign up for GA account -- or you get an auto-generated report from GA.   The CMS team is working on Notifications -- the capability to notify users through Drupal -- if Sandy updated a page, PW would be notified that Sandy updated a page, or a form was added. 
 
-13. Is it fair to say one of the drivers of CLP -- the problem it solves -- is: we are addressing is Demand (from business stakeholders who want this) and Capacity issues (we don’t have the resources to solve this need)
-- 
-
-
+13. Is it fair to say one of the drivers of CLP -- the problem it solves -- is: we are addressing is Demand (from business stakeholders who want this) and Capacity issues (we don’t have the resources to solve this need).
+- This is the primary driver.   The secondary drivers are:
+  - CLP can be leveraged to better communicate certain things (does not fit naturally in the benefit hub -- Mission Act, COVID-19)
 
 ## Our thoughts on potential KPIs if we stick to business-oriented success:
   * Requests for campaign-esque requests go down (e.g. they now have a self-service tool)
   * Number of CLPs goes up (e.g. the tool allows us to “scale”)
   * Burden on team is measurably reduced (e.g. self-service)
+  
+  Veteran oriented success metrics:
+   * Vet usage of CLP
+   * 
+  
