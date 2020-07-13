@@ -73,7 +73,7 @@ If there is nothing else to do, here are a few more ideas:
 
 ### Tracking 
 
-In order to improve this process we need to track the kinds of things the daytime oncall support person does. So track the tasks you perform while in the role by leaving a comment in the sprint objective issue for that sprint in GitHub.
+In order to improve this process we need to track the kinds of things the daytime oncall support person does. So track the tasks you perform while in the role by leaving a line in the [Support Incidents Spreadsheet](https://docs.google.com/spreadsheets/d/1bKUfJ6GSRm7_Zal88IkYEiw5md-9L9WRxK51ZNMtt8k/edit?usp=sharing) in the applicable section.
 
 ### Ongoing review
 
