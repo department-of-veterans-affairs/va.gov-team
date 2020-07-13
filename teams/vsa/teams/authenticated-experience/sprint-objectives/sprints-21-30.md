@@ -178,6 +178,9 @@ Design
   - If you were a designer onboarding to this product, what documentation would you want?
 
 Dev
+
+**What else needs to happen?**
+
 - Pre-launch - Work with Matt to put together the privacy and security review request
 - Testing - Determine what tests we need (re: integration, E2E testing, load testing, unit testing) and implement/run tests
 - Pre-launch - Update relevant parts of the product outline/project folder
@@ -190,6 +193,8 @@ Platform
 - 508 - Conduct 508 review
 
 ### Logged-in homepage
+
+Let's focus on Profile 2.0 for at least one more sprint before moving on to LIH.
 
 ## Sprint 27 (7/29 – 8/11)
 
