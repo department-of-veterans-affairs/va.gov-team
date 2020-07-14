@@ -28,13 +28,13 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 
 ### Behavior
 
-[Report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
+[Site content overview report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
 
 - People who view My VA are mostly interested in viewing their claim status. This is probably the most important thing we can feature on the logged-in homepage.
 - These users are also interested in facilities info, records info, payment info, GI bill info, and profile info.
 - Health info is less popular in this view because we are looking at modernized site data only, but we should keep in mind health content/MHV is the most popular info in the VA digital ecosystem.
 
-[Report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html/)
+[Site content overview navigation summary report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fmy-va~2Findex.html/)
 
 - In terms of pages feeding in to My VA, we see the homepage, claim status, the profile, the Find VA benefits tool (which is on My VA), the account page, and search.
 - In terms of what people do from My VA, we see the most popular next step is to go to the profile. The account page is also in the top 10. I wonder if this is less because those are the most important interactions people want to take and actually because there is info the expect to see on My VA that they do not. We should continue to be mindful of this relationship between a dashboard and a profile going forward and continue to move towards clarifying what lives where.
@@ -43,10 +43,44 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 - They also go to MHV. I think this may be from the "My Health" link, though unclear if they are clicking through from a Rx or message.
 - Going to the claim status tool is actually number 10 in the top 10. Unclear if this is because people can see the status right on My VA, or if because they have already been to the claim status tool and don't need to go back.
 
-[Exit page reprt](https://analytics.google.com/analytics/web/?authuser=0#/report/content-exit-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
+[Exit page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-exit-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
 
 - Aside from the homepage, people who view My VA leave from the claim status tool, payment info, to go to MHV, and the download VA letters page. We can assume that these are the things people came to the site to interact with.
 - Some are leaving from My VA itself, though it's unclear if this is because they found what they were looking for or didn't.
 
 ### Search terms
+
+[Search term report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/) — Only goes to April 2, 2020
+
+For people who view My VA, the top 10 search terms are (note: these searches do not necessarily happen from My VA itself):
+
+- health
+- all
+- benefits
+- vet center
+- direct deposit
+- cc provider
+- urgent care
+- cemetery
+- ebenefits
+- Direct deposit
+
+We can assume that if we link to/feature any of these things on the logged-in homepage, we can reduce the incidents of search for these tools.
+
+[Terms searched from My VA](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:~2Fmy-va~2Findex.html/) - Only fgoes to April 2
+
+These are the terms searched for from My VA itself. We can assume that these are what people expect to find on their dashboards:
+
+- direct deposit
+- ebenefits
+- id card
+- dd214
+- Direct deposit
+- weblgy
+- claims
+- vic
+- Disability
+- Vic
+
+Of note — "Rating", "disability rating," and "Disability rating" all make it into the top 20, but since they are counted as separate searches, did not make it into the top 10. We can assume this means people are expecting to see their disability rating on their dashboard but are not seeing it.
 
