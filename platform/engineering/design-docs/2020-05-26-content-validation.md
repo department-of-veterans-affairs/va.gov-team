@@ -139,7 +139,7 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 ## High Level Design
 
-As part of the [build separation work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719), two separate pipelines will be created for for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments.
+As part of the [build separation work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719), two separate pipelines will be created for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments.
 
 The Metalsmith static content build will be extracted to the `content-build` repo and deleted from `vets-website`, and its deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
 
