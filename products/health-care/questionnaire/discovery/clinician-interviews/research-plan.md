@@ -1,6 +1,7 @@
-# Research Plan for Healthcare Experience Team June 2020 
+# Research Plan for Healthcare Experience Team - July 2020 
+
 ## Goals	
-This research is for initial discovery for the Health Care Experience, Questionnaires team. 
+This research is for the Healthcare Experience team to learn about the pre-appointment process from the clinician perspective. 
 
 **Background**
 
