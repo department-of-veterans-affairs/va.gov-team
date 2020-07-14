@@ -84,3 +84,21 @@ These are the terms searched for from My VA itself. We can assume that these are
 
 Of note — "Rating", "disability rating," and "Disability rating" all make it into the top 20, but since they are counted as separate searches, did not make it into the top 10. We can assume this means people are expecting to see their disability rating on their dashboard but are not seeing it.
 
+## Homepage - Logged-in users only
+
+### Users
+
+[Audience overview report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=builtin1,usersYzZ0EUDT4uJLecPmCwn3Q/)
+
+- About 20% of VA.gov user login.
+- There is not a meaningful difference in how many sessions logged-in users have vs. all users. 
+- However, logged-in users have a much lower bounce rate — almost 0% — in contrast to all users. They view almost 13 pages pers session on average as opposed to about 5 per session for logged-out users, and spend ~11 minutes on the site vs. 5 minutes, suggesting that they are interacting at a more in-depth level.
+
+
+
+
+### Engagement
+
+### Behavior
+
+### Search terms
