@@ -45,9 +45,9 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Content (Peggy)
   - Information architecture (Mikki)
   - QA (Peter)
-  - Product (Megan and/or Andrea)
+  - Product (Mandi)
   - Analytics (Joanne)
-  - VSP’s DEPO co-leads (Kevin)
+  - VSP’s DEPO co-leads (Kevin & Dror)
 
 ### Artifact inputs 
 You bring: 
@@ -87,6 +87,7 @@ Present a draft of your ideas to VSP and other expert designers. Learn about exi
   - VSP designers (Emily and/or Crystabel) - required
   - Accessibility (Trevor) - required
   - DEPO platform design expert (Kevin H) - optional
+  - DEPO Engineering Lead (Dror) - optional
 
 ### Artifact inputs
 You bring:
@@ -147,8 +148,8 @@ VSP brings:
   - Content (Peggy) - required
   - Information architecture (Mikki) - required
   - QA (Peter) - required
-  - Product (Megan and/or Andrea) - required
-  - VSP’s DEPO co-leads (Kevin) - optional
+  - Product (Mandi) - required
+  - VSP’s DEPO co-leads (Kevin & Dror) - optional
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -209,7 +210,7 @@ VSP provides:
 - Finalized information architecture attributes
 
 ## For further support at this point
-Reach out to Information Architecture resources (@Mikki @Megan Kelley) in Slack #vfs-platform-support with any questions.
+Reach out to Information Architecture resources (@Mikki) in Slack #vfs-platform-support with any questions.
 
 ---
 
@@ -338,9 +339,9 @@ VSP brings:
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
   - QA (Peter) - required
-  - Product (Megan and/or Andrea) - required
+  - Product (Mandi) - required
   - Information architecture (Mikki) — optional
-  - VSP’s DEPO co-leads (Kevin) - optional
+  - VSP’s DEPO co-leads (Kevin & Dror) - optional
   - Analytics (Joanne) - optional
 
 ## For further support at this point
@@ -429,7 +430,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 ## Collaboration format: asynchronous
 
 ### Request Process
-**VFS Product Manager** link to your completed Release Plan in Slack #vfs-all-teams and tag @AndreaHewitt
+**VFS Product Manager** link to your completed Release Plan in Slack #vfs-all-teams and tag @mandi lipka
 
 ### Artifact inputs
 You bring: 
