@@ -10,10 +10,23 @@
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows. 
 
 
-### Team Mission Statement:
+### Mission:
 
-### North Star: _Placeholder - still drafting during Discovery Sprint
-[Still drafting during Discovery Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
+... is to deliver personalized experiences that support collaboration and create a seamless health and well-being journey
+
+### Vision:
+
+... to meet users where they are and empower them with tools that exceeding expectations
+  1. accessibility
+  2. collaboration
+  3. be delightful 
+ 
+### North Star: 
+
+1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits  
+2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
+
+[Mission/Vision/North Star Ideas Explored](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
 
 
 ### Product Suite (if applicable): 
