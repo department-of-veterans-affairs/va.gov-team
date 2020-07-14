@@ -70,7 +70,7 @@ _June 3 - June 16_
 - FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ✔
 - [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review) 🌀  
 - BE/FE: e2e and load testing with partner systems
-- FE: Confirm Sentry access, enter utility code [#10535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10535) 👈
+- FE: Confirm Sentry access, enter utility code [#10535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10535) ✔
 
 ## Sprint 24
 _June 17 - June 30_  
