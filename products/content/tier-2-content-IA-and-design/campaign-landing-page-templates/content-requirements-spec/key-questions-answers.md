@@ -17,10 +17,10 @@
 **What problem does CLP try to solve?**  
 - We are addressing demand from business stakeholders who want this capability to create more effective communications AND capacity issues – e.g. Public Websites does not have the resources to solve this need.   
 
-** How will we be able to track the success of CLPs?**  
+**How will we be able to track the success of CLPs?**  
 - CLPs will be instrumented for Google Analytics tracking, with particular focus on the performance of the page CTAs to drive traffic to benefits contents and tools.  While the traffic performance of CLP is not a KPI -- we do think enforcing the use of a CTA and identifying the audience the CLP is targeting (e.g., Who is this for?) will help ensure business these marketing efforts are more focused, targeted and measured. 
 
-** How many CLPs will likely be launched a year?** 
+**How many CLPs will likely be launched a year?** 
 - 5-10 a year, if we roll it out in phased approach. If made available to all businesses at VA, it could be significantly more than 10 a year.
 
 **Is there an expiration date associated with CLPs?**  
@@ -36,7 +36,7 @@
 - for MVP we will work with a select group of stakeholders -- likely one BU.  Once we validate the product's value (and fine-tune the product as needed), we will introduce CLP to other key stakeholder/user groups.
 - we will create a product guide/webpage to on-board users
 
-** How will the use of the CLP be governed?**  
+**How will the use of the CLP be governed?**  
 - We envision three phases of roll-out where a sliding scale of governance is applied.
   - Phase One (MVP phase) - Public Websites will tightly govern use with 1 or 2 select VA business user groups who will serve as our beta builders/testers.
   - Phase Two (Incremental roll-out) - Assuming MVP phase meets key criteria (to be better defined), will widen the pool of users to 3 stakeholder groups.  Think of this as phase “by invitation only.”
