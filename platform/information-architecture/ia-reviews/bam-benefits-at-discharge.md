@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: DRAFT**
+**STATUS: COMPLETE**
 
 **Team:** BAM 1
 
@@ -7,7 +7,7 @@
 
 **Background/Context:** The BDD program allows Service members to apply for their disability benefits before separation.
 
-**IA Completed Date:** 
+**IA Completed Date: 7/14/2020** 
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/10184
 **IA/Content Strategy Issue:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10896
