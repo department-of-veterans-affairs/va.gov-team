@@ -15,6 +15,7 @@
 - is to contribute to a personalized and seamless delivery of health and well-being
 - is to contribute to a streamlined and collaborative healthcare experience
 - is to ensure Veterans and their care team have the right health information at the right time
+- **is to deliver personalized experiences that support collaboration and create a seamless health and well-being journey**
 
 ## Vision  
 
@@ -23,6 +24,12 @@
 - to create health and well-being experiences that delight and empower Veterans to partner with their care team.
 - to simplify the health care journey by creating delightful and collaborative experiences for veterans and their care team.
 - The health care experience team uses industry best practices and modern technology approaches to provide Veterans and their care teams with tools and experiences that are accessible, secure and informative to ensure all parties feel empowered and informed while allowing for a seamless transition of care. 
+- Exceeding expectations, delightful, empower, 
+
+- **to meet users where they are and empower them with tools that exceeding expectations
+ - accessibility
+ - collaboration
+ - be delighful
 
 ## North Star 
 - DEPO - Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
@@ -31,13 +38,14 @@
  - *Ship rate — Number of initiatives shipped by VSA product teams
 
 Suggestions
-- Optomize Care- # Veterans leveraging pre-visit intake information in their care visits  
-- Save Time- % of clinician time reduced for a visit by using veteran provided intake information  
+- **Optomize Care- # Veterans leveraging pre-visit intake information in their care visits**  
+- **Save Time- % increase time focused on health outcomes by % decreasing time on data entry**
 
 Others
 - .# Veterans completing an intake form >1 day ahead of visit time.
 - .# of weekly Veterans completing their first intake form 
 - Health outcomes/satisfaction scores increase
+- % of clinician time reduced for a visit by using veteran provided intake information  
 
 ### Key Words Used to Describe our Mission and Vision 
 
