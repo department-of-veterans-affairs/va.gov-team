@@ -13,6 +13,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 
 - [ ] **HP!** Revised chapter titles
 - [ ] Default selection in country dropdown to 'United States'
+- [ ] Resolve city/state/country location errors to say: "Please enter valid location" rather than pattern parameters
 
 ### Checkboxes
 
