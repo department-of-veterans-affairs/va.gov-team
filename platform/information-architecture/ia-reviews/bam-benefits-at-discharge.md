@@ -69,7 +69,7 @@ Must | [How to file a claim](https://www.va.gov/disability/how-to-file-claim/) |
 - Redirects will be needed for all URL changes to ensure old URLs are redirected to the new URLs, as well as pages that are being retired.  This includes the following pages:
 
 Current page | Current URL | New URL/Redirect to
---- | ---
+--- | --- | ---
 When to file a claim | /disability/how-to-file-claim/when-to-file/ | /disability/how-to-file-claim/
 Pre-discharge claim | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/ | /disability/how-to-file-claim/pre-discharge-claim/
 File while overseas | /disability/how-to-file-claim/when-to-file/pre-discharge-claim/file-while-overseas/ | /disability/how-to-file-claim/pre-discharge-claim/
