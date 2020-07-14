@@ -11,7 +11,6 @@ BAH | STEM Scholarship App | NOT STARTED | Kick-off held 4/21 <br> https://githu
 eBenefits | Chapt 36 Career Counseling | NOT STARTED | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 BAM 2 | Debt Letters | IN PROGRESS | Kick-off held 3/12 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
-BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | Usability prep feedback given, waiting research results <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 
 
 
