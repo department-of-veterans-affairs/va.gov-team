@@ -1,5 +1,6 @@
 # Welcome to Healthcare Experience - Questionnaires 
 - Product Status: In Discovery
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md)
 - [Team Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/README.MD)
 - Zenhub Workspace Tag - [vsa-healthcare-exp](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-healthcare-exp&notFullScreen=false&repos=33202667,133843125&showPipelineDescriptions=false)
 
