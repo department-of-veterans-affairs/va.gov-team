@@ -17,7 +17,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 ### Checkboxes
 
 - [ ] **HP!** Change chapter title to: "What you want to do"
-- [ ] **HP!** Change text of all checkboxes per updated mockups
+- [ ] **HP!** Change text of all checkboxes per [updated mockups](https://xd.adobe.com/view/ca825c11-2268-458f-4fec-6aaecfec5b2d-bcb3/specs/)
 - [ ] **HP!** Move instructional text below checkboxes
 - [ ] Revise instructional text per mockups
 - [ ] Address inconsistent spacing between checkboxes
