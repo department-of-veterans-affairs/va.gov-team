@@ -7,9 +7,9 @@
 
 ### Situation
 
-Forms are employed across VA.gov to provide an electronic alternative to paper applications. These forms are designed and engineers using standardized practices to deliever a consistent look, feel and function across the site. However, the collection of biographical data (name, DOB, SSN, etc.) from authenticated (logged-in) users falls into two categories: static and editable. There is no consistent indication to the user as to why methods differ.
+Forms are employed across VA.gov to provide an electronic alternative to paper applications. These forms are designed and engineers using standardized practices to deliver a consistent look, feel and function across the site. However, the collection of biographical data (name, DOB, SSN, etc.) from authenticated (logged-in) users falls into two categories: static and editable. There is no consistent indication to the user as to why methods differ.
 
-Users regularly report their frustration with having to enter their "VA-known" information over and over with each new form, so presenting static infomation for review seems to be the correct presentation of known biographical user data. The case for known common data (address, phone, email, etc.) is less clear. Complicating the issue of presenting know data is the variety of Lines of Business (LOB), each with their own needs and constraints, and the large number of backend systems/data sources serving VA.gov.
+Users regularly report their frustration with having to enter their "VA-known" information over and over with each new form, so presenting static information for review seems to be the correct presentation of known biographical user data. The case for known common data (address, phone, email, etc.) is less clear. Complicating the issue of presenting know data is the variety of Lines of Business (LOB), each with their own needs and constraints, and the large number of backend systems/data sources serving VA.gov.
 
 This proposal explores the available options and presents a case for an "optimal" presentation of known data within the VA.gov form system.
 
@@ -37,6 +37,12 @@ This proposal explores the available options and presents a case for an "optimal
 - User has erroneous data on record
 - User has correct data on-record
 
+### Data sources
+
+Forms on VA.gov are processed by various Lines of Business. These LOBs often have different backend systems and data sources that help process applications, and they each use their own balance of automated and 'manual' procedures to move submissions through their respective workflows. These processing differences drive how forms present (known) biographical and common data is presented to users.
+
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
+
 ### Approaches
 
 #### User enters form unauthenticated:
@@ -51,21 +57,35 @@ This proposal explores the available options and presents a case for an "optimal
 
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
 
-### Data sources
-
-There are many databases and repositories within the VA ecosystem that serve as sources for users' biographical and common data, with several being considered 'sources of truth.' However, users of VA.gov have the expectation that their known information is centralized and accessible at all VA touchpoints. 
-
-![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
-
 ---
 
 ### Recommendations
 
-Forms on VA.gov are processed by various Lines of Business. These LOBs often have different backend systems and data sources that help process applications, and they will uses differning balance of automated and 'manual' procedures to move submissions through their respective workflows. 
+There are many databases and repositories within the VA ecosystem that serve as sources for users' biographical and common data, with several being considered 'sources of truth.' However, users of VA.gov expect that their known information is centralized and accessible at all VA touchpoints. 
 
-These processing differences drive how form present known biographical and common data is presented to users.
+#### Guidelines
 
-[ WIP -- More to come. ]
+1. Consistent patterns across VA.gov
+2. Inform unauthenticated users their data is application-only
+3. Encourage users to sign-in to complete forms
+4. Provide a path to remedy data errors
+5. Keep users in the form (reduce abandonment)
+
+#### Unauthenticated users
+
+For forms that don't require a user to sign-in, biographical and common data are entered by the user and submitted to the LOB. All form fields will be presented per requirements, and the user is free to enter all information. The LOB receiving this data will process the form and update the 'canon' databases as needed--likely, manually.
+
+We suggest adding a brief statement regarding how a user's information will be used--possibly at the top of the form's initial screen. This statement will complement the messaging in the sign-in widget on the form intro page.
+
+> Because you are not signed-in, any information you enter will apply only to this application.
+
+Additionally, a sign-in link could be presented:
+
+> Want to skip this step? Sign in to start your application.
+
+#### Authenticated users
+
+
 
 ---
 
