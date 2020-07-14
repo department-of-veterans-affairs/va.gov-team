@@ -13,20 +13,20 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 
 ### Engagement
 
-[Report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-engagement/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&histogramTab-sectionControl.sectionId=duration/)
+[Behavior > Engagement > Session duration report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-engagement/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&histogramTab-sectionControl.sectionId=duration/)
 
 - Users who view my VA tend to view the site anywhere between 1 minute - 30 minutes, with the most being in the 3 - 10 minute range.
 - They also mostly view 1 -2 pages, with another even distribution in the curve between 6 - 9 pages.
 
-[Report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-cohort/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
+[Cohort analysis report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-cohort/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
 
 - Users tend to not view the My VA page multiple days in a row, which is expected and fine. The information there isn't going to update daily, so there is little incentive to have them logging in everyday.
 
-[Report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&overview-dimensionSummary.selectedGroup=sitecontent&overview-dimensionSummary.selectedDimension=analytics.pageTitle/)
+### Behavior
+
+[Behavior overview report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&overview-dimensionSummary.selectedGroup=sitecontent&overview-dimensionSummary.selectedDimension=analytics.pageTitle/)
 
 - If I'm reading this report correctly, ~3% of pageviews for logged in users on the modernized site were of My VA. That number feels "low" until you consider that it's in the top 10 pages for logged in users and is only below the homepage and claim status-related content, which is the most popular tool on the site.
-
-### Behavior
 
 [Site content overview report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=25/)
 
