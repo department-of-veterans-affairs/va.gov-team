@@ -35,7 +35,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 
 - [ ] **HP!** Change chapter title to: "Information needed to add children"
 - [ ] Change subhead above "examples of additional evidence" accordion to: "Additional evidence needed to add children"
-- [ ] **HP!** Revise text under "examples of additional evidence" accordion to match mockups
+- [ ] **HP!** Revise text under "examples of additional evidence" accordion to match [mockups](https://xd.adobe.com/view/0430be78-21b6-46e2-68b0-586c650d77c8-7201/)
 - [ ] Change "Does your child live with you?" to: "Does this child live with you?"
 - [ ] Change "Person your child lives with" to: "Person child lives with"
 
