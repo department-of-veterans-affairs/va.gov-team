@@ -139,11 +139,11 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 ## High Level Design
 
-As part of the [build separation work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719), two separate pipelines will be created for built code to be deployed to S3 to prevent failures in one from blocking between CMS and application deployments.
+Once the [build separation work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719) is complete, there will be separate content and application builds. These distinct builds will prevent failures in one from blocking deployments to the other.
 
-The Metalsmith static content build will be extracted to the `content-build` repo and deleted from `vets-website`, and its deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
+The Metalsmith static content build will be extracted to the `content-build` repo and deleted from the `vets-website` repo and `vets-website` deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
 
-The validation of static content will take place in a scheduled job that runs every workday instead of ???. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
+The validation of static content will take place in a scheduled job that runs every workday, instead of happening as part of the full deploy. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
 ## Specifics
 
