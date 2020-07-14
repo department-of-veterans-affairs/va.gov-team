@@ -30,7 +30,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
 ## Collaboration format: 30-minute meeting
 
 ### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
 
 ### Meeting attendees
 - VFS brings: 
@@ -117,7 +117,7 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 ## Collaboration format: 30-minute meeting 
 
 ### Request Process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here]( https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle&template=usability-testing-prep.md&title=Usability+Testing+Prep+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
@@ -303,7 +303,7 @@ Get feedback on your completed build before rolling out to users.
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
+**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mandifrances&labels=product+support%2C+content-ia-team%2C+collaboration-cycle%2C+staging-review&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
