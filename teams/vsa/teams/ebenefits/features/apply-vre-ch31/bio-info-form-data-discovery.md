@@ -51,6 +51,10 @@ This proposal explores the available options and presents a case for an "optimal
 
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Form_States_W1.png)
 
+### Data sources
+
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
+
 ---
 
 ### Recommendations
