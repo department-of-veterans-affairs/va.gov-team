@@ -43,5 +43,10 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 - They also go to MHV. I think this may be from the "My Health" link, though unclear if they are clicking through from a Rx or message.
 - Going to the claim status tool is actually number 10 in the top 10. Unclear if this is because people can see the status right on My VA, or if because they have already been to the claim status tool and don't need to go back.
 
+[Exit page reprt](https://analytics.google.com/analytics/web/?authuser=0#/report/content-exit-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
+
+- Aside from the homepage, people who view My VA leave from the claim status tool, payment info, to go to MHV, and the download VA letters page. We can assume that these are the things people came to the site to interact with.
+- Some are leaving from My VA itself, though it's unclear if this is because they found what they were looking for or didn't.
+
 ### Search terms
 
