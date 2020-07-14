@@ -20,11 +20,11 @@ BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | Usability prep f
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
-BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | Usability prep feedback given, waiting research results <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
-Authenticated Experience | Profile 2.0 | COMPLETE 06/25/2020 | Usability prep feedback given for profile pages, FAQ page, and app directory <br> page. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
-eBenefits | Payment History | COMPLETED 6/5/2020 | Kick-off held 3/19 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
-Public Websites | Decision Review IA Improvements | COMPLETE 05/26/2020 | IA mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-decision-reviews.md
-BAM 2 | Medical Device Ordering | COMPLETE 05/05/2020 | IA work mostly complete, waiting responses to open questions <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
+BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
+Authenticated Experience | Profile 2.0 | COMPLETE 06/25/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
+eBenefits | Payment History | COMPLETED 6/5/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
+Public Websites | Decision Review IA Improvements | COMPLETE 05/26/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-decision-reviews.md
+BAM 2 | Medical Device Ordering | COMPLETE 05/05/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-med-device-order.md
 Public Websites | AMA Updates | REVIEW DECLINED | IA Review was declined by team in order to make deadline for content updates.  Team agreed that no URL changes, redirects or nav structural changes can be made.  Complete IA review of Decision Review process is needed as part of next steps. https://github.com/department-of-veterans-affairs/va.gov-team/issues/5541
 eBenefits | Add/Remove Dependents | COMPLETE 03/13/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-dependents.md
 Public Websites | Yellow Ribbon Tool | COMPLETE 02/19/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-yellow-ribbon.md
