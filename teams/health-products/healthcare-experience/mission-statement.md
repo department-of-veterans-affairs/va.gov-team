@@ -1,5 +1,8 @@
 ## Team Mission Statement
-
+-	...create an efficient and engaging experience for Veterans and their care teams. 
+-	...ensure Veterans and their care teams can easily access, edit & update their health care information
+-	...enable the seamless of transition of care as Veterans access the care that they’ve earned 
+-	...help Veterans and their care teams feel empowered and informed throughout their health care journey with VA
 - is to provide Veterans and their health care team an accessible, efficient, and trustworthy experience
 - is to provide Veterans with a reliable and efficient tool that will empower them to provide information that is useful among the entire spectrum of their care 
 - is to help the vets have a quality experience while lowering friction and increasing trust.
@@ -19,7 +22,7 @@
 - to empower Veterans to provide useful information online
 - to create health and well-being experiences that delight and empower Veterans to partner with their care team.
 - to simplify the health care journey by creating delightful and collaborative experiences for veterans and their care team.
-
+- The health care experience team uses industry best practices and modern technology approaches to provide Veterans and their care teams with tools and experiences that are accessible, secure and informative to ensure all parties feel empowered and informed while allowing for a seamless transition of care. 
 
 ## North Star 
 - DEPO - Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
