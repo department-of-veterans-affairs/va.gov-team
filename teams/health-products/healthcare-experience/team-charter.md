@@ -16,7 +16,7 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 
 ### Vision:
 
-... to meet users where they are and empower them with tools that exceeding expectations
+... to meet users where they are and empower them with tools that exceed expectations
   1. accessibility
   2. collaboration
   3. be delightful 
