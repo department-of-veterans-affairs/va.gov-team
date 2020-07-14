@@ -53,6 +53,8 @@ This proposal explores the available options and presents a case for an "optimal
 
 ### Data sources
 
+There are many databases and repositories within the VA ecosystem that serve as sources for users' biographical and common data, with several being considered 'sources of truth.' However, users of VA.gov have the expectation that their known information is centralized and accessible at all VA touchpoints. 
+
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
 
 ---
