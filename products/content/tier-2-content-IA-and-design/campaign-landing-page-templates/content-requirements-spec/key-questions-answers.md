@@ -45,7 +45,7 @@
 **How will VA businesses become aware of the new CLP capability/product?**
 - for MVP we will work with a select group of stakeholders -- likely one BU.  Once we validate the product's value (and fine-tune the product as needed), we will introduce CLP to other key stakeholder/user groups. We would create a product guide/webpage to on-board and train users
 
-Questions which need follow-up to finalize (John):
+## Questions which need follow-up to finalize (John):
 
 **What's the difference between content for CLP, Learning Center and a Benefit Hub?**  
 - I will work to put a finer point around the distinctions (e.g. comparison table)
@@ -53,6 +53,6 @@ Questions which need follow-up to finalize (John):
 **Will CLPs need VSP Collaboration Cycle review before they are published?**   
 - While the CLP product will undergo all necessary Collab Cycle reviews, we see no reason for each CLP to be created by users to require review.   Will confirm with VSP.
 
-** Where will CLPs sit in the site IA and directory structure?**  
+**Where will CLPs sit in the site IA and directory structure?**  
 - Requires more follow-up thinking with Mikki, Meg and KevinW. Original thinking -- CLPs would be root-level pages, not part of the IA with the URL baked in to the CLP template creation, perhaps driven by the H1.  However, Mikki's concern: H1s can be changed which would affect the URL.
 
