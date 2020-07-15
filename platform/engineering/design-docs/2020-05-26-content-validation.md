@@ -261,7 +261,7 @@ The following estimates vary greatly depending on who's doing the work.
 
 #### Highest quality, but lowest speed
 
-If we could proactively validate CMS content before it's published, we could eliminate a source of downstream broken links and/or accessibility errors, which would improve the experience for end users and/or reduce the number of frontend deploys that require manual intervention. The downside of this approach would be figuring out how to add the content validation to the CMS, and/or adding friction to the content writers workflow.
+If we could proactively validate CMS content before it's published, and sync the Drupal redirects with `vets-website`, we could eliminate a source of downstream broken links and/or accessibility errors, which would improve the experience for end users and/or reduce the number of frontend deploys that require manual intervention. The downside of this approach would be figuring out how to synchronize the Drupal redirects with `vets-website`, and/or adding friction to the content writers workflow.
 
 #### Fastest speed, but lowest quality
 
