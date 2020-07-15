@@ -41,14 +41,11 @@ When going to a healthcare visit, I want to share my current health status and m
 
 [Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
 
-## Desired User Outcomes 
+## Value Propositions  
 
-- Enter user Story /use case Epics here
-
-## User - Value Propositions 
+### Veteran & Clinical Staff
 
 **Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
-
 <details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
 
 - Veterans forms can be pre-populated with known profile and health history sections, leaving only updates and current visit symptoms/screener to be completed by the veteran.
@@ -94,11 +91,8 @@ When going to a healthcare visit, I want to share my current health status and m
 
 </details>
 
-## Desired Business Outcomes 
 
-- Enter user Story /use case Epics here 
-
-## Business Value Proposition  
+### Business
 
 **Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
 
@@ -172,6 +166,13 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 	- Administrative employees might not always know or miss which forms need to be updated by the veteran before the visit.
 
 </details>
+
+## Desired Outcomes 
+
+### Veteran & Clinical Staff
+
+### Business 
+- Enter user Story /use case Epics here
 
 ---
 ## Measure Success 
