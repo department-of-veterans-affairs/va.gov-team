@@ -20,11 +20,6 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
   1. accessibility
   2. collaboration
   3. be delightful 
- 
-### North Star: 
-
-1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits  
-2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
 [Mission/Vision/North Star Ideas Explored](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
 
@@ -33,10 +28,9 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 Healthcare Experience - Veteran (person/consumer of health) 
 
 
-
 ### Product Portfolio:
  1. Healthecare - Questionnaires/Intake forms
- 	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan)
+ 	- [Roadmap 2020 Feature Availability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
  2. _coming soon_ 
  3. _coming soon_ 
 
