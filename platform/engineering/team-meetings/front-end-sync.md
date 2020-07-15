@@ -1,3 +1,13 @@
+# 20200715
+
+## Agenda
+- [dependency upgrade management](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11224)
+- e2e tests update
+- web components 
+
+## Notes
+- 
+
 # 20200701
 
 ## Agenda
