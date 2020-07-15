@@ -18,7 +18,7 @@ When going to a healthcare visit, I want to share my current health status and m
 
 - [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
 
-### Unmet Needs
+### Unmet Needs - _identified from user research_
 
 1. Provide updates when convenient and relevant with the device and location of choice
 2. Provide only updates for the things that have changed
@@ -26,7 +26,7 @@ When going to a healthcare visit, I want to share my current health status and m
 5. Do similar things the same way with seamless next steps
 6. Avoid having to repeat health history across the continuum of care		
  
-### User Feedback Key Findings
+### User Research - Key Findings
 
 **Save time and optomize care** - Theme to apply to Nort Star Objective 
 - [Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
