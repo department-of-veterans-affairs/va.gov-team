@@ -8,9 +8,8 @@
 
 The current search in the Comparison Tool poses challenges for users as they search for institutions since it requires that they enter an exact match in order to provide them with results.
 
-      - If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State, state abbreviations) then the results they are searching for will not be returned.
-      - The current search feature limits the ability to search on school type to just on the job training (OJT) and schools, which means people are not able to search exclusively for programs of specific length (like associates programs), VET TEC programs, and more.
-
+   - If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State, state abbreviations) then the results they are searching for will not be returned.
+   - Users want to be able to search on zip code but are not currently able to do so
 
 How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations, nicknames, portions of institution names, or partial matches?
 
@@ -85,11 +84,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Narrative
 ### MVP (These are MVP requests and serve as a wish list until research on each is complete)
-- Search Criteria: Program Level (i.e., Graduate vs. Undergraduate)
-- Search Criteria: Zip Code
-- Search Criteria: In-State vs. Out-of-State (Location)
-- Search Criteria: Alternate/Nicknames/ Abbreviations
+- Search Criteria: Alternate/Nicknames/Abbreviations
    - WEAMS has a slot for nicknames that isn't currently being used in WEAMS (used to be... we can look at reusing this field)
+- Search Criteria: Misspellings
+- Zip code search
 
 ### Nice to have/Enhancements
 - Expose CT Search as an API
