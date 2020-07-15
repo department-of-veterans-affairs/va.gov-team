@@ -3,6 +3,7 @@
 
 
 ## Phase I: User Acceptance Testing
+*Test real-world user scenarios to ensure your product performs as expected.*
 
 ### Planning:
 
@@ -32,7 +33,7 @@
 
 ### Do I need a staged rollout?
 
-A staged rollout is recommended unless you can confidently answer "yes" to all of the following:
+A staged rollout is recommended unless you can confidently answer "yes" to the following:
 
 - This change does not add substantial new functionality to the Platform.
 - This change does not impact VFS teams' workflow.
