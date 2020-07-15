@@ -21,4 +21,4 @@
 - Explore error message/print or download PDF
 
 ## Product
-- New collab cycle initiave for new work
+- New collab cycle initiave for new work (post-MVP)
