@@ -35,7 +35,7 @@
 A staged rollout is recommended unless you can confidently answer "yes" to all of the following:
 
 - This change does not add substantial new functionality to the Platform.
-- This change does not impact user flows through tasks..
+- This change does not impact VFS teams' workflow.
 
 ### Planning:
 
