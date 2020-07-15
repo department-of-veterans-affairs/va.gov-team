@@ -1,8 +1,8 @@
 # Personas<br>
 This document serves to house the first draft personas created from the Healthcare Experience Discovery reasearch synthesis.
 
-## Scarlett<br>
-Scarlett is a post-9/11 Veteran who was recently released from her parents' insurance. She just enrolled in VA Healthcare and has visited her local facility three times to complete new patient paperwork and to see a mental health specialist.
+## Newbie Nancy<br>
+Nancy is a post-9/11 Veteran who was recently released from her parents' insurance. She just enrolled in VA Healthcare and has visited her local facility three times to complete new patient paperwork and to see a mental health specialist.
 
 ### Likes 
 - The focus on mental health when being asked questions about medical history
@@ -10,16 +10,17 @@ Scarlett is a post-9/11 Veteran who was recently released from her parents' insu
 
 ### Frustrations<br>
 - Would like to use MyHealtheVet but can't get account authenticated
+- Multiple visits to VA to complete enrollment
 
 ### Goals<br>
 - To have all needs taken care of through VA Healthcare
 
-## Jim<br>
-Jim is a Gulf War era Veteran who utilizes VA Healthcare for primary care and specialy care. He has mental health appointments every month and sees a dentist and optometrist twice a year. He also keeps a one-pager reference sheet that lists his medications and disabilities.
+## Prepared Pat<br>
+Pat is a Gulf War era Veteran who utilizes VA Healthcare for primary care and specialy care. He has mental health appointments every month and sees a dentist and optometrist twice a year. He also keeps a one-pager reference sheet that lists his medications and disabilities.
 
 ### Likes 
 - Notifications and text reminders for appointments
-- 
+- Seeing familiar faces at VA
 
 ### Frustrations<br>
 - Civilian providers outside of VA are too far and too expensive
@@ -30,8 +31,8 @@ Jim is a Gulf War era Veteran who utilizes VA Healthcare for primary care and sp
 - To limit visits to civilian clinics and utilize VA as much as possible
 - 
 
-## Wayne<br>
-Wayne is a Vietnam era Veteran who visits the VA once yearly for primary care to maintain his eligibility for VA Healthcare benefits. He also sees civilian primary care providers and lives two hours away from his closest VA Medical Center.
+## Eligibility Elmer<br>
+Elmer is a Vietnam era Veteran who visits the VA once yearly for primary care to maintain his eligibility for VA Healthcare benefits. He also sees civilian primary care providers and lives two hours away from his closest VA Medical Center.
 
 ### Likes 
 - Friendly providers and staff
@@ -39,6 +40,8 @@ Wayne is a Vietnam era Veteran who visits the VA once yearly for primary care to
 ### Frustrations<br>
 - Appointment scheduling is confusing and difficult
 - Long wait times before seeing doctor
+- Long travel times to nearest VA
 
 ### Goals<br>
 - To optimize time before having to leave for a VA visit
+- To be as efficients as possible in order to maintain VA Healthcare
