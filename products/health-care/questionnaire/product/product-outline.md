@@ -16,15 +16,15 @@ Veterans are unable to consistently share and update current health status and m
 ## Job To Be Done
 When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care.
 
-- [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
-
 ### Unmet Needs - _identified from user research_
 
 1. Provide updates when convenient and relevant with the device and location of choice
 2. Provide only updates for the things that have changed
 4. Display complicated medical words in customer friendly terminology 
 5. Do similar things the same way with seamless next steps
-6. Avoid having to repeat health history across the continuum of care		
+6. Avoid having to repeat health history across the continuum of care	
+
+[Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
  
 ### User Research - Key Findings
 
