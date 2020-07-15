@@ -12,8 +12,8 @@ If the product we are building does not include a form and only displays informa
 6. [Unit tests for Redux implementation]()
 7. [Unit tests for custom view component]()
 8. [Swap dummy API call in Redux for correct URL and adjust data structure]()
-9. [Meet with Analytics team and get Google Analytics event names]()
-10. [Add Google events to View Task](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/10-adding-google-analytics-events.md)
+9. [Meet with Analytics team and get Google Analytics event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/view-task/ticket-templates/11-meet-with-google-analytics.md)
+10. [Add Google events to View Task]()
 11. [Internal accessibility audit]()
 12. [508 testing]()
 
