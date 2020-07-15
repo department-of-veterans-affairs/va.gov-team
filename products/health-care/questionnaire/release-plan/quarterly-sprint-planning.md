@@ -7,6 +7,8 @@
 
 <details> <summary> Q3 2020 (June-Sept) Sprint 22-31</summary>
 
+## Q3 Target Release Launch Summary of Feature Capabilities
+- TBD description of our go to market strategy for Q3 release
 
 ## Sprint 31 - _Sprint Theme Name_
 9/23/2020 - 10/06/2020
