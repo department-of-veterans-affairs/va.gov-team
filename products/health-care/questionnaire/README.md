@@ -16,6 +16,7 @@ I am unable to consistently share and update current health status and medical h
 When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care.
 
 **Points of Contact**
+
 [Meet the Healthcare Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#who-we-are)
 
 ## Repo Menu 
