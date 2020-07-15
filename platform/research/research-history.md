@@ -12,6 +12,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 
+### July 2020
+
+#### July 6-9: VA Form 22-10203 - Apply for Rogers STEM Scholarship, Round 2  
+*Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
+
+- 6 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
+
 ### June 2020
 
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
