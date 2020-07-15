@@ -23,19 +23,19 @@ Liz Lantz, Public Websites, July 15, 2020
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 
    - Is the information easy to find using this search-focused, tag-based navigation?
-   - How easily are users able to navigate between learning center articles, and topics?
-   - Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful to users?
-   - What do users see as the difference between the learning center search and overall site search?
-   - Do users get confused if they click on a content link or CTA button in the learning center and it takes them to a benefit hub page? And vice versa? 
-   - Do users understand that information they don't find in the learning center might be in the benefit hub?
+   - How easily are people able to navigate between learning center articles, and topics?
+   - Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful?
+   - What do people see as the difference between the learning center search and overall site search?
+   - Do people get confused if they click on a content link or CTA button in the learning center and it takes them to a benefit hub page? And vice versa? 
+   - Do people understand that information they don't find in the learning center might be in the benefit hub?
    - Where would the most useful place be to provide links to the Learning Center?
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
-   - Users will easily understand how to use the search functionality.
-   - Template labels will help users determine which search result is most relevant to their search.
-   - Users will understand the difference between the Learning Center search and global site search.
-   - Users won't explicitly differentiate between the benefit hub and the Learning Center; they'll default to using overall site search if they can't find what they're looking for in either place.
+   - People will easily understand how to use the search functionality.
+   - Template labels will help people determine which search result is most relevant to their search.
+   - People will understand the difference between the Learning Center search and global site search.
+   - People won't explicitly differentiate between the benefit hub and the Learning Center; they'll default to using overall site search if they can't find what they're looking for in either place.
    - Our proposed IA will be effective for Veterans and those who support Veterans.
 
 ## Method	
