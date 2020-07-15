@@ -52,7 +52,8 @@ When going to a healthcare visit, I want to share my current health status and m
 
 ## Measure Success 
 
-**North Star**
+### North Star
+
 1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
 2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
