@@ -20,7 +20,7 @@ This document will focus on Vet Center detail page enhancement
 
 [Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#risk-factors)
 
-[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#rejected-solutions
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#rejected-solutions)
 
 [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#definition-of-done)
 
