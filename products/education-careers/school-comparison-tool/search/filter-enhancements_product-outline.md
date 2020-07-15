@@ -5,30 +5,9 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-The GI Bill Beneficiaries using the Comparison Tool are lacking additional nuanced data points that would help them find schools and training institutions that are a best fit for their education needs and make better education decisions. Some of the challenges users face are as follows:  
-   - When users search for schools based on on state alone,  branches of schools that are not in the same state are returned and this can be confusing to users.
-   - Users are unable to sort and filter using in-state/out-of-state, non-traditional semesters, etc. 
+The GI Bill Beneficiaries using the Comparison Tool are lacking additional nuanced data points that would help them find schools and training institutions that are a best fit for their education needs and make better education decisions. 
 
 How might we include additional information within the Comparison Tool regarding unique institution attributes in order to provide more holistic information to GI Bill Beneficiaries that can inform their decisions about how to use their benefits?
-
-### Who & Why details from PI 7 session: 
-Who: Schools & Training Institutions
-- OJT, Apprentiship to be included
-- Add schools/training institutions. They have an interest in how they are represented.
-- Would these data elements display on all institution types? Or does the data displayed depend on the type of institution
-- College Scorecard does not include all institutions that we track so we (EDU) would have to add any missing data; don’t really want to do that
-- If it isn’t available for an institution, then don’t worry about including it
-
-Why: Why can’t we provide a link to scorecard instead of incorporating data that already exists? 
-- College scorecard has a lot of good info and we already pull in a lot of information
-- We could include unique URL to the scorecard: “For more information about this school, check out College Scorecard”
-- Feedback from VA would be that we don’t want to take Veterans away from VA.gov
-   - DEPO: That is not a good reason o We should be focused on Veteran-specific information
-   - Don’t want to recreate something that already exists
-   - Amy: If people are in CT are looking for specific types of schools, for example HBCUs, and haven’t yet made the decision about what school to attend, then this could be a helpful feature.
-   - Luke: If the Veteran’s first stop is the Comparison Tool, then this makes sense. But if that isn’t the case, then this doesn’t work as well. Brings up the question around what is the journey the Veteran takes to identify the schools they want to attend
-   - BAH: This is tough because we know that not a lot of Veterans/Beneficiaries are using the Comparison Tool at all, so is this something we do to make the tool more useful?
-   - EDU: From that standpoint it makes sense. Incorporating additional College Scorecard data in the future makes sense, but not necessarily today.
 
 ## Desired User Outcomes
 *Why would a user want to use this?*
@@ -96,20 +75,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### MVP (These are MVP requests and serve as a wish list until research on each is complete)
 The existing integration with College Scorecard already pulls in a subset of the College Scorecard data, so this would just be additional data points. We are planning for display and search:
 - Display Data Elements on Search Results
-- Allow for Data Elements to be searchable
+- Allow for Data Elements to be filter-able
 - Link to College Scorecard Profile (Include URL of college scorecard page as a Scorecard data elements)
    - The URL is one of the data elements (like a citation; it adds validity to the data)
-
-### Nice to have/Enhancements
 - Display Data Elements on Profile Page
 - Data Elements (The existing integration already pulls in a subset of the College Scorecard data, so this would just be additional data points. We are planning for display and search.):
-   - HBCU
-   - Men Only
+   - Data Element: HBCU
+   - Data Element: Men Only
    - Data Element: Women Only
    - Data Element: Religious Affiliation
+
+### Nice to have/Enhancements
+- Data Elements (The existing integration already pulls in a subset of the College Scorecard data, so this would just be additional data points. We are planning for display and search.):
    - Data Element: HCM2 (heightened cash monitoring, severe)
    - Data Element: Distance Only
    - Data Element: PCTFLOAN (Percent of Full-time, Firsttime Undergraduates Receiving Federal Loans)
+- Filter Criteria: Program Level (i.e., Graduate vs. Undergraduate)
+- Filter Criteria: In-State vs. Out-of-State (Location)
 
 ### Current Status
 
