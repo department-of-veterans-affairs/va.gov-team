@@ -1,4 +1,4 @@
-## PROJECT BRIEF
+## DISCOVERY BRIEF
 
 ### Project Name
 Vet Center Discovery 
