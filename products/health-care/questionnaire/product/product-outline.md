@@ -28,8 +28,7 @@ When going to a healthcare visit, I want to share my current health status and m
  
 ### User Research - Key Findings
 
-**Save time and optomize care** - Theme to apply to Nort Star Objective 
-- [Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
+**Save Time and Optomize Care** - Theme to apply to Nort Star Objective 
 
 1. Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.	
 2. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
@@ -39,6 +38,8 @@ When going to a healthcare visit, I want to share my current health status and m
 6. Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.
 7. Participants want a way to connect digital forms with their information in MyhealtheVet.
 8. Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
+
+[Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
 
 ## Desired User Outcomes 
 
