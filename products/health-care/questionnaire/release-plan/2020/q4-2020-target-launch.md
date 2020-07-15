@@ -1,4 +1,17 @@
-## Q4 2020 Target Launch
+# Q4 2020 Target Launch 
 
-- This page will have target release date, go to market strategy, and release notes for feature capabilities.
+This page will have target release date, go to market strategy, and release notes for feature capabilities.
 - [Quarterly Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#q4-target-release-launch-summary-of-feature-capabilities)
+- [Roadmap Planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap.md)
+
+
+## Go-to-market Strategy
+
+- How are Veterans and others using this product going to know it exists?
+- What marketing, outreach, or communications are necessary for this product to be successful?
+
+## Target Launch Date
+
+- What is your target launch date of your MVP/iteration?
+  - **Jan 2021**
+- What is your date for when you'll evaluate impact after launch?
