@@ -5,10 +5,13 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-The GI Bill Beneficiaries using the Comparison Tool are lacking additional nuanced data points that would help them find schools and training institutions that are a best fit for their education needs and make better education decisions.
+The GI Bill Beneficiaries using the Comparison Tool are lacking additional nuanced data points that would help them find schools and training institutions that are a best fit for their education needs and make better education decisions. Some of the challenges users face are as follows:  
+   - When users search for schools based on on state alone,  branches of schools that are not in the same state are returned and this can be confusing to users.
+   - Users are unable to sort and filter using in-state/out-of-state, non-traditional semesters, etc. 
 
 How might we include additional information within the Comparison Tool regarding unique institution attributes in order to provide more holistic information to GI Bill Beneficiaries that can inform their decisions about how to use their benefits?
 
+### Who & Why details from PI 7 session: 
 Who: Schools & Training Institutions
 - OJT, Apprentiship to be included
 - Add schools/training institutions. They have an interest in how they are represented.
@@ -20,18 +23,19 @@ Why: Why can’t we provide a link to scorecard instead of incorporating data th
 - College scorecard has a lot of good info and we already pull in a lot of information
 - We could include unique URL to the scorecard: “For more information about this school, check out College Scorecard”
 - Feedback from VA would be that we don’t want to take Veterans away from VA.gov
-- DEPO: That is not a good reason o We should be focused on Veteran-specific information
-- Don’t want to recreate something that already exists
-- Amy: If people are in CT are looking for specific types of schools, for example HBCUs, and haven’t yet made the decision about what school to attend, then this could be a helpful feature.
-- Luke: If the Veteran’s first stop is the Comparison Tool, then this makes sense. But if that isn’t the case, then this doesn’t work as well. Brings up the question around what is the journey the Veteran takes to identify the schools they want to attend
-- BAH: This is tough because we know that not a lot of Veterans/Beneficiaries are using the Comparison Tool at all, so is this something we do to make the tool more useful?
-- EDU: From that standpoint it makes sense. Incorporating additional College Scorecard data in the future makes sense, but not necessarily today.
+   - DEPO: That is not a good reason o We should be focused on Veteran-specific information
+   - Don’t want to recreate something that already exists
+   - Amy: If people are in CT are looking for specific types of schools, for example HBCUs, and haven’t yet made the decision about what school to attend, then this could be a helpful feature.
+   - Luke: If the Veteran’s first stop is the Comparison Tool, then this makes sense. But if that isn’t the case, then this doesn’t work as well. Brings up the question around what is the journey the Veteran takes to identify the schools they want to attend
+   - BAH: This is tough because we know that not a lot of Veterans/Beneficiaries are using the Comparison Tool at all, so is this something we do to make the tool more useful?
+   - EDU: From that standpoint it makes sense. Incorporating additional College Scorecard data in the future makes sense, but not necessarily today.
 
 ## Desired User Outcomes
 *Why would a user want to use this?*
 *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 - Identify school that best meets criteria quickly
-- Quick and seamless process of searching and locating needed information
+- Quick and seamless process of filtering and locating needed information
+- Users can sort and filter using a more robust set of criteria than is currently available; i.e., in-state/out-of-state, non-traditional semesters, etc. 
 
 ## Undesired User Outcomes
 - Users have to go to multiple sites to get the information they need (VBA standpoint)
@@ -40,11 +44,11 @@ Why: Why can’t we provide a link to scorecard instead of incorporating data th
 ## Desired Business Outcomes
 *Why would your business want this to exist?*
 *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-- Increase the number of Comparison Tool users (VBA standpoint) (this should be considered in KPIexercise)
+- Increase the number of Comparison Tool users (VBA standpoint) (this should be considered in KPI exercise)
 - People are better able to find what they are looking for on the site (this should be considered in KPI exercise)
 
 ## Undesired Business Outcomes
-- Don't recreate the college scorecard
+- Recreate the college scorecard
 
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
