@@ -2,7 +2,7 @@
 
 ## Phase I: Moderated Production Testing
 ### Planning:
-- Desired date range or test duration: **July 2020**  
+- Desired date range or test duration: **August 2020**  
 - Desired number of users: **Between 4 and 7, but no more than 10**  
 - How you'll recruit the right production test users:  **Whitelist a number of known veterans within Flipper** 
 - How you'll conduct the testing: **Moderated**
