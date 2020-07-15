@@ -1,8 +1,6 @@
 # Research Plan for Learning Center MVP
 
------DRAFT--------
-
-Liz Lantz, Public Websites, July 2020
+Liz Lantz, Public Websites, July 15, 2020
 
 ## Goals	
 
