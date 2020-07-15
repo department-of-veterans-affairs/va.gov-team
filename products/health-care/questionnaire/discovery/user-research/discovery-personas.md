@@ -6,7 +6,7 @@ Nancy is a post-9/11 Veteran who was recently released from her parents' insuran
 
 ### Likes 
 - The focus on mental health when being asked questions about medical history
-- 
+- Receiving appointment reminders
 
 ### Frustrations<br>
 - Would like to use MyHealtheVet but can't get account authenticated
@@ -14,7 +14,7 @@ Nancy is a post-9/11 Veteran who was recently released from her parents' insuran
 
 ### Goals<br>
 - To have all needs taken care of through VA Healthcare
-- 
+- To make sure she has completed all paperwork for eligibility
 
 ## Prepared Pat<br>
 Pat is a Gulf War era Veteran who utilizes VA Healthcare for primary care and specialy care. He has mental health appointments every month and sees a dentist and optometrist twice a year. He also keeps a one-pager reference sheet that lists his medications and disabilities.
