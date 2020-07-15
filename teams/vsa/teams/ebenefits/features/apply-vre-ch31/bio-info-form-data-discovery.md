@@ -43,6 +43,8 @@ Forms on VA.gov are processed by various Lines of Business. These LOBs often hav
 
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Data_Architecture.png)
 
+---
+
 ### Approaches
 
 #### User enters form unauthenticated:
@@ -63,17 +65,20 @@ Forms on VA.gov are processed by various Lines of Business. These LOBs often hav
 
 There are many databases and repositories within the VA ecosystem that serve as sources for users' biographical and common data, with several being considered 'sources of truth.' However, users of VA.gov expect that their known information is centralized and accessible at all VA touchpoints. 
 
-#### Guidelines
+#### Considerations
 
-1. Consistent patterns across VA.gov
-2. Inform unauthenticated users their data is application-only
-3. Encourage users to sign-in to complete forms
-4. Provide a path to remedy data errors
-5. Keep users in the form (reduce abandonment)
+1. Consistent patterns are needed across VA.gov
+2. Unauthenticated users should understand their data is application-only
+3. Authenticated users should be encouraged to sign-in to complete forms
+4. Authenticated users may have one, two or no addresses in their profile
+5. Authenticated users need a path to remedy data errors
+6. Users should stay in the form to reduce abandonment
+
+
 
 #### Unauthenticated users
 
-For forms that don't require a user to sign-in, biographical and common data are entered by the user and submitted to the LOB. All form fields will be presented per requirements, and the user is free to enter all information. The LOB receiving this data will process the form and update the 'canon' databases as needed--likely, manually.
+This case is relaitvely strtightforward. For forms that don't require a user to sign-in, biographical and common data are entered by the user and submitted to the LOB. All form fields will be presented per requirements, and the user is free to enter all information. The LOB receiving this data will process the form and update the 'canon' databases as needed--likely, manually.
 
 We suggest adding a brief statement regarding how a user's information will be used--possibly at the top of the form's initial screen. This statement will complement the messaging in the sign-in widget on the form intro page.
 
@@ -81,7 +86,7 @@ We suggest adding a brief statement regarding how a user's information will be u
 
 Additionally, a sign-in link could be presented:
 
-> Want to skip this step? Sign in to start your application.
+> To use information we have on file, sign in.
 
 #### Authenticated users
 
