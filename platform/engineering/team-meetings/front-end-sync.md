@@ -6,13 +6,22 @@
 - web components 
 
 ## Notes
-- 
+- web component
+  - design system council 
+  - problems that web components solve?
+  - probably can't do it because of IE
+- e2e tests and more 
+  - build option to build all of the landing page so that e2e tests can run without static content build 
+  - documentation?
+- dependency upgrade management 
+  - does yarn workspace with dependabot? 
+  - what process do we use for determining what goes into the vendor bundle?
 
 # 20200701
 
 ## Agenda
 - dependency upgrades
-
+ 
 ## Notes
 - 
 
