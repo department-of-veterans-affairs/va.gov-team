@@ -1,0 +1,8 @@
+## Goal
+Now that we have met with the Google Analytics Team and they have shared what the event names are going to be for our feature, we want to insert them into the code for our feature so that we can better track events as they get fired.
+
+## Tasks
+- Insert event names into the code for this feature based on feedback from the GA /Insights Team.
+
+## Acceptance Criteria
+-  [ ] Code/event names provided by the GA/Insights Team has been inserted into our feature for tracking
