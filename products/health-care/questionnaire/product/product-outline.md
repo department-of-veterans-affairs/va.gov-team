@@ -174,58 +174,53 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 </details>
 
 ---
-## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
+## Measure Success 
 
-- See Team Charter for [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
-
-### North Star
-
+**North Star**
 1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
 2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
-### KPIs (not drafted yet)
+See Team Charter for [Mission & Vision Statements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+
+### KPIs 
  
- _What are the most important metrics that track with this product/initiative's success?_
- _Include links to Domo or Google Analytics Dashboards/Reports_
- _What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?_
+ - _What are the most important metrics that track with this product/initiative's success?_
+ - _Include links to Domo or Google Analytics Dashboards/Reports_
+ - _What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?_
+- _Include Baseline KPIs_
 
-#### Baseline KPI Values (not drafted yet)
+- _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
-_Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+### OKRs 
 
-### OKRs (not drafted yet)
-
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+- _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 ---
 
-## Assumptions (not drafted yet)
+## Assumptions and Risks
 
 - Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
 
-## Solution Approach (not drafted yet)
+## Solution Approach 
 
 - What are you going to build now, and why have you decided to start there?
 - Why this solution / approach over other solutions / approaches?
 - What have you explicitly decided to not include in this initial set of functionality, and why?
 - How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?
-
---- 
+- ROI
 
 ## Go-to-market Strategy (not drafted yet)
 - How are Veterans and others using this product going to know it exists?
 - What marketing, outreach, or communications are necessary for this product to be successful?
 
-## [Target Launch Date
+## Target Launch Date
 
 Now 	| Next 	| Later	 | Vision |
 -------- | ----- | ------ | -----
 [Q3 - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)	| [Q4 - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md) |  Prioritized capabilities not allocated to a quarterly release| Vision/Future capabilities
 
----
-
 ## Solution Narrative 
-- [Solution Narrative- not drafted yet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
+- [Quarterly Sprint Planning - Solution Narrative by Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
 - [Weekly - Current Status, Decisions, and Blockers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
 
 ---
