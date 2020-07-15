@@ -29,6 +29,11 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 
+#### June 22-24: GI Bill Comparison Tool - School Ratings Discovery Interviews 
+*Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
+
+- 8 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/school-ratings/research)
 
 #### June 10-15: Facility Locator - Operating Status Study
 *Ad Hoc: VSA Facilities, Leyda Hughes, Aricka Lewis*
