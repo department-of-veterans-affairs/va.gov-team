@@ -212,16 +212,17 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 	- *How are Veterans and others using this product going to know it exists?*
 	- *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## [Target Launch Date](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan/README.md)
+## [Target Launch Date
 
-- [q3-2020-target-launch - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
-- [q4-2020-target-launch - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
-
+Now 	| Next 	| Later	 | Vision |
+-------- | ----- | ------ | -----
+[Q3 - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)	| [Q4 - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md) |  Prioritized capabilities not allocated to a quarterly release| Vision/Future capabilities
+|
 
 ---
 
-## [Solution Narrative (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
-
+## Solution Narrative 
+- [Solution Narrative- not drafted yet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
 - [Weekly - Current Status, Decisions, and Blockers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
 
 ---
@@ -230,20 +231,13 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 
 **Example pre-visit intake/screener digital and paper forms**
 
-Loma Linda Pre-Visit Intake | VPE Pre-Visit Checklist | Discovery Week 2 
+[Loma Linda - Full PDF Pre-Intake Form](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf) | Veterans Patient Experience (VPE) Pre-Visit Checklist - SHEP Survey | [Mental Health eScreening](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/MHE%20Screenshot%20Library_DEFAULT.docx)
 -------- | ----- | ----- |
 <img src="https://lh6.googleusercontent.com/KF-9c2pzHxHbT9AC1_q8OfbXff9xTUMbC4cj_OpEtk_uiFxGfL5MIIItaUiXPolwnwUHVvCkWwjCllecAQ-_KozrmXcwic7iJC6aQmvuuQ-8v0DG6chjAaq8NGavDVmxAiLH1JQi" width="400"> | <img src="https://lh5.googleusercontent.com/JroZAamACRjOj_vIx7Oh2_hTKpmrZ6D1Xa_HZ5baHcE-UYz82s-cL2hTkImrk9E5O_Yj8Xj0vqdU4eFpkcQSeFagGgnaxK22VbDQZHzsBu_ccL6xidTy2Z14cr9_O0nnu2BN8Olf" width="400"> | <img src="https://lh5.googleusercontent.com/aDxTAJnlfXQ-gt16H5nhO9uYP3Kcs1SxEBNUla0Yq2Qop3g-SnSyWMGVLqsxgaVpV0fnxlQVFEoCYB0k_H0gULV0B7bh0qLGbJy3huUkJH_YgecnND9dU5ZqeakBGBKdGQrMfn-y" width="400">
 
-
-[Loma Linda - Full PDF Pre-Intake Form](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf)
-
-Veterans Patient Experience (VPE) Pre-Visit Checklist - SHEP Survey - file not uploaded to github
-
-[Mental Health eScreening](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/MHE%20Screenshot%20Library_DEFAULT.docx)
-
+- [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 - [Design and Prototype Itterations (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
 
-- [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 
 ---
 
