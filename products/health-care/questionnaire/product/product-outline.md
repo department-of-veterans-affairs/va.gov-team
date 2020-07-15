@@ -7,7 +7,6 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 ## Problem Statement
 Veterans are unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
----
 - How might we improve the in-person and online pre-appointment experiences for Veterans?
 - How might we contribute to physical distancing efforts in VA facilities?
 - How might we better integrate Veteran-provided data into VA workflows?
@@ -170,11 +169,11 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 ## Desired Outcomes 
 
 ### Veteran & Clinical Staff
+- Enter user Story /use case Epics here
 
 ### Business 
 - Enter user Story /use case Epics here
 
----
 ## Measure Success 
 
 **North Star**
@@ -196,23 +195,22 @@ See Team Charter for [Mission & Vision Statements](https://github.com/department
 
 - _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
----
 
 ## Assumptions and Risks
 
-- Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality
+- _Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality_
 
 ## Solution Approach 
 
-- What are you going to build now, and why have you decided to start there?
-- Why this solution / approach over other solutions / approaches?
-- What have you explicitly decided to not include in this initial set of functionality, and why?
-- How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?
-- ROI
+- _What are you going to build now, and why have you decided to start there?_
+- _Why this solution / approach over other solutions / approaches?_
+- _What have you explicitly decided to not include in this initial set of functionality, and why?_
+- _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
+- _ROI_
 
 ## Go-to-market Strategy (not drafted yet)
-- How are Veterans and others using this product going to know it exists?
-- What marketing, outreach, or communications are necessary for this product to be successful?
+- _How are Veterans and others using this product going to know it exists?_
+- _What marketing, outreach, or communications are necessary for this product to be successful?_
 
 ## Target Launch Date
 
@@ -224,7 +222,6 @@ Now 	| Next 	| Later	 | Vision |
 - [Quarterly Sprint Planning - Solution Narrative by Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md)
 - [Weekly - Current Status, Decisions, and Blockers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
 
----
    
 ## Screenshots
 
@@ -237,8 +234,6 @@ Now 	| Next 	| Later	 | Vision |
 - [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 - [Design and Prototype Itterations (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
 
-
----
 
 
 ## Meet the Team and Get in Touch 
