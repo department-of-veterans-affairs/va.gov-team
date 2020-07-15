@@ -11,6 +11,7 @@ Authenticated Experience | Profile 2.0 | Usability prep | https://app.zenhub.com
 BAH | STEM Scholarship App | Usability prep | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9680  
 BAH | Yellow Ribbon modal content | in process | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8298 
 BAH | School Ratings  | NOT STARTED |  Kickoff held 6/2
+BAH | CT search and filter enhancements  | NOT STARTED |  Kickoff held 7/15
 BAM 1 | Benefits Delivery at Discharge |  Usability prep | Usability prep feedback given, waiting research results <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6695
 BAM 2 | Medical Device Ordering |  Usability prep   | Usability prep feedback given. Awaiting research and results. <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/7426 
 BAM 2 | Medical Device Ordering |  Staging  |  <br> https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9720 
@@ -23,7 +24,7 @@ eBenefits | Payment History | NOT STARTED | Kick-off held 3/19 <br>
 Public websites | 686 static landing page | in progress | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/8114  
 Public websites | Connected apps FAQ page | in progress | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6838  
 SSO Log in team | Cerner Migration | Usability prep review | on pause 
-Thoughtworks | VA Digital Notifications | NOT STARTED | Kick-off held 5/25
+Thoughtworks | VA Digital Notifications | Pre-usability work for 526 email and email template | Kick-off held 5/25 ticket capturing content work: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10328
 VAMC | Altoona VAMC | Staging review |https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10539
 VAMC | Erie VAMC | Staging review | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10537
 VAMC | Coatesville VAMC | Staging review | https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10538 
