@@ -13,10 +13,9 @@
 ### Results:
 
 - Bugs identified: 
-
-  1. xx - lorem ipsum
-  2. xx - lorem ipsum
-  3. xx - lorem ipsum
+-        1. xx - lorem ipsum
+-        2. xx - lorem ipsum
+-        3. xx - lorem ipsum
 
 - Number of bugs identified / fixed: x/x
 
