@@ -27,7 +27,7 @@ When going to a healthcare visit, I want to share my current health status and m
 7. Participants want a way to connect digital forms with their information in MyhealtheVet.
 8. Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
 
-[June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
+> [June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
 
 ### Unmet Needs - _identified from user research_
 
@@ -37,7 +37,7 @@ When going to a healthcare visit, I want to share my current health status and m
 5. Do similar things the same way with seamless next steps
 6. Avoid having to repeat health history across the continuum of care	
 
-[Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
+> [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
 
 ## Desired Outcomes 
 
@@ -51,16 +51,19 @@ When going to a healthcare visit, I want to share my current health status and m
 
 ## Measure Success 
 
+> Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+
 **North Star**
 1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
 2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
-Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+
 
 ### Value Propositions  
 
 **Veteran & Clinical Staff**
-- **Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
+> **Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction
+
 <details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
 
 - Veterans forms can be pre-populated with known profile and health history sections, leaving only updates and current visit symptoms/screener to be completed by the veteran.
@@ -108,7 +111,7 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 
 
 **Business**
-- **Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
+> **Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
      
 <details> <summary>Increase the adoption of other VA services offered on va.gov to improve the Veterans health and wellness</summary> 
 
