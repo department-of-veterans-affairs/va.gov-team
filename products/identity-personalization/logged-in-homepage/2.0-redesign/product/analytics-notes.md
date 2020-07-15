@@ -13,12 +13,12 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 
 ### Engagement
 
-[Behavior > Engagement > Session duration report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-engagement/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&histogramTab-sectionControl.sectionId=duration/)
+[Audience > Behavior > Engagement > Session duration report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-engagement/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g&histogramTab-sectionControl.sectionId=duration/)
 
 - Users who view my VA tend to view the site anywhere between 1 minute - 30 minutes, with the most being in the 3 - 10 minute range.
 - They also mostly view 1 -2 pages, with another even distribution in the curve between 6 - 9 pages.
 
-[Cohort analysis report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-cohort/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
+[Audience > Cohort analysis report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-cohort/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/)
 
 - Users tend to not view the My VA page multiple days in a row, which is expected and fine. The information there isn't going to update daily, so there is little incentive to have them logging in everyday.
 
@@ -84,7 +84,7 @@ These are the terms searched for from My VA itself. We can assume that these are
 
 Of note — "Rating", "disability rating," and "Disability rating" all make it into the top 20, but since they are counted as separate searches, did not make it into the top 10. We can assume this means people are expecting to see their disability rating on their dashboard but are not seeing it.
 
-## Homepage - Logged-in users only
+## Homepage - Logged-in users who view the homepage
 
 ### Users
 
@@ -101,6 +101,70 @@ Of note — "Rating", "disability rating," and "Disability rating" all make it i
 
 ### Engagement
 
+[Audience > Behavior > Engagement > Session duration report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-engagement/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
+
+- Logged-in users who view the homepage spend, on average, mostly between 1 - 10 minutes on VA. Some of these users spend 30 minutes or more.
+- There is a pretty even distribution in terms of how many pages viewed, with the largest part of the distribution between 6 - 10 pages.
+
+[Audience > Cohort analysis](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-cohort/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg,builtin1&cohortTab-cohortOption.cohortBaseDate=20200715&cohortTab-cohortOption.hasLoaded=true/)
+
+- Logged-in users who view the homepage aren't very likely to come back and view the homepage multiple days in a row. This isn't terribly surprising — when we look at the report for all users, we see that most people don't log in to VA.gov multiple days in a row.
+
 ### Behavior
 
+[Behavior overview report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
+
+- In a surprise to no one, the top pages for users who view the homepage are the homepage (duh), a bunch of claim status related URLs, and My VA.
+
+[Behavior site content report for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg&_r.tabId=navigationsummary/)
+
+- For logged-in users who view the homepage, the homepage is the entrance page for 34% of these pageviews.
+- Other pages that refer users to the homepage include the login flow, claim status, My HealtheVet, refill and track prescriptions, payment history, and My VA.
+- In terms of actions logged-in users take on the homepage, users are going to claim status, payment history, refill and track prescriptions, download letters, how to file a claim, and My VA. This supports our approach to combine the logged-in homepage and My VA — people are clearly looking for personal information from this page.
+
+[Behavior site content report for logged-in vs. logged-out users](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q,userBgZiUrK9Sieg7jBAnx44OQ&_r.tabId=navigationsummary/)
+
+-This report looks at logged-in vs. logged-out users. We can see a super significant amount of users who are logged-out — 74% — have the homepage as their entrance page, as opposed to only 34% for logged-in users. This suggests that users who log-in to VA.gov may have pages bookmarked, or are entering through more targeting web searches/links.
+- The homepage is also more frequetly the exit page for logged-out users, which suggests that logged-in users are having more meaningful interactions.
+- When we look at [the report for logged-out users only](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&_r.tabId=navigationsummary/), we can see the previous and next pages before and after the homepage are quite different. Before, while claim status makes an appearance, people are coming from search, facility locator, payment history, how to apply pages for disability and edu, how to get an ID card, and refill and track presecriptions. After, users are going to search, claim status, how to apply for disability/edu, facility locator, payment history, refill and track prescriptions, and a bunch of record-related pages.
+
+[Exit page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-exit-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
+
+- These are the pages logged-in users who view the homepage are on when they leave the site. We can assume that this is what people came to do, or one of multiple tasks. This list looks like we'd expect — claim status, various health care tools, records, payment history, and My VA. 
+
+
 ### Search terms
+
+[Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
+
+The top ten search terms for logged-in users who view the homepage are:
+
+- health
+- benefits
+- all
+- direct deposit
+- vet_center
+- ebenefits
+- cemetary
+- cc_provider (Community care provider)
+- certificate of eligibility
+- 22-1995 (Program to change GI bill school or program)
+
+[Top search terms for logged-in users from the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:~2Findex.html/)
+
+These are the top ten searches for logged-in users when they are on the homepage:
+
+- direct deposit
+- ebenefits
+- 22-1995 (Program to change GI bill school or program)
+- forms
+- Direct deposit
+- certificate of eligibilty
+- weblgy
+- coe (certificate of eligibility)
+- COE (certificate of eligibility)
+- benefits
+
+We can assume that people expect to find information about these things from the homepage. We can also assume that if we feature these things — even just via a link — from the homepage, we will drastically reduce the number of searches for these features.
+
+Also, what's interesting is that we **do** feature the 22-1995 on the homepage, but the link is called "Change your current education benefits." Perhaps we need to include the form number in parantheses. It looks like veterans know this form number for some reason (potentially schools reference it?).
