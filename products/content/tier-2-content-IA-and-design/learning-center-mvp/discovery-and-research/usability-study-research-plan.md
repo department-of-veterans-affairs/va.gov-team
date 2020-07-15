@@ -85,11 +85,11 @@ Liz Lantz, Public Websites, July 2020
 ## When? 	
 
 1. Timeline: What dates do you plan to do research? 	
-   July 22-24, 2020
+   August 3-5, 2020
 
 2. Prepare: When will the thing you are testing be ready? 
 
-   July 20, 2020
+   July 17, 2020
 
 3. Length of Sessions: How long do you estimate each session will be? 
 
@@ -99,15 +99,15 @@ Liz Lantz, Public Websites, July 2020
 
    Please allow 30 minutes between sessions
 
-   - July 22:
+   - August 3: 10:30am - 7pm
 
-   - July 23: 
+   - August 4: 7am - 4pm
 
-   - July 24:  	
+   - August 5: 8am - 8pm
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   July 20, Nick Sullivan, Kelson Adams, or Jen Lee
+   Week of July 20, with Nick Sullivan, Kelson Adams, or Jen Lee
 
 ## Team Roles	
 
@@ -175,7 +175,6 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md) 
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/conversation-guide.md)
-- Prototype to be tested - coming soon
-- Synthesis - coming soon
-- Lessons Learned - coming soon	
+- [Prototype to be tested](https://vsateams.invisionapp.com/share/YJXZTKC6CN4)
+- Synthesis - coming soon	
 - Read-Out/Results  - coming soon
