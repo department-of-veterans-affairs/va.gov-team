@@ -38,6 +38,7 @@ Why: Why can’t we provide a link to scorecard instead of incorporating data th
 - Users can sort and filter using a more robust set of criteria than is currently available; i.e., in-state/out-of-state, non-traditional semesters, etc. 
 
 ## Undesired User Outcomes
+- Users are overwhelmed with the options in the search interface and don't use them. 
 - Users have to go to multiple sites to get the information they need (VBA standpoint)
 - User unable to quickly find applicable school
 
