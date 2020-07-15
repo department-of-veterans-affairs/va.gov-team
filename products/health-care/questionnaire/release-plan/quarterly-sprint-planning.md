@@ -7,7 +7,7 @@
 
 ## Q4 Target Release Launch Summary of Feature Capabilities
 - TBD description of our go to market strategy for Q4 release
-- q4-2020-target-launch.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
+- [q4-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
 
 </details>
 
@@ -15,7 +15,7 @@
 
 ## Q3 Target Release Launch Summary of Feature Capabilities
 - TBD description of our go to market strategy for Q3 release
-- [q3-2020-target-launch.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
+- [q3-2020-target-launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
 
 
 ## Sprint 31 - _Sprint Theme Name_
