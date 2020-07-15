@@ -23,6 +23,8 @@
 
 ## November 2020
 ### Holidays
+    -  Thanksgiving observed: Thursday, Novmber 26 (GCIO, VA, Ad Hoc, CivicActions)
+    
 ### Additional out of office
 
 ## October 2020
@@ -31,6 +33,8 @@
 
 ## September 2020
 ### Holidays
+    - Labor Day observed: Monday, September 7 (GCIO, VA, Ad Hoc, CivicActions)
+
 ### Additional out of office
 
 ## August 2020
@@ -38,7 +42,7 @@
     
 ## July 2020
 ### Holidays
-Fourth of July: Observed July 3 (GCIO, VA, Ad Hoc, CivicActions)
+    - Fourth of July: Observed July 3 (GCIO, VA, Ad Hoc, CivicActions)
     
 ### Additional out of office
     - Michelle: July 6-7
@@ -48,11 +52,8 @@ Fourth of July: Observed July 3 (GCIO, VA, Ad Hoc, CivicActions)
 ## June 2020
 ### Additional out of office
     - Lance: June 12
-    
-    
+       
 ## March 2020
-### Holidays
-    
 ### Additional out of office
     - Lance: March 11-12 Half Days
     - Lance: March 23-24
