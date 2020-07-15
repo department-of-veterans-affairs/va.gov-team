@@ -39,7 +39,7 @@ When going to a healthcare visit, I want to share my current health status and m
 7. Participants want a way to connect digital forms with their information in MyhealtheVet.
 8. Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
 
-[Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
+[June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
 
 ## Value Propositions  
 
