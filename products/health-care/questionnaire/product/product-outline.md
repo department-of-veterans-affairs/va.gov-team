@@ -5,20 +5,48 @@
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
 ## Problem Statement
-_As a Veteran, I’m unable to easily and quickly provide pre and post visit documentation in a digital and discrete format that can be shared across facilities and my care team._
-
-### Post Discovery updated Problem statement in draft:
-There is not currently an avenue for Veterans to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
+I am unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
 ---
 - How might we improve the in-person and online pre-appointment experiences for Veterans?
 - How might we contribute to physical distancing efforts in VA facilities?
 - How might we better integrate Veteran-provided data into VA workflows?
 - How might we provide Veterans with a digital option when only a paper option exist today to complete pre-appointment questionnaires and screeners?
+
+## Job To Be Done
+When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care.
+
+- [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
+
+### Unmet Needs
+
+1. Provide updates when convenient and relevant with the device and location of choice
+2. Provide only updates for the things that have changed
+4. Display complicated medical words in customer friendly terminology 
+5. Do similar things the same way with seamless next steps
+6. Avoid having to repeat health history across the continuum of care		
  
+### User Feedback Key Findings
+
+**Save time and optomize care** - Theme to apply to Nort Star Objective 
+- [Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
+
+1. Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.	
+2. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
+3. Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
+4. The biggest pain point for Veterans is the handoff of information.
+5. Veterans want a way to review previous answers and update when needed
+6. Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.
+7. Participants want a way to connect digital forms with their information in MyhealtheVet.
+8. Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
+
 ## Desired User Outcomes 
 
-**Key areas of value proposition:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
+- Enter user Story /use case Epics here
+
+## User - Value Propositions 
+
+**Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
 
 <details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
 
@@ -65,10 +93,13 @@ There is not currently an avenue for Veterans to consistently share and update c
 
 </details>
 
+## Desired Business Outcomes 
 
-## Desired Business Outcomes
+- Enter user Story /use case Epics here 
 
-**Key areas of value proposition:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
+## Business Value Proposition  
+
+**Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
 
        
 <details> <summary>Increase the adoption of other VA services offered on va.gov to improve the Veterans health and wellness</summary> 
@@ -144,6 +175,13 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 ---
 ## Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs)
 
+- See Team Charter for [Mission, Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+
+### North Star
+
+1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
+2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
+
 ### KPIs (not drafted yet)
 	* _What are the most important metrics that track with this product/initiative's success?_
 	* _Include links to Domo or Google Analytics Dashboards/Reports_
@@ -173,25 +211,38 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 	- *How are Veterans and others using this product going to know it exists?*
 	- *What marketing, outreach, or communications are necessary for this product to be successful?*
 
-## [Target Launch Date (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan/README.md)
-	- *What is your target launch date of your MVP/iteration?*
-	- *What is your date for when you'll evaluate impact after launch?*
+## [Target Launch Date](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/release-plan/README.md)
+
+- [q3-2020-target-launch - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
+- [q4-2020-target-launch - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)
+
 
 ---
 
 ## [Solution Narrative (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/solution-narrative.md)
 
-- [Current Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
-
-- [Key Decision (none at this time)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/key-decisons.md)
+- [Weekly - Current Status, Decisions, and Blockers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md)
 
 ---
    
 ## Screenshots
 
-- [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
+**Example pre-visit intake/screener digital and paper forms**
+
+Loma Linda Pre-Visit Intake | VPE Pre-Visit Checklist | Discovery Week 2 
+-------- | ----- | ----- |
+<img src="https://lh6.googleusercontent.com/KF-9c2pzHxHbT9AC1_q8OfbXff9xTUMbC4cj_OpEtk_uiFxGfL5MIIItaUiXPolwnwUHVvCkWwjCllecAQ-_KozrmXcwic7iJC6aQmvuuQ-8v0DG6chjAaq8NGavDVmxAiLH1JQi" width="400"> | <img src="https://lh5.googleusercontent.com/JroZAamACRjOj_vIx7Oh2_hTKpmrZ6D1Xa_HZ5baHcE-UYz82s-cL2hTkImrk9E5O_Yj8Xj0vqdU4eFpkcQSeFagGgnaxK22VbDQZHzsBu_ccL6xidTy2Z14cr9_O0nnu2BN8Olf" width="400"> | <img src="https://lh5.googleusercontent.com/aDxTAJnlfXQ-gt16H5nhO9uYP3Kcs1SxEBNUla0Yq2Qop3g-SnSyWMGVLqsxgaVpV0fnxlQVFEoCYB0k_H0gULV0B7bh0qLGbJy3huUkJH_YgecnND9dU5ZqeakBGBKdGQrMfn-y" width="400">
+
+
+[Loma Linda - Full PDF Pre-Intake Form](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf)
+
+Veterans Patient Experience (VPE) Pre-Visit Checklist - SHEP Survey - file not uploaded to github
+
+[Mental Health eScreening](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/current-state-workflows/MHE%20Screenshot%20Library_DEFAULT.docx)
 
 - [Design and Prototype Itterations (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/design/README.md)
+
+- [Current State Paper/Digital Forms (not drafted yet)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/current-state-workflows/before-screenshots.md)
 
 ---
 
