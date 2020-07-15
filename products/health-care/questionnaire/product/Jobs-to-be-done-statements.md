@@ -102,6 +102,6 @@ As a Veteran, I’m unable to easily and quickly provide pre and post visit docu
 
 **Post Discovery _draft_**
 
-There is not currently an avenue for Veterans to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
+I am unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 	
 	- _Words to consider adding: easily, quickly, share, repeat_
