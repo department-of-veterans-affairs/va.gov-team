@@ -8,7 +8,7 @@ This document will focus on Vet Center detail page enhancement
 
 [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#user-stories--use-cases)
 
-[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#project-rationale_
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#project-rationale)
 
 [Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#project-scope-and-scale)
 
@@ -19,7 +19,7 @@ This document will focus on Vet Center detail page enhancement
 [Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#dependencies)
 
 [Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#risk-factors)
-)
+
 [Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#rejected-solutions
 
 [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#definition-of-done)
