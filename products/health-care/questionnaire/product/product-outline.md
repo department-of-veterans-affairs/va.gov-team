@@ -39,11 +39,28 @@ When going to a healthcare visit, I want to share my current health status and m
 
 [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
 
-## Value Propositions  
+## Desired Outcomes 
 
 ### Veteran & Clinical Staff
+- Enter user Story /use case Epics here
 
-**Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
+### Business 
+- Enter user Story /use case Epics here
+
+---
+
+## Measure Success 
+
+**North Star**
+1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
+2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
+
+Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
+
+### Value Propositions  
+
+**Veteran & Clinical Staff**
+- **Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction 
 <details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
 
 - Veterans forms can be pre-populated with known profile and health history sections, leaving only updates and current visit symptoms/screener to be completed by the veteran.
@@ -90,11 +107,9 @@ When going to a healthcare visit, I want to share my current health status and m
 </details>
 
 
-### Business
-
-**Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
-
-       
+**Business**
+- **Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
+     
 <details> <summary>Increase the adoption of other VA services offered on va.gov to improve the Veterans health and wellness</summary> 
 
 - Once the Veteran has completed a digital intake form the workflow can auto direct them to other areas on the portal or va.gov site they might not know is available. ie education/health records/events.
@@ -165,22 +180,6 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 
 </details>
 
-## Desired Outcomes 
-
-### Veteran & Clinical Staff
-- Enter user Story /use case Epics here
-
-### Business 
-- Enter user Story /use case Epics here
-
-## Measure Success 
-
-**North Star**
-1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
-2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
-
-See Team Charter for [Mission & Vision Statements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
-
 ### KPIs 
  
  - _What are the most important metrics that track with this product/initiative's success?_
@@ -194,6 +193,7 @@ See Team Charter for [Mission & Vision Statements](https://github.com/department
 
 - _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
+---
 
 ## Assumptions and Risks
 
@@ -207,7 +207,7 @@ See Team Charter for [Mission & Vision Statements](https://github.com/department
 - _How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?_
 - _ROI_
 
-## Go-to-market Strategy (not drafted yet)
+## Go-to-market Strategy 
 - _How are Veterans and others using this product going to know it exists?_
 - _What marketing, outreach, or communications are necessary for this product to be successful?_
 
