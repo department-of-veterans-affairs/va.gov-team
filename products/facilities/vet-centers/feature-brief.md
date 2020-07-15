@@ -4,27 +4,27 @@ This document will focus on Vet Center detail page enhancement
 
 ## Table of Contents
 
-[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#user-journey)
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#user-journey)
 
-[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent-care/mash-up-product-brief.md#user-stories--use-cases)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#user-stories--use-cases)
 
-[Project Rationale]
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#project-rationale_
 
-[Project Scope and Scale]
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#project-scope-and-scale)
 
-[Not in Scope]
+[Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#not-currently-in-scope)
 
-[Measuring Success]
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#measuring-success)
 
-[Dependencies]
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#dependencies)
 
-[Risk factors]
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#risk-factors)
+)
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#rejected-solutions
 
-[Rejected Solutions]
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#definition-of-done)
 
-[Definition of Done]
-
-[Key Links]
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/feature-brief.md#key-links)
 
 ### User Journey
 - Vet Centers are community-based counseling centers which provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members and their families. 
