@@ -91,10 +91,13 @@ Under the 'Choose a service type' menu, talk me through what the different optio
    - What does 'VA urgent care' mean to you? 
 - Does this distinction matter to you? 
    - What matters about the distinction?
+   
+Go ahead and click the blue 'Search' button for me.
+- Tell me about the options available to you.
 
 ### Scenario
 In this next scenario, I'd like you to imagine that you are considering the two closest locations. 
-Go ahead and click the blue 'Search' button for me.
+
 
 #### Questions:
 - Talk me through what would be important to you in comparing these two options.
