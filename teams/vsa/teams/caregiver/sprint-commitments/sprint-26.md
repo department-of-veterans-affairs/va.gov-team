@@ -8,8 +8,16 @@
 ## Backend
 - StatsD
 - Research backend requirements for returning PDF
+- Implement changes from ^
 - Send CARMA the claim's guid
+- Add CARMA betamocks
 
-## Content & Design
+## Content
+- Create a draft of round 2 online language based off draft revised 10-10CG (be sure to consult with Peggy & Danielle)
+- Figure out content for error page
+
+## Design
+- Add content/visual re: loading time
+- Explore error message/print or download PDF
 
 ## Product
