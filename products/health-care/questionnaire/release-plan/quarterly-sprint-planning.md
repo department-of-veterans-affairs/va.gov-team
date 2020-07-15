@@ -2,7 +2,10 @@
 # Quarterly Sprint Planning
 
 <details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
-- TBD
+
+## Q4 Target Release Launch Summary of Feature Capabilities
+- TBD description of our go to market strategy for Q4 release
+
 </details>
 
 <details> <summary> Q3 2020 (June-Sept) Sprint 22-31</summary>
