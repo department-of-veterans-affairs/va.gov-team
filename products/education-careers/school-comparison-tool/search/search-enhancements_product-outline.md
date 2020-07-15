@@ -8,33 +8,28 @@
 
 The current search in the Comparison Tool poses challenges for users as they search for institutions since it requires that they enter an exact match in order to provide them with results.
 
-The current search feature limits the ability to search on school type to just on the job training (OJT) and schools, which means people are not able to search exclusively for associates programs, VET TEC programs, and more.
+      - If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State, state abbreviations) then the results they are searching for will not be returned.
+      - The current search feature limits the ability to search on school type to just on the job training (OJT) and schools, which means people are not able to search exclusively for programs of specific length (like associates programs), VET TEC programs, and more.
 
-When users search for schools based on on state alone then branches of schools that are not in the same state are returned.
-
-If users search for content in the Comparison Tool right now and accidentally include a mispelling or an abbreviations or nicknames (such as UCLA or Cal State, state abbreviations) then the results they are searching for will not be returned.
 
 How might we make it easier for people using the Comparison Tool to quickly find the content they are looking for using well known institution abbreviations, nicknames, portions of institution names, or partial matches?
-
 
 ## Desired User Outcomes
 - Users find the school they are looking for the first time/Users spend less time searching for what they need
 - It is easier for users to find what they are looking for if searching for an institution that isn't an exact match for their search criteria
 - Users can successfully search for schools in the CT using the nomenclature that makes sense to them
-- Users can sort and filter using a more robust set of criteria than is currently available; i.e., in-state/out-of-state, non-traditional semesters, etc.
 - Users can use different types of content to search for their institutions (partial matches, institution type, location, etc)
 
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
-- Users are overwhelmed with the options in the search interface and don't use them. 
 - Users get search results that are not relevant to their search
 - Users are less satisfied with the new search than they were with the previous version of the search. 
 
 ## Desired Business Outcomes
 - Improve Comparison Tool user satisfaction by making it easier for people to find what they are looking for in the tool
-- To better understand the criteria that is important to Veterans when selecting an institution/program to apply GI Bill benefits to
+- Better understand the criteria that is important to Veterans when selecting an institution/program to apply GI Bill benefits to
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
@@ -90,7 +85,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Narrative
 ### MVP (These are MVP requests and serve as a wish list until research on each is complete)
-- Search Criteria: Program Level (i.e., Graduate vs. Undergraduate
+- Search Criteria: Program Level (i.e., Graduate vs. Undergraduate)
 - Search Criteria: Zip Code
 - Search Criteria: In-State vs. Out-of-State (Location)
 - Search Criteria: Alternate/Nicknames/ Abbreviations
