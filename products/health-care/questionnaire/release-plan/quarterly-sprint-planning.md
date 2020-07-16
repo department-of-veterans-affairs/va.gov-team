@@ -1,7 +1,7 @@
 
 # Quarterly Sprint Planning
 
-- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap.md)
+> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 <details> <summary> Q4 2020 (Oct-Dec)  Sprint 32-38 </summary>
 
