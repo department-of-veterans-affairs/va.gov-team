@@ -6,7 +6,7 @@
 - [VAOSR July Conversation guide](../july-2020-user-research/vaosr-july-conversation-guide.md)
 - [VAOSR July research report - WIP]()
 - [Participant list and notes](#participant-list-and-notes)
-- [July 2020 research top takeaways](#july-2020-research:-top-takeaways)
+- [July 2020 research top takeaways](#july-2020-research-top-takeaways)
 - [Background](#background)
 
 ## Participant list and notes
@@ -26,7 +26,7 @@
 |      |      |        |           |      |           |        |          |
 
 
-## July 2020 Research: Top takeaways
+## July 2020 research: Top takeaways
 
 | Number of participants who... | #    | %    |
 | ----------------------------- | ---- | ---- |
@@ -51,7 +51,7 @@ With VAOSR MVP in prod and live since March 2020, it's time to perform another u
 
 This research should focus on areas in the experience that we know (through analytics and user feedback) are confusing or need iteration. Additionally, we want to collect general feedback and requests from Veterans for new VAOSR considerations in the future. 
 
-## Some starting Research questions:
+## Some starting research questions:
 
 1. What's impacting 'type of care' dropoff? (15.5% dropout rate on this page in the VAOS flow)
    - Does 'Type of Care' offerings meet Veteran expectation for online scheduling
