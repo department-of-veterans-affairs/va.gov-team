@@ -1,10 +1,7 @@
 # Q3 2020 Target Launch 
 
-> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
-
 This page will have target release date, go to market strategy, and release notes for feature capabilities.
-- [Q3 Sprint Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md#q3-target-release-launch-summary-of-feature-capabilities)
-- [Roadmap Planning](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap.md)
+> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 
 ## Go-to-market Strategy
