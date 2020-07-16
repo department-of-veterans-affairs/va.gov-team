@@ -20,19 +20,11 @@ The problem: As a Veteran, I’m unable to consistently share and update current
 We will conduct remote interviews via Zoom
 
 ## Participants and Recruitment	
-We would like to talk with clinicians 
+We would like to talk with clinicians who have extensive knowledge of the forms and processess related to the Veteran healthcare experience.
 
-## Timeline 	
-#### Desired Timeline: 
-
-Team Availability | Time (EST)
-------------------|--------------
-Date | Time
-Date | Time
-Date | Time
 
 	
 ## Resources	
-- [Questions]()	
+- [Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/clinician-questions.md)	
 - [Readout]()
 - [Session notes]()
