@@ -3,7 +3,7 @@
 
 # Status and decisions:
 
-### [Healthcare - Experience Milestones: June- Dec 2020 Mural Calendar View](https://app.mural.co/t/vsa8243/m/vsa8243/1592937290316/886878be0adf589e169fa094f913df80c010e2b4) 
+> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 
 <details> <summary> July 2020</summary>
