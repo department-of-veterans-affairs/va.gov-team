@@ -18,7 +18,7 @@ This is a work in progress, don't take it for "official" guidance yet.
 - Good integration tests should
    - Render a high-level a component (like a component covering a whole page or tab)
    - Verify that the component is working by checking for things a user would see, like text or DOM elements with specific roles, rather than class names
-   - Mock fetch calls, global user/site Redux state, and previous user input
+   - Mock fetch calls and global user/site Redux state
    - Mock fetch calls in a way that ties the mock data to specific urls, so that tests fail if the urls are constructed incorrectly
    - Avoid mocking VAOS specific Redux state or props; let as much of our code run in the test as possible
 - Integration tests should be our primary source of tests
