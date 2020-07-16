@@ -83,19 +83,27 @@ This case is relaitvely strtightforward. For forms that don't require a sign-in,
 
 We suggest adding a brief statement regarding how a user's information will be used--possibly at the top of the form's initial screen. This statement will complement the messaging in the sign-in widget on the form intro page.
 
-> Because you are not signed-in, any information you enter will apply only to this application.
+> Because you are not signed-in, any information you enter will only be used for this application. 
 
 Additionally, a sign-in link could be presented to encourage the user to authenticate:
 
 > To use information we have on file, sign in.
 
-Mockups begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/bf06d4a5-e662-4beb-be90-588529883ef9)
+Mockups showing unauthenticated begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/bf06d4a5-e662-4beb-be90-588529883ef9)
 
 ![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Unauthenticated.png)
 
 #### Authenticated users
 
+Authenticated users have confirmed personal data, but their contact info can--and often does--change. If there are known addresses within VA-profile, personal and contact info should be used to complete the form. If there are two addresses on record (mailing and home), the user should have the option to override the mailing address in favor of the home location.
 
+Another option not illustrated in the mockups is the choice to enter a new address that's different from what is on-record, e.g. a new mailing address when a user moves. This would allow the user to complete the form, then go to their profile to make a "permanent" change.
+
+In the case of partially-available contact data, the form could be pre-filled with what's known, and prompt the user to supply the missing info required by the form.
+
+Mockups showing authenticated screens begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/56f1579b-ce0a-46ab-b336-684ac17b8ff2)
+
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Authenticated.png)
 
 ---
 
