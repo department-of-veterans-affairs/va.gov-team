@@ -25,7 +25,7 @@ assignees: ''
     - Navigate all pages and core functionality with keyboard only
   - [ ] [Screen reader tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#screen-reader-tests)
     - Test all pages and core functionality happy path with MacOs + VoiceOver and/or NVDA+Firefox
-- [ ] Check off items and attach any available screenshots, etc. here
+- [ ] Check off items as they are completed
 
 
 
