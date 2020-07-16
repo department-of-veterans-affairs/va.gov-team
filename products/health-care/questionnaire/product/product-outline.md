@@ -212,14 +212,17 @@ _Reduce Risk & Increase Compliance - if we do Consent forms_
 - _ROI_
 
 ## Go-to-market Strategy 
+- _add a generic statement for markeitng and then use roadmap link to each quarter go to market strategy for specific releases._
 - _How are Veterans and others using this product going to know it exists?_
 - _What marketing, outreach, or communications are necessary for this product to be successful?_
 
-## Target Launch Date
+[See Roadmap for quarterly launch for specific go-to market strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
-Now 	| Next 	| Later	 | Vision |
--------- | ----- | ------ | -----
-[Q3 - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)	| [Q4 - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md) |  Prioritized capabilities not allocated to a quarterly release| Vision/Future capabilities
+## Target Launch Summary
+
+Now 	| Next 	| Later	(6+ months) 
+-------- | ----- | ------ 
+[Q3 - **Oct, 2020**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)	| [Q4 - **Jan, 2021**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md) |  [Roadmap Planning Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/roadmap-planning-capabilities.md)| 
 
 [See Roadmap for detailed release plan strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
