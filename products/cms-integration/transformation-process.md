@@ -5,7 +5,7 @@
     1.  [The actors](#the-actors)
         1.  [Content model name](#content-model-name)
         2.  [Content model](#content-model)
-        3.  [Raw content](#raw-content)
+        3.  [CMS export content](#cms-export-content)
         4.  [Filter](#filter)
         5.  [Transformer](#transformer)
         6.  [Transformed content](#transformed-content)
@@ -13,16 +13,15 @@
     2.  [The process](#the-process)
         1.  [Metalsmith pipeline](#metalsmith-pipeline)
         2.  [CMS export tarball](#cms-export-tarball)
-        3.  [Pre-transformation JSON schema](#pre-transformation-json-schema)
+        3.  [Input JSON schema](#input-json-schema)
         4.  [Entity expansion](#entity-expansion)
         5.  [Content model transformers](#content-model-transformers)
-        6.  [Post-transformation JSON schema](#post-transformation-json-schema)
+        6.  [Output JSON schema](#output-json-schema)
         7.  [Liquid templates](#liquid-templates)
-    3.  [Testing](#testing)
-    4.  [Digging deep](#digging-deep)
+    3.  [Digging deep](#digging-deep)
         1.  [Automatic schema imports](#automatic-schema-imports)
         2.  [Automatic `$id`](#automatic-id)
-    5.  [Debugging](#debugging)
+    4.  [Debugging](#debugging)
 
 
 # Transformation Process
@@ -71,7 +70,7 @@ data):
     -   The [post-transformation JSON schema](#post-transformation-json-schema) says what this model actually is
 
 
-### Raw content
+### CMS export content
 
 We start with the raw content as found in the CMS export tarball. When
 extracted, this tarball creates a directory with a child `content/`. In *there*
@@ -160,16 +159,15 @@ TODO: Once we know where the tarball will live after the CMS bundles the export
 up, this section should say where the build fetches that tarball from.
 
 
-### Pre-transformation JSON schema
+### Input JSON schema
 
 To ensure the **content model from the CMS** matches what the transformer expects in
-the next step, we **check every untransformed (raw) entity** we get from the CMS
+the next step, we **check every untransformed entity** we get from the CMS
 against a JSON schema. This is the first line of defense when content models get
 updated.
 
-Pre-transformation (raw) schemas can be found in
-`src/site/stages/build/process-cms-exports/schemas/raw/`. **Each file in this
-directory is named after the content model it validates** (e.g. `node-page.js`).
+Input schemas can be found in`src/site/stages/build/process-cms-exports/schemas/input/`.
+**Each file in this directory is named after the content model it validates** (e.g. `node-page.js`).
 Schemas from the `/process-cms-exports/schemas/common/` directory are used
 heavily in these schemas for readability.
 
@@ -211,11 +209,11 @@ Common functions from `transformers/helpers.js` are used heavily in these
 transformers for readability and consistency.
 
 
-### Post-transformation JSON schema
+### Output JSON schema
 
 After the content has been transformed, the entity tree assembler will validate
 it against a post-transformation JSON schema found in
-`src/site/stages/build/process-cms-exports/schemas/transformed/` to ensure
+`src/site/stages/build/process-cms-exports/schemas/output/` to ensure
 nothing unexpected happened during transformation.
 
 These schemas are also **useful for debugging** what's going on in the templates
@@ -229,23 +227,6 @@ what shape it takes.
 This is where the magic happens. In the end, the content models are applied to
 various templates to **generate the static HTML**. This happens after the content
 model transformation in a separate Metalsmith step.
-
-
-## Testing
-
-Testing the transformers is designed to be as straightforward as possible by
-**automatically ensuring that each new transformer is tested** without any extra
-wiring needed.
-
-The unit test will:
-
--   Look in `transformers/` for all transformers
--   Ensure each transformer has a matching file in `tests/transformed-entities/`
--   Ensure each transformer has a matching entry in `tests/entities/index.js`
-    -   This file acts as a sort of map, pointing to an example of each content
-        model
--   Run each above entry through its transformer and validate that it exactly
-    matches the entry in `tests/transformed-entitites/`
 
 
 ## Digging deep
