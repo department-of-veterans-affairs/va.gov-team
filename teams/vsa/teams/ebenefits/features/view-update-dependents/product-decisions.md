@@ -1,7 +1,71 @@
 # High Level Product Decisions: 21-686c Application
 **VSA eBenefits Team | May 2020**  
 This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.  
+-------------
+## Silent Failures  
+`Team Meeting July 16, 2020`  
+**Ticket: [[SPIKE] Cross Discipline Analysis of User Feedback for Form Submissions #11270](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11270)**  
+We know that there may be some errors and given the length of our submission process, if there is a failure we don't have a great way of notifiying the user.
 
+What are the situations where something fails?
+Retryable error
+Common
+
+Fatal error
+API is down and we get a 500 right away but only after the "health check" for BGS at VA file number check
+
+When a user clicks submit, job gets fired, if there is break before vnp tables get contacted we should put something in there.
+
+Can we expose to the user that there has been a failure? After 24 hours?
+
+Does BGS ever return a message given a length of time? No, not really
+
+Backend meeting: others share similar experiences, this is not unique to us
+
+Some possible solutions: 
+- Email: "Hey something is not right" using Gov Delivery
+  - job succeeds, it made it to vnp tables, we're done, it will eventually show up in Claim Status Tool
+  - job fails, we provide our own claim status tool and we comm to user that they need to try again
+  
+- Status Claim Tool: could we hand off an id for them to check
+  - widget that checks for jobs running against a 686 application, indicates pending
+- Healthcare app (first app that might have a precedent)
+- Can we use SIP?
+- Job Status Tool (specific to 526/EVSS) where hey pull and check the status of a job
+
+_Note/ Guiding principle_
+- Action item
+
+**TL;DR - what does this mean?  what do we do next?**
+-------------
+## Form ID  
+`Team Meeting July 16, 2020`  
+**Description.**  
+  
+_Note/ Guiding principle_
+- Action item
+
+**TL;DR - what does this mean?  what do we do next?**
+-------------
+## State Validation  (Do before Launch)
+`Team Meeting July 16, 2020`  
+**The form allows for a write in of a state but that might throw an error**  
+Expects state or country, BGS wants two separate fields
+
+Easiest way: Are you in US?
+yes: free form for country to be passed to country field
+no: proceed with drop downs fow state and country
+
+We will need the 2 digit codes (ISO-3166 alpha 2) for all the BGS state and country codes
+
+_Note/ Guiding principle_
+- Action items:
+  - Ask BGS - "What is the field level validation for city, county, state and country"
+
+**TL;DR - what does this mean?  what do we do next?**
+
+Example:
+[Example:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/images/checkbox-dropdown-field-validation.png)
 ---
 ## File Uploads  
 `Meeting on 6/23/2020`  
