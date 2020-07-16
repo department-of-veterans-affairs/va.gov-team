@@ -39,5 +39,5 @@ assignees: ''
 - [Accessibility staging review preparation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#accessibility-staging-review-preparation)
 
 ## How to configure this issue
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
+- [ ] **Convert to an Epic**  
 - [ ] **Labeled with Team**  
