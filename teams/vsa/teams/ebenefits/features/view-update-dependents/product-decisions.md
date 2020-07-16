@@ -1,6 +1,6 @@
 # High Level Product Decisions: 21-686c Application
 **VSA eBenefits Team | May 2020**  
-This is to help guide and memorialize decisions made about different funcitonalities and behaviors for the feature we are working with.  
+This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
 ## Silent Failures  
 `Team Meeting July 16, 2020`  
@@ -34,9 +34,21 @@ Some possible solutions:
 - Job Status Tool (specific to 526/EVSS) where hey pull and check the status of a job
 
 _Note/ Guiding principle_
-- Action item
+- Action item:
+  - User journey maps
+  - Research email procedures
+    - Will an email need to be required?  or where will it come from?
+    - Do we have permission to do this?
+  - For knowing whether the submission was successful or not:  
+    - We know if the submission hits vnpProcUpdate call - if we get our payload back its a STRONG indicator of success
+    - If the Sidkiq job retries some number of times - all retries are exhausted but we are loking at what that confirmation of failure would be
 
 **TL;DR - what does this mean?  what do we do next?**
+Lowest Level of Effort: Let it go as is and resolve going forward
+Next Highlest Level of Effort: We need to know what indicator there might be for a failed response, then we can send them an email.
+Highest LEvel of Effort: Integrate status into Claim Status Tool
+Ideal: There is a confirmation number that ties to all of the above
+
 -------------
 ## Form ID  
 `Team Meeting July 16, 2020`  
