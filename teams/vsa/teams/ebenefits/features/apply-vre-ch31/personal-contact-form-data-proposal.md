@@ -70,14 +70,12 @@ There are many databases and repositories within the VA ecosystem that serve as 
 
 #### Considerations
 
-1. Consistent patterns are needed across VA.gov
+1. Consistent rationale and pattern(s) are needed across VA.gov
 2. Unauthenticated users should understand their data is application-only
-3. Authenticated users should be encouraged to sign-in to complete forms
-4. Authenticated users may have one, two or no addresses in their profile
+3. Unauthenticated users should be encouraged to sign-in to complete forms
+4. Authenticated users may have one, two or no addresses in their profile, and possibly missing info
 5. Authenticated users need a path to remedy data errors
 6. Users should stay in the form to reduce abandonment
-
-
 
 #### Unauthenticated users
 
@@ -90,6 +88,10 @@ We suggest adding a brief statement regarding how a user's information will be u
 Additionally, a sign-in link could be presented to encourage the user to authenticate:
 
 > To use information we have on file, sign in.
+
+Mockups begin [here.](https://xd.adobe.com/view/0c64c9ff-aba2-422e-4d6e-be1ec4cab845-7a55/screen/bf06d4a5-e662-4beb-be90-588529883ef9)
+
+![ ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/apply-vre-ch31/Unauthenticated.png)
 
 #### Authenticated users
 
