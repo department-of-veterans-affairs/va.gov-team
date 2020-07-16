@@ -45,8 +45,8 @@ are, see [Transformation Process](transformation-process.md).
 When adding a new content model, you'll need to add the following files to
 `src/site/stages/build/process-cms-exports/`:
 
--   [Pre-transformation (raw) schema](transformation-process.md#pre-transformation-json-schema)
-    -   Found in `schemas/raw/`
+-   [Pre-transformation (input) schema](transformation-process.md#input-json-schema)
+    -   Found in `schemas/input/`
     -   Validates the [content from the CMS](transformation-process.md#cms-export-tarball)
 -   [Filters](transformation-process.md#filter)
     -   Found in `transformers/` with the transformers
@@ -56,15 +56,8 @@ When adding a new content model, you'll need to add the following files to
     -   Found in `transformers/`
     -   Takes the content from the CMS and transforms it into the shape expected in
         the [Liquid templates](transformation-process.md#liquid-templates)
--   [Post-transformation schema](transformation-process.md#pre-transformation-json-schema)
-    -   Found in `schemas/transformed/`
--   Pre-transformation test entity
-    -   And all child entities
-    -   These go in `tests/entities/`
-    -   A new entry will have to be added to `tests/entities/index.js` to associate
-        this new test file with the new content model
--   Post-transformation test entity
-    -   These go in `tests/transformed-entities/`
+-   [Post-transformation (output) schema](transformation-process.md#output-json-schema)
+    -   Found in `schemas/output/`
 
 Once you've added all those files and wrote your transformer to do what you want
 it to, be sure to run the tests to catch any unexpected failures:
