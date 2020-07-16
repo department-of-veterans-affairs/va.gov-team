@@ -54,15 +54,26 @@ Ideal: There is a confirmation number that ties to all of the above
 `Team Meeting July 16, 2020`  
 **Ticket: [Determine Form ID for Dependency Claims #11178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11178).**  
 
+Seems like most things are using `686c-674` but `21-686c` is more inline with other form IDs but using has deeper implications across several things
+
 Does backend know all the different places 
  - Yes but I am not sure if it is complete or what the implications
 
-
+Implication:
+- Pre-fill will need to be changed
+- Schema would change
+- PDF 
+- Doc upload
+- SIP
 
 _Note/ Guiding principle_
 - Action item
 
-**TL;DR - what does this mean?  what do we do next?**
+**TL;DR - what does this mean?  what do we do next?**  
+Lets move forward with `686c-674` and post launch, we will reformat to some better consistency.  
+FE will investigate and see if there is anything else that needs to be updated from their perspective.
+Kathleen can move forward with what she needs to do.
+
 -------------
 ## State Validation  (Do before Launch)
 `Team Meeting July 16, 2020`  
