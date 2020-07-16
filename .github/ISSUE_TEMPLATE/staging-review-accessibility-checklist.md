@@ -1,7 +1,7 @@
 ---
 name: Staging Review Accessibility Checklist
 about: For tracking/completing all required Staging Review accessibility items
-title: <Initiative> x Staging Accessibility Checklist
+title: <Initiative> x Staging Review Accessibility Checklist
 labels: ''
 assignees: ''
 
