@@ -92,7 +92,6 @@ _Note/ Guiding principle_
 
 **TL;DR - what does this mean?  what do we do next?**
 
-Example:
 [Example:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/images/checkbox-dropdown-field-validation.png)
 ---
 ## File Uploads  
