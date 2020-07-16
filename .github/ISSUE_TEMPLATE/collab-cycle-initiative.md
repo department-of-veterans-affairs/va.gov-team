@@ -22,9 +22,9 @@ assignees: ''
 - [ ] **[Build] Privacy/Security Review** - #(ticket)
 - [ ] **[Build] Pre-Staging Review activities**
   - [ ] [Accessibility checklist in Staging](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=staging-review-accessibility-checklist.md&title=%3CInitiative%3E+x+Staging+Accessibility+Checklist) - #(ticket)
-  - [ ] Compile QA test cases - #(ticket)
-  - [ ] Release plan - #(ticket)
-  - [ ] Submit QA test plan request - #(ticket)
+  - [ ] [Compile QA test cases](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-use-cases.md&title=%3CProduct%2FInitiative%3E+Use+Cases) - #(ticket)
+  - [ ] [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=product-release-plan.md&title=%3Cproduct%2Finitiative%2Ffeature%3E+x+Release+plan) - #(ticket)
+  - [ ] Request QA test plan - #(ticket)
 - [ ] **[Build] Staging Review** - #(ticket)
   - [ ] Resolve Staging Review findings - #(tickets)
 - [ ] **[Validate] Post-launch checkin** - #(ticket)
