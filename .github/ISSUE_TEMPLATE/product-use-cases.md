@@ -1,7 +1,7 @@
 ---
 name: Product Use Cases
 about: Track and maintain the various use cases that exist for a given product
-title: <Initiative> x Test Cases
+title: <Product/Initiative> Use Cases
 labels: ''
 assignees: ''
 
