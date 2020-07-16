@@ -133,13 +133,13 @@ Additionally, we have the preview server which shows content editors any accessi
 Code Path for the `inject-axe-core` Metalsmith plugin
 
 1. Jenkins calls the `build` npm script from `package.json`
-2. The `build` npm script from `package.json` calls the `build.sh` script
-3. The `build.sh` script calls the `build:content` npm script
-4. The `build:content` npm script calls the `build-content.sh` script
-5. The `build-content.sh` script imports the `build` Metalsmith script
-6. The `build` Metalsmith script imports the `inject-axe-core` Metalsmith plugin
-7. The `inject-axe-core` Metalsmith plugin calls the `execute-axe-check` function
-8. The `execute-axe-check` function prepends warning messages on staging's page preview
+1. The `build` npm script from `package.json` calls the `build.sh` script
+1. The `build.sh` script calls the `build:content` npm script
+1. The `build:content` npm script calls the `build-content.sh` script
+1. The `build-content.sh` script imports the `build` Metalsmith script
+1. The `build` Metalsmith script imports the `inject-axe-core` Metalsmith plugin
+1. The `inject-axe-core` Metalsmith plugin calls the `execute-axe-check` function
+1. The `execute-axe-check` function prepends warning messages on staging's page preview
 
 ![screenshot of code path for inject-axe-core Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714544-854efe80-c771-11ea-960d-3aeff56e00d7.png)
 
