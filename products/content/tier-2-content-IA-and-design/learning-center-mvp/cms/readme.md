@@ -4,8 +4,16 @@
 
 ### Agenda
 
-1.
-2. 
+0. Confirm / tweak agenda
+
+1. Review [CMS backlog for Learning Center](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?epics=154174777_1975&filterLogic=any&repos=154174777)
+ * [Sprint 11](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/board?milestones=CMS%20Sprint%2011%232020-07-31&epics=154174777_1975&repos=154174777) (July 20-31)
+ * Sprint 12 (August 3-14)
+ * Sprint 13 (August )
+
+2. Discuss cross-disciplinary dependencies and touchpoints (particularly Frontend and CMS, but also occasionally Design/Content)
+
+3. 
 
 ### Action items
 
