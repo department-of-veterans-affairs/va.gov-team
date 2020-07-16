@@ -25,7 +25,7 @@
 - FE: (Stretch)Complete all development possible without BE in place
 - BE: (Stretch Goal) Rough in View Payments service, return staging data to FE
 
-4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
+## 4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
 - Design: Iterate on product designs and schedule further Collab Cycle activities as needed
 - FE: (Stretch) Continue scaffolding applications (forms and eligibility wizards)/ complete all development possible without BE in place
 
