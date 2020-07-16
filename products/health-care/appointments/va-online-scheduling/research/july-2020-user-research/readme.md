@@ -2,7 +2,7 @@
 
 ## Quick links
 
-- [VAOSR July Research plan](../research/july-2020-user-research/vaosr-june-research-plan.md)
+- [VAOSR July Research plan](../july-2020-user-research/vaosr-june-research-plan.md)
 - [VAOSR July Conversation guide](../july-2020-user-research/vaosr-july-conversation-guide.md)
 - [VAOSR July research report - WIP]()
 - [Participant list and notes](#participant-list-and-notes)
