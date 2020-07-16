@@ -105,6 +105,17 @@ Link checking was also added to the CMS. That means every time a node is saved, 
 
 ![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
 
+Code Path for the `check-broken-links` Metalsmith plugin
+
+1. `package.json`’s `build-content` script gets called
+1. `script/build-content.js` calls the build script for Metalsmith
+1. `src/site/stages/build/index.js` calls the `check-broken-links` plugin
+1. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
+1. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
+1. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
+
+![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
+
 ###### Accessibility Checking
 
 The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81)), which only happens during the full `vets-website` build.
