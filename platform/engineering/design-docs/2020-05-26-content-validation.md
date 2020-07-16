@@ -101,6 +101,8 @@ Broken links are displayed in the build log, and a Slack notification is sent to
 
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
+Example Slack notification sent to #cms-team channel: https://dsva.slack.com/archives/CT4GZBM8F/p1594936012465200
+
 Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) is tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
 ![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
