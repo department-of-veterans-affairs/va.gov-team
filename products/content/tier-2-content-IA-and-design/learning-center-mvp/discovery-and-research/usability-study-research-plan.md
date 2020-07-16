@@ -1,6 +1,6 @@
 # Research Plan for Learning Center MVP
 
-Liz Lantz, Public Websites, July 15, 2020
+Liz Lantz, Public Websites, July 16, 2020
 
 ## Goals	
 
@@ -91,7 +91,7 @@ Liz Lantz, Public Websites, July 15, 2020
 
 3. Length of Sessions: How long do you estimate each session will be? 
 
-   30-45 minutes
+   45 minutes
 
 4. Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. 
 
