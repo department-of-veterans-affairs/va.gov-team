@@ -4,17 +4,18 @@
 
 - [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
 - [ ] Have prototype link available: https://vsateams.invisionapp.com/share/YJXZTKC6CN4
+- [ ] Update the Zoom sharing settings
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
 - [ ] In the Zoom Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked
 - [ ] When the participant is ready, begin the session with the following intro:
 
 ## Intro - 3 minutes
 
-Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes.  We have a team working on a new section of VA.gov that will help you find answers to questions about VA benefits and services, and your VA.gov account.  Today, I'd like to hear about your experience getting questions answered, and go through a prototype of this new section to learn how useful it is to you.
+Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes.  We have a team working on a new web product on VA.gov that will help you find answers to questions about VA benefits and services, and your VA.gov account.  Today, I'd like to hear about your experience getting questions answered, and go through a prototype of this new web product and get your thoughts on it.
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30-45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, I want to hear your honest opinions.** I'm not testing your ability, and there are no right or wrong answers. Our team wants to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your honest feedback.
 - **You'll be interacting with a prototype.** It may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. None of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -23,11 +24,11 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I've started recording**. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
+- **I've started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## Warm-up Questions - 3 minutes
+## Warm-up Questions - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the prototype, let’s start with a few warm-up questions.
 
 - I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about you benefits or VA account? 
 - What was that question about? 
@@ -48,14 +49,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Do they default to google? Or site search?  Calling someone?  
 - What do veterans think is in a “learning center”?
 
-## Task 1: General impression - 3 minutes
+## Task 1: General impression - 5 minutes
 
 - Okay, thank you for explaining that to me.  Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together. 
   - *Use chat to send user link to prototype, starting on home page of learning center.* https://vsateams.invisionapp.com/share/YJXZTKC6CN4
   - *Talk user through screen sharing so they can share their screen.*
 - Take a look at this page, scroll around. Tell me what this page is for and what you think you can do here. It'll be really helpful if you can think out loud as much as possible moving forward.  
-- If they don’t mention anything about the ‘learning center’ name: Do you think name of this page makes sense for what you expected? 
 - What do you think about the different ways you can find information on this page? 
+
+*If participant hasn't commented on these items on their own, ask:*
+
+- Do you think name `Learning Center` makes sense for what you expected? 
+- What did you notice about the search?
+- How do you think this is different from the site search in the navigation?
 
 ### Things to watch for
 
@@ -74,16 +80,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 
   *Allow participant to go through entire page before prompting them to click.*
 
-- *If participant hasn't commented on these items on their own, ask:*
+*If participant hasn't commented on these items on their own, ask:*
 
-  - What did you notice about the search?
-  - How do you think this is different from the site search in the navigation?
-  - What are your impressions of how the page is organized? 
-  - Is there another way besides search that you'd try to find this information?
+- What are your impressions of how the page is organized? 
 
-- *If participant doesn't find hotspot:* 
+*If participant would only use search:*
 
-  - Have you noticed any place you can click? No problem. For the purpose. Of this prototype - see the `View all VA Account and profile articles` link? Go ahead and click that.
+- Is there another way besides search that you'd try to find this information?
+
+*If participant doesn't find hotspot:* 
+
+- Have you noticed any place you can click? No problem. For the purpose. Of this prototype - see the `View all VA Account and profile articles` link? Go ahead and click that.
 
 ### Things to watch for
 
@@ -101,9 +108,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - How does this line up with what you expected?
 
-- Tell me which of these articles would be the most helpful for you, if you needed to figure out how to make sure VA had your new address.
+- Would any of these articles help you figure out how to make sure VA had your new address?
 
-  *Two clickable results: `Change your address on file w/ the VA`, or `How to change your address online`*
+  *Prototype has three clickable results: `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online`*
 
 - What helped you determine that article was the right one for you?
 
@@ -116,74 +123,93 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What were the participant's comments, if any, on the topic and audience tags for each result?
 - Do the template labels help the user choose the most relevant article to their search?
 
-## Task 4: Navigate between learning center articles and topics - 5 minutes
+## Task 4: Navigate between learning center articles - 5 minutes
 
-*Participant should be on `Change your address on file w/ the VA`, or `How to change your address online` article*
+*Participant should be on `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online` article*
 
 - Go ahead and talk me through what you see on this page and what you can do here. 
 
-- How useful is this page in answering your question?
+- Does this page in answer your question?
 
 - Based on this article, what would you do next?
 
   *Encourage participant to click on hotspot if they have not done so already*. 
 
-- *Once on new page:*
+  - *On How to change address online page, hotspot is in alert, and to related info section at bottom of page*
 
-  - How does this line up with what you expected?
-  - Excellent, you're being really helpful. Thank you. Just a few more things to go over.
+  - *On Change address on file page, hotspot is in body text*
 
-- We're going to shift gears now. Imagine you need to find out how to file a disability claim for a Veteran who has been exposed to Agent Orange. How would you do that from here?
+  - *Sign in FAQs page, hotspot is in to related info section at bottom of page*
 
-  *May need to remind user that things might not work as expected since this is a prototype*
+    
+
+*Once on new page:*
+
+- How does this line up with what you expected?
+- Excellent, you're being really helpful. Thank you. Just a few more things to go over.
 
 ### Things to watch for
 
 - Did the participant get confused navigating between articles?
 - How did the experience align with participant's expectations?
-- How does user expect to be able to get to unrelated topic information?
 
-## Task 5: Navigating between Hub and Learning Center - 5 minutes
+## Task 5: Navigating between topics, and between Hub and Learning Center - 5 minutes
 
-- Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to take you directly to a page we think would be helpful a helpful starting point. 
+*Participant should still be on `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online` article*
 
-  *Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/URY28M6KJP7
+- We're going to shift gears now. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here?
+
+  *May need to remind user that things might not work as expected since this is a prototype*
+
+- Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to send you a link you directly to a page. 
+  
+  
+
+*Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
 
 - Now again, scroll around, and take a look at this page. Please continue to think out loud - you're doing a great job with that.
-
 - How does this line up with what you expected to see? Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
 
-  *This should take participant to LC Agent Orange page*
+
+
+*This should take participant to LC Agent Orange article*
 
 - Now, how does this line up with what you expected?
 
 - Based on this information, what would you do next?
 
-  *Encourage participant to click CTA if needed*
+  *Encourage participant to click CTA to go to Learn How to File Claim*
 
 - And, once again, how does this page line up with what you expected to find? 
 
 ### Things to watch for
 
+- How does user expect to be able to get to unrelated topic information?
 - Did the participant navigate easily between the benefit hub and learning center?
 - Did the participant get confused at any point going back and forth?
 - What changes did the participant notice between LC and hub?
 
-## Task 6: Review tag results -  2 minutes
+## Task 6: Review tag results -  3 minutes
 
-- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. Can you please go back to the Agent Orange page we were just looking at? You can use your back button.
+- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. Can you please go back to the Agent Orange page we were just looking at? 
 
-- From here, show me how would you find more information related to Vietnam Veterans.
+- From here, show me how would you find more articles that might be of interest to the same group of readers.
 
-  *Encourage participant to click on audience tag if they don't on their own*. *Ask if they noticed the audience and topic tags, and if they knew they were clickable.*
+  *If participant doesn't click on audience tag*. 
 
-  *User lands on Learning center articles tagged: Vietnam War Veterans page.*
+  - Did you notice the audience and topic labels?
+  - What would you expect to happen if you clicked on one?
+  - Go ahead and click on the audience label.
 
-- How does this align with what you'd expect? 
+*User lands on Learning center articles tagged: Vietnam War Veterans page.*
 
-- What do you think about the topic and audience labels? 
-
-- How about having a page of articles grouped like this?
+- Great! Take a look at this page. How does it align with what you'd expect? 
+- What do you think about how this information is presented?
+- *If participant doesn't comment on tags:*
+  - Are there any aspects to the page that you think are interactive?
+  - What would you expect if you click on one of the audience or topic tags?
+  - Did you notice any articles that sound like they could be the same?
+  - What differences do you notice between them?
 
 ### Things to watch for
 
@@ -193,14 +219,17 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Are the tag results useful?
 - Is the format helpful to the participant?
 
-## Post-Task Interview - 5 minutes
+## Post-Task Interview - 8 minutes
 
-- Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  From this screen, talk me through how you would apply for a benefit you don't already have - education, home loan, something like that.
-- From your perspective, is the learning center different from overall site search?
-- If they didn't address the radio buttons above the search bar, get their perspective on that
-- Our session today was based on a new web product we are developing.  We don't know what to call it yet. Now that you have a better idea of the kinds of information that's here, what you think of the name ` Learning Center`?
+Excellent, this has all been so helpful. Just a few more questions for you before we wrap up.  
+
+- From this screen, talk me through how you would apply for a benefit you don't already have - education, home loan, something like that.
+
+- Got it, thanks. That's helpful. From what you've seen today, can you describe how the learning center is different from overall site search?
+  - If they didn't address the radio buttons above the search bar, get their perspective on that.
+- We don't know what to call the product you reviewed yet. Now that you have a better idea of the kinds of information that's here, what you think of the name `Learning Center`?
 - Say you went to VA.gov today and knew we had launched this product. How would you find it on the website?
-- Overall, what do you find valuable about this learning center concept as a whole?
+- Overall, what, if anything, do you find valuable about this learning center concept as a whole?
 - What do you think could be improved about what we've reviewed today?
 - Any questions for me? 
 
