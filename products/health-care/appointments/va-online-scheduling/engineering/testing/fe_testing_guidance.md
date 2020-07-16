@@ -2,9 +2,11 @@
 
 This is a work in progress, don't take it for "official" guidance yet.
 
-## Browser tests
+## Browser (e2e) tests
 
-- Cypress tests should cover the major paths through the application and fail if a user gets stuck.
+- Browser tests on the va.gov platform (called e2e tests) are tests that are run in a real browser, with a mock backend
+- We have both Nightwatch and Cypress available to write these tests, we should move to Cypress as we have time
+- Our Cypress tests should cover the major paths through the application and fail if a user gets stuck.
 - Any routing related logic should be covered in browser tests (i.e. redirects, path logic, etc)
 - In an ideal world, all our tests would be run in a browser, but the current downsides to Cypress/browser testing are:
    - Running tests in a browser is slower than running tests in Node, and browser tests can still be somewhat flaky
