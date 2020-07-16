@@ -23,7 +23,7 @@ This is a work in progress, don't take it for "official" guidance yet.
    - Mock fetch calls and global user/site Redux state
    - Mock fetch calls in a way that ties the mock data to specific urls, so that tests fail if the urls are constructed incorrectly
    - Avoid mocking VAOS specific Redux state or props; let as much of our code run in the test as possible
-- Integration tests should be our primary source of tests
+- Integration tests should be our primary source of tests, because they are the best balance of reliability and developer time
 - We should still leave tests that incorporate React Router to the browser tests, but we should verify in these tests that we are pushing the correct urls to the router when necessary
 - React Testing Library is the easiest way to write tests that meet the guidelines above, but Enzyme is still usable.
 
