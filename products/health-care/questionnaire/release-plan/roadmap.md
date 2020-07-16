@@ -1,5 +1,7 @@
 # Roadmap Release Plan
 
+> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
+
 ## Target Launch Date
 
 Now 	| Next 	| Later	(6+ months) 
