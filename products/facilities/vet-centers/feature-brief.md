@@ -48,20 +48,17 @@ _Why should this project be a priority?_
 _What's in and what's out?_
 
 **3Q 2020**
-- Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of 
-
-**Beyond**
-Establishing an online presence for Vet Centers 
+- Establish Veteran facing taxonomy for services offered at Vet Centers during 3Q 2020, we can support our long term goal of enhancing the online presence for Vet Centers 
 
 ### Not currently in scope
 
 ### Measuring Success
-_How will we know if we are successful?_
+chema for Veteran-friendly service taxonomy and structure for Vet Centers established by July 1, 2020. 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
 - Availability of Jessica Schiefer and team to support our discovery process. 
-- CMS to add taxonomy to Drupal for single source of truth
+- CMS will need to add taxonomy to Drupal for single source of truth
   
 ### Risk factors
  
