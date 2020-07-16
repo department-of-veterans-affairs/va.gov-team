@@ -22,11 +22,12 @@ assignees: ''
 - [ ] **[Build] Privacy/Security Review** - #(ticket)
 - [ ] **Pre-Staging Review activities**
   - [ ] [Accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#required-accessibility-checklist-for-staging-review) - #(ticket if necessary)
-  - [ ] QA test cases - #(ticket)
-- [ ] **[Build] Staging Review** - #(ticket)
+  - [ ] Fix any accessibility checklist findings - #(tickets)
+  - [ ] Compile QA test cases - #(ticket)
   - [ ] Release plan - #(ticket)
   - [ ] QA test plan - #(ticket)
-  - [ ] Accessibility checklist - #(ticket)
+- [ ] **[Build] Staging Review** - #(ticket)
+  - [ ] Resolve Staging Review findings - #(tickets)
 - [ ] **[Validate] Post-launch checkin** - #(ticket)
 - [ ] **[Validate] Launch Full A11y Review** - #(ticket)
 
