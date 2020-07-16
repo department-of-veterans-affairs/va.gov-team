@@ -122,3 +122,62 @@ Although moderate and severe traumatic head injuries can be readily identified a
 Although a veteran with a mild TBI may not present with obvious symptoms, a missed diagnosis can lead to severe problems. Even mild TBI is associated with psychological distress, suicidal ideation, suicide attempts, completed suicide, substance abuse, and depression. 
 
 At a time when the rate of suicide among veterans and service members remains alarmingly high despite years of reform, suicide prevention efforts often overlook the role of TBI. As the VA, veterans, and stakeholders continue to prioritize suicide prevention efforts, a more direct emphasis on the diagnosis and treatment of TBI is required.
+
+
+========================================
+
+## Updates July 16, 2020 – Military Sexual Trauma (MST)
+
+* [Mar 30, 2020] Sexual violence remains pervasive. In 2018, 20,500 service members were sexually assaulted or raped including 13,000 women and 7,500 men. The rate of sexual assault and rape jumped by almost 40% from 2016 to 2018, and for women veterans, the rate increased by over 50% to the highest level since 2006. [Source, Hill and Ponton](https://www.hillandponton.com/facts-on-military-sexual-trauma-and-statistics/#:~:text=Sexual%20violence%20remains%20pervasive.,the%20highest%20level%20since%202006)
+
+* An estimated 1 in 4 female veterans and 1 in 100 male veterans in the VA healthcare system **report** experiencing MST. It is important to note that by percentage women are at greater risk of MST, but nearly 40% of veterans who disclose MST to VA are men. [Source, Disabled American Veterans (DAV)](https://www.dav.org/veterans/resources/military-sexual-trauma-mst/)
+
+* [Facts on U.S. Military Sexual Violence](https://www.protectourdefenders.com/wp-content/uploads/2018/01/NEW-MSA-Fact-Sheet-v1.pdf)
+
+    - Sexual Violence Remains Pervasive
+    
+        - 14,900 members (8,600 women and 6,300 men) were sexually assaulted in 2016. Rates of penetrative assault were unchanged from 2014.
+        - Most victims were sexually assaulted more than once, resulting in over 41,000 assaults in 2016 alone.
+        - Over 1 in 4 women and 1 in 3 men were assaulted by someone in their chain of command.
+
+    - Vast Majority of Cases Go Un-Reported
+
+        - 83% of victims did not report the crime in 2016.
+
+    - Retaliation Is the Norm
+
+        - 58% of women and 60% of men who reported a sexual assault face retaliation.
+        - 77% of retaliation reports alleged that retaliators were in the reporter’s chain of command.
+        - A third of victims are discharged after reporting, typically within 7 months of making a report.
+        - Victims received harsher discharges, with 24% separated under less than fully honorable conditions, compared to 15% of all service members.
+    - Low Trust and Satisfaction in System
+
+        - 1 in 10 victims dropped out of the justice process — a rate unchanged since 2013.
+        - Over 1 in 4 victims who did not report feared retaliation from their command or coworkers.
+        - Nearly 1 in 3 victims who did not report feared the process would be unfair or nothing would be done.
+        - 1 in 3 women and over half of men were dissatisfied with their treatment by their chain of command. 
+
+    - Sexual Assault is More Common in a Military Context
+
+        - In 2014, rates were 50% higher among active-duty women, and over 100% higher among men, than in the Reserves.
+
+    - Conviction and Prosecution Rates
+
+        - Prosecution and conviction rates fell dramatically from prior years.
+        - In 2016, of cases where the military could take action, only 13% (389) were prosecuted and just 4% (124) of offenders were convicted of a sex offense.
+
+    - High Demand for VA Care
+
+        - 1,307,781 outpatient visits took place at the VA for Military Sexual Trauma (MST)-related care in 2015.
+        - 1 in 4 female and 1 in 100 male veterans who use the VA screen positive for MST.
+        - 40% of woman homeless veterans have faced MST.
+
+    - Sexual Harassment is Alarmingly High
+
+        - 128,000 service members (1 in 4 women, 1 in 15 men) faced severe and persistent sexual harassment or gender discrimination in 2016.
+        - Most victims were harassed or discriminated against by someone in their chain of command.
+
+    - Good Order and Discipline at Risk
+
+        - Service members who are sexually harassed are at significantly greater risk of sexual assault.
+        - 1 in 4 survivors of either sexual assault or sexual harassment/discrimination took steps to leave the military as a result.
