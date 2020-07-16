@@ -50,6 +50,15 @@ When going to a healthcare visit, I want to share my current health status and m
 
 ---
 
+### Initiaves
+| Initiative Name		                      | Status 
+| --------------------------------------------------- | -----
+| [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover
+| [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/allergies-initiative-outline.md) 	  | Discover
+
+
+
+
 ## Measure Success 
 
 ### North Star
