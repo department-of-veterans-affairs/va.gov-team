@@ -44,7 +44,7 @@ _Note/ Guiding principle_
     - If the Sidkiq job retries some number of times - all retries are exhausted but we are loking at what that confirmation of failure would be
 
 **TL;DR - what does this mean?  what do we do next?**
-Lowest Level of Effort: Let it go as is and resolve going forward
+Lowest Level of Effort: Let it go as is and resolve going forward (post launch)  <- Eh, we can do better
 Next Highlest Level of Effort: We need to know what indicator there might be for a failed response, then we can send them an email.
 Highest LEvel of Effort: Integrate status into Claim Status Tool
 Ideal: There is a confirmation number that ties to all of the above
@@ -52,8 +52,13 @@ Ideal: There is a confirmation number that ties to all of the above
 -------------
 ## Form ID  
 `Team Meeting July 16, 2020`  
-**Description.**  
-  
+**Ticket: [Determine Form ID for Dependency Claims #11178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11178).**  
+
+Does backend know all the different places 
+ - Yes but I am not sure if it is complete or what the implications
+
+
+
 _Note/ Guiding principle_
 - Action item
 
