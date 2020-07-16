@@ -2,6 +2,20 @@
 
 This is a work in progress, don't take it for "official" guidance yet.
 
+## Testing tools used
+
+- Cypress (test runner for browser tests)
+- Nightwatch (test runner for browser tests)
+   - Moving away from in favor of Cypress
+- Mocha (test runner)
+   - Jest has been considered for the va.gov platform, and it is used for some platform specific tests, but it's currently
+     significantly slower than our Mocha tests
+- Chai (assertion library)
+- Sinon (mocking library)
+- React Testing Library (React and DOM testing utility library)
+- Enzyme (React testing utility library)
+   - Moving away from in favor of React Testing Library
+
 ## Browser (e2e) tests
 
 - Browser tests on the va.gov platform (called e2e tests) are tests that are run in a real browser, with a mock backend
