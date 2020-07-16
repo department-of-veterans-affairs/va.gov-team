@@ -8,7 +8,7 @@
         1.  [Solution](#solution-1)
     3.  [Handling circular references](#handling-circular-references)
         1.  [Solution](#solution-2)
-    4.  [My transformer isn't receiving a property that exists in the raw content](#my-transformer-isnt-receiving-a-property-that-exists-in-the-raw-content)
+    4.  [My transformer isn't receiving a property that exists in the input content](#my-transformer-isnt-receiving-a-property-that-exists-in-the-input-content)
         1.  [Solution](#solution-3)
 
 
@@ -127,7 +127,7 @@ doesn't expect the missing pieces.
 
 
 
-## My transformer isn't receiving a property that exists in the raw content
+## My transformer isn't receiving a property that exists in the input content
 
 You've verified that the property *does* exist in the content model and it's
 present in the actual entity on file, but when you try to use it in the
