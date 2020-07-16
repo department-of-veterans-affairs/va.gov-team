@@ -20,10 +20,13 @@ assignees: ''
 - [ ] **[Discover] Analytics Request** - #(ticket)
 - [ ] **[Build] Contact Center Review** - #(ticket)
 - [ ] **[Build] Privacy/Security Review** - #(ticket)
+- [ ] Pre-staging activities
+  - [ ] [Accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#required-accessibility-checklist-for-staging-review) - #(ticket if necessary)
+  - [ ] QA test cases - #(ticket)
 - [ ] **[Build] Staging Review** - #(ticket)
   - [ ] Release plan - #(ticket)
   - [ ] QA test plan - #(ticket)
-  - [ ] [Accessibility checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md#required-accessibility-checklist-for-staging-review) - #(ticket if necessary)
+  - [ ] Accessibility checklist - #(ticket)
 - [ ] **[Validate] Post-launch checkin** - #(ticket)
 - [ ] **[Validate] Launch Full A11y Review** - #(ticket)
 
