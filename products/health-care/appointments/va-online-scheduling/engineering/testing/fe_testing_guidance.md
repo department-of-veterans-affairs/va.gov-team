@@ -6,6 +6,12 @@ This is a work in progress, don't take it for "official" guidance yet.
 
 - Cypress tests should cover the major paths through the application and fail if a user gets stuck.
 - Any routing related logic should be covered in browser tests (i.e. redirects, path logic, etc)
+- In an ideal world, all our tests would be run in a browser, but the current downsides to Cypress/browser testing are:
+   - Running tests in a browser is slower than running tests in Node, and browser tests can still be somewhat flaky
+   - Browser tests require us to always test against the full application. We can't pick and choose specific pages to test, we have to test the full appointment list or the full new appointment flow.
+      - In Node, we have the ability to mock code that isn't ours to speed up testing
+   - Browser tests require us to run Webpack and fully bundle all our JS code before running any test, which is slow
+   - Generally, [this article](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests) is a good breakdown of the types of testing and tradeoffs.
 
 ## Integration tests
 - Integration tests mean tests that cover multiple components/redux logic, but are not run in a browser
@@ -21,9 +27,9 @@ This is a work in progress, don't take it for "official" guidance yet.
 
 ## Unit tests
 - Write unit tests for plain JS code, like data transformations
-- Reducers should also be unit tested
+- Reducers should also be unit tested, if they have complex logic
 - Action creators can be unit tested or covered in integration tests, since they're typically coupled to specific component interactions
-- Mostly avoid unit tests for React components
+- Mostly avoid unit tests for low and mid level React components
    - You may need to write them to cover loading or error logic that is hard to trigger in integration tests
    - Common UI components used in multiple contexts may need unit tests, but we can write them like integration tests, and avoid making them conditional on implementation details
 - We can remove certain unit tests as we get better integration test coverage for different functionality
