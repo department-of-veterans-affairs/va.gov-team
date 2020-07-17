@@ -8,7 +8,7 @@ Product teams can use demo environments for the following four user stories (and
 
 As a member of a product team, I want a version of www.va.gov where your product’s draft content can be published, so that you can then send it to stakeholders (peers, platform team, or others) for review. 
 
-### User story 1b (NOT covered in slidedeck or video)
+### User story 1b (not covered in slidedeck or video)
 
 As a member of a product team, i want to create my own demo site, and not rely on CMS team. 
 
