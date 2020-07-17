@@ -7,8 +7,8 @@
 ### Vision
 
 The authenticated experience team wants to work towards a concierge-like VA experience, one that sees, reflects, and guides veterans and their communities (families, caregivers, VSOs, etc.) through their interactions with the VA. We see a world in which:
-The service member to veteran transition is seamless.
 
+- The service member to veteran transition is seamless.
 - We never ask a veteran to provide a DD214.
 - Veterans can easily understand what benefits they’re eligible for.
 - Veterans can apply for/enroll in benefits with one click.
