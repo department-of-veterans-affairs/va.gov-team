@@ -55,6 +55,13 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+**7/17/2020 - Design Intent**
+- Only veterans will initially provide ratings
+- Discussed color contrast of stars
+- Discussed placement of the ratings within the search results card and detail page - top placement may not reflect its priority over all the other info
+- Feedback provided here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/11347
+
+
 **6/2/2020 - Kick-off**
 - Ability for users to rate schools on 5 star scale
 - Initial launch will not include narrative reviews, only the 5 star scale
