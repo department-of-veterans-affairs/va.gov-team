@@ -1,5 +1,7 @@
 # Product Outline: Logged-in homepage redesign (Dashboard 2.0)
 
+Last updated July 17, 2020
+
 ## Communications
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0; auth-homepage; My VA
@@ -11,9 +13,10 @@
 |----|----|-----|
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Sandra Hallie| Designer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
 |Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
@@ -146,55 +149,9 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## KPIs
-- **KPI**: % of authenticated users who visit the LIH 
-- **KPI**: LIH bounce rate
-- **KPI**: # of appointments scheduled
-- **KPI**: # of docs uploaded to support claims
-- **KPI**: # of searches for Direct Deposit
-- **KPI**: # of Disability rating pageviews that resulted in another action taken (conversion)
-
 ## Objectives and OKRs
 
-### **Objective**: (Adoption and Satisfaction) More people use the logged-in homepage because they feel like it is more personally relevant to them. 
-
-**OKR**: Increased the percent of users who visit the logged-in homepage by 10%
-
-**OKR**: Increase Foresee satisfaction rating from X to Y (we need to establish a couple month's worth of ratings to establish baseline metrics here).
-
-**Bets**
-- **Bet**: "Show tasks/tools on the logged-in homepage only if tasks/tools are relevant to the user.
-- **Bet**: Improved visual design for authenticated tools.
-- **Bet**: Retiring My VA (My VA traffic will now use homepage)."
- 
-### **Objective**: (Engagement) People can quickly complete personally-relevant tasks from the VA.gov homepage — including people who have never interacted with the VA before. 
-
-**OKR**: Increase % of applications completed from X to Y. (have to confirm we can calculate this)
-
-**OKR**: Increase # of appointments scheduled on VA.gov by X%.
-
- **OKR**: [Need claim status metric for success — maybe reduced calls to the call center since people come to VA.gov to check status regardless of action? Loop back with Luke on this in a couple of months] 
-
-**OKR**: [Need disability rating metric — team doesn't care about page views. This may be rolled into claim status metric since viewing disability rating is often part of that flow.]
-
-**OKR**: (if we include direct deposit, we might see fewer people searching for this feature)
-
-**Bets**
-- **Bet**: Redesigning "getting started" experience for new users (will affect how we show "Apply" prompts for people to  
-start benefit applications).
-- **Bet**: Showing in-progress applications on the homepage.
-- **Bet**: Feature upcoming appointments (if possible).
-- **Bet**: Add overall disability rating to logged-in homepage.
-
-
-
-### Other Metrics
-- Do more people log in because we've made it easier to navigate VA.gov and their tools?
-- Do we see an increase in accounts created?
-- Do we see an increase in people who verify their identities (LOA3)?
-- Do we see an increase in people routing to tools through the homepage?
-- Do we see a decrease in people calling the call center for information/updates? (Not sure how to measure this)
-- Do we see an increase in overall level of satisfaction with the homepage? (eg. Foresee data)
+Work in progress can be found here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
 
 --- 
 
@@ -219,13 +176,15 @@ start benefit applications).
 - **April 2020**: DEPO stakeholder interviews complete
 - **May 2020**: Research review, comparative analysis, analytics review, and user research.
 - **June 2020**: Discovery and final readout complete.
+- **July 2020**: Project on hold while we get Profile 2.0 ready for QA and other pre-launch tasks. 
+- **August 2020**: Design onboarding; technical discovery.
 
 ### Key Decisions
 
 ## Discovery
 
-- [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
-- Currently, we are undergoing a discovery phase geared more specifically toward how we might approach the homepage redesign. We'll link to those reports here as they're completed.
+- [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
+- [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
 
 ## Development
 
