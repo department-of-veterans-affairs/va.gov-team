@@ -27,9 +27,9 @@ To move us towards this vision, our current mission is to create a logged in exp
 
 ### North star objectives
 
-- Reduce the amount of time it takes to interact with the VA
-- Make interacting with the VA feel as easy as sending an email
-- Make the VA feel like it's a 1:1 experience
+- Reduce the amount of time it takes to interact with the VA.
+- Make interacting with the VA feel as easy as sending an email.
+- Make the VA feel like it's a 1:1 experience.
 
 ## What we work on
 
