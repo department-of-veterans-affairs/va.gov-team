@@ -42,6 +42,8 @@ There are some baseline characteristics to ensure a diverse range of Veteran par
 
 - At least one person who lives in a major metropolitan area
 
+- To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+
 If the study requires screensharing, request that Perigean confirm:
 
 - The participant has Zoom downloaded prior to the session and they know how to screenshare 
