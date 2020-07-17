@@ -1,28 +1,6 @@
 # VSA Product Management Handbook
 *The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).*
 
-## Contents
-
-<details>
-  
-- [Setting Direction-Guideposts, OKRs, and Bets](#setting-direction-guideposts-okrs-and-bets)
-- [Documentation](#documentation)
-  - [Product Outline](#product-outline)
-  - [Roadmap](#roadmap)
-  - [Initiative Impact](#impact-review)
-- [Delivery](#delivery)
-  - [Issue Templates and Examples](#issue-templates-and-examples)
-  - [VSP Collaboration Cycle](#vsp-collaboration-cycle)
-  - [MVPs](#mvps)
-  - [Agile Ceremonies](#agile-ceremonies)
-  - [Sprint Objectives](#sprint-objectives)
-  
-- [Launch Prep](#launch-prep)
-- [Misc](#misc)
-  - [Team of Teams](#team-of-teams)
-  
-</details>
-
 ---
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
@@ -33,7 +11,11 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 ### Documentation
 #### Product outline
-- Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". These outlines capture key decisions made, pivots, and the results of our hypotheses. 
+
+<details>
+Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". These outlines capture key decisions made, pivots, and the results of our hypotheses. 
+</details>
+
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
   - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
@@ -45,10 +27,12 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
 
 #### Roadmap
+
 <details>
 Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
 It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
 </details>
+
 - Templates
   - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
   - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
@@ -56,9 +40,11 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
   
 #### Impact Review
-<detail>
+
+<details>
   Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
-</detail>
+</details>
+
 - [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
 
 - Launch Announcement Template
@@ -94,7 +80,7 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 
 #### MVPs
 
-<detail>
+<details>
 MVP is an often overused/convoluted term. And, there can be many definitions of an MVP. It may be referred to as the solution that *just* solves a problem or it may be referred to as the first version of a product. Without getting caught up in labels, an MVP has two primary characteristics: lessons are generated and future iterations are anticipated though not expected.
 
 It's up to the product team to determine what makes up their MVPs. The PO, the PM, and the cross-functional team determine their MVP after they've defined the problem and before they've started to build. It contains:
@@ -103,7 +89,7 @@ It's up to the product team to determine what makes up their MVPs. The PO, the P
 - a target date for launching the feature set 
 
 At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
-</detail>
+</details>
 
 Resources:
 - [SVPG Viable Product vs. Minimal Product](https://svpg.com/viable-product-vs-minimal-product/)
@@ -114,7 +100,11 @@ Resources:
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-checklist.md). 
 
 #### Sprint Objectives
-- Each sprint begans with objectives. These objectives tailor a team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
+
+<details>
+  Each sprint begans with objectives. These objectives tailor a team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
+</details>
+
 - [Sprint Report Template](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
 - Examples
   - "[Launch] Find VA Forms Search"
