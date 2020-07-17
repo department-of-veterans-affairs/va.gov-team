@@ -229,7 +229,7 @@ Excellent, this has all been so helpful. Just a few more questions for you befor
   - If they didn't address the radio buttons above the search bar, get their perspective on that.
 - We don't know what to call the product you reviewed yet. Now that you have a better idea of the kinds of information that's here, what you think of the name `Learning Center`?
 - Say you went to VA.gov today and knew we had launched this product. How would you find it on the website?
-- Overall, what, if anything, do you find valuable about this learning center concept as a whole?
+- Overall, what, if anything, do you find valuable or not helpful about this learning center concept as a whole?
 - What do you think could be improved about what we've reviewed today?
 - Any questions for me? 
 
