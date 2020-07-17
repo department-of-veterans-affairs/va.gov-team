@@ -60,6 +60,6 @@ When the feature is fully done, we will flip the switch so all staging users see
 
 |Test user|Test case|Staging user|
 |----|----|----|
-|LOA1 user|can't see personal information|vets.gov.user+350@gmail.com
-|LOA3 user| (ID verified + 2FA)	can see personal information|user 36	
-|LOA3 user who cant pull up record in MPI|User	Cant see it, also cant see any other information|	test locally -	Treat the same as LOA1 user, send to account security page and show MPI alert|
+|LOA1 user|can't see personal information|vets.gov.user+350@gmail.com|
+|LOA3 user| (ID verified + 2FA)	can see personal information|vets.gov.user+36@gmail.com|	
+|LOA3 user who cant pull up record in MPI|User	Cant see "Personal information" or any other information, they are sent to account security page and shown the MPI alert |test locally| 
