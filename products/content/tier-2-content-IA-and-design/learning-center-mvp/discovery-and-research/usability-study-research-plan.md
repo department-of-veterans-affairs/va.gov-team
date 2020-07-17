@@ -1,6 +1,6 @@
 # Research Plan for Learning Center MVP
 
-Liz Lantz, Public Websites, July 16, 2020
+Liz Lantz, Public Websites, July 15, 2020
 
 ## Goals	
 
@@ -105,7 +105,9 @@ Liz Lantz, Public Websites, July 16, 2020
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
-   Week of July 20, with Nick Sullivan, Kelson Adams, or Jen Lee
+   - Kelson Adams, kadams@governmentcio.com
+   - Preferred date/time: 7/23, between 3:30-5pm EST
+   - Back up date/time: 7/24 between 3:30-7pm EST
 
 ## Team Roles	
 
@@ -119,9 +121,9 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact: Liz Lantz
 
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test: Kelson Adams, kadams@governmentcio.com
 
-- Note-takers:	
+- Note-takers: Jen Lee, TBD (will use VSA team members)
 
 - Observers:	
 
