@@ -14,7 +14,45 @@
 
 ## July 17th, 2020
 
---
+**Status**
+Product
+- [Sprint 25 Retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-25.md) 
+- [Sprint 25 Report Documented](https://docs.google.com/document/d/1C2xk9RDz7pBiKiJwS-6qHxE_AAg677vLSSZTemUUtac/edit?usp=sharing)
+- [Sprint 26 Priority Planning](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11032) 
+- Completed [Team Mission/Vision - North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#team-mission-statement) in the Team Charter 
+- Received [Clinical Reminders documentation](https://drive.google.com/drive/u/0/folders/1pvoov0MCZy50I6IvcUCMsGEsabtN6AoJ) that Nursing typically interviews Veteran at start of visits. 
+	- Created [Clinical Reminders Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) to start Epic and User Story for feature capabilities. 
+- Notes from [Stakeholder interview Sharon Tapia, RN @Loma Linda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/sharon-tapia.md) 
+- Created Roadmap Planning docs (template at this point until scope is determined)
+	- [Roadmap Release Plan Overview and Supporting Links ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md) 
+	- [Created Quarterly Sprint Planning Priorities doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md) created to build out our roadmap and quarterly release strategy
+
+
+
+Research and Design
+- Healthcare team presented for the first time at Design Collaboration and [Sprint 25 Demo for research findings/recommendations](https://docs.google.com/presentation/d/1Rd-HzsKXc6I4Py9kA9y4tcMWUlAggL4SXFd-32Kxsrg/edit#slide=id.g8c1b2c91ed_10_0) 
+-  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and presented by Aricka
+- - [Created Personas Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/discovery-personas.md) to be used throughout design and development specific to the healthcare/questionnaires workflow
+- Created [Interview Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/clinician-questions.md) and [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/research-plan.md) for Stakeholder sessions
+
+Engineering
+- Created a prototype with the forms library to demonstrate unauthenticated questions answered then passing through data to authenticated forms entry where pre-populated information can be viewed.
+- Laurence Guild, BE engineer started on the team and is completing onboarding
+
+**Next Step/Followup**
+	- Start to build Epics from stakeholder interview
+	- Engineering to research API/interface feeds into EHR's and the MPI 
+
+**Decisions:**
+-   none this week
+
+**Blockers:**
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Lauren and Lacey have met with clinical teams that will provide us the "standard ~15 forms"
+
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
+
 
 ## July 10th, 2020
 
