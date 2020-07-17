@@ -231,6 +231,9 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - **February 2020**: Initial designs completed; beginning copy.
 - **March 2020**: Completing copy, beginning build, conducting user testing.
 - **April 2020**: User testing completed; build in progress.
+- **May 2020**: Build; additional design as needed.
+- **June 2020**: Build; additional design as needed.
+- **July 2020**: Finish build; QA; pre-launch.
 
 ## Solution Narrative
 
