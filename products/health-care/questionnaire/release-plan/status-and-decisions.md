@@ -20,7 +20,7 @@ Product
 - [Sprint 25 Report Documented](https://docs.google.com/document/d/1C2xk9RDz7pBiKiJwS-6qHxE_AAg677vLSSZTemUUtac/edit?usp=sharing)
 - [Sprint 26 Priority Planning](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11032) 
 - Completed [Team Mission/Vision - North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#team-mission-statement) in the Team Charter 
-- Received [Clinical Reminders documentation](https://drive.google.com/drive/u/0/folders/1pvoov0MCZy50I6IvcUCMsGEsabtN6AoJ) that Nursing typically interviews Veteran at start of visits. 
+- Received [Clinical Reminders documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/feature-documentation/clinical-reminders) that Nursing typically interviews Veteran at start of visits. 
 	- Created [Clinical Reminders Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) to start Epic and User Story for feature capabilities. 
 - Notes from [Stakeholder interview Sharon Tapia, RN @Loma Linda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/sharon-tapia.md) 
 - Created Roadmap Planning docs (template at this point until scope is determined)
