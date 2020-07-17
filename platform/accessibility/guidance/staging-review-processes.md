@@ -9,11 +9,17 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 ## Required accessibility checklist for staging review
 
 - [ ] [Axe scans in daily development](#axe-scans-in-daily-development)
-- [ ] [Axe scans in end-to-end tests](#axe-scans-in-end-to-end-tests)
-- [ ] [Color tests](#color-tests)
-- [ ] [Content resize check](#content-resize-check)
+- [ ] [Axe scans included in end-to-end tests](#axe-scans-in-end-to-end-tests)
+- [ ] [Color tests for proper contrast and colorblindness](#color-tests)
+- [ ] [Content zoomed to 200%, 300%, 400%](#content-resize-check)
 - [ ] [Keyboard navigation check](#keyboard-navigation-check)
-- [ ] [Screen reader tests](#screen-reader-tests)
+- [ ] [Screen reader tests (VoiceOver + Safari or NVDA + Firefox)](#screen-reader-tests)
+
+## Recommended accessibility checklist for staging review
+
+- [ ] [Keyboard end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/testing/508-automated-testing.md) - These tests are currently written in Nightwatch.js, and will be ported to Cypress.io in the future
+- [ ] [Axe-coconut scans in daily development](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
+- [ ] [WAVE tool spot checks](https://wave.webaim.org/)
 
 
 ## How to document that your team has completed the checklist
@@ -22,7 +28,7 @@ Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) 
 
     * **(preferred)** Use the [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/projects/overview/13). The accessibility test cases template is available in TestRail for you to copy into your test plan and includes all the required accessibility checks.   \
 OR
-    *   Copy the checklist from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
+    *   Copy the required and recommended checklists from this doc into a doc in your product folder. _Note that this artifact can be used for the Collaboration Cycle staging review._
 
 2. Link to any unresolved accessibility ZenHub issues in your staging review request ticket.
 
