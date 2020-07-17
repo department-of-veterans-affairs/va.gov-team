@@ -6,5 +6,5 @@
 ## Action Items
 
  - [ ]  Lacey still focusing on getting the team connected to clinicians and admin staff with assistance from Lauren and Patrick with their connections.
- - [ ] Aricka scheduling the Research Readout to review findings and actionable next steps for investigation.
+ - [x] Aricka scheduling the Research Readout to review findings and actionable next steps for investigation.
 
