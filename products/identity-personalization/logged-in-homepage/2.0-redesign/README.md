@@ -30,7 +30,7 @@ Last updated July 17, 2020
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
-- [Objectives-OKRs-KPIs](#objectives-okrs-kpis)
+- [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
 - [Solution Narrative](#solution-narrative)
@@ -149,7 +149,7 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## Objectives and OKRs
+## OKRs & KPIs
 
 Work in progress can be found here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
 
