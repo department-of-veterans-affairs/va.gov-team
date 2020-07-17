@@ -48,8 +48,6 @@ When going to a healthcare visit, I want to share my current health status and m
 ### Business 
 - Enter user Story /use case Epics here
 
----
-
 ### Initiatives
 | Initiative Name		                      | Status 
 | --------------------------------------------------- | -----
