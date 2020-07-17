@@ -135,6 +135,21 @@ Of note — "Rating", "disability rating," and "Disability rating" all make it i
 
 ### Search terms
 
+[Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
+
+The top ten search terms for all logged-in users (those who view the homepage and those who do not) are:
+
+- direct deposit
+- ebenefits
+- certificate of eligibility
+- coe
+- claims
+- DD214
+- disability rating
+- disability
+- change address
+- id card
+
 [Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
 
 The top ten search terms for logged-in users who view the homepage are:
