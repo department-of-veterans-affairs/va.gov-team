@@ -45,8 +45,10 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
 
 #### Roadmap
+<details>
 Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
 It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
+</details>
 - Templates
   - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
   - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
@@ -54,7 +56,9 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
   
 #### Impact Review
-Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
+<detail>
+  Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
+</detail>
 - [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
 
 - Launch Announcement Template
@@ -89,6 +93,8 @@ Every initiative—a new feature, a product launch, technical improvements—wra
 [Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan)
 
 #### MVPs
+
+<detail>
 MVP is an often overused/convoluted term. And, there can be many definitions of an MVP. It may be referred to as the solution that *just* solves a problem or it may be referred to as the first version of a product. Without getting caught up in labels, an MVP has two primary characteristics: lessons are generated and future iterations are anticipated though not expected.
 
 It's up to the product team to determine what makes up their MVPs. The PO, the PM, and the cross-functional team determine their MVP after they've defined the problem and before they've started to build. It contains:
@@ -97,6 +103,7 @@ It's up to the product team to determine what makes up their MVPs. The PO, the P
 - a target date for launching the feature set 
 
 At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
+</detail>
 
 Resources:
 - [SVPG Viable Product vs. Minimal Product](https://svpg.com/viable-product-vs-minimal-product/)
