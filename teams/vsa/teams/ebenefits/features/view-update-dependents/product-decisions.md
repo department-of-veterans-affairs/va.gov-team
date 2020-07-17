@@ -43,7 +43,7 @@ _Note/ Guiding principle_
     - We know if the submission hits vnpProcUpdate call - if we get our payload back its a STRONG indicator of success
     - If the Sidkiq job retries some number of times - all retries are exhausted but we are loking at what that confirmation of failure would be
 
-**TL;DR - what does this mean?  what do we do next?**
+**TL;DR - what does this mean?  what do we do next?**  
 Lowest Level of Effort: Let it go as is and resolve going forward (post launch)  <- Eh, we can do better  
 Next Highlest Level of Effort: We need to know what indicator there might be for a failed response, then we can send them an email.  
 Highest LEvel of Effort: Integrate status into Claim Status Tool  
