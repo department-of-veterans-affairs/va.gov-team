@@ -39,7 +39,7 @@ _(previously Vocational Rehabilitaion and Employment)_
 
 ## Abstract
 
-Veterans and related claimants can apply for "Chapter 31" benefits, or Vocational Rehabilitation and Employment benefits. This is a very simple application for which we should attempt to prefill all possible fields.
+Claimants can apply for "Chapter 31" benefits, or Veteran Readiness & Employment benefits. This is a very simple application for which we should attempt to prefill all possible fields.
 
 ## User Problem Statement
 
@@ -49,7 +49,7 @@ eBenefits, in its current legacy state, is no longer the best version of what ca
 
 ### User Goals
 
-- **Veterans:** Apply for Vocational Rehabilitation and Employment benefits at the VA.
+- **Veterans:** Apply for Veteran Readiness & Employment benefits at the VA.
 
 ### Business Goals
 
