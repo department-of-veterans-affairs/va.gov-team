@@ -11,6 +11,20 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 - Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
+### Roadmap
+
+<details>
+Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
+It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
+</details>
+
+- Templates
+  - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
+  - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
+- Examples 
+  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
+
+
 ### Product outline
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
@@ -32,23 +46,9 @@ Examples
 
 ## Build
 
-#### Roadmap
 
-<details>
-Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
-It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
-</details>
 
-- Templates
-  - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
-  - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
-- Examples 
-  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
- 
-
-### Delivery
-
- #### Issue Templates and Examples  
+ ### Issue Templates and Examples  
 <details>
 
   
@@ -63,12 +63,12 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 
 </details>
 
-#### VSP Collaboration Cycle
+### VSP Collaboration Cycle
 
 - [The VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)
 - [Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan)
 
-#### MVPs
+### MVPs
 
 <details>
 MVP is an often overused/convoluted term. And, there can be many definitions of an MVP. It may be referred to as the solution that *just* solves a problem or it may be referred to as the first version of a product. Without getting caught up in labels, an MVP has two primary characteristics: lessons are generated and future iterations are anticipated though not expected.
@@ -85,11 +85,11 @@ Resources:
 - [SVPG Viable Product vs. Minimal Product](https://svpg.com/viable-product-vs-minimal-product/)
 - [SVPG Minimum Viable Product](https://svpg.com/minimum-viable-product/)
 
-#### Agile ceremonies
+### Agile ceremonies
 - [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-ceremonies-overview.md)
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-checklist.md). 
 
-#### Sprint Objectives
+### Sprint Objectives
 
 <details>
   Each sprint begans with objectives. These objectives tailor a team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
@@ -102,7 +102,7 @@ Resources:
   - "Build new endpoint to expose new YR data"
 
 ## Learn
-#### Impact Review
+### Impact Review
 
 <details>
   Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
@@ -128,16 +128,16 @@ Resources:
    - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
    - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
    
-   ### Misc 
+## Misc 
 
-#### Team of Teams (ToT)
+### Team of Teams (ToT)
 An opportunity for product managers and DEPO leads working across VA.gov to share updates for awareness, dependencies, blockers. 
 - [Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/ToT_Template.pptx)
 
-#### Testing
+### Testing
    - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)
 
-#### Tools
+### Tools
   - [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
   - [Vets/VA Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=972187789)
   - [Access to Error Logging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/internal-tools.md)
