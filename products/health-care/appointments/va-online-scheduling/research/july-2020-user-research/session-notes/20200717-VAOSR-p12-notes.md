@@ -1,4 +1,4 @@
-# VAOSR MVP Conversation Guide: July 2020
+# VAOSR MVP Conversation Guide: July 2020 - Participant 12
 ## Moderator logistics
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
