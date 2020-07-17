@@ -20,4 +20,4 @@ assist the customer.
 
 ## Still not sure?
 
-If you still have a doubt about how or when to engage with the Contact Center team for whatever reason, please reach out to the [`#vsp-vsp-contact-center-support`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
+If you still have a doubt about how or when to engage with the Contact Center team for whatever reason, please reach out to the [#vsp-vsp-contact-center-support](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
