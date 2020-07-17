@@ -135,9 +135,11 @@ Of note — "Rating", "disability rating," and "Disability rating" all make it i
 
 ### Search terms
 
+#### All VA.gov data
+
 [All VA sites - Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
 
-The top ten search terms for all logged-in users (those who view the homepage and those who do not) are:
+The top ten search terms for all logged-in users are:
 
 - direct deposit
 - ebenefits
@@ -149,6 +151,38 @@ The top ten search terms for all logged-in users (those who view the homepage an
 - disability
 - change address
 - id card
+
+[All VA sites - Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=user6qnIKrttSLWJ_RSccaT2xg&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
+
+The top ten search terms for logged-in users who view the homepage are:
+
+- direct deposit
+- ebenefits
+- certificate of eligibility
+- disability rating
+- coe
+- dd214
+- claims
+- disability
+- forms
+- rating
+
+[All VA sites - Top search terms for logged-in users from the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=user6qnIKrttSLWJ_RSccaT2xg&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:www.va.gov~2F/)
+
+These are the top ten searches for logged-in users when they are on the homepage:
+
+- direct deposit
+- ebenefits
+- coe (certificate of eligibility)
+- forms
+- 22-1995
+- certificate of eligibility
+- dd214
+- disability rating
+- weblgy
+- dental
+
+#### Modernized content only
 
 [Modernized content only - Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
 
