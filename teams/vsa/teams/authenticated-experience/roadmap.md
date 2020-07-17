@@ -29,7 +29,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |----|----|----|----|----|----|
 |**Direct deposit for comp & pen**|Removal of direct deposit from eBenefits| — | — | — | — |
 |**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
-|**Profile 2.0**|Design; technical discovery| User testing; build; QA; pre-launch | Launch | — | — |
+|**Profile 2.0**|Design; technical discovery| User testing; build | Build; QA; pre-launch | Launch | — |
 |**Logged-in homepage**|Begin discovery| Complete design discovery;|  start technical discovery; start design | Design | Finish design; build; user testing and additional user research |
 |**Notification center**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |
 |**Logged-in navigation**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |
