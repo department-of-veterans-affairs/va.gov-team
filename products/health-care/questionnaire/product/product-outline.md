@@ -53,7 +53,7 @@ When going to a healthcare visit, I want to share my current health status and m
 | --------------------------------------------------- | -----
 | [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover
 | [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/allergies-initiative-outline.md) 	  | Discover
-| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/questionnaire/product/initiatives#clinical-reminders-initiative-outline) 	  | Discover
+| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/questionnaire/product/initiatives#clinical-reminders-initiative-outline.md) 	  | Discover
 
 
 ## Measure Success 
