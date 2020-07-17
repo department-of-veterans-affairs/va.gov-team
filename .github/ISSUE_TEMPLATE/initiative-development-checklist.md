@@ -38,7 +38,7 @@ _TODO(gunsch): link to VSP Product Terminology when ready_
 - [ ] Internal-facing: there's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) checked into [`products/platform/PRODUCT_NAME/`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/)
     - [ ] ... including happy paths, and how you'll react to unhappy paths
     * _Note: this Product name should match 1:1 with the List of VSP Products_
-- [ ] External-facing: a [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/user-guide-template.md) exists for this product/feature tool
+- [ ] External-facing: a [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-brief-template.md) exists for this product/feature tool
     - [ ] ... and should be located at `platform/PRODUCT_NAME/README.md`
 - [ ] External-facing: a User Guide (_TODO: link_) exists for this product/feature/tool, and is updated for changes from this initiative
     - [ ] ... and should be linked from the Product Brief
