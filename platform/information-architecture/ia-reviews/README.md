@@ -8,7 +8,7 @@ Team | Project | IA Work Status | Status Notes
 --- | --- | --- | --- 
 BAH | GIBCT Search & Filters | NOT STARTED | Design intent 7/17 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
-Public Websites | Learning Center | NOT STARTED | Design intent collab held 7/10 (was not able to attend) 
+Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
 BAH | STEM Scholarship App | NOT STARTED | Kick-off held 4/21 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 eBenefits | Chapt 36 Career Counseling | NOT STARTED | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
