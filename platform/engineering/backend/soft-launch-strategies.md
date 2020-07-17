@@ -6,7 +6,7 @@ If your feature is a net-new frontend application and doesn't overlap with any a
 Generally when this has been done, the corresponding API endpoint has not been protected in any way beyond the normal authorization mechanism - i.e. non-beta/demo users could potentially discover the API endpoint and access the feature directly if they knew how to use their auth token to make an API request programmatically. This has been deemed an acceptable risk.
 
 #### How to do it
-- File a ticket to have basic auth enabled in the reverse proxy. Identify the path(s) that need to be behind basic auth. Tag the ticket with the `devops` label and indicate when this needs to be enabled. Mention your request in the `#devops` channel for visibility. 
+- File a ticket to have basic auth enabled in the reverse proxy. Identify the path(s) that need to be behind basic auth. Tag the ticket with the `devops` label and indicate when this needs to be enabled. Mention your request in the [#devops](https://dsva.slack.com/channels/devops) channel for visibility. 
 - Users needing to access the site should be instructed how to differentiate between logging in to the site with their id.me credentials vs. entering the basic auth credentials that pop up in the browser modal.
 
 ### Option 2: Beta Enrollment

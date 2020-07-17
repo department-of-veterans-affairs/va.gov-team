@@ -42,7 +42,7 @@ Choose one of the following:
 
 * If you aren't sure which team owns the issue and want to submit it to VSP for triage, submit a GitHub issue using our [Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
 
-  * _NOTE_: Is there already a GitHub Issue? Add the following labels and post in `#vfs-platform-support` for visibility:
+  * _NOTE_: Is there already a GitHub Issue? Add the following labels and post in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) for visibility:
     * `triage`
     * `triage-incident`
  

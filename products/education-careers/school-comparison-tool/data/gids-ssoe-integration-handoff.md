@@ -59,4 +59,4 @@ GIDS SSOe Handoff
 
 # Logistics
 - Not easy to test SAML callback piece locally because SSOe redirects to fixed callback URL in dev
-- `#platform-team` can support you deploying a working branch of GIDS repo to dev.vets.gov/gids to facilitate testing
+- [#platform-team](https://dsva.slack.com/channels/platform-team) can support you deploying a working branch of GIDS repo to dev.vets.gov/gids to facilitate testing

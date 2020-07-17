@@ -250,7 +250,7 @@ specific to this process are being considered at this time.
 
 ### Debugging
 
-- VFS users can interact w/ `#vfs-platform-support` channel if something is not working as expected
+- VFS users can interact w/ [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel if something is not working as expected
 - VSP users can inspect logging configuration or reporting tools as needed for debugging
 - VFS users can provide feedback in a survey for the collaboration cycle (?)
 

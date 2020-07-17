@@ -16,7 +16,7 @@ We would like to be monitoring user-reported issues as well, but our access to t
 <li>Prometheus pager-duty alerts</li>
 <li>ServiceNow tickets [ need more detail on how these arre assigned to us and who they go to ]</li>
 <li>Downtime email listsserves</li>
-<li>Product team members reporting in `#oncall` Slack channel or `#vfs-platform-support` Slack channel</li>
+<li>Product team members reporting in [#oncall](https://dsva.slack.com/channels/oncall) Slack channel or [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel</li>
 <li>Sentry</li>
 <li>VA Stakeholders emailing someone they know</li>
 <li>"Get Help Signing in to VA.gov" submissions from `[ who??? ]`</li>

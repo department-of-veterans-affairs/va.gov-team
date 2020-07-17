@@ -327,7 +327,7 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 | :------------- | :---------------- |
 | Contact the [#vfs-platform-support](http://dsva.slack.com/channels/vfs-platform-support) channel for additional help. | Contact @Bob in the _#vfs-platform-support_ channel for additional help. |
 | | Contact Bob in the **#vfs-platform-support** channel for additional help. |
-| | Contact the `#vfs-platform-support` channel for additional help. |
+| | Contact the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel for additional help. |
 
 ## Tables
 
