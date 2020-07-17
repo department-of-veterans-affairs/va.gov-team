@@ -30,12 +30,14 @@ Sign in or create an account { button }
 { Entitlement check for CH33 users. Display yellow warning alert if user has more than 6 months of benefits remaining }  
 
 { yellow warning alert }  
-**You may not be eligible**  
-Our entitlement system shows that you have more than 6 months of education benefits remaining.  
+**It appears you're not eligible** 
 
 To be eligible for the Rogers STEM Scholarship, you must have less than 6 months of Post-9/11 GI Bill benefits left when you submit your application.  
 
-Months you have left to use: **NN months, NN days**  
+Our entitlement system shows you have the following benefits remaining: **NN months, NN days**  
+
+If you apply and you're not eligible, your application will be denied.   
+
 { end warning alert }    
 
 { end if logged in }  
@@ -49,9 +51,11 @@ Months you have left to use: **NN months, NN days**
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
 
-* Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
-* Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
-* Have used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* **Education benefit:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
+
+* **STEM degree:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+
+* **Remaining entitlement:** Have used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -63,7 +67,7 @@ To fill out this application, you’ll need your:
 * Bank account direct deposit information  
 
 
-**What if I need help filling out my application?** A School Certifying Official (SCO) at your school or an accredited representative, like a Veterans Service Officer (VSO), can help you fill out your claim. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
+**What if I need help filling out my application?** An accredited individual, like a Veterans Service Officer or a Veteran representative at your school, can help you fill out this application. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
 
 
 #### 3. Apply
@@ -123,7 +127,7 @@ You aren't required to fill in all fields, but we can review your application fa
 
 { if logged in, blue background alert }  
 
-We've prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. 
+We've prefilled this application with information from your account. If you need to correct anything, you can edit the form fields. 
 
 { end if logged in alert }  
 
@@ -174,29 +178,21 @@ Form 22-10203
 
 { Benefit eligibility summary page } 
 
-{ gray box } 
+{ yellow warning alert }  
 
 #### Based on your response, it appears you’re not eligible for the Rogers STEM Scholarship. 
  
-{ display :heavy_multiplication_x: if user indicated "No" }   
+**You must be a Post-9/11 GI Bill or Fry Scholarship beneficiary to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicant. 
 
-__Your response:__  
-:heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits    
-
-If your situation changes in the future and you meet this requirement, you may return to apply for the Rogers STEM Scholarship.  
-
-[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
-
-You must be a Chapter 33 beneficiary to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+{ end warning alert }
 
 Would you still like to apply and let us determine your eligibility? (*Required)  
 
 * No  
 * Yes
 
-{ end gray box }
 
-{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/eligibility/ }
+{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/ }
 
 { if user select YES, route to "Rogers STEM Scholarship eligibility" page }
 
@@ -217,7 +213,7 @@ Form 22-10203
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
-Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) { radio buttons }    
+Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }    
 - Yes  
 - No  
 
@@ -289,11 +285,8 @@ Months you have left to use: **NN months, NN days**
 
 { end yellow warning alert }  
 
-If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
 
-[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button }    
-
-You must meet the above requirements to qualify for the scholarship. Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
+**You must meet the above requirements to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
 
 Would you still like to apply and let us determine your eligibility? (*Required)  
 
@@ -302,7 +295,7 @@ Would you still like to apply and let us determine your eligibility? (*Required)
 
 { end gray box }
 
-{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/eligibility/ }
+{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/ }
 
 [ Back | Continue ] { buttons } 
 
@@ -321,19 +314,13 @@ Form 22-10203
 
 #### STEM degree and school details { Sub-head }  
 
-{ If applicant's school information can be pulled via EVSS, display blue background alert }   
-
-We’ve prefilled some of the school information we have on file for you based on your most recent enrollment. If you need to correct anything, you can edit the form fields below.  
-
-{ end blue alert }  
-
 What's the name of your STEM degree? (*Required) { text field }  
 
-What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field }  
+What’s the name of the school where you plan on using the Rogers STEM Scholarship? (*Required) { text field, prefill if present }
 
-City (*Required) { Text field }  
+City (*Required) { text field, prefill if present }
 
-State (*Required) { dropdown with full state names }  
+State (*Required) { dropdown with full state names, prefill if present }  
 
 
 #### Your school ID and contact details  { Sub-head } 
@@ -400,7 +387,7 @@ Please enter your contact details below so we can get in touch with you, if nece
 - Home phone number
 - Mobile phone number (*Required)
         
-What is the best way for us to contact you? (Check all that apply) { radio buttons }  
+What's the best way for us to contact you? (Check all that apply) { radio buttons }  
 
 - Mail
 - Email
@@ -437,7 +424,9 @@ Bank account number (*Required) {text field}
 
 I don’t want to use direct deposit { checkbox } { If checked, Account type, Bank routing number, and Bank account number fields will not be required and will be collapsed. }  
 
-**Note:** Any bank account information you enter here will only affect your Rogers STEM Scholarship payments. Updates here will not change accounts on file for your existing VA compensation, pension, education, and health benefits.  
+**Note:** Any bank account information you enter here will apply to your other Veteran benefits, including compensation, pension, and Benefits for Certain Children with Disabilities (Chapter 18) payments.  
+
+Information entered here won’t change your existing accounts for VA education or health benefits.
 
 What if I don't have a bank account or don't want to use direct deposit? { additional info component }
 
@@ -525,7 +514,9 @@ Buffalo, NY 14240-4616
 
 **What happens after I apply?**  
 
-[Find out what happens after you apply]()  
+We usually decide on applications within 30 days.
+
+You’ll get a Certificate of Eligibility (COE), or award letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
 
 [Go back to VA.gov]() { button }  
 
