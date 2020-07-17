@@ -13,7 +13,7 @@
 |Matthew Self| DSVA Lead| 
 |Leah Keeler | Product Manager|
 |Cameron Testerman | BE Engineer|
-|Amen Ra | FE Engineer|
+|Brad Conley | FE Engineer|
 |Mahariel Rosario | FE Engineer|
 |Riley Orr | Designer|
 |Becca Walsh | Designer|
@@ -87,11 +87,20 @@ The following we've decided specifically not to do for this project but could be
 - The .pdf's of the debt letters that will be downloaded from vbms eFolders may not be 508 compliant. Since we do not have control of the generation of those letters, this is out of scope for this project. If we area able to find out who is responsible for the generation of the letters, we will do due diligence to make them aware of the 508 requirements. 
 
 ## KPIs
-- Landing page traffic?
-- Increased traffic to calls-to-action?
-- Decrease in response time to debt notifications?
-- Can people find what they need more easily?
-- Reduced time to understand content and find things (i.e., reduced time spent understanding the need for and finding the Financial Status Report form)
+
+Current Traffic from DLC Google analytics - 30 day. period 
+
+Overall visitors 58k visitors 
+va.gov/debtman  33K 
+Payment Options 5K
+Bounce Rate landing page 65%
+Bounce Rate Payment options 35%
+
+For MVP Release the KPIs we will be tracking is: 
+
+Bounce Rate: Goal is to reduce bounce rate to be <50% with the hypothesis that Veterans will have teh ability to log in to see their debts 
+Overall logged in users - Veterals will need to authenticate to see debs and debt letters
+Overall debbt letters views/downloads wiht the hypothesis that tehy do not have the hard sopies of the letters if they chose to view/download electronically 
 
 --- 
 
@@ -99,7 +108,7 @@ The following we've decided specifically not to do for this project but could be
 There is a multi-office working group organized by VEO with participation from the relevant stakeholders (DEPO, DMC, VBMS, OIT, AMO) that is facilitating comms. That being said, this is still largely being formulated and there are a number of considerations including legacy VA pages that we will have to work with DMC and in some cases individual business lines to make a determination on the appropriate path forward (deprecation, sustain, etc.).
 
 ## Target Launch Date
-First half, Q4FY20
+August 2020 - MVP
 
 ---
 
