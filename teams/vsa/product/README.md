@@ -2,6 +2,8 @@
 *The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).*
 
 ---
+
+## Define
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
 They establish quarterly Objectives and Key Results (OKRs) that advance them towards their vision. 
@@ -9,13 +11,7 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 - Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
-### Documentation
-#### Product outline
-
-<details>
-Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". These outlines capture key decisions made, pivots, and the results of our hypotheses. 
-</details>
-
+### Product outline
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
   - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
@@ -26,16 +22,15 @@ Every initiative begins with a clear understanding of a) the problem we intend t
   - [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec)
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
   
-#### Problem brief
-<details>
-  Each problem — whether it's process-related, tool-related, etc. — and potential solutions need to be well thought out and documented. This exercise makes it easire for leadership and the org to fully understand the issue and prioritize it against other priorities. The artifact to help you gather your thoughts is the  SCQA problem brief.
-</details>
-
+### Problem brief
 - [SCQA problem brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/process-briefs/SCQA-problem-brief-template.md)
 
 Examples
 - [Problem briefs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)
 
+## Discover
+
+## Build
 
 #### Roadmap
 
@@ -49,22 +44,7 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [OKR Progress Tracker](https://docs.google.com/spreadsheets/d/1jvhpBgG-MtHFKoCW3WnEhsE-5oPoQxcj0gDOYFwBBL8/edit?folder=1YkkOe5w3sVA0KaW0DtgCFvQy6oVfycng#gid=305836182)
 - Examples 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
-  
-#### Impact Review
-
-<details>
-  Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
-</details>
-
-- [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
-
-- Launch Announcement Template
-  > Hey everyone, congrats to the < team > on the launch of < initiative >!
-    The problem < initiative > attempts to solve is helping Veterans < goal >.
-    We < brief description of approach e.g. new online exp., content changes >.
-    With success primarily focused on < success metrics/criteria >.
-    It’ll be important to keep in mind < brief considerations for the future >.
-    Congrats to < teams/folks involved > for their hard work!
+ 
 
 ### Delivery
 
@@ -85,9 +65,8 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 
 #### VSP Collaboration Cycle
 
-[The VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov.
-
-[Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan)
+- [The VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)
+- [Collab Cycle Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=collab-cycle-initiative.md&title=%3CInitiative%3E+x+Collab+Cycle+Plan)
 
 #### MVPs
 
@@ -121,6 +100,24 @@ Resources:
   - "[Launch] Find VA Forms Search"
   - "Complete Yellow Ribbon Research + Synthesis"
   - "Build new endpoint to expose new YR data"
+
+## Learn
+#### Impact Review
+
+<details>
+  Every initiative—a new feature, a product launch, technical improvements—wraps up with a) a look-back at the results of our hypotheses and b) recommendations for how we might proceed moving forward. 
+</details>
+
+- [VSA Initiative Impact Review Template](https://docs.google.com/presentation/d/1yq7dPPf65qHCJaD6e6bWdTyl1VoCC0gnLdcyOhgaSuM/edit#slide=id.p1)
+
+- Launch Announcement Template
+  > Hey everyone, congrats to the < team > on the launch of < initiative >!
+    The problem < initiative > attempts to solve is helping Veterans < goal >.
+    We < brief description of approach e.g. new online exp., content changes >.
+    With success primarily focused on < success metrics/criteria >.
+    It’ll be important to keep in mind < brief considerations for the future >.
+    Congrats to < teams/folks involved > for their hard work!
+
 
 
 
