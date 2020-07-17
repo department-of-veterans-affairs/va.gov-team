@@ -1,5 +1,5 @@
 # Monthly Contact Center Report
-**Summary:** We're pulling a monthly contact center report, but not many people are actually using it. How might we make it easier for VFS teams use contact center data to improve their products?
+**Summary:** We're pulling a monthly contact center report, but not many people are actually using it or have followed up with us on why via survey. How might we make it easier for VFS teams use contact center data to improve their products?
 
 ## Meeting 7/17/20 Notes
 Questions
