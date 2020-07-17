@@ -1,6 +1,7 @@
-### Value Propositions  
+# Value Propositions  
 
-**Veteran & Clinical Staff**
+## Veteran & Clinical Staff
+
 > **Key Themes:** Faster access, reduction data entry, safety, accuracy of information, convenience, workflow integration, productivity, and satisfaction
 
 <details> <summary>Increase faster access to care and more timely delivery of services, by Veterans spending less time filling out forms</summary> 
@@ -49,7 +50,8 @@
 </details>
 
 
-**Business**
+## Business
+
 > **Key Themes:** Data consolidation and accuracy, adoption of VA services, employee productivity, safety, materials cost, wait times
      
 <details> <summary>Increase the adoption of other VA services offered on va.gov to improve the Veterans health and wellness</summary> 
