@@ -25,6 +25,17 @@ Every initiative begins with a clear understanding of a) the problem we intend t
   Resources:
   - [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec)
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
+  
+#### Problem brief
+<details>
+  Each problem — whether it's process-related, tool-related, etc. — and potential solutions need to be well thought out and documented. This exercise makes it easire for leadership and the org to fully understand the issue and prioritize it against other priorities. The artifact to help you gather your thoughts is the  SCQA problem brief.
+</details>
+
+- [SCQA problem brief template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/process-briefs/SCQA-problem-brief-template.md)
+
+Examples
+- [Problem briefs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/problem-briefs)
+
 
 #### Roadmap
 
