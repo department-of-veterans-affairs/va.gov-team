@@ -6,7 +6,7 @@
 
   * This where you can ask questions and share **product-related information** with other teams working in a similar area.
 
-* **Support channel** - Your whole team will be added to the *#vfs-platform-support* channel.
+* **Support channel** - Your whole team will be added to the #vfs-platform-support channel.
 
   * This is where you can ask **process questions about onboarding, development, deployment, and project management**.
 

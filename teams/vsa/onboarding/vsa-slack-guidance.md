@@ -106,7 +106,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### GCIO / Ad Hoc Channels
 
-**#va-vsa-ux** - this is our “home base” for the team, where we all support each other. Use this channel for:
+va-vsa-ux - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on designs
 * Asking if other members of the team have worked on anything similar
@@ -116,11 +116,11 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting fun things to lighten things up 
 
 #### DSVA Channels
-**#vsa-design** - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
+#vsa-design - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
 * Posting weekly Wednesday updates with links about what each team member is currently working on, and what’s upcoming
 * Re-posting links from other DSVA channels that we want to make sure the design team sees.
 
-**#design** - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
+design - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
 * Asking questions about how components are used
 * Asking for “past work” done across the site to help you in your process - e.g. something like “Has anyone else worked on a form that does x?”
 * Asking process questions - e.g. “how have folks typically done x”
@@ -129,7 +129,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 ### Product
 #### GCIO / Ad Hoc Channels
-**#va-vsa-product** - this is our “home base” for the team, where we all support each other. Use this channel for:
+va-vsa-product - this is our “home base” for the team, where we all support each other. Use this channel for:
 * Asking for feedback / thoughts on product questions
 * Asking if other members of the team have worked on similar problems
 * Sharing lessons learned from product bets and initiatives
@@ -139,7 +139,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting fun things to lighten things up
 
 #### DSVA Channels
-**#vsa-product** - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
+#vsa-product - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
 * Coordinating Scrum ceremonies e.g. Sprint Demo, Team of Teams
 * Re-posting links from other DSVA channels that we want to make sure the product team sees
 
@@ -147,17 +147,17 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### DSVA Channels
 
-**#vsa-engineering** - this channel is for discussions related to the work we do at the VA that could be beneficial or interesting for all VSA engineers.
+#vsa-engineering - this channel is for discussions related to the work we do at the VA that could be beneficial or interesting for all VSA engineers.
 
-**#vfs-engineers** - this is a fantastic place to engage with engineers across all VA programs to help kickstart some technical research or seek guidance about the best way to do something.
+#vfs-engineers - this is a fantastic place to engage with engineers across all VA programs to help kickstart some technical research or seek guidance about the best way to do something.
 
-**#vfs-frontend** - this is the channel for conversation among any VA front-end engineers. Many of the conversations center around the vets-website GitHub repo.
+#vfs-frontend - this is the channel for conversation among any VA front-end engineers. Many of the conversations center around the vets-website GitHub repo.
 
 ### Content
 
 #### DSVA Channels
 
-**#vsa-content** - this is our “home base” for the team, where we all support each other. Use this channel for:
+#vsa-content - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on content work
 * Asking if other members of the team have worked on anything similar
@@ -166,11 +166,11 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting kudos about each other
 * Posting fun things to lighten things up 
 
-**#vsa-public-websites** - Most of our content folks are assigned to this team, so many content discussions happen here.  Even if you are assigned to a different team we'd recommend joining this channel and reading discussions there. 
+#vsa-public-websites - Most of our content folks are assigned to this team, so many content discussions happen here.  Even if you are assigned to a different team we'd recommend joining this channel and reading discussions there. 
 
-**#cms-support** - use this channel if you have specific drupal-related questions
+cms-support - use this channel if you have specific drupal-related questions
 
-**#content** -  this channel has all content folks across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big content team. This channel is useful for:
+content -  this channel has all content folks across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big content team. This channel is useful for:
 
 * Asking questions about how components are used across hte whole site
 * Asking for “past work” done across the site to help you in your process - e.g. something like “Has anyone else worked on a page like this?”

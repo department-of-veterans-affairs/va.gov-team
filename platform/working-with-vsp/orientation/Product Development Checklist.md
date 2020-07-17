@@ -6,7 +6,7 @@ This checklist is for you to gut check that you've taken all of the steps necess
 
 This resource is meant to be used in parallel with the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle). The items below that correspond with one or more VSP collaboration points are starred `*`. The VSP collaboration cycle is designed to guide your team through successful development but it is still your responsibility to ensure that all the points below are sufficiently met.
 
-_Note: as always, use the **#vfs-platform-support** Slack channel whenever you have a question on how to proceed!_
+_Note: as always, use the #vfs-platform-support Slack channel whenever you have a question on how to proceed!_
 
 ---
 

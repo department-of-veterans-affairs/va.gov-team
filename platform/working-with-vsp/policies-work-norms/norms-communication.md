@@ -12,7 +12,7 @@ For example:
 * A change to how the website build process works
 * A significant change to the content style guide
 
-**All instances of breaking changes should be posted to *#vfs-all-teams*.**
+**All instances of breaking changes should be posted to #vfs-all-teams.**
 
 The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accommodate the change in their work. Some examples:
 
@@ -55,9 +55,9 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
 
 * **For product questions** use your team's "product" Slack channel.
   * Example question: "Where can I find previous research?"
-* **For process questions**, use the *#vfs-platform-support* Slack channel.
+* **For process questions**, use the #vfs-platform-support Slack channel.
   * Example questions: "I can't get the proxy to work" or "How do I integrate this into that?" or "How do I use Zenhub to do X?"
-* **For practice area questions** use your practice area Slack channel (e.g., *#design*)
+* **For practice area questions** use your practice area Slack channel (e.g., design)
 
 ### Use best communication method.
 
