@@ -67,9 +67,10 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 
 ### Value Propositions
 
+
 _ need to enter descriptions for each_
 
-**Veteran & Clinical Staff**
+[**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) 
 - Faster access
 - reduction data entry
 - safety
@@ -79,7 +80,7 @@ _ need to enter descriptions for each_
 - productivity
 - satisfaction
 
-**Business**
+[**Business**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#business)
 - Data consolidation and accuracy
 - adoption of VA services
 - employee productivity
