@@ -135,7 +135,7 @@ Of note — "Rating", "disability rating," and "Disability rating" all make it i
 
 ### Search terms
 
-[Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
+[All VA sites - Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
 
 The top ten search terms for all logged-in users (those who view the homepage and those who do not) are:
 
@@ -150,7 +150,7 @@ The top ten search terms for all logged-in users (those who view the homepage an
 - change address
 - id card
 
-[Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
+[Modernized content only - Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
 
 The top ten search terms for logged-in users who view the homepage are:
 
@@ -165,7 +165,7 @@ The top ten search terms for logged-in users who view the homepage are:
 - certificate of eligibility
 - 22-1995 (Program to change GI bill school or program)
 
-[Top search terms for logged-in users from the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:~2Findex.html/)
+[Modernized content only - Top search terms for logged-in users from the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.searchStartPage:~2Findex.html/)
 
 These are the top ten searches for logged-in users when they are on the homepage:
 
