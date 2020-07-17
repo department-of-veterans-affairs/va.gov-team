@@ -150,6 +150,21 @@ The top ten search terms for all logged-in users (those who view the homepage an
 - change address
 - id card
 
+[Modernized content only - Top search terms for logged-in users in general](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200716&_.useg=useri0ZvPaPpQKyUHGrYCFPigw&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=10&explorer-table.rowStart=0/)
+
+On the modernized section of the site, the top search terms for logged-in users are:
+
+- health
+- benefits
+- urgent_care
+- all
+- vet_center
+- cc_provider
+- cemetery
+- forms
+- direct deposit
+- ebenefits
+
 [Modernized content only - Top search terms for logged-in users who view the homepage](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200714&_.useg=userMhNhPIZvSdezY8NttD81Jg/)
 
 The top ten search terms for logged-in users who view the homepage are:
