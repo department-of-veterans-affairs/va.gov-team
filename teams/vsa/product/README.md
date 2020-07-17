@@ -32,7 +32,7 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Reviews Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/product-outline.md)
   - [VA Forms API Product Outline](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/VA%20Forms%20API%20Product%20Outline.md)
   
-  Resources:
+- Resources:
   - [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec)
   - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
   
