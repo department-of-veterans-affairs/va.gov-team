@@ -30,7 +30,7 @@ Product
 
 
 Research and Design
-- Healthcare team presented for the first time at Design Collaboration and [Sprint 25 Demo for research findings/recommendations](https://docs.google.com/presentation/d/1Rd-HzsKXc6I4Py9kA9y4tcMWUlAggL4SXFd-32Kxsrg/edit#slide=id.g8c1b2c91ed_10_0) 
+- Healthcare team presented for the first time at Design Collaboration and [Sprint 25 Demo for research findings/recommendations](https://docs.google.com/presentation/d/1Rd-HzsKXc6I4Py9kA9y4tcMWUlAggL4SXFd-32Kxsrg/edit#slide=id.p1) 
 -  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and presented by Aricka
 - - [Created Personas Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/discovery-personas.md) to be used throughout design and development specific to the healthcare/questionnaires workflow
 - Created [Interview Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/clinician-questions.md) and [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/research-plan.md) for Stakeholder sessions
