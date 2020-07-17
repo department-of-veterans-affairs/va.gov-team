@@ -151,7 +151,9 @@ Additionally:
 
 ## OKRs & KPIs
 
-Work in progress can be found here: https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
+Work in progress can be found here
+
+https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
 
 --- 
 
