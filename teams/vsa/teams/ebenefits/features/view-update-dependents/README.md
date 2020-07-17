@@ -1,7 +1,7 @@
 # View dependents & Add or change dependents
 `WIP`
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
-- Slack channel: #vsa-ebenefits
+- Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Old links ([Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)): 
   - [View Dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
   - [Update Dependents](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  

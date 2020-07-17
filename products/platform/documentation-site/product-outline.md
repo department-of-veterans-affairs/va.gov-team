@@ -3,7 +3,7 @@
 ## Product Info
 ### Points of Contact
 - GitHub Label: none
-- Slack channel: #vsp-content-ia
+- Slack channel: [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia)
 
 |Name|Role|Slack|
 |----|----|-----|

@@ -110,7 +110,7 @@ Teams building products for Veterans use qualitative and quantitative user data 
 
 - Team Name: VSP Analytics & Insights
 - GitHub Label: `medallia` `analytics-insights` `collaboration-cycle`
-- Slack channel: #vfs-platform-support
+- Slack channel: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 - Product POCs: 
     - Joanne Esteban, VSP Analytics & Insights 
     - Kevin Hoffman, VSP DEPO 

@@ -2,7 +2,7 @@
 
 ### Communication Channels
 - Github Label: design-system
-- Slack channel: #design-system
+- Slack channel: [#design-system](https://dsva.slack.com/channels/design-system)
 - Keywords: formation, jean-pants, design system
 
 ### Points of Contact

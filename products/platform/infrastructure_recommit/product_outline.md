@@ -3,7 +3,7 @@
 #### Communications
 - Team Name: Operations
 - GitHub Label: Operations
-- Slack channel: #vsp-operations
+- Slack channel: [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
 - Stakeholders: VSP, CMS, GIDS, VA.gov, Lighthouse
 
 

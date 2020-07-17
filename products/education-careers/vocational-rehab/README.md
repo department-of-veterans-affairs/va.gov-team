@@ -1,6 +1,6 @@
 # VR&E Product Outline
 - GitHub Label: vre
-- Slack channel: #vr_and_e 
+- Slack channel: [#vr](https://dsva.slack.com/channels/vr)_and_e 
 - Vets.gov link: n/a
 - Demo video link: n/a
 

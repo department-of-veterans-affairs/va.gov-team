@@ -3,7 +3,7 @@ Last Updated February 26, 2020
 
 ## Keywords/Labels
 - GitHub Label: Debt Letters MVP 
-- Slack channel: #vsa-bam-2
+- Slack channel: [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2
 - Keywords:
      - Debt Letters 
      - Debt

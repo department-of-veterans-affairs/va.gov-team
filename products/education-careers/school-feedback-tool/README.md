@@ -1,6 +1,6 @@
 # School Feedback Tool Product Outline
 - GitHub Label: edu feedback tool
-- Slack channel: #gibillfeedbacktool
+- Slack channel: [#gibillfeedbacktool](https://dsva.slack.com/channels/gibillfeedbacktool)
 - Va.gov link: https://www.va.gov/education/submit-school-feedback/introduction
 - Development Implementation Info: [Here](./development.md)
 - Application Guide: [Here](./school-feedback-application-guide.pdf)

@@ -39,7 +39,7 @@ Letters
 
 [User experience goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/User%20Experience%20Goals.md)
 
-Slack channel: #error-standardization
+Slack channel: [#error-standardization](https://dsva.slack.com/channels/error-standardization)
 
 ## Background
 

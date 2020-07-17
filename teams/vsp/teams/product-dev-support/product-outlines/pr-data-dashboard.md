@@ -3,7 +3,7 @@
 #### Communications
 - Team Name: Product Support
 - GitHub Label: product support
-- Slack channel: #vsp-product-support
+- Slack channel: [#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support)
 - Product POCs: Andrea Hewitt and Dan Shank
 
 

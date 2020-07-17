@@ -3,7 +3,7 @@
 
 ## Communications
 - GitHub Label: search
-- Slack channel: #va-search
+- Slack channel: [#va-search](https://dsva.slack.com/channels/va-search)
 - Product POCs: 
    - John Hashimoto, DSVA @John Hashimoto
    - Steph Orkand, VSA/GCIO @Stephanie Orkand

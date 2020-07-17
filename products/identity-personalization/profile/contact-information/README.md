@@ -4,7 +4,7 @@ Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Profile
-- Slack channel: #vsa-authd-exp; #va-profile
+- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 - Keywords
      - Contact information
      - VA Profile (formerly Vet360)

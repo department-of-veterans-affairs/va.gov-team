@@ -5,7 +5,7 @@ _Last updated April 2020_
 #### Communications
 - Team Name: SSO/Login
 - GitHub Label: SSO-Login
-- Slack channel: #va-sso
+- Slack channel: [#va-sso](https://dsva.slack.com/channels/va-sso)
 - Product PoCs: Lauren Alexanderson
 
 #### Team Members

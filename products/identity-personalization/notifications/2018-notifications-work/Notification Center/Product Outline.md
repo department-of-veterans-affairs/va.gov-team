@@ -1,6 +1,6 @@
 # Notification Center Outline
 - GitHub Label: 
-- Slack channel: #dragons-team
+- Slack channel: [#dragons-team](https://dsva.slack.com/channels/dragons-team)
 - Vets.gov link: n/a
 - Demo video link: n/a
 

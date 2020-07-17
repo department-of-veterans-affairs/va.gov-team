@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: team-site
-- Slack channel: #rainbows-team
+- Slack channel: [#rainbows-team](https://dsva.slack.com/channels/rainbows-team)
 - POC - Ryan Luu 
    - Slack: @ryanluu
    - e: Ryan.luu@adhocteam.us

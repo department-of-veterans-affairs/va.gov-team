@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: login
-- Slack channel: #griffin-team
+- Slack channel: [#griffin-team](https://dsva.slack.com/channels/griffin-team)
 - Product POCs: 
    - David Bao, DSVA
 

@@ -3,7 +3,7 @@
 ## Points of Contact
 
 - GitHub Label: account
-- Slack channel: #dragons-team
+- Slack channel: [#dragons-team](https://dsva.slack.com/channels/dragons-team)
 
 |Name|Role|Email|
 |----|----|-----|

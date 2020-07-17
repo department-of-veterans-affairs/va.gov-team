@@ -3,7 +3,7 @@
 #### Communications
 
 - Team Name: VSP Service Design
-- Slack channel: # #vsp-newsletter
+- Slack channel: # [#vsp-newsletter](https://dsva.slack.com/channels/vsp-newsletter)
 - Product POCs: James Chasia, Naomi Marcussen
 
 ------

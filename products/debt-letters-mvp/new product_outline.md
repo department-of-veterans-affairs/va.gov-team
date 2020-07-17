@@ -3,7 +3,7 @@
 #### Communications
 - Team Name: Benefits and Memorials 2 (BAM2)
 - GitHub Label: Debt Letters MVP
-- Slack channel: #vsa-bam-2
+- Slack channel: [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2
 - Product POCs: Matthew Self
 - Stakeholders: Jason Hoge, Thomas Corley, Melissa Rebstock
 

@@ -6,7 +6,7 @@
 #### Communications
 - Team Name: eBenefits
 - GitHub Label: vsa-ebenefits
-- Slack channel: #vsa-ebenefits
+- Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Product POCs: Steve Kovacs & Jason Wolf
 - Stakeholders: `TODO` 
 

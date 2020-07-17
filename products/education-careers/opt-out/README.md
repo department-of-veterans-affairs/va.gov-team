@@ -1,6 +1,6 @@
 # Colmery Act Opt Out Outline
 - GitHub Label: `opt out`
-- Slack channel: #opt-out
+- Slack channel: [#opt-out](https://dsva.slack.com/channels/opt-out)
 - Vets.gov live link: https://vets.gov/education/opt-out-information-sharing/
 - Application guide: [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/opt-out-application-guide.pdf)
 

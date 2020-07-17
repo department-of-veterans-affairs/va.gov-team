@@ -2,7 +2,7 @@
 
 # Surfacing Downtime Notifications Outline
 - GitHub Label: Downtime-Notifications 
-- Slack channel: #platform
+- Slack channel: [#platform](https://dsva.slack.com/channels/platform)
 - Vets.gov link: n/a
 - Demo video link: n/a
 

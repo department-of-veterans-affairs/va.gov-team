@@ -4,7 +4,7 @@ Product Outline
 ## Communications
 - Implementation Team: Veteran-facing Services Apps, Benefits and Memorials 2 (BAM2)
 - GitHub Label: vsa-benefits2
-- Slack channel: #vsa-bam-2
+- Slack channel: [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2
 - Product POCs:
   - Matthew Self, DEPO Lead
   - Leah Keeler, BAM2 Product Manager

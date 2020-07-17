@@ -109,7 +109,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Team Name: Forms System Team
 - GitHub Label: #forms-system
-- Slack channel: #forms-system
+- Slack channel: [#forms-system](https://dsva.slack.com/channels/forms-system)
 - Product POCs: Alayna Abel, CC Gong
 - Stakeholders: TBD
 
