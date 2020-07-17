@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated April 2020**
+**Last updated July 2020**
 
 ## Where to find us 
 
