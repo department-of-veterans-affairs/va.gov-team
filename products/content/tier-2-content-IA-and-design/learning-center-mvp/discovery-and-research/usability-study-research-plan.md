@@ -59,8 +59,8 @@ Liz Lantz, Public Websites, July 16, 2020
 ## Participants and Recruitment	
 
 1.	We'd like to interview 8 Veterans
-   - Participants must be able to participate via a desktop device.
-   - Participants should have a VA.gov online account, or a My HealtheVet, or eBenefits account. Having multiple accounts is fine.
+   - Participants must be able to participate via a laptop or desktop. Phones/ipads will not work. 
+   - Participants must be able to log into VA.gov using an ID.me account, a My HealtheVet account, or a DS Logon account. Multiple accounts are fine. Participants should come prepared with their login credentials. 
    - We request the participant pool be diverse in:
      - Gender (ideally 4 women, 4 men)
      - Ethnicity/Race (at least 4 non-Caucasian)
@@ -77,7 +77,7 @@ Liz Lantz, Public Websites, July 16, 2020
 
 - For usability study:
   - We will leverage Perigan's recruitment capabilities
-  - In order to get 8 participants, we'd like Perigean to recruit 12, with the expectation that there be a max of 4 no shows.
+  - In order to get 8 participants, we'd like Perigean to recruit 16, with the expectation that there be a max of 4 no shows.
   - We'll ask to cancel any remaining sessions once we hit 8. 
 
 ## When? 	
