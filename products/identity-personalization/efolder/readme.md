@@ -1,6 +1,6 @@
 # Veteran eFolder Product Outline
 - GitHub Label: eFolder
-- Slack channel: Dragons-team
+- Slack channel: #dragons-team
 - Vets.gov link: tbd
 - Demo video link: tbd
 

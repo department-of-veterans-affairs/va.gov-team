@@ -96,7 +96,7 @@ Loki is being buildout in ECS
 
 - Team Name: VSP Operations
 - GitHub Label: vsp-Operations
-- Slack channel: #vsp-Operations
+- Slack channel: #vsp-operations
 - Product POCs:   VSP Operations
 - Stakeholders: All teams on VA.gov
 

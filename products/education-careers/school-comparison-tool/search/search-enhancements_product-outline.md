@@ -118,7 +118,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - Team Name: BAH
 - GitHub Label: 
-- Slack channel: bah-team
+- Slack channel: #bah-team
 - Product POCs: Darrell Neel
 - Stakeholders: Darla van Nieukerk, Luke Tickner, Brian Grubb, Joe Welton, Joe Preisser
 

@@ -2,7 +2,7 @@
 
 GitHub Label: department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator
 Zenhub label: vsa-facilities
-Slack channel: DSVA/vsa-facilities
+Slack channel:vsa-facilities
 
 Product POCs: 
 - VA.gov Lead: Chris Johnston 

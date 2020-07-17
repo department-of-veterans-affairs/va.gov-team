@@ -3,7 +3,7 @@
 #### Communications
 - Team Name: Booz Allen
 - GitHub Label: 
-- Slack channel: bah-team
+- Slack channel: #bah-team
 - Product POCs:
 - Stakeholders: 
 
