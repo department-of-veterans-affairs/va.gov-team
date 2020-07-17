@@ -73,7 +73,7 @@ Currently, the `vets-website` repo contains [one script that builds both the con
 
 Previously, Webpack was entangled in the content build, but no longer. Brooks is [currently working](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/2719) on moving the content build into a [`content-build`](https://github.com/department-of-veterans-affairs/content-build/) repo to separate it from `vets-website`.
 
-##### Content Sources
+#### Content Sources
 
 Static content currently comes from two sources:
 
@@ -82,13 +82,13 @@ Static content currently comes from two sources:
 
 This design doc will focus on validating content from the Drupal CMS.
 
-##### Amazon S3
+#### Amazon S3
 
 The frontend of VA.gov is served as static files via Amazon S3. Since `vets-website` currently handles both application and content building, a failure in one blocks both from being deployed to S3 during a full deploy.
 
-##### Current state
+#### Current state
 
-###### Broken Link Checking
+##### Broken Link Checking
 
 The [`check-broken-link` middleware](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/check-broken-links/index.js) is a Metalsmith plugin that happens near the end of the Metalsmith static content build pipeline. It does the following:
 
@@ -118,7 +118,7 @@ Code Path for the `check-broken-links` Metalsmith plugin
 
 ![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
-###### Accessibility Checking
+##### Accessibility Checking
 
 The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81)), which only happens during the full `vets-website` build.
 
