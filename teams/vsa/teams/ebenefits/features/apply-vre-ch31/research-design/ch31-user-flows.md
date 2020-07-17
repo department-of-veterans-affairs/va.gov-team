@@ -1,4 +1,4 @@
-# Vocational Rehabilitation and Employment: Inbound User Flows
+# Veteran Readiness & Employment: Inbound User Flows
 **VSA eBenefits Team | May 2020**
 
 `James Adams, designer`
@@ -6,7 +6,7 @@
 ---
 
 #### Users
-Vocational Rehabilitation and Employment (VR&E or referred to as VA Chapter 31) benefits are available to active-duty service members or Veterans who have a service-connected disability and an employment handicap. VR&E helps entitiled service members and Veterans prepare for, find, and maintain a job. A VR&E fact sheet is available [online.](https://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/Ch31FactSheet.pdf) The qualifying criteria includes:
+Veteran Readiness & Employment (VR&E, or referred to as VA Chapter 31) benefits are available to active-duty service members or Veterans who have a service-connected disability and an employment handicap. VR&E helps entitiled service members and Veterans prepare for, find, and maintain a job. A VR&E fact sheet is available [online.](https://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/Ch31FactSheet.pdf) The qualifying criteria includes:
 - Received or expect an honorable discharge
 - 20% disability rating with an employment handicap, or 10% rating with a serious employment handicap
 - There is a 12-year period of eligibility beginning either on the date of separation from active duty, or the date first notified a a service-connected disability rating
