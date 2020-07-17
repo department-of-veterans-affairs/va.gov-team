@@ -1,7 +1,7 @@
 ## Declaration of Status of Dependents 21-686c Form
 
 - GitHub Label: 686 Dependent
-- Slack channel: 686_Dependent
+- Slack channel: #686_Dependent
 - Va.gov link: https://staging.va.gov/disability-benefits/apply/dependents/introduction
 - API Calls: [686 Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/api-calls.md)
 - Misc Keyword: 686, 686c, Add a dependent

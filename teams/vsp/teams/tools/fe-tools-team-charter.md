@@ -65,7 +65,7 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 
 
 ### Workflow + Cadence
-- Slack channel: vsp-tools-fe
+- Slack channel: #vsp-tools-fe
 - ZenHub labels: tools-fe
 
 - Daily Zoom standups (11:30 ET)

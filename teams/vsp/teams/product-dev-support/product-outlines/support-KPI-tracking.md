@@ -93,7 +93,7 @@ If we had a standardized way to log customer support requests and all customer-f
 
 - Team Name: Product Support / Service Design 
 - GitHub Label: product support / service-design
-- Slack channel: vsp-product-support / vsp-service-design
+- Slack channel: #vsp-product-support / vsp-service-design
 - Product POCs: Andrea Hewitt / James Chasia
 
 

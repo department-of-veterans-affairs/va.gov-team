@@ -1,6 +1,6 @@
 # Product Outline: VAMC-upgrade
 - GitHub Label: vamc-upgrade
-- Slack channel: vsa-vamc-upgrade
+- Slack channel: #vsa-vamc-upgrade
 - VA.gov link: n/a
 - Demo video link: n/a
 - Product POCs: Jenny Heiland-luedtke (Jenny-gov) & Stan Gardner (stan-gcio)

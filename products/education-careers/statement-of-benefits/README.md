@@ -1,6 +1,6 @@
 # Post 9/11 Enrollment Status Outline
 - GitHub Label: GI Bill status
-- Slack channel: gi-bill-status
+- Slack channel: #gi-bill-status
 - URL: /education/gi-bill/post-9-11/ch-33-benefit
 - Demo video link: n/a
 - Keywords: Post 9/11, GI Bill status, Chapter 33
