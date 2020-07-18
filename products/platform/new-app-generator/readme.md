@@ -9,11 +9,11 @@ Provides a boilerplate for creating new React applications in vets-website.
 - [User Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/generator)
 
 ## Product Responsibility (Last updated: 4-2-20)
-- Troubleshooting: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
-- Onboarding: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
-- Maintenance: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support) or [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
-- Training Documents: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
-- Product Feedback or New Feature Requests: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
+- Troubleshooting: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Onboarding: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Maintenance: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support) or [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
+- Training Documents: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Product Feedback or New Feature Requests: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
 
 ## Examples or References of usage:
 

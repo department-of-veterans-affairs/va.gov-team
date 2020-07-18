@@ -20,7 +20,7 @@ Provide automated tooling to automate to improve code quality with explicit and 
 - Onboarding: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
 - Maintenance: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
 - Training Documents: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe) 
-- Product Feedback or New Feature Requests: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
+- Product Feedback or New Feature Requests: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
 
 ## Examples or References of usage:
 
