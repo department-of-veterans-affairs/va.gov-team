@@ -57,7 +57,7 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
   * Example question: "Where can I find previous research?"
 * **For process questions**, use the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
   * Example questions: "I can't get the proxy to work" or "How do I integrate this into that?" or "How do I use Zenhub to do X?"
-* **For practice area questions** use your practice area Slack channel (e.g., design)
+* **For practice area questions** use your practice area Slack channel (e.g., [#design](https://dsva.slack.com/channels/design))
 
 ### Use best communication method.
 

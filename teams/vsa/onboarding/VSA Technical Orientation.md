@@ -129,7 +129,7 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help)                 |
 | #vsa                       | VSA all teams and practice areas            |
 | [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
-| [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2                 | Team: Benefits And Memorial #2              |
+| [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
 | [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
 | [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
 | [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |

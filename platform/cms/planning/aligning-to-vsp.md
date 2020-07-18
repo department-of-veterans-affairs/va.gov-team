@@ -29,13 +29,13 @@ The purpose of this document is to outline documentation to be added/updated, as
 ## Communication
 - Slack
   - Current integration discussion channels:   
-    - '[#cms-support](https://dsva.slack.com/channels/cms-support)'
-    - '[#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)'
-    - '[#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)'
-    - '[#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)'
-    - '[#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)'
-    - '[#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)'
-    - '#platform-cms-fe-superteam'
+    - [#cms-support](https://dsva.slack.com/channels/cms-support)
+    - [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
+    - [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)
+    - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
+    - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+    - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
+    - [#platform-cms-fe-superteam](https://dsva.slack.com/channels/platform-cms-fe-superteam)
    - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
   - Setup cadence to track cross-team status and dependencies

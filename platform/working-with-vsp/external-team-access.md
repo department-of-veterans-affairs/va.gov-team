@@ -19,12 +19,12 @@ This document explains the rationale behind the access we've granted (or not gra
 
 ## Slack
 
-* **Product channel** - Allows entire external team to share product-related information with other teams working in a similar area. E.g., teams who are working on 526 forms are in the claimsmodern channel.
-  * If team is working on an existing product, add them to the existing product channel (e.g., claimsmodern). 
+* **Product channel** - Allows entire external team to share product-related information with other teams working in a similar area.
+  * If team is working on an existing product, add them to the existing product channel.
   * If team is working on a new product, create a new channel for them.
 
 * **Support channel** - Allows entire external team to ask process questions about VSP orientation, development, deployment, and project management.
-  * Add team to support-external channel.
+  * Add team to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel.
 
 * **<i>#devops</i> channel - NO access**. DSVA/AdHoc want this channel to remain internal only.
 

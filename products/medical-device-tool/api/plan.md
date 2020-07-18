@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document contains the proposed endpoints, requests & response information for the MDOT API Service. This project and any all documentation related to the project including this document is owned and maintained by the Benefits & Memorials II team. Any questions or concerns should be directed to the B&M II team, which can be reached on the [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2 Slack channel.
+This document contains the proposed endpoints, requests & response information for the MDOT API Service. This project and any all documentation related to the project including this document is owned and maintained by the Benefits & Memorials II team. Any questions or concerns should be directed to the B&M II team, which can be reached on the [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2) Slack channel.
 
 ## Endpoints
 
