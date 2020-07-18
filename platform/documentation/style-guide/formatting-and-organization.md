@@ -321,13 +321,13 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 
 ## Slack channels
 
-**Key points:** Reference Slack channels with [#slack-channel-name](https://dsva.slack.com/channels/slack-channel-name) and link to the channel. There is no need to emphasize the channel name using italics, bold, or code font. Do not reference specific individuals to contact.
+**Key points:** Reference Slack channels with #slack-channel-name and link to the channel. There is no need to emphasize the channel name using italics, bold, or code font. Do not reference specific individuals to contact.
 
 | Recommended     | Not recommended    |
 | :------------- | :---------------- |
-| Contact the [#vfs-platform-support](http://dsva.slack.com/channels/vfs-platform-support) channel for additional help. | Contact @Bob in the _[#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)_ channel for additional help. |
-| | Contact Bob in the **[#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)** channel for additional help. |
-| | Contact the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel for additional help. |
+| Contact the [#vfs-platform-support](http://dsva.slack.com/channels/vfs-platform-support) channel for additional help. | Contact @Bob in the _#vfs-platform-support_ channel for additional help. |
+| | Contact Bob in the **#vfs-platform-support** channel for additional help. |
+| | Contact the `#vfs-platform-support` channel for additional help. |
 
 ## Tables
 
