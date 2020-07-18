@@ -11,7 +11,7 @@ _(5 minutes prior to session)_
 ## Zoom Meeting Instructions
 
 - Log out of personal Google account. Sign into Perigean's meeting link using their Google account: For the host conducting the interview: change the name of the zoom account to va.gov or any other name that applies for that user interview.
-- Use #feedback-backchannel in Slack for real-time feedback from observers. Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
+- Use [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) in Slack for real-time feedback from observers. Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.
 - Check your screen sharing setup: Be sure to close extraneous windows as needed.

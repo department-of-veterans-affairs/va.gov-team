@@ -2,7 +2,7 @@
 Hello! In this folder, you'll find information specific to how Product Management works on VA.gov. 
 
 ### Communication channels
-- Slack channels: #vfs-product
+- Slack channels: [#vfs-product](https://dsva.slack.com/channels/vfs-product)
 - Github labels: product
 
 ### Points of contact

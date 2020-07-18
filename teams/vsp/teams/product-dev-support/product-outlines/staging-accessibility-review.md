@@ -52,7 +52,7 @@ Teams will be empowered and confident in their ability to test early and test of
 --- 
 
 ## Go-to-market Strategy
-- Announce it in #vfs-all-teams before TOTs on 3/17
+- Announce it in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) before TOTs on 3/17
 - As teams go through collaboration cycle, they will be reminded that it's an artifact they need to provide before staging review.
 
 ## Target Launch Date

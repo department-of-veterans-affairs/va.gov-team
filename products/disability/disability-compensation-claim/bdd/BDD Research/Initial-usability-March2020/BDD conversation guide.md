@@ -7,7 +7,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 <p><em>Use <a href="https://dsva.slack.com/messages/C40B45NJK/details/">#feedback-backchannel</a> in Slack for real-time feedback from observers.</em></p>
 
-<p><em>Before the session, send out the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md">observer instructions</a> to your observers (Slackbot will do this for you if you type &quot;observer instructions&quot; into #feedback-backchannel).</em></p>
+<p><em>Before the session, send out the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md">observer instructions</a> to your observers (Slackbot will do this for you if you type &quot;observer instructions&quot; into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).</em></p>
 
 <p><em>In the Attendees section, make sure everyone except the participant is on mute</em></p>
 

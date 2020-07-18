@@ -49,7 +49,7 @@ Empower Veteran Facing Services teams to make holistic data-informed decisions f
 
 - Define and maintain rules of engagement (ROE) for how VSP Analytics & Insights and VFS teams should collaborate
 - Keep analytics and contact centers best practice documentation up to date
-- Be available in #vfs-platform-support and #vfs-analytics to answer Analytics and Contact Center related questions
+- Be available in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) to answer Analytics and Contact Center related questions
 - Implement analytics on veteran-facing products
     - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
     - QA Google Tag Manager for quality analytics before launches
@@ -176,7 +176,7 @@ GitHub is the single source of truth. Every body of work should be documented fo
 #### Team Knowledge
 - Google Analytics 
     - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
-    - Access - ping us on Slack, #vfs-platform-support
+    - Access - ping us on Slack, [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 - [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 - Product Success Tool
 

@@ -2,7 +2,7 @@
 Hello! In this folder, you'll find information specific to how Research works on VA.gov. 
 
 ### Communication channels
-- Slack channels: #design, #feedback-backchannel, #vetsdotgov-research
+- Slack channels: #design, [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel), [#vetsdotgov-research](https://dsva.slack.com/channels/vetsdotgov-research)
 - Github labels: [research](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=research&repos=133843125)
 
 ### Points of contact
@@ -115,7 +115,7 @@ In this folder you will find:
 - **Slack**: All conversations about products should take place in the appropriate DSVA product channel, not a private DM, an AdHoc only, or DSVA only channel. 
   - Bring any design questions for your fellow designers to the design channel. 
   - Bring any research questions to the vetsdotgov-research channel. 
-- **GitHub**: Both for code and for storing #allthethingz. This is our knowledge management system too, so document everything!   
+- **GitHub**: Both for code and for storing [#allthethingz](https://dsva.slack.com/channels/allthethingz). This is our knowledge management system too, so document everything!   
   - Your research process should be documented end-to-end in a [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) stored in your product folder. When you're done with research, add your study & the link to your research folder to the [Research History](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)   - Your [design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design) should also be documented in your product folder; upload and store design files, link to prototypes and templates.  
 - **Join.me**: We conduct our meetings on join.me/vetsdotgov-design. If you need to use the design channel at times when we don't have meetings check with UX Lead. You can also use join.me to conduct some types of research sessions, if you don't need the user to interact with a prototype. 
 

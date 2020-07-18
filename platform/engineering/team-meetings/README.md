@@ -24,4 +24,4 @@ Types of content **not** relevant for this meeting:
 
 * Work status updates
 * Orientation / ramp-up for new teams (see Product Support team)
-* Asking for help with specific technical issues (see #vfs-platform-support)
+* Asking for help with specific technical issues (see [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support))

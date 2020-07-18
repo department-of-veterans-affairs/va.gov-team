@@ -77,5 +77,5 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 
 ## Questions?
 
-If you have any questions, please reach out via slack in #vfs-platform-support, tag @megan.kelley and @mnorthuis, or DM us directly.
+If you have any questions, please reach out via slack in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), tag @megan.kelley and @mnorthuis, or DM us directly.
 

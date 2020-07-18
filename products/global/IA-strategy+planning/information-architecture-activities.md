@@ -27,7 +27,7 @@ We'll focus on how users navigate the site on both mobile and desktop, whether t
 **2) Recommending current and future IA work based on these regular evaluations ^ of VA.gov.**
 And showing how we can help.
 
-**3) Working with the #ia-forum and others in DEPO to prioritize IA projects:**
+**3) Working with the [#ia-forum](https://dsva.slack.com/channels/ia-forum) and others in DEPO to prioritize IA projects:**
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 

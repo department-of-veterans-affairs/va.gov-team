@@ -16,13 +16,13 @@ We expect our designers to be using an iterative standard HCD "double diamond" t
 
 To ensure that the designer is not working in isolation, during this design process, the designer is expected to:
 * Meet regularly (at least once a week) with any other designers on their own team for feedback, and/or the designers that they have been paired with.
-* Post an update with links every Wednesday to the #vsa-design Slack channel and respond to any questions/feedback from Shawna or others
-* Reach out in the (Contractor) #va-vsa-ux channel for informal quick feedback from peers as needed
+* Post an update with links every Wednesday to the [#vsa-design](https://dsva.slack.com/channels/vsa-design) Slack channel and respond to any questions/feedback from Shawna or others
+* Reach out in the (Contractor) [#va-vsa-ux](https://dsva.slack.com/channels/va-vsa-ux) channel for informal quick feedback from peers as needed
 * Reach out to the DEPO #design Slack channel if they come across broader questions about components
 * Present their work for review in the VSA UX Weekly approximately once a month (or as needed)
 * Present their work in the Monday VA-wide UX and Content meeting when needing feedback from a broader audience
 * Interact with VSP using their prescribed VSP Collaboration Cycle touchpoints
-   * If it is a smaller ticket, ping them on the #vfs-platform-support channel, or attend their office hours
+   * If it is a smaller ticket, ping them on the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel, or attend their office hours
    * If it is a medium-large ticket, go through the collaboration cycle touchpoints.
    * Read more about [VSP's collaboration cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) 
       * Note Accessibility reviews are included in this process, VSP will add Jennifer to the sessions

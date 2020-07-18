@@ -13,7 +13,7 @@ VSP Content supports VFS teams in their content needs by providing guidance, fee
  - Peggy Gannon, VSP content editor, @peggygannon on Slack 
  - Megan Kelley, PM Content & I/A team, @Megan Kelley on Slack
  
-- Slack channels: #vsp-content-ia, #vfs-platform-support
+- Slack channels: [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia), [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 - Github labels: `[Content-ia-team]`
 
 

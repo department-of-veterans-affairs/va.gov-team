@@ -18,7 +18,7 @@ If you need a hand with anything IA-related, don't hesitate to contact us.
 * Mikki Northius, IA - Slack @Mikki
 * Megan Kelley, PM - Slack @Megan Kelley
 
-Slack channels: #vfs-platform-support, #vsp-content-ia
+Slack channels: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia)
 
 Github/Zenhub labels: `content-ia-team`
 

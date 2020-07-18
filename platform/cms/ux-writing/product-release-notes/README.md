@@ -47,7 +47,7 @@ The CMS team will be putting out regular communications that help both technical
 * 🧹 Best done right when the ticket is created, such as in planning or grooming
 * 📎 Product manager and UX writer (Kevin + Rachel) will review flagged items weekly
 * 💎 UX writer may follow up for details after item is demoed
-* ⛵️ Release notes are posted in #cms-support
+* ⛵️ Release notes are posted in [#cms-support](https://dsva.slack.com/channels/cms-support)
 
 ## Editorial process
 
@@ -58,4 +58,4 @@ The CMS team will be putting out regular communications that help both technical
 5. Ask the person who did the work to review their item by adding the text to their ticket and @ing them.
 6. Review entire release note with product manager and get approval
 7. Migrate content into markdown file in va.gov-cms/product-release-notes using a correct naming convention
-8. Post in Slack: @here in #cms-support
+8. Post in Slack: @here in [#cms-support](https://dsva.slack.com/channels/cms-support)

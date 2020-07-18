@@ -2,7 +2,7 @@
 
 # Communications
  - Team Name: Public Websites
- - GitHub Label: #vsa-public-websites
+ - GitHub Label: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
  - Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
  
 

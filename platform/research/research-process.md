@@ -22,7 +22,7 @@
 3. [**Review the researcher checklist!**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md): Below are some common things that you should always plan to do. For a full checklist including reminders for before, during, and after sessions, review the checklist.
 
 4. **Tell Your Colleagues!** 
-- Share results in #vfs-all-teams, #design, in your product channels, at sprint demos, in design meetings. 
+- Share results in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams), #design, in your product channels, at sprint demos, in design meetings. 
 - [Update the research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) so other researchers may apply your learnings going forward. 
 - Does your research have design system pattern implications? Reach out to DSVA & Platform designers (i.e. Jared Cunha, Ryan Thurlwell, Emily Waggoner) to discuss. 
 

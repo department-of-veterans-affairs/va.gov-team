@@ -33,7 +33,7 @@ VSP is starting a periodic newsletter communicating important updates to the pla
 - *Pain point:* We heard from you the build process is too rigid to support rapid development and iteration of apps.
 - *Solution:* We are decoupling content and website builds to deliver a better experience for both developers and content editors.
 - *Supporting Documentation:* [Learn more](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1099)
-- *Feedback or Questions:* post a message in #vsf-product-support.
+- *Feedback or Questions:* post a message in [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support).
 
 
 

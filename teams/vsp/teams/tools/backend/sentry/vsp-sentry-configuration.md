@@ -18,10 +18,10 @@ In an effort to allow VFS teams to “own” their Sentry teams, VSP engineers a
 * VSP engineers confirm that issue ownership and alerting rules are followed:
     * Make sure VFS teams provide the endpoints and code paths they “own” in relation to alerting rules. As part of the orientation process, the VFS team lead will provide alerting paths/urls to VSP engineers. Once this list of endpoints is finalized, VFS teams will give this list to a backend tools engineer in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
     * Make sure that “Issue Owners” exist as a configuration at the project level. VSP engineers will need to maintain issue ownership rules to avoid conflicts with Sentry user permissions and VFS teams: 
-    * Review the current definitions of issue ownership before adding a new ownership rule. If an ownership rule currently exists, add the team to the corresponding definition. For example: sentry-team-ownership-rule #team-1 #new-team-here
+    * Review the current definitions of issue ownership before adding a new ownership rule. If an ownership rule currently exists, add the team to the corresponding definition. For example: sentry-team-ownership-rule #team-1 [#new-team-here](https://dsva.slack.com/channels/new-team-here)
         * **Note:**  Issue ownership can be a one to many relationship.
         * Review any changes for typos to ensure current rule definitions are in place. The Issue owners section per project can and will be very large. Ownership rules can be path or URL based.
-* VSP engineers are NOT responsible for setting up teams, but when a new team is going through orientation, VSP engineers are responsible for answering Sentry related configuration questions in the #vfs-platform-support Slack channel.
+* VSP engineers are NOT responsible for setting up teams, but when a new team is going through orientation, VSP engineers are responsible for answering Sentry related configuration questions in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
 * VSP engineers update Sentry on a quarterly basis or when a team leaves the Platform to ensure that teams that exist on the Platform also exist within Sentry.
 
 ### VFS team orientation

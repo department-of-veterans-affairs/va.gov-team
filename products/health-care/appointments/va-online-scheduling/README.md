@@ -1,8 +1,8 @@
 # VA Online Scheduling Product Outline
 - GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
-  - [DSVA Team Slack - #vaos-team](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
-  - [VA PPG Team Slack - #vaos-sm-toolset](https://app.slack.com/client/T6J0KKXPW/CFCQT5XJL), [#vaos-engineers](https://app.slack.com/client/T6J0KKXPW/CM5ENJZ6C)
+  - [DSVA Team Slack - [#vaos-team](https://dsva.slack.com/channels/vaos-team)](https://app.slack.com/client/T03FECE8V/CMNQT72LX), [#vaos-eng](https://app.slack.com/client/T03FECE8V/CSCD0B1V3)
+  - [VA PPG Team Slack - [#vaos-sm-toolset](https://dsva.slack.com/channels/vaos-sm-toolset)](https://app.slack.com/client/T6J0KKXPW/CFCQT5XJL), [#vaos-engineers](https://app.slack.com/client/T6J0KKXPW/CM5ENJZ6C)
 - [Zenhub](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125)
 - VA.gov link: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
 - Demo video link: [Need to update] Current link -- https://drive.google.com/file/d/1LucLBX2AApkvPTK7nyo72SrFa7QZqmQQ/view

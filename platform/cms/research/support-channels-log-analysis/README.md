@@ -6,7 +6,7 @@ This research plan is for the VFS-CMS Tool - VFS-CMS team.
 
 The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-VFS-CMS users and team members have established official channels for questions and answers regarding the VFS-CMS tool via email and the #cms-support Slack channel. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
+VFS-CMS users and team members have established official channels for questions and answers regarding the VFS-CMS tool via email and the [#cms-support](https://dsva.slack.com/channels/cms-support) Slack channel. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
 
 ### Research Questions
 - What are the most prominent usability considerations regarding the CMS tool?
@@ -21,7 +21,7 @@ Data management will follow the [VFS-CMS research procedures](https://github.com
 
 ### Target Channels
 The conversations will be extracted from:
-* <b>_#cms-support_ Slack channel</b> - Responsible: Jordana Mello
+* <b>_[#cms-support](https://dsva.slack.com/channels/cms-support)_ Slack channel</b> - Responsible: Jordana Mello
 * <b>VA CMS support email</b> - Responsible: Howard Brande
 
 ### Data Sample

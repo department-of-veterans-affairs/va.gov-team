@@ -2,7 +2,7 @@
 Hello! In this folder, you'll find information specific to how Infrastructure/Devops Engineering works on VA.gov. 
 
 ### Communication channels
-- Slack channels: #vetsgov-devops, #vsp-operations
+- Slack channels: [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops), [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
 - Github labels: [operations](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations&repos=133843125)
 
 ### Points of contact

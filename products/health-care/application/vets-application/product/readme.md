@@ -14,7 +14,7 @@ Veterans want to receive healthcare benefits that they're entitled to, but curre
 
 ## Points of Contact
 
-* Slack: #healthcare-app; #rainbows-team; #dragons-team
+* Slack: [#healthcare-app](https://dsva.slack.com/channels/healthcare-app); [#rainbows-team](https://dsva.slack.com/channels/rainbows-team); [#dragons-team](https://dsva.slack.com/channels/dragons-team)
 
 |Name|Role|Email|
 |----|----|-----|

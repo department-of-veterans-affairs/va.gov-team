@@ -6,7 +6,7 @@
 
 ForeSee is a digital CX tool that captures VA.gov user survey data.
 
-For more information, please reach out to @joanne on #vfs-platform-support on the DSVA Slack.
+For more information, please reach out to @joanne on [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) on the DSVA Slack.
 
 ## Account Access
 VA Account Owner: Josh Tuscher <Joshua.Tuscher@va.gov>
@@ -56,7 +56,7 @@ You can find the request process [here](https://github.com/department-of-veteran
 We ask that as you go through the [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle-visual.pdf), ForeSee is requested so that we can start tracking survey baselines specific to products.
 
 #### How can I request data from ForeSee?
-To request access to ForeSee, please reach out to @joanne on the DSVA Slack channel, #vfs-platform-support
+To request access to ForeSee, please reach out to @joanne on the DSVA Slack channel, [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 
 To request a one-off report, please fill out the [Analytics support template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/analytics-request-guide.md#requesting-metrics-reporting) with your criteria.
 
@@ -96,7 +96,7 @@ VSP is in charge of the ForeSee content through the admin portal. Additional mod
 
 #### The nature of my VA.gov page is sensitive to use, and the Intercept survey shouldn't trigger on it. How do I remove it?
 
-Please provide tag @joanne on #vfs-platform-support on Slack, and provide the URLs with pages that should not be triggered.
+Please provide tag @joanne on [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) on Slack, and provide the URLs with pages that should not be triggered.
 
 #### I keep hearing about Medallia. What is Medallia?
 

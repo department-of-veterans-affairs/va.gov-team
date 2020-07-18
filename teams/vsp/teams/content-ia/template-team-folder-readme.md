@@ -5,7 +5,7 @@ _What is a brief description or list of current work efforts?_
 
 ### Slack Channels
 _Where can your team(s) be found in Slack?_
-- #channel-name
+- [#channel-name](https://dsva.slack.com/channels/channel-name)
 
 
 ### Github Labels

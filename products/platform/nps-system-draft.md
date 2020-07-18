@@ -5,7 +5,7 @@
    - Conduct monthly VFS & VSP surveys in Optimal Workshop
    - Gather feedback from VFS and VSP sprint retrospectives
    - Gather spontaneous ideas from team members
-     1. Create a Slack channel for feedback i.e. #platform-feedback?
+     1. Create a Slack channel for feedback i.e. [#platform-feedback](https://dsva.slack.com/channels/platform-feedback)?
      2. Team members can provide feedback to their Product Manager to pass along to the Service Design Team?
 
 2. Catalog all feedback in [pain points document](https://docs.google.com/spreadsheets/d/1ufL_Ep6HE4nUm6E9zB8A0UMSc10gu91CsIJh56oi9h8/edit#gid=0) and add to [VFS user journey board](https://miro.com/app/board/o9J_kwD8Pwo=/)

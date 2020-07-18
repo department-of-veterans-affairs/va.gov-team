@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
+- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
 - [ ] Have prototype link available: https://vsateams.invisionapp.com/share/YJXZTKC6CN4
 - [ ] Update the Zoom sharing settings
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute

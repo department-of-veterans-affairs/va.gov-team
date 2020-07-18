@@ -1,6 +1,6 @@
 ## Google Analytics Usage Dashboards
 
-If you need access to Google Analyitics, please reach out in the DSVA #vfs-analytics channel.
+If you need access to Google Analyitics, please reach out in the DSVA [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) channel.
 
 1. [Login Event Tracking](#login-event-tracking)
 2. [ID Provider Based Login Success Rates](#ID-Provider-Based-Login-Success-Rates)

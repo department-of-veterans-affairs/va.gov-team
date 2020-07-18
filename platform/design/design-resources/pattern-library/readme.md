@@ -2,7 +2,7 @@
 
 ### Communication channels
 - Github label: design-system 
-- Slack channels: #design, #design-system
+- Slack channels: #design, [#design-system](https://dsva.slack.com/channels/design-system)
 
 ### Points of contact
 - VA Business Stakeholders: N/A

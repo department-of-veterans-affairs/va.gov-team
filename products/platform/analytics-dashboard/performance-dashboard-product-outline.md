@@ -2,7 +2,7 @@
 
 #### Communications
 - Team Name: VSP Analytics & Insights
-- GitHub Label: #analytics-insights
+- GitHub Label: [#analytics-insights](https://dsva.slack.com/channels/analytics-insights)
 - Slack channel: [#vsp-analytics](https://dsva.slack.com/channels/vsp-analytics)
 - Product POCs: Joanne Esteban - Product Manager
 - Stakeholders: VFS product teams

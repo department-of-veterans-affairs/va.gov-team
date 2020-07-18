@@ -27,7 +27,7 @@ my_external_service:
 
 # Settings in the development, staging, and production Vets.gov environments
 
-**Settings in non-local environments are managed by the Platform team. Changes to settings (new settings, changed settings, or removed settings) must be coordinated with them.** To coordinate with the Platform team on Settings, post a request in the #vfs-platform-support Slack channel.
+**Settings in non-local environments are managed by the Platform team. Changes to settings (new settings, changed settings, or removed settings) must be coordinated with them.** To coordinate with the Platform team on Settings, post a request in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
 
 ## Overriding Settings
 

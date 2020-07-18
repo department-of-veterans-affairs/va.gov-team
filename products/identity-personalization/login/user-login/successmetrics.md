@@ -60,7 +60,7 @@ Allow Veterans to verify their identity to gain access VA.gov digital services t
 Increase LOA3 converstion rate.
 
 #### KPIs 
-KPIs are provided weekly by IDme on verification success rates in the #vfs-analytics channel in DSVA slack. 
+KPIs are provided weekly by IDme on verification success rates in the [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) channel in DSVA slack. 
 
 ##### 12/16-12/22
 Total Identity Verification Attempts: 7,914

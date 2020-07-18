@@ -79,7 +79,7 @@ Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process 
 We&rsquo;re here to support one another, so it&rsquo;s okay to not know!</blockquote>
 
 **Contact accessibility specialists** 
-* #vetsgov-accessibility channel in the DSVA Slack
+* [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 
@@ -461,7 +461,7 @@ Self-improvement, process improvement, advancing skills, and techniques help tea
 We’re here to support one another, so it&rsquo;s okay to not know! </blockquote>
 
 **Contact accessibility specialists** 
-* #vetsgov-accessibility channel in the DSVA Slack
+* [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 <blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be the remedy? 
@@ -530,7 +530,7 @@ Self-improvement, process improvement, advancing skills, and techniques help tea
 We’re here to support one another, so it’s okay to not know!</blockquote>
 
 **Contact accessibility specialists** 
-* #vetsgov-accessibility channel in the DSVA Slack
+* [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 Instead of intimidating you, I hope this information empowers you with confidence and inspiration to imagine how you might incorporate accessibility and involve diverse perspectives, including people with disabilities, throughout your project.

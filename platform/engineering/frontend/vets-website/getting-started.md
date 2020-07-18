@@ -25,7 +25,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
     * Have access to [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
 
-    * **Tip**: If you have a problem or can't get access, post in the #vfs-platform-support Slack channel or reach out to your DSVA contact.
+    * **Tip**: If you have a problem or can't get access, post in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel or reach out to your DSVA contact.
 
 1. Review all the content this folder &mdash; ```DeveloperDocs```
 
@@ -65,7 +65,7 @@ To get access to metrics, build logs, deployment information and exception detai
 
 DSVA engineering resources are available to provide guidance and support through the development effort.
 
-If you encounter issues or have any questions, raise them in the #vfs-platform-support Slack channel, or reach out to your DSVA contact.
+If you encounter issues or have any questions, raise them in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel, or reach out to your DSVA contact.
 
 <hr>
 

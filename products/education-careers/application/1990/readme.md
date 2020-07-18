@@ -2,7 +2,7 @@
 
 ### Communication Channels
 - Github Label: ed benefits
-- Slack Channel: #vetsgov-edu_benefits
+- Slack Channel: [#vetsgov-edu](https://dsva.slack.com/channels/vetsgov-edu)_benefits
 - Link on Va.gov: https://www.va.gov/education/apply-for-education-benefits/application/1990
 - Link on Staging: https://staging.va.gov/education/apply-for-education-benefits/application/1990
 - Google Analytics: [here](https://analytics.google.com/analytics/web/?authuser=1#/report/conversions-goal-funnel/a50123418w177519031p184334251/_u.date00=20190301&_u.date01=20190331&_.goalOption=ALL/)

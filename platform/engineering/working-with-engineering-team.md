@@ -45,4 +45,4 @@ The support engineers on the VSP team are available for informal discussions abo
 
 
 ## <a id="questions"></a>Contact VSP engineering
-If you have any questions, please reach out via slack in #vsp-product-support, tag @jp (John Paul Ashenfelter) or @danshank.
+If you have any questions, please reach out via slack in [#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support), tag @jp (John Paul Ashenfelter) or @danshank.

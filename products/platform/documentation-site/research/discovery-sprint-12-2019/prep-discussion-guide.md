@@ -1,7 +1,7 @@
 # Discussion Guides - Documentation Site Discovery Sprint 12/2019
 
 ## Moderator Logistics
-_Use #vsp-documentation-site-discovery in Slack for real-time feedback from observers._
+_Use [#vsp-documentation-site-discovery](https://dsva.slack.com/channels/vsp-documentation-site-discovery) in Slack for real-time feedback from observers._
 
 ## Intro
 Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding documentation, whether that's in the VA.gov ecosystem or about something else entirely. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go.

@@ -113,7 +113,7 @@ Here are some examples to help you understand when you must test with Veterans v
     * You should be using feature toggles to hide your code when you push to staging. 
     * Your code can be made visible in the production environment to a limited set of users via a password.
     * You need to work with the DSVA devops team to set that up.
-    * Post in the #support-external Slack channel -- explain that you're planning a UAT in production and want to put your service/tool/feature behind a password.
+    * Post in the [#support-external](https://dsva.slack.com/channels/support-external) Slack channel -- explain that you're planning a UAT in production and want to put your service/tool/feature behind a password.
 
 1. When the UAT is completed, consolidate all the problems the UAT found.
     * Create Github issues for each problem found. 

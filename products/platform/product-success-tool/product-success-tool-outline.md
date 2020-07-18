@@ -114,7 +114,7 @@ If we provide a tool that has easier to read Google Analytics data, will users b
 **Solution:** 
 A performance dashboard with consistent metrics across all VFS applications.
 
-Google Sheets MVP that's manually updated every week and shared on the #vfs-analytics Slack channel. Surfaces weekly and monthly Google Analytics data with platform driven targets for success and links for users to drill deeper:
+Google Sheets MVP that's manually updated every week and shared on the [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) Slack channel. Surfaces weekly and monthly Google Analytics data with platform driven targets for success and links for users to drill deeper:
 - Successful submissions
 - Failed submissions
 - Ratio of unique to total submissions	

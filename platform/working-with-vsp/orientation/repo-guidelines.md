@@ -85,7 +85,7 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 ## <a id="create-folders"></a>When to create child folders
 When you are managing and organizing your files, you may be tempted to create sub-folders for every different type of file you have in order to sort and organize them.  Sometimes this can be a good solution, but it can also create a situation where content is more difficult to find.  
 
-***If you feel you need a new folder directly below /platform, /products/ or /teams, please reach out for guidance in the #vfs-product-support or #vsp-content-ia channels.***
+***If you feel you need a new folder directly below /platform, /products/ or /teams, please reach out for guidance in the [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support) or [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) channels.***
 
 **Guidelines**
 -  Keep your structure as flat/shallow as possible by avoiding creating multiple levels of folders when you can. Deep structures, with many levels to click through, makes content harder to find - shallow structures expose content quicker, with fewer clicks, and keep URLs shorter. 

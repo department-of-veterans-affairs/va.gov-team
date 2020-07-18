@@ -5,16 +5,16 @@
 
 ### Slack Channels
 - #vsa
-- #vsa-authd-exp
-- #vsa-benefits-memorial
-- #vsa-vamc-upgrade
-- #vsa-bam-2
-- #vsa-facilities
-- #vsa-public-websites
-- #vsa-ebenefits
-- #vsa-caregiver
-- #vsa-product (product management-specific)
-- #vfs-all-teams
+- [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
+- [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
+- [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
+- [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2
+- [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
+- [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+- [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
+- [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
+- [#vsa-product](https://dsva.slack.com/channels/vsa-product) (product management-specific)
+- [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)
 
 
 ### Github Labels

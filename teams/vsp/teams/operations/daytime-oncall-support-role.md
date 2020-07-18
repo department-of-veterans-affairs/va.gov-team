@@ -28,14 +28,14 @@ This rotation can be found in [Pagerduty](https://dsva.pagerduty.com/schedules#P
 
 This developer, just like oncall, DOES NOT HAVE TO DO EVERYTHING but _does_ have to be the first point of contact. They will not have any other critical tasks while they are handling these two super epics.
 
-At the beginning of the rotation, you should make sure you are assigned to each of those two Super Epics. This makes it clear who’s responsible (you!) for the rotation. Also change the channel topic in the #vfs-platform-support channel, to reflex your name.
+At the beginning of the rotation, you should make sure you are assigned to each of those two Super Epics. This makes it clear who’s responsible (you!) for the rotation. Also change the channel topic in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel, to reflex your name.
 
 During the sprint, you should monitor the following Slack groups for issues:
-* #vfs-platform-support (individual requests)
-* #vsp-operations 
+* [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) (individual requests)
+* [#vsp-operations](https://dsva.slack.com/channels/vsp-operations) 
 * #sre
-* #devops-deploys 
-* #devops-alerts
+* [#devops-deploys](https://dsva.slack.com/channels/devops-deploys) 
+* [#devops-alerts](https://dsva.slack.com/channels/devops-alerts)
 * #oncall (general oncall issues and problems)
 
 As issues come in, the main job is to acknowledge the incoming request, decide on the best person to handle it (maybe you), and follow up to make sure the request is completed in a timely manner. We try to at least acknowledge requests within about an hour. It is *100%* ok to assign the request, whatever it is, to someone more suited to the task but the first point of contact should be daytime oncall person. 
@@ -46,11 +46,11 @@ At the end of the rotation, the developer should unassign themselves from the tw
 
 ### IAM Activity Audit
 
-A Lambda function runs Monday-Friday @ 11am Eastern to check for IAM users reaching the max limit of inactivity (90 days) for ATO compliance. If there are no users reaching that limit, the function will not post to Slack. If there are users close to that limit a bot user will post a message in #vsp-operations with those users/usernames. Reply to the thread if this occurs CC'ing the owner(s) of the offending user account(s). If the user(s) no longer require the account(s) or do not plan to keep the activity refreshed, we can then remove the user(s) via Terraform [here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). If the user(s) do intend to keep the account, inform them that the account could be subject to being disabled if the activity is not reset before the 90 day mark.
+A Lambda function runs Monday-Friday @ 11am Eastern to check for IAM users reaching the max limit of inactivity (90 days) for ATO compliance. If there are no users reaching that limit, the function will not post to Slack. If there are users close to that limit a bot user will post a message in [#vsp-operations](https://dsva.slack.com/channels/vsp-operations) with those users/usernames. Reply to the thread if this occurs CC'ing the owner(s) of the offending user account(s). If the user(s) no longer require the account(s) or do not plan to keep the activity refreshed, we can then remove the user(s) via Terraform [here](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). If the user(s) do intend to keep the account, inform them that the account could be subject to being disabled if the activity is not reset before the 90 day mark.
 
 ### Pull Requests
 
-Your Github team notification and #vsp-operations channel can be used to track PRs that need to be reviewed. 
+Your Github team notification and [#vsp-operations](https://dsva.slack.com/channels/vsp-operations) channel can be used to track PRs that need to be reviewed. 
 
 ### Support requests
 

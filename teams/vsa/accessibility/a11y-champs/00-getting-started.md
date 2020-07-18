@@ -21,7 +21,7 @@ Time: approximately 1 hour
 1. Review [Tips for Communicating with People with TBI and PTSD](https://www.brainline.org/article/tips-communicating-people-tbi-and-ptsd)<br/>
     **How this helps:** Helps understand how content structure, tone, and words used may have an impact.
 
-1. Join DEPO’s #vetsgov-accessibility Slack channel. <br/>
+1. Join DEPO’s [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) Slack channel. <br/>
     **How this helps:** A place to ask questions about accessibility, and learn more.
 
 1. Familiarize yourself with:<br/>

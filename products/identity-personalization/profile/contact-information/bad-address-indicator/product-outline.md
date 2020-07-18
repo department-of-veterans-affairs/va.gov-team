@@ -186,7 +186,7 @@ Candidate Address Validation uses the ______ API ()
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-authd-exp slack channels
+#vsp-platform-support and [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) slack channels
 
 ## Design 
 

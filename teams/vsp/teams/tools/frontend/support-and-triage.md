@@ -15,9 +15,9 @@ The rotation schedule can be found [here](https://dsva.pagerduty.com/schedules#P
 ### Triage requests in the support channels
 
 During the sprint, you should monitor the following Slack groups for issues:
-* #vfs-platform-support (individual requests)
-* #vfs-frontend (individual requests)
-* #vfs-sentry-alerts
+* [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) (individual requests)
+* [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend) (individual requests)
+* [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts)
 * #oncall (general oncall issues and problems)
 
 - **For small issues in the platform**: Fix it yourself
@@ -44,8 +44,8 @@ Support requests include every interaction you have with a VSF team member. Even
 
 Production website Sentry errors should be reviewed at least once a rotation and up to weekdaily as time permits. 
 
-Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the #vfs-sentry-alerts channel.
-The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
+Browse [website-production Sentry](http://sentry.vfs.va.gov/vets-gov/website-production/) and monitor the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel.
+The [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel is configured to receive alerts that meet one of the following criteria:
 * First occurrence of an issue
 * High volume of an error occurring
 

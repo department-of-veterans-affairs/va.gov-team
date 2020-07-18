@@ -29,7 +29,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] Nov 2: Winnie has 4 ~~join.me rooms~~ Skype for Business meetings available for on call use
 - [x] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
 - [x] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
-- [x] Nov 4: open #wbc-launch-ops channel up in slack
+- [x] Nov 4: open [#wbc-launch-ops](https://dsva.slack.com/channels/wbc-launch-ops) channel up in slack
   - [x] Chris Johnston added
   - [x] James Kassemi added
   - [x] Wyatt Walter added
@@ -86,9 +86,9 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [x] Winnie opens WBC Launch Room Skype meeting
 - [x] All members review [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/Rollout/runbook.md) and other pinned Slack channel information
 - [x] All members confirm they have the incident response contact info handy
-- [x] Wyatt posts @channel mention in #vetsdotgov #oncall channels Slack about how enacting Vets.gov redirects tonight will create alerts noise
+- [x] Wyatt posts @channel mention in [#vetsdotgov](https://dsva.slack.com/channels/vetsdotgov) #oncall channels Slack about how enacting Vets.gov redirects tonight will create alerts noise
 - [x] Members confirm presence and connectivity
-- [x] Wyatt disables automated production deployments, and updates #wbc-launch-ops and #vetsdotgov
+- [x] Wyatt disables automated production deployments, and updates [#wbc-launch-ops](https://dsva.slack.com/channels/wbc-launch-ops) and [#vetsdotgov](https://dsva.slack.com/channels/vetsdotgov)
 - [x] Rachael, Chris, and Wyatt verify that monitoring dashboard is accessible and working
 - [x] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
@@ -107,7 +107,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [x] Confirm homepage stories are updated
 - [x] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as in-progress
 - [x] Rachael announces that we are initiating launch via Slack and email
-- [x] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
+- [x] Wyatt posts @channel mention in [#vetsdotgov](https://dsva.slack.com/channels/vetsdotgov) Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
 - [x] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
 - [x] Chris confirms verbally that we are good to launch
 

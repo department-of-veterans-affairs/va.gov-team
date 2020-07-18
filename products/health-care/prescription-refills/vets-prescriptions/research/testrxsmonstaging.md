@@ -13,4 +13,4 @@ That user also has access to secure messaging. Go to https://staging.vets.gov/he
 Let me know if you have any questions/issues with any of those steps or any feedback.
 
 ### Feedback?
-Design feedback should go in Slack in #vetsgov-health, tagging @angel.
+Design feedback should go in Slack in [#vetsgov-health](https://dsva.slack.com/channels/vetsgov-health), tagging @angel.

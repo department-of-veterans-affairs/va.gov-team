@@ -80,7 +80,7 @@ We will track and analyze how our audience interacts with the MVP newsletter (us
 ## Go-to-market Strategy
 
 - Create a web page for subscribing to the email newsletter (using Mailchimp or alternative tools)
-- Tell VFS teams how to subscribe to newsletter in Team of Teams and #vfs-all-teams
+- Tell VFS teams how to subscribe to newsletter in Team of Teams and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)
 
 ## Target Launch Date
 

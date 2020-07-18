@@ -16,11 +16,11 @@ Provide automated tooling to automate to improve code quality with explicit and 
 
 ## Product Responsibility (Last updated: 3-9-20 )
 
-- Troubleshooting: #vfs-product-support
-- Onboarding: #vsp-tools-fe
-- Maintenance: #vsp-tools-fe
-- Training Documents: #vsp-tools-fe 
-- Product Feedback or New Feature Requests: #vsf-product-support
+- Troubleshooting: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Onboarding: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
+- Maintenance: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
+- Training Documents: [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe) 
+- Product Feedback or New Feature Requests: [#vsf-product-support](https://dsva.slack.com/channels/vsf-product-support)
 
 ## Examples or References of usage:
 

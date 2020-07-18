@@ -17,7 +17,7 @@
     - Which data sources we can pull from for tracking KPIs
     - Which desired metrics are uncaptured
 3. VSP Insights will incorporate results from KPI workshops and check-ins to the Product Health Tool.
-5. VSP Insights will be readily available for team questions and updates on KPIs and product health metrics through the #vfs-platforrm-support Slack channel.
+5. VSP Insights will be readily available for team questions and updates on KPIs and product health metrics through the [#vfs-platforrm-support](https://dsva.slack.com/channels/vfs-platforrm-support) Slack channel.
 
 ## Quarterly Check-Ins
 

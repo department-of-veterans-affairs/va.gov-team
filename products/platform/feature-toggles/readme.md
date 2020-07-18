@@ -18,11 +18,11 @@ Feature Toggles will enable teams to test out new functionality (Applications, f
 
 ## Product Responsibility (Last updated: 1-16-20 )
 Features Toggles curently are a shared responsibility by the FE and BE Tools Teams.
-- Troubleshooting: #vfs-product-support
-- Onboarding: #vfs-product-support
-- Maintenance: #vfs-product-support or #vsp-tools-fe
-- Training Documents: #vfs-product-support
-- Product Feedback or New Feature Requests: #vfs-product-support
+- Troubleshooting: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Onboarding: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Maintenance: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support) or [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)
+- Training Documents: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
+- Product Feedback or New Feature Requests: [#vfs-product-support](https://dsva.slack.com/channels/vfs-product-support)
 
 ## Examples or References of usage:
 - Direct Deposit Team used feature toggles for a % rollout - [Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1674)
@@ -34,7 +34,7 @@ Features Toggles curently are a shared responsibility by the FE and BE Tools Tea
 ---
 ### Release v0.3 - Sprint 22 (04-01-2020)
 - Added sticky behavior so unauthenticated users can be locked into a particular variant by a unique ID. Built to support % rollout for the SSO Team.  [#6078](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/6078)
-- [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the #vfs-platform-support-channel
+- [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the [#vfs-platform-support-channel](https://dsva.slack.com/channels/vfs-platform-support-channel)
 ---
 ### Release v0.2 - Sprint 11 (10-29-2019)
 - Adding basic user management and logging to the Flipper Admin Portal so we can better regulate and track "who" toggled "what" and "when" [#1764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1764)

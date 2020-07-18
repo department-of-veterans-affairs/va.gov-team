@@ -214,7 +214,7 @@ The Debt Letters MVP was officially assigned to BAM2 to be slotted in as our nex
 #### Useful Links
 The current VSA team owning this is the Structured Data team. Their product folder contains a bunch of useful information on the existing integrations.
 - Product Folder: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/structured-data)
-- Slack Channel: #vfs-pension-automation
+- Slack Channel: [#vfs-pension-automation](https://dsva.slack.com/channels/vfs-pension-automation)
 - Product Manager: Sophie Myers (Sophia.Myers@adhocteam.us)
 - Engineer Lead: Jonathan Julian (Jonathan@adhocteam.us)
 - Engineer: Keith Adkins (Keith.Adkins@adhocteam.us)
@@ -229,7 +229,7 @@ The burder of defining, applying, and maintaing the letter taxonomy will be mana
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-bam-2 slack channels
+#vsp-platform-support and [#vsa-bam-](https://dsva.slack.com/channels/vsa-bam-)2 slack channels
 
 ## Design 
 

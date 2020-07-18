@@ -6,7 +6,7 @@
 
 #### Communications
 
-**Slack**: `#vsp-tools-be, #vsp-tools-fe`
+**Slack**: `[#vsp-tools-be](https://dsva.slack.com/channels/vsp-tools-be), [#vsp-tools-fe](https://dsva.slack.com/channels/vsp-tools-fe)`
 
 #### Team Members
 

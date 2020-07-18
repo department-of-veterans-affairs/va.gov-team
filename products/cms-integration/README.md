@@ -47,7 +47,7 @@ When adding a new content model, you'll need to add the following files to
 
 -   [Pre-transformation (input) schema](transformation-process.md#input-json-schema)
     -   Found in `schemas/input/`
-    -   Validates the [content from the CMS](transformation-process.md#cms-export-tarball)
+    -   Validates the [content from the CMS](transformation-process.md[#cms-export-tarball](https://dsva.slack.com/channels/cms-export-tarball))
 -   [Filters](transformation-process.md#filter)
     -   Found in `transformers/` with the transformers
     -   Ensures [entity expansion](transformation-process.md#entity-expansion) doesn't read a bunch of entities that won't end up

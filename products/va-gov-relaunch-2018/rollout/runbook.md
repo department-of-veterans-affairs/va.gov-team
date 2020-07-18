@@ -139,7 +139,7 @@ Follow traditional pattern: disseminate Launch Status Report w/NO as the decisio
 ### Plan
 
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
-1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander updates [#wbc-launch-ops](https://dsva.slack.com/channels/wbc-launch-ops) channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael sends out Launch Status Report to Chris
 1. Chris makes decision to put up a maintenance page
@@ -168,7 +168,7 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 
 ### Plan
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
-1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander updates [#wbc-launch-ops](https://dsva.slack.com/channels/wbc-launch-ops) channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael updates Chris w/Launch Status Report
 1. Chris makes decision to roll back based on the data in the launch report
@@ -195,7 +195,7 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 ### Plan
 
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
-1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander updates [#wbc-launch-ops](https://dsva.slack.com/channels/wbc-launch-ops) channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael updates Chris
 1. Chris makes decision to roll back based on the data in the launch report

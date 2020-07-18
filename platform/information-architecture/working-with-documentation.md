@@ -59,5 +59,5 @@ __Offboarding__: As part of VFS team offboarding, Documentation will support VFS
 
 Outside of these touchpoints, Documentation support can be requested any time a team thinks they could benefit from collaboration or review.
 
-To request support, please reach out via Slack in #vsp-content-ia, tagging @megan.kelley and @thatmattjohnson.  Depending on the extent of your request, we may create a Zenhub issue to support it. Please be sure to make more requests ideally a sprint ahead of time so we can account for it in our planning.
+To request support, please reach out via Slack in [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia), tagging @megan.kelley and @thatmattjohnson.  Depending on the extent of your request, we may create a Zenhub issue to support it. Please be sure to make more requests ideally a sprint ahead of time so we can account for it in our planning.
 

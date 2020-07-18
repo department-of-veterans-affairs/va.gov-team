@@ -8,4 +8,4 @@ Each session should have a primary notetaker. This ideally should be a team memb
 ## Secondary Notetaker(s)
 Anyone else who observes is encouraged to note observations throughout the session. Designers will ask all observers at the end of a session to share their observations. Please note, there's a difference between an observation (what a participant said or did) and a recommendation ("We should make Y change...") Your notes should be recommendations and specific quotations that stuck out. 
 
-- Share your observations with the designer in the #feedback-backchannel or in the #vetsdotgov-research channel. 
+- Share your observations with the designer in the [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) or in the [#vetsdotgov-research](https://dsva.slack.com/channels/vetsdotgov-research) channel. 

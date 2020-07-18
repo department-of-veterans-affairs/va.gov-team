@@ -180,7 +180,7 @@ For design QA reviews:
 
 
 ## <a id="questions"></a>Contact VSP design
-If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
+If you have any questions, please reach out via slack in [#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support), tag @EmilyWaggoner, and @CrystabelReiter.
 
 
 

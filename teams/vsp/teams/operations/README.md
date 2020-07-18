@@ -13,14 +13,14 @@ Provide reliable infrastructure, secure access controls, and CI/CD tooling to al
 
 ## Communications
 
-Join the #vsp-operations channel in DSVA Slack if you have a question or want to join the conversation.
+Join the [#vsp-operations](https://dsva.slack.com/channels/vsp-operations) channel in DSVA Slack if you have a question or want to join the conversation.
 
 There are a few other channels that would be useful to join:
 
-- #vetsgov-devops: this has a collection of VSP and non-VSP engineers that work within the same infrastructure to discuss the intersection of infrastructure and code
-- #devops-alerts: non-critical warnings from monitoring that are infrastructure-focused. These should be looked into by on-call when available but should not be emergencies
+- [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops): this has a collection of VSP and non-VSP engineers that work within the same infrastructure to discuss the intersection of infrastructure and code
+- [#devops-alerts](https://dsva.slack.com/channels/devops-alerts): non-critical warnings from monitoring that are infrastructure-focused. These should be looked into by on-call when available but should not be emergencies
 - #oncall: critical events from PagerDuty, and discussion on response. See [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/incident-response-playbook.md) for info on when something should migrate into a dedicated channel and incident response info in general.
-- #devops-deploys: receives information about deployment failures and successes and can help with general situational awareness
+- [#devops-deploys](https://dsva.slack.com/channels/devops-deploys): receives information about deployment failures and successes and can help with general situational awareness
 - #sre: a shared channel between programs within DSVA for folks doing Operations and SRE type work
 
 Like the rest of VSP, we also use Keybase as a fallback in case Slack is inaccessible. See [AlternateCommunicationChannels]() for information on how to join.

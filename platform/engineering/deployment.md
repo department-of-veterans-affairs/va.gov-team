@@ -69,7 +69,7 @@ Speaking of production steps, things kick off with the daily production push
 
 > 6\. Create a release in GitHub from master, tag artifacts of that commit sha with release name
 
-Every work day at the configured time a Jenkins automerge job sends a link to the #vetsgov-engineers Slack channel with a diff between the last release and the most recent changes in `master`. This commit reference is stored to ensure the diff and released version is deterministic.
+Every work day at the configured time a Jenkins automerge job sends a link to the [#vetsgov-engineers](https://dsva.slack.com/channels/vetsgov-engineers) Slack channel with a diff between the last release and the most recent changes in `master`. This commit reference is stored to ensure the diff and released version is deterministic.
 
 After a time has elapsed ( currently set to 60m ) release is created at the reference from above.
 

@@ -55,7 +55,7 @@ We're going to build helpers to assist VFS teams with building their own keyboar
 --- 
 
 ## Go-to-market Strategy
-- Announce it in #vfs-all-teams before TOTs on 3/17 or 3/24. 
+- Announce it in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) before TOTs on 3/17 or 3/24. 
 - As teams go through collaboration cycle, they will be reminded that it's an artifact they need to provide before staging review. 
 
 ## Target Launch Date

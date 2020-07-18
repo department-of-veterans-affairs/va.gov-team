@@ -40,7 +40,7 @@ The [current version](https://www.va.gov/education/submit-school-feedback/introd
 1. Visit https://staging.va.gov/education/submit-school-feedback/introduction
 1. Sign in or 'Start your application without signing in'
 1. Fill out the form
-1. **To verify submissions are being received by the Salesforce team** - you'll need to ping the #gibillfeedbacktool channel and ask for assistance from the salesforce development team. They have a test environment that they can verify receipt of test applications. If that doesn't work, reach out to Lori/Ritu from the POC list above.
+1. **To verify submissions are being received by the Salesforce team** - you'll need to ping the [#gibillfeedbacktool](https://dsva.slack.com/channels/gibillfeedbacktool) channel and ask for assistance from the salesforce development team. They have a test environment that they can verify receipt of test applications. If that doesn't work, reach out to Lori/Ritu from the POC list above.
 
 ## Business Requirements
 Veterans must be able to express varying types of Feedback through an online form. 
