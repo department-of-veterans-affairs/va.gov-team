@@ -24,8 +24,9 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
 - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+
 *Start recording.*
-- **I have started recording. I'd like to confirm: Are you comfortable if I recordmy screen the audio as we talk today?**
+  - **I have started recording. I'd like to confirm: Are you comfortable if I recordmy screen the audio as we talk today?**
 
 ## Section 0: Warm-up questions
 Before we look at the website, let’s start with a few warm-up questions.
@@ -50,9 +51,9 @@ Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedu
 - Take a look at this page and tell me what you see. Talk out loud as you are looking through the information. 
   > It just explains to me how to I go about scheduling my va apt online, and I do have an account, so I just log into it? Basic information, what are the benefits, options, if my VA is capable of the online scheduling, I guess I don’t see my va on here, maybe this is one?
   - Is this information helpful?
-  > Yes, helpful, a lot of info and you have to look further to see if this information applies to you.
+    > Yes, helpful, a lot of info and you have to look further to see if this information applies to you.
   - Is this something you would ordinarily read through?
-  > Depends on how my brain is working, this is too much information.
+    > Depends on how my brain is working, this is too much information.
   - Follow up questions: 
     - Have you seen this page before?
       > Yes
@@ -93,7 +94,7 @@ We're going to take a look at your Appointments list. Don't worry if you haven't
 - [Appointment list] Let's take a look at the appointment list. 
   - Prompts:
     - What do you think about the order of your appointments?
-    > Easy to see what’s coming up next in line. I wish they would have the location of the clinic, if it’s a new appt or new clinic, I wouldn’t know where to go.
+      > Easy to see what’s coming up next in line. I wish they would have the location of the clinic, if it’s a new appt or new clinic, I wouldn’t know where to go.
       - Elaborate?
         > Would be nice if they just list location within it – meeting number, room number. 
     - More specific location info?
@@ -213,8 +214,8 @@ Now we're going to look at a prototype: [Express Care Prototype](https://vsateam
 - Imagine you want to make an appointment to be seen for something *today*, how would you make an appointment for that? 
   > I can go online and put in an express care request. 
 - Is that what you expected to happen? 
-    - Why / why not?
   > This emergency care is different than express care. Explaining to you what symptoms mean you should go to the ER.
+  - Why / why not?
 - What is confusing?
   > I looked again, not confusing. Before you make the request, make sure you don’t need to go to the ER instead. 
   > When I first looked, kind of threw me off because I was expecting express care, but once I looked again, I see that it was about reasons to go to the ER.
