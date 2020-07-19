@@ -86,7 +86,7 @@ I'm going to have you do a second task. For this task, under the 'Choose a VA fa
 
 #### Questions:
 
-Under the 'Choose a service type' menu, talk me through what the different options mean to you.
+Open the 'Choose a service type' menu, talk me through what the different options mean to you.
    - What does 'Community urgent care providers (in VA's network)' mean to you?
    - What does 'VA urgent care' mean to you? 
 - Does this distinction matter to you? 
