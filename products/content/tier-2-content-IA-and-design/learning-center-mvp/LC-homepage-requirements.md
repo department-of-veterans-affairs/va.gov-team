@@ -1,0 +1,2 @@
+# Learning center homepage requirements
+
