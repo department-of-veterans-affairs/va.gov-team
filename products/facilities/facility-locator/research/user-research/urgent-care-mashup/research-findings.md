@@ -13,15 +13,6 @@ The goal of this study is to:
 - Understand how an 'All urgent care' option might influence the way a user searches for urgent care
 - Validate or invalidate the usability of new facility locator search results designs
 
-The research questions we wanted to address were:
-- What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
-- What information do Veterans need/want for community urgent care (in VA network) locations?
-- Do Veterans need to distinguish between these location types in a single list?
-- Do veterans want to filter by facility type, va/non-va?
-- Would veterans click to learn more about community urgent care benefits?
-- Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
-- What information does a veteran find helpful in preparing to go to a urgent care facility?
-
 Prior to the study, we hypothesized that:
 - Veterans will understand how to find an urgent care location.
 - Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
@@ -42,6 +33,13 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ### Research Questions
 
+- What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
+- What information do Veterans need/want for community urgent care (in VA network) locations?
+- Do Veterans need/want to distinguish between these location types in a single list?
+- Do veterans want to filter by facility type, va/non-va?
+- Would veterans click to learn more about community urgent care benefits?
+- Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
+- What information does a veteran find helpful in preparing to go to a urgent care facility?
 
 
 ## Key Findings
