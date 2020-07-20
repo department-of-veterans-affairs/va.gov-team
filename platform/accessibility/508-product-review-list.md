@@ -556,9 +556,13 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**<br/>
 
+- [508-defect-1 ❗ Launchblocker [SCREENREADER, KEYBOARD, ZOOM]: The collapse/expand implementation MUST not trap users - #10997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10997)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
+- [508-defect-1 [ZOOM, MOBILE]: Content MUST not be cut off when magnified - #10783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10783)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
+- [508-defect-1 [MOBILE]: In mobile view, content MUST not be cut off - #10782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10782)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-1 :exclamation: Launchblocker - **_Critical_**
 - [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[MOBILE, ZOOM]: At 400%, content does not fit in screen view responsively](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [508-defect-2 [SCREENREADER]: Map area SHOULD be hidden from screen readers, in the current state - #10784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10784)<br/>**Production** | **Opened:** June 30, 2020 | **Severity:** 508-defect-2 - **_Serious_*
 - [[CI/CD]: Review coverage of accessibility checks in facility-locator end-to-end tests - #7358](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7358)<br/>**Production** | **Opened:** March 30, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_**
 
@@ -603,6 +607,9 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
+- [508-defect-2 [DOCUMENTS]: Documents MUST be 508 compliant - #9998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9998)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - within Learn more about the fiduciary program list item - #9987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9987)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - sidebar Message us, Call us, etc - #9981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9981)<br/>**Production** | **Opened:** June 9, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [[COGNITION]: Focus outline SHOULD be consistent throughout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7295)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [SCREENREADER, KEYBOARD]: Aside SHOULD not be contained in another landmark](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6379)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 - [CMS [AXE-CORE, SCREENREADER]: Heading levels SHOULD increase by one - the alert box heading breaks order](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6375)<br/>**Production** | **Opened:** March 2, 2020 | **Severity:** 508-defect-2 — **_Serious_**
