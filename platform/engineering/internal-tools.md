@@ -163,8 +163,10 @@ These steps assume your SSH keys have been authorized and that you're running on
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
     * Right click on [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and save as: `~/.ssh/config_va`
-    * Edit `~/.ssh/config` and add this line at the top:
-    `Include ~/.ssh/config_va`
+    * Run this command in your terminal:
+    ```bash
+      grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`
+    ```
 
 1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov` (for Windows, the command will not require the `-K` flag).
 
