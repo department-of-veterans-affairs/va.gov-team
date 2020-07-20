@@ -25,17 +25,20 @@ Another example: https://github.com/department-of-veterans-affairs/vets-api/blob
 ### Option 2
 Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and hasve a meeting set to chat with Paras Shah to learn more about what email and texting optins they might have.
 
-**Potential email drafts:**
-(Success)
-"Hello VeteranFirstName VeteranLastName,
+---------
 
-Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and you can track the progress of your claim in the Claim Status Tool located at this url: https://va.gov/claim-status-tool-link-inserted-here
+**Potential email drafts:**. 
+(Success)  
+_Hello VeteranFirstName VeteranLastName,_. 
 
-In the event that you require more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP
+_Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and you can track the progress of your claim in the Claim Status Tool located at this url: https://va.gov/claim-status-tool-link-inserted-here_
 
-(Failure)
-"Hello VeteranFirstName VeteranLastName,
+_In the event that you require more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
 
-We are writing to inform you that for some reason, your submission was not successfully received into the VA system after several tries.  Please check for a saved draft or retry your application submission again.  
+(Failure). 
+_"Hello VeteranFirstName VeteranLastName,_  
 
-For more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP
+_We are writing to inform you that for some reason, your submission was not successfully received into the VA system after several tries.  Please check for a saved draft or retry your application submission again._  
+
+_For more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
+Obviuysly this email copy needs to be polished up
