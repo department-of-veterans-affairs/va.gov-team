@@ -27,7 +27,7 @@
     - [Detailed Design](#detailed-design)
       - [New build script to supplement existing build script](#new-build-script-to-supplement-existing-build-script)
       - [Reuse existing `check-broken-link` plugin in new build script](#reuse-existing-check-broken-link-plugin-in-new-build-script)
-      - [New script to run the accessibility tests](#new-script-to-run-the-accessibility-tests)
+      - [Update accessibility tests config](#update-accessibility-tests-config)
       - [New report of invalid content](#new-report-of-invalid-content)
       - [New scheduled job in Jenkins](#new-scheduled-job-in-jenkins)
     - [Code Location](#code-location)
@@ -203,7 +203,9 @@ Before axe and broken link checks can be run, the content needs to be built. A n
 
 We will reuse the existing `check-broken-link` Metalsmith plugin in the new build script.
 
-#### New script to run the accessibility tests
+#### Update accessibility tests config
+
+The [current accessibility tests](https://github.com/department-of-veterans-affairs/vets-website/blob/f93e0c11d9e037bd2460ede5e2fb4b67fbaaf118/Jenkinsfile#L82-L84) use Nightwatch. The default value for [Nightwatch's `end_session_on_fail` test session setting](https://nightwatchjs.org/gettingstarted/configuration/#test-session-settings) is true. Since we want a report of all the failures, we would need to update the `end_session_on_fail` setting in our [Nightwatch config](https://github.com/department-of-veterans-affairs/content-build/blob/master/config/nightwatch.docker-compose.js) from `true` to `false`.
 
 #### New report of invalid content
 
