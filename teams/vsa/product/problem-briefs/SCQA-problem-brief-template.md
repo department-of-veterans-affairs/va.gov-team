@@ -19,7 +19,7 @@ _How will the problem be solved and what evidence do we have._
  
 
 #### Context
-<details>
+
 You see a problem. Perhaps it’s a problem you face or it’s a problem that affects your team. Typically, you bring these topics up in retros or you raise them with leads or you try to solve them yourself.
 
 But, you don’t always see improvement.
@@ -37,8 +37,6 @@ When I might write a problem brief:
 - Addressing accessibility across multiple 
 - Improving how your team intakes requests
 - Decreasing the time it takes for content to be published on VA.gov
-
-</details>
 
 #### References
 - [SCQA - A Framework For Defining Problems & Hypotheses - StrategyU](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/)
