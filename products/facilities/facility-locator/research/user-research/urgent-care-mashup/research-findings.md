@@ -1,4 +1,4 @@
-# Urgent Care Mashup Study - Research Findings
+# Research Findings: Urgent Care Mashup Study
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
 Leyda Hughes (leyda.hughes@adhocteam.us), 07/20/2020
