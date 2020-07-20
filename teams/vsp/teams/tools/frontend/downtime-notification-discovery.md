@@ -55,6 +55,8 @@ _This is a work in progress_
 |vre chapter 36|✘|✘|||
 |yellow ribbon |✘|✘||GET /gi/yellow_ribbon_programs|
 
+[_Standard downtime message_](https://github.com/department-of-veterans-affairs/vets-website/blob/f93e0c11d9e037bd2460ede5e2fb4b67fbaaf118/src/platform/monitoring/DowntimeNotification/components/Down.jsx#L22-L26)
+
 ## Notes from discovery 
 
 - Some apps like the profile page can function without all of their services available 
