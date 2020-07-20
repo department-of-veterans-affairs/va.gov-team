@@ -27,7 +27,8 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-  - **I have started recording. I'd like to confirm: Are you comfortable if I recordmy screen the audio as we talk today?** Yes
+  - **I have started recording. I'd like to confirm: Are you comfortable if I recordmy screen the audio as we talk today?** 
+    > Yes
 
 ## Section 0: Warm-up questions
 Before we look at the website, let’s start with a few warm-up questions.
