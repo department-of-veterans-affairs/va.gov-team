@@ -24,7 +24,7 @@ The goal of this study is to evaluate the nomenclature for the Learning Center a
 
 ## Method
 
-We will be creating 2 hybrid open/closed studies using OptimalSort (links below):
+We will be creating 2 hybrid, unmoderated studies using OptimalSort (links below):
 
 1. One to evaluate topic labels
 2. One to evaluate audience labels
