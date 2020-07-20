@@ -81,6 +81,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [COVID-19 Chatbot](#covid-19-chatbot)
     - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery)
     - [COVID-19 Screener](#covid-19-screener)
+    - [VA Medical Sites](#va-medical-sites)
     - [New Project Name](#new-project-name)
       - [Open issues](#open-issues-3)
 
@@ -950,16 +951,27 @@ Back to [Table of Contents](#table-of-contents)
 ---
 ### COVID-19 Screener
 
-**Audit status:** _VSP audited in production, June 2020_<br/>
+**Audit status:** _VSA audited in production, June 2020_<br/>
 **Open issues**
 
-- [[FOCUS MANAGEMENT]: Focus SHOULD move to the next question after selecting Yes or No - #9967(https://github.com/department-of-veterans-affairs/va.gov-team/issues/9967)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[FOCUS MANAGEMENT]: Focus SHOULD move to the next question after selecting Yes or No - #9967](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9967)<br/>**Staging** | **Opened:** June 8, 2020 | **Severity:** _508-defect-2 - **Serious**_
 - [A11y: Android - Bulleted list is not read by Talk Back - #10998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10998)<br/>
 **Opened:** July 8, 2020
 - [A11y-Should: Semantic markup changes to form input - #9606](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9606)<br/>
 **Opened:** May 28, 2020
 - [A11y-Must: Add whitespace above H1 - #9600](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9600)<br/>
 **Opened:** May 28, 2020
+  
+Back to [Table of Contents](#table-of-contents)
+
+---
+### VA Medical Sites
+
+**Audit status:** _VSA working with VAMC team_<br/>
+**Open issues**
+
+- [[SEMANTIC MARKUP]: Links SHOULD not have title attributes - #11157](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11157)<br/>**Staging** | **Opened:** July 13, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [IN-PROGRESS 508-defect-3 [SCREENREADER]: Directions links SHOULD include sr-only text to indicate specific location - #11151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11151)<br/>**Staging** | **Opened:** July 10, 2020 | **Severity:** _508-defect-2 - **Serious**_
   
 Back to [Table of Contents](#table-of-contents)
 
