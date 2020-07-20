@@ -11,7 +11,7 @@ The tool will be adding an 'All urgent care' default option to the 'Choose a ser
 
 The goal of this study was to: 
 - Understand how an 'All urgent care' option might influence the way a user searches for urgent care
-- Validate or invalidate the usability of new facility locator search results designs
+- Determine whether or not the new design support users in understanding all of the urgent care options available to them
 
 Prior to the study, we hypothesized that:
 - Veterans will understand how to find an urgent care location.
