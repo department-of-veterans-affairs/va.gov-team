@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg
 **Last Updated:** May 26 2020  
-**Status:** **Draft** | In Review | Approved
+**Status:** Draft | **In Review** | Approved
 **Approvers:** Dror Matalon [], Andrew Gunsch [], Rian Fowler [], Steve Wirt []
 
 ## Table of Contents
