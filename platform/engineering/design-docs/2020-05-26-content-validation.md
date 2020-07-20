@@ -25,6 +25,11 @@
   - [High Level Design](#high-level-design)
   - [Specifics](#specifics)
     - [Detailed Design](#detailed-design)
+      - [New build script to supplement existing build script](#new-build-script-to-supplement-existing-build-script)
+      - [Reuse existing `check-broken-link` plugin in new build script](#reuse-existing-check-broken-link-plugin-in-new-build-script)
+      - [New script to run the accessibility tests](#new-script-to-run-the-accessibility-tests)
+      - [New report of invalid content](#new-report-of-invalid-content)
+      - [New scheduled job in Jenkins](#new-scheduled-job-in-jenkins)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
       - [Local](#local)
@@ -97,7 +102,7 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
-If there are broken links, they are displayed in the build log, and the `glean-broken-links` script outputs a CSV file. That CSV file is then sent to #cms-team channel via a Slack notification.
+If there are broken links, the `glean-broken-links` script displays the broken links in the build log in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
 
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
@@ -110,11 +115,11 @@ Link checking was also added to the CMS. That means every time a node is saved, 
 Code Path for the `check-broken-links` Metalsmith plugin
 
 1. `package.json`’s `build-content` script gets called
-1. `script/build-content.js` calls the build script for Metalsmith
-1. `src/site/stages/build/index.js` calls the `check-broken-links` plugin
-1. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
-1. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
-1. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
+2. `script/build-content.js` calls the build script for Metalsmith
+3. `src/site/stages/build/index.js` calls the `check-broken-links` plugin
+4. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
+5. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
+6. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
 
 ![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
@@ -167,15 +172,44 @@ If invalid content is breaking the production build, and therefore blocking the 
 
 Once the [build separation work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2719) is complete, there will be separate content and application builds. These distinct builds will prevent failures in one from blocking deployments to the other.
 
-The Metalsmith static content build will be extracted to the `content-build` repo and deleted from the `vets-website` repo and `vets-website` deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
+The Metalsmith static content build will be extracted to the `content-build` repo and deleted from the `vets-website` repo and deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
 
 The validation of static content will take place in a scheduled job that runs every workday, instead of happening as part of the full deploy. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
+
+For content writers, this approach preserves their ability to quickly draft, publish, and deploy content. And the improved reporting will make it easier for them to pinpoint errors. The downside of this approach is that content writers still won't have a proactive way to fully validate their content.
+
+For the Frontend Tools team, this approach will reduce noise in the application build logs, and eliminate a source of failed application builds. Eliminating a source of failed application builds means the Frontend Tools team will have to spend less time manually triaging failed application builds, which will give the team more bandwidth to work on other priorities.
+
+For anybody trying to ship code for the VA.gov front end, this approach will eliminate a source of failed application builds, which should allow them to ship code faster.
+
+For VA.gov users, this approach will continue allowing users to quickly see updated content. The downside of this approach for VA.gov users is that it won't eliminate existing opportunities for users to see invalid content. Fortunately, the improved error reporting should allow content writers to easily identify, remedy, and deploy valid content, which should minimize the user's chance of encountering invalid content.
+
+In summary, this approach will have the following impact for the following groups:
+
+- **Content Writers**: Improve error reporting while maintaining current convenience
+- **Frontend Tools team**: Reduce build noise, failure rate, and number of builds requiring manual intervention
+- **VA.gov users**: Maintain existing time to see updated content and risk of seeing invalid content
+- **Anybody trying to ship code for the VA.gov front end**: Reduce failed deploys which should allow them to ship faster
 
 ## Specifics
 
 ### Detailed Design
 
-Using the current content build script as a reference, we will write another build script that only includes the steps necessary for the content validation. We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today.
+#### New build script to supplement existing build script
+
+Before axe and broken link checks can be run, the content needs to be built. A new build script will be created to supplement the existing build script. The new build script will be derived from the existing script, and modified to only include the steps necessary for the content validation. Since the existing build script uses Metalsmith, the new build script will also use Metalsmith.
+
+#### Reuse existing `check-broken-link` plugin in new build script
+
+We will reuse the existing `check-broken-link` Metalsmith plugin in the new build script.
+
+#### New script to run the accessibility tests
+
+#### New report of invalid content
+
+#### New scheduled job in Jenkins
+
+We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today.
 
 Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight.
 
