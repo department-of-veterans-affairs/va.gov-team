@@ -4,6 +4,7 @@
 ## What I Did
 - Reached out to Lauren Alexanderson
   - There is no current documented process for conducting unmoderated research on the VSA contract and there have only been a couple of unmoderated studies performed
+  - Unmoderated studies are not in our Perigean contract, so they are not a regular part of the VSA research process
 - Create Research Plan
   - Followed the template as provided in the VSA Research documentation
 - Create the Card Sort in OptimalSort
