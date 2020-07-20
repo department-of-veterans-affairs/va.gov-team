@@ -92,13 +92,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
-### Automation
-- [[CI/CD]: CONSIDER updating the axe-core library to version 3.x.x for our automated accessibility tests - #8941](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8941)<br/>
-**Production** | **Opened:** May 8, 2020
-
-Back to [Table of Contents](#table-of-contents)
-
----
 ### Design System
 
 **Maintainer:** VSP<br/>
