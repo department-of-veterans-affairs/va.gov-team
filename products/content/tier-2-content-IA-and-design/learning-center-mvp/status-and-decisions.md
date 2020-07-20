@@ -8,15 +8,27 @@ Summary of roadmap sessions with CMS team (Kevin, Steve, Clarence, Oksana, Jeff 
 __Decisions - Q3 CMS product prioritization__
 
 Facilities:
+
 1. Delivery points (aka addresses and hours)	- Facilities	- Target: Aug/Sept
 
 Learning Center:
+
 2. Multiple FAQs template	- 	Public Websites	 - Target: 9/22 (Sept)
+
 3. About template - 	Public Websites	- Target:  9/22 (Sept)
+
 4. Process list update to include screenshots	- 	Public Websites	- Target: 9/22 (Sept)
-5. Learning Center Home	- Public Websites	- Target Sept
+
+5. Learning Center Home	- Public Websites	- Target: Sept
+
 6. Audience, topic, LC taxonomy	-	Public Websites	- Target: Sept
+
 7. Make FAQs in the CMS reusable: COPE in Drupal	- Public Websites	- Target: Sept
+
+__MVP launch of learning center__
+- MVP content: VA account and profile articles
+- MVP templates: About, FAQs, Step-by-step's
+- Target launch eta: Oct/Nov
 
 __Status:__
 
