@@ -376,7 +376,7 @@ Form 22-10203
   - Line 2 { text field, prefill if present }
   - City (*Required) { text field, prefill if present }
   - State (*Required) { dropdown with full state names, prefill if present } 
-  - Postal code (*Required) { text field, zip validation (5 digit string), prefill if present }
+  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }
         
 ##### Other contact information { sub-head }  
 
