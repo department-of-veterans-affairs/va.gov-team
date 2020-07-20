@@ -2,6 +2,31 @@
 
 ## mm/dd/yy
 
+## 07/20/20
+Summary of roadmap sessions with CMS team (Kevin, Steve, Clarence, Oksana, Jeff Barnes); Jen Lee (PW); and Dave Conlon (VAMC Upgrade+Facilities)
+
+__Decisions - Q3 CMS product prioritization__
+
+Facilities:
+1. Delivery points (aka addresses and hours)	- Facilities	- Target: Aug/Sept
+
+Learning Center:
+2. Multiple FAQs template	- 	Public Websites	 - Target: 9/22 (Sept)
+3. About template - 	Public Websites	- Target:  9/22 (Sept)
+4. Process list update to include screenshots	- 	Public Websites	- Target: 9/22 (Sept)
+5. Learning Center Home	- Public Websites	- Target Sept
+6. Audience, topic, LC taxonomy	-	Public Websites	- Target: Sept
+7. Make FAQs in the CMS reusable: COPE in Drupal	- Public Websites	- Target: Sept
+
+__Status:__
+
+- CMS team will work on #s 2-4 during sprint 11; and prepare for #7, in sprint 12. 
+
+__Other:__
+- PW team will have a FE technical discovery to get ready for working with the CMS team on the above Q3 LC deliverables. 
+- PW user research on prototype is in flight to begin Aug 3.
+
+
 ## 07/07/2020
 
 Summary of meeting between Jen Lee, Beth Potts, Danielle Thierry, and Liz Lantz to sync on research plan for MVP usability testing.
