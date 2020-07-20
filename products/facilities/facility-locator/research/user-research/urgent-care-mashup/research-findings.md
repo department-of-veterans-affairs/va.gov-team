@@ -6,7 +6,11 @@ Leyda Hughes (leyda.hughes@adhocteam.us), 07/20/2020
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-plan.md).
 ## Research Goals 
 
-...
+Today, when a Veteran uses VA.gov's Facility Locator to find an urgent care locations, they must choose between 'VA urgent care' or 'Community urgent care providers (in VA’s network)' individually to see all of the options available to them. When users choose 'Community urgent care providers (in VA’s network)', the page displays an alert banner notifying them about VA's community urgent care benefit. 
+
+The tool will be adding an 'All urgent care' default option the 'Choose a service type' menu so that users can see all options available to them in one list simultaneously. In making this change, the page will need to find a new way to alert users of VA's community urgent care benefit.
+
+The goal of this study is to validate the usability and design of new facility locator search result cards which combine VA urgent care and community urgent care service types.
 
 ## Research Methodology 
 
