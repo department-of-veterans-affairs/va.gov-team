@@ -124,7 +124,12 @@ Strategy to be drafted here based on https://github.com/department-of-veterans-a
   - tbd
 - *What date will you reflect on success/lessons learned after launch?*
   - 
-  
+
+## CMS Team Discovery (Links)
+- [Backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/1475) created here, ready for grooming/estimating by team (note: more accurate than our original high level product estimates provided a couple weeks ago, and  be believe lower!).
+-
+
+
 ---
 
 ### Status & Decisions
