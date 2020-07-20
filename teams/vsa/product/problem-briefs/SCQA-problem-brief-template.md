@@ -37,7 +37,7 @@ We need to write things down. We need to take the time to document our thoughts 
 
 When I might write a problem brief:
 - Tackling large submission payloads and its impacts on VA.gov forms
-- Addressing accessibility across multiple 
+- Addressing accessibility across multiple teams
 - Improving how your team intakes requests
 - Decreasing the time it takes for content to be published on VA.gov
 
