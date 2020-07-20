@@ -58,8 +58,10 @@ Go to: [Schedule and View VA Appointments](https://www.va.gov/health-care/schedu
 - Can you log in to your account from here? 
   > Logs in through myhealthevet.
 - Follow up questions, once logged in:
-  - Have you seen or used this tool before? It is asking me to verify so I will get a text. It just arrived. It looks like I am logged in now.
-    - Can you tell me what happened? It brought me back to the same page. I see where I can go to my va appointments, it’s the appointment tool. 
+  - Have you seen or used this tool before? 
+    > It is asking me to verify so I will get a text. It just arrived. It looks like I am logged in now.
+    - Can you tell me what happened? 
+      > It brought me back to the same page. I see where I can go to my va appointments, it’s the appointment tool. 
 
 ## Section 2: Appointments list
 We're going to take a look at your Appointments list. Don't worry if you haven't seen this before. We want to get your feedback on it. 
