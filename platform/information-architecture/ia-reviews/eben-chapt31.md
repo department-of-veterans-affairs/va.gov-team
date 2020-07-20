@@ -63,7 +63,10 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 - form wizard - routes to chapt 36 or 31
 - discussed the different scenarios of the wizard resultingin links versus buttons
 - using similar wizard on ch 36 form, will usability test the call-outs vs buttons to ensure users know what is expected of them next
+- have feedback on the purpose of the wizard here - validating eligibility versus routing to correct form
+- IA feedback documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/11441
 
-** - Kick-off**
+
+**5/8/2020 - Kick-off**
 -
 
