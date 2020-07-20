@@ -24,7 +24,7 @@ You see a problem. Perhaps it’s a problem you face or it’s a problem that af
 
 But, you don’t always see improvement.
 
-One reason is we only address surface-level problems. This may be because resources are easier to come by for “simpler” solutions. Another reason is that as our orgs (DEPO, VSA, Platform, etc.) scale, issues affect more than just you or your team.
+One reason is we only tackle surface-level problems. This may be because resources are easier to come by for “simpler” solutions. Another reason is that as our orgs (DEPO, VSA, Platform, etc.) scale, issues affect more than just you or your team.
 
 This takes time and energy implementing idea after idea. Not to mention, there are likely a lot of other problems the org must prioritize against, which makes convincing others an uphill climb.
 
