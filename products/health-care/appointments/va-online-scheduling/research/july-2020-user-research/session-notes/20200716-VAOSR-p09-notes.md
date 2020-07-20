@@ -138,10 +138,9 @@ Before we look at the prototype, let's start with a few questions:
 - [EC subway map](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/424141776) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
   - Based on your task: making an appointment to be seen for a bothersome cough *today*, would you continue with this request? 
-    I would check yes and click continue. Now it allows me to submit the screening request. It provides choices that I can explain what is going on with me, it is a cough without shortness of breath. I checked that, (reading page). I think I would be able to fill in my appointment now then I would request the screening. Sometime between the provided times I would get a call back.
+    > I would check yes and click continue. Now it allows me to submit the screening request. It provides choices that I can explain what is going on with me, it is a cough without shortness of breath. I checked that, (reading page). I think I would be able to fill in my appointment now then I would request the screening. Sometime between the provided times I would get a call back.
     - Why / why not?
     - Do the options at the bottom make sense?
-
 - [EC form screen](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/422011178) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
   - Probe: You have a bothersome cough, which option would you choose? 
