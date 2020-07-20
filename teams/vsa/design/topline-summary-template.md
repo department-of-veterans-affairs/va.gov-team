@@ -48,17 +48,13 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Other Findings
 **Finding**
 - Answer
-> “Quote if applicable"
 
 **Finding**
 - Answer
-> “Quote if applicable"
 
 **Finding**
 - Answer
-> “Quote if applicable"
 
 **Finding**
 - Answer
-> “Quote if applicable"
 
