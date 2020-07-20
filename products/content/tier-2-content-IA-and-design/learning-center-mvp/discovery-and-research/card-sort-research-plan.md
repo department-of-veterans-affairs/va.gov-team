@@ -1,6 +1,10 @@
 # Research Plan for Learning Center MVP:  Card Sort
 
-Liz Lantz, Public Websites, July 20, 2020
+**---- DRAFT ----**
+
+
+
+Liz Lantz, Public Websites, July 2020
 
 ## Goals
 
