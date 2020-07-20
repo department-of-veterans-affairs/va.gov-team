@@ -2,6 +2,21 @@
 
 ## mm/dd/yy
 
+## 07/07/2020
+
+Summary of meeting between Jen Lee, Beth Potts, Danielle Thierry, and Liz Lantz to sync on research plan for MVP usability testing.
+
+Discussed card sort, GH issues [#10432](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10432#issuecomment-654412613) (responses captured in issue), [#10777](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10777), [#10775](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10775), [#10778](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10778), and reviewed conversation guide.  Re-ordered tasks based on conversation.
+
+**Decisions**
+
+- Determined we want to do **one unmoderated hybrid card sort** with two participant groups to test audience labels
+  - Group 1: Veterans, family members, caregivers. Looking into whether or not we can recruit through Perigean for unmoderated card sort
+  - Group 2: Content authors. Jen will coordinate recruiting efforts w/ VHA, VBA, NCA contacts and SMEs
+  - Danielle to possibly refine audience labels and get back to Liz with any changes
+  - Jen will start list of articles but wants it to be a team effort
+- We will prioritize the prototype usability study over the card sort
+
 ## 06/30/2020
 
 Summary of meeting between Jen Lee, Beth Potts, Danielle Thierry, and Liz Lantz to sync on research plan for MVP usability testing.

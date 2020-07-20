@@ -91,6 +91,10 @@ Barrier: the authentication and login process henders Veterans from using MyHeal
 
 ## Actionable Recommendations
 
+**Observe clinicians**
+- With COVID-19 as a blocker, how can we shadow clinics?
+- Is it possible to sit in on tele-health visits?
+
 **Identify new patient forms for primary care**
 - As a new patient, you fill out your full health history
 - How can we get physical copies of these forms?

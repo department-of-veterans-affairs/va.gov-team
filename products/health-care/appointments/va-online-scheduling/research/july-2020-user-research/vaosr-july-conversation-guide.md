@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
+*Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
 *Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
 
@@ -76,7 +76,7 @@ We're going to take a look at your Appointments list. Don't worry if you haven't
     - What do you like about it?
     - What don't you like about it? Is there anything that you find confusing?
     - Is there anything that you think may be missing?
-- Appointment list: Talk to me about how appointments displayed. 
+- [Appointment list] Let's take a look at the appointment list. 
   - Prompts:
     - What do you think about the order of your appointments?
     - Can you find past appointments on this page?
@@ -105,8 +105,8 @@ Next, we're going to use the tool to schedule an appointment. Don't worry if you
   - *Select a location page*
     - If a user is registered at 2+ VAMCs, ask: do you recognize these locations in the list? Do you know what it means?
     - If a user is registered at 1 VAMC, ask: does this option make sense to you? Do you know what it means?
-  - *If user ends process, indicate where and why*
-    - Why weren't you able to complete your task?
+- Were you able to complete the task?
+  - Why / Why not?
     - What would have made you able to schedule your appointment today?
 - Is there anything else you'd like to share about this page?
 
@@ -120,7 +120,7 @@ Next, we're going to try to cancel an appointment using this tool.
     - No problem! Let's pretend that you want to cancel and walk through the process OR cancel the appointment request you made, if you don't need it.
 - From this page [online scheduling tool], do you see anywhere to cancel an appointment? 
   - Walk me through how you'd cancel this appointment
-  - Click cancel, what happens?
+    - Click cancel, what happens?
   - If cannot cancel online:
     - What do you think of this?
     - What would you do next?
@@ -152,24 +152,34 @@ Before we look at the prototype, let's start with a few questions:
 
 Now we're going to look at a prototype: [Express Care Prototype](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens)
 
-- [EC landing page] Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC landing page](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
-- Imagine you want to make an appointment to be seen for something *today*, how would you make an appointment for that? 
+- Imagine you want to make an appointment to be seen for a bothersome cough *today*, how would you make an appointment for that? 
   - Is that what you expected to happen? 
     - Why / why not?
-- [EC subway map] Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC request / consent landing page](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/422011177) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
-  - Based on your task: making an appointment to be seen for something *today*, would you continue with this request?
+  - Is that what you expected to happen? 
     - Why / why not?
-- [EC form request screen] Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC subway map](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/424141776) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
+  - Based on your task: making an appointment to be seen for a bothersome cough *today*, would you continue with this request?
+    - Why / why not?
+    - Do the options at the bottom make sense?
+- [EC form screen](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/422011178) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+  - Probe: What does / doesn't make sense?
+  - Probe: You have a bothersome cough, which option would you choose? 
   - What do you think will happen once you submit this form?
-  - Prompt if necessary: Does "request a phone screening" meet your expectations for making a same-day urgent Telehealth appointment?
-- [EC confirmation screen] Do you think you will get a call back *today*?
-  - What if you specify a "best times for VA to call" window?
-- Is there anything else you'd like to share about this?
+- [EC confirmation screen](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/422011179) Do you think you will get a call back *today*?
+  - Probe: Does "request a phone screening" meet your expectations for making a same-day, urgent Telehealth appointment?
+- [EC screening view](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens/422133094) What do you think will happen if you click "View Express Care Screening"?
+  - *After going to EC Appointments Page View* Probe: Is this what you expected to see?
+    - Why / Why not?
+  - Probe: Did you notice the different statuses? 
+    - What do they mean to you?
+- (Optional) Is there anything else you'd like to share about this?
 
-## Section 4: Closing Interview - 5 minutes
+## Section 6: Closing Interview - 5 minutes
 
 - In the future, will you continue using or try to schedule a VA medical appointment using VA.gov?
   - Why / why not?

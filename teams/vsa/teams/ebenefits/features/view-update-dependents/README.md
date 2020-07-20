@@ -127,38 +127,43 @@ A [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/
 ## OKRs & KPIs
 
 ## KPIs
-- Page views on Manage Dependents [unauthenticated] content (input KPI)
 
-- Time to complete 686 (input KPI)
+Current
+- Page views on Manage Dependents [unauthenticated](https://www.va.gov/disability/add-remove-dependent/) content (input KPI)
+
 - Successful application submissions (input KPI)
-
 - Number of auto-approved applications by Rules Based Processing Service (RBPS) (input KPI)
 - Time to manually process submissions (input KPI)
 - % of Dependency Claims that go thru RBPS / manual processing (input KPI)
 
-- Number of Dependency Claims processed within 90 days of submission regardless of approval method (North Star Metric)
+Future
+- Time to complete 686 (input KPI)  
+- % of submitted vs. draft RBPS submissions 
+
+North Star Metric
+- Number of Dependency Claims processed within _n_ days of submission regardless of approval method
 
 ### Baselines
 - tbd
 
 ## OKRs
 
-**Objective 1:** Greater number of Veterans applying to get benefits associated with their dependents.
-- Key Results 1: Data shows the number of views of the 686 application has increased since migration; statistically significant increase in traffic
-- Key Results 2: Data shows more applications are being successfully submitted; statistaclly significant increase in number of approved submissions 
+**Objective 1:** Greater discoverability and number of Veterans applying to get benefits associated with their dependents.
+- Key Results 1: Data shows the **number of views of the [686 benefit hub page](https://www.va.gov/disability/add-remove-dependent/) has increased since migration**; statistically significant increase in traffic
+- Key Results 2: Data shows **more applications are being successfully submitted**; statistaclly significant increase in number of approved submissions 
 
 **Objective 2:** Faster delivery of benefits obtained for the Veteran.
-- KR1: Data shows that more 686 applications are being automatically approved within the Rules Based Processing Service; RBPS is automatically processing statistically significantly more 686 applications 
-- KR2: Data shows that the new 686 user experience within VA.gov results in a faster fill out time compared to the eBenefits portal
+- KR1: Data shows that **more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS)**; RBPS is automatically processing statistically significantly more 686 applications 
+- KR2: Data shows a **decrease in time to manually approval of 686 forms** upon submission compared to previous instance (Paul Schute)
+- KR3: **Increase ratio of RBPS submissions / submissions sent to manual processing** 
 
-**Objective 3:** Increased conversion rate of successful, automatically approved forms.
-- KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
-- KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
+**[Future] Objective 3:** <discoverability>
+- KR1: 
+  
+**[Future] Faster time to Manage Dependents (i.e. complete form)**
+- KR1: Data shows that the **new 686 user experience within VA.gov results in a faster fill out time** compared to the eBenefits portal
+ - broken down time by workflow/need (e.g. new child vs. divorce)
 
-### Notes - WIP  
-**Objective:** Convert more through RBPS  
-**Objective:** Enhance communication between form and Veteran  
-**Objective:** Change structure to allow for minimal Veteran overhead/ impact  
 
 Communication
 - there's a discoverability aspect to this; how are we effectively communicating what's needed and when
@@ -177,6 +182,13 @@ TBD after launch
 ## Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+- Dependency claims will live at root of va.gov/ which means...
+- eBenefits marketing/messaging about new url
+- Eventual redirects from eBenefits (triggered by safe roll-out)
+- On-site Search Top Recommendations update?
+  - "dependents" "dependency" "children" "spouse" "death" "divorce"
+- Redirect https://www.va.gov/disability/add-remove-dependent to the _new_ root url for Dependency Claims to capture accrued SEO value
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*

@@ -1,6 +1,4 @@
 
-*DRAFT IN PROGRESS*
-
 # Word List
 
 The words on this list are relevant to the Veteran-facing Services Platform (VSP) team and require clarification so we are consistent in our documentation. Some possible reasons for a word being on this list include:
@@ -140,6 +138,10 @@ Feature toggles are used to manage unreleased features in a continuous integrati
 ### flipper
 
 Use feature toggle instead of flipper. See [feature toggle](#feature-toggle).
+
+### Forms Library
+OK to use as shorthand version of VA.gov Forms Library when context makes it clear that you are writing about developing for VA.gov.
+
 
 ### Formation Design System
 Do not use. We are moving away from the name “Formation.” You may still see it in documents and code, but use VA.gov Design System when updating and creating new docs.
@@ -417,14 +419,6 @@ When describing the applications, products and services created by VFS teams, ca
 Write as shown the first time you use it. OK to use just VSP in subsequent referencecs. Don’t write “the platform” when you mean “VSP.”
 
 VSP is the core contracting mechanism and team associated with building and running [DEPO platform](#depo-platform) services, technology, and applications.
-
-
-### Veteran-facing Services Applications (VSA)
-OK to just write as VSA. 
-
-[VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa) is a specific Veteran-facing Services (VFS) contract that includes many teams.
-
-
 
 ## W
 

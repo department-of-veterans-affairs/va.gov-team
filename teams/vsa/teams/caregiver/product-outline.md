@@ -79,9 +79,11 @@ As a caregiver or veteran, it would be easier to apply for the Program of Compre
 ## KPIs and OKRs
 
 ### KPIs
-- How many applications are submitted
+- How many applications are submitted (harder to find)
 - How many applications are submitted online
-- How many applications are successful vs. unsuccessful
+- How many online applications are successful vs. unsuccessful
+- Why applications are unsuccesful (for failures, what triggered them)
+- Average time to complete (online application)
 - Qualitative metrics on the application process and overall experience
 - Customer satisfaction (application process, caregiver program in general, etc.)
 - Call Center reports

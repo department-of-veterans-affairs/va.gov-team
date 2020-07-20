@@ -3,14 +3,14 @@ name: Project Kickoff
 about: Request to Schedule a Project Kickoff 
 title: Project Kickoff [Feature-Name]
 labels: product support, content-ia-team, collaboration-cycle
-assignees: andreahewitt-odd, meganhkelley
+assignees: mandifrances
 
 ---
 
 ## Steps to complete Project Kickoff
 - [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt @ Mandi Lipka
-- [ ] Andrea and Megan will schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ AndreaHewitt @ Mandi Lipka
+- [ ] Mandi will schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] VSP <> **requesting team** kickoff meeting completed
 - [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 

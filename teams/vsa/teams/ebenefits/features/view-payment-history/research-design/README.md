@@ -33,6 +33,14 @@
 ---
 
 ### Mockups Changelog
+**July 9, 2020**
+- Returned payments table has "final" colums/headers
+- Long months abbreviated per guidance [here](https://design.va.gov/content-style-guide/dates-and-numbers)
+- Border-bottom added to desktop table
+- Border-top added to mobile view
+- Mobile view data right-aligned with border-top and -bottom
+- Mobile view date has font changed to match "row" headers (Source-Sans, Bold)
+
 **July 2, 2020**
 - Mobile view of tables revised to "un-bold" data 
 

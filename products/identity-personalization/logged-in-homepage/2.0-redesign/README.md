@@ -1,5 +1,7 @@
 # Product Outline: Logged-in homepage redesign (Dashboard 2.0)
 
+Last updated July 17, 2020
+
 ## Communications
 
 - **GitHub Label**: vsa-authenticated-exp; personalization-2.0; auth-homepage; My VA
@@ -11,9 +13,10 @@
 |----|----|-----|
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
-|Liz Lantz |Designer| liz.lantz@adhocteam.us |
+|Liz Lantz |Discovery researcher| liz.lantz@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Sandra Hallie| Designer|	shallie@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
 |Jennifer Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
@@ -27,9 +30,7 @@
 - [Business Goals](#business-goals)
 - [Assumptions](#assumptions)
 - [Questions](#questions)
-- [Solution Approach](#solution-approach)
-- [OKRs](#okrs)
-- [KPIs](#kpis)
+- [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
 - [Solution Narrative](#solution-narrative)
@@ -148,33 +149,11 @@ Additionally:
 - Navigation work.
 - Notification center work.
 
-## OKRs
+## OKRs & KPIs
 
-Objective: Create a usable/scalable landing pad for users (ie. logged-in homepage) where they can manage their tools/tasks in once place
+Work in progress can be found here
 
-OKR: Increased use of online tools
-- Bet 1: Retire existing My VA dashboard
-- Bet 2: Create adaptable Logged-In homepage to accompany other user roles and permissions once VA.gov is able to support   them.
-- Bet 3: Create personalized experience where tools/tasks most important and relevant to users are on the dashboard.
-
-OKR: Increased satisfaction with logged-in homepage (Forsee data)
-- Bet 1: Elevate contextually relevant information
-- Bet 2: Alert Veterans to benefits they qualify for
-- Bet 3: Updating design patterns to better suite authenticated tools
- 
-OKR: Improved/faster navigation to online tools
-- Bet 1: Provide personalized tasks/tools 
-
-## KPIs
-“% (or #?) of authenticated users who completed at least 3 transactions/conversions against a self-service tool in a month”
-
-### Metrics
-- Do more people log in because we've made it easier to navigate VA.gov and their tools?
-- Do we see an increase in accounts created?
-- Do we see an increase in people who verify their identities (LOA3)?
-- Do we see an increase in people routing to tools through the homepage?
-- Do we see a decrease in people calling the call center for information/updates? (Not sure how to measure this)
-- Do we see an increase in overall level of satisfaction with the homepage? (eg. Foresee data)
+https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=1242119200
 
 --- 
 
@@ -199,13 +178,15 @@ OKR: Improved/faster navigation to online tools
 - **April 2020**: DEPO stakeholder interviews complete
 - **May 2020**: Research review, comparative analysis, analytics review, and user research.
 - **June 2020**: Discovery and final readout complete.
+- **July 2020**: Project on hold while we get Profile 2.0 ready for QA and other pre-launch tasks. 
+- **August 2020**: Design onboarding; technical discovery.
 
 ### Key Decisions
 
 ## Discovery
 
-- [Personalization 2.0 discovery write-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
-- Currently, we are undergoing a discovery phase geared more specifically toward how we might approach the homepage redesign. We'll link to those reports here as they're completed.
+- [Personalization 2.0 discovery write-up (2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
+- [Logged-in homepage discovery write-up (Spring 2020)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/discovery-summary.md)
 
 ## Development
 

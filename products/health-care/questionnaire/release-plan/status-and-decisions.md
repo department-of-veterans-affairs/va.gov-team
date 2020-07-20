@@ -3,10 +3,99 @@
 
 # Status and decisions:
 
-### [Healthcare - Experience Milestones: June- Dec 2020 Mural Calendar View](https://app.mural.co/t/vsa8243/m/vsa8243/1592937290316/886878be0adf589e169fa094f913df80c010e2b4) 
+> [Roadmap Release Plan Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md)
 
 
 <details> <summary> July 2020</summary>
+
+## July 24th, 2020
+
+--
+
+## July 17th, 2020
+
+**Status**
+Product
+- [Sprint 25 Retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-25.md) 
+- [Sprint 25 Report Documented](https://docs.google.com/document/d/1C2xk9RDz7pBiKiJwS-6qHxE_AAg677vLSSZTemUUtac/edit?usp=sharing)
+- [Sprint 26 Priority Planning](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11032) 
+- Completed [Team Mission/Vision - North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#team-mission-statement) in the Team Charter 
+- Received [Clinical Reminders documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/feature-documentation/clinical-reminders) that Nursing typically interviews Veteran at start of visits. 
+	- Created [Clinical Reminders Initiative Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) to start Epic and User Story for feature capabilities. 
+- Notes from [Stakeholder interview Sharon Tapia, RN @Loma Linda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/sharon-tapia.md) 
+- Created Roadmap Planning docs (template at this point until scope is determined)
+	- [Roadmap Release Plan Overview and Supporting Links ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/README.md) 
+	- [Created Quarterly Sprint Planning Priorities doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/quarterly-sprint-planning.md) created to build out our roadmap and quarterly release strategy
+
+
+
+Research and Design
+- Healthcare team presented for the first time at Design Collaboration and [Sprint 25 Demo for research findings/recommendations](https://docs.google.com/presentation/d/1Rd-HzsKXc6I4Py9kA9y4tcMWUlAggL4SXFd-32Kxsrg/edit#slide=id.p1) 
+-  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and presented by Aricka
+- - [Created Personas Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/discovery-personas.md) to be used throughout design and development specific to the healthcare/questionnaires workflow
+- Created [Interview Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/clinician-questions.md) and [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/research-plan.md) for Stakeholder sessions
+
+Engineering
+- Created a prototype with the forms library to demonstrate unauthenticated questions answered then passing through data to authenticated forms entry where pre-populated information can be viewed.
+- Laurence Guild, BE engineer started on the team and is completing onboarding
+
+**Next Step/Followup**
+	- Start to build Epics from stakeholder interview
+	- Engineering to research API/interface feeds into EHR's and the MPI 
+
+**Decisions:**
+-   none this week
+
+**Blockers:**
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Lauren and Lacey have met with clinical teams that will provide us the "standard ~15 forms"
+
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
+
+
+## July 10th, 2020
+
+**Status**
+- Monday 6th, Aricka published the [Discovery Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-findings.md) including key findings and recommendations with actionable next steps.
+
+-  [Mural collaboration exercise](https://app.mural.co/t/vsa8243/m/vsa8243/1594143386954/c8c3a641465deb6789687bbfd52d70ac8d642399) to get input into the [Team Mission and North Star Statements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/mission-statement.md)
+-  Received Surveys Documentation 
+	-  [SHEP Survey home page](http://vaww.car.rtp.med.va.gov/programs/shep/shep.aspx) | [SHEP Questionnaires](http://vaww.car.rtp.med.va.gov/programs/shep/shepReportsSHEPQuestionnaires.aspx) - must be on VA network
+	- [CMS Patient Experience Surveys](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research/CAHPS)
+		- Consumer Assessment of Healthcare Providers & Systems (CAHPS)  
+			- [CAHPS® Clinician & Group Survey and Instructions](https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/about/cg_3-0_overview.pdf)
+			- Example -  [Outpt. and Amb. Surgery CAHPS](https://oascahps.org/Survey-Materials) - I selected the Mail Questionnaire
+- Thurs 9th, met with DEPO leads (Patrick and Lacey) to request assistance to remove the two blockers below regarding contacts with potential stakeholders/ clinical staff we can interview and current state workflows from OEHRM (for example) for standardization of clinical documentation that may be done to-date.
+-  [Forms Library](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10908) and Authenticated Tech Feasibility/Prototype
+- [Discovery Tech Feasibility doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/technical-feasibility.md) drafted start to fill out based on what is included in your tickets description and acceptance.
+- Started MWF Engineering Sync to go into detail on investigations
+
+- Next Step/Followup:
+	-  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and will be presented by Aricka Tues 14th.
+	- Anticipate receiving forms documents from interview sessions and clinical teams Lacey has reached out to.
+
+**Decisions:**
+-   [Current list of Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/stakeholder-interviews) are VA team members that we will want to interview and review our strategy and product roadmap **but are not decision makers.**
+- UPDATED Decision Maker Stakeholders/SME's
+	- Pacific Region 
+		- Dr. Bryne @LomaLinda
+		- Jemorie & Thandiwe @Pacific Islands Health Systems
+	- Central Region TBD - Patrick identifying opportunities
+	- East Coast Region TBD - Patrick identifying opportunities
+
+**Blockers:**
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
+	- Lacey/ Lauren/Patrick are working on approach for collaboration with the MHV and clinical VHA teams and getting contacts we can reach out to.
+	- Anticipate receiving forms documents from interview sessions and clinical teams Lacey has reached out to. ie. engineering with MHV
+	- Patrick is following up per meeting on the 14th to get documentation or contact we can reach out to 
+
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- _See Decisions section above_ Identified an initial and updated list of stakeholder interviewees and the sessions need to be scheduled.
+	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate an provide us time for interviews and engagement going forward.
+		- Lacey is creating a 1 pager on our product for Patrick to use with these clinical teams.
+
 
 ## July 3rd, 2020
 

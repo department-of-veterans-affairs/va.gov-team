@@ -12,12 +12,20 @@ Many benefit-adjacent tier 2 content are not support/learning/help, product, or 
 
 ## Purpose
 
-The purpose of this template is to enable an easy way for PW content team and VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal. 
+The purpose of this template is to enable an easy way for VA businesses to create and manage this type of content in campaign landing page template in the new CMS, Drupal.   
+
+The CLP is:
+- 1-page that links to deeper content which the already exists in the benefit hubs, in videos on YouTube, at separate VA domains (such as publichealth.va.gov), at other VA online destinations (e.g. blogs, PDF factsheets, outreach library).
+- It is created and maintained by VA business stakeholders at VHA, VBA and other groups, with the hands on production expected to be done by their Web leads (e.g. Webmaster or Web Communications person).
+
+The CLP isn't:
+- A self-contained micro-site with original content, sub-pages, its own navigation
+- A sub-domain
 
 ## Desired User Outcomes
 
-- The primary user(s) of this template -- and CMS functionality -- are the Public Website content team and VA businesses (e.g. VBA Digital Strategy Team) 
-- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination for thematic marketing and public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
+- The primary user(s) of this template -- and CMS functionality -- are the VA businesses (e.g. VBA Digital Strategy Team) 
+- The problem this would solve is to address the demand from the business for a way to more easily, quickly and cost-effectively create a "landing page" destination that supports thematic marketing, public-relations campaigns and initiatives AND/OR to promote [new veteran programs (e.g. Mental Health Awareness Month, PTSD Awareness Month).](https://www.va.gov/QUALITYOFCARE/education/monthly-campaigns.asp)
 
 ## Undesired User Outcomes
 
@@ -84,11 +92,46 @@ Latest Sketch files: https://github.com/department-of-veterans-affairs/va.gov-te
 
 Historical: Invision link (v 0.1) https://vsateams.invisionapp.com/share/PHUPD25QV9J#/screens
 
-## Status/decisions
 
-### 6/25/2020
-The CMS team -- led by Kevin Walsh -- has conducted a preliminary scope assessment of the CLP requirements and provided estimates for resource and time commitment (e.g. 4.5 months for one fully-dedicated CMS developer).  That team is recommending the build of a CMS-based feasibility prototype to demonstrate the 80%/20% principle.
+## MVP features
 
-### 3/10/2020
+### Scope
+- adhering to sunset criteria
 
-Post-initial conversation with Chris Johnston and Dr. Karras-Pilato, meeting set up for 03/23 with Dr. Miller in the OMHSP (Office of Mental Health and Suicide Prevention) to potentially pilot the CLP template. 
+### What's included
+- CLP governance
+  - IA, urls
+  - Primary CTA
+- Default analytics  
+
+### What's not included
+- CLP governance
+  - tbd
+  
+
+
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](#go-to-market-strategy)
+
+Strategy to be drafted here based on https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/content-requirements-spec/content_business_rules.md
+
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you reflect on success/lessons learned after launch?*
+  - 
+
+## CMS Team Discovery (Links)
+- [Proof of concept for editorial experience and content model here.](http://pr2251.ci.cms.va.gov/node/add/campaign_landing_page) You can log in as u:kevin.walsh / p:drupal8 to see this.
+- [Backlog](https://app.zenhub.com/workspaces/vagov-cms-team-5c0e7b864b5806bc2bfc2087/issues/department-of-veterans-affairs/va.gov-cms/1475) created here, ready for grooming/estimating by team (note: more accurate than our original high level product estimates provided a couple weeks ago, and  be believe lower!).
+- [Discovery Mural with screenshots from POC](https://app.mural.co/t/vagov6717/m/vagov6717/1591838049193/415eaeb7a88bc0210575dbea9038f542d193d865) Screenshots added for further clarification of requirements, which would be next steps.
+
+
+---
+
+### Status & Decisions
+- A running tally of project status and decisions is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/campaign-landing-page-templates/status/status_decisions.md)

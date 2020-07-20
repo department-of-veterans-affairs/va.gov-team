@@ -1,6 +1,6 @@
 # Product Outline: Combine Profile and Account (Profile 2.0)
 
-Last Updated July 6, 2020
+Last Updated July 13, 2020
 
 ## Communications
 
@@ -11,7 +11,7 @@ Last Updated July 6, 2020
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|Samara Strauss |DEPO Lead| samara.strauss@va.gov |
 |Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
@@ -130,8 +130,6 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## OKRs & KPIs
 
-WIP
-
 https://docs.google.com/spreadsheets/d/1B6c1rY-1l64cWhHO7D8WjA328zwfdAhSgKkPatIKmts/edit#gid=79350264
 
 ### Objective 
@@ -158,9 +156,22 @@ In 6 months, of ~13K searches for "direct deposit", ~2K are initiated from the a
 - Profile side nav
 - Redesigned visual styles for easier scanning
 
-#### (WIP) Page path for users who update direct deposit should be more direct.
+#### Reduce % of users who visit /account before updating direct deposit from about 33% to 0.
 
-My hypothesis is that users who update direct deposit take an indirect path to get there because some of them end up on the account page before going to the profile (or searching). By combining the profile and account, we should see more direct paths to direct deposit. (Note: need to work with the analytics team to validate this hypothesis and establish this baseline metric).
+Right now, we can see that about 1/3 of users who update their direct deposit information go to the account page before doing so. By combining the profile and account pages, and therefore removing "Account" from the navigation, we can simplify the path to this feature and reduce the number of users who make an extra step before going to the profile from 1/3 of users to 0.
+
+*Reports*
+
+- https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=users8eLcGNEThaF2u2Zmp52Kg,userlR1DzVh0Q_CcZk-CuOS0yA/
+- https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_r.tabId=navigationsummary&_r.drilldown=analytics.pagePath:~2Fprofile~2Findex.html&_.useg=users8eLcGNEThaF2u2Zmp52Kg&navigationsummary-keySelector.searchTerm=~2Fprofile/
+
+*KPI*
+
+- Number of users who visit /account before updating direct deposit
+
+*Bets*
+
+- Combining profile and account
 
 ### Key results — Engagement
 
@@ -197,8 +208,6 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - Profile side nav
 - Redesigned visual styles for easier scanning
 
-#### (Maybe)(Establish baseline metrics for people who interact with the side nav and then update contact info or direct deposit?)
-
 --- 
 
 ## Go-to-market Strategy
@@ -222,6 +231,9 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - **February 2020**: Initial designs completed; beginning copy.
 - **March 2020**: Completing copy, beginning build, conducting user testing.
 - **April 2020**: User testing completed; build in progress.
+- **May 2020**: Build; additional design as needed.
+- **June 2020**: Build; additional design as needed.
+- **July 2020**: Finish build; QA; pre-launch.
 
 ## Solution Narrative
 

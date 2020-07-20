@@ -1,5 +1,32 @@
 # Debt Letters Wireframes
 
+## Jul 10
+Following the discovery of some data constraints, including not being able to link specific VBMS letters to the DMC API's concept of a debt, we created a stepped design plan to release quickly while testing a design we know to be feasible, but requires some collaboration with stakeholders.
+
+### Lowest-complexity for quick release:
+This design includes:
+- Unauthenticated landing page
+- An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order 
+
+![v1.4.1 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.4.1.jpg)
+
+### Mid-complexity:
+These two (stacked) design options include:
+- Unauthenticated landing page
+- **A debt summaries page with high level debt details (Type, date updated, balance, 'why' additional info, (potentially) next step)**
+- An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order 
+
+![v1.4.2 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.4.2.jpg)
+
+### Full design:
+This design includes:
+- Unauthenticated landing page
+- A debt summaries page with high level debt details (Type, date updated, balance, (potentially) next step) 
+- **A debt details page with in-depth debt details (Content about why the debt exists, letter dates and summaries, more debt details)**
+- An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order
+
+![v1.4.3 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.4.3.jpg)
+
 
 ## Jun 10
 Following checkin with DMC:

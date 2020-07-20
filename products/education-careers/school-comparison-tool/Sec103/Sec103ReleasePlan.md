@@ -56,25 +56,23 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Post-launch KPI 3: Google Analytics: Learn more is clicked? Need UX input on this
 - Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
-### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### 1-week results (June 4 - June 11, 2020):
+- Number of unique events: 42
+- Post-launch KPI 1 actual:  100% Compliant with public law
+- Post-launch KPI 2 actual:  51 views of content, 42 unique events. 
+- **Any issues with VA handling/processing?: yes/no, lorem ipsum
+- **Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No
+- If yes, what: NA
 
-### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### 1-month results (June 4 -July 9, 2020):
+- Number of unique users: 179
+- Post-launch KPI 1 actual: 100% Compliant with public law
+- Post-launch KPI 2 actual: 193 views of content, 179 unique events. 
+- **Any issues with VA handling/processing?: yes/no, lorem ipsum
+- **Types of errors logged: lorem ipsum
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? No
+- If yes, what: NA
 
 
 
@@ -83,9 +81,28 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 
 ## Post-launch Questions 
 
-_To be completed once you have gathered your initial set of data, as outlined above._ 
-
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+**Users are actually seeing the content, which is fantastic!** 
+
+
+2. What qualitative feedback have you gathered from users or other stakeholders, if any?
+**We should ask EDU if they've had any feedback on this. Would also be interesting to see if schools have received any feedback on this (maybe EDU can reach out to regional offices to see if they've received and feedback or questions from SCOs on this).**  
+
+3. Which of the assumptions you listed in your product outline were/were not validated? 
+
+Validated: 
+* The team will have access to all the information we need to effectively design & build the indicator
+* Users will notice the 103 indicator (and know how it’s relevant?)
+
+Not Validated: 
+* The files will contain current data and are updated regularly - Development will validate this. 
+* If the situation arises where VA will be late on payments (and Sec 103 is triggered), additional alerts will be provided within VA.gov and in the GIBCT - Could be validated by EDU
+* This is not the sole source of information communication to CH31/33 beneficiaries about 103 & benefit payments - Would require usability testing
+* Users will understand which documents are required for 103 for each compliant institution - Would require usability testing
+* The 103 indicator will prevent the worry and financial challenges experienced by CH31/33 Veterans & beneficiaries in the past - Would require usability testing
+
+4. How might your product evolve now or in the future based on these results?
+If the sitaution arises that VA is late on payments to schools, we'll have a chance to see 
+* If we post an alert about how schools handle payments
+* If views of the 103 content increase
+* If users have questions for VA about the necessary paperwork after viewing the content

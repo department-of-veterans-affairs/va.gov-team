@@ -18,11 +18,17 @@
 [Vet Profile - Samara Strauus](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/vet-profile.md) | Wed Jun 17, 2020 1:30pm – 2:30pm (CDT)
   - Veteran profile- demographics, notifications, preferences, .etc
   
+e-Screening Demo - Jeffrey Hernandez & James Pittman | Monday 6/29 2-3pm cst.
+
+# VA.gov Stakeholder Meetings
   
 [AVS PreVist Summary - Dr. Byrne ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/loma-linda.md) | Thursday, July 2⋅11:30am – 12:30pm (CST)
   - is Internal Medicine and Informatics physician form Loma Linda
 
 [VA Pacific Islands Health Care System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/pacific_islands.md) | Thursday, July 2⋅3:30 – 4:30pm (CST)
+
+[Sharon Tapia, RN LomaLinda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/sharon-tapia.md) | Thursday, July 16th ⋅12:30 – 1:30pm (CST)
+
 
 
 ## To be Scheduled
@@ -50,9 +56,7 @@
   
 - COVID Screener: Patrick Bateman & Martha Wilkes
 
-- eScreening Team: Angela Gant Curtis + others
-
-- From Shane: John Byrne, James Pitman, Kelly Hajerich, Terry Newton
+- From Shane: James Pitman, Kelly Hajerich, Terry Newton
 
 - Dr. Evans
 

@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated April 2020**
+**Last updated July 2020**
 
 ## Where to find us 
 
@@ -34,7 +34,7 @@
 |----|----|
 |[Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
 |[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020|
-|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Build |
-|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Discovery|
+|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | QA; Pre-launch |
+|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Post-discovery; Design ramp-up|
 | Notification center | Not started |
 | [Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Not started |

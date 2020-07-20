@@ -1,13 +1,16 @@
-# Release Plan: View, Add or Modify Dependents (21-686c/674)
+# UAT Release Plan: View, Add or Modify Dependents (21-686c/674)
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
+## Phase I: Moderated Production Testing
 ### Planning:
-- Desired date range or test duration: July 2020 
-- Desired number of users: 20
-- How you'll recruit the right production test users: white list a number of known veterans 
-- How you'll conduct the testing: invite them to fill out the page
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper
+- Desired date range or test duration: **August 2020**  
+- Desired number of users: **Between 4 and 7, but no more than 10**  
+- How you'll recruit the right production test users:  **Whitelist a number of known veterans within Flipper** 
+- How you'll conduct the testing: **Moderated**
+  - **Invite them to fill out the page**
+  - **Monitor available services**
+  - **Gather feedback and address feedback**
+  - **Move to unmoderated or % based release** 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: **Flipper will manage access as the users login**
 
 ### Results:
 - Number of users: x
@@ -17,13 +20,20 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Phase II: unmoderated production testing
-
+## Phase II: Move to Wider Release (Production)
 ### Planning:
-- Desired date range: June 17 - June 30
-- Desired number of unique users: 100
-- How you'll make the product available in production while limiting the # of users who can find/access it: Flipper with monitoring (1% - 0%)
-- "Success" criteria (by the numbers): Converting succesfful submissions, 400 and 500 errors less than 20%, contact center calls less than 5.
+- Desired date range: **Week of August 3, 2020**
+- Desired number of unique users: **100 or 10%, whichever occurs first**
+- How you'll make the product available in production while limiting the # of users who can find/access it: **Use Flipper with monitoring**
+- "Success" criteria (by the numbers): 
+Objective 1: Empower Veterans to update dependents immediately
+Objective 2: Get Veterans the benefits they deserve in hours not months
+  - **Succesful submissions = 10,**
+  - **400 and 500 errors less than 5%, may be subject to change**
+  - **Contact center calls less than 10% for errors,**
+  - **Automatic award adjustment (RBPS) = 1**
+  
+  Notes: What is the baseline for manual approval times and how can we make that better?
 
 ### Results:
 - Number of unique users: x
@@ -33,12 +43,12 @@
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
+<!-- More phases? Plan them out with the same structure as above. -->
 
 ## Go Live!
 
 ### Planning:
-- Desired date: June 30
+- Desired date: July - August 2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
@@ -68,7 +78,6 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 ## Post-launch Questions 
 
 _To be completed once you have gathered your initial set of data, as outlined above._ 
-
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 

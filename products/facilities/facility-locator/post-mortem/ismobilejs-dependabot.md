@@ -4,7 +4,7 @@ Date: 06/29/2020
 
 Authors: Gibran Rodriguez, GCIO
 
-Status: Resolving
+Status: resolved
 
 ## What happened?
 VSP dependabot upgraded a dependecy called ismobilejs used by the facility locator that broke the logic on mobile layouts. The dependecy was upgraded from 0.4.1 to 1.1.1 without the facilty locator team being notified. 

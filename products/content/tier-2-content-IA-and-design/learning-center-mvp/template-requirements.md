@@ -37,11 +37,12 @@ For MVP, we will implement tag filtering by one tag at a time (not combinations 
 
 Topic tags are based on VA.gov benefit hub categories, plus a new category called "VA account and profile." Topic tags don't include "service members" and "family members," because they're covered by the `Audience ` tags. RE how many topic tags to allow - this is TBD. Many VA content authors tend to select things even when it's distantly and irrelevantly related to a thing. (Keywords for forms are an example - where form owners add "health care" as a keyword even to vocational counseling and employee retirement forms. So governance is a concern and potentially enabling white noise/chaos/uselessness through abuse/misuse.)
 
-At minimum - 1 topic tag will be required. This will also drive the minumum required 1 'related benefit hub' link in the `Related information` section. 
+At minimum - 1 primary topic tag will be required. This will also drive the minumum required 1 'related benefit hub' link in the `Related information` section. _TBD how many total topic tags allowed._ 
 
 1. Burials and memorials
 2. Careers and employment
-3. Disability
+3. Decision reviews {added 7/20}
+4. Disability
 4. Education and training
 5. Health care
 6. Housing assistance
@@ -49,6 +50,16 @@ At minimum - 1 topic tag will be required. This will also drive the minumum requ
 8. Pension
 9. Records
 10. VA account and profile
+
+These larger administration topic categories are for content that doesn't fit into one of the neat benefit or service categories above. These were originally incuded in the list of non-beneficiary audience tags, but they're not really audiences; it's meant to signify topic category that's super broad and not a benefit or service. 
+
+Example: VA fiduciaries is an audience type; they work with Veterans on behalf of VA; they are assigned by VA, and they may span multipiple benefits/services, because they're assigned to the Veteran, not to a benefit/service. So for some `fiduciary` audience topics, the content might have the topic tag `Veterans Benefits Administration.`
+
+11. Other?
+- Veterans Benefits Administration
+- Veterans Health Administration
+- National Cemetery Administration
+
 
 
 
@@ -97,9 +108,9 @@ Up to 3 tags can be selected.
 - Lenders, appraisers, and other real estate professionals
 - Veteran service organizations and accredited representatives
 - Clinicians, researchers, and health care workers
-- Veterans Benefits Administration
-- Veterans Health Administration
-- National Cemetery Administration
+- ~Veterans Benefits Administration~ 
+- ~Veterans Health Administration~
+- ~National Cemetery Administration~
 
 
 

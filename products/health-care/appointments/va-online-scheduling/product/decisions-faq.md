@@ -1,4 +1,4 @@
-## Documented Decisions and Frequently Asked Questions
+## Documented Design Decisions & Frequently Asked Questions
 
 ### Why can veterans only self-schedule into clinics that they've been seen at within the last 24 months?
 - Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to veterans, because they're not consistently named in a way that's useful to veterans or even written in plain english.
@@ -139,5 +139,12 @@
 - We realize we’re being conservative in new VAOS, where some available/open self-schedulable clinics are not showing up. It’s a tradeoff, and it’s an experiment. The idea is – if we send you down the request flow, a human can actually help you get routed to a new clinic (and ideally, the right one for your situation). Next time you schedule, that clinic will show up as an option for you.
 - We will want to watch this as part of user feedback and schedule manager feedback as part of new VAOS availability. 
 
-
+### Legacy VAOS used to ask Veterans the following question when making a Community Care request - "How far are you willing to drive?" Why does new VAOSR not ask this question?
+- We removed the question for 3 reasons:
+   1. Veterans expressed during research sessions that they always defaulted to the lowest number when asked that question. 
+   2. Now with the new CCE API, drive-time eligibility is calculated in the background as part of Mission Act, so the question becomes irrelevant.
+   3. Mission Act basis eligibility on minutes (for distance) vs. miles (for distance).
+- CC eligibility takes into account both - the grandfather 40 mile distance eligibility (built into the E&E static codes and carried over from Veterans Choice Program) and drive-time via Mission Act. The grandfather criteria is distance based eligibility in miles. Drive-time eligibility via Mission Act is based on average drive times and calculated in minutes (not miles). That criteria is 30 minutes for PC/MH and 60 minutes for speciality care. Here's a reference to the Community Care Eligibility fact sheet. The CCE API uses both static E&E (which includes this grandfather distance criteria) and drive-time. 
+- A Veteran can be eligible for CC via static codes (such as distance), but not drive-time. Since the static eligibility check is 40 miles or less, that's why we default to 40 miles and do not show the question.
+- Here's a reference to the [Community Care Eligibility fact sheet](https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/VA-FS_CC-Eligibility.pdf). 
 

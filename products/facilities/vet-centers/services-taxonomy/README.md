@@ -2,8 +2,8 @@
 
 ## What we need to do
 
-- Research, design, and write new NCA cemetery services taxonomy
-- Build NCA cemetery services taxonomy in Drupal, and integrate into the Facilities API
+- Research, design, and write new Vet Center service taxonomy
+- Build Vet Center service taxonomy in Drupal, and integrate into the Facilities API
 
 ## Assumptions and early discussions
 

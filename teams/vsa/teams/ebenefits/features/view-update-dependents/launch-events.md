@@ -60,7 +60,7 @@ _May 6 - May 19_
 
 ### Sprint 22 
 _May 20 - June 2_
--  BE: PDF Send to VBMS (1 Sprint) ⏳  
+-  BE: PDF Send to VBMS (1 Sprint) ⏳ ✔
 - FE (new): Veteran Info Review Page ([#8838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8838), [#8829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8829)) ✔
 - FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ✔  
 
@@ -70,21 +70,22 @@ _June 3 - June 16_
 - FE: e2e tests ([#7224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7224), [#7486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7486), [#7487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7487), [#7488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7488), [#7489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7489)) ✔
 - [Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#contact-center-review) 🌀  
 - BE/FE: e2e and load testing with partner systems
-- FE: Confirm Sentry access, enter utility code
-- BE: Payload PR defragmentation
+- FE: Confirm Sentry access, enter utility code [#10535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10535) ✔
 
 ## Sprint 24
 _June 17 - June 30_  
 - FE/BE: Test and implement file upload from the form
-- BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) ⏳ 👈  
-- BE: PDF Fill (multi Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) ⏳ 👈
+- BE: error handling ([#6968](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6968)) ⏳ ✔  
+- BE: PDF Fill (multi Sprint) ([#6469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6469)) ⏳ ✔
 
 
 ## Sprint 25
 _July 1 - July 14_ 
-- BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) 👈
+- FE: Confirm Sentry access, enter utility code [#10535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10535) ✔
+- BE: implement Sidekiq job ([#8762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8762)) ✔
 - BE: submission tested ([#3765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3765)) 👈
-- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) 👈
+- BE: Payload PR defragmentation [#10371](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10371) 👈
+- BE: refactor submission process ([#7726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7726)) ✔
 - BE/FE: v1 code complete
 - [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review) 🌀  
 - [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#privacy-and-security-review) 🌀  

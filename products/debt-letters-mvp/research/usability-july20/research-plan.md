@@ -29,27 +29,32 @@
      - What next steps would Veterans take after viewing the debt list?
      - What do Veterans expect to happen once they click the ‘View debt details’ button?
      - What do they expect to see when they click the ‘View debt details’ button? 
-     - What would Veterans think if a debt disappears from this page?
+     - What would Veterans think if a debt disappeared from this page?
      - Will Veterans expect to see their medical debts as well?
    - Debt Details:
      - Is it clear what’s currently happening with their debt(s) (i.e. holding, referred to ToP, etc.)? 
      - Do Veterans understand why there is sometimes a ‘Next steps’ section and other times Holding or Repayment alerts?
      - What do Veterans expect to happen once a debt is no longer being held?
-     - Are Veterans able to successfully download their letters?
+     - Are Veterans able to locate the link to download their letters?
      - Are Veterans still interested in downloading their letters after viewing what’s currently happening with their debts?
-        - If so, for what purpose(s)?
-     - What information are they looking for within those letters that would be helpful as they navigate their debt?
+        - If so, for what purpose(s)?     
      - What are their next steps after downloading the letters?
      - Are Veterans able to easily navigate back from debt details to debt list?
-     - What do Veterans expect to happen when downloading a debt letter?
      - Are the options available to resolve debts clear? 
      - How do Veterans feel about certain links redirecting them from the tool into Debtman?
      - What do Veterans expect to happen after a debt is resolved?
+   - Debt Download Table:
+     - What do Veterans think about the download table?
+     - How would they find the right letter for a specific debt?
+     - What information are they looking for within those letters that would be helpful as they navigate their debt?
+     - Are Veterans able to navigate back to the debt details or list page?
+     - What do Veterans expect to happen when downloading a debt letter?
+
 
 4. Hypothesis: What is your hypothesis for this research?
 - Veterans will have negative feedback about the debt letters.
-- Veterans will express difficulty in keeping track of their debts.
-- Veterans will expect to see ALL of their debts here, including medical
+- Veterans will express that it is difficult to keep track of their debts.
+- Veterans will expect to see ALL of their debts here, including medical.
 - Veterans will want to know more specifically why they have debts.
 - Veterans will be able to find the debt letter downloads.
 - Veterans will not be interested in downloading the debt letters to understand their debt, but may do so for record keeping.
@@ -59,7 +64,7 @@
 
 ## Method	
 1.	What method of research are you planning? 	
-- Remote moderated directed interviews and usability testing on high fidelity prototypes
+- Remote moderated directed interviews and usability testing on high fidelity, interactive UXPin prototypes
   	
 2.	Why this method? How does this methodology help you answer your research questions? 
 - We chose these methods because we were unable to do full discovery research prior to development work being started, so we have a lot of lingering generative questions and a prototype to be evaluated.
@@ -90,23 +95,23 @@
 
 ## When? 	
 1.	Timeline: 
-July 16th - July 21st
+August 3rd - August 6th
 
 2.	Prepare: When will the thing you are testing be ready?
-- Prototype (App): July 6th 
+- Prototype (App): July 23
 
 3. Length of Sessions:
 - Approximately 1 hour
 
 4.	Availability: If applicable, when would you like sessions scheduled?
-- July 16, 9:30 - 5:00 EST
-- July 17, 9:30 - 5:00 EST
-- July 20, 9:30 - 12:00, 2:00 - 5:00 EST
-- July 21, 9:30 - 5:00 EST
+- August 3, 9:30 - 5:00 EST
+- August 4, 9:30 - 5:00 EST
+- August 5, 9:30 - 12:00, 2:00 - 5:00 EST
+- August 6, 9:30 - 5:00 EST
 - **Please schedule at least 30 minutes between sessions**
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-- July 14, 10:00am (EST) with Mahariel Rosario
+- July 31, 10:00am (EST) with Mahariel Rosario
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -116,7 +121,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact:	Matt Self, Leah Keeler
 - Participant(s) for pilot test: Mahariel Rosario, Riley Orr, Rebecca Walsh
 - Note-takers: Rebecca Walsh & Riley Orr 	
-- Observers: Leah Keeler, Matthew Self, Mahariel Rosario, Brad Conley, Cameron Testerman, and DMC teammembers (TBD)	
+- Observers: Leah Keeler, Matthew Self, Mahariel Rosario, Brad Conley, Cameron Testerman, and DMC team members (TBD)	
 
 ## Resources	
 - Product Outline: 	

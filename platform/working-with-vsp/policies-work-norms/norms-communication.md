@@ -20,15 +20,15 @@ The post needs to provide enough information that a designer, developer, or cont
 
 > We changed how the feature toggle works. Instead of doing [describe the old way], you need to do X [describe the new way].
 
-## DSVA and platform responsibilities
+## DEPO and platform responsibilities
 
-### DSVA authorizes access for VFS teams
+### DEPO authorizes access for VFS teams
 
-* To ensure we limit VA access to the right people, a DSVA person will add VFS team members.
-  * If a new need arises (e.g., access to a new Github repo is needed), direct the request to the DSVA contact, who will determine access and permissions.
+* To ensure we limit VA access to the right people, a DEPO person will add VFS team members.
+  * If a new need arises (e.g., access to a new Github repo is needed), direct the request to the DEPO contact, who will determine access and permissions.
 
-### DSVA and the platform team provide support
-* DSVA and the platform team will monitor the #vfs-platform-support Slack channel for product-focused questions/inquiries from VFS teams.
+### DEPO and the platform team provide support
+* DEPO and the platform team will monitor the #vfs-platform-support Slack channel for product-focused questions/inquiries from VFS teams.
 
 ### The platform team cannot direct VFS teams
 
@@ -37,17 +37,17 @@ The platform team cannot direct the roadmaps of VFS teams or tell them what proj
 * What should I be working on?
 * What task should I do next?
 
-If these questions come up, the platform team will ask the VFS team to contact their DSVA product contact.
+If these questions come up, the platform team will ask the VFS team to contact their DEPO product contact.
 
 However, we do want the platform team and all VFS teams to collaborate because their projects will have dependencies and connections. For example, the platform team may provide guidance or feedback on a VFS team's architecture so that adjustments can be made to allow dependent tools to work well together.
 
 #### Gray areas
 
-Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, the platform team will direct VFS teams to their DSVA product contact, who will decide how to handle the question or request.
+Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, the platform team will direct VFS teams to their DEPO product contact, who will decide how to handle the question or request.
 
 ## VFS team responsibilities
 
-### Look for documentation before posting a question in Slack (or contacting DSVA).
+### Look for documentation before posting a question in Slack (or contacting DEPO).
 * See your team's Github "Product" folder or orientation guides.
 * If you don't find an answer, post in #vfs-platform-support.
 

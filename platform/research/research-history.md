@@ -12,6 +12,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 
+### July 2020
+
+#### July 6-9: VA Form 22-10203 - Apply for Rogers STEM Scholarship, Round 2  
+*Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
+
+- 6 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/stem-standalone-10203/research) 
+
 ### June 2020
 
 #### June 25-29: Claim status tool. Usability test / Collaborative design exersise 
@@ -21,6 +29,11 @@ This does not include research for Appeals projects, which is stored in differen
 
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/research/co-design-usability-June)
 
+#### June 22-24: GI Bill Comparison Tool - School Ratings Discovery Interviews 
+*Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
+
+- 8 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/school-ratings/research)
 
 #### June 10-15: Facility Locator - Operating Status Study
 *Ad Hoc: VSA Facilities, Leyda Hughes, Aricka Lewis*

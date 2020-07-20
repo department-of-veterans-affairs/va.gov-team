@@ -3,14 +3,14 @@ name: Usability Testing Prep
 about: Request Usability Testing Prep Review
 title: Usability Testing Prep [Feature-Name]
 labels: product support, content-ia-team, collaboration-cycle
-assignees: andreahewitt-odd, meganhkelley
+assignees: mandifrances
 
 ---
 
 ## Steps to complete Usability Testing Prep: 
 - [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt @ Mandi Lipka
-- [ ] Andrea and Megan to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ AndreaHewitt @ Mandi Lipka
+- [ ] Mandi to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VSP <> **requesting team** review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*

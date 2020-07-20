@@ -1,6 +1,6 @@
 # Authenticated experience roadmap
 
-**Updated April 2020**
+**Updated July 2020**
 
 ## Project status
 
@@ -8,10 +8,10 @@
 |----|----|
 |[Direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md) | Launch completed Jan 2020|
 |[Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/product-outline.md) | Launch completed March 2020|
-|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | Build |
-|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Discovery|
+|[Profile 2.0 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account) | QA; Pre-launch |
+|[Logged-in homepage product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/README.md) | Post-discovery; Design ramp-up|
 | Notification center | Not started |
-| [Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Pre-discovery |
+| [Logged-in navigation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/navigation-ia)| Not started |
 
 ## Roadmap
 
@@ -29,7 +29,7 @@ It is because of this that we are going to dedicate all of 2020, and as much of 
 |----|----|----|----|----|----|
 |**Direct deposit for comp & pen**|Removal of direct deposit from eBenefits| — | — | — | — |
 |**Address validation**|QA; pre-launch checklist; launch| 508 review; post-launch updates; monitoring | — | — | — |
-|**Profile 2.0**|Design; technical discovery| User testing; build; QA; pre-launch | Launch | — | — |
-|**Logged-in homepage**|Begin discovery| Complete design discovery; start technical discovery; start design | Finish design; build; user testing and additional user research | QA; pre-launch | Launch |
-|**Notification center**| — | — | Figure out how this overlaps with logged-in homepage redesign | TBD | TBD |
-|**Logged-in navigation**| — | — | Figure out how this overlaps with logged-in homepage redesign | TBD | TBD |
+|**Profile 2.0**|Design; technical discovery| User testing; build | Build; QA; pre-launch | Launch | — |
+|**Logged-in homepage**|Begin discovery| Complete design discovery;|  start technical discovery; start design | Design | Finish design; build; user testing and additional user research |
+|**Notification center**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |
+|**Logged-in navigation**| — | — | Figure out how this overlaps with logged-in homepage redesign | Postponed unti further notice | Postponed unti further notice |

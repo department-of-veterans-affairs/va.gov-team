@@ -6,10 +6,10 @@
 
 ### Vision
 
-The authenticated experience team wants to work towards a concierge-like VA experience, one that sees, reflects, and guides veterans and their communities (families, caregivers, VSOs, etc.), truly meeting them where they are. We see a world in which:
-The service member to veteran transition is seamless.
+The authenticated experience team wants to work towards a concierge-like VA experience, one that sees, reflects, and guides veterans and their communities (families, caregivers, VSOs, etc.) through their interactions with the VA. We see a world in which:
 
-- We never ask a veteran to provide a DD214.
+- The service member to veteran transition is seamless.
+- We never ask a veteran to provide a DD214 (proof of service).
 - Veterans can easily understand what benefits they’re eligible for.
 - Veterans can apply for/enroll in benefits with one click.
 - Veterans and their communities can mostly interact with the VA through text messages and email.
@@ -27,9 +27,9 @@ To move us towards this vision, our current mission is to create a logged in exp
 
 ### North star objectives
 
-- Reduce the amount of time it takes to interact with the VA
-- Make interacting with the VA feel as easy as sending an email
-- Make the VA feel like it's a 1:1 experience
+- Reduce the amount of time it takes to interact with the VA.
+- Make interacting with the VA feel as easy as sending an email.
+- Make the VA feel like it's a 1:1 experience.
 
 ## What we work on
 

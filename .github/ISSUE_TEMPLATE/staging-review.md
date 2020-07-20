@@ -3,15 +3,15 @@ name: Staging Review
 about: Request a VSP staging review
 title: Staging Review [Feature-Name]
 labels: product support, content-ia-team, collaboration-cycle, staging-review
-assignees: andreahewitt-odd, meganhkelley
+assignees: mandifrances
 
 ---
 
 ## Steps to complete Staging Review: 
 
 - [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt @ Mandi Lipka
-- [ ] Andrea and Megan to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ AndreaHewitt @ Mandi Lipka
+- [ ] Mandi to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VSP <> **requesting team** review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
@@ -25,7 +25,7 @@ assignees: andreahewitt-odd, meganhkelley
 - Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
 - Link to your [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [Summary(Defects)](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail _for QA practice area review_
 - Link to verification that accessibility checks are complete:
-  - (preferred) Link to your [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc). <br>
+  - (preferred) Link to your [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
 OR
   - Link to a doc in your product folder that indicates all required checks from the accessibility [staging review prep](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/staging-review-processes.md) doc are complete.
 - List of known issues (with links to tickets when applicable)
