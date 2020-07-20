@@ -7,6 +7,9 @@ Before launching, we have found that silent failures for 686 applicaiton submiss
 ### Problem Statememt
 We need a solution for the Vetean to be clearly and explicitly communicated with respect to their application's status while in flight from submission before it gets taken in by an approving mechanic so that action can be taken and submission applications are not lost.
 
+## Considerations
+We are goign to want the Veterans email for this to work but we should not assume that what they enter in the form is legit as it could be mistyped and not verified.  IF possible, we shoudl strive to attain the veteran's email from their profile as that is most likely far more correct.  It also covers the notion that in the event that the person filling it out for someone else, the actual owner would be informed of action being taken on their behalf for whatever effect.
+
 ### Option 1
 Communicate success and failure to the Veteran's email using GovDelivery.
 
