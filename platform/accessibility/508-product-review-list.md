@@ -10,7 +10,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   - [Table of Contents](#table-of-contents)
   - [Helpful links](#helpful-links)
   - [Issues by Application](#issues-by-application)
-    - [Automation](#automation)
     - [Design System](#design-system)
     - [Forms Library](#forms-library)
     - [Site-wide](#site-wide)
@@ -114,9 +113,6 @@ Back to [Table of Contents](#table-of-contents)
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Aforms)**<br/>
 
 **Open Issues**
-
-- [[FIELD TEMPLATE]: Description and heading can separate label from input, causing strange screen reader experiences - #10095](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9231)<br/>
-**Production** | **Opened:** June 10, 2020 | **Severity:** 508-defect-2 — **_Serious_**
 
 Back to [Table of Contents](#table-of-contents)
 
