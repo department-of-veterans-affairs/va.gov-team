@@ -10,7 +10,9 @@ Today, when a Veteran uses VA.gov's Facility Locator to find an urgent care loca
 
 The tool will be adding an 'All urgent care' default option the 'Choose a service type' menu so that users can see all options available to them in one list simultaneously. In making this change, the page will need to find a new way to alert users of VA's community urgent care benefit.
 
-The goal of this study is to validate the usability and design of new facility locator search result cards which combine VA urgent care and community urgent care service types.
+The goal of this study is to: 
+- Determine how an 'All urgent care' option might impact the way a user searches for urgent care
+- Validate or invalidate the usability and design of new facility locator search results
 
 ## Research Methodology 
 
