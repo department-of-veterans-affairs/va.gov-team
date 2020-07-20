@@ -15,6 +15,7 @@ _What’s the fundamental question you are going  to answer?_
 
 #### Answer(s)
 _How will the problem be solved and what evidence do we have._
+_How will you know the problem is solved? What data will you look for?_
 
 
 
