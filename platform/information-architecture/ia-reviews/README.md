@@ -13,7 +13,7 @@ eBenefits | VRE/Chapt 31 | NOT STARTED | Kick-off 5/8 <br> https://github.com/de
 BAH | STEM Scholarship App | NOT STARTED | Kick-off held 4/21 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 eBenefits | PCPG/Chapt 36 Career Counseling | IN PROGRESS | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
-BAM 2 | Debt Letters | IN PROGRESS | Kick-off held 3/12 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
+BAM 2 | Debt Letters | IN PROGRESS | Sync with BAM2 team 6/26 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam2-debt-letters.md
 
 
 
