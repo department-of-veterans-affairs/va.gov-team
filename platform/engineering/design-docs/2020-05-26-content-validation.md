@@ -158,7 +158,7 @@ No accessibility checking is performed on the content-only deploys. That means t
 
 ##### VA.gov Users
 
-To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. Additionally, inconsistencies between how the CMS handles redirects and how `vets-website` handles redirects, it's possible for users to encounter broken links in production.
+To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. Additionally, due to inconsistencies between how the CMS handles redirects and how `vets-website` handles redirects, it's possible for users to encounter broken links in production.
 
 ##### FE Tools team
 
