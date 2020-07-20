@@ -1,4 +1,5 @@
-# Potential Email Solutions
+# Potential Email Solutions (WIP)
+`eBenefits Team | July 2020`
 
 ### [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/product-decisions.md#silent-failures)
 Before launching, we have found that silent failures for 686 applicaiton submissions are sub-optimal and while other online forms have the same issue, we can do better for the Veteran.
