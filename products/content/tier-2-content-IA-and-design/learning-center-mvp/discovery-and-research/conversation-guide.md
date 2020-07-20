@@ -157,12 +157,12 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 *Participant should still be on `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online` article*
 
-- We're going to shift gears now. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here?
+- We're going to shift gears now. Imagine you need to find out if a Veteran who has been exposed to Agent Orange can get disability compensation. How would you do that from here?
 
   *May need to remind user that things might not work as expected since this is a prototype*
 
 - Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to send you a link you directly to a page. 
-  
+
   
 
 *Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
@@ -178,7 +178,9 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Based on this information, what would you do next?
 
-  *Encourage participant to click CTA to go to Learn How to File Claim*
+
+
+*If participant wants to to click CTA to go to Learn How to File Claim*
 
 - And, once again, how does this page line up with what you expected to find? 
 
@@ -191,7 +193,11 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## Task 6: Review tag results -  3 minutes
 
-- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. Can you please go back to the Agent Orange page we were just looking at? 
+- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. 
+
+  *If participant is not already on LC page:*
+
+  Can you please go back to the Agent Orange page we were just looking at? 
 
 - From here, show me how would you find more articles that might be of interest to the same group of readers.
 
