@@ -6,8 +6,8 @@
 _Describe the current-state of your problem and the environment in which it exists._
 
 ## Complication(s)
-_Describe what’s changed and how it impacts your team. _
-Leverage techniques like 5 Why’s_ 
+_Describe what’s changed and how it impacts your team._\
+_Leverage techniques like 5 Why’s_ 
 
 ## Question(s)
 _What’s the fundamental question you are going  to answer?_ 
@@ -39,7 +39,7 @@ _When might you use the template?:_
 - _Improving how your team intakes requests_
 - _Decreasing the time it takes for content to be published on VA.gov_
 
-_Example_
+### Example
 _Note: Example is for illustrative purposes only. Please don’t plan vacations this way unless you really want to._
 
 - _We visit a new city every summer…_
@@ -52,7 +52,7 @@ _Note: Example is for illustrative purposes only. Please don’t plan vacations 
   - _We’re going to research housing on VRBO and Airbnb_
   - _We’re going to use Splitwise to manage expenses_
 
-#### References
+### References
 - [SCQA - A Framework For Defining Problems & Hypotheses - StrategyU](https://strategyu.co/scqa-a-framework-for-defining-problems-hypotheses/)
 - [The Minto Pyramid Principle (SCQA)](https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/)
 - [Executive Communication w/ Harrison Metal's Michael Dearing](https://www.heavybit.com/library/video/executive-communication/)
