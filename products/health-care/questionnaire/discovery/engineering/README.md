@@ -24,7 +24,7 @@ This `README` serves as a high-level, non-technical intro to the research findin
 
 ## Forms Discovery
 
-- [technical findings]('./forms.md)
+- [technical findings](forms.md)
 
 ### Healthcare wizard
 
@@ -34,7 +34,7 @@ As a team, we received a demo from a tool that demonstrated a wizard-style appro
 
 ## Health Data APIs
 
-- [technical findings]('./health-apis.md)
+- [technical findings](health-apis.md)
 
 An inherent part of the problem that we are looking into how we can get veterans' health information. The technical team was the following APIs to research.
 
