@@ -97,7 +97,7 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
-Broken links are displayed in the build log, and a Slack notification is sent to the #cms-team channel alerting them to the broken links.
+If there are broken links, they are displayed in the build log, and the `glean-broken-links` script outputs a CSV file. That CSV file is then sent to #cms-team channel via a Slack notification.
 
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
