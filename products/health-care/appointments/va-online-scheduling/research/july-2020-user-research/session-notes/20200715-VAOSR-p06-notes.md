@@ -98,8 +98,11 @@ Next, we're going to use the tool to schedule an appointment. Don't worry if you
 - From this page [online scheduling tool], do you see anywhere to schedule an appointment?  
   - Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing. 
     > I see my hearing guy so audiology and speech so we will go with that. This is straightforward, it is nice and clean. You can schedule appointments with different areas. I have been to all of these at one time. 
+
     > I would go with providence because I go there the most. Now it stopped me, appointments are only available the certain places. I would go with new bedform. I know new bedform, I haven’t been there but I know where it is.  
+
     > The calendar is nice and clean. It is a calendar look so you can see the days, I would pick 24th of July. I don’t see November there. Okay yes November is there. I wasn’t looking for that but I will pick November 11th in the PM. Reason for appointment is easy to understand I would go with Routine. Now it wants me to put a reason for the appointment, hearing aids need adjustment. You have the urgent medical need call 911, the VA is big on that so that’s fine. 
+
     > Type of appointment, I don’t remember seeing these before. I can go either way; I will go office visit. It has my number and I can change that if needed, when to call and my email address. 
   - Scheduling the appointments: 
     > Yes it is straightforward to me. It gives me a summary of what we just did. (reading page). I would review it to ensure my information is correct then request the appointment. They are reviewing the request and will call when they are ready. It will not eb in appointments because it’s not scheduled yet. I don’t know because I only see the appointments there. 
