@@ -1,6 +1,6 @@
 > Make a copy of this template and add to your respective team or product folder.
 >You can also copy this to a GH epic/super-epic.
-
+---
 #### Situation
 _Describe the current-state of your problem and the environment in which it exists._
 
@@ -31,6 +31,13 @@ This takes time and energy implementing idea after idea. Not to mention, there a
 So, how do we make it easier to prioritize problems our teams face?
 
 We need to write things down. We need to take the time to document our thoughts and describe our ideas before presenting a problem so that it’s easier to understand and prioritize. Our approach here is to follow the SCQA framework.
+
+When I might write a problem brief:
+- Tackling large submission payloads and its impacts on VA.gov forms
+- Addressing accessibility across multiple 
+- Improving how your team intakes requests
+- Decreasing the time it takes for content to be published on VA.gov
+
 </details>
 
 #### References
