@@ -1,8 +1,8 @@
 # Profile 2.0 Staging Users - Test Cases 
-(last updated May, 25th, 2020)
+(last updated Monday, July 20, 2020)
 Notes:
-Right now, you can either use the local hack or user 36 to view profile 2.0.
-When the feature is fully done, we will flip the switch so all staging users see profile 2.0 and we can use the local hack to see profile 1.0 if it's ever needed.
+As of Wednesday July 15, Profile 2.0 is turned on for all users in staging.
+You can use the local hack (setting `PROFILE_VERSION` to `1` in Local Storage) to see profile 1.0 if it's ever needed.
  
   
  
