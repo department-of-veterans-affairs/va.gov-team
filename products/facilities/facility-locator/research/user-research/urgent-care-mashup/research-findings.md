@@ -59,8 +59,8 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ## Appendix
 #### [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/conversation-guide.md)
 
-### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/notes)
+#### [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/notes)
 
-### [Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/19S2NyqP-DvlhojIlXf-KKFZT_uCY-dYH6zXfbUGmIFk/edit?usp=sharing)
+#### [Synthesis spreadsheet](https://docs.google.com/spreadsheets/d/19S2NyqP-DvlhojIlXf-KKFZT_uCY-dYH6zXfbUGmIFk/edit?usp=sharing)
 
-### [UXPin Prototype of Facility Locator](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130497321/simulate/no-panels?mode=cvhidmf)
+#### [UXPin Prototype of Facility Locator](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130497321/simulate/no-panels?mode=cvhidmf)
