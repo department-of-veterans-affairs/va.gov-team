@@ -378,7 +378,6 @@ Back to [Table of Contents](#table-of-contents)
 
 - [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER]: Focus on page load SHOULD be consistent - #9305](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9305)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Serious_**
 - [508-defect-3 [SCREENREADER, COGNITION]: Phone numbers SHOULD use the new aria-label pattern - #9299](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
-- [508-defect-2 [AXE-CORE]: Heading levels SHOULD increase by one - #9273](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9273)<br/>**Opened:** May 19, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [508-defect-3 [SEMANTIC MARKUP]: Radio inputs with the same name attribute value MUST be part of a group - #9174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9174)<br/>**Production** | **Opened:** May 15, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 - [[CI/CD]: Review coverage of accessibility checks in Caregivers end-to-end tests - #7303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7303)<br/>**Production** | **Opened:** March 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
 
@@ -642,8 +641,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 
-- [[KEYBOARD]: Ensure content structure may be navigated by tab order - #3552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3552)<br/>
-  **Opened:** November 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 - [[SCREENREADER]: Pittsburgh Sidenav - Sidenav headings lack semantic structure - #3441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3441)<br/>
   **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
@@ -776,13 +773,8 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - JAWS and IE11 SHOULD NOT announce extra information when I toggle accordions - #10200](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10200)<br/>
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: GIBCT EYB - CONSIDER updating the behavior for announcing changes to user benefits - #10199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10199)<br/>
-**Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-- [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
-**Opened:** June 8, 2020 | **Severity:** 508-defect-2 - **_Serious_**
-
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -902,11 +894,6 @@ Back to [Table of Contents](#table-of-contents)
 * [#8975 [FOCUS MANAGEMENT]: Focus outline SHOULD be consistent - individual nav links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8975)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
 
 * [#8977 [SCREENREADER]: CONSIDER removing aria-label from the individual menu links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8977)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-3 - **Minor**_ 
-
-* [#8992 [COGNITION]: Left Nav - In this section link SHOULD have an accessible label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8992)<br/>**Staging** | **Opened:** May 11, 2020 | **Severity:** _508-defect-2 -  - **Serious**_ 
-
-* [#8992 [COGNITION]: Left Nav - In this section link SHOULD have an accessible label](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8992)<br/>**Opened:** May 11, 2020 | **Severity:** _508-defect-2  - **Serious**_
-
 
 Back to [Table of Contents](#table-of-contents)
 
