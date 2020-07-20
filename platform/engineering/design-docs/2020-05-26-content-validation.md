@@ -28,7 +28,7 @@
       - [New build script to supplement existing build script](#new-build-script-to-supplement-existing-build-script)
       - [Reuse existing `check-broken-link` plugin in new build script](#reuse-existing-check-broken-link-plugin-in-new-build-script)
       - [Update accessibility tests config](#update-accessibility-tests-config)
-      - [New report of invalid content](#new-report-of-invalid-content)
+      - [Improved invalid content reporting](#improved-invalid-content-reporting)
       - [New scheduled job in Jenkins](#new-scheduled-job-in-jenkins)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
@@ -156,6 +156,8 @@ Content writers want to quickly draft, publish, and deploy content. However, `ve
 
 No accessibility checking is performed on the content-only deploys. That means that content writers don't have a proactive way to learn if their content includes accessibility errors. Adding accessibility checking to the CMS is on the roadmap, but it doesn't currently exist.
 
+Additionally, the current invalid content reporting is inconvenient. Broken links are extracted from the build log as a CSV. And accessibility errors are manually communicated from the Frontend Tools team.
+
 ##### VA.gov Users
 
 To enable a faster publishing workflow, all tests (except link checking) are intentionally skipped during content-only deploys. That creates an opportunity for end users to encounter accessibility errors. Additionally, due to inconsistencies between how the CMS handles redirects and how `vets-website` handles redirects, it's possible for users to encounter broken links in production.
@@ -207,13 +209,13 @@ We will reuse the existing `check-broken-link` Metalsmith plugin in the new buil
 
 The [current accessibility tests](https://github.com/department-of-veterans-affairs/vets-website/blob/f93e0c11d9e037bd2460ede5e2fb4b67fbaaf118/Jenkinsfile#L82-L84) use Nightwatch. The default value for [Nightwatch's `end_session_on_fail` test session setting](https://nightwatchjs.org/gettingstarted/configuration/#test-session-settings) is true. Since we want a report of all the failures, we would need to update the `end_session_on_fail` setting in our [Nightwatch config](https://github.com/department-of-veterans-affairs/content-build/blob/master/config/nightwatch.docker-compose.js) from `true` to `false`.
 
-#### New report of invalid content
+#### Improved invalid content reporting
+
+Currently, accessibility errors need to be manually communicated from the Frontend Tools team to the CMS team. And broken links need to be extracted from the build log. We would improve that reporting by generating a file using Winston, and send that file to the #cms-team channel using existing Slack integrations.
 
 #### New scheduled job in Jenkins
 
-We will reuse the existing broken link check from the current content build. And using the existing accessibility tests as a reference, we will configure the accessibility tests to not stop on failure so we can identify all the accessibility errors. The script will generate a report of all the broken links and all the accessibility errors. Those reports will be sent to the #cms-team channel, just like the current broken link notifications today.
-
-Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight.
+Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight Eastern. That way, the CMS team should have an accurate report of invalid content when they start their workday.
 
 ### Code Location
 
