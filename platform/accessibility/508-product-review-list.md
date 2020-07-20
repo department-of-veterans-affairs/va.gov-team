@@ -79,6 +79,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     - [Covid-19 Resources (VSA Public Websites)](#covid-19-resources-vsa-public-websites)
     - [SSOe Single Sign On](#ssoe-single-sign-on)
     - [COVID-19 Chatbot](#covid-19-chatbot)
+    - [Public and Automated PDF Technical Discovery](#public-and-automated-pdf-technical-discovery]
     - [New Project Name](#new-project-name)
       - [Open issues](#open-issues-3)
 
@@ -775,6 +776,12 @@ Back to [Table of Contents](#table-of-contents)
 **Opened:** June 12, 2020 | **Severity:** 508-defect-2 - **_Serious_**
 - [[SCREENREADER]: GIBCT EYB - Focus MUST be set on the first added item when Show Next 10 button is pressed - #9953](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9953)<br/>
 **Opened:** June 10, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[SCREENREADER]: GIBCT EYB - IE11 MUST announce the updated live region after users press the Update benefits button - #11300](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11300)<br/>
+**Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[KEYBOARD]: GIBCT EYB - Skip to your estimated benefits link MUST work in all browsers - #11307](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11307)<br/>
+**Opened:** July 16, 2020 | **Severity:** 508-defect-2 - **_Serious_**
+- [[COGNITION]: GIBCT School Locations - Tables SHOULD be responsive when the new component is ready - #11055](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11055)<br/>
+**Opened:** July 8, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -795,6 +802,7 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 - [[SCREENREADER]: VAOS - Continue button MUST give meaningful feedback during transitions - #10267](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10267)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-2 - **Serious**_
+- [[COGNITION]: VAOS Past Appointments - Focus SHOULD be set on the updated label when results are returned - #10888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10888)<br/>**Production** | **Opened:** July 2, 2020 | **Severity:** _508-defect-3 - **Minor**_
 
 Back to [Table of Contents](#table-of-contents)
 
@@ -920,6 +928,16 @@ Back to [Table of Contents](#table-of-contents)
 
 Back to [Table of Contents](#table-of-contents)
 
+---
+### Public and Automated PDF Technical Discovery
+
+**Audit status:** _VSP and VSA, Q2 2020_<br/>
+**Open issues**
+
+[Technical Discovery - Public and Automated PDF Accessibility - #10907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10907)<br/>
+**Opened:** July 6, 2020
+  
+Back to [Table of Contents](#table-of-contents)
 
 ---
 ### New Project Name
