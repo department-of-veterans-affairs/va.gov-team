@@ -1,12 +1,11 @@
 # Clipboard Technical Discovery [WIP]
 
-[Insert team description/mission/north star]
-
-The technical team sought to discover how we can integrate and leverage current systems and architecture. The team investigated two big ideas - the forms library, existing health APIs, and other minor ideas documented below.
-
-This `README` serves as a high-level, non-technical intro to the research findings, including findings, successes, and missing steps.
-
 - [Clipboard Technical Discovery [WIP]](#clipboard-technical-discovery-wip)
+  - [Introduction](#introduction)
+  - [Current problem definition](#current-problem-definition)
+  - [Proposed Solutions](#proposed-solutions)
+  - [Front end developer scope](#front-end-developer-scope)
+  - [Back end developer scope](#back-end-developer-scope)
   - [Outstanding questions](#outstanding-questions)
   - [Forms Discovery](#forms-discovery)
     - [Current Forms System](#current-forms-system)
@@ -15,12 +14,45 @@ This `README` serves as a high-level, non-technical intro to the research findin
     - [Developers.va.gov](#developersvagov)
   - [Mobile Experience Findings](#mobile-experience-findings)
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
+    <<<<<<< HEAD
+    =======
+
+## Introduction
+
+[Insert team description/mission/north star]
+
+The technical team sought to discover how we can integrate and leverage current systems and architecture. The team investigated two big ideas - the forms library, existing health APIs, and other minor ideas documented below.
+
+This `README` serves as a high-level, non-technical intro to the research findings, including findings, successes, and missing steps.
+
+What guided the research was "what all is possible". Since this is a new team with a team product and new direction. There are plenty of fuzzy edges and no defined product as of this commit. That has allowed the tech team to research and understand what all can be possible so when design and UX has a solution, we can give proper feedback and support.
+
+## Current problem definition
+
+....something something onboarding
+
+## Proposed Solutions
+
+Create a digital experience for a vet to .....
+
+## Front end developer scope
+
+The front end developers are ....
+
+## Back end developer scope
+
+The back end developers are ....
+
+> > > > > > > mdewey-tech-feas-doc
 
 ---
 
 ## Outstanding questions
 
-[WIP]
+- Where is the data going?
+- Can we pull in data from an external API in a form?
+- Do we need any CMS integration?
+- What analytics do we need?
 
 - Where is the data going?
 - Can we pull in data from an external API?
@@ -34,6 +66,8 @@ This `README` serves as a high-level, non-technical intro to the research findin
 ### Current Forms System
 
 The VA uses [a fork](https://github.com/department-of-veterans-affairs/vets-json-schema) of the [React Json Schema Forms](https://github.com/rjsf-team/react-jsonschema-form). This JSON based approach allows for quick and simple forms. This library is something we leverage, even though there are some limitations.
+
+Creating a form on va.gov is a relatively straight forward process, the existing forms on the site all use pre-built React components on the front-end that submit to an API endpoint set up on the back-end. The back-end API endpoints are required for allowing the user to sign in and use the 'save in progress' functionality so if we want to take advantage of that we will need API endpoints set up on the back-end. Depending on the functionality recommended by design and UX we should be able to use the pre-built React components since they are 100% compliant with our pattern library and have already been UX tested for the most part for other projects.
 
 Using this system, we can create forms that contain:
 
@@ -59,8 +93,13 @@ Yes. This feature is built into the existing forms system. We can custom the flo
 
 This one was tricky, but by utilizing session storage, we can have a form that a user can start unauthenticated, then be prompted to be authenticated and then continue the form using the data for that user.
 
-_warning: ~1 and a half minute gif_
-![early-demo-1](https://user-images.githubusercontent.com/1793923/87829151-6bceb500-c84c-11ea-8c8d-f772f28dc8ca.gif)
+# <<<<<<< HEAD
+
+This does in fact use the Save in Progress featured.
+
+> > > > > > > mdewey-tech-feas-doc
+> > > > > > > _warning: ~1 and a half minute gif_
+> > > > > > > ![early-demo-1](https://user-images.githubusercontent.com/1793923/87829151-6bceb500-c84c-11ea-8c8d-f772f28dc8ca.gif)
 
 This demo is just an early prototype and still has some limitations:
 
