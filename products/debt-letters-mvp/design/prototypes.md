@@ -6,6 +6,10 @@ In order to quickly release functionality, the BaM2 team is releasing the Debt L
 Prototypes:<br>
 - [MVP prototype](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130705210/simulate/no-panels?mode=i)
 - [Empty state](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130748284/simulate/no-panels?mode=i)
+- 404 alerts
+   - [If VBMS' API returns a 404](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130821989/simulate/no-panels?mode=i)
+   - [If DMC's API returns a 404](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130822746/simulate/no-panels?mode=i)
+   - [If both APIs return a 404](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130823985/simulate/no-panels?mode=i)
 
 This design includes:
 - Unauthenticated landing page
