@@ -1,1 +1,104 @@
+# IRIS Conversation Guide - DRAFT
+**7/21/2020**
 
+## Introduction - 5 minutes
+
+Thanks for joining us today! My name is Rachel and I also have some colleagues on the line observing and taking notes. Today we're going to talk about ways to find important information about your experiences with IRIS, the Inquiry Routing & Information System (IRIS) page available at https://iris.custhelp.va.gov/.  It’s also what you access when you click on ‘Contact Us’ > ‘Ask a Question’ at the top of the va.gov site.
+
+Before we start, a few things I want to mention:
+
+- This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- If for any reason and at any time you want to stop the session, please let me know.
+- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+
+-Start recording.
+
+**I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
+
+
+
+## Warm-up Questions - 5 minutes
+
+(Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session)
+
+
+Do you have any accessibility requirements - do you use any assistive technology to access any part of va.gov (a screen reader, for example)?
+- Yes (and what technology)
+- No
+
+# Tech and mobile usage:
+
+- What type of desktop, tablet and phone do you use (and operating system).  Is that what you used to  access va.gov? 
+- What apps do you use and how frequently?
+- What browser do you use to access IRIS?
+
+
+
+## Product experience - 45 minutes
+
+- Have you contacted the VA? If so, when and how (i.e. prompting for IRIS usage vs. picking up the phone)
+
+- When
+- How (Web/Phone/Email)
+
+- Do you always contact the VA same way?
+
+- Why did you choose the method you chose?
+
+- Why, how and when do you use IRIS? Tell us about the last time you contacted the VA using IRIS 
+-- Prompt for why they called vs. using IRIS
+ 
+- How often have you used IRIS? 
+ 
+- What was the reason you were using IRIS? Tell us about time when you used it and what what the purpose behind it (trigger) - what you were looking to find?
+
+- IF FORM: Were you able to complete it successfully? What was the experience like.
+- Probe for usability challenges successful task completion
+ 
+- IF FAQ: Were you able to find what you were looking for (in FAQs)? What was teh experience like
+- Probe for usability challenges around info architecture
+- Prompt for usage of advanced search?
+- Prompt for usage of ‘Previously viewed answers’
+- Prompt for usage of ‘Answers others found helpful’
+- Any other contentr
+
+- Where do you go on the website when you have a (specific) question to ask the VA? 
+
+- What works well with IRIS?
+
+- What doesn’t work well? 
+
+- Say you have experienced a problem with IRIS - how would you resolve it? What would you do if you couldn't find an answer to your question with IRIS?
+
+- Is there anything missing that you expected to see in IRIS? Any functionality/something you’d like to be able to do or content you expect to use?
+
+- Is there anything you like to do that you can’t do using IRIS? What have we not considered? What do we not know that we don't know? 
+ 
+- Let’s imagine we’ve given you a magic wand to make IRIS the best Inquiry Routing & Information System there ever has been.  What would you make it do? 
+ 
+- Any closing thoughts?
+
+
+## Product experience - 45 minutes
+
+
+### Things to watch for:
+- What types of content do participants expect in each category?
+- Is there anything they expect to be in a category that we do not have content for?
+- Do participants expect certain content to be in different categories?
+- Are there expected categories missing?
+
+
+
+
+
+## Thank You and Closing
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson?
+    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+
+Great, well thank you so much again, and enjoy the rest of your day!
