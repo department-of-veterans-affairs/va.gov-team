@@ -15,13 +15,13 @@ _Targets are dates in FY2020 unless otherwise noted, and indicated by fiscal qua
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q4        | New dev on full 2018 686c (EBN using 2014 686c)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q3        | Q4        | BGS integration
 | Apply for PCPG CH36 (8832)                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Submit to Central Mail; project Oct 1 2020 launch for program alignment
-| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | New VRE (CMS) integration required; project Dec 2020 launch for program alignment
+| Apply for VRE CH31 (1900)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | New VRE (CMS) integration required; project Nov 2020 launch for program alignment
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Lighthouse integration (BGS), launch with Modify
 | Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | OGC System integration, launch with Modify
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | Lighthouse integration (BGS)
 | View My Documents (eFolder)                         | vsa-bam-2     | Q3        | Q3        | Q3        | Q4        | VBMS integration, may parallel DMC effort
-| Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | New DLC integration required (pushed due to COVID)
-| Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | New DLC integration required (pushed due to COVID)
+| Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)**
+| Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q4        | **(COMPELETE 07202020)**
 | Calculate Home Loan Benefit                         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | Apply for Certificate of Eligibility (1880)         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
 | View Specially Adapted Housing Grant Status         | TBD           | Q4        | Q4        | Q4        | Q1 FY2021 | Requires Discovery, possible new LGY integration required
