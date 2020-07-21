@@ -14,8 +14,6 @@
     - [Developers.va.gov](#developersvagov)
   - [Mobile Experience Findings](#mobile-experience-findings)
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
-    <<<<<<< HEAD
-    =======
 
 ## Introduction
 
@@ -42,8 +40,6 @@ The front end developers are ....
 ## Back end developer scope
 
 The back end developers are ....
-
-> > > > > > > mdewey-tech-feas-doc
 
 ---
 
@@ -93,13 +89,9 @@ Yes. This feature is built into the existing forms system. We can custom the flo
 
 This one was tricky, but by utilizing session storage, we can have a form that a user can start unauthenticated, then be prompted to be authenticated and then continue the form using the data for that user.
 
-# <<<<<<< HEAD
-
 This does in fact use the Save in Progress featured.
 
-> > > > > > > mdewey-tech-feas-doc
-> > > > > > > _warning: ~1 and a half minute gif_
-> > > > > > > ![early-demo-1](https://user-images.githubusercontent.com/1793923/87829151-6bceb500-c84c-11ea-8c8d-f772f28dc8ca.gif)
+_warning: ~1 and a half minute gif_ ![early-demo-1](https://user-images.githubusercontent.com/1793923/87829151-6bceb500-c84c-11ea-8c8d-f772f28dc8ca.gif)
 
 This demo is just an early prototype and still has some limitations:
 
