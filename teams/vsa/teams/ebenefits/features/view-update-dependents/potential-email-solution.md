@@ -39,10 +39,11 @@ _Your recent submission for a change to your dependency claims has been successf
 
 _In the event that you require more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
 
-(Failure). 
+(Failure)    
 _"Hello VeteranFirstName VeteranLastName,_  
 
 _We are writing to inform you that for some reason, your submission was not successfully received into the VA system after several tries.  Please check for a saved draft or retry your application submission again._  
 
 _For more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
-Obviuysly this email copy needs to be polished up
+
+Obviously this email copy needs to be polished up.
