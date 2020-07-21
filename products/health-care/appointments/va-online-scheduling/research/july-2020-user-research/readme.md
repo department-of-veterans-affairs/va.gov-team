@@ -2,33 +2,30 @@
 
 ## Quick links
 
-- [VAOSR July Research plan](../july-2020-user-research/vaosr-june-research-plan.md)
-- [VAOSR July Conversation guide](../july-2020-user-research/vaosr-july-conversation-guide.md)
-- [VAOSR July research report - WIP]()
+- [Research plan](../july-2020-user-research/vaosr-june-research-plan.md)
+- [Conversation guide](../july-2020-user-research/vaosr-july-conversation-guide.md)
+- [Research report - WIP]()
 - [Participant list and notes](#participant-list-and-notes)
-- [July 2020 research top takeaways](#july-2020-research-top-takeaways)
+- [Top takeaways](#july-2020-research-top-takeaways)
 - [Background](#background)
 
 ## Participant list and notes
 
-|                                                              | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
+| Session Notes                                                | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- |
 | [P01](../july-2020-user-research/session-notes/20200709-VAOSR-p01-notes.md) | Veteran                                               | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       |
-| [P02](../july-2020-user-research/session-notes/20200709-VAOSR-EC-p02-notes.md)<br />*Express Care only* | Veteran                                               | Female | Asian                                                   | 45 - 54  | Bachelor's degree        | Navy               | CA       |
-| [P03](../july-2020-user-research/session-notes/20200710-VAOSR-EC-p03-notes.md)<br />*Express Care only* | Veteran                                               | Male   | Black or African American                               | 55 -  64 | Master's degree          | Army               | MD       |
+| [P02](../july-2020-user-research/session-notes/20200709-VAOSR-EC-p02-notes.md)<br />EC v1 only | Veteran                                               | Female | Asian                                                   | 45 - 54  | Bachelor's degree        | Navy               | CA       |
+| [P03](../july-2020-user-research/session-notes/20200710-VAOSR-EC-p03-notes.md)<br />EC v1 only | Veteran                                               | Male   | Black or African American                               | 55 -  64 | Master's degree          | Army               | MD       |
 | [P04](../july-2020-user-research/session-notes/20200713-VAOSR-p04-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Marine Corps       | CA       |
 | [P05](../july-2020-user-research/session-notes/20200713-VAOSR-p05-notes.md) | Veteran                                               | Male   | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | MD       |
 | [P06](../july-2020-user-research/session-notes/20200715-VAOSR-p06-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Master's degree          | Army               | RI       |
 | [P07](../july-2020-user-research/session-notes/20200715-VAOSR-p07-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Bachelor's degree        | Marine Corps       | AR       |
 | [P08](../july-2020-user-research/session-notes/20200715-VAOSR-p08-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Navy               | NY       |
 | [P09](../july-2020-user-research/session-notes/20200716-VAOSR-p09-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 55 - 64  | Master's degree          | Marine Corps, Navy | VA       |
-| [P10](../july-2020-user-research/session-notes/20200716-VAOSR-p10-notes.md)<br />*VAOSR only* | Veteran, Veteran's family member, Veteran's caretaker | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       |
+| [P10](../july-2020-user-research/session-notes/20200716-VAOSR-p10-notes.md)<br />VAOSR only | Veteran, Veteran's family member, Veteran's caretaker | Female | Hispanic, Latino, or Spanish Origin, White or Caucasian | 35 - 44  | Master's degree          | Marine Corps       | WV       |
 | [P11](../july-2020-user-research/session-notes/20200716-VAOSR-p11-notes.md) | Veteran, VA employee                                  | Male   | White or Caucasian                                      | 55 - 64  |                          | Army               | MD       |
 | [P12](../july-2020-user-research/session-notes/20200717-VAOSR-p12-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 25 - 34  | Master's degree          | Navy               | VA       |
-| P13                                                          |                                                       |        |                                                         |          |                          |                    |          |
-
-
-## 
+| [P13]((../july-2020-user-research/session-notes/20200721-VAOSR-ECv2-p13-notes.md))<br />EC v2 only | Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Air Force, Army    | AL       |
 
 
 ## July 2020 research: Top takeaways
