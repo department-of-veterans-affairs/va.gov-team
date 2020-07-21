@@ -42,7 +42,7 @@ _In the event that you require more information, please contact the VA help Desk
 
 (Failure)    
 
-_Subject line: We can't process your application to add or remove dependents
+_Subject line: We can't process your application to add or remove dependents_. 
 
 _"Hello VeteranFirstName VeteranLastName,_  
 
@@ -51,6 +51,5 @@ We’re sorry. Your application didn’t go through because of a technical probl
 
 _Because of the issue, we won't be able to retrieve your application. If you have general questions about adding or removing dependents, you can call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 9:00 pm ET._. 
 
-Note: This is an automated message, and sent from an unmonitored email account._  
+_Note: This is an automated message, and sent from an unmonitored email account._  
 
-Obviously this email copy needs to be polished up.
