@@ -41,10 +41,16 @@ _Your recent submission for a change to your dependency claims has been successf
 _In the event that you require more information, please contact the VA help Desk at this number: 800-827-1000_
 
 (Failure)    
+
+_Subject line: We can't process your application to add or remove dependents
+
 _"Hello VeteranFirstName VeteranLastName,_  
 
-_We are writing to inform you that for some reason, your submission was not successfully received into the VA system after several tries.  Please check for a saved draft or retry your application submission again._  
+_You recently submitted an application to add or remove dependents from your VA benefits (VA Form 28-686c/674) on VA.gov.
+We’re sorry. Your application didn’t go through because of a technical problem on our end. You'll need to go back and apply again: https://va.gov/view-change-dependents/add-remove-form-686c/._. 
 
-_For more information, please contact the VA help Desk at this number: 800-827-1000_
+_Because of the issue, we won't be able to retrieve your application. If you have general questions about adding or removing dependents, you can call our toll-free hotline at 800-827-1000. We’re here Monday through Friday, 8:00 am to 9:00 pm ET._. 
+
+Note: This is an automated message, and sent from an unmonitored email account._  
 
 Obviously this email copy needs to be polished up.
