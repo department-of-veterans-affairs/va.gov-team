@@ -12,7 +12,7 @@ assignees: Kimberley Daniels, Chante LantosSwett
 ## What this form is for
 Use this template to request a Contact Center review of your product.
 
-Please review the Self service Product Guide Template [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md) and the Contact Center Review How to [link] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
+Please review the Self service Product Guide Template [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/self-service-product-guide-template.md) and the Contact Center Review How to [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
  
 
 ## Description
