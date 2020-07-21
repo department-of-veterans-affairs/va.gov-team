@@ -62,7 +62,7 @@ Do you have any accessibility requirements - do you use any assistive technology
 - Prompt for usage of advanced search?
 - Prompt for usage of ‘Previously viewed answers’
 - Prompt for usage of ‘Answers others found helpful’
-- Any other contentr
+- Any other content?
 
 - Where do you go on the website when you have a (specific) question to ask the VA? 
 
@@ -89,10 +89,6 @@ We can dive into these depending on the participant.
 Probe for familiarity of understanding terms, information architecture/how the categories for the ‘ Inquiry Topic and Type’ down menu 
  
 - IF THEY ARE STATIONED OVERSEAS: What is the experience using IRIS as someone stationed overseas?
-
-
-## Additional scenarios - 5 minutes  
-
 
 
 ## Thank You and Closing
