@@ -56,18 +56,7 @@ Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/
 
 </details>
 
-
-
-
-
-
-
-- "Benefits" (~150K) and "health" (~59K) are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
-- "Forms" (~24K) is also high on the list, which suggests people want a full list of VA forms.
-- Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list
-- "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
-
-3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?
+***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?***
 
 - While click-through tracking has not been available as part of VA.gov's implementation of the Search.gov utility, there are indicators that site search is not as effective as it needs to be.  Cases in points:
   - The percentage of Search exits is nearly 50%
