@@ -8,7 +8,11 @@ Before launching, we have found that silent failures for 686 applicaiton submiss
 We need a solution for the Vetean to be clearly and explicitly communicated with respect to their application's status while in flight from submission before it gets taken in by an approving mechanic so that action can be taken and submission applications are not lost.
 
 ## Considerations
-We are goign to want the Veterans email for this to work but we should not assume that what they enter in the form is legit as it could be mistyped and not verified.  IF possible, we shoudl strive to attain the veteran's email from their profile as that is most likely far more correct.  It also covers the notion that in the event that the person filling it out for someone else, the actual owner would be informed of action being taken on their behalf for whatever effect.
+- We are going to want the Veterans email for this to work but we should not assume that what they enter in the form is legit as it could be mistyped and not verified.  IF possible, we shoudl strive to attain the veteran's email from their profile as that is most likely far more correct.  It also covers the notion that in the event that the person filling it out for someone else, the actual owner would be informed of action being taken on their behalf for whatever effect. 
+- [Service Level Objectives for GovDelivery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/external-service-monitoring/service-documents/govdelivery-slo.md)
+- [Notes from HCA meeting on GovDelivery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/2018-notifications-work/HCA%20MVP/Meeting%20Notes/GovDelivery_3-6-18.md)
+  - TMS stands for Targeted Messaging System
+  - Analytics seem unclear at this time
 
 ### Option 1
 Communicate success and failure to the Veteran's email using GovDelivery.
@@ -28,15 +32,17 @@ Another example: https://github.com/department-of-veterans-affairs/vets-api/blob
 5. Review this previously used PR for Direct Deposit's email implementation: https://github.com/department-of-veterans-affairs/vets-api/pull/3101
 
 ### Option 2
-Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and have a meeting set to chat with Paras Shah to learn more about what email and texting optins they might have.
+Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and have a meeting set to chat with Paras Shah to learn more about what email and texting options they might have.
 
 ---------
 
 **Potential email drafts:**. 
 (Success)  
+_Subject line: Your application to add or remove dependents was successfully transmitted and received_  
+
 _Hello VeteranFirstName VeteranLastName,_. 
 
-_Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and you can track the progress of your claim in the Claim Status Tool located at this url: https://www.va.gov/claim-or-appeal-status/_
+_Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and that you can track the progress of your claim in the Claim Status Tool located at this url: https://www.va.gov/claim-or-appeal-status/_
 
 _In the event that you require more information, please contact the VA help Desk at this number: 800-827-1000_
 
