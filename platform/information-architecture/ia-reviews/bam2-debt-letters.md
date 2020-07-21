@@ -32,7 +32,7 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 
 **URLs and Breadcrumbs**
 
-_Please confirm actual breadcrumb labeling and casing with your writer. 
+_Please confirm actual breadcrumb labeling and casing with your writer._ 
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
@@ -41,6 +41,7 @@ Tool: Debt letters  | wwww.va.gov/manage-va-debt/debt-letters/ | Home > Manage y
 
 
 
+<hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
