@@ -1,4 +1,13 @@
 # [KEYBOARD]: Focus order MUST be visually and programmatically usable
+We build a lot of rich interet applications (RIA) using React, for VA.gov. We often update routes using client-side technology, add and remove HTML fragments, and update interfaces without making page requests to a server.
+
+These type of client-side changes require us to think about focus order. 
+
+- What elements can receive keyboard focus when users press the `TAB` key or the `SHIFT + TAB` chord?
+- Are there non-focusable elements that we want to receive keyboard focus?
+- Are there elements that need to receive focus when a dynamic event like a data fetch is completed?
+
+This is a common issue that can be solved with human-centered design and a collaborative effort among design, front-end engineering, and accessibility.
 
 ## [508-defect-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md#508-defect-2)
 Applications must have elements that receive [focus in an order that preserves meaning and usability](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-focus-order.html) for sighted, keyboard, and assistive technology users. All users should be able to determine where their keyboard focus is quickly, and understand when that focus changes based on changes in the user interface.
@@ -21,7 +30,7 @@ Applications must have elements that receive [focus in an order that preserves m
 1. Enter [URL] in browser (Chrome works well)
 1. Right click on the page and click `Inspect` to open Chrome dev tools
 1. Click `Console` in the Dev Tools palette
-1. Type the following snippet into your console to confirm keyboard focus
+1. Type the following snippet into your console to confirm keyboard focus<br/><br/>
     ```javascript
     document.activeElement
     ```
