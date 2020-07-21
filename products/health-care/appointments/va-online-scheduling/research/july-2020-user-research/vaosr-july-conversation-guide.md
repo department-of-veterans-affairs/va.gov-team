@@ -151,6 +151,7 @@ Before we look at the prototype, let's start with a few questions:
     - What would convince you to try it?
 
 Now we're going to look at a prototype: [Express Care Prototype - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U)
+
 [Express Care Prototype - v1](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens)
 
 - [EC landing page](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
