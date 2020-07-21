@@ -8,7 +8,7 @@ This design includes:
 - Unauthenticated landing page
 - An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order 
 
-![v1.4.1 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.4.1.jpg)
+![v1.4.1 wireflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/assets/debt-letters-sketches-v1.4.1.1.jpg)
 
 ### Mid-complexity:
 These two (stacked) design options include:
