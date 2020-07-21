@@ -30,8 +30,9 @@ Do you have any accessibility requirements - do you use any assistive technology
 
 # Tech and mobile usage:
 
-- What type of desktop, tablet and phone do you use (and operating system).  Is that what you used to  access va.gov? 
-- What apps do you use and how frequently?
+- Generally, how comfortable would you say you are with technology? (Novice, Intermediate, Savvy)
+- What type of desktop, tablet and phone do you use (and operating system).  
+- What do you used to access va.gov and where do you access it? (Probe for mobile usage, network use (broadband))
 - What browser do you use to access IRIS?
 
 
