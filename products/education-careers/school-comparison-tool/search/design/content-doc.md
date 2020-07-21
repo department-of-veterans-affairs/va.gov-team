@@ -10,7 +10,7 @@ State { dropdown with full state names }
 
 Warnings and school closings ([Learn more]())
 
-Exclude results with warnings or school closings { checkbox }
+- Exclude results with warnings or school closings { checkbox }
 
 Select an institution type { radio buttons }
 - All
@@ -35,20 +35,20 @@ Gender { radio buttons }
 
 Specialized mission
 
-Historically Black Colleges and Universities (HBCU) { checkbox }
+- Historically Black Colleges and Universities (HBCU) { checkbox }
 
 Religious affiliation { dropdown }
 
 Your military details { additional information component }
 
-What's your military status { dropdown }
+- What's your military status? { dropdown, conditional field may appear below }
 
-Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown }
+- Which GI Bill benefit do you want to use? ([Learn more]()) { dropdown, conditional fields may appear below }
 
 Your housing allowance { additional information component }
 
-How do you want to take classes? ([Learn more]()) { radio buttons }
-- Online online
-- In person online
-- In person and online
+- How do you want to take classes? ([Learn more]()) { radio buttons }
+  - Online online
+  - In person online
+  - In person and online
 
