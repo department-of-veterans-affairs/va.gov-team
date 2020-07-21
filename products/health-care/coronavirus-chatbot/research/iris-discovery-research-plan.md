@@ -3,45 +3,22 @@
 
 This document outlines a research plan for understanding the IRIS experience for those using VA.gov.
 
-As a designer, I need to create a research plan to share with my team. (This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.)
-
 ## Goals
 
-What product & team are you doing this research for?  This is for the IRIS team
+The VA CTO Office has engaged ThoughtWorks to explore the potential of rebuilding or replacing elements of the Inquiry Routing & Information System (IRIS): https://iris.custhelp.va.gov/.  The goals of this research include:
 
+- Evaluate the current user experience with IRIS
+- Understand what can be improved, removed, added, or reorganized within the system
 
-Background:
--The VA CTO Office has engaged ThoughtWorks to explore the potential of rebuilding or replacing elements of the Inquiry Routing & Information System (IRIS): https://iris.custhelp.va.gov/.  This initiative is part of a research project to evaluate what is going well and what can be improved, removed, added, or reorganized with IRIS.  This is the start of research for this project.
+Our hypothesis is that most veterans prefer to self-serve their needs on VA.gov digitally, and they call-in or submit a query only if online resources are not easy to find or cannot address their queries. If we are able to streamline the process of finding info on VA.gov via a better user experience than the one provided by the current IRIS interface, more number of queries will be addressed for the veterans and we should see a corresponding increase in customer satisfaction scores.
 
-
-Questions:
--Please see the conversation guide
-
-
-Hypothesis: 
-- Our hypothesis is that most veterans prefer to self-serve their needs on VA.gov digitally, and they call-in or submit a query only if online resources are not easy to find or cannot address their queries. If we are able to streamline the process of finding info on VA.gov via a better user experience than the one provided by the current IRIS interface, more number of queries will be addressed for the veterans and we should see a corresponding increase in customer satisfaction scores.
 
 
 ## Method
-What method of research are you planning?
-- Directed interviews that will be moderated remotely.
+We will be conducting interviews with end users about their experiences with IRIS - ideally service members but could be members of the general public who use the function (i.e. family members of service members). An open ended discussion (using a number of questions to get started) will allow us to understand end users’ needs.
 
-Why this method? How does this methodology help you answer your research questions?
-- An open ended discussion (using a number of questions to get started) will allow us to understand end users’ needs.
+These interviews will be recorded and moderated remotely using Zoom.
 
-Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)
-- Online via Zoom.
-
-
-What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)
-- We will be conducting interviews with end users about their experiences with IRIS - ideally service members but could be members of the general public who use the function (i.e. family members of service members).
-
-
-If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
-- Zoom
-
-Determine how / if you are recording the session. 
-- Yes, the session will be recorded.
 
 
 ## Participants and Recruitment
@@ -57,24 +34,16 @@ Bonus:
 - Those with accessibility requirements and overseas locations (either currently or recently stationed overseas)
 - Participants who are available for follow up sessions for future showcases and getting feedback
 
-What is your recruitment strategy? (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
-- We will be using remote participation in light of COVID-19 and will work with Perigiean on recruitment likely from their existing sources.
+
+We will be using remote participation in light of COVID-19 and will work with Perigiean on recruitment likely from their existing sources.
 
 ## When? 	
 
-Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
-- Week of August 3rd
+We would like to begin testing the week of August 3rd. We will have participants walk through their experience with IRIS in its current state. Each session will be one hour long.
 
-Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
-n/a - will be interview not testing the product.  We may have them walk through their experience with IRIS in its current form.
-Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-- 1 hour with each participant
+Availability Monday to Friday Ideally 11 - 4 EST 
 
-Availability: If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
-- Monday to Friday Ideally 11 - 4 EST 
-
-Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
-n/a - have shared this document with the IRIS team.
+This research plan has been reviewed with the IRIS team.
 
 
 ## Team Roles
