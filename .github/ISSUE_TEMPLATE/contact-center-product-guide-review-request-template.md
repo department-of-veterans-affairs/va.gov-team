@@ -2,7 +2,7 @@
 name: Contact Center Product Guide Review - Request Template
 about: To request a Contact Center Review for your product
 title: Contact Center Review for [Tool]
-labels: analytics-insights, analytics-request, contact center
+labels: contact center, analytics-insights, analytics-request, collaboration cycle
 assignees: Kimberley Daniels, Chante LantosSwett
 
 ---
@@ -29,13 +29,10 @@ First, please review the Self service Product Guide Template [link](https://gith
 ### Product Video Transcript
 *Please provide product video transcript link*
 
-### Common Errors Video
-*Please provide common errors video link*
-
-### Common Errors Video Transcript
-*Please provide common errors video transcript*
 
 
 
 ## Acceptance Criteria
-- [ ] URLs added & QA'd 
+- [ ] VSP Analytics & Insights QA has been completed 
+- [ ] VSP Analytics & Insights sends artifacts to appropriate contact centers
+- [ ] VFS team completes brief VSP Collaboration Cycle Feedback survey [link](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before)
