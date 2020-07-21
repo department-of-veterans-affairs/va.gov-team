@@ -103,13 +103,15 @@ Huddles every morning - take to dr. info we have collected great tool to use in 
 12.  Do you typically find the reason for visit documented from the scheduling solution matches the verbal description the veteran provides why they are there. ie. Chief Complaint?
 	   - doesn't match - call center symptom is suppose to go to a triage nurse or call center doesn't ask why "patient preference" if we know whats going on - triage line is helpful pain urination can order a UA and already collected data vs. then to send to lab and wait for tests.
 13.  If you had to summarize the top 3-5 areas Veterans routinely want to discuss with you and their Dr. what would they be?
-		- talk to them about - always medications - education goes along way 
+		1.  talk to them about - always medications - education goes along way 
+			- refills go to pharmacy and how to get them fell off the list. 
+		2. Acute concerns- injury or illness that they vary going on with them in 
+			- need a view of what is main areas of concern - have a immediate issues vs. chest pain 
+		3. Know for dr. why they are coming or major triggers/life events
+			- lost wife and how help me or my left foot hurt
+		
+		General comments
 		- veterans just hang out and sit around and talk to other veterans.  not allowed to stay there.
-		- refills go to pharmacy and how to get them fell off the list. 
-		- Acute concerns- injury or illness that they vary going on with them in 
-		- need a view of what is main areas of concern - have a immediate issues vs. chest pain 
-		- know for dr. why they are coming.
-		- lost wife and how help me or my left foot hurting
 		- really appreciate it veterans, would see as a positive. because they feel like we don't know them.
 
 
