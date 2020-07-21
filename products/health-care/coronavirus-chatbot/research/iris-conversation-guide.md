@@ -47,12 +47,14 @@ Tech usage:
 
 - Why did you choose the method you chose?
 
+- How often have you used IRIS? 
+
 - Why, how and when do you use IRIS? Tell us about the last time you contacted the VA using IRIS 
 -- Prompt for why they called vs. using IRIS
- 
-- How often have you used IRIS? 
- 
+
+
 - What was the reason you were using IRIS? Tell us about time when you used it and what what the purpose behind it (trigger) - what you were looking to find?
+We'd love for you to share your screen...
 
 - IF FORM: Were you able to complete it successfully? What was the experience like.
 - Probe for usability challenges successful task completion
