@@ -7,7 +7,7 @@ assignees: Kimberley Daniels, Chante LantosSwett
 
 ---
 
-# Request the Contact Center Review for Product Guides
+# Request the Contact Center Review 
 
 ## What this form is for
 Use this template to request a Contact Center review of your product.
