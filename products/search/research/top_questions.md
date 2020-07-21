@@ -23,16 +23,21 @@ Source Document for Data: https://docs.google.com/document/d/1CFY2iCZT_92venp8NC
 ## On-Site Search
 ### Top Questions/Answers
 
-*1. How important is on-site search as a discoverability tool for VA.gov users?*
+***1. How important is on-site search as a discoverability tool for VA.gov users?***
 - 10.5% of site visitors used site search (Date Range: June 2109-2020 Source: Google Analytics)
 - Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
 
-*2. What are users searching for on VA.gov?*
+***2. What are users searching for on VA.gov?***
 
-Users are searching for general health and benefit information, forms, and some specific tasks. (Source: Google Analytics [Logged-in homepage discovery: Analytics review April 2019-April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md). 
+Users are searching for general health and benefit information, forms, and some specific tasks. (Source: Google Analytics [Logged-in homepage discovery: Analytics review April 2019-April 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md).) 
+
+- "Benefits" (~150K) and "health" (~59K) are the most searched terms. Given how generic these terms are, this may suggest that people are looking for more help and assistance from us on getting started with benefits.
+- "Forms" (~24K) is also high on the list, which suggests people want a full list of VA forms.
+- Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list
+- "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
 
 <details>
-  <summary><b>Modernized site data (2018 VA.gov only)</b></summary>
+  <summary><b>Top Search Terms (Modernized site data VA.gov only)</b></summary>
 
 Report Name | Desktop/Tablet/Mobile data
 :--- | :---: |
