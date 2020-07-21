@@ -28,7 +28,7 @@ TODO: Write a new defect critera
 1. Ensure focus is in line with design guidance or review with your accessibility specialist
 
 ## Possible Fixes (optional)
-There are two situations where adding a `tabindex` attribute is preferable: When you need to add a non-focusable element to the document focus order, and when you need to set focus with JavaScript.
+There are two situations where adding a `tabindex` attribute is preferable: When you need to set focus with JavaScript, or when you need to add a non-focusable element to the document focus order.
 
 ### Setting focus with JavaScript
 Our rich applications often require us to update small sections of the page, or use client-side routing to change views. These are both good candidates for setting focus with JavaScript. We do this to help screen readers understand that something has changed on the page, and to avoid extra tab stops for keyboard users. Elements that will receive keyboard focus via scripting must have a `tabIndex="-1"` attribute.
@@ -38,13 +38,21 @@ Our rich applications often require us to update small sections of the page, or 
 ```
 
 ```javascript
+/*
+ * This is a simple DOM example of setting focus through scripting.
+ * React applications will usually use the componentDidMount()
+ * lifecycle method or useEffect hooks to accomplish this task.
+ */
 const target = document.getElementById('first-heading');
-
 target.focus();
 ```
 
+### Adding an element to the native focus order
+Sometimes it is preferable to add a non-focusable element to the native focus order without JavaScript. By adding a `tabindex="0"` to an element like a `<div>` or `<p>`, that element can receive keyboard focus when a user tabs to it. These are beneficial when we want keyboard and screen reader users to interact with things like information cards, alert boxes, or status updates.
 
-TODO: Add the information about tab index 0 and -1
+```html
+<p class="va-alert-box" tabindex="0">This status message will receive keyboard focus now!</p>
+```
 
 
 ## WCAG or Vendor Guidance (optional)
