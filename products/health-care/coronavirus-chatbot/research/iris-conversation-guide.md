@@ -49,8 +49,10 @@ Tech usage:
 
 - How often have you used IRIS? 
 
-- Why, how and when do you use IRIS? Tell us about the last time you contacted the VA using IRIS 
--- Prompt for why they called vs. using IRIS
+ 
+- Why, how and when do you use IRIS? Tell us about the last time you contacted the VA using IRIS. (Prompt for why they called vs. using IRIS)
+- What were you trying to do (use the FAQ, submit an inquiry)?
+- Depending on the technical ability of the participant, we would ask them to share their  screen and show us what they did (i.e. where they navigated to, clicked on etc.)
 
 
 - What was the reason you were using IRIS? Tell us about time when you used it and what what the purpose behind it (trigger) - what you were looking to find?
@@ -91,6 +93,9 @@ We can dive into these depending on the participant.
 Probe for familiarity of understanding terms, information architecture/how the categories for the ‘ Inquiry Topic and Type’ down menu 
  
 - IF THEY ARE STATIONED OVERSEAS: What is the experience using IRIS as someone stationed overseas?
+
+
+We may add a few tests for users to complete that involves having a user find a specific document in the FAQ (and observing how they complete that task - if they use advanced search for example), or what the experience of navigating through the Inquiry Tree in the Ask a Question is like.  We need to determine a good sample document to find to validate for this.
 
 
 ## Thank You and Closing
