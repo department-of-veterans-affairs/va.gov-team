@@ -9,10 +9,12 @@ This `README` serves as a high-level, non-technical intro to the research findin
 - [Clipboard Technical Discovery [WIP]](#clipboard-technical-discovery-wip)
   - [Outstanding questions](#outstanding-questions)
   - [Forms Discovery](#forms-discovery)
+    - [Current Forms System](#current-forms-system)
     - [Healthcare wizard](#healthcare-wizard)
   - [Health Data APIs](#health-data-apis)
     - [Developers.va.gov](#developersvagov)
   - [Mobile Experience Findings](#mobile-experience-findings)
+  - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
 
 ---
 
@@ -20,11 +22,60 @@ This `README` serves as a high-level, non-technical intro to the research findin
 
 [WIP]
 
+- Where is the data going?
+- Can we pull in data from an external API?
+
 ---
 
 ## Forms Discovery
 
 - [technical findings](forms.md)
+
+### Current Forms System
+
+The VA uses [a fork](https://github.com/department-of-veterans-affairs/vets-json-schema) of the [React Json Schema Forms](https://github.com/rjsf-team/react-jsonschema-form). This JSON based approach allows for quick and simple forms. This library is something we leverage, even though there are some limitations.
+
+Using this system, we can create forms that contain:
+
+- create a simple form that includes drops, radios, and text fields (and others).
+- Handle required fields and other validation; both hardcoded and dynamic logic
+- Create custom Widgets
+
+![captured (1)](https://user-images.githubusercontent.com/1793923/86625609-57103880-bf93-11ea-830a-477e91c1ac8f.gif)
+
+[Full documentation here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/form-tutorial-basic/)
+
+One of the north stars of the team is to make the clipboard process as frictionless as possible. For that reason, we undertook to answer a few key questions.
+
+> Can we use the authenticated user's data in a form?
+
+Yes, we can, if the user is logged in, we access basic demographic information.
+
+> Can we force authentication on a form?
+
+Yes. This feature is built into the existing forms system. We can custom the flow as well if need be.
+
+> Can we suggest a user login part ways through a form?
+
+This one was tricky, but by utilizing session storage, we can have a form that a user can start unauthenticated, then be prompted to be authenticated and then continue the form using the data for that user.
+
+_warning: ~1 and a half minute gif_
+![early-demo-1](https://user-images.githubusercontent.com/1793923/87829151-6bceb500-c84c-11ea-8c8d-f772f28dc8ca.gif)
+
+This demo is just an early prototype and still has some limitations:
+
+- Only text field questions can be used before sign in
+- Each field on the Authentication-recommended page is a new custom widget
+
+The next steps for this prototype would be:
+
+My desired next steps if I were to continue down this route:
+
+- I would want to create some yes/no questions to be answered pre-sign in
+- Have pre-sign in data affect form dynamics post sign in
+- I want to pull in data from some other API
+- I would refactor the Authentication-recommended page.
+- Create unit tests
 
 ### Healthcare wizard
 
@@ -96,6 +147,8 @@ Next, we may need to store a few temporary values, such as tokens, states, or ot
 
 For more information: https://github.com/department-of-veterans-affairs/va.gov-team/issues/10715
 
+---
+
 ## Mobile Experience Findings
 
 The DEPO team is currently developing a brand new mobile experience for a veteran. The current experience is fragmented at best. The new app will act as a unifying experience, similar to the philosophy behind `va.gov.` After an interview with the product manager, Sophie Myers, we have learned quite a bit.
@@ -103,3 +156,29 @@ The DEPO team is currently developing a brand new mobile experience for a vetera
 The promising parts are that this new app will be integrating with all the APIs we are looking to use, scheduling, reminders, and health data. As of the time of this commit, they plan on using React Native. That's good because we leverage some existing knowledge and components to help integrate easier.
 
 All this promise comes with a slight hurdle. The mobile team is still in early discovery, so integration will not happen anytime soon. Maybe Q4 or 2020 or later at the earliest.
+
+---
+
+## Creating an API Wrapper in the VA API
+
+The Vets-API uses a faraday to wrap external requests. Our design pattern is to have a Client class that pulls in Configuration from a Config class and a Response class to handle any data conversion before handing the data back to Rails.
+
+The classes that a developer needs to be aware are:
+
+- [Common::Client::Base](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/base.rb)
+- [Common::Client::Configuration::REST](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/configuration/rest.rb)
+- [Common::Client::Configuration::SOAP](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/configuration/soap.rb)
+- [Common::Base](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/models/base.rb)
+
+Examples can be found in the lib directory, [Lighthouse Client Example](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/lighthouse/facilities)
+
+After getting the API's data, we need to use a model to represent the data inside Rails. Using the Lighthouse Facilities Client as an example, we can see an example of a model [Lighthouse::Facilities::Facility](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/facilities/facility.rb).
+
+To present the data to the frontend, the data needs to be serialized into JSON. The tech team recommends using the newer serializer in the system,`FastJsonApi`. The controller
+[Lighthouse::Facilities::FacilitySerializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/lighthouse/facilities/facility_serializer.rb) uses the newer and faster serializer.To note, [some controllers](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/messages_serializer.rb) are still using the older, slower serializer. Though not providing any current issues, this slower serializer should not be used as the team is in the process of converting over to the new serializer.
+
+To better understand how to add a new controller, we have gathered these resources:
+
+- [video tutorial for new external services](https://www.youtube.com/watch?v=V_i8JLXk5rg)
+- [slides from video](https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/)
+- [code example linked from video](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code)
