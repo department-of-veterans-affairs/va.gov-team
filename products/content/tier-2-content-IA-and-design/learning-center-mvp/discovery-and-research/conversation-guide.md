@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
+- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers by typing "observer instructions" into #feedback-backchannel
 - [ ] Have prototype link available: https://vsateams.invisionapp.com/share/YJXZTKC6CN4
 - [ ] Update the Zoom sharing settings
 - [ ] In the Zoom Attendees section, make sure everyone except the participant is on mute
@@ -157,19 +157,16 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 *Participant should still be on `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online` article*
 
-- We're going to shift gears now. Imagine you need to find out if a Veteran who has been exposed to Agent Orange can get disability compensation. How would you do that from here?
+- We're going to shift gears now. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here?
 
   *May need to remind user that things might not work as expected since this is a prototype*
 
 - Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to send you a link you directly to a page. 
 
-  
-
 *Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
 
 - Now again, scroll around, and take a look at this page. Please continue to think out loud - you're doing a great job with that.
 - How does this line up with what you expected to see? Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
-
 
 
 *This should take participant to LC Agent Orange article*
@@ -178,9 +175,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Based on this information, what would you do next?
 
-
-
-*If participant wants to to click CTA to go to Learn How to File Claim*
+  *Encourage participant to click CTA to go to Learn How to File Claim*
 
 - And, once again, how does this page line up with what you expected to find? 
 
@@ -193,11 +188,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## Task 6: Review tag results -  3 minutes
 
-- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. 
-
-  *If participant is not already on LC page:*
-
-  Can you please go back to the Agent Orange page we were just looking at? 
+- Great, thank you! We're almost done.  One more thing I'd like to get your feedback on. Can you please go back to the Agent Orange page we were just looking at? 
 
 - From here, show me how would you find more articles that might be of interest to the same group of readers.
 
