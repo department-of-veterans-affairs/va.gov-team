@@ -57,7 +57,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
-** 7/20/2020 - Design Intent
+**7/20/2020 - Design Intent**
 
 - enter form auth or unauth, can continue through form unauth
 - form wizard - routes to chapt 36 or 31
@@ -68,5 +68,4 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 
 **5/8/2020 - Kick-off**
--
 
