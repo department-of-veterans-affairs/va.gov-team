@@ -10,28 +10,16 @@ As a designer, I need to create a research plan to share with my team. (This sho
 What product & team are you doing this research for?  This is for the IRIS team
 
 
-Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
-The VA CTO Office has engaged ThoughtWorks to explore the potential of rebuilding or replacing elements of the Inquiry Routing & Information System (IRIS): https://iris.custhelp.va.gov/.  This initiative is part of a research project to evaluate what is going well and what can be improved, removed, added, or reorganized with IRIS.  This is the start of research for this project.
+Background:
+-The VA CTO Office has engaged ThoughtWorks to explore the potential of rebuilding or replacing elements of the Inquiry Routing & Information System (IRIS): https://iris.custhelp.va.gov/.  This initiative is part of a research project to evaluate what is going well and what can be improved, removed, added, or reorganized with IRIS.  This is the start of research for this project.
 
 
-Questions include:
-- Why, how and when do users use IRIS? what were you most recently looking for, and were you able to find it?
-- How often do users use IRIS?
-- Where do users expect to find resources they’re looking for?
-- What is the role of language in the resources users need - any additional languages other than English?
-- What is the role of video in accessing resources?
-- What do users do to resolve pain points they experience when using IRIS?
-- Do you use social media to address complaints, feedback or questions? If so which (Twitter, instagram, etc.)
-- If you do not find what you are looking for on IRIS FAQ, do you typically call in or submit a query via the IRIS query intake form? 
-- What you like about IRIS?
-- What don’t you like about IRIS?
-- Is there anything you would like to do that you can’t do using IRIS?
-- How does the experience for new service members using IRIS differ from more seasoned veterans, overseas members, those with accessibility requirements
-- What have we not considered? What do we not know that we don't know?
+Questions:
+-Please see the conversation guide
 
 
 Hypothesis: 
-Our hypothesis is that most veterans prefer to self-serve their needs on VA.gov digitally, and they call-in or submit a query only if online resources are not easy to find or cannot address their queries. If we are able to streamline the process of finding info on VA.gov via a better user experience than the one provided by the current IRIS interface, more number of queries will be addressed for the veterans and we should see a corresponding increase in customer satisfaction scores.
+- Our hypothesis is that most veterans prefer to self-serve their needs on VA.gov digitally, and they call-in or submit a query only if online resources are not easy to find or cannot address their queries. If we are able to streamline the process of finding info on VA.gov via a better user experience than the one provided by the current IRIS interface, more number of queries will be addressed for the veterans and we should see a corresponding increase in customer satisfaction scores.
 
 
 ## Method
@@ -60,19 +48,14 @@ Determine how / if you are recording the session.
 Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
 
 We are seeking 5 participants and will work with Perigean to recruit participants. Criteria:
-Veterans
-All Veterans
-All Service members
-National Guard and Reserve
-Their family members and friends
- 
-Mix of genders
-Mix of ages
-Participant has used IRIS in the past 6 months
+- Veterans, Service members, National Guard and Reserve, Their family members and friends
+- Participant has used IRIS in the past 6 months
+- Mix of genders
+- Mix of ages
 
 Bonus: 
-those with accessibility requirements and overseas locations (either currently or recently stationed overseas)
-Participants who are available for follow up sessions for future showcases and getting feedback
+- Those with accessibility requirements and overseas locations (either currently or recently stationed overseas)
+- Participants who are available for follow up sessions for future showcases and getting feedback
 
 What is your recruitment strategy? (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
 - We will be using remote participation in light of COVID-19 and will work with Perigiean on recruitment likely from their existing sources.
@@ -109,5 +92,5 @@ Shefali Nayak shefali.nayak@thoughtworks.com
 
 
 ## Resources
-- [Project Brief] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/IRIS-product-brief.md (DRAFT IN PROGRESS))
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/IRIS-product-brief.md (DRAFT IN PROGRESS))
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/covid-19-chatbot-conversation-guide.md)
