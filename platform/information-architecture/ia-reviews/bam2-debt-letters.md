@@ -1,12 +1,12 @@
 # IA Review and Recommendations
 
-**STATUS: IN PROGRESS**  IA WORK IN PROGRESS HERE: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
+**STATUS: COMPLETE**  
 
 **Team:** Benefits & Memorials 2
 
 **Product/Featue:** Debt Letters Tool
 
-**Background/Context:**  New tool will provide users with the ability to view letters received regarding debt from different benefits. 
+**Background/Context:**  New tool will provide users with the ability to view letters received regarding debt from different benefits.  
 
 **IA Request:** https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9686
 
@@ -17,21 +17,39 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Approach:**
+**IA/Content Strategy Approach:**
+- This initial phase will include a static content page and a single tool for viewing/downloading debt letters from VA - we are not aiming to bring over the full Debt Management site into the benefit hub experience.  Links to that additional content will be provided where applicable within static content and the tool.  A future phase will be needed to review and plan for migration of any additional content and tools that support a user's ability to manage and pay their debt.  
+- Corresponding content approach is documented here: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/10315
 
 
-Page | URL | Breadcrumb
---- | --- | ---
+**User Flow:**
+- The standard flow for authenticated tools, is to bypass the static content page when users are already authenticated. However, because this static content page will eventually house multiple tools and/or additional content pages, the main static content page must always be accessible to users through the breadcrumb or other direct link. 
+- If an unauthenticated user attempts to link directly to the authenticated tool, they will be redirected to the static page where they must first sign in. 
+- Authenticated users will be able to deep link directly to the tool or navigate to it through the static page.  
 
-**General Details**
+![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0f233eea-1736-4a28-bfee-ab699712eb02)
 
-<hr>
+
+**URLs and Breadcrumbs**
+
+_Please confirm actual breadcrumb labeling and casing with your writer. 
+
+Page | URL | Breadcrumb | Notes
+--- | --- | --- | ---
+Static page: Manage your VA Debt | wwww.va.gov/manage-va-debt/ | Home > Manage your VA debt | This is a new static content page. 
+Tool: Debt letters  | wwww.va.gov/manage-va-debt/debt-letters/ | Home > Manage your VA debt > Your debt letters| This is the authenticated tool for viewing/downloading debt letters
+
+
+
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+Priority | Placement | Label | Description
+--- | --- | --- | ---
+
+
+
 
 The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
 
@@ -56,7 +74,7 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 - Discussed that since we are not likely to be moving much content over, that linking to the content where it is, is an option to be explored.  It does sound like there's quite a bit of supporting content within the debtman site that is about how to resolve debt, so we may need additional conversations on this.
 - Walked through user flows
   - Flows bypassing the static page for authenticated users was reviewed
-  - Deep linking to debt letter detail was discussed - because the debt letters don't necessarily have unique IDs can go away, deep linking to a letter may result in not finding a letter or pulling up the wrong one.  The consensus was to always send users to the summary level of the tool first. - 
+  - Deep linking to debt letter detail was discussed - because the debt letters don't necessarily have unique IDs, deep linking to a letter may result in not finding a letter or pulling up the wrong one.  The consensus was to always send users to the summary level of the tool first. 
 - Discussions around health debt/copay debt should continue - they think they may be getting copay debt data, but not necessarily the letters
 TIMING: Research is coming up soon and they want to represent the content model, but that means that a draft static tool page is needed relatively soon (research next month).  Full launch of this tool won't be until August at the earliest.
 
