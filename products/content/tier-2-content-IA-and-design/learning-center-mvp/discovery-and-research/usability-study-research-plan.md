@@ -99,7 +99,7 @@ Liz Lantz, Public Websites, July 16, 2020
 
    - August 3: 10:30am - 7pm
 
-   - August 4: 7am - 4pm
+   - August 4: 7am - 11:45am, 1:30pm - 4pm
 
    - August 5: 8am - 8pm
 
