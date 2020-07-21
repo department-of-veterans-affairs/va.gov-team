@@ -9,7 +9,7 @@ This UAT will be conducted by the authenticated experience team for the new prof
 
 The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/README.md) effort aims to reimagine and expand the existing personalized functionality on VA.gov in order to better meet user needs and expectations. The first leg of this effort was combining the existing profile and account pages into one section titled 'Profile'. [Our research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/Research) showed us that these two sections — which were originally separate — have enough similarities in users' minds that we'd be better meeting user needs by combining these two pages. In addition to combining these two pages, this redesign aims to update the visual design and information architecture of the new section to be easier to scan and overall more usable.
 
-We have just started QA'd for this re-design on staging, and we are preparing for UAT.
+We have just started QA for this re-design on staging, and we are preparing for UAT.
 
 3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
@@ -26,8 +26,8 @@ The profile has many details in each section that we need to test, so I have bro
 
 - If a user is LOA3, does the profile land on the Personal and Contact Information page?
 - If there is an issue loading either personal or contact information, is the correct error displayed?
-- Is a users non-editable personal information being pulled in correctly from the database?
-- Is a users editable contact information being pulled in correctly from the database?
+- Is a user's non-editable personal information being pulled in correctly from the database?
+- Is a user's editable contact information being pulled in correctly from the database?
 - If there is nothing in a field is it showing the correct link?
 - If a section is editable, is it correctly updating in the appropriate field? (addresses, phone numbers, contact email)
 - If a user would like to remove information from their profile, does that work correctly?
@@ -39,7 +39,7 @@ The profile has many details in each section that we need to test, so I have bro
 
 **Military Information**
 
-- Is a users military information being pulled in correctly from the database?
+- Is a user's military information being pulled in correctly from the database?
 - If the military information cannot be pulled in, is the correct error displayed?
 - Does a user understand what to do if their military information does not look correct?
 
@@ -54,8 +54,8 @@ The profile has many details in each section that we need to test, so I have bro
 
 **Account Security**
 
-- Is the identity verification correctly displaying a users status? (LOA1 or LOA3)
-- Is 2-factor authentication correctly displaying a users status?
+- Is the identity verification correctly displaying a user's status? (LOA1 or LOA3)
+- Is 2-factor authentication correctly displaying a user's status?
 - Is the terms and conditions section correctly displaying the correct messaging for a users status? (accepted/not accepted)
 - If a user would like to change their sign in email, does the link take them to the correct place? (ID.me, MHV, DS.logon)
 - If a user has questions about signing into VA.gov, does the link take them to the correct place?
@@ -113,11 +113,11 @@ We are looking to start sessions **TBD**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-The new profile will be live on production behing a feature flag on **TBD**.
+The new profile will be live on production behind a feature flag on **TBD**.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 30-45 minutes. **Please schedule sessions for 60 minutes with a 15 minute buffer between sessions**.
+We expect sessions to only be 30-45 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
