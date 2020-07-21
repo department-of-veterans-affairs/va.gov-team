@@ -6,6 +6,11 @@ _Example: How many URLs does VA currently have? Where are they currently managed
 
 www.va.gov/ paths:
 
-Total paths: __~62099__
-Total paths that are PDFs: __~18552__
+- Total paths: __~62099__
+
+- Total paths that are PDFs: __~18552__
+
+Subdomain paths - e.g., benefits.va.gov, etc.: 
+
+
 
