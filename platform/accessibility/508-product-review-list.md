@@ -811,7 +811,6 @@ Back to [Table of Contents](#table-of-contents)
 
 **Open issues**
 - [[SCREENREADER]: VAOS - Continue button MUST give meaningful feedback during transitions - #10267](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10267)<br/>**Production** | **Opened:** June 15, 2020 | **Severity:** _508-defect-2 - **Serious**_
-- [[COGNITION]: VAOS Past Appointments - Focus SHOULD be set on the updated label when results are returned - #10888](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10888)<br/>**Production** | **Opened:** July 2, 2020 | **Severity:** _508-defect-3 - **Minor**_
 
 Back to [Table of Contents](#table-of-contents)
 
