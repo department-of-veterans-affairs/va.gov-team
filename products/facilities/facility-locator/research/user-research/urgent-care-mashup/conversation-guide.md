@@ -1,4 +1,4 @@
-# Conversation Guide for Urgent Care Mashup Study 
+# Conversation Guide: Urgent Care Mashup Study 
 
 **July 2020 Discovery**<br>
 
@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
+- [ ] [Link to Prototype](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130497321/simulate/no-panels?mode=cvhidm)
 
 ## Intro - 3 minutes
 
@@ -86,7 +86,7 @@ I'm going to have you do a second task. For this task, under the 'Choose a VA fa
 
 #### Questions:
 
-Under the 'Choose a service type' menu, talk me through what the different options mean to you.
+Open the 'Choose a service type' menu, talk me through what the different options mean to you.
    - What does 'Community urgent care providers (in VA's network)' mean to you?
    - What does 'VA urgent care' mean to you? 
 - Does this distinction matter to you? 

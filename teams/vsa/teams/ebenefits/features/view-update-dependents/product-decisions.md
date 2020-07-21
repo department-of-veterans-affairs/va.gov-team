@@ -88,7 +88,7 @@ We will need the 2 digit codes (ISO-3166 alpha 2) for all the BGS state and coun
 
 _Note/ Guiding principle_
 - Action items:
-  - Ask BGS - "What is the field level validation for city, county, state and country"
+  - Ask BGS - "What is the field level validation for city, county, state and country". Documentation speaks to this and we were able to confirm ourselves.  
 
 **TL;DR - what does this mean?  what do we do next?**
 

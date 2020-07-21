@@ -1,4 +1,4 @@
-Note taking template for Urgent Care Mashup Study
+Note taking template: Urgent Care Mashup Study
 =================================================
 
 ##### July 2020 Discovery

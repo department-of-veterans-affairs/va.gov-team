@@ -51,11 +51,11 @@ If you apply and you're not eligible, your application will be denied.
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
 
-* **Education benefit:** Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
+* **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
-* **STEM degree:** Are enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+* **STEM degree:** You're enrolled in a bachelor’s degree program for science, technology, engineering, or math (STEM), **or** have already earned a STEM bachelor’s degree and are pursuing a teaching certification. [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
 
-* **Remaining entitlement:** Have used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
+* **Remaining entitlement:** You've used all of your education benefits or are within 6 months of doing so when you submit your application. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)   
 
 
 #### 2. Prepare  
@@ -67,7 +67,7 @@ To fill out this application, you’ll need your:
 * Bank account direct deposit information  
 
 
-**What if I need help filling out my application?** An accredited individual, like a Veterans Service Officer or a Veteran representative at your school, can help you fill out this application. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
+**What if I need help filling out my application?** An accredited individual, like a Veterans Service Officer (VSO) or a Veteran representative at your school, can help you fill out this application. [Get help filing your claim](https://www.va.gov/disability/get-help-filing-claim/)
 
 
 #### 3. Apply
@@ -105,7 +105,7 @@ Start the education application >> { button }
 
 { end if logged in }  
 
-Respondent burden: **5 minutes**  
+Respondent burden: **15 minutes**  
 OMB Control #: **2900-0878**  
 Expiration date: **06/30/2023**  
 [Privacy Act Statement]()  
@@ -186,7 +186,7 @@ Form 22-10203
 
 { end warning alert }
 
-Would you still like to apply and let us determine your eligibility? (*Required)  
+Would you still like to apply and let us determine your eligibility? (*Required)  { radio buttons }
 
 * No  
 * Yes
@@ -288,7 +288,7 @@ Months you have left to use: **NN months, NN days**
 
 **You must meet the above requirements to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
 
-Would you still like to apply and let us determine your eligibility? (*Required)  
+Would you still like to apply and let us determine your eligibility? (*Required)  { radio buttons }
 
 * No  
 * Yes
@@ -345,7 +345,7 @@ Form 22-10203
 
 ### Chapter Title:  4 of 6: Military details  
 
-Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship? (*Required) 
+Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship? (*Required) { radio buttons }
 
 - Yes
 - No
@@ -371,23 +371,23 @@ Form 22-10203
 ### Chapter Title:  5 of 6:  Personal information  
 
 #### Your address { sub-head }  
-  - Country { dropdown } (*Required)
-  - Street address (*Required)
-  - Line 2
-  - City (*Required)
-  - State (*Required) { dropdown with full state names } 
-  - Postal code (*Required)
+  - Country (*Required)  { dropdown, prefill if present }
+  - Street address (*Required) { text field, prefill if present }
+  - Line 2 { text field, prefill if present }
+  - City (*Required) { text field, prefill if present }
+  - State (*Required) { dropdown with full state names, prefill if present } 
+  - Postal code (*Required) { text field, zip validation (5- or 10-digit string), prefill if present }
         
 ##### Other contact information { sub-head }  
 
 Please enter your contact details below so we can get in touch with you, if necessary.
 
-- Email address (*Required)
-- Re-enter email address (*Required)
-- Home phone number
-- Mobile phone number (*Required)
+- Email address (*Required) { text field with email validation, prefill if present }
+- Re-enter email address (*Required) { text field with email validation, prefill if present }
+- Home phone number { text field, phone number validation (10 digit string), Required if "Home phone" is selected, prefill if present }
+- Mobile phone number (*Required)  { text field, phone number validation (10 digit string) }
         
-What's the best way for us to contact you? (Check all that apply) { radio buttons }  
+What's the best way for us to contact you? { radio buttons }  
 
 - Mail
 - Email
@@ -517,6 +517,8 @@ Buffalo, NY 14240-4616
 We usually decide on applications within 30 days.
 
 You’ll get a Certificate of Eligibility (COE), or award letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
+
+[More about what happens after you apply](https://www.va.gov/education/after-you-apply/)
 
 [Go back to VA.gov]() { button }  
 

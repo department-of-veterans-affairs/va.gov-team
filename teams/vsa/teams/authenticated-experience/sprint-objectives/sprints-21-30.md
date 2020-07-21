@@ -207,6 +207,7 @@ PM
 - Call center - Contact Center Review 
 - Pre-launch - Staging review 8/3
 - Pre-launch - Privacy and Security Review 
+- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
 - QA - Any design updates out of QA
@@ -244,7 +245,6 @@ Dev
 
 PM
 - **Launch to UAT users**
-- Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
 - Conduct UAT

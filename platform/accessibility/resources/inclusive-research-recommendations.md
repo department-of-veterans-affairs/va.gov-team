@@ -30,10 +30,6 @@ There are some baseline characteristics to ensure a diverse range of Veteran par
 
 - At least 1 participant 35 or under and 1 participant over 55
 
-- At least one person with cognitive disabilities
-
-- At least one person with a disability rating of 70% or greater
-
 - At least one person that does not have a college degree (to include enlisted Vets)
 
 - At least one person that has a college degree (to include of officer Vets)
@@ -42,7 +38,9 @@ There are some baseline characteristics to ensure a diverse range of Veteran par
 
 - At least one person who lives in a major metropolitan area
 
-- To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+- At least one person with a disability rating of 70% or greater
+
+- At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 If the study requires screensharing, request that Perigean confirm:
 

@@ -1,4 +1,4 @@
-# Research Plan for Urgent Care Mashup Study 
+# Research Plan: Urgent Care Mashup Study 
 
 **July 2020 Discovery**<br>
 
