@@ -109,5 +109,5 @@ Shefali Nayak shefali.nayak@thoughtworks.com
 
 
 ## Resources
-- [Project Brief] coming soon
+- [Project Brief] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/IRIS-product-brief.md (DRAFT IN PROGRESS))
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/coronavirus-chatbot/research/covid-19-chatbot-conversation-guide.md)
