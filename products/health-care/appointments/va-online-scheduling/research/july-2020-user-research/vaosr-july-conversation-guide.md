@@ -154,25 +154,25 @@ Now we're going to look at a prototype: [Express Care Prototype - v2](https://vs
 
 [Express Care Prototype - v1](https://vsateams.invisionapp.com/share/U9XQMY2GS5V#/screens)
 
-- [EC landing page](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC landing page - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
 - Imagine you want to make an appointment to be seen for a bothersome cough *today*, how would you make an appointment for that? 
   - Is that what you expected to happen? 
     - Why / why not?
-- [EC request / consent landing page - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790747) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC subway map / consent landing page - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790747) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
   - Is that what you expected to happen? 
     - Why / why not?
   - Based on your task: making an appointment to be seen for a bothersome cough *today*, would you continue with this request?
     - Why / why not?
     - Do the options at the bottom make sense?
-- [EC form screen](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790748) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
+- [EC form screen - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790748) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
   - Probe: You have a bothersome cough, which option would you choose? 
   - What do you think will happen once you submit this form?
-- [EC confirmation screen](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790750) Do you think you will get a call back *today*?
+- [EC confirmation screen - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790750) Do you think you will get a call back *today*?
   - Probe: Does "request a phone screening" meet your expectations for making a same-day, urgent Telehealth appointment?
-- [EC screening view](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790751) What do you think will happen if you click "View Express Care Screening"?
+- [EC screening view - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790751) What do you think will happen if you click "View Express Care Screening"?
   - *After going to EC Appointments Page View* Probe: Is this what you expected to see?
     - Why / Why not?
   - Probe: Did you notice the different statuses? 
