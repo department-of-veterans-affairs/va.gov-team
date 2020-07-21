@@ -2,6 +2,9 @@
 
 _Example: How many URLs does VA currently have? Where are they currently managed (TeamSite, WordPress)? What's the usage data on these? How many of these are legally required pages? How many of these are tier 1/2 Veteran-facing, how many tier 3 administration/program office content?_
 
+VA subdomain list via GSA GitHub, courtesy of Patrick Bateman:
+https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
+
 ## As of 7/20/20
 
 www.va.gov/ paths:
