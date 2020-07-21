@@ -15,6 +15,7 @@ This design includes:
 - Unauthenticated landing page
 - An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order
 - An empty state if a Veteran does not have any debt letters on record
+- 404 alerts for if the separate API's return 404s or if both API's return 404s
 
 ## Second Release (Debt Summaries)
 
