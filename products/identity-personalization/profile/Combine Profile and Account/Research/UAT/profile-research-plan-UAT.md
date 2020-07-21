@@ -137,8 +137,8 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - **Participant recruiting & screening**: Perigean
 - **Project point of contact**: Tressa Furner or Matt Shea
 - **Participant(s) for pilot test**: TBD
-- **Note-takers**: 
-- **Observers**: 
+- **Note-takers**: TBD
+- **Observers**: TBD
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
