@@ -25,6 +25,7 @@ For success, we can see pretty quickly that the payload has been sent.
 4. Fire mailer created in step 1 (assume we have access to veteran hash in the exhausted block) 
 Example: https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/health_care_application.rb#L164 
 Another example: https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/workers/evss/disability_compensation_form/submit_form8940.rb#L16 
+5. Review this previously used PR for Direct Deposit's email implementation: https://github.com/department-of-veterans-affairs/vets-api/pull/3101
 
 ### Option 2
 Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and hasve a meeting set to chat with Paras Shah to learn more about what email and texting optins they might have.
