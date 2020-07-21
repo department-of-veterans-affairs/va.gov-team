@@ -1,4 +1,4 @@
-# IRIS Conversation Guide - DRAFT
+# IRIS Conversation Guide
 **7/21/2020**
 
 ## Introduction - 5 minutes
