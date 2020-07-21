@@ -12,6 +12,55 @@ Any of the following items if found in a PR diff will prompt a manual review
 - ESLint being disabled
 - An icon being added with `<i ...`
 
+## Adding a new trigger
+
+The automation right now only supports triggers in the form of regular expressions.
+If you can represent your trigger in the form of a regular expression then all you should need to do is add a bit of YAML config.
+
+In the [CircleCI config file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/.circleci/config.yml) there is a `workflows` section that has an array of `jobs` inside the `flag-for-manual-review` key:
+
+```yaml
+workflows:
+  version: 2
+  flag-for-manual-review:
+    jobs:
+      - eslint-check:
+          filters:
+            branches:
+              ignore: master
+     ...
+```
+
+Each of these jobs has its own specification up in the `jobs` section of the YAML config. There is some boiler-plate config that must be included, but to add a new trigger you will only need to change three environment variables:
+
+- `CODE_PATTERN`
+- `OVERALL_REVIEW_COMMENT`
+- `LINE_COMMENT`
+
+Here is a sample template:
+
+```yaml
+jobs:
+  my-review-trigger: # This name must correspond to the name used in the `jobs` list in the `flag-for-manual-review-workflow`.
+    docker:
+      - image: circleci/node:10.18
+    environment:
+      CODE_PATTERN: # the regex that will trigger a review
+      OVERALL_REVIEW_COMMENT: >
+        # An overall multiline, markdown-enabled comment left by the review bot
+      LINE_COMMENT: # The comment left on each individual line where the bot was triggered
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: yarn install
+      - run:
+          name: Try Diff
+          command: npm run pr-check
+```
+
+Once you have added your new job, make sure that the `flag-for-manual-review` workflow knows to include it.
+
 ### Sentry calls
 
 We review logs to Sentry to ensure that any new logs will be useful and will not contain PII.
