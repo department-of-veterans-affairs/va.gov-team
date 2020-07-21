@@ -213,7 +213,9 @@ Form 22-10203
 
 #### Rogers STEM Scholarship eligibility { Sub-head }   
 
-Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) [See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }    
+Are you enrolled in a science, technology, engineering, or math (STEM) degree program? (*Required) 
+
+[See eligible programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  { radio buttons }    
 - Yes  
 - No  
 
@@ -230,7 +232,9 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
-About how much of your education benefit do you have left? (*Required) [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
+About how much of your education benefit do you have left? (*Required) 
+
+[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) { radio buttons }  
 
 - More than 6 months
 - Less than 6 months
