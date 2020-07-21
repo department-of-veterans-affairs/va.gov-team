@@ -1,9 +1,9 @@
-Email subject: VA Rogers STEM Scholarship, Application Confirmation
+**Email subject:** VA Rogers STEM Scholarship, Application Confirmation
 
 
 Dear  { Fname Lname },
 
-VA received your application for the Rogers STEM scholarship on { date of email }.
+VA received your application for the Rogers STEM scholarship on { date of email, format: Mon. NN, YYYY }.
 
 We usually process applications within 30 days.  We may contact you if we need more information or documents.
 
@@ -17,10 +17,13 @@ Confirmation number { confirmation number }
 Date received { Mon. NN, YYYY }
 
 **Your claim was sent to:** 
-Eastern Region
-VA Regional Office
-P.O. Box 4616
-Buffalo, NY 14240-4616
+> Eastern Region
+>
+> VA Regional Office
+>
+> P.O. Box 4616
+> 
+> Buffalo, NY 14240-4616
 
 
 **What happens after I apply?**
