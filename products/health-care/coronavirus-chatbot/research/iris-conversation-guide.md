@@ -68,7 +68,7 @@ Do you have any accessibility requirements - do you use any assistive technology
 
 - What works well with IRIS?
 
-- What doesn’t work well? 
+- What doesn’t work well?  How well would you say you are with the categories in the Inquiry Topic and Type drop down
 
 - Say you have experienced a problem with IRIS - how would you resolve it? What would you do if you couldn't find an answer to your question with IRIS?
 
@@ -81,16 +81,17 @@ Do you have any accessibility requirements - do you use any assistive technology
 - Any closing thoughts?
 
 
-## Product experience - 45 minutes
+## Additional scenarios - 5 minutes  
+
+We can dive into these depending on the participant.
+
+- IF THEY ARE A NEW SERVICE MEMBER: What has your experience been like using IRIS as a new Service Member?
+Probe for familiarity of understanding terms, information architecture/how the categories for the ‘ Inquiry Topic and Type’ down menu 
+ 
+- IF THEY ARE STATIONED OVERSEAS: What is the experience using IRIS as someone stationed overseas?
 
 
-### Things to watch for:
-- What types of content do participants expect in each category?
-- Is there anything they expect to be in a category that we do not have content for?
-- Do participants expect certain content to be in different categories?
-- Are there expected categories missing?
-
-
+## Additional scenarios - 5 minutes  
 
 
 
