@@ -60,7 +60,7 @@
 
 #### **Slack**
 
-- [ ] Setup new channel: #platform-newsletter. 
+- [ ] Setup new channel: [#platform-newsletter](https://dsva.slack.com/channels/platform-newsletter). 
 - [ ] Draft and review Slack communication to announce release of newsletter.
 
 #### **Documentation Homepage**

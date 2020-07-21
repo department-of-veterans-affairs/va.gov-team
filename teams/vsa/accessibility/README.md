@@ -6,7 +6,7 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 * To request a VSP Collaboration Cycle Staging Review, this [accessibility test cases checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-test-cases-checklist.md) may make the request process easier for your team.
 
 ### Communication channels
-- Slack channels: #vetsgov-accessibility
+- Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 - Github labels: `508/Accessibility`
 
 ### VSA Accessibility Specialist Point of Contact

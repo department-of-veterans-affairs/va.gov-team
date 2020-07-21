@@ -16,12 +16,12 @@ The Issue Owners/Alerting Rules feature has some limitations with automatic issu
 In an effort to allow VFS teams to “own” their Sentry teams, VSP engineers are responsible for the following:
 
 * VSP engineers confirm that issue ownership and alerting rules are followed:
-    * Make sure VFS teams provide the endpoints and code paths they “own” in relation to alerting rules. As part of the orientation process, the VFS team lead will provide alerting paths/urls to VSP engineers. Once this list of endpoints is finalized, VFS teams will give this list to a backend tools engineer in the `#vfs-platform-support` Slack channel.
+    * Make sure VFS teams provide the endpoints and code paths they “own” in relation to alerting rules. As part of the orientation process, the VFS team lead will provide alerting paths/urls to VSP engineers. Once this list of endpoints is finalized, VFS teams will give this list to a backend tools engineer in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
     * Make sure that “Issue Owners” exist as a configuration at the project level. VSP engineers will need to maintain issue ownership rules to avoid conflicts with Sentry user permissions and VFS teams: 
-    * Review the current definitions of issue ownership before adding a new ownership rule. If an ownership rule currently exists, add the team to the corresponding definition. For example: sentry-team-ownership-rule #team-1 #new-team-here
+    * Review the current definitions of issue ownership before adding a new ownership rule. If an ownership rule currently exists, add the team to the corresponding definition. For example: sentry-team-ownership-rule #team-1 [#new-team-here](https://dsva.slack.com/channels/new-team-here)
         * **Note:**  Issue ownership can be a one to many relationship.
         * Review any changes for typos to ensure current rule definitions are in place. The Issue owners section per project can and will be very large. Ownership rules can be path or URL based.
-* VSP engineers are NOT responsible for setting up teams, but when a new team is going through orientation, VSP engineers are responsible for answering Sentry related configuration questions in the #vfs-platform-support Slack channel.
+* VSP engineers are NOT responsible for setting up teams, but when a new team is going through orientation, VSP engineers are responsible for answering Sentry related configuration questions in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
 * VSP engineers update Sentry on a quarterly basis or when a team leaves the Platform to ensure that teams that exist on the Platform also exist within Sentry.
 
 ### VFS team orientation
@@ -39,7 +39,7 @@ Sentry follows the naming conventions and team structuring defined in our curren
 Sentry allows for “Issue Linking” to GitHub issues. There are [known issues](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md#known-issues) with the integration process and the GitHub integration is not currently implemented.
 
 ## Slack integration
-Given the ownership of Senty error alerting, VSP engineers are responsible for monitoring issues and high volume errors in the `#vfs-sentry-alerts` channel. Engineers will triage issues appropriately when not addressed by a VFS team or asked for assistance.
+Given the ownership of Senty error alerting, VSP engineers are responsible for monitoring issues and high volume errors in the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel. Engineers will triage issues appropriately when not addressed by a VFS team or asked for assistance.
 
 ## Alerting rules 
 VSP engineers are mainly concerned with “first seen” and “high volume” alerts. VSP engineers are responsible for maintaining alerting rules on a per project basis. Alerting rules can be found in the Sentry project settings.
@@ -48,4 +48,4 @@ VSP engineers are mainly concerned with “first seen” and “high volume” a
 VSP and VFS engineers will be responsible for complying with our current [tagging standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md). A list of existing tags can be found in the Sentry project settings.
 
 ## Slack Sentry reaction legend
-We currently have a slack emoji reaction legend pinned in the `#vfs-sentry-alerts` channel. This allows developers to acknowledge issues and remove overlap during issue investigation. The legend can be found with the pinned items in `#vfs-sentry-alerts`.
+We currently have a slack emoji reaction legend pinned in the [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts) channel. This allows developers to acknowledge issues and remove overlap during issue investigation. The legend can be found with the pinned items in [#vfs-sentry-alerts](https://dsva.slack.com/channels/vfs-sentry-alerts).

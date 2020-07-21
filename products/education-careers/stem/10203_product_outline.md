@@ -2,7 +2,7 @@
 #### Communications
 - Team Name: VA.gov Education (Booz Allen Hamilton)
 - GitHub Label: bah-stem
-- Slack channel: bah-team
+- Slack channel: [#bah-team](https://dsva.slack.com/channels/bah-team)
 - Product POCs: 
 - Stakeholders: VA Education Services
 #### Team Members

@@ -6,7 +6,7 @@ Veterans want to receive pensions and burial benefits, but it is currently cumbe
 
 ## Points of Contact
 
-* Slack: #pensions-burials
+* Slack: [#pensions-burials](https://dsva.slack.com/channels/pensions-burials)
 
 |Name|Role|Email|
 |----|----|-----|

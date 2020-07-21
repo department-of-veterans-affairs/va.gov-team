@@ -3,7 +3,7 @@ _**WIP** - content is being moved from here to the [VA.gov Product folder](https
 
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
-- Slack channel: #vsa-ebenefits
+- Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - VA.gov link (WIP): [https://staging.va.gov/disability/view-disability-rating](https://staging.va.gov/disability/view-disability-rating)
 - Tool Page (WIP): [https://staging.va.gov/disability/view-disability-rating/rating](https://staging.va.gov/disability/view-disability-rating/rating)
 - Demo video link: [https://slack-files.com/T03FECE8V-F0109N6AQKA-a31ae73df4](https://slack-files.com/T03FECE8V-F0109N6AQKA-a31ae73df4)

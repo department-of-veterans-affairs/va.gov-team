@@ -5,4 +5,4 @@ Welcome to the Disability Compensation Claim form. In this directory, you'll fin
 
 Browse through the folders to find all the details, background, contacts, and status of all the Disability Compensation Claims form. 
 
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the #vfs-product channel in Slack.
+Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.

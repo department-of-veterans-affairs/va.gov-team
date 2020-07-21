@@ -69,5 +69,5 @@ When in doubt on whether an issue is _critical_ enough for out-of-band deploymen
 
 If a Rails database migration is needed for your code to work successfully, that is handled through a separate process:
 
-1. Wait for the Jenkins Slack bot to post an `Unapplied database migrations` notification in `#devops-deploys`.
-1. Once the notification has posted, log a request to the DevOps team in the `#vetsgov-devops` Slack channel, asking them to inspect the changes and run the post-deploy job.
+1. Wait for the Jenkins Slack bot to post an `Unapplied database migrations` notification in [#devops-deploys](https://dsva.slack.com/channels/devops-deploys).
+1. Once the notification has posted, log a request to the DevOps team in the [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops) Slack channel, asking them to inspect the changes and run the post-deploy job.

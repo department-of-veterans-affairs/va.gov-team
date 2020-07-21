@@ -4,7 +4,7 @@
 #### Communications
 - Team Name(s): VSP Product Support & VSP Content & Information Architecture 
 - GitHub Label: `content-ia-team` `product support`
-- Slack channel: For questions/support on this use `#vfs-platform-support` or `#vsp-product-support`; for internal team communications use `#practice-areas-review-group`
+- Slack channel: For questions/support on this use `[#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)` or `[#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support)`; for internal team communications use `[#practice-areas-review-group](https://dsva.slack.com/channels/practice-areas-review-group)`
 - Product POCs: Andrea H, Megan K
 - Stakeholders: all VFS teams using the platform to build on VA.gov; DEPO leads and team members embedded on VFS teams; all practice area reviewers conducting non-code reviews
 - Access information: Details in the `vsp-collaboration-cycle` folder in [/platform/working-with-vsp](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)

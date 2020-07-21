@@ -2,7 +2,7 @@
 
 ## Communication Channels 
 - Github Label: team-site
-- Slack Channel: #platypus-tools-team
+- Slack Channel: [#platypus-tools-team](https://dsva.slack.com/channels/platypus-tools-team)
 - Keywords: Teamsite
 
 ## Points of Contact

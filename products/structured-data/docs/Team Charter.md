@@ -43,9 +43,9 @@ Mon + Weds @ 2:30 PM EST for 30 min
 
 ### Communication
 **Slack:**
-- #vfs-pension-automation (dsva): Should be used for day-to-day discussions about project work
-- #vfs-platform-support (dsva): For any issues or questions
-- #va-startup-pension-automation (adhoc): Should only be used for sensitive internal communications
+- [#vfs-pension-automation](https://dsva.slack.com/channels/vfs-pension-automation) (dsva): Should be used for day-to-day discussions about project work
+- [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) (dsva): For any issues or questions
+- [#va-startup-pension-automation](https://dsva.slack.com/channels/va-startup-pension-automation) (adhoc): Should only be used for sensitive internal communications
 
 **Meetings:**
 - Standup on Monday and Wednesday

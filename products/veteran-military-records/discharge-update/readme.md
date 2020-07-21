@@ -6,7 +6,7 @@
 A tool to help Veterans find information about how to upgrade their discharge status. 
 
 - GitHub Label: discharge tool
-- Slack channel: #griffins-team
+- Slack channel: [#griffins-team](https://dsva.slack.com/channels/griffins-team)
 - Keywords: Discharge, Discharge Update, Discharge Upgrade, Discharge Wizard
 - Product POCs: 
   - DOD - Hendricks, Ryan A Lt Col USAF OSD OUSD P-R (US)

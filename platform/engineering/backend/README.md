@@ -2,7 +2,7 @@
 Hello! In this folder, you'll find information specific to how Backend Engineering works on VA.gov. 
 
 ### Communication channels
-- Slack channels: #vsp-backend (VSP team members) #vfs-platform-support (everyone else)
+- Slack channels: [#vsp-backend](https://dsva.slack.com/channels/vsp-backend) (VSP team members) [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) (everyone else)
 - Github labels: [backend]()
 
 ### Points of contact

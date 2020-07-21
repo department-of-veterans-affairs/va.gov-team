@@ -264,8 +264,8 @@ __Next step: follow up conversation to investigate Nick’s suggestion, and to f
 
 # Team
  - Team Name: Public Websites
- - GitHub Label: #vsa-public-websites
- - Slack channel: #va-forms
+ - GitHub Label: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
+ - Slack channel: [#va-forms](https://dsva.slack.com/channels/va-forms)
  
 
 ## Team Members

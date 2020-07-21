@@ -173,4 +173,4 @@ This document is not a comprehensive resource about all things documentation —
 - Alternatives to Algolia and Scroll Viewport
 - Licensing and software acquisition
 
-Please reach out to us in #vsp-content-ia to dig into these or other questions. 
+Please reach out to us in [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) to dig into these or other questions. 

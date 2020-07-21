@@ -42,7 +42,7 @@ Confirm specific cases with DSVA.
 
 ### Documentation of VA systems and architecture
 
-*Gray area.* This depends heavily on the systems themselves. Try asking around in DSVA's `#sre` Slack channel.
+*Gray area.* This depends heavily on the systems themselves. Try asking around in DSVA's [#sre](https://dsva.slack.com/channels/sre) Slack channel.
 
 Areas like the VA's network toplogy, especially regarding the TIC and surrounding systems, are likely to be considered sensitive by VA's networking and security teams.
 

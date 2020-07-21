@@ -53,7 +53,7 @@ Example from Vets.gov design retro:
 |---|---|---|
 | Feels like the design team is continuing to "gel" | | Losing some teammates +1 |
 | New core team is getting good improvements out soon! | Not much momentum on projects +2 | Lack of clarity in how to move forward because the roadmap is unknown +4 ★ |
-| Good rapport with VA team makes hiccups less stressful #ridethewave ★ | Many moving parts within a project can make it harder to make confident decisions | Clarity on what kinds of things are an enhancement to the experience, vs CHANGES that need stakeholder approval +1 |
+| Good rapport with VA team makes hiccups less stressful [#ridethewave](https://dsva.slack.com/channels/ridethewave) ★ | Many moving parts within a project can make it harder to make confident decisions | Clarity on what kinds of things are an enhancement to the experience, vs CHANGES that need stakeholder approval +1 |
 | Forward looking collaborative work helped instigate some technical advances ★ | More instances making it harder to be nimble in how we solve problems |  |
 | Inspired a little more comprehensive approach to forms | When is it okay to test good ideas in the wild vs exhaustively prove it out before moving at all? +1 ★ |  |
 | Excited about creation of core & discovery teams to provide foundational team-wide support | Feel like an island in a sea of engineers ★ | Unknowns with new administration |

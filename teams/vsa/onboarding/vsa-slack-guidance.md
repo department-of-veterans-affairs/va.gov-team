@@ -71,27 +71,27 @@ We know some of you have concerns about posting questions in the team channels. 
 
 All of you (except shared resources) have been assigned a team when you first join. Each team has their own team channel in the DSVA/DEPO slack.  Make sure you join your team channel as soon as you can. The team channels are outlined below:
 
-* Authenticated Experience - #vsa-authd-exp
+* Authenticated Experience - [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 
-* Benefits & Memorials 1 - #vsa-benefits-memorial
+* Benefits & Memorials 1 - [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)
 
-* Benefits & Memorials 2 - #vsa-bam-2
+* Benefits & Memorials 2 - [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)
 
-* Caregiver - #vsa-caregiver
+* Caregiver - [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)
 
-* eBenefits - #vsa-ebenefits
+* eBenefits - [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 
-* Facility Locator - #vsa-facilities
+* Facility Locator - [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)
 
-* Medical Center Sites - #vsa-vamc-upgrade
+* Medical Center Sites - [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)
 
-* Public Websites - #vsa-public-websites
+* Public Websites - [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
 
 These team channels are where you will be spending the majority of your time. They are meant for communication with your team about the things you’re working on, sprint ceremonies, etc. 
 
 ### VSP Channel
 
-VSP (Veteran-Facing Services Platform) runs a channel called #vsf-platform-support. Use this channel to:
+VSP (Veteran-Facing Services Platform) runs a channel called [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support). Use this channel to:
 
 * Request PR reviews or design reviews
 * Ask questions about processes (first ask practice leads, then ping the channel if they don’t have an answer) 
@@ -106,7 +106,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### GCIO / Ad Hoc Channels
 
-**#va-vsa-ux** - this is our “home base” for the team, where we all support each other. Use this channel for:
+va-vsa-ux - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on designs
 * Asking if other members of the team have worked on anything similar
@@ -116,20 +116,20 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting fun things to lighten things up 
 
 #### DSVA Channels
-**#vsa-design** - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
+#vsa-design - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
 * Posting weekly Wednesday updates with links about what each team member is currently working on, and what’s upcoming
 * Re-posting links from other DSVA channels that we want to make sure the design team sees.
 
-**#design** - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
+design - this channel has all designers across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big design team. This channel is useful for:
 * Asking questions about how components are used
 * Asking for “past work” done across the site to help you in your process - e.g. something like “Has anyone else worked on a form that does x?”
 * Asking process questions - e.g. “how have folks typically done x”
 
-**Flow-specific channels** (e.g. #design-system, #vetsgov-accessibiilty) - these channels are pretty quiet, so may not be the best channel to use if you want to ask the design team a question or let them know about something. I’d mostly use the #design channel for any questions. 
+**Flow-specific channels** (e.g. [#design-system](https://dsva.slack.com/channels/design-system), [#vetsgov-accessibiilty](https://dsva.slack.com/channels/vetsgov-accessibiilty)) - these channels are pretty quiet, so may not be the best channel to use if you want to ask the design team a question or let them know about something. I’d mostly use the #design channel for any questions. 
 
 ### Product
 #### GCIO / Ad Hoc Channels
-**#va-vsa-product** - this is our “home base” for the team, where we all support each other. Use this channel for:
+[#va-vsa-product](https://dsva.slack.com/channels/va-vsa-product) - this is our “home base” for the team, where we all support each other. Use this channel for:
 * Asking for feedback / thoughts on product questions
 * Asking if other members of the team have worked on similar problems
 * Sharing lessons learned from product bets and initiatives
@@ -139,7 +139,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting fun things to lighten things up
 
 #### DSVA Channels
-**#vsa-product** - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
+[#vsa-product](https://dsva.slack.com/channels/vsa-product) - this channel is for posting about our work that could benefit from larger visibility. Right now we use it for:
 * Coordinating Scrum ceremonies e.g. Sprint Demo, Team of Teams
 * Re-posting links from other DSVA channels that we want to make sure the product team sees
 
@@ -147,17 +147,17 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### DSVA Channels
 
-**#vsa-engineering** - this channel is for discussions related to the work we do at the VA that could be beneficial or interesting for all VSA engineers.
+[#vsa-engineering](https://dsva.slack.com/channels/vsa-engineering) - this channel is for discussions related to the work we do at the VA that could be beneficial or interesting for all VSA engineers.
 
-**#vfs-engineers** - this is a fantastic place to engage with engineers across all VA programs to help kickstart some technical research or seek guidance about the best way to do something.
+[#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers) - this is a fantastic place to engage with engineers across all VA programs to help kickstart some technical research or seek guidance about the best way to do something.
 
-**#vfs-frontend** - this is the channel for conversation among any VA front-end engineers. Many of the conversations center around the vets-website GitHub repo.
+[#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend) - this is the channel for conversation among any VA front-end engineers. Many of the conversations center around the vets-website GitHub repo.
 
 ### Content
 
 #### DSVA Channels
 
-**#vsa-content** - this is our “home base” for the team, where we all support each other. Use this channel for:
+[#vsa-content](https://dsva.slack.com/channels/vsa-content) - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on content work
 * Asking if other members of the team have worked on anything similar
@@ -166,11 +166,11 @@ You should join all the channels below. Guidance on how to use them is provided.
 * Posting kudos about each other
 * Posting fun things to lighten things up 
 
-**#vsa-public-websites** - Most of our content folks are assigned to this team, so many content discussions happen here.  Even if you are assigned to a different team we'd recommend joining this channel and reading discussions there. 
+[#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) - Most of our content folks are assigned to this team, so many content discussions happen here.  Even if you are assigned to a different team we'd recommend joining this channel and reading discussions there. 
 
-**#cms-support** - use this channel if you have specific drupal-related questions
+[#cms-support](https://dsva.slack.com/channels/cms-support) - use this channel if you have specific drupal-related questions
 
-**#content** -  this channel has all content folks across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big content team. This channel is useful for:
+[#content](https://dsva.slack.com/channels/content) -  this channel has all content folks across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big content team. This channel is useful for:
 
 * Asking questions about how components are used across hte whole site
 * Asking for “past work” done across the site to help you in your process - e.g. something like “Has anyone else worked on a page like this?”

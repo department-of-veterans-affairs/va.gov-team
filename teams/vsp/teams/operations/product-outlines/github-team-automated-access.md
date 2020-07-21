@@ -2,7 +2,7 @@
 
 ## Points of Contact
 - GitHub Label: None
-- Slack channel: #vsp-operations
+- Slack channel: [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
 
  
 ---

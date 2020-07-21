@@ -47,7 +47,7 @@ Notetaker: Layla Soileau
 * Barry (missing from invite)
       
 ### General presentation notes
-* Remove reference to #by-light-engineering. We're only using #by-light-general.
+* Remove reference to [#by-light-engineering](https://dsva.slack.com/channels/by-light-engineering). We're only using [#by-light-general](https://dsva.slack.com/channels/by-light-general).
 
 
 ### Wrap up

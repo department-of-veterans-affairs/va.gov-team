@@ -1,6 +1,6 @@
 # Recommendations MVP Outline
 - GitHub Label: recommendations
-- Slack channel: #recommendations for this product; #dragons-team for the team
+- Slack channel: [#recommendations](https://dsva.slack.com/channels/recommendations) for this product; [#dragons-team](https://dsva.slack.com/channels/dragons-team) for the team
 - Product POC: Mina Farzad (as of December 2018); Ben Barone (pre-December 2018)
 - Design POC: Samara Strauss
 

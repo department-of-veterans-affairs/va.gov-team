@@ -72,7 +72,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 * Make sure you press “record” yourself in the meeting software if you want your session recorded; they are not automatically recorded
    * In Zoom during a session, check under the Meetings tab and select Recorded
    * If you can’t find them, message your Perigean contact
-* Download any recordings you need, but only keep for as long as necessary to complete synthesis. Then securely dispose of them. Older macs with HDDs had a securely empty trash function. Newer macs, you need to use the command line in the folder level. If you still have questions on how to securely delete things, feel free to drop the question in #vfs-platform-support
+* Download any recordings you need, but only keep for as long as necessary to complete synthesis. Then securely dispose of them. Older macs with HDDs had a securely empty trash function. Newer macs, you need to use the command line in the folder level. If you still have questions on how to securely delete things, feel free to drop the question in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 * You can make clips of the recordings for sharing/presentations as long as those don’t contain PII. Those clips can be uploaded and included in Github. 
 * **Do not upload any original session recordings to the cloud (Github, Dropbox, Google Docs, etc.) or any public or private server. The risk of accidentally disclosing PII outweighs any benefit provided by sharing original session recordings.**   
 
@@ -93,7 +93,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
    * Follow-up questions like with “Why?” and “Tell me more” if the user has given you a short statement or not provided enough information.
    * Avoid using morale/biased language like "good!" or "perfect!" when a user completes a task in the way you'd expect.
    * If someone asks you how something works or what happens when they click on something, respond with "how would you expect it to work?" rather than answering their question
-* There is a channel in DSVA Slack called #feedback-backchannel.  Make sure to be in that channel when running your sessions and that your observers know about it.
+* There is a channel in DSVA Slack called [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel).  Make sure to be in that channel when running your sessions and that your observers know about it.
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
@@ -150,7 +150,7 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
 7. Add your research study to the [history of past research page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
 
 ## <a id="resources"></a>Other Resources
-Resources are also pinned to the #va-vsa-ux channel.
+Resources are also pinned to the [#va-vsa-ux](https://dsva.slack.com/channels/va-vsa-ux) channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
 * DSVA research folder https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research

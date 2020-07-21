@@ -3,9 +3,9 @@
 *Note: this is an MVP process and we will continue to capture pain points as we test this out and learn what works well and what doesn't. It is intended to change as we learn!*
 
 ## Step One: Discover an issue
-We have automated ways of discovering problems throughout the VA.gov ecoysystem via Pager Duty notifications in our [`#oncall`](https://dsva.slack.com/messages/C30LCU8S3) DSVA Slack channel and directly to the on-call person. (Read more about on-call approach and rotation (link TODO).)
+We have automated ways of discovering problems throughout the VA.gov ecoysystem via Pager Duty notifications in our [#oncall](https://dsva.slack.com/messages/C30LCU8S3) DSVA Slack channel and directly to the on-call person. (Read more about on-call approach and rotation (link TODO).)
 
-We also monitor reports of issues from folks (i.e. VFS Teams and VA Stakeholders) who notice them and report them in the [`#vfs-platform-support`](https://dsva.slack.com/messages/CBU0KDSB1) DSVA Slack channel.
+We also monitor reports of issues from folks (i.e. VFS Teams and VA Stakeholders) who notice them and report them in the [#vfs-platform-support](https://dsva.slack.com/messages/CBU0KDSB1) DSVA Slack channel.
 
 We would like to be monitoring user-reported issues as well, but our access to that data at this time is extremely limited, so that's something we'll be working on getting better access to.
 
@@ -16,7 +16,7 @@ We would like to be monitoring user-reported issues as well, but our access to t
 <li>Prometheus pager-duty alerts</li>
 <li>ServiceNow tickets [ need more detail on how these arre assigned to us and who they go to ]</li>
 <li>Downtime email listsserves</li>
-<li>Product team members reporting in `#oncall` Slack channel or `#vfs-platform-support` Slack channel</li>
+<li>Product team members reporting in [#oncall](https://dsva.slack.com/channels/oncall) Slack channel or [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel</li>
 <li>Sentry</li>
 <li>VA Stakeholders emailing someone they know</li>
 <li>"Get Help Signing in to VA.gov" submissions from `[ who??? ]`</li>
@@ -56,7 +56,7 @@ Resolution and Investigation are often intertwined. For example, sometimes we wi
 
 Sometimes at this point we will realize that it's an issue that needs to be handed to a VFS Product Owner / Business Owner for resolution, so we will hand it off via Slack and by re-assigning the ZenHub issue.
 
-During this time, the we will continue to communicate and share updates either in the [`#oncall`](https://dsva.slack.com/messages/C30LCU8S3) channel for urgent issues, or in the ZenHub issue itself for less time-sensitive issues.
+During this time, the we will continue to communicate and share updates either in the [#oncall](https://dsva.slack.com/messages/C30LCU8S3) channel for urgent issues, or in the ZenHub issue itself for less time-sensitive issues.
 
 ## Step Five: Document 
 We do this via Post Mortems for significant issues, or simply by documenting the fix and closing the relevant ZenHub issue.

@@ -1,6 +1,6 @@
 # Post 9/11 Enrollment Status Outline
 - GitHub Label: GI Bill status
-- Slack channel: gi-bill-status
+- Slack channel: [#gi-bill-status](https://dsva.slack.com/channels/gi-bill-status)
 - URL: /education/gi-bill/post-9-11/ch-33-benefit
 - Demo video link: n/a
 - Keywords: Post 9/11, GI Bill status, Chapter 33
@@ -11,7 +11,7 @@
 - VA.gov
     - Product Owner: Andrea Schneider, DSVA / [Andrea.Schneider@va.gov](mailto:Andrea.Schneider@va.gov)
     - Product Manager: Mark Greenburg, Ad Hoc [mark.greenburg@adhocteam.us](mailto:mark.greenburg@adhocteam.us)
-    - Sprint Team: Apps Team 1 "Unicorns" [Slack channel: #unicorns-team](https://dsva.slack.com/messages/C5AGLBNRK)
+    - Sprint Team: Apps Team 1 "Unicorns" [Slack channel: [#unicorns-team](https://dsva.slack.com/channels/unicorns-team)](https://dsva.slack.com/messages/C5AGLBNRK)
     - Designer(s): Alex Taylor, Katelyn Caillouet
     - Content Writer(s): Peggy Gannon
     - Front-end Engineer(s): Ben Shyong, Chris Valarida, Dan Hinze

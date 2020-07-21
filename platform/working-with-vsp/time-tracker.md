@@ -7,7 +7,7 @@ Ballpark the number of hours you've spent on **direct support** of the Booz Alle
 Don't include hours spent on longer-term activities, e.g., platform changes or internal planning about future process changes.
 
 Direct support includes:
-* Answering questions in the #devsupport-external channel
+* Answering questions in the [#devsupport-external](https://dsva.slack.com/channels/devsupport-external) channel
 * Answering questions via email or phone
 * Completing onboarding tasks, e.g., add ssh keys to the authorized list
 * DSVA/AdHoc meetings to define a process related to the BAH team

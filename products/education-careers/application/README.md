@@ -4,7 +4,7 @@ The Education Benefits Claims apps are a series of React forms and a Rails backe
 
 ### Communication Channels
 - Github Label: ed benefits
-- Slack Channel: #vetsgov-edu_benefits
+- Slack Channel: [#vetsgov-edu](https://dsva.slack.com/channels/vetsgov-edu)_benefits
 - Google Analytics: [here](https://analytics.google.com/analytics/web/?authuser=1#/report/conversions-goals-overview/a50123418w177519031p184334251/_u.date00=20190301&_u.date01=20190331&_.goalOption=ALL/)
 - Keywords: 1990, 1990n, 1990e, 1995, 5490, 5495, Spool File
 

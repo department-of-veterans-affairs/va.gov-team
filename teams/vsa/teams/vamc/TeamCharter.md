@@ -60,7 +60,7 @@ _VISN 4 web systems consisting of eight remaining Medical Center System Websites
 _Update and Modernize VA.gov-[Medical Center] websites using human-centered design, agile development, and DevOps practices that emphasize continuous integration/continuous delivery to iterate on the best solutions for VA.gov Medical Center website users. Utilize the pilot project website 'www.va.gov/pittsburg-health-care/ as the template and base of continuing and improving our customer experience_
 
 ### Slack Channels
-- #vamc-upgrade
+- [#vamc-upgrade](https://dsva.slack.com/channels/vamc-upgrade)
 
 ### Github Labels
 - `vamc-upgrade`

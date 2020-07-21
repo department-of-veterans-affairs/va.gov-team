@@ -1,7 +1,7 @@
 # EVSS AWS GovCloud Migration
 
 - GitHub Label: aws
-- Slack channel: #gov-cloud
+- Slack channel: [#gov-cloud](https://dsva.slack.com/channels/gov-cloud)
 - Vets.gov link: n/a
 - Demo video link: n/a
 

@@ -4,7 +4,7 @@ Veterans Benefits and Transition Act of 2018 - PL 115-407 Sec 103
 #### Communications
 - Team Name: Booz Allen
 - GitHub Label: 
-- Slack channel: bah-team
+- Slack channel: [#bah-team](https://dsva.slack.com/channels/bah-team)
 - Product POCs:
 - Stakeholders: 
 

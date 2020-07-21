@@ -26,4 +26,4 @@ You bring (refer to [Contact Center Review page](https://github.com/department-o
 - Ensure that VA Contact Centers are prepared to help Veterans troubleshoot your product
 
 ## For further support at this point
-Reach out to contact center leads in Slack via #vsp-contact-center-support or contact @chante or @joanne in Slack.
+Reach out to contact center leads in Slack via [#vsp-contact-center-support](https://dsva.slack.com/channels/vsp-contact-center-support) or contact @chante or @joanne in Slack.

@@ -55,7 +55,7 @@ Create content as a part of every online experience - whether it's button labels
 Determine the most intuitive place for Veterans to access your application, the appropriate URL, placement in navigation, and the cross-linking strategy.
 
 - [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md).
-- You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for IA check ins.
+- You'll need check ins with VSP to help you make sure you're on track! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can decide on your cadence for IA check ins.
 
 ### Engineering
 
@@ -82,7 +82,7 @@ Incorporate analytics into your code so that you can track the health of your so
 
 <!--- [Here's how to incorporate analytics into your VA.gov solutions](/).****This needs a URL****-->
 
-VSP is here to help you as you set up KPIs and integrate analytics in your code. Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can help, and to schedule an Analytics review.
+VSP is here to help you as you set up KPIs and integrate analytics in your code. Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can help, and to schedule an Analytics review.
 
 You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-request-review.md).
 
@@ -93,9 +93,9 @@ You'll need reviews from VSP to help you make sure you're on track! [Here's what
 Both manually and through automated tests, ensure your solution is doing what you want it to do.
 
 - [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/how-to-coordinate-qa.md)
-- VSP is here to help you as you test to ensure your solutions are top quality! Reach out to #vfs-platform-support in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
+- VSP is here to help you as you test to ensure your solutions are top quality! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
 
-<!--### Release Planning: Document release phases and the criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms. You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can review and/or help your write your release plan.-->
+<!--### Release Planning: Document release phases and the criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms. You'll need check ins with VSP to help you make sure you're on track! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can review and/or help your write your release plan.-->
 
 ### ATO
 
@@ -105,20 +105,20 @@ You'll need to ensure the solution you're building has the authority to operate 
 
 Get your solution tested for potential technical security issues / vulnerabilities, focusing particularly on frontend-backend interactions, anything involving certificates or cookies, and any new interactions with dependent backends.
 
-You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can schedule a security review.
+You'll need check ins with VSP to help you make sure you're on track! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can schedule a security review.
 
 ### Privacy
 
 Get your solution tested to look for potential user data issues, including affirming best practices around handling personally identifiable information.
 
-You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can schedule a privacy review.
+You'll need check ins with VSP to help you make sure you're on track! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can schedule a privacy review.
 
 ### Production readiness / infrastructure
 
 Get your technical architecture tested, to look for potential scaling concerns, dependency analysis, SLO assessment.
 
-You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can schedule a production readiness / infrastructure review.
+You'll need check ins with VSP to help you make sure you're on track! Reach out to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) in Slack to schedule a 1:1 with us so we can schedule a production readiness / infrastructure review.
 
 ---
 
-As always, if you have any questions, the VSP Team is available to help in the #vfs-platform-support channel in Slack.
+As always, if you have any questions, the VSP Team is available to help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel in Slack.

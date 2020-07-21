@@ -1,6 +1,6 @@
 # Analytics Dashboard Product Outline
 - GitHub Label: analytics
-- Slack channel: #insights-team
+- Slack channel: [#insights-team](https://dsva.slack.com/channels/insights-team)
 - Keywords: Analytics Dashboard, Scorecard
 
 ## Points of Contact:

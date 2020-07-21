@@ -115,7 +115,7 @@ The existing integration with College Scorecard already pulls in a subset of the
 
 - Team Name: BAH
 - GitHub Label: 
-- Slack channel: bah-team
+- Slack channel: [#bah-team](https://dsva.slack.com/channels/bah-team)
 - Product POCs: Darrell Neel
 - Stakeholders: Darla van Nieukerk, Luke Tickner, Brian Grubb, Joe Welton, Joe Preisser
 

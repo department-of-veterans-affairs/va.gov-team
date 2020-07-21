@@ -46,7 +46,7 @@ We answered the following research questions.
 
 ### What parts or characteristics of existing forms documentation are effective and helpful?
 
-The design system documentation is helpful as a reference for things like CSS classes, pixel numbers, class names. Users also looked for information about the naming system, setting up a web hook, uiSchemas, and schemas. Some users tend to look at the codebase first or go to #vfs-platform-support Slack channel for help, since the documentation doesn’t cover everything.
+The design system documentation is helpful as a reference for things like CSS classes, pixel numbers, class names. Users also looked for information about the naming system, setting up a web hook, uiSchemas, and schemas. Some users tend to look at the codebase first or go to [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel for help, since the documentation doesn’t cover everything.
 
 The forms documentation is relatively small, so it doesn’t cover the full breadth of the forms system. Users have gone through it several times to fill in the gaps and really get it.
 
@@ -85,7 +85,7 @@ We think this research method was helpful; however, we think it will be more hel
 ### Other takeaways
 
 - **Finding documentation (or not).** Users have bookmarked documentation and most interviewed found what they were looking for, but one user indicated that was the exception, not the rule. The documentation does not cover everything in the codebase and backend information is missing. They look at the codebase to find similar cases to theirs. Users would like quick links. They also rely heavily on other documentation, i.e. the React library and US Forms System. 
-- **Getting manual support.** The #vsp-platform-support channel has become the first choice for support. Other developers are extremely helpful.
+- **Getting manual support.** The [#vsp-platform-support](https://dsva.slack.com/channels/vsp-platform-support) channel has become the first choice for support. Other developers are extremely helpful.
 - **Skepticism about creating exhaustive documentation.** Documenting everything will be almost impossible. Being able to identify/document all the issues will be impossible. Is there a way to document new features in the code and generate documentation that way?
 - **Making something that doesn't exist yet.** Much of what users are working on hasn’t been developed yet. We need to figure out how to document how to create custom components.
 - **Help needed for more complex/advanced tasks.** The documentation is good for new users but falls off at more advanced tasks. A sandbox would be helpful to test code changes immediately.

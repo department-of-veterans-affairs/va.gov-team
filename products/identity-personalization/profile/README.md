@@ -4,7 +4,7 @@ Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Profile
-- Slack channel: #vsa-authd-exp; #va-profile
+- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); [#va-profile](https://dsva.slack.com/channels/va-profile)
 - Keywords
      - Profile
      - Profile 2.0
@@ -103,7 +103,7 @@ As of June 2020, we are currently implementing the profile 2.0 redesign.
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-authd-exp slack channels
+#vsp-platform-support and [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) slack channels
 
 ## Design 
 

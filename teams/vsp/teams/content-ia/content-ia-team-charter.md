@@ -26,7 +26,7 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 - Meet regularly w/VFS teams to discuss in-progress content and IA and provide guidance in the form of plain language, content, and IA reviews.
 - Consult on user research processes; provide content and IA recommendations based on results.
 - Validate requested URL changes, redirects, and vanity URLs.
-- Be available in #vfs-platform-support to answer Content and IA related questions.
+- Be available in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) to answer Content and IA related questions.
 - Collaborate with DEPO on evaluations and audits of content and IA on VA.gov. Provide recommendations to DEPO on updates to design.va.gov.
 - Support VFS and VSP teams in using the documentation site, building out folder structures and auditing contents as needed.
 - Maintain and improve the findability and usability of resources in the documentation site.

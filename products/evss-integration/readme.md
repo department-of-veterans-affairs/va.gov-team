@@ -59,25 +59,25 @@ There are 2 separate contract teams responsible for EVSS software:
 ### EVSS Sustainment Team
 
 For any issues with services vets.gov is currently consuming in production, contact the EVSS Sustainment Team. Ways to do this:
-  * **Slack:** the `#evss-prod` channel includes DSVA, Ad Hoc, Insignia, and CSRA members. This might be the first place you inquire about an issue you're seeing in production. However, Insignia folks aren't glued to Slack, so you should almost always follow up with an email message
+  * **Slack:** the [#evss-prod](https://dsva.slack.com/channels/evss-prod) channel includes DSVA, Ad Hoc, Insignia, and CSRA members. This might be the first place you inquire about an issue you're seeing in production. However, Insignia folks aren't glued to Slack, so you should almost always follow up with an email message
   * **Email:** as with all government things, there are numerous people who should be included on an email inquiring about a production issue
   * **Meetings:** the EVSS sustainment and development teams meet with va.gov every Monday and Thursday at 2:30pm ET. Ask for the meeting info if you'd like to join.
   
-_Why are CSRA people included in the the `#evss-prod channel`,_ you might ask? There is a bit of fuzziness around how long a service is live in production before it is considered to be in maintenance mode. E.g., if a new service goes live and bugs or issues become apparent shortly afterward, CSRA is likely still responsible for addressing those issues. If you are not sure which team to ask about a given issue, get on `#evss-internal` and see if @mattpointzxer0 and @MaryO-USDS can help make that call.
+_Why are CSRA people included in the the `#evss-prod channel`,_ you might ask? There is a bit of fuzziness around how long a service is live in production before it is considered to be in maintenance mode. E.g., if a new service goes live and bugs or issues become apparent shortly afterward, CSRA is likely still responsible for addressing those issues. If you are not sure which team to ask about a given issue, get on [#evss-internal](https://dsva.slack.com/channels/evss-internal) and see if @mattpointzxer0 and @MaryO-USDS can help make that call.
 
 ### EVSS Development Team
 
 When designing and developing new services for va.gov to consume, contact the EVSS Development Team. Ways to do this:
-  * **Slack:** the `#evss` channel includes DSVA, Ad Hoc, and CSRA members. CSRA members are fairly responsive on this channel, and will usually help by @ mentioning a specific developer on that channel who can help you out.
-  * **Meetings:** the EVSS development team and vets.gov have a daily 1pm ET standup which you are welcome to join any day. It's best to post on `#evss` that you'd like to discuss X with the team at the next standup if there's time, and someone will respond and get you added to the event. Thursdays are typically platform discussion days, so team leads join to discuss CSRA's migration of services from the VA AITC environment to AWS GovCloud.
+  * **Slack:** the [#evss](https://dsva.slack.com/channels/evss) channel includes DSVA, Ad Hoc, and CSRA members. CSRA members are fairly responsive on this channel, and will usually help by @ mentioning a specific developer on that channel who can help you out.
+  * **Meetings:** the EVSS development team and vets.gov have a daily 1pm ET standup which you are welcome to join any day. It's best to post on [#evss](https://dsva.slack.com/channels/evss) that you'd like to discuss X with the team at the next standup if there's time, and someone will respond and get you added to the event. Thursdays are typically platform discussion days, so team leads join to discuss CSRA's migration of services from the VA AITC environment to AWS GovCloud.
 
 ### Slack
 
 Just to recap the purpose of the 3 evss-related slack channels:
 
-  * `#evss-internal`: va.gov only (DSVA and Ad Hoc); use this to brainstorm things before heading over to #evss or #evss-prod
-  * `#evss-prod`: EVSS sustainment and development; use this to ask questions about any live product; you can also ask if something that's live is broken in staging if you're seeing a problem; not always responsive, so if urgent, follow up with email (see above for contacts)
-  * `#evss`: EVSS development;  use this to collaborate on services that aren’t launched yet; you can also ask about how production services were architected and/or get background information on production services; in some cases, this team will be asked to make a change to a production service, but before asking them to do this, discuss on #evss-internal
+  * [#evss-internal](https://dsva.slack.com/channels/evss-internal): va.gov only (DSVA and Ad Hoc); use this to brainstorm things before heading over to #evss or [#evss-prod](https://dsva.slack.com/channels/evss-prod)
+  * [#evss-prod](https://dsva.slack.com/channels/evss-prod): EVSS sustainment and development; use this to ask questions about any live product; you can also ask if something that's live is broken in staging if you're seeing a problem; not always responsive, so if urgent, follow up with email (see above for contacts)
+  * [#evss](https://dsva.slack.com/channels/evss): EVSS development;  use this to collaborate on services that aren’t launched yet; you can also ask about how production services were architected and/or get background information on production services; in some cases, this team will be asked to make a change to a production service, but before asking them to do this, discuss on [#evss-internal](https://dsva.slack.com/channels/evss-internal)
 
 ## May 2017 Historical Notes
 

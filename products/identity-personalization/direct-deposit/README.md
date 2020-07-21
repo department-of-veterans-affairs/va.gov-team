@@ -3,7 +3,7 @@ Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Direct Deposit  
-- Slack channel: #vsa-authd-exp
+- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 - Keywords
      - Direct Deposit  
      - Profile Direct Deposit 
@@ -275,7 +275,7 @@ We also use the govDelivery API to send emails.
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-authd-exp slack channels
+#vsp-platform-support and [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) slack channels
 
 ## Design 
 

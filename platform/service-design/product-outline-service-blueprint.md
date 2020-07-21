@@ -4,7 +4,7 @@
 
 - Team Name: VSP Service Design
 - GitHub Label:
-- Slack channel: #vsp-service-design
+- Slack channel: [#vsp-service-design](https://dsva.slack.com/channels/vsp-service-design)
 - Product POCs:  James Chasia, Naomi Marcussen
 
 ------

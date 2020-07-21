@@ -84,5 +84,5 @@ Please be sure to make requests ahead of time - ideally a sprint ahead of time.
 - Assign issue to @mnorthuis, @meganhkelley
 
 ## <a id="questions"></a>Questions?
-If you have any questions, please reach out via slack in `#vfs-platform-support`, tag @megan.kelley and @mnorthuis, or DM us directly.
+If you have any questions, please reach out via slack in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), tag @megan.kelley and @mnorthuis, or DM us directly.
 

@@ -3,7 +3,7 @@
 #### Communications
 - Team Name: VSP Content & Information Architecture
 - GitHub Label: none
-- Slack channel: #vsp-content-ia
+- Slack channel: [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia)
 - Product POCs: Megan K
 - Stakeholders: VA.gov content writers and other team members writing static or dynamic content on VA.gov; VSP content editor(s)
 

@@ -9,5 +9,5 @@
 - Drupal team: Steve Wirt, Oksana Cyrwus, Kevin Walsh
 - FE engineer(s): Nick Sullivan, Kelson Adams
 - GitHub label: 
-- Slack channel: #vsa-public-websites
+- Slack channel: [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)
 - Product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md

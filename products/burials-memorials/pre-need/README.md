@@ -1,6 +1,6 @@
 # Preneed Product Outline
 - GitHub Label: pre-need-burial
-- Slack channel: #preneed 
+- Slack channel: [#preneed](https://dsva.slack.com/channels/preneed) 
 - **Vets.gov link**: [Live application on staging](https://staging.vets.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/introduction)  
 - **Analytics link**: [GA Conversion Funnel](https://analytics.google.com/analytics/web/#/report/conversions-goal-funnel/a50123418w107014820p157543929/_.goalOption=2)
 - Demo video link: https://youtu.be/Sc5T030PBYo

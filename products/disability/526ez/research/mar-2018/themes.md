@@ -99,7 +99,7 @@
 
 # Other Themes
 
-1. **(p1,p2, p4) 3/5 were unsure about how to answer the question on whether they were unable to work** #unemployability 
+1. **(p1,p2, p4) 3/5 were unsure about how to answer the question on whether they were unable to work** [#unemployability](https://dsva.slack.com/channels/unemployability) 
 
    1. *(p2) Unable is I can't work b/c of physical limitation, but it's hard to say with PTSD because I can do the work but I can't be around people. I can't commute because I'm afraid of devices on the road. I would by default select "I am unable to work".*
    2. *(p1) I'm 70 years old, and I don't work anymore. How do I answer that when I'm 70? That's a legitimate question, but I don't know how to handle it when I'm retired.*

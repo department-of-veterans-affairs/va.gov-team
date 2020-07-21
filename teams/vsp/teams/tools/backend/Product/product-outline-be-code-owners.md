@@ -100,7 +100,7 @@ TBD
 
 - Team Name: BE Tools
 - GitHub Label: tools-be
-- Slack channel: #vsp-tools-be
+- Slack channel: [#vsp-tools-be](https://dsva.slack.com/channels/vsp-tools-be)
 - Product POCs: Alex Pappas
 - Lead Eng: JP
 - Stakeholders: 

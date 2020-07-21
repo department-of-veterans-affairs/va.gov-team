@@ -22,7 +22,7 @@ Tier 1 will:
 
 The Tier 2 specialist will:
 * Attempt to verify the issue and validate its severity using available metrics from Google Analytics and Grafana
-* For **Severe** or **Critical** issues, raise the issue in the [`#oncall`](https://dsva.slack.com/messages/C30LCU8S3) Slack channel
+* For **Severe** or **Critical** issues, raise the issue in the [#oncall](https://dsva.slack.com/messages/C30LCU8S3) Slack channel
 * For **Minor**, **Normal**, or **Major** issues, attempt to resolve the issue themselves or [write an issue in the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/issues) and assign it to the PM of the responsible team.
 * Use Slack channels to communicate with Tier 3 engineers and PMs as necessary.
 

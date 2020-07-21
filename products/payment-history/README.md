@@ -1,7 +1,7 @@
 # My Payment History
 `WIP` [working doc in team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-payment-history/feature-outline.md)
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
-- Slack channel: #vsa-ebenefits
+- Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - Old links: 
   - [My Payment History - http://www.ebenefits.va.gov/ebenefits/#](#)  
 - Staging link: https://staging.va.gov/#/payment-history/

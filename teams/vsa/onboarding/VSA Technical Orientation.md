@@ -120,28 +120,28 @@ Slack is preferred over emails; however, you will get meeting requests via email
 | Channel                    | Description                                 |
 | :------------------------- | :------------------------------------------ |
 | #general                   |
-| #forms-library             | A channel to chat about the VA Form library |
+| [#forms-library](https://dsva.slack.com/channels/forms-library)             | A channel to chat about the VA Form library |
 | #random                    |
-| #vfs-all-teams             |
-| #vfs-backend               | Backend Developers, Technical               |
-| #vfs-engineers             | Jenkins deploy, VSP announcements           |
-| #vfs-frontend              | Frontend Developers, Technical              |
-| #vfs-platform-support      | VSP Platform Support (Help)                 |
+| [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams)             |
+| [#vfs-backend](https://dsva.slack.com/channels/vfs-backend)               | Backend Developers, Technical               |
+| [#vfs-engineers](https://dsva.slack.com/channels/vfs-engineers)             | Jenkins deploy, VSP announcements           |
+| [#vfs-frontend](https://dsva.slack.com/channels/vfs-frontend)              | Frontend Developers, Technical              |
+| [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)      | VSP Platform Support (Help)                 |
 | #vsa                       | VSA all teams and practice areas            |
-| #vsa-authd-exp             | Team: Authenticated Experience              |
-| #vsa-bam-2                 | Team: Benefits And Memorial #2              |
-| #vsa-benefits-memorial     | Team: Benefits And Memorial #1              |
-| #vsa-caregiver             | Team: Caregiver                             |
-| #vsa-caregiver-engineering | Team: Caregiver (just devs)                 |
-| #vsa-ebenefits             | Team: eBenefits                             |
-| #vsa-engineering           | VSA Frontend and Backend Engineers          |
-| #vsa-facilities            | Team: Facilities                            |
-| #vsa-product               | VSA Product Collaboration (PMs, etc)        |
-| #vsa-public-websites       | Team: Public Websites                       |
-| #vsa-vamc-upgrade          | Team: Medical Center                        |
-| #vsa-clipboard             | Team: Healthcare                            |
+| [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)             | Team: Authenticated Experience              |
+| [#vsa-bam-2](https://dsva.slack.com/channels/vsa-bam-2)                 | Team: Benefits And Memorial #2              |
+| [#vsa-benefits-memorial](https://dsva.slack.com/channels/vsa-benefits-memorial)     | Team: Benefits And Memorial #1              |
+| [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver)             | Team: Caregiver                             |
+| [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering) | Team: Caregiver (just devs)                 |
+| [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)             | Team: eBenefits                             |
+| [#vsa-engineering](https://dsva.slack.com/channels/vsa-engineering)           | VSA Frontend and Backend Engineers          |
+| [#vsa-facilities](https://dsva.slack.com/channels/vsa-facilities)            | Team: Facilities                            |
+| [#vsa-product](https://dsva.slack.com/channels/vsa-product)               | VSA Product Collaboration (PMs, etc)        |
+| [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites)       | Team: Public Websites                       |
+| [#vsa-vamc-upgrade](https://dsva.slack.com/channels/vsa-vamc-upgrade)          | Team: Medical Center                        |
+| [#vsa-clipboard](https://dsva.slack.com/channels/vsa-clipboard)             | Team: Healthcare                            |
 
-- If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the #vfs-platform-support channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
+- If you still have questions about getting started or where to find certain resources (after having internally checked within your team and lead), the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel is a good place to get some visibility to your question. It is the best way for team members to engage with the VSP Platform Support Team.
 - **Bots**: **_/wtf_** On the DSVA slack, you can look up VA Acronyms (source/data: https://github.com/department-of-veterans-affairs/acronyms)
 - **Apps**: Allow the “Google Calendar” Slack app to access your work account so that it can remind you of meetings and automatically set your status to “In a meeting”
 - **Status**: In addition to setting your vacation time in the shared Google Calendar for PTO, remember to set your status for sick, commute (if within working hours), or vacation.

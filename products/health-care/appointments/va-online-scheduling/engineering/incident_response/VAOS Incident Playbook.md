@@ -8,16 +8,16 @@ The first step is identifying that an incident has occurred. Anyone submitting c
 
 ### Passive Monitoring and Alerting
 
-As a developer on the VAOS-R team please join the #vaos-alerts channel in DSVA slack if you have not already. We have setup a number of dashboard in Grafana and these dashboards trigger alerts based on SLI to help identify disruptions in application.
+As a developer on the VAOS-R team please join the [#vaos-alerts](https://dsva.slack.com/channels/vaos-alerts) channel in DSVA slack if you have not already. We have setup a number of dashboard in Grafana and these dashboards trigger alerts based on SLI to help identify disruptions in application.
 In addition, you should join the #oncall channel in DSVA slack and be prepared to notify the folks in platform operations in the event of an incident. Particularly, and most notably if you suspect this incident to pose a security or PII concern.
 
-The alerts in #vaos-alerts channel are triggered based on the following criteria and subject to change:
+The alerts in [#vaos-alerts](https://dsva.slack.com/channels/vaos-alerts) channel are triggered based on the following criteria and subject to change:
 
 1. A Circuit Breakers Outage
 2. Latency exceeding 8 seconds
 3. Request Rate or Errors exceededing a predefined % of total request rate. (this one has yet to be implemented).
 
-In addition, the Platform team monitoring the performance of the overall platform might reach out to folks on the #vaos-eng channel in the event of issues they have identified as potentially dangerous and problematic.
+In addition, the Platform team monitoring the performance of the overall platform might reach out to folks on the [#vaos-eng](https://dsva.slack.com/channels/vaos-eng) channel in the event of issues they have identified as potentially dangerous and problematic.
 A formal oncall schedule for the VAOS team might ultimately be implemented to help address a deficiency here if it is needed.
 
 ### Active Monitoring
@@ -59,7 +59,7 @@ you are still responsible for taking whatever means necessary to escalate the is
     8. Identify the criticality of the issue. 
     9. Assign the issue to Larry Norcross in Production Support.
     10. Open a corresponding Github in va.gov-team and link to the issue you opened in JIRA.
-    11. Tag any appropriate people who should be aware in #vaos-eng channel.
+    11. Tag any appropriate people who should be aware in [#vaos-eng](https://dsva.slack.com/channels/vaos-eng) channel.
 
 #### VA Platform Issue Escalation Playbook
 

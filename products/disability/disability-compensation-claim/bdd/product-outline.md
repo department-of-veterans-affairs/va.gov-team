@@ -1,6 +1,6 @@
 # Benefits Delivery at Discharge on VA.gov 
 - GitHub Label: [BDD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/BDD)
-- Slack channel: N/A (regular #vsa-benefits-memorials channel)
+- Slack channel: N/A (regular [#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials) channel)
 - Product POCs: Andrea Schneider
 - va.gov link: https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/
 

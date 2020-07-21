@@ -5,4 +5,4 @@ Welcome to the Disability hub. In this directory, you'll find lots of informatio
 
 Browse through the product folders to find all the details, background, contacts, and status of all the Disability tools. 
 
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the #vfs-product channel in Slack.
+Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.

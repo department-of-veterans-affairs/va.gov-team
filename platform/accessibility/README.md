@@ -13,7 +13,7 @@ VSP Accessibility supports teams building on VA.gov to ensure that nobody is exc
 
 ## How to contact us
 VSP Accessibility contact: Trevor Pierce, `@Trevor Pierce` in Slack, `1Copenut` in Github
-Slack channels: #vetsgov-accessibility
+Slack channels: [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility)
 Github labels: `508/Accessibility`
 
 ## What we do

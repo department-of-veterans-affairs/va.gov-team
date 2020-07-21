@@ -12,7 +12,7 @@ For example:
 * A change to how the website build process works
 * A significant change to the content style guide
 
-**All instances of breaking changes should be posted to *#vfs-all-teams*.**
+**All instances of breaking changes should be posted to [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams).**
 
 The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accommodate the change in their work. Some examples:
 
@@ -28,7 +28,7 @@ The post needs to provide enough information that a designer, developer, or cont
   * If a new need arises (e.g., access to a new Github repo is needed), direct the request to the DEPO contact, who will determine access and permissions.
 
 ### DEPO and the platform team provide support
-* DEPO and the platform team will monitor the #vfs-platform-support Slack channel for product-focused questions/inquiries from VFS teams.
+* DEPO and the platform team will monitor the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel for product-focused questions/inquiries from VFS teams.
 
 ### The platform team cannot direct VFS teams
 
@@ -49,15 +49,15 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
 
 ### Look for documentation before posting a question in Slack (or contacting DEPO).
 * See your team's Github "Product" folder or orientation guides.
-* If you don't find an answer, post in #vfs-platform-support.
+* If you don't find an answer, post in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support).
 
 ### Use Slack channels for different purposes.
 
 * **For product questions** use your team's "product" Slack channel.
   * Example question: "Where can I find previous research?"
-* **For process questions**, use the *#vfs-platform-support* Slack channel.
+* **For process questions**, use the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel.
   * Example questions: "I can't get the proxy to work" or "How do I integrate this into that?" or "How do I use Zenhub to do X?"
-* **For practice area questions** use your practice area Slack channel (e.g., *#design*)
+* **For practice area questions** use your practice area Slack channel (e.g., [#design](https://dsva.slack.com/channels/design))
 
 ### Use best communication method.
 

@@ -5,4 +5,4 @@ Welcome to the Identity folder. This directory contains information about user i
 
 ---
 
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the #vfs-product channel in Slack.
+Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.

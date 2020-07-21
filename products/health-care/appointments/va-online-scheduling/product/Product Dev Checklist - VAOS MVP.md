@@ -6,7 +6,7 @@ This checklist is for you to gut check that you've taken all of the steps necess
 
 You'll review some of the things from this list with VSP as a part of the [Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle), those items are starred below.
 
-_Note: as always, use the **#vfs-platform-support** Slack channel whenever you have a question on how to proceed!_
+_Note: as always, use the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel whenever you have a question on how to proceed!_
 
 ---
 

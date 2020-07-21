@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: [???](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: n/a (#vsa-benefits-memorials)
+- Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
 - Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: N/A, this is an internal tool to help with several products, here is the [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7475)
 - Stakeholders: N/A

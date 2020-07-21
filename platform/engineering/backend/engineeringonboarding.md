@@ -6,7 +6,7 @@ This document is designed to encompass onboarding for any engineers joining the 
 
 ## Logistics
 
-- Get on Slack and added to at least #vetsdotgov, #vetsgov-engineers, and any channel for project(s) you will be working on.  
+- Get on Slack and added to at least [#vetsdotgov](https://dsva.slack.com/channels/vetsdotgov), [#vetsgov-engineers](https://dsva.slack.com/channels/vetsgov-engineers), and any channel for project(s) you will be working on.  
 - Get added to the department-of-veterans-affairs GitHub organization. Everyone needs to be added to the "Vets.gov Engineers" team. 
 	- USDS HQ folks should also be added to the "US Digital Service HQ" team. 
 	- DSVA folks should also be added to the "Digital Service at VA" team

@@ -42,7 +42,7 @@
 - [ ] make sure all attendees (except participant) are muted
 - [ ] have open a neutral/blank screen for introduction 
 - [ ] have your conversation guide somewhere accessible that the participant cannot see
-- [ ] check #feedback-backchannel for questions and notes
+- [ ] check [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) for questions and notes
 
 ## After Sessions
 - [ ] Encourage notetakers and observers to share top 3-5 takeaways at the end of each session. Quickly transcribe to post-its/Reframer/Handrail/other synthesis system and cluster to ID early patterns 

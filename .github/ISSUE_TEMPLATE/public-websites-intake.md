@@ -16,7 +16,7 @@ assignees: lunascoop, DanielleThierryUSDSVA
 ## Steps to complete intake request
 - [ ] Submit this request when VSA Public Website team intervention is required
 - [ ] Provide detailed information of your request to help us understand our role in completing your request 
-- [ ] Link to this issue in #vsa-public-websites in Slack, tag @Selina Cooper 
+- [ ] Link to this issue in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) in Slack, tag @Selina Cooper 
 
 __When to submit a request__
 

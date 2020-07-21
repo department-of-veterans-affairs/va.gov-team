@@ -12,7 +12,7 @@ All teams working on VA.gov need to have a *Verified GitHub Team*, which is for 
     * Select the team name after `vfs-*` or `vsp-*`, an example would be `vfs-[team name here]`, then choose a name that will not change and is approved by DEPO. Team names should be connected to the team’s work and not the contractor working on the contract. 
     * Each VFS GitHub team must have their DEPO lead as a Maintainer/Admin, who can add and remove users.    
     * Maintainers should add all members to the team including both engineers and nonengineers. 
-* Inform the VSP Platform Support and the VSP Operations team of any new GitHub team by posting in the #vfs-platform-support  channel. 
+* Inform the VSP Platform Support and the VSP Operations team of any new GitHub team by posting in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)  channel. 
 
 ### Maintaining GitHub Teams 
 
@@ -25,7 +25,7 @@ All teams working on VA.gov need to have a *Verified GitHub Team*, which is for 
 ### Making Naming and Maintainer Changes to a Verified GitHub Team
 
 * No changes to a *Verified GitHub Team* name can be made unless approved by DEPO, the VSP Platform Support, and the VSP Operations team.
-    * To request a *Verified GitHub Team* name change, please post in the  #vfs-platform-support channel and provide:
+    * To request a *Verified GitHub Team* name change, please post in the  [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel and provide:
         * The existing and new team names
         * An explanation for the name change
         * A DEPO point of contact.  

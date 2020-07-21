@@ -34,7 +34,7 @@
 ### Sprint 22 (04-01-2020)
 - [Feature Toggles](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/feature-toggles) - v0.3
   - Added sticky behavior so unauthenticated users can be locked into a particular variant by a unique ID
-  - [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the #vfs-platform-support-channel
+  - [Documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) updated to correct errors reported in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel
 
 ### Sprint 21 (03-17-2020)
 - [Automated Code Quality](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/automated_code_quality) - v1.1 

@@ -22,7 +22,7 @@
 - *Stretch: automate data population where possible*
 
 **Product Support**
-- Support current VFS teams in engineering, product, and design needs (incl monitoring + responding in #vfs-platform-support channel during business hours)
+- Support current VFS teams in engineering, product, and design needs (incl monitoring + responding in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel during business hours)
 - Create Roadmap
 - Get draft plan in place for handling VSA coming on board
   - RISK: we will have to balance this with the support of current VFS teams which is the first priority

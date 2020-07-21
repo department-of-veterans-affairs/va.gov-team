@@ -27,7 +27,7 @@ We'll focus on how users navigate the site on both mobile and desktop, whether t
 **2) Recommending current and future IA work based on these regular evaluations ^ of VA.gov.**
 And showing how we can help.
 
-**3) Working with the #ia-forum and others in DEPO to prioritize IA projects:**
+**3) Working with the [#ia-forum](https://dsva.slack.com/channels/ia-forum) and others in DEPO to prioritize IA projects:**
   * Where do they think users struggle?
   * What projects need IA help the most?
   * What are other considerations? 
@@ -35,7 +35,7 @@ And showing how we can help.
 ### We've kicked off discussion and sharing about IA.
 
 * **IA planning roadmap:** [The latest IA planning roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/IA-planning-roadmap.pdf) shows the (hopefully) full landscape of projects that involve IA. **(Download the roadmap for easier reading.)**
-* **Slack:** Members, please post ideas, input, and examples to **#ia-forum** or **#va-cto-team**!
+* **Slack:** Members, please post ideas, input, and examples to [#ia-forum](https://dsva.slack.com/channels/ia-forum) or [#va-cto-team](https://dsva.slack.com/channels/va-cto-team)!
 * **Meetings and discussions:**  
   * **June 24** we discussed and got feedback on:
     * Our [plan for IA work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy%2Bplanning/presentations/IA-at-VA-planning-6-24-2020.pdf); 

@@ -70,4 +70,4 @@ If a user responds to resolution communication that they are still experiencing 
 
 #### Still not sure?
 
-If you still have a doubt about how or when to engage with the VSP Contact Center team or need an immediate answer to your question, please reach out to the [`#vsp-contact-center-support`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
+If you still have a doubt about how or when to engage with the VSP Contact Center team or need an immediate answer to your question, please reach out to the [#vsp-contact-center-support](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.

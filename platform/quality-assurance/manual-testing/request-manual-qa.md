@@ -15,7 +15,7 @@
     * Assign the issue to: ```pjhill Peter Hill```
     * Follow the instructions within the template to produce a high quality request.
 2. **Within 4 business days**, VSP will conduct manual QA using information provided in the [Checklist below](#Manual-qa-checklist).
-    * If you don't hear anything after 4 business days, reach out to your VSP Product Support in #vsp-product-support.
+    * If you don't hear anything after 4 business days, reach out to your VSP Product Support in [#vsp-product-support](https://dsva.slack.com/channels/vsp-product-support).
 3. VSP Product Support QA will update the Github issue with relevant [QA artifacts](../qa-artifacts.md).
 4. If your QA review results in test incidents, you will need to work with VSP Product Support QA to triage each incident.
    * Determine whether the incident is a defect, enhancement, or misinterpretation of acceptance criteria.

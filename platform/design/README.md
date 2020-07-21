@@ -11,7 +11,7 @@ If you need a hand with anything, don't hesitate to contact us.
 - Emily Waggoner, Principal Designer - Slack @EmilyWaggoner
 - Crystabel Reiter, UX Designer - Slack @CrystabelReiter
 
-Slack channel: #design
+Slack channel: [#design](https://dsva.slack.com/channels/design)
 Github/Zenhub labels: product-support
 
 ## <a id="whatwedo"></a> What we do

@@ -6,8 +6,8 @@
 ---
 
 ### Setup
-- Slack #feedback-backchannel will be used for real-time feedback from observers
-- Attendee/Observer instructions, including instructions for #feedback-backchannel, will be sent out ahead of the sessions
+- Slack [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) will be used for real-time feedback from observers
+- Attendee/Observer instructions, including instructions for [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel), will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-usability-staging-0520/686-usability-staging-research-plan.md)
 

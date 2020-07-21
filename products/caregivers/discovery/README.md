@@ -2,7 +2,7 @@
 
 ## Communications
 - GitHub Label: 
-- Slack channel: #vsa-caregiver, #vsa-caregiver-engineering, #vsa-caregiver-updates
+- Slack channel: [#vsa-caregiver](https://dsva.slack.com/channels/vsa-caregiver), [#vsa-caregiver-engineering](https://dsva.slack.com/channels/vsa-caregiver-engineering), [#vsa-caregiver-updates](https://dsva.slack.com/channels/vsa-caregiver-updates)
 - Product POCs: Scott Yaroschuk
 - Stakeholders: David Bao
 

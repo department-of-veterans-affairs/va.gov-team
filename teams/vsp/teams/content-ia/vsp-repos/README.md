@@ -2,7 +2,7 @@
 
 **Primary Contacts:** Mikki Northuis, Matt Johnson
 
-**Slack Channel(s):**  #vsp-platform-support,  #vsp-content-ia (internal vsp channel)
+**Slack Channel(s):**  [#vsp-platform-support](https://dsva.slack.com/channels/vsp-platform-support),  [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) (internal vsp channel)
 
 ### Background ###
 Currently documentation and working artifacts are stored in a number of different repos within GitHub.  Many of these repos are also private repos, which doesn't follow DSVA's desire to be open and transparent regarding the va.gov work.  

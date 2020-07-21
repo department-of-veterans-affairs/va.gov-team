@@ -22,23 +22,23 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 ### Option A: When downtime is expected to last > 10 minutes: 
 
-1. Make an announcement at the weekly Team of Teams meeting and notify #vfs-all-teams in Slack at least 1 week in advance
+1. Make an announcement at the weekly Team of Teams meeting and notify [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) in Slack at least 1 week in advance
 
-1. Post a Slack notification of the downtime in #vsa-public-websites channel at least 4 days in advance, ccing @Jen Lee so that the team is aware and that the appropriate parties will be notified. 
+1. Post a Slack notification of the downtime in [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) channel at least 4 days in advance, ccing @Jen Lee so that the team is aware and that the appropriate parties will be notified. 
 
-1. Once the planned downtime has been announced in the #vsa-public-websites and #vfs-all-teams channels, VSP content lead (@peggygannon) will create a content ticket for the downtime messages. 
+1. Once the planned downtime has been announced in the [#vsa-public-websites](https://dsva.slack.com/channels/vsa-public-websites) and [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) channels, VSP content lead (@peggygannon) will create a content ticket for the downtime messages. 
 
 1. **For downtime messages that will appear sitewide on static pages:**
-    - Peggy will add Jen Lee and #vsa-public-website dev to the content ticket as reviewer.
+    - Peggy will add Jen Lee and [#vsa-public-website](https://dsva.slack.com/channels/vsa-public-website) dev to the content ticket as reviewer.
     - VSA-public-website dev will create PR using the approved message and add Peggy Gannon as reviewer. (Jen Lee as optional reviewer.)
-    - Once PR has been reviewed/approved, #vsa-public-website dev can implement it.
+    - Once PR has been reviewed/approved, [#vsa-public-website](https://dsva.slack.com/channels/vsa-public-website) dev can implement it.
  
 1. **For downtime messages that will appear in applications, tools, and on sign-in modules:**
     - Applications, tools, and sign-in modules will show automated notifications when the associated service is unavailable, but no advance or custom messaging will be shown in these locations.
 
 ### Option B: When downtime is expected to last < 10 minutes: 
 
-1. Make an announcement in #vfs-all-teams in Slack at least 1 business day in advance. 
+1. Make an announcement in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) in Slack at least 1 business day in advance. 
 
 1. There will be no sitewide or advance notification of this downtime. Applications, tools, and sign-in modules will show automated notifications when the associated service is unavailable. 
 

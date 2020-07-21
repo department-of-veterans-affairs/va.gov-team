@@ -2,7 +2,7 @@
 
 # Product Outline: eBenefits
 - GitHub Label: vsa-ebenefits
-- Slack channel: vsa-ebenefits
+- Slack channel: [#vsa-ebenefits](https://dsva.slack.com/channels/vsa-ebenefits)
 - VA.gov link: n/a
 - Demo video link: n/a
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)

@@ -4,7 +4,7 @@ Last Updated July 6, 2020
 
 ## POCs
 - GitHub Label: Address Validation
-- Slack channel: #vsa-authd-exp
+- Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 - Keywords
      - Candidate Address 
      - Address Validation 
@@ -237,7 +237,7 @@ Candidate Address Validation uses the VA profile address validation API (https:/
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-authd-exp slack channels
+#vsp-platform-support and [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp) slack channels
 
 ## Design 
 

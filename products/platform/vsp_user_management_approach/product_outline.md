@@ -4,7 +4,7 @@
 #### Communications
 - Team Name: VSP Operations
 - GitHub Label: Operations
-- Slack channel: #vsp-operations
+- Slack channel: [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
 - Product POCs: VSP Operations
 - Stakeholders: VSP and VFS
 

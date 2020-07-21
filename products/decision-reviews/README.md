@@ -1,6 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
 - GitHub Label: [vsa-decision-reviews](https://github.com/department-of-veterans-affairs/va.gov-team/labels/vsa-decision-reviews)
-- Slack channel: #vsa-decision-reviews
+- Slack channel: [#vsa-decision-reviews](https://dsva.slack.com/channels/vsa-decision-reviews)
 - va.gov link: tbd
 
 ## WIP

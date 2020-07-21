@@ -61,8 +61,8 @@ The CMS points of contact are:
 - Howard Brande, Help Desk / Support manager Slack `@Howard Brande`
 
 Slack channels:
-- #cms-support 
-- #cms-team
+- [#cms-support](https://dsva.slack.com/channels/cms-support) 
+- [#cms-team](https://dsva.slack.com/channels/cms-team)
 
 Github/Zenhub labels:
 - `cms-team`? (TBD)

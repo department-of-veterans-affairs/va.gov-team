@@ -2,7 +2,7 @@
 ## Points of Contact
 - Lead: Clarice Chan (PIF, CTOs Office)
 - GitHub Label: By Light, notifications-settings
-- Slack channel (development team): #by-light-general, #vsa-authd-exp
+- Slack channel (development team): [#by-light-general](https://dsva.slack.com/channels/by-light-general), [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp)
 
 |Name|Role|Email|
 |----|----|-----|

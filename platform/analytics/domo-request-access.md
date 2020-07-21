@@ -8,7 +8,7 @@
 
 ### Send a request
 
-To request access to Domo, please copy the following template, fill it out, and post it to the #vfs-platform-support channel.
+To request access to Domo, please copy the following template, fill it out, and post it to the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) channel.
 
 Domo access request:
 - Name(s):

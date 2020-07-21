@@ -2,7 +2,7 @@
 
 So you’re starting a new project — congratulations! This is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov. VSP’s mission is to provide a framework comprised of systems, tools, processes, documentation, and customer support, that helps VFS Teams create successful VA.gov products.
 
-The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives. Not sure if this process applies to your project? Not sure how your edge case fits in? Ask us in #vfs-platform-support and we’d be happy to help customize a plan! 
+The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives. Not sure if this process applies to your project? Not sure how your edge case fits in? Ask us in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and we’d be happy to help customize a plan! 
 
 
 ##### Table of contents
@@ -61,7 +61,7 @@ You bring:
 We’ll work together to identify any areas of your project that need additional support or collaboration. Follow-ups and areas to expand upon should be called out in this meeting and scheduled after the fact. 
 
 ## For further support at this point
-Reach out via Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
+Reach out via Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
 
 ---
 
@@ -153,7 +153,7 @@ VSP brings:
   - Analytics (Joanne) - optional
 
 ## For further support at this point
-Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
+Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
 
 ---
 
@@ -210,7 +210,7 @@ VSP provides:
 - Finalized information architecture attributes
 
 ## For further support at this point
-Reach out to Information Architecture resources (@Mikki) in Slack #vfs-platform-support with any questions.
+Reach out to Information Architecture resources (@Mikki) in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions.
 
 ---
 
@@ -224,7 +224,7 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 ## Collaboration Format: 30-minute kickoff meeting for Google Tag Manager
 
 ### Request process
-**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) to open a ticket)_. Slack #vfs-analytics for ForeSee setup.
+**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) to open a ticket)_. Slack [#vfs-analytics](https://dsva.slack.com/channels/vfs-analytics) for ForeSee setup.
 
 ### Meeting attendees 
 
@@ -263,7 +263,7 @@ You bring:
 * VSP’s support for analyzing resulting data
 
 ## For further support at this point
-Reach out to analytics experts on Slack via #vfs-platform-support
+Reach out to analytics experts on Slack via [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 
 ---
 
@@ -289,7 +289,7 @@ You bring (refer to [Contact Center Review page](https://github.com/department-o
 - Ensure that VA Contact Centers are prepared to help Veterans troubleshoot your product
 
 ## For further support at this point
-Reach out to contact center leads in Slack via #vsp-contact-center-support or contact @chante or @joanne in Slack.
+Reach out to contact center leads in Slack via [#vsp-contact-center-support](https://dsva.slack.com/channels/vsp-contact-center-support) or contact @chante or @joanne in Slack.
 
 ---
 
@@ -345,7 +345,7 @@ VSP brings:
   - Analytics (Joanne) - optional
 
 ## For further support at this point
-Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
+Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
 
 ---
 
@@ -384,7 +384,7 @@ Ensure your feature meets VSP's privacy and security standards.
   - Engineering experts (Andrew, others as needed)
 
 ## For further support at this point
-Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
+Reach out to Platform team in Slack [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) with any questions, and you’ll be directed to the correct resource.
 
 ---
 
@@ -416,7 +416,7 @@ You bring:
 - VA's 508 office reviews and approves (as applicable) your product
 
 ## For further support at this point
-Reach out to accessibility experts in #vetsgov-accessibility in Slack.
+Reach out to accessibility experts in [#vetsgov-accessibility](https://dsva.slack.com/channels/vetsgov-accessibility) in Slack.
 
 ---
 
@@ -430,7 +430,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 ## Collaboration format: asynchronous
 
 ### Request Process
-**VFS Product Manager** link to your completed Release Plan in Slack #vfs-all-teams and tag @mandi lipka
+**VFS Product Manager** link to your completed Release Plan in Slack [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) and tag @mandi lipka
 
 ### Artifact inputs
 You bring: 
@@ -444,5 +444,5 @@ _**VSA teams:**_
 - Work with VSA Product Lead to schedule a 30min debrief + QA of your Report with the VSA Practice Leads, your PO, and DEPO Leads 
 
 ## For further support at this point
-Reach out in #vfs-all-teams with questions
+Reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) with questions
 

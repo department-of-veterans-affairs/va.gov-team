@@ -2,7 +2,7 @@
 
 ## Points of Contact
 - GitHub Label: dashboard
-- Slack channel: #dragons-team
+- Slack channel: [#dragons-team](https://dsva.slack.com/channels/dragons-team)
 - VA.gov link: https://www.va.gov/my-va
 
 |Name|Role|Email|

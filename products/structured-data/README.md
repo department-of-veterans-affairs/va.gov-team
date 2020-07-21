@@ -5,7 +5,7 @@
 #### Lines of Communication
 - **Team Name:** Structured Data for Burial Benefits (530 Form)
 - **GitHub Labels:** structured-data, form 530
-- **Slack channel:** #vfs-pension-automation
+- **Slack channel:** [#vfs-pension-automation](https://dsva.slack.com/channels/vfs-pension-automation)
 
 #### Team Members
 - **Product Manager:** Sophie Myers (Sophia.Myers@adhocteam.us)

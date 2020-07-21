@@ -1,9 +1,9 @@
 # Conversation Guide for VIC landing page usability testing
 
 ### Moderator logistics
-Use #feedback-backchannel in Slack for real-time feedback from observers.
+Use [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) in Slack for real-time feedback from observers.
 
-Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
+Before the session, send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 In the Attendees section, make sure everyone except the participant is on mute
 
