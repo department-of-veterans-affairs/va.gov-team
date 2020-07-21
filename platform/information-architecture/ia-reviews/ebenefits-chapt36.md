@@ -38,8 +38,14 @@ Application | www.va.gov/careers-employment/education-and-career-counseling/appl
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
---- | --- | ---
+Priority | Placement | Label | Notes/Description
+--- | --- | --- | ---
+--- | [Dependent benefits page](https://www.va.gov/careers-employment/dependent-benefits/) | |
+--- | [Family member benefits hub page](https://www.va.gov/family-member-benefits/) | |
+--- | CareerScope page | | possibly add a related benefits box to bottom of page
+
+
+
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
