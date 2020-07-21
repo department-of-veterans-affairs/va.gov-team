@@ -28,8 +28,7 @@ Do you have any accessibility requirements - do you use any assistive technology
 - Yes (and what technology)
 - No
 
-# Tech and mobile usage:
-
+Tech usage:
 - Generally, how comfortable would you say you are with technology? (Novice, Intermediate, Savvy)
 - What type of desktop, tablet and phone do you use (and operating system).  
 - What do you used to access va.gov and where do you access it? (Probe for mobile usage, network use (broadband))
