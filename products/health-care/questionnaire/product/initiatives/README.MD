@@ -3,17 +3,17 @@
 
 If you had to summarize the top 3-5 areas Veterans routinely want to discuss with you and their Dr. what would they be?
 
-1.  talk to them about - always medications - education goes along way
+1.  Alwasy talk about medications - education goes along way
 
-	- refills go to pharmacy and how to get them fell off the list.
+	- refills go to pharmacy and and the others fall off the list as the provider must renew the rx. 
 
-2.  Acute concerns- injury or illness that they vary going on with them in
+2.  Acute concerns- injury or illness that is going on with them
 
 	- need a view of what is main areas of concern both acute/chronic
 
 	- have immediate issues ie. chest pain
 
-3.  Know why they are coming or major triggers/life events
+3.  Know why they are coming in today or major triggers/life events
 
 	- lost wife and how help me or my left foot hurting
 
