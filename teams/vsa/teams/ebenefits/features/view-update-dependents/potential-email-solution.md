@@ -28,7 +28,7 @@ Another example: https://github.com/department-of-veterans-affairs/vets-api/blob
 5. Review this previously used PR for Direct Deposit's email implementation: https://github.com/department-of-veterans-affairs/vets-api/pull/3101
 
 ### Option 2
-Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and hasve a meeting set to chat with Paras Shah to learn more about what email and texting optins they might have.
+Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and have a meeting set to chat with Paras Shah to learn more about what email and texting optins they might have.
 
 ---------
 
@@ -36,15 +36,15 @@ Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and 
 (Success)  
 _Hello VeteranFirstName VeteranLastName,_. 
 
-_Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and you can track the progress of your claim in the Claim Status Tool located at this url: https://va.gov/claim-status-tool-link-inserted-here_
+_Your recent submission for a change to your dependency claims has been successfully received.  While this email to does not approve or deny any benefit, we wanted to let you know that the submission was sent successfully and you can track the progress of your claim in the Claim Status Tool located at this url: https://www.va.gov/claim-or-appeal-status/_
 
-_In the event that you require more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
+_In the event that you require more information, please contact the VA help Desk at this number: 800-827-1000_
 
 (Failure)    
 _"Hello VeteranFirstName VeteranLastName,_  
 
 _We are writing to inform you that for some reason, your submission was not successfully received into the VA system after several tries.  Please check for a saved draft or retry your application submission again._  
 
-_For more information, please contact the VA help Desk at this number: 800-CALL-4-VA-HELP_
+_For more information, please contact the VA help Desk at this number: 800-827-1000_
 
 Obviously this email copy needs to be polished up.
