@@ -49,7 +49,7 @@ Participant criteria: What are you looking for in a participant? (Mention: Numbe
 
 We are seeking 5 participants and will work with Perigean to recruit participants. Criteria:
 - Veterans, Service members, National Guard and Reserve, Their family members and friends
-- Participant has used IRIS in the past 6 months
+- Participant has used IRIS in the past 6 months and ideally can speak to the challenges they make have experienced with it.
 - Mix of genders
 - Mix of ages
 
