@@ -1,5 +1,19 @@
 # Agenda/Notes from meetings
 
+## Tuesday July 28
+
+### Agenda
+
+1. 
+2. 
+3. 
+
+### Action items
+
+1.
+2. 
+
+
 ## Tuesday July 21
 
 ### Agenda
