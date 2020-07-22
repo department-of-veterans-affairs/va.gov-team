@@ -59,13 +59,13 @@ _Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>
 Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
 Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
 VR&E office | Standalone | X | Harrisburg Vocational Rehabilitation and Employment Office | 
-VR&E office | VHA, non-VA | X | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
-Regional office | VHA, non-VA | X | X | X
-Outbased office | VHA, non-VA | X | X | X
-Satellite office | VHA, non-VA | X | X | X
-Integrated Disability Evaluation System (IDES) Site | VHA, non-VA | X | X | X
-Intake site | VHA, non-VA | X | X | X
-Seamless Transition Integrated Care Clinic (STICC) | VHA, non-VA | X | X | X
+VR&E office | VHA or non-VA | X | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
+Regional office | VHA or non-VA | X | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
+Outbased office | VHA or non-VA | X | X | X
+Satellite office | VHA or non-VA | X | X | X
+Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | X | X | X
+Intake site | VHA or non-VA | X | X | X
+Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | X | X | X
 VetSuccess on Campus | non-VA | X | X | X
 
 
