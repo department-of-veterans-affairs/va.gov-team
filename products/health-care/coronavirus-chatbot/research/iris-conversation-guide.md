@@ -3,12 +3,12 @@
 
 ## Introduction - 5 minutes
 
-Thanks for joining us today! My name is Rachel and I also have some colleagues on the line observing and taking notes. Today we're going to talk about ways to find important information about your experiences with IRIS, the Inquiry Routing & Information System (IRIS) page available at https://iris.custhelp.va.gov/.  It’s also what you access when you click on ‘Contact Us’ > ‘Ask a Question’ at the top of the va.gov site.
+Thanks for joining us today! My name is Rachel and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experiences with IRIS, the Inquiry Routing & Information System (available at https://iris.custhelp.va.gov/), and ways you use it to find important information.  IRIS can be accessed by clicking on ‘Contact Us’ > ‘Ask a Question’ at the top of the va.gov site.
 
 Before we start, a few things I want to mention:
 
 - This entire session should take about 1 hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better serve Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - If for any reason and at any time you want to stop the session, please let me know.
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -36,14 +36,14 @@ Tech usage:
 
 
 
-## Product experience - 45 minutes
+## Product Experience - 45 minutes
 
 - Have you contacted the VA? If so, when and how (i.e. prompting for IRIS usage vs. picking up the phone)
 
 - When
 - How (Web/Phone/Email)
 
-- Do you always contact the VA same way?
+- Do you always contact the VA the same way?
 
 - Why did you choose the method you chose?
 
@@ -55,13 +55,13 @@ Tech usage:
 - Depending on the technical ability of the participant, we would ask them to share their  screen and show us what they did (i.e. where they navigated to, clicked on etc.)
 
 
-- What was the reason you were using IRIS? Tell us about time when you used it and what what the purpose behind it (trigger) - what you were looking to find?
+- What was the reason you were using IRIS? Tell us about a time when you used it and what was the purpose behind it (trigger) - what were you looking to find?
 We'd love for you to share your screen...
 
-- IF FORM: Were you able to complete it successfully? What was the experience like.
-- Probe for usability challenges successful task completion
+- IF FORM: Were you able to complete it successfully? What was the experience like?
+- Probe for usability challenges, successful task completion
  
-- IF FAQ: Were you able to find what you were looking for (in FAQs)? What was teh experience like
+- IF FAQ: Were you able to find what you were looking for (in FAQs)? What was the experience like
 - Probe for usability challenges around info architecture
 - Prompt for usage of advanced search?
 - Prompt for usage of ‘Previously viewed answers’
@@ -78,7 +78,7 @@ We'd love for you to share your screen...
 
 - Is there anything missing that you expected to see in IRIS? Any functionality/something you’d like to be able to do or content you expect to use?
 
-- Is there anything you like to do that you can’t do using IRIS? What have we not considered? What do we not know that we don't know? 
+- Is there anything you like to do that you can’t do with IRIS? What have we not considered? What do we not know that we don't know? 
  
 - Let’s imagine we’ve given you a magic wand to make IRIS the best Inquiry Routing & Information System there ever has been.  What would you make it do? 
  
