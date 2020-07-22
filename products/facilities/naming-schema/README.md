@@ -35,12 +35,15 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 
 ## VBA benefits facilities naming schema - DRAFT
 
-> This schema is a work in progress!! It requires more research.
+> This schema is a work in progress. We have questions about certain aspects of existing facility names. We're waiting to meet with OFO. A key question is whether regional benefit offices serve as "parents" to the facilities that currently map to them by their facility number/ID.
+
+> Some VBA benefits facilities are standalone. An example is the regional benefit offices. Other VBA benefits facilities are located either inside facilities VA owns such as medical centers or inside facilities VA does not own such as military hospitals or bases. 
+
 > 
 **Benefit systems**
-- All locations are networked and should roll up to a benefits system.  
-- Most networked areas do not currently have an official system name.  We may assign a system name based on the regional office name.
-- A plain-language name (or short name) will be created and will be used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL.  The URL will exclude "VA" as part of the system name. 
+- All locations are networked and should roll up to a benefits system. (Do regional benefit offices serve as "parent" offices? A few offices have no parent.) 
+- Most networked areas do not currently have an official system name. We may assign a system name based on the regional benefit office or regional office name. (?)
+- For standalone VBA offices, a plain-language name (or short name) will be created and will be used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL. The URL will exclude "VA" as part of the system name. 
 
 **Facility names**
 - All facilities have an official name that will be used everywhere. No short names or truncating of official names will be used.  
