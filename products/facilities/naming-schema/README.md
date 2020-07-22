@@ -53,17 +53,17 @@ The example schema below is a hypothetical scenario. It represents a regional of
 
 Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- | -- 
-_Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
+_Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
 Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
 Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
 VR&E office | X | Standalone | X | X
-VR&E office | X | VHA | X | X
-Regional office | X | VHA | X | X
-Outbased office | X | VHA | X | X
-Satellite office | X | VHA | X | X
-Integrated Disability Evaluation System (IDES) Site | X | VHA | X | X
-Intake site | X | VHA | X | X
-Seamless Transition Integrated Care Clinic (STICC) | X | VHA | X | X
+VR&E office | X | VHA or non-VA | X | X
+Regional office | X | VHA or non-VA | X | X
+Outbased office | X | VHA or non-VA | X | X
+Satellite office | X | VHA or non-VA | X | X
+Integrated Disability Evaluation System (IDES) Site | X | VHA or non-VA | X | X
+Intake site | X | VHA or non-VA | X | X
+Seamless Transition Integrated Care Clinic (STICC) | X | VHA or non-VA | X | X
 
 
 ## VHA Vet Center facilities naming schema - DRAFT
