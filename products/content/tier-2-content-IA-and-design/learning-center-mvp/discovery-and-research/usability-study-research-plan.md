@@ -71,7 +71,7 @@ Liz Lantz, Public Websites, July 16, 2020
        - 2 people who are 55 or older.
      - Education level (at least 2 falling somewhere between "some high school" and "some college" on their response to "Highest Level of Education" question on registration form)
      - Geography
-   - To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
+   - To ensure inclusivity, we request at least one participant that has identified cognitive impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo. Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 **2. What is your recruitment strategy?**
 
@@ -97,9 +97,9 @@ Liz Lantz, Public Websites, July 16, 2020
 
    Please allow 30 minutes between sessions
 
-   - August 3: 10:30am - 7pm
+   - August 3: 10:30am - 1pm, 2pm - 7pm
 
-   - August 4: 7am - 11:45am, 1:30pm - 4pm
+   - August 4: 7am - 4pm
 
    - August 5: 8am - 8pm
 
