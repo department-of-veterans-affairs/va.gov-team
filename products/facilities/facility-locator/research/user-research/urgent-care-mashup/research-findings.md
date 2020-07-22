@@ -75,7 +75,9 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. 
 
 > "before you go, you have to call this number and we have to authorize that you're even allowed to go in for your sprained ankle." 
+
 This particular user was on the Community urgent care information page for **two full minutes refusing to read** the information saying, 
+
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
 **3. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”..**<br> A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
