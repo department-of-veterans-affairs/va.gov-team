@@ -52,7 +52,7 @@ Some VBA benefits facilities are standalone. The regional benefit offices are an
 The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
 
 Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
- -- | -- | -- | -- 
+ -- | -- | -- | -- | -- 
 _Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
 Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
 Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
