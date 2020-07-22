@@ -36,12 +36,14 @@ The profile has many details in each section that we need to test, so I have bro
 - If a section is taking too long to update is the correct messaging displayed?
 - If a user would like to change their sign in email, does the link take them to the correct place? (ID.me, MHV, DS.logon)
 - If address validation is needed, is it working properly?
+- Do all of the faq dropdowns work properly on the page? Are they answering the questions that users have?
 
 **Military Information**
 
 - Is a user's military information being pulled in correctly from the database?
 - If the military information cannot be pulled in, is the correct error displayed?
 - Does a user understand what to do if their military information does not look correct?
+- Do all of the faq dropdowns work properly on the page? Are they answering the questions that users have?
 
 **Direct Deposit**
 
@@ -51,6 +53,7 @@ The profile has many details in each section that we need to test, so I have bro
 - For people who are supposed to see direct deposit, is their information being correctly pulled in from the backend?
 - For people who are supposed to see direct deposit, can they update their information?
 - Do users understand how to update benefits for GI bill or education?
+- Do all of the faq dropdowns work properly on the page? Are they answering the questions that users have?
 
 **Account Security**
 
@@ -59,13 +62,17 @@ The profile has many details in each section that we need to test, so I have bro
 - Is the terms and conditions section correctly displaying the correct messaging for a users status? (accepted/not accepted)
 - If a user would like to change their sign in email, does the link take them to the correct place? (ID.me, MHV, DS.logon)
 - If a user has questions about signing into VA.gov, does the link take them to the correct place?
+- Do all of the faq dropdowns work properly on the page? Are they answering the questions that users have?
 
 **Connected Apps**
 
-- If a user does not have any connected apps, is the correct screen showing?
+- If a user does not have any connected apps, is the correct screen showing (the 'no apps connected' screen)?
 - Is the list of possible apps to connect pulling correctly from the database?
 - If a user has connected apps, are they pulling correctly from the database?
+- If a user connects an app, does the app show?
+- If a user who connects an app had no apps previously, does the page state change correctly?
 - If a user would like to disconnect an app, does that flow work correctly? Does the app disconnect?
+- If a user only had one connected app previously, does the page state change correctly?
 - If there is an issue retrieving a users connected apps, does the correct error show?
 - If there is an issue disconnecting an app, does the correct error show?
 - If a user has additional questions about connected apps, does the FAQ link take them to the correct place?
@@ -96,9 +103,13 @@ The profile has many details in each section that we need to test, so I have bro
 
 1.	**Participant criteria: What are you looking for in a participant?**
 
-We would like **5** participants who must meet the following criteria:
+We would like **10** total participants.
 
-- Participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
+- We will need **5** participants who receive compensation & pensions payments from the VA. Please confirm this prior to sessions.
+
+- We will need **5** participants who do NOT receive compensation & pensions payments from the VA. Please confirm this prior to sessions. 
+
+- All participants must be LOA3 (identity verified) on VA.gov. **Participants will likely not know what this means**, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
 2.	**What is your recruitment strategy?**
@@ -117,7 +128,7 @@ The new profile will be live on production behind a feature flag on **TBD**.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 30-45 minutes. **Please schedule sessions for 60 minutes with a 30 minute buffer between sessions**.
+We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 minutes with a 30 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
@@ -149,6 +160,8 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - Lihan Li (lihan@adhocteam.us)
 - Sandra Hallie (shallie@governmentcio.com)
 - Matt Shea (matt.shea@adhocteam.us)
+- Carey Otto (carey.otto@adhocteam.us)
+- Mark Greenburg (mark.greenburg@adhocteam.us)
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account)
