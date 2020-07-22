@@ -12,9 +12,13 @@ As a veteran who clearly falls outside the eligibility criteria for a medical re
 
 As a veteran that cannot participate in the currently available studies but is still interested in VA studies in general, I’d like to be able to sign up for notifications about future opportunities, so I can stay informed and possibly participate in future studies.
 
+As a veteran without much familiarity with medical research, I want to know what's in it for me and other reasons why I should or should not participate in a COVID-19 vaccine trial. 
+
+As a researcher, I want the COVID-19 vaccine trial research to be communicated in such a way that helps us meet enrollment goals as quickly as possible, thereby accelerating the study and potentially resulting in useful findings about a vaccine more quickly. 
+
 ### Epic: Learning about the opportunity
 
-As a veteran who wants to help out with COVID-19 response but is not familiar with the medical research or clinical trials processes, I’d like to learn more about what participating in medical research or clinical trial might mean for me, including the amount of time I need to participate, how participants are selected, how my information will be used, what safeguards are in place to protect me and my family, and other related information, so I can decide if this is the right kind of opportunity for me.
+As a veteran who wants to help out with COVID-19 response but is not familiar with the medical research or clinical trials processes, I’d like to learn more about what participating in medical research or clinical trial might mean for me, including the amount of time I need to participate, what risks may be involved, how participants are selected, how my information will be used, what safeguards are in place to protect me and my family, and other related information, so I can decide if this is the right kind of opportunity for me.
 
 As a veteran that is not enrolled in VA health care and is interested in participating a COVID-19 vaccine clinical trial, I want to know if I will be eligible for treatment at a VA facility for any complications from the vaccine or if that would be handled elsewhere, so I can make an informed decision about whether to participate.
 
@@ -44,6 +48,8 @@ As a veteran who primarily uses the internet on my mobile phone, I want to be ab
 
 As a research manager that is prioritizing which volunteers we should call back to begin the informed consent process, I need to know basic demographic information about each volunteer including age, sex/gender, location, so I can make sure we’re prioritizing volunteers from underrepresented groups.
 
+As a researcher assistant that is tasked with calling back volunteers who have met initial eligibility criteria, I want those initial eligibility criteria to have enough clarity and specificity to avoid me wasting time calling volunteers who end up not actually being eligible on further questioning. 
+
 ### Epic: Informed consent workflow and experience
 
 As a veteran who has determined that I am eligible for the VA’s COVID-19 vaccine clinical trial and wants to participate, I want to know exactly what my status is, so I can determine if I should plan to participate or not and plan my life accordingly.
@@ -59,6 +65,8 @@ As a research assistant that is contacting a prospective participant to walk thr
 As a veteran that is engaged in the informed consent process, I want to be able to view and save the documents I am discussing with the VA representative over the phone/video, so I can read them at my own pace and review them later.
 
 As a veteran who just completed the informed consent process over the phone/video, I want to know exactly what the next step is in my COVID-19 vaccine clinical trial process, so I can know how to plan and prepare.
+
+As a veteran who was initially interested in participating but has now decided against it, I want to be able to opt out of future communications about this study. 
 
 ### Epic: VAMC visit
 
