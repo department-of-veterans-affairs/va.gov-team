@@ -46,7 +46,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 1. 7 of 8 Participants did not know about the Community urgent care benefit.
 2. Participants understood “Urgent care benefit information” is something they should click. 
-3. “Limited services and hours” seems less available than “Call for services and hours”
+3. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
 4. Veterans use “in network”, “outside” and “civilian” to describe VA and non-VA options.
 5. Veterans don’t believe it's up to them to decide where to go for urgent care. 
 6. ½ of all participants filtered urgent care options by “VA health”. 
@@ -78,7 +78,7 @@ However, some Veterans apply previous understanding of benefits to new programs 
 This particular user was on the Community urgent care information page for **two full minutes refusing to read** the information saying, 
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
-**3. "Limited services and hours" seems less available than "Call for services and hours".**<br> A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
+**3. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”..**<br> A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
 
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
