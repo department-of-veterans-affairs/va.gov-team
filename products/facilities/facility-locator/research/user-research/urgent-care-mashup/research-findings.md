@@ -106,7 +106,7 @@ A caretaker explaining a past experience with her Veteran husband,
 >  "if he's having a bad day because fireworks go off the night before, he's agitated and his anxiety is high, taking him to the VA knowing he'll sit there for 6 hours, like issues we've had in the past, it's better to skip that anxiety and escalation, and pay out of pocket"
 
 **8. Lack of visual affordances impacts how users perceive page data and functionality.**<br>
-Scrollbars and too much copy at the top. Half of users only noticed the first two listings and didn't scroll. These users were on modern browsers with very thin scrollbars that only appeared on hover. Many of these users would try scrolling the page to see more. Those with browsers that displayed thicker looking scrollbars that stayed on screen, scrolled the list on their own without being prompted.
+Half of users only noticed the first two listings and most didn't scroll to see more. Those that did try scrolling, would try to scroll the page level scrollbars to see more. These users were on modern browsers where system scrollbars comprised of very thin graphics that only appeared on hover.  Those with browsers that displayed thicker looking scrollbars, that stayed on screen, scrolled the list on their own without being prompted. Another user didn't see the search functionality until being prompted to scroll down the page because it was below the paragraphs of text and looked like the end of the page.
 
 **9. Veterans did not seek out labels like "Retail" or "VA health" to identify the facility type.**<br>
 Participants did, however, want a label or designation to know if a non-VA location was "military cultured" which for this caretaker meant, 
