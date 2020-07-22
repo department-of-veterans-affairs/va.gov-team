@@ -132,19 +132,19 @@ A caretaker explaining a past experience with her Veteran husband,
 
 4.  Use language that mirrors how Veterans understand and communicate benefit and facility terminology and highlight "what's in it for them".
 
-- On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
+ - On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
 
-- On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
+ - On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
 
-- Add more visual affordances to page functionality. 
+5. Add more visual affordances to page functionality. 
 
-- Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
+ - Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
 
-- Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
+ - Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
 
-- Use consistent typographic styling for results between VA and non-VA location listings so that important differences appear more salient. 
+ - Use consistent typographic styling for results between VA and non-VA location listings so that important differences appear more salient. 
 
-- An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
+ - An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
 
 ## Next Steps
 
