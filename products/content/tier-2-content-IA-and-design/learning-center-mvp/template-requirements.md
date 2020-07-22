@@ -43,22 +43,23 @@ At minimum - 1 primary topic tag will be required. This will also drive the minu
 2. Careers and employment
 3. Decision reviews {added 7/20}
 4. Disability
-4. Education and training
-5. Health care
-6. Housing assistance
-7. Life insurance
-8. Pension
-9. Records
-10. VA account and profile
+5. Education and training
+6. Health care
+7. Housing assistance
+8. Life insurance
+9. Pension
+10. Records
+11. VA account and profile
+12. Multiple benefit types <--added 7/22: Label TBD. This doesn't need to be a CMS topic option; maybe it's just a FE logic if the author selects benefit topics 1-9? 
+13. General <--added 7/22: Label TBD. We need some kind of category that's agnostic of benefits and not about your account/profile. These are more general customer issues and sitewide things. IRIS examples: User is having problems opening a PDF link on our site; someone is just looking for general 'contact us' phone number or email. 
 
 These larger administration topic categories are for content that doesn't fit into one of the neat benefit or service categories above. These were originally incuded in the list of non-beneficiary audience tags, but they're not really audiences; it's meant to signify topic category that's super broad and not a benefit or service. 
 
 Example: VA fiduciaries is an audience type; they work with Veterans on behalf of VA; they are assigned by VA, and they may span multipiple benefits/services, because they're assigned to the Veteran, not to a benefit/service. So for some `fiduciary` audience topics, the content might have the topic tag `Veterans Benefits Administration.`
 
-11. Other?
-- Veterans Benefits Administration
-- Veterans Health Administration
-- National Cemetery Administration
+14.Veterans Benefits Administration
+15. eterans Health Administration
+16. National Cemetery Administration
 
 
 
