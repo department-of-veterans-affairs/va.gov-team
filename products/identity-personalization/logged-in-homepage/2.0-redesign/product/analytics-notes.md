@@ -48,6 +48,11 @@ All data is from Jan 1, 2020 to the date that the report was viewed.
 - Aside from the homepage, people who view My VA leave from the claim status tool, payment info, to go to MHV, and the download VA letters page. We can assume that these are the things people came to the site to interact with.
 - Some are leaving from My VA itself, though it's unclear if this is because they found what they were looking for or didn't.
 
+[Behavior > Events > Pages > My VA](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200721&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions/)
+
+- This report shows the top events on My VA. It's pretty much what we'd expect.
+- With regards to applying for benefits, no "apply" actions are in the top 10 events. Clicking the CTAs to apply for disability and education are in the top 25; clicking CTAs to apply for a home loan, health care, career help, and pre-need burial benefits are in the top 50.
+
 ### Search terms
 
 [Search term report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-site-search-search-terms/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200712&_.useg=userTBuj9_dPSF-sBQQO9Srv-g/) — Only goes to April 2, 2020
@@ -132,6 +137,9 @@ Of note — "Rating", "disability rating," and "Disability rating" all make it i
 
 - These are the pages logged-in users who view the homepage are on when they leave the site. We can assume that this is what people came to do, or one of multiple tasks. This list looks like we'd expect — claim status, various health care tools, records, payment history, and My VA. 
 
+[Behavior > Events > Pages > Homepage for logged-in users](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20200101&_u.date01=20200721&_r.drilldown=analytics.pagePath:www.va.gov~2F,analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&_.useg=useri0ZvPaPpQKyUHGrYCFPigw/)
+
+- Unlike with My VA, "apply" links are much more popular on the homepage. How to file a claim is number 7, how to apply for edu benefits is 15, and applying for health care is 21.
 
 ### Search terms
 
