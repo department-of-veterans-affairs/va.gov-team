@@ -156,7 +156,6 @@ FYI — **Tressa Furner (tressa.furner@adhocteam.us) will be conducting these se
 - Tressa Furner (tressa.furner@adhocteam.us)
 - Samara Strauss (samara.strauss@va.gov)
 - Erik Hansen (erik@adhocteam.us)
-- Tze Lei (tze@adhocteam.us)
 - Lihan Li (lihan@adhocteam.us)
 - Sandra Hallie (shallie@governmentcio.com)
 - Matt Shea (matt.shea@adhocteam.us)
