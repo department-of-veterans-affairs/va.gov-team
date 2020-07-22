@@ -44,7 +44,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ## Key Findings
 
-1. 7 of 8 Participants did not know about the Community urgent care benefit.
+1. 7 out of 8 Participants did not know about the Community urgent care benefit.
 2. Participants understood “Urgent care benefit information” is something they should click. 
 3. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
 4. Veterans use “in network”, “outside” and “civilian” to describe VA and non-VA options.
@@ -59,7 +59,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ## Details of Findings
 
-**1. 7 of 8 Participants did not know about the Community urgent care benefit.**<br> 
+**1. 7 out of 8 Participants did not know about the Community urgent care benefit.**<br> 
 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
 >  P3(AI-get exact quote) "User was frustrated that info on CC was never shared. She heard 'you can look it up' but wasn't instructed how. Wishes VHA had emailed her to tell her about CC with a link to this. When she went to the VA she says nobody gave her a list of providers or explained how to find out."
