@@ -2,7 +2,7 @@
 Product teams can use demo environments for the following four user stories (and potentially others that we haven't yet thought of!). These user stories are covered in a training that we can provide to product teams. 
 
 * [Training PDF](VACMS-product-demo-environments-training.pdf)
-* [Training video](https://us02web.zoom.us/rec/share/tc5baJfBrl5LRc_V1Rz_eJAuP6LHeaa8hCMc-qAJmRy2r1mXHx9eKqyl6aOr-J8z) (Password: 8x?Hf980) 
+* [Training video](https://civicactions.zoom.us/rec/play/tZx8Ibiv_Gg3E4GTuASDBPV8W9S-LKmshHUdqfoPzxy3VyZWNQelYLEXMeqN3bJNuP9b0soCiW0qxrTq?startTime=1589828820000) (Password: 8x?Hf980)
 
 ## User story 1
 
