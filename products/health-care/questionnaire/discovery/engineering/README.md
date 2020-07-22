@@ -56,9 +56,6 @@ The back end developers are ....
   - What analytics do we need?
   - What should be the KPI for the engineering team?
 
-- Where is the data going?
-- Can we pull in data from an external API?
-
 ---
 
 ## Forms Discovery
