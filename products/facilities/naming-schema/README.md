@@ -54,9 +54,11 @@ The example schema below is a hypothetical scenario. It represents a regional of
 Facility type  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- 
 _Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
-Benefits system | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
-Regional benefit office | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
-Regional office | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+Benefits system (?) | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
+Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+VR&E office (standalone) | X | X | X
+VR&E office (VHA-owned) | X | X | X
+Regional office (VHA-owned) | X | X | X
 
 
 ## VHA Vet Center facilities naming schema - DRAFT
