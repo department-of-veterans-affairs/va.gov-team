@@ -59,6 +59,11 @@ Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n
 VR&E office (standalone) | X | X | X
 VR&E office (VHA-owned) | X | X | X
 Regional office (VHA-owned) | X | X | X
+Outbased office (VHA-owned) | X | X | X
+Satellite office (VHA-owned) | X | X | X
+Integrated Disability Evaluation System (IDES) Site (VHA-owned) | X | X | X
+Intake site (VHA-owned) | X | X | X
+Seamless Transition Integrated Care Clinic (STICC) (VHA-owned) | X | X | X
 
 
 ## VHA Vet Center facilities naming schema - DRAFT
