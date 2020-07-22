@@ -59,7 +59,8 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ## Details of Findings
 
-1.  **7 of 8 Participants did not know about the Community urgent care benefit.**<br> 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
+1.  **7 of 8 Participants did not know about the Community urgent care benefit.**<br> 
+- 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
 >  P3(AI-get exact quote) "User was frustrated that info on CC was never shared. She heard 'you can look it up' but wasn't instructed how. Wishes VHA had emailed her to tell her about CC with a link to this. When she went to the VA she says nobody gave her a list of providers or explained how to find out."
 
