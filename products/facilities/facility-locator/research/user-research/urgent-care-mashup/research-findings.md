@@ -108,6 +108,7 @@ A caretaker explaining a past experience with her Veteran husband,
 **8. Lack of visual affordances impact how users perceive page data and functionality.**<br>
 Half of users only noticed the first two listings and most didn't scroll to see more. Those that did try scrolling, would try to scroll the page level scrollbars to see more which don't affect the list of results. These users were on modern browsers where system scrollbars were comprised of very thin graphics that only appeared on hover.  Those with browsers that displayed thicker looking scrollbars, that stayed on screen, scrolled the list on their own without being prompted. 
 > "Oh, ok, I see you gotta drag the little line between the map and the other thing"..."If this is a prototype, there should be some arrows or something" "I tried to move [scroll] the entire screen..."
+
 Another user didn't see the search functionality until being prompted to scroll down the page because it was below the paragraphs of text and looked like the end of the page.
 
 **9. Veterans did not seek out labels like "Retail" or "VA health" to identify the facility type.**<br>
