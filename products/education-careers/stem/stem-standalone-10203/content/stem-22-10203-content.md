@@ -262,7 +262,7 @@ Form 22-10203
 
 ### Chapter Title:  3 of 6: Program details
 
-{ STEM eligibility summary page } 
+#### Rogers STEM Scholarship eligibility summary { Sub-head }   {NOTE: added subhead to content doc 7/22/20. This will be added to the prototype but doesn't appear there yet. }  
 
 { gray box } 
 
