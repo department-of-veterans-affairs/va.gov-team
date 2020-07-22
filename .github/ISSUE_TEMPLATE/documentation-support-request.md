@@ -10,4 +10,4 @@ assignees: gmaciolek
 <br>
 
 ### _What happens now?_ 
-_The VSP Content & Information Architecture will triage your request and reach out for more info as needed. If your issue is urgent or you don't hear from us in a timely manner, please reach out to @Gretchen Maciolek in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)._
+_The VSP Content & Information Architecture will triage your request and reach out for more info as needed._
