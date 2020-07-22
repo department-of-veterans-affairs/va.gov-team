@@ -37,7 +37,7 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 
 > This schema is a work in progress. We have questions about certain aspects of existing facility names. We have questions for OFO, the Office of Field Operations, and the answers will affect the naming schema.
 
-Some VBA benefits facilities are standalone. The regional benefit offices are an example. Other VBA benefits facilities are located either inside facilities VA owns such as medical centers or inside facilities VA does not own such as military hospitals or bases. 
+Some VBA benefits facilities are standalone. The regional benefit offices are an example. Other VBA benefits facilities are located either 1) inside facilities VA owns such as medical centers, or 2) inside facilities VA does not own such as military hospitals or bases. 
 
 > 
 **Benefit systems**
@@ -55,7 +55,8 @@ Facility type  |  Official name  | Plain-language name | URL
  -- | -- | -- | -- 
 _Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
 Benefits system | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
-RO | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+Regional benefit office | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+Regional office | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
 
 
 ## VHA Vet Center facilities naming schema - DRAFT
