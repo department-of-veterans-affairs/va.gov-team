@@ -68,7 +68,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 > "Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
-2.  **Participants generally understood "Urgent care benefit information" is something they should click.**<br>
+**2. Participants generally understood "Urgent care benefit information" is something they should click.**<br>
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
@@ -78,21 +78,21 @@ However, some Veterans apply previous understanding of benefits to new programs 
 This particular user was on the Community urgent care information page for **two full minutes refusing to read** the information saying, 
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
-3. **"Limited services and hours" seems less available than "Call for services and hours".**<br> A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
+**3. "Limited services and hours" seems less available than "Call for services and hours".**<br> A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
 
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
-4. **Veterans use "in network", "outside" and "civilian" to describe VA and non-VA options.**<br> Throughout the studies 5 participants used the term in network to describe facility options that would be covered by insurance. Three participants used the word "outside" and two used the word "civilian" to describe non-VA facilities or providers.
+**4. Veterans use "in network", "outside" and "civilian" to describe VA and non-VA options.**<br> Throughout the studies 5 participants used the term in network to describe facility options that would be covered by insurance. Three participants used the word "outside" and two used the word "civilian" to describe non-VA facilities or providers.
 
 > "Means that you can go to a civilian provider that the VA would pay for"
 
-5. **Veterans don't believe it's up to them to decide where to go for urgent care.**<br>  Veterans understand that they occasionally get "sent" to non-VA providers in certain circumstances but it is not something that they think they can choose on their own.
+**5. Veterans don't believe it's up to them to decide where to go for urgent care.**<br>  Veterans understand that they occasionally get "sent" to non-VA providers in certain circumstances but it is not something that they think they can choose on their own.
 
 > "I didn't realize, I thought you had to get sent to these, most of the outside providers. I hadn't heard of these urgent providers in-network, like you just walk in. That's something new to me. Usually I call the VA. Normally, they'd send me somewhere if they couldn't see me in a reasonable amount of time. They would send an authorization. They have an office and they would call me and tell me which doctor to go to and it would all be taken care of... I wouldn't just choose something on my own because I'm not familiar with that at all within the VA healthcare system."
 
-6. **½ of all participants filtered urgent care options by "VA health".**<br>  These same users lacked awareness of the Community urgent care benefit. By the end of each session, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
+**6. ½ of all participants filtered urgent care options by "VA health".**<br>  These same users lacked awareness of the Community urgent care benefit. By the end of each session, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
-7. **Close proximity is a crucial factor when choosing urgent care.**<br> Long travel and wait times compound existing factors that Veterans face such economic hardships and managing symptoms of cognitive disabilities under stressful situations.
+**7. Close proximity is a crucial factor when choosing urgent care.**<br> Long travel and wait times compound existing factors that Veterans face such economic hardships and managing symptoms of cognitive disabilities under stressful situations.
 
 > "I'm probably going to start using option A [community urgent care] regardless, because I don't drive. I use public transportation. It saves money. And I catch the bus probably 10 miles across town to get to my VA when there's a doctor's office, a 1/4 of a mile away. That's better for me."
 
@@ -100,11 +100,11 @@ A caretaker explaining a past experience with her Veteran husband,
 
 >  "if he's having a bad day because fireworks go off the night before, he's agitated and his anxiety is high, taking him to the VA knowing he'll sit there for 6 hours, like issues we've had in the past, it's better to skip that anxiety and escalation, and pay out of pocket"
 
-8. **Lack of visual affordances impacts how users perceive page data and functionality.**<br> Scrollbars and too much copy at the top. Half of users only noticed the first two listings and didn't scroll. These users were on modern browsers with very thin scrollbars that only appeared on hover. Many of these users would try scrolling the page to see more. Those with browsers that displayed thicker looking scrollbars that stayed on screen, scrolled the list on their own without being prompted.
+**8. Lack of visual affordances impacts how users perceive page data and functionality.**<br> Scrollbars and too much copy at the top. Half of users only noticed the first two listings and didn't scroll. These users were on modern browsers with very thin scrollbars that only appeared on hover. Many of these users would try scrolling the page to see more. Those with browsers that displayed thicker looking scrollbars that stayed on screen, scrolled the list on their own without being prompted.
 
-9. **Veterans did not seek out labels like "Retail" or "VA health" to identify the facility type.**<br> Participants did, however, want a label or designation to know if a non-VA location was "military cultured" which for this caretaker meant, "providers that have training and understanding of Veteran's mental health needs, i.e. how a patient with PTSD's needs under a stressful sprained ankle situation".  Another caretaker echoed similar needs that some Veterans have, "If they have an outburt, where the VA will understand that they happen. The VA handles it a lot easier. They [non VA] would want to tie him up and stuff so he doesn't hurt himself. The VA doesn't do that stuff."
+**9. Veterans did not seek out labels like "Retail" or "VA health" to identify the facility type.**<br> Participants did, however, want a label or designation to know if a non-VA location was "military cultured" which for this caretaker meant, "providers that have training and understanding of Veteran's mental health needs, i.e. how a patient with PTSD's needs under a stressful sprained ankle situation".  Another caretaker echoed similar needs that some Veterans have, "If they have an outburt, where the VA will understand that they happen. The VA handles it a lot easier. They [non VA] would want to tie him up and stuff so he doesn't hurt himself. The VA doesn't do that stuff."
 
-10. **Two Veterans specifically asked for wait times to be surfaced in search results.**
+**10. Two Veterans specifically asked for wait times to be surfaced in search results.**
 
 > "What would be nice is if you had current wait times, is it 15 min, 30 min, an hour..." Our hospital here posts their wait times on their FaceBook page. If I have two places and one has a 15 min wait and one has an hour wait, I'm going to the one with the 15 min wait. I don't want to wait an hour to see a doctor.
 
