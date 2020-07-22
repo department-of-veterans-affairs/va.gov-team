@@ -35,13 +35,13 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 
 ## VBA benefits facilities naming schema - DRAFT
 
-> This schema is a work in progress. We have questions about certain aspects of existing facility names. We're waiting to meet with OFO. A key question is whether regional benefit offices serve as "parents" to the facilities that currently map to them by their facility number/ID.
+> This schema is a work in progress. We have questions about certain aspects of existing facility names. We have questions for OFO, the Office of Field Operations, and the answers will affect the naming schema.
 
-> Some VBA benefits facilities are standalone. An example is the regional benefit offices. Other VBA benefits facilities are located either inside facilities VA owns such as medical centers or inside facilities VA does not own such as military hospitals or bases. 
+Some VBA benefits facilities are standalone. The regional benefit offices are an example. Other VBA benefits facilities are located either inside facilities VA owns such as medical centers or inside facilities VA does not own such as military hospitals or bases. 
 
 > 
 **Benefit systems**
-- All locations are networked and should roll up to a benefits system. (Do regional benefit offices serve as "parent" offices? A few offices have no parent.) 
+- All locations are networked and should roll up to a benefits system. (?) 
 - Most networked areas do not currently have an official system name. We may assign a system name based on the regional benefit office or regional office name. (?)
 - For standalone VBA offices, a plain-language name (or short name) will be created and will be used for the digital experience in the H1, menu links, breadcrumb, browser title tag, and the URL. The URL will exclude "VA" as part of the system name. 
 
@@ -49,7 +49,7 @@ The example schema below is a hypothetical scenario. It represents a VAMC facili
 - All facilities have an official name that will be used everywhere. No short names or truncating of official names will be used.  
 - The official name will be used in the H1, menu links, breadcrumb, browser title tag, and the URL.  
 
-The example schema below is a hypothetical scenario.  It represents a RO facility network (i.e., RO is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system; customers get access to the entire network). It should apply to _all_ RO systems.
+The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
 
 Facility type  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- 
