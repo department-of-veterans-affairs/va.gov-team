@@ -20,7 +20,7 @@ How might we create a  better logging experience on  VA.gov that can  make loggi
 - Didn’t like Grafana, so won’t like Loki
 
 ## Desired Business Outcomes
-- Developers can solve problems in their  ode faster due to logging access sooner
+- Developers can solve problems on their own faster due to logging access sooner
 - Developers will save time due to more straight forward logging 
 - Development speed will increase
 - Higher quality code
@@ -53,15 +53,15 @@ How might we create a  better logging experience on  VA.gov that can  make loggi
 ## Solution Approach
 
 - We are building out Loki with fluent bit and fluent D in our current Infra and testing there. A demo can be found here: Link to demo TBA
-- Now that we are using  Far gate/ ECS we can build this outside of BRD
-- Depending on User feedback during and after rollout we will iterate  on this solution. 
+- Now that we are using Far gate/ ECS we can build this outside of BRD in our current infra.
+- Depending on User feedback during and after rollout we will iterate on this solution. 
 
 --- 
 
 ## Go-to-market Strategy
-- We will be working with both VSP and VFS teams to help them understand  the new logging model. We will also provide documentation and work with other teams in VSP to boost our communication. 
+- We will be working with both VSP and VFS teams to help them understand the new logging model. We will also provide documentation and work with other teams in VSP to boost our communication. 
 - We need to let all developers working on VA.gov know this change will happen a good bit before the launch .
-- [Link to Release Plan](#go-to-market-strategy) TBA
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/logging/release_plan.md) 
 
 ## Launch Dates
 - *Target Launch Date*
@@ -78,7 +78,7 @@ How might we create a  better logging experience on  VA.gov that can  make loggi
 Loki is being buildout in ECS 
 
 ### Key Decisions
-- We will be moving forward with Loki because it address out needs and is lightweight
+- We will be moving forward with Loki because it address our and users needs plus is lightweight
 - Met with VSP BE tools to go over options 
 - Now that we are using AWS products we can build out this in the current infra.
 
