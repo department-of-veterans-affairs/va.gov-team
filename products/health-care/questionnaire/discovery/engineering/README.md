@@ -45,10 +45,16 @@ The back end developers are ....
 
 ## Outstanding questions
 
-- Where is the data going?
-- Can we pull in data from an external API in a form?
-- Do we need any CMS integration?
-- What analytics do we need?
+- Data
+  - Where is the data source that we are going to writing to?
+  - How can we pull in data from multiple sources?
+- Forms
+  - Can we pull in data from an external API in a form?
+  - Do we need any CMS integration?
+  - How can we control the forms?
+- Verify results
+  - What analytics do we need?
+  - What should be the KPI for the engineering team?
 
 - Where is the data going?
 - Can we pull in data from an external API?
