@@ -63,10 +63,10 @@ VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand J
 Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
 Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic
 Satellite office | VHA or non-VA | Regional Benefit Office at William S. Middleton Memorial Veterans' Hospital
-Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | 
-Intake site | VHA or non-VA | 
-Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | 
-VetSuccess on Campus | non-VA | 
+Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | Integrated Disability Evaluation System (IDES) Site at Fort Drum
+Intake site | VHA or non-VA | Intake Site at Twentynine Palms
+Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | Seamless Transition Integrated Care Clinic (STICC) at Richard L. Roudebush Veterans' Administration Medical Center
+VetSuccess on Campus | non-VA | VetSuccess on Campus at Saint Leo University
 
 
 
