@@ -57,16 +57,16 @@ Facility type  |  Owned by  |  Official name  | Plain-language name | URL
  -- | -- | -- | -- | -- 
 _Source:_<br>VAST |   | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
 Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
-Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
-VR&E office | X | Standalone | Harrisburg Vocational Rehabilitation and Employment Office | 
-VR&E office | X | VHA, non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
-Regional office | X | VHA, non-VA | X | X
-Outbased office | X | VHA, non-VA | X | X
-Satellite office | X | VHA, non-VA | X | X
-Integrated Disability Evaluation System (IDES) Site | X | VHA, non-VA | X | X
-Intake site | X | VHA, non-VA | X | X
-Seamless Transition Integrated Care Clinic (STICC) | X | VHA, non-VA | X | X
-VetSuccess on Campus | X | non-VA | X | X
+Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
+VR&E office | Standalone | X | Harrisburg Vocational Rehabilitation and Employment Office | 
+VR&E office | VHA, non-VA | X | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
+Regional office | VHA, non-VA | X | X | X
+Outbased office | VHA, non-VA | X | X | X
+Satellite office | VHA, non-VA | X | X | X
+Integrated Disability Evaluation System (IDES) Site | VHA, non-VA | X | X | X
+Intake site | VHA, non-VA | X | X | X
+Seamless Transition Integrated Care Clinic (STICC) | VHA, non-VA | X | X | X
+VetSuccess on Campus | non-VA | X | X | X
 
 
 
