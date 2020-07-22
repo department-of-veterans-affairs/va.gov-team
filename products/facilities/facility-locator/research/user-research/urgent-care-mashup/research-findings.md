@@ -72,7 +72,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
-However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. 
+However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. Even after clicking through the link users may remain skeptical.
 
 > "before you go, you have to call this number and we have to authorize that you're even allowed to go in for your sprained ankle." 
 
