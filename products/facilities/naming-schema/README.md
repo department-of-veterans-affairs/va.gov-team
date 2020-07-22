@@ -51,7 +51,7 @@ Some VBA benefits facilities are standalone. The regional benefit offices are an
 
 The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
 
-For every example below, "at" is followed by the official location name. 
+For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style. For example: Veterans' (should not have an apostrophe). 
 
 Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- | -- 
@@ -61,8 +61,8 @@ Regional benefit office | Standalone | Winston-Salem Regional Benefit Office | n
 VR&E office | Standalone | Harrisburg Vocational Rehabilitation and Employment Office | 
 VR&E office | VHA or non-VA | Veteran Readiness and Employment Office at Grand Junction VA Medical Center | 
 Regional office | VHA or non-VA | Regional Office at Samuel S. Stratton Department of Veterans Affairs Medical Center | 
-Outbased office | VHA or non-VA | 
-Satellite office | VHA or non-VA | 
+Outbased office | VHA or non-VA | Regional Benefit Office at New Bedford VA Clinic
+Satellite office | VHA or non-VA | Regional Benefit Office at William S. Middleton Memorial Veterans' Hospital
 Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | 
 Intake site | VHA or non-VA | 
 Seamless Transition Integrated Care Clinic (STICC) | VHA or non-VA | 
