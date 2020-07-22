@@ -51,19 +51,19 @@ Some VBA benefits facilities are standalone. The regional benefit offices are an
 
 The example schema below is a hypothetical scenario. It represents a regional office facility network (i.e., regional office is parent facility, with intake centers, campus offices, and other VBA facilities as children facilities that are all part of a benefits system and customers get access to the entire network). It should apply to _all_ regional office systems.
 
-Facility type  |  Official name  | Plain-language name | URL 
+Facility type  |  Owned by  |  Official name  | Plain-language name | URL 
  -- | -- | -- | -- 
 _Source:_<br>VAST | _Source:_<br>VAST | _Source:_<br>Drupal  | _Source:_<br>Facilities API
-Benefits system (?) | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
+Benefits system (?) | n/a | n/a | VA Winston-Salem benefits | www.va.gov/winston-salem-benefits
 Regional benefit office (standalone) | Winston-Salem Regional Benefit Office | n/a | www.va.gov/winston-salem-benefits/locations/winston-salem-regional-benefit-office
-VR&E office (standalone) | X | X | X
-VR&E office (VHA-owned) | X | X | X
-Regional office (VHA-owned) | X | X | X
-Outbased office (VHA-owned) | X | X | X
-Satellite office (VHA-owned) | X | X | X
-Integrated Disability Evaluation System (IDES) Site (VHA-owned) | X | X | X
-Intake site (VHA-owned) | X | X | X
-Seamless Transition Integrated Care Clinic (STICC) (VHA-owned) | X | X | X
+VR&E office | X | Standalone | X | X
+VR&E office | X | VHA | X | X
+Regional office | X | VHA | X | X
+Outbased office | X | VHA | X | X
+Satellite office | X | VHA | X | X
+Integrated Disability Evaluation System (IDES) Site | X | VHA | X | X
+Intake site | X | VHA | X | X
+Seamless Transition Integrated Care Clinic (STICC) | X | VHA | X | X
 
 
 ## VHA Vet Center facilities naming schema - DRAFT
