@@ -1,8 +1,7 @@
 ---
 name: Documentation Support Request
-about: Incoming documentation support requests triaged by VSP Content & IA team. This template is linked to from documentation homepage MVP.
-title: Documentation Support Request
-labels: content-ia-team, documentation-support, documentation-homepage-request
+about: Incoming documentation support requests triaged by VSP Content & IA team. 
+labels: content-ia-team, documentation-support
 assignees: gmaciolek
 
 ---
