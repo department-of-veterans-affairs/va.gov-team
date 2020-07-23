@@ -343,6 +343,8 @@ There are no new privacy concerns with a separated content validation process.
 
 #### Questions
 
+- What is the optimal frequency to run the scheduled job? Daily seems too slow. Every 10 minutes might be too fast for our builds. Hourly seems feasible. Is hourly acceptable? Should we be c concern about noise from a higher frequency?
+
 ### Work Estimates
 
 The following estimates vary greatly depending on who's doing the work.
