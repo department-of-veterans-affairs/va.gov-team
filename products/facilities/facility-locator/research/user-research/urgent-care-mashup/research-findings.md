@@ -182,7 +182,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
   * On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
 
-  * On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
+  * On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs. Be more concise and chunk information to be more scannable in writing to reduce cognitive load.
 
 * Add more visual affordances to page functionality. 
 
