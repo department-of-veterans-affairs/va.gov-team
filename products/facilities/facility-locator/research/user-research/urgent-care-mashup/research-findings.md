@@ -78,7 +78,13 @@ When another Caretaker was asked if the information about Community urgent care 
 
 >  "It is. Cause I didn't even know it was there. I have learned alot from the groups I'm in about the benefits and where I can go to get help. [but] I would hope someone at the VA would have said something to me, like his primary doctor or something. Giving me the information that I didn't have to drive almost an hour to get him medical treatment"
 
-> "I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
+A couple Veterans had very positive first impressions upon learning about the benefits. 
+
+> OK, I think that this is pretty decent, for the VA to contract out into the community to assist vets, basically it's saying to treat minor injuries and illnesses, nothing major, and that they do the same thing at the VA, you have to pay a copay if you're eligible, so I think this is a perfect idea. How long has this been going on, cause I don't know nothing about it? 
+
+Later, when asked how he would have expected to find out he suggested: 
+
+"I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
 ####  ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
