@@ -199,7 +199,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 * A/B test the recommended change to defaulted facility and service type menus.
 * Implement design recommendations.
 * Conduct baseline usability tests on live Facility Locator to gather more data on user's actual experience with browsers, load times and search experiences.
- * include a subset of usability tests on mobile or create a separate study with a mobile first focus.
+  * include a subset of usability tests on mobile or create a separate study with a mobile first focus.
 * Share relevant findings with other teams and stakeholders.
 
 ## Appendix
