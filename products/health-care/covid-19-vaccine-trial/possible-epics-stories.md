@@ -44,6 +44,8 @@ As a veteran who has completed the initial eligibility screening process and has
 
 As a veteran that has trust issues with the VA and the federal government but is still interested in participating in a COVID-19 vaccine clinical trial, I don’t want to have to provide any personal information in order to determine whether I am eligible to participate, so I don’t have to worry about what the VA is going to do with my information regardless of the outcome.
 
+As a veteran who often uses VA digital tools, I want to be able to logon and have any of my existing information used to pre-populate any data fields relevent to determining my eligibility to participate. 
+
 As a veteran who primarily uses the internet on my mobile phone, I want to be able to easily interact with any eligibility tool easily on my mobile phone, so I don’t need to find a desktop computer to find out if I’m eligible.
 
 As a research manager that is prioritizing which volunteers we should call back to begin the informed consent process, I need to know basic demographic information about each volunteer including age, sex/gender, location, so I can make sure we’re prioritizing volunteers from underrepresented groups.
