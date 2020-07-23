@@ -172,7 +172,7 @@ Now we're going to look at a prototype: [Express Care Prototype - v2](https://vs
   - What do you think will happen once you submit this form?
 - [EC confirmation screen - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790750) Do you think you will get a call back *today*?
   - Probe: Does "request a phone screening" meet your expectations for making a same-day, urgent Telehealth appointment?
-- [EC screening view - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790751) What do you think will happen if you click "View Express Care Screening"?
+- [EC appointments view screen  - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790751) What do you think will happen if you click "View Express Care Screening"?
   - *After going to EC Appointments Page View* Probe: Is this what you expected to see?
     - Why / Why not?
   - Probe: Did you notice the different statuses? 
