@@ -68,7 +68,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
   
-### Personal and Contact Information - 5 min
+## Personal and Contact Information - 5 min
 
 - So now we are looking at your profile. Does all of this information look correct?
   - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
@@ -108,7 +108,7 @@ OK, please share your screen, and then we will get started.
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
   - [ ] **UAT TASK:** Link goes to the website where they manage their information
  
- ### Military Information - 2 min
+ ## Military Information - 2 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Military information'. Does this information look correct?
   - [ ] **UAT TASK:** Military Information page shows up and appears to be formatted correctly. 
@@ -118,7 +118,7 @@ OK, please share your screen, and then we will get started.
 - Next, will you click on 'What if my military service information doesn't look right?'
   - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
   
- ### Direct Deposit Information SKIP THIS SECTION IF THEY DO NOT HAVE DISABILITY OR PENSION PAYMENTS - 5 min
+ ## Direct Deposit Information SKIP THIS SECTION IF THEY DO NOT HAVE DISABILITY OR PENSION PAYMENTS - 5 min
  
 - Great. Now, can you click on 'Direct Deposit Information' in the left hand navigation. 
 
@@ -156,7 +156,7 @@ OK, please share your screen, and then we will get started.
 - Next, click on 'Find out how to change your information by mail or phone'.
   - [ ] **UAT TASK:** Link goes to Change your VA Direct Deposit Information.
   
- ### Account Security - 2 min
+ ## Account Security - 2 min
  
 - Great. Now, can you scroll back up to the navigation on the left and click on 'Account Security'. 
   - [ ] **UAT TASK:** Account Security page shows up and appears to be formatted correctly. 
@@ -174,14 +174,14 @@ OK, please share your screen, and then we will get started.
 - Let's go back to the profile. Can you click on the 'Go to the VA.gov FAQs' link in the blue box?
   - [ ] **UAT TASK:** Link goes to the FAQ page.
   
- ### Connected Apps - 5 min
+ ## Connected Apps - 5 min
  
 - Great. Let's go back to the profile. Now, can you scroll back up to the navigation on the left and click on 'Connected Apps'. 
   - [ ] **UAT TASK:** Connected apps page shows up and appears to be formatted correctly. 
   - [ ] **UAT TASK:** The correct page is showing for if a Veteran has connected apps vs no connected apps. (Will most likely have no connected apps)
   - [ ] **UAT TASK:** If there is an error retrieving apps, the correct error is returned.
   
-## If they DON'T have connected apps
+### If they DON'T have connected apps
 - Can you click on the link that says 'Apple Health'?
   - [ ] **UAT TASK:** Link goes to the Apple Health page.
   
@@ -197,7 +197,7 @@ OK, please share your screen, and then we will get started.
 - Can you click on the 'frequently asked questions' link in the blue box?
   - [ ] **UAT TASK:** Links to the FAQ page. 
   
-## If they DO have connected apps
+### If they DO have connected apps
 - Can you click on the link that says 'Learn about Apple Health'?
   - [ ] **UAT TASK:** FAQ opens and appears to be formatted correctly. 
   
