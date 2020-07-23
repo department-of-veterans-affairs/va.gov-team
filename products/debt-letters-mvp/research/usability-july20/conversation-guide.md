@@ -14,7 +14,7 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-## Intro - 5 minutes
+## Intro
 
 Thank you for joining us today! My name is ______, and I'm a designer and researcher for VA.gov. I also have some colleagues on the line observing and taking notes for me. Today we're going to be talking about a new way for Veterans to access information about their VA debt as well as download VA debt letters online.
 
@@ -34,7 +34,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Interview Questions - 10 minutes
+## Interview Questions
 
 - Before we jump into the session, can you describe your experience with VA debts?
 - What did you think about the way your debt was communicated to you?
@@ -51,7 +51,7 @@ Before we start, a few things I want to mention:
    - If so, what was your last experience like?
 - What do you think about needing to log into VA.gov in order to see information about your debt?  
 
-## First Task: Find debt letters on VA.gov - 10 minutes
+## First Task: Find debt letters on VA.gov
 
 _Direct the Veteran to VA.gov_
 
@@ -61,7 +61,7 @@ Imagine that you received a letter about a VA debt in the mail some time ago and
 - Where does the Veteran go, and what is their reasoning?
 
 
-## Second Task: Review Content screen - 5 minutes
+## Second Task: Review Content screen
 
 I'm going to paste a new link into the Zoom chat. This link will be a prototype, so some areas will be clickable while others are not.
 _(Paste UXPin link into Zoom chat)_
@@ -74,7 +74,7 @@ _Pause_
 - Do you have any other thoughts about this page?
 If you’re ready to proceed, go ahead and show me what you would do next to find a digital version of your debt letter.
 
-## Third Task: Describe the debt list - 10 minutes
+## Third Task: Describe the debt list
 
 Alright, now we’re going to imagine that you’re Hector and you’ve logged into the tool. Take a moment to look over this page and describe to me what you’re seeing. As a general note, you would not see this many debts on a typical account, but we’ve included many different types of debt for the purposes of this session.
 
@@ -96,7 +96,7 @@ Alright, now we’re going to imagine that you’re Hector and you’ve logged i
 - What would the participant do next from this list?
 - How does the participant feel about being redirected to the Debtman site for more information about requesting financial assistance? 
 
-## Fourth Task: Download the most recent debt letter you’ve been sent - ~10 minutes
+## Fourth Task: Download the most recent debt letter you’ve been sent 
 
 Let’s say that the VA debt letter you misplaced is for your most recently updated debt. Show me what you would do next to find a digital copy of the letter. 
 
@@ -151,7 +151,7 @@ That’s all the questions I have about the prototype!
 - Would you use this tool to access your debt letters in the future? Why or why not?
 - Do you have any other thoughts to share with us today?  
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 That’s all the questions I have for you! Do you have any questions for me?
  
