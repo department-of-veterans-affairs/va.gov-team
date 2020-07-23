@@ -91,8 +91,8 @@ Later, when asked how he would have expected to find out he suggested:
 > "I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
-####  2. ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
-3 users left the default menu selection of "VA health" unopened and unchanged, choosing "Urgent care" under the service type menu. This resulted in participants not seeing any of the community provider options. These same users lacked awareness of the Community urgent care benefit so they would not have known to look for them otherwise. After the second task, which made users change the default menu to "Urgent care"/"All urgent care" and read about the Community urgent care benefit, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
+####  2. ½ of all participants filtered urgent care options by “VA health” or "VA urgent care".
+3 users left the default menu selection of "VA health" unopened and unchanged, choosing "Urgent care" under the service type menu. One participant changed the default facility type menu to "Urgent care" and service type to "VA urgent care." Both paths resulted in participants not seeing any of the community provider options. These same users lacked awareness of the Community urgent care benefit so they would not have known to look for them otherwise. After the second task, which made users change the default menu to "Urgent care"/"All urgent care" and read about the Community urgent care benefit, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
 #### 3. Participants generally understood "Urgent care benefit information" is something they should click.
 
@@ -136,13 +136,13 @@ Half of users only noticed the first two listings and most didn't scroll to see 
 Another user didn't see the search functionality until being prompted to scroll down the page because it was below the paragraphs of text and looked like the end of the page.
 
 #### 9. Service type is one of many factors that drives the urgent care selection process. 
-Currently, facilities carry labels that designate if a facility is a "RETAIL/WALK-IN CARE", "VA URGENT CARE", etc. In this prototype, labels were removed to see if participants looked for this type of information. Participants did not seek out these labels or designations and seemed able to sufficiently discern the type of facility from a facility's name and from their filtering options. Facility/service type is important in determining the best option but can vary widely from day to day many Veterans and Caretakers. Additional information that could be helpful to know when choosing a Community provider over a VA facility is if it has a basic understanding for Veteran's specific needs, which for one Caretaker meant, 
+Currently, facilities carry labels that designate if a facility is a "RETAIL/WALK-IN CARE", "VA URGENT CARE", etc. In this prototype, labels were removed to see if participants looked for this type of information. Participants did not seek out these labels or designations and seemed sufficiently able to discern the type of facility from a facility's name, their filtering options, and the "Urgent care benefits information" link. Facility/service type _is_ important in determining the best option but which type is best can vary widely from day to day for many Veterans and Caretakers. Additional information that could be helpful to know when choosing a Community provider over a VA facility is if the provider has a basic understanding for some of Veteran's specific needs, which for one Caretaker meant, 
 
 > "providers that have training and understanding of Veteran's mental health needs, i.e. how a patient with PTSD's needs under a stressful sprained ankle situation".  
 
 Another Caretaker echoed similar factors she weighs when choosing the type of facility, 
 
-> "If they have an outburt, where the VA will understand that they happen. The VA handles it a lot easier. They [non VA] would want to tie him up and stuff so he doesn't hurt himself. The VA doesn't do that stuff."
+> "If they have an outburt, where the VA will understand that they happen. The VA handles it a lot easier. They [community provider] would want to tie him up and stuff so he doesn't hurt himself. The VA doesn't do that stuff."
 
 A third Caretaker explained a past experience with her Veteran husband that would compel her to avoid a VA facility,
 
@@ -186,7 +186,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
   * Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
 
-  * Use consistent typographic styling for results between VA and non-VA location listings so that important differences appear more salient. 
+  * Use consistent typographic styling for results between VA and Community location listings so that important differences appear more salient. 
 
   * An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
 
