@@ -2,7 +2,7 @@
 **VSA eBenefits Team | May 2020**  
 This is to help guide and memorialize decisions made about different functionalities and behaviors for the feature we are working with.  
 -------------
-## Silent Failures  
+## Silent Submission Failures  
 `Team Meeting July 16, 2020`  
 **Ticket: [[SPIKE] Cross Discipline Analysis of User Feedback for Form Submissions #11270](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11270)**  
 We know that there may be some errors and given the length of our submission process, if there is a failure we don't have a great way of notifiying the user.
@@ -45,9 +45,20 @@ _Note/ Guiding principle_
 
 **TL;DR - what does this mean?  what do we do next?**  
 Lowest Level of Effort: Let it go as is and resolve going forward (post launch)  <- Eh, we can do better  
-Next Highlest Level of Effort: We need to know what indicator there might be for a failed response, then we can send them an email.  
+Next Highlest Level of Effort: We need to know what indicator there might be for a failed response, then we can send them an email. ✔️
 Highest LEvel of Effort: Integrate status into Claim Status Tool  
 Ideal: There is a confirmation number that ties to all of the above  
+
+**Next steps:**
+Define and create a hook for failures
+If submission fials:
+Fire the email after hook retries some unmber of times
+If submission is succesful:
+Fire email with thank you message
+or
+do nothing, application said it was succesful
+
+
   
 -------------
 ## Form ID  
