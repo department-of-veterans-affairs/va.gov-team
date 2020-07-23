@@ -117,7 +117,7 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 
 # Go-to-market Strategy
 - *How are Veterans and others using this product going to know it exists?*
-  The profile on VA.gov is an already existing feature. 
+  - The profile on VA.gov is an already existing feature. 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
   - We would like to have a a "tool tip" or icon next to the profile that will let the user know that the "Account"     and "Profile" and merged into "Profile"
   - This would be active during the phased launch to reduce confusion regarding where they can find/change their    
