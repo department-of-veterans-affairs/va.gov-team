@@ -75,7 +75,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 > "Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
-##### Participants generally understood "Urgent care benefit information" is something they should click.
+#### Participants generally understood "Urgent care benefit information" is something they should click.
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
