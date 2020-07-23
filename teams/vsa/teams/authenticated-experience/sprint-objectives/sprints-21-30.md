@@ -204,19 +204,24 @@ Let's focus on Profile 2.0 for at least one more sprint before moving on to LIH.
 ### Profile 2.0
 
 PM
-- Call center - Contact Center Review 
+
+- Call center - Call center video
+- Call center - Complete call center review request
 - Pre-launch - Staging review 8/3
 - Pre-launch - Privacy and Security Review 
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
 - QA - Any design updates out of QA
-- UAT - Submit request 
+- Update documentation
 - Participate in reviews
 
 Dev
+
+**What other dev to-dos need to happen?*
+
 - Participate in reviews
-- QA — Any bug fixes that come out of QA/508
+- QA — Any bug fixes that come out of QA
 
 Platform
 - Call center - Call center review
@@ -235,22 +240,24 @@ Design
 
 Dev
 - Beta/Opt-in discovery 
-- Investigate what data we can pull in for scheduling an appointment
-- Investigate how we'd pull in overall disability rating
-- Investigate how we'd determine if you already have Edu benefits
+- Investigate showing upcoming appointments #10247
+- Investigate level of effort for showing overall disability rating #10249
+- Investigate level of effort for showing GI Bill benefits balance #10255
+- How are we going to build the logged-in homepage? #10256
+
+### Education/GI bill direct deposit
+
+- Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 
 ## Sprint 28 (8/12 – 8/25)
 
 ### Profile 2.0
 
 PM
-- **Launch to UAT users**
+- Contact Center Review 
 
 Design
-- Conduct UAT
-
-Dev
-- Any fixes from UAT
+- UAT - Submit request 
 
 ### Logged-in homepage
 
@@ -266,8 +273,13 @@ Dev
 
 **Profile 2.0**
 
-- Go/No-go
-- Phase 1 launch
+- **Launch to UAT users**
+
+Design
+- Conduct UAT
+
+Dev
+- Any fixes from UAT
 
 **Logged-in homepage**
 
@@ -279,6 +291,10 @@ Design
 
 ## Sprint 30 (9/9 – 9/22)
 
+**Profile 2.0**
+
+- Go/No-go
+- Phase 1 launch
 
 ---------
 
