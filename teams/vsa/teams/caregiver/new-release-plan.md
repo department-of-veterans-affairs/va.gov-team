@@ -20,6 +20,7 @@ By testing products "in the wild" at a small scale, and then fixing/adjusting pr
 |Phase 2A: Canary release (minimal) |1 week|1%|TBD|
 |Phase 2B: Robin release (moderate) |2 weeks|5%|TBD|
 |Phase 2C: Eagle substantial (substanial) release | 3 weeks | 50% | TBD
+|Phase 3: Go Live| indefinite | 100% | TBD
 
 
 ---
