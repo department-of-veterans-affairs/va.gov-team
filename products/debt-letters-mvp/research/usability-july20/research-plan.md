@@ -60,7 +60,7 @@
 - Veterans will not be interested in downloading the debt letters to understand their debt, but may do so for record keeping.
 - Veterans will expect to be able to access past debts, and will be shocked if their debt disappears.
 - Veterans may not understand ‘Next steps’ being replaced by a holding or repayment status.
-- Veterans will be confused by new tabs being opened to Debtman.
+- Veterans will be confused by being redirected to the VA Debtman site to learn about the Financial Status Report (VA Form 5655).
 
 ## Method	
 1.	What method of research are you planning? 	
