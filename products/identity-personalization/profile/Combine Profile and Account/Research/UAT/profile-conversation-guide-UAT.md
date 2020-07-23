@@ -52,7 +52,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
   
 - In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
- - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
+  - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - Click on 'Go to your VA.gov profile'. 
   - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
   - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
@@ -61,7 +61,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
 - In the 'Disability' box in the top right, click on 'View your payment history'. Scroll down to 'What should I do if I need to change my direct deposit or contact information?', and then click the link that says 'Change your information online'. Scroll down to  'How can I change my VA direct deposit information online?' and click on the green button that says'Go to your profile'.
- - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
+  - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
   - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
   - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
   - [ ] **UAT TASK:** Navigation has loaded properly and is showing all sections.
@@ -71,16 +71,16 @@ OK, please share your screen, and then we will get started.
 ### Personal and Contact Information - 5 min
 
 - So now we are looking at your profile. Does all of this information look correct?
- - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
+  - [ ] **UAT TASK:** Personal and contact information has been pulled in correctly
 
 - Go ahead and click on 'How do I update my personal information?'
-   - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
+  - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
    
 - Next, please click any of the Edit links you see.
   - [ ] **UAT TASK:** Edit form opens and appears to be formatted correctly.
   
 - With this form still open, click on another Edit link.
- - [ ] **UAT TASK:** Required errors are returned.
+  - [ ] **UAT TASK:** Required errors are returned.
 
 - Click 'Ok'. Without changing anything in the form, click 'Update'.
   - [ ] **UAT TASK:** Address saves, edit form closes.
@@ -106,7 +106,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** FAQ opens up and appears to be formatted correctly.
 
 - Next, scroll to the 'Contact email address' section. Click on the link 'Update email address on ...'.
- - [ ] **UAT TASK:** Link goes to the website where they manage their information
+  - [ ] **UAT TASK:** Link goes to the website where they manage their information
  
  ### Military Information - 2 min
  
@@ -142,7 +142,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Correct alert is returned.
   
 - Click 'Cancel'. 
- - [ ] **UAT TASK:** Form closes.
+  - [ ] **UAT TASK:** Form closes.
  
 - Please open the form again and add your direct deposit information, even if it is already correct in your profile. Then click "Update."
   - [ ] **UAT TASK:** Form closes, and the direct deposit information shows in the profile.
@@ -227,8 +227,8 @@ OK, please share your screen, and then we will get started.
 
 ## Post-Task Interview - 1 minutes
 
-- Do you have any feedback on what we looked at today?
-- Do you have any questions for me?
+  - Do you have any feedback on what we looked at today?
+  - Do you have any questions for me?
 
 ## Thank-You and Closing - 1 minutes
 
