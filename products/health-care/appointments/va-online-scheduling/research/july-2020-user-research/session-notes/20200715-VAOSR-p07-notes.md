@@ -67,7 +67,7 @@ We're going to take a look at your Appointments list. Don't worry if you haven't
   - Does that look correct: 
     > Yeah. 
 - [Appointment list] Let's take a look at the appointment list. 
-    -What do you think about the order of your appointments? 
+    - What do you think about the order of your appointments? 
       > They are right in order on in April then may. 
 
 ## Section 3: Scheduling an appointment using VAOSR MVP
