@@ -168,7 +168,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 ## Recommendations
 
-* Don't preselect "VA health" under "Choose a VA facility type" which seems to nfluence the more common path of "VA health" / "Urgent care" which then limits the total choices available to them. By forcing Veteran's to open the menu, it may allow them to see "Urgent care" first. Proceed with "All urgent care" as the defaulted service type option when "Urgent care" is selected, to increase the likelihood of exposure to all available options.
+* Don't preselect "VA health" under "Choose a VA facility type" which appears to influence the more common path of "VA health" / "Urgent care" which in turn limits the total choices available to them. By forcing Veteran's to open the menu, it may allow them to see "Urgent care" first. Proceed with "All urgent care" as the defaulted service type option when "Urgent care" is selected, to increase the likelihood of exposure to all available options.
 
 * Do not style "Call for services and hours" as a status - use a more subtle treatment. 
 
