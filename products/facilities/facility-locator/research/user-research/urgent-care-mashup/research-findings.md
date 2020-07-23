@@ -47,9 +47,12 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Findings by Hypothesis
 
 * Veterans will understand how to find an urgent care location.
-  * Finding: 
+  * Finding: Partially false. Only two participants intentionally chose to see "All urgent care".  Most participants filtered their choices by “VA health” or “VA urgent care”, excluding Community care options from their list of results. These same users lacked awareness of the Community urgent care benefit. It is unclear if having knowledge of this benefit would have changed their filtering patterns. (see findings 1 and 2)
 * Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
+   * Finding: Partially true. Half of participants intentionally filtered their urgent care options by “VA health” or “VA urgent care”. However, this study revealed that one of the reasons a Veteran might intentionally choose VA urgent care is because they believe that it is not their choice to decide when to go to a community care provider (see finding 6). Veteran weigh other factors when deciding to choose VA or choose not to go to a VA facility. (see findings 9 and 10)
 * Veterans will understand how to prepare for a visit to an urgent care facility.
+ * Finding: True. Most understood that they should click “Urgent care benefit information” to obtain benefit information relating to that location. All participants would call locations to clarify any uncertainty about benefits, services, hours and wait times. 
+
 
 ### Key Findings
 
