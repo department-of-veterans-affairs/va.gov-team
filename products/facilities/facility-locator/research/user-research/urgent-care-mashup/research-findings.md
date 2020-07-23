@@ -188,15 +188,19 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
   * Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
 
-  * Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
+  * Add the number of listings to the search results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
 
   * Use consistent typographic styling for results between VA and Community location listings so that important differences appear more salient. 
 
-  * An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
+  * Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
 
 ## Next Steps
 
-Discuss with team and revise as necessary
+* A/B test the recommended change to defaulted facility and service type menus.
+* Implement design recommendations.
+* Conduct baseline usability tests on live Facility Locator to gather more data on user's actual experience with browsers, load times and search experiences.
+ * include a subset of usability tests on mobile or create a separate study with a mobile first focus.
+* Share relevant findings with other teams and stakeholders.
 
 ## Appendix
 
