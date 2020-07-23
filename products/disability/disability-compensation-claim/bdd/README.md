@@ -71,6 +71,8 @@ Service members being able to apply for their first VA benefits on VA.gov versus
 - Time to BDD decision (input KPI)
 - % of BDD claims that are closed as BDD (vs. converted to a regular claim) (input KPI)
 - Number of physical exams completed "in time" (input KPI)
+  - Faster scheduling
+- Convert from BDD to "All Claims"
 - % of "rejected / diverged" BDD claims (input KPI)
 
 - Number of BDD claims successfully "adjudicated" within *n* days  (North Star Metric)
