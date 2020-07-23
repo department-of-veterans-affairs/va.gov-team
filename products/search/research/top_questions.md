@@ -37,20 +37,13 @@ Users are searching for general health and benefit information, forms, and some 
 - Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list
 - "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
 
-Report Name | Desktop/Tablet/Mobile data
-:--- | :---: | 
-Site Search | [report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#people-are-searching-for-general-health-and-benefit-information-forms-and-some-specific-tasks-we-may-want-to-do-a-better-job-of-elevating) | 
-
 <details>
-  <summary><b>Top Search Terms (Modernized site data VA.gov only)</b></summary>
-
-<details>
-  <summary><b>Top 25 search terms on the modernized VA.gov only</b></summary>
+  <summary><b>Top 100 search terms on the modernized VA.gov only (Source: Search.gov Sept. 2018-May 2019)</b></summary>
   
-| \(Search Term \- Lowercase\) | SUM of Total Unique Searches |
+| \(Search Term \- Lowercase\) | Percentage of Searches       |
 |------------------------------|------------------------------|
-| \(other\)                    | 803751                       |
-| benefits                     | 153244                       |
+| loans                        | 4.11%                        |
+| benefits                     |                        |
 | health                       | 58827                        |
 | forms                        | 24197                        |
 | jobs                         | 13494                        |
