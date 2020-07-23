@@ -5,8 +5,11 @@ labels: content-ia-team, documentation-support
 assignees: gmaciolek
 
 ---
-## Please describe your documentation feedback, describe your request, or ask your question here: 
-<br>
+### What is your documentation request, question, comment, or issue?
+Give us whatever details you have, but vague requests are welcome. We'll follow up with you within 3 business days and let you know if we have questions or need more information. 
 
-### _What happens now?_ 
-_The VSP Content & Information Architecture will triage your request and reach out for more info as needed._
+
+### What happens next?
+-  For VFS Teams, we'll follow up with you after triaging your request.
+-  For VSP Teams, see [Working with VSP the documentation team (for VSP teams)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/documentation/request-documentation-support.md) for more details on turnaround times and the triage process. 
+
