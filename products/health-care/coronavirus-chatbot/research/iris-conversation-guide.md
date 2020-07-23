@@ -47,7 +47,7 @@ Tech usage:
 
 - Why did you choose the method you chose?
 
-- How often have you used IRIS? 
+- How often have you used IRIS? Did you use the COVID-19 Chatbot?
 
  
 - Why, how and when do you use IRIS? Tell us about the last time you contacted the VA using IRIS. (Prompt for why they called vs. using IRIS)
