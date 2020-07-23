@@ -1,6 +1,6 @@
 # Release Plan - Caregivers
 
-### Copied from [VSP Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+###### Copied from [VSP Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 The goal of a phased roll out is to answer these questions:
 
