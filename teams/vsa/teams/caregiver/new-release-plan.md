@@ -18,7 +18,7 @@ By testing products "in the wild" at a small scale, and then fixing/adjusting pr
 |---|---|---|---|
 |Phase 1: Moderated production testing |1 month|30 CSCs| TBD  |
 |Phase 2A: Canary release (minimal) |1 week|1%|TBD|
-|Phase 2B: Robin release (moderate) |2 weeks|5%|TBD|
+|Phase 2B: Cardinal release (moderate) |2 weeks|5%|TBD|
 |Phase 2C: Eagle release (substanial) | 3 weeks | 50% | TBD
 |Phase 3: Go Live| indefinite | 100% | TBD
 
@@ -71,7 +71,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: Robin (Moderate)
+### Stage B: Cardinal (Moderate)
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
