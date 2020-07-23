@@ -33,13 +33,13 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ### Research Questions
 
-- What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
-- What information do Veterans need/want for community urgent care (in VA network) locations?
-- Do Veterans need/want to distinguish between these location types in a single list?
-- Do veterans want to filter by facility type, va/non-va?
-- Would veterans click to learn more about community urgent care benefits?
-- Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
-- What information does a veteran find helpful in preparing to go to a urgent care facility?
+* What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
+* What information do Veterans need/want for community urgent care (in VA network) locations?
+* Do Veterans need/want to distinguish between these location types in a single list?
+* Do veterans want to filter by facility type, va/non-va?
+* Would veterans click to learn more about community urgent care benefits?
+* Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
+* What information does a veteran find helpful in preparing to go to a urgent care facility?
 
 
 ## Findings
@@ -53,16 +53,16 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ### Key Findings
 
-7 out of 8 Participants did not know about the Community urgent care benefit.
-½ of all participants filtered urgent care options by “VA health”. 
-Participants understood “Urgent care benefit information” is something they should click. 
-Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
-Veterans use “in network”, “outside” and “civilian” to describe VA and non-VA options.
-Veterans don’t believe it's up to them to decide where to go for urgent care. 
-Close proximity is a crucial factor when choosing urgent care.
-Lack of visual affordances impacts how users perceive page data and functionality. 
-Veterans did not seek out labels like “Retail” or “VA health” to identify the facility type. 
-Two Veterans specifically asked for wait times to be surfaced in search results.
+* 7 out of 8 Participants did not know about the Community urgent care benefit.
+* ½ of all participants filtered urgent care options by “VA health”. 
+* Participants understood “Urgent care benefit information” is something they should click. 
+* Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
+* Veterans use “in network”, “outside” and “civilian” to describe VA and non-VA options.
+* Veterans don’t believe it's up to them to decide where to go for urgent care. 
+* Close proximity is a crucial factor when choosing urgent care.
+* Lack of visual affordances impacts how users perceive page data and functionality. 
+* Veterans did not seek out labels like “Retail” or “VA health” to identify the facility type. 
+* Two Veterans specifically asked for wait times to be surfaced in search results.
 
 ### Details of Findings
 
