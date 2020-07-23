@@ -11,25 +11,7 @@ Veterans are unable to consistently share and update current health status and m
 - How might we better integrate Veteran-provided data into VA workflows?
 - How might we provide Veterans with a digital option when only a paper option exist today to complete pre-appointment questionnaires and screeners?
 
-## Job To Be Done
-When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatement plan accross the coninium of care.
  
-### User Research - Key Findings
-
-> **Key Theme:** Save Time and Optomize Care
-
-1. Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.	
-2. Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
-3. Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
-4. The biggest pain point for Veterans is the handoff of information.
-5. Veterans want a way to review previous answers and update when needed
-6. Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.
-7. Participants want a way to connect digital forms with their information in MyhealtheVet.
-8. Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
-
-[June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
-
-
 ### Unmet Needs - _identified from user research_
 
 1. Provide updates when convenient and relevant with the device and location of choice
@@ -40,15 +22,17 @@ When going to a healthcare visit, I want to share my current health status and m
 
 [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
 
+[June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
+
 ## Desired Outcomes 
 
 ### Veteran & Clinical Staff
 - Enter user Story /use case Epics here
 
-### Business 
+### Business4
 - Enter user Story /use case Epics here
 
-### Initiatives
+### Initiatives /Bets
 | Initiative Name		                      | Status 
 | --------------------------------------------------- | -----
 | [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover
@@ -67,26 +51,18 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 
 ### Value Propositions
 
-
-_ need to enter descriptions for each_
-
 [**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) 
-- Faster access
-- reduction data entry
-- safety
-- accuracy of information
-- convenience
-- workflow integration
-- productivity
-- satisfaction
 
 [**Business**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#business)
-- Data consolidation and accuracy
-- adoption of VA services
-- employee productivity
-- safety
-- materials cost
-- wait times
+
+
+### OKRs 
+**Objective/Job To Be Done**
+When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatment plan across the continuum of care.
+> **Key Theme:**  Save Time and Optimize Care
+- Personal Experience - exceed expectations
+- Collaboration - empower partnership
+- Seamless Journey - meet users where they are
 
 ### KPIs 
  
@@ -96,10 +72,6 @@ _ need to enter descriptions for each_
 - _Include Baseline KPIs_
 
 - _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### OKRs 
-
-- _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 ---
 
