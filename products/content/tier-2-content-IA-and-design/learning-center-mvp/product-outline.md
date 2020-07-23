@@ -86,7 +86,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - EX: Free or subsidized rides for Veterans to their VA medical center. VHA's Veteran Transportation Program business may think of this as a benefit, it's in fact an add-on service or resource that varies from city to city, medical center to medical center, and from year-to-year depending on funding and participation of local nonprofits that each medical center might have relationships with. 
 - That there are different audiences for tier 2 benefit-adjacent content. Ex: for Veterans and other beneficiaries; and for people who work with Veterans and other beneficiaries (like VSOs or school administrators)
 
----
 
 ---
 
@@ -101,6 +100,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - List of emblems of belief - source: https://www.cem.va.gov/cem/hmm/emblems.asp , https://www.cem.va.gov/cem/docs/factsheets/Emblems.pdf
 - What is adult day care? - source: https://www.va.gov/GERIATRICS/pages/Adult_Day_Health_Care.asp
 - How to apply for an NCA grant to states, federally recognized tribal government, or U.S. territories to establish, improve or expand a Veterans cemetery - source: https://www.cem.va.gov/grants/index.asp  
+- Directory of state agencies that administer state benefits to veterans: https://www.va.gov/statedva.htm 
 
 
 ## High-level requirements for MVP
