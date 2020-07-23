@@ -51,13 +51,13 @@ Highest LEvel of Effort: Integrate status into Claim Status Tool
 Ideal: There is a confirmation number that ties to all of the above  
 
 **Next steps:**
-Define and create a hook for failures
-If submission fials:
-Fire the email after hook retries some unmber of times
-If submission is succesful:
-Fire email with thank you message
-or
-do nothing, application said it was succesful
+1. Define and create a hook for failures
+1. If submission fials:
+1. Fire the email after hook retries some unmber of times
+1. If submission is succesful:
+1. Fire email with thank you message. 
+or  
+do nothing, application said it was succesful  
 
 
   
