@@ -8,9 +8,7 @@ title: "[Initiative-Name]: Initiative Checklist"
 
 _This checklist is intended to be used to help answer, "is my VSP initiative ready for launch?". All of the items in this checklist should be completed, with artifacts linked---or have a brief explanation of why they've been skipped---before launching a given VSP initiative. The items that can be skipped are marked as such._
 
-_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product._
-
-_TODO(gunsch): link to VSP Product Terminology when ready_
+_Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product. See (VSP Product Terminology)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-terminology.md] for details._
 
 ---
 
