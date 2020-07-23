@@ -2,11 +2,25 @@
 
 ### Copied from [VSP Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
+The goal of a phased roll out is to answer these questions:
 
-So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
+- How people will naturally use your product when you're not there to guide them to it?
+- How will submitted data get to VA, and will that data will be easy or difficult for VA to process?
+- Are people likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment?
 
-That's what this Release Plan Template is for!
+By testing products "in the wild" at a small scale, and then fixing/adjusting prior to going live to millions of VA.gov users :tada:
+
+---
+
+## Release Plan Overview
+
+| Phase | Duration | Users | Dates |
+|---|---|---|---|
+|Phase 1: Moderated production testing |1 month|30 CSCs| TBD  |
+|Phase 2A: Canary release (minimal) |1 week|1%|TBD|
+|Phase 2B: Robin release (moderate) |2 weeks|5%|TBD|
+|Phase 2C: Eagle substantial (substanial) release | 3 weeks | 50% | TBD
+
 
 ---
 
@@ -40,7 +54,7 @@ That's what this Release Plan Template is for!
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
-### Stage A: Canary
+### Stage A: Canary (Minimal)
 
 _Test a small population of users to make sure any obvious bugs / edge cases are caught._
 
@@ -56,7 +70,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: moderate
+### Stage B: Robin (Moderate)
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
@@ -74,7 +88,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
-### Stage C: substantial
+### Stage C: Eagle (Substantial)
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
