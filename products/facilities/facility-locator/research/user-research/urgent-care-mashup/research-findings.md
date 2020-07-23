@@ -47,7 +47,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Findings by Hypothesis
 
 * Veterans will understand how to find an urgent care location.
-  * Finding:
+  * Finding: 
 * Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
 * Veterans will understand how to prepare for a visit to an urgent care facility.
 
@@ -100,7 +100,7 @@ Veterans understand that they occasionally get "sent" to non-VA providers in cer
 
 > "I didn't realize, I thought you had to get sent to these, most of the outside providers. I hadn't heard of these urgent providers in-network, like you just walk in. That's something new to me. Usually I call the VA. Normally, they'd send me somewhere if they couldn't see me in a reasonable amount of time. They would send an authorization. They have an office and they would call me and tell me which doctor to go to and it would all be taken care of... I wouldn't just choose something on my own because I'm not familiar with that at all within the VA healthcare system."
 
-**6. ½ of all participants filtered urgent care options by "VA health".**<br>
+**• ½ of all participants filtered urgent care options by "VA health".**<br>
 These same users lacked awareness of the Community urgent care benefit. By the end of each session, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
 **7. Close proximity is a crucial factor when choosing urgent care.**<br>
