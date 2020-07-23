@@ -130,9 +130,11 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Go ahead and talk me through what you see on this page and what you can do here. 
 
-- Does this page in answer your question?
+- Does this page answer your question?
 
-- Based on this article, what would you do next?
+- Tell me how would you get back to the list of articles you were just on.
+
+- Okay, and based on this article, show me what you would do next.
 
   *Encourage participant to click on hotspot if they have not done so already*. 
 
@@ -205,6 +207,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
   - Did you notice the audience and topic labels?
   - What would you expect to happen if you clicked on one?
+  - Did you think they were clickable?
   - Go ahead and click on the audience label.
 
 *User lands on Learning center articles tagged: Vietnam War Veterans page.*
