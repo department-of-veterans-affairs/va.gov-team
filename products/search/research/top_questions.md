@@ -37,13 +37,45 @@ Users are searching for general health and benefit information, forms, and some 
 - Benefits-related terms like "direct deposit" (~13K), "cemetery" (~10K), and "certificate of eligibility" (~8K) are high on the list
 - "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
 
-<details>
-  <summary><b>Top Search Terms (Modernized site data VA.gov only)</b></summary>
-
 Report Name | Desktop/Tablet/Mobile data
 :--- | :---: | 
 Site Search | [report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#people-are-searching-for-general-health-and-benefit-information-forms-and-some-specific-tasks-we-may-want-to-do-a-better-job-of-elevating) | 
-Top 25 Interactions on Homepage (Excluding Scrolling) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/) | 
+
+<details>
+  <summary><b>Top Search Terms (Modernized site data VA.gov only)</b></summary>
+
+<details>
+  <summary><b>Top 25 search terms on the modernized VA.gov only</b></summary>
+  
+| \(Search Term \- Lowercase\) | SUM of Total Unique Searches |
+|------------------------------|------------------------------|
+| \(other\)                    | 803751                       |
+| benefits                     | 153244                       |
+| health                       | 58827                        |
+| forms                        | 24197                        |
+| jobs                         | 13494                        |
+| direct deposit               | 12723                        |
+| ebenefits                    | 10335                        |
+| tms                          | 10240                        |
+| cemetery                     | 9726                         |
+| dd214                        | 8597                         |
+| certificate of eligibility   | 8154                         |
+| vatas                        | 7867                         |
+| 22\-1995                     | 7492                         |
+| careers                      | 6711                         |
+| vet\_center                  | 6665                         |
+| va forms                     | 6527                         |
+| dental                       | 6304                         |
+| agent orange                 | 5964                         |
+| dbq                          | 5716                         |
+| chapter 35                   | 5376                         |
+| aid and attendance           | 5004                         |
+| coe                          | 4629                         |
+| mission act                  | 4466                         |
+| urgent care                  | 3985                         |
+| champva                      | 3946                         |
+
+  
 </details>
 
 ***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?***
