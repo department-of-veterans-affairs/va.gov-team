@@ -156,9 +156,9 @@ Now we're going to look at a prototype: [Express Care Prototype - v2](https://vs
 
 - [EC landing page - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
-- Imagine you want to make an appointment to be seen for a bothersome cough *today*, how would you make an appointment for that? 
-  - Is that what you expected to happen? 
-    - Why / why not?
+  - Imagine you want to make an appointment to be seen for a bothersome cough *today*, how would you make an appointment for that? 
+    - Is that what you expected to happen? 
+      - Why / why not?
 - [EC subway map / consent landing page - v2](https://vsateams.invisionapp.com/share/BVY4QCOJM4U#/screens/425790747) Take a moment to look at what you see on your screen. Read through the information aloud and talk through what you are seeing.
   - Probe: What does / doesn't make sense?
   - Is that what you expected to happen? 
