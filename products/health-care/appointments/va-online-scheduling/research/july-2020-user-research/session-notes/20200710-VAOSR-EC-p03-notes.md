@@ -130,14 +130,16 @@ Next, we're going to try to cancel an appointment using this tool.
   - Is there anything else you'd like to share about this page?
 
 ## Section 5: Express Care Prototype
-Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. Before we look at the prototype, let's start with a few questions:
+Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. 
+
+Before we look at the prototype, let's start with a few questions:
 - Have you heard of "Express Care"?
   - If YES:
     - What is it? 
     - Have you used it?
   - If NO: 
     - What do you think it might be?
-With what’s going on today, I’m assuming it’s that you call in and get advice from a doctor or a nurse for whatever situation you’re going through, they give you advice online or over the phone.
+      > With what’s going on today, I’m assuming it’s that you call in and get advice from a doctor or a nurse for whatever situation you’re going through, they give you advice online or over the phone.
     - Prompt, if needed: do you think it is for an in-person or virtual appointment?
 - Have you done any Telehealth appointments with VA?
   - If YES:
