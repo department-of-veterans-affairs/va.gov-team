@@ -255,9 +255,10 @@ Dev
 
 PM
 - Contact Center Review 
+- UAT Go/No-go
 
 Design
-- UAT - Submit request 
+- UAT - Submit request **Make sure there are no issues and we're all clear to go to UAT**
 
 ### Logged-in homepage
 
@@ -293,7 +294,7 @@ Design
 
 **Profile 2.0**
 
-- Go/No-go
+- Launch Go/No-go
 - Phase 1 launch
 
 ---------
