@@ -12,8 +12,9 @@ As a member of a product team, I want a version of www.va.gov where your product
 
 As a member of a product team, i want to create my own demo site, and not rely on CMS team. 
 
-1) Go to http://devshop.cms.va.gov/node/add/site/demo and login using the Github logo
-2) Provide the name for your environment. A name like `philadelphiahealthcare` will yield two environments: 
+1) Go to http://devshop.cms.va.gov/node/add/site/demo 
+2) Login using the Github logo
+3) Provide the name for your environment. A name like `philadelphiahealthcare` will yield two environments: 
 
  - CMS http://philadelphiahealthcare.demo.ci.cms.va.gov/
  - Web http://philadelphiahealthcare.web.demo.ci.cms.va.gov/
