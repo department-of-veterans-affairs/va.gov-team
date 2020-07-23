@@ -57,10 +57,10 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Key Findings
 
 * 7 out of 8 Participants did not know about the Community urgent care benefit.
-* ½ of all participants filtered urgent care options by “VA health”. 
+* ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". 
 * Participants understood “Urgent care benefit information” is something they should click. 
 * Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
-* Veterans use “in network”, “outside” and “civilian” to describe VA and non-VA options.
+* Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
 * Veterans don’t believe it's up to them to decide where to go for urgent care. 
 * Close proximity is a crucial factor when choosing urgent care.
 * Lack of visual affordances impacts how users perceive page data and functionality. 
@@ -70,7 +70,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Details of Findings
 
 #### 7 out of 8 Participants did not know about the Community urgent care benefit.
-3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
+3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility locator tool which in turn exposed them to the Community urgent care information page. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
 >  P3(AI-get exact quote) "User was frustrated that info on CC was never shared. She heard 'you can look it up' but wasn't instructed how. Wishes VHA had emailed her to tell her about CC with a link to this. When she went to the VA she says nobody gave her a list of providers or explained how to find out."
 
@@ -79,29 +79,27 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 > "Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
-####  ½ of all participants filtered urgent care options by "VA health".
-These same users lacked awareness of the Community urgent care benefit. By the end of each session, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
-
-
+####  ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
+3 users left the default menu selection of "VA health" unopened and unchanged, choosing "Urgent care" under the service type menu. This resulted in participants not seeing any of the community provider options. These same users lacked awareness of the Community urgent care benefit so they would not have known to look for them otherwise. After the second task, which made users change the default menu to "Urgent care"/"All urgent care" and read about the Community urgent care benefit, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
 #### Participants generally understood "Urgent care benefit information" is something they should click.
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
-However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. Even after clicking through the link users may remain skeptical.
+However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. Even after clicking through the link, some users may remain skeptical. When asked "What do you think this page is trying to communicate?", one Caretaker responded:
 
 > "before you go, you have to call this number and we have to authorize that you're even allowed to go in for your sprained ankle." 
 
-This particular user was on the Community urgent care information page for **two full minutes refusing to read** the information saying, 
+This particular user was on the Community urgent care information page for **two full minutes not wanting to read the information** while explaining, 
 
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
 #### Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”
-A yellow warning style status was used for both facility types. However, when users compared the two, "Call for services and hours" that was used on Community urgent care facilities, was interpreted as less limiting and more of an invitation to call. 
+All facilities carried a yellow warning style status. The VA location's status read "Limited services and hours". All community care locations carried a "Call for services and hours" status. When users compared the two, "Call for services and hours", was interpreted as less limiting and more of an invitation to call. **NOTE:** The interpretation of status messaging is being heavily influences by COVID 19. This is an area that will need to be retested as operating circumstances change.
 
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
-#### Veterans use "in network", "outside" and "civilian" to describe VA and non-VA options.
+#### Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
 Throughout the studies 5 participants used the term in network to describe facility options that would be covered by insurance. Three participants used the word "outside" and two used the word "civilian" to describe non-VA facilities or providers.
 
 > "Means that you can go to a civilian provider that the VA would pay for"
