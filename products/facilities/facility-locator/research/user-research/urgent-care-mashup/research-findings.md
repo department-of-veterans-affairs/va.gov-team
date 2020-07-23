@@ -72,7 +72,11 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 #### 7 out of 8 Participants did not know about the Community urgent care benefit.
 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility Locator tool, and specifically that it could surface additional urgent care options and benefits. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
->  "Community Care is pretty new, right? I didn't even know because he [Veteran father] got contracted out for PT... When I asked, nobody gave me a list of where to go when I spoke to VA. Nobody gave information about the website or about Community Care that I could look it up myself." Went on to explain that if she had known about the Facility Locator she would have chosen Community providers as her facility type and typed in physical therapy as her service type. "Nobody told me to go on the site and do it. So, it's not being shared with us. So, I didn't know I had the tool to do it myself. I could have Googled Community care but if I don't even know the website has availability [community providers], I wouldn't even know to look. And when I did speak to Community care VA, they didn't even share this [Facility Locator] with us."
+>  "Community Care is pretty new, right? I didn't even know because he [Veteran father] got contracted out for PT... When I asked, nobody gave me a list of where to go when I spoke to VA. Nobody gave information about the website or about Community Care that I could look it up myself." 
+
+This Caretaker went on to explain that if she had known about the Facility Locator she would have chosen Community providers as her facility type and typed in physical therapy as her service type. She added:
+
+> "Nobody told me to go on the site and do it. So, it's not being shared with us. So, I didn't know I had the tool to do it myself. I could have Googled Community care but if I don't even know the website has availability [community providers], I wouldn't even know to look. And when I did speak to Community care VA, they didn't even share this [Facility Locator] with us."
 
 When another Caretaker was asked if the information about Community urgent care benefits was helpful, she responded: 
 
