@@ -15,7 +15,7 @@ The goal of this study was to:
 
 Prior to the study, we hypothesized that:
 - Veterans will understand how to find an urgent care location.
-- Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
+- Veterans will want to filter urgent care locations by facility type, VA or Community providers to inform their decision.
 - Veterans will understand how to prepare for a visit to an urgent care facility.
 
 ## Research Methodology 
@@ -36,7 +36,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 * What information do Veterans need/want from the Facility Locator search results when seeking urgent care?
 * What information do Veterans need/want for community urgent care (in VA network) locations?
 * Do Veterans need/want to distinguish between these location types in a single list?
-* Do veterans want to filter by facility type, va/non-va?
+* Do veterans want to filter by facility type, VA or Community providers?
 * Would veterans click to learn more about community urgent care benefits?
 * Do veterans find labels such as those indicating urgent care service/facility type helpful when finding/selecting an urgent care location?
 * What information does a veteran find helpful in preparing to go to a urgent care facility?
@@ -56,20 +56,20 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ### Key Findings
 
-* 7 out of 8 Participants did not know about the Community urgent care benefit.
-* ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". 
-* Participants understood “Urgent care benefit information” is something they should click. 
-* Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
-* Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
-* Veterans don’t believe it's up to them to decide where to go for urgent care. 
-* Close proximity is a crucial factor when choosing urgent care.
-* Lack of visual affordances impacts how users perceive page data and functionality. 
-* Veterans did not seek out labels like “Retail” or “VA health” to identify the facility type. 
-* Two Veterans specifically asked for wait times to be surfaced in search results.
+1. 7 out of 8 Participants did not know about the Community urgent care benefit.
+2. ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". 
+3. Participants understood “Urgent care benefit information” is something they should click. 
+4. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”.
+5. Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
+6. Veterans don’t believe it's up to them to decide where to go for urgent care. 
+7. Close proximity is a crucial factor when choosing urgent care.
+8. Lack of visual affordances impacts how users perceive page data and functionality. 
+9. Service type is one of many factors that drives the urgent care selection process. 
+10. Two Veterans specifically asked for wait times to be surfaced in search results.
 
 ### Details of Findings
 
-#### 7 out of 8 Participants did not know about the Community urgent care benefit.
+#### 1. - 7 out of 8 Participants did not know about the Community urgent care benefit.
 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility Locator tool, and specifically that it could surface additional urgent care options and benefits. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
 >  "Community Care is pretty new, right? I didn't even know because he [Veteran father] got contracted out for PT... When I asked, nobody gave me a list of where to go when I spoke to VA. Nobody gave information about the website or about Community Care that I could look it up myself." 
@@ -112,12 +112,12 @@ All facilities carried a yellow warning style status. The VA location's status r
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
 #### Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
-Throughout the studies 5 participants used the term in network to describe facility options that would be covered by insurance. Three participants used the word "outside" and two used the word "civilian" to describe non-VA facilities or providers.
+Throughout the studies 5 participants used the term in network to describe facility options that would be covered by VA healthcare insurance. Three participants used the word "outside" and two used the word "civilian" to describe community facilities or providers.
 
 > "Means that you can go to a civilian provider that the VA would pay for"
 
 #### Veterans don't believe it's up to them to decide where to go for urgent care.
-Veterans understand that they occasionally get "sent" to non-VA providers in certain circumstances but it is not something that they think they can choose on their own.
+Veterans understand that they occasionally get "sent" to Community providers in certain circumstances but it is not something that they think they can choose on their own.
 
 > "I didn't realize, I thought you had to get sent to these, most of the outside providers. I hadn't heard of these urgent providers in-network, like you just walk in. That's something new to me. Usually I call the VA. Normally, they'd send me somewhere if they couldn't see me in a reasonable amount of time. They would send an authorization. They have an office and they would call me and tell me which doctor to go to and it would all be taken care of... I wouldn't just choose something on my own because I'm not familiar with that at all within the VA healthcare system."
 
@@ -127,9 +127,7 @@ Long travel and wait times compound existing factors that Veterans face such eco
 
 > "I'm probably going to start using option A [community urgent care] regardless, because I don't drive. I use public transportation. It saves money. And I catch the bus probably 10 miles across town to get to my VA when there's a doctor's office, a 1/4 of a mile away. That's better for me."
 
-A caretaker explaining a past experience with her Veteran husband,
 
->  "if he's having a bad day because fireworks go off the night before, he's agitated and his anxiety is high, taking him to the VA knowing he'll sit there for 6 hours, like issues we've had in the past, it's better to skip that anxiety and escalation, and pay out of pocket"
 
 #### Lack of visual affordances impact how users perceive page data and functionality.
 Half of users only noticed the first two listings and most didn't scroll to see more. Those that did try scrolling, would try to scroll the page level scrollbars to see more which don't affect the list of results. These users were on modern browsers where system scrollbars were comprised of very thin graphics that only appeared on hover.  Those with browsers that displayed thicker looking scrollbars, that stayed on screen, scrolled the list on their own without being prompted. 
@@ -137,11 +135,18 @@ Half of users only noticed the first two listings and most didn't scroll to see 
 
 Another user didn't see the search functionality until being prompted to scroll down the page because it was below the paragraphs of text and looked like the end of the page.
 
-#### Veterans did not seek out labels like "Retail" or "VA health" to identify the facility type.
-Participants did, however, want a label or designation to know if a non-VA location was "military cultured" which for this caretaker meant, 
+#### Service type is one of many factors that drives the urgent care selection process. 
+Currently, facilities carry labels that designate if a facility is a "RETAIL/WALK-IN CARE", "VA URGENT CARE", etc. In this prototype, labels were removed to see if participants looked for this type of information. Participants did not seek out these labels or designations and seemed able to sufficiently discern the type of facility from a facility's name and from their filtering options. Facility/service type is important in determining the best option but can vary widely from day to day many Veterans and Caretakers. Additional information that could be helpful to know when choosing a Community provider over a VA facility is if it has a basic understanding for Veteran's specific needs, which for one Caretaker meant, 
+
 > "providers that have training and understanding of Veteran's mental health needs, i.e. how a patient with PTSD's needs under a stressful sprained ankle situation".  
-Another caretaker echoed similar needs that some Veterans have, 
+
+Another Caretaker echoed similar factors she weighs when choosing the type of facility, 
+
 > "If they have an outburt, where the VA will understand that they happen. The VA handles it a lot easier. They [non VA] would want to tie him up and stuff so he doesn't hurt himself. The VA doesn't do that stuff."
+
+A third Caretaker explained a past experience with her Veteran husband that would compel her to avoid a VA facility,
+
+> "if he's having a bad day because fireworks go off the night before, he's agitated and his anxiety is high, taking him to the VA knowing he'll sit there for 6 hours, like issues we've had in the past, it's better to skip that anxiety and escalation, and pay out of pocket"
 
 #### Two Veterans specifically asked for wait times to be surfaced in search results.
 
