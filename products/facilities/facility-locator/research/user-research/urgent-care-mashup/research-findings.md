@@ -168,19 +168,19 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 ## Recommendations
 
-1.  Since Veterans do not currently know of Community urgent care benefits, remove the "VA health" preselection under "Choose a VA facility type". This would allow Veterans to see "Urgent care" as an option instead of influencing the more likely path of "VA health" / "Urgent care" which limits the total choices available to them.
+* Since Veterans do not currently know of Community urgent care benefits, remove the "VA health" preselection under "Choose a VA facility type". This would allow Veterans to see "Urgent care" as an option instead of influencing the more likely path of "VA health" / "Urgent care" which limits the total choices available to them.
 
-2.  Do not style "Call for services and hours" as a status - use a more subtle treatment. 
+* Do not style "Call for services and hours" as a status - use a more subtle treatment. 
 
-3.  Proceed with the linkable info status styling to communicate Community urgent care benefits information.
+* Proceed with the linkable info status styling to communicate Community urgent care benefits information.
 
-4.  Use language that mirrors how Veterans understand and communicate benefit and facility terminology and highlight "what's in it for them".
+* Use language that mirrors how Veterans understand and communicate benefit and facility terminology and highlight "what's in it for them".
 
   * On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
 
   * On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
 
-5. Add more visual affordances to page functionality. 
+* Add more visual affordances to page functionality. 
 
   * Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
 
