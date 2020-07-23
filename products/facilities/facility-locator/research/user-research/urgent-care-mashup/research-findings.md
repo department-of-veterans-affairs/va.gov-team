@@ -91,10 +91,10 @@ Later, when asked how he would have expected to find out he suggested:
 > "I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
-####  ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
+####  2. ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
 3 users left the default menu selection of "VA health" unopened and unchanged, choosing "Urgent care" under the service type menu. This resulted in participants not seeing any of the community provider options. These same users lacked awareness of the Community urgent care benefit so they would not have known to look for them otherwise. After the second task, which made users change the default menu to "Urgent care"/"All urgent care" and read about the Community urgent care benefit, these participants felt that the new understanding of the additional options could impact their ultimate choice. Most said that they would still call to verify.
 
-#### Participants generally understood "Urgent care benefit information" is something they should click.
+#### 3. Participants generally understood "Urgent care benefit information" is something they should click.
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
@@ -106,36 +106,36 @@ This particular user was on the Community urgent care information page for **two
 
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
-#### Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”
+#### 4. Facilities with statuses stating "Limited services and hours” were interpreted as being less available or having fewer services than those with “Call for services and hours”
 All facilities carried a yellow warning style status. The VA location's status read "Limited services and hours". All community care locations carried a "Call for services and hours" status. When users compared the two, "Call for services and hours", was interpreted as less limiting and more of an invitation to call. **NOTE:** The interpretation of status messaging is being heavily influenced by COVID 19, as was shown in a previous, related study. This is an area that will need to be retested as operating circumstances change.
 
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
-#### Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
+#### 5. Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
 Throughout the studies 5 participants used the term in network to describe facility options that would be covered by VA healthcare insurance. Three participants used the word "outside" and two used the word "civilian" to describe community facilities or providers.
 
 > "Means that you can go to a civilian provider that the VA would pay for"
 
-#### Veterans don't believe it's up to them to decide where to go for urgent care.
+#### 6. Veterans don't believe it's up to them to decide where to go for urgent care.
 Veterans understand that they occasionally get "sent" to Community providers in certain circumstances but it is not something that they think they can choose on their own.
 
 > "I didn't realize, I thought you had to get sent to these, most of the outside providers. I hadn't heard of these urgent providers in-network, like you just walk in. That's something new to me. Usually I call the VA. Normally, they'd send me somewhere if they couldn't see me in a reasonable amount of time. They would send an authorization. They have an office and they would call me and tell me which doctor to go to and it would all be taken care of... I wouldn't just choose something on my own because I'm not familiar with that at all within the VA healthcare system."
 
 
-#### Close proximity is a crucial factor when choosing urgent care.
+#### 7. Close proximity is a crucial factor when choosing urgent care.
 Long travel and wait times compound existing factors that Veterans face such economic hardships and managing symptoms of cognitive disabilities under stressful situations.
 
 > "I'm probably going to start using option A [community urgent care] regardless, because I don't drive. I use public transportation. It saves money. And I catch the bus probably 10 miles across town to get to my VA when there's a doctor's office, a 1/4 of a mile away. That's better for me."
 
 
 
-#### Lack of visual affordances impact how users perceive page data and functionality.
+#### 8. Lack of visual affordances impact how users perceive page data and functionality.
 Half of users only noticed the first two listings and most didn't scroll to see more. Those that did try scrolling, would try to scroll the page level scrollbars to see more which don't affect the list of results. These users were on modern browsers where system scrollbars were comprised of very thin graphics that only appeared on hover.  Those with browsers that displayed thicker looking scrollbars, that stayed on screen, scrolled the list on their own without being prompted. 
 > "Oh, ok, I see you gotta drag the little line between the map and the other thing"..."If this is a prototype, there should be some arrows or something" "I tried to move [scroll] the entire screen..."
 
 Another user didn't see the search functionality until being prompted to scroll down the page because it was below the paragraphs of text and looked like the end of the page.
 
-#### Service type is one of many factors that drives the urgent care selection process. 
+#### 9. Service type is one of many factors that drives the urgent care selection process. 
 Currently, facilities carry labels that designate if a facility is a "RETAIL/WALK-IN CARE", "VA URGENT CARE", etc. In this prototype, labels were removed to see if participants looked for this type of information. Participants did not seek out these labels or designations and seemed able to sufficiently discern the type of facility from a facility's name and from their filtering options. Facility/service type is important in determining the best option but can vary widely from day to day many Veterans and Caretakers. Additional information that could be helpful to know when choosing a Community provider over a VA facility is if it has a basic understanding for Veteran's specific needs, which for one Caretaker meant, 
 
 > "providers that have training and understanding of Veteran's mental health needs, i.e. how a patient with PTSD's needs under a stressful sprained ankle situation".  
@@ -148,7 +148,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 > "if he's having a bad day because fireworks go off the night before, he's agitated and his anxiety is high, taking him to the VA knowing he'll sit there for 6 hours, like issues we've had in the past, it's better to skip that anxiety and escalation, and pay out of pocket"
 
-#### Two Veterans specifically asked for wait times to be surfaced in search results.
+#### 10. Two Veterans specifically asked for wait times to be surfaced in search results.
 
 > "What would be nice is if you had current wait times, is it 15 min, 30 min, an hour... Our hospital here posts their wait times on their FaceBook page. If I have two places and one has a 15 min wait and one has an hour wait, I'm going to the one with the 15 min wait. I don't want to wait an hour to see a doctor."
 
@@ -176,19 +176,19 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 4.  Use language that mirrors how Veterans understand and communicate benefit and facility terminology and highlight "what's in it for them".
 
- - On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
+  * On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
 
- - On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
+  * On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of..you can now.." to make clear that this is different from previous programs.
 
 5. Add more visual affordances to page functionality. 
 
- - Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
+  * Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
 
- - Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
+  * Add the number of listings to the results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
 
- - Use consistent typographic styling for results between VA and non-VA location listings so that important differences appear more salient. 
+  * Use consistent typographic styling for results between VA and non-VA location listings so that important differences appear more salient. 
 
- - An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
+  * An area to watch or study further: Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
 
 ## Next Steps
 
