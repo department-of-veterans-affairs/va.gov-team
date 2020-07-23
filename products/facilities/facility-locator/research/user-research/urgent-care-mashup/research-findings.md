@@ -84,7 +84,7 @@ A couple Veterans had very positive first impressions upon learning about the be
 
 Later, when asked how he would have expected to find out he suggested: 
 
-"I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
+> "I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
 ####  ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
