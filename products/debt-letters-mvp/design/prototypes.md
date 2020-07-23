@@ -4,7 +4,7 @@ In order to quickly release functionality, the BaM2 team is releasing the Debt L
 
 ## Initial MVP Release (Debt Letter Table)
 Prototypes:<br>
-- [MVP prototype](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130705210/simulate/no-panels?mode=i)
+- [MVP prototype](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130777997/simulate/no-panels?mode=i)
 - [Empty state](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130748284/simulate/no-panels?mode=i)
 - 404 alerts
    - [If VBMS' API returns a 404](https://preview.uxpin.com/8019d7c491dc05231e456a666928bd6a5ca40e6e#/pages/130821989/simulate/no-panels?mode=i)
@@ -13,6 +13,7 @@ Prototypes:<br>
 
 This design includes:
 - Unauthenticated landing page
+- A section containing the following information about each debt on a Veteran's record: type, date they received the debt, amount they still owe, and information about why they _may_ have the debt
 - An uncategorized debt letter downloads table page, where a Veteran can see the subset of letters they can download in chronological order
 - An empty state if a Veteran does not have any debt letters on record
 - 404 alerts for if the separate API's return 404s or if both API's return 404s
