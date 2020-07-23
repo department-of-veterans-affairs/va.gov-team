@@ -69,7 +69,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 ### Details of Findings
 
-#### 1. - 7 out of 8 Participants did not know about the Community urgent care benefit.
+#### 1.  7 out of 8 Participants did not know about the Community urgent care benefit.
 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility Locator tool, and specifically that it could surface additional urgent care options and benefits. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
 >  "Community Care is pretty new, right? I didn't even know because he [Veteran father] got contracted out for PT... When I asked, nobody gave me a list of where to go when I spoke to VA. Nobody gave information about the website or about Community Care that I could look it up myself." 
