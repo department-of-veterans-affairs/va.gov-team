@@ -85,8 +85,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - That some of the content that VA business lines call or think of as "benefit" is actually this tier 2 benefit-adjacent "resources"/"learning" content
 - EX: Free or subsidized rides for Veterans to their VA medical center. VHA's Veteran Transportation Program business may think of this as a benefit, it's in fact an add-on service or resource that varies from city to city, medical center to medical center, and from year-to-year depending on funding and participation of local nonprofits that each medical center might have relationships with. 
 - That there are different audiences for tier 2 benefit-adjacent content. Ex: for Veterans and other beneficiaries; and for people who work with Veterans and other beneficiaries (like VSOs or school administrators)
+--- 
 
+## Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+- [Link to Release Plan](#go-to-market-strategy)
 
+## Launch Dates
+- *Target Launch Date*
+  - tbd
+- *Actual Launch Date* 
+  - tbd
+- *What date will you evaluate impact after launch?*
+  - 
 ---
 
 ## Examples of LC legacy content
