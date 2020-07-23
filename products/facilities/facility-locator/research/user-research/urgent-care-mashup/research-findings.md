@@ -70,13 +70,15 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Details of Findings
 
 #### 7 out of 8 Participants did not know about the Community urgent care benefit.
-3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility locator tool which in turn exposed them to the Community urgent care information page. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
+3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. Many were also surprised to learn of the Facility Locator tool, and specifically that it could surface additional urgent care options and benefits. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
 
->  P3(AI-get exact quote) "User was frustrated that info on CC was never shared. She heard 'you can look it up' but wasn't instructed how. Wishes VHA had emailed her to tell her about CC with a link to this. When she went to the VA she says nobody gave her a list of providers or explained how to find out."
+>  "Community Care is pretty new, right? I didn't even know because he [Veteran father] got contracted out for PT... When I asked, nobody gave me a list of where to go when I spoke to VA. Nobody gave information about the website or about Community Care that I could look it up myself." Went on to explain that if she had known about the Facility Locator she would have chosen Community providers as her facility type and typed in physical therapy as her service type. "Nobody told me to go on the site and do it. So, it's not being shared with us. So, I didn't know I had the tool to do it myself. I could have Googled Community care but if I don't even know the website has availability [community providers], I wouldn't even know to look. And when I did speak to Community care VA, they didn't even share this [Facility Locator] with us."
 
->  P8 (AQ) "just glad to know this website is here". Would use this (instead of Google) because of the knowledge about VA. Will share with friends in her care group where she learned about previous Community Care benefits"
+When another Caretaker was asked if the information about Community urgent care benefits was helpful, she responded: 
 
-> "Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
+>  "It is. Cause I didn't even know it was there. I have learned alot from the groups I'm in about the benefits and where I can go to get help. [but] I would hope someone at the VA would have said something to me, like his primary doctor or something. Giving me the information that I didn't have to drive almost an hour to get him medical treatment"
+
+> "I mean this is all new to me... Notifications would be good. Individuals like myself that have emails. Alot of websites have notifications about whatever marketing scheme they're running so why wouldn't it be good for the VA to notify Veterans about this website and how it can assist me and others?"
 
 
 ####  ½ of all participants filtered urgent care options by “VA health” or "VA urgent care". .
