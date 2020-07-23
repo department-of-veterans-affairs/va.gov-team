@@ -23,11 +23,14 @@ Content request: https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/
 
 
 **User Flow:**
-- The standard flow for authenticated tools, is to bypass the static content page when users are already authenticated. However, because this static content page will eventually house multiple tools and/or additional content pages, the main static content page must always be accessible to users through the breadcrumb or other direct link. 
-- If an unauthenticated user attempts to link directly to the authenticated tool, they will be redirected to the static page where they must first sign in. 
-- Authenticated users will be able to deep link directly to the tool or navigate to it through the static page.  
+- The standard flow for authenticated tools, is to bypass the static content page when users are already authenticated. **However**, because this static content page will eventually house multiple tools and/or additional content pages, the main static content page must always be accessible to users through the breadcrumb or other direct link. 
+- Unauthenticated users can link directly to the static content page
+- If an unauthenticated user attempts to link directly to the authenticated tool, they will be redirected to the static page where they must first sign in and will then be sent to the tool
+- Authenticated users will be able to link to the static page, deep link directly to the summary level of the tool, or navigate to the tool through the static page.  
+- If an authenticated user attempts to deep link to the detail level of the tool, they will be redirected back to the summary level instead.  This is due to the fact that the individual debts do not have unique ids, so a user attempting to direct link to specific debt may end up with a 404 or the incorrect debt. 
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/0f233eea-1736-4a28-bfee-ab699712eb02)
+![image](https://user-images.githubusercontent.com/20994159/88335015-42080900-ccf8-11ea-8aa7-42892ca86632.png)
+
 
 
 **URLs and Breadcrumbs**
@@ -37,8 +40,8 @@ _Please confirm actual breadcrumb labeling and casing with your writer._
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static page: Manage your VA Debt | wwww.va.gov/manage-va-debt/ | Home > Manage your VA debt | This is a new static content page. 
-Tool: Debt letters  | wwww.va.gov/manage-va-debt/debt-letters/ | Home > Manage your VA debt > Your debt letters| This is the authenticated tool for viewing/downloading debt letters
-
+Tool-summary level: Debt list  | wwww.va.gov/manage-va-debt/debt-list/ | Home > Manage your VA debt > VA debt list | This is the authenticated tool for viewing/downloading debt letters
+Tool-detail level: Debt detail  | wwww.va.gov/manage-va-debt/debt-letters/ | Home > Manage your VA debt > VA debt list | This is the authenticated tool for viewing/downloading debt letters
 
 
 <hr>
