@@ -249,7 +249,7 @@ Currently, accessibility errors need to be manually communicated from the Fronte
 
 #### New scheduled job in Jenkins
 
-Lastly, we will write a scheduled Jenkins workflow to run the content validation script every workday at midnight Eastern. That way, the CMS team should have an accurate report of invalid content when they start their workday.
+Lastly, we will write a scheduled Jenkins workflow to run the content validation script hourly during workdays. That way, the content team learns about invalid content at a convenience cadence.
 
 ### Code Location
 
