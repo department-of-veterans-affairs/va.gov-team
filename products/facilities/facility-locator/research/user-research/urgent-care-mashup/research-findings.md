@@ -25,11 +25,11 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 ### Who we talked to
 
 8 Participants:
-- 6 Veterans, 2 Caretakers, 1 Veteran/Caretaker 
-- Ages ranges; 1-(45-64), 5-(55-64), 1-(65-74), 1(undisclosed)
-- 4 Rural, 3 Urban, 1 undisclosed
-- 3 participants with cognitive disabilities
-- Educational backgrounds ranged from high school diploma to master's degree
+* 6 Veterans, 2 Caretakers, 1 Veteran/Caretaker 
+* Ages ranges; 1-(45-64), 5-(55-64), 1-(65-74), 1(undisclosed)
+* 4 Rural, 3 Urban, 1 undisclosed
+* 3 participants with cognitive disabilities
+* Educational backgrounds ranged from high school diploma to master's degree
 
 ### Research Questions
 
@@ -48,8 +48,9 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 
 * Veterans will understand how to find an urgent care location.
   * Finding:
-- Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
-- Veterans will understand how to prepare for a visit to an urgent care facility.
+* Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
+* Veterans will understand how to prepare for a visit to an urgent care facility.
+
 ### Key Findings
 
 1. 7 out of 8 Participants did not know about the Community urgent care benefit.
@@ -63,7 +64,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 9. Veterans did not seek out labels like “Retail” or “VA health” to identify the facility type. 
 10. Two Veterans specifically asked for wait times to be surfaced in search results.
 
-## Details of Findings
+### Details of Findings
 
 **1. 7 out of 8 Participants did not know about the Community urgent care benefit.**<br> 
 3 participants expressed strong emotions in just learning that this benefit was available to them, all adding that they wished that they had received an email about it. One suggested using "marketing schemes" to educate veterans about the benefit. By the end of each session, all would consider going to Community urgent care if it made sense in their situation.
