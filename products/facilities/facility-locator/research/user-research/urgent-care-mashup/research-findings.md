@@ -15,7 +15,6 @@ The goal of this study was to:
 
 Prior to the study, we hypothesized that:
 - Veterans will understand how to find an urgent care location.
- - Finding: Partially tue.
 - Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
 - Veterans will understand how to prepare for a visit to an urgent care facility.
 
@@ -43,6 +42,7 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 - What information does a veteran find helpful in preparing to go to a urgent care facility?
 
 
+
 ## Key Findings
 
 1. 7 out of 8 Participants did not know about the Community urgent care benefit.
@@ -56,7 +56,12 @@ Remote, moderated sessions were conducted via Zoom and included a combination of
 9. Veterans did not seek out labels like “Retail” or “VA health” to identify the facility type. 
 10. Two Veterans specifically asked for wait times to be surfaced in search results.
 
+## Findings by Hypothesis
 
+- Veterans will understand how to find an urgent care location.
+ - - Findings:
+- Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
+- Veterans will understand how to prepare for a visit to an urgent care facility.
 
 ## Details of Findings
 
