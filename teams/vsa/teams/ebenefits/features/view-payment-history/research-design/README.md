@@ -59,7 +59,7 @@
 
 ### Prototype Changelog
 
-**July 9, 2020**
+**July 23, 2020**
 - Returned payments table has "final" colums/headers
 - Long months abbreviated per guidance [here](https://design.va.gov/content-style-guide/dates-and-numbers)
 - Border-bottom added to desktop table
