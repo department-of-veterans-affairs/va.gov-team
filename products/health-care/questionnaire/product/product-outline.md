@@ -133,20 +133,24 @@ When going to a healthcare visit, I want to share my current health status and m
 - Seamless Journey - meet users where they are
 
 **Personal Experience**
+
 1. 
 2.
 3.
 4.
 **Collaboration**
+
 1. 
 2.
 3.
 4.
 **Seamless Journey**
+
 1. 
 2.
 3.
 4. 
+
 ### Hypotheses/ Value Propositions
 
 [**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) 
