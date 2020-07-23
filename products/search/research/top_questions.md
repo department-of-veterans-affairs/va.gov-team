@@ -24,7 +24,7 @@ Source Document for Data: https://docs.google.com/document/d/1CFY2iCZT_92venp8NC
 ### Top Questions/Answers
 
 ***1. How important is on-site search as a discoverability tool for VA.gov users?***
-- 10.5% of site visitors used site search (Date Range: June 2109-2020 Source: Google Analytics)
+- 10.5% of site visitors used site search (Date Range: June 2019-2020 Source: Google Analytics)
 - Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
 
 ***2. What are users searching for on VA.gov?***
