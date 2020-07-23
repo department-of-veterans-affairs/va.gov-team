@@ -98,11 +98,15 @@ Later, when asked how he would have expected to find out he suggested:
 
 > "When I see something like that, I would like to click on it to see if it's something I need to know before even thinking about going there". 
 
-However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. Even after clicking through the link, some users may remain skeptical. When asked "What do you think this page is trying to communicate?", one Caretaker responded:
+However, some Veterans apply previous understanding of benefits to new programs and sometimes make assumptions. Most confused the Community urgent care benefit with other programs. When asked what she might find after clicking the link, one Caretaker responded:
+
+>To me 'urgent care benefit information' is just another thing I gotta click into and read, to click out of, to me it'd be a waste of time. [adds that calling is easier] Yeah, it's quicker to get an answer than to read and read and read with someone screaming that their foot hurts. To me it'd be a time waster.
+
+Even after clicking through the link, this user remained skeptical. When asked "What do you think this page is trying to communicate?", she responded:
 
 > "before you go, you have to call this number and we have to authorize that you're even allowed to go in for your sprained ankle." 
 
-This particular user was on the Community urgent care information page for **two full minutes not wanting to read the information** while explaining, 
+This particular user was on the Community urgent care information page for **two full minutes not wanting to read the information** while adding, 
 
 >"To me, it's another one of those VA blah, blah, blah screens that's all words that's not going to get me any answers and it's going to steer me rrrright back to the home page. To me, there's a lot of these pages that are just fluff and get me no place." 
 
