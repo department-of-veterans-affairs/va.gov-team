@@ -34,6 +34,10 @@ Another example: https://github.com/department-of-veterans-affairs/vets-api/blob
 ### Option 2
 Per the Messaging Team in #notifications-engine, we have spoken to Clarice, and have a meeting set to chat with Paras Shah to learn more about what email and texting options they might have.
 
+UPDATE: Hada very nice meeting with Paras and members of his team.  They introduced us to VANotify and talked about next stesps or requirements to start using their service, which also does SMS messaging (text) to mobile devices with a networked phone number.  This may prove especially useful once we get "View your VA payment history" a little further along; payment notifications as they happen, or are exposed to Veterans, would be a great benefit as they would then be able to make more informed financial decisions.
+
+This messaging team is still being onboarded to some extent so we may go with Option 1 for now for Dependency Claims.
+
 ---------
 
 **Potential email drafts:**. 
