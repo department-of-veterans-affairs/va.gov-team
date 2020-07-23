@@ -12,6 +12,8 @@
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
   - (We need to make sure to include users who have Direct Deposit)
 
+[UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
+
 **Erik to teach Matt/Tressa/Sandra how to use the feature flag/flipper**
 - Need to be added to list of people with flipper access
 - Erik to enter instructions
@@ -101,3 +103,14 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. What qualitative feedback have you gathered from users or other stakeholders, if any?
 1. Which of the assumptions you listed in your product outline were/were not validated? 
 1. How might your product evolve now or in the future based on these results?
+
+
+# Go-to-market Strategy
+- *How are Veterans and others using this product going to know it exists?*
+  The profile on VA.gov is an already existing feature. 
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+  - We would like to have a a "tool tip" or icon next to the profile that will let the user know that the "Account"     and "Profile" and merged into "Profile"
+  - This would be active during the phased launch to reduce confusion regarding where they can find/change their    
+    account security information.
+  - We are working directly with Leslie Byford to determine what is feasible in terms of changes to the VA.gov  
+     homepage. 
