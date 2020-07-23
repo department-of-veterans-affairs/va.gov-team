@@ -85,7 +85,7 @@ Varies, depending on scope of project, documentation team priorities, and resour
 
 **Process**
 
-Create a ticket. We will respond within 2 days and give you an estimated timeline for when we can complete your request or let you know if we need more details. 
+Create a ticket. We will respond within 3 days and give you an estimated timeline for when we can complete your request or let you know if we need more details. 
 
 
 ### Small request
@@ -96,7 +96,7 @@ Create a ticket. We will respond within 2 days and give you an estimated timelin
 
 **Turnaround time**
 
-2-5 business days, depending on complexity. 
+3-5 business days, depending on complexity. 
 
 **Example small documentation support requests requests**
 
@@ -107,7 +107,7 @@ Create a ticket. We will respond within 2 days and give you an estimated timelin
 
 **Process**
 
-Create a ticket. We will respond within a day and give you an estimated timeline for when we can complete your request. If you’re in a rush, let us know in #vsp-content-ia.
+Create a ticket. We will respond within 3 business days and give you an estimated timeline for when we can complete your request. If you’re in a rush, let us know in #vsp-content-ia.
 
 <a name="diy-guidelines"></a>
 ## DIY Documentation Guidelines
@@ -134,11 +134,11 @@ The product manager of the requesting team should contact the Content and IA tea
 These checkins are intended as a flexible framework to give some support and feedback throughout the project. The specifics of when and how we check in can be adjusted, depending on project details. 
 
 *   **30% check-in:**
-    *   Turnaround time: 2-4 days
+    *   Turnaround time: 3-5 days
     *   When you think you are about 30% done with the project, share your progress with the documentation team in #vsp-content-ia. 
     *   We’ll provide high-level feedback on your plan and the overall structure of your doc(s).
 *   **90% check-in:**
-    *   Turnaround time: 2-4 days
+    *   Turnaround time: 3-5 days
     *   When you think you’re 90% done writing, share your docs with the documentation team in #vsp-content-ia.
     *   We’ll provide detailed editorial feedback.
 *   **Optional additional check-ins:** \
