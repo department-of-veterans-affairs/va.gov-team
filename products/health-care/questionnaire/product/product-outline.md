@@ -11,6 +11,25 @@ Veterans are unable to consistently share and update current health status and m
 - How might we better integrate Veteran-provided data into VA workflows?
 - How might we provide Veterans with a digital option when only a paper option exist today to complete pre-appointment questionnaires and screeners?
 
+## Research Key Findings - Pain Points 
+
+#### Veterans 
+1.  Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.
+2.  Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
+3.  Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
+4.  The biggest pain point for Veterans is the handoff of information.
+5.  Veterans want a way to review previous answers and update when needed
+6.  Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.
+7.  Participants want a way to connect digital forms with their information in MyhealtheVet.
+8.  Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
+
+#### Care Team 
+1. Time to complete Clinical Reminders during visit
+2. Up to date medications the veteran is currently taking/needs refilled
+3. Unable to prepare for Veteran visit due to non-specific visit reason/chief complaint
+4. Unknown Acute and Chronic problems affecting the Veteran
+5. Unknown major life events or stressors affecting the Veteran 
+
  
 ## Unmet Needs/Desired Outcomes (user stories)
 
@@ -97,38 +116,44 @@ Veterans are unable to consistently share and update current health status and m
 
 ## Measure Success 
 
-### North Star
+Mission/Vision 		|	North Star  		| 
+---------------- | --------------------- |
+Our Mission is to deliver personalized experiences that support collaboration and create a seamless health and well-being journey | 1.  Optimize Care- # Veterans leveraging pre-visit intake information in their care visits
+|Our Vision is to meet users where they are and empower them with tools that exceed expectations		|2.  Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
-1. Optomize Care- # Veterans leveraging pre-visit intake information in their care visits
-2. Save Time- % increase time focused on health outcomes by % decreasing time on data entry
 
 Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
 
-### Value Propositions
+### Objective /Jobs To Be Done 
+When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatment plan across the continuum of care.
+
+> **Key Results Focus:**  Save Time and Optimize Care
+- Personal Experience - exceed expectations
+- Collaboration - empower partnership
+- Seamless Journey - meet users where they are
+
+**Personal Experience**
+1. 
+2.
+3.
+4.
+**Collaboration**
+1. 
+2.
+3.
+4.
+**Seamless Journey**
+1. 
+2.
+3.
+4. 
+### Hypotheses/ Value Propositions
 
 [**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) 
 
 [**Business**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#business)
 
 
-### OKRs 
-**Objective/Job To Be Done**
-When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatment plan across the continuum of care.
-> **Key Theme:**  Save Time and Optimize Care
-- Personal Experience - exceed expectations
-- Collaboration - empower partnership
-- Seamless Journey - meet users where they are
-
-### KPIs 
- 
- - _What are the most important metrics that track with this product/initiative's success?_
- - _Include links to Domo or Google Analytics Dashboards/Reports_
- - _What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?_
-- _Include Baseline KPIs_
-
-- _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
----
 
 ## Assumptions and Risks
 
