@@ -80,7 +80,8 @@
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past.
+- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts.<br>
+**Note:** The tool we are testing does not include VA medical copayment debts.
 - In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
 - We would like to speak with a mix of participants, including:
    - A mix of pre- and post-9/11 Veterans
