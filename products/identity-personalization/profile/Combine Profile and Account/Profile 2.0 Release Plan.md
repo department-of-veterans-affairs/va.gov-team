@@ -4,12 +4,13 @@
 ## Phase I: UAT
 
 ### Planning:
-- **Desired date range or test duration** Estimated: 8/26 - 9/8 
+- **Desired date range or test duration** Estimated: 8/12 - 8/25
 - **Desired number of users:** 10 users
-- **How you'll recruit the right production test users:** We will recruit users via Perigean. (We need to make sure that we have the email the user uses to log into Va.gov ahead of time)
+- **How you'll recruit the right production test users:** We will recruit users via Perigean. 
+  - (We need to make sure that we have the email the user uses to log into Va.gov ahead of time)
 - **How you'll conduct the testing:** We will conduct UAT over Zoom to ensure the different features work correctly.
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** We will have the new profile launched to production but hidden behind a feature flag. We'll give participants access to this feature by adding their email addresses to a list of users who can see the new profile. 
-- **We need to make sure users have Direct Deposit/are eligible for Direct Deposit**
+  - (We need to make sure to include users who have Direct Deposit)
 
 **Erik to teach Matt/Tressa/Sandra how to use the feature flag/flipper**
 - Need to be added to list of people with flipper access
@@ -21,7 +22,8 @@
 
 #### Frontend UAT notes
 - Erik and Sandra will be responsible for launching the new profile to production behind a feature flag and giving participants access to the feature.
-- They will also attend UAT and be responsible for any frontend bugs/fixes.
+- They will have the option to attend UAT and be responsible for any frontend bugs/fixes.
+  - (Primarily Matt and Tressa in these sessions)
 
 #### Backend UAT notes
 - The new profile did not require any backend work, as it was primarily a frontend redesign. However, should any backend issues come up, Lihan will be available to fix them before we move into a phased launch.
