@@ -1,18 +1,29 @@
-# Release Plan Template
-
-
+# Release Plan Template [Draft]
+When to use this
+What value it brings - measure, HCD
+How to use it - where to save
+When you don't need this
+Example
+Refer to VFS template
 
 ## Phase I: User Acceptance Testing
 *Test real-world user scenarios to ensure your product performs as expected.*
+How do we expect people to run it
+Users - VSP, VFS, ect - an appropriate audience
+How to engage VFS - ask PM
+Who needs to be invovled
+Best practices`
 
 ### Planning:
 
 - Desired date range or test duration: [date - date] or [duration] 	
 - How you'll conduct the testing: lorem ipsum
+- Desired # of users 
 - How you'll give the test users access to the product: lorem ipsum
 
 ### Results:
 
+- Actual # of users
 - ​	Bugs identified: 
 
   ​	1. xx - lorem ipsum
@@ -37,6 +48,9 @@ A staged rollout is recommended unless you can confidently answer "yes" to the f
 
 - This change does not add substantial new functionality to the Platform.
 - This change does not impact VFS teams' workflow.
+
+### Marketing - Launch communications
+
 
 ### Planning:
 
