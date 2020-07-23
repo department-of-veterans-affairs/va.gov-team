@@ -27,6 +27,7 @@ assignees: ''
   - [ ] Request QA test plan - #(ticket)
 - [ ] **[Build] Staging Review** - #(ticket)
   - [ ] Resolve Staging Review findings - #(tickets)
+- **Launch** - Date (and/or ticket)
 - [ ] **[Validate] Post-launch checkin** - #(ticket)
   - [ ] Complete accessibility checklist in Prod - #(ticket if necessary)
 - [ ] **[Validate] Launch Full A11y Review** - #(ticket)
