@@ -16,6 +16,8 @@
       - [Amazon S3](#amazon-s3)
       - [Current state](#current-state)
         - [Broken Link Checking](#broken-link-checking)
+          - [Code Path for the `glean-broken-links` script](#code-path-for-the-glean-broken-links-script)
+          - [Screenshot of broken links in the build log](#screenshot-of-broken-links-in-the-build-log)
         - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
         - [Content Writers](#content-writers)
@@ -104,6 +106,18 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 
 If there are broken links, the `glean-broken-links` script displays the broken links in the build log in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
 
+###### Code Path for the `glean-broken-links` script
+
+![screenshot of code path for glean-broken-links script](https://user-images.githubusercontent.com/6130520/88299641-33a1f900-ccc8-11ea-9029-476f8222ee79.png)
+
+1. `Jenkinsfile` calls the `buildAll` function from `common.groovy`
+2. The `buildAll` function from `common.groovy` calls the `build` function from `common.groovy`
+3. The `build` function from `common.groovy` calls the `checkBrokenLinks` function from `common.groovy`
+4. The `checkBrokenLinks` function from `common.groovy` calls the `glean-broken-links.sh` script
+5. If the `checkBrokenLinks` function from `common.groovy` detects a file of broken links, then it logs and sends a Slack notification in all environments, and throws an error to block the build on the `master` branch
+
+###### Screenshot of broken links in the build log
+
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
 Example Slack notification sent to #cms-team channel: https://dsva.slack.com/archives/CT4GZBM8F/p1594936012465200
@@ -184,13 +198,13 @@ For the Frontend Tools team, this approach will reduce noise in the application 
 
 For anybody trying to ship code for the VA.gov front end, this approach will eliminate a source of failed application builds, which should allow them to ship code faster.
 
-For VA.gov users, this approach will continue allowing users to quickly see updated content. The downside of this approach for VA.gov users is that it won't eliminate existing opportunities for users to see invalid content. Fortunately, the improved error reporting should allow content writers to easily identify, remedy, and deploy valid content, which should minimize the user's chance of encountering invalid content.
+For VA.gov users, this approach will continue allowing users to quickly see updated content. The downside of this approach for VA.gov users is that it won't eliminate existing opportunities for users to see accessibility errors. Fortunately, the improved error reporting should allow content writers to easily identify, remedy, and deploy valid content, which should minimize the user's chance of encountering invalid content.
 
 In summary, this approach will have the following impact for the following groups:
 
 - **Content Writers**: Improve error reporting while maintaining current convenience
 - **Frontend Tools team**: Reduce build noise, failure rate, and number of builds requiring manual intervention
-- **VA.gov users**: Maintain existing time to see updated content and risk of seeing invalid content
+- **VA.gov users**: Maintain existing time to see updated content and risk of seeing accessibility errors
 - **Anybody trying to ship code for the VA.gov front end**: Reduce failed deploys which should allow them to ship faster
 
 ## Specifics
