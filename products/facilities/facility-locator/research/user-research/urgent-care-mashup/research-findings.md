@@ -15,6 +15,7 @@ The goal of this study was to:
 
 Prior to the study, we hypothesized that:
 - Veterans will understand how to find an urgent care location.
+ - Finding: Partially tue.
 - Veterans will want to filter urgent care locations by facility type, va/non-va to inform their decision.
 - Veterans will understand how to prepare for a visit to an urgent care facility.
 
