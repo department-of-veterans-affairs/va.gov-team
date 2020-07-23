@@ -13,6 +13,8 @@
     - [Objective](#objective)
     - [Background](#background)
       - [Content Sources](#content-sources)
+      - [Fresh or Cached Drupal Content](#fresh-or-cached-drupal-content)
+        - [Code Path for the `useCache` Argument](#code-path-for-the-usecache-argument)
       - [Amazon S3](#amazon-s3)
       - [Current state](#current-state)
         - [Broken Link Checking](#broken-link-checking)
@@ -28,6 +30,7 @@
   - [Specifics](#specifics)
     - [Detailed Design](#detailed-design)
       - [New build script to supplement existing build script](#new-build-script-to-supplement-existing-build-script)
+      - [Content to be validated](#content-to-be-validated)
       - [Reuse existing `check-broken-link` plugin in new build script](#reuse-existing-check-broken-link-plugin-in-new-build-script)
       - [Update accessibility tests config](#update-accessibility-tests-config)
       - [Improved invalid content reporting](#improved-invalid-content-reporting)
@@ -88,6 +91,19 @@ Static content currently comes from two sources:
 2. The [`vagov-content` repo](https://github.com/department-of-veterans-affairs/vagov-content/)
 
 This design doc will focus on validating content from the Drupal CMS.
+
+#### Fresh or Cached Drupal Content
+
+##### Code Path for the `useCache` Argument
+
+1. `Jenkinsfile` calls the `buildAll` function from `common.groovy`
+2. The `buildAll` function from `common.groovy` tries to call the `build` function from `common.groovy` while passing `false` as the `useCache` argument
+3. The `useCache` argument in the `build` function of `common.groovy` is used to set the `drupalMode`
+   - If `useCache` is `true`, then `drupalMode` is `''`
+   - If `useCache` is `false`, then `drupalMode` is `'--pull-drupal'`
+4. The `--pull-drupal` flag is used to pull the latest content from Drupal.
+
+![Screen Shot 2020-07-23 at 1 52 55 PM](https://user-images.githubusercontent.com/6130520/88327527-c05eae00-ccec-11ea-8c40-b2f7923a2817.png)
 
 #### Amazon S3
 
@@ -214,6 +230,10 @@ In summary, this approach will have the following impact for the following group
 #### New build script to supplement existing build script
 
 Before axe and broken link checks can be run, the content needs to be built. A new build script will be created to supplement the existing build script. The new build script will be derived from the existing script, and modified to only include the steps necessary for the content validation. Since the existing build script uses Metalsmith, the new build script will also use Metalsmith.
+
+#### Content to be validated
+
+To preserve the current functionality, we will first try to pull the latest content from Drupal. If we are unable to pull the latest content from Drupal, we will use the cached Drupal content.
 
 #### Reuse existing `check-broken-link` plugin in new build script
 
