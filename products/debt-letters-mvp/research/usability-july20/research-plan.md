@@ -87,7 +87,7 @@
    - A mix of pre- and post-9/11 Veterans
    - A mix of familiarity with technology
    - Include a mix of male and female Veterans
-   - At least 7 participants who have had Education debts
+   - At least 7 participants who have had Education debts (CH 33, CH 34, CH 35)
    - At least 8 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
     At least 3 Veterans with a disability rating of 80% or higher
 
