@@ -186,15 +186,9 @@ Form 22-10203
 
 { end warning alert }
 
-Would you still like to apply and let us determine your eligibility? (*Required)  { radio buttons }
+Exit application { green button: "Exit application" button takes users to https://www.va.gov/education/ .  target="self"  }
 
-* No  
-* Yes
-
-
-{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/ }
-
-{ if user select YES, route to "Rogers STEM Scholarship eligibility" page }
+If you still wish to apply for the scholarship, click Continue. 
 
 [ Back | Continue ] { buttons } 
 
@@ -292,14 +286,11 @@ Months you have left to use: **NN months, NN days**
 
 **You must meet the above requirements to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicants.  
 
-Would you still like to apply and let us determine your eligibility? (*Required)  { radio buttons }
 
-* No  
-* Yes
+Exit application { green button: "Exit application" button takes users to https://www.va.gov/education/ ; target="self"  }
 
-{ end gray box }
+If you still wish to apply for the scholarship, click Continue. 
 
-{ if user selects NO, change "Continue>>" button to "Exit application" button so user can exit the form. "Exit application" button takes users to https://www.va.gov/education/ }
 
 [ Back | Continue ] { buttons } 
 
