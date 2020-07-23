@@ -14,6 +14,16 @@
 
 [UAT Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Research/UAT/profile-research-plan-UAT.md)
 
+### Additional notes on UAT
+ LOA 1 users
+- 2 users
+- Can be people from our team who have LOA1 prod accounts. We shouldn't use perigean to recruit for this.
+
+LOA3 users
+- 4 users who have direct deposit (receive comp & pen benefits)
+- 4 who do not have direct deposit (do no receive comp & pen benefits)
+Connected apps — We should see if the connected apps team has a prod account or can create a prod account that shows what it looks like to have at least one app connected. Perigean won't be able to recruit for this.
+
 **Erik to teach Matt/Tressa/Sandra how to use the feature flag/flipper**
 - Need to be added to list of people with flipper access
 - Erik to enter instructions
