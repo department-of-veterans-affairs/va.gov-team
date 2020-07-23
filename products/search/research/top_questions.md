@@ -10,7 +10,7 @@ To better understand the effectiveness of (WBC) VA.gov's on-site and off-site se
 For the analysis, the following tools were used:
 
 - For on-site search:
-  - Search.gov Analysits
+  - Search.gov Analytics
   - Google Analytics
   
 - For off-site search:
@@ -40,20 +40,9 @@ Users are searching for general health and benefit information, forms, and some 
   <summary><b>Top Search Terms (Modernized site data VA.gov only)</b></summary>
 
 Report Name | Desktop/Tablet/Mobile data
-:--- | :---: |
-Top Pages on VA.<span></span>gov Modernized | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&_.useg=builtin1/) | 
-Top 25 Pages - Logged-in Sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=usersYzZ0EUDT4uJLecPmCwn3Q&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
-Top 25 Pages - Logged-out sessions | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.useg=userBgZiUrK9Sieg7jBAnx44OQ&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
-Top 25 Landing Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-landing-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25/) | 
+:--- | :---: | 
 Site Search | [report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/logged-in-homepage/2.0-redesign/discovery-and-research/analytics/analytics-summary.md#people-are-searching-for-general-health-and-benefit-information-forms-and-some-specific-tasks-we-may-want-to-do-a-better-job-of-elevating) | 
-Mobile Usage | | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/visitors-mobile-overview/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL/)
-Top 25 Before Homepage | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowStart=0&explorer-table.rowCount=25&_r.drilldown=analytics.pagePath:~2Findex.html/) |
 Top 25 Interactions on Homepage (Excluding Scrolling) | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/) | 
-My VA Previous Page Path | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.filter=my-va&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22RE%22,%22my-va%22,0%5D%5D/) | 
-My VA Entrances | [report](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=25&explorer-table.advFilter=%5B%5B1,%22analytics.entrances%22,%22GT%22,%220%22,0%5D,%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D%5D/) | 
-Top Events on My VA Pages | [report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22PT%22,%22my-va%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Script%20error.%22,1%5D%5D&explorer-table.rowCount=25/) | table.rowCount=25&_.useg=builtin11/)
-| Homepage vs. My VA user 3-month report | [report](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.date00=20200101&_u.date01=20200402&_.useg=builtin1,userDatUa-iUR--ymOCPRsvErg,userTBuj9_dPSF-sBQQO9Srv-g&overview-graphOptions.primaryConcept=analytics.totalVisitors/)|
-
 </details>
 
 ***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?***
