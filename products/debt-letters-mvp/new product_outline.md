@@ -88,7 +88,7 @@ The following we've decided specifically not to do for this project but could be
 
 ## KPIs
 
-Current Traffic from DLC Google analytics - 30 day. period 
+Current Traffic from DMC Google analytics - 30 day. period 
 
 Overall visitors 58k visitors 
 va.gov/debtman  33K 
@@ -108,7 +108,8 @@ Overall debbt letters views/downloads wiht the hypothesis that tehy do not have 
 There is a multi-office working group organized by VEO with participation from the relevant stakeholders (DEPO, DMC, VBMS, OIT, AMO) that is facilitating comms. That being said, this is still largely being formulated and there are a number of considerations including legacy VA pages that we will have to work with DMC and in some cases individual business lines to make a determination on the appropriate path forward (deprecation, sustain, etc.).
 
 ## Target Launch Date
-August 2020 - MVP
+August 3, 2020 - MVP
+Iteration 1- September, Notifications are dependent on our partner  team 
 
 ---
 
