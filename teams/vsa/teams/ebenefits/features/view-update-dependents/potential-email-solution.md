@@ -40,8 +40,9 @@ This messaging team is still being onboarded to some extent so we may go with Op
 
 ---------
 
-**Potential email drafts:**. 
+**Potential email drafts:**  
 (Success)  
+
 _Subject line: Your application to add or remove dependents was successfully transmitted and received_  
 
 _Hello VeteranFirstName VeteranLastName,_. 
