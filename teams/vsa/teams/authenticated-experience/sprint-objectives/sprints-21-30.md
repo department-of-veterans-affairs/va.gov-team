@@ -222,6 +222,8 @@ Dev
 
 - Participate in reviews
 - QA — Any bug fixes that come out of QA
+- UI should scroll to alert when Address Validation screen appears #11552 
+- Make sure error messaging issues are figured out for fiduciary and DD in general (Erik should be creating tickets for this)
 
 Platform
 - Call center - Call center review
@@ -251,6 +253,8 @@ Dev
 
 ## Sprint 28 (8/12 – 8/25)
 
+- When doing sprint planning, start going through profile 2.0 tickets and figure out what we can do as after-launch improvements. Assign these to Cassandra.
+
 ### Profile 2.0
 
 PM
@@ -258,7 +262,11 @@ PM
 - UAT Go/No-go
 
 Design
+- Any updates that might come out of staging review
 - UAT - Submit request **Make sure there are no issues and we're all clear to go to UAT**
+
+Dev
+- Any updates that might come out of staging review
 
 ### Logged-in homepage
 
