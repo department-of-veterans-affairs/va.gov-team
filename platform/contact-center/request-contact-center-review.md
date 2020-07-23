@@ -1,5 +1,7 @@
 # Contact Center
 
+You can request the Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley+Daniels%2C+Chante+LantosSwett&labels=contact+center%2C+analytics-insights%2C+analytics-request%2C+collaboration+cycle&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTool%5D).
+
 ## Overview
 
 All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
