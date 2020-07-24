@@ -30,8 +30,3 @@ The goals of this study were to:
 - detail
 
 ## Appendix
-
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/conversation-guide.md)
-- [Transcripts]
-- [Topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/topline-summary.md)
