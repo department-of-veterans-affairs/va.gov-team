@@ -30,7 +30,7 @@ Before we start, a few things I want to mention:
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 
-- I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about you benefits or VA account? 
+- I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about your benefits or VA account? 
 - What was that question about? 
 - What was the first step you took to get that answered? 
 - Did you have to take additional steps beyond that to get the answers you needed?
@@ -40,7 +40,6 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - Okay, thanks for sharing that. Just a couple more questions before we start getting into the prototype. 
   - If you saw a section of VA.gov called "Learning Center", what kinds of things would you expect to see there?
   - Imagine you recently moved and you need to make sure VA has your new address.  How would you do that?
-- That's really helpful to know. Let's get into that prototype!
 
 ### Things to watch for
 
@@ -132,7 +131,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Does this page answer your question?
 
-- Tell me how would you get back to the list of articles you were just on.
+- What if you thought one of the other articles you saw in the list would be better information, how would you get to that information?
 
 - Okay, and based on this article, show me what you would do next.
 
@@ -171,7 +170,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 *Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
 
 - Now again, scroll around, and take a look at this page. Please continue to think out loud - you're doing a great job with that.
-- How does this line up with what you expected to see? Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
+- How does this line up with what you expected to see? 
+- Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
 
 
 
@@ -236,7 +236,7 @@ Excellent, this has all been so helpful. Just a few more questions for you befor
 
 - Got it, thanks. That's helpful. From what you've seen today, can you describe how the learning center is different from overall site search?
   - If they didn't address the radio buttons above the search bar, get their perspective on that.
-- We don't know what to call the product you reviewed yet. Now that you have a better idea of the kinds of information that's here, what you think of the name `Learning Center`?
+- We don't know what to call the product you reviewed yet. Now that you have a better idea of the type of information that's here, what you think of the name `Learning Center`?
 - Say you went to VA.gov today and knew we had launched this product. How would you find it on the website?
 - Overall, what, if anything, do you find valuable or not helpful about this learning center concept as a whole?
 - What do you think could be improved about what we've reviewed today?
