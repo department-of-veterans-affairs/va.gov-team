@@ -28,7 +28,7 @@ Team Leads are responsible for setting the direction of Veteran Facing Tools (VF
 - Sign off on the launch of new products or features
 - Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
 
-#### Product Manager  
+#### Product Manager  (VFS, Platform)
 ---
 Product Managers are responsible for organizing the direction and implementation for their individual team’s products, and for managing the team’s progress toward product and launch goals as defined in Product Outlines and Charters. This should be done in close collaboration with Team Leads and delivery teams, and frequent collaboration with Team Leads (DEPO).
 
@@ -55,8 +55,6 @@ Product Managers are responsible for organizing the direction and implementation
 - Lead backlog grooming, estimation meetings, retros, sprint planning, and standups with delivery team.
 - Participate in stakeholder check-in meetings as needed to ensure alignment with VA policy requirements. If empowered, manage stakeholder relationships at the direction of Team Lead (DEPO). 
 - Fulfill launch checklist criteria prior to each launch.
-
----
 
  
 #### Product Lead  
