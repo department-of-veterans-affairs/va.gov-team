@@ -23,6 +23,7 @@ Veterans are unable to consistently share and update current health status and m
 | 6. | Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.      | 
 | 7. | Participants want a way to connect digital forms with their information in MyhealtheVet.      | 
 | 8. | Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.      | 
+|	| [June 2020 - Discovery Veteran Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/README.md#veteran-discovery-research-process)| [July 2020 - Discovery Stakeholder Research Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/stakeholder-interviews/clinician-interviews) | 
 
  
 ## Unmet Needs/Desired Outcomes (user stories)
@@ -97,8 +98,6 @@ Veterans are unable to consistently share and update current health status and m
 
 [Discovery JTB Summary from Veteran Feedback Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/Jobs-to-be-done-statements.md#jobs-statement)
 
-[June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
-
 ### Clinician
 
 ### Initiatives /Bets
@@ -129,10 +128,11 @@ Veterans are unable to consistently share and update current health status and m
 | [Barriers]() 	  | Discover | -- |
 | [Life Events/Stressors]() 	  | Discover | -- |
 | **Product Integration**	  |
-| [VAOS Integration]() 	  | Discover | -- |
+| [VAOS]() 	  | Discover | -- |
 | [Notifications]() 	  | Discover | -- |
 | [Content Management - Form builder]()   | Discover | -- |
 | [MPI or VA Profile]() 	  | Discover | -- |
+| [Authentication and Authorization]()  | Discover | -- |
 
 
 ## Measure Success 
