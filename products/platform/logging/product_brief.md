@@ -14,7 +14,7 @@ Loki, works by using fluentd logging driver in ECS that gathers and sends logs t
 
 ### Product documentation
 
-For more information please see: [va.gov-team/products/platform/logging at master · department-of-veterans-affairs/va.gov-team · GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/logging)
+For more information please see: [Logging folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/logging) and Design doc TBA. 
 
 Note: need to add user docs here as well.
 ------
