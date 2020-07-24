@@ -10,9 +10,9 @@
 
 ## July 24th, 2020
 
-**Status**
+### Status
 
-Product
+**Product**
 - Research and [documented SHEP](https://drive.google.com/open?id=1krisnJlCyGoNGqzlDn6gKZTUq6MtPbsd) and [Clinical Reminders Questions](https://drive.google.com/open?id=12DxPOC0SFb3VG-fcA5nkIsLpPKsPCHLM) to inform strategy. 
 - Updated Product Outline 
 	- Added [Outcomes/User Stories to each Unmet Needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#unmet-needsdesired-outcomes-user-stories)
@@ -24,25 +24,33 @@ Product
 - [Submitted issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11526) and Scheduled Project Kick Off for Collab Cycle for start of Sprint 27.
 - Backlog Planning for Sprint 27 on Wednesday 22nd.
 
-Research and Design
+**Research and Design**
+
 - [Created a Journey Map](https://app.mural.co/t/vsa8243/m/vsa8243/1595002246550/dcc8f89e70628bfb9f123075ff514189005fa17c) based on each Persona 
 - Created a [sketch of an Experience Map](https://dsva.slack.com/archives/C0136TS768M/p1595609704127400?thread_ts=1595602052.126000&cid=C0136TS768M) 
 - Initial draft of [Clinical Stakeholder Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/clinician-interviews/key-findings.md) 
-Engineering
+
+**Engineering**
+
 - Completed the [Technical Feasibility Document](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11027) and Scheduled a review with the team for next week. 
 - Started Research on Vista and CMS (Drupal) integration
 -  Researching authentication gaps with Lighthouse and va.gov 
 
 **Next Step/Followup**
-	- Product to draft MVP Initiatives for remaining Q3 sprints
-		- continue to add detail to OKR's
-	- Hold Discovery Sprint Readout with Leads and Stakeholders 
-	- Engineering to continue research API/interface feeds into EHR's, MPI, CMS
-		- Present authentication prototype at Sprint 26 demo. 
-	- Design to prototype in new tool and build mock conditional logic app for demonstration purposes.
+	
+- Product to draft MVP Initiatives for remaining Q3 sprints
+	- continue to add detail to OKR's
+- Hold Discovery Sprint Readout with Leads and Stakeholders 
+- Engineering to continue research API/interface feeds into EHR's, MPI, CMS
+	- Present authentication prototype at Sprint 26 demo. 
+- Design to prototype in new tool and build mock conditional logic app for demonstration purposes.
 
 **Decisions:**
--   Move forward with MVP user-stories based on initial set of clinical stakeholder sessions 
+-   Move forward with MVP user-stories based on initial set of clinical stakeholder sessions to get an early prototype of a pre-visit questionnaire live but potentially not active use by Veterans and care team. 
+	- The initiatives and featues selected in this prototype are capabilities that are known will be needed once we land our end goal product strategy.
+	- The risk here is that we will build a early prototype that may need changes once we have additional stakeholder input, curret state intake documents, and standardized intake documentation created for EHR transition. 
+	- The up-side is we will learn allot and have working code for demonstartion of a vision to get buy in for a broad strategy. 
+	- We are targeting this initial MVP prototype to be available early Q4 2020. 
 
 **Blockers:**
 -  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
