@@ -13,27 +13,21 @@ Veterans are unable to consistently share and update current health status and m
 
 ## Research Key Findings - Pain Points 
 
-#### Veterans 
-1.  Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.
-2.  Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.
-3.  Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.
-4.  The biggest pain point for Veterans is the handoff of information.
-5.  Veterans want a way to review previous answers and update when needed
-6.  Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.
-7.  Participants want a way to connect digital forms with their information in MyhealtheVet.
-8.  Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.
-
-#### Care Team 
-1. Time to complete Clinical Reminders during visit
-2. Up to date medications the veteran is currently taking/needs refilled
-3. Unable to prepare for Veteran visit due to non-specific visit reason/chief complaint
-4. Unknown Acute and Chronic problems affecting the Veteran
-5. Unknown major life events or stressors affecting the Veteran 
+|  | Veteran 		            | Care Team 
+|--| --------------------------------- | ---------------------------------
+| 1. | Currently, Veterans are not asked to fill out many forms aside from initial intake and specialty care.      | Time to complete Clinical Reminders during visit
+| 2. | Veterans who receive care from civilian and Non-VA providers are used to digitally filling out pre-visit forms.      | Up to date medications the veteran is currently taking/needs refilled
+| 3. | Filling out forms is not a pain point if Veterans believe the information will benefit the care they receive.      | Unable to prepare for Veteran visit due to non-specific visit reason/chief complaint
+| 4. | The biggest pain point for Veterans is the handoff of information.      | Unknown Acute and Chronic problems affecting the Veteran
+| 5. | Veterans want a way to review previous answers and update when needed      | Unknown major life events or stressors affecting the Veteran 
+| 6. | Veterans believe that filling out digital forms would decrease wait times and optimize time with care providers.      | 
+| 7. | Participants want a way to connect digital forms with their information in MyhealtheVet.      | 
+| 8. | Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit.      | 
 
  
 ## Unmet Needs/Desired Outcomes (user stories)
 
-**Veteran**
+### Veteran
 <details> <summary>  1. Provide updates when convenient and relevant with the device and location of choice</summary>
 
 - _When_ 
@@ -105,7 +99,7 @@ Veterans are unable to consistently share and update current health status and m
 
 [June 2020 - Discovery Research Methology and Reference Links](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/user-research#june-22nd--26th-2020----clipboard-questionnaire-discovery-pilot-sessions)
 
-**Clinician**
+### Clinician
 
 ### Initiatives /Bets
 
