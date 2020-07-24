@@ -1,4 +1,4 @@
-# Conversation Guide for Learning Center MVP Research study
+# Conversation Guide for Learning Center MVP Research Study
 
 ## Moderator logistics
 
@@ -159,13 +159,11 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 *Participant should still be on `Change your address on file w/ the VA`, `Sign in FAQs`or `How to change your address online` article*
 
-- We're going to shift gears now. Imagine you need to find out if a Veteran who has been exposed to Agent Orange can get disability compensation. How would you do that from here?
+- We're going to shift gears now. Imagine you need to find out how to get compensation for a Veteran who has been exposed to Agent Orange. How would you do that from here?
 
   *May need to remind user that things might not work as expected since this is a prototype*
 
 - Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to send you a link you directly to a page. 
-
-  
 
 *Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
 
@@ -173,16 +171,14 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - How does this line up with what you expected to see? 
 - Okay, that's good to know. Go ahead and see if you can find the information you're looking for anywhere.
 
-
-
 *This should take participant to LC Agent Orange article*
 
 - Now, how does this line up with what you expected?
-
 - Based on this information, what would you do next?
+- *If participant doesn't want to click Learn How to File a claim button:*
+  - Okay, now imagine you wanted to take it a step further and see how you would go about getting that compensation. What would you do?
 
-
-*If participant wants to to click CTA to go to Learn How to File Claim*
+*After participant clicks Learn How to File Claim*
 
 - And, once again, how does this page line up with what you expected to find? 
 
