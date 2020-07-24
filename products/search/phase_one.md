@@ -10,7 +10,8 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 **Off-Site**
 
 - [ ] Development and deploy of a [COVID-19/FAQ special announcement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9163) rich search results for VA.gov
-- [ ] Correction and possible enhancement of VA COVID-19 Testing Site listings via Google Search/Castlight.  [Ticket here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [ ] Correction and possible enhancement of VA COVID-19 Testing Site listings via Google Search/Castlight.  [Ticket here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11568) 
+- [ ] Possible: Determine if VA would benefit from more centrally managed search/map/voice listings via Google My Business or commercial provider such as Yext.
 
 **On-Site**
 
