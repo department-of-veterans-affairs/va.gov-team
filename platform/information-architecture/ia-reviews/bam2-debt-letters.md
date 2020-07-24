@@ -1,6 +1,6 @@
 # IA Review and Recommendations
 
-**STATUS: IN PROGRESS**  
+**STATUS: DRAFT COMPLETE**  Can be viewed here: https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
 
 **Team:** Benefits & Memorials 2
 
@@ -40,8 +40,9 @@ _Please confirm actual breadcrumb labeling and casing with your writer._
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
 Static page: Manage your VA Debt | wwww.va.gov/manage-va-debt/ | Home > Manage your VA debt | This is a new static content page. 
-Tool-summary level: Debt list  | wwww.va.gov/manage-va-debt/debt-list/ | Home > Manage your VA debt > VA debt list | This is the authenticated tool for viewing/downloading debt letters
-Tool-detail level: Debt detail  | wwww.va.gov/manage-va-debt/debt-letters/ | Home > Manage your VA debt > VA debt list | This is the authenticated tool for viewing/downloading debt letters
+Tool: Debt list  | wwww.va.gov/manage-va-debt/your-debt/ | Home > Manage your VA debt > VA debt list | This is the top level of the authenticated tool for viewing/downloading debt. 
+Tool: Debt detail  | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home > Manage your VA debt > Your VA debt | This is the detail level of the authenticated tool that shows the detail for a specific debt
+Tool: Debt letters  | wwww.va.gov/manage-va-debt/your-debt/debt-detail/ | Home > Manage your VA debt >  | This is the detail level of the authenticated tool that shows the detail for a specific debt
 
 
 <hr>
