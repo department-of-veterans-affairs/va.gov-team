@@ -2,8 +2,10 @@
 
 ### Roles 
 - Team Lead (DEPO)
+- Team Product Manager 
+
 - Program Product Lead (VSA, VSP)
-- Team Product Manager  
+ 
 
 ### Responsibilities
 
@@ -25,21 +27,6 @@ Team Leads are responsible for setting the direction of Veteran Facing Tools (VF
 - Own stakeholder management strategy. Empower the product team to manage stakeholder relationships where appropriate
 - Sign off on the launch of new products or features
 - Incorporate Veteran/user feedback into product development via outreach, call center data analysis, and user research
- 
-#### Product Lead  
----
-Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and VFT product strategy and marketing.
-
-##### Key Responsibilities:
-
-- Ensure Roadmap reflects reality and current status.
-- Document goals/OKRs for each iteration.
-- Update and disseminate product roadmap.
-- Ensure product team work reflects overall VFT product strategy and goals.
-- Meet regularly with Team Leads and Engineering Leads to ensure products are well defined, and to communicate reasonable expectations for delivery.
-- Meet regularly with Product Managers for status updates, and blocker escalation.
-- Meet regularly with VA Web Communications team to communicate product updates, and to stay abreast of marketing initiatives that may have an impact on prioritization of product work.
-- Regularly review product analytics to communicate successes and concerns.
 
 #### Product Manager  
 ---
@@ -70,3 +57,20 @@ Product Managers are responsible for organizing the direction and implementation
 - Fulfill launch checklist criteria prior to each launch.
 
 ---
+
+ 
+#### Product Lead  
+---
+Product Leads work with Team Leads and Product Managers to align delivery goals with overall VA and VFT product strategy and marketing.
+
+##### Key Responsibilities:
+
+- Ensure Roadmap reflects reality and current status.
+- Document goals/OKRs for each iteration.
+- Update and disseminate product roadmap.
+- Ensure product team work reflects overall VFT product strategy and goals.
+- Meet regularly with Team Leads and Engineering Leads to ensure products are well defined, and to communicate reasonable expectations for delivery.
+- Meet regularly with Product Managers for status updates, and blocker escalation.
+- Meet regularly with VA Web Communications team to communicate product updates, and to stay abreast of marketing initiatives that may have an impact on prioritization of product work.
+- Regularly review product analytics to communicate successes and concerns.
+
