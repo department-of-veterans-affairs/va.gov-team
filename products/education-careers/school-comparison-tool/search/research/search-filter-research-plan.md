@@ -8,6 +8,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 The GI Bill beneficiaries using the Comparison Tool experience challenges as they search for institutions and lack nuanced data points that could help them find and filter schools and training institutions that are the best fit for their education needs.  The current search in the Comparison Tool requires users to enter an exact match in order to provide them with results.  If users search for content in the Comparison Tool and use an abbreviation or nickname, or misspell an institution then the results they are searching for will not be returned.  Additionally, users are not able to easily identify and filter institutions by certain attributes (i.e. gender-exclusive, religious affiliations).  
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+
 Search:
 - Does the new search improve the experience of finding a school in the CT? 
 - Does the search field update make it easier for users to find schools of interest in the GIBCT? 
@@ -27,13 +28,15 @@ Filters:
 - How important are tags to the user?
 
 4. Hypothesis: What is your hypothesis for this research? 	
+
 The new search and filtering capabilities will be more effective for users - giving them a better search success rate and enabling them to narrow down results more easily. 
 ## Method	
 1.	What method of research are you planning? 	
   - Remote moderated usability testing in both production and staging environments
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-  Researchers need to see the search habits of users and their interaction with the filters.  We also need to be able to ask users what their expectations are for search and filtering - and how those expectations align with what they see on the screen.  We need to identify any pain points or UI elements that cause confusion or detract from the user's goals.
+
+Researchers need to see the search habits of users and their interaction with the filters.  We also need to be able to ask users what their expectations are for search and filtering - and how those expectations align with what they see on the screen.  We need to identify any pain points or UI elements that cause confusion or detract from the user's goals.
 3.	Where are you planning to do your research? 
   Online
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
