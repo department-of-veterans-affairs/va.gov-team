@@ -14,18 +14,23 @@ Search:
 - Does the search field update make it easier for users to find schools of interest in the GIBCT? 
 - What are users expectations of what they should enter into the search text field to get the results they seek? 
 - How does the new search functionality impact type-ahead? 
+    - Do users expect type-ahead to work for acronyms or nicknames?
+    - Do users expect to see results if they misspell a name?
 
 Filters:
-- Are users interested in using the filters?  Which ones?
-- Do users know how to use filters (implement, change, clear)?
-- Are the users confused by any of the filters?
-- Do users open collapsed sections/additional info components?
-- Are there any other filters users would like to see?
-- What do users think of filter tags?
-- Do users like the tags on the school cards?
-- Do users expect the tags to be interactive/informative?
+- How do users naturally engage with the filters?
+    - Are users interested in using the filters?  Which ones?
+    - Do users know how to use filters (implement, change, clear)?
+    - Are the users confused by any of the filters?
+    - Do users open collapsed sections/additional info components?
+    - Are there any other filters users would like to see?
+- What are the users' thoughts and expectations on the filter tags?
+   - What do users think of filter tags?
+   - Do users find the tags on the school cards useful?
+   - Do users expect the tags to be interactive/informative?
+   - How important are tags to the user?
 - What do users think of the search results after searching and filtering?
-- How important are tags to the user?
+
 
 4. Hypothesis: What is your hypothesis for this research? 	
 
@@ -37,10 +42,13 @@ The new search and filtering capabilities will be more effective for users - giv
 2.	Why this method? How does this methodology help you answer your research questions? 	
 
 Researchers need to see the search habits of users and their interaction with the filters.  We also need to be able to ask users what their expectations are for search and filtering - and how those expectations align with what they see on the screen.  We need to identify any pain points or UI elements that cause confusion or detract from the user's goals.
+
 3.	Where are you planning to do your research? 
   Online
+
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
   Search, page, content
+
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
   Zoom
 ## Participants and Recruitment	
