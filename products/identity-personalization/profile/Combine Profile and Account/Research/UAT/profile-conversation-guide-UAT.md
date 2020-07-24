@@ -51,7 +51,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
   
-- In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
+- Go back to the homepage. In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
   - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - Click on 'Go to your VA.gov profile'. 
   - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
