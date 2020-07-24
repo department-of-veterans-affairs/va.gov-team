@@ -1,23 +1,28 @@
 # Clipboard Technical Discovery [WIP]
 
 - [Clipboard Technical Discovery [WIP]](#clipboard-technical-discovery-wip)
+  - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
-  - [Current problem definition](#current-problem-definition)
   - [Proposed Solutions](#proposed-solutions)
-  - [Front end developer scope](#front-end-developer-scope)
-  - [Back end developer scope](#back-end-developer-scope)
   - [Outstanding questions](#outstanding-questions)
   - [Forms Discovery](#forms-discovery)
     - [Current Forms System](#current-forms-system)
     - [Healthcare wizard](#healthcare-wizard)
   - [Health Data APIs](#health-data-apis)
     - [Developers.va.gov](#developersvagov)
+    - [VistA API](#vista-api)
   - [Mobile Experience Findings](#mobile-experience-findings)
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
+  - [CMS Integration](#cms-integration)
+  - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
+
+## Problem Statement
+
+Veterans are unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
 ## Introduction
 
-[Insert team description/mission/north star]
+Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
 The technical team sought to discover how we can integrate and leverage current systems and architecture. The team investigated two big ideas - the forms library, existing health APIs, and other minor ideas documented below.
 
@@ -28,14 +33,6 @@ What guided the research was "what all is possible". Since this is a new team wi
 ## Proposed Solutions
 
 Can we build a simple, prepopulated form, that sends data to cliniations in a timely manner.
-
-## Front end developer scope
-
-The front end developers are ....
-
-## Back end developer scope
-
-The back end developers are ....
 
 ---
 
@@ -51,10 +48,11 @@ The back end developers are ....
 - Verify results
   - What analytics do we need?
   - What should be the KPI for the engineering team?
-
-How do we change the form question text/answer
-
-## Is the CMS a source for the form Questions?
+- CMS
+  - How do we change the form question text/answer
+  - Is the CMS a source for the form Questions?
+- Scheduling
+  - How can successfully integrate with VAOS?
 
 ## Forms Discovery
 
@@ -231,11 +229,17 @@ To better understand how to add a new controller, we have gathered these resourc
 - [slides from video](https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/)
 - [code example linked from video](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code)
 
+## CMS Integration
+
+> What does the current CMS step up look like?
+
+> Can we leverage a CMS for form wording?
+
 ---
 
 ## VA Online Scheduler (VAOS)
 
-VAOS is a new system that is a update to how veterans schedule appointments. This feels naturely close to the problems we are looking to solve so it is worth investigation. The team had a demo of the system. There seem to be some tie in points.
+VAOS is a new system that is a update to how veterans schedule appointments. This feels naturally close to the problems we are looking to solve so it is worth investigation. The team had a demo of the system. There seem to be some tie in points.
 
 After the initial demo, we have found a list questions that need to be answered.
 
