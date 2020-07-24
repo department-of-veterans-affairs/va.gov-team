@@ -17,6 +17,14 @@ As a designer I need to create a research plan to share with my team.	(This shou
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+2. What is your recruitment strategy? (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+
+Please put your participant criteria into two categories-
+1. Primary criteria / Must have - what do you absolutely need in order to run your study?
+2. Secondary criteria / Would like to have - what else would you like to request of perigeon when recruiting?
+
+Additionally,letting Perigeon know exactly the question you'd like to ask can help get the people you'd like. For example instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
+
 2.	What is your recruitment strategy? 	
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
 ## When? 	
