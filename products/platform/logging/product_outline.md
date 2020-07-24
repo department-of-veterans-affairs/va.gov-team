@@ -2,18 +2,19 @@
 ---
 
 ## Overview
-We are implementing Loki as a logging solution for teams working on VA.gov.   
+We are implementing Loki with fluentd as a logging solution for teams working on VA.gov.   
 
 ## Problem Statement
-Right now logging  is not a  great experience on VA.gov.  All  the logs are within cloud watch logs  in  AWS which requires AWS consul access to view. That process can take months and even after getting access it is not a full logging experience. Another method that is being used is Sentry, which  is not meant to be a logging tool. This leads to confusion and having logging all over the place and hard to access. It also have been identified as a top  pain point  for both VSP and VFS teams.
+Right now logging  is not a  great experience on VA.gov.  All  the logs are within cloudwatch logs  in  AWS which requires AWS consul access to view. That process can take months and even after getting access it is not a full logging experience. It is difficult to search logs, it is difficult to correlate logs from multiple services, and hampers troubleshooting and auditing. Another method that is being used is Sentry, which  is not meant to be a logging tool. This leads to confusion and having logging all over the place and hard to access. It also have been identified as a top pain point for both VSP and VFS teams.
 
-How might we create a  better logging experience on  VA.gov that can  make logging easy, accessible, and scalable. 
+How might we create a better logging experience on VA.gov that can  make logging easy, accessible, scalable, and a more enjoyable expereince. 
  
 ## Desired User Outcomes
 
 - Users can access logging soon after they go through orientation
 - Logging is easy to use
 - Logs can be exported if need be
+- Easier to search logs 
 
 ## Undesired User Outcomes
 - Keep using old logging methods after this implementation
@@ -80,7 +81,9 @@ Loki is being buildout in ECS
 ### Key Decisions
 - We will be moving forward with Loki because it address our and users needs plus is lightweight
 - Met with VSP BE tools to go over options 
-- Now that we are using AWS products we can build out this in the current infra.
+- Now that we are using AWS products we can build out this in the current infra useing ECS/ Far gate. 
+- We have each environment will have it’s own Loki and Fluentd implementation, to keep the logs separate and to distribute the load across the entire infrastructure.
+
 
 ---
    
