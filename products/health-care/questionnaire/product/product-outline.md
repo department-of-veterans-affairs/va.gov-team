@@ -108,6 +108,9 @@ Veterans are unable to consistently share and update current health status and m
 **Clinician**
 
 ### Initiatives /Bets
+
+[WIP Initiatives to Prioritize](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/initiatives)
+
 | Initiative Name		                      | Status 
 | --------------------------------------------------- | -----
 | [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover
