@@ -252,9 +252,10 @@ Tressa & Cassandra
 - Investigate level of effort for showing GI Bill benefits balance #10255
 - How are we going to build the logged-in homepage? #10256
 
-### Education/GI bill direct deposit
+### Direct deposit
 
 - Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
+- Figure out why it appears we are sending more direct deposit confirmation emails than there are direct deposit submissions #11528 (unless this is already done)
 
 ## Sprint 28 (8/12 – 8/25)
 
