@@ -40,7 +40,7 @@ OK,let's get started.
 
 OK, please share your screen, and then we will get started. 
 
-## Navigating to the profile - choose one option. 5 minutes
+## Navigating to the profile - only do one option per participant. 3 minutes
 
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and login.
 
