@@ -1,5 +1,5 @@
-# Mobile-only API Strategy
-[working thinking as of 7/1/2020]
+# Mobile API Strategy
+[working thinking as of 7/23/2020]
 
 
 ## Option 1: mobile-only API (presentation layer) within the vets-api
@@ -46,5 +46,26 @@ Build an entirely new API that proxies requests to vets-api.
 - this is additional software to maintain (but not by the VSP team)
 - vets-api endpoint changes to support VA.gov (rare) will require update work
 - perceived duplication: are the use cases for VA.gov and VA Mobile that different?
-- needs a strong test suite to quickly indentify regressions and changes to vets-api
+- needs a strong test suite to quickly identify regressions and changes to vets-api
 - additional network latency for requests, mitigated by deploying to the vets-api container-based runtime
+
+
+## Option 3: use existing endpoints in-place within the vets-api
+
+Use API endpoints inside of vets-api. Improve as needed.
+
+### Pros
+- vets-api is designated as "the place" for veteran-facing APIs
+- easy re-use of existing back-end integrations
+- allows access to VA.gov and Lighthouse integrations all at once
+- fast speed of development - many endpoints will Just Work
+- mobile-only optimizations will be shared with the VA.gov team
+- no additional software to maintain by the VSP team
+- use a separate namespace and Rails engine for mobile-only (new) endpoints
+- mobile api can be integrated into Lighthouse easily, if desired
+
+### Cons
+- we will need to add versioning to ensure older versions of the app don’t break later on
+- authorization for mobile app consumers will need to be added across various parts of vets-api
+- adds some extra weight to vets-api and VSP team
+- potential governance issues: an unknown risk
