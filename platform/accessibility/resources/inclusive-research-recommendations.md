@@ -22,7 +22,7 @@ You can view this [Veterans disability statistics resource](https://github.com/d
 
 ## Guidelines for inclusive research recruiting
 
-There are some baseline characteristics to ensure a diverse range of Veteran participants in your research. These characteristics may need to be adjusted depending on the individual study (e.g. A study for a hearing aid battery re-ordering form may want to recruit at least one person with a cochlear implant). Consider adding these recruiting requirements to your study:
+There are some baseline characteristics to ensure a diverse range of Veteran participants in your research. These characteristics may need to be adjusted depending on the individual study (e.g. A study for a hearing aid battery re-ordering form may want to recruit at least one person with a cochlear implant). Consider adding these recruiting requirements to your study (in the secondary requirements section):
 
 - At least 1 woman
 
