@@ -10,7 +10,46 @@
 
 ## July 24th, 2020
 
---
+**Status**
+
+Product
+- Research and [documented SHEP](https://drive.google.com/open?id=1krisnJlCyGoNGqzlDn6gKZTUq6MtPbsd) and [Clinical Reminders Questions](https://drive.google.com/open?id=12DxPOC0SFb3VG-fcA5nkIsLpPKsPCHLM) to inform strategy. 
+- Updated Product Outline 
+	- Added [Outcomes/User Stories to each Unmet Needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#unmet-needsdesired-outcomes-user-stories)
+	- Added first pass of [Initiative List for Prioritization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#initiatives-bets)
+		- Drafted a detailed [Initiatives working list](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/initiatives) based off of Veteran and Stakeholder sessions 
+	- Added first draft of [OKRs ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#okrs) 
+	- Added first draft of [Hypothesis and Assumptions/Risks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#hypotheses)
+- Interview Session with VAOS technical resource Stephen Barrs for questions on integration into the scheduling workflow. 
+- [Submitted issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11526) and Scheduled Project Kick Off for Collab Cycle for start of Sprint 27.
+- Backlog Planning for Sprint 27 on Wednesday 22nd.
+
+Research and Design
+- [Created a Journey Map](https://app.mural.co/t/vsa8243/m/vsa8243/1595002246550/dcc8f89e70628bfb9f123075ff514189005fa17c) based on each Persona 
+- Created a [sketch of an Experience Map](https://dsva.slack.com/archives/C0136TS768M/p1595609704127400?thread_ts=1595602052.126000&cid=C0136TS768M) 
+- Initial draft of [Clinical Stakeholder Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/clinician-interviews/key-findings.md) 
+Engineering
+- Completed the [Technical Feasibility Document](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11027) and Scheduled a review with the team for next week. 
+- Started Research on Vista and CMS (Drupal) integration
+-  Researching authentication gaps with Lighthouse and va.gov 
+
+**Next Step/Followup**
+	- Product to draft MVP Initiatives for remaining Q3 sprints
+		- continue to add detail to OKR's
+	- Hold Discovery Sprint Readout with Leads and Stakeholders 
+	- Engineering to continue research API/interface feeds into EHR's, MPI, CMS
+		- Present authentication prototype at Sprint 26 demo. 
+	- Design to prototype in new tool and build mock conditional logic app for demonstration purposes.
+
+**Decisions:**
+-   Move forward with MVP user-stories based on initial set of clinical stakeholder sessions 
+
+**Blockers:**
+-  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+	- Continue to identify contacts that can provide standardized forms 
+
+- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
 
 ## July 17th, 2020
 
