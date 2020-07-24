@@ -218,17 +218,16 @@ Design
 
 Dev
 
-**What other dev to-dos need to happen?*
-
 - Participate in reviews
 - QA — Any bug fixes that come out of QA
 - UI should scroll to alert when Address Validation screen appears #11552 
 - Make sure error messaging issues are figured out for fiduciary and DD in general (Erik should be creating tickets for this)
 
-Platform
-- Call center - Call center review
-- Pre-launch - Staging Review 8/3
-- Pre-launch - Privacy and Security Review 
+If these aren't already done:
+
+- Tell user they are blocked from accessing their Direct Deposit info #11606
+- Hide the entire ProfileHeader if we cannot fetch the Vet's full name #11604
+- Show generic message when a Profile-related endpoint fails #11602
 
 ### Logged-in homepage
 
