@@ -2,7 +2,7 @@
 
 **Author(s):** Brooks Johnson (brooks@adhoc.team)
 **Last Updated:** February 20, 2020  
-**Status:** **Draft** | In Review | Approved  
+**Status:* **Draft | In Review | **Approved**
 **Approvers:** Rian Fowler \[ \], Andrew Gunsch \[X\], Dror Matalon \[ \]
 
 
