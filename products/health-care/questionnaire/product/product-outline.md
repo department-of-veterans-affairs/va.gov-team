@@ -105,11 +105,34 @@ Veterans are unable to consistently share and update current health status and m
 
 [WIP Initiatives to Prioritize](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/initiatives)
 
-| Initiative Name		                      | Status 
-| --------------------------------------------------- | -----
-| [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover
-| [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/allergies-initiative-outline.md) 	  | Discover
-| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/questionnaire/product/initiatives#clinical-reminders-initiative-outline.md) 	  | Discover
+| Initiative Name		                      | Status | Availability (Q1-Q4 / 1H- 2H / Vision  |
+| --------------------------------------------------- | ----- | -----
+| **Questionnaire/Screeners**	  |
+| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/health-care/questionnaire/product/initiatives#clinical-reminders-initiative-outline.md) 	  | Discover	| Q4 2020 |
+| [This Visit Questionnaire]() 	  | Discover | Q3 2020 |
+| **Personal/Profile**	  |
+| [Demographics]() 	  | Discover | -- |
+| [Story/Bio]() 	  | Discover | -- |
+| [Family]() 	  | Discover | -- |
+| [Health Programs]() 	  | Discover | -- |
+| [Community Providers - My Care Team]() | Discover | -- |
+| **Health Record**	  |
+| [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/medications-initiative-outline.md)      | Discover | -- |
+| [Allergies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/allergies-initiative-outline.md) | Discover | -- |
+| [Problems - Health Conditions]()  | Discover | -- |
+| [Family History]() 	  | Discover | -- |
+| [Social Hx]() 	  | Discover | -- |
+| [Past Medical History (Procedures, Surgeries, Immunizations]()  | Discover | -- |
+| [Health Reminders]() 	  | Discover | -- |
+| **A Daily Living**	  |
+| [Goals]() 	  | Discover | -- |
+| [Barriers]() 	  | Discover | -- |
+| [Life Events/Stressors]() 	  | Discover | -- |
+| **Product Integration**	  |
+| [VAOS Integration]() 	  | Discover | -- |
+| [Notifications]() 	  | Discover | -- |
+| [Content Management - Form builder]()   | Discover | -- |
+| [MPI or VA Profile]() 	  | Discover | -- |
 
 
 ## Measure Success 
