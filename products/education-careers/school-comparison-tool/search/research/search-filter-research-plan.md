@@ -2,7 +2,11 @@
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
+- Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+
+The GI Bill beneficiaries using the Comparison Tool experience challenges as they search for institutions and lack nuanced data points that could help them find and filter schools and training institutions that are the best fit for their education needs.  The current search in the Comparison Tool requires users to enter an exact match in order to provide them with results.  If users search for content in the Comparison Tool and use an abbreviation or nickname, or misspell an institution then the results they are searching for will not be returned.  Additionally, users are not able to easily identify and filter institutions by certain attributes (i.e. gender-exclusive, religious affiliations).  
+
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
