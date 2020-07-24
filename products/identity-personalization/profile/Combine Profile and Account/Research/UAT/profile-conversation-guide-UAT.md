@@ -229,6 +229,11 @@ OK, please share your screen, and then we will get started.
   
 - Can you click on the 'frequently asked questions' link in the blue box?
   - [ ] **UAT TASK:** Links to the FAQ page. 
+  
+### Adding an app (only for Veterans who already have a connected app)
+
+- Could you walk me through how you added an app? 
+  - [ ] **UAT TASK:** Double check that the timestamp on the app is for when it was connected. 
 
 
 ## Post-Task Interview - 1 minutes
