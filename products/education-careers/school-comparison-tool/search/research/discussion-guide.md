@@ -1,0 +1,110 @@
+# Search and Filtering Usability Testing Discussion Guide
+
+## Intro - 5 minutes
+
+Thanks for joining us today! My name is Amy and I also have some colleagues on the line observing and taking notes. Today we're going to take a look at the GI Bill Comparison Tool.  Specifically, we're looking at how to calculate your GI Bill benefits for institutions and programs within the Comparison Tool.
+
+Before we get started, a few things I want to mention:
+- This entire session should take about 30 minutes. I don't want to keep you much longer than that, so I may occasionally prompt you with the next question or topic.
+- During this session, we want to hear your honest opinions. We're not testing your ability. We just want to improve these tools to better meet Veteran's needs. I won't be offended by any opinions you express and welcome your feedback.
+- If for any reason and at any time you want to stop the session, please let me know.
+
+Are you comfortable if I record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we finish analysis, and none of your comments will be attributed to you directly.
+
+  - If yes: Great - thank you.  Once I start recording, I'll ask again so we have your audible confirmation.
+  - If no: Ok. My team will just observe and take notes as we go. 
+
+Start recording.
+- 	I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
+
+
+## Warm-up Questions - 5 minutes
+
+Before we look at the website, let’s start with a few warm-up questions.
+
+1.	Are you currently using or have you ever used your GI Bill education benefits?
+- (If applicable) When did you start school?  Where are you going to school?
+2.  When you were investigating schools, were there any in particular you were looking into?
+2.	Have you ever used the GI Bill Comparison Tool before?
+- If yes, fantastic! 
+  - When do you think the last time you used it was? 
+- If no, no worries.  We're checking that out today and always appreciate getting a fresh perspective on it.
+
+
+For our session today, I'm going to give you a couple tasks to do online. While you're going through them, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn.
+
+When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
+
+I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
+
+## First Task: Finding a School - 15 minutes
+
+Let's go back and time and pretend that you are considering attending **Participant-Named University** and are curious if the Comparison Tool has information on that school. How would you find out what information the Comparison Tool has on that school?
+
+_Prompt_ Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
+
+Things to watch for:
+  - Does the user use the autocomplete functionality or search?
+  - How does the user change their search?
+  - Does the user change the filters?
+    - If yes, which ones?
+  - Does the user open the additional information components?  If yes, which ones?
+    
+  
+  Upon completion of the task:
+  - How did you think that went? 
+  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  - Were you able to find what you were looking for?  Did it seem like anything was missing? 
+  - What did you think of the filters?  Which ones would be most useful to you?
+  - Of the filter options for religious affiliation, special mission and gender, which ones would you be most likely to use?
+
+
+## Second Task: Filter - 10 minutes
+
+Let's say that you received a scholarship for any schools in the USA that are **Insert preferred filter option**.  How would you go about finding schools that meet that criteria?
+
+Things to watch for:
+  - How does the user change their search?
+  - Does the user change the filters?
+    - If yes, which ones?
+  - Does the user open the additional information components?  If yes, which ones?
+    
+  
+  Upon completion of the task:
+  - How did you think that went? 
+  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+
+
+## Third Task: Acronym/Nickname School - 10 minutes
+
+Let's say you've heard good things about the science programs at MIT.  How would you go about finding that school on the Comparison Tool?
+
+_Prompt_ You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
+
+Things to watch for:
+  - Does the user use the autocomplete functionality or search?
+  - How quickly does the user find the school?
+  - Do they use any filters or change their search criteria?
+  - What, if any, filters do they use?
+
+**Upon completion of task:** 
+- How did you think that went? 
+- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+
+
+## Post-Task Interview - 5 minutes
+
+Those are all the tasks I have for you today. 
+
+-	Do you have general thoughts or feedback on the Comparison Tool that you’d like to share? 
+-	Any questions for me?
+- I want to give a chanced to the other people on the line to ask a question.
+
+## Thank-You and Closing - 3 minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
+
+Great, thanks so much and enjoy the rest of your day!
+
