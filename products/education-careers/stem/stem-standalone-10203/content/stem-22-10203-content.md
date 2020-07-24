@@ -30,7 +30,7 @@ Sign in or create an account { button }
 { Entitlement check for CH33 users. Display yellow warning alert if user has more than 6 months of benefits remaining }  
 
 { yellow warning alert }  
-**It appears you're not eligible** 
+**You may not be eligible** 
 
 To be eligible for the Rogers STEM Scholarship, you must have less than 6 months of Post-9/11 GI Bill benefits left when you submit your application.  
 
@@ -180,7 +180,7 @@ Form 22-10203
 
 { yellow warning alert }  
 
-#### Based on your response, it appears you’re not eligible for the Rogers STEM Scholarship. 
+#### Based on your response, you may not be eligible 
  
 **You must be a Post-9/11 GI Bill or Fry Scholarship beneficiary to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicant. 
 
@@ -188,7 +188,7 @@ Form 22-10203
 
 Exit application { green button: "Exit application" button takes users to https://www.va.gov/education/ .  target="self"  }
 
-If you still wish to apply for the scholarship, click Continue. 
+If you'd still like to apply, you can continue with your application.
 
 [ Back | Continue ] { buttons } 
 
@@ -260,7 +260,7 @@ Form 22-10203
 
 { gray box } 
 
-#### Based on your responses, it appears you’re not eligible for the Rogers STEM Scholarship. 
+#### Based on your responses, you may not be eligible
  
 { display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes" }   
 
@@ -289,7 +289,7 @@ Months you have left to use: **NN months, NN days**
 
 Exit application { green button: "Exit application" button takes users to https://www.va.gov/education/ ; target="self"  }
 
-If you still wish to apply for the scholarship, click Continue. 
+If you'd still like to apply, you can continue with your application.
 
 
 [ Back | Continue ] { buttons } 
