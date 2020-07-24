@@ -145,10 +145,13 @@ Our Mission is to deliver personalized experiences that support collaboration an
 
 Healthcare Experience Team [Mission & Vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/healthcare-experience/team-charter.md#mission)
 
-### Objective /Jobs To Be Done 
-When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatment plan across the continuum of care.
+### OKR's
 
-> **Key Results Focus:**  Save Time and Optimize Care
+**Objective/Job To Be Done:** When going to a healthcare visit, I want to share my current health status and medical history so that my information can influence and be used to create my treatment plan across the continuum of care.
+
+**Signal:** Veterans are completing questionnairs before their vist and the care team is leveraging the information to inform their treatment plan. 
+
+**Key Results Focus:**  Save Time and Optimize Care
 - Personal Experience - exceed expectations
 - Collaboration - empower partnership
 - Seamless Journey - meet users where they are
@@ -190,17 +193,30 @@ When going to a healthcare visit, I want to share my current health status and m
 22. Increasing the time the Care team can focus on the Veterans plan of care
 23. Reduce time spent by the reception employees gathering and ensuring all fields are fill out by Veteran.
 
-### Hypotheses/ Value Propositions
+### Hypotheses
 
-[**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) 
+- Veterans want to fill out pre intake questionnaires to assit their care team with the most up todate status
+- Veterans belive that by filling out pre visit intake questionnaires they will have an improved experience with the VA health system.
+- Veterans believe that by filling out pre visit intake questionnaires they will not have to repeat their information as much as it will now be in their record. 
+- The Clinical Care team wants Veterans to provide pre-visit intake questionaires and screeners so they don't have to use so much time on data entry/asking questions. 
+- The Clinical Care team would prefer to have a view and confirm current status vs. having to ask the Veteran each vist as if they don't know their patients history. 
+- The Clinical Care team would like to know more about what is important to the Veteran or what is currently affecting them vs. spending their time focused on documeting screeners and health status. 
 
-[**Business**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#business)
+#### Value Propositions 
+
+[**Veteran & Clinical Staff**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#veteran--clinical-staff) | [**Business**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/value-prop.md#business)
 
 
 
 ## Assumptions and Risks
 
-- _Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality_
+- Change Management needs to be championed and operationalized for patient provided datat workflow integration into the visit by the clinical care team
+- Multiple EMR integrations make it difficult to know the souce of truth for Health Inforamtion to pre-populate the record.
+- FHIR specs have not all bee built into the Lighthouse roadmap nor both EHR's integration which will limit the standardized data interfaces
+- Lighthouse roadmap doesn't have write transactions currently avaialbe back into the source systems.
+- Veterans are currenlty using MHV to view and contribute to their heatlh record and the strategy to build an intake questionnaire on va.gov will be out of their workflow.
+- Authorization and Authentication on va.gov will allow for health data to be viewed and edited.
+- Standardized documenation/questions hasn't been rolled out VA wide therefore, the questions that we ask the Veteran might not align with the current state questions at a pilot site.  Or we build the questionnaire with the current state (customized at each facility) question and have to later update at a later date.
 
 ## Solution Approach 
 
