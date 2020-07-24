@@ -9,7 +9,7 @@
 
 ## Intro - 2 minutes
 
-Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile page on VA.gov. 
+Thanks for joining us today! My name is Tressa and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the profile page on VA.gov. We've just built this page and we want to make sure that it is all working properly in your account and that all of your information is showing up correctly.
 
 Before we start, a few things I want to mention:
 
@@ -31,7 +31,7 @@ OK,let's get started.
   - If the user can not remember or retrieve their login credentials, end the session.
 5. Can you tell me what type of computer you are using today? 
   - If needed: I'm asking this question because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed. 
-6. Do you know if you have any connected apps?
+6. Have to ever connected a third-party application to your VA.gov account, like Apple health or any other applications?
 7. Can you tell me which web browser you are using?
 8. Today we are going to observe you interacting with the new tools on your computer. Would you feel comfortable sharing your screen with me at this time?  
   - If no: Explain this is necessary for testing. If they are still unwilling, end the call.
@@ -144,7 +144,7 @@ OK, please share your screen, and then we will get started.
 - Click 'Cancel'. 
   - [ ] **UAT TASK:** Form closes.
  
-- Please open the form again and add your direct deposit information, even if it is already correct in your profile. Then click "Update."
+- For this next task I'm going to ask you to open the form again and add your direct deposit information and click 'update', even if it is already correct in your profile.  If you would feel more comfortable, you can stop screensharing while you add and save this information. 
   - [ ] **UAT TASK:** Form closes, and the direct deposit information shows in the profile.
  
 - Click View Payment History.
@@ -165,7 +165,7 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** Terms and Conditions shows correct messaging depending on status.
   - [ ] **UAT TASK:** Sign in email is showing correct messaging.
   
-- Can you click on 'View terms and conditions for medical information'?
+- (ONLY IF APPLICABLE) Can you click on 'View terms and conditions for medical information'? 
   - [ ] **UAT TASK:** Link goes to Terms and Conditions page.
   
 - Let's go back to the profile. Can you click on 'Update sign in email address on ...'?
