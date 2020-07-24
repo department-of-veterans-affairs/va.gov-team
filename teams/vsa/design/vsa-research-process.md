@@ -50,6 +50,7 @@ Information about using our recruiter, Pergean to recruit participants for your 
 * If you'd like buffer time in between user sessions, make sure to state that in your research plan.
 * Make sure to list your whole team and any interested stakeholders in the list of folks you want Perigeon to invite to the user sessions in your research plan. 
 * If you are recruiting stakeholders or VA employees that are working on the other side of the forms, you do not go through Perigeon to recruit. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
+* As soon as you receive your participant roster from Perigean, double check it against your criteria. If they've missed anything important, reach out via the Slack group Lauren starts for your study so they can recruit additional participants.
 * At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
