@@ -60,7 +60,7 @@ Liz Lantz, Public Websites, July 16, 2020
 
 1.	We'd like to interview 8 Veterans
    - Participants must be able to participate via a laptop or desktop. Phones/ipads will not work. 
-   - Participants must be able to log into VA.gov using an ID.me account, a My HealtheVet account, or a DS Logon account. Multiple accounts are fine. Participants should come prepared with their login credentials. 
+   - Participants must be able to log into VA.gov using an ID.me account, a My HealtheVet account, or a DS Logon account. Multiple accounts are fine. 
    - We request the participant pool be diverse in:
      - Gender (ideally 4 women, 4 men)
      - Ethnicity/Race (at least 4 non-Caucasian)
