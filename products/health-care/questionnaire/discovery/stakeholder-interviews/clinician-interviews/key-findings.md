@@ -36,3 +36,6 @@ The goals of this study were to:
 - detail
 
 ## Appendix
+- Research Plan
+- Questions
+- Notes
