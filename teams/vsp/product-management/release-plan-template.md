@@ -1,10 +1,9 @@
 # Release Plan Template [Draft]
-When to use this
-What value it brings - measure, HCD
-How to use it - where to save
-When you don't need this
-Example
-Refer to VFS template
+This Release Plan Template is intended to be used to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. 
+In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necesssary prior to going live. 
+In Phase 2, you will define the launch communications plan and post-launch KPIs.
+
+For your product or feature, make a copy of this template and save it in the same folder as the Product Outline.
 
 ## Phase I: User Acceptance Testing
 *Test real-world user scenarios to ensure your product performs as expected.*
