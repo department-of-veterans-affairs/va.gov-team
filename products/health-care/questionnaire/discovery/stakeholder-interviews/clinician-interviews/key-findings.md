@@ -18,11 +18,17 @@ The goals of this study were to:
 
 ## Key Findings
 
-1. Finding
-2. Finding
+1. Clinicans want ahead-of-time insight into the reason for a Veteran's visit.
+2. There is a need for a "face sheet" or one-page summary of a Veteran's health information to refer to during a visit.
+3. It would be beneficial to clinicians for Veterans to fill out some Clinical Reminders ahead of their appointment.
 
 ## Details of Findings
 
+**Clinicans want ahead-of-time insight into the reason for a Veteran's visit.**
+
+**There is a need for a "face sheet" or one-page summary of a Veteran's health information to refer to during a visit.** This information informs the type of care a provider gives to a Veteran.
+
+**It would be beneficial to clinicians for Veterans to fill out some Clinical Reminders ahead of their appointment.** Though some questions may need to be asked orally during an appointment depending on their risk-factor, clinicans expressed a desire to have some clinical reminder questions filled out earlier to save time.
 
 ## Actionable Recommendations
 
