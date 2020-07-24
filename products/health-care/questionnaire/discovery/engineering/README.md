@@ -25,13 +25,9 @@ This `README` serves as a high-level, non-technical intro to the research findin
 
 What guided the research was "what all is possible". Since this is a new team with a team product and new direction. There are plenty of fuzzy edges and no defined product as of this commit. That has allowed the tech team to research and understand what all can be possible so when design and UX has a solution, we can give proper feedback and support.
 
-## Current problem definition
-
-....something something onboarding
-
 ## Proposed Solutions
 
-Create a digital experience for a vet to .....
+Can we build a simple, prepopulated form, that sends data to cliniations in a timely manner.
 
 ## Front end developer scope
 
@@ -56,7 +52,9 @@ The back end developers are ....
   - What analytics do we need?
   - What should be the KPI for the engineering team?
 
----
+How do we change the form question text/answer
+
+## Is the CMS a source for the form Questions?
 
 ## Forms Discovery
 
@@ -133,6 +131,8 @@ This API is the closest we have an internal API. This current project will event
 
 This data is very rich and plentiful. According to the product manager(?), Dave Mazik, the information is coming from VistA.
 
+There is one big limitation, there is not write for data associated with this system. All the endpoints and functionality available are read only.
+
 With knowledge, the tech team was able to build an isolated, throw away prototype located at [https://tranquil-eyrie-84225.herokuapp.com/](https://tranquil-eyrie-84225.herokuapp.com/)
 
 Using the Lighthouse Health API, the team was able to display the following:
@@ -183,6 +183,20 @@ For more information: https://github.com/department-of-veterans-affairs/va.gov-t
 
 ---
 
+### VistA API
+
+VistA is the core of where a veteran's health data is store. This is a old system writtne in MUMPS that is thankfully hidden behind layers of abstractions. The tech team has a great meeting with Stephen Barrs to start to deep dive into what VistA is and how we can leverage VistA for this project.
+
+During this meeting we explored the layers of abstraction as well as current implementations of reaching (both reading and writing) VistA data. In order for us to link to, we can take advantage of the VA Mobile Framework. This will allow us to use the same RESTful APIs that the suite of existing mobile and web applications use to commination with VistA. This framework of apis is a really good find.
+
+After a brief exploration, there where endpoints that look useful related to medications and scheduling. We did not deep dive into this yet, but once we get settled on a base level product we will do a deep dive in that direction.
+
+The biggest hurdle of this API is the lack of documentation. Its lightly documented at best, and the knowledge base is in current working knowledge. For example, this is the [list of services](https://veteran.apps.va.gov/metadata/v1/services). It works, but there is no way to tell what services actually do.
+
+The best finding from this meeting is that some of these APIs, also pull data from MyHealthyVet.
+
+Concerning scheduling, there are endpoints available for us to get details around the appointment, such time, location and reason.
+
 ## Mobile Experience Findings
 
 The DEPO team is currently developing a brand new mobile experience for a veteran. The current experience is fragmented at best. The new app will act as a unifying experience, similar to the philosophy behind `va.gov.` After an interview with the product manager, Sophie Myers, we have learned quite a bit.
@@ -216,3 +230,19 @@ To better understand how to add a new controller, we have gathered these resourc
 - [video tutorial for new external services](https://www.youtube.com/watch?v=V_i8JLXk5rg)
 - [slides from video](https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/)
 - [code example linked from video](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code)
+
+---
+
+## VA Online Scheduler (VAOS)
+
+VAOS is a new system that is a update to how veterans schedule appointments. This feels naturely close to the problems we are looking to solve so it is worth investigation. The team had a demo of the system. There seem to be some tie in points.
+
+After the initial demo, we have found a list questions that need to be answered.
+
+> Where does the pre-filled data on the contact page come from
+
+> Where does this data end up? And can we call it back, specifically, the reason for coming in.
+
+> Which system does the user data come from?
+
+> For upcoming appointments screen, what would it take to integrate a form link there?

@@ -8,6 +8,7 @@ This doc is the technical findings for the Healthcare tech team investigation on
     - [Technical notes](#technical-notes)
     - [Security](#security)
     - [Performance](#performance)
+    - [Limitations](#limitations)
     - [Other Considerations](#other-considerations)
   - [Cerner API](#cerner-api)
     - [Technical notes](#technical-notes-1)
@@ -59,6 +60,10 @@ Two items from the [Lighthouse docs](https://developer.va.gov/explore/health/doc
 ### Performance
 
 There seems to not be an issue with the performance at this time.
+
+### Limitations
+
+This is currently a limitation on this API. There are no endpoints to push data to. All the endpoints are read only values.
 
 ### Other Considerations
 
