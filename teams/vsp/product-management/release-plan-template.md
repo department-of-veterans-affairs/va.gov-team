@@ -1,85 +1,80 @@
 # Release Plan Template [Draft]
-This Release Plan Template is intended to be used to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. 
-In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necesssary prior to going live. 
-In Phase 2, you will define the launch communications plan and post-launch KPIs.
+This Release Plan Template is intended to be used to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes. In Phase 1, you will test your product to learn how it'll actually be used, what problems it might create, and then fix/adjust if necesssary prior to going live. In Phase 2, you will define the launch communications plan and post-launch KPIs. 
 
-For your product or feature, make a copy of this template and save it in the same folder as the Product Outline.
+You do not need to complete a release plan for a product or feature update that does not:
+
+- Add substantial new functionality to the Platform.
+- Impact user flows through tasks.
+
+For your product or feature, make a copy of this template and check it into products/platform/<product-name>.
 
 ## Phase I: User Acceptance Testing
-*Test real-world user scenarios to ensure your product performs as expected.*
-How do we expect people to run it
-Users - VSP, VFS, ect - an appropriate audience
-How to engage VFS - ask PM
-Who needs to be invovled
-Best practices`
+*Test real-world user scenarios to ensure your product or feature performs as expected.*
 
 ### Planning:
 
-- Desired date range or test duration: [date - date] or [duration] 	
-- How you'll conduct the testing: lorem ipsum
-- Desired # of users 
-- How you'll give the test users access to the product: lorem ipsum
+- Desired date range or test duration: 
+- Desired number of users: 
+- The group(s) from which you'll recruit test users:
+  - [ ] VFS
+  - [ ] VSP
+  - [ ] DEPO
+- How you'll recuit test users:
+- How you'll give test users access to the product: 
+- What metrics-based "success criteria" will you look at before launch? [use your KPIs to help guide this.]
+- How you'll measure your "success criteria": 
 
 ### Results:
 
-- Actual # of users
-- ​	Bugs identified: 
+- Number of users: 	
 
-  ​	1. xx - lorem ipsum
-
-  ​	2. xx - lorem ipsum
-
-  ​	3. xx - lorem ipsum
+- Results for your "success criteria":
 
 - Number of bugs identified / fixed: x/x
 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
+- Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
 
-- If yes, what: lorem ipsum
-
-  
+  - If yes, what:   
 
 ## Phase II: Go Live!
 
-### Do I need a staged rollout?
+### Launch communications:
 
-A staged rollout is recommended unless you can confidently answer "yes" to the following:
-
-- This change does not add substantial new functionality to the Platform.
-- This change does not impact VFS teams' workflow.
-
-### Marketing - Launch communications
-
+- [ ] Product documentation
+  - Product brief
+  - User Guide (if applicable)
+- [ ] Release announcements
+  - Newsletter article - collaborate with the Service Design team
+  - Team of Teams and other VFS/VSP meetings
 
 ### Planning:
 
-- Desired launch date: mm/dd/yy
-- Post-launch KPI 1: xx lorem ipsum
-- Post-launch KPI 2: xx lorem ipsum
-- Post-launch KPI 3: xx lorem ipsum
-- Initiative developmet checklist
+- Desired launch date: 
+- Post-launch KPI 1:
+- Post-launch KPI 2:
+- Post-launch KPI 3: 
 
 ### 1-week results:
 
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VSP handling/processing?: yes/no, lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-- If yes, what: lorem ipsum
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Post-launch KPI 2 actual: 
+- Post-launch KPI 3 actual:
+- Any issues with VSP handling/processing?: yes/no
+  - If yes, what:
+- Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
+  - If yes, what: 
 
 ### 1-month results:
 
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VSP handling/processing?: yes/no, lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no
-- If yes, what: lorem ipsum
-
-
+- Number of unique users: 
+- Post-launch KPI 1 actual: 
+- Post-launch KPI 2 actual: 
+- Post-launch KPI 3 actual: 
+- Any issues with VSP handling/processing?: yes/no
+  - If yes, what:
+- Any UX changes necessary based on the logs, user feedback, or VA challenges? yes/no
+  - If yes, what: 
 
 ## Post-launch Questions
 
