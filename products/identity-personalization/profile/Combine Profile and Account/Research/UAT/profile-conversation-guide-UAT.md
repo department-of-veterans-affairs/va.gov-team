@@ -44,14 +44,18 @@ OK, please share your screen, and then we will get started.
 
 - I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and login.
 
+[Go through this flow with ~3 participants]
+
 - Click on your name in the upper right-hand corner, select profile.
   - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see the profile. If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**. 
   - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
   - [ ] **UAT TASK:** Navigation has loaded properly and is showing all sections.
   - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
-  
-- Go back to the homepage. In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
+
+[Go through this flow with ~3 participants]
+
+- In the 'Records' box in the lower right-hand corner, click on 'Change your address'. If they are LOA3, have them click on 'Go to your VA.gov profile'. 
   - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your VA.gov profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
 - Click on 'Go to your VA.gov profile'. 
   - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
@@ -60,7 +64,9 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT TASK:** If a user has or is eligible for disability compensation or pension payments  - Direct deposit should shows in the navigation.
   - [ ] **UAT TASK:** If records can't be matched, the correct error is showing. **end the session**
 
-- Go back to the homepage. In the 'Disability' box in the top right, click on 'View your payment history'. Scroll down to 'What should I do if I need to change my direct deposit or contact information?', and then click the link that says 'Change your information online'. Scroll down to  'How can I change my VA direct deposit information online?' and click on the green button that says'Go to your profile'.
+[Go through this flow with ~3 participants]
+
+- In the 'Disability' box in the top right, click on 'View your payment history'. Scroll down to 'What should I do if I need to change my direct deposit or contact information?', and then click the link that says 'Change your information online'. Scroll down to  'How can I change my VA direct deposit information online?' and click on the green button that says'Go to your profile'.
   - [ ] **UAT TASK:** Confirm that they are LOA3. You'll know that they are because they'll see a green button that says 'Go to your profile' . If they are not, they'll see a "Verify your identity" prompt. If they are not LOA3, **end the session**.
   - [ ] **UAT TASK:** Personal and Contact Information page shows up. (link works correctly)
   - [ ] **UAT TASK:** The user's name and military badge will be on the top left.
