@@ -8,39 +8,73 @@ As a designer I need to create a research plan to share with my team.	(This shou
 The GI Bill beneficiaries using the Comparison Tool experience challenges as they search for institutions and lack nuanced data points that could help them find and filter schools and training institutions that are the best fit for their education needs.  The current search in the Comparison Tool requires users to enter an exact match in order to provide them with results.  If users search for content in the Comparison Tool and use an abbreviation or nickname, or misspell an institution then the results they are searching for will not be returned.  Additionally, users are not able to easily identify and filter institutions by certain attributes (i.e. gender-exclusive, religious affiliations).  
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
+Search:
+- Does the new search improve the experience of finding a school in the CT? 
+- Does the search field update make it easier for users to find schools of interest in the GIBCT? 
+- What are users expectations of what they should enter into the search text field to get the results they seek? 
+- How does the new search functionality impact type-ahead? 
+
+Filters:
+- Are users interested in using the filters?  Which ones?
+- Do users know how to use filters (implement, change, clear)?
+- Are the users confused by any of the filters?
+- Do users open collapsed sections/additional info components?
+- Are there any other filters users would like to see?
+- What do users think of filter tags?
+- Do users like the tags on the school cards?
+- Do users expect the tags to be interactive/informative?
+- What do users think of the search results after searching and filtering?
+- How important are tags to the user?
+
 4. Hypothesis: What is your hypothesis for this research? 	
+The new search and filtering capabilities will be more effective for users - giving them a better search success rate and enabling them to narrow down results more easily. 
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - Remote moderated usability testing in both production and staging environments
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
+  Researchers need to see the search habits of users and their interaction with the filters.  We also need to be able to ask users what their expectations are for search and filtering - and how those expectations align with what they see on the screen.  We need to identify any pain points or UI elements that cause confusion or detract from the user's goals.
+3.	Where are you planning to do your research? 
+  Online
+4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
+  Search, page, content
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+  Zoom
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+- Recruit 14 participants (with a goal of 10 participants)
+   - 2-3 participants using assistive tech devices (screen readers or magnifiers)
+   - 3-5 participants using a mobile device
+- Participants are using Chapter 33 or Montgomery Bill benefits
+- Age Range: 18-65
+- Geography: Geographically dispersed across US
+- Technology: Access to a computer, preferably running Google Chrome browser; Assistive technologies (for some); Access to an iOS mobile device (for some)
+- Familiarity with technology: Any
+- Accessibility preference: 2-3 participants using screen reader or magnifier for web browsing
+- Mobile device users:  iOS only
+- Login requirements: None
+
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+- Recruitment will be performed by Perigean Technologies
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
+Sprint 53 - Exact dates TBD 	
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 	
+3. Length of Sessions: How long do you estimate each session will be? 
+- 30 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 - Aug 11, 2020
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+Please list the people who will be serving in each role.  	
+- Moderator:	Amy Knox; 301.254.0907; knox_amy@bah.com
+- Research guide writing and task development (usually but not always same as moderator):	Booz Allen UX team
+- Participant recruiting & screening:	Perigean Technologies
+- Project point of contact:	Amy Knox
 - Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
+- Note-takers:	Cindy Cruz cruz_cindy@bah.com; Jen Jones jones_jennifer2@bah.com
+- Observers:	Brian Grubb brian.grubb@va.gov; Desiree Turner turner_desiree@bah.com; Joe Preisser joseph.preisser@va.gov; Joe Welton joseph.welton@va.gov; Will McCormack mccormack_will@bah.com; Lauren Anderson lauren.alexanderson@va.gov; Lacey Higley lacey.higley@va.gov; Matt Self matthew.self2@va.gov; Dan Shawkey shawkey_daniel@bah.com; Darla VanNieukerk darla.vannieukerk@va.gov; Tammy Hurley tammy.hurley1@va.gov; Darrell Neel neel_darrell@bah.com;
+
 ## Resources	
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
