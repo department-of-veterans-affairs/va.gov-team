@@ -231,16 +231,22 @@ If these aren't already done:
 
 ### Logged-in homepage
 
-(Review this against to-dos that have been created in epic)
+**Design**
 
-Design
-- Review journey maps #10120
+Cassandra
+
+- Intro to the project with Tressa
 - Review discovery findings #10121
+- Review journey maps #10120
+
+Tressa & Cassandra
+
 - Investigate how banners/alerts work on the logged out homepage and in the navigation #8836
 - My VA tools audit #10123
 
-Dev
-- Beta/Opt-in discovery 
+**Dev**
+
+- Beta/Opt-in discovery #10476
 - Investigate showing upcoming appointments #10247
 - Investigate level of effort for showing overall disability rating #10249
 - Investigate level of effort for showing GI Bill benefits balance #10255
@@ -273,6 +279,8 @@ Design
 - Figure out additional questions for technical discovery
 - Plan for LOA3 use cases #10162
 - Plan for LOA1 use case #10164
+- Plan for how to work with the platform team #10516
+- Plan for how/when to conduct user testing #10518
 
 Dev
 - Additional technical discovery?
