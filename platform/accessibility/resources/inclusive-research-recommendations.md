@@ -75,7 +75,6 @@ People with disabilities can be included in generative and exploratory research 
 
 - For example, [listening sessions](https://indiyoung.com/how-to-build-trust-in-a-listening-session/) meet the person where they are comfortable and follow where they lead. No specialized equipment is required, only to listen to the person speak. Ideally, the session would be recorded, and notes transcribed verbatim afterwards.
 
-It will not be possible to include those who use assistive technology if the discovery research includes inaccessible tools such as Mural
 
 ## FAQ
 
