@@ -44,6 +44,8 @@ There are some baseline characteristics to ensure a diverse range of Veteran par
 
 - Consider including at least one non-native English speaker
 
+- Consider including at least one person who uses assistive technology (AT), if your study can accommodate them; specialized keyboards, switches, and hearing aids are examples of AT that may be generally included
+
 If the study requires screensharing, request that Perigean confirm:
 
 - The participant has Zoom downloaded prior to the session and they know how to screenshare 
@@ -59,9 +61,11 @@ People with auditory impairments can be included in usability testing. [Refer to
 
 It will not be possible to include those who use assistive technology if the research includes testing prototypes in tools such as InVision, UXPin, or Mural. Therefore, include the following verbiage in your research plan:
 
-- For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox), and specialized keyboards and switches.
+- For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
 
-- For this session, we are unable to include people with vision loss. 
+- For this session, we are unable to include people with significant vision loss. 
+
+- For this session, we are unable to include people who use magnification tools.
 
 ### Recruiting for discovery research 
 
