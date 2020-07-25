@@ -59,6 +59,8 @@ People with vision impairments who use assistive technology can be included if t
 
 People with auditory impairments can be included in usability testing. [Refer to the FAQ section for tips on moderating these sessions.](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/platform/accessibility/resources#what-if-someone-with-hearing-difficulties-joins-a-session) 
 
+If your design prototype is created in [Adobe XD, you may be able to include assistive tech users](https://equalentry.com/designing-for-assistive-tech-in-adobe-xd-accessibility-nyc-meetup-recap/).
+
 It will not be possible to include those who use assistive technology if the research includes testing prototypes in tools such as InVision, UXPin, or Mural. Therefore, include the following verbiage in your research plan:
 
 - For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
