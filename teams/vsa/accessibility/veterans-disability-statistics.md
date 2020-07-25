@@ -10,6 +10,8 @@
 
 * **Approximately 300,000 Veterans (18.5 percent) who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression**.
 
+* **20 Veterans take their lives each day**
+
 * **About 320,000 (19.5 percent) report experiencing a traumatic brain injury (TBI) during deployment**.
 
 * An estimated **31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI**.
@@ -26,6 +28,7 @@
     > https://www.rand.org/news/press/2008/04/17.html <br/>
     > https://www.rand.org/pubs/research_briefs/RB9336.html<br/> 
     > https://ncd.gov/publications/2009/March042009 <br/>
+    > https://www.veteranscrisisline.net/support/be-there?utm_source=bethereforveterans.com <br/>
     > https://www.statista.com/statistics/250271/us-veterans-by-gender/ <br/>
     > https://www.statista.com/statistics/250267/us-veterans-by-age-and-gender/ <br/>
 
