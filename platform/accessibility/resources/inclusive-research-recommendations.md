@@ -53,7 +53,7 @@ If the study requires screensharing, request that Perigean confirm:
 ### Recruiting for usability studies
 People with vision impairments who use assistive technology can be included if the research includes testing tools in production or staging environments. 
 
-- Consider adding a recruiting requirement for at least one person who uses assistive technology such as a screen readers, specialized keyboards, and switches
+- Consider adding a recruiting requirement for at least one person who uses assistive technology such as a screen readers, [specialized keyboards](http://www.infinitec.org/alternative-keyboards), and switches
 
 People with auditory impairments can be included in usability testing. [Refer to the FAQ section for tips on moderating these sessions.](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/platform/accessibility/resources#what-if-someone-with-hearing-difficulties-joins-a-session) 
 
