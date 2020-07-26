@@ -4,16 +4,17 @@
 
 Important Dates:
 ** 
- - [ ] UAT Starts 8/3
- - [ ] Go/no go Meeting 8/7
- - [ ] Prod Release 50% of Traffic  8/10
- - [ ] Full Release 100% Traffic 8/17
+ - [ ] UAT Starts 8/7
+ - [ ] Go/no go Meeting 8/11
+ - [ ] Prod Release 25% of Traffic  8/12
+ - [ ] Ramp to  50% Traffic 8/17
+ - [ ] Ramp to 100% of traffic 8/21
 
 
 ## Phase I: moderated production testing - UAT
 
 ### Planning:
-- Desired date range or test duration: [8/3 - 8/10] 
+- Desired date range or test duration: [8/7 - 8/11] 
 - Desired number of users: 5-10 depending on how many can be recruited 
 - How you'll recruit the right production test users: Perigeon 
 - How you'll conduct the testing: Zoom
@@ -31,15 +32,19 @@ Important Dates:
 
 ### Planning
 
-- Desired date range: 8/10 - 8/14
-- 50/50 traffic split, using flipper
+- Desired date range: 8/12 - 8/6
+- 25% traffic split, using flipper
 - Will evaluate number of log-ins and letter views. 
+
+-Ramp to 50% 8/17
+
+-100% of traffic to app 8/21
 
 
 ## Go Live!
 
- - Go/no go meeting 8/13
- - 8/17 Go live with 100% of traffic on va.gov 
+ - Go/no go meeting 8/11
+ - 8/121 Go live with 100% of traffic on va.gov 
 
 ### Planning:
 - Desired date: mm/dd/yy
