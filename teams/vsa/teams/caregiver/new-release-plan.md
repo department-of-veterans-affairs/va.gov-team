@@ -4,11 +4,11 @@
 
 The goal of a phased roll out is to answer these questions:
 
-- How people will naturally use your product when you're not there to guide them to it?
-- How will submitted data get to VA, and will that data will be easy or difficult for VA to process?
+- How people will naturally use our product when we're not there to guide them to it?
+- Can data successfully be submitted, and will that data will be easy or difficult for the VA to process?
 - Are people likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment?
 
-By testing products "in the wild" at a small scale, and then fixing/adjusting prior to going live to millions of VA.gov users :tada:
+We will answer these questions by testing the form "in the wild" at a small scale, and then fixing/adjusting prior to going live to users :tada:
 
 ---
 
