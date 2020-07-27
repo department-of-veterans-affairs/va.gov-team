@@ -216,6 +216,8 @@ Design
 
 Dev
 
+Anything that didn't happen last sprint (including documentation), plus...
+
 - QA — Any bug fixes that come out of QA
 - UI should scroll to alert when Address Validation screen appears #11552 
 - Make sure error messaging issues are figured out for fiduciary and DD in general (Erik should be creating tickets for this)
