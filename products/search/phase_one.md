@@ -6,17 +6,12 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 
 - [x] Set-up [Google Search Console and Bing Web Developer Tools](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9333) to analyze trends, site health, etc.
 - [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
-- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+
 
 **Discovery**
 - [ ] Generate questions to explore for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
-- [ ] Create research plan and Discovery Epic (Shawna & Liz)
-- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [ ] Create research plan and Discovery Epic (Issue #11638 Shawna & Liz)
 
-Spin-up analytics framework - Mickin
-Generate questions to explore - John
-Based on questions, recommend techniques - Liz and Shawna
-Create Discovery Epic - Liz (department-of-veterans-affairs/va.gov-team: Issue #11638)
 
 **Off-Site**
 
