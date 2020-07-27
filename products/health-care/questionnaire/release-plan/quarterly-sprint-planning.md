@@ -37,6 +37,17 @@
 ## Sprint 27 - _Sprint Theme Name_
 7/29/2020 - 7/28/2020
 - [Milestone 287](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/287)
+- [Sprint 27 Priorities #11299](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11299)
+- Status and Decisions - [July 31st](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#july-31st-2020) & [August 7th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-7th-2020) 
+- [Retrospective August 10th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-27.md) 
+
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| Stakeholder Interviews & Paper - Current State Workflows 	| -- 	|  #11037 & #10219	|
+| Define and document end of Q3 priority initiatives	| --  	| #11646| 
+| Research plan for Veteran prioritization of focus areas	| --  	| #11544| 
+| Forms Content Management Investigation (product and engineering  | --  	| #11531 	| 
+| Scheduling - Vets API	| --  	| #11514| 
 
 
 ## Sprint 26 - Discovery Readout
