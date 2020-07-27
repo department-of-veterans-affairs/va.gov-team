@@ -208,17 +208,14 @@ PM
 - Call center - Call center video
 - Call center - Complete call center review request
 - Pre-launch - Staging review 8/3
-- Pre-launch - Privacy and Security Review 
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
 - QA - Any design updates out of QA
 - Update documentation
-- Participate in reviews
 
 Dev
 
-- Participate in reviews
 - QA — Any bug fixes that come out of QA
 - UI should scroll to alert when Address Validation screen appears #11552 
 - Make sure error messaging issues are figured out for fiduciary and DD in general (Erik should be creating tickets for this)
