@@ -38,7 +38,7 @@ Users are searching for general health and benefit information, forms, and some 
 - "DD214" (~9K) is high on the list, reflecting users desire to get their military records.
 
 <details>
-  <summary><b>Top 100 search terms on the modernized VA.gov only (Source: Search.gov Sept. 2018-May 2019)</b></summary>
+  <summary><b>Top 25 search terms on the modernized VA.gov only (Source: Search.gov Sept. 2018-May 2019)</b></summary>
   
 | \(Search Term \- Lowercase\) | Percentage of Searches       |
 |------------------------------|------------------------------|
@@ -51,17 +51,17 @@ Users are searching for general health and benefit information, forms, and some 
 | jobs                         | 1.45%                        |
 | dd214                        | 1.22%                        |
 | ebenefits                    | 1.15%                        |
-| direct deposit               | 8597                         |
-| certificate of eligibility   | 8154                         |
-| dental                       | 7867                         |
-| aid and attendance           | 7492                         |
-| chapter 35                   | 6711                         |
-| agent orange                 | 6665                         |
-| careers                      | 6527                         |
-| coe                          | 6304                         |
-| tms                          | 5964                         |
-| 22-1995                      | 5716                         |
-| champva                      | 5376                         |
+| direct deposit               | 1.08%                        |
+| certificate of eligibility   | 1.01%                        |
+| dental                       | .93%                         |
+| aid and attendance           | .81%                         |
+| chapter 35                   | .80%                         |
+| agent orange                 | .75%                         |
+| careers                      | .74%                         |
+| coe                          | .74%                         |
+| tms                          | .74%                         |
+| 22-1995                      | .71%                         |
+| champva                      | .69%                         |
 | id card                      | 5004                         |
 | va forms                     | 4629                         |
 | gi bill                      | 4466                         |
