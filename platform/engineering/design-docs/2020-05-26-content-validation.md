@@ -66,7 +66,7 @@
 
 ### Objective
 
-The objective here is to define an updated approach to validate the CMS content. Specifically, this design doc focuses on identifying accessibility errors and/or broken links coming from the CMS content.
+The objective here is to ensure that CMS content is still being validated once the `content-build` has been successfully extracted from the `vets-website` repo.
 
 This design document is intended for front end and DevOps engineers on the Veteran-facing Services Platform (VSP) and CMS teams.
 
