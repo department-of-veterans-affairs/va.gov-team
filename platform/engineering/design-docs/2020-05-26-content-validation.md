@@ -141,6 +141,7 @@ If there are broken links, the `glean-broken-links` script displays the broken l
 2. The `buildAll` function from `common.groovy` calls the `build` function from `common.groovy`
 3. The `build` function from `common.groovy` calls the `checkBrokenLinks` function from `common.groovy`
 4. The `checkBrokenLinks` function from `common.groovy` calls the `glean-broken-links.sh` script
+   - The `glean-broken-links.sh` script produces a CSV file of broken links when broken links are detected.
 5. If the `checkBrokenLinks` function from `common.groovy` detects a file of broken links, then it logs and sends a Slack notification in all environments, and throws an error to block the build on the `master` branch
 
 ###### Screenshot of broken links in the build log
@@ -155,26 +156,26 @@ Link checking was also added to the CMS. That means every time a node is saved, 
 
 ##### Accessibility Checking
 
-The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81)), which only happens during the full `vets-website` build.
+The accessibility checks only happen in CI ([the Integration step in Jenkins](https://github.com/department-of-veterans-affairs/vets-website/blob/master/Jenkinsfile#L81)), which only happens during the [full](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/deploy/#full-deploy-of-vagov-client-app) `vets-website` build.
+
+**The accessibility checks are skipped during a content-only deploy.**
 
 Before accessibility checks can be run, the sitemap is generated via the [`create-sitemap` Metalsmith plugin](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/create-sitemaps.js). Nightwatch iterates over all the paths found in the sitemap, and runs the [aXe accessibility checker](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to look for violations.
 
 When violations are found, the build breaks and violations must be reported manually.
-
-The accessibility checks are skipped during a content-only deploy.
 
 Additionally, we have the preview server which shows content editors any accessibility violations, but they must deliberately go to the server from a link in Drupal to see this.
 
 Code Path for the `inject-axe-core` Metalsmith plugin
 
 1. Jenkins calls the `build` npm script from `package.json`
-1. The `build` npm script from `package.json` calls the `build.sh` script
-1. The `build.sh` script calls the `build:content` npm script
-1. The `build:content` npm script calls the `build-content.sh` script
-1. The `build-content.sh` script imports the `build` Metalsmith script
-1. The `build` Metalsmith script imports the `inject-axe-core` Metalsmith plugin
-1. The `inject-axe-core` Metalsmith plugin calls the `execute-axe-check` function
-1. The `execute-axe-check` function prepends warning messages on staging's page preview
+2. The `build` npm script from `package.json` calls the `build.sh` script
+3. The `build.sh` script calls the `build:content` npm script
+4. The `build:content` npm script calls the `build-content.sh` script
+5. The `build-content.sh` script imports the `build` Metalsmith script
+6. The `build` Metalsmith script imports the `inject-axe-core` Metalsmith plugin
+7. The `inject-axe-core` Metalsmith plugin calls the `execute-axe-check` function
+8. The `execute-axe-check` function prepends warning messages on staging's page preview
 
 ![screenshot of code path for inject-axe-core Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714544-854efe80-c771-11ea-960d-3aeff56e00d7.png)
 
