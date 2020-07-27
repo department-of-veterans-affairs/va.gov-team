@@ -19,7 +19,7 @@ Our goal is to improve the in-person and online pre- and post-appointment experi
 - hypothesis 1
 
 ## Method	
-We will conduct remote moderated hybrid card sort exercises via Zoom using the Perigean contract. This method will allow us prioritize our existing list of priorities while also learning about new potential areas to explore through Veteran created categories. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
+We will conduct remote moderated hybrid card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran created categories. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
 
 - Card sort link
 - Prototype link
