@@ -41,7 +41,7 @@ We will be using remote participation in light of COVID-19 and will work with Pe
 
 We would like to begin testing the week of August 3rd. We will have participants walk through their experience with IRIS in its current state. Each session will be one hour long.
 
-Availability Monday to Friday Ideally 11 - 4 EST 
+Availability Monday to Friday 9 - 5 EST 
 
 This research plan has been reviewed with the IRIS team.
 
