@@ -2,6 +2,75 @@
 
 ## mm/dd/yy
 
+## 07/27/20
+
+### Outcome of accessibility review and design decisions
+
+1/ __Video template:__ To ensure a better experience for mobile users and users on slow Internet connections, we will provide a 4-phased progressive FE experience. [See ticket #11497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11497)
+
+Impacts: Design + FE engineering
+
+2/ Audience links in the __Find articles by audience__ boxes:
+
+__On desktop – no change for MVP:__
+
+•	Default show 5 per box
+
+•	Expand to show up to 10
+
+o	  Future state when there are 10+ audience links in each box, we’ll use the same “View all…” ux as the topic links. User clicks View all > go to landing page showing all audiences as a list. 
+
+__On mobile:__
+
+•	Each audience box becomes an accordion
+
+•	On expand, all audience links are viewable
+o	    Future state mobile: when there are 10+ audience links in each box: we’ll create a different UX, as we don’t want an accordion to expand and require another click from inside an accordion to see all.
+
+Impacts: Design + FE engineering 
+
+3/ __Find articles by topic__ section
+- We will not hide category articles in accordions. (Poor UX to hide 5 articles, expand 5, and in expanded view make them click again to see all the rest.)
+
+- We will surface up to 5 each topic category, with a ‘view all’ link as currently.
+
+- First mvp 1.0 (Oct/Nov) will likely only have 2 categories; next mvp (Nov/Dec) will have more categories, as more IRIS FAQs are migrated
+
+_Design change - for post-mvp state:_
+
+•	We will expose the first 6 category topics – TBD alphabetically or curated
+
+•	We will include a ‘show more topics’ affordance to enable users to expose additional topic categories on the page
+
+Impacts: Design + FE engineering + Content
+
+
+4/ __Tags__
+
+•	Tags will have a character max limit of 70 with spaces (matches our Learning center H1 and H2 limits)
+
+•	Tags will be stacked if multiple tags fit over a line or in mobile
+
+•	In mobile, the tag dimension will expand vertically to accommodate text wrapping
+
+- In mobile, we may combine topic and audience tags under a single label "Tags" - for better stackability in mobile; we will adapt the same design on desktop. 
+
+Impacts: Design + CMS + FE engineering
+
+_Reminder re current tag requirements: There is a max 3 audience tags limit per article. We haven’t set a specific number yet for topic tags, but there will also be a max limit to ensure content authors are not tagging an article with everything and diluting search/filter relevance._
+
+~5/ Print button on Checklist~  We are not providing a 'print' feature in LC mvp.
+
+
+6/ __Back to top__ feature
+
+•	We will provide a Back to top link that is triggered on page height. It will be sticky. [See ticket 11498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11498)
+
+Impacts: Design + FE engineering
+
+
+
+
 ## 07/20/20
 Summary of roadmap sessions with CMS team (Kevin, Steve, Clarence, Oksana, Jeff Barnes); Jen Lee (PW); and Dave Conlon (VAMC Upgrade+Facilities)
 
@@ -27,7 +96,9 @@ Learning Center:
 
 __MVP launch of learning center__
 - MVP content: VA account and profile articles
+
 - MVP templates: About, FAQs, Step-by-step's
+
 - Target launch eta: Oct/Nov
 
 __Status:__
