@@ -5,7 +5,7 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 **Foundational**
 
 - [x] Set-up [Google Search Console and Bing Web Developer Tools](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9333) to analyze trends, site health, etc.
-- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [ ] Create SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
 
 
 **Discovery**
