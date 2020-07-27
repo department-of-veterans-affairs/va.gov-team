@@ -18,8 +18,9 @@
       - [Amazon S3](#amazon-s3)
       - [Current state](#current-state)
         - [Broken Link Checking](#broken-link-checking)
-          - [Code Path for the `glean-broken-links` script](#code-path-for-the-glean-broken-links-script)
-          - [Screenshot of broken links in the build log](#screenshot-of-broken-links-in-the-build-log)
+          - [The `check-broken-link` Metalsmith middleware](#the-check-broken-link-metalsmith-middleware)
+          - [The `glean-broken-links` script](#the-glean-broken-links-script)
+          - [CMS Broken Link Checking](#cms-broken-link-checking)
         - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
         - [Content Writers](#content-writers)
@@ -113,6 +114,8 @@ The frontend of VA.gov is served as static files via Amazon S3. Since `vets-webs
 
 ##### Broken Link Checking
 
+###### The `check-broken-link` Metalsmith middleware
+
 The [`check-broken-link` middleware](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/plugins/check-broken-links/index.js) is a Metalsmith plugin that happens near the end of the Metalsmith static content build pipeline. It does the following:
 
 1. Loop through all of the HTML files in memory in the Metalsmith pipeline
@@ -128,12 +131,15 @@ Code Path for the `check-broken-links` Metalsmith plugin
 4. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
 5. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
 6. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
+7. The `check-broken-links` plugin calls the `getBrokenLinks` helper to build up an array of broken links
+8. The array of broken links from the `getBrokenLinks` helper is used by the `getErrorOutput` helper to build a CSV of broken links
+9. The `check-broken-links` plugin logs the broken links in the build console
 
 ![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
-If there are broken links, the `glean-broken-links` script displays the broken links in the build log in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
+If there are broken links, the `glean-broken-links` script the build log, and create a file of broken links in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
 
-###### Code Path for the `glean-broken-links` script
+###### The `glean-broken-links` script
 
 ![screenshot of code path for glean-broken-links script](https://user-images.githubusercontent.com/6130520/88299641-33a1f900-ccc8-11ea-9029-476f8222ee79.png)
 
@@ -144,11 +150,11 @@ If there are broken links, the `glean-broken-links` script displays the broken l
    - The `glean-broken-links.sh` script produces a CSV file of broken links when broken links are detected.
 5. If the `checkBrokenLinks` function from `common.groovy` detects a file of broken links, then it logs and sends a Slack notification in all environments, and throws an error to block the build on the `master` branch
 
-###### Screenshot of broken links in the build log
-
 ![broken links in the build log](https://user-images.githubusercontent.com/6130520/83812868-def7df80-a681-11ea-904a-b9bd62ea8b67.png)
 
 Example Slack notification sent to #cms-team channel: https://dsva.slack.com/archives/CT4GZBM8F/p1594936012465200
+
+###### CMS Broken Link Checking
 
 Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) is tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
