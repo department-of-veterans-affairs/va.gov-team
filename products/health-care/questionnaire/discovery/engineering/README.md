@@ -20,6 +20,8 @@
 
 Veterans are unable to consistently share and update current health status and medical history that is leveraged in their care across the VA and community providers
 
+[Read more about our North Star](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#measure-success)
+
 ## Introduction
 
 Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
@@ -106,6 +108,8 @@ My desired next steps if I were to continue down this route:
 - I want to pull in data from some other API
 - I would refactor the Authentication-recommended page.
 - Create unit tests
+
+Currently, the only way the update the form content, both the structure and the text the user sees, is through a pull request to the code base. This is a technical process, that is built for developers. This might be a very high level to get this to work properly.
 
 ### Healthcare wizard
 
@@ -233,7 +237,11 @@ To better understand how to add a new controller, we have gathered these resourc
 
 > What does the current CMS step up look like?
 
+Currently the CMS is being used for static webpages and static content. On build, the website is rebuilt from a Drupal instance on every deployment,
+
 > Can we leverage a CMS for form wording?
+
+Currently no, the Forms team has indicated this is not a feature and to update anything its on someone to create a pull request. This is not on the Forms team road map.
 
 ---
 
