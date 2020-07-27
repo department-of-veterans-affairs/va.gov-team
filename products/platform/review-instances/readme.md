@@ -25,6 +25,9 @@ Review Instances currently are a shared responsibility by the FE/ BE Tools and O
 - [Demo](https://dsva.slack.com/files/UJ2JYB7D2/FTYTGNLMV/review_instance_demo.mp4)
 - [Feedback](https://dsva.slack.com/archives/CBU0KDSB1/p1581361696135200)
 
+## Discovery
+- [Review instances for vets-website](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/5910)
+
 ## Version Notes:
 ### Release v2.0
 - Review instances are connected to pre production live backends. 
