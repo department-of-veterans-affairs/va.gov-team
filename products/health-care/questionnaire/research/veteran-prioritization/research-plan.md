@@ -1,3 +1,9 @@
+**To Do:**
+- [ ] Determine plan for sort and mockup testing
+- [ ] Create card sort study
+- [ ] Create conversation guide
+- [ ] Create static mockup
+- [ ] Review mockup with VSP
 
 # Research Plan for Healthcare Experience Team August 2020 
 ## Goals	
