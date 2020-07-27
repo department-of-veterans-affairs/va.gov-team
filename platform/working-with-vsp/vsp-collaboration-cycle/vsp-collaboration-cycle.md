@@ -316,7 +316,7 @@ You bring:
 - Verify low-level accessibility tests are complete. Choose one of these 2 options:
   - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
-  - Certify the checklist of accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can begin their review on time.
+  - Certify the checklist of required accessibility items in the staging review issue. All required items should be checked off so the accessibility specialist can start their review on time.
   - **Required accessibility checklist**
     - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
     - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
@@ -420,7 +420,7 @@ You bring:
 - Verify low-level accessibility tests are complete. Choose one of these 2 options:
   - **(preferred)** Use the [TestRail VSP low-level accessibility testing checklist](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc).
   <br/>**OR**
-  - Certify the checklist of accessibility items in the audit request issue
+  - Certify the checklist of required accessibility items in the audit request issue
   - **Required accessibility checklist**
     - [ ] [Axe scans in daily development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-daily-development)
     - [ ] [Axe scans included in end-to-end tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1Copenut-a11y-checklists/platform/accessibility/guidance/staging-review-processes.md#axe-scans-in-end-to-end-tests)
