@@ -43,11 +43,11 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| Stakeholder Interviews & Paper - Current State Workflows 	| -- 	|  #11037 & #10219	|
-| Define and document end of Q3 priority initiatives	| --  	| #11646| 
-| Research plan for Veteran prioritization of focus areas	| --  	| #11544| 
-| Forms Content Management Investigation (product and engineering  | --  	| #11531 	| 
-| Scheduling - Vets API	| --  	| #11514| 
+| Stakeholder Interviews & Paper - Current State Workflows 	 	| -- |  #11037 & #10219	|
+| Define and document end of Q3 priority initiatives	 	| -- | #11646| 
+| Research plan for Veteran prioritization of focus areas	  	| -- | #11544|
+| Scheduling - Vets API	 	| -- | #11514| 
+| Tech Arch diagram and form Questions as a Service | -- |  #10485 |
 
 
 ## Sprint 26 - Discovery Readout
@@ -59,10 +59,10 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| Research plan for stakeholder interviews	| reason if not complete by EOS 	|  #11037	|
-| Product documentation for initial draft of Epics	| --  	| #10664 	| 
-| APIs and or interfaces into both EHR’s 	| --  	| #10223	| 
-| Complete Tech Feasibility Documentation	| --  	| #11027  	| 
+| Research plan for stakeholder interviews	| not complete 	|  #11037	|
+| Product documentation for initial draft of Epics	| complete  	| #10664 	| 
+| APIs and or interfaces into both EHR’s 	| complete 	| #10223	| 
+| Complete Tech Feasibility Documentation	| complete	| #11027  	| 
 
 
 
