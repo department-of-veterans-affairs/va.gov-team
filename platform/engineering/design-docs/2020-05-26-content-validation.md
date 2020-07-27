@@ -120,6 +120,17 @@ The [`check-broken-link` middleware](https://github.com/department-of-veterans-a
 3. Formats the result into useful console output
 4. Blocks the deployment on production or logs the error output on lower environments
 
+Code Path for the `check-broken-links` Metalsmith plugin
+
+1. `package.json`’s `build-content` script gets called
+2. `script/build-content.js` calls the build script for Metalsmith
+3. `src/site/stages/build/index.js` calls the `check-broken-links` plugin
+4. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
+5. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
+6. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
+
+![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
+
 If there are broken links, the `glean-broken-links` script displays the broken links in the build log in a Comma-Separated Value (CSV) format. If broken links are found on the `master` branch, then an exception is thrown during the Jenkins job to block the deploy.
 
 ###### Code Path for the `glean-broken-links` script
@@ -141,17 +152,6 @@ Example Slack notification sent to #cms-team channel: https://dsva.slack.com/arc
 Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) is tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
 ![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
-
-Code Path for the `check-broken-links` Metalsmith plugin
-
-1. `package.json`’s `build-content` script gets called
-2. `script/build-content.js` calls the build script for Metalsmith
-3. `src/site/stages/build/index.js` calls the `check-broken-links` plugin
-4. `src/site/stages/build/plugins/check-broken-links/index.js` calls the `getBrokenLinks` helper
-5. `src/site/stages/build/plugins/check-broken-links/helpers/getBrokenLinks.js` calls the `isBrokenLink` function
-6. `src/site/stages/build/plugins/check-broken-links/helpers/isBrokenLink.js` checks if an internal `href`/`src` value is included a specific array of paths
-
-![screenshot of code path for check-broken-links Metalsmith plugin](https://user-images.githubusercontent.com/6130520/87714554-8849ef00-c771-11ea-8f20-ed52af7fcd3a.png)
 
 ##### Accessibility Checking
 
