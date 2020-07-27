@@ -233,8 +233,8 @@ If these aren't already done:
 Cassandra
 
 - Intro to the project with Tressa
-- Review discovery findings #10121
-- Review journey maps #10120
+- Review discovery findings #10121 (we can create new tickets for Cassandra)
+- Review journey maps #10120 (we can create new tickets for Cassandra)
 
 Tressa & Cassandra
 
