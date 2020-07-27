@@ -5,7 +5,18 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 **Foundational**
 
 - [x] Set-up [Google Search Console and Bing Web Developer Tools](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/9333) to analyze trends, site health, etc.
-- - [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+
+**Discovery**
+- [ ] Generate questions to explore for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
+- [ ] Create research plan and Discovery Epic (Shawna & Liz)
+- [x] Review of SEO Site Audit reports to determine if there are high priority fixes and optimizations that require attention.  [Ticket with audit results here.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11026)
+
+Spin-up analytics framework - Mickin
+Generate questions to explore - John
+Based on questions, recommend techniques - Liz and Shawna
+Create Discovery Epic - Liz (department-of-veterans-affairs/va.gov-team: Issue #11638)
 
 **Off-Site**
 
@@ -15,6 +26,7 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 
 **On-Site**
 
+- [ ] Determine better process of on-going management of Best Bets/Top Recommendations with Danielle
 - [ ] Implementation of Click Tracking javascript code snippet via Search.gov
 - [ ] Implementation of [Type-ahead feature](https://github.com/department-of-veterans-affairs/va.gov-team/issues/8896) via Search.gov API.
 - [ ] Review and update of VA.gov [Best Bets/Top Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9538), with goal of determining how to manage more consistently, effectively
