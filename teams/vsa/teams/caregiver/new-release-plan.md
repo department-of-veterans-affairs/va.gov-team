@@ -25,7 +25,7 @@ We will answer these questions by testing the form "in the wild" at a small scal
 
 ---
 
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+## Phase I: moderated production testing
 
 ### Planning:
 - Desired date range or test duration: 1 month (dates TBD)
