@@ -93,7 +93,13 @@ Users are searching for general health and benefit information, forms, and some 
   
   - **0 result searches:** NEED THIS ONE.  (Note: Users have information needs they expect you to satisfy, yet you are unable to serve them. May also indicate misspellings or typos that you’re not handling.)
   
-***4. ?***
+***4. What is click depth (what position in the search results is clicked on)?***
+
+***5. Percentage of Search refinements?***
+
+The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
+
+***6. TBD***
 
 ## Off-Site Search*
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
