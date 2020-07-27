@@ -24,16 +24,16 @@ These interviews will be recorded and moderated remotely using Zoom.
 ## Participants and Recruitment
 Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
 
-We are seeking 5 participants and will work with Perigean to recruit participants. Criteria:
+We are seeking 5 participants and will work with Perigean to recruit participants. 
+
+Criteria:
 - Veterans, Service members, National Guard and Reserve, Their family members and friends
-- Participant has used IRIS in the past 6 months and ideally can speak to the challenges they make have experienced with it.
+- Participant has used IRIS (https://iris.custhelp.va.gov/app/ask) in the past 6 months and ideally can speak to the challenges they make have experienced with it.
 - Mix of genders
 - Mix of ages
 
 Bonus: 
 - Those with accessibility requirements and overseas locations (either currently or recently stationed overseas)
-- Participants who are available for follow up sessions for future showcases and getting feedback
-
 
 We will be using remote participation in light of COVID-19 and will work with Perigiean on recruitment likely from their existing sources.
 
@@ -58,6 +58,7 @@ Helen Shin hshin@thoughtworks.com,
 Katie Ho kho@thoughtworks.com, 
 Ramya Ramesh ramyar@thoughtworks.com, 
 Shefali Nayak shefali.nayak@thoughtworks.com
+chante.lantosswett@va.gov
 
 
 ## Resources
