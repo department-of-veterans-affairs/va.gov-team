@@ -432,7 +432,7 @@ If you don’t have a bank account, or don’t wish to provide your bank account
 * Apply at [www.usdirectexpress.com](www.usdirectexpress.com) **or**  
 * Call [1-800-333-1795]()  
 
-If you choose not to enroll, you’ll need to call the Department of Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
+If you choose not to enroll, you’ll need to call the Department of the Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
 
 
 [ Back | Continue ] { buttons }   
