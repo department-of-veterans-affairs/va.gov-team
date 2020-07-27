@@ -62,11 +62,11 @@ Users are searching for general health and benefit information, forms, and some 
 | tms                          | .74%                         |
 | 22-1995                      | .71%                         |
 | champva                      | .69%                         |
-| id card                      | 5004                         |
-| va forms                     | 4629                         |
-| gi bill                      | 4466                         |
-| dbq                          | 3985                         |
-| suicide                      | 3946                         |
+| id card                      | .67%                         |
+| va forms                     | .62%                        |
+| gi bill                      | .62%                         |
+| dbq                          | .56%                         |
+| suicide                      | .55%                         |
 
   
 </details>
