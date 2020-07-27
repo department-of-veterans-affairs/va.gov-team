@@ -1,4 +1,4 @@
-# Research plan for usability testing for Form 21-686c / staging environment
+# Research plan for user acceptability testing (UAT) for Form 21-686c / staging environment
 **VSA eBenefits Team | August 2020**
 
 `James Adams, designer/researcher`
