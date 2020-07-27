@@ -205,12 +205,17 @@ Let's focus on Profile 2.0 for at least one more sprint before moving on to LIH.
 
 PM
 
+Anything that didn't happen last sprint, plus...
+
 - Call center - Call center video
 - Call center - Complete call center review request
 - Pre-launch - Staging review 8/3
 - Pre-launch - Work with VA comms to figure out how we should communicate internally/externally about this feature update
 
 Design
+
+Anything that didn't happen last sprint, plus...
+
 - QA - Any design updates out of QA
 - Update documentation
 
@@ -255,6 +260,10 @@ Tressa & Cassandra
 
 - Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 - Figure out why it appears we are sending more direct deposit confirmation emails than there are direct deposit submissions #11528 (unless this is already done)
+
+### Onboarding Cassandra
+
+- Onboard Cassandra #11348 (only if she didn't finish this by the beginning of the sprint)
 
 ## Sprint 28 (8/12 – 8/25)
 
