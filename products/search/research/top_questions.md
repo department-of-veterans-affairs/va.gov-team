@@ -85,11 +85,9 @@ Users are searching for general health and benefit information, forms, and some 
 | 22-1995                      | 9.30                         |
 | certificate of eligility     | 3.62                         |
 | aid and attendance           | 3.00                         |
-| chapter 35                   | 2.14%                        |
-| jobs                         | 1.45%                        |
-| dd214                        | 1.22%                        |
-| ebenefits                    | 1.15%                        |
-| direct deposit               | 1.08%                        |
+| chapter 35                   | 7.83                         |
+| dd214                        | 2.77                         |
+| direct deposit               | 4.00                         |
 
   
   
