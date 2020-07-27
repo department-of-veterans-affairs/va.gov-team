@@ -2,7 +2,7 @@
 - [x] Break sections of form into pages [Ticket]() [PR]()
 - [x] Change JSON schema to fix zip code [Ticket]() [PR]()
 - [ ] Testing/setting up of GA Dashboard [Ticket]() [PR]()
-- [ ] Check in with QA on testing [Ticket]() [PR]()
+- [x] Check in with QA on testing [Ticket]() [PR]()
 - [ ] QA ticket/set up end-to-end tests [Ticket]() [PR]()
 
 ## Backend
