@@ -78,7 +78,7 @@ Users are searching for general health and benefit information, forms, and some 
   - **Paging:** The average number of pages a user viewed after conducting a search: 3.36 (viewing 1 page is considered optimal)
   - **Average Search Depth** While the average search depth (e.g., The number of pages visitors viewed after getting results for the search term) is 1.50, some of VA.gov's most popular search terms show a far more significant search depth.
 
-| \(Search Term \- Lowercase\) | Percentage of Searches       |
+| \(Search Term \- Lowercase\) | Average Page Depth           |
 |------------------------------|------------------------------|
 | benefits                     | 2.28                         |
 | ebenefits                    | 3.00                         |
