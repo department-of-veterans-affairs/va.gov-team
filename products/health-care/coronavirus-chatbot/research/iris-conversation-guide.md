@@ -72,9 +72,9 @@ We'd love for you to share your screen...
 
 - What works well with IRIS?
 
-- What doesn’t work well?  How well would you say you are with the categories in the Inquiry Topic and Type drop down
+- What doesn’t work well?  How well would do the categories in the Inquiry Topic and Type drop down page work?
 
-- Say you have experienced a problem with IRIS - how would you resolve it? What would you do if you couldn't find an answer to your question with IRIS?
+- Say you have experienced a problem with IRIS - how would you resolve it? What would you do if you couldn't find an answer to your question with IRIS? When would you contact the support team?
 
 - Is there anything missing that you expected to see in IRIS? Any functionality/something you’d like to be able to do or content you expect to use?
 
