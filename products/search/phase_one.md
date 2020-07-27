@@ -9,7 +9,7 @@ While [Discovery activities continue](https://github.com/department-of-veterans-
 
 
 **Discovery**
-- [ ] Generate questions to explore for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
+- [ ] Generate [questions to explore](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/research/top_questions.md) for Analytics evaluation of Search Performance; Spin up analytics framework (w/Mickin)
 - [ ] Create research plan and Discovery Epic (Issue #11638 Shawna & Liz)
 
 
