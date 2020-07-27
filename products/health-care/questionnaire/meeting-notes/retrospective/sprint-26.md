@@ -1,5 +1,5 @@
 
-# Discovery Sprint 26 - Discovery Readout (7/15/2020 - 7/11/2020)
+# Discovery Sprint 26 - Discovery Readout (7/15/2020 - 7/28/2020)
 
 <img src="https://lh6.googleusercontent.com/kWrGL5POxC4OjxYqvgkV0Fjx42Sg-fduXpK6P72ebRlCKWaYbOo5RvoKGcWqLNFz_L8OB0JDprRvx1OFtUZ0GKdsf0tMYS15kswTIrvE9fYUZnwdZHv4wIJ9BMrcq-sbp8Bm_nT6" width="500">
 
