@@ -6,7 +6,7 @@
 - Slack channel: [#va-search](https://dsva.slack.com/channels/va-search)
 - Product POCs: 
    - John Hashimoto, DSVA @John Hashimoto
-   - Mickin Sahni,VSA/AdHoc 
+   - Mickin Sahni, VSA/AdHoc 
 - Engineering POCs:
    - Nick Sullivan, VSA/AdHoc @Nick Sullivan
 - Search.gov POC: 
