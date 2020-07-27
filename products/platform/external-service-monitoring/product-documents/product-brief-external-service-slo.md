@@ -25,7 +25,9 @@ At any time, anyone can use Grafana (links provided in each service definition d
 ### Point of contact
 
 Engineer: Keifer Furzland
+
 Team: BE Tools
+
 PM: Alex Pappas
 
 ------
