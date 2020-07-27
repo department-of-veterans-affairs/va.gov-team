@@ -35,7 +35,7 @@
 - [Milestone 288](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/288)
 
 ## Sprint 27 - _Sprint Theme Name_
-7/29/2020 - 7/28/2020
+7/29/2020 - 8/11/2020
 - [Milestone 287](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/287)
 - [Sprint 27 Priorities #11299](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11299)
 - Status and Decisions - [July 31st](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#july-31st-2020) & [August 7th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-7th-2020) 
@@ -51,11 +51,11 @@
 
 
 ## Sprint 26 - Discovery Readout
-7/15/2020 - 7/11/2020
+7/15/2020 - 7/28/2020
 - [Milestone 286](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/286)
 - [Sprint 26 Priorities #11032](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11032)
 - Status and Decisions - [July 17th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#july-17th-2020) & [July 24th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#july-24th-2020) 
-- [Retrospective July 26th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-26.md) 
+- [Retrospective July 27th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-26.md) 
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
