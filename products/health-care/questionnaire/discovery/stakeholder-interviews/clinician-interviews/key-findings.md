@@ -1,7 +1,7 @@
 # Healthcare Experience Clinician Interviews - Key Findings [WIP]
 **Digital Services Veterans Affairs (DSVA), VSA, Healthcare Experience**
 
-View the [Research Plan]()
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/stakeholder-interviews/clinician-interviews/research-plan.md)
 
 ## Research Goals 
 
