@@ -43,30 +43,30 @@ Users are searching for general health and benefit information, forms, and some 
 | \(Search Term \- Lowercase\) | Percentage of Searches       |
 |------------------------------|------------------------------|
 | loans                        | 4.11%                        |
-| benefits                     |                        |
-| health                       | 58827                        |
-| forms                        | 24197                        |
-| jobs                         | 13494                        |
-| direct deposit               | 12723                        |
-| ebenefits                    | 10335                        |
-| tms                          | 10240                        |
-| cemetery                     | 9726                         |
-| dd214                        | 8597                         |
+| benefits                     | 3.79%                        |
+| pension                      | 3.67%                        |
+| burials                      | 3.24%                        |
+| health                       | 3.23%                        |
+| forms                        | 2.14%                        |
+| jobs                         | 1.45%                        |
+| dd214                        | 1.22%                        |
+| ebenefits                    | 1.15%                        |
+| direct deposit               | 8597                         |
 | certificate of eligibility   | 8154                         |
-| vatas                        | 7867                         |
-| 22\-1995                     | 7492                         |
-| careers                      | 6711                         |
-| vet\_center                  | 6665                         |
-| va forms                     | 6527                         |
-| dental                       | 6304                         |
-| agent orange                 | 5964                         |
-| dbq                          | 5716                         |
-| chapter 35                   | 5376                         |
-| aid and attendance           | 5004                         |
-| coe                          | 4629                         |
-| mission act                  | 4466                         |
-| urgent care                  | 3985                         |
-| champva                      | 3946                         |
+| dental                       | 7867                         |
+| aid and attendance           | 7492                         |
+| chapter 35                   | 6711                         |
+| agent orange                 | 6665                         |
+| careers                      | 6527                         |
+| coe                          | 6304                         |
+| tms                          | 5964                         |
+| 22-1995                      | 5716                         |
+| champva                      | 5376                         |
+| id card                      | 5004                         |
+| va forms                     | 4629                         |
+| gi bill                      | 4466                         |
+| dbq                          | 3985                         |
+| suicide                      | 3946                         |
 
   
 </details>
