@@ -225,7 +225,6 @@ Anything that didn't happen last sprint (including documentation), plus...
 
 - QA — Any bug fixes that come out of QA
 - UI should scroll to alert when Address Validation screen appears #11552 
-- Make sure error messaging issues are figured out for fiduciary and DD in general (Erik should be creating tickets for this)
 
 If these aren't already done:
 
@@ -250,7 +249,6 @@ Tressa & Cassandra
 
 **Dev**
 
-- Beta/Opt-in discovery #10476
 - Investigate showing upcoming appointments #10247
 - Investigate level of effort for showing overall disability rating #10249
 - Investigate level of effort for showing GI Bill benefits balance #10255
