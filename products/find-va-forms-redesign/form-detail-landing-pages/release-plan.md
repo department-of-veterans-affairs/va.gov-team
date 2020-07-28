@@ -6,11 +6,16 @@
 
 ### Planning:
 
-- Desired date range or test duration: 5 business days
-- Desired number of users: 10
-- How you'll recruit the right production test users: PW team and DEPO volunteers
-- How you'll conduct the testing: Provide people a list of forms to search and links to test
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: This is a CMS content product, so it is only available on prod. 
+- **Desired date range or test duration:**
+  - 5 business days
+- **Desired number of users:** 
+  - 10
+- **How you'll recruit the right production test users:** 
+  - PW team and DEPO volunteers
+- **How you'll conduct the testing:** 
+  - Provide people a list of forms to search and links to test
+- **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
+  - This is a CMS content product, so it is only available on prod. 
 
 ### Results:
 
