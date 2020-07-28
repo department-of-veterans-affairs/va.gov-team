@@ -201,6 +201,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 * Conduct baseline usability tests on live Facility Locator to gather more data on user's actual experience with browsers, load times and search experiences.
   * include a subset of usability tests on mobile or create a separate study with a mobile first focus.
 * Share relevant findings with other teams and stakeholders.
+* Continue research on usability issues such as scrolling.
 
 ## Appendix
 
