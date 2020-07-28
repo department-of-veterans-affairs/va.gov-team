@@ -4,7 +4,11 @@
 
 ### Agenda
 
-1. Review backlog 
+0. Q: What are we able to/not able to do until a page is live in Drupal Prod:
+ * Analytics implementation?
+ * Accessibility checks?
+ * Anything else?
+1. Review LC backlog 
 2. Demo 
 3. Governance discovery
 4. Content reusability across products (eg Q&As)
