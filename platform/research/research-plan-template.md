@@ -15,10 +15,21 @@ As a designer I need to create a research plan to share with my team.	(This shou
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
 ## Participants and Recruitment	
-1.	Participant criteria: What are you looking for in a participant?	
+1.	Participant criteria: What are you looking for in a participant?	  
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
+
+Please list your participant criteria in two categories-
+1. **Primary criteria / Must have** - what absolutely must be true in order to run your study? The clearer you can write this criteria, the easier it is to find matches for your study. (i.e. if your study will only work if you're talking to Veterans who have My HealtheVet premium accounts, mention that here. OR, if you are using a prototype tool that will not work well with screen readers, mention that as well.) 
+
+2. **Secondary criteria / Would like to have** - what other criteria would strengthen your results?
+
+*Pro tips for writing recruiting critera:* 
+- If you have specific screener questions that YOU would ask a potential participant to determine eligibility for your study, list them here. For example, instead of saying "We want someone who has been to an urgent care facility recently", say "Have you been to an urgent care facility in the last 6 months? (Answer should be yes)"
+- Do not assume that your recruiters or the participants know your products or requirements as well as you do. Provide links to products, clear descriptions, specifics, etc. 
+
 2.	What is your recruitment strategy? 	
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)	
+(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract - Perigean - or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact Research Contract Lead.)	
+
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 	
