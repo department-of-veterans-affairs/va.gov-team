@@ -219,6 +219,21 @@ add these two lines:
  attributes.delete('expires_in')
 ```
 
+**Other FHIR based clients**
+
+Lighthouse is FHIR based
+
+There is a rails FHIR client which also supports DSTU2:
+https://github.com/fhir-crucible/fhir_client
+
+This client easily works with this publicly available FHIR sandbox:
+https://www.logicahealth.org/solutions/fhir-sandbox/
+
+However, getting it to work with lighthouse is a different problem because lighthouse uses an Open ID Connect layer above OAuth 2 for authorization whereas these tools use just OAuth 2
+
+With regards to FHIR, this list seems useful for a high level look at the resources that FHIR defines
+https://www.hl7.org/fhir/resourcelist.html
+
 ---
 
 ### VistA API
@@ -294,3 +309,13 @@ After the initial demo, we have found a list questions that need to be answered.
 > Which system does the user data come from?
 
 > For upcoming appointments screen, what would it take to integrate a form link there?
+
+---
+
+## VA Gov research using vets-web frontend
+
+The vets-web front end mocks some of the data, that is it has 
+fake data that it uses locally. This may is important to note when using the
+the front end to research the functionality of VAOS or other backend functionality. 
+The same thing may be happening in the staging environment. There are some settings in vets-web that can
+turn of mocking where in the code there is a USE_MOCK_DATA constant
