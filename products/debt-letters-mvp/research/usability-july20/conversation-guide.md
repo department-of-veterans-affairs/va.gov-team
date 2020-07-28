@@ -34,7 +34,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Interview Questions - 10 min
+## Interview Questions - 13 min
 
 - Before we jump into the session, can you describe your experience with VA debts?
 - What did you think about the way your debt was communicated to you?
