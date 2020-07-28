@@ -34,7 +34,7 @@ What guided the research was "what all is possible". Since this is a new team wi
 
 ## Proposed Solutions
 
-Can we build a simple, prepopulated form, that sends data to cliniations in a timely manner.
+Can we build a simple, pre-populated form, that sends data to cliniations in a timely manner.
 
 ---
 
@@ -82,6 +82,8 @@ One of the north stars of the team is to make the clipboard process as frictionl
 
 Yes, we can, if the user is logged in, we access basic demographic information.
 
+TODO: list out information and find out where this is coming from,
+
 > Can we force authentication on a form?
 
 Yes. This feature is built into the existing forms system. We can custom the flow as well if need be.
@@ -110,6 +112,12 @@ My desired next steps if I were to continue down this route:
 - Create unit tests
 
 Currently, the only way the update the form content, both the structure and the text the user sees, is through a pull request to the code base. This is a technical process, that is built for developers. This might be a very high level to get this to work properly.
+
+TODO: talk about more about sessions storage and persisting data for un-authed
+
+TODO: pros and cons section of custom vs forms system
+
+no site has control over the form
 
 ### Healthcare wizard
 
@@ -288,7 +296,7 @@ To better understand how to add a new controller, we have gathered these resourc
 
 > What does the current CMS step up look like?
 
-Currently the CMS is being used for static webpages and static content. On build, the website is rebuilt from a Drupal instance on every deployment,
+Currently the CMS is being used for static webpages and static content. On build, the website is rebuilt from a Drupal instance on every deployment. Currently this looks to fall outside of our needs and scope.
 
 > Can we leverage a CMS for form wording?
 
