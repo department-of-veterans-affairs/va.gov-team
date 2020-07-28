@@ -71,7 +71,7 @@ cy.visit('health-care/apply/application');
 ### Interacting with Page Elements <a name="interacting-with-page-elements"></a>
 Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements.
 
-The [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains` for selecting elements when possible. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the queries are in descending order of recommendation (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
+As much as possible, the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains()` for selecting elements. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the queries are in descending order of recommendation (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
 
 ```
 findByLabelText        findAllByLabelText
@@ -232,7 +232,7 @@ cy.route('/v0/bar', 'fx:data/bar');
 File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
 
 ```javascript
-cy.findByText('Upload')
+cy.findByText('Upload', { selector: 'button' })
   .upload('src/platform/testing/example-upload.png', 'image/jpg');
 ```
 
