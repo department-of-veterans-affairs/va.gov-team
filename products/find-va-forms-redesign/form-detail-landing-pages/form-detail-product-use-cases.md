@@ -18,35 +18,34 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 
 ## Use Case A
 
-* Description: When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with data that's coming from the source VA forms database, the minimum custom data (Related to field), and the standard set of "helpful links."  
+* **Description:** 
+  - When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with data that's coming from the source VA forms database, the minimum custom data (Related to field), and the standard set of "helpful links."  
 
-* Link to designs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
+* **Link to designs:** 
+  - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
 
-* Instructions to access in ~Staging~ on prod.cms.va.gov 
-_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
-
-You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5891
+* **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
+  - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5891
 
 
 
 ## Use Case B
 
-* Description: When a form page has all custom data added in Drupal. Mockup shows the maximal version of a form detail landing page with data that's coming from the source VA forms database, plus all the custom Drupal added data.  
+* **Description:** When a form page has all custom data added in Drupal. Mockup shows the maximal version of a form detail landing page with data that's coming from the source VA forms database, plus all the custom Drupal added data.  
 
-* Maximum custom data include:
+* **Maximum custom data include:**
 
-- Related to field
-- When to use this form content block
-- Online tool block
-- Related forms and instructions
-- Custom "Helpful links related to {dynamic:form nbr}" 
+  - Related to field
+  - When to use this form content block
+  - Online tool block
+  - Related forms and instructions
+  - Custom "Helpful links related to {dynamic:form nbr}" 
 
-* Link to designs: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
+* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
 
-* Instructions to access in ~Staging~ on prod.cms.va.gov 
+* **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
-
-You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
+  - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
 
 ~## Use Case C~
 
