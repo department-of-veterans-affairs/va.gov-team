@@ -56,16 +56,16 @@ Note that `it()` blocks are individual tests, so each `it()` block should be ind
 Visit [the Cypress docs](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Test-Structure) for more context.
 
 ### Visiting a Page <a name="visiting-a-page"></a>
-When [visiting a page](https://docs.cypress.io/api/commands/visit.html#Syntax), you do not need to be concerned about the `baseUrl`. Cypress's configuration file takes care of this. So rather than grabbing the `baseUrl` from the helpers in Nightwatch:
+When [visiting a page](https://docs.cypress.io/api/commands/visit.html#Syntax), you don't need to specify the `baseUrl`. Cypress's configuration file takes care of this. So rather than grabbing the `baseUrl` from the helpers in Nightwatch:
 
 ```javascript
-client.openUrl(`${E2eHelpers.baseUrl}/health-care/apply/application`)
+client.openUrl(`${E2eHelpers.baseUrl}/health-care/apply/application`);
 ```
 
-You can instead enter the page directly:
+You can instead visit the page with a relative path:
 
 ```javascript
-cy.visit('health-care/apply/application')
+cy.visit('health-care/apply/application');
 ```
 
 ### Interacting with Page Elements <a name="interacting-with-page-elements"></a>
@@ -103,21 +103,21 @@ cy.get('.form-panel .usa-button-primary').click();
 #### Selecting From Dropdown
 Nightwatch:
 ```javascript
-client.selectDropdown('root_veteranAddress_country', data.veteranAddress.country)
+client.selectDropdown('root_veteranAddress_country', data.veteranAddress.country);
 ```
 Cypress:
 ```javascript
-cy.get('#root_veteranAddress_state').select(testData.veteranAddress.state)
+cy.findByLabelText(/country/i).select(testData.veteranAddress.state);
 ```
 
 #### Entering Data
 Nightwatch:
 ```javascript
-client.fill('input[name="root_firstName"]', data.veteranFullName.first)
+client.fill('input[name="root_firstName"]', data.veteranFullName.first);
 ```
 Cypress:
 ```javascript
-cy.get('#root_firstName').type(testData.veteranFullName.first)
+cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
 ```
 
 For more information about how Cypress interactions behave, visit [the Cypress guide for interacting with elements](https://docs.cypress.io/guides/core-concepts/interacting-with-elements.html#Actionability).
