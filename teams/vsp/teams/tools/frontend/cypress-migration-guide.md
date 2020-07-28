@@ -8,15 +8,16 @@ The purpose of this guide is to help with converting Nightwatch tests to Cypress
     1. [Test Structure](#test-structure)
     2. [Visiting a page](#visiting-a-page)
     3. [Interacting With Page Elements](#interacting-with-page-elements)
-    4. [Custom Commands](#custom-commands)
-    5. [Test Data (Fixtures)](#test-data)
-    6. [Mocking Data](#mocking-data)
-    7. [File Uploads](#file-uploads)
-    8. [Accessibility](#accessibility)
-    9. [Assertions](#assertions)
+    4. [Mock API Responses](#mock-api-responses)
+    6. [Custom Commands](#custom-commands)
+        1. [Mock Users](#mock-users)
+        2. [Test Data (Fixtures)](#test-data)
+        3. [File Uploads](#file-uploads)
+        4. [Accessibility](#accessibility)
+    10. [Assertions](#assertions)
 3. [Running Tests](#running-tests)
     1. [Headless Mode](#headless-mode)
-    1. [Test Runner](#test-runner)
+    2. [Test Runner](#test-runner)
 4. [Things to Note](#things-to-note)
 
 ## Initial Setup <a name="initial-setup"></a>
@@ -29,9 +30,10 @@ The overall folder structure for Cypress in the `vets-website` repo is as follow
 vets-website
 |
 └───src/platform/testing/e2e/cypress
-│   |   │   
+│   |
 │   └───plugins
 │   |   │   index.js
+|   |
 │   └───support
 │       │   commands
 │       │   index.js
@@ -67,7 +69,26 @@ cy.visit('health-care/apply/application')
 ```
 
 ### Interacting with Page Elements <a name="interacting-with-page-elements"></a>
-Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements. The most common interactions you will probably need to convert from Nightwatch tests are clicking, selecting elements from dropdowns, and entering text inputs. Below are examples of these interactions in Cypress.
+Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements.
+
+The [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains` for selecting elements when possible. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the queries are in descending order of recommendation (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
+
+```
+findByLabelText        findAllByLabelText
+findByPlaceholderText  findAllByPlaceholderText
+findByText             findAllByText
+findByAltText          findAllByAltText
+findByTitle            findAllByTitle
+findByDisplayValue     findAllByDisplayValue
+findByRole             findAllByRole
+findByTestId           findAllByTestId
+```
+
+The `TestId` queries look at the `data-testid` attributes of DOM elements. Add this attribute to your markup when your test would otherwise need to reference elements by CSS attributes as a last resort. As much as possible, prefer writing selectors for `data-testid` attributes over CSS selectors (ids and classes). 
+
+The goal is to write tests that [resemble how your users use your app](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change), hence the order of precedence for selecting elements.
+
+The most common interactions you will probably need to convert from Nightwatch tests are clicking, selecting elements from dropdowns, and entering text inputs. Below are examples of these interactions in Cypress.
 
 #### Clicking
 Nightwatch:
@@ -103,45 +124,7 @@ For more information about how Cypress interactions behave, visit [the Cypress g
 
 For additional ways to interact with the DOM, we have also included the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) as a dependency.
 
-### Custom Commands <a name="custom-commands"></a>
-
-Some custom Nightwatch commands located in `src/platform/testing/e2e/nightwatch-commands` were converted to custom Cypress commands, and can be found in `src/platform/testing/e2e/cypress/support/commands`.
-
-Many of them did not need to be converted, either because Cypress supports their functionality natively or the functionality was [too simple to abstract into a command](https://docs.cypress.io/api/cypress-api/custom-commands.html#2-Don%E2%80%99t-overcomplicate-things).
-
-These custom commands can be called from the `cy` object. For example:
-
-```javascript
-cy.axeCheck();
-```
-
-### Test Data (Fixtures) <a name="test-data"></a>
-
-In Cypress, because everything in a test is executed inside of the browser, [fixtures](https://docs.cypress.io/api/commands/fixture.html#Syntax) are used to get access to data in tests.
-
-By default, Cypress doesn't support fixtures in separate directories, so we have a custom command for accessing fixtures stored in your app's directory.
-
-For example, `src/applications/hca/tests/schema` contains test data for the `hca` application. You can load the file as a fixture like so:
-
-```javascript
-cy.syncFixtures({
-  'data': 'srce/applications/hca/tests/schema',
-  'minimal-test.json': 'src/applications/hca/tests/schema/maximal-test.json', 
-  'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
-});
-
-cy.fixture('maximal-test').as('testData');
-```
-
-To access the contents of the file, you can use a combination of `cy.get()` and `cy.then()`:
-
-```javascript
-cy.get('@testData').then(testData => {
-  cy.get('#root_firstName').type(testData.veteranFullName.first);
-});
-```
-
-### Mocking Data <a name="mocking-data"></a>
+### Mock API Responses <a name="mock-api-responses"></a>
 
 Cypress allows you to [stub responses](https://docs.cypress.io/guides/guides/network-requests.html#Stubbing), avoiding the need for mock API helpers.
 
@@ -178,26 +161,97 @@ All of your mock API calls using `mockData()` can be replaced with `cy.route()`.
 
 Be sure to always start the server with `cy.server()` before stubbing requests.
 
-### File Uploads <a name="file-uploads"></a>
-File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). 
+### Custom Commands <a name="custom-commands"></a>
+
+Some custom Nightwatch commands located in `src/platform/testing/e2e/nightwatch-commands` were converted to custom Cypress commands, and can be found in `src/platform/testing/e2e/cypress/support/commands`.
+
+Many of them did not need to be converted, either because Cypress supports their functionality natively or the functionality was [too simple to abstract into a command](https://docs.cypress.io/api/cypress-api/custom-commands.html#2-Don%E2%80%99t-overcomplicate-things).
+
+We have custom commands to acccomplish some common tasks, which are highlighted below. To get the full listing of available custom commands, see `src/platform/testing/e2e/cypress/support/commands`.
+
+#### Mock Users <a name="mock-users"></a>
+
+For simulating a signed-in session with a mock user, use `cy.login()`.
+
+Without providing any arguments, it will use a default user. To be signed in as a custom-defined user, you may pass in a compatible object as the argument. It should have the same shape as the response body for the `/v0/user` API endpoint. See `src/platform/testing/e2e/cypress/support/commands/login.js` for the default user object as an example to copy and modify as needed.
 
 ```javascript
-cy.get('[name="root_attachments_0_attachmentName"]')
-  .upload('src/platform/testing/example-upload.png', 'image/jpg')
+cy.login();
+
+const myUser = {
+  data: {
+    attributes: {
+      ...
+    },
+  },
+};
+
+cy.login(myUser);
 ```
 
-### Accessibility <a name="accessibility"></a>
+#### Test Data (Fixtures) <a name="test-data"></a>
+
+In Cypress, because everything in a test is executed inside of the browser, [fixtures](https://docs.cypress.io/api/commands/fixture.html#Syntax) are used to get access to data in tests.
+
+By default, Cypress doesn't support fixtures in separate directories, so we have a custom command for accessing fixtures stored in your app's directory.
+
+For example, `src/applications/hca/tests/schema` contains test data for the `hca` application. You can load the file as a fixture like so:
+
+```javascript
+cy.syncFixtures({
+  data: 'src/applications/hca/tests/schema',
+  'minimal-test.json': 'src/applications/hca/tests/schema/maximal-test.json', 
+  'maximal-test': 'src/applications/hca/tests/schema/maximal-test.json',
+});
+
+cy.fixture('maximal-test').as('testData');
+```
+
+To access the contents of the file, you can use a combination of `cy.get()` and `cy.then()`:
+
+```javascript
+cy.get('@testData').then(testData => {
+  cy.findByLabelText(/first name/i).type(testData.veteranFullName.first);
+});
+```
+
+Once you've synced your fixtures, you can also use the [fixture shorthand form](https://docs.cypress.io/api/commands/route.html#Fixtures) of `cy.route()`.
+
+```javascript
+cy.syncFixtures({
+  foo: path.join(__dirname, 'fixtures', 'foo'),
+  bar: path.join(__dirname, 'fixtures', 'bar'),
+});
+
+cy.route('/v0/foo', 'fixture:data/foo');
+cy.route('/v0/bar', 'fx:data/bar');
+```
+
+#### File Uploads <a name="file-uploads"></a>
+
+File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
+
+```javascript
+cy.findByText('Upload')
+  .upload('src/platform/testing/example-upload.png', 'image/jpg');
+```
+
+#### Accessibility <a name="accessibility"></a>
+
 Like most E2E tools, Cypress has its own [axe-core plugin](https://github.com/avanslaars/cypress-axe) to test accessibility.
 
-To add aXe checks to your tests use the custom `axeCheck()` command based off the `checkA11y` [command](https://github.com/avanslaars/cypress-axe#cychecka11y).
+To add aXe checks to your tests use the custom `cy.axeCheck()` command based off the `cy.checkA11y()` [command](https://github.com/avanslaars/cypress-axe#cychecka11y).
 
-#### Nightwatch:
+As documented by the plugin, be sure to call `cy.injectAxe()` after each `cy.visit()`, after which `cy.axeCheck()` can be invoked any number of times.
+
+Nightwatch:
 ```javascript
-client.axeCheck('.main')
+client.axeCheck('.main');
 ```
-
-#### Cypress:
+Cypress:
 ```javascript
+cy.visit(PAGE_URL);
+cy.injectAxe();
 cy.axeCheck();
 ```
 
@@ -214,15 +268,15 @@ These can be converted by making [custom chai assertions](https://docs.cypress.i
 Checks if the given element is focused on the page.
 
 ```javascript
-// Bdd assertion
-cy.get('input').should('have.focus')
+// BDD assertion
+cy.findByLabelText('First name').should('have.focus')
 ```
 #### isDisabledElement 
 Checks if the given element is disabled on the page.
 
 ```javascript
-// Bdd assertion
-cy.get('button').should('be.disabled')
+// BDD assertion
+cy.findByRole('button', { name: 'Submit' }).should('be.disabled')
 ```
 
 ## Running Tests <a name="running-tests"></a>
@@ -237,15 +291,19 @@ By default, `yarn cy:run` runs Cypress tests headlessly in an Electron browser. 
 yarn cy:run --headless --browser firefox
 ```
 
+You may experience some performance issues where particular long-running tests (such as an exhaustive test of a form) may take an extremely long time (unless your setup is optimized for them, as in the case of our CI, which tests the production build and also has the specs to cancel out the performance burden).
+
+For this reason, for local development, it might be better to run specific specs, even more so in the test runner. The Cypress team is [investigating various issues regarding performance](https://github.com/cypress-io/cypress/issues/6388#issuecomment-648795870) that may likely be related to this.
+
 
 ### Test Runner <a name="test-runner"></a>
 To run tests in the Cypress [test runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Overview), run `yarn cy:open`.
 
 There is a dropdown menu in the top right of the test runner that allows you to select a browser in which to run your tests. In our experience, Firefox has yielded the fastest test runs when testing locally, although it is currently a beta feature. The tests in CI will run in the default browser, which is Electron.
 
-With the test runner, you are able to use Cypress's "Open Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. This means there's usually no need to manually inspect an element and copy the selector.
-
 The test runner provides the ability to pause tests, and [time travel](https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Time-travel), which allows you to see snapshots of your tests.
+
+With the test runner, you are able to use Cypress's "Selector Playground". This allows you to click on elements in the DOM and copy that element's selector to use in your test. However, [as mentioned earlier](#interacting-with-page-elements), selecting elements by CSS attributes is discouraged in favor of selecting by test id, which is in turn considered a fallback if selecting by other attributes (label text, role, etc.) is not feasible. In fact, the Selector Playground follows this best practice and automatically attempts to determine the selector by looking at `data-cy`, `data-test`, and `data-testid` before falling back to a CSS selector.
 
 You may find it useful to append certain [options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
 
