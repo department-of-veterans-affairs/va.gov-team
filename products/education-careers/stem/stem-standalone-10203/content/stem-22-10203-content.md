@@ -182,7 +182,7 @@ Form 22-10203
 
 #### Based on your response, you may not be eligible 
  
-**You must be a Post-9/11 GI Bill or Fry Scholarship beneficiary to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicant. 
+**You must be a Post-9/11 GI Bill or Fry Scholarship beneficiary to qualify for the scholarship.** Please consider that ineligible applications delay the processing of benefits for eligible applicants. 
 
 { end warning alert }
 
