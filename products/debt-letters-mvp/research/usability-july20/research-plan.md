@@ -90,6 +90,10 @@
    - At least 7 participants who have had Education debts (CH 33, CH 34, CH 35)
    - At least 8 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
    - At least 3 Veterans with a disability rating of 80% or higher
+   
+- For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
+- For this session, we are unable to include people with significant vision loss.
+- For this session, we are unable to include people who use magnification tools.
 
 2.	What is your recruitment strategy? 	
 - Perigean recruitment
