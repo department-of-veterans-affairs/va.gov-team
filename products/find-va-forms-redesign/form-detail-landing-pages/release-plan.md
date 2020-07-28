@@ -32,20 +32,20 @@
 * This change does not affect traffic to backend services: *Yes*
 
 
-This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: number of new nodes, new CMS template, interconnectedness with forms search and Lighthouse API, and dependency on Transformer/node capacity.
+This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
+- number of new nodes
+- new CMS template
+- interconnectedness with forms search and Lighthouse API, and 
+- dependency on Transformer/node capacity.
 
 
 
 ~~*Example*: a change to a page's text content **could skip** staged rollout~~
-
 ~~*~Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~~~
-
 ~~*~Example*: adding a new field to an existing form **could skip** staged rollout~~~
 
 ~~*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**~~
-
 ~~*Example*: a significant change to how users navigate an existing form **needs staged rollout**~~
-
 ~~*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**~~
 
 #### ~~Exceptions~~
@@ -65,15 +65,19 @@ This product does not need a staged rollout, per above criteria, but we have dec
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
 
-- How will you make the product available in production while limiting the number of users who can find/access it: We will do a 'hidden' launch, no-index and no redirects of the legacy form detail pages. We will launch in batches: First batch -  the top MVP form detail pages (around 40-45). 
+- **How will you make the product available in production while limiting the number of users who can find/access it:** 
+  - We will do a 'hidden' launch, no-index and no redirects of the legacy form detail pages.
+  - We will launch in batches: First batch -  the top MVP form detail pages (around 40-45 form detail pages). 
 
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. We will track CTRs from the forms search to the corresponding form detail page and make sure we have an < 5% error rate. 
+- **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
+  - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
+  - We will track CTRs from the forms search to the corresponding form detail page and make sure we have an < 5% error rate. 
 
   We will track errors for:
 
   - Form download links
   - Form detail page links from the search
-  - Onlin tool links on the form detail page
+  - Online tool links on the form detail page
   - Related forms links, if any, on the form detail page
 
 - Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
@@ -86,8 +90,11 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 7 business days
-- ~~Percentage of~~ Users (and roughly how many users do you expect this to be): Around 50 invited users plus users who click to the page from modernized forms search experience. We will check error rate after we hit 100 users or 7 business days. We want < 5% error rate.
+- **Length of time: **
+  - 7 business days
+- ~~Percentage of~~ **Users (and roughly how many users do you expect this to be): **
+  - Around 50 invited users plus users who click to the page from modernized forms search experience. 
+  - We will check error rate after we hit 100 users or 7 business days. We want < 5% error rate.
 
 #### Results:
 
@@ -99,12 +106,16 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 ### Stage B: moderate (Batch 2 - MVP non-top forms)
 
-~~_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._~~ We will do a 'hidden' launch, no-index and no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
+~~_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._~~ 
+
+We will do a 'hidden' launch, no-index and no redirects of remaining legacy form detail pages. Second batch -   'non-top' MVP form detail pages (around 400 - this number changes based on the VA forms database). 
 
 #### Planning
 
-- Length of time: 7 business days
-- ~~Percentage of~~ Users (and roughly how many users do you expect this to be): We will check error rate after we hit 300 users or 7 business days. We want < 5% error rate.
+- **Length of time: **
+  - 7 business days
+- ~~Percentage of~~ **Users (and roughly how many users do you expect this to be):** 
+  - We will check error rate after we hit 300 users or 7 business days. We want < 5% error rate.
 
 We will track errors for:
 
