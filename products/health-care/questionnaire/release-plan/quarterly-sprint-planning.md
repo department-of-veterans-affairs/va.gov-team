@@ -59,7 +59,7 @@
 
 | Goal/Objective | Status Notes | Epic/Issue#	|
 |-|:-:|:-:|
-| Research plan for stakeholder interviews	| not complete 	|  #11037	|
+| Research plan for stakeholder interviews	| complete 	|  #11037	|
 | Product documentation for initial draft of Epics	| complete  	| #10664 	| 
 | APIs and or interfaces into both EHR’s 	| complete 	| #10223	| 
 | Complete Tech Feasibility Documentation	| complete	| #11027  	| 
