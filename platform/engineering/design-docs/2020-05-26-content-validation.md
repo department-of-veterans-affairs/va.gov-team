@@ -230,7 +230,7 @@ In summary, this approach will have the following impact for the following group
 - **Content Writers**: Improve error reporting while maintaining current convenience
 - **Frontend Tools team**: Reduce build noise, failure rate, and number of builds requiring manual intervention
 - **VA.gov users**: Maintain existing time to see updated content and risk of seeing accessibility errors
-- **Anybody trying to ship code for the VA.gov front end**: Reduce failed deploys which should allow them to ship faster
+- **Anybody trying to ship code for the VA.gov front end**: Reduce failed deploys due to accessibility errors which should allow them to ship faster
 
 ## Specifics
 
