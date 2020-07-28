@@ -95,7 +95,7 @@ Users are searching for general health and benefit information, forms, and some 
 
 TBD
 
-***5. What is the average percentage of Search refinements on VA.gov?***
+***5. What is the average percentage of Search refinements (the number of times a user searched again immediately after performing a search)on VA.gov?***
 
 The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
 
