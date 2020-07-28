@@ -105,23 +105,23 @@
 
 ## When? 	
 1.	Timeline: 
-August 3rd - August 6th
+August 5th - August 10th
 
 2.	Prepare: When will the thing you are testing be ready?
 - Prototype (App): July 23
 
 3. Length of Sessions:
-- Approximately 1 hour
+- Approximately 90 minutes
 
 4.	Availability: If applicable, when would you like sessions scheduled?
-- August 3, 9:30 - 5:00 EST
-- August 4, 9:30 - 5:00 EST
-- August 5, 9:30 - 12:00, 2:00 - 5:00 EST
-- August 6, 9:30 - 5:00 EST
+- August 5, 9:30am - 12:00pm, 2:00pm - 5:00pm EST
+- August 6, 9:30am - 5:00pm EST
+- August 7, 9:30am - 5:00pm EST
+- August 10, 9:30am - 5:00pm EST
 - **Please schedule at least 30 minutes between sessions**
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
-- July 31, 10:00am (EST) with Mahariel Rosario
+- July 31, 2:30pm (EST) with Mahariel Rosario
 
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
