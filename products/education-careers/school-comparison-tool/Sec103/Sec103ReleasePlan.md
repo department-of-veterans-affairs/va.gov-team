@@ -95,14 +95,13 @@ Validated:
 * Users will notice the 103 indicator (and know how it’s relevant?)
 
 Not Validated: 
-* The files will contain current data and are updated regularly - Development will validate this. 
+* The files will contain current data and are updated regularly Confirmed with Education Services that this is relatively stable data and will be updated quarterly. 
 * If the situation arises where VA will be late on payments (and Sec 103 is triggered), additional alerts will be provided within VA.gov and in the GIBCT - Could be validated by EDU
-* This is not the sole source of information communication to CH31/33 beneficiaries about 103 & benefit payments - Would require usability testing
-* Users will understand which documents are required for 103 for each compliant institution - Would require usability testing
-* The 103 indicator will prevent the worry and financial challenges experienced by CH31/33 Veterans & beneficiaries in the past - Would require usability testing
-
+* This is not the sole source of information communication to CH31/33 beneficiaries about 103 & benefit payments - Would require usability testing, which is not something we have planned for Section 103 right now. 
+* Users will understand which documents are required for 103 for each compliant institution - Would require usability testing, which is not something we have planned for Section 103 right now. 
+* The 103 indicator will prevent the worry and financial challenges experienced by CH31/33 Veterans & beneficiaries in the past - Would require usability testing, which is not something we have planned for Section 103 right now. 
 4. How might your product evolve now or in the future based on these results?
-If the sitaution arises that VA is late on payments to schools, we'll have a chance to see 
+If the sitaution arises that VA is late on payments to schools, we'll have a chance to see: 
 * If we post an alert about how schools handle payments
 * If views of the 103 content increase
 * If users have questions for VA about the necessary paperwork after viewing the content
