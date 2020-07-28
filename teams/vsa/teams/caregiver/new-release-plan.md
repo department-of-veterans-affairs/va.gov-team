@@ -17,9 +17,9 @@ We will answer these questions by testing the form "in the wild" at a small scal
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Moderated production testing |1 month|30 CSCs| TBD  |
-|Phase 2A: Canary release (minimal) |1 week|1%|TBD|
-|Phase 2B: Moderate release |2 weeks|5%|TBD|
-|Phase 2C: Substantial release| 3 weeks | 50% | TBD
+|Phase 2A: Canary release (minimal) |1 week|1% (or 25 applications per day)|TBD|
+|Phase 2B: Moderate release |2 weeks|5% (~50 applications/day)|TBD|
+|Phase 2C: Substantial release| 3 weeks | 50% (~100 applications/day) | TBD
 |Phase 3: Go Live| indefinite | 100% | TBD
 
 
