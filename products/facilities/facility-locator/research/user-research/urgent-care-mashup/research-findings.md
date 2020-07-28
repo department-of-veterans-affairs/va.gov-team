@@ -116,7 +116,7 @@ All facilities carried a yellow warning style status. The VA location's status r
 > "I would trust the VA knowing it's a bigger place. The hardest part when you click to the VA is it says "Limited services and hours". That might deter me from going there because maybe they are an 8-5.. The one up above "Call for services and hours" with COVID makes perfect sense".
 
 #### 5. Veterans use “in network”, “outside” and “civilian” to describe VA and community providers.
-Throughout the studies 5 participants used the term in network to describe facility options that would be covered by their VA healthcare benefits. Three participants used the word "outside" and two used the word "civilian" to describe community facilities or providers.
+Throughout the studies 5 participants used the term "in-network" to describe facility options that would be covered by their VA healthcare benefits. Three participants used the word "outside" and two used the word "civilian" to describe community facilities or providers.
 
 > "Means that you can go to a civilian provider that the VA would pay for"
 
