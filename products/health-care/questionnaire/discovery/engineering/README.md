@@ -234,6 +234,13 @@ However, getting it to work with lighthouse is a different problem because light
 With regards to FHIR, this list seems useful for a high level look at the resources that FHIR defines
 https://www.hl7.org/fhir/resourcelist.html
 
+**Lighthouse health api compatability with va.gov**
+
+The health data in lightouse is secured and sensitive, to get it, we must 
+use a more strict authentication manner. The lighthouse health API has a open ID connect layer on top of OAuth 2. 
+Currently, the VA API does not use that authentication schema to connect to Lighthouse. It is not a hard enhancement, 
+but it is non-trivial. This is a risk that we will need to incur
+
 ---
 
 ### VistA API
