@@ -22,9 +22,10 @@ Start recording.
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1.	Are you currently using or have you ever used your GI Bill education benefits?
-- (If applicable) When did you start school?  Where are you going to school?
-2.  When you were investigating schools, were there any in particular you were looking into?
+1.	Are you currently using or planning to use your GI Bill education benefits in the next few months?
+  - Currently using:  When did you start school?  Where are you going to school?
+  - Planning to use: Are you looking at any particular schools?
+
 2.	Have you ever used the GI Bill Comparison Tool before?
 - If yes, fantastic! 
   - When do you think the last time you used it was? 
@@ -53,15 +54,14 @@ Things to watch for:
   
   Upon completion of the task:
   - How did you think that went? 
-  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-  - Were you able to find what you were looking for?  Did it seem like anything was missing? 
+  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task? 
   - What did you think of the filters?  Which ones would be most useful to you?
   - Of the filter options for religious affiliation, special mission and gender, which ones would you be most likely to use?
 
 
 ## Second Task: Filter - 10 minutes
 
-Let's say that you received a scholarship for any schools in the USA that are **Insert preferred filter option**.  How would you go about finding schools that meet that criteria?
+Let's say that you received a scholarship for any school in the USA that are **Insert preferred filter option**.  How would you go about finding schools that meet that criteria?
 
 Things to watch for:
   - How does the user change their search?
@@ -73,6 +73,7 @@ Things to watch for:
   Upon completion of the task:
   - How did you think that went? 
   - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  - What did you think of the filter tags?  Which filters do you think have tags?
 
 
 ## Third Task: Acronym/Nickname School - 10 minutes
@@ -82,9 +83,22 @@ Let's say you've heard good things about the science programs at MIT.  How would
 _Prompt_ You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
 
 Things to watch for:
-  - Does the user use the autocomplete functionality or search?
-  - How quickly does the user find the school?
-  - Do they use any filters or change their search criteria?
+  - Does the user use any filters or change their search criteria?
+  - What, if any, filters do they use?
+  - Did the user input the acronym for MIT?  If so, how did they react to the results?
+
+**Upon completion of task:** 
+- How did you think that went? 
+- On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+
+## Fourth Task: Location/ZIP Code Test - 5 minutes
+
+Let's say you've recently moved to the upper east side of Manhattan in New York.  You don't have a car and would like to either bike or walk to school if possible.  How would you find out what schools are in your area?
+
+_Prompt after user tells what they would do_ Let's say your ZIP code is 10021.  Would that help your search?
+
+Things to watch for:
+  - Does the user use any filters or change their search criteria?
   - What, if any, filters do they use?
 
 **Upon completion of task:** 
