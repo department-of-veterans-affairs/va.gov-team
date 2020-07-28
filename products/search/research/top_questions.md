@@ -71,7 +71,7 @@ Users are searching for general health and benefit information, forms, and some 
 
 ***3. How effective is VA.gov's search tool at providing the information users/veterans are seeking?***
 
-- While click-through tracking has not been available as part of VA.gov's implementation of the Search.gov utility, there are indicators that site search is not as effective as it needs to be.  According to [one year of Google Analytics data (July 2018-July 2020)](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20180726&_u.date01=20200726):
+- While click-through tracking has not been available as part of VA.gov's implementation of the Search.gov utility, there are indicators that site search is not as effective as it needs to be.  According to [two years of Google Analytics data (July 2018-July 2020)](https://analytics.google.com/analytics/web/#/report/content-site-search-overview/a50123418w177519031p184624291/_u.date00=20180726&_u.date01=20200726):
   - **Exits (Bounces):** The number of exits from VA.gov site that occurred following a result from an internal search: 48%
   - **Paging:** The average number of pages a user viewed after conducting a search: 3.36 (viewing 1 page is considered optimal)
   - **Average Search Depth** While the average search depth (e.g., The number of pages visitors viewed after getting results for the search term) is 1.50, some of VA.gov's most popular search terms show a far more significant search depth.
