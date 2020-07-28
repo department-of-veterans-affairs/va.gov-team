@@ -20,7 +20,7 @@ Thank you for joining us today! My name is ______, and I'm a designer and resear
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about one hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take 75-90 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - During this test, I will ask you to share your screen so that I can follow along with you. When we get to that portion of the session, I will give you instructions on how to share your screen.**
 - **You'll be interacting with prototypes.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits.
@@ -34,7 +34,7 @@ Before we start, a few things I want to mention:
 
 
 
-## Interview Questions - 15 min
+## Interview Questions - 10 min
 
 - Before we jump into the session, can you describe your experience with VA debts?
 - What did you think about the way your debt was communicated to you?
