@@ -9,12 +9,12 @@ The purpose of this guide is to help with converting Nightwatch tests to Cypress
     2. [Visiting a page](#visiting-a-page)
     3. [Interacting With Page Elements](#interacting-with-page-elements)
     4. [Mock API Responses](#mock-api-responses)
-    6. [Custom Commands](#custom-commands)
+    5. [Custom Commands](#custom-commands)
         1. [Mock Users](#mock-users)
         2. [Test Data (Fixtures)](#test-data)
         3. [File Uploads](#file-uploads)
         4. [Accessibility](#accessibility)
-    10. [Assertions](#assertions)
+    6. [Assertions](#assertions)
 3. [Running Tests](#running-tests)
     1. [Headless Mode](#headless-mode)
     2. [Test Runner](#test-runner)
@@ -107,7 +107,7 @@ client.selectDropdown('root_veteranAddress_country', data.veteranAddress.country
 ```
 Cypress:
 ```javascript
-cy.findByLabelText(/country/i).select(testData.veteranAddress.state);
+cy.findByLabelText(/country/i).select(testData.veteranAddress.country);
 ```
 
 #### Entering Data
