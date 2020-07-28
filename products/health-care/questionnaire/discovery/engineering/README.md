@@ -8,6 +8,7 @@
   - [Forms Discovery](#forms-discovery)
     - [Current Forms System](#current-forms-system)
     - [Healthcare wizard](#healthcare-wizard)
+    - [Pro and Con Summary](#pro-and-con-summary)
   - [Health Data APIs](#health-data-apis)
     - [Developers.va.gov](#developersvagov)
     - [VistA API](#vista-api)
@@ -15,6 +16,7 @@
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
   - [CMS Integration](#cms-integration)
   - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
+  - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
 
 ## Problem Statement
 
@@ -43,17 +45,17 @@ Can we build a simple, pre-populated form, that sends data to cliniations in a t
 - Data
   - Where is the data source that we are going to writing to?
   - How can we pull in data from multiple sources?
+  - What is our source of truth for health data?
+  - Where is the profile information coming from?
 - Forms
   - Can we pull in data from an external API in a form?
-  - Do we need any CMS integration?
+  - Can we create something to make the question text be set not in code?
   - How can we control the forms?
 - Verify results
   - What analytics do we need?
   - What should be the KPI for the engineering team?
-- CMS
-  - How do we change the form question text/answer
-  - Is the CMS a source for the form Questions?
 - Scheduling
+  - Understand the data flow.
   - How can successfully integrate with VAOS?
 
 ## Forms Discovery
@@ -82,7 +84,16 @@ One of the north stars of the team is to make the clipboard process as frictionl
 
 Yes, we can, if the user is logged in, we access basic demographic information.
 
-TODO: list out information and find out where this is coming from,
+This information is coming from ???? and we have the following data for a user today:
+
+- Name
+- Addresses
+- Gender
+- MyHealthyVet Account meta data
+- Phone Numbers
+- Associated Facilites
+- Vet Status
+- How the user Signed in
 
 > Can we force authentication on a form?
 
@@ -113,15 +124,46 @@ My desired next steps if I were to continue down this route:
 
 Currently, the only way the update the form content, both the structure and the text the user sees, is through a pull request to the code base. This is a technical process, that is built for developers. This might be a very high level to get this to work properly.
 
-TODO: talk about more about sessions storage and persisting data for un-authed
+> What is session storage and what are its limits?
 
-TODO: pros and cons section of custom vs forms system
+Session storage is a client side, temporary data store that is perfect for short term storage. The data lives client side in the browser window until the window is closed. This allows a user's old answers to be stored when the user navigates away and saved when the user navigates back.
 
-no site has control over the form
+This idea breaks down when if the vet leaves the site and and comes back, all unauthenticated. If we care to save the data, we could build aa system that allows saving of non-authenticated users data. We can do this by saving an instance of the form filling out with a unique id and saving the answers related to that unique id, until and if the user logs in. There are security and other considerations that need to be flushed out.
 
 ### Healthcare wizard
 
 As a team, we received a demo from a tool that demonstrated a wizard-style approached to creating a form experience. This demonstration was very insightful for a few reasons. A wizard, in this case, boiled down to a very dynamic form that recommended results based on a user's answers. The team that built the demo did not leverage the current forms system; instead, they opted for a fully customized solution. They did for two main reasons. They weren't building forms, but they were making what was more like a layer on top of a form. And two, and more interesting to the tech team, they found the form system was not that flexible once they started to step out of the box.
+
+### Pro and Con Summary
+
+After exploring the forms library, and for the sake of knowing our options, we have to look at the pros and cons of using this already built library vs building our own
+
+> Pros for using the library
+
+- Out of the box functionality for simple forms
+- Save in Progress for Authenticated users
+- Validation logic
+- Dynamic Forms
+- Support of other teams
+
+> Cons for using the library
+
+- Once we try to step outside the built in blocks, things get hairy
+- We are constraint to relatively simple forms
+- Adding features to the core system would need collaboration with other teams
+- We could incur longer development time if we want to do something that is not intended
+
+> Pros for custom tooling
+
+- We are in 100% control of everything
+- We only build what we need
+- We can extend the system to meet our own use cases
+
+> Cons for custom tooling
+
+- We are in 100% control of everything
+- We cannot leverage the existing features (Save in progress, Validation, etc) without some finagling
+- We could incur longer development time because we are re-inventing the wheel
 
 ---
 
@@ -197,17 +239,20 @@ https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/s
 **Rails sample client app for developer.va.gov**
 
 We have not yet determined how vets-api will be updated to interact with lightouse but
-there is a rails sample app that may be useful since vets-api is also a rails app. 
+there is a rails sample app that may be useful since vets-api is also a rails app.
 The application is found here:
 https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/samples/oauth_rails/vethealth
 
-This application works with a few changes. 
+This application works with a few changes.
 The url at this line: https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/samples/oauth_rails/vethealth/app/models/health_api_response.rb#L9
-needs to be: 
+needs to be:
+
 ```
 @target = "https://sandbox-api.va.gov/services/fhir/v0/argonaut/data-query/#{api_name}?#{search_param_name}=#{id}&page=#{page}&_count=#{count}"
 ```
+
 3 lines below that, the code should be changed to:
+
 ```
 @target = "https://sandbox-api.va.gov/services/fhir/v0/argonaut/data-query/#{api_name}/#{id}"
 ```
@@ -216,12 +261,13 @@ The scope in https://github.com/department-of-veterans-affairs/vets-api-clients/
 might need to be updated to the same used inside the url at:
 https://github.com/mdewey/VetsApiTest/blob/a9710429efb2dbe85c55a5905002288d15ac26ab/Controllers/AuthController.cs#L29
 
-The above change may require adding a refresh_token string field to the authentications db table. 
+The above change may require adding a refresh_token string field to the authentications db table.
 
 The sample app uses an expires_at field coming from lightouse that lighthouse no longer sends.
-remove the line that contains expires_at: 
+remove the line that contains expires_at:
 https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/samples/oauth_rails/vethealth/app/models/authentication.rb#L13
 add these two lines:
+
 ```
  attributes['expires_at'] = Time.zone.now + attributes['expires_in']
  attributes.delete('expires_in')
@@ -270,6 +316,8 @@ All this promise comes with a slight hurdle. The mobile team is still in early d
 
 ## Creating an API Wrapper in the VA API
 
+For some context, integration with a external system can be a challenge. There are many considerations to take into account. Security, availability, analytics are a few problems. Using API Wrapper allows us to address those problems and more in an eloquent way.
+
 The Vets-API uses a faraday to wrap external requests. Our design pattern is to have a Client class that pulls in Configuration from a Config class and a Response class to handle any data conversion before handing the data back to Rails.
 
 The classes that a developer needs to be aware are:
@@ -302,6 +350,8 @@ Currently the CMS is being used for static webpages and static content. On build
 
 Currently no, the Forms team has indicated this is not a feature and to update anything its on someone to create a pull request. This is not on the Forms team road map.
 
+This could be a scalability issues with how many forms and facilities we would to include.
+
 ---
 
 ## VA Online Scheduler (VAOS)
@@ -322,8 +372,8 @@ After the initial demo, we have found a list questions that need to be answered.
 
 ## VA Gov research using vets-web frontend
 
-The vets-web front end mocks some of the data, that is it has 
+The vets-web front end mocks some of the data, that is it has
 fake data that it uses locally. This may is important to note when using the
-the front end to research the functionality of VAOS or other backend functionality. 
+the front end to research the functionality of VAOS or other backend functionality.
 The same thing may be happening in the staging environment. There are some settings in vets-web that can
 turn of mocking where in the code there is a USE_MOCK_DATA constant
