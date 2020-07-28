@@ -44,14 +44,15 @@ This product does not need a staged rollout, per above criteria, but we have dec
 - dependency on Transformer/node capacity.
 
 
+<details>
 
-~~*Example*: a change to a page's text content **could skip** staged rollout~~
-~~*~Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~~~
-~~*~Example*: adding a new field to an existing form **could skip** staged rollout~~~
+-  ~~*Example*: a change to a page's text content **could skip** staged rollout~~ 
+-  ~*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout~
+-  ~*Example*: adding a new field to an existing form **could skip** staged rollout~  
 
-~~*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**~~
-~~*Example*: a significant change to how users navigate an existing form **needs staged rollout**~~
-~~*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**~~
+-  ~~*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**~~ 
+-  ~~*Example*: a significant change to how users navigate an existing form **needs staged rollout**~~ 
+-  ~~*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**~~ 
 
 #### ~~Exceptions~~
 
@@ -65,6 +66,8 @@ This product does not need a staged rollout, per above criteria, but we have dec
 | ~~URL redirects~~                       | ~~No~~                             |
 
 ~~Other exceptions to this requirement can be approved by DEPO VSP leads.~~
+
+</details>
 
 ### Planning
 
