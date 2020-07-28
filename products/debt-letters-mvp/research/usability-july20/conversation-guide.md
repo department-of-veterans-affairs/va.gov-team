@@ -43,12 +43,8 @@ Before we start, a few things I want to mention:
 - How did you pay your debt? (More specifically: method of payment)
   	- Is this payment method what you prefer?
 - How did you keep track of your debt to the VA?
-- Have you interacted with the Debt Management Center directly?
-  - If so, how was that experience?
 - What would you expect to happen once you’ve paid off a debt?
 - What sort of online tools or resources would you want available to you if you got a VA debt in the future?
-- Have you ever been on VA.gov? 
-   - If so, what was your last experience like?
 - What do you think about needing to log into VA.gov in order to see information about your debt?  
 
 ## First Task: Find debt letters on VA.gov - 10 min
