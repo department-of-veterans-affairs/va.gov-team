@@ -8,6 +8,7 @@
 2. Demo 
 3. Governance discovery
 4. Content reusability across products (eg Q&As)
+5. Agenda for tomorrow's framework meeting
 
 
 ### Action items
