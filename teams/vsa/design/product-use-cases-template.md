@@ -21,7 +21,7 @@ Link to product outline: [Product Name](#)
 * **Description**
   - lorem ipsum
 
-* Link to designs
+* **Link to designs**
   - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
@@ -32,7 +32,7 @@ Link to product outline: [Product Name](#)
 * **Description**
   - lorem ipsum
 
-* Link to designs
+* **Link to designs**
   - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
@@ -43,7 +43,7 @@ Link to product outline: [Product Name](#)
 * **Description**
   - lorem ipsum
 
-* Link to designs
+* **Link to designs**
   - lorem ipsum
 
 * **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
