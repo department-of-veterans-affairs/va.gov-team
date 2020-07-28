@@ -1,6 +1,6 @@
 # Content Grouping
 
-[Product Brief]()
+[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/content-grouping/content-grouping-product-brief.md)
 
 **Team:** VSP Analytics & Insights
 
