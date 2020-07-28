@@ -186,13 +186,13 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 * Add more visual affordances to page functionality. 
 
-  * Reduce the amount of copy the precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
+  * Be more efficient with the use of space and words wherever possible. For example, reduce the amount of copy that precedes search functionality on the "Find VA Locations" to allow the gray box to appear "above the fold" at high zoom levels. 
 
   * Add the number of listings to the search results line of text that appears above the listings and map. Move "Can't find what you're looking for?.." to a less prominent location and to give the results copy line the proper hierarchy.
 
   * Use consistent typographic styling for results between VA and Community location listings so that important differences appear more salient. 
 
-  * Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows.
+  * Look for ways to improve scrolling functionality. Since the results list relies on system scrollbars, consider forcing wider or persistent scrollbars or a secondary way of moving results listing up and down, e.g. arrows. 
 
 ## Next Steps
 
