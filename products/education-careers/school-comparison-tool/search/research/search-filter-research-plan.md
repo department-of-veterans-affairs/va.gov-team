@@ -5,7 +5,7 @@ As a designer I need to create a research plan to share with my team.	(This shou
 - Booz Allen research for Education Services / OIT
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
 
-The GI Bill beneficiaries using the Comparison Tool experience challenges as they search for institutions and lack nuanced data points that could help them find and filter schools and training institutions that are the best fit for their education needs.  The current search in the Comparison Tool requires users to enter an exact match in order to provide them with results.  If users search for content in the Comparison Tool and use an abbreviation or nickname, or misspell an institution then the results they are searching for will not be returned.  Additionally, users are not able to easily identify and filter institutions by certain attributes (i.e. gender-exclusive, religious affiliations).  
+GI Bill beneficiaries using the Comparison Tool experience challenges as they search for institutions and lack nuanced data points that could help them find and filter schools and training institutions that are the best fit for their education needs.  The current search in the Comparison Tool requires users to enter an exact match in order to provide them with results.  If users search for content in the Comparison Tool and use an abbreviation or nickname, or if they misspell an institution, then the results they are searching for will not be returned.  Additionally, users are not able to easily identify and filter institutions by certain attributes (i.e. gender-exclusive, religious affiliations).  
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 
@@ -13,6 +13,7 @@ Search:
 - Does the new search improve the experience of finding a school in the CT? 
 - Does the search field update make it easier for users to find schools of interest in the GIBCT? 
 - What are users expectations of what they should enter into the search text field to get the results they seek? 
+- What types of location-based searching does the user perform (e.g. name of city, ZIP code)?
 - How does the new search functionality impact type-ahead? 
     - Do users expect type-ahead to work for acronyms or nicknames?
     - Do users expect to see results if they misspell a name?
@@ -29,6 +30,7 @@ Filters:
    - Do users find the tags on the school cards useful?
    - Do users expect the tags to be interactive/informative?
    - How important are tags to the user?
+   - Do users expect all filters to have tags, some of them or none?  If some, which ones?
 - What do users think of the search results after searching and filtering?
 
 
