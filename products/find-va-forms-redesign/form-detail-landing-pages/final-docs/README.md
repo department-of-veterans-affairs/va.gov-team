@@ -36,7 +36,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 
 ## Visual mockups
 
-Updated 7/16/20
+Updated 7/28/20 ~7/16/20~ 
 
 __Version user sees when a page has all custom content fields:__
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-heading-hierarchy-071620.pdf
