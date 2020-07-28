@@ -30,9 +30,9 @@
   - [High Level Design](#high-level-design)
   - [Specifics](#specifics)
     - [Detailed Design](#detailed-design)
+      - [Reuse existing broken link check](#reuse-existing-broken-link-check)
       - [New build script to supplement existing build script](#new-build-script-to-supplement-existing-build-script)
       - [Content to be validated](#content-to-be-validated)
-      - [Reuse existing `check-broken-link` plugin in new build script](#reuse-existing-check-broken-link-plugin-in-new-build-script)
       - [Update accessibility tests config](#update-accessibility-tests-config)
       - [Improved invalid content reporting](#improved-invalid-content-reporting)
       - [New scheduled job in Jenkins](#new-scheduled-job-in-jenkins)
@@ -213,7 +213,9 @@ Once the [build separation work](https://github.com/department-of-veterans-affai
 
 The Metalsmith static content build will be extracted to the `content-build` repo and deleted from the `vets-website` repo and deployment pipeline. Webpack will handle the application build for the `vets-website` repo, and Metalsmith will handle the static content build for the `content-build` repo.
 
-The validation of static content will take place in a scheduled job that runs every workday, instead of happening as part of the full deploy. Since the broken link check happens during the Metalsmith build, and the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for content validation. That build will only be used for reporting broken links and accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
+The broken link validation will continue using the existing the `check-broken-link` Metalsmith plugin and `glean-broken-links` script. Since broken links currently block content-only deploys, then we will continue blocking content-only deploys when broken links are detected.
+
+The validation of accessibility errors will take place in a scheduled job that runs hourly during workdays, instead of happening as part of the full deploy. Since the accessibility check relies on the output of the content build, the scheduled job will run a script to produce a build that only has the steps necessary for accessibility checking. That build will only be used for reporting accessibility errors, and will have no impact on deploys. Those reports will be delivered to the #cms-team channel via existing Slack integrations.
 
 For content writers, this approach preserves their ability to quickly draft, publish, and deploy content. And the improved reporting will make it easier for them to pinpoint errors. The downside of this approach is that content writers still won't have a proactive way to fully validate their content.
 
@@ -234,21 +236,21 @@ In summary, this approach will have the following impact for the following group
 
 ### Detailed Design
 
+#### Reuse existing broken link check
+
+Since broken links already block deploys during content deploys, we will preserve the functionality.
+
 #### New build script to supplement existing build script
 
-Before axe and broken link checks can be run, the content needs to be built. A new build script will be created to supplement the existing build script. The new build script will be derived from the existing script, and modified to only include the steps necessary for the content validation. Since the existing build script uses Metalsmith, the new build script will also use Metalsmith.
+Before axe checks can be run, the content needs to be built. A new build script will be created to supplement the existing build script. The new build script will be derived from the existing build script, and modified to only include the steps necessary for the axe checks. Since the existing build script uses Metalsmith, the new build script will also use Metalsmith.
 
 #### Content to be validated
 
 To preserve the current functionality, we will first try to pull the latest content from Drupal. If we are unable to pull the latest content from Drupal, we will use the cached Drupal content.
 
-#### Reuse existing `check-broken-link` plugin in new build script
-
-We will reuse the existing `check-broken-link` Metalsmith plugin in the new build script.
-
 #### Update accessibility tests config
 
-The [current accessibility tests](https://github.com/department-of-veterans-affairs/vets-website/blob/f93e0c11d9e037bd2460ede5e2fb4b67fbaaf118/Jenkinsfile#L82-L84) use Nightwatch. The default value for [Nightwatch's `end_session_on_fail` test session setting](https://nightwatchjs.org/gettingstarted/configuration/#test-session-settings) is true. Since we want a report of all the failures, we would need to update the `end_session_on_fail` setting in our [Nightwatch config](https://github.com/department-of-veterans-affairs/content-build/blob/master/config/nightwatch.docker-compose.js) from `true` to `false`.
+The [current accessibility tests](https://github.com/department-of-veterans-affairs/vets-website/blob/f93e0c11d9e037bd2460ede5e2fb4b67fbaaf118/Jenkinsfile#L82-L84) use Nightwatch. The default value for [Nightwatch's `end_session_on_fail` test session setting](https://nightwatchjs.org/gettingstarted/configuration/#test-session-settings) is `true`. Since we want a report of all the failures, we would need to update the `end_session_on_fail` setting in our [Nightwatch config](https://github.com/department-of-veterans-affairs/content-build/blob/master/config/nightwatch.docker-compose.js) from `true` to `false`.
 
 #### Improved invalid content reporting
 
@@ -256,11 +258,11 @@ Currently, accessibility errors need to be manually communicated from the Fronte
 
 #### New scheduled job in Jenkins
 
-Lastly, we will write a scheduled Jenkins workflow to run the content validation script hourly during workdays. That way, the content team learns about invalid content at a convenience cadence.
+Lastly, we will write a scheduled Jenkins workflow to run the content validation script hourly during workdays. That way, the content team learns about invalid content at a convenient cadence.
 
 ### Code Location
 
-The content validation script and scheduled job config will live in the [new `content-build` repo](https://github.com/department-of-veterans-affairs/content-build).
+The broken link checks, axe checks, and scheduled job config will live in the [new `content-build` repo](https://github.com/department-of-veterans-affairs/content-build).
 
 ### Testing Plan
 
@@ -360,9 +362,8 @@ The following estimates vary greatly depending on who's doing the work.
 2. Write a Jenkins scheduled job to run a script every workday at midnight: <1 day
 3. Write a script that builds only what is necessary for content validation: 1-2 days
 4. Update the script so the accessibility checks don't stop on failure: <1 day
-5. Update the script to generate a report of broken links: <1 day
-6. Update the script to generate a report of accessibility errors: <1 day
-7. Update the scheduled job to call the content validation script: <1
+5. Update the script to generate a report of accessibility errors: <1 day
+6. Update the scheduled job to call the content validation script: <1 day
 
 ### Alternatives
 
@@ -377,6 +378,8 @@ Since the partial deploy already provides an avenue for invalid content to land 
 That would effectively be downgrading invalid content from an error to a warning.
 
 ### Future Work
+
+- Delete the `accessibility` step of the `integration` stage from the `vets-website` Jenkins pipeline because that step will no longer be necessary in `vets-website`. It will no longer be necessary because the application accessibility checks are included in the tests run by the `e2e` step.
 
 ### Revision History
 
