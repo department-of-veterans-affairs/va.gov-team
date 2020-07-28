@@ -180,7 +180,7 @@ A third Caretaker explained a past experience with her Veteran husband that woul
 
 * Use language that mirrors how Veterans understand and communicate benefit and facility terminology and highlight "what's in it for them".
 
-  * On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by insurance.
+  * On Community care listings, use words that Veterans use like 'in-network' to communicate that a location will be covered by VA health benefits.
 
   * On the Community Care urgent care information page, lead with the benefit that is new or differentiate how it differs from other programs with a similar name. Eg, "Urgent Care Closer to Home" or "More Urgent Care Options". Add a timestamp or explanation, "As of...you can now..." to make clear that this is different from previous programs. Be concise when writing and chunk information to be more scannable to reduce cognitive load.
 
