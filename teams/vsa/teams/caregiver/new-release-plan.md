@@ -18,14 +18,14 @@ We will answer these questions by testing the form "in the wild" at a small scal
 |---|---|---|---|
 |Phase 1: Moderated production testing |1 month|30 CSCs| TBD  |
 |Phase 2A: Canary release (minimal) |1 week|1%|TBD|
-|Phase 2B: Cardinal release (moderate) |2 weeks|5%|TBD|
-|Phase 2C: Eagle release (substanial) | 3 weeks | 50% | TBD
+|Phase 2B: Moderate release |2 weeks|5%|TBD|
+|Phase 2C: Substantial release| 3 weeks | 50% | TBD
 |Phase 3: Go Live| indefinite | 100% | TBD
 
 
 ---
 
-## Phase I: moderated production testing
+## Phase I: Moderated production testing
 
 ### Planning:
 - Desired date range or test duration: 1 month (dates TBD)
@@ -49,11 +49,10 @@ We will answer these questions by testing the form "in the wild" at a small scal
 ### Planning
 
 - Desired date range: _\[mm/dd/yy - mm/dd/yy\]_
-- How will you make the product available in production while limiting the number of users who can find/access it: \[_lorem ipsum_\]
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
-- Links to dashboard(s) showing "success criteria" metrics: _\[link here\]_
+- How will you make the product available in production while limiting the number of users who can find/access it: Feature [toggles](https://github.com/department-of-veterans-affairs/vets-website/pull/12855)
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: TBD\[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- Links to dashboard(s) showing "success criteria" metrics: Link coming soon
 
-_The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
 ### Stage A: Canary (Minimal)
 
@@ -61,7 +60,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 
 #### Planning
 
-- Length of time: 1 week (after UAT is completed)
+- Length of time: 1 week (after MPT is completed)
 - Percentage of Users (and roughly how many users do you expect this to be): 1% (less than 500 users) 
 
 #### Results:
@@ -71,7 +70,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: lorem ipsum
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: Cardinal (Moderate)
+### Stage B: Moderate
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
@@ -89,7 +88,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
-### Stage C: Eagle (Substantial)
+### Stage C: Substantial
 
 _Test a larger population of users to make sure there are no issues exposed by larger usage patterns._
 
