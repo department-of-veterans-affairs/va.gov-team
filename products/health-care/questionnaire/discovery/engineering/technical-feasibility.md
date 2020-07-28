@@ -10,13 +10,13 @@ During the research phase of the questionnaires product we need to answer a few 
 2. How do we authenticate the Veteran so we can show personalized health data?
 3. What is the scope involved with creating a form on va.gov?
 4. What is our Mobile and va.gov platform development strategy
-5. How do we show va.gov profile inforamtion by prepopulating a form or leverage a re-usable component?
+5. How do we show va.gov profile information by pre-populating a form or leverage a re-usable component?
 
 What is the scope involved with creating a form on va.gov?
 
-Creating a form on va.gov is a relatively straight forward process, the existing forms on the site all use pre-built React components on the front-end that submit to an API endpoint set up on the back-end. The back-end API endpoints are required for allowing the user to sign in and use the 'save in progress' functionality so if we want to take advantage of that we will need API endpoints set up on the back-end. Depending on the functionality reccomended by design and UX we should be able to use the pre-built React components since they are 100% compliant with our pattern library and have already been UX tested for the most part for other projects.
+Creating a form on va.gov is a relatively straight forward process, the existing forms on the site all use pre-built React components on the front-end that submit to an API endpoint set up on the back-end. The back-end API endpoints are required for allowing the user to sign in and use the 'save in progress' functionality so if we want to take advantage of that we will need API endpoints set up on the back-end. Depending on the functionality recommended by design and UX we should be able to use the pre-built React components since they are 100% compliant with our pattern library and have already been UX tested for the most part for other projects.
 
-A few remaining questions revolve around the fact that our form, the 10-10CG form, needs to be filled out by up to 4 seperate people. Defining that workflow is largely a responsibility of the design and UX team members however engineering is prepared to make reccomendations on technical direction based on what design and UX come up with. This technical direction can include both a "quick" solution using existing components as well as a "max state" that would require engineering to either extend current components or build completely new components.
+A few remaining questions revolve around the fact that our form, the 10-10CG form, needs to be filled out by up to 4 separate people. Defining that workflow is largely a responsibility of the design and UX team members however engineering is prepared to make recommendations on technical direction based on what design and UX come up with. This technical direction can include both a "quick" solution using existing components as well as a "max state" that would require engineering to either extend current components or build completely new components.
 
 ![captured (1)](https://user-images.githubusercontent.com/1793923/86625609-57103880-bf93-11ea-830a-477e91c1ac8f.gif)
 
