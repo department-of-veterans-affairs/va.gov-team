@@ -189,7 +189,7 @@ https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/s
 **Rails sample client app for developer.va.gov**
 
 We have not yet determined how vets-api will be updated to interact with lightouse but
-This there is a rails sample app that may be useful since vets-api is also a rails app. 
+there is a rails sample app that may be useful since vets-api is also a rails app. 
 The application is found here:
 https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/samples/oauth_rails/vethealth
 
