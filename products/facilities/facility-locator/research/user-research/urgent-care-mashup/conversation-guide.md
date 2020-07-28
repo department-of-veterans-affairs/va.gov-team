@@ -6,7 +6,7 @@
 
 - [ ] Notifications off
 - [ ] Turn off waiting room feature in Zoom
-- [ ] [Link to Prototype](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130497321/simulate/no-panels?mode=cvhidm)
+- [ ] [Link to Prototype](https://preview.uxpin.com/dc9108ce2d9bbd5ad9a53d1173d77e605e0a985d#/pages/131055877/simulate/no-panels)
 
 ## Intro - 3 minutes
 
@@ -38,7 +38,7 @@ Before we start, a few things I want to mention:
 I'm going to share a link to a prototype here in the zoom chat window for you to click on. Then I'll want you to share your screen so that I can follow along and see what you see.
 
 ###### MODERATOR SHARES LINK TO PROTOTYPE
-[UXPin Link](https://preview.uxpin.com/f373333a8a59902cbf120c3f00e6d0e13d52fb75#/pages/130395562?mode=cvhidm)
+[UXPin Link](https://preview.uxpin.com/dc9108ce2d9bbd5ad9a53d1173d77e605e0a985d#/pages/131055877/simulate/no-panels)
 
 Since this is only a prototype some links and features will work but most won't. I ask that you think out loud as we go through the prototype.
 
