@@ -16,10 +16,13 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 
 </details>
 
-## Use Case A
+## Use Case A - Minimum custom form data
 
 * **Description:** 
-  - When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with data that's coming from the source VA forms database, the minimum custom data (Related to field), and the standard set of "helpful links."  
+  - When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with:
+    - data that's coming from the source VA forms database
+    - the minimum custom data (Related to field)
+    - the standard set of "helpful links."  
 
 * **Link to designs:** 
   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-va-forms-redesign/form-detail-landing-pages/final-docs#visual-mockups
@@ -29,7 +32,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 
 
 
-## Use Case B
+## Use Case B - Maximum custom form data
 
 * **Description:** When a form page has all custom data added in Drupal. Mockup shows the maximal version of a form detail landing page with data that's coming from the source VA forms database, plus all the custom Drupal added data.  
 
