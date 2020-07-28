@@ -4,9 +4,11 @@
 
 ### Agenda
 
-1. 
-2. 
-3. 
+1. Review backlog 
+2. Demo 
+3. Governance discovery
+4. Content reusability across products (eg Q&As)
+
 
 ### Action items
 
