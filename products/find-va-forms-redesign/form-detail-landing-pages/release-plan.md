@@ -83,12 +83,12 @@ This product does not need a staged rollout, per above criteria, but we have dec
 - **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:** 
   - We will invite VA forms and business SMEs to visit their form detail page and test form download and links are working for them. 
   - We will track CTRs from the forms search to the corresponding form detail page and make sure we have an < 5% error rate. 
-    - :arrow_right: *Note: CTR cannot be calculated until we've iterated the search results to provide a link to form detail pages*
+    - :arrow_right: *Note: CTR cannot be calculated until we've iterated the search results to provide a link to form detail pages* [#11453](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11453)
 
   We will track errors for:
 
   - Form download links
-  - Form detail page links from the search :arrow_right: *Note: this is not available until the search results to provide a link to form detail pages*
+  - Form detail page links from the search :arrow_right: *Note: this is not available until the search results provide a link to form detail pages* [#11453](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11453)
   - Online tool links on the form detail page
   - Related forms links, if any, on the form detail page
 
