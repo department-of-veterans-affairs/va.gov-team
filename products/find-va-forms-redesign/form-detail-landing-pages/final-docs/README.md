@@ -42,5 +42,5 @@ __Version user sees when a page has all custom content fields:__
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-heading-hierarchy-071620.pdf
 
 __Version user sees when a page has no custom content fields:__
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-071620.pdf
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-va-forms-redesign/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
 
