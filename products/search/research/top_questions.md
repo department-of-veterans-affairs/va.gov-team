@@ -17,8 +17,6 @@ For the analysis, the following tools were used:
   - Google Search Console
   - Bing Web Developer Tools
   - SEMRush
-  
-Source Document for Data: https://docs.google.com/document/d/1CFY2iCZT_92venp8NCgTXjPRS2cI_3OURN6yFJIxhMY/edit
 
 ## On-Site Search
 ### Top Questions/Answers
