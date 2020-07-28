@@ -30,12 +30,15 @@
 
 ### Do I need a staged rollout?
 
+<details>
+
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
 
 * This change does not add substantial new functionality to VA.gov: *Yes*
 * This change does not impact user flows through tasks: *Yes*
 * This change does not affect traffic to backend services: *Yes*
 
+</details>
 
 This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
 - number of new nodes
@@ -85,7 +88,7 @@ This product does not need a staged rollout, per above criteria, but we have dec
   We will track errors for:
 
   - Form download links
-  - Form detail page links from the search
+  - Form detail page links from the search :arrow_right: *Note: this is not available until the search results to provide a link to form detail pages*
   - Online tool links on the form detail page
   - Related forms links, if any, on the form detail page
 
