@@ -94,8 +94,6 @@
    - At least one woman
    - At least 3 Veterans with a disability rating of 80% or higher
    - At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
-   
-**Note:**   
 - For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
 - For this session, we are unable to include people with significant vision loss.
 - For this session, we are unable to include people who use magnification tools.
