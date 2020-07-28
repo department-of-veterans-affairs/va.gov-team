@@ -10,7 +10,7 @@
 ----
 ## Sprint 26 (7/15 - 7/28)
 ```diff
-- 46 points over 15 issues
+- 83 points over 27 issues
 ```
 ## 1. Prepare "Dependency Claims" for launch
 - FE/BE: Resolve late bugs, merge submission PR, address larger launch events, target Staging Review  
