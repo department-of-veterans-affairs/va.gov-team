@@ -186,6 +186,8 @@ For more information: https://github.com/department-of-veterans-affairs/va.gov-t
 There is a Rails sample client application for accessing va.developer.gov:
 https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/samples/oauth_rails/vethealth
 
+**Rails sample client app for developer.va.gov**
+
 This sample code may be useful since vets-api is also a rails app.
 
 This application works with a few changes. 
