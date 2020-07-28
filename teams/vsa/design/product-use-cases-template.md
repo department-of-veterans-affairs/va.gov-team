@@ -18,27 +18,33 @@ Link to product outline: [Product Name](#)
 
 ## Use Case A
 
-* Description
+* **Description**
+  - lorem ipsum
 
 * Link to designs
+  - lorem ipsum
 
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
 
 ## Use Case B
 
-* Description
+* **Description**
+  - lorem ipsum
 
 * Link to designs
+  - lorem ipsum
 
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
 
 ## Use Case C
 
-* Description
+* **Description**
+  - lorem ipsum
 
 * Link to designs
+  - lorem ipsum
 
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
+* **Instructions to access in Staging (or Prod for Drupal)** (_Note: credentials should be stored in sensitive repos only_)
+  - lorem ipsum
