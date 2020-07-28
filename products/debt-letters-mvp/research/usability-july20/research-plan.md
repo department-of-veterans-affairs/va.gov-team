@@ -80,17 +80,22 @@
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts.<br>
-**Note:** The tool we are testing does not include VA medical copayment debts.
-- In order to reach the desires number of participants, we would like Perigean to schedule 15 participants total, with the expectation that a max of 7 no-shows
+- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Participants who have a debt not included in that list will not be able to participate.<br>
+**Note:** The tool we are testing does not include VA medical copayment debts. 
+
+- In order to reach the desired number of participants, we would like Perigean to schedule 15 participants total.
 - We would like to speak with a mix of participants, including:
-   - A mix of pre- and post-9/11 Veterans
-   - A mix of familiarity with technology
-   - Include a mix of male and female Veterans
    - At least 7 participants who have had Education debts (CH 33, CH 34, CH 35)
-   - At least 8 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
+   - At least 7 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
+   - At least one pre-9/11 Veteran
+   - At least one post-9/11 Veteran
+   - At least one person that does not have a college degree (to include enlisted Vets)
+   - At least one person that has a college degree (to include of officer Vets)
+   - At least one woman
    - At least 3 Veterans with a disability rating of 80% or higher
+   - At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
    
+**Note:**   
 - For this session, we are unable to include those who use assistive technology, such as screen readers (JAWS, NVDA, VoiceOver, and ChromeVox).
 - For this session, we are unable to include people with significant vision loss.
 - For this session, we are unable to include people who use magnification tools.
