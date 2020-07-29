@@ -253,12 +253,12 @@ In order for a user to view the VA.gov user profile, they have to meet the follo
 **Users who have not verified their identity (LOA1)**
 - If someone is logged in and is in MPI but has not verified their identity on VA.gov, they will only see the Account security section of the VA.gov profile when they go to www.va.gov/profile. From here, they can add additional security to their account by verifying their identity or adding 2-factor authentication (2FA). In order to view their personal and contact information, military information, or direct deposit information (if applicable), they must verify their identity (https://va.gov/verify/).
 
-(insert photo of LOA1 screen)
+![LOA1 screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/LOA1.png)
 
 **Users who have verified their identity (LOA3)**
  Users that are logged in, in MPI, and have verified their identity (LOA3) will be able to view their full profile on VA.gov.
 
-(insert photo of LOA3 screen)
+![LOA3 screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Design/LOA3.png)
 
 [Use Cases - Staging Users Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/QA/Staging%20Users%20-%20Test%20Cases.md)
 
