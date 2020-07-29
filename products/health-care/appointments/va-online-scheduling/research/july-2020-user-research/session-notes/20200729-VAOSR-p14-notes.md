@@ -1,5 +1,9 @@
 # VAOSR MVP Conversation Guide: July 2020 - Participant 14
 
+## Session notes:
+- Conversation guide modified on 2020-07-29 to include additional questions in [Section 0](#section-0-warm-up-questions) pertaining to users mental model around scheduling, more broadly.
+- This session did not get to look at the Exrpess Care prototype, but was asked basic questions about Express Care knowledge in [Section 5](#section-5-express-care-prototype)
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
