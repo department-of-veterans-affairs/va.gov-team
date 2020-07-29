@@ -3,24 +3,24 @@
 The purpose of this guide is to help with converting Nightwatch tests to Cypress.
 
 # Table of Contents
-1. [Initial Setup](#initial-setup)
-2. [Writing Tests](#writing-tests)
-    1. [Test Structure](#test-structure)
+1. [Initial setup](#initial-setup)
+2. [Writing tests](#writing-tests)
+    1. [Test structure](#test-structure)
     2. [Visiting a page](#visiting-a-page)
-    3. [Interacting With Page Elements](#interacting-with-page-elements)
-    4. [Mock API Responses](#mock-api-responses)
-    5. [Custom Commands](#custom-commands)
-        1. [Mock Users](#mock-users)
-        2. [Test Data (Fixtures)](#test-data)
-        3. [File Uploads](#file-uploads)
+    3. [Interacting with page elements](#interacting-with-page-elements)
+    4. [Mock API responses](#mock-api-responses)
+    5. [Custom commands](#custom-commands)
+        1. [Mock users](#mock-users)
+        2. [Test data (fixtures)](#test-data)
+        3. [File uploads](#file-uploads)
         4. [Accessibility](#accessibility)
     6. [Assertions](#assertions)
-3. [Running Tests](#running-tests)
-    1. [Headless Mode](#headless-mode)
-    2. [Test Runner](#test-runner)
-4. [Things to Note](#things-to-note)
+3. [Running tests](#running-tests)
+    1. [Headless mode](#headless-mode)
+    2. [Test runner](#test-runner)
+4. [Things to note](#things-to-note)
 
-## Initial Setup <a name="initial-setup"></a>
+## Initial setup <a name="initial-setup"></a>
 
 Cypress tests, like Nightwatch tests, should be written in the `tests` directory of the application. Cypress tests should also have the file extension `.cypress.spec.js` (e.g. `my-test-name.cypress.spec.js`).
 
@@ -42,12 +42,12 @@ vets-website
 - `plugins` contains custom tasks, which allow you to [tap into the Node environment](https://docs.cypress.io/guides/tooling/plugins-guide.html). This is valuable because all Cypress test code is executed in the browser, so plugins allow us to execute code in the Node process running outside of the browser.
 - `support` contains [custom Cypress commands](https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax). By default, the custom commands imported in `commands/index.js` are available to all of our Cypress tests. These commands can be invoked similarly to the built in commands. This feature is similar to [Nightwatch's custom commands](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/#custom-nightwatch-commands). This is also where custom commands from Cypress plugins are imported, as can be seen in `index.js`.
 
-### Test Dependencies
+### Test dependencies
 You generally do not need to import any modules for helpers, timeouts, etc. as with Nightwatch.
 
-## Writing Tests <a name="writing-tests"></a>
+## Writing tests <a name="writing-tests"></a>
 
-### Test Structure <a name="test-structure"></a>
+### Test structure <a name="test-structure"></a>
 The test structure of Cypress should feel familiar. Cypress uses Mocha's BDD syntax, which is what we use for our unit tests.
 
 Each spec file starts a new browser instance and runs the suite of tests according to the `describe()` and `it()` blocks.
@@ -56,10 +56,10 @@ Note that `it()` blocks are individual tests, so each `it()` block should be ind
 
 Visit [the Cypress docs](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Test-Structure) for more context.
 
-#### Form Tests
+#### Form tests
 Applications that are built with the VA Forms Library should be tested with the [Cypress form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester).
 
-### Visiting a Page <a name="visiting-a-page"></a>
+### Visiting a page <a name="visiting-a-page"></a>
 When [visiting a page](https://docs.cypress.io/api/commands/visit.html#Syntax), you don't need to specify the `baseUrl`. Cypress's configuration file takes care of this. So rather than grabbing the `baseUrl` from the helpers in Nightwatch:
 
 ```javascript
@@ -72,7 +72,7 @@ You can instead visit the page with a relative path:
 cy.visit('health-care/apply/application');
 ```
 
-### Interacting with Page Elements <a name="interacting-with-page-elements"></a>
+### Interacting with page elements <a name="interacting-with-page-elements"></a>
 Cypress has a [comprehensive API](https://docs.cypress.io/api/api/table-of-contents.html) that allows for easy interaction with elements.
 
 As much as possible, the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) queries should be preferred over `cy.get()` or `cy.contains()` for selecting elements. Only the `findBy*` and `findAllBy*` variants are available from the [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/api-queries) queries. Note that the queries are in descending order of recommendation (e.g., prefer `findByLabelText` over `findByRole` over `findByTestId`).
@@ -104,7 +104,7 @@ Cypress:
 cy.get('.form-panel .usa-button-primary').click();
 ```
 
-#### Selecting From Dropdown
+#### Selecting from dropdown
 Nightwatch:
 ```javascript
 client.selectDropdown('root_veteranAddress_country', data.veteranAddress.country);
@@ -114,7 +114,7 @@ Cypress:
 cy.findByLabelText(/country/i).select(testData.veteranAddress.country);
 ```
 
-#### Entering Data
+#### Entering data
 Nightwatch:
 ```javascript
 client.fill('input[name="root_firstName"]', data.veteranFullName.first);
@@ -128,7 +128,7 @@ For more information about how Cypress interactions behave, visit [the Cypress g
 
 For additional ways to interact with the DOM, we have also included the [Cypress Testing Library](https://testing-library.com/docs/cypress-testing-library/intro) as a dependency.
 
-### Mock API Responses <a name="mock-api-responses"></a>
+### Mock API responses <a name="mock-api-responses"></a>
 
 Cypress allows you to [stub responses](https://docs.cypress.io/guides/guides/network-requests.html#Stubbing), avoiding the need for mock API helpers.
 
@@ -165,7 +165,7 @@ All of your mock API calls using `mockData()` can be replaced with `cy.route()`.
 
 Be sure to always start the server with `cy.server()` before stubbing requests.
 
-### Custom Commands <a name="custom-commands"></a>
+### Custom commands <a name="custom-commands"></a>
 
 Some custom Nightwatch commands located in `src/platform/testing/e2e/nightwatch-commands` were converted to custom Cypress commands, and can be found in `src/platform/testing/e2e/cypress/support/commands`.
 
@@ -173,7 +173,7 @@ Many of them did not need to be converted, either because Cypress supports their
 
 We have custom commands to acccomplish some common tasks, which are highlighted below. To get the full listing of available custom commands, see `src/platform/testing/e2e/cypress/support/commands`.
 
-#### Mock Users <a name="mock-users"></a>
+#### Mock users <a name="mock-users"></a>
 
 For simulating a signed-in session with a mock user, use `cy.login()`.
 
@@ -193,7 +193,7 @@ const myUser = {
 cy.login(myUser);
 ```
 
-#### Test Data (Fixtures) <a name="test-data"></a>
+#### Test data (fixtures) <a name="test-data"></a>
 
 In Cypress, because everything in a test is executed inside of the browser, [fixtures](https://docs.cypress.io/api/commands/fixture.html#Syntax) are used to get access to data in tests.
 
@@ -231,7 +231,7 @@ cy.route('/v0/foo', 'fixture:data/foo');
 cy.route('/v0/bar', 'fx:data/bar');
 ```
 
-#### File Uploads <a name="file-uploads"></a>
+#### File uploads <a name="file-uploads"></a>
 
 File uploads are not yet natively supported in Cypress. We have a custom command for uploading files that is based off of [this workaround](https://github.com/cypress-io/cypress/issues/170#issuecomment-619758213). It must be chained from a command that retrieves an upload input element.
 
@@ -292,7 +292,7 @@ Checks if the given element is disabled on the page.
 cy.findByRole('button', { name: 'Submit' }).should('be.disabled')
 ```
 
-## Running Tests <a name="running-tests"></a>
+## Running tests <a name="running-tests"></a>
 Cypress supports Chrome, Edge, Firefox, and a few [others](https://docs.cypress.io/guides/guides/launching-browsers.html#Browsers). You can run tests in headless mode or via the test runner.
 
 ### Headless mode <a name="headless-mode"></a>
@@ -309,7 +309,7 @@ You may experience some performance issues where particular long-running tests (
 For this reason, for local development, it might be better to run specific specs, even more so in the test runner. The Cypress team is [investigating various issues regarding performance](https://github.com/cypress-io/cypress/issues/6388#issuecomment-648795870) that may likely be related to this.
 
 
-### Test Runner <a name="test-runner"></a>
+### Test runner <a name="test-runner"></a>
 To run tests in the Cypress [test runner](https://docs.cypress.io/guides/core-concepts/test-runner.html#Overview), run `yarn cy:open`.
 
 There is a dropdown menu in the top right of the test runner that allows you to select a browser in which to run your tests. In our experience, Firefox has yielded the fastest test runs when testing locally, although it is currently a beta feature. The tests in CI will run in the default browser, which is Electron.
@@ -320,12 +320,12 @@ With the test runner, you are able to use Cypress's "Selector Playground". This 
 
 You may find it useful to append certain [options](https://docs.cypress.io/guides/guides/command-line.html#Commands) to the commands above.
 
-## Things to Note <a name="things-to-note"></a>
+## Things to note <a name="things-to-note"></a>
 
-### Automatic Waiting
+### Automatic waiting
 Cypress automatically waits for commands to execute before moving on to the next one. This eliminates the need to use the timeout constants in `platform/testing/e2e/timeouts.js`.
 
 Cypress queues its commands instead of running them synchronously, so doing something like [this](https://docs.cypress.io/guides/references/best-practices.html#Assigning-Return-Values) will not work.
 
-### Third Party Plugins
+### Third-party plugins
 Cypress has many third party [plugins](https://docs.cypress.io/plugins/) available. If you find yourself needing to do something that isn't natively supported, there may be a plugin for it.
