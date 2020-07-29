@@ -48,10 +48,10 @@ Before we look at the website, let’s start with a few warm-up questions.
   - Type of visit (in person, video, phone)
 - What do you call the place that you go for an appointment?
   - Probe: Hospital, site, location, clinic, doctors office, provider, etc.
+- How do you currently schedule VA medical appointments?
+  - On average, how much time does it take for you to make an appointment?
 - If you could wave a magic wand and change how to make a VA medical appointment, what would you change?
   - Probe: What is the ideal way to make a VA medical appointment?
-- On average, how much time does it take for you to make an appointment?
-- How do you currently schedule VA medical appointments?
 - Are you familiar with any ways to schedule an appointment with any of your VA providers, online?
   - If YES:
     - Have you ever used this/these methods before?
