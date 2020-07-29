@@ -215,7 +215,7 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 ## Target Launch Date
-- Target launch date is September 1, 2020
+- Target launch date is September 9th, 2020
 - We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
 
 ---
