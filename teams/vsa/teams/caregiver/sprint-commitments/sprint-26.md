@@ -2,7 +2,7 @@
 - [x] Break sections of form into pages [Ticket]() [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/13532)
 - [x] Change JSON schema to fix zip code [Ticket]() [PR](https://github.com/department-of-veterans-affairs/vets-json-schema/pull/454)
 - [x] [Check in with QA on testing](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8646)
-- [ ] QA ticket/set up end-to-end tests [Ticket]() [PR]()
+- [ ] [QA ticket/set up end-to-end tests] (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11777)
 - [ ] [Fix phone number pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)
 
 ## Backend
