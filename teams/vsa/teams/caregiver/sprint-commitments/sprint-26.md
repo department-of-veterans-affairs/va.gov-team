@@ -4,6 +4,7 @@
 - [ ] Testing/setting up of GA Dashboard [Ticket]()
 - [x] Check in with QA on testing [Ticket]()
 - [ ] QA ticket/set up end-to-end tests [Ticket]() [PR]()
+- [ ] [Fix phone number pattern](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9299)
 
 ## Backend
 - [x] StatsD [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5672) [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4532)
@@ -17,8 +18,8 @@
 - Figure out content for error page [Ticket]()
 
 ## Design
-- Add content/visual re: loading time [Ticket]() [PR]()
-- Explore error message/print or download PDF [Ticket]() [PR]()
+- [Add content/visual re: loading time](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11575)
+- [Explore error message/print or download PDF]
 
 ## Product
 - New collab cycle initiave for new work (post-MVP) [Ticket]() [PR]()
