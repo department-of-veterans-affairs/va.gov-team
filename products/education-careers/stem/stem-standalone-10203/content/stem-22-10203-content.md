@@ -60,7 +60,7 @@ If you apply and you're not eligible, your application will be denied.
 
 #### 2. Prepare  
 
-To fill out this application, you’ll need your:  
+**To fill out this application, you’ll need your:**  
 
 * Social Security number  
 * Information about your school and STEM degree   
