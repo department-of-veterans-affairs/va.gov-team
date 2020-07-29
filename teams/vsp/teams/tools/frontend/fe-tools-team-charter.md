@@ -1,4 +1,19 @@
-# Tools & Improvement Team Charter
+# FE Tools Team Charter
+
+---
+
+## Who we are
+
+### Team Members:
+- Product Manager: @Megan Kelley
+- Frontend engineering lead: @Rian Fowler
+- Frontend engineer: @eugene_doan
+- Frontend engineer: @Brooks Johnson
+- Frontend engineer: @Jhonny Gonzalez
+- Frontend engineer: @Bill Fienberg
+- Frontend engineer: @Dan Shank
+- Frontend engineer: @Theo Bentum
+- Frontend engineer: @chris.valarida
 
 ---
 
@@ -21,24 +36,6 @@ Create and maintain solutions for VFS teams to deliver high-quality and cohesive
 
 
 ### Roadmap:
-
-
----
-
-## Who we are
-
-### Team Members:
-- Team Product Manager: Brandon Rapp
-
-- FE Dev Lead: Rian Fowler
-- FE Dev Engineer: Eugene Doan
-- FE Dev Enginner: Brooks Johnson
-- FE Dev Engineer: Jhonny Gonzalez
-
-- BE Dev Lead: Anna Carey
-- BE Dev Lead: Johnny Holton
-- BE Dev Lead: Travis Hilton
-
 
 ---
 
@@ -64,14 +61,12 @@ Review accomplishments from prior sprint, what went well, what can be improvemed
 
 - 1st Wednesday of every sprint @ Noon
 - 30 min
-- _any other notes you have_
 
 #### Grooming
 Assess and update workload for remainder of sprint and discuss objectives for next sprint
 
 - 2nd Thursday of every sprint
 - 1 hour
-- _any other notes you have_
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
