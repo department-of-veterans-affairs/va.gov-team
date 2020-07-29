@@ -76,7 +76,7 @@ Goal: improve planning and processes around research and design for mobile devic
 
    * Audit mobile-specific design Sketch templates, identify gaps 
 
-   * Submit research plan and kick of recruiting (end of week)
+   * Submit research plan and kick of recruiting for Week 3 study
 
       * Maybe aim to schedule sessions for W/Th, so we can synthesize on Friday and present in demo on Tuesday
 
