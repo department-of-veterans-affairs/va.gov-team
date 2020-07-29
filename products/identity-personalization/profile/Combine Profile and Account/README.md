@@ -222,7 +222,15 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 
 # Implementation Info
 
-## Status
+## Status (as of 7/29/20)
+**QA**: began 7/20/20 and is still underway
+**Accessibility review/scans**: completed in preparation for staging review 8/3/20
+**Staging review**: scheduled for 8/3/20
+**Privacy and Security Review**: not needed per Andrew Gunsch due to the fact it was a front end/UI change.
+**Call Center Review**: Making final changes to Product guide and creating Product Video in preparation for Call Center review in sprint 27
+
+
+## Solution Narrative
 
 - **Summer 2019**: Discovery completed.
 - **September 2019**: Initial design explorations
@@ -234,8 +242,6 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 - **May 2020**: Build; additional design as needed.
 - **June 2020**: Build; additional design as needed.
 - **July 2020**: Finish build; QA; pre-launch.
-
-## Solution Narrative
 
 ## How to Access and Test
 
