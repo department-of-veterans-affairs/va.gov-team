@@ -49,7 +49,7 @@ If you apply and you're not eligible, your application will be denied.
 
 #### 1. Determine eligibility  
 
-**To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below. You:**  
+**To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.**  
 
 * **Education benefit:** You're using or recently used Post-9/11 GI Bill or Fry Scholarship benefits.  
 
