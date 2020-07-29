@@ -211,11 +211,14 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 --- 
 
 ## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
+*How are Veterans and others using this product going to know it exists?*
+- The VA.gov profile is an existing feature
+
+*What marketing, outreach, or communications are necessary for this product to be successful?*
+- We will put a pop up to inform the user of changes that have been made for roughly 2 months after launching
 
 ## Target Launch Date
-- Target launch date is September 9th, 2020
+- Target launch date is mid-September 2020
 - We will begin measuring success as soon as we launch via GA analytics data. We should have materially significant data to     view within 1 week of launch.
 
 ---
@@ -223,15 +226,14 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 # Implementation Info
 
 ## Status (as of 7/29/20)
-**QA**: began 7/20/20 and is still underway
-**Accessibility review/scans**: completed in preparation for staging review 8/3/20
-**Staging review**: scheduled for 8/3/20
-**Privacy and Security Review**: not needed per Andrew Gunsch due to the fact it was a front end/UI change.
-**Call Center Review**: Making final changes to Product guide and creating Product Video in preparation for Call Center review in sprint 27
+- **QA**: began 7/20/20 and is still underway
+- **Accessibility review/scans**: completed in preparation for staging review 8/3/20
+- **Staging review**: scheduled for 8/3/20
+- **Privacy and Security Review**: not needed per Andrew Gunsch due to the fact it was a front end/UI change.
+- **Call Center Review**: Making final changes to Product guide and creating Product Video in preparation for Call Center review in sprint 27
 
 
 ## Solution Narrative
-
 - **Summer 2019**: Discovery completed.
 - **September 2019**: Initial design explorations
 - **October 2019**: Project put on hold due to other team needs.
