@@ -12,7 +12,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   
 - [Use Case A](#use-case-a) 
 - [Use Case B](#use-case-b)
-- ~[Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)~ 
+- [Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)
 
 </details>
 
