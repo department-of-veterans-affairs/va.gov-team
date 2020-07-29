@@ -1,19 +1,20 @@
-# Research Plan for COVID screener, May 2020
+# Research Plan for COVID vaccine trials, August 2020
 
 ## Goals	
-Provide the first round of Veteran feedback on the new screener tool based on the product build by the Raleigh/Durham VAMC. 
+Provide the first round of Veteran feedback on the tool (intake form) that allows Veterans to register for COVID-19 vaccine trial enrollment. 
 
-The screener allows the Veterans to quickly and remotely self-screen for COVID symptoms prior to entering a VA medical center. The first version was created to reduce in-person interaction with staff and triage potential COVID patients away from the general hospital population in Raleigh/Durham VAMC. The product was launched around May 8, 2020.
+The intake form allows the Veterans to quickly and remotely register for a VA-run COVID-19 vaccine clinical trial. 
 
 Our primary research questions are: 
-- What are users' (Veterans, employees, and visitors) expectations for screening/intake at the VAMC?
-- Can users effectively find and complete the screener?
-- Do users know what to do after completing the screener? Are their expectations met?
-- Does the screener accomplish the goals of the VAMC staff? (These will be more clearly defined before the study runs).
+- What are users' (Veterans) expectations for intake at for a clinical trial?
+- Can users effectively find and complete the intake form?
+- Does COVID-19 affect user's participation in clinical trials?
+- Do users know what to do after completing the intake form? Are their expectations met?
+- Does the intake form accomplish the goals of the ORD staff? 
 
 Hypothesis:
 
-We have built a fast, easily understood screening tool that Veterans can find and complete quickly.
+We have built a fast, easily understood intake form that enables Veterans to register for VA-run, COVID-19 vaccine clinical trials.
 
 
 ## Method	
@@ -21,7 +22,7 @@ Directed interviews combined with usability testing of a high-fidelity prototype
   	
 We will use the interview questions to gather contextual information around the users expectations for a visit to VAMC during COVID and the intake processes, questions will be tailored to the users profile (Veteran, staff, etc) and whether they have visited since COVID precautions started. We also have a live version of the product to do usability testing.
 
-Currently the prototype solution is available online, we may have a 2.0 version or high-fidelity mocks prior to this study running.
+Currently the prototype solution is available online. Users may access the prototype via text message or in Zoom. 
 
 Preference for now is to use a ZoomGov account but will consider any option that will allow a user to remotely share their mobile screen.
 
