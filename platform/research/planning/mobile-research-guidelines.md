@@ -17,8 +17,11 @@ This is the first draft of this document, which will evolve as we test out these
 ### Selecting a method
 There are two primary methods that are used for conducting mobile usability testing. Read about each one and their pros and cons.
 
-- Laptop hugging method
-- Screensharing method
-  - Plan to use Zoom if possible because it allows screen sharing from within its mobile app
+#### Laptop hugging method
+
+
+#### Screensharing method
+The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study.
+
   - Note the security warning users will see upon sharing screen
 
