@@ -1,4 +1,4 @@
-# Research Plan for BAM2, Debt Letters MVP, July 2020
+# Research Plan for BAM2, Debt Letters MVP, August 2020
 
 ## Goals	
 1. What product & team are you doing this research for?	
