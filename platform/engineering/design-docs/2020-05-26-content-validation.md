@@ -163,6 +163,8 @@ Link checking was also added to the CMS. That means every time a node is saved, 
 
 ###### Redirects
 
+The current broken link checking in Drupal can handle redirects, but those redirects are not currently synchronized with `vets-website`. When the redirects are not synchronized between `vets-website` and Drupal, a page that is moved in Drupal may pass the Drupal broken link check but fail the `vets-website` broken link check.
+
 Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities).
 
 ##### Accessibility Checking
@@ -337,8 +339,6 @@ The updated content validation approach will continue logging invalid content er
 - Slack notifications
 
 ### Caveats
-
-- The current broken link checking in Drupal can handle redirects, but those redirects are not currently synchronized with `vets-website`. When the redirects are not synchronized between `vets-website` and Drupal, a page that is moved in Drupal may pass the Drupal broken link check but fail the `vets-website` broken link check.
 
 ### Security Concerns
 
