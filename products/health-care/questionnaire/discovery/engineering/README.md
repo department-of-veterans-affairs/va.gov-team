@@ -240,38 +240,11 @@ https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/s
 
 We have not yet determined how vets-api will be updated to interact with lightouse but
 there is a rails sample app that may be useful since vets-api is also a rails app.
-The application is found here:
+The application is found here but it is not working:
 https://github.com/department-of-veterans-affairs/vets-api-clients/tree/master/samples/oauth_rails/vethealth
+A forked version of the app that works can be found here:
+https://github.com/massrb/vets-api-clients/tree/master/samples/oauth_rails/vethealth
 
-This application works with a few changes.
-The url at this line: https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/samples/oauth_rails/vethealth/app/models/health_api_response.rb#L9
-needs to be:
-
-```
-@target = "https://sandbox-api.va.gov/services/fhir/v0/argonaut/data-query/#{api_name}?#{search_param_name}=#{id}&page=#{page}&_count=#{count}"
-```
-
-3 lines below that, the code should be changed to:
-
-```
-@target = "https://sandbox-api.va.gov/services/fhir/v0/argonaut/data-query/#{api_name}/#{id}"
-```
-
-The scope in https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/samples/oauth_rails/vethealth/app/controllers/session_controller.rb#L70
-might need to be updated to the same used inside the url at:
-https://github.com/mdewey/VetsApiTest/blob/a9710429efb2dbe85c55a5905002288d15ac26ab/Controllers/AuthController.cs#L29
-
-The above change may require adding a refresh_token string field to the authentications db table.
-
-The sample app uses an expires_at field coming from lightouse that lighthouse no longer sends.
-remove the line that contains expires_at:
-https://github.com/department-of-veterans-affairs/vets-api-clients/blob/master/samples/oauth_rails/vethealth/app/models/authentication.rb#L13
-add these two lines:
-
-```
- attributes['expires_at'] = Time.zone.now + attributes['expires_in']
- attributes.delete('expires_in')
-```
 
 **Other FHIR based clients**
 
