@@ -8,7 +8,7 @@
 ## Backend
 - [x] [StatsD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5672) [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4532)
 - [ ] [Research backend requirements for returning PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11262)
-- [ ] Implement PDF generation for user [Needs Ticket]()[PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4567)
+- [ ] Implement PDF generation for user [Needs Ticket]()    [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4567)
 - [ ] [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204) 
 - [ ] [Add CARMA betamocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9631) 
 
