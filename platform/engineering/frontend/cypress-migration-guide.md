@@ -46,6 +46,7 @@ vets-website
 You generally do not need to import any modules for helpers, timeouts, etc. as with Nightwatch.
 
 ## Writing Tests <a name="writing-tests"></a>
+
 ### Test Structure <a name="test-structure"></a>
 The test structure of Cypress should feel familiar. Cypress uses Mocha's BDD syntax, which is what we use for our unit tests.
 
@@ -54,6 +55,9 @@ Each spec file starts a new browser instance and runs the suite of tests accordi
 Note that `it()` blocks are individual tests, so each `it()` block should be independent of others in the same test suite. Everything executed in the browser needs to be inside of an `it()` block.
 
 Visit [the Cypress docs](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Test-Structure) for more context.
+
+#### Form Tests
+Applications that are built with the VA Forms Library should be tested with the [Cypress form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester).
 
 ### Visiting a Page <a name="visiting-a-page"></a>
 When [visiting a page](https://docs.cypress.io/api/commands/visit.html#Syntax), you don't need to specify the `baseUrl`. Cypress's configuration file takes care of this. So rather than grabbing the `baseUrl` from the helpers in Nightwatch:
