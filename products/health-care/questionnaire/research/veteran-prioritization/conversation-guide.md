@@ -30,6 +30,8 @@ Before we begin, let’s start with a few warm-up questions.
 
 I'm going to send you a link in the chat. Once the link pulls up, will you share your screen with me?
 
+> Wondering if we should just share our screen and have them talk us through it?
+
 [CARD SORT LINK HERE]()
 
 Before we begin, I want to give you some context for this execise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care. 
