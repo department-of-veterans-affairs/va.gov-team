@@ -259,6 +259,15 @@ cy.injectAxe();
 cy.axeCheck();
 ```
 
+Depending on the content of a page, it may be more thorough to test accessibility after expanding all accordions (and expandable content in general) on the page. We have a custom command for that purpose:
+
+```javascript
+cy.expandAccordions();
+cy.axeCheck(); // Run the aXe check after expanding everything.
+```
+
+**Tests written with the form tester automatically check for accessibility, so this command does not need to be used explicitly in such tests.**
+
 ### Assertions <a name="assertions"></a>
 
 Cypress uses `chai` to [handle assertions](https://docs.cypress.io/guides/references/assertions.html#BDD-Assertions). Currently in the `nightwatch-assertions` folder, we have 4 custom assertions, which can all be replaced:
