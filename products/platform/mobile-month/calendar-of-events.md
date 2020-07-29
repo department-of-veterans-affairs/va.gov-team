@@ -34,11 +34,9 @@ Goal: Have everyone well versed in what current responsive mobile behavior entai
 
       * Hummingbird shares goals (native app), roadmap, app so far in an open presentation. Discussion around disambiguation between native and responsive web
 
-      * Analysis of mobile analytics/usage is shared, in a document and a meeting
-
    * Tuesday Team of teams
 
-      * Share mobile analytics?
+      * Share mobile analytics - content groupings % in desktop vs mobile
 
    * Mobile specific research documentation/guidance draft created
 
