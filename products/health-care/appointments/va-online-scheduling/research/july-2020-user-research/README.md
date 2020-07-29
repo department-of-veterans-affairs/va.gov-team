@@ -33,20 +33,26 @@
 
 ## Top takeaways
 
-| Number of participants who... | #    | %    |
-| ----------------------------- | ---- | ---- |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
-|                               |      |      |
+| Takeaway                                                     | #    | %    |
+| ------------------------------------------------------------ | ---- | ---- |
+| `section 0` Schedule an appointment online, on VA.gov        |      |      |
+| `section 0` Schedule an appointment online, on MHV           |      |      |
+| `section 0` Call to schedule an appointment                  |      |      |
+| `section 0` Schedule an appointment in person (when at appt, for follow up/next appt) |      |      |
+| `section 1` Expected to go back to [Schedule and View VA Appointments](https://www.va.gov/health-care/schedule-view-va-appointments/) after logging in |      |      |
+| `section 1` Expected to go VA Account/View VA Appointments after logging in |      |      |
+| `section 2: appointments list` Average number of upcoming appointments displayed |      | `    |
+| `section 3: locations-list 1` Had multiple locations in first location list and 2+ |      |      |
+| `section 3: locations-list 1` Had multiple locations in first location list and did not recognize any of them |      |      |
+| `section 3: location-list 2` Recognized locations after choosing an option from list 1 (after city, state displays) |      |      |
+| `section 3: appt details` Selected reason isn't listed       |      |      |
+| `section 4` Able to find and cancel appointment              |      |      |
+| `section 5` Have heard of/used Express Care                  |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
 
 ******
 
