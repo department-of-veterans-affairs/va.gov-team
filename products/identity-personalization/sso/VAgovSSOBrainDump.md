@@ -30,8 +30,8 @@
 * The sign in page allows other sites to use VA.gov as a sign-in gate. 
 * Other sites can link to the va.gov/sign-in with `application` and `to` query parameters. 
 * Sign-in page will ensure the user is signed in (either let them pick credentials and sign in, or check for an existing SSOe session and perform auto-login) and then redirect the user back to a target destination based on the `application` and `to` parameters.
-* Application parameter specifies a base URL (e.g. “myvahealth” points to VA EHRM domain), and to parameter specifies an exact target under that domain. 
-* Not the sign-in page does not act as a SAML identity provider to other sites - it only ensures that the SSOe session is established and redirects back to the target application with a regular web redirect. If consuming applications need a SAML payload they need to make a separate request to SSOe. When they do, the user will not need to authenticate again because of the existing session.
+* `application` parameter specifies a base URL (e.g. “myvahealth” points to VA EHRM domain), and `to` parameter specifies an exact target under that domain. 
+* Note the sign-in page does not act as a SAML identity provider to other sites - it only ensures that the SSOe session is established and redirects back to the target application with a regular web redirect. If consuming applications need a SAML payload they need to make a separate request to SSOe. When they do, the user will not need to authenticate again because of the existing session.
 
 ## Caveats
 * The sign-in page doesn’t currently do any LOA validation. In principle it could know that for “application=myvahealth” that LOA3 is required, and ensure that is the case before redirecting. 
