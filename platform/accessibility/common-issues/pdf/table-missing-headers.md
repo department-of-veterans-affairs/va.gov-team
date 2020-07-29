@@ -26,6 +26,8 @@ Table header rows can be defined in a few steps:
 3. Check the `Header Row` checkbox
 4. Confirm your fix using the [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
 
+![Header row checkbox is checked under MS Word Table Design tab](https://user-images.githubusercontent.com/934879/88830927-3ef79780-d194-11ea-815b-9a82dd3a045e.jpg)
+
 ---
 
 ### Define table headers in Acrobat Pro
@@ -39,17 +41,23 @@ Table header rows can be defined in a few steps:
 7. Repeat steps 4 through 6 to update all cells on the first row to be table headers.
 8. Confirm your fix using the [Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
 
+![Use the Tags inspector to edit the first row of TD cells and change them to TH cells](https://user-images.githubusercontent.com/934879/88831055-66e6fb00-d194-11ea-8d97-b538257073bc.jpg)
+
 ## Test for compliance
 
 ### Microsoft Word accessibility panel
 
 We recommend you check your Word document for accessibility while working. Click the `Review` tab, then click the `Check Accessibility` button to open the Accessibility Checker panel.
 
+![Click the Review tab in Word, then click the Check Accessibility button](https://user-images.githubusercontent.com/934879/88831092-7a926180-d194-11ea-8b71-dce1300deb2d.jpg)
+
 ---
 
 ### Acrobat Pro accessibility tools
 
-Run the Acrobat Accessibility Checker by clicking the purple `Accessibility` button on the top right of your application window. Click `Accessibility Check` in the accessibility panel, then click the `Start Checking` button. This will run the accessibility checker, and report any issues in a panel on the left of your document. 
+Run the Acrobat Accessibility Checker by clicking the purple `Accessibility` button on the top right of your application window. Click `Accessibility Check` in the accessibility panel, then click the `Start Checking` button. This will run the accessibility checker, and report any issues in a panel on the left of your document.
+
+![Table checks are included in the Acrobat accessibility checker](https://user-images.githubusercontent.com/934879/88831143-8b42d780-d194-11ea-9b4f-3aab13deb3c1.jpg)
 
 ## Learn more
 
