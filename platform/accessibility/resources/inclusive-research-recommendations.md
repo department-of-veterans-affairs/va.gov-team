@@ -69,6 +69,11 @@ It will not be possible to include those who use assistive technology if the res
 
 - For this session, we are unable to include people who use magnification tools.
 
+In addition, if your design prototype is created in UXPin, consider communicating that the study requires using the latest version of Chrome, Firefox, and Safari. Internet Explorer and Edge are not supported.
+
+If your research uses Optimal Workshop, consider testing your research ahead of time to see if screen reader users are able to participate.
+
+
 ### Recruiting for discovery research 
 
 People with disabilities can be included in generative and exploratory research through listening sessions and in-depth interviews
