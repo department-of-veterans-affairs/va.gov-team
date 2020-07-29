@@ -24,7 +24,6 @@ Table header rows can be defined in a few steps:
 1. Click the `Table Design` tab
 2. Click on the table you want to add a header row
 3. Check the `Header Row` checkbox
-4. Confirm your fix using the [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
 
 ![Header row checkbox is checked under MS Word Table Design tab](https://user-images.githubusercontent.com/934879/88830927-3ef79780-d194-11ea-815b-9a82dd3a045e.jpg)
 
@@ -39,7 +38,6 @@ Table header rows can be defined in a few steps:
 5. Click `<TD>` in the Tags inspector to edit the tag. Change it to a `<TH>` and press `ENTER`
 6. The tag icon will change slightly to a red cell inside a table. This confirms your cell has been updated to a table header.
 7. Repeat steps 4 through 6 to update all cells on the first row to be table headers.
-8. Confirm your fix using the [Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
 
 ![Use the Tags inspector to edit the first row of TD cells and change them to TH cells](https://user-images.githubusercontent.com/934879/88831055-66e6fb00-d194-11ea-8d97-b538257073bc.jpg)
 
