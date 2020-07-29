@@ -4,13 +4,15 @@
 
 - [Research plan](../july-2020-user-research/vaosr-june-research-plan.md)
 - [Conversation guide](../july-2020-user-research/vaosr-july-conversation-guide.md)
+   - *On 2020-07-29 the conversation guide was updated to include more general questions in Section 0 about users mental model about scheduling appointments*
+   - *On 2020-07-21 the conversation guide was update to reflect changes made to the Express Care prototype* 
 - [Session notes](../july-2020-user-research/session-notes)
 - [Research report - WIP]()
-- [Participant list and notes](#participant-list-and-notes)
-- [Top takeaways](#july-2020-research-top-takeaways)
+- [Participants](#participants)
+- [Top takeaways](#top-takeaways)
 - [Background](#background)
 
-## Participant list and notes
+## Participants
 
 | Session Notes                                                | Role                                                  | Gender | Ethnicity                                               | Age      | Education                | Branch             | Location |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ------ | ------------------------------------------------------- | -------- | ------------------------ | ------------------ | -------- |
@@ -28,7 +30,7 @@
 | [P12](../july-2020-user-research/session-notes/20200717-VAOSR-p12-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 25 - 34  | Master's degree          | Navy               | VA       |
 | [P13](../july-2020-user-research/session-notes/20200721-VAOSR-ECv2-p13-notes.md)<br />EC v2 only | Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Air Force, Army    | AL       |
 
-## July 2020 research: Top takeaways
+## Top takeaways
 
 | Number of participants who... | #    | %    |
 | ----------------------------- | ---- | ---- |
@@ -45,7 +47,7 @@
 |                               |      |      |
 |                               |      |      |
 
-
+******
 
 ## Background
 
