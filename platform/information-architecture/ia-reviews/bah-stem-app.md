@@ -1,13 +1,13 @@
 # IA Review and Recommendations
-**STATUS:** NOT STARTED
+**STATUS: DRAFT** 
 
 **Team:** BAH
 
 **Product/Featue:** STEM Scholoarship Application
 
-**Background/Context:**
+**Background/Context:**  Ability for users to complete a separate online application for the STEM scholarship
 
-**IA Request:** 
+**IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/11284
 
 <hr>
 
