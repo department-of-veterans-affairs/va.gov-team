@@ -248,10 +248,10 @@ In order for a user to view the VA.gov user profile, they have to meet the follo
 - Have verified their identity on VA.gov.
 
 **The Master Person Index (MPI)**
- Veterans found in Master Person Index (MPI) will have access to the VA.gov profile if they are logged in and have verified their identity (see below). To be in the MPI, a person has to have had some sort of interaction with the VA where they had data entered into the MPI system.  This could be online or offline. In most cases, a person calling into the call center will have already had some interaction with the VA and be in MPI.
+- Veterans found in Master Person Index (MPI) will have access to the VA.gov profile if they are logged in and have verified their identity (see below). To be in the MPI, a person has to have had some sort of interaction with the VA where they had data entered into the MPI system.  This could be online or offline. In most cases, a person calling into the call center will have already had some interaction with the VA and be in MPI.
 
 **Users who have not verified their identity (LOA1)**
- If someone is logged in and is in MPI but has not verified their identity on VA.gov, they will only see the Account security section of the VA.gov profile when they go to www.va.gov/profile. From here, they can add additional security to their account by verifying their identity or adding 2-factor authentication (2FA). In order to view their personal and contact information, military information, or direct deposit information (if applicable), they must verify their identity (https://va.gov/verify/).
+- If someone is logged in and is in MPI but has not verified their identity on VA.gov, they will only see the Account security section of the VA.gov profile when they go to www.va.gov/profile. From here, they can add additional security to their account by verifying their identity or adding 2-factor authentication (2FA). In order to view their personal and contact information, military information, or direct deposit information (if applicable), they must verify their identity (https://va.gov/verify/).
 
 (insert photo of LOA1 screen)
 
