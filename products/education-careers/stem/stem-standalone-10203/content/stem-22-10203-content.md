@@ -423,7 +423,9 @@ I don’t want to use direct deposit { checkbox } { If checked, Account type, Ba
 
 Information entered here won’t change your existing accounts for VA education or health benefits.
 
-What if I don't have a bank account or don't want to use direct deposit? { additional info component }
+{ additional info component }
+
+What if I don't have a bank account or don't want to use direct deposit? 
 
 The Department of the Treasury requires all federal benefit payments be made by electronic funds transfer (EFT), also called direct deposit.  
 
@@ -434,6 +436,7 @@ If you don’t have a bank account, or don’t wish to provide your bank account
 
 If you choose not to enroll, you’ll need to call the Department of the Treasury at [1-888-224-2950]() and speak to a representative handling waiver requests. They’ll encourage you to participate in EFT and address any questions or concerns you have.  
 
+{ end additional info component }
 
 [ Back | Continue ] { buttons }   
 [Finish this application later]()
