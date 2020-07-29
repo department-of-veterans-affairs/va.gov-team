@@ -1,4 +1,4 @@
-# VA appointment related terminology
+# VA location related terminology
 
 ## At a glance
 
