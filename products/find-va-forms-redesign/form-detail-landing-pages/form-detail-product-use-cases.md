@@ -12,7 +12,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   
 - [Use Case A](#use-case-a) 
 - [Use Case B](#use-case-b)
-- ~[Use Case C](#use-case-c)~ 
+- ~[Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)~ 
 
 </details>
 
@@ -49,6 +49,53 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
+
+
+## Batch 1 - top 40 forms for QA
+1.	https://prod.cms.va.gov/find-forms/about-form-21-4138
+2.	https://prod.cms.va.gov/find-forms/about-form-22-1995
+3.	https://prod.cms.va.gov/find-forms/about-form-21-526ez
+4.	https://prod.cms.va.gov/find-forms/about-form-21-2680
+5.	https://prod.cms.va.gov/find-forms/about-form-10-7959c Related forms for Spanish version missing in Drupal. Workaround per Slack comment (https://dsva.slack.com/archives/CUB5X5MGF/p1594238881403100?thread_ts=1594226787.398600&cid=CUB5X5MGF)
+6.	https://prod.cms.va.gov/find-forms/about-form-10-10d : Cannot link Spanish version of 10-7959c bc it doesn’t exist in Drupal. Implemented workaround per Slack comment linked above.
+7.	https://prod.cms.va.gov/find-forms/about-form-21-22
+8.	https://prod.cms.va.gov/find-forms/about-form-10-5345
+9.	https://prod.cms.va.gov/find-forms/about-form-20-0995
+10.	https://prod.cms.va.gov/find-forms/about-form-21-686c : __Online tool not live yet__
+11.	https://prod.cms.va.gov/find-forms/about-form-10-0137 : __This form is still 404ing. Form owner has been notified. If form is still erroring during QA, we will pull it out and not publish node.__
+12.	https://prod.cms.va.gov/find-forms/about-form-21-0781 
+13.	https://prod.cms.va.gov/find-forms/about-form-21-0966 
+14.	https://prod.cms.va.gov/find-forms/about-form-21-0845
+15.	https://prod.cms.va.gov/find-forms/about-form-22-5490
+16.	https://prod.cms.va.gov/find-forms/about-form-26-1880
+17.	https://prod.cms.va.gov/find-forms/about-form-10-2850c
+18.	https://prod.cms.va.gov/find-forms/about-form-21-4142 :
+19.	https://prod.cms.va.gov/find-forms/about-form-21p-0969
+20.	https://prod.cms.va.gov/find-forms/about-form-21p-534ez
+21.	https://prod.cms.va.gov/find-forms/about-form-10-10ez-pdf
+22.	https://prod.cms.va.gov/find-forms/about-form-10-3542
+23.	https://prod.cms.va.gov/find-forms/about-form-22-1990e
+24.	https://prod.cms.va.gov/find-forms/about-form-22-1990n
+25.	https://prod.cms.va.gov/find-forms/about-form-22-1990
+26.	https://prod.cms.va.gov/find-forms/about-form-22-5495
+27.	https://prod.cms.va.gov/find-forms/about-form-va40-10007
+28.	https://prod.cms.va.gov/find-forms/about-form-21p-530
+29.	https://prod.cms.va.gov/find-forms/about-form-21p-527ez
+30.	https://prod.cms.va.gov/find-forms/about-form-10-10cg : __Online tool still hasn’t launched__
+31.	https://prod.cms.va.gov/find-forms/about-form-21-22a
+32.	https://prod.cms.va.gov/find-forms/about-form-21-674 
+33.	https://prod.cms.va.gov/find-forms/about-form-21p-509 
+34.	https://prod.cms.va.gov/find-forms/about-form-10-0137-espanol
+35.	https://prod.cms.va.gov/find-forms/about-form-10-0137a 
+36.	https://prod.cms.va.gov/find-forms/about-form-21-0781a 
+37.	https://prod.cms.va.gov/find-forms/about-form-21p-527   
+38.	https://prod.cms.va.gov/find-forms/about-form-21p-534 
+39.	https://prod.cms.va.gov/find-forms/about-form-10-10ez (esp)
+40.	https://prod.cms.va.gov/find-forms/about-form-10-10ezr  
+41.	https://prod.cms.va.gov/find-forms/about-form-21-0779 
+
+
+
 
 ~## Use Case C~
 
