@@ -269,6 +269,11 @@ Error handling information can be found in the [Product Guide](https://github.co
 
 ## API Calls and Dependent Systems
 
+Same as Direct Deposit
+Vet360 (address and contact information details)
+EMIS (user details call, says if user is a Veteran or not)
+Connected apps (TBD)
+
 ## Design
 
 ### Screenshots
