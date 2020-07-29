@@ -1,6 +1,6 @@
 # Testing Guidelines
 
-Front end apps on `vets-website` should have unit tests and end to end tests. It is the application team's responsibility to create and maintain adequate automated test coverage for their applications. 
+Front end apps on `vets-website` should have unit tests and end-to-end tests. It is the application team's responsibility to create and maintain adequate automated test coverage for their applications. 
 
 ## Unit tests 
 
