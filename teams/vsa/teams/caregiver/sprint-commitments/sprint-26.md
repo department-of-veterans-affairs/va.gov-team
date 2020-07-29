@@ -7,14 +7,14 @@
 
 ## Backend
 - [x] StatsD [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5672) [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4532)
-- [ ] Research backend requirements for returning PDF [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11262) [PR]()
+- [ ] Research backend requirements for returning PDF [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11262)
 - [ ] Implement changes from ^ [Ticket]() [PR](https://github.com/department-of-veterans-affairs/vets-api/pull/4567)
-- [ ] Send CARMA the claim's guid [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204) [PR]()
-- [ ] Add CARMA betamocks [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9631) [PR]()
+- [ ] Send CARMA the claim's guid [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204) 
+- [ ] Add CARMA betamocks [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9631) 
 
 ## Content
-- Create a draft of round 2 online language based off draft revised 10-10CG (be sure to consult with Peggy & Danielle) [Ticket]() [PR]()
-- Figure out content for error page [Ticket]() [PR]()
+- Create a draft of round 2 online language based off draft revised 10-10CG (be sure to consult with Peggy & Danielle) Ticket](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11368)
+- Figure out content for error page [Ticket]()
 
 ## Design
 - Add content/visual re: loading time [Ticket]() [PR]()
