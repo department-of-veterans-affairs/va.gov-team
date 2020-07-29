@@ -22,5 +22,5 @@
 
 ## Product
 - [ ] New collab cycle initiave for new work (post-MVP)
-- [ ] [Testing/setting up of GA Dashboard] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/11477)
+- [ ] [Testing/setting up of GA Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11477)
 
