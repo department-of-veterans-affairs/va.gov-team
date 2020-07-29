@@ -273,7 +273,7 @@ Error handling information can be found in the [Product Guide](https://github.co
 - GovDelivery API (send Direct Deposit related emails)
 - Vet360 (address and contact information details)
 - EMIS (user details call, ex: if user is a Veteran or not)
-- Connected apps (TBD)
+- Connected apps: vets-api -> lighthouse api -> okta (fetch/disconnect apps)
 
 ## Design
 
