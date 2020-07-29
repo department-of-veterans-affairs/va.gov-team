@@ -56,8 +56,9 @@ Researchers need to see the search habits of users and their interaction with th
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
 - Recruit 14 participants (with a goal of 10 participants)
-   - 2-3 participants using assistive tech devices (screen readers or magnifiers)
+   - 2-3 participants using assistive tech devices (screen readers or magnifiers) on desktop
    - 3-5 participants using a mobile device
+   - 5-6 participants on desktop
 - Participants are using Chapter 33 or Montgomery Bill benefits
 - Age Range: 18-65
 - Geography: Geographically dispersed across US
@@ -71,11 +72,14 @@ Researchers need to see the search habits of users and their interaction with th
 - Recruitment will be performed by Perigean Technologies
 ## When? 	
 1.	Timeline: What dates do you plan to do research? 	
-Sprint 53 - Exact dates TBD 	
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 	
+- August 12-13, 2020 	
+2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+- Aug 10, 2020
 3. Length of Sessions: How long do you estimate each session will be? 
 - 30 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
+- Wednesday, August 12th: 8:30-9:15AM, 9:45-10:30AM; 11 - 11:45AM; 12:15-1PM, 1:30-2:15PM; 2:45-3:30PM; 4-4:45PM
+- Thursday, August 13th: 8:30-9:15AM; 9:15-10AM; 11:15AM - 12PM; 12:30-1:15PM; 1:15-2PM; 3:15-4PM; 4-4:45PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 - Aug 11, 2020
 ## Team Roles	
