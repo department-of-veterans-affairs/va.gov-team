@@ -239,7 +239,31 @@ Currently, the profile satisfaction score is pretty low. My hypothesis is that p
 
 ## How to Access and Test
 
+**Staging**
+
+- https://staging.va.gov/profile
+
+In order for a user to view the VA.gov user profile, they have to meet the following criteria:
+•	Be logged in to VA.gov.
+•	Be found in the Master Person Index (MPI).
+•	Have verified their identity on VA.gov.
+
+**The Master Person Index (MPI)**
+Veterans found in Master Person Index (MPI) will have access to the VA.gov profile if they are logged in and have verified their identity (see below). To be in the MPI, a person has to have had some sort of interaction with the VA where they had data entered into the MPI system.  This could be online or offline. In most cases, a person calling into the call center will have already had some interaction with the VA and be in MPI.
+
+**Users who have not verified their identity (LOA1)**
+If someone is logged in and is in MPI but has not verified their identity on VA.gov, they will only see the Account security section of the VA.gov profile when they go to www.va.gov/profile. From here, they can add additional security to their account by verifying their identity or adding 2-factor authentication (2FA). In order to view their personal and contact information, military information, or direct deposit information (if applicable), they must verify their identity (https://va.gov/verify/).
+
+
+
+**Users who have verified their identity (LOA3)**
+Users that are logged in, in MPI, and have verified their identity (LOA3) will be able to view their full profile on VA.gov.
+
+
+- [Use Cases - Staging Users Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/QA/Staging%20Users%20-%20Test%20Cases.md)
+
 ## Error Handling
+Error handling information can be found in the [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Call%20Center/Product%20Guide%20-%20VA%20Profile.docx)
 
 ## Service Level Objective
 
