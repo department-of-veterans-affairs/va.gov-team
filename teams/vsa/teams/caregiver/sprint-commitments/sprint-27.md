@@ -7,7 +7,7 @@
 - [Documentation for error override enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10528)
 
 ## Back end
-- [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)]
+- [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
 - Allowing the user to print the PDF
 - GA event for failures
 - Backend toggles
