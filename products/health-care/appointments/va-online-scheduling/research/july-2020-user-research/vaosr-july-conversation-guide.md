@@ -35,6 +35,22 @@ Before we start, a few things I want to mention:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
+- Why do you make medical appointments? 
+  - Follow up:
+    - Is this a recurring appointment? 
+    - Is this appointment that needs to be in person?
+    - Do you think this could be a conversation over the phone/video chat?
+- Rank the importance of the following considerations, when you are making an appointment (alternative phrasing: When you need to make a medical appointment, what’s most important to you?)
+  - Location
+  - Provider
+  - Type of care
+  - Date/time
+  - Type of visit (in person, video, phone)
+- What do you call the place that you go for an appointment?
+  - Probe: Hospital, site, location, clinic, doctors office, provider, etc.
+- If you could wave a magic wand and change how to make a VA medical appointment, what would you change?
+  - Probe: What is the ideal way to make a VA medical appointment?
+- On average, how much time does it take for you to make an appointment?
 - How do you currently schedule VA medical appointments?
 - Are you familiar with any ways to schedule an appointment with any of your VA providers, online?
   - If YES:
@@ -113,6 +129,7 @@ Next, we're going to use the tool to schedule an appointment. Don't worry if you
 ## Section 4: Cancelling an appointment using VAOSR MVP
 
 Next, we're going to try to cancel an appointment using this tool.
+
 - Before we start this task, is there an appointment you wish to try to cancel today?
   - If YES: 
     - Great, let's try to cancel it.
@@ -134,6 +151,7 @@ Next, we're going to try to cancel an appointment using this tool.
 Next, we're going to take a look at a prototype. As I mentioned earlier, this is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a prototype, none of your actions will affect your actual VA information or benefits. 
 
 Before we look at the prototype, let's start with a few questions:
+
 - Have you heard of "Express Care"?
   - If YES: 
     - What is it? 
