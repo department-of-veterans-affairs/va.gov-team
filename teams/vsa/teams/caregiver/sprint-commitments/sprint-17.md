@@ -37,3 +37,5 @@
 - Updating API documentation
 - Working with CARMA on data contract
 - Looking into running data calls in the background to verify address and confirm Veteran identity
+
+:tada:
