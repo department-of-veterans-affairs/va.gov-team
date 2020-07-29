@@ -287,5 +287,6 @@ Error handling information can be found in the [Product Guide](https://github.co
 ![Profile 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.png)
 
 #### Account
+![Account 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/account_screenshot.png)
 
 ### After
