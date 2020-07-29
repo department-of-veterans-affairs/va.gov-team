@@ -14,6 +14,12 @@ This does not include research for Appeals projects, which is stored in differen
 
 ### July 2020
 
+#### July 1-10: Connected Accounts (privacy, consent and authorization) - Lighthouse 
+*Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado 
+
+- 11 participants 
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
+
 #### July 6-9: VA Form 22-10203 - Apply for Rogers STEM Scholarship, Round 2  
 *Booz Allen: Amy Knox, Cindy Cruz, Jen Jones*
 
