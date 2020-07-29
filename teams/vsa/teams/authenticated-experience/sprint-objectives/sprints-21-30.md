@@ -252,7 +252,6 @@ Tressa & Cassandra
 - Investigate showing upcoming appointments #10247
 - Investigate level of effort for showing overall disability rating #10249
 - Investigate level of effort for showing GI Bill benefits balance #10255
-- How are we going to build the logged-in homepage? #10256
 
 ### Direct deposit
 
@@ -290,7 +289,7 @@ Design
 - Plan for how/when to conduct user testing #10518
 
 Dev
-- Additional technical discovery?
+- How are we going to build the logged-in homepage? #10256
 
 ## Sprint 29 (8/26 – 9/8)
 
