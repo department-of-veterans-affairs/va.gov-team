@@ -5,7 +5,10 @@
 
 
 ## Back end
-- [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
+- [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)]
+
+## Design
+- Look into 10-10EZ address field work
 
 
 ## Content
