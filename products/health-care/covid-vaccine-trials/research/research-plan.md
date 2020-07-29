@@ -1,4 +1,4 @@
-# Research Plan for COVID vaccine trials, August 2020
+# Research Plan for COVID vaccine trial enrollment tool, August 2020
 
 ## Goals	
 Provide the first round of Veteran feedback on the tool (intake form) that allows Veterans to register for COVID-19 vaccine trial enrollment. 
