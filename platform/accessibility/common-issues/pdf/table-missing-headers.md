@@ -1,17 +1,31 @@
-# [PDF]: Table is Missing Headers
+# [PDF]: Table is missing headers
+
+## Table of contents
+
+- [[PDF]: Table is missing headers](#pdf-table-is-missing-headers)
+  - [Table of contents](#table-of-contents)
+  - [Statement of the issue](#statement-of-the-issue)
+  - [Definition of done](#definition-of-done)
+  - [Fix the issue](#fix-the-issue)
+    - [Define table headers in Microsoft Word](#define-table-headers-in-microsoft-word)
+    - [Define table headers in Acrobat Pro](#define-table-headers-in-acrobat-pro)
+  - [Test for compliance](#test-for-compliance)
+    - [Microsoft Word accessibility panel](#microsoft-word-accessibility-panel)
+    - [Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
+  - [Learn more](#learn-more)
 
 ## Statement of the issue
 
-* Synopsis: Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
-* Severity: Critical
-* Deque University help link: https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
-* WCAG Success Criteria: [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
+- Synopsis: Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
+- Severity: Critical
+- Deque University help link: https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header
+- WCAG Success Criteria: [1.3.1 Info and Relationships](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html)
 
 ## Definition of done
 
-* There SHOULD be **0 table header violations** in the Word [Check Accessibility panel](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-* There MUST be  in the Acrobat [Accessibility Checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
-* Consider exporting an accessibility report from Acrobat while running the Accessibility Checker
+- There SHOULD be **0 table header violations** in the Word [Check Accessibility panel](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- There MUST be  in the Acrobat [Accessibility Checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
+- Consider exporting an accessibility report from Acrobat while running the Accessibility Checker
 
 ## Fix the issue
 
@@ -59,6 +73,6 @@ Run the Acrobat Accessibility Checker by clicking the purple `Accessibility` but
 
 ## Learn more
 
-* [Create accessible tables in Word](https://support.microsoft.com/en-us/office/video-create-accessible-tables-in-word-cb464015-59dc-46a0-ac01-6217c62210e5)
-* [Correct table tags with the Tags panel in Acrobat Pro](https://helpx.adobe.com/acrobat/using/editing-document-structure-content-tags.html#correct_table_tags_with_the_tags_panel)
+- [Create accessible tables in Word](https://support.microsoft.com/en-us/office/video-create-accessible-tables-in-word-cb464015-59dc-46a0-ac01-6217c62210e5)
+- [Correct table tags with the Tags panel in Acrobat Pro](https://helpx.adobe.com/acrobat/using/editing-document-structure-content-tags.html#correct_table_tags_with_the_tags_panel)
 
