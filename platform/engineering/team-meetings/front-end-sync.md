@@ -1,3 +1,15 @@
+# 20200729
+
+## Agenda
+- Pager duty 
+- && + tenerary 
+
+## Notes
+- showed people how to create a maintenance window in PD
+- reviewed [when to use ternary in jsx](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)
+  - [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11798)
+- talked about node upgrade 
+
 # 20200715
 
 ## Agenda
