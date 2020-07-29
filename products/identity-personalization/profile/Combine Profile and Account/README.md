@@ -290,4 +290,5 @@ Error handling information can be found in the [Product Guide](https://github.co
 #### Account
 ![Account 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/account_screenshot.png)
 
-### After
+### After (Profile 2.0)
+![Profile 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/profile_2.0_screenshot.png)
