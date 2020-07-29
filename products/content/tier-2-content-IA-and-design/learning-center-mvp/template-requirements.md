@@ -20,7 +20,7 @@ This is WIP and may evolve based on user research and technical findings.
 - **Required: Need more help** - Email (optional, customizable) + Phone (default pulled from the benefit hub “Ask questions” right rail) + Chatbot link(TBD)
 - **Required: Was this helpful** - Backend functionality is still TBD and may not go out with October/Nov MVP.
 - **Required: Related information**  (minimum 1 benefit cross-link required which  is dynamically generated based on the benefit topic tag; pulled from the hub teaser text component used on the homepage. An additional 4 links can be custom added, for a max of 5 total.)
-- **Back to top links - ~required if TOC links are enabled:** displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
+- **Back to top links - ~required if TOC links are enabled:~** ~displays at the end of each H2 section~ Per accessibility feedback, we will create Back to top feature at the FE that's based on page height. 
 
 [Visual examples - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1588167553516/2773c854e8ff3a725a5e3ee03272b78e8519f78b)
 
