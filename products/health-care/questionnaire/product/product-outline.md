@@ -56,8 +56,8 @@ Veterans are unable to consistently share and update current health status and m
 
 - _Digital Front Door_ - (4A) As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to **access my health questionnaires in a similar way,** so the workflow is **consistent and convenient to my current experience.** - _On average Veterans use the Medications, Messaging, Online Scheduling, Facilities and Benefits experiences that they feel the intake questionnaires should be easily accessible from these workflows_
 - _Do not require a Login_ - (4B) As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity. - _On average, Veteran might not have completed the authorization and verification steps required to access their healthcare data and still should be able to complete pre-visit information._
-- _Notifications_ - (4C) As a Veteran, I want to be **notified in advance of my health care visit** that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can **complete when convenient and relevant for me.**  
-   - _On average Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit._ - (4D) As a Veteran, I want to be **notified in a similar or the same appointment reminder** that I receive today, so that the questionnaire is in **context of the visit** I am planning to attend. - _On average Veterans like VeText and the appt. reminders they receive today_
+- _Notifications_ - (4C) As a Veteran, I want to be **notified in advance of my health care visit** that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can **complete when convenient and relevant for me.**
+  - _On average Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit._ - (4D) As a Veteran, I want to be **notified in a similar or the same appointment reminder** that I receive today, so that the questionnaire is in **context of the visit** I am planning to attend. - _On average Veterans like VeText and the appt. reminders they receive today_
 - _Consumer and Private Practice Expectations_ - (4E) As a Veteran, I want to have a **similar experience in filling out pre-visit questionnaires that I receive outside the VA in private practice**, so that I can **partner in better communication and collaboration** with my VA care team.
 
 </details>
@@ -185,14 +185,17 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 ## Assumptions and Risks
 
 - Change Management needs to be championed and operationalized for patient provided-data workflow integration into the visit by the clinical care team
-- Multiple EMR integrations make it challenging to know the source of truth for Health Information to pre-populate the record.
-- FHIR specs are not all built into the Lighthouse roadmap nor both EHR's integration which will limit the standardized data interfaces
-- Lighthouse roadmap doesn't have to write transactions currently available back into the source systems.
+- Multiple EMR integrations make it challenging to know the source of truth for Health Information to pre-populate the record.[1]
+- FHIR specs are not all built into the Lighthouse roadmap nor both EHR's integration which will limit the standardized data interfaces.[1]
+- Lighthouse roadmap doesn't have to write transactions currently available back into the source systems.[1]
 - Veterans are currently using MHV to view and contribute to their health records, and the strategy to build an intake questionnaire on va.gov will be out of their workflow.
-- Authorization and Authentication on va.gov will allow for health data to be viewed and edited. The current authorization and authentication schemes do not support health record data.
+- Authorization and Authentication on va.gov will allow for health data to be viewed and edited. The current authorization and authentication schemes do not support health record data.[1]
 - Standardized documentation/questions haven't been rolled out to the entire VA; therefore, the questions that we ask the Veteran might not align with the current state questions at a pilot site. Or we build the questionnaire with the current state (customized at each facility) questions and have to later update at a later date.
-- The Forms library has some limitations that could lead to a scalability risk. Currently, any content updates are through a developer. This fact could lead to a content management risk, a bottleneck and a lack of customization
-- There are security concerns around unauthenticated users using the clipboard system. It's not impossible, but there are concerns to consider when designing the system
+- The Forms library has some limitations that could lead to a scalability risk. Currently, any content updates are through a developer. This fact could lead to a content management risk, a bottleneck and a lack of customization[2]
+- There are security concerns around unauthenticated users using the clipboard system. It's not impossible, but there are concerns to consider when designing the system[2]
+
+[1][health apis discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#health-data-apis)
+[2][forms discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#forms-discovery)
 
 ## Solution Approach
 
