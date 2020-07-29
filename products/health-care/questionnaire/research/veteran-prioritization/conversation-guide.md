@@ -34,7 +34,7 @@ I'm going to send you a link in the chat. Once the link pulls up, will you share
 
 Before we begin, I want to give you some context for this execise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care. 
 
-I have some categories listed here. Go ahead and drag and drop the topics into the categories based on importance to you. If you have questions or need clarification, feel free to ask me as you move through the exercise.
+I have some categories listed here. Go ahead and drag an item from the left and drop it into a category based on importance to you. If you have questions or need clarification, feel free to ask me as you move through the exercise.
 
 
 ### Things to listen for:
