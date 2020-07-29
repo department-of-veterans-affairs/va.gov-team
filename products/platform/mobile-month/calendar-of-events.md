@@ -34,7 +34,7 @@ Goal: Have everyone well versed in what current responsive mobile behavior entai
 
       * Hummingbird shares goals (native app), roadmap, app so far in an open presentation. Discussion around disambiguation between native and responsive web
 
-   * Tuesday Team of teams
+   * Tuesday Team of teams (August 4)
 
       * Share mobile analytics - content groupings % in desktop vs mobile
 
@@ -42,7 +42,7 @@ Goal: Have everyone well versed in what current responsive mobile behavior entai
 
       * [Draft started](https://docs.google.com/document/d/1aEO3fCrUiqrkQSC_uO4szDnabFRJHeLl79d6aP5WfWo/edit) by Emily and Crystabel
 
-   * Reach out to Mickin and Mandi to review GH template suggested changes - Liz will do this
+   * Suggested changes to GH temapltes proposed and incorporated (Liz to sync with Mickin and Mandi)
 
 ### August 10: Week 2: Mobile design + research - create guidance and tools for research and design on mobile
 
