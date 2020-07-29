@@ -47,11 +47,16 @@ Before we start, a few things I want to mention:
 - What sort of online tools or resources would you want available to you if you got a VA debt in the future?
 - What do you think about needing to log into VA.gov in order to see information about your debt?  
 
+**Screen share**
+
+Okay, please share your screen so I can follow along with you for the next portion of our session.  
+
 ## First Task: Find debt letters on VA.gov - 10 min
 
-_Direct the Veteran to VA.gov_
+- I'd like you to open a new tab in your browser, and go to https://www.va.gov/ and login. 
 
 Imagine that you received a letter about a VA debt in the mail some time ago and you’d like to look into it, but you’ve misplaced the letter. You’re now trying to find the digital copy of your debt letter somewhere on this site. Show me how you would go about doing that, starting from this page. Try to move a bit slower than you normally would on a website and talk me through what you’re thinking.
+
 ### Things to watch for:
 
 - Where does the Veteran go, and what is their reasoning?
