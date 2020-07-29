@@ -21,6 +21,7 @@
           - [The `check-broken-link` Metalsmith middleware](#the-check-broken-link-metalsmith-middleware)
           - [The `glean-broken-links` script](#the-glean-broken-links-script)
           - [CMS Broken Link Checking](#cms-broken-link-checking)
+          - [Redirects](#redirects)
         - [Accessibility Checking](#accessibility-checking)
       - [Pain points](#pain-points)
         - [Content Writers](#content-writers)
@@ -159,6 +160,10 @@ Example Slack notification sent to #cms-team channel: https://dsva.slack.com/arc
 Link checking was also added to the CMS. That means every time a node is saved, every link (both internal and external) is tested, and a report is generated for that node. Broken links in the CMS are only reported. They don't block publishing. It is up to editors to note and fix.
 
 ![screenshot of link checking](https://user-images.githubusercontent.com/5752113/83689439-0a64c680-a5bd-11ea-9e38-e5c855f6f78e.png)
+
+###### Redirects
+
+Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities).
 
 ##### Accessibility Checking
 
@@ -334,7 +339,6 @@ The updated content validation approach will continue logging invalid content er
 ### Caveats
 
 - The current broken link checking in Drupal can handle redirects, but those redirects are not currently synchronized with `vets-website`. When the redirects are not synchronized between `vets-website` and Drupal, a page that is moved in Drupal may pass the Drupal broken link check but fail the `vets-website` broken link check.
-- Many of the broken links come from URLs that change, according to decisions by the Content & IA team, usually in conjunction with Public Websites. In that workflow, an engineer makes a code change for the redirect, and has to time the release of the redirect code to match the content release of the URL change in the content layer. It's a fragile and very time-consuming process, and will likely not be scalable as we add hundreds of editors from outside the tight Github/Slack communication flows (e.g. Public Affairs Officers at 2000+ VA facilities).
 
 ### Security Concerns
 
