@@ -1,4 +1,4 @@
-# Mobile Month product outline
+# Mobile Month August 2020 product outline
 
 ## Overview
 Mobile Month will consist of a series of talks and collaborative working sessions that will aim to educate designers on the analytics, document user behavior on mobile devices on VA.gov, explore areas of improvement for the mobile UX, and create resources for designing for mobile.
