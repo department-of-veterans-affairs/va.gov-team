@@ -23,4 +23,4 @@ Front end apps on `vets-website` should have unit tests and end to end tests. It
 - Client applications **must** include accessibility tests in their end-to-end suite.
   - Pull requests without accessibility test coverage will not be accepted.
   - These tests should be run on all client-side routes and critical user interactions.
-  - Use the Cypress custom command [`cy.axeCheck()`](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/engineering/frontend/cypress-migration-guide.md#accessibility) to run an accessibility check.
+  - Use the Cypress custom command [`cy.axeCheck()`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/cypress-migration-guide.md#accessibility) to run an accessibility check.
