@@ -73,7 +73,7 @@
 - Online, via Zoom
 
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-- High fidelity prototypes in UXPin (link forthcoming)
+- [High fidelity prototypes in UXPin](https://preview.uxpin.com/4355a6c97a71ddaf1069ec43e5dfc0ae46b79869#/pages//simulate/sitemap?mode=i)
 
 5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 - Zoom
