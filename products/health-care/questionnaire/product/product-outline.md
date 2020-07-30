@@ -194,7 +194,7 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 - The Forms library has some limitations that could lead to a scalability risk. Currently, any content updates are through a developer. This fact could lead to a content management risk, a bottleneck and a lack of customization[2]
 - There are security concerns around unauthenticated users using the clipboard system. It's not impossible, but there are concerns to consider when designing the system[2]
 
-[1][health apis discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#health-data-apis)
+[1][health apis discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#developersvagov-health-api-risk-summary)
 [2][forms discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#forms-risks)
 
 ## Solution Approach

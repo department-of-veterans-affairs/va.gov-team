@@ -11,6 +11,7 @@
     - [Healthcare wizard](#healthcare-wizard)
     - [Pro and Con Summary](#pro-and-con-summary)
   - [Health Data APIs](#health-data-apis)
+    - [Developers.va.gov Health API Risk Summary](#developersvagov-health-api-risk-summary)
     - [Developers.va.gov](#developersvagov)
     - [VistA API](#vista-api)
   - [Mobile Experience Findings](#mobile-experience-findings)
