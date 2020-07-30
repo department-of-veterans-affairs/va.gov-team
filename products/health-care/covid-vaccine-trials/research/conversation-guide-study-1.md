@@ -66,12 +66,12 @@ Great, now I can see your phone screen! Please text the following number 919-355
 
 **Prompt 2** - contact info page
 
-- What do you think this page is asking you
+- What do you think this page is asking you?
 - Do you have any concerns about providing your personal information? 
 - Do you have any concerns about filling out this form without signing in?
 - Are there any other thoughts or concerns you have regarding this page? 
 
-**At Completion **(Thank you for volunteering page)
+**At Completion** (Thank you for volunteering page)
 
 - In your own words, what is this page telling you?
 
