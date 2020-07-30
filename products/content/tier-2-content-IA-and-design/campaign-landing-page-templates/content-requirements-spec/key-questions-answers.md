@@ -54,5 +54,14 @@
 - While the CLP product will undergo all necessary Collab Cycle reviews, we see no reason for each CLP to be created by users to require review.   Will confirm with VSP.
 
 **Where will CLPs sit in the site IA and directory structure?**  
+
 - Requires more follow-up thinking with Mikki, Meg and KevinW. Original thinking -- CLPs would be root-level pages, not part of the IA with the URL baked in to the CLP template creation, perhaps driven by the H1.  However, Mikki's concern: H1s can be changed which would affect the URL.
+- CLP will be for a limited time; some will be for bigger campaigns and last longer;
+- It would sit at the root level and linked to from related content
+- Would we put them in a campaign directory?  Probably not.   They will likely want a vanity URL -- but not a sub-domain.
+- The IA should be modeled on the way people think.  It's a topic, a thing (e.g. Legislation for community care).
+- We don't want to let the stakeholders determine the URL/placement (Should we require a submission request and the stakeholder can request a URL but we will make decision)
+  - Mikki: In Drupal, there is an ability to govern creation of the URL (check w/KevWalsh)
+- NOT in the NAV
+
 
