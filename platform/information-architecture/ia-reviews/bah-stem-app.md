@@ -23,7 +23,7 @@
 **URLs and Breadcrumbs**
 
 Page | URL | Breadcrumb | Notes
---- | --- | ---
+--- | --- | --- | ---
 STEM static content page | wwww.va.gov/education/other-va-education-benefits/stem-scholarship  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship  | This is a new static content page that will include an overview of the scholarship, eligibility info and an "Apply now" button that will link to the online application
 STEM application | wwww.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-stem-scholarship-form-22-10203  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship > Apply for the Edith Nourse STEM Scholarship | This is the online application for the scholarship. 
 
@@ -35,7 +35,7 @@ STEM application | wwww.va.gov/education/other-va-education-benefits/stem-schola
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 Priority | Placement | Label | Description
---- | --- | ---
+--- | --- | --- | ---
 Must | [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | To be determined by PW team | This content page should be revised to properly link to all child pages within the section, including this new STEM scholarship application. It should also be revised to remove the reference to "if you don't qualify for Post-9/11" as the content of the section is now growing to include any other benefits outside of GI Bill. 
 Must | Education hub left nav | Edith Nourse STEM Scholarship | Under 'Get benefits' spoke, as a child of "Other VA education benefits" - order would be VEAP, National Call to Service, Edith Nourse STEM Scholarship, REAP
 Should | Education hub page | Existing "Other education assistance programs" | Should review teaser text to ensure it correctly reflects the addition of a scholarship as additional options. 
