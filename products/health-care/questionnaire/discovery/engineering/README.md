@@ -7,6 +7,7 @@
   - [Outstanding questions](#outstanding-questions)
   - [Forms Discovery](#forms-discovery)
     - [Current Forms System](#current-forms-system)
+    - [Forms Risks](#forms-risks)
     - [Healthcare wizard](#healthcare-wizard)
     - [Pro and Con Summary](#pro-and-con-summary)
   - [Health Data APIs](#health-data-apis)
@@ -48,7 +49,7 @@ Can we build a simple, pre-populated form, that sends data to cliniations in a t
   - What is our source of truth for health data?
   - Where is the profile information coming from?
 - Forms
-  - Can we pull in data from an external API in a form?
+  - Can we pull in data from an external API in a form and use it to pre fill data?
   - Can we create something to make the question text be set not in code?
   - How can we control the forms?
 - Verify results
@@ -122,13 +123,19 @@ My desired next steps if I were to continue down this route:
 - I would refactor the Authentication-recommended page.
 - Create unit tests
 
-Currently, the only way the update the form content, both the structure and the text the user sees, is through a pull request to the code base. This is a technical process, that is built for developers. This might be a very high level to get this to work properly.
+Currently, the only way the update the form content, both the structure and the text the user sees, is through a pull request to the code base. This is a technical process, that is built for developers. This might be a very high level of work to get this to work properly.
 
 > What is session storage and what are its limits?
 
 Session storage is a client side, temporary data store that is perfect for short term storage. The data lives client side in the browser window until the window is closed. This allows a user's old answers to be stored when the user navigates away and saved when the user navigates back.
 
 This idea breaks down when if the vet leaves the site and and comes back, all unauthenticated. If we care to save the data, we could build aa system that allows saving of non-authenticated users data. We can do this by saving an instance of the form filling out with a unique id and saving the answers related to that unique id, until and if the user logs in. There are security and other considerations that need to be flushed out.
+
+### Forms Risks
+
+The two biggest risks with forms are scalability and flexibility.
+
+These challenge in the number of forms we have to create. As mentioned above, the forms system is limited to how content driven a form can be. In order to create a, at the very basic level in code, we are describing a form in JavaScript Object. This Object has to be maintained and updated by a developers. The risk comes in when we try to roll out a standard form into a currently non-standardized workflow. The team either needs to standardize this product, or create a way to build some customization into the forms library. Both of those options are hills to climb, climbable, but with risk.
 
 ### Healthcare wizard
 
@@ -176,6 +183,16 @@ An inherent part of the problem that we are looking into how we can get veterans
 - [Developers.va.gov](https://developer.va.gov/explore/health)
 - Cerner API
 - VistA API
+
+### Developers.va.gov Health API Risk Summary
+
+There are 3 main risk when it comes to using the existing health APIs are available to us.
+
+- Lighthouse API does not have all FHIR specs yet and are not on their road map. This means we will have to use multiple data sources to pull in data. With multiple data sources, we will have create methods for combining and prioritizing data sources.
+
+- Lighthouse API, neither currently or on their road map, doesn't have to write capabilities. This lack of writing means we have no place to send the data using the Lighthouse API and forces integrations with another system.
+
+- Currently, the health data is behind a type of Authorization and Authentication called OpenId. This is a different way to authenticate than the current API uses to communicate with Lighthouse or other services. The authentication system is a huge code base with many "gotchas", technically and politically. The long story short, is that there are serveral authicattion systems and schemes currently in the VA API and [1]
 
 ### Developers.va.gov
 

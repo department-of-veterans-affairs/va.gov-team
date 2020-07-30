@@ -195,7 +195,7 @@ Healthcare Experience Team [Mission & Vision](https://github.com/department-of-v
 - There are security concerns around unauthenticated users using the clipboard system. It's not impossible, but there are concerns to consider when designing the system[2]
 
 [1][health apis discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#health-data-apis)
-[2][forms discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#forms-discovery)
+[2][forms discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/discovery/engineering#forms-risks)
 
 ## Solution Approach
 
