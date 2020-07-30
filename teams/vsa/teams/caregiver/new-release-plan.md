@@ -110,7 +110,7 @@ _Goal: Test a substanial population of users to make sure there are no issues ex
 - Post-launch KPI 1: Online applications submitted
 - Post-launch KPI 2: Ratio of failures/to successes
 - Post-launch KPI 3: Why applications are failing 
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Go / No Go: [ready / not ready](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md)
 
 ### 1-week results:
 - Number of unique users: 
