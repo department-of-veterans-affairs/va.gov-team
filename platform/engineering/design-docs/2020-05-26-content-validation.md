@@ -36,7 +36,7 @@
       - [Content to be validated](#content-to-be-validated)
       - [Update accessibility tests config](#update-accessibility-tests-config)
       - [Improved invalid content reporting](#improved-invalid-content-reporting)
-      - [New scheduled job in Jenkins](#new-scheduled-job-in-jenkins)
+      - [New scheduled job in CircleCI](#new-scheduled-job-in-circleci)
     - [Code Location](#code-location)
     - [Testing Plan](#testing-plan)
       - [Local](#local)
@@ -263,9 +263,11 @@ The [current accessibility tests](https://github.com/department-of-veterans-affa
 
 Currently, accessibility errors need to be manually communicated from the Frontend Tools team to the CMS team. And broken links need to be extracted from the build log. We would improve that reporting by generating a file using Winston, and send that file to the #cms-team channel using existing Slack integrations.
 
-#### New scheduled job in Jenkins
+#### New scheduled job in CircleCI
 
-Lastly, we will write a scheduled Jenkins workflow to run the content validation script hourly during workdays. That way, the content team learns about invalid content at a convenient cadence.
+Lastly, we will write a scheduled workflow to run the content validation script hourly during workdays. That way, the content team learns about invalid content at a convenient cadence.
+
+Since we plan on migrating from Jenkins to CircleCI in the future, we will write this new job in CircleCI.
 
 ### Code Location
 
@@ -336,6 +338,7 @@ The updated content validation approach will continue logging invalid content er
 
 - Local build logs
 - Jenkins build logs
+- CircleCI build logs
 - Slack notifications
 
 ### Caveats
@@ -363,7 +366,7 @@ There are no new privacy concerns with a separated content validation process.
 The following estimates vary greatly depending on who's doing the work.
 
 1. Finish extracting the `content-build` repo out of the `vets-website` repo: ?
-2. Write a Jenkins scheduled job to run a script every workday at midnight: <1 day
+2. Write a CircleCI scheduled job to run a script hourly on workdays: <1 day
 3. Write a script that builds only what is necessary for content validation: 1-2 days
 4. Update the script so the accessibility checks don't stop on failure: <1 day
 5. Update the script to generate a report of accessibility errors: <1 day
