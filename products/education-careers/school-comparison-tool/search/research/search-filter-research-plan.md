@@ -79,7 +79,7 @@ Researchers need to see the search habits of users and their interaction with th
 - 30 minutes
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
 - Wednesday, August 12th: 8:30-9:15AM, 9:45-10:30AM; 11 - 11:45AM; 12:15-1PM, 1:30-2:15PM; 2:45-3:30PM; 4-4:45PM
-- Thursday, August 13th: 8:30-9:15AM; 9:15-10AM; 11:15AM - 12PM; 12:30-1:15PM; 1:15-2PM; 3:15-4PM; 4-4:45PM
+- Thursday, August 13th: 8-8:45AM; 9:15-10AM; 11:30AM - 12:15PM; 12:30-1:15PM; 1:45-2:30PM; 3-3:45PM; 4-4:45PM
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 - Aug 11, 2020
 ## Team Roles	
