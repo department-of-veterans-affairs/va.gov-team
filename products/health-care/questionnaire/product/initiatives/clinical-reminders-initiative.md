@@ -17,7 +17,8 @@ As a Veteran, I want to provide my care team with the most current status of my 
 
 * **Description:** The social determinants of health questions that are typically asked in screeners by the clinical care team are called Clinical Reminders. Most of the clinical reminders are national although some are still locally developed and maintained but nearly all of the screening questionnaires in primary care clinics are national.  
 
-Examples of the most common and the priority clinical reminders for our product. 
+<details> <summary> Examples of the most common and the priority clinical reminders for our product.</summary>
+
 - [ ] VA-ALCOHOL AUDIT-C POSITIVE F/U EVAL – (done by the physician if an AUDIT-C alcohol screen is positive)
 - [ ] VA-ALCOHOL USE SCREEN (AUDIT-C) 
 - [ ] VA-CRC AVERAGE RISK 
@@ -32,43 +33,77 @@ Examples of the most common and the priority clinical reminders for our product.
 - [ ] VA-PTSD SCREENING
 - [ ] VA-TBI SCREENING
 
+</details>
+
 ---
+## ALCOHOL USE SCREEN (AUDIT-C) 
 
-## User Story - Homeless
-As a Veteran, who is homeless I need ABC
 * Use Case 
-
-* Description
-
-* Feature Capabilities
+- ALCOHOL AUDIT-C POSITIVE F/U EVAL – (done by the physician if an AUDIT-C alcohol screen is positive)
 
 
-## User Story B
+## CRC AVERAGE RISK 
 
 * Use Case 
 
-* Description
-
-* Feature Capabilities
-
-
-## User Story C
+## DEPRESSION SCREENING  
 
 * Use Case 
 
-* Description
-
-* Feature Capabilities
+- FOLLOW-UP POS PTSD/DEP COMBINATION (done by the physician if depression or PTSD screen is positive)
 
 
-To be included in each User Story above where it applies as a reference
+## EMBEDDED FRAGMENTS SCREEN
 
-   - (2A) As a Veteran, I want to **review and update my health information to ensure its accuracy,** so my care team can **focus on my treatment plan and whats important to me** vs. data entry during my visit.
-   - (2B) As a Veteran, I want to only provide updates to my health information that is **affecting me now, changed since last time, or due for screening**, so that I **save time documenting my information** and my care team can focus on the **changes to my treatment plan and whats important to me.**
+* Use Case 
+
+## EMBEDDED FRAGMENTS RISK EVALUATION 
+
+* Use Case 
+
+## HOMELESSNESS SCREENING 
+
+* Use Case 
+
+## IRAQ & AFGHAN POST-DEPLOY SCREEN 
+
+* Use Case 
+
+## MH TOBACCO USE SCREENING (OUTPT) 
+
+* Use Case 
+
+
+## MST SCREENING 
+
+* Use Case 
+
+
+## PTSD SCREENING
+
+* Use Case 
+
+## TBI SCREENING
+
+* Use Case 
+
+## Food Insecurity Screen
+
+* Use Case 
+
+
+
+
+<details> <summary> ## Unmet Needs Met by this Initiative</summary>
+
+- (2A) As a Veteran, I want to **review and update my health information to ensure its accuracy,** so my care team can **focus on my treatment plan and whats important to me** vs. data entry during my visit.
+- (2B) As a Veteran, I want to only provide updates to my health information that is **affecting me now, changed since last time, or due for screening**, so that I **save time documenting my information** and my care team can focus on the **changes to my treatment plan and whats important to me.**
 - (3B) As a Veteran, I want to easily comprehend medical questions and screeners by using simple to understand language and education, so that I can better manage my own health and answer question accurately.
   - On average, Veterans require additional explanation and education by their care team on a number of clinical reminder screeners so that they fully understand the question being asked
 - (5A) As a Veteran, I want to provide my health status and updates to my medical history so that I do not have to feel I have to **repeat the information to my nurse and provider in the same and subsequent visits**.
 - (5B) As a Veteran, I want to my health status and updates to my medical history that I provide to my VA care team to not have to be **repeated to referred to providers both within the VA and private practice.**
+
+</details>
 
 ## Hypothesis 
 
