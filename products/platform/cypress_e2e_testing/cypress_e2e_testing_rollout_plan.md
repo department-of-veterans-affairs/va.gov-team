@@ -17,9 +17,8 @@ We will be doing two sets of testing for this phase of the rollout.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We will be adding additional tests to HCA so we will not be impacting the end user experience.
 
 ### Results:
-- Number of users: 2
 _As of July 2020, we have converted some but not all VSP Nightwatch tests to Cypress. It is in our backlog to migrate remaining tests but we do not consider this to be launch blocking._
-
+- Number of users: 2
 - Number of bugs identified / fixed: 
 - Was the data submitted (if any) easy for VA to process?: 
 - Types of errors logged: 
@@ -47,9 +46,9 @@ _As of July 2020, we have converted some but not all VSP Nightwatch tests to Cyp
 - Desired date range: End of July
 - How will you make the product available in production while limiting the number of users who can find/access it: N/A
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We will be looking to track the following metrics
- - Total number of tests in Cypress
- - Total number of tests in Nightwatch
- - Number of times form tester is utilized in Cypress (data to be pulled from from Circle)
+  - Total number of tests in Cypress
+  - Total number of tests in Nightwatch
+  - Number of times form tester is utilized in Cypress (data to be pulled from from Circle)
 
 ~~### Stage A: Canary~~
 
