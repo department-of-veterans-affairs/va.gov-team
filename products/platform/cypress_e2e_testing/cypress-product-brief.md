@@ -2,7 +2,7 @@
 
 ### What is it?
 
-Cypress is a functional testing tool that is used to test the complete frontend flow of a product (this is typically referred to as e2e testing). [Maybe another sentence about what it is?]
+Cypress is a testing tool that is used to test the entire frontend flow of a product (this is often referred to as end-to-end testing). [Maybe another sentence about what it is?]
 
 ### How does it work?
 
