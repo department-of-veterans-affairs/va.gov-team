@@ -27,8 +27,19 @@ This photo shows what it looks like:
 
 [Source, and more about the laptop hugging method](https://medium.com/@beparticular/were-still-hugging-our-laptops-8c7f22ed800e)
 
+Pros | Cons
+------------ | -------------
+Ability to see the full movement of the fingers | People without laptops or working web cam can’t use this method
+Relatively easy instruction and setup | The quality of the webcam could be blurry
+
 #### Screensharing method
 The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study. 
+
+Pros | Cons
+------------ | -------------
+People without laptops or webcams can use this method | Moderators can not see hand movements
+- | Could be difficult for non-tech savvy people (there might have to be some reconfiguration in the settings section of the phone)
+- | May be more difficult to use with assistive tech (we’ve heard about struggles to get mobile phone screen reader to come through the screensharing audio) 
 
 ## Recruiting
 
