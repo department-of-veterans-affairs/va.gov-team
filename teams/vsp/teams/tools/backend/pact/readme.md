@@ -70,8 +70,13 @@ To speed up development workflow on the backend, the pact helper can be configur
 ### More on provider states
 Provider states allow the consumer to define a state in which the provider should be in when making making a request. (eg. response codes, data, etc). Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
 
-## CircleCI integration (todo)
 
+### CircleCI integration (todo)
+
+------
+
+## PACT Configuration
+TODO
 
 
 ------
