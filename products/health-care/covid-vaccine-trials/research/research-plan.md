@@ -51,7 +51,7 @@ Availability: Monday (5/18) 8am-6pm
 - Project point of contact:	Patrick Bateman patrick.bateman@va.gov
 - Participant(s) for pilot test:	Martha Wilkes Martha.A.Wilkes@omb.eop.gov
 - Note-takers:	Perigian needed.
-- Observers:	Martha Wilkes Martha.A.Wilkes@omb.eop.gov , Lauren Alexanderson lauren.alexanderson@va.gov
+- Observers:	Martha Wilkes Martha.A.Wilkes@omb.eop.gov , Lauren Alexanderson lauren.alexanderson@va.gov, Jennifer Strickland jennifer.strickland@adhocteam.us
 
 ## Resources	
 - Project Brief: 	https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/project-brief.md
