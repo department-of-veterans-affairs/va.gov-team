@@ -12,7 +12,7 @@ There are a few options for signing in.  If you sign in using google, either you
 
 ## SCREEN SHARING:
 
-- Moderator will link of prototype/screen in chat
+- Moderator will send a link to the prototype/screen in chat
 - The chat should show up at the bottom of the screen - if not, you can get to chat by clicking ‘more’ (bottom right hand corner) and and then ‘chat’
 - Once you can see the chat - hold finger on the url until the option to copy appears - then copy the text.
 - Click close (upper left corner)
