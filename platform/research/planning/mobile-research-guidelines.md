@@ -21,7 +21,10 @@ There are two primary methods that are used for conducting mobile usability test
 
 The “laptop hugging” method means that the user joins the call on their laptop and shows their mobile screen via the webcam. When the initial introduction to the session is done, the moderator asks the participant to turn their laptop 180 degrees so that the screen is looking away from the user. When the participant now places their hands around their computer and takes their mobile in their hands, it will be visible on the webcam.
 
-![Image of a person demonstrating the laptop hugging method](https://unmatchedstyle.com/wp-content/uploads/2012/06/laptop-huggers.jpg)
+This photo shows what it looks like:
+![Image of a person demonstrating the laptop hugging method](https://miro.medium.com/max/1400/0*OUjnQaSUSbjutgPr)
+
+[Source, and more about the laptop hugging method](https://medium.com/@beparticular/were-still-hugging-our-laptops-8c7f22ed800e)
 
 #### Screensharing method
 The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study. 
@@ -45,7 +48,25 @@ The screensharing method requires the participant to download the Zoom app on th
   - Send an illustration, photo, or step-by-step instructions of how the laptop hugging works (placeholder for resources here)
   
   
-  ## During research
+## During sessions
   
-  Note that a security warning may pop up upon users sharing their screen. Make sure the participant.
+**Screensharing method**
+
+- Confirm with the participant in the beginning of the session that they are using a mobile device (or tablet if applicable), and be prepared to end the session if not
+- Make sure they have the Zoom mobile app downloaded, and be prepared to send them a link to it via email if needed
+- Note that a security warning about exposing sensitive information may pop up upon users sharing their screen via Zoom. Make sure the participant has the chance to read it and agree to it before proceeding. Reassure them that we will save recordings only for the purposes of capturing their experience accurately, and then dispose of them securely within a week.
+- For troubleshooting screen sharing in iOS, reference the Zoom documentation here.
+- Don't forget to start the recording!
+- Ask your participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
+
+**Laptop hugging method - step-by-step instructions**
+
+- The facilitator and the participant join the Zoom call on desktop devices. 
+- The facilitator asks the participant to turn on the webcam.
+- The facilitator asks the participant to turn their laptop 180 degrees so that the screen is looking away from the participant. Tip: it is easier to explain the method when the facilitator shows it with their computer first.
+- Once the participant has turned around their computer, the facilitator asks them to adjust the screen angle so that their mobile screen and hands are fully visible in the camera.
+- Tip: Ask the participant to turn down the brightness on their phone as low as it will go. Otherwise, it looks like a flashlight — everything is washed out.
+- The facilitator sends the prototype link to the participant in a way that they can open it on their mobile (e.g. email or SMS). With the live application, the participant is opening the app/webpage.
+- The facilitator moderates the session as planned and observes the user behavior on the screen.
+
 
