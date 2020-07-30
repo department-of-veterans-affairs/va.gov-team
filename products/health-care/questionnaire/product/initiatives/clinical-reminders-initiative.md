@@ -36,58 +36,58 @@ As a Veteran, I want to provide my care team with the most current status of my 
 </details>
 
 ---
-## ALCOHOL USE SCREEN (AUDIT-C) 
+### ALCOHOL USE SCREEN (AUDIT-C) 
 
 * Use Case 
 - ALCOHOL AUDIT-C POSITIVE F/U EVAL – (done by the physician if an AUDIT-C alcohol screen is positive)
 
 
-## CRC AVERAGE RISK 
+### CRC AVERAGE RISK 
 
 * Use Case 
 
-## DEPRESSION SCREENING  
+### DEPRESSION SCREENING  
 
 * Use Case 
 
 - FOLLOW-UP POS PTSD/DEP COMBINATION (done by the physician if depression or PTSD screen is positive)
 
 
-## EMBEDDED FRAGMENTS SCREEN
+### EMBEDDED FRAGMENTS SCREEN
 
 * Use Case 
 
-## EMBEDDED FRAGMENTS RISK EVALUATION 
+### EMBEDDED FRAGMENTS RISK EVALUATION 
 
 * Use Case 
 
-## HOMELESSNESS SCREENING 
+### HOMELESSNESS SCREENING 
 
 * Use Case 
 
-## IRAQ & AFGHAN POST-DEPLOY SCREEN 
+### IRAQ & AFGHAN POST-DEPLOY SCREEN 
 
 * Use Case 
 
-## MH TOBACCO USE SCREENING (OUTPT) 
-
-* Use Case 
-
-
-## MST SCREENING 
+### MH TOBACCO USE SCREENING (OUTPT) 
 
 * Use Case 
 
 
-## PTSD SCREENING
+### MST SCREENING 
 
 * Use Case 
 
-## TBI SCREENING
+
+### PTSD SCREENING
 
 * Use Case 
 
-## Food Insecurity Screen
+### TBI SCREENING
+
+* Use Case 
+
+### Food Insecurity Screen
 
 * Use Case 
 
