@@ -68,7 +68,7 @@ Availability: Wednesday (8/5) 8am-6pm
 
 ## Resources	
 
-- Project Brief: 	https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/project-brief.md
+- Project Brief: 	https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-trials/product-outline.md
 - Convo Guide: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-trials/research/conversation-guide-study-1.md
 - Synthesis: TBD
 - Lessons Learned: TBD
