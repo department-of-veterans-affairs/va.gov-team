@@ -2,11 +2,11 @@
 
 ### What is it?
 
-Cypress is a testing tool that is used to test the entire frontend flow of a product (this is often referred to as end-to-end testing). [Maybe another sentence about what it is?]
+Cypress is a testing tool that is used to test the entire frontend flow of a product (this is often referred to as end-to-end testing). As opposed to unit testing, which tests the smaller units of logic that comprise the product, end-to-end tests validate the behavior of the product at a higher level by simulating how a user might interact with it. A relatively new testing framework, Cypress provides an intuitive API for automating user interactions and convenient debugging features that promote test-driven development.
 
 ### How does it work?
 
-Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend developers building products on VA.gov write Cypress tests [where? or other info?]. Additionally, there is a form tester that automates Cypress end-to-end (E2E) tests on VA.gov form applications.
+Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend developers building products on VA.gov write Cypress tests alongside the source code for their applications. Additionally, there is a form tester that automates Cypress end-to-end (E2E) tests on VA.gov form applications. In the tests, developers define the user actions to be performed on the application and the expected results of those actions. The tests can then be run to follow all the defined user actions and report any deviations from the expected results.
 
 ------
 
