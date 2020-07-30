@@ -32,23 +32,7 @@ Examples of the most common and the priority clinical reminders for our product.
 - [ ] VA-PTSD SCREENING
 - [ ] VA-TBI SCREENING
 
-
-## Hypothesis 
-
-- Veterans believe that by filling out pre visit intake questionnaires they will not have to repeat their information as much as it will now be in their record.
-- The Clinical Care team wants Veterans to provide pre-visit intake questionaires and screeners so they don't have to use so much time on data entry/asking questions.
-
-## OKR's
-
-Personal Experience
-- Increase the employee care team satisfaction by spending less time transferring veteran-provided data from one medium (paper, iPads) to the electronic health record system
-
-Collaboration 
-- Decrease in the time to complete Clinical Reminders - Baseline estimation is 15-20 mins and is currently one of the biggest complaints by nursing
-
-Seamless Journey
-- Increase faster access to care and more timely delivery of services
-- Increase in accuracy of health information available to the Care team
+---
 
 ## User Story A 
 
@@ -86,6 +70,22 @@ To be included in each User Story above where it applies as a reference
 - (5A) As a Veteran, I want to provide my health status and updates to my medical history so that I do not have to feel I have to **repeat the information to my nurse and provider in the same and subsequent visits**.
 - (5B) As a Veteran, I want to my health status and updates to my medical history that I provide to my VA care team to not have to be **repeated to referred to providers both within the VA and private practice.**
 
+## Hypothesis 
+
+- Veterans believe that by filling out pre visit intake questionnaires they will not have to repeat their information as much as it will now be in their record.
+- The Clinical Care team wants Veterans to provide pre-visit intake questionaires and screeners so they don't have to use so much time on data entry/asking questions.
+
+## OKR's
+
+Personal Experience
+- Increase the employee care team satisfaction by spending less time transferring veteran-provided data from one medium (paper, iPads) to the electronic health record system
+
+Collaboration 
+- Decrease in the time to complete Clinical Reminders - Baseline estimation is 15-20 mins and is currently one of the biggest complaints by nursing
+
+Seamless Journey
+- Increase faster access to care and more timely delivery of services
+- Increase in accuracy of health information available to the Care team
 
 
 ---
