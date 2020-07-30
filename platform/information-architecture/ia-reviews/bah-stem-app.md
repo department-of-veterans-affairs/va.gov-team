@@ -3,7 +3,7 @@
 
 **Team:** BAH
 
-**Product/Featue:** STEM Scholoarship Application
+**Product/Feature:** STEM Scholarship Application
 
 **Background/Context:**  Ability for users to complete a separate online application for the STEM scholarship
 
