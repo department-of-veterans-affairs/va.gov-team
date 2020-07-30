@@ -81,7 +81,7 @@ We usually process claims within **30 days**. We’ll let you know by mail if we
 We offer tools and counseling programs to help you make the most of your educational options. [Learn about career counseling options](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/)
 
 #### 5. Decision
-If we approve your application, you’ll get a Certificate of Eligibility (COE), or award letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
+If we approve your application, you’ll get a Certificate of Eligibility (COE), or decision letter, in the mail.  Bring this COE to the VA certifying official at your school.  This person is usually in the Registrar or Financial Aid office at the school.
 
 If your application isn't approved, you’ll get a denial letter in the mail.
 
@@ -514,7 +514,7 @@ Buffalo, NY 14240-4616
 
 We usually decide on applications within 30 days.
 
-You’ll get a Certificate of Eligibility (COE), or award letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
+You’ll get a Certificate of Eligibility (COE), or decision letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
 
 [More about what happens after you apply](https://www.va.gov/education/after-you-apply/)
 
