@@ -15,7 +15,7 @@ As a Veteran, I want to provide my care team with the most current status of my 
 * **Use Case:** Veterans that state they do not have a safe place to stay or are feeling depressed are screened to ensure the care team is making the veteran aware of appropriate VA servies or education to assist in their wellness plan. 
 * _Include Quote from Research or Clinical team_ 
 
-* **Description:** The social determinants of health questions that are typically asked in screeners by the clinical care team are called **Clinical Reminders.** Most of the clinical reminders are national although some are still locally developed and maintained but nearly all of the screening questionnaires in primary care clinics are national.  
+* **Description:** The social determinants of health questions that are typically asked in screeners by the clinical care team are called Clinical Reminders. Most of the clinical reminders are national although some are still locally developed and maintained but nearly all of the screening questionnaires in primary care clinics are national.  
 
 Examples of the most common and the priority clinical reminders for our product. 
 - [ ] VA-ALCOHOL AUDIT-C POSITIVE F/U EVAL – (done by the physician if an AUDIT-C alcohol screen is positive)
