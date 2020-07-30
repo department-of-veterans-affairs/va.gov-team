@@ -42,7 +42,7 @@ I'm going to give you control of my screen & mouse. I'll pass control to you and
 
 Let's go back and time and pretend that you are considering attending **Participant-Named University** and are curious if the Comparison Tool has information on that school. How would you find out what information the Comparison Tool has on that school?
 
-_Prompt_ Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
+**Part 2** Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
 
 Things to watch for:
   - Does the user use the autocomplete functionality or search?
@@ -83,7 +83,7 @@ Things to watch for:
 
 Let's say you've heard good things about the programs at MIT.  How would you go about finding that school on the Comparison Tool?
 
-_Prompt_ You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
+**Part 2** You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
 
 Things to watch for:
   - Does the user use any filters or change their search criteria?
