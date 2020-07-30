@@ -28,7 +28,7 @@ This photo shows what it looks like:
 [Source, and more about the laptop hugging method](https://medium.com/@beparticular/were-still-hugging-our-laptops-8c7f22ed800e)
 
 Pros | Cons
------------- | -------------
+--------- | ----------
 Ability to see the full movement of the fingers | People without laptops or working web cam can’t use this method
 Relatively easy instruction and setup | The quality of the webcam could be blurry
 
@@ -36,7 +36,7 @@ Relatively easy instruction and setup | The quality of the webcam could be blurr
 The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study. 
 
 Pros | Cons
------------- | -------------
+--------- | ----------
 People without laptops or webcams can use this method | Moderators can not see hand movements
 x | Could be difficult for non-tech savvy people (there might have to be some reconfiguration in the settings section of the phone)
 x | May be more difficult to use with assistive tech (we’ve heard about struggles to get mobile phone screen reader to come through the screensharing audio) 
@@ -67,7 +67,8 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - Confirm with the participant in the beginning of the session that they are using a mobile device (or tablet if applicable), and be prepared to end the session if not
 - Make sure they have the Zoom mobile app downloaded, and be prepared to send them a link to it via email if needed
 - Note that a security warning about exposing sensitive information may pop up upon users sharing their screen via Zoom. Make sure the participant has the chance to read it and agree to it before proceeding. Reassure them that we will save recordings only for the purposes of capturing their experience accurately, and then dispose of them securely within a week.
-- For troubleshooting screen sharing in iOS, reference the Zoom documentation here.
+- For troubleshooting screen sharing in iOS, [reference the Zoom documentation here](https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing).
+- For troubleshooting screen sharing on Android, [reference the Zoom documentation here](hhttps://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen).
 - Don't forget to start the recording!
 - Ask your participant to be mindful of thinking outloud since you will not be able to see a mouse cursor go through the prototype
 
@@ -81,4 +82,6 @@ x | May be more difficult to use with assistive tech (we’ve heard about strugg
 - The facilitator sends the prototype link to the participant in a way that they can open it on their mobile (e.g. email or SMS). With the live application, the participant is opening the app/webpage.
 - The facilitator moderates the session as planned and observes the user behavior on the screen.
 
-
+### Examples
+- [Research plan example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/covid-vaccine-trials/research/research-plan.md)
+- [Conversation guide example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/COVID-screener/convo-guide-study-1.md)
