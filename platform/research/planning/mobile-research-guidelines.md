@@ -38,8 +38,8 @@ The screensharing method requires the participant to download the Zoom app on th
 Pros | Cons
 ------------ | -------------
 People without laptops or webcams can use this method | Moderators can not see hand movements
-- | Could be difficult for non-tech savvy people (there might have to be some reconfiguration in the settings section of the phone)
-- | May be more difficult to use with assistive tech (we’ve heard about struggles to get mobile phone screen reader to come through the screensharing audio) 
+x | Could be difficult for non-tech savvy people (there might have to be some reconfiguration in the settings section of the phone)
+x | May be more difficult to use with assistive tech (we’ve heard about struggles to get mobile phone screen reader to come through the screensharing audio) 
 
 ## Recruiting
 
