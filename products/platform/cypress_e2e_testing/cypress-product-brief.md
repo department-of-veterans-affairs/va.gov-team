@@ -1,18 +1,21 @@
-# **VSP Product Brief Template**
+# Cypress Testing — Product Brief
 
 ### What is it?
 
-*Explain how this product will benefit VFS teams.*
+Cypress is a functional testing tool that is used to test the complete frontend flow of a product (this is typically referred to as e2e testing). [Maybe another sentence about what it is?]
 
 ### How does it work?
 
-*Describe at a high level how the product will impact VFS teams' workflow.*
+Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend developers building products on VA.gov write Cypress tests [where? or other info?]. Unlike Nightwatch, Cypress allows developers to [do this cool thing]. Additionally, there is a form tester that automates Cypress end-to-end (E2E) tests on VA.gov form applications.
 
 ------
 
 ### Product documentation
 
-- 
+- [How to migrate tests to Cypress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/cypress-migration-guide.md)
+- [How to use the form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester)
+- [More about e2e tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/)
+- [Cypress release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cypress_e2e_testing/cypress_e2e_testing_rollout_plan.md)
 
 ------
 
@@ -26,8 +29,12 @@ For all other questions, feel free to reach out directly to the [VSP FE Tools te
 
 ### Examples or references of usage
 
+???
+
 ------
 
 ### Version Notes
+
+Beginning 8/1/20, VSP is requiring that all teams building on VA.gov use Cypress for newly written functional tests. We are encouraging — but not requiring — teams to migrate legacy tests from Nightwatch into Cypress.
 
 ------
