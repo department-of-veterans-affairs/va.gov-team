@@ -38,7 +38,7 @@ Priority | Placement | Label | Description
 --- | --- | --- | ---
 Must | [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | To be determined by PW team | This content page should be revised to properly link to all child pages within the section, including this new STEM scholarship application. It should also be revised to remove the reference to "if you don't qualify for Post-9/11" as the content of the section is now growing to include any other benefits outside of GI Bill. 
 Must | Education hub left nav | Edith Nourse STEM Scholarship | Under 'Get benefits' spoke, as a child of "Other VA education benefits" - order would be VEAP, National Call to Service, Edith Nourse STEM Scholarship, REAP
-Should | Education hub page | Existing "Other education assistance programs" | Should review teaser text to ensure it correctly reflects the addition of a scholarship as additional options. 
+Should | [Education hub page](https://www.va.gov/education) | Existing "Other education assistance programs" | Should review teaser text to ensure it correctly reflects the addition of a scholarship as additional options. 
 Consider | Consider REMOVING from the form wizard on How to apply and Eligibility pages in Education | n/a | Consider removing the question from the form wizard and treating this similar to other "fringe" benefits like  Yellow Ribbon - this would leave the wizard to focus on the core education benefit.   
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
