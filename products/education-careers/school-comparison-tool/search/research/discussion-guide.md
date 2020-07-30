@@ -46,6 +46,7 @@ _Prompt_ Upon additional research into said school, you decided that the school 
 
 Things to watch for:
   - Does the user use the autocomplete functionality or search?
+  - How many times does the user adjust their search criteria before they get what they want?
   - How does the user change their search?
   - Does the user change the filters?
     - If yes, which ones?
@@ -67,6 +68,8 @@ Things to watch for:
   - How does the user change their search?
   - Does the user change the filters?
     - If yes, which ones?
+  - How many times does the user adjust their search criteria/filters before they get what they want?
+  - Does the user find what they want on the search results page or do they go to the school profile page?
   - Does the user open the additional information components?  If yes, which ones?
     
   
@@ -78,7 +81,7 @@ Things to watch for:
 
 ## Third Task: Acronym/Nickname School - 10 minutes
 
-Let's say you've heard good things about the science programs at MIT.  How would you go about finding that school on the Comparison Tool?
+Let's say you've heard good things about the programs at MIT.  How would you go about finding that school on the Comparison Tool?
 
 _Prompt_ You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
 
@@ -86,6 +89,7 @@ Things to watch for:
   - Does the user use any filters or change their search criteria?
   - What, if any, filters do they use?
   - Did the user input the acronym for MIT?  If so, how did they react to the results?
+  - How many times does the user adjust their search criteria before they get what they want?
 
 **Upon completion of task:** 
 - How did you think that went? 
@@ -100,6 +104,7 @@ _Prompt after user tells what they would do_ Let's say your ZIP code is 10021.  
 Things to watch for:
   - Does the user use any filters or change their search criteria?
   - What, if any, filters do they use?
+  - How many times does the user adjust their search criteria before they get what they want?
 
 **Upon completion of task:** 
 - How did you think that went? 
