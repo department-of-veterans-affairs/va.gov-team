@@ -2,7 +2,7 @@
 
 ### What is it?
 
-Cypress is a testing tool that is used to test the entire frontend flow of a product (this is often referred to as end-to-end testing). As opposed to unit testing, which tests the smaller units of logic that comprise the product, end-to-end tests validate the behavior of the product at a higher level by simulating how a user might interact with it. A relatively new testing framework, Cypress provides an intuitive API for automating user interactions and convenient debugging features that promote test-driven development.
+Cypress is a testing tool that is used to test the entire frontend flow of a product (this is often referred to as end-to-end testing). As opposed to unit testing, which tests the smaller units of logic that comprise the product, end-to-end tests validate the behavior of the product at a higher level by simulating how a user might interact with it. A relatively new testing framework with strong support from the software testing community, Cypress provides an intuitive API for automating user interactions and convenient debugging features that promote test-driven development.
 
 ### How does it work?
 
