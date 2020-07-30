@@ -33,32 +33,54 @@ Veterans are unable to consistently share and update current health status and m
 
 <details> <summary>  1. Provide updates when convenient and relevant with the device and location of choice</summary>
 
-- _When_ - (1A) As a Veteran, I want the flexibility to decide **how far in advance of an appt.** with my care team to update health information, so I can **take the time needed to throughly prepare by locating and completing** all information needed. - _On average, Veterans preferred to fill out a questionnaire within a week to day before of their visit._
-- _How_ - (1B) As a Veteran, I want to **use my personal devices** to update health information, to ensure the technology/device **used is accessible and comfortable for me.** - _On average, Veterans preferred to fill out a questionnaire on their home computer._
-- _Where_ - (1C) As a Veteran, I want a **relaxed and un-rushed location where I can update health information**, so that I am in an **environment that is non-intimidating and encourages confidence to be truthful** with the information I provide. - _On average, Veterans preferred to fill out a questionnaire at home vs. in the waiting room or with clinicians interview._
+- _When_ 
+   - (1A) As a Veteran, I want the flexibility to decide **how far in advance of an appt.** with my care team to update health information, so I can **take the time needed to throughly prepare by locating and completing** all information needed. 
+   - _On average, Veterans preferred to fill out a questionnaire within a week to day before of their visit._
+- _How_ 
+   - (1B) As a Veteran, I want to **use my personal devices** to update health information, to ensure the technology/device **used is accessible and comfortable for me.** 
+   - _On average, Veterans preferred to fill out a questionnaire on their home computer._
+- _Where_ 
+   - (1C) As a Veteran, I want a **relaxed and un-rushed location where I can update health information**, so that I am in an **environment that is non-intimidating and encourages confidence to be truthful** with the information I provide. 
+    - _On average, Veterans preferred to fill out a questionnaire at home vs. in the waiting room or with clinicians interview._
 
 </details>
 
 <details> <summary> 2. Provide only updates for the things that have changed </summary>
 
-- _Review and Edit_ - (2A) As a Veteran, I want to **review and update my health information to ensure its accuracy,** so my care team can **focus on my treatment plan and whats important to me** vs. data entry during my visit.
-- _Since Last Time_ - (2B) As a Veteran, I want to only provide updates to my health information that is **affecting me now, changed since last time, or due for screening**, so that I **save time documenting my information** and my care team can focus on the **changes to my treatment plan and whats important to me.**
-- _Prepare Questions_ - (2C) As a Veteran, I want to prepare and share in advance questions/reminders that I want to discuss with my care team, so that I don't forget the day of visit. - _On average, Veterans are more likely to have better health outcomes if they are able to ask questions to their providers during their visit_
+- _Review and Edit_ 
+   - (2A) As a Veteran, I want to **review and update my health information to ensure its accuracy,** so my care team can **focus on my treatment plan and whats important to me** vs. data entry during my visit.
+- _Since Last Time_ 
+   - (2B) As a Veteran, I want to only provide updates to my health information that is **affecting me now, changed since last time, or due for screening**, so that I **save time documenting my information** and my care team can focus on the **changes to my treatment plan and whats important to me.**
+- _Prepare Questions_ 
+   - (2C) As a Veteran, I want to prepare and share in advance questions/reminders that I want to discuss with my care team, so that I don't forget the day of visit. 
+   - _On average, Veterans are more likely to have better health outcomes if they are able to ask questions to their providers during their visit_
 </details>
 
 <details> <summary> 3. Display complicated medical words in customer friendly terminology</summary>
 
-- _Patient-centric plain language_ - (3A) As a Veteran, I want to have **complicated medical terms explained to me in a tone and language that I understand,** so that I am able to **provide accurate updates to my health information** and be prepared to **ask questions to my care team for further education.** - _On average, Veterans do not know the ICD 10 diagnosis terms describing their conditions, lab names, non RX medication names, that requires additional education by their care team.etc_ - (3B) As a Veteran, I want to **easily comprehend medical questions and screeners** by using simple to understand language and education, so that I can **better manage my own health and answer question accurately.** - _On average, Veterans require additional explanation and education by their care team on a number of clinical reminder screeners so that they fully understand the question being asked_
+- _Patient-centric plain language_ 
+   - (3A) As a Veteran, I want to have **complicated medical terms explained to me in a tone and language that I understand,** so that I am able to **provide accurate updates to my health information** and be prepared to **ask questions to my care team for further education.** 
+   - _On average, Veterans do not know the ICD 10 diagnosis terms describing their conditions, lab names, non RX medication names, that requires additional education by their care team.etc_ 
+   - (3B) As a Veteran, I want to **easily comprehend medical questions and screeners** by using simple to understand language and education, so that I can **better manage my own health and answer question accurately.** 
+   - _On average, Veterans require additional explanation and education by their care team on a number of clinical reminder screeners so that they fully understand the question being asked_
 
 </details>
 
 <details> <summary> 4. Do similar things the same way with seamless next steps</summary>
 
-- _Digital Front Door_ - (4A) As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to **access my health questionnaires in a similar way,** so the workflow is **consistent and convenient to my current experience.** - _On average Veterans use the Medications, Messaging, Online Scheduling, Facilities and Benefits experiences that they feel the intake questionnaires should be easily accessible from these workflows_
-- _Do not require a Login_ - (4B) As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity. - _On average, Veteran might not have completed the authorization and verification steps required to access their healthcare data and still should be able to complete pre-visit information._
-- _Notifications_ - (4C) As a Veteran, I want to be **notified in advance of my health care visit** that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can **complete when convenient and relevant for me.**  
-   - _On average Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit._ - (4D) As a Veteran, I want to be **notified in a similar or the same appointment reminder** that I receive today, so that the questionnaire is in **context of the visit** I am planning to attend. - _On average Veterans like VeText and the appt. reminders they receive today_
-- _Consumer and Private Practice Expectations_ - (4E) As a Veteran, I want to have a **similar experience in filling out pre-visit questionnaires that I receive outside the VA in private practice**, so that I can **partner in better communication and collaboration** with my VA care team.
+- _Digital Front Door_ 
+   - (4A) As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to **access my health questionnaires in a similar way,** so the workflow is **consistent and convenient to my current experience.** 
+   - _On average Veterans use the Medications, Messaging, Online Scheduling, Facilities and Benefits experiences that they feel the intake questionnaires should be easily accessible from these workflows_
+- _Do not require a Login_ 
+   - (4B) As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity. 
+   - _On average, Veteran might not have completed the authorization and verification steps required to access their healthcare data and still should be able to complete pre-visit information._
+- _Notifications_ 
+   - (4C) As a Veteran, I want to be **notified in advance of my health care visit** that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can **complete when convenient and relevant for me.**  
+   - _On average Veterans would want to receive a notification reminder to fill out digital forms 2-3 days ahead of their visit._ 
+   - (4D) As a Veteran, I want to be **notified in a similar or the same appointment reminder** that I receive today, so that the questionnaire is in **context of the visit** I am planning to attend. 
+   - _On average Veterans like VeText and the appt. reminders they receive today_
+- _Consumer and Private Practice Expectations_ 
+   - (4E) As a Veteran, I want to have a **similar experience in filling out pre-visit questionnaires that I receive outside the VA in private practice**, so that I can **partner in better communication and collaboration** with my VA care team.
 
 </details>
 
@@ -72,7 +94,8 @@ Veterans are unable to consistently share and update current health status and m
   - (5D) As a Veteran, I want to provide **my story and whats important to me** so that I am able to collaborate and parter with my care team in my health goals.
   - (5E) As a Veteran, I want to inform my VA care team of **all the programs , VA providers, and private practice care** I'm receiving so that they are aware of my full clinical care team that is creating my treatment plan.
   - (5F) As a Veteran, I want to update my current medications so that my care team is aware of what Im **currently taking and need refills so that Im able to fill RX when needed.**
-  - (5G) As a Veteran, I want to provide my care team with the **reason for my visit so that they can prepare** in advance if tests should be completed, noted stressors/triggers, or an acute concern should change my appointment date. - _On average Veterans repeat their past medical history, current screening, medication, chief complaint, and health concerns at every visit_
+  - (5G) As a Veteran, I want to provide my care team with the **reason for my visit so that they can prepare** in advance if tests should be completed, noted stressors/triggers, or an acute concern should change my appointment date. 
+  - _On average Veterans repeat their past medical history, current screening, medication, chief complaint, and health concerns at every visit_
 
 </details>
 
@@ -87,8 +110,8 @@ Veterans are unable to consistently share and update current health status and m
 | Initiative Name                                                                                                                                                                                | Status   | Availability (Q1-Q4 / 1H- 2H / Vision |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------- |
 | **Questionnaire/Screeners**                                                                                                                                                                    |
-| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) | Discover | Q4 2020                               |
-| [This Visit Questionnaire]()                                                                                                                                                                   | Discover | Q3 2020                               |
+| [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) | Discover | [Q4 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)                              |
+| [This Visit Questionnaire]()                                                                                                                                                                   | Discover | [Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)                               |
 | **Personal/Profile**                                                                                                                                                                           |
 | [Demographics]()                                                                                                                                                                               | Discover | --                                    |
 | [Story/Bio]()                                                                                                                                                                                  | Discover | --                                    |
