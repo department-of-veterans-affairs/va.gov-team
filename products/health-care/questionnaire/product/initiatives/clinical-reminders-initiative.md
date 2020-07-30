@@ -57,13 +57,14 @@ As a Veteran, I want to provide my care team with the most current status of my 
 
 * Use Case 
 
-### EMBEDDED FRAGMENTS RISK EVALUATION 
+### EMBEDDED FRAGMENTS RISK EVALUATION
 
 * Use Case 
 
-### HOMELESSNESS SCREENING 
+### HOMELESSNESS SCREENING
 
 * Use Case 
+* [Feature Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/feature-documentation/clinical-reminders/homeless.md)
 
 ### IRAQ & AFGHAN POST-DEPLOY SCREEN 
 
