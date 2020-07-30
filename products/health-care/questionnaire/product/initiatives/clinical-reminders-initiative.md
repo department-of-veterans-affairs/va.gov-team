@@ -91,7 +91,7 @@ To be included in each User Story above where it applies as a reference
 ---
 | Issue #                                             | Design     | User Testing | Accessability  | QA - Test Case  | Launch    | Notes 
 | --------------------------------------------------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
-| Clinical Reminders Initiative Outline #11861        |      link to mockup     |              |                |                 |           | 
+| [Clinical Reminders Initiative Outline #11861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11861)        |      link to mockup     |              |                |                 |           | 
 | Feature Name-Issue #                                |                 |              |                |                 |           | 
 | Feature Name-Issue #                                |                 |              |                |                 |           | 
 | Feature Name-Issue #                                |                 |              |                |                 |           | 
