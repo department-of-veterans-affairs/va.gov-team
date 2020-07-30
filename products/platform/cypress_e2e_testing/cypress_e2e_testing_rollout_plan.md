@@ -18,6 +18,8 @@ We will be doing two sets of testing for this phase of the rollout.
 
 ### Results:
 - Number of users: 2
+_As of July 2020, we have converted some but not all VSP Nightwatch tests to Cypress. It is in our backlog to migrate remaining tests but we do not consider this to be launch blocking._
+
 - Number of bugs identified / fixed: 
 - Was the data submitted (if any) easy for VA to process?: 
 - Types of errors logged: 
@@ -33,19 +35,20 @@ We will be doing two sets of testing for this phase of the rollout.
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: The documentation will be live and the Cypress testing framework will be available for them to use. We will not be announcing that Cypress is available to use outside of our pilot teams. 
 
 ### Results:
-- Number of users: 
-- Number of bugs identified / fixed: 
-- Was the data submitted (if any) easy for VA to process?: 
-- Types of errors logged: 
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: 
+- Number of users: 2 teams fave thorough feedback — VAOS and VSA Auth Exp
+- Number of bugs identified / fixed: Numerous updates made to documentation
+- Was the data submitted (if any) easy for VA to process?: N/A
+- Types of errors logged: documentation improvements and suggestions
+- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes
+- If yes, what: documentation was updated in accordance with feedback from [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10048) and [VSA Auth Exp](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11693). 
 
 ### Planning
 
-- Desired date range: June - July
-- How will you make the product available in production while limiting the number of users who can find/access it: No need for this
+- Desired date range: End of July
+- How will you make the product available in production while limiting the number of users who can find/access it: N/A
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: We will be looking to track the following metrics
- - % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
+ - Total number of tests in Cypress
+ - Total number of tests in Nightwatch
  - Number of times form tester is utilized in Cypress (data to be pulled from from Circle)
 
 ~~### Stage A: Canary~~
@@ -71,11 +74,12 @@ We will be doing two sets of testing for this phase of the rollout.
 ## Go Live!
 
 ### Planning:
-- Desired date: June
-- Post-launch KPI 1: % of tests written in Cypress vs Nightwatch  (data to be pulled from Circle)
-- Post-launch KPI 2:  # of times form tester is utilized in Cypress (data to be pulled from from Circle)
-- Post-launch KPI 3: # of product support requests related to Cypress documentation not meeting the needs of users
-- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
+- Desired date: End of July
+- Post-launch KPI 1: # of total tests in Nightwatch
+- Post-launch KPI 2:  # of total tests in Cypress
+- Post-launch KPI 3: 
+
+_We expect the # of total tests in Cypress to increase over time. We expect the # of total tests in Nightwatch to decrease over time, albeit more slowly as we are not requiring folks to migrate old tests over to Cypress in the short term. The relationship between Nightwatch tests and Cypress tests is NOT 1:1. Data is manually gathered biweekly and [tracked in ZenHub](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/11703). 
 
 ### 2-weeks results:
 - Number of unique users: x
