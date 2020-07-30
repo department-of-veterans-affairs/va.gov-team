@@ -34,8 +34,8 @@ Examples of the most common and the priority clinical reminders for our product.
 
 ---
 
-## User Story A 
-
+## User Story - Homeless
+As a Veteran, who is homeless I need ABC
 * Use Case 
 
 * Description
