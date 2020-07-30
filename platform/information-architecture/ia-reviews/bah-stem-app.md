@@ -16,22 +16,30 @@
 
 **Approach:**
 
-- 
+- Work will include a static content page - migrated from legacy va.gov - as well as an online application.  
+- The existing form wizard on the education How to apply page will be modified to direct users to this application when applicable.  Users can also access the form directly through direct link or navigating through the education structure to the application. 
+- The content page and application will live under "other education benefits" within the 'Get benefits' spoke of the education hub.  
 
+**URLs and Breadcrumbs**
 
-Page | URL | Breadcrumb
+Page | URL | Breadcrumb | Notes
 --- | --- | ---
+STEM static content page | wwww.va.gov/education/other-va-education-benefits/stem-scholarship  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship  | This is a new static content page that will include an overview of the scholarship, eligibility info and an "Apply now" button that will link to the online application
+STEM application | wwww.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-stem-scholarship-form-22-10203  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship > Apply for the Edith Nourse STEM Scholarship | This is the online application for the scholarship. 
 
-**General Details**
-- Please connect with your writer/editor on the proper verbiage and capitalization of the last element of the breadcrumb
+
 
 <hr>
 
 ### Navigation Changes and Entry and Exit Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-Priority | Placement | Description
+Priority | Placement | Label | Description
 --- | --- | ---
+Must | [Other VA education benefits page](https://www.va.gov/education/other-va-education-benefits/) | To be determined by PW team | This content page should be revised to properly link to all child pages within the section, including this new STEM scholarship application. It should also be revised to remove the reference to "if you don't qualify for Post-9/11" as the content of the section is now growing to include any other benefits outside of GI Bill. 
+Must | Education hub left nav | Edith Nourse STEM Scholarship | Under 'Get benefits' spoke, as a child of "Other VA education benefits" - order would be VEAP, National Call to Service, Edith Nourse STEM Scholarship, REAP
+Should | Education hub page | Existing "Other education assistance programs" | Should review teaser text to ensure it correctly reflects the addition of a scholarship as additional options. 
+Consider | Consider REMOVING from the form wizard on How to apply and Eligibility pages in Education | n/a | Consider removing the question from the form wizard and treating this similar to other "fringe" benefits like  Yellow Ribbon - this would leave the wizard to focus on the core education benefit.   
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
@@ -40,9 +48,13 @@ Priority | Placement | Description
 ### Redirects <br>
 *Identify if any redirects are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
-- 
+- The Edith Nourse STEM page will be rewritten and brought into the modernized va.gov experience under the Education benefits hub.  Therefore the legacy page, created within Team site, should be redirected to the new page to eliminate duplicate content and transfer SEO juice.  
 
-Please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
+Current URL | Redirect to
+--- | ---
+https://benefits.va.gov/gibill/fgib/stem.asp | wwww.va.gov/education/other-va-education-benefits/stem-scholarship
+
+**Please submit a request for the redirect** using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance. 
 *For more information, see the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).*
 
 
