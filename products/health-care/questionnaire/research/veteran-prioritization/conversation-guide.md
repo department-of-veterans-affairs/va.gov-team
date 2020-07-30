@@ -49,9 +49,15 @@ I have some categories listed here. Go ahead and drag an item from the left and 
 
 Now that all of the topics are sorted, let's look at each category and sort based on importance one more time. Let's start with the least important column and move to the others from there.
 
+**Questions to consider**
+- Talk me through why you chose this topic
+- What does this topic mean in your words?
+- What has your experience been with this question/topic in your appointments?
+
 ### Things to listen for:
 
-- _thing_
+- _How does the Veteran interpret the sorted cards?_
+- 
 
 ## Topic: Form feedback
 
