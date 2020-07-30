@@ -19,9 +19,33 @@ There are two primary methods that are used for conducting mobile usability test
 
 #### Laptop hugging method
 
+The “laptop hugging” method means that the user joins the call on their laptop and shows their mobile screen via the webcam. When the initial introduction to the session is done, the moderator asks the participant to turn their laptop 180 degrees so that the screen is looking away from the user. When the participant now places their hands around their computer and takes their mobile in their hands, it will be visible on the webcam.
+
+![Image of a person demonstrating the laptop hugging method](https://unmatchedstyle.com/wp-content/uploads/2012/06/laptop-huggers.jpg)
 
 #### Screensharing method
-The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study.
+The screensharing method requires the participant to download the Zoom app on their phone and share their screen as they complete the tasks of the usability study. 
 
-  - Note the security warning users will see upon sharing screen
+## Recruiting
+
+**For either method:**
+- Ask Perigean to recruit people who visit VA.gov using a mobile device (specify if tablets are acceptable for your study)
+- Ask Perigean to include in the screener: What kind of mobile (or tablet, if applicable) device do you use?
+
+**If you're using the screen sharing method:**
+- Ask Perigean to have the participants:
+  - Download the Zoom mobile app prior to entering the session (provide links to Zoom app in app store if possible - placeholder for zoom links)
+  - Enable settings on for screen sharing on their device
+  
+**If you're using the laptop-hugging method:**
+- Ask Perigean to recruit people who are able to use a laptop, tablet with a stand, or a webcam 
+- Make sure Perigean recruits people who are comfortable using their laptop/tablet camera or webcam
+- Ask Perigean to have the participants:
+  - Do a dry run of the laptop hugging method
+  - Send an illustration, photo, or step-by-step instructions of how the laptop hugging works (placeholder for resources here)
+  
+  
+  ## During research
+  
+  Note that a security warning may pop up upon users sharing their screen. Make sure the participant.
 
