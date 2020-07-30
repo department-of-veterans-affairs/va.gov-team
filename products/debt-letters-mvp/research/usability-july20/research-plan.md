@@ -80,19 +80,19 @@
 
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
-- We would like to interview 8-10 Veterans who have incurred at least one VBA debt in the past. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Participants who have a debt not included in that list will not be able to participate.<br>
+- We would like to interview 6-8 Veterans who have incurred at least one VBA debt in the past. VBA debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Participants who have a debt not included in that list will not be able to participate.<br>
 **Note:** The tool we are testing does not include VA medical copayment debts. 
 
-- In order to reach the desired number of participants, we would like Perigean to schedule 15 participants total.
+- In order to reach the desired number of participants, we would like Perigean to schedule 10 participants total. 
 - We would like to speak with a mix of participants, including:
-   - At least 7 participants who have had Education debts (CH 33, CH 34, CH 35)
-   - At least 7 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
+   - At least 4 participants who have had Education debts (CH 33, CH 34, CH 35)
+   - At least 4 participants who have had Compensation or Pension debts (for example: debt incurred from receiving funds for a spouse that has been divorced or a child who has changed households)
    - At least one pre-9/11 Veteran
    - At least one post-9/11 Veteran
    - At least one person that does not have a college degree (to include enlisted Vets)
    - At least one person that has a college degree (to include of officer Vets)
    - At least one woman
-   - At least 3 Veterans with a disability rating of 80% or higher
+   - At least 2 Veterans with a disability rating of 80% or higher
    - At least one participant that has identified cognitive impairments and/or functional disabilities. Examples of diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), autism, and vertigo. Other conditions may be aphasia, dyslexia, dyscalculia, distractibility, memory loss, reading difficulties, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 - The UXPin prototype may not be accessible with Internet Explorer. Please confirm with participants that they are able to use a browser such as Google Chrome, Mozilla Firefox, or Safari for the session. 
 - Please confirm the participant has Zoom downloaded prior to the session and they know how to screenshare
