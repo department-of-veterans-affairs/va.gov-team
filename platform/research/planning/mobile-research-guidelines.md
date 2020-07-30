@@ -24,6 +24,7 @@ The “laptop hugging” method means that the user joins the call on their lapt
 This photo shows what it looks like:
 ![Image of a person demonstrating the laptop hugging method](https://miro.medium.com/max/1400/0*OUjnQaSUSbjutgPr)
 
+
 [Source, and more about the laptop hugging method](https://medium.com/@beparticular/were-still-hugging-our-laptops-8c7f22ed800e)
 
 #### Screensharing method
