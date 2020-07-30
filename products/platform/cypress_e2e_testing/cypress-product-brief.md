@@ -6,7 +6,7 @@ Cypress is a functional testing tool that is used to test the complete frontend 
 
 ### How does it work?
 
-Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend developers building products on VA.gov write Cypress tests [where? or other info?]. Unlike Nightwatch, Cypress allows developers to [do this cool thing]. Additionally, there is a form tester that automates Cypress end-to-end (E2E) tests on VA.gov form applications.
+Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend developers building products on VA.gov write Cypress tests [where? or other info?]. Additionally, there is a form tester that automates Cypress end-to-end (E2E) tests on VA.gov form applications.
 
 ------
 
