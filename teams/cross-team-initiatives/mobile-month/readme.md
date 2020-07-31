@@ -75,66 +75,14 @@ Designers are currently unable to test their work on mobile because there is a l
 
 --- 
 
-## Go-to-market Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](#go-to-market-strategy)
-
-## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch?*
-  - 
----
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
-
----
-   
-## Screenshots
-
-### Before
-
-### After
-
----
-
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
+#### Team Members / Organizers
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Kevin Hoffman, Ryan Thurwell
+ - Design: Emily Waggoner, Shawna Hein, Liz Lantz, Crystabel Reiter 
  
 </details>
 
-
-#### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
 
 
