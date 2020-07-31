@@ -1,6 +1,6 @@
 # Requesting documentation support from the Content and IA team (for other VSP teams)
 
-The VSP documentation team is available to help other VSP teams with their documentation efforts. This document explains how to request documentation support and guidelines for writing your own documentation.
+The VSP Content and IA team is available to help other VSP teams with their documentation efforts. This document explains how to request documentation support and guidelines for writing your own documentation.
 
 **Key points:**
 
