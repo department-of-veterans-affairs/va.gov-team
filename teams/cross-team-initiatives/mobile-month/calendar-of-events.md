@@ -51,13 +51,9 @@ Goal: improve planning and processes around research and design for mobile devic
 * Activities:
 
    * Monday design meeting (August 10)
-
+      * Mobile analytics presentation from Insights & Analytics team
       * Mobile Research - open discussion and include Lauren+Perigiean
-
-         * Topics:
-         
-         * Mobile analytics presentation from Insights & Analytics team
-
+        
          * Adding device details to screener
 
          * Setting up studies for mobile
