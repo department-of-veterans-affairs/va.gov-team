@@ -1,4 +1,4 @@
-# Conversation guide: Research intake form Prototype Study 1 - Aug, 2020
+# Conversation guide: Intake form Prototype Study 1 - Aug, 2020
 
 ## Moderator logistics
 
