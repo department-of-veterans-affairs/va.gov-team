@@ -1,4 +1,4 @@
-# Infrastructure Recommit Initiative Outline
+#  Infrastructure Recommit Initiative Outline
 
 #### Communications
 - Team Name: Operations
@@ -64,41 +64,27 @@ Currently, our infrastructure leads to many problems:
 - Making a flexible infrastructure will help the Platform adapt to different needs 
 - Development will increase 
 - The sentiment of complexity will decrease  
-- There will be more teams like GIDs with their own custom backends comeing on the platform in the future. 
+- There will be more teams like GIDs with their own custom backends coming on the platform in the future. 
 
 ## Solution Approach
-We will work in a discovery sprint then four different phases: 
 - Discovery sprint
 	- Research and speak with people working on and with the Platform to better understand the pain points
 	- Make [recommendations around findings](https://docs.google.com/presentation/d/1mESrMGEn5nGG9M0HUIkoBfIUCtk9ZrdV7FkMsWOH4XE/edit#slide=id.g76a7f82c07_0_303)
 - Urgent Quality Problems
 	- Address quality issues in current infrastructure that are blockers or enforce artificial limits on other VSP and VFS teams.
 	-  Work is scoped to “buy” enough time and stability in the current Platform in order to safely begin investing in overhaul work.
-- Devise and Test
-	- Devise an overhauled “golden path” for continuous delivery and build out a test model.  
-	- Solicit feedback by establishing a focus group with shareholders that will follow the process and provide feedback. 
-- Implementation
-	- Build or overhaul infrastructure and processes using iterated design. Adjust services to use it, removing old stuff along the way. 
-	-  Incorporate Focus group to solicit feedback and iterate 
-	
-	
-Repos:
-- https://github.com/department-of-veterans-affairs/vsp-infra-local
-- https://github.com/department-of-veterans-affairs/vsp-infra-ami
-- https://github.com/department-of-veterans-affairs/vsp-infra-playground
-- https://github.com/department-of-veterans-affairs/vsp-infra-deployer
-
-Demo repo:
-- https://github.com/department-of-veterans-affairs/vsp-infra-demo
+- Pivot due to personal and technology changes and move to AWS hosted solutions ie Far Gate and ECS 
+- Use logging as a test case for how we will migrate services to the new infra. 
+- Migrate VSP Services to try and understand what need to be done before tackling customer services. 
+- Migrate the remaining services while working closely with the owners. 
 
 ## Implementation Milestones
-[Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3463)
-- Local and Playground Buildout  [#6541](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6541) 
-   - [Demo half way through](https://zoom.us/rec/share/-_xNdb_K2FtOXreS0R6GdYp4PNncT6a80CRIqfYPzRrm020BlXwsiu88KG26802f)
-   - [Playground and Vault](https://dsva.slack.com/archives/CJRQ85PQB/p1588194981383300)
-- Dev, Stage, & Prod Buildout
-- New Services
-- Service Migrations
+- Launch Loki for Logging 
+	- [Super epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10529)
+- Migrate Operations Services
+	- [Super epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10529)
+- Remaining Service Migrations
+	- 	[Super epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10529)
 
 ## KPIs
 - Team sentiment of complexity (decrease)
