@@ -18,7 +18,6 @@ Our goal is to improve the in-person and online pre and post-appointment experie
 ## Method	
 We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback on an initial direction for the MVP. 
 
-
 ## Participants and Recruitment	
 
 Recruit for 8 fulfilled sessions using the following criteria:
@@ -52,9 +51,11 @@ Team Availability | Time (EST)
 Friday, August 7 | 11am - 8pm
 Monday, August 10 | 12pm - 6pm
 Tuesday, August 11 | 12pm - 6pm
+
+Pilot session:
 	
 ## Team Roles	
-- Moderator: Shawna Hein (shawna@adhocteam.us), Aricka Lewis (aricka@adhocteam.us)
+- Moderator: Aricka Lewis (aricka@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
 - Research guide writing and task development: Aricka Lewis 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
