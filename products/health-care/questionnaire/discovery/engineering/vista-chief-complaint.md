@@ -20,5 +20,7 @@ An example of a consult: http://wiki.laptop.org/go/File:Vista_monograph2005_06_h
 
 VistA has many thousands of different record types but adding a new record type is non trivial and involves an extensive review process. 
 
-- Since the consult record type is free flowing text, it is quite common to store field values in this text that can be parsed out. 
+- Since the consult record type is free flowing text, it is quite common to store field values in this text that can be parsed out and this is already being done.
 - This simple approach seems to make sense as long as one veteran record is processed at a time. There would be no query like functionality to find all veterans with certain field values etc
+
+
