@@ -1,10 +1,3 @@
-**To Do:**
-- [ ] Determine plan for sort and mockup testing
-- [ ] Create card sort study
-- [ ] Create conversation guide
-- [ ] Create static mockup
-- [ ] Review mockup with VSP
-
 # Research Plan for Healthcare Experience Team August 2020 
 ## Goals	
 This research is to gain Veteran input on how to prioritize identified initiatives and inform the MVP. 
@@ -54,12 +47,14 @@ Team Availability | Time (EST)
 ------------------|--------------
 Date | Time
 Date | Time
+
+**Pilot session:** TBD
 	
 ## Team Roles	
 - Moderator:
 - Research guide writing and task development: Aricka Lewis (aricka@adhocteam.us)
 - Participant recruiting & screening: Perigean
-- Project point of contact: 
+- Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
 - Participant(s) for pilot test: 	
 - Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov)
