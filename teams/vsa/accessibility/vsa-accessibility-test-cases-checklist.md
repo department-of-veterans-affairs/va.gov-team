@@ -34,9 +34,10 @@ It may help to go into Edit this document, copy the following Markdown, and past
     - [ ] Test with [WAVE tool](https://wave.webaim.org/) 
 
 
-Known issues:
+Known issues: 
+(Please note, these should be links to individual issue tickets where the team documents issues found in their tests.)
 
-* []()
+* [#1234 sample](github_url)
 
 * []()
 
