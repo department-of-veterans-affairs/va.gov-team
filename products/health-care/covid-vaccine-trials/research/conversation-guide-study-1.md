@@ -95,6 +95,7 @@ Thank you for working through that with me. I just have a few more questions bef
 - What did you like or dislike about the experience of using that tool?
 - Since I cannot see your hands, can you please describe how you you were holding your phone during the session?
 - Is there anything else you would like to share?
+- ??? Add a question here about how the participant feels about VA and clinical trials? (NOTE: the phrasing will need **Lauren's** expertise) Or should it be asked at the beginning before the participant digs into the prototype?
 
 ## Thank-You and Closing - 1 minutes
 
