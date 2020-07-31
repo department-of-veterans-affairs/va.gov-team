@@ -9,10 +9,11 @@ Our goal is to improve the in-person and online pre and post-appointment experie
 - What topics/questions would Veterans find useful to answer ahead of an appointment?
 - What topics/questions do Veterans find most beneficial to their healthcare experience?
 - How do Veteran sorted priorities align with what we have learned from clinicians?
--
 
 **Hypothesis & assumptions**
-- hypothesis 1
+- Veterans will rank topics/questions related to their medical history highly
+- Veterans will provide feedback on topics/questions not listed in the card sort
+- Veterans will want to fill out multiple forms for different appointments ahead of a trip to the VA
 
 ## Method	
 We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
@@ -33,6 +34,8 @@ We would like to talk with 8 participants:
 **Recruitment requirements**
 - The participants have Zoom downloaded prior to the session
 - The participants know how to screenshare
+
+*This study requires participants to drag and drop elements and requires screensharing.*
 
 **Questions for screener**
 - Have you visted the VA for primary care in the last year? (pass = yes)
@@ -60,7 +63,7 @@ Date | Time
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov)
 
 ## Resources	
-- [Project Brief]
+- [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md)
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
 - Synthesis
 - Read-Out/Results	
