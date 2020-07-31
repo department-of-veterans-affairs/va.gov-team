@@ -5,9 +5,7 @@ VA Mobile Month (August 2020)
 Integration into team work
 --------------------------
 
--   Encourage teams to work on something mobile focused and bring it up in their demos in August
-
--   Add a "what we did for mobile" bullet point to each team's demo slide
+-   Possible: teams work on something mobile focused and bring it up in their demos in August
 
 -   Look into GH issue templates and see where there are ways to work mobile in
 
@@ -52,24 +50,19 @@ Goal: improve planning and processes around research and design for mobile devic
 
    * Monday design meeting (August 10)
       * Mobile analytics presentation from Insights & Analytics team
-      * Mobile Research - open discussion and include Lauren+Perigiean
+      * Mobile Research - open discussion (if possible include Lauren+Perigiean)
         
          * Adding device details to screener
 
          * Setting up studies for mobile
 
-         * Discussion about what folks think are "a bad ux" for veterans on VA.gov currently
-
-         * Discussion about "mobile first" and what might be keeping folks from designing this way
-
-            * Goal: decide how/why we might want to add mobile elements to the sketch templates
-            * Homework assignment (1-2 hrs max) for next Monday, Aug 17: Component improvement
+      * Homework assignment (1-2 hrs max) for next Monday, Aug 17: Component improvement
 
    * Tuesday VSA Demos (August 11)
 
       * Share mobile month updates (analytics, mobile research process documentation), in the "cross team initiatives" slide
 
-      * Each team takes statistics from mobile analytics that are relevant to their product and shares during the demo 
+      * Possible: Each team takes statistics from mobile analytics that are relevant to their product and shares during the demo 
 
    * Mobile specific research documentation/guidance finalized
 
