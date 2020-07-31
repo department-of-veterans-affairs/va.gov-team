@@ -30,6 +30,11 @@
 | [P12](../july-2020-user-research/session-notes/20200717-VAOSR-p12-notes.md) | Veteran                                               | Male   | White or Caucasian                                      | 25 - 34  | Master's degree          | Navy               | VA       |
 | [P13](../july-2020-user-research/session-notes/20200721-VAOSR-ECv2-p13-notes.md)<br />EC v2 only | Veteran                                               | Male   | White or Caucasian                                      | 65 - 74  | Some college (no degree) | Air Force, Army    | AL       |
 | [P14](../july-2020-user-research/session-notes/20200729-VAOSRv2-p14-notes.md)<br />VAOSR only + new scheduling Qs + EC Qs | Veteran                                               | Female | White or Caucasian                                      | 55 - 64  | Some college (no degree) | Army               | WI       |
+| [P15](../july-2020-user-research/session-notes/20200730-VAOSRv2-p15-notes.md)<br />VAOSR only + new scheduling Qs + EC Qs | Veteran                                               | Male   | White or Caucasian                                      | 35 - 44  | Master's degree          | Army               | MI       |
+
+
+## 
+
 
 ## Top takeaways
 
