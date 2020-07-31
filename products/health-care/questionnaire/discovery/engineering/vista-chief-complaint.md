@@ -33,7 +33,7 @@ VistA has many thousands of different record types but adding a new record type 
 
 ## VAOS
 
-- VAOS uses VAMF (VA Mobile Framework)
+- VAOS uses VAMF (VA Mobile Framework) to obtain veteran scheduling information.
 - VAOS is essentialy the VAOS Rails engine/Gem in vets-api that lives in the modules/vaos directory and has it's own set of Rails Routes. 
 - VAOS connects to VAMF through veteran.apps.va.gov, however in the development and other environments there is no key to connect.
 - The vets-website in dev and other environments actualy does not connect to VAOS but has fake mock data.
