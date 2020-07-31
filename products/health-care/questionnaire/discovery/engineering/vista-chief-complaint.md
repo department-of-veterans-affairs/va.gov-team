@@ -25,6 +25,13 @@ VistA has many thousands of different record types but adding a new record type 
 - Since the consult record type is free flowing text, it is quite common to store field values in this text that can be parsed out and this is already being done.
 - This simple approach seems to make sense as long as one veteran record is processed at a time. There would be no query like functionality to find all veterans with certain field values etc
 
+## Connecting to VistALink
+
+- There is a Ruby Gem for connecting to VistALink. It has not been updated for 9 years https://github.com/michaelcham/vistarpc4r. Since VistA is an old system, perhaps not much has changed and that doesn't matter.
+- There may be Ruby packages for using RPC
+- VistALink is accessed using RPC. Java may have libraries for RPC
+- JRuby can also run on the Java JVM and should be able to access the same Java RPC libraries 
+
 ## VAOS
 
 - VAOS uses VAMF (VA Mobile Framework)
@@ -34,4 +41,6 @@ VistA has many thousands of different record types but adding a new record type 
 - The VAOS team is sensitive about other teams piggybacking or using their API as it effects their metrics and Paul Short is aware of this. 
 - VAOS is not part of the VA platform support but are more of a services team. 
 - VAOS suggested forking their code but this also has reusability concerns. 
+- More information about the VAMF api specifically would be useful to understand how VAOS data is obtained.
+
 
