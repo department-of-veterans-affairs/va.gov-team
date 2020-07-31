@@ -6,7 +6,7 @@ title: "[Initiative-Name]: Initiative Checklist"
 
 ## Guidance (delete before posting)
 
-_This checklist is intended to be used to help answer, "is my VSP initiative ready for launch?". All of the items in this checklist should be completed, with artifacts linked---or have a brief explanation of why they've been skipped---before launching a given VSP initiative. The items that can be skipped are marked as such._
+_This checklist is intended to be used to help answer, "is my VSP initiative ready for launch?". All of the items in this checklist should be completed, with artifacts linked---or have a brief explanation of why they've been skipped---before launching a given VSP initiative. All links or explanations can be provided in **Required Artifacts** sections. The items that can be skipped are marked as such._
 
 _Keep in mind the distinction between **Product** and **Initiative** --- each Product needs specific supporting documentation, but Initiatives to improve existing Products should reuse existing documentation for that Product. See (VSP Product Terminology)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-terminology.md] for details._
 
@@ -24,9 +24,9 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 ### Required Artifacts
 
-* **Usability test**: \<link to GitHub issue, or provide reason for skipping>
-* **Manual QA**: \<link to GitHub issue or documented results>
-* **Automated tests**: \<link to tests, or "N/A">
+* **Usability test**: _link to GitHub issue, or provide reason for skipping_
+* **Manual QA**: _link to GitHub issue or documented results_
+* **Automated tests**: _link to tests, or "N/A"_
 
 ## ... documented?
 
@@ -34,8 +34,7 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 - [ ] Product is included in the [List of VSP Products](https://docs.google.com/spreadsheets/d/1Fn2lD419WE3sTZJtN2Ensrjqaz0jH3WvLaBtn812Wjo/edit#gid=0)
     * _List the existing product that this initiative fits within, or add a new product to this list._
 - [ ] Internal-facing: there's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) checked into [`products/platform/PRODUCT_NAME/`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/)
-    - [ ] ... including happy paths, and how you'll react to unhappy paths
-    * _Note: this Product name should match 1:1 with the List of VSP Products_
+    * _Note: the Product Directory Name should match 1:1 with the List of VSP Products_
 - [ ] External-facing: a [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-brief-template.md) exists for this product/feature tool
     - [ ] ... and should be located at `platform/PRODUCT_NAME/README.md`
 - [ ] External-facing: a User Guide (_TODO: link_) exists for this product/feature/tool, and is updated for changes from this initiative
@@ -46,10 +45,10 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 ### Required Artifacts
 
-* **Product Name**: `PRODUCT_NAME`
-* **Product Outline**: \<link to Product Outline>
-* **Product Brief**: \<link to Product Brief>
-* **User Guide**: \<link to User Guide>
+* **`PRODUCT_NAME`**: _directory name used for your product documentation_
+* **Product Outline**: _link to Product Outline_
+* **Product Brief**: _link to Product Brief_
+* **User Guide**: _link to User Guide_
 
 ## ... measurable
 
@@ -59,5 +58,5 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 ### Required Artifacts
 
-* **Success metrics**: \<link to where success metrics are measured, or where they're defined, or provide reason for skipping>
-* **Release plan**: \<link to Release Plan>
+* **Success metrics**: _link to where success metrics are measured, or where they're defined (Product Outline is OK), or provide reason for skipping_
+* **Release plan**: _link to Release Plan_
