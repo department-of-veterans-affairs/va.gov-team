@@ -65,6 +65,7 @@ Availability: Wednesday (8/5) 8am-6pm
   - Stephen Barrs   stephen.barrs@va.gov
   - Michael Chelen   michael.chelen@va.gov
   - Laura Prietula   Laura.Prietula@va.gov
+  - Observers can drop [notes in this mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1596208607958/4a32f0b901e0cc46ed637baa5a5a01116dab6b03).
 
 ## Resources	
 
