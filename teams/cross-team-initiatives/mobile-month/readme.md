@@ -11,11 +11,11 @@ How might we create mobile-specific resources for designers building on VA.gov s
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
+*Why would a user want to use this?*
 
 Designers (and the teams they support) at VA will want to engage with Mobile Month so that they can become versed in analytics and make data-driven design decisions that specifically improve the mobile experience for Veterans.
 
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+*With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 After Mobile Month, designers at VA should be able to:
 - Design flows using mobile-specific components and patterns in Sketch
@@ -30,10 +30,10 @@ Designers feel more overwhelmed with meetings and resources, feeling like it’s
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-So that the experience of VA.gov is Veteran-centered, and meets them where they are
-So that the mobile experience of VA.gov is consistent and excellent quality
-So that designers can create a consistent, excellent mobile experience of VA.gov more efficiently
+*Why would your business want this to exist?*
+- So that the experience of VA.gov is Veteran-centered, and meets them where they are
+- So that the mobile experience of VA.gov is consistent and excellent quality
+- So that designers can create a consistent, excellent mobile experience of VA.gov more efficiently
 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
@@ -46,9 +46,9 @@ The mobile experience of VA.gov becomes inconsistent, or deteriorates as mobile 
 ### KPIs
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 
-Increase in amount of mobile user research studies done with Veterans in Q3 & Q4
-All initiatives identified during Mobile Month are prioritized on Q3 (and Q4) roadmaps
-Mobile design templates exist in Sketch
+- Increase in amount of mobile user research studies done with Veterans in Q3 & Q4
+- All initiatives identified during Mobile Month are prioritized on Q3 (and Q4) roadmaps
+- Mobile design templates exist in Sketch
 
 * _What are the most important metrics that track with this product/initiative's success?_
 * _Include links to Domo or Google Analytics Dashboards/Reports_
