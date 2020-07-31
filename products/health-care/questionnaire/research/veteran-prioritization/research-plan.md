@@ -18,8 +18,6 @@ Our goal is to improve the in-person and online pre and post-appointment experie
 ## Method	
 We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
 
-[Link to card sort](https://adhoc.optimalworkshop.com/optimalsort/4fqb7x24/sort)
-
 ## Participants and Recruitment	
 We would like to talk with 8 participants:
 - At least 1 woman
