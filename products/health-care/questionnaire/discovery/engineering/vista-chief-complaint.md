@@ -16,7 +16,7 @@ To import PDF files into VistA, VistaImage could be used
 https://www.va.gov/health/imaging/
 
 A better approach seems to be to use VistA Consult which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. 
-An example of a consult: http://wiki.laptop.org/go/File:Vista_monograph2005_06_html_m465fd7a.png
+- An example of a consult: http://wiki.laptop.org/go/File:Vista_monograph2005_06_html_m465fd7a.png
 
 ## Discreet Fields
 
