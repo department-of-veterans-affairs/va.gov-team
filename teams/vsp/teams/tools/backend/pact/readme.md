@@ -70,16 +70,20 @@ To speed up development workflow on the backend, the pact helper can be configur
 ### More on provider states
 Provider states allow the consumer to define a state in which the provider should be in when making making a request. (eg. response codes, data, etc). Provider states define the state of the provider and how it will handle a response given it's current state and the data that should exist.
 
+------
 
-### CircleCI integration (todo)
+## PACT Setup (TODO)
+
+### How to Setup the Frontend Contracts
+
+### How to Setup the Backend Provider States
+
+### How to run the Verification task & Verify the Results
+
+## CircleCI integration (todo)
 
 ------
 
-## PACT Configuration
-TODO
-
-
-------
 
 ## Design Doc
 Additional information detailed in the [design doc](https://github.com/department-of-veterans-affairs/va.gov-team/pull/8073/files#diff-f2abf33f91ea32d2168228610ba56d37R209)
@@ -89,4 +93,8 @@ Additional information detailed in the [design doc](https://github.com/departmen
 CircleCI
 
 Add piece for avoiding provider state naming collisions or something generic like, “service is up”.
+
+If you are just getting started on development, can you look at a pack contract to determine what the responses will look like?  And how do you do that?
+
+Add a visual
 
