@@ -7,7 +7,7 @@ Use this template to create a Product Brief for your product. To begin,
 
 # Product Title
 
-*Add 1-2 sentences about what this product is and how it will benefit VFS teams.*
+*Add 1-2 sentences about what this product is and how it will benefit VFS teams. Use bullet points for easier visual scanning, but keep details to other docs.*
 
 ------
 
