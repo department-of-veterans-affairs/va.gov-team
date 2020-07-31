@@ -61,7 +61,9 @@ These larger administration topic categories are for content that doesn't fit in
 Example: VA fiduciaries is an audience type; they work with Veterans on behalf of VA; they are assigned by VA, and they may span multipiple benefits/services, because they're assigned to the Veteran, not to a benefit/service. So for some `fiduciary` audience topics, the content might have the topic tag `Veterans Benefits Administration.`
 
 14.Veterans Benefits Administration
-15. eterans Health Administration
+
+15. Veterans Health Administration
+
 16. National Cemetery Administration
 
 
