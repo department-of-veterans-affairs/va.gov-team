@@ -6,7 +6,7 @@ The VSP documentation team is available to help other VSP teams with their docum
 
 **Key points:**
 
-*   For any documentation support request, [create a documentation support issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gmaciolek&labels=content-ia-team%2C+documentation-support&template=documentation-support-request.md) or add documentation team members as reviewers on a PR.
+*   For any documentation support request, [create a documentation support issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gmaciolek&labels=content-ia-team%2C+documentation-support&template=documentation-support-request.md) or add @gmaciolek as a reviewer on a PR.
 *   Documentation support requests are triaged 2 times per week using the [VSP documentation project board](https://github.com/department-of-veterans-affairs/va.gov-team/projects/16). Ticket triage decisions are based on priority within the Content and IA team roadmap, scope, and resource availability.
 *   You are free to write and manage your own documentation initiatives, large or small, at any time. However, for [large](#large-project) projects, [we have some guidelines](#diy-guidelines).
 *   Vague documentation requests are encouraged. If VFS teams are confused about something related to your work and you think documentation would help, enlist our help early. We can do some analysis and research and give you suggestions to move forward.
