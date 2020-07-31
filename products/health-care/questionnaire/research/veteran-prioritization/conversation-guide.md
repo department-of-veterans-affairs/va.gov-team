@@ -6,7 +6,7 @@ Thanks for joining us today! My name is Aricka and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45 mintues.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 mintues to an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve our tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -45,7 +45,7 @@ I have some categories listed here. Go ahead and drag an item from the left and 
 - _Pay attention to Veteran commentary on the topics/categories._
 - _Take note of any topics/questions the Veteran suggests to add._
 
-## Topic: Sort within categories
+## Topic: Sort within categories - 10 Minutes
 
 Now that all of the topics are sorted, let's look at each category and sort based on importance one more time. Let's start with the least important column and move to the others from there.
 
