@@ -30,7 +30,8 @@ VistA has many thousands of different record types but adding a new record type 
 - There is a Ruby Gem for connecting to VistALink. It has not been updated for 9 years https://github.com/michaelcham/vistarpc4r. Since VistA is an old system, perhaps not much has changed and that doesn't matter.
 - There may be Ruby packages for using RPC
 - VistALink is accessed using RPC. Java may have libraries for RPC
-- JRuby can also run on the Java JVM and should be able to access the same Java RPC libraries 
+- JRuby can also run on the Java JVM and should be able to access the same Java RPC libraries
+- There is a VistALink sandbox that requires using Azure Commercial Cloud https://github.com/WorldVistA/VistA-in-the-Cloud
 
 ## VAOS
 
