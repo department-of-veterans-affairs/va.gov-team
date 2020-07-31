@@ -2,6 +2,35 @@
 
 ## mm/dd/yy
 
+## 07/31/20
+
+__Summary:__
+
+- The bad [form reversion situation](https://dsva.slack.com/archives/CUB5X5MGF/p1596123199101700) has been resolved and is now showing in search. Thank you @Steve Wirt!
+
+__Larger issues unsurfaced:__
+
+- Currently, the API is using form number as the unique form identifier.
+
+- The form number (LH calls these "form name") is not a unique identifier for forms.
+
+- The rowID in the VA forms DB is the only unique form identifier.
+
+- Currently the LH API does not use the deleted form flag. In order for PW team to provide users with a unique error message for deleted forms, the API would need to use the deleted flag. @nick  @Michael Bastos (Oddball) will sync on this [per this slack](https://dsva.slack.com/archives/CUB5X5MGF/p1595607905068300?thread_ts=1595601672.067800&cid=CUB5X5MGF).
+
+- API does not suppress invalid PDFs. Charly thinks this must be logic that's only in the FE code that we can remove now?  (Separately, I asked Charly if LH can add to LH backlog: creating an autonotification of invalid and deleted forms to the VA forms managers, [per this Slack](https://dsva.slack.com/archives/CUB5X5MGF/p1596125866103900?thread_ts=1596123199.101700&cid=CUB5X5MGF) bc we are not on Jira.)
+
+__Outcomes from 7/31:__
+
+- @Steve Wirt will add rowID to the CMS migration, so LH can use this data -- this is is the only unique identifier of forms.
+
+- LH @Charley @Michael Bastos (Oddball): will need a discovery re using the rowID in the API - ex: to use for debugging.
+
+- LH should not use the GraphQL language code as a way to uniquely identify forms bc this is currently not used on any nodes and not for forms. There is no langage code in the source VA forms db.
+
+- Steve will add a new CMS custom content field in the form detail page AX for form language (Spanish and Tagalog for now). @Steve Wirt and @Jen Lee to sync offline about how we might use this to solve some of the duplicate form number problems we've seen wrt Eng and Esp versions of forms.
+
+
 ## 07/15/20
 
 ### Summary status/decisions from biweekly forms call with Mikki, Andrew, Nick, Mickin, Steve, Jen:
