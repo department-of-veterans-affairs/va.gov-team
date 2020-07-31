@@ -7,29 +7,44 @@
 
 # Research Plan for Healthcare Experience Team August 2020 
 ## Goals	
-This research is to gain Veteran input on how to prioritize our work and inform an MVP. 
+This research is to gain Veteran input on how to prioritize identified initiatives and inform the MVP. 
 
-**Background**
-Our goal is to improve the in-person and online pre- and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
+**Background**<br>
+Our goal is to improve the in-person and online pre and post-appointment experiences for Veterans, contribute to physical distancing efforts in VA facilities, and better integrate Veteran-provided data in VA workflows by providing Veterans with a digital option to complete pre- or post-appointment questionnaires and screeners.
 
 **Research questions**
-- question
+- What topics/questions would Veterans find useful to answer ahead of an appointment?
+- What topics/questions do Veterans find most beneficial to their healthcare experience?
+- How do Veteran sorted priorities align with what we have learned from clinicians?
+-
 
 **Hypothesis & assumptions**
 - hypothesis 1
 
 ## Method	
-We will conduct remote moderated hybrid card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran created categories. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
+We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback. 
 
-- Card sort link
-- Prototype link
+[Link to card sort](https://adhoc.optimalworkshop.com/optimalsort/4fqb7x24/sort)
 
 ## Participants and Recruitment	
 We would like to talk with 8 participants:
-- Criteria
+- At least 1 woman
+- At least 1 person of color
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include of officer Vets)
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
+- At least one person with a disability rating of 70% or greater
 
-## Questions for screener
-- question
+**Recruitment requirements**
+- The participants have Zoom downloaded prior to the session
+- The participants know how to screenshare
+
+**Questions for screener**
+- Have you visted the VA for primary care in the last year? (pass = yes)
+- Have you visted the VA for specialty care in the last six months? (pass = yes)
+- Have you visted a non-VA healthcare provider in the last year? (pass = yes or no)
 
 ## Timeline 	
 #### Desired Timeline: August 4-7, 2020
@@ -42,12 +57,12 @@ Date | Time
 	
 ## Team Roles	
 - Moderator:
-- Research guide writing and task development: 
+- Research guide writing and task development: Aricka Lewis (aricka@adhocteam.us)
 - Participant recruiting & screening: Perigean
 - Project point of contact: 
 - Participant(s) for pilot test: 	
-- Note-takers: 
-- Observers: 
+- Note-takers: Perigean
+- Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov)
 
 ## Resources	
 - [Project Brief]
