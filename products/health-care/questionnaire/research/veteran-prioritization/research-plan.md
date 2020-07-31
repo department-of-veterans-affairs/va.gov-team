@@ -18,8 +18,16 @@ Our goal is to improve the in-person and online pre and post-appointment experie
 ## Method	
 We will conduct remote moderated closed card sort exercises via Zoom using the Perigean contract. This method will allow us to prioritize our existing list of initiatives while learning about new potential areas to explore through Veteran feedback. After the sort, we will share a lo-fidelity mockup to get Veteran feedback on an initial direction for the MVP. 
 
+
 ## Participants and Recruitment	
-We would like to talk with 8 participants:
+
+Recruit for 8 fulfilled sessions using the following criteria:
+
+**Must have for participants**
+- Have you visted the VA for primary care in the last year? (pass = yes)
+- Have you visted the VA for specialty care in the last six months? (pass = yes)
+
+**Good to have for participants**
 - At least 1 woman
 - At least 1 person of color
 - At least 1 participant 35 or under and 1 participant over 55
@@ -34,11 +42,6 @@ We would like to talk with 8 participants:
 - The participants know how to screenshare
 
 *This study requires participants to drag and drop elements and requires screensharing.*
-
-**Questions for screener**
-- Have you visted the VA for primary care in the last year? (pass = yes)
-- Have you visted the VA for specialty care in the last six months? (pass = yes)
-- Have you visted a non-VA healthcare provider in the last year? (pass = yes or no)
 
 ## Timeline 	
 #### Desired Timeline: August 7-11, 2020
