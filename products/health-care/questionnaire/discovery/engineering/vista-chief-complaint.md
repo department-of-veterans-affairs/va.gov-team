@@ -1,6 +1,6 @@
 # Putting Chief Complaint field into VistA
 
-Information about VAOS (#VAOS) 
+[Information about VAOS](#VAOS) 
 
 ## APIs
 
