@@ -6,9 +6,9 @@
 
 VistaLink is the most flexible API that connects to VistA, it uses RPC calls. 
 
-VaText, VDIF, VAMF, are Rest APIs with limited write capability. 
-VAMF behind the scences uses wrappers for VIA and VistaLink.
-VIA is an older SOAP based API that uses WebLogic. 
+- VaText, VDIF, VAMF, are Rest APIs with limited write capability. 
+- VAMF behind the scences uses wrappers for VIA and VistaLink.
+- VIA is an older SOAP based API that uses WebLogic. 
 
 ## Chief Complaint Field
 
