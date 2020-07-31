@@ -13,15 +13,15 @@ How might we create mobile-specific resources for designers building on VA.gov s
 
 - *Why would a user want to use this?*
 
-Designers at VA will want to engage with Mobile Month so that they can become versed in analytics and make data-driven design decisions that specifically improve the mobile experience for Veterans.
+Designers (and the teams they support) at VA will want to engage with Mobile Month so that they can become versed in analytics and make data-driven design decisions that specifically improve the mobile experience for Veterans.
 
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 After Mobile Month, designers at VA should be able to:
-Design flows using mobile-specific components and patterns in Sketch
-Confidently test their design work on mobile devices
-Articulate known user behavior on mobile
-Articulate the biggest pain points for the mobile experience
+- Design flows using mobile-specific components and patterns in Sketch
+- Confidently test their design work on mobile devices
+- Articulate known user behavior on mobile
+- Articulate the biggest pain points for the mobile experience
 
 ## Undesired User Outcomes
 Designers feel more overwhelmed with meetings and resources, feeling like it’s “one more thing to do”
