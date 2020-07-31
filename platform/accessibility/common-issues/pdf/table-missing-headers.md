@@ -2,11 +2,9 @@
 
 ## Table of contents
 
-- [[PDF]: Table is missing headers](#pdf-table-is-missing-headers)
-  - [Table of contents](#table-of-contents)
-  - [Statement of the issue](#statement-of-the-issue)
+  - [Descrption of the issue](#description-of-the-issue)
   - [Definition of done](#definition-of-done)
-  - [Fix the issue](#fix-the-issue)
+  - [Steps to fix the issue](#steps-to-fix-the-issue)
     - [Define table headers in Microsoft Word](#define-table-headers-in-microsoft-word)
     - [Define table headers in Acrobat Pro](#define-table-headers-in-acrobat-pro)
   - [Test for compliance](#test-for-compliance)
@@ -14,7 +12,7 @@
     - [Acrobat Pro accessibility tools](#acrobat-pro-accessibility-tools)
   - [Learn more](#learn-more)
 
-## Statement of the issue
+## Description of the issue
 
 - Synopsis: Make tables accessible in PDF documents by using table elements. The applicable standard from Section508.22.h dictates to "associate data and header cells for multi-dimensional data tables."
 - Severity: Critical
@@ -27,11 +25,11 @@
 - There MUST be  in the Acrobat [Accessibility Checker](https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html)
 - Consider exporting an accessibility report from Acrobat while running the Accessibility Checker
 
-## Fix the issue
+## Steps to fix the issue
 
 Tables that are missing table headers can be remediated in Word or Acrobat. The preferred method illustrated here is to fix the issue in a Word document whenever possible. Instructions to fix a table header in Acrobat are included in the second documentation link.
 
-### Define table headers in Microsoft Word
+### Define table headers in Microsoft Word (preferred)
 
 Table header rows can be defined in a few steps:
 
