@@ -42,7 +42,7 @@ Goal: Have everyone well versed in what current responsive mobile behavior entai
 
       * [Draft started](https://docs.google.com/document/d/1aEO3fCrUiqrkQSC_uO4szDnabFRJHeLl79d6aP5WfWo/edit) by Emily and Crystabel
 
-   * Suggested changes to GH temapltes proposed and incorporated (Liz to sync with Mickin and Mandi)
+   * Suggested changes to GH templates proposed and incorporated (Liz to sync with Mickin and Mandi)
 
 ### August 10: Week 2: Mobile design + research - create guidance and tools for research and design on mobile
 
@@ -55,6 +55,8 @@ Goal: improve planning and processes around research and design for mobile devic
       * Mobile Research - open discussion and include Lauren+Perigiean
 
          * Topics:
+         
+         * Mobile analytics presentation from Insights & Analytics team
 
          * Adding device details to screener
 
@@ -65,6 +67,7 @@ Goal: improve planning and processes around research and design for mobile devic
          * Discussion about "mobile first" and what might be keeping folks from designing this way
 
             * Goal: decide how/why we might want to add mobile elements to the sketch templates
+            * Homework assignment (1-2 hrs max) for next Monday, Aug 17: Component improvement
 
    * Tuesday VSA Demos (August 11)
 
@@ -88,7 +91,7 @@ Goal: improve mobile backlog
 
    * Monday design meeting (August 17)
 
-      * What should we do here?
+      * Review everyone's component improvements (homework assignment from previous week)
 
    * Audit of components on mobile for obvious issues
 
