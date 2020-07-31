@@ -52,14 +52,14 @@ Friday, August 7 | 11am - 8pm
 Monday, August 10 | 12pm - 6pm
 Tuesday, August 11 | 12pm - 6pm
 
-Pilot session:
+Pilot session: Thursday, August 6 11AM EST
 	
 ## Team Roles	
 - Moderator: Aricka Lewis (aricka@adhocteam.us), Shawna Hein (shawna@adhocteam.us)
 - Research guide writing and task development: Aricka Lewis 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Amanda Buckley (abuckley@governmentcio.com)
-- Participant(s) for pilot test: 	
+- Participant(s) for pilot test: TBD	
 - Note-takers: Perigean
 - Observers: Amanda Buckley (abuckley@governmentcio.com), Laurence Guild (lguild@governmentcio.com), Mark Dewey (mdewey@governmentcio.com), Lacey Higley (lacey.higley@va.gov)
 
