@@ -30,22 +30,25 @@ Before we begin, let’s start with a few warm-up questions.
 
 I'm going to send you a link in the chat. Once the link pulls up, will you share your screen with me?
 
-[CARD SORT LINK](https://ows.io/os/gel0lpwa)
+[CARD SORT LINK]
 
-Before we begin, I want to give you some context for this execise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care. 
+Before we begin, I want to give you some context for this exercise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. We will show you a set of topics and we'd like to know which of these topics, if any, would make sense for you to take the time to fill out ahead of time, instead of during the appointment.  
 
-I have some categories listed here. Go ahead and drag an item from the left and drop it into a category based on importance to you. If you have questions or need clarification, feel free to ask me as you move through the exercise.
+Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care.
+
+I have some categories listed here. Go ahead and drag an item from the left and drop it into a category. If you have questions or need clarification, feel free to ask me as you move through the exercise.
 
 
 ### Things to listen for:
 
+- _If Veteran mentions want to save info for another time/appointment_
 - _Which questions/topics does the Veteran see as most important? Least important?_
 - _Pay attention to Veteran commentary on the topics/categories._
 - _Take note of any topics/questions the Veteran suggests to add._
 
 ## Topic: Sort within categories - 10 Minutes
 
-Now that all of the topics are sorted, let's look at each category and sort based on importance one more time. Let's start with the least important column and move to the others from there.
+Now that all of the topics are sorted, let's look at each category and sort one more time. Let's start with the least important column and move to the others from there.
 
 **Questions to consider**
 - Talk me through why you chose this topic
