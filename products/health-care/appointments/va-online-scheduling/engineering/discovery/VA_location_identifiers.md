@@ -4,7 +4,7 @@
 
 - VistA site id: `sta3n`, `rootStationCode`, `siteId`, `systemId`
 - VA location id: `sta6aid`, `institutionCode`, `facilityId` (except for MAS)
-- VA parent location: `parentStationCode`, `facilityId`, `parentSiteCode`, `sta6aid`
+- VA parent location: `parentStationCode`, `facilityId` (except for MAS), `parentSiteCode`, `sta6aid`
 - VistA clinic: `clinicId`
 
 MAS (mobile appointment service):
