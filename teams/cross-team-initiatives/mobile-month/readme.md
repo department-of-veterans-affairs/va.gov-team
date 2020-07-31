@@ -60,7 +60,6 @@ Mobile design templates exist in Sketch
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 Increase in successful mobile form submissions [need to know baseline first]
----
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
