@@ -42,4 +42,8 @@ VistA has many thousands of different record types but adding a new record type 
 - VAOS suggested forking their code but this also has reusability concerns. 
 - More information about the VAMF api specifically would be useful to understand how VAOS data is obtained.
 
+## Screen shots
+
+- [RFV-Chief Complaint Whiteboard](https://drive.google.com/file/d/1wgXiIbyiUzT4vJmzobL6o3z7buRs2hwJ/view?usp=sharing)
+
 
