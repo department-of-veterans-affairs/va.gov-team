@@ -1,4 +1,4 @@
-# Medallia Implementation Rollout for Platform
+# Medallia Implementation Rollout Plan for Platform
 
 ## Background
 VSP Analytics & Insights uses the survey tool, ForeSee to track user satisfaction and sentiment on VA.gov. Currently, surveys and resulting satisfaction data is limited to VA.gov generally, and only a pilot 5 star comment card is in place to track a few product homepages.
