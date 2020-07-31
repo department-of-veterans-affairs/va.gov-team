@@ -14,21 +14,13 @@ Integration into team work
 Larger Schedule
 ---------------
 
-### July 27: Before Week 1
-
--   Announcements in slack channels, with link to [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/mobile-month/readme.md) / goals and upcoming schedule
-
--   DEPO Slack: #vfs-all-teams, #design, #vsa-engineering
-
--   VSA contractor Slack: #va-vsa-product, #va-vsa-ux
-
 ### August 3: Week 1: Learn about what's currently going on with mobile experiences
 
 Goal: Have everyone well versed in what current responsive mobile behavior entails and what efforts are currently underway.
 
 * Activities: 
 
-   * Monday design meeting (August 3)
+   * Monday design meeting (August 3) - ask Kevin Hoffman or Emily Waggoner for an invite
 
       * Hummingbird shares goals (native app), roadmap, app so far in an open presentation. Discussion around disambiguation between native and responsive web
 
@@ -48,7 +40,7 @@ Goal: improve planning and processes around research and design for mobile devic
 
 * Activities:
 
-   * Monday design meeting (August 10)
+   * Monday design meeting (August 10) - ask Kevin Hoffman or Emily Waggoner for an invite
       * Mobile analytics presentation from Insights & Analytics team
       * Mobile Research - open discussion (if possible include Lauren+Perigiean)
         
@@ -64,6 +56,9 @@ Goal: improve planning and processes around research and design for mobile devic
 
       * Possible: Each team takes statistics from mobile analytics that are relevant to their product and shares during the demo 
 
+   * Wednesday VSA Design Weekly (August 12) - ask Shawna Hein for an invite
+      * Chat about Responsive web design 
+      
    * Mobile specific research documentation/guidance finalized
 
    * Audit mobile-specific design Sketch templates, identify gaps 
@@ -78,7 +73,7 @@ Goal: improve mobile backlog
 
 * Activities: 
 
-   * Monday design meeting (August 17)
+   * Monday design meeting (August 17) - ask Kevin Hoffman or Emily Waggoner for an invite
 
       * Review everyone's component improvements (homework assignment from previous week)
 
@@ -98,9 +93,10 @@ Goal: alignment between top tasks and mobile
 
 * Activities
 
-   * Monday design meeting (August 23)
+   * Monday design meeting (August 23) - ask Kevin Hoffman or Emily Waggoner for an invite
 
-      * Present findings from research study?
+      * Present findings from research study
+      * Discuss recommendations together
 
    * Tuesday VSA Demos (August 24)
 
