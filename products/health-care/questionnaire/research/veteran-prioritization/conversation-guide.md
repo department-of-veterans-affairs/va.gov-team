@@ -56,21 +56,27 @@ Now that all of the topics are sorted, let's look at each category and sort base
 
 ### Things to listen for:
 
-- _How does the Veteran interpret the sorted cards?_
-- 
+- _How does the Veteran interpret the categories?_
+- _How does the Veteran distinguish importance?_
+- _How many cards are sorted into each category?_
 
 ## Topic: Form feedback
 
-Great, thank you for doing that exercise. I'm going to actually share my screen and show you what one of these forms may look like on the VA website. I would love your feedback on [WHAT ARE WE LOOKING FOR HERE?]
+Great, thank you for doing that exercise. I'm going to actually share my screen and show  you an example of what one of these forms may look like on the VA website. 
+
+- What are your first impressions of this page?
+- Have you filled out forms online before?
+- Where would you want to find VA healthcare realated forms?
 
 ### Things to listen for:
 
-- _thing_
+- _Take note of where a Veteran would want to find these forms_
+- _Initial impressions of filling out health information on VA.gov_
 
 ## Follow-up questions - 5 minutes
 
-- question
-- question
+- Are there any topics or questions you'd like to see that weren't included in today's exercise?
+- Do you have any questions for me?
 
 ## Thank-You and Closing - 5 minutes
 
