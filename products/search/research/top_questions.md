@@ -99,7 +99,7 @@ TBD
 
 The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
 
-***6.TBD***
+***6.How often are users refining their search on VA.gov (possibly indicating frustration with initial results/relevance/ranking) ***
 
 ## Off-Site Search*
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
