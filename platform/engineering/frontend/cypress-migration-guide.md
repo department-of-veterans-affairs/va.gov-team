@@ -161,9 +161,12 @@ cy.route('POST', '/v0/health_care_applications', {
 ```
 Based on the above stubs, whenever the browser makes a `GET /v0/health_care_applications/enrollment_status*` or a `POST /v0/health_care_applications` request, Cypress will automatically handle the request with the stubbed response.
 
-All of your mock API calls using `mockData()` can be replaced with `cy.route()`.
+You can consider `cy.route()` to be the built-in Cypress equivalent of the Nightwatch custom command `mockData()`.
 
-Be sure to always start the server with `cy.server()` before stubbing requests.
+**Our Cypress setup that's shared across all tests will automatically set up some default stubbed responses.**
+- This involves starting `cy.server()` and stubbing the `/v0/maintenance_windows` and `/v0/feature_toggles` endpoints to return empty arrays, so you don't have to explicitly do any of this in your tests.
+- **Why is this necessary?** Most apps make these requests to determine the availability of the app and render a loading indicator while waiting for the responses. Thus, without stubbing these endpoints, your tests will likely time out and fail before the app finishes loading due to the requests taking the same amount of time to time out. With a defined response, the requests are able to resolve immediately, and the test can proceed without delay.
+- **If you want different responses from these requests,** you can override the default stubs by calling `cy.route()` on the same endpoints.
 
 ### Custom commands <a name="custom-commands"></a>
 
