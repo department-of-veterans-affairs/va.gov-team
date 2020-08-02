@@ -167,8 +167,17 @@ According to [Google Analytics/Search Console](https://analytics.google.com/anal
 (Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
 
 
+https://chartio.com/learn/product-analytics/how-to-measure-performance-of-your-site-search-in-google-analytics/
 
+% Sessions with Search: How often search is used by site visitors
 
+Results Pageviews / Search: How many pages of results a user views after executing a search. Ideally the result they want is in the first page or two of results
+
+% Search Exits: The percent of searches where the user left without clicking through any result. This is analogous to a bounce rate
+
+Average Search Depth: How many pageviews users had after executing a search
+
+Time after Search: How much time users spend on the site after the search
 
 
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
