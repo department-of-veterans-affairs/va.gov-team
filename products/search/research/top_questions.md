@@ -122,7 +122,7 @@ The total number of times a refinement (transition) occurs between internal sear
 
 ***10.How easy is it to find the Top Tasks via on-site search?***
 
-(Note: This is the Big Question, and we need to align on what are the Top Tasks for VA.gov users -- e.g. the most important thing to a user when they are online and is the task they want to complete.   More about the Top Task framework -- and how to build alignment around it -- [is here](https://medium.com/@gerrymcgovern/identifying-customer-top-tasks-ee228206b6ed).)
+(Note: This is the Big Question, and we need to align on what are the Top Tasks for VA.gov users -- e.g. the most important thing to a user when they are online and is the task they want to complete.   More about the Top Task framework -- and how to build alignment around it -- [is here](https://medium.com/@gerrymcgovern/identifying-customer-top-tasks-ee228206b6ed).   This framework goes beyond the tasks highlighted in the summary analytics report recently assembled by our [IA team here}(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md). )
 
 
 
