@@ -8,15 +8,16 @@ The intake form allows the Veterans to quickly and remotely register for a VA-ru
 
 Our primary research questions are: 
 
-- What are users' (Veterans) expectations for intake at for a clinical trial?
+- What are users' (Veterans') expectations for intake at for a clinical trial?
 - Can users effectively find and complete the intake form?
-- Does COVID-19 affect user's participation in clinical trials?
-- Do users know what to do after completing the intake form? Are their expectations met?
+- How does COVID-19 affect user's perception of participation in clinical trials?
+- What are users' expectations after completing the intake form? 
 
 Hypothesis:
 
-We have built a fast, easily understood intake form that enables Veterans to register for VA-run, COVID-19 vaccine clinical trials.
-
+- We have built a fast, easily understood intake form that enables Veterans to register for VA-run, COVID-19 vaccine clinical trials.
+- Veterans may have expectations or concerns about participating in vaccine trials that may impact their willingness to share personal information in this way. 
+- Veterans will want clear guidance on next steps. 
 
 ## Method	
 
@@ -38,13 +39,19 @@ Research recruiting contract required to supply participants.
 
 ## When? 	
 
-Timeline:	Study planned for Wednesday (8/5)
+Timeline:	
+
+Friday 8/7  
+Monday 8/10 8-12, 2-5
+Tuesday 8/11 8-12, 3-5
+Wednesday, 8/12 8-5
+
 
 Prepare: Prototype ready date TBD
 
 Length of Sessions: 30 minutes
 
-Availability: Wednesday (8/5) 8am-6pm
+Availability: Practice - Wednesday (8/5) 8am-6pm
 
 ## Team Roles		
 
