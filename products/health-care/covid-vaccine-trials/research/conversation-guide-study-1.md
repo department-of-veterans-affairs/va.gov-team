@@ -14,9 +14,30 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
+### Project-specific setup - 5 minutes 
 
-- [ ] Check on mobile specific issues with getting into Zoom
+Hi [participant name}, my name is Ryan. 
+
+- First I want to make sure your technology is ready to go for this session. Can you confirm for me what type of device you're using to join today? 
+  - Great, that helps me troubleshoot with you if we run into any problems. 
+  
+- When you are inside the zoom application on your phone, you'll see a few buttons at the bottom. Audio, Video, Share content, Participants, and three dots over to the right. If you click on those dots, you'll also see a function called "Chat". The ones that will be important for us today are "chat" and "share content." Any questions? 
+
+- First I'd like you to share your screen with me. Click on the arrow that says "Share content" and hit "share screen". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
+
+- Ok, click anywhere on the screen to go back to the Zoom application. 
+
+(Copy and paste the link to the prototype / form in the chat of zoom.) 
+- Now -- I have pasted a link in the chat window. Can you open that up for me? (Remember - click on the 3 dots on the right to go to chat.)
+
+- Great, now I can see your phone screen!  We are going to use this prototype in our session today. I'm going to begin now if that's ok with you. We will return to this in a few moments. 
+
+*Backup plan if they cannot figure out how to share screen:*
+- Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You will tell me what to do, what to click, on, etc. Does that sound ok? 
+
+[Share your screen]. Can you confirm if you can see my screen? 
+
+Great. Now we're really ready to begin! 
 
 ## Intro - 5 minutes
 
@@ -24,7 +45,7 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 mintues.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 mintues.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototypes tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be tapable, and some will not. None of your actions will affect your actual VA information or benefits.
 - **During this session I would like you to try an think-out-loud.** That means, if you are reading something on the screen, please read it to me. If you see something you like or don't like please let me know. I want to hear you describe what you are doing and why during the session so I can follow along.
@@ -36,66 +57,94 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"** 
 
-## Warm-up Questions (Optional) - 5 minutes
 
-Before we look at the tool, let’s start with a few warm-up questions. _Overall the goal for this section is to get a sense of their experience with clinical trials, if any_.
+## Warm-up Questions (Optional) - 5 minutes
+_Overall the goal for this section is to get a sense of their experience with clinical trials, if any_.
+
+Before we look at the tool, let’s start with a few warm-up questions. 
 
 - How have things changed for you personally since the start of COVID-19?
 - Do you receive any VA benefits at this time?
 - How has your relationship with the VA changed since the start of COVID-19?
 - Have you ever participated in a clinical research trial before?
-  - **If yes**, Where did you participate (at the VA or another hospital)? 
+  **If yes**, 
+  - Where did you participate (at the VA or another hospital)? 
   - How did you learn about that experience? 
   - How did you enroll in that trial?
+  - Was that a positive experience or a negative one? Why? 
 
+ **If no**, 
+  - What have you heard about vaccine trials? (For coronavirus or any other vaccine research). 
+  - Would you ever consider participating in vaccine research at the VA? 
+    - Why/Why not? 
+  
 ## First Task: Complete intake form - 5 minutes
-
-Ok, now I am going to ask you to share your screen with me. Please look at the bottom of your phone screen, in the center you should see a button that says "share content". Select that button. You should be prompted with an option to share "Zoom" and then "Screen". Then select "Start Broadcast". If you see any additional prompts please read them aloud and I will help. 
-
-Please tap anywhere to return to the Zoom App.
-
-Great, now I can see your phone screen! Please text the following number 919-355-0995 with the message "research". *Send the number in chat if needed. Link to intake form for reference http://intake-form-URL/*
 
 **Prompt 1** - clinical questions
 
 - In your own words, what is this page asking you?
-- Alright, what would you do next?
-- Are there any questions on this page that are confusing?
+- Why do you think VA is asking for this information? 
+- Do you have any hesitations about providing this information? 
+
+If needed:
+ - What would you do next if [whatever thing they're looking for/ can't find / can't do] 
 
 **Before they click "continue":** What questions do you have at this point in the process?
+- Follow up questions if needed: 
+  - How might we make that clearer? 
+  - How would YOU describe that to a friend or felow Veteran?
+  - What else would you want to know about providing this information? 
+  - What else would be helpful to tell you at this point in the process? 
 
 **Prompt 2** - contact info page
 
-- What do you think this page is asking you?
+- What is this page asking you to do?
+  - Why do you think VA is asking for this information? 
+  
 - Do you have any concerns about providing your personal information? 
-- Do you have any concerns about filling out this form without signing in?
-- Are there any other thoughts or concerns you have regarding this page? 
+  - If needed: Does it surprise you that you did not have to sign into VA.gov to complete this form?
+  
+- What other questions or concerns you have regarding this page? 
+ Follow up questions if needed: 
+  - How might we make that clearer? 
+  - How would YOU describe that to a friend or felow Veteran?
+  - What else would you want to know about providing this information? 
+  - What else would be helpful to tell you at this point in the process? 
 
 **At Completion** (Thank you for volunteering page)
 
 - In your own words, what is this page telling you?
-
 - What else would you want to know before registering to participate? 
 - Is there anything that worries you?
 - What expectations would you have for next steps?
+- What did you like about the experience of using that screener tool?
+- What did you dislike about the experience of using that tool?
 
-### Things to watch for:
+### *Things to watch for:*
 
-- Can they navigate the form easily?
-- Are they comprehending the questions? Where do they hesitate?
-- How quickly can they complete the intake form?
-- Their reaction/understanding of the "thank you for volunteering" page
-- Do they understand what they are volunteering for?
+- *Can they navigate the form easily?*
+- *Are they comprehending the questions? Where do they hesitate?*
+- *How quickly can they complete the intake form?*
+- *Their reaction/understanding of the "thank you for volunteering" page*
+- *Do they understand what they are volunteering for?*
 
 ## Post-Task Interview - 5 minutes
 
 Thank you for working through that with me. I just have a few more questions before we break.
 
-- if the VA were to contact you about participating, how willing would you be to participate? What might sway you one way or another?
-- What did you like or dislike about the experience of using that tool?
+- If the VA were to contact you about participating in a vaccine trial, how willing would you be to participate? Use a scale of 1 to 5 where 1 is "not at all willing to participate" and 5 is "Very willing to participate".  
+  - Why did you give that score? 
+  - Have your feelings or concerns about participating in VA coronavirus vaccine research changed at all from the start of today's session until now? 
+   - If yes, what has changed? 
+  - [Ask follow-up probing questions]
+  
+- How would you describe this process to a fellow Veteran? 
+
 - Since I cannot see your hands, can you please describe how you you were holding your phone during the session?
-- Is there anything else you would like to share?
-- ??? Add a question here about how the participant feels about VA and clinical trials? (NOTE: the phrasing will need **Lauren's** expertise) Or should it be asked at the beginning before the participant digs into the prototype?
+
+- Is there any other feedback you would like to share?
+
+- Do you have any other questions for me? 
 
 ## Thank-You and Closing - 1 minutes
 
