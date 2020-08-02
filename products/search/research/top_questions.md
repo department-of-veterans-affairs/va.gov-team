@@ -127,4 +127,27 @@ The total number of times a refinement (transition) occurs between internal sear
 
 
 ## Off-Site Search*
+
+
+***1.What are the top referrals of off-site/organic Search traffic for VA.gov*** 
+
+- Organic search is the top source of traffic for VA.gov, driving approximately 42% of traffic ([Source: Google Analytics, Jan 2019 - July 2020](https://analytics.google.com/analytics/web/#/report/acquisition-channels/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801/).  By comparison, 39% of traffic is direct (e.g. via URL or bookmark) and 15% is via referral sources (e.g. links from VEText, searchusa.gov, etc.)
+  - The top referrers of search traffic are:
+ 
+| Search Engine                | Percentage of Searches       |
+|------------------------------|------------------------------|
+| Google                       | 48.3%                        |
+| Bing                         | 8.00%                        |
+| Yahoo                        | 2.34%                        |
+| Duckduckgo                   | 0.44%                        |
+
+
+
+***2.What is the average number of search exits during a session on VA.gov*** 
+
+
+
+***3.What is the Percentage of Search Exits on VA.gov*** 
+
+
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
