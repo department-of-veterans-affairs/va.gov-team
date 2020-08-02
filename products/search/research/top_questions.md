@@ -22,6 +22,9 @@ For the analysis, the following tools were used:
 ### Top Questions/Answers
 
 ***1. How important is on-site search as a discoverability tool for VA.gov users?***
+- Since the launch of the modernized VA.gov in November 2018, the average number of searches conducted monthly has grown to more than 550,000
+  - the average number of searches conducted daily over the past year is < >
+  - (Question: Has monthly, daily search activity grown?)
 - 10.5% of site visitors used site search (Date Range: June 2019-2020 Source: Google Analytics)
 - Search is tied for #6 among VA.gov site tasks (Source: Google Analytics [Top Tasks report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/IA-strategy+planning/analytics/top-task-analytics.md))
 - Notably, search does not appear to be one of the [top interactions on the Home Page](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20190412&_u.date01=20200412&_.goalOption=ALL&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22Scroll%20Depth%7CScript%20error.%22,1%5D,%5B0,%22analytics.pagePath%22,%22EQ%22,%22~2Findex.html%22,0%5D%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-segmentExplorer.segmentId=analytics.eventAction/)
@@ -89,17 +92,25 @@ Users are searching for general health and benefit information, forms, and some 
 
   
   
-  - **0 result searches:** NEED THIS ONE.  (Note: Users have information needs they expect you to satisfy, yet you are unable to serve them. May also indicate misspellings or typos that you’re not handling.)
+***4. How often does a search request end in 0 result?***
+Users have information needs they expect the site to satisfy, yet the site search utility is unable to serve them.  May also indicate misspellings or typos that you’re not handling.
   
-***4. What is the average click depth (what position in the search results is clicked on) for VA.gov?***
+***5. What is the average search depth (what position in the search results is clicked on) for VA.gov?***
+The number of pages viewed after performing a search. This is calculated as Sum of all search_depth across all searches / (search_transitions + 1)
 
-TBD
 
-***5. What is the average percentage of Search refinements (the number of times a user searched again immediately after performing a search)on VA.gov?***
+***6. What is the average percentage of Search refinements (the number of times a user searched again immediately after performing a search)on VA.gov?***
+
+Defined as the number of times a user searched again immediately after performing a search. Percentage Search Refinements = The percentage of searches that resulted in a search refinement. Calculated as Search Refinements / Pageviews of search result pages.
 
 The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
 
-***6.How often are users refining their search on VA.gov (possibly indicating frustration with initial results/relevance/ranking) ***
+***7.How often are users refining their search on VA.gov (possibly indicating frustration with initial results/relevance/ranking) ***
+
+
+***8.
+
+
 
 ## Off-Site Search*
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
