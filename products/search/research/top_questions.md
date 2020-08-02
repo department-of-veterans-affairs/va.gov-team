@@ -93,15 +93,17 @@ Users are searching for general health and benefit information, forms, and some 
   
   
 ***4. How often does a search request end in 0 result?***
-Users have information needs they expect the site to satisfy, yet the site search utility is unable to serve them.  May also indicate misspellings or typos that you’re not handling.
+
+(Note: Users have information needs they expect the site to satisfy, yet the site search utility is unable to serve them.  May also indicate misspellings or typos that you’re not handling.)
   
 ***5. What is the average search depth (what position in the search results is clicked on) for VA.gov?***
-The number of pages viewed after performing a search. This is calculated as Sum of all search_depth across all searches / (search_transitions + 1)
+
+(Note: The number of pages viewed after performing a search. This is calculated as Sum of all search_depth across all searches / (search_transitions + 1)
 
 
 ***6. What is the average percentage of Search refinements (the number of times a user searched again immediately after performing a search)on VA.gov?***
 
-Defined as the number of times a user searched again immediately after performing a search. Percentage Search Refinements = The percentage of searches that resulted in a search refinement. Calculated as Search Refinements / Pageviews of search result pages.
+(Note: Defined as the number of times a user searched again immediately after performing a search. Percentage Search Refinements = The percentage of searches that resulted in a search refinement. Calculated as Search Refinements / Pageviews of search result pages.)
 
 The total number of times a refinement (transition) occurs between internal search keywords within a session is 30.55% 
 
