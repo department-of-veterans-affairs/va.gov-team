@@ -129,9 +129,10 @@ The total number of times a refinement (transition) occurs between internal sear
 ## Off-Site Search*
 
 
-***1.What are the top referrals of off-site/organic Search traffic for VA.gov*** 
+***1. What are the top referrals of off-site/organic Search traffic for VA.gov*** 
 
 - Organic search is the top source of traffic for VA.gov, driving approximately 42% of traffic ([Source: Google Analytics, Jan 2019 - July 2020](https://analytics.google.com/analytics/web/#/report/acquisition-channels/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801/).  By comparison, 39% of traffic is direct (e.g. via URL or bookmark) and 15% is via referral sources (e.g. links from VEText, searchusa.gov, etc.)
+
   - The top referrers of search traffic are:
  
 | Search Engine                | Percentage of Searches       |
@@ -142,12 +143,32 @@ The total number of times a refinement (transition) occurs between internal sear
 | Duckduckgo                   | 0.44%                        |
 
 
-
-***2.What is the average number of search exits during a session on VA.gov*** 
-
+***2.In percentage terms, how much has organic search traffic grown since the launch of modernized VA.gov in November 2018?***
 
 
-***3.What is the Percentage of Search Exits on VA.gov*** 
+
+***3.What is the performance of top queries for VA.gov***
+
+- VA.gov's query performance (the terms most searched via Google) appears to be on balance "solid" with an average CTR of 8.86% and an average ranking of 5.7 [Google Analytics/Search Console Report](https://analytics.google.com/analytics/web/#/report/acquisition-sc-queries/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=250)
+
+- According to SEMRush
+
+***4.What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
+
+
+***5.How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
+
+
+***6.What's the bounce rate for VA.gov's landing pages***
+
+According to [Google Analytics/Search Console](https://analytics.google.com/analytics/web/#/report/acquisition-sc-landingpages/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801/), VA.gov landing pages have an average 32% for single page sessions.
+
+***7.How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
+(Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
+
+
+
+
 
 
 https://searchengineland.com/12-most-important-seo-metrics-to-monitor-285190
