@@ -1,3 +1,7 @@
+### 8/3 Update
+
+- Collaboration Cycle Project Kickoff will be scheduled on Friday, August 7th with Leah, Luke, Jason and Matt in attendance (Liz, Mickin and Ryan T. as optional).
+
 ### 7/31 Status Meeting with Wizard Product/Development Leads
 ** Participants:
 - John Hashimoto (Public Websites)
