@@ -19,7 +19,7 @@ Make sure to comment out any `IdentitiesOnly yes` directives set at the top leve
 Once this is saved, try the following commands:
 
 ```
-$ ssh-add -K ~/.ssh/vetsgov_id_rsa
+$ ssh-add -K ~/.ssh/*gov*
 $ ssh socks -D 2001 -N
 ```
 
