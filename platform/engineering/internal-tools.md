@@ -115,14 +115,13 @@ To create and use SSH keypairs on Windows, complete the following steps:
    - Add your key to the agent by typing: `ssh-add ~/.ssh/id_rsa_vagov`.  
      **Note:** Use the private key here, not the `.pub` public key. 
    - Verify the key is added by typing: `ssh-add -l`. 
-     This command should give output showing your key's signature added to the running SSH agent like the illustration below.
-   - Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`.
-     
+     This command should give output showing your key's signature added to the running SSH agent like the illustration below:
      ```
      $ssh-add -l                                                                                           
      2048 SHA256:ShkbdHKQqDwgONLv8/1qiYlX20kX9IPp3uV56ATp3c8 
      /home/user/.ssh/id_rsa_vagov (RSA)
      ```
+   - Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`.
 
 If all prior steps have been successful, return to [Additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#authorizekeys) and request that your SSH keys be authorized.
 
