@@ -22,9 +22,9 @@
   - deep link into specific content within profile (i.e. direct link to direct deposit)
   - provide left navigation for users to navigate between sections of profile
   - represent the user's location within profile in the breadcrumb so they can easily go back to the initial page
-- The contact information will be the default/initial page of profile
+- The top level /profile page will be a pass through page, users will always be sent to the contact information page as the default/initial page
 
-![image.png](https://images.zenhubusercontent.com/59ca6a73b0222d5de4792f1d/6c747a78-4777-4d0a-a642-0f89582d4018)
+![image](https://user-images.githubusercontent.com/20994159/89221329-b8c6c100-d598-11ea-8b88-dc03fe981234.png)
 
 **User Flows** <br>
 - If an unauthenticated users attempts to directly access any page within the /profile tree, they will initially be sent through the sign in process
