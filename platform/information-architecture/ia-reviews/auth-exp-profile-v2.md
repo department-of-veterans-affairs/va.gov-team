@@ -42,7 +42,7 @@ Profile | www.va.gov/profile  | n/a | This is a pass through page that user's ca
 Profile - Contact Information (default page) | www.va.gov/profile/contact-information  | Home > Your profile > Personal and contact information | This is the default page of Profile. 
 Profile - Military Information | www.va.gov/profile/military-information | Home > Your profile > Military information | 
 Profile - Direct Deposit Info | www.va.gov/profile/direct-deposit | Home > Your profile > Direct deposit information | 
-Profile - Account Security | www.va.gov/profile/account-security | Verified acct: Home > Your profile > Account security <br> Non-verified acct: Home > Your profile - Account security| Note that there are 2 variations of the breadcrumb for this page.  For users who have not verified their account, this is the only page in Profile they can access and the breadcrumb should remove their ability to click on the main "profile" option.  In this scenario, all other options should be hidden on the left nav as well. 
+Profile - Account Security | www.va.gov/profile/account-security | *Verified acct:* <Br> Home > Your profile > Account security <br> *Non-verified acct:* <br> Home > Your profile - Account security| Note that there are 2 variations of the breadcrumb for this page.  For users who have not verified their account, this is the only page in Profile they can access and the breadcrumb should remove their ability to click on the main "profile" option.  In this scenario, all other options should be hidden on the left nav as well. 
 Profile - Connected Apps | www.va.gov/profile/connected-applications | Home > Your profile > Connected apps |
 
 
