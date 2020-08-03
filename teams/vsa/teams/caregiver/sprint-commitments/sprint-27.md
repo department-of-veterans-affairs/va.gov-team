@@ -41,10 +41,8 @@ Currently happening:
 1. Front end implementation of design (language + focus)
 1. What's going on with the resubmit button?
 1. A11y approval on backend implementation
-
-Next (If resubmit *is* possible:)
-1. Redo language
-1. Update language frontend 
+1. (If resubmit is possible) Redo language
+1. (If resubmit is possible) Update language on frontend 
 1. Front end implementation of PDF download (including spot check with A11y + VSP component)
 1. QA & done
 
