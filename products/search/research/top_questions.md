@@ -143,8 +143,9 @@ The total number of times a refinement (transition) occurs between internal sear
 | Duckduckgo                   | 0.44%                        |
 
 
-***2.In percentage terms, how much has organic search traffic grown since the launch of modernized VA.gov in November 2018?***
+***2. In percentage terms, how much has organic search traffic grown since the launch of modernized VA.gov in November 2018?***
 
+TBD
 
 
 ***3.What is the average Click Through Rate (CTR) -- the average percentage of users who click on one of VA links after seeing it in the search results -- for VA.gov?
@@ -152,23 +153,23 @@ The total number of times a refinement (transition) occurs between internal sear
 According to [Google Search Console, 5.1% (May 2019-August 2020)](https://search.google.com/u/2/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.va.gov%2F&hl=en&start_date=20190402&end_date=20200801&metrics=CLICKS%2CIMPRESSIONS%2CPOSITION).  An average CTR on Google Search Console is about 10 to 20 percent.
 
 
-***4.What is the average position for VA.gov and its top search terms?***
+***4. What is the average position for VA.gov and its top search terms?***
 
-According to [Google Search Console, 22.8% (May 2019-August 2020]()](https://search.google.com/u/2/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.va.gov%2F&hl=en&start_date=20190402&end_date=20200801&metrics=CLICKS%2CIMPRESSIONS%2CPOSITION).
+According to [Google Search Console, 22.8% (May 2019-August 2020)](https://search.google.com/u/2/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.va.gov%2F&hl=en&start_date=20190402&end_date=20200801&metrics=CLICKS%2CIMPRESSIONS%2CPOSITION).
 
 (Explainer: If you're at the top of page two, your position might be 11. “Average position” is an average (sum of positions divided by the total number of keywords) of your positions for every keyword you rank for. The general report shows the average of your positions for every keyword your entire site ranks for.)
 
-***5.What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
+***5. What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
 
 
-***6.How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
+***6. How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
 
 
-***7.What's the bounce rate for VA.gov's landing pages***
+***7. What's the bounce rate for VA.gov's landing pages***
 
 According to [Google Analytics/Search Console](https://analytics.google.com/analytics/web/#/report/acquisition-sc-landingpages/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801/), VA.gov landing pages have an average 32% for single page sessions.
 
-***8.How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
+***8. How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
 (Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
 
 
