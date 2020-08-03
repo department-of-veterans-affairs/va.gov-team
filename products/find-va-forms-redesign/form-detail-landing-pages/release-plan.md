@@ -15,7 +15,7 @@
 - **How you'll conduct the testing:** 
   - Provide people a list of forms to search and links to test
 - **How you'll give the test users access to the product in production w/o making it live on VA.gov:** 
-  - This is a CMS content product, so it is only available on prod. 
+  - This is a CMS content product. We are building a separate QA environment where we'll be able to test without making live on VA.gov Prod. 
 
 ### Results:
 
@@ -146,16 +146,15 @@ We will track errors for:
 
 _More stages? Sure! If it makes sense for your product! Plan them out with the same structure as above._
 
-### Stage C: Open launch (remove no-index & implement redirects)
+
+## Go Live! - Open launch (remove no-index & implement redirects)
 
 Remove no-index from modern form detail pages. 
 
 Implement the 2 types of redirects:
 
 - 1:1 redirects of top trafficked/high value forms (about 70)
-- Bulk redirect to the modernized search page 
-
-## Go Live!
+- Bulk redirect to the modernized search page
 
 
 
@@ -199,10 +198,16 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 3. Which of the assumptions you listed in your product outline were/were not validated? 
 4. How might your product evolve now or in the future based on these results?
 
+
+
 ## Background
 
+<details>
+  
 So! You're thinking about how you want to launch your product. You know you'll perform usability testing and you'll QA the heck out of it in staging, which are both very critical components of product development. But they don't tell you how people will naturally use your product when you're not there to guide them to it, how any submitted data will get to VA, whether that data will be easy or difficult for VA to process, whether people will be likely to submit duplicates, abandon partway through, or encounter bugs unique to the production environment. All of which could be very detrimental to users, which is the antithesis of what we're here to do. 
 
 So: **how might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how it'll actually be used, and what problems it actually might have or create, and then fix/adjust prior to going live to millions of VA.gov users?**
 
 That's what this Release Plan Template is for!
+
+</details>
