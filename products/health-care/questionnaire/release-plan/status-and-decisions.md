@@ -39,7 +39,7 @@
 -  Due to BE Engineering work for the Facilities team did not stay as low as expected, there is now a need for Lance to support. Since we have Laurence on board now, Lance can return to facilities full time. Paul Short, our engineering lead, will now play a more hands on support role with Laurence/healthcare as Laurence ramps up (both as a mentor/coach and in support of the team). Paul will also be able to determine during this time if and when your team may need additional BE support 
 
 **Blockers:**
-- No changes in status from previous week for blockers [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) and [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+- No changes in status from previous week for blockers [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) and [Stakeholder Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 
 
 ## Status - July 24th, 2020
@@ -85,10 +85,10 @@
 	- We are targeting this initial MVP prototype to be available early Q4 2020. 
 
 **Blockers:**
--  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-  [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Continue to identify contacts that can provide standardized forms 
 
-- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+- [Stakeholder Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
 
 ## Status - July 17th, 2020
@@ -126,10 +126,10 @@
 -   none this week
 
 **Blockers:**
--  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-  [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Lauren and Lacey have met with clinical teams that will provide us the "standard ~15 forms"
 
-- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+- [Stakeholder Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
 
 
@@ -164,13 +164,13 @@
 	- East Coast Region TBD - Patrick identifying opportunities
 
 **Blockers:**
--  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-  [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
 	- Lacey/ Lauren/Patrick are working on approach for collaboration with the MHV and clinical VHA teams and getting contacts we can reach out to.
 	- Anticipate receiving forms documents from interview sessions and clinical teams Lacey has reached out to. ie. engineering with MHV
 	- Patrick is following up per meeting on the 14th to get documentation or contact we can reach out to 
 
-- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+- [Stakeholder Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 	- _See Decisions section above_ Identified an initial and updated list of stakeholder interviewees and the sessions need to be scheduled.
 	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate an provide us time for interviews and engagement going forward.
 		- Lacey is creating a 1 pager on our product for Patrick to use with these clinical teams.
@@ -205,11 +205,11 @@
 	- Approved by by Lacey and Lauren 
 
 **Blockers:**
--  [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-  [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
 	- Lacey and Lauren are working on approach for collaboration with the MHV and clinical VHA teams
 	- Requested from our two interviews this week to provide any forms documents they use in the clinic.
-- [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+- [Stakeholder Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 	- identified an initial list of stakeholder interviewees and the sessions need to be scheduled.
 
 
@@ -236,10 +236,10 @@
 
 **Blockers:**
 
--   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-   [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
 	- Lacey has identified sme's and has reached out, we are waiting for response 
-- [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222)
+- [Product Owner - Interviews #11037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11037)
 	-  Unknown Stakeholders to interview until we get feedback from Veterans on what they need the product scope to be.
 	-  Lacey will schedule once we land scope
 
@@ -267,7 +267,7 @@
 
 **Blockers:**
 
--   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-   [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
 	- Lacey has identified sme's and has reached out, we are waiting for response 
 - [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222)
@@ -304,7 +304,7 @@
 
 **Blockers:**
 
--   [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) 
+-   [Paper - Current State Workflows #10219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10219) 
 	- Current state workflows, paper or digital forms being used today in primary care clinics and access to clinical staff is being requested.
 	- Lacey has identified sme's and has reached out, we are waiting for response 
 
