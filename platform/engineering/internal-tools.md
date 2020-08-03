@@ -172,7 +172,7 @@ These steps assume your SSH keys have been authorized and that you're running on
     * If your key doesn't seem to be working, ask for help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel
 
 
-#### Accessing SOCKS proxy from VA network
+#### Accessing SOCKS proxy **from VA network**
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from the VA network - see [Line 34 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34).
 
@@ -184,7 +184,7 @@ The `~/.ssh/config` file on your local system contains configuration to access t
 
 1. Follow the instructions below to test and use the SOCKS proxy.
 
-#### Accessing SOCKS proxy from the internet
+#### Accessing SOCKS proxy **from the internet**
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from outside the VA network - see [Line 28 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28).
 
