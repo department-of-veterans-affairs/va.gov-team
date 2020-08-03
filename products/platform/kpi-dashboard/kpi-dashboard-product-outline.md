@@ -1,4 +1,4 @@
-# Product Success Tool Outline
+# KPI Dashboard Outline
 
 #### Communications
 - Team Name: VSP Analytics & Insights
