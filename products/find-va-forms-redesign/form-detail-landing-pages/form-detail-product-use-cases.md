@@ -94,14 +94,3 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 40.	https://prod.cms.va.gov/find-forms/about-form-10-10ezr  
 41.	https://prod.cms.va.gov/find-forms/about-form-21-0779 
 
-
-
-
-~## Use Case C~
-
-* Description
-
-* Link to designs
-
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
