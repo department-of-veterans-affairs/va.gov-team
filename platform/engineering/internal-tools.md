@@ -6,7 +6,7 @@ This document describes tools available internally to developers working on the 
 * System metrics for diagnostic/troubleshooting purposes
 * Exception reports and tracebacks
 
-These internal tools are available on the `vfs.va.gov`. Your SOCKS proxy will tunnel traffic over a secure channel to internal tool servers, providing access to:
+These internal tools are available on the `vfs.va.gov` domain. Your SOCKS proxy will tunnel traffic over a secure channel to internal tool servers, providing access to:
 
 | Name                 | vfs.va.gov link                                             |
 |----------------------|-------------------------------------------------------------|
