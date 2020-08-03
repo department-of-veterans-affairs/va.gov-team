@@ -78,12 +78,12 @@ To create and use SSH keypairs on Windows, complete the following steps:
    user@BattleStation1 MINGW64 ~
    $ ssh-keygen
    Generating public/private rsa key pair.
-   Enter file in which to save the key (/c/Users/<user>/.ssh/id_rsa):
-   /c/Users/<user>/.ssh/id_rsa_vagov
+   Enter file in which to save the key (/c/Users/jbritt/.ssh/id_rsa):
+   /c/Users/jbritt/.ssh/id_rsa_vagov
    Enter passphrase (empty for no passphrase):
    Enter same passphrase again:
-   Your identification has been saved in /c/Users/<user>/.ssh/id_rsa_vagov.
-   Your public key has been saved in /c/Users/<user>/.ssh/id_rsa_vagov.pub.
+   Your identification has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.
+   Your public key has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.pub.
    The key fingerprint is:
    SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA user@BattleStation1
    The key's randomart image is:
