@@ -70,7 +70,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
 
 1. When prompted, enter the following name for your key (keeping the default path): 
    
-   `/c/Users/<user>/.ssh/id_rsa_vagov`
+   `/c/Users/jbritt/.ssh/id_rsa_vagov` (ensuring to swap out the user for your actual user)
    
 1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
