@@ -36,8 +36,8 @@
 Currently happening:
 1. ~Language is approved~ (assuming no resubmission)
 1. ~Finalize design~ 
-1. Finalize PDF download button
-1. Backend implementation for PDF download
+1. ~Finalize PDF download button~
+1. ~Backend implementation for PDF download~
 1. Front end implementation of design (language + focus)
 1. What's going on with the resubmit button?
 1. A11y approval on backend implementation
@@ -45,7 +45,7 @@ Currently happening:
 Next (If resubmit *is* possible:)
 1. Redo language
 1. Update language frontend 
-1. Front end implementation of PDF download
+1. Front end implementation of PDF download (including spot check with A11y + VSP component)
 1. QA & done
 
 ## 2. Any concerns over the new sprint calendar?
