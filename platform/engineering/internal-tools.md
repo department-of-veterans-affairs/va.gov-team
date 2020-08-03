@@ -225,7 +225,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Configure the `auto switch` profile like this:
 
-   ![](images/switchy-omega-config-2.png)
+   ![](images/switchy-omega-config-2.PNG)
    - Condition details: `*.vfs.va.gov`
 
 1. In Chrome's menu bar, click on the proxy app and change the setting to "auto switch":
