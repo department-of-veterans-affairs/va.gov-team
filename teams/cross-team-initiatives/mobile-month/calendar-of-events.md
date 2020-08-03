@@ -50,11 +50,13 @@ Goal: improve planning and processes around research and design for mobile devic
 
       * Homework assignment (1-2 hrs max) for next Monday, Aug 17: Component improvement
 
+   * Tuesday Team of teams (August 10)
+      * Each team shares mobile analytics that are relevant to their product 
+      
    * Tuesday VSA Demos (August 11)
 
       * Share mobile month updates (analytics, mobile research process documentation), in the "cross team initiatives" slide
-
-      * Possible: Each team takes statistics from mobile analytics that are relevant to their product and shares during the demo 
+      * Each team shares mobile analytics that are relevant to their product again? And/or shares a relevent mobile enhancement or thought 
 
    * Wednesday VSA Design Weekly (August 12) - ask Shawna Hein for an invite
       * Chat about Responsive web design 
