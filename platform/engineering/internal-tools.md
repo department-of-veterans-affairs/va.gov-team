@@ -165,7 +165,7 @@ These steps assume your SSH keys have been authorized and that you're running on
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
     * Click [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config), right-click within the page, and save as: `~/.ssh/config`
-> If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name (i.e. `~/.ssh/config_va`) and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`
+> If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
 
 1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
 
