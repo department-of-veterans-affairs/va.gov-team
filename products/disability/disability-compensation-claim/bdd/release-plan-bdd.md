@@ -1,8 +1,34 @@
 # Release Plan Benefits Delivery at Discharge
-## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
+Overview of phased approach and remaining work.
+Phase I, UAT:
+  - [Launch] BDD: Create Test Users in Dev and Staging for BDD#11892
+  - [Development] BDD: Install Flipper UI Around BDD Capability#11778
+  - [Launch] BDD: Does BDD Actually Work?#11812
+  - [Discovery] BDD: Verify XSD as Last Resort#10033
+  - [Development] Increase testing for BDD forms submission (Pre-Launch)#10368
+  - [Accessibility] BDD: Redo Part of A11y Self Check After BDD/526 Refactor#11895
+  - [QA] Benefits Delivery at Discharge (BDD) Test Plan#6949
+  - [QA] BDD: TestRail Ramp Up#11682
+  - [Testing] BDD: Prepare for BDD UAT#11900
+  - [Launch] BDD: UAT Testing for Benefits Delivery at Discharge#10298
+
+Phase II, 25-100% Rollout
+  - [Launch] BDD: Triage Front-End BDD Sentry Issues#11820
+  - [Launch] BDD: Triage Back-End BDD Sentry Issues #11927
+  - [Development] BDD: Monitor BDD Claims#10675
+
+Phase III, Go Live @ 100%, begin redirecting traffic from eBenefits
+  - [Launch] BDD: Placeholder for Post Launch BDD Activities (Sprint 28)#11806
+  - [Development] BDD: Cache servicelocation (Post Launch)#10275
+  - [Development] BDD: Create mock data for EVSS separation_locations#10276
+  - [Tech Debt] BDD: Can We Prefill Separation Date from Military History Information#10842
+  - [Development] Remove BDD-specific code from vets-api prefill#11360
+
+
+## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 ### Planning:
-- Desired date range or test duration: [June 17 - June 19]
+- Desired date range or test duration: [August 20-25]
 - Desired number of users: 5
 - How you'll recruit the right production test users: Personal contacts, work contacts
 - How you'll conduct the testing: With front end and back end support to ensure the technical aspects of the BDD integration with MVI is working (very similar to Original Claims).
@@ -18,7 +44,7 @@
 ## Phase II: unmoderated production testing
 
 ### Planning:
-- Desired date range: June 24 - June 26
+- Desired date range: August 26-???
 - Desired number of unique users: 20-30
 - How you'll make the product available in production while limiting the # of users who can find/access it: Using the flipper UI
 - "Success" criteria (by the numbers): All of the BDD claims are successful at establishing a new user in MVI. Work with EVSS to make sure the EP codes are being set correctly.
