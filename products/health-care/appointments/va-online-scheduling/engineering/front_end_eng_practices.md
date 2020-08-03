@@ -14,6 +14,7 @@
 - Despite the limitations of working on a shared platform, within the VAOS application we have a lot of freedom as a team to decide what works best for us
    - The important thing is the outcome, that we meet the platform's quality, design, and accesssibility standards
    - Adding new dependencies and changing team conventions should be conversations among the team, and can be started by anyone, not just senior folks or leads.
+- Automated testing is critical to how we maintain the quality of VAOS; see our [testing guidelines](../testing/fe_testing_guidance.md)
 - Because most of us can't directly connect to VAMF from our location machines, we use mock data in development. This makes it really important that we test our changes in review instances and on staging before they go live.
 - Everyone should review each other's code, regardless of experience level or project familiarity.
    - We should strive for having any PR reviewed within 24 hours.
