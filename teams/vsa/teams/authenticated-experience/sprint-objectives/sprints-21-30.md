@@ -290,6 +290,7 @@ Design
 
 Dev
 - How are we going to build the logged-in homepage? #10256
+- Beta/opt-in technical discovery/scoping #10476
 
 ## Sprint 29 (8/26 – 9/8)
 
