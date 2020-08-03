@@ -7,11 +7,12 @@ SELECT
   SUM(totals.visits) as Sessions,
   COUNT(DISTINCT fullVisitorId) as Users,
   SUM(totals.pageviews) as Pageviews
-FROM `vsp-analytics-and-insights.176188361.ga_sessions_2020*`
-WHERE _TABLE_SUFFIX BETWEEN 'XXXX' and 'XXXX' //change here for relevant dates needed
+FROM 
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*`
+WHERE 
+  _TABLE_SUFFIX BETWEEN 'XXXX' and 'XXXX' //change here for relevant dates needed
 GROUP BY 
-date
-
+  date
 ```
 
 ### Total Users, Sessions, Pageviews by specific page, by date
@@ -42,11 +43,12 @@ SELECT
   SUM(hits.contentGroup.contentGroupUniqueViews1) as Unique_Content_Views,
   COUNT(*) AS Pageviews,
   SUM(IF(hits.isentrance = TRUE, 1,0)) as Entrances,
-FROM `vsp-analytics-and-insights.176188361.ga_sessions_2020*`,
-UNNEST(hits) as hits
+FROM 
+  `vsp-analytics-and-insights.176188361.ga_sessions_2020*`,
+  UNNEST(hits) as hits
 WHERE 
-    _TABLE_SUFFIX = 'XXXX'//change according to desired specified date or use BETWEEN for a range
-    hits.type = 'PAGE'
+  _TABLE_SUFFIX = 'XXXX'//change according to desired specified date or use BETWEEN for a range
+  hits.type = 'PAGE'
 GROUP BY
   hits.contentGroup.contentGroupXX 
 ```
@@ -94,8 +96,6 @@ GROUP BY
   Event_Label
 ORDER BY
   9 DESC
-LIMIT
-  10
 ```
 
 
