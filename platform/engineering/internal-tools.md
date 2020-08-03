@@ -44,9 +44,9 @@ Some utilities, such as metrics dashboards, error reporting, and deployment tool
 
 The preferred solution is to host these systems on an internal network that prevents public access. While the VA maintains an internal network, the VSP team operates within the AWS environment. After extensive efforts to obtain a zone delegation, we are able to control the records for internal tools using the `*.vfs.va.gov` zone delegation and Route53.
 
-The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the va.gov AWS network. Once connected, a developer will have access to the `*.vfs.va.gov` TLD and can use their browser to connect to tools such as Prometheus.
+The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the va.gov AWS network. Once connected, a developer will have access to the `*.vfs.va.gov` domain and can use their browser to connect to tools such as Prometheus, Jenkins, and Sentry.
 
-Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vfs.va.gov` address when necessary.
+Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vfs.va.gov` address(es) when necessary.
 
 ## Creating an SSH keypair in Windows
 
@@ -70,7 +70,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
 
 1. When prompted, enter the following name for your key (keeping the default path): 
    
-   `/c/Users/user/.ssh/id_rsa_vagov`
+   `/c/Users/<user>/.ssh/id_rsa_vagov`
    
 1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
@@ -116,6 +116,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
      **Note:** Use the private key here, not the `.pub` public key. 
    - Verify the key is added by typing: `ssh-add -l`. 
      This command should give output showing your key's signature added to the running SSH agent like the illustration below.
+   - Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`.
      
      ```
      $ssh-add -l                                                                                           
@@ -160,12 +161,11 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 
 ## Configure the SOCKS proxy
 
-These steps assume your SSH keys have been authorized and that you're running on Linux or OSX. There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `vagov-internal` domain.
+These steps assume your SSH keys have been authorized and that you're running on Linux, OSX, or have a Unix shell emulator like Git Bash (Windows). There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `*.vfs.va.gov` domain.
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
-    * Right click on [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and save as: `~/.ssh/config_va`
-    * Edit `~/.ssh/config` and add this line at the top:
-    `Include ~/.ssh/config_va`
+    * Click [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config), highlight the entire contents of the page, and save as: `~/.ssh/config`
+> If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name (i.e. `~/.ssh/config_va`) and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`
 
 1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
 
