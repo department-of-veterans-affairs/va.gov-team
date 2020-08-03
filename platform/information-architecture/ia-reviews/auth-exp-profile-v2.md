@@ -38,11 +38,12 @@
 
 Page | URL | Breadcrumb | Page Requirements/Notes
 --- | --- | --- | ---
-Profile - Contact Information (default page) | www.va.gov/profile  | Home > Your profile  | This is the default page of Profile. 
+Profile | www.va.gov/profile  | n/a | This is a pass through page that user's can't access.  When clicking on a link to "your profile" users will be automatically routed to the contact information page as the default.  This page will not be accessible. 
+Profile - Contact Information (default page) | www.va.gov/profile/contact-information  | Home > Your profile > Personal and contact information | This is the default page of Profile. 
 Profile - Military Information | www.va.gov/profile/military-information | Home > Your profile > Military information | 
 Profile - Direct Deposit Info | www.va.gov/profile/direct-deposit | Home > Your profile > Direct deposit information | 
 Profile - Account Security | www.va.gov/profile/account-security | Verified acct: Home > Your profile > Account security <br> Non-verified acct: Home > Your profile - Account security| Note that there are 2 variations of the breadcrumb for this page.  For users who have not verified their account, this is the only page in Profile they can access and the breadcrumb should remove their ability to click on the main "profile" option.  In this scenario, all other options should be hidden on the left nav as well. 
-Profile - Connected Apps | www.va.gov/profile/connected-apps | Home > Your profile > Connected apps |
+Profile - Connected Apps | www.va.gov/profile/connected-applications | Home > Your profile > Connected apps |
 
 
 <hr>
@@ -55,7 +56,7 @@ Priority | Placement | Link to | Description
 Must | Header | www.va.gov/profile  | Keep existing link
 Must | Header | Account - REMOVE LINK | Remove the "Account" option from the drop list under the user's name. This URL will need to be redirected, see section below. 
 Must | [Direct deposit static page](https://www.va.gov/change-direct-deposit/) | www.va.gov/profile/direct-deposit | Once the user has signed in, and verified their account (if applicable), they should be sent directly to the direct deposit page within profile. 
-
+Should | [Change your address page](https://www.va.gov/change-address/) | www.va.gov/profile/personal-information | The link in step 3 should take the user straight to the personal-information page
 
 ***Priority:** Must = Required; Should = Strongly encouraged/best practice; Consider = Suggestion/at your discretion/possible enhancement* 
 
