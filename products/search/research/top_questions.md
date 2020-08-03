@@ -147,23 +147,28 @@ The total number of times a refinement (transition) occurs between internal sear
 
 
 
-***3.What is the performance of top queries for VA.gov***
+***3.What is the average Click Through Rate (CTR) -- the average percentage of users who click on one of VA links after seeing it in the search results -- for VA.gov?
 
-- VA.gov's query performance (the terms most searched via Google) appears to be on balance "solid" with an average CTR of 8.86% and an average ranking of 5.7 [Google Analytics/Search Console Report](https://analytics.google.com/analytics/web/#/report/acquisition-sc-queries/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801&explorer-table.plotKeys=%5B%5D&explorer-table.rowStart=0&explorer-table.rowCount=250)
-
-- According to SEMRush
-
-***4.What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
+According to [Google Search Console, 5.1% (May 2019-August 2020)](https://search.google.com/u/2/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.va.gov%2F&hl=en&start_date=20190402&end_date=20200801&metrics=CLICKS%2CIMPRESSIONS%2CPOSITION).  An average CTR on Google Search Console is about 10 to 20 percent.
 
 
-***5.How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
+***4.What is the average position for VA.gov and its top search terms?***
+
+According to [Google Search Console, 22.8% (May 2019-August 2020]()](https://search.google.com/u/2/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fwww.va.gov%2F&hl=en&start_date=20190402&end_date=20200801&metrics=CLICKS%2CIMPRESSIONS%2CPOSITION).
+
+(Explainer: If you're at the top of page two, your position might be 11. “Average position” is an average (sum of positions divided by the total number of keywords) of your positions for every keyword you rank for. The general report shows the average of your positions for every keyword your entire site ranks for.)
+
+***5.What are engagement metrics for search-referred visitors -- e.g. pages per session, session duration and bounce rate?***
 
 
-***6.What's the bounce rate for VA.gov's landing pages***
+***6.How highly ranked are VA.gov's landing pages (or Top Tasks)?*** 
+
+
+***7.What's the bounce rate for VA.gov's landing pages***
 
 According to [Google Analytics/Search Console](https://analytics.google.com/analytics/web/#/report/acquisition-sc-landingpages/a50123418w177519031p184624291/_u.date00=20190101&_u.date01=20200801/), VA.gov landing pages have an average 32% for single page sessions.
 
-***7.How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
+***8.How highly does VA.gov rank/rate for Domain Authority or Authority Score*** 
 (Note: SEMRush describes Authority Score as Authority Score is our compound domain score that grades the overall quality of a website. The higher the score, the more assumed weight a domain’s or webpage’s backlinks could have)
 
 
