@@ -17,7 +17,7 @@
 - There are two active development projects involving "how to apply Wizards" -- Education and Personalized Career Planning/Chapter 26.  The work on HLR and Disability has been delayed due to other priorities.
   - Per Leah Keeler, the [Education Wizard dev work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11227) is nearly complete and could be deployed as soon as the week of August 10th -- assuming no issues.
   - Per Jason Wolf, the [Personalized Career dev work] is complete and in staging.
-  - Per Luke Wajewski, the HLR and Disability work has not yet been initiated but he believes the work is bound/integrated, so there would be no great benefit it splitting the effort (e.g. Public Websites taking on the Disability Wizard work).
+  - Per Luke Wajewski, the HLR and Disability work has not yet been initiated but he believes the work is bound/integrated, so there would be no great benefit in uncoupling the effort (e.g. Public Websites taking on the Disability Wizard work).
 - The Education work (via Mahariel Rosario) did result in some valuable new enhancements/updates to the code that could be leveraged by the other teams -- details:
   - First, I created a WizardContainer component and placed that on the introduction page.  The WizardContainer holds the content surrounding the wizard and renders the actual Wizard .
   - The Wizard takes in the radio button components (called pages) and renders out the next page depending on where you are in the wizard.
