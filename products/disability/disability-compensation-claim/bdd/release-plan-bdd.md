@@ -10,16 +10,17 @@ Phase I, UAT:
   - [Accessibility] BDD: Redo Part of A11y Self Check After BDD/526 Refactor#11895
   - [QA] Benefits Delivery at Discharge (BDD) Test Plan#6949
   - [QA] BDD: TestRail Ramp Up#11682
+  - [Development] BDD: Monitor BDD Claims#10675
   - [Testing] BDD: Prepare for BDD UAT#11900
   - [Launch] BDD: UAT Testing for Benefits Delivery at Discharge#10298
+  - Staging review story
 
 Phase II, 25-100% Rollout
   - [Launch] BDD: Triage Front-End BDD Sentry Issues#11820
   - [Launch] BDD: Triage Back-End BDD Sentry Issues #11927
-  - [Development] BDD: Monitor BDD Claims#10675
+  - [Launch] BDD: Placeholder for Post Launch BDD Activities (Sprint 28)#11806
 
 Phase III, Go Live @ 100%, begin redirecting traffic from eBenefits
-  - [Launch] BDD: Placeholder for Post Launch BDD Activities (Sprint 28)#11806
   - [Development] BDD: Cache servicelocation (Post Launch)#10275
   - [Development] BDD: Create mock data for EVSS separation_locations#10276
   - [Tech Debt] BDD: Can We Prefill Separation Date from Military History Information#10842
