@@ -27,3 +27,19 @@
 ## Content
 - Product Guide revisions
 - [Error message revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11850)
+
+
+
+# August 3, 2020
+
+## 1. Order of operations - error message
+1. Resubmit - yes or no?
+2. Finalize language
+3. Finalize design (PDF download button?)
+4. Backend implementation for PDF download
+5. Front end implementation of design (language + focus)
+6. Front end implementation of PDF download
+
+## 2. Any concerns over the new sprint calendar?
+
+
