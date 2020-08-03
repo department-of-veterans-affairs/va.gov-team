@@ -12,15 +12,17 @@
 --Content--
 
 ### Goals
---Content--
+Our primary goal is to determine user acceptance of the new implementation of the 21-686c (686) form on VA.gov. We aim to answer the question, "Can users quickly and easily add and/or remove dependents from their disability claim."
 
 ### Method
---Content--
+We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance.
 
 ### Participants & recruitment
 --Content--
 
 #### eBenefits Team Availability
+
+`All dates/times TBD`
 
 | Dates | Times (EST) |
 | --- | --- |
