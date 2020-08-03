@@ -6,9 +6,9 @@
 - [Error override implementation (+ screen focus)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9437)
 - [Documentation for error override enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10528)
 - [Review coverage of accessibility checks in Caregivers end-to-end tests](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/7303)
--[508-defect-2 [FOCUS MANAGEMENT, SCREENREADER: Focus on page load SHOULD be consistent](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9305)
--[508-defect-2 SCREENREADER, SEMANTIC MARKUP: Document SHOULD not have more than one contentinfo landmark](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8558)
--[508-defect-2 [AXE-CORE: Heading levels SHOULD increase by one](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8556)
+- [508-defect-2 [FOCUS MANAGEMENT, SCREENREADER: Focus on page load SHOULD be consistent](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9305)
+- [508-defect-2 SCREENREADER, SEMANTIC MARKUP: Document SHOULD not have more than one contentinfo landmark](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8558)
+- [508-defect-2 [AXE-CORE: Heading levels SHOULD increase by one](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/8556)
 
 ## Back end
 - [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
