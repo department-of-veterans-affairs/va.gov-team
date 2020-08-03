@@ -101,7 +101,7 @@ Liz Lantz, Public Websites, July 16, 2020
 
    - August 4: 7am - 4pm
 
-   - August 5: 8am - 8pm
+   - August 5: 8am - 4pm
 
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 	
 
