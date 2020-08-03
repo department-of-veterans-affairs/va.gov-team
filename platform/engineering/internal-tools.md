@@ -85,7 +85,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
    Your identification has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.
    Your public key has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.pub.
    The key fingerprint is:
-   SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA user@BattleStation1
+   SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA jbritt@BattleStation1
    The key's randomart image is:
    +---[RSA 2048]----+
    |*.ooo.           |
