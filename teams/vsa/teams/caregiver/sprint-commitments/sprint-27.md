@@ -2,7 +2,7 @@
 
 ## Front end
 - Research loading spinner on submission page
-- Cyprus end-to-end testing
+- [Cypress end-to-end testing](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11777)
 - Error override implementation (+ screen focus)
 - [Documentation for error override enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10528)
 
