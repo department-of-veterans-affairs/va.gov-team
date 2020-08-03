@@ -5,15 +5,31 @@ _Example: How many URLs does VA currently have? Where are they currently managed
 VA subdomain list via GSA GitHub, courtesy of Patrick Bateman:
 https://github.com/GSA/search-gov-agency-collaboration/blob/master/va/microsites.md 
 
-## As of 7/20/20
+## As of 8/03/20
 
-www.va.gov/ paths:
+### Total VA URLs: 530,955 pages*
 
-- Total paths: __~62099__
 
-- Total paths that are PDFs: __~18552__
+__SharePoint files:__
 
-Subdomain paths - e.g., benefits.va.gov, etc.: 
+- [VA.gov and VA subdomain URLs as of 8/3/20](https://dvagov-my.sharepoint.com/:x:/g/personal/jennifer_lee27_va_gov/ETMp1K5EFLRFpI8OPQd0SB8Biep4j0CrGIo81qLlIWrAVQ?e=o5G25U)
 
+- [530 subdomains site maps as of 8/3/20](https://dvagov-my.sharepoint.com/:u:/g/personal/jennifer_lee27_va_gov/Eb5IL09uBT9AgqR1rz1LVkIBhEVtlomXNEwYbjQjOm6V9g?e=QGfb4X)
+
+
+__VA.gov/ pages:__
+- URLs: __62,099__
+
+- URLs that are PDFs: 18,552
+
+- Unknown % of pages are hosting internal meeting notes, videos,  and other meeting materials on public pages
+
+
+__blah.va.gov subdomain pages:__
+- VA currently has 530 subdomain sites. 
+
+- URLs: __468,856*__ (for the 379 subdomains we were able to map)
+
+* _We were able to crawl only 379 subdomains. The remaining sudomains didn't have pages that could be mapped (bc of the way the pages are built) but probably do have have content. So this is an under count of what's really out there._
 
 
