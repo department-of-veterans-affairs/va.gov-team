@@ -35,9 +35,6 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 
 <hr>
 
-
-> There are slightly different commands to connect to the proxy depending on whether or not you are connected to the VA network.
-
 ## Design rationale
 
 Some utilities, such as metrics dashboards, error reporting, and deployment tools, should not be made available to the public. While such a utility may lock functionality behind a user login system, these vary among implementations and may be vulnerable to exploits. 
