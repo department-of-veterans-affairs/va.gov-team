@@ -1,4 +1,4 @@
-# KPI Dashboard Outline
+# KPI Dashboard Product Outline
 
 #### Communications
 - Team Name: VSP Analytics & Insights
