@@ -1,6 +1,6 @@
 ### 8/3 Update
 
-- Collaboration Cycle Project Kickoff will be scheduled on Friday, August 7th with Leah, Luke, Jason and Matt in attendance (Liz, Mickin and Ryan T. as optional).
+- Collaboration Cycle [Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116450) will be scheduled on Friday, August 7th with Leah, Luke, Jason and Matt in attendance (Liz, Mickin and Ryan T. as optional).
 
 ### 7/31 Status Meeting with Wizard Product/Development Leads
 ** Participants:
