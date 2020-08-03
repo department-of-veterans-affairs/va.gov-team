@@ -33,12 +33,20 @@
 # August 3, 2020
 
 ## 1. Order of operations - error message
-1. Resubmit - yes or no? / *and* 4. Backend implementation for PDF download
-2. Finalize language
-3. Finalize design (PDF download button?)
-5. Front end implementation of design (language + focus)/ *and* A11y approval on backend implementation
-6. Front end implementation of PDF download
-7. QA & done
+Currently happening:
+1. Language is approved (assuming no resubmission)
+1. ~Finalize design~ 
+1. Finalize PDF download button
+1. Backend implementation for PDF download
+1. Front end implementation of design (language + focus)
+1. What's going on with the resubmit button?
+1. A11y approval on backend implementation
+
+Next (If resubmit *is* possible:)
+1. Redo language
+1. Update language frontend 
+1. Front end implementation of PDF download
+1. QA & done
 
 ## 2. Any concerns over the new sprint calendar?
 
