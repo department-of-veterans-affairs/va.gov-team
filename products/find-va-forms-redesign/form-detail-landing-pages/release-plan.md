@@ -38,15 +38,6 @@
 * This change does not impact user flows through tasks: *Yes*
 * This change does not affect traffic to backend services: *Yes*
 
-</details>
-
-This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
-- number of new nodes
-- new CMS template
-- interconnectedness with forms search and Lighthouse API, and 
-- dependency on Transformer/node capacity.
-
-
 <details>
 
 -  ~~*Example*: a change to a page's text content **could skip** staged rollout~~ 
@@ -71,6 +62,17 @@ This product does not need a staged rollout, per above criteria, but we have dec
 ~~Other exceptions to this requirement can be approved by DEPO VSP leads.~~
 
 </details>
+
+</details>
+
+This product does not need a staged rollout, per above criteria, but we have decided to take a staged approach due to several factors: 
+- number of new nodes
+- new CMS template
+- interconnectedness with forms search and Lighthouse API, and 
+- dependency on Transformer/node capacity.
+
+
+
 
 ### Planning
 
