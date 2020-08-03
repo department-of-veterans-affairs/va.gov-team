@@ -247,16 +247,16 @@ An alternative to SwitchyOmega is to use [the `socks` script](https://github.com
 
 ### Jenkins
 
-With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You can see the builds without logging in but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
+With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You will be prompted to authenticate with GitHub before being able to view jobs. 
 
 ### Sentry
 
-With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. You can signin in using your GitHub account by clicking the "GitHub" button on the login page. Once logged in, you can add yourself to the appropriate teams.
+With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. You will be prompted to authenticate with GitHub. Once logged in, you can add yourself to the appropriate teams.
 
-We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/
+We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/.
 
 ### Grafana
-With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "GitHub" button on the login page.
+With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "Sign in with GitHub" button on the login page.
 
 There are many dashboards and you should click around to get familiar with the variety of metrics being collected and visualized (make sure Data Source is set to Production). A few highlights are:
 
@@ -271,19 +271,19 @@ There are many dashboards and you should click around to get familiar with the v
 #### "Permission denied - public key" error when pushing to Github
 
 1. Has your public SSH key been added to the list of authorized SSH keys? 
-    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, [follow the process above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) to add it.
-    * **VFS teams** - You will receive a Github notification once your key has been added to the authorized list. If it's been more than 72 hours, check with your DSVA contact.
+    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, follow [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/doc/update_internal_tools_documentation/platform/working-with-vsp/orientation/request-access-to-tools.md#2-request-that-your-ssh-keys-be-authorized-so-that-you-can-use-the-developer-tools-such-as-jenkins-grafana-and-sentry) to have it added.
+    * **VFS teams** - a member of the Operations team will comment on your environment access request once your key has been added to the authorized list. If it's been more than 72 hours, reach out in the #vsp-platform-support Slack channel for assistance.
 1. Does your .ssh/config contain the correct content?
-    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
-    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network)
+    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet)
 1. Have you added your private key to your local SSH agent?
-    * Run ```ssh-add -K ~/.ssh/id_rsa_vagov```
-1. Are you running the correct command for ```sock``` vs ```sock-va``` depending on whether you are on or off the VA network?
-    * [Within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
-    * [Outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * Run ```ssh-add -K ~/.ssh/id_rsa_vagov``` for Mac or ```ssh-add ~/.ssh/id_rsa_vagov``` for Windows, respectively
+1. Are you running the correct command for ```socks``` vs ```socks-va``` depending on whether you are on or off the VA network?
+    * [Within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network)
+    * [Outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet)
     
 
-#### ```ssh sock -D 2001 -N``` failing
+#### ```ssh socks -D 2001 -N``` failing
 
 1. **Platform team** - Does your ```.ssh/config``` contain the right content?
     * **Platform team** - [see here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config) 
