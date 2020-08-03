@@ -8,9 +8,41 @@
 
 <details> <summary> July 2020</summary>
 
-## July 24th, 2020
+## Status - July 31st, 2020
 
-### Status
+**Product**
+- Product to drafted [MVP Initiatives for remaining Q3 sprints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
+	- continue to add detail to OKR's
+- [Sprint 26 Retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-26.md)
+-  [Sprint 26 Report Documented](https://docs.google.com/document/d/1BmB1z4-9pdnbtQ9LqYOQREpc7MGpdVMNS-VkfVvYeKM/edit)
+-  [Sprint 27 Priority Planning](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11299)
+- [Sprint 26 Demo Presentation](https://docs.google.com/presentation/d/1bBoQ2_Z7neT9KsL2X5Yg4DJkZAJu4gM-a8ES8gx9Xgs/edit#slide=id.p1) 
+- [TOT July 28th](https://drive.google.com/open?id=15UHjA9J7bo_oJg3rbqaJq2gsjXexLyF5)
+
+**Research and Design**
+- Created [Research Plan for upcoming Veteran Testing of MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11544)
+
+**Engineering**
+- Engineering to continue research API/interface feeds into EHR's, MPI, CMS
+- [Sprint 26 Demo - Forms Unaut-Auth Prototype ](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10714)
+
+
+**Next Step/Followup**
+- Hold Discovery Sprint Readout with Leads and Stakeholders 
+- Continue Initiative documentation for Q3 priority features 
+- Priority Feature Planning for sprint 28
+- User Testing Started
+- Design to prototype in new tool and build mock conditional logic app for demonstration purposes.
+- VAOS/CPRS tech investigation and recommendations complete
+	
+**Decisions:**
+-  Due to BE Engineering work for the Facilities team did not stay as low as expected, there is now a need for Lance to support. Since we have Laurence on board now, Lance can return to facilities full time. Paul Short, our engineering lead, will now play a more hands on support role with Laurence/healthcare as Laurence ramps up (both as a mentor/coach and in support of the team). Paul will also be able to determine during this time if and when your team may need additional BE support 
+
+**Blockers:**
+- No changes in status from previous week for blockers [Paper - Current State Workflows #10219](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10219) and [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
+
+
+## Status - July 24th, 2020
 
 **Product**
 - Research and [documented SHEP](https://drive.google.com/open?id=1krisnJlCyGoNGqzlDn6gKZTUq6MtPbsd) and [Clinical Reminders Questions](https://drive.google.com/open?id=12DxPOC0SFb3VG-fcA5nkIsLpPKsPCHLM) to inform strategy. 
@@ -59,10 +91,10 @@
 - [Stakeholder Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets-website/13340)
 	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
 
-## July 17th, 2020
+## Status - July 17th, 2020
 
-**Status**
-Product
+
+**Product**
 - [Sprint 25 Retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-25.md) 
 - [Sprint 25 Report Documented](https://docs.google.com/document/d/1C2xk9RDz7pBiKiJwS-6qHxE_AAg677vLSSZTemUUtac/edit?usp=sharing)
 - [Sprint 26 Priority Planning](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11032) 
@@ -76,13 +108,13 @@ Product
 
 
 
-Research and Design
+**Research and Design**
 - Healthcare team presented for the first time at Design Collaboration and [Sprint 25 Demo for research findings/recommendations](https://docs.google.com/presentation/d/1Rd-HzsKXc6I4Py9kA9y4tcMWUlAggL4SXFd-32Kxsrg/edit#slide=id.p1) 
 -  [Discovery Research Readout](https://dsva.slack.com/archives/C0136TS768M/p1594655214085300) completed and presented by Aricka
 - - [Created Personas Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/discovery-personas.md) to be used throughout design and development specific to the healthcare/questionnaires workflow
 - Created [Interview Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/clinician-questions.md) and [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/clinician-interviews/research-plan.md) for Stakeholder sessions
 
-Engineering
+**Engineering**
 - Created a prototype with the forms library to demonstrate unauthenticated questions answered then passing through data to authenticated forms entry where pre-populated information can be viewed.
 - Laurence Guild, BE engineer started on the team and is completing onboarding
 
@@ -101,7 +133,7 @@ Engineering
 	- Patrick is following up with contacts he has across a few regions to see if they would be willing to participate and provide us time for interviews and engagement going forward.
 
 
-## July 10th, 2020
+## Status - July 10th, 2020
 
 **Status**
 - Monday 6th, Aricka published the [Discovery Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/research-findings.md) including key findings and recommendations with actionable next steps.
@@ -144,7 +176,7 @@ Engineering
 		- Lacey is creating a 1 pager on our product for Patrick to use with these clinical teams.
 
 
-## July 3rd, 2020
+## Status - July 3rd, 2020
 
 **Status**
 
@@ -185,7 +217,7 @@ Engineering
 
 <details> <summary> June 2020</summary>
 
-## June 26th, 2020
+## Status - June 26th, 2020
 
 **Status**
 - Facilitate and summarize feedback from [Veteran Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/user-research/participant-notes/participant-list.md)
@@ -211,7 +243,7 @@ Engineering
 	-  Unknown Stakeholders to interview until we get feedback from Veterans on what they need the product scope to be.
 	-  Lacey will schedule once we land scope
 
-## June 19th, 2020
+## Status - June 19th, 2020
 
 **Status**
 - Sprint 24 Planning Meeting & [Sprint 23 Retro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint23.md)
@@ -241,7 +273,7 @@ Engineering
 - [Product Owner - Interviews](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/10222)
 	-  Unknown Stakeholders to interview until we get feedback from Veterans on what they need the product scope to be.
 
-## June 12th, 2020
+## Status - June 12th, 2020
 
 **Status**
 - Discovery Research and Onboarding
@@ -277,7 +309,7 @@ Engineering
 	- Lacey has identified sme's and has reached out, we are waiting for response 
 
 
-## June 5th, 2020
+## Status - June 5th, 2020
 
 **Status**
 - Sprint 23 Discovery
