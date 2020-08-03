@@ -12,7 +12,10 @@
 --Content--
 
 ### Goals
-Our primary goal is to determine user acceptance of the new implementation of the 21-686c (686) form on VA.gov. We aim to answer the question, "Can users quickly and easily add and/or remove dependents from their disability claim?"
+Our primary goal is to determine user acceptance of the new implementation of the 21-686c (686) form on VA.gov. 
+
+#### Key guiding question
+Can users quickly and easily add and/or remove dependents from their disability claim?
 
 ### Method
 We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance. (Do we provide pre-test guidance regarding instructions or uploads?)
@@ -24,7 +27,7 @@ We will engage in moderated User Acceptance Testing (UAT) conducted remotely usi
 - The participant will be guided to the 686 intro (or will we drop them onto the home screen?)
 - The user will proceed through the 686 and submit
 - There will be a quick Q/A and wrap-up 
-  - (Will we need to have 'stand-by plans" for catastophic failure?)
+  - (Will we need to have 'stand-by plans" for catastrophic failure?)
   - (Can we give assurances or follow-up paths?)
   - (Will we shepherd the application through and connect with the LOB?)
   - (Will we offer support for failed submissions?)
@@ -39,7 +42,7 @@ Participants will be recruited via Perigean. The study will require eight (8) Ve
 - Fits one of the following; participant needs to:
   - Add a child
   - Add a spouse
-  - Add a child (age 18 to 23) who is about to enroll or has enrolled in college (or other traning/schools)
+  - Add a child (age 18 to 23) who is about to enroll or has enrolled in college (or other training/schools)
   - Remove a divorced spouse
   - Remove a deceased dependent (parent, spouse or child)
   - Remove a married child (under 18)
