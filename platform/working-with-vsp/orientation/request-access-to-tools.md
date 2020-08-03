@@ -47,7 +47,7 @@ In order to be granted AWS Console access, your PIV background (eQIP adjudicatio
 
 We will be walking through how to request access in the steps outlined below.
 
-#### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
+#### 1. Create new SSH keys for [Windows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows) or [Mac/Linux](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
 #### <a id="authorizekeys"></a>2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * Open an [Environment Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2C+operations&template=Environment-Access-Request-Template.md&title=Access+for+%5Bindividual%5D) issue in the [va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) repo.
