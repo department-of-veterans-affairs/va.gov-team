@@ -34,7 +34,7 @@
 
 ## 1. Order of operations - error message
 Currently happening:
-1. Language is approved (assuming no resubmission)
+1. ~Language is approved~ (assuming no resubmission)
 1. ~Finalize design~ 
 1. Finalize PDF download button
 1. Backend implementation for PDF download
