@@ -33,12 +33,12 @@
 # August 3, 2020
 
 ## 1. Order of operations - error message
-1. Resubmit - yes or no?
+1. Resubmit - yes or no? / *and* 4. Backend implementation for PDF download
 2. Finalize language
 3. Finalize design (PDF download button?)
-4. Backend implementation for PDF download
-5. Front end implementation of design (language + focus)
+5. Front end implementation of design (language + focus)/ *and* A11y approval on backend implementation
 6. Front end implementation of PDF download
+7. QA & done
 
 ## 2. Any concerns over the new sprint calendar?
 
