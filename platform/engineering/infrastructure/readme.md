@@ -7,7 +7,7 @@ Hello! In this folder, you'll find information specific to how Infrastructure/De
 
 ### Points of contact
 The Infrastructure points of contact are:  
-- [Demian Ginther], @wyattwalter on Slack, [@Demian Ginther](https://github.com/dginther) on Github
+- [Demian Ginther], @Demian Ginther on Slack, [@dginther](https://github.com/dginther) on Github
 - [Andrew Gunsch], @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
 
 ### Table of contents
