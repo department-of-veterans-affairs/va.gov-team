@@ -53,6 +53,13 @@ As a Veteran, I want to provide my my care team with what is important to me to 
  11. Save in Progress - Ability to save and come back later to submit the form 
  12. Canceled Appointment - Automatically remove the questionnaire from the form list 
 
+**Do not require a Login  (4B)**
+
+> As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity.
+
+ 16. Unauthenticated - No pre-populating - what CPRS data can we tie to the questionnaire link and then based on that information where can it go back in CPRS once quest. is submitted. ie. patient context at person or encounter level?
+ 17. Authenticated - Are we showing all 2 IDP or just ID.me?  Need to integrate with questionnaire flow to authorize for showing RFV and Demographics?
+
 **Notifications (4C)** 
 
 > As a Veteran, I want to be notified in advance of my health care visit that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can complete when convenient and relevant for me.
@@ -66,12 +73,7 @@ As a Veteran, I want to provide my my care team with what is important to me to 
 
  15. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
 
-**Do not require a Login  (4B)**
 
-> As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity.
-
- 16. Unauthenticated - No pre-populating - what CPRS data can we tie to the questionnaire link and then based on that information where can it go back in CPRS once quest. is submitted. ie. patient context at person or encounter level?
- 17. Authenticated - Are we showing all 2 IDP or just ID.me?  Need to integrate with questionnaire flow to authorize for showing RFV and Demographics?
 
 ### Feature Outlines 
  1. [This Visit Questions Feature Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
