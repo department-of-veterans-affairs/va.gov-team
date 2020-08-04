@@ -12,6 +12,7 @@
 * would go back to LC hp to get to another article — kept looking on the search results for changing address
 * said thought topic and audience buttons were clickable before
 * kept mentioning that ppl who are older don’t use computer
+* knew to go to Disability for Agent Orange
 * liked breakdown of if you’re eligible in Agent Orange content
 * to get another benefit, would click VBA topic link from search results  
 * understood that LC is within VA.gov
