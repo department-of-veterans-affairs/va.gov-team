@@ -19,7 +19,7 @@ Make sure to comment out any `IdentitiesOnly yes` directives set at the top leve
 Once this is saved, try the following commands:
 
 ```
-$ ssh-add -K ~/.ssh/vetsgov_id_rsa
+$ ssh-add -K ~/.ssh/*gov*
 $ ssh socks -D 2001 -N
 ```
 
@@ -31,7 +31,7 @@ $ ./socks.sh     # check status
 $ ./socks.sh off # turn off socks proxy
 ```
 
-The script assumes you have stored your key at `~/.ssh/vetsgov_id_rsa` - if you put it elsewhere you can set the VA_SOCKS_KEYFILE variable before invoking it. The script also sets up a proxy for the "Wi-Fi" network by default; if you are using a different network, you can override the SOCKS_NETWORK environment variable - for example:
+The script assumes you have stored your key using "gov" somewhere within name (`~/.ssh/*gov*`). If you put it elsewhere or name it otherwise, you can set the VA_SOCKS_KEYFILE variable before invoking it. The script also sets up a proxy for the "Wi-Fi" network by default; if you are using a different network, you can override the SOCKS_NETWORK environment variable - for example:
 
 ```
 $ SOCKS_NETWORK="USB 10/100/1000 LAN" ./socks.sh on
