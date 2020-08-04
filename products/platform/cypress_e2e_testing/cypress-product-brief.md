@@ -29,7 +29,10 @@ For all other questions, feel free to reach out directly to the [VSP FE Tools te
 
 ### Examples or references of usage
 
+[Cypress test for VAOS](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/vaos/tests/e2e/appointment-list.cypress.spec.js)
 
+
+[Cypress test for the 21-526EZ form using the form tester](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/disability-benefits/all-claims/tests/all-claims.cypress.spec.js)
 
 ------
 
