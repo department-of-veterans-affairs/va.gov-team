@@ -2,32 +2,71 @@
 
 Find which of the following applies to you -
 
-1. The changed lines of code in my PR is not an accurate measurement how much effort is required to review it :point_right: [Change How LoC is Calculated](#change-how-loc-is-calculated)
+### The changed lines of code in my PR is not an accurate measurement how much effort is required to review it 
 
-2. There is no way my PR can be broken up into smaller pieces - [File for a Jumbo PR Override](#file-for-a-jumbo-pr-override)
+You have 2 options: 
+  - [Change How LoC is Calculated](#change-how-loc-is-calculated)
+  - [Appeal a Jumbo PR Denomination](#appeal-a-jumbo-pr-denomination)
 
-3. I can break my PR up into smaller pieces - [Break PR Into Smaller Pieces](#break-pr-into-smaller-pieces)
+### There is no way my PR can be broken up into smaller pieces :point_right: [File for a Jumbo PR Override](#file-for-a-jumbo-pr-override)
+
+### I can break my PR up into smaller pieces :point_right: [Break PR Into Smaller Pieces](#break-pr-into-smaller-pieces)
 
 
 ## Change How LoC is Calculated
 
-Expected delay: 1-3 days
+### Example
+You added a large test file (`.csv`) that is no included in the [exclusions list](#jumbo-pr-calculation-rationale)
 
-Open a separate PR that changes how the Danger Bot calculates LoC. The platform team will review that PR inside the normal 24 hour cycle. If that PR is approved, you may then merge to `master` and pull those changes into your Jumbo PR branch which should now pass the Danger Bot LoC check.
+### What to Do
+1. Open a separate PR that changes how the Danger Bot calculates total LoC
+2. Add a comment in your PR that links to the Danger Bot PR
+
+### What to Expect
+The platform team will review that PR inside the normal 24 hour cycle. If that PR is approved, you may then merge to `master` and pull those changes into your Jumbo PR branch which should now pass the Danger Bot LoC check.
+
+
+## Appeal a Jumbo PR Denomination
+### Example
+Your PR is mostly repetitive rspec code that isnt very complex.
+
+### What to Do
+Having > `1000` LoC, doesn't always mean the review will be difficult to review. In his case 
+
+1. Open a ticket in the `va.gov-team` repo
+2. Use the "Jumbo PR Appeal" Github issue template
+3. Prefix the title with "Jumbo PR Appeal:"
+4. Add the github label "Jumbo PR Appeal"
+5. Add a comment in your PR that links to the appeal github issue
+
+### What to Expect
+1-3 days for the platform team to review your appeal. If the appeal is granted, the danger-bot CI check will be dismissed and your PR reviewed normally.
 
 
 ## File for a Jumbo PR Override
 
-Expected delay: 3-10 days
+### Example
+There is possible way your PR can be broken up and must be reviewed as is.
 
-1. doc? (TBD)
-2. The platform team will review (1-2 days)
-3. Schedule an in-person meeting with the BE utility dev & BE team product owner
-4.
+### What to Do
+
+1. create a doc explaining why? (TBD)
+2. The platform team will review that doc (1-2)
+3. Schedule an in-person meeting with the BE utility dev & BE team product owner for a more in depth look at the PR & feature
+4. PR will occur normally
+
+### What to Expect
+3-7 days. This includes
+
+- in person meeting
+- longer back-and-forth comments on the PR
+
 
 ## Break PR Into Smaller Pieces
 
-Close the Jumbo PR and be sure to add a link to it from any future smaller PR chunks.
+### What to Do
+1. Close the Jumbo PR
+2. Link back to the jumbo PR in any future smaller chunk PRs
 
 ### Thank You!
 
@@ -45,7 +84,7 @@ We use lines of code (`LoC`) as a measurement for its simplicity & transparency.
 ```
 EXCLUSIONS = ['Gemfile.lock', '.json', 'spec/fixtures/', '.txt', 'spec/support/vcr_cassettes/', 'app/swagger', '.csv']
 ```
-[warn symbol][The `Dangerfile` for actual calculation](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Dangerfile) should be considered the source of truth, not this document! [warn symbol]
+:warning: [The `Dangerfile` for actual calculation](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Dangerfile) should be considered the source of truth, not this document! :warning:
 
 You can expand the comment from the bot to see exactly how your LoC were calculated.
 [screen shot of expanded comment]
