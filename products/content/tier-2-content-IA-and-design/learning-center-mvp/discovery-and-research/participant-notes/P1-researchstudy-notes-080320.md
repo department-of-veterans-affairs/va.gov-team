@@ -1,26 +1,4 @@
-# P1. Research study notes: Learning center MVP research 08/03/20, 4:45 pm ET
-
-Bill
-
-- Veteran/family: Veteran
-
-- Age: 
-
-- Gender: M
-
-- Ethnicity: White
-
-- Type of account: My HealtheVet
-
-- State/geo: 
-
-- Education
-
-- Cognitive/functional impairments: 
-
-- Device: deskop / laptop
-
-
+# P4 Research study notes: Learning center MVP research 08/03/20, 4:45 pm ET
 # Conversation Guide 
 
 
