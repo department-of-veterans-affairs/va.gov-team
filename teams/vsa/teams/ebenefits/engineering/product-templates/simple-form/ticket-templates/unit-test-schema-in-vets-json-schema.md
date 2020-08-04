@@ -1,5 +1,5 @@
 # Overview
-When we set up the form fields for the [Form Name] we added a schema into vets-json-schema. All schemas in vets-json-schema need to be unit tested to ensure they accept the correct data as well as reject incorrect data. We need to add unit tests for our schema.
+When we set up the form fields for the [Form Name] we added a schema into `vets-json-schema`. All schemas in `vets-json-schema` need to be unit tested to ensure they accept the correct data as well as reject incorrect data. We need to add unit tests for our schema.
 
 ## Tasks
 - [ ] Set up test file
