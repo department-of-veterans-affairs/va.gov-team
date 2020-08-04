@@ -168,7 +168,7 @@ Scrolling around on search results (clicked on Vietnam War audience) with Blue W
 *Any questions for me?*
 > “No, I like it. When are you all going to... (launch) it?”
 
-*LL - hopefully by end of this year, beginning of next year.*
+*Hopefully by end of this year, beginning of next year.*
 > “That’ll be good.” 
 > “I appreciate everything you do.” In the early days, they were “killing trees;” everything was on paper. 
 
