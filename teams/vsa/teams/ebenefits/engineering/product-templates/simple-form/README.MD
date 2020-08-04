@@ -6,13 +6,12 @@ If the product we are building is a form and only has 1 possible path, we consid
 
 1. [Initial project scaffolding]()
 2. [First pass at building out form fields]()
-3. [Initial Redux code for API calls]()
-6. [Unit tests for each page]()
-7. [End to end tests]()
-8. [Meet with Analytics team and get Google Analytics event names]()
-9. [Add Google events to View Task]()
-10. [Internal accessibility audit]()
-11. [508 testing]()
+3. [Unit tests for each page]()
+4. [End to end tests]()
+5. [Meet with Analytics team and get Google Analytics event names]()
+6. [Add Google events to View Task]()
+7. [Internal accessibility audit]()
+8. [508 testing]()
 
 
 ### Optional tasks - use as needed
