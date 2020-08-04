@@ -1,5 +1,19 @@
 # Agenda/Notes from meetings
 
+## Tuesday August 4
+
+## Agenda
+
+1. Review LC backlog
+2. Blockers
+3. Content reusability accross products - review concept prototype
+4. Related information component
+
+## Action items
+
+1.
+2. 
+
 ## Tuesday July 28
 
 ### Agenda
