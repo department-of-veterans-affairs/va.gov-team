@@ -1,5 +1,4 @@
-# # Learning Center user research 8-4-2020
-#LC
+# Learning Center user research 8-4-2020
 
 Participant 9 — she is on mobile 
 
