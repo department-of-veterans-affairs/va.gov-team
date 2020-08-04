@@ -1,4 +1,4 @@
-## So you have a Jumbo PR
+# So you have a Jumbo PR
 
 Find which of the following applies to you -
 
@@ -10,7 +10,6 @@ Find which of the following applies to you -
 
 
 ## Change How LoC is Calculated
-
 ### Example
 You added a large test file (`.csv`) that is no included in the [exclusions list](#jumbo-pr-calculation-rationale)
 
@@ -42,7 +41,7 @@ Having > `1000` LoC, doesn't always mean the review will be difficult to review.
 ## File for a Jumbo PR Override
 
 ### Example
-There is possible way your PR can be broken up and must be reviewed as is.
+There is no possible way your PR can be broken up and must be reviewed as is.
 
 ### What to Do
 
