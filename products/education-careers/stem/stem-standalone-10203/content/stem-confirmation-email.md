@@ -30,7 +30,7 @@ Date received { Mon. NN, YYYY }
 
 We usually decide on applications within 30 days.
 
-You’ll get a Certificate of Eligibility (COE), or award letter, in the mail if we’ve approved your application. Bring this to the VA certifying official at your school.
+You’ll get a Certificate of Eligibility (COE) or decision letter in the mail.  If we’ve approved your application, you can bring the COE to the VA certifying official at your school.
 
 [More about what happens after you apply](https://www.va.gov/education/after-you-apply/)
 
