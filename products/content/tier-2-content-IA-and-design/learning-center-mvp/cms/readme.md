@@ -1,19 +1,29 @@
 # Agenda/Notes from meetings
 
+## Tuesday August 11
+
+1. Training plan for PW team and LC stakeholders / SMEs
+3. Content reusability accross products - review concept prototype
+4. Related information component
+
+## Action items
+
+1. 
+
 ## Tuesday August 4
 
 ## Agenda
 
 1. Review LC backlog
 2. Blockers
-3. Content reusability accross products - review concept prototype
-4. Related information component
-5. Anything else?
+5. CRM news
 
 ## Action items
 
-1.
-2. 
+1. Jen/Randi create Draft content on prod for the following content types: Q&A, FAQ - Multiple Q&As, Step-by-step ([2561](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2561))
+2. The CMS team support DevShop env for FE development ([2561](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/2561))
+3. The CMS team adds Audience taxonomy to Sprint goals (less AX for rigidity reqs)
+
 
 ## Tuesday July 28
 
