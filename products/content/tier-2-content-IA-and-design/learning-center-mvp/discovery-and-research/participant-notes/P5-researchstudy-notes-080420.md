@@ -73,7 +73,7 @@ Take a look at this page and tell me how you'd make sure VA has your new address
 
 ## Task 3: Review topic results 
 
-####Participant will be looking at the View all VA account and profile articles result screen.
+#### Participant will be looking at the View all VA account and profile articles result screen.
 Things to watch for
 - Is the format of each search result helpful, or is a link farm more appropriate?
  Is the format of the topic articles results page sufficient and helpful to the participant?
