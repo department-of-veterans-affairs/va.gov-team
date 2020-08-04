@@ -57,10 +57,13 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 8/4/2020 - Design intent
 - Questions
-  - Is there a landing page in addition to the registration page?
-  - FAQ page?
-  - Search optimized or hidden?
-  - Cross-linking from any content?
+  - Is there a landing page in addition to the registration page? Yes
+  - FAQ page separate from landing page? follow up with Danielle
+  - Search optimized or hidden? can users go straight to form or do they need to read/understand anything on the landing page? preferred landing page first
+  - Cross-linking from any other va.gov content?
+- will be reaching people through text, social media, etc...varied ways...want to keep a simple URL in case it needs to be typed
+- Feedback
+  - MUST mobile breadcrumb only shows the previous page
 
 
 7/30/2020 - kick-off meeting
