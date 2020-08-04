@@ -9,7 +9,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 3. [Unit tests for each page of the form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/unit-test.md)
 4. [End to end tests]()
 5. [Meet with Analytics team and get Google Analytics event names]()
-6. [Add Google events to View Task]()
+6. [Add Google events to form]()
 7. [Internal accessibility audit]()
 8. [508 testing]()
 
