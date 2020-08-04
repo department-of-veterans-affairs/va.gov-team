@@ -4,7 +4,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 
 ### Table of Contents
 
-1. [Initial project scaffolding]
+1. [Initial project scaffolding]()
 2. [First pass at building out form fields]()
 3. [Initial Redux code for API calls]()
 4. [Refine custom view components to better match mockup]()
