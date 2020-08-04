@@ -5,7 +5,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 ### Table of Contents
 
 1. [Initial project scaffolding]()
-2. [First pass at building out form fields]()
+2. [First pass at building out form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/first-pass-at-building-out-form-fields.md)
 3. [Unit tests for each page of the form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/unit-test.md) (use this ticket for each unit test, 1 per page in the form)
 4. [End to end tests]()
 5. [Meet with Analytics team and get Google Analytics event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/meet-with-analytics-team-for-GA-events.md)
