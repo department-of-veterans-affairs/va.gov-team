@@ -41,7 +41,7 @@ Some utilities, such as metrics dashboards, error reporting, and deployment tool
 
 The preferred solution is to host these systems on an internal network that prevents public access. While the VA maintains an internal network, the VSP team operates within the AWS environment. After extensive efforts to obtain a zone delegation, we are able to control the records for internal tools using the `*.vfs.va.gov` zone delegation and Route53.
 
-The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the va.gov AWS network. Once connected, a developer will have access to the `*.vfs.va.gov` domain and can use their browser to connect to tools such as Prometheus, Jenkins, and Sentry.
+The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the va.gov AWS network. Once connected, a developer will have access to the `*.vfs.va.gov` domain and can use their browser to connect to tools such as Prometheus, Jenkins, Grafana, and Sentry.
 
 Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vfs.va.gov` address(es) when necessary.
 
