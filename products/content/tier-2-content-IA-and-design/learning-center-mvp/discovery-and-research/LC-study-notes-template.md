@@ -4,30 +4,6 @@ P#.researchstudy.notes.dateandtime (P1.personalizationusability.notes.2017060413
 
 # Research study notes: Learning center MVP research mm/dd/yy, P#
 
-[First name]
-
-- Veteran/family?
-
-- Age:
-
-- Gender:
-
-- Ethnicity:
-
-- Type of account: ID.me account, My HealtheVet, or a DS Logon
-
-- State/geo
-
-- Education
-
-- Cognitive/functional impairments: 
-
-- Device: deskop / laptop
-
-
-# Conversation Guide 
-
-
 ## Intro - 3 minutes
 
 Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes.  We have a team working on a new web product on VA.gov that will help you find answers to questions about VA benefits and services, and your VA.gov account.  Today, I'd like to hear about your experience getting questions answered, and go through a prototype of this new web product and get your thoughts on it.
