@@ -38,7 +38,7 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
     * _Note: this Product name should match 1:1 with the List of VSP Products_
 - [ ] External-facing: a [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-brief-template.md) exists for this product/feature tool
     - [ ] ... and should be located at `platform/PRODUCT_NAME/README.md`
-- [ ] External-facing: a User Guide (_TODO: link_) exists for this product/feature/tool, and is updated for changes from this initiative
+- [ ] External-facing: a [User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/writing-user-guides.md) exists for this product/feature/tool, and is updated for changes from this initiative
     - [ ] ... and should be linked from the Product Brief
     - [ ] ... and should be located within `platform/PRODUCT_NAME/`, unless you already have another location for it
     - [ ] _(if applicable)_... and post to [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) about whether this should be added to the [Documentation homepage](https://department-of-veterans-affairs.github.io/va.gov-team/)
