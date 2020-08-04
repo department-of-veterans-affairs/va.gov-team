@@ -1,13 +1,18 @@
 # P5. Research study notes: Learning center MVP research 08/04/20, 7:00 am ET
 ### Intro… 
 I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about your benefits or VA account?
+
 > Participant:
+
 What was that question about?
 > Participant:
+
 What was the first step you took to get that answered?
 > Participant:
+
 Did you have to take additional steps beyond that to get the answers you needed?
 > Participant:
+
 What has your experience been like trying to answer those questions on VA.gov?
 > Participant:
 Tell me about the last time you visited a VA website. What were you doing?
