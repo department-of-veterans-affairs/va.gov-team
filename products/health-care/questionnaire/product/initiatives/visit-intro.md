@@ -1,6 +1,16 @@
-# Visit Intro - Proof of Concept Scope
+# Visit Intro Initiative - Proof of Concept
 
-#### [Target Release - Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
+## Product Reference Links
+* [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
+* [Target Release - Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)
+* Link to [research plan ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/research-plan.md) and [card sort](https://adhoc.optimalworkshop.com/optimalsort/j2b7m7j5/sort)
+* Link to [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/veteran-prioritization/conversation-guide.md)
+* Link to [Design Screenshots/Prototyp](https://app.mural.co/invitation/mural/vsa8243/1596490423105?sender=aricka0272&key=a3d9728b-bc26-42a8-96ca-d4879cd613e1)
+
+
+<img src="https://lh4.googleusercontent.com/mc82qg9BOcOue42kP_Z26dCtgiM2Yx2Iq9dgXglUs5SAwTQr-CQKMK9cTE7Kv6KggaRzjLxfuXnB23S7dwXPKZcxoQewdsOMDQI7tybOLEwnP4hyB3V_YslHb4t3e0_-cu3_7b5k" width="500">
+
+- [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
 
 ## Feature Workflows in Scope 
 
