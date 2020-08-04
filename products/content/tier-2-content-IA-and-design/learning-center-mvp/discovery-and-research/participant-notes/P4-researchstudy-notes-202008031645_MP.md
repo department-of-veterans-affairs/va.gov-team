@@ -4,6 +4,22 @@
 8/3/2020
 4:45 pm
 
+*Highlights:*
+* asked, “Is the person already logged in?” Wd not expect to be, but this implies that I already have a VA.gov account. 
+* liked “LC” name
+* if search VA.gov, would get more high level, corp info — leadership, legislation, budget, annual report and metrics (think he understood that the top search and lower VA.gov search are same)
+* need checklists
+* should have info for ppl handling estates 
+* he would approach the LC homepage from a benefit perspective (said this at beginning and end of session)
+* liked that it has key topic bullets. Mks it easier to search. Not clear how they are ranked. Alpha?
+* liked Audience tags — make things scannable in search results
+* what is the 311 phone number?
+* did not think Topic and Audience tags were clickable
+* on search results, he clicked from the tag: “I would expect it to be more focused.” “This is a secondary filter.”
+* would go to LC homepage to apply for another benefit 
+* would search for LC on VA.gov or look for a link — “Learning” and “Center” are such common words in our lang, so if the search doesn’t concatenate those, you would not get good results
+- LC is “Rosetta Stone”: Vets across the country: Legion, VFW, etc are looking for info on their benefits.
+
 *Intro…*
 *I understand you have benefits with the VA or an online account with the VA. Can you remember a time you had a question about your benefits or VA account?*
 > I go thru it every day. Freq use MHV. Not sure if that’s the same.
