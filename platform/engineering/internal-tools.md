@@ -264,6 +264,8 @@ There are many dashboards and you should click around to get familiar with the v
 - [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics. 
 - [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) to see metrics on the reverse proxies. 
 
+## Troubleshooting
+If you are confident you have been through this guide and completed all steps as instructed within this documentation and things are still not working, please continue to the FAQs below. If you go through those and you are still unable to establish a connection to the SOCKS proxy and/or view our internal tools, please reach out in the #vfs-platform-support Slack channel.
 
 ## FAQs
 
