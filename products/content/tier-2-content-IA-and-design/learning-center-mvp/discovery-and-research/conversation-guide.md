@@ -165,7 +165,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Thanks for sharing that. Since this is a prototype, we don't have all of that set up, so I'm going to send you a link you directly to a page. 
 
-*Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/screens/424624543
+*Send participant link to Exposure to hazardous chemicals page in prototype*: https://vsateams.invisionapp.com/share/YJXZTKC6CN4#/425484965_Exposure_To_Hazardous_Materials_-2-
 
 - Now again, scroll around, and take a look at this page. Please continue to think out loud - you're doing a great job with that.
 - How does this line up with what you expected to see? 
