@@ -27,3 +27,10 @@ __IRIS vs. Egaines__
 - Egaines is the database and is where call center authors publish iternal "help aids" for call center reps -- like scripts.
 
 
+__KM - aka Know.VA.gov__
+
+https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018
+- KM site - publicly accessible content for VA employees and contractors (like vendor claims processors)
+- The content is managed from Egaines.
+- Currently, Trish Dang's team is considering using Egaines to manage all intenal and exteran IRIS content and publish to KM site (for Veteran content).
+
