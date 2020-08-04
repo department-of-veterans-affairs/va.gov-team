@@ -29,7 +29,7 @@ The severity rubric aligns to both the [axe-core rule descriptions](https://gith
 
 **❗️ Potentially Harmful. Must be fixed immediately.**
 
-These issues have the potential to cause life-threatening situations and should be be remediated before work starts or continues on `508-defect-1` issues. Our audience has a higher incidence of traumatic brain injury (TBI) and post-traumatic stress disorder (PTSD), so we need to correct these issues immediately.
+These issues have the potential to cause life-threatening situations and should be remediated before work starts or continues on `508-defect-1` issues. Our audience has a higher incidence of traumatic brain injury (TBI) and post-traumatic stress disorder (PTSD), so we need to correct these issues immediately.
 
 #### Types of issues:
 
