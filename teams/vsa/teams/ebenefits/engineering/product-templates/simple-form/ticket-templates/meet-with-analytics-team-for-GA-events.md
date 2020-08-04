@@ -1,5 +1,5 @@
 ## Goal
-In order to track the success metrics for the [Form Name] we need to get Google Analytics events set up that speek to those metrics. So that the analytics team has a chance to establish those event names and what they are for we need to meet with them either in person or over Slack.
+In order to track the success metrics for the [Form Name] we need to get Google Analytics events set up that speak to those metrics. So that the analytics team has a chance to establish those event names and what they are for we need to meet with them either in person or over Slack.
 
 ## Tasks
 - [ ] Connect with the GA/Insights Team (over either Slack or Zoom) to share what function and features this product is involved with, and a recommendation for what events they might be interested in tracking.
