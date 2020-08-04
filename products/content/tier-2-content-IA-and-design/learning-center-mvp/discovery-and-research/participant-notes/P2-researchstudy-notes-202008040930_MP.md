@@ -12,6 +12,7 @@
 * thinks you might need a VA.gov account before you can get benefits
 * there is no place at the top (header) that lets you go to your info — it lets you sign in
 * put create account and sign in at top
+* knew to go to Disability for Agent Orange
 * from the Agent Orange LC page, she thought that clicking on the Disability or Health Care tags would give you Vietnam Vets as the audience
 * on the search results for Agent Orange, she saw a search result with burn pits in the description and also the Directory of Environmental Health and said these are for more than just the Vietnam audience. 
 * would go to VBA for benefits (by clicking the topic tag) or to LC homepage
