@@ -11,7 +11,7 @@ If the product we are building is a form and only has 1 possible path, we consid
 5. [Meet with Analytics team and get Google Analytics event names](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/meet-with-analytics-team-for-GA-events.md)
 6. [Add Google events to form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/add-GA-events.md)
 7. [Internal accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/internal-accessibility-audit.md)
-8. [508 testing]()
+8. [508 testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/engineering/product-templates/simple-form/ticket-templates/508-accessibility-audit.md)
 
 
 ### Optional tasks - use as needed
