@@ -6,8 +6,9 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | IA Work Status | Status Notes 
 --- | --- | --- | --- 
-Health tools | COVID-19 Research/Trials | IN PROGRESS  | Kick-off held 7/30 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-covid-trials.md
-BAH | GIBCT Search & Filters | NOT STARTED | Design intent 7/17 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
+Health tools | COVID-19 Research/Trials | IN PROGRESS  | Design intent held 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
+Health care Exp | Questionnaires | NOT STARTED | Kick-off held 7/29 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
+BAH | GIBCT Search & Filters | NOT STARTED | Usability prep 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
 eBenefits | VRE/Chapt 31 | IN PROGRESS | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
@@ -15,7 +16,8 @@ BAH | STEM Scholarship App | DRAFT CREATED | Usability testing prep 6/1 <br> htt
 eBenefits | PCPG/Chapt 36 Career Counseling | IN PROGRESS | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 BAM 2 | Debt Letters | IN PROGRESS | Sent draft on 7/24 for upcoming research <br> https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
-Health care Exp | Questionnaires | NOT STARTED | Kick-off held 7/29 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
+
+
 
 
 
