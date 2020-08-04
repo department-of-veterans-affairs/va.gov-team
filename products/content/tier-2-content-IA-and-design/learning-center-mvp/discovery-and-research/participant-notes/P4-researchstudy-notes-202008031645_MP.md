@@ -101,7 +101,7 @@ Prototype:
 
 > Is this person already logged in? Has VA account? 
 
-> Liz - no. 
+> *No.
 
 > He wd not expect that it’s logged in, but this implies I have to have a VA.gov account. Not sure I do. 
 
