@@ -55,6 +55,14 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+8/4/2020 - mtg on content strategy
+- still an open question with team on whether users should come through landing page or can go directly to registration form
+- faq page is the same as the landing page
+- want the landing page to be in drupal
+- in discussion, it seems as though the best option would be to route users through a static landing page to ensure they understand what they are registering for and what happens after they register - need to continue to evaluate that and determine content structure and URLs
+- static page includes: intro, can I do it bullets, register CTA, faqs
+- H1 draft "Coronavirus research at VA", CTA draft "Join the volunteer registry"
+
 8/4/2020 - Design intent
 - Questions
   - Is there a landing page in addition to the registration page? Yes
