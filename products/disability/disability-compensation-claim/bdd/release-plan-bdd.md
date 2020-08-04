@@ -2,29 +2,29 @@
 
 Overview of phased approach and remaining work.
 Phase I, UAT:
-  - [Launch] BDD: Create Test Users in Dev and Staging for BDD#11892
-  - [Development] BDD: Install Flipper UI Around BDD Capability#11778
-  - [Launch] BDD: Does BDD Actually Work?#11812
-  - [Discovery] BDD: Verify XSD as Last Resort#10033
-  - [Development] Increase testing for BDD forms submission (Pre-Launch)#10368
-  - [Accessibility] BDD: Redo Part of A11y Self Check After BDD/526 Refactor#11895
-  - [QA] Benefits Delivery at Discharge (BDD) Test Plan#6949
-  - [QA] BDD: TestRail Ramp Up#11682
-  - [Development] BDD: Monitor BDD Claims#10675
-  - [Testing] BDD: Prepare for BDD UAT#11900
-  - [Launch] BDD: UAT Testing for Benefits Delivery at Discharge#10298
-  - Staging review story
+  - [Launch] BDD: Create Test Users in Dev and Staging for BDD#11892 - Benefits Sprint 27
+  - [Development] BDD: Install Flipper UI Around BDD Capability#11778 - Benefits Sprint 27
+  - [Launch] BDD: Does BDD Actually Work?#11812 - Benefits Sprint 27
+  - [Discovery] BDD: Verify XSD as Last Resort# - Benefits Sprint 28
+  - [Development] Increase testing for BDD forms submission (Pre-Launch)#10368 - Benefits Sprint 28
+  - [Accessibility] BDD: Redo Part of A11y Self Check After BDD/526 Refactor#11895  - Benefits Sprint 27
+  - [QA] Benefits Delivery at Discharge (BDD) Test Plan# - Benefits Sprint 27
+  - [QA] BDD: TestRail Ramp Up#11682 - Benefits Sprint 27-28
+  - [Development] BDD: Monitor BDD Claims#10675 - Benefits Sprint 28
+  - [Testing] BDD: Prepare for BDD UAT#11900 - Benefits Sprint 27
+  - [Launch] BDD: UAT Testing for Benefits Delivery at Discharge#10298 - Benefits Sprint 28
+  - Staging review story - Benefits Sprint 28
 
 Phase II, 25-100% Rollout
-  - [Launch] BDD: Triage Front-End BDD Sentry Issues#11820
-  - [Launch] BDD: Triage Back-End BDD Sentry Issues #11927
-  - [Launch] BDD: Placeholder for Post Launch BDD Activities (Sprint 28)#11806
+  - [Launch] BDD: Triage Front-End BDD Sentry Issues#11820 - Benefits Sprint 28
+  - [Launch] BDD: Triage Back-End BDD Sentry Issues #11927 - Benefits Sprint 28
+  - [Launch] BDD: Placeholder for Post Launch BDD Activities (Sprint 28)#11806 - Benefits Sprint 28-29
 
 Phase III, Go Live @ 100%, begin redirecting traffic from eBenefits
-  - [Development] BDD: Cache servicelocation (Post Launch)#10275
-  - [Development] BDD: Create mock data for EVSS separation_locations#10276
-  - [Tech Debt] BDD: Can We Prefill Separation Date from Military History Information#10842
-  - [Development] Remove BDD-specific code from vets-api prefill#11360
+  - [Development] BDD: Cache servicelocation (Post Launch)#10275 - Benefits Sprint 29
+  - [Development] BDD: Create mock data for EVSS separation_locations#10276 - Benefits Sprint 29
+  - [Tech Debt] BDD: Can We Prefill Separation Date from Military History Information#10842 - Benefits Sprint 29
+  - [Development] Remove BDD-specific code from vets-api prefill#11360 - Benefits Sprint 29
 
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
