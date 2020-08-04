@@ -55,6 +55,14 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 
 ### Meetings Notes and Background Info
 
+8/4/2020 - Design intent
+- Questions
+  - Is there a landing page in addition to the registration page?
+  - FAQ page?
+  - Search optimized or hidden?
+  - Cross-linking from any content?
+
+
 7/30/2020 - kick-off meeting
 - exception for usability testing collab point
 - help getting veterans in the door to participate in covid19 related clinical research - potential vaccines, therapuetics, plasma, etc.
