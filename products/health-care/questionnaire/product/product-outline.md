@@ -103,17 +103,24 @@ Veterans are unable to consistently share and update current health status and m
 
 ### Clinician
 
-### Initiatives /Bets
+### Initiatives
 
-[WIP Initiatives to Prioritize](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/initiatives)
+| Initiative Name                                                                                                                                                                                | Status   | Availability |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------- |
+| [Visit Intro - Proof of Concept ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)   | Discover | [Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)|
+| TBD Name - MVP | Discover | [Q4 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)                           |
 
-| Initiative Name                                                                                                                                                                                | Status   | Availability (Q1-Q4 / 1H- 2H / Vision |
+### Features
+
+[WIP Features to Prioritize](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/product/initiatives)
+
+| Features Name                                                                                                                                                                                | Status   | Availability (Q1-Q4 / 1H- 2H / Vision |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------- |
 | **Questionnaire/Screeners**                                                                                                                                                                    |
 | [Clinical Reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/clinical-reminders-initiative.md) | Discover | [Q4 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q4-2020-target-launch.md)                              |
 | [This Visit Questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)                                                                                                                                                                   | Discover | [Q3 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/2020/q3-2020-target-launch.md)                               |
 | **Personal/Profile**                                                                                                                                                                           |
-| [Demographics]()                                                                                                                                                                               | Discover | --                                    |
+| [Demographics]()                                                                                                                                                                               | Discover | Q3 2020                                   |
 | [Story/Bio]()                                                                                                                                                                                  | Discover | --                                    |
 | [Family]()                                                                                                                                                                                     | Discover | --                                    |
 | [Health Programs]()                                                                                                                                                                            | Discover | --                                    |
