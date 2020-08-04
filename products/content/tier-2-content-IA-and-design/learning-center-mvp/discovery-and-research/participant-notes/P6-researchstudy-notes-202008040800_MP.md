@@ -1,5 +1,4 @@
 # # Learning Center user research 8-4-2020
-#LC
 
 Participant 6
 
