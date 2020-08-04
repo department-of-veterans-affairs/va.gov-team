@@ -62,7 +62,7 @@ Some VCs are in medical plazas. All VCs look and feel diff.
 
 > Out station - need to figure out if person who maintained Salt Lake wd also maintain the comm’y page. 
 
-Ken - they don’t have a director. 
+> Ken - they don’t have a director. 
 
 > Bryan - MVCs are really underutilized. Some VCs use them often; others don’t. They are often used as mobile billboards. Primary duty is emergency response. Can use as clinical spc. Find way to ID MVCs, looking at how to expand that — include their *catchment* areas. 
 
