@@ -8,11 +8,12 @@
 * uses eBenefits a lot, helps others
 * thought the links on the LC hp were chat rooms
 * didn’t think it was that diff from VA.gov, info-wise (initially) 
-* would go back to LC hp to get to another article — kept looking on the SERP for changing address
+* what expect in LC: How you would look for info. Like info on buying a home, trying to figure out your benefits. “Healthcare, how to maneuver around on the website.”
+* would go back to LC hp to get to another article — kept looking on the search results for changing address
 * said thought topic and audience buttons were clickable before
 * kept mentioning that ppl who are older don’t use computer
 * liked breakdown of if you’re eligible in Agent Orange content
-* to get another benefit, would click VBA topic link from SERP 
+* to get another benefit, would click VBA topic link from search results  
 * understood that LC is within VA.gov
  * “If you search VA.gov, you would go to the home screen, the main screen.”
 * perception that the LC explains everything 
