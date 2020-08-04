@@ -50,5 +50,5 @@ VA Buffalo Regional Processing Office
 
 [Privacy Act Statement]() { Available online at <https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction> }
 
-cc: <<Student email address>>
+cc: { Student email address }
 
