@@ -1,4 +1,5 @@
 # # Learning Center user research 8-4-2020
+#LC
 
 Participant 6
 
@@ -49,7 +50,7 @@ Participant 6
 *Imagine you recently moved and you need to make sure VA has your new address. How would you do that?*
 > I go into MHV and there is a place that lists your address. 
 
-*Liz - so you update it there?* 
+*So you update it there?* 
 > Yes. 
 
 *Task 1: General impression*
@@ -76,7 +77,7 @@ Participant 6
 
 > Lot of times spouse looks for info, She uses it more. This makes it easier. 
 
-*Liz - how about how org?* 
+*How about how org?* 
 > It’s in a good chronological… you can follow easily. 
 
 > How to chg address. Chg address online (clicked on this one). 
@@ -141,13 +142,13 @@ Scrolling around on search results (clicked on Vietnam War audience) with Blue W
 
 > You can type in GI Bill benefits (on-page search). 
 
-*LL - what do you notice abt the search?* 
+*What do you notice abt the search?* 
 > It’s highlighted in blue, so that’s a good thing. 
 
-*LL - how you und the 2 options?* 
+*How you und the 2 options?* 
 > 1 is LC, and the other is VA.gov, the actual page that wd take you to everything you need to do to apply for it. 
 
-*LL - how diff from the 1st search?*
+*How diff from the 1st search?*
 > The (pointing to LC search) wd take you to info quicker. If you want to apply for it, you cd search VA.gov — it would take you to the page to fill out and apply for it. 
 
 *We don’t know what to call the product you reviewed yet. Now that you have a better idea of the type of information that’s here, what you think of the name Learning Center?*
