@@ -19,19 +19,19 @@ As a Veteran, I want to provide my my care team with what is important to me to 
  [Mural Workflow Diagram](https://app.mural.co/t/vsa8243/m/vsa8243/1596561661701/0afd94dfc8598b105524e87c8828b10dba98bbf2)
 ### Avoid having to repeat health history across the continuum of care
 
-**User Story: (5G)**
+**Visit Reason (5G)**
 > As a Veteran, I want to provide my care team with the reason for my visit so that they can prepare in advance if tests should be completed, noted stressors/triggers, or an acute concern should change my appointment date.
 
  1. [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - can we pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.  
 
-**User Story: (5D)**
+**Whats Important to Me (5D)**
 
 > As a Veteran, I want to provide my story and whats important to me so that I am able to collaborate and parter with my care team in my health goals
 
  2. [Health Conditions, Concerns or Important Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
  5. [Questions I have for the visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md).
 
-**User Story: (5A)**
+**Continuity of Care (5A)**
 
 > As a Veteran, I want to provide my current health status and updates to my medical history so that I do not have to feel I have to repeat the information to my nurse and provider in the same and subsequent visits.
 
@@ -40,7 +40,7 @@ As a Veteran, I want to provide my my care team with what is important to me to 
 
 
 ### Do similar things the same way with seamless next steps
-**User Story: (4A)**
+**Digital Front Door (4A)**
 
 > As a Veteran, I use MHV and VA.gov to access all my health and benefits information with the VA, and want to be able to access my health questionnaires in a similar way,  so the workflow is consistent and convenient to my current experience.
 
@@ -53,22 +53,20 @@ As a Veteran, I want to provide my my care team with what is important to me to 
  11. Save in Progress - Ability to save and come back later to submit the form 
  12. Canceled Appointment - Automatically remove the questionnaire from the form list 
 
-**User Story: (4C)** 
+**Notifications (4C)** 
 
 > As a Veteran, I want to be notified in advance of my health care visit that a questionnaire is needed to be completed, so that I don't have to fill it out in the waiting room and can complete when convenient and relevant for me.
 
  13. VAOS Appointment List - link for Veteran to select to launch the questionnaire for that encounter.
  14. Email Appointment Confirmation -  VAOS/CPRS - sends an email confirmation of appointment booked - show link to clipboard that is due for the visit.
 
-**User Story: (4D)**
+**Notifications (4D)**
 
 > As a Veteran, I want to be  notified in a similar or the same appointment reminder that I receive today, so that the questionnaire is in context of the visit I am planning to attend.
 
  15. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
 
- 
-### Ability to complete form with and without authentication
-_User Story: (4B)_
+**Do not require a Login  (4B)**
 
 > As a Veteran, I want to have an easy and seamless experience in filling out questionnaires that do not require me to login as I often do not have access to my medical information given the current authentication process to verify my identity.
 
