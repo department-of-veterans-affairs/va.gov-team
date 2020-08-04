@@ -9,6 +9,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
+- List of keywords
 
 ------
 
