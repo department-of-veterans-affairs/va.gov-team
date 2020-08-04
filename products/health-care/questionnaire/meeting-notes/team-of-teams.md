@@ -1,10 +1,10 @@
 ## Team of Teams
 
 August 2020
-- [8/4]( )
-- [8/11]( )
-- [8/18]( )
 - [8/25]( )
+- [8/18]( )
+- [8/11]( )
+- [8/4](https://drive.google.com/file/d/1wa0av_riHEbdGTBo4ya6-2XDpPx4_XAz/view?usp=sharing)
 
 July 2020
 - [07/28](https://drive.google.com/open?id=15UHjA9J7bo_oJg3rbqaJq2gsjXexLyF5)
