@@ -48,7 +48,7 @@ These issues have the potential to cause life-threatening situations and should 
 
 **❗️ Critical. Must be fixed before launch.**
 
-These issues have the potential to severly disrupt the user experience and must be fixed before VSP will certify a staging accessibility review.
+These issues have the potential to severely disrupt the user experience and must be fixed before VSP will certify a staging accessibility review.
 
 #### Types of issues:
 
