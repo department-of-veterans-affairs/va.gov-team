@@ -33,9 +33,9 @@ Tables that are missing table headers can be remediated in Microsoft Word (prefe
 
 Table header rows can be defined in a few steps:
 
-1. Click the `Table Design` tab
+1. Click the **Table Design** tab
 2. Click on the table you want to add a header row
-3. Check the `Header Row` checkbox
+3. Check the **Header Row** checkbox
 
 ![Header row checkbox is checked under MS Word Table Design tab](https://user-images.githubusercontent.com/934879/88830927-3ef79780-d194-11ea-815b-9a82dd3a045e.jpg)
 
@@ -43,12 +43,12 @@ Table header rows can be defined in a few steps:
 
 ### Define table headers in Adobe Acrobat Pro
 
-1. Open the `Tags` navigation pane. This can be accessed by clicking View > Show/Hide > Navigation Panes > Tags or clicking the Tag icon on the left tray of the Adobe Acrobat window.
-2. Click `Tags` to expand your document tag tree
-3. Click `<Table>` to expand the tree for the table you want to update
+1. Open the **Tags** navigation pane. This can be accessed by clicking View > Show/Hide > Navigation Panes > Tags or clicking the Tag icon on the left tray of the Adobe Acrobat window.
+2. Click **Tags** to expand your document tag tree
+3. Click **\<Table>** to expand the tree for the table you want to update
 4. Click the first TD icon to highlight the first cell in your table
-5. Click `<TD>` in the Tags inspector to edit the tag. Change it to a `<TH>` and press `ENTER`. The tag icon will change slightly to a red cell inside a table. This confirms your cell has been updated to a table header.
-7. Repeat steps 4 and 5 to update all cells on the first row to be table headers.
+5. Click **\<TD>** in the Tags inspector to edit the tag. Change it to a **\<TH>** and press **ENTER**. The tag icon will change slightly to a red cell inside a table. This confirms your cell has been updated to a table header.
+6. Repeat steps 4 and 5 to update all cells on the first row to be table headers.
 
 ![Use the Tags inspector to edit the first row of TD cells and change them to TH cells](https://user-images.githubusercontent.com/934879/88831055-66e6fb00-d194-11ea-8d97-b538257073bc.jpg)
 
@@ -56,7 +56,7 @@ Table header rows can be defined in a few steps:
 
 ### Microsoft Word accessibility panel
 
-We recommend you check your Microsoft Word document for accessibility while working. Click the `Review` tab, then click the `Check Accessibility` button to open the Accessibility Checker panel.
+We recommend you check your Microsoft Word document for accessibility while working. Click the **Review** tab, then click the **Check Accessibility** button to open the Accessibility Checker panel.
 
 ![Click the Review tab in Word, then click the Check Accessibility button](https://user-images.githubusercontent.com/934879/88831092-7a926180-d194-11ea-8b71-dce1300deb2d.jpg)
 
@@ -64,7 +64,9 @@ We recommend you check your Microsoft Word document for accessibility while work
 
 ### Acrobat Pro accessibility tools
 
-Run the Acrobat Accessibility Checker by clicking the purple `Accessibility` button on the top right of your application window. Click `Accessibility Check` in the accessibility panel, then click the `Start Checking` button. This will run the accessibility checker, and report any issues in a panel on the left of your document.
+1. Run the Acrobat Accessibility Checker by clicking the purple **Accessibility** button on the top right of your application window. 
+1. Click **Accessibility Check** in the accessibility panel.
+1. Click the **Start Checking** button. The panel on the left of your document will report any issues.
 
 ![Table checks are included in the Adobe Acrobat accessibility checker](https://user-images.githubusercontent.com/934879/88831143-8b42d780-d194-11ea-9b4f-3aab13deb3c1.jpg)
 
