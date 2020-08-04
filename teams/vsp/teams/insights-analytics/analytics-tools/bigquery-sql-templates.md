@@ -98,6 +98,25 @@ ORDER BY
   9 DESC
 ```
 
+### Scroll Depth Tracking
+```sql
+#standardSQL
+SELECT
+  date,
+  h.eventInfo.eventLabel,
+  COUNT(1) Total_Events,
+  count(distinct CONCAT(COALESCE(fullVisitorId, ''), ':', COALESCE(CAST(visitId AS STRING), ''))) as unique_events 
+FROM
+  `176188361.ga_sessions_2020*` as GA,
+  GA.hits h
+WHERE
+  _TABLE_SUFFIX = '0801'
+  AND h.type='EVENT'
+  AND h.eventInfo.eventAction = 'Scroll Depth'
+  AND REGEXP_CONTAINS(h.page.pagePath,'^XXXX*')
+GROUP BY
+  1,2
+```
 
 ### Time to Complete - WIP
 ```sql
