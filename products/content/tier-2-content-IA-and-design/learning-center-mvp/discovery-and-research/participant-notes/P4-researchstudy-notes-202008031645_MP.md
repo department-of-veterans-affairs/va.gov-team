@@ -1,4 +1,4 @@
-# # Learning Center user research
+# Learning Center user research
 
 Participant 4
 
