@@ -23,6 +23,7 @@
 - Prefer more, smaller PRs to fewer, larger PRs.
    - Smaller PRs are easier to review
    - It's a good idea to check and see how much code you've written for a ticket as you go, and keep note of good places to divide up your changes
+   - Try to put refactoring or unrelated improvements in separate PRs, rather than folding them into feature work
    - If a ticket is just too big, work with the team to break it into smaller tickets
    - Ideally, 300 lines of changes is a good size, but we do often see 600-700 line PRs. Over 1000 lines of changes should always prompt team members to help think of ways of breaking the work down, now or in the future.
 
