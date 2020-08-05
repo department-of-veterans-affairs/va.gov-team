@@ -8,12 +8,17 @@ VistaLink is the most flexible API that connects to VistA, it uses RPC calls.
 
 - VaText, VDIF, VAMF, are Rest APIs with limited write capability. 
 - VAMF behind the scences uses wrappers for VIA and VistaLink.
+- VAMF is able to access the Patient Generated Data (PGD). 
+- VAMF can have a proxy where it is able to write data on behalf of a veteran where staff authorization would otherwise be needed
+- CPRS does not access PGD
 - VIA is an older SOAP based API that uses WebLogic. 
+
 
 ## Chief Complaint Field
 
 - To import PDF files into VistA, VistaImage could be used https://www.va.gov/health/imaging/
-- A better approach seems to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui.  
+- A better approach seems to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. 
+- Staff permissions are needed to write to VistA using VAMF so the best approach currently to investigate is to write to PGD using VAMF and a proxy.
 
 ## Discreet Fields
 
@@ -21,7 +26,8 @@ VistA has many thousands of different record types but adding a new record type 
 
 - Since a VistA note record type is free flowing text, it is quite common to store field values in this text that can be parsed out and this is already being done.
 - VistA note records can be modified after they have been signed
-- This simple approach seems to make sense as long as one veteran record is processed at a time. There would be no query like functionality to find all veterans with certain field values etc
+- This simple approach seems to make sense as long as one veteran record is processed at a time. There would be no query like functionality to find all veterans with certain field values etc.
+- Currently however, we have no means of writing to VistA due to permissions/authorizations and are exploring writing to PGD
 
 ## Connecting to VistALink
 
