@@ -6,10 +6,7 @@
 ---
 
 #### Background
-VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
-
-## Table of contents
---Content--
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
 
 ### Goals
 Our primary goal is to determine user acceptance of the new implementation of the 21-686c (686) form on VA.gov. 
@@ -19,6 +16,16 @@ Can users quickly and easily add and/or remove dependents from their disability 
 
 ### Method
 We will engage in moderated User Acceptance Testing (UAT) conducted remotely using Zoom. Veterans with a need to add or remove dependents from their disability claims will be recruited, and will be given access to the new 686. Participants will use the form to apply to have their dependents changed. Remote observers and note takers may be in attendance.
+
+#### Success crieteria
+
+Users will:
+- Enter the form
+- Select the desired form actions (workflows)
+- Navigate the form
+- Upload documents as needed
+- Review and submit form
+- Form will successfully submit to BGS for processing
 
 #### The process
 
