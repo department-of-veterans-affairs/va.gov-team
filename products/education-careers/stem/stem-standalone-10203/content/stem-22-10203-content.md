@@ -1,7 +1,9 @@
 # VA Form 22-10203: Edith Nourse Rogers STEM Scholarship Application 
 
 Tablet/desktop:  
-Breadcrumb: [Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > **Apply for the Edith Nourse Rogers STEM Scholarship**  
+**NEW Breadcrumb** (updated 8/5/2020): [Home]() > [Education and training]() > [How to apply]() > Apply for the Edith Nourse STEM Scholarship
+
+OLD BREADCRUMB: [Home]() > [Education and training]() > [Other VA education benefits]() > [Edith Nourse Rogers STEM Scholarship]() > Apply for the Edith Nourse Rogers STEM Scholarship
 
 
 Mobile breadcrumbs show only the title of the previous page linked: < [Edith Nourse Rogers STEM Scholarship]() 
