@@ -1,7 +1,7 @@
 # Sprint 27
 
 ## Front end
-- [ ] Research loading spinner on submission page
+- [ ] [Research loading spinner on submission page] (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12086)
 - [ ] [Cypress end-to-end testing](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11777)
 - [ ] [Error override implementation (+ screen focus)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9437)
 - [ ] [Documentation for error override enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10528)
@@ -12,20 +12,21 @@
 
 ## Back end
 - [Send CARMA the claim's guid](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11204)
-- Allowing the user to print the PDF
-- GA event for failures
+- [Allow the user to print the PDF](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12088)
+- [GA event for failures](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12089)
 - [Backend toggles](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11835)
 - [Signature field on the PDF](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11536)
 - [Name of the facility PDF generation](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11429)
 - [Salesforce downtime ( + talk to Ranga)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11774)
 
 ## Design
-- Look into 10-10EZ address field work
-- Revise error message prototype based on final content revisions
+- [Look into 10-10EZ address field work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11939)
+- ~Revise error message prototype based on final content revisions~
+- [Look into submit button root cause and understand if it can be fixed for the 10-10CG](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11594)
 
 
 ## Content
-- Product Guide revisions
+- [Product Guide revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12091)
 - [Error message revisions](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11850)
 
 
@@ -47,5 +48,6 @@ Currently happening:
 1. QA & done
 
 ## 2. Any concerns over the new sprint calendar?
+- No!
 
 
