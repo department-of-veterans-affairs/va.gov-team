@@ -21,11 +21,11 @@ I have a few things I need to mention before we start:
 
 ## Warm-up/screening
 
-OK,let's get started.
+OK, let's get started.
 
-First, can you tell me a little bit about yourself and your experience with VA? (If stuck, prompt to ask about service experience, where they live, their work).
+First, can you tell me a little bit about yourself and your experience with VA? (If stuck, prompt to ask about service experience, where they live, their work, etc.).
 
-You'll be working with a new feature we have on VA.gov: VA form 21-686c, the one you use to add or remove dependents from your disability claim. I have a few questions to be sure this form is right for you:
+You'll be using a new feature we have on VA.gov: VA form 21-686c, the one you use to add or remove dependents from your disability claim. I have a few questions to make sure this form is right for you:
 - I need to confirm: do you have at least a 30% disability rating with VA?
   - If the user does not have at least a 30% disability rating, end the session.
 - Can you confirm for me that you have a DS Logon, MyHealtheVet, or ID.me account? And do you know your username and password? 
@@ -46,8 +46,35 @@ Today we are going to observe you completing a 21-686c. We're nopt recording thi
 
 OK, please share your screen, and then we will get started.
 
-## UAT tasks
---Content--
+## UAT testing of 21-686c
+
+- Please open a new tab in your browswer, go to va.gov/view-change-dependents/add-remove-form-686c/introduction and sign in.
+  - [ ] **UAT item:** After login, intro screen allows access.
+  - [ ] **UAT item:** Confirm that they are LOA3. If they see a "Verify your identity" prompt. they are not LOA3, **end the session**.  
+- Review the steps to add or remove a dependent. 
+  - [ ] **UAT item:** Screen makes green add/remove button available.
+  - [ ] **UAT item:** User clicks green button to enter form.
+- Make selection(s) to add or remove dependents
+  - [ ] **UAT item:** Checkboxes function, selection(s) made.
+- Review Veteran Information
+  - [ ] **UAT item:** Screen presents correct user data.
+- Review contact information
+  - [ ] **UAT item:** Address, phone and email are pre-filled.
+  - [ ] **UAT item:** User makes any necessary corrections and proceeds.
+- User completes required form fields for chosen workflow(s)
+  - [ ] **UAT item:** Form fields function properly.
+  - [ ] **UAT item:** required form fields display error states when left incomplete or are completed improperly.  
+  - [ ] **UAT item:** Form advances correctly.
+  - [ ] **UAT item:** User can backtrack through form as needed.
+- User can locate and upload documentation required by particular workflows/situations.
+  - [ ] **UAT item:** File finder window opens when upload documents button is clicked.
+  - [ ] **UAT item:** User can locate and select file(s).
+  - [ ] **UAT item:** Selected files are uploaded.  
+- Review information eneter in this form.
+  - [ ] **UAT item:** Accordioans are present and contain correct information.
+  - [ ] **UAT item:** Edit function allows corrections.
+- Review privacy statement and submit the form.
+  - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
 
 ## Wrap-up
 --Content--
