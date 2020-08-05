@@ -87,6 +87,18 @@ As a Veteran, I want to provide my my care team with what is important to me to 
  
 
 
+---
+| Issue #                                             | Design     | User Testing | Accessability  | QA - Test Case  | Launch    | Notes 
+| --------------------------------------------------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
+| [#12102 Super Epic Visit Intro Initiative (Proof of Concept)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12102)             |   Q3 2020             |           | 
+| Epic-Issue #                                |                 |              |                |                 |           | 
+| Epic-Issue #                                |                 |              |                |                 |           | 
+| Epic-Issue #                                |                 |              |                |                 |           | 
+
+
+* Instructions to access in Staging
+_Note: credentials should be stored in sensitive repos only_
+
 
 
 
