@@ -103,10 +103,10 @@ We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 m
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-August 13: 10:00am - 5:00pm EST
-August 14: 10:00am 10:30am EST; 11:30am - 5:00pm EST
-August 17: 10:00am - 4:00pm EST
-August 18: 10:00am - 5:00pm EST
+- August 13: 10:00am 12:00pm; 1:00pm - 5:00pm EST
+- August 14: 10:00am 10:30am EST; 11:30am - 5:00pm EST
+- August 17: 10:00am - 4:00pm EST
+- August 18: 10:00am - 5:00pm EST
 
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
