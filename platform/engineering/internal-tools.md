@@ -118,7 +118,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
      2048 SHA256:ShkbdHKQqDwgONLv8/1qiYlX20kX9IPp3uV56ATp3c8 
      /home/user/.ssh/id_rsa_vagov (RSA)
      ```
-   - **PLEASE NOTE** Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Windows users using Git Bash](https://stackoverflow.com/questions/18404272/running-ssh-agent-when-starting-git-bash-on-windows#:~:text=In%20a%20git%20bash%20session,t%20exist%2C%20just%20create%20it.) to automate this process.
+   - \***PLEASE NOTE:**\* Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Windows users using Git Bash](https://stackoverflow.com/questions/18404272/running-ssh-agent-when-starting-git-bash-on-windows#:~:text=In%20a%20git%20bash%20session,t%20exist%2C%20just%20create%20it.) to automate this process.
 
 If all prior steps have been successful, return to [Additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#authorizekeys) and request that your SSH keys be authorized.
 
@@ -152,7 +152,7 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
     * This subdirectory has restrictive permissions `0700`
     * In this subdirectory you will have two files, `id_rsa_vagov` and `id_rsa_vagov.pub`
     * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vagov.pub`. This should give a long string of random characters (e.g. ssh-rsa AAAAAjfje983jJL3j2....).
-    * **PLEASE NOTE** Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Mac users](https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically) to load their desired key(s) automatically.
+    * \***PLEASE NOTE:**\* Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Mac users](https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically) to load their desired key(s) automatically.
     * Got it? Return to [Additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#authorizekeys) and request that your SSH keys be authorized.
 
 ## Configure the SOCKS proxy
