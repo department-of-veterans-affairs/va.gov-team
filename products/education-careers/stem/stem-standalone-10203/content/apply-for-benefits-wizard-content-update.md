@@ -9,7 +9,7 @@
 * Updating my program of study or place of training
 * Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship { radio button triggers "Apply now" button and displays eligibility criteria below }
 
-{ eligibility criteria displays when STEM radio button is selected }
+{ eligibility criteria displays when STEM radio button is selected - this is the content that is changing }
 
 **To be eligible for the [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp), you must meet all the requirements below.** { content is **semi-bold** }   
 
