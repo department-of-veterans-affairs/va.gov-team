@@ -1,7 +1,7 @@
 # Sprint 27
 
 ## Front end
-- [ ] [Research loading spinner on submission page] (https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12086)
+- [ ] [Research loading spinner on submission page](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12086)
 - [ ] [Cypress end-to-end testing](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11777)
 - [ ] [Error override implementation (+ screen focus)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/9437)
 - [ ] [Documentation for error override enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/10528)
