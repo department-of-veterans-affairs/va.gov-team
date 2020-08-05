@@ -10,7 +10,7 @@
 | Accessibile PDF created for users | In progress       |
 | Feature toggle testing  | To do     |
 | Product guide and video complete | In progress      |
-| Google Analytics dashboard created and shared with program team   | In progress     |
+| Google Analytics dashboard created   | In progress     |
 | Staging Review | In progress      |
 | Contact Center Review   | Not started    |
 | Check in with Privacy/Security | Not started      |
