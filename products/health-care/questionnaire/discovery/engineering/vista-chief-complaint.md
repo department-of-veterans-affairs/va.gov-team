@@ -36,6 +36,7 @@ VistA has many thousands of different record types but adding a new record type 
 - VistALink is accessed using RPC. Java may have libraries for RPC
 - JRuby can also run on the Java JVM and should be able to access the same Java RPC libraries
 - There is a VistALink sandbox that requires using Azure Commercial Cloud https://github.com/WorldVistA/VistA-in-the-Cloud
+- These notes regarding VistaLink are academic until actual means of writing to VistA become available, which possibly they will not.
 
 ## VAOS
 
