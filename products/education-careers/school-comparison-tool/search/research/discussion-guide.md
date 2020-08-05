@@ -17,6 +17,13 @@ Are you comfortable if I record the screen and audio as we talk today? We use th
 Start recording.
 - 	I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?
 
+## Mobile ##
+
+iOS Screen Sharing:
+https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing
+
+Link 2:
+https://it.umn.edu/services-technologies/how-tos/zoom-share-computer-sound-during-screen#Sharing-iOS-Zoom-App
 
 ## Warm-up Questions - 5 minutes
 
