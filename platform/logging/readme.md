@@ -9,10 +9,9 @@ Logs on VSP are currently viewable in AWS Cloudwatch. For access, [file a ticket
 ## Documentation
 
 * [GitHub - grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki)
-
-TODO: add user docs about logging from FE + BE
-TODO: add user docs about accessing view + logs
-TODO: add user docs about PII and logging restrictions
+* TODO: add user docs about logging from FE + BE
+* TODO: add user docs about accessing + viewing logs
+* TODO: add user docs about PII and logging restrictions
 
 ------
 
