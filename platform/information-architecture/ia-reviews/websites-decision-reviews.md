@@ -143,7 +143,7 @@ Please submit a request for the redirect using the [Redirect Request Issue Templ
 ### Additional Notes/Recommendations
 
 **4/20/2020 - Stakeholder requests**
-- Stakeholders requested entry points to DR content in each of the benefit hubs - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8094
+- Stakeholders requested entry points to DR content in each of the benefit hubs - https://github.com/department-of-veterans-affairs/va.gov-team/issues/8276
 - Stakeholders indicated that the legacy board appeal page should be maintained
 
 **4/9/2020 - Staging Review**
