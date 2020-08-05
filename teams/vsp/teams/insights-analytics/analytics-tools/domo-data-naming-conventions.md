@@ -15,4 +15,12 @@ Search time results are connected from Google Analytics. This particular dataset
 
 `facility locator - search time - GA`
 
+---
+
+If the dataset is more generic/can be used for multiple dashboards, we can leave out the `dashboard or VFS team name`
+
+`search time - GA - BigQuery`
+
+`all page views - GA - BigQuery`
+
 **This may change when we switch over to BigQuery.*
