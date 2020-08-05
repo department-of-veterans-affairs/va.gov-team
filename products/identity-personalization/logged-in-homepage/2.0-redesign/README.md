@@ -52,7 +52,7 @@ This is part of the [Personalization 2.0 strategy from 2019](https://github.com/
 
 Based on the research that informed [the Personalization 2.0 strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md#observations-the-my-va-dashboard), these are the main problems we've observed with regards to the My VA dashboard and the existing logged-in homepage.
 
-- People don't use — or even know about — the My VA dashboard.
+- Many people don't use the My VA dashboard (~8% of users who visit va.gov go to MyVA) .
 - We don't guide people to the My VA dashboard.
 - The My VA dashboard is too duplicative of the homepage.
 - People prefer the homepage over the My VA dashboard because it is a more effective router, and because it has a more appealing visual design.
