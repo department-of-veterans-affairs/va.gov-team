@@ -91,34 +91,38 @@ We will work with Perigean to recruit for this study.
 
 1.	**Timeline: What dates do you plan to do research?**
 
-We are looking to start sessions **TBD**.
+We are looking to start sessions **August 13th**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-The Debt Letters MVP will be live on production behind a feature flag on **TBD**.
+The Debt Letters MVP will be live on production behind a feature flag on **August 11th**.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
-We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 minutes with a 30 minute buffer between sessions**.
+We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 minutes with a 15 minute buffer between sessions**.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?**
 
-The team is determining who will be moderating the sessions. Availability TBD.
+August 13: 10:00am - 5:00pm EST
+August 14: 10:00am 10:30am EST; 11:30am - 5:00pm EST
+August 17: 10:00am - 4:00pm EST
+August 18: 10:00am - 5:00pm EST
+
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-- **TBD**
+- **Brad Conley, August 12, 3:00pm - 3:30pm EST**
 
 ## Team Roles
 **Please list the people who will be serving in each role.**
 
-- **Moderator**: TBD
+- **Moderator**: Riley Orr
 - **Research guide writing and task development**: Riley Orr
 - **Participant recruiting & screening**: Perigean
 - **Project point of contact**: Riley Orr, Rebecca Walsh, or Leah Keeler 
-- **Participant(s) for pilot test**: TBD
+- **Participant(s) for pilot test**: Brad Conley
 - **Note-takers**: TBD
-- **Observers**: TBD
+- **Observers**: Rebecca Walsh, Leah Keeler, Matthew Self, Brad Conley, Cameron Testerman, Jill Anderson, additional DMC personnel 
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
@@ -128,9 +132,9 @@ The team is determining who will be moderating the sessions. Availability TBD.
 - Matthew Self 
 - Brad Conley 
 - Cameron Testerman
-- DMC and VBMS folks TBD
+- Jill Anderson (jill.anderson3@va.gov) 
 
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp) 
-- [Conversation Guide] (TBD)
+- [Conversation Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/research/uat-aug20/conversation-guide.md)
 - Notes (TBD)
