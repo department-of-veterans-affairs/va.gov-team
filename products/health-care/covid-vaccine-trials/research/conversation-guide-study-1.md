@@ -115,7 +115,7 @@ If needed:
   - What else would you want to know about providing this information? 
   - What else would be helpful to tell you at this point in the process? 
 
-**Prompt 3 - contact info page**
+**Prompt 3** - contact info page
 
 - What is this page asking you to do?
   - Why do you think VA is asking for this information? 
