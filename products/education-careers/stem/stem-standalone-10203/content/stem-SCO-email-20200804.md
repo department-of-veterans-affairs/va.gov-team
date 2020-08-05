@@ -2,11 +2,11 @@
 
 Dear VA School Certifying Official, 
 
-A student enrolled at your school has applied for the Edith Nourse Rogers STEM Scholarship.  They will also receive a copy of this letter. We aren’t able to make a formal determination on this student’s eligibility for the STEM Scholarship until we receive the following information from you. 
+A student enrolled at your school has applied for the Edith Nourse Rogers STEM Scholarship.  The student will also receive a copy of this letter. We can't make a formal determination on the student’s eligibility for the STEM Scholarship until we receive the following information from you. 
 
 #### Rogers STEM Scholarship Applicant
 
-> Name of Student: <<full name from application or f-initial name?>>
+> Student's name: <<full name from application or f-initial name?>>
 >
 > Student’s school email address: <<prefill, if provided>>
 >
@@ -29,14 +29,13 @@ If the student already has an undergraduate degree and is seeking a teaching cer
 - 6-digit CIP Code of degree conferred: 
 - Is the student currently enrolled in a program leading to a teaching certification?: 
 
-**A reply is requested as soon as possible, preferably within 14 days**. Please submit your response to STEM.VBABUF@va.gov. If we don’t receive a response within that time, we won’t be able to process the student’s application for the Rogers STEM Scholarship. 
+**A reply is requested as soon as possible, preferably within 14 days**. Please submit your response to [STEM.VBABUF@va.gov]. If we don’t receive a response, we won’t be able to process the student’s application for the Rogers STEM Scholarship, and we may follow up for the required information. 
 
-Please submit any questions or concerns to STEM.VBABUF@va.gov.  Please account for the 14-day time limit when submitting these questions.  
+Please submit any questions or concerns to [STEM.VBABUF@va.gov].  Please account for the 14-day time request when submitting these questions.  
 
 Thank you, 
 
 Rogers STEM Scholarship Team 
-
 VA Buffalo Regional Processing Office
 
 
