@@ -1,4 +1,4 @@
-# Learning Center user research template
+# Learning Center user research
 
 Participant 15?
 
