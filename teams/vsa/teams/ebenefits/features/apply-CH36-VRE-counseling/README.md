@@ -36,7 +36,7 @@
 
 ## Abstract
 
-Veterans and related claimants can apply for "Chapter 36" benefits, or Education and Career Counseling benefits, through the TED (Transition and Economic Development) Office. This is a very simple application for which we should attempt to prefill all possible fields.
+Veterans and related claimants can apply for "Chapter 36" benefits, or Education and Career Counseling benefits, through the OTED (Office of Transition and Economic Development). This is a very simple application for which we should attempt to prefill all possible fields.
 
 ## User Problem Statement
 
@@ -50,7 +50,7 @@ eBenefits, in its current legacy state, is no longer the best version of what ca
 
 ### Business Goals
 
-- Deprecate eBenefits, meet TED office goals of better online submissions
+- Deprecate eBenefits, meet OTED office goals of better online submissions
 
 ## Assumptions
 
