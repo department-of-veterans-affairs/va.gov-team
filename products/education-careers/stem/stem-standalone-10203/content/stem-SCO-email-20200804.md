@@ -1,4 +1,4 @@
-**Email subject:** VA Rogers STEM Scholarship - Applicant Verification
+**Email subject:** Applicant for VA Rogers STEM Scholarship
 
 Dear VA School Certifying Official, 
 
