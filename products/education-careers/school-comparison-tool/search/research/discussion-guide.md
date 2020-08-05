@@ -38,57 +38,57 @@ When you think aloud, it helps us understand what works well and where we might 
 
 I'm going to give you control of my screen & mouse. I'll pass control to you and you should receive a message that prompts you to control the screen. 
 
-## First Task: Finding a School - 15 minutes
+# Option 1 #
+## First Task: Finding Schools and Filtering - 15 minutes (Staging)
 
 **Part 1**
 Let's go back and time and pretend that you are considering attending **Participant-Named University** and are curious if the Comparison Tool has information on that school. How would you find out what information the Comparison Tool has on that school?
-
-**Part 2** 
-Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
 
 Things to watch for:
   - Does the user use the autocomplete functionality or search?
   - How many times does the user adjust their search criteria before they get what they want?
   - How does the user change their search?
+  
+**Part 2** 
+Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
+
+Things to watch for:
+  - How does the user change their search?
   - Does the user change the filters?
     - If yes, which ones?
+  - How many times does the user adjust their search criteria before they get what they want?
   - Does the user open the additional information components?  If yes, which ones?
-    
   
   Upon completion of the task:
   - How did you think that went? 
   - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task? 
   - What did you think of the filters?  Which ones would be most useful to you?
-  - Of the filter options for religious affiliation, special mission and gender, which ones would you be most likely to use?
-
-
-## Second Task: Filter - 10 minutes
-
-You've just learned that you received a scholarship for any school in Georgia that is **Insert preferred filter option**.  How would you go about finding schools that meet that criteria?
-
-Things to watch for:
+  
+ **Part 3**
+ Of the filter options for religious affiliation, special mission and gender, which ones would you be most likely to use?  
+ 
+ You've just learned that you received a scholarship for any school in Georgia that is **Insert preferred filter option**.  How would you go about finding schools that meet that criteria?
+ 
+ Things to watch for:
   - How does the user change their search?
   - Does the user change the filters?
     - If yes, which ones?
   - How many times does the user adjust their search criteria/filters before they get what they want?
   - Does the user find what they want on the search results page or do they go to the school profile page?
   - Does the user open the additional information components?  If yes, which ones?
-    
+  
   
   Upon completion of the task:
   - How did you think that went? 
-  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task? 
   - What did you think of the filter tags?  Which filters do you think have tags?
-
+  
 # Switch environments #
 
-## Third Task: Acronym/Nickname School - 10 minutes
+## Second Task: Acronym School and Filtering - 10 minutes (Production)
 
 **Part 1**
 Let's say you've heard good things about the programs at MIT, otherwise known as Massachusetts Institute of Technology.  How would you go about finding that school on the Comparison Tool?
-
-**Part 2** 
-You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
 
 Things to watch for:
   - Does the user use any filters or change their search criteria?
@@ -96,13 +96,93 @@ Things to watch for:
   - Did the user input the acronym for MIT?  If so, how did they react to the results?
   - How many times does the user adjust their search criteria before they get what they want?
 
-**Upon completion of task:** 
+**Part 2** 
+You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
+
+Things to watch for:
+  - Does the user use any filters or change their search criteria?
+  - What, if any, filters do they use?
+  - How many times does the user adjust their search criteria before they get what they want?
+  
+**Part 3**
+Let's say you've recently moved to the upper east side of Manhattan in New York City.  You don't have a car and would like to either bike or walk to school if possible.  How would you find out what schools are in your area?
+
+
+Things to watch for:
+  - Does the user use any filters or change their search criteria?
+  - What, if any, filters do they use?
+  - How many times does the user adjust their search criteria before they get what they want?
+
+Upon completion of task:
 - How did you think that went? 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
 
-## Fourth Task: Location/ZIP Code Test - 5 minutes
+# Option 2 #
 
-Let's say you've recently moved to the upper east side of Manhattan in New York.  You don't have a car and would like to either bike or walk to school if possible.  How would you find out what schools are in your area?
+## First Task: Finding a School and Filtering - 10 minutes (Production)
+
+**Part 1 - ** 
+
+Let's go back and time and pretend that you are considering attending **Participant-Named University** and are curious if the Comparison Tool has information on that school. How would you find out what information the Comparison Tool has on that school?
+
+Things to watch for:
+  - Does the user use the autocomplete functionality or search?
+  - How many times does the user adjust their search criteria before they get what they want?
+  - How does the user change their search?
+  
+**Part 2- ** 
+
+Upon additional research into said school, you decided that the school wasn't for you.  However, you really like the area and are curious what other options are available to you.  How would you go about identifying other schools in that area?
+
+Things to watch for:
+  - How does the user change their search?
+  - Does the user change the filters?
+    - If yes, which ones?
+  - How many times does the user adjust their search criteria before they get what they want?
+  - Does the user open the additional information components?  If yes, which ones?
+  
+  Upon completion of the task:
+  - How did you think that went? 
+  - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task? 
+  - What did you think of the filters?  Which ones would be most useful to you?
+  
+  
+ **Part 3- **
+ 
+ Have you ever considered going to a school that was gender-exclusive, had a religious affiliation or special mission (like Historically Black colleges)?
+  - If yes, have you ever conducted a search for those?  What did you do?
+  - If not, how would you go about searching for schools like that?
+ 
+
+ Things to watch for:
+  - Does the user look for any filter options to help them with these?
+  
+ ## Second Task: Acronym School and Filtering - 10 minutes (Staging)
+
+**Part 1 - **
+
+Let's say you've heard good things about the programs at MIT, otherwise known as Massachusetts Institute of Technology.  How would you go about finding that school on the Comparison Tool?
+
+Things to watch for:
+  - Does the user use any filters or change their search criteria?
+  - What, if any, filters do they use?
+  - Did the user input the acronym for MIT?  If so, how did they react to the results?
+  - How many times does the user adjust their search criteria before they get what they want?
+
+**Part 2 -** 
+You like MIT, but have some concerns over expenses.  You would like to broaden your search to any schools in Massachusetts that are Public Institutions and have the Yellow Ribbon program.  How would you go about doing this?
+
+Things to watch for:
+  - Does the user use any filters or change their search criteria?
+  - What, if any, filters do they use?
+  - How many times does the user adjust their search criteria before they get what they want?
+  
+  **Upon completion of task:** 
+   - How did you think that went? 
+   - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
+  
+**Part 3 -**
+Let's say you've recently moved to the upper east side of Manhattan in New York City.  You don't have a car and would like to either bike or walk to school if possible.  How would you find out what schools are in your area?
 
 _Prompt after user tells what they would do_  Let's say your ZIP code is 10021.  Would that help your search?
 
@@ -110,11 +190,12 @@ Things to watch for:
   - Does the user use any filters or change their search criteria?
   - What, if any, filters do they use?
   - How many times does the user adjust their search criteria before they get what they want?
+  - Does the user try the zip code after being prompted?
 
 **Upon completion of task:** 
 - How did you think that went? 
 - On a scale of 1 to 5 where 1 is very hard and 5 is very easy, how would you rate this task?
-
+ 
 
 ## Post-Task Interview - 5 minutes
 
