@@ -255,7 +255,6 @@ Tressa & Cassandra
 
 ### Direct deposit
 
-- Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 - Figure out why it appears we are sending more direct deposit confirmation emails than there are direct deposit submissions #11528 (unless this is already done)
 
 ### Onboarding Cassandra
@@ -291,6 +290,10 @@ Design
 Dev
 - How are we going to build the logged-in homepage? #10256
 - Beta/opt-in technical discovery/scoping #10476
+
+### Direct deposit
+
+- Determine level of effort for integrating with BGS CH33 DDEFT Services #11545
 
 ## Sprint 29 (8/26 – 9/8)
 
