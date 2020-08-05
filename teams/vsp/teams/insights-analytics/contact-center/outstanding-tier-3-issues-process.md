@@ -1,4 +1,4 @@
-# Process for Outstanding Tier Three Issues	
+# Outstanding Tier Three Issues	Process
 
 Currently there are multiple outstanding tier 3 issues in ZenHub.  Anoutstanding issue is any issue that has not been addressed within 30 days.  The majority of the issues lies with the Benefits and Memorials team.  The process below has been agreed upon by both Contact Center Leads and the BAM1 Product Manager.
 
