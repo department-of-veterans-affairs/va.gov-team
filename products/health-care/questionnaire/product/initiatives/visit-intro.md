@@ -74,35 +74,14 @@ As a Veteran, I want to provide my my care team with what is important to me to 
  15. Text Appointment Reminder - VeText - show link to clipboard that is due for the visit
 
 
-
-### Feature Outlines 
- 1. [This Visit Questions Feature Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)
- 2. Authentication
- 3. Notifications
- 4. VAOS- appt details and list
- 5. Profile/MPI
- 6. Questionnaires List 
- 7. CPRS Data Integration
-
- 
-
-
 ---
-| Issue #                                             | Design     | User Testing | Accessability  | QA - Test Case  | Launch    | Notes 
-| --------------------------------------------------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
-| [#12102 Super Epic Visit Intro Initiative (Proof of Concept)](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/12102)             |   Q3 2020             |           | 
-| Epic-Issue #                                |                 |              |                |                 |           | 
-| Epic-Issue #                                |                 |              |                |                 |           | 
-| Epic-Issue #                                |                 |              |                |                 |           | 
-
-
-* Instructions to access in Staging
-_Note: credentials should be stored in sensitive repos only_
-
-
-
-
-
-
-
-
+| Initiative Name | Issue # | Design     | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
+| ---------------------------------------------------| ---------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
+|[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) | D  |  U   | A | Q |Q3 2020| N |
+| [Feature: This Visit Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md)                               |   [#12110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12110) | D  |  U   | A | Q |Q3 2020| N |
+| [Feature: Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/authentication.md)                             |      [#12114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)  | D  |  U   | A | Q |Q3 2020| N |
+| Feature: Notifications                       |                 | D  |  U   | A | Q |Q3 2020| N |
+| Feature: VAOS- appt details and list                            |                | D  |  U   | A | Q |Q3 2020| N |
+| Feature: Profile/MPI                          |                 | D  |  U   | A | Q |Q3 2020| N |
+| [Feature: Questionnaires List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/questionnaires-list.md)                         |          [#12115](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12114)      | D  |  U   | A | Q |Q3 2020| N |
+| Feature: PGD Data Integration                           |                 | D  |  U   | A | Q |Q3 2020| N |
