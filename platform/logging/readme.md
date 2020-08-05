@@ -1,34 +1,27 @@
-# Loki Product Brief (WIP)
+# Logging (WIP)
 
-### What is it?
+Logs on VSP are currently viewable in AWS Cloudwatch. For access, [file a ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) using "Environment Access Request Template".
 
-Loki is a tool that we will be using to replace Cloudwatch as our logging solution. This will be accessed through Grafana using the SOCKS proxy. 
-
-Loki documentation: [GitHub - grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki)
-
-### How does it work?
-
-Loki, works by using fluentd logging driver in ECS that gathers and sends logs to Loki for storing logs and processing queries. Grafana is then used for querying and displaying those logs.
+**Coming Soon**: Logging will be accessible in [Grafana](http://grafana.vfs.va.gov/), accessed through the SOCKS proxy. 
 
 ------
 
-### Product documentation
+## Documentation
 
-For more information please see: [Logging folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/logging) and Design doc TBA. 
+* [GitHub - grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki)
 
-Note: need to add user docs here as well.
+TODO: add user docs about logging from FE + BE
+TODO: add user docs about accessing view + logs
+TODO: add user docs about PII and logging restrictions
+
 ------
 
 ### Point of contact
 
-Any question about Loki should be directed the the #vfs-platform-support channel and one of the Operations teams can help.
+* Slack channel: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 
 ------
 
-### Examples or references of usage
-
-------
-
-### Version Notes
+### Examples
 
 ------
