@@ -12,7 +12,7 @@ Cypress replaces the VA.gov Platform's previous use of Nightwatch. Frontend deve
 
 ### Product documentation
 
-- [How to migrate tests to Cypress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/cypress-migration-guide.md)
+- [How to migrate tests to Cypress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-migration-guide.md)
 - [How to use the form tester](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/testing/e2e/cypress/support/form-tester)
 - [More about e2e tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/)
 - [Cypress release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/cypress_e2e_testing/cypress_e2e_testing_rollout_plan.md)
