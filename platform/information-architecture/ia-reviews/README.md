@@ -6,7 +6,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | IA Work Status | Status Notes 
 --- | --- | --- | --- 
-Health tools | COVID-19 Research/Trials | IN PROGRESS  | Design intent held 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
+CTO | COVID-19 Research/Trials | IN PROGRESS  | Design intent held 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/cto-covid-trials.md
 Health care Exp | Questionnaires | NOT STARTED | Kick-off held 7/29 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/healthcare-questionaires.md
 BAH | GIBCT Search & Filters | NOT STARTED | Usability prep 8/4 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-gibct-search-filter
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
