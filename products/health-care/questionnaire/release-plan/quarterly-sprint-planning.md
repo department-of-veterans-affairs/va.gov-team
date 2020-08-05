@@ -30,11 +30,31 @@
 8/26/2020 - 9/8/2020
 - [Milestone 292](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/292)
 
-## Sprint 28 - _Sprint Theme Name_
+## Sprint 28 - Visit Into Design & Dev Start
 8/12/2020 - 8/25/2020
 - [Milestone 288](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/288)
+- [Sprint 28 Priorities #11301](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11301)
+- Status and Decisions - [Aug 14th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#aug-14th-2020) & [August 21st](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/release-plan/status-and-decisions.md#august-21st-2020) 
+- [Retrospective August 24th](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/meeting-notes/retrospective/sprint-28.md) 
 
-## Sprint 27 - _Sprint Theme Name_
+| Goal/Objective | Status Notes | Epic/Issue#	|
+|-|:-:|:-:|
+| Stakeholder Interviews & Paper - Current State Workflows 	 	| -- |  #11037 & #10219	|
+| Card Sort and Visit Intro research and UX complete	 	| -- |  | 
+| 	  	| -- | |
+| 	 	| -- | | 
+|  | -- | |
+
+
+
+
+
+
+
+
+
+
+## Sprint 27 - Define Q3 Priorities
 7/29/2020 - 8/11/2020
 - [Milestone 287](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/287)
 - [Sprint 27 Priorities #11299](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/11299)
