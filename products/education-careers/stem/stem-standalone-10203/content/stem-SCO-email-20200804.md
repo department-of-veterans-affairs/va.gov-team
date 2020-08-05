@@ -31,7 +31,7 @@ If the student already has an undergraduate degree and is seeking a teaching cer
 
 **A reply is requested as soon as possible, preferably within 14 days**. Please submit your response to [STEM.VBABUF@va.gov]. If we don’t receive a response, we won’t be able to process the student’s application for the Rogers STEM Scholarship, and we may follow up for the required information. 
 
-Please submit any questions or concerns to [STEM.VBABUF@va.gov].  Please account for the 14-day time request when submitting these questions.  
+Please submit any questions or concerns to [STEM.VBABUF@va.gov].  Please account for the 14-day time request when submitting questions.  
 
 Thank you, 
 
