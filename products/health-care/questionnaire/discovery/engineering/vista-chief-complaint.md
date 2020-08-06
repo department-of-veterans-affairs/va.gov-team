@@ -16,10 +16,11 @@ VistaLink is the most flexible API that connects to VistA, it uses RPC calls.
 
 ## Chief Complaint Field
 
-- To import PDF files into VistA, VistaImage could be used https://www.va.gov/health/imaging/
-- A better approach seems to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. 
-- Staff permissions are needed to write to VistA using VAMF so the best approach currently to investigate is to write to PGD using VAMF and a proxy.
-- PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+1. To import PDF files into VistA, VistaImage could be used https://www.va.gov/health/imaging/
+2. A better approach had seemed to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. However 
+  - Staff permissions are needed to write to VistA using VAMF so 
+3. The best approach currently to investigate is to write to PGD using VAMF and a proxy.
+4. PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
 
 ## Discreet Fields
 
