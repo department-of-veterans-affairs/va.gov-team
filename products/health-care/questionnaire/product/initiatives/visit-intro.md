@@ -10,7 +10,15 @@
 
 ## Epic User Story
 As a Veteran, I want to provide my my care team with what is important to me to focus on for this visit.
- 
+
+## Solution Approach
+The patient interview is the primary way of obtaining comprehensive information about the patient in order to provide effective patient-centered care.  An approach used to obtain information from the patient, usually starting with determining the patients chief complaint, also known as the reason for the healthcare visit, and then delving further into tan exploration of the patients specific complaint and problem.  A comprehensive patient interview includes inquiring about the patients medical, medication, social, a personal, and family history, as well as a thorough review of systems and physical examinations. 
+
+The first impression you make on your patient will weigh on the rest of the patient interview as well as affect your relationship with the patient. Building a good rapport sets the tone for the interview an allows the patient to feel comfortable with you thereby making the lines of communication more open and honest. Patients may sometimes withhold information if they feel uncomfortable or anxious about sharing their complaints because of a lack of feeling respected, feeling as though their words are not being heard, or quite simply not knowing who you are and what your role is in their care. [the patient interview](http://samples.jbpub.com/9781449652722/9781449645106_CH01_001_036.pdf) 
+
+- Numerous studies document the need to improve physician-patient communication. Patients report that physicians are not sufficiently attentive to their concerns, and patients often do not understand what they are told. When interviewed immediately after office visits, patients recall only one-half or less of important information given to them. [Physicians Ask Patients to Explain Reason for Visit, Then Interrupt](https://www.legalreader.com/physicians-ask-patients-explain-reason-visit-interrupt/)
+
+
 ## Features
 
 ### Workflow Diagram 
