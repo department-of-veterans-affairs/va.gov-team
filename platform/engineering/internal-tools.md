@@ -45,6 +45,8 @@ The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traff
 
 Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vfs.va.gov` address(es) when necessary.
 
+*Please note:* The following steps use the `~` symbol. In this context, the `~` symbol represents the current user's home directory. Therefore, `~/.ssh/` translates to `my user's home directory/.ssh`.
+
 ## Creating an SSH keypair in Windows
 
 To create and use SSH keypairs on Windows, complete the following steps:
