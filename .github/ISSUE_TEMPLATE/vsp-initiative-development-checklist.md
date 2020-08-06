@@ -35,10 +35,10 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
     * _List the existing product that this initiative fits within, or add a new product to this list._
 - [ ] Internal-facing: there's a [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) checked into [`products/platform/PRODUCT_NAME/`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/)
     * _Note: the Product Directory Name should match 1:1 with the List of VSP Products_
-- [ ] External-facing: a [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-brief-template.md) exists for this product/feature tool
+- [ ] External-facing: a [VFS-facing README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/product-readme-template.md) exists for this product/feature tool
     - [ ] ... and should be located at `platform/PRODUCT_NAME/README.md`
 - [ ] External-facing: a [User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/product-management/writing-user-guides.md) exists for this product/feature/tool, and is updated for changes from this initiative
-    - [ ] ... and should be linked from the Product Brief
+    - [ ] ... and should be linked from the VFS-facing README for your product
     - [ ] ... and should be located within `platform/PRODUCT_NAME/`, unless you already have another location for it
     - [ ] _(if applicable)_... and post to [#vsp-content-ia](https://dsva.slack.com/channels/vsp-content-ia) about whether this should be added to the [Documentation homepage](https://department-of-veterans-affairs.github.io/va.gov-team/)
 - [ ] _(if applicable)_ Post to [#vsp-service-design](https://dsva.slack.com/channels/vsp-service-design) for external communication about this change (e.g. VSP Newsletter, customer-facing meetings)
@@ -47,7 +47,7 @@ _Keep in mind the distinction between **Product** and **Initiative** --- each Pr
 
 * **`PRODUCT_NAME`**: _directory name used for your product documentation_
 * **Product Outline**: _link to Product Outline_
-* **Product Brief**: _link to Product Brief_
+* **README**: _link to VFS-facing README for your product_
 * **User Guide**: _link to User Guide_
 
 ## ... measurable
