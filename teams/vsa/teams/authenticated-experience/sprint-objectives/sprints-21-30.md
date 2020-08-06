@@ -263,7 +263,7 @@ Tressa & Cassandra
 
 ## Sprint 28 (8/12 – 8/25)
 
-- When doing sprint planning, start going through profile 2.0 tickets and figure out what we can do as after-launch improvements. Assign these to Cassandra.
+Any outstanding tickets from sprint 27, plus:
 
 ### Profile 2.0
 
@@ -290,14 +290,21 @@ These are platform related, but we need to make sure they are completed so we ca
 
 ### Logged-in homepage
 
+If time — profile work is top priority.
+
 Design
-- Figure out additional questions for technical discovery
+
+If sprint 27 tickets are done, and if Tressa/Cassandra have a good understanding of the existing homepage and My VA:
+
 - Plan for LOA3 use cases #10162
 - Plan for LOA1 use case #10164
 - Plan for how to work with the platform team #10516
 - Plan for how/when to conduct user testing #10518
 
 Dev
+
+If all profile work is done and all LIH ticket from sprint 27:
+
 - How are we going to build the logged-in homepage? #10256
 - Beta/opt-in technical discovery/scoping #10476
 
