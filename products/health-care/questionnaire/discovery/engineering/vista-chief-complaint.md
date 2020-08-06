@@ -1,5 +1,6 @@
 # Putting Chief Complaint field into VistA
 
+[Current best approach](#Using FHIR Questionnaire/VCM into PGD)
 [Information about VAOS](#VAOS) 
 
 ## APIs and components
@@ -22,7 +23,7 @@ VistaLink is the most flexible API that connects to VistA, it uses RPC calls.
 - Importion of PDF files into VistA can be done with VistaImage but this didn't seem like a good approach https://www.va.gov/health/imaging/
 - A better approach had seemed to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. However Staff permissions are needed to write to VistA using VAMF
 
-#### using FHIR Questionnaire/VCM into PGD
+#### Using FHIR Questionnaire/VCM into PGD
 
 - The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
 - PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
