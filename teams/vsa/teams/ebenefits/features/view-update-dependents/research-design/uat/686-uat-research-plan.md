@@ -9,7 +9,10 @@
 VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have left the household of the Veteran (death, divorce, marriage). The eBenefits team will conduct Acceptance Testing (UAT) ahead of launch, then closely monitor analytics to ensure the form is generating viable submissions across all 686 workflows.
 
 ### Goals
-Our primary goal is to determine user acceptance of the new implementation of the 21-686c (686) form on VA.gov. 
+- Confirm all form fields and workflows are available
+- Confirm form collects data and advances as expected
+- Confirm data scccessfully submits as input
+- Confirm status of dependency claim properly displays in claim status tool
 
 #### Key guiding question
 Can users quickly and easily add and/or remove dependents from their disability claim?
@@ -37,7 +40,7 @@ Users will:
 - Success will be measured as 80% of participants can successfully submit their 686, with the remaining 20% having a straight-forward remediation path
 
 ### Participants & recruiting
-Participants will be recruited via Perigean. The study will require eight (8) Veterans from a range of service backgrounds. Participant criteria include:
+Participants will be recruited via Perigean. The study will require 10 Veterans who have a need to add or remove a dependent (or dependents) form their VA disability claim. Participant criteria include:
 
 - Must have verified disability rating of greater than 30%
 - The Veteran needs to sumbit a 21-686c (or 21-674) to do one or more of the following:
@@ -52,15 +55,17 @@ Participants will be recruited via Perigean. The study will require eight (8) Ve
   - This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they can see the profile, they are LOA3 and can participate in testing.
 - Must be able to screen-share via Zoom; if the user is unable to screen-share due to platform or technical issues, they cannot participate
 - All genders
-- Several Veterans (3 to 4) with Total Rated Disability of 80% or greater and cognitive disabilities
-- Sessions will run between 15 and 30 minutes
+- Several Veterans (3 to 5) with Total Rated Disability of 80% or greater and cognitive disabilities
+- Sessions will run between 30 and 45 minutes depending on the workflow, and potential technical issues
 
-Note: we do not expect to cover every scenario in the criteria above. Priority order is:
+**Note:** we do not expect to cover every scenario in the criteria above. Priority scenarios are (in order):
 - Add a spouse
 - Add a child
 - Add a child (age 18 to 23) who is about to enroll or has enrolled in college (or other training/schools)
 - Remove a divorced spouse
 - All others
+
+**Important:** Certain scenarios will require the participants to gather information or documents. If possible, participants should review form instructions (will be provided) ahead of their UAT session.
 
 #### eBenefits Team Availability
 
