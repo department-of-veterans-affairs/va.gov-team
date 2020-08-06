@@ -74,3 +74,66 @@ http://localhost:3001/health-care/schedule-view-va-appointments/appointments/new
 ```
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/sites-supporting-var.json)
 
+---
+
+Express care appointment appointment page
+
+```
+http://localhost:3001/health-care/schedule-view-va-appointments/appointments/new-express-care-request/form
+```
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/new-express-care-appointment.png?raw=true" width="30%" heigh="30%"/>
+
+
+Clicking submit will POST to:
+```
+http://localhost:3000/vaos/v0/appointment_requests?type=va
+```
+(json may vary)
+
+---
+
+## Other backend requests comeing from vets-website:
+```
+/v0/appointment_requests/${requestId}/messages
+```
+[Returns JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_messages_yml.json)
+
+---
+
+```
+/v0/community_care/eligibility/${typeOfCare}
+```
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_eligibility.yml.json)
+
+
+```
+/v0/systems/${systemId}/direct_scheduling_facilities?type_of_care_id=${typeOfCareId}&parent_code=${parentId}
+/v0/facilities/${facilityId}/visits/${directOrRequest}?system_id=${systemId}&type_of_care_id=${typeOfCareId}
+/v0/facilities/${facilityId}/limits?type_of_care_id=${typeOfCareId}
+/v0/facilities/${facilityId}/clinics?type_of_care_id=${typeOfCareId}&system_id=${systemId}
+/v0/systems/${systemId}/pact
+/facilities/va/vha_${getStagingId(facilityId)}
+/v0/facilities/${facilityId}/available_appointments?type_of_care_id=${typeOfCareId}&clinic_ids[]=${clinicId}&start_date=${startDate}&end_date=${endDate}
+/v0/facilities/${systemId}/cancel_reasons
+v0/preferences
+```
+
+**** PUT
+
+```
+v0/preferences
+```
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
+
+```
+/v0/appointments/cancel
+/v0/appointment_requests/${req.id}
+```
+
+**** POST
+```
+/v0/appointments
+/v0/appointment_requests/${id}/messages
+```
+
