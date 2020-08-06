@@ -4,6 +4,7 @@ Overview of phased approach and remaining work.
 Phase I, UAT:
   - [Launch] BDD: Create Test Users in Dev and Staging for BDD#11892 - Benefits Sprint 27
   - [Development] BDD: Install Flipper UI Around BDD Capability#11778 - Benefits Sprint 27
+  - [Development] BDD: Add Separation Location to 1-89.99 Day BDD Flow #12177 - Benefits Sprint 27
   - [Launch] BDD: Does BDD Actually Work?#11812 - Benefits Sprint 27
   - [Discovery] BDD: Verify XSD as Last Resort# - Benefits Sprint 28
   - [Development] Increase testing for BDD forms submission (Pre-Launch)#10368 - Benefits Sprint 28
