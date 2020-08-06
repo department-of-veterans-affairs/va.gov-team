@@ -1,8 +1,105 @@
-'{"phoneNumber":"(111) 111-1111","optionDate1":"11/29/2019","optionTime1":"AM","optionDate2":"No
-  Date Selected","optionTime2":"No Time Selected","optionDate3":"No Date Selected","optionTime3":"No
-  Time Selected","status":"Cancelled","appointmentType":"Primary Care","visitType":"Office
-  Visit","textMessagingAllowed":false,"purposeOfVisit":"Routine Follow-up","providerId":"0","secondRequest":false,"secondRequestSubmitted":false,"requestedPhoneCall":false,"typeOfCareId":"323","hasVeteranNewMessage":false,"hasProviderNewMessage":true,"providerSeenAppointmentRequest":false,"patientId":"1259897978","appointmentRequestId":"8a4886886e4c8e22016e92be77cb00f9","uniqueId":"8a4886886e4c8e22016e92be77cb00f9","id":"8a4886886e4c8e22016e92be77cb00f9","createdDate":"11/22/2019
-  05:53:0","lastUpdatedDate":"11/22/2019 05:53:06","assigningAuthority":"ICN","systemId":"var","objectType":"VARAppointmentRequest","surrogateIdentifier":{},"facility":{"name":"DAYTSHR
-  -Lima VA Clinic","facilityCode":"984GB","state":"OH","city":"Lima","parentSiteCode":"984","objectType":"Facility"},"patient":{"displayName":"Morrison,
-   Judy","firstName":"Judy","lastName":"Morrison","dateOfBirth":"Apr 01, 1953","patientIdentifier":{"uniqueId":"1259897978"},"ssn":"796061976","inpatient":false,"textMessagingAllowed":false,"id":"1259897978","objectType":"Patient"},"bestTimetoCall":["Morning"],"appointmentRequestDetailCode":[{"userId":"1012845331V153043","detailCode":{"code":"DETCODE8"}}],"patientIdentifier":{"assigningAuthority":"ICN","patientIdentifier":"1012845331V153043"}}'
- 
+{
+          "dataIdentifier" : {
+            "uniqueId" : "8a4886886e4c8e22016e92be77cb00f9",
+            "systemId" : "var"
+          },
+          "patientIdentifier" : {
+            "uniqueId" : "1012845331V153043",
+            "assigningAuthority" : "ICN"
+          },
+          "surrogateIdentifier" : { },
+          "lastUpdatedDate" : "11/22/2019 08:27:58",
+          "optionDate1" : "11/29/2019",
+          "optionTime1" : "AM",
+          "optionDate2" : "No Date Selected",
+          "optionTime2" : "No Time Selected",
+          "optionDate3" : "No Date Selected",
+          "optionTime3" : "No Time Selected",
+          "status" : "Cancelled",
+          "appointmentType" : "Primary Care",
+          "visitType" : "Office Visit",
+          "facility" : {
+            "name" : "DAYTSHR -Lima VA Clinic",
+            "facilityCode" : "984GB",
+            "state" : "OH",
+            "city" : "Lima",
+            "parentSiteCode" : "984",
+            "objectType" : "Facility",
+            "link" : [ ]
+          },
+          "textMessagingAllowed" : false,
+          "phoneNumber" : "(111) 111-1111",
+          "purposeOfVisit" : "Routine Follow-up",
+          "providerId" : "0",
+          "secondRequest" : false,
+          "secondRequestSubmitted" : false,
+          "patient" : {
+            "displayName" : "Morrison, Judy",
+            "firstName" : "Judy",
+            "lastName" : "Morrison",
+            "dateOfBirth" : "Apr 01, 1953",
+            "patientIdentifier" : {
+              "uniqueId" : "1259897978"
+            },
+            "ssn" : "796061976",
+            "inpatient" : false,
+            "textMessagingAllowed" : false,
+            "id" : "1259897978",
+            "objectType" : "Patient",
+            "link" : [ ]
+          },
+          "bestTimetoCall" : [ "Morning" ],
+          "appointmentRequestDetailCode" : [ {
+            "appointmentRequestDetailCodeId" : "8a4886886e4c8e22016e934c43710102",
+            "createdDate" : "11/22/2019 08:27:58",
+            "detailCode" : {
+              "code" : "DETCODE8",
+              "providerMessage" : "Cancelled by Veteran - Pending",
+              "veteranMessage" : "Your request to cancel this appointment request has been sent.",
+              "objectType" : "VARDetailCode",
+              "link" : [ ]
+            },
+            "userId" : "1012845331V153043",
+            "objectType" : "VARAppointmentRequestDetailCode",
+            "link" : [ ]
+          } ],
+          "hasVeteranNewMessage" : false,
+          "hasProviderNewMessage" : true,
+          "providerSeenAppointmentRequest" : false,
+          "requestedPhoneCall" : false,
+          "typeOfCareId" : "323",
+          "appointmentRequestId" : "8a4886886e4c8e22016e92be77cb00f9",
+          "patientId" : "1259897978",
+          "date" : "2019-11-22T05:53:00.000+0000",
+          "uniqueId" : "8a4886886e4c8e22016e92be77cb00f9",
+          "assigningAuthority" : "ICN",
+          "systemId" : "var",
+          "selfUri" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e92be77cb00f9",
+          "selfLink" : {
+            "rel" : "self",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e92be77cb00f9",
+            "objectType" : "AtomLink"
+          },
+          "objectType" : "VARAppointmentRequest",
+          "link" : [ {
+            "rel" : "self",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointments/system/var/id/8a4886886e4c8e22016e92be77cb00f9",
+            "objectType" : "AtomLink"
+          }, {
+            "rel" : "related",
+            "title" : "appointment-request-messages",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e92be77cb00f9/messages",
+            "objectType" : "AtomLink"
+          }, {
+            "rel" : "related",
+            "title" : "appointment-request-new-message-flag",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e92be77cb00f9/messages/read",
+            "objectType" : "AtomLink"
+          }, {
+            "rel" : "related",
+            "title" : "appointment-request-provider-seen-flag",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e92be77cb00f9/appointment/provider-read",
+            "objectType" : "AtomLink"
+          } ],
+          "createdDate" : "11/22/2019 05:53:00"
+        }
