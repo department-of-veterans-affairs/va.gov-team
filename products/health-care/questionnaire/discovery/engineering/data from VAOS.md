@@ -1,6 +1,8 @@
 
 ## Data Fields from VAOS
 
+ The Data here represents sample data. It was obtained from mock data used by vets-website and vets-api
+
 #### Appointment page in VAOS
 
 The schedule and view your appointments page:
