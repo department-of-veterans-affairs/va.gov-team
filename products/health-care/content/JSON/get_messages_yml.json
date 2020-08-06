@@ -1,0 +1,48 @@
+  {
+          "selfUri" : "https://var-resources-v4.sqa.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+          "selfLink" : {
+            "rel" : "self",
+            "href" : "https://var-resources-v4.sqa.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+            "objectType" : "AtomLink"
+          },
+          "empty" : false,
+          "appointmentRequestMessage" : [ {
+            "dataIdentifier" : {
+              "uniqueId" : "8a4886886e4c8e22016e5bee49c30007",
+              "systemId" : "var"
+            },
+            "patientIdentifier" : {
+              "uniqueId" : "1012845331V153043",
+              "assigningAuthority" : "ICN"
+            },
+            "surrogateIdentifier" : { },
+            "messageText" : "Testing",
+            "messageDateTime" : "11/11/2019 12:26:13",
+            "senderId" : "1012845331V153043",
+            "appointmentRequestId" : "8a4886886e4c8e22016e5bee49c30007",
+            "date" : "2019-11-11T12:26:13.931+0000",
+            "patientId" : "1012845331V153043",
+            "uniqueId" : "8a4886886e4c8e22016e5bee49c30007",
+            "assigningAuthority" : "ICN",
+            "systemId" : "var",
+            "selfUri" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+            "selfLink" : {
+              "rel" : "self",
+              "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+              "objectType" : "AtomLink"
+            },
+            "objectType" : "VARAppointmentRequestMessage",
+            "link" : [ {
+              "rel" : "self",
+              "href" : "/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+              "objectType" : "AtomLink"
+            } ]
+          } ],
+          "size" : 1,
+          "objectType" : "VARAppointmentRequestMessages",
+          "link" : [ {
+            "rel" : "self",
+            "href" : "https://var-resources-v4.sqa.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1012845331V153043/appointment-requests/system/var/id/8a4886886e4c8e22016e5bee49c30007/messages",
+            "objectType" : "AtomLink"
+          } ]
+        }
