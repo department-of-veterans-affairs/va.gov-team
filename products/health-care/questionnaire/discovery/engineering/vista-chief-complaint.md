@@ -38,7 +38,7 @@ VistA has many thousands of different record types but adding a new record type 
 - This simple approach seems to make sense as long as one veteran record is processed at a time. There would be no query like functionality to find all veterans with certain field values etc.
 - Currently however, we have no means of writing to VistA due to permissions/authorizations and are exploring writing to PGD
 
-## Connecting to VistALink (not a viable option for the present)
+## Connecting to VistALink with RPC (not a viable option for the present)
 
 - There is a Ruby Gem for connecting to VistALink. It has not been updated for 9 years https://github.com/michaelcham/vistarpc4r. Since VistA is an old system, perhaps not much has changed and that doesn't matter.
 - There may be Ruby packages for using RPC
