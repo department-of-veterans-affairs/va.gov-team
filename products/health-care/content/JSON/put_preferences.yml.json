@@ -1,0 +1,27 @@
+{
+          "dataIdentifier" : { },
+          "patientIdentifier" : {
+            "uniqueId" : "1012845331V153043",
+            "assigningAuthority" : "ICN"
+          },
+          "surrogateIdentifier" : { },
+          "notificationFrequency" : "Each new message",
+          "emailAllowed" : true,
+          "emailAddress" : "abraham.lincoln@va.gov",
+          "textMsgAllowed" : false,
+          "textMsgPhNumber" : "",
+          "assigningAuthority" : "ICN",
+          "patientId" : "1012845331V153043",
+          "selfUri" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
+          "selfLink" : {
+            "rel" : "self",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
+            "objectType" : "AtomLink"
+          },
+          "objectType" : "VARPatientPreference",
+          "link" : [ {
+            "rel" : "self",
+            "href" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
+            "objectType" : "AtomLink"
+          } ]
+        }
