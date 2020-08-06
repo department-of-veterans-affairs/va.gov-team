@@ -7,7 +7,11 @@
 
 Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups are available [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design)
 
-**HP!** indicates "high priority," and must be addressed before content review. All other items are important, and should be addressed before launch.
+### Pre-launch mandatory content revisions
+- [ ] Change header (H1) across all screens to be: "Add or remove a dependent on your VA disability benefits" 
+- [ ] Capitalize "V" in "Veteran" throughout form
+- [ ] Remove **Note:** from the first sentence on Add Student screen and treat it like a mini intro.
+
 
 ### Change in UI for location pattern
 
@@ -17,6 +21,7 @@ Screens proofed in staging.VA.gov the week of July 6, 2020. Reference mockups ar
 - [ ] [Report divorce](https://xd.adobe.com/view/7c724f92-3619-4c7f-5fa8-c355bb2e85c9-0a43/)
 - [ ] [Report death](https://xd.adobe.com/view/1506a12d-12af-49d2-4137-97bb5a06fa11-6337/screen/3fef7dd7-840d-4343-bbf5-187ac229b943/)
 
+**HP!** indicates "high priority."
 
 ### Throughout
 
