@@ -10,13 +10,15 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 <details>
 <summary>There are 2 versions of the form detail landing page template, based on whether a particular form has all, some, or no custom data fields in Drupal.</summary>
   
-- [Use Case A](#use-case-a) 
-- [Use Case B](#use-case-b)
+- [Use Case A - Minimum custom form data](#use-case-a) 
+- [Use Case B - Maximum custom form data](#use-case-b)
+- [Use Case C - Invalid PDF Urls](
 - [Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)
 
 </details>
 
-## Use Case A - Minimum custom form data
+## Use Case A 
+### Minimum custom form data
 
 * **Description:** 
   - When a form page has the minimum custom data added in Drupal. Mockup shows the basic version of a form detail landing page with:
@@ -32,7 +34,8 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 
 
 
-## Use Case B - Maximum custom form data
+## Use Case B 
+### Maximum custom form data
 
 * **Description:** When a form page has all custom data added in Drupal. Mockup shows the maximal version of a form detail landing page with data that's coming from the source VA forms database, plus all the custom Drupal added data.  
 
@@ -50,6 +53,29 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5776  <--This form page includes all the custom data fields. 
 
+## Use Case C 
+### Invalid PDF Urls
+
+* **Description:** 
+  - When the url to download a particular form PDF is not available (e.g. 404), the form detail page should remain published. But, an error message on the form page indicates the form url is invalid.
+
+* **Link to designs:** 
+  - 
+
+* **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
+  - You must be on VA network to access the CMS preview page: 
+  
+## Use Case D
+### Deleted Forms
+
+* **Description:** 
+- When a form is deleted from the Forms DB, the deleted flag in the Drupal DB is set to `true`. The Drupal page is unpublished, but remains archived in case it needs to be re-published. 
+
+* **Link to designs:**
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/11625
+
+* **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
+  - You must be on VA network to access the CMS preview page: 
 
 ## Batch 1 - top 40 forms for QA
 1.	https://prod.cms.va.gov/find-forms/about-form-21-4138
