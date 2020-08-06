@@ -95,7 +95,9 @@ Start with open-ended question “How can I help you today?” brings focus to t
 
 
 ---
-| Initiative Name | Issue # | Design     | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
+## Issue Tracking 
+
+| Initiative/Feature Name | Issue # | Design     | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
 | ---------------------------------------------------| ---------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
 |[Visit Intro Initiative (Proof of Concept)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)| [#12102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12102) | D  |  U   | A | Q |Q3 2020| N |
 | [Feature: This Visit Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/this-visit.md)   |   [#12110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12110) | D  |  U   | A | Q |Q3 2020| N |
