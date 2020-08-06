@@ -2,7 +2,6 @@
 
 ### Product Reference Links
 * [Questionnaires Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/product-outline.md#healthcare-experience---questionnaires-product-outline)
-* [Initiative- Visit Intro](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/visit-intro.md)
 * Link to [Design Screenshots/Prototype](https://app.mural.co/invitation/mural/vsa8243/1596490423105?sender=aricka0272&key=a3d9728b-bc26-42a8-96ca-d4879cd613e1)
 
 ## Epic User Story
@@ -42,3 +41,11 @@ Use these data elements for UI mockup in User testing as Proof of Concept Q3 pri
     - Dr. Name
     - Date and Time.
     - [See Loma Linda example for content](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf) 
+    
+    ---
+## Issue Tracking 
+
+| Initiative/Feature Name | Issue # | Design     | User Testing | Accessibility  | QA - Test Case  | Launch    | Notes 
+| ---------------------------------------------------| ---------- | -------------   | ---------    | ---------      | ---------       | --------- | ----- | 
+| [Feature: This Visit Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/features/this-visit.md)   |   [#12110](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12110) | D  |  U   | A | Q |Q3 2020| N |
+| [Collab] Usability Testing Prep Questionnaires MVP Priorities  |   [#11838](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11838) |  |   | A |  || |
