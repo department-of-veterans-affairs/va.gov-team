@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "983",
+      "type": "object_type",
+      "attributes": {
+        "name": "Cheyenne",
+        "timezone": "US/Mountain"
+      }
+    },
+    {
+      "id": "984",
+      "type": "object_type",
+      "attributes": {
+        "name": "Dayton",
+        "timezone": "US/Eastern"
+      }
+    }
+  ]
+}
