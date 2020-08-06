@@ -119,19 +119,25 @@ http://localhost:3000/vaos/v0/appointment_requests?type=va
 v0/preferences
 ```
 
-**** PUT
+#### PUT Requests
 
 ```
 v0/preferences
 ```
+[Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/put_requests.yml.json)
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
 
 ```
 /v0/appointments/cancel
-/v0/appointment_requests/${req.id}
 ```
 
-**** POST
+```
+/v0/appointment_requests/${req.id}
+```
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
+
+
+#### POST Requests
 ```
 /v0/appointments
 /v0/appointment_requests/${id}/messages
