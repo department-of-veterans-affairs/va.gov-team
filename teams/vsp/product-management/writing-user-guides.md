@@ -5,8 +5,6 @@ This document provides guidance in writing VFS-facing user guides for VSP produc
 
 ## Consider your audience
 
-
-
 *   Who is your audience?
 *   What are you trying to assist them to do?
     *   Complete a task? → How-to guide
@@ -18,65 +16,11 @@ This document provides guidance in writing VFS-facing user guides for VSP produc
 
 What type of document (or documents) best meets the needs of your audience? The table below gives examples of the most common document types for our user guides.
 
-
-<table>
-  <tr>
-   <td><strong>Document type</strong>
-   </td>
-   <td><strong>Goal</strong>
-   </td>
-   <td><strong>Examples</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Overview
-   </td>
-   <td>Introduce a topic. Provide a high-level overview of a concept or process. 
-   </td>
-   <td>
-<ul>
-
-<li><a href="https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/site-structure/client-overview">VA.gov client overview</a>
-
-<li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-dashboard-request.md">VSP Collaboration Cycle</a>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>How-to guide
-   </td>
-   <td>Guide through a series of steps to achieve a specific outcome.
-   </td>
-   <td>
-<ul>
-
-<li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/d0ee4cc50068f41083732455a7df86b6b5d59b67/platform/engineering/sentry-configuration.md">How to Configure Sentry</a>
-
-<li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-dashboard-request.md">How to request a KPI dashboard for your application</a>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>Reference
-   </td>
-   <td>Describe how something works, outline best practices, or explain terminology. Assumes some basic familiarity with a topic.
-   </td>
-   <td>
-<ul>
-
-<li><a href="https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/about-the-schema-and-uischema-objects">schema and uiSchema objects</a>
-
-<li><a href="https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/config-options">Form config options</a>
-
-<li><a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md">Google Analytics cheat sheet</a>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
+| **Document type** | **Goal** | **Examples** |
+| --- | --- | --- |
+| Overview | Introduce a topic. Provide a high-level overview of a concept or process. | [VA.gov client overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/site-structure/client-overview)<br/>[VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-dashboard-request.md) |
+| How-to guide | Guide through a series of steps to achieve a specific outcome. | [How to Configure Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-configuration.md)<br/>[How to request a KPI dashboard for your application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-dashboard-request.md) |
+| Reference | Describe how something works, outline best practices, or explain terminology. Assumes some basic familiarity with a topic. | [schema and uiSchema objects](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/about-the-schema-and-uischema-objects)<br/>[Form config options](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/config-options)<br/>[Google Analytics cheat sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-cheat-sheet.md) |
 
 
 ## Write a document
