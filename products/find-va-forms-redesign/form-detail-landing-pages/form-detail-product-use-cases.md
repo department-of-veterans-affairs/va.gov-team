@@ -12,7 +12,8 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   
 - [Use Case A - Minimum custom form data](#use-case-a) 
 - [Use Case B - Maximum custom form data](#use-case-b)
-- [Use Case C - Invalid PDF Urls](
+- [Use Case C - Invalid PDF Urls](#use-case-c)
+- [Use Case D - Deleted Forms](#use-case-d)
 - [Batch 1 - top 40 forms for QA](#batch-1-top-40-forms-for-qa)
 
 </details>
