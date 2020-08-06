@@ -160,20 +160,20 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 These steps assume your SSH keys have been authorized and that you're running on Linux, OSX, or have a Unix shell emulator like Git Bash (Windows). There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `*.vfs.va.gov` domain.
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
-    * Curl [this url](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and save it to an SSH config file.
-      1. From within the terminal (Mac) or Git Bash (Windows), run the following command: `curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config/ > ~/.ssh/config`. 
+    * Click [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and copy the entire URL within the new tab.
+      1. From within the terminal (Mac) or Git Bash (Windows), run the following command making sure to change the URL to the one you now have copied: `curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config/ > ~/.ssh/config`. 
 ```
-❯ curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config/ > ~/.ssh/config
+❯ curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE > ~/.ssh/config
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-100    20  100    20    0     0     74      0 --:--:-- --:--:-- --:--:--    74
+100  5804  100  5804    0     0  15602      0 --:--:-- --:--:-- --:--:-- 15602
 ❯ ls -al ~/.ssh
-total 72
+total 80
 drwx------   8 jeremybritt  staff    256 Aug  6 11:27 .
-drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:27 ..
--rw-r--r--   1 jeremybritt  staff     20 Aug  6 11:27 config
--rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vagov
--rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vagov.pub
+drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
+-rw-r--r--   1 jeremybritt  staff   5804 Aug  6 11:50 config
+-rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vetsgov
+-rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vetsgov.pub
 ```
 
 > If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
