@@ -50,6 +50,8 @@ I have some categories listed here. Go ahead and drag an item from the left and 
 
 Now that all of the topics are sorted, let's look at each category and sort one more time. Let's start with the least important column and move to the others from there.
 
+Go ahead and click the "finish" button in the top right of the screen.
+
 **Questions to consider**
 - Talk me through why you chose this topic
 - What does this topic mean in your words?
