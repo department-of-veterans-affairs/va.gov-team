@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "id": "vha_442",
+      "type": "va_facilities",
+      "attributes": {
+        "uniqueId": "442",
+        "name": "Cheyenne VA Medical Center",
+        "facilityType": "va_health_facility",
+        "classification": "VA Medical Center (VAMC)",
+        "website": "http://www.cheyenne.va.gov",
+        "lat": 41.1457280000001,
+        "long": -104.7895949,
+        "address": {
+          "mailing": {},
+          "physical": {
+            "zip": "82001-5356",
+            "city": "Cheyenne",
+            "state": "WY",
+            "address1": "2360 East Pershing Boulevard",
+            "address2": null,
+            "address3": null
+          }
+        },
+        "phone": {
+          "fax": "307-778-7381",
+          "main": "307-778-7550",
+          "pharmacy": "866-420-6337",
+          "afterHours": "307-778-7550",
+          "patientAdvocate": "307-778-7550 x7517",
+          "mentalHealthClinic": "307-778-7349",
+          "enrollmentCoordinator": "307-778-7550 x7579"
+        },
+        "hours": {
+          "friday": "24/7",
+          "monday": "24/7",
+          "sunday": "24/7",
+          "tuesday": "24/7",
+          "saturday": "24/7",
+          "thursday": "24/7",
+          "wednesday": "24/7"
+        },
+        "services": {
+          "other": [],
+          "health": [
+            { "sl1": ["EmergencyCare"], "sl2": [] },
+            { "sl1": ["PrimaryCare"], "sl2": [] },
+            { "sl1": ["MentalHealthCare"], "sl2": [] },
+            { "sl1": ["WomensHealth"], "sl2": [] },
+            { "sl1": ["Audiology"], "sl2": [] },
+            { "sl1": ["Cardiology"], "sl2": [] },
+            { "sl1": ["Dermatology"], "sl2": [] },
+            { "sl1": ["Gastroenterology"], "sl2": [] },
+            { "sl1": ["Gynecology"], "sl2": [] },
+            { "sl1": ["Ophthalmology"], "sl2": [] },
+            { "sl1": ["Optometry"], "sl2": [] },
+            { "sl1": ["Orthopedics"], "sl2": [] },
+            { "sl1": ["Urology"], "sl2": [] },
+            { "sl1": ["SpecialtyCare"], "sl2": [] },
+            { "sl1": ["DentalServices"], "sl2": [] }
+          ],
+          "lastUpdated": "2019-11-04"
+        },
+        "feedback": {
+          "health": {
+            "effectiveDate": "2019-06-20",
+            "primaryCareUrgent": 0.68,
+            "primaryCareRoutine": 0.81,
+            "specialtyCareUrgent": 0.68,
+            "specialtyCareRoutine": 0.85
+          }
+        },
+        "access": {
+          "health": {
+            "urology": { "new": 24.382352, "established": 11.85 },
+            "audiology": { "new": 10.971153, "established": 3.642857 },
+            "optometry": { "new": 34.876712, "established": 7.920096 },
+            "cardiology": { "new": 20.727272, "established": 7.604651 },
+            "gynecology": { "new": 16.625, "established": 6.573529 },
+            "dermatology": { "new": 14.0, "established": null },
+            "orthopedics": { "new": 23.2125, "established": 5.181069 },
+            "primaryCare": { "new": 13.964912, "established": 4.762917 },
+            "ophthalmology": { "new": 3.0, "established": 1.072289 },
+            "womensHealth": { "new": 16.625, "established": 6.573529 },
+            "effectiveDate": "2019-11-04",
+            "specialtyCare": { "new": 15.125356, "established": 3.850275 },
+            "gastroenterology": { "new": 12.8, "established": 9.76923 },
+            "mentalHealthCare": { "new": 13.5, "established": 4.145183 }
+          }
+        }
+      }
+    },
+    {
+      "id": "vha_552",
+      "type": "va_facilities",
+      "attributes": {
+        "uniqueId": "552",
+        "name": "Dayton VA Medical Center",
+        "facilityType": "va_health_facility",
+        "classification": "VA Medical Center (VAMC)",
+        "website": "http://www.dayton.va.gov",
+        "lat": 39.7493952500001,
+        "long": -84.2532442999999,
+        "address": {
+          "mailing": {},
+          "physical": {
+            "zip": "45428-9000",
+            "city": "Dayton",
+            "state": "OH",
+            "address1": "4100 West Third Street",
+            "address2": null,
+            "address3": null
+          }
+        },
+        "phone": {
+          "fax": "937-262-2179",
+          "main": "937-268-6511",
+          "pharmacy": "800-368-8262 x5325",
+          "afterHours": "888-838-6446",
+          "patientAdvocate": "800-368-8262 x2164",
+          "mentalHealthClinic": "937-262-2186",
+          "enrollmentCoordinator": "800-368-8262 x3450"
+        },
+        "hours": {
+          "friday": "24/7",
+          "monday": "24/7",
+          "sunday": "24/7",
+          "tuesday": "24/7",
+          "saturday": "24/7",
+          "thursday": "24/7",
+          "wednesday": "24/7"
+        },
+        "services": {
+          "other": [],
+          "health": [
+            { "sl1": ["EmergencyCare"], "sl2": [] },
+            { "sl1": ["UrgentCare"], "sl2": [] },
+            { "sl1": ["PrimaryCare"], "sl2": [] },
+            { "sl1": ["MentalHealthCare"], "sl2": [] },
+            { "sl1": ["WomensHealth"], "sl2": [] },
+            { "sl1": ["Audiology"], "sl2": [] },
+            { "sl1": ["Cardiology"], "sl2": [] },
+            { "sl1": ["Dermatology"], "sl2": [] },
+            { "sl1": ["Gastroenterology"], "sl2": [] },
+            { "sl1": ["Gynecology"], "sl2": [] },
+            { "sl1": ["Ophthalmology"], "sl2": [] },
+            { "sl1": ["Optometry"], "sl2": [] },
+            { "sl1": ["Orthopedics"], "sl2": [] },
+            { "sl1": ["Urology"], "sl2": [] },
+            { "sl1": ["SpecialtyCare"], "sl2": [] },
+            { "sl1": ["DentalServices"], "sl2": [] }
+          ],
+          "lastUpdated": "2019-11-04"
+        },
+        "feedback": {
+          "health": {
+            "effectiveDate": "2019-06-20",
+            "primaryCareUrgent": 0.72,
+            "primaryCareRoutine": 0.85,
+            "specialtyCareUrgent": 0.71,
+            "specialtyCareRoutine": 0.89
+          }
+        },
+        "access": {
+          "health": {
+            "urology": { "new": 7.38, "established": 3.43686 },
+            "audiology": { "new": 18.726415, "established": 4.559246 },
+            "optometry": { "new": 24.170212, "established": 5.578947 },
+            "cardiology": { "new": 27.323076, "established": 8.888 },
+            "gynecology": { "new": 10.111111, "established": 1.816455 },
+            "dermatology": { "new": 23.364705, "established": 5.911585 },
+            "orthopedics": { "new": 13.44, "established": 1.869565 },
+            "primaryCare": { "new": 5.543956, "established": 1.886307 },
+            "ophthalmology": { "new": 25.666666, "established": 5.866995 },
+            "womensHealth": { "new": 13.5, "established": 1.828025 },
+            "effectiveDate": "2019-11-04",
+            "specialtyCare": { "new": 16.397481, "established": 5.026401 },
+            "gastroenterology": { "new": 32.438202, "established": 9.031578 },
+            "mentalHealthCare": { "new": 8.292682, "established": 2.95536 }
+          }
+        }
+      }
+    },
+    {
+      "id": "vha_442GC",
+      "type": "facility",
+      "attributes": {
+        "access": {
+          "health": [
+            { "service": "Audiology", "new": null, "established": 0.0 },
+            {
+              "service": "MentalHealthCare",
+              "new": 4.777777,
+              "established": 4.568181
+            },
+            { "service": "Orthopedics", "new": null, "established": 0.0 },
+            { "service": "PrimaryCare", "new": 5.5, "established": 1.329113 },
+            {
+              "service": "SpecialtyCare",
+              "new": 14.447368,
+              "established": 3.838709
+            }
+          ],
+          "effectiveDate": "2020-05-25"
+        },
+        "activeStatus": "A",
+        "address": {
+          "mailing": {},
+          "physical": {
+            "zip": "80526-8108",
+            "city": "Fort Collins",
+            "state": "CO",
+            "address1": "2509 Research Boulevard",
+            "address2": null,
+            "address3": null
+          }
+        },
+        "classification": "Multi-Specialty CBOC",
+        "facilityType": "va_health_facility",
+        "feedback": {
+          "health": {
+            "primaryCareUrgent": 0.6200000047683716,
+            "primaryCareRoutine": 0.800000011920929
+          },
+          "effectiveDate": "2019-06-20"
+        },
+        "hours": {
+          "monday": "730AM-445PM",
+          "tuesday": "730AM-445PM",
+          "wednesday": "730AM-445PM",
+          "thursday": "730AM-445PM",
+          "friday": "730AM-445PM",
+          "saturday": "Closed",
+          "sunday": "Closed"
+        },
+        "id": "vha_442GC",
+        "lat": 40.55441312,
+        "long": -105.08653909,
+        "mobile": false,
+        "name": "Fort Collins VA Clinic",
+        "operatingStatus": { "code": "NORMAL" },
+        "phone": {
+          "fax": "970-407-7440",
+          "main": "970-224-1550",
+          "pharmacy": "866-420-6337",
+          "afterHours": "307-778-7550",
+          "patientAdvocate": "307-778-7550 x7517",
+          "mentalHealthClinic": "307-778-7349",
+          "enrollmentCoordinator": "307-778-7550 x7579"
+        },
+        "services": {
+          "other": [],
+          "health": [
+            "Audiology",
+            "MentalHealthCare",
+            "Orthopedics",
+            "PrimaryCare",
+            "SpecialtyCare"
+          ],
+          "lastUpdated": "2020-05-25"
+        },
+        "uniqueId": "442GC",
+        "visn": "19",
+        "website": "https://www.cheyenne.va.gov/locations/Fort_Collins_VA_CBOC.asp"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://staging-api.vets.gov/v0/facilities/va?ids=vha_442%2Cvha_552",
+    "first": "https://staging-api.vets.gov/v0/facilities/va?ids=vha_442%2Cvha_552&page=1&per_page=20",
+    "prev": null,
+    "next": null,
+    "last": "https://staging-api.vets.gov/v0/facilities/va?ids=vha_442%2Cvha_552&page=1&per_page=20"
+  },
+  "meta": {
+    "pagination": {
+      "currentPage": 1,
+      "perPage": 20,
+      "totalPages": 1,
+      "totalEntries": 2
+    }
+  }
+}
