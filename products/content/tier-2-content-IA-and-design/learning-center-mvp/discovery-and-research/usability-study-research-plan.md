@@ -176,5 +176,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md) 
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/conversation-guide.md)
 - [Prototype to be tested](https://vsateams.invisionapp.com/share/YJXZTKC6CN4)
-- Synthesis - coming soon	
-- Read-Out/Results  - coming soon
+- [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md)
