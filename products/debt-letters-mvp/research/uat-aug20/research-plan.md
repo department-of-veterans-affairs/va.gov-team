@@ -116,7 +116,7 @@ We expect sessions to only be 15-30 minutes. **Please schedule sessions for 30 m
 ## Team Roles
 **Please list the people who will be serving in each role.**
 
-- **Moderator**: Leah Keeler
+- **Moderator**: Riley Orr
 - **Research guide writing and task development**: Riley Orr
 - **Participant recruiting & screening**: Perigean
 - **Project point of contact**: Riley Orr, Rebecca Walsh, or Leah Keeler 
