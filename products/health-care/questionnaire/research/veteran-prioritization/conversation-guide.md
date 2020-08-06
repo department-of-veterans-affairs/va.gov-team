@@ -66,6 +66,7 @@ Now that all of the topics are sorted, let's look at each category and sort one 
 Great, thank you for doing that exercise. I'm going to actually share my screen and show  you an example of what one of these forms may look like on the VA website. 
 
 - What are your first impressions of this page?
+- Is there any other information we should include here?
 - Do the labels make sense to you?
 - What do you think these mean?
 - Is this information valuable for you to fill out before an appointment?
