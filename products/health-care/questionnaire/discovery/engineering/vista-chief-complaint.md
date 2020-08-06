@@ -2,7 +2,7 @@
 
 [Information about VAOS](#VAOS) 
 
-## APIs
+## APIs and components
 
 VistaLink is the most flexible API that connects to VistA, it uses RPC calls. 
 
@@ -12,17 +12,22 @@ VistaLink is the most flexible API that connects to VistA, it uses RPC calls.
 - VAMF can have a proxy where it is able to write data on behalf of a veteran where staff authorization would otherwise be needed
 - CPRS does not access PGD
 - VIA is an older SOAP based API that uses WebLogic. 
+- VCM is used for video based visits but may also be used to access PGD
 
 
 ## Chief Complaint Field
 
-1. To import PDF files into VistA, VistaImage could be used https://www.va.gov/health/imaging/
-2. A better approach had seemed to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. However 
-  - Staff permissions are needed to write to VistA using VAMF so 
-3. The best approach currently to investigate is to write to PGD using VAMF and a proxy.
-4. PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+#### Limited access to VistA using VAMF
 
-## Discreet Fields
+- Importion of PDF files into VistA can be done with VistaImage but this didn't seem like a good approach https://www.va.gov/health/imaging/
+- A better approach had seemed to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. However Staff permissions are needed to write to VistA using VAMF
+
+#### using FHIR Questionnaire/VCM into PGD
+
+- The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
+- PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+
+## Discreet Fields to VistA note (currently not feasible)
 
 VistA has many thousands of different record types but adding a new record type is non trivial and involves an extensive review process. 
 
