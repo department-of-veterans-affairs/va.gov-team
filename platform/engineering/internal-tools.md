@@ -161,7 +161,7 @@ These steps assume your SSH keys have been authorized and that you're running on
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
     * Click [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and copy the entire URL within the new tab.
-      1. From within the terminal (Mac) or Git Bash (Windows), run the following command making sure to change the URL to the one you now have copied: `curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE > ~/.ssh/config`. 
+      1. From within the terminal (Mac) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE`): `curl $URL > ~/.ssh/config`. 
 ```
 ❯ curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE > ~/.ssh/config
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
