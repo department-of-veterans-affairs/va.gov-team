@@ -30,14 +30,13 @@ Users will:
 #### The process
 
 - There will be a quick introduction to UAT
-- The session will begin recording
 - The participant will be guided to the 686 intro
 - The user will proceed through the 686 and submit
 - Participants will be advised as to what expect during processing
 - There will be a quick Q/A and wrap-up 
 - Success will be measured as 80% of participants can successfully submit their 686, with the remaining 20% having a straight-forward remediation path
 
-### Participants & recruitment
+### Participants & recruiting
 Participants will be recruited via Perigean. The study will require eight (8) Veterans from a range of service backgrounds. Participant criteria include:
 
 - Must have verified disability rating of greater than 30%
