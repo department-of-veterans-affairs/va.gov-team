@@ -12,7 +12,6 @@ BAH | GIBCT Search & Filters | NOT STARTED | Usability prep 8/4 <br> https://git
 BAH | School ratings | NOT STARTED | Design Intent held 7/16<br>https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-ratings.md
 Public Websites | Learning Center | NOT STARTED | No kick-off, Design intent collab held 7/10 (was not able to attend) 
 eBenefits | VRE/Chapt 31 | IN PROGRESS | Kick-off 5/8 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt31.md
-BAH | STEM Scholarship App | DRAFT CREATED | Usability testing prep 6/1 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 eBenefits | PCPG/Chapt 36 Career Counseling | IN PROGRESS | Kick-off held 4/10 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-chapt36.md
 eBenefits | Representatives/POA | NOT STARTED | Kick-off held 3/24 <br> https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-representative.md
 BAM 2 | Debt Letters | IN PROGRESS | Sent draft on 7/24 for upcoming research <br> https://app.moqups.com/Rnc4BDEKrA/view/page/a1803040d
@@ -26,6 +25,7 @@ BAM 2 | Debt Letters | IN PROGRESS | Sent draft on 7/24 for upcoming research <b
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+BAH | STEM Scholarship App | COMPLETE 08/06/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-stem-app.md
 BAM 1 | Benefits Delivery at Discharge |  COMPLETE 07/14/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-benefits-at-discharge.md
 Authenticated Experience | Profile 2.0 | COMPLETE 06/25/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/auth-exp-profile-v2.md
 eBenefits | Payment History | COMPLETED 6/5/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-payment-history.md
