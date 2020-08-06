@@ -28,17 +28,19 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **How easily are people able to navigate between learning center articles, and topics?**
 
-- Easily. Clicking links between articles and finding their way back to the learning center homepage.
-- That being said, we had to guide users along the way to such a degree that
+- Easily. Clicking links between articles and finding their way back to the learning center homepage didn't pose a problem for participants.
 
 **Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful?**
 
-- Generally, yes. They helped participants 
+- Generally, yes. They helped participants determine differences between similar sounding articles and set expectation for what they might find once they clicked.
+-  `Question and answer` vs `FAQs` posed some challenges for participants
+  - 1 participant was totally unsure what the difference would be.
+  - Participant 13 said "Question and answer is where people have asked a question and received an answer, and the other is just a list of facts (or FAQs?)" 
 
 **What do people see as the difference between the learning center search and overall site search?**
 
-- Multiple people stated they thought the learning center content was related to benefits and benefit information, whereas overall site search would be more high-level "about the VA" content
-- 
+- The majority of people understood learning center search would focus the query in the learning center itself, and that overall site search was a broader, VA-wide search function.
+- However, multiple people stated they thought the learning center content was related to benefits and benefit information, whereas overall site search would be more high-level `about the VA` content
 
 **Do people get confused if they click on a content link or CTA button in the learning center and it takes them to a benefit hub page? And vice versa?**
 
@@ -48,12 +50,11 @@ This topline summary is a **high level, top of mind summary** of trends found in
 **Do people understand that information they don't find in the learning center might be in the benefit hub?**
 
 - People didn't differentiate between the learning center or benefit hub.  
-- When asked about where they would find hub information while in the learning center (e.g. applying for a benefit they don't have), most people said they would search, and expected they would stay in the learning center.
+- When asked about where they would find hub information while in the learning center (e.g. applying for a benefit they don't have), most people said they would search, and expected to stay in the learning center.
 
 **Where would the most useful place be to provide links to the Learning Center?**
 
-- The majority of the people we spoke to said they'd expect to see something about the learning center prominently displayed on the homepage.
-- 2 people expected to see it in the navigation.
+- The majority of the people said they'd expect to see something about the learning center prominently displayed on the homepage, or somewhere in the site header.
 - 1 person expected it to be promoted offline in order to learn of its existence.
 
 ## Hypotheses & Answers
@@ -64,7 +65,7 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **Template labels will help people determine which search result is most relevant to their search.**
 
-- 
+- Mostly true. `Question and answer` vs `FAQ` was confusing to some people.
 
 **People will understand the difference between the Learning Center search and global site search.**
 
@@ -79,13 +80,11 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **Our proposed IA will be effective for Veterans and those who support Veterans.**
 
-- 
+- People found the topics and audience organization of information on the homepage helpful and easy to understand. 
+- People understood  how the tags applied to articles.
+- Most of the participants expected to find what we would identify as Tier 1 content in the learning center.
 
 ## Other Findings
-
-**We should test navigability between articles and the benefit hub again with a live product (rather than a prototype) **
-
-- Answer
 
 **Some people weren't clear that the Learning Center was *part* of VA.gov, rather they talked about it as if it was the whole site.  **
 
@@ -100,10 +99,6 @@ This topline summary is a **high level, top of mind summary** of trends found in
 **2 of 8 Veterans understood the "You're a Veteran..." box to contain personal information specific to them**
 
 - Answer
-
-**No one tried to use search from an article to try to find information from an article page**
-
-- 
 
 **Most people understood the tags were clickable, but expected them to behave as a filter layer on top of the content they were already viewing.**
 
