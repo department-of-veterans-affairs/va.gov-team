@@ -149,7 +149,12 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 
 5. Confirm everything went well:
     * You will have a subdirectory in your home directory `~/.ssh`
-    * This subdirectory has restrictive permissions `0700`
+    * This subdirectory has restrictive permissions `0700`. Please see the example below, directory permissions of `0700` should reflect the `rwx` seen on the `.ssh` directory. The beginning `d` explains that `.ssh` is a directory and should also be present. 
+    ```
+    ❯ ls -al | grep .ssh
+    -rw-------    1 jeremybritt  staff      28 Jun 12 14:13 .lesshst
+    drwx------    8 jeremybritt  staff     256 Aug  6 11:27 .ssh
+    ```
     * In this subdirectory you will have two files, `id_rsa_vagov` and `id_rsa_vagov.pub`
     * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vagov.pub`. This should give a long string of random characters (e.g. ssh-rsa AAAAAjfje983jJL3j2....).
     * \***PLEASE NOTE**\*: Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Mac users](https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically) to load their desired key(s) automatically.
