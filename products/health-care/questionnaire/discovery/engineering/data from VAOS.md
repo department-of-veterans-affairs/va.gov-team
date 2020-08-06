@@ -25,13 +25,12 @@ http://localhost:3000/vaos/v0/appointments?start_date=2020-08-04T04:00:00.000Z&e
 http://localhost:3000/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-09-04&type=cc
 ```
 
-./requests.json
 
 ```
 http://localhost:3000/vaos/v0/appointment_requests?start_date=2020-07-05&end_date=2020-08-04
 ```
-
-<a href="https://raw.githubusercontent.com/massrb/images-and-content/master/requests.json" target="_blank">Returned JSON</a>
+requests.json
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
 
 ./facilities.json
