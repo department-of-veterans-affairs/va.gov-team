@@ -11,6 +11,16 @@
 ## Epic User Story
 As a Veteran, I want to provide my my care team with what is important to me to focus on for this visit.
 
+**Clinician Use Case Example:** 
+You are a primary care clinician seeing patients in your office. You glance at the intake form of your last patient of the day and notice that she is a 38-year-old woman with left-sided neck pain for 1 week. She is a patient whom you have never met before. You have 15 minutes for her visit.
+
+-   **How can you elicit the patient's full agenda for the visit in 1 minute or less?**
+-   **How can you elicit a patient-centered description of her neck pain?**
+-   **How can you obtain the personal and emotional context of her neck pain?**
+-   **How can you determine other environmental or social factors not related to her neck pain that may impact her care?**
+-   **How can you determine if her neck pain is her only concern or reason for her visit?**
+
+
 ## Solution Approach
 The patient interview is the primary way of obtaining comprehensive information about the patient in order to provide effective patient-centered care.  An approach used to obtain information from the patient, usually starting with determining the patients chief complaint, also known as the reason for the healthcare visit, and then delving further into tan exploration of the patients specific complaint and problem.  A comprehensive patient interview includes inquiring about the patients medical, medication, social, a personal, and family history, as well as a thorough review of systems and physical examinations. 
 
@@ -30,7 +40,7 @@ Start with open-ended question “How can I help you today?” brings focus to t
 ### Avoid having to repeat health history across the continuum of care
 
 **Visit Reason (5G)**
-> As a Veteran, I want to provide my care team with the reason for my visit so that they can prepare in advance if tests should be completed, noted stressors/triggers, or an acute concern should change my appointment date.
+> As a Veteran, I want to provide my care team with the reason for my visit so that they know why Im coming in for care and so I can prepare in advance if tests should be completed, noted stressors/triggers/concerns, or an acute concern should change my appointment date.
 
  1. [Reason for Visit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/product/initiatives/this-visit.md) - can we pre-populated unauth (based on info we get with the trigger/link) and auth from CPRS/VAOS.  
 
