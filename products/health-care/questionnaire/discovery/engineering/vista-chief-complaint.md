@@ -1,6 +1,7 @@
 # Putting Chief Complaint field into VistA
 
 [Current best approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vista-chief-complaint.md#using-fhir-questionnairevamf-into-pgd)
+
 [Information about VAOS](#VAOS) 
 
 ## APIs and components
