@@ -16,6 +16,8 @@ The patient interview is the primary way of obtaining comprehensive information 
 
 The first impression you make on your patient will weigh on the rest of the patient interview as well as affect your relationship with the patient. Building a good rapport sets the tone for the interview an allows the patient to feel comfortable with you thereby making the lines of communication more open and honest. Patients may sometimes withhold information if they feel uncomfortable or anxious about sharing their complaints because of a lack of feeling respected, feeling as though their words are not being heard, or quite simply not knowing who you are and what your role is in their care. [the patient interview](http://samples.jbpub.com/9781449652722/9781449645106_CH01_001_036.pdf) 
 
+Start with open-ended question “How can I help you today?” brings focus to the purpose of the visit, enabling patients to discuss anything relevant to their health, and emphasizes the physician’s role as a helper. It is the preferred initial statement for initial and follow-up visits.
+
 - Numerous studies document the need to improve physician-patient communication. Patients report that physicians are not sufficiently attentive to their concerns, and patients often do not understand what they are told. When interviewed immediately after office visits, patients recall only one-half or less of important information given to them. [Physicians Ask Patients to Explain Reason for Visit, Then Interrupt](https://www.legalreader.com/physicians-ask-patients-explain-reason-visit-interrupt/)
 
 
