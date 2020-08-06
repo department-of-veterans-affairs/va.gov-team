@@ -8,6 +8,32 @@
 - Measure outcomes where possible
 - Remember the Contact Center (Alamo!) and the issues they deal with
 ----
+## Sprint 27 (7/29 - 8/11)
+```diff
+- 69 points over 23 issues
+```
+## 1. Prepare "Dependency Claims" for launch
+- FE and BE activities to move 686 closer to launch, target Staging Review
+- Team: Perform e2e testing with partner systems (Wednesday 8/12)
+- Product: Schedule moderated UAT (Stretch Goal: run UAT)
+- Team: Scope immediate post-launch business requirements (1/ Prevent <30% rating from starting the application; 2/ Include Pension questions; 3/ others as identified)
+## 2. Representative: Design Iteration
+- Design: Iterate on product designs (view, search, submit) and schedule further Collab Cycle activities as needed
+- FE: (Stretch Goal): Scaffold "View Representative" page (with links to eBen for search and submit)
+## 3. View My Payments: Dev Activities and Ongoing Design Activities
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+- FE: Complete all development possible without BE in place
+- BE: (Stretch Goal) Rough in View Payments service, return staging data to FE
+## 4. VRE (CH31) and PCPG (CH36): Design and Dev Iteration
+- Design: Iterate on product designs and schedule further Collab Cycle activities as needed
+- FE: Continue scaffolding applications (forms and eligibility wizards)/ complete all development possible without BE in place
+
+**NOTES**  
+- VRE golive is Oct 1, PDF to Central Mail
+- PCPG golive "best case scenario" is Oct 22, "no later than" Nov 26, PDF to central Mail
+- BAM2 will work on View My Documents
+- Authd-exp will do technical discovery on EDU DDEFT
+
 ## Sprint 26 (7/15 - 7/28)
 ```diff
 - 83 points over 27 issues
