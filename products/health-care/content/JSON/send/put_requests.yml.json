@@ -1,0 +1,8 @@
+'{"phoneNumber":"(111) 111-1111","optionDate1":"11/29/2019","optionTime1":"AM","optionDate2":"No
+   Date Selected","optionTime2":"No Time Selected","optionDate3":"No Date Selected","optionTime3":"No
+   Time Selected","status":"Cancelled","appointmentType":"Primary Care","visitType":"Office
+   Visit","textMessagingAllowed":false,"purposeOfVisit":"Routine Follow-up","providerId":"0","secondRequest":false,"secondRequestSubmitted":false,"requestedPhoneCall":false,"typeOfCareId":"323","hasVeteranNewMessage":false,"hasProviderNewMessage":true,"providerSeenAppointmentRequest":false,"patientId":"1259897978","appointmentRequestId":"8a4886886e4c8e22016e92be77cb00f9","uniqueId":"8a4886886e4c8e22016e92be77cb00f9","id":"8a4886886e4c8e22016e92be77cb00f9","createdDate":"11/22/2019
+   05:53:0","lastUpdatedDate":"11/22/2019 05:53:06","assigningAuthority":"ICN","systemId":"var","objectType":"VARAppointmentRequest","surrogateIdentifier":{},"facility":{"name":"DAYTSHR
+   -Lima VA Clinic","facilityCode":"984GB","state":"OH","city":"Lima","parentSiteCode":"984","objectType":"Facility"},"patient":{"displayName":"Morrison,
+   Judy","firstName":"Judy","lastName":"Morrison","dateOfBirth":"Apr 01, 1953","patientIdentifier":{"uniqueId":"1259897978"},"ssn":"796061976","inpatient":false,"textMessagingAllowed":false,"id":"1259897978","objectType":"Patient"},"bestTimetoCall":["Morning"],"appointmentRequestDetailCode":[{"userId":"1012845331V153043","detailCode":{"code":"DETCODE8"}}],"patientIdentifier":{"assigningAuthority":"ICN","patientIdentifier":"1012845331V153043"}}'
+  
