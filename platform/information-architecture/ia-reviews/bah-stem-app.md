@@ -1,5 +1,5 @@
 # IA Review and Recommendations
-**STATUS: DRAFT** 
+**STATUS: COMPLETE 8/6/2020** 
 
 **Team:** BAH
 
