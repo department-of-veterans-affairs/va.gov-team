@@ -32,4 +32,9 @@ __blah.va.gov subdomain pages:__
 
 * _We were able to crawl only 379 subdomains. The remaining sudomains didn't have pages that could be mapped (bc of the way the pages are built) but probably do have have content. So this is an under count of what's really out there._
 
+__Draft deck for Jeff and Chris__
+
+This is a draft deck provided to Jeff Barnes, Mary O'Tool, and Chris Johnston re VA TeamSite contract situation.
+SharePoint: https://dvagov-my.sharepoint.com/:p:/g/personal/jennifer_lee27_va_gov/EcqD5iRhmaJAnJsPvZsjAx0BSGX3UsD01hXpIAscaxZDDQ
+
 
