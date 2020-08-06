@@ -79,7 +79,7 @@ We would like **21** total participants.
 - 3 participants who have more than one current VA debt (mixture of CH 33, CH 35, and Compensation & Pension debts) 
 - All participants must be LOA3 (identity verified) on VA.gov. Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov with any of their credentials and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
 - All participants must be comfortable providing the last four numbers of their SSN. This information, in addition to their full name, will be sent to both the Debt Management Center (DMC) and VBMS so the participant's debt information shown within the tool can be verified with the participant’s debt information within their record.<br>
-_- All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production. - Leah is verifying this with Matt_
+- All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production.
 
 - Be able to screenshare via Zoom. Please confirm with them that they have Zoom downloaded prior to the session and they know how to screenshare. If they can not get Zoom working, there is no interview portion of this research and they will not be able to participate.
 
