@@ -88,19 +88,25 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **Some people weren't clear that the Learning Center was *part* of VA.gov, rather they talked about it as if it was the whole site.  **
 
-- Answer
+- This was interesting to me, haven't dug in to determine if it should be included in the report 
 
 **The name "Learning Center" felt right for this product for X of 8 Veterans**
 
-- 2 people expected something called "Learning Center" to contain information related specifically to education, or that it would contain educational content such as ` how to use the VA website` or `using Microsoft word`
-- 1 person described the Learning Center to be something that was totally dedicated to them, where they could learn about their claim status, prescriptions, etc.
+- Before seeing the prototype:
+  - 2 people expected something called "Learning Center" to contain information related specifically to education, or that it would contain educational content such as ` how to use the VA website` or `using Microsoft word`
+  - 1 person described the Learning Center to be something that was totally dedicated to them, where they could learn about their claim status, prescriptions, etc.
 - Veteran Assistance, Information Center, and Vet Scope were alternative name suggestions.
 
 **2 of 8 Veterans understood the "You're a Veteran..." box to contain personal information specific to them**
 
-- Answer
+- Expected the "show more" link to reveal actions they could take as a Veteran, such as check the status of a claim, viewing profile information, etc.
 
-**Most people understood the tags were clickable, but expected them to behave as a filter layer on top of the content they were already viewing.**
+**5 of 8 people understood the tags were clickable. **
 
-- 
+- Some expected them to behave as a filter layer on top of the content they were already viewing.
+- This finding may belong as a detail under the first research question.
+
+**Multiple people expressed frustration with using site search on va.gov**
+
+- Returns articles that send you away from the site to complete your task.
 
