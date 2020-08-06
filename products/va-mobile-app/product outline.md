@@ -11,16 +11,16 @@ How might we enable Veterans to complete quick transactions across VA?
 
 ## Desired User Outcomes
 
-Traffic on VA.gov suggests that nearly 40% of users are accessing the site on their mobile devices. Even more, analytics suggests that a high volume of users are accessing the site for short durations to do quick tasks such as access the facility locator or view claim status. 
-One of the biggest pain points for users who come to VA.gov for quick these short interactions is the time it takes to login. A mobile app provides unique opportunities to optimize this experience by leveraging biometric login, which will make it so users can login to the VA app and stay logged in for up to 30 days.
-By leveraging other native phone features such as notifications, a mobile app can send status updates to users in real time rather than users having to continuously check VA.gov for changes. Similarly, by leveraging the phone functionality and navigation, users will be able to call/text/chat VA services directly from the app and initiate map functionality if they are going to a VA facility and need directions, for example. 
-The outcome of combining these native features into one app, is that it will make it simpler and faster for users to interact with VA and complete day-to-day transactions.
+- Traffic on VA.gov suggests that nearly 40% of users are accessing the site on their mobile devices. Even more, analytics suggests that a high volume of users are accessing the site for short durations to do quick tasks such as access the facility locator or view claim status. 
+- One of the biggest pain points for users who come to VA.gov for quick these short interactions is the time it takes to login. A mobile app provides unique opportunities to optimize this experience by leveraging biometric login, which will make it so users can login to the VA app and stay logged in for up to 30 days.
+- By leveraging other native phone features such as notifications, a mobile app can send status updates to users in real time rather than users having to continuously check VA.gov for changes. Similarly, by leveraging the phone functionality and navigation, users will be able to call/text/chat VA services directly from the app and initiate map functionality if they are going to a VA facility and need directions, for example. 
+- The outcome of combining these native features into one app, is that it will make it simpler and faster for users to interact with VA and complete day-to-day transactions.
 ## Undesired User Outcomes
-Inundate Veterans with notifications or communications that they are already getting from VA via mail, email or text
+Adding another medium to VA's digital ecosystem could cause confusion for users if the intent of the app isn't communicated clearly.
 ## Desired Business Outcomes
 Empower business lines to provide targeted communication to Veterans. By building a mobile app, business units have the opportunity to close some of the existing communication gaps that exist at VA. For example, business units will be able to push notifications to users when pertinent information is available on either an individual or VA-wide level. This reduces the burden on Veterans themselves from having to navigate through VA to track down the status of their claims, or when their next healthcare appointment is. 
-
-
+## Undesired Business Outcomes
+Create traffic control issues between existing platforms (eg, notifications that are sent on the app should be consistent and in sync with notifications that the business lines are sending via other platforms)
 
 ---
 ## Measuring Success
