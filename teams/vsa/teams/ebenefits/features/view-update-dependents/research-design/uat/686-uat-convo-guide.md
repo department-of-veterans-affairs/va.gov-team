@@ -38,13 +38,13 @@ You'll be using a new feature we have on VA.gov: VA form 21-686c, the one you us
 
 Good! The next questions are about your computer and browser.
 - Can you tell me what type of computer you are using today?
-  - I ask this because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
+  - We ask because sometimes the type of computer can affect your experience with the tools. Knowing which one you are using will help our developers make adjustments if needed.
 - Can you tell me which web browser you are using? Are you OK using Chrome?
 
-Today we are going to observe you completing a 21-686c. We're nopt recording this session, but we need to see your screen as you move through the form. Would you feel comfortable sharing your screen at this time?
-- If no: Explain this is necesary for testing. If they are still unwilling (e.g. because of personal info), end the call.
+Today we're going to observe you completing a 21-686c. We're not recording this session, but we need to see your screen as you move through the form. Are you comfortable sharing your screen at this time?
+- If not: Explain this is necesary for testing. If they are still unwilling (e.g. because of personal info), end the call.
 
-OK, please share your screen, and then we will get started.
+OK, please share your screen, and we'll get started.
 
 ## UAT testing of 21-686c
 
@@ -77,9 +77,11 @@ OK, please share your screen, and then we will get started.
   - [ ] **UAT item:** Form submits and user is presented with confirmation screen.
 
 ## Wrap-up
---Content--
+That is the end of what we're testing. Do you have any questions or comments about the new 686?
+
+[ We may need to let the participant know how processing will go, or what their next steps might be. We will get input from business on what info or guidance we can give the user. ] 
 
 ## Closing
---Content--
+Thank you so much for taking the time to run through the new 686! Your help is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
 
 ---
