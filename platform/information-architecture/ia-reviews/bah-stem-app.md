@@ -24,8 +24,8 @@
 
 Page | URL | Breadcrumb | Notes
 --- | --- | --- | ---
-STEM static content page | www.va.gov/education/other-va-education-benefits/stem-scholarship  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship  | This is a new static content page that will include an overview of the scholarship, eligibility info and an "Apply now" button that will link to the online application
-STEM application | www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203  | Home > Education and training > Other VA education benefits > Edith Nourse STEM Scholarship > Apply for the Edith Nourse STEM Scholarship | This is the online application for the scholarship. 
+STEM static content page | www.va.gov/education/other-va-education-benefits/stem-scholarship  | Home > Education and training > Other VA education benefits > Edith Nourse Rogers STEM Scholarship  | This is a new static content page that will include an overview of the scholarship, eligibility info and an "Apply now" button that will link to the online application
+STEM application | www.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203  | Home > Education and training > Other VA education benefits > Edith Nourse Rogers STEM Scholarship > Apply for the Rogers STEM Scholarship | This is the online application for the scholarship. 
 
 
 
