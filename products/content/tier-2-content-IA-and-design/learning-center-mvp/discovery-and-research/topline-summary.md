@@ -1,7 +1,5 @@
 # Learning Center MVP Topline Summary
 
-----DRAFT-----
-
 Prepared by: Liz Lantz, Public Websites, August 6, 2020
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/usability-study-research-plan.md)
@@ -21,8 +19,11 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **Is the information easy to find using this search-focused, tag-based navigation?**
 
-- I don't feel the study conclusively evaluated this since the tasks were so specific and the places people expected to find the information were so varied.
--  
+- About half of the Veterans in our study focused on browsing links, rather than using search or navigating by using tags
+- Search results pages were easy for people to navigate
+- Once people realized the tags were clickable, they stated the format of the results were what they expected. Some participants expected the tags to behave has a layer on top of whatever content they were already looking it (and didn't realize the Vietnam War Veterans page was about more than Agent Orange)
+- People didn't immediately find the address information we asked them to find from the learning center homepage; about half of the participants went to their benefit topic area to update their address for that benefit.
+- People felt the way the homepage was organized made it easy to understand what kinds of information was available.
 - "I like the way that it's broken into different benefits - I think a lot of Veterans don't understand that." - P1
 
 **How easily are people able to navigate between learning center articles, and topics?**
@@ -32,7 +33,7 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful?**
 
-- Answer
+- Generally, yes. They helped participants 
 
 **What do people see as the difference between the learning center search and overall site search?**
 
