@@ -3,7 +3,7 @@
 
 #### Appointment page in VAOS
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/appointments%20page.png?raw=true" width="50%" heigh="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/appointments%20page.png?raw=true" width="30%" heigh="30%" />
 
 Going to the schedule and view your appointments page:
 ```
