@@ -59,4 +59,18 @@ http://localhost:3000/v1/facilities/va?ids=vha_442,vha_442GC,vha_552,vha_442GB,v
 <!---- facility_data.json ---->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/facility_data.json)
 
+---
+
+The facility listing page for a new appointment
+```
+https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility
+```
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/content/images/facilities-for-new-appointment.png?raw=true" width="30%" heigh="30%" />
+
+This page makes this request to the backend
+
+```
+http://localhost:3001/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility
+```
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/sites-supporting-var.json)
 
