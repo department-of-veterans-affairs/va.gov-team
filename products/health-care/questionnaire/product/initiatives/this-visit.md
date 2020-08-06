@@ -2,6 +2,7 @@
 
 Use these data elements for UI mockup in User testing as Proof of Concept Q3 priorities. 
 
+[WIP Content for the below Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/design/proof-of-concept/content-v1.md) 
 
 1. **Reason For Visit**
     - free text (small size)
@@ -22,11 +23,10 @@ Use these data elements for UI mockup in User testing as Proof of Concept Q3 pri
     - Name, DOB, Gender
     - contact (phone)
     - address
+
 5. **Form Type** 
     - Primary Care Questionnaire Title
     - Facility
     - Dr. Name
     - Date and Time.
     - [See Loma Linda example for content](https://dsva.slack.com/files/U5HMZDQSK/F016MHJ9MMJ/605-10318183-9694-3200611-140444-pvs_1_.pdf) 
-  
-  
