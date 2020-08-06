@@ -69,11 +69,11 @@ We would like **21** total participants.
 
 **Note:** This tool does not include VA medical copay debts. **Please verify during screening that the participant has one of the following debt types: CH 33, CH 35, or Compensation & Pension** 
 
-- 9 participants who have at least one VA debt (CH 33, CH 35, or Compensation & Pension) that was received at least 90 days prior to March 2020 
+- 9 participants who have at least one VA debt (CH 33, CH 35, or Compensation & Pension) that was received at least 90 days prior to April 3, 2020 
 	- 3 participants who have a CH 33 debt
 	- 3 participants who have a CH 35 debt
 	- 3 participants who have a Compensation & Pension debt
-- 3 participants who have at least one VA debt (CH 33, CH 35, or Compensation & Pension) that was received after March 2020
+- 3 participants who have at least one VA debt (CH 33, CH 35, or Compensation & Pension) that was received after April 3, 2020
 - 3 participants who do not have a current VA debt (CH 33, CH 35, or Compensation & Pension) but have resolved a debt in the past. Please confirm with the participant that their debt has been resolved in one of the following ways: paid in full, waived, or disputed.  
 - 3 participants who have never had a VA debt (CH 33, CH 35, or Compensation & Pension)
 - 3 participants who have more than one current VA debt (mixture of CH 33, CH 35, and Compensation & Pension debts) 
