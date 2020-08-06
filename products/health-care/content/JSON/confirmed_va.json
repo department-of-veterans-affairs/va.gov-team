@@ -1,0 +1,745 @@
+{
+  "data": [
+    {
+      "id": "21cdc6741c00ac67b6cbf6b972d084c1",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2025-06-19T16:00:00Z",
+        "clinicId": "308",
+        "clinicFriendlyName": "Jennie's Lab",
+        "facilityId": "983",
+        "sta6aid": "983GC",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "RP test",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-12-07T16:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "NO ACTION TAKEN/TODAY"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "22cdc6741c00ac67b6cbf6b972d084c0",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-02-07T16:00:00Z",
+        "clinicId": "308",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "RP test",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-12-07T16:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "NO ACTION TAKEN/TODAY"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "17dd714287e151195b99164cc1a8e49a",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-07T17:00:00Z",
+        "clinicId": "455",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983GC",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-07T17:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "NO ACTION TAKEN/TODAY"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "1dbdbd7dc057dfa8804bdad7922ad9d5",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-07T18:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983GC",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-07T18:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "ORGAN DONORS",
+            "currentStatus": "NO ACTION TAKEN/TODAY"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "227785b2bc55ddc7f5fc8e7e605a1436",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-07T22:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "Test",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-07T22:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "NO ACTION TAKEN/TODAY"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "1ce12cadba443b10796b2b08c9014f35",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-11T15:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "Prohi",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-11T15:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "4801b409952163910e8555838886285c",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-11T16:00:00Z",
+        "clinicId": "437",
+        "clinicFriendlyName": "VISUAL FIELD",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "30",
+            "appointmentTime": "2020-11-11T16:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "50e8a64cc27db1e571d7af4c2353abd4",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-11T22:00:00Z",
+        "clinicId": "455",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "qrqw",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-11T22:00:00Z",
+            "clinic": {
+              "name": "CHY PC CASSIDY",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "f183c1079a800aa475a6752261284bf0",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2019-11-12T17:00:00Z",
+        "clinicId": "437",
+        "clinicFriendlyName": "VISUAL FIELD",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "TEST MORRISON X",
+            "appointmentLength": "30",
+            "appointmentTime": "2019-11-12T17:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "SERVICE CONNECTED",
+            "currentStatus": "CANCELLED BY CLINIC"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "aa0b61b838b982ec192c7b060f677437",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-13T17:00:00Z",
+        "clinicId": "437",
+        "clinicFriendlyName": "VISUAL FIELD",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "30",
+            "appointmentTime": "2020-11-13T17:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "SERVICE CONNECTED",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "5a45c368a4260110b92ad065f453d0cd",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-14T13:00:00Z",
+        "clinicId": "3748",
+        "clinicFriendlyName": "AUDIOLOGY FELLOW (AM)",
+        "facilityId": "984",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "15",
+            "appointmentTime": "2020-11-14T13:00:00Z",
+            "clinic": {
+              "name": "DAY AUDIOLOGY FELLOW 1",
+              "askForCheckIn": false,
+              "facilityCode": "984"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "60622b2f8cb5b99435d23614482ee98e",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-14T18:00:00Z",
+        "clinicId": "1020",
+        "clinicFriendlyName": "WHEATLAND AUDIOLOGY",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "RP test",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-14T18:00:00Z",
+            "clinic": {
+              "name": "WHT AUDIO VAR2",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "241fe504bbe31d0d54d726bb02f023e9",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-15T20:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-15T20:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "c2e2d8879bee720c100f3c6611fa410d",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-18T15:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "test visual field",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-18T15:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "0ad3a5a68965120c843017b8a04a51ab",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-18T16:00:00Z",
+        "clinicId": "437",
+        "clinicFriendlyName": "VISUAL FIELD",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "checking prohi",
+            "appointmentLength": "30",
+            "appointmentTime": "2020-11-18T16:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "abee9501dffe3bc0e9cc21e7ce4719d6",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-20T15:00:00Z",
+        "clinicId": "408",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": "TEST",
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-20T15:00:00Z",
+            "clinic": {
+              "name": "CHY OPT VAR1",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "20ab081dfe1ec140f21191127733a20c",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-20T17:00:00Z",
+        "clinicId": "437",
+        "clinicFriendlyName": "VISUAL FIELD",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "30",
+            "appointmentTime": "2020-11-20T17:00:00Z",
+            "clinic": {
+              "name": "CHY VISUAL FIELD",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "REGULAR",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "9182c2bde1af0c76b75340b523f7b8cb",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-21T16:00:00Z",
+        "clinicId": "945",
+        "clinicFriendlyName": "C&P BEV AUDIO FTC",
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "60",
+            "appointmentTime": "2020-11-21T16:00:00Z",
+            "clinic": {
+              "name": "ZZFTC C&P AUDIO BEV",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "COMPENSATION & PENSION",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    },
+    {
+      "id": "9effc41f1dc18b33fe3a6014d1b9aea0",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-22T13:35:00Z",
+        "clinicId": null,
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [],
+        "vvsAppointments": [
+          {
+            "id": "250afc0b-8551-4a79-bbc9-cf5cdd6575c2",
+            "appointmentKind": "MOBILE_GFE",
+            "sourceSystem": "SM",
+            "dateTime": "2020-11-22T13:35:00Z",
+            "duration": 20,
+            "status": { "description": "F", "code": "FUTURE" },
+            "schedulingRequestType": "NEXT_AVAILABLE_APPT",
+            "type": "REGULAR",
+            "bookingNotes": "Follow-up/Routine: asfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasf",
+            "instructionsOther": false,
+            "instructionsTitle": "Medication Review",
+            "patients": [
+              {
+                "name": { "firstName": "JUDY", "lastName": "MORRISON" },
+                "contactInformation": {
+                  "mobile": "7036520000",
+                  "preferredEmail": "samatha.girla@va.gov"
+                },
+                "location": {
+                  "type": "NonVA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "patientAppointment": true,
+                "virtualMeetingRoom": {
+                  "conference": "VVC1012210",
+                  "pin": "4790493668#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VVC1012210@care2.evn.va.gov&pin=4790493668#"
+                }
+              }
+            ],
+            "providers": [
+              {
+                "name": { "firstName": "Vilasini", "lastName": "Reddy" },
+                "contactInformation": {
+                  "mobile": "6767676767",
+                  "preferredEmail": "vilasini.reddy@va.gov",
+                  "timeZone": "10"
+                },
+                "location": {
+                  "type": "VA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "virtualMeetingRoom": {
+                  "conference": "VVC1012210",
+                  "pin": "3527890#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?name=Reddy%2CVilasini&join=1&media=1&escalate=1&conference=VVC1012210@care2.evn.va.gov&pin=3527890#"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9effc41f1dc18b33fe3a6014d1b9aea1",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2019-11-22T13:35:00Z",
+        "clinicId": null,
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [],
+        "vvsAppointments": [
+          {
+            "id": "250afc0b-8551-4a79-bbc9-cf5cdd6575c2",
+            "appointmentKind": "MOBILE_GFE",
+            "sourceSystem": "SM",
+            "dateTime": "2019-11-22T13:35:00Z",
+            "duration": 20,
+            "status": { "description": "F", "code": "FUTURE" },
+            "schedulingRequestType": "NEXT_AVAILABLE_APPT",
+            "type": "REGULAR",
+            "bookingNotes": "Follow-up/Routine: asfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasfasfdasdfasdfasf",
+            "instructionsOther": false,
+            "patients": [
+              {
+                "name": { "firstName": "JUDY", "lastName": "MORRISON" },
+                "contactInformation": {
+                  "mobile": "7036520000",
+                  "preferredEmail": "samatha.girla@va.gov"
+                },
+                "location": {
+                  "type": "NonVA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "patientAppointment": true,
+                "virtualMeetingRoom": {
+                  "conference": "VVC1012210",
+                  "pin": "4790493668#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VVC1012210@care2.evn.va.gov&pin=4790493668#"
+                }
+              }
+            ],
+            "providers": [
+              {
+                "name": { "firstName": "Vilasini", "lastName": "Reddy" },
+                "contactInformation": {
+                  "mobile": "6767676767",
+                  "preferredEmail": "vilasini.reddy@va.gov",
+                  "timeZone": "10"
+                },
+                "location": {
+                  "type": "VA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "virtualMeetingRoom": {
+                  "conference": "VVC1012210",
+                  "pin": "3527890#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?name=Reddy%2CVilasini&join=1&media=1&escalate=1&conference=VVC1012210@care2.evn.va.gov&pin=3527890#"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "05760f00c80ae60ce49879cf37a05fc8",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-25T15:17:00Z",
+        "clinicId": null,
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "communityCare": false,
+        "vdsAppointments": [],
+        "vvsAppointments": [
+          {
+            "id": "8a74bdfa-0e66-4848-87f5-0d9bb413ae6d",
+            "appointmentKind": "ADHOC",
+            "sourceSystem": "SM",
+            "dateTime": "2020-11-25T15:17:00Z",
+            "duration": 20,
+            "status": { "description": "F", "code": "FUTURE" },
+            "schedulingRequestType": "NEXT_AVAILABLE_APPT",
+            "type": "REGULAR",
+            "bookingNotes": "T+90 Testing",
+            "instructionsOther": false,
+            "instructionsTitle": "Video Visit Preparation",
+            "patients": [
+              {
+                "name": { "firstName": "JUDY", "lastName": "MORRISON" },
+                "contactInformation": {
+                  "mobile": "7036520000",
+                  "preferredEmail": "marcy.nadeau@va.gov"
+                },
+                "location": {
+                  "type": "NonVA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "patientAppointment": true,
+                "virtualMeetingRoom": {
+                  "conference": "VVC8275247",
+                  "pin": "3242949390#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?join=1&media=1&escalate=1&conference=VVC8275247@care2.evn.va.gov&pin=3242949390#"
+                }
+              }
+            ],
+            "providers": [
+              {
+                "name": { "firstName": "Test T+90", "lastName": "Test" },
+                "contactInformation": {
+                  "mobile": "8888888888",
+                  "preferredEmail": "marcy.nadeau@va.gov",
+                  "timeZone": "10"
+                },
+                "location": {
+                  "type": "VA",
+                  "facility": {
+                    "name": "CHEYENNE VAMC",
+                    "siteCode": "983",
+                    "timeZone": "10"
+                  }
+                },
+                "virtualMeetingRoom": {
+                  "conference": "VVC8275247",
+                  "pin": "7172705#",
+                  "url": "https://care2.evn.va.gov/vvc-app/?name=Test%2CTest+T%2B90&join=1&media=1&escalate=1&conference=VVC8275247@care2.evn.va.gov&pin=7172705#"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4227b97525d391317293f4d129d53106",
+      "type": "va_appointments",
+      "attributes": {
+        "startDate": "2020-11-27T15:00:00Z",
+        "clinicId": "1140",
+        "clinicFriendlyName": null,
+        "facilityId": "983",
+        "sta6aid": "983",
+        "communityCare": false,
+        "vdsAppointments": [
+          {
+            "bookingNote": null,
+            "appointmentLength": "20",
+            "appointmentTime": "2020-11-27T15:00:00Z",
+            "clinic": {
+              "name": "MARCYTESTSLOTS",
+              "askForCheckIn": false,
+              "facilityCode": "983"
+            },
+            "type": "SERVICE CONNECTED",
+            "currentStatus": "FUTURE"
+          }
+        ],
+        "vvsAppointments": []
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "currentPage": 0,
+      "perPage": 0,
+      "totalPages": 0,
+      "totalEntries": 0
+    }
+  }
+}
