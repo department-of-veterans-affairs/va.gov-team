@@ -28,7 +28,7 @@ http://localhost:3000/vaos/v0/appointments?start_date=2020-08-04&end_date=2021-0
 ```
 http://localhost:3000/vaos/v0/appointment_requests?start_date=2020-07-05&end_date=2020-08-04
 ```
-<span style="font-size: 8px; !important;">requests.json</span>
+<span style='font-size: 8px; !important;'>requests.json</span>
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
 
