@@ -95,7 +95,7 @@ We are looking to start sessions **August 14th**.
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-The Debt Letters MVP will be live on production behind a feature flag on **August 12th**.
+The Debt Letters MVP will be live on production behind a feature flag on **August 5th**.
 
 3. **Length of Sessions: How long do you estimate each session will be?**
 
