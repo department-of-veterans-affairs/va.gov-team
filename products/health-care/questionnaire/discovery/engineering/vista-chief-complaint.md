@@ -1,5 +1,8 @@
 # Putting Chief Complaint field into VistA
 
+This document represents the history of the older research items. The current direction is found here
+[Current best approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2)
+
 [Current best approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vista-chief-complaint.md#using-fhir-questionnairevamf-into-pgd)
 
 [Information about VAOS](#VAOS) 
@@ -47,16 +50,8 @@ VistA has many thousands of different record types but adding a new record type 
 - There is a VistALink sandbox that requires using Azure Commercial Cloud https://github.com/WorldVistA/VistA-in-the-Cloud
 - These notes regarding VistaLink are academic until actual means of writing to VistA become available, which possibly they will not.
 
-## VAOS
+## [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vaos)
 
-- VAOS uses VAMF (VA Mobile Framework) to obtain veteran scheduling information.
-- VAOS is essentialy the VAOS Rails engine/Gem in vets-api that lives in the modules/vaos directory and has it's own set of Rails Routes. 
-- VAOS connects to VAMF through veteran.apps.va.gov, however in the development and other environments there is no key to connect.
-- The vets-website in dev and other environments actualy does not connect to VAOS but has fake mock data.
-- The VAOS team is sensitive about other teams piggybacking or using their API as it effects their metrics and Paul Short is aware of this. 
-- VAOS is not part of the VA platform support but are more of a services team. 
-- VAOS suggested forking their code but this also has reusability concerns. 
-- More information about the VAMF api specifically would be useful to understand how VAOS data is obtained.
 
 ## Screen shots
 
