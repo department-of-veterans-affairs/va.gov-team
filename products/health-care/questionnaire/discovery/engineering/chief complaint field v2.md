@@ -1,6 +1,7 @@
 # Putting Chief Complaint field into VistA
 
-## Chief Complaint Field
+- The Chief Complaint Field is a designated text blob or PDF that is desired to be entered into PGD
+- Previous research into putting this field into VistA/CPRS concluded that PGD was the best place instead 
 
 #### Using FHIR Questionnaire/VAMF into PGD
 
