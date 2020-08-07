@@ -29,10 +29,10 @@ Your PR is mostly repetitive rspec code that isnt very complex.
 Having > `1000` LoC, doesn't always mean the review will be difficult to review. In this case:
 
 1. [Open a ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) in the `va.gov-team` repo
-2. Use the "Jumbo PR Appeal" Github issue template
+2. Use the "Jumbo PR Appeal" GitHub issue template
 3. Prefix the title with "Jumbo PR Appeal:"
-4. Add the github label "Jumbo PR Appeal"
-5. Add a comment in your PR that links to the appeal github issue
+4. Add the GitHub label "Jumbo PR Appeal"
+5. Add a comment in your PR that links to the appeal GitHub issue
 
 ### What to Expect
 1-3 days for the platform team to review your appeal. If the appeal is granted, the danger-bot CI check will be dismissed and your PR reviewed normally.
