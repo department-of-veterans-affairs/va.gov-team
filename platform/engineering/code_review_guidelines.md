@@ -8,7 +8,7 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 
 We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
-## Code owners 
+## Code owners
 
 Information on how VSP uses code owners can be found [here](code-owners.md).
 
@@ -16,7 +16,7 @@ Information on how VSP uses code owners can be found [here](code-owners.md).
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
 2. If your PR triggers any [additional automated checks](./manual-review-triggers.md), a bot will leave a comment and request a manual review from the **frontend-review-group**
-    - the frontend-review-group completes reviews within one business day 
+    - the frontend-review-group completes reviews within one business day
 3. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 
 *Hint*: Smaller, focused pull requests will make this easier for everyone!
@@ -24,7 +24,7 @@ Information on how VSP uses code owners can be found [here](code-owners.md).
 ## Code Review Guidelines
 
 Your code will be automatically reviewed by automated systems for format, common errors, typical
-language idioms, and code preferences using language-standard tools. 
+language idioms, and code preferences using language-standard tools.
 
 When your code is reviewed, here are some of the things we're looking for:
 
@@ -42,7 +42,7 @@ When your code is reviewed, here are some of the things we're looking for:
     * reference the **GitHub issues** your PR relates to, in order to provide reviewers more context.
 
 * Keep your changes scoped to one feature at a time.
-    * **Size**: changes should be smaller than a few hundred changed lines and a couple dozen files. *If your change can't be smaller than this, talk to the team in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) before asking for a review.*
+    * **Size**: changes should be smaller than a few hundred changed lines and a couple dozen files. Our automated tools will warn you about PRs that are large and automatically fail PRs that are very large. Our FAQ (below) has more information, but if you expect to submit a large pull request you should reach out to the reviewing team early and factor extra time for review into your planning process.
     * **One thing at a time**: feature code, cleanup/refactoring changes, dependency/package upgrades, and database migrations should all be in **separate PRs**. As much as possible, each PR should address a single feature or bug at a time.
 
 * **Linting**: format your code in accordance with style guidelines.
@@ -59,3 +59,11 @@ A.  Unfortunately, you can't change it. But as an alternative, please add "WIP" 
 Q. I need a review *right now*! How do I get one?
 
 A. We try to do pull request reviews quickly, but if you need a review faster, escalate via your DSVA product owner. Please don't post in Slack asking for a review unless it has been more than a full business day.
+
+Q. What do I do if my pull request receives a _warning_ that it is too large?
+
+A. Review your code and decide if you can make two or more smaller, focused pull requests. Feel free to reach out to #vfs-platform-support for help about reducing the size or coordinating a larger review. Expect that reviewing the pull request will take additional time.
+
+Q. What do I do if my pull request was *rejected* because it is too large?
+
+A. As with a _warning_, decide if you can make several smaller pull requests and reach out on the support channel for additional help. Expect that reviewing the pull request may take significant extra time.
