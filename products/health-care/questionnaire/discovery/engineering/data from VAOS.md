@@ -208,7 +208,7 @@ The front end code indicates a POST request to the appointment_request endpoint 
 includes a "reason for visit field". Keep in mind that this is also mock data used by the front end
 
 ```
-/v0/appointment_requests?type=${type}`
+/v0/appointment_requests?type=${type}
 ```
 
 ```
