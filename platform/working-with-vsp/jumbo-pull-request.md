@@ -74,12 +74,7 @@ We know it can mean more work to break your PR up - hats off to you! We find tha
 
 ## Jumbo PR Calculation Rationale
 
-We use lines of code (`LoC`) as a measurement for its simplicity & transparency. We ignore the following when calculating LoC:
-
-```
-EXCLUSIONS = ['Gemfile.lock', '.json', 'spec/fixtures/', '.txt', 'spec/support/vcr_cassettes/', 'app/swagger', '.csv']
-```
-:warning: [The `Dangerfile` for actual calculation](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Dangerfile) should be considered the source of truth, not this document! :warning:
+We use lines of code (`LoC`) as a measurement for its simplicity & transparency. We ignore a number of files when calculating LoC, such as data files (`.json`, `.csv`), `Gemfile.lock`, and `vcr_cassettes`. See the [`vets-api Dangerfile`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Dangerfile) for the full list of exclusions.
 
 You can expand the comment from the bot to see exactly how your LoC were calculated.
 [screen shot of expanded comment]
