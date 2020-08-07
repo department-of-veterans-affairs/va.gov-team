@@ -6,7 +6,7 @@
 ---
 
 #### Background
-In its current implementation, VPH is a pair of filtered tables that show Compensation & Pension, and Education payments made to quailifying Veterans. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Preliminary research indicated that participants often look to their own banking apps to review VA payments rather than logging-in to eBenefits, but users generally found the current eBenefits VPH feature acceptable. Some wanted more advanced search and filting of data.
+In its current implementation, VPH is a pair of filtered tables that show VA Compensation & Pension, and Education payments made to quailifying Veterans. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Preliminary research indicated that participants often look to their own banking apps to review VA payments rather than logging-in to eBenefits, but users generally found the current eBenefits VPH feature acceptable. Some wanted more advanced search and filting of data.
 
 ## Table of contents
 --Content TBD--
@@ -54,15 +54,6 @@ Recruit for 5 fulfilled sessions using the following criteria:
 #### Pilot session
 
 `Date/time TBD`
-
-Participants:
-- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, researcher
-- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
-- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
-- [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
-- [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
-- [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
-- [Jesse Cohn](jesse.cohn@adhocteam.us) -- Frontend engineer
 
 #### eBenefits Team Availability
 
