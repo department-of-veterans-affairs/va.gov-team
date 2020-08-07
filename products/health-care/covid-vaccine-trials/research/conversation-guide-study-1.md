@@ -70,11 +70,10 @@ Before we look at the tool, let’s start with a few warm-up questions.
 - Do you receive any VA benefits at this time?
 - How has your relationship with the VA changed since the start of COVID-19? 
 
+
 ## First Task: Complete intake form - 5 minutes
 
 **Prompt 1** - landing page
-
-- In your own words, what is this page telling you?
 
 - Have you ever participated in a clinical research trial before?
 
@@ -90,6 +89,8 @@ Before we look at the tool, let’s start with a few warm-up questions.
     - What have you heard about vaccine trials? (For coronavirus or any other vaccine research). 
     - Would you ever consider participating in vaccine research at the VA? 
   - Why/Why not?
+
+- In your own words, what is this page telling you?
 
 - Is the information on this page what you expect it to be? 
 
