@@ -1,75 +1,70 @@
-Research Plan for VA.gov Search Improvements
-============================================
+# Research Plan for VA.gov Search Improvements
 
-Goals
------
+---- DRAFT ----
 
-1.  What product & team are you doing this research for?
-    Search enhancements for VA.gov, Public Websites
+## Goals
 
-2.  Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?\
-    Since the release of the modernized VA.gov in November 2018, there has been no dedicated focus to optimize VA.gov's search experience. Analytics tells that search is a primary utility for the modernized VA.gov's users - from June 2019 to June 2020, ~10% of visitors used site search, and ~46% of site visitors come to VA.gov via organic search.
-    We'd like to better understand Veteran's needs and expectations around our site search so we can improve our search experience, and more fully align with our North Star goals.
+1. What product & team are you doing this research for?
 
-3.  Research questions: What question(s) do you hope to be able to answer after completing this research?
+   Search enhancements for VA.gov, Public Websites
 
--   What are people searching for on VA.gov? (From [top questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/research/top_questions.md))
+2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
 
--   How effective is VA.gov's search tool at providing the information people are seeking? (From [top questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/search/research/top_questions.md))
+   Since the release of the modernized VA.gov in November 2018, there has been no dedicated focus to optimize VA.gov's search experience. Analytics tells that search is a primary utility for the modernized VA.gov's users - from June 2019 to June 2020, ~10% of visitors used site search, and ~46% of site visitors come to VA.gov via organic search.
 
--   How do Veterans scan search results?
+   We'd like to better understand Veteran's needs and expectations around our site search so we can improve our search experience, and more fully align with our North Star goals.
 
--   Is there a cognitive disconnect and/or issues for folks that the search results use such a tiny font compared to the rest of the site?
+3. Research questions: What question(s) do you hope to be able to answer after completing this research?
 
--   Do people understand the difference between "top recommendations" and the rest of the results and what are their thoughts on that?
+   - What are people searching for on VA.gov? (From top questions)
+   - How effective is VA.gov's search tool at providing the information people are seeking? (From top questions)
+   - How do Veterans scan search results?
+   - Is there a cognitive disconnect and/or issues for folks that the search results use such a tiny font compared to the rest of the site?
+   - Do people understand the difference between “top recommendations” and the rest of the results and what are their thoughts on that?
+   - What, if any, pain points do Veterans experience when using search?
+   - How do those painpoints differ from mobile to desktop?
+   - What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
+   - Do people utilize or see “More VA search tools”? (get some data on the right rail)
+   - How can search results be improved to improve scanning behavior?
+   - Where do Veterans look for information if they don't find it via VA.gov search?
+   - At what point in their visit do Veterans use site search?
 
--   What, if any, pain points do Veterans experience when using search?
+4. Hypothesis: What is your hypothesis for this research?
 
--   What about search on mobile?
+   - Search inquiries will align with top tasks
 
--   What, if any, advanced search features do Veterans expect? (refinements, type ahead, etc)
+   - Veterans will have the sentiment that VA.gov's search tool is ineffective because: 
 
--   Do people utilize or see "More VA search tools"? (get some data on the right rail)
+     - they'll have too many results to sort through
+     - The information they're looking for will not be immediately apparent
+     - They won't have a way to refine their results
 
--   How can search results be improved to improve scanning behavior?
+   - Pain points will align with ^
 
--   Where do Veterans look for information if they don't find it via VA.gov search?
+   - Veterans will expect filtering functionality on search results
 
--   At what point in their visit do Veterans use site search?
+   - Veterans will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search
 
-4.  Hypothesis: What is your hypothesis for this research?
+   - Veterans will use site search immediately when coming to VA.gov with task in mind, especially if they have not completed that task recently (or ever).
 
--   Search inquiries will align with top tasks
+     
 
--   Veterans will have the sentiment that VA.gov's search tool is ineffective because:
+## Method
 
--   they'll have too many results to sort through
+1. What method of research are you planning?
 
--   The information they're looking for will not be immediately apparent
+   Remote, moderated user interviews using staging.VA.gov
 
--   They won't have a way to refine their results
+2. Why this method? How does this methodology help you answer your research questions?
 
--   Pain points will align with ^
+3. Where are you planning to do your research?
 
--   Veterans will expect filtering functionality on search results
+   Sessions will be held on Zoom
 
--   Veterans will go to a search engine or decide to engage with a person if they don't find what they're looking for via site search
+4. What will you be testing?
 
--   Veterans will use site search immediately when coming to VA.gov with task in mind, especially if they have not completed that task recently (or ever).
+   staging.VA.gov
 
-Method
-------
+5. If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 
-1.  What method of research are you planning?\
-    Remote, moderated user interviews using staging.VA.gov
-
-2.  Why this method? How does this methodology help you answer your research questions?
-
-3.  Where are you planning to do your research?\
-    Sessions will be held on Zoom
-
-4.  What will you be testing?\
-    staging.VA.gov
-
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)\
-    Zoom
+   Zoom
