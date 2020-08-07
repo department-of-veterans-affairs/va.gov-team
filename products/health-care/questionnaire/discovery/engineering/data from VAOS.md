@@ -37,6 +37,9 @@ http://staging.va.gov/vaos/v0/appointment_requests?start_date=2020-07-05&end_dat
 <!--- requests.json --->
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
+The returned JSON will be a series of records, each having a reason for visit field
+[Reason for visit field](Reason for visit field)
+
 ---
 
 ```
@@ -177,4 +180,24 @@ Status OK returned
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/appoint_req_msg.yml.json)
 
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/appoin_req_msg_post.yml.json)
+
+---
+
+## Reason for visit field
+
+A call to the /v0/appointment_request route from the front end, results in a series of records being returned. Each record has a "reason for visit" field
+
+```
+On the backend, recorded VCR mock data indicates possible values for "reasons for visit" to be:
+Allergies, Cold, Ear, Fever, Itching, Other, Rash
+```
+
+The front end mock data, has these possible values:
+```
+"Stomach and bowel problems such as diarrhea, constipation, nausea, vomiting, heartburn",
+"Joint/muscle pain such as knee, shoulder, hip, ankle or foot pain",
+"Joint/muscle pain such as knee, shoulder, hip, ankle or foot pain",
+"High or low blood sugar, blood pressure, heart rate",
+"Rash"
+```
 
