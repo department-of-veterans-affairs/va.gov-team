@@ -32,12 +32,15 @@ This document will focus on Vet Center detail page enhancement
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
-- As a Veteran, I need to search for services so that I can successfully transition from military to civilian life or after a traumatic event.
+- As a Veteran, I need to search for services so that I can successfully transition from military to civilian life or find assistance after a traumatic event.
 - As a family member of an active duty service member, I need to find supportive services for military-related issues.
 
 ### Project Rationale
 _Why should this project be a priority?_ 
-- The VHA runs 300 Vet Centers which are stand-alone, not integrated into VAMC health care systems.  
+- In addition to 300 stand-alone (not integrated into VAMC health care systems) Vet Centers, the VHA runs 
+  - ~ 18 outstations (small physical locations, like Vet Centers)
+  - ~ 1000 community access points (donated space at community partners
+  - 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
 - Vet Centers are under-utilized and under-promoted benefit/service for Veterans, even through they are often the first touchpoint an active service member and/or family has with the VA.
 - Currently, Vet Centers do not have an online presence beyond the minimal information found on the Facility Detail pages within Facility Locator. 
 
@@ -53,7 +56,6 @@ _What's in and what's out?_
 ### Not currently in scope
 
 ### Measuring Success
-chema for Veteran-friendly service taxonomy and structure for Vet Centers established by July 1, 2020. 
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
