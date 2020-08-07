@@ -1,7 +1,7 @@
 
 ## Data Fields from VAOS
 
- The Data here represents sample data. It was obtained from mock data used by vets-website and vets-api
+ The Data here represents sample data for some typical responses. It was obtained from mock data used by vets-website and vets-api
 
 #### Appointment page in VAOS
 
@@ -63,7 +63,10 @@ http://staging.va.gov/v1/facilities/va?ids=vha_442,vha_442GC,vha_552,vha_442GB,v
 
 ---
 
+## New Appointment
+
 The facility listing page for a new appointment
+
 ```
 https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/va-facility
 ```
@@ -77,6 +80,8 @@ http://staging.va.gov/health-care/schedule-view-va-appointments/appointments/new
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/sites-supporting-var.json)
 
 ---
+
+## Express Care Appointment
 
 Express care appointment appointment page
 
