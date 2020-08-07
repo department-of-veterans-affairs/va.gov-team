@@ -13,11 +13,11 @@ The Personalization 2.0 Discovery: Summary and Strategy fully outlines the probl
 
 ### Discovery
 
-For further elaboration on the problems we aim to solve, please see our [Personalization 2.0 discovery work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0). **Note**: This work was originally tracked in the vets.gov-team repo. As of 9/24/19, we are tracking the all future work for Personalization 2.0 in the va.gov-team repo.
+For further elaboration on the problems we aim to solve, please see our [Personalization 2.0 discovery work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md). **Note**: This work was originally tracked in the vets.gov-team repo. As of 9/24/19, we are tracking the all future work for Personalization 2.0 in the va.gov-team repo.
 
 **Key discovery documents**
 
-- [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/summary-strategy.md)
+- [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/README.md)
 - [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/analytics/analytics.md)
 - [Dashboard 2.0 interview and testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
 - [Personalization 2.0 card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/card-sort/research-summary.md)
