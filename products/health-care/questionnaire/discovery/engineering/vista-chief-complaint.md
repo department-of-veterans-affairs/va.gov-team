@@ -3,8 +3,6 @@
 This document represents the history of the older research items. The current direction is found here
 [Current best approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2)
 
-[Current best approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vista-chief-complaint.md#using-fhir-questionnairevamf-into-pgd)
-
 [Information about VAOS](#VAOS) 
 
 ## APIs and components
@@ -27,10 +25,7 @@ VistaLink is the most flexible API that connects to VistA, it uses RPC calls.
 - Importion of PDF files into VistA can be done with VistaImage but this didn't seem like a good approach https://www.va.gov/health/imaging/
 - A better approach had seemed to be to use VistA note which is a text file that is stored in VistA that clinicians have access to through the CPRS gui. However Staff permissions are needed to write to VistA using VAMF
 
-#### Using FHIR Questionnaire/VAMF into PGD
-
-- The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
-- PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+#### [Using FHIR Questionnaire/VAMF into PGD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/chief%20complaint%20field%20v2)
 
 ## Discreet Fields to VistA note (currently not feasible)
 
