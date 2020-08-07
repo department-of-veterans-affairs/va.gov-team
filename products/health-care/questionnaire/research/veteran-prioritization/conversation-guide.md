@@ -30,7 +30,7 @@ Before we begin, let’s start with a few warm-up questions.
 
 I'm going to send you a link in the chat. Once the link pulls up, will you share your screen with me?
 
-[CARD SORT LINK](https://adhoc.optimalworkshop.com/optimalsort/j2b7m7j5)
+[CARD SORT LINK](https://adhoc.optimalworkshop.com/optimalsort/j2b7m7j5) (please do not use if you are not conducting)
 
 Before we begin, I want to give you some context for this exercise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. We will show you a set of topics and we'd like to know which of these topics, if any, would make sense for you to take the time to fill out ahead of time, instead of during the appointment.  
 
