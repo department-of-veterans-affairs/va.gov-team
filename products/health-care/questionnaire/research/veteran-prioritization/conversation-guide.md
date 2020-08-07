@@ -36,6 +36,8 @@ Before we begin, I want to give you some context for this exercise. Think about 
 
 Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care.
 
+Will you sort these in order of importance?
+
 I have some categories listed here. Go ahead and drag an item from the left and drop it into a category. If you have questions or need clarification, feel free to ask me as you move through the exercise.
 
 
