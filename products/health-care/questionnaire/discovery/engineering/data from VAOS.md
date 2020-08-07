@@ -96,8 +96,11 @@ Clicking submit will POST to:
 ```
 http://staging.va.gov/vaos/v0/appointment_requests?type=va
 ```
+
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment_req.yml.json)
+
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/app_req_post.yml.json)
+
 ---
 
 ## Other backend requests comeing from vets-website:
@@ -164,6 +167,7 @@ Status OK returned
 /v0/appointments
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment.yml.json)
+
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/post_appointment.yml.json)
 
 ---
@@ -171,5 +175,6 @@ Status OK returned
 /v0/appointment_requests/${id}/messages
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/appoint_req_msg.yml.json)
+
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/appoin_req_msg_post.yml.json)
 
