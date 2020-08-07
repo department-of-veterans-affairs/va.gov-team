@@ -63,26 +63,19 @@ To create and use SSH keypairs on Windows, complete the following steps:
    
 1. Type the following command in the terminal to create the file structure, set the correct permissions, and create a new key: 
    
-   `ssh-keygen` 
-   
-   SSH keypairs typically go into a `.ssh` folder. 
-
-1. When prompted, enter the following name for your key (keeping the default path): 
-   
-   `/c/Users/jbritt/.ssh/id_rsa_vagov` (ensuring to swap out the user for your actual user)
+   `ssh-keygen -f ~/.ssh/id_rsa_vagov` 
    
 1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
    ```
-   user@BattleStation1 MINGW64 ~
-   $ ssh-keygen
+   jbritt@BattleStation1 MINGW64 ~
+   $ ssh-keygen -f ~/.ssh/id_rsa_vagov
    Generating public/private rsa key pair.
-   Enter file in which to save the key (/c/Users/jbritt/.ssh/id_rsa):
-   /c/Users/jbritt/.ssh/id_rsa_vagov
+   Created directory '/c/Users/jbritt/.ssh'.
    Enter passphrase (empty for no passphrase):
    Enter same passphrase again:
-   Your identification has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.
-   Your public key has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.pub.
+   Your identification has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov
+   Your public key has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.pub
    The key fingerprint is:
    SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA jbritt@BattleStation1
    The key's randomart image is:
