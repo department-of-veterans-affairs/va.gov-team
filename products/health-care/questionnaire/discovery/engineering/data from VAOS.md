@@ -204,8 +204,8 @@ The front end mock data, has these possible values:
 
 ---
 
-The front end code indicates a POST request to the appointment_request endpoint to vets-api
-includes a "reason for visit field". Keep in mind that this is also mock data used by the front end
+The front end code indicates a POST request to the appointment_request endpoint to vets-api.
+It is returned data that includes a "reason for visit field". Keep in mind that this is also mock data used by the front end
 
 ```
 /v0/appointment_requests?type=${type}
