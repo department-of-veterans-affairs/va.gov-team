@@ -28,7 +28,7 @@ Your PR is mostly repetitive rspec code that isnt very complex.
 ### What to Do
 Having > `1000` LoC, doesn't always mean the review will be difficult to review. In this case:
 
-1. Open a ticket in the `va.gov-team` repo
+1. [Open a ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) in the `va.gov-team` repo
 2. Use the "Jumbo PR Appeal" Github issue template
 3. Prefix the title with "Jumbo PR Appeal:"
 4. Add the github label "Jumbo PR Appeal"
