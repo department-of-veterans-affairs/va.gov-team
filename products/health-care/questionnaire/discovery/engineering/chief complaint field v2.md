@@ -11,6 +11,7 @@
 - VAMF uses an interface to PGD refered to as smart-pdf-fhir
 - FHIR has a Questionnaire and QuestionnaireResponse resources which would probably be what would be used.
 - The Ruby fhir_client gem can parse and generate the appropriate fhir json
+- The way VAOS uses VAMF is perported to be slated to be made more reusable
 
 
 #### GetCare APP
