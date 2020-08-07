@@ -76,7 +76,7 @@ Let's say that you just made an appointment and received a link to this form via
 - What do you think these mean?
 - Is this information valuable for you to fill out before an appointment?
 - Have you filled out forms online before?
-- Where would you want to find VA healthcare realated forms?
+- Where would you want to find a form like this one?
 
 ### Things to listen for:
 
