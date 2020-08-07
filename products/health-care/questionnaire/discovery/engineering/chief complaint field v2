@@ -1,0 +1,15 @@
+# Putting Chief Complaint field into VistA
+
+## Chief Complaint Field
+
+#### Using FHIR Questionnaire/VAMF into PGD
+
+- The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
+- PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+
+
+## Screen shots
+
+- [RFV-Chief Complaint Whiteboard](https://drive.google.com/file/d/1wgXiIbyiUzT4vJmzobL6o3z7buRs2hwJ/view?usp=sharing)
+
+
