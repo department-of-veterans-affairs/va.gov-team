@@ -6,6 +6,8 @@ Knowledge of VA analytics sources and how to use analytics to help with product 
 How might we create an easy-to-use single source of truth for VFS teams that delivers both content to help with understanding data-informed decisions and the analytics resources that are available to facilitate an easier analytics journey?
 
 ## Vision
+**Product decision makers understand how to make data-informed product decisions for building veteran-facing services on VA.gov and have resources available to help them along the way.**
+
 Product decision makers (PMs, POs) building on VA.gov use the playbook as a quality, single source of truth for how to use data to inform decision making on VA.gov, including:
 - Using data in the context of veteran services to improve user goals and business outcomes
 - Understanding what VSP analytics services are available and at their disposal
