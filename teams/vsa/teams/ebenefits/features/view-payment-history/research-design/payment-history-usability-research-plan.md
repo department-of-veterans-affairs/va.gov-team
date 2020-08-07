@@ -6,16 +6,20 @@
 ---
 
 #### Background
---Content TBD--
+In its current implementation, VPH is a pair of filtered tables that show Compensation & Pension, and Education payments made to quailifying Veterans. The arrangement of these tables (Payments Made and Payments Returned) is similar to basic consumer bank and financial apps. Preliminary research indicated that participants often look to their own banking apps to review VA payments rather than logging-in to eBenefits, but users generally found the current eBenefits VPH feature acceptable. Some wanted more advanced search and filting of data.
 
 ## Table of contents
 --Content TBD--
 
 ### Goals
---Content TBD--
+We're moving the View Payment History feature (VPH) from eBenefits to VA.gov. Our primary goal is to maintain exisitng functionality of the VPH feature as we 'translate' it into the VA.gov system. We're conducting usability testing of the feature as developed in staging to determine if the new VPH is intuitive and functional for users needing to review their VA payment.
 
 ### Research questions
---Content TBD--
+- How do participants expect to find their payment history?
+- Do participants find the information in the VPH feature useful and complete?
+- What other information do participants expect to see?
+- Is the information presented optimally?
+- Is VPH functional in a mobile format (small viewport)?
 
 ### Hypotheses
 --Content TBD--
@@ -24,7 +28,7 @@
 --Content TBD--
 
 ### Method
---Content TBD--
+We will engage in moderated usability testing conducted remotely using Zoom. Participants who receive VA payments will be recruited using Perigean. Particpants will login to VA staging using test accounts and review the feature. The sessions will be recorded, and observers and notetakers may be in attendance.
 
 ### Participants and recruitment
 
