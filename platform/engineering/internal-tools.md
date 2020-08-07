@@ -166,11 +166,14 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
 
 These steps assume your SSH keys have been authorized and that you're running on Linux, OSX, or have a Unix shell emulator like Git Bash (Windows). There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `*.vfs.va.gov` domain.
 
+> If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
+
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
     * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a> and copy the entire URL of the new tab.
-      1. From within the terminal (Mac) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE`): `curl $URL > ~/.ssh/config`. 
+      1. From within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE`): `curl -o ~/.ssh/config $URL`. 
+
 ```
-❯ curl https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE > ~/.ssh/config
+❯ curl -o ~/.ssh/config https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  5804  100  5804    0     0  15602      0 --:--:-- --:--:-- --:--:-- 15602
@@ -182,8 +185,6 @@ drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
 -rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vetsgov
 -rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vetsgov.pub
 ```
-
-> If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
 
 2. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
 
