@@ -12,6 +12,7 @@
 - FHIR has a Questionnaire and QuestionnaireResponse resources which would probably be what would be used.
 - The Ruby fhir_client gem can parse and generate the appropriate fhir json
 - The way VAOS uses VAMF is perported to be slated to be made more reusable
+- Any user data that came from when the user was not authenticated could be put into PGD as long as it fits into a FHIR resource
 
 
 #### GetCare APP
