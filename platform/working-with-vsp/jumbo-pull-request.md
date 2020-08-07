@@ -61,7 +61,7 @@ There is no possible way your PR can be broken up and must be reviewed as is.
 
 ### What to Do
 1. Close the Jumbo PR
-2. Link back to the jumbo PR in any future smaller chunk PRs
+2. Link back to the Jumbo PR in any future smaller chunk PRs
 
 ### Thank You!
 
