@@ -186,7 +186,7 @@ Status OK returned
 
 ## Reason for visit field
 
-A call to the /v0/appointment_request route from the front end, results in a series of records being returned. Each record has a "reason for visit" field
+A GET call to the /v0/appointment_request route from the front end, results in a series of records being returned. Each record has a "reason for visit" field
 
 ```
 On the backend, recorded VCR mock data indicates possible values for "reasons for visit" to be:
@@ -201,4 +201,27 @@ The front end mock data, has these possible values:
 "High or low blood sugar, blood pressure, heart rate",
 "Rash"
 ```
+
+---
+
+The front end code indicates a POST request to the appointment_request endpoint to vets-api
+includes a "reason for visit field". Keep in mind that this is also mock data used by the front end
+
+```
+/v0/appointment_requests?type=${type}`
+```
+
+```
+ data: {
+    id: 'testing',
+    attributes: {
+      email: request.email,
+      phoneNumber: request.phoneNumber,
+      typeOfCareId: request.typeOfCareId,
+      reasonForVisit: request.reasonForVisit,
+      additionalInformation: request.additionalInformation,
+      status: 'Submitted',
+    },
+```
+
 
