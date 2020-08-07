@@ -137,10 +137,14 @@ v0/preferences
 
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
 
+---
+
 ```
 /v0/appointment_requests/${req.id}
 ```
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
+
+---
 
 ```
 /v0/appointments/cancel
@@ -158,7 +162,7 @@ Status OK returned
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/post_appointment.yml.json)
 
 ---
-``
+```
 /v0/appointment_requests/${id}/messages
 ```
 [Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/appoint_req_msg.yml.json)
