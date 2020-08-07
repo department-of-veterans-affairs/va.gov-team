@@ -50,7 +50,7 @@ These issues have the potential to cause life-threatening situations and should 
 
 These issues have the potential to severely disrupt the user experience and must be fixed before VSP will certify a staging accessibility review.
 
-#### Types of issues:
+#### Types of severity 1 issues in web applications and pages:
 
 * [Focus must be managed for single-page applications](https://adhocteam.us/2018/02/20/developer-driven-focus-management-for-single-page-applications/)
   * [Name, Role, Value: Understanding SC 4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
@@ -77,6 +77,9 @@ These issues have the potential to severely disrupt the user experience and must
   ```css
   outline: 2px solid #f9c642;
   ```
+  
+#### Types of severity 1 issues in PDF documents:
+* [Document tables are missing a header](https://dequeuniversity.com/rules/comply-pdf/1.0/table-miss-header)
 
 #### Potential impact:
 
