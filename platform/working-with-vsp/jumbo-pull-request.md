@@ -46,7 +46,7 @@ There is no possible way your PR can be broken up and must be reviewed as is.
 ### What to Do
 
 1. create a doc explaining why? (TBD)
-2. The platform team will review that doc (1-2)
+2. The platform team will review that doc (1-2 days)
 3. Schedule an in-person meeting with the BE utility dev & BE team product owner for a more in depth look at the PR & feature
 4. PR will occur normally
 
