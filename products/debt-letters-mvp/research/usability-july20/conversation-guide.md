@@ -160,7 +160,13 @@ That’s all the questions I have for you! Do you have any questions for me?
  
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+As a thank you for your participation, we'd like to offer you a thank-you gift.
+
+Is it ok for our contractor Perigean to send that gift to the same email we used to communicate with you about scheduling this session?
+
+   - [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
+
+Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
 If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
