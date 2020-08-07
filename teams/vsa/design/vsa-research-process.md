@@ -44,6 +44,7 @@ VA has an agreement with a recruiting organization that will manage all recruiti
 
 Information about using our recruiter, Pergean to recruit participants for your moderated usability and other research studies  [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md).
 
+* Before recruiting, send your plan and Guide to Shawna to look over, either via slack or tagging her on a ticket. She will look over your plan and guide the same day you send it when possible.
 * When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack **at least 1 week before you want to start sessions.** Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
 * Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
 * Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. Also, consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
@@ -98,11 +99,10 @@ We have to be careful with -- and if possible avoid using -- recordings because 
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
-* A [Mural template](https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4) is available to help observers take notes during your sessions.
-  * This board is intended for only any observers in the session, not the moderator or official note taker.
-  * The template has a section for each participant, and within the participant section, you can create a section for each task. 
-  * Share the mural board with your team, a day in advance of starting any sessions. Ask them to write any observations they have on the mural board.  Usually there are maybe 1-2 people who will be actively writing things, and that’s okay.  
-  * [Example mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1578506602233/ce8af79d34e12eec5c6c176e3a43cb30858addb1)
+* Before running sessions, it’s nice to provide a means for your team members and/or stakeholders to take notes. Share whatever method you will be using with your observers a day in advance of starting any sessions
+   * You can do this in whatever way works for you, some ideas:
+      * Have observers slack their notes in the feedback channel or your team channel and then compile in your spreadsheet
+      * Create a Mural board and share out.  A [Mural template is available](https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4) to help observers take notes during your sessions.
 
 ## <a id="mobile-testing"></a>Mobile Testing
 Many if not most veterans use mobile devices, so we encourage testing designs on mobile as well as desktop.
@@ -115,9 +115,10 @@ Many if not most veterans use mobile devices, so we encourage testing designs on
 The maximum given to you according to our contract to synthesize research is “6 business days.”  In general, a topline summuary should be produced as soon as possible when everything is fresh in folks' minds. If you think you need more time, talk to Shawna.  
 
 The following process is recommended by the VSA Design Lead:
-1. At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.
-    * On the right side of the [Mural template](https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4), there is a Top Observation section, which is handy during the debrief sessions.  A benefit of this is team cohesion and getting folks interested in the research
-    * Use the Top Observation section to capture what your observers feel sticks out from each session. There is no need to get a thorough synthesis at this stage.
+1. After each user session, if possible take quick notes about the participant. You can use [this spreadsheet template](https://docs.google.com/spreadsheets/d/1ehTDLfv3ucCnj2I0frYo06qoAw6DCUIJU-XrcYuSdGc/edit#gid=0) to put in quick top of mind findings
+2. At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. 
+   * Use the spreadsheet linked above or whatever method works for you to gather observer takeaways. You can also see [an example spreadsheet here](https://docs.google.com/spreadsheets/d/1HQErLCeXZVPD9qAausAezUiPiAwd9rAJSo3imxrcMns/edit#gid=0) 
+   * If no one attends, simply use this time to fill out your spreadsheet on your own. 
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
    * A template for your topline summary [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md)
    * Examples: [Caregiver summary](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit) and [Facility Locator Search summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/topline-summary.md) 
