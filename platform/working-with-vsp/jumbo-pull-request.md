@@ -14,7 +14,7 @@ Find which of the following applies to you -
 You added a large test file (`.csv`) that is not included in the [exclusions list](#jumbo-pr-calculation-rationale)
 
 ### What to Do
-1. Open a separate PR that changes how the Danger Bot calculates total LoC
+1. Open a separate PR that changes how the Danger Bot calculates total LoC by [modifying the `Dangerfile`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Dangerfile)
 2. Add a comment in your PR that links to the Danger Bot PR
 
 ### What to Expect
