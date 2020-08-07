@@ -20,21 +20,24 @@ When enrolling such an account in production, the key step is to **not use SMS a
 
 Instead:
 
-1. Select the "Code Generator Application" mechanism. ID.me suggests their own authenticator app but you can use any app such as Google Authenticator, Authy, or desktop tools such as 1Password. ![2FA Mechanism selection screen](../login/images/idme_2fa_enrollment.png | width="25%")
+1. Select the "Code Generator Application" mechanism. ID.me suggests their own authenticator app but you can use any app such as Google Authenticator, Authy, or desktop tools such as 1Password. 
+<img src="./images/idme_2fa_enrollment.png" width="40%"/>
 
-2. Don't scan the QR code. Instead, note and securely store the alphanumeric code at the bottom of the screen (e.g. the "CFZTWWMJWSACLIAC" value in the screenshot below. This value can be used by multiple people at any point in time now or in the future to configure authenticator apps, thus enabling shared 2FA. ![2FA manual code](../login/images/idme_setup_code.png | width="25%")
+2. Don't scan the QR code. Instead, note and _securely_ store the alphanumeric code at the bottom of the screen (e.g. the "CFZTWWMJWSACLIAC" value in the screenshot below. Treat this value like a password, since it is in effect a secondary password for this test account. The value can be used by multiple people at any point in time now or in the future to configure authenticator apps, thus enabling shared 2FA. 
+<img src="./images/idme_setup_code.png" width="40%"/>
+
 
 #### Setting up Google Authenticator with a manual code
 
 To use the alphanumeric code in Google Authenticator, tap the + icon to add an account, and then select "Manual Entry". Type the code into the "key" section and enter the username in the Account section so you know which shared test account this code is for.
 
-![Google Authenticator Manual Entry](../login/images/googleauth_add_code_1.png | width="25%")
-![Google Authenticator Code Entry](../login/images/googleauth_add_code_2.png | width="25%")
+<img src="./images/googleauth_add_code_1.png" width="30%"/>&nbsp;&nbsp;<img src="./images/googleauth_add_code_2.png" width="30%"/>
+
 
 #### Setting up Authy with a manual code
 
 Similarly for Authy, tap the "Add Account" button, then the "Enter key manually" option, and type in the alphanumeric code. 
 
-![Google Authenticator Manual Entry](../login/images/authy_add_code_1.png | width="25%")
-![Google Authenticator Code Entry](../login/images/authy_add_code_2.png | width="25%")
+<img src="./images/authy_add_code_1.png" width="30%"/>&nbsp;&nbsp;<img src="./images/authy_add_code_2.png" width="30%"/>
+
 
