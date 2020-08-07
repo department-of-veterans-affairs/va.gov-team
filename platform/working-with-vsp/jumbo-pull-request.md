@@ -26,7 +26,7 @@ The platform team will review that PR inside the normal 24 hour cycle. If that P
 Your PR is mostly repetitive rspec code that isnt very complex.
 
 ### What to Do
-Having > `1000` LoC, doesn't always mean the review will be difficult to review. In his case 
+Having > `1000` LoC, doesn't always mean the review will be difficult to review. In this case:
 
 1. Open a ticket in the `va.gov-team` repo
 2. Use the "Jumbo PR Appeal" Github issue template
