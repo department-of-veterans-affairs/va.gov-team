@@ -1,0 +1,8 @@
+    '{"schedulingRequestType":"NEXT_AVAILABLE_APPT","type":"REGULAR","appointmentKind":"TRADITIONAL","schedulingMethod":"direct","apptType":"P","purpose":"9","lvl":"1","ekg":"","lab":"","xRay":"","desiredDate":"2020-02-07T00:00:00.000+00:00","dateTime":"2020-02-07T21:00:00.000+00:00","duration":30,"bookingNotes":"Follow-up/Routine:
+        abdominal pain","clinic":{"siteCode":"983","clinicId":"308","clinicName":"CHY
+        PC KILPATRICK","clinicFriendlyLocationName":"Green Team Clinic1","institutionName":"CHYSHR-Cheyenne
+        VA Medical Center","institutionCode":"983"},"patients":{"patient":[{"id":{"uniqueId":"1012845331V153043","assigningAuthority":"ICN"},"name":{"firstName":"JUDY","lastName":"MORRISON"},"contactInformation":{"preferredEmail":"test@va.gov","timeZone":"America/Denver"},"location":{"type":"VA","facility":{"name":"CHYSHR-Cheyenne
+        VA Medical Center","siteCode":"983","timeZone":"America/Denver"},"clinic":{"ien":"308","name":"CHY
+        PC KILPATRICK"}}}]},"direct":{"purpose":"Follow-up/Routine: abdominal pain","desiredDate":"02/07/2020
+        00:00:00","dateTime":"02/07/2020 21:00:00","apptLength":30},"providers":{"provider":[{"location":{"type":"VA"}}]}}'
+  
