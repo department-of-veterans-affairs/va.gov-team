@@ -56,24 +56,6 @@ Under the alert that reads, “Please sign in to manage your VA debt”, select 
 
 [[Proceed to post-task interview](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/debt-letters-mvp/research/uat-aug20#post-task-interview---1-minutes)] 
 
-## If the participant only has debt(s) received after March 2020 - 5 - 10 minutes depending on number of debts
-
-In order to make sure your information is showing properly, we’re going to compare the information shown on this page with your records. This may take a few minutes. 
- 
- - [ ] **UAT Task:** The correct number of debts is shown under the ‘Your current debts’ section.
- 
- - [ ] **UAT Task:** The correct debt type is shown in the debt card(s).
- 
- - [ ] **UAT Task:** The correct date the debt was received is shown in the debt card(s). 
- 
- - [ ] **UAT Task:** The correct amount owed is shown in the debt card(s).
- 
- - [ ] **UAT Task:** The correct “Why might I have this debt” content is shown in the debt card(s).
- 
- - [ ] **UAT Task:** The correct empty state is shown under the ‘Your debt letters’ section.
-
-[[Proceed to post-task interview](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/debt-letters-mvp/research/uat-aug20#post-task-interview---1-minutes)]
-
 ## If the participant has a current VA debt - 5 -10 minutes depending on the number of debts
 
 In order to make sure your information is showing properly, we’re going to compare the information shown on this page with your records. We’ll start with the information under ‘Your current debts’
