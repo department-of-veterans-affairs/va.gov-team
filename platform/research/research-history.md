@@ -13,6 +13,15 @@ This does not include research for Appeals projects, which is stored in differen
 
 ------
 
+
+### August 2020
+
+#### August 3-7: IRIS general Discovery Interviews 
+*ThoughtWorks: Rachel M. Murray
+
+- 7 participants, 1 round 
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris)
+
 ### July 2020
 
 #### July 1-10: Connected Accounts (privacy, consent and authorization) - Lighthouse 
