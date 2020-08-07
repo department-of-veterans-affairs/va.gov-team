@@ -108,6 +108,13 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 ```
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/get_eligibility.yml.json)
 
+---
+
+v0/preferences
+
+[Returned JSNO](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/preferences.yml.json)
+
+---
 
 ```
 /v0/systems/${systemId}/direct_scheduling_facilities?type_of_care_id=${typeOfCareId}&parent_code=${parentId}
@@ -118,7 +125,7 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 /facilities/va/vha_${getStagingId(facilityId)}
 /v0/facilities/${facilityId}/available_appointments?type_of_care_id=${typeOfCareId}&clinic_ids[]=${clinicId}&start_date=${startDate}&end_date=${endDate}
 /v0/facilities/${systemId}/cancel_reasons
-v0/preferences
+
 ```
 
 #### PUT Requests
@@ -131,18 +138,29 @@ v0/preferences
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_preferences.yml.json)
 
 ```
-/v0/appointments/cancel
-```
-
-```
 /v0/appointment_requests/${req.id}
 ```
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/put_request.yml.json)
 
+```
+/v0/appointments/cancel
+```
+[Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/cancel_appointment.yml.json)
+Status OK returned
+
+---
 
 #### POST Requests
 ```
 /v0/appointments
+```
+[Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/post_appointment.yml.json)
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/post_appointment.yml.json)
+
+---
+``
 /v0/appointment_requests/${id}/messages
 ```
+[Sent JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/send/appoint_req_msg.yml.json)
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/appoin_req_msg_post.yml.json)
 
