@@ -25,6 +25,7 @@ This topline summary is a **high level, top of mind summary** of trends found in
 - People didn't immediately find the address information we asked them to find from the learning center homepage; about half of the participants went to their benefit topic area to update their address for that benefit.
 - People felt the way the homepage was organized made it easy to understand what kinds of information was available.
 - "I like the way that it's broken into different benefits - I think a lot of Veterans don't understand that." - P1
+- 1 participant primarily would use search and felt overwhelmed by the links on the page
 
 **How easily are people able to navigate between learning center articles, and topics?**
 
@@ -33,9 +34,10 @@ This topline summary is a **high level, top of mind summary** of trends found in
 **Are the template labels (ex: FAQs, Checklist, About, Step-by-step, etc.) useful?**
 
 - Generally, yes. They helped participants determine differences between similar sounding articles and set expectation for what they might find once they clicked.
--  `Question and answer` vs `FAQs` posed some challenges for participants
+- `Question and answer` vs `FAQs` posed some challenges for participants
   - 1 participant was totally unsure what the difference would be.
   - Participant 13 said "Question and answer is where people have asked a question and received an answer, and the other is just a list of facts (or FAQs?)" 
+- 1 participant thought the `About` tag was useless.
 
 **What do people see as the difference between the learning center search and overall site search?**
 
@@ -61,7 +63,8 @@ This topline summary is a **high level, top of mind summary** of trends found in
 
 **People will easily understand how to use the search functionality.**
 
-- Everyone understood that the search functionality was keyword based and were clear that the Learning Center 
+- Everyone understood that the search functionality was keyword based and were clear that the Learning Center radio option would search within the learning center.  
+- About half of the participants were unsure about what the `search VA.gov` radio button would do.
 
 **Template labels will help people determine which search result is most relevant to their search.**
 
