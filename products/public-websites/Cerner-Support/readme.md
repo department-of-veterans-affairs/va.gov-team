@@ -86,5 +86,17 @@ The changes made in the vets-api to support SSOe authentication (v1) have duplic
 
 The stats gathered here represent the same user authentication states that we are collecting in the v0 implementation, and thus allow us to reuse the existing [ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/prometheus/rules/external_service.rules.j2#L100-L106), [DS Logon](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/prometheus/rules/external_service.rules.j2#L108-L115) and [MHV](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/prometheus/rules/external_service.rules.j2#L117-L124) prometheus alert rules to monitor availability/failure rates.
 
+# Security Review
+
+The following pages are conditionally showing the new Cerner content based off the linked conditionals, which will be the entry points for a Flipper toggle soon:
+
+1. [Get Medical Records Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/get-medical-records-page/components/App/index.js#L13)
+1. [Track Prescriptions Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/refill-track-prescriptions-page/components/App/index.js#L13)
+1. [Schedule + View Appointments](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/schedule-view-va-appointments-page/components/App/index.js#L13)
+1. [Secure Messaging Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/secure-messaging-page/components/App/index.js#L13)
+1. [View Test + Lab Results Page](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/health-care-manage-benefits/view-test-and-lab-results-page/components/App/index.js#L13)
+
+Additionally, [here is a link to the frontend list of Cerner IDs](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/utilities/cerner/index.js#L4).
+
 # Release Planning
 Feature flag: to be added
