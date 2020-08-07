@@ -11,7 +11,7 @@ Find which of the following applies to you -
 
 ## Change How LoC is Calculated
 ### Example
-You added a large test file (`.csv`) that is no included in the [exclusions list](#jumbo-pr-calculation-rationale)
+You added a large test file (`.csv`) that is not included in the [exclusions list](#jumbo-pr-calculation-rationale)
 
 ### What to Do
 1. Open a separate PR that changes how the Danger Bot calculates total LoC
