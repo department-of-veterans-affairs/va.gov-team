@@ -221,7 +221,7 @@ includes a "reason for visit field". Keep in mind that this is also mock data us
       reasonForVisit: request.reasonForVisit,
       additionalInformation: request.additionalInformation,
       status: 'Submitted',
-    },
+   }
 ```
 
 
