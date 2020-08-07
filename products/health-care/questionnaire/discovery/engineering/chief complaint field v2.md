@@ -8,6 +8,7 @@
 - Lighthouse is planning to implement an API to work with PGD, however the project is fairly far out in time so this probably won't be an option
 - The best approach currently to investigate is to write to PGD using VAMF and a proxy. The proxy is needed to write data on behalf of a veteran
 - PGD is FHIR based, which means that you can not just add fields but have to use the definitions in FHIR.
+- VAMF uses an interface to PGD refered to as smart-pdf-fhir
 - FHIR has a Questionnaire and QuestionnaireResponse resources which would probably be what would be used.
 - The Ruby fhir_client gem can parse and generate the appropriate fhir json
 
