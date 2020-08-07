@@ -2,11 +2,11 @@
 
 Find which of the following applies to you -
 
+- I can break my PR up into smaller pieces :point_right: [Break PR Into Smaller Pieces](#break-pr-into-smaller-pieces)
 - The changed lines of code in my PR is not an accurate measurement how much effort is required to review it 
     - :point_right: [Change How LoC is Calculated](#change-how-loc-is-calculated)
     - :point_right: [Appeal a Jumbo PR Denomination](#appeal-a-jumbo-pr-denomination)
 - There is no way my PR can be broken up into smaller pieces :point_right: [File for a Jumbo PR Override](#file-for-a-jumbo-pr-override)
-- I can break my PR up into smaller pieces :point_right: [Break PR Into Smaller Pieces](#break-pr-into-smaller-pieces)
 
 
 ## Change How LoC is Calculated
