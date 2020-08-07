@@ -1,0 +1,20 @@
+ {
+          "dataIdentifier" : {
+            "uniqueId" : "8a4886886e4c8e22016ef6b0b26a039b"
+          },
+          "patientIdentifier" : {
+            "uniqueId" : "1012845331V153043",
+            "assigningAuthority" : "ICN"
+          },
+          "surrogateIdentifier" : { },
+          "messageText" : "I want to see doctor Jeckyl please.",
+          "messageDateTime" : "12/11/2019 15:40:05",
+          "senderId" : "1012845331V153043",
+          "appointmentRequestId" : "8a4886886e4c8e22016ef6a8b1bf0396",
+          "date" : "2019-12-11T15:40:05.007+0000",
+          "patientId" : "1012845331V153043",
+          "uniqueId" : "8a4886886e4c8e22016ef6b0b26a039b",
+          "assigningAuthority" : "ICN",
+          "objectType" : "VARAppointmentRequestMessage",
+          "link" : [ ]
+        }
