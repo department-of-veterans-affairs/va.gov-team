@@ -38,7 +38,7 @@ http://staging.va.gov/vaos/v0/appointment_requests?start_date=2020-07-05&end_dat
 [Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/requests.json)
 
 The returned JSON will be a series of records, each having a reason for visit field
-[Reason for visit field](Reason for visit field)
+[Reason for visit field](#Reason for visit field)
 
 ---
 
