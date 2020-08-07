@@ -27,15 +27,25 @@
 --Content TBD--
 
 ### Participants and recruitment
-Participants will be recruited via Perigean. The study will require X Veterans from a variety of service backgrounds. Criteria include:
 
-- 14 participants will be scheduled by Perigean
-- All genders
-- Computer access and basic computer literacy
-- Several Veterans (4+) with Total Rated Disability of 80% or greater and cognitive disabilities
-- Sessions will run approximately 60 minutes
+Recruit for 5 fulfilled sessions using the following criteria:
 
-We request that Perigean provide a notetaker for all sessions
+**Must have for participants**
+- Do you receive compensation & pension, or education payments from VA? (pass = yes)
+
+**Good to have for participants**
+- At least 1 woman
+- At least 1 person of color
+- At least 1 participant 35 or under and 1 participant over 55
+- At least one person that does not have a college degree (to include enlisted Vets)
+- At least one person that has a college degree (to include of officer Vets)
+- At least one person who lives in a rural or remote area
+- At least one person who lives in a major metropolitan area
+- At least one person with a disability rating of 80% or greater
+
+**Recruitment requirements**
+- The participants have Zoom downloaded prior to the session
+- The participants know how to screenshare
 
 #### Pilot session
 
