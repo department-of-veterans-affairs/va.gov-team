@@ -120,7 +120,7 @@ http://staging.va.gov/vaos/v0/appointment_requests?type=va
 
 v0/preferences
 
-[Returned JSNO](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/preferences.yml.json)
+[Returned JSON](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/health-care/content/JSON/preferences.yml.json)
 
 ---
 
