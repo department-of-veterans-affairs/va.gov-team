@@ -48,8 +48,4 @@ VistA has many thousands of different record types but adding a new record type 
 ## [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/discovery/engineering/vaos)
 
 
-## Screen shots
-
-- [RFV-Chief Complaint Whiteboard](https://drive.google.com/file/d/1wgXiIbyiUzT4vJmzobL6o3z7buRs2hwJ/view?usp=sharing)
-
 
