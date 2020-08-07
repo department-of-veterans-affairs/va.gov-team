@@ -17,7 +17,7 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 ## GitHub
 
-1. If you haven't already, check your email for an invitation to the Department of Veterans Affairs GitHub Organization, and join! If you have not received an invitation please follow the steps in [Github User Requests](https://github.com/department-of-veterans-affairs/github-user-requests).
+1. If you haven't already, check your email for an invitation to the Department of Veterans Affairs GitHub Organization, and join! If you have not received an invitation (and do not already have a va.gov email), please reach out to your PM and/or team lead and ask that they submit a request for you to be added to the GitHub organization using this link: [GitHub user requests](https://github.com/department-of-veterans-affairs/github-user-requests). If you already possess a va.gov email and have not received an invitation, please visit [this site](https://vaww.oit.va.gov/services/github/) (will only work on VA network, CAG, or GFE/VPN) and fill out a request to be added.
  
 1. Make sure you have "Write" access (not just "Read" access) to the [va.gov-team GitHub repository](https://github.com/department-of-veterans-affairs/va.gov-team). If you don't have the appropriate access, or if you're unsure, let VSP know in the [#vfs-platform-support](https://app.slack.com/client/T03FECE8V/CBU0KDSB1) Slack channel.
 
@@ -47,7 +47,7 @@ In order to be granted AWS Console access, your PIV background (eQIP adjudicatio
 
 We will be walking through how to request access in the steps outlined below.
 
-#### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
+#### 1. Create new SSH keys for [Windows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#creating-an-ssh-keypair-in-windows) or [Mac/Linux](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
 #### <a id="authorizekeys"></a>2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * Open an [Environment Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2C+operations&template=Environment-Access-Request-Template.md&title=Access+for+%5Bindividual%5D) issue in the [va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) repo.

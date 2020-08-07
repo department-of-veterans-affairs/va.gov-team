@@ -6,17 +6,18 @@ This document describes tools available internally to developers working on the 
 * System metrics for diagnostic/troubleshooting purposes
 * Exception reports and tracebacks
 
-These internal tools are available on the `vetsgov-internal` domain and are being transitioned over to the vfs.va.gov domain. The `vetsgov-internal` domain is **only accessible while your system is running a SOCKS proxy locally**. The others are available both on SOCKS and on the internal VA network. Your SOCKS proxy will tunnel traffic over a secure channel to vets.gov servers, providing access to:
+These internal tools are available on the `vfs.va.gov` domain. Your SOCKS proxy will tunnel traffic over a secure channel to internal tool servers, providing access to:
 
-| Name                 | vetsgov-internal link                            | vfs.va.gov link           |
-|----------------------|--------------------------------------------------|---------------------------|
-| Jenkins              |                                                  | http://jenkins.vfs.va.gov |
-| Grafana              |                                                  | http://grafana.vfs.va.gov |
-| Sentry               |                                                  | http://sentry.vfs.va.gov  |
-| Prometheus (dev)     | http://prometheus-dev.vetsgov-internal:9090/     | NA                        |
-| Prometheus (staging) | http://prometheus-staging.vetsgov-internal:9090/ | NA                        |
-| Prometheus (prod)    | http://prometheus-prod.vetsgov-internal:9090/    | NA                        |
-| Prometheus (utility) | http://prometheus-utility.vetsgov-internal:9090/ | NA                        |
+| Name                 | vfs.va.gov link                                             |
+|----------------------|-------------------------------------------------------------|
+| Jenkins              | http://jenkins.vfs.va.gov                                   |
+| Grafana              | http://grafana.vfs.va.gov                                   |
+| Sentry               | http://sentry.vfs.va.gov                                    |
+| Prometheus (sandbox) | http://prometheus-sandbox.vfs.va.gov:9090/prometheus/graph  |
+| Prometheus (dev)     | http://prometheus-dev.vfs.va.gov:9090/prometheus/graph      |
+| Prometheus (staging) | http://prometheus-staging.vfs.va.gov:9090/prometheus/graph  |
+| Prometheus (prod)    | http://prometheus-prod.vfs.va.gov:9090/prometheus/graph     |
+| Prometheus (utility) | http://prometheus-utility.vfs.va.gov:9090/prometheus/graph  |
 
 You do not need to run the SOCKS proxy while you're developing unless you need access to one of the above tools.
 
@@ -34,18 +35,17 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 
 <hr>
 
-
-> These steps assume you're running on Linux or OSX. There are slightly different commands to connect to the proxy depending on whether or not you are connected to the VA network. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `vetsgov-internal` domain.
-
 ## Design rationale
 
-Some utilities, such as metrics dashboards, error reporting, and deployment tools, should not be made available to the public. While such a utility may lock functionality behind a user login system, these vary among implementations and may be vulnerable to exploits. Additionally, due to the difficulty of creating subdomains for vets.gov, it may be problematic to host some of these utilities when they do not support relative path installations.
+Some utilities, such as metrics dashboards, error reporting, and deployment tools, should not be made available to the public. While such a utility may lock functionality behind a user login system, these vary among implementations and may be vulnerable to exploits. 
 
-The preferred solution is to host these systems on an internal network that prevents public access. While the VA maintains an internal network, the vets.gov team operates within the AWS environment. Installation of a utility like this on the VA network would require additional authority to operate extensions, a server within the VA, and mapping new connections from AWS to the VA. Since these tools are for use exclusively by the vets.gov services installed within AWS, utilizing the VA's internal network is unnecessary, more complex, time-intensive, and likely to impact performance of the utility and application requiring it.
+The preferred solution is to host these systems on an internal network that prevents public access. While the VA maintains an internal network, the VSP team operates within the AWS environment. After extensive efforts to obtain a zone delegation, we are able to control the records for internal tools using the `*.vfs.va.gov` zone delegation and Route53.
 
-To address this issue, we've configured an internal DNS server which can be accessed via a SOCKS proxy. The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the vets.gov AWS network. Once connected, a developer will have access to the `*.vetsgov-internal` TLD and can use their browser to connect to tools such as Prometheus.
+The SOCKS proxy is a server on your local system that tunnels HTTP and DNS traffic to a jumpbox on the va.gov AWS network. Once connected, a developer will have access to the `*.vfs.va.gov` domain and can use their browser to connect to tools such as Prometheus, Jenkins, Grafana, and Sentry.
 
-Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vetsgov-internal` address when necessary.
+Internal systems will not require any modification to connectivity and should communicate with the utilities directly. They may use a `/etc/hosts` entry for the corresponding `*.vfs.va.gov` address(es) when necessary.
+
+*Please note:* The following steps use the `~` symbol. In this context, the `~` symbol represents the current user's home directory. Therefore, `~/.ssh/` translates to `my user's home directory/.ssh`.
 
 ## Creating an SSH keypair in Windows
 
@@ -69,7 +69,7 @@ To create and use SSH keypairs on Windows, complete the following steps:
 
 1. When prompted, enter the following name for your key (keeping the default path): 
    
-   `/c/Users/user/.ssh/id_rsa_vetsgov`
+   `/c/Users/jbritt/.ssh/id_rsa_vagov` (ensuring to swap out the user for your actual user)
    
 1. Enter a passphrase to encrypt your key and then confirm the passphrase when prompted. You will see a "randomart" picture in your terminal if all previous steps have been successful (example below).
 
@@ -77,14 +77,14 @@ To create and use SSH keypairs on Windows, complete the following steps:
    user@BattleStation1 MINGW64 ~
    $ ssh-keygen
    Generating public/private rsa key pair.
-   Enter file in which to save the key (/c/Users/user/.ssh/id_rsa):
-   /c/Users/user/.ssh/id_rsa_vetsgov_example
+   Enter file in which to save the key (/c/Users/jbritt/.ssh/id_rsa):
+   /c/Users/jbritt/.ssh/id_rsa_vagov
    Enter passphrase (empty for no passphrase):
    Enter same passphrase again:
-   Your identification has been saved in /c/Users/user/.ssh/id_rsa_vetsgov_example.
-   Your public key has been saved in /c/Users/user/.ssh/id_rsa_vetsgov_example.pub.
+   Your identification has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.
+   Your public key has been saved in /c/Users/jbritt/.ssh/id_rsa_vagov.pub.
    The key fingerprint is:
-   SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA user@BattleStation1
+   SHA256:ogRzhqYldgUky8tCCTx9aE76PT6JB3KQa+oZSZFjGLA jbritt@BattleStation1
    The key's randomart image is:
    +---[RSA 2048]----+
    |*.ooo.           |
@@ -103,24 +103,24 @@ To create and use SSH keypairs on Windows, complete the following steps:
    
    `ls ~/.ssh`
    
-   You will see your public and private keys. Your public key will end in a `.pub` extension, such as `id_rsa_vetsgov.pub`, and your private key will have the same name minus the `.pub` extension. 
+   You will see your public and private keys. Your public key will end in a `.pub` extension, such as `id_rsa_vagov.pub`, and your private key will have the same name minus the `.pub` extension. 
 1. You can view the contents of your new public key by entering the following command: 
    
-   `cat ~/.ssh/id_rsa_vetsgov.pub`
+   `cat ~/.ssh/id_rsa_vagov.pub`
    
    You will need to copy the contents and provide them in a future step.
 1. Add this key to your SSH agent any time this terminal is restarted. 
    - Ensure your SSH agent is running by typing: `eval $(ssh-agent -s)`.
-   - Add your key to the agent by typing: `ssh-add ~/.ssh/id_rsa_vetsgov`.  
+   - Add your key to the agent by typing: `ssh-add ~/.ssh/id_rsa_vagov`.  
      **Note:** Use the private key here, not the `.pub` public key. 
    - Verify the key is added by typing: `ssh-add -l`. 
-     This command should give output showing your key's signature added to the running SSH agent like the illustration below.
-     
+     This command should give output showing your key's signature added to the running SSH agent like the illustration below:
      ```
      $ssh-add -l                                                                                           
      2048 SHA256:ShkbdHKQqDwgONLv8/1qiYlX20kX9IPp3uV56ATp3c8 
-     /home/user/.ssh/id_rsa_vetsgov (RSA)
+     /home/user/.ssh/id_rsa_vagov (RSA)
      ```
+   - \***PLEASE NOTE**\*: Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Windows users using Git Bash](https://stackoverflow.com/questions/18404272/running-ssh-agent-when-starting-git-bash-on-windows#:~:text=In%20a%20git%20bash%20session,t%20exist%2C%20just%20create%20it.) to automate this process.
 
 If all prior steps have been successful, return to [Additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#authorizekeys) and request that your SSH keys be authorized.
 
@@ -138,41 +138,61 @@ If you don't already have an SSH public key, or you're not sure if you do, compl
    
    `ls`
    
-    * If you see `id_rsa_vetsgov` and `id_rsa_vetsgov.pub` returned, you already have your keys and you can skip steps 3 and 4. 
-    * If you don't see `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`, continue onto the next steps.
+    * If you see `id_rsa_vagov` and `id_rsa_vagov.pub` returned, you already have your keys and you can skip steps 3 and 4. 
+    * If you don't see `id_rsa_vagov` and `id_rsa_vagov.pub`, continue onto the next steps.
 
 3. To generate your public and private keys, run the following command:
    
-   `ssh-keygen -f id_rsa_vetsgov`
+   `ssh-keygen -f id_rsa_vagov`
    
    When prompted for a passphrase, you should enter a secure passphrase to protect your private key.
 
-4. Run `ls ~/.ssh` and confirm that you see `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`. It's normal to see several other files, as well. Seeing `id_rsa_vetsgov` and `id_rsa_vetsgov.pub` means you now have your private and public (the one with the `.pub` extension) keys! Your private key should never leave your computer, and it's unnecessary and inadvisable to share it with anybody.
+4. Run `ls ~/.ssh` and confirm that you see `id_rsa_vagov` and `id_rsa_vagov.pub`. It's normal to see several other files, as well. Seeing `id_rsa_vagov` and `id_rsa_vagov.pub` means you now have your private and public (the one with the `.pub` extension) keys! Your private key should never leave your computer, and it's unnecessary and inadvisable to share it with anybody.
 
 5. Confirm everything went well:
     * You will have a subdirectory in your home directory `~/.ssh`
-    * This subdirectory has restrictive permissions `0700`
-    * In this subdirectory you will have two files, `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`
-    * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vetsgov.pub`. This should give a long string of random characters (e.g. ssh-rsa AAAAAjfje983jJL3j2....).
-    * Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vetsgov`.
+    * This subdirectory has restrictive permissions `0700`. Please see the example below, directory permissions of `0700` should reflect the `rwx` seen on the `.ssh` directory. The beginning `d` explains that `.ssh` is a directory and should also be present. 
+    ```
+    ❯ ls -al | grep .ssh
+    -rw-------    1 jeremybritt  staff      28 Jun 12 14:13 .lesshst
+    drwx------    8 jeremybritt  staff     256 Aug  6 11:27 .ssh
+    ```
+    * In this subdirectory you will have two files, `id_rsa_vagov` and `id_rsa_vagov.pub`
+    * To get the contents of your new public key (which will need to be provided in a future step), you can run `cat ~/.ssh/id_rsa_vagov.pub`. This should give a long string of random characters (e.g. ssh-rsa AAAAAjfje983jJL3j2....).
+    * \***PLEASE NOTE**\*: Any time your terminal is restarted, you will want to ensure your key is added by running `ssh-add -l`. If your key signature is not returned, or you receive output referring to your agent, run `eval $(ssh-agent -s)` and `ssh-add ~/.ssh/id_rsa_vagov`. There are also [instructions for Mac users](https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically) to load their desired key(s) automatically.
     * Got it? Return to [Additional orientation steps for developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#authorizekeys) and request that your SSH keys be authorized.
 
 ## Configure the SOCKS proxy
 
-These steps assume your SSH keys have been authorized and that you're running on Linux or OSX. There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `vetsgov-internal` domain.
+These steps assume your SSH keys have been authorized and that you're running on Linux, OSX, or have a Unix shell emulator like Git Bash (Windows). There are slightly different commands to connect to the proxy depending on whether you are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the `*.vfs.va.gov` domain.
+
+> The next steps are going to create a `~/.ssh/config` file. If you already have a `~/.ssh/config` file and would like to keep it intact, you can save the file to a different name `~/.ssh/config_va` and edit `~/.ssh/config` to add this line at the top: `Include ~/.ssh/config_va`. Alternatively, you can use the following command within the terminal to automate this process: `grep -qxF 'Include ~/.ssh/config_va' ~/.ssh/config || echo -e "Include ~/.ssh/config_va\n$(cat ~/.ssh/config)" > ~/.ssh/config`.
 
 1. Save the SSH configuration that you'll need locally to access the remote SSH servers.
-    * Right click on [this link](https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config) and save as: `~/.ssh/config_va`
-    * Edit `~/.ssh/config` and add this line at the top:
-    `Include ~/.ssh/config_va`
+    * Click <a href="https://github.com/department-of-veterans-affairs/devops/raw/master/ssh/config" target="_blank">this link</a> and copy the entire URL of the new tab.
+      1. From within the terminal (Mac/Linux) or Git Bash (Windows), run the following command making sure to change `$URL` to the one you now have copied (i.e. `https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE`): `curl -o ~/.ssh/config $URL`. 
 
-1. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vetsgov` (for Windows, the command will not require the `-K` flag).
+```
+❯ curl -o ~/.ssh/config https://raw.githubusercontent.com/department-of-veterans-affairs/devops/master/ssh/config\?token\=ANNHPNCZI2YPEPZFLIAOGQS7GVQSE
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  5804  100  5804    0     0  15602      0 --:--:-- --:--:-- --:--:-- 15602
+❯ ls -al ~/.ssh
+total 80
+drwx------   8 jeremybritt  staff    256 Aug  6 11:27 .
+drwxr-xr-x+ 48 jeremybritt  staff   1536 Aug  6 11:50 ..
+-rw-r--r--   1 jeremybritt  staff   5804 Aug  6 11:50 config
+-rw-------@  1 jeremybritt  staff   1766 Oct  9  2019 id_rsa_vetsgov
+-rw-r--r--   1 jeremybritt  staff    381 Nov 12  2019 id_rsa_vetsgov.pub
+```
 
-1. Proceed to the instructions below to access the SOCKS proxy.
+2. Add your SSH key to your local agent with `ssh-add -K ~/.ssh/id_rsa_vagov` (for Windows, the command will not require the `-K` flag).
+
+3. Proceed to the instructions below to access the SOCKS proxy.
     * If your key doesn't seem to be working, ask for help in the [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) Slack channel
 
 
-#### Accessing SOCKS proxy from VA network
+#### Accessing SOCKS proxy _from VA network_
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from the VA network - see [Line 34 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L34).
 
@@ -180,11 +200,11 @@ The `~/.ssh/config` file on your local system contains configuration to access t
 
    `ssh socks-va -D 2001 -N &`
    
-   **Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command.
+> **Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
 
 1. Follow the instructions below to test and use the SOCKS proxy.
 
-#### Accessing SOCKS proxy from the internet
+#### Accessing SOCKS proxy _from the internet_
 
 The `~/.ssh/config` file on your local system contains configuration to access the SOCKS proxy from outside the VA network - see [Line 28 here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config#L28).
 
@@ -192,14 +212,14 @@ The `~/.ssh/config` file on your local system contains configuration to access t
    
    `ssh socks -D 2001 -N &`
    
-   **Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command.
+>**Note:** The first time you connect to the jumpbox, SSH will prompt to ask if you are sure you want to connect to a new host. You will be unable to respond "yes" if SSH is in the background, so either bring it to the foreground with `fg` or omit the `&` character from the above command. You will have to enter "yes" at the prompt for the first / initial connection.
 
 1. Follow the instructions below to test and use the SOCKS proxy.
 
 
 ## Test and use the SOCKS proxy
 
-Use the following steps to verify that the proxy connection is working, and to configure your browser to use the proxy connection. Note that the proxy only allows access to our internal tools, not to the internet at large. So you need to configure your browser to either use the proxy only for the `vetsgov-internal` and `vfs.va.gov` domains (as described below for Chrome), enable/disable the proxy connection as needed, or use a separate browser for accessing the internal tools vs. for general use.
+Use the following steps to verify that the proxy connection is working, and to configure your browser to use the proxy connection. Note that the proxy only allows access to our internal tools, not to the internet at large. So you need to configure your browser to either use the proxy only for `vfs.va.gov` domain (as described below for Chrome), enable/disable the proxy connection as needed, or use a separate browser for accessing the internal tools vs. for general use.
 
 ### Curl
 
@@ -213,7 +233,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Install Proxy SwitchyOmega.
 
-   - [Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+   - [Chrome](https://chrome.google.com/webstore/detail/proxy-switchyomega/switchy-omega-config-2.PNG)
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)
 
 1. Configure the `proxy` profile like this:
@@ -224,8 +244,7 @@ You should get output that includes `HTTP/1.1 302 FOUND`. If not, check that the
 
 1. Configure the `auto switch` profile like this:
 
-   ![](images/switchy-omega-config-2.png)
-   - Condition details: `*.vetsgov-internal`
+   ![](images/switchy-omega-config-2.PNG)
    - Condition details: `*.vfs.va.gov`
 
 1. In Chrome's menu bar, click on the proxy app and change the setting to "auto switch":
@@ -247,16 +266,16 @@ An alternative to SwitchyOmega is to use [the `socks` script](https://github.com
 
 ### Jenkins
 
-With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You can see the builds without logging in but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
+With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You will be prompted to authenticate with GitHub before being able to view jobs. 
 
 ### Sentry
 
-With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. You can signin in using your GitHub account by clicking the "GitHub" button on the login page. Once logged in, you can add yourself to the appropriate teams.
+With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. You will be prompted to authenticate with GitHub. Once logged in, you can add yourself to the appropriate teams.
 
-We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/
+We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/.
 
 ### Grafana
-With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "GitHub" button on the login page.
+With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "Sign in with GitHub" button on the login page.
 
 There are many dashboards and you should click around to get familiar with the variety of metrics being collected and visualized (make sure Data Source is set to Production). A few highlights are:
 
@@ -265,30 +284,32 @@ There are many dashboards and you should click around to get familiar with the v
 - [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics. 
 - [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) to see metrics on the reverse proxies. 
 
+## Troubleshooting
+If you are confident you have been through this guide and completed all steps as instructed within this documentation and things are still not working, please continue to the FAQs below. If you go through those and you are still unable to establish a connection to the SOCKS proxy and/or view our internal tools, please reach out in the [#vfs-platform-support](https://app.slack.com/client/T03FECE8V/CBU0KDSB1) Slack channel.
 
 ## FAQs
 
 #### "Permission denied - public key" error when pushing to Github
 
 1. Has your public SSH key been added to the list of authorized SSH keys? 
-    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, [follow the process above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) to add it.
-    * **VFS teams** - You will receive a Github notification once your key has been added to the authorized list. If it's been more than 72 hours, check with your DSVA contact.
+    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, follow [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/doc/update_internal_tools_documentation/platform/working-with-vsp/orientation/request-access-to-tools.md#2-request-that-your-ssh-keys-be-authorized-so-that-you-can-use-the-developer-tools-such-as-jenkins-grafana-and-sentry) to have it added.
+    * **VFS teams** - a member of the Operations team will comment on your environment access request once your key has been added to the authorized list. If it's been more than 72 hours, reach out in the #vsp-platform-support Slack channel for assistance.
 1. Does your .ssh/config contain the correct content?
-    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
-    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network)
+    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet)
 1. Have you added your private key to your local SSH agent?
-    * Run ```ssh-add -K ~/.ssh/id_rsa_vetsgov```
-1. Are you running the correct command for ```sock``` vs ```sock-va``` depending on whether you are on or off the VA network?
-    * [Within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
-    * [Outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * Run ```ssh-add -K ~/.ssh/id_rsa_vagov``` for Mac or ```ssh-add ~/.ssh/id_rsa_vagov``` for Windows, respectively
+1. Are you running the correct command for ```socks``` vs ```socks-va``` depending on whether you are on or off the VA network?
+    * [Within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network)
+    * [Outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet)
     
 
-#### ```ssh sock -D 2001 -N``` failing
+#### ```ssh socks -D 2001 -N``` failing
 
 1. **Platform team** - Does your ```.ssh/config``` contain the right content?
     * **Platform team** - [see here](https://github.com/department-of-veterans-affairs/devops/blob/master/ssh/config) 
     * **VFS teams** - see [Step #2 here](#configure-the-socks-proxy)
-2.  Is your SSH private key added to your local SSH agent? To add it run ```ssh-add -K ~/.ssh/id_rsa_vetsgov```
+2.  Is your SSH private key added to your local SSH agent? To add it run ```ssh-add -K ~/.ssh/id_rsa_vagov```
 
 
 #### Page not loading on the vfs.va.gov domain

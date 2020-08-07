@@ -2,12 +2,12 @@
 Hello! In this folder, you'll find information specific to how Infrastructure/Devops Engineering works on VA.gov. 
 
 ### Communication channels
-- Slack channels: [#vetsgov-devops](https://dsva.slack.com/channels/vetsgov-devops), [#vsp-operations](https://dsva.slack.com/channels/vsp-operations)
+- Slack channels: [#vsp-operations](https://dsva.slack.com/channels/vsp-operations), [#vfs-platform-support](https://app.slack.com/client/T03FECE8V/CBU0KDSB1)
 - Github labels: [operations](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations&repos=133843125)
 
 ### Points of contact
 The Infrastructure points of contact are:  
-- [Wyatt Walter], @wyattwalter on Slack, [@wyattwalter](https://github.com/wyattwalter) on Github
+- [Demian Ginther], @Demian Ginther on Slack, [@dginther](https://github.com/dginther) on Github
 - [Andrew Gunsch], @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
 
 ### Table of contents
