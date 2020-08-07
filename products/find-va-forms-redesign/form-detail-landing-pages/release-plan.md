@@ -95,7 +95,7 @@ This product does not need a staged rollout, per above criteria, but we have dec
 
 _The stages and number of users below are provided as example values recommended by VSP, but can be customized to your team's needs._
 
-### Stage A: Canary (Batch 1 - mvp top form pages)
+### Stage A: Canary (Batch 1 - mvp top form pages) [#11155](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11155)
 
 _Test a small population of users to make sure any obvious bugs / edge cases are caught._
 
@@ -115,7 +115,7 @@ _Test a small population of users to make sure any obvious bugs / edge cases are
 - Types of errors logged: 
 - What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
 
-### Stage B: moderate (Batch 2 - MVP non-top forms)
+### Stage B: moderate (Batch 2 - MVP non-top forms) [#12213](https://github.com/department-of-veterans-affairs/va.gov-team/issues/12213)
 
 ~~_Test a larger population of users to make sure there are no issues exposed by larger usage patterns._~~ 
 
