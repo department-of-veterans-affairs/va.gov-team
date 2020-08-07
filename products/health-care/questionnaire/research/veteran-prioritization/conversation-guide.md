@@ -48,12 +48,13 @@ I have some categories listed here. Go ahead and drag an item from the left and 
 
 ## Topic: Sort within categories - 10 Minutes
 
-Now that all of the topics are sorted, let's look at each category and sort one more time. Let's start with the least important column and move to the others from there.
+Now that all of the topics are sorted, let's look at the first category and sort one more time based on importance.
 
 Go ahead and click the "finish" button in the top right of the screen.
 
 **Questions to consider**
 - Talk me through why you chose this topic
+- Which topics/questions do you find most beneficial to your healthcare experience?
 - What does this topic mean in your words?
 - What has your experience been with this question/topic in your appointments?
 
