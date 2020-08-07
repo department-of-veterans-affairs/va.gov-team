@@ -1,5 +1,5 @@
-# Research plan for usability testing for Form 21-686c / staging environment
-**VSA eBenefits Team | May-June 2020**
+# Research plan for usability testing for View Payment History
+**VSA eBenefits Team | August 2020**
 
 `James Adams, designer/researcher`
 
