@@ -25,9 +25,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 ---
 
-## Request
-
-### Background
+## Background
 *Provide a background of your tool/functionality.*
 
 * **Is the request related to a VA.gov tool? Provide a brief description of the tool or functionality:**  
@@ -35,8 +33,9 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 * **Provide links to any available collateral: product briefs/outlines, wireframes, prototypes, user research synthesis:** 
    * < links to collateral >
 
+---
 
-### Request Type
+## Request Type
 *Select all applicable and provide details behind your request* 
 
 - [ ] **Content support for authenticated app/tool.** Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer. In addition to the generic information above, please share:
@@ -53,9 +52,9 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
      - < y/n >
    * **Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.):**  
      - < y/n >
-   * Provide a list of URL/s that need to be reviewed or updated. 
+   * **Provide a list of URL/s that need to be reviewed or updated.** 
       * < URL list >
-   * If it's a small copy section, list what the new info should be and what it is replacing.
+   * **If it's a small copy section, list what the new info should be and what it is replacing.**
       * < list of new info >
 
 
@@ -64,8 +63,6 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
      - < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
    * **Link to VSP IA Redirect Request ticket:** 
      - < Github issue link >
-      
-
    
 - [ ] **Implementation of REACT sign in widgets**
    * **Full spec including different states and behaviors:** 
@@ -82,6 +79,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 * <Desired/target implementation date>
 
+---
 
 ### Requestor info
 *Indicate what team and who the primary contacts are on your team* 
