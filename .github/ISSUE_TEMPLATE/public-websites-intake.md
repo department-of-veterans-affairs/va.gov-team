@@ -11,7 +11,8 @@ assignees: lunascoop, DanielleThierryUSDSVA
 - Content support for authenticated application or tools
 - For specific copy editing tasks
 - Support for redirects that have **first been vetted by the VSP IA team**
-- Engineering support for implementation of REACT sign in widgets
+- Engineering support for implementation of REACT sign in widgets 
+
 
 ## Steps to complete intake request
 - [ ] Submit this request when VSA Public Website team intervention is required
@@ -39,19 +40,14 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 *Select all applicable and provide details behind your request* 
 
 - [ ] **Content support for authenticated app/tool.** Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer. In addition to the generic information above, please share:
-   * Word document with draft if available, or link to the URL where the draft content appears:
-      * < link > 
-   * Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
-      * < design context >
-   * Scope: How many screens? (Or messages, etc.) 
-      * < scope > 
+   * **Word document with draft if available, or link to the URL where the draft content appears:** < link > 
+   * **Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?):** < design context >
+   * **Scope: How many screens? (Or messages, etc.):** < scope > 
       
       
 - [ ] **Content support for a static public website page**
-   * Is this to update existing static content? 
-      * < y/n >
-   * Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
-      * < y/n >
+   * **Is this to update existing static content?** < y/n >
+   * **Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.):**  < y/n >
    * Provide a list of URL/s that need to be reviewed or updated. 
       * < URL list >
    * If it's a small copy section, list what the new info should be and what it is replacing.
@@ -59,16 +55,14 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 
 - [ ] **New URL or Redirect Requests**
-   * Have you vetted this request by the VSP IA team?
-      * < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
-   * Link to VSP IA Redirect Request ticket
-      * < Github issue link >
+   * **Have you vetted this request by the VSP IA team?:** < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
+   * **Link to VSP IA Redirect Request ticket:** < Github issue link >
       
 
    
 - [ ] **Implementation of REACT sign in widgets**
-   * Full spec including different states and behaviors
-      * < link to spec >
+   * **Full spec including different states and behaviors:** < link to spec >
+   * **Flipper unique id:** < unique id >
      
 - [ ] **Other**
    * Please describe in detail
