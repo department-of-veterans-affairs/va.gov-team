@@ -79,8 +79,7 @@ Engagement
 ---
 # Architecture
 
-
-![Find VA Forms Architecture](/find-va-forms-redesign/findvaform-q3-arch.png )
+ <img src="./find-va-forms-redesign/findvaform-q3-arch.png" alt="Find VA Forms Architecture"  width="50%"> 
 
 ---
 # Status and decisions:
