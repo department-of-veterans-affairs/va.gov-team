@@ -77,7 +77,10 @@ Engagement
 - *What is your date for when you'll evaluate impact after launch?*
 
 ---
+# Architecture
 
+
+![Find VA Forms Architecture](/find-va-forms-redesign/findvaform-q3-arch.png )
 
 ---
 # Status and decisions:
