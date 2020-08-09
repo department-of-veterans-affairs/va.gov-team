@@ -58,7 +58,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
    * **If it's a small copy section, list what the new info should be and what it is replacing.**
       * < list of new info >
 
-### Frontend Engineering
+### Frontend  
 - [ ] **New URL or Redirect Requests**
    * **Have you vetted this request by the VSP IA team?:** 
      - < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
