@@ -16,6 +16,7 @@
   - [Creating an API Wrapper in the VA API](#creating-an-api-wrapper-in-the-va-api)
   - [CMS Integration](#cms-integration)
   - [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
+  - [VEText Integration](#vetext-integration)
   - [VA Gov research using vets-web frontend](#va-gov-research-using-vets-web-frontend)
 
 ## Problem Statement
