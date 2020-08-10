@@ -176,6 +176,42 @@ Remember that previously mentioned “ambiguity”?
 - Section 508 is based on WCAG 2.0, and was not created with mobile in mind, so the criteria is insufficient to address mobile design use cases.
 - WCAG 2.1 prioritizes mobile success criteria, and improves the quality of mobile UX.
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/compliant-accessible-beyond.png" alt="" aria-hidden="true" role="presentation" />
+
+1. **Section 508** = WCAG 2.0 — success criteria for: blindness, deafness, and keyboard usage
+1. **WCAG 2.1** - adds mobile & cognition success criteria; More people can use on mobile; improves comprehension through plain language & other success criteria
+1. **Inclusive Design** – accessible for all, not just people w/ disabilities; Enhances UX through improved data access and web performance: More users!
+1. **Usability** - overall ease of use - Product is highly usable and accessible: business + user goals attained
+
+#### Accessibility Guidelines Release Dates
+
+1. WCAG 2.0 was released in 2008.
+1. Section 508 adopted WCAG 2.0 in 2017.
+1. WCAG 2.1 was released in 2018, it adds considerations for mobile design and cognitive considerations.
+1. WCAG 3.0 is being drafted now, and the final is expected in 2022.
+Work began late 2016, Candidate Recommendation (approved first draft) expected late 2021, final guidelines expected to launch in late 2022.
+1. The Access Board (who oversees Section 508) has indicated they will wait to update Section 508 when WCAG 3.0 (a.k.a. Silver) is released.
+
 <blockquote>What do you think makes sense for us to support on VA.gov?</blockquote>
 
+### Authority to Operate (ATO)
 
+The DSVA ATO requires:
+- All code which is committed and deployed passes a required set of integrated tests before the code is launched. The ATO lists Deque’s axe integrated test as the preference, as it includes the 508 required rule set.
+- The ATO acknowledges some issues are unable to be identified by automated tests alone; manual reviews using accessibility software are important to fully confirm the software is accessible. 
+- Digital Service will perform a series of manual checks that have been supplied by the 508 office using accessibility software.
+
+### Severity of issues
+
+- If you have a 508-defect-0, 508-defect-1, 508-defect-2, or 508-defect-3 issues your product is not fully compliant.
+- If you have 508-defect-4 issues, you have opportunities for improving the user experience and accessibility beyond compliance.
+Find the rubric in the [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md). 
+
+## Resources
+
+- [WCAG Checklist available on the VA Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md), to understand success criteria
+- A customizable [How to Meet WCAG, Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) from the W3C is useful to understand how to meet the success criteria
+- Resources in the [VA Accessibility repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility), and your individual team’s accessibility repo
+- #vetsgov-accessibility Slack channel
+- Elissa Olinsky’s [Accessibility Beyond Compliance blogpost](https://adhoc.team/2020/02/07/accessibility-beyond-compliance/), also available in the [VSA accessibility repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-beyond-compliance.md)
+- Accessibility review tool for design and development [Google Sheet](https://docs.google.com/spreadsheets/d/1xHwdyQAwbsAnD5pTHGaMxpS9XfdbBVcVVTvulgWI7dw/edit#gid=2089055656)
