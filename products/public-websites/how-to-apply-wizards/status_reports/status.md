@@ -4,12 +4,17 @@
 - Collaboration Cycle [Project Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116450) held on Friday, August 7th with Liz, Mickin, Leah, Luke, Jason and Matt.   
 - Meeting highlights:
   - All agreed that each Wizard (Education, Disability, HLR and Personal Career Counseling) should separately go the collab cycle
-  - For Education, which is fully developed and feature flagged in staging, all agreed to the following cycle touchpoints:
+  - For Education, which is fully developed and feature flagged in staging, all agreed to the following cycle touchpoints, with Leah Keeler taking the lead:
       - IA (Mikki), with recommended changes for linking and content anticipated
       - Content (Peggy), additional content changes are possible to support the new location of the Wizard with Public Websites team involved
+      - Accessibility (Jen), recommended changes are expected (Jen says some refinements are long overdue) -- but the team may prioritize these in the backlog as opposed to slow the launch.
       - Analytics (Jon/Brian), will want to determine if the product funnel analysis will need to be refined
       - Q-A (Tze), will conduct testing
-      
+  - Per Luke W., dev work on the HLR and Disability Wizards is now slated for BAM 1's next sprint. He believes doing the work in tandem by his dev team makes most sense (vs. moving one of the Wizards to BAM 2 or Public Websites).   Luke does say he may need some design guidance via Liz on his team's implementation.
+  - Per Jason W., the new Chapter 31/36 will also feature a Wizard that is in progress.   This page needs to be live by October 1, so his team -- while following many of the same conventions -- will continue speeding ahead. 
+- Next steps for the Education/BAM 2 team:
+  - Leah is creating all the needed tickets and is expecting the resulting reviews/change requests to delay launch by 1-2 sprints.
+  
 ### 7/31 Status Meeting with Wizard Product/Development Leads
 ** Participants:
 - John Hashimoto (Public Websites)
