@@ -42,7 +42,7 @@ When your code is reviewed, here are some of the things we're looking for:
     * reference the **GitHub issues** your PR relates to, in order to provide reviewers more context.
 
 * Keep your changes scoped to one feature at a time.
-    * **Size**: changes should be smaller than a few hundred changed lines and a couple dozen files. Our automated tools will warn you about PRs that are large and automatically fail PRs that are very large. Our FAQ (below) has more information, but if you expect to submit a large pull request you should reach out to the reviewing team early and factor extra time for review into your planning process.
+    * **Size**: changes should be smaller than a few hundred changed lines and a couple dozen files. Our automated tools will warn you about PRs that are large and automatically fail PRs that are very large. Our FAQ (below) has more information, but if you expect to submit a large pull request you should reach out to the reviewing team early in [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) and factor extra time for review into your planning process.
     * **One thing at a time**: feature code, cleanup/refactoring changes, dependency/package upgrades, and database migrations should all be in **separate PRs**. As much as possible, each PR should address a single feature or bug at a time.
 
 * **Linting**: format your code in accordance with style guidelines.
