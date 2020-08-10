@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "8a4885896a22f88f016a2c8834b1005d",
+      "type": "cc_appointments",
+      "attributes": {
+        "appointmentRequestId": "8a4885896a22f88f016a2c8834b1005d",
+        "distanceEligibleConfirmed": true,
+        "name": { "firstName": "", "lastName": "" },
+        "providerPractice": "Atlantic Medical Care",
+        "providerPhone": "(407) 555-1212",
+        "address": {
+          "street": "123 Main Street",
+          "city": "Orlando",
+          "state": "FL",
+          "zipCode": "32826"
+        },
+        "instructionsToVeteran": "Please arrive 15 minutes ahead of appointment.",
+        "appointmentTime": "09/25/2020 03:45:00",
+        "timeZone": "+08:00 WITA"
+      }
+    },
+    
+    ..
+    ]
+ }
+  
