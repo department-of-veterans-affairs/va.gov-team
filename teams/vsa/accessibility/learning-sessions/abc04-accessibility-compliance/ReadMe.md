@@ -83,6 +83,14 @@ HT to Mickin for introducing it! https://medium.com/@jackiebo/do-try-consider-ho
 
 ### Combined with WCAG success criteria language
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/wcag-must-should.png" alt="WCAG success criteria language of Must and Should" />
 
+WCAG 2.0 AA uses:
+- Must: Required
+- Should: Strongly recommended
+- May: Optional or conditionally recommended
 
+### Why Does WCAG use Must and Should?
+
+Key words for use in Request for Comments (RFC) to indicate requirement levels, from Harvard University, provided by Deque: https://tools.ietf.org/html/rfc2119 
 
