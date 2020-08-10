@@ -3,7 +3,7 @@
 August 2020
 - 8/25 - TBD
 - 8/18 - TBD
-- 8/11 - TBD
+- [8/11](https://drive.google.com/file/d/1fpk_SdsZ_t-2L94p_ew2GVb93v1GKtzX/view?usp=sharing)
 - [8/4](https://drive.google.com/file/d/1wa0av_riHEbdGTBo4ya6-2XDpPx4_XAz/view?usp=sharing)
 
 July 2020
