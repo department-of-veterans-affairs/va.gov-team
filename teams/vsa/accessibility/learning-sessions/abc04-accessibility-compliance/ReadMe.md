@@ -120,3 +120,31 @@ Find the [rubric in the va.gov-team repo](https://github.com/department-of-veter
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc04-accessibility-compliance/feedback-in-prs.png" alt="feedback in PRs" />
 
+## Avoiding ! launch blocker surprises
+
+<blockquote>What can you can do to make sure there are no high severity compliance issues that you are unaware of until you’re wanting to launch?</blockquote>
+
+### VSP Collaboration Cycle
+
+The VSP Collaboration Cycle is intended to ensure teams building on VA.gov align with established standards, including accessibility.
+
+### Accessibility spot checks early on 
+
+Plan to collaborate with your accessibility specialist and perform accessibility spot checks throughout phases of your work. Issues can be identified and remediated during planning, research, design, as well as development.
+- Measure accessibility, set KPIs
+- Include people with disabilities in research
+- Early design collaboration with your a11y specialist
+- Consider a design-dev intent check in with your a11y specialist before starting a build (ping Jennifer for VSA or Trevor for other contracts)
+- If you’re interested in using screen readers to test your work, reach out to your accessibility specialist for support with NVDA and VoiceOver
+
+### VSP Collaboration Cycle
+
+Accessibility is included in the following collaboration points:
+- **Project Kickoff** — may provide accessibility and inclusive design considerations, or relevant previous work
+- **Design Intent Collaboration** — review team’s design intentions for potential accessibility issues or considerations
+- **Usability Testing Prep** — review design and/or research plan materials for accessibility issues or considerations
+- **Staging Review** — conduct a series of automated and manual accessibility audits to ensure compliance before launch
+- **Full Accessibility and 508 Office Audit** — complete a full accessibility audit after launch, identify outstanding accessibility concerns, coordinate with VA 508 Office for feedback and approval
+
+## Contractual obligations
+
