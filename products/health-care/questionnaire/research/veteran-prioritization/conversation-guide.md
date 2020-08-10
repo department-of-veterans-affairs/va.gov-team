@@ -32,13 +32,13 @@ I'm going to send you a link in the chat. Once the link pulls up, will you share
 
 [CARD SORT LINK](https://adhoc.optimalworkshop.com/optimalsort/j2b7m7j5) (please do not use if you are not conducting)
 
-Before we begin, I want to give you some context for this exercise. Think about the questions you are asked before, during, and after your appointments at the VA. Let's say that you are able answer some of these questions ahead your visit through filling out a form. We will show you a set of topics and we'd like to know which of these topics, if any, would make sense for you to take the time to fill out ahead of time, instead of during the appointment.  
+Before we begin, I want to give you some context for this exercise. Think about the questions you are asked before, during, and after your appointments at the VA. Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care.
 
-Take a look at the items on the left side of the screen. We are going to do a sorting exercise so that I can understand which questions/topics would be most valuable to you and your care.
+1. Will you sort these in order of importance to you and your healthcare experience?
 
-Will you sort these in order of importance?
+Let's say that you are able answer some of these questions ahead your visit through filling out a form. We will show you a set of topics and we'd like to know which of these topics, if any, would make sense for you to take the time to fill out ahead of time, instead of during the appointment.  
 
-I have some categories listed here. Go ahead and drag an item from the left and drop it into a category. If you have questions or need clarification, feel free to ask me as you move through the exercise.
+2. Great, now go ahead and drag an item from the left and drop it into a category. If you have questions or need clarification, feel free to ask me as you move through the exercise.
 
 
 ### Things to listen for:
@@ -75,6 +75,7 @@ Let's say that you just made an appointment and received a link to this form via
 - What are your first impressions of this page?
 - Is there any other information we should include here?
 - Do the labels make sense to you?
+- How would you answer these questions?
 - What do you think these mean?
 - Is this information valuable for you to fill out before an appointment?
 - Have you filled out forms online before?
@@ -83,6 +84,7 @@ Let's say that you just made an appointment and received a link to this form via
 ### Things to listen for:
 
 - _Take note of where a Veteran would want to find these forms_
+- _Does the Veteran understand what the questions are asking?_
 - _Initial impressions of filling out health information on VA.gov_
 
 ## Follow-up questions - 5 minutes
