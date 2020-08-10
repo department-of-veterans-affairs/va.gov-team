@@ -41,7 +41,9 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 |DSVA Product Manager   |Steve Kovacs                        |
 |Team Product Manager   |Jason Wolf                          |
 |Back End Engineer      |Kathleen Crawford                   |
+|Back End Engineer      |Derek Dyer                          |
 |Front End Engineer     |Micah Chiang                        |
+|Front End Engineer     |Jesse Cohn                          |
 |Design Researcher      |James Adams                         |
 
 ### **Workflow + Cadence**
